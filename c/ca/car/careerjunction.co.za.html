@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the careerjunction.co.za privacy policy that was archived on 2003-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030605122608id_/http%3A//www.careerjunction.co.za/legal/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the careerjunction.co.za privacy policy that was archived on 2003-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031212002114id_/http%3A//www.careerjunction.co.za/legal/privacy.asp) for the most accurate reproduction.-->
 
-<html><head>
-<meta http-equiv="Content-Type" content="text/html; CHARSET=iso-8859-1">
+<html><head><meta http-equiv="Content-Type" content="text/html; CHARSET=iso-8859-1">
 <meta name="keywords" content="Jobs, Careers, Job Search, Job Alert, CV, Curriculum Vitae, Resume, Job Seeker, Candidate, Recruiter, Employer, Placement Agent, South Africa, Career Seekers, CareerSeekers, Career Junction, CareerJunction, Jobs South Africa, South Africa Jobs, South African Jobs, South Africa Careers, Careers South Africa, South African Careers"><meta name="description" content="CareerSeekers can submit their resume, search jobs and create alerts to receive jobs via email. Subscribing Recruiters can post jobs, search resumes and create alerts to receive resumes via email. Recruiters can also link our site to theirs, maintaining their Private Label.">
+
 <title>
 CareerJunction
 </title>
@@ -31,47 +31,24 @@ if (cookie.indexOf('foo') == -1)
 	}
 }
 
-function checkNonCJ()
-{
-	try
-	{
-		if (window.parent.frames.length > 0)
-		{
-			var strHostName = window.parent.location.hostname + "";
-			var re=/\.careerjunction\./;
-			var r = strHostName.match(re);
-			if (r == null)	{ window.location.href ='http://www.careerjunction.co.za/error/invalidipfrm.asp';}
-			return;
-		}
-	 }
-		catch(error)
-		{
-			if (error.number  == -2146828218) //Permission Denied - frame doesn't reside on our server/zone
-				window.location.href ='http://www.careerjunction.co.za/error/invalidipfrm.asp';
-			else
-				return;
-		}
-}
-
 function setFocusOnLoad()
 {
 	try
 	{
-		var i = 0;
-		for(i = 0;  i < document.forms[0].elements.length; i++)
+		var i = 0; 
+		for(i = 0;  i < document.forms[0].elements.length; i++) 
 		{
-			if (document.forms[0].elements[i].type != 'hidden' &&
-	                    document.forms[0].elements[i].type != 'checkbox' &&
-        	            document.forms[0].elements[i].type != 'radio')
+			if (document.forms[0].elements[i].type != 'hidden' && 
+	                  document.forms[0].elements[i].type != 'checkbox' && 
+        	           document.forms[0].elements[i].type != 'radio' &&
+        	           url != '/' && url != '/careerseekers/default.asp' && url != '/careerseekers/' && url != '/rec/my/job/jobfrm2.asp') 
 			{
-				document.forms[0].elements[i].focus();
+				document.forms[0].elements[i].focus(); 
 				return;
-			}
-
+			} 
 		}
-
-	 }
-		catch(error)
+	 }	
+		catch(error) 
 		{
 			return;
 		}
@@ -83,32 +60,32 @@ body
 {
 	margin:0px 0px 0px 0px;
 	background-color:#ffffff;
-
+	
 	background:url('/images/1/skin.gif');
-
+	
 }
-tr.menu
-   {
+tr.menu 
+   { 
    background-color:#cccccc;
-   }
-tr.lite
-   {
+   } 
+tr.lite 
+   { 
    background-color:#eeeeee;
-   }
-tr.body
-   {
+   } 
+tr.body 
+   { 
    background-color:#eeeeee;
-   }
-tr.dark
-   {
+   } 
+tr.dark 
+   { 
    background-color:#cccccc;
-   }
-tr.head
-   {
+   } 
+tr.head 
+   { 
    background-color:#cccccc;
-   }
-td
-   {
+   } 
+td 
+   { 
    font-family:Verdana,Arial,Helvetica;
    font-size:11px;
    color:#333333;
@@ -116,79 +93,85 @@ td
 td.divider
    {
    border-bottom:1px solid #ffffff;
-   }
+   } 
+td.line
+   {
+   border-bottom:1px solid #ffffff;
+   } 
 td.rule
    {
    border-bottom:1px solid #ffffff;
-   }
-small
-   {
+   } 
+small 
+   { 
    font-size:11px;
-   }
-big
-   {
+   } 
+big 
+   { 
    font-size:13px;
-   font-weight:bold;
-   }
-b
-   {
-   font-weight:bold;
-   }
-i
-   {
-   font-style:normal;
+   font-weight:bold; 
+   } 
+b 
+   { 
+   font-weight:bold; 
+   } 
+i 
+   { 
+   font-style:normal; 
+   color:#ff6600; 
+   } 
+a:link 
+   { 
+   color:#3333cc;
+   } 
+a:active 
+   { 
+   color:#3333cc;
+   } 
+a:visited 
+   { 
+   color:#3333cc;
+   } 
+a:hover 
+   { 
    color:#ff6600;
-   }
-a:link
-   {
-   color:#3333cc;
-   }
-a:active
-   {
-   color:#3333cc;
-   }
-a:visited
-   {
-   color:#3333cc;
-   }
-a:hover
-   {
-   color:#ff6600;
-   }
-var
-   {
-   font-style:normal;
+   } 
+var 
+   { 
+   font-style:normal; 
    background-color:#ffff99;
    }
-kbd
-   {
-   font-family:Monospace;
-   font-size:12px;
+kbd 
+   { 
+   font-family:Monospace; 
+   font-size:12px; 
    color:#333333;
-   }
-input
-   {
-   font-family:Monospace;
-   font-size:12px;
+   } 
+input 
+   { 
+   font-family:Monospace; 
+   font-size:12px; 
    color:#333333;
-   }
-textarea
-   {
-   font-family:Monospace;
-   font-size:12px;
+   } 
+textarea 
+   { 
+   font-family:Monospace; 
+   font-size:12px; 
    color:#333333;
-   }
-select
-   {
-   font-family:Monospace;
-   font-size:12px;
+   } 
+select 
+   { 
+   font-family:Monospace; 
+   font-size:12px; 
    color:#333333;
-   }
+   } 
 
 </style>
 </head>
 <body marginwidth="0" marginheight="0" onload="JavaScript: setFocusOnLoad();">
-<table width="588" border="0" cellspacing="12" cellpadding="0" align="center" bgcolor="#ffffff"><tbody><tr><td colspan="5"><table width="100%" border="0" cellspacing="0" cellpadding="3"><tbody><tr class="menu"><td><small>Legal</small></td><td align="right"><small><a href="javascript:window.close();">Close Window</a></small></td></tr></tbody></table></td></tr><tr><td colspan="5"><big>Privacy Statement</big></td></tr><tr><td colspan="5"><img width="588" height="1" border="0" src="/images/1.gif"></td></tr><tr>
+<noscript>
+<img src="//secure-uk.imrworldwide.com/cgi-bin/m?ci=za-careerjunction&amp;cg=careerjunction-privacy-statement" alt="">
+</noscript><table width="588" border="0" cellspacing="12" cellpadding="0" align="center" bgcolor="#ffffff"><tbody><tr><td colspan="5"><table width="100%" border="0" cellspacing="0" cellpadding="3"><tbody><tr class="menu"><td><small>Legal</small></td><td align="right"><small><a href="javascript:window.close();">Close Window</a></small></td></tr></tbody></table></td></tr><tr><td colspan="5"><big>Privacy Statement</big></td></tr><tr><td colspan="5"><img width="588" height="1" border="0" src="/img/1.gif"></td></tr><tr>
 <td valign="top" colspan="5">
 <p><big>CareerJunction (last updated 30/05/2002)</big><br><small></small></p><p><small><a name="top"><b>Index</b></a></small></p><small>
 
@@ -314,21 +297,30 @@ select
 <p>If we decide to change our privacy policy, we will publish those changes so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.</p></small><p></p>
 </td>
 </tr>
-<tr>
-	<td colspan="5"><img width="588" height="1" border="0" src="/images/1.gif"></td>
-</tr>
-<tr>
-	<td colspan="5"><small>Powered by CareerJunction. Copyright ©1997-2003, all rights reserved.<br>
-	<a target="Terms" href="/legal/terms.asp">Terms &amp; Conditions</a> | <a href="/legal/privacy.asp" target="Privacy">Privacy Statement</a> | <a href="/public/pdf/accesstoinformationmanual.pdf" target="Access">Access to Information Manual</a>
-	<br></small></td>
-</tr>
-<tr>
-	<td><img width="108" height="1" border="0" src="/images/0.gif"></td>
-	<td><img width="108" height="1" border="0" src="/images/0.gif"></td>
-	<td><img width="108" height="1" border="0" src="/images/0.gif"></td>
-	<td><img width="108" height="1" border="0" src="/images/0.gif"></td>
-	<td><img width="108" height="1" border="0" src="/images/0.gif"></td>
-</tr></tbody></table>
+<!-- START RedSheriff Measurement V5.01 -->
+<!-- COPYRIGHT 2002 RedSheriff Limited -->
+<script language="JavaScript" type="text/javascript"><!--
+  var _rsCI='za-careerjunction';
+  var _rsCG='careerjunction-privacy-statement';
+  var _rsDT=1;
+  var _rsSI=escape(window.location);
+  var _rsLP=location.protocol.indexOf('https')>-1?'https:':'http:';
+  var _rsRP=escape(document.referrer);
+  var _rsND=_rsLP+'//secure-uk.imrworldwide.com/';
+  if (parseInt(navigator.appVersion)>=4) {
+    var _rsRD=(new Date()).getTime();
+    var _rsSE=0;
+    var _rsSV='';
+    var _rsSM=0.1;
+    _rsCL='<scr'+'ipt language="JavaScript" type="text/javascript" src="'+_rsND+'v5.js"></scr'+'ipt>';
+  } else {
+    _rsCL='<img src="'+_rsND+'cgi-bin/m?ci='+_rsCI+'&cg='+_rsCG+'&si='+_rsSI+'&rp='+_rsRP+'">';
+  }
+  document.write(_rsCL);
+//--></script><script language="JavaScript" type="text/javascript" src="https://secure-uk.imrworldwide.com/v5.js"></script>
+
+<!-- END RedSheriff Measurement V5 -->
+<tr><td colspan="5"><img width="588" height="1" border="0" src="/img/1.gif"></td></tr><tr><td colspan="5"><small>Powered by CareerJunction. Copyright ©1997-2003, all rights reserved.<br><a target="Info" href="/legal/info.asp" title="Company Info">Company Info</a> | <a target="Terms" href="/legal/terms.asp" title="Terms &amp; Conditions">Terms &amp; Conditions</a> | <a href="/public/pdf/accesstoinformationmanual.pdf" target="Access" title="Access to Information Manual">Access to Information Manual</a><br></small></td></tr><tr><td><img width="108" height="1" border="0" src="/img/0.gif"></td><td><img width="108" height="1" border="0" src="/img/0.gif"></td><td><img width="108" height="1" border="0" src="/img/0.gif"></td><td><img width="108" height="1" border="0" src="/img/0.gif"></td><td><img width="108" height="1" border="0" src="/img/0.gif"></td></tr></tbody></table>
 <!-- begin of skin foot -->
 			
 		
