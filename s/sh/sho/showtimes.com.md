@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showtimes.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207234418id_/http%3A//www.hollywood.com/about_us/info/id/468709) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showtimes.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604075748id_/http%3A//www.hollywood.com/about_us/info/id/468709) for the most accurate reproduction.*
 
 # 
 
@@ -36,10 +36,10 @@ Our site provides users the opportunity to opt-out of receiving communications f
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
   1. Users can send email to [webmarshall@boca.hollywood.com](mailto:webmarshall@boca.hollywood.com)
-  2. Users can visit the following URL: [http://reg1.hollywood.com](http://reg1.hollywood.com/)
+  2. Users can visit the following URL: [http://www.hollywood.com/newsletter/newsletter _unsubscribe.asp](http://www.hollywood.com/newsletter/newsletter_unsubscribe.asp)
   3. Users can send mail to the following postal address:   
 2255 Glades Road   
-Suite 237W   
+Suite 219A   
 Boca Raton, FL 33431 
   4. Users can call the following telephone number: (561) 998-8000 
 
@@ -50,7 +50,7 @@ This site gives users the following options for changing and modifying informati
   2. Users can visit [http://reg1.hollywood.com](http://reg1.hollywood.com/)
   3. Users can send mail to the following postal address:   
 2255 Glades Road   
-Suite 237W   
+Suite 219A   
 Boca Raton, FL 33431 
   4. Call the following telephone number: (561) 998-8000 
 
@@ -60,6 +60,6 @@ This policy may change from time to time so please check back periodically.
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact:   
 Hollywood.com, Inc.  
 2255 Glades Road  
-Suite 237W  
+Suite 219A  
 Boca Raton, FL 33431  
 or email us at [webmarshall@boca.hollywood.com](mailto:webmarshall@boca.hollywood.com)
