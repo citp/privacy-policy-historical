@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the vtac.edu.au privacy policy that was archived on 2003-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031210144728id_/http%3A//www.vtac.edu.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vtac.edu.au privacy policy that was archived on 2004-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040405144732id_/http%3A//www.vtac.edu.au/privacy.html) for the most accurate reproduction.*
 
 # VTAC: Privacy Policy
+
+  [full version of VTAC Privacy Policy](https://web.archive.org/web/20040405144732id_/http%3A//www.vtac.edu.au/full_privacy.pdf) (15 pages 42KB)
 
 ## Applicant Statement
 
@@ -160,3 +162,5 @@ Stored information that may identify an individual may not be released to any bo
 **THIS INFORMATION IS KEPT FOR RECORD PURPOSES ONLY.**
 
 Accurate as at Monday 21 July 2003.
+
+  [full version of VTAC Privacy Policy](https://web.archive.org/web/20040405144732id_/http%3A//www.vtac.edu.au/full_privacy.pdf) (15 pages 42KB)
