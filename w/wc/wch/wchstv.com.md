@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wchstv.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604052254id_/http%3A//www.wchstv.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wchstv.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211212758id_/http%3A//www.wchstv.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement for www.wchstv.com
 
@@ -8,15 +8,12 @@
 | [**PROGRAM CONTACTS & PROGRAM FAQ**](https://web.archive.org/programfaq.shtml)  
 | [**JOBS @ TV8 & FOX11**](https://web.archive.org/jobs.shtml)  
 | [**GUESTBOOK**](https://web.archive.org/register.shtml)  
-| [**SEARCH**](https://web.archive.org/8search.phtml)  
+| [**SEARCH**](https://web.archive.org/8search.shtml)  
 | [**SATELLITE INFORMATION**](https://web.archive.org/aboutsatellite.shtml)  
 | [**THE TV MARKET**](https://web.archive.org/market.shtml)  
 | [**ONLINE ADVERTISING**](https://web.archive.org/ads/)  
 | [**COMMUNITY SURVEY**](https://web.archive.org/ca/communitysurvey.shtml)  
-| [**SCHOOL CLOSINGS**](https://web.archive.org/newsroom/schoolclosing.phtml)  
-| [**Fashion & Beauty Tips**](http://itnnetmedia.com/?tag=6569)  
-| [**Holiday Info**](http://itnnetmedia.com/?tag=6670)  
-| [**Recipes**](http://itnnetmedia.com/?tag=6617)  
+| [**SCHOOL CLOSINGS**](https://web.archive.org/newsroom/schoolclosing.shtml)  
 |  |    
 **Privacy Statement for www.wchstv.com**
 
@@ -76,15 +73,4 @@ If you have any questions about this privacy statement, the practices of this si
     Charleston, WV 25338
 
     [webmaster@wchstv.com](mailto:webmaster@wchstv.com) |  |  |  |    
-
-
-[](http://www.supportournation.com/)  
-  
-[](https://web.archive.org/synd_prog/weakestlink/)  
-  
-EYEWITNESS NEWS IS AFFILIATED WITH  
-[](http://cnn.com/LOCAL/regions/southeast/WCHS-TV/)  
-  
-Also Visit:  
-[](http://www.wvah.com/)  
 
