@@ -1,7 +1,12 @@
-> *The following text is extracted and transformed from the bigscreen.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401194717id_/http%3A//www.bigscreen.com/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigscreen.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204023402id_/http%3A//www.bigscreen.com/about/PrivacyPolicy.php) for the most accurate reproduction.*
 
-# The BigScreen Cinema Guide - Privacy Policy
+# The BigScreen Cinema Guide: About Us - Privacy Policy
 
+[](http://www.bigscreen.com/) |  | [](http://www.bigscreen.com/NowShowing.php) | [](http://www.bigscreen.com/Marquee.php) | [](http://www.bigscreen.com/Shop/index.php) |  | [](http://www.bigscreen.com/Search.php) | [](http://www.bigscreen.com/Help.php)  
+---|---|---|---|---|---|---|---  
+   
+  
+About Us  
 Privacy Policy  
 
 
@@ -36,14 +41,18 @@ What We Will Not Do With Your Information
 We will not willingly share your information with any third party. We believe that your personal information is yours to share with us, and no one else needs to have access to it. We will not sell, trade, or otherwise share the information you provide to us with anyone not directly associated with The BigScreen Cinema Guide, unless required to do so by law.
 
 A Special Note About the Third Party Advertising on Our Site  
-We use Maxworldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
+We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here:  
+  <http://www.maxonline.com/privacy_policy/index.php>
 
 Third Party Cookies  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser.
+
+  
+The BigScreen Cinema Guide is a service of [SVJ Designs LLC](http://www.svjdesigns.com/). All graphics, layout, and structure of this service (unless otherwise specified) are Copyright © 1995-2004, SVJ Designs. The BigScreen Cinema Guide is a trademark of SVJ Designs. All rights reserved. Web hosting and bandwidth provided by [ProNIC Solutions](http://www.pronicsolutions.com/affiliates/click.cgi?id=svjdesigns).
 
 'ACADEMY AWARDS®' and 'OSCAR®' are the registered trademarks and service marks of the [Academy of Motion Picture Arts and Sciences](http://www.oscars.org/).
 
-  
-The BigScreen Cinema Guide is a service of [SVJ Designs LLC](http://www.svjdesigns.com/). All graphics, layout, and structure of this service (unless otherwise specified) are Copyright © 1995-2004, SVJ Designs. The BigScreen Cinema Guide is a trademark of SVJ Designs. All rights reserved. Web hosting and bandwidth provided by CoreComm. | Powered by  
-[](http://home.voyager.net/web/business/webhost/index.html)  
+| Web Hosting by  
+ **[ProNIC Solutions](http://www.pronicsolutions.com/affiliates/click.cgi?id=svjdesigns)**  
+[](http://www.pronicsolutions.com/affiliates/click.cgi?id=svjdesigns)  
 ---|---
