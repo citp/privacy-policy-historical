@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astronomy.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002053239id_/http%3A//www.astronomy.com/content/static/misc/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astronomy.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602223433id_/http%3A//www.astronomy.com/content/static/misc/privacy.asp) for the most accurate reproduction.*
 
 # Astronomy.com | title
 
