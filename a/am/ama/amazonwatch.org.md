@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazonwatch.org privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604050224id_/http%3A//amazonwatch.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazonwatch.org privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208050327id_/http%3A//www.amazonwatch.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Amazon Watch
 
@@ -24,12 +24,12 @@ Operations Manager
 **Amazon Watch**
 
 **Main office:**  
-2350 Chumash Road Malibu, CA 90265  
-Tel: 310-456-9158     Fax: 310-456-9138
-
-**San Francisco office:**  
 1 Haight St. Suite B San Francisco, CA 94102  
 Tel: 415-487-9600     Fax: 415-487-9601
+
+**Southern California office:**  
+P.O. Box 2421 Malibu, CA 90265  
+Tel: 310-456-9158
 
 [amazon@amazonwatch.org](mailto:amazon@amazonwatch.org)
 
