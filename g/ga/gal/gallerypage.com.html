@@ -1,0 +1,157 @@
+<!--The following is the downloaded HTML source of the gallerypage.com privacy policy that was archived on 2000-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20000609072538id_/http%3A//www.gallerypage.com/help_privacy.html) for the most accurate reproduction.-->
+
+<html><head>
+	<title>Gallerypage.com - The Online Gallery</title>
+	<meta name="keywords" content=" ">
+	<meta name="description" content=" ">
+<script language="JavaScript"><!--
+
+if (document.images) {
+                image1on = new Image();
+                image1on.src = "images/features_on.gif";
+
+                image2on = new Image();
+                image2on.src = "images/shopping_on.gif";
+
+                image3on = new Image();
+                image3on.src = "images/about_on.gif";
+                
+                image4on = new Image();
+                image4on.src = "images/help_on.gif";
+
+                image5on = new Image();
+                image5on.src = "images/contact_on.gif";
+
+                image1off = new Image();
+                image1off.src = "images/features_off.gif";
+
+                image2off = new Image();
+                image2off.src = "images/shopping_off.gif";
+
+                image3off = new Image();
+                image3off.src = "images/about_off.gif";
+                
+                image4off = new Image();
+                image4off.src = "images/help_off.gif";
+
+                image5off = new Image();
+                image5off.src = "images/contact_off.gif";
+                
+                }
+
+function turnOn(imageName) {
+	if (document.images) {
+	document[imageName].src = eval(imageName + "on.src");
+		}
+	}
+
+function turnOff(imageName) {
+	if (document.images) {
+	document[imageName].src = eval(imageName + "off.src");
+		}
+	}
+
+function dm(msgStr) {
+    window.status = msgStr;
+    document.returnValue = true;
+}
+
+
+	var flag = 0;
+
+	function check_form_search(theForm) {
+		flag = 0;
+		if (document.form_search.SearchKeywords.value == "") flag = 1;
+
+		if (flag == 1) {
+			alert("You have not entered any keywords to search by.");
+				return;
+		}
+		document.form_search.submit();
+	}
+	
+//-->
+</script><link rel="stylesheet" type="text/css" href="style.css"></head>
+
+<body bgcolor="#313131" text="#ffffff" vlink="#313131" alink="#99CC31" link="#99CC31" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody><tr><td width="100%">
+	<table cellpadding="0" cellspacing="0" border="0" align="left" width="600">
+		<tbody><tr><td colspan="3" height="5"><a name="top"></a><img src="images/blank_dark_grey.gif" height="5"></td></tr>						
+		<tr><td width="10"><img src="images/blank_dark_grey.gif" height="5" width="10"></td>
+						<td width="290"><a href="home.html" onmouseover="dm('Go To Home Page'); return document.returnValue;" onmouseout="turnOff('image3', 'image3off'); dm(''); return document.returnValue;"><img src="images/logo_249x52.gif" border="0" width="249" alt="Go to Home Page" height="52"></a></td>
+			<td width="300" align="right"><img src="images/tag_line.gif" width="220" height="18"></td></tr>
+		<tr><td colspan="2" height="5"><img src="images/blank_dark_grey.gif" height="5"></td></tr>						
+	</tbody></table>
+</td></tr>
+<tr><td width="100%">
+	<table cellpadding="0" cellspacing="0" border="0" align="left" width="100%" bgcolor="#5D5D5D">
+		<tbody><tr><td width="100%"><img src="images/blank_grey.gif" border="0" width="600" height="1"></td></tr>
+	</tbody></table>
+</td></tr>
+<tr><td width="100%">
+    <table cellpadding="0" cellspacing="0" border="0" align="left" valign="bottom" width="600">
+        <tbody><tr><td width="400">
+	    <table cellpadding="10" cellspacing="0" border="0">
+			<tbody><tr><td><a href="features.asp" onmouseover="turnOn('image1', 'image1on'); dm('Features'); return document.returnValue;" onmouseout="turnOff('image1', 'image1off'); dm(''); return document.returnValue;"><img src="images/features_off.gif" name="image1" width="55" height="19" alt="features" border="0"></a></td>			<td><a href="home.html" onmouseover="turnOn('image2', 'image2on'); dm('Shopping'); return document.returnValue;" onmouseout="turnOff('image2', 'image2off'); dm(''); return document.returnValue;"><img src="images/shopping_off.gif" alt="shopping" vspace="0" hspace="0" border="0" name="image2" width="65" height="19"></a></td>
+			<td><a href="becomeamember.asp" onmouseover="turnOn('image3', 'image3on'); dm('About The Gallery'); return document.returnValue;" onmouseout="turnOff('image3', 'image3off'); dm(''); return document.returnValue;"><img src="images/about_off.gif" width="120" height="19" hspace="0" vspace="0" alt="become a member" border="0" name="image3"></a></td>
+			<td><img src="images/help_on.gif" width="33" height="19" vspace="0" hspace="0" alt="help" border="0" name="image4"></td>
+			<td><a href="contact.html" onmouseover="turnOn('image5', 'image5on'); dm('Contact Us'); return document.returnValue;" onmouseout="turnOff('image5', 'image5off'); dm(''); return document.returnValue;"><img src="images/contact_off.gif" width="69" height="19" alt="contact us" vspace="0" hspace="0" border="0" name="image5"></a></td></tr>
+
+	    </tbody></table></td>
+	    <td width="200" align="right" valign="middle">
+	    <table cellpadding="4" cellspacing="0" border="0" valign="middle">
+		<tbody><tr><td valign="middle"><form name="form_search" action="search.asp" method="get" onsubmit="check_form_search(this.form);return(false);"><input name="SearchKeywords" type="text" size="12" maxsize="50"></form></td>
+		    <td valign="middle"><input type="image" src="images/search_button.gif" border="0" alt="Search The Gallery" width="53" height="16"></td></tr>
+	    </tbody></table></td></tr>
+    </tbody></table>
+</td></tr>
+<tr><td width="100%">
+	<table cellpadding="0" cellspacing="0" border="0" align="left" width="100%" bgcolor="#5D5D5D">
+		<tbody><tr><td width="100%"><img src="images/blank_grey.gif" border="0" width="600" height="1"></td></tr>
+	</tbody></table></td></tr>
+
+
+<tr><td width="100%"><form>
+		<table celppadding="0" cellspacing="0" align="left" border="0" width="600">
+		<tbody><tr><td>&nbsp;</td></tr>
+		<tr><td><center><table cellpadding="4" cellspacing="4" border="0" width="450">
+		<tbody><tr><td colspan="2"><img src="images/about_header.gif" width="133" height="29" border="0"></td></tr>
+
+				</tbody></table></center></td></tr>
+	</tbody></table></form>
+</td></tr>
+
+<tr><td width="100%">
+		<table celppadding="0" cellspacing="0" align="left" border="0" width="600">
+		<tbody><tr><td><center><table cellpadding="4" cellspacing="4" border="0" width="450">
+				<tbody><tr><td><font face="arial, helvetica" size="-1">
+					Our Privacy Statement<br>
+					<br>
+					Security On The Web<br>
+					<br>
+					In nearly every transaction currently processed on a commercial website, you will be transferred to a secure socket layer (SSL) within which your personal information is inviolate. Your purchases at www.gallerypage.com are no different.<br>
+					<br>
+					If you have your browser preferences set to alert you when a "cookie" is being sent to you, you will notice that www.gallerypage.com sends cookies during the member sign up and ordering process. We do not require you to accept our cookies; however, they are completely innocuous and make your shopping experience at www.gallerypage.com seamless and enjoyable.<br>
+					<br>
+					The information collected by these cookies is used only to track the products you have placed in your shopping cart and will expire when you finish your session at www.gallerypage.com. If you have signed up for our Personal Shopper Page (PSP) or for a GalleryPage membership, it is necessary for us to send a cookie to your browser in order to keep track of those products you have placed in your registry. If you decide you don't want to accept any cookies, you will not be able to take advantage of the PSP feature.<br>
+					<br>
+					From time to time, www.gallerypage.com will email you a newsletter containing valuable tips, happenings in the art world and information on some of our latest products. These newsletters will also contain special offers for Internet members only. If you would prefer not to receive this information, please check the appropriate box in the checkout area.<br>
+					<br>
+					www.gallerypage.com does not believe in sharing personal information with other companies doing business in traditional venues or on the web. The information you provide us stays with us. Should that ever change, you will be notified and given the option to accept or decline the offer. 
+
+
+				</font></td></tr>					
+
+				<tr><td><hr color="#99CC00"></td></tr>
+
+				<tr><td>&nbsp;</td></tr>			
+				</tbody></table></center>			
+	</td></tr></tbody></table>
+</td></tr>
+
+</tbody></table>
+
+
+</body></html>
