@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aaasouth.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204220300id_/http%3A//www.aaasouth.com/main_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaasouth.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606223934id_/http%3A//www.aaasouth.com/main_privacy.asp) for the most accurate reproduction.*
 
 # AAA Auto Club South-Privacy Policy
 
@@ -15,4 +15,4 @@ Below is a list of non-volunteered information that will be collected automatica
 >  Criteria used when searching   
 > 
 
-If the user supplies their telephone number online, they may be contacted by AAA regarding orders placed online. Please be sure to provide AAA with the correct phone number. To avoid any solicitations from AAA as a result of visiting the Web site, please send an e-mail to [webmaster@aaasouth.com](mailto:webmaster@aaasouth.com) or write to AAA Auto Club South, 1515 N Westshore Boulevard, Tampa, FL 33607. 
+If the user supplies their telephone number online, they may be contacted by AAA regarding orders placed online. Please be sure to provide AAA with the correct phone number.  To avoid any solicitations from AAA as a result of visiting the Web site, please send an e-mail to [webmaster@aaasouth.com](mailto:webmaster@aaasouth.com) or write to AAA Auto Club South, 1515 N Westshore Boulevard, Tampa, FL 33607. 
