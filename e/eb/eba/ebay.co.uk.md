@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebay.co.uk privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602203950id_/http%3A//pages.ebay.co.uk/help/community/png-priv.html%3FssPageName%3DUKHP10%3AFOPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.co.uk privacy policy that was archived on 2004-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041228215728id_/http%3A//pages.ebay.co.uk/help/community/png-priv.html) for the most accurate reproduction.*
 
 # eBay UK: Help : Topics : Policies and Guidelines : Privacy Policies
 
@@ -90,7 +90,7 @@ We use information in the files we maintain about you, and other information we 
 
 You agree that we may use personally identifiable information about you to improve our marketing and promotional efforts, to analyze site usage, improve our content and product offerings, and customise the Site's content, layout, and services. These uses improve the Site and better tailor it to meet your needs. 
 
-You agree that we may use your information to contact you and deliver information to you that, in some cases, are targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the Site. By accepting the User Agreement and reading this Privacy Policy, you expressly agree to receive this information. If you do not wish to receive these communications, we encourage you to amend the communications option on the [Notification Preferences](http://cgi4.ebay.co.uk/ws1/eBayISAPI.dll?OptinLoginShow) page You may make changes to your notification preferences at any time. 
+You agree that we may use your information to contact you and deliver information to you that, in some cases, are targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the Site. By accepting the User Agreement and reading this Privacy Policy, you expressly agree to receive this information. If you do not wish to receive these communications, we encourage you to amend the communications option on the [Notification Preferences](http://cgi4.ebay.co.uk/ws/eBayISAPI.dll?OptinLoginShow) page You may make changes to your notification preferences at any time. 
 
 If you send an email using the Email This Auction to a Friend service to an email address that is not registered in our community, we do not use that email addresses for any purpose other than to send your email. We do not rent or sell these email addresses. We generally discard the email addresses some time after they have been used to send your email. 
 
@@ -127,7 +127,7 @@ You are responsible for all actions taken with your User ID and password, includ
 **6.  ** |  **Accessing, Reviewing and Changing Your Personally Identifiable Information.**  
   | 
 
-We offer you the ability to automatically review and change the information you submit to us by logging into the Site and entering in the new information yourself. Generally, we will not modify your personal information based on your request because it is very difficult to authenticate your account manually. You can change your User ID, password, contact information, financial information, postal address and user preferences by going the "preferences" section in [My eBay](http://cgi1.ebay.com/aw-cgi/eBayISAPI.dll?MyEbayLogin). You must promptly update your personal information if it changes or is inaccurate. Once posted, you may not be able to change or remove any public postings made on the Site including our chat rooms or other message areas or the feedback area. 
+We offer you the ability to automatically review and change the information you submit to us by logging into the Site and entering in the new information yourself. Generally, we will not modify your personal information based on your request because it is very difficult to authenticate your account manually. You can change your User ID, password, contact information, financial information, postal address and user preferences by going the "preferences" section in [My eBay](http://cgi1.ebay.co.uk/aw-cgi/eBayISAPI.dll?MyEbayLogin). You must promptly update your personal information if it changes or is inaccurate. Once posted, you may not be able to change or remove any public postings made on the Site including our chat rooms or other message areas or the feedback area. 
 
 Upon your written request, we will deactivate your account, contact information, and financial information from our active databases. To make this request, please contact [Customer Support](http://pages.ebay.co.uk/help/contact_inline/index.html). Such information will be deactivated as soon as reasonably possible in accordance with our deactivation policy and applicable law. 
 
@@ -152,7 +152,7 @@ eBay uses industry standard practices to safeguard the confidentiality of your p
 **9.  ** |  **Notice.**  
   | 
 
-We may amend this Privacy Policy from time to time in order that it accurately reflects the regulatory environment and our own data collection and disclosure practices. All amended terms shall automatically be effective 30 days after they are initially posted on the Site. In addition, we will notify you in accordance with your [Notification Preferences](http://cgi4.ebay.co.uk/ws1/eBayISAPI.dll?OptinLoginShow) or by posting the amended Privacy Policy on the Site. 
+We may amend this Privacy Policy from time to time in order that it accurately reflects the regulatory environment and our own data collection and disclosure practices. All amended terms shall automatically be effective 30 days after they are initially posted on the Site. In addition, we will notify you in accordance with your [Notification Preferences](http://cgi4.ebay.co.uk/ws/eBayISAPI.dll?OptinLoginShow) or by posting the amended Privacy Policy on the Site. 
 
   
 
