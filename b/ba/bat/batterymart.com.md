@@ -1,44 +1,45 @@
-> *The following text is extracted and transformed from the batterymart.com privacy policy that was archived on 2002-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020811181301id_/http%3A//batterymart.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batterymart.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401214322id_/http%3A//batterymart.com/privacy.php) for the most accurate reproduction.*
 
 # Battery Mart
 
 |   
   
 ---  
- [2-Way Radio](https://web.archive.org/web/20020811181301id_/http%3A//batterymart.com/merchant2/merchant.mv?Screen=CTGY&Category_Code=rad)  
- [Alkaline (AA, 9v, etc)](https://web.archive.org/web/20020811181301id_/http%3A//batterymart.com/merchant2/merchant.mv?Screen=CTGY&Category_Code=drycell)  
- [Camcorder](https://web.archive.org/web/20020811181301id_/http%3A//batterymart.com/merchant2/merchant.mv?Screen=CTGY&Category_Code=cam)  
- [Camera](https://web.archive.org/web/20020811181301id_/http%3A//batterymart.com/merchant2/merchant.mv?Screen=CTGY&Category_Code=photo)  
- [Cell Phone](https://web.archive.org/web/20020811181301id_/http%3A//batterymart.com/merchant2/merchant.mv?Screen=CTGY&Category_Code=cell)  
- [Cordless Phone](https://web.archive.org/web/20020811181301id_/http%3A//batterymart.com/merchant2/merchant.mv?Screen=CTGY&Category_Code=cdp)  
- [Custom Battery Packs](https://web.archive.org/web/20020811181301id_/http%3A//batterymart.com/custom_battery.asp)  
- [Digital Camera](https://web.archive.org/web/20020811181301id_/http%3A//batterymart.com/merchant2/merchant.mv?Screen=CTGY&Category_Code=digitalcamera)  
- [Dry Cell](https://web.archive.org/web/20020811181301id_/http%3A//batterymart.com/merchant2/merchant.mv?Screen=CTGY&Category_Code=drycell)  
- [Electronic / Watch](https://web.archive.org/web/20020811181301id_/http%3A//batterymart.com/watch_battery.asp)  
- [Golf Caddy](https://web.archive.org/web/20020811181301id_/http%3A//batterymart.com/golf_caddy_battery.asp)  
- [Hawker ODYSSEY](https://web.archive.org/web/20020811181301id_/http%3A//batterymart.com/merchant2/merchant.mv?Screen=CTGY&Category_Code=odyssey)  
- [Hearing Aid](https://web.archive.org/web/20020811181301id_/http%3A//batterymart.com/merchant2/merchant.mv?Screen=CTGY&Category_Code=hearing-aid)  
- [Laptop Computer](https://web.archive.org/web/20020811181301id_/http%3A//batterymart.com/merchant2/merchant.mv?Screen=CTGY&Category_Code=lap)  
- [Motorcycle](https://web.archive.org/web/20020811181301id_/http%3A//batterymart.com/merchant2/merchant.mv?Screen=CTGY&Category_Code=odyssey)  
- [OPTIMA Batteries](https://web.archive.org/web/20020811181301id_/http%3A//batterymart.com/merchant2/merchant.mv?Screen=ctgy&category_Code=optima)  
- [Rechargeables](https://web.archive.org/web/20020811181301id_/http%3A//batterymart.com/merchant2/merchant.mv?Screen=CTGY&Category_Code=rechargeables)  
- [Robot](https://web.archive.org/web/20020811181301id_/http%3A//batterymart.com/merchant2/merchant.mv?Screen=CTGY&Category_Code=robotbatteries)  
- [SLA / Gel Cell](https://web.archive.org/web/20020811181301id_/http%3A//batterymart.com/merchant2/merchant.mv?Screen=CTGY&Category_Code=sla)  
- [UPS](https://web.archive.org/web/20020811181301id_/http%3A//batterymart.com/merchant2/merchant.mv?Screen=CTGY&Category_Code=ups)  
- [Wheelchair](https://web.archive.org/web/20020811181301id_/http%3A//batterymart.com/wheelchair_battery.asp)  
+ [2-Way Radio](https://web.archive.org/web/20030401214322id_/http%3A//batterymart.com/battery.mv?c=rad)  
+ [Alkaline (AA, 9v, etc)](https://web.archive.org/web/20030401214322id_/http%3A//batterymart.com/battery.mv?c=alkaline)  
+ [Camcorder](https://web.archive.org/web/20030401214322id_/http%3A//batterymart.com/battery.mv?c=cam)  
+ [Camera](https://web.archive.org/web/20030401214322id_/http%3A//batterymart.com/battery.mv?c=camerabatteries)  
+ [Cell Phone](https://web.archive.org/web/20030401214322id_/http%3A//batterymart.com/battery.mv?c=cellphonebatteries)  
+ [Cordless Phone](https://web.archive.org/web/20030401214322id_/http%3A//batterymart.com/battery.mv?c=cdp)  
+ [Custom Battery Packs](https://web.archive.org/web/20030401214322id_/http%3A//batterymart.com/custom_battery.php)  
+ [Digital Camera](https://web.archive.org/web/20030401214322id_/http%3A//batterymart.com/battery.mv?c=digitalcamera)  
+ [Electronic / Watch](https://web.archive.org/web/20030401214322id_/http%3A//batterymart.com/watch_battery.php)  
+ [Golf Caddy](https://web.archive.org/web/20030401214322id_/http%3A//batterymart.com/golf_caddy_battery.php)  
+ [Hawker ODYSSEY](https://web.archive.org/web/20030401214322id_/http%3A//batterymart.com/battery.mv?c=odyssey)  
+ [Hearing Aid](https://web.archive.org/web/20030401214322id_/http%3A//batterymart.com/battery.mv?c=hearing-aid)  
+ [Laptop Computer](https://web.archive.org/web/20030401214322id_/http%3A//batterymart.com/battery.mv?c=laptopbatteries)  
+ [Motorcycle / ATV](https://web.archive.org/web/20030401214322id_/http%3A//batterymart.com/battery.mv?c=motorcyclebatteries)  
+ [OPTIMA Batteries](https://web.archive.org/web/20030401214322id_/http%3A//batterymart.com/battery.mv?c=optima)  
+ [Rechargeables](https://web.archive.org/web/20030401214322id_/http%3A//batterymart.com/battery.mv?c=rechargeables)  
+ [Robot](https://web.archive.org/web/20030401214322id_/http%3A//batterymart.com/battery.mv?c=robotbatteries)  
+ [SLA / Gel Cell](https://web.archive.org/web/20030401214322id_/http%3A//batterymart.com/battery.mv?c=sla)  
+ [Specialty](https://web.archive.org/web/20030401214322id_/http%3A//batterymart.com/battery.mv?c=specialty)  
+ [UPS](https://web.archive.org/web/20030401214322id_/http%3A//batterymart.com/battery.mv?c=upsbatteries)  
+ [Wheelchair](https://web.archive.org/web/20030401214322id_/http%3A//batterymart.com/wheelchair_battery.php)  
   
   
- [Battery Chargers](https://web.archive.org/web/20020811181301id_/http%3A//batterymart.com/merchant2/merchant.mv?Screen=CTGY&Category_Code=maintainers)  
- [Battery Maintainers](https://web.archive.org/web/20020811181301id_/http%3A//batterymart.com/merchant2/merchant.mv?Screen=CTGY&Category_Code=maintainers)  
- [Battery Testers](https://web.archive.org/web/20020811181301id_/http%3A//batterymart.com/merchant2/merchant.mv?Screen=CTGY&Category_Code=batterytesters)  
- [BatteryMINDer](https://web.archive.org/web/20020811181301id_/http%3A//batterymart.com/batteryminder.asp)  
- [Deltran Chargers](https://web.archive.org/web/20020811181301id_/http%3A//batterymart.com/merchant2/merchant.mv?Screen=CTGY&Category_Code=deltranchargers)  
- [Flashlights](https://web.archive.org/web/20020811181301id_/http%3A//batterymart.com/merchant2/merchant.mv?Screen=CTGY&Category_Code=flashlights)  
- [Jabra Products](https://web.archive.org/web/20020811181301id_/http%3A//batterymart.com/merchant2/merchant.mv?Screen=CTGY&Category_Code=jabraproducts)  
- [Jump Starters](https://web.archive.org/web/20020811181301id_/http%3A//batterymart.com/merchant2/merchant.mv?Screen=CTGY&Category_Code=jumpstarters)  
- [Power Inverters](https://web.archive.org/web/20020811181301id_/http%3A//batterymart.com/merchant2/merchant.mv?Screen=CTGY&Category_Code=inverters)  
- [Priority Start](https://web.archive.org/web/20020811181301id_/http%3A//batterymart.com/priority_start.asp)  
- [Solar Chargers](https://web.archive.org/web/20020811181301id_/http%3A//batterymart.com/merchant2/merchant.mv?Screen=CTGY&Category_Code=solarchargers)  
+ [Battery Chargers](https://web.archive.org/web/20030401214322id_/http%3A//batterymart.com/battery.mv?c=maintainers)  
+ [Battery Maintainers](https://web.archive.org/web/20030401214322id_/http%3A//batterymart.com/battery.mv?c=maintainers)  
+ [Battery Mat](https://web.archive.org/web/20030401214322id_/http%3A//batterymart.com/battery.mv?p=ACC-BATMAT)  
+ [Battery Testers](https://web.archive.org/web/20030401214322id_/http%3A//batterymart.com/battery.mv?c=batterytesters)  
+ [BatteryMINDer](https://web.archive.org/web/20030401214322id_/http%3A//batterymart.com/batteryminder.php)  
+ [Deltran Chargers](https://web.archive.org/web/20030401214322id_/http%3A//batterymart.com/battery.mv?c=deltranchargers)  
+ [Flashlights](https://web.archive.org/web/20030401214322id_/http%3A//batterymart.com/battery.mv?c=flashlights)  
+ [Jabra Products](https://web.archive.org/web/20030401214322id_/http%3A//batterymart.com/battery.mv?c=jabraproducts)  
+ [Jump Starters](https://web.archive.org/web/20030401214322id_/http%3A//batterymart.com/battery.mv?c=jumpstarters)  
+ [Power Inverters](https://web.archive.org/web/20030401214322id_/http%3A//batterymart.com/battery.mv?c=inverters)  
+ [Priority Start](https://web.archive.org/web/20030401214322id_/http%3A//batterymart.com/priority_start.php)  
+ [Solar Chargers](https://web.archive.org/web/20030401214322id_/http%3A//batterymart.com/battery.mv?c=solarchargers)  
 | 
 
   
@@ -54,9 +55,10 @@ Contact information from the registration forms is used to ship purchases, infor
 **_Order Forms_**  
 Our site uses an order form for customers to request information, products, and services. We collect contact information (like their email address), and financial information (like their account or credit card numbers).
 
-Contact information from the order forms is used to ship purchases, information about our company. The customer's contact information is also used to get in touch with the visitor when necessary.
+Contact information from the order forms is used to ship purchases, information about our company. The customer's contact information is also used to get in touch with the visitor when necessary.  
+Financial information that is collected is used to bill the user for products and services.
 
-Financial information that is collected is used to bill the user for products and services.  
+Furthermore, you can be assured that the information you give us is private. We do not sell, rent or share information about our customers.  
   
 **_Security_**  
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. All credit card transactions are conducted on a secure server enabled with a secure certificate from GeoTrust (formerly Equifax).
