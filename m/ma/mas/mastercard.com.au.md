@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mastercard.com.au privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601151353id_/http%3A//global.mastercard.com/au/general/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mastercard.com.au privacy policy that was archived on 2002-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021003082434id_/http%3A//global.mastercard.com/au/general/privacypolicy) for the most accurate reproduction.*
 
 # MasterCard® Australia
 
@@ -68,7 +68,7 @@ In terms of personal information on the MasterCard site, you can be assured that
 
 
 
-For example, if you give us personal information, as part of the registration process in one of our promotions, and consent to us advising you of future promotions, the information will be used only as necessary to conduct the promotionthis reason. and to advise you of future MasterCard promotions only if you consent to receiving such information. MasterCard does not use this information for any other purpose. Nor do we sell, rent or give this information to any other entity.   
+For example, if you give us personal information, as part of the registration process in one of our promotions, and consent to us advising you of future promotions, the information will be used only as necessary to conduct the promotion and to advise you of future MasterCard promotions only if you consent to receiving such information. MasterCard does not use this information for any other purpose. Nor do we sell, rent or give this information to any other entity.   
 
 
 As another example, a special area on our site allows you to report problems you have had using your MasterCard or other situations requiring personal attention. Messages sent via this form are all individually read by our Customer Service department. Information you send to our Customer Service department is used only to help resolve your problem and is otherwise kept completely private.   
@@ -88,7 +88,7 @@ The Privacy Officer by e-mail to: [privacy@mastercard.com ](mailto:privacy@maste
 If the information you are requesting includes sensitive data, such as an account number, we will ask you to identify yourself properly when you request access to the information. 
 
 MasterCard's Formal Privacy Position   
-The foundation for all of MasterCard's efforts in the area of consumer privacy is [MasterCard's Privacy Position](https://web.archive.org/web/20020601151353id_/http://global.mastercard.com/au/general/privacypolicy/position.html), adopted at the end of 1995. The purpose of the Privacy Position is to provide flexible guidelines that can be adapted to meet the demands of changing technology and varying consumer expectations regarding privacy. These guidelines apply worldwide, but note that in Australia and certain other countries additional privacy protections or procedures are required by law and are observed by MasterCard.   
+The foundation for all of MasterCard's efforts in the area of consumer privacy is [MasterCard's Privacy Position](https://web.archive.org/web/20021003082434id_/http://global.mastercard.com/au/general/privacypolicy/position.html), adopted at the end of 1995. The purpose of the Privacy Position is to provide flexible guidelines that can be adapted to meet the demands of changing technology and varying consumer expectations regarding privacy. These guidelines apply worldwide, but note that in Australia and certain other countries additional privacy protections or procedures are required by law and are observed by MasterCard.   
 
 
 Providing More Information   
