@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolavenues.com privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613183026id_/http%3A//www.coolavenues.com/res/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolavenues.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205075211id_/http%3A//coolavenues.com/res/privacy.htm) for the most accurate reproduction.*
 
 # 
 
