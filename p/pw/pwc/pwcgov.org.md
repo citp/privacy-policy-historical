@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pwcgov.org privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603215737id_/http%3A//www.pwcgov.org/common/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pwcgov.org privacy policy that was archived on 2001-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011031232815id_/http%3A//www.pwcgov.org/common/privacy.htm) for the most accurate reproduction.*
 
 # Legal Notice for Prince William County Government Web Site
 
@@ -22,7 +22,7 @@ Prince William County uses the following practices and procedures when an indivi
 
   1. Data Collection: Internet Protocol (IP) address; browser type and version; date and time of visit; and Operating System. Domain name, organization name, and country of origin are derived from IP address. The information is used only for the purpose of generating statistical reports.
   2. Personal Data Collection: The County collects NO personal data when an individual visits the County internet site.
-  3. Use of Cookies: Any County application or web page that uses cookies will identify itself as such. This information is handled in the same way as other user information obtained by the County. No user information is gathered through cookies except for that needed to run the specific application.
+  3. Use of Cookies: The County use of cookies is strictly limited, used only to help a user move from one Web page to another within certain applications on the County Web site. No personal information is stored on a user’s computer, and the County has no access to other information on a user’s computer. Any County Web page that uses cookies will prompt a user before a cookie is used. If desired, the user can prevent the use of any cookies. Any County application that uses cookies will have a statement on its use.
   4. Sharing and Disclosing of Collected Data: The County will not share or disclose above collected data to anyone or any organizations unless:
 
 __
@@ -52,6 +52,6 @@ _C. Definitions:_
 __
   2. _Internet_ – A term used to describe an interconnected network of computers that span the world. Today, navigation of the Internet is generally accomplished by the use of a browser.
 __
-  3. _Cookies_ – A computer file containing an ID number, which is placed on your personal computer when you visit a web site. Cookies allow companies to record and track web pages accessed while surfing the internet and to show personalized ads based on the internet sites visited.
+  3. _Cookies_ – A small computer file containing an identification number, which is placed on your personal computer when you visit a web site. It is not a computer program. It cannot read the contents of a user’s disk. There are two types of cookies: per-session cookies which expire as soon as the user’s computer session is terminated, and persistent cookies, which are placed on a user’s disk drive for a specified length of time. These cookies store user preferences and settings for a specific web site, and can make subsequent visits to that site quicker and easier. Users can delete cookies from their computer at any time.
 
 
