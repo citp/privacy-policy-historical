@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangalorebest.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207081200id_/http%3A//bangalorebest.com/bottomlinks1.asp%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangalorebest.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405032313id_/http%3A//www.bangalorebest.com/bottomlinks1.asp%23privacy) for the most accurate reproduction.*
 
 # bangalorebest.com -Bottom Links
 
@@ -16,7 +16,7 @@ You further agree that Indias-Best.Com and any other parties involved in creatin
 
 If you need clarification or more information, please contact us as 
 
-[info@indias-best.com](mailto:info@indias-best.com)
+[content@indias-best.com](mailto:content@indias-best.com)
 
 ******Privacy  
 **  
