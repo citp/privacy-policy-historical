@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mapway.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204191213id_/http%3A//www.m-spatial.com/www_mapway_com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapway.com privacy policy that was archived on 2004-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040419071215id_/http%3A//www.m-spatial.com/www_mapway_com/privacy_policy.htm) for the most accurate reproduction.*
 
 # MapWay / Turn your phone into a pedestrian navigation system
 
