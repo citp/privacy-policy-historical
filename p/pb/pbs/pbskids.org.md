@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pbskids.org privacy policy that was archived on 2001-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010627171542id_/http%3A//pbskids.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbskids.org privacy policy that was archived on 2001-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011206121640id_/http%3A//pbskids.org/privacy) for the most accurate reproduction.*
 
 # PBS Kids: Privacy Policy
 
@@ -25,7 +25,7 @@ We also promise to help children, their families and communities find the inform
 
   * When a PBS Kids site is partially funded by outside sponsors, we will mark any underwriter logos with a "sponsored by" tag. We select our underwriters carefully, to ensure that the company's products and services fit PBS standards. PBS Kids sites will not contain advertisements promoting e-commerce or direct links to e-commerce.
   * All links to third party sites are insulated with a PBS Kids bridge page. These pages clearly notify the visitor that he or she is leaving PBS Kids, and offers an opportunity to return to PBS Kids. Each bridge page displays a Web literacy tip, educating visitors how to be safe on the Internet. In the case of a sponsor's link, the bridge page will contain more information about the sponsor's relationship to PBS. Since we cannot be assured that links to outside sites follow our safety or privacy guidelines, we encourage adults and children to discuss these choices together. We are not responsible for the content or safety and privacy practices at any sites linked from our pages.
-  * With areas of our site like TechKnow's "[You Be the Judge](https://web.archive.org/did_you_know/ybtj)" and "[Get Your Web License](https://web.archive.org/did_you_know/license)," as well as our "[Know Before You Go](https://web.archive.org/web/20010627171542id_/http://pbskids.org/privacy/literacytips.html)" Web literacy tips, we will continue to empower children by helping them to make informed choices. 
+  * With areas of our site like TechKnow's "[You Be the Judge](https://web.archive.org/did_you_know/ybtj)" and "[Get Your Web License](https://web.archive.org/did_you_know/license)," as well as our "[Know Before You Go](https://web.archive.org/web/20011206121640id_/http://pbskids.org/privacy/literacytips.html)" Web literacy tips, we will continue to empower children by helping them to make informed choices. 
 
 
 
