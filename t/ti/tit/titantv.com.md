@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the titantv.com privacy policy that was archived on 2000-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000531012707id_/http%3A//www.titantv.com/ttv/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titantv.com privacy policy that was archived on 2000-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001027074959id_/http%3A//www.titantv.com/ttv/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Decisionmark - Privacy Policy
 
