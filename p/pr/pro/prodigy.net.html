@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the prodigy.net privacy policy that was archived on 2003-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030602123940id_/http%3A//www.prodigy.net/about/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the prodigy.net privacy policy that was archived on 2003-10-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031002030832id_/http%3A//www.prodigy.net/about/privacy_policy) for the most accurate reproduction.-->
 
 <html><!-- Container Page --><head>
 	<title>About Prodigy</title>
@@ -68,7 +68,7 @@
 <!-- CLOSE(zn1_gpi.html) -->
 
 	
-		<td width="5000" align="right"><a href="http://ads-direct.prodigy.net/cgi-bin/accipiter/adclick.exe/SITE=PI/AREA=PI.ABOUT/AAMSZ=468X60/ACC_RANDOM=1054530236" target="_top"><img src="http://ads-direct.prodigy.net/cgi-bin/accipiter/adserver.exe/SITE=PI/AREA=PI.ABOUT/AAMSZ=468X60/ACC_RANDOM=1054530236" border="0" width="468" height="60" alt="Advertisement"></a></td>
+		<td width="5000" align="right"><a href="http://ads-direct.prodigy.net/cgi-bin/accipiter/adclick.exe/SITE=PI/AREA=PI.ABOUT/AAMSZ=468X60/ACC_RANDOM=1070576079" target="_top"><img src="http://ads-direct.prodigy.net/cgi-bin/accipiter/adserver.exe/SITE=PI/AREA=PI.ABOUT/AAMSZ=468X60/ACC_RANDOM=1070576079" border="0" width="468" height="60" alt="Advertisement"></a></td>
 	</tr>
 </tbody></table>
 <!-- END: Logo templates & 468x60 page unique ad --->
@@ -92,7 +92,7 @@
 		--><table cellpadding="0" cellspacing="0" border="0">
 				<tbody><tr valign="middle">
 					<td><img src="/images/spacer.gif" height="20" width="1" border="0" alt=" "></td><!-- DO NOT REMOVE THIS LINE --->
-					<td class="infobar-txt" nowrap="">&nbsp;&nbsp;<span id="infobar-date">June&nbsp;2,&nbsp;2003</span>&nbsp;&nbsp;</td>
+					<td class="infobar-txt" nowrap="">&nbsp;&nbsp;<span id="infobar-date">December&nbsp;4,&nbsp;2003</span>&nbsp;&nbsp;</td>
 				</tr>
 			</tbody></table> 
 		</td>
@@ -147,62 +147,75 @@
 <img src="/images/spacer.gif" width="20" height="15" border="0" alt=""><br>
 <script language="JavaScript" type="text/javascript">
 <!-- 
-	var ser = "DIAL";
+	ser = "DIAL";
+	serimg = "migration_dial125_0103_1.gif";
+	serurl = "http://www.sbcinfo.com/prodigy/dialupgrade";
 // -->
 </script>
 <script language="JavaScript" type="text/javascript">
-<!-- Hide from old browsers
+<!-- 
+/////////////////////////////////////////////
+////////// Randomizer code //////////////////
 	msecs = Date.parse(new Date());
 	tdstr = msecs.toString();
 	rns = tdstr.substring((tdstr.length>12?tdstr.length-12:0), 9);
-	document.write("<iframe src=\"http://ads-direct.prodigy.net/hserver/SITE=PI/AREA=PI.HOME.SLOT1/AAMSZ=125X125/SERV=" + ser + "/ACC_RANDOM=" + rns + "/pageID=" + pageNum + "\" noresize scrolling=\"no\" hspace=\"0\" vspace=\"0\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" width=\"125\" height=\"125\">");
-	document.write("<scr" + "ipt src=\" http://ads-direct.prodigy.net/jnserver/SITE=PI/AREA=PI.HOME.SLOT1/AAMSZ=125X125/ACC_RANDOM=" + rns + "/serv=" + ser + "/pageID=" + pageNum + "\" type=\"text/javascript\" language=\"JavaScript1.1\"></sc" + "ript>");
-	document.write("</iframe>");
+
+/////////////////////////////////////////////
+////////// Migration 125x125 Ad /////////////
+	document.write("<A href=\"" + serurl + "\"><img src=\"/images/" + serimg + "\" alt=\"Migrate to SBC\" border=\"0\" width=\"125\" height=\"125\"></a>");
+	document.write("<P>");
+
+/////////////////////////////////////////////
+////////// Travelocity 125x125 Ad ///////////
+	document.write("<A HREF=\"http://ad.doubleclick.net/jump/N447.myhome.prodigy.net/B1099194.10;sz=125x125;ord=" + rns + "?\"><IMG SRC=\"http://ad.doubleclick.net/ad/N447.myhome.prodigy.net/B1099194.10;sz=125x125;ord=" + rns + "?\" BORDER=0 WIDTH=125 HEIGHT=125 ALT=\"Go Virtually Anywhere with Travelocity!!\"></A>");
+	document.write("<P>");
+
+/////////////////////////////////////////////
+////////// Bank One 125x125 Ad //////////////
+	var cName = "ProdigyAdRotate"; 
+	var cValue1 = "one";
+	var result1 = "<A HREF=\"http://myclicks.prodigy.net/track.html?page=1&module=3404&link=26690&cat=644&provider=7035&url=http://www.bankone.com/advert.asp?ID=12248\"><IMG SRC=\"/images/choose_125x125.gif\" width=\"125\" alt=\"Bankone.com\" border=\"0\" width=\"125\" height=\"125\"></a>";
+	var cValue2 = "two";
+	var result2 = "<A HREF=\"http://myclicks.prodigy.net/track.html?page=1&module=3404&link=26691&cat=644&provider=7035&url=http://www.bankone.com/advert.asp?ID=12249\"><IMG SRC=\"/images/25k_125x125.gif\" width=\"125\" alt=\"Bankone.com\" border=\"0\" width=\"125\" height=\"125\"></a>";
+	var randomimg = 0;
+	
+	randomimg = Random();
+
+		if ((window.document.cookie.length > 0) && (window.document.cookie.indexOf(cName) != -1)) {
+			if (window.document.cookie.indexOf(cValue1) != -1) {
+				window.document.cookie = cName + "=" + cValue2 + "; path=/;";
+				document.write(result2);
+			}
+			else {
+				window.document.cookie = cName + "=" + cValue1 + "; path=/;";
+				document.write(result1);
+			}
+		}
+		else {
+			if (randomimg == 1) {
+				window.document.cookie = cName + "=" + cValue1 + "; path=/;";
+				document.write(result1);
+			}
+			else {
+				window.document.cookie = cName + "=" + cValue2 + "; path=/;";
+				document.write(result2);
+			}
+		}
+	document.write("<P>");
+
+	function Random() {
+		today = new Date();
+		num = today.getTime();
+		num = Math.round(Math.abs(Math.sin(num) * 1000000)) % 1;
+		return num;
+	}
+
+/////////////////////////////////////////////
+////////// LowerMyBills 125x125 Ad //////////
+	document.write("<A href=\"http://www.carsdirect.com/home?partner=sbc\"><img src=\"/images/carsdirect_0309_125x125_white_murano.gif\" alt=\"\" border=\"0\" width=\"125\" height=\"125\"></a>");
+	// document.write("<P>");
 	// -->
-
-</script><iframe src="http://ads-direct.prodigy.net/hserver/SITE=PI/AREA=PI.HOME.SLOT1/AAMSZ=125X125/SERV=DIAL/ACC_RANDOM=58050371/pageID=76968127" noresize="" scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width="125" height="125"><script src=" http://ads-direct.prodigy.net/jnserver/SITE=PI/AREA=PI.HOME.SLOT1/AAMSZ=125X125/ACC_RANDOM=58050371/serv=DIAL/pageID=76968127" type="text/javascript" language="JavaScript1.1"></script></iframe>
-<p>
-<script language="JavaScript" type="text/javascript">
-<!-- Hide from old browsers
-
-
-	msecs = Date.parse(new Date());
-	tdstr = msecs.toString();
-	rns = tdstr.substring((tdstr.length>12?tdstr.length-12:0), 9);
-	document.write("<iframe src=\"http://ads-direct.prodigy.net/hserver/SITE=PI/AREA=PI.HOME.SLOT2/AAMSZ=125X125/SERV=" + ser + "/ACC_RANDOM=" + rns + "/pageID=" + pageNum + "\" noresize scrolling=\"no\" hspace=\"0\" vspace=\"0\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" width=\"125\" height=\"125\">");
-	document.write("<scr" + "ipt src=\" http://ads-direct.prodigy.net/jnserver/SITE=PI/AREA=PI.HOME.SLOT2/AAMSZ=125X125/ACC_RANDOM=" + rns + "/serv=" + ser + "/pageID=" + pageNum + "\" type=\"text/javascript\" language=\"JavaScript1.1\"></sc" + "ript>");
-	document.write("</iframe>");
-	// -->
-
-</script><iframe src="http://ads-direct.prodigy.net/hserver/SITE=PI/AREA=PI.HOME.SLOT2/AAMSZ=125X125/SERV=DIAL/ACC_RANDOM=58050371/pageID=76968127" noresize="" scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width="125" height="125"><script src=" http://ads-direct.prodigy.net/jnserver/SITE=PI/AREA=PI.HOME.SLOT2/AAMSZ=125X125/ACC_RANDOM=58050371/serv=DIAL/pageID=76968127" type="text/javascript" language="JavaScript1.1"></script></iframe>
-</p><p>
-<script language="JavaScript" type="text/javascript">
-<!-- Hide from old browsers
-
-
-	msecs = Date.parse(new Date());
-	tdstr = msecs.toString();
-	rns = tdstr.substring((tdstr.length>12?tdstr.length-12:0), 9);
-	document.write("<iframe src=\"http://ads-direct.prodigy.net/hserver/SITE=PI/AREA=PI.HOME.SLOT3/AAMSZ=125X125/SERV=" + ser + "/ACC_RANDOM=" + rns + "/pageID=" + pageNum + "\" noresize scrolling=\"no\" hspace=\"0\" vspace=\"0\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" width=\"125\" height=\"125\">");
-	document.write("<scr" + "ipt src=\" http://ads-direct.prodigy.net/jnserver/SITE=PI/AREA=PI.HOME.SLOT3/AAMSZ=125X125/ACC_RANDOM=" + rns + "/serv=" + ser + "/pageID=" + pageNum + "\" type=\"text/javascript\" language=\"JavaScript1.1\"></sc" + "ript>");
-	document.write("</iframe>");
-	// -->
-
-</script><iframe src="http://ads-direct.prodigy.net/hserver/SITE=PI/AREA=PI.HOME.SLOT3/AAMSZ=125X125/SERV=DIAL/ACC_RANDOM=58050371/pageID=76968127" noresize="" scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width="125" height="125"><script src=" http://ads-direct.prodigy.net/jnserver/SITE=PI/AREA=PI.HOME.SLOT3/AAMSZ=125X125/ACC_RANDOM=58050371/serv=DIAL/pageID=76968127" type="text/javascript" language="JavaScript1.1"></script></iframe>
-</p><p>
-<script language="JavaScript" type="text/javascript">
-<!-- Hide from old browsers
-
-
-	msecs = Date.parse(new Date());
-	tdstr = msecs.toString();
-	rns = tdstr.substring((tdstr.length>12?tdstr.length-12:0), 9);
-	document.write("<iframe src=\"http://ads-direct.prodigy.net/hserver/SITE=PI/AREA=PI.HOME.SLOT4/AAMSZ=125X125/SERV=" + ser + "/ACC_RANDOM=" + rns + "/pageID=" + pageNum + "\" noresize scrolling=\"no\" hspace=\"0\" vspace=\"0\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" width=\"125\" height=\"125\">");
-	document.write("<scr" + "ipt src=\" http://ads-direct.prodigy.net/jnserver/SITE=PI/AREA=PI.HOME.SLOT4/AAMSZ=125X125/ACC_RANDOM=" + rns + "/serv=" + ser + "/pageID=" + pageNum + "\" type=\"text/javascript\" language=\"JavaScript1.1\"></sc" + "ript>");
-	document.write("</iframe>");
-	// -->
-
-</script><iframe src="http://ads-direct.prodigy.net/hserver/SITE=PI/AREA=PI.HOME.SLOT4/AAMSZ=125X125/SERV=DIAL/ACC_RANDOM=58050371/pageID=76968127" noresize="" scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width="125" height="125"><script src=" http://ads-direct.prodigy.net/jnserver/SITE=PI/AREA=PI.HOME.SLOT4/AAMSZ=125X125/ACC_RANDOM=58050371/serv=DIAL/pageID=76968127" type="text/javascript" language="JavaScript1.1"></script></iframe>
+</script><a href="http://www.sbcinfo.com/prodigy/dialupgrade"><img src="/images/migration_dial125_0103_1.gif" alt="Migrate to SBC" border="0" width="125" height="125"></a><p><a href="http://ad.doubleclick.net/jump/N447.myhome.prodigy.net/B1099194.10;sz=125x125;ord=58050371?"><img src="http://ad.doubleclick.net/ad/N447.myhome.prodigy.net/B1099194.10;sz=125x125;ord=58050371?" border="0" width="125" height="125" alt="Go Virtually Anywhere with Travelocity!!"></a></p><p><a href="http://myclicks.prodigy.net/track.html?page=1&amp;module=3404&amp;link=26691&amp;cat=644&amp;provider=7035&amp;url=http://www.bankone.com/advert.asp?ID=12249"><img src="/images/25k_125x125.gif" width="125" alt="Bankone.com" border="0" height="125"></a></p><p><a href="http://www.carsdirect.com/home?partner=sbc"><img src="/images/carsdirect_0309_125x125_white_murano.gif" alt="" border="0" width="125" height="125"></a>
 </p></div>
 <!-- End: leftnav -->
 <!-- End: consolidated leftnav --></td>
@@ -473,7 +486,7 @@
 <tbody><tr valign="middle">
 	<td align="center" class="footerContent">
 	<a href="http://www.prodigy.net/about/company_contact/" class="footer-link">Contact Us</a>&nbsp;|&nbsp;<a href="http://www.cyberpatrol.com" class="footer-link">Internet Filter - Cyber Patrol<sup>®</sup></a>&nbsp;|&nbsp;<a href="http://www.prodigy.net/about/privacy_policy/" class="footer-link">Updated Privacy Policy</a>&nbsp;|&nbsp;<a href="http://www.prodigy.net/about/copyright/" class="footer-link">Terms of Use</a>&nbsp;|&nbsp;<a href="http://myhome.prodigy.net/prodigy2003/money_privacy_policy.html" class="footer-link">Financial Privacy Statement</a>&nbsp;|&nbsp;<a href="/help/legal/trademark.html" class="footer-link">Trademark</a>
-<p><span id="footer-legal">© <a href="/help/legal/copyright.html" class="footer-link">2003 - SBC Properties, L.P.</a> All Rights Reserved</span>
+<p><span id="footer-legal">© <a href="/help/legal/copyright.html" class="footer-link">2003 - SBC Knowledge Ventures, L.P.</a> All Rights Reserved</span>
 	</p></td>
 </tr>
 </tbody></table>
