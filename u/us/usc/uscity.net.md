@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uscity.net privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008073906id_/http%3A//www.uscity.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscity.net privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606000632id_/http%3A//www.uscity.net/privacy.html) for the most accurate reproduction.*
 
-# U.S. City Network is a Business Member Supported National Directory - U.S. City Network, Inc - United States City Network Directory - us city directory US Cities directories cities uscity.net
+# Privacy Policy - uscity.net the Internet Business Directory for the United States, a National Network of State and City Directories
 
 The following statement has been developed to demonstrate our commitment to your privacy. 
 
