@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reedconstructiondata.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604133019id_/http%3A//reedconstructiondata.com/info/CA375627.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reedconstructiondata.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208082653id_/http%3A//www.reedconstructiondata.com/info/CA375627.html) for the most accurate reproduction.*
 
-# Welcome to Reed Construction Data siteinfo
+# Reed Construction Data - Privacy Policy
 
 Privacy Policy
 
