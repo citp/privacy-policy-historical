@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the exploretalent.com privacy policy that was archived on 2004-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040621235059id_/http%3A//www.exploretalent.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exploretalent.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306211528id_/http%3A//exploretalent.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Help Page - You are not logged in
+# Explore Talent Privacy Policy Page - World's Biggest Talent Website
 
 Explore Talent Privacy Policy
 
@@ -38,8 +38,6 @@ We also use personal information to send you newsletters, information, offers an
 
 To operate the Site, including processing your transactions and supporting your activities on the Site, we may share your personal information with our agents, representatives, contractors and service providers so they can provide us with support services such as authorization of credit card transactions, email origination, receipt or support services, customer relationship management services, order fulfillment and sweepstakes and promotional fulfillment. We require these entities not to use your information for any other purpose. 
 
-Please read the information below under the heading "Special Cases in which we Share Personal and Financial Information" to learn more ways in which we may share your personal information. 
-
   
 How We Use Financial Information 
 
@@ -63,7 +61,7 @@ How You Can Access and Update Your Email Preferences, Personal Information and P
 
 We give you the opportunity to opt-out of certain communications and modify personal information or demographic information you have provided to us, and to hide demographic information from, or make demographic information visible to, the public users of the Site, at anytime by going to the Account Settings or My Profile section of the Site. Please be aware that it may take several hours for the changes you make to take effect on the public areas of the Site. We thank you for your patience. Please note that changing or deleting your information through the "Account Settings" or "My Profile" section of the Site, or otherwise opting-out of receipt of email communications from ExploreTalent.com, will only change or delete the data in our database for purposes of future activities on the Site and for managing future communications from ExploreTalent.com. These changes and deletions will not change or delete emails or information that we may have already forwarded to other users or credit card companies or any other third parties, all as provided above in this privacy policy. 
 
-If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can contact us at customerservice@ExplorTalent.com. You can also send us mail to: Explore Talent, 8033 Sunset Blvd., #580, Hollywood, CA 90046  
+If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can contact us at customerservice@ExploreTalent.com. You can also send us mail to: Explore Talent, 8033 Sunset Blvd., #580, Hollywood, CA 90046  
 
 
 * * *
