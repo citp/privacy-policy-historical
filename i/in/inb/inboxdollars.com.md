@@ -1,21 +1,19 @@
-> *The following text is extracted and transformed from the inboxdollars.com privacy policy that was archived on 2001-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011215104031id_/http%3A//www.inboxdollars.com/privacy.php%3Fref%3Dblank) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboxdollars.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604192617id_/http%3A//www.inboxdollars.com/privacy.php%3Fref%3D) for the most accurate reproduction.*
 
 # InboxDollars.com -- Privacy Policy
 
-> [**Main Page**](http://www.inboxdollars.com/index.php?ref=blank)  
->  [**Memeber Login**](http://www.inboxdollars.com/login.php?ref=blank)  
->  [**Info**](http://www.inboxdollars.com/info.php?ref=blank)  
->  [**FAQ**](http://www.inboxdollars.com/faq.php?ref=blank)  
->  [**Terms**](http://www.inboxdollars.com/terms.php?ref=blank)  
->  [**Privacy Policy**](http://www.inboxdollars.com/privacy.php?ref=blank)  
->  [**Sign Up**](http://www.inboxdollars.com/signup.php?ref=blank)
+> [**Main Page**](http://www.inboxdollars.com/index.php?ref=)  
+>  [**Memeber Login**](http://www.inboxdollars.com/login.php?ref=)  
+>  [**Info**](http://www.inboxdollars.com/info.php?ref=)  
+>  [**FAQ**](http://www.inboxdollars.com/faq.php?ref=)  
+>  [**Terms**](http://www.inboxdollars.com/terms.php?ref=)  
+>  [**Privacy Policy**](http://www.inboxdollars.com/privacy.php?ref=)  
+>  [**Sign Up**](http://www.inboxdollars.com/signup.php?ref=)
 
-> [**Begin Tour**](http://www.inboxdollars.com/adv_begin.php?ref=blank)  
->  [**Testimonials**](http://www.inboxdollars.com/adv_testimonials.php?ref=blank)  
->  [**Signup Now!**](http://www.inboxdollars.com/adv_signup.php?ref=blank)  
->  [**Order Now!**](http://www.inboxdollars.com/adv_order.php?ref=blank)  
->  [**Advertiser Login**](http://www.inboxdollars.com/adv_login.php?ref=blank)  
->  [**Affiliate Program**](http://www.inboxdollars.com/adv_referral.php?ref=blank)
+> [**Advertiser Information**](http://www.inboxdollars.com/adv_begin.php?ref=)  
+>  [**Testimonials**](http://www.inboxdollars.com/adv_testimonials.php?ref=)  
+>  [**Advertiser Login**](http://www.inboxdollars.com/adv_login.php?ref=)  
+>  [**Affiliate Program**](http://www.inboxdollars.com/adv_referral.php?ref=)
 
 |   | 
 
