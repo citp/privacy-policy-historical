@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intelligencetest.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603221838id_/http%3A//intelligencetest.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intelligencetest.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202212509id_/http%3A//intelligencetest.com/privacy.htm) for the most accurate reproduction.*
 
 # IQ Test Labs - free online testing.
 
