@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hardcoreindiangirls.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604090945id_/http%3A//www.hardcore-indian-girls.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardcoreindiangirls.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205131437id_/http%3A//www.hardcore-indian-girls.com/privacy.html) for the most accurate reproduction.*
 
-# Hardcore Indian Girls - The Most Exotic Indian Girls Direct From Their Homeland!
+# Hardcore Indian Girls - Privacy Policy
 
 We have created this Privacy Policy in order to demonstrate our firm commitment to privacy. This Privacy Policy explains our practices with respect to the collection, use, and disclosure of personal and non-personal information provided by visitors to our Web site. By using this site, you signify your assent to these our privacy practices and the terms and conditions of our Web site. 
 
