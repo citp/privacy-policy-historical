@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the world66.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207025400id_/http%3A//www.world66.com/corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the world66.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602034911id_/http%3A//www.world66.com/corporate/privacy.asp) for the most accurate reproduction.*
 
 # World66.Com: Welcome to the world
 
