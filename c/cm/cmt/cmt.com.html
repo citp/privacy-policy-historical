@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cmt.com privacy policy that was archived on 2004-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041208051104id_/http%3A//www.cmt.com/interact/terms/index.jhtml%23pp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cmt.com privacy policy that was archived on 2005-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050403105617id_/http%3A//www.cmt.com/interact/terms/index.jhtml%23pp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><head><script language="JavaScript" src="/sitewide/scripts/detect_flash.js"></script>
 
@@ -48,6 +48,43 @@ mep1 += repValS;
 
 <script language="JavaScript" src="/sitewide/scripts/rep.js"></script>
 
+<script type="text/JavaScript" src="/global/reporting/scripts/rep_object.js"></script>
+
+<script type="text/JavaScript" language="JavaScript">
+var omniCall = new ReportingCall(defaultCall);
+
+function parseDynCharts(){
+var prefix = "if_nt_dynCharts_";
+var charts = [
+"albums",
+"artistBrds",
+"artists",
+"news",
+"photoArtists",
+"photoShows",
+"shows",
+"showBrds",
+"tours",
+"videos"
+];
+
+var chartsCall = "";
+for(i in charts){
+if(omniCall[(prefix + charts[i])]){
+chartsCall += charts[i] + "_" + omniCall[(prefix + charts[i])] + "|";
+omniCall.deleteRepProps(prefix + charts[i]);
+}
+}
+chartsCall = chartsCall.substring(0, chartsCall.length-1);
+if(chartsCall != "")
+omniCall.dynCharts = chartsCall;
+}
+parseDynCharts();
+
+</script>	
+<script language="JavaScript" src="/sitewide/scripts/omni_config.js"></script>
+<script type="text/JavaScript" language="JavaScript" src="/global/reporting/scripts/omni_functions.js"></script>
+
 
 
 
@@ -69,6 +106,16 @@ additionalVals="";
 }
 
 function launchVideo(clipy){
+players = new Array();
+player = "defaultPlayer";
+players['defaultPlayer'] = new Array("cmtmediaplayer","796","572");	
+players['moviePlayer'] = new Array("vh1MovieMediaPlayer","776","556");
+
+qsKeys = clipy.split("&");
+for (i=0; i<qsKeys.length; i++) {
+if (qsKeys[i].split("=")[0] == "player") player = (qsKeys[i].split("=")[1]);
+}
+
 clipyNew = clipy
 clipy = clipyNew
 
@@ -78,6 +125,8 @@ if(clipyNew.indexOf('orgID=')<0 && window.orgID)
 clipy = clipy + "&" + "orgID=" + orgID	
 if(clipyNew.indexOf('gateway=')<0 && window.gateway)
 clipy = clipy + "&" + "gateway=" + gateway 
+if(clipyNew.indexOf('portal=')<0 && window.portal)
+clipy = clipy + "&" + "portal=" + portal; 
 if(clipyNew.indexOf('paid=')<0 && window.paid)
 clipy = clipy + "&" + "paid=" + paid
 if(clipyNew.indexOf('seriesID=')<0 && window.seriesID)
@@ -106,8 +155,8 @@ attSw = 'no';
 
 sUrl = "/sitewide/apps/mediaplayer/index.jhtml?" + clipy + ss + ap + additionalVals;
 
-attrs = 'width=796,';
-attrs += 'height=572,';
+attrs = 'width=' + players[player][1] + ',';
+attrs += 'height=' + players[player][2] + ',';
 attrs += 'left=25,top=25,';
 attrs += 
 'scrollbars=' + attSw + 
@@ -118,7 +167,11 @@ attrs +=
 ',status=' + attSw + 
 ',menubar=' + attSw;
 
-cmtmediaplayer=window.open(sUrl,'cmtmediaplayer',attrs);	
+var pWin = false;
+pWin = window.open(sUrl, players[player][0], attrs);	
+popCheck(pWin);
+pWin.focus();
+
 }
 </script>
 
@@ -145,6 +198,15 @@ tuner = window.open('http://radio.sonicnet.com/player/launchplayer.asp?A='+varSt
 
 <body>
 
+<!-- body_element.jhtml -->
+
+<!-- Omniture Call -->
+<div style="display:none;">
+<script type="text/javascript" language="javascript" src="/global/reporting/scripts/s_code_remote.js"></script><img name="s_i_cmtvia" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/cmtvia/1/G.7-PD-R/s84591161922835?[AQB]&amp;ndh=1&amp;t=24/1/2020%202%3A45%3A23%201%200&amp;pageName=/undefined&amp;g=https%3A//web.archive.org/web/20050403105617id_/http%253A//www.cmt.com/interact/terms/index.jhtml%2523pp&amp;cc=USD&amp;h2=undefined&amp;c4=not_logged_in&amp;c21=cmt&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+</div>
+
+<!-- /body_element.jhtml -->
+
 <div id="pagebody">
 <!-- top ad space -->
 <div id="header_ad_space">
@@ -153,7 +215,7 @@ tuner = window.open('http://radio.sonicnet.com/player/launchplayer.asp?A='+varSt
 <script language="JavaScript">if (isNaN(document.axel)) {document.axel = Math.random() + ""; ord = document.axel * 1000000000000000000;}
 var ad = '<SCRIPT language="JavaScript1.1" src="http://ad.doubleclick.net/adj/country.mtvi/terms;gateway=interact;section_1=terms;pageName=index;dcopt=ist;sz=728x90;tile=1;ord=' + ord + '?"><\/SCRIPT>';
 document.write(ad);
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/country.mtvi/terms;gateway=interact;section_1=terms;pageName=index;dcopt=ist;sz=728x90;tile=1;ord=168828708569997980?"></script><noscript><A HREF="http://ad.doubleclick.net/jump/country.mtvi/terms;gateway=interact;section_1=terms;pageName=index;dcopt=ist;sz=728x90;tile=1;ord=2111843159?" target="_blank"><IMG SRC="http://ad.doubleclick.net/ad/country.mtvi/terms;gateway=interact;section_1=terms;pageName=index;dcopt=ist;sz=728x90;tile=1;ord=2111843159?" border="0" width=728 height=90></A></noscript>
+</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/country.mtvi/terms;gateway=interact;section_1=terms;pageName=index;dcopt=ist;sz=728x90;tile=1;ord=587869372552574600?"></script><noscript><A HREF="http://ad.doubleclick.net/jump/country.mtvi/terms;gateway=interact;section_1=terms;pageName=index;dcopt=ist;sz=728x90;tile=1;ord=306831376?" target="_blank"><IMG SRC="http://ad.doubleclick.net/ad/country.mtvi/terms;gateway=interact;section_1=terms;pageName=index;dcopt=ist;sz=728x90;tile=1;ord=306831376?" border="0" width=728 height=90></A></noscript>
 </div>
 
 </div>
@@ -216,8 +278,6 @@ document.searchForm.onsubmit=formSub;
 <li><a href="/artists/browse/a.jhtml">Browse Artists</a></li>
 <li><a href="/artists/flipbooks/">Photo Galleries</a></li>
 <li><a href="/artists/tours/">Tour Dates</a></li>
-<li><a href="/artists/cmt_tours/">CMT on Tour</a></li>
-<li><a href="http://www.musicstation.com/rockontv/" target="_blank">Music On TV</a></li>
 </ul>
 </div>
 
@@ -228,7 +288,7 @@ document.searchForm.onsubmit=formSub;
 <li><a href="/music/radio/">Radio CMT</a></li>
 <li><a href="/music/videos/">Videos</a></li>
 <li><a href="/music/new_voices_no_cover/">New Voices No Cover</a></li>
-<li><a href="/partners/broadband/">Broadband Zone</a></li>
+<li><a href="/music/studio_330_sessions/">Studio 330 Sessions</a></li>
 </ul>
 </div>
 
@@ -246,7 +306,7 @@ document.searchForm.onsubmit=formSub;
 <li><a href="/interact/charts/">Charts</a></li>
 <li><a href="/interact/boards/">Message Boards</a></li>
 <li><a href="/interact/sweepstakes/">Sweepstakes</a></li>
-<li><a href="/interact/my_account/newsletter_list.jhtml">Newsletter</a></li>
+<li><a href="/interact/newsletters/">Newsletters</a></li>
 <li><a href="/interact/my_account/join.jhtml">Join CMT</a></li>
 <li><a href="/interact/help/">Help/FAQ</a></li>
 </ul>
@@ -273,7 +333,8 @@ fixNavList(document.all.item('menu4'));
 fixNavList(document.all.item('menu5'));
 fixNavList(document.all.item('menu6'));
 </script>
-<![endif]--></div>
+<![endif]-->
+</div>
 <div id="header_interact_module">
 <a href="http://cmtshop.cmt.com/basket.aspx"><img src="/sitewide/includes/headerfooter/img/cart-icon.gif" width="11" height="16" border="0" align="middle">cart</a> | <a href="/interact/my_account/my_account.jhtml">my account</a> | <a href="/interact/help/">help</a><img src="/sitewide/assets/img/decor/spc.gif" width="10" height="1">
 
@@ -294,7 +355,7 @@ Interact:
 
 <div id="centercol" class="all">
 <div class="storytext">
-<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left"><a href="#pp">Go to Privacy Statement</a></td><td align="right">UPDATED: 08.17.2004</td></tr></tbody></table> <br>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left"><a href="#pp">Go to Privacy Statement</a></td><td align="right">UPDATED: 12.09.2004</td></tr></tbody></table> <br>
 <div align="center"><a name="tou"><b>TERMS OF USE</b></a></div>
 <br><br>
 <b>PLEASE READ THESE TERMS OF USE CAREFULLY BECAUSE THEY DESCRIBE YOUR RIGHTS AND RESPONSIBILITIES</b>
@@ -306,7 +367,7 @@ This Site is offered and made available only to users 13 years of age or older w
 The words "<b>use</b>" or "<b>using</b>" in this agreement, means any time an individual (a "<b>user</b>"), directly or indirectly, with or without the aid of a machine or device, does or attempts to access, interact with use, display, view, print or copy from the Site, transmit, receive or exchange data or communicate with the Site, or in any way utilizes, benefits, takes advantage of or interacts with any function, service or feature of the Site, for any purpose whatsoever. This agreement does not cover your rights or responsibilities with respect to third party content or sites or any links that may direct your browser or your connection to third party sites or pages. This is the entire and exclusive agreement between you and us regarding use of the Site and it cannot be modified, except as specifically described below in Section 2.
 <br><br>
 <b>1. REGISTRATION</b><br>
-We require each user to have a unique user name and password combination in order to use the features and functions of the Site and we may, from time to time, also provide users with additional codes or passwords necessary to perform certain functions on the Site. Please read our <a href="#pp">Privacy Statement</a>, which describes how we collect and use your personal information. You will then choose a user name and password (or we may assign an initial password which we will give you the option to change). Your user name and password are personal to you and you may not allow any others to use your user name or password under any circumstances. We are not liable for any harm caused or related to the theft or misappropriation of your user name or password, disclosure of your user name or password, or your authorization anyone else to use your user name or password. You agree to immediately notify us if you become aware of or believe there is or may have been any unauthorized use of (or activity using) your user name or password or any other need to deactivate your user name or password due to security concerns. During registration (and possibly at certain other times to enable your use of other features or functions or for security purposes), you will be required to register and provide us with certain information about you ("<b>User Information</b>"), in order for us to allow you to use the features and functions of the Site, including chat rooms, message boards, electronic mail services, messaging services, auctions, shopping, registration and member profile pages. 
+We require each user to have a unique user name and password combination in order to use the features and functions of the Site and we may, from time to time, also provide users with additional codes or passwords necessary to perform certain functions on the Site. Please read our <a href="#pp">Privacy Statement</a>, which describes how we collect and use your personal information. You will then choose a user name and password (or we may assign an initial password which we will give you the option to change). Your user name and password are personal to you and you may not allow any others to use your user name or password under any circumstances. We are not liable for any harm caused or related to the theft or misappropriation of your user name or password, disclosure of your user name or password, or your authorization of anyone else to use your user name or password. You agree to immediately notify us if you become aware of or believe there is or may have been any unauthorized use of (or activity using) your user name or password or any other need to deactivate your user name or password due to security concerns. During registration (and possibly at certain other times to enable your use of other features or functions or for security purposes), you will be required to register and provide us with certain information about you ("<b>User Information</b>"), in order for us to allow you to use the features and functions of the Site, including chat rooms, message boards, electronic mail services, messaging services, auctions, shopping, registration and member profile pages. 
 <br><br>
 It is your responsibility to give us current, complete, truthful and accurate information and to keep the information that you provide to us up to date. We cannot and will not be responsible for any problems or liability that may arise if you do not give us accurate, truthful or complete information or you fail to update the information you give us. Please read our <a href="#pp">Privacy Statement</a>, which describes how MTVN collects and uses your personal information. 
 <br><br>
@@ -322,7 +383,7 @@ All Site software, design, text, images, photographs, illustrations, audio and v
 From time to time, you may communicate with, receive communications from, be re-directed to, interact with, or participate in or use the services or obtain goods and services of or from, third parties (e.g., advertisers) as a result of your use of the Site. All such communication, interaction and participation is strictly and solely between you and such third party and we shall not be responsible or liable to you in any way in connection with these activities or transactions (including, without limitation, any representations, warranties, covenants, contracts or other terms or conditions that may exist between you and the third party or any goods or services you may purchase or obtain from any third party). 
 <br><br>
 <b>5. RULES OF CONDUCT</b> <br>
-Your use of the Site is subject to all applicable local, state, national laws and regulations and, in some cases, international treaties. You are solely responsible for all activities, acts and omissions that occur in, from, through or under your user name or password. You shall not use, allow enable others to use the Site, or knowingly condone use of this Site by others, in any manner that is, attempts to, or is likely to: 
+Your use of the Site is subject to all applicable local, state, national laws and regulations and, in some cases, international treaties. You are solely responsible for all activities, acts and omissions that occur in, from, through or under your user name or password. You shall not use, allow or enable others to use the Site, or knowingly condone use of this Site by others, in any manner that is, attempts to, or is likely to: 
 <ul><li>	be, libelous, defamatory, indecent, vulgar or obscene, pornographic, sexually explicit or sexually, racially, culturally, ethnically offensive, harmful, harassing, intimidating, threatening, hateful, objectionable, discriminatory or abusive or which may or may appear to, impersonate anyone else; </li>
 <li>	affect us adversely or reflect negatively on us, the Site, our goodwill, name or reputation or cause duress, distress or discomfort to us or anyone else, or discourage any person, firm or enterprise from using all or any portion, features or functions of the Site, or from advertising, linking or becoming a supplier to us in connection with the Site; </li>
 <li>	send or result in the transmission of junk e-mail, chain letters, duplicative or unsolicited messages, or so-called "spamming"; </li>
@@ -332,7 +393,7 @@ Your use of the Site is subject to all applicable local, state, national laws an
 <li>	modify, disrupt, impair, alter or interfere with the use, features, functions, operation or maintenance of the Site or the rights or use and enjoyment of the Site by any other person, firm or enterprise; or </li>
 <li>	collect, obtain, compile, gather, transmit, reproduce, view or display any information, whether personally identifiable or not, concerning any other person, firm or enterprise, in connection with their or your use of the Site, unless you have obtained the express, prior permission of such other person, firm or enterprise to do so.</li> </ul>
 <b>6. DEACTIVATION/TERMINATION OF YOUR REGISTRATION</b><br>
-You may deactivate your account on the Site, at any time and for any reason, by <a href="/interact/my_account/signin.jhtml">clicking here</a>. Log in, select "edit preferences", then click on the link "	Click <a href="mailto:questions@cmt.com">here</a> to send your support request" and notify us of your desire to have your account deactivated. We may terminate your use of and registration on the Site, at any time and for any reason, with or without cause, without prior notice to you and without any liability or further obligation of any kind whatsoever to you or any other party. 
+You may deactivate your account on the Site, at any time and for any reason, by <a href="/interact/my_account/signin.jhtml">clicking here</a>. Log in, select "edit preferences", then click on the link.	Click <a href="mailto:questions@cmt.com">here</a> to send your support request and notify us of your desire to have your account deactivated. We may terminate your use of and registration on the Site, at any time and for any reason, with or without cause, without prior notice to you and without any liability or further obligation of any kind whatsoever to you or any other party. 
 <br><br>
 <b>7. DISCLAIMER AND LIMITATIONS OF LIABILITY</b><br>
 THIS SITE, AND ALL MATERIALS, PRODUCTS AND POSTINGS ARE MADE AVAILABLE ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITHOUT ANY REPRESENTATION OR WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, OR ANY GUARANTY OR ASSURANCE THE SITE WILL BE AVAILABLE FOR USE, OR THAT ALL PRODUCTS, FEATURES, FUNCTIONS OR OPERATIONS WILL BE AVAILABLE OR PERFORM AS DESCRIBED. Without limiting the foregoing, MTVN is not responsible or liable for any malicious code, delays, inaccuracies, errors, or omissions arising out of your use of the Site. As between you and MTVN you are assuming the entire risk as to the quality, accuracy, performance, timeliness, adequacy, completeness, correctness, authenticity, security and validity of any and all features and functions of the Site, including, without limitation, Postings and Materials associated with your use of the Site. 
@@ -342,7 +403,7 @@ YOU UNDERSTAND AND AGREE THAT, TO THE FULLEST EXTENT PERMISSIBLE BY LAW, NEITHER
 Notwithstanding any claim that a sole or exclusive remedy which is provided in this agreement may or does fail of its essential purpose, you specifically acknowledge and agree that your sole and exclusive remedy for any loss or damage shall be to have MTVN, upon written notice from you to us, attempt to repair, correct or replace any deficient goods or services under this agreement and, if repair, correction or replacement is not reasonably commercially practicable for MTVN, to refund any monies actually paid by you for the Product involved and to terminate and discontinue your use of the site. You further understand and acknowledge the capacity of the Site, in the aggregate and for each user, is limited. Consequently some messages and transmissions may not be processed in a timely fashion or at all, and some features or functions may be restricted or delayed or become completely inoperable. As a result, you acknowledge and agree that MTVN assumes no liability, responsibility or obligation to transmit, process, store, receive or deliver Postings or for any failure or delay associated with any Postings and you are hereby expressly advised not to rely upon the timeliness or performance of the Site for any Postings. Some jurisdictions do not allow for the exclusion of certain warranties or certain limitations on damages and remedies, accordingly some of the exclusions and limitations described in this agreement may not apply to you. 
 <br><br>
 <b>8. SHOPPING</b> <br>
-AAll e-commerce on the Site is brought to you by MTVN Direct Inc. While supplies last. All goods and services offered for sale on the Site ("Products") are guaranteed by the manufacturer, licensor or distributor against defects in material and workmanship for 30 days from the date of the invoice. Within that time period, just contact <a href="mailto:shop@cmt.com">Customer Service</a>and we will coordinate attempting to correct, repair or replace the defective Product or, if applicable, in obtaining a refund for you. We have no responsibility or liability whatsoever for goods or services you may obtain from or through other web sites or web pages, even if you were directed or linked to such a site or page through the Site, nor are we responsible for assisting you in correcting any problem you may experience with Products if you do not notify us within the 30 day period noted above or for any goods or services not obtained directly on the Site. You agree that your sole and exclusive remedy and our sole, exclusive and maximum liability arising from or relating in any way to any Product shall be the amount you actually paid us (or our suppliers or other e-commerce partners) for it. EXCEPT AS SPECIFICALLY SET FORTH IN THIS AGREEMENT, WE EXPRESSLY DISCLAIM ANY AND ALL LIABILITY ARISING FROM OR RELATING IN ANY WAY TO ANY AND ALL PRODUCTS. EXCEPT AS SPECIFICALLY MADE IN WRITING, WE EXPRESSLY DISCLAIM ALL REPRESENTATIONS AND WARRANTIES OF ANY AND EVERY KIND, EXPRESS OR IMPLIED, WITH RESPECT TO ANY AND ALL PRODUCTS, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTY OF MERCHANTABILITY OR OF FITNESS FOR A PARTICULAR PURPOSE.
+All e-commerce on the Site is brought to you by MTVN Direct Inc. While supplies last. All goods and services offered for sale on the Site ("Products") are guaranteed by the manufacturer, licensor or distributor against defects in material and workmanship for 30 days from the date of the invoice. Within that time period, just contact <a href="mailto:shop@cmt.com">Customer Service</a>and we will coordinate attempting to correct, repair or replace the defective Product or, if applicable, in obtaining a refund for you. We have no responsibility or liability whatsoever for goods or services you may obtain from or through other web sites or web pages, even if you were directed or linked to such a site or page through the Site, nor are we responsible for assisting you in correcting any problem you may experience with Products if you do not notify us within the 30 day period noted above or for any goods or services not obtained directly on the Site. You agree that your sole and exclusive remedy and our sole, exclusive and maximum liability arising from or relating in any way to any Product shall be the amount you actually paid us (or our suppliers or other e-commerce partners) for it. EXCEPT AS SPECIFICALLY SET FORTH IN THIS AGREEMENT, WE EXPRESSLY DISCLAIM ANY AND ALL LIABILITY ARISING FROM OR RELATING IN ANY WAY TO ANY AND ALL PRODUCTS. EXCEPT AS SPECIFICALLY MADE IN WRITING, WE EXPRESSLY DISCLAIM ALL REPRESENTATIONS AND WARRANTIES OF ANY AND EVERY KIND, EXPRESS OR IMPLIED, WITH RESPECT TO ANY AND ALL PRODUCTS, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTY OF MERCHANTABILITY OR OF FITNESS FOR A PARTICULAR PURPOSE.
 <br><br>
 If a Product is listed at an incorrect price or with incorrect information, we reserve the right to refuse or cancel orders placed for that Product, whether or not the order has been confirmed and even if your account has been charged (in which event we will issue a credit to your account in the amount of the charge). 
 <br><br>
@@ -378,12 +439,12 @@ The Site is operated by or on behalf of MTVN in the United States and is intende
 <br><br>
 <hr align="center" width="75%" noshade="">
 <br><br>
-<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left"><a href="#tou">Go to Terms of Use</a></td><td align="right">UPDATED: 08.17.2004</td></tr></tbody></table> <br>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left"><a href="#tou">Go to Terms of Use</a></td><td align="right">UPDATED: 12.09.2004</td></tr></tbody></table> <br>
 <div align="center"><a name="pp"><b>PRIVACY STATEMENT</b></a></div>
 <br><br>
 We are committed to protecting our users' privacy. Keeping the information you share with us on the Site secure and ensuring your understanding of how we collect, use and maintain your information is important to us at MTVN. We maintain physical, electronic and procedural safeguards to protect your information and while no data transmission over the Internet is 100% secure from intrusion, we have used and will continue to use commercially reasonable efforts to ensure the protection of your information. We continually assess new technology for protecting information and, when appropriate, we upgrade our information security systems.
 <br><br>
-Because of its importance and to make it easier for you to find and review it, we have made this Privacy Statement into a separate document on the Site. However, bear in mind it is a part of our agreement with you and the terms and conditions contained in our <a href="#tou">Terms of Use</a> describe how and when we may make changes to these statements and terms, and how they become binding upon you. CMT reserves the right to modify this policy. Any changes to the policy will be posted on this page. Users are encouraged to check the page regularly as they will be bound by the changes once posted on the site.
+Because of its importance and to make it easier for you to find and review it, we have made this Privacy Statement into a separate document on the Site. However, bear in mind it is a part of our agreement with you and the terms and conditions contained in our <a href="#tou">Terms of Use</a> describe how and when we may make changes to these statements and terms, and how they become binding upon you. We reserve the right to modify this policy. Any changes to the policy will be posted on this page. Users are encouraged to check the page regularly as they will be bound by the changes once posted on the site.
 <br><br>
 <b>Disclosure (General)</b>: Although your privacy is very important to us, in this legal and technical environment, we cannot fully ensure that your personally identifiable information will not be disclosed to third parties. Please see "Disclosure to Third Parties", below, for more information.
 <br><br>
@@ -397,7 +458,7 @@ You can visit the Site and learn about our company and its Products, as well as 
 <br><br>
 <b>Personally Identifiable Information</b>: When we use the term "personally identifiable information" we mean information such as your full name, street address, town or city, state, zip code, telephone number, instant-messenger nickname, date of birth, e-mail address and any other information that would allow someone to identify you or contact you. Personally identifiable information also includes information about your transactions or relationship with us, if you have been a customer or you have provided this type of information to any of the MTVN family of companies. For example, if you order any of our Products, in addition to your name and contact information, we will also collect and maintain your billing address, shipping address, Product selections, your credit card or other payment instrument information, your order number, and information about your computer's internet address and web site which may have referred or directed you to the Site (e.g., the referring URL). We collect this and other information to fill your order, to communicate with you about your order and to send you promotional materials.
 <br><br>
-Although we may track the numbers of visitors to inform us on how best to update the Site and enhance the experience for all visitors, personally identifiable information is not extracted in this process. We use tracking information on an aggregated basis to help us operate the Site, enhance and improve our service, improve the look of the Site and display advertising and marketing information.
+Although we may track the number of visitors to inform us on how best to update the Site and enhance the experience for all visitors, personally identifiable information is not extracted in this process. We use tracking information on an aggregated basis to help us operate the Site, enhance and improve our service, improve the look of the Site and display advertising and marketing information.
 <br><br>
 We collect personally identifiable information about you when you visit the Site and input information, whether you are registering to use the Site, enrolling or signing up for features and functions, participating in Promotions, ordering or purchasing Products or in the course of any other exchanges of information, transactions and activities. We may use the information we obtain from you, including personally identifiable information, to tailor your experience on the Site, to display content we think may be of interest to you, or to let us customize what you see when you visit the Site according to your preferences.
 <br><br>
@@ -428,7 +489,7 @@ We do not sell or market your personally identifiable information to unaffiliate
 <br><br>
 Some of the aggregate customer data we collect may be shared with advertising companies in order to enhance and improve the operation and relevance of the Site, but we do not give any personally identifiable information to them as part of this relationship. Use of their tracking technology is subject to their own privacy policies. For more information about these third party servers and how to "opt out" of the ad serving cookie, please <a href="http://www.doubleclick.com/us/" target="_new">click here</a>.
 <br><br>
-<b>Communications from Us</b>: If you provide us with your e-mail address, we may occasionally send you an e-mail. You may "opt out" of receiving e-mails from us by going to the <a href="http://www.cmt.com">CMT.com home page</a>, clicking the "EDIT ACCOUNT" link, and (1) unregistering your account, or (2) changing your newsletter subscription choices via the "Your Newsletters" link.
+<b>Communications from Us</b>: If you provide us with your e-mail address, we may occasionally send you an e-mail. You may "opt out" of receiving e-mails from us by going to the <a href="http://www.cmt.com">CMT.com home page</a>, clicking the "MY ACCOUNT" link, and (1) unregistering your account, or (2) changing your newsletter subscription choices via the "Your Newsletters" link.
 <br><br>
 <b>Summary</b>: Our privacy guidelines are designed to ensure that we: 
 <ul><li>	collect and use your personally identifiable information only as necessary to deliver high quality service, to administer our business and to let you know of goods and services that are available from our family of companies; </li>
@@ -437,7 +498,7 @@ Some of the aggregate customer data we collect may be shared with advertising co
 <li>	require any other organization that we retain or engage to provide services for us, to conform to our privacy standards and to allow us to audit them for compliance; </li>
 <li>	exchange information about you and carry out credit approvals or checks necessary for your purchases of Products from us, to prevent fraud and any other activities we may be required to monitor and report under applicable laws and regulations; and </li>
 <li>	make every effort to keep your personally identifiable information complete, up to date, and accurate based on the information you provide us. Our Site provides a convenient and easy to use mechanism to allow you to access and update the personally identifiable information you give us.</li> </ul>
-You may "opt out" of receiving e-mails from us via the "EDIT ACCOUNT" link on the <a href="http://www.cmt.com">CMT.com home page</a>.
+You may "opt out" of receiving e-mails from us via the "MY ACCOUNT" link on the <a href="http://www.cmt.com">CMT.com home page</a>.
 <br><br>
 <b>Questions</b>: If you have questions about our Privacy Statement, you can go directly to our <a href="/interact/help/">Frequently Asked Questions</a> section, which we hope will be helpful and is designed to answer many of your questions. If you still cannot find the answer to a question related to our Privacy Statement or if you do not understand any of our information about how we collect, maintain, use or share your personally identifiable information, you may contact us directly by <a href="mailto:questions@cmt.com">clicking here</a>. Because we receive such a high volume of e-mails and communication, please do not use this particular form or e-mail address for anything else, because we will not be able to respond if your question does not relate to our privacy statement.
 <br><br>
@@ -472,7 +533,7 @@ E-commerce on this website is brought to you by MTVN Direct Inc.
 </td>
 <td>
 <p class="copyright" align="left">
-©2004 Country Music Television, Inc.,<br>
+©2005 Country Music Television, Inc.,<br>
 a Viacom company<br>
 A division of MTV Networks<br>
 All Rights Reserved.<br>
