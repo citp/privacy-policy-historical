@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sierratradingpost.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004091229id_/http%3A//www.sierratradingpost.com/StaticText/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sierratradingpost.com privacy policy that was archived on 2003-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030413194240id_/http%3A//www.sierratradingpost.com/staticText/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Sierra Trading Post: Customer Service / Privacy Policy
 
@@ -23,4 +23,4 @@ For questions or changes regarding privacy or your mailing list status, please c
 
 **Cookies:** We do use cookies. Cookies are pieces of information planted on your computer by our Web Server. These cookies are used for shopping cart identification only. Shopping baskets are created and stored on our web server. The cookie identifies which shopping basket belongs to each individual customer. We do not use cookies to track individual navigation. 
 
-[ << Return to Customer Service](http://www.sierratradingpost.com/StaticText/customerservice.asp?mscssid=F36MDHUDWJGL9K18389JD2RGEGSC5MNE)
+[ << Return to Customer Service](http://www.sierratradingpost.com/StaticText/customerservice.asp?)
