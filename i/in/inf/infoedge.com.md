@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the infoedge.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207154927id_/http%3A//www.infoedge.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoedge.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610103011id_/http%3A//infoedge.com/privacy.asp) for the most accurate reproduction.*
 
-# 
+# InfoEdge: Privacy Statement and Practices
 
 You visit the InfoEdge Web Site without revealing your name or any other information about yourself. InfoEdge does not electronically collect any personal data from visitors or their browsers without their express and proactive consent. 
 
@@ -10,5 +10,5 @@ If you wish your name to be removed from any listing, please write to
 **InfoEdge Inc.,  
 Attn: Jill Whitney, Customer Service   
 Two Stamford Landing   
-Stamford, CT, 06902**   
+Stamford, CT, 06902-7233**   
 or email us at [Jill.Whitney@InfoEdge.com](mailto:Jill.Whitney@InfoEdge.com?subject=Name%20Remove)
