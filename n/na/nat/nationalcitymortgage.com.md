@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the nationalcitymortgage.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604145023id_/http%3A//www.nationalcitymortgage.com/ncm_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalcitymortgage.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210094847id_/http%3A//www.nationalcitymortgage.com/ncm_privacy.asp) for the most accurate reproduction.*
 
 # National City Mortgage Co. Privacy Notice
+
+  
+**National City Mortgage Co. Privacy Notice**
 
 **  _OPT-OUT_ : _We will not share your nonpublic personal information with others as defined below. National City, on your behalf, has exercised your right to opt-out under the 12 CFR Part 40, Privacy of Consumer Financial Information_** _._
 
@@ -58,11 +61,11 @@ National City's Pledge to You
 
 We believe that your privacy should never **** be compromised. At the same time, we want to offer you the array of financial products and services you need to accomplish your financial goals. We believe we can do both by adhering to the provisions of this privacy notice.
 
- ****
+**Effective Date and Changes**
 
-**National City Companies (Please visit nationalcitymortgage.com for a current list.):** National City Bank; National City Bank of Kentucky; Churchill Insurance Agency, Inc.; National City Insurance Agency of Kentucky, Inc.; NatCity Investments, Inc.; National City Bank of Pennsylvania; National City Insurance Agency of Pennsylvania, Inc.; National City Bank of Southern Indiana; Sterling Private Investments, Inc.; National City Bank of Indiana; National City Mortgage Co.; National City Home Loan Services, Inc.; First Franklin Financial Corporation; The Madison Bank & Trust Company; National City Bank of Michigan/Illinois; NatCity Insurance Services, Inc.; National City Insurance Group, Inc.; National City Investment Management Company?; National City Mortgage Services Co.; Alliance Title Agency, LLC; New England Trust Company; National City Abstract, LLC
+The effective date of this Privacy Notice is provided below.  Any updates or changes to the Notice will be posted on this web site.  Consumers who are National City customers will be notified of updates' and changes in accordance with federal law.
 
- ****
+**National City Companies (Please visit nationalcity.com for a current list.):** National City Bank, National City Bank of Kentucky, Churchill Insurance Agency, Inc., National City Insurance Agency of Kentucky, Inc., NatCity Investments, Inc., National City Bank of Pennsylvania, National City Insurance Agency of Pennsylvania, Inc., National City Bank of Southern Indiana, Sterling Private Investments, Inc., National City Bank of Indiana, National City Mortgage Co., National City Home Loan Services, Inc., First Franklin Financial Corporation, The Madison Bank & Trust Company, National City Bank of the Midwest, Allegiant Insurance Services, Allegiant Investment Counselors, NatCity Insurance Services, Inc., National City Insurance Group, Inc., National City Investment Management Company®, National City Mortgage Services Co., Alliance Title Agency, LLC, New England Trust Company, N.A., National City Abstract, LLC
 
 ***Vermont Residents Only:** In Vermont the information we disclose under joint marketing agreements must be limited to your name, contact information, and information about our own transactions and experiences with you. Your consent is required before we can share certain credit information about you with our affiliates. We are permitted to share information, which is not a credit report under Vermont law without your consent, such as information related solely to our transactions and experiences with you. 
 
