@@ -1,106 +1,102 @@
-> *The following text is extracted and transformed from the fileplanet.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606035029id_/http%3A//corp.igngamespy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileplanet.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010032143id_/http%3A//corp.igngamespy.com/privacy.html) for the most accurate reproduction.*
 
-# IGN/GameSpy - Corporate Site
+# IGN Entertainment - Corporate Site
 
 **Privacy Policy**
 
-**Updated December 18, 2003**
+**Updated August 11, 2004**
 
-**Our Approach to Privacy.** IGN respects your privacy. Our staff, contractors and others who help us operate our web sites follow this policy on privacy and fair information practices for online activities of IGN Entertainment, Inc.
+**Overview**
 
-This Privacy Policy applies to the web sites owned by IGN Entertainment, Inc. including IGN.com, VaultNetwork.com, GameSages.com, GameStats.com and TeamXbox.com. We refer to these web sites as the **IGN Sites.**
+IGN Entertainment Inc. (together with its subsidiaries, "IGN" or "we") considers the protection of personal privacy to be one of our most important values. This privacy policy ("Policy") gives you specific information on how we protect your privacy, how we treat personal information, and the choices you have. 
 
-While the IGN Sites offer different combinations of services and tools from one site to another, this policy states IGN's company-wide Privacy Policy with regard to data-collection practices.
+This Policy applies to all web sites and services owned or provided by IGN and its subsidiaries (including GameSpy), which we refer to here collectively as "IGN Sites". IGN Sites include, but are not limited to, IGN.com, VaultNetwork.com, GameSages.com, GameStats.com, TeamXbox.com, GameSpy.com, Gamespyarcade.com, Rottentomatoes.com, and Fileplanet.com, as well as other IGN-branded services. From time to time we may add new sites, domain names or services to those listed above. Please note that this Policy applies only to sites owned and services maintained by IGN or its corporate subsidiaries and not to web sites or services provided by other companies or organizations to which we link. 
 
-By registering as a member of an IGN Site, you agree to accept this Privacy Policy and are aware that our policy may change over time as discussed below.
+As a condition of using the IGN Sites, you agree to be bound by the terms of this Policy. Additional terms and conditions which govern your use of the IGN Sites are contained in our User Agreement, and, as applicable, in certain other service"specific license agreements or terms of use, which you will be notified of at the time of your registration for the applicable services. 
 
- **Overview of our Policy**
+The Policy is accessible through the IGN Sites in several ways, including from a link entitled "Privacy" at the bottom of the IGN.com home page. You acknowledge that this Policy may change over time. If we make a material change to the terms of this Policy, we will give you 30 days notice of those changes ("Notice Period") through reasonably prominent disclosure, including via email. However, you should check the IGN Sites (and IGN.com in particular) regularly for these and other important announcements. Your continued use of the IGN Sites following the Notice Period will signify that you agree to these changes. 
 
-**The security of personal information is a high priority at IGN.** We maintain these web sites and all associated data with technical, administrative and physical safeguards to protect against loss, unauthorized access, destruction, misuse, modification and improper disclosure. No computer system or information can ever be fully protected against every possible hazard. But IGN is committed to providing reasonable and appropriate security controls to protect our web sites and their information against foreseeable hazards.
+**Children**
 
-The information you provide helps us, and our partners (including our service providers, advertisers and other partners) make the IGN Sites more fun and useful for you. It also enables us to provide you updates about our services and special offers from our partners. When you become a registered member of one of our sites, you may receive email or postal mail from IGN and our partners.
+The IGN Sites are not directed to children under the age of 13. The IGN Sites prohibit registration by, and IGN will not knowingly collect personally identifiable information from, anyone under 13. This requirement will be posted at points of data collection within the IGN Sites, such as registration for services. 
 
-Please keep in mind that whenever you voluntarily disclose personal information in public areas of an IGN Site, such as the member home pages and message boards, your information can be viewed and possibly used by others. We advise users not to disclose information that can be used to contact the user ("Personally Identifiable information") that they do not wish for others to obtain, such as full name, home address, or phone number.
+**Note to Parents.** If you have any concerns about the IGN Sites, please contact us via our online form, available at [http://support.igngamespy.com](http://support.igngamespy.com/). IGN encourages parents to spend time online with their children. We also urge parents to instruct their children never to give out their real names, addresses or phone numbers without parental permission when using the Internet. 
 
- **Changes to this Policy**
+**Information Collection, Storage and Use**
 
-This Privacy Policy will always be available to users on this page for you to read. We will update this privacy and fair information practices policy to reflect new features, services and options, as well as any other changes with regard to the use of personal information. Users will be notified by a notice on the IGN Site of any significant update to our Privacy Policy. By registering as a member of an IGN Site, you agree to accept this Privacy Policy and are aware that our policy may change over time. Continued use of the IGN Sites or other IGN services will signify that you agree to these changes. 
+We refer to information that identifies an individual as "Personal Information". In general, IGN collects Personal Information from users of the IGN Sites in connection with access to certain online areas or services, including during (i) registration for certain online community services and tools such as message boards, chat rooms or other community services; (ii) registration for special communications, such as email updates and newsletters; (iii) subscription registration; (iv) user surveys; (v) events, sweepstakes, contests or promotions; and (vi) registration for online multi- or single-player gaming, either through the IGN Sites, within a game publisher"s site or through the game itself. Your Personal Information is stored on IGN computer servers (or those of its service providers) located in the United States. 
 
-**About Children**
+We may gather data about the areas of the IGN Sites you visit or access. We do not use any of this navigational data about where you " as an individual user " go on IGN Sites or share any of this data with third parties. However, we do use and share navigational data in aggregate, non-personal form to understand how our users as a group use the IGN Sites. 
 
-The IGN Sites are not directed to children under the age of 13. The IGN Sites prohibit registration by and will not knowingly collect personally identifiable information from anyone under 13. This requirement will be posted at points of data collection within the IGN Sites, such as registration for services.
+Please keep in mind that whenever you voluntarily disclose personal information in public areas of an IGN Site, such as the member home pages and message boards, your information can be viewed and possibly used by others. We advise users to be especially careful in such public areas about disclosing Personal Information, such as full name, home address, or phone number. 
 
-**Note to Parents.** If you have any concerns about the IGN Sites or its related services, please contact us via our online form, available at <http://www.ign.com/email.html>.
+Below are more details about the Personal Information we, or third parties may gather from you and how we may use it. 
 
- **Information Collection and Use**
+**A. Email Newsletters.** IGN offers email newsletters to its registered users. We will use your email address to send you only the specific newsletter(s) that you signed up for. If you want to update your email address or stop receiving a newsletter, follow the procedures to unsubscribe at the bottom of any newsletter we send you or simply visit [http://my.ign.com](http://my.ign.com/) or [http://www.gamespyid.com](http://www.gamespyid.com/) to update your profile. 
 
-Below are more details about the information the IGN Sites gather from you and how we use it.
+**B. Membership Information.** When you register for membership on an IGN Site, we will ask you for certain minimum required information, such as your name, birth date, gender, email address and zip code. We may also ask for additional information about you and your interests. We do this so we can better understand your preferences and tailor the IGN Sites to suit you better. The more information you volunteer, the more we can tailor the IGN Site and promotions to your interests. Additionally, third partty service providers may require you to assent to their privacy party as a condition to receiving their service. 
 
-**A. Email Newsletters.** IGN offers email newsletters. Only registered users will be able to receive newsletters. We will use your email address only to send you the newsletter(s) ** __** that you signed up for. If you want to update your email address or stop receiving our newsletter, follow the procedures to unsubscribe at the bottom of any newsletter we send you or simply visit [http://my.ign.com](http://my.ign.com/) to update your profile.
+  * **Service Providers.** We offer our members other services provided by third parties such as email and userpages, among others. When you register for membership on an IGN Site or activate a related service by clicking on a particular service link (i.e. email) on an IGN Site, you may be automatically registered to receive the services we offer and some of your Personal Information may be transferred from IGN to those third-party service providers. By becoming a member, you authorize us and our third-party service providers to send you email updates and information about promotions and special offers. We take care to require that our third-party service providers only use our member"s data as necessary to provide the particular service and to give you updates on that service provider"s products and services.
+  *  **Game Owners/Publishers.** We provide game owners/publishers with certain hosted technology and software that enables various game related functionalities, such as online multi- or single-player gaming. If you are not already a registered user of the IGN Sites you may be asked to provide Personal Information in connection with your use of such services. We share Personal Information with game owners/publishers that offer such services to enable those entities to operate the services you have elected to receive. Game owners/publishers may also use Personal Information for other business purposes, provided that such use shall be in compliance with the terms of this Policy, except that a game owner/publisher (a) will not contact you or otherwise use or transfer your Personal Information, unless you have expressly consented. Upon giving such consent your Personal Information will be subject to the game owner's/publisher's privacy policy.
+  *  **Co-registration with Other Sites.** As a member, we offer you the ability to co-register with select third-party partner sites. In some instances where IGN provides co-registration, the co-registration partners allow you to opt-out of their membership. If you choose to co-register with our partners and accept their terms of service, then you are automatically registered as a member of their select web sites and your Personal Information is transferred to those organizations. As a result, you may receive information from one of these web sites as any of their members would. We advise you to review the privacy and data collection policies of the third-party partner sites for further information. In order to cancel your membership with any of these partners you will need to go directly to the partner's site.
+  *  **Advertisers.** IGN may send you emails on behalf of our advertisers. If you opt to receive information from our advertisers they may use your Personal Information to send you advertisements or other notices, via email or postal mail, and it is possible that your information may be shared with others.
+  *  **Other Parties.** We occasionally provide third parties with Personal Information limited only to your physical address in order to send you promotional mailings.
 
-**B. Membership Information.** When you register for membership on one of our sites, we ask for information about you and your interests. We do this so we can better understand what you like and tailor the site to suit you better. At a minimum, we require your name, birth date, gender, email address and zip code. The more information you volunteer, the more we can tailor the site and promotions to your interests. 
+**C. Email Updates to Members.** If you so elect at registration, we may periodically send you promotional email about products or services offered by the IGN Sites, our partners and advertisers. If you want to update your email address or stop receiving these types of promotional emails, please follow the procedures to unsubscribe at the bottom of any email we send you or simply visit [http://my.ign.com](http://my.ign.com/) or [http://www.gamespyid.com](http://www.gamespyid.com/) to update your profile. 
 
-    * **Service Providers.** We also offer our members other services provided by third parties such as free email and free userpages, among others. When you register for membership on an IGN Site or activate a service by clicking on a particular service link (i.e. email) on our sites, you may be automatically registered to receive the free services we offer and some of your Personally Identifiable Information may be transferred from IGN to those third-party service providers. By becoming a member, you authorize us and our third-party service providers to send you email updates and information about promotions and special offers. We take care to require that our third-party service providers only use our member’s data as necessary to provide the particular service and to give you updates on that service provider’s products and services. 
+We may contact you regarding account status, changes to this Policy, our User Agreement or other terms of use, to confirm your registration or for any other business reason related to your use of IGN Sites. 
 
-  
+**D. Promotions.** We may ask you for Personal Information at other times, including, but not limited to, when you enter sweepstakes, contests or promotions sponsored by IGN or a third party. If you choose to enter sweepstakes, contests or promotions sponsored by a third party, the Personal Information you provide will be subject to the privacy policy of the third party sponsor. We encourage you to check the applicable third party policy before providing any Personal Information. 
 
-    * **Co-registration with Other Sites.** As a member, we offer you the ability to co-register with select third-party partner sites. In some instances where IGN provides co-registration, the co-registration partners allow you to opt-out of their membership. If you choose to co-register with our partners and accept their terms of service, then you are automatically registered as a member of their select web sites and your Personally Identifiable Information is transferred to those organizations. As a result, you may ** __**receive information from one of these web sites as any of their members would. We advise you to review their privacy and data collection policies for further information. In order to cancel your membership with any of these partners you will need to go directly to the partner's site.
+**E. Surveys and User Research.** IGN conducts email and web-delivered surveys from time to time, as well as instant polls, to gather information about our users. Taking these surveys and polls is entirely optional. You have no obligation to respond to them. We share only the aggregate results of these surveys, not Personal Information, with our advertisers and partners to help them better understand our services and monitor the reach of their advertising or other offerings on our service. We also use some of the Personal Information that you provide in these surveys to help us understand your interests and to make the IGN Sites more useful to you. 
 
-  
+**F. Use of Cookies.** On the Internet, a "cookie" is a piece of information (a file) that a Web site transfers to a user's computer for record-keeping purposes. The use of cookies is common on the Internet. The process we use to serve advertisements and to track use of the IGN Sites involves cookies. We use cookies to recognize users who have already registered for an IGN Site, allowing those users to speed up their future activities on the IGN Sites. Cookies help IGN and our advertising service (discussed below) track the frequency and placement of advertisements. Cookies also enable us to measure aggregate (total) usage and traffic to the IGN Sites and to specific offerings. This aids us in producing content that best meets our users' preferences. In order to implement new services, we may use other types of cookies as well. We also may use cookies to understand better what parts of the IGN Sites you like best. We may use that information to display advertisements that we think will be of particular interest to you. You may configure your browser to reject cookies, but this may interfere with some functionality of the IGN Sites. To find out more about changing your browser to reject cookies, we suggest the EPIC Cookies Page [http://www.epic.org /privacy/internet/cookies](http://www.epic.org%20/privacy/internet/cookies). Certain pages of the IGN Sites may contain electronic images (called a "single-pixel GIF" or "web beacon") that allow a web site to count users who have visited that page. IGN occasionally uses web beacons on the IGN Sites in order to count users and to recognize registered users by accessing the IGN cookies. 
 
-    * **Advertisers.** By becoming a member, you authorize IGN to share your Personally Identifiable Information with our advertisers. Our advertisers may use your Personally Identifiable Information to send you, via email or postal mail, advertisements or other notices, and it is possible that your information may be shared with others. 
+**G. Purchase of Products or Services.** When you purchase products or services from or through the IGN Sites we may require Personal Information such as name, address, telephone number and billing information, including credit card, debit card or bank account data. IGN will not disclose your Personal Information, including billing information, except to the extent necessary to complete your transaction, for example during an online purchase or where needed to deliver a product or service you ordered. 
 
+**H. Software Updates; Interactive Material.** IGN automatically updates software used in conjunction with certain of the services available on the IGN Sites. In order to update this software, IGN collects a user's current version information from the user"s computer. This information is not archived and is only used to determine which software requires updating. IGN may record audio conversations or copy text chat or video images from chat rooms on the IGN Sites and may disclose such material for use in connection with promoting the IGN Sites. 
 
-**C. Email Updates to Members**. If you so elect at registration, the IGN Sites will periodically send you promotional email about services offered by the IGN Sites, our partners and advertisers. If you want to update your email address or stop receiving these types of promotional emails, please follow the procedures to unsubscribe at the bottom of any email we send you or simply visit [http://my.ign.com](http://my.ign.com/) to update your profile.
+**I. Sites You Visit.** As you access our Partner Sites and browse around the IGN Sites, IGN may store information about which pages and which Partner Sites you visit and other information presented in your browser's URL address line. IGN will use this information to help determine what our users are most interested in. 
 
-The IGN Sites may contact you regarding account status, changes to the user agreement, and to confirm registration. 
+**J. Sharing Non-Personal Information.** IGN may share information that is not Personal Information -- meaning non-personal, aggregate, or summary, information regarding our users -- with other third parties not mentioned in this Policy. This kind of information does not identify you individually. 
 
-**D. Promotions.** We may ask you for Personally Identifiable Information at other times, including, but not limited to, when you enter sweepstakes, contests or promotions sponsored by a third party. If you choose to enter sweepstakes, contests or promotions of this nature, we may share your Personally Identifiable Information with the third party so they can contact you. The third party may use that information to send you advertisements or other notices, and it is possible that your information may be shared with others.
+**K. Merger or Acquisition.** In the event of a merger, acquisition, reorganization, sale of all or substantially all of its assets, or the sale of an individual website owned by IGN, IGN may transfer your Personal Information to a third party as a part of such merger, acquisition, reorganization, or sale. 
 
-**E. Surveys and User Research.** IGN conducts email and web-delivered surveys from time to time, as well as instant polls, to gather information about our audience. It is important to remember that taking these surveys and polls is entirely optional. You have no obligation to respond to them. We share only the aggregate results of these surveys, not individual data, with our advertisers and partners to help them better understand our services and monitor the reach of their advertising on our service. We also store some of the information that our users provide in these surveys to help us understand your interests and to make the site more useful for you.
+**L. Legal Authorities.** We may also disclose Personal Information in cases when we reasonably believe that it is necessary to identify someone who may be violating IGN policies or IGN Sites" User Agreements or other terms of use, or who may be a threat to IGN or third party rights, property, or personal safety. The IGN Sites may disclose Personal Information to comply with valid legal process such as a duly issued search warrant, subpoena or court order. 
 
-**F. Use of Cookies.** On the Internet, a "cookie" is a piece of information (a file) that a Web site transfers to a user's computer for record-keeping purposes. The use of cookies is common on the Internet. The process we use to serve advertisements and to track use of our site involves cookies. Cookies help IGN and our advertising service (discussed below) track the frequency and placement of advertisements. Cookies also enable us to measure aggregate, or total usage and traffic to our site and to specific offerings. This aids us in producing content that best meets our users' preferences. In order to implement new services, we may use other types of cookies as well. We also may use cookies to understand better what parts of our site you like best. We may use that information to display advertisements that we think will be of particular interest to you. You may configure your browser to reject cookies, but this may interfere with some functionality of the IGN Sites. To find out more about changing your browser to reject cookies, we suggest the EPIC Cookies Page **[[http://www.epic.org /privacy/internet/cookies](http://www.epic.org/privacy/internet/cookies)].**
+**Access to Other Sites through IGN**
 
-**G. Sites You Visit.** As you access our Affiliate Sites and browse around the IGN Sites, IGN may store information about which pages and which Affiliate Sites you visit and other information presented in your browser's URL address line. IGN will use this information to help determine what our users are most interested in.
+**Our Partner Sites.** You should be aware that when you are on an IGN Site, you will have the opportunity to visit, or link to, other sites associated with IGN. These sites are identified as our "Partner Sites". These sites are not owned or operated by IGN, but are part of a larger network of sites with which the IGN Sites share content and advertising opportunities. We do not share your Personal Information with these Partner Sites. 
 
-**H. Other Third Parties.** IGN may share non-personal, aggregate, or summary, information regarding our users with other third parties not mentioned in this policy. This kind of information does not identify you individually.
+**Linking to Other Sites.** You may also visit independent web sites, not owned or operated by IGN, through links on the IGN Sites. Such sites are operated by external, third-party service providers. Some of these sites will have their own separate membership processes and privacy policies. We do not control sites that are operated by others and are not responsible for the information practices of these sites. Other sites may set their own cookies, collect data or solicit personal information. It is always a good idea to check the privacy policy and terms of use of any site before offering any of your Personal Information. We do not share your Personal Information with these independent web sites. 
 
-**I. Merger or Acquisition.** In the event of a merger, acquisition, reorganization, sale of all or substantially all of its assets, or the sale of an individual website owned by IGN, IGN may transfer your Personally Identifiable Information to a third party as a part of such merger, acquisition, reorganization, or sale.
+**Information Storage and Security**
 
-**J. Legal Authorities.** The IGN Sites may also disclose Personally Identifiable Information in cases when we have reason to believe that it is necessary to identify someone who may be violating IGN's [User Agreement](http://corp.ign.com/user_agreement.html) or may be causing injury to IGN's rights or property, other users, or anyone else. The IGN Sites may disclose Personally Identifiable Information of our users to government authorities at our discretion. 
+Your Personal Information is stored on IGN computer servers (or those of its service providers) located in the United States. We protect your Personal Information with technical, administrative and physical safeguards to protect against loss, unauthorized access, destruction, misuse, modification and improper disclosure. No computer system or information can ever be fully protected against every possible hazard. But IGN is committed to providing reasonable and appropriate security controls to protect our IGN Sites and all Personal Information against foreseeable hazards. 
 
-**Access to Other Sites Through IGN**  
-  
-**Our Affiliates Sites.** You should be aware that when you are on an IGN Site, you will have the opportunity to visit, or link to, other sites associated with IGN. These sites are identified as our "Affiliates" and/or - "Partner Sites" These sites are not owned or operated by IGN, but are part of a larger network of sites with which the IGN Sites share content and advertising opportunities. We do not share Personally Identifiable Information of our members with these Affiliate Sites.
+Notwithstanding these security measures, please be aware that when you submit Personal Information to the IGN Sites over the Internet, the information may travel over many systems that are not under the IGN"s control. We take the protection of user data very seriously and to that end take reasonable safeguards to prevent interception of any Personal Information. In the case of shopping pages, for example, the credit card information you submit is protected by secure servers. 
 
-**Linking to Other Sites.** You may also visit independent web sites, not operated by IGN, that are connected to our network for our users. Such sites are operated by external, third-party service providers. Some of these sites will have their own separate membership processes and privacy policies. The IGN Sites do not control sites that are operated by others and so cannot be responsible for the information practices of these sites. Other sites may set their own cookies, collect data or solicit personal information. It is always a good idea to check the Privacy Policy and Terms of Use of any site before offering any of your personal information.
+**Accessing, Correcting and Updating Your Information**
 
- **Security**
+To access, correct or update your account or other Personal Information such as your city or interests, please use the "Edit profile page" at the IGN Site on which you are registered. 
 
-The IGN Sites use diligent efforts to protect the security and integrity of the information you provide to us once it is received on our systems. However, when you submit information about yourself to the IGN Sites over the Internet, the information may travel over many systems that are not under the control of IGN. We take the protection of user data very seriously and to that end provide extra assurances that your information will not be intercepted. In the case of shopping pages, for example, the credit card information you submit is protected by secure servers.
-
- **Updating Your Information**
-
-To update your account information such as your city or interests, please use the "Edit profile page" at the IGN Site on which you are registered. 
-
-**Cancellations**
-
-  
-
-    * **Canceling Newsletters**. You may cancel participation in email newsletters by following the instructions at the bottom of each newsletter.
-
-  
-
-    * **Email updates and special offers:** You may cancel participation in the email announcements by following the instructions at the bottom of each email.
-
-
-**Still Have Questions?**
-
-If you have any other questions about the IGN Privacy Policy, please contact us via our online form, available at <http://www.ign.com/email.html> or write to us at: 
+If you have any other questions, comments or complaints about this Policy, please contact us via our online form, available at [http://support.igngamespy.com](http://support.igngamespy.com/) or write to us at: 
 
 **IGN Entertainment, Inc.**  
-Attn: Customer Service  
+Attn: Customer Service/Privacy Administrator  
 8000 Marina Blvd.  
 2nd Floor  
-Brisbane, CA 94005 *Be sure to include the specific IGN Site to which you are a member.    
+Brisbane, CA 94005 
+
+*Be sure to include the specific IGN Site to which you are a member. 
+
+**Unsubscribe**
+
+**Newsletters.** You may unsubscribe to email newsletters by following the instructions at the bottom of each newsletter. 
+
+**Email updates and special offers:** You may unsubscribe to email announcements by following the instructions at the bottom of each email. 
+
+**Services:** You may unsubscribe to any service for which you have previously elected by following the instructions included in the IGN User Agreement. 
+
+  
 
