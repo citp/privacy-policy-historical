@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printroom.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602095709id_/http%3A//www.printroom.com/policies.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printroom.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217001856id_/http%3A//www.printroom.com/policies.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,7 +17,7 @@ When you sign up with Printroom, you establish a password-protected personal acc
 Information Collection and Use  
 When you create a new customer profile, we ask for your name, company, mailing address, and e-mail address. When you place an order, we ask for your credit card number and card expiration date. This allows us to process and fulfill your order and to notify you of your order status. Once an online order has been confirmed, credit card information is not reused.
 
-We may use the information we collect to periodically notify you about important changes to the Web site, new Printroom products and services, and special offers that may be of interest to you. If you would rather not receive this information, please contact us at [printroom_support@lexarmedia.com.](mailto:printroom_support@lexarmedia.com)
+We may use the information we collect to periodically notify you about important changes to the Web site, new Printroom products and services, and special offers that may be of interest to you. If you would rather not receive this information, please contact us at [support@printroom.com](mailto:support@printroom.com).
 
 Protecting your photos  
 Only you decide if and when your photographs are shared. We are committed to keeping your photographs private and secure. Your photographs are never made publicly accessible, and are shared only by your explicit action.
@@ -41,6 +41,6 @@ Your Consent
 By using our Web site, you consent to the collection and use of this information by Printroom. If in the future we change our privacy policy, we will post those changes on this page so that you are always aware of the kind of information we collect, how we use it, and under what circumstances we disclose it.
 
 Questions? Comments?  
-Printroom welcomes your questions and comments about privacy. Please send e-mail to [printroom_support@lexarmedia.com.](mailto:printroom_support@lexarmedia.com)
+Printroom welcomes your questions and comments about privacy. Please send e-mail to [support@printroom.com](mailto:support@printroom.com).
 
 Legal Notices © 2001, Printroom.com
