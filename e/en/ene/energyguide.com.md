@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the energyguide.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204194148id_/http%3A//www.energyguide.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energyguide.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605045741id_/http%3A//www.energyguide.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policies: ENERGYguide.com - Lower Your Energy Bills
 
@@ -18,7 +18,7 @@ ENERGYguide.com is a licensee of the [TRUSTe](http://www.truste.org/) Privacy Pr
 
 
 
-If you have questions or concerns regarding this statement, you should first contact [privacy@energyguide.com](mailto:privacy@energyguide.com) or by calling 781/283-9160 or via US Mail at 16 Laurel Avenue, Suite 100, Wellesley, MA 02481. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact  [TRUSTe](http://www.truste.org/). [TRUSTe](http://www.truste.org/) will then serve as a liaison with the Web site to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact [privacy@energyguide.com](mailto:privacy@energyguide.com) or by calling 781/694-3300 or via US Mail at 16 Laurel Avenue, Suite 100, Wellesley, MA 02481. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact  [TRUSTe](http://www.truste.org/watchdog.html). TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
 #### Our Commitment to Privacy
 
@@ -52,7 +52,8 @@ ENERGYguide.com stores personally identifiable information including data provid
 
 #### Contest Information
 
-From time to time, ENERGYguide.com may promote contests in which we ask visitors for contact information (like their email address). Contact data from our contests are used to send users information about our company. We also utilize contact data, such as email address, to notify the contest winners. Users may opt-out of receiving future notifications on our contests (see the choice/opt-out section below). 
+From time to time, ENERGYguide.com may promote contests in which we ask visitors for contact information (like their email address). Contact data from our contests are used to send users information about our company. We also utilize contact data, such as email address, to notify the contest winners. Users may opt-out of receiving future notifications on our contests (see the choice/opt-out section below).   
+
 
 #### Links
 
@@ -60,7 +61,8 @@ ENERGYguide.com contains links to other sites and is not responsible for the pri
 
 #### Advertising
 
-ENERGYguide.com serves its own ads and employs an outside advertising company to display them on our site. These ads may contain cookies. Outside ad companies do not provide us access to this information. 
+ENERGYguide.com serves its own ads and employs an outside advertising company to display them on our site. These ads may contain cookies. Outside ad companies do not provide us access to this information.   
+
 
 #### Merchant Partners
 
@@ -72,13 +74,12 @@ ENERGYguide.com partners with other sites to provide content on our site and to 
 
 #### Co-Branded Partners
 
-ENERGYguide.com partners with other sites (i.e. utility, real estate and financial sites) to provide energy-related content to their visitors in a co-branded relationship. You can identify that you are using a co-branded partner site by seeing a "Powered by ENERGYguide.com" logo present within another party's site. Your information is only used for the primary purpose for which it was collected. 
+ENERGYguide.com partners with other sites (i.e. utility, real estate and financial sites) to provide energy-related content to their visitors in a co-branded relationship. You can identify that you are using a co-branded partner site by seeing a "Powered by ENERGYguide.com" logo present within another party's site. Your information is only used for the primary purpose for which it was collected.   
+
 
 #### Choice/Opt-Out
 
-ENERGYguide.com offers users the opportunity to opt-out of receiving communications from both our partners and us when we request information from them. Please see below. 
-
-ENERGYguide.com offers users the following options for removing their information from our database in order to stop receiving communications from ENERGYguide.com or to terminate our service: 
+ENERGYguide.com offers users the opportunity to opt-out of receiving communications from both our partners and us when we request information from them. Please see below. ENERGYguide.com offers users the following options for removing their information from our database in order to stop receiving communications from ENERGYguide.com or to terminate our service: 
 
   * Upon registering, entering a contest, or purchasing a product from ENERGYguide.com, you are given the choice of participating in periodic mailings, and may choose to opt-out; 
   * You can send email to [webmaster@energyguide.com](mailto:webmaster@energyguide.com);
@@ -90,19 +91,25 @@ ENERGYguide.com reserves the right that due to rare unanticipated events it may 
 
 #### Security
 
-The ENERGYguide.com site has implemented a comprehensive set of security measures to protect against the loss, misuse or alteration of information under our control. Our servers reside at a secure location provided by GTE. These servers employ an all-inclusive implementation of Windows NT security measures that prevent unauthorized system access. All customer information is conducted via encrypted data transfer methods. Credit card transactions are processed by [CyberCash](http://www.cybercash.com/), an organization recognized as the world's leading provider of Secure Electronic Commerce Payment Solutions. These measures are reviewed on a regular basis. All ENERGYguide.com employees are aware of these security procedures via internal education and are periodically briefed on any new security considerations. 
+The ENERGYguide.com site has implemented a comprehensive set of security measures to protect against the loss, misuse or alteration of information under our control. Our servers reside at a secure location provided by WorldCom. These servers employ an all-inclusive implementation of Windows NT security measures that prevent unauthorized system access. All customer information is conducted via encrypted data transfer methods. Credit card transactions are processed by EFI, a leading distributor of energy-efficient products who maintain the strictest security in processing transactions and protecting customer information. These measures are reviewed on a regular basis. All ENERGYguide.com employees are aware of these security procedures via internal education and are periodically briefed on any new security considerations.   
+
 
 #### Notification of Changes
 
 ENERGYguide.com reserves the right to change, modify or augment any or all parts of this privacy policy. Any changes will be posted immediately on this privacy page so that our users are always aware of what information we collect, how we use it and, under specified situations, how we disclose it. Any changes that may influence the use or storage of user information will first be proposed to all users via e-mail at which point each user will decide whether or not we continue to store and/or use their information. ENERGYguide.com will only use information in accordance with the privacy policy under which the information was collected. 
 
-#### Contacting the Web Site
+#### Correcting/Updating Information
 
-If you have any questions about this privacy statement, the practices of ENERGYguide.com or your dealings with the Web site, you can contact: 
+Correcting/Updating Information  
+If you have any questions about this privacy statement, the practices of ENERGYguide.com or your dealings with the Web site or if you need to correct, access or update pertinent Personally Identifiable Information obtained through the site, you can use any of the following contacts: 
 
 Nexus ENERGYguide  
 16 Laurel Ave. Suite 100  
 Wellesley, MA 02481  
-781-283-9160  
+781-694-3300  
 [webmaster@energyguide.com](mailto:webmaster@energyguide.com)  
 
+
+#### Legal Disclaimer
+
+Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. 
