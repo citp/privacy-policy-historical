@@ -1,25 +1,21 @@
-> *The following text is extracted and transformed from the zyrtec.com privacy policy that was archived on 2000-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000612160411id_/http%3A//www.pfizer.com/privacyfrm.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zyrtec.com privacy policy that was archived on 2001-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011019152552id_/http%3A//www.zyrtec.com/index.asp%3Fpageid%3D77%26contentid%3D77) for the most accurate reproduction.*
 
-# Pfizer Inc: Internet Privacy Policy
+# ZYRTEC (R) (cetirizine HCl). Lots of Allergies. Just one ZyrtecTM.
 
-Pfizer Inc recognizes the importance of protecting the privacy of information we may collect from our on-line visitors. To this end, we are committed to using our best efforts to respect the privacy of our on-line visitors. It is our intent to balance our legitimate business interests in collecting and using information received from and about you with your reasonable expectations of privacy. The following is the way we handle information learned about you from your visit to our website. 
+**Internet privacy policy**  
+Pfizer Inc recognizes the importance of protecting the privacy of information we may collect from our online visitors. To this end, we are committed to using our best efforts to respect the privacy of our online visitors. It is our intent to balance our legitimate business interests in collecting and using information received from and about you with your reasonable expectations of privacy. The following is the way we handle information learned about you from your visit to our Web site. 
 
-**Collective Data**
+**Collective data**  
+Some Pfizer Inc Web sites deposit certain bits of information called cookies in a visitor's computer. Cookies are sent back only to the Web site that deposited them when a visitor returns to that site. Cookies can tell us how and when pages in a Web site are visited and by how many people. This technology does not collect personal identifiable information; the information collected is in an aggregate, nonidentifiable form. With the information we can learn through this technology, we hope to improve our sites. 
 
-Some Pfizer Inc web sites deposit certain bits of information called "cookies" in a visitor’s computer. Cookies are sent back only to the web site that deposited them when a visitor returns to that site. Cookies can tell us how and when pages in a website are visited and by how many people. This technology does not collect personal identifiable information; the information collected is in an aggregate, non-identifiable form. With the information we can learn through this technology, we hope to improve our sites. 
+**Personally identifiable information**  
+Pfizer collects personally identifiable information, such as names, addresses, e-mail addresses, and the like, only when voluntarily provided by a Web site visitor. We will notify you as to the uses we intend to make of that information. 
 
-**Personally Identifiable Information**
+**Links to other sites**  
+As a resource to our visitors, Pfizer provides links to other Web sites. We try to carefully choose Web sites we believe are useful and meet our high standards. However, because Web sites can change so quickly, we can't guarantee the standards of every Web site link we provide or be responsible for the content of non-Pfizer sites. 
 
-Pfizer collects personally identifiable information, such as names, addresses, E-mail addresses and the like, only when voluntarily provided by a website visitor. We will notify you as to the uses we intend to make of that information. 
+**Children**  
+We do not specifically collect information about children. We do ask parents if their children have allergies and children's birthdates. 
 
-**Links to other sites**
-
-As a resource to our visitiors, Pfizer provides links to other websites. We try to carefully choose websites which we believe are useful and meet our high standards. However, because websites can change so quickly, we can't guarantee the standards of every website link we provide or be responsible for the content of non-Pfizer sites. 
-
-**Children**
-
-We do not specifically collect information about children. 
-
-**Changes**
-
-Any changes to this privacy policy will be communicated promptly on this page.
+**Changes**  
+Any changes to this privacy policy will be communicated promptly on this page. 
