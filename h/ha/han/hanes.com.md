@@ -1,26 +1,36 @@
-> *The following text is extracted and transformed from the hanes.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604194741id_/http%3A//www.hanes.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hanes.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204081708id_/http%3A//www.hanes.com/privacy.jsp) for the most accurate reproduction.*
 
 # Hanes.com | Home
 
-  
-|   | 
+**At Sara Lee, we respect our customers and understand that you may have concerns about privacy, so we have instituted privacy policies intended to ensure that your personal information is handled safely and responsibly.**
 
-> **We respect your privacy. We will never sell or transfer your name or personal information to a third party. Your information will be kept confidential at all times.** **The full text of the Privacy Statement continues below.**   
-> 
-> 
-> By using Hanes.com (the Site), you are agreeing to the terms set forth in this Privacy Policy Statement. For other terms and conditions that apply to your use of the Site, please review our [Legal Statement](https://web.archive.org/web/20040604194741id_/http%3A//www.hanes.com/copyright.jsp).
-> 
-> For purposes of this Privacy Policy Statement, "Personal Information" means any information by which you can be personally identified, and includes your name, your address, your telephone number, your e-mail address and the like. Hanes.com does not require that you submit Personal Information. However, Hanes.com may request Personal Information in order to help serve you more effectively. Hanes.com collects Personal Information only when you voluntarily submit such Personal Information to us.
-> 
-> For each visitor to the Site, our web servers automatically recognize only information regarding the visitor's domain name (or internet access provider). Regardless of the purpose for which it is submitted, it is our policy to maintain all Personal Information as confidential, and to use such Personal Information only for the following purposes:
->
->>   * for the specific purpose for which it was volunteered, 
->>   * to improve the content, appearance and utility of the Site; 
->>   * to track our visitors' use of the Site for internal market research; and 
->>   * to notify our visitors of updates to the Site.
->> 
+This Privacy Policy Statement sets forth the privacy policy pertaining to this Site, Hanes.com, which is owned by Sara Lee Underwear. Sara Lee Underwear is a division of Sara Lee Corporation, a global manufacturer and marketer of high-quality, brand-name products for consumers throughout the world. We may share information collected by other direct marketing and consumer research entities within Sara Lee Corporation. By using this Site, you are agreeing to the terms set forth in this Privacy Policy Statement. For other terms and conditions that apply to your use of the Site, please review our [Legal Statement](https://web.archive.org/web/20041204081708id_/http%3A//www.hanes.com/legal.jsp). Please note that this Privacy Policy Statement applies only to Personal Information that we collect on-line. 
 
-> 
-> It is our policy to keep Personal Information only for so long as needed for such purposes. We do not sell, rent or otherwise distribute to third parties Personal Information about visitors to the Site. At any time, you may obtain a summary of the Personal Information on record with Sara Lee which has been collected about you via this Site. You may request at any time that Hanes.com dispose of any or all Personal Information about you. In addition, at any time you may request: (i) that we correct any such Personal Information (ii) that such Personal Information be removed from our marketing databases. To make any request described above, send an [e-mail](mailto:hanes@slkp.com). When contacting us, please be sure to provide us with your exact e-mail address, name, address and/or telephone number(s) in order to be sure we handle your request correctly.
-> 
-> Hanes.com reserves the right, at its discretion, to change, modify, add, or remove portions of this Privacy Policy Statement at any time. You should check this page periodically for changes. Your continued use of this Site following the posting of changes to this Privacy Policy Statement will mean that you accept those changes.
+For purposes of this Privacy Policy Statement, "Personal Information" means any information submitted to us via the Site by which you can be personally identified, and may include your name, address, telephone number, e-mail address, and credit card information. Hanes.com collects Personal Information only when you voluntarily submit it to us, such as when placing a product order, returning an item, creating an account, requesting a catalog, subscribing to our e-mail program, or entering a contest.
+
+Our web servers automatically recognize information regarding your domain name (or that of your internet access provider). We may use a technology called “cookies” to provide you with tailored information. A cookie is a small piece of data that the Site can send to your browser, which may then be stored on your hard drive so the Site can recognize you when you return. These cookies collect the operating system and browser that you are using. The use of cookies shows how our customers navigate through our web site and thus, allows us to make our site more responsive to your needs, by delivering a better and more personalized experience to you.
+
+It is our policy to maintain all Personal Information as confidential except as may be necessary to fulfill a function listed below, and to use such Personal Information only for the following purposes: 
+
+  * for the specific purpose for which it was volunteered (for example, to enter a sweepstakes or to receive product information) 
+  * to improve the content, appearance and utility of the Site 
+  * to trace our visitors' use of the Site for internal research purposes 
+  * to contact you to participate in market research 
+  * to notify our visitors of updates to the Site 
+  * to send catalogs, printed materials, offers and other announcements to your home address and to allow our sister companies and other reputable third party marketers to do the same 
+  * to send e-mail offers, announcements, or newsletters to your e-mail address and to allow our sister companies to do the same 
+  * to provide any necessary notices to our visitors or their parent or guardian 
+
+
+
+Additionally, we may disclose specific information about you upon governmental request or if required to do so by law or based on our good faith belief that it is necessary to conform to or comply with the law or is necessary to protect the users of our Site or the public, in general.
+
+On occasion, we contract with other companies to provide certain services, including credit card processing, shipping, e-mail distribution, changing mailing addresses, market research and promotions management. We provide these companies with only the information needed to perform their services and work closely with them to ensure that your privacy is protected. These companies are prohibited from using this information for their own marketing purposes or from sharing this information with others.
+
+Hanes.com may buy or sell stores, subsidiaries, or business units, or may be acquired by another company. In such transactions, Personal Information is usually one of the transferred business assets. Generally, such Personal Information remains subject to the promises made in the applicable pre-existing Privacy Policy Statement. 
+
+At any time, you may obtain a summary of the Personal Information on record with us. Except for Personal Information needed to complete your purchase of products, you may request that: (i) we correct or update any such Personal Information; (ii) such Personal Information not be provided to third parties; or (iii) such Personal Information be removed from our active marketing databases. To make such a request, you may click here or send an e-mail to [slba.consumer.services@saralee.com](mailto:slba.consumer.services@saralee.com), write to Hanes & Hanes Her Way, Consumer Services Department, P.O. Box 3013, Winston-Salem, NC 27102, or call 1-800-994-4348. When contacting us, please be sure to provide us with your exact e-mail address, name, address and/or telephone number(s) in order to be sure we handle your request correctly. Please also note that each time we send you an e-mail message, we will give you the option to unsubscribe from our e-mail list by simply clicking the unsubscribe link.
+
+For your convenience, our website may contain links to other sites. When you use a link to go from our Site to another web site, this Privacy Policy Statement is no longer in effect. Hanes.com is not responsible for the privacy practices employed by web sites linked to or from our Site nor for the information or content contained therein.
+
+As we continue to develop our Site and take advantage of technologies to improve the services we provide, we may have a need to change our current policies therefore, we reserve the right, at its discretion, to change, modify, add, or remove portions of this Privacy Policy Statement at any time. This policy was last updated on June 1, 2004. If elements of our Privacy Policy change, we will post the policy changes in our Privacy Policy Statement on this Site. You should check this page periodically for changes. Your continued use of this Site following the posting of changes to this Privacy Policy Statement will mean that you accept those changes. 
