@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igindex.co.uk privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605125518id_/http%3A//www.igindex.co.uk/content/privacy_notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igindex.co.uk privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205044208id_/http%3A//igindex.co.uk/content/privacy_notice.html) for the most accurate reproduction.*
 
 # IG Index - Privacy Notice
 
@@ -39,7 +39,7 @@ Depending on the product or service concerned and particular restrictions on sen
 
 Generally, we require that organisations outside the IG group of companies who handle or obtain personal information as service providers to IG Index acknowledge the confidentiality of this information, undertake to respect any individual's right to privacy and comply with the Data Protection Principles and this policy.
 
- **Management of personal information**  
+ ****  
 IG Index trains its employees who handle personal information to respect the confidentiality of customer information and the privacy of individuals. IG Index regards breaches of your privacy very seriously and will impose appropriate penalties, including dismissal.
 
 IG Index has an appointed Privacy Officer to ensure that our management of personal information is in accordance with this statement and the Privacy Act.
@@ -81,9 +81,9 @@ This statement outlines some privacy issues specific to the igindex.co.uk websit
 IG may collect personal information you enter when using our website.
 
   
-Cookies are small pieces of text stored on your computer to help us determine the type of browser and settings you are using, where you have been on the website, when you return to the website, where you came from, and to ensure your information is secure. The purpose of this information is to provide you with a more relevant and effective experience on the IG Index web site, including presenting web pages according to your needs or preferences.
+Cookies are small pieces of text stored on your computer to help us determine the type of browser and settings you are using, where you have been on the website, when you return to the website, where you came from, and to ensure your information is secure. The purpose of this information is to provide you with a more relevant and effective experience on the IG Index website, including presenting web pages according to your needs or preferences.
 
-IG Index may also use independent external service providers to track the traffic and usage on the web site.
+IG Index may also use independent external service providers to track the traffic and usage on the website.
 
 Cookies are frequently used on many websites on the internet and you can choose if and how a cookie will be accepted by changing your preferences and options in your browser. You may not be able to access some parts of igindex.co.uk if you choose to disable the cookie acceptance in your browser, particularly the secure parts of the website. We therefore recommend you enable cookie acceptance to benefit from all the services on the website.
 
