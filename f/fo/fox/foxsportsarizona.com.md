@@ -1,53 +1,73 @@
-> *The following text is extracted and transformed from the foxsportsarizona.com privacy policy that was archived on 2001-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010410013210id_/http%3A//foxsportsarizona.com/home_news.cfm%3Fcont_id%3D47335%26show_headline%3Dfalse%26show_headline_date%3Dfalse%26inset_include%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxsportsarizona.com privacy policy that was archived on 2001-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010815065001id_/http%3A//foxsportsarizona.com/home_news.cfm%3Fcont_id%3D47335%26show_headline%3Dfalse%26show_headline_date%3Dfalse%26inset_include%3D) for the most accurate reproduction.*
 
 # FOXSports.com
 
-|    
+| 
 
+FOX SPORTS ONLINE GROUP PRIVACY POLICY
 
-Privacy Statement
+**FOX SPORTS ONLINE GROUP ("FOX")** is part of the News America Group, which has adopted a set of Privacy Principles applicable to all its U.S.-based companies. FOX has implemented those Principles in this Privacy Policy, which describes how we collect, use and share personally identifiable information ("PII") we obtain from and about individuals located in the U.S. 
 
-By using this site, you agree to the Privacy Policy of Foxsports.com. If you do not agree to the Policy, please do not use this site. Foxsports.com reviews its privacy policy periodically and reserves the right, at its discretion, to modify or remove portions of this policy at any time. This page should be reviewed periodically so that you are updated on any changes. If you want to communicate with us about our policy, please write to us at Foxsports.com, 1925 South Bundy Drive, Los Angeles, CA 90025 USA, or e-mail us at [feedback@foxsports.com](mailto:feedback@foxsports.com). 
+From time to time FOX may revise this Privacy Policy to reflect changes in the law, technology or industry initiatives. Therefore, you should review it periodically so that you are up to date on our most current policies and practices. 
 
-Foxsports.com recognizes the importance of protecting the privacy of personally identifiable information collected about visitors to our sites. As a general policy, no personally identifiable information, such as your name, address or email address, is automatically collected from visitors to our sites. Personally identifiable information about visitors to our sites is collected only when knowingly and voluntarily submitted. We may collect certain non-personal information to optimize our Web pages for your computer (i.e., the identity of your Internet browser, the type of operating system you use, your IP address and the domain name of your Internet service provider). We may use such non-personal information for internal purposes, including but not limited to improving the content of our sites. 
+**COLLECTION: COLLECTION OF PERSONALLY IDENTIFIABLE INFORMATION ("PII") BY FOX**   
+**General**. FOX collects personally identifiable information ("PII" -- that is, information such as your full name, email address, mailing address or telephone number) only in order to create or enhance our relationship with you. When we collect PII from you it is because you are voluntarily submitting the information to us in order to participate in activities like sweepstakes, contests, games, surveys, forums, subscription registrations, content or suggestions you submit to us, chats or bulletin boards, or because you want us to furnish you with products, services or information. On those occasions when we obtain PII from a third party, we use only reputable sources of such information. 
 
-In those instances when we do collect personally identifiable information, the following policies apply: 
+**Cookies**. Cookies are small bits of information that the Internet sites operated by FOX place on the hard drive of your computer. Cookies remember information about your activities on our site(s) and enable FOX to make your visits to our site(s) more enjoyable. For example, cookies can store your password for easy logon to a site you have previously visited, can save your preferences for a personalized home page or can track the items you have placed in your "shopping cart" during a visit to our online store. The cookie itself does not contain PII. 
 
-**Notice**   
-Foxsports.com will notify you when we are collecting personally identifiable information about you and how we intend to use it. For example, we may need to collect such information to provide you with information or a product you requested, in connection with contest entry forms or for billing purposes, or in connection with community postings such as chat and bulletin boards.   
-Sometimes Foxsports.com engages in activities with business partners and sponsors with whom personal information is jointly collected or shared. We will try to make it clear at the time of collection who is asking for and/or sharing your information. In situations where your information will be shared, it is recommended that you also review the privacy policy of our business partner or sponsor.
+Third party advertisements displayed on Internet site(s) operated by FOX may also contain cookies. FOX does not control these advertiser cookies and visitors to our web site(s) should check the privacy policy of the advertiser to see whether and how it uses cookies. 
 
-**Use and Security**   
-Personally identifiable information that visitors submit to our sites is used only for the purpose for which it is submitted unless we disclose other uses in this Privacy Policy or at the time of collection. Such other uses may include sending you information or materials we think you will find interesting, or sharing the information with Foxsports.com's advertisers and reputable business partners. However, at the time of collection, you will have the option of instructing us not to send you additional information or share your personal information with third parties. Foxsports.com is not responsible for the privacy policies or practices of our business partners. 
+On occasion, FOX may use cookies to relate your use of our web site(s) to personally identifiable information you have submitted to us. For example, if you’ve asked us to send you information about our upcoming products or promotions, cookie information may allow us to limit the materials we send you to items we know you will find interesting, based on your prior online activities and preferences. However, if FOX wishes to coordinate personal and cookie information in this manner, we will obtain your express prior consent (i.e., "opt in"). 
 
-Foxsports.com may use reputable third parties to manage activities available on our sites including, but not limited to, sweepstakes, contests, statistical analysis, or chats. These parties may have access to personally identifiable information submitted by visitors who participate in those activities. Similarly, we may contract with third parties to handle the fulfillment of subscriptions or requests for information you submit to our sites, such as sending you a newsletter. In most instances, Foxsports.com instructs these third parties to use personally identifiable information only for the specific purpose for which it is collected, and not to sell, market or transfer such information to other entities. If Foxsports.com obtains personal information that has been collected from you by a third party, including our business partners, this Privacy Policy nonetheless governs Foxsports.com's use of that information.
+You can program your computer to warn you each time a cookie is being sent or to refuse cookies completely. However, without cookies you will not have access to certain features on FOX ’s web site(s), such as the FOX Networks Backlot. 
 
-Please remember that any information posted on bulletin boards and/or communicated in chat areas becomes public information. You should use caution when sharing information as any of it can be collected and used by people you may not know. Users under the age of 18 should be particularly careful not to divulge any personal information. While Foxsports.com strives to protect and respect your privacy, we can not guarantee the security of any information you disclose in a chat room or bulletin board and you do so at your own risk. 
+**NOTICE: FOX WILL PROVIDE YOU WITH NOTICE ABOUT ITS PII COLLECTION PRACTICES**   
+When FOX collects PII from you, we will make sure you are informed about who is collecting the information, how and why the information is being collected and the types of uses FOX will make of the information. 
 
-Foxsports.com may use personally identifiable information in aggregate form to make our sites better and more responsive to the needs of our visitors. This statistical compilation and analysis of information may also be used by Foxsports.com or provided to others, in aggregate, for marketing, advertising or research purposes. 
+This Policy describes the types of other companies that may want to send you information about their products and services and therefore want to share your personal information (See "Use" below). However, at the time your PII is collected, FOX will notify you of your options regarding our use of your personally identifiable information, including whether we can share it with outside companies (See "Choice" below). 
 
-If at any time after submitting your personal information to our sites you would no longer like to receive information from us, simply follow the "unsubscribe" directions at the end of any email communication you receive. 
+Sometimes we collect personally identifiable information from consumers in manual format, such as a post card or subscription form. Providing detailed notice in those situations often proves impractical, so consumers will instead be provided with a short notice that describes how to obtain the full text of this Policy and other relevant information from us. 
 
-Foxsports.com does not knowingly collect personally identifiable information from children under the age of 13.
+FOX’s web site(s) may be linked to Internet sites operated by other companies. Some of these third party sites may be co-branded with an FOX logo, even though they are not operated or maintained by FOX (for example, the NASCAR Family Chat Super Site). FOX’s web site(s) also carry advertisements from other companies as well as advertisements placed by national Internet ad agencies. Although we choose our business partners and advertisers carefully, FOX is not responsible for the privacy practices of web sites operated by third parties that are linked to our site(s) or for the privacy practices of third party or so-called national advertisers. Once you’ve left a FOX site via such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine how they will handle any PII they collect from you. 
 
-Personal information may be disclosed in special situations where Foxsports.com has reason to believe that doing so is necessary to identify, contact or bring legal action against anyone damaging, injuring, or interfering (intentionally or unintentionally) with Foxsports.com's rights, property, users, or anyone else who could be harmed by such activities. Also, Foxsports.com may reveal information when we believe in good faith that the law requires it. 
+FOX’s web site(s) may also be linked to sites operated by companies affiliated with FOX . Visitors to those affiliated sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Policy. 
 
-Foxsports.com maintains appropriate safeguards to ensure the security, integrity and privacy of personally identifiable information submitted to our sites, and periodically reviews and updates its security measures in light of current technologies. Unfortunately, no data transmission over the Internet can be guaranteed to be totally secure. Although Foxsports.com strives to protect your personal information, we can not ensure or warranty the security of any information you may transmit to us or from our online products and services. This is done so at your own risk. Once we do receive your transmission, however, we make our best effort to ensure its security on our systems. When credit card information is transmitted, industry standard encryption is used.
+**CHOICE: FOX WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR PII**   
+FOX will provide you with the opportunity to choose whether your PII may be used for purposes different from the purpose for which it was submitted. You will also be able to choose whether your information is shared with companies that are not affiliated with FOX (i.e., not part of the News America Group). 
 
-**Cookies**   
-Cookies are data that a Web site transfers to an individual's hard-drive for record-keeping purposes. Cookies, which are an industry standard used by most Web sites, including those operated by Foxsports.com, can facilitate a user's ongoing access to and use of a site. They allow us to track usage patterns and to compile data that can help us improve our content and target advertising. Foxsports.com does not save passwords or credit card information within Cookies, nor are our Cookies programs that can cause damage to a user's systems or files. If you do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows you to deny or accept the Cookie feature. But you should note that Cookies may be necessary to provide you with features such as merchandise transactions or registered services. 
+**USE: FOX ’S USE OF PII**   
+FOX will use your PII in a manner that is consistent with this Policy and only for the purpose for which it is submitted, unless other uses are disclosed at the time of collection and you allow us to use your information in these other ways. 
 
-**Links to Third Party and Co-Branded Sites**  
-Foxsports.com has established relationships with reputable business partners that allow visitors to our Internet sites to link directly to sites operated by these partners. Some of these sites or sites dedicated to online shopping, may be "co-branded" with a Foxsports.com logo (i.e., Fox, Fox Sports); however, these sites are not operated or maintained by Foxsports.com. These sites may collect personal information from you that may be shared with Foxsports.com. As noted above, this Privacy Policy will apply to any personal information we obtain in this manner.
+FOX may share your PII with companies that are affiliated with us, that is part of the News America Group of companies. FOX may also share your PII with companies that are not affiliated with FOX, but would like to send you information about their products and services. For example, some of the companies who supply prizes for FOX’s contests may have special offers or promotions that might be of interest to FOX Networks viewers. However, you will always have the opportunity to instruct us not to share your information with third parties. 
 
-Foxsports.com chooses its advertisers and business partners carefully. However, Foxsports.com is not responsible for the content or practices of Web sites operated by third parties that are linked to our sites. These links are meant for the user's convenience only. Links to third party sites do not constitute sponsorship, endorsement or approval by Foxsports.com of the content, policies or practices of such third party sites. Once you have left a Foxsports.com site via such a link, you should check the applicable privacy policy of the third party site. 
+FOX employees, agents and contractors must have a legitimate business reason to obtain access to your PII. Outside contractors or agents who help us manage our information activities (i.e., sweepstakes administration, order fulfillment, statistical analyses) may only use PII to provide FOX with a specific service and not for any other purpose. 
 
-Foxsports.com sites may also be linked to Web sites operated by companies affiliated with Foxsports.com. Visitors to those sites should refer to their separate privacy policies and practices.   
-February 15th, 2000 
+If FOX obtains PII from a third party, such as a business partner, our use of this information is governed by this Policy. 
 
-[Feedback@foxsports.com](mailto:feedback@foxsports.com)  
-© 2001, FOX Interactive Television, LLC.  
-All rights reserved. Fox Sports is a registered trademark of Twentieth Century Fox Film Corporation. 
+FOX may be required to disclose PII to comply with legal requirements, such as a court order, and to protect the safety and security of visitors to our web sites. 
+
+**SECURITY: FOX PROTECTS THE SECURITY OF PII**   
+FOX uses reasonable administrative, technical, personnel and physical measures to safeguard PII in its possession against loss, theft and unauthorized use, disclosure or modification. In addition, FOX uses reasonable methods to make sure that PII is accurate, up-to-date and appropriately complete. 
+
+**ACCESS: HOW TO ACCESS, CORRECT OR DELETE YOUR PII**   
+In most cases, FOX will retain PII for ninety (90) days or less. In the event PII is retained for longer, FOX has implemented a procedure for you to access, correct or delete your PII. 
+
+To access your PII, send an e-mail with the word "Privacy" in the subject line to [Feedback@foxsports.com](mailto:Feedback@foxsports.com?subject=Privacy), or a write to the FOX Internet Privacy Officer at FOX SPORTS ONLINE GROUP, 1925 South Bundy Drive, Los Angeles, California 90025, requesting a listing of the PII that is on file for you. FOX will respond no later than fifteen (15) business days from receipt of your request with a list of the PII on file. There may be certain instances when FOX may not be able to provide the PII, such as when access would violate the privacy of another individual, when access is prohibited by law, or when the PII has been lawfully obtained from third party sources. 
+
+In the event the PII on file is incorrect, you may correct the PII by sending a written request for correction to the FOX Internet Privacy Officer at FOX SPORTS ONLINE GROUP, 1925 South Bundy Drive, Los Angeles, California 90025, that includes (1) all of the incorrect PII that you wish to change, (2) the corrected PII and (3) your signature authorizing such changes. FOX will then correct the PII in its database and send a written confirmation to you within fifteen (15) business days. 
+
+If for any reason you wish to stop all future communications from FOX, you may send an e-mail with the word "Privacy" in the subject line to [Feedback@foxsports.com](mailto:Feedback@foxsports.com?subject=Privacy), or a write to the FOX Internet Privacy Officer at FOX SPORTS ONLINE GROUP, 1925 South Bundy Drive, Los Angeles, California 90025, requesting that your PII be permanently removed form any FOX database. FOX will send a written confirmation of such removal to you within fifteen (15) business days of receipt of your request. 
+
+**REMEDIES AND COMPLIANCE: HOW TO CONTACT FOX ABOUT PRIVACY CONCERNS**   
+If you have concerns regarding this Privacy Policy, your use of the FOX web site(s), or the collection and use of PII, you may contact the following FOX representative: 
+
+Privacy Policy Representative  
+FOX SPORTS ONLINE GROUP  
+1925 South Bundy Drive  
+Los Angeles, California 90025  
+Telephone: (310) 998-4000 Telecopier: (310) 998-4004 e-mail: [Feedback@foxsports.com](mailto:Feedback@foxsports.com)
+
+You may also request a written response to your concerns, which will be made no later than thirty (30) days after you contact FOX.
 
   
 |   
