@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londonjobs.co.uk privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001181359id_/http%3A//www.thisislondon.co.uk/homepagearticles/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonjobs.co.uk privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609231405id_/http%3A//www.thisislondon.co.uk/homepagearticles/privacy) for the most accurate reproduction.*
 
 # ThisisLondon
 
@@ -56,4 +56,4 @@ By using this site you consent to both of the above types of transfer.
 |   
 ---  
 |  Top of page |   
-[©2003 Associated New Media](http://www.anm.co.uk/) | [Terms](https://web.archive.org/homepagearticles/terms) | [Privacy policy](https://web.archive.org/homepagearticles/privacy)
+[©2004 Associated New Media](http://www.anm.co.uk/) | [Terms](https://web.archive.org/homepagearticles/terms) | [Privacy policy](https://web.archive.org/homepagearticles/privacy)
