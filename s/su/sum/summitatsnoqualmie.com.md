@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the summitatsnoqualmie.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601113701id_/http%3A//summitatsnoqualmie.com/winter/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the summitatsnoqualmie.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210061155id_/http%3A//www.summitatsnoqualmie.com/winter/privacy.html) for the most accurate reproduction.*
 
-# The Summit At Snoqualmie - Privacy Policy
+# Summit at Snoqualmie - Privacy Policy
 
 Booth Creek Ski Holdings, Inc. ("Booth Creek") is committed to your privacy on the Internet. This privacy statement demonstrates our firm commitment to your privacy. Please read the following policy to understand how your personal information will be treated as you make full use of our options and sites. This policy may be updated and revised occasionally so please check back periodically.
 
-_**What personally identifiable information of yours is collected?  
-**_  
+**What personally identifiable information of yours is collected?**
+
 We collect only information that you provide to us. Within some portions of our sites, we provide a profile feature to make it easy for you to purchase or request information. This information may include general profile information, address information, personal interest information and credit card information for e-commerce transactions. During some e-commerce transactions we may ask if you would like additional specific information from Booth Creek on programs and products.
 
-_**What about children's privacy?  
-**_  
+**What about children's privacy?**
+
 Booth Creek is a general audience web site that complies with the Children's Online Privacy Protection Act. Booth Creek does not collect individually identifiable information about children online, except in specific instances, in which case parental consent is required. This is to ensure that the parent or guardian consents to the collection and use of personally identifying information from that child. The parental consent is given for the specific purpose stated in the consent form, it is not a blanket consent.
 
-Under the Children's Online Privacy Protection Act, no web site operator is permitted to require a child under the age of 13 to disclose more information than is reasonably necessary to participate in an activity as a condition of participation. Booth Creek abides by this requirement. The type of information Booth Creek collects from children includes name, address, telephone number, email address, and hobbies. This information is collected when ski passes are purchased online or may be collected for contests in order to notify winners. The personal information collected from children under the age of 13 is not shared or forwarded by Booth Creek to business partners, advertisers or other third parties. Booth Creek will not contact users who are under age 13 about special offers or for marketing purposes. If you have questions or inquiries about Booth Creek's privacy policy please contact [webmaster@boothcreek.com  
-](mailto:webmaster@boothcreek.com)  
-_**How the information is used and with whom the information may be shared?  
-**_  
+Under the Children's Online Privacy Protection Act, no web site operator is permitted to require a child under the age of 13 to disclose more information than is reasonably necessary to participate in an activity as a condition of participation. Booth Creek abides by this requirement. The type of information Booth Creek collects from children includes name, address, telephone number, email address, and hobbies. This information is collected when ski passes are purchased online or may be collected for contests in order to notify winners. The personal information collected from children under the age of 13 is not shared or forwarded by Booth Creek to business partners, advertisers or other third parties. Booth Creek will not contact users who are under age 13 about special offers or for marketing purposes. If you have questions or inquiries about Booth Creek's privacy policy please contact webmaster@boothcreek.com
+
+**How the information is used and with whom the information may be shared?**
+
 The information we collect is used to provide you with customized information on programs and products. This may include follow-ups to e-commerce, e-mail lists and promotions and contests. Booth Creek uses cookies to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. All sites on Booth Creek where you are prompted to log-in or that are customizable require that you accept cookies.
 
 We use cookies to ensure you obtain the information you request. The cookie(s) we pass to you are anonymous. They do not reveal your personal identity, they will not follow you throughout your travels on the Web, nor can they capture private data. Rather, these cookies establish a user session and to allow our server to correctly provide the users with the appropriate frames and content. We track the usage of our web sites in order to modify the site according to our customers' needs. We pay attention to what information is requested and attempt to make it easier to find in the future.
@@ -24,14 +24,17 @@ As a general rule, Booth Creek will not disclose any of your personally identifi
 
 Many promotions offer opportunities to request additional information from sponsors. By requesting more information, you give Booth Creek permission to transfer your personal information to the sponsor so they can fulfill your request. In many instances, only your email address will be shared. If more information will be shared with the sponsor, you will be notified prior to the transfer.
 
-_**What organization is collecting the information?  
-**_  
+**What organization is collecting the information?**
+
 Booth Creek, one of its resorts or our hosting service alone is collecting the information during your visit to our web sites.
 
-What kinds of security procedures are in place to protect the loss, misuse or alteration of information under the company's control?
+**What kinds of security procedures are in place to protect the loss, misuse or alteration of information under the company's control?**
 
 We respect your privacy on our site and maintain your profile information on a secure server. It can be accessed, maintained and used by you, and only you. Booth Creek does not authorize any other use of your confidential information.
 
-_**What choices are available to you regarding collection, use and distribution of the information?**_
+**What choices are available to you regarding collection, use and distribution of the information?**
 
 You can contact us by e-mail through any of our web sites or by phone at any of our resorts to request any changes to how we collect, subscribe, unsubscribe or distribute any of your information. Phone, address and e-mail address information can be found at each of our web sites.
+
+  
+
