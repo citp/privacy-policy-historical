@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the santabanta.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205012400id_/http%3A//www2.santabanta.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the santabanta.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606084248id_/http%3A//www.santabanta.com/privacy.asp) for the most accurate reproduction.*
 
 # SantaBanta-Privacy Policy
 
-###  SantaBanta Privacy Policy
+###  SantaBanta™ Privacy Policy
 
-Wow, you are interested… We hope the following information can help answer any questions you might have. And if you still want to know more, please drop us a line at [jdghai@rediffmail.com](mailto:jdghai@rediffmail.com)
+Wow, you are interested… We hope the following information can help answer any questions you might have. And if you still want to know more, please drop us a line by clicking 
+
+[_here_](mailto:santabanta@santabanta.com)
+
+.
 
 The following Privacy Statement discloses the information gathering and dissemination practices for SantaBanta.com’s Network of Web sites (which we collectively refer to below as the “Site”). 
 
@@ -36,7 +40,7 @@ By using the Site, you signify your acceptance of this Privacy Statement. If you
 
 ###  Third Party Advertising
 
-We use MaxWorldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.networkadvertising.org/optout_nonppii.asp). 
+We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [**here**](http://www.maxonline.com/privacy_policy/index.php). 
 
 ###  Third Party Cookies
 
