@@ -1,26 +1,27 @@
-> *The following text is extracted and transformed from the mivu.org privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207051144id_/http%3A//mivu.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mivu.org privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609171045id_/http%3A//mivu.org/privacy) for the most accurate reproduction.*
 
 # Michigan Virtual University - Privacy Statement
 
 **Michigan Virtual University Privacy Statement**
 
- **BY ACCESSING THIS WEB SITE, YOU AGREE TO THE TERMS OF THIS PRIVACY STATEMENT.   THIS PRIVACY POLICY MAY CHANGE ACCORDING TO THE TERMS DESCRIBED BELOW AND ALL CHANGES ARE EFFECTIVE IMMEDIATELY.  PLEASE READ THE ENTIRE STATEMENT BEFORE USING THIS WEB SITE OR PROVIDING ANY INFORMATION THROUGH THE SITE.**
+BY ACCESSING THIS WEB SITE, YOU AGREE TO THE TERMS OF THIS PRIVACY STATEMENT.  THIS PRIVACY POLICY MAY CHANGE ACCORDING TO THE TERMS DESCRIBED BELOW AND ALL CHANGES ARE EFFECTIVE IMMEDIATELY.  PLEASE READ THE ENTIRE STATEMENT BEFORE USING THIS WEB SITE OR PROVIDING ANY INFORMATION THROUGH THE SITE.
 
- **This page describes the ways in which Michigan Virtual University, a Michigan nonprofit corporation, and all of its divisions (collectively referred to here as "Michigan Virtual University," “MVU,” “we,” “us,” or “our”) handle information that it obtains about individuals through the Web sites it operates.   These Web sites include:**
+This page describes the ways in which Michigan Virtual University, a Michigan nonprofit corporation, and all of its divisions (collectively referred to here as "Michigan Virtual University," “MVU,” “we,” “us,” or “our”) handle information that it obtains about individuals through the Web sites it operates.  These Web sites include:
 
-[ **www.mivu.org**](http://www.mivu.org/) **(and all sub-domains of mivu.org)  
+[www.mivu.org](http://www.mivu.org/) (and all sub-domains of mivu.org)  
 [www.ametc.com](http://www.ametc.com/) and [www.ametc.org](http://www.ametc.org/)  
-**[ **www.beefreeway.org**](http://www.beefreeway.org/)  
-[ **www.clickonk12.org**](http://www.clickonk12.org/)  
-[ **www.mivhs.org**](http://www.mivhs.org/)  
- **[backpack.mivhs.org](http://backpack.mivhs.org/)  
-**[ **www.mois.org**](http://www.mois.org/) **  
-**[**www.mydreamexplorer.org**](http://www.mydreamexplorer.org/) **, and  
-**[ **www.operationupgrade.org**](http://www.operationupgrade.org/) **.**
+[www.beefreeway.org](http://www.beefreeway.org/)  
+[www.clickonk12.org](http://www.clickonk12.org/)  
+[www.mivhs.org](http://www.mivhs.org/)  
+[backpack.mivhs.org](http://backpack.mivhs.org/)  
+[www.mois.org](http://www.mois.org/)   
+[www.learnport.org](http://www.learnport.org/)  
+[www.mydreamexplorer.org](http://www.mydreamexplorer.org/), and   
+[www.operationupgrade.org](http://www.operationupgrade.org/). 
 
- **We provide a variety of information, features, and functions (the “Services”) through these Web sites.**
+We provide a variety of information, features, and functions (the “Services”) through these Web sites.
 
- **This page does not necessarily reflect the ways in which we collect and use information by means other than these Web sites.   If you have questions about the ways in which we collect information by other means, please contact us using the contact information in this statement.  The practices relating to persons with separate agreements with MVU or its affiliates are separately covered in those agreements.**
+This page does not necessarily reflect the ways in which we collect and use information by means other than these Web sites.  If you have questions about the ways in which we collect information by other means, please contact us using the contact information in this statement.  The practices relating to persons with separate agreements with MVU or its affiliates are separately covered in those agreements. 
 
 **Information MVU collects**
 
