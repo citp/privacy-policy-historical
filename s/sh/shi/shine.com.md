@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the shine.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618101908id_/http%3A//www.shine.com/shine411_events.cfm%3Fcontent_id%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shine.com privacy policy that was archived on 2003-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031225100054id_/http%3A//shine.com/shine411_events.cfm%3Fcontent_id%3Dprivacypolicy) for the most accurate reproduction.*
 
 # SHiNE :: SHiNE 411 :: Events
 
 |    
-|  [](https://web.archive.org/web/20030618101908id_/http%3A//www.shine.com/shine411.cfm) SHiNE's Privacy Policy 
+|  [](https://web.archive.org/web/20031225100054id_/http%3A//shine.com/shine411.cfm) SHiNE's Privacy Policy 
 
 **Users under the age of 13-years-old:**
 
@@ -44,16 +44,13 @@ When we run contests on our site, you may be asked to provide additional informa
 **VI. Links**  
 Users should be aware that when you are on SHiNE, you may be directed other sites as resources or relevant links. SHiNE does its best to refer sites that provide information or services that are helpful to the SHiNE audience. However, we do not control the privacy policies of these external sites, and do not accept any liability from difficulties arising from the use of one of these external links. 
 
-|  |  [](http://www.shine.com/mingle.cfm)  
+|  |  [](http://www.shine.com/new_contests.cfm)  
   
 ---  
   
-| 
-
-[](https://web.archive.org/web/20030618101908id_/http%3A//www.shine.com/mingle.cfm)
-
-[ _"It's wrong for someone to say a person is un-American just because they don't support the war or agree with the president."_   
-\- **_kylie_**](https://web.archive.org/web/20030618101908id_/http%3A//www.shine.com/mingle.cfm) |    
+|  [ **Artist Text Message for Charity**  
+  
+Pick up your Cingular wireless handset for the chance to meet hot artists and win concert tickets and autographed phones! ](http://161.58.68.39/artist_bios/artist_home.html) |    
   
 [](http://www.mtv.com/onair/ffyr/discrimination/)  
   
@@ -72,4 +69,4 @@ SHiNE is proud to be a part of **MTV's "Fight for Your Rights** : Take a Stand A
   
   
 [](http://www.upoc.com/shine)  
-[](https://web.archive.org/web/20030618101908id_/http%3A//www.shine.com/mingle_im.cfm)
+[](https://web.archive.org/web/20031225100054id_/http%3A//shine.com/mingle_im.cfm)
