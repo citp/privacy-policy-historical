@@ -1,61 +1,80 @@
-> *The following text is extracted and transformed from the emarketer.com privacy policy that was archived on 1999-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991009004254id_/http%3A//www.emarketer.com/enews/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emarketer.com privacy policy that was archived on 2000-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000617135858id_/http%3A//www.emarketer.com/enews/privacy.html) for the most accurate reproduction.*
 
-# eMarketers Privacy Policy Statement
+# eMarketer Privacy Guarantee
 
-**Privacy Is Primary** At eMarketer, we take the issue of privacy seriously, and believe everyone involved in e-commerce should do likewise. Consumers' distrust -- and their fears -- of how online businesses use and disseminate personal information slows the development and growth of sales online. 
+[](https://www.truste.org/validate/2390)This confirms that **eMarketer** is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for **www.emarketer.com**
 
-Online -- and off -- all customers wish to shop and do business in a safe, secure environment. It is our job -- yours and ours -- to create that sense of trust and well-being online. 
+TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of: 
 
-This Privacy Statement verifies that eMarketer has submitted its information policies and privacy practices to the TRUSTe program. While awaiting verification and membership (at which time we will display the TRUSTe seal), we are endeavoring to comply fully with TRUSTe privacy principles. 
+**1.** What personally identifiable information of yours or third party personally identification is collected from you through the web site **2.** The organization collecting the information **3.** How the information is used **4.** With whom the information may be shared **5.** What choices are available to you regarding collection, use and distribution of the information **6.** The kind of security procedures that are in place to protect the loss, misuse or alteration of information under eMarketer's control **7.** How you can correct any inaccuracies in the information. 
 
-TRUSTe is an independent, non-profit initiative whose mission is to build users' trust and confidence in the Internet by promoting the principles of disclosure and informed consent. Because eMarketer has a commitment to privacy, our site has agreed to fully disclose its information practices to TRUSTe and have them reviewed and audited for compliance. When you visit a website displaying the TRUSTe mark, you can expect to be notified of: 
 
-> * What information is gathered about visitors. 
-> * What is done with the information. 
-> * Exactly who the information is shared with. 
+If you have questions or concerns regarding this statement, you should first contact: 
 
-Questions regarding this statement should be directed to [eMarketer's Publisher.](mailto:salfstad@emarketer.com) To return to eMarketer, please use the "Back" button on your browser. 
+**[eMarketer](mailto:jmarino@emarketer.com)  
+eland, inc.  
+821 Broadway  
+New York City, NY 10003  
+212.677.6300  
+**
 
-It is eMarketer's policy to allow visitors to provide as much -- or as little -- personal information they wish. As a reader or customer of eMarketer you: 
+If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe[http://www.truste.org](http://www.truste.org/).TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
-> * Decide what personally identifiable information we collect. 
-> * Are given an unconditional guarantee of privacy. 
+**Privacy Is Primary**
 
-The information provided in this Privacy Policy Statement covers your interactions on the eMarketer Network at emarketer.com, estats.com, e-land.com, and any other site registered to us. 
+At eMarketer, we take the issue of privacy seriously. Online -- and off -- all people want to do business in a safe, secure environment. It is our job -- yours and ours -- to create that sense of security. 
 
-eMarketer gathers information about our customers in order to offer compelling and easily accessible online content in a manner consistent with providing personal privacy protection: 
+eMarketer allows visitors to provide as much -- or as little -- personal information as they wish. At eMarketer you:   
 
-> * eMarketer sells information products online, and on those occasions we require extensive personal and financial information, but it is gathered on a secure site and never shared with anyone under any conditions. 
-> * We catalog traffic patterns throughout the site. 
-> * We develop summary -- not individual -- reports for our advertisers. An example of a summary report might be "12,000 people clicked on advertisement X today and they were in the eStats section of the site." The people that help make it possible for you to use eMarketer for free -- our advertisers -- use this information to determine how effective their advertising investments are. 
 
-The eMarketer site contains links to other websites. eMarketer is not responsible for the privacy practices or the content of those sites. 
-
-Other companies which place advertising on our site may collect information about you when you view or click on their advertising or content. eMarketer has no control over this collection of information (nor do we benefit from it). You should contact specific advertisers or content providers directly if you have any questions about their use of this information. We encourage our co-branding partners -- and all webmarketers -- to adopt privacy policies similar to this one and to become licensees of TRUSTe. 
-
-There is a technology called "cookies" which can be used to provide tailored information from a website. A cookie is an element of data that a site sends to your browser, which may then be stored on your computer. Some eMarketer pages use cookies so that we can better serve you when you return to our site. However, you can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. For more information, see ["How To Work With Cookies."](http://home.netscape.com/products/security/resources/faq/cookies.html)
-
-eMarketer puts control over communications directed to you where it belongs: In _your_ hands: 
-
-> * We send e-mail newsletters only to users who ask to receive them. 
-> * Once you are on the list -- you can easily get off. Each e-mail newsletter you receive has your address stamped on it, along with simple instructions on how to immediately unsubscribe that address from our newsletter list. 
-> * We will never make your name or address available to any other companies or agencies.
-
-If you have any questions or comments about our privacy practices, please contact [eMarketer's Publisher.](mailto:salfstad@emarketer.com) We can also be reached at: 
-
-> eMarketer  
->  821 Broadway  
->  New York, NY 10003  
->  USA 
+> * Decide what personally identifiable information to give us  
 > 
-> P: 212-677-6300  
->  F: 212-777-1172
+> * Are given an unconditional guarantee of privacy from us
+
+The information provided in this Privacy Policy Statement covers your interactions on the eMarketer Network at emarketer.com, estats.com and e-land.com. 
+
+eMarketer gathers information about our customers in order to offer compelling and easily accessible online content while providing personal privacy protection:
+
+We will never make your name or address available to any other companies or agencies.
+
+>   
 > 
-> Thank you.  
+> * eMarketer sells information products online, such as eReports. At the time of purchase we require extensive personal, business and financial information, such as name, email, shipping/billing address and credit card number. If you are a repeat customer, you may be asked to confirm or update this information.  
 > 
+> * This information it is transmitted in 128 bit encryption and we use SSL -- Secure Sockets Layer -- technology to protect your online order. The information you give us is never shared with anyone under any conditions.  
+> 
+> * Only our order processing/ customer service staff has access to your information. We do not store or access credit card information from our server after your order is processed.   
+> 
+> * We also catalog traffic patterns throughout the site. Again, this is through non-invasive click-through tracking within our site.  
+> 
+> * We develop summary -- not individual -- reports for our advertisers. For example, we will report "12,000 people clicked on advertisement X today and they were in the eStats section of the site."
+
+eMarketer contains links to other websites. eMarketer is not responsible for the privacy practices or the content of those sites. Advertisers on our site may collect information about you when you view or click on their advertising or content. eMarketer has no control over this data collection (we do not benefit from it or have access to it). You should contact specific advertisers or content providers directly if you have any questions about their privacy policies. 
+
+In some parts of the eMarketer site we use "cookies." A cookie is an element of data that a site sends to your browser, which may then be stored on your computer. eMarketer uses cookies when you purchase an eReport or an eStat Store product so that we can better serve you when you return to our site by providing you with updated eStats notification. The cookies that eMarketer uses do not link to any of our clients personally identifiable information. 
+
+However, if you do not want cookies sent to your computer, you can set your browser to notify you when you receive a cookie. Then you decide whether or not to accept it. If you reject cookies from eMarketer, you will not be able to enter some areas of the site. For more information, see ["How To Work With Cookies."](http://home.netscape.com/products/security/resources/faq/cookies.html)
+
+eMarketer puts control over communications directed to you where it belongs, in _your_ hands:
+
+> * We provide FREE e-mail newsletters to clients who sign-up for them. Yet clients who are on our newsletter list can easily opt out.   
+> 
+> * Each newsletter has your e-mail address stamped on it, in addition to simple instructions on how to unsubscribe that address from our newsletter list.  
+> 
+> * To update your information, simply sign up for our newsletter under your new email address. 
+
+If you have any questions or comments about our privacy practices, please contact [eMarketer's Publisher.](mailto:salfstad@emarketer.com) If eMarketer makes any changes to its privacy policies, those changes will be noted on the eMarketer website. 
 
 Top
 
-[eNews](http://www.emarketer.com/enews/welcome.html) | [eStats](http://www.emarketer.com/estats/welcome.html) | [eList](http://www.emarketer.com/elist/welcome.html) | [eDirections](http://www.emarketer.com/edirections/welcome.html) | [eLinks](http://www.emarketer.com/elinks/welcome.html) | [eCommunity](http://www.emarketer.com/ecommunity/welcome.html) | [eServices](http://www.emarketer.com/eservices/welcome.html) | [Contact us](http://www.emarketer.com/email/welcome.html) | [Privacy](http://www.emarketer.com/enews/privacy.html) | [Home](http://www.emarketer.com/)
+[HOME](http://www.emarketer.com/) | [eNews](http://www.emarketer.com/enews/welcome.html) | [eStats](http://www.emarketer.com/estats/welcome.html) | [eList](http://www.emarketer.com/elist/welcome.html) | [eDirections](http://www.emarketer.com/edirections/welcome.html) | [eLinks](http://www.emarketer.com/elinks/welcome.html) | [eCommunity](http://www.emarketer.com/ecommunity/welcome.html) | [eServices](http://www.emarketer.com/eservices/welcome.html) | [Contact us](http://www.emarketer.com/email/welcome.html) | [Privacy](http://www.emarketer.com/enews/privacy.html)
 
-_©1999 e-land, inc._
+_©2000 e-land, inc._   
+
+
+location: "https://web.archive.org/web/20000617135858id_/http%3A//www.emarketer.com/enews/privacy.html"  
+location.pathname: "/web/20000617135858id_/http%3A//www.emarketer.com/enews/privacy.html"  
+document.title: "eMarketer Privacy Guarantee"  
+REMOTE_ADDR: "206.132.186.140"  
+REMOTE_PORT: "33853"  
+
