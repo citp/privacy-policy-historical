@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kcls.org privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204223046id_/http%3A//kcls.org/about/privacystatement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcls.org privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610121809id_/http%3A//www.kcls.org/about/privacystatement.cfm) for the most accurate reproduction.*
 
 # King County Library System--Privacy Statement
 
@@ -17,16 +17,18 @@ Classes & Events](http://www.kcls.org/programs/programs.cfm)
 [Book Clubs](http://www.kcls.org/bookclub/)  
 [Good Reads](http://www.kcls.org/gr/)  
 [New Reads](http://www.kcls.org/gr/newreads.cfm)  
-**Youth Services**  
+**Kids & Teens**  
+[ Accelerated Reader](http://www.kcls.org/accreader)  
+[ Homework Choices](http://www.kcls.org/hh/hhchoices.cfm)  
 [Homework Help](http://www.kcls.org/hh/homework.cfm)  
 [Kids Page](http://www.kcls.org/webkids/)  
-[TeenZone](http://www.kcls.org/newya/)  
+[TeenZone](http://www.kcls.org/teens/)  
 [Parents & Caregivers](http://www.kcls.org/pp/parents.cfm)  
 **Library Resources**  
 [eAudio](http://www.kcls.org/eaudio/eaudiofaqs.cfm)  
 [ESL/Literacy](http://www.kcls.org/lit/esl.cfm)  
 [New Music](https://web.archive.org/newmusic/)  
-[Preview Videos & DVD's](http://www.videodetective.com/home.asp?CustomerID=59362&Ads=false&PublishedId=1530)  
+[Preview Videos & DVD's](http://www.videodetective.com/home.asp?CustomerID=31457&Ads=false&PublishedId=1453)  
 [Seniors](http://www.kcls.org/tlc/tlcsvcs.cfm)  
 [Special   
 Collections](http://www.kcls.org/sc/special.cfm)  
