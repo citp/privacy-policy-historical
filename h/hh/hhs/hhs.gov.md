@@ -1,43 +1,36 @@
-> *The following text is extracted and transformed from the hhs.gov privacy policy that was archived on 1999-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19990508052141id_/http%3A//www.hhs.gov/siteinfo/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hhs.gov privacy policy that was archived on 2000-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000621151358id_/http%3A//www.hhs.gov/siteinfo/privacy.html) for the most accurate reproduction.*
 
-# HHS Web Privacy Notice
+# HHS Privacy Policy Notice (07/30/99)
 
-[ ](http://www.hhs.gov/)[](http://www.hhs.gov/) (as of April 13, 1999)
+[ ](http://www.hhs.gov/)[ ](http://www.hhs.gov/) (as of July 30, 1999)
 
 * * *
 
-Thank you for visiting the Department of Health and Human Services Website and reviewing our Privacy Policy. Our Privacy Policy for visits to **www.hhs.gov** is clear: 
+Thank you for visiting our HHS web site and for reviewing our Privacy Policy. Our policy is clear: 
 
-> **We will collect no personal information about you when you visit our website unless you choose to provide that information to us.**
+> **We collect no information about you, other than information automatically collected and stored (see below), when you visit our web site unless you choose to provide that information to us.**
 
-Here is how we handle information about your visit to our website:   
+**_Information Automatically Collected and Stored:_**
+    When you browse through any web site, certain personal information about you can be collected. We automatically collect and temporarily store the following information about your visit: 
+
+  * the name of the domain you use to access the Internet (for example, aol.com, if you are using an American Online account, or stanford.edu, if you are connecting from Stanford University's domain); 
+  * the date and time of your visit; 
+  * the pages you visited; and 
+  * the address of the web site you came from when you came to visit. 
 
 
-### Information Collected and Stored Automatically
-
-If you do nothing during your visit but browse through the website, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store only the following information about your visit: 
-
-  * The Internet domain (for example, "xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you connect from a university's domain), and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our website 
-  * The type of browser and operating system used to access our site, 
-  * The date and time you access our site, 
-  * The pages you visit, and 
-  * If you linked to our website from another website, the address of that website. 
-
-We use this information to help us make our site more useful to visitors -- to learn about the number of visitors to our site and the types of technology our visitors use. We do not track or record information about individuals and their visits. 
-
-### Links to Other Sites
-
-Our Website has links to other federal agencies and to private organizations. Once you link to another site, it is that site's privacy policy that controls what it collects about you. 
-
-### Information Collected When You Send Us an E-mail Message
-
-When inquiries are E-mailed to us, we again store the text of your message and E-mail address information, so that we can answer the question that was sent in, and send the answer back to the E-mail address provided. If enough questions or comments come in that are the same, the question may be added to our Question and Answer section, or the suggestions are used to guide the design of our Web site. 
-
-We do not retain the messages with identifiable information or the e-mail addresses for more than 10 days after responding unless your communication requires further inquiry. If you send us an e-mail message in which you ask us to do something that requires further inquiry on our part, there are a few things you should know. 
-
-The material you submit may be seen by various people in our Department, who may use it to look into the matter you have inquired about. If we do retain it, it is protected by the Privacy Act of 1974, which restricts our use of it, but permits certain disclosures. 
-
-Also, e-mail is not necessarily secure against interception. If your communication is very sensitive, or includes personal information, you might want to send it by postal mail instead. 
+    We use this information for statistical purposes and to help us make our site more useful to visitors. Unless it is specifically stated otherwise, no additional information will be collected about you. 
+**_Personally Provided Information:_**
+    You do not have to give us personal information to visit our web sites. 
+    If you choose to provide us with additional information about yourself through an e-mail message, form, survey, etc., we will only maintain the information as long as needed to respond to your question or to fulfill the stated purpose of the communication. 
+    However, all communications addressed to the HHS Secretary or the HHS Webmaster are maintained, as required by law, for historical purposes. These communications are archived on a monthly basis, but are also protected by the Privacy Act which restricts our use of them, yet permits certain disclosures. 
+**_Disclosure:_**
+    HHS does not disclose, give, sell or transfer any personal information about our visitors, unless required for law enforcement or statute. 
+**_Intrusion Detection:_**
+    This site is maintained by the U.S. Government. It is protected by various provisions of Title 18, U.S. Code. Violations of Title 18 are subject to criminal prosecution in federal court. 
+    For site security purposes and to ensure that this service remains available to all users, we employ software programs to monitor traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. In the event of authorized law enforcement investigations, and pursuant to any required legal process, information from these sources may be used to help identify an individual. 
+**_Systems of Records:_**
+    Information originally collected in traditional paper systems can be submitted electronically, i.e., electronic commerce transactions and information updates about eligibility benefits. Electronically submitted information is maintained and destroyed pursuant to the Federal Records Act, and in some cases may be subject to the Privacy Act. If information that you submit is to be used in a Privacy Act system of records, there will be a Privacy Act Notice provided. 
 
 * * *
 
@@ -53,5 +46,5 @@ Also, e-mail is not necessarily secure against interception. If your communicati
 
 * * *
 
-Last revised Friday April 16,1999  
-Comments/Suggestions to [John P. Fanning](mailto:jfanning@osaspe.dhhs.gov)
+Last Revised Thursday, August 12, 1999  
+Comments/Suggestions to [Ruth M. Doerflein](mailto:rdoerfle@os.dhhs.gov)
