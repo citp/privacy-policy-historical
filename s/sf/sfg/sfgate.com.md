@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfgate.com privacy policy that was archived on 2000-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001121094500id_/http%3A//www.sfgate.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfgate.com privacy policy that was archived on 2001-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010622233406id_/http%3A//www.sfgate.com/pages/privacy) for the most accurate reproduction.*
 
 # SF Gate: Privacy Policy
 
@@ -46,14 +46,20 @@ We use cookies to help target ads based on user behavior. For example, our site 
    Back to Top
 
 **REGISTRATION:**  
-SF Gate requires registration for these features on our site: Conferences (bulletin boards), and TV Listings. Our site's registration form requires users to give us contact information (like your name and email address). Your contact information is only used to contact you if necessary. We currently do not use this information to send marketing information to you, and any aggregate information reported to advertisers is on an aggregate, not an individual basis. You can change your email address and password at any time by going to [this page](http://www.sfgate.com/cgi-bin/registration/edit). You may opt-out of receiving future mailings, should we decide to do them; see the choice/opt-out section below.
+SF Gate requires registration for these features on our site: Conferences (bulletin boards), and Email Alerts (classified ads meeting your search criteria, emailed to you). Our site's registration forms require users to give us contact information (like your name and email address). Your contact information is only used to contact you if necessary. We currently do not use this information to send marketing information to you, and any aggregate information reported to advertisers is on an aggregate, not an individual basis. 
 
-The Online Classifieds, a different division of Hearst Communications, runs the E-Mail Alert service (classified listings sent to you via e-mail). Please see information on their service under Third Party Content below.
+You can change your conferences email address and password at any time by going to [this page](http://www.sfgate.com/cgi-bin/registration/edit). You may opt-out of receiving future mailings, should we decide to do them; see the choice/opt-out section below.
+
+You can modify your email alerts at any time by [going here](http://www.sfgate.com/classifieds/emailalert/signon/). Registration for e-mail alerts is [here](http://www.sfgate.com/classifieds/emailalert/register/). 
 
 We require your email address for registration with our [newsletters.](http://www.sfgate.com/newsletters/) Your e-mail address will be kept private unless we have your explicit permission to do otherwise.
 
 **ORDER FORMS:**  
-Currently, SF Gate does not conduct e-commerce transactions on our web site. Some of our Third Pary partners do conduct such transactions. Please refer to their privacy policies for further information.    Back to Top
+Our site uses an order form when customers purchase services from us. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to get in touch with the customer when necessary. Financial information that is collected is used to bill the user for services. Contact information and financial information are kept private and is used for no other purpose than what is indicated above.
+
+Any financial information provided by users is sent via a secure server and encrypted for user protection. SF Gate does not store or retain credit card numbers after a purchase has been completed. SF Gate uses the industry standard SSL security protocol to encrypt all information you submit. This protocol ensures that sensitive data, such as credit card numbers, addresses, phone numbers, etc. can not be read or intercepted in transit.
+
+   Back to Top
 
 **SURVEYS:**  
 Our online surveys ask visitors for demographic information (like zip code, age, or income level). This information is shared with advertisers on an aggregate basis only. We may ask for contact information if we are providing an incentive to users for completing our surveys. The contact information is kept private and only used to contact you if necessary. It is kept separate from any demographic information you provide. If we plan to use this information for those purposes, we will notify users at the point at which we collect the information and allow users to opt-out of having their information used for those purposes.
@@ -71,23 +77,24 @@ SF Gate has partnerships with other companies and links to other web sites, incl
      **Bank Rate Monitor:**  
 Bank Rate Monitor provides financial information. Their privacy policy is located [here](http://www.bankrate.com/sfg/story_home.asp?story=about/privacy&web=sfg&prodtype=bank).
 
-**Bloomberg:**  
-Bloomberg provides SF Gate users with financial data (such as stock market information). If you set up a portfolio with Bloomberg, their web site will set a cookie with your browser so that it remembers your profile when you log in again. Bloomberg's Privacy Policy is located [here](http://www.bloomberg.com/privacy.html).
+**Bay Recruiter:**  
+[Bay Recruiter](http://www.bayrecruiter.com/) is a service to match employers and employees. If you sign up for the service, you will be asked to supply some personal information. You will have the option of allowing other people to see your resume, or simply browsing without having your resume publicly available. The BayRecruiter service is hosted by Hire.com. Their privacy policy is located [here](http://www.hire.com/privacy.php3).
 
 **Chronicle Books:**  
 Chronicle Books, along with SF Gate, was previously owned by the Chronicle Publishing Company. Chronicle Books has their own Privacy Policy, located [here](http://www.chroniclebooks.com/privacy.html).
 
-**Classified Gateway:**  
-The Chronicle Classified Gateway produces the Classified ads, the specific classified pages (e.g. REsource, Autobuys) and special classified features (e.g. email alert, online only ads). Their Privacy Policy is located [here](http://www.sfna.com/classonline/privacy.html).
-
 **Click TV:**  
-Click TV provides TV Listing information for our users. Following is their privacy policy:
+Click TV (TV Data) provides TV Listing information for our users.
 
-Logins and cookies are used to identify return users and maintain preferences and settings such as your channel lineup. We do use general demographic information such as ZIP code, age, and gender for the purpose of defining our user profile to advertisers.
+Logins and cookies are used to identify return users and maintain preferences and settings such as your channel lineup. TVData does use general demographic information such as ZIP code, age and gender for the purpose of defining our overall clickTV user profile to advertisers. 
 
-clickTV will not share or sell information about individual users to any outside agency, advertiser or other third party unless the user was made aware of this possibility prior to submitting their personal information.
+clickTV will not share or sell information about individual users to any outside agency, advertiser or other third party unless the user was made aware of this possibility prior to submitting their personal information. 
 
-clickTV will not send unsolicited email to its users. Unless agreed to otherwise by user e-mail addresses are used soley for the purpose of feedback replies by clickTV staff when necessary.
+clickTV will not send unsolicited e-mail to its users. Unless agreed to otherwise, user e-mail addresses are used solely for the purpose of feedback replies by clickTV staff and general service announcements. 
+
+clickTV works with third parties that serve ads to this site. 
+
+More information on their privacy policy is located [here.](http://www.clicktv.com/about.asp?CID=D2R&profileID=%2472%247A%248F%2474%2492%248C%247D%2475&WSN=WSERVER22&JSWindow=1&psection=Privacy+Statement)
 
 **DoubleClick:**  
 DoubleClick is a service we use to display advertising on our site.
@@ -105,10 +112,14 @@ If you wish, you can receive a subscription for astrology information. You can s
 People to People is a relationship service. Their privacy policy is located [here](http://people2people.com/homepage/privacy.plex).
 
 **San Francisco Chronicle:**  
-The San Francisco Chronicle is looking for individuals to volunteer to be "news sources". If you would like to volunteer, you will be asked to provide contact information so that the Chronicle may reach you if they would like your input on a certain topic. Any contact information you provide will be kept private by the San Francisco Chronicle and will not be sold or distributed to any third party or used for any marketing purpose. Any information you provide as a news source may appear in the San Francisco Chronicle. You can register to be a news source [here](http://www.sfgate.com/feedback/participate.html).
+The San Francisco Chronicle maintains it own subscriber and advertiser information .
+
+**Stockpoint:**  
+Stockpoint provides financial information to SF Gate. In order to use the Stock Portfolio service, you will need to supply a user name and password. Stockpoint's privacy policy is located [here](http://investor.stockpoint.com/topnav/privacy.asp).
 
 **Vindigo:**  
 Vindigo builds personal navigation tools for handheld devices. You can install Vindogo software on your handheld device and use it to view selected SF Gate content. Vindigo's privacy policy is located [here](http://www.vindigo.com/legal/privacy.html). 
+
    Back to Top
 
 **PUBLIC FORUMS:**  
