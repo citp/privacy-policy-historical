@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davidjones.com.au privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206001726id_/http%3A//www.davidjones.com.au/privacy.jsp%3FSID%3DHomePrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidjones.com.au privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604063313id_/http%3A//www.davidjones.com.au/privacy.jsp%3FSID%3DHomePrivacy) for the most accurate reproduction.*
 
 # David Jones
 
