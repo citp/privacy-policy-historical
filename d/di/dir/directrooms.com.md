@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directrooms.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623051538id_/http%3A//directrooms.com/policies/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directrooms.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209064226id_/http%3A//directrooms.com/policies/privacy.htm) for the most accurate reproduction.*
 
 # Directrooms.com - policies - privacy
 
