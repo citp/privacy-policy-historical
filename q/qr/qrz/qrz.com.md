@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the qrz.com privacy policy that was archived on 2001-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010204053300id_/http%3A//www.qrz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qrz.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601235648id_/http%3A//www.qrz.com/i/privacy.html) for the most accurate reproduction.*
 
-# 
+# QRZ Callsign Database
 
-**QRZ.COM Privacy Policy**  
+|  **QRZ.COM's Privacy Policy**  
 
 
 QRZ, is deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information. We welcome all users to our site and want to insure that you are comfortable. We pledge that as we gather and use information about you, we do so responsibly. 
-
-> This site, QRZ.COM, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to http://www.engage.com/privacy 
 
 **Consumer Information**
 
@@ -21,16 +19,22 @@ Amateur radio address and contact information is and has been published in the p
 
 Participation in the QRZ data collection process is voluntary except for the occasional use of browser "cookies". 
 
-QRZ, as well as most sites on the Internet, occasionaly may use "cookies" to enhance your experience on the web. QRZ cannot use these cookies to personally identify you in any way. What are cookies and why do we use them? A cookie is a unique number that is provided to you the first time you visit a particular area on our site, or are first served with a particular advertisement. This unique number, which is stored in a cookie file on your computer, helps QRZ's advertisers target ads to you. This cookie can help them ensure that they don't serve you the same ad multiple times, and it help's our advertisers understand what you like and don't like about their offerings so that they can cater better to your needs the next time you are interested in their products or services. While we believe that cookies enhance your Internet experience by limiting the number of times you see the same ad and delivering more relevant content to you. Cookies are not required for QRZ to deliver you its content. 
+QRZ, as well as most sites on the Internet, occasionaly may use "cookies" to enhance your experience on the web. QRZ does not and cannot use these cookies to personally identify you in any way. 
 
-If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Please consult your web browser's Help documentation for more information. 
+**What are cookies and why do we use them?**
+
+> Our cookies consist of a unique random number that our system generates and hands back to your browser. As you move from page to page within the QRZ site, we are able to verify your login identity without asking you to re-submit your password each time. This is done so that only you may update your callsign information, your biography or your photo, and, so that only you may post new messages in your name. We're not stalking you, we're only keeping track of your identity to prevent others from doing so. 
+> 
+> The cookie that QRZ assigns does not contain any information whatsoever. 
+
+Cookies are only required by QRZ if you intend to update information relating to callsigns, or, if you intend to post articles or want ads on our site. To participate as a reader and/or observer only, cookies are not required. 
 
 **Opt Out Procedure**
 
-If you would like to "opt out," that is, to prevent any data from being stored or displayed by QRZ about you, please notify us by email. Please address all correspondence to: [editor@qrz.com](mailto:editor@qrz.com) and simply state your amateur radio CALLSIGN and which information you would like **not** to have presented by QRZ. 
+If you would like to "opt out," that is, to prevent any non-FCC data from being displayed by QRZ about you, please notify us by email. Please address all correspondence to: [editor@qrz.com](mailto:editor@qrz.com) and simply state your amateur radio CALLSIGN and which non-FCC information you would like **not** to have presented by QRZ. 
 
-**Participation in Industry-side Privacy Initiatives**
-
-QRZ recognizes several trade associations and privacy groups that are both actively shaping privacy policies and support consumer privacy. 
+Please be aware that information that is published by the FCC in the public domain will continue to be displayed by QRZ even after you opt out. 'Opting Out' affects only that data that the FCC does **not** provide. Non-FCC data includes your birth date, your biography, your picture, your email address, and your home page address. 
 
 If you have any additional questions about QRZ's dedication to consumer privacy, please contact us at [editor@qrz.com](mailto:editor@qrz.com). 
+
+[](https://web.archive.org/index.html)
