@@ -1,219 +1,530 @@
-<!--The following is the downloaded HTML source of the kmov.com privacy policy that was archived on 2000-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20000618204822id_/http%3A//www.kmov.com/misc/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kmov.com privacy policy that was archived on 2001-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010604082156id_/http%3A//www.kmov.com/misc/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
-		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
-		<title>KMOV-TV 4 St. Louis | Legal Guidelines &amp; Privacy Policy</title>
-		<meta name="generator" content="Adobe GoLive 4">
-		</head><body bgcolor="#CCCCCC" onload="CSScriptInit();"><csscriptdict>
-			<script><!--
+
+<title>KMOV.com | PRIVACY POLICY</title>
+
+<meta name="generator" content="Adobe GoLive 4">
+
+<meta name="keywords" content="KMOV, St. Louis, Saint Louis, television, News 4, Channel 4, KMOV-TV, weather cams, Mississippi, Mr. Food, health, Al Wiman, Julius Hunter, Larry Conners, Myriam Wright, Kent Ehrhardt, Steve Savard, tv listings, Taste of Tonys, Cravings, recipe, radar, downtown, NexRad, Doppler">
+
+<meta name="description" content="Welcome to KMOV.com Channel 4, your CBS affiliate in St. Louis, Missouri.">
+
+<script language="JavaScript">
+<!-- Original:  Eric King (eric_andrew_king@hotmail.com) -->
+<!-- Web Site:  http://redrival.com/eak/ -->
+
+<!-- This script and many more are available free online at -->
+<!-- The JavaScript Source!! http://javascript.internet.com -->
+
+<!-- Begin
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+//  End -->
+</script>
+
+<!-- Start Javascript for results window -->
+<script language="JavaScript">
+function launch5(url) {  page = "http://www.dallasnews.com" + url;
+gallery=window.open(page,"gallery","toolbar=0,menubar=0,scrollbars=0,resizable=0,Width=425,height=810");}
+</script>
+<!-- End Javascript for results window -->
+
+</head><body bgcolor="#CCCCCC" onload="CSScriptInit();"><csscriptdict> 
+
+<script><!--
+
 CSStopExecution = false;
+
 CSInit = new Array;
+
 function CSScriptInit() {
+
 idxArray = new Array;
+
 for(var i=0;i<CSInit.length;i++)
+
 	idxArray[i] = i;
+
 CSAction2(CSInit, idxArray);
+
 }
+
 CSAg = window.navigator.userAgent; CSBVers = parseInt(CSAg.charAt(CSAg.indexOf("/")+1),10);
+
 function IsIE() { return CSAg.indexOf("MSIE") > 0;}
+
 function CSIEStyl(s) { return document.all.tags("div")[s].style; }
+
 function CSNSStyl(s) { return CSFindElement(s,0); }
+
 function CSFindElement(n,ly) { if (CSBVers < 4) return document[n];
+
 	var curDoc = ly ? ly.document : document; var elem = curDoc[n];
+
 	if (!elem) { for (var i=0;i<curDoc.layers.length;i++) {
+
 		elem = CSFindElement(n,curDoc.layers[i]); if (elem) return elem; }}
+
 	return elem;
+
 }
+
 function CSButtonReturn () {
+
 	var bAgent = window.navigator.userAgent; 
+
 	var bAppName = window.navigator.appName;
+
 	if ((bAppName.indexOf("Explorer") >= 0) && (bAgent.indexOf("Mozilla/3") >= 0) && (bAgent.indexOf("Mac") >= 0))
+
 		return false; // follow link
+
 	else return true; // follow link
+
 }
+
 CSIm = new Object();
+
 function CSIShow(n,i) {
+
 	if (document.images) {
+
 		if (CSIm[n]) {
+
 			var img = (!IsIE()) ? CSFindElement(n,0) : document[n];
+
 			if (img && typeof(CSIm[n][i].src) != "undefined") {img.src = CSIm[n][i].src;}
+
 			if(i != 0)
+
 				self.status = CSIm[n][3];
+
 			else
+
 				self.status = " ";
+
 			return true;
+
 		}
+
 	}
+
 	return false;
+
 }
+
 function CSILoad(action) {
+
 	im = action[1];
+
 	if (document.images) {
+
 		CSIm[im] = new Object();
+
 		for (var i=2;i<5;i++) {
+
 			if (action[i] != '') { CSIm[im][i-2] = new Image(); CSIm[im][i-2].src = action[i]; }
+
 			else CSIm[im][i-2] = 0;
+
 		}
+
 		CSIm[im][3] = action[5];
+
 	}
+
 }
+
 CSStopExecution = false;
+
+
 
 function CSAction(array) { 
+
 	return CSAction2(CSAct, array);
+
 }
+
 function CSAction2(fct, array) { 
+
 	var result;
+
 	for (var i=0;i<array.length;i++) {
+
 		if(CSStopExecution) return false; 
+
 		var actArray = fct[array[i]];
+
 		var tempArray = new Array;
+
 		for(var j=1;j<actArray.length;j++) {
+
 			if((actArray[j] != null) && (typeof(actArray[j]) == "object") && (actArray[j].length == 2)) {
+
 				if(actArray[j][0] == "VAR") {
+
 					tempArray[j] = CSStateArray[actArray[j][1]];
+
 				}
+
 				else {
+
 					if(actArray[j][0] == "ACT") {
+
 						tempArray[j] = CSAction(new Array(new String(actArray[j][1])));
+
 					}
+
 				else
+
 					tempArray[j] = actArray[j];
+
 				}
+
 			}
+
 			else
+
 				tempArray[j] = actArray[j];
+
 		}			
+
 		result = actArray[0](tempArray);
+
 	}
+
 	return result;
+
 }
+
 CSAct = new Object;
 
-// --></script>
-		</csscriptdict>
-		<csactiondict>
-		<script><!--
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button10',/*URL*/'../images/banner/home.gif',/*URL*/'../images/banner/home_on.gif',/*URL*/'','HOME');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button11',/*URL*/'../images/banner/help.gif',/*URL*/'../images/banner/help_on.gif',/*URL*/'','HELP');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button12',/*URL*/'../images/banner/contact.gif',/*URL*/'../images/banner/contact_on.gif',/*URL*/'','CONTACT');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button13',/*URL*/'../images/banner/site_map.gif',/*URL*/'../images/banner/site_map_on.gif',/*URL*/'','SITE MAP');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button',/*URL*/'../images/banner/cbs-logo.gif',/*URL*/'../images/banner/cbs-logo_on.gif',/*URL*/'','CBS.com');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'help',/*URL*/'../images/banner/help.gif',/*URL*/'../images/banner/help_on.gif',/*URL*/'','HELP');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'Contact',/*URL*/'../images/banner/contact.gif',/*URL*/'../images/banner/contact_on.gif',/*URL*/'','CONTACT');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button14',/*URL*/'../images/banner/site_map.gif',/*URL*/'../images/banner/site_map_on.gif',/*URL*/'','SITE MAP');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'top',/*URL*/'../images/banner/foot_to_top.gif',/*URL*/'../images/banner/foot_to_top_on.gif',/*URL*/'','TOP OF PAGE');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'4more',/*URL*/'../images/menu/4more.gif',/*URL*/'../images/menu/4more-on.gif',/*URL*/'','4 MORE…');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'news',/*URL*/'../images/menu/news.gif',/*URL*/'../images/menu/news-on.gif',/*URL*/'','NEWS');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'weather',/*URL*/'../images/menu/weather.gif',/*URL*/'../images/menu/weather-on.gif',/*URL*/'','WEATHER');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'health',/*URL*/'../images/menu/health.gif',/*URL*/'../images/menu/health-on.gif',/*URL*/'','HEALTH');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'sports',/*URL*/'../images/menu/sports.gif',/*URL*/'../images/menu/sports-on.gif',/*URL*/'','SPORTS');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'recipes',/*URL*/'../images/menu/recipes.gif',/*URL*/'../images/menu/recipes-on.gif',/*URL*/'','RECIPES');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'4stlouis',/*URL*/'../images/menu/4stlouis.gif',/*URL*/'../images/menu/4stlouis-on.gif',/*URL*/'','4 ST. LOUIS');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'onkmov',/*URL*/'../images/menu/onkmov.gif',/*URL*/'../images/menu/onkmov-on.gif',/*URL*/'','ON KMOV-TV');
 
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'HDTV',/*URL*/'../images/menu/56_Button.gif',/*URL*/'../images/menu/56_on_Button.gif',/*URL*/'','HDTV');
-
-
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'about',/*URL*/'../images/menu/about.gif',/*URL*/'../images/menu/about-on.gif',/*URL*/'','ABOUT KMOV');
 
 // --></script>
-		</csactiondict>
-	
 
-	
-		<a name="top"></a><font size="6" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>
+</csscriptdict> <csactiondict> 
 
+<script><!--
+
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button10',/*URL*/'http://www.kmov.com/images/BANNER_home.gif',/*URL*/'http://www.kmov.com/images/BANNER_home_on.gif',/*URL*/'','HOME');
+
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button11',/*URL*/'http://www.kmov.com/images/BANNER_help.gif',/*URL*/'http://www.kmov.com/images/BANNER_help_on.gif',/*URL*/'','HELP');
+
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button12',/*URL*/'http://www.kmov.com/images/BANNER_contact.gif',/*URL*/'http://www.kmov.com/images/BANNER_contact_on.gif',/*URL*/'','CONTACT');
+
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button13',/*URL*/'http://www.kmov.com/images/BANNER_site_map.gif',/*URL*/'http://www.kmov.com/images/BANNER_site_map_on.gif',/*URL*/'','SITE MAP');
+
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button',/*URL*/'http://www.kmov.com/images/BANNER_cbs-logo.gif',/*URL*/'http://www.kmov.com/images/BANNER_cbs-logo_on.gif',/*URL*/'','CBS.com');
+
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'help',/*URL*/'http://www.kmov.com/images/BANNER_help.gif',/*URL*/'http://www.kmov.com/images/BANNER_help_on.gif',/*URL*/'','HELP');
+
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'Contact',/*URL*/'http://www.kmov.com/images/BANNER_contact.gif',/*URL*/'http://www.kmov.com/images/BANNER_contact_on.gif',/*URL*/'','CONTACT');
+
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button14',/*URL*/'http://www.kmov.com/images/BANNER_site_map.gif',/*URL*/'http://www.kmov.com/images/BANNER_site_map_on.gif',/*URL*/'','SITE MAP');
+
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'top',/*URL*/'http://www.kmov.com/images/BANNER_foot_to_top.gif',/*URL*/'http://www.kmov.com/images/BANNER_foot_to_top_on.gif',/*URL*/'','TOP OF PAGE');
+
+
+
+// -->
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v3.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+
+</csactiondict> 
+<style>
+		A.myMenu { text-decoration: none; }
+</style>
+
+
+
+
+
+<a name="top"></a> 
 <table border="0" cellpadding="0" cellspacing="0" width="760" bgcolor="#FFFFFF">
-<tbody><tr>
-<td width="615">
-		<table border="0" cellpadding="0" cellspacing="0" width="600">
-			<tbody><tr>
-				<td colspan="2">
-					<table border="0" cellpadding="0" cellspacing="0" width="600">
-						<tbody><tr height="10">
-							<td width="10" rowspan="4" valign="top"><img height="135" width="10" src="../images/banner/left.gif"></td>
-							<td width="570" height="10" valign="top"><img height="10" width="570" src="../images/banner/top.gif"></td>
-							<td width="20" rowspan="4" valign="top"><img height="135" width="20" src="../images/banner/right.gif"></td>
-						</tr>
-						<tr height="85">
-							<td width="570" height="85" valign="top"><img height="85" width="570" src="../images/banner/header.jpg" alt="KMOV 4 St. Louis - Newscasters" border="0" usemap="#headerb3c495f8"><map name="headerb3c495f8"><area href="../index.html" target="_top" coords="4,5,67,81" shape="rect" title="KMOV-TV 4 St. Louis" alt="KMOV-TV 4 St. Louis"></map></td>
-						</tr>
-						<tr height="30">
-							<td width="570" height="30" valign="top"><csobj w="64" h="30" t="Button" ht="../images/banner/home_on.gif"><a href="../index.html" target="_top" onmouseover="return CSIShow(/*CMP*/'button10',1)" onmouseout="return CSIShow(/*CMP*/'button10',0)" onclick="return CSButtonReturn()"><img src="../images/banner/home.gif" width="64" height="30" name="button10" border="0" alt="HOME"></a></csobj><img height="30" width="35" src="../images/banner/corner.gif"><img height="30" width="267" src="../images/banner/bar-fill.gif"><csobj w="43" h="30" t="Button" ht="../images/banner/help_on.gif"><a href="help.html" onmouseover="return CSIShow(/*CMP*/'button11',1)" onmouseout="return CSIShow(/*CMP*/'button11',0)" onclick="return CSButtonReturn()"><img src="../images/banner/help.gif" width="43" height="30" name="button11" border="0" alt="HELP"></a></csobj><img height="30" width="15" src="../images/banner/bar-fill.gif"><csobj w="66" h="30" t="Button" ht="../images/banner/contact_on.gif"><a href="contact.html" onmouseover="return CSIShow(/*CMP*/'button12',1)" onmouseout="return CSIShow(/*CMP*/'button12',0)" onclick="return CSButtonReturn()"><img src="../images/banner/contact.gif" width="66" height="30" name="button12" border="0" alt="CONTACT"></a></csobj><img height="30" width="15" src="../images/banner/bar-fill.gif"><csobj w="65" h="30" t="Button" ht="../images/banner/site_map_on.gif"><a href="sitemap.html" onmouseover="return CSIShow(/*CMP*/'button13',1)" onmouseout="return CSIShow(/*CMP*/'button13',0)" onclick="return CSButtonReturn()"><img src="../images/banner/site_map.gif" width="65" height="30" name="button13" border="0" alt="SITE MAP"></a></csobj></td>
-						</tr>
-						<tr height="10">
-							<td width="570" height="10" valign="top"><img height="10" width="99" src="../images/banner/bottom.gif"><img height="10" width="471" src="../images/banner/bottom-shadow.gif"></td>
-						</tr>
-					</tbody></table>
-				</td>
-			</tr>
-			<tr>
-				<td width="125" align="left" valign="top">
-					<table border="0" cellpadding="0" cellspacing="0">
-						<tbody><tr>
-							<td align="left" valign="top">
-								<div align="left">
-									<csobj w="125" h="30" t="Button" ht="../images/menu/4more-on.gif"><a href="../index.html" onmouseover="return CSIShow(/*CMP*/'4more',1)" onmouseout="return CSIShow(/*CMP*/'4more',0)" onclick="return CSButtonReturn()"><img src="../images/menu/4more.gif" width="125" height="30" name="4more" border="0" alt="4 MORE…"></a></csobj><br>
-									<csobj w="125" h="30" t="Button" ht="../images/menu/news-on.gif"><a href="../news/news.html" onmouseover="return CSIShow(/*CMP*/'news',1)" onmouseout="return CSIShow(/*CMP*/'news',0)" onclick="return CSButtonReturn()"><img src="../images/menu/news.gif" width="125" height="30" name="news" border="0" alt="NEWS"></a></csobj><br>
-									<csobj w="125" h="30" t="Button" ht="../images/menu/weather-on.gif"><a href="../weather/weather.html" onmouseover="return CSIShow(/*CMP*/'weather',1)" onmouseout="return CSIShow(/*CMP*/'weather',0)" onclick="return CSButtonReturn()"><img src="../images/menu/weather.gif" width="125" height="30" name="weather" border="0" alt="WEATHER"></a></csobj><br>
-									<csobj w="125" h="30" t="Button" ht="../images/menu/health-on.gif"><a href="../health/health.html" onmouseover="return CSIShow(/*CMP*/'health',1)" onmouseout="return CSIShow(/*CMP*/'health',0)" onclick="return CSButtonReturn()"><img src="../images/menu/health.gif" width="125" height="30" name="health" border="0" alt="HEALTH"></a></csobj><br>
-									<csobj w="125" h="30" t="Button" ht="../images/menu/sports-on.gif"><a href="../sports/sports.html" onmouseover="return CSIShow(/*CMP*/'sports',1)" onmouseout="return CSIShow(/*CMP*/'sports',0)" onclick="return CSButtonReturn()"><img src="../images/menu/sports.gif" width="125" height="30" name="sports" border="0" alt="SPORTS"></a></csobj><br>
-									<csobj w="125" h="30" t="Button" ht="../images/menu/recipes-on.gif"><a href="../recipes/recipes.html" onmouseover="return CSIShow(/*CMP*/'recipes',1)" onmouseout="return CSIShow(/*CMP*/'recipes',0)" onclick="return CSButtonReturn()"><img src="../images/menu/recipes.gif" width="125" height="30" name="recipes" border="0" alt="RECIPES"></a></csobj><br>
-									<csobj w="125" h="30" t="Button" ht="../images/menu/4stlouis-on.gif"><a href="../4_stlouis/4stlouis.html" onmouseover="return CSIShow(/*CMP*/'4stlouis',1)" onmouseout="return CSIShow(/*CMP*/'4stlouis',0)" onclick="return CSButtonReturn()"><img src="../images/menu/4stlouis.gif" width="125" height="30" name="4stlouis" border="0" alt="4 ST. LOUIS"></a></csobj><br>
-									<csobj w="125" h="30" t="Button" ht="../images/menu/onkmov-on.gif"><a href="http://one.clicktv.com/index.cfm?cid=A0Y" onmouseover="return CSIShow(/*CMP*/'onkmov',1)" onmouseout="return CSIShow(/*CMP*/'onkmov',0)" onclick="return CSButtonReturn()"><img src="../images/menu/onkmov.gif" width="125" height="30" name="onkmov" border="0" alt="ON KMOV-TV"></a></csobj><br>
+  <tbody><tr> 
+    <td colspan="2">
 
-<csobj w="125" h="30" t="Button" ht="../images/menu/56_on_Button.gif"><a href="../HDTV/hdtv_main.html" onmouseover="return CSIShow(/*CMP*/'HDTV',1)" onmouseout="return CSIShow(/*CMP*/'HDTV',0)" onclick="return CSButtonReturn()"><img src="../images/menu/56_Button.gif" width="125" height="30" name="HDTV" border="0" alt="HDTV"></a></csobj><br>
-									<csobj w="125" h="30" t="Button" ht="../images/menu/about-on.gif"><a href="../about/aboutkmov.html" onmouseover="return CSIShow(/*CMP*/'about',1)" onmouseout="return CSIShow(/*CMP*/'about',0)" onclick="return CSButtonReturn()"><img src="../images/menu/about.gif" width="125" height="30" name="about" border="0" alt="ABOUT KMOV"></a></csobj><br>
-									<img height="14" width="125" src="../images/menu/ramp-up.gif"><br>
-									<img height="40" width="125" src="../images/banner/leftover.gif"><br>
-<table width="125" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td>&nbsp;</td>
+      <table border="0" cellpadding="0" cellspacing="0" width="760">
+        <tbody><tr height="10"> 
+          <td width="10" rowspan="4" valign="top"><img height="135" width="10" src="http://www.kmov.com/images/BANNER_left.gif"></td>
+          <td width="730" height="10" valign="top"><img height="10" width="730" src="http://www.kmov.com/images/BANNER_top.gif"></td>
+          <td width="20" rowspan="4" valign="top"><img height="135" width="20" src="http://www.kmov.com/images/BANNER_right.gif"></td>
+        </tr>
+        <tr height="85"> 
+          <td width="570" height="85"> 
+            <table width="730" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr> 
+                <td bgcolor="#003366" width="570"><map name="headerb3c495f8"> 
+                    <area href="../index.html" target="_top" coords="4,5,67,81" shape="rect" title="KMOV-TV 4 St. Louis" alt="KMOV-TV 4 St. Louis"> 
+                  </map><img height="85" width="530" src="http://www.kmov.com/images/BANNER_header_530.jpg" alt="KMOV 4 St. Louis - Newscasters" border="0" usemap="#headerb3c495f8"></td>
+                <td bgcolor="#003366" width="78"> 
+                  <div align="center"><a href="../weather/wr-doppler.html"><img src="http://www.kmov.com/images/WEATHER_4warnRadar_66.gif" border="0" width="66" height="32" vspace="6" alt="4 Warn Doppler Radar"></a><br>
+                    <a href="../weather/weather.html"> <font face="Arial, Helvetica, sans-serif" size="2"><font size="1" color="#66CCFF"></font></font></a></div>
+                </td>
+                <td bgcolor="#003366"> 
+                  <div align="center"><a href="../weather/weather.html"><img src="http://banners.wunderground.com/banner/KMOVFrontWhite/US/MO/St_Louis.gif" border="0" width="110"></a><br>
+                    <a href="../weather/weather.html"> <font face="Arial, Helvetica, sans-serif" size="2"><font size="1" color="#66CCFF">more 
+                    weather&gt;&gt;</font></font></a></div>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+        <tr height="30"> 
+          <td height="30" valign="top"><csobj w="64" h="30" t="Button" ht="images/BANNER_home_on.gif"><a href="../index.html" target="_top" onmouseover="return CSIShow(/*CMP*/'button10',1)" onmouseout="return CSIShow(/*CMP*/'button10',0)" onclick="return CSButtonReturn()"><img src="http://www.kmov.com/images/BANNER_home.gif" width="64" height="30" name="button10" border="0" alt="HOME"></a></csobj><img height="30" width="35" src="http://www.kmov.com/images/BANNER_cornera.gif"><csobj w="43" h="30" t="Button" ht="images/BANNER_help_on.gif"><img src="http://www.kmov.com/images/BANNER_bar-fill_302.gif" width="302" height="30" border="0"><img name="BANNERFreeInternet" border="0" src="http://www.kmov.com/images/BANNER_bar-fill_125.gif" width="125" height="30"><a href="help.html" onmouseover="return CSIShow(/*CMP*/'button11',1)" onmouseout="return CSIShow(/*CMP*/'button11',0)" onclick="return CSButtonReturn()"><img src="http://www.kmov.com/images/BANNER_help.gif" width="43" height="30" name="button11" border="0" alt="HELP"></a></csobj><img height="30" width="15" src="http://www.kmov.com/images/BANNER_bar-fill.gif"><csobj w="66" h="30" t="Button" ht="images/BANNER_contact_on.gif"><a href="contact.html" onmouseover="return CSIShow(/*CMP*/'button12',1)" onmouseout="return CSIShow(/*CMP*/'button12',0)" onclick="return CSButtonReturn()"><img src="http://www.kmov.com/images/BANNER_contact.gif" width="66" height="30" name="button12" border="0" alt="CONTACT"></a></csobj><img height="30" width="15" src="http://www.kmov.com/images/BANNER_bar-fill.gif"><csobj w="65" h="30" t="Button" ht="images/BANNER_site_map_on.gif"><a href="sitemap.html" onmouseover="return CSIShow(/*CMP*/'button13',1)" onmouseout="return CSIShow(/*CMP*/'button13',0)" onclick="return CSButtonReturn()"><img src="http://www.kmov.com/images/BANNER_site_map.gif" width="65" height="30" name="button13" border="0" alt="SITE MAP"></a></csobj></td>
+              </tr>
+        <tr height="10"> 
+          <td height="10" valign="top"><img height="10" width="106" src="http://www.kmov.com/images/BANNER_bottom110.gif"><img height="10" width="624" src="http://www.kmov.com/images/BANNER_bottom-shadow570a.gif"></td>
+        </tr>
+      </tbody></table>
+          
+
+</td>
+  </tr>
+  <tr> 
+    <td width="639"> 
+      <table border="0" cellpadding="0" cellspacing="0" width="637">
+        <tbody><tr> 
+          <td width="125" align="center" valign="top"> 
+            <div align="left"> 
+              <table border="0" cellpadding="0" cellspacing="0">
+                <tbody><tr> 
+                  <td align="left" valign="top"> 
+                    <div align="left"> <!----------------------NEW BUTTON------------------> 
+                      <table border="0" bgcolor="#666666" cellpadding="0" cellspacing="0" width="112">
+                        <tbody><tr> 
+                          <td align="center" valign="top" height="4" width="110"> 
+                            <img src="http://www.kmov.com/images/MENU_Button_Topshader2x50.gif" border="0" width="110" height="4"></td>
+                        </tr>                        <tr> 
+                          <td align="center" valign="top" width="110"> <a class="myMenu" href="http://www.kmov.com/news/NEWS_MAIN.html"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"> 
+                            News </font></a> </td>
+                        </tr>
+                        <tr> 
+                          <td align="center" valign="top" height="4" width="110"> 
+                            <img src="http://www.kmov.com/images/MENU_Button_shader4x50.gif" border="0" width="110" height="8"></td>
+                        </tr>
+                        <tr> 
+                          <td align="center" valign="top" width="110"> <a class="myMenu" href="../weather/weather.html"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">Weather</font></a> 
+                          </td>
+                        </tr>
+                        <tr> 
+                          <td align="center" valign="top" height="4" width="110"> 
+                            <img src="http://www.kmov.com/images/MENU_Button_shader4x50.gif" border="0" width="110" height="8"></td>
+                        </tr>
+                        <tr> 
+                          <td align="center" valign="top" width="110"> <a class="myMenu" href="../health/health.html"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"> 
+                            Health </font></a></td>
+                        </tr>
+                        <tr> 
+                          <td align="center" valign="top" height="4" width="110"> 
+                            <img src="http://www.kmov.com/images/MENU_Button_shader4x50.gif" border="0" width="110" height="8"></td>
+                        </tr>
+                        <tr> 
+                          <td align="center" valign="top" width="110"> <a class="myMenu" href="../sports/sports.html"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"> 
+                            Sports</font></a> </td>
+                        </tr>
+                        <tr> 
+                          <td align="center" valign="top" height="4" width="110"> 
+                            <img src="http://www.kmov.com/images/MENU_Button_shader4x50.gif" border="0" width="110" height="8"></td>
+                        </tr>
+                        <tr> 
+                          <td align="center" valign="top" width="110"> <a class="myMenu" href="../recipes/recipes.html"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"> 
+                            Recipes </font> </a> </td>
+                        </tr>
+                        <tr> 
+                          <td align="center" valign="top" height="4" width="110"> 
+                            <img src="http://www.kmov.com/images/MENU_Button_shader4x50.gif" border="0" width="110" height="8"></td>
+                        </tr>
+                        <tr> 
+                          <td align="center" valign="top" width="110"> <a class="myMenu" href="../4_stlouis/4stlouis.html"> 
+                            <font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"> 
+                            Community</font></a></td>
+                        </tr>
+                        <tr> 
+                          <td align="center" valign="top" height="4" width="110"> 
+                            <img src="http://www.kmov.com/images/MENU_Button_shader4x50.gif" border="0" width="110" height="8"></td>
+                        </tr>
+                        <tr> 
+                          <td align="center" valign="top" width="110"> <a class="myMenu" href="http://www.clicktv.com/index.asp?cid=A0Y"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"> 
+                            On KMOV-TV</font></a></td>
+                        </tr>
+                        <tr> 
+                          <td align="center" valign="top" height="4" width="110"> 
+                            <img src="http://www.kmov.com/images/MENU_Button_shader4x50.gif" border="0" width="110" height="8"></td>
+                        </tr>
+                        <tr> 
+                          <td align="center" valign="top" width="110"> <a class="myMenu" href="../HDTV/hdtv_main.html"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"> 
+                            HDTV</font></a></td>
+                        </tr>
+                        <tr> 
+                          <td align="center" valign="top" height="4" width="110"> 
+                            <img src="http://www.kmov.com/images/MENU_Button_shader4x50.gif" border="0" width="110" height="8"></td>
+                        </tr>
+                        <tr> 
+                          <td align="center" valign="top" width="110"> <a class="myMenu" href="../about/aboutkmov.html"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"> 
+                            About KMOV-TV</font></a></td>
+                        </tr>
+                        <tr> 
+                          <td align="center" valign="top" height="4" width="110"> 
+                            <img src="http://www.kmov.com/images/MENU_Button_shader4x50.gif" border="0" width="110" height="8"></td>
+                        </tr>
+                        <tr> 
+                          <td align="center" valign="top" width="110"> <a class="myMenu" href="../4_stlouis/4stlouis_PetOfTheWeek.html"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"> 
+                            Pet of the Week</font></a></td>
+                        </tr>
+                        <tr> 
+                          <td align="center" valign="top" height="4" width="110"> 
+                            <img src="http://www.kmov.com/images/MENU_Button_shader4x50.gif" border="0" width="110" height="8"></td>
+                        </tr> 
+                                                <tr> 
+                          <td align="center" valign="top" width="110"> <a class="myMenu" href="http://www.kmov.com/business_MAIN.html" alt="BUSINESS"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"> 
+                            Business</font></a></td>
+                        </tr>
+                        <tr> 
+                          <td align="center" valign="top" height="4" width="110"> 
+                            <img src="http://www.kmov.com/images/MENU_Button_shader4x50.gif" border="0" width="110" height="8"></td>
+                        </tr>
+
+                        <tr> 
+                          <td align="center" valign="top" width="110"> <a class="myMenu" href="http://www.kmov.com/news/Movies_backtoKMOV_frameset.html" alt="MOVIES"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2"> 
+                            Movies</font></a></td>
+                        </tr>
+                        <tr> 
+                          <td align="center" valign="top" height="4" width="110"> 
+                            <img src="http://www.kmov.com/images/MENU_Button_Bottomshader2x50.gif" border="0" width="110" height="2"></td>
+                        </tr>
+                      </tbody></table>
+                      <!-------------------END NEW BUTTON-------------> <img height="12" width="125" src="http://www.kmov.com/images/MENU_NEW_ramp-up.gif"><br>
+                      <img src="http://www.kmov.com/images/BANNER_NEW_leftover.gif" width="125" height="40"> 
+                    </div>
+                  </td>
+                </tr>
+                <tr> 
+                  <td align="left" valign="bottom"> </td>
+                </tr>
+              </tbody></table>
+              <table width="125">
+                <tbody><tr align="center"> 
+                  <td height="12"> 
+                    <center>
+                    </center>
+                  </td>
+                </tr>
+              </tbody></table><table width="125">
+<tbody><tr> 
+                  <td>&nbsp;  </td>
 </tr>
 </tbody></table>
-								</div>
-							</td>
-						</tr>
-						<tr>
-							<td align="left" valign="bottom"></td>
-						</tr>
-					</tbody></table>
-				</td>
-				<td align="left" valign="top" width="475">
-					<table width="475" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr> 
-<td align="left" valign="top" colspan="4" bgcolor="#FFFFFF"> 
-<div align="right">
-
-<!------------------------ACCOUNTING GIF---------------------->
-<script language="JavaScript1.1" src="http://ads.belointeractive.com/RealMedia/ads/adstream_jx.ads/www.kmov.com/misc@Top3?x">
-</script> 
-<script language="JavaScript">
+              <table width="125" border="0" cellspacing="0" cellpadding="0">
+              </table>
+              <table width="125" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr> 
+                  <td>&nbsp; </td>
+                </tr>
+              </tbody></table>
+            </div>
+          </td>
+          <td valign="top" width="511"> 
+            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+              <tbody><tr> 
+                <td align="center" valign="top" colspan="4" bgcolor="#FFFFFF"> 
+                  <div align="right"> 
+                    <script language="JavaScript1.1" src="http://ads.belointeractive.com/RealMedia/ads/adstream_jx.ads/www.kmov.com/index@Top3?x">
+</script>
+                    <script language="JavaScript">
 <!-- 
 if (parseFloat(navigator.appVersion) == 0) { 
-document.write('<IFRAME WIDTH=0 HEIGHT=0 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="http://ads.belointeractive.com/RealMedia/ads/adstream_sx.ads/www.kmov.com/misc@Top3?x"></iframe>'); 
+document.write('<IFRAME WIDTH=0 HEIGHT=0 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="http://ads.belointeractive.com/RealMedia/ads/adstream_sx.ads/www.kmov.com/index@Top3?x"></iframe>'); 
 } 
 // --> 
 </script>
-										<noscript> <A HREF="http://ads.belointeractive.com/RealMedia/ads/click_nx.ads/www.kmov.com/misc@Top3?x"> 
-										<IMG SRC="http://ads.belointeractive.com/RealMedia/ads/adstream_nx.ads/www.kmov.com/misc@Top3?x" width="32" height="32"></a> 
-										</noscript> 
-<!--------------------------end ACCOUNTING GIF--------------------->
+                    <noscript> <A HREF="http://ads.belointeractive.com/RealMedia/ads/click_nx.ads/www.kmov.com/index@Top3?x"> 
+                    <IMG SRC="http://ads.belointeractive.com/RealMedia/ads/adstream_nx.ads/www.kmov.com/index@Top3?x"></a> 
+                    </noscript> <!---------------------------AD SERVE IMAGE 'TOP'------------------------> 
+                    <script language="JavaScript1.1" src="http://ads.belointeractive.com/RealMedia/ads/adstream_jx.ads/www.kmov.com/index@Top?x">
+</script>
+                    <script language="JavaScript">
+<!-- 
+if (parseFloat(navigator.appVersion) == 0) { 
+document.write('<IFRAME WIDTH=468 HEIGHT=60 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="http://ads.belointeractive.com/RealMedia/ads/adstream_sx.ads/www.kmov.com/index@Top?x"></iframe>'); 
+} 
+// --> 
+</script>
+                    <noscript> <A HREF="http://ads.belointeractive.com/RealMedia/ads/click_nx.ads/www.kmov.com/index@Top?x"> 
+                    <IMG SRC="http://ads.belointeractive.com/RealMedia/ads/adstream_nx.ads/www.kmov.com/index@Top?x">&nbsp;</a> 
+                    </noscript> 
+<!------------------------------END AD SERVE 'TOP'-------------------------> 
+                  </div>
+                </td>
+                <td width="5">&nbsp;</td>
+              </tr>
+            </tbody></table>
+            <!---------------------------START - CENTER TABLE - START-----------------------------> 
+            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+              <tbody><tr> 
+                <td height="9" colspan="4"> </td>
+              </tr>
 
- <img src="../images/ads/Ad_WebWatch_468x60.gif" width="468" height="60"></div>
-</td>
-</tr>
-						<tr>
-							<td align="left" valign="top" width="10"></td>
-							
-<td width="455"><font face="Trebuchet MS,Arial,Helvetica,SunSans-Regular" size="5" color="#990000">KMOV.com 
-Privacy Policy</font> </td>
-							<td width="10"></td>
-						</tr>
-						<tr>
-							<td width="10" align="left" valign="top"></td>
+              <tr> 
+                <td height="2" align="left" valign="top" colspan="3"> </td>
+
+                <td width="1" align="left" valign="top" rowspan="2" bgcolor="#999999"> 
+                </td>
+              </tr>
+
+              <tr> 
+                <td width="7" align="left" valign="top" height="422">
+				</td>
+
+                <td valign="top" colspan="2"> 
+<!-----------------START CENTER COLUMN CONTENT TABLE START------------------> 
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr> 
+<td colspan="2" rowspan="2">
+
+
+
+	                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                          <tbody><tr> 
+		                    <td> <font face="Trebuchet MS,Arial,Helvetica,SunSans-Regular" size="5" color="#990000">KMOV.com 
+                              Privacy Policy</font><font face="Trebuchet MS,Arial,Helvetica,SunSans-Regular"> 
+                              </font></td>
+		</tr>
+	</tbody></table>
+
+                          
+	                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                          <tbody><tr align="center" valign="top"> 
 							<td align="left" valign="top" width="455">
 
 								<div align="left"><hr noshade="" size="2">
@@ -349,72 +660,147 @@ or contact:</font>
 									St. Louis, MO. 63102</font></p>
 									<p><font size="1" face="Trebuchet MS,Arial,Helvetica,SunSans-Regular">Last updated April 21, 2000.</font></p></div>
 							</td>
-							<td width="10"></td>
-						</tr>
-					</tbody></table>
-				</td>
-			</tr>
-			<tr>
-				<td colspan="2"><font size="2" face="Trebuchet MS,Arial,Helvetica,SunSans-Regular" color="#666666"><b>&nbsp;</b></font>
-					
-<p><font size="2" face="Trebuchet MS,Arial,Helvetica,SunSans-Regular" color="#666666"><b>Copyright 
-© 2000</b>, KMOV-TV Inc., A Belo subsidiary, All Rights Reserved. This site 
-is best viewed with</font><font size="2" face="Trebuchet MS,Arial,Helvetica,SunSans-Regular"> 
-<a href="http://www.microsoft.com/windows/ie/download/default.asp">Internet Explorer</a></font><font size="2" face="Trebuchet MS,Arial,Helvetica,SunSans-Regular" color="#666666"> 
-or </font><a href="http://home.netscape.com/computing/download/index.html?cp=hom05pbro"><font size="2" face="Trebuchet MS,Arial,Helvetica,SunSans-Regular">Netscape 
-Navigator</font></a><font size="2" face="Trebuchet MS,Arial,Helvetica,SunSans-Regular" color="#666666">. 
-</font><font size="2" face="Trebuchet MS,Arial,Helvetica,SunSans-Regular"><a href="legal.html">Legal 
-terms</a> and <a href="privacy.html" target="_top">Privacy Policy</a></font><font size="2" face="Trebuchet MS,Arial,Helvetica,SunSans-Regular" color="#666666">.<br>
-</font><font size="2" face="Trebuchet MS,Arial,Helvetica,SunSans-Regular">&nbsp;</font>
-</p></td>
-			</tr>
-			<tr>
-				<td colspan="2">
-					<table border="0" cellpadding="0" cellspacing="0" width="600">
-						<tbody><tr height="30">
-							<td width="15" rowspan="2" align="left" valign="top"><img height="40" width="15" src="../images/banner/footer-left.gif"></td>
-							<td width="565" height="30"><csobj w="74" h="30" t="Button" ht="../images/banner/cbs-logo_on.gif"><a href="cbslink.html" target="_top" onmouseover="return CSIShow(/*CMP*/'button',1)" onmouseout="return CSIShow(/*CMP*/'button',0)" onclick="return CSButtonReturn()"><img src="../images/banner/cbs-logo.gif" width="74" height="30" name="button" border="0" alt="CBS.com"></a></csobj><img height="30" width="194" src="../images/banner/bar-fill.gif"><csobj w="43" h="30" t="Button" ht="../images/banner/help_on.gif"><a href="help.html" onmouseover="return CSIShow(/*CMP*/'help',1)" onmouseout="return CSIShow(/*CMP*/'help',0)" onclick="return CSButtonReturn()"><img src="../images/banner/help.gif" width="43" height="30" name="help" border="0" alt="HELP"></a></csobj><img height="30" width="15" src="../images/banner/bar-fill.gif"><csobj w="66" h="30" t="Button" ht="../images/banner/contact_on.gif"><a href="contact.html" onmouseover="return CSIShow(/*CMP*/'Contact',1)" onmouseout="return CSIShow(/*CMP*/'Contact',0)" onclick="return CSButtonReturn()"><img src="../images/banner/contact.gif" width="66" height="30" name="Contact" border="0" alt="CONTACT"></a></csobj><img height="30" width="15" src="../images/banner/bar-fill.gif"><csobj w="65" h="30" t="Button" ht="../images/banner/site_map_on.gif"><a href="sitemap.html" onmouseover="return CSIShow(/*CMP*/'button14',1)" onmouseout="return CSIShow(/*CMP*/'button14',0)" onclick="return CSButtonReturn()"><img src="../images/banner/site_map.gif" width="65" height="30" name="button14" border="0" alt="SITE MAP"></a></csobj><img height="30" width="15" src="../images/banner/bar-fill.gif"><csobj w="78" h="30" t="Button" ht="../images/banner/foot_to_top_on.gif"><a href="#top" onmouseover="return CSIShow(/*CMP*/'top',1)" onmouseout="return CSIShow(/*CMP*/'top',0)" onclick="return CSButtonReturn()"><img src="../images/banner/foot_to_top.gif" width="78" height="30" name="top" border="0" alt="TOP OF PAGE"></a></csobj></td>
-							<td width="20" rowspan="2" align="left" valign="top"><img height="40" width="20" src="../images/banner/footer-right.gif"></td>
-						</tr>
-						<tr height="10">
-							<td width="565" height="10"><img height="10" width="565" src="../images/banner/foot-shadow.gif"></td>
-						</tr>
-					</tbody></table>
-				</td>
-			</tr>
-		</tbody></table>
-</td>
-<td width="140" valign="top"> 
-<table width="145" border="0" cellspacing="0" cellpadding="0" valign="top">
-<tbody><tr bgcolor="#FFFFFF"> 
-<td height="135">&nbsp;</td>
 </tr>
 </tbody></table>
 
-<table width="145" border="0" cellspacing="0" cellpadding="0" valign="top">
-<tbody><tr> 
-<td>
-<div align="center">&nbsp;</div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+       <tbody><tr>
+		<td> 
+		<div align="center">
+ 		<hr noshade="" size="2" width="500">
+		<font color="#990000" face="Trebuchet MS,Arial,Helvetica,SunSans-Regular"> 
+		Return to <a href="http://www.kmov.com/index.html">HOME</a> Page 
+		</font><br>
+ 		</div>
+		</td>
+		</tr>
+	</tbody></table>
+
+ <!------------------- END - CENTER CONTENT TABLE (TOP HALF) - END ------------------------> 
+                  
+
 </td>
 </tr>
+</tbody></table>
+                  
+                </td>
+              </tr>
+            </tbody></table>
+
+
+          </td>
+        </tr>
+        <tr> 
+          <td colspan="2"><font size="2" face="Trebuchet MS,Arial,Helvetica,SunSans-Regular" color="#666666"><b>&nbsp;</b></font> 
+            <p align="center"><font size="2" face="Trebuchet MS,Arial,Helvetica,SunSans-Regular" color="#666666"><b>Copyright 
+              © 2001</b>, KMOV-TV Inc., A Belo subsidiary, All Rights Reserved. 
+              <br>
+              To <b>advertise on KMOV.com</b>, send inquiries to <a href="mailto:advertising@kmov.com">advertising@kmov.com</a>.<br>
+              This site is best viewed with</font><font size="2" face="Trebuchet MS,Arial,Helvetica,SunSans-Regular"> 
+              <a href="http://www.microsoft.com/windows/ie/download/default.asp">Internet 
+              Explorer</a></font><font size="2" face="Trebuchet MS,Arial,Helvetica,SunSans-Regular" color="#666666"> 
+              or </font><a href="http://home.netscape.com/computing/download/index.html?cp=hom05pbro"><font size="2" face="Trebuchet MS,Arial,Helvetica,SunSans-Regular">Netscape 
+              Navigator</font></a><font size="2" face="Trebuchet MS,Arial,Helvetica,SunSans-Regular" color="#666666">. 
+              </font><font size="2" face="Trebuchet MS,Arial,Helvetica,SunSans-Regular"><a href="legal.html">Legal 
+              terms</a> and <a href="privacy.html">Privacy Policy</a></font><font size="2" face="Trebuchet MS,Arial,Helvetica,SunSans-Regular" color="#666666">.<br>
+              </font><font size="2" face="Trebuchet MS,Arial,Helvetica,SunSans-Regular">&nbsp;</font> 
+          </p></td>
+        </tr>
+        <tr> 
+          <td colspan="2"> 
+            <div align="right"> 
+              <table border="0" cellpadding="0" cellspacing="0" width="600">
+                <tbody><tr height="30"> 
+                  <td width="15" rowspan="2" align="left" valign="top"><img height="40" width="15" src="http://www.kmov.com/images/BANNER_footer-left.gif"></td>
+                  <td width="565" height="30"><csobj w="74" h="30" t="Button" ht="images/BANNER_cbs-logo_on.gif"><a href="cbslink.html" target="_top" onmouseover="return CSIShow(/*CMP*/'button',1)" onmouseout="return CSIShow(/*CMP*/'button',0)" onclick="return CSButtonReturn()"><img src="http://www.kmov.com/images/BANNER_cbs-logo.gif" width="74" height="30" name="button" border="0" alt="CBS.com"></a></csobj><img height="30" width="194" src="http://www.kmov.com/images/BANNER_bar-fill.gif"><csobj w="43" h="30" t="Button" ht="images/BANNER_help_on.gif"><a href="help.html" onmouseover="return CSIShow(/*CMP*/'help',1)" onmouseout="return CSIShow(/*CMP*/'help',0)" onclick="return CSButtonReturn()"><img src="http://www.kmov.com/images/BANNER_help.gif" width="43" height="30" name="help" border="0" alt="HELP"></a></csobj><img height="30" width="15" src="http://www.kmov.com/images/BANNER_bar-fill.gif"><csobj w="66" h="30" t="Button" ht="images/BANNER_contact_on.gif"><a href="contact.html" onmouseover="return CSIShow(/*CMP*/'Contact',1)" onmouseout="return CSIShow(/*CMP*/'Contact',0)" onclick="return CSButtonReturn()"><img src="http://www.kmov.com/images/BANNER_contact.gif" width="66" height="30" name="Contact" border="0" alt="CONTACT"></a></csobj><img height="30" width="15" src="http://www.kmov.com/images/BANNER_bar-fill.gif"><csobj w="65" h="30" t="Button" ht="images/BANNER_site_map_on.gif"><a href="sitemap.html" onmouseover="return CSIShow(/*CMP*/'button14',1)" onmouseout="return CSIShow(/*CMP*/'button14',0)" onclick="return CSButtonReturn()"><img src="http://www.kmov.com/images/BANNER_site_map.gif" width="65" height="30" name="button14" border="0" alt="SITE MAP"></a></csobj><img height="30" width="15" src="http://www.kmov.com/images/BANNER_bar-fill.gif"><csobj w="78" h="30" t="Button" ht="images/BANNER_foot_to_top_on.gif"><a href="#top" onmouseover="return CSIShow(/*CMP*/'top',1)" onmouseout="return CSIShow(/*CMP*/'top',0)" onclick="return CSButtonReturn()"><img src="http://www.kmov.com/images/BANNER_foot_to_top.gif" width="78" height="30" name="top" border="0" alt="TOP OF PAGE"></a></csobj></td>
+                  <td width="20" rowspan="2" align="left" valign="top"><img height="40" width="20" src="http://www.kmov.com/images/BANNER_footer-right.gif"></td>
+                </tr>
+                <tr height="10"> 
+                  <td width="565" height="10"><img height="10" width="565" src="http://www.kmov.com/images/BANNER_foot-shadow.gif"></td>
+                </tr>
+              </tbody></table>
+            </div>
+          </td>
+        </tr>
+      </tbody></table>
+    </td>
+    <td width="125" valign="top"> 
+
+      <table width="125" border="0" cellspacing="0" cellpadding="0" valign="top" height="125">
+					<tbody><tr> 
+					<td align="center" valign="top"> <center>
+					&nbsp; 
+					</center>
+					</td>
+                    </tr>
+      </tbody></table>
+      <table width="125" border="0" cellspacing="0" cellpadding="0" valign="top">
+<tbody><tr> 
+<td>
+<script language="JavaScript1.1" src="http://ads.belointeractive.com/RealMedia/ads/adstream_jx.ads/www.kmov.com/index@Right1">
+</script> 
+<script language="JavaScript">
+<!-- 
+if (parseFloat(navigator.appVersion) == 0) { 
+document.write('<IFRAME WIDTH=468 HEIGHT=60 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="http://ads.belointeractive.com/RealMedia/ads/adstream_sx.ads/www.kmov.com/index@Right1"></iframe>'); 
+} 
+// --> 
+</script> 
+<noscript> 
+<A HREF="http://ads.belointeractive.com/RealMedia/ads/click_nx.ads/www.kmov.com/index@Right1?x">
+<IMG SRC="http://ads.belointeractive.com/RealMedia/ads/adstream_nx.ads/www.kmov.com/index@Right1?x"></a> 
+</noscript> 
+</td>
+</tr>
+      </tbody></table>
+      <table width="125" border="0" cellspacing="0" cellpadding="0" valign="top">
+        <tbody><tr> 
+          <td>&nbsp; </td>
+        </tr>
+      </tbody></table>
+      <table width="125" border="0" cellspacing="0" cellpadding="0" valign="top">
+        <tbody><tr> 
+          <td>&nbsp; 
+          </td>
+        </tr>
+      </tbody></table>
+      <table width="125" border="0" cellspacing="0" cellpadding="0" valign="top">
+        <tbody><tr> 
+          <td>&nbsp; </td>
+        </tr>
+      </tbody></table>
+      <table width="125" border="0" cellspacing="0" cellpadding="0" valign="top">
+        <tbody><tr> 
+          <td>&nbsp; </td>
+        </tr>
+      </tbody></table>
+      <table width="125" border="0" cellspacing="0" cellpadding="0" valign="top">
+        <tbody><tr> 
+          <td>&nbsp; </td>
+        </tr>
+      </tbody></table>
+      <table width="125" border="0" cellspacing="0" cellpadding="0" valign="top">
+        <tbody><tr> 
+          <td>&nbsp; </td>
+        </tr>
+      </tbody></table>
+      <table width="125" border="0" cellspacing="0" cellpadding="0" valign="top">
+        <tbody><tr> 
+          <td>&nbsp;</td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
 </tbody></table>
 
-<table width="145" border="0" cellspacing="0" cellpadding="0" valign="top">
-<tbody><tr> 
-<td height="15">&nbsp;</td>
-</tr>
-</tbody></table>
-<table width="145" border="0" cellspacing="0" cellpadding="0" valign="top">
-<tbody><tr> 
-<td>
-<div align="center"></div>
-</td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-</tbody></table></b></font>
-	
+<map name="RoadCond_banner_map"> <area shape="rect" coords="195,20,249,96" href="../4_more/current/IL_roadcond_link.html" alt="Illinois Road Conditions"> 
+  <area shape="rect" coords="14,19,76,96" href="../4_more/current/Mo_roadcond_link.html" alt="Missouri Road Conditions"> 
+</map> <map name="PetWeek_Homelink"> <area shape="rect" coords="12,50,64,79" href="../4_stlouis/4stlouis_PetOfTheWeek.html" alt="Pet of the Week link"> 
+</map> <map name="Parenting_topic"> <area shape="rect" coords="32,71,125,86" href="../4_more/4more_Parenting_link.html" alt="Today's topic: MOVING and KIDS"> 
+</map> <map name="YMCAofOzarks"> <area shape="rect" coords="16,161,104,184" href="http://www.ymcastlouis.org/yozark/" alt="YMCA of the Ozarks"> 
+</map> 
+
+
 
 
 </body></html>
