@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linksys.com privacy policy that was archived on 2003-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031119060500id_/http%3A//www.cisco.com/en/US/swassets/sw293/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linksys.com privacy policy that was archived on 2004-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040626012354id_/http%3A//www.cisco.com/en/US/swassets/sw293/privacy_statement.html) for the most accurate reproduction.*
 
 # Sitewide Privacy Statement - Cisco Systems
 
