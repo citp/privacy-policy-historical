@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samedaymusic.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208144910id_/http%3A//samedaymusic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samedaymusic.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205144339id_/http%3A//www.samedaymusic.com/privacy) for the most accurate reproduction.*
 
 # Privacy - SameDayMusic.com - SameDayMusic.com
 
