@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stifel.com privacy policy that was archived on 2002-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020415042819id_/http%3A//www.stifel.com/consumerPrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stifel.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210143834id_/http%3A//www.stifel.com/consumerPrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Stifel Nicolaus - Stifel Online Privacy Policy
 
