@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the fixyourownprinter.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203204100id_/http%3A//fixyourownprinter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fixyourownprinter.com privacy policy that was archived on 2001-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010408091826id_/http%3A//fixyourownprinter.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - fixyourownprinter.com
+# Privacy Statement - fixyourownprinter.com
 
-[Introduction](https://web.archive.org/)  
-[Site News](https://web.archive.org/web/20001203204100id_/http%3A//fixyourownprinter.com/news.html)  
-[Testimonials](https://web.archive.org/web/20001203204100id_/http%3A//fixyourownprinter.com/fanmail.html)  
-[Tell a Friend](https://web.archive.org/web/20001203204100id_/http%3A//fixyourownprinter.com/referral.html)  
-[Site Survey](http://38.148.250.3/cgi-win/client.exe?readers,welcome,ad7326a,1004)  
-Privacy Policy  
-[Contact Us](https://web.archive.org/web/20001203204100id_/http%3A//fixyourownprinter.com/contacts.html)| 
+| 
 
 ### Privacy Statement
 
