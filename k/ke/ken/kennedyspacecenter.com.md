@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kennedyspacecenter.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622110214id_/http%3A//kennedyspacecenter.com/html/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kennedyspacecenter.com privacy policy that was archived on 2003-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030812082655id_/http%3A//kennedyspacecenter.com/html/privacy_statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
