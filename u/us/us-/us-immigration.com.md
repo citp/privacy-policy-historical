@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the us-immigration.com privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202104133id_/http%3A//www.us-immigration.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the us-immigration.com privacy policy that was archived on 2002-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021214032450id_/http%3A//www.us-immigration.com/privacy.html) for the most accurate reproduction.*
 
 # American Immigration Center: All the Information about Latest INS Updates on US Immigration Procedures
 
