@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citibank.co.uk privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204161128id_/http%3A//www.citibank.co.uk/uk/privacy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citibank.co.uk privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308132728id_/http%3A//www.citibank.co.uk/uk/privacy/index.jsp) for the most accurate reproduction.*
 
 # Citibank UK - Your Privacy
 
@@ -23,11 +23,11 @@ While information is the cornerstone of our ability to provide superior service,
 | We will attempt to keep customer files complete, up-to-date, and accurate. We will tell our customers how and where to conveniently access their account information (except when we're prohibited by law) and how to notify us about errors which we will promptly correct.   
 We will continuously assess ourselves to ensure that customer privacy is respected. We will conduct our business in a manner that fulfills our Promise in the many nations in which we do business.   
   
-Please also read Citibank's [Internet Privacy Policy](https://web.archive.org/web/20041204161128id_/http%3A//www.citibank.co.uk/uk/privacy/internet.jsp), which outlines our privacy policy for our Internet site users.
+Please also read Citibank's [Internet Privacy Policy](https://web.archive.org/web/20050308132728id_/http%3A//www.citibank.co.uk/uk/privacy/internet.jsp), which outlines our privacy policy for our Internet site users.
 
 You have a right at any time to stop us from contacting you for marketing purposes by post, telephone or e-mail. If you wish for us to stop, please write to us at:  
 Citibank International plc, Freepost HA 1327, London, W6 0BR  
-or call [CitiPhone](https://web.archive.org/web/20041204161128id_/http%3A//www.citibank.co.uk/uk/aboutcitibank/contactus/telephone/index.jsp).
+or call [CitiPhone](https://web.archive.org/web/20050308132728id_/http%3A//www.citibank.co.uk/uk/aboutcitibank/contactus/telephone/index.jsp).
 
   
 
