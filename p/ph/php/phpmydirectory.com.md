@@ -1,0 +1,49 @@
+> *The following text is extracted and transformed from the phpmydirectory.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602081538id_/http%3A//www.phpmydirectory.com/privacy.php) for the most accurate reproduction.*
+
+# phpMyDirectory.com - PHP/mySQL Business Directory Script - Privacy Statements
+
+|    
+|    
+  
+
+  phpMyDirectory.com is strongly committed to protecting the privacy of its customers. Our policy is to keep the personal information we receive from our sites completely confidential and used solely for internal purposes. We will not share your personal information with any other parties.
+
+  By accessing or using phpMyDirectory.com web site, you agree to the terms of phpMyDirectory.com Online Privacy Policy, as outlined below. If you do not agree to these terms, please do not access or use this site. phpMyDirectory.com reserves the right to change the Online Privacy Policy from time to time at its sole discretion. Your use of this site will be subject to the most current version of the Online Privacy Policy at the time of such use.
+
+  When you engage in certain activities on this site, such as registering company or purchasing the software, we may ask you to provide certain information about yourself by filling out and submitting an online form. It is completely optional for you to engage in these activities. If you elect to engage in these activities, however, we may ask that you provide personal information, such as your first and last name, mailing address (including zip code), e-mail address, telephone numbers, and other personal identifying information. When ordering products or services on the site, you may be asked to provide a credit card number. Depending upon the activity, some of the information that we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data with respect to a particular activity, you will not be able to engage in that activity.
+
+  phpMyDirectory.com collects your information in order to record and support your participation in the activities you select. If you electronically purchase the software, for example, the information is used to register your license and rights, to provide technical support, upgrade discounts, and other benefits that may be made available to registered users. The information that you provide is also used as part of our effort to keep you informed about product upgrades, special offers, and other products and services of phpMyDirectory.com.
+
+  The personal information that you provide in connection with purchasing our software is classified as Registration Information and is stored on the 3rd party e-commerce payment services provider SWREG.ORG. Registration Information is protected. Your Registration Information resides on a secure server that only selected phpMyDirectory.com personnel have access to via password. SWREG encrypts your personal information.
+
+  Under NO circumstances will phpMyDirectory.com or any of its subsidiaries release your personal information to any third party without order from the court or law enforcement agency.
+
+  
+Copyright 2001-2003 phpMyDirectory.com. All rights reserved.  
+Please read our [Terms of Use](https://web.archive.org/web/20030602081538id_/http%3A//www.phpmydirectory.com/terms.php) and [Privacy statements](https://web.archive.org/web/20030602081538id_/http%3A//www.phpmydirectory.com/privacy.php) when accessing this site.  
+|      
+|    
+| 
+
+**What our customers say**  
+  
+  
+---  
+  
+  Excellent software! Simple installation, many features. We've installed the script and translated it into russian in 40 minutes. A $500+ value website for just $149.95! Excellent job!
+
+"Ukrainian Business Portal",  
+[www.shansplus.com.ua](http://www.shansplus.com.ua/)  
+  
+  
+
+
+**Did you know?**  
+  
+  
+---  
+  
+  Please note, that this script includes encrypted anti-piracy code, that may cause serious problems with your database or php files on your server if you use an illegal copy. Please, mail us, if you are not sure about the origin of your copy.  
+  
+   
+
