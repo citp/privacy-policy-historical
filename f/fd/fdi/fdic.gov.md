@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fdic.gov privacy policy that was archived on 2000-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000416084111id_/http%3A//www.fdic.gov/about/privpol.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fdic.gov privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604053737id_/http%3A//www.fdic.gov/about/privpol.html) for the most accurate reproduction.*
 
 # FDIC: Privacy Policy Statement
 
@@ -11,6 +11,11 @@ Some parts of the FDIC Web site may use a "cookie", which is a file placed on yo
 Other than the automatic data collection described above, this site collects no personally identifying information. **The sole exception is when you knowingly and voluntarily provide information** , such as when you fill in your name and address on the FOIA request form. 
 
 The FDIC uses the information we collect for internal system administrative purposes to measure the volume of requests for specific web site pages, and to continually improve the FDIC Internet site to be responsive to the needs of users. Your choice to use the FDIC Web site or to send electronic mail to FDIC will be considered your consent for the FDIC to use the information collected therefrom as stated in this notice.
+
+  
+**Intrusion Detection Monitoring**
+
+This government computer system employs software security programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Such attempts are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act. Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. 
 
   
 **Information Collected From You**
