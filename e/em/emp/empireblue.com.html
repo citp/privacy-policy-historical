@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the empireblue.com privacy policy that was archived on 2002-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020603015051id_/http%3A//www.empireblue.com/universal/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the empireblue.com privacy policy that was archived on 2002-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021215222754id_/http%3A//www.empireblue.com/universal/privacy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><!-- #BeginTemplate "/Templates/universal.dwt" --><head>
 <!-- Your Health template-Empire WCMT -->
@@ -32,6 +32,12 @@ function PopButterfly() {
 	if (document.images) {
 
 // Main Nav Rollover JS: Universal
+	image0on = new Image();
+	image0on.src = "/images/nav/empire_plans_on.gif";
+
+	image0off = new Image();
+	image0off.src = "/images/nav/empire_plans_off.gif";
+
 	image1on = new Image();
 	image1on.src = "/images/nav/services_on.gif";
   
@@ -52,48 +58,6 @@ function PopButterfly() {
   
 // SubNavheirMenu Rollover JS: None
 	  
-// Right-Hand Nav Rollover JS: Edit only on add or remove
-	image8on = new Image();
-	image8on.src = "/images/rightnav/sidenav_doctor_on.gif";
-  
-	image9on = new Image();
-	image9on.src = "/images/rightnav/sidenav_contact_on.gif";
-
-	image10on = new Image();
-	image10on.src = "/images/rightnav/sidenav_index_on.gif";
-  
-	image11on = new Image();
-	image11on.src = "/images/rightnav/sidenav_terms_on.gif";
-  
-	image12on = new Image();
-	image12on.src = "/images/rightnav/sidenav_forms_library_on.gif";
-  
-	image13on = new Image();
-	image13on.src = "/images/rightnav/sidenav_help_on.gif";
-
-	image14on = new Image();
-	image14on.src = "/images/rightnav/sidenav_login_on.gif";	
-	
-	image8off = new Image();
-	image8off.src = "/images/rightnav/sidenav_doctor_off.gif";
-
-	image9off = new Image();
-	image9off.src = "/images/rightnav/sidenav_contact_off.gif";
-
-	image10off = new Image();
-	image10off.src = "/images/rightnav/sidenav_index_off.gif";
-  
-	image11off = new Image();
-	image11off.src = "/images/rightnav/sidenav_terms_off.gif";
-  
-	image12off = new Image();
-	image12off.src = "/images/rightnav/sidenav_forms_library_off.gif";
-  
-	image13off = new Image();
-	image13off.src = "/images/rightnav/sidenav_help_off.gif";
-	
-	image14off = new Image();
-	image14off.src = "/images/rightnav/sidenav_login_off.gif";
 	}
 
 	function changeImages() {
@@ -111,7 +75,6 @@ function PopButterfly() {
 <!--------------------------->
 <body bgcolor="#006699" text="BLACK" marginwidth="0" marginheight="0" topmargin="0" leftmargin="0">
 <!-- Navigation -->
-<!-- Masthead -n- Banner Rotation JS -->
 <table width="762" border="0" cellspacing="0" cellpadding="0" nowrap="">
   <tbody><tr> 
     <td width="15" height="69"><img src="/images/page_elements/1x1.gif" width="1" height="1" border="0"></td>
@@ -135,21 +98,40 @@ increment = Math.floor(Math.random() * number);
 document.write(banner[increment]);
 
 //-->
-</script><a href="/healthscore/index3.shtml"><img src="/images/banners/ban_03_wm.jpg" border="0"></a><a href="javascript:PopButterfly();"><img src="/images/logo/butterfly.gif" width="81" height="69" border="0" alt="Message from the Butterfly"></a><a href="/index.shtml"><img src="/images/logo/logo.gif" width="274" height="69" border="0" alt="Back to empireblue.com Home"></a></td>
+</script><a href="/healthscore/index3.shtml"><img src="/images/banners/ban_03_wm.jpg" border="0"></a><a href="javascript:PopButterfly();"><img src="/images/logo/butterfly.gif" width="81" height="69" border="0" alt="Message from the Butterfly"></a><a href="/index.shtml"><img src="/images/logo/logo_off.gif" width="274" height="69" border="0" alt=""></a></td>
   </tr>
 </tbody></table>
-<!-- ------------------------------- -->
 
 
+<script language="JavaScript" type="text/javascript">
+<!--
+	if (document.images) {
+
+// Main Nav Rollover JS: Universal
+	
+	}
+
+	function changeImages() {
+	  if (document.images) {
+	    for (var i=0; i<changeImages.arguments.length; i+=2) {
+	      document[changeImages.arguments[i]].src = eval(changeImages.arguments[i+1] + ".src");
+	    }
+	  }
+	}
+// -->
+</script>
 
 <table border="0" cellspacing="0" cellpadding="0" height="25" width="788">
   <tbody><tr> 
     <td width="15" height="24"><img src="/images/page_elements/1x1.gif" width="15" height="25"></td>
-    <td colspan="2" bgcolor="#006699" align="left" valign="top" height="24"><a href="/services/index.shtml" onmouseover="changeImages('image1', 'image1on')" onmouseout="changeImages('image1', 'image1off')"><img name="image1" src="/images/nav/services_off.gif" width="136" height="25" border="0"></a><a href="/about_empire/index.shtml" onmouseover="changeImages('image2', 'image2on')" onmouseout="changeImages('image2', 'image2off')"><img name="image2" src="/images/nav/about_empire_off.gif" width="160" height="25" border="0"></a><a href="/your_health/index.shtml" onmouseover="changeImages('image3', 'image3on')" onmouseout="changeImages('image3', 'image3off')"><img name="image3" src="/images/nav/my_health_off.gif" border="0" width="160" height="25"></a><img src="/images/nav/right_side_of_top_nav.gif" width="249" height="25"><img src="/images/nav/right_curve_of_top_nav.gif" width="25" height="25"></td>
+    <td colspan="2" bgcolor="#006699" align="left" valign="top" height="24">
+	
+	
+	<a href="/plans/index.shtml" onmouseover="changeImages('image0', 'image0on')" onmouseout="changeImages('image0', 'image0off')"><img name="image0" src="/images/nav/empire_plans_off.gif" border="0" alt=""></a><a href="/services/index.shtml" onmouseover="changeImages('image1', 'image1on')" onmouseout="changeImages('image1', 'image1off')"><img name="image1" src="/images/nav/services_off.gif" border="0" alt=""></a><a href="/about_empire/index.shtml" onmouseover="changeImages('image2', 'image2on')" onmouseout="changeImages('image2', 'image2off')"><img name="image2" src="/images/nav/about_empire_off.gif" border="0" alt=""></a><a href="/your_health/index.shtml" onmouseover="changeImages('image3', 'image3on')" onmouseout="changeImages('image3', 'image3off')"><img name="image3" src="/images/nav/my_health_off.gif" border="0" alt=""></a><img src="/images/nav/right_side_of_top_nav.gif"><img src="/images/nav/right_curve_of_top_nav.gif"></td>
   </tr>
   <tr align="left" valign="top"> 
     <td width="15" height="2" nowrap=""><img src="/images/page_elements/1x1.gif" width="15" height="22"></td>
-    <td width="730" background="/images/subnav/nav_bk.gif" nowrap="" bgcolor="#FFFFFF" height="2"><img src="/images/page_elements/1x1.gif" width="505" height="22"><img src="/images/subnav/nav_curve.gif" width="25" height="22"><img src="/images/subnav/right_side.gif" width="200" height="22" border="0"></td>
+    <td width="730" background="/images/subnav/nav_bk.gif" nowrap="" bgcolor="#FFFFFF" height="2"><img src="/images/page_elements/1x1.gif" width="505" height="22"><img src="/images/subnav/nav_curve.gif"><img src="/images/subnav/right_side.gif" border="0"></td>
     <td width="43" bgcolor="#006699" height="2"><img src="/images/page_elements/1x1.gif" width="25" height="22"></td>
   </tr>
 </tbody></table>
@@ -159,22 +141,19 @@ document.write(banner[increment]);
   <tbody><tr> 
     <td rowspan="5" align="left" valign="top"><img src="/images/page_elements/1x1.gif" width="15" height="420" alt="" border="0"></td>
     <td bgcolor="#FFFFFF" align="left" valign="top" height="27"> 
-      <div class="breadcrumb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!-- #BeginEditable "breadcrumb" --><a href="../index.shtml">Home</a> 
+      <div align="" class="breadcrumb">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!-- #BeginEditable "breadcrumb" --><a href="../index.shtml">Home</a> 
 		/ Privacy Notice<!-- #EndEditable --></div>
     </td>
     <td rowspan="3" align="left" valign="top" bgcolor="#FFFFFF" background="/images/page_elements/g_dotted_blue.gif"> 
 	  <!-- Nav Right -->
-	   		
-<p><a href="/universal/providerfind.shtml" onmouseover="changeImages('image8', 'image8on')" onmouseout="changeImages('image8', 'image8off')"><img name="image8" src="/images/rightnav/sidenav_doctor_off.gif" width="190" height="18" border="0"></a><br>
-<a href="/services/index.shtml" onmouseover="changeImages('image14', 'image14on')" onmouseout="changeImages('image14', 'image14off')"><img name="image14" src="/images/rightnav/sidenav_login_off.gif" width="190" height="19" alt="" border="0"></a><br>
-<a href="/about_empire/company_info/contact_us/index.shtml" onmouseover="changeImages('image9', 'image9on')" onmouseout="changeImages('image9', 'image9off')"><img name="image9" src="/images/rightnav/sidenav_contact_off.gif" width="190" height="19" border="0"></a><br>
-<a href="/universal/sitemap.shtml" onmouseover="changeImages('image10', 'image10on')" onmouseout="changeImages('image10', 'image10off')"><img name="image10" src="/images/rightnav/sidenav_index_off.gif" width="190" height="19" alt="" border="0"></a><br>
-<a href="/universal/glossary.shtml" onmouseover="changeImages('image11', 'image11on')" onmouseout="changeImages('image11', 'image11off')"><img name="image11" src="/images/rightnav/sidenav_terms_off.gif" width="190" height="19" alt="" border="0"></a><br>
-<a href="/universal/help.shtml" onmouseover="changeImages('image13', 'image13on')" onmouseout="changeImages('image13', 'image13off')"><img name="image13" src="/images/rightnav/sidenav_help_off.gif" width="190" height="18" alt="" border="0"></a><br>
-<img src="/images/rightnav/blue_checked.gif" width="190" height="5" alt="" border="0"><br>
-
-</p><form method="POST" action="/cgi-bin/search.pl">
-<div class="search">Search empireblue.com<br>
+	   <p><a href="/universal/providerfind.shtml" onmouseover="changeImages('image8', 'image8on')" onmouseout="changeImages('image8', 'image8off')"><img name="image8" src="/images/rightnav/sidenav_doctor_off.gif" width="190" height="18" border="0"></a><br> 
+<a href="/services/index.shtml" onmouseover="changeImages('image14', 'image14on')" onmouseout="changeImages('image14', 'image14off')"><img name="image14" src="/images/rightnav/sidenav_login_off.gif" width="190" height="19" alt="" border="0"></a><br> 
+<a href="/about_empire/contact_us/index.shtml" onmouseover="changeImages('image9', 'image9on')" onmouseout="changeImages('image9', 'image9off')"><img name="image9" src="/images/rightnav/sidenav_contact_off.gif" width="190" height="19" border="0"></a><br> 
+<a href="/universal/sitemap.shtml" onmouseover="changeImages('image10', 'image10on')" onmouseout="changeImages('image10', 'image10off')"><img name="image10" src="/images/rightnav/sidenav_index_off.gif" width="190" height="19" alt="" border="0"></a><br> 
+<a href="/universal/glossary.shtml" onmouseover="changeImages('image11', 'image11on')" onmouseout="changeImages('image11', 'image11off')"><img name="image11" src="/images/rightnav/sidenav_terms_off.gif" width="190" height="19" alt="" border="0"></a><br> 
+<a href="/universal/help.shtml" onmouseover="changeImages('image12', 'image12on')" onmouseout="changeImages('image12', 'image12off')"><img name="image12" src="/images/rightnav/sidenav_help_off.gif" width="190" height="18" alt="" border="0"></a><br> 
+<img src="/images/rightnav/blue_checked.gif" width="190" height="5" alt="" border="0"><br> 
+</p><form method="POST" action="/cgi-bin/search.pl"> <div class="search">Search empireblue.com<br> 
 <script language="JavaScript" type="text/javascript">
  	if(document.layers){
  		document.write('<input type="text" NAME="Search" size="9" MAXLENGTH="35">');
@@ -182,10 +161,68 @@ document.write(banner[increment]);
 	else{
 		document.write('<input type="text" NAME="Search" size="16" MAXLENGTH="35">');
 	}
-</script><input type="text" name="Search" size="16" maxlength="35">
-<input type="image" align="absmiddle" name="searchform" src="/images/page_elements/sm_go.gif" width="22" height="21" border="0">
-</div>
-</form>
+</script><input type="text" name="Search" size="16" maxlength="35"> <input type="image" align="absmiddle" name="searchform" src="/images/page_elements/sm_go.gif" width="22" height="21" border="0"> 
+</div></form><script language="JavaScript" type="text/javascript">
+<!--
+	if (document.images) {
+
+
+   
+// Right-Hand Nav Rollover JS: Edit only on add or remove
+	
+	
+	
+  
+	image8on = new Image();
+	image8on.src = "/images/rightnav/sidenav_doctor_on.gif";
+	
+	image8off = new Image();
+	image8off.src = "/images/rightnav/sidenav_doctor_off.gif";
+		
+	image9on = new Image();
+	image9on.src = "/images/rightnav/sidenav_contact_on.gif";
+	
+	image9off = new Image();
+	image9off.src = "/images/rightnav/sidenav_contact_off.gif";	
+
+	image10on = new Image();
+	image10on.src = "/images/rightnav/sidenav_index_on.gif";
+
+	image10off = new Image();
+	image10off.src = "/images/rightnav/sidenav_index_off.gif";	
+
+	image11on = new Image();
+	image11on.src = "/images/rightnav/sidenav_terms_on.gif";
+
+	image11off = new Image();
+	image11off.src = "/images/rightnav/sidenav_terms_off.gif";
+  
+  	image12on = new Image();
+	image12on.src = "/images/rightnav/sidenav_help_on.gif";
+	
+	image12off = new Image();
+	image12off.src = "/images/rightnav/sidenav_help_off.gif";	
+	
+	
+	image14on = new Image();
+	image14on.src = "/images/rightnav/sidenav_login_on.gif";	
+
+	image14off = new Image();
+	image14off.src = "/images/rightnav/sidenav_login_off.gif";	
+	
+	
+	
+	}
+
+	function changeImages() {
+	  if (document.images) {
+	    for (var i=0; i<changeImages.arguments.length; i+=2) {
+	      document[changeImages.arguments[i]].src = eval(changeImages.arguments[i+1] + ".src");
+	    }
+	  }
+	}
+// -->
+</script>
 	  <table border="0" cellspacing="0" cellpadding="0">
         <tbody><tr> 
           <td><!-- #BeginEditable "right_content" --><!-- #EndEditable --> 
@@ -204,17 +241,21 @@ document.write(banner[increment]);
       <table border="0" cellspacing="" cellpadding="0">
         <tbody><tr> 
           <td><img src="/images/page_elements/1x1.gif" width="15" height="5"></td>
-          <td><!-- #BeginEditable "body" --><img src="../images/header_privacy_notice.gif" width="476" height="49" alt="" border="0"><br>
-            <div class="bodytext"> Empire BlueCross BlueShield offers 
-              a new generation of consumer-friendly products that put individuals 
-              back in control of their health and financial future. As such, we 
-              intend to give you as much control as possible over your personal 
-              web information utilized by our site. 
+          <td><!-- #BeginEditable "body" -->
+			
+			
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+	<td width="476"><img src="../images/header_privacy_notice.gif" width="476" height="49" alt="" border="0"><br>
+            <div class="bodytext"> Empire offers a new generation 
+              of consumer-friendly products that put individuals back in control 
+              of their health. As such, we intend to give you as much control 
+              as possible over your personal web information utilized by our site. 
               <p> You can visit us on the web without sharing information about 
                 yourself or revealing any information about who you are. Sometimes 
                 however, we may need information from you, such as your name and 
                 address or other personal information, in order to communicate 
-                with you, or allow access to special member sections of our site. 
+                with you, or allow access to special secure sections of our site. 
               </p><p> If you are required to furnish personal information in order 
                 for us to provide you with the services you need or request, you 
                 will be fully informed about how we intend to use this information. 
@@ -224,12 +265,12 @@ document.write(banner[increment]);
                 and is used in order to personalize your experience with us and 
                 offer you features and services that more closely meet your needs. 
               </p><p> Our site contains links to other websites not controlled by 
-                Empire BlueCross BlueShield. The information you provide us does 
-                not transfer to those websites except as expressly permitted by you 
-                to provide you with access to benefits services and wellness opportunities. 
-                We do not assume responsibility for the privacy practices or the 
-                content of those sites. We encourage you to review the privacy 
-                policies of those sites.<br>
+                Empire. The information you provide us does 
+                not transfer to those websites except as expressly permitted by 
+                you to provide you with access to benefits, services and wellness 
+                opportunities. We do not assume responsibility for the privacy 
+                practices or the content of those sites. We encourage you to review 
+                the privacy policies of those sites.<br>
                 <br>
                 <br>
               </p><div class="subtitle">About Cookies</div>	
@@ -245,26 +286,26 @@ document.write(banner[increment]);
                 is being sent. You can choose to accept or deny the "cookie" if 
                 you have this feature enabled on your browser. For more information 
                 on "cookies" consult the help section of your browser. 
-              </p><p> Empire BlueCross BlueShield utilizes a variety of encryption 
+              </p><p> Empire utilizes a variety of encryption 
                 and other security technologies to ensure the security of customer 
                 data. 
-              </p><p> At Empire BlueCross BlueShield our mission is to provide a choice 
-                of quality branded health and related financial services designed 
-                to meet the changing expectations of individuals, families and 
-                their sponsors throughout a lifelong relationship. We believe 
-                a relationship is built on trust, and thus we make a commitment 
-                to you that your personal information will be kept in confidence 
-                by us. 
-              </p><p> The above web privacy notice is effective as of March 1, 2002. 
-                Empire BlueCross BlueShield reserves the right to change the web 
-                privacy statement from time to time. This privacy statement is 
-                not intended to and does not imply any contractual or other legal 
-                rights in respect to Empire BlueCross BlueShield or any other 
-                party. 
-            </p></div>
-            <br>
-            <p> 
-            <!-- #EndEditable --></p></td>
+              </p><p> At Empire our mission is to provide a choice 
+                of quality health care coverage and health services designed to meet 
+                the changing expectations of individuals, families and their sponsors 
+                throughout a lifelong relationship. We believe a relationship 
+                is built on trust, and thus we make a commitment to you that your 
+                personal information will be kept in confidence by us. 
+              </p><p> The above web privacy notice is effective as of May 1, 2002. 
+                Empire reserves the right to change the web 
+                privacy notice from time to time. This privacy notice applies 
+                only to online activity on this website and is not intended to 
+                and does not imply any contractual or other legal rights in respect 
+                to Empire or any other party. <br><br>
+            </p></div></td>
+	</tr>
+</tbody></table>
+			
+            <!-- #EndEditable --></td>
         </tr>
       </tbody></table>
     </td>
@@ -275,21 +316,35 @@ document.write(banner[increment]);
   </tr>
   <tr> 
     <td colspan="3" align="center" valign="top">
-	  <br>
-<br>
-<div class="footer"> <a href="/about_empire/index.shtml"><font color="#FFFFFF">About Empire</font></a> &nbsp;&nbsp; <a href="/services/index.shtml"><font color="#FFFFFF">Services</font></a> &nbsp;&nbsp; <a href="/your_health/index.shtml"><font color="#FFFFFF">My Health</font></a><br>
+	  <br> <br> <div class="footer"> 
 
-<a href="/about_empire/company_info/sitefeedback.shtml"><font color="#FFFFFF">Site Feedback</font></a> &nbsp;&nbsp; <a href="/about_empire/company_info/contact_us/index.shtml"><font color="#FFFFFF">Contact Us</font></a> &nbsp;&nbsp; <a href="/about_empire/company_info/our_mission/fraud.shtml"><font color="#FFFFFF">Fraud and Abuse</font></a> &nbsp;&nbsp; <a href="/universal/privacy.shtml"><font color="#FFFFFF">Privacy Notice</font></a> &nbsp;&nbsp; <a href="/about_empire/company_info/legal.shtml"><font color="#FFFFFF">Legal Notice</font></a></div>
-<br>
-<br>
-      <div class="footer">
-<font color="#FFFFFF">Services provided by Empire HealthChoice, Inc., a licensee of the Blue Cross and Blue Shield Association,<br>
-an association of independent Blue Cross and Blue Shield Plans.<br><br>
-©&nbsp;Copyright 2002 Empire HealthChoice, Inc.  All rights reserved.</font></div>
+<a href="/plans/index.shtml"><font color="#FFFFFF">Empire Plans</font></a>&nbsp;&nbsp; 
+
+<a href="/services/index.shtml"><font color="#FFFFFF">Online Services</font></a> &nbsp;&nbsp; 
+
+<a href="/about_empire/index.shtml"><font color="#FFFFFF">About 
+Empire</font></a> &nbsp;&nbsp;
+
+<a href="/your_health/index.shtml"><font color="#FFFFFF">My Health</font></a><br> 
+<a href="/about_empire/contact_us/sitefeedback.shtml"><font color="#FFFFFF">Site 
+Feedback</font></a> &nbsp;&nbsp; <a href="/about_empire/contact_us/index.shtml"><font color="#FFFFFF">Contact 
+Us</font></a> &nbsp;&nbsp; <a href="/about_empire/company_info/fraud.shtml"><font color="#FFFFFF">Fraud 
+and Abuse</font></a> &nbsp;&nbsp; <a href="/universal/privacy.shtml"><font color="#FFFFFF">Privacy 
+Notice</font></a> &nbsp;&nbsp; <a href="/about_empire/company_info/legal.shtml"><font color="#FFFFFF">Legal 
+Notice</font></a><br><br> This site best viewable using Microsoft Internet Explorer 
+5.0 and later or Netscape 6.0 and later. </div><br>
+      <div align="center" class="footer">Services provided by Empire HealthChoice HMO, Inc. or Empire HealthChoice Assurance, Inc., independent <br>
+licensees of the Blue Cross and Blue Shield Association, an association of independent Blue Cross and Blue Shield<br>
+Plans, serving residents and businesses in the 28 eastern and south-eastern counties of New York State.<br><br>
+
+©&nbsp;Copyright 2002 Empire HealthChoice Assurance, Inc.  All rights reserved.</div>
 
     </td>
   </tr>
 </tbody></table>
 
 <!-- #EndTemplate -->
+
+
+<!--"website" change-->
 </body></html>
