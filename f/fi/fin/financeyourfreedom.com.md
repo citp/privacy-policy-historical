@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financeyourfreedom.com privacy policy that was archived on 2003-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031030103055id_/http%3A//www.financeyourfreedom.com/private_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financeyourfreedom.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602183606id_/http%3A//www.financeyourfreedom.com/private_policy.htm) for the most accurate reproduction.*
 
 # Private Policy
 
