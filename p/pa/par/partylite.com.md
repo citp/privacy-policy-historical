@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partylite.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603185549id_/http%3A//www.partylite.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partylite.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001165004id_/http%3A//www.partylite.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,6 +11,7 @@ ww_left_banner_include |  |  |
 [ ](https://web.archive.org/finland/finland.asp)  
 [ ](https://web.archive.org/france/france.asp)  
 [ ](https://web.archive.org/germany/germany.asp)  
+[ ](https://web.archive.org/sweden/sweden2.asp)  
 [ ](https://web.archive.org/mexico/mexico.asp)  
 [ ](https://web.archive.org/switzerland/switz_fr/switzerland_fr.asp) |  [ ](https://web.archive.org/switzerland/switz_gr/switz_gr.asp)  
 [ ](https://web.archive.org/unitedking/uk.asp)  
@@ -61,4 +62,4 @@ ww_left_banner_include |  |  |
 > 
 > If you have any questions about this privacy statement, the practices of our web sites, or your dealings with us, please email [contactus@partylite.com](mailto:customerserviceus@partylite.com). 
 > 
-> [Back](https://web.archive.org/newpartylite_com/Ww_home.asp)
+> [Back](https://web.archive.org/Ww_home.asp)
