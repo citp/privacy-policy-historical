@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantonlineincome.com privacy policy that was archived on 2004-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040201213059id_/http%3A//www.instantonlineincome.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantonlineincome.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207024004id_/http%3A//instantonlineincome.com/privacy.htm) for the most accurate reproduction.*
 
 # Pied Piper Marketing
 
