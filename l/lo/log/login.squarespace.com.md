@@ -1,75 +1,146 @@
-> *The following text is extracted and transformed from the login.squarespace.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605114122id_/http%3A//www.squarespace.com/do/display/external/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the login.squarespace.com privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211183021id_/http%3A//www.squarespace.com/do/display/external/PrivacyPolicy) for the most accurate reproduction.*
 
 # Squarespace - Privacy Policy
 
-Thank you for visiting Squarespace. Squarespace is committed to honoring the privacy of our members and visitors. This privacy policy, part of our overall Terms of Service covers personally identifiable information shared through Squarespace' Service.
+Squarespace takes your privacy seriously. We will not sell, lease or exchange your personal data to third parties in ways other than described in this privacy policy. This Privacy Policy is a part of the Squarespace Terms of Service policy. By using Squarespace, including services available at the squarespace.com domains, users are using a service provided by Squarespace, Inc. and they agree to be bound by the Terms of Service and this Privacy Policy. Some terms may be defined in the Terms of Service. This Privacy Policy only addresses activities from our servers.
 
-Squarespace takes your privacy seriously. We will not sell, lease or exchange your personal data to third parties without first obtaining your express consent. This Privacy Policy is a part of the Squarespace Terms of Service policy. By using Squarespace, including services available at the squarespace.com domains, users are using a service provided by Squarespace, Inc. and they agree to be bound by the Terms of Service and this Privacy Policy. Some terms may be defined in the Terms of Service. This Privacy Policy only addresses activities from our servers.
+* ## Information Collection & Use
 
-## What information does Squarespace collect and how do we use it?
+### Registration
 
-When you register for Squarespace, we ask you for a login name, e-mail address, and password to secure your account. This information lets us provide personalized services and communicate separately with you. After obtaining a Squarespace account, Squarespace will allow you to enter more personal information in order to uniquely customize your services. Providing this additional information is entirely optional, and will never be used by Squarespace, Inc. in ways other than the display of your website. 
+The Squarespace service requires a login in order to provide you with a personalized account. During our account registration process, we will collect a login name, password, and an email address from you. You must provide all of this information in order to obtain an account. After completing our registration form, you will receive a welcome email describing your new Squarespace account, and how to access that account.
 
-Additionally, when accessing webpages on the Squarespace.com domain, the website you are accessing may log your IP Address as well as the time of your access, browser type, referral URLs, and the Squarespace login you are identified with at the time of access. Individual website owners have access to their own website access logs, much in the same way any server administrator has access to their website traffic logs. No information in this log can be identified back to your name by any Squarespace end user. Squarespace, Inc. itself does not reference these log elements to query any particular individual's usage of the Service. 
+### Account Subscriptions
 
-## How does Squarespace use cookies?
+If you choose to continue service with Squarespace via a paid account, Squarespace will collect personally identifiable information (credit card number, billing address, phone number) and keep this information on file in our secure server in order to process your recurring invoices. This information is only used to verify credit card authenticity, and issue invoices as per your service agreement. Upon discontinuation of Squarespace service, your information will be immediately destroyed on our billing system.
 
-Like most websites, we use small bits of data called cookies stored on users' computers to simulate a continuous connection. Cookies let us 'remember' information about your preferences and passwords and allow you to move within our Service without reintroducing yourself. Members who disable cookies will not be able to use Squarespace's services. 
+If we are unable to process your subscription for a given month, this information, along with your account information, may be used to contact you.
 
-## How does Squarespace use my personal information?
+### Tell-A-Friend Tools
 
-Squarespace uses your personal information to create a personal, managed, dynamic homepage for each of its members. Only information you mark as accessible will be presented to the public. Users may choose to opt-in to a public website directory, if they wish to have their website listed publically. If users do not opt in to this listing, no information related to a user's Squarespace account is made visible to external parties. Otherwise, basic information such as site name and account name may be visible in our directory. 
+Squarespace provides a number of tools that will allow you to promote your web site over email. Email addresses entered into these forms are not stored in our database, but may be stored in our system logs in text format to assist us in tracking down abusive users (users flooding the system), or using these tools for spamming. We will never contact addresses logged in this manner.
 
-Squarespace also provides a unified login service wherein a user can identify him or herself within the context of a friend's website. In this situation, the website which you are identifiying yourself on will be able to see your login name, but no other information about you. Your real name and e-mail address are not exposed. 
+### Hosted Web Sites
 
-## May I choose what information I disclose?
+Users hosting web sites with Squarespace are given tools that may ask you to optionally enter your email address when making comments on their web site, or contacting them through their web site. Since users on Squarespace can manipulate the HTML code on their site directly, there are opportunities available for a malicious user to inject code that would log your information before it reaches our system. In addition, once in our system, web site owners will have the opportunity to review and modify any information entered into their web site. Since we do not have full control over how members run their individual sites, this privacy policy does not apply to any hosted Squarespace web site that you do not own. You should check that you trust the owner of a particular web site before submitting personally identifiable information on that site.
 
-While we need certain information to register you as a unique user and let you access personalized services, other requested information is optional and may be given at your discretion. 
+### Server Logs
 
-## How does Squarespace use the information collected from me?
+When accessing web pages on the Squarespace.com domain, Squarespace may log your IP address, access URL, time of access, browser type, and referral URL in order to provide us with internal information regarding site traffic statistics. This information may also be used to identify users who are using the service for spam or other activity that is deemed in conflict with our Terms of Service. This information is used in the aggregate, and is never linked back to any personally identifiable information.
 
-We will not sell, lease or exchange your personal data to third parties without first obtaining your express consent, unless required by law or to protect your membership. 
+* ## Uses of Information
 
-## May I choose what communications I receive?
+Squarespace collects the aforementioned personally identifiable information in order to provide you with a service that allows you to maintain an online presence. Various features in our Web site management system will, at your discretion, display your name, or adjust the date and time of events based on your locale. The Squarespace Website Manager interface will always give you an option before any piece of your personally identifiable information is presented on your web site, and situations where information will be published is made clear in various spots in the interface (for example, your name is tied to welcome emails you send out from our system, and notice of this is given to you within the interface for that tool).
 
-Along with your account registration email, we occasionally send out an email newsletter to Squarespace members to highlight features of the Service. You can elect not to receive communications from us or from other parties by noting your preference in response to communications from us. You must opt in to choose to be a part of this type of mailing, it will not be sent without your prior consent unless the mailing reflects an emergency change in policy, or notice regarding service interruption. We will also send email regarding billing issues and account de-activation. 
+Squarespace also uses information collected through its service to send out notifications regarding service related issues (such as maintenance periods, billing problems, account expirations, and other items that may impact service). We do not send contact information unless the matter is deemed urgent, and most communication will occur through your Squarespace Website Manager interface.
 
-## What if I need to review or change the personal information I previously disclosed?
+Information collected through our service logs is used only to identify potential cases of abuse and establish statistical information regarding web site traffic. This statistical information is not aggregated in such a way that would identify any particular user of the system.
 
-We encourage Squarespace members to update and edit their personal information and keep it current. You can easily correct or update your personal information at any time via our perferences page or other location specifically identified in connection with a particular part of our Service. 
+Squarespace, Inc. is the sole owner of information collected on http://www.squarespace.com/. Your information is never shared, leased or given to any third parties in ways other than disclosed in this privacy statement.
 
-## Can I remove all of my data from the system? What data remains in your system after account deactivation?
+* ## Information Security
 
-While Squarespace will never present any personal information to the public that you have not configured it to display, your login - once registered - will always remain in your system. If you would like to have your login deactivated from the public, send an email to [registration@squarespace.com](mailto:registration@squarespace.com) to request a deletion. Once a login is deactivated, it remains in our system, but the email and data associated with that login are removed. Squarespace may periodically remove logins for deactivated accounts at its discretion. 
+We store all user information in secure databases protected via a variety of industry-standard access controls. Secure passwords, SSL encryption, disk-based encryption, firewalls, and other measures are in place that help us protect your data. This data is accessed only for the purposes specified in this privacy statement.
 
-## What kind of security is used to protect my information?
+If you have any questions about security on our Web site, you can [review our hosting FAQ](https://web.archive.org/do/display/external/FAQ?currentSection=hosting) or send us a support request using our [support system](https://web.archive.org/do/display/external/ContactUs).
 
-We store all user information in secure databases protected via a variety of industry-standard access controls. Secure passwords, SSL encryption, disk-based encryption, firewalls, and other measures are in place that help us protect your data. This data is accessed only for the purposes specified in this privacy statement. 
+* ## Access to Personally Identifiable Information
 
-## Who has access to my information?
+### Changing Information
 
-We do not share personally identifiable data with other companies (apart from those acting as our agents in providing our Service to you, who agree to use it only for that purpose), except as necessary to fulfill a transaction you have requested, or unless you otherwise give us permission to do so. Squarespace may also share such information in response to legal process, such as a court order or subpoena. 
+All information that Squarespace stores related to your account, including any subscription billing information, is accessible through your Squarespace Website Manager interface. You may use this interface to adjust your information at any time, and we encourage you to keep this information up to date so that your customer service requests and billing processes operate efficiently.
 
-## What about sites Squarespace links to?
+### Removing Information
 
-The Squarespace site may contain links to other Web sites. Please be aware that Squarespace, Inc. is not responsible for the privacy practices of other sites our users choose to visit. If our users provide any information directly to parties other than Squarespace, Inc., different rules may apply to the use or disclosure of the personal information disclosed. We encourage you to investigate and ask questions before disclosing your personal information to third parties. 
+To remove your personally identifiable information from our system, submit your account for deactivation. Your personal information will be removed immediately, though your actual login name will remain reserved on our system until re-collection. If you wish to only remove your billing subscription information, cancel your paid account. Both of these removals can be accessed through your Squarespace Website Manager interface.
 
-## What about other companies featured on Squarespace? 
+* ## Communications from Squarespace, Inc.
 
-You may separately agree to provide your information to other companies who provide content for various parts of our Service, in order to use their services, order their products, or receive offers from them. If you agree to provide information to these companies, that information will be subject to their privacy policies. 
+### Service-related Announcements
 
-## What about information posted on public site areas? 
+We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.
 
-Please be aware that whenever members voluntarily disclose personal information online - e.g., message boards, chat areas, file uploads, events, and listings - that information becomes public and can be collected and used by others. By posting personal information online in public forums, members may receive unsolicited messages from other parties. At times, Squarespace may take steps to ensure that your information, while issued to a public location, remains relatively secure. An example of this practice is the policy relating to the non-exposure of email addresses on public forums - Squaresace stores email addresses in locations that are not accessible to any users other than our Service mailers. 
+### Customer Service
 
-## What about children's information? 
+Upon issuing a customer support request to Squarespace, we may use your information and email address to contact you regarding your inquiry.
 
-Children may not register for Squarespace or use any Squarespace services that require personally identifiable information. For questions about kids' privacy or other issues at Squarespace, please email [privacy@squarespace.com](mailto:privacy@squarespace.com). 
+* ## Information Sharing and Disclosure
 
-## Will I be notified if this agreement changes? How will I be notified?
+### Aggregate Information (non-personally identifiable)
 
-If Squarespace changes its policy and seeks to use your personally identifiable information in a manner different from that stated at the time of collection, you will be notified via email or a system message visible on your Squarespace configuration page. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a notice on our Web site notifying users of the change. In some cases where we post the notice, we will also email users who have opted to receive communications from us to notify them of the changes in our privacy practices. 
+We share aggregated demographic information about our user base with our advertisers. This information does not identify individual users. This information contains statistics related to traffic and the geographic location of our customers.
 
-## Who can I contact if I have any questions regarding my privacy? 
+We do not link aggregate user data with personally identifiable information.
 
-Please contact us directly at [privacy@squarespace.com](mailto:privacy@squarespace.com) with any questions or comments. 
+* ## Agents
+
+### Credit Card Processing
+
+We will submit your billing information to our credit card processing agent for approval when you update your billing information, or place an order on our web site. This company does not retain, share, store or use personally identifiable information for any purpose other than billing.
+
+* ## Choice/Opt-out
+
+Only non-promotional service announcements, as described in the above section, will be issued without prior authorization.
+
+Upon deactivating your Squarespace account, you will receive no further communication from us (service announcements included).
+
+* ## Log Files
+
+As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
+
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole.
+
+We do not link this automatically-collected data to personally identifiable information.
+
+* ## Cookies
+
+Like most web sites, we use small bits of data called cookies stored on users' computers to simulate a continuous connection. Cookies let us 'remember' information about your preferences and passwords and allow you to move within our Service without reintroducing yourself. Members who disable cookies will not be able to use Squarespace's services, as they are required to maintain your login to our service within a browser session. Disabling cookies does not prevent you from accessing web sites published under our system, though some features of those sites may be degraded.
+
+These cookies can be tied back to personally identifiable information only in the event that you are logged in to our service. If you are logged in to our service, the cookies on your computer will uniquely identify your account within our system.
+
+This privacy statement covers the use of cookies by Squarespace, Inc. only and does not cover the use of cookies by any advertisers. See the 'Third Party Advertisers' section for more details.
+
+* ## Third Party Advertisers
+
+The ads appearing on this Web site are delivered to users by Google, our advertising partner. We do not share your personally identifiable information with Google to deploy these advertisements.
+
+For more information related to Google advertisements, [please click here](http://www.google.com/).
+
+* ## Bulletin Boards/Chat Rooms/Member Websites
+
+If you use a bulletin board or chat room on this site, or on any Squarespace member web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
+
+Certain information, such as your name and ip address are logged by our system when posting messages, and are made available to the owner of the web site you are posting on. These items may be displayed to readers of the site you are posting on, depending on the settings of that particular site. If you would not like to have these details disclosed, refrain from posting messages to any Squarespace bulletin board or chat room.
+
+* ## Links to Other Sites
+
+This Web site contains links to other sites that are not owned or controlled by Squarespace, Inc. Please be aware that we, Squarespace, Inc., are not responsible for the privacy practices of such other sites.
+
+We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.
+
+This privacy statement applies only to information collected by this Web site.
+
+* ## Business Transitions
+
+In the event Squarespace, Inc. goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email of any such change in ownership or control of your personal information.
+
+* ## Legal Disclaimer
+
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
+
+* ## Changes in this Privacy Statement
+
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice within your Squarespace Website Manager interface.
+
+* ## Contact Us
+
+If you have any questions or suggestions regarding our privacy policy, please contact us by using our [support system](https://web.archive.org/do/display/external/ContactUs).
+
+Squarespace can be reached directly via mail at:
+
+Squarespace, Inc.  
+RE: Privacy Concern  
+P.O. Box 523  
+Sparks, MD 21152. 
