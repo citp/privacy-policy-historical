@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jwpepper.com privacy policy that was archived on 2000-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001212160500id_/http%3A//www.jwpepper.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jwpepper.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205115413id_/http%3A//jwpepper.com/privacy.html) for the most accurate reproduction.*
 
 # J.W. Pepper & Son, Inc. Privacy Statement
 
@@ -88,7 +88,7 @@ Valley Forge, PA 19482
 Toll Free Music Line: 1-800-345-6296  
 Toll Free Fax Line: 1-800-260-1482 
 
-For inquiries, technical support, or other communication, please visit the [Contact Pepper](https://web.archive.org/web/20001212160500id_/http%3A//www.jwpepper.com/direct.html) page. 
+For inquiries, technical support, or other communication, please visit the [Contact Pepper](https://web.archive.org/web/20011205115413id_/http%3A//jwpepper.com/direct.html) page. 
 
-[Legal Notice](https://web.archive.org/web/20001212160500id_/http%3A//www.jwpepper.com/legalnotice.html)  
+[Legal Notice](https://web.archive.org/web/20011205115413id_/http%3A//jwpepper.com/legalnotice.html)  
 copyright, J.W. Pepper & Son, Inc. 
