@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massagewarehouse.com privacy policy that was archived on 2004-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040408232354id_/http%3A//www.massagewarehouse.com/user/html.do%3Ffile%3Dhtml/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massagewarehouse.com privacy policy that was archived on 2004-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040806011354id_/http%3A//www.massagewarehouse.com/user/html.do%3Ffile%3Dhtml/privacy) for the most accurate reproduction.*
 
 # Massage Warehouse
 
@@ -13,7 +13,7 @@ This is a Web site of Massage Warehouse.com.
 
 Our postal address is:
 
-6529 Jimmy Carter Blvd  
+2775 Pacific Drive  
 Norcross, GA 30071
 
 We can be reached via E-mail at: [support@massagewarehouse.com](mailto:support@massagewarehouse.com) or by telephone at 1-800-910-9955.
