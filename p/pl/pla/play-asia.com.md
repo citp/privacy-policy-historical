@@ -1,7 +1,22 @@
-> *The following text is extracted and transformed from the play-asia.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203012305id_/http%3A//www.play-asia.com/paOS-00-3-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the play-asia.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603004708id_/http%3A//www.play-asia.com/paOS-00-3-privacy.html) for the most accurate reproduction.*
 
-# Play-Asia.com - Video gaming & beyond
+# Play-Asia.com - Japanese video games, accessories and news.
 
+|   
+---  
+[playstation2](https://web.archive.org/paOS-14-71-3.html) | [gamecube](https://web.archive.org/paOS-14-71-1g.html) | [xbox](https://web.archive.org/paOS-14-71-1h.html) | [dreamcast](https://web.archive.org/paOS-14-71-4.html) | [psone](https://web.archive.org/paOS-14-71-2.html) | [gameboy](https://web.archive.org/paOS-14-71-6.html) | [handheld](https://web.archive.org/paOS-14-71-7.html) | [classics](https://web.archive.org/paOS-14-71-c.html) | [hong kong movies](https://web.archive.org/paOS-14-71-9.html) | [toys & soundtracks](https://web.archive.org/paOS-14-71-d.html) | [pc](https://web.archive.org/paOS-14-71-a.html)  
+|    
+  
+  
+|  | 
+
+Location: [Start](http://www.play-asia.com/)  > [Play-Asia.com Privacy Statement](https://web.archive.org/paOS-00-3-privacy.html)  
+  
+---|---|---  
+  
+|   
+---  
+|  |   |   
   |  **Privacy Statement**   
 
 
@@ -65,4 +80,78 @@ Conditions of Use, Notices, and Revisions
 > 
 > Our business changes constantly, and our Privacy Statement and the Terms of Use will change also. We may e-mail periodic reminders of our notices and conditions, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Statement applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
 
-| 
+|   
+  | [](https://web.archive.org/paOS-00-3-helpdesk.html) |    
+  |    
+|   |    
+   
+|   
+---  
+  | [](https://web.archive.org/paOS-13-71-57-70-21p-4-13.html) |   | [NFL 2K](https://web.archive.org/paOS-13-71-57-70-21p-4-13.html)  
+Sega  
+Compatible with Dreamcast™  
+Japanese NTSC / Sports  
+|  US$ 8.90     
+  |     
+|  |   
+  | [](https://web.archive.org/paOS-13-71-7p-70-1vo-4-13.html) |   | [Croc: Legend of Gobbos (Greatest Hits Edition)](https://web.archive.org/paOS-13-71-7p-70-1vo-4-13.html)  
+Fox Interactive  
+Compatible with PSOne™  
+US NTSC / Platform  
+|  US$ 9.90     
+  |     
+|  |   
+  | [](https://web.archive.org/paOS-13-71-8c-70-1ld-4-13.html) |   | [Tomb Raider IV: The last Revelation](https://web.archive.org/paOS-13-71-8c-70-1ld-4-13.html)  
+Eidos Interactive  
+Compatible with Dreamcast™  
+PAL (German) / Adventure  
+|  US$ 9.90     
+  |     
+|  |   
+  | [](https://web.archive.org/paOS-13-71-8c-70-1le-4-13.html) |   | [Tomb Raider: Die Chronik](https://web.archive.org/paOS-13-71-8c-70-1le-4-13.html)  
+Eidos Interactive  
+Compatible with Dreamcast™  
+PAL (German) / Adventure  
+|  US$ 9.90     
+  |     
+|  |   
+  | [](https://web.archive.org/paOS-13-71-18-70-133-4-13.html) |   | [Battery & Adaptor (Joypad)](https://web.archive.org/paOS-13-71-18-70-133-4-13.html)  
+Madcow  
+Compatible with Game Boy Advance™  
+|  US$ 1.99     
+  |     
+|  |   
+  | [](https://web.archive.org/paOS-13-71-53-70-247-4-13.html) |   | [Sega GT](https://web.archive.org/paOS-13-71-53-70-247-4-13.html)  
+Sega  
+Compatible with Dreamcast™  
+Japanese NTSC / Racing  
+|  US$ 8.90     
+  |     
+|  |   
+  | [](https://web.archive.org/paOS-13-71-53-70-21m-4-13.html) |   | [Sega Rally 2](https://web.archive.org/paOS-13-71-53-70-21m-4-13.html)  
+Sega  
+Compatible with Dreamcast™  
+Japanese NTSC / Racing  
+|  US$ 8.90     
+  |     
+|  |   
+  | [](https://web.archive.org/paOS-13-71-1e-70-10z-4-13.html) |   | [Handy Hip Clip](https://web.archive.org/paOS-13-71-1e-70-10z-4-13.html)  
+Madcow  
+Compatible with Game Boy Advance™  
+|  US$ 0.99     
+  |     
+   
+|   |   
+---|---  
+|   
+  
+> Trademarks listed on our pages belong to their designated owner(s). If you have any matter you want to bring up to us regarding copyright or trademarks, please feel free to [contact us](https://web.archive.org/paOS-21-94-7fj0r.html).
+>
+>> |   
+This site is copyright (c) 2002-2003 by Play-Asia.com.  |   
+  |   
+[Add one of our banners to your site](http://banner.play-asia.com/paOS-1e.html) |   
+   
+   
+  
+
