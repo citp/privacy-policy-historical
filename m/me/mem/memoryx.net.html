@@ -1,0 +1,197 @@
+<!--The following is the downloaded HTML source of the memoryx.net privacy policy that was archived on 2003-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030604071637id_/http%3A//www.memoryx.net/privacypolicy.html) for the most accurate reproduction.-->
+
+<html><head><script language="javascript"> 
+ <!-- 
+ if (document.referrer && (document.referrer!='') && window.Image) 
+ { 
+ (new Image).src="http://redirect1.vip.store.yahoo.com/cgi-bin/referadd?spcl=1&et=3edd9e01&catalog=memx&r=" + escape(document.referrer); }
+ // --> 
+ </script>
+<!--nosearch-->
+<title>MemoryX - Computer Memory Privacy Policy</title><script language="JavaScript">
+<!--
+//##
+//## WishList.com, Inc.
+//## Copyright 2001-2002 WishList.com, Inc. All rights reserved.
+//##
+
+
+function Addtowishlist(wlid,PCode,params){
+
+	//## get form index using yahoo's product sku hidden variable 'vwitem'
+	var formindex = -1;
+	for (a=0;a<document.forms.length;a++){
+		if (document.forms[a].vwitem){
+			if (document.forms[a].vwitem.value == PCode){
+				formindex = a;
+				break;
+			}
+		}
+	}
+
+
+	//## set form length
+	var formlength = 0;
+	if  (formindex > -1){
+		formlength = document.forms[formindex].length;
+	}
+
+	var wlburlparams = "";
+	var i = 0;
+	var cur_form_param = "";
+	var form_params = "";
+	var select_params = "";
+
+	//## Get form elements if formindex is not -1
+	while(i < formlength && formindex > -1) {
+
+		//## Set curent form parameters. may adjust for drop boxes, checkboxes or readio buttons below
+		var cur_form_param = escape(document.forms[formindex].elements[i].name) + "=" + escape(document.forms[formindex].elements[i].value);
+
+		//## Netscape 6.0 counts form images in form element array, but sets name and value to empty set.
+		if  (cur_form_param == "="){
+			cur_form_param = "";
+		}
+
+		//## Drop Boxes...Check to see if the form element is a selection box, save display text if so
+		if  (document.forms[formindex].elements[i].type.indexOf('select') != -1){
+
+			//## Note: we may have to accommodate multiple selections in the future
+
+			var sel_name = document.forms[formindex].elements[i].name;
+			var sel_text = document.forms[formindex].elements[i].options[document.forms[formindex].elements[i].options.selectedIndex].text;
+			var cur_select_param = escape(sel_name) + "=" + escape(sel_text);
+
+			if (select_params != ""){
+				select_params = select_params + "*" + cur_select_param;
+			}else{
+				select_params = cur_select_param;
+			}
+
+			//## Now save form value for the selected element
+			cur_form_param = escape(document.forms[formindex].elements[i].name) + "=" + escape(document.forms[formindex].elements[i].options[document.forms[formindex].elements[i].options.selectedIndex].value);
+
+		}
+
+		//## Radio or Checkbox...Check to see if form element is checkbox or radio
+		if  (document.forms[formindex].elements[i].type.indexOf('checkbox') != -1 || document.forms[formindex].elements[i].type.indexOf('radio') != -1){
+
+			//## Check to see if element is not checked. set to empty if not.
+			if (!(document.forms[formindex].elements[i].checked)){
+
+				//## Now save form value for the selected element. set to empty because the checkbox was not selecte
+				cur_form_param = "";
+
+			}
+		}
+
+		//## save form_params
+		if (form_params != "" && cur_form_param != ""){
+			form_params = form_params + "*" + cur_form_param;
+		}
+		if (form_params == "" && cur_form_param != ""){
+			form_params = cur_form_param;
+		}
+
+		//## increment and reset cur_form_param
+		i += 1;
+		cur_form_param = "";
+	}
+
+	//## Open WishList.com PopWindow
+
+	var wlpopurl = "http://gre.wishlist.com/gre_popwin/action/blank_addwish.htm?wlid=" + wlid;
+	var wlpop = window.open(wlpopurl,"Wishlist_com_pop","height=550,width=350,location=0,scrollbars=1,menubars=0,toolbars=0,resizable=0");
+
+
+	//## Submit the form with the new window as the target
+
+	document.Wishlist_com_form.addtowishlistparams.value = params + "^WLBURLPARAMS=" + form_params + "^WLSELECTTEXT=" + select_params;
+	document.Wishlist_com_form.wlid.value = wlid;
+	document.Wishlist_com_form.submit();
+
+}
+
+//-->
+</script>
+<link href="/lib/memx/memoryx.css" rel="stylesheet" type="text/css">
+</head>
+<body leftmargin="0" topmargin="0" bgcolor="ffffff" background="http://store5.yimg.com/I/memx_1741_165481" link="0000cc" vlink="660099">
+<table width="800" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td colspan="3"><a href="http://www.memoryx.net"><img src="/lib/memx/memoryxlogo.gif" alt="Memory X - Computer Memory for Sun, Ciso, Apple, Dell, SGI, Packard Bell, Laserjet, Flash Memory" width="182" height="27" hspace="5" border="0"></a></td>
+    <td colspan="3" rowspan="2" align="center">
+<p class="baskettext">Toll Free: 1-866-MemoryX (636-6799), UK Toll Free: 0-800-096-4771<br>
+Tech Support and International: 1-408-588-0077<br>
+Business hours mon-fri 9 am - 6 pm PST</p></td>
+    <td colspan="3" align="right">
+<table width="240" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td align="right">
+<table width="220" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr align="center" class="baskettext">
+                <td width="33%"><a href="http://www.memoryx.net/contact.html" class="baskettext">Contact Us</a></td>
+                <td width="33%"><a href="http://gre.wishlist.com/gre/start/welcome.htm?wlid=45F4DFAFDEEA4B52A4FCE691182C6E9F" class="baskettext">Wish List</a></td>
+                <td width="33%"><a href="http://order.store.yahoo.com/cgi-bin/wg-order?memx" class="baskettext">Basket</a></td>
+              </tr>
+            </tbody></table>
+            <table width="220" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td height="1" bgcolor="#CC6666"></td>
+              </tr>
+            </tbody></table>
+            <table width="220" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr align="center" class="baskettext">
+                <td width="33%"><a href="http://www.memoryx.net/payment.html" class="baskettext">Payment</a></td>
+                <td width="33%"><a href="http://www.memoryx.net/warranty.html" class="baskettext">Policies/Warranty</a></td>
+                <td width="33%"><a href="http://www.memoryx.net/shippinginfo.html" class="baskettext">Shipping</a></td>
+              </tr>
+            </tbody></table></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  
+  
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="75">&nbsp;</td>
+    <td width="75">&nbsp;</td>
+    <td width="100"><a href="http://www.memoryx.net/"><img src="/lib/memx/memseltab.gif" alt="Computer Memory" width="100" height="28" border="0"></a></td>
+    <td width="100"><a href="http://www.welovemacs.com"><img src="/lib/memx/appletab.gif" alt="Apple Memory and Accessories" width="100" height="28" border="0"></a></td>
+    <td width="100"><a href="http://www.memoryxsun.com/"><img src="/lib/memx/suntab1.gif" alt="Sun Memory and Accessories" width="100" height="28" border="0"></a></td>
+    <td width="100"><a href="http://www.memoryxcisco.com"><img src="/lib/memx/ciscotab.gif" alt="Cisco Memory" width="100" height="28" border="0"></a></td>
+    <td width="100"><a href="http://www.memoryxflash.com"><img src="/lib/memx/flashtab.gif" alt="Flash Memory" width="100" height="28" border="0"></a></td>
+    <td width="75">&nbsp;</td>
+    <td width="75">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2" width="150"><img src="/lib/memx/membarspacer.gif" width="150" height="1"></td>
+	<td width="100"><img src="/lib/memx/memtabselspacer.gif" width="100" height="1"></td>
+	<td colspan="6" width="550"><img src="/lib/memx/membarspacer.gif" width="550" height="1"></td>
+  </tr>
+  <tr>
+    <td colspan="9" width="800"><img src="/lib/memx/memselbar.gif" width="800" height="15"></td>
+  </tr>
+</tbody></table><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center" valign="top" width="150"><img src="http://store5.yimg.com/I/memx_1741_165664" width="150" height="25" border="0" hspace="0" vspace="0"></td><td colspan="3"><a href="index.html"><font size="2" face="arial narrow, arial, helvetica">Home</font></a><font size="2" face="arial narrow, arial, helvetica"> &gt; <b></b></font></td></tr><tr valign="top"><td><table border="0" cellspacing="0" cellpadding="2" width="150"><tbody><tr><form method="post" action="http://search.store.yahoo.com/cgi-bin/nsearch"></form><td align="right"><input name="catalog" type="hidden" value="memx"><input name="query" type="text" size="15"><input type="hidden" value="http://www.memoryx.net"></td><td align="left"><input type="IMAGE" src="/lib/memx/memx-go.gif"></td><input type="hidden" name=".autodone" value="http://www.memoryx.net/privacypolicy.html"></tr></tbody></table><map name="0a2a3edbde6c9d2b"><area shape="rect" coords="0,3,163,20" href="index.html"><area shape="rect" coords="0,23,163,40" href="memory.html"><area shape="rect" coords="0,43,163,60" href="flashmemory.html"><area shape="rect" coords="0,63,163,80" href="generic-memory.html"><area shape="rect" coords="0,83,163,100" href="apple.html"><area shape="rect" coords="0,103,163,120" href="memory-cisco.html"><area shape="rect" coords="0,123,163,140" href="memory-compaq.html"><area shape="rect" coords="0,143,163,160" href="dell1.html"><area shape="rect" coords="0,163,163,180" href="hp.html"><area shape="rect" coords="0,183,163,200" href="ibm1.html"><area shape="rect" coords="0,203,163,220" href="notebookmemory.html"><area shape="rect" coords="0,223,163,240" href="packardbell.html"><area shape="rect" coords="0,243,163,260" href="printermemory.html"><area shape="rect" coords="0,263,163,280" href="sunsparc.html"><area shape="rect" coords="0,283,163,300" href="sunsparper.html"><area shape="rect" coords="0,303,163,320" href="samplermemory.html"><area shape="rect" coords="0,337,163,354" href="contact.html"><area shape="rect" coords="0,357,163,374" href="cusfeed.html"><area shape="rect" coords="0,377,163,394" href="payment.html"><area shape="rect" coords="0,397,163,414" href="resap.html"><area shape="rect" coords="0,417,163,434" href="shippinginfo.html"><area shape="rect" coords="0,437,163,454" href="specialoffers.html"><area shape="rect" coords="0,457,163,474" href="warranty.html"><area shape="rect" coords="0,477,163,494" href="http://gre.wishlist.com/gre/action/wishlisthome.htm?wlid=45F4DFAFDEEA4B52A4FCE691182C6E9F"><area shape="rect" coords="0,497,163,514" href="http://order.store.yahoo.com/cgi-bin/wg-order?memx"><area shape="rect" coords="0,517,163,534" href="http://stores.yahoo.com/help.html"><area shape="rect" coords="0,537,163,554" href="privacypolicy.html"><area shape="rect" coords="0,557,163,574" href="info.html"></map><img src="http://store5.yimg.com/I/memx_1744_57557616" width="165" height="577" usemap="#0a2a3edbde6c9d2b" border="0" hspace="0" vspace="0" ismap=""></td><td><img src="http://us.st1.yimg.com/store1.yimg.com/Img/trans_1x1.gif" height="1" width="26" border="0" alt="pad"></td><td><a href="index.html"></a><br><br><table border="0" cellspacing="0" cellpadding="0" width="489"><tbody><tr valign="top"><td><center></center><font size="2" face="arial, helvetica"><i>This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering
+system, and order data. Yahoo! automatically collects order information but
+may only use this information in the aggregate. If you accessed this store
+through Yahoo! Shopping, Yahoo! also automatically collects information
+about your shopping experience. Please see the 
+<a href="http://privacy.yahoo.com/privacy/us/">Yahoo! Privacy Policy</a> for more
+information about how Yahoo! uses this information.</i><br><br><b>Web Site Information Collection:</b>
+For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name or IP address, but not the e-mail address. Unless otherwise stated on our web site, we collect only the domain name or IP address of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our ratings areas, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and registrations to access portions of the site and their related services. We also collect clickstream information. We use SSL (secure socket layer) encryption for online payment collection for purchases of our own products and services.<br><br><b>Postal Address Collection and Use:</b>
+If you supply us with your postal address on-line, we will use it to send you the information for which you provided us your address. If you supply us with your telephone number on-line, we will use it to contact you with information regarding your account, orders your have placed, or with information regarding your inquiry. We may send you information about additional services that we offer, but we will not rent or sell your contact information to any third parties without your permission.<br><br><b>E-mail and Direct Response Contact:</b>
+All of our direct response methods are opt-in. If you subscribed to our e-mail newsletter(s) but do not want to receive it in the future, please follow the "unsubscribe" instructions contained in the newsletter(s). Customers who purchase products on our website are included in our e-mail lists unless otherwise requested.<br><br><b>Cookies:</b>
+We, and some of our partners who provide some of the services and products on our site, use cookies to record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, record past activity at a site in order to provide better service when visitors return to our site, customize Web page content based on visitors' browser type or other information that the visitor sends, and to enable access to specific areas on the web site.<br><br><b>Children's Guidelines:</b>
+This website is directed at adults, not children, and we do not seek to collect from children online contact information or distribution to third parties any personally identifiable information from children or entice children to divulge information to us.<br><br><b>Security:</b>
+When we transfer and receive certain types of sensitive information such as financial information, we redirect visitors to a secure server and notify visitors through a pop-up screen on our site (which is displayed automatically depending on your browser's security settings). We strive to maintain appropriate security measures in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. Although we take reasonable measures to secure our data, we cannot guarantee that the measures we take are or will remain adequate. Some portions of our sites and services link to other companies' web sites. Please refer to the privacy policies of those sites for information on how they handle security for information they collect.<br><br><b>Changes to Privacy Policy:</b>
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in this Privacy Policy notice. If our information practices change at some time in the future, we will post the policy changes to our Web site's Privacy Policy page to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site's Privacy Policy page periodically.<br><br></font></td></tr></tbody></table></td></tr></tbody></table>
+</body></html>
