@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matureadulteress.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602223914id_/http%3A//www.matureadulteress.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matureadulteress.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209001629id_/http%3A//matureadulteress.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
