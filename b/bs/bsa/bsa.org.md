@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bsa.org privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603211502id_/http%3A//bsa.org/intnatl/privacypolicy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsa.org privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203164639id_/http%3A//bsa.org/intnatl/privacypolicy.phtml) for the most accurate reproduction.*
 
 # Business Software Alliance
 
@@ -6,9 +6,9 @@ The Business Software Alliance (BSA) believes that addressing consumer concerns 
 
 **COLLECTION AND USE OF INFORMATION:**
 
-_Voluntary E-Mail Lists_ : Visitors to the BSA website are invited to sign up to receive news about breaking events which may be of interest to them. To do this, visitors are asked to provide their name and employment details, together with certain contact information. We do not sell, rent, loan, trade, or lease the personal information on our list to anyone. In addition, we configure our list server software to refuse to divulge the personal information on our list to anyone but us. The information is not, for example, available to other subscribers. Details on how to correct, change or remove subscription information from our email lists are provided in the text of each email distribution to the subscriber. 
+_Voluntary E-Mail Lists_ : At times, visitors to the BSA website are invited to sign up to receive news about breaking events which may be of interest to them. To do this, visitors are asked to provide their name and employment details, together with certain contact information. We do not sell, rent, loan, trade, or lease the personal information on our list to anyone. In addition, we configure our list server software to refuse to divulge the personal information on our list to anyone but us. The information is not, for example, available to other subscribers. Details on how to correct, change or remove subscription information from our email lists are provided in the text of each email distribution to the subscriber. 
 
-_GASP Software:_ BSA, with the co-operation of Attest Systems, Inc., offers a version of GASP® software to our users. The version available for download includes most of the functions of the full release of GASP®, but is restricted to the audit and processing of 100 PCs for 60 days. The personal information volunteered by visitors to our website to download GASP software will be transferred to Attest who will use the personal information for a number of purposes, including the identification of users, direct marketing and online transactions. Other than for the purpose of transferring the information to Attest, BSA does not collect, use or store any personal information given by users downloading GASP software. For information about Attest's privacy practices, please go to [http://www.attest.com](http://www.attest.com/). 
+_Software Audit Tools:_ BSA, with the cooperation of Attest Systems, Inc. and Tally Systems Corp., offers GASP® and WebCensus® software to users. All information provided by users during registration for both products goes directly to Attest or Tally Systems, as appropriate. BSA does not collect, use or store any personal information. For information about Attest's privacy practices, please go to <http://www.gasp.com/terms_of_use.asp>. For information about Tally Systems' privacy practices, please visit <http://www.tallysystems.com/legal/privacypractices.html>.
 
 _Piracy reporting:_ Visitors to our website are invited to report possible incidents of software piracy to BSA through electronic mail and our online reporting system. We use this information to investigate such claims and, if necessary, to bring legal and other enforcement action. 
 
@@ -28,9 +28,7 @@ _Privacy of piracy reporting:_ Individuals often report incidents of software pi
 
 **DATA SECURITY:**
 
-BSA uses strong encryption technology to protect personal information collected on our server. This does not include the personal information submitted to Attest during the GASP Software registration process. The information that is submitted during this process is transmitted directly to Attest servers. For more information about the GASP Software registration process, see the above section of this privacy policy. 
-
-We take strong precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. When BSA employs subcontractors that may have access to personal information, they are bound by a confidentiality agreement to ensure that they exercise the same level of care when handling your personal information as we do. 
+BSA uses strong encryption technology to protect personal information collected on our server. We take strong precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. When BSA employs subcontractors that may have access to personal information, they are bound by a confidentiality agreement to ensure that they exercise the same level of care when handling your personal information as we do. 
 
 **DATA QUALITY AND ACCESS:**
 
@@ -68,4 +66,4 @@ BSA may modify this privacy policy at any time at its discretion and modificatio
 
 If you have any questions or concerns regarding privacy on the BSA network of websites, please contact the Webmaster at [webmaster@bsa.org](mailto:webmaster@bsa.org). 
 
-This policy was last updated on July 11, 2001. 
+This policy was last updated on October 28, 2003. 
