@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the highcountrygardens.com privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613140950id_/http%3A//www.highcountrygardens.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highcountrygardens.com privacy policy that was archived on 2001-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011215095026id_/http%3A//www.highcountrygardens.com/privacy.html) for the most accurate reproduction.*
 
 # Gardening: Water conserving plants for Western gardens: High Country Gardens
-
-|  | 
 
   
 **Your Privacy**
@@ -22,11 +20,3 @@ Sometimes we share our customer postal mailing list with carefully screened comp
 The e-mail addresses you provide us for your plant order, catalog requests and E-Zine subscriptions will not be rented or shared with any other Internet company. If in the future we choose to rent or share our customer e-mail addresses, we would include your e-mail address only with your permission. 
 
 We respect your privacy. Our company conducts business with integrity and good intentions to provide you with the highest quality products and services. You can trust us to honor you as a valued customer. 
-
-**Our Guarantee**
-
-**Plants:**   
-We guarantee that you will recieve healthy, vigorous plants that transplant successfully and prosper. If your plant fails within 90 days of receipt, you may choose to have a credit, refund or a one-time replacement plant (if available). Shipping charges are NON-refundable. 
-
-**Non-Plant Items:**  
-If, for any reason, you are not satisfied, return the item within 30 days for a credit or refund. In the case of fertilizers and similar gardening supplies, returned the unused portion. Shipping charges are not refundable. 
