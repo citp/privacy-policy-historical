@@ -1,42 +1,66 @@
-> *The following text is extracted and transformed from the whitepages.ca privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601110147id_/http%3A//whitepages.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitepages.ca privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622161947id_/http%3A//www.whitepages.ca/privacy) for the most accurate reproduction.*
 
-# WhitePages - The first name in directory assistance
+# WhitePages.ca - Online Directory Assistance
 
-**WhitePages.com Privacy Policy**   
- (last revised April 27, 2001) |   
----|---  
-  
-Your privacy is important to us. By participating in the Council of Better Business Bureau's BBBOnLine Privacy Program we have made a commitment to meet the programs' strict requirements regarding how we treat your information and have it verified by BBBOnLine. Further information about this program is available at http://www.bbbonline.org. Below you will find out how WhitePages.com protects your privacy. This Privacy Policy covers all the online properties operated and hosted by WhitePages.com, Inc. 
+W3 Data is committed to protecting your privacy. By participating in the Council of Better Business Bureau's BBBOnLine Privacy Program we have made a commitment to meet the programs' strict requirements regarding how we treat your information and have it verified by BBBOnLine. Further information about this program is available at [http://www.bbbonline.org](http://www.bbbonline.org/). This privacy policy ("Privacy Policy") explains the type of information W3 Data collects through [www.whitepages.com](http://www.whitepages.com/) as well as any Web site incorporating the content of [www.whitepages.com](http://www.whitepages.com/) ("WhitePages Network") and My WhitePages ("MyWP"). MyWP and the WhitePages Network offers an electronic information service provided by W3 Data which allows you to access a list of names, addresses, telephone numbers and other information compiled from telephone company databases (the "Service"). 
 
-**Q: Where does WhitePages.com get its directory information?**
+Please read the following Privacy Policy carefully before using the Service or using the WhitePages Network. If you use MyWP or use the WhitePages Network, you will be bound by the terms of this Privacy Policy. This Privacy Policy may change from time to time so you should check it frequently. If you have any questions, concerns, or comments about this privacy policy, please contact us at [support@w3data.com](mailto:support@w3data.com). 
 
-A: We obtain all of our directory data from publicly available, published telephone books. 
+MYWP COLLECTS AND STORES INFORMATION ABOUT THE WEB PAGES YOU VIEW AND THE DATA YOU ENTER IN ONLINE FORMS AND SEARCHES. ALTHOUGH W3 DATA DOES NOT ATTEMPT TO ANALYZE INTERNET USAGE DATA TO DETERMINE THE IDENTITY OF ANY MYWP USER, SOME INFORMATION COLLECTED BY THE SERVICE IS PERSONALLY IDENTIFIABLE. W3 DATA AGGREGATES AND ANALYZES THE INFORMATION IT COLLECTS TO IMPROVE ITS SERVICE AND TO PREPARE REPORTS ABOUT AGGREGATE INTERNET USAGE AND YOUR DIRECTORY ASSISTANCE LOOK-UP HABITS. IN ADDITION, WHEN YOU PERFORM SEARCHES USING MYWP YOUR SEARCH RESULTS WILL BE TRANSMITTED TO AND LOGGED BY W3 DATA AND MAY BE CORRELATED BY W3 DATA WITH ANY PERSONALLY IDENTIFIABLE INFORMATION YOU MAY HAVE PREVIOUSLY PROVIDED TO W3 DATA. 
 
-**Q: How do I remove my listing from the WhitePages.com directory?** In order to have your listing removed, please email your full name, phone number, and address exactly as they appear in our directory listings, as well as your daytime phone number, to [remove@whitepages.com](mailto:remove@whitepages.com). **NOTE:** The information you provide will only be used for verification purposes only. Please allow seven business days for us to process your request. 
+**What types of information does W3 Data collect?**
 
-**Q: What are cookies, and do you use them?**
+If you are visiting the WhitePages Network, we collect the following information: the full Uniform Resource Locator ("URL") of the Web page from which you came to the WhitePages Network; your Internet Protocol ("IP") address, which may include a domain name; the date and time for each page you view; the name of and information about any advertisement that brought you to the WhitePages Network; searches you perform, links you click on; and computer and connection information such as browser type and version, operating system, and platform. We also transmit cookies to your computer so we can track the pages of our Web site that you view and the order in which you view them. 
 
-A: According to the Merriam Webster dictionary, a cookie is "a small flat or slightly raised cake." It can also be a small file that is stored on a user's computer by a Web server in order to keep track of user patterns and preferences. WhitePages.com makes limited use of cookies in order to provide personalized content and protect confidential user information. However, in no event do we obtain personally identifiable information from our use of cookies. You may choose not to accept cookies by changing the preferences on your browser. However, your experience will be less personalized and, in addition, certain services may not be available for your use. 
+If you e-mail W3 Data we collect your message, the recipient e-mail address(es), and your e-mail address for the purpose of sending the e-mail. We do not send other e-mail to these address(es). 
 
-**Q: What type of information does WhitePages.com collect from its visitors?**
+If you use MyWP, we collect any information voluntarily provided by you during the registration process, which can include your e-mail address as well as demographic information such as gender, age, occupation, household income, zip code and country. We also collect the name of and information about any advertisement that brought you to the WhitePages Network. Any e-mail address that you give us during the registration process is kept separate from information collected during your use of the Service and is not used to correlate your identity to Internet usage path. Demographic information is correlated to Internet usage collected during your use of the Service, but we do not attempt to determine your identity by analyzing this information. 
 
-A: We collect general, anonymous information, in addition to information that you voluntarily forward to us. In order for us to remove listings, we do request personal identifiable information, such as name, phone number, email, and address, for verification purposes. Such information will not be shown to a third party. Further, when you visit WhitePages.com, you may be providing information to us via web server logs, browser cookie files, or submission forms. Such information includes: anonymous statistics collected as you browse www.whitepages.com such as the type of browser you use and the site that "referred" you to WhitePages.com; personal information that you voluntarily forward to us; general aggregated statistics regarding all of our visitors including how many people visit WhitePages.com. 
+When you use the Services, we transmit cookies to the hard drive of your computer. These cookies assign your Web browser a unique series of numbers, letters, or characters that enable W3 Data's servers to recognize and identify your Web browser when you are using the Service. They also enable W3 Data to track and store information about your Internet usage path while using the Service. See below for more information about how W3 Data uses this data. 
 
-**Q: How does WhitePages.com protect any personally identifiable information it may collect?**
+When you use the Service, we collect information about the Web sites you visit (e.g., by clicking on advertisements) and the pages you view on the WhitePages Network. This information allows us to build our database of information about related Web pages. Thus, for every Web page you view while using the Service, the Service transmits and stores the following information from your computer to W3 Data: 
 
-A: WhitePages.com has implemented technology and security features and strict policy guidelines to safeguard the privacy of your personally identifiable information from unauthorized access or improper use, and we will continue to enhance our security procedures as new technology becomes available. All personally identifiable information is stored in a password-protected workstation, which is behind a corporate firewall. It is WhitePages.com's policy to delete personally identifiable information within 7 days of its collection. 
+  1. your IP address, which may include a domain name;
+  2. the full URL of the Web page you are visiting;
+  3. general information about your browser;
+  4. general information about your computer's operating system;
+  5. your cookie number; and
+  6. the date and time the above information is logged.
 
-**Q: What does WhitePages.com do with the information it collects?**
+All of the above information is logged together in a single data string for each Web page you visit. Each string is logged in our database. 
 
-A: We use the information that we gather from our visitors to improve our Web site, to monitor its performance and to make it easier for you and other visitors to use it. Specifically, we aim to do the following: 
+**Does W3 Data collect personally identifiable information?**
 
-  * Protect visitors' information from unauthorized access. 
-  * Gather, maintain and use customer information as necessary to provide the most helpful and personalized services to meet our visitors' needs. 
-  * Honor visitors' requests to remove their names from our white pages directory. 
-  * Maintain confidentiality of personally identifiable customer information when undertaking projects with other companies. 
+The URLs we collect through the Service sometimes contain personal information about you. For example, when you enter information on a Web page (e.g., when you complete an online registration form or advertisement form) the operator of the Web site may insert that information into its URL for that or the next page. This information often appears after a question mark ("?") in the URL, although it can appear in other places. This means that your name, your address, your e-mail address, or similar information you might consider private or personally identifiable which you enter into a Web page sometimes becomes part of a URL that is then transmitted to Service and automatically stored in W3 Data databases. This can also occur with words, topics, products, or phrases you enter into search engines - whether those engines are provided by the Service itself or found elsewhere on the Internet - while using the Service. W3 Data has no control over what information third party Web sites put into their URLs or where they put it, and any information in each URL is collected and stored by W3 Data when you are using the Service. 
 
+W3 Data analyzes its logs of usage path collected from users to determine Internet usage in the aggregate. Further, by storing this information with users' cookie numbers, W3 Data correlates each user's usage path information and demographic information to each other. 
 
+All transmissions between you and W3 Data, including e-mails, URLs, cookie identification numbers, usage paths, and any personally identifiable information they might contain, pass through many third party machines, operating systems, programs, browsers, Internet servers, networks, routers, Ethernet switches, ISPs, proxy servers, intranets, the public telephone systems, or other devices, any of which may create activity logs containing such transmissions. 
 
-**Q: Do WhitePages.com's advertisers, partners and affiliates comply with this Privacy Policy?**
+**What does W3 Data do with the information it collects?**
 
-A: Although our advertisers, partners, affiliates and third parties may link to our Web site, or otherwise be associated with our Web Site, WhitePages.com cannot control the information collection and distribution policies of such parties. Although we do encourage our advertisers, partners and affiliates to adopt privacy policies similar to this one, we do not have control over the practices of third parties and these practices may differ from our own. You should check the privacy policy of every Web site you visit to ensure that you are comfortable with the practices of that particular Web site. **NOTE** : In no event may our advertisers, partners and affiliates collect personally identifiable information from our users surfing on web pages hosted by WhitePages.com. Please contact WhitePages.com at [privacy@whitepages.com](mailto:privacy@whitepages.com) with any questions regarding this privacy policy. Thank you for visiting WhitePages.com. 
+If you gave us your e-mail address when you registered, we may use it to send you W3 Data newsletters, product updates, service-related information, and other offers and information from W3 Data or its business partners. W3 Data also may contact you by e-mail to respond to any customer service inquiries you submit. We do not disclose your e-mail address to business partners or to anyone other than employees and agents working for or on behalf of W3 Data, except as required by subpoenas, court orders, or legal requirements. We do not use your e-mail address to correlate your identity to your Internet usage paths. If you do not want to receive W3 Data newsletters, offers, and product and service information, simply click the unsubscribe link at the bottom the e-mail address where such information is being sent. 
+
+We use cookies for such functions as verifying that you are a Service user and counting and tracking your Web site visits. We further use cookies to determine the number of visitors that came to the WhitePages Network through a particular advertisement. Your cookie number is also used to create usage paths and to correlate those with any demographic information you provide, but we do not use your cookies, usage paths to attempt to determine your identity. 
+
+We use IP addresses to diagnose problems with our servers and to administer our Web site. Your IP address also is used by W3 Data to gather broad demographic information, such as your general geographic location and Internet Service Provider. IP addresses are further used to help determine the number of Service users. This demographic information may also be used by W3 Data to analyze aggregate Internet usage behavior. 
+
+**How does W3 Data share the information it collects?**
+
+W3 Data does not intentionally disclose personally identifying information collected from any user to any third party without the user's consent. 
+
+We provide "stripped" usage path information and demographic information to researchers. They use it to prepare analyses of aggregate Internet patterns and trends. Such analyses are used in research and commercial reports provided to third parties. 
+
+We disclose any information we possess in response to subpoenas, court orders, or legal requirements, and such information might be used by the receiving party to determine your identity, your Internet usage, or other things about you. We generally do not inform users of such requests for information, although we might try to do so in some cases. 
+
+We employ other companies and individuals to perform functions on our behalf, such as technical support services. To perform those functions, it may be necessary for them to obtain access to W3 Data's databases and servers, which may contain personally identifying information about users. They may not use such access or information for any purpose other than that for which they are retained. 
+
+In the event that W3 Data or substantially all of its assets are sold or acquired, all information collected by W3 Data would be transferred to the acquiring party. In any such transfer, however, such information would remain subject to any applicable terms and conditions, including the terms of this Privacy Policy and any amendment thereto. 
+
+**How can I view or edit my account information?**
+
+You can view or edit your MyWP account information at anytime. In order to view or edit your information, login to MyWP. Once logged in, select "Edit Profile" in the top right navigation bar to view or change the information contained in your profile. 
+
+**How is your information protected?**
+
+W3 Data uses commercially reasonable computer security safeguards to protect its databases and servers against risks of loss, unauthorized access, destruction, misuse, modification, or inadvertent or improper disclosure of data. These risks, however, cannot be completely eliminated and W3 Data therefore cannot guarantee complete security. 
