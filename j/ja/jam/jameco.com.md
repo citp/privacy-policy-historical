@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jameco.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604053431id_/http%3A//www.jameco.com/cgi-bin/ncommerce3/ExecMacro/Jameco/pageDisplay.d2w/report%3Fcontent%3Dprivacy%26cgrfnbr%3D501%26ctgys%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jameco.com privacy policy that was archived on 2001-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011019195300id_/http%3A//jameco.com/cgi-bin/ncommerce3/ExecMacro/Jameco/pageDisplay.d2w/report%3Fcontent%3Dprivacy%26cgrfnbr%3D501%26ctgys%3D) for the most accurate reproduction.*
 
 # Jameco
 
@@ -31,7 +31,7 @@ We may also be reached via e-mail at [info@jameco.com](mailto:info@jameco.com) o
 
 [**To place an order call: 1-800-831-4242  
 For Customer Service: 1-800-536-4316** **  
-**](https://web.archive.org/cgi-bin/ncommerce3/ExecMacro/Jameco/pageDisplay.d2w/report?content=contact)  
+**](https://www.jameco.com/cgi-bin/ncommerce3/ExecMacro/Jameco/pageDisplay.d2w/report?content=contact)  
 **Jameco Electronics**  
 1355 Shoreway Road, Belmont, CA 94002  
 Tel: 1-650-592-8097 Fax: 1-650-592-2503  
