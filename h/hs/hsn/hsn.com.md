@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the hsn.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211111830id_/http%3A//www.hsn.com/customer_service/privacy_policy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsn.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607233216id_/http%3A//www.hsn.com/cs/privacy_policy/default.aspx) for the most accurate reproduction.*
 
-# HSN - Privacy Policy
+# HSN.com - Customer Service
 
-| |  [](https://web.archive.org/web/20011211111830id_/http%3A//www.hsn.com/customer_service/privacy_policy/up) |   
+|  | |  | [](https://web.archive.org/web/20020607233216id_/http%3A//www.hsn.com/cs/privacy_policy/up)  
 ---  
 ****  
   
-HSN Interactive LLC ("HSNi") is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the internet by promoting the use of fair information practices. The privacy practices in this statement are applicable to [hsn.com](http://www.hsn.com/) and other World Wide Web addresses (urls) that are directed to areas within [hsn.com](http://www.hsn.com/), such as [hsnrewards.com](http://www.hsnrewards.com/), [hsnbeauty.com](http://www.hsnbeauty.com/) and [hsndolls.com](http://www.hsndolls.com/). Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. By displaying the "TRUSTe trustmark", we have agreed to notify you of the information contained in this statement of our privacy practices.
+HSN Interactive LLC ("HSNi") is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the internet by promoting the use of fair information practices. The privacy practices in this statement are applicable to [hsn.com](https://web.archive.org/default.aspx) and other World Wide Web addresses (urls) that are directed to areas within [hsn.com](https://web.archive.org/default.aspx), such as [hsnrewards.com](http://www.hsnrewards.com/), [hsnbeauty.com](http://www.hsnbeauty.com/) and [hsndolls.com](http://www.hsndolls.com/). Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. By displaying the "TRUSTe trustmark", we have agreed to notify you of the information contained in this statement of our privacy practices.
 
-If you have any questions or concerns regarding this statement, you should first [click here](https://web.archive.org/customer_service/email_us/default.asp) to contact [hsn.com](http://www.hsn.com/) Customer Service by email. If you do not receive acknowledgement of your inquiry or your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the [TRUSTe WatchDog Dispute Resolution Process](http://www.truste.org/users/users_watchdog_intro.html). TRUSTe will then serve as a liaison with [hsn.com](http://www.hsn.com/) to resolve your concerns.
+If you have any questions or concerns regarding this statement, you should first [click here](https://web.archive.org/cs/email_us/default.aspx) to contact [hsn.com](https://web.archive.org/default.aspx) Customer Service by email. If you do not receive acknowledgement of your inquiry or your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the [TRUSTe WatchDog Dispute Resolution Process](http://www.truste.org/users/users_watchdog_intro.html). TRUSTe will then serve as a liaison with [hsn.com](https://web.archive.org/default.aspx) to resolve your concerns.
 
-HSNi and [hsn.com](http://www.hsn.com/) are committed to protecting your privacy.
+HSNi and [hsn.com](https://web.archive.org/default.aspx) are committed to protecting your privacy.
 
 We are determined to maintain a useful and interesting online environment for our customers, which includes easy access to product information, customer service and our privacy policies.
 
 Please read on for more details about our privacy policy.
 
-**[CONTENTS:](https://web.archive.org/web/20011211111830id_/http%3A//www.hsn.com/customer_service/privacy_policy/contents)**  
+**[CONTENTS:](https://web.archive.org/web/20020607233216id_/http%3A//www.hsn.com/cs/privacy_policy/contents)**  
   
 1.  What information do we collect online? How do we use it?  
   (a) Information you provide to us  
@@ -76,7 +76,7 @@ Return to Top | Return to Contents
 
      _Tracking Traffic and Usage_
 
-In order to make improvements to our site and to assist in making decisions about the products and services we offer, we track and obtain data from third parties who track customer traffic patterns and site usage by using server log files and other collection devices. These sources collect information such as the address that identifies your computer, your Internet service provider, your web browser and operating system type, the URL of the site from which you came to [hsn.com](http://www.hsn.com/) the time you accessed our site, and your browsing and purchasing history on hsn.com, which is monitored by our product suggestion service. To view, edit or opt out of our product suggestion service, [please click here](http://www.yourcontrolpanel.com/mypage/pcp.html).
+In order to make improvements to our site and to assist in making decisions about the products and services we offer, we track and obtain data from third parties who track customer traffic patterns and site usage by using server log files and other collection devices. These sources collect information such as the address that identifies your computer, your Internet service provider, your web browser and operating system type, the URL of the site from which you came to [hsn.com](https://web.archive.org/default.aspx) the time you accessed our site, and your browsing and purchasing history on hsn.com, which is monitored by our product suggestion service. To view, edit or opt out of our product suggestion service, [please click here](http://www.yourcontrolpanel.com/mypage/pcp.html).
 
     _"Cookies"_
 
@@ -90,7 +90,7 @@ Most web browsers automatically accept cookies, but you can usually change your 
 
 The use of tracking tools and cookies are industry standard – you’ll find them at most major web sites.
 
-We analyze data gathered by means of tracking tools and cookies only in the aggregate or for segments of our customer base, and not at the individual customer level. We do not include personally identifiable information, such as your name and email address, in this analysis. Other than referring URLs, we do not follow your browsing path outside of [hsn.com](http://www.hsn.com/)
+We analyze data gathered by means of tracking tools and cookies only in the aggregate or for segments of our customer base, and not at the individual customer level. We do not include personally identifiable information, such as your name and email address, in this analysis. Other than referring URLs, we do not follow your browsing path outside of [hsn.com](https://web.archive.org/default.aspx)
 
 Return to Top | Return to Contents  
   
@@ -99,21 +99,21 @@ Return to Top | Return to Contents
 
 HSNi and 
 
-_[hsn.com](http://www.hsn.com/)_
+_[hsn.com](https://web.archive.org/default.aspx)_
 
 perform many of their business operations using the resources of other HSN companies. Consequently, we regularly share your personally identifiable information with these affiliated companies to perform activities necessary to process and fulfill your orders, customer service requests, returns and the like. However, these intermediaries are not authorized to use your information for other purposes.
 
-If you are both an [hsn.com](http://www.hsn.com/) customer and an HSN television customer, we share your personally identifiable information to avoid sending you duplicate promotional materials. In addition, we share your personally identifiable information with our parent company, USA Networks, Inc., and our affiliate that operates HSN television in order to prevent fraud and for corporate record keeping purposes.
+If you are both an [hsn.com](https://web.archive.org/default.aspx) customer and an HSN television customer, we share your personally identifiable information to avoid sending you duplicate promotional materials. In addition, we share your personally identifiable information with our parent company, USA Networks, Inc., and our affiliate that operates HSN television in order to prevent fraud and for corporate record keeping purposes.
 
-HSNi and [hsn.com](http://www.hsn.com/) also sometimes contract with unaffiliated third parties to provide services, such as software for site features, customer communications, analyzing and evaluating the information we collect, and other services. When we do this, we provide your personally identifiable information to third parties only to provide those services, and they are not authorized to use your personally identifiable information for any other purpose.
+HSNi and [hsn.com](https://web.archive.org/default.aspx) also sometimes contract with unaffiliated third parties to provide services, such as software for site features, customer communications, analyzing and evaluating the information we collect, and other services. When we do this, we provide your personally identifiable information to third parties only to provide those services, and they are not authorized to use your personally identifiable information for any other purpose.
 
 At your request, we provide your Gift Registry url to people you ask us to send a one-time email to. Items you store in your Gift Registry are visible to those who receive this email.
 
-HSNi is a subsidiary of USA Networks, Inc. (“USAi”), whose other affiliates and businesses include USA Network, Sci-Fi Channel, Ticketmaster, CitySearch, Hotel Reservations Network, Styleclick, Match.com, and others. (You can get more information about USAi and its affiliates at [www.usaicorp.com](http://www.usaicorp.com/).) HSNi and [hsn.com](http://www.hsn.com/) share your personally identifiable information and aggregate statistics about our customers, sales, traffic patterns and other data with other HSN companies, and with other affiliates and businesses of USAi for marketing and promotional purposes.
+HSNi is a subsidiary of USA Networks, Inc. (“USAi”), whose other affiliates and businesses include USA Network, Sci-Fi Channel, Ticketmaster, CitySearch, Hotel Reservations Network, Styleclick, Match.com, and others. (You can get more information about USAi and its affiliates at [www.usaicorp.com](http://www.usaicorp.com/).) HSNi and [hsn.com](https://web.archive.org/default.aspx) share your personally identifiable information and aggregate statistics about our customers, sales, traffic patterns and other data with other HSN companies, and with other affiliates and businesses of USAi for marketing and promotional purposes.
 
 Personally identifiable information you provide to us that becomes part of your HSN employment file (if you become an HSN employee) or vendor file (if you become an HSN vendor) may be shared with others only in accordance with our policies relating to confidentiality of our employment and vendor files generally. Personally identifiable information you provide to us when you submit a request for cable service is shared with your local cable service provider.
 
-It is possible that we could decide to sell one or more of the urls or businesses operated at [hsn.com](http://www.hsn.com/). In any transaction of this kind, customer information, including your personally identifiable information, may be among the assets that are transferred. It is also possible that HSNi would sell all or substantially all of its assets and business, either separately or as part of a transaction involving other components of HSN’s business, and in such case customer information would almost certainly be among the assets that are transferred. If we sell our assets in one of these ways, you will be notified by email.
+It is possible that we could decide to sell one or more of the urls or businesses operated at [hsn.com](https://web.archive.org/default.aspx). In any transaction of this kind, customer information, including your personally identifiable information, may be among the assets that are transferred. It is also possible that HSNi would sell all or substantially all of its assets and business, either separately or as part of a transaction involving other components of HSN’s business, and in such case customer information would almost certainly be among the assets that are transferred. If we sell our assets in one of these ways, you will be notified by email.
 
 Except as described above, we will not sell, rent or otherwise disclose your personally identifiable or other information to any non-affiliated third party. 
 
@@ -127,15 +127,15 @@ We send one email message to confirm each order you make, and we occasionally se
 
 On rare occasions we send out strictly service related email announcements. These announcements are not promotional in nature. For instance, we might send you an email message if our service is temporarily suspended for maintenance, or to let you know about a change in our privacy policies. (See 7\. Your acceptance of these practices, below.) Generally, you may opt out of receiving these communications only by contacting Customer Service and requesting they remove your email address.
 
-When you first place an order and set up your customer profile, we offer a selection of promotional email categories from which we automatically send information on upcoming events, new products and services, and special offers we think you’ll be interested in. One or more of these lists may be pre-selected for you, and you can opt out; you may opt in to the others. You can return to your customer profile at any time to modify your selections at the [Update Profile](http://www.hsn.com/customer/login/default.asp?Dest=6) form on our site. We also send you promotional emails if you enter a sweepstakes, contest or other promotional feature on our site, or if you provide your email address when you submit a request for cable service.
+When you first place an order and set up your customer profile, we offer a selection of promotional email categories from which we automatically send information on upcoming events, new products and services, and special offers we think you’ll be interested in. One or more of these lists may be pre-selected for you, and you can opt out; you may opt in to the others. You can return to your customer profile at any time to modify your selections at the [Update Profile](https://web.archive.org/cust/profile/default.aspx) form on our site. We also send you promotional emails if you enter a sweepstakes, contest or other promotional feature on our site, or if you provide your email address when you submit a request for cable service.
 
-[Click here](https://web.archive.org/customer_service/email_us/default.asp) to contact our Customer Service department via email with questions, requests and comments. You can also email [HSN’s show hosts](http://www.hsn.com/Content/hosts/default.asp). We encourage your communications, since we use your input to improve our site and the products and services we offer. We review every email we receive. Although we are not staffed to respond to all individual emails, we will respond to your customer service requests and inquiries when appropriate and to other messages when appropriate and as time permits.
+[Click here](https://web.archive.org/cs/email_us/default.aspx) to contact our Customer Service department via email with questions, requests and comments. You can also email [HSN’s show hosts](https://web.archive.org/Cnt/hosts/default.aspx). We encourage your communications, since we use your input to improve our site and the products and services we offer. We review every email we receive. Although we are not staffed to respond to all individual emails, we will respond to your customer service requests and inquiries when appropriate and to other messages when appropriate and as time permits.
 
 Return to Top | Return to Contents  
   
 **4) How can you elect not to receive offers and e-mail?**
 
-If you prefer not to receive promotional emails regarding upcoming events, new products and services, and special offers, you can make the appropriate selections when you set up your customer profile. (See Section 3. How do we use email?, above.) Or you can return to your customer profile to change your selections at the [Update Profile](http://www.hsn.com/customer/login/default.asp?Dest=6) form on our site. Also, every one of the promotional emails we send provides you with a way to opt out of receiving further emails. Or, [click here](https://web.archive.org/customer_service/email_us/default.asp) to email our Customer Service department to opt out of receiving further promotional emails. 
+If you prefer not to receive promotional emails regarding upcoming events, new products and services, and special offers, you can make the appropriate selections when you set up your customer profile. (See Section 3. How do we use email?, above.) Or you can return to your customer profile to change your selections at the [Update Profile](https://web.archive.org/cust/profile/default.aspx) form on our site. Also, every one of the promotional emails we send provides you with a way to opt out of receiving further emails. Or, [click here](https://web.archive.org/cs/email_us/default.aspx) to email our Customer Service department to opt out of receiving further promotional emails. 
 
 If you prefer not to receive service related email announcements, you can do this only by contacting Customer Service and requesting they remove your email address.
 
@@ -143,9 +143,9 @@ Return to Top | Return to Contents
   
 **5) How can access and correct your information?**
 
-You can check your personal information in your customer profile by navigating to [Update Profile](http://www.hsn.com/customer/login/default.asp?Dest=6) on our site. If any of this information is incorrect, you can make appropriate changes. However, although you can prevent receipt of all email by removing your email address, you cannot delete your customer account information entirely. If you have any question about the accuracy of your personal information, you can contact us online, or by e-mail, telephone or mail. (See 8\. How can you contact us with questions or comments?, below.) 
+You can check your personal information in your customer profile by navigating to [Update Profile](https://web.archive.org/cust/profile/default.aspx) on our site. If any of this information is incorrect, you can make appropriate changes. However, although you can prevent receipt of all email by removing your email address, you cannot delete your customer account information entirely. If you have any question about the accuracy of your personal information, you can contact us online, or by e-mail, telephone or mail. (See 8\. How can you contact us with questions or comments?, below.) 
 
-You can access your order history by navigating to [Web Order History](https://www.hsn.com/customer/login/default.asp?Dest=1), use the [QuickTrack](https://www.hsn.com/customer_service/QuickTrack/default.asp) system, or by calling our Customer Service department at 1-800-933-2887.
+You can access your order history by navigating to [Web Order History](https://www.hsn.com/cs/quicktrack/default.aspx), use the [QuickTrack](https://www.hsn.com/cs/quicktrack/default.aspx) system, or by calling our Customer Service department at 1-800-933-2887.
 
 You cannot access other information that we collect, but this is limited to information that you have provided (such as chat room messages), and information that is not personally identifiable.
 
@@ -153,11 +153,11 @@ Return to Top | Return to Contents
   
 **6) How do we protect our customers' information?**
 
-[hsn.com](http://www.hsn.com/) is committed to online data security. Although total security does not exist on the Internet, we take reasonable steps to assure secure transmission and storage of your information. We protect transmission of information between your PC and our servers by utilizing industry standard efforts, such as firewalls, Secure Socket Layers and encryption software. We store information relating to our customers on a highly secure server that is not accessible via the Internet.
+[hsn.com](https://web.archive.org/default.aspx) is committed to online data security. Although total security does not exist on the Internet, we take reasonable steps to assure secure transmission and storage of your information. We protect transmission of information between your PC and our servers by utilizing industry standard efforts, such as firewalls, Secure Socket Layers and encryption software. We store information relating to our customers on a highly secure server that is not accessible via the Internet.
 
 While we use Secure Socket Layer encryption to protect sensitive information online, we also protect your information offline. All of your information is restricted to our offices. Only employees who need the information to perform a specific job (for example, billing clerks or customer service representatives) are authorized to access personally identifiable information. Our employees use password-protected screen-savers when they leave their desks. When they return, they re-enter their passwords to regain access to your information. Furthermore, all employees are kept up-to-date on our security and privacy practices. Every calendar quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure your information is protected. Finally, the servers where we store personally identifiable information are kept in a secure environment, behind a locked cage.
 
-Our site contains links to other sites. HSNi and [hsn.com](http://www.hsn.com/) are not responsible for the privacy practices of these other sites. We encourage you to be aware when you leave our site, and to read the privacy statements of each web site that collects personally identifiable information. Some linked sites are co-branded with our trademarks and those of our business partners. They may have the look and feel of [hsn.com](http://www.hsn.com/), but the URL in your browser window will indicate that you are visiting a different site. This statement of HSNi and [hsn.com](http://www.hsn.com/)’s privacy practices applies only to information collected by [hsn.com](http://www.hsn.com/).
+Our site contains links to other sites. HSNi and [hsn.com](https://web.archive.org/default.aspx) are not responsible for the privacy practices of these other sites. We encourage you to be aware when you leave our site, and to read the privacy statements of each web site that collects personally identifiable information. Some linked sites are co-branded with our trademarks and those of our business partners. They may have the look and feel of [hsn.com](https://web.archive.org/default.aspx), but the URL in your browser window will indicate that you are visiting a different site. This statement of HSNi and [hsn.com](https://web.archive.org/default.aspx)’s privacy practices applies only to information collected by [hsn.com](https://web.archive.org/default.aspx).
 
 Also, please keep in mind whenever you give out personal information in a public online forum - for example, in chat rooms or bulletin boards - that information can be collected and used by people you don't know. While we strive to protect your personal information and privacy, you disclose information to others in these public forums at your own risk.
 
@@ -179,9 +179,9 @@ We're always happy to answer your questions and listen to your comments.
 
 We offer several options for you to contact us:
 
-Online: hsn.com online [Customer Service](https://web.archive.org/customer_service)
+Online: hsn.com online [Customer Service](https://web.archive.org/cs/default.aspx)
 
-By E-mail: [Click here](https://web.archive.org/customer_service/email_us/default.asp)
+By E-mail: [Click here](https://web.archive.org/cs/email_us/default.aspx)
 
 By Phone: Call 1-800-933-2887, 24 hours a day. 
 
