@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the janbrett.com privacy policy that was archived on 2001-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010803010653id_/http%3A//janbrett.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the janbrett.com privacy policy that was archived on 2002-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020204120017id_/http%3A//www.janbrett.com/privacy_statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -20,7 +20,7 @@
 ## Children's Guidelines
 
   1. We do NOT request personally identifiable offline home contact information (home postal addresses).
-  2. We do NOT distribute to third parties any personally identifiable information.
+  2. We do NOT distribute to third parties anyone's email address or any other information.
   3. We do NOT sell or offer for sale any products.  All materials on **www.janbrett.com** are available to everyone at no charge.
   4. We do NOT entice by the prospect of a special game, prize or other activity, a child to divulge more information than is needed to participate in the activity
 
@@ -46,4 +46,4 @@
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact   Jan Brett Post Office Box 366 Norwell, Ma. 02061   janbrett@janbrett.com
 
-[Home Page](https://web.archive.org/web/20010803010653id_/http%3A//janbrett.com/index.html)
+[Home Page](https://web.archive.org/web/20020204120017id_/http%3A//www.janbrett.com/index.html)
