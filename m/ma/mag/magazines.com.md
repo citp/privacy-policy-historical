@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magazines.com privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613143734id_/http%3A//www.magazines.com/ncom/mag/help/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazines.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208212628id_/http%3A//www.magazines.com/ncom/mag/help/privacypolicy.html) for the most accurate reproduction.*
 
 # Magazines.com -- Privacy Policy
 
@@ -37,6 +37,9 @@ We do use tracking software to observe user traffic patterns throughout our site
 
 **Security**   
 When you place orders, we provide the use of a secure server. The secure server software (SSL) encrypts all information you enter before it is sent to us. And all customer data we receive is protected against unauthorized access. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+
+**Fair Credit Billing Act**   
+We guarantee that every online transaction you make will be 100% safe. This means you pay nothing if unauthorized charges are made to your card as a result of shopping at our online store. Under the Fair Credit Billing Act, your bank cannot hold you liable for more than $50.00 of fraudulent charges. If your bank does hold you liable for any of this $50.00, We will cover the entire liability for you, up to the full $50.00. We will only cover this liability if the unauthorized use of your credit card resulted through no fault of your own from purchases made while using the secure server. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures. 
 
 **How You Can Access Or Correct Your Information**   
 You can access all your personally identifiable information that we collect online and maintain by contacting us through our toll-free number at 1-800-929-2691. We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
