@@ -1,69 +1,69 @@
-<!--The following is the downloaded HTML source of the destinationcrm.com privacy policy that was archived on 2001-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011205093717id_/http%3A//destinationcrm.com/dcrm_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the destinationcrm.com privacy policy that was archived on 2002-04-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020405164155id_/http%3A//destinationcrm.com/dcrm_privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
-
+<link rel="stylesheet" href="/default.css">
 <script language="JavaScript" type="text/javascript">
 
 <!--
 
-     NS4 = (document.layers);
-     IE4 = (document.all);
-    ver4 = (NS4 || IE4);
-	 IE5 = (IE4 && navigator.appVersion.indexOf("5.")!=-1);
-   isMac = (navigator.appVersion.indexOf("Mac") != -1);
-  isMenu = (NS4 || (IE4 && !isMac) || (IE5 && isMac));
-function popUp(){return};
-function popDown(){return};
-if (!ver4) event=null;
+//     NS4 = (document.layers);
+//     IE4 = (document.all);
+//    ver4 = (NS4 || IE4);
+//	 IE5 = (IE4 && navigator.appVersion.indexOf("5.")!=-1);
+//   isMac = (navigator.appVersion.indexOf("Mac") != -1);
+//  isMenu = (NS4 || (IE4 && !isMac) || (IE5 && isMac));
+//function popUp(){return};
+//function popDown(){return};
+//if (!ver4) event=null;
 //-->
 </script>
 <script language="JavaScript1.2" type="text/javascript">
 <!--
-if (isMenu) {
-menuVersion = 3;
-menuWidth = 120;
-childOverlap = 20;
-childOffset = 5;
-perCentOver = null;
-secondsVisible = .5;
-fntCol = "white";
-fntSiz = "7";
+//if (isMenu) {
+//menuVersion = 3;
+//menuWidth = 120;
+//childOverlap = 20;
+//childOffset = 5;
+//perCentOver = null;
+//secondsVisible = .5;
+//fntCol = "white";
+//fntSiz = "7";
 
 
-fntBold = true;
+//fntBold = true;
 
-fntItal = false;
-fntFam = "verdana";
-backCol = "#336699";
-activeBackColor="#000000";
-overCol = "#000000";
-overFnt = "#FFFFCC";
-borWid = 3;
-
-
-borCol = "#000000";
+//fntItal = false;
+//fntFam = "verdana";
+//backCol = "#336699";
+//activeBackColor="#000000";
+//overCol = "#000000";
+//overFnt = "#FFFFCC";
+//borWid = 3;
 
 
-borSty = "double";
-itemPad = 3;
-imgSrc = "tri.gif";
-imgSiz = 10;
-separator = 1;
-separatorCol = "#ffffff";
-isFrames = false;
-keepHilite = true; 
-clickStart = false;
-clickKill = true;
-}
+//borCol = "#000000";
+
+
+//borSty = "double";
+//itemPad = 3;
+//imgSrc = "tri.gif";
+//imgSiz = 10;
+//separator = 1;
+//separatorCol = "#ffffff";
+//isFrames = false;
+//keepHilite = true; 
+//clickStart = false;
+//clickKill = true;
+//}
 //-->
 </script>
 <script language="JavaScript1.2">
 <!--
-if (isMenu) {
-document.write("<SCR" + "IPT LANGUAGE='JavaScript1.2' SRC='hierArrays.js'><\/SCR" + "IPT>");
-document.write("<SCR" + "IPT LANGUAGE='JavaScript1.2' SRC='hierMenus.js'><\/SCR" + "IPT>");
-}
+//if (isMenu) {
+//document.write("<SCR" + "IPT LANGUAGE='JavaScript1.2' SRC='hierArrays.js'><\/SCR" + "IPT>");
+//document.write("<SCR" + "IPT LANGUAGE='JavaScript1.2' SRC='hierMenus.js'><\/SCR" + "IPT>");
+//}
 //-->
 </script>
 
@@ -218,6 +218,22 @@ function whitepaper_info(f)
 	 
 }
 
+// for /dcrm_whitepaper.asp page
+function pyinna_partner(f)
+ {
+	if (!TextNotNull(f.email, "email")) return false;
+	if (f.email.value != "") {  
+		if (!isValidEmail(f.email.value)) {
+			alert("Please enter valid email address for example; xxx@yyy.yy");
+			return false;
+		}
+	}
+		
+	if (!TextNotNull(f.fname, "Fiest Name")) return false;  
+	if (!TextNotNull(f.lname, "Last Name")) return false;   
+ 	
+}
+
 // for /dcrm_chat_login.asp page
 function chat_login(f)
  {
@@ -232,10 +248,25 @@ function chat_login(f)
 	if (!TextNotNull(f.fname, "First Name")) return false;  
 	if (!TextNotNull(f.lname, "Last Name")) return false;  
 	if (!TextNotNull(f.nickname, "Nick Name")) return false;   
- 	 
-	 
-}
+ }
 
+// for /dcrm_chat_login.asp page
+function virtual_tradeshow(f)
+ {  
+	if (!TextNotNull(f.first, "First Name")) return false;  
+	if (!TextNotNull(f.last, "Last Name")) return false;  
+	if (!TextNotNull(f.address, "address")) return false; 
+	if (!TextNotNull(f.email, "email")) return false;
+	if (f.email.value != "") {  
+		if (!isValidEmail(f.email.value)) {
+			alert("Please enter valid email address for example; xxx@yyy.yy");
+			return false;
+		}
+	}
+		
+	
+	if (!TextNotNull(f.title, "title")) return false; 
+ }
 
 
 
@@ -522,7 +553,7 @@ OpenWindow = window.open("whatcrm.html", "CRM", windowprops);
 <td width="" background="/images/dcrm_still1.gif" align="left" valign="bottom" height="16">
 <a href="dcrm_sb_index.asp"><img src="/images/subscribe.gif" border="0" width="78" height="14"></a></td> 
 <td width="" background="/images/dcrm_still1.gif" align="left" valign="bottom" height="16">
-<a href="javascript:whatiscrm()"><img src="/images/whatiscrm.gif" border="0" width="78" height="14"></a></td> 
+<a href="http://www.destinationcrm.com/dcrm_ni_article.asp?id=631&amp;art=mag&amp;deptid=7"><img src="/images/whatiscrm.gif" border="0" width="78" height="14"></a></td> 
 <td width="" background="/images/dcrm_still1.gif" align="left" valign="bottom" height="16">
 <a href="dcrm_mk_index.asp"><img src="/images/advertise.gif" border="0" width="78" height="14"></a></td> 
 
@@ -531,10 +562,10 @@ OpenWindow = window.open("whatcrm.html", "CRM", windowprops);
 <!--end top dcrm nav bar-->
 <!--begin top logo and ad bar-->
 <table border="0" cellpadding="0" cellspacing="0" width="780" height="68" valign="top">
-<tbody><tr bgcolor="#999999"><td width="296" align="left" height="68"><img border="0" src="images/dcrm_logo_bot.gif"> </td>
+<tbody><tr bgcolor="#999999"><td width="296" align="left" height="68"><img border="0" src="images/dcrm_logo_bot.gif"></td>
 <td align="center" height="68">
 <!-- begin geting html tag -->
-<nolayer><iframe src="http://ad.doubleclick.net/adi/dcrm.dart/aboutus;sz=468x60;tile=1;ord=200112543648C96?" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/dcrm.dart/aboutus;abr=!ie;sz=468x60;tile=1;ord=200112543648C96?"><IMG SRC="http://ad.doubleclick.net/ad/dcrm.dart/aboutus;abr=!ie;sz=468x60;tile=1;ord=200112543648C96?" border=0 height="60" width="468"></A></iframe></nolayer><table><tbody><tr><td><ilayer id="layer1" visibility="hidden" width="468" height="60"></ilayer></td></tr></tbody></table>
+<nolayer><iframe src="http://ad.doubleclick.net/adi/dcrm.dart/aboutus;sz=468x60;tile=1;ord=20024511413696E?" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/dcrm.dart/aboutus;abr=!ie;sz=468x60;tile=1;ord=20024511413696E?"><IMG SRC="http://ad.doubleclick.net/ad/dcrm.dart/aboutus;abr=!ie;sz=468x60;tile=1;ord=20024511413696E?" border=0 height="60" width="468"></A></iframe></nolayer><table><tbody><tr><td><ilayer id="layer1" visibility="hidden" width="468" height="60"></ilayer></td></tr></tbody></table>
 <!-- end  geting html tag -->
 
 </td></tr></tbody></table>
@@ -581,20 +612,21 @@ document.write(displayDate());
 <td width="100%" valign="top" height="100%">
 
 <map name="FPMap1">
-<area onmouseover="hideAll();" href="dcrm_as_login.asp?frpg=as" shape="rect" coords="15, 0, 107, 12">
-<area onmouseover="popUp('elMenu6',event)" onmouseout="popDown('elMenu6')" href="dcrm_ni_index.asp?category=index" shape="rect" coords="1, 17, 126, 34">
-<area onmouseover="popUp('elMenu7',event)" onmouseout="popDown('elMenu7')" href="dcrm_ac_index.asp" shape="rect" coords="1, 37, 132, 54">
-<area onmouseover="popUp('elMenu8',event)" onmouseout="popDown('elMenu8')" href="dcrm_ch_index.asp" shape="rect" coords="2, 56, 102, 73"> 
-<area onmouseover="hideAll();" href="dcrm_bg_index.asp" shape="rect" coords="1, 76, 94, 94">   
-<area onmouseover="popUp('elMenu9',event)" onmouseout="popDown('elMenu9')" href="dcrm_pb_index.asp" shape="rect" coords="0, 96, 88, 116">  
-<area onmouseover="hideAll();" href="http://elibrary.destinationcrm.com/" shape="rect" coords="1, 116, 72, 136">
-<area onmouseover="hideAll();" href="dcrm_ni_category.asp?deptt=11" shape="rect" coords="1, 138, 90, 156"> 
-</map><img border="0" src="images/dcrm_sidenav_top.gif" usemap="#FPMap1"></td>
+<!--- <area  href="dcrm_as_login.asp?frpg=as" shape="rect" coords="15, 0, 107, 12"> --->
+<area href="dcrm_ni_index.asp?category=index" alt="Click for DCRM News Index" shape="rect" coords="1, 17, 126, 34">
+<area href="dcrm_ac_index.asp" alt="Click for Business Solutions Center" shape="rect" coords="1, 37, 132, 54">
+
+<area href="dcrm_ch_index.asp" shape="rect" alt="Click for eBroadcast, Career, and Events and Conferences Info" coords="1, 76, 114, 94">
+<area href="dcrm_bg_index.asp" alt="Click for Buyer's Guide Info" shape="rect" coords="1, 96, 88, 114">
+<area href="dcrm_pb_index.asp" alt="Click for Line56 Media Publications Index" shape="rect" coords="1, 116, 92, 134">
+<area href="http://elibrary.destinationcrm.com/" shape="rect" coords="1, 138, 70, 154">
+  </map><img border="0" src="images/dcrm_sidenav_top.gif" usemap="#FPMap1"></td>
 </tr>
 <tr>
 <td width="100%" height="200" valign="top">
 <map name="FPMap0">
-<area onmouseover="hideAll();" href="index.asp" shape="rect" coords="4, 17, 65, 37">
+<area href="dcrm_ni_category.asp?deptt=11" shape="rect" coords="1,0,90,12">
+<area href="index.asp" shape="rect" coords="1,30,60,48">
 </map><img border="0" src="images/dcrm_sidenav_home.gif" usemap="#FPMap0" width="189"><br>
 <img border="0" src="images/null.gif" width="1" height="10"><br>
 
@@ -603,7 +635,7 @@ document.write(displayDate());
 
 
 <!-- begin geting html tag --> 
- <nolayer><iframe src="http://ad.doubleclick.net/adi/dcrm.dart/aboutus;sz=125x125;tile=2;ord=200112543648C96?" width="125" height="125" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/dcrm.dart/aboutus;abr=!ie;sz=125x125;tile=2;ord=200112543648C96?"><IMG SRC="http://ad.doubleclick.net/ad/dcrm.dart/aboutus;abr=!ie;sz=125x125;tile=2;ord=200112543648C96?" border=0 height="125" width="125"></A></iframe></nolayer><table><tbody><tr><td><ilayer id="layer2" visibility="hidden" width="125" height="125"></ilayer></td></tr></tbody></table>
+ <nolayer><iframe src="http://ad.doubleclick.net/adi/dcrm.dart/aboutus;sz=125x125;tile=2;ord=20024511413696E?" width="125" height="125" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/dcrm.dart/aboutus;abr=!ie;sz=125x125;tile=2;ord=20024511413696E?"><IMG SRC="http://ad.doubleclick.net/ad/dcrm.dart/aboutus;abr=!ie;sz=125x125;tile=2;ord=20024511413696E?" border=0 height="125" width="125"></A></iframe></nolayer><table><tbody><tr><td><ilayer id="layer2" visibility="hidden" width="125" height="125"></ilayer></td></tr></tbody></table>
 <!-- end  geting html tag -->
 
 
@@ -625,8 +657,8 @@ document.write(displayDate());
           <li>What identifiable information we gather/track about you on this web site</li>
           <li>What we do with personally identifiable information we gather/track on this web site </li>
           <li>Whether any of your personally identifiable information will be shared with any third party </li>
-          <li>Questions regarding this statement should be directed to the destinationCRM site   
-            coordinator at <a href="mailto:radik@destinationcrm.com"><font color="red">radik@destinationCRM.com</font></a></li>
+          <li>Questions regarding this statement should be directed to the destinationCRM webmaster   
+             <a href="mailto:webmaster@destinationcrm.com"><font color="red">webmaster@destinationcrm.com</font></a></li>
         </font></ul><font face="Arial, Verdana, Helvetica" size="2">
         </font><p><font face="Arial, Verdana, Helvetica" size="2"><br>
         <b>destinationCRM General Privacy Principles</b>&nbsp;<br>
@@ -721,10 +753,10 @@ document.write(displayDate());
         Privacy Policy<br>
          
         destinationCRM.com&nbsp;<br>
-        Freedom Technology Media Group&nbsp;<br>
-        156 West 56th St., Third Floor<br>
-        New York, NY 10019<br>
-        Phone (212) 314-7674<br>
+        Line56 Media<br>
+        10940 Wilshire Blvd.  STE 600<br>
+        Los Angeles, CA 90024<br>
+        Phone (310) 443-4226<br>
         </font></font>&nbsp;&nbsp; </p></td>
       </tr>
     </tbody></table>
@@ -752,10 +784,10 @@ document.write(displayDate());
 </tr>
 
 <tr> 
-<td width="50%" background="/images/dcrm_still5.gif"><b><font face="Arial, Verdana, Helvetica" size="1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;<a href="dcrm_sitemap.asp">Site Map</a>&nbsp; |&nbsp; <a href="dcrm_au_index.asp">About Us</a>&nbsp; |&nbsp; <a href="dcrm_privacy.asp">Privacy
+<td width="50%" background="/images/dcrm_still5.gif"><b><font face="Arial, Verdana, Helvetica" size="1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;<a href="dcrm_sitemap.asp">Site Map</a>&nbsp; |&nbsp; <a href="dcrm_privacy.asp">Privacy
 Policy</a></font></b></td>
-<td width="50%" align="right" background="/images/dcrm_still5.gif"><b><font face="Arial, Verdana, Helvetica" size="1">©2001
-Freedom Technology Media Group</font></b></td> 
+<td width="50%" align="right" background="/images/dcrm_still5.gif"><b><font face="Arial, Verdana, Helvetica" size="1">©2002
+Line56 Media</font></b></td> 
 </tr>
 </tbody></table>
 </div>
@@ -773,7 +805,7 @@ Freedom Technology Media Group</font></b></td>
 
 <td align="center">
 <p align="center">   
- <nolayer><iframe src="http://ad.doubleclick.net/adi/dcrm.dart/aboutus;sz=468x60;tile=3;ord=200112543648C96?" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/dcrm.dart/aboutus;abr=!ie;sz=468x60;tile=3;ord=200112543648C96?"><IMG SRC="http://ad.doubleclick.net/ad/dcrm.dart/aboutus;abr=!ie;sz=468x60;tile=3;ord=200112543648C96?" border=0 height="60" width="468"></A></iframe></nolayer><table><tbody><tr><td><ilayer id="layer3" visibility="hidden" width="468" height="60"></ilayer></td></tr></tbody></table>
+ <nolayer><iframe src="http://ad.doubleclick.net/adi/dcrm.dart/aboutus;sz=468x60;tile=3;ord=20024511413696E?" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/dcrm.dart/aboutus;abr=!ie;sz=468x60;tile=3;ord=20024511413696E?"><IMG SRC="http://ad.doubleclick.net/ad/dcrm.dart/aboutus;abr=!ie;sz=468x60;tile=3;ord=20024511413696E?" border=0 height="60" width="468"></A></iframe></nolayer><table><tbody><tr><td><ilayer id="layer3" visibility="hidden" width="468" height="60"></ilayer></td></tr></tbody></table>
 <!-- end  geting html tag --> 
 
 </p></td>
@@ -787,7 +819,7 @@ Freedom Technology Media Group</font></b></td>
 <!--end dcrm home footer include-->
 
 
-<layer src="http://ad.doubleclick.net/adl/dcrm.dart/aboutus;sz=468x60;tile=1;ord=200112543648C96?" width="468" height="60&quot;" visibility="hidden" onload="moveToAbsolute(layer1.pageX,layer1.pageY);clip.height=60;clip.width=468; visibility='show';"></layer><layer src="http://ad.doubleclick.net/adl/dcrm.dart/aboutus;sz=125x125;tile=2;ord=200112543648C96?" width="125" height="125&quot;" visibility="hidden" onload="moveToAbsolute(layer2.pageX,layer2.pageY);clip.height=125;clip.width=125; visibility='show';"></layer><layer src="http://ad.doubleclick.net/adl/dcrm.dart/aboutus;sz=468x60;tile=3;ord=200112543648C96?" width="468" height="60&quot;" visibility="hidden" onload="moveToAbsolute(layer3.pageX,layer3.pageY);clip.height=60;clip.width=468; visibility='show';"></layer>
+<layer src="http://ad.doubleclick.net/adl/dcrm.dart/aboutus;sz=468x60;tile=1;ord=20024511413696E?" width="468" height="60&quot;" visibility="hidden" onload="moveToAbsolute(layer1.pageX,layer1.pageY);clip.height=60;clip.width=468; visibility='show';"></layer><layer src="http://ad.doubleclick.net/adl/dcrm.dart/aboutus;sz=125x125;tile=2;ord=20024511413696E?" width="125" height="125&quot;" visibility="hidden" onload="moveToAbsolute(layer2.pageX,layer2.pageY);clip.height=125;clip.width=125; visibility='show';"></layer><layer src="http://ad.doubleclick.net/adl/dcrm.dart/aboutus;sz=468x60;tile=3;ord=20024511413696E?" width="468" height="60&quot;" visibility="hidden" onload="moveToAbsolute(layer3.pageX,layer3.pageY);clip.height=60;clip.width=468; visibility='show';"></layer>
 
 
 
