@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedma.org privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604022719id_/http%3A//www.the-dma.org/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedma.org privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216225350id_/http%3A//www.the-dma.org/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,7 +41,7 @@ Persons who supply The DMA with their telephone numbers on-line may receive tele
 
 If you do not wish to receive such telephone calls, please let us know by sending e-mail to us at [ customer@the-dma.org](mailto:customer@the-dma.org?subject=The%20DMA%20Web%20Site%20Privacy%20Policy) or calling us at the above telephone number or writing to us at the above address. Please provide your correct phone number and we will be sure your name is removed from our marketing list and/or the list we share with other organizations. 
 
-Upon request we provide site visitors with access to a description of information that we maintain about visitors to our Web site.  If you wish to access and/or correct specific information we may maintain about you, we will accommodate all reasonable requests. Please contact us via e-mail at [ smcpartland@the-dma.org](mailto:smcpartland@the-dma.org?subject=The%20DMA%20Web%20Site%20Privacy%20Policy) or in writing at the above address. 
+Upon request we provide site visitors with access to a description of information that we maintain about visitors to our Web site.  If you wish to access and/or correct specific information we may maintain about you, we will accommodate all reasonable requests. Please contact us via e-mail at [ customer@the-dma.org](mailto:customer@the-dma.org?subject=The%20DMA%20Web%20Site%20Privacy%20Policy) or in writing at the above address. 
 
 We use industry-standard encryption technologies when transferring and receiving consumer payment data exchanged with our site. We have security measures in place in our physical facilities to protect against the loss, misuse, or alteration of information that we have collected from you at our site. 
 
@@ -49,12 +49,18 @@ If our information practices change in the future, we will use only data collect
 
 When an organization posts a privacy statement on their Web site, they are making a commitment to visitors' privacy.  Of course, The DMA makes every effort to live up to its stated committment to privacy.  However, if you feel that The DMA, or any site, is not living up to its stated information policy, you may contact any of the following resources: 
 
-  * The DMA’s Committee on Ethical Business Practices at pfaley@the-DMA.org;
+  * The DMA’s Committee on Ethical Business Practices at [pfaley@the-dma.org](mailto:pfaley@the-dma.org);
   * State or local chapters of the Better Business Bureau;
   * State or local consumer protection office; or 
-  * The Federal Trade Commission by phone at 202-FTC-HELP (202-382-4357) or electronically at http://www.ftc.gov/ftc/complaint.htm
+  * The Federal Trade Commission by phone at 202-FTC-HELP (202-382-4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>
 
-Companies that wish to create a privacy policy page and post it to their Web site can use [The DMA's Privacy Policy Creation Tool.](http://www.the-dma.org/library/privacy/creating.shtml)   
+
+
+Companies that wish to create a privacy policy page and post it to their Web site can use [The DMA's Privacy Policy Creation Tool.](http://www.the-dma.org/library/privacy/creating.shtml)
+
+You can find more information about privacy issues at The [Privacy Leadership Initiative](http://www.understandingprivacy.org/). The Privacy Leadership Initiative was formed by leaders of a number of different companies and associations who believe that individuals should have a say in how and when their personal information can be used to their benefit.
+
+  
 
 
   [© Direct Marketing Association](http://www.the-dma.org/copyright.shtml) | [Privacy Statement](http://www.the-dma.org/privacy.shtml) | [Disclaimer](http://www.the-dma.org/disclaimer.shtml)
