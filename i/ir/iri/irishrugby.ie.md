@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irishrugby.ie privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209095730id_/http%3A//www.irishrugby.ie/info_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishrugby.ie privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608221324id_/http%3A//www.irishrugby.ie/info_privacy.html) for the most accurate reproduction.*
 
 # Irish Rugby - take it on the full
 
@@ -22,7 +22,7 @@ Technical details in connection with visits to this website are logged by our in
 
 · The type of web browser used by the website user. 
 
-The IRFU will make no attempt to identify individual visitors, or to associate any technical details listed above with any individual. It is the policy of the IRFU never to disclose such technical information in respect of individual website visitors to any third party apart from our internet service provider and suppliers of Product as defined in the [terms and conditions of sale](https://web.archive.org/web/20021209095730id_/http%3A//www.irishrugby.ie/info_terms_sale.html) who are bound by confidentiality provisions in this regard (unless obliged to disclose such information by a rule of law). This technical information will only be used by the IRFU for statistical and other administrative purposes. 
+The IRFU will make no attempt to identify individual visitors, or to associate any technical details listed above with any individual. It is the policy of the IRFU never to disclose such technical information in respect of individual website visitors to any third party apart from our internet service provider and suppliers of Product as defined in the [terms and conditions of sale](https://web.archive.org/web/20030608221324id_/http%3A//www.irishrugby.ie/info_terms_sale.html) who are bound by confidentiality provisions in this regard (unless obliged to disclose such information by a rule of law). This technical information will only be used by the IRFU for statistical and other administrative purposes. 
 
 3\. In order to use this site effectively, you will be asked for information when you register with us. We will require, amongst other things your name, email address and country of residence to register you on the website. In addition, when you purchase an item on the website, we will also require your credit card number. 
 
