@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoner.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607072127id_/http%3A//www.zoner.com/company/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoner.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211122445id_/http%3A//www.zoner.com/company/privacy-policy.asp) for the most accurate reproduction.*
 
 # ZONER.com
 
@@ -14,10 +14,6 @@ Whenever you place an order, download an evaluation, or join a discussion list, 
 **Where do you store my personal information? Can I ask you to remove it?**   
   
 Users receive information from Zoner, either on paper or by e-mail. Every user can, of course, request immediate removal of his/her record from our databases, by sending an e-mail to: [remove@zoner.com](mailto:remove@zoner.com). If, however, you are removed from our database, we can no longer send you information on patches to Zoner applications you own nor on new versions of our programs. If you would like to have your contact information changed, please send us your request at: [register@zoner.com](mailto:register@zoner.com)
-
-**Do you use "cookies"?**   
-  
-Our site does not use "cookies" (information stored about you, for our site, on your computer).
 
 **Is my information secure?**   
   
