@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optimum.net privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204033502id_/http%3A//www.cablevision.com/index.jhtml%3FpageType%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimum.net privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405232137id_/http%3A//www.cablevision.com/index.jhtml%3FpageType%3Dprivacy) for the most accurate reproduction.*
 
 # Cablevision
 
@@ -68,7 +68,7 @@ We may in the future decide to share visitors' personal information collected ov
 
 We may share your personal information with our operational providers or those persons, companies or agents who provide support for the internal operations of the website, such as sweepstakes fulfillment services, maintenance and technical services, and e-commerce contractors ("contract service" and "operational providers"), as necessary to provide our services or carry out our business activities. If you use a credit card for services or features on this website, our contract service or operational providers may share your personal information and credit card number with a ticket agent, a credit card processing and/or a shipping/fulfillment company in order to complete your request. We may also link to other operational providers. These providers often have their own terms of usage agreements and privacy policies. Please be advised that when you leave this website, you will be subject to the privacy policy and terms of usage agreement of the website that you are accessing.
 
-When visitors send an e-mail to us, we may disclose the content of your e-mail to Affiliate Entities or other persons. Please see our [Terms of Usage Agreement](https://web.archive.org/index.jhtml;jsessionid=XTWCNC0M3S0FICQLASDCF3Q?pageType=terms).
+When visitors send an e-mail to us, we may disclose the content of your e-mail to Affiliate Entities or other persons. Please see our [Terms of Usage Agreement](https://web.archive.org/index.jhtml;jsessionid=NLUNIZ5RQHUOYCQLASDCFEQ?pageType=terms).
 
 We may provide aggregate information about our visitors to our advertisers, sponsors, promotional partners and affiliates, such as how many persons visited a particular page or activity, the average age of our visitors on the site or page, or the likes and dislikes of our visitors, but this information does not include personal information about any individual visitor. We may obtain geographic information, such as zip code clustering, online and from other sources, but this aggregate information will not reveal any personal information about a specific visitor.
 
