@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the senegence.com privacy policy that was archived on 2002-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020206051333id_/http%3A//senegence.com/html/Website_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the senegence.com privacy policy that was archived on 2002-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020803021256id_/http%3A//www.senegence.com/html/Website_privacy.html) for the most accurate reproduction.*
 
 # Untitled Document
 
