@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the netnanny.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622175055id_/http%3A//aboutus.looksmart.com/about.jhtml%3Fdir%3Dcorp%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netnanny.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209004538id_/http%3A//aboutus.looksmart.com/about.jhtml%3Fdir%3Dcorp%26page%3Dprivacy) for the most accurate reproduction.*
 
-# None
+# LookSmart About Us - Privacy Policy
 
 June 10, 2004
 
-LookSmart has created this privacy statement in order to demonstrate our firm commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for the following LookSmart sites: [www.looksmart.com](http://www.looksmart.com/) and [listings.looksmart.com](http://listings.looksmart.com/). 
+LookSmart has created this privacy statement in order to demonstrate our firm commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for sites owned or operated by LookSmart. 
 
 The following questions are answered below: 
 
