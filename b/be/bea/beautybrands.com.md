@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautybrands.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618121938id_/http%3A//www.beautybrands.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautybrands.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202023054id_/http%3A//www.beautybrands.com/privacy.html) for the most accurate reproduction.*
 
 # beauty brands
 
@@ -32,26 +32,28 @@ Kansas City, MO 64112
 Email: privacy@bradv.com   
 Phone: 816-531-2266
 
-|  |  |  [](https://web.archive.org/archive/BB_fp.html)
+|  |  |  [](https://web.archive.org/web/20031202023054id_/http%3A//www.beautybrands.com/BB_new.html)  
 
-**Hair-ology 101**  
-The science behind Alterna’s shampoo.
+
+**TRUCCO by Sebastian**  
+arrives at **beauty brands** just in time for the Holidays ($9.48 – $27.98)
 
   
   
 ---  
-[](https://web.archive.org/archive/BB_new.html)
+[](https://web.archive.org/web/20031202023054id_/http%3A//www.beautybrands.com/BB_fp.html)  
+
 
 **be all™**  
-Check out the brand new brand of skincare exclusive to **beauty brands**.
+Buy specially priced be all™ gift set. Includes four 1.7 oz. travel sizes of Shower Gel, Body Lotion, Body Scrub, Bubble Bath and gift bag. Only $9.98
 
   
   
   
-[](https://web.archive.org/archive/BB_fs.html)
+[](https://web.archive.org/web/20031202023054id_/http%3A//www.beautybrands.com/BB_fs.html)
 
-**In Good Hands**  
-The massage therapy experience at **beauty brands**.
+**Give Yourself a Hand**  
+The Manicure at **beauty brands**.
 
   
 
