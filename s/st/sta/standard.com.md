@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the standard.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210064954id_/http%3A//www.stancorpfinancial.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standard.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401133346id_/http%3A//www.stancorpfinancial.com/privacy_policy.html) for the most accurate reproduction.*
 
 # StanCorp Financial Group, Inc. | Privacy Policy
 
