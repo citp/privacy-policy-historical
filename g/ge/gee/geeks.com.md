@@ -1,72 +1,61 @@
-> *The following text is extracted and transformed from the geeks.com privacy policy that was archived on 2003-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030606221915id_/http%3A//geeks.com/aboutus.asp%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geeks.com privacy policy that was archived on 2004-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040617070820id_/http%3A//www.geeks.com/policies.asp) for the most accurate reproduction.*
 
-# Computer Geeks-About Us
-
-* * *
-
-About ComputerGeeks.com 
+# ComputerGeeks.com - Sales, Return, and Privacy Policies
 
 * * *
 
-**Who we are and what we do:**
+ComputerGeeks.com Policies
 
-**ComputerGeeks.com** , headquartered in Oceanside, CA, is a leading direct-to-consumer e-commerce site specializing in providing computer-related excess inventory, manufacturer-closeouts, and high-demand computer components and peripherals at highly-discounted prices to tech-savvy, "Geeky", consumers-- you know who you are!
+* * *
 
-For more information, contact **ComputerGeeks.com:**
+**Sales Policies:**
 
-        1890 Ord Way  
-        Oceanside, CA 92056  
-        760.726.7700 tel  
-        760.726.7723 fax  
-        760.726.7759 technical support and returns
+Sales Tax will be charged on all orders delivered to an address in California (CA)  
+Customer must inspect all goods upon receipt and notify ComputerGeeks.com within 7 business days if any products are missing or damaged.  
+Unless otherwise indicated, products sold with a Manufacturer's/Factory/Direct Warranty may be returned to ComputerGeeks.com within 7 days of receipt for replacement or service under warranty  
+After 7 days following receipt of a product sold with a Manufacturer's/Factory/Direct Warranty, products must be returned directly to the product's maker (or point of contact specified at the time of purchase) for warranty service.  
+Products returned for any reason other than exchange or replacement may be subject to a 15% return fee  
+Shipping fees and/or return shipping costs are not refundable and will not be borne by ComputerGeeks.com  
+After 30 days, only returns of non-working product will be honored; no refunds after 30 days  
+All direct replacements are limited to product availability. If an exact replacement for a returned item is not available, a credit will be issued or the product will be substituted with one of same-or-better specifications  
+Other than Gift Certificates, credits expire 6 months after the date they are issued  
+All products being returned must be issued a Return Materials Authorization (RMA) number by our Technical Support or Customer Service Staff BEFORE they are returned  
+Unauthorized/unmarked returns will not be honored  
+RMA numbers are valid for and products must be returned to ComputerGeeks.com within 30 days of issue  
+To be accepted, all products being returned must be clearly labeled with the assigned RMA number and accompanied with a printed copy of the sales order or invoice  
+Customers must pack any item(s) being returned completely, with all manuals, cables, accessories, software, etc., as if they are new and in working condition  
+Regardless of condition, all products must be packaged appropriately so as not to incur physical damage during return shipping, damaged product(s) will be returned to customer  
+Failure to follow these guidelines will invalidate both the RMA and the warranty  
+ComputerGeeks.com will not be responsible or held liable for any incidental or consequential damages arising from the use of any product(s) it sells  
+Per product descriptions, compatibility can be reasonably assured in most cases but can never be guaranteed; a product that is incompatible in a specific hardware/software environment is not therefore automatically "defective"  
+ComputerGeeks.com reserves the right to refuse service to anyone 
 
-OR, [send us Email.](https://www.compgeeks.com/contactus.asp)
+**Customer Pickup ("Will Call") Policies:**
 
-**ComputerGeeks.com** is entering its sixth year of online operation, and ships over 1,000 individual orders each business day. We own and warehouse all of our inventory-- all products visible on our site are **in stock, ready to ship** ,  and **include a warranty**.
-
-Our website is driven by a sophisticated inventory-management database engine that updates website content in real time.  This means that "what you see is what we've got" for sale at any given time.  Products become invisible and/or marked as "Out of Stock" as they sell out.  Products not listed on our site are not currently available for sale, but that can change at any time!
-
-**ComputerGeeks.com** is your number one source for the hottest deals on the 'Net: 
-
-Don't be a dork... **_Shop @ The Geeks!_**
-
-        
-
-
-  * **ComputerGeeks.com** is committed to offering tremendous savings on computer products, and hosting a Web site providing a depth of value-added content. Our aim is to amuse, inform, and entertain you \-- while providing amazing values -- and to push the envelope of interactive Web functionality and secure online shopping ease... (it never pays to aim low.) 
-
-
-  * This site is your direct link on the Web to the **hottest** deals in the computer industry! We purchase manufacturer excess, overstock, and slightly obsolete inventories in HUGE quantities. This allows us to offer products to you at truly remarkable prices. In the past we operated strictly at the dealer and corporate levels, but we've gone retail, bringing you the benefits and value traditionally available only to large volume commercial buyers.
-
-
-  * We are always glad to receive feedback from visitors -- the best way for us to meet your needs is to know specifically what you want, so please, [ drop us a line.](http://www.computergeeks.com/contactus.asp)
-
-
-  * **Sales Policies:** All sales are final. Sales Tax will be charged to all California residents. All items carry a 90 day warranty unless otherwise noted. Returns of product, other than for exchange or replacement, are subject to a 15% return fee. Shipping fees and/or return shipping costs are Non-Refundable. No returns other than non-working product after 30 days of receipt will be honored. Should a replacement for a returned item not be available, a credit will be issued or the product will be substituted with one of same-or-better specifications. Credits expire 6 months after date of issue. All returned equipment must be issued a Return Merchandise Authorization (RMA) number prior to return shipment. To be accepted, all returned products must be conspicuously labeled with the assigned RMA number and accompanied with a copy of the sales order or invoice. Customer must pack items being returned complete, with all manuals, cables, accessories, etc., as if they were new and working condition. Regardless of condition, products must be packaged appropriately so as not to incur physical damage during return shipping.  Failure to do so may invalidate both the RMA and the warranty. Unauthorized and/or unmarked returns will not be honored. Computer Geeks will not be responsible for incidental or consequential damages arising from the use of any product(s) that it sells. The Computer Geeks Discount Outlet reserves the right to refuse service to anyone.
+Please visit:  _**[ http://www.computergeeks.com/customerpickup.asp](http://www.compgeeks.com/customerpickup.asp)**_
 
   
-**Privacy Policies:** (Last Update: 2 October 2001)
+**Privacy Policies:** (Last Update: 4 September 2003)
 
 **INTRODUCTION**
 
-Computer Geeks is committed to protecting the privacy of our Visitors and Customers. Our privacy policy governs our use of private Visitor information and other information about our Visitors and Customers. Computer Geeks complies with the America Online (AOL) Certified Merchant privacy policy.
+ComputerGeeks.com is committed to protecting the privacy of our Visitors and Customers. Our privacy policy governs our use of private Visitor information and other information about our Visitors and Customers. ComputerGeeks.com complies with the America Online (AOL) Certified Merchant privacy policy.
 
  
 
 **Purpose**
 
-Computer Geeks believes that our online 
+ComputerGeeks.com believes that our online 
 
-[**Visitors**](https://web.archive.org/web/20030606221915id_/http%3A//geeks.com/aboutus.asp#visitors) and [**Customers**](https://web.archive.org/web/20030606221915id_/http%3A//geeks.com/aboutus.asp#customers) need to be provided clear and prominent notice regarding what personal information is being collected about them, how it will be used, whether or not it will be disclosed, and if so, to whom.   
+[**Visitors**](https://web.archive.org/web/20040617070820id_/http%3A//www.geeks.com/aboutus.asp#visitors) and [**Customers**](https://web.archive.org/web/20040617070820id_/http%3A//www.geeks.com/aboutus.asp#customers) need to be provided clear and prominent notice regarding what personal information is being collected about them, how it will be used, whether or not it will be disclosed, and if so, to whom.   
 
 
 Many entities have examined the issue of privacy and developed guidelines for establishing reasonable policies. We believe that by addressing these issues, we will fulfill the goals of fair information use supported by the U.S. government and a variety of industry groups:[www.truste.org](http://www.truste.org/)  
-[www.bbbonline.org](http://www.bbbonline.org/)  
 [www.privacyalliance.org](http://www.privacyalliance.org/)  
 [www.ftc.gov](http://www.ftc.gov/)  
 [www.the-dma.org](http://www.the-dma.org/)
 
-[**The Glossary of Terms**](https://web.archive.org/web/20030606221915id_/http%3A//geeks.com/aboutus.asp#GlossaryofTerms) at the end of this Policy defines words with specific meaning as used in these guidelines.
+[**The Glossary of Terms**](https://web.archive.org/web/20040617070820id_/http%3A//www.geeks.com/aboutus.asp#GlossaryofTerms) at the end of this Policy defines words with specific meaning as used in these guidelines.
 
 **_Privacy Guidelines:_**
 
@@ -76,7 +65,7 @@ We do not use any navigational data about where individuals come from, leave to,
 While we may collect online navigational data about where you go on our Web site, we will not use such information at the individually identifiable level. We may use navigational data in aggregate or compiled statistical form.   
 
 
-We may use Web browser "[ **cookies**](https://web.archive.org/web/20030606221915id_/http%3A//geeks.com/aboutus.asp#cookies)" to track progress through our Web site, but the cookies will not be used to collect or store individually identifiable information nor be linked to other information that allows us to identify an individual. However, we may use cookies with individual identifiers to support visitor enhancements such as AOL member authentication, site personalization, or eCommerce features (like your shopping cart.)  
+We may use Web browser "[ **cookies**](https://web.archive.org/web/20040617070820id_/http%3A//www.geeks.com/aboutus.asp#cookies)" to track progress through our Web site, but the cookies will not be used to collect or store individually identifiable information nor be linked to other information that allows us to identify an individual. However, we may use cookies with individual identifiers to support visitor enhancements such as AOL member authentication, site personalization, or eCommerce features (like your shopping cart.)  
 
 
 **Information Sharing/Disclosure.**
@@ -248,8 +237,8 @@ Oceanside, CA 92056
 
 **Update Information:**
 
-When we did it: 2 October 2001
+When we did it: 4 September 2003
 
-What we did: Updated this Privacy Policies page
+What we did: Moved this Privacy Policy information to the policies.asp page
 
-Why we did it: To include updated, clarifying information about our Privacy Policies, specifically as they relate to disclosure of information to third parties in the process of fulfilling COD orders.
+Why we did it: To remove Sales, Return, and Privacy Policy information from the "About Us" page and make it easier to find.
