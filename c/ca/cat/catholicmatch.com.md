@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the catholicmatch.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205101213id_/http%3A//www.catholicmatch.com/pl/pages/info/privacy.html%3Fra%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catholicmatch.com privacy policy that was archived on 2005-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050321083849id_/http%3A//www.catholicmatch.com/pl/pages/info/privacy_security.html%3Fra%3D1) for the most accurate reproduction.*
 
-# CatholicMatch.com privacy & security: Catholic Singles at Catholic Match
+# privacy & security
 
-**The Information We Collect** CatholicMatch.com is an online singles service designed to provide an easy way for our members to meet each other on the Web. To accomplish this, our members create their own unique profiles which are viewable by other members. In order to do this, we must ask for certain personal information. None of the information we gather can be used by the public (visitors, other members, or anyone not employed by Acolyte, LLC or the financial institutions used to process membership charges) to identify specific individuals.
+**The Information We Collect**   
+CatholicMatch.com is an online singles service designed to provide an easy way for our members to meet each other on the Web. To accomplish this, our members create their own unique profiles which are viewable by other members. In order to do this, we must ask for certain personal information. None of the information we gather can be used by the public (visitors, other members, or anyone not employed by Acolyte, LLC or the financial institutions used to process membership charges) to identify specific individuals.
 
 We are a membership-based service. We collect credit card, address, or bank information only from those who choose to join. Paid members are permitted access to all functionality offered on the site, while members who join for free maybe only browse the site but not contact any other members. All visitors to our site may browse the site and view some articles or features our site has to offer without entering any personal information.
 
-**Information Collected/Tracked by CatholicMatch.com** CatholicMatch.com gathers two types of information: information users submit to us and information not directly submitted by users. 
+**Information Collected/Tracked by CatholicMatch.com**   
+CatholicMatch.com gathers two types of information: information users submit to us and information not directly submitted by users. 
 
 **Information submitted to CatholicMatch.com**   
 There are two types of user-submitted information we collect: Public and Private. We define Public information as personal information that may be displayed on the site, such as gender, age and height, but cannot be linked to a particular user. Private information is defined as any information that allows others to contact a user other than through CatholicMatch.com or allows the collection of information about the user other than what is displayed on the site. 
