@@ -1,16 +1,33 @@
-> *The following text is extracted and transformed from the vitalchek.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205223552id_/http%3A//www.vitalchek.com/_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitalchek.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601211153id_/http%3A//www.vitalchek.com/_privacy.asp) for the most accurate reproduction.*
 
 # VitalChek's Privacy Policy
 
-  
-  
-|  [](http://www.enetwizard.com/)  
+|   
 ---  
-VitalChek accepts the following credit cards:  
+  |   
   
-[]()
+  
+  
+  
+---  
+  |   
+  
+  
+  
+[](http://www.choicepoint.com/)  
+---  
+  
 
-[]()  
+
+Need to locate friends and family members?  
+**Ultimate People Finder**  
+[ **KnowX.com**](http://www.knowx.com/servlet/com.kx.shared.util.ClickMan?site=1&clickid=55450815226118146&mode=2&desturl=http%3a%2f%2fwww%2eknowx%2ecom%2finfoam%2eexe%3fform%3dpf%2fsearch%2ehtm%26userid%3dguest%26password%3dwelcome)  
+  
+  
+  
+  
+  
+VitalChek accepts the following credit cards:  
   
 | 
 
