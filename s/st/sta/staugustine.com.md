@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the staugustine.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206183900id_/http%3A//staugustine.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staugustine.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603053436id_/http%3A//staugustine.com/privacy.shtml) for the most accurate reproduction.*
 
 # staugustine.com - Privacy Policy
 
-**staugustine.com Privacy Policy**
+**staugustine.com Privacy Policy and Terms of Use**
 
 staugustine.com is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the Web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At staugustine.com, we intend to give you as much control as possible over your personal information. 
 
@@ -61,4 +61,8 @@ At any time while assessing our site(s), any user while online may "opt-out" of 
 
 **VII. Use of Materials**
 
-The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at [rcurley@morris.com](mailto:rcurley@morris.com) or at [stevec@staugustinerecord.com](mailto:stevec@staugustinerecord.com). 
+The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at [director@staugustine.com](mailto:director@staugustine.com)
+
+**VIII. Corrections Policy** staugustine.com strives to maintain story accuracy by making corrections to archived stories. Whenever The Record publishes a correction in its print edition, staugustine.com makes an immediate correction to the online version of the story. We encourage readers to inform us whenever a correction is required. Corrections should be emailed to [record@staugustine.com](mailto:record@staugustine.com). 
+
+Though efforts are made to assure the correctness of information on linked websites, staugustine.com is not responsible for correcting information on other websites. 
