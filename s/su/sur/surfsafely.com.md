@@ -1,11 +1,15 @@
-> *The following text is extracted and transformed from the surfsafely.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204213000id_/http%3A//surfsafely.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfsafely.com privacy policy that was archived on 2001-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010619121755id_/http%3A//surfsafely.com/privacy.html) for the most accurate reproduction.*
 
-# SurfSafely.com - Privacy Policy
+# Surfsafely.com - Family Friendly Search Engine, Privacy Policy
 
-When a web page is submitted to **SURFSAFELY.COM** , information from the site is collected including contact info with email addresses. If no email address is found on the page, webmaster@domainname is added to our database. Unsuccessful attempts at page submission are logged separately.
+**Privacy Policy**
 
-We do not and will not knowingly resell or share with any other entity any personal information which may be collected by site submission to this web index. However, **SURFSAFELY.COM** can not control the harvesting of email addresses or other personal information by third parties from pages which may be indexed here.
+When a web page is submitted for addition to the **SURFSAFELY.COM** index, specific information is collected from that page including contact information with email address if found. If no email address is found on the page, webmaster@domainname is used by default.
 
-Cookies are used at **SURFSAFELY.COM** solely for the purpose of determining the date of first visit. No personally identifiable information is collected by our use of cookies. However, since we have no control over them, while we try to set a good example we can not guarantee that advertisers whose banners may appear here will adhere to the same high ethical standards we set for ourselves. As such, **SURFSAFELY.COM** assumes no responsibility for any damages whatsoever resulting from a click-through to an advertisers site via any banner seen here.
+Personally identifiable information supplied in communications to us in order that we may reply are used solely for that purpose. Our free email newsletter is opt-in only. Reliable means are provided to opt in or out of our regular mailings at any time. **SURFSAFELY.COM** can not control the harvesting of email addresses or other personally identifiable information by third parties from pages which may be indexed here, has no control over how that information might be used by third parties should this occur and assumes no liability for any damages whatsoever resulting from this type of privacy breach. Owners are solely responsible for their own content.
+
+Activity to this site is monitored closely and recorded. We do not and will not knowingly resell or share with any other entity personally identifiable information collected by this site. We may, however, share aggregate data with affiliates and partner sites for the purpose of improving the quality of service for our users.
+
+Cookies are used at **SURFSAFELY.COM** for the purpose of determining the date of first visit. No personally identifiable information is collected by our use of cookies.
 
 For additional information, disclaimer of warranties and limitation of liability, please see our complete [**Terms Of Use**](https://web.archive.org/terms.html).
