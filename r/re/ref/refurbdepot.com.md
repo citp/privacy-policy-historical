@@ -1,0 +1,18 @@
+> *The following text is extracted and transformed from the refurbdepot.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604021437id_/http%3A//refurbdepot.com/privacypolicy.cfm) for the most accurate reproduction.*
+
+# RefurbDepot.COM - Privacy Policy
+
+**_ PRIVACY POLICY _**
+
+At RefurbDepot.com, we are committed to protecting your privacy online. Your Private Information will never be disclosed to anyone and will be used only to process your order and to provide a more personalized shopping experience.  Our shopping cart is therefore registered with Verisign Inc., thereby encrypting all personal information submitted to us.  Once received, the information is held in strict confidence. It will not be transferred to any mailing lists.
+
+When you shop on our site, we collect personal information from you such as your name, e-mail address, billing address, shipping address, telephone number, product selections, credit card or other payment information. We may also store the website or the URL you came from, domain types (e.g. .com or .org, etc.), your browser type, the country, state and telephone area code where  your server is located, and pages  of our site that were viewed during your visit.
+
+We do not sell or rent your personal information to others. We use customer information we collect only for the purpose of filling orders, contacting purchaser to inform them of their order status, sending promotional information, enhancing the operation of our site, for statistical purposes and to administer our system.  We may use third parties to help us fulfill orders, to help process payments, to provide customer service, to service site content, to help administer promotional emails, to administer warranties purchased.  We give them access to the information needed to complete their job.  Sometimes that includes a portion of your personal information. Our computer systems protect personal information using advanced secure server technology (SSL).
+
+We use cookies to help identify you when you visit our store and to customize your experience. The cookie contains a randomly assigned user identification number, the country where you are located, and we may track where you came from, and how you browse our site.  The cookies make your use of the site easier, make the site run more smoothly and help us to maintain a secure site.  You will be unable to shop on our site without your browser set to accept cookies.  We do not disclose your personal account information or any information about your purchases to anyone.
+
+For questions or feedbacks about this privacy statement or practices of this site, contact us via e-mail at [ customerservice@refurbdepot.com](mailto:customerservice@refurbdepot.com). 
+
+  
+
