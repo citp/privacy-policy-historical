@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buyitsellit.com privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613100908id_/http%3A//buyitsellit.com/newbuyitsellit/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyitsellit.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212144912id_/http%3A//buyitsellit.com/newbuyitsellit/corp/privacy.html) for the most accurate reproduction.*
 
-# BuyItSellIt.com: Free Auctions and Classifieds
+# BuyItSellIt.com Auctions and Classifieds: Don't Pay Unless You Sell!
 
   
   
