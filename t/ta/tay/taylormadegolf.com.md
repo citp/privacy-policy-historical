@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the taylormadegolf.com privacy policy that was archived on 2001-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010408092921id_/http%3A//www.taylormadegolf.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taylormadegolf.com privacy policy that was archived on 2001-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011006041230id_/http%3A//www.taylormadegolf.com/about/privacy.asp) for the most accurate reproduction.*
 
 # T A Y L O R M A D E
 
 |  | 
 
-[](https://web.archive.org/web/20010408092921id_/http%3A//www.taylormadegolf.com/about/index.asp)  
+[](https://web.archive.org/web/20011006041230id_/http%3A//www.taylormadegolf.com/about/index.asp)  
 
 
 | 
