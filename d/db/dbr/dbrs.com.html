@@ -1,0 +1,270 @@
+<!--The following is the downloaded HTML source of the dbrs.com privacy policy that was archived on 2005-04-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050405195855id_/http%3A//www.dbrs.com/web/jsp/pub_privacy.jsp) for the most accurate reproduction.-->
+
+<html><head>
+<title>DBRS Policy for Clients of dbrs.com</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="http://www.dbrs.com/web/css/main.css">
+<script language="JavaScript" src="http://www.dbrs.com/web/js/rbs.js"></script>
+<script language="JavaScript" src="http://www.dbrs.com/web/js/nav_scripts.js"></script>
+<script language="JavaScript" src="http://www.dbrs.com/web/js/ns_force_submit.js"></script>
+</head>
+<body bgcolor="#FFFFFF" link="#003366" vlink="#333333" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="dbrsLoad('public'); set_up_textfields();">
+<span class="newssechead"></span>
+<a name="top"></a>
+<!--pub_navtop_v03-->
+
+
+
+
+
+
+
+<script language="JavaScript" type="text/javascript" src="http://www.dbrs.com/web/js/popup_win.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://www.dbrs.com/web/js/tickerlookup_caller.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://www.dbrs.com/web/js/dropdown.js"></script>
+
+<script language="JavaScript" type="text/javascript">
+/*
+ * 30-MAY-2002 DTW Bug#11: redirect to the appropriate search use case handler
+ * depending on which search type selected
+ */
+function submitForm(form) {
+   if (document.quicksearch.SearchType[0].checked) {
+      // search ratings
+      form.action="sentry?COMP=650&rt=1";
+   } else {
+      // search documents
+      form.action="sentry?COMP=1700&type=QuickSearch";
+   }
+   return true;
+}
+
+/* 04-APR-2002 - DTW bug 129
+ * javascript functionality added to redirect to the appropriate search depending on which
+ * option has been selected
+ */
+
+function advancedSearch() {
+   if (document.quicksearch.SearchType[0].checked) {
+      location.href="http://www.dbrs.com/web/sentry?COMP=650&SRCH=100";
+   } else {
+      location.href="http://www.dbrs.com/web/sentry?COMP=1700&SRCH=100";
+   }
+   return true;
+}
+
+var isDocSet = false;
+
+/*
+ * 11-JUNE-2002 DTW Bug#11: disable and enable search by (Issuer or Ticker)
+ * according to the search type.  Issuer or Ticker is not applicable to document
+ * search.
+ */
+function setSearchBy(searchRatings, searchBy) {
+   for (i = 0; i < searchBy.length; i++)
+      searchBy[i].disabled = !searchRatings;
+}
+
+</script>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td valign="bottom"><img src="http://www.dbrs.com/web/images/4X4_shim.gif" width="598" height="1" alt=""></td>
+    <td valign="top"><img src="http://www.dbrs.com/web/images/4X4_shim.gif" width="162" height="1" alt=""></td>
+  </tr>
+  <tr>
+    <td valign="bottom"><img src="http://www.dbrs.com/web/images/4X4_shim.gif" width="65" height="4" alt=""><a href="http://www.dbrs.com/web/sentry?COMP=400"><img src="http://www.dbrs.com/web/images/dbrs_logo.gif" width="275" height="52" border="0" alt="Dominion Bond Rating Service"></a></td>
+    <td valign="top" rowspan="2">
+      <table width="164" border="0" cellspacing="0" cellpadding="1" bgcolor="#666666">
+        <tbody><tr>
+          <td>
+            <table width="162" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+              <tbody><tr bgcolor="#666666">
+                <td colspan="2"><img src="http://www.dbrs.com/web/images/quick_search_head.gif" width="162" height="16" alt="Advanced Search"></td>
+              </tr>
+              <tr>
+                <td colspan="2" valign="top">
+                  <table width="162" cellpadding="1">
+                    <tbody><tr valign="bottom">
+                       <form method="post" action="" onsubmit="submitForm(this);" name="quicksearch"></form>
+                        <td align="right"><span class="smallcopy">Search:</span></td>
+                        <td><input type="radio" name="SearchType" value="Ratings" checked="" onclick="setSearchBy(true, document.quicksearch.SearchBy); isDocSet=true;"><span class="smallcopy">Ratings</span></td>
+                        <td><input type="radio" name="SearchType" value="Docs" onclick="setSearchBy(false, document.quicksearch.SearchBy); isDocSet=false;"><span class="smallcopy">Docs</span><span class="smallcopy"></span></td>
+                      </tr>
+                      <tr valign="bottom">
+                         <td align="right"><span class="smallcopy">By:</span></td>
+                         <td><input type="radio" name="SearchBy" value="Issuer" checked=""><span class="smallcopy">Issuer</span></td>
+                         <td><input type="radio" name="SearchBy" value="Ticker"><span class="smallcopy">Ticker</span><span class="smallcopy"></span></td>
+                      </tr>
+                      <tr valign="top">
+                         <td colspan="3"><input type="text" name="SearchText" size="12">
+                          <input type="image" border="0" name="imageField" src="http://www.dbrs.com/web/images/go_btn.gif" width="19" height="16" align="absmiddle">
+                         </td>
+                      </tr>
+                      <tr valign="top">
+                         <td colspan="3">
+                             <span class="smallcopy"><b><a href="javascript:;" onclick="displayField=1;callTickerLookup('textfield',document.quicksearch.SearchText, '', 0, document.quicksearch.SearchBy[1])">Ticker Lookup</a></b></span>
+                         </td>
+                    
+                      </tr>
+                    <!--end quick search-->
+                  </tbody></table>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+  <tr bgcolor="#000000">
+    <td width="100%" align="left"><a href="http://www.dbrs.com/web/jsp/pub_about.jsp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('about','','http://www.dbrs.com/web/images/nav_about_btn_f2.gif',1)"><img src="http://www.dbrs.com/web/images/nav_about_btn.gif" width="79" height="16" border="0" alt="About DBRS" name="about"></a><a href="http://www.dbrs.com/web/sentry?COMP=1000" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('methodology','','http://www.dbrs.com/web/images/nav_method_btn_f2.gif',1)"><img src="http://www.dbrs.com/web/images/nav_method_btn.gif" width="83" height="16" border="0" alt="Methodology" name="methodology"></a><a href="http://www.dbrs.com/web/jsp/pub_ratingscale.jsp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('ratingscale','','http://www.dbrs.com/web/images/nav_ratingscale_btn_f2.gif',1)"><img src="http://www.dbrs.com/web/images/nav_ratingscale_btn.gif" width="81" height="16" border="0" alt="Rating Scale" name="ratingscale"></a><a href="http://www.dbrs.com/web/jsp/pub_contact.jsp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('contact','','http://www.dbrs.com/web/images/nav_contact_btn_f2.gif',1)"><img src="http://www.dbrs.com/web/images/nav_contact_btn.gif" width="79" height="16" border="0" alt="Contact Us" name="contact"></a></td>
+	 <!-- <td align="right" width="164"><a href="http://www.dbrs.com/web/sentry?COMP=1700&amp;SRCH=100" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('roll_docsearch','','http://www.dbrs.com/web/images/nav_doc_search_btn_f2.gif',1)"><img src="http://www.dbrs.com/web/images/nav_doc_search_btn.gif" width="164" height="16" name="roll_docsearch" border="0" alt="Document Search"></a></td> -->
+  </tr>
+  <tr>
+	
+    <td background="http://www.dbrs.com/web/images/pub_nav_bg.gif"><a href="http://www.dbrs.com/web/sentry?COMP=400" onmouseout="MT_SwapImage('home', 'http://www.dbrs.com/web/images/pub_nav_home_off.gif')" onmouseover="MM_swapImage('home','','http://www.dbrs.com/web/images/pub_nav_home_over.gif',1)"><img src="http://www.dbrs.com/web/images/pub_nav_home_off.gif" width="53" height="22" name="home" border="0" alt="Home"></a><a href="#" onmouseout="MT_SwapImage('reports', 'http://www.dbrs.com/web/images/pub_nav_res_off.gif');" onmouseover="menus[0].showMenu(); MT_SwapImage('reports','http://www.dbrs.com/web/images/pub_nav_res_over.gif')"><img src="http://www.dbrs.com/web/images/pub_nav_res_off.gif" width="69" height="22" name="reports" border="0" alt="Reports"></a><a href="#" onmouseout="MT_SwapImage('index', 'http://www.dbrs.com/web/images/pub_nav_index_off.gif');" onmouseover="menus[1].showMenu(); MT_SwapImage('index','http://www.dbrs.com/web/images/pub_nav_index_over.gif')"><img src="http://www.dbrs.com/web/images/pub_nav_index_off.gif" width="68" height="22" border="0" name="index" alt="Indexes"></a><a href="http://www.dbrs.com/web/sentry?COMP=5300" onmouseout="MT_SwapImage('recreading', 'http://www.dbrs.com/web/images/pub_nav_recread_off.gif');" onmouseover="MT_SwapImage('recreading','http://www.dbrs.com/web/images/pub_nav_recread_over.gif')"><img src="http://www.dbrs.com/web/images/pub_nav_recread_off.gif" width="158" height="22" border="0" name="recreading" alt="Recommended Reading"></a><a href="http://www.dbrs.com/web/sentry?COMP=6300" onmouseout="MT_SwapImage('incometrust', 'http://www.dbrs.com/web/images/pub_nav_inct_off.gif');" onmouseover="MT_SwapImage('incometrust','http://www.dbrs.com/web/images/pub_nav_inct_over.gif')"><img src="http://www.dbrs.com/web/images/pub_nav_inct_off.gif" width="100" height="22" border="0" name="incometrust" alt="Income Fund"></a><img src="http://www.dbrs.com/web/images/pub_nav_left_edge.gif" height="22" width="4" border="0" alt=""></td>
+
+      <td background="http://www.dbrs.com/web/images/pub_home_navline.gif" align="right"><div align="right"><a href="javascript: advancedSearch();" onmouseout="changeImages('advancedsearch', 'http://www.dbrs.com/web/images/nav_advancedsearch_off.gif');" onmouseover="changeImages('advancedsearch', 'http://www.dbrs.com/web/images/nav_advancedsearch_on.gif')"><img src="http://www.dbrs.com/web/images/nav_advancedsearch_off.gif" border="0" name="advancedsearch" alt="Advanced Search"></a></div></td>
+  </tr>
+</tbody></table>
+
+<script language="JavaScript">
+   var reportsPosx = 53;
+   var indexPosx   = 122;
+
+   var indexPosy   = (ns)?142:137;
+   var reportsPosy = (ns)?142:137;
+
+  
+   menus[0] = new Menu(0, reportsPosx, reportsPosy, 90, 1, 16, "#000000", "Arial, Verdana, Sans-Serif", 11);
+   menus[0].addOp("Press Releases", "http://www.dbrs.com/web/sentry?COMP=5900&doclisttype=1000010&region=All&Page=1", "#CCCCCC", "#000000", "#003366", "#FFFFFF");
+   menus[0].addOp("Rating Reports", "http://www.dbrs.com/web/sentry?COMP=5900&doclisttype=1000011&region=All&Page=1", "#CCCCCC", "#000000", "#003366", "#FFFFFF");
+   menus[0].printMenu();
+
+ 
+  
+   menus[1] = new Menu(1, indexPosx, indexPosy, 110, 1, 16, "#003366", "Arial, Verdana, Sans-Serif", 11);
+   menus[1].addOp("Full Index", "http://www.dbrs.com/web/sentry?COMP=1600&IndexTypeID=40", "#CCCCCC", "#000000", "#003366", "#FFFFFF");
+   menus[1].addOp("Bond Only", "http://www.dbrs.com/web/sentry?COMP=1600&IndexTypeID=80", "#CCCCCC", "#000000", "#003366", "#FFFFFF");
+   menus[1].addOp("CP Only", "http://www.dbrs.com/web/sentry?COMP=1600&IndexTypeID=81", "#CCCCCC", "#000000", "#003366", "#FFFFFF");
+   menus[1].addOp("Benchmark", "http://www.dbrs.com/web/sentry?COMP=1600&IndexTypeID=77", "#CCCCCC", "#000000", "#003366", "#FFFFFF");
+   menus[1].addOp("Income Fund", "http://www.dbrs.com/web/sentry?COMP=1600&IndexTypeID=82", "#CCCCCC", "#000000", "#003366", "#FFFFFF");
+   menus[1].addOp("Preferred Shares", "http://www.dbrs.com/web/sentry?COMP=1600&IndexTypeID=83", "#CCCCCC", "#000000", "#003366", "#FFFFFF");
+   menus[1].printMenu();
+</script>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td valign="top"><img src="http://www.dbrs.com/web/images/side_bar_image_01.jpg" width="158" height="105"><br>
+      <!--#include virtual="/jsp/pub_navleft.jsp" -->
+      
+
+<!--priv_navleft v02-->
+<table width="158" border="0" cellspacing="0" cellpadding="1" bgcolor="#6699CC">
+  <tbody><tr valign="top">
+    <td>
+      <table width="156" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+        <tbody><tr>
+          <td colspan="2"><img src="http://www.dbrs.com/web/images/pub_login.gif" width="156" height="21" alt="Login to My DBRS"></td>
+        </tr>
+<!--start login-->
+        <form method="post" action="https://www.dbrs.com/web/sentry" name="login"></form>
+        <input name="X" type="HIDDEN" value="1">
+		<input name="FROMPAGE" type="HIDDEN" value="pub_navleft.jsp">
+		<input name="COMP" type="HIDDEN" value="100">
+          <tr>
+            <td rowspan="6" width="10"><img src="http://www.dbrs.com/web/images/4X4_shim.gif" width="10" height="4" alt=""></td>
+            <td width="146">
+              <p class="smallcopy">Enter your username.</p>
+            </td>
+          </tr>
+          <tr>
+            <td width="146">
+              <input type="text" name="USERNAME" size="12">
+            </td>
+          </tr>
+          <tr>
+            <td width="146">
+              <p class="smallcopy">Enter your password.</p>
+            </td>
+          </tr>
+          <tr>
+            <td width="146">
+              <input type="password" name="PASSWORD" size="12">
+              <input type="image" src="http://www.dbrs.com/web/images/login_btn.gif" width="31" height="16" align="absmiddle" border="0" name="login" alt="Login">
+            </td>
+          </tr>
+          <tr>
+            <td width="146">
+              <p class="smallcopy"><a href="mailto:info@dbrs.com?subject='forgot my dbrs password'">Forgot your password?</a></p>
+            </td>
+          </tr>
+          <tr>
+            <td valign="middle" width="146">
+              <hr noshade="" align="left" size="1" width="95%">
+              <p><span class="callout">To request a subscription or, for more
+                information, please <a href="http://www.dbrs.com/web/jsp/pub_contact.jsp?CATEGORY=Subscription Inquiry">contact DBRS</a></span></p>
+              <p>&nbsp;</p>
+            </td>
+          </tr>
+        
+<!--end login-->
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+</td>
+    <td valign="top" align="left" width="100%" rowspan="2">
+
+
+<table width="100%" cellspacing="0" cellpadding="8" height="0%" border="0">
+  <tbody><tr valign="top">
+    <td>
+<h1>Privacy Policy</h1>
+
+<p>Dominion Bond Rating Service (DBRS) is committed to protecting the privacy of its employees and clients.  We recognize the need to respect and protect the personal identifiable information that is disclosed to us.  As such, we have established a privacy policy which is structured around the guidelines laid out by the Personal Information Protection and Electronic Documents Act (PIPEDA).  Personal information includes any factual or subjective information about an identifiable individual.  It does not include the name, title, business address, or telephone number of an employee of an organization.</p>
+
+<p>Our website, www.dbrs.com, collects data provided by your account administrator, as well as automatically through the use of "cookie" technology.  Examples of types of information that may be collected automatically is registration information (e.g. user name and password), user preference data (e.g. a preference to track a particular industry), and page hit counts.  User preferences and usage statistics fall under the classification of personal information.</p>
+
+<p>The information we gather is used to enhance your visit to www.dbrs.com, and to enable us to tailor our services to your needs. For instance, DBRS uses personal information to administer subscriptions; to send you e-mail alerts based on your chosen industries or companies; to customize page content; to allocate resources to provide research on popular topics; and to keep you informed of research materials and conferences that may be of interest to you.</p>
+
+<p>DBRS does not sell or share any personal information you provide to us through www.dbrs.com, or any other means.  The information we collect is used solely for internal purposes, some of which are mentioned above.</p>
+
+<p>You may view/edit your user preferences at any time by going to <a href="https://www.dbrs.com/web/sentry?COMP=2100&amp;X=1">My Settings</a> on the website.  To provide an optimal level of service to you, DBRS's goal is to maintain accurate and up to date personal information.   Should you wish to access and/or update your contact information, or to communicate any questions or concerns to us, please contact Client Services at <a href"mailto:info@dbrs.com"="">info@dbrs.com.</a></p>
+
+<p>If you have any questions/concerns regarding DBRS's privacy practices, DBRS's Privacy Officer can be contacted directly at <a href="mailto:privacy@dbrs.com">privacy@dbrs.com.</a></p>
+
+      <p><a href="#">Top</a></p>
+   </td>
+  </tr>
+  </tbody></table>
+    </td>
+  </tr>
+  <tr>
+  </tr>
+</tbody></table>
+<!--#include virtual="/html/pub_footer.html" -->
+
+<!--footer_v01 -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="8"><img src="http://www.dbrs.com/web/images/4X4_shim.gif" width="8" height="4"></td>
+	<td width="152"><img src="http://www.dbrs.com/web/images/4X4_shim.gif" width="152" height="4"></td>
+    <td width="100%">
+    <span class="footer">* Access to documents are available
+      to subscribers only. If you are interested in a subscription please <b><a href="http://www.dbrs.com/web/jsp/pub_contact.jsp">Contact
+      Us</a>.</b></span>
+	</td></tr><tr>
+	<td width="8"><img src="http://www.dbrs.com/web/images/4X4_shim.gif" width="8" height="4"></td>
+	<td colspan="2">
+      <hr noshade="" size="1">
+      <span class="footer">© 2005 Dominion Bond Rating Service |
+      <b><a href="http://www.dbrs.com/web/jsp/pub_terms.jsp">Terms of Use</a> | <a href="http://www.dbrs.com/web/jsp/pub_privacy.jsp">Privacy Policy</a> | <a href="http://www.dbrs.com/web/jsp/pub_disclaimer.jsp">Disclaimer</a> | <a href="http://www.dbrs.com/web/jsp/pub_about.jsp">About DBRS</a> | <a href="http://www.dbrs.com/web/jsp/pub_contact.jsp">Contact</a> | </b></span></td>
+    <td width="8"><img src="http://www.dbrs.com/web/images/4X4_shim.gif" width="8" height="4"></td>
+  </tr>
+</tbody></table>
+
+
+
+</body></html>
