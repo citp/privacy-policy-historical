@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the joblo.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603050313id_/http%3A//www.joblo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joblo.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212081316id_/http%3A//joblo.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for JoBlo's Movie Emporium
 
-[Home](http://www.joblo.com/index.htm) \- [Reviews](http://www.joblo.com/jobloalphabetical.htm) \- [Trailers](http://www.joblo.com/movietrailers.htm) \- [Screensavers](http://www.joblo.com/moviescreensavers.htm) \- [DVD Clinic](http://www.joblo.com/dvd/) \- [Trivia Quizzes](http://www.joblo.com/indianasev.htm) \- [Movie Malls](http://www.moviemalls.com/) \- [News](http://www.joblo.com/movienews.htm)  
-[Release Dates](http://www.joblo.com/comingsoon.htm) \- [Celebrity Savers](http://www.joblo.com/moviestarscreensavers.htm) \- [Wallpapers](http://www.joblo.com/moviewallpapers.htm) \- [Scripts](http://www.joblo.com/moviescripts.htm) \- [Games](http://www.joblo.com/moviegames.htm) \- [Discussion Board](http://www.joblo.com/ubb/index.shtml)[  
-Arrow in the Head](http://www.joblo.com/arrow/index.htm) \- [Box-Office](http://www.joblo.com/box-office.htm) \- [Links](http://www.joblo.com/links.htm) \- [The Schmoes](http://www.joblo.com/jobloschmoes.htm) \- [Interviews](http://www.joblo.com/interviews.htm) \- [Contact Us](http://www.joblo.com/contactus.htm)
+[Home](https://web.archive.org/index.htm) \- [Reviews](https://web.archive.org/jobloalphabetical.htm) \- [Trailers](https://web.archive.org/movietrailers.htm) \- [Screensavers](https://web.archive.org/moviescreensavers.htm) \- [DVD Clinic](https://web.archive.org/dvd/) \- [Trivia Quizzes](https://web.archive.org/indianasev.htm) \- [Movie Malls](http://www.moviemalls.com/) \- [News](https://web.archive.org/movienews.htm)  
+[Release Dates](https://web.archive.org/comingsoon.htm) \- [Celebrity Savers](https://web.archive.org/moviestarscreensavers.htm) \- [Wallpapers](https://web.archive.org/moviewallpapers.htm) \- [Scripts](https://web.archive.org/moviescripts.htm) \- [Games](https://web.archive.org/moviegames.htm) \- [Discussion Board](https://web.archive.org/ubb/index.shtml)[  
+Arrow in the Head](https://web.archive.org/arrow/index.htm) \- [Box-Office](https://web.archive.org/box-office.htm) \- [Links](https://web.archive.org/links.htm) \- [The Schmoes](https://web.archive.org/jobloschmoes.htm) \- [Interviews](https://web.archive.org/interviews.htm) \- [Contact Us](https://web.archive.org/contactus.htm)
 
 **Privacy Statement for JoBlo's Movie Emporium**
 
