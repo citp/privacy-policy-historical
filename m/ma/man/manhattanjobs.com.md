@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manhattanjobs.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607211054id_/http%3A//www.manhattanjobs.com/MKT/Content/JS/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manhattanjobs.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010180835id_/http%3A//manhattanjobs.com/MKT/Content/JS/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # New York City jobs. Manhattan jobs. Careers or jobs in New York. Jobs in NYC. ManhattanJobs.com
 
