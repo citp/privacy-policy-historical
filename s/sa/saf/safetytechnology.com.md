@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safetytechnology.com privacy policy that was archived on 2000-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001212011300id_/http%3A//safetytechnology.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safetytechnology.com privacy policy that was archived on 2001-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010330190923id_/http%3A//safetytechnology.com/privacy.htm) for the most accurate reproduction.*
 
 # Mace Muzzle canine repellent wholesale
 
