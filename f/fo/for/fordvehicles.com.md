@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fordvehicles.com privacy policy that was archived on 2003-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031004181831id_/http%3A//fordvehicles.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fordvehicles.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609173140id_/http%3A//fordvehicles.com/help/privacy) for the most accurate reproduction.*
 
 # Ford Vehicles: Help - Privacy
 
@@ -7,11 +7,9 @@ The cornerstone of every relationship is built on trust. When you consider purch
 
 **Our Pledge**
 
-  * We will never share your personal information with non-affiliated third parties.
-
-
-
+  * We will never share your personal information with non-affiliated third parties.  
 When we refer to **non-affiliated third parties** we mean organizations outside of Ford Motor Company with whom we do not have an association. For example, many of our promotions for sweepstakes and giveaways are made possible by marketing partnerships and alliances with companies whose customers have like interests as those customers who drive Ford vehicles. Our partnerships with Harley-Davidson® and the Country Music Hall of Fame and Museum are examples of **"affiliated" third parties** with whom we may share information, but only if we have your permission to do so, and only with that specific sponsor. Local Ford dealers are another example of "affiliated" third parties we may share your data with. Finally, we may share your data with companies who provide data handling or other services to us, but such companies will be contractually bound not to use your information except for the purposes of our contract with them. 
+
 
   * We will never knowingly collect data from persons under 13 years or age. 
 
@@ -22,6 +20,7 @@ When we refer to **non-affiliated third parties** we mean organizations outside 
     Normal Web Site Usage   
     Session Logs   
     Cookies   
+    Transparent GIF Files   
     How to Prevent Cookies   
     Detecting Your System's Performance Level   
     Personal Information   
@@ -48,24 +47,24 @@ Another method of tracking web site visitors is through the use of "Cookies." Co
 
 Important Cookie Facts: 
 
-  * Only the information that you provide, or the choices you make while visiting a Web site, can be stored in a cookie. For example, the site cannot determine your name or e-mail address unless you choose to enter it into a pre-existing input box.
-  * Allowing a Web site to create a cookie does not give that site or any other site access to the rest of your computer.
-  * Cookies cannot roam around inside your computer and collect personal information.
-  * Only the site that created the cookie can read it.
+  * Only the information that you provide, or the choices you make while visiting a Web site, can be stored in a cookie. For example, the site cannot determine your name or e-mail address unless you choose to enter it into a pre-existing input box. 
+  * Allowing a Web site to create a cookie does not give that site or any other site access to the rest of your computer. 
+  * Cookies cannot roam around inside your computer and collect personal information. 
+  * Only the site that created the cookie can read it. 
 
 
 
 There are two types of cookies: 
 
-  * The first type, a session cookie, only stays in your computer during the time you are logged into a particular site. When you leave the site, the cookie automatically deletes itself.
-  * The other type, called a persistent cookie, can have an indefinite shelf life or have a predetermined expiration date built in. These types of cookies are primarily used to remember you for a specified period of time. For instance, if you sign up for membership in a club, or enter a sweepstakes that requires you to participate over a length of time, persistent cookies are used to remember you. Another example is with web sites that offer the ability to personalize the way the page is displayed.
+  * The first type, a session cookie, only stays in your computer during the time you are logged into a particular site. When you leave the site, the cookie automatically deletes itself. 
+  * The other type, called a persistent cookie, can have an indefinite shelf life or have a predetermined expiration date built in. These types of cookies are primarily used to remember you for a specified period of time. For instance, if you sign up for membership in a club, or enter a sweepstakes that requires you to participate over a length of time, persistent cookies are used to remember you. Another example is with web sites that offer the ability to personalize the way the page is displayed. 
 
 
 
 **Ford Division Cookie Examples:**   
 Password Protected Areas: 
 
-  * In the Ford Division web site, we use both types of cookies. For instance, if an area of our site is password protected, and you select a check box asking us to "remember" your password, that information is stored in cookie form on your hard drive. If you don't select the checkbox no cookie is created and you would have to log in to the password protected area the next time you visited. So in this case, cookies help us serve information to you faster.
+  * In the Ford Division web site, we use both types of cookies. For instance, if an area of our site is password protected, and you select a check box asking us to "remember" your password, that information is stored in cookie form on your hard drive. If you don't select the checkbox no cookie is created and you would have to log in to the password protected area the next time you visited. So in this case, cookies help us serve information to you faster. 
 
 
 
@@ -73,6 +72,8 @@ Password Protected Areas:
 If you are concerned about being identified or about having your web browsing traced through the use of a cookie, you can prevent them from being deposited in your computer. You can also set your browser to warn you whenever a cookie is being deposited. 
 
 Remember though that the majority of web sites use cookies and that blocking all cookies will prevent some online services from working. An e-commerce or shopping site, for example, likely uses cookies in their shopping process. Also, setting your browser to warn you can also become quite annoying. 
+
+We use third-party advertising technology to serve ads when you visit sites upon which we advertise. This technology uses information about your visits to this Web site and the sites upon which we advertise, (not including your name, address, or other personal information), to serve our ads to you. In the course of serving our advertisements to you, a unique third-party cookie may be placed or recognized on your browser. In addition, we use web beacons, provided by our ad serving partner, to help manage our online advertising. These web beacons enable our ad server to recognize a browser's cookie when a browser visits this site and to learn which banner ads bring users to our Web site. The information we collect and share through this technology is not personally identifiable. To learn more about our third party ad serving partner, cookies, and how to "opt-out" of the ad serving cookie, please [click here.](http://www.doubleclick.com/us/about_doubleclick/privacy/)
 
 **Detecting Your System's Performance Level**   
 Sometimes, prior to serving a web page, a web server will use a simple html program to check the speed of your Internet connection or the existence of certain plug-ins or software. An example would be to detect which version of a particular browser you are using or which version of the Macromedia Flash plug-in you have. Once identified, the server delivers the page or Flash movie to match the performance level or version of the software or plug-in in your system. The benefit is that you always see the content in its optimum state. 
