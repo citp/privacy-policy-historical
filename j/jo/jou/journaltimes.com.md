@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the journaltimes.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206224333id_/http%3A//www.journaltimes.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journaltimes.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206211326id_/http%3A//www.journaltimes.com/about/privacy.html) for the most accurate reproduction.*
 
 # JournalTimes.com - Racine County, Wisconsin
 
