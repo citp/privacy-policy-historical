@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hollywood.com privacy policy that was archived on 2004-10-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041010174126id_/http%3A//www.hollywood.com/about_us/info/id/468709) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hollywood.com privacy policy that was archived on 2005-03-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050305225926id_/http%3A//www.hollywood.com/about_us/info/id/468709) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>Hollywood.com</title>
@@ -12,7 +12,7 @@
 <!--
 	var ValueHost="hs0002150";
 	var ValueLoaded=false;
-	var ValueID="20041010133849";
+	var ValueID="200535175311";
 	var ValueVersion="1.2";
 	var ValueBannerType =  "";
 	var ValuePopSize =  "";
@@ -20,10 +20,14 @@
 	var ValueNoText=1;
 	var ValueHCat="";
 	var ValueCategory="";
-	var ValueKeyCodes=new Array("", "", "", "", "","", "", "", "");
+	var ValueKeyCodes=new Array("", "", "", "", "", "", "", "", "", "");
 	var ValueBannerSizeOrder="";
+	
+	//    Hold the navigation SHDIV script till the page is loaded
+	
+	
 
-	function MPShowAd(mpWidthHeight, mpPopSize, mpBannerType, mpSectionCode, mpRatingCode, mpGenre1, mpGenre2, mpGenre3, mpGenre4, mpGenre5, mpAge, mpGender, mpPosition, mpZip, mpBannerSizeOrder) {
+	function MPShowAd(mpWidthHeight, mpPopSize, mpBannerType, mpSectionCode, mpRatingCode, mpGenre1, mpGenre2, mpGenre3, mpGenre4, mpGenre5, mpAge, mpGender, mpPosition, mpZip, mpBannerSizeOrder,mpContentId) {
 		ValueBannerType = mpBannerType;
 		ValuePopSize = mpPopSize;
 		ValueWidths_Heights[0] = mpWidthHeight;
@@ -38,6 +42,7 @@
 		ValueKeyCodes[6] = "kgr=" + mpGender;
 		ValueKeyCodes[7] = "kpn=" + mpPosition;
 		ValueKeyCodes[8] = "kze=" + mpZip;
+		ValueKeyCodes[9] = "kmovid=" + mpContentId;
 		ValueBannerSizeOrder = mpBannerSizeOrder;
 		if (ValueLoaded) ValueShowAd();
 	}
@@ -45,36 +50,58 @@
 </script>
 <script type="text/javascript" language="Javascript" src="http://ads.hlwd.valueclick.net/jsmaster"></script>
 
-</head>
-<body style="background: url(http://images.hollywood.com/images/site/back_body1.jpg) repeat-x #1a2866" onload="Set_PageLoadedFlag();">
-<div class="w778 m0a tac d1"><script type="text/javascript" language="javascript">MPShowAd("728x90,468x60", "", "", "", "", "", "", "", "", "", "", "", "t1", "", "random","468709");</script></div>
-<div class="w778 h39 m0a" style="background: url(http://images.hollywood.com/images/site/hw4_search_bkg.gif) repeat-x #1e2b6d;">
-	<div style="float: right; width: 12px;" class="h39"><img src="http://images.hollywood.com/images/site/hw4_right_search.gif" width="12" height="39" alt=""></div>
-	<div style="float: left; width: 15px;" class="h39"><img src="http://images.hollywood.com/images/site/hw4_left_search.gif" width="15" height="39" alt=""></div>
-	<div class="h39" style="float: left; padding-left: 14px; line-height: 32px">
+</head><body style="background: url(http://images.hollywood.com/images/site/back_body1.jpg) repeat-x #1a2866" onload="Set_PageLoadedFlag();"><div><script type="text/javascript" language="javascript">MPShowAd("2x2", "", "", "AU", "", "", "", "", "", "", "", "", "t1", "", "listed","");</script></div>
+
+
+
+
+
+
+
+
+<script language="javascript"> 
+
+
+</script>
+<div class="w778 h33 m0a" style="background-color:#1a2b71;">
+	<div class="h33" style=" width:774px; float: center; line-height: 32px; background-color: background: url(images/holl04_hp_bkg_search_top1.jpg) repeat-x #1e2b6d;">
 		<form method="get" action="http://www.hollywood.com/search/ssh.asp">
-		<table width="730" border="0" cellspacing="0" cellpadding="0">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" background="http://images.hollywood.com/images/site/holl04_hp_bkg_search_top1.jpg">
 		<tbody><tr valign="middle">
-			<td width="65"><img src="http://images.hollywood.com/images/site/hw4_search_word.gif" width="65" height="39" border="0" alt=""></td>
-			<td align="center" class="f f9 c3">&nbsp;&nbsp;<input type="radio" name="ss" value="1" class="f10" style="border: 0px" checked="">&nbsp;Hollywood.com</td>
-			<td align="center" class="f f9 c3">&nbsp;&nbsp;<input type="radio" name="ss" value="2" class="f10" style="border: 0px">&nbsp;The Web</td>
-			<td><input type="text" style="width: 260px" id="kw" name="kw"></td>
-			<td width="62" align="center"><input type="image" src="http://images.hollywood.com/images/site/hw4_search_find_bt.gif" style="border: 0px; width: 62px; height: 39px;"></td>
-			<td class="f9 tar">&nbsp;<a href="http://www.hollywood.com/features/t1/nav/5/id/2400864" class="fb c3">Advanced Search</a>&nbsp;</td>
+			<td>&nbsp;&nbsp;&nbsp;</td>
+			<td width="49"><img src="http://images.hollywood.com/images/site/holl04_hp_search_word_top1.jpg" width="49" height="30"></td>
+			<td align="center" class="f f9 c2" nowrap="">&nbsp;&nbsp;<input type="radio" name="ss" value="1" class="f10" style="border: 0px" checked="">&nbsp;Hollywood.com&nbsp;</td>
+			<td align="center" class="f f9 c2" nowrap="">&nbsp;&nbsp;<input type="radio" name="ss" value="2" class="f10" style="border: 0px">&nbsp;The Web&nbsp;&nbsp;</td>
+			<td><input type="text" style="width: 363px; border:2px solid #9C019C;" id="kw" name="kw"></td>
+			<td width="83" nowrap="" align="right"><input type="image" style="border:0px;" src="http://images.hollywood.com/images/site/holl04_hp_search_find_bt_to.jpg" width="83" height="30"></td>
+			<td width="20" nowrap="" align="center"><img src="http://images.hollywood.com/images/site/top_search_pipe.gif" width="3" height="24" border="0"></td>
+			<td width="43" nowrap="" align="center"><a href="http://www.hollywood.com/features/t5/nav/5/id/2432905"><img src="http://images.hollywood.com/images/site/top_search_xml_bt.gif" width="35" height="24" border="0"></a></td>
+			<td width="5"><img src="http://images.hollywood.com/images/site/spacer.gif" width="5" height="1" border="0"></td>
 		</tr>
 		</tbody></table>
 		</form>
 	</div>
 </div>
+<div class="w778 m0a tac d1"><script type="text/javascript" language="javascript">MPShowAd("728x90,468x60", "", "", "AU", "", "", "", "", "", "", "", "", "t1", "", "random","468709");</script></div>
 <div class="w778 h48 m0a">
-	<div style="float: left; width: 269px"><a href="/"><img src="http://images.hollywood.com/images/site/logo_holly1.gif" width="269" height="48" border="0" alt="Welcome to Hollywood.com"></a></div>
-	<div style="float: left; width: 509px">
+	<div style="float: left; width: 269px;">
+
+<!---
+<script type="text/javascript" language="javascript">MPShowAd("269x48", "", "", "AU", "", "", "", "", "", "", "", "", "video", "", "listed",468709);</script>
+--->
+
+
+<a href="/"><img src="http://images.hollywood.com/images/site/logo_holly1.gif" width="269" height="48" border="0" alt="Welcome to Hollywood.com"></a>
+
+
+	</div>
+	<div style="float: left; width: 509px;">
 		<div class="d2">
-			<div style="float: right; width: 9px"><img src="http://images.hollywood.com/images/site/hw4_nav_tab_right.gif" width="9" height="23" alt=""></div>
-<div class="w65 d3 d9 h100p" style="float: left;" onmouseover="shDiv('nav_','','hide'); shDiv('nav_1','','show');" onmouseout="shDiv('nav_1','','hide'); shDiv('nav_','','show');"><a href="/movies/">MOVIES</a></div><div class="w55 d3 d9 h100p" style="float: left;" onmouseover="shDiv('nav_','','hide'); shDiv('nav_2','','show');" onmouseout="shDiv('nav_2','','hide'); shDiv('nav_','','show');"><a href="/news/">NEWS</a></div><div class="w65 d3 d9 h100p" style="float: left;" onmouseover="shDiv('nav_','','hide'); shDiv('nav_3','','show');" onmouseout="shDiv('nav_3','','hide'); shDiv('nav_','','show');"><a href="/celebs/">CELEBS</a></div><div class="w95 d3 d9 h100p" style="float: left;" onmouseover="shDiv('nav_','','hide'); shDiv('nav_4','','show');" onmouseout="shDiv('nav_4','','hide'); shDiv('nav_','','show');"><a href="/events/">LOCAL EVENTS</a></div><div class="w73 d3 d9 h100p" style="float: left;" onmouseover="shDiv('nav_','','hide'); shDiv('nav_5','','show');" onmouseout="shDiv('nav_5','','hide'); shDiv('nav_','','show');"><a href="/features/">FEATURES</a></div><div class="w73 d3 d9 h100p" style="float: left;" onmouseover="shDiv('nav_','','hide'); shDiv('nav_6','','show');" onmouseout="shDiv('nav_6','','hide'); shDiv('nav_','','show');"><a href="/members/">MEMBERS</a></div><div class="w73 d3 d9 h100p" style="float: left;" onmouseover="shDiv('nav_','','hide'); shDiv('nav_7','','show');" onmouseout="shDiv('nav_7','','hide'); shDiv('nav_','','show');"><a href="/events/broadway.asp">BROADWAY</a></div>
-		</div>
+			<div style="float: right; width: 9px;"><img src="http://images.hollywood.com/images/site/hw4_nav_tab_right.gif" width="9" height="23" alt=""></div>
+<div class="d3 d9 h100p" style="float: left; width:56px;" onmouseover="shDiv2('1');" onmouseout="shDiv3('8');"><a href="/movies/">MOVIES</a></div><div class="d3 d9 h100p" style="float: left; width:37px;" onmouseover="shDiv2('2');" onmouseout="shDiv3('8');"><a href="/movies/ondvd.asp">DVD</a></div><div class="d3 d9 h100p" style="float: left; width:58px;" onmouseover="shDiv2('3');" onmouseout="shDiv3('8');"><a href="/celebs/">CELEBS</a></div><div class="d3 d9 h100p" style="float: left; width:48px;" onmouseover="shDiv2('4');" onmouseout="shDiv3('8');"><a href="/features/">VIDEO</a></div><div class="d3 d9 h100p" style="float: left; width:47px;" onmouseover="shDiv2('5');" onmouseout="shDiv3('8');"><a href="/news/">NEWS</a></div><div class="d3 d9 h100p" style="float: left; width:54px;" onmouseover="shDiv2('6');" onmouseout="shDiv3('8');"><a href="/games/RealGames.asp">GAMES</a></div><div class="d3 d9 h100p" style="float: left; width:58px;" onmouseover="shDiv2('7');" onmouseout="shDiv3('8');"><a href="/events/">EVENTS</a></div><div class="d3 d9 h100p" style="float: left; width:70px; background: url(http://images.hollywood.com/images/site/tab_navbar_70px.gif) no-repeat" onmouseover="shDiv2('8');" onmouseout="shDiv3('8');"><a href="/members/">MEMBERS</a></div><div class="d3 d9 h100p" style="float: left; width:72px;" onmouseover="shDiv2('9');" onmouseout="shDiv3('8');"><a href="/events/broadway.asp">BROADWAY</a></div>
+			</div>
 		<div class="h25 d5 d6 tal stp1">
-<div class="pt5 h25 w509" id="nav_1" style="visibility: hidden; position:absolute; " onmouseover="shDiv('nav_1','','show'); shDiv('nav_','','hide');" onmouseout="shDiv('nav_1','','hide'); shDiv('nav_','','show');"><a href="/showtimes/">showtimes</a> &nbsp;&nbsp; <a href="/movies/movie_reviews.asp">reviews</a> &nbsp;&nbsp; <a href="/movies/trailers.asp">trailers</a> &nbsp;&nbsp; <a href="/movies/photos.asp">photos</a> &nbsp;&nbsp; <a href="/movies/coming_soon.asp">coming soon</a> &nbsp;&nbsp; <a href="/movies/inpro.asp">in production</a> &nbsp;&nbsp; <a href="/movies/ondvd.asp">on dvd</a></div><div class="pt5 h25 w509" id="nav_2" style="visibility: hidden; position:absolute; " onmouseover="shDiv('nav_2','','show'); shDiv('nav_','','hide');" onmouseout="shDiv('nav_2','','hide'); shDiv('nav_','','show');"></div><div class="pt5 h25 w509" id="nav_3" style="visibility: hidden; position:absolute; " onmouseover="shDiv('nav_3','','show'); shDiv('nav_','','hide');" onmouseout="shDiv('nav_3','','hide'); shDiv('nav_','','show');"><a href="/celebs/photos.asp">photos</a> &nbsp;&nbsp; <a href="/celebs/interviews.asp">interviews</a> &nbsp;&nbsp; <a href="/celebs/premieres.asp">premieres</a></div><div class="pt5 h25 w509" id="nav_4" style="visibility: hidden; position:absolute; " onmouseover="shDiv('nav_4','','show'); shDiv('nav_','','hide');" onmouseout="shDiv('nav_4','','hide'); shDiv('nav_','','show');"></div><div class="pt5 h25 w509" id="nav_5" style="visibility: hidden; position:absolute; " onmouseover="shDiv('nav_5','','show'); shDiv('nav_','','hide');" onmouseout="shDiv('nav_5','','hide'); shDiv('nav_','','show');"><a href="/contests/">contests</a> &nbsp;&nbsp; </div><div class="pt5 h25 w509" id="nav_6" style="visibility: hidden; position:absolute; " onmouseover="shDiv('nav_6','','show'); shDiv('nav_','','hide');" onmouseout="shDiv('nav_6','','hide'); shDiv('nav_','','show');"><a href="/yak/">message boards</a> &nbsp;&nbsp; <a href="/register/register.asp">join</a> &nbsp;&nbsp; <a href="/members/login.asp">login</a> &nbsp;&nbsp; <a href="http://www.hollywood.com/about_us/info/id/2400860">help</a></div><div class="pt5 h25 w509" id="nav_7" style="visibility: hidden; position:absolute; " onmouseover="shDiv('nav_7','','show'); shDiv('nav_','','hide');" onmouseout="shDiv('nav_7','','hide'); shDiv('nav_','','show');"></div>
+<div class="pt5 h25 w509" id="nav_1" style="visibility: hidden; position:absolute; " onmouseover="shDiv2('1');" onmouseout="shDiv3('8');"><a href="/showtimes/">showtimes</a> &nbsp;&nbsp; <a href="/movies/movie_reviews.asp">reviews</a> &nbsp;&nbsp; <a href="/movies/photos.asp">photos</a> &nbsp;&nbsp; <a href="/movies/coming_soon.asp">coming soon</a> &nbsp;&nbsp; <a href="/movies/inpro.asp">in production</a> &nbsp;&nbsp; <a href="/contests/">contests</a> &nbsp;&nbsp; </div><div class="pt5 h25 w509" id="nav_2" style="visibility: hidden; position:absolute; " onmouseover="shDiv2('2');" onmouseout="shDiv3('8');"></div><div class="pt5 h25 w509" id="nav_3" style="visibility: hidden; position:absolute; " onmouseover="shDiv2('3');" onmouseout="shDiv3('8');">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/celebs/photos.asp">photos</a> &nbsp;&nbsp; <a href="/celebs/interviews.asp">interviews</a> &nbsp;&nbsp; <a href="/celebs/premieres.asp">premieres</a></div><div class="pt5 h25 w509" id="nav_4" style="visibility: hidden; position:absolute; " onmouseover="shDiv2('4');" onmouseout="shDiv3('8');">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/movies/trailers.asp">trailers</a> &nbsp;&nbsp; </div><div class="pt5 h25 w509" id="nav_5" style="visibility: hidden; position:absolute; " onmouseover="shDiv2('5');" onmouseout="shDiv3('8');"></div><div class="pt5 h25 w509" id="nav_6" style="visibility: hidden; position:absolute; " onmouseover="shDiv2('6');" onmouseout="shDiv3('8');">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://lp.zango.com/?SID=88" target="_blank">Downloadable Games</a> &nbsp;&nbsp; <a href="http://lp.zango.com/?BID=4521" target="_blank">Online Games</a></div><div class="pt5 h25 w509" id="nav_7" style="visibility: hidden; position:absolute; " onmouseover="shDiv2('7');" onmouseout="shDiv3('8');"></div><div align="right" class="pt5 h25 w509" id="nav_8" style="visibility: show; position:absolute; " onmouseover="shDiv2('8');" onmouseout="shDiv3('8');"><a href="/register/reg_1.asp">join</a> &nbsp;&nbsp; <a href="/members/login.asp">login</a> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div><div class="pt5 h25 w509" id="nav_9" style="visibility: hidden; position:absolute; " onmouseover="shDiv2('9');" onmouseout="shDiv3('8');"></div>
 		</div>
 	</div>
 </div>
@@ -294,48 +321,129 @@ The site and its third party servers collect and store anonymous data, typically
 				</tbody></table>
 			</td></tr></tbody></table><br>
 		</div>
-		<div class="tal"><table width="100%" cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr valign="top"><td bgcolor="#B7C7FF">
-		<table width="100%" border="0" cellspacing="0" cellpadding="3">
-<tbody><tr>
-	<td colspan="5" class="fb f13 c3 pl10">Services</td></tr>
-<tr>
-	<td><br></td>
-	<td width="4" align="right" valign="top"><span class="f c3">•</span></td>
-	<td width="234" valign="top"><a href="http://www.travelape.com" class="f c3" target="_blank">Travel Ape</a>, <a href="http://www.find-hotels.net" class="f c3" target="_blank">Find 
+		<div class="tal">
 
-Hotels</a> <a href="http://www.hotels-in-the-usa.com" class="f c3" target="_blank">in the USA</a></td>
-	<td width="4" valign="top"><span class="f c3">•</span></td>
-	<td width="230" valign="top"><a href="http://www.guide-to-hotels.com" class="f c3" target="_blank">Guide to Hotels</a>, <a href="http://www.guide-to-vacation-rentals.com" class="f c3" target="_blank">Vacations</a> &amp;  <a href="http://www.best-hotel-discount.com/" class="f c3" target="_blank">Lodging</a></td>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr>
+		<td>
+	<img src="http://images.hollywood.com/images/site/spacer.gif" width="1" height="1" title="contextWebURL" alt="http://tag.contextweb.com/TagPublish/getntag.aspx?Action=VIEWAD&amp;RUN=200&amp;CWFormat=XML&amp;NumAds=5&amp;ADVID=111&amp;pnet=1&amp;PID=400281&amp;ip=209.237.238.179&amp;CWurl=http%3A%2F%2Fwww%2Ehollywood%2Ecom%2Fabout%5Fus%2Fdefault%2Easp%3Fid%3D468709">
+	<table width="100%" cellspacing="0" cellpadding="0" border="0"> 
+		<tbody><tr valign="top"> 
+			<td bgcolor="#B7C7FF">
+				<table width="100%" border="0" cellspacing="0" cellpadding="3"> 
+
+					<tbody><tr> 
+						<td valign="top" class="pt8" width="50%">
+							<table width="98%" border="0" cellpadding="0" cellspacing="0" bgcolor="#B7C7FF"> 
+								<tbody><tr> 
+								  <td valign="top" class="pl7 c3"><a href="http://clk2.contextweb.com/ContextAd/CWVERSION2/?CLICKTHROUGH/T/4b31d089-4133-4939-b23d-8a6e15fcc65a/200/0.0/0.08/0/0/http://us01.xmlsearch.findwhat.com/bin/findwhat.dll?clickthrough&amp;y=47866&amp;x=gm9it6fcKYTLR8fkqCh6tC1t9Cmmf9rH:l0fQtaT09hD3gRXctAO4ko5T4Eoj9mfczbRsm1ivnYnMmhJc9DLQETL4XonqL9IqLNMAzABtemHTjY3vehu9Z9OY3u0;vptMn0yKlx:RnTCT9Ec:BWR9B0lFYhi0RAH3QK$Z" target="_blank" class="c3"><b>Buy and Sell Communications On eBay.</b></a><br> 
+									Visit eBay where you will find great buys on Communications and so much more including collectibles, jewelry, toys, tickets, and practical items like clothing, and computers.</td> 
+								</tr> 
+							  </tbody></table>
+						</td> 
+						<td valign="top" class="pt8" width="50%">
+							<table width="97%" border="0" cellpadding="0" cellspacing="0" bgcolor="#B7C7FF"> 
+								<tbody><tr> 
+								  <td valign="top" class="c3"><a href="http://clk2.contextweb.com/ContextAd/CWVERSION2/?CLICKTHROUGH/T/4b31d089-4133-4939-b23d-8a6e15fcc65a/200/0.0/0.07/1/1/http://us01.xmlsearch.findwhat.com/bin/findwhat.dll?clickthrough&amp;y=47866&amp;x=9BZ9sDv7vkDYSL4ht9KZMRWNJY4tRnT:jmZn4mcEkk4zOTNU3R48;efSgVDfOnNdTZKHs1NFskDkXRb0T8u8sgx4AjT3tT9PQRX53DK4SEc;lmMP;QMSs6cnX1;1;l;b3EDqM2ovAe92cQTQ:T1iAjvWJnrgc2N3si9Hs9uzZ" target="_blank" class="c3"><b>New Communication Technologies Transform Telecom</b></a><br> 
+									What are the 3 new communication technology shifts that are driving a transformation of the telecom and conference calling industries? Learn that here. Also: How to take advantage of features and pricing brought to us by new telecom technologies.</td> 
+								</tr> 
+							</tbody></table>
+						</td> 
+					</tr> 
+
+					<tr> 
+						<td valign="top" class="pt8" width="50%">
+							<table width="98%" border="0" cellpadding="0" cellspacing="0" bgcolor="#B7C7FF"> 
+								<tbody><tr> 
+								  <td valign="top" class="pl7 c3"><a href="http://clk2.contextweb.com/ContextAd/CWVERSION2/?CLICKTHROUGH/T/4b31d089-4133-4939-b23d-8a6e15fcc65a/200/0.0/0.05/2/2/http://us01.xmlsearch.findwhat.com/bin/findwhat.dll?clickthrough&amp;y=47866&amp;x=0DpGRBm;S4AWk4NAOQYU96pv32AUSicpfz1A;zh;;Tfi93hOQ3hFtzcpF9b2vvXBzt1lMD9pR8ae3XRTzYXAI2TGte1WOtpZTgEaaBeU9tarsLhq:CpBXjNEtPYgfgbqqQT5TEbW3QhLz2Zu;31GO3WUcQTHkYTpX6hqYV8WqX$$Z" target="_blank" class="c3"><b>Communications</b></a><br> 
+									Shop for Communications from 600+ merchants with one cart. Hundreds of trusted merchants. Thousands of popular brands. Millions of great products. One simple check out. Shop.com. Do you Shop.com?</td> 
+								</tr> 
+							  </tbody></table>
+						</td> 
+						<td valign="top" class="pt8" width="50%">
+							<table width="97%" border="0" cellpadding="0" cellspacing="0" bgcolor="#B7C7FF"> 
+								<tbody><tr> 
+								  <td valign="top" class="c3"><a href="http://clk2.contextweb.com/ContextAd/CWVERSION2/?CLICKTHROUGH/T/4b31d089-4133-4939-b23d-8a6e15fcc65a/200/0.0/0.02/3/3/http://us01.xmlsearch.findwhat.com/bin/findwhat.dll?clickthrough&amp;y=47866&amp;x=IghS08mWt64:TLRojT9Kc90249ajQjKQ4emxRX1e9BRZcEbegThWJmi9Qzc1;tv3QleVj9e0aRmSg9;tILASvz4;fjrzQW9BfYYLZRmv;RT3MCuU36rL:8mbfguLR3ehjTA94zuJYPRtXjYVj94HFkby4P0afzAIOe9plZ$$Z" target="_blank" class="c3"><b>Eliminate Negative Beliefs, Attitudes &amp; Feelings</b></a><br> 
+									We often sabotage ourselves by the negative beliefs that we hold in our consciousness.  We provide energy healing to help people release negative beliefs around deserving, money, relationships, health, and much more. </td> 
+								</tr> 
+							</tbody></table>
+						</td> 
+					</tr> 
+     
+					<tr> 
+					  <td valign="top" colspan="2">
+							<table width="98%" border="0" cellpadding="0" cellspacing="0" bgcolor="#B7C7FF"> 
+								<tbody><tr> 
+								  <td valign="top" class="pl7 pt4 c3"><a href="http://clk2.contextweb.com/ContextAd/CWVERSION2/?CLICKTHROUGH/T/4b31d089-4133-4939-b23d-8a6e15fcc65a/200/0.0/0.01/4/4/http://us01.xmlsearch.findwhat.com/bin/findwhat.dll?clickthrough&amp;y=47866&amp;x=OSH:uNnePGQS0JtNehnAhN3icbUIVq338KGwJutbEFHIoxG1J0krNbQ4Vcj3M7QRyNBdB03H:qVudO:4VGqOlOq4dJCO6;Cmj0jCi;SIuhIPOpnuLrBIuNljIpCyLJ7VWrBZcJdierUlVb3RMwF:B0wxE7SIX7IZ5pLaZ" target="_blank" class="c3"><b>MarcommWise</b></a><br> 
+									Marketing communications articles, information sources directory, news, forums, vendor directory, glossary, book reviews, profitability calculators and other resources.</td> 
+								</tr> 
+							  </tbody></table>
+						</td> 
+					</tr> 
+ 
+					<tr> 
+					  <td colspan="2" class="fb f13 c3 pl10">
+							<table width="98%" border="0" cellpadding="0" cellspacing="0" bgcolor="#9DACE5"> 
+								<tbody><tr> 
+								  <td><img src="http://images.hollywood.com/images/site/spacer.gif" width="1" height="1"></td> 
+								</tr> 
+							  </tbody></table>
+						  </td> 
+					</tr> 
+				</tbody></table> 
+			</td> 
+		</tr> 
+  </tbody></table> 
+ </td>
+	</tr>
+	<tr valign="top"><td bgcolor="#B7C7FF">
+		<table width="100%" border="0" cellspacing="0" cellpadding="3">
+	<tbody><tr>
+		 <td colspan="5" class="fb f13 c3 pl10">Sponsored Links</td>
+	</tr>
+	<tr>
+ <td><br></td>
+ <td width="4" align="right" valign="top"><span class="f c3">*</span></td>
+ <td width="234" valign="top"><a href="http://www.resortfinder.com/" class="f c3" target="_blank">Resorts:</a> <a href="http://www.resortfinder.com/atlantis-resort.htm" class="f c3" target="_blank">Atlantis</a>, <a href="http://www.resortfinder.com/palace-resorts.htm" class="f c3" target="_blank">Palace</a>, <a href="http://www.resortfinder.com/sandals-resorts.htm" class="f c3" target="_blank">Sandals</a></td>
+ <td width="4" align="right" valign="top"><span class="f c3">*</span></td>
+ <td width="230" valign="top"><a href="http://www.gocheap.com" target="_blank" class="f c3">Vacations</a></td>
 </tr>
-<tr>
-	<td><br></td>
-	<td width="4" align="right" valign="top"><span class="f c3">•</span></td>
-	<td width="234" valign="top"><a href="http://www.1800fastdsl.com" class="f c3" target="_blank">DSL</a></td>
-	<td width="4" align="right" valign="top"><span class="f c3">•</span></td>
-	<td width="230" valign="top"><a href="http://www.fiestavacations.com/" class="f c3" target="_blank">Apple Vacations:</a> <a href="http://www.fiestavacations.com/specials.htm" class="f c3" target="_blank">Specials</a>, <a href="http://www.fiestavacations.com/vacation_destinations.htm" class="f c3" target="_blank">Destinations</a></td>
-</tr>
-<tr>
-	<td><br></td>
-	<td width="4" align="right" valign="top"><span class="f c3">•</span></td>
-	<td width="234" valign="top"><a href="http://www.resortfinder.com/" class="f c3" target="_blank">Resorts:</a> <a href="http://www.resortfinder.com/atlantis-resort.htm" class="f c3" target="_blank">Atlantis</a>, <a href="http://www.resortfinder.com/palace-resorts.htm" class="f c3" target="_blank">Palace</a>, <a href="http://www.resortfinder.com/sandals-resorts.htm" class="f c3" target="_blank">Sandals</a></td>
-	<td width="4" align="right" valign="top"><span class="f c3">•</span></td>
-	<td width="230" valign="top"><a href="http://www.efavorites.com" class="f c3" target="_blank">Shopping:</a> <a href="http://www.seenontvfavorites.com" class="f c3" target="_blank">As Seen On TV</a>, <a href="http://www.favoritegolfstore.com" class="f c3" target="_blank">Golf</a>, <a href="http://www.luggagefavorites.com" class="f c3" target="_blank">Luggage</a></td>
-</tr>
-<tr>
-	<td><br></td>
-	<td width="4" align="right" valign="top"><span class="f c3">•</span></td>
-	<td width="234" valign="top">
-<a href="http://www.guide-to-tickets.com/" class="f c3" target="_blank">Event Tickets</a>,  
-<a href="http://www.hotelssavings.com/" class="f c3" target="_blank">Savings</a>, 
-<a href="http://www.morehotels.com/" class="f c3" target="_blank">More Hotels</a>
-	</td><td width="4" align="right" valign="top"><span class="f c3">•</span></td>
-	<td width="230" valign="top"><a href="http://www.netflix.com/Default?mqso=60187400" target="_blank" class="f3 c3">Netflix® DVD Rentals - Free Trial<br>
-Fast and Free DVD Delivery. Over 25,000 Titles - No Late Fees.</a>
+
+	
+	<tr>
+		 <td><br></td>
+		 <td width="4" align="right" valign="top"><span class="f c3">*</span></td>
+		 <td width="234" valign="top"><a href="http://clk.atdmt.com/TLA/go/hllymask0090000044tla/direct/01/" target="_blank" class="f c3">Search with keywords or questions.  Ask Jeeves to find it.  Ask.com</a></td>
+		 <td width="4" align="right" valign="top"><span class="f c3">*</span></td>
+	    <td width="230" valign="top"><a href="http://www.fiestavacations.com/" class="f c3" target="_blank">Apple Vacations:</a> <a href="http://www.fiestavacations.com/specials.htm" class="f c3" target="_blank">Specials</a>, <a href="http://www.fiestavacations.com/vacation_destinations.htm" class="f c3" target="_blank">Destinations</a></td>
+	</tr>
+	<tr valign="top">
+		<td><br></td>
+		<td width="4" align="right" valign="top"><span class="f c3">*</span></td>
+		<td valign="top"><a href="http://www.efavorites.com" class="f c3" target="_blank">Shopping:</a> <a href="http://www.seenontvfavorites.com" class="f c3" target="_blank">As Seen On TV</a>, <a href="http://www.favoritegolfstore.com" class="f c3" target="_blank">Golf</a>, <a href="http://www.luggagefavorites.com" class="f c3" target="_blank">Luggage</a></td>
+		
+		 <td width="4" align="right" valign="top"><span class="f c3">*</span></td>
+		<td><a href="http://www.dvdrental.us.com/sidebyside.htm" class="f3 c3" target="_blank">Rent DVDs Online</a>: <a href="http://www.dvdrental.us.com/blockbuster.htm" class="f3 c3" target="_blank">Blockbuster</a>, 
+      <a href="http://www.dvdrental.us.com/gameznflix.htm" class="f3 c3" target="_blank">Gameznflix</a>, and <a href="http://www.dvdrental.us.com/netflix.htm" class="f3 c3" target="_blank">Netflix</a> 
 
 </td>
-</tr>
+		 
+ </tr>
+  <tr valign="top">
+		<td><br></td>
+		<td width="4" align="right" valign="top"><span class="f c3">*</span></td>
+		<td valign="top" colspan="3"><a href="http://VacationsToGo.com" class="f3 c3" target="_blank">Save up to 75% on Last-Minute Cruises!
+Great discounts on all lines and destinations</a> </td>
+ </tr>
+ <tr valign="top">
+		<td><br></td>
+		<td width="4" align="right" valign="top"><span class="f c3">*</span></td>
+		<td valign="top" colspan="3"><a href="http://www.netflix.com/Default?mqso=60187400" class="f3 c3" target="_blank">Netflix® DVD Rentals - Free Trial	Fast and Free DVD Delivery. Over 25,000 Titles - No Late Fees.</a> </td>
+ </tr>
+
 </tbody></table>
+
+
 
 		<table width="100%" border="0" cellspacing="0" cellpadding="0">
 			<tbody><tr valign="bottom">
@@ -346,14 +454,24 @@ Fast and Free DVD Delivery. Over 25,000 Titles - No Late Fees.</a>
 	</td></tr>
 </tbody></table>
 </div>
-		<div class="d15"><div class="pb10" style="width: 468px"><script type="text/javascript" language="javascript">MPShowAd("468x60,88x31", "", "", "", "", "", "", "", "", "", "", "", "b1", "", "random",468709);</script></div>
+		<div class="d15"><div class="d5 c2" style="text-align:center; ">
+<div class="pb10" style="width: 468px"><script type="text/javascript" language="javascript">MPShowAd("468x60,88x31", "", "", "AU", "", "", "", "", "", "", "", "", "b1", "", "random","468709");</script></div>
 
-<div class="d5 c2"><a href="http://www.hollywood.com/about_us/">about us</a> | <a href="http://www.hollywood.com/about_us/info/id/1723123">terms of service</a> | <a href="http://www.hollywood.com/about_us/">investor relations</a> | <a href="http://www.hollywood.com/about_us/adcontacts.asp">advertising information</a> | <a href="http://www.hollywood.com/about_us/wireless.asp">wireless</a><br><a href="http://www.hollywood.com/yak/forum.asp?forumid=2">feedback</a> | <a href="http://www.hollywood.com/about_us/info/id/468709">privacy policy</a> | <a href="http://www.movietickets.com/default.asp">MovieTickets.com</a> | <a href="http://www.hollywood.com/events/broadway.asp">Broadway</a> | <a href="http://baseline.hollywood.com/" target="_blank">Baseline.Hollywood.com</a><br><br><a href="http://www.hollywood.com/">HOME</a> | <a href="http://www.hollywood.com/showtimes/">SHOWTIMES</a> | <a href="http://www.hollywood.com/movies/">MOVIES</a> | <a href="http://www.hollywood.com/news/">NEWS</a> | <a href="http://www.hollywood.com/celebs">CELEBS</a> | <a href="http://www.hollywood.com/events/">LOCAL EVENTS</a> | <a href="http://www.hollywood.com/features/">FEATURES</a> | <a href="http://www.hollywood.com/members/">MEMBERS</a> | <a href="http://www.hollywood.com/contests/">CONTESTS</a> <br><br><a href="/about_us/info/id/469774">©1999-2004 Hollywood.com, Inc.</a><br><a href="http://quotes.nasdaq.com/quote.dll?page%3Dmulti%26mode%3Dstock%26symbol%3DHOLL" target="_blank">NASDAQ : HOLL</a></div>
-<div><script type="text/javascript" language="javascript">MPShowAd("3x3", "", "", "", "", "", "", "", "", "", "", "", "t1", "", "listed",468709);</script></div>
-</div>
+<a href="http://www.hollywood.com/about_us/">about us</a> | <a href="http://www.hollywood.com/about_us/info/id/1723123">terms of service</a> | <a href="http://www.hollywood.com/about_us/">investor relations</a> | <a href="http://www.hollywood.com/about_us/adcontacts.asp">advertising information</a> | <a href="http://www.hollywood.com/about_us/wireless.asp">wireless</a><br>
+<!---
+<a href="http://www.hollywood.com/yak/forum.asp?forumid=2">feedback</a> | 
+--->
+<a href="http://www.hollywood.com/about_us/info/id/468709">privacy policy</a> | <a href="http://www.movietickets.com/default.asp">MovieTickets.com</a> | <a href="http://www.hollywood.com/events/broadway.asp">Broadway</a> | <a href="http://baseline.hollywood.com/" target="_blank">Baseline.Hollywood.com</a><br><br>
+
+<a href="http://www.hollywood.com/">HOME</a> | <a href="http://www.hollywood.com/showtimes/">SHOWTIMES</a> | <a href="http://www.hollywood.com/movies/">MOVIES</a> | <a href="http://www.hollywood.com/news/">NEWS</a> | <a href="http://www.hollywood.com/celebs">CELEBS</a> | <a href="http://www.hollywood.com/events/">LOCAL EVENTS</a> | <a href="http://www.hollywood.com/features/">FEATURES</a> | <a href="http://www.hollywood.com/members/">MEMBERS</a> | <a href="http://www.hollywood.com/contests/">CONTESTS</a> <br>
+<br><a href="/about_us/info/id/469774">©1999-2005 Hollywood.com, Inc.</a><br><a href="http://quotes.nasdaq.com/quote.dll?page=multi&amp;mode=stock&amp;symbol=HOLL" target="_blank">NASDAQ : HOLL</a>
+</div></div>
 	</div>
 	<div style="float: left" class="w269">
-		<div class="d7 tar"><!--yackshack_fan.gif--></div>
+		<div class="d7 tar"><iframe src="http://view.atdmt.com/VON/iview/hllymvon0300000564von/direct/01?click=" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" allowtransparency="true" width="260" height="40">
+<script language="JavaScript" type="text/javascript">
+document.write('<a href="http://clk.atdmt.com/VON/go/hllymvon0300000564von/direct/01/" target="_blank"><img src="http://view.atdmt.com/VON/view/hllymvon0300000564von/direct/01/"/></a>');
+</script><noscript><a href="http://clk.atdmt.com/VON/go/hllymvon0300000564von/direct/01/" target="_blank"><img border="0" src="http://view.atdmt.com/VON/view/hllymvon0300000564von/direct/01/" /></a></noscript></iframe></div>
 		<div class="tal d11"><table width="200" border="0" cellpadding="0" cellspacing="0" class="tal"><tbody><tr valign="top"><td>
 <table cellspacing="0" cellpadding="1" width="100%" border="0">
 	<tbody><tr><td colspan="2" class="fb f14">Corporate Information </td></tr>
@@ -362,11 +480,12 @@ Fast and Free DVD Delivery. Over 25,000 Titles - No Late Fees.</a>
 	<tr valign="top"><td class="c3 tar" width="7">•&nbsp;</td><td><a class="fbu f10 c3" href="http://quotes.nasdaq.com/quote.dll?page=multi&amp;mode=stock&amp;symbol=HOLL" target="_blank"> Stock Quote</a></td></tr>
 	<tr valign="top"><td class="c3 tar" width="7">•&nbsp;</td><td><a class="fbu f10 c3" href="http://www.nasdaq.com/asp/quotes_sec.asp?symbol=HOLL&amp;selected=HOLL&amp;page=filings" target="_blank"> Company SEC Filings</a></td></tr>
 	<tr valign="top"><td class="c3 tar" width="7">•&nbsp;</td><td><a class="fbu f10 c3" href="http://www.sec.gov/cgi-bin/browse-edgar?company=&amp;CIK=912544&amp;owner=only&amp;action=getcompany" target="_blank"> Section 16 Filings with SEC <br>(Forms 3,4 and 5)</a></td></tr>
-	<tr valign="top"><td class="c3 tar" width="7">•&nbsp;</td><td><a class="fbu f10 c3" href="http://www.hollywood.com/about_us/info/id/1746773"> Code of Professional Conduct</a></td></tr>
+	<tr valign="top"><td class="c3 tar" width="7">•&nbsp;</td><td><a class="fbu f10 c3" href="http://www.hollywood.com/about_us/info/id/2420428"> Corporate Governance</a></td></tr>
 </tbody></table>
 <table cellspacing="0" cellpadding="1" width="100%" border="0">
 	<tbody><tr><td colspan="2"><span class="fb f14">Investor Relations </span></td></tr>
 	<tr valign="top"><td class="c3 tar" width="7">•&nbsp;</td><td><a class="fbu f10 c3" href="http://www.hollywood.com/about_us/conference_calls.asp"> Conference Calls <br>and Presentations</a></td></tr>
+	<tr valign="top"><td class="c3 tar" width="7">•&nbsp;</td><td><a class="fbu f10 c3" href="http://www.hollywood.com/movies/mm/nav/1/id/2417064"> Businesses Video (2004)</a></td></tr>
 	<tr valign="top"><td class="c3 tar" width="7">•&nbsp;</td><td><a class="fbu f10 c3" href="http://www.hollywood.com/about_us/investor_form.asp?check=receive"> Investor Packet</a></td></tr>
 </tbody></table>
 <table cellspacing="0" cellpadding="1" width="100%" border="0">
@@ -425,8 +544,9 @@ Fast and Free DVD Delivery. Over 25,000 Titles - No Late Fees.</a>
 	window.onload= null==fcfn ? fcce:fcco;
 </script><script defer="" src="https://a248.e.akamai.net/f/248/67/3h/ssl-hints.netflame.cc/service/script/www.hollywood.com"></script>
 <!--//	END NETFLAME INTEGRATION	-->
-<div><script type="text/javascript" language="javascript">MPShowAd("3x3", "", "", "", "", "", "", "", "", "", "", "", "t1", "", "listed",468709);</script></div>
-<!-- this is the default for the hw2004_popunder-->
+
+<div><script type="text/javascript" language="javascript">MPShowAd("3x3", "", "", "AU", "", "", "", "", "", "", "", "", "t1", "", "listed","");</script></div>
+
 
 
 
