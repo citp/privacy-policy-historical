@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostreview.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402130517id_/http%3A//www.hostreview.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostreview.com privacy policy that was archived on 2003-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030806050527id_/http%3A//hostreview.com/privacy.htm) for the most accurate reproduction.*
 
 # HostReview.com: Web Hosting Directory and Search Engine
 
