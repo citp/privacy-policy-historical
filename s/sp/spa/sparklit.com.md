@@ -1,7 +1,32 @@
-> *The following text is extracted and transformed from the sparklit.com privacy policy that was archived on 2001-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010605234826id_/http%3A//www.sparklit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparklit.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205052806id_/http%3A//www.sparklit.com/privacy) for the most accurate reproduction.*
 
 # Sparklit.com - Privacy Policy
 
+| |   
+---|---  
+[ Member Login](http://www.sparklit.com/commonlogin?)  
+[ Feature Request](http://www.sparklit.com/feature_request.spark?)  
+[ Feedback](http://www.sparklit.com/feedback.spark?)  
+[ Support Request](http://www.sparklit.com/support?)  
+[ Bug Report](http://www.sparklit.com/bug_report.spark?)  
+[ Featured Clients](http://www.sparklit.com/about/clients.spark?)  
+[ Our Network](http://www.sparklit.com/about/our_network?)  
+   
+  
+  
+---  
+ CORPORATE INFO  
+|   
+---|---  
+[ About Us](http://www.sparklit.com/about?)  
+[ Business Dev](http://www.sparklit.com/busdev?)  
+[ Contact Us](http://www.sparklit.com/contact?)  
+[ Press Room](http://www.sparklit.com/press?)  
+[ Privacy Policy](http://www.sparklit.com/privacy?)  
+   
+   
+   
+  
   
 |    
 **Sparklit.com’s privacy policy**  
