@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the firstcitizens.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208173625id_/http%3A//firstcitizens.com/privacy_security/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstcitizens.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404061349id_/http%3A//www.firstcitizens.com/privacy_security/privacy_statement) for the most accurate reproduction.*
 
 # First Citizens Bank | Privacy and Security | Privacy Statement
 
-Privacy Statement — March 2004
+Privacy Statement — June 2004
 
 IMPORTANT INFORMATION ABOUT PRIVACY
 
@@ -45,15 +45,15 @@ We Collect and Use Information Responsibly. We collect and use information about
 
 
 
-We use information about you, for example, to process your applications, administer your accounts and insurance products, process your transactions, serve your financial needs, determine your eligibility for products and services we offer and provide you with information about products, services and other opportunities that may interest you. 
+We use information about you, for example, to process your applications, administer your accounts and insurance products, process your transactions, serve your financial needs, determine your eligibility for products and services we offer and provide you with information about products, services and other opportunities that may interest you.
 
-We Protect Information Internally. The only people authorized to access customer information are those who have a legitimate business reason to do so in connection with their job responsibilities. Our employees are bound by our Code of Ethics to access customer information only for legitimate business purposes and to keep information about you confidential. We emphasize this confidentiality obligation in our training and procedures and maintain appropriate disciplinary measures to enforce our employees' privacy responsibilities. 
+We Protect Information Internally. The only people authorized to access customer information are those who have a legitimate business reason to do so in connection with their job responsibilities. Our employees are bound by our Code of Ethics to access customer information only for legitimate business purposes and to keep information about you confidential. We emphasize this confidentiality obligation in our training and procedures and maintain appropriate disciplinary measures to enforce our employees’ privacy responsibilities.
 
-In addition, we maintain physical, electronic and procedural safeguards that comply with federal standards to prevent unauthorized access to information about you. Information you provide us through our websites is similarly protected. 
+In addition, we maintain physical, electronic and procedural safeguards that comply with federal standards to prevent unauthorized access to information about you. Information you provide us through our websites is similarly protected.
 
 Information Sharing.
 
-With Related Companies to Serve You Better. We call the companies that are related to us by common ownership or control our “affiliates.” Our affiliates are all financial service providers, including banks, credit card companies, securities broker-dealers and insurance companies. When we are permitted to share information about you with our affiliates, we can serve you more efficiently, make it easier for you to do business with us and offer you a wider variety of financial products and services. For example, if you open an account with us and want to open an account with our affiliate, you may not have to furnish application information twice. 
+With Related Companies to Serve You Better. We call the companies that are related to us by common ownership or control our “affiliates.” Our affiliates are all financial service providers, including banks, credit card companies, securities broker-dealers and insurance companies. When we are permitted to share information about you with our affiliates, we can serve you more efficiently, make it easier for you to do business with us and offer you a wider variety of financial products and services. For example, if you open an account with us and want to open an account with our affiliate, you may not have to furnish application information twice.
 
 We are permitted by federal law to share certain types of information about you with our affiliates, including identification information and information about your transactions and experiences with us. In addition, unless you tell us not to, we may share other information about you with our affiliates that we call “eligibility information.” We use eligibility information to determine your eligibility for our products and services. Eligibility information may include, for example: 
 
@@ -87,6 +87,8 @@ We Make Every Effort to Maintain and Report Accurate Information. We make every 
 If you believe we have incorrectly reported information about you or your account to a credit bureau, please notify us promptly. Your notice to us should be in writing and include your complete name, current address, Social Security number, telephone number, account number, the affiliate company you believe incorrectly reported the information, the specific item of dispute and the reason you believe the information we reported is inaccurate. Please send your notice to us by separate correspondence addressed to: Loan Servicing Department-DAC20, P.O. Box 26592, Raleigh, NC 27611-6592. We will promptly investigate and make any necessary corrections to your records. 
 
 Other Privacy Protections. You may have additional privacy rights under the laws of some states, and we may be required to send you additional notices or disclosures. We will comply with all applicable state and federal laws that protect the privacy of information about you. 
+
+Reporting Information to Credit Bureaus. We may report information about your account or accounts to credit bureaus. Late payments, missed payments, or other defaults on your account may be reflected in your credit report.
 
 Questions. If you have any questions regarding our privacy policies and practices, please call us toll free at 877-654-2320 or write to us at: Compliance Department-RWN21, P.O. Box 27131, Raleigh, NC 27611-7131. If you prefer, you may send us an e-mail through our websites. Please indicate “Privacy” as the subject of your communication. Thank you for doing business with us. 
 
