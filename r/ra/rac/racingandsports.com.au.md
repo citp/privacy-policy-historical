@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racingandsports.com.au privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204042300id_/http%3A//www.racingandsports.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racingandsports.com.au privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603070536id_/http%3A//www.racingandsports.com.au/privacy.asp) for the most accurate reproduction.*
 
 # Racing and Sports
 
