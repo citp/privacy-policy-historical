@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the comingsoon.net privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203015900id_/http%3A//comingsoon.net/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comingsoon.net privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604061909id_/http%3A//www.comingsoon.net/policy.htm) for the most accurate reproduction.*
 
-# COMING SOON! - Privacy Statement
+# Coming Soon! - Privacy Policy
 
 ## Privacy Statement for www.comingsoon.net
 
@@ -12,13 +12,11 @@ We use your IP address to administer our Web site.  The IP address is only empl
 
 #### Advertisers
 
-We use an outside ad company to display ads on our site. These ads may contain cookies.  Cookies received with banner ads are collected by our ad company, and we do not have access to this information.
+We use an outside ad company to display ads on our site. These ads may contain cookies.  Cookies received with banner ads are collected by our ad company, and we do not have access to this information. **
 
-|  |  [](http://adserver.ign.com/click-ng/network=ign&site=comingsoon&size=120x90cb)  
----  
-  
-  
-**Personal Information**
+Personal Information
+
+**
 
 Our site's mailing list form asks visitors to provide their email address. We use the contact information gathered from the form to send the visitor information about our company and about upcoming entertainment.  The visitor's contact information is also used to contact the visitor when necessary. Visitors may opt-out of receiving future mailings (see the "choice/opt-out" section below). 
 
@@ -32,9 +30,9 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 
 #### Security
 
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.  For more information about our security measures, you may send an e-mail to [future@comingsoon.net](mailto:future@comingsoon.net). 
+This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.  For more information about our security measures, you may send an e-mail to [staff@comingsoon.net](mailto:staff@comingsoon.net). 
 
-**Choice/Opt-Out**
+** Choice/Opt-Out **
 
 Our site provides users with the opportunity to opt-out of receiving  
 communications from us at any time.
@@ -44,4 +42,4 @@ communications from us at any time.
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  
 _The Webmaster  
 Coming Soon!_  
-[future@comingsoon.net](mailto:future@comingsoon.net)
+[staff@comingsoon.net](mailto:staff@comingsoon.net)
