@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timesonline.co.uk privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605054016id_/http%3A//www.nidp.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesonline.co.uk privacy policy that was archived on 2002-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021128223615id_/http%3A//www.nidp.com) for the most accurate reproduction.*
 
 # News International Data Protection
 
@@ -29,7 +29,7 @@ Cookies help us to recognise you when you next visit one of our websites and not
 
 Cookies may be used to compile anonymous statistics related to the take up or use of services, or to patterns of browsing. A third party collects such data on our behalf to measure web site performance. Information collected is aggregated for reporting purposes. No personally identifiable information is collected by this service. The use of this service assists us in measuring and improving the structure and ease of use of our web sites.  
   
-You are not obliged to accept cookies and may modify your browser so that it will not accept cookies.[ **Click here**](https://web.archive.org/web/20020605054016id_/http://www.nidp.com/cookie.html) for instructions on how to disable cookies. Please be aware that if you do so, certain services on our websites may not be available to you.
+You are not obliged to accept cookies and may modify your browser so that it will not accept cookies.[ **Click here**](https://web.archive.org/web/20021128223615id_/http://www.nidp.com/cookie.html) for instructions on how to disable cookies. Please be aware that if you do so, certain services on our websites may not be available to you.
 
 If you apply for credit then to help us to make credit decisions about you, to prevent fraud, to check your identity and to prevent money laundering, we may search the files of credit reference agencies who will record any credit searches on your file. We may also disclose details of how you conduct your account to such agencies. The information will be used by other credit grantors for making credit decisions about you and the people with whom you are financially associated for fraud prevention, money laundering prevention and occasionally for tracing debtors.
 
