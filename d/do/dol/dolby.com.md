@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dolby.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331212942id_/http%3A//www.dolby.com/copy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dolby.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205070312id_/http%3A//dolby.com/copy.html) for the most accurate reproduction.*
 
-# Dolby Laboratories: Website Copyright & Privacy Guidelines
+# Dolby Laboratories, Inc. website copyright and privacy guidelines
 
   
 |  | **Information**  
@@ -49,7 +49,7 @@
 
 **Copyright Notice**
 
-All materials on this Web site, unless otherwise noted, are © 2000 Dolby Laboratories Inc. Dolby and the double-D symbol are trademarks of Dolby Laboratories Licensing Corporation. Any other trademarks used are the property of their respective owners. 
+All materials on this Web site, unless otherwise noted, are © 2001 Dolby Laboratories Inc. Dolby and the double-D symbol are registered trademarks of Dolby Laboratories Licensing Corporation. Any other trademarks used are the property of their respective owners. 
 
 **Privacy Guidelines**
 
