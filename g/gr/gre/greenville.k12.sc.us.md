@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the greenville.k12.sc.us privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217201352id_/http%3A//www.greenville.k12.sc.us/district/web/policy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenville.k12.sc.us privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017093112id_/http%3A//www.greenville.k12.sc.us/district/web/policy/privacy.htm) for the most accurate reproduction.*
 
 # SDGC Privacy Policy
 
 Wednesday, February 19, 2020
 
 [ Download Print Version  
-](https://web.archive.org/web/20011217201352id_/http%3A//www.greenville.k12.sc.us/district/web/policy/pdf/Privacy%20Policy.pdf)[](http://www.adobe.com/products/acrobat/readstep2.html)
+](https://web.archive.org/web/20021017093112id_/http%3A//www.greenville.k12.sc.us/district/web/policy/pdf/privacy.pdf)[](http://www.adobe.com/products/acrobat/readstep2.html)
 
-##  Privacy Policy
+##  Web Site Privacy
 
 Greenville Schools Online is maintained by The School District of Greenville County. The District is committed to ensuring the privacy of all our web site users. This document explains our collection and use of personal information.
 
@@ -16,9 +16,13 @@ Greenville Schools Online is maintained by The School District of Greenville Cou
 Greenville Schools Online does not collect personal information about individuals without their knowledge. Personal information may be requested when you engage in any of the following online activities:
 
   * Register on our site to use services available only to registered users;
+
   * Use District Email;
+
   * Submit information for content or editorial purposes, such as news items, letters of opinion, press releases;
+
   * Submit information to the site via a form. This includes activities such as completing a user survey or online application.
+
 
 
 
@@ -26,15 +30,18 @@ Greenville Schools Online does not collect personal information about individual
 
 Personal information submitted **will not** be transferred to any non-affiliated third parties unless otherwise stated at the time of collection.
 
-##### When you submit information with our on line forms: 
+##### When you submit information with our on line forms:
 
 When a user submits personally identifiable information it is used only for the purpose stated at the time of collection. For example, our On Line Job Application is stored to provide you and our Human Resources Department access to the account. No information collected is shared with any other party.
 
 When you use a form on Greenville Schools Online, we may request your email address as a unique identifier. If you provide your email address, you may choose to receive the following:
 
   * Announcements of service enhancements
+
   * Information about new web site features
+
   * Surveys designed to collect information.
+
 
 
 
@@ -64,8 +71,7 @@ The District uses Internet Protocol ("IP") addresses to help diagnose problems w
 
 ### Security
 
-The School District of Greenville County takes reasonable precautions to protect your personal information. When you submit information via the web site, it is protected both online and off-line. When personal information is required, that information is stored in a secure file on our server. This information is not accessible from the web.
-
+The School District of Greenville County takes reasonable precautions to protect your personal information. When you submit information via the web site, it is protected both online and off-line. When personal information is required, that information is stored in a secure file on our server. This information is not accessible from the web.  
 We also take precautions to protect user information off-line. All user information is restricted to authorized employees. Only employees who need the information to perform a specific task, for example, a Human Resources Job Specialist, are granted access to personal information. The server used to store personal information is kept in a secure environment.
 
 ### Contact Information
@@ -73,21 +79,15 @@ We also take precautions to protect user information off-line. All user informat
 If you have comments, questions, or concerns about our privacy policy, or want to be removed from our database, please contact us in one of the following ways:
 
   * Send email to [webmaster@greenville.k12.sc.us](mailto:webmaster@greenville.k12.sc.us)
-  * Send postal mail to the following address:
-
-
-
-> > 301 Camperdown Way  
->  P.O. Box 2848  
->  Greenville, South Carolina  
->  29602
-
+  * Send postal mail to the following address: 
+    * 301 Camperdown Way  
+P.O. Box 2848  
+Greenville, South Carolina  
+29602
   * Call our INFOLine service at the following telephone number: 864-241-3100.
 
 
 
-Updated on September 12, 2001
+Updated on May 23, 2002
 
-[Send us your comments on this policy.](https://web.archive.org/web/20011217201352id_/http%3A//www.greenville.k12.sc.us/district/support/ets/reports/privacy.htm)
-
-[ Download Print Version](https://web.archive.org/web/20011217201352id_/http%3A//www.greenville.k12.sc.us/district/web/policy/pdf/Privacy%20Policy.pdf)
+[ Download Print Version](https://web.archive.org/web/20021017093112id_/http%3A//www.greenville.k12.sc.us/district/web/policy/pdf/privacy.pdf)
