@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midwayusa.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202151355id_/http%3A//www.midwayusa.com/midwayusa/applications/static.exe/getstaticpage%3Fpage%3Dprivacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midwayusa.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605160824id_/http%3A//www.midwayusa.com/midwayusa/applications/static.exe/getstaticpage%3Fpage%3Dprivacy_policy.htm) for the most accurate reproduction.*
 
 # MidwayUSA - Privacy Policy
 
@@ -13,12 +13,11 @@ Subtotal: **$0.00**
   
   |  MidwayUSA has created this privacy policy to demonstrate our commitment to privacy. Your privacy is very important to us.  
 ---|---  
-  
-  |   
+  |  |  |   
 ---|---  
   |  To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate procedures to safeguard and secure the information we collect online.
 
-Secure communications on the web require attention to authentication, encryption and data integrity. All three are addressed by industry-standard SSL (Secure Sockets Layer) protocol. We use SSL to communicate with secure browsers such as AOL, Netscape and Internet Explorer. This means that your name, address, credit card numbers and any other information you provide through SSL are encrypted in a way that makes it extremely difficult for others to decode. We use technology provided by Veri-Sign to make your online visit as secure as possible. All payment information is collected in a secure environment that can be confirmed through Veri-Sign, Inc. You can tell if your computer is using SSL when you see a lock at the bottom of your screen or by checking the URL to ensure it is pointing to "https."[](https://digitalid.verisign.com/as2/3940fd35c312eec59dfcf595b7857c3d)
+Secure communications on the web require attention to authentication, encryption and data integrity. All three are addressed by industry-standard SSL (Secure Sockets Layer) protocol. We use SSL to communicate with secure browsers such as AOL, Netscape and Internet Explorer. This means that your name, address, credit card numbers and any other information you provide through SSL are encrypted in a way that makes it extremely difficult for others to decode. We use technology provided by Veri-Sign to make your online visit as secure as possible. All payment information is collected in a secure environment that can be confirmed through Veri-Sign, Inc. You can tell if your computer is using SSL when you see a lock at the bottom of your screen or by checking the URL to ensure it is pointing to "https." 
 
 Our security measures do not end once you have completed your online order. For example, the moment you press "submit" to send your order, the encrypted order is sent directly to our order processing system.  
   
