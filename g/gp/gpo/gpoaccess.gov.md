@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gpoaccess.gov privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204123504id_/http%3A//www.gpoaccess.gov/about/legal.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpoaccess.gov privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307201306id_/http%3A//www.gpoaccess.gov/about/legal.html%23privacy) for the most accurate reproduction.*
 
 # Legal Information
 
@@ -17,7 +17,7 @@ Government](http://bensguide.gpo.gov/)
   
 | 
 
-[Home Page](https://web.archive.org/web/20041204123504id_/http%3A//www.gpoaccess.gov/index.html) > [About the U.S. Government Printing Office](https://web.archive.org/web/20041204123504id_/http%3A//www.gpoaccess.gov/about/index.html) > Legal Information
+[Home Page](https://web.archive.org/web/20050307201306id_/http%3A//www.gpoaccess.gov/index.html) > [About the U.S. Government Printing Office](https://web.archive.org/web/20050307201306id_/http%3A//www.gpoaccess.gov/about/index.html) > Legal Information
 
 Permanent Public Access | Public Domain / Copyright Notice  
 Photo Credits and Copyright | Section 508 / Accessibility | Privacy | Security
@@ -40,7 +40,7 @@ Note: To assist users in finding official Government information, we provide lin
 
 ## Photo Credits and Copyright
 
-For many of the images on _GPO Access_ , GPO has purchased the right to use the image. GPO is licensed to use these images on a non-exclusive and non-transferable basis. All other rights to the image, including without limitation, copyright and all other rights, are retained by the owner of the images. These images are not in the public domain. For inquiries about images on _GPO Access_ please contact the _[GPO Access](https://web.archive.org/web/20041204123504id_/http%3A//www.gpoaccess.gov/contact.html)_[ User Support Team](https://web.archive.org/web/20041204123504id_/http%3A//www.gpoaccess.gov/contact.html). 
+For many of the images on _GPO Access_ , GPO has purchased the right to use the image. GPO is licensed to use these images on a non-exclusive and non-transferable basis. All other rights to the image, including without limitation, copyright and all other rights, are retained by the owner of the images. These images are not in the public domain. For inquiries about images on _GPO Access_ please contact the _[GPO Access](https://web.archive.org/web/20050307201306id_/http%3A//www.gpoaccess.gov/contact.html)_[ User Support Team](https://web.archive.org/web/20050307201306id_/http%3A//www.gpoaccess.gov/contact.html). 
 
 [ Top ]
 
@@ -52,7 +52,7 @@ The U.S. Government Printing Office (GPO) has always had a commitment to accessi
 
 Currently, GPO is working to ensure that existing pages on _GPO Access_ are Section 508-compliant, and that future pages will be created specifically with these accessibility standards in mind.
 
-Feel free to contact us for any reason, especially if you encounter barriers to accessibility on any of our Web pages. With your help, we can work together to ensure that _GPO Access_ remains as accessible as possible. Please direct questions, comments, or recommendations regarding the accessibility of _GPO Access_ to __ the _[GPO Access](https://web.archive.org/web/20041204123504id_/http%3A//www.gpoaccess.gov/contact.html)_[ User Support Team](https://web.archive.org/web/20041204123504id_/http%3A//www.gpoaccess.gov/contact.html). 
+Feel free to contact us for any reason, especially if you encounter barriers to accessibility on any of our Web pages. With your help, we can work together to ensure that _GPO Access_ remains as accessible as possible. Please direct questions, comments, or recommendations regarding the accessibility of _GPO Access_ to __ the _[GPO Access](https://web.archive.org/web/20050307201306id_/http%3A//www.gpoaccess.gov/contact.html)_[ User Support Team](https://web.archive.org/web/20050307201306id_/http%3A//www.gpoaccess.gov/contact.html). 
 
 More information about Section 508 can be found on: [http://www.section508.gov](http://frwebgate.access.gpo.gov/cgi-bin/leaving.cgi?from=exit.html&to=http://www.section508.gov&log=linklog). 
 
@@ -74,7 +74,7 @@ When users surf the _GPO Access_ Web site or hosted Federal Web sites, GPO colle
 
 We use these statistics to make improvements to _GPO Access_ , not to identify individual users or their searches. We do not enable cookies to monitor usage or to gather users’ personal information.
 
-View [examples](https://web.archive.org/web/20041204123504id_/http%3A//www.gpoaccess.gov/privexample.html) of statistical information that we collect.
+View [examples](https://web.archive.org/web/20050307201306id_/http%3A//www.gpoaccess.gov/privexample.html) of statistical information that we collect.
 
 **Information Collected via Correspondence with GPO**  
 Personal information submitted by a user in comments or questions via phone, fax, or e-mail is not distributed to parties outside of GPO. Identifying information, such as name, e-mail address, and phone or fax number, is used only for responding to users' comments or questions, and is not made available for other purposes.
