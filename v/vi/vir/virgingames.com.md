@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virgingames.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207145646id_/http%3A//www.virgingames.com/home/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virgingames.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206153949id_/http%3A//www.virgingames.com/home/privacy.do) for the most accurate reproduction.*
 
 # Virgin Games - Privacy
 
