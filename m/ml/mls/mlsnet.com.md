@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mlsnet.com privacy policy that was archived on 2001-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011029145549id_/http%3A//mlsnet.com/resources/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlsnet.com privacy policy that was archived on 2002-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020204184724id_/http%3A//mlsnet.com/resources/privacy.html) for the most accurate reproduction.*
 
 # MLSnet.com - The Official Site of Major League Soccer
 
-Untitled Document [MLSnet.com >](https://web.archive.org/) [Site Resources >](https://web.archive.org/resources/)
+[MLSnet.com >](https://web.archive.org/) [Site Resources >](https://web.archive.org/resources/)
 
 MLSnet.com Privacy Policy
 
