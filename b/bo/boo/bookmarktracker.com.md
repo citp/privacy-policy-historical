@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bookmarktracker.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401174719id_/http%3A//bookmarktracker.com/about/privacy.cfm%3Fsid%3D4309.60088308) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarktracker.com privacy policy that was archived on 2004-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041026004937id_/http%3A//www.bookmarktracker.com/bt/649491.63432261/about.privacy) for the most accurate reproduction.*
 
-# BookmarkTracker.com : Our Privacy Policy
+# BookmarkTracker : About : Our Privacy Policy
 
   
 Privacy Statement Summary
@@ -49,17 +49,16 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  1. You can send email to [webmaster@BookmarkTracker.com](https://web.archive.org/about/feedback.cfm?sid=4851.92046357)
-  2. You can visit the following URL: [http://www.BookmarkTracker.com/remove.cfm](https://web.archive.org/remove.cfm?sid=4851.92046357)
+  1. You can send email to [webmaster@BookmarkTracker.com](https://web.archive.org/bt/726544.54026777/about.feedback)
 
-Should you wish to completely remove your account information from our database, you can cancel your account by sending an email message to [cancel@BookmarkTracker.com](https://web.archive.org/about/feedback.cfm?sid=4851.92046357). In that event, your user information will be completely removed from our database.
+Should you wish to completely remove your account information from our database, you can cancel your account by sending an email message to [cancel@BookmarkTracker.com](https://web.archive.org/bt/726544.54026777/about.feedback). In that event, your user information will be completely removed from our database.
 
 Correct/Update
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-  1. email [webmaster@BookmarkTracker.com](https://web.archive.org/about/feedback.cfm?sid=4851.92046357)
-  2. visit [http://www.BookmarkTracker.com/options/](https://web.archive.org/options/home.cfm?sid=4851.92046357)
+  1. email [webmaster@BookmarkTracker.com](https://web.archive.org/bt/726544.54026777/about.feedback)
+  2. visit [http://www.BookmarkTracker.com/options/](https://web.archive.org/bt/726544.54026777/options)
 
 Contacting the Web Site
 
