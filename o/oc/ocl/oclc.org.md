@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oclc.org privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202210622id_/http%3A//oclc.org/policies/privacy/default.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oclc.org privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206181035id_/http%3A//www.oclc.org/policies/privacy/default.htm) for the most accurate reproduction.*
 
 # OCLC Privacy policy [OCLC]
 
@@ -67,6 +67,6 @@ If we decide to change our privacy policy we will give notice of the change so o
 
 
 
-**OCLC Privacy policy** [ISO-9001 and quality](https://web.archive.org/web/20031202210622id_/http%3A//oclc.org/policies/iso/default.htm) [Copyright policy](https://web.archive.org/web/20031202210622id_/http%3A//oclc.org/policies/copyright/default.htm) [OCLC human-computer interaction](https://web.archive.org/web/20031202210622id_/http%3A//oclc.org/policies/usability/default.htm)  
+**OCLC Privacy policy** [ISO-9001 and quality](https://web.archive.org/web/20041206181035id_/http%3A//www.oclc.org/policies/iso/default.htm) [Copyright policy](https://web.archive.org/web/20041206181035id_/http%3A//www.oclc.org/policies/copyright/default.htm) [OCLC human-computer interaction](https://web.archive.org/web/20041206181035id_/http%3A//www.oclc.org/policies/usability/default.htm)  
   
 ---|---
