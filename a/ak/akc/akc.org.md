@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the akc.org privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202052100id_/http%3A//www.akc.org/akc/privacystatement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akc.org privacy policy that was archived on 2001-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010216130046id_/http%3A//www.akc.org/akc/privacystatement.cfm) for the most accurate reproduction.*
 
 # Privacy Statement
 
