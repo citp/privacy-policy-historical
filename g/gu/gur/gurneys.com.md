@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the gurneys.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208172654id_/http%3A//gurneys.com/article_disp.asp%3Fai%3D112) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gurneys.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621083404id_/http%3A//gurneys.com/article_disp.asp%3Fai%3D112) for the most accurate reproduction.*
 
 # Gurney's Seed and Nursery Co.
 
 This is the web site of Gurney's Seed & Nursery
 
 Our postal address is  
-P.O. Box 778   
-Yankton, SD 57079-0778
+P.O. Box 4178   
+Greendale, IN 47025-4178
 
 We can be reached via e-mail at service@gurneys.com
 
-Telephone: 812.539.2502
+Telephone: 513 354-1492
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible). 
 
