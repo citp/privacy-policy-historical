@@ -1,24 +1,11 @@
-> *The following text is extracted and transformed from the startribune.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206044548id_/http%3A//startribune.com/stories/776/3847453.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startribune.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605215650id_/http%3A//startribune.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy for startribune.com
 
-|  | [](http://www.startribune.com/stories/776)
+Last update: June 4, 2004 at 4:32 PM
 
-**index**
+April 25, 2003  PRIVACYPOLICY 
 
-|  | 
-
-Privacy policy for startribune.com
-
-|   
----  
-  
-Published April 25, 2003
-
-| 
-
-PRIVACYPOLICY  
-  
 Startribune.com has a firm commitment to privacy. We take your privacy concerns seriously and want to make every effort to address them as we strive to offer our site visitors a high quality, interactive and personalized experience. That is why we have adopted the following policy, which explains our position on information gathering and how we intend to use and share any information we collect. It is important to note that this policy applies only to information collected by startribune.com and does not apply to information obtained or used by Star Tribune or its affiliates through other means.
 
 Startribune.com collects and stores Personally Identifiable Information such as your name, address, e-mail address, etc. What information we collect and store depends on the page you are visiting and the services you elect to participate in. We use this information to operate our services, provide you with the highest quality services, offer you opportunities we think will be of interest, and better tailor the advertising you see from us to suit you. This information is not shared with anyone outside of Star Tribune and startribune.com except as provided for in this Privacy Policy. More specifics on the information we collect are outlined within this policy. 
@@ -71,7 +58,7 @@ All registered users will receive periodic Member Mail via e-mail related to the
 
 Separate from startribune.com Member Mail, Star Tribune FYI provides information and opportunities related to the newspaper. If you don't want to receive this information, you can opt out by changing your permission setting for Star Tribune FYI e-mail in the Member Center. 
 
-When a user specifically authorizes e-mail solicitations (for example, in the user license for our Working service) we make available the user names and other Personally Identifiable Information in accordance with the applicable license. Please refer to the legal notices and license terms of our Working service for further details.  
+When a user specifically authorizes e-mail solicitations (for example, in the user license for our Jobs service) we make available the user names and other Personally Identifiable Information in accordance with the applicable license. Please refer to the legal notices and license terms of our Jobs service for further details.  
 [Legal notice and terms for Job Seekers](http://workavenue.startribune.com/cgi-bin/gx.cgi/AppLogic%2BftContentServer?pagename=wa%2fjobseeker%2flegal_notice)  
 [Legal notice and terms for Employers](http://workavenue.startribune.com/cgi-bin/gx.cgi/AppLogic%2BftContentServer?pagename=wa%2femployer%2flegal_notice)
 
@@ -114,9 +101,4 @@ E-mail: [Feedback Form](http://www.startribune.com/feedback)
 
   
 Effective Date: May 14, 2003  
-[Previous policy](http://www.startribune.com/stories/776/40762.html)  
 
-
-|  |  |   
----|---  
-| 
