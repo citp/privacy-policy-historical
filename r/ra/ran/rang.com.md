@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rang.com privacy policy that was archived on 2000-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000304111847id_/http%3A//www.themail.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rang.com privacy policy that was archived on 2000-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001018180518id_/http%3A//themail.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ At TheMail.com, we respect your privacy. We do collect information from you, but
 
 To protect your privacy, TheMail.com: 
 
-  * TheMail.com will not intentionally monitor or disclose any private e-mail message or address information to third parties unless required by law, regulation, court order, or legitimate administrative purpose. 
+  * TheMail.com will not intentionally monitor or disclose any private e-mail message to third parties unless required by law, regulation, court order, or legitimate administrative purpose. 
   * Will not knowingly use personal identifying information from children younger than 18 without parental consent 
 
 
@@ -87,9 +87,9 @@ Most browsers allow three options for handling cookies:
 Our web-based mail service will not function unless your browser is set to accept cookies. Instructions for enabling and disabling cookies can be found through the help menu on most browsers. If you have continued trouble changing your cookie settings, you may contact our support site for additional help. 
 
 **4\. How do third-party advertisers use my information?**   
-As a TheMail.com Member, you may, at the time of sign up and during subsequent use of our services, request to receive information from select third party sponsors. This information is a good way to learn about special offers on the web. In order to provide you with your requested services, we may share some of your information such as name and e-mail address with third party sponsors. 
+We may share some of your information such as name and e-mail address with third party sponsors. In addition, you may at the time of sign up and during subsequent use of our services, request to receive information from select third party sponsors. This information is a good way to learn about special offers on the web. 
 
-You may request that e-mail be sent to your TheMail.com account containing promotional offers, editorial content, or calendar reminders at any time. If you have requested such e-mail and you have not logged into your account for a prolonged period of time, we may forward the requested information to your alternate e-mail address. TheMail.com will not disclose your alternate e-mail address to any third parties without your permission. 
+You may request that e-mail be sent to your TheMail.com account containing promotional offers, editorial content, or calendar reminders at any time. If you have requested such e-mail and you have not logged into your account for a prolonged period of time, we may forward the requested information to your alternate e-mail address. 
 
 All promotional e-mails that you request through TheMail.com will include a removal procedure which will allow you to discontinue receiving further e-mail offers. i.e., you can change your mind about receiving further e-mails at a later date. 
 
@@ -97,7 +97,7 @@ If you receive an e-mail from a third party stating that it is associated with T
 
 Additionally, be aware that when you click on ad banners, you may be brought to other sites not operated by TheMail.com. You are responsible for information you provide these sites. We recommend that you review the privacy policy of any site that requests personal information. 
 
-**5\. How does TheMail.com protect the privacy of children younger than 13?**   
+**5\. How does TheMail.com protect the privacy of children younger than 18?**   
 We believe that it's especially important to protect children's privacy online. 
 
 TheMail.com does ask that children under 18 get their parent's permission to sign up for a new account. We administrate this by asking the parent to click on a box saying it's O.K. for the child to use the service after entering their registration information. 
@@ -124,6 +124,8 @@ We send reminders of your account passwords only after the appropriate security 
 
 
 
+
+We use third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.sonar.com/content/privacy.htm). 
 
 You agree to be bound by all of its terms and conditions of this Privacy Statement. 
 
