@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the biocompare.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204124035id_/http%3A//www.biocompare.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biocompare.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404160304id_/http%3A//www.biocompare.com/privacy.asp) for the most accurate reproduction.*
 
-# Biocompare - Contact Biocompare
+# Biocompare - Privacy Policy
 
 Biocompare is committed to protecting your privacy. We use the information we collect about you to provide you with personalized information, services and tools. We will not disclose individually identifiable information to any third party without first receiving that user's permission. Please read on for more details about our privacy policy.
 
@@ -38,6 +38,6 @@ When you are on Biocompare you could be directed to other sites that are beyond 
 Other  
 If you are sharing a computer, others can access your saved information. Another person sharing a computer can set up their own account by simply going to custom settings.
 
-If you have questions or concerns regarding this privacy statement or other Biocompare policies, please [contact](https://web.archive.org/web/20041204124035id_/http%3A//www.biocompare.com/contact.asp) the company at [info@biocompare.com](mailto:info@biocompare.com?subject=Privacy).
+If you have questions or concerns regarding this privacy statement or other Biocompare policies, please [contact](https://web.archive.org/web/20050404160304id_/http%3A//www.biocompare.com/contact.asp) the company at [info@biocompare.com](mailto:info@biocompare.com?subject=Privacy).
 
-Please see the [Disclaimer](https://web.archive.org/web/20041204124035id_/http%3A//www.biocompare.com/disclaimer.asp) for additional, related information.
+Please see the [Disclaimer](https://web.archive.org/web/20050404160304id_/http%3A//www.biocompare.com/disclaimer.asp) for additional, related information.
