@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yodlee.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217225409id_/http%3A//www.yodlee.com/policy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yodlee.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603151713id_/http%3A//yodlee.com/policy/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
