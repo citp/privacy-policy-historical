@@ -1,65 +1,104 @@
-> *The following text is extracted and transformed from the scholastic.ca privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203011545id_/http%3A//www.scholastic.ca/privacy-terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholastic.ca privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603093833id_/http%3A//www.scholastic.ca/privacy-terms/privacy.html) for the most accurate reproduction.*
 
 # Scholastic Canada: Privacy Notice
 
-**PRIVACY NOTICE**
+|   
+---  
+  
+**Scholastic Canada’s Privacy Policy**
 
-The Privacy Notice is an agreement between Scholastic Canada Ltd. and visitors of our site. If you do not agree to the terms of this policy, please do not use this site. The following policy applies to the Scholastic.ca site. 
+At Scholastic Canada, Protecting Your Privacy means:
 
-Scholastic Canada Ltd. is committed to protecting the privacy and security of its online visitors. This policy statement provides our visitors (e.g., parents, teachers and children) with an overview of the measures we have taken to provide a safe environment for everyone. 
+* with your consent, we will gather only the minimum personal information necessary to provide you with current information about our products and services, and to provide you with fast, reliable service if you decide to purchase from us
+* we will not sell, exchange, loan or make available to non-Scholastic Canada businesses or services any personal information that you have provided to us
+* we will keep all personal information confidential, and we will provide strong safeguards to protect that information whether it is in print, electronic or other form
+* we will make available to you, on request, your personal information that we have on file, and we will correct, amend or delete information at your request.
 
-**PERSONALLY IDENTIFIABLE INFORMATION**
+**__Introduction__**
 
-We only collect personally identifiable information from our visitors 13 years old or above when such visitors voluntarily submit such information. 
+Scholastic Canada has always had a profound respect for the privacy of its customers. We regard all information given to us as a very special trust. We have never sold or shared our customer lists with any other company or service, and we are determined to maintain this policy.
 
-With respect to visitors under 13 years of age, we do not collect personally identifiable information without first obtaining verifiable parental consent, unless we only use such information to: (1) obtain parental consent or provide parents with notice that we have collected information from their children; (2) respond directly on a one-time basis to a child's specific request; (3) respond more than once to a child's specific request along with providing parental notice of such use; (4) protect the safety of a child; or (5) comply with legal requirements. The consent and notification process mentioned above gives parents the ability to let us know if they do not want us to make further use of the personally identifiable information we have collected from their child. 
+Scholastic Canada uses its customer lists to provide products and services to our customers and to keep them informed of any new products or services that are appropriate to their needs and that may be of interest to them.
 
-We consider the following, among other things, to be personally identifiable information: first and last name, e-mail address, street address and phone number. We may request such personally identifiable information from children in connection with our contests, sweepstakes, games, surveys, forums, subscription registrations, content submissions, classroom activities, requests for suggestions, and visitors' requests for free products, services (such as our magazines) or additional information. We collect such information so that we can contact a winner, answer questions or requests, and fulfil orders, as applicable. Unless we indicate otherwise, personally identifiable information from children under the age of 13 will be used solely by Scholastic Canada Ltd. or its agents for internal purposes and will not be sold or otherwise transferred to third parties. 
+We are very happy to assure our customers that we are conforming to all the requirements of Canada’s new privacy legislation, _The Personal Information Protection and Electronic Documents Act_.
 
-It is Scholastic Canada Ltd.'s policy never to post on its site, more than a child's first name, first initial of last name, province and age or grade. 
+To help you understand the ways in which Scholastic Canada respects and protects the information you share with us, we are pleased to provide the following description of our policies and practices:
 
-**FOR PARENTS**
+**Personal information**
 
-There are many activities on the Scholastic Canada Ltd. site that children can participate in and enjoy without having to share personally identifiable information. 
+In order to serve our customers with the right materials at the right levels, delivered to the right address, and to ensure that the financial relationship is correct and current, we need to have certain basic personal information on file. 
 
-For those activities that require personally identifiable information, such as contests and sweepstakes (in compliance Canada's federal privacy law, the Personal Information Protection and Electronic Documents Act), Scholastic Canada Ltd. will not condition a child's participation in an activity on that child disclosing more personally identifiable information than is reasonably necessary to administer the activity. For certain online activities, we require verifiable parental consent before collecting or using a child's personally identifiable information. With these activities, Scholastic will notify the respective parent (by mail, fax) of our privacy policy and obtain verifiable parental consent before collecting personally identifiable information from a child, unless one of the exceptions discussed above applies. 
+Personal information is the information we have that relates to you, our customer, as an individual. Personal information, beyond your name and school or business contact information, may include any or all of the following: a record of your purchases and payment method, alternate contact information and your account number (if applicable). For teachers, we may also retain information that you have provided to us relating to your classroom needs and the number of years you have been teaching.
 
-Parents can request to review, amend, update or have deleted their child's personally identifiable information from Scholastic Canada Ltd.'s records, and refuse to permit further use of a child's information by printing, completing and returning 
+We will only request information from you that relates directly to the products or services we are providing to you, and we will keep that information active only as long as the uses for which it has been collected are relevant to your needs.
 
-[_this letter_](https://web.archive.org/web/20031203011545id_/http%3A//www.scholastic.ca/privacy-terms/letter.html) by fax or regular mail to the specified address. 
+**Consent**
 
-**FOR TEACHERS**
+Scholastic Canada must obtain the consent of all the people whose name may be retained in our records to receive products or information. If the customer sends in a coupon or a form requesting our services, we accept that as implied consent. If we need information beyond that which the customer has indicated (in conducting a survey, for instance), we will request the explicit consent of the customer either verbally or in writing.
 
-There are many activities on the Scholastic Canada Ltd. site that are for teachers, which enable teachers to add another dimension to their classroom and students' activities. We use information we collect from you about your preferences to help us improve our web site so that it continually responds to the interests of our visitors. 
+The customer can at any time withdraw consent to receive further information or products. We will remove the customer’s name as quickly as possible, but, owing to work that has been completed or scheduled, the name may not become inactive for up to three months.
 
-**FOR KIDS**
+It should be noted that from time to time Scholastic Canada may acquire from outside companies lists of customers who have consented to receive information. It may sometimes occur that a name that we have deleted on request from our files may appear on one of the lists we have acquired. In such a case the customer may have to request another deletion.
 
-Remember to be smart online. Do not give out your full name, e-mail address, home address, telephone number or any other personal information that would enable someone to contact you either online or offline, without first asking your parent or guardian for permission. Sometimes on our site we will ask you for your first name and e-mail address, along with your parent's e-mail or home address. We do this so that we can contact your parent to let them know that you have communicated with us and that we have collected this information from you. 
+**Call monitoring and recording**
 
-**NON-PERSONALLY IDENTIFIABLE INFORMATION AND THE USE OF COOKIE TECHNOLOGY**
+In order to ensure a high level of customer service, and a sensitive treatment of customer concerns, our customer service calls are monitored and/or recorded on an ongoing basis for training purposes only. We do this to ensure the highest level of service to our customers and to enable our staff to improve their skills through practical mentoring and coaching.
 
-We collect non-personally identifiable information through the use of a software technology called "cookies", and through our visitor's voluntary submissions to us and/or upon our request. By non-personally identifiable information, we are referring to information about our visitor's browser (e.g., Netscape Navigator or Internet Explorer), operating systems (e.g., Windows or Macintosh), Internet service providers (e.g., AOL or NET.COM) and other similar information which we track in aggregate form. We also collect the following non-personally identifiable information in connection with content submissions, games, classrooms and bulletin boards: first name only and first initial of last name, Province, age and grade. The non-personally identifiable information that we track is anonymous and will never be identified with or lead us back to any of our visitors. 
+**Employee commitment**
 
-Cookie technology helps us to know how many people visit us and where visitors go on our site. Cookies are small bits of information we send to your computer. Among other things, this non-personally identifiable information allows us to know which areas are favourites, which areas need a bit of improvement, or what technologies and Internet services are being used by our visitors, so that we may continually improve our visitor's online experiences. 
+Every one of our employees is committed to respecting the personal information we hold in our files. Each year our employees sign a letter obliging them to abide by the company policy relating to the proper use of personal information.
 
-**USE OF IP ADDRESSES**
+**Third party commitment**
 
-We collect IP addresses to obtain aggregate information on the use of Scholastic.ca. An IP address is a number assigned to your computer by a Web server when you're on the web. When you are on our site, we have a back-end server which logs your computer's IP address. We only use the information we find out from tracking IP addresses in the aggregate, such as how many users entered a specific area of our site, and not to track a specific IP address to identify an individual user. However, we may use such information to identify a user if we feel that there are or may be safety and/or security issues, or to comply with legal requirements. 
+Whenever Scholastic Canada supplies data files to third party services such as printers or mailing houses, these companies sign a commitment to respect Scholastic Canada’s Code of Privacy and to utilize the lists only for the purposes Scholastic Canada specifies and not make any copies of the files. All data files remain the property of Scholastic Canada and must be returned to Scholastic Canada at the completion of the job.
 
-**SECURITY**
+**Uses of personal information**
 
-Scholastic Canada Ltd. ensures that all information, personally and non-personally identifiable information, that it receives via the Internet is secure against unauthorised access. This information is kept in a safe and secure system, isolated from direct connection to the Internet. This means that no eyes but ours will ever see the information that our visitors send to us, unless we indicate otherwise. 
+Scholastic Canada collects personal information for the following purposes:
 
-In some places on our site, parents and teachers may be able to purchase items with the use of a credit card. In such instances, Scholastic Canada Ltd. uses secure server software over a Secure Socket Layer (SSL) line, the latest technology to protect your credit card information. SSL is the industry standard and among the best software available today for secure commerce transactions. It encrypts all of your credit card information so that the information from your credit card cannot be read as it travels over the Internet. 
+* to make you aware of Scholastic Canada’s products and services that may be of interest to you. From time to time we have included other companies’ products and services in our offerings, but we do not make our list of names and addresses available to such other companies
+* to provide you with fast accurate service and to provide us with the ability to reach you to resolve problems should they arise
+* to meet legal and regulatory requirements under federal and provincial regulations.
 
-**LINKS TO OTHER SITES**
+**Limitations on use**
 
-Visitors will find links from Scholastic.ca to independently owned, controlled and/or managed World Wide Web or Internet sites whose content we have found of possible interest to our visitors. In many cases, but not always, the links represent co-operative projects or mutual links established with the organisations connected with these sites. While we initially visit these sites to which we directly link, please note that we do not monitor or control the content that appears on these sites and such content may be constantly changing. We recommend that children check with their parents or teachers before clicking off to any new sites, and we encourage children and parents to read the privacy policies of all linked sites before navigating through them. 
+Scholastic Canada will not use your personal information for any purposes, other than those outlined above, unless we have asked your permission and have received your consent.
 
-Please note that we may revise our above policy as the content on our sites continues to change. 
+Scholastic Canada will remove personal information when it is no longer relevant for the uses for which it was gathered.
 
-We hope that you enjoy exploring our site. 
+Scholastic Canada will delete your name from our mailing list following the receipt of your request by letter, fax, email or phone.
 
-Scholastic.ca is owned and operated by Scholastic Canada Ltd., 175 Hillmount Road, Markham, Ontario, Canada L6C 1Z7. We can be reached by phone at 905-887-7323, by fax at 905-887-1131 and by e-mail at 
+**Term**
 
-[_custserve@scholastic.ca_](mailto:custserve@scholastic.ca). If you have any questions about our privacy policy or practices, or you wish to amend, update or verify the information on file, or notify us that you want your information deleted from our files, please contact the Web Producer at this address. 
+We will not retain personal information indefinitely. Generally a name is retained for two years after it has become inactive (no transactions against that name). Files are then destroyed or deleted, except for those on data tapes and financial records, which, in accordance with the law, have to be archived for seven years. Archived information is not accessed or used for operational or marketing purposes.
+
+**Security**
+
+All information held by Scholastic Canada is subject to strict internal security to prevent unauthorized access and improper usage. Electronic records are subject to limited access by authorized personnel who must use passwords and other security measures. Print records of personal information are subject to physical protection such as locked rooms or cabinets, accessible only to authorized personnel.
+
+**Access to information**
+
+As one of our customers, you have a right to know what information we are holding in respect to you, and you have the right to ensure that it is accurate. On request, we will arrange to supply you with a printout of our files relating to your information. If you wish to verify your information, please send us a letter at the address included to the attention of the Privacy Officer. If you find errors or omissions, we will be pleased to make corrections.
+
+**Website**
+
+Scholastic Canada has a full privacy policy related to its website and electronic communications. Please consult it at [www.scholastic.ca](https://web.archive.org/)
+
+**Your satisfaction**
+
+We will do our best to resolve any outstanding issues in a positive and co-operative spirit, and in a prompt manner. If, having shared your concerns with us, you are still not satisfied, you may file a complaint with the Privacy Commissioner of Canada by mail to 112 Kent Street, Ottawa, ON K1A 1H3 or by calling 1 800 282 1376.
+
+**Scholastic Canada Privacy Guarantee**
+
+**_We regard our relationship with our customers as our most precious asset. In dealing with Scholastic Canada, you can be certain that you are dealing with a company that values your trust and will take every measure to ensure your total confidence and satisfaction._**
+
+Thank you for your support. We look forward to serving you in the years ahead.
+
+Scholastic Canada Ltd.  
+175 Hillmount Road  
+Markham, Ontario  
+L6C 1Z7  
+Phone: (905) 887-7323  
+Fax: (905) 887-3639 
+
+Scholastic Canada reserves the right to update this policy.
