@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the transparent.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204175438id_/http%3A//www.transparent.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transparent.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204085342id_/http%3A//www.transparent.com/privacy.htm) for the most accurate reproduction.*
 
-# Transparent Language - LanguageNow!
+# Transparent Language, Inc. - Privacy Policy
 
 Transparent Language is absolutely committed to protecting your privacy on-line, and to providing you with a safe and secure environment for on-line interaction.
 
