@@ -1,0 +1,486 @@
+<!--The following is the downloaded HTML source of the liquid.com privacy policy that was archived on 2002-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021202072202id_/http%3A//www.liquidaudio.com/privacy) for the most accurate reproduction.-->
+
+<html><head>
+<title>Liquid Audio: Privacy Policy</title>
+<script language="JavaScript">
+<!--
+
+<!--
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+// -->
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+//-->
+//tmtC_firstSelect
+var tmt_firstSelect = new Array ();
+//tmtC_firstSelectEnd
+
+function tmt_findObj(n){
+	var x,t; if((n.indexOf("?"))>0&&parent.frames.length){t=n.split("?");
+	x=eval("parent.frames['"+t[1]+"'].document.getElementById('"+t[0]+"')");
+	}else{x=document.getElementById(n)}return x;
+}
+
+function tmt_DivSelect(){
+	var v = (document.layers) ? ".visibility" : ".style.visibility";
+	var obj = (document.getElementById) ? "tmt_findObj" : "MM_findObj";
+	var divSel = tmt_DivSelect.arguments;
+	for(var i=0;i<tmt_firstSelect.length;i++){
+		if(eval(obj+"(tmt_firstSelect[i])")){
+			eval(obj+"(tmt_firstSelect[i])"+v+"='hidden'");}}
+	tmt_firstSelect.length = 0;
+	for(var h=0;h<divSel.length;h++){
+		if(eval(obj+"(divSel[h])")){
+			eval(obj+"(divSel[h])"+v+"='visible'");
+			tmt_firstSelect[h]=divSel[h];}}
+}
+
+function P7AniMagic(el, x, y, a, b, c, s) { //v2.5 PVII
+ var g,elo=el,f="",m=false,d="";x=parseInt(x);y=parseInt(y);
+ var t = 'g.p7Magic = setTimeout("P7AniMagic(\''+elo+'\','; 
+ if ((g=MM_findObj(el))!=null) {d=(document.layers)?g:g.style;}else{return;}
+ if (parseInt(s)>0) {eval(t+x+','+y+','+a+','+b+','+c+',0)",' + s+')');return;}
+ var xx=(parseInt(d.left))?parseInt(d.left):0;
+ var yy=(parseInt(d.top))?parseInt(d.top):0;
+ if(parseInt(c)==1) {x+=xx;y+=yy;m=true;c=0;}
+ else if (c==2) {m=false;clearTimeout(g.p7Magic);}
+ else {var i=parseInt(a);
+  if (eval(g.moved)){clearTimeout(g.p7Magic);}
+  if (xx<x){xx+=i;m=true;if(xx>x){xx=x;}}
+  if (xx>x){xx-=i;m=true;if(xx<x){xx=x;}}
+  if (yy<y){yy+=i;m=true;if(yy>y){yy=y;}}
+  if (yy>y){yy-=i;m=true;if(yy<y){yy=y;}}}
+ if (m) {if((navigator.appName=="Netscape") && parseInt(navigator.appVersion)>4){
+    xx+="px";yy+="px";}
+  d.left=xx;d.top=yy;g.moved=true;eval(t+x+','+y+','+a+','+b+','+c+',0)",'+b+')');
+  }else {g.moved=false;}
+}
+
+function MM_showHideLayers() { //v3.0
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<link rel="StyleSheet" type="text/css" href="/css/sitewide.css"></head>
+
+<body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" background="/i/bluegrid_small.gif">
+
+<div id="Logo" style="position:absolute; width:84px; height:71px; z-index:999; top: 13px; visibility: visible; left: 0"><a href="/" onfocus="if(this.blur)this.blur()"><img src="/i/header/liquidlogo_84x71.gif" width="84" height="71" border="0"></a></div>
+<div id="SupportTriggerClosed" style="position:absolute; left:454px; top:37px; width:113px; z-index:103; visibility: visible"><a href="javascript:;" onfocus="if(this.blur)this.blur()" onmouseover="MM_swapImage('SupportArrowDown','','/includes/tabs/i/products/products_tab_arrowdown_on.gif',0)" onmousedown="MM_showHideLayers('SupportTriggerClosed','','hide');P7AniMagic('SupportMenu',454,37,26,30,0,0);P7AniMagic('SupportTriggerClosed',454,123,26,30,0,0)" onmouseout="MM_swapImgRestore()"><img src="/includes/tabs/i/products/products_tab_arrowdown_off.gif" width="113" height="19" name="SupportArrowDown" border="0" alt="Click to open menu"></a></div>
+<div id="CompanyMenu" style="position:absolute; left:331px; top:-56px; width:113px; z-index:101; visibility: visible"> 
+  <table width="113" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td><img src="/includes/tabs/i/products/products_tab_top.gif" width="113" height="18" name="ProductTabTop"></td>
+  </tr>
+  <tr> 
+    <td><img src="/includes/tabs/i/products/products_tab_seperator.gif" width="113" height="1" name="seperator"></td>
+  </tr>
+  <tr> 
+    <td><a href="/company/branding/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('CompanyBranding','','/includes/tabs/i/company/branding_on.gif',0)" onfocus="if(this.blur)this.blur()"><img name="CompanyBranding" border="0" src="/includes/tabs/i/company/branding_off.gif" width="113" height="11"></a></td>
+  </tr>
+  <tr> 
+    <td><img src="/includes/tabs/i/products/products_tab_seperator.gif" width="113" height="1" name="seperator"></td>
+  </tr>
+  <tr> 
+    <td><a href="/company/careers/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('CompanyCareers','','/includes/tabs/i/company/careers_on.gif',0)" onfocus="if(this.blur)this.blur()"><img name="CompanyCareers" border="0" src="/includes/tabs/i/company/careers_off.gif" width="113" height="11"></a></td>
+  </tr>
+  <tr> 
+    <td><img src="/includes/tabs/i/products/products_tab_seperator.gif" width="113" height="1" name="seperator"></td>
+  </tr>
+  <tr> 
+    <td><a href="http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=LQID&amp;script=2100&amp;layout=6" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('CompanyInvestorInformation','','/includes/tabs/i/company/investorinformation_on.gif',0)" onfocus="if(this.blur)this.blur()"><img name="CompanyInvestorInformation" border="0" src="/includes/tabs/i/company/investorinformation_off.gif" width="113" height="18"></a></td>
+  </tr>
+  <tr> 
+    <td><img src="/includes/tabs/i/products/products_tab_seperator.gif" width="113" height="1" name="seperator"></td>
+  </tr>
+  <tr>
+    <td><a href="/company/press/2002/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('CompanyPressRoom','','/includes/tabs/i/company/pressroom_on.gif',0)" onfocus="if(this.blur)this.blur()"><img name="CompanyPressRoom" border="0" src="/includes/tabs/i/company/pressroom_off.gif" width="113" height="11"></a></td>
+  </tr>
+  <tr> 
+    <td><img src="/includes/tabs/i/products/products_tab_seperator.gif" width="113" height="1" name="seperator"></td>
+  </tr>
+  <tr> 
+    <td><a href="/company/profile/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('CompanyProfile','','/includes/tabs/i/company/profile_on.gif',0)" onfocus="if(this.blur)this.blur()"><img name="CompanyProfile" border="0" src="/includes/tabs/i/company/profile_off.gif" width="113" height="11"></a></td>
+  </tr>
+  <tr> 
+    <td><img src="/includes/tabs/i/products/products_tab_seperator.gif" width="113" height="1" name="seperator"></td>
+  </tr>
+  <tr> 
+    <td><img src="/includes/tabs/i/products/products_tab_bottom.gif" width="113" height="8"></td>
+  </tr>
+</tbody></table>
+  <a href="javascript:;" onfocus="if(this.blur)this.blur()" onmousedown="MM_showHideLayers('CompanyTriggerClosed','','show');P7AniMagic('CompanyMenu',331,-56,26,30,0,0);P7AniMagic('CompanyTriggerClosed',331,37,26,30,0,0)" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('CompanyArrowUp1','','/includes/tabs/i/products/products_tab_arrowup_on.gif',0)"><img src="/includes/tabs/i/products/products_tab_arrowup_off.gif" width="113" height="18" name="CompanyArrowUp1" border="0"></a></div>
+
+<div id="CompanyTriggerClosed" style="position:absolute; left:331px; top:37px; width:113px; z-index:103; visibility: visible"><a href="javascript:;" onfocus="if(this.blur)this.blur()" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('CompanyArrowDown1','','/includes/tabs/i/products/products_tab_arrowdown_on.gif',0)" onmousedown="P7AniMagic('CompanyTriggerClosed',331,130,26,30,0,0);P7AniMagic('CompanyMenu',331,37,26,30,0,0);MM_showHideLayers('CompanyTriggerClosed','','hide')"><img src="/includes/tabs/i/products/products_tab_arrowdown_off.gif" width="113" height="19" name="CompanyArrowDown1" border="0" alt="Click to open menu"></a></div>
+<div id="BottomBar" style="position:absolute; height:18px; z-index:100; left: 0px; top: 38px; visibility: visible"> 
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr> 
+      <td width="710" background="/i/header/tabs/tab_background.gif"><img src="/i/header/tabs/tab_background.gif" width="710" height="18" name="TabsBackground"></td>
+    </tr>
+  </tbody></table>
+</div>
+<div id="MiddleBar" style="position:absolute; height:25px; z-index:102; left: 0px; top: 13px; visibility: visible"> 
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr> 
+      <td background="/i/header/top_navbar_background.jpg"><img src="/i/1x1/clear.gif" width="710" height="25" name="Clear"></td>
+    </tr>
+  </tbody></table>
+</div>
+<div id="TopBar" style="position:absolute; z-index:999; left: 0px; top: 0px; visibility: visible; height: 13px"> 
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr align="left" valign="top"> 
+      <td width="100%" height="13" background="/i/header/bumpy_top_tile.jpg"> 
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" background="/i/header/bumpy_top_tile.jpg">
+          <tbody><tr align="left" valign="top"> 
+            <td width="100%" height="13" background="/i/header/bumpy_top_tile.jpg"><img src="/i/header/tile_1.gif" width="710" height="13" name="Clear"></td>
+          </tr>
+        </tbody></table>
+      </td>
+    </tr>
+  </tbody></table>
+</div>
+<div id="ProductsButton" style="position:absolute; width:113px; z-index:999; top: 13px; left: 84px; visibility: visible"><a href="/products/" onblur="MM_swapImgRestore()" onfocus="if(this.blur)this.blur()"><img src="/includes/tabs/i/products/products_button_off.gif" width="113" height="25" name="Products" border="0"></a></div>
+<div id="SupportButton" style="position:absolute; width:113px; z-index:999; top: 13px; left: 454px; visibility: visible"><a href="/support/" onblur="MM_swapImgRestore()" onfocus="if(this.blur)this.blur()"><img src="/includes/tabs/i/support/support_button_off.gif" width="113" height="25" name="Support" border="0"></a></div>
+<div id="ProductsMenu" style="position:absolute; left:84px; top:-13px; width:113px; z-index:101; visibility: visible"> 
+  <table width="113" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr><td><img src="/includes/tabs/i/products/products_tab_top.gif" width="113" height="18" name="ProductTabTop"></td></tr>
+  <tr> 
+    <td><img src="/includes/tabs/i/products/products_tab_seperator.gif" width="113" height="1" name="seperator"></td>
+  </tr>
+  <tr> 
+    <td><a href="/products/liqplayer/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('ProductsLIQPLAYER','','/includes/tabs/i/products/liqplayer_on.gif',0)" onfocus="if(this.blur)this.blur()"><img src="/includes/tabs/i/products/liqplayer_off.gif" name="ProductsLIQPLAYER" border="0" width="113" height="11"></a></td>
+  </tr>
+  <tr> 
+    <td><img src="/includes/tabs/i/products/products_tab_seperator.gif" width="113" height="1" name="seperator"></td>
+  </tr>
+  <tr> 
+    <td><a href="/products/sp3/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('ProductsSP3','','/includes/tabs/i/products/sp3_on.gif',0)" onfocus="if(this.blur)this.blur()"><img src="/includes/tabs/i/products/sp3_off.gif" width="113" height="11" name="ProductsSP3" border="0"></a></td>
+  </tr>
+  <tr> 
+    <td><img src="/includes/tabs/i/products/products_tab_seperator.gif" width="113" height="1" name="seperator"></td>
+  </tr>
+  <tr> 
+    <td><img src="/includes/tabs/i/products/products_tab_bottom.gif" width="113" height="8"></td>
+  </tr>
+</tbody></table>
+  <a href="javascript:;" onfocus="if(this.blur)this.blur()" onmousedown="MM_showHideLayers('ProductsTriggerClosed','','show');P7AniMagic('ProductsMenu',84,-13,26,30,0,0);P7AniMagic('ProductsTriggerClosed',84,37,26,30,0,0)" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('ProductsArrowUp','','/includes/tabs/i/products/products_tab_arrowup_on.gif',0)"><img src="/includes/tabs/i/products/products_tab_arrowup_off.gif" width="113" height="18" name="ProductsArrowUp" border="0"></a></div>
+<div id="ProductsTriggerClosed" style="position:absolute; left:84px; top:37px; width:113px; z-index:103; visibility: visible"><a href="javascript:;" onfocus="if(this.blur)this.blur()" onmouseover="MM_swapImage('ProductsArrowDown','','/includes/tabs/i/products/products_tab_arrowdown_on.gif',0)" onmousedown="P7AniMagic('ProductsTriggerClosed',84,87,26,30,0,0);MM_showHideLayers('ProductsTriggerClosed','','hide');P7AniMagic('ProductsMenu',84,37,26,30,0,0)" onmouseout="MM_swapImgRestore()"><img src="/includes/tabs/i/products/products_tab_arrowdown_off.gif" width="113" height="19" name="ProductsArrowDown" border="0" alt="Click to open menu"></a></div>
+<div id="ServicesTriggerClosed" style="position:absolute; left:207px; top:37px; width:113px; z-index:103; visibility: visible"><a href="javascript:;" onfocus="if(this.blur)this.blur()" onmouseout="MM_swapImgRestore()" onmousedown="P7AniMagic('ServicesTriggerClosed',207,132,26,30,0,0);P7AniMagic('ServicesMenu',207,37,26,30,0,0);MM_showHideLayers('ServicesTriggerClosed','','hide')" onmouseover="MM_swapImage('ServicesArrowDown','','/includes/tabs/i/products/products_tab_arrowdown_on.gif',0)"><img src="/includes/tabs/i/products/products_tab_arrowdown_off.gif" width="113" height="19" name="ServicesArrowDown" border="0" alt="Click to open menu"></a></div>
+<div id="ServicesMenu" style="position:absolute; left:207px; top:-58px; width:113px; z-index:101; visibility: visible"> 
+    <table width="113" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr> 
+      <td><img src="/includes/tabs/i/products/products_tab_top.gif" width="113" height="18" name="ProductTabTop"></td>
+    </tr>
+    <tr> 
+      <td><img src="/includes/tabs/i/products/products_tab_seperator.gif" width="113" height="1" name="seperator"></td>
+    </tr>
+    <tr> 
+      
+    <td><a href="/services/distribution/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('ServicesInternetDistrubution1','','/includes/tabs/i/services/internet_distribution_on.gif',0)" onfocus="if(this.blur)this.blur()"><img name="ServicesInternetDistrubution1" border="0" src="/includes/tabs/i/services/internet_distribution_off.gif" width="113" height="18"></a></td>
+    </tr>
+    <tr> 
+      <td><img src="/includes/tabs/i/products/products_tab_seperator.gif" width="113" height="1" name="seperator"></td>
+    </tr>
+    <tr> 
+      
+    <td><a href="/services/promotions/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('ServicesInternetPromotions1','','/includes/tabs/i/services/internet_promotions_on.gif',0)" onfocus="if(this.blur)this.blur()"><img name="ServicesInternetPromotions1" border="0" src="/includes/tabs/i/services/internet_promotions_off.gif" width="113" height="18"></a></td>
+    </tr>
+    <tr> 
+      <td><img src="/includes/tabs/i/products/products_tab_seperator.gif" width="113" height="1" name="seperator"></td>
+    </tr>
+    <tr> 
+      
+    <td><a href="/services/onlinestores/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('ServicesOnlineStores1','','/includes/tabs/i/services/online_stores_on.gif',0)" onfocus="if(this.blur)this.blur()"><img name="ServicesOnlineStores1" border="0" src="/includes/tabs/i/services/online_stores_off.gif" width="113" height="11"></a></td>
+    </tr>
+    <tr> 
+      <td><img src="/includes/tabs/i/products/products_tab_seperator.gif" width="113" height="1" name="seperator"></td>
+    </tr>
+    <tr> 
+      <td><img src="/includes/tabs/i/products/products_tab_bottom.gif" width="113" height="8"></td>
+    </tr>
+  </tbody></table>
+  <a href="javascript:;" onfocus="if(this.blur)this.blur()" onmousedown="MM_showHideLayers('ServicesTriggerClosed','','show');P7AniMagic('ServicesMenu',207,-58,26,30,0,0);P7AniMagic('ServicesTriggerClosed',207,37,26,30,0,0)" onmouseover="MM_swapImage('ServicesArrowUp','','/includes/tabs/i/products/products_tab_arrowup_on.gif',0)" onmouseout="MM_swapImgRestore()"><img src="/includes/tabs/i/products/products_tab_arrowup_off.gif" width="113" height="18" name="ServicesArrowUp" border="0"></a></div>
+  
+<div id="ServicesButton" style="position:absolute; width:113px; z-index:999; top: 13px; left: 207px; visibility: visible"><a href="/services/" onblur="MM_swapImgRestore()" onfocus="if(this.blur)this.blur()"><img src="/includes/tabs/i/services/services_button_off.gif" width="113" height="25" name="Services" border="0"></a></div>
+<div id="SupportMenu" style="position:absolute; left:454px; top:-49px; width:113px; z-index:101; visibility: visible"> 
+  <table width="113" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td><img src="/includes/tabs/i/products/products_tab_top.gif" width="113" height="18" name="ProductTabTop"></td>
+  </tr>
+  <tr> 
+    <td><img src="/includes/tabs/i/products/products_tab_seperator.gif" width="113" height="1" name="seperator"></td>
+  </tr>
+  <tr> 
+    <td><a href="/support/player/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('SupportLiquidPlayer','','/includes/tabs/i/support/liqplayer_on.gif',0)" onfocus="if(this.blur)this.blur()"><img name="SupportLiquidPlayer" border="0" src="/includes/tabs/i/support/liqplayer_off.gif" width="113" height="11"></a></td>
+  </tr>
+  <tr> 
+    <td><img src="/includes/tabs/i/products/products_tab_seperator.gif" width="113" height="1" name="seperator"></td>
+  </tr>
+  <tr> 
+    <td><a href="/support/server/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('SupportLiquidServer','','/includes/tabs/i/support/liquid_server_on.gif',0)" onfocus="if(this.blur)this.blur()"><img name="SupportLiquidServer" border="0" src="/includes/tabs/i/support/liquid_server_off.gif" width="113" height="11"></a></td>
+  </tr>
+  <tr> 
+    <td><img src="/includes/tabs/i/products/products_tab_seperator.gif" width="113" height="1" name="seperator"></td>
+  </tr>
+  <tr> 
+    <td><a href="/support/hostedaccounts/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('SupportHostedAccounts','','/includes/tabs/i/support/hosted_accounts_on.gif',0)" onfocus="if(this.blur)this.blur()"><img name="SupportHostedAccounts" border="0" src="/includes/tabs/i/support/hosted_accounts_off.gif" width="113" height="11"></a></td>
+  </tr>
+  <tr> 
+    <td><img src="/includes/tabs/i/products/products_tab_seperator.gif" width="113" height="1" name="seperator"></td>
+  </tr>
+  <tr> 
+    <td><a href="/support/contact/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('SupportContact','','/includes/tabs/i/support/contact_on.gif',0)" onfocus="if(this.blur)this.blur()"><img name="SupportContact" border="0" src="/includes/tabs/i/support/contact_off.gif" width="113" height="11"></a></td>
+  </tr>
+  <tr> 
+    <td><img src="/includes/tabs/i/products/products_tab_seperator.gif" width="113" height="1" name="seperator"></td>
+  </tr>
+  <tr> 
+    <td><img src="/includes/tabs/i/products/products_tab_bottom.gif" width="113" height="8"></td>
+  </tr>
+</tbody></table>
+
+  <a href="javascript:;" onfocus="if(this.blur)this.blur()" onmousedown="P7AniMagic('SupportTriggerClosed',454,37,26,30,0,0);MM_showHideLayers('SupportTriggerClosed','','show');P7AniMagic('SupportMenu',454,-49,26,30,0,0)" onmouseover="MM_swapImage('SupportArrowUp','','/includes/tabs/i/products/products_tab_arrowup_on.gif',0)" onmouseout="MM_swapImgRestore()"><img src="/includes/tabs/i/products/products_tab_arrowup_off.gif" width="113" height="18" name="SupportArrowUp" border="0"></a></div>
+<div id="CompanyButton" style="position:absolute; width:113px; height:25px; z-index:999; left: 331px; top: 13px; visibility: visible"><a href="/company/" onfocus="if(this.blur)this.blur()" onblur="MM_swapImgRestore()"><img name="CompanyButton" border="0" src="/includes/tabs/i/company/company_button_off.gif" width="113" height="25"></a></div>
+<div id="LiquidButton" style="position:absolute; width:113px; height:25px; z-index:999; left: 577px; top: 13px; visibility: visible"><a href="http://www.liquid.com" onblur="MM_swapImgRestore()" onfocus="if(this.blur)this.blur()"><img name="LiquidComButton" border="0" src="/includes/tabs/i/liquid/liquidcom_off.gif" width="113" height="25"></a></div>
+<div id="LiquidMenu" style="position:absolute; left:577px; top:-9px; width:113px; z-index:101; visibility: visible"> 
+  
+<table width="113" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td><img src="/includes/tabs/i/products/products_tab_top.gif" width="113" height="18" name="ProductTabTop"></td>
+  </tr>
+  <tr> 
+    <td><img src="/includes/tabs/i/products/products_tab_seperator.gif" width="113" height="1" name="seperator"></td>
+  </tr>
+  <tr> 
+    <td><a href="http://www.liquid.com" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('ClickHere','','/includes/tabs/i/liquid/click_here_on.gif',0)" onfocus="if(this.blur)this.blur()"><img name="ClickHere" border="0" src="/includes/tabs/i/liquid/click_here_off.gif" width="113" height="18"></a></td>
+  </tr>
+  <tr> 
+    <td><img src="/includes/tabs/i/products/products_tab_seperator.gif" width="113" height="1" name="seperator"></td>
+  </tr>
+  <tr> 
+    <td><img src="/includes/tabs/i/products/products_tab_bottom.gif" width="113" height="8"></td>
+  </tr>
+</tbody></table>
+
+  <a href="javascript:;" onfocus="if(this.blur)this.blur()" onmousedown="MM_showHideLayers('LiquidTriggerClosed','','show');P7AniMagic('LiquidMenu',577,-9,26,30,0,0);P7AniMagic('LiquidTriggerClosed',577,37,26,30,0,0)" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('LiquidArrowUp','','/includes/tabs/i/products/products_tab_arrowup_on.gif',0)"><img src="/includes/tabs/i/products/products_tab_arrowup_off.gif" width="113" height="18" name="LiquidArrowUp" border="0"></a></div>
+<div id="LiquidTriggerClosed" style="position:absolute; left:577px; top:37px; width:113px; z-index:103; visibility: visible"><a href="javascript:;" onfocus="if(this.blur)this.blur()" onmouseout="MM_swapImgRestore()" onmousedown="MM_showHideLayers('LiquidTriggerClosed','','hide');P7AniMagic('LiquidMenu',577,37,26,30,0,0);P7AniMagic('LiquidTriggerClosed',577,83,26,30,0,0)" onmouseover="MM_swapImage('LiquidArrowDown','','/includes/tabs/i/products/products_tab_arrowdown_on.gif',0)"><img src="/includes/tabs/i/products/products_tab_arrowdown_off.gif" width="113" height="19" name="LiquidArrowDown" border="0" alt="Click to open menu"></a></div>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr align="left" valign="top"> 
+    <td width="100%" height="13" background="/i/header/bumpy_top_tile.gif"><img src="/i/1x1/clear.gif" width="710" height="13" name="Clear"></td>
+  </tr>
+</tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td background="/i/header/top_navbar_background.jpg"><img src="/i/1x1/clear.gif" width="710" height="25" name="Clear"></td>
+  </tr>
+</tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td width="710"><img src="/i/header/tabs/tab_background.gif" width="710" height="18" name="TabsBackground"></td>
+    <td background="/i/header/tabs/tab_background.jpg"><img src="/i/1x1/clear.gif" width="18" height="18" name="Clear"></td>
+  </tr>
+</tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td width="84" align="right" valign="top"><img src="/i/header/logo_bottom.gif" width="84" height="28"></td>
+    <td width="626" align="right" valign="top"><img src="/i/header/blueswirl_bluegrid.gif" width="626" height="28"></td>
+    <td align="right" valign="top" width="100%">&nbsp;</td>
+  </tr>
+</tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr bgcolor="#3399FF"> 
+    <td width="710"><img src="/company/i/title/privacypolicy.gif" width="710" height="30"> 
+    </td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td width="710"><img src="/i/clear.gif" width="710" height="40"></td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody></table>
+<table width="710" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td width="175"><img src="/i/1x1/clear.gif" width="175" height="1"></td>
+    <td>
+      <p>Liquid Audio is committed to protecting your privacy. This Privacy Policy 
+        describes our information gathering and dissemination practices. This 
+        document will be updated to remain consistent with new products, services, 
+        processes, and Internet privacy legislation. 
+      </p><p>Please read on to understand how your personal information is treated 
+        when you use our products and services. </p>
+      <p>What information do we gather? How do we use it?</p>
+      <p><b>Liquid Player &amp; Passports</b></p>
+      <p>When you use the Liquid Player to preview or purchase music, we collect 
+        and store the song names you're previewing to ensure proper royalty payments 
+        to the musicians and song owners. We also gather the Liquid Player's version, 
+        your computer's IP address, machine type and operating system type and 
+        version for quality control. In addition, our Web servers gather the referrer 
+        URL, Web browser name and IP address to understand Web site usage ("traffic 
+        analysis") to improve the site.</p>
+      <p>When you use the Liquid Player to purchase music, we also gather your 
+        unique passport ID. Passports are used to ensure that your music is secure 
+        and to protect artists' intellectual property rights. We use two types 
+        of passports: Full passports and FastTrack passports. Full passports allow 
+        you to download tracks and move them between multiple computers. FastTrack 
+        passports allow you to download and listen to music on one machine. A 
+        Passport is a file stored on your computer. </p>
+      <p>When you register for a Full passport or when you register for a Liquid 
+        Player Plus upgrade, we collect and store on our servers your name, email 
+        address, address, city, state, ZIP/postal code, country, phone number. 
+        This information is stored in the Passport. We use your email address 
+        to send you an email message confirming your purchase and upgrade to the 
+        Liquid Player Plus. In addition we gather and verify your credit card 
+        information. We submit this information to one of our payment-processing 
+        partners for verification. The payment-processing partner keeps the credit 
+        card number after processing. This allows them to maintain error and transaction 
+        logs that make it possible to synchronize credit card information with 
+        customer names. Our payment-processing partners do not share this information.</p>
+      <p>Liquid Audio does not keep your credit card information on our servers. 
+        The credit card information is stored in a protected manner inside the 
+        Passport kept on your machine. Do not give your passport to other people! 
+        During the registration process, the Liquid Player will ask you for a 
+        password to keep your Passport private. We will ask you for a phrase to 
+        help you recall a forgotten password. This phrase is stored on our servers 
+        to assist you in recalling your password. We also store information that 
+        allows us to see who changed or issued the passport. </p>
+      <p>When you register for a FastTrack Passport, we gather your name, email 
+        address, post code, and country. We collect this information in order 
+        to restore a lost Passport, and for fraud detection. </p>
+      <p>At registration time, we also remember if you've chosen to receive periodic 
+        communications from Liquid Audio. </p>
+      <p><b>Liquid Affiliate and Liquid Commerce Web sites</b> </p>
+      <p>Liquid Audio is a music distribution company. Retailers and music sites 
+        use our technology and extensive music catalog to sell music downloads 
+        as part of their online product selection. Others use our technology to 
+        offer their music catalog to you so that they may sell music downloads.</p>
+      <p>When you purchase music through one of our Affiliate or Commerce Web 
+        sites, we gather your name, credit card information, your email address, 
+        billing address, zip and country code, a list of purchases, and whether 
+        or not you have opted in or out of receiving information about artists 
+        or other marketing information. This allows us to process and fulfill 
+        your order and to notify you of your order status. We submit the information 
+        that pertains to payment processing to one of our payment-processing partners 
+        for verification. The payment-processing partner keeps the credit card 
+        number after processing. This allows them to maintain error and transaction 
+        logs that make it possible to synchronize credit card information with 
+        customer names. Our payment processing partners do not share this information. 
+        When you shop with one of our partners or affiliates and enjoy one of 
+        its services, we may ask you for your physical address, your gender, your 
+        age, and to select a password. If we develop co-branded products or services 
+        with our partners or affiliates, they may collect personally identifying 
+        information from you, in which case, that partner's or that Affiliate's 
+        privacy policy shall apply to their collection and use of data about you. 
+        We also gather system information, such as your IP address, referrer address, 
+        Web browser name and version, and OS. It is your responsibility to keep 
+        your password secret and to change it frequently to maintain its security. 
+        If you feel your password has been compromised in any way, Please contact <a href="mailto:privacy@liquidaudio.com">Liquid 
+        Audio Support</a>. When you sign up to preview some of our products 
+        and services, we collect your email address. We use this information to 
+        identify you and, if applicable, your shopping cart, for normal traffic 
+        logging and analysis, and to gather demographic information. </p>
+      <p><b>Will Liquid Audio disclose the information it gathers to outside parties?</b> 
+      </p>
+      <p>Liquid Audio does not sell or rent your personal information to others. 
+        We return your name, email address, billing address, zip and country code, 
+        a list of purchases, and whether or not you have opted in or out of receiving 
+        information about artists or other marketing information to some of our 
+        partners and Affiliates and some of our partners and Affiliates may co-own 
+        this information. However, if, upon registration, you opt out of receiving 
+        marketing information, we will not, and our partners and Affiliates will 
+        not, send marketing information to you. We provide aggregate statistics 
+        about our customers-sales, traffic patterns, and related site information-to 
+        reputable third parties (such as artist rights agencies and our affiliates). 
+        But these statistics include no personally identifiable information. </p>
+      <p><b>What about "cookies" or other information? </b></p>
+      <p>"Cookies" are small pieces of information that are stored by 
+        your browser on your computer's hard drive. Liquid Audio cookies do not 
+        contain any personally identifying information, but they do enable us 
+        to look up address information you've provided to us in the past. This 
+        reduces the amount of information required for your subsequent purchases. 
+        In general, browsers accept cookies by default. You can, however, change 
+        your browser's settings so that cookies are disabled. Without cookies 
+        enabled, you can use most of the features in our partners' Web sites-including 
+        the ability to place items in your shopping cart and purchase them. </p>
+      <p><b>How Does Liquid Audio allow customers to modify the information it 
+        gathers? </b> </p>
+      <p>Please contact <a href="mailto:privacy@liquidaudio.com">Liquid 
+        Audio Support</a> if you wish to correct or update information Liquid 
+        Audio has gathered. For digital rights reasons, Liquid Audio does not 
+        provide a way for you to delete your personal information online. </p>
+      <p><b>Summary</b> </p>
+      <p>Liquid Audio is committed to protecting your privacy. We use the information 
+        we collect about you to assign ownership to and protect your Liquid Tracks, 
+        as well as for payment processing, traffic logging and analysis, and rights 
+        reporting. If you feel that you have experienced a violation of this policy, 
+        you should contact <a href="mailto:privacy@liquidaudio.com">Liquid 
+        Audio Support</a>. </p>
+      <p><b>Your Consent</b></p>
+      <p>By using Liquid Audio products and services, you consent to the collection 
+        and use of the information that we collect from you, and that is outlined 
+        in this policy. This document will be updated to remain consistent with 
+        new products, services, processes, and Internet privacy legislation. We 
+        will post changes on this page so that you are always aware of what information 
+        we collect, how we use it, and under what circumstances we disclose it.</p>
+      <p><b>Tell us what you think</b></p>
+      <p>We welcome your questions and comments about privacy. Please contact <a href="mailto:privacy@liquidaudio.com">Liquid 
+        Audio Support</a>.<br>
+      </p>
+      <p><br>
+    </p></td>
+  </tr>
+</tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td><img src="/i/clear.gif" width="710" height="25"></td>
+  </tr>
+</tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td bgcolor="#3399FF"><img src="/i/1x1/clear.gif" width="710" height="50"></td>
+  </tr>
+</tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td height="1" align="center" width="710" valign="middle"><img src="/i/1x1/clear.gif" width="710" height="1"></td>
+    <td height="1" align="left" width="100%"><img src="/i/1x1/clear.gif" width="1" height="1"></td>
+  </tr>
+  <tr> 
+    <td height="15" align="center" width="710" valign="middle"><a href="/" onfocus="if(this.blur)this.blur()" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('footerHome','','/includes/footer/i/home_on.gif',0)"><img src="/includes/footer/i/home_off.gif" width="22" height="15" name="footerHome" border="0"></a><img src="/includes/footer/i/seperator.gif" width="13" height="15"><a href="/player/" onfocus="if(this.blur)this.blur()" onmouseover="MM_swapImage('footerPlayer','','/includes/footer/i/liquidplayer_on.gif',0)" onmouseout="MM_swapImgRestore()"><img src="/includes/footer/i/liquidplayer_off.gif" width="53" height="15" name="footerPlayer" border="0"></a><img src="/includes/footer/i/seperator.gif" width="13" height="15"><a href="/products/" onfocus="if(this.blur)this.blur()" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('footerProducts','','/includes/footer/i/products_on.gif',0)"><img src="/includes/footer/i/products_off.gif" width="45" height="15" name="footerProducts" border="0"></a><img src="/includes/footer/i/seperator.gif" width="13" height="15"><a href="/services/" onfocus="if(this.blur)this.blur()" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('footerServices','','/includes/footer/i/services_on.gif',0)"><img src="/includes/footer/i/services_off.gif" width="42" height="15" name="footerServices" border="0"></a><img src="/includes/footer/i/seperator.gif" width="13" height="15"><a href="/company/" onfocus="if(this.blur)this.blur()" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('footerCompany','','/includes/footer/i/company_on.gif',0)"><img src="/includes/footer/i/company_off.gif" width="43" height="15" name="footerCompany" border="0"></a><img src="/includes/footer/i/seperator.gif" width="13" height="15"><a href="/support/" onfocus="if(this.blur)this.blur()" onmouseover="MM_swapImage('footerSupport','','/includes/footer/i/support_on.gif',0)" onmouseout="MM_swapImgRestore()"><img src="/includes/footer/i/support_off.gif" width="39" height="15" name="footerSupport" border="0"></a><img src="/includes/footer/i/seperator.gif" width="13" height="15"><a href="http://www.liquid.com" onfocus="if(this.blur)this.blur()" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('footerLiquid','','/includes/footer/i/liquid_on.gif',0)"><img src="/includes/footer/i/liquid_off.gif" width="48" height="15" name="footerLiquid" border="0"></a><img src="/includes/footer/i/seperator.gif" width="13" height="15"><a href="/company/profile/contact/" onfocus="if(this.blur)this.blur()" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('footerContact','','/includes/footer/i/contact_on.gif',0)"><img src="/includes/footer/i/contact_off.gif" width="55" height="15" name="footerContact" border="0"></a><img src="/includes/footer/i/seperator.gif" width="13" height="15"><a href="/privacy/" onfocus="if(this.blur)this.blur()" onmouseover="MM_swapImage('footerPrivacy','','/includes/footer/i/privacy_on.gif',0)" onmouseout="MM_swapImgRestore()"><img src="/includes/footer/i/privacy_off.gif" width="76" height="15" name="footerPrivacy" border="0"></a></td>
+    <td height="15" align="left" width="100%"><img src="/i/1x1/clear.gif" width="5" height="15"></td>
+  </tr>
+  <tr>
+    <td align="center" width="710" valign="middle"><img src="/includes/footer/i/copyright.gif" width="208" height="25" border="0"></td>
+    <td height="15" align="left" width="100%">&nbsp;</td>
+  </tr>
+</tbody></table>
+
+
+
+</body></html>
