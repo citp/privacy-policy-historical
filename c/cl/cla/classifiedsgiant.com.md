@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classifiedsgiant.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401183200id_/http%3A//www.lookquick.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifiedsgiant.com privacy policy that was archived on 2003-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030812080539id_/http%3A//www.lookquick.com/privacy.html) for the most accurate reproduction.*
 
 # lookquick.com - The World's Fastest Search Engine!
 
