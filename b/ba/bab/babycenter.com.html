@@ -1,12 +1,8 @@
-<!--The following is the downloaded HTML source of the babycenter.com privacy policy that was archived on 2000-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20000621141800id_/http%3A//www.babycenter.com/general/7814.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the babycenter.com privacy policy that was archived on 2002-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021208041107id_/http%3A//www.babycenter.com/help/aboutus/privacy) for the most accurate reproduction.-->
 
-<html><head><title>Privacy Policy</title>
-
-<!-- Viewer.template set -->
-	<!-- $Id:default.jhtml /main/main_svenn/CHECKEDOUT 20-Jun-2000.12:10:26 svenn $ -->
-
-	
+<html><head>
+<title>BabyCenter Privacy Policy</title>
 
 
 
@@ -14,435 +10,369 @@
 
 
 
-<!-- $Id: popup.jhtml,v 1.6 2000/02/25 22:07:48 aaronp Exp $ -->
-<script>
-<!--
-defwin = new Object;
-defwin.closed = true;
+
+
+<!-- $Source: /vob/app_fa_ho/binky/bc/app/frag/jhtml/head.jhtml $ -->
+<script language="JavaScript1.2" src="http://www.babycenter.com/js/defaultlib.js"></script>
+<script language="Javascript1.2" src="http://www.babycenter.com/js/dhtmllib.js"></script>
+<script language="JavaScript1.2" src="http://www.babycenter.com/js/acmlib.js?v=2002120501"></script>
+<script language="JavaScript1.2" src="/js/acmdat.js"></script>
+<script language="JavaScript1.2" src="http://www.babycenter.com/js/shadelib.js?v=2002102901"></script>
+<script language="JavaScript1.2">
+var oPopup, oDefPopup;
+
+
+
+// BC site cookie
+var bcCookie = new Cookie('bcprod',Time.yr,'/');
+
+// select-menu redirect
+function goThere(formName){
+	if (document[formName] &&
+	document[formName].url.options[document[formName].url.selectedIndex].value) {
+	    document[formName].submit();
+	    return true;
+	}
+}
+
+function pageInit() {
+	shade.init();
+	ACM.display();
+}
+</script>
+
+<!-- init Ad service -->
+<!-- timestamp: 669387 - pagename: privacypolicy - category: help --><!-- $bc/app/frag/jhtml/popup.jhtml -->
+<script language="JavaScript1.1">
+<!--//
+oDefPopup = new ChildWindow(
+	{
+		width: 370,
+		height: 130,
+		scrollbars: true,
+		name: "defwin"
+	});
 
 function defwinupdate(inword, inaka, indef) {
-  tempvar = navigator.appVersion.substring(0,1);
-  browver = parseInt(tempvar);
-  if (browver < 3) { return true; } else {
-    if (!defwin.closed) { defwin.close(); }
-    defwin = window.open("","","height=130,width=370,scrollbars=yes,resizable=yes");
-    defwin.document.writeln("<HTML><HEAD><TITLE>"+inword+"</TITLE>");
-    defwin.document.writeln("<SCR"+"IPT>");
-    defwin.document.writeln("function goglo() {");
-    defwin.document.writeln("if (window.opener.closed) { window.open('/glossary/index.html') } else");
-    defwin.document.writeln("{ window.opener.location = '/glossary/index.html' }");
-    defwin.document.writeln("self.close()");
-    defwin.document.writeln("}");
-    defwin.document.writeln("</SCR"+"IPT>");
-    defwin.document.writeln("</HEAD><BODY BGCOLOR=#ffffff>");
-    defwin.document.writeln("<TABLE WIDTH=340><TR><TD VALIGN='TOP'>");
-    defwin.document.writeln("<B>"+inword+"</B><BR>"+inaka);
-    defwin.document.writeln("</TD><TD>"+indef+"</TD></TR>");
-    defwin.document.writeln("<TR><TD ALIGN='CENTER' COLSPAN=2>");
-    defwin.document.writeln("<FORM><INPUT TYPE='BUTTON' VALUE='Close This Window' onClick='self.close()'>");
-    defwin.document.writeln("<INPUT TYPE='BUTTON' VALUE='Go To Glossary' onClick='goglo()'>");
-    defwin.document.writeln("</FORM></TD></TR>");
-    defwin.document.writeln("</TABLE>");
-    defwin.document.close();
-    defwin.focus();
-    return false;
-  }
-  return true;
+
+	var htmlout = ""
+		+ "<HTML><HEAD><TITLE>"+inword+"</TITLE>"
+		+ "<SCR"+"IPT>"
+		+ "function goglo() { "
+		+ "if (window.opener.closed) { window.open('/glossary/index.html'); } "
+		+ "else { window.opener.location = '/glossary/index.html'; } "
+		+ "self.close(); "
+		+ "} "
+		+ "</SCR"+"IPT>"
+		+ "</HEAD><BODY BGCOLOR=#ffffff>"
+		+ "<TABLE WIDTH=340><TR><TD VALIGN='TOP'>"
+		+ "<B>"+inword+"</B><BR>"+inaka
+		+ "</TD><TD>"+indef+"</TD></TR>"
+		+ "<TR><TD ALIGN='CENTER' COLSPAN=2>"
+		+ "<FORM><INPUT TYPE='BUTTON' VALUE='Close This Window' onClick='self.close()'>"
+		+ "<INPUT TYPE='BUTTON' VALUE='Go To Glossary' onClick='goglo()'>"
+		+ "</FORM></TD></TR>"
+		+ "</TABLE>";
+
+	oDefPopup.setHtml(htmlout);
+	oDefPopup.show();
+	oDefPopup.focus();
+	if (oBrowser.version < 4) return true;
+	else return false;
 }
 //-->
 </script>
+<!--// $bc/app/frag/jhtml/popup.jhtml--->
 
-
-<!-- $Id:header.jhtml /main/6 22-May-2000.05:19:55 ctdean $ -->
-
-<!-- $Id: javascript_cookies.jhtml,v 1.1 2000/03/24 00:37:48 aaronp Exp $ -->
-<script language="JavaScript" type="text/javascript">
-<!--
-function setCookie(name,value,expires){
-	document.cookie = name+"="+value+"; expires="+expires+";path=/ ;domain="+document.location.hostname+";";
-};
-
-function getCookie(cookieName){
-	var arg = cookieName + "=";
-	var save=document.cookie;
-	if(save.indexOf(arg)==-1){ return null; }
-	save = save.substring(save.indexOf(arg)+arg.length,save.length);
-	if(save.indexOf(";")!=-1){save=save.substring(0,save.indexOf(";"));};
-	return save;
-};
-//-->
-</script>
-
- 
-<script language="JavaScript" type="text/javascript">
-<!--// Set cookie to hide regpop for 1 month
-tempvar = navigator.appVersion.substring(0,1);
-browver = parseInt(tempvar);
-if(browver>=4 || (browver >=3 && navigator.appName.indexOf("Netscape") != -1)){
-	var expdate = new Date();
-	expdate.setMonth(expdate.getMonth()+1);
-	expdate=expdate.toGMTString();
-	var reg = getCookie("regpop");
-	if ( reg!="alreadyOffered" && document.cookie ){
-		setCookie("regpop", "alreadyOffered", expdate);
-//--------- Launching the regpop window
-		if ( navigator.appName.indexOf("Netscape") != -1 ){xsize=212; ysize=380;}
-			else{ xsize=224; ysize=415; };
-		regpop = new Object();
-		regpop = window.open("/popup/register.jhtml?pop=y","getregistered","height="+ysize+",width="+xsize+",scrollbars=auto,resizable=yes,screenx=400,screeny=15,left=400,top=15");
-		regpop.focus();
-	}
-}
-// -->
-</script>
-
-
-
-
-
-
-
-<script language="JavaScript" type="text/javascript">
-<!--
-function display_status(stuff) { window.status = stuff;return true;}
-if (document.images){
-  switch1on =new Image(120,22);  switch1on.src ='http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/pad/pregnancy2a.gif';
-  switch1off=new Image(120,22);  switch1off.src='http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/pad/pregnancy1a.gif';
-  switch2on =new Image(120,22);  switch2on.src ='http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/pad/pregnancy4.gif';
-  switch2off=new Image(120,22);  switch2off.src='http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/pad/pregnancy3.gif';
-  switch3on =new Image(120,22);  switch3on.src ='http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/pad/pregnancy6.gif';
-  switch3off=new Image(120,22);  switch3off.src='http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/pad/pregnancy5.gif';
-  switch4on =new Image(120,22);  switch4on.src ='http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/pad/pregnancy8.gif';
-  switch4off=new Image(120,22);  switch4off.src='http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/pad/pregnancy7.gif';
-  switch5on =new Image(120,22);  switch5on.src ='/i/pad/pregnancy10.gif';
-  switch5off=new Image(120,22);  switch5off.src='/i/pad/pregnancy9.gif';
-  switch6on =new Image(120,22);  switch6on.src ='/i/pad/pregnancy12.gif';
-  switch6off=new Image(120,22);  switch6off.src='/i/pad/pregnancy11.gif';
-  switch7on =new Image(120,22);  switch7on.src ='http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/pad/pregnancy14.gif';
-  switch7off=new Image(120,22);  switch7off.src='http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/pad/pregnancy13.gif';
-
-  switch8on =new Image(120,22);  switch8on.src ='http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/pad/pregnancy16.gif';
-  switch8off=new Image(120,22);  switch8off.src='http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/pad/pregnancy15.gif';
-}
-
-function HighLight(musswitch) {
-	if (document.images) {
-		switchnavn=eval(musswitch + "on");
-		document[musswitch].src=switchnavn.src;
-	}
-}
-
-function UndoHighLight(musswitch) {
-	if (document.images) {
-		switchnavn=eval(musswitch + "off");
-		document[musswitch].src=switchnavn.src;
-	}
-}
-
-function goPage(form) {
-	if (document[form]) {document[form].submit();
-	return true;} 
-}
-// end cache 
-
-
-var has_ads;//def var in case page has BAA
-// -->
-</script>
+<base target="_top"><!--$bc/app/frag/jhtml/metatags.jhtml--><meta name="keywords" content="privacy policy, online privacy policy"><meta name="description" content="BabyCenter's Privacy Policy"><!--// $bc/app/frag/jhtml/metatags.jhtml-->
 </head>
-<body bgcolor="#ffffff" link="#006666" alink="#33CCCC" vlink="#009999">
-<map name="tablinks">
-<area alt="" coords="10,5,117,32" href="/members/">
-<area alt="" coords="10,33,117,59" href="/mybabycenter/">
-</map><!--stopindex--><base target="_top">
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr>
-<td><img src="/i/trans.gif" width="120" height="1" border="0" alt=""></td>
-<td><img src="/i/trans.gif" width="20" height="1" border="0" alt=""></td>
-<td><img src="/i/trans.gif" width="155" height="1" border="0" alt=""></td>
-<td><img src="/i/trans.gif" width="1" height="1" border="0" alt=""></td>
-<td><img src="/i/trans.gif" width="154" height="1" border="0" alt=""></td>
-<td><img src="/i/trans.gif" width="20" height="1" border="0" alt=""></td>
-<td><img src="/i/trans.gif" width="130" height="1" border="0" alt=""></td>
-</tr>
-<tr>
-<td colspan="6" align="center"><table><tbody><tr><td>
-
-
-<!-- ad number 1(unknown browser) -->
-<a href="http://ad.doubleclick.net/jump/babycenter.com/ARTICLE.3956.7814.;area=.3956.7814.;sz=468X60;pos=top;tile=1;ord=6997247?">
-<img src="http://ad.doubleclick.net/ad/babycenter.com/ARTICLE.3956.7814.;area=.3956.7814.;sz=468X60;pos=top;tile=1;ord=6997247?" width="468" height="60"></a></td></tr></tbody></table></td>
-<td rowspan="2" valign="bottom" align="right"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#009999"><tbody><tr><td><map name="tablinks">
-<area shape="rect" coords="5,31,85,57" href="/mybabycenter/">
-<area shape="rect" coords="5,0,62,27" href="/members/">
-</map><img src="http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/nav/tab.gif" width="120" height="64" border="0" alt="" usemap="#tablinks"></td></tr></tbody></table></td>
-</tr>
-<tr>
-<td colspan="6"><img src="/i/trans.gif" width="1" height="4" border="0" alt=""></td>
-</tr>
-<tr bgcolor="#009999">
-<td valign="top"><img src="/i/crn/tl.gif" width="8" height="8" border="0" alt=""></td>
-<td rowspan="2"><img src="/i/trans.gif" width="20" height="1" border="0" alt=""></td>
-<td rowspan="2" align="center"><!-- slug --><img src="http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/slug/bc.gif" width="144" height="9" border="0"></td>
-<td bgcolor="#FFFFFF" rowspan="2"><img src="/i/trans.gif" width="1" height="1" border="0" alt=""></td>
-<td rowspan="2" align="center" colspan="2"><table border="0" cellpadding="0" cellspacing="0"><form method="get" action="http://search.babycenter.com/query.html"></form>
-<tbody><tr>
-<td><input type="text" name="qt" size="10" maxlength="100" value=""></td><td><input type="image" src="/images/nav/search.gif" width="46" height="21" border="0" value="submit"></td>
-</tr></tbody></table></td>
-<td rowspan="2"><img src="/i/trans.gif" width="20" height="1" border="0" alt=""></td>
-</tr>
-<tr bgcolor="#009999">
-<td width="120" valign="bottom" bgcolor="#009999">
-<!-- logotop -->
-<!-- start cache --><a href="/"><img src="http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/logo/top_009999.gif" width="120" height="9" border="0" alt=""></a></td>
-</tr>
-<tr>
-<td width="120" valign="top" rowspan="2"><font face="arial,helvetica,sans-serif" size="2"><!-- left nav -->
-<a href="/"><img src="http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/logo/bc_sm_bot.gif" width="120" height="41" border="0" alt=""></a><br>
-
-<a href="/mybabycenter" onmouseover="HighLight('switch1'); display_status('Information tailored to your stage'); return true;" onmouseout="UndoHighLight('switch1'); display_status('');"><img src="http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/pad/pregnancy1a.gif" width="120" height="18" border="0" name="switch1" align="BOTTOM"></a><br>
-
-
-<a href="/preconception/" onmouseover="HighLight('switch2'); display_status('Preconception'); return true;" onmouseout="UndoHighLight('switch2'); display_status('');"><img src="http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/pad/pregnancy3.gif" width="120" height="22" border="0" name="switch2" align="BOTTOM"></a><br>
-
-
-<a href="/pregnancy/" onmouseover="HighLight('switch3'); display_status('Pregnancy'); return true;" onmouseout="UndoHighLight('switch3'); display_status('');"><img src="http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/pad/pregnancy5.gif" width="120" height="22" border="0" name="switch3" align="BOTTOM"></a><br>
-
-
-<a href="/baby/" onmouseover="HighLight('switch4'); display_status('Baby'); return true;" onmouseout="UndoHighLight('switch4'); display_status('');"><img src="http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/pad/pregnancy7.gif" width="120" height="22" border="0" name="switch4" align="BOTTOM"></a><br>
-
-
-<a href="/toddler/" onmouseover="HighLight('switch5'); display_status('Toddler'); return true;" onmouseout="UndoHighLight('switch5'); display_status('');"><img src="http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/pad/pregnancy9.gif" width="120" height="22" border="0" name="switch5" align="BOTTOM"></a><br>
-
-
-<a href="http://store.babycenter.com/" onmouseover="HighLight('switch6'); display_status('BabyCenter Store'); return true;" onmouseout="UndoHighLight('switch6'); display_status('');"><img src="http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/pad/pregnancy11.gif" width="120" height="22" border="0" name="switch6" align="BOTTOM"></a><br>
-
-
-<a href="/community/" onmouseover="HighLight('switch7'); display_status('BabyCenter Community'); return true;" onmouseout="UndoHighLight('switch7'); display_status('');"><img src="http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/pad/pregnancy13.gif" width="120" height="22" border="0" name="switch7" align="BOTTOM"></a><br>
-
-
-
-<a href="/topicsaz/" onmouseover="HighLight('switch8'); display_status('Topics A-Z'); return true;" onmouseout="UndoHighLight('switch8'); display_status('');"><img src="http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/pad/pregnancy15.gif" width="120" height="22" border="0" name="switch8" align="BOTTOM"></a><br>
-
-
-<p><a href="/rcindex.html"><font color="#000000"><b>Site Index</b></font></a>
-<!-- ###WHAT'S NEW -->
-</p><p><a href="/general/5278.html"><font color="#000000"><b>What's New</b></font></a><br>
-
-
-<img src="/images/trans.gif" width="1" height="4" border="0" alt=""><br>
-
-<a href="/expert/">Ask the Experts</a><br>
-
-<img src="/images/trans.gif" width="1" height="4" border="0" alt=""><br>
-
-<a href="/toddevelopment/">Toddler Development</a><br>
-
-
-<img src="/images/trans.gif" width="1" height="4" border="0" alt=""><br>
-
-<a href="/theme/">Family Travel</a><br>
-<img src="/images/trans.gif" width="1" height="4" border="0" alt=""><br>
-<a href="/babyhealth/">Baby Health</a><br>
-<img src="/images/trans.gif" width="1" height="4" border="0" alt=""><br>
-<a href="/toddlerhealth">Toddler Health</a><br>
-<img src="/images/trans.gif" width="1" height="4" border="0" alt=""><br>
-<a href="/freestuff/">Free Stuff!</a><br>
-<img src="/images/trans.gif" width="1" height="4" border="0" alt=""><br>
-
-
-
-<br>
-<table border="0" width="120" cellspacing="0" cellpadding="1" bgcolor="#999999">
-		<tbody><tr><td><table width="100%" border="0" cellspacing="0" cellpadding="4">
-		<tbody><tr><td bgcolor="#009999"><font face="arial,helvetica,sans-serif" size="2" color="#FFFFFF"><b>GoodStuff!</b></font></td></tr>
-		<tr><td bgcolor="#FFFFcc"><font face="verdana,geneva,sans-serif" size="1"><font color="#cc0000">•</font><img src="http://ad.doubleclick.net/ad/babycenter.textad.com/Ad71;kw=71" width="1" height="1" border="0"> Sharing your baby's photos online with family and friends is easy at the <a href="http://ad.doubleclick.net/clk;847722;3805088;r?http://www.babycenter.com/photocenter">Online Photo Center</a>, powered by HP Cartogra.<br><br><font color="#cc0000">•</font><img src="http://ad.doubleclick.net/ad/babycenter.textad.com/Ad16;kw=16" width="1" height="1" border="0"> <a href="http://ad.doubleclick.net/clk;454944;3399873;b?http://www.babycenter.com/bringingbaby/">Enter our weekly drawing</a> to win a Q-tips Cotton Swabs Baby Pack.</font></td></tr></tbody></table>
-		</td></tr></tbody></table><!-- no megaPartner -->
-</p><p><table border="0" cellpadding="2" width="125">
-<tbody><tr><td colspan="2"><font face="arial,helvetica,sans-serif" size="2"><b>Features</b></font><img src="http://ad.doubleclick.net/activity;src=201365;type=all;cat=cn;ord=6997454?" width="1" height="1" border="0"></td></tr><tr><td valign="TOP"><font face="Verdana,Geneva" color="#CC0000" size="2">•</font></td>
-<td valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2"><a href="/babyname/">Baby Namer</a></font></td></tr><tr><td valign="TOP"><font face="Verdana,Geneva" color="#CC0000" size="2">•</font></td>
-<td valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2"><a href="/babyshowers/">Baby Shower Planner</a><br><font size="1">From guests to games, plan and throw the perfect baby shower.</font></font></td></tr><tr><td valign="TOP"><font face="Verdana,Geneva" color="#CC0000" size="2">•</font></td>
-<td valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2"><a href="/birthannouncements/">Birth Announcements</a></font></td></tr><tr><td valign="TOP"><font face="Verdana,Geneva" color="#CC0000" size="2">•</font></td>
-<td valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2"><a href="/dads/">Dads</a></font></td></tr><tr><td valign="TOP"><font face="Verdana,Geneva" color="#CC0000" size="2">•</font></td>
-<td valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2"><a href="/calendar/">Pregnancy Calendar</a></font></td></tr><tr><td valign="TOP"><font face="Verdana,Geneva" color="#CC0000" size="2">•</font></td>
-<td valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2"><a href="/babycalendar/getinfo">Baby Calendar</a></font></td></tr><tr><td valign="TOP"><font face="Verdana,Geneva" color="#CC0000" size="2">•</font></td>
-<td valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2"><a href="/childcarefinder/">Childcare Finder</a></font></td></tr><tr><td valign="TOP"><font face="Verdana,Geneva" color="#CC0000" size="2">•</font></td>
-<td valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2"><a href="/tools.html">Tools &amp; Calculators</a></font></td></tr><tr><td valign="TOP"><font face="Verdana,Geneva" color="#CC0000" size="2">•</font></td>
-<td valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2"><a href="/photocenter/">HP Cartogra's Photo Center</a></font></td></tr><tr><td valign="TOP"><font face="Verdana,Geneva" color="#CC0000" size="2">•</font></td>
-<td valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2"><a href="/bobby/">Bobby: A New Life</a></font></td></tr><tr><td valign="TOP"><font face="Verdana,Geneva" color="#CC0000" size="2">•</font></td>
-<td valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2"><a href="/jennifer/">Jennifer's Journal</a></font></td></tr><tr><td valign="TOP"><font face="Verdana,Geneva" color="#CC0000" size="2">•</font></td>
-<td valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2"><a href="/poll/">Surveys &amp; Polls</a></font></td></tr><tr><td valign="TOP"><font face="Verdana,Geneva" color="#CC0000" size="2">•</font></td>
-<td valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2"><a href="/essay/">Life Stories</a></font></td></tr><tr><td valign="TOP"><font face="Verdana,Geneva" color="#CC0000" size="2">•</font></td>
-<td valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2"><a href="/news/">In the News</a></font></td></tr><tr><td valign="TOP"><font face="Verdana,Geneva" color="#CC0000" size="2">•</font></td>
-<td valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2"><a href="/expert/">Ask the Experts</a></font></td></tr><tr><td valign="TOP"><font face="Verdana,Geneva" color="#CC0000" size="2">•</font></td>
-<td valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2"><a href="/health/search/">Find a Healthcare Provider</a><br><font size="1">Search a database of healthcare providers.</font></font></td></tr><tr><td valign="TOP"><font face="Verdana,Geneva" color="#CC0000" size="2">•</font></td>
-<td valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2"><a href="/classifieds/">Classifieds</a></font></td></tr></tbody></table>
-
-
-
-
-</p></font><p><font face="arial,helvetica,sans-serif" size="2"><table border="0" width="120" cellspacing="0" cellpadding="1" bgcolor="#999999">
-<tbody><tr><td>
-<table width="118" border="0" cellspacing="0" cellpadding="4">
-<tbody><tr><td width="100%" bgcolor="#009999"><font face="arial,helvetica" size="-1" color="#FFFFFF"><b><font color="#FFFFFF">Free BabyCenter Membership!</font></b></font></td></tr>
-<tr><td width="100%" bgcolor="#FFFFFF">
-<font face="verdana,arial,helvetica,sans-serif" size="1">Track your baby’s development<br>
-<img src="/images/trans.gif" width="10" height="6" border="0" alt=""><br>
-<font color="#FF9900"><b>•&nbsp;</b></font>News and features, personalized for you and your baby<br>
-<img src="/images/trans.gif" width="10" height="6" border="0" alt=""><br>
-<font color="#FF9900"><b>•&nbsp;</b></font>Weekly developmental newsletters</font><br>
-<img src="/images/trans.gif" width="10" height="6" border="0" alt=""></td></tr>
-<tr><td bgcolor="#FFFFFF"><!-- $Id: formlet.jhtml /main/1 22-May-2000.05:22:35 ctdean $ --> <!-- modified -->
-
-
-
-
-
-<table border="0" cellpadding="0" cellspacing="2"><form method="POST" action="/members/profile/"></form>
-<input type="hidden" name="formletSubmitPage" value="contentFormlet">
-<tbody><tr><td align="center" bgcolor="#ffffff"><font face="verdana,geneva,sans-serif" size="1"><b>E-mail</b>&nbsp;address:</font><br><input type="text" name="formletEmail" size="11" maxlength="50"><br><input type="image" src="/images/homepage/signupbut.gif" width="64" height="18" border="0" vspace="5" hspace="0" alt="Go!" name="enter" value="Submit"></td></tr>
-</tbody></table>
-</td></tr>
-</tbody></table></td></tr>
-</tbody></table>
-
-
-
-</font></p></td>
-<td width="20" rowspan="2"><!-- gutter 20 --><img src="/i/trans.gif" width="20" height="4" border="0" alt=""></td>
-
-
-<td colspan="5" valign="top"><!-- breadcrumb 8x1 --><font face="Arial, Helvetica, sans-serif" size="2" color="#666666">
-
-		
-		
-        
-		
-		
-        
-</font></td>
-<!-- default -->
-</tr>
-<tr><td colspan="5" valign="top"><!-- content cell  --><br>
-<!--startindex-->
-	
-<font face="arial,helvetica,sans-serif" size="2">
-<!-- no sponser for this page at this time --><p>
-
-
-	</p><p>
-
-
-	
-		</p><p><font size="5">BabyCenter Privacy Policy</font>
-
-</p><p><b>BabyCenter Respects Your Privacy</b>
-</p><p>BabyCenter respects your privacy and pledges to earn and keep your trust. All personal information you give us is kept confidential and protected with the utmost care, and will not be used in ways to which you have not consented. We won't sell or disclose any information that identifies you to an unrelated third party without your approval. In addition, when you place an order at the BabyCenter Store, your personal and credit card information is safe. 
-
-</p><p><br><b>TRUSTe Certified</b><br>
-</p><p><table width="100" border="0" cellpadding="0" cellspacing="0" align="LEFT" valign="TOP"><tbody><tr><td width="100" align="LEFT"><a href="https://www.truste.org/validate/3098"><img src="/images/truste/truste_seal_box.gif" width="91" height="73" border="0" alt="TRUSTe: Click to Verify"></a></td></tr></tbody></table>
-BabyCenter is a member of the TRUSTe program and follows TRUSTe's privacy principles.  TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the principles of disclosure and informed consent.  Because BabyCenter wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed and audited for compliance by TRUSTe.
-</p><p>Questions regarding this statement should be directed to the BabyCenter site coordinator at <a href="mailto:feedback@babycenter.com">feedback@babycenter.com</a>.  If the web site has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact <a href="http://www.truste.org/users/watchdog.html">TRUSTe</a>.<!--  (<A HREF="http://www.truste.org/users/watchdog.html">http://www.truste.org/users/watchdog.html</A>).  -->
-
-</p><p><br><b>Your Personal Information</b><br>
-BabyCenter won't intentionally collect any personally identifiable information about you except when you specifically provide us with it. For example, if you become a member of BabyCenter to take advantage of certain features, such as the My Baby This Week developmental newsletter, we ask for your e-mail address. When you sign up for BabyCenter membership, you can also sign up to receive promotional offers and information from BabyCenter and other qualified merchants. These qualified merchants are prescreened organizations or companies whose products or services we believe are of interest to parents and parents-to-be. But if you don't want to receive these offers, simply uncheck the Additional Offers box as you sign up. If you sign up to receive the offers but later decide you don't want them, just <a href="http://www.babycenter.com/members/profile/">click here</a> to log in to your Member Profile page, where you can unsubscribe by unchecking the Additional Offers box. 
-
-</p><p>We won't sell or disclose your personally identifiable information to unrelated third parties without your consent. However, on particular pages where we ask for your personal information, we may explicitly tell you that the data we're collecting on that page might be shared with third parties, such as our sponsors or parties providing services to our users. In such cases, those disclosures shall override anything to the contrary in this policy. For example, before you submit answers to questions we ask in an advertiser-sponsored promotion or service, we'll tell you that your answers might be shared with that advertiser.  In all of these cases, we'll collect personally identifiable information only if you voluntarily submit it to us or our sponsors.
-
-</p><p>Our site also has public areas such as chat rooms and message boards. Please remember that any information you share in these areas becomes public, so you should be careful about what you disclose. If you post comments about BabyCenter products or services on our site, there's a chance we'll publish them for editorial purposes or in promotional advertising and/or marketing materials (especially if you say nice things about us).  See our <a href="http://www.babycenter.com/disclaimer.html/">Terms of Use</a>.
-
-</p><p><br><b>Use of Information</b><br>
-Information collected by BabyCenter about its users is used internally by authorized employees of BabyCenter and its affiliates for three main purposes: First, we collect information to figure out which areas, features, and products our users like the most and find most helpful, so we can continue to improve the site. Second, we collect information in order to personalize the site for our users (for example, it allows us to recommend products or features based on what you have liked in the past). Finally, we collect information to enable our users to participate in sweepstakes, contests, services, and other activities on our site. 
-
-</p><p>On occasion, BabyCenter may also share non-personal, summary information about our users with unrelated third parties (for example, we publicly disclose how many people have signed up for BabyCenter membership). However, BabyCenter will not share personally identifiable information about any particular user with unrelated third parties unless the user has specifically agreed to sharing it. 
-
-</p><p>BabyCenter also uses certain third-party advertising services (including, in particular, DoubleClick) to display advertising for our advertisers. These third-party services may place a cookie on your computer for the purposes of ad tracking and presentation. (See "Cookies and IP Addresses," below, if you're not sure what a cookie is.) BabyCenter does not share personally identifiable information about users with DoubleClick or any other advertising service.  If you'd like to know more about the information-gathering practices and "opt-out" procedures of DoubleClick, <a href="http://www.doubleclick.net/privacy_policy/">click here</a>.
-
-</p><p><br><b>Parental Consent for Kids' Information</b><br>
-BabyCenter is designed for adults.  Therefore, BabyCenter generally doesn't collect personal information about babies and children other than from their parents, and we won't collect personal information about babies or children without first getting their parents' consent. After giving consent, parents will also have the option of reviewing, changing, or deleting a child's personal information, revoking the consent, or refusing to permit collection of further information. We ask that our users not provide information about a baby or child without first getting the parents' consent. Examples of personal information include full name, home address, e-mail address, and phone number. 
-
-</p><p><br><b>E-mail This to a Friend Service</b><br>
-You can choose to electronically forward a story from our site to a friend by entering the friend's e-mail address. We don't use your friend's e-mail address for any purpose other than to send your e-mail. We don't rent or sell the addresses used in our E-mail This to a Friend service. 
-
-</p><p><br><b>Security; AOL Certified Merchant</b><br>
-At BabyCenter, part of our job is to make sure your experience of our site is safe and secure. That means your credit card, your personal information, and your password are safe. We use the latest encryption technologies, rigorous password protections, and limits on the number of people who have access to your information, all to guard against unauthorized access to your data. 
-
-</p><p>As a Certified Merchant of America Online, we've also agreed to abide by AOL's privacy policy. To read AOL's privacy policy, <a href="http://shopping.aol.com/custserv/guarantee.adp/">click here</a>.
-
-</p><p><br><b>Cookies and IP Addresses</b><br>
-We do not and cannot use cookies or IP address tracking to retrieve personal information from your computer. To find out what cookies and IP addresses are, keep reading.
-
-</p><p><i>Cookies:</i> At times we send your computer a "cookie," a small data file that's stored on your hard drive. We use cookies to give you better, more personalized service once you've bought something from us or become a member of BabyCenter. This information is for internal use only; we don't share it with others.  You're always free to decline our cookies if your browser permits, but some parts of our site may not work properly for you if you do. 
-
-</p><p>Note: You'll see advertising on our site that originates with outside advertisers and/or advertising agencies. In some cases, if you click on or view these ads, the advertiser will assign a cookie. BabyCenter does not control these cookies.
-
-</p><p><i>IP address tracking:</i> All computers and servers on the Internet use IP addresses to recognize and communicate with each other. Collecting IP addresses allows us to administer and analyze our site and report non-personal information (such as how many members we have) to sponsors and advertisers. When you call up a BabyCenter page on your computer, BabyCenter's servers enter the IP address of that computer into a log. To maintain our users' anonymity, BabyCenter does not associate IP addresses with records containing personal information. 
-
-</p><p><br><b>Other Sites</b><br>
-Please note that if you provide any information on your own or directly to parties who provide service to our network or to Internet sites other than BabyCenter (even if these sites display the BabyCenter name and logo in addition to their own), different rules may apply to their use or disclosure of any personal information you might give them. We encourage you to investigate and ask questions before disclosing information to third parties. 
-
-</p><p><b>Online Surveys and Contests</b><br>
-Sometimes we conduct user surveys to find out how we can improve our site for you. We may share non-personal information about our users with partners or other third parties. For example, we might disclose that a certain percentage of our users are female. But we will not sell personal information to or share any personal information with an unrelated third party without your consent. Sometimes we and our sponsors offer contests and sweepstakes in which we request certain personal information. For example, a sponsor might require your name and e-mail address to participate in a contest. Because the rules and terms of each promotion can vary, all information about the contest is posted during the event, and those disclosures shall override anything to the contrary in this policy. 
-
-</p><p><b>Sponsored Educational Areas</b><br>
-BabyCenter publishes "sponsored content" pages, which are paid for by advertisers. These provide high-quality, educational information that we believe will be of interest to you. We clearly identify these pages so you'll know which area of the site you're visiting. Sponsored content pages are written, edited, and fact-checked by the BabyCenter staff before being sent to the sponsor for review, and are held to the same high standards as BabyCenter content that is not sponsored. We never publish information we believe to be erroneous or misleading. And we accept sponsorships only from trusted, reputable companies, such as Johnson &amp; Johnson and Procter &amp; Gamble. 
-
-</p><p><b>Sponsored Promotional Pages</b><br>
-BabyCenter also publishes promotional pages sponsored by advertisers who offer product and promotional information that might be of interest to you, including contests, free samples, discounts, etc. We clearly identify these pages. Sometimes the advertiser or BabyCenter will request personal information from users. Because the rules and terms of each promotion can vary, all information is posted during the event. Different rules may apply to these sponsors' use or disclosure of any personal information you might give them. We encourage you to investigate and ask questions before disclosing information to third parties. 
-
-</p><p><br><b>Reviewing and Changing Your Member Profile; Unsubscribing</b><br>
-As a member of BabyCenter, you can review and change the information in your Member Profile, or unsubscribe from any one of the BabyCenter e-mail newsletters. To do that, <a href="http://www.babycenter.com/members/profile/">click here</a>. If you would like to unsubscribe from all BabyCenter mailings, <a href="http://www.babycenter.com/unsubscribe/">click here</a>. 
-
-</p><p><br><b>Your Consent</b><br>
-By using our Web site, you consent to our Terms of Use policy. To review that policy, <a href="http://www.babycenter.com/disclaimer.html/">click here</a>. 
-
-</p><p><br><b>Changes</b><br>
-BabyCenter may modify this privacy policy at any time, and such modifications shall be effective as soon as the modified policy is posted. Accordingly, you agree to review the policy periodically, and your continued access or use of this site shall be deemed your acceptance of the modified agreement.
-
-</p><p><br><b>Your Questions and Comments</b><br>
-Feel free to call us toll-free at (888) 397-5544, <a href="mailto:feedback@babycenter.com">e-mail us</a>, or write to 163 Freelon Street, San Francisco, CA 94107 with comments or questions.  See <a href="/about">About BabyCenter</a> to find out more about our company and our policies. 
-
-</p><p><br><b>Limits on Our Abilities</b><br>
-Although your privacy is very important to us, in the existing legal regulatory and security environment, we cannot fully ensure that your private communications and other personal information will not be disclosed to third parties. For example, under certain circumstances the government or unrelated third parties might force us to disclose information to them, or third parties might unlawfully intercept or access transmissions or private communications. Additionally, in the unlikely event we need to investigate or resolve possible problems or inquiries, we can (and you authorize us to do so) disclose any information about you to private entities and law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate.
-
-</p><p align="center"><br>Last revised on 7/1/00.
-
-	
-
-
-	
-
+<body bgcolor="#ffffff" link="#333399" alink="#993399" vlink="#333333" onload="pageInit();">
 <!--stopindex-->
-<!-- $Id:footer.jhtml /main/4 22-May-2000.05:19:45 ctdean $ -->
-</p></font></td></tr></tbody></table><br clear="all">
-<p><table border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td bgcolor="#FFFFFF"><!-- AD GOES HERE --><!-- ad number 2(unknown browser) -->
-<a href="http://ad.doubleclick.net/jump/babycenter.com/ARTICLE.3956.7814.;area=.3956.7814.;sz=468X60;pos=bottom;tile=2;ord=6997247?">
-<img src="http://ad.doubleclick.net/ad/babycenter.com/ARTICLE.3956.7814.;area=.3956.7814.;sz=468X60;pos=bottom;tile=2;ord=6997247?" width="468" height="60"></a></td></tr></tbody></table>
-</p><p><table border="0" width="100%" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td align="CENTER" bgcolor="#FFFFFF"><!-- $Id:footer_text.html /main/3 22-May-2000.05:19:31 ctdean $ -->
-<font face="arial,helvetica,sans-serif" size="-1"><a href="/about/index.html">About BabyCenter</a> | 
-<a href="/general/7814.html">Privacy</a> | 
-<a href="/feedback.html">Feedback</a> | 
-<a href="/general/3877.html">FAQ</a> | 
-<a href="/search">Search</a> | 
-<a href="/">Home</a> | 
-<a href="/contact.html">Contact Us</a> | 
-<a href="/advertising.html">Advertising</a>
-<p><a href="http://www.babycenter.com">http://www.BabyCenter.com/</a>
-</p></font><p><font face="arial,helvetica,sans-serif" size="-1"><font size="1" color="#999999">All contents <a href="/copyright.html">copyright</a> © 1997-2000 BabyCenter, Inc. All rights reserved. This internet site provides information of a general nature and is designed for educational purposes only. If you have any concerns about your own health or the health of your child, you should always consult with a physician or other healthcare professional. Please review the <a href="/disclaimer.html">Terms of Use</a> before using this site. Your use of the site indicates your agreement to be bound by the Terms&nbsp;of&nbsp;Use.<br>
-<!-- do NOT remove used to switch in BAA --><img src="/images/trans.gif" width="1" height="1" onload="if (has_ads){get_ads()}"><br>
- <a href="/disclaimer.html">Terms of Use</a> | 
-<a href="/photocredits.html">Photo  Credits</a></font></font>
+<!-- header -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%"><!-- $bc/app/frag/jhtml/tabs.jhtml-->
+<!-- category: default // pagename: privacypolicy --><tbody><tr>
+	<td>
+<map name="toptabs">
+<!-- new for free ship tabs -->
+<area shape="rect" coords="12,41,67,79" href="/" alt="BabyCenter Homepage">
+<area shape="RECT" coords="262,18,291,34" href="/help/" alt="Help Center">
+<area shape="RECT" coords="296,19,365,35" href="https://www.babycenter.com/members/" alt="Member Center">
+<area shape="rect" alt="Free Shipping" coords="13,4,114,39" href="/store/free_shipping_offer.jhtml?adcode=FS:tab">
+<area shape="rect" alt="Topics A-Z" coords="70,41,122,80" href="/topicsaz/">
+<area shape="rect" alt="Go Shopping" coords="127,36,214,87" href="/shopping/">
+<area alt="Premium Services" coords="218,35,289,79" href="/premium/index.jhtml">
+<area shape="rect" alt="Exchange your ideas and experiences" coords="193,35,374,79" href="/community/">
+<area shape="rect" alt="Personalize Babycenter" coords="378,38,461,80" href="/mybabycenter/">
+<area shape="RECT" coords="368,17,468,36" href="/store/cart/" alt="Shopping Cart">
+</map>
+<a href="/?adcode=TAB"><img src="/i/m/logo/snowflake.gif" width="159" height="74" border="0"></a><img src="http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/hd/topics.gif" width="467" height="74" usemap="#toptabs" border="0"><!--end cache--></td>
+<td><!-- $eve/app/misc-docs/pricetime.jhtml--><a href="/priceless/Z0LHQUI0L2DI0CUAQI0SJ0Q/669391.html"><img src="/priceless/Z0LHQUI0L2DI0CUAQI0SJ0Q/669391.gif" width="1" height="1" border="0" alt=""></a><!--/ $eve/app/misc-docs/pricetime.jhtml -->
+</td></tr>
+<!--/ $bc/app/frag/jhtml/tabs.jhtml-->
+<tr bgcolor="3366cc">
 
-</p></td></tr></tbody></table><br>
-<table><tbody><tr><td></td></tr></tbody></table>
-<!--startindex-->
+<td colspan="2"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr><td colspan="2" valign="top"><map name="categorynav">
+<area alt="" coords="8,8,152,48" href="http://www.babycenter.com/">
+<area alt="" coords="162,8,256,48" href="http://www.babycenter.com/preconception/" shape="RECT">
+<area alt="" coords="280,8,352,48" href="http://www.babycenter.com/pregnancy/" shape="RECT">
+<area alt="" coords="376,8,415,48" href="http://www.babycenter.com/baby/" shape="RECT">
+<area alt="" coords="434,8,495,48" href="http://www.babycenter.com/toddler/" shape="RECT">
+<area alt="" coords="512,8,585,48" href="http://www.babycenter.com/topicsaz/" shape="RECT">
+</map><img src="/i/help/subnav.gif" width="585" height="54" alt="" border="0" usemap="#categorynav"></td>
+<td align="right"><img src="/i/help/endcap.gif" width="15" height="54" alt="" border="0"></td>
+</tr>
+<tr bgcolor="e0e0c6">
+<td valign="top">
+<img src="/i/crn/tl_blu.gif" width="15" height="17" alt="" border="0"></td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0">
+<form method="post" action="http://bsearch.babycenter.com/search/"></form>
+<tbody><tr><td>
+<img src="/i/trans.gif" width="1" height="2" alt="" border="0"></td>
+</tr>
+<tr>
+<td><font face="arial,helvetica,sans-serif" size="2"><b>Search</b></font>&nbsp;&nbsp;</td>
+<td><input type="text" name="query" size="20" maxlength="100" value="">&nbsp;</td>
+<td><input type="image" src="/i/go_b.gif" width="28" height="19" border="0" alt=""></td>
+</tr>
+<tr><td>
+<img src="/i/trans.gif" width="1" height="2" alt="" border="0"></td>
+</tr>
+</tbody></table> 
+</td>
+<td valign="top" align="right">
+<img src="/i/crn/tr_blu.gif" width="15" height="17" alt="" border="0"></td>
+</tr></tbody></table></td>
+</tr>
+<!-- /header --> 
+</tbody></table>
+<!-- /header -->
+<!--end print switch -->
+<div id="subnavInline"></div>
+<!--/ $bc/app/frag/jhtml/head.jhtml-->
 
 
-    
+
+<!-- $Source: --> 
+ 
+<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="205" valign="top">  
+ 
+<table border="0" cellpadding="0" cellspacing="0" width="190" bgcolor="#e0e0c6"> 
+<tbody><tr><td><br></td> 
+<td><font face="Arial,Helvetica,sans-serif" size="2"> 
+<br> 
+<b><a href="/help/ordering">Ordering From Our Store</a></b><br>  
+	 
+	<font face="Verdana,Geneva" size="1"> 
+	<a href="/help/ordering/checkout">I've finished shopping. How do I check out?</a><br><a href="/help/ordering/cancel">How do I change or cancel my order?</a><br><a href="/help/ordering/problems">I'm having trouble ordering. What can I do?</a><br>•&nbsp;<a href="/help/ordering">more</a>...<br></font><br><b><a href="/help/payment">Paying for Your Order</a></b><br>  
+	 
+	<font face="Verdana,Geneva" size="1"> 
+	<a href="/help/payment/options">What are my payment options?</a><br><a href="/help/payment/cost">How much will my order cost?</a><br><a href="/help/payment/ccsafety">Is it safe to use my credit card?</a><br>•&nbsp;<a href="/help/payment">more</a>...<br></font><br><b><a href="/help/shipping">Shipping</a></b><br>  
+	 
+	<font face="Verdana,Geneva" size="1"> 
+	<a href="/help/shipping/oversize">How does BabyCenter handle oversize items?</a><br><a href="/help/shipping/international">Does BabyCenter ship outside the United States?</a><br><a href="/help/shipping/multipleaddresses">Can I have my order shipped to more than one address?</a><br>•&nbsp;<a href="/help/shipping">more</a>...<br></font><br><b><a href="/help/tracking">Tracking Your Order</a></b><br>  
+	 
+	<font face="Verdana,Geneva" size="1"> 
+	<a href="/help/tracking/orderstatus">Can I check the status of my order?</a><br><a href="/topic/noorderconf.html">I didn't receive an order confirmation. What can I do?</a><br><a href="/topic/noshipconf.html">I didn't receive a shipping confirmation. What can I do?</a><br>•&nbsp;<a href="/help/tracking">more</a>...<br></font><br><b><a href="/help/store/gifts">Gifts and Gift Certificates</a></b><br>  
+	 
+	<font face="Verdana,Geneva" size="1"> 
+	<a href="/topic/giftwrap.html">Can I have an item gift wrapped?</a><br><a href="/topic/message.html">Can I include a personal message with my gift?</a><br><a href="/topic/giftcerts.html">Are gift certificates available?</a><br>•&nbsp;<a href="/help/store/gifts">more</a>...<br></font><br><b><a href="/topic/returns.html">Returns</a></b><br>  
+	 
+	<font face="Verdana,Geneva" size="1"> 
+	<a href="/help/returns/howtoreturn">How do I return an item?</a><br><a href="/topic/giftreturn.html">How do I return a gift?</a><br><a href="/topic/returnstatus.html">How can I check the status of my return?</a><br>•&nbsp;<a href="/topic/returns.html">more</a>...<br></font><br><b><a href="/help/coupons">Saving Money at BabyCenter</a></b><br>  
+	 
+	<font face="Verdana,Geneva" size="1"> 
+	<a href="/help/coupons/get">How do I get a BabyCenter coupon?</a><br><a href="/help/coupons/rules">How do I use a BabyCenter coupon?</a><br><a href="/help/coupons/returns">Can I return an item bought with a coupon?</a><br>•&nbsp;<a href="/help/coupons">more</a>...<br></font><br><b><a href="/help/registry">Gift Registry</a></b><br>  
+	 
+	<font face="Verdana,Geneva" size="1"> 
+	<a href="/topic/delete.html">Can I delete my entire gift registry?</a><br><a href="/help/registry/offers">Gift Registry special offers</a><br><a href="/topic/phone.html">Can gift-givers order from a gift registry by phone?</a><br>•&nbsp;<a href="/help/registry">more</a>...<br></font><br><b><a href="/topic/security.html">Shopping Security</a></b><br>  
+	 
+	<font face="Verdana,Geneva" size="1"> 
+	<a href="/topic/ccsafety.html">Is it safe to use my credit card at BabyCenter?</a><br><a href="/help/security/ccauth">What if someone uses my credit card without my authorization?</a><br><a href="/help/privacy">BabyCenter Privacy Policy</a><br></font><br>  
+<br>
+<b><a href="/help/membership">BabyCenter and ParentCenter Membership</a></b><br>  
+	 
+	<font face="Verdana,Geneva" size="1"> 
+	<a href="/help/membership/profile">How to change your membership profile</a><br><a href="/help/privacy">BabyCenter Privacy Policy</a><br><a href="/help/membership/password">Screen name and password help</a><br>•&nbsp;<a href="/help/membership">more</a>...<br></font><br><b><a href="/help/newsletters">Newsletters</a></b><br>  
+	 
+	<font face="Verdana,Geneva" size="1"> 
+	<a href="/help/newsletters/about">About our newsletters</a><br><a href="/help/newsletters/backissues">How do I get a newsletter I missed?</a><br><a href="/help/newsletters/problems">My e-mail newsletter looks strange. What's wrong?</a><br>•&nbsp;<a href="/help/newsletters">more</a>...<br></font><br><b><a href="/topic/premembers.html">Premium Membership</a></b><br>  
+	 
+	<font face="Verdana,Geneva" size="1"> 
+	<a href="/topic/1239304.html">How do I cancel my Premium membership?</a><br><a href="/topic/1239301.html">How do I change personal information related to my membership?</a><br><a href="/topic/1239307.html">How do I contact customer service?</a><br>•&nbsp;<a href="/topic/premembers.html">more</a>...<br></font><br><b><a href="/help/howto">How to Use BabyCenter</a></b><br>  
+	 
+	<font face="Verdana,Geneva" size="1"> 
+	<a href="/help/howto/bbs">Bulletin boards</a><br><a href="/help/howto/experts">Ask the Experts</a><br><a href="/help/howto/sponsors"> Sponsored educational areas</a><br>•&nbsp;<a href="/help/howto">more</a>...<br></font><br>  
+<b>About Us</b><br><font face="Verdana,Geneva" size="1"> <a href="/help/about/company">About BabyCenter &amp; ParentCenter</a><br>  
+		<a href="/topic/bcstore.html">About the BabyCenter Store</a><br>  
+		<a href="/help/privacy">BabyCenter Privacy Policy</a><br>  
+		<a href="/topic/aboutpremium.html">About BabyCenter Premium Services</a><br>  
+		<a href="/help/aboutus/jobs">Jobs</a><br>  
+		<a href="/topic/pressreleases.html">Press releases</a><br>  
+		<a href="/help/aboutus/terms">Terms of use </a><br>  
+		<a href="/topic/affiliateprogram.html">Store affiliate program</a><br>  
+		</font><br>
+<b>Contact Us</b><br><font face="Verdana,Geneva" size="1"><a href="/topic/customerservice.html">Contact Store customer service</a><br>  
+	<a href="/topic/suggestproducts.html">Suggest a product for our Store</a><br>  
+	<a href="/topic/storeproblems.html">Report a problem with our Store</a><br>  
+	<a href="/help/contactus/editors">Contact the editors</a><br>  
+	<a href="/topic/contactcommunity.html">Contact community</a><br>  
+	<a href="/help/contactus/advertising">Contact advertising</a><br>  
+	<a href="/help/contactus/pr">Contact public relations</a><br>  
+	<a href="/help/contactus/feedback">Send us feedback</a><br>  
+	  </font><br> 
+</font></td> 
+<td><br></td> 
+<td width="15" valign="top" bgcolor="#ffffff"><img src="/i/crn/lt_wtkh.gif" width="15" height="15"></td></tr> 
+<tr> 
+<td><img src="/i/crn/bl.gif" width="8" height="8"></td> 
+<td><img src="/i/trans.gif" width="174" height="1"></td> 
+<td><img src="/i/crn/br.gif" width="8" height="8"></td> 
+<td bgcolor="#ffffff"></td> 
+</tr>
+</tbody></table>
+
+  
+</td>   
+
+<td valign="top">  
+<img src="/i/trans.gif" width="395" height="10" border="0"><br>  
+<font face="Arial,helvetica,sans-serif" size="2"> 
+<b><font size="4">Privacy &amp; security</font></b><br><br><b>• <a href="/help/privacy#0">Our pledge</a></b><br><b>• <a href="/help/privacy#1">Use of information</a></b><br><b>• 
 
 
-	
 
 
 
-</p></body></html>
+<a href="/help/privacy#2">Parental consent for kids' information</a></b><br><b>• <a href="/help/privacy#3">E-mail this to a friend service</a></b><br><b>• <a href="/help/privacy#4">Cookies and IP addresses</a></b><br><b>• <a href="/help/privacy#5">Other sites</a></b><br><b>• <a href="/help/privacy#6">Online surveys and contests</a></b><br><b>• <a href="/help/privacy#7">General security</a></b><br><b>• <a href="/help/privacy#8">Sponsored educational areas</a></b><br><b>• <a href="/help/privacy#9">Sponsored promotional pages</a></b><br><b>• <a href="/help/privacy#10">Reviewing and changing your member profile</a></b><br><b>• <a href="/help/privacy#11">Changes</a></b><br><b>• <a href="/help/privacy#12">Limits on our abilities</a></b><br><b>• <a href="/help/privacy#13">Security for personal information</a></b><br><b>• <a href="/help/privacy#14">Your consent</a></b><br><b>• <a href="/help/privacy#15">Your questions and comments</a></b><br> 
+	<hr noshade="" size="1"> 
+	<!-- this one shows the article bodies --> 
+	<a name="0"></a> 
+				<b>•
+				<font color="#3366cc">Our pledge</font></b><br> 
+				BabyCenter respects your privacy and pledges to earn and keep your trust. All personal information you give us is maintained in accordance with our privacy policy and will not be used in ways that are contrary to that policy.
+<p> 
+				<a name="1"></a> 
+				<b>•
+				<font color="#3366cc">Use of information</font></b><br> 
+				Information collected by BabyCenter about its users is used internally by authorized employees of BabyCenter and its affiliates for three main purposes: First, we collect information to figure out which areas, features, and products our users like the most and find most helpful, so we can continue to improve the site. Second, we collect information in order to personalize the site for our users (for example, it allows us to recommend products or features based on what you have liked in the past). Finally, we collect information to enable our users to participate in sweepstakes, contests, services, and other activities on our site.  <br><br> On occasion, BabyCenter may also share non-personal, summary information about our users with unrelated third parties (for example, we publicly disclose how many people have signed up for BabyCenter membership). However, BabyCenter will not share personally identifiable information about any particular user with unrelated third parties unless the user has specifically agreed to sharing it.  <br><br> BabyCenter also uses certain third-party advertising services (including, in particular, DoubleClick) to display advertising for our advertisers. These third-party services may place a cookie on your computer for the purposes of ad tracking and presentation. (See "Cookies and IP Addresses," below, if you're not sure what a cookie is.) BabyCenter does not share personally identifiable information about users with DoubleClick or any other advertising service.  If you'd like to know more about the information-gathering practices and "opt-out" procedures of DoubleClick, <a href=" http://www.doubleclick.net/privacy_policy/">click here</a>.
+
+
+
+
+</p><p> 
+
+				<a name="2"></a> 
+				<b>•
+				<font color="#3366cc">Parental consent for kids' information</font></b><br> 
+				BabyCenter is designed for adults.  Therefore, BabyCenter generally doesn't collect personal information about babies and children other than from their parents, and we won't collect personal information about babies or children without first getting their parents' consent. After giving consent, parents will also have the option of reviewing, changing, or deleting a child's personal information, revoking the consent, or refusing to permit collection of further information. We ask that our users not provide information about a baby or child without first getting the parents' consent. Examples of personal information include full name, home address, e-mail address, and phone number.
+</p><p> 
+				<a name="3"></a> 
+				<b>•
+				<font color="#3366cc">E-mail this to a friend service</font></b><br> 
+				You can choose to electronically forward a story from our site to a friend by entering the friend's e-mail address. We don't use your friend's e-mail address for any purpose other than to send your e-mail. We don't rent or sell the addresses used in our E-mail This to a Friend service.
+</p><p> 
+				<a name="4"></a> 
+				<b>•
+				<font color="#3366cc">Cookies and IP addresses</font></b><br> 
+				We do not and cannot use cookies or IP address tracking to retrieve personal information from your computer. To find out what cookies and IP addresses are, keep reading. <br><br> <i>Cookies:</i> At times we send your computer a "cookie," a small data file that's stored on your hard drive. We use cookies to give you better, more personalized service once you've bought something from us or become a member of BabyCenter. This information is for internal use only; we don't share it with others.  You're always free to decline our cookies if your browser permits, but some parts of our site may not work properly for you if you do.  <br> Note: You'll see advertising on our site that originates with outside advertisers and/or advertising agencies. In some cases, if you click on or view these ads, the advertiser will assign a cookie. BabyCenter does not control these cookies. <br><br> <i>IP address tracking:</i> All computers and servers on the Internet use IP addresses to recognize and communicate with each other. Collecting IP addresses allows us to administer and analyze our site and report non-personal information (such as how many members we have) to sponsors and advertisers. When you call up a BabyCenter page on your computer, BabyCenter's servers enter the IP address of that computer into a log. To maintain our users' anonymity, BabyCenter does not associate IP addresses with records containing personal information.
+</p><p> 
+				<a name="5"></a> 
+				<b>•
+				<font color="#3366cc">Other sites</font></b><br> 
+				Please note that if you provide any information on your own or directly to parties who provide service to our network or to Internet sites other than BabyCenter (even if these sites display the BabyCenter name and logo in addition to their own), different rules may apply to their use or disclosure of any personal information you might give them. We encourage you to investigate and ask questions before disclosing information to third parties.
+</p><p> 
+				<a name="6"></a> 
+				<b>•
+				<font color="#3366cc">Online surveys and contests</font></b><br> 
+				Sometimes we conduct user surveys to find out how we can improve our site for you. We may share non-personal information about our users with partners or other third parties. For example, we might disclose that a certain percentage of our users are female. But we will not sell personal information to or share any personal information with an unrelated third party without your consent. Sometimes we and our sponsors offer contests and sweepstakes in which we request certain personal information. For example, a sponsor might require your name and e-mail address to participate in a contest. Because the rules and terms of each promotion can vary, all information about the contest is posted during the event, and those disclosures shall override anything to the contrary in this policy.
+</p><p> 
+				<a name="7"></a> 
+				<b>•
+				<font color="#3366cc">General security</font></b><br> 
+				Your credit card, your personal information, and your password are safe. We use the latest encryption technologies, rigorous password protections, and limits on the number of people who have access to your information, all to guard against unauthorized access to your data.
+</p><p> 
+				<a name="8"></a> 
+				<b>•
+				<font color="#3366cc">Sponsored educational areas</font></b><br> 
+				BabyCenter publishes "sponsored content" pages, which are paid for by advertisers. These provide high-quality, educational information that we believe will be of interest to you. We clearly identify these pages so you'll know which area of the site you're visiting. Sponsored content pages are written, edited, and fact-checked by the BabyCenter staff before being sent to the sponsor for review, and are held to the same high standards as BabyCenter content that is not sponsored. We never publish information we believe to be erroneous or misleading. And we accept sponsorships only from trusted, reputable companies, such as Johnson &amp; Johnson and Procter &amp; Gamble.
+</p><p> 
+				<a name="9"></a> 
+				<b>•
+				<font color="#3366cc">Sponsored promotional pages</font></b><br> 
+				BabyCenter also publishes promotional pages sponsored by advertisers who offer product and promotional information that might be of interest to you, including contests, free samples, discounts, etc. We clearly identify these pages. Sometimes the advertiser or BabyCenter will request personal information from users. Because the rules and terms of each promotion can vary, all information is posted during the event. Different rules may apply to these sponsors' use or disclosure of any personal information you might give them. We encourage you to investigate and ask questions before disclosing information to third parties.
+</p><p> 
+				<a name="10"></a> 
+				<b>•
+				<font color="#3366cc">Reviewing and changing your member profile</font></b><br> 
+				As a member of BabyCenter, you can review and change the information in your Member Profile at any time. To do that, <a href="http://www.babycenter.com/members/profile">click here</a>.
+</p><p> 
+				<a name="11"></a> 
+				<b>•
+				<font color="#3366cc">Changes</font></b><br> 
+				BabyCenter may modify this privacy policy at any time, and such modifications shall be effective as soon as the modified policy is posted. Accordingly, you agree to review the policy periodically, and your continued access or use of this site shall be deemed your acceptance of the modified agreement.
+</p><p> 
+				<a name="12"></a> 
+				<b>•
+				<font color="#3366cc">Limits on our abilities</font></b><br> 
+				Although your privacy is very important to us, in the existing legal regulatory and security environment, we cannot fully ensure that your private communications and other personal information will not be disclosed to third parties. For example, under certain circumstances the government or unrelated third parties might force us to disclose information to them, or third parties might unlawfully intercept or access transmissions or private communications. Additionally, in the unlikely event we need to investigate or resolve possible problems or inquiries, we can (and you authorize us to do so) disclose any information about you to private entities and law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate. <br> 
+</p><p> 
+				<a name="13"></a> 
+				<b>•
+				<font color="#3366cc">Security for personal information</font></b><br> 
+				BabyCenter won't intentionally collect any personally identifiable information about you except when you specifically provide us with it. For example, if you become a member of BabyCenter to take advantage of certain features, such as the My Baby This Week developmental newsletter, we ask for your e-mail address. When you sign up for BabyCenter membership, you can also sign up to receive promotional offers and information from BabyCenter and other qualified merchants. These qualified merchants are prescreened organizations or companies whose products or services we believe are of interest to parents and parents-to-be. But if you don't want to receive these offers, simply uncheck the Additional Offers box as you sign up. If you sign up to receive the offers but later decide you don't want them, just <a href="http://www.babycenter.com/members/profile">click here</a> to go to your Member Profile page, where you can unsubscribe by unchecking the Additional Offers box.  <br><br> We won't sell or disclose your personally identifiable information to unrelated third parties without your consent. However, on particular pages where we ask for your personal information, we may explicitly tell you that the data we're collecting on that page might be shared with third parties, such as our sponsors or parties providing services to our users. In such cases, those disclosures shall override anything to the contrary in this policy. For example, before you submit answers to questions we ask in an advertiser-sponsored promotion or service, we'll tell you that your answers might be shared with that advertiser.  In all of these cases, we'll collect personally identifiable information only if you voluntarily submit it to us or our sponsors. <br><br> Our site also has public areas such as chat rooms and message boards. Please remember that any information you share in these areas becomes public, so you should be careful about what you disclose. If you post comments about BabyCenter products or services on our site, there's a chance we'll publish them for editorial purposes or in promotional advertising and/or marketing materials (especially if you say nice things about us).  See our <a href="http://www.babycenter.com/topic/copyrights.html">Terms of Use</a>.
+</p><p> 
+				<a name="14"></a> 
+				<b>•
+				<font color="#3366cc">Your consent</font></b><br> 
+				By using our Web site, you consent to our Terms of Use policy. To review that policy, <a href="http://www.babycenter.com/topic/copyrights.html">click here</a>.
+</p><p> 
+				<a name="15"></a> 
+				<b>•
+				<font color="#3366cc">Your questions and comments</font></b><br> 
+				Feel free to call us toll-free at (888) 397-5544, <a href="mailto:feedback@babycenter.com">e-mail us</a>, or write to 163 Freelon Street, San Francisco, CA 94107 with comments or questions.  See <a href="http://www.babycenter.com/topic/company.html">About BabyCenter</a> to find out more about our company and our policies.
+</p></font><p><font face="Arial,helvetica,sans-serif" size="2"> 
+				
+<br><br><br><a href="/help"><img src="/i/help/return.gif" width="123" height="63" border="0" align="right"></a></font>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  
+</p></td><td valign="top" align="right"><img src="/i/crn/rt_wtkh.gif" width="15" height="15"></td>
+<td bgcolor="#e0e0c6" width="1"><img src="/i/trans.gif" width="2" height="1"></td></tr></tbody></table>  
+<p><font size="-1">Version 3.2</font>  
+</p><hr width="98%" size="1" noshade="">  
+
+
+
+<!-- $bc/app/frag/jhtml/foot.jhtml-->
+<table width="98%" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff"><tbody><tr>
+	<td align="center"><br><img src="/i/trans.gif" width="588" height="1"><br><font size="1" face="verdana,geneva">
+	<a href="/">Home</a> | 
+	<a href="/community/">Community</a> | <a href="/mybabycenter/">My BabyCenter</a> | 
+	<a href="/topicsaz/">Topics A-Z</a> | <a href="http://bsearch.babycenter.com/search/">Search</a> | 
+	<a href="/members/">Member Center</a><br><br>
+<table bgcolor="#99ccff" cellpadding="1" cellspacing="0" border="0"><tbody><tr><td><table bgcolor="#ffffff" cellpadding="3" cellspacing="0" border="0"><tbody><tr><td bgcolor="#99ccff"><font size="1" face="verdana,geneva"><b><a href="/premium/index.jhtml">Premium Services</a></b></font></td><td bgcolor="#ffffff" align="center"><font size="1" face="verdana,geneva">
+<a href="/premium/reports/">Consumer Reports</a> | <a href="/premium/safe/">Is It Safe?</a> | <a href="/premium/recall/">Recall Alerts</a> | <a href="/premium/rewards/">Premium Rewards</a> | <a href="/premium/rewards/store.jhtml">BabyCenter Store Bonus Club</a></font></td></tr></tbody></table></td></tr></tbody></table>
+<br>
+	<a href="/topic/aboutus.html">About BabyCenter</a> | <a href="/help/">Help</a> | 
+	<a href="/topic/contactus.html">Contact Us</a> | <a href="/about/jobindex.html">Jobs</a> | 
+	<a href="/help/aboutus/privacy">Privacy &amp; Security</a> | 
+	<a href="/help/aboutus/terms">Terms of Use</a> | 
+	<a href="/photocredits.html">Photo Credits</a><br><br>
+	<a href="/topic/affiliateprogram.html">Affiliates</a> | <a href="/topic/advertising.html">Advertisers</a> | 
+	<a href="http://www.babycentre.co.uk/">BabyCentre UK</a> | 
+	<a href="http://www.parentcenter.com/?tr=BBC:EDI:TXT:FOT:HOM">ParentCenter</a> | <a href="/store/">BabyCenter Store</a><br><br>
+<font size="2" face="arial, helvetica"><a href="http://www.babycenter.com/">http://www.babycenter.com/</a></font><br><br>
+<font color="#999999">All contents <a href="/help/aboutus/copyrights">copyright</a> © BabyCenter, L.L.C. 1997-2002
+ All rights reserved. This internet site provides information of a general nature and is designed for educational purposes only. If you have any concerns about your own health or the health of your child, you should always consult with a physician or other healthcare professional. Please review the <a href="/help/aboutus/terms">Terms of Use</a> before using this site. Your use of the site indicates your agreement to be bound by the <a href="/help/aboutus/terms">Terms of Use</a>.</font></font></td>
+	</tr>
+</tbody></table>
+
+<script language="javascript1.3">
+
+if (ACM) ACM.init();
+</script>
+
+<!--/ $bc/app/frag/jhtml/foot.jhtml-->
+
+
+<!--/ $bc/app/topic/jhtml/topic.jhtml-->
+</body></html>
