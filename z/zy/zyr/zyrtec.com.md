@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zyrtec.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601160835id_/http%3A//www.zyrtec.com/index.asp%3Fpageid%3D77%26contentid%3D77) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zyrtec.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204235954id_/http%3A//www.zyrtec.com/index.asp%3Fpageid%3D77%26contentid%3D77) for the most accurate reproduction.*
 
-# ZYRTEC (R) (cetirizine HCl). Lots of Allergies. Just one ZyrtecTM.
+# ZYRTEC ® (cetirizine HCl). Lots of Allergies. Just one ZYRTEC™.
 
 **Internet privacy policy**  
 Pfizer Inc recognizes the importance of protecting the privacy of information we may collect from our online visitors. To this end, we are committed to using our best efforts to respect the privacy of our online visitors. It is our intent to balance our legitimate business interests in collecting and using information received from and about you with your reasonable expectations of privacy. The following is the way we handle information learned about you from your visit to our Web site. 
