@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1-language.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619115644id_/http%3A//1-language.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1-language.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204121152id_/http%3A//www.1-language.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Learn English - Learn English as a Second Language - ESL
 
