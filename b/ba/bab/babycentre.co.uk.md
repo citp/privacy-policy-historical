@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babycentre.co.uk privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604175925id_/http%3A//www.babycentre.co.uk/general/7814.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babycentre.co.uk privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212024617id_/http%3A//babycentre.co.uk/general/7814.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,4 +53,4 @@ By using our Web site, you consent to our Terms of Use policy. To review that no
 
 **Your Questions and Comments**
 
-Feel free to contact us any time and we'll answer any additional questions you may have. Our email address is comments@babycentre.co.uk. See [About BabyCentre ](https://web.archive.org/about)to find out more about our company and our policies. 
+Feel free to contact us any time and we'll answer any additional questions you may have. Our email address is comments@babycentre.co.uk. See [About BabyCentre ](https://web.archive.org/about)to find out more about our company and our policies.                                                                                                        
