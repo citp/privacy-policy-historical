@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the raymourflanigan.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604095603id_/http%3A//www.raymourflanigan.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raymourflanigan.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204213342id_/http%3A//www.raymourflanigan.com/privacy.asp) for the most accurate reproduction.*
 
 # Contact Raymour & Flanigan® - Privacy Policy
-
-_**Raymour & Flanigan® Furniture Privacy Policy**_ ****
 
 Raymour & Flanigan® Furniture respects your privacy. Our goal is to be your furniture retailer of choice by developing a relationship based on mutual trust. Personal information which you choose to share with Raymour & Flanigan® will be treated in accordance with the following policies: 
 
@@ -20,7 +18,7 @@ Raymour & Flanigan® will not sell, barter, or exchange any information about yo
 
 Raymour & Flanigan® may release account information when we believe, in good faith, that such release is reasonably necessary to (i) comply with law, (ii) enforce or apply the terms of any of our user agreements, or (iii) protect the rights, property, or safety of Raymour & Flanigan®, our users, or others. 
 
-You may remove your name from our e-mail list by selecting "Unsubscribe" in the [become a Raymour & Flanigan member](https://web.archive.org/web/20040604095603id_/http%3A//www.raymourflanigan.com/submembers.htm) section. 
+You may remove your name from our e-mail list by selecting "Unsubscribe" in the [become a Raymour & Flanigan member](https://web.archive.org/web/20041204213342id_/http%3A//www.raymourflanigan.com/submembers.asp) section. 
 
 **How We Use Cookies.**
 
