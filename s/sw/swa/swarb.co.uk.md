@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swarb.co.uk privacy policy that was archived on 2003-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030418132052id_/http%3A//www.swarb.co.uk/lawb/opPrivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swarb.co.uk privacy policy that was archived on 2003-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031214002339id_/http%3A//www.swarb.co.uk/lawb/opPrivacy.html) for the most accurate reproduction.*
 
 # Privacy Statement, www.swarb.co.uk, op, us, , law-bytes@swarb.co.uk, David Swarbrick, Solicitor, Wrigley Claydon
 
@@ -39,13 +39,13 @@ Purpose Specification and Data Collection
 
 You can access our Web site home page and browse our site 
 
-http://www.swarb.co.uk without disclosing personal data, save to the extent that that is revealed in the usual activity logs created by our ISP (Info-comm of York, England). 
+http://www.swarb.co.uk without disclosing personal data, save to the extent that that is revealed in the usual activity logs created by our ISP. 
 
 We collect your personal data only with your knowledge and consent. 
 
 Cookies 
 
-We do not use cookies on our Web site, and do not create them on any vistors machine. 
+We do not use cookies on our Web site. 
 
 All our employees and processors who have access to your personal data and are associated with the processing of that data are obliged to respect the confidentiality of your personal data. 
 
