@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phone.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610161119id_/http%3A//www.openwave.com/us/legal/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phone.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204193010id_/http%3A//www.openwave.com/us/legal/privacy_policy.htm) for the most accurate reproduction.*
 
 # Openwave - Legal - Openwave Privacy Policy
 
@@ -55,6 +55,8 @@ If you have a question or comment about the Openwave site or a request to correc
   
    
 The materials on this site are provided by Openwave Systems Inc. ("Openwave") for informational purposes only. By downloading any material from the site, you agree to our [Terms and Conditions](https://web.archive.org/us/legal/). 
+
+Last modified July 15, 2004
 
 |  |  | | Related Links  
 ---|---  
