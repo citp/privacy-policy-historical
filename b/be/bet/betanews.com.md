@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the betanews.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603235046id_/http%3A//www.betanews.com/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betanews.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201131855id_/http%3A//www.betanews.com/privacy.php3) for the most accurate reproduction.*
 
 # BetaNews Privacy Policy
 
-**Privacy Statement for BetaNews.com**   
-
+**Privacy Statement for BetaNews.com**
 
 BetaNews has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: **BetaNews.com** and network sites. The BetaNews.com, and network Web sites ("sites") are operated by BetaNews, located in Costa Mesa, California. You can reach us with questions regarding this statement via e-mail at [privacy@betanews.com](mailto:privacy@betanews.com). 
 
@@ -17,19 +16,7 @@ This site contains links to other sites. **BetaNews** is not responsible for the
 
 Our online surveys ask visitors for contact information (like their e-mail address) and demographic information (like their zip code, age, or income level). The customer's contact information is only used to contact the visitor when necessary. Users may opt-out of receiving mailings they have signed up for; see the choice/opt-out section below. Demographic and profile data is also collected on our sites. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. 
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. To find out more about how Doubleclick manages the privacy of information in conjunction with serving ads on this site, please go to <http://doubleclick.com/privacy_policy>. 
-
-**Public Forums**
-
-Our sites make chat rooms, forums, and message boards, available free to users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
-
- **Security**
-
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Our servers have strict security in place to prevent an intruder from retrieving personal information about our users. Staff overlook server access daily to ensure the above holds true.
-
- **Children's Guidelines**
-
-This site gives children between the ages of 13 and 18 the ability to publicly post or distribute personally identifiable contact information without prior parental consent. Please take proper measures if you do not wish your child to have access to public forums and message boards. As always, exercise caution when deciding to disclose personal information in a public forum. 
+**Third Party Advertising** We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp). **Third Party Cookies** In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. **Public Forums** Our sites make chat rooms, forums, and message boards, available free to users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. **Security** This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Our servers have strict security in place to prevent an intruder from retrieving personal information about our users. Staff overlook server access daily to ensure the above holds true. **Children's Guidelines** This site gives children between the ages of 13 and 18 the ability to publicly post or distribute personally identifiable contact information without prior parental consent. Please take proper measures if you do not wish your child to have access to public forums and message boards. As always, exercise caution when deciding to disclose personal information in a public forum. 
 
 In order to comply with the new [COPPA ruling](http://www.cdt.org/legislation/105th/privacy/coppa.html), if you are younger than 13 years of age, you are forbidden from becoming a member of BetaNews or posting information on BetaNews message boards without direct parental consent. You may have your parent or guardian e-mail us at [permission@betanews.com](mailto:permission@betanews.com) to verify that you have been granted permission to use this site. 
 
