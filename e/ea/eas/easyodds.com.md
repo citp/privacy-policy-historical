@@ -1,87 +1,86 @@
-> *The following text is extracted and transformed from the easyodds.com privacy policy that was archived on 2001-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010417174818id_/http%3A//www.easyodds.com/easyodds/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyodds.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017112315id_/http%3A//www.easyodds.com/easyodds/privacy.html) for the most accurate reproduction.*
 
 # easyodds.com
 
   
   
   
-**easyodds.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ easyodds.com ](http://www.easyodds.com/)
+**WEB SITE PRIVACY STATEMENT FOR EASYODDS.COM LIMITED** easyodds.com Limited is committed to protecting your privacy on-line. We use information we collect about you to provide you with the services which you may access through our web site (for example, the betting odds comparison service and the assisted registration service (whereby we send your information to selected bookmakers to enable you to open an account with those bookmakers)) (together the "Services") and to provide a personalised service to you when you visit our web site. At easyodds, we appreciate that you do not want the personal information you provide to us distributed indiscriminately and here, we explain how we collect information, what we do with it and what controls you have.
 
-####  Information Automatically Logged 
+**What data do we collect?  
+**So that we can provide the Services, we may, upon registration or at other times, ask you to submit information such as your name, e-mail address, postal address, telephone number and credit or debit card number and expiration date. You are under no obligation to provide such information. However, if you should choose to withhold requested information, we may not be able to provide you with the Services. 
 
-We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to gather broad demographic information. 
+**How is the information used?  
+**easyodds will use the information you provide to us to:- 
 
-####  Cookies 
+  * identify visitors;  
 
-Our Site uses cookies to keep track of your shopping cart, and to make sure you don't see the same ad repeatedly. We also use cookies to deliver content specific to your interests, and to save your password so you don't have to re-enter it each time you visit our site. 
+  * provide the Services;  
 
-####  Advertisers 
+  * verify your credit/debit card details;  
 
-easyodds.com works with a third party that serves ads to this site. To find out more about how Engage Media manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.engage.com/privacy>. 
+  * improve the content of our web page;  
 
-####  Registration Forms 
+  * customise the content and/or layout of our page for each individual customer; and  
 
-Our site's registration form requires users to give us contact information (like their name, email, and postal address), and unique identifiers (like their social security number). 
-
-Contact information from the registration forms is used to ship purchases, information about our company. The customer's contact information is also used to get in touch with the customer when necessary. 
-
-Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
-
-Unique identifiers (such as social security numbers) are collected from Web site visitors for use as account numbers in our record system. 
-
-####  Order Forms 
-
-Our site uses an order form for customers to request information, products, and services. We collect contact information (like their email address), and financial information (like their account or credit card numbers). 
-
-Contact information from the order forms is used to ship purchases, information about our company. The customer's contact information is also used to get in touch with the visitor when necessary. 
-
-Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
-
-Financial information that is collected is used to bill the user for products and services. 
-
-####  Surveys 
-
-Our online surveys ask visitors for contact information (like email address), and demographic information (like postal code, age, or income level). 
-
-Contact information from the surveys is used to get in touch with the visitor when necessary. 
-
-Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
-
-Demographic and profile data is also collected at our site.   
-This information is shared with advertisers on an aggregate basis. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
-
-####  Contests 
-
-We run contests on our site in which we ask visitors for contact information (like email address). 
-
-Contact information from the contests is used to get in touch with the visitor when necessary. 
-
-Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
-
-####  External Links 
-
-This site contains links to other sites. **easyodds.com** is not responsible for the privacy practices or the content of such Web sites. 
-
-####  Public Forums 
-
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
-
-####  Security 
-
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. 
-
-####  Choice/Opt-Out 
-
-Our site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners, and us . 
-
-  1. You can send email to [ admin@easyodds.com ](mailto:admin@easyodds.com)
+  * send you information we think you may find useful, including information about new products and Services.  
 
 
+  
+We may occasionally send you direct mail about products and Services we feel may be of interest to you. This will only come from us (or our agents) and only if you have indicated that you do not object to these offers. You can, however, tell us not to do so, by sending an e-mail message to [support@easyodds.com](mailto:support@easyodds.com)
 
-##  Contacting the Web Site 
+**With whom is the information shared?  
+**If you use the assisted registration service it will be necessary for easyodds to disclose your personal information to the bookmakers whom you indicate that you would like to open an account with. The bookmakers will then use that data in accordance with their own privacy policy (links will be provided to such privacy policies when you use the assisted registration service). By using the assisted registration service, you consent to such use of that information and agree that easyodds are not responsible for such use. 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
+easyodds may disclose aggregate statistics about our site visitors, customers and sales in order to describe our Services to prospective partners, advertisers and other reputable third parties and for other lawful purposes, but these statistics will include no personally identifying information.
+
+easyodds may disclose personal information if required to do so by law or if it believes that such action is necessary to protect and defend the rights, property or personal safety of easyodds, the site or its visitors.
+
+This site contains links to other sites. easyodds is not responsible for the privacy policies or the content of such sites. 
+
+**Log files / IP addresses  
+**When you visit our Site, we automatically log your IP address (the unique address which identifies your computer on the internet) which is automatically recognised by our web server. We use IP addresses to help us administer the Site and to collect broad demographic information for aggregate use. Your IP address may be linked to any personally identifiable information that you submit.
+
+**Security  
+**easyodds places a great importance on the security of all personally identifiable information associated with our customers. We have security measures in place to attempt to protect against the loss, misuse and alteration of customer data under our control. We use secure server software (SSL) to encrypt financial information you input before it is sent to us. While we cannot ensure or guarantee that loss, misuse or alteration of data will not occur, we use our best efforts to prevent this.
+
+**Use of cookies  
+**Cookies are pieces of information that a website transfers to your hard drive to store and sometimes track information about you. Most web browsers automatically accept cookies, but if you prefer, you can change your browser to prevent that. However, you may not be able to take full advantage of a website if you do so. Cookies are specific to the server that created them and cannot be accessed by other servers, which means they cannot be used to track your movements around the web. Although they do identify a user's computer, cookies do not personally identify users and passwords and credit card information are not stored in cookies.
+
+**We may use cookies to:-**
+
+  * identify who you are and to access your account information;  
+
+  * estimate our audience size and patterns;  
+
+  * ensure that you are not asked to register twice;  
+
+  * control how often visitors see similar ads;  
+
+  * track preferences and to improve and update our website; and  
+
+  * track the progress and number of entries in some of our promotions and contests.  
 
 
-[ webmaster@easyodds.com ](mailto:webmaster@easyodds.com)   
+  
+**Where is the information stored**  
+Information which you submit via this web site is initially sent to a computer located in the United Kingdom. However, in the course of processing your personal information in accordance with this privacy policy it may be necessary to transfer your personal information outside the EEA. Please contact us if you wish to know the details of the countries involved. 
 
+**Advertisements on the easyodds Site**  
+easyodds allows third parties to provide banner advertisements within this site. Because your web browser must request those advertising banners from those third parties, they may record your IP address for certain purposes. If you would like to prevent these third parties from doing this, you should visit each third party's site individually and opt-out (if this option is offered by the third parties in question).
+
+**Your acceptance of these terms**  
+By using this site, you consent to the collection and use of information by easyodds and to the use of that information in accordance with the easyodds privacy policy. If we change our privacy policy in any way, we will post these changes on this page.
+
+**Your rights**  
+You have a legal right to a copy of all the personal information about you held by us. You also have a right to correct any errors in that information. As mentioned above, you have a right to prevent us using your personal information for direct marketing purposes.
+
+Please e-mail any questions, concerns or comments you have about these policies to [ Daniel Flesch](mailto:dflesch@easyodds.com) or write to us at: or write to us at:
+
+easyodds.com Limited  
+Third Floor  
+201 Haverstock Hill  
+London  
+NW3 4QG
+
+© easyodds.com Limited 2001
