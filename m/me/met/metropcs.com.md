@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metropcs.com privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211010150id_/http%3A//metropcs.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metropcs.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403220301id_/http%3A//www.metropcs.com/privacy.shtml) for the most accurate reproduction.*
 
 # MetroPCS » Privacy Policy
 
