@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the loquax.co.uk privacy policy that was archived on 2001-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010803231204id_/http%3A//loquax.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loquax.co.uk privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603160320id_/http%3A//loquax.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # Loquax Privacy Policy
-
-|  |  **Privacy Policy covering Loquax**   
-Newcastle upon Tyne, UK   
-0191 270 0255   
-[http://www.loquax.co.uk](http://www.loquax.co.uk/)
 
 **General policy**   
 Loquax respects your privacy. The information that you provide us with, or that is gathered automatically helps us and third parties to monitor our service and provide you with the services that you have subscribed to. Please bear in mind that any personal information that you submit through forums, letters/emails for publication and the like may be collected by others. If you have any concerns, questions or comments please email [comps@loquax.com](mailto:comps@loquax.com?Subject=Privacy)
