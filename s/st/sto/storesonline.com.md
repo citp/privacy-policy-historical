@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the storesonline.com privacy policy that was archived on 2000-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001218060900id_/http%3A//www.storesonline.com/mall3/internal/mall/t0/en/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storesonline.com privacy policy that was archived on 2001-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010417055636id_/http%3A//www.storesonline.com/mall3/internal/mall/t0/en/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Privacy  
 
 
-StoresOnline.com, Inc. and its affiliate, Netgateway ("StoresOnline," "we," "us" or "our"), maintain this Web site as a hosted electronic commerce solution and online shopping mall. StoresOnline is committed to ensuring your privacy online. We are a certified member of the TRUSTe program. Please read the following policy to understand how your personal information will be treated when you use our hosted Web site. This policy may change from time to time so we suggest that you check back periodically to review the most up-to-date version.
+StoresOnline.com, Inc. and its affiliate, Netgateway ("StoresOnline," "we," "us" or "our"), maintain this Web site as a hosted electronic commerce solution and online shopping mall. StoresOnline is committed to ensuring your privacy online. Please read the following policy to understand how your personal information will be treated when you use our hosted Web site. This policy may change from time to time so we suggest that you check back periodically to review the most up-to-date version.
 
-This confirms that StoresOnline is a licensee of the TRUSTe Privacy Program. The privacy statement discloses the privacy practices for http://www.storesonline.com. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices and to have our privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe mark, we have agreed to notify you of:
+The privacy statement discloses the privacy practices for http://www.storesonline.com. 
 
 If you are a customer to our online mall, we may collect information from you regarding the type of browser that you are using, the stores that you visit while shopping in the mall, the products that you have considered buying or have actually bought and how you connected to the Internet. If you wish to purchase something from one of our merchants, we also collect information that will enable you to complete the transaction, such as your name, address and credit card information. Otherwise, our Web site logs IP addresses and browser types, but we do not link IP addresses to anything personally identifiable. You can browse our Web site without entering any personal information and therefore remain anonymous during your visit.
 
@@ -59,12 +59,10 @@ Unfortunately, no data transmission over the Internet can be guaranteed as one h
 
 If you have any questions or concerns regarding this statement, you should first contact:
 
-Tracie Martin  
+Customer Support   
 StoresOnline.com, Inc.  
-300 Oceangate, 5th floor  
-Long Beach, CA 90802  
-[tmartin@netgateway.net](mailto:tmartin@netgateway.net)
-
-If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe [http://www.truste.org](http://www.truste.org/). TRUSTe will then serve as liaison with the Web site to resolve your concerns.
+754 E Technology Ave  
+Orem , UT 84097  
+[support@storesonline.com](mailto:support@storesonline.com)
 
 **COPYRIGHT © STORESONLINE.COM, INC. 1999. All Rights Reserved.**
