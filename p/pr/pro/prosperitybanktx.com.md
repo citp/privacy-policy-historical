@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prosperitybanktx.com privacy policy that was archived on 2002-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020415041807id_/http%3A//prosperitybanktx.com/Internet_Bank/Net_Bank_Disclosure/Privacy_Policy/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prosperitybanktx.com privacy policy that was archived on 2002-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020811104929id_/http%3A//www.prosperitybanktx.com/Internet_Bank/Net_Bank_Disclosure/Privacy_Policy/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -9,13 +9,13 @@ This notice applies to  individuals (and their legal representatives) who obtai
 
  **HOW WE SAFEGUARD INFORMATION**
 
-Furthermore, we have implemented reasonable policies, procedures and controls to help prevent unauthorized disclosure of customer financial information and to deter and detect any such unauthorized disclosures.  Prosperity BankSM employees are trained to handle matters of utmost confidence and importance to our customers in a manner consistent with applicable law and this notice.  In addition, only employees actively engaged in the discharge of assigned duties involving customer information are authorized to access that information. 
+Furthermore, we have implemented reasonable policies, procedures and controls to help safeguard and prevent unauthorized disclosure of customer financial information and detect any such unauthorized disclosures.  Prosperity BankSM employees are trained to handle matters of utmost confidence and importance to our customers in a manner consistent with applicable law and this notice.  In addition, only employees actively engaged in the discharge of assigned duties involving customer information are authorized to access that information. 
 
 **HOW WE USE YOUR INFORMATION**
 
 Prosperity Bank SM retains our customers personal information in order to provide financial products and services and may, from time to time, provide such information to nonaffiliated third party service providers  to perform services for or functions on behalf of the Bank, to effect, administer, or enforce transactions authorized by you; for example, 
 
-§ To open and administer your accounts and provide services,  
+§ To open and administer your accounts and provide other financial services,  
 § To make credit decisions and manage credit relationships,  
 § To help us protect you and the Bank from financial loss,  
 § Preparation  of  account statements.
@@ -33,9 +33,9 @@ When you visit our website at [_www.prosperitybanktx.com_](http://www.prosperity
 § The date and time the pages were accessed  
 § The page or pages you requested
 
-There are instances where you may elect to provide us with personal information.  If you fill out one of our feedback or request forms or send e-mail, you are transmitting the information that applies to you in the form of a message.  This will typically include  information like your name, mailing address, e-mail address, the kind of request you are making, and any other information  necessary to fulfill your request.  You only transmit personally identifying  information that you enter yourself.  This information cannot be collected unless you specifically elect to send it to us.  This information is used internally only for the purpose of fulfilling the request or for contacting you directly and is not given or sold to any other business or organization. 
+There are instances where you may elect to provide us with personal information.  For example, if you fill out one of our feedback or request forms or send e-mail, you are transmitting the information that applies to you in the form of a message.  This will typically include  information like your name, mailing address, e-mail address, the kind of request you are making, and any other information  necessary to fulfill your request.  You only transmit personally identifying  information that you enter yourself.  This information cannot be collected unless you specifically elect to send it to us.  This information is used internally only for the purpose of fulfilling the request or for contacting you directly and is not given or sold to any other business or organization. 
 
-When you submit personally identifying information via one of our feedback or application forms, that information is also encrypted, or scrambled, by your browser before it is transmitted back to our website.  This effectively prevents anyone from intercepting and reading any personal information about you.   **Note that this encryption does not take place if you send us e-mail, but only when you use your   Web browser with one of our site's forms.**
+When you submit personally identifying information via one of our feedback or application forms, that information is also encrypted, or scrambled, by your browser before it is transmitted back to our website.  This effectively prevents anyone from intercepting and reading any personal information about you.   **Note that this encryption does not take place if you send us e-mail, but only when you use your   Web browser with one of our forms.**
 
 The Prosperity BankSM website is not currently targeted or marketed to children. 
 
@@ -43,13 +43,13 @@ Use of Information About You—
 
 Prosperity BankSM reserves its right to disclose financial information to nonaffiliated third party service providers to the fullest extent permitted by law. 
 
-QUESTIONS?        [PLEASE CONTACT YOUR  LOCAL  BANKING CENTER.](https://web.archive.org/web/20020415041807id_/http%3A//prosperitybanktx.com/About_Us/about_us.HTM)
+QUESTIONS?        [PLEASE CONTACT YOUR  LOCAL  BANKING CENTER.](https://web.archive.org/web/20020811104929id_/http%3A//www.prosperitybanktx.com/About_Us/about_us.HTM)
 
 PROSPERITY BANKSM –
 
 PROSPERITY BANCSHARESSM
 
- JUNE 2001
+ JUNE 2002
 
  _Prosperity Bank is chartered under the laws of the State of Texas and by state law is subject to regulatory oversight by the Texas Department of Banking.   Any consumer wishing to file a complaint against Prosperity Bank should contact the Texas Department of Banking through one of the means indicated below:
 
