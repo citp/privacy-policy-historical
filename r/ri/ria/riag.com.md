@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riag.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607191911id_/http%3A//www.riag.com/privacy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riag.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401151825id_/http%3A//www.riag.com/privacy/default.asp) for the most accurate reproduction.*
 
 # Privacy Statement from RIA - RIA
 
@@ -54,7 +54,7 @@ In some areas of our site, we ask you to provide personally identifiable informa
 Circumstances may arise where RIA is legally required to disclose personal information to third parties such as in connection with a corporate divestiture or dissolution, or governmental investigations. 
 
 **Choice/Opt-out**  
-RIA may send you information about our various products and services. If you do not wish to receive such mailings, you may tell us when you register. Visitors and customers who no longer wish to receive our special e-mail promotions or newsletters may opt-out of receiving these communications by replying to the e-mail. 
+RIA may send you information about our various products and services. If you do not wish to receive such mailings, you may tell us when you register. Visitors and customers who no longer wish to receive our special e-mail promotions or newsletters may opt-out of receiving these communications by clicking on the unsubscribe link within the e-mail. 
 
 **Notification of Changes**  
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post and highlight the policy changes in our privacy policy on RIAhome.com. You will have the ability to opt out of these new uses. 
