@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phschool.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622080548id_/http%3A//www.phschool.com/about_ph/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phschool.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207035623id_/http%3A//www.phschool.com/about_ph/privacy.html) for the most accurate reproduction.*
 
 # PHSchool - Privacy Statement
 
@@ -58,7 +58,7 @@ If you have any concerns or questions about privacy on this Site, please contact
 
 Pearson Education, Inc. (Revised – October 2003)
 
-[Forward to Terms of Use](https://web.archive.org/web/20040622080548id_/http%3A//www.phschool.com/about_ph/privacy2.html)
+[Forward to Terms of Use](https://web.archive.org/web/20041207035623id_/http%3A//www.phschool.com/about_ph/privacy2.html)
 
   
 
