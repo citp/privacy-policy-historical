@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ssh.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205022535id_/http%3A//ssh.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssh.com privacy policy that was archived on 2004-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040415022610id_/http%3A//www.ssh.com/privacy_policy.html) for the most accurate reproduction.*
 
 # SSH
 
