@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stjude.org privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001192659id_/http%3A//www.stjude.org/legal/0%2C2621%2C588_3178%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stjude.org privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605165031id_/http%3A//www.stjude.org/legal/0%2C2621%2C588_3178%2C00.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -32,7 +32,7 @@ St. Jude Children’s Research Hospital will discontinue contact with any person
 If you have any questions about St. Jude Children’s Research Hospital, ALSAC, or our privacy policy, please feel free to contact us at:
 
   
-| **St. Jude Children’s Research Hospital**  
+**St. Jude Children’s Research Hospital**  
 Public Relations  
 332 N. Lauderdale Street  
 Memphis, TN 38105  
