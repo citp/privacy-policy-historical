@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the sologig.com privacy policy that was archived on 2004-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040212064816id_/http%3A//sologig.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sologig.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204112358id_/http%3A//www.sologig.com/legal/privacy.php) for the most accurate reproduction.*
 
-# Sologig - Privacy
+# Privacy
 
-|  |  |    
-
+|  |  | 
 
 ###  Personal Information 
 
@@ -11,7 +10,7 @@ Sologig collects personal information from users on a voluntary basis only. This
 
 ###  Credit Card Security 
 
-CareerBuilder.com employs the highest level of encryption for secure credit card transactions. To read about this feature in greater detail, [click here](https://web.archive.org/about_us/security.php). 
+Sologig.com employs the highest level of encryption for secure credit card transactions. To read about this feature in greater detail, [click here](https://web.archive.org/about_us/security.php). 
 
 ###  About Cookies 
 
