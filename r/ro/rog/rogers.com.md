@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rogers.com privacy policy that was archived on 2001-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010803023621id_/http%3A//rogers.com/english/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rogers.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601184440id_/http%3A//www.rogers.com/english/about/privacy.html) for the most accurate reproduction.*
 
 # Rogers.com | English | About Rogers | Privacy
 
@@ -13,7 +13,7 @@ Frequently Asked Questions
   * When else might Rogers Communications Inc. use my personal information?
   * Will my information be used by Rogers Communications Inc. for direct mailings?
   * How does Rogers Communications Inc. protect the privacy of children?
-  * Does Rogers Communications Inc. use cookies?
+  * Does www.rogers.com use cookies?
   * Does Rogers Communications Inc. use the Internet provider addresses?
   * What else should I know about my privacy?
 
@@ -93,17 +93,16 @@ The privacy of children is important to us. Your children should always ask you 
   
    
   
-Does Rogers Communications Inc. use cookies?
+Does [www.rogers.com](http://www.rogers.com/) use cookies?
 
 |   
   
   
-Yes, Rogers Communications Inc. uses cookies in these ways: 
+Yes, [www.rogers.com](http://www.rogers.com/) uses cookies. A cookie is set when you register on our site. Cookies are required to: 
 
-  * We use cookies to remind us who you are and to find your account information in our database when you access a service so you do not need to log in at every visit. This helps us to provide you with service tailored to your specific needs and interests. A cookie is set when you register for a service.
-  * We use cookies to estimate our audience size. Your browser is given a unique cookie that helps us determine whether yours is a repeat visit or a first visit.
-  * We use cookies to determine the browser the visitor uses so the site can be designed to work properly with the most common versions of different browsers.
-  * Advertisers that place ads with Rogers Communications Inc. may use cookies.
+  * View and pay your bills online 
+  * Perform self service activities on the site. 
+  * Determine which browser you are using so we can ensure the site is designed to work properly with the most common versions of different browsers. 
 
   
    
