@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qango.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603071116id_/http%3A//info.qango.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qango.com privacy policy that was archived on 2003-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030207071441id_/http%3A//info.qango.com/company/privacy) for the most accurate reproduction.*
 
 # Qango Info - Privacy Policy
 
@@ -54,6 +54,6 @@ Qango.com has security measures in place to protect the loss, misuse, and altera
 
 Contact Details
 
-If you have any questions about this privacy statement, the practices of Qango.com, or your dealings with us, you can contact us by email at [webmail@qango.com](mailto:webmail@qango.com) or by using our online form, here: [http://info.qango.com/company/contact/index.html](https://web.archive.org/company/contact/index.html)
+If you have any questions about this privacy statement, the practices of Qango.com, or your dealings with us, you can contact us by using our [online form](https://web.archive.org/company/contact/index.html).
 
 [< Back](https://web.archive.org/company/index.html)
