@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the chicagobusiness.com privacy policy that was archived on 2002-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021215225832id_/http%3A//www.chicagobusiness.com/cgi-bin/article.pl%3Fstatic_id%3D11) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chicagobusiness.com privacy policy that was archived on 2003-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030627145756id_/http%3A//www.chicagobusiness.com/cgi-bin/article.pl%3Fstatic_id%3D11) for the most accurate reproduction.-->
 
 <html><head>
 <title>Chicagobusiness.com</title>
@@ -69,6 +69,10 @@
 <script language="JavaScript" src="/javascripts/bizRezNew.js"></script>
 <script language="JavaScript" src="/javascripts/listRez.js"></script>
 
+
+
+
+
 <!------ OAS SETUP begin ------>
 
 <script language="JavaScript">
@@ -77,12 +81,14 @@
 OAS_url = 'http://oascentral.chicagobusiness.com/RealMedia/ads/';
 //OAS_sitepage = window.location.hostname + window.location.pathname;
 OAS_sitepage = 'www.chicagobusiness.com/portal/admin/privacy_policy';
-OAS_listpos = 'Top1,x11,x12,Right,Top,Bottom,Bottom1,Middle';
-OAS_target = '_top';
+//OAS_listpos = 'comma,delimited,list';
+OAS_listpos = 'Position1,TopRight,Right2,Middle1'; 
+OAS_target = '_blank';
+OAS_query = '';
 //end of configuration
 //OAS_rn = '001234567890'; OAS_rns = '1234567890';
 //OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
-OAS_rns = "6116012221";
+OAS_rns = "3725306379";
 function OAS_RICH(pos) {
   document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>');
   document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + '" BORDER=0></A>');
@@ -93,13 +99,22 @@ function OAS_RICH(pos) {
 <!--
   document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC=' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + '><\/SCRIPT>');
 //-->
-</script><script language="JavaScript1.1" src="http://oascentral.chicagobusiness.com/RealMedia/ads/adstream_mjx.ads/www.chicagobusiness.com/portal/admin/privacy_policy/16116012221@Top1,x11,x12,Right,Top,Bottom,Bottom1,Middle?"></script>
+</script><script language="JavaScript1.1" src="http://oascentral.chicagobusiness.com/RealMedia/ads/adstream_mjx.ads/www.chicagobusiness.com/portal/admin/privacy_policy/13725306379@Position1,TopRight,Right2,Middle1?"></script>
 <script language="JavaScript">
 <!--
 document.write('');
 //-->
 </script>
 <!------ OAS SETUP end ------>
+
+
+
+
+
+
+
+
+
 
 <!-- # begin setHomepage function definition # -->
 <script language="JavaScript">
@@ -163,6 +178,25 @@ function delCookie (name,path,domain) {
 //delCookie('regpop');
 
 
+function getNameDriver() 
+{
+    var specForm = window.document.forms["regForm"];
+    if (specForm) 
+    {
+    	if (specForm.elements["special"])
+    	{
+    	}
+    	else
+    	{
+    	    getName();
+    	}
+    }
+    else
+    {
+     	getName();
+    }
+}	 
+
 function getName() {
 	var fn = getCookie('first_name');
 	var ln = getCookie('last_name');
@@ -201,19 +235,30 @@ window.open('http://oas-central.realmedia.com/RealMedia/ads/Creatives/crain/CBO_
 		{
 			if (st == "1" || st == "2" || st == "3")
       		{
-//window.open('http://www.chicagobusiness.com/unitedpop.html','unitedpop',config='toolbar=no,location=no,status=no,menubar=no,scrollbars=no,resizable=yes,height=275,width=400');
-//				setCookie('regpop', 'yuppa', expiration, '/', '.chicagobusiness.com');
+      			//this ad is to only run from 12/22 through 12/30
+				var sDate = new Date ("12/23/2002");
+				var eDate = new Date ("12/31/2002");
+				var sDate1= sDate.valueOf();
+				var eDate1= eDate.valueOf();
+				var now1 = now.valueOf();
+				if ((sDate1 <= now1) && (eDate1 >= now1))
+				{
+					window.open('http://www.chicagobusiness.com/eopop.html','ecpop',config='toolbar=no,location=no,status=no,menubar=no,scrollbars=no,resizable=yes,height=325,width=325');
+					setCookie('regpop', 'yuppa', expiration, '/', '.chicagobusiness.com');
+				}
       		}
 		}
 	}
-  
 }
 
 
 </script>
 
-</head>
-<body bgcolor="#FFFFFF" text="#000000"><a name="top"></a>
+<script language="JavaScript" src="/javascripts/triggerParams.js"></script><script language="JavaScript" src="/javascripts/stdLauncher.js"></script></head>
+
+
+
+<body bgcolor="#FFFFFF" text="#000000" onload="getNameDriver(); Poll(); return true;"><a name="top"></a>
 			<script language="JavaScript">
 			<!--
 			  getName();
@@ -225,387 +270,660 @@ window.open('http://oas-central.realmedia.com/RealMedia/ads/Creatives/crain/CBO_
 		document.write ('<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center"><tr><td>');
 	}
 </script>
-<map name="register"> 
-				<area shape="rect" coords="0,0,194,49" href="http://www.chicagobusiness.com/cgi-bin/login.pl?tmpl=p">
-				<area shape="rect" coords="1,57,103,79" href="http://www.chicagobusiness.com/cgi-bin/sitemap.pl">
-				<area shape="rect" coords="107,57,195,79" href="http://www.chicagobusiness.com/cgi-bin/login.pl?tmpl=p">
-				<area shape="rect" coords="26,85,92,100" href="http://www.chicagobusiness.com/cgi-bin/article.pl?static_id=2">
-				<area shape="rect" coords="99,85,173,100" href="http://www.chicagobusiness.com/cgi-bin/article.pl?static_id=1">
-				<area shape="rect" coords="26,105,181,121" href="#" alt="Make Us Your Homepage" title="Make Us Your Homepage" onclick="SetHomePage ('http://www.chicagobusiness.com')">
-			</map><table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#dbddcf" align="center" cols="7">
-	<colgroup width="2">
-	</colgroup><colgroup width="215">
-	</colgroup><colgroup width="20">
-	</colgroup><colgroup width="295">
-	</colgroup><colgroup width="20">
-	</colgroup><colgroup width="216">
-	</colgroup><colgroup width="2">
-	</colgroup><tbody><tr>
-		<td width="2" bgcolor="#ffffff"><img src="/images/global/spacer.gif" width="2" height="1"></td>
-		<td width="215" bgcolor="#ffffff"><img src="/images/global/spacer.gif" width="215" height="1"></td>
-		<td width="20" bgcolor="#ffffff"><img src="/images/global/spacer.gif" width="20" height="1"></td>
-		<td width="295" bgcolor="#ffffff"><img src="/images/global/spacer.gif" width="295" height="1"></td>
-		<td width="20" bgcolor="#ffffff"><img src="/images/global/spacer.gif" width="20" height="1"></td>
-		<td width="216" bgcolor="#ffffff"><img src="/images/global/spacer.gif" width="216" height="1"></td>
-		<td width="2" bgcolor="#ffffff"><img src="/images/global/spacer.gif" width="2" height="1"></td>
-	</tr>
-	<tr> 
-		<td bgcolor="#000000" colspan="7"><img src="/images/global/spacer.gif" width="2" height="2"></td>
-	</tr>
-	<tr> 
-		<td bgcolor="#000000" width="2"><img src="/images/global/spacer.gif" width="2" height="1"></td>
-		<td align="center" width="215">
-			<script language="JavaScript">
-			<!--
-				OAS_RICH("Top1");
-			//-->
-			</script>
-		</td>
-		<td width="20">&nbsp;</td>
-		<td align="center" width="100%"><a href="/"><img src="/images/global/logo.gif" width="255" height="140" border="0"></a></td>
-		<td width="20">&nbsp;</td>
-		<td align="right" width="216"><img src="/images/global/register.gif" width="196" height="120" usemap="#register" border="0"></td>
-		<td bgcolor="#000000" width="2"><img src="/images/global/spacer.gif" width="2" height="1"></td>
-			
-	</tr>
-	<tr> 
-		<td bgcolor="#000000" width="2"><img src="/images/global/spacer.gif" width="2" height="1"></td>
-		<td align="center" colspan="5" background="/images/global/search-bg.jpg"><table border="0" cellspacing="0" cellpadding="0" width="100%">
-			<tbody><tr>
-				<form name="nlsearch" action="http://www.chicagobusiness.com/cgi-bin/mag/search.pl" method="get" class="form"></form>
-					<input type="hidden" name="sa" value="Google Search">
-					<input type="hidden" name="cof" value="AWPID:e283086029f2b114;">
-					<input type="hidden" name="searchin" value="Google Search">
-					<td valign="top" nowrap="">
-								<div class="searchbarinside">
-									<div>
-										<img src="/images/global/search.gif" width="60" height="19">
-										<input type="text" name="q" size="25" style="height: 19px;">
-										<input type="image" src="/images/global/search-go.gif" border="0" width="32" height="19" align="absmiddle">
-									</div>
-									<div style="padding-top: 5px;">
-										<a href="#" onclick="return SetSearchIn (1);"><img name="radio1" border="0" src="/images/global/radion.gif" width="11" height="11" align="absmiddle"></a> 
-										<span class="radiobuttons">Crain's Chicago Business</span> 
-									</div>
-									<div>
-										<a href="#" onclick="return SetSearchIn (2);"><img name="radio2" border="0" src="/images/global/radioff.gif" width="11" height="11" align="absmiddle"></a> 
-										<span class="radiobuttons">The Web via Google</span> 
-									</div>
-								</div>
-					</td>
-				<td valign="middle" align="right"><div style="padding: 2px 8px 2px 0px;">
-					<script language="JavaScript">
-					<!--
-						OAS_RICH("Top");
-					//-->
-					</script></div></td>
-			</tr>
-		</tbody></table></td>
-		<td bgcolor="#000000" width="2"><img src="/images/global/spacer.gif" width="2" height="1"></td>
-	</tr>
-</tbody></table><script language="Javascript">if (document.layers) {document.write ('</td></tr><tr valign="top"><td bgcolor="#000000">');}</script><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
-	<colgroup width="2">
-	</colgroup><colgroup width="142">
-	</colgroup><colgroup width="2">
-	</colgroup><colgroup width="100%">
-	</colgroup><colgroup width="2">
-	</colgroup><colgroup width="147">
-	</colgroup><colgroup width="2">
-	</colgroup><tbody><tr valign="top"> 
-		<td bgcolor="#000000" width="2"><img src="/images/global/spacer.gif" width="2" height="1"></td>
-
-		<!-- Left Column Begins -->
-			<td bgcolor="#dbddcf" width="142" style="text-align: center;"><img src="/images/shadows/header.gif" width="142" height="5"><br>
-			<div style="padding: 4px 11px 8px 11px;">
-				<form name="Redirect" style="margin: 0px; padding: 0px;">
-					<div class="lefttitle">
-						CRAIN'S LIST<br>
-						<select style="font-size: 10px; padding: 0px; margin: 0px; width: 115px;" onchange="RedirectMenu(this);" name="crainslist">
-							<option value="none" selected="">Select List</option>
-							<option></option>
-							<option></option>
-							<option></option>
-							<option></option>
-							<option></option>
-							<option></option>
-							<option></option>
-						</select>
-					</div>
-					<div class="lefttitle" style="padding-top: 12px;">
-						RESOURCE CENTER<br>
-						<select style="font-size:10px;padding:0px;margin:0px;width:115px;" onchange="RedirectMenu(this);" name="resourcecenter">
-							<option value="none" selected="">Resource</option>
-							<option></option>
-							<option></option>
-							<option></option>
-							<option></option>
-							<option></option>
-							<option></option>
-							<option></option>
-						</select>
-						<script language="Javascript">
-							drawDropDownMenu (document.BizRezs, document.Redirect.resourcecenter);
-							drawDropDownMenu (document.listRezs, document.Redirect.crainslist);
-							document.Redirect.resourcecenter.options[0].text = "Select Resource";
-						</script>
-					</div>
-				</form>
-			</div>
-			<hr class="hr01" style="width: 120px;">
-			<table border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td></td>
-				</tr>
-			</tbody></table>
-			
-			<div style="text-align: left; padding: 0px 10px 0px 10px;" class="blkhead">
-				CHICAGO BUSINESS CALENDAR
-			</div>
-			<div class="calendardate">
-	December 2002
+    <table border="0" cellspacing="0" cellpadding="0" width="790" align="center">
+      <tbody><tr> 
+        <td rowspan="4" align="center"><a href="/"><img src="/images/global/logoSmall.gif" width="135" height="72" border="0"></a></td>
+        <td rowspan="4">&nbsp;</td>
+        <td colspan="5"><img src="/images/global/spacer.gif" width="1" height="20" alt=""></td>
+      </tr>
+      <tr> 
+        <td colspan="5"> <table width="100%" border="0" cellpadding="3" cellspacing="0" class="blueHeader">
+            <tbody><tr class="blueHeader"> 
+              <td width="7"><img src="/images/global/spacer.gif" width="7" height="7"> 
+              </td>
+              <td valign="middle" nowrap=""><b>Friday, June 27, 2003</b></td>
+              <td valign="middle" align="right" width="100%"> <b> Crain's Lists: 
+                </b> </td>
+              <td align="left"><form method="post" action="" name="ViewCrainsLists">
+                  <select name="select" onchange="RedirectMenu (this);">
+                    <option value="none" selected="">View Crain's Lists</option>
+                    <option value="/cgi-bin/portal.pl?id=35">40 Under 40</option><option value="/cgi-bin/portal.pl?id=46">Accounting Firms</option><option value="/cgi-bin/portal.pl?id=89">Ad Agencies</option><option value="/cgi-bin/portal.pl?id=44">Architecture Firms</option><option value="/cgi-bin/portal.pl?id=46">Banks</option><option value="/cgi-bin/portal.pl?id=46">Banks' Performance</option><option value="/cgi-bin/portal.pl?id=28">Biotech Directory</option><option value="/cgi-bin/portal.pl?id=37">Chicago Market Facts</option><option value="/cgi-bin/portal.pl?id=48">CLECs</option><option value="/cgi-bin/portal.pl?id=44">Contractors</option><option value="/cgi-bin/portal.pl?id=25">Employers</option><option value="/cgi-bin/portal.pl?id=48">Energy Providers</option><option value="/cgi-bin/portal.pl?id=30">Executive Recruiters</option><option value="/cgi-bin/portal.pl?id=25">Fastest-Growing Firms</option><option value="/cgi-bin/portal.pl?id=46">Foreign-Owned Banks</option><option value="/cgi-bin/portal.pl?id=40">Higher Ed. Guide</option><option value="/cgi-bin/portal.pl?id=35">Highest-Paid CEOs</option><option value="/cgi-bin/portal.pl?id=35">Highest-Paid non-CEOs</option><option value="/cgi-bin/portal.pl?id=31">HMOs</option><option value="/cgi-bin/portal.pl?id=32">Homebuilders</option><option value="/cgi-bin/portal.pl?id=31">Hospitals</option><option value="/cgi-bin/portal.pl?id=31">Indep. Practice Assns.</option><option value="/cgi-bin/portal.pl?id=44">Industrial Parks</option><option value="/cgi-bin/portal.pl?id=46">Insurance Brokers</option><option value="/cgi-bin/portal.pl?id=28">The Internet 100</option><option value="/cgi-bin/portal.pl?id=46">Investment Bankers</option><option value="/cgi-bin/portal.pl?id=28">ISPs</option><option value="/cgi-bin/portal.pl?id=16">Law Firms</option><option value="/cgi-bin/portal.pl?id=41">Meeting Planners Guide</option><option value="/cgi-bin/portal.pl?id=28">Mgmt./IT Consultants</option><option value="/cgi-bin/portal.pl?id=25">Minority-Owned Firms</option><option value="/cgi-bin/portal.pl?id=46">Money Managers</option><option value="/cgi-bin/portal.pl?id=32">Mortgage Lenders</option><option value="/cgi-bin/portal.pl?id=44">Office Leases</option><option value="/cgi-bin/portal.pl?id=46">Pension Funds</option><option value="/cgi-bin/portal.pl?id=31">Physician Groups</option><option value="/cgi-bin/portal.pl?id=31">PPOs</option><option value="/cgi-bin/portal.pl?id=44">Property Mgmt. Firms</option><option value="/cgi-bin/portal.pl?id=89">PR Firms</option><option value="/cgi-bin/portal.pl?id=25">Privately-Held Firms</option><option value="/cgi-bin/portal.pl?id=25">Publicly-Held Firms</option><option value="/cgi-bin/portal.pl?id=44">REITs</option><option value="/cgi-bin/portal.pl?id=46">SBA Lenders</option><option value="/cgi-bin/portal.pl?id=47">Small Biz Resources</option><option value="/cgi-bin/portal.pl?id=28">Software Firms</option><option value="/cgi-bin/portal.pl?id=30">Staffing Firms</option><option value="/cgi-bin/portal.pl?id=46">Thrifts</option><option value="/cgi-bin/portal.pl?id=41">Tourist Attractions</option><option value="/cgi-bin/portal.pl?id=36">Venture Capital Firms</option><option value="/cgi-bin/article.pl?page_id=622">Wage &amp; Salary Suvey</option><option value="/cgi-bin/portal.pl?id=28">Web Developers</option><option value="/cgi-bin/portal.pl?id=35">Who's Who</option> 
+                  </select>
+                </form></td>
+              <td width="10"><img src="images/global/spacer.gif" width="10" height="8"></td>
+            </tr>
+          </tbody></table></td>
+      </tr>
+      <tr> 
+        <td colspan="5"><img src="/images/global/spacer.gif" width="1" height="4"></td>
+      </tr>
+      <tr> 
+        <td colspan="5" align="center">&nbsp;</td>
+      </tr>
+      <tr> 
+        <td colspan="7" class="divider"><img src="/images/global/spacer.gif" alt="" width="1" height="1"></td>
+      </tr>
+      <tr> 
+        <td colspan="7"><table width="100%" border="0" cellspacing="0" cellpadding="5">
+            <tbody><tr> 
+              <td align="center" valign="middle">
+<!-- THIS IS THE "Position1" AD SPOT -->
+<script language="JavaScript">
+<!--
+OAS_RICH("Position1");
+//-->
+</script><a href="http://oascentral.chicagobusiness.com/RealMedia/ads/click_nx.ads/www.chicagobusiness.com/portal/admin/privacy_policy/13725306379@Position1,TopRight,Right2,Middle1!Position1?" target="_blank"><img src="http://oascentral.chicagobusiness.com/RealMedia/ads/adstream_nx.ads/www.chicagobusiness.com/portal/admin/privacy_policy/13725306379@Position1,TopRight,Right2,Middle1!Position1?" border="0"></a>
+              </td>
+            </tr>
+          </tbody></table></td>
+      </tr>
+      <tr> 
+        <td class="divider" width="145"><img src="/images/global/spacer.gif" alt="" width="145" height="1"></td>
+        <td class="divider" width="10"><img src="/images/global/spacer.gif" alt="" width="10" height="1"></td>
+        <td class="divider" width="454"><img src="/images/global/spacer.gif" alt="" width="454" height="1"></td>
+        <td class="divider" width="10"><img src="/images/global/spacer.gif" alt="" width="10" height="1"></td>
+        <td class="divider" width="1"> <img src="/images/global/spacer.gif" alt="" width="1" height="1"></td>
+        <td class="divider" width="10"><img src="images/global/spacer.gif" width="10" height="1"></td>
+        <td class="divider" width="160"><img src="/images/global/spacer.gif" alt="" width="160" height="1"></td>
+      </tr>
+      <tr> 
+        <td colspan="7"> <img src="/images/global/spacer.gif" alt="" width="1" height="8"></td>
+      </tr>
+      <tr> 
+        <td rowspan="2" valign="top" class="leftnav"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr> 
+              <td class="leftnavItem"><img src="images/global/spacer.gif" alt="" width="1" height="5"></td>
+            </tr>
+<tr><td class="leftnavItem"><b><a href="/mag" class="redLinks">This Week's 
+Crain's</a></b></td></tr>            
+            <tr> 
+              <td class="leftnavItem"> <b> <a href="/" class="redLinks">Back to 
+                Home Page</a></b></td>
+            </tr>
+            <tr> 
+              <td><div class="leftnavItem"> <b> <a href="http://www.chicagobusiness.com/cgi-bin/sitemap.pl" class="redLinks"> 
+                  Site Map</a></b></div></td>
+            </tr><tr> 
+            </tr><tr> 
+              <td class="greyDivider" align="center"><img src="images/global/spacer.gif" alt="" width="1" height="20"></td>
+            </tr>
+          </tbody></table>
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr> 
+              <td><div class="leftnavItem"><img src="images/global/spacer.gif" alt="" width="1" height="5"></div></td>
+            </tr>
+             
+            <tr> 
+              <td><div class="leftnavItem"> <b> <a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=35"> 
+                  People / Profiles 
+                  </a></b></div></td>
+             
+            </tr><tr> 
+              <td><div class="leftnavItem"> <b> <a href="http://www.chicagobusiness.com/cgi-bin/article.pl?feature_id=8"> 
+                  Tools / Calculators 
+                  </a></b></div></td>
+             
+            </tr><tr> 
+              <td><div class="leftnavItem"> <b> <a href="http://www.chicagobusiness.com/cgi-bin/article.pl?feature_id=6"> 
+                  Licenses / Permits 
+                  </a></b></div></td>
+             
+            </tr><tr> 
+              <td><div class="leftnavItem"> <b> <a href="http://www.chicagobusiness.com/cgi-bin/article.pl?feature_id=49"> 
+                  Special Reports 
+                  </a></b></div></td>
+             
+            </tr><tr> 
+              <td><div class="leftnavItem"> <b> <a href="http://www.chicagobusiness.com/cgi-bin/article.pl?page_id=1208"> 
+                  Women in Business 
+                  </a></b></div></td>
+             
+            </tr><tr> 
+              <td><div class="leftnavItem"> <b> <a href="http://www.chicagobusiness.com/cgi-bin/article.pl?page_id=1324"> 
+                  UAL News Coverage 
+                  </a></b></div></td>
+             
+            </tr><tr> 
+              <td><div class="leftnavItem"> <b> <a href="#"> 
+                   
+                  </a></b></div></td>
+             
+            </tr><tr> 
+              <td class="greyDivider" align="center"><img src="images/global/spacer.gif" alt="" width="1" height="20"></td>
+            </tr>
+          </tbody></table>
+          <!-- End Feature Links -->
+          <!-- Help Me -->
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr> 
+              <td><div class="leftnavItem"><b class="smallishHeadline">Help Me...</b></div></td>
+            </tr>
+             
+            <tr> 
+              <td><div class="leftnavItem"> <a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=25">Research a Company</a></div></td>
+            </tr>
+             
+            <tr> 
+              <td><div class="leftnavItem"> <a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=27">Access Public Records</a></div></td>
+            </tr>
+             
+            <tr> 
+              <td><div class="leftnavItem"> <a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=37">Study Demographics</a></div></td>
+            </tr>
+             
+            <tr> 
+              <td><div class="leftnavItem"> <a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=30">Find Career Resources</a></div></td>
+            </tr>
+             
+            <tr> 
+              <td><div class="leftnavItem"> <a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=174">Search for a Crain's List</a></div></td>
+            </tr>
+             
+            <tr> 
+              <td><div class="leftnavItem"> <a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=149">Join an Organization</a></div></td>
+            </tr>
+             
+            <tr> 
+              <td><div class="leftnavItem"> <a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=42">Entertain a Client</a></div></td>
+            </tr>
+             
+            <tr> 
+              <td><div class="leftnavItem"> <a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=13">Plan Commute / Travel</a></div></td>
+            </tr>
+             
+            <tr> 
+              <td><div class="leftnavItem"> <a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=34">Look Up Phone / Zip</a></div></td>
+            </tr>
+             
+            <tr> 
+              <td class="greyDivider" align="center"><img src="images/global/spacer.gif" alt="" width="1" height="20"></td>
+            </tr>
+          </tbody></table>
+          <!-- End Help Me -->
+          <!-- Industry Resources -->
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr> 
+              <td><div class="leftnavItem"><b class="smallishHeadline">Industry 
+                  Resources</b></div></td>
+            </tr>
+             
+            <tr> 
+              <td><div class="leftnavItem"><a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=89">Advertising / PR</a></div></td>
+            </tr>
+             
+            <tr> 
+              <td><div class="leftnavItem"><a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=46">Banking / Finance</a></div></td>
+            </tr>
+             
+            <tr> 
+              <td><div class="leftnavItem"><a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=41">Conventions / Tourism</a></div></td>
+            </tr>
+             
+            <tr> 
+              <td><div class="leftnavItem"><a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=36">Deals / Venture Capital</a></div></td>
+            </tr>
+             
+            <tr> 
+              <td><div class="leftnavItem"><a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=38">Economic Development</a></div></td>
+            </tr>
+             
+            <tr> 
+              <td><div class="leftnavItem"><a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=45">Economy / Labor</a></div></td>
+            </tr>
+             
+            <tr> 
+              <td><div class="leftnavItem"><a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=40">Education</a></div></td>
+            </tr>
+             
+            <tr> 
+              <td><div class="leftnavItem"><a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=48">Energy / Utilities</a></div></td>
+            </tr>
+             
+            <tr> 
+              <td><div class="leftnavItem"><a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=49">Government</a></div></td>
+            </tr>
+             
+            <tr> 
+              <td><div class="leftnavItem"><a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=31">Health Care</a></div></td>
+            </tr>
+             
+            <tr> 
+              <td><div class="leftnavItem"><a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=50">International Trade</a></div></td>
+            </tr>
+             
+            <tr> 
+              <td><div class="leftnavItem"><a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=16">Law / Courts</a></div></td>
+            </tr>
+             
+            <tr> 
+              <td><div class="leftnavItem"><a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=33">Media</a></div></td>
+            </tr>
+             
+            <tr> 
+              <td><div class="leftnavItem"><a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=29">Politics / Public Policy</a></div></td>
+            </tr>
+             
+            <tr> 
+              <td><div class="leftnavItem"><a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=163">Real Estate</a></div></td>
+            </tr>
+             
+            <tr> 
+              <td><div class="leftnavItem"><a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=47">Small Business</a></div></td>
+            </tr>
+             
+            <tr> 
+              <td><div class="leftnavItem"><a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=51">Sports</a></div></td>
+            </tr>
+             
+            <tr> 
+              <td><div class="leftnavItem"><a href="http://www.chicagobusiness.com/cgi-bin/portal.pl?id=28">Technology / Telecom</a></div></td>
+            </tr>
+             
+            <tr> 
+              <td class="greyDivider" align="center"><img src="images/global/spacer.gif" alt="" width="1" height="20"></td>
+            </tr>
+          </tbody></table>
+          <!-- End Industry Resources -->
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr> 
+              <td><div class="leftnavItem"><b><a href="http://www.chicagobusiness.com/cgi-bin/mag/newstips.pl">Send 
+                  a Confidential News Tip </a></b></div></td>
+            </tr>
+            <tr> 
+              <td class="greyDivider" align="center"><img src="images/global/spacer.gif" alt="" width="1" height="20"></td>
+            </tr>
+          </tbody></table>
+          <!-- Calendar -->
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr> 
+              <td><div class="leftnavItem"><b class="smallHeadline">Chicago Business 
+                  Calendar</b></div></td>
+            </tr>
+            <tr> 
+              <td><div class="leftnavItem"><div class="calendardate">
+	June 2003
 </div>
-<table width="120" border="0" cellspacing="3" cellpadding="0" class="blkcopy" align="center" style="table-layout: fixed;">
-	<colgroup width="14" align="center">
-	</colgroup><colgroup width="14" align="center">
-	</colgroup><colgroup width="14" align="center">
-	</colgroup><colgroup width="14" align="center">
-	</colgroup><colgroup width="14" align="center">
-	</colgroup><colgroup width="14" align="center">
-	</colgroup><colgroup width="14" align="center">
-	</colgroup><tbody><tr valign="top"> 
-		<td width="14" class="calendarday">S<br><a href="http://www.chicagobusiness.com/cgi-bin/calendar.pl?date=2002-12-8">8</a></td>
-		<td width="14" class="calendarday">M<br><a href="http://www.chicagobusiness.com/cgi-bin/calendar.pl?date=2002-12-9">9</a></td>
-		<td width="14" class="calendarday">T<br><a href="http://www.chicagobusiness.com/cgi-bin/calendar.pl?date=2002-12-10">10</a></td>
-		<td width="14" class="calendarday">W<br><a href="http://www.chicagobusiness.com/cgi-bin/calendar.pl?date=2002-12-11">11</a></td>
-		<td width="14" class="calendarday">T<br><a href="http://www.chicagobusiness.com/cgi-bin/calendar.pl?date=2002-12-12">12</a></td>
-		<td width="14" class="calendarday">F<br><a href="http://www.chicagobusiness.com/cgi-bin/calendar.pl?date=2002-12-13">13</a></td>
-		<td width="14" class="calendarday" bgcolor="#ffffff">S<br><a href="http://www.chicagobusiness.com/cgi-bin/calendar.pl?date=2002-12-14">14</a></td>
+<table border="0" cellspacing="0" cellpadding="0" class="blkcopy" align="center" style="table-layout: fixed;">
+	<tbody><tr valign="top"> 
+		<td class="calendarday">S<br><a href="http://www.chicagobusiness.com/cgi-bin/calendar.pl?date=2003-6-22">22</a></td>
+		<td class="calendarday">M<br><a href="http://www.chicagobusiness.com/cgi-bin/calendar.pl?date=2003-6-23">23</a></td>
+		<td class="calendarday">T<br><a href="http://www.chicagobusiness.com/cgi-bin/calendar.pl?date=2003-6-24">24</a></td>
+		<td class="calendarday">W<br><a href="http://www.chicagobusiness.com/cgi-bin/calendar.pl?date=2003-6-25">25</a></td>
+		<td class="calendarday">T<br><a href="http://www.chicagobusiness.com/cgi-bin/calendar.pl?date=2003-6-26">26</a></td>
+		<td class="calendarday" bgcolor="#ffffff">F<br><a href="http://www.chicagobusiness.com/cgi-bin/calendar.pl?date=2003-6-27">27</a></td>
+		<td class="calendarday">S<br><a href="http://www.chicagobusiness.com/cgi-bin/calendar.pl?date=2003-6-28">28</a></td>
 	</tr>
 </tbody></table>
 
-<div class="calendarviewlink">
-	<a href="http://www.chicagobusiness.com/cgi-bin/calendar.pl?date=2002-12-14" style="font-weight: bold;">VIEW CALENDAR</a>
-</div>
+<a href="http://www.chicagobusiness.com/cgi-bin/calendar.pl?date=2003-6-27">View Calendar</a><br>
+
+<a href="/cgi-bin/submitEvent.pl">Send Us Your Events</a>
+ </div></td>
+            </tr>
+            <tr> 
+              <td class="greyDivider" align="center"><img src="images/global/spacer.gif" alt="" width="1" height="20"></td>
+            </tr>
+          </tbody></table>
+          <!-- End Calendar -->
+          <!-- Events -->
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr> 
+              <td><div class="leftnavItem"><a href="/events/"><b>Register for 
+                  Crain Events</b></a></div></td>
+            </tr>
+            <tr> 
+              <td class="greyDivider" align="center"><img src="images/global/spacer.gif" alt="" width="1" height="20"></td>
+            </tr>
+          </tbody></table>
+          <!-- End Events -->
+          <!-- Special Features -->
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr> 
+              <td><div class="leftnavItem"><b class="smallHeadline">Special Features</b></div></td>
+            </tr>
+             
+            <tr> 
+              <td><div class="leftnavItem"><a href="http://www.chicagobusiness.com/cgi-bin/redirect.pl?mpid=102&amp;portal_id=122&amp;id='http://www.crain.com/classified/ccb/index.cfm'"> 
+                  <b>Classifieds</b>, including Residential and Commercial Real Estate</a> 
+                </div></td>
+            </tr>
+             
+            <tr> 
+              <td><div class="leftnavItem"><a href="http://www.chicagobusiness.com/cgi-bin/redirect.pl?mpid=102&amp;portal_id=122&amp;id='http://www.crain.com/classified/ccb/index.cfm?display=auto_searchmenu'"> 
+                  Luxury Automobile Classifieds</a> 
+                </div></td>
+            </tr>
+             
+            <tr> 
+              <td><div class="leftnavItem"><a href="http://www.chicagobusiness.com/cgi-bin/article.pl?portal_id=51&amp;page_id=501"> 
+                  Golf Guide</a> 
+                </div></td>
+            </tr>
+             
+            <tr> 
+              <td><div class="leftnavItem"><a href="http://www.chicagobusiness.com/cgi-bin/article.pl?page_id=497"> 
+                  Internet Directory</a> 
+                </div></td>
+            </tr>
+             
+            <tr> 
+              <td><div class="leftnavItem"><a href="http://www.chicagobusiness.com/cgi-bin/article.pl?feature_id=23&amp;page_id=723"> 
+                  Luxury Auto Guide</a> 
+                </div></td>
+            </tr>
+             
+            <tr> 
+              <td><div class="leftnavItem"><a href="http://www.chicagobusiness.com/cgi-bin/article.pl?feature_id=24&amp;page_id=684"> 
+                  Crain's Residential Real Estate Guide</a> 
+                </div></td>
+            </tr>
+             
+            <tr> 
+              <td><div class="leftnavItem"><a href="http://www.chicagobusiness.com/cgi-bin/article.pl?page_id=872"> 
+                  Blue Dates Social Calendar</a> 
+                </div></td>
+            </tr>
+             
+            <tr> 
+              <td class="greyDivider" align="center"><img src="images/global/spacer.gif" alt="" width="1" height="20"></td>
+            </tr>
+          </tbody></table>
+          <!-- Special Features End -->
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr> 
+              <td><div class="leftnavItem"><b class="smallHeadline">Advertising</b></div></td>
+            </tr>
+            <tr> 
+              <td><div class="leftnavItem"><a href="/cgi-bin/article.pl?static_id=3&amp;page_id=1120">Advertise 
+                  with Us</a></div></td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+            </tr>
+          </tbody></table>
+          <p>&nbsp;</p></td>
+        <td rowspan="2" valign="top"><img src="images/global/spacer.gif" alt="" width="10" height="1"></td>
+        <td rowspan="2" valign="top"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr> 
+              <td class="bodyCopy">
 
 
-			<div style="padding: 5px 0px 0px 0px;">
-				<a href="/cgi-bin/submitEvent.pl">
-					<img src="/images/buttons/sendusup.gif" name="sendus" border="0" width="136" height="25"></a>
-			</div>
-			<div style="padding: 0px;">
-				<a href="/events/">
-					<img src="/images/buttons/craineventup.gif" name="crainevent" border="0" width="136" height="25"></a>
-			</div>
-			<div style="height: 4px; font-size: 1px;">&nbsp;</div>
-			<hr class="hr01" style="width: 120px;">
-				<div style="padding: 6px 0px 5px 0px;">
-				<a href="/cgi-bin/article.pl?static_id=3&amp;page_id=1120">
-					<img src="/images/buttons/adinfoup.gif" name="adinfo" border="0" width="136" height="25"></a>
-			</div>
-			<table width="122" border="0" cellspacing="4" cellpadding="0">
-				<tbody><tr>
-					<td class="specialfeatures">SPECIAL FEATURES</td>
-				</tr>
-				
-					<tr>
-						<td class="specialfeatures">
-							<a href="http://www.chicagobusiness.com/cgi-bin/redirect.pl?mpid=102&amp;portal_id=122&amp;id='http://www.crain.com/classified/ccb/index.cfm'" class="black">
-								<b>Classifieds</b>, including Residential and Commercial Real Estate</a></td>
-					</tr>
-				
-					<tr>
-						<td class="specialfeatures">
-							<a href="http://www.chicagobusiness.com/cgi-bin/redirect.pl?mpid=102&amp;portal_id=122&amp;id='http://www.crain.com/classified/ccb/index.cfm?display=auto_searchmenu'" class="black">
-								Luxury Automobile Classifieds</a></td>
-					</tr>
-				
-					<tr>
-						<td class="specialfeatures">
-							<a href="http://www.chicagobusiness.com/cgi-bin/article.pl?portal_id=51&amp;page_id=501" class="black">
-								Golf Guide</a></td>
-					</tr>
-				
-					<tr>
-						<td class="specialfeatures">
-							<a href="http://www.chicagobusiness.com/cgi-bin/article.pl?page_id=497" class="black">
-								Internet Directory</a></td>
-					</tr>
-				
-					<tr>
-						<td class="specialfeatures">
-							<a href="http://www.chicagobusiness.com/cgi-bin/article.pl?feature_id=23&amp;page_id=723" class="black">
-								Luxury Auto Guide</a></td>
-					</tr>
-				
-					<tr>
-						<td class="specialfeatures">
-							<a href="http://www.chicagobusiness.com/cgi-bin/article.pl?feature_id=24&amp;page_id=684" class="black">
-								Crain's Residential Real Estate Guide</a></td>
-					</tr>
-				
-					<tr>
-						<td class="specialfeatures">
-							<a href="http://www.chicagobusiness.com/cgi-bin/article.pl?page_id=872" class="black">
-								Blue Dates Social Calendar</a></td>
-					</tr>
-				
-			</tbody></table>
-			<p>&nbsp;</p>
-		</td>
-		<td bgcolor="#000000" width="2"><img src="/images/global/spacer.gif" width="2" height="1"></td>
-		<!-- Left Column Ends -->
 
-		<td bgcolor="#ffffff">
-			<div style="padding: 0px 0px 20px 19px;">
-				<div style="padding: 18px 20px 0px 0px;">
-					<div class="h3">Our Privacy Policy</div>
-<br>
-This is the website of ChicagoBusiness.com. Our postal address is: ChicagoBusiness.com, 360 North Michigan Avenue, Chicago, IL 60601. Our website administrator, Linda Nelson, can be reached by email at <a href="mailto:webmaster@chicagobusiness.com">webmaster@chicagobusiness.com</a> or by telephone at 312-280-3141.<br>
-<br>
-For each visitor to our website, whether a registered user or non-registered user, our web server automatically attempts to recognize the visitor's domain name. In addition to the visitor's domain name, we also collect aggregate information on what pages visitors access. From time to time we may also collect information volunteered by the consumer, such as survey information or contest entries as well as registration information. In addition, a "cookie" will be placed on your computer — avoiding the need for registered users to log in each time you access our site.<br>
-<br>
-Also, our ad server will have the ability to reverse a visitors domain name to find out where they live so geographic-specific ads can be placed on Web pages. Additionally, through the use of an additional cookie, the ad server will have the ability to track users by their behavior profile for the purpose of pushing advertising that matches their interests. Our email alerts also utilize tracking technology that allows us to see how many emails are opened and the email address of users who have clicked on a given story, feature or advertisement. We only use this information for internal purposes to measure the aggregate number of people who view a given email alert item.<br>
-<br>
-The general background information we collect on our web registrants at the time they register may be used to notify them of changes or updates to our website, or to ascertain the demographics of our readership, but it is not shared with other organizations for commercial purposes. Subscribers are also asked at the time they register whether they want their postal and email addresses added to our mailing list. Additionally, if at any time you decide you do not want to receive email and/or snail mail from us, simply let us know by sending an email or snail mail message to the appropriate address given above. Please state in your message that you do not want to receive email and/or snail mail from our company.<br>
-<br>
-In the future, we may decide to make the email addresses of those who subscribe our site available to other reputable organizations whose products or services we think would be appropriate or interesting. If you do not want us to share your email address with other companies or organizations, please let us know by sending email or snail mail to us at the addresses given above. Please state in your message that you do not want us to share your email address with other companies.<br>
-<br>
-Website subscribers who supply us with their postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by sending an email or snail mail message to us at the appropriate address given above. You may also receive mailings from other reputable companies. Again, if you prefer that your address not be shared, please contact us with your exact name and address, and we will remove your name from the list we share with other organizations.<br>
-<br>
-Persons who supply us with their telephone or fax numbers online may receive telephone contact from us. Any such call will probably concern orders they have placed online or questions they have about our firm's products and services. We will not share telephone or fax numbers with other organizations.<br>
-<br>
+<!--- this is the main body -->
 
 
-				<br clear="all">
-				<table width="270" border="0" cellspacing="0" cellpadding="0" align="left">
-	<tbody><tr>
-		<td width="260">
-			<table width="260" border="0" cellspacing="0" cellpadding="0" bgcolor="#dbddcf" align="left">
-				<tbody><tr> 
-					<td height="15" class="small">&nbsp;&nbsp;<font color="#000000">Advertisement</font></td>
-				</tr>
-				<tr> 
-					<td align="center">
-						<script language="JavaScript">
+  <div class="h3">Our Privacy Policy</div>
+<p>
+This is the website of ChicagoBusiness.com. Our postal address is: ChicagoBusiness.com, 360 North Michigan Avenue, Chicago, IL 60601. Our website administrator, Linda Nelson, can be reached by email at <a href="mailto:webmaster@chicagobusiness.com">webmaster@chicagobusiness.com</a> or by telephone at 312-280-3141.</p><p>
+</p><p>
+For each visitor to our website, whether a registered user or non-registered user, our web server automatically attempts to recognize the visitor's domain name. In addition to the visitor's domain name, we also collect aggregate information on what pages visitors access. From time to time we may also collect information volunteered by the consumer, such as survey information or contest entries as well as registration information. In addition, a "cookie" will be placed on your computer — avoiding the need for registered users to log in each time you access our site.</p><p>
+                                                </p></td></tr>
+
+
+
+<tr>
+  <td class="bodyCopy"> <p align="center" class="redTextSmall">continued below</p>
+    <table width="260" border="0" cellspacing="0" cellpadding="5" bgcolor="#EEEEEE" align="center">
+      <tbody><tr> 
+        <td class="small" align="center">Advertisement</td>
+      </tr>
+      <tr> 
+        <td align="center"> <script language="JavaScript"> 
 						<!--
-							OAS_RICH("Middle");
+							OAS_RICH("Middle1");
 						//-->
-						</script>
-					</td>
-				</tr>
-				<tr> 
-					<td height="5"></td>
-				</tr>
-			</tbody></table>
-		</td>
-		<td width="10">
-			&nbsp;
-		</td>
-	</tr>
-</tbody></table>
+						</script><a href="http://oascentral.chicagobusiness.com/RealMedia/ads/click_nx.ads/www.chicagobusiness.com/portal/admin/privacy_policy/13725306379@Position1,TopRight,Right2,Middle1!Middle1?" target="_blank"><img src="http://oascentral.chicagobusiness.com/RealMedia/ads/adstream_nx.ads/www.chicagobusiness.com/portal/admin/privacy_policy/13725306379@Position1,TopRight,Right2,Middle1!Middle1?" border="0"></a>
+<br>
+        </td>
+      </tr>
+    </tbody></table><br><br></td></tr>
+<tr><td class="bodyCopy">
 
-				<br clear="all">
-			
-<hr noshade="" size="1">
-<p class="utilitylink"><a href="javascript:history.go(-1)" onmouseover="window.status='Back to previous page';return true;" onmouseout="window.status='';return true;">&lt; &lt; BACK</a></p>
 
-				</div>
-			</div>
-			<div><img src="/images/global/spacer.gif" width="473" height="1"><br clear="all"></div>
-			<p align="center">
-			<script language="JavaScript">
-			<!--
-				OAS_RICH("Bottom");
-			//-->
-			</script>
-			</p>
-			<p>
-				<script language="JavaScript">
+                                                
+
+                                                <p>
+                                        
+Also, our ad server will have the ability to reverse a visitors domain name to find out where they live so geographic-specific ads can be placed on Web pages. Additionally, through the use of an additional cookie, the ad server will have the ability to track users by their behavior profile for the purpose of pushing advertising that matches their interests. Our email alerts also utilize tracking technology that allows us to see how many emails are opened and the email address of users who have clicked on a given story, feature or advertisement. We only use this information for internal purposes to measure the aggregate number of people who view a given email alert item.</p><p>
+</p><p>
+The general background information we collect on our web registrants at the time they register may be used to notify them of changes or updates to our website, or to ascertain the demographics of our readership, but it is not shared with other organizations for commercial purposes. Subscribers are also asked at the time they register whether they want their postal and email addresses added to our mailing list. Additionally, if at any time you decide you do not want to receive email and/or snail mail from us, simply let us know by sending an email or snail mail message to the appropriate address given above. Please state in your message that you do not want to receive email and/or snail mail from our company.</p><p>
+</p><p>
+In the future, we may decide to make the email addresses of those who subscribe our site available to other reputable organizations whose products or services we think would be appropriate or interesting. If you do not want us to share your email address with other companies or organizations, please let us know by sending email or snail mail to us at the addresses given above. Please state in your message that you do not want us to share your email address with other companies.</p><p>
+</p><p>
+Website subscribers who supply us with their postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by sending an email or snail mail message to us at the appropriate address given above. You may also receive mailings from other reputable companies. Again, if you prefer that your address not be shared, please contact us with your exact name and address, and we will remove your name from the list we share with other organizations.</p><p>
+</p><p>
+Persons who supply us with their telephone or fax numbers online may receive telephone contact from us. Any such call will probably concern orders they have placed online or questions they have about our firm's products and services. We will not share telephone or fax numbers with other organizations.</p><p>
+</p><p>
+
+</p><p> 
+  
+
+
+
+
+
+<!-- this is the end of the main body -->
+
+
+</p></td>
+            </tr>
+          </tbody></table>
+          <p> 
+            <script language="JavaScript">
 					if (location.pathname == "/" || location.href == "http://www.chicagobusiness.com/") {
-						document.write ('<a href="https://sec.crain.com/ccb/cgi-bin/speccirculation.pl?KEY_CDE_NEW=W2WEB1&KEY_CDE_RENEW=W2WEB5"><img src="/images/global/subscribe-ad.gif" width="468" height="60" border="0"></a>');
+						document.write ('<a href="https://sec.crain.com/ccb/cgi-bin/speccirculation.pl?KEY_CDE_NEW=W3WEB1&KEY_CDE_RENEW=W3WEB5"><img src="/images/global/subscribe-ad.gif" width="468" height="60" border="0"></a>');
 					}
 					else {
-						document.write ('<a href="https://sec.crain.com/ccb/cgi-bin/speccirculation.pl?KEY_CDE_NEW=W2WEB2&KEY_CDE_RENEW=W2WEB6"><img src="/images/global/subscribe-ad.gif" width="468" height="60" border="0"></a>');
+						document.write ('<a href="https://sec.crain.com/ccb/cgi-bin/speccirculation.pl?KEY_CDE_NEW=W3WEB2&KEY_CDE_RENEW=W3WEB6"><img src="/images/global/subscribe-ad.gif" width="468" height="60" border="0"></a>');
 					}
-				</script><a href="https://sec.crain.com/ccb/cgi-bin/speccirculation.pl?KEY_CDE_NEW=W2WEB2&amp;KEY_CDE_RENEW=W2WEB6"><img src="/images/global/subscribe-ad.gif" width="468" height="60" border="0"></a>
-			</p>
-			<p>&nbsp;</p>
-		</td>
-		<!-- Mid Column Ends -->
-		
-		
-		
-		<!-- Right Column Begins -->
-		<td bgcolor="#000000" width="2"><img src="/images/global/spacer.gif" width="2" height="1"></td>
-			<td bgcolor="#dbddcf" width="147" style="text-align: center;"><img src="/images/shadows/header.gif" width="147" height="5"><br>
-			<div class="redhead" style="padding-top: 8px; text-align: center;">THIS WEEK'S ISSUE</div>
-			<div style="text-align: center;">December 16, 2002</div>
-				<div style="text-align: center;"><a href="http://www.chicagobusiness.com/mag/" target="_blank"><img src="/images/global/cover-shot.gif" border="0" width="126" height="94"></a></div> 
-			<form style="margin:0px; padding: 0px;" name="ccbMagSearch" method="post" action="http://www.chicagobusiness.com/cgi-bin/mag/search.pl">
-				<div style="text-align: left; padding: 0px 10px 0px 10px;" class="blkhead">SEARCH ARCHIVES</div>
-				<div style="text-align: left; padding: 0px 10px 0px 10px;" class="blkcopy">(registration required)</div>
-				<div style="text-align: left; padding: 0px 10px 5px 10px;">
-					<input type="text" name="keyword" style="font-size:10px; width:90px; padding:0px; margin:0px;" size="15" maxlength="50">
-					<input type="image" src="/images/icons/go.gif" width="23" height="14" border="0" name="advanced">
-				</div>
-			</form>
-			<hr class="hr01" style="width: 133px;">
-			<div style="text-align: center; padding: 7px 0px 3px 0px;">			<script language="JavaScript">
-			<!--
-				OAS_RICH("Right");
-			//-->
-			</script></div>
-			<hr class="hr01" style="width: 133px;">
-			<div style="padding-top: 3px;">
-				<a href="https://sec.crain.com/ccb/circulation.html"><img src="/images/buttons/subscribeup.gif" width="142" height="25" border="0"></a>
-			</div>
-			<hr class="hr01" style="width: 133px;">
-				<div style="text-align: center; padding: 5px 0px 5px 0px;">
-				<img src="/images/icons/goto.gif" width="86" height="12" border="0">
-				<br>
-			<script language="JavaScript">
-			<!--
-				OAS_RICH("Bottom1");
-			//-->
-			</script>
-			</div>
-			
-			<hr class="hr01" style="width: 133px;">
-			<div style="text-align: left; padding: 0px 10px 0px 10px;">
-				<div class="subscriberservices"><b>SUBSCRIBER SERVICES</b></div>
-				<div class="subscriberservices">
-					<a href="https://sec.crain.com/ccb/cgi-bin/newsub.pl" class="black">New subscription</a>
-				</div>
-				<div class="subscriberservices">
-					<a href="https://sec.crain.com/ccb/cgi-bin/renew.pl" class="black">Renew my subscription</a>
-				</div>
-				<div class="subscriberservices">
-					<a href="https://sec.crain.com/ccb/cgi-bin/verify.pl" class="black">Check on a subscription</a>
-				</div>
-				<div class="subscriberservices">
-					<a href="https://sec.crain.com/ccb/cgi-bin/paysub.pl" class="black">Pay an invoice</a>
-				</div>
-				<div class="subscriberservices">
-					<a href="https://sec.crain.com/ccb/cgi-bin/adrchng.pl" class="black">Change my address</a>
-				<br></div><div class="subscriberservices">
-							<a href="http://crainschicago.clickdata.com/partners/int/toplist/item.asp?prodid=229&amp;state=IL&amp;product_id=CHI&amp;flag=main&amp;ban=c1&amp;tab=1#smartDataCenter" class="black">Book of Lists On Disk
-</a></div>
-			</div>
-		</td>
-		<!-- Right Column Ends -->
-
-		<td bgcolor="#000000" width="2"><img src="/images/global/spacer.gif" width="2" height="1"></td>
-	</tr>
-	<tr> 
-		<td bgcolor="#000000" colspan="7"><img src="/images/global/spacer.gif" width="2" height="2"></td>
-	</tr>
+				</script><a href="https://sec.crain.com/ccb/cgi-bin/speccirculation.pl?KEY_CDE_NEW=W3WEB2&amp;KEY_CDE_RENEW=W3WEB6"><img src="/images/global/subscribe-ad.gif" width="468" height="60" border="0"></a>
+          </p></td>
+        <td valign="top">&nbsp;</td>
+        <td rowspan="2" class="divider"><img src="/images/global/spacer.gif" alt="" width="1" height="1"></td>
+        <td rowspan="2"> <img src="images/global/spacer.gif" width="10" height="1"></td>
+        <td rowspan="2" valign="top"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr> 
+              <td width="1"><a href="/cgi-bin/portal.pl?id=35"> 
+                <img src="/images/icons/stocks.gif" alt="Local Stocks" width="17" height="23" border="0" align="absbottom"></a> 
+              </td>
+              <td><a href="/cgi-bin/portal.pl?id=35"> 
+                Local Stocks </a></td>
+            </tr>
+            <tr> 
+              <td valign="middle"><a href="javascript:void(0)" onclick="javascript: window.print();" onmouseover="self.status='Click for Printer Friendly Version';return true;" onmouseout="self.status='';return true;"> <img src="/images/icons/print.gif" alt="Print This Article" width="22" height="21" border="0" align="absbottom"></a></td>
+              <td valign="middle"><a href="javascript:void(0)" onclick="javascript:window.print();" onmouseover="self.status='Click for Printer Friendly Version';return true;" onmouseout="self.status='';return true;"> Print This Article </a></td>
+            </tr>
+             
+            <tr> 
+              <td valign="middle"><a href="/cgi-bin/emailFriend.pl"> <img src="/images/icons/email.gif" alt="Email This Article" width="23" height="23" border="0" align="absbottom"></a></td>
+              <td valign="middle"><a href="/cgi-bin/emailFriend.pl">Email This Article 
+                </a></td>
+            </tr>
+             
+            <tr> 
+              <td colspan="2">&nbsp;</td>
+            </tr>
+            <tr> 
+              <td colspan="2"><div class="divider"><img src="/images/global/spacer.gif" width="1" height="1"></div></td>
+            </tr>
+            <tr> 
+              <td colspan="2">&nbsp;</td>
+            </tr>
+          </tbody></table>
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr> 
+              <td valign="center"><!--<img src="/images/global/tools.gif"><BR>&nbsp;-->
+<script language="JavaScript">
+<!--
+OAS_RICH("TopRight");
+//-->
+</script><a href="http://oascentral.chicagobusiness.com/RealMedia/ads/click_nx.ads/www.chicagobusiness.com/portal/admin/privacy_policy/13725306379@Position1,TopRight,Right2,Middle1!TopRight?" target="_blank"><img src="http://oascentral.chicagobusiness.com/RealMedia/ads/adstream_nx.ads/www.chicagobusiness.com/portal/admin/privacy_policy/13725306379@Position1,TopRight,Right2,Middle1!TopRight?" border="0"></a>
+</td>
+            </tr>
+            <tr> 
+              <td><div class="divider"><img src="/images/global/spacer.gif" width="1" height="1"></div></td>
+            </tr>
+            <tr> 
+              <td>&nbsp;</td>
+            </tr>
+          </tbody></table>
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr> 
+              <td colspan="2" class="smallHeadline">Search</td>
+            </tr>
+            <tr> 
+              <td> <form name="nlsearch" action="http://www.chicagobusiness.com/cgi-bin/mag/search.pl" method="get" class="form">
+                  <input type="hidden" name="sa" value="Google Search">
+                  <input type="hidden" name="cof" value="AWPID:e283086029f2b114;">
+                  <input type="hidden" name="searchin" value="Google Search">
+                  <table width="100%" border="0" cellspacing="3" cellpadding="0">
+                    <tbody><tr> 
+                      <td><a href="#" onclick="return SetSearchIn (1);"> <img name="radio1" border="0" src="/images/global/radion.gif" width="11" height="11" align="absmiddle"></a> 
+                      </td>
+                      <td colspan="2" class="smaller">&nbsp;Crain's Chicago Business</td>
+                    </tr>
+                    <tr> 
+                      <td><a href="#" onclick="return SetSearchIn (2);"><img name="radio2" border="0" src="/images/global/radioff.gif" width="11" height="11" align="absmiddle"></a> 
+                      </td>
+                      <td colspan="2" class="smaller">&nbsp;Web via Google</td>
+                    </tr>
+                    <tr> 
+                      <td colspan="3"> 
+<table cellpadding="0" border="0" cellspacing="0">
+<tbody><tr>
+        <td><input type="text" name="q" size="25" style="height: 17px; width:125px;"></td><td><input name="go" type="image" value="go" src="/images/global/go.gif" width="22" height="16" align="absmiddle"></td>
+</tr>
+<tr>
+<td align="center"><div class="advancedSearchTitle"><a href="/cgi-bin/mag/search.pl" style="font-size: 10px;">Advanced Search</a></div></td><td>&nbsp;</td>
+</tr>
 </tbody></table>
-<script language="Javascript">
-	if (document.layers) {
-		document.write ('</td></tr></table>');
-	}
-</script>
-</div></div>
+</td>
+                    </tr>
+                  </tbody></table>
+                </form></td>
+              <td>&nbsp;</td>
+            </tr>
+          </tbody></table>
+          <br> 
 
+<p>
+<!-- THIS IS THE "Right1" AD SPOT -->
+<script language="JavaScript">
+<!--
+OAS_RICH("Right2");
+//-->
+</script><a href="http://oascentral.chicagobusiness.com/RealMedia/ads/click_nx.ads/www.chicagobusiness.com/portal/admin/privacy_policy/13725306379@Position1,TopRight,Right2,Middle1!Right2?" target="_blank"><img src="http://oascentral.chicagobusiness.com/RealMedia/ads/adstream_nx.ads/www.chicagobusiness.com/portal/admin/privacy_policy/13725306379@Position1,TopRight,Right2,Middle1!Right2?" border="0"></a>
+</p>
+<!--	
+	  <div class="smallHeadline">Related Stories</div>
+	  
+          <table width="100%" border="0" cellspacing="2" cellpadding="0">
+            <tr> 
+              <td><img src="/images/global/spacer.gif" height="10" width="1" alt=""></td>
+            </tr>
+            <tr> 
+              <td> <a href=""> 
+                <img src="/images/icons/redarrow.gif" width="12" height="8" border="0"></a> 
+              </td>
+            </tr>
+          </table>
+	
+	<BR>
+	-->
+          <!-- Subscriber Services -->
+          <p><a href="https://sec.crain.com/ccb/circulation.html"><img src="/images/index/subscribeRight.gif" alt="Suwidth=" 145"="" height="138" border="0"></a> 
+          </p>
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr> 
+              <td><b class="smallHeadline">Other Subscription Services</b></td>
+            </tr>
+            <tr> 
+              <td><div class="rightnavItem"><a href="https://sec.crain.com/ccb/cgi-bin/renew.pl">Renew 
+                  my subscription</a></div></td>
+            </tr>
+            <tr> 
+              <td><div class="rightnavItem"><a href="https://sec.crain.com/ccb/cgi-bin/verify.pl"> 
+                  Check on a subscription </a></div></td>
+            </tr>
+            <tr> 
+              <td><div class="rightnavItem"><a href="https://sec.crain.com/ccb/cgi-bin/paysub.pl">Pay 
+                  an invoice</a></div></td>
+            </tr>
+            <tr> 
+              <td><div class="rightnavItem"><a href="https://sec.crain.com/ccb/cgi-bin/adrchng.pl">Change 
+                  my address</a></div></td>
+            </tr>
+            <tr> 
+              <td><div class="rightnavItem"><a href="http://crainschicago.clickdata.com/partners/int/toplist/item.asp?prodid=229&amp;state=IL&amp;product_id=CHI&amp;flag=main&amp;ban=c1&amp;tab=1#smartDataCenter">Book 
+                  of Lists On Disk</a></div></td>
+            </tr>
+            <tr> 
+              <td class="whiteDivider" align="center"><img src="images/global/spacer.gif" alt="" width="1" height="20"></td>
+            </tr>
+          </tbody></table>
+          <!-- End Subscriber Services -->
+          <!-- Beyond Chicago -->
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr> 
+              <td><div class="rightnavItem"><b class="smallHeadline">Beyond Chicago</b></div></td>
+            </tr>
+            <tr> 
+              <td><div class="rightnavItem"><a href="http://www.crainsny.com">Crain's 
+                  New York Business</a></div></td>
+            </tr>
+            <tr> 
+              <td><div class="rightnavItem"><a href="http://www.crainsdetroit.com">Crain's 
+                  Detroit Business</a></div></td>
+            </tr>
+            <tr> 
+              <td><div class="rightnavItem"><a href="http://www.crainscleveland.com">Crain's 
+                  Cleveland Business</a></div></td>
+            </tr>
+            <tr> 
+              <td><div class="rightnavItem"><a href="http://www.elasesor.com.mx">El 
+                  Asesor (Mexico)</a></div></td>
+            </tr>
+            <tr> 
+              <td class="whiteDivider" align="center"><img src="images/global/spacer.gif" alt="" width="1" height="20"></td>
+            </tr>
+          </tbody></table>
+          <!-- Beyond Chicago End -->
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr><td><div class="rightnavItem"><a href="http://www.chicagobusiness.com/cgi-bin/sitemap.pl">Site Map</a></div></td>
+            </tr>
+            <tr> 
+              <td><div class="rightnavItem"><a href="http://www.chicagobusiness.com/cgi-bin/article.pl?static_id=2">About 
+                  Us</a></div></td>
+            </tr>
+            <tr> 
+              <td><div class="rightnavItem"><a href="http://www.chicagobusiness.com/cgi-bin/article.pl?static_id=1">Contact 
+                  Us</a></div></td>
+            </tr>
+          </tbody></table></td>
+      </tr>
+      <tr> 
+        <td align="center">&nbsp;</td>
+      </tr>
+      <tr align="center"> 
+        <td colspan="7"><img src="images/global/spacer.gif" width="1" height="10"></td>
+      </tr>
+      <tr align="center"> 
+        <td height="6" colspan="7" class="footer">Copyright 2003 
+          Crain Communications Inc.&nbsp;&nbsp; | &nbsp;&nbsp;<a href="http://www.chicagobusiness.com/cgi-bin/article.pl?static_id=11" class="whiteLinks">Privacy 
+          Policy</a>&nbsp;&nbsp; | &nbsp;&nbsp;<a href="http://www.chicagobusiness.com/cgi-bin/sitemap.pl" class="whiteLinks">Site 
+          Map</a> &nbsp;&nbsp; | &nbsp;&nbsp;<a href="http://www.chicagobusiness.com/cgi-bin/article.pl?static_id=2" class="whiteLinks">About 
+          Us</a>&nbsp;&nbsp; | &nbsp;&nbsp;<a href="http://www.chicagobusiness.com/cgi-bin/article.pl?static_id=1" class="whiteLinks">Contact 
+          Us</a>&nbsp;&nbsp; | &nbsp;&nbsp;<a href="#top" class="whiteLinks">Back 
+          to Top</a></td>
+      </tr>
+      <tr align="center"> 
+        <td colspan="7"><br>
+          Site Programming Copyright 2003 
+          <a href="http://www.chaffee.com/" target="_blank">Chaffee Interactive, 
+          Inc</a>. &nbsp;&nbsp; | &nbsp;&nbsp;Graphic Design by <a href="http://www.gripdesign.com/" target="_blank">gripdesign, 
+          Inc.</a></td>
+      </tr>
+    </tbody></table>
+</div></div>
 
 </body></html>
