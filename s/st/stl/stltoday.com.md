@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stltoday.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204135807id_/http%3A//www.stltoday.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stltoday.com privacy policy that was archived on 2005-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050325102338id_/http%3A//www.stltoday.com/help/privacy-policy) for the most accurate reproduction.*
 
 # STLtoday - Help Center - Privacy Policy
 
