@@ -1,17 +1,6 @@
-> *The following text is extracted and transformed from the lowescreativeideas.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208011557id_/http%3A//www.lowes.com/lkn%3Faction%3DtopicSelect%26topic%3Dprivacy%26rn%3DRightNavFiles/rightNavGoShopping) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowescreativeideas.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403010101id_/http%3A//www.lowes.com/lkn%3Faction%3DtopicSelect%26topic%3Dprivacy%26rn%3DRightNavFiles/rightNavGoShopping) for the most accurate reproduction.*
 
 # Privacy Policy Statement
-
-| 
-
-| [](https://web.archive.org/lkn?action=topicSelect&topic=featuredBrands) |  | [](https://web.archive.org/lkn?action=topicSelect&topic=buyGuide) | [](https://web.archive.org/lkn?action=frameSet&url=stores.lowes.com/lowes) | [](https://web.archive.org/lkn?action=topicSelect&topic=creditCenter) | [](https://web.archive.org/lkn?action=topicSelect&topic=weInstall) | [](http://ads.lowes.com/Tiles.aspx)  
----|---|---|---|---|---|---  
-   **Welcome!** | 
-
-[](https://web.archive.org/lkn?action=weatherDotCom&rn=none)  
-  
----|---  
-** **
 
 **Privacy and Security Statement**
 
@@ -72,15 +61,16 @@ In order to register on our site, you must provide your:
   * Password
   * Occupation (optional)
 
+
+
+**Registration is an optional service provided by Lowes.com. However, you must be registered on our site to shop online.**
+
+**Registering allows us to speed up the shopping process and offer you access to special features and promotions.**  
+
+
 | 
 
-Registration is an optional service provided by Lowes.com. You do not have to register on our site to shop online. Registering allows us to speed up the shopping process and offer you access to special features and promotions. 
-
-If you choose to register:
-
-We require your first and last names to help us differentiate your registration profile from others at Lowes.com. They also allow us to automatically populate shipping information forms should you decide to order from Lowes.com.
-
-We require a mailing address in order to make the checkout process faster. Your address will also be added to our customer information database to allow Lowe's to research and offer products and services specifically designed for you and customers like you.
+If you choose to register: We require your first and last names to help us differentiate your registration profile from others at Lowes.com. They also allow us to automatically populate shipping information forms should you decide to order from Lowes.com. We require a mailing address in order to make the checkout process faster. Your address will also be added to our customer information database to allow Lowe's to research and offer products and services specifically designed for you and customers like you.
 
 We require a phone number in case there is a problem with your order. We will not telemarket to you. However, you may be called and asked to participate in an optional Lowe’s telephone survey designed to help us improve your shopping experience.
 
@@ -96,13 +86,13 @@ When you register, you will also have the opportunity to sign up for e-mail news
 
 We have legally binding agreements with these service providers that prohibit them from using your information for any purpose other than what Lowe's instructs them to do with it. Therefore, if you sign up for the e-mail newsletters, you do not need to worry about receiving unsolicited e-mails from other companies as a result of Lowe’s releasing your information. 
 
-**
+****
 
-If you ever need to view, change, update or delete any of your registration information, click _Edit My Profile_ on the left-hand side of the screen. You will need to log-in, and then your information will be displayed so that you can edit it. 
+**If you ever need to view, change, update or delete any of your registration information, log in and click _My Account_ at the top of the screen. You will be taken to a page where you can access your information so that you can edit it. **
 
-**
+ 
 
-If at anytime you no longer wish to receive newsletters from Lowes.com, click here to send an e-mail to [remove@lowes.com](mailto:remove@lowes.com) and type **REMOVE FROM NEWSLETTER LIST** in the subject line. You may also choose this option in the "Edit My Profile" section on the left-hand side of the screen.
+If at anytime you no longer wish to receive newsletters from Lowes.com, click here to send an e-mail to [remove@lowes.com](mailto:remove@lowes.com) and type **REMOVE FROM NEWSLETTER LIST** in the subject line. You may also choose this option in the "My Account" section on the left-hand side of the screen.
 
 If you want to be removed from all Lowe's marketing, choose one of the following options: send an e-mail to [remove@lowes.com](mailto:remove@lowes.com) and type **REMOVE FROM ALL MARKETING** in the subject line; call 1-800-44-LOWES; or send your request by mail to: Lowe's Customer Care, PO Box 1111, N. Wilkesboro, NC 28659. **Remember** to include you name, address and phone number in the request.   
   
@@ -114,10 +104,7 @@ Online Ordering Information
 
 If you choose to purchase products from our site, you will need to provide the following information so that we can fulfill your order:
 
-  * Name 
-  * Contact phone number(s) 
-  * Shipping address 
-  * E-mail address 
+  * Name Contact phone number(s) Shipping address E-mail address 
   * Credit card account information 
 
 | 
@@ -162,8 +149,7 @@ Customer Confidentiality Policy
 
 **Our Customer Pledge:** Let us assure you: 
 
-  * We will not telemarket to you. 
-  * We will never sell your information to others. That's a promise. 
+  * We will not telemarket to you. We will never sell your information to others. That's a promise. 
   * Your participation is completely voluntary. 
 
 **
@@ -200,7 +186,7 @@ Security Information
 
 **
 
-We understand that many consumers are concerned about security on the Internet. The Web server here at Lowes.com **** is designed for Internet commerce, and employs industry standard methods of protecting the security of information sent over the site. This statement describes the technologies we use and provides additional information about how we handle your credit card information. We want you to be able to shop at the Lowe's site with confidence. Of course, if you would rather order products by telephone, you can call us toll free at 1-800-44-LOWES (5-6937).
+We understand that many consumers are concerned about security on the Internet. The Web server here at Lowes.com is designed for Internet commerce, and employs industry standard methods of protecting the security of information sent over the site. This statement describes the technologies we use and provides additional information about how we handle your credit card information. We want you to be able to shop at the Lowe's site with confidence. Of course, if you would rather order products by telephone, you can call us toll free at 1-800-44-LOWES (5-6937).
 
 **
 
@@ -237,5 +223,3 @@ Security Questions or Comments
 We are committed to providing a secure, friendly site where customers can shop without undue concern over security. When we receive your information, we use commercially reasonable efforts, including the measures described above, to protect the security of your information on our systems. However, no data transmission over the Internet or any wireless network can be guaranteed to be absolutely secure. Therefore, we do not warrant or ensure the security of any information sent to us online. If you have any questions, comments or concerns, please contact us via e-mail at _manager_[ @lowes.com](mailto:manager@lowes.com) or toll free at 1-800-44-LOWES (5-6937). 
 
 Effective 6/11/02
-
-| 
