@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the inthe80s.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206130800id_/http%3A//www.inthe80s.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inthe80s.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604135238id_/http%3A//www.inthe80s.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement for InThe80s.Com
 
 |  [](http://www.inthe80s.com/index.shtml) |   
 ---|---  
+This site is run by a guy from [Woostah, Mass](http://www.worcestermass.com/) |   
+---|---  
 | 
 
 * * *
 
-How would you like a nice greasy pork sandwich served in a dirty ashtray?  
-From Weird Science
+I'm not hip and I'm glad, because I hate hip. Hip doesn't last. I was never hip.  
+Meatloaf
 
 * * *  
-  
----|---  
   
 ## Overview
 
