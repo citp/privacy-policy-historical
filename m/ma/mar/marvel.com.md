@@ -1,106 +1,60 @@
-> *The following text is extracted and transformed from the marvel.com privacy policy that was archived on 1999-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991013045226id_/http%3A//marvel.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marvel.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207062600id_/http%3A//marvel.com/about/legal/privacy.html) for the most accurate reproduction.*
 
-# Marvel wants to protect your privacy
+# Marvel Entertainment - About Marvel
 
-What about my privacy?
+  
+**Marvel's Privacy Policy**
 
-It is Marvel's policy to fundamentally respect and protect the privacy of visitors to our websites. 
+It is Marvel's policy to respect and protect the privacy of visitors to our web sites. Accordingly, Marvel does not extract personal information about you or your computer at any time on Marvel's web sites without your permission. Marvel will, however, analyze information about our users as a group to make our web sites better, but users are not individually identified when we do this. 
 
-We DO NOT extract individual information about you or your computer at any time on our website. We will analyze information about our users as a group to make our websites better, but you won't be individually identified when we do this.
+Marvel will collect personal information such as names, home addresses, e-mail addresses, your age, etc. when voluntarily submitted by you when ordering subscriptions or the Marvel netletter, entering contests or sweepstakes, or signing into a guestbook. The most important thing Marvel does with this information is fulfill the activity you signed up for, like notifying winners or sending you the Marvel netletter. This information also is used internally by Marvel for marketing and research purposes. 
 
-We collect personal information like names or addresses, e-mail addresses, age, etc., but only when you voluntarily give it to us in sweepstakess, guestbooks or subscriptions. The most important thing we do with this information is to fulfill the activity you signed up for, like notifying winners or sending you our newsletter. This information is also used for internal purposes, such as marketing and research. But, it WILL NOT be sold, rented or given to anyone else unless we ask for and receive your permission at the time we collect personal information from you.
+Marvel will not sell, rent or give this information to any third party unless we ask for and receive your permission at the time the personal information is collected from you. Marvel does, however, share aggregate information about the users of our web sites with advertisers, business partners, sponsors and certain others to better develop, improve and customize Marvel's web sites. 
 
-If you're under twelve years old, you should not be submitting any personal information like this without your parents' permission. You'll notice that when we have pages which ask for personal information we include reminders asking kids to get parental permission before submitting. 
+If you're under 13 years old, you should not submit any personal information such as your name, address, e-mail address, or phone number without your parents' permission. You will notice when we have pages that ask for personal information we include reminders asking kids to get parental permission before submitting. 
 
-We may occasionally ask, on a voluntary basis and with prior parental permission, if appropriate, for personal information to provide to sponsors of particular activities. This will be made clear in each individual case where we have third-party sponsors and you will have the opportunity to participate in these activities even if you choose not to give permission to Marvel to share this information with our sponsors. 
+We may occasionally ask -- on a voluntary basis and with prior permission -- for personal information to provide to sponsors of particular activities and/or products. This will be made clear in each individual case where we have third-party sponsors, and you will have the opportunity to participate in these activities even if you choose not to allow Marvel to share this information with our sponsors. 
 
-MAIL'S IN!  
-Marvel uses automated e-mail systems to communicate with registered members of our premium website, the Marvel Zone, to operate a weekly broadcast the "Mighty Marvel Mailer" and to collect and answer regular correspondence. Sometimes we don't have time to answer every message, but we do read all of them!
+Marvel uses automated e-mail systems to e-mail the weekly netletter and to collect and answer correspondence from our users. While Marvel may not have the time or manpower to individually answer each piece of correspondence, we do read all of them. 
 
-We try to make it easy to contact us and try give you easy instructions on how to remove yourself from automated messages each time we send you one. Please contact help@marvel.com with technical problems only.
+Marvel tries to make it easy for you to contact us, and we provide easy instructions on how you either can edit information previously given (such as your address) or remove yourself from automated messages generated by Marvel each time we send you an automated message. Please contact help@marvel.com with technical problems only. 
 
-SNACK TIME   
-We may occasionally use "cookie" technology to enhance your online experience by making it easier for you to navigate through our pages or to make an activity work better. 
+**COOKIES**
 
-Cookies are small files our website puts on your hard disk which allow your computer to "remember" information for future use. We DO NOT extract individual information about you or your computer during this process. 
+Marvel, on occasion, uses "cookie" technology to enhance your online experience by making it easier for you to navigate through our web site, or to make an activity work better. 
 
-We will analyze information about our users as a group to make our websites better, but you won't be individually identified when we do this.
+Cookies are small pieces of information or files that a web site puts on your hard disk for record-keeping purposes. Cookies allow your computer to "remember" information from our web site for future use. When cookies are used, Marvel does not extract individual information about you or your computer during this process. The use of cookies is an industry standard -- in other words, most major web sites use cookies. 
 
-LINKS   
-We try to make sure that when there are links off our site, they are working and lead you to interesting, fun and informative areas. But it's hard to guarantee what exactly is presented on other sites or where links elsewhere may lead to. So, we can't be responsible when you leave our site and we recommend that kids check with an adult before surfing off to any new sites.
+Marvel uses information collected by cookies to learn about our users' preferences, so we can make our web sites better. The information is about our users as a whole, not as individuals. 
 
-SECURITY  
-Marvel implements a variety of technologies to make our websites as secure as possible against unauthorized access and to protect the information you choose to provide to us. We periodically review and update these measures. 
+**LINKS**
 
-SOME OF US ARE PARENTS, TOO   
-We're sensitive about children consulting with parents or guardians before furnishing personal information or ordering anything online. We try to remind kids about this and we encourage parents to supervise and join their children in exploring cyberspace. We're proud of our website, believe that it is suitable for Marvel fans of all ages and hope you enjoy it too. 
+We try to make sure that when there are links off our site, they are working and lead you to interesting, fun and informative areas. But it's hard to guarantee what exactly is presented on other sites or where links elsewhere may lead. Marvel is not responsible for the content or information provided or requested by these links. Therefore, Marvel strongly recommends that children check with an adult before surfing new sites. 
 
-Parents should also be aware of a growing variety of software capable of filtering online information to reflect their own choices and guidelines.
-What about my privacy?
+**SECURITY**
 
-It is Marvel's policy to fundamentally respect and protect the privacy of visitors to our websites. 
+Marvel exercises great care and implements a variety of technologies to make our web sites as secure as possible against unauthorized access and protect the information you choose to provide to us. We periodically review and update these measures. 
 
-We DO NOT extract individual information about you or your computer at any time on our website. We will analyze information about our users as a group to make our websites better, but you won't be individually identified when we do this.
+We're sensitive about children consulting with parents or guardians before furnishing personal information or ordering anything online. We try to remind kids about this, and we encourage parents to supervise and join their children in exploring cyberspace. We're proud of our web site, believe that it is suitable for Marvel fans of all ages and hope you enjoy it, too. 
 
-We collect personal information like names or addresses, e-mail addresses, age, etc., but only when you voluntarily give it to us in sweepstakess, guestbooks or subscriptions. The most important thing we do with this information is to fulfill the activity you signed up for, like notifying winners or sending you our newsletter. This information is also used for internal purposes, such as marketing and research. But, it WILL NOT be sold, rented or given to anyone else unless we ask for and receive your permission at the time we collect personal information from you.
+The importance of security for all personally identifiable information associated with our guests is of utmost concern. We exercise great care in providing secure transmission of your information from your PC to our servers. Unfortunately, no data transmission over the Internet can be guaranteed to be 100 percent secure. As a result, while we strive to protect your personal information, we can't ensure or warrant the security of any information you transmit to or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. When credit card information is transmitted, we use industry-standard encryption. 
 
-If you're under twelve years old, you should not be submitting any personal information like this without your parents' permission. You'll notice that when we have pages which ask for personal information we include reminders asking kids to get parental permission before submitting. 
+**INTERNET SAFETY TIPS**
 
-We may occasionally ask, on a voluntary basis and with prior parental permission, if appropriate, for personal information to provide to sponsors of particular activities. This will be made clear in each individual case where we have third-party sponsors and you will have the opportunity to participate in these activities even if you choose not to give permission to Marvel to share this information with our sponsors. 
+Just like Marvel's mutant character Mystique, people are not always who they seem. Because the Internet is a place where people can disguise themselves and their true intentions very easily, always remember to: 
 
-MAIL'S IN!  
-Marvel uses automated e-mail systems to communicate with registered members of our premium website, the Marvel Zone, to operate a weekly broadcast the "Mighty Marvel Mailer" and to collect and answer regular correspondence. Sometimes we don't have time to answer every message, but we do read all of them!
+1\. Keep your passwords private, even from your best friend. Your online service will never ask for them; neither should anyone else. 
 
-We try to make it easy to contact us and try give you easy instructions on how to remove yourself from automated messages each time we send you one. Please contact help@marvel.com with technical problems only.
+2\. Use only your member name and/or e-mail address when chatting or sending e-mail. Never give out personal information like your name, address or phone number. 
 
-SNACK TIME   
-We may occasionally use "cookie" technology to enhance your online experience by making it easier for you to navigate through our pages or to make an activity work better. 
+3\. Don't share photos of yourself, your family, or your home with people you meet online. 
 
-Cookies are small files our website puts on your hard disk which allow your computer to "remember" information for future use. We DO NOT extract individual information about you or your computer during this process. 
+4\. Always delete unknown e-mail attachments without opening them. They can contain destructive viruses. 
 
-We will analyze information about our users as a group to make our websites better, but you won't be individually identified when we do this.
+5\. If a person writes something that is mean or makes you feel uncomfortable, don't respond. Just log off and tell your parents, who can report it to your online service provider. 
 
-LINKS   
-We try to make sure that when there are links off our site, they are working and lead you to interesting, fun and informative areas. But it's hard to guarantee what exactly is presented on other sites or where links elsewhere may lead to. So, we can't be responsible when you leave our site and we recommend that kids check with an adult before surfing off to any new sites.
+6\. Remember nothing you write on the web is completely private, including e-mail. So be careful, and think before you type. 
 
-SECURITY  
-Marvel implements a variety of technologies to make our websites as secure as possible against unauthorized access and to protect the information you choose to provide to us. We periodically review and update these measures. 
+7\. Not everyone is as nice, cute and funny as they may sound online. Never make plans to meet an online "friend" in person. 
 
-SOME OF US ARE PARENTS, TOO   
-We're sensitive about children consulting with parents or guardians before furnishing personal information or ordering anything online. We try to remind kids about this and we encourage parents to supervise and join their children in exploring cyberspace. We're proud of our website, believe that it is suitable for Marvel fans of all ages and hope you enjoy it too. 
-
-Parents should also be aware of a growing variety of software capable of filtering online information to reflect their own choices and guidelines.
-What about my privacy?
-
-It is Marvel's policy to fundamentally respect and protect the privacy of visitors to our websites. 
-
-We DO NOT extract individual information about you or your computer at any time on our website. We will analyze information about our users as a group to make our websites better, but you won't be individually identified when we do this.
-
-We collect personal information like names or addresses, e-mail addresses, age, etc., but only when you voluntarily give it to us in sweepstakess, guestbooks or subscriptions. The most important thing we do with this information is to fulfill the activity you signed up for, like notifying winners or sending you our newsletter. This information is also used for internal purposes, such as marketing and research. But, it WILL NOT be sold, rented or given to anyone else unless we ask for and receive your permission at the time we collect personal information from you.
-
-If you're under twelve years old, you should not be submitting any personal information like this without your parents' permission. You'll notice that when we have pages which ask for personal information we include reminders asking kids to get parental permission before submitting. 
-
-We may occasionally ask, on a voluntary basis and with prior parental permission, if appropriate, for personal information to provide to sponsors of particular activities. This will be made clear in each individual case where we have third-party sponsors and you will have the opportunity to participate in these activities even if you choose not to give permission to Marvel to share this information with our sponsors. 
-
-MAIL'S IN!  
-Marvel uses automated e-mail systems to communicate with registered members of our premium website, the Marvel Zone, to operate a weekly broadcast the "Mighty Marvel Mailer" and to collect and answer regular correspondence. Sometimes we don't have time to answer every message, but we do read all of them!
-
-We try to make it easy to contact us and try give you easy instructions on how to remove yourself from automated messages each time we send you one. Please contact help@marvel.com with technical problems only.
-
-SNACK TIME   
-We may occasionally use "cookie" technology to enhance your online experience by making it easier for you to navigate through our pages or to make an activity work better. 
-
-Cookies are small files our website puts on your hard disk which allow your computer to "remember" information for future use. We DO NOT extract individual information about you or your computer during this process. 
-
-We will analyze information about our users as a group to make our websites better, but you won't be individually identified when we do this.
-
-LINKS   
-We try to make sure that when there are links off our site, they are working and lead you to interesting, fun and informative areas. But it's hard to guarantee what exactly is presented on other sites or where links elsewhere may lead to. So, we can't be responsible when you leave our site and we recommend that kids check with an adult before surfing off to any new sites.
-
-SECURITY  
-Marvel implements a variety of technologies to make our websites as secure as possible against unauthorized access and to protect the information you choose to provide to us. We periodically review and update these measures. 
-
-SOME OF US ARE PARENTS, TOO   
-We're sensitive about children consulting with parents or guardians before furnishing personal information or ordering anything online. We try to remind kids about this and we encourage parents to supervise and join their children in exploring cyberspace. We're proud of our website, believe that it is suitable for Marvel fans of all ages and hope you enjoy it too. 
-
-Parents should also be aware of a growing variety of software capable of filtering online information to reflect their own choices and guidelines.
+8\. When in doubt, ask your parents for help. If you're not sure, just log off. You always can go back online later. 
