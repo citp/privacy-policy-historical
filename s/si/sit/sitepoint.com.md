@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sitepoint.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210125601id_/http%3A//www.sitepoint.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitepoint.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622064105id_/http%3A//www.sitepoint.com/privacy.php) for the most accurate reproduction.*
 
-# SitePoint : Privacy Policy
+# Privacy Policy
 
-Privacy Policy
+[Home](https://web.archive.org/) » Privacy Policy 
 
 This is a privacy policy for SitePoint Pty Ltd. SitePoint respects your privacy. Below is an outline of the information that SitePoint gathers, how it´s used, and how you can "opt-out": 
 
