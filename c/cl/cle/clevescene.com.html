@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the clevescene.com privacy policy that was archived on 2000-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20000616105621id_/http%3A//www.clevescene.com/about/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the clevescene.com privacy policy that was archived on 2000-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001207041100id_/http%3A//clevescene.com/about/privacy_policy.html) for the most accurate reproduction.-->
 
 <html><head>
 <!-- Begin standard_html_header (actually it start above the html tag) -->
@@ -21,7 +21,7 @@ var c = new adsize(120,60);
 var d = new adsize(120,90);
 var v = new adsize("120v");     
 
-function ad(site,category,size,id) {
+function ad(site,category,size,id,ad_loc) {
 if (size == "") {
     size = "a";
 } // default size
@@ -35,6 +35,7 @@ var ad = "";
 var path_info = "site=" + site +
                 "&category=" + category +
                 "&size=" + size_name +
+                "&loc=" + ad_loc +
                 "&id=" + id;
 var yourHREF = "http://ads.newtimes.com/click.ng/?" + path_info;
 var yourSRC = "http://ads.newtimes.com/image.ng/?" + path_info;
@@ -61,7 +62,13 @@ document.write(ad);
 
 <!--//
 function openElink() {
-window.open("http://www.clevescene.com/about/elink","thwindow","toolbar=no,width=325,height=425,status=no,scrollbars=yes,resize=no,menubar=no");
+window.open("http://www.clevescene.com/about/elink.html","thwindow","toolbar=no,width=325,height=425,status=no,scrollbars=yes,resize=no,menubar=no");
+}
+//-->
+
+<!--//
+function openElink2(theLink) {
+window.open(theLink,"thwindow","toolbar=no,width=325,height=425,status=no,scrollbars=yes,resize=no,menubar=no");
 }
 //-->
 
@@ -251,9 +258,10 @@ function dmim(msgStr) {
 
 		 
 		 
-         .navigation { font-family: "Verdana", "Helvetica", "Arial",  san-serif;
-		   color: black;
-         }
+	div.navigation { font-family: "Helvetica", "Arial", "Verdana", san-serif;
+          font-size: 9pt;
+          font-percentage:70%;
+           }
 		 
          .navigation A {text-decoration: none; }
          .navigation A:visited { color: #9f0003; }
@@ -293,8 +301,8 @@ function dmim(msgStr) {
     }else{
       var adid = "folonari";
     }
-     ad("cle","other","c",adid);
-   </script><a href="http://ads.newtimes.com/click.ng/?site=cle&amp;category=other&amp;size=c&amp;id=about&amp;transactionID=1580467481546"><center><img src="http://ads.newtimes.com/image.ng/?site=cle&amp;category=other&amp;size=c&amp;id=about&amp;transactionID=1580467481546" width="120" height="60" border="0" alt="advertisement"></center></a>
+     ad("cle","other","c",adid,"1");
+   </script><a href="http://ads.newtimes.com/click.ng/?site=cle&amp;category=other&amp;size=c&amp;loc=1&amp;id=about&amp;transactionID=1580467482727"><center><img src="http://ads.newtimes.com/image.ng/?site=cle&amp;category=other&amp;size=c&amp;loc=1&amp;id=about&amp;transactionID=1580467482727" width="120" height="60" border="0" alt="advertisement"></center></a>
 
    <noscript>
     <A HREF="http://ads.newtimes.com/click.ng/?site=cle&category=other&size=c&id=about">
@@ -326,8 +334,8 @@ function dmim(msgStr) {
     }else{
       var adid = "folonari";
     }
-     ad("cle","other","a",adid);
-   </script><a href="http://ads.newtimes.com/click.ng/?site=cle&amp;category=other&amp;size=a&amp;id=about&amp;transactionID=1580467481547"><center><img src="http://ads.newtimes.com/image.ng/?site=cle&amp;category=other&amp;size=a&amp;id=about&amp;transactionID=1580467481547" width="468" height="60" border="0" alt="advertisement"></center></a>
+     ad("cle","other","a",adid,"1");
+   </script><a href="http://ads.newtimes.com/click.ng/?site=cle&amp;category=other&amp;size=a&amp;loc=1&amp;id=about&amp;transactionID=1580467482734"><center><img src="http://ads.newtimes.com/image.ng/?site=cle&amp;category=other&amp;size=a&amp;loc=1&amp;id=about&amp;transactionID=1580467482734" width="468" height="60" border="0" alt="advertisement"></center></a>
 
    <noscript>
     <A HREF="http://ads.newtimes.com/click.ng/?site=cle&category=other&size=a&id=about">
@@ -366,9 +374,9 @@ function dmim(msgStr) {
     <table cellspacing="0" cellpadding="0" width="110" border="0" align="center">
      <tbody><tr>
       <td valign="middle" align="left" height="30">
-      <small><small><div class="navigation"><b>	
-       Friday</b>
-       <br>June 16, 2000</div></small></small>
+     <div class="navigation"><small><small><b>	
+       Wednesday</b>
+       <br>December 6, 2000</small></small></div>
       </td>
      </tr>
     </tbody></table>
@@ -378,7 +386,7 @@ function dmim(msgStr) {
  <tr>
   <td bgcolor="#9f0003" valign="middle" align="left" nowrap="">
    <img src="/palette0/spacer_t.gif" alt="" width="1" height="0" align="LEFT">
-   <div class="navigationhead">Site Search</div>
+   <div class="navigationhead"><small><small>Site Search</small></small></div>
   </td>
  </tr>
 
@@ -392,7 +400,7 @@ function dmim(msgStr) {
   <tr>
   <td align="left" bgcolor="#e0e0e0">
     <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
-   <small><small><div class="navigation"><a href="/search/index.html">Enhanced search</a></div></small></small>
+  <div class="navigation"><a href="/search/index.html"><small><small>Enhanced search</small></small></a></div>
   </td>
  </tr>
 
@@ -402,9 +410,9 @@ function dmim(msgStr) {
  <tr>
   <td bgcolor="#9f0003" valign="middle" align="left">
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
-   <div class="navigationhead">
-          In About
-      </div>
+   <div class="navigationhead"><small><small>
+          In <small><small>About</small></small>
+      </small></small></div>
   </td>
  </tr>
    
@@ -463,6 +471,16 @@ function dmim(msgStr) {
   <td valign="middle" bgcolor="#e0e0e0" nowrap="">
   <small><small><div class="navigation">
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
+   <a href="/about/internships.html" onmouseover="window.status='Internships'; return true">Internships</a>
+      </div></small></small>
+  </td>
+ </tr>
+   
+		
+ <tr>
+  <td valign="middle" bgcolor="#e0e0e0" nowrap="">
+  <small><small><div class="navigation">
+   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
    <a href="/about/tools.html" onmouseover="window.status='Getting the most out of clevescene.com'; return true">Tools</a>
       </div></small></small>
   </td>
@@ -482,143 +500,143 @@ function dmim(msgStr) {
  <tr>
   <td bgcolor="#9f0003" valign="middle" align="left">
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
-   <div class="navigationhead">Site Contents</div>
+  <div class="navigationhead"><small><small>Site Contents</small></small></div>
   </td>
  </tr>
 	
 		
  <tr>
   <td valign="middle" bgcolor="#e0e0e0" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
 <a href="/issues/current/news_toc.html" onmouseover="window.status='News'; return true">News</a>
-   </div></small></small>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#e0e0e0" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
 <a href="/issues/current/arts_toc.html" onmouseover="window.status='Art, Theater &amp; Dance'; return true">Arts</a>
-   </div></small></small>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#e0e0e0" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
 <a href="/issues/current/music_toc.html" onmouseover="window.status='Music'; return true">Music</a>
-   </div></small></small>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#e0e0e0" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
 <a href="/issues/current/cafe_toc.html" onmouseover="window.status='Cafe Reveiws &amp; Columns'; return true">Cafe</a>
-   </div></small></small>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#e0e0e0" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
 <a href="/issues/current/film_toc.html" onmouseover="window.status='Film &amp; Movie Reviews'; return true">Film</a>
-   </div></small></small>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#e0e0e0" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
 <a href="/issues/current/calendar_toc.html" onmouseover="window.status='Calendar, Night &amp; Day'; return true">Calendar</a>
-   </div></small></small>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#e0e0e0" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
 <a href="/classified/index.html" onmouseover="window.status='Everything Must Go!'; return true">Classified</a>
-   </div></small></small>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#e0e0e0" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
-<a href="/romance/index.html" onmouseover="window.status='Romance'; return true">Romance</a>
-   </div></small></small>
+<a href="http://romance.clevescene.com/index.html" onmouseover="window.status='Romance'; return true">Romance</a>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#e0e0e0" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
-<a href="/listings/wildside/index.html" onmouseover="window.status='Take a walk on the Wild Side'; return true">Wild Side</a>
-   </div></small></small>
+<a href="/wild/index.html" onmouseover="window.status='Take a walk on the Wild Side'; return true">Wild Side</a>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#e0e0e0" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
 <a href="/search/index.html" onmouseover="window.status='Search the archives'; return true">Archives</a>
-   </div></small></small>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#e0e0e0" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
 <a href="/discussions/" onmouseover="window.status='clevescene.com discussion boards'; return true">Discussions</a>
-   </div></small></small>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#e0e0e0" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
 <a href="/letters/" onmouseover="window.status='Letters to the editor'; return true">Letters</a>
-   </div></small></small>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#e0e0e0" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
-<a href="/boc/1999/index.html" onmouseover="window.status='Best of Cleveland 1999'; return true">Best of Cleveland</a>
-   </div></small></small>
+<a href="/bestof/2000/index.html" onmouseover="window.status='Best of Cleveland 2000'; return true">Best of Cleveland</a>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#e0e0e0" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
 <a href="/about/index.html" onmouseover="window.status='About clevescene.com'; return true">About</a>
-   </div></small></small>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#e0e0e0" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
 <a href="/about/subscribe.html" onmouseover="window.status='Subscribe to clevescene.com e-maillist'; return true">Subscribe</a>
-   </div></small></small>
+   </small></small></div>
   </td>
  </tr>
  
@@ -688,9 +706,16 @@ function dmim(msgStr) {
 </p><p></p>
 
 
+
 <p></p>
 
-  <!--Begin nd_ad-->
+    
+
+
+  
+
+      <p>
+    <!--Begin nd_ad-->
 
 
 
@@ -707,24 +732,26 @@ function dmim(msgStr) {
     }else{
       var adid = "folonari";
     }
-     ad("cle","other","v",adid);
-   </script><a href="http://ads.newtimes.com/click.ng/?site=cle&amp;category=other&amp;size=120v&amp;id=about&amp;transactionID=1580467481582"><center><img src="http://ads.newtimes.com/image.ng/?site=cle&amp;category=other&amp;size=120v&amp;id=about&amp;transactionID=1580467481582" width="120" border="0" alt="advertisement"></center></a>
+     ad("cle","other","v",adid,"1");
+   </script><a href="http://ads.newtimes.com/click.ng/?site=cle&amp;category=other&amp;size=120v&amp;loc=1&amp;id=about&amp;transactionID=1580467482806"></a></font></p><center><font color="white"><a href="http://ads.newtimes.com/click.ng/?site=cle&amp;category=other&amp;size=120v&amp;loc=1&amp;id=about&amp;transactionID=1580467482806"><img src="http://ads.newtimes.com/image.ng/?site=cle&amp;category=other&amp;size=120v&amp;loc=1&amp;id=about&amp;transactionID=1580467482806" width="120" border="0" alt="advertisement"></a></font></center><font color="white">
 
    <noscript>
-    <A HREF="http://ads.newtimes.com/click.ng/?site=cle&category=other&size=v&id=about">
-    <IMG SRC="http://ads.newtimes.com/image.ng/?site=cle&category=other&size=v&id=about" width=120 height= Border=0 ALT="clevescene.com Advertiser"></A>
+    <A HREF="http://ads.newtimes.com/click.ng/?site=cle&category=other&size=120v&id=about">
+    <IMG SRC="http://ads.newtimes.com/image.ng/?site=cle&category=other&size=120v&id=about" width=120 height= Border=0 ALT="clevescene.com Advertiser"></A>
    </noscript>
   </font>
 <!--End ng_ad-->
-
-
+    <p></p>
+  
 <p></p>
+
+<br><img src="/palette0/spacer_t.gif" height="10"><br>
 
 <!-- </td> is on the standard_footer -->
 
 <!-- End right_column -->
 
-
+ 
 </td>
 </tr>
 </tbody></table>
@@ -761,12 +788,12 @@ function dmim(msgStr) {
 						 | <a href="/issues/current/film_toc.html" onmouseover="window.status='Film &amp; Movie Reviews'; return true">Film</a>
 						 | <a href="/issues/current/calendar_toc.html" onmouseover="window.status='Calendar, Night &amp; Day'; return true">Calendar</a>
 						 | <a href="/classified/index.html" onmouseover="window.status='Everything Must Go!'; return true">Classified</a>
-						 | <a href="/romance/index.html" onmouseover="window.status='Romance'; return true">Romance</a>
-						 | <a href="/listings/wildside/index.html" onmouseover="window.status='Take a walk on the Wild Side'; return true">Wild Side</a>
+						 | <a href="http://romance.clevescene.com/index.html" onmouseover="window.status='Romance'; return true">Romance</a>
+						 | <a href="/wild/index.html" onmouseover="window.status='Take a walk on the Wild Side'; return true">Wild Side</a>
 						 | <a href="/search/index.html" onmouseover="window.status='Search the archives'; return true">Archives</a>
 						 | <a href="/discussions/" onmouseover="window.status='clevescene.com discussion boards'; return true">Discussions</a>
 						 | <a href="/letters/" onmouseover="window.status='Letters to the editor'; return true">Letters</a>
-						 | <a href="/boc/1999/index.html" onmouseover="window.status='Best of Cleveland 1999'; return true">Best of Cleveland</a>
+						 | <a href="/bestof/2000/index.html" onmouseover="window.status='Best of Cleveland 2000'; return true">Best of Cleveland</a>
 						 | <a href="/about/index.html" onmouseover="window.status='About clevescene.com'; return true">About</a>
 						 | <a href="/about/subscribe.html" onmouseover="window.status='Subscribe to clevescene.com e-maillist'; return true">Subscribe</a>
 						<hr size="1">
@@ -784,11 +811,11 @@ function dmim(msgStr) {
 
 
 
-<!-- Served by: node5.newtimes.com on: 2000/06/16 03:16:2.80343 US/Mountain -->
+<!-- Served by: node5.newtimes.com on: 2000/12/06 04:39:33.8713 US/Mountain -->
 
 
 <!-- End standard_html_footer -->
 
 <!-- End privay_policy -->
-<!-- Cached: Fri Jun 16 03:16:02 2000 -->
+<!-- Cached: Wed Dec  6 04:39:33 2000 -->
 </body></html>
