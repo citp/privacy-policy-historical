@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torontoseeker.com privacy policy that was archived on 2004-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040526043648id_/http%3A//www.torontoseeker.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torontoseeker.com privacy policy that was archived on 2004-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041213042443id_/http%3A//www.torontoseeker.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
