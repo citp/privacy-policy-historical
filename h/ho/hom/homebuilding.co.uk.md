@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homebuilding.co.uk privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017025138id_/http%3A//www.homebuilding.co.uk/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homebuilding.co.uk privacy policy that was archived on 2003-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030413181225id_/http%3A//www.homebuilding.co.uk/Privacy.asp) for the most accurate reproduction.*
 
 # Homebuilding & Renovating Online
 
@@ -41,4 +41,4 @@ Any changes to our policy will be posted here.
 
 Tell us what you think.
 
-homebuilding.co.uk welcomes your questions and comments. Please e-mail us at: [customerservice@ascent.co.uk](mailto:customerservice@ascent.co.uk)
+homebuilding.co.uk welcomes your questions and comments. Please e-mail us at: [customerservice@centaur.co.uk](mailto:customerservice@centaur.co.uk)
