@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innovationads.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207114859id_/http%3A//www.innovationads.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innovationads.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603114919id_/http%3A//innovationads.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # About
 
@@ -56,4 +56,4 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
 
-[request more information](https://web.archive.org/web/20031207114859id_/http%3A//www.innovationads.com/informationrequest.htm)
+[request more information](https://web.archive.org/web/20040603114919id_/http%3A//innovationads.com/informationrequest.htm)
