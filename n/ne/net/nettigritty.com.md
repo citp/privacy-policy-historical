@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nettigritty.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203082806id_/http%3A//hosting.nettigritty.com/tos/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nettigritty.com privacy policy that was archived on 2004-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040405164057id_/http%3A//www.nettigritty.com/hosting/tos/privacy.html) for the most accurate reproduction.*
 
-# Hosting starts at Rs400 for 10MB per year :: nettigritty.com
+# Privacy policy | nettigritty.com
 
 At nettigritty.com, our mission is to meet the expectancies of our clients. In an effort to achieve our goal, we would like to clearly define our position with regard to the Internet, our Web site and your identity. The following outlines our information gathering and disbursement procedures for our site located at nettigritty.com.
 
