@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tes.co.uk privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208151050id_/http%3A//tes.co.uk/site_information/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tes.co.uk privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603081432id_/http%3A//www1.tes.co.uk/site_information/privacy_policy.asp) for the most accurate reproduction.*
 
 # Education news & resources at the Times Educational Supplement
 
