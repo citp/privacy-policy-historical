@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theregister.co.uk privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602214152id_/http%3A//www.theregister.co.uk/content/31/28796.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theregister.co.uk privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203041905id_/http%3A//theregister.co.uk/content/31/28796.html) for the most accurate reproduction.*
 
 # The Register
 
@@ -21,11 +21,9 @@ The Register site does not use cookies - though some of our partners do (see 'Ad
 The Register site does record IP addresses and produces server logs – as all Web Servers do. This information is used solely for monitoring the volume of traffic the site receives and measuring the number of readers. We do not use the information for tracking the activities of specific visitors to the site. 
 
 **Advertising**   
-The Register contains links to many third-party Web sites and displays advertisements from third-parties through third-party advertisement servers. Current Register advertising server partners include DoubleClick and VibrantMedia. The latter's cookie, activated through a 1x1-pixel invisible image, known as a 'web bug', records only the URL of the page you are already viewing, for the purpose of returning you to that page should you click on an ad served by VibrantMedia. No personal data is recorded. 
+The Register contains links to many third-party Web sites and displays advertisements from third-parties through third-party advertisement servers. Current Register advertising server partners include DoubleClick. 
 
-DoubleClick's 
-
-privacy policy stresses that it does not use any information gathered through its cookies for its own use. Such data as it makes available to us is not used beyond the collation of broad calculations to measure the size of our readership. Concerned users can opt out of its cookie system [here](http://www.doubleclick.com/us/corporate/privacy/privacy/ad-cookie/default.asp?asp_object_1=&). 
+DoubleClick's [privacy policy](http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp?asp_object_1=&) stresses that it does not use any information gathered through its cookies for its own use. Such data as it makes available to us is not used beyond the collation of broad calculations to measure the size of our readership. Concerned users can opt out of its cookie system [here](http://www.doubleclick.com/us/corporate/privacy/privacy/ad-cookie/default.asp?asp_object_1=&). 
 
 If you encounter any problems with the advertising please contact: [Philip Mitchell](mailto:philip.mitchell@theregister.co.uk). 
 
@@ -61,18 +59,12 @@ _If_ permission is granted, this information may be used to target specific user
 _If_ permission is granted, this information may be used to send occasional emails from the Register containing offers from our partners. This will be provided solely to readers who have specifically given us permission to use their information in this way. 
 
 **Third Parties**   
-The Register has partnered with other organisations to provide you with some services such as VCISP and the bookshop. All have their own privacy policies, which can be found here:
+The Register has partnered with other organisations to provide you with some services such as VCISP and the bookshop. All have their own privacy policies, which can be found here: 
 
-  *  **Affinity:** Operates VCISP   
-Privacy Policy located at: <http://www.vcisp.net/info/legal/privacy.html>
   * **WorldPay:** Provides The Register's credit card processing facilities   
-Privacy Policy located at:   
-<http://www.worldpay.com/guarantee/terms.shtml>
-  * **IT-Minds:** Provides The Register's books   
-Privacy Policy located at: [http://www.metrinets.com/panelrecruitment/privacypolicy.html](http://www.it-minds.com/privacy.asp%3Ehttp://www.it-minds.com/privacy.asp%3C/a%3E%3Cbr%3E%3Cbr%3E%3Cb%3EMetrinets:%3C/b%3E%20Operates%20The%20Register's%20Reader%20Study%20%3Cbr%3EPrivacy%20Policy:%20%3Cbr%3E%3Ca%20href=)
-
- **Security**   
-The Register takes security of personal information very seriously indeed. All data collection is undertaken using up to date, industry standards to ensure that the data is collected and stored securely. Access to the data is strictly limited to designated employees of The Register and is covered by our own internal security procedures. 
+Privacy Policy located at: <http://www.worldpay.com/guarantee/terms.shtml>
+  * Pearson Education: Provides The Register's books   
+Privacy Policy located at: [here](http://www.pearsoned.co.uk/Privacynotice/)
 
 **Data Protection**   
 Anyone who provides The Register with personal information is given the opportunity to manage how that information is used. This includes opting out of any services and restricting the use of that information. You can do that by visiting [this address](http://list.theregister.co.uk/cgi-bin/unsub.cgi) or by contacting [Philip Mitchell](mailto:philip.mitchell@theregister.co.uk). 
@@ -106,3 +98,6 @@ By Fax:
 0870 458 1768
 
 **
+
+
+
