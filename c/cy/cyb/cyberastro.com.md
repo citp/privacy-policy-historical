@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberastro.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206094619id_/http%3A//www.cyberastro.com/pubdoc/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberastro.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606165002id_/http%3A//www.cyberastro.com/pubdoc/privacy.asp) for the most accurate reproduction.*
 
 # CyberAstro.com - Vedic Astrology for the new Millennium
 
