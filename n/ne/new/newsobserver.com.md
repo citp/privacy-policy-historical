@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the newsobserver.com privacy policy that was archived on 2000-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000520040311id_/http%3A//www.news-observer.com/policies/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsobserver.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211154659id_/http%3A//www.newsobserver.com/triangle.com/help/policies/story/1612714p-1345629c.html) for the most accurate reproduction.*
 
-# 
+# triangle.com
 
-**The News & Observer PRIVACY POLICY**
+****
+
+Privacy Policy  
+ ****  
+
+
+**The News & Observer Privacy Policy **
 
 The News & Observer has a firm commitment to privacy. We take your privacy concerns seriously and want to make every effort to address them. That is why we have adopted the following policy, which explains our position on information-gathering and disclosure. 
 
@@ -10,7 +16,7 @@ The News & Observer has a firm commitment to privacy. We take your privacy conce
 
 From time to time, we will ask for information that personally identifies you, as in our user surveys or registration for The News & Observer services such as e-mail, forums, or promotions. We use this information to operate The News & Observer's services, provide you with the highest quality services and offer you opportunities we think will be of interest. 
 
-We will **not** disclose any personal information without your advance permission except when we believe the law requires us to do so or the disclosure is necessary to protect the rights or property of The News & Observer, or as explained below or in our [User Agreement](https://web.archive.org/web/20000520040311id_/http%3A//www.news-observer.com/policies/user_agreement.html). 
+We will **not** disclose any personal information without your advance permission except when we believe the law requires us to do so or the disclosure is necessary to protect the rights or property of The News & Observer, or as explained below or in our [User Agreement](https://web.archive.org/triangle.com/help/policies/index.html). 
 
 In order to describe our services to prospective partners, advertisers and others, we may disclose user information but only in a form that does **not** identify individual users. For example, we might disclose that a certain percentage of our users are male or within a certain age range. 
 
@@ -20,12 +26,12 @@ Occasionally, we may disclose personal information in other circumstances, but w
 
 The News & Observer is particularly concerned with providing a safe online environment for kids. Therefore, in areas operated by The News & Observer that are directed to kids or when we learn that a user is under the age of 13, we will ask for parental consent before collecting additional personal information about the child or allowing the child to use the The News & Observer services to provide additional personal information. Parental consent can be provided in two ways: 
 
-  1. Send a fax copy of a completed Parental Consent Form, including your signature, to the facsimile number provided on the [Parental Consent Form](https://web.archive.org/web/20000520040311id_/http%3A//www.news-observer.com/policies/parental_consent.html) (which will be provided in applicable areas on our site); or 
+  1. Send a fax copy of a completed Parental Consent Form, including your signature, to the facsimile number provided on the [Parental Consent Form](https://web.archive.org/triangle.com/help/policies/index.html) (which will be provided in applicable areas on our site); or 
   2. Call our toll-free number at the telephone number provided on the Parental Consent Form. 
 
 
 
-The News & Observer will not knowingly disclose personal information about users under the age of 13 without prior parental consent, except as required by law. If for any reason you wish to access, update or remove information about your child or terminate your child's account, you may fax or call The News & Observer at the numbers listed above or send an e-mail to [webstaff@nando.com.](mailto:webstaff@nando.com)
+The News & Observer will not knowingly disclose personal information about users under the age of 13 without prior parental consent, except as required by law. If for any reason you wish to access, update or remove information about your child or terminate your child's account, you may fax or call The News & Observer at the numbers listed above or send an e-mail to [webstaff@newsobserver.com.](mailto:webstaff@newsobserver.com)
 
 The News & Observer strongly recommends parental supervision when a child uses the Internet, and particularly when a child enters a forum or uses e-mail. We also encourage parents to instruct their children not to give out personal information in these areas. 
 
@@ -39,11 +45,11 @@ A "cookie" is a small data text file that is placed in your browser and allows T
 
 **Direct Mailings and "Opting Out"**
 
-We may send you information about various products and services. If you don't want to receive this information, you can "opt out" by sending us an e-mail at [webstaff@nando.com.](mailto:webstaff@nando.com) and requesting that you not receive any of these of these offers. 
+We may send you information about various products and services. If you don't want to receive this information, you can "opt out" by sending us an e-mail at [webstaff@newsobserver.com.](mailto:webstaff@newsobserver.com) and requesting that you not receive any of these of these offers. 
 
 **You Can Change Your Private Information at any Time**
 
-Information you provide to The News & Observer may be stored by us for an indefinite time. However, please feel free to change, update or delete this information at any time by sending an e-mail to [webstaff@nando.com.](mailto:webstaff@nando.com). 
+Information you provide to The News & Observer may be stored by us for an indefinite time. However, please feel free to change, update or delete this information at any time by sending an e-mail to [webstaff@newsobserver.com.](mailto:webstaff@newsobserver.com). 
 
 **Remember The Risks Whenever You Use The Internet**
 
@@ -51,4 +57,6 @@ You should know that when you voluntarily disclose personal information on the T
 
 **Tell Us How We're Doing**
 
-If you have any questions or comments about our policies, please contact us by sending an e-mail to [webstaff@nando.com.](mailto:%3CA%20HREF=)">[webstaff@nando.com.](mailto:webstaff@nando.com). 
+If you have any questions or comments about our policies, please contact us by sending an e-mail to [webstaff@newsobserver.com.](mailto:webstaff@newsobserver.com)
+
+* * *
