@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autobytel.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604190828id_/http%3A//autobytel.com/content/home/help/index.cfm/action/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autobytel.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206234030id_/http%3A//autobytel.com/content/home/help/index.cfm/action/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Autobytel
 
@@ -106,3 +106,5 @@ If you have any questions, concerns or suggestions regarding our privacy and sec
 For any other issues, please contact our customer service department at [ConsumerCare@autobytel.com](mailto:consumercare@autobytel.com). Our mailing address is: 18872 MacArthur Boulevard, Irvine, CA 92612-1400 
 
 For the Autobytel.com Usage Terms and Conditions please [click here](https://web.archive.org/content/home/help/index.cfm?id4;ABTL&action=terms). 
+
+Effective Date: July 23, 2003 
