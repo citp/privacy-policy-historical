@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fortune.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603162158id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/fortune%3Fdnp_source%3DE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortune.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606124322id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/fortune%3Fdnp_source%3DE) for the most accurate reproduction.*
 
 # Fortune Privacy Policy
 
