@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachersfcu.org privacy policy that was archived on 2003-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030403022640id_/http%3A//www.teachersfcu.org/info/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachersfcu.org privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203055704id_/http%3A//www.teachersfcu.org/info/privacy.pdf) for the most accurate reproduction.*
 
 # NOTICE OF YOUR FINANCIAL PRIVACY RIGHTS
 
