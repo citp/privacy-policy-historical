@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dbforums.com privacy policy that was archived on 2001-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011206000704id_/http%3A//dbforums.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dbforums.com privacy policy that was archived on 2002-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020205114552id_/http%3A//dbforums.com/privacy.html) for the most accurate reproduction.*
 
 # dBforums Privacy Policy
 
@@ -16,6 +16,9 @@ We use IP addresses to analyze trends, administer the site, track user's movemen
 
 **Sharing**  
 Aggregated demographic information may be shared with selected third party advertisers as proof of traffic volume and target audience for the purpose securing advertising contracts on dBforums.com. The information is highly summarized and is in no way linked to individual visitors. 
+
+**Advertising**  
+We use third party advertising companies to serve banners. Please be aware that we are not responsible for the privacy practices of these companies. We currently use three of the leading advertising networks; [Adtegrity](http://www.adtegrity.com/privacy.asp), [Fastclick](http://fastclick.com/about/privacy.html) and [Commission Junction](http://cj.com/privacy.asp). You are encourage to read their privacy policies by following the links. 
 
 **Links**  
 This web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by dBforums.com. 
