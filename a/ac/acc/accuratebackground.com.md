@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accuratebackground.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206095329id_/http%3A//www.accuratebackground.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accuratebackground.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610101838id_/http%3A//www.accuratebackground.com/privacy.html) for the most accurate reproduction.*
 
 # Welcome To Accurate Background
 
