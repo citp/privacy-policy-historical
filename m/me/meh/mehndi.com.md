@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mehndi.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603050201id_/http%3A//www.mehndi.com/docs/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mehndi.com privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211224545id_/http%3A//www.mehndi.com/docs/privacypolicy.asp) for the most accurate reproduction.*
 
-# Mehndi.com - Privacy Policy
+# Mehndi.com Matrimonial - Privacy Policy
 
 This statement discloses the information gathering process and the privacy and dissemination practices for the Mehndi.com Web site. Mehndi.com has created this privacy statement in order to demonstrate our firm commitment to protect your personal privacy. 
 
@@ -42,4 +42,4 @@ Change/Delete
 
 Mehndi.com gives trial members and paid members an option for modifying or removing their information from our database. Your privacy is one of our highest priorities. 
 
-If you have any questions about the Privacy Policy of Mehndi.com, please email them to support@mehndi.com. 
+If you have any questions about the Privacy Policy of Mehndi.com, please email them to info@mehndi.com. 
