@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itworld.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602212747id_/http%3A//www.itworld.com/jpitw/ITW_FT/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itworld.com privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810130822id_/http%3A//www.itworld.com/Privacy) for the most accurate reproduction.*
 
 # ITworld.com - Privacy Policy
 
