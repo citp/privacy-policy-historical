@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the t1shopper.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401125939id_/http%3A//www.t1shopper.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the t1shopper.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206062900id_/http%3A//www.t1shopper.com/privacypolicy.shtml) for the most accurate reproduction.*
 
-# 
+# T1 Shopper Privacy Policy
 
 * * *
 
@@ -76,7 +76,7 @@ You will receive an e-mail from T1 Shopper indicating whether or not you have be
 
 **3\. How your information is used.**
 
-  * **Sharing information with our participating Carriers and ISP's.** After up to four participating Carriers and/or ISP's receive your information, they may contact you directly via phone, e-mail or other communications. All of our Carriers and real estate agents operate under federal and/or state laws and regulations and believe, as we do, that the Internet is an exciting and secure place to do business. If you are matched with any participating Carriers, the Lender with which you choose to close your service and/or obtain your credit card will report certain information about your service and/or credit card to T1 Shopper, and T1 Shopper will treat that information in the manner it treats the information you provided on your qualification form. As our Carriers and ISP's may keep and use your information whether or not you qualify for a transaction with them, we recommend that you contact them directly for more information about their specific privacy policies. 
+  * **Sharing information with our participating Carriers and ISP's.** After up to four participating Carriers and/or ISP's receive your information, they may contact you directly via phone, e-mail or other communications. All of our Carriers operate under federal and/or state laws and regulations and believe, as we do, that the Internet is an exciting and secure place to do business. If you are matched with any participating Carriers, the Carrier with which you choose to close your service may report certain information about your service to T1 Shopper, and T1 Shopper will treat that information in the manner it treats the information you provided on your qualification form. As our Carriers and ISP's may keep and use your information whether or not you qualify for a transaction with them, we recommend that you contact them directly for more information about their specific privacy policies. 
   * **Sharing information with third parties.** Following is an example of how T1 Shopper may act as an agent for our participating Carriers and ISP's. A Carrier may instruct us to share information with an Systems Integrator to prepare an proposal for the management of your corporate VPN. In such situations, we will be acting on behalf of the Client, under the authority of the Carrier's privacy policy, a copy of which you should receive from the Carrier. All of the information-sharing we do as agent for the Carrier would be permissible under applicable federal law for the Carrier to do directly.
 
 From time to time, T1 Shopper may notify you about a special offer from one of our promotional partners. At your request, T1 Shopper will not send you any information or offers unrelated to your request for financing. If you do not wish to receive any of these offers, please e-mail us at "sales @ T1Shopper.com" where you can easily remove yourself from our mailing list.
@@ -94,4 +94,4 @@ From time to time, T1 Shopper may notify you about a special offer from one of o
 If we make a change to our Privacy Policy in the future that will affect how we treat your information, we will notify you of the change unless you have requested to have your information deleted from our system.
 
 **This Privacy Policy was last updated on  
-January 16, 2003**
+April 19, 2003**
