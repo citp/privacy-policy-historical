@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the russianbrides.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408091241id_/http%3A//www.russianbrides.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the russianbrides.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205185910id_/http%3A//www.russianbrides.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Russianbrides.com Privacy policy
 
