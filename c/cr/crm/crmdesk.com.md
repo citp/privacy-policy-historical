@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crmdesk.com privacy policy that was archived on 2002-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021011125304id_/http%3A//www.crmdesk.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crmdesk.com privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412164607id_/http%3A//www.crmdesk.com/privacy_statement.htm) for the most accurate reproduction.*
 
-# Web based Help Desk, Customer Service and Online Support Software - CRMdesk - Privacy Statement
+# Web-based Help Desk, Customer Service and Online Support Software - CRMdesk - Privacy Statement
 
 SkyeyTech, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: CRMdesk.
 
