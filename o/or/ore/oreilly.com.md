@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oreilly.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603174248id_/http%3A//www.oreilly.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oreilly.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214222209id_/http%3A//www.oreilly.com/privacy_policy.html) for the most accurate reproduction.*
 
 # www.oreilly.com -- Welcome to O'Reilly & Associates! -- Privacy Policy
 
@@ -28,7 +28,7 @@ We use the personal information you provide voluntarily to send information you'
 
   * When you register for an O'Reilly conference, or sign up for a conference email list, we will send you email announcements and updates about O'Reilly conferences. We send conference brochures to past conference attendees.
 
-  * When you order books directly from us, or request book catalogs, we add you to our snailmail list, and wel send you catalogs and other marketing pieces.
+  * When you order books directly from us, or request book catalogs, we add you to our snailmail list, and will send you catalogs and other marketing pieces.
 
   * When you download demo versions of O'Reilly software from software.oreilly.com, we may provide a distributor with your contact information. Our software distributors are restricted from selling or re-using the contact information we share with them. We provide contact information only for software.oreilly.com users who actually download software.
 
