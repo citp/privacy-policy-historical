@@ -1,17 +1,20 @@
-> *The following text is extracted and transformed from the herald-review.com privacy policy that was archived on 2003-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030407175537id_/http%3A//www.herald-review.com/privacystatement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herald-review.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002125243id_/http%3A//www.herald-review.com/privacystatement.php) for the most accurate reproduction.*
 
-# Herald & Review News for Central Illinois
+# Herald & Review Newspaper Website - Decatur, Illinois
 
-### Welcome to the web site of the Herald & Review, a media company located in central Illinois. We believe in your right to know what information is collected during your visit to our web sites and how the information is used and safeguarded. 
+**Welcome to the web site of the Herald & Review, a media company located in central Illinois. We believe in your right to know what information is collected during your visit to our web sites and how the information is used and safeguarded. **
 
 The information gathered by the Herald & Review website falls into two categories: (1) information voluntarily supplied by visitors to our websites through optional registration and (2) tracking information gathered as visitors navigate through our sites. 
 
 **Other information on this Policy Statement site inlcudes:**
 
-Information Shared With Other Organizations   
-Special Attention to Children   
-A final note  
-Information Gathered by Voluntary Submission: 
+  * Information Shared With Other Organizations
+  * Special Attention to Children 
+  * A final note
+
+
+
+**Information Gathered by Voluntary Submission**
 
 To make use of certain features on our websites (such as discussion forums, or submitting events to our calendars) visitors need to register and to provide certain information as part of the registration or participation process. (We may ask, for example, for your name, email address, sex, age, and zip code, and we might request information on your interest in sports, personal finance, the performing arts, and the like.) 
 
@@ -38,11 +41,3 @@ Children should always get permission from their parents before sending any info
 The Herald & Review is affiliated with other online companies, some of which feature our branding. This policy statement does not apply to those companies' web sites; please refer to these affiliated sites to obtain information on their privacy policies. If you can't find the privacy policy of any of these sites via a link from the site's homepage, you should contact the site directly for more information. The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect. Of course, our use of information gathered while the current policy is in effect will always be consistent with the current policy, even if we change that policy later.
 
 E-mail comments to the Herald & Review at [ggrooms@herald-review.com](mailto:ggrooms@herald-review.com)
-
-[[top of page](http://www.herald-review.com/privacystatement.php#startOfPage)]  
-
-
-Copyright 1996-2001 Herald & Review, Decatur, IL, a division of [Lee Enterprises](http://www.lee.net/). All rights reserved.  
-Herald & Review, 601 East William Street, Decatur, IL, 217-429-5151  
-This, or any file with a copyright notice, may not be published, broadcast, or otherwise distributed without prior written permission.  
-[Read our Privacy Statement](http://www.herald-review.com/privacystatement.php)
