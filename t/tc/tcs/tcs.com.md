@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tcs.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606041406id_/http%3A//www.tcs.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcs.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208085314id_/http%3A//www.tcs.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # TCS - Privacy Policy
 
-**Tata Consultancy Services (TCS)** is sensitive to privacy issues on the Internet. We believe it is important you know how we treat the information about you, we receive from you, on the Internet. 
+**Tata Consultancy Services Limited (TCS)** is sensitive to privacy issues on the Internet. We believe it is important you know how we treat the information about you, we receive from you, on the Internet. 
 
 In general, you can visit TCS on the World Wide Web without telling us who you are or revealing any information about yourself. Our Web servers collect the domain names, not the e-mail addresses, of visitors. This information is aggregated to measure the number of visits, average time spent on the site, pages viewed, etc. TCS uses this information to measure the use of our site and to improve the content of our site. Your accessing our site signifies your unconditional consent to allow the collection of your domain names.
 
@@ -14,5 +14,4 @@ At times we conduct on-line surveys to better understand the needs and profile o
 
 You recognize and understand that there is no compulsion on you to provide us with your personal information and any and all personal information provided by you to us is with your full consent, own volition and desire to provide such personal information. You also understand that we are under no obligation to verify the source from which the personal information about you is provided to us, and they are deemed to be provided by you, unless you demonstrate to us within a period of fifteen days from the date of providing of such information to us, to our satisfaction, that the information was provided to us without your free consent.
 
-TCS's Web site may contain links to other sites such as TCS partners and affiliates. While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content or the privacy practices employed by other sites.  
-
+TCS's Web site may contain links to other sites such as TCS partners and affiliates. While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content or the privacy practices employed by other sites.
