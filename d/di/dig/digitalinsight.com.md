@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalinsight.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604014538id_/http%3A//digitalinsight.com/ps/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalinsight.com privacy policy that was archived on 2001-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010816031107id_/http%3A//www.digitalinsight.com/ps/privacy_statement.html) for the most accurate reproduction.*
 
 # Products and Services
 
