@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redhat.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603132849id_/http%3A//redhat.com/legal/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redhat.com privacy policy that was archived on 2001-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011108051902id_/http%3A//www.redhat.com/apps/redirect.apm/legal/privacy_statement.html%3Frhpage%3D/index.html/footer%2A%2A) for the most accurate reproduction.*
 
 # redhat.com | Privacy Statement
 
@@ -10,6 +10,8 @@ Below you will find a detailed account of Red Hat's privacy practices. If you ha
 
    
 **Collected Information**
+
+* * *
 
 **User Registration Information**  
 We think our customers understand better than anyone else how Red Hat can most effectively serve their needs. Because of this, Red Hat makes every effort to allow our customers to define the relationship they will have with us. We ask our customers how they would like Red Hat to communicate with them, if at all. We disclose how we will be using our customers' information through documents like this one, or by answering individual questions customers may ask. Also, we never sell our customers' information or provide it to others without making it clear that we intend to do so at the time the information is collected.
@@ -35,7 +37,11 @@ Our online surveys ask you for contact information (like your email address) and
 We run contests on our site and at trade shows in which we ask you for contact information (like your email address), unique identifiers (like your password), and demographic information (like your occupation). We may use data from these contests and trade shows to contact you or to allow appropriate business partners to contact you.
 
    
-**Cookies and Other Browser Information** Our site automatically captures IP addresses. We use IP addresses to help diagnose problems with our server, to administer our website, and to help ensure the security of your interaction with the website. Your IP address is used to help identify you and your shopping cart.
+**Cookies and Other Browser Information**
+
+* * *
+
+Our site automatically captures IP addresses. We use IP addresses to help diagnose problems with our server, to administer our website, and to help ensure the security of your interaction with the website. Your IP address is used to help identify you and your shopping cart. 
 
 As part of offering and providing customizable and personalized services, Red Hat uses cookies to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. All sections of redhat.com where you are prompted to log in or that are customizable require your web browser to accept cookies.
 
@@ -52,7 +58,9 @@ Generally, we use cookies to:
    
 **Other Data Uses**
 
-**Uses of Third Party Data and Agregated Data**  
+* * *
+
+**Uses of Third Party Data and Aggregated Data**  
 Under confidentiality agreements, Red Hat may match user information with third-party data. Also, Red Hat discloses aggregated user statistics in order to describe our services to current and prospective partners, advertisers, and other third parties.
 
 **About Advertisers**  
@@ -64,10 +72,16 @@ Companies that place advertising on our site may collect information about you i
 This site contains links to other sites. Red Hat does not control the information collection of sites that can be reached through links from redhat.com. If you have questions about the data collection practices of linked sites, please contact those companies directly.
 
    
-**Public Forums Reminder** This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information. Exercise caution when deciding to disclose your personal information. 
+**Public Forums Reminder**
+
+* * *
+
+This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information. Exercise caution when deciding to disclose your personal information. 
 
    
 **Questions and Answers**
+
+* * *
 
 **How Can I Opt Out?**  
 This site gives you the ability to opt out of receiving communications from Red Hat if you choose. When you register or order a product, simply choose "I do not wish to be contacted" underneath the Contact Method section. If you decide that you would like to opt out of communications at a later date, you may do so by clicking on "My Account" at the bottom of the redhat.com homepage or by going to: 
