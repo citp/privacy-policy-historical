@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizbash.com privacy policy that was archived on 2001-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011020220628id_/http%3A//bizbash.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizbash.com privacy policy that was archived on 2002-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020203155503id_/http%3A//bizbash.com/privacy.asp) for the most accurate reproduction.*
 
 # BiZBash - Privacy
 
@@ -13,17 +13,6 @@ Resale or disclosure of information to third parties: BiZBash.com does not sell,
 Browser information collected on BiZBash.com: BiZBash.com analyzes our Web site materials and logs of your visit(s) and usage to constantly improve the value of the content and tools available on our Web site. Our Web site logs are not personally identifiable, with the exception of our _**Connect**_ feature. 
 
 Use of cookies for remembering login: The login feature of the BiZBash.com site has an **optional** checkbox for remembering a person's login (email address) and password so that you do not have to type it in each time you visit the site. This feature stores a cookie on your computer hard drive for your email address and password. 
-
-Use of cookies for advertising: Some of the advertising displayed on our site is delivered by AdForce, Inc. In the course of serving ads, AdForce collects certain non-personally identifiable data by placing a ‘cookie’ (a small file containing a unique, randomly selected alphanumeric tag) on a consumer’s computer hard drive. The non-personally identifiable information collected in connection with a cookie includes:
-
-  *  browser type (i.e., IE 3.x, etc.) 
-  *  operating system (i.e., Macintosh, PC, etc.) 
-  *  IP Address of the machine (browser/proxy) connecting to AdForce (this is not your email address) 
-  *  date a particular ad was served 
-  *  time a particular ad was served
-  *  advertisement tag (placed by a Web site on a Web page to call up an ad).
-
-This information is used by AdForce to deliver tailored ads to you and in the aggregate for statistical purposes. We use this information for reporting purposes and to bill our advertisers. Please note that AdForce cannot collect any personal information about you (such as your name, address, phone number or email address) when it delivers ads to our Web site. If you would like to learn more about AdForce’s information gathering practices, or if you would like to “opt-out” of having a unique cookie on your hard drive, please click [here](http://www.adforce.com/company/privacy/privacypolicy.asp). 
 
 Privacy of our email lists:   
 BiZBash.com maintains several email lists to keep visitors and clients informed about breaking news. Individuals must affirmatively ask to join our mailing lists by contacting BiZBash.com staff by clicking [here](http://bizbash.com/newsletter/subscribe.html). Individuals may also change information or opt-out of our email list by clicking [here](http://bizbash.com/newsletter/unsubscribe.html).We do not sell, rent, loan, trade, or lease the addresses on our list to anyone but our affiliated companies. In addition, we configure our list server software to refuse to divulge the email addresses of our list subscribers to anyone but authorized BiZBash.com personnel. 
