@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comsuper.gov.au privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207200120id_/http%3A//www.comsuper.gov.au/pages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comsuper.gov.au privacy policy that was archived on 2003-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030623053736id_/http%3A//www.comsuper.gov.au/pages/privacy.htm) for the most accurate reproduction.*
 
 # Privacy and Security Statements
 
