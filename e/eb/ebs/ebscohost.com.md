@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebscohost.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202030035id_/http%3A//bll.epnet.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebscohost.com privacy policy that was archived on 2004-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040615063449id_/http%3A//bll.epnet.com/html/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,7 +36,7 @@ This Privacy Policy sets forth the privacy practices in effect at the EBSCO Info
 
 **Questions?**
 
-> If you have any questions, comments, or concerns regarding the EBSCO Information Services privacy policy or practices, please go to our [Feedback/Comments](http://www.ebsco.com/home/feedback.asp) page and send us an [e-mail](mailto:eptech@epnet.com) or write to us at the addresses found at that page.
+> If you have any questions, comments, or concerns regarding the EBSCO Information Services privacy policy or practices, please go to our [Feedback/Comments](http://www.ebsco.com/home/feedback.asp) page and [ Contact](http://support.epnet.com/CustSupport/Customer/OpenCase.aspx) us or write to us at the addresses found at that page.
 > 
 > We will notify you of changes to the EBSCO Information Services Website Privacy Policy by posting an updated policy on this page with a notification link to this page from the home page or by a "News Box." You agree that continued use of the web site is an acknowledgment and consent to any terms contained in the then-current EBSCO Information Services Web site Privacy Policy.   
 > 
