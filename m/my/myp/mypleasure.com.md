@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the mypleasure.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216092136id_/http%3A//mypleasure.com/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypleasure.com privacy policy that was archived on 2002-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020205091139id_/http%3A//www.mypleasure.com/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # MyPleasure.com Privacy Policy
 
   
 **PRIVACY POLICY STATEMENT**
 
-|  This confirms that MyPleasure.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of: 
+|  This confirms that MyPleasure.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of: 
 
   1. What personally identifiable information of yours or third party personally identifiable information that is collected from you through the web site 
   2. The organization collecting the information 
@@ -13,11 +13,11 @@
   4. With whom the information may be shared 
   5. What choices are available to you regarding collection, use and distribution of the information 
   6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under (Name of the Company) control 
-  7. How you can correct any inaccuracies in the information. 
+  7. How you can correct any inaccuracies in the information 
 
 |  [](https://www.truste.org/validate/11184)  
 ---|---  
-If you have questions or concerns regarding this statement, you should first contact the MyPleasure Privacy Team by email at privacy@mypleasure.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/watchdog.html). TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact the MyPleasure Privacy Team by email at [privacy@mypleasure.com](mailto:privacy@mypleasure.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/watchdog.html). TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
 **Information Collection and Use**  
 MyPleasure.com will not share, sell or rent this information to others in any way other than as disclosed in this policy or stated at the point where the information is collected. MyPleasure.com collects information from our users in several areas of our Web site as described in this privacy policy. 
@@ -26,7 +26,7 @@ MyPleasure.com will not share, sell or rent this information to others in any wa
 We request information from you on our order form, including your contact information (such as name and shipping address) and financial information (such as credit card number and expiration date). This information is used to fill your orders and for billing and shipping purposes. If we have trouble processing your order, we may use this contact information to get in touch with you. We share this information, and only that information that we believe is necessary, with those third parties that are involved in the processing of your order. For example, the financial institution that issued your credit card, and the shipping carrier that delivers your order. However, we never actually store your credit card in our database. It is discarded the moment your card is authorized. If you supply us with your postal address in this manner, you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please follow our opt-out instructions. 
 
 **Surveys & Contests**  
-If you choose to participate in surveys or contests on our Web site, we may ask you for information, including your contact information (such as name and address) and demographic information (such as age or zip code). Generally, we use survey information to monitor or improve our site and contest information to notify the winners and award prizes. 
+If you choose to participate in submitting product reviews on our website, we may ask you for information, including your email address, age, sex and online name. Generally, we use this information to monitor or improve our site and product selection. 
 
 **Polls**  
 Our optional online surveys may ask visitors for demographic information (such as relationship status) to help us better understand our customers in aggregate. This information is not linked to any other personal or identifying information. 
@@ -34,7 +34,7 @@ Our optional online surveys may ask visitors for demographic information (such a
 **Tell a Friend**  
 If you elect to use our referral service to inform a friend about our site, we ask for your name and email address as well as that of your friend. We automatically send your friend and you a one-time email inviting him or her to visit our site. We store this information indefinitely for the sole purpose of sending this one-time e-mail. You or your friend may contact us at [remove@MyPleasure.com](mailto:remove@MyPleasure.com) to request removal of this information from our database. 
 
-If you contact MyPleasure via email regarding any matter, will not be contacted for any reason other than as a response to the question or feedback. You will not be defaulted into receiving any promotional material simply by contacting us. 
+If you contact MyPleasure via email regarding any matter, you will not be contacted for any reason other than as a response to the question or feedback. You will not be defaulted into receiving any promotional material simply by contacting us. 
 
 **Postcards**  
 If you elect to use our postcard service to send a message, we will add your address to our database. We may send you special offers from time to time. You may contact us at [remove@MyPleasure.com](mailto:remove@MyPleasure.com) to request removal of this information from our database. 
@@ -66,8 +66,8 @@ We have partnerships with other companies and individuals to provide specific se
 
 Aside from the previously mentioned third parties involved in the processing of your order, we do not share your personally identifiable information with any other entities. We also may disclose your information to a third party if we believe in good faith that the law or legal process requires it, to protect the rights or property of MyPleasure.com or others, or as otherwise described in this privacy policy. 
 
-**Your** **Choice to Opt-Out**  
-You have the opportunity to "opt-out" of having your information used for purposes not directly related to our site at the point where we ask you for the information. For example, our order form has an opt-out box. If you want to buy a product from us, but you do not want to receive future promotional e-mails or marketing material, you simply check the box to opt-out of the group receiving such e-mails. 
+**Your Choice to Opt-Out**  
+You have the opportunity to  opt-out  of having your information used for purposes not directly related to our site at the point where we ask you for the information. For example, our order form has an opt-out box. If you want to buy a product from us, but you do not want to receive future promotional e-mails or marketing material, you simply uncheck the box to opt-out of the group receiving such e-mails. 
 
 If you no longer wish to receive promotional material from us or from our partners, you may opt-out of this group by responding to the "unsubscribe" e-mail link or by e-mailing us at [remove@MyPleasure.com](mailto:remove@MyPleasure.com). 
 
