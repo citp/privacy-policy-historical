@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the faucetdirect.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610042418id_/http%3A//www.faucetdirect.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faucetdirect.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208211959id_/http%3A//www.faucetdirect.com/privacy.htm) for the most accurate reproduction.*
 
 # FaucetDirect - Your online plumbing supply store
 
-|  |  | [](https://web.archive.org/web/20020610042418id_/http%3A//www.faucetdirect.com/returns.htm) | [Returns](https://web.archive.org/web/20020610042418id_/http%3A//www.faucetdirect.com/returns.htm)  
+|  |  | [](https://web.archive.org/web/20021208211959id_/http%3A//www.faucetdirect.com/returns.htm) | [Returns](https://web.archive.org/web/20021208211959id_/http%3A//www.faucetdirect.com/returns.htm)  
 ---|---|---  
-[](https://web.archive.org/web/20020610042418id_/http%3A//www.faucetdirect.com/quality.htm) | [Quality](https://web.archive.org/web/20020610042418id_/http%3A//www.faucetdirect.com/quality.htm)  
-[](https://web.archive.org/web/20020610042418id_/http%3A//www.faucetdirect.com/links.htm) | [Manufacturer](https://web.archive.org/web/20020610042418id_/http%3A//www.faucetdirect.com/links.htm)  
-[](https://web.archive.org/web/20020610042418id_/http%3A//www.faucetdirect.com/nonstock.htm) | [Nonstock](https://web.archive.org/web/20020610042418id_/http%3A//www.faucetdirect.com/nonstock.htm)  
+[](https://web.archive.org/web/20021208211959id_/http%3A//www.faucetdirect.com/quality.htm) | [Quality](https://web.archive.org/web/20021208211959id_/http%3A//www.faucetdirect.com/quality.htm)  
+[](https://web.archive.org/web/20021208211959id_/http%3A//www.faucetdirect.com/links.htm) | [Manufacturer](https://web.archive.org/web/20021208211959id_/http%3A//www.faucetdirect.com/links.htm)  
+[](https://web.archive.org/web/20021208211959id_/http%3A//www.faucetdirect.com/nonstock.htm) | [Nonstock](https://web.archive.org/web/20021208211959id_/http%3A//www.faucetdirect.com/nonstock.htm)  
   
-[](https://web.archive.org/web/20020610042418id_/http%3A//www.faucetdirect.com/about.htm) | [About Us](https://web.archive.org/web/20020610042418id_/http%3A//www.faucetdirect.com/about.htm)  
+[](https://web.archive.org/web/20021208211959id_/http%3A//www.faucetdirect.com/about.htm) | [About Us](https://web.archive.org/web/20021208211959id_/http%3A//www.faucetdirect.com/about.htm)  
 | Privacy  
-[](https://web.archive.org/web/20020610042418id_/http%3A//www.faucetdirect.com/shipping.htm) | [Shipping](https://web.archive.org/web/20020610042418id_/http%3A//www.faucetdirect.com/shipping.htm)  
-[](https://web.archive.org/web/20020610042418id_/http%3A//www.faucetdirect.com/terms.htm) | [Terms/Conditions](https://web.archive.org/web/20020610042418id_/http%3A//www.faucetdirect.com/terms.htm)  
+[](https://web.archive.org/web/20021208211959id_/http%3A//www.faucetdirect.com/shipping.htm) | [Shipping](https://web.archive.org/web/20021208211959id_/http%3A//www.faucetdirect.com/shipping.htm)  
+[](https://web.archive.org/web/20021208211959id_/http%3A//www.faucetdirect.com/terms.htm) | [Terms/Conditions](https://web.archive.org/web/20021208211959id_/http%3A//www.faucetdirect.com/terms.htm)  
 |  |   
 Privacy Policy
 
