@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acponline.org privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208091438id_/http%3A//www.acponline.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acponline.org privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401165843id_/http%3A//www.acponline.org/privacy.htm%3Fft) for the most accurate reproduction.*
 
 # ACP-ASIM - ACP-ASIM Privacy Policy
 
@@ -38,7 +38,7 @@ ACP-ASIM uses cookies exclusively to make its web sites easier and faster to use
 
 Personal information is information that can be used to identify or contact you. Registration for ACP-ASIM web sites is open only to College members and subscribers to College journals or online products; it requires only the provision of a valid member or customer number and, for verification purposes, personal information already contained in College member or customer records, such as name or birth date. _New personal information is not collected as part of the registration process_. In the course of using College web sites, however, you may be asked to provide personal information in order to purchase a product, participate in a College activity, or otherwise interact with ACP-ASIM. This information will not be shared with other organizations as the result of your use of a College web site unless the form used for collecting it explicitly states that it will be shared with another organization. 
 
-_Important note for College members_ : ACP-ASIM maintains a membership database independent of its web operations. The information in this database is drawn from membership applications, dues payment forms, product orders and other transactions between the College and its members. Using this database, the College occasionally shares member data with other organizations. You may instruct the College not to share your personal information by contacting Customer Service at 1-800-523-1546 or [custserv@mail.acponline.org](mailto:custserv@mail.acponline.org). In rare instances, personal information may be disclosed for legal or other reasons; these circumstances are noted at the end of this document. 
+_Important note for College members_ : ACP-ASIM maintains a membership database independent of its web operations. The information in this database is drawn from membership applications, dues payment forms, product orders and other transactions between the College and its members. Using this database, the College occasionally shares member data with other organizations. You may instruct the College not to share your personal information by contacting Customer Service at 1-800-523-1546 or [custserv@acponline.org](mailto:custserv@acponline.org). In rare instances, personal information may be disclosed for legal or other reasons; these circumstances are noted at the end of this document. 
 
 The College will not share your e-mail address with any other organization. From time to time, the College may send you e-mail regarding items of interest to the membership, including urgent health matters.
 
@@ -52,7 +52,7 @@ Information we record is collected into reports that enable us to monitor usage 
 
 Our secure server enables you to transmit a credit card number to us with confidence. Our secure server certificate is issued by VeriSign. We do not store your credit card number after your transaction has been processed. 
 
-If you have a question about our privacy policy, send e-mail to [interpub@mail.acponline.org](mailto:interpub@mail.acponline.org). 
+If you have a question about our privacy policy, send e-mail to [interpub@acponline.org](mailto:interpub@acponline.org). 
 
 **Disclosure of personal information contained in member and customer records**
 
@@ -64,3 +64,6 @@ ACP-ASIM may disclose personal information to an organization with which it merg
 
 **Disclosure to ACP-ASIM operations and maintenance contractors** -  
 ACP-ASIM operations and maintenance contractors sometimes have limited access to your personal information in the course of providing products or services to ACP-ASIM. Access to your personal information by these contractors is limited to the information reasonably necessary in order for the contractor to perform its limited function for ACP-ASIM. We also contractually require that our operations and maintenance contractors 1) protect the privacy of your personal information, and 2) not use or disclose your personal information for any purpose other than providing us with products and services. 
+
+  
+
