@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houseofblues.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203103300id_/http%3A//www.hob.com/resources/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseofblues.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603200918id_/http%3A//www.hob.com/resources/legal/privacy.asp) for the most accurate reproduction.*
 
 # hob.com
 
