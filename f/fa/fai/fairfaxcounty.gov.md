@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairfaxcounty.gov privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602095523id_/http%3A//fairfaxcounty.gov/using/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairfaxcounty.gov privacy policy that was archived on 2003-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031015121810id_/http%3A//fairfaxcounty.gov/using/privacy.htm) for the most accurate reproduction.*
 
 # Web Privacy Policy - Using this Site - Fairfax County, Virginia
 
@@ -14,7 +14,7 @@
 
      For more information on cookies and how our site uses them, see '[Cookies](https://web.archive.org/using/cookies.htm)'
 
-     Fairfax County does not sell, rent, or publish any of our visitors' personal or private information. We do not reveal specific information about subscribers or other personally identifiable data to unaffiliated third parties for their independent use, except if required to do so by the [Virginia Freedom of Information Act](http://leg1.state.va.us/cgi-bin/legp504.exe?000+cod+TOC02010000021000000000000) or other law. In addition, we endeavour to restrict employee access to any personal information except where necessary to perform required duties.
+     Fairfax County does not sell, rent, or publish any of our visitors' personal or private information. We do not reveal specific information about subscribers or other personally identifiable data to unaffiliated third parties for their independent use, except if required to do so by the [Virginia Freedom of Information Act](http://dls.state.va.us/foiacouncil.htm) or other law. In addition, we endeavour to restrict employee access to any personal information except where necessary to perform required duties.
 
      Unauthorized attempts to modify any information stored on this system, to defeat or circumvent security features, or to utilize this system for other that it’s intended purposes are prohibited and may result in criminal prosecution.
 
