@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmigaming.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204135436id_/http%3A//www.bmigaming.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmigaming.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305041343id_/http%3A//www.bmigaming.com/privacy.htm) for the most accurate reproduction.*
 
 # Website Privacy Policy Page | From BMI Gaming 877-FLA-PINS
 
@@ -179,5 +179,5 @@
 
   
   
-Copyright © 2003-2004 BMI Gaming, Inc., Boca Raton, FL - All Rights Reserved | [Home](https://web.archive.org/web/20041204135436id_/http%3A//www.bmigaming.com/main.htm) | [Search](http://www.bmigaming.com/search.htm) | [Site Map](https://web.archive.org/web/20041204135436id_/http%3A//www.bmigaming.com/sitemap.html) | [Contact Us](https://web.archive.org/web/20041204135436id_/http%3A//www.bmigaming.com/contact.htm) | [Privacy](https://web.archive.org/web/20041204135436id_/http%3A//www.bmigaming.com/privacy.htm) | **877-FLA-PINS** **  
+Copyright © 2003-2004 BMI Gaming, Inc., Boca Raton, FL - All Rights Reserved | [Home](https://web.archive.org/web/20050305041343id_/http%3A//www.bmigaming.com/main.htm) | [Search](http://www.bmigaming.com/search.htm) | [Site Map](https://web.archive.org/web/20050305041343id_/http%3A//www.bmigaming.com/sitemap.html) | [Contact Us](https://web.archive.org/web/20050305041343id_/http%3A//www.bmigaming.com/contact.htm) | [Privacy](https://web.archive.org/web/20050305041343id_/http%3A//www.bmigaming.com/privacy.htm) | **877-FLA-PINS** **  
  **
