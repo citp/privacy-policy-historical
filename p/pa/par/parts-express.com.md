@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parts-express.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202062100id_/http%3A//www.partsexpress.com/webpage.cfm%3F%26DID%3D7%26WebPage_ID%3D48) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parts-express.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604023253id_/http%3A//www.partsexpress.com/webpage.cfm%3F%26DID%3D7%26WebPage_ID%3D48) for the most accurate reproduction.*
 
 # Security/Privacy
 
@@ -24,6 +24,22 @@ When you place orders or access your order information, we offer the use of a se
 
 Parts Express does not sell, trade or rent your personal information to others. All information gathered from purchases, surveys, newsletter sign ups and other online activities are used by Parts Express to track sales, maintain customer service and handle marketing related issues.
 
+**
+
+Safety Guarantee
+
+**
+
+We guarantee that every online transaction you make will be 100% safe. This means you pay nothing if unauthorized charges are made to your card as a result of shopping at our online store. Under the Fair Credit Billing Act, your bank cannot hold you liable for more than $50.00 of fraudulent charges. If your bank does hold you liable for any of this $50.00, We will cover the entire liability for you, up to the full $50.00. We will only cover this liability if the unauthorized use of your credit card resulted through no fault of your own from purchases made while using the secure server. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures.
+
+**
+
+We Do Not Disclose Your Private Online Communications
+
+**
+
+We honor the confidentiality of our customers' private e-mail communications with Parts Express, as well as any profile data you may create. 
+
 ****
 
 **OPT-In and OPT飽ut Newsletter**
@@ -42,6 +58,14 @@ By shopping with us, you consent to the collection and use of this information b
 **Cookies**  
 Our site uses cookies to store information between visits to our site. Cookies are a mechanism to remember information about a visitor from one page to another. Web browsers store cookies so that the browser itself can remember some information and then, on request, pass all that information up to the server at one time. We use cookies to remember your name and the contents of your shopping cart. This allows you to leave our site, come back later, and still have the contents of your shopping cart intact. Our website requires the use of cookies. Turning off cookies or rejecting the partsexpress.com cookie will prevent you from accessing the website. 
 
+**
+
+AOL Certified Merchant
+
+**
+
+As an AOL Certified Merchant, we have agreed to abide by the principles outlined in AOL's Privacy Policy at the following URL: <http://legal.web.aol.com/policy/aolpol/privpol.html>. If you have any questions regarding our privacy practices, please contact us at [privacy@partsexpress.com](mailto:privacy@partsexpress.com?subject=Privacy).
+
 ********
 
 **In Summary**  
@@ -50,4 +74,4 @@ We are committed to protecting your privacy. We use the information we collect o
 ********
 
 **Tell Us What You Think**  
-Parts Express welcomes your questions and comments about privacy. Please send e-mail to [privacy@partsexpress.com](mailto:feedback@amazon.com). 
+Parts Express welcomes your questions and comments about privacy. Please send e-mail to [privacy@partsexpress.com](mailto:feedback@partsexpress.com.com). 
