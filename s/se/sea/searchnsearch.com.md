@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the searchnsearch.com privacy policy that was archived on 2004-02-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040229114539id_/http%3A//www.searchnsearch.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchnsearch.com privacy policy that was archived on 2004-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041217143750id_/http%3A//www.searchnsearch.com/ppc_dir5/static.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Document
+# Privacy Policy
 
-SearchnSearch has the following Privacy Policy with respect to information gathered on Web pages hosted by SearchnSearch. Such information is received by SearchnSearch. 
+_SearchnSearch has the following Privacy Policy with respect to information gathered on Web pages hosted by SearchnSearch. Such information is received by SearchnSearch. _
 
-The terms "we" and "us" refer to SearchnSearch.
+_The terms "we" and "us" refer to SearchnSearch.
 
   **The Information We Collect**
 
@@ -32,4 +32,6 @@ Personally Identifiable Information—When visiting SearchnSearch and signing up
 
   **How to Contact Us**
 
-  Should you have other questions or concerns about this privacy policy, please contact us by email at webmaster@searchnsearch.com 
+  Should you have other questions or concerns about this privacy policy, please contact us by email at webmaster@SearchnSearch.com 
+
+_
