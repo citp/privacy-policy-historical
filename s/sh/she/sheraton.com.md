@@ -1,0 +1,13 @@
+> *The following text is extracted and transformed from the sheraton.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203233000id_/http%3A//www.sheraton.com/main.taf%3Fsec%3Dppo) for the most accurate reproduction.*
+
+# Privacy Policy
+
+**Starwood Hotels Privacy Policy:**
+
+Starwood uses cookies to ensure you obtain the information you request. "Cookies" are strings of text that a website transmits to a user's computer. The cookie(s) passed to you are anonymous. They do not reveal your personal identity, they will not follow you throughout your travels on the web, nor can they capture private data. Rather, these cookies establish a user session and to allow our server to correctly provide Site users with the appropriate frames and content. We are not concerned with who is using our Site, but rather how our Site is being used. We track the usage of our Site in order to modify it according to our customers' needs. We pay attention to what information is requested and attempt to make it easier to find such information in the future. Please understand that any data captured from this system is for internal use only and is not shared with anyone else unless explicitly stated at the time of capture. If you do not wish to receive these cookies, you may set your browser to reject the cookies (consult the instructions for your particular browser on how to do this), although doing so may affect your ability to perform certain transactions on the Site. 
+
+Within the Reservation and Preferred Guest portion of our Site, we provide a profile feature to make it easy for you to purchase travel online using our reservation service. We respect your privacy and maintain your profile information on a secure server. It can be accessed, maintained and used by you, and only you. Starwood does not authorize any other use of your confidential information. 
+
+Security is provided concerning your credit card information, name, address, e-mail and any other personal information you may provide within The Reservation and Preferred Guest portions of our site. We will be utilizing 40-bit encryption based on a Class 3 Digital Certificate issued by Verisign Inc. This allows for utilitization of Secure Socks Layer, which is a method for encrypting data. "This protects confidential information - such as credit card numbers, online forms, and financial data - from interception and hacking." (from Verisign's website) 
+
+Third party Internet sites available through links on our site have separate privacy and data collection practices. We have no responsibility or liability for these third party policies or actions. 
