@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicindiaonline.com privacy policy that was archived on 2002-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021010061500id_/http%3A//www.musicindiaonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicindiaonline.com privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412013536id_/http%3A//www.musicindiaonline.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
