@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the healthdesigns.com privacy policy that was archived on 2001-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010803160642id_/http%3A//healthdesigns.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthdesigns.com privacy policy that was archived on 2003-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030627034256id_/http%3A//www.healthdesigns.com/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
-[](https://web.archive.org/web/20010803160642id_/http%3A//healthdesigns.com/ShopSite/index.html)  
-[](https://web.archive.org/web/20010803160642id_/http%3A//healthdesigns.com/HealthConditions.html)  
-[](https://web.archive.org/web/20010803160642id_/http%3A//healthdesigns.com/HealthStore.html)  
-[](https://web.archive.org/web/20010803160642id_/http%3A//healthdesigns.com/TestIntro.html)  
-[](https://web.archive.org/web/20010803160642id_/http%3A//healthdesigns.com/WhatsUpDoc.html)  
-[](https://web.archive.org/web/20010803160642id_/http%3A//healthdesigns.com/SampleTests.html)  
-[](https://web.archive.org/web/20010803160642id_/http%3A//healthdesigns.com/talking.html)  
-[](https://web.archive.org/web/20010803160642id_/http%3A//healthdesigns.com/AsktheExpert.html)  
-[](https://web.archive.org/web/20010803160642id_/http%3A//healthdesigns.com/FAQs.html)
+[](https://web.archive.org/web/20030627034256id_/http%3A//www.healthdesigns.com/ShopSite/index.html)  
+[](https://web.archive.org/web/20030627034256id_/http%3A//www.healthdesigns.com/HealthNews.html)  
+[](https://web.archive.org/web/20030627034256id_/http%3A//www.healthdesigns.com/HealthConditions.html)  
+[](https://web.archive.org/web/20030627034256id_/http%3A//www.healthdesigns.com/HealthStore.html)  
+[](https://web.archive.org/web/20030627034256id_/http%3A//www.healthdesigns.com/TestIntro.html)  
+[](https://web.archive.org/web/20030627034256id_/http%3A//www.healthdesigns.com/SampleTests.html)  
+[](https://web.archive.org/web/20030627034256id_/http%3A//www.healthdesigns.com/AsktheDoc.html)  
+[](https://web.archive.org/web/20030627034256id_/http%3A//www.healthdesigns.com/talking.html)  
+[](https://web.archive.org/web/20030627034256id_/http%3A//www.healthdesigns.com/FAQs.html)
 
 |   | 
 
