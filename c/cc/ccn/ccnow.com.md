@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccnow.com privacy policy that was archived on 2001-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011221205207id_/http%3A//ccnow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccnow.com privacy policy that was archived on 2002-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020421170044id_/http%3A//www.ccnow.com/privacy.html) for the most accurate reproduction.*
 
 # CCNow Privacy Statement
 
