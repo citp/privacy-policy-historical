@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pure-mac.com privacy policy that was archived on 2001-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011215102245id_/http%3A//pure-mac.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pure-mac.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207230556id_/http%3A//www.pure-mac.com/privacy.html) for the most accurate reproduction.*
 
 # Pure Mac
 
@@ -9,7 +9,7 @@
 
 * * *
 
-[](http://mojofarm.mediaplex.com/ad/ck/131-450-2446-0?mpt=1582141231732-0)   
+[](http://mojofarm.mediaplex.com/ad/ck/131-450-2446-0?mpt=1582141236201-0)   
   
 ** Privacy Statement for Pure Mac **
 
