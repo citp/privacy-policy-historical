@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rinkya.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013130447id_/http%3A//www.rinkya.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rinkya.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621080601id_/http%3A//www.rinkya.com/privacy.php) for the most accurate reproduction.*
 
-# rinkya Yahoo Japan Search Service: Add a Category
+# rinkya Yahoo Japan Search Service: Privacy Notice
 
 >   
 >  We collect no personal information about you when you visit this Web site, unless otherwise stated or unless you choose to provide this information to us. However, we collect and store certain information automatically. What we collect and store automatically is: 
