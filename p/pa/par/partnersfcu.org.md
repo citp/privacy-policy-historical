@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the partnersfcu.org privacy policy that was archived on 2002-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020206150647id_/http%3A//partnersfcu.org/privacypolicyreg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partnersfcu.org privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004093028id_/http%3A//www.partnersfcu.org/privacypolicyreg.html) for the most accurate reproduction.*
 
-# Partners Federal Credit Union www.partnersfcu.org
+# Partners Federal Credit Union www.partnersfcu.org Privacy Policy Page
 
-  
 Partners Federal Credit Union (also known as "Partners") is committed to safeguarding and protecting the confidentiality of both financial and personal information. In this disclosure, we will explain the information we gather, how we safeguard the information, and how we use it. **Security Procedures**  
 We restrict access to non-public personal information about you to those employees who need to know that information to provide products and services to you. We maintain physical, electronic, and procedural safeguards that comply with the law to guard your non-public personal information. **Information Collected by Partners**  
 The Credit Union collects non-public personal information about you from the following sources: 
@@ -20,8 +19,3 @@ We do not disclose any non-public personal information about our members and for
 
 **Former Members**  
 If you decide to terminate your membership or become an inactive member, we will adhere to the privacy policies and practices as described in this notice.
-
-A printable version of this [Partners Privacy Policy](https://web.archive.org/documents/privacypolicy.pdf) in Adobe Acrobat PDF format is now available [here](https://web.archive.org/documents/privacypolicy.pdf). If you do not already have a copy of the Adobe Acrobat Reader, you can download a free copy of the [Adobe Acrobat Reader](http://www.adobe.com/products/acrobat/readstep2.html) from Adobe's home-page. Happy printing!  
-
-
-[](http://www.adobe.com/products/acrobat/readstep2.html)
