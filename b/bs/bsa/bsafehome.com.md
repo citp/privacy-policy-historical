@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bsafehome.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207221941id_/http%3A//www.bsafehome.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsafehome.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603182652id_/http%3A//www.bsafehome.com/privacy.asp) for the most accurate reproduction.*
 
 # BsafeHome
-
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
 This notice applies to all information collected or submitted on the Bsafe Online websites. On some pages, you may order products, make requests, or register to receive materials. The types of personal information collected at these pages are: 
 
