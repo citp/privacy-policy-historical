@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the websitegoodies.com privacy policy that was archived on 2000-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000604140404id_/http%3A//www.websitegoodies.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitegoodies.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206185600id_/http%3A//www.websitegoodies.com/privacy.shtml) for the most accurate reproduction.*
 
 # WebSiteGoodies - Privacy Policy
 
   
 |  |  [**Newsletter**](http://www.websitegoodies.com/newsletter)  
-Subscribe to our free weekly newsletter for web developers.  
+Subscribe to our FREE weekly ezine for website owners!  
 [**Web Directory**](http://www.websitegoodies.com/webdirectory)  
-A directory of resources by web developers for web developers; anything from learning HTML to tools for promoting your site.[ **Discussions**](http://www.websitegoodies.com/cgi-bin/forums/boardpower.cgi)  
-Discuss web design, review websites, gather promotion tips, or converse with web developers in our free message boards. [**Special Offers**](http://www.websitegoodies.com/special.shtml)  
-Special offers and promotions specifically for web developers.|    
+A directory of resources by web developers for web developers; anything from learning HTML to tools for promoting your site.[ **Learn**](http://www.websitegoodies.com/learn)  
+Articles, cheatsheets, and resources to help you learn to build your website. [**Enhance**](http://www.websitegoodies.com/enhance)  
+OnMouseOver generator, articles, free graphics, free guestbooks, and more to enhance your site![ **Promote**](http://www.websitegoodies.com/promote)  
+Promotion tips, powerful tools, and traffic-generating articles to help increase your traffic!|    
 ---|---|---  
-  
+[](http://www.linkguard.com/online/websitegoodies/onlinelogin.htm)  
+Click for Free Link Check [](http://www.webtrendslive.com/redirect.asp?siteID=31167) [](http://www.commission-junction.com/track/track.dll?AID=346831&PID=562353&URL=http%3A%2F%2Fw%2Emoreover%2Ecom%2Fcgi%2Dlocal%2Fwizard%5Fclone%2Epl)  
 **Privacy Policy**
 
 WebSiteGoodies has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
@@ -39,4 +41,6 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 
 **Contacting the Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [feedback@websitegoodies.com](mailto:feedback@websitegoodies.com). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [feedback@websitegoodies.com](mailto:feedback@websitegoodies.com).
+
+WebSiteGoodies uses WebTrends Live to analyze traffic to this web site. WebTrends Live does not create individual profiles for visitors. Unlike some tracking services WebTrends Live does not have a database of individual profiles for each visitor. WebTrends Live only collects aggregate data. For more information about WebTrends Live privacy policy, please click [here](http://www.webtrendslive.com/privacy_policy.htm). 
