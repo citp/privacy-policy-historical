@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkconnector.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610133501id_/http%3A//www.linkconnector.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkconnector.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204084229id_/http%3A//www.linkconnector.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for LinkConnector
 
@@ -46,7 +46,7 @@ We will safeguard, according to strict standards of security and confidentiality
 
 All data that is collected by us or provided voluntariliy to us is kept on our server in a secure area.  We guarantee that all personal information provided by customers will not be sold or exchanged with any other company. 
 
-Access to any of our data is via a Username and Password by Affiliates and Merchants, or by authorized DotCom employees, who are trained in the proper handling of customer information, to have access to that information.  Employees who violate our Privacy Policy will be subject to our normal disciplinary process and subject to dismissal.
+Access to any of our data is via a Username and Password by Affiliates and Merchants, or by authorized LinkConnector employees, who are trained in the proper handling of customer information, to have access to that information.  Employees who violate our Privacy Policy will be subject to our normal disciplinary process and subject to dismissal.
 
 **Correct/Update**
 
@@ -71,9 +71,9 @@ We respect your privacy and the confidentiality of your personal information.  
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
-_DotCom Corporation  
+_LinkConnector Corporation  
 __1135 Kildaire Farm Road  
 Suite 200_ _  
 __Cary_ _,_ _NC_ ___27511_ __
 
-_<http://www.dotcom-corp.com/>_
+_[http://www.linkconnector.com/](http://www.linkconnecotr.com/)_
