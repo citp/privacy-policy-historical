@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shrm.org privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210085844id_/http%3A//www.shrm.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shrm.org privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305051527id_/http%3A//www.shrm.org/privacy) for the most accurate reproduction.*
 
 # SHRM Online Privacy Statement
 
