@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dansdata.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002000301id_/http%3A//dansdata.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dansdata.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602224302id_/http%3A//www.dansdata.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -16,7 +16,8 @@ We use outside ad companies to display ads on our site. These ads may contain co
 
 This Web site does not request any personal information or collect any information that personally identifies you or allows you to be personally contacted.  
 Since we do not collect any personal information on this Web site, we do not share any personal information with any third parties nor do we use any personal information for any purposes.  
-E-mail addresses of correspondents are, similarly, kept confidential; Dan's Data does not maintain a database of correspondents' addresses, or sell them to anyone else.
+E-mail addresses of correspondents are, similarly, kept confidential, unless the correspondent requests otherwise, or requests assistance with illegal activities.  
+Dan's Data does not maintain a database of correspondents' addresses, or sell them to anyone else.
 
 ### External Links
 
@@ -24,4 +25,4 @@ This site contains links to other sites. Dan's Data is not responsible for the p
 
 ### Contacting Dan's Data
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [dan@dansdata.com](mailto:dan@dansdata.com)..
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [dan@dansdata.com](mailto:dan@dansdata.com).
