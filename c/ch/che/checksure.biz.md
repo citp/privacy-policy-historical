@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the checksure.biz privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204060811id_/http%3A//www.checksure.biz/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checksure.biz privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403172514id_/http%3A//www.checksure.biz/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
-
-Version 1.1 June 2002
-
-We have created this Privacy Policy ("Policy") to demonstrate our commitment to the privacy of your personal information. The following sets out our information-gathering and dissemination practices for this website.
-
-If you have any questions or queries regarding this policy, please contact our Privacy Officer at checkSURE Customer Services. We will do our best to deal with your questions or queries as soon as possible.
-
-**Privacy legislation**
-
-Checksure Limited ("checkSURE") is subject to European and UK privacy legislation in the form of the Data Protection Act 1998, which regulates the use of individuals' personal information. This legislation imposes specific requirements on checkSURE and ensures that your personal information will only be used in accordance with this Policy.
+# Terms and Conditions
 
 **Data use**
 
@@ -26,8 +16,7 @@ Part of our use of your personal information may include sending you e-mail mess
 
 checkSURE and the Checksure Group may use all personal information collected via the website.
 
-You agree that we may disclose your personal information amongst members of the Checksure Group and other suitable third parties to allow the performance of services we provide to you or procure on your behalf or to further the reasonable commercial ends of the Checksure Group. Any such disclosure will be in accordance with checkSURE's responsibilities as a Data Controller under the Data Protection Act 1998.  
-
+You agree that we may disclose your personal information amongst members of the Checksure Group and other suitable third parties to allow the performance of services we provide to you or procure on your behalf or to further the reasonable commercial ends of the Checksure Group. Any such disclosure will be in accordance with checkSURE's responsibilities as a Data Controller under the Data Protection Act 1998.
 
 **Cookies**
 
@@ -35,15 +24,14 @@ We sometimes use an Internet device called a cookie to store login or other info
 
 For certain services, we will allow you to have an ID or password stored in a cookie. We do not store payment details in cookies. 
 
-[_View Cookie Policy_](https://web.archive.org/web/20041204060811id_/http%3A//www.checksure.biz/cookies.htm)  
+[_View Cookie Policy_](https://web.archive.org/web/20050403172514id_/http%3A//www.checksure.biz/cookies.htm)  
 
 
 **Security of personal information**
 
 We recognise the need to ensure that personal information gathered via this website remains secure. Our site has security measures in place to protect against the loss, misuse and alteration of the personal information under our control.
 
-You acknowledge that although we exercise adequate care and security there remains a risk that information transmitted over the Internet and stored by computer may be intercepted or accessed by an unauthorised third party.  
-
+You acknowledge that although we exercise adequate care and security there remains a risk that information transmitted over the Internet and stored by computer may be intercepted or accessed by an unauthorised third party.
 
 **Transmission of personal information**
 
@@ -60,6 +48,3 @@ Should you wish to have your information updated or corrected, you may either ac
 **Updates to Privacy Policy**
 
 We may update this Policy at any time without notice. Updates will be marked with a new edition number and dated accordingly. You agree to be bound by the Policy then in force as it appears on our website.
-
-back to top   
-
