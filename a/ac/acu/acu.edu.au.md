@@ -1,16 +1,11 @@
-> *The following text is extracted and transformed from the acu.edu.au privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211044936id_/http%3A//www.acu.edu.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acu.edu.au privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621173638id_/http%3A//www.acu.edu.au/privacy_policy.cfm) for the most accurate reproduction.*
 
-# ACU Statement on Privacy
+# ACU National Website
 
-[ACU Home](https://web.archive.org/web/20021211044936id_/http%3A//www.acu.edu.au/index.html)
-
-**Australian Catholic University Privacy Statement**
-
-Australian Catholic University is committed to ensuring the privacy of all information it collects. Information supplied to the University will only be used for the administrative and educational purposes of this institution.
-
+ACU National is committed to ensuring the privacy of all information it collects. Information supplied to the University will only be used for the administrative and educational purposes of this institution.  
 Australian Catholic University is a registered company and therefore, like other companies operating in Australia, it is bound by the National Privacy Principles as set out in the Privacy Amendment (Private Sector) Act 2000. In keeping with this legislation, this Privacy Statement sets out the University's practice in the collection, use and disclosure of personal information.
 
-**Information collected**
+**Information Collected**
 
 The University collects a substantial volume of personal information concerning staff, students and other persons. This information is only collected where necessary. Legitimate reasons for collecting personal information include administrative need, legislative requirements or research investigations.
 
@@ -22,8 +17,7 @@ The University also holds personal information about individuals that it generat
 
 **Use and disclosure of information collected**
 
-Personal information is only collected where it is necessary to carry out a particular function or administrative activity.
-
+Personal information is only collected where it is necessary to carry out a particular function or administrative activity.  
 Personal information collected for a particular purpose will not be used for any other purpose, unless that secondary purpose is both related to the primary purpose of collection and the individual would reasonably expect the organisation to use or disclose the information for that secondary purpose. For example, a student would reasonably expect the information collected by Student Administration during the enrolment process to then be forwarded to the University Library in order to provide the student with borrowing privileges.
 
 The University is required to provide annual statistical information on its staff and student population to the Commonwealth Government Department of Education Science and Training. Enrolment information collected by the University is issued in these reports for planning purposes and to project future trends. However the reports consist only of aggregated statistical data and no personal information is used, disclosed or distributed.
@@ -42,8 +36,7 @@ If the University denies a request for access, a reason will be provided. Access
 
 **Security of information collected**
 
-The University is committed to maintaining a secure environment for all personal information collected, used or disclosed. The University will take all reasonable precautions to protect data from loss, misuse, unauthorised access or disclosure, alteration or destruction.
-
+The University is committed to maintaining a secure environment for all personal information collected, used or disclosed. The University will take all reasonable precautions to protect data from loss, misuse, unauthorised access or disclosure, alteration or destruction.  
 Personal information is retained no longer than is necessary. Once operational needs have been satisfied, personal information will only be retained for the minimum period specified by legislation and then disposed of in a lawful and secure manner.
 
 Paper-based records containing personal information are filed in secure environments. Rooms holding personal information can be locked so as to prevent unauthorised access to the records. Furthermore, the University stores personal information in secure containers such as filing cabinets, safes or compactuses as an added safeguard against unauthorised access.
@@ -68,14 +61,10 @@ The University has links with other education institutions throughout the world,
 
 Some of the information collected by the University is classed as sensitive information. This would include information on disabilities, racial or ethnic origin, religious beliefs or criminal background. Sensitive information is only collected to satisfy legislative requirements or to meet special needs.
 
-**Contact**
-
-For further information about this privacy statement or the practices of the University, please contact: 
-
-John Cameron,   
-Executive Director,   
-University Services,   
-telephone: (02) 9739 2912,   
-email: j.Cameron@vcy.acu.edu.au  
-
-
+**Contact**  
+For further information about this privacy statement or the practices of the University, please contact:  
+John Cameron,  
+Executive Director,  
+University Services,  
+Telephone: (02) 9739 2912  
+email: [j.Cameron@vcy.acu.edu.au](mailto:j.Cameron@vcy.acu.edu.au)
