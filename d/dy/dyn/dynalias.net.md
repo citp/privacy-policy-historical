@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dynalias.net privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204022051id_/http%3A//www.dyndns.org/about/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynalias.net privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403210302id_/http%3A//www.dyndns.org/about/legal/privacy.html) for the most accurate reproduction.*
 
 # DynDNS.org -- Legal -- Privacy Policy
+
+## Privacy Policy
 
 It is the policy of Dynamic Network Services, Inc. ("DynDNS") to protect and respect the privacy and personal information of its Members. Therefore, DynDNS will not monitor, edit, or disclose the contents of a Member's private communications or data to third parties unless required to do so by law or in the good faith belief that such action is necessary to:
 
