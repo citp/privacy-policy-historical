@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the versiontracker.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205024550id_/http%3A//www.techtracker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the versiontracker.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622082645id_/http%3A//www.techtracker.com/privacy) for the most accurate reproduction.*
 
 # TechTracker - desktop management solutions and software download tools for Windows, Macintosh, and Palm OS.
 
@@ -18,9 +18,7 @@ To qualify for entry in a contest, we may ask for personally identifiable inform
 
 In the event of an assignment, sale, joint venture, or other transfer or disposition of some or all of the assets of TechTracker, Inc., you agree that we can accordingly assign, sell, license or transfer any information that our Users have provided to us. Please note, however, that the purchasing party can not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy without your prior consent. 
 
-TechTracker may disclose user information when we believe in good faith that the law requires it, or when disclosure is necessary to identify, contact or bring legal action against someone who may be causing injury to others or interfering with TechTracker's rights or property. 
-
-We partner with other third parties to provide specific services. For example, we use 24/7 Media to manage special offer emails.. When the user signs up for these particular services, we share names, type of email requested and email address as is necessary for the third party to provide these services. These third parties are not permitted to use personally identifiable information except for the purpose of providing these services for TechTracker. 
+TechTracker may disclose user information when we believe in good faith that the law requires it, or when disclosure is necessary to identify, contact or bring legal action against someone who may be causing injury to others or interfering with TechTracker's rights or property.
 
 TechTracker provides users with the ability to opt out or opt in for communications from any of the TechTracker websites. At any point in the future, a User may change their preferences and "opt out" or "opt in" to communications by updating their User information within the membership area of the TechTracker site. 
 
