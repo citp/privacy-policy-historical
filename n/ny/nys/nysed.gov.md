@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nysed.gov privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210085957id_/http%3A//usny.nysed.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nysed.gov privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403223955id_/http%3A//usny.nysed.gov/privacy.html) for the most accurate reproduction.*
 
 # Internet Privacy and Security Policy
 
@@ -7,24 +7,25 @@
 **Resources for:**  
   
 ---  
-**-** [Citizens](https://web.archive.org/web/20041210085957id_/http%3A//citizens/)  
-**-** [Individuals with Disabilities](https://web.archive.org/web/20041210085957id_/http%3A//disa/)  
-**-** [Licensed Professionals](https://web.archive.org/web/20041210085957id_/http%3A//professionals/)  
-**-** [Parents](https://web.archive.org/web/20041210085957id_/http%3A//parents/)  
-**-** [School Administrators](https://web.archive.org/web/20041210085957id_/http%3A//schooladmin/)  
-**-** [Students](https://web.archive.org/web/20041210085957id_/http%3A//students/)  
-**-** [Teachers](https://web.archive.org/web/20041210085957id_/http%3A//teachers/)  
+**-** [Citizens](https://web.archive.org/web/20050403223955id_/http%3A//citizens/)  
+**-** [Individuals with Disabilities](https://web.archive.org/web/20050403223955id_/http%3A//disa/)  
+**-** [Licensed Professionals](https://web.archive.org/web/20050403223955id_/http%3A//professionals/)  
+**-** [Parents](https://web.archive.org/web/20050403223955id_/http%3A//parents/)  
+**-** [School Administrators](https://web.archive.org/web/20050403223955id_/http%3A//schooladmin/)  
+**-** [Students](https://web.archive.org/web/20050403223955id_/http%3A//students/)  
+**-** [Teachers](https://web.archive.org/web/20050403223955id_/http%3A//teachers/)  
+   
   
 **Information about:**  
   
-**-** [Grants & Finance](https://web.archive.org/web/20041210085957id_/http%3A//grants/)  
-**-** [Higher Education](https://web.archive.org/web/20041210085957id_/http%3A//highered/)  
-**-** [Laws & Regulations](https://web.archive.org/web/20041210085957id_/http%3A//lawsregs/)  
-**-** [Licensing & Certification](https://web.archive.org/web/20041210085957id_/http%3A//licensing/)  
-**-** [Museum, Library & Archives](https://web.archive.org/web/20041210085957id_/http%3A//museum/)  
-**-** [PreK-Adult Education](https://web.archive.org/web/20041210085957id_/http%3A//prekadult/)  
-\- [SED Online Services](https://web.archive.org/web/20041210085957id_/http%3A//online_services_info.htm) **** \- A link to NYSED Portal  applications and more.  
-|  |  |  [SED Home](http://www.nysed.gov/) > [Disclaimers and Notices](https://web.archive.org/web/20041210085957id_/http%3A//usny.nysed.gov/notice.html) > **Internet Privacy and Security Policy**   
+**-** [Grants & Finance](https://web.archive.org/web/20050403223955id_/http%3A//grants/)  
+**-** [Higher Education](https://web.archive.org/web/20050403223955id_/http%3A//highered/)  
+**-** [Laws & Regulations](https://web.archive.org/web/20050403223955id_/http%3A//lawsregs/)  
+**-** [Licensing & Certification](https://web.archive.org/web/20050403223955id_/http%3A//licensing/)  
+**-** [Museum, Library & Archives](https://web.archive.org/web/20050403223955id_/http%3A//museum/)  
+**-** [PreK-Adult Education](https://web.archive.org/web/20050403223955id_/http%3A//prekadult/)  
+\- [SED Online Services](https://web.archive.org/web/20050403223955id_/http%3A//online_services_info.htm) **** \- A link to NYSED Portal  applications and more.  
+|  |  |  [SED Home](http://www.nysed.gov/) > [Disclaimers and Notices](https://web.archive.org/web/20050403223955id_/http%3A//usny.nysed.gov/notice.html) > **Internet Privacy and Security Policy**   
 
 
 Internet Privacy and Security Policy
@@ -358,4 +359,20 @@ You can also write SED at:
 >  Washington Avenue   
 > Albany, New York 12234 
 
-Back to Top
+Back to Top  
+---  
+  
+[Board of Regents](http://www.regents.nysed.gov/) | [Disclaimer and Notices](http://usny.nysed.gov/notice.html) | [Employment Opportunities](http://www.oms.nysed.gov/hr/) | [Internet Privacy and Security Policy](http://usny.nysed.gov/privacy.html) | [NYS Archives](http://www.archives.nysed.gov/) | [NYS Library](http://www.nysl.nysed.gov/) | [NYS Museum](http://www.nysm.nysed.gov/) | [Office of Counsel](http://www.counsel.nysed.gov/) | [Office of Cultural Education](http://www.oce.nysed.gov/) | [Office of Elementary, Middle, Secondary and Continuing Education (EMSC)](http://www.emsc.nysed.gov/) | [ Office of Higher Education](http://www.highered.nysed.gov/) | [Office of Management Services](http://www.oms.nysed.gov/) | [Office of the Professions](http://www.op.nysed.gov/) | [Office of State Review](http://www.sro.nysed.gov/) | [Office of Vocational & Educational Services for Individuals with Disabilities (VESID)](http://www.vesid.nysed.gov/) | [Program Office Listing](http://usny.nysed.gov/programs.html) | [ Report Fraud, Abuse, and Waste](http://www.oms.nysed.gov/oas/Report%20Fraud%20Abuse%20and%20waste.htm)  
+  
+  
+
+
+**New York State Education Department  
+89 Washington Avenue  
+Albany, New York 12234**
+
+For assistance in navigating the NYSED website, please contact [webadmin@mail.nysed.gov](mailto:webadmin@mail.nysed.gov)
+
+  
+  
+**[NYS Home Page](http://www.state.ny.us/) | [map-NY](http://www.nysegov.com/map-NY.cfm) | [e-bizNYS](http://www.nysegov.com/e-bizNYS.cfm) | [Citizen Guide](http://www.nysegov.com/citguide.cfm) **
