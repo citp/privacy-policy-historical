@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the awin1.com privacy policy that was archived on 2004-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040616161453id_/http%3A//affiliatewindow.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awin1.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204112527id_/http%3A//affiliatewindow.com/privacy.php) for the most accurate reproduction.*
 
-# affiliate network - AffiliateWindow.com
+# Affiliate Network - Affiliate Window Ltd
+
+**Privacy on this site**
 
 **What personally identifiable information is collected on this site?**  
 Visitors may supply personally identifiable information (such as name, address or telephone numbers) for various purposes on this site. These purposes include registering to receive e-mail newsletters, requesting further information about our products, or simply asking a question about Affiliate Window. Affiliate Window does not collect personal information from you unless you provide it to us. This means that you can visit our site without telling us who you are or revealing any personally identifiable information about yourself.
@@ -14,13 +16,10 @@ Should any material changes be made to the ways in which we use personally ident
 Personally identifiable information is stored on our Web server and is not publicly accessible. Further, personally identifiable information is only accessed by Affiliate Window employees on a "need to know" basis. All Affiliate Window employees must go through privacy training upon starting with Affiliate Window. Affiliate Window meets or exceeds all industry standards for the protection of personally identifiable information.
 
 **Choice/Opt-out**  
-If you have registered to receive e-mail communications from us and later change your mind, you may contact us to have your name removed from our distribution lists. You have the following options to do this:
+If you have registered to receive e-mail communications from us and later change your mind, you may contact us to have your name removed from our distribution lists. You have the following options to do this:  
 
-You can send an e-mail to [privacy@affiliatewindow.com](mailto:privacy@affiliatewindow.com)
 
-You can send mail to the following address:
-
-Director of Privacy  
+You can send mail to the following address:  
 Affiliate Window Ltd  
 Office 5C2, Juniper House  
 Seager Building  
@@ -48,6 +47,3 @@ We use e-mail links located on this site to allow you to contact us directly via
 
 **Legal Disclaimer**  
 We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with legal process served on Affiliate Window.
-
-**For more information**  
-If you have any questions, concerns or comments, please e-mail [privacy@affiliatewindow.com](mailto:privacy@affiliatewindow.com)
