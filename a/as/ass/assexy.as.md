@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the assexy.as privacy policy that was archived on 2003-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030629154750id_/http%3A//www.assexy.as/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the assexy.as privacy policy that was archived on 2003-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031029173612id_/http%3A//www.assexy.as/info/privacy) for the most accurate reproduction.*
 
 # Sitelutions.com -- Solutions for your site. All in one place.
 
