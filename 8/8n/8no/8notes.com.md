@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 8notes.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604035708id_/http%3A//www.8notes.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 8notes.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207054921id_/http%3A//www.8notes.com/help/privacy.asp) for the most accurate reproduction.*
 
 # 
 
@@ -37,6 +37,7 @@ By using our web site, you consent to the collection and use of this information
 Top of Page
 
 |     [UK Writers' Community](http://www.writewords.org.uk/)  
+   [Ram Upgrades](http://www.ram-memory.co.uk/)  
 ---|---  
   
 
