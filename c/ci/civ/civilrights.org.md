@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the civilrights.org privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206074119id_/http%3A//www.civilrights.org/about/civilrights/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the civilrights.org privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606004243id_/http%3A//www.civilrights.org/about/civilrights/privacy) for the most accurate reproduction.*
 
 # civilrights.org -- civilrights.org
 
