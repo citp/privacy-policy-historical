@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the firebox.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413090442id_/http%3A//www.firebox.com/admin/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firebox.com privacy policy that was archived on 2002-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020405192110id_/http%3A//www.firebox.com/index.html%3Fdir%3Dadmin%26action%3Dprivacy) for the most accurate reproduction.*
 
-# firebox.com - where men buy stuff
+# firebox.com - gadgets | games | boys toys - the latest hot stuff
 
 **What information do we collect?**  
 When you place an order we collect your name, e-mail address, mailing address, phone number and credit card information. We may record which products you are interested in and which products you purchase. We also monitor customer traffic patterns and site use which enables us to improve the service we provide. 
