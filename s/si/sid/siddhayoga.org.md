@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the siddhayoga.org privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205215855id_/http%3A//www.siddhayoga.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siddhayoga.org privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203093202id_/http%3A//www.siddhayoga.org/privacy_policy.html) for the most accurate reproduction.*
 
-# Siddha Yoga Meditation || About SYDA
+# Privacy Policy for Siddha Yoga Meditation Website
 
 **  
 SYDA Foundation is committed to the privacy of visitors to the "Siddha Yoga Meditation Website". **
 
-It is the policy of SYDA Foundation not to share your name or information with any unaffiliated individual or organization. If for some reason this policy would change in the future, SYDA Foundation will not share any identifiable information about you without your permission. . 
+It is the policy of SYDA Foundation not to share your name or information with any unaffiliated individual or organization. If for some reason this policy would change in the future, SYDA Foundation will not share any identifiable information about you without your permission. 
 
 **Registration Forms  
 **There is no registration necessary to visit or participate in this Website. However, certain portions of this site may condition your access on the provision of personally identifiable information. Also, portions of the site allow you to join our mailing list and receive e-mail or regular mail information from us. These same sections provide for the ability to opt-out of receiving future mailings at any time. This site is directly linked to the Siddha Yoga Bookstore at www.bookstore.siddhayoga.org. When making purchases from the bookstore, users will be required to provide contact information such as their name, email, and postal address and financial information such as credit card numbers. Financial information that is collected is used solely to bill the user for products and services. The privacy and security policies specific to the Siddha Yoga Bookstore can be reviewed at: [http://bookstore.siddhayoga.org/merchant/help/privacy.html ](http://bookstore.siddhayoga.org/merchant/help/privacy.html)
