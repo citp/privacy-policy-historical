@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stocklayouts.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203131051id_/http%3A//www.stocklayouts.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stocklayouts.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607014158id_/http%3A//www.stocklayouts.com/privacy.aspx) for the most accurate reproduction.*
 
 # StockLayouts Privacy Policy
 
@@ -25,7 +25,7 @@ The information collected online is stored indefinitely and is used for various 
    
 **Your Choices.**  
    
-You may choose not to allow us to disclose information to third parties for purposes other than providing the requested service by selecting the appropriate box at the time of data disclosure, or by sending an email to [info@stocklayouts.com](mailto:info@stocklayouts.com). In addition, unless you opt out of receiving promotional materials from us, we may notify you of special promotions, new products or services, or other information that may be of interest. You may choose not to receive promotional information from StockLayouts LLC by checking the appropriate box at the time of information collection or at a later time by sending an email to [info@stocklayouts.com](mailto:info@stocklayouts.com). (Please note that you may still receive such material from third party content providers, affiliates and other parties to whom we provide your information in the course of doing business.) If you would like to review or revise information you previously provided on an online form, or believe that what we currently have on record is incorrect, you may access, update, or delete your information in the My Account section of this website. If for some reason you are unable to access your data online, you may send an email to [info@stocklayouts.com](mailto:info@stocklayouts.com), requesting that we update your information for you.  
+You may choose not to allow us to disclose information to third parties for purposes other than providing the requested service by selecting the appropriate box at the time of data disclosure, or by sending an email to [ info@stocklayouts.com](mailto:info@stocklayouts.com). In addition, unless you opt out of receiving promotional materials from us, we may notify you of special promotions, new products or services, or other information that may be of interest. You may choose not to receive promotional information from StockLayouts LLC by checking the appropriate box at the time of information collection or at a later time by sending an email to [info@stocklayouts.com](mailto:info@stocklayouts.com). (Please note that you may still receive such material from third party content providers, affiliates and other parties to whom we provide your information in the course of doing business.) If you would like to review or revise information you previously provided on an online form, or believe that what we currently have on record is incorrect, you may access, update, or delete your information in the My Account section of this website. If for some reason you are unable to access your data online, you may send an email to [ info@stocklayouts.com](mailto:info@stocklayouts.com), requesting that we update your information for you.  
    
 **Other Disclosures.**  
    
@@ -47,7 +47,7 @@ StockLayouts LLC uses reasonable precautions to keep your personal information s
    
 **Policy Regarding Minors.**  
    
-We do not intend to collect personal information from anyone under the age of 18. If you are under 18, you should not enter information on this website and should ask a parent to do so for you.  
+We do not intend to collect personal information from anyone under the age of 18\. If you are under 18, you should not enter information on this website and should ask a parent to do so for you.  
    
 **Notice to European Union Member Citizens and Residents:**  
    
@@ -58,5 +58,7 @@ If you are located outside of the United States of America, please note that Sto
 If at any time you believe that we have not followed the above policy, or would like more information regarding your privacy protection, please let us know by sending an email to [info@stocklayouts.com](mailto:info@stocklayouts.com) or by writing to us at 8364 SW Nimbus Avenue, Beaverton, Oregon 97008, Attn: Privacy Policy. We will make reasonable efforts to identify and correct any problem.  
    
 We reserve the right to change the terms of this privacy policy at any time, but will not do so without posting the revised policy on this website. We encourage you to review this privacy policy whenever you visit our website to make sure you understand how we use the information we collect.   
+   
+© Copyright 2001-2002 StockLayouts LLC. All rights reserved.  
    
 
