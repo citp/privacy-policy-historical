@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truckpaper.com privacy policy that was archived on 2002-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020608210126id_/http%3A//truckpaper.com/info/privacy.asp%3Fguid%3Dzker1g1i) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truckpaper.com privacy policy that was archived on 2002-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021009223051id_/http%3A//www.truckpaper.com/info/privacy.asp%3Fguid%3Diyyh4fm0) for the most accurate reproduction.*
 
 # Truck Paper Privacy Policy
 
@@ -8,4 +8,4 @@ TruckPaper.com understands the concerns people have about privacy and safety whi
 3. | TruckPaper.com uses a secure firewall to keep out unauthorized users and ensure the integrity of our systems. We are vigilant about protecting our site from unwanted intrusions.  
 4. | TruckPaper.com does **not** sell, trade, or otherwise release any personal information on our site visitors or subscribers. We respect your desire for privacy and zealously protect any information you give us. Your information is safe with us!  
   
-If you have any questions at all about our Privacy Policy or our Web site, [**please send us a message**](https://web.archive.org/info/customerservice.asp?guid=i5dlawa0). Thank you for visiting our site.
+If you have any questions at all about our Privacy Policy or our Web site, [**please send us a message**](https://web.archive.org/info/customerservice.asp?guid=im067fe8). Thank you for visiting our site.
