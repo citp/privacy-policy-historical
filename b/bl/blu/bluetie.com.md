@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the bluetie.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205051600id_/http%3A//www.bluetie.com/corp/privacy.asp%3Fid%3D%26res%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluetie.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603111442id_/http%3A//www.bluetie.com/about/privacy.asp%3Fid%3D%26res%3D) for the most accurate reproduction.*
 
-# Welcome to BlueTie
+# BlueTie, Inc. - Welcome!
+
+Privacy Statement **  
+**
 
 LAST UPDATED: 9/1/00   
   
-**PRIVACY POLICY**  
+**[](https://www.truste.org/validate/7004)PRIVACY POLICY**  
 BlueTie.com, Inc. ("BlueTie.com") **  
 [www.bluetie.com](http://www.bluetie.com/)**
 
@@ -33,10 +36,7 @@ BlueTie.com respects the privacy of every individual who visits www.bluetie.com 
 
 **Your Acceptance Of These Terms**
 
-By using the Web Site, you signify your assent to our [Privacy Policy](https://web.archive.org/web/20001205051600id_/http%3A//www.bluetie.com/corp/privacy.asp). If you do not agree to this Policy, please do not use the Site. Your continued use of the Web Site following the posting of changes to its terms means you accept those changes.
-
-  
-
+By using the Web Site, you signify your assent to our [Privacy Policy](https://web.archive.org/web/20010603111442id_/http%3A//www.bluetie.com/about/privacy.asp?id=&res=). If you do not agree to this Policy, please do not use the Site. Your continued use of the Web Site following the posting of changes to its terms means you accept those changes.
 
 **Personally-Indentifiable Information** There are cases where we may ask you for personally-identifiable information such as your name, mailing address, email address and telephone number. We request personally-identifiable information when you register as a member of the Web Site, for online transactions, feedback forms, surveys and for other services that require registration or subscription. We will not collect any personally-identifiable information about you unless you provide it to us voluntarily. Please note that although certain registrations within BlueTie.com require certain user information, registration itself is entirely optional. We will also collect other users' comments about you in our feedback area. 
 
@@ -50,9 +50,11 @@ When you provide us with personally-identifiable information, BlueTie.com may:
 believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) BlueTie.com's rights or property, other members or users of the Web Site, or anyone else who could be harmed by such activities; and 
   * disclose that information to third parties when we believe in good faith that the law requires it. 
 
+
+
 Except as stated in this Privacy Policy, or as otherwise stated at the time personally-identifiable information is gathered, we will not provide personally-identifiable information to third parties.
 
-**Financial Information**
+ **Financial Information**
 
 BlueTie.com may ask you for your credit card number and expiration date when you register as a member of the Web Site or order goods or services from the Web Site. We may use this information for processing your registration and order and may share this information with credit card processing companies, the merchants from whom you have ordered, and any other third party that may need the information to process your order. These organizations have their own privacy and data collection practices, and we have no responsibility for these independent policies.
 
@@ -66,9 +68,9 @@ Contests, sweepstakes, or other promotions on the Site will have separate privac
 
 **Modification of Information and Opt-Out**
 
-If you indicated on registration that you are interested in receiving offers or information from BlueTie.com and our partners, we may occasionally send you e-mail about products and services we believe may be of interest to you. If you do not want to receive such mailings, simply tell us when you give us your personal information. Or, if you have been receiving the mailings and if you would like to remove or change that option or some other information you have submitted, you may do so by visiting [My Account](https://web.archive.org/myaccount.asp). (Remember, however, that removing some or all of your information may limit your ability to access some or all of the features and services of the Web Site.)"
+If you indicated on registration that you are interested in receiving offers or information from BlueTie.com and our partners, we may occasionally send you e-mail about products and services we believe may be of interest to you. If you do not want to receive such mailings, simply tell us when you give us your personal information. Or, if you have been receiving the mailings and if you would like to remove or change that option or some other information you have submitted, you may do so by visiting [My Account](https://web.archive.org/myaccount.asp?id=&res=). (Remember, however, that removing some or all of your information may limit your ability to access some or all of the features and services of the Web Site.)"
 
-In addition, to keep you in control of your personally-identifiable information and the communications directed to you, we allow you to opt-out of receiving marketing and promotional communications from BlueTie.com. You may opt-out of this service by following the instructions included in the communications or by visiting [My Account](https://web.archive.org/myaccount.asp).
+In addition, to keep you in control of your personally-identifiable information and the communications directed to you, we allow you to opt-out of receiving marketing and promotional communications from BlueTie.com. You may opt-out of this service by following the instructions included in the communications or by visiting [My Account](https://web.archive.org/myaccount.asp?id=&res=).
 
 **Information Collected Automatically**
 
@@ -96,7 +98,7 @@ The Web Site allows links to various other web sites. We assume no responsibilit
 
 **Security**
 
-Please keep in mind that whenever you give out personal information online --- for example, via instant messaging or online meetings--- that information can be collected and used by people you don't know. While BlueTie.com strives to protect your information and privacy, we cannot guarantee the security of any information you disclose online, and you do so at your own risk. 
+Please keep in mind that whenever you give out personal information online \--- for example, via instant messaging or online meetings--- that information can be collected and used by people you don't know. While BlueTie.com strives to protect your information and privacy, we cannot guarantee the security of any information you disclose online, and you do so at your own risk. 
 
 The importance of security for all personally-identifiable information associated with our users and members is of utmost concern to us. Unfortunately, no data transmission over the Internet can be guaranteed to be secure. As a result, while we strive to protect your personally-identifiable information, we can't ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. However, once we receive your personally-identifiable information, we will take reasonable efforts to ensure its security on our systems.
 
@@ -112,11 +114,9 @@ If we plan to make significant changes to our privacy policy or practices with r
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact BlueTie at:
 
-[](https://www.truste.org/validate/7004)
-
 > > Privacy Policy  
->  BlueTie.com  
->  110 Allens Creek Road  
->  Rochester NY 14618
+> BlueTie.com  
+> 110 Allens Creek Road  
+> Rochester NY 14618
 
 Or email us at: [privacy@BlueTie.net](mailto:privacy@BlueTie.net)
