@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allyoucanread.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602140941id_/http%3A//www.allyoucanread.com/corp/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allyoucanread.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205032644id_/http%3A//www.allyoucanread.com/corp/privacy_policy.asp) for the most accurate reproduction.*
 
 # AllYouCanRead.Com - Privacy Policy
 
@@ -86,4 +86,7 @@ If we decide to change our privacy policy, we will post those changes to this pr
 If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
 
 **Contact Information**  
-If users have any questions or suggestions regarding our privacy policy, please contact us at:
+If users have any questions or suggestions regarding our privacy policy, please contact us at: [privacy@allyoucanread.com](mailto:privacy@allyoucanread.com)
+
+  
+
