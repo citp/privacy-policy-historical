@@ -1,8 +1,35 @@
-> *The following text is extracted and transformed from the allfreelancework.com privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402235257id_/http%3A//allfreelancework.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfreelancework.com privacy policy that was archived on 2002-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020806130338id_/http%3A//www.allfreelancework.com/privacy.html) for the most accurate reproduction.*
 
-# All Freelance Work : About Us
+# All Freelance Work : Self-Employed jobs: Contractors : Consultants : Independent Professionals
 
-[**Home**](https://web.archive.org/web/20020402235257id_/http%3A//allfreelancework.com/indexx.html) **PRIVACY POLICY**
+| 
+
+****[](http://www.qksrv.net/click-265298-1457124)****
+
+[ ](http://www.qksrv.net/click-265298-550949)[ ](http://www.qksrv.net/click-265298-1457124)[ ](http://www.qksrv.net/click-265298-6944406)[ ](http://www.qksrv.net/click-265298-239746)[ ](http://www.qksrv.net/click-265298-1643131)[ ](http://www.qksrv.net/click-265298-6642818)[](http://www.employment911.com/index.asp?B=14&A=50) [ ](http://www.qksrv.net/click-265298-6944406)[ ](http://www.qksrv.net/click-265298-1457124)[ ](http://www.qksrv.net/click-265298-550949)**  
+**
+
+**[Designer's Contracts and Pricing Guides](http://refer.ccbill.com/cgi-bin/clicks.cgi?CA=910898-0000&PA=262814&BAN=4)**  
+Quality contracts, pricing guides, and articles for designers. 
+
+**[Art Institute Online](http://quinst.com/c.jsp?area=longfangtaimucheng)**  
+Learn Graphic Design or Web Design with Art Institute Online.   
+
+
+**[Earn Mega $$ Affiliate Program](http://www.allfreelancework.com/affiliateprogram.html)** Earn 35% by referring our site to your friends and colleagues.
+
+**_Design Resources  
+_**[Gdrc](http://www.deezin.com/)  
+[M.sketchpad](http://www.sketchpad.net/)  
+[DTP Domain](http://www.dtpdomain.com/)  
+
+
+**ADVERTISE ON ALLFREELANCE NETWORK-** (All Freelance Network receives thousands of visitors daily)[  
+Advertise](http://www.allfreelancework.com/advertise.html)
+
+|  |   | 
+
+[**Home**](https://web.archive.org/web/20020806130338id_/http%3A//www.allfreelancework.com/indexx.html) **PRIVACY POLICY**
 
 This is the web site of **AllFreelance**.  
 
@@ -34,8 +61,33 @@ Customers may prevent their information from being used for purposes other than 
 
 Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them.
 
-Consumers can access this information by e-mail us at the above address. Consumers can have this information corrected by sending us e-mail at the above address. 
+Consumers can access this information by e-mail us at the above address. 
+
+Consumers can have this information corrected by sending us e-mail at the above address. 
 
 With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site.
 
 If you feel that this site is not following its stated information policy, you may **[contact us](mailto:allfreelance@comcast.net)**.
+
+|   |  |  |  |  |  |  |  |   
+---|---|---|---|---|---  
+  
+**TOP PICKS **  
+  
+|  |  |  |  |   
+| 
+
+| 
+
+Please suggest a site [**here**](http://www.allfreelancework.com/submit.html)\- 
+
+[**Click here for Work-From-Home JOBS**](http://www.qksrv.net/click-536746-1457542)   
+Thousands of fresh, real work-from-home jobs posted monthly at IHA.
+
+sister sites : **  
+[AllFreelance.com](http://www.allfreelance.com/indexx.html)  
+[Deezin.com  
+](http://www.deezin.com/)[AFSearch.com](http://www.allfreelancesearch.com/cgi-bin/metasearch/metasearch.cgi)**
+
+|  |  |   
+ 
