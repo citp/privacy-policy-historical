@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rinf.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603175538id_/http%3A//www.infotx.com/pls/portal1/infotx.PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rinf.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203204201id_/http%3A//www.rinf.com/main/resources/privacypolicy.html) for the most accurate reproduction.*
 
-# Website Traffic Statistics - Reports
+# Infotx: Terms of service
 
 **Commitment to Privacy:**  
 InfoTx.Com respects the sensitive nature of the information you provide us. Our Privacy Policy is designed to protect your personal information while maximizing your access to our free services.  This Privacy Policy describes how we treat the information we receive about you when you sign up for an account. Please read the Privacy Policy carefully because it tells you how we use the information you submit to us. If this Privacy Policy changes in the future, we will not use the information you have submitted to us in a manner that is inconsistent with the Privacy Policy under which the information was originally collected.
@@ -8,8 +8,5 @@ InfoTx.Com respects the sensitive nature of the information you provide us. Our 
 **How We Use Your Information:**  
 When you sign up for an account on InfoTx.Com, you provide us with some personal information.  Some of it is optional but most is required.  Personal information includes such things as your name, zip code, time zone, and email address which is used to help identify unique accounts, provide you with web traffic statistics tailored to your website, and to provide a level of accountability for use of our services.  Optional information includes a demographic and interest survey.  This information is not used in conjunction with your personal information.  It is used abstractly in part to help us develop our services to meet the needs of the majority of our users. InfoTx does not collect, store, or use information about children under 13. You must be at least 13 years of age in order to use a InfoTx account. E-mail addresses are utilized only to notify users of significant changes, to address support concerns, or to resolve abuse issues.  InfoTx.Com does not provide or sell **any** sensitive user information, including e-mail addresses, billing information, street addresses, phone numbers, etc. to any third party without the express permission of the user.  Your e-mail address will ONLY be provided to our trusted third party marketing partners if you "opt-in" (specifically choose) to receive e-mail offers about products and services.  Any email you receive as a result of an "opt-in" request will provide you with the opportunity to "opt-out" of receiving future e-mails.  InfoTx does not promote, support, or tolerate e-mail spam! 
 
-**Cookies:**  
-Cookies are not currently used, although we do have plans to use cookies in the near future for better and more accurate tracking and statistics on returning/unique visitors. 
-
 **Contact us:**  
-If you have any questions/concerns about our privacy statement, feel free to [Email us](mailto:infotx@InfoTx.com). Thank You! 
+If you have any questions/concerns about our privacy statement, feel free to [Email us](mailto:infotx@InfoTx.com). 
