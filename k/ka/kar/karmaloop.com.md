@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karmaloop.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204033429id_/http%3A//karmaloop.com/helpprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karmaloop.com privacy policy that was archived on 2005-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050401234342id_/http%3A//www.karmaloop.com/helpprivacy.asp) for the most accurate reproduction.*
 
 # KARMALOOP.COM :: cool clothes, urban clothing, fashion clothing
 
