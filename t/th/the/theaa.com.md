@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theaa.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202205856id_/http%3A//www.theaa.com/termsandconditions/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theaa.com privacy policy that was archived on 2004-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040614214901id_/http%3A//www.theaa.com/termsandconditions/privacy_policy.html) for the most accurate reproduction.*
 
 # The AA: Privacy policy
 
@@ -60,9 +60,11 @@ Some of the personal information we hold about you may be sensitive personal dat
 
 Please be aware that communications over the Internet, such as emails/webmails, are not secure unless they have been encrypted. Your communications may route through a number of countries before being delivered – this is the nature of the World Wide Web/Internet. We cannot accept responsibility for any unauthorised access or loss of personal information that is beyond our control. 
 
-11\. We may use 'cookies' to monitor web-site user traffic patterns and site usage. They help us to understand how our customers and potential customers use our web sites so that we can develop and improve the design, layout and functionality of the sites. A cookie is a piece of information that is stored on your computer's hard drive and which records your navigation of a web site so that, when you revisit that web site, it can present tailored options to you based upon the stored information about your last visit. You can normally alter the settings of your browser to prevent acceptance of cookies. 
+11\. We may use 'cookies' to monitor web-site user traffic patterns and site usage. They help us to understand how our customers and potential customers use our web sites so that we can develop and improve the design, layout and functionality of the sites. A cookie is a piece of information that is stored on your computer's hard drive and which records your navigation of a web site so that, when you revisit that web site, it can present tailored options to you based upon the stored information about your last visit. You can normally alter the settings of your browser to prevent acceptance of cookies.
 
-If you do not want us to deploy cookies in your browser, you can set your browser to reject cookies or to notify you when a web site tries to put a cookie on your computer. However, rejecting cookies may affect your ability to use some of the products and/or services at our Web site. 
+We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. You can find out [more information](http://www.networkadvertising.org/optout_nonppii.asp) about this practice and your choices. 
+
+If you do not want us to deploy cookies in your browser, you can set your browser to reject cookies or to notify you when a web site tries to put a cookie on your computer. However, rejecting cookies may affect your ability to use some of the products and/or services at our Web Site. 
 
 ### Turning Off Cookies in Different Browsers
 
@@ -104,7 +106,7 @@ You may reconfigure your computer to accept cookies again by following these ins
 
 
 
-We also have information on [disabling cookies in other browsers](https://web.archive.org/web/20031202205856id_/http%3A//www.theaa.com/termsandconditions/cookies.html).
+We also have information on [disabling cookies in other browsers](https://web.archive.org/web/20040614214901id_/http%3A//www.theaa.com/termsandconditions/cookies.html).
 
 ### Links
 
