@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the logisticsmgmt.com privacy policy that was archived on 2002-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021217170613id_/http%3A//www.manufacturing.net/lm/index.asp%3Flayout%3DSiteInfoWebzine%26view%3DDetail%26doc_id%3D21145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logisticsmgmt.com privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624043800id_/http%3A//www.manufacturing.net/lm/index.asp%3Flayout%3DSiteInfoWebzine%26view%3DDetail%26doc_id%3D21145) for the most accurate reproduction.*
 
-# Logistics Management and Distribution Report
+# Logistics Management
 
 | Privacy Policy  
 ---  
@@ -11,7 +11,7 @@ July 17, 2002
 
 This Privacy Policy describes the policies of Reed Business Information (“RBI” or “we”), a division of Reed Elsevier Inc. (“Reed Elsevier”), regarding the collection, use, disclosure and protection of the following types of information:
 
-  * Information obtained when you and other users (“you” or “Users”) visit the www.manufacturing.net web site and its network sites (the “Site”).  
+  * Information obtained when you and other users (“you” or “Users”) visit the [http://www.manufacturing.net](http://www.manufacturing.net/) web site and its network sites (the “Site”).  
 
   * Information obtained through e-mail communications with you related to the Site.   
 
