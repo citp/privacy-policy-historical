@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ntis.gov privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603181859id_/http%3A//www.ntis.gov/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntis.gov privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201042228id_/http%3A//www.ntis.gov/about/privacy.htm) for the most accurate reproduction.*
 
 # NTIS Privacy & Security
 
@@ -39,4 +39,4 @@ _** "Cookies" are small pieces of information that are stored by your browser on
 | [Search](http://www.ntis.gov/search.htm) | [Customer support](http://www.ntis.gov/support/index.html) | [Product](http://www.ntis.gov/products/index.html)[s](http://www.ntis.gov/products/index.html) | [About NTIS](http://www.ntis.gov/about/index.html) | [Site index](http://www.ntis.gov/siteindex.htm) | [Home](http://www.ntis.gov/index.html) |  
 | [Services for agencies](http://www.ntis.gov/services/index.html) [](http://www.ntis.gov/support/index.html)| [Review order](http://chaos.fedworld.gov/coin_cartmgr/cartmgr.cgi?action=DISPLAY_CART&template=onow.cart_display.html.txt&error_template=default_error.html.txt&return_url=www.ntis.gov/%22) | [Pickup download ](http://chaos.fedworld.gov/coin_cartmgr/cartmgr.cgi?action=DISPLAY_DOC&template=onow.previous_order_login.html.txt&amp;error_template=onow.default_error.html.txt&return_url=http://www.ntis.gov/) | [Privacy statement](http://www.ntis.gov/about/privacy.htm) | [Feedback](http://www.ntis.gov/feedback.htm) |
 
-\- 03/29/2001
+\- 10/25/2001
