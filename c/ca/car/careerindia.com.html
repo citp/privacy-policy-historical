@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the careerindia.com privacy policy that was archived on 2001-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011205073530id_/http%3A//careerindia.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the careerindia.com privacy policy that was archived on 2002-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020604050040id_/http%3A//www.careerindia.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <title>CareerIndia - Disclaimer</title>
@@ -12,64 +12,31 @@
 
 <script language="JavaScript">
 
-var count=0; 
-function fopen(){ 
-window.open('', 'pollresult','height=410,width=480,scrollbars,scrollbars');  } 
-		
-function setCooki() 
+function check() 
 { 
-if(count==0) 
-{ 
-count=1; 
-for(i=0;i<document.poll.elements.length-1;++i) 
-{ 
- if(document.poll.elements[i].checked) 
-{ 
- name_val = document.poll.elements[i].value; 
- window.open('http://servlet.indiainfo.com/poll/PollDisplayTemp?r2='+ name_val, 'myForm','height=410,width=480,scrollbars,scrollbars'); 
-} 
-} 
-} 
-else 
-{ 
-alert ("You cannot vote again") 
-} 
- return false; 
+var newslet = document.subscribe; 
+if (newslet.emailID.value=="") 
+ { 
+    alert("Please enter your Name") 
+    newslet.emailID.focus(); 
+    return false; 
+  } 
+    else if (newslet.emailID.value=="") 
+    { 
+    alert("Enter your E-mail ID") 
+    newslet.emailID.focus(); 
+    return false; 
  } 
-
-
-function show()
-	{		
-	   if(document.layers)
-	   {
-	   		 document.layers['layer1'].visibility="show"
-	   }
-	   else
-	   {
-	         document.all('layer1').style.visibility="visible"
-	   }
-	}
-	function hide()
-	{
-	   if(document.layers)
-	   {
-	       document.layers['layer1'].visibility="hide"
-	   }
-	   else
-	   {
-	         document.all('layer1').style.visibility="hidden"
-	   }
-	}
+    else 
+if((newslet.emailID.value.indexOf('.',0)=="-1")||(newslet.emailID.value.indexOf('@',0)=="-1")) 
+{ 
+ alert("Invalid E-Mail Address") 
+    newslet.emailID.focus(); 
+    return false; 
+} 
+}
 	
-function getRandomImage()
-{       
-        
-                        var ranValue = Math.round(Math.random()*52);
-						document.SlideShow.src="images/img" + ranValue + ".gif";
-                        //if (ranValue >= 35)   {       alert(ranValue); }
-           } 
-
-		               	
+               	
 </script>
 
 </head><body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><map name="header">
@@ -88,10 +55,16 @@ function getRandomImage()
 <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="White">
   <tbody><tr>
     <td>
-<a href="http://www.careerindia.com"><img src="http://www.careerindia.com/logo.gif" width="150" height="70" border="0" alt=""></a></td><td align="center"><script language="JavaScript" src="http://ads.indiainfo.com/?DC=career-top&amp;JS=Y&amp;target=Y"></script></td></tr>
-<form></form></tbody></table>
-<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="White">
-<tbody><tr><td width="60%" valign="bottom"><img src="http://www.careerindia.com/img/careerindia.gif" width="384" height="19" border="0" usemap="#mapcareer"></td><td width="40%" align="right"><script language="JavaScript" type="text/javascript" src="http://www.indiainfo.com/root/channels.js"> 
+<img src="http://www.careerindia.com/logo.gif" width="150" height="70" border="0" alt="" usemap="#logomap"><map name="logomap">
+<area alt="www.careerindia.com" coords="5,3,149,53" href="http://www.careerindia.com">
+<area alt="First in India" coords="8,55,149,69" href="http://www.indiainfo.com/about/iso/">
+</map>
+</td><td><script language="JavaScript" src="http://ads.indiainfo.com/?DC=career-top&amp;JS=Y&amp;target=Y"></script></td>
+
+</tr>
+</tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="White"><form></form>
+<tbody><tr><td width="60%" valign="bottom"><img src="http://www.careerindia.com/img/careerindia.gif" width="384" height="19" border="0" usemap="#mapcareer" alt=""></td><td width="40%" align="right"><script language="JavaScript" type="text/javascript" src="http://www.indiainfo.com/root/channels.js"> 
 <!-- 
 //--> 
 </script> 
@@ -106,12 +79,15 @@ function getRandomImage()
 <area alt="Indiainfo Mail" coords="75,3,111,17" href="http://mail.indiainfo.com">
 <area alt="Indiainfo Chat" coords="139,1,170,20" href="http://chat.indiainfo.com">
 
-<area alt="Indiainfo Shop" coords="196,3,232,19" href="http://iishop.indiainfo.com/">
+<area alt="Indiainfo Shop" coords="196,3,232,19" href="http://shop.indiainfo.com/">
 
-<area alt="Indiafocus" coords="253,2,297,17" href="http://indiafocus.indiainfo.com">
+<area alt="Indiainfo Search" coords="253,2,297,17" href="http://search.indiainfo.com">
 
 <area alt="Indiainfo" coords="313,1,376,18" href="http://www.indiainfo.com">
 </map>
+<script language="JavaScript" src="http://ads.indiainfo.com/?DC=root-popup&amp;POP=Y&amp;OL=1&amp;WP=BOTTOM&amp;TARGET=Y&amp;OO=toolbar=no&amp;H=215&amp;W=215&amp;AS=1&amp;MH=0&amp;MW=0">
+</script>
+
 
 <style>
 .whiteb
@@ -218,12 +194,12 @@ www.Indiainfo.com</a>
 <a href="http://www.careerindia.com" class="white">Home</a> | <a href="http://www.indiainfo.com/about/index.html" class="white">
 About Us</a> | <a href="http://www.careerindia.com/feedback/feedback.jsp" class="white">Feedback</a> | <a href="http://www.indiainfo.com/advertise/index.html" class="white">Advertise with Us</a> | <a href="http://www.careerindia.com/contactus.html" class="white">Contact Us</a> | <a href="/faq.html" class="white" target="_blank">FAQ</a><br>
   <a href="http://www.careerindia.com/disclaimer.html" class="white">Disclaimer</a> |
-<a href="http://www.careerindia.com/copyright.html" class="white">©Copyright 2001</a> |
+<a href="http://www.careerindia.com/copyright.html" class="white">Copyright © 2001 Indiainfo.com.</a> |
 <a href="http://www.careerindia.com/privacy.html" class="white">Privacy Policy</a> |
 <a href="http://www.careerindia.com/termsofservice.html" class="white">Terms of Service</a>
 </td></tr>
 
 <tr><td>&nbsp;</td></tr></tbody></table>
-<div id="car" style="position:absolute; left:0; top:0; visibility:hidden;"><script src="http://xslt.alexa.com/servlet/SiteStatsXSLServlet?type=js&amp;url=http://www.careerindia.com&amp;select=tnual"></script></div>
+
 
 </body></html>
