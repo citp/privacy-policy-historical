@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the jt.org privacy policy that was archived on 2000-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001210182500id_/http%3A//jt.org/privacypolicy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jt.org privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616142627id_/http%3A//jt.org/privacy.phtml) for the most accurate reproduction.*
 
-# jt.org - advertise here
-
-**Privacy Policy  
-**
-
-JT.ORG Privacy Statement (Ver. 1.0)
+# Welcome to jt.org
 
 Why A Privacy Statement?
 
