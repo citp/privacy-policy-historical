@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the forestry.gov.uk privacy policy that was archived on 2003-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031208164904id_/http%3A//www.forestry.gov.uk/forestry/infd-52ybs4) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the forestry.gov.uk privacy policy that was archived on 2004-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040603101711id_/http%3A//www.forestry.gov.uk/forestry/infd-52ybs4) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-<title>Forestry Commission - Privacy Policy</title><link rel="stylesheet" type="text/css" href="/website/FCWide.nsf/standard.css?OpenPage"><meta name="description" content="privacy policy"><meta name="keywords" content="forestry, forest, tree, wood, timber, conifers, woodlands, broadleaves, Forestry Commission"><meta http-equiv="Expires" content="Mon, 8 December 2003 16:42:22 GMT"><script language="JavaScript"></script>
+<title>Forestry Commission - Privacy Policy</title><link rel="stylesheet" type="text/css" href="/website/FCWide.nsf/standard.css?OpenPage"><meta name="description" content="privacy policy"><meta name="keywords" content="forestry, forest, tree, wood, timber, conifers, woodlands, broadleaves, Forestry Commission"><meta http-equiv="Expires" content="Thu, 3 June 2004 11:9:47 GMT"><script language="JavaScript"></script>
 <script language="JavaScript" type="text/javascript">
 <!-- 
 document._domino_target = "_self";
@@ -19,70 +19,717 @@ function _doClick(v, o, t) {
 }
 // -->
 </script>
-</head>
-<body text="#000000" bgcolor="#FFFFFF" marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" rightmargin="0" onload="MM_preloadImages('/images/helpiconlight.gif/$FILE/helpiconlight.gif','/images/aboutuslight.gif/$FILE/aboutuslight.gif','/images/contactuslight.gif/$FILE/contactuslight.gif','/images/newsiconlight.gif/$FILE/newsiconlight.gif','/images/libraryiconlight.gif/$FILE/libraryiconlight.gif','/images/sitesearchiconlight.gif/$FILE/sitesearchiconlight.gif');">
 
-<form action=""><script language="JavaScript">
-<!--
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+<script language="JavaScript" type="text/javascript">
+<!-- 
+function showOrig(id, parentid)
+{
+  if (parentid!='none')
+  {
+  	document.getElementById(id).style.left = document.getElementById(parentid).offsetWidth-5;
+  	if (document.getElementById(id).offsetTop > 250 & id!='Partnerships')
+  	{
+  	  document.getElementById(id).style.top = document.getElementById(id).offsetTop-document.getElementById(id).offsetHeight+15;
+  	}
+  }  
+  document.getElementById(id).style.visibility = 'visible';
 }
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+function show(id, parentid,alignid)
+{
+   var iHtWin=0;
+   var iWidthWin=0;
+   var iAlnHt;
+   var elAlign=document.getElementById(alignid);
+
+  if (parentid!='none')
+  {
+    el=document.getElementById(id);
+    document.getElementById(id).style.left = document.getElementById(parentid).offsetWidth-5;
+    if (elAlign!=null)
+      document.getElementById(id).style.top = elAlign.style.top;
+    var iPos=0;
+    var iLeft=0;
+    elIt=document.getElementById(alignid);
+    if (elIt!=null)
+    {
+      iPos+=elIt.offsetTop;
+      elIt=elIt.parentNode;
+      if (elIt!=null)
+      {
+        iPos+=elIt.offsetTop;
+        el.style.top = iPos;
+      }
+    }
+    var i=0;
+    elIt=document.getElementById(alignid);
+    while (elIt!=null & elIt.id!="QLTD")
+    {
+      iLeft+=elIt.offsetLeft;
+      elIt=elIt.parentNode;
+    }
+     if (parseInt(navigator.appVersion)>3) 
+     {
+       if (navigator.appName=="Netscape") 
+       {
+          iHtWin = window.innerHeight;
+          iWidthWin = window.innerWidth;
+       }
+       if (navigator.appName.indexOf("Microsoft")!=-1) 
+       {
+         iHtWin = document.body.offsetHeight;
+         iWidthWin = document.body.offsetWidth;
+       }
+    }
+  	document.getElementById(id).style.left = document.getElementById(parentid).offsetWidth-5;
+  	
+     document.getElementById(id).style.top=iPos;
+     // 50 pixels makes the menus look less tight against the bottom of the window
+  	if (document.getElementById(id).offsetTop+document.getElementById(id).offsetHeight>(iHtWin-50))
+  	{
+  	  iAlnHt=0;
+  	  if (elAlign!=null)
+  	  {
+  	    iAlnHt=document.getElementById(alignid).offsetHeight;
+  	  }
+  	  document.getElementById(id).style.top = iPos-document.getElementById(id).offsetHeight+iAlnHt;
+  	}
+  }  
+
+  document.getElementById(id).style.visibility = 'visible';
 }
-function MM_findObj(n, d) { //v3.0
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+function hide(id)
+{
+  document.getElementById(id).style.visibility = 'hidden';
 }
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-//-->
+
+// -->
 </script>
-	
-<!--The following table is the table for the top navigation bar--> 
-<table border="0" cellpadding="0" cellspacing="0" width="100%" summary="layout table">
-	
-<tbody><tr align="left" valign="top" bgcolor="#FFFFFF">
-<td rowspan="2"><a href="/forestry/HCOU-4U4HZM"><img src="/images/hometopleftlogo.gif/$FILE/hometopleftlogo.gif" width="183" height="73" border="0" align="bottom" alt="to FC homepage"></a></td>           
-                
-<td rowspan="2"><a href="/forestry/HCOU-4U4J3S" onmouseout="MM_swapImgRestore()" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('Image3','','/images/helpiconlight.gif/$FILE/helpiconlight.gif',1)" onfocus="MM_swapImage('Image3','','/images/helpiconlight.gif/$FILE/helpiconlight.gif',1)"><img name="Image3" border="0" src="/images/helpicon.gif/$FILE/helpicon.gif" width="71" height="73" alt="to Help"></a></td>
-                
-<td rowspan="2"><a href="/forestry/HCOU-4U4HZT" onmouseout="MM_swapImgRestore()" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('Image4','','/images/aboutuslight.gif/$FILE/aboutuslight.gif',1)" onfocus="MM_swapImage('Image4','','/images/aboutuslight.gif/$FILE/aboutuslight.gif',1)"><img name="Image4" border="0" src="/images/aboutus.gif/$FILE/aboutus.gif" width="71" height="73" alt="to about us"></a></td>
-                
-<td rowspan="2"><a href="/forestry/HCOU-4UBHR3" onmouseout="MM_swapImgRestore()" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5','','/images/contactuslight.gif/$FILE/contactuslight.gif',1)" onfocus="MM_swapImage('Image5','','/images/contactuslight.gif/$FILE/contactuslight.gif',1)"><img name="Image5" border="0" src="/images/contactus.gif/$FILE/contactus.gif" width="71" height="73" alt="to Contacts"></a></td>
-                
-<td rowspan="2"><a href="/newsrele.nsf/web-highlights" onmouseout="MM_swapImgRestore()" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('Image6','','/images/newsiconlight.gif/$FILE/newsiconlight.gif',1)" onfocus="MM_swapImage('Image6','','/images/newsiconlight.gif/$FILE/newsiconlight.gif',1)"><img name="Image6" border="0" src="/images/newsicon.gif/$FILE/newsicon.gif" width="71" height="73" alt="to News"></a></td>
-                
-<td rowspan="2"><a href="/forestry/HCOU-4UBJ59" onmouseout="MM_swapImgRestore()" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('Image7','','/images/libraryiconlight.gif/$FILE/libraryiconlight.gif',1)" onfocus="MM_swapImage('Image7','','/images/libraryiconlight.gif/$FILE/libraryiconlight.gif',1)"><img name="Image7" border="0" src="/images/libraryicon.gif/$FILE/libraryicon.gif" width="71" height="73" alt="to Library"></a></td>
-                
-<td rowspan="2"><a href="/website/searchall.nsf/$$Search" onmouseout="MM_swapImgRestore()" onblur="MM_swapImgRestore()" onmouseover="MM_swapImage('Image8','','/images/sitesearchiconlight.gif/$FILE/sitesearchiconlight.gif',1)" onfocus="MM_swapImage('Image8','','/images/sitesearchiconlight.gif/$FILE/sitesearchiconlight.gif',1)"><img name="Image8" border="0" src="/images/sitesearchicon.gif/$FILE/sitesearchicon.gif" width="71" height="73" alt="to Site Search"></a></td>
-				
-<td bgcolor="#009900" width="100%"><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="1" height="60" border="0" alt=""></td>
+
+<script language="JavaScript" type="text/javascript">
+<!-- 
+function opensearch()
+{  
+  var sCountry=document.forms[0].item("CountryJS").value;
+  var sCntQual="";
+  if (sCountry!="" & sCountry!="gb")
+    sCntQual="+and+(field+country+contains+"+sCountry+")";
+  window.open("/website/searchall.nsf/SearchTemplate"+document.forms[0].item("SubsiteUse").value+
+  "?OpenForm&c="+sCountry+"&Areas="+
+  document.forms[0].item("Areas").value+";query="+
+  document.forms[0].item("SearchInput").value+sCntQual+";","_self")
+}
+
+// -->
+</script>
+</head>
+<body text="#000000" bgcolor="#FFFFFF" marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" rightmargin="0" onload="">
+
+<form action=""><style>
+.onepxhigh {height:1px;}
+/* simulate the horizontal rule using the table border because of the amount of vertical space used by NS */
+.hrsim {
+              height:1px; 
+              border-bottom:1px solid #336633;
+              font-size:1px;
+             }
+</style>
+<!--main table, one row-->
+<table cellspacing="0" cellpadding="0" border="0" width="100%" summary="layout">
+<tbody><tr bgcolor="#336633">
+<!-- cell1, link back to GB homepage -->
+<td><a href="http://www.forestry.gov.uk"><img src="/images/universaltopleft.gif/$file/universaltopleft.gif" width="240" height="29" alt="to Forestry Commission homepage" border="0"></a></td>
+<!-- cell2, image for the vertical divider -->
+<td><img src="/images/universalverticalrule.gif/$file/universalverticalrule.gif" width="9" height="22" border="0" alt="" hspace="4"></td>
+<!-- cell3, Quick links  -->
+<td onmouseover="show('QL','none','aql')" onfocus="show('QL','none','aql')" onmouseout="hide('QL')" onblur="hide('QL')" onmouseleave="hide('QL')" id="QLTD">
+<a href="http://www.forestry.gov.uk/forestry/quicklinks" class="whitetext9" id="aql">Quick&nbsp;links</a><br>
+<!--layer for quick links drop down menu-->
+<div onmouseover="show('QL','none','aql')" onfocus="show('QL','none','aql')" onmouseout="hide('QL')" onblur="hide('QL')" onmouseleave="hide('QL')" id="QL" style="visibility:hidden; position: absolute; border: 1px #336633 solid; background-color: #E9F3E9; padding: 3px">
+<!-- first level drop down menu and sub menus embedded-->
+<table cellpadding="0" cellspacing="0" border="0" summary="layout">
+<!-- row1, england-->
+<tbody><tr onmouseover="show('England','QL','aengland')" onfocus="show('England','QL','aengland')" onmouseout="hide('England')" onblur="hide('England')" onmouseleave="hide('England')">
+<td>
+<a href="http://www.forestry.gov.uk/england" class="universalgreentext9" id="aengland">England</a>
+<!--layer for england sub menu-->
+<div onmouseover="show('England','QL','aengland')" onfocus="show('England','QL','aengland')" onmouseout="hide('England')" onblur="hide('England')" onmouseleave="hide('England')" id="England" style="visibility:hidden; position: absolute; width: 140px; border: 1px #336633 solid; background-color: #ffffff; padding: 3px">
+<!--table for england sub menu-->
+<table summary="layout">
+<tbody><tr>
+<td><a href="http://www.forestry.gov.uk/forestry/hcou-4ucf8j" class="universalgreentext9">Forestry strategy</a></td>
 </tr>
 <tr>
-<td bgcolor="#ffffff">&nbsp;</td>
+<td><a href="http://www.forestry.gov.uk/forestry/hcou-4ucf3z" class="universalgreentext9">Communities in England</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/infd-5sehy4" class="universalgreentext9">WGS</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/hcou-4u4hzp" class="universalgreentext9">Increasing access</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/infd-4yph3e" class="universalgreentext9">Partnerships in England</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/infd-5ller8" class="universalgreentext9">Regions</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/infd-59yhgx" class="universalgreentext9">Review of woodland creation</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/hcou-4z6k5n" class="universalgreentext9">Sustaining England's woodlands</a></td>
+</tr>
+<!-- end table for england sub menu-->
+</tbody></table>
+<!-- end layer for england sub menu-->
+</div>
+</td>
+<td><img src="/images/universalrightarrow.gif/$file/universalrightarrow.gif" border="0" alt="" width="9" height="14" hspace="3"></td></tr>
+<!-- row2, scotland-->
+<tr onmouseover="show('Scotland','QL','ascotland')" onfocus="show('Scotland','QL','ascotland')" onmouseout="hide('Scotland')" onblur="hide('Scotland')" onmouseleave="hide('Scotland')"><td>
+<a href="http://www.forestry.gov.uk/scotland" class="universalgreentext9" id="ascotland">Scotland</a>
+<!--layer for scotland sub menu-->
+<div onmouseover="show('Scotland','QL','ascotland')" onfocus="show('Scotland','QL','ascotland')" onmouseout="hide('Scotland')" onblur="hide('Scotland')" onmouseleave="hide('Scotland')" id="Scotland" style="visibility:hidden; position: absolute; width: 140px; border: 1px solid #336633; background-color: #ffffff; padding: 3px">
+<!--table for scotland sub menu-->
+<table summary="layout">
+<tbody><tr>
+<td><a href="http://www.forestry.gov.uk/forestry/hcou-4u4j35" class="universalgreentext9">Communities in Scotland</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/hcou-4xtm77" class="universalgreentext9">Learning in Scotland</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/hcou-4ucg4q" class="universalgreentext9">Environment and wildlife</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/hcou-4ucg7z" class="universalgreentext9">Grants&nbsp;&amp;&nbsp;licences</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/hcou-4ucge8" class="universalgreentext9">Recreation in Scotland</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/hcou-4u4j98" class="universalgreentext9">Forests</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/hcou-4ucggj" class="universalgreentext9">Forestry industry</a></td>
+</tr>
+<!-- end table for scotland sub menu-->
+</tbody></table>
+<!-- end layer for scotland sub menu-->
+</div></td>
+<td><img src="/images/universalrightarrow.gif/$file/universalrightarrow.gif" border="0" alt="" width="9" height="14" hspace="3"></td></tr>
+<!-- row3, wales-->
+<tr onmouseover="show('Wales','QL','awales')" onfocus="show('Wales','QL','awales')" onmouseout="hide('Wales')" onblur="hide('Wales')" onmouseleave="hide('Wales')"><td>
+<a href="http://www.forestry.gov.uk/wales" class="universalgreentext9" id="awales">Wales</a>
+<!--layer for wales sub menu-->
+<div onmouseover="show('Wales','QL','awales')" onfocus="show('Wales','QL','awales')" onmouseout="hide('Wales')" onblur="hide('Wales')" onmouseleave="hide('Wales')" id="Wales" style="visibility:hidden; position: absolute; width: 140px; border: 1px solid #336633; background-color: #ffffff; padding: 3px">
+<!--table for wales sub menu-->
+<table summary="layout">
+<tbody><tr>
+<td><a href="http://www.forestry.gov.uk/forestry/infd-4zuk4r" class="universalgreentext9">Woodlands for learning</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/infd-4zvgw4" class="universalgreentext9">Woodlands for people</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/hcou-4uchmz" class="universalgreentext9">Forest industries</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/infd-4zvlm5" class="universalgreentext9">Woodland management</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/infd-4zvkn9" class="universalgreentext9">Woodland environment</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/infd-4zvk8f" class="universalgreentext9">Woodland recreation</a></td>
+</tr>
+<!-- end table for wales sub menu-->
+</tbody></table>
+<!-- end layer for wales sub menu-->
+</div></td>
+<td><img src="/images/universalrightarrow.gif/$file/universalrightarrow.gif" border="0" alt="" width="9" height="14" hspace="3"></td></tr>
+<!-- row-->
+<tr class="onepxhigh"><td colspan="2" class="hrsim">&nbsp;</td></tr>
+<!-- row, Communities-->
+<tr onmouseover="show('Communities','QL','acommunities')" onfocus="show('Communities','QL','acommunities')" onmouseout="hide('Communities')" onblur="hide('Communities')" onmouseleave="hide('Communities')"><td>
+<a href="http://www.forestry.gov.uk/communities" class="universalgreentext9" id="acommunities">Communities</a>
+<!--layer for communities sub menu-->
+<div onmouseover="show('Communities','QL','acommunities')" onfocus="show('Communities','QL','acommunities')" onmouseout="hide('Communities')" onblur="hide('Communities')" onmouseleave="hide('Communities')" id="Communities" style="visibility:hidden; position: absolute; width: 140px; border: 1px solid #336633; background-color: #ffffff; padding: 3px">
+<!--table for communities sub menu-->
+<table summary="layout">
+<tbody><tr>
+<td><a href="http://www.forestry.gov.uk/forestry/hcou-4u4j97" class="universalgreentext9">Case studies</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/publicregister" class="universalgreentext9">Public register</a></td>
+</tr>
+<!-- end table for communities sub menu-->
+</tbody></table>
+<!-- end layer for communities sub menu-->
+</div></td>
+<td><img src="/images/universalrightarrow.gif/$file/universalrightarrow.gif" border="0" alt="" width="9" height="14" hspace="3"></td></tr>
+<!-- row, Consultations-->
+<tr onmouseover="show('Consultations','QL','aconsultations')" onfocus="show('Consultations','QL','aconsultations')" onmouseout="hide('Consultations')" onblur="hide('Consultations')" onmouseleave="hide('Consultations')"><td>
+<a href="http://www.forestry.gov.uk/consultations" class="universalgreentext9" id="aconsultations">Consultations</a>
+<!--layer for consultations sub menu-->
+<div onmouseover="show('Consultations','QL','aconsultations')" onfocus="show('Consultations','QL','aconsultations')" onmouseout="hide('Consultations')" onblur="hide('Consultations')" onmouseleave="hide('Consultations')" id="Consultations" style="visibility:hidden; position: absolute; width: 140px; border: 1px solid #336633; background-color: #ffffff; padding: 3px">
+<!--table for consultations sub menu-->
+<table summary="layout">
+<tbody><tr>
+<td><a href="http://www.forestry.gov.uk/forestry/infd-5w9cl6" class="universalgreentext9">Hafod</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/publicregister" class="universalgreentext9">Public register</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/infd-5sehy4" class="universalgreentext9">English woodland grant scheme</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/infd-5tughg" class="universalgreentext9">FC Scotland land review</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/planthealth" class="universalgreentext9">Plant health</a></td>
+</tr>
+<!-- end table for consultations sub menu-->
+</tbody></table>
+<!-- end layer for consultations sub menu-->
+</div></td>
+<td><img src="/images/universalrightarrow.gif/$file/universalrightarrow.gif" border="0" alt="" width="9" height="14" hspace="3"></td></tr>
+<!-- row, Learning-->
+<tr onmouseover="show('Learning','QL','alearning')" onfocus="show('Learning','QL','alearning')" onmouseout="hide('Learning')" onblur="hide('Learning')" onmouseleave="hide('Learning')"><td>
+<a href="http://www.forestry.gov.uk/learning" class="universalgreentext9" id="alearning">Learning</a>
+<!--layer for learning sub menu-->
+<div onmouseover="show('Learning','QL','alearning')" onfocus="show('Learning','QL','alearning')" onmouseout="hide('Learning')" onblur="hide('Learning')" onmouseleave="hide('Learning')" id="Learning" style="visibility:hidden; position: absolute; width: 140px; border: 1px solid #336633; background-color: #ffffff; padding: 3px">
+<!--table for learning sub menu-->
+<table summary="layout">
+<tbody><tr>
+<td><a href="http://www.forestry.gov.uk/forestry/hcou-4u4j64" class="universalgreentext9">Enjoy your forests</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/infd-537lmu" class="universalgreentext9">Links</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/infd-4ypmaw" class="universalgreentext9">Employment opportunities</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/infd-5pzffm" class="universalgreentext9">Forest factfile</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/infd-529ee9" class="universalgreentext9">Teachers</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/hcou-4yqm8d" class="universalgreentext9">Training</a></td>
+</tr>
+<!-- end table for learning sub menu-->
+</tbody></table>
+<!-- end layer for learning sub menu-->
+</div></td>
+<td><img src="/images/universalrightarrow.gif/$file/universalrightarrow.gif" border="0" alt="" width="9" height="14" hspace="3"></td></tr>
+<!--row, Recreation -->
+<tr onmouseover="show('Recreation','QL','arecreation')" onfocus="show('Recreation','QL','arecreation')" onmouseout="hide('Recreation')" onblur="hide('Recreation')" onmouseleave="hide('Recreation')">
+<td>
+<a href="http://www.forestry.gov.uk/recreation" class="universalgreentext9" style="width:100px" id="arecreation">Recreation</a>
+<!--layer for recreation sub menu-->
+<div onmouseover="show('Recreation','QL','arecreation')" onfocus="show('Recreation','QL','arecreation')" onmouseout="hide('Recreation')" onblur="hide('Recreation')" onmouseleave="hide('Recreation')" id="Recreation" style="visibility:hidden; position: absolute;  width: 140px; border: 1px #336633 solid; background-color: #ffffff; padding: 3px">
+<!--table for recreation sub menu-->
+<table summary="layout">
+<tbody><tr>
+<td><a href="http://www.forestry.gov.uk/placestogo" class="universalgreentext9">Places to go for recreation</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/visitorcentres" class="universalgreentext9">Visitor centres</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/walking" class="universalgreentext9">Walking</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/cycling" class="universalgreentext9">Cycling</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/easyaccess" class="universalgreentext9">Easy access</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/horseriding" class="universalgreentext9">Horse riding</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/whatson" class="universalgreentext9">What's on</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/website/recreation.nsf/webotheractivitiessearch" class="universalgreentext9">Other activities</a></td>
+</tr>
+<!-- end table for recreation sub menu-->
+</tbody></table>
+<!--end layer for recreation sub menu-->
+</div></td>
+<td><img src="/images/universalrightarrow.gif/$file/universalrightarrow.gif" border="0" alt="" width="9" height="14" hspace="3"></td></tr>
+<!-- row, Research-->
+<tr onmouseover="show('Research','QL','aresearch')" onfocus="show('Research','QL','aresearch')" onmouseout="hide('Research')" onblur="hide('Research')" onmouseleave="hide('Research')"><td>
+<a href="http://www.forestry.gov.uk/research" class="universalgreentext9" id="aresearch">Research</a>
+<!--layer for research sub menu-->
+<div onmouseover="show('Research','QL','aresearch')" onfocus="show('Research','QL','aresearch')" onmouseout="hide('Research')" onblur="hide('Research')" onmouseleave="hide('Research')" id="Research" style="visibility:hidden; position: absolute; width: 140px; border: 1px solid #336633; background-color: #ffffff; padding: 3px">
+<!--table for research sub menu-->
+<table summary="layout">
+<tbody><tr>
+<td><a href="http://www.forestry.gov.uk/forestresearch" class="universalgreentext9">Forest Research</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/planthealth" class="universalgreentext9">Plant health</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/kirn-5ldfk4" class="universalgreentext9">Research reports</a></td>
+</tr>
+<!-- end table for research sub menu-->
+</tbody></table>
+<!-- end layer for research sub menu-->
+</div></td>
+<td><img src="/images/universalrightarrow.gif/$file/universalrightarrow.gif" border="0" alt="" width="9" height="14" hspace="3"></td></tr>
+<!-- row, sustainable forestry-->
+<tr onmouseover="show('Sustain','QL','asustain')" onfocus="show('Sustain','QL','asustain')" onmouseout="hide('Sustain')" onblur="hide('Sustain')" onmouseleave="hide('Sustain')"><td>
+<a href="http://www.forestry.gov.uk/sustainableforestry" class="universalgreentext9" id="asustain">Sustainable&nbsp;forestry</a>
+<!--layer for sustainable forestry sub menu-->
+<div onmouseover="show('Sustain','QL','asustain')" onfocus="show('Sustain','QL','asustain')" onmouseout="hide('Sustain')" onblur="hide('Sustain')" onmouseleave="hide('Sustain')" id="Sustain" style="visibility:hidden; position: absolute; width: 140px; border: 1px solid #336633; background-color: #ffffff; padding: 3px">
+<!--table for sustainable forestry sub menu-->
+<table summary="layout">
+<tbody><tr>
+<td><a href="http://www.forestry.gov.uk/forestry/edik-59fmzf" class="universalgreentext9">Sustainability</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/infd-5tuetn" class="universalgreentext9">Weevils</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/edik-59fp39" class="universalgreentext9">Commitments on forestry</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/edik-59gduw" class="universalgreentext9">In brief</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/infd-4xhdbf" class="universalgreentext9">Indicators</a></td>
+</tr>
+<!-- end table for sustainable forestry sub menu-->
+</tbody></table>
+<!-- end layer for sustainable forestry sub menu-->
+</div></td>
+<td><img src="/images/universalrightarrow.gif/$file/universalrightarrow.gif" border="0" alt="" width="9" height="14" hspace="3"></td></tr>
+<!-- row, vacancies-->
+<tr onmouseover="show('Vacancies','QL','avacancies')" onfocus="show('Vacancies','QL','avacancies')" onmouseout="hide('Vacancies')" onblur="hide('Vacancies')" onmouseleave="hide('Vacancies')"><td>
+<a href="http://www.forestry.gov.uk/forestry/infd-4ypmaw" class="universalgreentext9" id="avacancies">Vacancies</a>
+<!--layer for vacancies sub menu-->
+<div onmouseover="show('Vacancies','QL','avacancies')" onfocus="show('Vacancies','QL','avacancies')" onmouseout="hide('Vacancies')" onblur="hide('Vacancies')" onmouseleave="hide('Vacancies')" id="Vacancies" style="visibility:hidden; position: absolute; width: 140px; border: 1px solid #336633; background-color: #ffffff; padding: 3px">
+<!--table for vacancies sub menu-->
+<table summary="layout">
+<tbody><tr>
+<td><a href="http://www.forestry.gov.uk/forestry/infd-5fgfgr" class="universalgreentext9">Child protection policy</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/infd-54emad" class="universalgreentext9">Colleges and universities</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/infd-54qfw5" class="universalgreentext9">Current vacancies</a></td>
+</tr>
+<!-- end table for vacancies sub menu-->
+</tbody></table>
+<!-- end layer for vacancies sub menu-->
+</div></td>
+<td><img src="/images/universalrightarrow.gif/$file/universalrightarrow.gif" border="0" alt="" width="9" height="14" hspace="3"></td></tr>
+<!-- row, wildwoods-->
+<tr onmouseover="show('Wildwoods','QL','awildwoods')" onfocus="show('Wildwoods','QL','awildwoods')" onmouseout="hide('Wildwoods')" onblur="hide('Wildwoods')" onmouseleave="hide('Wildwoods')">
+<td>
+<a href="http://www.forestry.gov.uk/wildwoods" class="universalgreentext9" id="awildwoods">Wild Woods</a>
+<!--layer for wildwoods sub menu-->
+<div onmouseover="show('Wildwoods','QL','awildwoods')" onfocus="show('Wildwoods','QL','awildwoods')" onmouseout="hide('Wildwoods')" onblur="hide('Wildwoods')" onmouseleave="hide('Wildwoods')" id="Wildwoods" style="visibility:hidden; position: absolute; width: 140px; border: 1px solid #336633; background-color: #ffffff; padding: 3px">
+<!--table for wildwoods sub menu-->
+<table summary="layout">
+<tbody><tr>
+<td><a href="http://www.forestry.gov.uk/website/wildwoods.nsf/WebLocationSearch" class="universalgreentext9">Wildwoods places to go</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/website/wildwoods.nsf/WebWhatsOnSearch" class="universalgreentext9">Wildwoods what's on</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/website/wildwoods.nsf/WebMammalSearch" class="universalgreentext9">Mammals</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/website/wildwoods.nsf/WebBirdsSearch" class="universalgreentext9">Birds</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/website/wildwoods.nsf/WebBugSearch" class="universalgreentext9">Insects and reptiles</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/website/wildwoods.nsf/WebHabitatSearch" class="universalgreentext9">Habitats</a></td>
+</tr>
+<!-- end table for wildwoods sub menu-->
+</tbody></table>
+<!-- end layer for wildwoods sub menu-->
+</div></td>
+<td><img src="/images/universalrightarrow.gif/$file/universalrightarrow.gif" border="0" alt="" width="9" height="14" hspace="3"></td></tr>
+<!-- row-->
+<tr class="onepxhigh"><td colspan="2" class="hrsim">&nbsp;</td></tr>
+<!-- row, forest research-->
+<tr><!--<tr onMouseOver="show('FR','QL','afr')" onFocus="show('FR','QL','afr')" onMouseOut="hide('FR')" onBlur="hide('FR')" onMouseLeave="hide('FR')">--><td>
+<a href="http://www.forestry.gov.uk/forestresearch" class="universalgreentext9" id="afr">Forest Research</a>
+<!--layer for forest research sub menu
+<div onMouseOver="show('FR','QL','afr')" onFocus="show('FR','QL','afr')" onMouseOut="hide('FR')" onBlur="hide('FR')" onMouseLeave="hide('FR')" id="FR" style="visibility:hidden; position: absolute; width: 140px; border: 1px solid #336633; background-color: #ffffff; padding: 3px">
+table for forest research sub menu
+<table summary="layout">
+<tr>
+<td><a href="http://www.forestresearch.gov.uk/fr/infd-5txhaj"  class="universalgreentext9">About Forest Research</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestresearch.gov.uk/fr/infd-5txhba"  class="universalgreentext9">Contact Forest Research</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestresearch.gov.uk/fr/infd-5qnjg8"  class="universalgreentext9">Research - themes</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestresearch.gov.uk/fr/infd-5stbnu"  class="universalgreentext9">Research - expertise</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestresearch.gov.uk/fr/infd-5stbpk"  class="universalgreentext9">Products/services</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestresearch.gov.uk/fr/infd-5txhbs"  class="universalgreentext9">Resources</a></td>
+</tr>
+ end table for forest research sub menu
+</table>
+ end layer for forest research sub menu
+</div>--></td><td><!--<img src="/images/universalrightarrow.gif/$file/universalrightarrow.gif" border=0 alt="" width="9" height="14" hspace="3">--></td></tr>
+<!-- row, forest holidays-->
+<tr><td colspan="2">
+<a href="http://www.forestholidays.co.uk" class="universalgreentext9">Forest Holidays</a></td></tr>
+<!-- row-->
+<tr class="onepxhigh"><td colspan="2" class="hrsim">&nbsp;</td></tr>
+<!-- row, timber-->
+<tr onmouseover="show('Timber','QL','atimber')" onfocus="show('Timber','QL','atimber')" onmouseout="hide('Timber')" onblur="hide('Timber')" onmouseleave="hide('Timber')"><td>
+<a href="http://www.forestry.gov.uk/timber" class="universalgreentext9" id="atimber">Timber</a>
+<!--layer for timber sub menu-->
+<div onmouseover="show('Timber','QL','atimber')" onfocus="show('Timber','QL','atimber')" onmouseout="hide('Timber')" onblur="hide('Timber')" onmouseleave="hide('Timber')" id="Timber" style="visibility:hidden; position: absolute; width: 140px; border: 1px solid #336633; background-color: #ffffff; padding: 3px">
+<!--table for timber sub menu-->
+<table summary="layout">
+<tbody><tr>
+<td><a href="http://www.forestry.gov.uk/forestry/ahen-5gzj5r" class="universalgreentext9">Timber research</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/hcou-4u4jgu2" class="universalgreentext9">e-Timber sales</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/hcou-4u4j2k" class="universalgreentext9">Felling</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/hcou-4u4j3x" class="universalgreentext9">Industry</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/planthealth" class="universalgreentext9">Plant health</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/hcou-4u8n8y" class="universalgreentext9">Timber production</a></td>
+</tr>
+<!-- end table for timber sub menu-->
+</tbody></table>
+<!-- end layer for timber sub menu-->
+</div></td><td><img src="/images/universalrightarrow.gif/$file/universalrightarrow.gif" border="0" alt="" width="9" height="14" hspace="3"></td></tr>
+<!-- row, GL-->
+<tr onmouseover="show('Planting','QL','aplanting')" onfocus="show('Planting','QL','aplanting')" onmouseout="hide('Planting')" onblur="hide('Planting')" onmouseleave="hide('Planting')"><td>
+<a href="http://www.forestry.gov.uk/planting" class="universalgreentext9" id="aplanting">Grants&nbsp;and&nbsp;licences</a>
+<!--layer for GL sub menu-->
+<div onmouseover="show('Planting','QL','aplanting')" onfocus="show('Planting','QL','aplanting')" onmouseout="hide('Planting')" onblur="hide('Planting')" onmouseleave="hide('Planting')" id="Planting" style="visibility:hidden; position: absolute; width: 140px; border: 1px solid #336633; background-color: #ffffff; padding: 3px">
+<!--table for GL sub menu-->
+<table summary="layout">
+<tbody><tr>
+<td><a href="http://www.forestry.gov.uk/forestry/hcou-4u4j2m" class="universalgreentext9">Woodland grants</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/publicregister" class="universalgreentext9">Public register</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/frm" class="universalgreentext9">Forest reproductive material</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/hcou-4u5fsy" class="universalgreentext9">GL Guidance</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/planthealth" class="universalgreentext9">Plant health</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/hcou-4u5gdn" class="universalgreentext9">Regulations</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/wcas-4u5n3e" class="universalgreentext9">Reviews</a></td>
+</tr>
+<!-- end table for GL sub menu-->
+</tbody></table>
+<!-- end layer for GL sub menu-->
+</div></td><td><img src="/images/universalrightarrow.gif/$file/universalrightarrow.gif" border="0" alt="" width="9" height="14" hspace="3"></td></tr>
+<!-- row, plant health-->
+<tr onmouseover="show('PH','QL','aph')" onfocus="show('PH','QL','aph')" onmouseout="hide('PH')" onblur="hide('PH')" onmouseleave="hide('PH')"><td>
+<a href="http://www.forestry.gov.uk/planthealth" class="universalgreentext9" id="aph">Plant&nbsp;health</a>
+<!--layer for plant health sub menu-->
+<div onmouseover="show('PH','QL','aph')" onfocus="show('PH','QL','aph')" onmouseout="hide('PH')" onblur="hide('PH')" onmouseleave="hide('PH')" id="PH" style="visibility:hidden; position: absolute; width: 140px; border: 1px solid #336633; background-color: #ffffff; padding: 3px">
+<!--table for plant health sub menu-->
+<table summary="layout">
+<tbody><tr>
+<td><a href="http://www.forestry.gov.uk/forestry/hcou-4u5gaq" class="universalgreentext9">Current issues</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/infd-5bwgvy" class="universalgreentext9">Export</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/hcou-4u5ga7" class="universalgreentext9">Guidance</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/hcou-4u5gcr" class="universalgreentext9">Import controls</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/infd-4ysbxn" class="universalgreentext9">Protected zone surveys</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/infd-5azlca" class="universalgreentext9">Statutory instruments</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/infd-5bhl55" class="universalgreentext9">UK wood marking programme</a></td>
+</tr>
+<!-- end table for plant health sub menu-->
+</tbody></table>
+<!-- end layer for plant health sub menu-->
+</div></td><td><img src="/images/universalrightarrow.gif/$file/universalrightarrow.gif" border="0" alt="" width="9" height="14" hspace="3"></td></tr>
+<!-- row-->
+<tr class="onepxhigh"><td colspan="2" class="hrsim">&nbsp;</td></tr>
+<tr onmouseover="show('Partnerships','QL','apartner')" onfocus="show('Partnerships','QL','apartner')" onmouseout="hide('Partnerships')" onblur="hide('Partnerships')" onmouseleave="hide('Partnerships')"><td>
+<a href="http://www.forestry.gov.uk/forestry/INFD-5XJH9M" class="universalgreentext9" id="apartner">Partnerships</a>
+<!--layer for partnerships sub menu-->
+<div onmouseover="show('Partnerships','QL','apartner')" onfocus="show('Partnerships','QL','apartner')" onmouseout="hide('Partnerships')" onblur="hide('Partnerships')" onmouseleave="hide('Partnerships')" id="Partnerships" style="visibility:hidden; position: absolute; width: 140px; border: 1px solid #336633; background-color: #ffffff; padding: 3px">
+<!--table for partnerships sub menu-->
+<table summary="layout">
+<tbody><tr>
+<td><a href="http://www.7stanes.gov.uk" class="universalgreentext9">7stanes</a></td>
+</tr>
+<tr>
+<td><a href="http://www.treefestscotland.org.uk" class="universalgreentext9">Treefest</a></td>
+</tr>
+<tr>
+<td><a href="http://www.interpretscotland.org.uk" class="universalgreentext9">Interpret Scotland</a></td>
+</tr>
+<!-- end table for partnerships sub menu-->
+</tbody></table>
+<!-- end layer for partnerships sub menu-->
+</div></td><td><img src="/images/universalrightarrow.gif/$file/universalrightarrow.gif" border="0" alt="" width="9" height="14" hspace="3"></td></tr>
+<!-- quick links menu table, end -->
+</tbody></table>
+<!-- quick links layer, end --></div>
+<!-- cell 3, quick links, end -->
+</td>
+<!-- cell 4, downward arrow -->
+<td><img src="/images/universalarrowdown.gif/$file/universalarrowdown.gif" width="17" height="10" alt="" border="0"></td>
+<!-- cell5, vertical divider-->
+<td><img src="/images/universalverticalrule.gif/$file/universalverticalrule.gif" width="9" height="22" border="0" alt="" hspace="4"></td>
+<!-- Cell 6, Library -->
+<td onmouseover="show('Library','none','alibrary')" onfocus="show('Library','none','alibrary')" onmouseout="hide('Library')" onblur="hide('Library')" onmouseleave="hide('Library')">
+<a href="http://www.forestry.gov.uk/forestry/library" class="whitetext9" id="alibrary">Library</a><br>
+<!-- layer for library drop down menu-->
+<div onmouseover="show('Library','none','alibrary')" onfocus="show('Library','none','alibrary')" onmouseout="hide('Library')" onblur="hide('Library')" onmouseleave="hide('Library')" id="Library" style="visibility:hidden; position: absolute; border: 1px  #336633 solid; background-color: #E9F3E9; padding: 3px">
+<!-- table for drop down menu-->
+<table summary="layout">
+<tbody><tr>
+<td><a href="http://www.forestry.gov.uk/forestry/HCOU-4UBEJZ" class="universalgreentext9">Copyright</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/hcou-4ubelu" class="universalgreentext9">Downloads</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/ecards" class="universalgreentext9">E-cards</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/infd-5yrbrk" class="universalgreentext9">FC library</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/foi" class="universalgreentext9">FOI</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/forestry/hcou-4ubj75" class="universalgreentext9">Glossary</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/pictures" class="universalgreentext9">Images</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/links" class="universalgreentext9">Links&nbsp;section</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/publications" class="universalgreentext9">Publications</a></td>
+</tr>
+<tr>
+<td><a href="http://www.forestry.gov.uk/statistics" class="universalgreentext9">Economics&nbsp;and&nbsp;statistics</a></td>
 </tr>
 </tbody></table>
-<br>
+<!-- Library menu layer, end -->
+</div>
+<!-- cell6 library, end-->
+</td>
+<!-- cell7, down arrow-->
+<td><img src="/images/universalarrowdown.gif/$file/universalarrowdown.gif" width="17" height="10" alt="" border="0"></td>
+<!-- cell 8, vertical divider -->
+<td><img src="/images/universalverticalrule.gif/$file/universalverticalrule.gif" width="9" height="22" border="0" alt="" hspace="4"></td>
+<!-- cell 9, help -->
+<td><a href="http://www.forestry.gov.uk/forestry/HCOU-4U4J3S" class="whitetext9">Help</a></td>
+<!-- cell 10, vertical divider -->
+<td><img src="/images/universalverticalrule.gif/$file/universalverticalrule.gif" width="9" height="22" border="0" alt="" hspace="4"></td>
+<!-- cell 11, accordeon -->
+<td width="100%" bgcolor="#336633"><img src="/images/clearpx.gif/$file/clearpx.gif" alt="" width="1" height="1" border="0"></td>
+</tr>
+<!-- main table, end-->
+</tbody></table>
+
+<script>
+var nav4 = window.Event ? true : false;
+function showKey(e) {
+  if (nav4) // Navigator 4.0x
+    var whichCode = e.which
+  else // Internet Explorer 4.0x
+    if (e.type == "keypress") // the user entered a character
+      var whichCode = e.keyCode
+    else
+      var whichCode = e.button;
+    if (whichCode==13)
+    {
+      opensearch();
+      return false;
+    }
+    return true;
+}</script>
+<input type="hidden" name="CountryJS" value="gb"><input type="hidden" name="return" value="/website/searchall.nsf/SearchTemplate?OpenForm&amp;Country=gb;Areas=General+Information:News+Releases:Recreation+and+Wild+Woods:Publications:Public+Register+of+planting+and+felling+applications:Learning"><input type="hidden" name="Areas" value="General Information:News Releases:Recreation and Wild Woods:Publications:Public Register of planting and felling applications:Learning"><input type="hidden" name="SubsiteUse" value="">
+<table cellpadding="0" cellspacing="0" border="0" summary="layout" width="100%">
+<tbody><tr>
+<td colspan="14" bgcolor="#D8E5CC" width="100%"><img src="/images/clearpx.gif/$file/clearpx.gif" alt="" width="1" height="1" border="0"></td>
+</tr>
+<tr bgcolor="#669933">
+<td><a href="http://www.forestry.gov.uk/forestry/hcou-4u4hzm"><img src="/images/gbtitleleft.gif/$file/gbtitleleft.gif" width="240" height="41" border="0" alt="to gb homepage"></a></td>
+<td><img src="/images/gbverticalrule.gif/$file/gbverticalrule.gif" width="9" height="31" border="0" alt="" hspace="4"></td>
+<td><a href="/forestry/hcou-4u4hzt" class="whitetext9">About&nbsp;us</a></td>
+<td><img src="/images/gbverticalrule.gif/$file/gbverticalrule.gif" width="9" height="31" border="0" alt="" hspace="4"></td>
+<td><a href="/forestry/hcou-4ubhr3" class="whitetext9">Contact&nbsp;us</a></td>
+<td><img src="/images/gbverticalrule.gif/$file/gbverticalrule.gif" width="9" height="31" border="0" alt="" hspace="4"></td>
+<td><a href="/newsrele.nsf/web-highlights" class="whitetext9">News</a></td>
+<td><img src="/images/gbverticalrule.gif/$file/gbverticalrule.gif" width="9" height="31" border="0" alt="" hspace="4"></td>
+<td><a href="/website/searchall.nsf/$$Search?openform" class="whitetext9">Search</a>
+</td><td>&nbsp;</td><td>
+<input type="text" value=" " class="SearchInput" name="SearchInput" id="SearchInput" onkeypress="return showKey(event)">
+</td>
+<td><a href="javascript:opensearch()"><img src="/images/gbgobutton.gif/$file/gbgobutton.gif" width="21" height="21" hspace="5" border="0" alt="go"></a></td>
+
+<td><img src="/images/gbverticalrule.gif/$file/gbverticalrule.gif" width="9" height="31" border="0" alt="" hspace="4"></td>
+<td width="100%" bgcolor="#669933"><img src="/images/clearpx.gif/$file/clearpx.gif" alt="" width="1" height="1" border="0"></td>
+</tr>
+</tbody></table><br>
 
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0" summary="layout table">
   <tbody><tr valign="top" align="left">
     <td class="ColumnColour">
 
-<table width="124" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td colspan="3" valign="top"><img src="/images/greenrule.gif/$FILE/greenrule.gif" width="124" height="1" alt="" border="0"></td></tr><tr><td width="8"><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="8" height="27" border="0" alt=""></td><td><a class="MENU" onmouseover="document.images[10].src='/images/bluecircle.gif/$FILE/bluecircle.gif';" onmouseout="document.images[10].src='/images/clearpx.gif/$FILE/clearpx.gif';" href="/forestry/hcou-4ubehr">accessibility</a></td><td><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="15" height="15" border="0" alt=""></td></tr><tr><td colspan="3"><img src="/images/greenrule.gif/$FILE/greenrule.gif" width="124" height="1" alt=""></td></tr> <tr><td width="8"><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="8" height="27" border="0" alt=""></td><td><a class="MENU" onmouseover="document.images[13].src='/images/bluecircle.gif/$FILE/bluecircle.gif';" onmouseout="document.images[13].src='/images/clearpx.gif/$FILE/clearpx.gif';" href="/forestry/hcou-4ubejz">copyright</a></td><td><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="15" height="15" border="0" alt=""></td></tr><tr><td colspan="3"><img src="/images/greenrule.gif/$FILE/greenrule.gif" width="124" height="1" alt=""></td></tr> <tr><td width="8"><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="8" height="27" border="0" alt=""></td><td><a class="MENU" onmouseover="document.images[16].src='/images/bluecircle.gif/$FILE/bluecircle.gif';" onmouseout="document.images[16].src='/images/clearpx.gif/$FILE/clearpx.gif';" href="/forestry/hcou-4ubekm">disclaimers</a></td><td><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="15" height="15" border="0" alt=""></td></tr><tr><td colspan="3"><img src="/images/greenrule.gif/$FILE/greenrule.gif" width="124" height="1" alt=""></td></tr> <tr><td width="8"><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="8" height="27" border="0" alt=""></td><td><a class="MENU" onmouseover="document.images[19].src='/images/bluecircle.gif/$FILE/bluecircle.gif';" onmouseout="document.images[19].src='/images/clearpx.gif/$FILE/clearpx.gif';" href="/forestry/hcou-4ubelu">downloads</a></td><td><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="15" height="15" border="0" alt=""></td></tr><tr><td colspan="3"><img src="/images/greenrule.gif/$FILE/greenrule.gif" width="124" height="1" alt=""></td></tr> <tr><td width="8"><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="8" height="27" border="0" alt=""></td><td><a class="MENU" onmouseover="document.images[22].src='/images/bluecircle.gif/$FILE/bluecircle.gif';" onmouseout="document.images[22].src='/images/clearpx.gif/$FILE/clearpx.gif';" href="/forestry/hcou-4ubesc">using the site</a></td><td><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="15" height="15" border="0" alt=""></td></tr><tr><td colspan="3"><img src="/images/greenrule.gif/$FILE/greenrule.gif" width="124" height="1" alt=""></td></tr> <tr><td width="8"><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="8" height="27" border="0" alt=""></td><td><a class="MENU" onmouseover="document.images[25].src='/images/bluecircle.gif/$FILE/bluecircle.gif';" onmouseout="document.images[25].src='/images/clearpx.gif/$FILE/clearpx.gif';" href="/forestry/cmon-53egkh">webmasters</a></td><td><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="15" height="15" border="0" alt=""></td></tr><tr><td colspan="3"><img src="/images/greenrule.gif/$FILE/greenrule.gif" width="124" height="1" alt=""></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td colspan="3" valign="top"><img src="/images/greenrule.gif/$FILE/greenrule.gif" width="150" height="1" alt="" border="0"></td></tr><tr><td width="8"><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="8" height="27" border="0" alt=""></td><td><a class="MENU" onmouseover="document.images[34].src='/images/bluecircle.gif/$FILE/bluecircle.gif';" onmouseout="document.images[34].src='/images/clearpx.gif/$FILE/clearpx.gif';" href="/forestry/hcou-4ubelu">downloads</a></td><td><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="15" height="15" border="0" alt=""></td></tr><tr><td colspan="3"><img src="/images/greenrule.gif/$FILE/greenrule.gif" width="124" height="1" alt=""></td></tr> <tr><td width="8"><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="8" height="27" border="0" alt=""></td><td><a class="MENU" onmouseover="document.images[37].src='/images/bluecircle.gif/$FILE/bluecircle.gif';" onmouseout="document.images[37].src='/images/clearpx.gif/$FILE/clearpx.gif';" href="/forestry/hcou-4ubesc">technical help</a></td><td><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="15" height="15" border="0" alt=""></td></tr><tr><td colspan="3"><img src="/images/greenrule.gif/$FILE/greenrule.gif" width="124" height="1" alt=""></td></tr> <tr><td width="8"><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="8" height="27" border="0" alt=""></td><td><a class="MENU" onmouseover="document.images[40].src='/images/bluecircle.gif/$FILE/bluecircle.gif';" onmouseout="document.images[40].src='/images/clearpx.gif/$FILE/clearpx.gif';" href="/forestry/hcou-4ubehr">accessibility</a></td><td><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="15" height="15" border="0" alt=""></td></tr><tr><td colspan="3"><img src="/images/greenrule.gif/$FILE/greenrule.gif" width="124" height="1" alt=""></td></tr> <tr><td width="8"><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="8" height="27" border="0" alt=""></td><td><a class="MENU" onmouseover="document.images[43].src='/images/bluecircle.gif/$FILE/bluecircle.gif';" onmouseout="document.images[43].src='/images/clearpx.gif/$FILE/clearpx.gif';" href="/forestry/cmon-53egkh">linking to this site</a></td><td><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="15" height="15" border="0" alt=""></td></tr><tr><td colspan="3"><img src="/images/greenrule.gif/$FILE/greenrule.gif" width="124" height="1" alt=""></td></tr> <tr><td width="8"><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="8" height="27" border="0" alt=""></td><td><a class="MENU" onmouseover="document.images[46].src='/images/bluecircle.gif/$FILE/bluecircle.gif';" onmouseout="document.images[46].src='/images/clearpx.gif/$FILE/clearpx.gif';" href="/forestry/hcou-4ubejz">copyright</a></td><td><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="15" height="15" border="0" alt=""></td></tr><tr><td colspan="3"><img src="/images/greenrule.gif/$FILE/greenrule.gif" width="124" height="1" alt=""></td></tr> <tr><td width="8"><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="8" height="27" border="0" alt=""></td><td><a class="MENU" onmouseover="document.images[49].src='/images/bluecircle.gif/$FILE/bluecircle.gif';" onmouseout="document.images[49].src='/images/clearpx.gif/$FILE/clearpx.gif';" href="/forestry/hcou-4ubekm">disclaimers</a></td><td><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="15" height="15" border="0" alt=""></td></tr><tr><td colspan="3"><img src="/images/greenrule.gif/$FILE/greenrule.gif" width="124" height="1" alt=""></td></tr> <tr><td width="8"><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="8" height="27" border="0" alt=""></td><td><p class="MENUCURPAGE">privacy policy</p></td><td><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="15" height="15" border="0" alt=""></td></tr><tr><td colspan="3"><img src="/images/greenrule.gif/$FILE/greenrule.gif" width="124" height="1" alt=""></td></tr></tbody></table>
+<p>&nbsp;<br><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="8"><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="8" height="27" border="0" alt=""></td><td align="left" width="101"><a class="MENU" onmouseover="clearrollover.src='/images/triangle.gif/$FILE/triangle.gif';" onmouseout="clearrollover.src='/images/trianglelight.gif/$FILE/trianglelight.gif';" href="/forestry/HCOU-4U4J3S">back to help home</a></td><td width="15"><img src="/images/trianglelight.gif/$FILE/trianglelight.gif" width="15" height="15" border="0" alt="" name="clearrollover"></td></tr><tr><td colspan="3" valign="top"><img src="/images/greenrule.gif/$FILE/greenrule.gif" width="124" height="1" alt="" border="0"></td></tr></tbody></table>
 
-
-      </td> 
+      </p></td> 
 <td valign="bottom"><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="10" heigth="10" alt=""></td>
     <td width="100%">
-
   <h2>privacy policy<br><img src="/images/titlegreenrule.gif/$FILE/titlegreenrule.gif" width="320" height="11" alt="" border="0"></h2>
    
     <p>This page explains how the Forestry Commission, uses any information you give to us through our website, and the ways in which we protect your privacy. </p>
@@ -91,11 +738,11 @@ function MM_swapImage() { //v3.0
 <p><b>What information do we collect?</b></p>
 <p>We collect different kinds of information from visitors to our website:</p>
 <ul>
-<li>feedback;
-</li><li>calls to our&nbsp;helpdesk;
-</li><li>requests for information;
-</li><li>consultation responses;
-</li><li>registration details for some areas of the site;
+<li>feedback; 
+</li><li>calls to our&nbsp;helpdesk; 
+</li><li>requests for information; 
+</li><li>consultation responses; 
+</li><li>registration details for some areas of the site; 
 </li><li>and site usage information from log files.</li></ul>
 <p><b>Feedback</b></p>
 <p>You can send us your feedback directly through the website or by e-mail, post or phone.If you use the website Feedback options you do not need to give any personal information unless you wish a response from us. We do not pass on any of your personal information outside our organisation when dealing with your enquiry. We will not use any information you supply for any other purpose without first seeking your permission.</p>
@@ -113,7 +760,7 @@ function MM_swapImage() { //v3.0
 <p><b>Registration Details</b></p>
 <p>Although most of our site does not require you to register there are a few areas which do. The details you supply will only be used for these purposes unless you give us permission for other uses (for example to be included in mailing lists).</p>
 <p><b>Cookies and Log Files</b></p>
-<p>Cookies are pieces of data that can be automatically created on your computer when you visit a website. We do not use cookies on our website. </p>
+<p>Cookies are pieces of data that can be automatically created on your computer when you visit a website. We do use&nbsp;cookies in some parts of this site&nbsp;but only to&nbsp;help you to use the site (for example, in the picture library to keep your lightbox for your next visit). We do not collect any information about you using cookies. </p>
 <p>Log files allow us to record visitors' use of the site which we use to make changes to the layout of the site and to the information in it, based on the way that visitors move around it. Log files do not contain any personal information about you or information about which other sites you have visited. </p>
 <p><b>Links to other sites</b></p>
 <p>www.forestry.gov.uk contains links to other websites, both those of government departments and of other organisations. This privacy policy applies only to our site, so you should always be aware when you are moving to another site and read the privacy statement of any site which collects personal information. We do not pass on any personal information you have given us to any other site.</p>
@@ -125,7 +772,9 @@ function MM_swapImage() { //v3.0
 <blockquote>The Webmaster<br>Communications Branch<br>Forestry Commission<br>231 Corstorphine Road<br>Edinburgh<br>EH12 7AT<br>United Kingdom</blockquote>
 <p>&nbsp;If this privacy policy changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.</p>
 <p>September 2001</p>
-<p><br clear="all"></p><center class="RHS"><a href="/website/oldsite.nsf/LUPrintDocsByKey/INFD-52YBS4">print friendly version</a> | <a href="/forestry/infd-52ybs4">privacy policy</a> | <a href="/forestry/HCOU-4UBEJZ">© Crown Copyright 2003</a></center><p><br>
+
+<br>
+<br clear="all"><center class="RHS"><a href="/website/oldsite.nsf/LUPrintDocsByKey/INFD-52YBS4">print friendly version</a> | <a href="/forestry/infd-52ybs4">privacy policy</a> | <a href="/forestry/HCOU-4UBEJZ">© Crown Copyright 2004</a></center><p><br>
 </p></td>
 <td valign="bottom"><img src="/images/clearpx.gif/$FILE/clearpx.gif" width="10" height="10" alt=""></td>
     <td width="150" class="RHSC">
@@ -133,7 +782,7 @@ function MM_swapImage() { //v3.0
 
 
 <p>
- </p><p>
+ 
 
 
   <br>
