@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rainbird.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610043008id_/http%3A//rainbird.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainbird.com privacy policy that was archived on 2002-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021009225847id_/http%3A//www.rainbird.com/Privacy.asp) for the most accurate reproduction.*
 
 # Rain Bird
 
