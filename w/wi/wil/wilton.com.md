@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wilton.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203121242id_/http%3A//www.wilton.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilton.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602222058id_/http%3A//www.wilton.com/privacy.cfm) for the most accurate reproduction.*
 
 # Wilton
 
@@ -20,3 +20,6 @@ If, for any reason, you would like to be taken off our email list, please email 
 Our privacy policy is regularly reviewed to make sure we continue to serve the privacy interests of our customers. We reserve the right to change and update the privacy policy and these changes will be posted on our Web site. If we make a change to how we collect, store or share personally identifiable information we will update the Web site privacy policy accordingly. We encourage you to visit this page from time to time to ensure you are aware of any changes we may have made.
 
 This privacy policy was last modified on November 15, 2001. 
+
+  
+
