@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unleash.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603153010id_/http%3A//www.unleash.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unleash.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204195020id_/http%3A//www.unleash.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for Graphics Unleashed
 
@@ -61,4 +61,19 @@ webmaster@unleash.com
 
   
 Last Updated Monday February 04 2002.    
+  
+  
+---  
+  
+  
+  
+  
+|    
+  
+  
+  
 
+
+[Gamer's Guide](https://web.archive.org/picks/gaming.html)   
+Info on Playstation 2, XBox   
+consoles, accessories & hot games! 
