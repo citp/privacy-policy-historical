@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trueidentity.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604130754id_/http%3A//www.launchbase.net/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trueidentity.com privacy policy that was archived on 2001-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011015103934id_/http%3A//www.launchbase.net/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # LAUNCHBASE: Privacy Policy
 
-**Monday, June 4th 2001**
+**Monday, October 15th 2001**
 
 **[Top](http://www.launchbase.net/) : Privacy Policy**
 
