@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the loveandfriends.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204185630id_/http%3A//loveandfriends.com/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveandfriends.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621172504id_/http%3A//loveandfriends.com/privacystatement.htm) for the most accurate reproduction.*
 
 # Love and Friends : Internet dating for thinking people . . . And it's free
 
-free dating, dating uk, london dating, internet dating, dating agency, online dating, personals, introductions Love and Friends : Internet dating for thinking people . . . And it's free free dating, dating uk, london dating, internet dating, dating agency, online dating, personals, introductions Internet dating for thinking people . . . And it's free - the best UK dating site I've seen free dating, dating uk, london dating, internet dating, dating agency, online dating, personals, introductions  [free dating](https://web.archive.org/web/20011204185630id_/http%3A//loveandfriends.com/default.htm) [dating uk](https://web.archive.org/web/20011204185630id_/http%3A//loveandfriends.com/default.htm) [london dating](https://web.archive.org/web/20011204185630id_/http%3A//loveandfriends.com/default.htm) [internet dating](https://web.archive.org/web/20011204185630id_/http%3A//loveandfriends.com/default.htm) [dating agency](https://web.archive.org/web/20011204185630id_/http%3A//loveandfriends.com/default.htm) [online dating](https://web.archive.org/web/20011204185630id_/http%3A//loveandfriends.com/default.htm) [personals](https://web.archive.org/web/20011204185630id_/http%3A//loveandfriends.com/default.htm) [introductions](https://web.archive.org/web/20011204185630id_/http%3A//loveandfriends.com/default.htm) [Searchengineering](http://www.yuki-onna.co.uk/)
+free dating, dating uk, london dating, internet dating, dating agency, online dating, personals, introductions Love and Friends : Internet dating for thinking people . . . And it's free free dating, dating uk, london dating, internet dating, dating agency, online dating, personals, introductions Internet dating for thinking people . . . And it's free - the best UK dating site I've seen free dating, dating uk, london dating, internet dating, dating agency, online dating, personals, introductions  [free dating](https://web.archive.org/web/20030621172504id_/http%3A//loveandfriends.com/default.htm) [dating uk](https://web.archive.org/web/20030621172504id_/http%3A//loveandfriends.com/default.htm) [london dating](https://web.archive.org/web/20030621172504id_/http%3A//loveandfriends.com/default.htm) [internet dating](https://web.archive.org/web/20030621172504id_/http%3A//loveandfriends.com/default.htm) [dating agency](https://web.archive.org/web/20030621172504id_/http%3A//loveandfriends.com/default.htm) [online dating](https://web.archive.org/web/20030621172504id_/http%3A//loveandfriends.com/default.htm) [personals](https://web.archive.org/web/20030621172504id_/http%3A//loveandfriends.com/default.htm) [introductions](https://web.archive.org/web/20030621172504id_/http%3A//loveandfriends.com/default.htm) [Searchengineering](http://www.yuki-onna.co.uk/)
 
 [ISP,hosting,design,online shopping](http://www.b-1st.com/) free dating, dating uk, london dating, internet dating, dating agency, online dating, personals, introductions 
 
@@ -17,8 +17,7 @@ _**A great place to meet!**_
 |   |    
   |   |   |   |    
 |   |  |   | __  
-  
-**_When you've finished reading click on  your browser's back button to continue... _**
+**__**
 
 P **rivacy Policy**
 
@@ -73,5 +72,3 @@ While loveandfriends.com strives to protect its users personal information and p
 **Do you have questions?**
 
 If you have questions or concerns about the content of this Privacy Policy or any personal information loveandfriends.com holds about you, if you wish to alter or update such information or would like to “opt out” of (or resume) receiving marketing or promotional notices or being included in the members directory, you should e-mail us at [info@loveandfriends.com](mailto:info@loveandfriends.com)
-
-**_Now click on  your browser's back button to continue... _**
