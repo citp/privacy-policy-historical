@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the t-tapp.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204162143id_/http%3A//www.t-tapp.com/faq/showquestion.asp%3Ffaq%3D3%26fldAuto%3D25) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the t-tapp.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305220629id_/http%3A//www.t-tapp.com/faq/showquestion.asp%3Ffaq%3D3%26fldAuto%3D25) for the most accurate reproduction.*
 
 # Help Desk - T-Tapp.com
 
 | 
 
-**[home](https://web.archive.org/web/20041204162143id_/http%3A//www.t-tapp.com/home)  
-[cellulite control](https://web.archive.org/web/20041204162143id_/http%3A//www.t-tapp.com/home/cellulite.asp)  
-[the workout](https://web.archive.org/web/20041204162143id_/http%3A//www.t-tapp.com/home/weightloss.asp)  
-[articles & exercises](https://web.archive.org/web/20041204162143id_/http%3A//www.t-tapp.com/articles/)  
-[success stories](https://web.archive.org/web/20041204162143id_/http%3A//www.t-tapp.com/success/)  
-[newsletter](https://web.archive.org/web/20041204162143id_/http%3A//www.t-tapp.com/newsletter/)  
-[mommy fitness](https://web.archive.org/web/20041204162143id_/http%3A//www.t-tapp.com/mommyfitness/default.asp)  
-[t-tapp team](https://web.archive.org/web/20041204162143id_/http%3A//www.t-tapp.com/team/)  
-[forums](https://web.archive.org/web/20041204162143id_/http%3A//www.t-tapp.com/forum/default.asp)  
-[events](https://web.archive.org/web/20041204162143id_/http%3A//www.t-tapp.com/events/default.asp)  
-[help desk](https://web.archive.org/web/20041204162143id_/http%3A//www.t-tapp.com/help/)  
-[store](https://web.archive.org/web/20041204162143id_/http%3A//www.t-tapp.com/store/default.asp)  
+**[home](https://web.archive.org/web/20050305220629id_/http%3A//www.t-tapp.com/home)  
+[cellulite control](https://web.archive.org/web/20050305220629id_/http%3A//www.t-tapp.com/home/cellulite.asp)  
+[the workout](https://web.archive.org/web/20050305220629id_/http%3A//www.t-tapp.com/home/weightloss.asp)  
+[articles & exercises](https://web.archive.org/web/20050305220629id_/http%3A//www.t-tapp.com/articles/)  
+[success stories](https://web.archive.org/web/20050305220629id_/http%3A//www.t-tapp.com/success/)  
+[newsletter](https://web.archive.org/web/20050305220629id_/http%3A//www.t-tapp.com/newsletter/)  
+[mommy fitness](https://web.archive.org/web/20050305220629id_/http%3A//www.t-tapp.com/mommyfitness/default.asp)  
+[t-tapp team](https://web.archive.org/web/20050305220629id_/http%3A//www.t-tapp.com/team/)  
+[forums](https://web.archive.org/web/20050305220629id_/http%3A//www.t-tapp.com/forum/default.asp)  
+[events](https://web.archive.org/web/20050305220629id_/http%3A//www.t-tapp.com/events/default.asp)  
+[help desk](https://web.archive.org/web/20050305220629id_/http%3A//www.t-tapp.com/help/)  
+[store](https://web.archive.org/web/20050305220629id_/http%3A//www.t-tapp.com/store/default.asp)  
 ** |  | 
 
   
@@ -42,7 +42,7 @@ Security: This site has security measures in place to protect the loss, misuse a
 
 We utilize industry standard SSL encryption when accepting your credit card or financial information on an application. In addition, we utilize the same encryption standard when transferring your data to our internal fulfillment system. 
 
-Choice/Opt-Out: Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. You can send email to webmaster@T-Tapp.com or unsubscribe on our web site.
+Choice/Opt-Out: Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. You can manage your subscriptions, subscribe and unsubscribe from any and all newsletters at the following link: <http://www.t-tapp.com/subscriptions/>
 
 Correct/Update: Users may change or modify information previously provided using the functions on the site to update information. 
 
@@ -58,4 +58,4 @@ Safety Harbor, FL 34695
 
 [webmaster@T-Tapp.com](mailto:webmaster@t-tapp.com)
 
-[<<< Back to Help Desk](https://web.archive.org/web/20041204162143id_/http%3A//www.t-tapp.com/faq/showfaq.asp?fldAuto=3)
+[<<< Back to Help Desk](https://web.archive.org/web/20050305220629id_/http%3A//www.t-tapp.com/faq/showfaq.asp?fldAuto=3)
