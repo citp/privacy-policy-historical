@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casio.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204231600id_/http%3A//www.casio.com/helpdesk/index.cfm%3Fpage%3D/HelpDesk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casio.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606105120id_/http%3A//www.casio.com/helpdesk/index.cfm%3Fpage%3D/HelpDesk/privacy.htm) for the most accurate reproduction.*
 
 # Casio - The Unexpected Extra
 
