@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the machinetools.com privacy policy that was archived on 2002-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020409095226id_/http%3A//www.machinetools.com/mt/privacy.tmpl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the machinetools.com privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216072516id_/http%3A//www.machinetools.com/mt/privacy.tmpl) for the most accurate reproduction.*
 
 # MachineTools.com - machine tools, new and used machinery, lathes, CNC machines, and metalworking at MachineTools.com
 
@@ -19,4 +19,4 @@ When you access your account information, we offer the use of a secure server. T
 By using our Web site, you consent to the collection and use of this information by MachineTools.com . Any changes in the information we collect and how we use it will be posted on this page.
 
 **FEEDBACK:**  
-MachineTools.com welcomes your questions or comments about privacy. Please e-mail them to [machineinfo@machinetools.com.](mailto:machineinfo@machinetools.com)
+MachineTools.com welcomes your questions or comments about privacy. Please e-mail them to [info@machinetools.com.](mailto:info@machinetools.com)
