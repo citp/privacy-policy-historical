@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genworth.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009200355id_/http%3A//www.genworth.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genworth.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305051221id_/http%3A//www.genworth.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Genworth Financial - Privacy Policy
 
