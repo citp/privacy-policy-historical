@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the alienaa.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604023646id_/http%3A//www.linearhorizons.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alienaa.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204061055id_/http%3A//www.alienaa.com/privacy.html) for the most accurate reproduction.*
 
-# Linear Horizons
+# Privacy Policy
 
 Linear Horizons LLC has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the entire Linear Horizons network. 
 
-We use cookies in certain projects to store your username/password so you don't have to re-enter it when visiting different sections of the site. This information is destroyed each time you close your browser window. 
+We use cookies in certain projects to store your username/password so you don't have to re-enter it when visiting different sections of the site. This information is destroyed each time you log out. 
 
 Our project's registration forms require users to give us a combination of the following information:   
  
@@ -26,4 +26,12 @@ All Linear Horizons projects are membership based, and members have the option t
 _Contact:_   
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
-Linear Horizons LLC [ privacy@linearhorizons.com](mailto:privacy@linearhorizons.com)
+Linear Horizons LLC [ privacy@alienaa.com](mailto:privacy@alienaa.com)
+
+**Third Party Advertising**  
+We use BUDS INC and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.networkadvertising.org/optout_nonppii.asp)
+
+**Third Party Cookies**  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique 
+
+[[back](http://www.alienaa.com/)]
