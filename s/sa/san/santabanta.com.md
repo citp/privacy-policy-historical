@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the santabanta.com privacy policy that was archived on 2003-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030411083457id_/http%3A//www.santabanta.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the santabanta.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205012400id_/http%3A//www2.santabanta.com/privacy.asp) for the most accurate reproduction.*
 
 # SantaBanta-Privacy Policy
 
-### SantaBanta Privacy Policy
+###  SantaBanta Privacy Policy
 
 Wow, you are interested… We hope the following information can help answer any questions you might have. And if you still want to know more, please drop us a line at [jdghai@rediffmail.com](mailto:jdghai@rediffmail.com)
 
@@ -34,10 +34,10 @@ If you have any questions about this privacy statement, the practices of this si
 
 By using the Site, you signify your acceptance of this Privacy Statement. If you are not comfortable with any policy described in this Privacy Statement, you may feel free to e-mail us with questions or concerns, but your only remedy is to discontinue use of the Site. We reserve the right to modify this Privacy Statement at any time. 
 
-### Third Party Advertising
+###  Third Party Advertising
 
 We use MaxWorldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.networkadvertising.org/optout_nonppii.asp). 
 
-### Third Party Cookies
+###  Third Party Cookies
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. 
