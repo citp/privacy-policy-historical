@@ -1,56 +1,768 @@
-<!--The following is the downloaded HTML source of the kisw.com privacy policy that was archived on 2003-08-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030812125436id_/http%3A//kisw.com/staff/kisw_privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kisw.com privacy policy that was archived on 2004-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040610154521id_/http%3A//kisw.com/privacypolicy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//IETF//DTD HTML//EN"><html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="GENERATOR" content="Microsoft FrontPage 3.0">
-<title>KISW Privacy Policy</title>
+<html><head><script language="Javascript">
+<!--
+browser = (((navigator.appName == "Netscape") && (parseInt(navigator.appVersion) >= 3 )) || ((navigator.appName == "Microsoft Internet Explorer") && (parseInt(navigator.appVersion) >= 3 )))
+
+printon = new Image();
+printoff = new Image();
+printoff.src = "/images/both_menu_bottom_print_off.gif";
+printon.src = "/images/both_menu_bottom_print_on.gif";
+bookmarkon = new Image();
+bookmarkoff = new Image();
+bookmarkoff.src = "/images/both_menu_bottom_bookmark_off.gif";
+bookmarkon.src = "/images/both_menu_bottom_bookmark_on.gif";
+sendon = new Image();
+sendoff = new Image();
+sendoff.src = "/images/both_menu_bottom_send_off.gif";
+sendon.src = "/images/both_menu_bottom_send_on.gif";
+rockofseattleon = new Image();
+rockofseattleoff = new Image();
+rockofseattleoff.src = "/images/both_menu_rockofseattle_off.gif";
+rockofseattleon.src = "/images/both_menu_rockofseattle_on.gif";
+kiswrockgirlson = new Image();
+kiswrockgirlsoff = new Image();
+kiswrockgirlsoff.src = "/images/both_menu_kiswrockgirls_off.gif";
+kiswrockgirlson.src = "/images/both_menu_kiswrockgirls_on.gif";
+kiswstreetsheeton = new Image();
+kiswstreetsheetoff = new Image();
+kiswstreetsheetoff.src = "/images/both_menu_kiswstreetsheet_off.gif";
+kiswstreetsheeton.src = "/images/both_menu_kiswstreetsheet_on.gif";
+framerockofseattleon = new Image();
+framerockofseattleoff = new Image();
+framerockofseattleoff.src = "/images/frames_menu_framerockofseattle_off.gif";
+framerockofseattleon.src = "/images/frames_menu_framerockofseattle_on.gif";
+framekiswrockgirlson = new Image();
+framekiswrockgirlsoff = new Image();
+framekiswrockgirlsoff.src = "/images/frames_menu_framekiswrockgirls_off.gif";
+framekiswrockgirlson.src = "/images/frames_menu_framekiswrockgirls_on.gif";
+framekiswstreetsheeton = new Image();
+framekiswstreetsheetoff = new Image();
+framekiswstreetsheetoff.src = "/images/frames_menu_framekiswstreetsheet_off.gif";
+framekiswstreetsheeton.src = "/images/frames_menu_framekiswstreetsheet_on.gif";
+rockofseattlebackgroundon = new Image();
+rockofseattlebackgroundoff = new Image();
+rockofseattlebackgroundoff.src = "/images/nav_back.gif";
+rockofseattlebackgroundon.src = "/images/nav_back.gif";
+kiswrockgirlsbackgroundon = new Image();
+kiswrockgirlsbackgroundoff = new Image();
+kiswrockgirlsbackgroundoff.src = "/images/nav_back.gif";
+kiswrockgirlsbackgroundon.src = "/images/nav_back.gif";
+kiswstreetsheetbackgroundon = new Image();
+kiswstreetsheetbackgroundoff = new Image();
+kiswstreetsheetbackgroundoff.src = "/images/nav_back.gif";
+kiswstreetsheetbackgroundon.src = "/images/nav_back.gif";
+
+
+
+	function imageOff(IMGName) {
+		if (browser) {
+			document[IMGName].src = eval(IMGName + "off.src"); 
+		}
+	}
+	
+	function imageOn(IMGName) {
+		if (browser) { 
+			document[IMGName].src = eval(IMGName + "on.src"); 
+		}		
+	}
+
+	function BGimageOn(IMGName) {
+		if (isIE) {
+			
+			document.all[IMGName + "_td"].background = eval(IMGName + "backgroundon.src");
+		}
+	}
+
+	function BGimageOff(IMGName) {
+		if (isIE) {
+			
+			document.all[IMGName + "_td"].background = eval(IMGName + "backgroundoff.src");
+		}
+	}
+
+
+function doNothing() {
+  //Does Nothing
+}
+
+var isNav, isIE, isNS6, isLoaded
+isLoaded = false
+if (document.all) {
+  isIE = true;
+  isNav = false;
+  isNS6 = false;
+}
+else if (document.layers) {
+  isNav = true;
+  isIE = false;
+  isNS6 = false;
+}
+else if (document.getElementById) {
+  isNS6 = true;
+  isIE = false;
+  isNav = false;
+}
+
+var delay = 1000; // time songmenu will stay visible after rollout
+var numberMenus = 5; // the number of song-menus (zero based) 
+var overMenus = false;
+
+// Show song Menu
+function showText(x,imgX,imgY)
+{
+	for (var i = 0; i <= numberMenus; i ++) {
+	  if (i != x) { hideThem(i);	}
+	}
+	overMenus = true;
+	
+	if (isNav) {
+		theObject = eval("document.sub" + x); 
+		theObject.left = imgX;
+		theObject.top = imgY;
+		theObject.visibility = "visible";
+	}
+	if (isIE) {
+		theObject = eval("document.all.sub" + x); 
+		theObject.style.left = imgX;
+		theObject.style.top = imgY;
+		theObject.style.visibility = "visible";
+	}
+	if (isNS6) {
+		theObject = eval("document.getElementById('sub" + x +"')"); 
+		theObject.style.left = imgX;
+		theObject.style.top = imgY;
+		theObject.style.visibility = "visible";
+	}	
+}
+
+
+//Hide sub Menu
+function hideText(x)
+{
+	overMenus = false;
+	if (isNav) {
+  	y = setTimeout("hideThem(" + x + ")",1000);}
+	if (isIE) {
+ 	y = setTimeout("hideThem(" + x + ")",1000);}
+ 	if (isNS6) {
+  	y = setTimeout("hideThem(" + x + ")",1000);}
+
+}
+function hideThem(x)
+{
+  if (!overMenus) {
+	if (isNav) {
+		theObject = eval("document.sub" + x); 
+		theObject.visibility = "hidden";
+	}
+	if (isIE) {
+		theObject = eval("document.all.sub" + x); 
+		theObject.style.visibility = "hidden";
+	}
+	if (isNS6) {
+		theObject = eval("document.getElementById('sub" + x +"')"); 
+		theObject.style.visibility = "hidden";
+	}	
+  }
+}
+
+function getRealLeft() {
+	xPos = this.offsetLeft;
+	tempEl = this.offsetParent;
+  	while (tempEl != null) {
+  		xPos += tempEl.offsetLeft;
+  		tempEl = tempEl.offsetParent;
+  	}
+	return xPos;
+}
+
+function getRealTop() {
+	yPos = this.offsetTop;
+	tempEl = this.offsetParent;
+  	while (tempEl != null) {
+  		yPos += tempEl.offsetTop;
+  		tempEl = tempEl.offsetParent;
+  	}
+	return yPos;
+}
+
+function getImgX(whichImg){
+	var theImg, theImgX
+	theImg = eval("document." + whichImg);
+	{theImgWidth = theImg.width}
+	if (isIE){ theImg.getRealLeft = getRealLeft; }
+	if (isNS6){ theImg.getRealLeft = getRealLeft; }
+	//theImgX = (isIE) ? theImg.getRealLeft() : theImg.x;
+	if (isIE) {
+	if (whichImg == "kiswrockgirls"){
+		theImgX = theImg.getRealLeft() + 68
+	} else if (whichImg == "framekiswrockgirls"){
+		theImgX = theImg.getRealLeft() + 216
+	} else if (whichImg == "kiswstreetsheet"){
+		theImgX = theImg.getRealLeft() + 94
+	} else if (whichImg == "framekiswstreetsheet"){
+		theImgX = theImg.getRealLeft() + 216
+	} else if (whichImg == "framerockofseattle"){
+		theImgX = theImg.getRealLeft() + 216
+	}else {
+		theImgX = theImg.getRealLeft() + 130
+	}
+	}
+	if (isNav) {
+	if (whichImg == "kiswrockgirls"){
+		theImgX = theImg.x  + 101
+	} else if (whichImg == "framekiswrockgirls"){
+		theImgX = theImg.x  + 215
+	} else if (whichImg == "kiswstreetsheet"){
+		theImgX = theImg.x  + 106
+	} else if (whichImg == "framekiswstreetsheet"){
+		theImgX = theImg.x  + 215
+	} else if (whichImg == "framerockofseattle"){
+		theImgX = theImg.x  + 215
+	}else {
+		theImgX = theImg.x  + 141
+	}
+	}
+	if (isNS6) {
+	if (whichImg == "kiswrockgirls"){
+		theImgX = theImg.getRealLeft() + 68
+	} else if (whichImg == "framekiswrockgirls"){
+		theImgX = theImg.getRealLeft()+ 216
+	} else if (whichImg == "kiswstreetsheet"){
+		theImgX = theImg.getRealLeft()+ 94
+	} else if (whichImg == "framekiswstreetsheet"){
+		theImgX = theImg.getRealLeft()+ 216
+	} else if (whichImg == "framerockofseattle"){
+		theImgX = theImg.getRealLeft()+ 216
+	} else if (whichImg == "kiswstreetsheet"){
+		theImgX = theImg.getRealLeft()+ 94
+	}else {
+		theImgX = theImg.getRealLeft()  + 130
+	}
+	}
+	 // {theImgX = (isIE) ? (theImg.getRealLeft() + 118) : (theImg.x + 118);}
+	return theImgX
+}
+function getImgY(whichImg){
+	var theImg, theImgY
+	theImg = eval("document." + whichImg);
+	theImgHeight = theImg.height
+	if (isIE){ theImg.getRealTop = getRealTop; }
+	if (isNS6){ theImg.getRealTop = getRealTop; }
+	//theImgY = (isIE) ? theImg.getRealTop() : theImg.y;
+	if (isIE) {
+	if (whichImg == "framerockofseattle"){
+	   theImgY = theImg.getRealTop() 
+	}else if (whichImg == "framekiswrockgirls"){
+		theImgY = theImg.getRealTop() 
+	}else if (whichImg == "framekiswstreetsheet"){
+		theImgY = theImg.getRealTop() -55
+	}else {
+		theImgY = theImg.getRealTop() + 48
+	}
+	}
+	if (isNav) {
+	if (whichImg == "framerockofseattle"){
+	   theImgY = theImg.y  
+	}else if (whichImg == "framekiswrockgirls"){
+		theImgY = theImg.y  
+	}else if (whichImg == "framekiswstreetsheet"){
+		theImgY = theImg.y  -50
+	}else {
+		theImgY = theImg.y  + 48
+	}
+	}
+	if (isNS6) {
+	if (whichImg == "framerockofseattle"){
+		theImgY = theImg.getRealTop() 
+	}else if (whichImg == "framekiswrockgirls"){
+		theImgY = theImg.getRealTop()  
+	}else if (whichImg == "framekiswstreetsheet"){
+		theImgY = theImg.getRealTop()  - 42
+
+	}else {
+		theImgY = theImg.getRealTop()  + 48
+	}
+	}
+	//theImgY = (isIE) ? (theImg.getRealTop()) : (theImg.y);	
+	return theImgY
+}
+
+//-->
+</script>
+<style type="text/css">
+<!--
+	#sub0 {position:absolute; left:20; top:167; padding:0px; width:311; z-index:0; visibility:hidden}
+	#sub1 {position:absolute; left:20; top:167; padding:0px; width:311; z-index:1; visibility:hidden}
+	#sub2 {position:absolute; left:20; top:167; padding:0px; width:311; z-index:2; visibility:hidden}
+	#sub3 {position:absolute; left:20; top:0; padding:0px; width:311; z-index:6; visibility:hidden}
+	#sub4 {position:absolute; left:20; top:0; padding:0px; width:311; z-index:4; visibility:hidden}
+	#sub5 {position:absolute; left:20; top:0; padding:0px; width:311; z-index:5; visibility:hidden}
+
+//-->
+</style>
+
+
+
+
+<title>99.9 KISW</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+
+<style id="Entire">
+A {	font-family: Georgia, "Times New Roman", Times, serif; font-size: 11px;	line-height: 14px; font-weight: bold; color: #FFDA00; text-decoration: underline;}
+.gDropdown {font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #242424; background-color: #666666;}
+.gCopyright {font-family: Arial, Helvetica, sans-serif; font-size: 10px; line-height: 14px;	color: #7F7A26;}
+.gSubmitButtons {font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold;	color: #242424; background-color: #666666; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; 
+
+border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: #999999; border-right-color: #444444; border-bottom-color: #444444; border-left-color: #999999;}
+.fHeadline {font-family: "Arial bold", Arial, Helvetica, sans-serif; font-size: 16px; line-height: 18px; color: #868686; font-weight: bolder;}
+.fText {font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 14px; color: #ACA890;}
+.gNavText {font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 14px; color: #ffffff; text-decoration:none}
+.gNavText:hover {font-family: Arial, Helvetica, sans-serif; font-size: 11px;	line-height: 14px; color: #FFDA00; text-decoration:none }
+.iPageTitles {font-family: Georgia, "Times New Roman", Times, serif; font-size: 24px; line-height: 24px; font-weight: bold; color: #ACA890; text-transform: uppercase;}
+.iText {font-family: Georgia, "Times New Roman", Times, serif; font-size: 11px; color: #ACA890; line-height: 14px;}
+.iHeadline {font-family:  "Arial Bold", Times, serif; font-size: 16px;	line-height: 24px; color: #ACA890;  font-weight: bold;}
+.iSubHeadline {font-family: "Arial Bold", Times, serif; font-size: 14px;	line-height: 24px; color: #ACA890; 	font-weight: bold;}
+.iLinks {font-family: Georgia, "Times New Roman", Times, serif;	font-size: 11px; line-height: 14px; font-weight: bold; color: #FFDA00; text-decoration: underline;}
+.iLinks:visited {font-family: Georgia, "Times New Roman", Times, serif; font-size: 11px;	line-height: 14px; font-weight: bold; color: #ACA890; text-decoration: underline;}
+.iLinks:active {font-family: Georgia, "Times New Roman", Times, serif; font-size: 11px; line-height: 14px; font-weight: bold; color: #FFFFFF; text-decoration: underline;}
+.iLinks:hover {font-family: Georgia, "Times New Roman", Times, serif; font-size: 11px; line-height: 14px; font-weight: bold; color: #FFFFFF; text-decoration: none;}
+.iDividersHR {color: #50481D;height: 1px;}
+.cfClubtext {font-family: "Trebuchet MS", Arial, Helvetica; font-size: 10px; line-height: 14px; text-transform: uppercase; color: #ACA890;}
+.cfFeaturetext {font-family: Georgia, "Times New Roman", Times, serif; font-size: 11px; line-height: 15px; color: #ffffff;}
+.cfFeaturetitle {font-family: Georgia, "Times New Roman", Times, serif; font-size: 24px;  color: #ACA890; font-weight: bold;}
+.gMemberText {	font-family: Georgia, "Times New Roman", Times, serif; font-size: 11px; color: #ACA890; line-height: 14px;}
+.gInputFields {	font-family: Arial, Helvetica, sans-serif;font-size: 11px;font-weight: bold; color: #242424; background-color: #666666; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: 
+
+solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: #444444; border-right-color: #999999; border-bottom-color: #999999; border-left-color: #444444;}
+.gBody {font-family: Georgia, "Times New Roman", Times, serif; font-size: 11px; color: #ACA890; line-height: 14px; background-color:#000000}
+.fLinks {font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 14px;	font-weight: bold; color: #FFDA00; text-decoration: underline;}
+.fLinks:active {	font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 14px; font-weight: bold; color: #FFFFFF; text-decoration: underline;}
+.fLinks:hover {font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 14px; font-weight: bold; color: #FFFFFF; text-decoration: none;}
+.fLinks:visited {font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 14px; font-weight: bold; color: #ACA890; text-decoration: underline;}
+.ciCellText {font-family: Georgia, "Times New Roman", Times, serif;	font-size: 11px; line-height: 14px; font-weight: bold; color: #000000; }
+.DJLink {font-family: Georgia, "Times New Roman", Times, arial,helvetica,sans-serif; color:#000000; font-size:11px; font-weight:bold; text-decoration:underline;}
+.DJLink:visited {color:#000000;font-family: Georgia, "Times New Roman", Times, arial,helvetica,sans-serif; font-size:11px; font-weight:bold; text-decoration:underline;}
+.DJLink:hover {font-family: Georgia, "Times New Roman", Times, arial,helvetica,sans-serif; font-size:11px; color:#ffffff; font-weight:bold; text-decoration:underline;}
+.elsAlertMsg { font-family: arial; font-size: 13px; font-weight: bold; color: #FFFFFF; line-height: normal }
+.elsTable { border-style: solid; border-width: 1px; border-color: #FFFFFF; }
+.elsCellField { background-color: #000000; color: #FFFFFF; font-family: arial; font-size: 13px; }
+.elsCellData { background-color: #000000; color: #FFFFFF; font-family: arial; font-size: 13px; }
+A.elsCellField { color: #FFFFFF; }
+A.elsCellData { color: #FFFFFF; }
+
+.ListingBlock { color:#ACA890; font-family: Georgia, "Times New Roman", Arial, Verdana; font-size: 11px; }
+.ListingBlock1 { background-color:#414141; color:#aca890; font-family: Georgia, "Times New Roman", Times, serif; font-size: 12px; }
+.ListingBlock2 { background-color:#aca890; color:#414141; font-family: Georgia, "Times New Roman", Times, serif; font-size: 12px; }
+.ListingBlock3 { background-color:#666666; color:#000000; font-family: Georgia, "Times New Roman", Times, serif; font-size: 12px; }
+A.ListingBlock:LINK {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 11px;
+	line-height: 14px;
+	font-weight: bold;
+	color: #FFDA00;
+	text-decoration: underline;
+}
+A.ListingBlock:VISITED {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 11px;
+	line-height: 14px;
+	font-weight: bold;
+	color: #ACA890;
+	text-decoration: underline;
+}
+A.ListingBlock:HOVER {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 11px;
+	line-height: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+A.ListingBlock1:LINK {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 11px;
+	line-height: 14px;
+	font-weight: bold;
+	color: #FFDA00;
+	text-decoration: underline;
+}
+A.ListingBlock1:VISITED {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 11px;
+	line-height: 14px;
+	font-weight: bold;
+	color: #ACA890;
+	text-decoration: underline;
+}
+A.ListingBlock1:HOVER {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 11px;
+	line-height: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+A.ListingBlock2:LINK {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 11px;
+	line-height: 14px;
+	font-weight: bold;
+	color: #e10b18;
+	text-decoration: underline;
+}
+A.ListingBlock2:VISITED {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 11px;
+	line-height: 14px;
+	font-weight: bold;
+	color: #ffffff;
+	text-decoration: underline;
+}
+A.ListingBlock2:HOVER {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 11px;
+	line-height: 14px;
+	font-weight: bold;
+	color: #ffda00;
+	text-decoration: none;
+}
+A.ListingBlock3:LINK {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 11px;
+	line-height: 14px;
+	font-weight: bold;
+	color: #e10b18;
+	text-decoration: underline;
+}
+A.ListingBlock3:VISITED {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 11px;
+	line-height: 14px;
+	font-weight: bold;
+	color: #ffffff;
+	text-decoration: underline;
+}
+A.ListingBlock3:HOVER {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 11px;
+	line-height: 14px;
+	font-weight: bold;
+	color: #ffda00;
+	text-decoration: none;
+}
+</style>
+
+<script language="JavaScript" type="text/JavaScript">
+<!--
+
+function printWindow() {
+bV = parseInt(navigator.appVersion);
+if (bV >= 4) window.print();
+}
+
+function LoadMenus(){
+isLoaded = true;
+}
+
+function openFavorites() {
+	if (navigator.appName == "Microsoft Internet Explorer" && parseInt(navigator.appVersion) >= 4) {
+	    window.external.AddFavorite('http://kisw-fm.fimc.net','99.9 KISW');
+	}
+	else {document.location.href="/bookmark.asp";}
+}
+
+//-->
+</script>
+
 </head>
+<body onload="LoadMenus();" bgcolor="#000000" text="#000000" leftmargin="0" topmargin="1" marginwidth="0" marginheight="0">
+<table valign="top" width="760" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td align="center" valign="top"><table width="758" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr align="left" valign="top"> 
+          <td background="/images/bar_back.gif"><img src="/images/bar_left.gif" width="42" height="9"></td>
+          <td align="right" background="/images/bar_back.gif"><img src="/images/bar_right.gif" width="42" height="9"></td>
+        </tr>
+      </tbody></table>
+      <table width="750" border="0" cellspacing="0" cellpadding="0" background="/images/trans.gif">
+        <tbody><tr> 
+          <td width="181" align="left" valign="top" background="/images/both_header_back.gif"><a href="/default.asp"><img src="/images/both_logo.gif" width="181" height="106" border="0" alt="Home Page"></a></td>
+          <td colspan="3" align="center" valign="middle" background="/images/both_header_back.gif">
+<script language="javascript">
+// updated djb 12/19/00, need full url path for link to flash download
 
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<div align="center">
-  <center>
-    <br>
-    <table cellspacing="0" border="0" cellpadding="2" width="554" align="center">
+var appNm = navigator.appName;
+var appVr = navigator.appVersion;
+var isIE = (appNm.indexOf("Explorer") > 0) ? true : false
+var isNS = (appVr == "Netscape") ? true : false
+var bVer = (isIE) ? (parseFloat( appVr.substring(appVr.indexOf("MSIE ")+5) )) : (parseFloat(appVr));
+var flashenabled = false;
+var windows = ( (appVr.indexOf("Windows NT")!=-1) || (appVr.indexOf("Windows 95")!=-1) || (appVr.indexOf("Windows 98")!=-1) );
+var beenAsked = false;
+
+if ( !( (isIE && windows && (bVer < 5)) || (isNS && (bVer==4.7)) ) ){ testPlugins(6); }
+
+
+function choice(nRequiredVersion){
+	if (beenAsked || (location.pathname.toLowerCase() != '/default.asp' && location.pathname.toLowerCase() != '/')) return false;
+	else {
+		beenAsked = true;
+		return confirm("This site uses the Flash Plug-in (Version " + nRequiredVersion + ").\n\rWould you like to download it now?");
+	}
+}
+
+function testPlugins(nRequiredVersion) {
+	var nPlayerVersion;
+	if (nRequiredVersion == null) nRequiredVersion = 4;
+	if (appNm.indexOf("Webtv")!=-1) flashenabled = true;
+	else if ( (appVr.indexOf("Mac")!=-1) && (bVer < 4) ) flashenabled = false;
+	else if (isIE) {
+		if (appVr.indexOf("3.1")!=-1){
+			flashenabled = false;
+		}
+		else if (windows) {
+			document.writeln('<SC'+'RIPT LANGUAGE="VBScript">');
+			document.writeln('on error resume next');
+			document.writeln('flashenabled = false');
+			document.writeln('flashenabled = IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.7"))');
+			if (nRequiredVersion < 7) document.writeln('flashenabled = IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.6"))');
+			if (nRequiredVersion < 6) document.writeln('flashenabled = IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.5"))');
+			if (nRequiredVersion < 5) document.writeln('flashenabled = IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.4"))');
+			if (nRequiredVersion < 4) document.writeln('flashenabled = IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.3"))');
+			document.writeln('</SC'+'RIPT>');
+		}
+		else if (appVr.indexOf("Mac")!=-1) {
+			flashenabled = true;
+		}
+	} else if (navigator.plugins != null) {
+
+	//	navigator.plugins.refresh(false);
+		for(var i=0; i < navigator.plugins.length; i++) {
+			if (navigator.plugins[i].name == "Shockwave Flash") {
+				nPlayerVersion = parseInt(navigator.plugins[i].description.substring(navigator.plugins[i].description.indexOf(".")-1));
+				if (nPlayerVersion >= 7) flashenabled = true;
+				else if (nPlayerVersion >= 6 && nRequiredVersion < 7) flashenabled = true;
+				else if (nPlayerVersion >= 5 && nRequiredVersion < 6) flashenabled = true;
+				else if (nPlayerVersion >= 4 && nRequiredVersion < 5) flashenabled = true;
+				else if (nPlayerVersion >= 3 && nRequiredVersion < 4) flashenabled = true;
+				break;
+			}
+		}
+	}
+
+	if (!flashenabled) {
+		if (choice(nRequiredVersion)) window.top.location.href = "http://" + location.host + "/goout.asp?u=http://macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash";
+	}
+}
+
+</script>
+
+<script language="JavaScript">
+<!--
+if ( flashenabled ) {
+	document.write('<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" WIDTH=510 HEIGHT=85>');
+	document.write('<PARAM NAME=movie VALUE="http://tmex.spun.com/tmex/kisw/nowplaying.swf"><PARAM NAME=menu VALUE=false><PARAM NAME=quality VALUE=high>'); 
+	document.write('<EMBED src="http://tmex.spun.com/tmex/kisw/nowplaying.swf" WIDTH="510" HEIGHT="85" menu=false quality=high swLiveConnect=FALSE TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></EMBED>');
+	document.write('</OBJECT>');
+} else if (!(appNm && appNm.indexOf("Netscape")>=0 && appVr.indexOf("2.")>=0)){
+	if (choice()) window.top.location.href = "http://" + location.host + "/goout.asp?u=http://macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash";
+	else document.write('<IMG SRC="trans.gif" USEMAP="#trans" WIDTH="510" HEIGHT="85" BORDER=0>');
+}
+//-->
+</script><img src="trans.gif" usemap="#trans" width="510" height="85" border="0">
+<noembed><IMG src="trans.gif" width="510" height="85" BORDER=0 usemap="#trans"></noembed><noscript><img src="trans.gif" width="510" height="85" BORDER=0 usemap="#trans"></noscript></td>
+        </tr>
+      </tbody></table>
+      <table width="758" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr align="left" valign="top"> 
+          <td background="/images/bar_back.gif"><img src="/images/bar_left.gif" width="42" height="9"><img src="/images/trans.gif" width="226" height="9"><img src="/images/bar_divider.gif" width="5" height="9"><img src="/images/trans.gif" width="232" height="9"><img src="/images/bar_divider.gif" width="5" height="9"></td>
+          <td align="right" background="/images/bar_back.gif"><img src="/images/bar_right.gif" width="42" height="9"></td>
+        </tr>
+      </tbody></table>
+      <table width="750" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td width="2" align="left" background="/images/menu_back.gif"><img src="/images/menu_left.gif" width="2" height="39"></td>
+          <td align="left" valign="top" background="/images/menu_back.gif"><img src="/images/trans.gif" width="15" height="5"><a href="javascript:doNothing();" onmouseover="imageOn('rockofseattle');showText(0,getImgX('rockofseattle'),getImgY('rockofseattle'))" onmouseout="imageOff('rockofseattle');hideText(0)"><img src="/images/both_menu_rockofseattle_off.gif" border="0" alt="Rock of Seattle" name="rockofseattle"></a><img src="/images/trans.gif" width="55" height="5"><a href="javascript:doNothing();" onmouseover="imageOn('kiswrockgirls');showText(1,getImgX('kiswrockgirls'),getImgY('kiswrockgirls'))" onmouseout="imageOff('kiswrockgirls');hideText(1)"><img src="/images/both_menu_kiswrockgirls_off.gif" border="0" alt="KISW Rock Girls" name="kiswrockgirls"></a><img src="/images/trans.gif" width="25" height="5"><a href="javascript:doNothing();" onmouseover="imageOn('kiswstreetsheet');showText(2,getImgX('kiswstreetsheet'),getImgY('kiswstreetsheet'))" onmouseout="imageOff('kiswstreetsheet');hideText(2)"><img src="/images/both_menu_kiswstreetsheet_off.gif" border="0" alt="KISW Street Sheet" name="kiswstreetsheet"></a>
+</td>
+          <td width="2" align="right" valign="top" background="/images/menu_back.gif"><img src="/images/menu_right.gif" width="2" height="39"></td>
+        </tr>
+      </tbody></table>
+      <table width="758" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr align="left" valign="top"> 
+          <td background="/images/bar_back.gif"><img src="/images/bar_left.gif" width="42" height="9"><img src="/images/trans.gif" width="226" height="9"><img src="/images/bar_divider.gif" width="5" height="9"><img src="/images/trans.gif" width="232" height="9"><img src="/images/bar_divider.gif" width="5" height="9"></td>
+          <td align="right" background="/images/bar_back.gif"><img src="/images/bar_right.gif" width="42" height="9"></td>
+        </tr>
+      </tbody></table>
+      <table width="750" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td width="2" align="left" valign="top" background="/images/both_content_left_back.gif"><img src="/images/both_content_left_top.gif" width="2" height="68"></td>
+          <td width="746" rowspan="2" align="center" valign="top" background="/images/both_content_back.gif"> 
+            <table width="704" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td width="171" align="left" valign="top"><table width="171" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td align="center" valign="top">
+								<table width="159" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+                          <tbody><tr> 
+                            <td align="center" valign="top"><table width="159" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+                                <tbody><tr> 
+                                  <td align="center" valign="top"><a href="/els/elsloginfrm.asp"><img src="/images/both_logo_tripple9club.gif" width="159" height="110" border="0" alt="Triple 9 Club"></a></td>
+                                </tr>
+                                <tr> 
+                                  <td align="left" valign="bottom"><a href="/els/elsSignupfrm.asp"><img src="/images/both_button_join.gif" width="159" height="67" border="0" alt="Join!"></a></td>
+                                </tr>
+                              </tbody></table></td>
+                          </tr>
+                        </tbody></table></td>
+                    </tr>
+                    <tr>
+                      <td background="/images/trans.gif"><img src="/images/both_smallbar.gif" width="171" height="5"></td>
+                    </tr>
+                  </tbody></table>
+                  <table width="171" border="0" cellspacing="0" cellpadding="0" background="/images/trans.gif">
+                    <tbody><tr> 
+                      <td align="center" valign="top"><table width="159" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+                          <tbody><tr> 
+                            <td align="center" valign="top" background="/images/trans.gif"> 
+                              <table width="159" border="0" cellspacing="0" cellpadding="5" background="/images/trans.gif">
+                               <tbody><tr>
+<td align="center"><a target="_blank" href="/ad/click.asp?adID=11915&amp;adRunID=18684"><img src="http://images.radcity.net/3006/642957.gif" border="0" alt="Verizon"></a></td>
+</tr>
+<tr>
+<td align="center"><script type="text/javascript"><!--
+google_ad_client = "pub-3847498974067579";
+google_ad_width = 125;
+google_ad_height = 125;
+google_ad_format = "125x125_as";
+google_ad_channel ="6267851174";
+google_ad_type = "text";
+google_color_border = "333333";
+google_color_bg = "FF3911";
+google_color_link = "FFFFFF";
+google_color_url = "FFFFFF";
+google_color_text = "FFFFFF";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td>
+</tr>
+<tr>
+<td align="center"><a target="_blank" href="/ad/click.asp?adID=13300&amp;adRunID=20154"><img src="http://images.radcity.net/3006/687378.jpg" border="0" alt="Coca-Cola C2"></a></td>
+</tr>
+<tr>
+<td align="center"><a target="_blank" href="/ad/click.asp?adID=12324&amp;adRunID=19103"><img src="http://images.radcity.net/ads/tiles/zgbr_tile.gif" border="0" alt="Grand Baja"></a></td>
+</tr>
+
+                              </tbody></table></td>
+                          </tr>
+                        </tbody></table></td>
+                    </tr>
+                    <tr> 
+                      <td><img src="/images/both_smallbar.gif" width="171" height="5"></td>
+                    </tr>
+                  </tbody></table>
+
+            <table width="171" border="0" cellspacing="0" cellpadding="0" background="/images/trans.gif">
+                    <tbody><tr> 
+                      <td align="center" valign="top"><table width="159" border="0" cellpadding="5" cellspacing="0" bgcolor="#000000">
+                          <tbody><tr> 
+                            <td align="center" valign="top">
+                            	<form action="/default.asp" method="post" target="_top" id="form1" name="form1"><select name="u" size="1" class="gDropdown" onchange="submit();">
+							<option value="/">Site Index</option>
+<option value="/jocks.asp">Air Staff</option>
+<option value="/metalshop.asp">Metal Shop</option>
+<option value="/interviews.asp">Interviews</option>
+<option value="/goout.asp?u=http://www.rockdaily.com/rd_news/1,,kisw,00.html">Rock Report</option>
+<option value="/programschedule.asp">Program Schedule</option>
+<option value="/onairfeatures.asp">Features</option>
+<option value="/els/elsloginfrm.asp">Triple 9 Club</option>
+<option value="/contests.asp">Contests</option>
+<option value="/stationinfo.asp">Station Info</option>
+<option value="/advertisers.asp">Advertisers</option>
+<option value="/rockgirls.asp">Meet the Rock Girls</option>
+<option value="/photowall.asp">More Rock Girls Photos</option>
+<option value="/kiswonthestreets.asp">KISW On the Streets</option>
+<option value="/concertcalendar.asp">Concert Calendar</option>
+<option value="/community/communitycalendar.asp">Clubs</option>
+<option value="/goout.asp?u=/forum/default.asp">Ticket Exchange</option>
+<option value="/photowall.asp">KISW Photos</option>
+<option value="/contactus.asp">Contact Us</option>
+<option value="/privacypolicy.asp">Privacy Policy</option>
+<option value="/jobs.asp">Jobs</option>
+<option value="/eeo.asp">EEO</option>
+<option value="/advertisinginfo.asp">Advertising Info</option>
+<option value="/aboutthissite.asp">About this Site</option></select></form></td>
+                          </tr>
+                        </tbody></table></td>
+                    </tr>
+                    <tr> 
+                      <td><img src="/images/both_smallbar.gif" width="171" height="5"></td>
+                    </tr>
+                  </tbody></table></td>
+                <td width="31"><img src="/images/trans.gif" width="31" height="5"></td>
+                <td align="center" valign="top" background="/images/trans.gif">
+					<table width="517" border="0" cellspacing="0" cellpadding="5">
+					  <tbody><tr> 
+					    <td align="center" valign="top"><a target="_blank" href="/ad/click.asp?adID=13311&amp;adRunID=20165"><img src="http://images.radcity.net/3006/687551.jpg" border="0" alt="The Simple Life 2"></a></td>
+					  </tr>
+					</tbody></table>
+					<table width="517" border="0" cellspacing="0" cellpadding="0">
+					  <tbody><tr>
+					    <td align="left" valign="top" bgcolor="#E10B18"><img src="/images/trans.gif" width="1" height="1"></td>
+					  </tr>
+					  <tr>
+					    <td align="left" valign="top" bgcolor="#000000"><table width="517" border="0" cellspacing="0" cellpadding="10" height="590">
+					        <tbody><tr>
+					          <td align="left" valign="top"><p><font class="iPageTitles">Privacy Policy</font><br><br><font class="iText"><font class="iText"><table cellspacing="0" border="0" cellpadding="2" width="554" align="center">
+
       <tbody><tr> 
+
         <td valign="MIDDLE"> <b><font face="Verdana" size="2"> 
-          </font></b><p align="CENTER"><b><font face="Verdana" size="2">A Privacy Policy Statement from Entercom Communications 
-          </font></b></p></td>
+
+          </font></b><p align="CENTER"><b><font face="Verdana" size="2"><font color="#FFFFFF">A Privacy Policy Statement from 
+            Entercom Communications </font> </font></b></p></td>
+
       </tr>
+
       <tr> 
+
         <td valign="MIDDLE"> <b></b> 
-          <p><font face="Verdana" size="1"><b>The following discloses our information 
-            gathering and dissemination practices for Entercom Radio Station web 
-            properties. For a complete list of all Entercom radio station web 
-            sites, please visit </b></font><a href="http://www.entercom.com/"><b><font face="Verdana" size="1">www.entercom.com</font></b></a><b><font face="Verdana" size="1">.</font></b></p>
-          <b><font face="Verdana" size="1"> 
-          <p>Privacy Policies</p>
-          <p>· Information Collection - When you browse any Entercom radio station 
-            Web site, you do so anonymously. Personal information -- including 
-            your e-mail address -- is not automatically collected. Some of our 
-            Web sites, however, may request that you voluntarily supply us with 
-            personal information, including your E-mail address for purposes of 
-            participating in correspondence, site registration, streaming player 
-            registration, membership, making a purchase, contests, online surveys, 
-            to contact you as part of a promotion, to meet legal requirements, 
-            to keep you informed about products and services in which you may 
-            have an interest, and/or to analyze the collected information and 
-            use this data for contacts by research firms. For these types of activities 
-            we may require your name, e-mail address, gender, zipcode, birthdate 
-            or other information. Other optional information may be asked (listener/customer 
-            preference information, mailing address, telephone numbers, lifestyle 
-            interests, and other demographic information).</p>
-          <p>Like many other commercial Web sites, some Entercom web sites may 
-            use a standard technology called a "cookie" to collect information 
-            about how our site is used. Please read About Cookies below for more 
-            information.</p>
-          <p>· We give listeners/customers access to their data online. A listener/customer 
-            may change, update or add additional information about themselves 
-            at any time through our radio stations' web sites, which offer this 
-            feature. If a station does not currently provide this ability, listeners/customers 
-            can still change their data profile by contacting the local station. 
-            All Entercom radio stations will provide this feature in the near 
-            future. <br>
+
+          <p><font face="Verdana" size="1"><b><font color="#FFFFFF">The following 
+            discloses our information gathering and dissemination practices for 
+            Entercom Radio Station web properties. For a complete list of all 
+            Entercom radio station web sites, please visit </font></b></font><font color="#FFFFFF"><a href="http://www.entercom.com/"><b><font face="Verdana" size="1">www.entercom.com</font></b></a><b><font face="Verdana" size="1">.</font></b></font></p>
+          <b><font face="Verdana" size="1">
+          <p><font color="#FFFFFF">Privacy Policies</font></p>
+          <p><font color="#FFFFFF">· Information Collection - When you browse 
+            any Entercom radio station Web site, you do so anonymously. Personal 
+            information -- including your e-mail address -- is not automatically 
+            collected. Some of our Web sites, however, may request that you voluntarily 
+            supply us with personal information, including your E-mail address 
+            for purposes of participating in correspondence, site registration, 
+            streaming player registration, membership, making a purchase, contests, 
+            online surveys, to contact you as part of a promotion, to meet legal 
+            requirements, to keep you informed about products and services in 
+            which you may have an interest, and/or to analyze the collected information 
+            and use this data for contacts by research firms. For these types 
+            of activities we may require your name, e-mail address, gender, zipcode, 
+            birthdate or other information. Other optional information may be 
+            asked (listener/customer preference information, mailing address, 
+            telephone numbers, lifestyle interests, and other demographic information).</font></p>
+          <p><font color="#FFFFFF">Like many other commercial Web sites, some 
+            Entercom web sites may use a standard technology called a "cookie" 
+            to collect information about how our site is used. Please read About 
+            Cookies below for more information.</font></p>
+          <p><font color="#FFFFFF">· We give listeners/customers access to their 
+            data online. A listener/customer may change, update or add additional 
+            information about themselves at any time through our radio stations' 
+            web sites, which offer this feature. If a station does not currently 
+            provide this ability, listeners/customers can still change their data 
+            profile by contacting the local station. All Entercom radio stations 
+            will provide this feature in the near future. <br>
             · We attempt to limit access to listener/customer data to those who 
             specifically need it to conduct their business with the company. While 
             we use security techniques designed to protect our listener/customer 
@@ -63,53 +775,55 @@
             or problem areas. We track this activity utilizing an out-sourced 
             product, WebTrends Live, from WebTrends Corporation.. The Privacy 
             Statement for Visitors to Sites Tracked by WebTrends Live can be found 
-            at:</p>
-          <p><a href="http://www.webtrendslive.com/privacy_policy.htm#priv2" target="_blank">http://www.webtrendslive.com/privacy_policy.htm#priv2</a><br>
+            at:</font></p>
+          <p><font color="#FFFFFF"><a href="http://www.webtrendslive.com/privacy_policy.htm#priv2" target="_blank">http://www.webtrendslive.com/privacy_policy.htm#priv2</a><br>
             <br>
-          </p>
-          <p>· Information Use<br>
+            </font></p>
+          <p><font color="#FFFFFF">· Information Use<br>
             If you provide us with your E-mail address, or have done so in the 
             past, we may send you E-mail offers, surveys, newsletters or other 
             types of contacts. These are based on information you provided in 
             your membership application, registration forms, in surveys, from 
             information that may indicate purchasing preferences and lifestyle, 
             as well as information available from external sources, such as census 
-            bureau data.</p>
+            bureau data.</font></p>
           </font></b><font face="Verdana" size="1">
-          <p><b>· We use information generally to compile statistical and user 
-            profile data, to perform research using the compiled data including 
-            disclosure of user information to research firms retained by KISW, 
-            to keep in contact with users and provide them with a better interactive 
-            experience. We may use your information specifically for the following 
-            purposes: to provide easy access every time you return to the site 
-            without requiring re-entry of registration information; to keep you 
-            informed about products and services in which you may have interest; 
-            to complete business transactions; to contact you as part of a promotion; 
-            to allow you to make a posting on the Site; to administer individual 
-            accounts; to provide customer support; to meet legal requirements; 
-            to provide Internet security; and/or to analyze the collected information 
-            and use this data for contacts by research firms. Also, in the event 
-            that company or the radio station is involved in a sale of a substantial 
-            portion of our business assets, listener/customer information may 
-            be among the transferred assets. </b></p>
-          </font><b><font face="Verdana" size="1"><p>· We work closely with our business partners and certain other third 
-            parties who may perform functions on our behalf, such as fulfilling 
-            orders, providing promotional materials to our users, sending e-mail, 
-            managing data, processing credit card payments or providing customer 
-            service. They have access to your personal information only to the 
-            extent necessary to perform their functions and may not use it for 
-            any other purpose. Further, these business partners and other third 
-            parties may from time to time wish to extend special offers to you 
-            on their own behalf. We may use your personal information to assist 
-            our business partners in offering you these products, services and 
-            information and may act as an intermediary (for instance, sending 
-            you e-mail on their behalf). </p>
-          <p> · The data you provide is used to enhance the services and offers 
-            our radio stations bring you. As a result of providing personal information, 
-            Entercom radio stations can provide a more customized online experience, 
-            making your interaction with us more productive, helpful and fun. 
-            You can also expect to receive occasional communications targeted 
-            directly toward your lifestyle interests. <br>
+          <p><font color="#FFFFFF"><b>· We use information generally to compile 
+            statistical and user profile data, to perform research using the compiled 
+            data including disclosure of user information to research firms retained 
+            by KISW, to keep in contact with users and provide them with a better 
+            interactive experience. We may use your information specifically for 
+            the following purposes: to provide easy access every time you return 
+            to the site without requiring re-entry of registration information; 
+            to keep you informed about products and services in which you may 
+            have interest; to complete business transactions; to contact you as 
+            part of a promotion; to allow you to make a posting on the Site; to 
+            administer individual accounts; to provide customer support; to meet 
+            legal requirements; to provide Internet security; and/or to analyze 
+            the collected information and use this data for contacts by research 
+            firms. Also, in the event that company or the radio station is involved 
+            in a sale of a substantial portion of our business assets, listener/customer 
+            information may be among the transferred assets. </b></font></p>
+          <b>
+          <p><font color="#FFFFFF">· We work closely with our business partners 
+            and certain other third parties who may perform functions on our behalf, 
+            such as fulfilling orders, providing promotional materials to our 
+            users, sending e-mail, managing data, processing credit card payments 
+            or providing customer service. They have access to your personal information 
+            only to the extent necessary to perform their functions and may not 
+            use it for any other purpose. Further, these business partners and 
+            other third parties may from time to time wish to extend special offers 
+            to you on their own behalf. We may use your personal information to 
+            assist our business partners in offering you these products, services 
+            and information and may act as an intermediary (for instance, sending 
+            you e-mail on their behalf). </font></p>
+          <p> <font color="#FFFFFF">· The data you provide is used to enhance 
+            the services and offers our radio stations bring you. As a result 
+            of providing personal information, Entercom radio stations can provide 
+            a more customized online experience, making your interaction with 
+            us more productive, helpful and fun. You can also expect to receive 
+            occasional communications targeted directly toward your lifestyle 
+            interests. <br>
             · Declining E-mail Offers - Entercom provides listeners/customers 
             with an easy means to decline receiving E-mail offers and recognizes 
             the importance of providing you with choices. At any time, you may 
@@ -147,362 +861,285 @@
             undertaking. Additional restrictions may be imposed to comply with 
             state and local laws, and/or station specific programs, products and 
             services. Entercom reserves the right to alter, amend or supplement 
-            the privacy standards at anytime.</p>
-          </font></b><font face="Verdana" size="1">
-          <p><i><b>KISW<br>
+            the privacy standards at anytime.</font></p>
+          </b>
+          <p><font color="#FFFFFF"><i><b>KISW<br>
             1100 Olive Way<br>
             Suite 1650<br>
             Seattle, WA 98136<br>
-          </b></i></p>
-          </font><b><font face="Verdana" size="1"> 
-          <p>Effective Date: December 1, 2001</p>
-          <p>About Cookies </p>
-          <p>Cookies were originally designed to help a Web site distinguish a 
-            user's browser as a previous visitor and thus save and remember any 
-            preferences that may have been set while the user was browsing the 
-            site. A cookie is a small string of text that a Web site can send 
-            to your browser. A cookie cannot retrieve any other data from your 
-            hard drive, pass on computer viruses, or capture your E-mail address. 
-            Currently, Web sites use cookies to enhance the user's visit; in general, 
-            cookies can securely store a user's ID and password, personalize home 
-            pages, identify which parts of a site have been visited or keep track 
-            of selections in a "shopping cart."</p>
-          </font></b><p><b><font face="Verdana" size="1">If you are just browsing an Entercom Communications radio station 
-            Web site, a cookie identifies only your browser. If you become a registered 
-            user on an Entercom Communications radio station Web site (with a 
-            designated user ID and password), we may use cookies so that we can 
-            provide personalized information that we believe will be of value 
-            to you based on preferences you have stated while visiting the site. 
-            It is possible to set your browser to inform you when a cookie is 
-            being placed -- this way, you have the opportunity to decide whether 
-            to accept the cookie. If you are just browsing one of our sites and 
-            are not a registered user, you do not have to accept a cookie and 
-            you may still continue utilizing the site, though you might not be 
-            able to experience the site to the fullest extent. <br>
+            </b></i></font></p>
+          </font><b><font face="Verdana" size="1">
+          <p><font color="#FFFFFF">Effective Date: December 1, 2001</font></p>
+          <p><font color="#FFFFFF">About Cookies </font></p>
+          <p><font color="#FFFFFF">Cookies were originally designed to help a 
+            Web site distinguish a user's browser as a previous visitor and thus 
+            save and remember any preferences that may have been set while the 
+            user was browsing the site. A cookie is a small string of text that 
+            a Web site can send to your browser. A cookie cannot retrieve any 
+            other data from your hard drive, pass on computer viruses, or capture 
+            your E-mail address. Currently, Web sites use cookies to enhance the 
+            user's visit; in general, cookies can securely store a user's ID and 
+            password, personalize home pages, identify which parts of a site have 
+            been visited or keep track of selections in a "shopping cart."</font></p>
+          </font></b><p><b><font face="Verdana" size="1"><font color="#FFFFFF">If you are just browsing an Entercom Communications 
+            radio station Web site, a cookie identifies only your browser. If 
+            you become a registered user on an Entercom Communications radio station 
+            Web site (with a designated user ID and password), we may use cookies 
+            so that we can provide personalized information that we believe will 
+            be of value to you based on preferences you have stated while visiting 
+            the site. It is possible to set your browser to inform you when a 
+            cookie is being placed -- this way, you have the opportunity to decide 
+            whether to accept the cookie. If you are just browsing one of our 
+            sites and are not a registered user, you do not have to accept a cookie 
+            and you may still continue utilizing the site, though you might not 
+            be able to experience the site to the fullest extent. <br>
             <br>
             You can find out to set your cookie preferences by visiting the site 
             of the browser software you use, such as Netscape, Microsoft Internet 
-            Explorer or AOL. 
-          </font></b> </p></td>
+            Explorer or AOL. </font> </font></b> </p></td>
+
       </tr>
-    </tbody></table>
-    <br>
-  </center>
-</div>
 
-<p align="center"><font face="Arial" size="1">© 2002 Entercom Seattle, LLC</font></p>
-<!-- START OF WEBTRENDS LIVE TAG -->
-<!-- Copyright 1999-2000 WebTrends Corporation -->
-<!-- eCommerce Revenue Tracking (patent pending) -->
-
-<!-- Visit us at http://www.webtrendslive.com -->
-
-<script language="JavaScript">
+    </tbody></table></font>                              </font></p></td>
+                          </tr>
+                        </tbody></table>
+                        
+                        </td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" bgcolor="#E10B18"><img src="/images/trans.gif" width="1" height="1"></td>
+                    </tr>
+                  </tbody></table></td>
+              </tr>
+            </tbody></table>
+           <table width="746" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td align="center" valign="bottom"><img src="/images/both_content_bottom.gif" width="746" height="11"></td>
+              </tr>
+            </tbody></table>
+            
+          </td>
+          <td width="2" align="right" valign="top" background="/images/both_content_right_back.gif"><img src="/images/both_content_right_top.gif" width="2" height="68"></td>
+        </tr>
+        <tr> 
+          <td width="2" align="left" valign="bottom" background="/images/both_content_left_back.gif"><img src="/images/both_content_left_bottom.gif" width="2" height="68"></td>
+          <td width="2" align="right" valign="bottom" background="/images/both_content_right_back.gif"><img src="/images/both_content_right_bottom.gif" width="2" height="68"></td>
+        </tr>
+      </tbody></table>
+      <table width="758" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr align="left" valign="top"> 
+          <td background="/images/bar_back.gif"><img src="/images/bar_left.gif" width="42" height="9"></td>
+          <td align="right" background="/images/bar_back.gif"><img src="/images/bar_right.gif" width="42" height="9"></td>
+        </tr>
+      </tbody></table>
+      <table width="729" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td width="2" background="/images/both_footer_back.gif"><img src="/images/both_footer_left.gif" width="2" height="40"></td>
+          <td width="725" align="center" background="/images/both_footer_back.gif"><a href="javascript:printWindow();" onmouseover="imageOn('print')" onmouseout="imageOff('print')"><img src="/images/both_menu_bottom_print_off.gif" border="0" alt="Print this Page" name="print"></a><a href="javascript:openFavorites();" onmouseover="imageOn('bookmark')" onmouseout="imageOff('bookmark')"><img src="/images/both_menu_bottom_bookmark_off.gif" border="0" alt="Bookmark This Page" name="bookmark"></a><a href="/sendpage.asp" onmouseover="imageOn('send')" onmouseout="imageOff('send')"><img src="/images/both_menu_bottom_send_off.gif" border="0" alt="Send to a Friend" name="send"></a></td>
+          <td width="2" align="right" background="/images/both_footer_back.gif"><img src="/images/both_footer_right.gif" width="2" height="40"></td>
+        </tr>
+      </tbody></table> 
+      <table width="758" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr align="left" valign="top"> 
+          <td background="/images/bar_back.gif"><img src="/images/bar_left.gif" width="42" height="9"></td>
+          <td align="right" background="/images/bar_back.gif"><img src="/images/bar_right.gif" width="42" height="9"></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+</tbody></table>
+<table align="center" width="729" border="0" cellspacing="0" cellpadding="5">
+  <tbody><tr>
+    <td align="center" valign="middle" class="gCopyright"><font class="gCopyright">Copyright © 2004 Entercom Seattle-Tacoma, LLC <br> and <a class="gCopyright" href="Javascript:displayNotice();">First MediaWorks</a> - All Rights Reserved<br><a class="gCopyright" target="_blank" href="http://www.firstmediaworks.com/poweredby/default.asp?d=www.kisw.com">Powered by First MediaWorks</a></font>
+<script language="Javascript">
 <!--
-// You may customize the values of the variables below to suit your website.
-// Simply insert your own values between the double-quotes.
-// Here are some examples:
-//   var ORDER= "D2,Business to Consumer,Pocket FM Radio,Audio Products,10,499.99;";
-//   var SERVER= "MyServerName";
-//   var CONTENTGROUP= "ContentGroupOfThisPage";
-
-var ORDER= "";
-var SERVER= "";
-var CONTENTGROUP= "";
+function displayNotice()
+{
+noteWin = window.open("http://firstmediaworks.com/PopUpCopyrightNotice.asp?d=www.kisw.com", "noteWindow", "location=no,status=no,toolbar=no,menubar=no,width=520,height=500,scrollbars=yes,resizable=yes");
+noteWin.focus();
+}
 //-->
 </script>
-
-<script language="JavaScript">
-<!--
-// Modification of this code is not allowed and will permanently disable your account!
-// SiteName: Seattle, KNDD
-var W="tagver=3&SiteId=16424&Sid=002-00-7-10-140949-16424&Tz=-800&firstwkday=sunday&Edition=enterprise&Button=";
-W+="&server="+escape(SERVER);
-W+="&order="+escape(ORDER);
-W+="&Group="+escape(CONTENTGROUP);
-W+="&browserDate="+escape(new Date());
-W+="&title="+escape(document.title);
-W+="&url="+window.document.URL;
-W+="&referrer="+window.document.referrer;
-W+="&appname="+escape(navigator.appName);
-W+="&appversion="+escape(navigator.appVersion);
-W+="&cookieOK="+(navigator.cookieEnabled?"Yes":"No");
-W+="&userLanguage="+(navigator.appName=="Netscape"?navigator.language:navigator.userLanguage);
-W+="&platform="+navigator.platform;
-W+="&bgColor="+escape(document.bgColor);
-W+="&javaOK=Yes";
-if(typeof(screen)=="object")
-{
-W+="&screenResolution="+screen.width+"x"+screen.height;
-W+="&colorDepth="+screen.colorDepth;
-W+="&NSpluginList=";
-for( var i=0; i< navigator.plugins.length; i++)
-W+=escape(navigator.plugins[i].name)+";";
-}
-document.write('<A TARGET="_blank" HREF="http://www.webtrendslive.com/redirect.asp?siteID=16424">');
-document.write('<IMG BORDER="0" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/S002-00-7-10-140949-16424/button3.asp?'+W+'">');
-document.write('</A>');
-//-->
-</script><a target="_blank" href="http://www.webtrendslive.com/redirect.asp?siteID=16424"><img border="0" width="1" height="1" src="http://statse.webtrendslive.com/S002-00-7-10-140949-16424/button3.asp?tagver=3&amp;SiteId=16424&amp;Sid=002-00-7-10-140949-16424&amp;Tz=-800&amp;firstwkday=sunday&amp;Edition=enterprise&amp;Button=&amp;server=&amp;order=&amp;Group=&amp;browserDate=Wed%20Feb%2019%202020%2022%3A39%3A28%20GMT+0000%20%28Coordinated%20Universal%20Time%29&amp;title=KISW%20Privacy%20Policy&amp;url=https://web.archive.org/web/20030625211943id_/http%3A//kisw.com/staff/kisw_privacypolicy.html&amp;referrer=&amp;appname=Netscape&amp;appversion=5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20HeadlessChrome/69.0.3494.0%20Safari/537.36&amp;cookieOK=Yes&amp;userLanguage=en-US&amp;platform=Linux x86_64&amp;bgColor=%23FFFFFF&amp;javaOK=Yes&amp;screenResolution=800x600&amp;colorDepth=24&amp;NSpluginList="></a>
-
-<noscript>
-<A TARGET="_blank" HREF="http://www.webtrendslive.com/redirect.asp?siteID=16424">
-<IMG BORDER="0" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/S002-00-7-10-140949-16424/button3.asp?tagver=3&SiteId=16424&Sid=001-00-3-10-6692-7351&Tz=-800&firstwkday=sunday&Edition=enterprise&Button=&title=NO%20SCRIPT&url=http://noscript&javaOK=No&">
-</A>
-</noscript>
-<!-- END OF WEBTRENDS LIVE TAG -->
+<br><a class="gCopyright" href="/privacypolicy.asp">Privacy Policy</a></td>
+  </tr>
+</tbody></table>
 
 
-</body></html><!DOCTYPE html PUBLIC "-//IETF//DTD HTML//EN"><html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="GENERATOR" content="Microsoft FrontPage 3.0">
-<title>KISW Privacy Policy</title>
-</head>
+<div id="sub0" style="width:200px;height:115px;" onmouseover="overMenus=true" onmouseout="overMenus=false;hideText(0);"><layer onmouseover="overMenus=true" onmouseout="overMenus=false;hideText(0);"> 
+<table border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr> 
+            <td width="5" rowspan="2" align="left" valign="bottom" background="/images/nav_left_back.gif"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
+            <td id="rockofseattle_td" background="/images/nav_back.gif" onmouseover="BGimageOn('rockofseattle')"><table border="0" cellspacing="0" cellpadding="5">
+                <tbody><tr> 
+                  <td align="left" valign="top">
+                   
+                   <a class="gNavText" href="/jocks.asp">Air Staff</a><br>
+                   
+                   <a class="gNavText" href="/metalshop.asp">Metal Shop</a><br>
+                   
+                   <a class="gNavText" href="/interviews.asp">Interviews</a><br>
+                   
+                   <a class="gNavText" href="/goout.asp?u=http://www.rockdaily.com/rd_news/1,,kisw,00.html">Rock Report</a><br>
+                   
+                   <a class="gNavText" href="/programschedule.asp">Program Schedule</a><br>
+                   
+                   <a class="gNavText" href="/onairfeatures.asp">Features</a><br>
+                   
+                   <a class="gNavText" href="/els/elsloginfrm.asp">Triple 9 Club</a><br>
+                   
+                   <a class="gNavText" href="/contests.asp">Contests</a><br>
+                   
+                   <a class="gNavText" href="/stationinfo.asp">Station Info</a><br>
+                   
+                   <a class="gNavText" href="/advertisers.asp">Advertisers</a><br>
+                   
+                   </td>
+                </tr>
+              </tbody></table></td>
+            <td width="5" rowspan="2" align="right" valign="bottom" background="/images/nav_left_back.gif"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
+          </tr>
+          <tr> 
+            <td height="5" background="/images/nav_bottom_back.gif"><img src="/images/trans.gif" width="5" height="5"></td>
+          </tr>
+        </tbody></table>
+</layer></div>
+<div id="sub1" style="width:200px;height:115px;" onmouseover="overMenus=true" onmouseout="overMenus=false;hideText(1);"><layer onmouseover="overMenus=true" onmouseout="overMenus=false;hideText(1);"> 
+<table border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr> 
+            <td width="5" rowspan="2" align="left" valign="bottom" background="/images/nav_left_back.gif"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
+            <td id="kiswrockgirls_td" background="/images/nav_back.gif" onmouseover="BGimageOn('kiswrockgirls')"><table border="0" cellspacing="0" cellpadding="5">
+                <tbody><tr> 
+                  <td align="left" valign="top">
+                   
+                   <a class="gNavText" href="/rockgirls.asp">Meet the Rock Girls</a><br>
+                   
+                   <a class="gNavText" href="/photowall.asp">More Rock Girls Photos</a><br>
+                   
+                   </td>
+                </tr>
+              </tbody></table></td>
+            <td width="5" rowspan="2" align="right" valign="bottom" background="/images/nav_left_back.gif"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
+          </tr>
+          <tr> 
+            <td height="5" background="/images/nav_bottom_back.gif"><img src="/images/trans.gif" width="5" height="5"></td>
+          </tr>
+        </tbody></table>
+</layer></div>
+<div id="sub2" style="width:200px;height:115px;" onmouseover="overMenus=true" onmouseout="overMenus=false;hideText(2);"><layer onmouseover="overMenus=true" onmouseout="overMenus=false;hideText(2);"> 
+<table border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr> 
+            <td width="5" rowspan="2" align="left" valign="bottom" background="/images/nav_left_back.gif"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
+            <td id="kiswstreetsheet_td" background="/images/nav_back.gif" onmouseover="BGimageOn('kiswstreetsheet')"><table border="0" cellspacing="0" cellpadding="5">
+                <tbody><tr> 
+                  <td align="left" valign="top">
+                   
+                   <a class="gNavText" href="/kiswonthestreets.asp">KISW On the Streets</a><br>
+                   
+                   <a class="gNavText" href="/concertcalendar.asp">Concert Calendar</a><br>
+                   
+                   <a class="gNavText" href="/community/communitycalendar.asp">Clubs</a><br>
+                   
+                   <a class="gNavText" href="/goout.asp?u=/forum/default.asp">Ticket Exchange</a><br>
+                   
+                   <a class="gNavText" href="/photowall.asp">KISW Photos</a><br>
+                   
+                   </td>
+                </tr>
+              </tbody></table></td>
+            <td width="5" rowspan="2" align="right" valign="bottom" background="/images/nav_left_back.gif"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
+          </tr>
+          <tr> 
+            <td height="5" background="/images/nav_bottom_back.gif"><img src="/images/trans.gif" width="5" height="5"></td>
+          </tr>
+        </tbody></table>
+</layer></div>
 
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<div align="center">
-  <center>
-    <br>
-    <table cellspacing="0" border="0" cellpadding="2" width="554" align="center">
-      <tbody><tr> 
-        <td valign="MIDDLE"> <b><font face="Verdana" size="2"> 
-          </font></b><p align="CENTER"><b><font face="Verdana" size="2">A Privacy Policy Statement from Entercom Communications 
-          </font></b></p></td>
-      </tr>
-      <tr> 
-        <td valign="MIDDLE"> <b></b> 
-          <p><font face="Verdana" size="1"><b>The following discloses our information 
-            gathering and dissemination practices for Entercom Radio Station web 
-            properties. For a complete list of all Entercom radio station web 
-            sites, please visit </b></font><a href="http://www.entercom.com/"><b><font face="Verdana" size="1">www.entercom.com</font></b></a><b><font face="Verdana" size="1">.</font></b></p>
-          <b><font face="Verdana" size="1"> 
-          <p>Privacy Policies</p>
-          <p>· Information Collection - When you browse any Entercom radio station 
-            Web site, you do so anonymously. Personal information -- including 
-            your e-mail address -- is not automatically collected. Some of our 
-            Web sites, however, may request that you voluntarily supply us with 
-            personal information, including your E-mail address for purposes of 
-            participating in correspondence, site registration, streaming player 
-            registration, membership, making a purchase, contests, online surveys, 
-            to contact you as part of a promotion, to meet legal requirements, 
-            to keep you informed about products and services in which you may 
-            have an interest, and/or to analyze the collected information and 
-            use this data for contacts by research firms. For these types of activities 
-            we may require your name, e-mail address, gender, zipcode, birthdate 
-            or other information. Other optional information may be asked (listener/customer 
-            preference information, mailing address, telephone numbers, lifestyle 
-            interests, and other demographic information).</p>
-          <p>Like many other commercial Web sites, some Entercom web sites may 
-            use a standard technology called a "cookie" to collect information 
-            about how our site is used. Please read About Cookies below for more 
-            information.</p>
-          <p>· We give listeners/customers access to their data online. A listener/customer 
-            may change, update or add additional information about themselves 
-            at any time through our radio stations' web sites, which offer this 
-            feature. If a station does not currently provide this ability, listeners/customers 
-            can still change their data profile by contacting the local station. 
-            All Entercom radio stations will provide this feature in the near 
-            future. <br>
-            · We attempt to limit access to listener/customer data to those who 
-            specifically need it to conduct their business with the company. While 
-            we use security techniques designed to protect our listener/customer 
-            data, given constantly changing technologies that may exist, we do 
-            not guarantee the security of our listener/customer data. <br>
-            · We anonymously track visitor usage of our sites for general marketing 
-            purposes, such as determining what information is of most and least 
-            interest to visitors, and for other purposes such as determining the 
-            site's technical design specifications and identifying system performance 
-            or problem areas. We track this activity utilizing an out-sourced 
-            product, WebTrends Live, from WebTrends Corporation.. The Privacy 
-            Statement for Visitors to Sites Tracked by WebTrends Live can be found 
-            at:</p>
-          <p><a href="http://www.webtrendslive.com/privacy_policy.htm#priv2" target="_blank">http://www.webtrendslive.com/privacy_policy.htm#priv2</a><br>
-            <br>
-          </p>
-          <p>· Information Use<br>
-            If you provide us with your E-mail address, or have done so in the 
-            past, we may send you E-mail offers, surveys, newsletters or other 
-            types of contacts. These are based on information you provided in 
-            your membership application, registration forms, in surveys, from 
-            information that may indicate purchasing preferences and lifestyle, 
-            as well as information available from external sources, such as census 
-            bureau data.</p>
-          </font></b><font face="Verdana" size="1">
-          <p><b>· We use information generally to compile statistical and user 
-            profile data, to perform research using the compiled data including 
-            disclosure of user information to research firms retained by KISW, 
-            to keep in contact with users and provide them with a better interactive 
-            experience. We may use your information specifically for the following 
-            purposes: to provide easy access every time you return to the site 
-            without requiring re-entry of registration information; to keep you 
-            informed about products and services in which you may have interest; 
-            to complete business transactions; to contact you as part of a promotion; 
-            to allow you to make a posting on the Site; to administer individual 
-            accounts; to provide customer support; to meet legal requirements; 
-            to provide Internet security; and/or to analyze the collected information 
-            and use this data for contacts by research firms. Also, in the event 
-            that company or the radio station is involved in a sale of a substantial 
-            portion of our business assets, listener/customer information may 
-            be among the transferred assets. </b></p>
-          </font><b><font face="Verdana" size="1"><p>· We work closely with our business partners and certain other third 
-            parties who may perform functions on our behalf, such as fulfilling 
-            orders, providing promotional materials to our users, sending e-mail, 
-            managing data, processing credit card payments or providing customer 
-            service. They have access to your personal information only to the 
-            extent necessary to perform their functions and may not use it for 
-            any other purpose. Further, these business partners and other third 
-            parties may from time to time wish to extend special offers to you 
-            on their own behalf. We may use your personal information to assist 
-            our business partners in offering you these products, services and 
-            information and may act as an intermediary (for instance, sending 
-            you e-mail on their behalf). </p>
-          <p> · The data you provide is used to enhance the services and offers 
-            our radio stations bring you. As a result of providing personal information, 
-            Entercom radio stations can provide a more customized online experience, 
-            making your interaction with us more productive, helpful and fun. 
-            You can also expect to receive occasional communications targeted 
-            directly toward your lifestyle interests. <br>
-            · Declining E-mail Offers - Entercom provides listeners/customers 
-            with an easy means to decline receiving E-mail offers and recognizes 
-            the importance of providing you with choices. At any time, you may 
-            request to discontinue receiving these offers from us by simply replying 
-            to the E-mail address included in every e-mail message you receive 
-            from an Entercom radio station. <br>
-            · Other Activity Tracking Some radio stations do monitor click-throughs 
-            to URL's found in our email messages. The click-through rate is reviewed 
-            in order to: track participation in contests in order to judge effectiveness 
-            and to award prizes; track listener interests; track response rates 
-            for station marketing purposes or to report to a client in aggregate 
-            form only, the response of listeners. Individual activity is never 
-            shared with employees or third parties. <br>
-            · Children Entercom does not knowingly solicit data from children, 
-            and we will not knowingly market to children. Entercom adheres to 
-            COPPA - the Children's Online Privacy Protection Act. Our websites 
-            are general audience websites which are not directed to children generally, 
-            including children under the age of 13. It is our policy to discard 
-            any information which is obtained from any child who is under the 
-            age of 13. · What else should I know about my privacy? Third party 
-            Internet sites and services accessible through Entercom radio stations 
-            have separate privacy and data collection practices, independent of 
-            us. Entercom has no responsibility or liability for these independent 
-            policies or actions. In addition, you are solely responsible for maintaining 
-            the secrecy of your passwords, membership ID, or any account information. 
-            Please be careful and responsible whenever you are online. If you 
-            post personal information online that is accessible to the public, 
-            you may receive unsolicited messages from other parties in return. 
-            While we aim to protect your personal information, Entercom cannot 
-            ensure or warrant the security of any information you transmit to 
-            us, and you do so at your own risk. <br>
-            <br>
-            We will make all reasonable efforts to adhere to the above privacy 
-            standards. However, the policy should not be construed as a contractual 
-            undertaking. Additional restrictions may be imposed to comply with 
-            state and local laws, and/or station specific programs, products and 
-            services. Entercom reserves the right to alter, amend or supplement 
-            the privacy standards at anytime.</p>
-          </font></b><font face="Verdana" size="1">
-          <p><i><b>KISW<br>
-            1100 Olive Way<br>
-            Suite 1650<br>
-            Seattle, WA 98136<br>
-          </b></i></p>
-          </font><b><font face="Verdana" size="1"> 
-          <p>Effective Date: December 1, 2001</p>
-          <p>About Cookies </p>
-          <p>Cookies were originally designed to help a Web site distinguish a 
-            user's browser as a previous visitor and thus save and remember any 
-            preferences that may have been set while the user was browsing the 
-            site. A cookie is a small string of text that a Web site can send 
-            to your browser. A cookie cannot retrieve any other data from your 
-            hard drive, pass on computer viruses, or capture your E-mail address. 
-            Currently, Web sites use cookies to enhance the user's visit; in general, 
-            cookies can securely store a user's ID and password, personalize home 
-            pages, identify which parts of a site have been visited or keep track 
-            of selections in a "shopping cart."</p>
-          </font></b><p><b><font face="Verdana" size="1">If you are just browsing an Entercom Communications radio station 
-            Web site, a cookie identifies only your browser. If you become a registered 
-            user on an Entercom Communications radio station Web site (with a 
-            designated user ID and password), we may use cookies so that we can 
-            provide personalized information that we believe will be of value 
-            to you based on preferences you have stated while visiting the site. 
-            It is possible to set your browser to inform you when a cookie is 
-            being placed -- this way, you have the opportunity to decide whether 
-            to accept the cookie. If you are just browsing one of our sites and 
-            are not a registered user, you do not have to accept a cookie and 
-            you may still continue utilizing the site, though you might not be 
-            able to experience the site to the fullest extent. <br>
-            <br>
-            You can find out to set your cookie preferences by visiting the site 
-            of the browser software you use, such as Netscape, Microsoft Internet 
-            Explorer or AOL. 
-          </font></b> </p></td>
-      </tr>
-    </tbody></table>
-    <br>
-  </center>
-</div>
-
-<p align="center"><font face="Arial" size="1">© 2002 Entercom Seattle, LLC</font></p>
-<!-- START OF WEBTRENDS LIVE TAG -->
-<!-- Copyright 1999-2000 WebTrends Corporation -->
-<!-- eCommerce Revenue Tracking (patent pending) -->
-
-<!-- Visit us at http://www.webtrendslive.com -->
-
-<script language="JavaScript">
-<!--
-// You may customize the values of the variables below to suit your website.
-// Simply insert your own values between the double-quotes.
-// Here are some examples:
-//   var ORDER= "D2,Business to Consumer,Pocket FM Radio,Audio Products,10,499.99;";
-//   var SERVER= "MyServerName";
-//   var CONTENTGROUP= "ContentGroupOfThisPage";
-
-var ORDER= "";
-var SERVER= "";
-var CONTENTGROUP= "";
-//-->
-</script>
-
-<script language="JavaScript">
-<!--
-// Modification of this code is not allowed and will permanently disable your account!
-// SiteName: Seattle, KNDD
-var W="tagver=3&SiteId=16424&Sid=002-00-7-10-140949-16424&Tz=-800&firstwkday=sunday&Edition=enterprise&Button=";
-W+="&server="+escape(SERVER);
-W+="&order="+escape(ORDER);
-W+="&Group="+escape(CONTENTGROUP);
-W+="&browserDate="+escape(new Date());
-W+="&title="+escape(document.title);
-W+="&url="+window.document.URL;
-W+="&referrer="+window.document.referrer;
-W+="&appname="+escape(navigator.appName);
-W+="&appversion="+escape(navigator.appVersion);
-W+="&cookieOK="+(navigator.cookieEnabled?"Yes":"No");
-W+="&userLanguage="+(navigator.appName=="Netscape"?navigator.language:navigator.userLanguage);
-W+="&platform="+navigator.platform;
-W+="&bgColor="+escape(document.bgColor);
-W+="&javaOK=Yes";
-if(typeof(screen)=="object")
-{
-W+="&screenResolution="+screen.width+"x"+screen.height;
-W+="&colorDepth="+screen.colorDepth;
-W+="&NSpluginList=";
-for( var i=0; i< navigator.plugins.length; i++)
-W+=escape(navigator.plugins[i].name)+";";
-}
-document.write('<A TARGET="_blank" HREF="http://www.webtrendslive.com/redirect.asp?siteID=16424">');
-document.write('<IMG BORDER="0" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/S002-00-7-10-140949-16424/button3.asp?'+W+'">');
-document.write('</A>');
-//-->
-</script><a target="_blank" href="http://www.webtrendslive.com/redirect.asp?siteID=16424"><img border="0" width="1" height="1" src="http://statse.webtrendslive.com/S002-00-7-10-140949-16424/button3.asp?tagver=3&amp;SiteId=16424&amp;Sid=002-00-7-10-140949-16424&amp;Tz=-800&amp;firstwkday=sunday&amp;Edition=enterprise&amp;Button=&amp;server=&amp;order=&amp;Group=&amp;browserDate=Wed%20Feb%2019%202020%2022%3A39%3A28%20GMT+0000%20%28Coordinated%20Universal%20Time%29&amp;title=KISW%20Privacy%20Policy&amp;url=https://web.archive.org/web/20030812125436id_/http%3A//kisw.com/staff/kisw_privacypolicy.html&amp;referrer=&amp;appname=Netscape&amp;appversion=5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20HeadlessChrome/69.0.3494.0%20Safari/537.36&amp;cookieOK=Yes&amp;userLanguage=en-US&amp;platform=Linux x86_64&amp;bgColor=%23FFFFFF&amp;javaOK=Yes&amp;screenResolution=800x600&amp;colorDepth=24&amp;NSpluginList="></a>
-
-<noscript>
-<A TARGET="_blank" HREF="http://www.webtrendslive.com/redirect.asp?siteID=16424">
-<IMG BORDER="0" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/S002-00-7-10-140949-16424/button3.asp?tagver=3&SiteId=16424&Sid=001-00-3-10-6692-7351&Tz=-800&firstwkday=sunday&Edition=enterprise&Button=&title=NO%20SCRIPT&url=http://noscript&javaOK=No&">
-</A>
-</noscript>
-<!-- END OF WEBTRENDS LIVE TAG -->
-
-
-</body></html>
+<div id="sub3" style="width:200px;height:200px;" onmouseover="overMenus=true" onmouseout="overMenus=false;hideText(3);"><layer onmouseover="overMenus=true" onmouseout="overMenus=false;hideText(3);"> 
+  <table width="220" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+      <td><table border="0" cellpadding="0" cellspacing="0">
+          <tbody><tr>
+            <td width="5" valign="top"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
+            <td align="left" valign="top" background="/images/nav_bottom_back.gif"><img src="/images/trans.gif" width="5" height="5"></td>
+            <td width="5" valign="top"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
+          </tr>
+          <tr>
+            <td width="5" background="/images/nav_left_back.gif"><img src="/images/trans.gif" width="1" height="1"></td>
+            <td align="left" valign="middle" background="/images/nav_back.gif"> 
+              <table border="0" cellspacing="0" cellpadding="2">
+                <tbody><tr> 
+                   <td align="left" valign="top" class="gNavText">
+                   <a target="_top" class="gNavText" href="/jocks.asp">Air Staff</a><br>
+                   <a target="_top" class="gNavText" href="/metalshop.asp">Metal Shop</a><br>
+                   <a target="_top" class="gNavText" href="/interviews.asp">Interviews</a><br>
+                   <a target="_top" class="gNavText" href="/goout.asp?u=http://www.rockdaily.com/rd_news/1,,kisw,00.html">Rock Report</a><br>
+                   <a target="_top" class="gNavText" href="/programschedule.asp">Program Schedule</a><br></td>
+                  <td align="left" valign="top" class="gNavText"><a target="_top" class="gNavText" href="/els/elsloginfrm.asp">Triple 9 Club</a><br><a target="_top" class="gNavText" href="/contests.asp">Contests</a><br><a target="_top" class="gNavText" href="/stationinfo.asp">Station Info</a><br><a target="_top" class="gNavText" href="/advertisers.asp">Advertisers</a><br></td>
+                </tr>
+              </tbody></table></td>
+            <td width="5" background="/images/nav_left_back.gif"><img src="/images/trans.gif" width="1" height="1"></td>
+          </tr>
+          <tr>
+            <td width="5" valign="bottom"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
+            <td align="left" valign="top" background="/images/nav_bottom_back.gif"><img src="/images/trans.gif" width="5" height="5"></td>
+            <td width="5" valign="bottom"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
+          </tr>
+        </tbody></table></td>
+    </tr>
+  </tbody></table>
+</layer></div>
+<div id="sub4" style="width:200px;height:50px;" onmouseover="overMenus=true" onmouseout="overMenus=false;hideText(4);"><layer onmouseover="overMenus=true" onmouseout="overMenus=false;hideText(4);"> 
+  <table width="220" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+      <td><table border="0" cellpadding="0" cellspacing="0">
+          <tbody><tr>
+            <td width="5" valign="top"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
+            <td align="left" valign="top" background="/images/nav_bottom_back.gif"><img src="/images/trans.gif" width="5" height="5"></td>
+            <td width="5" valign="top"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
+          </tr>
+          <tr>
+            <td width="5" background="/images/nav_left_back.gif"><img src="/images/trans.gif" width="1" height="1"></td>
+            <td align="left" valign="middle" background="/images/nav_back.gif"> 
+              <table border="0" cellspacing="0" cellpadding="2">
+                <tbody><tr> 
+                  <td align="left" valign="top" class="gNavText"><a target="_top" class="gNavText" href="/rockgirls.asp">Meet the Rock Girls</a><br><a target="_top" class="gNavText" href="/photowall.asp">More Rock Girls Photos</a><br></td>
+                </tr>
+              </tbody></table></td>
+            <td width="5" background="/images/nav_left_back.gif"><img src="/images/trans.gif" width="1" height="1"></td>
+          </tr>
+          <tr>
+            <td width="5" valign="bottom"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
+            <td align="left" valign="top" background="/images/nav_bottom_back.gif"><img src="/images/trans.gif" width="5" height="5"></td>
+            <td width="5" valign="bottom"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
+          </tr>
+        </tbody></table></td>
+    </tr>
+  </tbody></table>
+</layer></div>
+<div id="sub5" style="width:200px;height:50px;" onmouseover="overMenus=true" onmouseout="overMenus=false;hideText(5);"><layer onmouseover="overMenus=true" onmouseout="overMenus=false;hideText(5);"> 
+  <table width="220" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+      <td><table border="0" cellpadding="0" cellspacing="0">
+          <tbody><tr>
+            <td width="5" valign="top"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
+            <td align="left" valign="top" background="/images/nav_bottom_back.gif"><img src="/images/trans.gif" width="5" height="5"></td>
+            <td width="5" valign="top"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
+          </tr>
+          <tr>
+            <td width="5" background="/images/nav_left_back.gif"><img src="/images/trans.gif" width="1" height="1"></td>
+            <td align="left" valign="middle" background="/images/nav_back.gif"> 
+              <table border="0" cellspacing="0" cellpadding="2">
+                <tbody><tr> 
+                  <td align="left" valign="top" class="gNavText"><a target="_top" class="gNavText" href="/kiswonthestreets.asp">KISW On the Streets</a><br><a target="_top" class="gNavText" href="/concertcalendar.asp">Concert Calendar</a><br><a target="_top" class="gNavText" href="/community/communitycalendar.asp">Clubs</a><br><a target="_top" class="gNavText" href="/goout.asp?u=/forum/default.asp">Ticket Exchange</a><br><a target="_top" class="gNavText" href="/photowall.asp">KISW Photos</a><br></td>
+                </tr>
+              </tbody></table></td>
+            <td width="5" background="/images/nav_left_back.gif"><img src="/images/trans.gif" width="1" height="1"></td>
+          </tr>
+          <tr>
+            <td width="5" valign="bottom"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
+            <td align="left" valign="top" background="/images/nav_bottom_back.gif"><img src="/images/trans.gif" width="5" height="5"></td>
+            <td width="5" valign="bottom"><img src="/images/nav_left_bottom.gif" width="5" height="5"></td>
+          </tr>
+        </tbody></table></td>
+    </tr>
+  </tbody></table>
+</layer></div></body></html>
