@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ulead.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602052513id_/http%3A//www.ulead.com/aboutulead/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ulead.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217004916id_/http%3A//www.ulead.com/aboutulead/privacy.htm) for the most accurate reproduction.*
 
 # Ulead Systems - Privacy Statement
 
@@ -13,7 +13,7 @@ Ulead Member and Product Registration
 To become a Ulead member or register a product, a user must first successfully complete a registration form. During registration, a user is required to provide information (such as name, e-mail address and product serial number). This information is used to provide the user about the services on our site for which he/she has expressed interest. It is optional for the user to give demographic information (such as gender, address or occupation), but encouraged, so that we can provide a more tailored experience on our site. To confirm registrations, we send all new members and product registrants a welcoming e-mail.
 
 Online Purchases  
-We use an outside company, Digital River, to ship orders and process credit cards. This company does not retain, share, store or use personally identifiable information for any secondary purposes.
+We use an outside company, Buyonet, to ship orders and process credit cards. This company does not retain, share, store or use personally identifiable information for any secondary purposes.
 
 On our order form, a user is asked to provide contact information (e.g. name and address) and payment information (e.g. credit card number, expiration date). This information is used for billing purposes, to fill customer's orders and may be used for future promotional offers. If we have trouble processing an order, this contact information will be used to get in touch with the user. 
 
@@ -28,7 +28,7 @@ We use IP addresses to analyze trends, administer the site, track user's movemen
 Sharing  
 We will ONLY share aggregated demographic information with our partners and advertisers. This is NOT linked to any personal information that can identify any individual person.
 
-As mentioned above, online orders are processed by an outside company called Digital River. This company does not retain, share, store or use personally identifiable information for any secondary purposes.
+As mentioned above, online orders are processed by an outside company called Buyonet. This company does not retain, share, store or use personally identifiable information for any secondary purposes.
 
 Also, we sometimes partner with another party to provide specific services. When the user signs up for these specific services, we will share ONLY information that is necessary for the third party to provide these specific services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services.
 
@@ -44,7 +44,7 @@ From time-to-time our site will request information from users via surveys or co
 Security  
 This Web site takes every precaution to protect our users' information. When users submit sensitive information via the Web site, your information is protected both online and off-line.
 
-When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is protected with the best encryption software in the industry: SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to unlocked, or open, when you are just 'surfing'. To learn more about SSL, follow this link [http://www.verisign.com/site/ssl.html ](http://www.verisign.com/site/ssl.html%20.)
+When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is protected with the best encryption software in the industry: SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to unlocked, or open, when you are just 'surfing'. To learn more about SSL, follow this link [http://www.verisign.com/site/ssl.html ](http://www.verisign.com/site/ssl.html)
 
 At Ulead, we also do everything in our power to protect user information off-line. All of our users' information remains confidential in our offices. Only a selected number of employees who need the information to perform a specific job (e.g. a customer service representative) are granted access to personally identifiable information. These employees must also use password-protected screen-savers when they leave their desk. Furthermore, ALL employees are kept up to date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy and what they can do to ensure our customers' information is protected. Finally, the servers on which we store personally identifiable information are kept in a secure environment, behind locked doors.
 
