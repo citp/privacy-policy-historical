@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brothersoft.com privacy policy that was archived on 2003-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030627165817id_/http%3A//www.brothersoft.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brothersoft.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008171905id_/http%3A//brothersoft.com/privacy.asp) for the most accurate reproduction.*
 
 # BrotherSoft Downloads - Privacy policy
 
