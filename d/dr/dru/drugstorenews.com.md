@@ -1,17 +1,12 @@
-> *The following text is extracted and transformed from the drugstorenews.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409050035id_/http%3A//www.drugstorenews.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugstorenews.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610043646id_/http%3A//www.drugstorenews.com/about/privacy.htm) for the most accurate reproduction.*
 
-# Drug Store News - About Us
+# [ DrugStoreNews ] Privacy Policy
 
-  
-   
-**Lebhar-Friedman, Inc. Privacy Policy**  
-   
-This site is produced by Lebhar-Friedman, Inc. This policy applies to all sites produced by Lebhar-Friedman, Inc. This policy does not cover information collected on sites linked to/from Lebhar-Friedman, Inc. sites.
+**Lebhar-Friedman, Inc. Privacy Policy**
+
+  This site is produced by Lebhar-Friedman, Inc. This policy applies to all sites produced by Lebhar-Friedman, Inc. This policy does not cover information collected on sites linked to/from Lebhar-Friedman, Inc. sites.
 
 Lebhar-Friedman, Inc. sites are committed to bringing you information tailored to your individual needs and, at the same time, to protecting your privacy. The following is a summary of the various ways we treat the information you provide us while accessing our sites:
-
-  
-
 
 1\. _What information does **Drug Store News** gather/track about you?_
 
@@ -29,7 +24,7 @@ Using the e-mail addresses provided at registration, **Drug Store News** periodi
 
 3\. _With whom does **Drug Store News** share the information it gathers/tracks?_
 
-**Drug Store News** does not sell any of our users' personal information. We may, however, share information with carefully selected companies who we think can offer services and products of interest to you. If you do not wish to have your information shared with these companies, write to us at [webmaster@lf.com](mailto:unsubscribe@condenet.com). 
+**Drug Store News** does not sell any of our users' personal information. We may, however, share information with carefully selected companies who we think can offer services and products of interest to you. If you do not wish to have your information shared with these companies, write to us at [webmaster@lf.com](mailto:webmaster@lf.com). 
 
 Although we will not sell your information, we cannot ensure, however, that your personal information will not be disclosed to third parities.  By way of example, without limiting the foregoing, we may be forced to disclose information to the government under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications, or might disclose your information to other sites as part of offering additional functionality to you.  Additionally, we can (and you authorize us to) disclose your personal information to private entities, law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate.  Therefore, we do not promise that your personal information will remain private.
 
@@ -45,9 +40,7 @@ Our cookies do not contain any information that is, in itself, personally identi
 
 Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers.
 
-If you don't want cookies, your Web browser likely includes an option that allows you not to accept them. We don't recommend using this option, though; it makes browsing our site a less enjoyable experience.
-
-  For instance, when you turn off your cookie option, you may have to enter information every time you visit the site, or a page may no longer be customized to your specifications.
+If you don't want cookies, your Web browser likely includes an option that allows you not to accept them. We don't recommend using this option, though; it makes browsing our site a less enjoyable experience.  For instance, when you turn off your cookie option, you may have to enter information every time you visit the site, or a page may no longer be customized to your specifications.
 
 6\. _Will I receive unsolicited e-mail if I accept your cookies?_
 
@@ -63,6 +56,6 @@ If your children disclose information about themselves in our public discussion 
 
 This Privacy Policy may be modified from time to time; notice of changes will appear on this page, so check back often. Any such changes will be prospective, never retroactive.
 
-  If you have concerns or questions about any aspect of this policy, please e-mail our Privacy Policy Coordinator at [webmaster@lf.com](mailto:privacy@condenet.com). We welcome your feedback. 
+  If you have concerns or questions about any aspect of this policy, please e-mail our Privacy Policy Coordinator at [webmaster@lf.com](mailto:webmaster@lf.com). We welcome your feedback. 
 
 _Revised July 17, 2000 ****_
