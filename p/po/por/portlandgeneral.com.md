@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portlandgeneral.com privacy policy that was archived on 2004-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041224012823id_/http%3A//www.portlandgeneral.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portlandgeneral.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205122126id_/http%3A//www.portlandgeneral.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # PGE - Privacy Policy
 
@@ -62,8 +62,6 @@ In addition, PGE uses pixels, or transparent GIF files, on selected pages on our
 Back to top
 
 **Release of information**  
-On occasion, we may provide aggregate statistics about our customers, sales, traffic patterns and related site information to our Affinity Partners. This statistical information will not reveal any personally identifiable information. 
-
 PGE has agreements with other local utility companies to share customer information for credit purposes only. We have established security procedures to ensure that information is being shared only with authorized utility representatives. 
 
 Occasionally, we may hire third parties to act on our behalf for activities such as market research surveys, billing, technical support or contest entry processing. These parties will not be permitted to use personally identifiable information except for the purpose of providing their specific services, and they are not permitted to disclose, transfer or sell personally identifiable information.
