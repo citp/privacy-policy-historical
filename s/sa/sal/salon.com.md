@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salon.com privacy policy that was archived on 2000-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001212041600id_/http%3A//www.salon.com/about/policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salon.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603114903id_/http%3A//www.salon.com/about/policy/index.html) for the most accurate reproduction.*
 
 # Salon.com
 
@@ -18,17 +18,11 @@ A cookie is a small amount of data that is sent to your browser from a Web serve
 
 Other companies which place advertising on our site also have the ability to assign their cookies to you in a process that Salon.com does not control. However, cookies cannot be used to identify individuals, only machines, so these advertisers will not know who you are. 
 
-**Salon Membership**
+**Salon Premium**
 
-Salon.com collects personal information from visitors who register with our Salon Membership program, including first and last names, e-mail address, street address and phone numbers. Salon members who have indicated their willingness to accept occasional e-mail from us may receive such e-mail with news about Salon, special offers and benefits for participants in this membership program.
+In order to subscribe, subscribers to our Salon Premium service provide Salon with personal information including name, address, e-mail address and credit card information. Salon keeps all such information strictly confidential and does not reuse, resell or redistribute it in any way. 
 
-Salon.com is an advertising and e-commerce supported business. The availability of Salon.com depends primarily on its perceived value among advertisers and their willingness to pay for opportunities to reach users of this product. It is this support that allows Salon.com to be distributed free to you.
-
-As such, Salon.com does allow select advertisers to mail promotions to those registrants and newsletter recipients who have given us their permission to do so. All promotions are pre-approved by Salon.com and all mailings are conducted by a reputable third-party mail house to ensure that the names are not misused or used more than once. Neither we nor our third-party agent will ever make this personally identifiable information available to advertisers or partners. You are given the option when registering to receive or not receive promotions from our partners. You may change this designation at any time by logging in to our [registration page](http://bf.salon.com/salon/salon_pref.epl).
-
-**E-mail newsletters**
-
-Salon.com sends a variety of e-mail newsletters to registrants in the Salon.com Membership program who have requested them. The URLs (Web links) in these newsletters contain unique codes that allow Salon.com to gauge the effectiveness of the newsletters and determine how they are being used. This information is valuable to us in the aggregate, but Salon.com makes no use of it to track any individual user's clicks. 
+At the time of registering for their subscription, Salon Premium subscribers are asked whether they wish to receive e-mail from Salon, such as notification of new Premium benefits. Salon does not reuse or resell the list of users who have "opted in" to such mailings. 
 
 **Letters to the editor**
 
@@ -61,8 +55,6 @@ Protecting the privacy of the very young is important to us. For that reason, we
 Salon.com will not otherwise use or disclose your personal information without your consent except (i) as described in this privacy policy, or (ii) as required by law, court order or as requested by other government or law enforcement authority. This policy does not protect information you post to any on-line bulletin board, chat room, newsgroup or other public forum within our Web sites.
 
 **Unsubscribe and data removal policies**
-
-If you would like to unsubscribe from a Salon.com newsletter, please log in to the Membership [Registration](http://bf.salon.com/salon/salon_pref.epl) page and follow the instructions there. Most Salon.com pages have a link to this Registration page in the upper left hand corner. 
 
 If you would like to remove your name and e-mail address from our Table Talk registration database, you can send an e-mail requesting removal to tabletalk@salon.com.
 
