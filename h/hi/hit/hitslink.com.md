@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitslink.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401184542id_/http%3A//www.netapplications.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitslink.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203021441id_/http%3A//www.netapplications.com/privacy.asp) for the most accurate reproduction.*
 
 # website statistics, hit counter, search engine submission, banner exchange
 
