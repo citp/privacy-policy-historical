@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utmb.edu privacy policy that was archived on 2001-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011019001833id_/http%3A//www2.utmb.edu/resources/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utmb.edu privacy policy that was archived on 2002-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020204200305id_/http%3A//www.utmb.edu/privacy_policy.htm) for the most accurate reproduction.*
 
 # The University of Texas Medical Branch
 
@@ -27,4 +27,4 @@ This policy is effective August 14, 2000. UTMB reserves the right to modify this
 
 _
 
-_Employees of UTMB should refer to_[http://www2.utmb.edu/is/security_frame.htm](https://web.archive.org/web/20011024165930id_/http://is/security_frame.htm), _which outlines the university’s internal policies and employees’ specific responsibilities related to the use and protection of information resources. _
+_Employees of UTMB should refer to_[http://www2.utmb.edu/is/security_frame.htm](https://web.archive.org/web/20020204200305id_/http%3A//is/security_frame.htm), _which outlines the university’s internal policies and employees’ specific responsibilities related to the use and protection of information resources. _
