@@ -1,55 +1,136 @@
-> *The following text is extracted and transformed from the group-mail.com privacy policy that was archived on 2000-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001110003100id_/http%3A//www.aureate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the group-mail.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208142108id_/http%3A//group-mail.com/privacy.asp) for the most accurate reproduction.*
 
-# Aureate Media Corporation Privacy Policy
+# infacta.com - privacy and security policy
 
   
-[](http://www.aureate.com/company/contact_info.html)  
-[](http://www.aureate.com/company/press_coverage.html)  
-[](http://www.aureate.com/company/career_opps.html)  
-[](http://www.aureate.com/privacy)  
-|   |    
-[](https://www.truste.org/validate/3652) **TRUSTe Licensee** Aureate Media Corporation is a licensee of the TRUSTe Privacy Program. This statement discloses the privacy practices for the entire Aureate Network. When you visit a Web site displaying the TRUSTe trustmark, you can expect to be notified of: What personally identifiable information of yours is collected; What organization is collecting the information; How the information is used; With whom the information may be shared; What choices are available to you regarding collection, use and distribution of the information; What kind of security procedures are in place to protect the loss, misuse or alteration of information under the company's control; and How you can correct any inaccuracies in the information. 
+**Privacy Policy**  
 
-Questions regarding this statement should be directed to the Aureate Media privacy department at [privacy@aureate.com](mailto:privacy@aureate.com). If the Web site has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact TRUSTe (<http://www.truste.org/users/users_watchdog.html>). 
 
-To return to the Web site, please use the "Back" button on your browser. 
+All of us at infacta take your privacy and security very seriously. This privacy statement discloses our information practices and declares our data collection methods, usage and confidentiality policies throughout our site.
 
-**What Aureate Media Does**
+Different areas of this site may incorporate their own set of policies depending on the respective services offered and the data collection requirements.  A separate policy is described for each area.
 
-Aureate Media (Aureate) delivers content to computer software applications that use Aureate Media's technology. In the process of delivering this content, as well as performing online transactions, Aureate will sometimes query you for demographic data (gender, age, zip code, etc.). We will not collect any personally identifiable information about you (name, address, telephone number, email address) unless you provide it to us voluntarily. All of this information is aggregated for the purposes of reporting to advertisers and ad sales organizations the performance of their advertising campaigns. Because Aureate derives its revenue mainly from advertising, providing such aggregated demographic data is essential to keeping our service free to users. If you do not want your personal information collected, please do not submit it. If you do submit your email or postal addresses online, you may receive periodic mailings from us, or our partners, with information on new services or products. If you have already submitted this information and would like for us to remove it from our files, please contact us at the email address privacy@aureate.com. We will use reasonable efforts to delete your information from our existing files. 
+This site is fully compliant with the [W3C Platform for Privacy Preferences Initiative](http://www.w3.org/P3P/).
 
-Aureate Media also processes software registrations. Because we need to properly charge you credit card, we must ask your name, company name, address, email address, and phone number. From this section, you have the ability to choose not to receive promotional mailings. This information is collected on a secure site using secure socket layer encryption, and has been verified by VeriSign. 
+**The Infacta Website - General Policy ******
 
-Aureate Media also takes information from software companies and individuals that use Aureate Media's advertising technology in their application. This information is used to keep track of money owed, and issue checks, to the developers. From this section, you have the ability to choose not to receive mailings that are not related to your software. The information we ask is name, email address, phone and fax number, address, tax ID or social security number, and web site. This information can be updated directly from our web site by logging in to our developer login section. 
+**1\. Policy Scope  
+**  
+This policy applies to all areas of the infacta website with the exception of the customer resources area which is governed by a separate privacy policy.  It is the responsibility of linked websites to provide their own privacy policies and we are not responsible for the privacy practices or content of any such websites.
 
-The information that you provide will be used extensively within the Aureate Network to provide a personalized experience to you. It may also be shared with Aureate's partners that provide the software applications on our network and other third parties related or unrelated to offerings on the Aureate Network. 
+**2\. The infacta Announcement Group.**  
 
-**Use of Unique Identifiers**
+While browsing our site you may see several opportunities to subscribe to our product announcement group, to join this we require you to provide your e-mail address. We use this address to notify you of new software releases, updates and special offers. For your convenience, each announcement contains instructions on how to be removed from all future mailings. We do not make your e-mail address available to any third parties. Please note that customers are automatically added to this list/group.
 
-Upon installation of a software application integrated with our advertising technology, Aureate sets a numerical identifier on your computer. This allows us to measure and report aggregate information to advertisers such as the number of people who see their ad (reach) and the number of times people see their ad (frequency). It also allows us to deliver ads that are more relevant to you and avoid delivering the same ads too many times. 
+**3\. During Software Purchase.**  
 
-On the Aureate web site, Aureate may use cookie technology to monitor user activity. Users can control this data collection and targeting method by setting cookie control options in their browser (Netscape, Microsoft, etc.) or by managing the contents of the cookies.txt file directly or by using 3rd party cookie management tools. Other than the developer login section described below, disabling cookies does not hinder access or functionality of the site. 
+It is important to note that infacta does not process orders directly. We use reputable  ecommerce companies to do this on our behalf using the very latest in secure transmission technologies. It is very important for these companies to keep accurate purchase records. Immediately after you purchase one of our products our ecommerce partner will notify us and will pass your contact information (e.g. name, company name, postal address, email address, telephone and fax number) together with some limited purchase order information (e.g. purchase date, order reference number, product code, product name, quantity, price and any delivery options).  This data is used to enable us to email you with necessary product unlock codes, to identify you in order to give you the full benefits of your purchase including free technical support and upgrade eligibility and to enable us to set up a user account providing you with access to our customer resources area.  For security purposes the ip address of this transaction may be recorded.  Please note that we do not receive a copy of your actual payment details (such as credit card numbers or wire transfer details). We do not make any of this information available to any third parties. To learn more about our ecommerce vendors and their privacy & security policies, go to their respective web sites: 
 
-Aureate Media also uses cookies on the developer login section of the site to remember the developer's password while browsing. Due to this security measure, we are not able to allow access to this part of our site if the user has disabled cookies in his or her browser. 
+Emetrix: [ http://www.emetrix.com/company/privacy.asp](http://www.emetrix.com/company/privacy.asp)
 
-Aureate also may use information such as browser type, operating system, and ISP, to both target advertisements as well as compile site demographics. 
+RegSoft: [ http://www.regsoft.com/privacy statement.shtml](http://www.regsoft.com/privacy%20statement.shtml)
 
-**Security**
+**4\. Technical Support.**
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. All information is for our accounting and registration purposes only. Only authorized employees of Aureate Media will have access to this information. 
+Some of our products contain technical support wizards which help us to provide a higher level of support. When you use this software you have full control over what is sent back to our support staff. You can also have an exact copy of the data being returned to us sent to you also. This information (settings, hardware spec, and log files) is only used for the purpose of support and our copy is destroyed once your issue is dealt with. 
 
-**Correcting and Updating**
+Please note that when you contact infacta support any details you provide us are used only to help solve any issues you have and are destroyed once your issue is dealt with. 
 
-Software developers who have registered with Aureate Media are able to update and correct their personally identifiable data from our web site. This can be done by logging in to the developer login section of the site and clicking on the check box at the bottom of the contact Info page. 
+We do not make any of this information available to any third parties.  
 
-Because Aureate does not ask personally identifiable data from software users, it is not currently possible for a user of a software application integrated with Aureate's advertising technology to update or correct their anonymous information from the database. 
 
-**Deleting and Deactivating**
+**5\. Cookies.**  
 
-Software developers who have registered with Aureate Media are able to deactivate themselves from mailings not pertinent to the software they have on our network. This can be done by logging in to the developer login section of the site and clicking on the check box at the bottom of the contact Info page. 
+The area of the site governed by this policy does not use "cookies" (which are small pieces of information that your browser stores on your computer's hard drive), with the exception of anonymous _session cookies.   _A session cookie only ever contains a unique identifier for managing session state and therefore does not contain any personally identifiable information.  Session cookies are automatically deleted when the web browser is closed. 
 
-Because Aureate does not ask personally identifiable data from software users, it is not currently possible for a user of a software application integrated with Aureate's advertising technology to delete or deactivate their anonymous information from the database. 
+**The Customer Resources Area**
 
-**Third Party Privacy**
+**1\. Policy Scope** This policy applies to the _customer resources area_ including the log-in and log-out pages. 
 
-Please be aware that Aureate advertisers or Web sites that have links in software on our network may collect personally identifiable information about you. This privacy statement does not cover the information practices of those Web sites linked from software on the Aureate Network. From time to time, Aureate works with third-party ad servers such as [Flycast](http://www.flycast.com/about_us/about-privacy.html), [24/7 Media](http://www.247media.com/privacy.htm), [DoubleClick](http://www.doubleclick.net/company_info/about_doubleclick/privacy/), [AdForce](http://www.adforce.com/home/comp3_priv.html), [AdSmart](http://www.adsmart.net/html/about/privacy_statement.html), [TeknoSurf](http://www.teknosurf.com/corporate/privacy.html), and others to serve advertising to the Aureate Network. Please visit these providers individually to learn more about how they handle privacy. 
+**2\. Authentication  & Security**
+
+Access to the customer resources area by default is over secure SSL (https).  This means that all of the information transmitted and received by your browser while visiting this area is securely encrypted and that it is highly unlikely that anyone will be able to eavesdrop on any of your personal data.
+
+To protect the privacy of your information all users must be authenticated using a username and password system before gaining admittance to this area. 
+
+Users are strongly advised not to share their log-on details with others, otherwise this may result in their access to this area being terminated if we determine that there has been a breach of a user's privacy or security.  This policy is to the benefit of all legitimate users. The customer resources area is constantly monitored for any prohibited activity.
+
+**3\. Collection & Use of Information**
+
+The customer resources area presents a highly individualised facility for managing downloads and updates.  In order to provide this facility we have to record basic (non-financial) information about each user's choice of purchase as well as recording their usage of the facility, for example to customise the downloads remaining for each user.
+
+To protect the customer resources area from misuse we actively monitor all logins into the system in addition to recording standard web logs.  We collect login dates and times as well as recording IP addresses on an individual basis.  In addition, we record details on all downloads that are taken, also on an individual basis.  This allows us to perform individual analysis of patterns of activity for the purposes of detecting prohibited access and misuse of the resources in the system. 
+
+Support facilities are provided to assist users who may have problems logging in.  This may involve the user emailing to us their contact and original order information in order to provide proof of purchase.  While this information is usually discarded once the request has been fulfilled, it may be retained indefinitely in special circumstances where it might prove useful to compile a past history of such requests, for example if we suspect that a user is attempting to gain access fraudulently.
+
+To expedite the handling of priority support emails we may record computer and browser information.  This allows us to quickly deal with common problems arising from incompatible system settings, for example if we detect that a user's browser does not support cookies.
+
+Customers may provide suggestions via the customer feedback facility and this information may be retained indefinitely in order to serve as a valuable repository of ideas for future products and services.
+
+Customers may view and edit their personal contact information and preferences.  We may use this information to market new releases and upgrades, and for general customer announcements.  The customer may opt-out of our marketing mailing list by modifying their contact preferences.
+
+The customer resources area may use a number of cookies - small pieces of information that your browser stores on your computer's hard drive.  We use an anonymous temporary cookie to detect if your browser currently accepts cookies.  We also use a permanent personalisation cookie to store your greeting name when you revisit the site.  An optional third permanent cookie is used to implement the "Remember this Account" function and this cookie contains your email address.  A fourth temporary authentication cookie is used by our system in order to identify authenticated users of the system.  This is in addition to a standard session cookie as described in the general section above. 
+
+_Please note that we do not receive or ever store any financial information such as credit card details and that none of the information we collect is ever shared with any third parties outside of our immediate ecommerce providers._
+
+**4.   Who may use the Information**
+
+Only authenticated customers may enter the customer resources area.
+
+Our ecommerce providers may receive details of any purchases initiated at this site which may include your contact information together with any selected products, quantities and any applicable options.
+
+Our administration staff may monitor site usage and use collected information to administer and maintain the privacy and security of the website.
+
+Our support staff may use collected information to perform requested support tasks and any additionally supplied information will only be used for completion of the activity for which the data was provided.
+
+None of the information we collect is ever shared with any third parties outside of our immediate ecommerce providers.
+
+**5\. Accessing and Correcting your Information**
+
+Users may use the customer resources area to view and update their immediate contact details and preferences and may view their recent login sessions and downloads taken.    
+
+Subject to proof of identity, customers may on request obtain a full report containing all of the personally identifiable information we have recorded about them.
+
+Customers may contact [customer support](mailto:support@infacta.com) directly to request corrections to be made to any recorded information if they consider it to be incorrect.
+
+If a customer has had their account put on hold, they may contact [customer support](mailto:support@infacta.com) to attempt to have their account reinstated.
+
+**1\. Policy Scope** This policy applies to the promotions area of the website. 
+
+**2\. Authentication  & Security**
+
+Access to the promotions area by default is over secure SSL (https).  This means that all of the information transmitted and received by your browser while visiting this area is securely encrypted and that it is highly unlikely that anyone will be able to eavesdrop on any of your personal data.
+
+The promotions area is constantly monitored and promotional accounts may be terminated if we determine that there has been any misuse of the promotion.
+
+**3\. Collection & Use of Information**
+
+The promotions area provides a facility for users to register for special promotional offers.  Typically, the registration process will involve the collection and recording of contact information and promotional codes.  This information is used to enable us to email you with necessary product unlock codes, to identify you in order to give you the full benefits of your promotional offer including free technical support and upgrade eligibility and to enable us to set up a user account providing you with access to our customer resources area.  For security purposes the ip address of this transaction may be recorded.
+
+To protect promotions from misuse we actively monitor all access of the facility in addition to recording standard web logs.  As well as the usual contact information and promotion codes we collect registration dates and times as well as recording IP addresses on an individual basis.  This allows us to perform individual analysis of patterns of activity for the purposes of detecting prohibited access and misuse of the resources in the system. 
+
+_Please note that none of the information we collect in this area is ever shared with any third parties outside of our immediate ecommerce providers._
+
+**4.   Who may use the Information**
+
+Our ecommerce providers may receive details of any subsequent purchases initiated at this site which may include your contact information together with any selected products, quantities and any applicable options.
+
+Our administration staff may monitor site usage and use collected information to administer and maintain the privacy and security of the website.
+
+Our support staff may use collected information to perform requested support tasks and any additionally supplied information will only be used for completion of the activity for which the data was provided.
+
+None of the information we collect is ever shared with any third parties outside of our immediate ecommerce providers.
+
+**5\. Accessing and Correcting your Information**
+
+Customers who have registered for a promotion may use the customer resources area to view and update their immediate contact details and preferences and may view their recent login sessions and downloads taken.    
+
+Subject to proof of identity, customers may on request obtain a full report containing all of the personally identifiable information we have recorded about them.
+
+Customers may contact [customer support](mailto:support@infacta.com) directly to request corrections to be made to any recorded information if they consider it to be incorrect.
+
+If a customer has had their account put on hold, they may contact [customer support](mailto:support@infacta.com) to attempt to have their account reinstated.
+
+****  **Policy Queries**
+
+If you have any questions regarding our privacy policy please [contact us](mailto:privacy@infacta.com)
