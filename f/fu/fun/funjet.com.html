@@ -1,239 +1,655 @@
-<!--The following is the downloaded HTML source of the funjet.com privacy policy that was archived on 2002-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021208164053id_/http%3A//www.funjet.com/PrivacyPolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the funjet.com privacy policy that was archived on 2005-04-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050404191158id_/http%3A//www.funjet.com/bill/privacy.asp%3FOAC%3D) for the most accurate reproduction.-->
 
-<html><head>
-	<title>Funjet Vacations Customer Service</title>
-	<script language="JavaScript">
-<!--  to hide script contents from old browsers                   
-function VerifyData() 
-{           
-var valid = 1
+<html><head><script language="javascript">
+<!--
 
-return valid
+// apppends a query string to the href of a link
+//function appendQS_toLinks()
+function BodyLoadHandler()
+{
+	var OAC;
+	
+	OAC = "";
+//	pl = "";
+	
+// This function adds the PseudoARC to all FORMs and LINKs on the page.
+	var i, workString
+		
+	al = "Now the forms on this page:";
+	for (i = 0; i < document.forms.length; i++) {
+		al += "\n" + document.forms[i].name + " ==> " + document.forms[i].action;
+	}
+
+	for (i = 0; i < document.links.length; i++) {
+		workString = document.links[i].href;
+		if ((workString.toLowerCase().indexOf("javascript:") == -1)&&(workString.indexOf("#") == -1)&&(workString.indexOf("mailto:") == -1)&&(workString.indexOf("hotdeals.asp?OAC=") == -1)&&(workString.indexOf("hotdeals_") == -1)&&(workString.indexOf("AirOnlyHotDeals.asp?OAC=") == -1)&&(workString.indexOf("www.vaxvacationaccess.com") == -1)&&(workString.indexOf("www.neugebauertravel.com") == -1) ) {
+
+	
+			if (workString.indexOf("adserver") != -1) {
+				firstQuest=workString.indexOf("?") + 1;								
+				if (workString.indexOf("?", firstQuest) != -1) {
+					document.links[i].href = document.links[i].href + "&OAC=" + OAC.substring(0, 3);// + "&pl=" + pl;						
+				} else {
+					document.links[i].href = document.links[i].href + "?OAC=" + OAC.substring(0, 3);// + "&pl=" + pl;
+				}					
+			} else {
+				if (workString.indexOf("?") != -1) {
+					document.links[i].href = document.links[i].href + "&OAC=" + OAC.substring(0, 3);// + "&pl=" + pl;						
+				} else {
+					document.links[i].href = document.links[i].href + "?OAC=" + OAC.substring(0, 3);// + "&pl=" + pl;
+				}
+			}
+
+		}
+
+	}
+	al = "Now Links on this page:";
+	for (i = 0; i < document.links.length; i++) {
+		al += "\n" + document.links[i].href;
+	}
 }
-// end hiding contents from old browsers  -->
+window.onload = BodyLoadHandler;
 
-//start of function uses to check the valid email address
+//-->
+</script>	 
 
-var emailAddress;
-function validateAndSubmit(theform) {
-	emailAddress = theform.email.value;
-	if (navigator.appVersion.indexOf("MSIE 3.") == -1)
-	{
-		if(navigator.appVersion.indexOf("2.") == -1)
-		{	
-			if(emailAddress.indexOf("@") != -1)
-			{
-				if(emailAddress.indexOf(".") != -1)
-				{
-					return true;
-				}
-				else
-				{
-					alert("The email address you have supplied is invalid.");
-					return false;
-				}
-			}
-			else
-			{
-				alert("The email address you have supplied is invalid.");
-				return false;
-			}
+
+
+<!------ OAS SETUP begin ------>
+<script language="JavaScript">
+<!--
+//configuration
+OAS_url = 'http://adserver.triseptsolutions.com/RealMedia/ads/';
+//OAS_url = 'http://10.10.6.96/RealMedia/ads/';
+//OAS_sitepage = window.location.hostname + window.location.pathname;
+
+		OAS_sitepage = 'www.funjet.com';
+	
+OAS_listpos = '';
+
+	OAS_query = '_RM_HTML_url_=www.funjet.com&_RM_HTML_vendor_=IFJ';
+
+OAS_target = '_top';
+//end of configuration
+OAS_version = 10;
+OAS_rn = '001234567890'; OAS_rns = '1234567890';
+OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
+function OAS_NORMAL(pos) {
+  document.write('<A HREF="' + OAS_url + 'click_nx.cgi/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>');
+  document.write('<IMG SRC="' + OAS_url + 'adstream_nx.cgi/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" BORDER=0></A>');	
+}
+//-->
+</script>
+<script language="JavaScript1.1">
+<!--
+
+
+
+OAS_version = 11;
+if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1)
+  OAS_version = 10;
+if (OAS_version >= 11)
+  document.write('<' + 'SCRIPT LANGUAGE="JavaScript1.1" SRC="' + OAS_url + 'adstream_mjx.cgi/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');
+
+
+
+//-->
+</script><script language="JavaScript1.1" src="http://adserver.triseptsolutions.com/RealMedia/ads/adstream_mjx.cgi/www.funjet.com/1518129841@?_RM_HTML_url_=www.funjet.com&amp;_RM_HTML_vendor_=IFJ"></script>
+<script language="JavaScript">
+<!--
+document.write('');
+function OAS_AD(pos) {  
+  if (OAS_version >= 11)
+    OAS_RICH(pos);
+  else
+    OAS_NORMAL(pos);
+}
+//-->
+</script>
+
+
+</head><body bgcolor="#FFFFFF" marginwidth="0" marginheight="0" leftmargin="0" topmargin="0" onload="MM_timelinePlay('Timeline1');BodyLoadHandler();"><form method="post" action="http://www.funjet.com/hotels/HotelProfilesPage.asp" name="HPForm">
+	<input type="hidden" name="parent" value="" id="Hidden1">
+	<input type="hidden" name="site" value="IFJ" id="Hidden2">
+	<input type="hidden" name="destination" value="" id="Hidden3">
+	<input type="hidden" name="sbu" value="FJV" id="Hidden4">
+	<input type="hidden" name="tourop" value="TM" id="Hidden5">
+	<input type="hidden" name="vendor" value="IFJ" id="Hidden6">
+</form>
+<script language="javascript">
+
+
+
+function getSpecificHotel(){	
+	document.HPForm.submit();
+}
+
+function ToggleAmenityAttributes( groupID, childCode ) {
+	
+	var nItemID;
+	var itemID = "" + groupID + childCode;
+	var x;
+	var lObj;
+	for (x=0; x < csChildCodes.length; x++) {
+		if (csChildCodes[x] == childCode) {
+			lObj = document.getElementById(itemID);
+			lObj.style.display = "block";
+		} else {
+			nItemID = "" + groupID + csChildCodes[x];
+			lObj = document.getElementById(nItemID);
+			lObj.style.display = "none";
 		}
 	}
 }
-//end of function uses to check the valid email address
+
+function ToggleBigPicture( groupID, picturename ) {
+	var nItemID;
+	var itemID = "" + groupID + picturename;
+	var x;
+	var lObj;
+	
+	for (x=0; x < csPictureNames.length; x++) {
+		if (csPictureNames[x] == picturename) {
+			lObj = document.getElementById(itemID).style.display = "table-header-group";						
+		} else {			
+			nItemID = "" + groupID + csPictureNames[x];			
+			lObj = document.getElementById(nItemID).style.display = "none";							
+		}
+	}
+}
+
+function ToggleDisplay(shoFirst,hidSecond,hidThird,hidFourth,hidFifth,hidSixth) {
+
+	if(!document.getElementById) {
+		return;
+	}
+	
+	var l_show1 = document.getElementById(shoFirst).style.display = "block";
+	var	l_hide2 = document.getElementById(hidSecond).style.display = "none";
+	var l_hide3 = document.getElementById(hidThird).style.display = "none";
+	var l_hide4 = document.getElementById(hidFourth).style.display = "none";
+	var l_hide5 = document.getElementById(hidFifth).style.display = "none";
+	var l_hide6 = document.getElementById(hidSixth).style.display = "none";
+	return( true );
+}
 </script>
 
-<link rel="stylesheet" href="../default.css" type="text/css">
-<style type="text/css">
-#left {margin-left:-35px;margin-bottom:-20px;}  
-#right {margin-right:-35px;margin-bottom:-20px;}
-td {font-size:12px}
-UL.box {list-style-image: url("images/li.gif");
-		 margin-left:18px; margin-bottom:5px}
-li {margin-bottom:5px}
-td.border {border-collapse:collapse;border:1px solid #C80E19}
-td.borderNotop {border-collapse:collapse;border:1px solid #C80E19;border-top:0px}
-a.name {color:#cc3366;line-height:30px}
-</style>
-</head>
+<script language="JavaScript">
+<!--
 
-<body bgcolor="#ffffff">
+function changeDest() {  
+	document.ReturnLimitedProfiles.destination.value=document.ReturnLimitedProfiles.destination2.options[document.ReturnLimitedProfiles.destination2.selectedIndex].value;
+	
+}
+
+function checkDest(){	
+	if (document.ReturnLimitedProfiles.destination.value=="XXX"){
+		alert("Please select a destination.");
+		return false;
+	}
+}
+
+function puntaCana() {  
+	document.ReturnLimitedProfiles.destination.value="PUJ";
+	document.ReturnLimitedProfiles.submit();
+}
+//-->
+</script>
+
+<!------ OAS SETUP end ------>
 
 
-<center>
-  <a class="name" name="top"></a> 
-  <table width="600" cellpadding="0" cellspacing="0" height="17">
-    <tbody><tr> 
-      <td colspan="2" bgcolor="993399"><img src="../images/spacer.gif" width="600" height="1"></td>
-    </tr>
-    <tr> 
-      <td width="164" height="16" bgcolor="#FFFFFF"><img src="images/new/space.gif" width="164" height="16"></td>
-      <td width="436" height="16"><img src="images/secondary_navbar.gif" width="436" height="16" usemap="#MapMapMap" border="0"> 
-        <map name="MapMapMap"> 
-          <area shape="poly" coords="0,-1" href="#">
-          <area shape="rect" coords="-1,2,114,16" href="http://www.funjet.com/agents/recommend.htm">
-          <area shape="rect" coords="118,1,256,16" href="http://www.funjet.com/cgi-bin2/showcase.asp">
-          <area shape="rect" coords="259,1,387,15" href="http://www.funjet.com/charters/tool.htm ">
-          <area shape="rect" coords="391,1,436,15" href="http://www.funjet.com/faq/index.htm">
-        </map>
-      </td>
-    </tr>
-  </tbody></table>
-  <img src="images/new/Privacyheaders.gif" width="600" height="127" border="0" usemap="#des"> 
-</center><br>
-<center>
 
-  <table width="600" cellpadding="0" cellspacing="00" border="0">
-    <tbody><tr> 
-      <td valign="top"> 
-        <div align="center">
-          <h3><font face="Arial, Helvetica, sans-serif">Funjet Vacations Website Privacy Policy</font></h3>
-        </div>
-        <p><font face="Arial, Helvetica, sans-serif"><br>
-          <b><font size="2">Introduction</font></b></font></p>
-        <p><font face="Arial, Helvetica, sans-serif" size="2">At Funjet Vacations, we believe that it 
+	
+
+							<script>
+	function showPanofull(viewer,mapid){
+	var win = window.open('http://display.maxvr.com/lamacchia/fullpopup_lm.asp?v=' + viewer + '&mapid=' + mapid,'VRXMapViewer','height=470,width=796,menubar=no,top=5,scrollbars=no,resizable=no,left=5');
+	win.focus();
+	}
+</script>
+
+	<title>Funjet Vacations - Privacy Policy</title>
+	<meta name="Description" content="At Funjet Vacations, we believe that it is important to protect the privacy of our customers. This privacy policy helps you understand the ways in which your personal information is gathered and used on the www.funjet.com  website.">
+	<meta name="KeyWords" content="privacy policy, information security, child privacy, opt-in, contact Funjet, Funjet vacations, funjet.com, Funjet, funjet.com">
+
+
+
+<script language="JavaScript" type="text/javascript" src="http://www.funjet.com/includes/funjet_scripts.js"></script>
+
+<script>
+var rnd=Math.round(Math.random()*10000000); 
+document.write("<scr"+"ipt src='http://c4.maxserving.com/ecb.js?advid=1381&list=homepage&type=ec&pageId="+rnd+"'>"); 
+</script><script src="http://c4.maxserving.com/ecb.js?advid=1381&amp;list=homepage&amp;type=ec&amp;pageId=2537752"> 
+
+
+<script language="JavaScript">
+<!-- Overture Services, Inc
+var pm_tagname = "universalTag.txt";
+var pm_tagversion = "1.4";
+var pm_accountid = "BMSACU4UK9I8OM2B78CVG78KJ4";
+var pm_scripthost = "srv.perf.overture.com";
+var pm_customargs = "";
+var pm_querystr = "?" + "ver=" + pm_tagversion + "&aid=" + pm_accountid + pm_customargs;
+var pm_tag = "<SCR" + "IPT LANGUAGE='JavaScript' " + "SRC=//" + pm_scripthost + "/collweb/ScriptServlet" + pm_querystr + "></SCR" + "IPT>";
+document.write(pm_tag);
+// -->
+</script>
+
+<script language="JavaScript" type="text/JavaScript">
+function WTV_onimageload(id, url, caption) { 
+	document.getElementById(id).innerHTML = "<a href = \"#\" onclick=\"window.open(\'" + url + "\',\'\', \'width= 700,height= 450\')\">" + caption + "</a>"; 
+} 
+
+//BEGIN JS FOR VERISIGN POPUP -->
+  function popUp(url) {
+  sealWin=window.open(url,"win",'toolbar=0,location=0,directories=0,status=1,menubar=1,scrollbars=1,resizable=1,width=700,height=450');
+  self.name = "mainWin";
+  } 
+  
+//RATING'S POP-UP WINDOW
+function rating_popup() {
+        window.open('http://www.funjet.com/ratings.asp','ratings','toolbar=no,location=no,directories=no,status=yes,menubar=yes,resizable=yes,copyhistory=no,scrollbars=yes,width=400,height=450,left=0,top=0');
+} 
+//END JS FOR VERISIGN POPUP -->
+
+
+//BEGIN JS FOR DHTML DROP-DOWN BANNER -->
+<!--
+function MM_timelineStop(tmLnName) { //v1.2
+  //Copyright 1997, 2000 Macromedia, Inc. All rights reserved.
+  if (document.MM_Time == null) MM_initTimelines(); //if *very* 1st time
+  if (tmLnName == null)  //stop all
+    for (var i=0; i<document.MM_Time.length; i++) document.MM_Time[i].ID = null;
+  else document.MM_Time[tmLnName].ID = null; //stop one
+}
+
+function MM_timelinePlay(tmLnName, myID) { //v1.2
+  //Copyright 1997, 2000 Macromedia, Inc. All rights reserved.
+  var i,j,tmLn,props,keyFrm,sprite,numKeyFr,firstKeyFr,propNum,theObj,firstTime=false;
+  if (document.MM_Time == null) MM_initTimelines(); //if *very* 1st time
+  tmLn = document.MM_Time[tmLnName];
+  if (myID == null) { myID = ++tmLn.ID; firstTime=true;}//if new call, incr ID
+  if (myID == tmLn.ID) { //if Im newest
+    setTimeout('MM_timelinePlay("'+tmLnName+'",'+myID+')',tmLn.delay);
+    fNew = ++tmLn.curFrame;
+    for (i=0; i<tmLn.length; i++) {
+      sprite = tmLn[i];
+      if (sprite.charAt(0) == 's') {
+        if (sprite.obj) {
+          numKeyFr = sprite.keyFrames.length; firstKeyFr = sprite.keyFrames[0];
+          if (fNew >= firstKeyFr && fNew <= sprite.keyFrames[numKeyFr-1]) {//in range
+            keyFrm=1;
+            for (j=0; j<sprite.values.length; j++) {
+              props = sprite.values[j]; 
+              if (numKeyFr != props.length) {
+                if (props.prop2 == null) sprite.obj[props.prop] = props[fNew-firstKeyFr];
+                else        sprite.obj[props.prop2][props.prop] = props[fNew-firstKeyFr];
+              } else {
+                while (keyFrm<numKeyFr && fNew>=sprite.keyFrames[keyFrm]) keyFrm++;
+                if (firstTime || fNew==sprite.keyFrames[keyFrm-1]) {
+                  if (props.prop2 == null) sprite.obj[props.prop] = props[keyFrm-1];
+                  else        sprite.obj[props.prop2][props.prop] = props[keyFrm-1];
+        } } } } }
+      } else if (sprite.charAt(0)=='b' && fNew == sprite.frame) eval(sprite.value);
+      if (fNew > tmLn.lastFrame) tmLn.ID = 0;
+  } }
+}
+
+function MM_timelineGoto(tmLnName, fNew, numGotos) { //v2.0
+  //Copyright 1997, 2000 Macromedia, Inc. All rights reserved.
+  var i,j,tmLn,props,keyFrm,sprite,numKeyFr,firstKeyFr,lastKeyFr,propNum,theObj;
+  if (document.MM_Time == null) MM_initTimelines(); //if *very* 1st time
+  tmLn = document.MM_Time[tmLnName];
+  if (numGotos != null)
+    if (tmLn.gotoCount == null) tmLn.gotoCount = 1;
+    else if (tmLn.gotoCount++ >= numGotos) {tmLn.gotoCount=0; return}
+  jmpFwd = (fNew > tmLn.curFrame);
+  for (i = 0; i < tmLn.length; i++) {
+    sprite = (jmpFwd)? tmLn[i] : tmLn[(tmLn.length-1)-i]; //count bkwds if jumping back
+    if (sprite.charAt(0) == "s") {
+      numKeyFr = sprite.keyFrames.length;
+      firstKeyFr = sprite.keyFrames[0];
+      lastKeyFr = sprite.keyFrames[numKeyFr - 1];
+      if ((jmpFwd && fNew<firstKeyFr) || (!jmpFwd && lastKeyFr<fNew)) continue; //skip if untouchd
+      for (keyFrm=1; keyFrm<numKeyFr && fNew>=sprite.keyFrames[keyFrm]; keyFrm++);
+      for (j=0; j<sprite.values.length; j++) {
+        props = sprite.values[j];
+        if (numKeyFr == props.length) propNum = keyFrm-1 //keyframes only
+        else propNum = Math.min(Math.max(0,fNew-firstKeyFr),props.length-1); //or keep in legal range
+        if (sprite.obj != null) {
+          if (props.prop2 == null) sprite.obj[props.prop] = props[propNum];
+          else        sprite.obj[props.prop2][props.prop] = props[propNum];
+      } }
+    } else if (sprite.charAt(0)=='b' && fNew == sprite.frame) eval(sprite.value);
+  }
+  tmLn.curFrame = fNew;
+  if (tmLn.ID == 0) eval('MM_timelinePlay(tmLnName)');
+}
+
+function MM_initTimelines() { //v4.0
+    //MM_initTimelines() Copyright 1997 Macromedia, Inc. All rights reserved.
+    var ns = navigator.appName == "Netscape";
+    var ns4 = (ns && parseInt(navigator.appVersion) == 4);
+    var ns5 = (ns && parseInt(navigator.appVersion) > 4);
+    document.MM_Time = new Array(1);
+    document.MM_Time[0] = new Array(3);
+    document.MM_Time["Timeline1"] = document.MM_Time[0];
+    document.MM_Time[0].MM_Name = "Timeline1";
+    document.MM_Time[0].fps = 20;
+    document.MM_Time[0][0] = new String("behavior");
+    document.MM_Time[0][0].frame = 20;
+    document.MM_Time[0][0].value = "MM_timelineStop('Timeline1')";
+    document.MM_Time[0][1] = new String("behavior");
+    document.MM_Time[0][1].frame = 30;
+    document.MM_Time[0][1].value = "MM_timelineStop('Timeline1')";
+    document.MM_Time[0][2] = new String("sprite");
+    document.MM_Time[0][2].slot = 1;
+    if (ns4)
+        document.MM_Time[0][2].obj = document["Layer1"];
+    else if (ns5)
+        document.MM_Time[0][2].obj = document.getElementById("Layer1");
+    else
+        document.MM_Time[0][2].obj = document.all ? document.all["Layer1"] : null;
+    document.MM_Time[0][2].keyFrames = new Array(1, 20, 30);
+    document.MM_Time[0][2].values = new Array(2);
+    if (ns5)
+        document.MM_Time[0][2].values[0] = new Array("0px", "0px", "0px", "0px", "0px", "0px", "0px", "0px", "0px", "0px", "0px", "0px", "0px", "0px", "0px", "0px", "0px", "0px", "0px", "0px", "0px", "0px", "0px", "0px", "0px", "0px", "0px", "0px", "0px", "0px");
+    else
+        document.MM_Time[0][2].values[0] = new Array(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
+    document.MM_Time[0][2].values[0].prop = "left";
+    if (ns5)
+        document.MM_Time[0][2].values[1] = new Array("-72px", "-64px", "-61px", "-57px", "-54px", "-50px", "-47px", "-43px", "-39px", "-36px", "-32px", "-29px", "-25px", "-21px", "-18px", "-14px", "-11px", "-7px", "-4px", "1px", "-7px", "-14px", "-20px", "-27px", "-34px", "-41px", "-48px", "-54px", "-61px", "-72px");
+    else
+        document.MM_Time[0][2].values[1] = new Array(-72,-64,-61,-57,-54,-50,-47,-43,-39,-36,-32,-29,-25,-21,-18,-14,-11,-7,-4,1,-7,-14,-20,-27,-34,-41,-48,-54,-61,-72);
+    document.MM_Time[0][2].values[1].prop = "top";
+    if (!ns4) {
+        document.MM_Time[0][2].values[0].prop2 = "style";
+        document.MM_Time[0][2].values[1].prop2 = "style";
+    }
+    document.MM_Time[0].lastFrame = 30;
+    for (i=0; i<document.MM_Time.length; i++) {
+        document.MM_Time[i].ID = null;
+        document.MM_Time[i].curFrame = 0;
+        document.MM_Time[i].delay = 1000/document.MM_Time[i].fps;
+    }
+}
+//-->
+//END JS FOR DHTML DROP-DOWN BANNER -->
+</script>
+
+
+	  <link rel="stylesheet" type="text/css" href="http://www.funjet.com/includes/globalNS.css">
+  
+
+
+
+<!-- onload="BodyLoadHandler();return true;" -->
+
+<table width="780" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" align="center" class="border">
+	<tbody><tr>
+		<td valign="top" height="121">
+
+			<table width="780" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td width="199" height="121">
+						<a href="http://www.funjet.com/?OAC="><img src="http://www.funjet.com/images/ifj_logo.gif" border="0" alt="Funjet Vacations Home Page"></a></td>
+			  		<td width="574" valign="top" bgcolor="#316b9c">
+						<table width="574" border="0" cellspacing="0" cellpadding="0">
+							<tbody><tr>
+								<td bgcolor="#316B9C" colspan="12">
+									<img src="http://www.funjet.com/images/spacer.gif" height="4" width="574"></td>
+							</tr>
+							<tr valign="top">
+								<td colspan="12" height="72" background="http://www.funjet.com/images/hdr_home.gif" border="0">
+									<div id="Layer1" style="position: relative; left: 0px; top: -29px; width: 573px; height: 70px; z-index: 1; visibility: inherit;" left="0" top="0">
+										<table border="0" cellspacing="0" cellpadding="0">
+											<tbody><tr valign="top">
+												<td bgcolor="#316B9C">
+													
+													<a href="http://www.funjet.com/specials/fs0200_180.asp?OAC="><img src="http://www.funjet.com/images/specials/fs0200_573x70.gif" alt="Get Away Today! Last Minute Deals Start at $99.99" width="573" height="70" border="0"></a></td>
+											</tr>
+										</tbody></table>
+										<!--<span id="CloseButton" style="position:absolute; left:532px; top:3px; z-index:2"><a class="fineprint" href="#" onClick="MM_timelinePlay('Timeline1');MM_timelineGoto('Timeline1','21')">CLOSE</a></span>-->
+									</div></td>
+							</tr>
+							<tr>
+							
+								<td bgcolor="#E5A13F" align="center" class="borderR" height="24"><a href="http://www.funjet.com/index.asp?OAC=" class="menu" target="_top">HOME</a></td>
+								<td bgcolor="#ECD686" align="center" class="borderR"><a href="http://www.funjet.com/plan/index.asp?OAC=" class="menu" target="_top">PLAN&nbsp;YOUR&nbsp;VACATION</a></td>
+								<td bgcolor="#E5A13F" align="center" class="borderR"><a href="http://www.funjet.com/hotdeals/index.asp?OAC=" class="menu" target="_top">HOT&nbsp;DEALS</a></td>
+								<td bgcolor="#E5A13F" align="center" class="borderR"><a href="http://www.funjet.com/dest/index.asp?OAC=" class="menu" target="_top">DESTINATIONS</a></td>
+								<td bgcolor="#E5A13F" align="center" class="borderR"><a href="http://www.funjet.com/hotels/index.asp?OAC=" class="menu" target="_top">HOTELS</a></td>
+								<td bgcolor="#E5A13F" align="center" class="borderR"><a href="http://www.funjet.com/cs/index.asp?OAC=" class="menu" target="_top">CUSTOMER&nbsp;SERVICE</a></td>
+							</tr>
+							<tr>
+								<td bgcolor="#FFFFFF" colspan="12">
+									<img src="http://www.funjet.com/images/spacer.gif" height="1" width="574"></td>
+							</tr>
+							<tr>
+								<td bgcolor="#94B5D5" colspan="12" align="right">
+									<table border="0" cellpadding="0" cellspacing="0">
+										<tbody><tr>											
+											<td bgcolor="#94B5D5" align="right" height="19">
+												<a href="http://www.funjet.com/about/index.asp?OAC=" class="menu" target="_top">ABOUT&nbsp;US</a>&nbsp;&nbsp;</td>
+											<td bgcolor="#94B5D5" align="right">
+												&nbsp;&nbsp;<a href="http://www.funjet.com/plan/fltschedule.asp?OAC=" class="menu" target="_top">FLIGHT&nbsp;SCHEDULE</a>&nbsp;&nbsp;</td>
+											<td bgcolor="#94B5D5" align="right">
+												&nbsp;&nbsp;<a href="http://www.funjet.com/plan/recommend.asp?OAC=" class="menu" target="_top">RECOMMENDED&nbsp;AGENTS</a>&nbsp;&nbsp;</td>
+											<td bgcolor="#94B5D5" align="right" class="borderR">
+												
+													<!--<a href="http://www.funjet.com/myfunjet/login.asp" class="menu">SIGN&nbsp;IN</a>-->
+													<!--
+												
+													<span class="menu"><a href="http://www.funjet.com/myfunjet\login.asp">SIGN&nbsp;IN</a></SPAN>
+												&nbsp;&nbsp;-->
+												
+													&nbsp;<a class="menu" href="http://www.funjet.com/myfunjet/index.asp?OAC=" target="_top">SIGN IN / JOIN</a>
+												&nbsp;&nbsp;
+													<!--
+												
+													<a class="menu" href="http://www.funjet.com/myfunjet/login.asp">MY FUNJET CLUB</a>
+												-->
+												&nbsp;&nbsp;
+											</td>
+										</tr>
+									</tbody></table>
+								</td>
+							</tr>
+							<tr>
+								<td bgcolor="#FFFFFF" colspan="12">
+									<img src="http://www.funjet.com/images/spacer.gif" height="1" width="574"></td>
+							</tr>
+						</tbody></table>
+					</td>
+					<td bgcolor="#316b9c" width="4">
+						<img src="http://www.funjet.com/images/spacer.gif" height="121" width="4"></td>
+				</tr>
+				<tr>
+					<td colspan="3">
+						<table width="779" height="4" border="0" cellspacing="0" cellpadding="0">
+							<tbody><tr>
+								<td bgcolor="#316b9c" class="borderL">
+									<img src="http://www.funjet.com/images/spacer.gif" height="4" width="780"></td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				<tr> 
+					<td bgcolor="#FFFFFF" colspan="4">
+						<img src="http://www.funjet.com/images/spacer.gif" height="1" width="780"></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td bgcolor="#94B5D5" width="198">
+						<img src="http://www.funjet.com/images/spacer.gif" height="4px" border="0"></td><td>
+				</td></tr>
+			</tbody></table>
+		</td>
+	</tr>
+
+	<tr>
+		<td valign="top">
+			<table width="780" border="0" cellspacing="4" cellpadding="4">
+				<tbody><tr>
+<!-- =================== START RIGHT COLUMN =================== -->
+					<td valign="top" colspan="2">
+<!-- START BREADCRUMB -->
+						<a href="http://www.funjet.com/index.asp?OAC=" class="crumb">Home:</a> <font class="header3">Funjet Vacations Website 
+      Privacy Policy </font><br><br>
+<!-- End breadcrumb -->
+					</td>
+<!-- =================== END RIGHT COLUMN =================== -->
+				</tr>
+				<tr>
+<!-- =================== START LEFT COLUMN =================== -->
+					<td width="100%" valign="top">
+						<span style="display:block; class=" bodytxt""="">
+						
+          
+        
+
+	<font class="bodytxt">
+          <b>Introduction</b></font><p></p>
+        <p><font class="bodytxt">At Funjet Vacations, we believe that it 
           is extremely important to protect the privacy of<br>
           our customers. We are providing this privacy policy to help you better understand the ways in 
           which your personal information is gathered and used on the www.funjet.com website.</font></p>
-        <p><font face="Arial, Helvetica, sans-serif" size="2">Funjet Vacations is wholly owned by The 
+        <p><font class="bodytxt">Funjet Vacations is wholly owned by The 
           Mark Travel Corporation. The Mark Travel Corporation and its affiliated technology and marketing 
           agencies, and travel agency distributors, gather, store, and process the information from the 
-          <a href="http://www.funjet.com/index.asp">Funjet Vacations website</a>. They help Funjet Vacations 
+          <a href="http://www.funjet.com/index.asp?OAC=">Funjet Vacations website</a>. They help Funjet Vacations 
           use customer information to create and distribute products, specials, promotions, and website 
           features for our customers <i>Funjet Vacations, The Mark Travel Corporation, and their affiliated 
           technology and marketing agencies, and travel agency distributors (hereafter "Funjet Vacations") 
           will not sell or share your personally identifiable information with any third party company 
           or agency without your permission.</i></font></p>
-        <p><font face="Arial, Helvetica, sans-serif" size="2">If you have any comments or questions regarding 
-          this privacy statement, please contact Funjet Vacations via our online <u><a href="http://www.funjet.com/faq/index.htm">Customer 
-          Service</a></u>.</font></p>
-        <p><font face="Arial, Helvetica, sans-serif" size="2"><br>
+        <p><font class="bodytxt">If you have any comments or questions regarding 
+          this privacy statement, please contact Funjet Vacations via our online <a href="http://www.funjet.com/cs/index.asp?OAC=">Customer 
+          Service</a>.</font></p>
+        <p><font class="bodytxt"><br>
           <b>Information Funjet Vacations Collects</b></font></p>
-        <p><font face="Arial, Helvetica, sans-serif" size="2">The Funjet Vacations website collects customer 
-          information in a number of ways: when you sign up to receive emails, when your book online using 
-          the Funjet Vacations online booking form, when you fill out a Customer Service request, when 
-          you send a information request to a travel agent via their agency profile, when you send a comment 
-          to the suggestion link on our weekly email, and when you forward an email/webpage to a friend. 
+        <p><font class="bodytxt">The Funjet Vacations website collects customer information in a number of ways: when you sign up to receive emails, when you join the My Funjet Club, when your book online using the Funjet Vacations online booking form, when you fill out a Customer Service request, when you send a information request to a travel agent via their agency profile, when you send a comment to the suggestion link on our weekly email, and when you forward an email/webpage to a friend. 
           </font></p>
-        <p><font face="Arial, Helvetica, sans-serif" size="2">The types of information collected on these 
-          pages are:<br>
-          Customer Name<br>
-          Traveling Companion Name<br>
-          Mailing Address<br>
-          Email Address<br>
-          Telephone Number<br>
-          Credit/Debit Card Information<br>
-          Reservation Number<br>
-          Age Range<br>
-          Gender<br>
-          Destination Information Desired<br>
-          Other Information Desired<br>
-          Travel Habits</font></p>
+        <p><font class="bodytxt">The types of information collected on these 
+          pages are:<br><br>
+		  </font></p><ul class="body"><font class="bodytxt">
+          <li>Customer Name<br>
+          </li><li>Traveling Companion Name<br>
+          </li><li>Mailing Address<br>
+          </li><li>Email Address<br>
+          </li><li>Telephone Number<br>
+          </li><li>Credit/Debit Card Information<br>
+          </li><li>Reservation Number<br>
+          </li><li>Age Range<br>
+          </li><li>Gender<br>
+          </li><li>Destination Information Desired<br>
+          </li><li>Other Information Desired<br>
+          Travel Habits</li></font></ul><p></p>
         <p></p>
-        <p><font face="Arial, Helvetica, sans-serif" size="2"><b>How Your Information Is Used</b></font></p>
-        <p><font face="Arial, Helvetica, sans-serif" size="2">When you sign up for the Funjet Vacations 
-          email guestbook, you have the choice of receiving or not receiving emails. If you choose to 
+        <p><font class="bodytxt"><br><b>How Your Information Is Used</b></font></p>
+        <p><font class="bodytxt">When you sign up for the My Funjet Club, you have the choice of receiving or not receiving emails. If you choose to 
           receive emails, Funjet Vacations will send you regular emails promoting vacation travel, specials, 
           sales and other information. You may unsubscribe from the email specials list at any time by 
-          accessing the unsubscribe link at the bottom of the email or by visiting the <a href="http://www.funjet.com/unsub.htm">unsubscribe 
+          accessing the unsubscribe link at the bottom of the email or by visiting the <a href="http://www.funjet.com/myfunjet/unsubscribe.asp?OAC=">unsubscribe 
           page</a> on our website.</font></p>
-        <p><font face="Arial, Helvetica, sans-serif" size="2">The information you supply when you book 
+        <p><font class="bodytxt">The information you supply when you book 
           a vacation online is used to process and complete your online order. Funjet Vacations does not 
           share this information with any outside parties except to the extent necessary to process your 
           order (for example, credit card authorizations). Information you submit for the purposes of 
           online bookings will not be used to subscribe you for the email guest book unless you specifically 
           opt-in for the email guestbook by checking the appropriate box on the online booking form.</font></p>
-        <p><font face="Arial, Helvetica, sans-serif" size="2">The information you supply when you send 
+        <p><font class="bodytxt">The information you supply when you send 
           in a Customer Service request is used to assist you with your request. It may also be used to 
           help Funjet Vacations review and improve its products, promotions, and customer service.</font></p>
-        <p><font face="Arial, Helvetica, sans-serif" size="2">The information you supply when you send 
+        <p><font class="bodytxt">The information you supply when you send 
           a request to a travel agent via an agency profile is a confidential communication between you 
           and the travel agency. Funjet Vacations does not monitor these communication or collect data 
           from them, except the total number of requests sent. Funjet Vacations makes no guarantees as 
           to the way in which the travel agencies will use or protect the information you send them via 
           their agency profile information request form.</font></p>
-        <p><font face="Arial, Helvetica, sans-serif" size="2">The information you supply when you send 
+        <p><font class="bodytxt">The information you supply when you send 
           a suggestion or comment to the email suggestion link is used to reply to your comment. Your 
           information may also be forwarded on to the relevant product team or Customer Service team to 
           further process your comment or to help improve Funjet Vacations product, promotions and customer 
           service.</font></p>
-        <p><font face="Arial, Helvetica, sans-serif" size="2">The information you supply when you send 
+        <p><font class="bodytxt">The information you supply when you send 
           an email/webpage to a friend is used to forward the relevant email or webpage information. Funjet 
           Vacations will not send additional emails or mailings to your friend. Your friend must subscribe 
           to our guestbook or provide information himself/herself through one of the other available means 
           before Funjet Vacations will contact him/her.</font></p>
-        <p><font face="Arial, Helvetica, sans-serif" size="2">Information collected through some/all of 
+		  
+        <p><font class="bodytxt">Information collected through some/all of 
           the methods listed above may be used by Funjet Vacations to improve products, processes and 
           customer service. Funjet Vacations may also use some/all of the information to create customer 
           mailing lists and may occasionally send our customers promotional pieces or other mailings. 
           Mailing lists compiled from the information you provide will only be used by Funjet Vacations 
           for its own marketing and promotional efforts, and will not be sold or shared with any third 
           parties.</font></p>
-        <p><font face="Arial, Helvetica, sans-serif" size="2">Funjet Vacations may also use non-identifying 
+        <p><font class="bodytxt">Funjet Vacations may also use non-identifying 
           or aggregate information to improve our website, track promotional success, and/or to share 
-          website usage information with our hotel, airline or other business partners. This information 
+          website usage information with our hotel, airline or other business affiliates. This information 
           may include number of page views, visitor sessions, session length, hits, number of unique visitors, 
           browser type, number of visits by each visitor, most requested pages, most accessed pages, top 
           paths through the site, number of returning users. Not all of this information is shared with 
-          our business partners, but some aggregate numbers such as page views on a particular page during 
+          our business affiliates, but some aggregate numbers such as page views on a particular page during 
           a particular time frame may be shared. However, no personally identifiable information about 
           you will be shared with any third party.</font></p>
-        <p><font face="Arial, Helvetica, sans-serif" size="2"><br>
+        <p><font class="bodytxt"><br>
           <b>Funjet Vacations use of IP Addresses and Cookies</b></font></p>
-        <p><font face="Arial, Helvetica, sans-serif" size="2">Funjet Vacations uses cookies to track visitors 
+        <p><font class="bodytxt">Funjet Vacations uses cookies to track visitors 
           to our site. Funjet Vacations gathers the number of unique visitors as well as the number of 
           page views each visitor makes. The information is used for promotional and marketing purposes 
           only and in the compilation of web usage reports. The reports generated do not recognize any 
           information specific to your location, or anything specific to your individual machine. Cookies 
           are tiny files that are placed on the hard drive of your computer. Cookies do not extract private 
           or personal information from your computer.</font></p>
-        <p><font face="Arial, Helvetica, sans-serif" size="2"><br>
+        <p><font class="bodytxt"><br>
           <b>Funjet Vacations Commitment to Information Security</b></font></p>
-        <p><font face="Arial, Helvetica, sans-serif" size="2">To prevent unauthorized access, maintain 
+        <p><font class="bodytxt">To prevent unauthorized access, maintain 
           data accuracy, and ensure the correct use of information, there are appropriate physical, electronic 
           and managerial procedures to safeguard and secure the information we collect online. We use 
           SSL (Secure Socket Layers) to encrypt and protect your personal information. We understand that 
           this is vital in the exchange of credit card and password information.</font></p>
-        <p><font face="Arial, Helvetica, sans-serif" size="2"><br>
+        <p><font class="bodytxt"><br>
           <b>Funjet Vacations Commitment to Child Privacy</b></font></p>
-        <p><font face="Arial, Helvetica, sans-serif" size="2">Protecting the privacy of children is very 
+        <p><font class="bodytxt">Protecting the privacy of children is very 
           important to Funjet Vacations. Funjet Vacations does not collect or maintain information from 
           our website from those known to be under 13 years of age. No part of our website is designed 
           to attract anyone under the age of 13. When online bookings are made, the ages of children traveling 
           with an adult are collected so that the appropriate hotel room and pricing can be chosen for 
           the reservation. The lowest age range specified on the guestbook sign up form is "18 and 
           under."</font></p>
-        <p><font face="Arial, Helvetica, sans-serif" size="2"><br>
-          <b>How to Access or Correct Your Information</b></font></p>
-        <p><font face="Arial, Helvetica, sans-serif" size="2">You can access the personally identifiable 
-          information you submitted when you made an online reservation by viewing your password-protected 
-          reservation. You will be asked to enter both your reservation number and your password. It is 
-          the responsibility of the password holder to take reasonable precautions to protect his/her 
-          own password. Do not tell anyone your password or write your password down where it can be viewed 
-          by others. </font></p>
-        <p><font face="Arial, Helvetica, sans-serif" size="2">To correct, change, or unsubscribe your 
-          email address from the Funjet Vacations guestbook, you can visit the unsubscribe page at http://www.funjet.com/unsub.htm. 
-          First, unsubscribe your old or incorrect email address. Then if you wish to re-subscribe, return 
-          to our <a href="http://www.funjet.com/guest/index.htm">guestbook sign up page</a> and enter 
-          your new information.</font></p>
-        <p><font face="Arial, Helvetica, sans-serif" size="2"><br>
+        <p><font class="bodytxt"><br>
+          <b>How to Access or Update Your Information</b></font></p>
+        <p><font class="bodytxt">You can access the personally identifiable information you submitted when you made an online reservation by viewing your password-protected reservation. You will be asked to enter both your reservation number and your password. It is the responsibility of the password holder to take reasonable precautions to protect his/her own password. Do not tell anyone your password or write your password down where it can be viewed by others.<br><br>
+ 
+Information you submit through any of the online methods, including online booking and My Funjet Club, may be used to create customer mailing lists. Funjet Vacations may occasionally send our customers promotional pieces or other mailings. Mailing lists compiled from the information you provide will only be used by Funjet Vacations for its own marketing and promotional efforts, and will not be sold or shared with any third parties.<br><br>
+
+To unsubscribe from the Funjet Vacations weekly emails, you can visit the unsubscribe page at <a href="http://www.funjet.com/myfunjet/unsubscribe.asp?OAC=">http://www.funjet.com/myfunjet/unsubscribe.asp</a>. Your information will be kept in the Funjet Vacations database and will not be shared with any third parties.<br><br>
+
+To correct or change your My Funjet Club information, visit <a href="http://www.funjet.com/myfunjet/index.asp?OAC=">http://www.funjet.com/myfunjet/index.asp</a> and login.  Then, enter your new information to update your profile.
+ </font></p>
+ 
+         <p><font class="bodytxt"><br>
           <b>Opt-In Information</b></font></p>
-        <p><font face="Arial, Helvetica, sans-serif" size="2">If you wish to receive information about 
-          Funjet Vacations news, products, and specials via email, you may sign up on the email specials 
-          sign-up page. You may also sign up to receive email specials when you book online by checking 
-          the appropriate box on the online booking form. Information you submit for the purposes of online 
-          bookings will not be used to subscribe you for the email guest book unless you specifically 
-          opt-in for the email guestbook.</font></p>
-        <p><font face="Arial, Helvetica, sans-serif" size="2">Information you submit through any of the 
-          online methods, including online booking, may be used to create customer mailing lists. Funjet 
-          Vacations may occasionally send our customers promotional pieces or other mailings. Mailing 
-          lists compiled from the information you provide will only be used by Funjet Vacations for its 
-          own marketing and promotional efforts, and will not be sold or shared with any third parties.</font></p>
-        <p><font face="Arial, Helvetica, sans-serif" size="2"><br>
+
+        <p><font class="bodytxt">
+		
+If you wish to receive information about Funjet Vacations news, products, and specials via email, you may sign up on the sign up forms throughout the website or on the My Funjet Club page. You may also sign up to receive email specials when you book online by checking the appropriate box on the online booking form. Information you submit for the purposes of online bookings will not be used to subscribe you for the email guest book unless you specifically opt-in for the email guestbook.<br><br>
+
+Information you submit through any of the online methods, including online booking and My Funjet Club, may be used to create customer mailing lists. Funjet Vacations may occasionally send our customers promotional pieces or other mailings. Mailing lists compiled from the information you provide will only be used by Funjet Vacations for its own marketing and promotional efforts, and will not be sold or shared with any third parties.<br><br>
+
+</font></p>
+        <p><font class="bodytxt"><br>
           <b>Notification of Changes to Funjet Vacations Information-Use Policies</b></font></p>
-        <p><font face="Arial, Helvetica, sans-serif" size="2">If at some future date, Funjet Vacations 
+        <p><font class="bodytxt">If at some future date, Funjet Vacations 
           determines that it will change the manner in which it uses the information it collects on the 
           website, you will be notified at least 30 days prior to Funjet Vacations making the change. 
           You would have the option of choosing to continue or not continue to be a member of the Funjet 
@@ -241,23 +657,136 @@ a.name {color:#cc3366;line-height:30px}
           collected prior to any information-use changes would be managed according to the Privacy Policy 
           in place at the time it was collected. Only new information collected online would be subject 
           to any new information-use policies. </font></p>
-        <p><font face="Arial, Helvetica, sans-serif" size="2"><br>
-          H<b>ow to Contact Funjet Vacations</b></font></p>
-        <p><font face="Arial, Helvetica, sans-serif" size="2">If you have any questions or comments regarding 
-          the Funjet Vacations privacy policy, please contact Funjet Vacations via our online <u><a href="http://www.funjet.com/faq/index.htm">Customer 
-          Service</a></u>.</font><br>
-          </p>
-          <hr width="100%" size="2" noshade="">
-    </td></tr></tbody></table><map name="des">
-<area shape="RECT" coords="2,2,164,51" href="index.asp">
-<area shape="RECT" coords="36,81,164,102" href="plan/index.htm">
-<area shape="RECT" coords="170,82,297,102" href="hotdeals/index.htm">
-<area shape="RECT" coords="303,82,431,103" href="destin/index.htm">
-<area shape="RECT" coords="438,83,565,103" href="guest/index.htm">
-<area shape="RECT" coords="0,0,0,0">
-</map>
-      
-</center>
+        <p><font class="bodytxt"><br>
+          <b>How to Contact Funjet Vacations</b></font></p>
+        <p><font class="bodytxt">If you have any questions or comments regarding 
+          the Funjet Vacations privacy policy, please contact Funjet Vacations via our online <a href="http://www.funjet.com/cs/index.asp?OAC=">Customer 
+          Service</a>.
+		  <br><br>
+		  <b>Updated: August 16th, 2004</b>
+		  
+		  </font><br>
+          </p></span>
+	  
+					</td>
+				</tr>
+
+			</tbody></table>
+		</td>
+	</tr>
+<!-- =================== END MIDDLE COLUMN =================== -->			
+<tr>
+	<td align="center">		</td>
+	</tr>
+	<tr>
+    	<td height="3">
+			<br>
+			<table width="100%" bgcolor="#3776AF" cellspacing="0" cellpadding="0" border="0">
+				<form name="InteractiveTravelGuide" method="post" action="http://www.funjet.com/InteractiveGuide.asp"></form>
+				<tbody><tr bgcolor="#316B9C">
+					<td align="left" valign="center">
+					
+					
+
+<b><span class="se">&nbsp;&nbsp;FUNJET.COM</span></b>
+
+					
+					
+						</td>
+					<td align="right" valign="center">
+						<table border="0">
+							<tbody><tr>
+								<td>
+									<b><span class="se">QUICK FIND</span></b>&nbsp;&nbsp;</td>
+								<td>
+									<input class="txtBoxStyle" type="text" style="width:75px" name="ITGuide" value="Enter Code" size="10" maxlength="30" onfocus="if(this.value=='Enter Code')this.value='';" onblur="if(this.value=='')this.value='Enter Code';">
+								</td>
+									<script language="JavaScript">
+									<!--//ITGhelp pop up
+									function help_popup() 
+									{ window.open('http://www.funjet.com/includes/pop_foothelp.asp','','toolbar="no",location="no",directories="no",status="no",menubar="no",resizable="no",copyhistory="no",scrollbars="no",width=300,height=200');}
+									//-->
+									</script>
+								<td>
+									<input type="image" src="http://www.funjet.com/images/toolElements/go_btn_blue.gif" border="0" value="INTERACTIVE TRAVEL GUIDE" alt="INTERACTIVE TRAVEL GUIDE" name="itggobtn"> <a href="javascript:help_popup()" onmouseover="window.status='http://www.funjet.com/includes/pop_foothelp.asp'; return true"><img src="http://www.funjet.com/images/toolElements/help_btn_blue.gif" border="0" alt="Interactive Travel Guide - Help"></a></td>
+									<input type="hidden" name="InteractiveTravelGuide" value="InteractiveTravelGuide">
+								
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+<br>		
+<table width="780" border="0" cellspacing="0" cellpadding="0" align="center">
+	<tbody><tr>
+		<td valign="top" align="center">
+		
+      		<a href="http://www.funjet.com/specials/mastercard.asp?OAC="><img src="http://www.funjet.com/images/HOM_MCLogo.gif" alt="Exclusive MasterCard Offers" border="0"></a>
+		</td>
+		
+    	<td align="center">
+			<font class="bodytxt"> <a href="http://www.funjet.com/index.asp?OAC=">Home</a> | <a href="http://www.funjet.com/plan/index.asp?OAC=">Plan Your Vacation</a> | <a href="http://www.funjet.com/hotdeals/index.asp?OAC=">Hot Deals</a> | <a href="http://www.funjet.com/dest/index.asp?OAC=">Destinations</a> | <a href="http://www.funjet.com/hotels/index.asp?OAC=">Hotels</a> | <a href="http://www.funjet.com/about/index.asp?OAC=">About Us</a> | 
+      		
+      		<a href="http://www.funjet.com/myfunjet/index.asp?OAC=">My Funjet Club</a> 
+     		
+      		<br>
+      		<a href="http://www.funjet.com/cs/index.asp?OAC=">Customer Service</a> | <a href="http://www.funjet.com/plan/fltschedule.asp?OAC=">Flight 
+      		Schedule</a> 
+      		
+			| <a href="http://www.funjet.com/plan/recommend.asp?OAC=">Recommended Agents</a> 
+      		
+      		| <a href="http://www.funjet.com/press_room/index.asp?OAC=">Press Room</a> | <a href="http://www.funjet.com/about/jobs.asp?OAC=">Job Opportunities</a><br>
+			<a href="http://www.funjet.com/bill/privacy.asp?OAC=">Privacy Policy</a> | <a href="http://www.funjet.com/bill/billofrights.asp?OAC=">Bill of Rights</a> | <a href="http://www.funjetagent.com/?OAC=">For Travel Agents</a> 
+			
+      		| <a href="https://www.secure02.com/ovm/giftcert/IFJ/giftcert.asp?OAC="><font class="bodytxt"> 
+      		</font>Gift Certificates</a><font class="bodytxt"> 
+      		
+      		</font>| <a href="http://www.funjet.com/bill/sitemap.asp?OAC=">Site Map</a> | ¿<a href="http://www.funjet.com/cs/spanish.asp?OAC=">Habla español</a>?</font> <br>
+      		<br>
+			<font class="fineprint" style="color:#333333">Copyright ©1995-2005 Funjet Vacations 
+			
+			<br>
+			1-888-558-6654
+      		
+			<br><br>
+			</font>
+		</td>
+		<td align="center" valign="top">
+      		<a href="javascript:popUp('https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;type=GOLD&amp;sealid=0&amp;dn=WWW.SECURE02.COM&amp;lang=en')"><img src="http://www.funjet.com/images/logo_verisign.gif" width="56" height="25" alt="" border="0"></a><br>
+      		<font class="fineprint" style="color:#333333">CST&nbsp;2009218-20</font><br><br>
+			
+             <a href="http://www.funjet.com/dest/0mx.asp?OAC="><img src="http://www.funjet.com/images/logo_mexico.gif" alt="Mexico Beyond Your Expectations" border="0"></a>
+			
+		</td>
+	</tr>
+	<tr>
+		<td colspan="4" align="center">
+		<script language="JavaScript">
+		<!--//BILL OF RIGHTS POP-UP WINDOW
+		function PopUp_Disclaimer() {
+		        window.open('http://www.funjet.com/IFJ_popD.asp','Disclaimer','toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=yes,copyhistory=no,scrollbars=yes,width=400,height=450,left=0,top=0');
+		}
+		//-->
+		</script>		
+			<table>
+				<tbody><tr>
+					<td valign="top"><img src="../IFJ_iconD.gif" alt="" width="7" height="13" border="0"></td>
+					<td>Unless otherwise noted, fares do not include all applicable taxes, charges and government-imposed fees.<br>  
+					<a href="javascript:PopUp_Disclaimer()" onmouseover="window.status='http://www.funjet.com/IFJ_popD.asp'; return true">Click here</a> for more information on air fees and taxes.</td>
+				</tr>
+			</tbody></table>			
+		</td>
+	</tr>
+</tbody></table>
+<!-- START MEANDAUR SEO -->
+<table><tbody><tr><td><a href="http://www.funjet.com/all-inclusive_vacation_package.asp?referrer=J25&amp;OAC=" class="se">F</a><a href="http://www.funjet.com/bahamas_vacation_package.asp?referrer=J25&amp;OAC=" class="se">u</a><a href="http://www.funjet.com/beach_vacation.asp?referrer=J25&amp;OAC=" class="se">n</a><a href="http://www.funjet.com/cancun_mexico_vacation_package.asp?referrer=J25&amp;OAC=" class="se">j</a><a href="http://www.funjet.com/cancun_vacation.asp?referrer=J25&amp;OAC=" class="se">e</a><a href="http://www.funjet.com/cancun_vacation_package.asp?referrer=J25&amp;OAC=" class="se">t</a><a href="http://www.funjet.com/caribbean_vacation_package.asp?referrer=J25&amp;OAC=" class="se">-</a><a href="http://www.funjet.com/caribbean_island_vacation.asp?referrer=J25&amp;OAC=" class="se">V</a><a href="http://www.funjet.com/family_vacation.asp?referrer=J25&amp;OAC=" class="se">a</a><a href="http://www.funjet.com/florida_vacation_package.asp?referrer=J25&amp;OAC=" class="se">c</a><a href="http://www.funjet.com/group_travel.asp?referrer=J25&amp;OAC=" class="se">a</a><a href="http://www.funjet.com/hawaii_vacation_package.asp?referrer=J25&amp;OAC=" class="se">t</a><a href="http://www.funjet.com/honeymoon_vacation_package.asp?referrer=J25&amp;OAC=" class="se">i</a><a href="http://www.funjet.com/jamaica_vacation_package.asp?referrer=J25&amp;OAC=" class="se">o</a><a href="http://www.funjet.com/las_vegas_vacation.asp?referrer=J25&amp;OAC=" class="se">n</a><a href="http://www.funjet.com/las_vegas_vacation_package.asp?referrer=J25&amp;OAC=" class="se">s</a><a href="http://www.funjet.com/last_minute_travel_deal.asp?referrer=J25&amp;OAC=" class="se">-</a><a href="http://www.funjet.com/cozumel_mexico.asp?referrer=J25&amp;OAC=" class="se">F</a><a href="http://www.funjet.com/mexico_vacation.asp?referrer=J25&amp;OAC=" class="se">u</a><a href="http://www.funjet.com/mexico_vacation_package.asp?referrer=J25&amp;OAC=" class="se">n</a><a href="http://www.funjet.com/orlando_vacation_package.asp?referrer=J25&amp;OAC=" class="se">j</a><a href="http://www.funjet.com/romantic_vacation.asp?referrer=J25&amp;OAC=" class="se">e</a><a href="http://www.funjet.com/sandals_resort.asp?referrer=J25&amp;OAC=" class="se">t</a><a href="http://www.funjet.com/travel_to_mexico.asp?referrer=J25&amp;OAC=" class="se">.</a><a href="http://www.funjet.com/tropical_island_vacations.asp?referrer=J25&amp;OAC=" class="se">c</a><a href="http://www.funjet.com/tropical_getaway.asp?referrer=J25&amp;OAC=" class="se">o</a><a href="http://www.funjet.com/walt_disney_world_vacation_package.asp?referrer=J25&amp;OAC=" class="se">m</a></td></tr></tbody></table>
+<!-- END MEANDAUR SEO-->
+
+
 
 
 </body></html>
