@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the orb.com privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212063406id_/http%3A//www.orb.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orb.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307232218id_/http%3A//www.orb.com/aboutUs/privacy) for the most accurate reproduction.*
 
-# Orb Networks :: Privacy
+# Orb Networks :: AboutUs :: Privacy
 
 Thank you for visiting this Internet Web site located under the universal resource locator at www.orb.com (the “Site”). This privacy policy explains the policies implemented throughout Orb Networks (“Orb”) governing Orb’s collection, use and disclosure of your personally identifiable information provided to Orb via this Site. 
 
@@ -46,9 +46,9 @@ Orb is committed to protecting the privacy needs of children and we encourage pa
 If you have any questions about anything in this privacy policy, or about collection of personally identifiable information via this Site, please direct any questions regarding the above statement to us at [privacy@orb.com](mailto:privacy@orb.com). 
 
 Privacy Officer  
-Orb, Inc. 32980 Alvarado Niles Rd.  
-Union City, CA 94587 Tel: 510.489.4792 E-Mail: [privacy@orb.com](mailto:privacy@orb.com)
+Orb, Inc. 6425 Christie Ave.  
+Emeryville, CA 94608 Tel: 510.489.4792 E-Mail: [privacy@orb.com](mailto:privacy@orb.com)
 
-This Privacy policy was last updated: Oct 11, 2004 
+This Privacy policy was last updated: February 14, 2004 
 
-This Privacy policy is effective as of: October 11, 2004 
+This Privacy policy is effective as of: Nov 1, 2004 
