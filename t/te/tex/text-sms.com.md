@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the text-sms.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609185714id_/http%3A//www.text-sms.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the text-sms.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209024228id_/http%3A//www.text-sms.com/privacy.htm) for the most accurate reproduction.*
 
 # Text-SMS - Privacy Policy
 
