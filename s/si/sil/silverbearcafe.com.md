@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silverbearcafe.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603081220id_/http%3A//silverbearcafe.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silverbearcafe.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305170525id_/http%3A//www.silverbearcafe.com/privacy_statement.html) for the most accurate reproduction.*
 
 # The Silver Bear Cafe Privacy Statement
 
@@ -19,7 +19,7 @@ All such information is gathered globally rather than individually, and no infor
 
 No personal information is collected by The Silver Bear Cafe from visitors to the our website, when viewing pages, or when navigating password protected area. We also do not collect or harvest the EMail addresses of people who EMail us directly. We only use them to respond to your queries. 
 
-When joining The Silver Bear Cafe, the personal information provided will be made available to the fufillment department for the sole purpose of managing their reward compensation and emailing members with Silver Bear Cafe related information only.
+When joining The Silver Bear Cafe, the personal information provided will be made available to the fufillment department for the sole purpose of managing their reward compensation and emailing members with Silver Bear Cafe related information only. 
 
 Except as provided for above, Any personal information collected will not be disclosed to any third party. 
 
@@ -28,7 +28,7 @@ Except as provided for above, Any personal information collected will not be dis
 
 ###  Children's Guidelines 
 
-Currently this site has no visible links that are unsuitable for children.
+Currently this site has no visible links that are unsuitable for children. 
 
 We also require personal information, in the form of a Name and EMail address in order to obtain our members services. For these reasons, children age 13 and under are not knowingly allowed to become members of the The Silver Bear Cafe website, and thus create or join a Net Ring provided by our service. 
 
