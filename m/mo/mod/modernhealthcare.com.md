@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the modernhealthcare.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602040555id_/http%3A//www.modernhealthcare.com/About/PrivacyPolicy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernhealthcare.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217234503id_/http%3A//www.modernhealthcare.com/About/PrivacyPolicy.php3) for the most accurate reproduction.*
 
 # - Modern Healthcare - Your Source for Weekly Healthcare Business News
 
-This is the web site of _Modern Healthcare_. Our postal address is 740 Rush Street, Chicago, IL 60611-2590. We can be reached via e-mail at [ MHCedit@aol.com](mailto:MHCedit@aol.com) or you can reach us by telephone at 312-649-5200. 
+This is the web site of _Modern Healthcare_. Our postal address is 740 Rush Street, Chicago, IL 60611-2590. We can be reached via e-mail at [mheditorial@crain.com](mailto:mheditorial@crain.com) or you can reach us by telephone at 312-649-5200. 
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address. 
 
