@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the royallepage.ca privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331193233id_/http%3A//www.royallepage.ca/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royallepage.ca privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216204342id_/http%3A//royallepage.ca/privacy/index.htm) for the most accurate reproduction.*
 
 # Royal LePage - Canada's Real Estate PortalTM
 
-You are here:  [Home](https://web.archive.org/web/20010331193233id_/http%3A//www.royallepage.ca/index.htm) | **Privacy Policy**
+You are here:  [Home](https://web.archive.org/web/20011216204342id_/http%3A//royallepage.ca/index.htm) | **Privacy Policy**
 
 **Privacy Policy**
 
@@ -32,10 +32,6 @@ In order to enter a contest, Royal LePage requires that you submit a limited amo
 
 We may also share information attained from contest entries with Royal LePage sales representatives, who may contact you. This will be posted on the contest entry form if applicable.
 
-**HomeFind Property Search Forms:**
-
-By completing the Royal LePage HomeFind Property Search form, you are requesting that a Royal LePage sales representative contact you with information on selected properties. The information you provide to us when completing the HomeFind Property Search Form, will be directed to a Royal LePage sales representative, who will contact you by the method (email, telephone or mail) selected by you.
-
 **Consent:**
 
 By using any of these services, you consent to the collection and use of personal information, as described in this policy. Where required by law, an acknowledgment of that consent will be included in the form you are asked to complete. You may also withdraw your consent at any time. If you do not give consent, or you later withdraw it, you may not be able to receive certain services that rely on the collection and use of personal information.
@@ -52,6 +48,10 @@ Third parties provide some of the services on the Royal LePage web site. Please 
 
 This web site contains hyperlinks to web sites operated by parties other than Royal LePage. Please be aware that these sites may record personal information and other data according to their own privacy policies. We encourage you to review any privacy policies or notices posted on those linked sites. 
 
+**Third Party Cookies**
+
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+
 **Contacting Us:**
 
 If you have questions or concerns about our privacy policy, please contact us at **[info@royallepage.ca](mailto:info@royallepage.ca)**.
@@ -62,4 +62,4 @@ Royal LePage may disclose your personally identifiable information if required t
 
 Royal LePage reserves the right to modify this policy at any time. Changes will be posted on this page, so we encourage you to return to this page to review this policy and keep informed of any changes.
 
-You are here:  [Home](https://web.archive.org/web/20010331193233id_/http%3A//www.royallepage.ca/index.htm) | **Privacy Policy**
+You are here:  [Home](https://web.archive.org/web/20011216204342id_/http%3A//royallepage.ca/index.htm) | **Privacy Policy**
