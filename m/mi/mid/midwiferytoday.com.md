@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the midwiferytoday.com privacy policy that was archived on 2001-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010628011232id_/http%3A//www.midwiferytoday.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midwiferytoday.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205105101id_/http%3A//midwiferytoday.com/company/privacy.htm) for the most accurate reproduction.*
 
-# Midwifery Today's Privacy Policy
+# Privacy Policy
 
-### How to Contact Us
+## How to Contact Us
 
 This website belongs to Midwifery Today, Inc.
 
-Our postal address is:
+Our postal address is
 
 Midwifery Today, Inc.  
 P.O. Box 2672  
 Eugene, OR 97402-0223  
 U.S.A. 
 
-Our email address is:
+Our email address is
 
-Our telephone numbers are:
+Our telephone numbers are
 
-| U.S. and Canada |   | 1-800-743-0974  
+U.S. and Canada|  | 1-800-743-0974  
 ---|---|---  
-Worldwide |   | +1 541-344-7438  
-Fax |   | +1 541-344-1422  
+Worldwide|  | +1 541-344-7438  
+Fax|  | +1 541-344-1422  
   
 ## General Information
 
@@ -48,7 +48,7 @@ Your postal mailing address may be rented to companies that Midwifery Today beli
 
 ## Our Use of Cookies
 
-When you log in to our discussion forums at: [www.midwiferytoday.com/forums](https://web.archive.org/forums)
+When you log in to our discussion forums at
 
 for the first time, a cookie is placed on the hard drive of your local computer. This cookie stores your username and password so that you do not need to log in again the next time you use the forums. This cookie also stores the date of your last visit as well as any preferences you have set for the configuration of the forums on your computer. Your username and password are deleted from the cookie each time you log out of the forums. Cookies are not used to track your movement or perform any function other than to enhance your use of the forums. Cookies must be enabled in your browser if you want to post a message to the forums, but you may disable cookies in your browser and still read the messages.
 
@@ -69,9 +69,7 @@ If we fail to resolve the problem to your satisfaction, you may also contact any
   * The Direct Marketing Association's Committee on Ethical Business Practices
 
 
-
   * The Federal Trade Commission
-
 
 
   * Your state or local chapter of the Better Business Bureau
@@ -80,15 +78,3 @@ If we fail to resolve the problem to your satisfaction, you may also contact any
   * Your state or local consumer protection office
 
 
-
-
-  
-  
-If you have questions or need other assistance, please contact Midwifery Today at: 
-
-Midwifery Today, Inc.  
-PO Box 2672-350  
-Eugene, OR 97402 USA  
-541-344-7438  
-Orders only:1-800-743-0974  
-Fax: 541-344-1422
