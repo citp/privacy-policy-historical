@@ -1,0 +1,1389 @@
+<!--The following is the downloaded HTML source of the shawfloors.com privacy policy that was archived on 2003-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030618064317id_/http%3A//www.shawfloors.com/aboutShaw/FooterIndex/PrivacyPolicy.asp) for the most accurate reproduction.-->
+
+<html><head>
+<title>Shaw Floors: Privacy Policy</title>
+
+<link rel="stylesheet" href="/img/assets/139/style.css" type="text/css">
+
+<meta name="description" acontent="Privacy Policy">
+<meta name="keywords" content="">
+
+
+<script language="JavaScript"><!--
+
+var wpid = 4;
+var directory = ''
+
+var wpid = 4;
+
+var NS4 = (document.layers) ? 1 : 0;
+var IE4 = (document.all) ? 1 : 0;
+var ver4 = (NS4 || IE4);
+window.updatefield = 0;
+
+if(top.name.length == 0 || top.name == "MainFrame" || top.name.indexOf("eGmain") == 0) {
+	top.name = "eGmain" + wpid;
+}
+
+function ow(loc, name, width, height, replace, statusbar, scrollbars)
+{
+// this function opens a window
+	if(!width) width = 540;
+	if(!height) height = 560;
+	if(!name.length) name = "unknown";
+	if(!replace) name += uniqid();
+	if (name == "admin") {
+		hostname = window.location.hostname;
+		i = 0;
+		while (hostname.indexOf(".") > -1 && i < 3) {
+			hostname = hostname.replace(/\./, "_");
+			i++;
+		}
+		name = "eG_" + hostname + directory.replace(/\//g, "_") + "_" + name;
+		name = name.replace(/-/,"_");
+	} else {
+		name = "eG_" + window.name + "_" + name;
+	}
+	
+	xpos = (screen.width - width)/2;
+	ypos = (screen.height - height)/2;
+	
+	wi = window.open(loc, name, 'width=' + width + ',height=' + height + ',resizable=1,status=1,menubar=0,scrollbars=1,screenX='+xpos+',screenY='+ypos+",left="+xpos+",top="+ypos);
+	if(ver4) wi.focus();
+	return(wi);
+}
+
+function NewWizard(loc,width,height)
+{
+	xpos = (screen.width - width)/2;
+	ypos = (screen.height - height)/2;
+		
+	wi = window.open(loc, 'newwindow' + uniqid(), 'width=' + width + ',height=' + height + ',resizable=1,status=0,menubar=0,scrollbars=1,screenX='+xpos+',screenY='+ypos+",left="+xpos+",top="+ypos);
+	if(ver4) wi.focus();
+}
+
+function NewBrowseWindow(loc,width,height)
+{
+	xpos = (screen.width - width)/2;
+	ypos = (screen.height - height)/2;
+		
+	wi = window.open(loc, 'egBrowseWindow', 'width=' + width + ',height=' + height + ',resizable=1,status=0,menubar=0,scrollbars=1,screenX='+xpos+',screenY='+ypos+",left="+xpos+",top="+ypos);
+	if(ver4) wi.focus();
+}
+
+function uniqid()
+{
+        var t = new Date();
+	var m = t.getTime();
+	return(m % 90000);
+}
+
+function getRef(name)
+{	
+	name = "eG" + name + wpid;
+	return(window.open("",name));
+}
+
+function BamfTo(name, loc, focus)
+{
+	rf = getRef(name);
+	rf.location = loc;
+	if(focus && ver4) rf.focus();
+}
+
+function BamfSize(loc,x,y) { ow(loc,"bamfsize",x,y,0); }
+function AdminPanel(loc) { ow(loc,"admin",700,500,1); }
+function NewWindow(loc,w,h,close) { ow(loc,"newwindow",w, h,close); }
+function NewWindowName(loc,name,w,h,close) { ow(loc,name,w,h,close); }
+function bamf(loc) { ow(loc,"justbamf",400,100,0); }
+function BamfHelp(loc) { ow(loc,"bamfhelp",400,300,1); }
+function BamfLink(loc) { self.location = loc; }
+function BamfPanel(loc) { ow(loc,"bamfpanel",300,500,0); }
+function BamfNewPanel(loc) { BamfPanel(loc); }
+function BamfPicker(loc,w,h,field) {
+	if(!w) w = 350;
+	if(!h) h = 250;
+	window.updatefield = field;
+	wr = ow(loc,"picker",w,h,0);
+}
+function CloseBamf() { return true; } 
+function PullDownStart() { return true; }
+function MsMenuInit() { if(IE4) MsMenuInit2(); }
+function SetCookie(Name,Val) { document.cookie = Name + "=" + Val + ";expires=Wed, 23-Dec-2000 03:24:00 GMT;path=/;domain=.egrail.com;"; }
+function setcookie(Name,Val,MyDate) { document.cookie = Name + "=" + Val + ";expires=" + MyDate + ";path=/;domain=.egrail.com;"; }
+function setcookie2(Name,Val,MyDate,Domain) { document.cookie = Name + "=" + Val + ";expires=" + MyDate + ";path=/;domain=" + Domain + ";"; }
+function setcookie3(Name,Val,MyDate,Domain,Path) { document.cookie = Name + "=" + Val + ";expires=" + MyDate + ";path=" + Path + ";domain=" + Domain + ";"; }
+function setsessioncookie(Name,Val,Domain,Path) { document.cookie = Name + "=" + Val + ";path=" + Path + ";domain=" + Domain + ";"; }
+
+function OpenWindow(Loc) { 	
+	window.open(Loc); 
+}
+function ReplaceText(Pre, Post) {
+	if (!IE4) { alert("Sorry, the browser you are using does not support the functions needed\nto perform this action.  Currently they are only available in\nInternet Explorer 4 or later."); return; }	
+	var Selection;
+	var Current;
+	if (!document.selection) { alert("Please select an area of text, and try again."); return; }
+	Selection = document.selection.createRange();
+	Current = Selection.text;
+	if (Current == '') return;
+	Selection.text = Pre + Current + Post;
+	Selection.parentElement().focus();
+}
+function SpellCheck(Obj) {
+	var MyForm = document.forms[0];
+	var oval = MyForm.elements[Obj].value;
+	var ct = ow(directory + "/login.html?" + escape(Obj) + "=" + escape(oval) + "&FormSwitch=SpellCheck|" + escape(Obj),"spelling",400,400,1);
+	ct.focus();
+	return;
+}
+				
+function HiliteThis(Name, Image) { ChangeImage(Name, Image); return true; }
+function RestoreThis (Name, Image) { ChangeImage(Name, Image); return true; }
+function HiliteThread(Name, Image) { ChangeImage(Name, Image); }
+function RestoreThread(Name, Image) { ChangeImage(Name, Image); }
+						
+function ChangeImage(Name, Image) {
+	if (!document.images || Image == null) return false;
+	document.images[Name].src = Image;
+	return true;
+}
+
+
+function BamfMain(loc) {
+	self.location = loc;
+}
+
+
+function BamfMainPanel(loc) {
+        r = getRef("admin");
+        x = r.frames["egrail"]
+        if(x)
+                x.location = loc;
+        else
+                r.location = loc;
+}
+
+function GetFormVarsAsArgs(formname) {
+	if (!formname) formname = 0;
+	elements = document.forms[formname].elements;
+	args = '?';
+	for (i = 0; i < elements.length; i++) {
+		args += elements[i].name + '=' + escape(elements[i].value);
+		if (i+1 < elements.length) {
+                	args += '&';
+		}
+	}       
+	return(args);   
+}       
+
+
+// --></script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<script language="JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+ 
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+
+function gallery(fileName) {
+gallery_page = window.open("","myWindow","width=660,height=440,left=100,top=100,resizable=yes,scrollbars=yes,location=no,directories=no,status=no,menuabr=no,copyhistory=no");
+gallery_page.location.href = fileName;
+gallery_page.focus();
+}
+
+function swatches(fileName) {
+swatches_page = window.open("","myWindow","width=350,height=460,left=100,top=100,resizable=yes,scrollbars=yes,location=no,directories=no,status=no,menuabr=no,copyhistory=no");
+swatches_page.location.href = fileName;
+swatches_page.focus();
+}
+//-->
+</script>
+
+
+<script language="JavaScript"> <!--				
+
+var new_fieldname = ""
+
+function check(form,x)
+{
+	//If you would like to use this script please do not remove the next 4 lines
+	script_name = "Form Validator ver 2.0"
+	action =  "Checks Required, Integer and Date"
+	copyright = "(c) 1998 - Art Lubin / Artswork"
+	email = "perflunk@aol.com"
+	var set_up_var = doall(script_name, copyright, email)
+	var message = ""
+	var more_message = ""
+	var showmsg = "no"
+	if (set_up_var == 5872)
+	{
+		x = x - 1
+		for (var i = 0; i <= x; i++)
+			{
+	 			var messenger = form.elements[i].name
+				messenger = messenger.substring(0, 2)
+				var fieldname = form.elements[i].name
+				fieldname = fieldname.substring(2)
+
+					{
+						if (messenger == "r_")
+							{
+								more_message = r_check(form,x,fieldname,i)
+							}
+						else if (messenger == "i_")
+							{
+								more_message = i_check(form,x,fieldname,i)
+							}
+						else if (messenger == "d_")
+								{
+									more_message = d_check(form,x,fieldname,i)
+								}
+						else if (messenger == "e_")
+								{
+									more_message = e_check(form,x,fieldname,i)
+								}			
+							 if (more_message != "")
+	        {
+									if (message == "")
+										{
+											message = more_message
+											more_message=""
+										}
+									else
+										{
+			        message = message + "\n" + more_message
+											more_message=""
+										}
+	        }
+											
+						if (message > "")
+								{
+										showmsg = "yes"
+								}													
+						}	
+				}
+			
+		
+		//This code will prevent a submit if data is incoorect
+		if (showmsg == "yes")
+			{
+				alert("The following form field(s) were incomplete or incorrect:\n\n" + message + "\n\n Please complete or correct the form and submit again.")
+			}
+		else
+			{
+				form.submit()
+			}
+			
+			
+			//This code will just warn and then submit if OK is selected.
+		//if (showmsg == "yes")
+			//{
+				//if (confirm("The following form field(s) were incomplete or incorrect:\n\n" + message + "\n\n Please complete or correct the form and submit again."))
+				
+				//form.submit()
+			//}
+		//else
+			//{
+			//form.submit()
+			//}
+			
+					
+			
+		}
+	else
+		{
+			alert ("The copyright information has been changed. \n In order to use this javascript please keep the copyright information intact. \n\n Script Name: Form Validator ver 2.0 \n Copyright: (c) 1998 - Art Lubin / Artswork \n Email: perflunk@aol.com")
+		}
+}	
+
+function r_check(form,x,fieldname,i)
+	{
+		var msg_addition = ""
+		new_fieldname = fieldname
+		for (var y = 0; y <= x; y++)
+			{
+
+				if ((form.elements[y].type == "radio" || form.elements[y].type == "checkbox") && form.elements[y].name == new_fieldname && form.elements[y].checked == true)
+					{
+							msg_addition = ""
+							break
+					}
+				else if ((form.elements[y].type == "radio" || form.elements[y].type == "checkbox") && form.elements[y].name == new_fieldname && form.elements[y].checked == false)
+					{
+						msg_addition = form.elements[i].value
+					}
+
+			else if (form.elements[y].type == "select-one")
+							{
+								var l = form.elements[y].selectedIndex
+								if (form.elements[y].name == fieldname && form.elements[y].options[l].value != "")
+									{
+										msg_addition = ""
+										break
+									}
+								else if (form.elements[y].name == fieldname && form.elements[y].options[l].value == "")
+									{
+										
+										msg_addition = form.elements[i].value
+
+									}
+								}
+		 else if (form.elements[y].name == fieldname && form.elements[y].value == "" && form.elements[y].type != "radio" && form.elements[y].type != "checkbox" && form.elements[y].type != "select-one")
+							{
+								
+								msg_addition = form.elements[i].value
+								break
+							}
+				else if (form.elements[y].name == fieldname && form.elements[y].value != "" && form.elements[y].type != "radio" && form.elements[y].type != "checkbox" && form.elements[y].type != "select-one")
+							{
+								msg_addition = ""
+
+							}	
+				}
+			return(msg_addition)
+		}
+			
+			
+function i_check(form,x,fieldname,i)
+	{
+		for (var y = 0; y <= x; y++)
+			{
+				if (form.elements[y].name == fieldname)
+				break
+			}						
+		
+	var msg_addition = ""
+	var decimal = ""
+	inputStr = form.elements[y].value.toString()
+	if (inputStr == "")
+		{
+			msg_addition = form.elements[i].value
+		}
+	else
+		{
+			for (var c = 0; c < inputStr.length; c++)
+				{
+					var oneChar = inputStr.charAt(c)
+					if (c == 0 && oneChar == "-" || oneChar == "."  && decimal == "")
+							{
+								if (oneChar == ".")
+									{
+										decimal = "yes"
+									}
+								continue
+								
+							}
+								if (oneChar < "0" || oneChar > "9")
+									{
+										msg_addition = form.elements[i].value
+									}
+				}
+		}
+		return(msg_addition)
+	}	
+	
+	
+	//Email validation added 6/20/98
+	function e_check(form,x,fieldname,i)
+	{
+		for (var y = 0; y <= x; y++)
+			{
+				if (form.elements[y].name == fieldname)
+				break
+			}						
+		
+	var msg_addition = ""
+	period = ".";
+
+                
+                if (form.elements[y].value == "" || form.elements[y].value.indexOf ('@', 0) < 3)
+                        error = 1;
+																						
+																else
+                  {
+	                   test = form.elements[y].value.indexOf('.', form.elements[y].value.indexOf ('@', 0))
+										 if (test != -1)
+																					{
+																						error = 0;
+																					}
+																				else
+																				{
+	                    	 error=1;
+																				}
+                  }
+                if (error == 1)
+																	{
+               				msg_addition = form.elements[i].value
+																	}
+                else
+                 {
+								 		new_length = form.elements[y].value.length - test
+             if (new_length == 4 || new_length == 3 || (new_length >= 5 && form.elements[y].value.indexOf ('.', (test+1)) != -1))
+																						{
+																							msg_addition = ""
+																						}
+																					else
+																							msg_addition = form.elements[i].value;
+																	}
+	return(msg_addition)
+	}	
+
+	function d_check(form,x,fieldname,i)
+//date must be in MM/DD/YY format OR M/D/YY or a MIX of the two
+ {
+		for (var y = 0; y <= x; y++)
+			{
+				if (form.elements[y].name == fieldname)
+				break
+			}		
+			
+		var msg_addition = ""	
+		var sDate = form.elements[y].value
+		var int_or_not = isInteger(form.elements[y].value)
+		if (int_or_not == "true")
+			{
+				if ((!(form.elements[y].value.length >= 6)) || (!(form.elements[y].value.length <= 8)))
+   		{
+    		msg_addition = form.elements[i].value
+   		}
+  		else
+   		{
+					 var SlashlPos = form.elements[y].value.indexOf("/",0)
+						if (SlashlPos > 0 && SlashlPos <= 2)
+							{
+								if (SlashlPos == 1)
+									{
+										if (form.elements[y].value.charAt(0) < 1 || form.elements[y].value.charAt(0) > 9)
+											{
+												msg_addition = form.elements[i].value
+											}
+										else
+											{
+												if ((form.elements[y].value.charAt(0) == 1 || form.elements[y].value.charAt(0) == 3 || form.elements[y].value.charAt(0) == 5 || form.elements[y].value.charAt(0) == 7 || form.elements[y].value.charAt(0) == 8) && ((form.elements[y].value.charAt(2) == 0 && form.elements[y].value.charAt(3) == "/") || (form.elements[y].value.charAt(3) == "/" && form.elements[y].value.length >= 7) || (form.elements[y].value.charAt(1) == "/" && form.elements[y].value.charAt(2) == "/")))
+													{ 
+														msg_addition = form.elements[i].value
+													}
+												else if ((form.elements[y].value.charAt(0) == 1 || form.elements[y].value.charAt(0) == 3 || form.elements[y].value.charAt(0) == 5 || form.elements[y].value.charAt(0) == 7 || form.elements[y].value.charAt(0) == 8) && ((form.elements[y].value.charAt(2) >= 3 && form.elements[y].value.charAt(3) > 1) || (form.elements[y].value.charAt(2) == 0 && form.elements[y].value.charAt(3) == 0) || (form.elements[y].value.charAt(1) == "/" && (form.elements[y].value.charAt(3) != "/" && form.elements[y].value.charAt(4) != "/" && form.elements[y].value.charAt(5) != "/" && form.elements[y].value.charAt(6) != "/"))))
+													{ 
+														msg_addition = form.elements[i].value + "hi"
+													}
+												else if ((form.elements[y].value.charAt(0) == 1 || form.elements[y].value.charAt(0) == 3 || form.elements[y].value.charAt(0) == 5 || form.elements[y].value.charAt(0) == 7 || form.elements[y].value.charAt(0) == 8) && (((form.elements[y].value.charAt(2) > 3 && form.elements[y].value.charAt(3) != "/") || (((form.elements[y].value.charAt(1) == "/" && form.elements[y].value.charAt(4) == "/")) && ((form.elements[y].value.length == 6 || form.elements[y].value.length == 8)))) || form.elements[y].value.charAt(5) == "/"))
+													{
+														msg_addition = form.elements[i].value
+													}
+												else
+													{
+														if ((form.elements[y].value.charAt(0) == 2 && ((form.elements[y].value.charAt(2) == 0 && form.elements[y].value.charAt(3) == "/") || (form.elements[y].value.charAt(3) == "/" && form.elements[y].value.length >= 7) || (form.elements[y].value.charAt(1) == "/" && form.elements[y].value.charAt(2) == "/") || (form.elements[y].value.charAt(2) == 0 && form.elements[y].value.charAt(3) == 0) || (form.elements[y].value.charAt(1) == "/" && (form.elements[y].value.charAt(3) != "/" && form.elements[y].value.charAt(4) != "/" && form.elements[y].value.charAt(5) != "/" && form.elements[y].value.charAt(6) != "/")))))
+															{ 
+																msg_addition = form.elements[i].value
+															}
+														else if (form.elements[y].value.charAt(0) == 2 && ((form.elements[y].value.charAt(2) > 2 && form.elements[y].value.charAt(3) != "/") || (((form.elements[y].value.charAt(1) == "/" && form.elements[y].value.charAt(4) == "/") && ((form.elements[y].value.length == 6 || form.elements[y].value.length == 8)))) || form.elements[y].value.charAt(5) == "/"))
+															{ 
+																msg_addition = form.elements[i].value
+															}
+														else
+															{
+																if ((form.elements[y].value.charAt(0) == 4 || form.elements[y].value.charAt(0) == 6 || form.elements[y].value.charAt(0) == 9) && ((form.elements[y].value.charAt(2) == 0 && form.elements[y].value.charAt(3) == "/") || (form.elements[y].value.charAt(3) == "/" && form.elements[y].value.length >= 7) || (form.elements[y].value.charAt(1) == "/" && form.elements[y].value.charAt(2) == "/")))
+																	{ 
+																		msg_addition = form.elements[i].value
+																	}
+																else if ((form.elements[y].value.charAt(0) == 4 || form.elements[y].value.charAt(0) == 6 || form.elements[y].value.charAt(0) == 9) && ((form.elements[y].value.charAt(2) >= 3 && form.elements[y].value.charAt(3) > 0) || (form.elements[y].value.charAt(2) == 0 && form.elements[y].value.charAt(3) == 0) || (form.elements[y].value.charAt(1) == "/" && (form.elements[y].value.charAt(3) != "/" && form.elements[y].value.charAt(4) != "/" && form.elements[y].value.charAt(5) != "/" && form.elements[y].value.charAt(6) != "/"))))
+																	{ 
+																		msg_addition = form.elements[i].value
+																	}
+																else if ((form.elements[y].value.charAt(0) == 4 || form.elements[y].value.charAt(0) == 6 || form.elements[y].value.charAt(0) == 9) && (((form.elements[y].value.charAt(2) > 3 && form.elements[y].value.charAt(3) != "/") || ((form.elements[y].value.charAt(1) == "/" && form.elements[y].value.charAt(4) == "/") && ((form.elements[y].value.length == 6 || form.elements[y].value.length == 8)))) || form.elements[y].value.charAt(5) == "/"))
+																	{
+																		msg_addition = form.elements[i].value
+																	}
+															}
+													}
+											}
+									}
+								else
+									{
+										if (form.elements[y].value.charAt(0) > 1 || (form.elements[y].value.charAt(0) == 1 && form.elements[y].value.charAt(1) > 2) || (form.elements[y].value.charAt(0) == 0 && form.elements[y].value.charAt(1) == 0))
+											{
+												msg_addition = form.elements[i].value
+											}
+										else
+											{
+												if (((form.elements[y].value.charAt(0) == 0 && form.elements[y].value.charAt(1) == 1) || (form.elements[y].value.charAt(0) == 0 && form.elements[y].value.charAt(1) == 3) || (form.elements[y].value.charAt(0) == 0 && form.elements[y].value.charAt(1) == 5) || (form.elements[y].value.charAt(0) == 0 && form.elements[y].value.charAt(1) == 7) || (form.elements[y].value.charAt(0) == 0 && form.elements[y].value.charAt(1) == 8) || (form.elements[y].value.charAt(0) == 1 && form.elements[y].value.charAt(1) == 0) || (form.elements[y].value.charAt(0) == 1 && form.elements[y].value.charAt(1) == 2)) && ((form.elements[y].value.charAt(3) == 0 && form.elements[y].value.charAt(4) == "/") || (form.elements[y].value.charAt(2) == "/" && form.elements[y].value.charAt(3) == "/") || (form.elements[y].value.charAt(2) == "/" && (form.elements[y].value.charAt(4) != "/" && form.elements[y].value.charAt(5) != "/" && form.elements[y].value.charAt(6) != "/" && form.elements[y].value.charAt(7) != "/"))))
+													{
+														msg_addition = form.elements[i].value		
+													}
+												else if (((form.elements[y].value.charAt(0) == 0 && form.elements[y].value.charAt(1) == 1) || (form.elements[y].value.charAt(0) == 0 && form.elements[y].value.charAt(1) == 3) || (form.elements[y].value.charAt(0) == 0 && form.elements[y].value.charAt(1) == 5) || (form.elements[y].value.charAt(0) == 0 && form.elements[y].value.charAt(1) == 7) || (form.elements[y].value.charAt(0) == 0 && form.elements[y].value.charAt(1) == 8) || (form.elements[y].value.charAt(0) == 1 && form.elements[y].value.charAt(1) == 0) || (form.elements[y].value.charAt(0) == 1 && form.elements[y].value.charAt(1) == 2)) && ((form.elements[y].value.charAt(3) >= 3 && form.elements[y].value.charAt(4) > 1) || (form.elements[y].value.charAt(3) == 0 && form.elements[y].value.charAt(4) == 0) || form.elements[y].value.length < 7))
+													{
+														msg_addition = form.elements[i].value
+													}
+												else if (((form.elements[y].value.charAt(0) == 0 && form.elements[y].value.charAt(1) == 1) || (form.elements[y].value.charAt(0) == 0 && form.elements[y].value.charAt(1) == 3) || (form.elements[y].value.charAt(0) == 0 && form.elements[y].value.charAt(1) == 5) || (form.elements[y].value.charAt(0) == 0 && form.elements[y].value.charAt(1) == 7) || (form.elements[y].value.charAt(0) == 0 && form.elements[y].value.charAt(1) == 8) || (form.elements[y].value.charAt(0) == 1 && form.elements[y].value.charAt(1) == 0) || (form.elements[y].value.charAt(0) == 1 && form.elements[y].value.charAt(1) == 2)) && ((form.elements[y].value.charAt(3) > 3 && form.elements[y].value.charAt(4) != "/")	|| ((form.elements[y].value.charAt(2) == "/" && form.elements[y].value.charAt(5) == "/" && form.elements[y].value.length == 7 || form.elements[y].value.charAt(6) == "/") || (form.elements[y].value.charAt(2) == "/" && form.elements[y].value.charAt(4) == "/" && (form.elements[y].value.length == 6 || form.elements[y].value.length == 8)))))
+													{
+														msg_addition = form.elements[i].value
+													}
+												else
+													{
+														if (((form.elements[y].value.charAt(0) == 0 && form.elements[y].value.charAt(1) == 2) && ((form.elements[y].value.charAt(3) == 0 && form.elements[y].value.charAt(4) == "/") || (form.elements[y].value.charAt(3) == 0 && form.elements[y].value.charAt(4) == 0)) || form.elements[y].value.length < 7) || (form.elements[y].value.charAt(2) == "/" && (form.elements[y].value.charAt(4) != "/" && form.elements[y].value.charAt(5) != "/" && form.elements[y].value.charAt(6) != "/" && form.elements[y].value.charAt(7) != "/")))
+															{
+																msg_addition = form.elements[i].value
+															}
+														else if ((form.elements[y].value.charAt(0) == 0 && form.elements[y].value.charAt(1) == 2) && ((form.elements[y].value.charAt(3) > 2 && form.elements[y].value.charAt(4) != "/") || ((form.elements[y].value.charAt(2) == "/" && form.elements[y].value.charAt(5) == "/" && form.elements[y].value.length == 7 || form.elements[y].value.charAt(6) == "/") || (form.elements[y].value.charAt(2) == "/" && form.elements[y].value.charAt(4) == "/" && (form.elements[y].value.length == 6 || form.elements[y].value.length == 8)))))
+															{
+																msg_addition = form.elements[i].value
+															}
+														else
+															{			
+																if (((form.elements[y].value.charAt(0) == 0 && form.elements[y].value.charAt(1) == 4) || (form.elements[y].value.charAt(0) == 0 && form.elements[y].value.charAt(1) == 6) || (form.elements[y].value.charAt(0) == 0 && form.elements[y].value.charAt(1) == 9) || (form.elements[y].value.charAt(0) == 1 && form.elements[y].value.charAt(1) == 1)) && ((form.elements[y].value.charAt(3) == 0 && form.elements[y].value.charAt(4) == "/") || (form.elements[y].value.charAt(2) == "/" && form.elements[y].value.charAt(3) == "/") || (form.elements[y].value.charAt(2) == "/" && (form.elements[y].value.charAt(4) != "/" && form.elements[y].value.charAt(5) != "/" && form.elements[y].value.charAt(6) != "/" && form.elements[y].value.charAt(7) != "/"))))
+																	{
+																		msg_addition = form.elements[i].value
+																	}
+																else if (((form.elements[y].value.charAt(0) == 0 && form.elements[y].value.charAt(1) == 4) || (form.elements[y].value.charAt(0) == 0 && form.elements[y].value.charAt(1) == 6) || (form.elements[y].value.charAt(0) == 0 && form.elements[y].value.charAt(1) == 9) || (form.elements[y].value.charAt(0) == 1 && form.elements[y].value.charAt(1) == 1)) && ((form.elements[y].value.charAt(3) >= 3 && form.elements[y].value.charAt(4) > 0) || (form.elements[y].value.charAt(3) == 0 && form.elements[y].value.charAt(4) == 0) || form.elements[y].value.length < 7))
+																	{
+																		msg_addition = form.elements[i].value
+																	}
+																else if (((form.elements[y].value.charAt(0) == 0 && form.elements[y].value.charAt(1) == 4) || (form.elements[y].value.charAt(0) == 0 && form.elements[y].value.charAt(1) == 6) || (form.elements[y].value.charAt(0) == 0 && form.elements[y].value.charAt(1) == 9) || (form.elements[y].value.charAt(0) == 1 && form.elements[y].value.charAt(1) == 1)) && ((form.elements[y].value.charAt(3) > 3 && form.elements[y].value.charAt(4) != "/") || ((form.elements[y].value.charAt(2) == "/" && form.elements[y].value.charAt(5) == "/" && form.elements[y].value.length == 7 || form.elements[y].value.charAt(6) == "/") || (form.elements[y].value.charAt(2) == "/" && form.elements[y].value.charAt(4) == "/" && (form.elements[y].value.length == 6 || form.elements[y].value.length == 8)))))
+																	{
+																		msg_addition = form.elements[i].value
+																	}
+															}
+													}		
+											}
+									}
+							}
+		    else
+							{
+								msg_addition = form.elements[i].value
+							}
+					}
+			}
+		else
+			{
+				msg_addition = form.elements[i].value
+			}
+		return(msg_addition)
+	}
+	
+	function isInteger(sDate)
+	{
+		var new_msg = "true"
+		inputStr = sDate.toString()
+		for (var i = 0; i < inputStr.length; i++)
+			{
+			var oneChar = inputStr.charAt(i)			
+			if ((oneChar < "0" || oneChar > "9") && oneChar != "/")
+					{
+						new_msg = "false"
+					}
+			}
+		return (new_msg)
+	}
+	
+	function doall(script_name, copyright, email)
+	{
+	var code = 0
+	var test = script_name + copyright + email
+	for (var a = 0; a < test.length; a++)
+		{
+		var each_char = test.charAt(a)
+		var x = asc(each_char)
+		code += x
+		}
+	return (code)
+	}
+	
+	function asc(each_char)
+		{
+		var n = 0
+			var char_str = charSetStr()
+			for (i = 0; i < char_str.length; i++)
+				{
+					if (each_char == char_str.substring(i, i+1))
+						{
+							break
+						}
+				}
+			return i + 32
+		}
+		
+		function charSetStr()
+			{
+				var str
+ 			str = ' !"#$%&' + "'" + '()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~'
+				return str
+			}
+	
+//--> 
+</script>
+<script language="JavaScript">
+<!--
+
+function multCarpet(){ 
+var SquareFeetTotal
+var SquareYardsTotal
+var WasteFactorFeet
+var WasteFactorYards
+var SquareFeetWasteTotal
+var SquareYardsWasteTotal
+
+
+	if ((document.calculator.Width1.value != null && document.calculator.Width1.value != 0) &&
+	(document.calculator.Length1.value != null && document.calculator.Length1.value != 0)) {
+	document.calculator.SquareFeet1.value = document.calculator.Width1.value * document.calculator.Length1.value;
+	document.calculator.SquareYards1.value = (document.calculator.Width1.value * document.calculator.Length1.value)/9;
+	
+	//Symetri KRS 12-16 Define Square Feet 
+	var SquareFeetTotal1 = document.calculator.SquareFeet1.value;
+	var SquareFeetTotal2 = document.calculator.SquareFeet2.value;
+	var SquareFeetTotal3 = document.calculator.SquareFeet3.value;
+	var SquareFeetTotal4 = document.calculator.SquareFeet4.value;
+	var SquareFeetTotal5 = document.calculator.SquareFeet5.value;
+	
+	//Symetri KRS 12-16 Define Square Yards 
+	var SquareYardsTotal1 = document.calculator.SquareYards1.value;
+	var SquareYardsTotal2 = document.calculator.SquareYards2.value;
+	var SquareYardsTotal3 = document.calculator.SquareYards3.value;
+	var SquareYardsTotal4 = document.calculator.SquareYards4.value;
+	var SquareYardsTotal5 = document.calculator.SquareYards5.value;
+	
+	//Symetri KRS 12-16 Get Total Square Feet
+	if (document.calculator.SquareFeet1.value != null && document.calculator.SquareFeet1.value != 0) {
+	var SquareFeetTotal1 = document.calculator.SquareFeet1.value;
+	SquareFeetTotal =  eval(SquareFeetTotal1);
+	}
+	if (document.calculator.SquareFeet2.value != null && document.calculator.SquareFeet2.value != 0) {
+	SquareFeetTotal += eval(SquareFeetTotal2);
+	}
+	if (document.calculator.SquareFeet3.value != null && document.calculator.SquareFeet3.value != 0) {
+	SquareFeetTotal +=  eval(SquareFeetTotal3);
+	}
+	if (document.calculator.SquareFeet4.value != null && document.calculator.SquareFeet4.value != 0) {
+	SquareFeetTotal += eval(SquareFeetTotal4);
+	}
+	if (document.calculator.SquareFeet5.value != null && document.calculator.SquareFeet5.value != 0) {
+	SquareFeetTotal += eval(SquareFeetTotal5);
+	}
+	
+	//Symetri KRS 12-16 Get Total Square Yards
+	if (document.calculator.SquareYards1.value != null && document.calculator.SquareYards1.value != 0) {
+	var SquareFeetTotal1 = document.calculator.SquareFeet1.value;
+	SquareYardsTotal =  eval(SquareYardsTotal1);
+	}
+	if (document.calculator.SquareYards2.value != null && document.calculator.SquareYards2.value != 0) {
+	SquareYardsTotal += eval(SquareYardsTotal2);
+	}
+	if (document.calculator.SquareYards3.value != null && document.calculator.SquareYards3.value != 0) {
+	SquareYardsTotal =  eval(SquareYardsTotal3);
+	}
+	if (document.calculator.SquareYards4.value != null && document.calculator.SquareYards4.value != 0) {
+	SquareYardsTotal += eval(SquareYardsTotal4);
+	}
+	if (document.calculator.SquareYards5.value != null && document.calculator.SquareYards5.value != 0) {
+	SquareYardsTotal += eval(SquareYardsTotal5);}
+
+	WasteFactorFeet = SquareFeetTotal * .1;
+	WasteFactorYards = SquareYardsTotal * .1;
+	
+	document.calculator.SquareFeetSubTotal.value = SquareFeetTotal;
+	document.calculator.SquareYardsSubTotal.value = SquareYardsTotal;
+	
+	SquareFeetWasteTotal = eval(SquareFeetTotal);
+	SquareFeetWasteTotal += eval(WasteFactorFeet);
+	
+	SquareYardsWasteTotal = eval(SquareYardsTotal);
+	SquareYardsWasteTotal += eval(WasteFactorYards);
+	
+	document.calculator.SquareFeetTotal.value = SquareFeetWasteTotal;
+	document.calculator.SquareYardsTotal.value = SquareYardsWasteTotal;
+	
+	}
+}
+
+function multCarpet2(){ 
+var SquareFeetTotal
+var SquareYardsTotal
+var WasteFactorFeet
+var WasteFactorYards
+var SquareFeetWasteTotal
+var SquareYardsWasteTotal
+
+	if ((document.calculator.Width2.value != null && document.calculator.Width2.value != 0) &&
+	(document.calculator.Length2.value != null && document.calculator.Length2.value != 0)) {
+	document.calculator.SquareFeet2.value = document.calculator.Width2.value * document.calculator.Length2.value;
+	document.calculator.SquareYards2.value = (document.calculator.Width2.value * document.calculator.Length2.value)/9;
+//Symetri KRS 12-16 Define Square Feet 
+	var SquareFeetTotal1 = document.calculator.SquareFeet1.value;
+	var SquareFeetTotal2 = document.calculator.SquareFeet2.value;
+	var SquareFeetTotal3 = document.calculator.SquareFeet3.value;
+	var SquareFeetTotal4 = document.calculator.SquareFeet4.value;
+	var SquareFeetTotal5 = document.calculator.SquareFeet5.value;
+	
+	//Symetri KRS 12-16 Define Square Yards 
+	var SquareYardsTotal1 = document.calculator.SquareYards1.value;
+	var SquareYardsTotal2 = document.calculator.SquareYards2.value;
+	var SquareYardsTotal3 = document.calculator.SquareYards3.value;
+	var SquareYardsTotal4 = document.calculator.SquareYards4.value;
+	var SquareYardsTotal5 = document.calculator.SquareYards5.value;
+	
+	//Symetri KRS 12-16 Get Total Square Feet
+	if (document.calculator.SquareFeet1.value != null && document.calculator.SquareFeet1.value != 0) {
+	var SquareFeetTotal1 = document.calculator.SquareFeet1.value;
+	SquareFeetTotal =  eval(SquareFeetTotal1);
+	}
+	if (document.calculator.SquareFeet2.value != null && document.calculator.SquareFeet2.value != 0) {
+	SquareFeetTotal += eval(SquareFeetTotal2);
+	}
+	if (document.calculator.SquareFeet3.value != null && document.calculator.SquareFeet3.value != 0) {
+	SquareFeetTotal +=  eval(SquareFeetTotal3);
+	}
+	if (document.calculator.SquareFeet4.value != null && document.calculator.SquareFeet4.value != 0) {
+	SquareFeetTotal += eval(SquareFeetTotal4);
+	}
+	if (document.calculator.SquareFeet5.value != null && document.calculator.SquareFeet5.value != 0) {
+	SquareFeetTotal += eval(SquareFeetTotal5);
+	}
+	
+	//Symetri KRS 12-16 Get Total Square Yards
+	if (document.calculator.SquareYards1.value != null && document.calculator.SquareYards1.value != 0) {
+	var SquareFeetTotal1 = document.calculator.SquareFeet1.value;
+	SquareYardsTotal =  eval(SquareYardsTotal1);
+	}
+	if (document.calculator.SquareYards2.value != null && document.calculator.SquareYards2.value != 0) {
+	SquareYardsTotal += eval(SquareYardsTotal2);
+	}
+	if (document.calculator.SquareYards3.value != null && document.calculator.SquareYards3.value != 0) {
+	SquareYardsTotal +=  eval(SquareYardsTotal3);
+	}
+	if (document.calculator.SquareYards4.value != null && document.calculator.SquareYards4.value != 0) {
+	SquareYardsTotal += eval(SquareYardsTotal4);
+	}
+	if (document.calculator.SquareYards5.value != null && document.calculator.SquareYards5.value != 0) {
+	SquareYardsTotal += eval(SquareYardsTotal5);}
+
+	WasteFactorFeet = SquareFeetTotal * .1;
+	WasteFactorYards = SquareYardsTotal * .1;
+	
+	document.calculator.SquareFeetSubTotal.value = SquareFeetTotal;
+	document.calculator.SquareYardsSubTotal.value = SquareYardsTotal;
+	
+	SquareFeetWasteTotal = eval(SquareFeetTotal);
+	SquareFeetWasteTotal += eval(WasteFactorFeet);
+	
+	SquareYardsWasteTotal = eval(SquareYardsTotal);
+	SquareYardsWasteTotal += eval(WasteFactorYards);
+	
+	document.calculator.SquareFeetTotal.value = SquareFeetWasteTotal;
+	document.calculator.SquareYardsTotal.value = SquareYardsWasteTotal;
+
+	}
+}
+function multCarpet3(){ 
+var SquareFeetTotal
+var SquareYardsTotal
+var WasteFactorFeet
+var WasteFactorYards
+var SquareFeetWasteTotal
+var SquareYardsWasteTotal
+
+	if ((document.calculator.Width3.value != null && document.calculator.Width3.value != 0) &&
+	(document.calculator.Length3.value != null && document.calculator.Length3.value != 0)) {
+	document.calculator.SquareFeet3.value = document.calculator.Width3.value * document.calculator.Length3.value;
+	document.calculator.SquareYards3.value = (document.calculator.Width3.value * document.calculator.Length3.value)/9;
+	
+	//Symetri KRS 12-16 Define Square Feet 
+	var SquareFeetTotal1 = document.calculator.SquareFeet1.value;
+	var SquareFeetTotal2 = document.calculator.SquareFeet2.value;
+	var SquareFeetTotal3 = document.calculator.SquareFeet3.value;
+	var SquareFeetTotal4 = document.calculator.SquareFeet4.value;
+	var SquareFeetTotal5 = document.calculator.SquareFeet5.value;
+	
+	//Symetri KRS 12-16 Define Square Yards 
+	var SquareYardsTotal1 = document.calculator.SquareYards1.value;
+	var SquareYardsTotal2 = document.calculator.SquareYards2.value;
+	var SquareYardsTotal3 = document.calculator.SquareYards3.value;
+	var SquareYardsTotal4 = document.calculator.SquareYards4.value;
+	var SquareYardsTotal5 = document.calculator.SquareYards5.value;
+	
+	//Symetri KRS 12-16 Get Total Square Feet
+	if (document.calculator.SquareFeet1.value != null && document.calculator.SquareFeet1.value != 0) {
+	var SquareFeetTotal1 = document.calculator.SquareFeet1.value;
+	SquareFeetTotal =  eval(SquareFeetTotal1);
+	}
+	if (document.calculator.SquareFeet2.value != null && document.calculator.SquareFeet2.value != 0) {
+	SquareFeetTotal += eval(SquareFeetTotal2);
+	}
+	if (document.calculator.SquareFeet3.value != null && document.calculator.SquareFeet3.value != 0) {
+	SquareFeetTotal +=  eval(SquareFeetTotal3);
+	}
+	if (document.calculator.SquareFeet4.value != null && document.calculator.SquareFeet4.value != 0) {
+	SquareFeetTotal += eval(SquareFeetTotal4);
+	}
+	if (document.calculator.SquareFeet5.value != null && document.calculator.SquareFeet5.value != 0) {
+	SquareFeetTotal += eval(SquareFeetTotal5);
+	}
+	
+	//Symetri KRS 12-16 Get Total Square Yards
+	if (document.calculator.SquareYards1.value != null && document.calculator.SquareYards1.value != 0) {
+	var SquareFeetTotal1 = document.calculator.SquareFeet1.value;
+	SquareYardsTotal =  eval(SquareYardsTotal1);
+	}
+	if (document.calculator.SquareYards2.value != null && document.calculator.SquareYards2.value != 0) {
+	SquareYardsTotal += eval(SquareYardsTotal2);
+	}
+	if (document.calculator.SquareYards3.value != null && document.calculator.SquareYards3.value != 0) {
+	SquareYardsTotal +=  eval(SquareYardsTotal3);
+	}
+	if (document.calculator.SquareYards4.value != null && document.calculator.SquareYards4.value != 0) {
+	SquareYardsTotal += eval(SquareYardsTotal4);
+	}
+	if (document.calculator.SquareYards5.value != null && document.calculator.SquareYards5.value != 0) {
+	SquareYardsTotal += eval(SquareYardsTotal5);}
+	
+	WasteFactorFeet = SquareFeetTotal * .1;
+	WasteFactorYards = SquareYardsTotal * .1;
+	
+	document.calculator.SquareFeetSubTotal.value = SquareFeetTotal;
+	document.calculator.SquareYardsSubTotal.value = SquareYardsTotal;
+	
+	SquareFeetWasteTotal = eval(SquareFeetTotal);
+	SquareFeetWasteTotal += eval(WasteFactorFeet);
+	
+	SquareYardsWasteTotal = eval(SquareYardsTotal);
+	SquareYardsWasteTotal += eval(WasteFactorYards);
+
+	document.calculator.SquareFeetTotal.value = SquareFeetWasteTotal;
+	document.calculator.SquareYardsTotal.value = SquareYardsWasteTotal;
+	
+	}
+}
+function multCarpet4(){ 
+var SquareFeetTotal
+var SquareYardsTotal
+var WasteFactorFeet
+var WasteFactorYards
+var SquareFeetWasteTotal
+var SquareYardsWasteTotal
+
+
+	if ((document.calculator.Width4.value != null && document.calculator.Width4.value != 0) &&
+	(document.calculator.Length4.value != null && document.calculator.Length4.value != 0)) {
+	document.calculator.SquareFeet4.value = document.calculator.Width4.value * document.calculator.Length4.value;
+	document.calculator.SquareYards4.value = (document.calculator.Width4.value * document.calculator.Length4.value)/9;
+	//Symetri KRS 12-16 Define Square Feet 
+	var SquareFeetTotal1 = document.calculator.SquareFeet1.value;
+	var SquareFeetTotal2 = document.calculator.SquareFeet2.value;
+	var SquareFeetTotal3 = document.calculator.SquareFeet3.value;
+	var SquareFeetTotal4 = document.calculator.SquareFeet4.value;
+	var SquareFeetTotal5 = document.calculator.SquareFeet5.value;
+	
+	//Symetri KRS 12-16 Define Square Yards 
+	var SquareYardsTotal1 = document.calculator.SquareYards1.value;
+	var SquareYardsTotal2 = document.calculator.SquareYards2.value;
+	var SquareYardsTotal3 = document.calculator.SquareYards3.value;
+	var SquareYardsTotal4 = document.calculator.SquareYards4.value;
+	var SquareYardsTotal5 = document.calculator.SquareYards5.value;
+	
+	//Symetri KRS 12-16 Get Total Square Feet
+	if (document.calculator.SquareFeet1.value != null && document.calculator.SquareFeet1.value != 0) {
+	var SquareFeetTotal1 = document.calculator.SquareFeet1.value;
+	SquareFeetTotal =  eval(SquareFeetTotal1);
+	}
+	if (document.calculator.SquareFeet2.value != null && document.calculator.SquareFeet2.value != 0) {
+	SquareFeetTotal += eval(SquareFeetTotal2);
+	}
+	if (document.calculator.SquareFeet3.value != null && document.calculator.SquareFeet3.value != 0) {
+	SquareFeetTotal +=  eval(SquareFeetTotal3);
+	}
+	if (document.calculator.SquareFeet4.value != null && document.calculator.SquareFeet4.value != 0) {
+	SquareFeetTotal += eval(SquareFeetTotal4);
+	}
+	if (document.calculator.SquareFeet5.value != null && document.calculator.SquareFeet5.value != 0) {
+	SquareFeetTotal += eval(SquareFeetTotal5);
+	}
+	
+	//Symetri KRS 12-16 Get Total Square Yards
+	if (document.calculator.SquareYards1.value != null && document.calculator.SquareYards1.value != 0) {
+	var SquareFeetTotal1 = document.calculator.SquareFeet1.value;
+	SquareYardsTotal =  eval(SquareYardsTotal1);
+	}
+	if (document.calculator.SquareYards2.value != null && document.calculator.SquareYards2.value != 0) {
+	SquareYardsTotal += eval(SquareYardsTotal2);
+	}
+	if (document.calculator.SquareYards3.value != null && document.calculator.SquareYards3.value != 0) {
+	SquareYardsTotal =  eval(SquareYardsTotal3);
+	}
+	if (document.calculator.SquareYards4.value != null && document.calculator.SquareYards4.value != 0) {
+	SquareYardsTotal += eval(SquareYardsTotal4);
+	}
+	if (document.calculator.SquareYards5.value != null && document.calculator.SquareYards5.value != 0) {
+	SquareYardsTotal += eval(SquareYardsTotal5);}
+	
+	WasteFactorFeet = SquareFeetTotal * .1;
+	WasteFactorYards = SquareYardsTotal * .1;
+	
+	document.calculator.SquareFeetSubTotal.value = SquareFeetTotal;
+	document.calculator.SquareYardsSubTotal.value = SquareYardsTotal;
+	
+	SquareFeetWasteTotal = eval(SquareFeetTotal);
+	SquareFeetWasteTotal += eval(WasteFactorFeet);
+	
+	SquareYardsWasteTotal = eval(SquareYardsTotal);
+	SquareYardsWasteTotal += eval(WasteFactorYards);
+
+	document.calculator.SquareFeetTotal.value = SquareFeetWasteTotal;
+	document.calculator.SquareYardsTotal.value = SquareYardsWasteTotal;
+	}
+}
+function multCarpet5(){ 
+var SquareFeetTotal
+var SquareYardsTotal
+var WasteFactorFeet
+var WasteFactorYards
+var SquareFeetWasteTotal
+var SquareYardsWasteTotal
+
+	if ((document.calculator.Width5.value != null && document.calculator.Width5.value != 0) &&
+	(document.calculator.Length5.value != null && document.calculator.Length5.value != 0)) {
+	document.calculator.SquareFeet5.value = document.calculator.Width5.value * document.calculator.Length5.value;
+	document.calculator.SquareYards5.value = (document.calculator.Width5.value * document.calculator.Length5.value)/9;
+	//Symetri KRS 12-16 Define Square Feet 
+	var SquareFeetTotal1 = document.calculator.SquareFeet1.value;
+	var SquareFeetTotal2 = document.calculator.SquareFeet2.value;
+	var SquareFeetTotal3 = document.calculator.SquareFeet3.value;
+	var SquareFeetTotal4 = document.calculator.SquareFeet4.value;
+	var SquareFeetTotal5 = document.calculator.SquareFeet5.value;
+	
+	//Symetri KRS 12-16 Define Square Yards 
+	var SquareYardsTotal1 = document.calculator.SquareYards1.value;
+	var SquareYardsTotal2 = document.calculator.SquareYards2.value;
+	var SquareYardsTotal3 = document.calculator.SquareYards3.value;
+	var SquareYardsTotal4 = document.calculator.SquareYards4.value;
+	var SquareYardsTotal5 = document.calculator.SquareYards5.value;
+	
+	//Symetri KRS 12-16 Get Total Square Feet
+	if (document.calculator.SquareFeet1.value != null && document.calculator.SquareFeet1.value != 0) {
+	var SquareFeetTotal1 = document.calculator.SquareFeet1.value;
+	SquareFeetTotal =  eval(SquareFeetTotal1);
+	}
+	if (document.calculator.SquareFeet2.value != null && document.calculator.SquareFeet2.value != 0) {
+	SquareFeetTotal += eval(SquareFeetTotal2);
+	}
+	if (document.calculator.SquareFeet3.value != null && document.calculator.SquareFeet3.value != 0) {
+	SquareFeetTotal +=  eval(SquareFeetTotal3);
+	}
+	if (document.calculator.SquareFeet4.value != null && document.calculator.SquareFeet4.value != 0) {
+	SquareFeetTotal += eval(SquareFeetTotal4);
+	}
+	if (document.calculator.SquareFeet5.value != null && document.calculator.SquareFeet5.value != 0) {
+	SquareFeetTotal += eval(SquareFeetTotal5);
+	}
+	
+	//Symetri KRS 12-16 Get Total Square Yards
+	if (document.calculator.SquareYards1.value != null && document.calculator.SquareYards1.value != 0) {
+	var SquareFeetTotal1 = document.calculator.SquareFeet1.value;
+	SquareYardsTotal =  eval(SquareYardsTotal1);
+	}
+	if (document.calculator.SquareYards2.value != null && document.calculator.SquareYards2.value != 0) {
+	SquareYardsTotal += eval(SquareYardsTotal2);
+	}
+	if (document.calculator.SquareYards3.value != null && document.calculator.SquareYards3.value != 0) {
+	SquareYardsTotal =  eval(SquareYardsTotal3);
+	}
+	if (document.calculator.SquareYards4.value != null && document.calculator.SquareYards4.value != 0) {
+	SquareYardsTotal += eval(SquareYardsTotal4);
+	}
+	if (document.calculator.SquareYards5.value != null && document.calculator.SquareYards5.value != 0) {
+	SquareYardsTotal += eval(SquareYardsTotal5);}
+	
+	WasteFactorFeet = SquareFeetTotal * .1;
+	WasteFactorYards = SquareYardsTotal * .1;
+	
+	document.calculator.SquareFeetSubTotal.value = SquareFeetTotal;
+	document.calculator.SquareYardsSubTotal.value = SquareYardsTotal;
+	
+	SquareFeetWasteTotal = eval(SquareFeetTotal);
+	SquareFeetWasteTotal += eval(WasteFactorFeet);
+	
+	SquareYardsWasteTotal = eval(SquareYardsTotal);
+	SquareYardsWasteTotal += eval(WasteFactorYards);
+
+	
+	document.calculator.SquareFeetTotal.value = SquareFeetWasteTotal;
+	document.calculator.SquareYardsTotal.value = SquareYardsWasteTotal;
+	}
+}
+
+
+//-->
+</script>  
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('/img/assets/3591/HomeBtnMyRoomRO.gif','/img/assets/3591/HomeBtnMyColorRO.gif','/img/assets/3591/HomeBtnMyStyleRO.gif','/img/assets/3591/HomeBtnMyFloorRO.gif','/img/assets/3591/NavShoppingRollover.gif','/img/assets/3591/NavHomeRollover.gif','/img/assets/3591/NavHelpRollover.gif','/img/assets/3591/NavFloorChoicesRollover.gif','/img/assets/3591/NavFloorCareRollover.gif','/img/assets/3591/NavDesignCenterRollover.gif','/img/assets/3591/NavAboutShawRollover.gif')">
+
+<!-- HEADER -->
+<table width="100%" height="52" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td bgcolor="#FFFFFF" height="52" valign="top" align="left"><a href="/index.asp"><img src="/img/assets/3591/logo.gif" width="253" height="52" alt="" border="0"></a></td>
+		<td bgcolor="#FFFFFF" height="52" valign="top" align="left"><img src="/img/assets/3591/spacer.gif" width="124" height="52" alt="" border="0"></td>
+		<td bgcolor="#FFFFFF" height="52" valign="top" align="right"></td>
+	</tr>
+</tbody></table>
+<!-- END HEADER -->
+
+
+
+<script language="JavaScript">
+<!--
+function fwLoadMenus() {
+  if (window.fw_menu_0) return;
+  
+  // Design Center
+  window.fw_menu_0 = new Menu("root",152,16,"Verdana, Arial, Helvetica, sans-serif",11,"#2A164C","#ffffff","#F7F7E7","#A67C60");
+  fw_menu_0.addMenuItem("My Style","location='/DesignCenter/MyStyle.asp'");fw_menu_0.addMenuItem("My Color","location='/DesignCenter/MyColor.asp'");fw_menu_0.addMenuItem("My Room","location='/DesignCenter/MyRoom.asp'");fw_menu_0.addMenuItem("My Floor","location='/DesignCenter/MyFloor.asp'");
+  fw_menu_0.hideOnMouseOut=true;
+  
+  
+  // Floor Choices 
+  window.fw_menu_1 = new Menu("root",152,16,"Verdana, Arial, Helvetica, sans-serif",11,"#2A164C","#ffffff","#F7F7E7","#A67C60");
+  fw_menu_1.addMenuItem("Carpet","location='/FloorChoices/Carpet.asp'");fw_menu_1.addMenuItem("Area Rugs","location='/FloorChoices/AreaRugs.asp'");fw_menu_1.addMenuItem("Ceramic","location='/FloorChoices/Ceramics.asp'");fw_menu_1.addMenuItem("Hardwood","location='/FloorChoices/Hardwoods.asp'");fw_menu_1.addMenuItem("Laminate","location='/FloorChoices/Laminate.asp'");fw_menu_1.addMenuItem("Special Collections","location='/FloorChoices/SpecialCollections.asp'");
+  fw_menu_1.hideOnMouseOut=true;
+  
+  
+  // How to Choose 
+  window.fw_menu_2 = new Menu("root",152,16,"Verdana, Arial, Helvetica, sans-serif",11,"#2A164C","#ffffff","#F7F7E7","#A67C60");
+  fw_menu_2.addMenuItem("At The Store","location='/ShoppingExperience/AtTheStore.asp'");fw_menu_2.addMenuItem("Installation","location='/ShoppingExperience/Installation.asp'");fw_menu_2.addMenuItem("Where to Buy","location='/ShoppingExperience/WhereToBuy.asp'");fw_menu_2.addMenuItem("5-Star System","location='/ShoppingExperience/5StarSystem.asp'");fw_menu_2.addMenuItem("Special Features","location='/ShoppingExperience/SpecialFeatures.asp'");
+  fw_menu_2.hideOnMouseOut=true;
+  
+  
+  // Floor Care 
+  window.fw_menu_3 = new Menu("root",170,16,"Verdana, Arial, Helvetica, sans-serif",11,"#2A164C","#ffffff","#F7F7E7","#A67C60");
+  fw_menu_3.addMenuItem("Carpet Care","location='/FloorCare/CarpetCare.asp'");fw_menu_3.addMenuItem("Area Rug Care","location='/FloorCare/AreaRugCare.asp'");fw_menu_3.addMenuItem("Ceramic Care","location='/FloorCare/CeramicCare.asp'");fw_menu_3.addMenuItem("Hardwood Care","location='/FloorCare/HardwoodsCare.asp'");fw_menu_3.addMenuItem("Laminate Care","location='/FloorCare/LaminateCare.asp'");fw_menu_3.addMenuItem("Shaw Floor Care Products","location='/FloorCare/FloorCareProducts.asp'");
+  fw_menu_3.hideOnMouseOut=true;
+   
+      
+  // About Shaw 
+  window.fw_menu_4 = new Menu("root",180,16,"Verdana, Arial, Helvetica, sans-serif",11,"#2A164C","#ffffff","#F7F7E7","#A67C60");
+  fw_menu_4.addMenuItem("Shaw Introductions","location='/aboutShaw/Introductions.asp'");fw_menu_4.addMenuItem("Shaw Labels and Links","location='/aboutShaw/LabelsandLinks.asp'");fw_menu_4.addMenuItem("The Shaw Advantage","location='/aboutShaw/ShawAdvantage.asp'");fw_menu_4.addMenuItem("Transport and Distribution","location='/aboutShaw/TransportDistribution.asp'");fw_menu_4.addMenuItem("Employment","location='/aboutShaw/Employment.asp'");fw_menu_4.addMenuItem("Commercial/Contract","location='/aboutShaw/CommercialContract.asp'");fw_menu_4.addMenuItem("For Dealers","location='/aboutShaw/ForDealers.asp'");fw_menu_4.addMenuItem("Contact Shaw","location='/aboutShaw/Contact_Shaw.asp'");
+   fw_menu_4.hideOnMouseOut=true;
+   
+   
+  // Help 
+  window.fw_menu_5 = new Menu("root",100,16,"Verdana, Arial, Helvetica, sans-serif",11,"#2A164C","#ffffff","#F7F7E7","#A67C60");
+  fw_menu_5.addMenuItem("Site Map","location='/Help/SiteMap.asp'");
+  fw_menu_5.hideOnMouseOut=true;
+   
+
+fw_menu_1.restoreParam = 'restore_img.gif'
+  fw_menu_1.writeMenus();
+} // fwLoadMenus()
+
+//-->
+</script>
+<script language="JavaScript1.2" src="/img/assets/139/fw_menuReplace.js"></script>
+<script language="JavaScript1.2">fwLoadMenus();</script><span id="menuContainer"><div id="menuLayer0" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; background-color: rgb(166, 124, 96); width: 156px; height: 71px;">
+  <div id="menuLite0" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 69px; width: 154px; background-color: rgb(166, 124, 96);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg0" style="position: absolute; left: 1px; top: 1px; height: 68px; width: 153px; background-color: rgb(166, 124, 96);">
+<div id="menuItem0" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 152px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText0" style="position:absolute;left:11;top:1;color:#2A164C;">My Style&nbsp;</div>
+<div id="menuItemHilite0" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">My Style&nbsp;</div></div><div id="menuItem1" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 152px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText1" style="position:absolute;left:11;top:1;color:#2A164C;">My Color&nbsp;</div>
+<div id="menuItemHilite1" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">My Color&nbsp;</div></div><div id="menuItem2" style="position: absolute; left: 0px; top: 34px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 152px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText2" style="position:absolute;left:11;top:1;color:#2A164C;">My Room&nbsp;</div>
+<div id="menuItemHilite2" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">My Room&nbsp;</div></div><div id="menuItem3" style="position: absolute; left: 0px; top: 51px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 152px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText3" style="position:absolute;left:11;top:1;color:#2A164C;">My Floor&nbsp;</div>
+<div id="menuItemHilite3" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">My Floor&nbsp;</div></div>	  <div id="focusItem0" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+<div id="menuLayer1" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; background-color: rgb(166, 124, 96); width: 156px; height: 105px;">
+  <div id="menuLite1" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 103px; width: 154px; background-color: rgb(166, 124, 96);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg1" style="position: absolute; left: 1px; top: 1px; height: 102px; width: 153px; background-color: rgb(166, 124, 96);">
+<div id="menuItem4" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 152px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText4" style="position:absolute;left:11;top:1;color:#2A164C;">Carpet&nbsp;</div>
+<div id="menuItemHilite4" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Carpet&nbsp;</div></div><div id="menuItem5" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 152px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText5" style="position:absolute;left:11;top:1;color:#2A164C;">Area Rugs&nbsp;</div>
+<div id="menuItemHilite5" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Area Rugs&nbsp;</div></div><div id="menuItem6" style="position: absolute; left: 0px; top: 34px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 152px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText6" style="position:absolute;left:11;top:1;color:#2A164C;">Ceramic&nbsp;</div>
+<div id="menuItemHilite6" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Ceramic&nbsp;</div></div><div id="menuItem7" style="position: absolute; left: 0px; top: 51px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 152px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText7" style="position:absolute;left:11;top:1;color:#2A164C;">Hardwood&nbsp;</div>
+<div id="menuItemHilite7" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Hardwood&nbsp;</div></div><div id="menuItem8" style="position: absolute; left: 0px; top: 68px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 152px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText8" style="position:absolute;left:11;top:1;color:#2A164C;">Laminate&nbsp;</div>
+<div id="menuItemHilite8" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Laminate&nbsp;</div></div><div id="menuItem9" style="position: absolute; left: 0px; top: 85px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 152px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText9" style="position:absolute;left:11;top:1;color:#2A164C;">Special Collections&nbsp;</div>
+<div id="menuItemHilite9" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Special Collections&nbsp;</div></div>	  <div id="focusItem1" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+<div id="menuLayer2" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; background-color: rgb(166, 124, 96); width: 156px; height: 88px;">
+  <div id="menuLite2" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 86px; width: 154px; background-color: rgb(166, 124, 96);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg2" style="position: absolute; left: 1px; top: 1px; height: 85px; width: 153px; background-color: rgb(166, 124, 96);">
+<div id="menuItem10" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 152px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText10" style="position:absolute;left:11;top:1;color:#2A164C;">At The Store&nbsp;</div>
+<div id="menuItemHilite10" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">At The Store&nbsp;</div></div><div id="menuItem11" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 152px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText11" style="position:absolute;left:11;top:1;color:#2A164C;">Installation&nbsp;</div>
+<div id="menuItemHilite11" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Installation&nbsp;</div></div><div id="menuItem12" style="position: absolute; left: 0px; top: 34px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 152px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText12" style="position:absolute;left:11;top:1;color:#2A164C;">Where to Buy&nbsp;</div>
+<div id="menuItemHilite12" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Where to Buy&nbsp;</div></div><div id="menuItem13" style="position: absolute; left: 0px; top: 51px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 152px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText13" style="position:absolute;left:11;top:1;color:#2A164C;">5-Star System&nbsp;</div>
+<div id="menuItemHilite13" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">5-Star System&nbsp;</div></div><div id="menuItem14" style="position: absolute; left: 0px; top: 68px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 152px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText14" style="position:absolute;left:11;top:1;color:#2A164C;">Special Features&nbsp;</div>
+<div id="menuItemHilite14" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Special Features&nbsp;</div></div>	  <div id="focusItem2" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+<div id="menuLayer3" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; background-color: rgb(166, 124, 96); width: 174px; height: 105px;">
+  <div id="menuLite3" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 103px; width: 172px; background-color: rgb(166, 124, 96);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg3" style="position: absolute; left: 1px; top: 1px; height: 102px; width: 171px; background-color: rgb(166, 124, 96);">
+<div id="menuItem15" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 170px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText15" style="position:absolute;left:11;top:1;color:#2A164C;">Carpet Care&nbsp;</div>
+<div id="menuItemHilite15" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Carpet Care&nbsp;</div></div><div id="menuItem16" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 170px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText16" style="position:absolute;left:11;top:1;color:#2A164C;">Area Rug Care&nbsp;</div>
+<div id="menuItemHilite16" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Area Rug Care&nbsp;</div></div><div id="menuItem17" style="position: absolute; left: 0px; top: 34px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 170px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText17" style="position:absolute;left:11;top:1;color:#2A164C;">Ceramic Care&nbsp;</div>
+<div id="menuItemHilite17" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Ceramic Care&nbsp;</div></div><div id="menuItem18" style="position: absolute; left: 0px; top: 51px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 170px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText18" style="position:absolute;left:11;top:1;color:#2A164C;">Hardwood Care&nbsp;</div>
+<div id="menuItemHilite18" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Hardwood Care&nbsp;</div></div><div id="menuItem19" style="position: absolute; left: 0px; top: 68px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 170px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText19" style="position:absolute;left:11;top:1;color:#2A164C;">Laminate Care&nbsp;</div>
+<div id="menuItemHilite19" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Laminate Care&nbsp;</div></div><div id="menuItem20" style="position: absolute; left: 0px; top: 85px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 170px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText20" style="position:absolute;left:11;top:1;color:#2A164C;">Shaw Floor Care Products&nbsp;</div>
+<div id="menuItemHilite20" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Shaw Floor Care Products&nbsp;</div></div>	  <div id="focusItem3" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+<div id="menuLayer4" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; background-color: rgb(166, 124, 96); width: 184px; height: 139px;">
+  <div id="menuLite4" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 137px; width: 182px; background-color: rgb(166, 124, 96);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg4" style="position: absolute; left: 1px; top: 1px; height: 136px; width: 181px; background-color: rgb(166, 124, 96);">
+<div id="menuItem21" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 180px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText21" style="position:absolute;left:11;top:1;color:#2A164C;">Shaw Introductions&nbsp;</div>
+<div id="menuItemHilite21" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Shaw Introductions&nbsp;</div></div><div id="menuItem22" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 180px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText22" style="position:absolute;left:11;top:1;color:#2A164C;">Shaw Labels and Links&nbsp;</div>
+<div id="menuItemHilite22" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Shaw Labels and Links&nbsp;</div></div><div id="menuItem23" style="position: absolute; left: 0px; top: 34px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 180px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText23" style="position:absolute;left:11;top:1;color:#2A164C;">The Shaw Advantage&nbsp;</div>
+<div id="menuItemHilite23" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">The Shaw Advantage&nbsp;</div></div><div id="menuItem24" style="position: absolute; left: 0px; top: 51px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 180px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText24" style="position:absolute;left:11;top:1;color:#2A164C;">Transport and Distribution&nbsp;</div>
+<div id="menuItemHilite24" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Transport and Distribution&nbsp;</div></div><div id="menuItem25" style="position: absolute; left: 0px; top: 68px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 180px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText25" style="position:absolute;left:11;top:1;color:#2A164C;">Employment&nbsp;</div>
+<div id="menuItemHilite25" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Employment&nbsp;</div></div><div id="menuItem26" style="position: absolute; left: 0px; top: 85px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 180px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText26" style="position:absolute;left:11;top:1;color:#2A164C;">Commercial/Contract&nbsp;</div>
+<div id="menuItemHilite26" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Commercial/Contract&nbsp;</div></div><div id="menuItem27" style="position: absolute; left: 0px; top: 102px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 180px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText27" style="position:absolute;left:11;top:1;color:#2A164C;">For Dealers&nbsp;</div>
+<div id="menuItemHilite27" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">For Dealers&nbsp;</div></div><div id="menuItem28" style="position: absolute; left: 0px; top: 119px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 180px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText28" style="position:absolute;left:11;top:1;color:#2A164C;">Contact Shaw&nbsp;</div>
+<div id="menuItemHilite28" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Contact Shaw&nbsp;</div></div>	  <div id="focusItem4" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+<div id="menuLayer5" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; background-color: rgb(166, 124, 96); width: 104px; height: 20px;">
+  <div id="menuLite5" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 18px; width: 102px; background-color: rgb(166, 124, 96);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg5" style="position: absolute; left: 1px; top: 1px; height: 17px; width: 101px; background-color: rgb(166, 124, 96);">
+<div id="menuItem29" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 100px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText29" style="position:absolute;left:11;top:1;color:#2A164C;">Site Map&nbsp;</div>
+<div id="menuItemHilite29" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Site Map&nbsp;</div></div>	  <div id="focusItem5" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+</span>
+
+<!-- GLOBAL NAV -->		
+<!-- fwtable fwsrc="popUpMenu.png" fwbase="popUpMenu.gif" fwstyle="Dreamweaver" fwdocid = "742308039" fwnested="0" -->	
+
+	
+<table width="100%" height="1" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td class="Rule" height="1" valign="top" bgcolor="#A67C60"><img src="/img/assets/3591/spacer.gif" height="1" width="750" alt="" border="0"></td>
+	</tr>
+</tbody></table>
+<!-- START Main Navigation -->		
+<table height="33" background="/img/assets/3591/NavBackground.gif" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td class="Rule" width="20" height="33" valign="top"><img src="/img/assets/3591/spacer.gif" width="20" height="33" alt="" border="0"></td>
+		<!-- Home Button -->	
+		<td class="Rule" width="1" height="33" valign="top"><img src="/img/assets/3591/NavDividers.gif" width="1" height="33" alt="" border="0"></td>
+		<td class="Rule" width="86" height="33" valign="top"><a href="/index.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Home','','/img/assets/3591/NavHomeRollover.gif',1)"><img name="Home" border="0" src="/img/assets/3591/NavHome.gif" width="86" height="33"></a></td>
+		<!-- Design Center Button -->	
+		<td class="Rule" width="1" height="33" valign="top"><img src="/img/assets/3591/NavDividers.gif" width="1" height="33" alt="" border="0"></td>
+		<td class="Rule" width="86" height="33" valign="top"><a href="/DesignCenter/DesignCenter.asp" onmouseout="FW_startTimeout();" onmouseover="window.FW_showMenu(window.fw_menu_0,108,86);MM_swapImage('Design Center','','/img/assets/3591/NavDesignCenterRollover.gif',1)"><img name="Design Center" border="0" src="/img/assets/3591/NavDesignCenter.gif" width="86" height="33"></a></td>
+		<!-- Floor Choices Button -->	
+		<td class="Rule" width="1" height="33" valign="top"><img src="/img/assets/3591/NavDividers.gif" width="1" height="33" alt="" border="0"></td>	
+		<td class="Rule" width="86" height="33" valign="top"><a href="/FloorChoices/FloorChoices.asp" onmouseout="FW_startTimeout();" onmouseover="window.FW_showMenu(window.fw_menu_1,195,86);MM_swapImage('Floor Choices','','/img/assets/3591/NavFloorChoicesRollover.gif',1)"><img name="Floor Choices" border="0" src="/img/assets/3591/NavFloorChoices.gif" width="86" height="33"></a></td>
+		<!-- Shopping Experience Button -->	
+		<td class="Rule" width="1" height="33" valign="top"><img src="/img/assets/3591/NavDividers.gif" width="1" height="33" alt="" border="0"></td>
+		<td class="Rule" width="86" height="33" valign="top"><a href="/ShoppingExperience/ShoppingExperience.asp" onmouseout="FW_startTimeout();" onmouseover="window.FW_showMenu(window.fw_menu_2,282,86);MM_swapImage('Shopping Experience','','/img/assets/3591/NavShoppingRollover.gif',1)"><img name="Shopping Experience" border="0" src="/img/assets/3591/NavShopping.gif" width="86" height="33"></a></td>
+		<!-- Floor Care Button -->	
+		<td class="Rule" width="1" height="33" valign="top"><img src="/img/assets/3591/NavDividers.gif" width="1" height="33" alt="" border="0"></td>
+		<td class="Rule" width="86" height="33" valign="top"><a href="/FloorCare/FloorCare.asp" onmouseout="FW_startTimeout();" onmouseover="window.FW_showMenu(window.fw_menu_3,369,86);MM_swapImage('Floor Care','','/img/assets/3591/NavFloorCareRollover.gif',1)"><img name="Floor Care" border="0" src="/img/assets/3591/NavFloorCare.gif" width="86" height="33"></a></td>
+		<!-- About Shaw Button -->	
+		<td class="Rule" width="1" height="33" valign="top"><img src="/img/assets/3591/NavDividers.gif" width="1" height="33" alt="" border="0"></td>
+		<td class="Rule" width="86" height="33" valign="top"><a href="/AboutShaw.asp" onmouseout="FW_startTimeout();" onmouseover="window.FW_showMenu(window.fw_menu_4,456,86);MM_swapImage('About Shaw','','/img/assets/3591/NavAboutShawRollover.gif',1)"><img name="About Shaw" border="0" src="/img/assets/3591/NavAboutShawSelected.gif" width="86" height="33"></a></td>
+		<!-- Help Button -->	
+		<td class="Rule" width="1" height="33" valign="top"><img src="/img/assets/3591/NavDividers.gif" width="1" height="33" alt="" border="0"></td>
+		<td class="Rule" width="86" height="33" valign="top"><a href="/Help/Help.asp" onmouseout="FW_startTimeout();" onmouseover="window.FW_showMenu(window.fw_menu_5,543,86);MM_swapImage('Help','','/img/assets/3591/NavHelpRollover.gif',1)"><img name="Help" border="0" src="/img/assets/3591/NavHelp.gif" width="86" height="33"></a></td>
+		<td class="Rule" width="1" height="33" valign="top"><img src="/img/assets/3591/NavDividers.gif" width="1" height="33" alt="" border="0"></td>
+		<td class="Rule" width="100%" height="33" valign="top"><img src="/img/assets/3591/spacer.gif" width="100" height="33" alt="" border="0"></td>
+	</tr>
+</tbody></table>
+<!-- END Main Navigation -->	
+<!-- END GLOBAL NAV -->
+
+<!-- SPACE BELOW NAV -->		
+<table width="100%" height="10" bgcolor="#FFFFFF" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td height="10" valign="top"><img src="/img/assets/3591/spacer.gif" width="40" height="10" alt="" border="0"></td>
+	</tr>
+</tbody></table>
+<!-- SPACE BELOW NAV -->
+
+<!-- BRAND/PHOTO/TITLE AREA -->
+<table width="100%" height="152" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td width="176" valign="top" align="left" rowspan="2" background="/img/assets/3591/SubBackgroundAboutShaw.jpg"><img src="/img/assets/3591/SubBrandAboutShaw.jpg" width="176" height="152" alt="" border="0"></td>
+		<td width="322" valign="top" align="left" background="/img/assets/3591/SubBackgroundAboutShaw.jpg"><img src="/img/assets/3591/SubBigWordAboutShaw.gif" width="322" height="117" alt="" border="0"></td>
+		<td valign="top" align="left" rowspan="2" background="/img/assets/3591/SubBackgroundAboutShaw.jpg"><img src="/img/assets/3591/spacer.gif" width="10" height="152" alt="" border="0"></td>
+		<td width="242" valign="top" align="left" rowspan="2" background="/img/assets/3591/SubBackgroundAboutShaw.jpg"><img src="/img/assets/3591/SubCirclesAboutShaw.jpg" width="242" height="152" alt="" border="0"></td>
+	</tr>
+	<tr>
+		<td width="322" valign="top" align="left" background="/img/assets/3591/SubBackgroundAboutShaw2.jpg"><img src="/img/assets/3591/SubHeaderAboutShaw.gif" width="322" height="35" alt="" border="0"></td>
+	</tr>
+</tbody></table>
+<!-- END BRAND/PHOTO/TITLE AREA -->  
+
+<!-- CONTENT AREA -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td bgcolor="97B797" width="160" valign="top" align="left"><!-- START SUBMENU --><table width="160" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="160" valign="top" align="left">
+<div class="subNavL1"><a href="/aboutShaw/Introductions.asp" class="subNavL1">Shaw Introductions</a></div>
+<div class="subNavL1"><a href="/aboutShaw/LabelsandLinks.asp" class="subNavL1">Shaw Labels and Links</a></div>
+<div class="subNavL1"><a href="/aboutShaw/ShawAdvantage.asp" class="subNavL1">The Shaw Advantage</a></div>
+<div class="subNavL1"><a href="/aboutShaw/TransportDistribution.asp" class="subNavL1">Transport and Distribution</a></div>
+<div class="subNavL1"><a href="/aboutShaw/Employment.asp" class="subNavL1">Employment</a></div>
+<div class="subNavL1"><a href="/aboutShaw/CommercialContract.asp" class="subNavL1">Commercial/Contract</a></div>
+<div class="subNavL1"><a href="/aboutShaw/ForDealers.asp" class="subNavL1">For Dealers</a></div>
+<div class="subNavL1"><a href="/aboutShaw/Contact_Shaw.asp" class="subNavL1">Contact Shaw</a></div>
+
+</td></tr>
+<tr><td><img src="/img/assets/3591/spacer.gif" width="160" height="10" alt="" border="0"></td></tr></tbody></table><!-- END SUBMENU --></td>
+		
+				<!-- MARGIN - LEFT CONTENT -->
+			<td bgcolor="#FFFFFF" width="16" valign="top" align="left"><img src="/img/assets/3591/spacer.gif" width="16" height="10" alt="" border="0"></td>
+		<!-- END MARGIN - LEFT CONTENT -->
+		
+		<!-- CONTENT -->
+			<td bgcolor="#FFFFFF" valign="top" align="left">
+				<table border="0" cellspacing="0" cellpadding="0">
+					<tbody><tr><td valign="top" align="left"><!-- space before content area --><img src="/img/assets/3591/spacer.gif" width="403" height="20" alt="" border="0"></td></tr>
+					<tr><td valign="top" align="left"><div class="head">Shaw Industries, Inc. Privacy Policy<br><br></div></td></tr>
+				</tbody></table>
+				
+				<table border="0" cellspacing="0" cellpadding="0">
+					<tbody><tr><td valign="top" align="left"><div class="subhead"></div></td></tr>
+					<tr><td valign="top" align="left"><div class="body"><p>Shaw Industries, Inc. is committed to respecting the privacy of all our visitors to our Web Site. We believe it is important you know how we treat the information about you we receive on the Internet. Although we track the total number of visitor to each of our sites in an aggregate form to allow us to update and improve our sites, personally identifiable information is not extracted in this process.<br><br>Shaw Industries does, however, make use of a technology called cookies, in order to personalize the site to your specific needs. A cookie is a tiny element of data that a web site can send to your browser, which may then be stored on your hard drive so we can recognize you when you return. <br><br>Shaw Industries does collect personal identifiable data, such as names, addresses, e-mail, addresses, and the like, from you. This information is used by Shaw Industries to conduct business with you and is not shared with other organizations for commercial purposes. <br><br>Shaw Industries will respond to visitors who send us e-mail to particular addresses, for example, regarding advertising, partnering, or employment opportunities. Shaw Industries will use the information submitted in those e-mail's only to respond to the purpose specified by the sender. <br><br>Shaw Industries does not sell or release the information gathered on our site to any third parties. All information gathered here will be used only by Shaw Industries for internal marketing analysis and to improve our products, services and web sites. <br><br>We reserve the right to change this policy at any time by notifying guests of the existence of a new privacy policy. This policy is specific to this site. <br><br><b>OUR SECURITY POLICY</b><br>Online security is important to us, so we have taken precautions to make the entire experience safe and secure using the most sophisticated security available. <br>Some security measures include: Secure Sockets Layer protocol (SSL) - The most advanced security system available on the Internet. SSL helps protect your Internet communications through server authentication, encryption and data integrity. All personal information sent over SSL pages is encrypted so that it cannot be read as it is transmitted. <br></p><ul><li>User name and password protection - Bars unwanted parties from viewing or tampering with your information. </li><li>Fire Wall Protection - Prevents "hackers" from directly linking their computer systems to Shaw's, disallowing any attempt to manipulate, change, erase, or damage your data which we keep inside the firewall.</li></ul><br><br>© Shaw Industries, Inc. 2002 <br><br>All rights reserved.<p></p><br><br></div></td></tr>
+				</tbody></table>
+				<table border="0" cellspacing="0" cellpadding="0">
+					<tbody><tr><td valign="top" align="left"><div class="subhead"></div></td></tr>
+					<tr><td valign="top" align="left"><div class="body"><br><br></div></td></tr>
+				</tbody></table>
+				<table border="0" cellspacing="0" cellpadding="0">
+					<tbody><tr><td valign="top" align="left"><div class="subhead"></div></td></tr>
+					<tr><td valign="top" align="left"><div class="body"><br><br></div></td></tr>
+				</tbody></table>
+				<table border="0" cellspacing="0" cellpadding="0">
+					<tbody><tr><td valign="top" align="left"><div class="subhead"></div></td></tr>
+					<tr><td valign="top" align="left"><div class="body"><br><br></div></td></tr>
+				</tbody></table>
+				<table border="0" cellspacing="0" cellpadding="0">
+					<tbody><tr><td valign="top" align="left"><div class="subhead"></div></td></tr>
+					<tr><td valign="top" align="left"><div class="body"><br><br></div></td></tr>
+				</tbody></table>
+				<table border="0" cellspacing="0" cellpadding="0">
+					<tbody><tr><td valign="top" align="left"><div class="subhead"></div></td></tr>
+					<tr><td valign="top" align="left"><div class="body"><br><br></div></td></tr>
+				</tbody></table>
+
+				<table border="0" cellspacing="0" cellpadding="0">
+					<tbody><tr><td valign="top" align="left"><!-- space after content area --><img src="/img/assets/3591/spacer.gif" width="10" height="30" alt="" border="0"><br></td></tr>
+				</tbody></table>
+		<!-- END CONTENT -->
+		
+		<!-- MARGIN - RIGHT CONTENT -->
+			</td><td bgcolor="#FFFFFF" width="10" valign="top" align="left"><img src="/img/assets/3591/spacer.gif" width="10" height="10" alt="" border="0"></td>
+		<!-- END MARGIN - RIGHT CONTENT -->
+		
+			
+		<!-- DOTTED LINE DIVIDER -->
+			<td bgcolor="#FFFFFF" width="1" valign="top" align="left" background="/img/assets/3591/lineDottedBG.gif"><img src="/img/assets/3591/WhiteSquare.gif" width="1" height="20" alt="" border="0"></td>
+		<!-- END DOTTED LINE DIVIDER -->
+		
+		<!-- MARGIN - LEFT RELATED INFO -->
+			<td bgcolor="#FFFFFF" width="10" valign="top" align="left"><img src="/img/assets/3591/spacer.gif" width="10" height="10" alt="" border="0"></td>
+		<!-- END MARGIN - LEFT RELATED INFO -->
+		
+		<!-- RELATED INFO -->
+			<td bgcolor="#FFFFFF" width="140" valign="top" align="left">
+				<img src="/img/assets/3591/spacer.gif" width="10" height="20" alt="" border="0"><br>
+							<!-- Start: Include About Shaw Inspirations If They Exist -->
+						
+			<!-- End: Include About Shaw Inspirations If They Exist -->  
+				<img src="/img/assets/3591/spacer.gif" width="10" height="10" alt="" border="0"><br>
+							<table width="140" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td width="140" height="21" valign="top" align="left" colspan="5"><img src="/img/assets/3591/HeaderBoxShortcuts.gif" width="140" height="21" alt="" border="0"></td>
+				</tr>
+				
+				<tr>
+					<td bgcolor="#A67C60" width="1" valign="top" align="left"><img src="/img/assets/3591/spacer.gif" width="1" height="10" alt="" border="0"></td>
+					<td bgcolor="#FFFFFF" width="6" valign="top" align="left"><img src="/img/assets/3591/spacer.gif" width="6" height="10" alt="" border="0"></td>
+					<td bgcolor="#FFFFFF" width="126" valign="top" align="left">
+						<img src="/img/assets/3591/spacer.gif" width="126" height="2" alt="" border="0"><br>
+						<div class="subhead10"></div>
+						<div class="body10">
+							<a href="/DesignCenter/DesignCenter.asp">Design Center</a><br><img src="/img/assets/3591/spacer.gif" width="10" height="6" alt="" border="0"><br><a href="/FloorCare/CarpetCare/CarpetSpotRemoval.asp">Spot and Spill Removal</a><br><img src="/img/assets/3591/spacer.gif" width="10" height="6" alt="" border="0"><br><a href="/ShoppingExperience/WhereToBuy.asp">Where to Buy</a><br><img src="/img/assets/3591/spacer.gif" width="10" height="6" alt="" border="0"><br><a href="/ShoppingExperience/WhereToBuy/KI_Rugs.asp">KI Rugs</a><br><img src="/img/assets/3591/spacer.gif" width="10" height="6" alt="" border="0"><br>	
+						</div>
+						
+										
+							
+
+				
+					</td>
+					
+					<td bgcolor="#FFFFFF" width="6" valign="top" align="left"><img src="/img/assets/3591/spacer.gif" width="6" height="10" alt="" border="0"></td>
+					<td bgcolor="#A67C60" width="1" valign="top" align="left"><img src="/img/assets/3591/spacer.gif" width="1" height="10" alt="" border="0"></td>
+				</tr>
+				<tr>
+					<td class="Rule" bgcolor="#FFFFF" width="140" height="4" valign="top" align="left" colspan="5"><img src="/img/assets/3591/BoxBottom.gif" width="140" height="4" alt="" border="0"></td>
+				</tr>
+			</tbody></table>
+			<table width="140" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td width="140" height="24" valign="top" align="left"><img src="/img/assets/3591/spacer.gif" width="10" height="10" alt="" border="0"></td>
+				</tr>
+			</tbody></table>
+			</td>
+		<!-- END RELATED INFO -->
+		
+		<!-- MARGIN - RIGHT RELATED INFO -->
+			<td bgcolor="#FFFFFF" width="10" valign="top" align="left"><img src="/img/assets/3591/spacer.gif" width="10" height="10" alt="" border="0"></td>
+		<!-- END MARGIN - RIGHT RELATED INFO -->
+		
+	</tr>
+</tbody></table>
+
+
+<table width="100%" height="1" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td class="Rule" bgcolor="#A67C60" height="1" valign="top" align="left"><img src="/img/assets/3591/spacer.gif" width="10" height="1" alt="" border="0"></td>
+	</tr>
+</tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td bgcolor="#FFFFFF" width="10" valign="top" align="left"><img src="/img/assets/3591/spacer.gif" width="10" height="10" alt="" border="0"></td>
+		<td bgcolor="#FFFFFF" valign="top" align="left">
+			<div class="footer"><br>
+				<a href="/aboutShaw/FooterIndex/PrivacyPolicy.asp">Privacy Policy</a>
+- <a href="/aboutShaw/FooterIndex/TermsOfUse.asp">TermsAndConditions</a>
+<br>
+				© Copyright 2002, Shaw Industries, Inc., a <a href="http://www.berkshirehathaway.com/" target="_blank">Berkshire Hathaway</a> Company<br><br>
+
+
+
+			</div></td>
+	</tr>
+</tbody></table>
+
+
+
+
+
+
+
+</body></html>
