@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modells.com privacy policy that was archived on 2003-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030803022748id_/http%3A//www.modells.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modells.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603085939id_/http%3A//www.modells.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbody_privacy_txt) for the most accurate reproduction.*
 
 # Modell's Helpdesk
 
@@ -14,7 +14,7 @@ Global Sports Interactive, Inc. has created this Privacy Policy to inform you of
   6. The kind of security procedures that are in place to protect against the loss, misuse or alteration of information under Global Sport Interactive's control; and 
   7. How you can correct any inaccuracies in the information. 
 
-If you have questions or concerns regarding this statement, you should contact our Customer Service Department by email at [customersupport@modells.com](https://web.archive.org/helpdesk/index.jsp?display=store&subdisplay=contact) or by phone at 1-866-835-9129 . Visiting www.modells.com
+If you have questions or concerns regarding this statement, you should contact our Customer Service Department by email at [customersupport@modells.com](https://web.archive.org/helpdesk/index.jsp?display=store&subdisplay=contact) or by phone at 1-866-835-9129. Visiting www.modells.com
 
 Your IP address, browser and reference site domain name are logged every time you visit our site. This data is used strictly for the analysis of load information and maximizing the efficiency of our servers. Except as provided in this privacy policy, we will not share this data with anyone in any way.
 
@@ -56,7 +56,7 @@ Entering contests/sweepstakes
 
 Whenever we run a contest or sweepstakes relating to our site, it will be accompanied with the rules of the contest/sweepstakes. The rules for each contest/sweepstakes will also detail how the information gathered from you for entry into the contest/sweepstakes will be used. You will find the rules for each contest/sweepstakes by clicking the "rules" link accompanying each contest/sweepstakes. Additionally, we will post if this information will be shared with anyone in addition to those persons and entities provided for in this Privacy Policy, such as a third party sponsoring or managing the contest/sweepstakes.
 
-We may also contact you with promotional offers if you have entered one of our contests or sweepstakes. If you choose not to receive this free service when you enter a contest or sweepstakes, it will not affect your chances of winning. You can also opt out of this free service by unclicking the "I would like to receive emails about special promotions" box associated with each contest or sweepstakes, replying to any email and placing "REMOVE" in your subject line or notifying us that you want to unsubscribe to our free email services via email ([customersupport@modells.com](https://web.archive.org/helpdesk/index.jsp?display=store&subdisplay=contact)) or telephone 1-866-835-9129 .
+We may also contact you with promotional offers if you have entered one of our contests or sweepstakes. If you choose not to receive this free service when you enter a contest or sweepstakes, it will not affect your chances of winning. You can also opt out of this free service by unclicking the "I would like to receive emails about special promotions" box associated with each contest or sweepstakes, replying to any email and placing "REMOVE" in your subject line or notifying us that you want to unsubscribe to our free email services via email ([customersupport@modells.com](https://web.archive.org/helpdesk/index.jsp?display=store&subdisplay=contact)) or telephone 1-866-835-9129.
 
 E-mail to a Friend
 
@@ -92,4 +92,4 @@ If we are going to use your personally identifiable information in a manner diff
 
 Questions about our Policies
 
-If you have any questions regarding your privacy or any of our policies, please contact our Customer Service Department by email at [customersupport@modells.com](https://web.archive.org/helpdesk/index.jsp?display=store&subdisplay=contact) or by phone at 1-866-835-9129 .
+If you have any questions regarding your privacy or any of our policies, please contact our Customer Service Department by email at [customersupport@modells.com](https://web.archive.org/helpdesk/index.jsp?display=store&subdisplay=contact) or by phone at 1-866-835-9129.
