@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the active-domain.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201045322id_/http%3A//active-domain.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the active-domain.com privacy policy that was archived on 2002-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020403020514id_/http%3A//www.active-domain.com/privacy.htm) for the most accurate reproduction.*
 
-# Active-Domain.com
+# Domain name registration for $9.95/yr! Register or transfer low cost, cheap domain names at $9.95 with extensive free domain services.
 
 **Information Collection and Use**
 
@@ -38,7 +38,7 @@ This web site contains links to other sites. Please be aware that we are not res
 
 This website takes every precaution to protect our users’ information. When users submit sensitive information via the website, your information is protected both online and off-line. 
 
-When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just ‘surfing’. 
+When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry \- SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just ‘surfing’. 
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our office. Only employees who need the information to perform a specific job (for example, our billing staff or a customer service representative) are granted access to personally identifiable information. Our employees are regularly notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers’ information is protected. 
 
