@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mygradebook.com privacy policy that was archived on 2001-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010322221347id_/http%3A//learningnetwork.com/resources/privacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygradebook.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217092127id_/http%3A//learningnetwork.com/resources/privacyStatement.html) for the most accurate reproduction.*
 
 # LearningNetwork.com - Privacy Statement
 
@@ -133,6 +133,4 @@ If you have any questions about this privacy statement, the practices of Learnin
   * Write to us at: Learning Network, 575 Market Street, 17th Floor, San Francisco, CA 94105, or
   * Call us at: 1-800-323-4776
 
-  
-|   
----|---|---
+| 
