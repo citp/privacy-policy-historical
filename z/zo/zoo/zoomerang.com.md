@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoomerang.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204104700id_/http%3A//www.zoomerang.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoomerang.com privacy policy that was archived on 2001-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010614084436id_/http%3A//zoomerang.com/privacy/index.html) for the most accurate reproduction.*
 
 # Zoomerang | Privacy / Security
 
@@ -47,7 +47,7 @@ _Changes to this Privacy Policy_
 
 If Zoomerang wishes to change this policy, it will publish changes on this Web site before those changes will take effect. Zoomerang will also notify users of changes to this policy via electronic mail. As always, if you do not agree with Zoomerang's privacy policy, you have the option of requesting that we delete your personally identifiable information from the site. For more information policies, see our terms of agreement. 
 
-|  | [](https://web.archive.org/web/20001204104700id_/http%3A//www.zoomerang.com/join/member-subscriber.zgi)  
-[](https://web.archive.org/web/20001204104700id_/http%3A//www.zoomerang.com/about/index.html)  
-[](https://web.archive.org/web/20001204104700id_/http%3A//www.zoomerang.com/privacy/index.html)  
-[](https://web.archive.org/web/20001204104700id_/http%3A//www.zoomerang.com/support/index.zgi)
+|  | [](https://web.archive.org/web/20010614084436id_/http%3A//zoomerang.com/join/member-subscriber.zgi)  
+[](https://web.archive.org/web/20010614084436id_/http%3A//zoomerang.com/about/index.html)  
+[](https://web.archive.org/web/20010614084436id_/http%3A//zoomerang.com/privacy/index.html)  
+[](https://web.archive.org/web/20010614084436id_/http%3A//zoomerang.com/support/index.zgi)
