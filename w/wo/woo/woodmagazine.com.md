@@ -1,94 +1,50 @@
-> *The following text is extracted and transformed from the woodmagazine.com privacy policy that was archived on 1999-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19990419213545id_/http%3A//www.woodmagazine.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodmagazine.com privacy policy that was archived on 2000-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000620210259id_/http%3A//woodmagazine.com/privacy.html) for the most accurate reproduction.*
 
 # Meredith Corporation Online Privacy Statement
 
-> **Meredith Corporation  
->  Online Privacy Statement**
-> 
-> * * *
-> 
-> Since 1902, Meredith Corporation has focused on providing our customers with products and services that distinguish themselves on the basis of quality, customer service and value. Our Online Privacy Policies are designed to help us serve our customers while meeting their privacy expectations.
-> 
-> We are a member of the Direct Marketing Association (DMA) and Magazine Publishers of America (MPA) and support self-regulation by these industry associations. We believe this is the best way to maintain good customer service while addressing the privacy concerns of our customers. Also, we actively participate in the DMA Privacy Committee, the DMA Ethics Operating Committee, and the MPA New Media Committee. 
-> 
-> Additionally, we fully support and use the DMA Mail and Telephone Preference Services through which individuals may restrict the release of their names for marketing purposes.
-> 
-> When you register with our sites, enter contests or purchase items online, you may request that we remove your name from our marketing lists by sending an email message indicating your wish to restrict offers made to you. We are in the process of providing an opt-out feature near those areas where visitors supply individual information. 
-> 
-> Our Web sites automatically recognize some information about our visitors, including the company that provides their internet service. Our sites do not automatically recognize the name, address, e-mail address or similar information specific to an individual. Such identifying information is recorded only if you supply it to us via an e-mail, bulletin board message, or online form. Our "cookie" technology allows us to record how many times you visit our site and it helps us manage content. This information allows us to better serve visitors to the site and is not rented or sold to any other company. 
-> 
-> If you send a comment or request information from us via email, you will receive future
-> 
-> communication from us through email. People who do not wish to receive email messages from us may notify Meredith via email ([mercirc@mdp.com](mailto:mercirc@mdp.com)). 
-> 
-> If you contact us to order product, comment or request information and provide us with your postal mailing address, you’ll be added to our database to receive future mailings.
-> 
-> Meredith occasionally makes the lists of postal addresses volunteered on its Web site available to other carefully screened associations or companies whose products or services we think you may find of interest. We pre-screen all use of our information to avoid inappropriate use for our customers.
-> 
-> If you do not wish to receive such mailings, please copy your mailing label address exactly (or clip it out) and send your request to our Circulation Department at 1716 Locust Street, Des Moines, IA 50309-3023. Or you may contact us via email ([mercirc@mdp.com](mailto:mercirc@mdp.com)).
-> 
-> [Return to WOOD ONLINE Home Page](http://www.woodmagazine.com/index.html)
-> 
-> **Last updated: 12/05/97**
-> 
-> [**Copyright 1997**](https://web.archive.org/web/19980208131507id_/http%3A//www.woodmagazine.com/LEGCOP97.HTM) **, Meredith Corporation, all rights reserved**
-> **Meredith Corporation  
->  Online Privacy Statement**
-> 
-> * * *
-> 
-> Since 1902, Meredith Corporation has focused on providing our customers with products and services that distinguish themselves on the basis of quality, customer service and value. Our Online Privacy Policies are designed to help us serve our customers while meeting their privacy expectations.
-> 
-> We are a member of the Direct Marketing Association (DMA) and Magazine Publishers of America (MPA) and support self-regulation by these industry associations. We believe this is the best way to maintain good customer service while addressing the privacy concerns of our customers. Also, we actively participate in the DMA Privacy Committee, the DMA Ethics Operating Committee, and the MPA New Media Committee. 
-> 
-> Additionally, we fully support and use the DMA Mail and Telephone Preference Services through which individuals may restrict the release of their names for marketing purposes.
-> 
-> When you register with our sites, enter contests or purchase items online, you may request that we remove your name from our marketing lists by sending an email message indicating your wish to restrict offers made to you. We are in the process of providing an opt-out feature near those areas where visitors supply individual information. 
-> 
-> Our Web sites automatically recognize some information about our visitors, including the company that provides their internet service. Our sites do not automatically recognize the name, address, e-mail address or similar information specific to an individual. Such identifying information is recorded only if you supply it to us via an e-mail, bulletin board message, or online form. Our "cookie" technology allows us to record how many times you visit our site and it helps us manage content. This information allows us to better serve visitors to the site and is not rented or sold to any other company. 
-> 
-> If you send a comment or request information from us via email, you will receive future
-> 
-> communication from us through email. People who do not wish to receive email messages from us may notify Meredith via email ([mercirc@mdp.com](mailto:mercirc@mdp.com)). 
-> 
-> If you contact us to order product, comment or request information and provide us with your postal mailing address, you’ll be added to our database to receive future mailings.
-> 
-> Meredith occasionally makes the lists of postal addresses volunteered on its Web site available to other carefully screened associations or companies whose products or services we think you may find of interest. We pre-screen all use of our information to avoid inappropriate use for our customers.
-> 
-> If you do not wish to receive such mailings, please copy your mailing label address exactly (or clip it out) and send your request to our Circulation Department at 1716 Locust Street, Des Moines, IA 50309-3023. Or you may contact us via email ([mercirc@mdp.com](mailto:mercirc@mdp.com)).
-> 
-> [Return to WOOD ONLINE Home Page](http://www.woodmagazine.com/index.html)
-> 
-> **Last updated: 06/01/98**
-> 
-> © [Copyright](http://www.woodmagazine.com/cusserv/legalpol.html) 1998 [Meredith Corporation](http://www.home-and-family.com/). All Rights Reserved.
-> **Meredith Corporation  
->  Online Privacy Statement**
-> 
-> * * *
-> 
-> Since 1902, Meredith Corporation has focused on providing our customers with products and services that distinguish themselves on the basis of quality, customer service and value. Our Online Privacy Policies are designed to help us serve our customers while meeting their privacy expectations.
-> 
-> We are a member of the Direct Marketing Association (DMA) and Magazine Publishers of America (MPA) and support self-regulation by these industry associations. We believe this is the best way to maintain good customer service while addressing the privacy concerns of our customers. Also, we actively participate in the DMA Privacy Committee, the DMA Ethics Operating Committee, and the MPA New Media Committee. 
-> 
-> Additionally, we fully support and use the DMA Mail and Telephone Preference Services through which individuals may restrict the release of their names for marketing purposes.
-> 
-> When you register with our sites, enter contests or purchase items online, you may request that we remove your name from our marketing lists by sending an email message indicating your wish to restrict offers made to you. We are in the process of providing an opt-out feature near those areas where visitors supply individual information. 
-> 
-> Our Web sites automatically recognize some information about our visitors, including the company that provides their internet service. Our sites do not automatically recognize the name, address, e-mail address or similar information specific to an individual. Such identifying information is recorded only if you supply it to us via an e-mail, bulletin board message, or online form. Our "cookie" technology allows us to record how many times you visit our site and it helps us manage content. This information allows us to better serve visitors to the site and is not rented or sold to any other company. 
-> 
-> If you send a comment or request information from us via email, you will receive future
-> 
-> communication from us through email. People who do not wish to receive email messages from us may notify Meredith via email ([mercirc@mdp.com](mailto:mercirc@mdp.com)). 
-> 
-> If you contact us to order product, comment or request information and provide us with your postal mailing address, you’ll be added to our database to receive future mailings.
-> 
-> Meredith occasionally makes the lists of postal addresses volunteered on its Web site available to other carefully screened associations or companies whose products or services we think you may find of interest. We pre-screen all use of our information to avoid inappropriate use for our customers.
-> 
-> If you do not wish to receive such mailings, please copy your mailing label address exactly (or clip it out) and send your request to our Circulation Department at 1716 Locust Street, Des Moines, IA 50309-3023. Or you may contact us via email ([mercirc@mdp.com](mailto:mercirc@mdp.com)).
-> 
-> [Return to WOOD ONLINE Home Page](http://www.woodmagazine.com/index.html)
-> 
-> **Last updated: 06/01/98**
-> 
-> © [Copyright](http://www.woodmagazine.com/cusserv/legalpol.html) 1999 [Meredith Corporation](http://www.home-and-family.com/). All Rights Reserved.
+**Meredith Corporation Online Privacy Policy**
+
+**WOOD Online**
+
+Since 1902, Meredith Corporation has been committed to providing our customers with products and services that provide outstanding quality, customer service and value. Our Online Privacy Policy continues our commitment to serve you and to protecting your privacy online. This privacy statement discloses the privacy practices for the Better Homes and Gardens website. We do not sell or rent your e-mail address to any third party. 
+
+Please read the following policy to understand how your personal information will be treated. This policy may change from time to time in order to address new issues and reflect changes on our site so please check back periodically. By using this service after we post changes, you indicate your acceptance to those changes. 
+
+Children Under 13:
+
+KIDS: If you are under 13 years old, you should not submit any information to us without the consent of your parent or guardian. Always ask your parents for permission before sending any information about yourself to us - or anyone else - over the Internet. Never buy anything online without permission and don't forget to have your parents read this page. 
+
+PARENT/GUARDIAN: We strive to provide a safe online environment. However, to ensure the safety of your children and to monitor their activities, we encourage you to get involved when your kids go online, so you can be aware of what they are doing. We will not knowingly collect any personally identifiable information from children under 13 years of age. We do not market via our website or by direct marketing to children under 13 years of age. 
+
+Information We Collect: 
+
+Personally Identifiable Information
+
+In order to use certain features on our site, we will ask you to register. When you register, we collect personally identifiable information about you: your name, mailing address, e-mail address, user name and password, (and your phone number if you are using our auction services), and any other demographic information, such as income, age, schooling, you may have provided to us. In addition to registration, at other times we may ask you for personal information, including when you enter a sweepstakes or contest; when you enter an order or make a purchase; when you complete a survey; and when you report a problem with our site. We use this information to help us to make our sites more useful to you. 
+
+Our site will offer promotions by marketing partners. You will also be asked for personal information if you choose to participate in a program offered on our site by one of our marketing partners or an advertiser. You will know when a promotion on our site involves a marketing partner because that will always be disclosed. For instance, if you choose to participate in a sweepstakes promotion offered on our site, our co-sponsor will collect personal information from you from the entry form. The co-sponsors identity will be disclosed in the sweepstakes rules. Please be aware that this Privacy Policy does not apply to these third party promotions and you should read their Privacy Policy before participating. When you use our website, we also collect your IP address, browser type, domain name and access time, and keep records of this information. This information does not identify you personally, it is collected for aggregate only reporting on site activity used by us and our advertisers. For example, we may use this information to determine average visit length, unique visitors, and aggregate browser reports.
+
+When you post on message boards or discussion groups, you grant Meredith Corporation unrestricted use of that material, including your name and hometown. Please see our Terms of Agreement for more information. Users should be aware that personal information voluntarily disclosed on message boards and discussion groups can be collected and used by others and may result in unsolicited messages to you from other parties. 
+
+Cookies To help our site serve your needs better, we use cookies to store and sometimes track information. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Cookies assign a unique number that resides on your computer. Cookies allow us to keep track of your user name and password so you do not have to give us that information each time you visit our site. Cookies also allow us to make sure you do not see the same advertising over and over again. Advertisers on our site may use their own cookies. Although it is possible to decline cookies through your browser, you will experience difficulty viewing our site if you do so. 
+
+How Your Information Will Be Used: Our primary goal in collecting personal information is to provide you with a customized experience of our network of websites. We will e-mail you with messages and advertising which we think will be of interest to you. We will not disclose your e-mail address to any third party for their use, except to complete bidding transactions as part of our auction services. If you do not wish to receive e-mail messages and promotions from us click [here](http://www.home-and-family.com/registration/optout.html) to fill out the appropriate form. Whenever possible, we try to ensure that the banner advertising we deliver to you corresponds to your interests. The advertiser never has access to your e-mail address.
+
+Please note that partaking in some online activities will disclose your personally identifiable information to third parties, such as when you include your name and e-mail address in a message posting or when you order merchandise in the Shopping area. In these cases, your choice to disclose personally identifiable information is voluntary. Meredith Corporation may provide personal information to the extent necessary to comply with applicable laws, police investigations, or in legal proceedings where such information is relevant. We may also disclose account information in cases where we have reason to believe that disclosing this information is necessary to identify, contact or investigate or bring legal action against someone who may be violating our Visitor Agreement or may be causing injury to or interference with our rights or property, our other website users and their  
+rights or property, or anyone else who could be harmed by such activities. 
+
+Third Parties: We may share your personal information, with the exclusion of your e-mail address, with other companies that want to send marketing information to our customers. If we find that they offer products that we feel may be of interest to you we will allow it. If you do not wish to receive such mailings, please send your name and complete address to Circulation Department, Meredith Corporation, 1716 Locust Street, Des Moines, Iowa 50309-3023. When you make a purchase at our website or from a merchant linked to our site, the information you give, such as your credit card number and credit information is provided to the merchant to enable the transaction to take place. Merchants linked on our website have separate privacy and information collection practices from our Privacy Policy. 
+
+Promotions that run on our site may be sponsored by companies other than Meredith Corporation or may be co-sponsored by Meredith and another company. You will know when this happens because our co-sponsor will be identified in the promotion or in the rules if it is a contest or sweepstakes. Some or all data collected during a promotion may be shared with a sponsor and used by that sponsor for marketing. Many promotions offer opportunities to request additional information from sponsors. By requesting more information, you give us permission to transfer your personal information to the sponsors so they can fulfill your request. You can decide not to participate in a promotion if you don't want your data to be collected and used for marketing purposes. Please be aware that advertisements, including banner ads, and websites that have links on our site, may collect personally identifiable information about you. The information practices of those advertisers or websites linked to our site are not covered by this privacy policy. 
+
+Aggregated Information: We aggregate information on the user base for our site and share this with our advertisers. Of course, none of this information identifies you personally. We use this information to identify the most popular features on our sites and help our advertisers understand our audience. We also share aggregate information with our advertisers to make sure you get ads that are relevant to you. However, in these situations we do not disclose to these companies any information that could be used to personally identify you. From time to time, we may disclose aggregated information about our site to third parties, such as advertisers or business partners.
+
+Checking on Your Personal Information and Updating Your Account: If you would like to review, request an update of, or make a correction to any of the personal information we have obtained about you, please click [here](https://web.archive.org/web/20000620210259id_/http%3A//woodmagazine.com/members/update.html). 
+
+Security and Passwords: The personally identifiable information we collect is stored within our controlled database and we use standard, industry-wide procedures, such as firewalls and SSL (Secure Socket Layers) for credit card information. As effective as our security measures may be, no data transmission over the Internet can be guaranteed complete security. When you register on our site, you will select a password. You will need your password to gain access to your personal information. If you forget your password, simply click [here](http://www.woodmagazine.com/scgi/passwd_lookup/lookup.cgi?FNC=toPasswdLookUp__AsiteList2_html___3___3000), fill out the form and we will e-mail your password to the e-mail address associated with your account. 
+
+Terms of Use: Your use of this website is controlled by the [Terms of Use](https://web.archive.org/web/20000620210259id_/http%3A//woodmagazine.com/terms.html). Please read them carefully before registering at our website. 
+
+Policy Statement Changes: We reserve the right to change our Privacy Policy from time to time without prior notice. 
+
+**Copyright 1999[Meredith Corporation](http://www.home-and-family.com/). All rights reserved.**
