@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bollyvista.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604205152id_/http%3A//www.bollyvista.com/aboutus/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollyvista.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204222701id_/http%3A//www.bollyvista.com/aboutus/privacy.php) for the most accurate reproduction.*
 
 # Bollyvista.com : Privacy Statement
 
-[Home](https://web.archive.org/?PHPSESSID=0dc3ec2c6cd8c5fe8f372ea1e3b4723e) >> Privacy Statement 
+[Home](https://web.archive.org/?PHPSESSID=9bebab8bec203d216aa57e5186f88d76) >> Privacy Statement 
 
   
 **BOLLYVISTA.COM** is strongly committed to honoring the privacy of our visitors. This privacy statement discloses the information gathering and dissemination practices for this web site (http://www.bollyvista.com).
