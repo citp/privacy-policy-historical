@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsbc.co.uk privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205034049id_/http%3A//www.ukpersonal.hsbc.com/public/ukpersonal/personal_banking/legal_and_compliance/en/lgl_privacy_statement.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsbc.co.uk privacy policy that was archived on 2004-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040114134719id_/http%3A//www.ukpersonal.hsbc.com/public/ukpersonal/personal_banking/legal_and_compliance/en/lgl_privacy_statement.jhtml) for the most accurate reproduction.*
 
 # New Window: HSBC Bank plc: Privacy Statement
 
