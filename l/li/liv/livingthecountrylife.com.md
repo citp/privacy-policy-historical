@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livingthecountrylife.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207063641id_/http%3A//www.agriculture.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingthecountrylife.com privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412090119id_/http%3A//www.agriculture.com/privacy.htm) for the most accurate reproduction.*
 
 # Meredith Corporation Online Privacy Statement
 
