@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the machinerytrader.com privacy policy that was archived on 2003-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031114000951id_/http%3A//www.machinerytrader.com/info/privacy.asp%3Fguid%3Dr87k0400) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the machinerytrader.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609175517id_/http%3A//www.machinerytrader.com/info/privacy.asp%3Fguid%3D) for the most accurate reproduction.*
 
 # Machinery Trader Privacy Policy
 
