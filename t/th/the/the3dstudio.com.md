@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the3dstudio.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607204013id_/http%3A//the3dstudio.com/legal_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the3dstudio.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209102236id_/http%3A//www.the3dstudio.com/legal_privacy.asp) for the most accurate reproduction.*
 
 # The 3D Studio - Privacy Policy
 
@@ -21,7 +21,7 @@ Security
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
 
 Contacting Us  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, then please [contact us](https://web.archive.org/web/20020607204013id_/http%3A//the3dstudio.com/contactus.asp).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, then please [contact us](https://web.archive.org/web/20021209102236id_/http%3A//www.the3dstudio.com/contactus.asp).
 
 Links to Third Party Web Sites  
 The 3D Studio makes no representations whatsoever about any other web site which you may access through this site. When you access a web site outside of The 3D Studio, please understand that it is independent from The 3D Studio, and that The 3D Studio has no control over the content on that web site. In addition, a link to an outside web site does not mean that The 3D Studio endorses or accepts any responsibility for the content, or the use, of such web site. It is up to you to take precautions to ensure that whatever you select for your use is free of such items as viruses, worms, trojan horses and other items of a destructive nature. The 3D Studio makes no representation or warranty as to any third party products.
