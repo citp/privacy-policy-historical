@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northerntool.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603045322id_/http%3A//www.northerntool.com/custhelp/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northerntool.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201154607id_/http%3A//www.northerntool.com/custhelp/privacypolicy) for the most accurate reproduction.*
 
 # Northern Tool and Equipment - Customer Help - Privacy Policy
 
@@ -22,7 +22,7 @@ NorthernTool.com uses a third-party service provider (Coremetrics) to collect an
 
 **Opting Out**
 
-You may withdraw your personal information from Northern at any time. To withdraw your information [email](http://www.northerntool.com/talk2us/), or write us at: 
+You may withdraw your personal information from Northern at any time. To withdraw your information [email](http://www.northerntool.com/contactus/), or write us at: 
 
 ` Northern Tool and Equipment  
 Customer Service  
@@ -34,13 +34,13 @@ Burnsville, MN 55337-0219
 
 **Opting Out of Third-party Services**
 
-To learn more about Coremetrics, their privacy policies or how to opt-out of their services please go to: [www.coremetrics.com/privacy.html](http://www.coremetrics.com/consumer_opt_out/opt_main.html)
+To learn more about Coremetrics, their privacy policies or how to opt-out of their services please go to: [www.coremetrics.com/privacy.html](http://www.coremetrics.com/consumer_opt_out/opt_out_options.html#optoutnow)
 
 **Will Northern Tool & Equipment sell my email address?**
 
 Northern will not sell, trade, share or rent your email address to anyone. We believe that your email address is personal and should be kept that way. We use your email address to provide you with better customer service support, and to update you on Internet specials that you have requested. 
 
-If you purchase with us, your name may be exchanged with another company whose products and services may interest you. If you do not want your name exchanged, please let us know by [email](http://www.northerntool.com/talk2us/) or call 800-222-5381. You can also write us at: 
+If you purchase with us, your name may be exchanged with another company whose products and services may interest you. If you do not want your name exchanged, please let us know by [email](http://www.northerntool.com/contactus/) or call 800-222-5381. You can also write us at: 
 
 ` Northern Tool and Equipment  
 Customer Service  
