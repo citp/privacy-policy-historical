@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clevescene.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204185658id_/http%3A//clevescene.com/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clevescene.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607185620id_/http%3A//www.clevescene.com/about/privacy_policy.html) for the most accurate reproduction.*
 
 # Cleveland Scene | clevescene.com | About
 
