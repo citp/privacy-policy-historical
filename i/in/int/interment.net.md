@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interment.net privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603092711id_/http%3A//www.interment.net/statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interment.net privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201041136id_/http%3A//interment.net/statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement - Cemetery Records Online
 
@@ -6,26 +6,27 @@
 ---  
 **·** | 
 
-[United States](https://web.archive.org/web/20010603092711id_/http%3A//www.interment.net/us/index.htm)  
+[United States](https://web.archive.org/web/20011201041136id_/http%3A//interment.net/us/index.htm)  
   
-**·** | [Canada](https://web.archive.org/web/20010603092711id_/http%3A//www.interment.net/can/index.htm)  
-**·** | [Australia ](https://web.archive.org/web/20010603092711id_/http%3A//www.interment.net/aus/index.htm)  
-**·** | [New Zealand ](https://web.archive.org/web/20010603092711id_/http%3A//www.interment.net/nz/index.htm)  
-**·** | [Ireland](https://web.archive.org/web/20010603092711id_/http%3A//www.interment.net/ireland/index.htm)  
-**·** | [United Kingdom ](https://web.archive.org/web/20010603092711id_/http%3A//www.interment.net/uk/index.htm)  
-**·** | [Other Countries ](https://web.archive.org/web/20010603092711id_/http%3A//www.interment.net/other/index.htm)  
+**·** | [Canada](https://web.archive.org/web/20011201041136id_/http%3A//interment.net/can/index.htm)  
+**·** | [Australia ](https://web.archive.org/web/20011201041136id_/http%3A//interment.net/aus/index.htm)  
+**·** | [New Zealand ](https://web.archive.org/web/20011201041136id_/http%3A//interment.net/nz/index.htm)  
+**·** | [Ireland](https://web.archive.org/web/20011201041136id_/http%3A//interment.net/ireland/index.htm)  
+**·** | [United Kingdom ](https://web.archive.org/web/20011201041136id_/http%3A//interment.net/uk/index.htm)  
+**·** | [Other Countries ](https://web.archive.org/web/20011201041136id_/http%3A//interment.net/other/index.htm)  
   
-**Other Features**  
+  
+  
+**Partner Sites**  
 ---  
   
 **·**
 
-| [The Cemetery Column](https://web.archive.org/web/20010603092711id_/http%3A//www.interment.net/column/index.htm)  
-**·** | [Submit a Transcription](https://web.archive.org/web/20010603092711id_/http%3A//www.interment.net/publish.htm)  
-**·** | [Find a Lost Burial](https://web.archive.org/web/20010603092711id_/http%3A//www.interment.net/help/research.htm)  
-**·** | [Cemetery Bookstore](https://web.archive.org/web/20010603092711id_/http%3A//www.interment.net/bookstore/index.htm)  
-**·** | [Genealogy Shopping](https://web.archive.org/web/20010603092711id_/http%3A//www.interment.net/software/index.htm)  
-  
+| [Cemetery Junction](http://www.cemeteryjunction.com/)  
+**·** | [SavingGraves.com](http://www.savinggraves.com/)  
+**·** | [MyCinnamonToast](http://www.mycinnamontoast.com/)  
+**·** | [DistantCousin.com](http://www.distantcousin.com/)  
+**·** | [GenealogyLinks.net](http://www.genealogylinks.net/)  
   
   | 
 
