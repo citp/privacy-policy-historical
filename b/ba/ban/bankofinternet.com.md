@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankofinternet.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204065742id_/http%3A//www.bankofinternet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankofinternet.com privacy policy that was archived on 2005-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050215203605id_/http%3A//www.bankofinternet.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,7 +7,7 @@
 
 
 **Privacy Policy**  
-as of August 1, 2002
+as of December 2004
 
 We want you to know that we are totally committed to protecting and safeguarding your privacy. It is our policy to treat your personal and financial information with the utmost respect, and in accordance with your wishes. Since Bank of Internet USA utilizes traditional bank systems and the Internet to deliver products and services; certain Internet-related privacy issues may be of concern to you. For this reason, and because we want you to be a confident and informed customer, we have adopted the following Privacy Policy. 
 
