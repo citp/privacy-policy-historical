@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motivationalquotes.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602053344id_/http%3A//www.motivationalquotes.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motivationalquotes.com privacy policy that was archived on 2001-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011021033804id_/http%3A//motivationalquotes.com/privacy.shtml) for the most accurate reproduction.*
 
 # Motivational Quotes Privacy Policy
 
