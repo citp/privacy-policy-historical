@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showtimes.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604190919id_/http%3A//www.hollywood.com/about_us/info/id/468709) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showtimes.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207234418id_/http%3A//www.hollywood.com/about_us/info/id/468709) for the most accurate reproduction.*
 
 # 
 
@@ -6,7 +6,7 @@ Hollywood.com has created this privacy statement in order to demonstrate our fir
 
 We use your IP address to help diagnose problems with our server, and to administer our Website. Your IP address is also used to gather broad demographic information, such as country of origin. 
 
-Our site uses cookies to make sure you don't see the same ad repeatedly. We use cookies to deliver content specific to your interests and to save your password and zip code so you don't have to re-enter it each time you visit our site. 
+Our site uses cookies to make sure you don't see the same ad repeatedly. We use cookies to deliver content specific to your interests and to save your password and zip code so you don't have to re-enter it each time you visit our site. Our site also may use unique identifiers to confirm data, such as your geographical location and we use such data in the aggregate to run internal analyses to improve upon your user experience. 
 
 Through surveys and newsletter registration, our site may request users to give us contact, demographic, and/or financial information (such as their name, locale, gender, age, income level and email address). The demographic information is used to enhance user experience so we can be more content specific. The contact information is used to notify users of new content, for surveys and newsletters, via email. Financial information that is collected is used primarily for in-house statistics, advertising, and marketing target information. ShowTimes Direct collects the user's zip code to provide specific theatre show times in their area. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
@@ -24,16 +24,13 @@ The ads appearing on this Web site are delivered to you by either (a) one of our
 
 This site uses the services of Engage and iBEAM for the serving and/or targeting of ads, promotions, and other marketing messages. To do this, Engage or iBEAM collects and stores anonymous data typically through the use of cookies. To learn more about Engage or iBEAM, including your ability to opt out of the Engage system, go to [http://www.engage.com/privacy](http://www.engage.com/privacy/) or to iBEAM at <http://www.ibeam.com/privacy.html>. 
 
-#### Public Forums
-
+**Public Forums**   
 This site contains message boards, and/or news groups available to its users. We request users to give us contact information, such as name, email, address, occupation, and interests to be a registered bulletin board user. This information is optional and not necessary to post messages. This information may be used by the administrator to send the user email notices. However, users may opt-out of receiving future mailings; see the choice/opt-out section below. Please remember that any information that is disclosed in these areas becomes public information and users should exercise caution when deciding to disclose personal information. 
 
-#### Security
-
+**Security**   
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We use Secure Shell to access our servers remotely, and all server sessions are encrypted. We protect the secure areas of our site (including our databases and intranet) by using a Gauntlet firewall. 
 
-#### Choice/Opt-Out
-
+**Choice/Opt-Out**   
 Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
@@ -44,12 +41,9 @@ This site gives users the following options for removing their information from 
 2255 Glades Road   
 Suite 237W   
 Boca Raton, FL 33431 
-  4. Users can call the following telephone number: (561) 998-8000
+  4. Users can call the following telephone number: (561) 998-8000 
 
-
-
-#### Correct/Update
-
+**Correct/Update**   
 This site gives users the following options for changing and modifying information previously provided. 
 
   1. Users can email [webmarshall@boca.hollywood.com ](mailto:webmarshall@boca.hollywood.com)
@@ -58,14 +52,11 @@ This site gives users the following options for changing and modifying informati
 2255 Glades Road   
 Suite 237W   
 Boca Raton, FL 33431 
-  4. call the following telephone number: (561) 998-8000
-
-
+  4. Call the following telephone number: (561) 998-8000 
 
 This policy may change from time to time so please check back periodically. 
 
-#### Contacting the Website
-
+**Contacting the Website**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact:   
 Hollywood.com, Inc.  
 2255 Glades Road  
