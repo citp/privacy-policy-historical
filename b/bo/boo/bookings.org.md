@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookings.org privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001212253id_/http%3A//www2.bookings.org/nl/cgi-bin/showdoc.pl%3Fdoc%3Ddoc_privacy%26lang%3Duk%26id%3D100001%26style%3DB) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookings.org privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606060112id_/http%3A//www1.bookings.org/uk/cgi-bin/showdoc.pl%3Fdoc%3Ddoc_privacy%26lang%3Duk%26id%3D100000%26style%3DB) for the most accurate reproduction.*
 
 # BOOKINGS
 
