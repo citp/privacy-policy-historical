@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the websitegear.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203014530id_/http%3A//www.websitegear.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitegear.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602194139id_/http%3A//about.websitegear.com/privacy.asp) for the most accurate reproduction.*
 
 # WebsiteGear Privacy Policy
 
-|   
----  
-[ ](http://www.websitegear.com/) |   
+* * *  
   
-* * *
-
-|  |  |   
+|  |   
+---  
+|   
+Privacy Policy  
 ---  
 |  | 
 
@@ -51,4 +50,5 @@ For safegaurding user's submitted information, they are not displayed if the use
 
 * * *
 
-Copyright © 2003 WebsiteGear.com. All rights reserved.
+Copyright © 2003-2004 WebsiteGear.com. All rights reserved.   
+[About](http://about.websitegear.com/) | [Advertise](http://ads.websitegear.com/) | [Privacy](http://about.websitegear.com/privacy.asp) | [Agreement](http://about.websitegear.com/memberpolicy.asp) | [Contact](http://www.websitegear.com/support/contact.asp)
