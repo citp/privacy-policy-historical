@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kropla.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604183718id_/http%3A//kropla.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kropla.com privacy policy that was archived on 2001-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011030013215id_/http%3A//kropla.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,12 +8,12 @@ No other information is collected, and "cookies" are not used here.  In fact, t
 
 This site features a number of links to external sites.  These are reviewed for appropriate content before the links are established.  However, SMK Enterprises cannot control the visitor information these sites may collect, nor is it responsible for their continued performance or any changes to content.  If you are concerned about privacy on those sites, please review their privacy policy or contact their webmaster.
 
-At some point, the site may offer e-commerce ability.  Any changes to the privacy policy will be noted here, and listed on the [What's New page](https://web.archive.org/web/20010604183718id_/http%3A//kropla.com/whatsnew.htm).
+At some point, the site may offer e-commerce ability.  Any changes to the privacy policy will be noted here, and listed on the [What's New page](https://web.archive.org/web/20011030013215id_/http%3A//kropla.com/whatsnew.htm).
 
-Need to know more?  Contact [privacy@kropla.com](mailto:privacy@kropla.com) with any specific questions you might have.  Thank you.
+Need to know more?  Contact [traveladvisor@hotmail.com](mailto:traveladvisor@hotmail.com) with any specific questions you might have.  Thank you.
 
-[Return to the main page](https://web.archive.org/web/20010604183718id_/http%3A//kropla.com/index.html)
+[Return to the main page](https://web.archive.org/web/20011030013215id_/http%3A//kropla.com/index.html)
 
-_http://kropla.com/privacy.htm \-- Updated 20 July 2000_  
+_http://kropla.com/privacy.htm \-- Updated 09 October 2001_  
 Copyright © 2000 Steve Kropla  
 All rights reserved.
