@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the metavante.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604010206id_/http%3A//www.metavante.com/profile/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metavante.com privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412021141id_/http%3A//metavante.com/profile/privacy.jsp) for the most accurate reproduction.*
 
-# Metavante | web | 20020604010206id_ | http%3A | | www.metavante.com | profile | privacy.jsp
+# Metavante | web | 20030412021141id_ | http%3A | | metavante.com | profile | privacy.jsp
 
 Corporate Profile
 
