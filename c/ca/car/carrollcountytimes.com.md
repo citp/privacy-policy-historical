@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carrollcountytimes.com privacy policy that was archived on 2004-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040404004357id_/http%3A//www.carrollcountytimes.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carrollcountytimes.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011054943id_/http%3A//www.carrollcountytimes.com/info/privacy_policy) for the most accurate reproduction.*
 
 # Carroll County Times: Westminster, Maryland
 
@@ -59,6 +59,3 @@ We do not use IP addresses to track user traffic patterns and content preference
  **How to contact us**
 
 If you have any questions or comments regarding our privacy policy, please contact Greg Linard at [glinard@lcniofmd.com](mailto:glinard@lcniofmd.com) or 410-848-4400.
-
-  
-
