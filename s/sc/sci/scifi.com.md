@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scifi.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607141042id_/http%3A//scifi.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scifi.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206095709id_/http%3A//www.scifi.com/terms/privacy.html) for the most accurate reproduction.*
 
 # SCIFI.COM - Overall Privacy Statement
 
@@ -103,7 +103,7 @@ New York, NY 10020 USA
 If you are currently a member and would like to correct or update your preferences, membership or profile information, please go to the [preferences page](https://web.archive.org/preferences/), the [members page](https://web.archive.org/members/welcome/) or write to Database Coordinator, care of [dbcoordinator@scifi.com](mailto:dbcoordinator@scifi.com). 
 
 **Note:**  
-This Privacy Statement may be updated as SCIFI.COM introduces new products and services to its users. For the latest version of our privacy policy, please go to: [http://www.scifi.com/terms/privacy.html ](https://web.archive.org/web/20020607141042id_/http%3A//scifi.com/terms/privacy.html)
+This Privacy Statement may be updated as SCIFI.COM introduces new products and services to its users. For the latest version of our privacy policy, please go to: [http://www.scifi.com/terms/privacy.html ](https://web.archive.org/web/20021206095709id_/http%3A//www.scifi.com/terms/privacy.html)
 
   
 _This Privacy Statement was last revised on March 27, 2001._
