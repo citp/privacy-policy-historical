@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the journal-news.com privacy policy that was archived on 2002-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020608002837id_/http%3A//www.journal-news.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journal-news.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211160754id_/http%3A//www.journal-news.com/search/content/privacypolicy.html) for the most accurate reproduction.*
 
 # Journal-News.com: About Us
 
@@ -56,14 +56,4 @@ Since we make most of this website available without charge to you, we rely heav
 **CHANGES TO THIS PRIVACY POLICY** A final note: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect. 
 
 |   |   
-|  **Friday, Jun 7**  
----  
-[](https://web.archive.org/weather/) |  Current   
-Sunny   
-Temp: 72° F   
-• [Local Weather](https://web.archive.org/weather/)  
-• [National Weather](https://web.archive.org/shared/weather/)
 
-[](http://www.journal-news.com/news/05mother.html)
-
-[](http://ad.doubleclick.net/jump/cni.journalnews.text/;sub=index;rr=1;pg=;sz=140x60;tile=1;ord=PQFPuMCoBXMAACaUVKA?) [](http://ad.doubleclick.net/jump/cni.journalnews.text/;sub=index;rr=2;pg=;sz=140x60;tile=2;ord=PQFPuMCoBXMAACaUVKA?)
