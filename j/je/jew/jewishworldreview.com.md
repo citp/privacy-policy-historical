@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jewishworldreview.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206055727id_/http%3A//www.jewishworldreview.com/0400/privacy1.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewishworldreview.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605145822id_/http%3A//www.jewishworldreview.com/0400/privacy1.asp) for the most accurate reproduction.*
 
 # Privacy Statement - Jewish World Review
 
@@ -70,4 +70,4 @@ This site gives users the following options for changing and modifying informati
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
-Benyamin L. Jolkovsky Jewish World Review [bljolkov@jewishworldreview.com](https://web.archive.org/web/20031206055727id_/http%3A//www.jewishworldreview.com/0400/bljolkov@jewishworldreview.com) _© 2000, JWR_
+Benyamin L. Jolkovsky Jewish World Review [bljolkov@jewishworldreview.com](https://web.archive.org/web/20040605145822id_/http%3A//www.jewishworldreview.com/0400/bljolkov@jewishworldreview.com) _© 2000, JWR_
