@@ -1,153 +1,96 @@
-> *The following text is extracted and transformed from the usta.com privacy policy that was archived on 2002-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020311152937id_/http%3A//www.usta.com/usopen/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usta.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208164435id_/http%3A//www.usta.com/site_services/custom.sps%3FiType%3D961%26icustompageid%3D1658) for the most accurate reproduction.*
 
-# 
+# United States Tennis Association - Site_services - 12/8/2002 4:44:37 PM
 
-**
+|  | 
 
-USTA Internet Privacy Policy
+**Welcome  
+**  
+Welcome to [www.usta.com](http://www.usta.com/). This site (the “Site”) is owned by the United States Tennis Association (the "USTA"). This Privacy Policy is designed to tell you about our practices regarding collection, use and disclosure of information that we may collect from and about you. Please be sure to read this entire Privacy Policy before using or submitting information to this Site. This Site is intended for use by residents of the United States. 
 
-** **
+**Your Consent  
+**  
+By using this Site, you agree with the terms of this Privacy Policy. Whenever you submit information via this Site, you consent to the collection, use and disclosure of that information in accordance with this Privacy Policy, the Terms of Service and any specific provisions of this Site that may be presented at the time information is collected.
 
-Welcome
+ **About Children**
 
-**
+The Site is a general audience site.  We do not knowingly collect any personal information from children under the age of thirteen on the Site.  If in the future, we collect personally identifiable information from children, we will do so in compliance with the Children's Online Privacy Protection Act of 1998 (15 U.S.C. 6501 et seq.).  The Internet offers children wonderful educational and entertainment resources.  Your guidance and involvement are essential to help ensure that children have a safe and rewarding online experience.  We encourage you to visit the Direct Marketing Association’s Web site ([www.the-dma.org](http://www.the-dma.org/)) and explore the Get CyberSavvy! Program as well as the GetNetWise Web site ([www.getnetwise.org](http://www.getnetwise.org/)) to learn more about parental control tools.
 
-Welcome to www.usta.com. This site is owned by the United States Tennis Association (the "USTA"). This Privacy Policy is designed to tell you about our practices regarding collection, use and disclosure of information that we may collect from and about you. Please be sure to read this entire Privacy Policy before using or submitting information to this site _._ This site is intended for use by residents of the United States.
+ **Active Information Collection  
+**  
+Like many Web sites, this Site actively collects information from its visitors both by asking them specific questions and by permitting them to communicate directly with us via e-mail, feedback forms, chat rooms and so forth. Some of the information that you submit may be personally identifiable information (that is, information that can be uniquely identified with you, such as your full name, address, e-mail address, phone number and so on).
 
-**
+Some areas of this Site may require you to submit information in order for you to benefit from the specified features (such as newsletter subscriptions, tips/pointers, order processing and so forth) or to participate in a particular activity (such as sweepstakes or other promotions and so forth). You will be informed at each information collection point what information is required and what information is optional.
 
-Your Consent
+ **Passive Information Collection**
 
-**
+As you navigate through this Site and/or receive emails in connection with this Site, certain information may be passively collected (that is, gathered without your actively providing the information) using various technologies and means, including, without limitation, those described below:
 
-By using this site, you agree with the terms of this Privacy Policy. Whenever you submit information via this site, you consent to the collection, use and disclosure of that information in accordance with this Privacy Policy, the Terms of Service and any specific provisions of this site that may be presented at the time information is collected.
+ **Cookies  
+**  
+As with many Websites, the Site uses standard technology called “cookies,” which are small data files that are transferred to your computer when you allow your browser to accept cookies.  Cookies automatically identify your Web browser to the Site whenever you visit the Site, and make using the Site easier for you by saving your passwords, purchases, and preferences.  By tracking how and when you use the Site, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Site are based on data obtained from cookies. 
 
-**
+Accepting cookies allows you, among other things, to personalize your experience on the Site.  Cookies may also allow the Site to present to you advertising which may be of interest to you. If you do not want information collected through the use of cookies, you generally can opt out of providing this information by turning the cookies off in your browser; however, some areas of the Site may not provide you with a personalized experience if you have disabled the use of cookies. 
 
-About Children
+**IP Addresses and Automatic Information**
 
-**
+We may collect IP addresses and/or automatic information for purposes of system administration and to report aggregate information to our advertisers and sponsors.  An IP address is a number that is automatically assigned to your computer whenever you access the Internet. Our computers identify your computer by its IP address.  When you request Web pages from the Site, our computers log your IP address.  
 
-Children can surf www.usta.com, www.usatennis.com or other USTA sites, view content, and utilize certain functions without any personally identifiable information being collected. The USTA does not knowingly collect personally identifiable information from site visitors under the age of 13, and encourages parents to talk to their children about their use of the Internet and the information they disclose to Web sites.
+Automatic information is information collected by our computers when you request Web pages from the Site.  Automatic information may include such information as the page served, the time, the source of the request, the type of browser making the request, the preceding page view and other such information.  When analyzed, this data helps us analyze how visitors arrive at the Site, what type of content is most popular, what type of visitors in the aggregate are interested in particular kinds of content and advertising, and the like. 
 
-**
+**Information From Other Sources** From time to time we, and/or our operational partners may receive information about you from other sources and add it to the data previously collected about you.
 
-Active Information Collection
+ **Use and Disclosure of Information**
 
-**
+Except as otherwise stated, USTA may use information you provide to improve the content of our Site, to customize the display of the Site to your preferences, to communicate information to you (if you have requested it), for our marketing and research purposes, and for the purposes specified in this Privacy Policy.  
+If you provide personally identifiable information to this Site, we may combine such information with other actively collected information unless specified otherwise at the point of collection on this Site. We may combine personally identifiable information with passively collected information.
 
-Like many Web sites, this site actively collects information from its visitors both by asking them specific questions and by permitting them to communicate directly with us via e-mail, feedback forms, chat rooms and so forth. Some of the information that you submit may be personally identifiable information (that is, information that can be uniquely identified with you, such as your full name, address, e-mail address, phone number and so on).
+We may disclose your personally identifiable information to third parties located in the United States and/or any other country:
 
-Some areas of this site may require you to submit information in order for you to benefit from the specified features (such as newsletter subscriptions, tips/pointers, order processing and so forth) or to participate in a particular activity (such as sweepstakes or other promotions and so forth). You will be informed at each information collection point what information is required and what information is optional.
+i. to our affiliates;   
+ii. to our sponsors;   
+iii. to other tennis related organizations;   
+iv. to select companies or organizations which we believe may offer products, services, materials or information of interest to visitors to this Site;   
+v. to third parties we use to support our business (including fulfillment services, technical support, delivery services, chat service providers, email service providers, forum service providers, advertisement sales and management services and financial institutions);   
+vi. in connection with the sale, assignment or other transfer of the business of this Site to which the information relates; or   
+vii. where required by applicable laws, court orders or government regulations.  
+In addition, we will make full use of all information acquired through this Site that is not in personally identifiable form.
 
-**
+ **Third-Party Ad Serving & Audience and Traffic Measurement Services**
 
-Passive Information Collection
+The Site may use a third party network advertisers to serve the advertisements on the Site or may use a traffic measurement service to analyze the traffic on the Site.    Network advertisers are third parties that display advertisements based on your visits to this Site and other Web sites you have visited.  Third-party ad serving enables us to target advertisements to you for products or Web sites you might be interested in.  Although advertisers or other companies do not have access to the Site cookies, the Site’s advertisers, sponsors, and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have your cookies enabled in your browser. Cookies allow third party advertisers to show you advertisements or content you might be interested in. Other companies' use of their cookies is subject to their own privacy policies, not this one.  
 
-**
+Please click here <http://www.networkadvertising.org/optout_nonppii.asp>] in order to learn more about the information collection practices and "opt-out" procedures of third party ad servers we may use. 
 
-As you navigate through a Web site, certain information can be passively collected (that is, gathered without your actively providing the information) using various technologies and means, such as Internet Protocol address logging, cookies, Internet tags and navigational data collection. These are briefly described below.
+**Access and Correction  
+**  
+To keep your personally identifiable information accurate, current and complete, please contact us as specified below. We will take reasonable steps to update or correct personally identifiable information in our possession that you have previously submitted via this Site.
 
-The USTA tracks **Internet Protocol (IP) addresses** on this site. An IP address is a number assigned to your computer by your Internet service provider so that you can access the Internet, and it is generally considered to be non-personally identifiable information. In most cases, an IP address is dynamic (changing each time you connect to the Internet), rather than static (unique to a particular user’s computer). The USTA uses your IP address to diagnose problems with our server, report aggregate information, determine the fastest route for your computer to use in connecting to our site, administer and improve the site, and perform other related functions.
+ **Security  
+**  
+We will take reasonable steps to protect your personally identifiable information as you transmit your information from your computer to our Site and to protect such information from loss, misuse and unauthorized access, disclosure, alteration or destruction in accordance with this Privacy Policy and the Terms of Use. You should keep in mind that no Internet transmission is ever 100% secure or error-free. In particular, email sent to or from this Site may not be secure, and you should therefore take special care in deciding what information you send to us via e-mail. Moreover, where you use passwords, usernames, ID numbers or other special access features on this Site, it is your responsibility to safeguard them.
 
-Another technology commonly used on Web sites is the " **cookie** ". A cookie is a short text file that a Web site sends to your Web browser that helps the Web site remember information about you and your preferences. There are two types of cookies: session cookies and persistent cookies.
+ **Links to Other Web Sites  
+**  
+You should be aware that when you are on the Site you could be directed to other sites beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Site onto a different Web site. This includes links from advertisers, sponsors and partners that may use the Site’s logo as part of a co-branding agreement. These other Web sites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies.  If you visit a Website that is linked to our Site, you should consult that site’s privacy policy before providing any personal information.
 
-" **Session** " cookies are temporary data files that are designed to be erased once you exit your Web browser window or otherwise turn your computer off. Session cookies are used to improve navigation on Web sites and to collect aggregate statistical information. This site does not use session cookies.
+ **Other Terms  
+**  
+Your use of this Site is subject to the Terms of Use [Insert link to Terms of Use]. If you choose to use this Site, your visit and any dispute over privacy and data collection is subject to this Privacy Policy and our Terms of Use including limitations on damages and application of the law of the State of New York.
 
-" **Persistent** " cookies are text files which are designed to be permanently stored on your computer’s hard drive and remain there until you delete them. Persistent cookies can store information on your computer for a number of purposes, such as retrieving certain information you have previously provided (for example, passwords), helping to determine what areas of the Web site visitors find most valuable, and customizing the Web site display based on your preferences (for example, remembering the zip code you entered in order to identify local events). This site uses persistent cookies.
+ **How to Contact Us  
+**  
+If you have any questions, comments or concerns about this Privacy Policy or the information practices of this Site, please contact us as follows:
 
-" **Web tags** " (also known as Internet tags, single-pixel GIFs and invisible GIFs) are tiny graphic files which are downloaded by your Web browser. The process of downloading a Web tag allows the server downloading the file to identify the IP address of the computer downloading the file, the URL of the page the Web tag is located on, and the time the Web tag was downloaded. The process of downloading a Web tag also allows the server transmitting the Web tag to give your computer a cookie or read/edit a cookie the server previously gave to your computer. The USTA does not use such Web tags on this site.
-
-****
-
-**"Navigational data"** ("log files," "server logs" and "clickstream" data) are used, among other things, for system management, to improve the content of the site, market research purposes, and to communicate information to visitors. This site records and uses navigational data.
-
-**
-
-Information From Other Sources
-
-**
-
-From time to time USTA may receive information about you from other sources and add it to the data previously collected about you.
-
-**
-
-Use and Disclosure of Information
-
-**
-
-Except as otherwise stated, USTA may use information you provide to improve the content of our site, to customize the display of the site to your preferences, to communicate information to you (if you have requested it), for our marketing and research purposes, and for the purposes specified in this Privacy Policy.
-
-If you provide personally identifiable information to this site, the USTA may combine such information with other actively collected information unless specified otherwise at the point of collection on this site. The USTA may combine personally identifiable information with passively collected information.
-
-The USTA may disclose your personally identifiable information to third parties located in the United States and/or any other country:
-
-  1. to USTA affiliates;
-  2. to USTA sponsors;
-  3. to other tennis related organizations;
-  4. to select companies or organizations which the USTA believes may offer products, services, materials or information of interest to visitors to this site;
-  5. to third parties we use to support our business (including fulfillment services, technical support, delivery services, chat service providers, email service providers, forum service providers and financial institutions);
-  6. in connection with the sale, assignment or other transfer of the business of this site to which the information relates; or
-  7. where required by applicable laws, court orders or government regulations.
-
-
-
-In addition, the USTA will make full use of all information acquired through this site that is not in personally identifiable form.
-
-**
-
-Access and Correction
-
-**
-
-To keep your personally identifiable information accurate, current and complete, please contact USTA as specified below. USTA will take reasonable steps to update or correct personally identifiable information in our possession that you have previously submitted via this site.
-
-**
-
-Security
-
-**
-
-USTA will take reasonable steps to protect your personally identifiable information as you transmit your information from your computer to our site and to protect such information from loss, misuse and unauthorized access, disclosure, alteration or destruction in accordance with this Privacy Policy and the Terms of Use. You should keep in mind that no Internet transmission is ever 100% secure or error-free. In particular, email sent to or from this site may not be secure, and you should therefore take special care in deciding what information you send to us via e-mail. Moreover, where you use passwords, usernames, ID numbers or other special access features on this site, it is your responsibility to safeguard them.
-
-**
-
-Links to Other Web Sites
-
-**
-
-This site may contain links or references to other Web sites. Please be aware that the USTA does not control other Web sites and that, in any case, this Privacy Policy does not apply to those Web sites. The USTA encourages you to read the privacy policy of every Web site you visit.
-
-**
-
-Other Terms
-
-**
-
-Your use of this site is subject to the Terms of Use [Insert link to Terms of Use]. If you choose to use this site, your visit and any dispute over privacy and data collection is subject to this Privacy Policy and our Terms of Use including limitations on damages and application of the law of the State of New York.
-
-**
-
-How to Contact Us
-
-**
-
-If you have any questions, comments or concerns about this Privacy Policy or the information practices of this site, please contact the USTA as follows:
-
-United States Tennis Association
-
-Attention: Advanced Media Dept.
-
-70 West Red Oak Lane, White Plains, NY 10604
-
-(914) 696-7000
-
+United States Tennis Association  
+Attention: Advanced Media Dept.  
+70 West Red Oak Lane, White Plains, NY 10604  
+(914) 696-7000  
 [feedback@usta.com](mailto:feedback@usta.com)
 
-**********
+ **Changes to This Privacy Policy  
+**  
+If this Privacy Policy changes, the revised policy will be posted on this Site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on [4/21/02].
 
-Changes to This Privacy Policy
-
-**
-
-If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on 4/30/01.
+|   
+---|---|---
