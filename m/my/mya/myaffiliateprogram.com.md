@@ -1,20 +1,15 @@
-> *The following text is extracted and transformed from the myaffiliateprogram.com privacy policy that was archived on 2003-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030607104426id_/http%3A//www.myaffiliateprogram.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myaffiliateprogram.com privacy policy that was archived on 2003-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031210235645id_/http%3A//myaffiliateprogram.com/privacy.asp) for the most accurate reproduction.*
 
-# My Affiliate Program Software
+# My Affiliate Program – Privacy Policy
 
-My Affiliate Program™ Privacy Statement
+KowaBunga! Legal Information
 
-|  |   
----|---|---  
-  
-Read our Confidentiality Statement by [clicking here](https://web.archive.org/web/20030607104426id_/http%3A//www.myaffiliateprogram.com/confidentiality.asp). (Our Confidentiality Statement outlines our policies when interacting with our Clients' Files) 
-
-Privacy Statement for KowaBunga! Technologies  
-We respect you and we hold your personal information private.
+**Privacy Statement for KowaBunga! Technologies**  
+We respect you and we hold your personal information private. 
 
 KowaBunga! Technologies has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Myaffiliateprogram.com 
 
-We never disclose your personal information to any third party.
+We never disclose your personal information to any third party. 
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information. 
 
@@ -31,7 +26,7 @@ Security
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
 
 WebTrends Live  
-WebTrends Live is used to analyze traffic to this web site. WebTrends Live does not create individual profiles for visitors. Unlike some tracking services WebTrends Live does not have a database of individual profiles for each visitor. WebTrends Live only collects aggregate data. For more information about WebTrends Live privacy policy, please [click here ](http://www.webtrendslive.com/wtl_system/privacy_policy.htm)
+WebTrends Live is used to analyze traffic to this web site. WebTrends Live does not create individual profiles for visitors. Unlike some tracking services WebTrends Live does not have a database of individual profiles for each visitor. WebTrends Live only collects aggregate data. For more information about WebTrends Live privacy policy, please click here 
 
 Choice/Opt-Out  
 We do not provide your personal information, including email address, to any third party. 
@@ -40,18 +35,18 @@ You will only receive communications from KowaBunga! Technologies.
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-You can send email to [rachel@kowabunga.net](mailto:rachel@kowabunga.net)
+You can send email to rachel@kowabunga.net 
 
 Correct/Update  
 This site gives users the following options for changing and modifying information previously provided. 
 
-You can send email to [rachel@kowabunga.net](mailto:rachel@kowabunga.net)
+You can send email to rachel@kowabunga.net 
 
 Contacting the Web Site  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
 Rachel Honoway  
 KowaBunga! Technologies  
 962 Newburgh Rd  
 Westland, MI 48185  
-[rachel@kowabunga.net](mailto:rachel@kowabunga.net)
+rachel@kowabunga.net 
