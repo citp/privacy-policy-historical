@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the franchiseopportunities.com privacy policy that was archived on 2001-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011101042707id_/http%3A//franchiseopportunities.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchiseopportunities.com privacy policy that was archived on 2002-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020403000110id_/http%3A//franchiseopportunities.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy policy of franchise opportunities and franchiseopportunities.com
 
@@ -46,5 +46,4 @@ Alpharetta, GA 30004
 [Sales@FranchiseOpportunities.com](mailto:Sales@FranchiseOpportunities.com)
 
 
-|  [Featured Franchisor:  
-](https://web.archive.org/web/20011101042707id_/http%3A//franchiseopportunities.com/franchise.asp?fid=2996&et=3)
+| 
