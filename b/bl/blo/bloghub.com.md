@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bloghub.com privacy policy that was archived on 2004-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041013125458id_/http%3A//www.bloghub.com/cgi-bin/page.cgi%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloghub.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403074412id_/http%3A//www.bloghub.com/privacy.htm) for the most accurate reproduction.*
 
-# Bloghub.com - Blog Directory : Privacy Policy
+# Bloghub.com - blog directory & blog search engine : Privacy Policy
 
 Internet user privacy and confidentiality is of the utmost importance to Bloghub.com. Our reputation and integrity is directly related to how we serve our clients and customers. Please find below a description of how Bloghub.com strives to protect the privacy of Internet users, and maintain the Internet as a highly credible medium.
 
