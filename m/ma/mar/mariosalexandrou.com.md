@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mariosalexandrou.com privacy policy that was archived on 2004-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040221050703id_/http%3A//mariosalexandrou.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mariosalexandrou.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207011315id_/http%3A//www.mariosalexandrou.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,7 +44,7 @@ How I share the collected information with others
 I do not share or disclose any identifying data to any third party for any purpose. 
 
 How you can access information we have collected about you   
-[Contact me](https://web.archive.org/web/20040221050703id_/http%3A//mariosalexandrou.com/contact.asp) to request a copy of the information collected about your visit to this site. 
+[Contact me](https://web.archive.org/web/20041207011315id_/http%3A//www.mariosalexandrou.com/contact.asp) to request a copy of the information collected about your visit to this site. 
 
 How long I store the collected information   
 I store the information I collect indefinitely. 
@@ -55,4 +55,4 @@ Our web sites contain links to other web sites. Marios Alexandrou is not respons
 Security I carefully protect the quality and integrity of your personal information from loss, misuse, unauthorized access or disclosure, alteration, or destruction. Data is stored in password-controlled servers with limited access. 
 
 Contact information   
-If you have any questions about this privacy statement, the practices of this web sites, or your dealings with my web site, you can [contact me](https://web.archive.org/web/20040221050703id_/http%3A//mariosalexandrou.com/contact.asp). 
+If you have any questions about this privacy statement, the practices of this web sites, or your dealings with my web site, you can [contact me](https://web.archive.org/web/20041207011315id_/http%3A//www.mariosalexandrou.com/contact.asp). 
