@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dietfacts.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207194726id_/http%3A//www.dietfacts.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dietfacts.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305204824id_/http%3A//www.dietfacts.com/privacy.asp) for the most accurate reproduction.*
 
 # Fast Food nutrition database, free diets, weight loss programs - DietFacts.com
 
@@ -16,13 +16,9 @@ This site contains links to other sites. This site is not responsible for the pr
 [  
 **Buy Lowfat Pizza online!**](http://www.heavensbistro.com/)
 
-[](http://click.linksynergy.com/fs-bin/click?id=EbT4BSOhmpo&offerid=51678.10000215&type=4&subid=0)
-
 [ ](http://www.tkqlhce.com/click-871258-10373145)
 
-[ ](http://www.qksrv.net/click-871258-10308492)
-
-[ ](http://www.qksrv.net/click-871258-1500116)
+[ ](http://www.jdoqocy.com/e6108uoxuowBKJDEHKBDCFJCICF)
 
 [ ](http://www.qksrv.net/click-871258-5029329)
 
@@ -31,5 +27,3 @@ This site contains links to other sites. This site is not responsible for the pr
 [ ](http://www.qksrv.net/click-871258-1457541)
 
 [ ](http://www.qksrv.net/click-871258-9836173)
-
-[](http://click.linksynergy.com/fs-bin/click?id=EbT4BSOhmpo&offerid=78094.10000235&type=4&subid=0)
