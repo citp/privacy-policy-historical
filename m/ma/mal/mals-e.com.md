@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mals-e.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603203532id_/http%3A//mals-e.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mals-e.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011123532id_/http%3A//mals-e.com/privacy.htm) for the most accurate reproduction.*
 
 # What's New
 
@@ -19,7 +19,7 @@ USE OF THIS DATA
 
 Data such as a users country and business type is purely for statistical analysis. I keep it so that I can make sure I'm targeting my resources in the right places. I don't have any advertising on this site, I don't sell data to anyone else. It's just for me.
 
-Note: SMTP (e-mail) is an encrypted protocol. When we use an e-mail address it passes across the internet unencrypted...
+Note: SMTP (e-mail) is not an encrypted protocol. When we use an e-mail address it passes across the internet unencrypted...
 
 **  
 WHO HAS ACCESS TO THE DATA ABOUT YOU?  
