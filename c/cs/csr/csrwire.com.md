@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csrwire.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607095918id_/http%3A//www.csrwire.com/page.cgi/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csrwire.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204231239id_/http%3A//www.csrwire.com/page.cgi/privacy.html) for the most accurate reproduction.*
 
 # CSRwire.com -- Corporate Social Responsibility Newswire -- Press Release Forms
 
