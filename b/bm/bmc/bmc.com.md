@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bmc.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208060039id_/http%3A//www.bmc.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmc.com privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609013209id_/http%3A//www.bmc.com/legal/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# BMC Software - B2B solutions for ebusiness systems management
 
 Your privacy is important to us. When you provide information to us via our web site, we protect it according to this policy. If you have any questions, please don't hesitate to let us know. 
 
