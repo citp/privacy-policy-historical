@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the warnerbrosrecords.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008151733id_/http%3A//www.warnerbrosrecords.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warnerbrosrecords.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605104055id_/http%3A//www.warnerbrosrecords.com/privacy.php) for the most accurate reproduction.*
 
 # Warner Bros. Records | Email Privacy Information
 
-Thank you for visiting wbr.com, a Time Warner site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Time Warner site. [Click here](http://www.wbr.com/cmp/businesses.html) for a list of the Time Warner businesses whose sites are governed by this Privacy Notice. 
+Thank you for visiting a Warner Bros. / Reprise Records website, part of Warner Music Group. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Time Warner site. [Click here](http://www.wbr.com/cmp/businesses.html) for a list of the Time Warner businesses whose sites are governed by this Privacy Notice. 
 
 ### The Information We Collect
 
@@ -70,4 +70,4 @@ The site you are visiting is one of the Time Warner general audience sites. For 
 
 ### How to Contact Us
 
-If you have any questions or concerns about the Time Warner online policy for this site or its implementation you may contact us at [privacy@wmg.com](https://web.archive.org/web/20031008151733id_/http%3A//www.warnerbrosrecords.com/privacy@wmg.com)
+If you have any questions or concerns about the Time Warner online policy for this site or its implementation you may contact us at [privacy@wmg.com](https://web.archive.org/web/20040605104055id_/http%3A//www.warnerbrosrecords.com/privacy@wmg.com)
