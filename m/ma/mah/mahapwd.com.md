@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mahapwd.com privacy policy that was archived on 2004-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040806234926id_/http%3A//www.mahapwd.com/legalnotice/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mahapwd.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204090657id_/http%3A//www.mahapwd.com/legalnotice/privacypolicy.htm) for the most accurate reproduction.*
 
 # Public Works Department, Government of Maharashtra
 
