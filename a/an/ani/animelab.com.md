@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animelab.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604184605id_/http%3A//www.animelab.com/pri.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animelab.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210083943id_/http%3A//www.animelab.com/pri.html) for the most accurate reproduction.*
 
 # Animelab.com: Privacy Policy
 
@@ -20,4 +20,6 @@ The ads appearing on this Web site are delivered to you by DoubleClick, our Web 
 **Third Party Cookies**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
 
-[ ](http://www.clickxchange.com/sr.phtml?act=48829.3863)
+[](http://www.supertop100.com/aff.prg?anime,23) [](http://www.supertop100.com/aff.prg?digimon,371) [](http://www.supertop100.com/aff.prg?dball,1894) [](http://www.ultimate50.com/aff.prg?dball,581) [](http://www.ultimate50.com/aff.prg?anime,241)
+
+[](http://www.stats4all.com/asp/login.asp?sSiteName=Animelabcom)
