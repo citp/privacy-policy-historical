@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pakistanway.com privacy policy that was archived on 2003-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031214100845id_/http%3A//www.pakistanway.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakistanway.com privacy policy that was archived on 2004-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040617035530id_/http%3A//www.pakistanway.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Pakistanway Web Directory
 
