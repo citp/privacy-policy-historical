@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the explorelearning.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603014658id_/http%3A//explorelearning.com/index.cfm%3Fmethod%3DController.dspPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explorelearning.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209233454id_/http%3A//www.explorelearning.com/index.cfm%3Fmethod%3DController.dspPrivacy) for the most accurate reproduction.*
 
-# ExploreLearning.com
+# Privacy Policy | ExploreLearning
 
 This privacy policy covers the site http://www.explorelearning.com. Because we want to demonstrate our commitment to our users’ privacy, we disclose the following information. 
 
