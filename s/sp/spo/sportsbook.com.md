@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsbook.com privacy policy that was archived on 2004-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041217092759id_/http%3A//sportsbook.com/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsbook.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305013227id_/http%3A//www.sportsbook.com/misc/privacy.html) for the most accurate reproduction.*
 
 # Casino, Online Casino, Gambling, Bet, Sportsbook
 
