@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prweb.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619153009id_/http%3A//www.prweb.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prweb.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207210438id_/http%3A//prweb.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for the PR Web Newswire
 
