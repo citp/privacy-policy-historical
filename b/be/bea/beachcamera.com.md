@@ -1,21 +1,22 @@
-> *The following text is extracted and transformed from the beachcamera.com privacy policy that was archived on 2004-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041216102343id_/http%3A//www.beachcamera.com/shop/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beachcamera.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407002412id_/http%3A//www.beachcamera.com/shop/privacypolicy.asp) for the most accurate reproduction.*
 
 # Beach Camera
 
 |   
 ---  
-|  | [PHOTO](http://www.beachcamera.com/Shop/searchresults.asp?ProdTypeList=1050&ParCat=9999&ShowImages=1) |   
-|  | [VIDEO](http://www.beachcamera.com/Shop/searchresults.asp?ProdTypeList=1009&ParCat=9999&ShowImages=1) |   
-|  | [DIGITAL IMAGING](http://www.beachcamera.com/Shop/searchresults.asp?ProdTypeList=1070&ParCat=9999&ShowImages=1) |   
-|  | [COMPUTERS & PDA'S](http://www.beachcamera.com/Shop/searchresults.asp?ProdTypeList=1080&ParCat=9999&ShowImages=1) |   
-|  | [TELEVISION](http://www.beachcamera.com/Shop/searchresults.asp?ProdTypeList=1012&ParCat=9999&ShowImages=1) |   
-|  | [AUDIO](http://www.beachcamera.com/Shop/searchresults.asp?ProdTypeList=1090&ParCat=9999&ShowImages=1) |   
-|  | [TELEPHONES](http://www.beachcamera.com/Shop/searchresults.asp?ProdTypeList=4110&ParCat=9999&ShowImages=1) |   
-|  | [BINOCULARS/SCOPES](http://www.beachcamera.com/Shop/searchresults.asp?ProdTypeList=1005&ParCat=9999&ShowImages=1) |   
-|  | [ACCESSORIES](http://www.beachcamera.com/Shop/searchresults.asp?ProdTypeList=1004&ParCat=9999&ShowImages=1) |   
-|  | [GIFT CERTIFICATE](http://www.beachcamera.com/Shop/searchresults.asp?ProdTypeList=2018&ParCat=9999&ShowImages=1) |   
-|  | [CLOSEOUT CORNER](http://www.beachcamera.com/Shop/searchresults.asp?ProdTypeList=3101&ParCat=9999&ShowImages=1) |   
-|  | [WATCHES](http://www.beachcamera.com/Shop/searchresults.asp?ProdTypeList=5800&ParCat=9999&ShowImages=1) |   
+|  | [PHOTO](http://www.beachcamera.com/shop/searchresults.asp?ProdTypeList=1050&ParCat=9999&ShowImages=1) |   
+|  | [VIDEO](http://www.beachcamera.com/shop/searchresults.asp?ProdTypeList=1009&ParCat=9999&ShowImages=1) |   
+|  | [DIGITAL IMAGING](http://www.beachcamera.com/shop/searchresults.asp?ProdTypeList=1070&ParCat=9999&ShowImages=1) |   
+|  | [COMPUTERS & PDA'S](http://www.beachcamera.com/shop/searchresults.asp?ProdTypeList=1080&ParCat=9999&ShowImages=1) |   
+|  | [TELEVISION](http://www.beachcamera.com/shop/searchresults.asp?ProdTypeList=1012&ParCat=9999&ShowImages=1) |   
+|  | [AUDIO](http://www.beachcamera.com/shop/searchresults.asp?ProdTypeList=1090&ParCat=9999&ShowImages=1) |   
+|  | [TELEPHONES](http://www.beachcamera.com/shop/searchresults.asp?ProdTypeList=4110&ParCat=9999&ShowImages=1) |   
+|  | [BINOCULARS/SCOPES](http://www.beachcamera.com/shop/searchresults.asp?ProdTypeList=1005&ParCat=9999&ShowImages=1) |   
+|  | [CAR ELECTRONICS](http://www.beachcamera.com/shop/searchresults.asp?ProdTypeList=2160&ParCat=9999&ShowImages=1) |   
+|  | [ACCESSORIES](http://www.beachcamera.com/shop/searchresults.asp?ProdTypeList=1004&ParCat=9999&ShowImages=1) |   
+|  | [GIFT CERTIFICATE](http://www.beachcamera.com/shop/searchresults.asp?ProdTypeList=2018&ParCat=9999&ShowImages=1) |   
+|  | [CLOSEOUT CORNER](http://www.beachcamera.com/shop/searchresults.asp?ProdTypeList=3101&ParCat=9999&ShowImages=1) |   
+|  | [WATCHES](http://www.beachcamera.com/shop/searchresults.asp?ProdTypeList=5800&ParCat=9999&ShowImages=1) |   
   
   
   
