@@ -1,443 +1,335 @@
-<!--The following is the downloaded HTML source of the forbes.com privacy policy that was archived on 1999-05-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/19990508054941id_/http%3A//www.forbes.com/tool/html/privacy_statement.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the forbes.com privacy policy that was archived on 2000-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20000620162438id_/http%3A//www.forbes.com/tool/html/privacy_state.htm) for the most accurate reproduction.-->
 
 <html><head>
+<meta http-equiv="Expires" content="Tue, 01 Jan 1981 12:00:00 GMT">
 
-  <title>FORBES ONLINE PRIVACY POLICY&lt;</title>
-   
-    <link rel="stylesheet" type="text/css" href="/tool/styles/tool.css">
- 
- </head>
+  <title>FORBES ONLINE PRIVACY POLICY</title>
+<script language="JavaScript" src="/tool/javascript/AdTag.js"></script>
+</head>
  
  <body bgcolor="#333366" link="#0000CC" alink="0000FF" vlink="#000066">
- <p><table border="0" cellspacing="8" cellpadding="0" width="615">
-    <tbody><tr>
-       <td valign="top" rowspan="2" bgcolor="#CCCCCC">
-          <p>
- 		 
+ <!--outside table for structure/ad-->
+<table cellpadding="3" cellspacing="8" border="0" width="100%">
+<tbody><tr valign="TOP"><td bgcolor="CCCCCC">
+
+
+
+                                     
 <!--left frame--> 
-<table border="0" bgcolor="#CCCCCC" cellspacing="3" cellpadding="0" width="100">
-<tbody><tr>
-<td valign="BOTTOM" colspan="2" nowrap="">
-<a href="/"><img src="/tool/images/f_com.gif" border="0"></a><br>
-<img src="/tool/assets/images/clear_pixel.gif" width="14" height="1"><font size="-2" face="helvetica,arial" color="0000FF"><!-- date -->May 8, 1999<!-- /date --></font></td>
-</tr>
-
-
-
-<tr>
-<td colspan="2"><img src="/tool/assets/images/clear_pixel.gif" width="1" height="3"><br>
-&nbsp; <!-- AdSpace creative=homepagelogo spacedesc=navbarpos1 --><a href="/event.ng/Type=click&amp;AdID=2508&amp;ProfileID=286&amp;RunID=953&amp;GroupID=1&amp;FamilyID=348&amp;TagValues=253.607.619&amp;Redirect=https:%2F%2Fwww.forbes.com%2Fsubscribe%2Fforbes%2Fforbes_text.htm" target="blank"><img src="http://www.forbes.com/ads/Forbes_Internal/subscription_top2.gif" border="0" alt="Click here to subscribe to Forbes."></a><!-- /AdSpace-->
-</td></tr>
-
-<tr>
-<td colspan="2">
-<font size="-2" face="helvetica,arial" color="#000066"><b>&nbsp;Search Engine</b></font>
-</td>
-</tr>
-
-<!--begin search form-->
-<form name="Search" action="/scripts/Toolquery.idq" method="GET"></form>
-<input type="hidden" name="CiMaxRecordsPerPage" value="10">
-<input type="hidden" name="CiScope" value="/">
-<input type="hidden" name="TemplateName" value="Toolquerynew">
-<input type="hidden" name="CiSort" value="rank[d]">
-<input type="hidden" name="HTMLQueryForm" value="/tool/html/search.htm">
-<tr>
+<table align="LEFT" border="0" cellspacing="0" cellpadding="3" width="100">
+<tbody><tr bgcolor="#CCCCCC">
 <td>
-&nbsp;<!--indent cell-->
-</td>
-<td>
-<font size="-2" face="helvetica,arial">
 
-<!--search box table-->
-	<table border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-	<td>
-	<input type="text" name="CiRestriction" value="" size="9">
-	</td>
-	<td valign="bottom">
-	<a href="javascript:document.Search.submit();" onmouseover="window.status='Quick Search' ; return true;"><img src="/tool/images/gow.gif" width="19" height="16" border="0" align="bottom" hspace="1"></a>
-	</td>
-	</tr>
-	</tbody></table>
-<!--end search box table-->
+<script language="Javascript">
 
-<a href="/tool/html/search.htm"><font size="-2" face="helvetica,arial">Advanced search</font></a><font size="-2" face="helvetica,arial">
- 
-<!--end search form--> 
+
+var ThisURL = document.URL;
+ThisURL = ThisURL.toUpperCase();
+if ((ThisURL.indexOf("FORBES.STOCKSMART") > 0) || (ThisURL.indexOf("209.220.90.98") > 0)  || (ThisURL.indexOf("FORBESFINDER") > 0)) 
+{
+	document.write('<A HREF="http://www.forbes.com">');
+}
+else
+{
+	document.write('<A HREF="http://www.forbes.com/">');
+} 
+
+
+function DoSubmit() {
+	iquery = document.SearchForm.i.value;
+        //alert(iquery)
+	if ((iquery.length > 253) || (iquery == "") || (iquery == "Search Term") || (iquery == "Enter term and select search category below"))  {
+		window.location = "http://www.forbesfinder.com";
+                return false;
+	} else {
+	if (document.SearchForm.Sopt[0].checked==1) {
+		document.SearchForm.action = "http://www.forbesfinder.com/forbessearch/search.asp";
+		document.SearchForm.q1.value = document.SearchForm.i.value;
+		document.SearchForm.MT.value = document.SearchForm.i.value;
+		document.SearchForm.RD.value = "DM";
+	} else {
+		document.SearchForm.action = "http://www.forbesfinder.com/WebSearch/finder/forbesfinder.asp";
+		document.SearchForm.q1.value = document.SearchForm.i.value;
+		document.SearchForm.MT.value = document.SearchForm.i.value;
+		document.SearchForm.RD.value = "AN";
+	}	
+	document.SearchForm.submit();
+	return true;
+	}
+}
+
+
+function SubmitUrl1() 
+{ 
+  
+var urlStr = 'http://markets2.forbes.com/Stock_delay_report.asp?Symbol='+document.Inputform.Symbol.value+'&Timespan='+document.Inputform.Timespan.value;
+var newWindow=window.open(urlStr,"_top");
+}
+
+
+function writedate(){
+	var m = new Date();
+	var d = m.getDate();
+	var y = m.getFullYear();
+	var mo = m.getMonth(); 
+	if (mo==0){	
+		monthname = "January";
+	} else if (mo==1){
+		monthname = "February";
+	} else if (mo==2){
+		monthname = "March";
+	} else if (mo==3){
+		monthname = "April";
+	} else if (mo==4){
+		monthname = "May";
+	} else if (mo==5){
+		monthname = "June";
+	} else if (mo==6){
+		monthname = "July";
+	} else if (mo==7){
+		monthname = "August";
+	} else if (mo==8){
+		monthname = "September";
+	} else if (mo==9){
+		monthname = "October";
+	} else if (mo==10){
+		monthname = "November";
+	} else if (mo==11){
+		monthname = "December";
+	}
+	document.write(monthname + " " + d + ",  " + y);
+}
+
+
+function clearInputField(inputField) {
+	inputField.value = "";
+	}
+
+//-->
+</script><a href="http://www.forbes.com/">
+
+
+</a><a href="http://www.forbes.com"><img src="http://www.forbes.com/tool/images/f_com.gif" border="0"></a><br>
+<font size="-2" face="helvetica,arial,sans-serif" color="0000FF">
+<script language="Javascript">
+writedate()
+</script>January 30,  2020
 </font>
-</font></td>
-</tr>
+<font size="-2" face="verdana,helvetica,arial,sans-serif" color="000066">
+<p>
+<a href="https://commerce.cdsfulfillment.com/FRB/subscriptions.cgi"><img src="http://www.forbes.com/tool/toolbox/promo/images/sub3.gif" width="114" height="25" border="0" alt="Subscribe to Forbes" vspace="2"></a><br><a href="http://www.forbes.com/subscribeindex.htm">Subscriber&nbsp;Services</a><b>
+</b></p><p><b>
+<!--Search-->  
+</b></p><form name="SearchForm" action="" method="GET" onsubmit="DoSubmit()"><b>
+<input type="hidden" name="act.search" value="1">
+<input type="hidden" name="q1" value="">
+<input type="hidden" name="RD" value="">
+<input type="hidden" name="MT" value="">
+<input type="hidden" name="s" value="">
+<input type="hidden" name="sort" value="Meta_fdcinktomidate">
+<input type="hidden" name="sortorder" value="[d]">
+<input type="hidden" name="newsearch" value="">
+<input type="hidden" name="catalog" value="">
+<input type="hidden" name="t" value="SEARCH">
+<input type="hidden" name="fpage" value="1">
+<input type="hidden" name="HTMLQueryForm" value="http://www.forbesfinder.com/websearch/finder/inkresults.asp">
+</b><p><b>
+<font size="-1">
+<a href="http://www.forbesfinder.com" title="Click to search the web">FORBESFINDER</a></font>™
+<input type="text" name="i" size="13" maxsize="65" value="Search Term" onfocus="clearInputField(document.SearchForm.i)" ;="">&nbsp;<a href="javascript:DoSubmit();">Go!</a></b><br><input type="radio" name="Sopt" checked="">Forbes.com
+<input type="hidden" name="leftsearch" value="forbes.com"><br> 
+<input type="radio" name="Sopt">Entire Web<b>
 
-<tr>
-<td colspan="2">
-<font size="-2" face="helvetica,arial" color="#000066"><!--begin quote form-->
-</font><form action="/asp/quote.asp" method="POST" name="Quote"><font size="-2" face="helvetica,arial" color="#000066">
-<b>&nbsp; Quick Quotes</b></font>
-</form></td>
-</tr> 
 
-<tr>
-<td>
-&nbsp;<!--indent cell-->
-</td>
-<td> 
-<!--quote box table-->
-	<table border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-	<td>
-	<input type="text" name="ticker" value="" size="9">
-	</td>
-	<td valign="bottom">
-	<a href="javascript:document.Quote.submit();" onmouseover="window.status='Receive Quotes' ; return true;"><img src="/tool/images/gow.gif" width="19" height="16" border="0" align="bottom" hspace="1"></a>
+<!--endsearch-->  
 
 
-
-	</td>
-	</tr>
-	</tbody></table>
-<!--end quote box table-->
- 
+</b></p></form><p></p><form method="POST" name="Inputform" action="javascript:SubmitUrl1()"><b>
+<!--begin quote form-->
+Stocks<br>
+<input type="text" name="Symbol" value="symbol" size="12" onfocus="clearInputField(document.Inputform.Symbol);">&nbsp;<a href="javascript:SubmitUrl1()">Go!</a><br>
+<input type="Hidden" name="Timespan" value="260">
 <!--end quote form-->
-</td>
-</tr>
-<tr>
-<td colspan="2" align="CENTER" valign="TOP">
-<!-- AdSpace creative=homepagelogo spacedesc=quotelookup --><a href="/event.ng/Type=click&amp;AdID=2644&amp;ProfileID=289&amp;RunID=1085&amp;GroupID=1&amp;FamilyID=1&amp;TagValues=253.503.607&amp;Redirect=http:%2F%2Fwww.esignal.com%2Fweb%2Flix7.htm" target="blank"><img src="http://www.forbes.com/ads/eSignal/eSignal990506nav.gif" border="0" alt="Click here."></a><!-- /AdSpace-->
-</td>
-</tr>
+<a href="http://markets.forbes.com/forbes/Markets_Update.html" title="In depth market data, quotes &amp; charts">Market Detail</a>
 
-<tr>
-<td colspan="2">
-<font size="-2" face="helvetica,arial" color="#000066"><!--begin newsletter form-->
-</font><form action="/asp/join.asp" method="POST" name="Newsletter"><font size="-2" face="helvetica,arial" color="#000066">
-<b>&nbsp; Tool Newsletter</b> </font>
-</form></td>
-</tr>
-<tr>
-<td>
-&nbsp;<!--indent cell-->
-</td>
-<td>
-<!--newsletter box table-->
-	<table border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-	<td>
-	<input type="text" name="eMail" value="e-mail" size="9">
-	</td>
-	<td valign="bottom">
-	<a href="javascript:document.Newsletter.submit();" onmouseover="window.status='Join to receive Newsletter' ; return true;"><img src="/tool/images/gow.gif" width="19" height="16" border="0" align="bottom" hspace="1"></a>
-	</td>
-	</tr>
-	</tbody></table>
-<!--end newsletter box table-->
- 
-</td>
-</tr>
+<p>
+</p></b></form><form method="post" action="http://www.forbes.com/tool/toolbox/lipper/tickersearch.asp" name="val2"><b>
+<!--Begin quote form-->
+<a href="http://www.forbes.com/funds/" title="Forbes Mutual Fund Center">Mutual&nbsp;Funds</a><br>
 
-<tr>
-<td colspan="2">
-<font size="-2" face="helvetica,arial" color="#000066"><b>&nbsp;<!-- AdSpace creative=homepagelogo spacedesc=toologo --><a href="/event.ng/Type=click&amp;AdID=2618&amp;ProfileID=318&amp;RunID=1150&amp;GroupID=1&amp;FamilyID=1&amp;TagValues=253.607.698&amp;Redirect=http:%2F%2Fwww.sgi.com" target="blank"><img src="http://www.forbes.com/ads/sgi/SGI990504logo.gif" border="0" alt="Toolbox - sponsored by SGI"></a><!-- /AdSpace --><br> &nbsp; Toolbox</b></font></td>
-</tr>
-<tr>
-<td>
-<!--indent cell-->
-<img src="/tool/assets/images/clear_pixel.gif" width="10" height="1">
-</td>
-<td><font size="-2" face="helvetica,arial">
-<a href="/tool/html/toolbox.asp?category=calculators" onmouseover="window.status='Calculators' ; return true;">Calculators</a><br>
-<a href="/tool/calendar/calendar.asp">Calendar</a><br>
-<a href="/tool/html/toolbox.asp?category=databases" onmouseover="window.status='Forbes Databases' ; return true;">Databases</a><br>
-<a href="/tool/html/toolbox.asp?category=downloads" onmouseover="window.status='Audio Downloads' ; return true;">Downloads</a><br>
-<a href="/tool/html/toolbox.asp?category=financial" onmouseover="window.status='Financial' ; return true;">Financial</a><br>
-<a href="/tool/html/toolbox.asp?category=lists" onmouseover="window.status='Forbes Lists' ; return true;">Forbes Lists</a><br>
-<a href="/tool/html/toolbox.asp?category=surveys" onmouseover="window.status='Surveys' ; return true;">Surveys</a>
-</font></td>
-</tr>
-<tr>
-<td colspan="2">
-<font size="-2" face="helvetica,arial" color="#000066"><b>&nbsp; Departments</b></font>
-</td>
-</tr>
+<input name="TICKER" value="symbol" size="8" maxlength="10" onfocus="clearInputField(document.val2.TICKER);">&nbsp;<a href="javascript:document.val2.submit();">Go!</a><br>
+</b><a href="http://www.forbes.com/tool/toolbox/lipper/alpha.asp?value2=A" title="Find a fund symbol">Symbol lookup</a><b>
+<!--end quote form-->
+<p></p>
+<!--end quote form-->
+<a href="http://www.forbes.com/tool/html/publications.htm" title="Forbes, Forbes ASAP, Forbes FYI and more...">Magazines/Archives</a><p>
+<a href="http://www.forbes.com/departments/" title="Editorial content for the current week">News&nbsp;Departments</a></p><p>
+<a href="http://www.forbes.com/tool/html/letters/index.htm" title="Letters to Forbes.com and Forbes magazine">Letters&nbsp;to&nbsp;the&nbsp;Editor</a></p><p>
+<a href="http://www.forbes.com/tool/html/toolbox.htm" title="Forbes' famous annual rankings">Forbes&nbsp;Lists</a><br>
+&nbsp;&nbsp;&nbsp;<a href="http://www.forbes.com/tool/toolbox/rich400" title="400 Richest Americans">Richest&nbsp;Americans</a><br>
+&nbsp;&nbsp;&nbsp;<a href="http://www.forbes.com/tool/toolbox/celeb100" title="100 Most Powerful Celebrities">Celebrity&nbsp;100</a><br>
+&nbsp;&nbsp;&nbsp;<a href="http://www.forbes.com/tool/toolbox/billnew" title="The World's Billionaires">Richest&nbsp;Worldwide</a><br>
+&nbsp;&nbsp;&nbsp;<a href="http://www.forbes.com/tool/toolbox/forbes500s" title="Ranking of the top corporations">500&nbsp;Companies</a><br>
+&nbsp;&nbsp;&nbsp;<a href="http://www.forbes.com/tool/toolbox/bestplaces" title="Forbes report on metro areas">Best&nbsp;Places</a><br>
+&nbsp;&nbsp;&nbsp;<a href="http://www.forbes.com/tool/html/toolbox.htm" title="more of Forbes' famous annual rankings">more...</a></p><p>
+<a href="http://www.forbes.com/tool/html/toolbox2.htm" title="Calculate tax liability, college costs, and more...">Calculators</a><br>
+<a href="http://www.forbes.com/tool/html/toolbox3.htm" title="Find financial information">Financial&nbsp;Tools</a>
+</p><p>
+</p><form action="http://www.forbes.com/asp/join.asp" method="POST" name="Newsletter">
+Free&nbsp;Newsletter<br>
+<input type="text" name="eMail" value="your email" size="10" onfocus="clearInputField(document.Newsletter.eMail);">&nbsp;<a href="javascript:document.Newsletter.submit();">Go!</a>
+</form>
+<p>
+<!--<A HREF="http://www.forbes.com/rtrnewswire/current/index.asp">News</A><P>-->
+<a href="http://ragingbull.forbes.com" title="Post your own comments">Chat/Message&nbsp;Boards</a></p><p>
+<a href="http://www.forbes.com/contact" title="Contact information and services">Contact&nbsp;Forbes.com</a></p><p>
+<a href="http://www.forbes.com/helpcenter/faq.htm" title="Customer service, FAQ, sitemap">Help</a></p></b></form><p><b>
+</b></p></font><p><font size="-2" face="verdana,helvetica,arial,sans-serif" color="000066">
+<!-- Ad Here -->
+<script language="JavaScript">
+OutputAdTag('homepagelogo', 'nav_tile');
+</script><iframe target="_blank" width="88" height="31" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="https://web.archive.org/web/20000815213344/http://ads.forbes.net/html.ng/transactionID=65374&amp;Creative=homepagelogo&amp;SpaceDesc=nav_tile&amp;document-uri=https://web.archive.org/web/20000620162438id_/http%3A//www.forbes.com/tool/html/privacy_state.htm"><SCRIPT LANGUAGE="JavaScript1.1" SRC="https://web.archive.org/web/20000815213344/http://ads.forbes.net/js.ng/Params.richmedia=yes&transactionID=65374&Creative=homepagelogo&SpaceDesc=nav_tile&document-uri=https://web.archive.org/web/20000620162438id_/http%3A//www.forbes.com/tool/html/privacy_state.htm"></SCRIPT></iframe>
+<noscript>
+<A TARGET="_blank" HREF="http://ads.forbes.net/click.ng/Creative=homepagelogo&SpaceDesc=nav_tile">
+<IMG BORDER=0 SRC="http://ads.forbes.net/image.ng/Creative=homepagelogo&SpaceDesc=nav_tile"></A>
+</noscript>
+<!-- /Ad Here -->
 
-<tr>
-<td>
-&nbsp;<!--indent cell-->
-</td>
-<td>
-<font size="-2" face="helvetica,arial">
-<a id="Monday" href="/tool/html/99/May/0503/" onmouseover="window.status='Technology: Monday' ; return true;">Technology</a><br>
-<a id="Tuesday" href="/tool/html/99/May/0504/" onmouseover="window.status='Convergence: Tuesday' ; return true;">Convergence</a><br>
-<a id="Wednesday" href="/tool/html/99/May/0505/" onmouseover="window.status='Startups: Wednesday' ; return true;">Startups</a><br>
-<a id="Thursday" href="/tool/html/99/May/0506/" onmouseover="window.status='Companies: Thursday' ; return true;">Companies</a><br>
-<a id="Friday" href="/tool/html/99/May/0507/" onmouseover="window.status='E-Business: Friday' ; return true;">E-Business</a><br>
-<a id="Saturday" href="/tool/html/99/May/0508/" onmouseover="window.status='Personal finance: Saturday' ; return true;">Personal Finance</a>
-</font>
-</td>
+
+
+</font></p></td>
 </tr>
 
 
-
-<tr>
-<td colspan="2">
-<font size="-2" face="helvetica,arial" color="#000066"><b>&nbsp; Publications</b></font>
-</td>
-</tr>
-
-<tr>
-<td>
-&nbsp;<!--indent cell-->
-</td>
-<td>
-<font size="-2" face="helvetica,arial">
-<a href="http://www.forbes.com" onmouseover="window.status='Forbes Magazine US Edition.' ; return true;">Forbes</a>
-<br><a href="http://www.global.forbes.com" onmouseover="window.status='Forbes Magazine Global Edition.' ; return true;">Forbes Global</a>
-<br><a href="/asap/" onmouseover="window.status='ASAP.' ; return true;">ASAP</a>
-<br><a href="/fyi/" onmouseover="window.status='FYI - The good life.' ; return true;">FYI</a>
-<br><a href="http://www.americanheritage.com" onmouseover="window.status='American Heritage Magazine.' ; return true;">American Heritage</a>
-<br><a href="/tool/html/publications.htm" onmouseover="window.status='Listing of all Forbes Publications' ; return true;">Archives</a>
-</font>
-</td>
-</tr>
-
-<tr>
-<td valign="top" colspan="2">
-<font size="-2" face="helvetica,arial" color="#000066"><b>&nbsp; Centers</b> </font>
-</td>
-</tr>
-
-<tr>
-<td>
-&nbsp;<!--indent cell-->
-</td>
-<td>
-<font size="-2" face="helvetica,arial">
-
-<a href="http://www.forbes.com/tool/toolbox/monsterboard" onmouseover="window.status='Career Center' ; return true;">Career Center</a>
-
-<br>
-
-
-<a href="/growing/" onmouseover="window.status='Small Business Center' ; return true;">Small Business</a>
-<br><a href="/funds/" onmouseover="window.status='Mutual Fund Center' ; return true;">Mutual Funds</a>
-
-
-<br><a href="http://www.forbes.com/buyers/" onmouseover="window.status='Buyers Center' ; return true;">Buyer's Guide</a>
-
-</font>
-</td>
-</tr>
-
-<tr>
-<td colspan="2">
-<font size="-2" face="helvetica,arial" color="#000066"><b>&nbsp; Forums</b></font>
-</td>
-</tr>
-
-<tr>
-<td>
-&nbsp;<!--indent cell-->
-</td>
-
-<td>
-<font size="-2" face="helvetica,arial">
-<a href="http://www.wellengaged.com/engaged/wrap.cgi/forbes.cgi?c=forbes" onmouseover="window.status='Forbes Forum.' ; return true;">Forbes Forum</a>
-<br><a href="http://www.wellengaged.com/engaged/wrap.cgi/forbes.cgi?c=mind" onmouseover="window.status='On My Mind.' ; return true;">On My Mind</a>
-</font>
-</td>
-</tr>
-
-<tr>
-<td colspan="2">
-<font size="-2" face="helvetica,arial" color="#000066"><b>&nbsp; Media Center</b></font></td>
-</tr>
-<tr>
-<td>
-<!--indent cell-->
-<img src="/tool/assets/images/clear_pixel.gif" width="10" height="1">
-</td>
-<td><font size="-2" face="helvetica,arial">
-<a href="/media/index.asp?category=conferences" onmouseover="window.status='Conferences' ; return true;">Conferences</a><br>
-<a href="/media/index.asp?category=business" onmouseover="window.status='Business Reports' ; return true;">Business Reports</a><br>
-<a href="/media/index.asp?category=asap" onmouseover="window.status='ASAP Events' ; return true;">ASAP Events</a><br>
-<a href="/media/index.asp?category=featured" onmouseover="window.status='Featured Events' ; return true;">Featured Events</a>
-</font></td>
-</tr>
-            
-
-<tr>
-<td colspan="2">
-<font size="-2" face="helvetica,arial" color="#000066"><b>&nbsp; <a href="http://www.cliquepoint.com/forbes/" onmouseover="window.status='Shop at Forbes' ; return true;">Shop at Forbes</a></b> </font>
-</td>
-</tr>
-
-
-
-<tr>
-<td colspan="2">
-<font size="-2" face="helvetica,arial" color="#000066"><b>&nbsp; Services</b> </font>
-</td>
-</tr>
-
-<tr>
-<td>
-&nbsp;<!--indent cell-->
-</td>
- <td>
- <font size="-2" face="helvetica,arial">
-<a href="http://www.forbes.com/contact/" onmouseover="window.status='Contact Us' ; return true;">Contact Us</a>
-<br><a href="/tool/html/1999edit.htm" onmouseover="window.status='Editorial Calendar' ; return true;">Editorial Calendar</a>
-<br><a href="http://www.forbes.com/employment/" onmouseover="window.status='Employment' ; return true;">Employment</a>
-<br><a href="/tool/html/fdm.htm" onmouseover="window.status='Forbes Staff' ; return true;">Masthead</a>
-<br><a href="http://www.forbes.com/reprints/" onmouseover="window.status='Reprints' ; return true;">Reprints</a>
-<br><a href="/tool/html/sitemap.htm" onmouseover="window.status='Sitemap' ; return true;">Sitemap</a>
-<br><a href="/subscribeindex.htm" onmouseover="window.status='Subscriptions' ; return true;">Subscriptions</a>
-<p><a href="mailto:readers@forbes.com" onmouseover="window.status='Letters to Forbes Magazine' ; return true;">Letters to Forbes Magazine</a></p><p>
-<a href="mailto:letters@forbesdigital.com" onmouseover="window.status='Letters to Forbes Digital Tool' ; return true;">Letters to Forbes Digital Tool</a>
-</p><p><a href="/tool/html/letters/" onmouseover="window.status='Letters from Tool Readers' ; return true;">Letters from Tool Readers</a>
-</p><p><a href="/specialsections/" onmouseover="window.status='Special Sections' ; return true;">Special Sections</a>
-</p></font><p><font size="-2" face="helvetica,arial"><a href="/conf/" onmouseover="window.status='Conferences' ; return true;">Conferences</a>
-
-</font>
-</p></td>
-</tr>
-
-<tr>
-<td colspan="2">
-&nbsp;<br><a href="/subscribeindex.htm"><!-- AdSpace Creative=homepagelogo spacedesc=subbutton --></a><a href="/event.ng/Type=click&amp;AdID=2534&amp;ProfileID=284&amp;RunID=949&amp;GroupID=1&amp;FamilyID=1&amp;TagValues=253.606.607&amp;Redirect=http:%2F%2Fwww.forbes.com%2Fnewsletter.htm" target="blank"><img src="http://www.forbes.com/ads/forbes_internal/fin.gif" border="0" height="40" width="103" alt="Subscribe to Forbes Investment Newsletters"></a><!-- /AdSpace -->
-</td>
-</tr>
 </tbody></table>
 <!--end left frame-->
 
- 		 <img src="/tool/assets/images/clear_pixel.gif" width="100" height="1" border="0" align="bottom"><br>
-       </p></td>
-       <td valign="top" colspan="2" bgcolor="#FFFFFF">
-          <p>
- 		 <table border="0" cellspacing="0" cellpadding="3" width="100%">
- 			
-<tbody><tr bgcolor="#333366">
-	<td>
-		<font size="-2" face="verdana" color="#FFCC00">
-		<script src="/tool/javascript/quotes.js" language="JavaScript">
-		</script><p><b>The easy way to teach children the value of money is to borrow from them.<br> -ANONYMOUS</b></p> 
-		</font>
-	</td>
-	<form action="" method="GET"></form>
-	<td valign="TOP" align="RIGHT">
-		<select name="channels" onchange="window.open(this.options[this.selectedIndex].value,'_top')">
-			<option value="/">Digital Tool Home
-			</option><option value="/tool/html/sitemap.htm">Digital Tool Sitemap 
-			</option><option value="/tool/html/Publications.htm">Publications
-			</option><option value="/tool/html/toolbox.htm">Tools
-			</option><option value="/growing/">Small Business Center
-			</option><option value="/funds/">Mutual Funds Center
-			</option><option value="/media/">Media Center
-			</option><option value="/specialsections/">Special Sections
-			</option><option value="/conf/">Conferences
-			</option><option value="/contact/">Contact Us
-			</option><option value="/tool/html/services.htm">Reader Services
-			</option><option value="/tool/html/search.htm">Search
-			</option><option value="http://www.cliquepoint.com/forbes">Forbes/Clique Marketplace
-			</option><option value="http://www.forbes.com/subscribeindex.htm">Forbes Subscriptions
-		</option></select>
-	</td>
-	
-</tr>
-         
 
 
-          </tbody></table>
-       </p></td>
-    </tr>
- 
- <tr bgcolor="#FFFFFF">
- 
- <td valign="TOP">
- <img src="/tool/assets/images/clear_pixel.gif" width="315" height="1" border="0"><br>
- 
- <table border="0" cellpadding="5" cellspacing="0" width="100%">
- <tbody><tr><td>
- <br>
- 
- <font face="Arial,Helvetica,Sans-Serif" size="-1">
- 
+
+
+
+
+</td>
+<td bgcolor="FFFFFF">
+
+<font face="VERDANA,GENEVA,HELVETICA" size="-1">
+<font size="+2">
+FORBES.COM PRIVACY STATEMENT</font>
 <p>
-</p><p><font size="4"><b>FORBES ONLINE PRIVACY POLICY</b></font>
-</p><p>The policies below are applicable to Forbes.com, which is owned and operated by Forbes.com Inc.
-</p><p>As a general policy, no personal information is automatically collected from visitors to the Forbes site, nor is so-called cookie technology used to collect personally identifying information by the sites created by Forbes.com Inc.
-</p><p>However, certain non-personal information of visitors is recorded by the standard operation of Forbes Online's Internet servers. This information is primarily used to provide an enhanced online experience for the visitor. Information tracked includes the type of browser being used by the visitor (e.g., Netscape, Internet Explorer), the type of operating system (e.g., Macintosh, Windows) in use by the visitor and the domain name of the visitor's Internet service provider (e.g., America Online, Earthlink). By having this information, web pages optimized for a particular visitor's computer are automatically available to that visitor. Other uses of this information include internal review of the number of visitors to the sites but only in an aggregate and non-personally identifiable form. E-mail addresses and other personally identifiable data about visitors to this site are known to Forbes Digital Media only when voluntarily submitted. 
-</p><p>Forbes Online will only collect personally identifying information with prior notification of its users.  Cases may include but are not limited to the following: (i) contest or sweepstakes registration and (ii) subscription.  In addition, information is collected in certain portions of sites in which guests specifically and knowingly provide such information along with content submissions, community postings (i.e., forums), suggestions, or reader service responses. Forbes Online may use such information for editorial and feedback purposes (to the extent that is explained when guests provide the information). In the event Forbes Online plans to post any such information on a site, guests are provided prior notification of such posting.  
-</p><p><b>Use of Cookies</b>
-</p><p>What are cookies? Cookies are pieces of information that a web site transfers to an individual's hard drive for record-keeping purposes. Cookies make web-surfing easier for you by saving your passwords, purchases, and preferences while you're at our site. The use of cookies is an industry standard--you'll find them at most major web sites. 
+<i>Revised and posted as of: June 5, 2000</i>
 </p><p>
-</p><p>By showing how and when guests use the site, cookies help us see which areas are popular and which are not. Many improvements and updates to the site are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies. If you accept the first tracking cookie from Forbes.com, you won't be offered as many afterwards. 
+Forbes.com is committed to safeguarding your privacy online. Please read the following statement to understand how your personal information will be treated as you make full use of the Forbes.com Web site. The Forbes.com Web site is owned and operated by Forbes.com Inc.
 </p><p>
+If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at <a href="mailto:privacy@forbes.com">privacy@forbes.com</a>.
 </p><p>
-Examples of How Forbes.com Uses Cookies: <br>
-<br>• A cookie lets the computers remember that you've registered, which allows us to speed up your future activities at our sites. 
+<b>Gathering of Information </b>
 </p><p>
-How Forbes.com Does Not Use Cookies: 
+<u>Voluntary Submission</u>
+</p><p>
+Forbes.com does not collect personally identifying information about any individual Forbes.com Web site user except when knowingly provided by such individual. For example, we may ask you for information when you register for a contest or survey or to receive a newsletter. You always have the option not to provide the information we request. If you choose not to provide the information we request, you can still visit most of the Forbes.com Web site, but you may be unable to access certain options and services. 
+</p><p>
+<u>Cookies</u>
+</p><p>
+A cookie is a data file that certain Web sites write to your computer's hard drive when you visit such sites. A cookie file can contain information, such as a user identification code, that the site uses to track the pages you have visited. Forbes.com uses cookies solely to track user traffic patterns throughout the Forbes.com Web site. We use this data on an anonymous basis and we do not correlate this information with personal data of any user. 
+</p><p>
+Most Web site browsers automatically accept cookies, but you can usually change your browser settings to display a warning before accepting a cookie, or to refuse all cookies. However, if you choose to disable the receipt of cookies from our Web site, you may not be able to use certain features of the site.
+</p><p>
+<u>Browser Level Information</u>
+</p><p>
+Forbes.com Web servers automatically collect information about a site user's <a href="#ip"><b>IP address</b></a>, <a href="#type"><b>browser type</b></a> and <a href="#refer"><b>referrer</b></a> by reading this information from the user's browser (information provided by every user's browser).  This information is collected in a database and used--in an aggregated, anonymous manner--in our internal analysis of traffic patterns within our Web site. This information is automatically logged by most Web sites.
+</p><p>
+
+<b>Use of Information</b>
+</p><p>
+Our primary goal in collecting user information is to enhance your experience on our Web site. We achieve this goal by, among other things, providing interactive communications such as our electronic newsletters to the e-mail address that you provide to us, and developing future editorial content based on your interests. To develop content targeted to your interests, we use aggregated user information to determine which areas of our Web site users prefer based upon traffic to those areas. We do not track what individual users read, but instead how well each page or content area performs overall. 
+</p><p>
+Forbes.com is a free Web site and we derive revenues from advertising.  In order to attract and retain advertisers we use the aggregated, anonymous information that we gather (as well as information from third-party market researchers) to describe our services to partners and to assist our advertisers and sponsors to better understand our audience. This is essential to keeping our service free of charge to our users. We do not disclose personally identifying information about our users to these parties.
+</p><p>
+Forbes.com may also disclose information about our users when we believe, in good faith, that the disclosure is required by law. 
+</p><p>
+When you are on an area of Forbes.com and are asked for personal information, you are sharing that information with Forbes.com as well as business partners and vendors providing hosting and other services for Forbes.com.  If you do not want your information to be shared, you can choose not to allow the transfer of your information by not using that particular service. These parties, as well as advertisers who contract directly with a third-party service to serve their advertisements, may set their own cookies.
+</p><p>
+In addition, any personally identifiable information provided by our users as part of an advertiser promotion online may be provided directly to advertisers.
+</p><p>
+Please be aware that Forbes.com sponsors, advertisers or Web sites that have links on our site may collect personally identifiable information about you. The information practices of those parties and Web sites linked to Forbes.com are not covered by this privacy statement. Forbes.com users should also be aware that, when you voluntarily disclose personal information in chat areas or bulletin boards, that information may be collected by others and may result in unsolicited messages from others.
+</p><p>
+<b>Kids under 13:</b>  Do not send any information about yourself to us--including information such as your name, address, or e-mail address.  We do not knowingly collect personally identifiable information from children under 13.  In the event that we learn we have collected any personal information from a child under the age of 13 without verification of parental consent, we will delete that information from our database as quickly as possible.
+</p><p>
+
+<b>How to Contact Us</b>
+</p><p>
+If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at <a href="mailto: privacy@forbes.com">privacy@forbes.com</a>.  
+</p><p>
+This statement may change from time to time, so please check back periodically.
+</p><p>
+
+© 2000 Forbes.com Inc. All Rights Reserved.
+</p><p>
+<a name="ip"><font size="-2"><b>DEFINITIONS:</b><br>
+</font></a></p><p><a name="ip"><font size="-2">
+<b>IP address:</b><br>
+Every computer connected to the Internet has a numeric address called an ìIP address." This may or may not correspond uniquely to a particular computer. In some cases, IP addresses can be resolved to domain names, which may indicate a site visitor's Internet service provider, employer, university, etc. As part of its database analysis Forbes.com resolves IP addresses to domain names.
+</font></a></p><p><font size="-2"><a name="type">
+<b>Browser type:</b><br>
+A userís browser is a software program running on a computer that allows users to access documents on the World Wide Web. Browsers can be either text or graphic. They read HTML coded pages that reside on a server and interpret the coding into what the user sees as Web pages. Netscape Navigator and Microsoft Internet Explorer are examples of Web browsers. Browser type typically discloses hardware platform, operating system, and browser software and version.
+</a></font></p><p><font size="-2"><a name="refer">
+<b>Referrer:</b><br>
+The referrer is the URI of the Internet resource or page that causes a browser to request a page or image from Forbes.com servers.
+
+</a></font></p><p><font size="-2"><a name="refer">
+ 
+</a></font></p><hr size="1" width="100%" noshade=""><font size="-2"><a name="refer">
+</a></font><center><font size="-2"><a name="refer">
+<font face="VERDANA,HELVETICA" size="-2"></font></a><font face="VERDANA,HELVETICA" size="-2"><a href="/">Home</a>
+
+</font>&nbsp;·&nbsp;
+<font face="VERDANA,HELVETICA" size="-2">
+<a href="/tool/html/sitemap.htm">Sitemap</a></font>
+
+
+</font>&nbsp;·&nbsp;
+<font face="VERDANA,HELVETICA" size="-2">
+<a href="http://www.forbesfinder.com">Search</a>
+
+
+</font>&nbsp;·&nbsp;
+<font face="VERDANA,HELVETICA" size="-2">
+<a href="/contact/">Contact Us</a>
+
+</font>&nbsp;·&nbsp;
+<font face="VERDANA,HELVETICA" size="-2">
+<a href="http://www.forbes.com/reprints">Reprints / Permissions</a>
+</font><p><font face="VERDANA,HELVETICA" size="-2">
+<a href="/webdir/">Advertisers' Directory</a>
+</font>&nbsp;·&nbsp;
+
+<font face="VERDANA,HELVETICA" size="-2">
+<a href="http://www.forbes.com/adbanners/mediajump" target="_top">Ad Information</a>
+</font></p><p><font face="VERDANA,HELVETICA" size="-2"><font face="VERDANA,HELVETICA" size="-2">
+™
+© 2000 Forbes.com
+<font face="VERDANA,HELVETICA" size="-2">
+<a href="/tool/html/legal_disclaimer.htm">Terms, Conditions and Notices</a>
+</font></font></font></p><p><font face="VERDANA,HELVETICA" size="-2"><font face="VERDANA,HELVETICA" size="-2"><font face="VERDANA,HELVETICA" size="-2"><font face="VERDANA,HELVETICA" size="-2">
+<a href="/tool/html/privacy_state.htm">Privacy Statement</a> 
+</font>
+</font></font></font></p></center><font face="VERDANA,HELVETICA" size="-2"><font face="VERDANA,HELVETICA" size="-2">
 <br>
-<br>• Forbes.com never uses cookies to retrieve information from your computer that was not originally sent in a cookie. 
-<br>• Except as described below, Forbes.com does not use information transferred through cookies for any promotional or marketing purposes, nor is that information shared with any third parties whatsoever. 
-<br>• Forbes.com does not use cookies to identify specific individuals, except in such cases as contest registration (where a cookie allows to you to enter a contest every day without registering again each time) and personalization features where a guest requests certain information.
-</p><p>
-Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies or to alert you when cookies are being sent.  However, it is possible that some parts of the site will not function properly if you do so. 
-</p><p>
-By using this site, you signify your assent to the Forbes Online Privacy Policy.  FORBES reserves the right to make changes to privacy statement at its sole discretion without notice to the User. 
-</p></font><p><font face="Arial,Helvetica,Sans-Serif" size="-1">
-
-© Forbes Inc. All rights reserved. 
-
+&nbsp;
+<br>&nbsp;
  
  </font>
- </p></td></tr>
+ </font></font></td></tr>
  </tbody></table>
  
- <p>
 
- </p><p>
- 				  
-                  </p><center><a href="/tool/html/sitemap.htm" onmouseover="window.status='Site Map for the Forbes Digital Tool' ; return true;"><font size="-2" face="ARIAL,HELVETICA,SANS-SERIF">Sitemap</font></a><font size="-2" face="ARIAL,HELVETICA,SANS-SERIF">
-                  &nbsp;·&nbsp; </font><a href="/tool/html/help.htm" onmouseover="window.status='Reader Services and online help' ; return true;"><font size="-2" face="ARIAL,HELVETICA,SANS-SERIF">Help</font></a><font size="-2" face="ARIAL,HELVETICA,SANS-SERIF">
-                  &nbsp;·&nbsp; </font><a href="/tool/html/search.htm" onmouseover="window.status='Search the Forbes web site, including Forbes Digital Tool, Forbes Magazine and all publications.' ; return true;"><font size="-2" face="ARIAL,HELVETICA,SANS-SERIF">Search</font></a><font size="-2" face="ARIAL,HELVETICA,SANS-SERIF">
-                  &nbsp;·&nbsp; </font><a href="http://www.forbes.com/contact/" onmouseover="window.status='Contact Us' ; return true;"><font size="-2" face="ARIAL,HELVETICA,SANS-SERIF">Contact Us</font></a>
-                  
-                  <p><a href="/webdir/" onmouseover="window.status='Forbes advertisers on the internet' ; return true;"><font size="-2" face="ARIAL,HELVETICA,SANS-SERIF">Website Directory</font></a><font size="-2" face="ARIAL,HELVETICA,SANS-SERIF">&nbsp;·&nbsp; </font>
-				  <a href="mailto:webmaster@forbes.com"><font size="-2" face="ARIAL,HELVETICA,SANS-SERIF">Webmaster</font></a>
-				  <font size="-2" face="ARIAL,HELVETICA,SANS-SERIF">&nbsp;·&nbsp;</font>
-				  <a href="http://www.forbesmedia.com" target="_top"><font size="-2" face="ARIAL,HELVETICA,SANS-SERIF">Ad Information</font></a>
-                  
-                  </p><p><font size="-2" face="ARIAL,HELVETICA,SANS-SERIF">™© 1999 Forbes.com <a href="/tool/html/legal_disclaimer.htm" onmouseover="window.status='Legal notices' ; return true;">Terms, Conditions and Notices</a>
-				  <br><a href="/tool/html/privacy_statement.htm" onmouseover="window.status='Privacy Statement' ; return true;">Privacy Statement</a></font>
-                  
-                  </p><p>
-				  <a href="http://www.microsoft.com/ie/logo.asp"><img src="/tool/images/frontend/microsoft.gif" width="88" height="31" border="0" align="bottom" vspace="3"></a>
-				  <a href="http://www.digex.net" target="_blank"><img src="/tool/images/frontend/digex_4.gif" border="0" align="bottom" hspace="3"></a>
-                  <a href="http://www.real.com/products/player/index.html" target="_blank"><img src="/tool/images/frontend/freeplayer_g2.gif" width="88" height="32" border="0" align="bottom" vspace="3"></a></p></center>
-				  <center>
-				  <a href="http://www.microsoft.com/Windows/Downloads/contents/Products/MediaPlayer/" target="_blank"><img src="/tool/images/frontend/getmedia.gif" width="88" height="32" border="0" align="bottom" vspace="3"></a>
-				  <a href="http://www.informative.com/" target="_blank"><img src="/tool/images/frontend/informativeButton.gif" width="88" height="32" border="0" align="bottom" vspace="3"></a>
-				  </center>
-                  <p>
 
- 
- </p></td>
- 
- 
- 	<td valign="TOP" bgcolor="#333366">
-&nbsp;
- 	</td>
- 
- </tr>
- </tbody></table>
- 
- <script language="JavaScript1.2" src="/tool/javascript/popup.js"></script>
+
+  
  
  
  
  
- 
-</p></body></html>
+</body></html>
