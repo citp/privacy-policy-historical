@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the chesterfield.gov privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604061601id_/http%3A//chesterfield.gov/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chesterfield.gov privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204024712id_/http%3A//www.chesterfield.gov/privacy.asp) for the most accurate reproduction.*
 
 # Chesterfield County, Virginia | Privacy Policy
 
-## Modified October 25, 2002
+## Modified July 29, 2004 
 
 The following information explains the Internet Privacy Policy which Chesterfield County, Virginia has adopted for its chesterfield.gov Web site. The following is intended to explain our current Internet privacy practices but shall not be construed as a contractual promise. We reserve the right to amend our Internet Privacy Policy and Internet Privacy Policy Statement at any time without notice.
 
-### Virginia Law
+### The Privacy Act 
 
-We maintain our records in accordance with our obligations as defined by applicable Virginia statutes, including, but not limited to, the"Virginia Privacy Protection Act of 1976," the"Virginia Freedom of Information Act," and by any applicable U.S. Federal laws.
+We maintain our records in accordance with our obligations as defined by applicable Virginia statutes, including, but not limited to, the "THE PRIVACY ACT OF 1974," the "Virginia Freedom of Information Act," and by any applicable U.S. Federal laws.
 
 ### Links to Other Web Sites
 
