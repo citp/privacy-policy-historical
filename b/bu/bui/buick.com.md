@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buick.com privacy policy that was archived on 2004-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040614015424id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buick.com privacy policy that was archived on 2004-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041230190021id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.*
 
 # GM - Privacy Policy
 
@@ -63,7 +63,7 @@ We may use cookies and other tracking devices on our websites. Using cookies on 
 
 You may elect to refuse cookies. Please refer to your browser Help instructions to learn more about cookies and how to manage their use.
 
-We may use third parties to serve GM advertisements on other websites. In serving GM advertisements, these companies may use cookies to collect certain anonymous information about your visits to other websites (such as browser type, IP address, which page was visited, and time of day). This information is used to evaluate our online advertising campaigns. To opt-out of these cookies, please review the privacy policies of our current suppliers, and follow the instructions on their sites - click [here](http://www.centrport.com/aboutus/privacypolicy.html) for Centrport and [here](http://www.mediaplex.com/mplx_privacy.shtml) for Mediaplex.
+We may use third parties to serve GM advertisements on other websites. In serving GM advertisements, these companies may use cookies to collect certain information about your visits to other websites (such as browser type, IP address, which page was visited, and time of day). This information may be used to evaluate our online advertising campaigns or to tailor promotions and other marketing messages to you. To opt-out of these cookies, please review the privacy policies of our current suppliers, and follow the instructions on their sites - click [here](http://www.centrport.com/aboutus/privacypolicy.html) for Centrport and [here](http://www.mediaplex.com/mplx_privacy.shtml) for Mediaplex.
 
 **Outside Links**  
 This site may contain links to third party sites not controlled by GM or covered by this privacy statement, such as those belonging to GM dealers, GM licensees, or independent product review sites. We recommend that you check the privacy statement of other sites you visit before providing any personal information.
@@ -72,17 +72,17 @@ This site may contain links to third party sites not controlled by GM or covered
 GM recognizes the importance of safeguarding consumer personal information in GM's possession from theft, inappropriate use, or improper distribution. It should, however, be recognized that no company can perfectly protect personal information.
 
 **Privacy Inquiries**  
-If you have concerns or questions regarding GM's consumer privacy practices, please refer to the frequently asked questions that follow, or you may contact us at 1-866-MYPRIVACY (1-866-697-7482).
+If you have concerns or questions regarding GM's consumer privacy practices, please refer to the frequently asked questions that follow, or you may contact us at 1-866-MYPRIVACY (1-866-697-7482). California residents click for more information on Your California Privacy Rights.
 
 **Changes**  
 We retain the right to change this Privacy Statement. We will post changes to this page in a timely manner.
 
-This statement is effective as of 09/27/2003.
+This statement is effective as of 01/01/2005.
 
 **Supplemental Privacy Information**  
 This information supplements the information provided in the GM Privacy Statement for U.S. Consumers.
 
-| ___[Investor Information on GM.com](http://www.gm.com/company/investor_information/)_  
+___[Investor Information on GM.com](http://www.gm.com/company/investor_information/)_  
 ---  
    | __Collection__ \- On the Investor Information website we may collect name, address, phone number, and email address. GM may also receive personal information you provide to GM Stockholder Services through email, written communications, or telephone calls, and from our stock transfer agent, such as account information. 
 
@@ -94,7 +94,7 @@ __Privacy Inquiries__ \- For inquiries about how the information you submit to t
   
 ___[GM BuyPower](http://www.gmbuypower.com/app/linksin?destination=homepage&creative=unbranded&partnerId=510018)_ |    
   | __Choice and Updating Information__ \- GM BuyPower users may correct their contact information provided during a visit to GM BuyPower (name, zip code, email address, and phone number) by calling GM at 1-800-462-8976.  
-___[My GMLink](http://www.mygmlink.com/)_ |    
+___[My GMLink](https://www.mygmlink.com/main/US/en/gm/home?cmp=gmcomhp)_ |    
   | __Personal Information Collection__ \- Personal information, such as vehicle insurance information, is also requested in a section of My GMLink called Vehicle Reference Card. The Vehicle Reference Card is provided solely for your convenience, and its use is optional. Vehicle Reference Card information will not be shared within GM or with GM dealers. 
 
 __Correcting Your Information__ \- You may correct your contact information (Name, Address, Phone number, and email address) through your profile on My GMLink at <https://www.mygmlink.com/main/US/en/gm/myprofile>, by sending an email to [mygmlink@gm.com](mailto:mygmlink@gm.com), or by calling us at 1-866-MYGMLINK.
@@ -108,11 +108,68 @@ __Correcting Your Information__ \- You may correct the contact information (name
 
 __Privacy Inquiries__ \- If you have a question or concern about the privacy practices of the Saturn.com Web site, please contact us by sending an e-mail from the [Contact Us](http://www.saturn.com/talk_to_us/e-mail_saturn/) page or by writing to us at: Saturn Privacy, 100 Saturn Parkway, MD 371-999-S24, Spring Hill, TN 37174.  
   
-**III. _Frequently Asked Questions_**
+**III. _Your California Privacy Rights_  
+     2004 Disclosure**
+
+Thank you for your interest in our privacy practices. Your privacy is important to General Motors Corporation (GM), as is your trust in GM products and services. Under California Civil Code Section 1798.83, also known as Senate Bill 27, you are entitled to request and receive, free of charge, a copy of GM’s California Information Sharing Disclosure Notice for the previous calendar year. You may print this page, or call 1-866-MY Privacy (1-866-697-7482) to request a copy. 
+
+**_California Information-Sharing Disclosure_**
+
+This Information-Sharing Disclosure Notice reflects the information sharing practices of GM during the previous calendar year with third parties for their own commercial marketing purposes. You will notice that the “third parties” listed in this notice are General Motors affiliates. These affiliates are listed as “third parties” because, under Senate Bill 27, any business that is a separate legal entity must be listed as a “third party.” 
+
+**GM did not share your personal information with non-affiliated third parties for their independent commercial marketing use without your permission.**
+
+GM may have shared the following categories of information with the affiliates listed below so they could use it to offer you other valuable products and services as part of the GM family of companies:  
+---  
+  |   
+
+
+-  Contact information (including name, address, city, state and zip code, phone  
+   number, email address)  
+-  Vehicle purchase information (including VIN, make, model, model year, selling    dealer, purchase date), and  
+-  Other non-credit related marketing profile information, (including information you    provided when expressing your interest in, or during your purchase of, our products    or services).  
+
+
+|   
+  
+Our GM affiliates who may have received your information are: 
+
+GMAC Insurance  
+Personal Lines Group  
+13736 Riverport Drive,  
+Suite 700  
+Maryland Heights, MO 63043
+
+GMAC Insurance  
+Specialty Markets & Products  
+GM Motor Club, Inc.   
+P.O. Box 3580  
+Southfield, MI 48037-3580
+
+GMAC Insurance  
+Specialty Markets & Products  
+General Motors Protection Plan  
+P.O. Box 37508  
+Detroit, MI 48237-9968
+
+GMAC Mortgage Corporation  
+100 Witmer Road  
+Horsham, PA 19044
+
+OnStar  
+400 Renaissance Center  
+P.O. Box 400  
+Detroit, MI 48265-4000
+
+For the full GM Privacy Statement, click here. 
+
+We are committed to providing our customers with outstanding products, services, and experiences across the GM Family of Companies. This commitment requires the sharing of customer information among the GM Family of Companies. We hope that this notice answers any questions you may have about our disclosure of personal information to "third parties"-including our affiliates-for their direct marketing purposes. Thank you for your interest in GM. 
+
+**IV. _Frequently Asked Questions_**
 
 **Q1:**    | What are "GM affiliates"?  
 ---|---  
-**A:**   | As used in this privacy statement, GM affiliates are companies that are wholly owned subsidiaries of GM. Some examples include OnStar, GMAC, and Saab.  
+**A:**   | As used in this privacy statement, GM affiliates are companies that are wholly owned subsidiaries of GM. Some examples include Saturn, Saab, GMAC, and OnStar.  
    
 **Q2:**   | What is an example of a supplier that provides services to GM?  
 **A:**   | Suppliers are companies such as advertising agencies, which provide services on GM's behalf.  
