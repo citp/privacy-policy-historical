@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartsource.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212150517id_/http%3A//smartsource.com/aboutus/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsource.com privacy policy that was archived on 2002-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020606151203id_/http%3A//www.smartsource.com/aboutus/privacy.shtml) for the most accurate reproduction.*
 
 # Grocery coupons, health coupons and household coupons from SmartSource.com. Exclusive coupons you can print or receive in the mail, redeemable nationwide. Recipes, money and timesaving ideas and homekeeping and wellness advice.
 
