@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the servicechannel.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603085005id_/http%3A//servicechannel.com/sc/login/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servicechannel.com privacy policy that was archived on 2004-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041220033739id_/http%3A//www.servicechannel.com/sc/login/privacypolicy.asp) for the most accurate reproduction.*
 
 # www.servicechannel.com
 
@@ -23,4 +23,6 @@ ServiceChannel may edit this policy from time to time. If we make any substantia
 
 To view the “Terms of Use” agreement in its entirety, please click [here](http://www.servicechannel.com/sc/login/sagreement.htm) if you are a property owner/facility manager and [here](http://www.servicechannel.com/sc/login/pagreement.htm) if you are a service contractor. In the event of any conflict between this Privacy statement and our Terms of Use Agreement, the Terms of Use Agreement will govern. 
 
-| 
+|  |   |   
+---|---  
+ 
