@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chicagotribune.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606150722id_/http%3A//www.chicagotribune.com/services/site/chi-privacy.story) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagotribune.com privacy policy that was archived on 2004-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041231020807id_/http%3A//www.chicagotribune.com/services/site/chi-privacy.story) for the most accurate reproduction.*
 
 # Chicago Tribune | Privacy policy
 
