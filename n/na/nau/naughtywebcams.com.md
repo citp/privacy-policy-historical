@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naughtywebcams.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607075440id_/http%3A//naughtywebcams.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naughtywebcams.com privacy policy that was archived on 2001-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010808171936id_/http%3A//naughtywebcams.com/privacy.html) for the most accurate reproduction.*
 
 # Naughty Webcams Privacy Policy
 
