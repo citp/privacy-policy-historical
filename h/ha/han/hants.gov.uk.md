@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the hants.gov.uk privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204121410id_/http%3A//www.hants.gov.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hants.gov.uk privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403170253id_/http%3A//www.hants.gov.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for Hantsweb
-
-[ ](https://web.archive.org/hcc/) [](http://www.hants.gov.uk/)
-
-  [Hantsweb home](http://www.hants.gov.uk/) |  [Search](http://www.hants.gov.uk/search.html) |  [Contact Us](http://www.hants.gov.uk/contactus/) |  [A-Z index](http://www.hants.gov.uk/azindex.html) |  [Help](http://www.hants.gov.uk/help/)
 
 ### What it covers
 
@@ -64,8 +60,8 @@ Delivers (serves up) web pages to your computer.
 
 ## Trademark and Copyright Information
 
-Hantsweb is a Registered® Trademark. Please read our [Copyright Statement](https://web.archive.org/web/20041204121410id_/http%3A//www.hants.gov.uk/copyrite.html) for more information.
+Hantsweb is a Registered® Trademark. Please read our [Copyright Statement](https://web.archive.org/web/20050403170253id_/http%3A//www.hants.gov.uk/copyrite.html) for more information.
 
-Top of this page       [](https://web.archive.org/index.html) [Hantsweb Homepage](https://web.archive.org/index.html)      [](https://web.archive.org/web/20041204121410id_/http%3A//www.hants.gov.uk/copyrite.html) [Hantsweb® Copyright Statement](https://web.archive.org/web/20041204121410id_/http%3A//www.hants.gov.uk/copyrite.html)
+Top of this page       [](https://web.archive.org/index.html) [Hantsweb Homepage](https://web.archive.org/index.html)      [](https://web.archive.org/web/20050403170253id_/http%3A//www.hants.gov.uk/copyrite.html) [Hantsweb® Copyright Statement](https://web.archive.org/web/20050403170253id_/http%3A//www.hants.gov.uk/copyrite.html)
 
 * * *
