@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qut.edu.au privacy policy that was archived on 2004-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040629083939id_/http%3A//www.qut.edu.au/general/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qut.edu.au privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207025328id_/http%3A//www.qut.edu.au/general/privacy.jsp) for the most accurate reproduction.*
 
 # QUT | QUT's privacy and security statement
 
@@ -52,7 +52,7 @@ Email messages may be monitored by our website support staff for system trouble 
 
 ####  Further information about privacy
 
-Information on how QUT manages personal privacy can be found in our [Privacy Plan](http://www.secretariat.qut.edu.au/information/privacy/QUTPrivacyPlan.pdf) (download PDF). If you have any questions about QUT’s privacy and security practices, you can contact the QUT Privacy Contact Officer at the following address:
+Information on how QUT manages personal privacy can be found in our [Privacy Plan](http://www.secretariat.qut.edu.au/programs/privacy/QUTPrivacyPlan.pdf) (download PDF). If you have any questions about QUT’s privacy and security practices, you can contact the QUT Privacy Contact Officer at the following address:
 
 Corporate Information Coordinator  
 QUT Secretariat  
