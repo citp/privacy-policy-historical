@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investors.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214230202id_/http%3A//www.investors.com/privacy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investors.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605035435id_/http%3A//www.investors.com/privacy/default.asp) for the most accurate reproduction.*
 
 # Investor’s Business Daily: Privacy Statement
 
@@ -28,7 +28,7 @@ To try to bring you offers that are of interest to you, we have relationships wi
 
 From time to time, we may use visitor information for new, unanticipated uses not previously disclosed on our privacy notice. If our information practices change at some time in the future we will post the policy changes on investors.com to notify you of these changes and provide you with the ability to opt out of these new uses. Check back at our Web site periodically, if you are concerned about how your information is being used.
 
-Upon request we provide site visitors with access to inspect and correct their personal information that we maintain about them. Consumers can request this information by e-mail to [_custcare@investors.com_](mailto:custcare@investors.com).
+Upon request we provide site visitors with access to inspect and correct their personal information that we maintain about them. Consumers can request this information by visiting "AskIBD" at [_www.askibd.com_](http://www.askibd.com/).
 
 ### Security
 
@@ -36,4 +36,4 @@ Investors.com has taken appropriate security measures at our physical facilities
 
 We erase data and destroy hardware on all disposed computers, diskettes, magnetic tapes, hard drives or any other electronic media that contain personally identifiable materials.
 
-If you feel investors.com is not following its stated information policy, or you do not want to receive e-mail from us in the future, please let us know by sending e-mail to [_custcare@investors.com_](mailto:custcare@investors.com).
+If you feel investors.com is not following its stated information policy, or you do not want to receive e-mail from us in the future, please let us know by visiting "AskIBD" at [_www.askibd.com_](http://www.askibd.com/).
