@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hairdirect.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203093838id_/http%3A//www.hairdirect.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairdirect.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610091424id_/http%3A//www.hairdirect.com/privacy.asp) for the most accurate reproduction.*
 
 # Hair Direct - Privacy Policy
 
@@ -42,5 +42,3 @@ Hair Direct Inc., may occasionally update, amend, or change this Privacy Policy 
 
 **Links**  
 Hair Direct Web site(s) may contain links to other "non-hair related" sites. Hair Direct Inc., assumes no responsibility for the content or the privacy policies and practices of such Web sites.
-
-* * *
