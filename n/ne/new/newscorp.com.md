@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newscorp.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203070107id_/http%3A//www.newscorp.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newscorp.com privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628035029id_/http%3A//www.newscorp.com/privacy.html) for the most accurate reproduction.*
 
 # News Corporation: Privacy Policy
 
@@ -41,4 +41,4 @@ Each News America Group company will take appropriate measures to ensure complia
 
 June 30, 2001
 
-* Please see the [ Commentary](https://web.archive.org/web/20021203070107id_/http%3A//www.newscorp.com/commentary.html) further explaining these Principles.
+* Please see the [ Commentary](https://web.archive.org/web/20030628035029id_/http%3A//www.newscorp.com/commentary.html) further explaining these Principles.
