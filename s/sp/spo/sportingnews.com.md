@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportingnews.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611191258id_/http%3A//www.sportingnews.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportingnews.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206055212id_/http%3A//www.sportingnews.com/privacy.html) for the most accurate reproduction.*
 
 # SportingNews.com
 
@@ -73,10 +73,6 @@ In addition, notwithstanding any other provision of this Privacy Policy, in the 
 
 |    
 |    
-
-
-[](http://www.sportingnews.com/RealMedia/ads/click_lx.ads/www.sportingnews.com/privacy.html/854264491/TopRight/default/empty.gif/64316564656562353430636130343330)
-
   
 
 
