@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponcabin.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206060230id_/http%3A//www.couponcabin.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponcabin.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602224716id_/http%3A//www.couponcabin.com/privacy.htm) for the most accurate reproduction.*
 
 # CouponCabin Privacy Policy
 
@@ -14,26 +14,26 @@ Our Privacy Policy was developed as an extension of our commitment to combine qu
 
 **What Information Do We Collect?**
 
-When you visit our site you may provide us with two types of information: personal information you actively choose to disclose (“Active Information”) and use information collected, in a way not visible to you, on an aggregate anonymous basis as you and others browse our site (“Passive Information”).
+When you visit our site you may provide us with two types of information: personal information you actively choose to disclose (�Active Information�) and use information collected, in a way not visible to you, on an aggregate anonymous basis as you and others browse our site (�Passive Information�).
 
  **No Use of Our Site by Persons Under 13**
 
-No person under 13 should disclose information on this site. You may learn more about protecting children’s privacy online by visiting www.ftc.gov/kidzprivacy.
+No person under 13 should disclose information on this site. You may learn more about protecting children�s privacy online by visiting www.ftc.gov/kidzprivacy.
 
 **Active Information You Choose to Provide**
 
-In order to receive coupons via email (become a “user”), we require you to disclose the following information: 
+In order to receive coupons via email (become a �user�), we require you to disclose the following information: 
 
   * Your email address
 
   
 **Passive Information Collected**
 
-Our site utilizes a standard technology called “cookies” to collect information about how our site is used. Passive Information gathered may include the date and time of visits, the site pages viewed, time spent at our site, the sites visited just before and just after our site. Passive Information is collected on an aggregate basis without any association to your personal information so that you remain anonymous. If you do not wish to transmit “cookie” information about yourself, you may turn off the cookie function in your web browser; please consult the “Help” section of your browser to correctly do so.
+Our site utilizes a standard technology called �cookies� to collect information about how our site is used. Passive Information gathered may include the date and time of visits, the site pages viewed, time spent at our site, the sites visited just before and just after our site. Passive Information is collected on an aggregate basis without any association to your personal information so that you remain anonymous. If you do not wish to transmit �cookie� information about yourself, you may turn off the cookie function in your web browser; please consult the �Help� section of your browser to correctly do so.
 
 **What is a Cookie?**
 
-Cookies are a feature of web browser (Internet Explorer, Netscape Navigator, etc.) software that allows web servers to recognize the computer used to access a site. They are small pieces of data that are stored by a user’s web browser on one site to simplify subsequent interactions with that site by the same user or to use the information to streamline the user’s transaction on related web pages. This makes it easier for a user to move from site to site and to complete transactions over the Internet. Cookies should make your online experience easier and more personalized.
+Cookies are a feature of web browser (Internet Explorer, Netscape Navigator, etc.) software that allows web servers to recognize the computer used to access a site. They are small pieces of data that are stored by a user�s web browser on one site to simplify subsequent interactions with that site by the same user or to use the information to streamline the user�s transaction on related web pages. This makes it easier for a user to move from site to site and to complete transactions over the Internet. Cookies should make your online experience easier and more personalized.
 
 **How Do We Use the Information Collected?**
 
@@ -43,7 +43,7 @@ We use Passive Information to gather information about our users and to enhance 
 
 **Your Information In Relation to Others We Link To**
 
-You are be able to access other websites through CouponCabin.com. When you do so you are doing so subject to their policies regarding privacy and data collection and you should read those sites’ privacy policies to make sure you agree to them before using such sites. When you choose to shop at such sites, you should read their privacy policies to make sure you agree to them before making purchases.
+You are be able to access other websites through CouponCabin.com. When you do so you are doing so subject to their policies regarding privacy and data collection and you should read those sites� privacy policies to make sure you agree to them before using such sites. When you choose to shop at such sites, you should read their privacy policies to make sure you agree to them before making purchases.
 
 **Sharing Information with Advertisers or Other Third Parties**
 
