@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the rentacoder.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630174305id_/http%3A//www.rentacoder.com/RentACoder/misc/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentacoder.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205001534id_/http%3A//rentacoder.com/RentACoder/misc/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
-
-* * *  
-  
-|     
-
-
-Privacy Statement
 
 _**For those who view Rent A Coder**_ Internet user privacy and confidentiality is of the utmost importance to Rent A Coder and its owning company, [Exhedra Solutions, Inc](http://www.exhedra.com/). Its reputation and integrity is directly related to how it serves its web customers. 
 
@@ -59,10 +52,14 @@ In the course of serving advertisements to this site, our third-party advertiser
   
 At the request of any user, we will close out that user's account, disabling all future use of the account. However, we cannot delete information as we may be legally called upon by a 3rd party to report such information. Examples include (but are not limited to) an FBI investigation, an IRS audit of a user, or a credit card fraud investigation. Exhedra fully cooperates and complies with all government and private regulatory agencies under the law, so if you have an issue with such use of your information, then you should not become a member of this site. Please do not ask us to delete such information.
 
-**Other**
+**Additional California Online Privacy Protection Act (COPPA) information**
+
+  * The effective date of this policy is July 1st, 2004.
+  * You can update your personal information at any time by updating your profile via the website. To begin the process, click into any computer language and then click on the upload toolbar icon at the top of the page or the upload link at the bottom. Then choose 'Edit my author profile' and click on the 'ok' button.
+  * Categories of personal information include financial/billing, contact information and miscelleanous information.
+  * The category of all third party providers fall under the category of advertisers.
+  * This policy is subject to update and change. Notification of substantial and material changes will be posted on the site 'news' section.
 
   
+**Other**  
 Any and all postings and/or transmissions done on Exhedra systems can and are routinely monitored by staff for legal and terms of service violations. Exhedra uses the best of its ability, utilizing state of the art techniques to protect all privacy related data from external and unauthorized party access. However no security sytem is 100% full-proof, so should sensitive data be compromised, Exhedra will alert the affected parties immediately via email addresses as registered on the site. Due to the nature of security, Exhedra will not be held liable for any such security compromise, or any resulting loss or action resulting from such a compromise.
-
-|    
-
