@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the data.com privacy policy that was archived on 2002-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021122044005id_/http%3A//www.cmp.com/delivery/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the data.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206065623id_/http%3A//www.intelligententerprise.com/p_policy.shtml) for the most accurate reproduction.*
 
-# CMP Media LLC Privacy Policy
+# Intelligent Enterprise Magazine - Privacy Policy
 
-|  | **CMP MEDIA LLC PRIVACY STATEMENT  
-** CMP MEDIA LLC ("CMP") recognizes the importance of protecting the privacy of all information provided by users of our web sites, subscribers to our magazines, registrants for our events, recipients of our e-mail newsletters and all of our customers. We created this policy with a fundamental respect for our users’ right to privacy and to guide our relationships with our users. This privacy statement discloses the privacy practices for all products and services owned by CMP. A current list of our publications, web sites, online webcasts and trade shows can be found at <http://www.cmp.com/>. 
+### CMP MEDIA LLC PRIVACY STATEMENT
+
+CMP MEDIA LLC ("CMP") recognizes the importance of protecting the privacy of all information provided by users of our web sites, subscribers to our magazines, registrants for our events, recipients of our e-mail newsletters and all of our customers. We created this policy with a fundamental respect for our users' right to privacy and to guide our relationships with our users. This privacy statement discloses the privacy practices for all products and services owned by CMP. A current list of our publications, web sites, online webcasts and trade shows can be found at <http://www.cmp.com/>. 
 
 **INFORMATION COLLECTION AND USE**  
 CMP collects information from our website users, subscribers and customers. In this section of our privacy policy, we will describe the type of information we collect and how we use it to provide better services to our customers. 
@@ -11,7 +12,7 @@ CMP collects information from our website users, subscribers and customers. In t
 **Registration and Ordering**  
 When attending our trade shows, participating in our customer-sponsored webcasts, using some of our websites and signing up for certain selected services (such as free subscriptions), users must first register. During registration, users are required to give their contact information (such as name, e-mail address, mailing address and phone number). We also may collect demographic information (such as job title and purchasing responsibilities, company information and professional certification). For internal purposes, we use this information to communicate with users and provide requested services, and, for our website visitors, to provide a more personalized experience on our sites. We use aggregate demographic information about our audience to improve our service, for marketing purposes and/or industry reporting purposes. 
 
-Many of our products and services are free to subscribers who meet certain demographic criteria. Independent auditors may need to certify the eligibility of these subscribers. In order to do that, we may collect unique identifiers (such as mother’s maiden name) that we disclose to the auditors strictly for industry reporting and audit verification purposes. 
+Many of our products and services are free to subscribers who meet certain demographic criteria. Independent auditors may need to certify the eligibility of these subscribers. In order to do that, we may collect unique identifiers (such as mother's maiden name) that we disclose to the auditors strictly for industry reporting and audit verification purposes. 
 
 For our services that require payment (such as certain events, products and subscriptions), we also collect credit card information (such as account name, number and expiration date), which is used for billing purposes only, and is not otherwise shared. 
 
@@ -82,6 +83,3 @@ For questions about this privacy statement, the practices of this site or any de
 >  Manhasset NY 11030  
 >  516-562-5000 Ext. 5107   
 >  [cmp@cmp.com](mailto:cmp@cmp.com)
-
-**[About Us Home](https://web.archive.org/aboutus/aboutus.htm)**  
----|---
