@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bomis.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202235036id_/http%3A//www.bomis.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bomis.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604190502id_/http%3A//www.bomis.com/about/privacy.html) for the most accurate reproduction.*
 
 # Bomis.Com Privacy Policy
 
