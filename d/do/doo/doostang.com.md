@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doostang.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011013402id_/http%3A//www.doostang.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doostang.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404195254id_/http%3A//www.doostang.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -81,6 +81,6 @@ San Francisco , CA 94107
 
 8\. **Acceptance of Privacy Policy**
 
-  * Your use of the Company Sites, including any dispute concerning privacy, is subject to this Privacy Policy and Company's [Terms and Conditions](https://web.archive.org/web/20041011013402id_/http%3A//www.doostang.com/termsandconditions.asp) of Use. By using the Company Sites, you are accepting the practices set out in this Privacy Statement and those Terms and Conditions of Use. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the statement has been modified since you last reviewed it. Your continued use of any portion of the Company Sites following posting of the updated Privacy Policy will constitute your acceptance of the changes. 
+  * Your use of the Company Sites, including any dispute concerning privacy, is subject to this Privacy Policy and Company's [Terms and Conditions](https://web.archive.org/web/20050404195254id_/http%3A//www.doostang.com/termsandconditions.asp) of Use. By using the Company Sites, you are accepting the practices set out in this Privacy Statement and those Terms and Conditions of Use. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the statement has been modified since you last reviewed it. Your continued use of any portion of the Company Sites following posting of the updated Privacy Policy will constitute your acceptance of the changes. 
 
 
