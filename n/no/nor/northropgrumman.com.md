@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northropgrumman.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603174617id_/http%3A//www.northropgrumman.com/corporate/eu.priv.policy.external.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northropgrumman.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206081940id_/http%3A//www.northropgrumman.com/corporate/eu.priv.policy.external.html) for the most accurate reproduction.*
 
 # European Union Privacy Policy
 
