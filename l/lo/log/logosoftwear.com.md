@@ -1,7 +1,13 @@
-> *The following text is extracted and transformed from the logosoftwear.com privacy policy that was archived on 2000-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000616010557id_/http%3A//www.logosoftwear.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logosoftwear.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205210400id_/http%3A//www.logosoftwear.com/privacy.html) for the most accurate reproduction.*
 
 # Your source for custom caps,imprinted tee shirts,embroidered caps,imprinted t-shirts,embroidered hats,imprinted shirts and custom golf shirts - LogoSoftwear.com
 
+| 
+
+Customer Service Reps available 10am - 5pm EST  
+  
+---|---  
+  
 At LogoSoftwear, one of our most important goals is to make your shopping experience as pleasurable, convenient, and worry-free as possible. For this reason, we have put in place firm privacy and security programs to keep our site safe and secure for all our visitors. 
 
 All information gathered by logosoftwear.com remains private and will never be sold or shared with anyone. All information submitted to logosoftwear.com stays at logosoftwear.com. Maintaining your privacy is critical to us. 
