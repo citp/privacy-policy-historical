@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eligiblegreeks.com privacy policy that was archived on 2003-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030825155618id_/http%3A//www.eligiblegreeks.com/personals/privacy.cfm%3FsiteIDD%3D41%26CFID%3D2513413%26CFTOKEN%3D29904058%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eligiblegreeks.com privacy policy that was archived on 2004-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040617180208id_/http%3A//eligiblegreeks.com/personals/privacy.cfm%3FsiteIDD%3D41%26CFID%3D14259743%26CFTOKEN%3D71777307%26) for the most accurate reproduction.*
 
-# 
+# Eligible Greeks - Privacy Policy
 
-This Site(s) is owned and operated by World Singles Networks (“World Singles”). World Singles may be reached at (301) 294-0131, or by clicking [here](https://web.archive.org/web/20030825155618id_/http%3A//www.eligiblegreeks.com/personals/contact.cfm?siteIDD=41&CFID=893043&CFTOKEN=56078669&) . The following policies apply to this Site(s) and all other Affiliate/Partner websites.
+This Site(s) is owned and operated by World Singles Networks (“World Singles”). World Singles may be reached at (301) 294-0131, or by clicking [here](https://web.archive.org/web/20040617180208id_/http%3A//eligiblegreeks.com/personals/contact.cfm?siteIDD=41&CFID=944604&CFTOKEN=31711070&) . The following policies apply to this Site(s) and all other Affiliate/Partner websites.
 
 **ABOUT WORLD SINGLES**
 
@@ -43,4 +43,4 @@ World Singles reserves the right to change or update at any time its Privacy Pol
 
 **CONTACTING THE SITE(S)**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact World Singles by clicking [here](https://web.archive.org/web/20030825155618id_/http%3A//www.eligiblegreeks.com/personals/contact.cfm?siteIDD=41&CFID=893043&CFTOKEN=56078669&) \- Thank you for your continued support!
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact World Singles by clicking [here](https://web.archive.org/web/20040617180208id_/http%3A//eligiblegreeks.com/personals/contact.cfm?siteIDD=41&CFID=944604&CFTOKEN=31711070&) \- Thank you for your continued support!
