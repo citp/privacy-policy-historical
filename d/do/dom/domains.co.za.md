@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the domains.co.za privacy policy that was archived on 2002-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020817080531id_/http%3A//www.megaweb.co.za/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domains.co.za privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603204121id_/http%3A//www.megaweb.co.za/legal/privacy.php) for the most accurate reproduction.*
 
-# MegaWeb Policies - Privacy
+# MegaWeb Policies - Your Privacy
 
-** MegaWeb Acceptable Use Policy - Your Privacy**  
----  
-  
 Date: 01 August 2001  
 Revision: 04 August 2002 (Navigation Improved)
 
@@ -65,8 +62,4 @@ Another way we collect information online is through our program partners who ma
    
 **Security, Intrusion, and Detection:**  
 For site security purposes and to ensure that this service remains available to all users, our computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.   
-[ Return to top](http://www.megaweb.co.za/legal/privacy.php#top)  
-  
-Report any abuse to [abuse@megaweb.co.za](mailto:abuse@megaweb.co.za)
-
-Back 
+[ Return to top](http://www.megaweb.co.za/legal/privacy.php#top)
