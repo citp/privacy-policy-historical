@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nabshow.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204225333id_/http%3A//www.nabshow.com/NAB2004/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nabshow.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206031713id_/http%3A//www.nabshow.com/NAB2004/privacy.asp) for the most accurate reproduction.*
 
 # NAB2004- The World's Largest Electronic Media Show - April 17-22, 2004 - Las Vegas, Nevada
 
