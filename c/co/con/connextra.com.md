@@ -1,34 +1,122 @@
-> *The following text is extracted and transformed from the connextra.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209161814id_/http%3A//www.connextra.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connextra.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203200026id_/http%3A//www.connextra.com/privacy_policy.htm) for the most accurate reproduction.*
 
-# Connextra | PressArea
+# Connextra | Services
 
-Connextra Ltd believes that all consumers who use our web site and products are entitled to know that their personal identifying information is protected under all circumstances, as stated in our privacy policy:
+## About Us
 
-  * Any personal identifying information that is obtained through the registration and use of the Connextra web site, such as your name (optional) and e-mail address, is maintained by Connextra in a secure and protected environment. Your e-mail address is used only to send you newsletters and other special offers and information.
+This is a privacy policy for Connextra Limited . Our homepage on the Web is located at [ http://www.connextra.com](http://www.connextra.com/).
 
-  * Connextra may release generalized cumulative information to sponsors, but will never release your personal data to any third party without your expressed permission. Your personal data is safe, protected, and secure.
+We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address:
+    
+    
+    Scott Button
+    Studio 312, Highgate Studios
+    53-79 Highgate Road
+    London, NW5 1TL
+    UK
+    
 
-  * Some of the information and special offers are provided by third-party sponsors, based on the information you provide. These offers are governed by the sponsor's privacy policy, with which you should familiarize yourself.
+You may contact us by e-mail at [ info@connextra.com](mailto:info@connextra.com). You may call us at 020 7692 9898.
 
-  * The privacy policy applies to all countries, worldwide, and includes all web sites that are created and maintained either by or for Connextra.
+## Dispute Resolution and Privacy Seals
 
-  * Connextra does not insert cookies into your operating system.
+We have the following privacy seals and/or dispute resolution mechanisms. If you think we have not followed our privacy policy in some way, they can help you resolve your concern. 
+
+  * **Dispute Resolution** : If you have concerns that we might not be following our privacy policy then please contact us at info@connextra.com 
 
 
 
+## Additional Information
 
-## **Sharing Information**
+This policy is valid until 1 Jan, 2005 at 12:00:00 GMT. 
 
-Connextra employs contractors for some technology-related tasks. These contractors, however, are bound by a confidentiality agreement that makes them liable for prosecution if they remove any data from the offices or if they use company or consumer information for any purpose other than that defined by the terms of their employment. 
+## Data Collection
 
-We do not maintain data in retrievable form. Because we delete the user's e-mail address after we send the activation code, even Connextra cannot retrieve personal identifying information about an individual. 
+P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 2 data groups. The data practices of each group will be explained seperately.
 
-## **Security**
+* * *
 
-Our web site has security measures in place to protect against loss, misuse or alteration of the information under our control. Any unauthorized attempt to defeat this security or otherwise enter into sections of our software, hardware, or servers placed on the Internet will result in prosecution of the offender to the maximum allowed by law.
+### **Group "Basic information"**
 
-## **Contacting Us**
+We collect the following information:
 
-We welcome any questions or comments you have. Please click to email us or call us on 020 7692 9898.
+  * Full IP address
+  * HTTP protocol elements
+  * Request timestamp
+  * URI of requested resource
+  * HTTP request method
+  * Data bytes in response
+  * Response status code
+
+
+
+This data will be used for the following purposes:
+
+  * Completion and support of the current activity.
+  * Web site and system administration.
+  * Research and development.
+  * Anonymous user analysis.
+  * Anonymous user profiling and decision-making.
+
+
+
+This data will be used by ourselves and our agents. In addition, the following types of entities will receive this information:
+
+  * Others following the same practices.
+
+
+
+Cookies are set to expire between 24 hours and 1000 days, depending on the reporting requirements of advertisers and publishers for whom we work.
+
+The following explanation is provided for why this data is collected:
+
+> This data is used to serve more contextually relevant adverts to the user and to record clicks and impressions on the adverts served.
+
+* * *
+
+### **Group "Cookies"**
+
+We collect the following information:
+
+  * HTTP cookies
+  * Unique identifiers
+
+
+
+This data will be used for the following purposes:
+
+  * Web site and system administration.
+  * Research and development.
+  * Anonymous user analysis.
+  * Anonymous user profiling and decision-making.
+
+
+
+This data will be used by ourselves and our agents. In addition, the following types of entities will receive this information:
+
+  * Others following the same practices.
+
+
+
+The following explanation is provided for why this data is collected:
+
+> Cookies are used to record postclick and postimpression events on advertisers sites that match clicks and impressions on an advert. 
+
+* * *
+
+## Cookies
+
+Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.
+
+Our site makes use of cookies.
+
+Cookies are used for the following purposes: 
+
+  * Site administration
+  * Pseudononymous analysis
+  * Pseudonym-based decision-making
+  * Research and development
+
+
 
 top^
