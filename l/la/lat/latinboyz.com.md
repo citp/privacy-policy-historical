@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latinboyz.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206230500id_/http%3A//latinboyz.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latinboyz.com privacy policy that was archived on 2001-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010614143929id_/http%3A//www.latinboyz.com/Privacy.html) for the most accurate reproduction.*
 
 # The best latin men for those who desire a latino man, nude mexican or big uncut puerto rican man
 
@@ -11,6 +11,6 @@ _LatinBoyz.Com is committed to safeguarding your privacy online. Please read the
 
 
 
-_If you have any other questions that are not addressed above, please feel free to_[ _contact us_](mailto:webmaster@latinboyz.com?subject=Privacy%20Policy) _._
+_If you have any other questions that are not addressed above, please feel free to_[ _contact us_](mailto:webmaster@klkla.com?subject=Privacy%20Policy) _._
 
 | 
