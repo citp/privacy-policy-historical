@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the syvum.com privacy policy that was archived on 2002-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020603155549id_/http%3A//www.syvum.com/legal/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the syvum.com privacy policy that was archived on 2002-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021204211044id_/http%3A//www.syvum.com/legal/privacy.html) for the most accurate reproduction.-->
 
 <html><head><title> Syvum Privacy Policy </title><meta name="author" content="Syvum"><meta name="copyright" content="Syvum Technologies Inc."><meta name="publisher" content="Syvum"><meta name="publisher_email" content="info@syvum.com"></head><body bgcolor="#FFFFFF" text="#000000" link="#ff0000" vlink="#0000ff" alink="#FF0000">
 
@@ -8,48 +8,50 @@
 <!--
    function getVar(x) { var ci = 0; var clen = x.length; var tclen = document.cookie.length; while (ci < tclen) { cj = ci + clen; if (document.cookie.substring(ci,cj) == x) { ce = document.cookie.indexOf(";", cj); if (ce == -1) ce = tclen; return document.cookie.substring(cj+1,ce); } ci++; } return "";
       }
-
    function getuid() { return getVar("UserID"); }
    function getads() { return getVar("ShowAd"); }
-   var ads = getads();
+   var ads;
+   if (window.oads && oads == 1){ads="no"} else {ads = getads();}
 // -->
 </script>
-<center>
-<table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#c6c6ff">
-<tbody><tr><td align="left" valign="top" width="182" rowspan="2"><a href="/"><img src="/images/topname2.gif" width="182" height="75" alt="Go to Syvum Home Page" border="0"></a></td>
-<td>&nbsp;</td><td colspan="2" width="450"><font face="arial" size="-2" color="#000000"><a href="/" style="color:#000080;">Home</a> | 
-<a href="/squizzes/" style="color:#000080;">K-12</a> |
-<a href="/sat/" style="color:#000080;">SAT</a> |
-<a href="/gre/" style="color:#000080;">GRE</a> |
-<a href="/squizzes/lang/" style="color:#000080;">Languages</a> |
-<a href="/teasers/" style="color:#000080;">Puzzles</a> |
-<a href="/download.html" style="color:#000080;">Downloads</a> |
-<a href="/webshop/shop.html" style="color:#000080;">Web Shop</a> |
-<a href="/cgi/order.cgi" style="color:#000080;">Shopping Cart</a>
+<table cellpadding="0" cellspacing="0" border="0" bgcolor="#c6cff6">
+<tbody><tr><td colspan="2" width="100%"><font face="arial" size="-2" color="#000000"><a href="/" style="color:navy;">Syvum Home</a> | 
+<a href="/squizzes/" style="color:navy;">K-12</a> |
+<a href="/sat/" style="color:navy;">SAT</a> |
+<a href="/gre/" style="color:navy;">GRE</a> |
+<a href="/squizzes/lang/" style="color:navy;">Languages</a> |
+<a href="/teasers/" style="color:navy;">Puzzles</a> |
+<a href="/download.html" style="color:navy;">Downloads</a> |
+<a href="/webshop/shop.html" style="color:navy;">Web Shop</a> |
+<a href="/cgi/order.cgi" style="color:navy;">Shopping Cart</a>
 </font></td>
+<td>&nbsp;</td>
+<td align="right" valign="top" width="122" rowspan="3"><a href="/"><img src="/images/topname2.gif" width="122" height="75" alt="Go to Syvum Home Page" border="0"></a></td>
 </tr>
 <tr>
-<td valign="top" align="left" bgcolor="#ffc6c6"><img src="/images/quadrant.gif" width="38" height="38" border="0"></td>
-<td bgcolor="#ffc6c6"><form style="margin-bottom:0;" action="/cgi/search.cgi" method="get"><font size="-2" face="arial">Search this site:<br><input style="font-family:arial; font-size:9px; background=#ffc6c6;" type="text" size="10" maxlength="60" name="words"> <input style="font-family:arial; font-size:9px;" type="submit" value="Go"></font></form></td>
 <td bgcolor="#ffc6c6"><font face="arial"><script language="JavaScript">
 <!--
     var uid = getuid();
     if (uid.length > 1)
       {
-        document.write('<b><a href=/cgi/members/home.cgi style="color:#000080;">'+uid+'\'s Syvum</a></b> | <a href=/cgi/members/logout.cgi style="color:#000080;">Sign Off</a>');
+        document.write('<b><a href=/cgi/members/home.cgi style="color:navy;">'+uid+'\'s Syvum</a></b> | <a href=/cgi/members/logout.cgi style="color:navy;">Sign Off</a>');
       }
     else
       {
-        document.write('<form style="margin-bottom:0;" action=/cgi/members/login.cgi method=post><font size=-2>Member Sign In (optional)  <a href=/members/ style="color:#000080;">Register</a><br>User ID: <input style="font-family:arial; font-size:9px; background=#ffc6c6;" type=text name=UserID size=10 maxlength=25> Password: <input style="font-family:arial; font-size:9px; background=#ffc6c6;" type=password name=Password size=10 maxlength=25> <input style="font-family:arial; font-size:9px;" type=submit value="Sign In"></font></form>');
+        document.write('<b><a href=/members/ style="color:#000080;">Sign In / Register as Syvum Member</a></b>');
       }
-// --></script><form style="margin-bottom:0;" action="/cgi/members/login.cgi" method="post"><font size="-2">Member Sign In (optional)  <a href="/members/" style="color:#000080;">Register</a><br>User ID: <input style="font-family:arial; font-size:9px; background=#ffc6c6;" type="text" name="UserID" size="10" maxlength="25"> Password: <input style="font-family:arial; font-size:9px; background=#ffc6c6;" type="password" name="Password" size="10" maxlength="25"> <input style="font-family:arial; font-size:9px;" type="submit" value="Sign In"></font></form><noscript>
+// --></script><b><a href="/members/" style="color:#000080;">Sign In / Register as Syvum Member</a></b><noscript>
 <a href=/cgi/members/home.cgi>Syvum Members</a> | <a href=/cgi/members/logout.cgi>Sign off</a>
 </noscript></font></td>
+<td bgcolor="#ffc6c6" align="right"><a href="/search/"><font size="-1" color="navy" face="arial">Search this site</font></a></td>
+<td valign="top" align="right" bgcolor="#ffc6c6"><img src="/images/quadrant2.gif" width="38" height="38" border="0"></td>
 </tr>
-<tr bgcolor="#000080"><td colspan="4" valign="middle" align="right"><font size="-1" face="arial" color="white"><a href="/whatsnew/"><img src="/images/newin6.gif" border="0" align="bottom" alt="NEW!" width="32" height="12"></a> &nbsp;<b><a href="/contrib/stories/sm/1/aipotu.html"><font color="yellow">Thought Provoking Story</font></a></b>, <a href="/cgi/redirect.cgi?authoring"><font color="white">Author Quizzes</font></a>, <a href="/teasers/"><font color="white">New math puzzles</font></a>, <a href="/cgi/redirect.cgi?teachers"><font color="white">Teachers</font></a>, <a href="/squizzes/english/"><font color="white">English</font></a>, <a href="/whatsnew/"><font color="white">More...</font></a></font></td></tr></tbody></table>
+<tr bgcolor="navy"><td colspan="3" valign="middle"><font size="-1" face="arial" color="white"><a href="/whatsnew/"><img src="/images/newin6.gif" border="0" align="bottom" alt="NEW!" width="32" height="12"></a> &nbsp;<b><a href="/fun/christmas/"><font color="yellow">Christmas Games</font></a></b>, <a href="/iq/"><font color="yellow">IQ Tests</font></a>, <a href="/squizzes/spanish/"><font color="yellow">Spanish</font></a>, <a href="/jugglets/"><font color="white">Word Puzzles</font></a>, &nbsp;<a href="/contrib/stories/sm/1/aipotu.html"><font color="white">Story</font></a>, <a href="/squizzes/english/"><font color="white">English</font></a>, <a href="/whatsnew/"><font color="white">More...</font></a></font></td></tr></tbody></table>
+<table width="100%" cellpadding="1" cellspacing="0" border="0">
+<tbody><tr>
+<td width="100%" valign="top">
 
-<p>
-<!--DoubleClick Top Ad BEGIN--> 
+<center>
 <script language="JavaScript">
 <!--
    if (ads == "no")
@@ -57,29 +59,18 @@
       }
     else
       {
-        if (document.all)
-          {
-            document.write ('<ifr'+'ame SRC="/serve.html" width=468 height=60 border=0 marginheight=0 marginwidth=0 frameborder=0 scrolling=no>');
-            document.write('</iframe>');
-          }
-        else
-          {
-            document.write('<a href="http://adj16.thruport.com:80/servlet/ajrotator/2254/0/clickCGI?"><img src="http://adj16.thruport.com:80/servlet/ajrotator/2254/0/viewCGI?pool=2247&theme=1370&type=54" width="468" height="60" border="0"></a>');
-          }
-
-        document.write ('<br><font size=-2>Click banner to visit sponsor &nbsp; | &nbsp; <a href=/webshop/shop.html#membership>Hide ads</a> &nbsp; | &nbsp; <a href=/biz/index.html#advertise>Advertise here</a></font>');
+        document.write('<iframe width="468" height="60" noresize scrolling=No frameborder=0 marginheight=0 marginwidth=0 src="http://adj16.thruport.com:80/servlet/ajrotator/2254/0/viewHTML?pool=6809&theme=1370&type=54"><scr' + 'ipt language=JavaScript src="http://adj16.thruport.com:80/servlet/ajrotator/2254/0/viewJScript?pool=6809&theme=1370&type=54"></scr' + 'ipt></iframe>');
+        document.write ('<br><font size=-2>Click banner to visit sponsor &nbsp; | &nbsp; <a href=/webshop/banners.html>Hide ads</a> &nbsp; | &nbsp; <a href=/biz/index.html#advertise>Advertise here</a></font><br>');
       }
 // -->
-</script><a href="http://adj16.thruport.com:80/servlet/ajrotator/2254/0/clickCGI?"><img src="http://adj16.thruport.com:80/servlet/ajrotator/2254/0/viewCGI?pool=2247&amp;theme=1370&amp;type=54" width="468" height="60" border="0"></a><br><font size="-2">Click banner to visit sponsor &nbsp; | &nbsp; <a href="/webshop/shop.html#membership">Hide ads</a> &nbsp; | &nbsp; <a href="/biz/index.html#advertise">Advertise here</a></font>
+</script><iframe width="468" height="60" noresize="" scrolling="No" frameborder="0" marginheight="0" marginwidth="0" src="http://adj16.thruport.com:80/servlet/ajrotator/2254/0/viewHTML?pool=6809&amp;theme=1370&amp;type=54"><script language=JavaScript src="http://adj16.thruport.com:80/servlet/ajrotator/2254/0/viewJScript?pool=6809&theme=1370&type=54"></script></iframe><br><font size="-2">Click banner to visit sponsor &nbsp; | &nbsp; <a href="/webshop/banners.html">Hide ads</a> &nbsp; | &nbsp; <a href="/biz/index.html#advertise">Advertise here</a></font><br>
 <noscript>
- <!-- for non javascript browsers and Netscape 2.x -->
-<a href="http://adj16.thruport.com:80/servlet/ajrotator/2254/0/clickCGI?"><img src="http://adj16.thruport.com:80/servlet/ajrotator/2254/0/viewCGI?pool=2247&theme=1370&type=54" width="468" height="60" border="0"></a>
-<br><font size=-2>Click banner to visit sponsor &nbsp; | &nbsp; <a href=/webshop/shop.html#membership>Hide ads</a> &nbsp; | &nbsp; <a href=/biz/index.html#advertise>Advertise here</a></font>
+<a href="http://adj16.thruport.com:80/servlet/ajrotator/2254/0/clickCGI?"><img src="http://adj16.thruport.com:80/servlet/ajrotator/2254/0/viewCGI?pool=6809&theme=1370&type=54" width="468" height="60" border="0"></a>
+<p><font size=-2>Click banner to visit sponsor &nbsp; | &nbsp; <a href=/webshop/banners.html>Hide ads</a> &nbsp; | &nbsp; <a href=/biz/index.html#advertise>Advertise here</a></font>
 </noscript>
-<!--DoubleClick Top Ad END-->
 
-
-</p></center>
+</center>
+ 
 
 
 <table border="0" cellpadding="5" cellspacing="1" width="100%"><tbody><tr><td bgcolor="#ffffff"><h2><font color="navy">Syvum Privacy Policy</font></h2>
@@ -169,22 +160,29 @@ is used to customize the content and advertising to deliver a better
 experience for our users.
 
 <a name="ads"></a>
-<h3>ADVERTISEMENTS</h3>
-The ads appearing on this Web site are delivered to you by DoubleClick's
-Sonar Network, our Web advertising partner. Our third-party advertising
-company also separately places or recognizes a cookie file on your browser
-in the course of delivering advertisements to this Site.  Information about
-your visit to this site (but not your name, address, or other personal
-information) is used to serve ads to you on this site.  This information is
-not collected by Sonar and DoubleClick for profiling.  For more information
-about Sonar, cookies, and your right to "opt-out", please 
-<a href="http://www.sonar.com/content/privacy.htm">click here</a>.
+<h3>THIRD PARTY ADVERTISING</h3>
+ We use Maxworldwide and other third-party advertising
+companies to serve ads when you visit our Web site. These companies may use
+information (not including your name, address, email address or telephone
+number) about your visits to this and other Web sites in order to provide
+advertisements on this site and other sites about goods and services that
+may be of interest to you. If you would like more information about this
+practice and to know your choices about not having this information used by
+these companies, please click here
+<a href="http://www.networkadvertising.org/optout_nonppii.asp">
+http://www.networkadvertising.org/optout_nonppii.asp</a>
+
 <p>
 In addition to DoubleClick, we also utilize the services of Adtegrity.com
 to serve ads on our site.  To view their privacy policy,
 <a href="http://www.adtegrity.com/privacy.asp">click here</a>.
 
-</p><h3>COMMITMENT </h3>
+</p><h3>THIRD PARTY COOKIES</h3>
+                In the course of serving advertisements to this site, our
+third-party advertiser may place or recognize a unique "cookie" on your
+browser.
+
+<h3>COMMITMENT </h3>
 We are committed to privacy.
 Personal data privacy is a new and evolving area, and 
 Syvum is evolving to meet these demands. Mistakes are possible; 
@@ -222,22 +220,46 @@ document.write ('</scr' + 'ipt>');
 <script language="JavaScript" src="http://adj16.thruport.com:80/servlet/ajrotator/2254/2/viewJScript?pool=2247&amp;theme=1370&amp;type=54">
 </script>
 
+</p></center>
+</td>
+<td bgcolor="navy"><img src="/images/1.gif" height="1" width="2"></td>
+<td bgcolor="#c6cff6" valign="top"><img src="/images/1.gif" width="120" height="1">
+<script language="JavaScript1.2">
+function gIn(x){
+if(document.getElementById||(document.all && !(document.getElementById))){
+x.style.backgroundColor="#ffffff";
+}
+}
+function gOut(x){
+if(document.getElementById||(document.all && !(document.getElementById))){
+x.style.backgroundColor="#c6cff6";
+}
+}
+</script>
+<table width="120" border="0" cellpadding="3" cellspacing="0" style="font: normal 9pt arial;">
+<tbody><tr><td align="center" onmouseover="gIn(this);" onmouseout="gOut(this);"><a href="/webshop/banners.html"><font color="red"><b>Remove banners</b><font></font></font></a></td></tr>
+<tr><td align="center" onmouseover="gIn(this);" onmouseout="gOut(this);"><a href="/cgi/redirect.cgi?authoring">Create a Quiz</a></td></tr>
+<tr><td align="center" onmouseover="gIn(this);" onmouseout="gOut(this);"><a href="/contrib/">User Contributions</a></td></tr>
+<tr><td align="center" onmouseover="gIn(this);" onmouseout="gOut(this);"><a href="/cgi/redirect.cgi?teachers">Features For Teachers</a></td></tr>
+<tr><td align="center" onmouseover="gIn(this);" onmouseout="gOut(this);"><a href="/cgi/redirect.cgi?syvumclickv">One-Click Lookups</a></td></tr>
+<tr><td align="center" onmouseover="gIn(this);" onmouseout="gOut(this);"><a href="/translation/">Online Translation Service</a></td></tr>
+</tbody></table>
+<p>
 
-<table width="100%" bgcolor="#000088" cellspacing="0" border="0">
-<tbody><tr><td width="33%"><a href="/contact.html"> <font color="#ffffff" size="-2" face="verdana">Contact Info</font></a></td>
-<td align="center" width="33%"><font color="#ffffff" size="-2" face="verdana"> © 1999-2002, Syvum Technologies Inc. </font></td>
+</p></td>
+</tr>
+<tr><td colspan="3"><table width="100%" bgcolor="#000088" cellspacing="0" border="0" style="font: normal 10pt arial;">
+<tbody><tr><td width="33%"><a href="/contact.html"> <font color="#ffffff" size="-2">Contact Info</font></a></td>
+<td align="center" width="33%"><font color="#ffffff" size="-2"> © 1999-2002, Syvum Technologies Inc. </font></td>
 <td align="right" width="33%">
-<a href="/legal/privacy.html"> <font color="#ffffff" size="-2" face="verdana">Privacy Policy</font></a>
-<a href="/legal/copyrt.html"> <font color="#ffffff" size="-2" face="verdana">Disclaimer and Copyright</font></a></td>
+<a href="/legal/privacy.html"> <font color="#ffffff" size="-2">Privacy Policy</font></a>
+<a href="/legal/copyrt.html"> <font color="#ffffff" size="-2">Disclaimer and Copyright</font></a></td>
 </tr>
 </tbody></table>
-
-</p></center>
-
-<!-- insertdblclkpart2 -->
-
+</td></tr></tbody></table>
 
 <script language="JavaScript1.2" src="http://www.syvum.com/click.js"></script>
+ 
 
 
 </body></html>
