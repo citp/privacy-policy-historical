@@ -1,54 +1,33 @@
-> *The following text is extracted and transformed from the data.com privacy policy that was archived on 1998-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19980114144916id_/http%3A//www.mcgraw-hill.com/corporate/news_info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the data.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202030600id_/http%3A//www.commweb.com/static/privacy.html) for the most accurate reproduction.*
 
-# The McGraw-Hill Companies Customer Privacy Policy
+# Commweb
 
-## 
+CommWeb.com Privacy Policy Statement
 
-## The McGraw-Hill Companies Customer Privacy Policy
+CMP MEDIA INC. PRIVACY STATEMENT
 
-* * *
+CMP MEDIA INC. ("CMP") recognizes the importance of protecting the privacy of all information provided by users of CommWeb and our related websites. We created the following policy guidelines with a fundamental respect for our users' right to privacy to guide our relationships with our users.
 
-The McGraw-Hill Companies recognizes the importance of protecting the privacy of Personally-Identifiable Information collected about you, our customers and prospects. Personally-Identifiable Information includes your e-mail address, employment status, and "click stream" data which tracks how you use an online service. We have adopted a corporate-wide Customer Privacy Policy that guides how we collect, store and use this Personally-Identifiable Information about our customers and prospects. Our intent is to balance our legitimate business interests in collecting and using this Information against your reasonable expectations of privacy. This Policy includes the following:
+#### Information Collected by CMP
 
-**1\. Notice.** We will notify you as to the types of Personally-Identifiable-Information we are collecting about you as well as the uses we intend to make of that Information. For example, we need to collect and store your name, address, and other basic Personally-Identifiable Information to provide you with the service or product you requested and for billing purposes. This Information also enables us to develop and customize products to better meet your needs and preferences and to offer you products from both The McGraw-Hill Companies and other sources that may be of interest to you.
+CMP collects information about users during their registration for some of our websites; their participation in certain activities on our websites, including contests and polls; and through the use of cookies. When users request pages from our server, our Web server automatically collects some information about the users, including their IP addresses. These addresses are used by computers on the network to send the requested pages to users. 
 
-**2\. Collection and Security.** We will only collect this type of Personally Identifiable Information to the extent deemed reasonably necessary to serve our legitimate business purposes and we will maintain appropriate safeguards to ensure the security, integrity and privacy of the Information.
+#### Use of Information 
 
-**3\. Opt-Out.** From time to time, we are approached by companies and organizations that produce a product or service that we believe may be of interest to you. We see this as a value-added service helping you to find products or services to help you work or play smarter. We will offer you the opportunity to "opt-out" of having your Personally-Identifiable Information shared with parties outside of The McGraw-Hill Companies.
+CMP will not reveal any personal information that users provide to us to any third party without their permission 
 
-**4\. Sensitive Data.** If your relationship with us includes providing one of the Corporation's business units with Personally-Identifiable Information which is particularly "Sensitive", we will protect that information with extra care. We define Sensitive Data as including Social Security numbers, mother's maiden name, personal financial data such as salary-specific information, specific stock holdings and net worth, information regarding someone's specific medical condition and most information about children. There will be no external distribution of this Sensitive Data outside of The McGraw-Hill Companies. In addition, you may "opt out" of having this information shared among business units within the family of The McGraw-Hill Companies.
+CMP uses users' IP addresses to help diagnose problems with our server and to administer our website. We also use it to gather broad demographic information about our users in general. This information does not contain anything that can identify users personally. We may combine demographic information supplied by a subscriber at registration with site usage data to provide profiles, in aggregate form, about our users and their preferences in the content of the site and advertising. We may share this composite information with our advertisers to help them better understand our services, but CMP does not give advertisers information about individual users of CommWeb.
 
-**5\. Questions and Concerns?** Each business unit is in the process of designating someone to implement privacy protection for that unit's customers and prospects. You soon will find a contact name listed on each Web site and in many of our print products.
+Using e-mail addresses provided at registration or otherwise, CMP periodically sends out e-mail newsletters and promotional e-mail to our users about services and products offered by CommWeb and its advertisers. Users can indicate that they do not wish to receive e-mail information from CMP or its advertisers. Third parties will not contact our users through the use of our e-mail newsletter lists except through advertisements within the newsletters themselves, or unless users ask to be placed on a list to receive e-mail from our advertisers on subjects of interest. 
 
-**6\. Review and Correction.** In the near future, you will be able to request a copy of the Personally-Identifiable Information a business unit has collected about you, and request changes if you find it inaccurate.
+Our site uses cookies to deliver content specific to users' interests and to honor their preferences. This information is used to assist us in creating a site that will serve the needs of our users. 
 
-**To return to your site of origin, please click on the 'Back' button at the top of your browser.**
+Upon request, CMP will remove users (and their information) from our database or permit them to "opt-out" of any further e-mail newsletters or contact. Although CMP does not specifically seek to obtain any information from children, there are certain areas of our websites that children may visit. We urge children only to give us any information after they have discussed it with their parents. 
 
-* * *
+#### General 
 
-[Privacy Policy Section](https://web.archive.org/web/19970704050145id_/http%3A//www.mcgraw-hill.com/corporate/news_info/privacy/index.html) [The McGraw-Hill Companies Home Page](https://web.archive.org/web/19970704050145id_/http%3A//www.mcgraw-hill.com/index.html)
-## 
+CMP is not responsible for the content or the privacy polices of websites to which it may provide links or the websites of its advertisers. 
 
-## The McGraw-Hill Companies Customer Privacy Policy
+CMP uses reasonable precautions to keep the personal information disclosed to us secure and to disclose such information only to responsible third parties after permission from the user. 
 
-* * *
-
-The McGraw-Hill Companies recognizes the importance of protecting the privacy of Personally-Identifiable Information collected about you, our customers and prospects. Personally-Identifiable Information includes your e-mail address, employment status, and "click stream" data which tracks how you use an online service. We have adopted a corporate-wide Customer Privacy Policy that guides how we collect, store and use this Personally-Identifiable Information about our customers and prospects. Our intent is to balance our legitimate business interests in collecting and using this Information against your reasonable expectations of privacy. This Policy includes the following:
-
-**1\. Notice.** We will notify you as to the types of Personally-Identifiable-Information we are collecting about you as well as the uses we intend to make of that Information. For example, we need to collect and store your name, address, and other basic Personally-Identifiable Information to provide you with the service or product you requested and for billing purposes. This Information also enables us to develop and customize products to better meet your needs and preferences and to offer you products from both The McGraw-Hill Companies and other sources that may be of interest to you.
-
-**2\. Collection and Security.** We will only collect this type of Personally Identifiable Information to the extent deemed reasonably necessary to serve our legitimate business purposes and we will maintain appropriate safeguards to ensure the security, integrity and privacy of the Information.
-
-**3\. Opt-Out.** From time to time, we are approached by companies and organizations that produce a product or service that we believe may be of interest to you. We see this as a value-added service helping you to find products or services to help you work or play smarter. We will offer you the opportunity to "opt-out" of having your Personally-Identifiable Information shared with parties outside of The McGraw-Hill Companies.
-
-**4\. Sensitive Data.** If your relationship with us includes providing one of the Corporation's business units with Personally-Identifiable Information which is particularly "Sensitive", we will protect that information with extra care. We define Sensitive Data as including Social Security numbers, mother's maiden name, personal financial data such as salary-specific information, specific stock holdings and net worth, information regarding someone's specific medical condition and most information about children. There will be no external distribution of this Sensitive Data outside of The McGraw-Hill Companies. In addition, you may "opt out" of having this information shared among business units within the family of The McGraw-Hill Companies.
-
-**5\. Questions and Concerns?** Each business unit is in the process of designating someone to implement privacy protection for that unit's customers and prospects. You soon will find a contact name listed on each Web site and in many of our print products.
-
-**6\. Review and Correction.** In the near future, you will be able to request a copy of the Personally-Identifiable Information a business unit has collected about you, and request changes if you find it inaccurate.
-
-**To return to your site of origin, please click on the 'Back' button at the top of your browser.**
-
-* * *
-
-[Privacy Policy Section](https://web.archive.org/web/19980114144916id_/http%3A//www.mcgraw-hill.com/corporate/news_info/privacy/index.html) [The McGraw-Hill Companies Home Page](https://web.archive.org/web/19980114144916id_/http%3A//www.mcgraw-hill.com/index.html)
+If you have any questions about this privacy statement, the practices of this site or your dealings with CommWeb you can contact: <http://www.cmpnet.com/feedback/>
