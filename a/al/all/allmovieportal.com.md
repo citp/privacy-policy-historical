@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allmovieportal.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008193706id_/http%3A//www.allmovieportal.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allmovieportal.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603012701id_/http%3A//www.allmovieportal.com/privacy.html) for the most accurate reproduction.*
 
-# AllMoviePortal.com: Movies, DVDs, and Posters
+# Privacy Policy
 
 **   
 AllMoviePortal** **.com Privacy Policy**
@@ -13,7 +13,7 @@ Cookies are used as an important and necessary part of providing customizabled a
 
 We undertake substantial efforts to protect the confidentiality of the identity, preferences and other information we have collected and will never knowingly allow access to this information to anyone outsie AllMoviePortal.com. 
 
-You may at anytime request a removal of information stored on AllMoviePortal.com server by contacting [privacy@AllMoviePortal.com](mailto:privacy@celebritywonder.com). 
+You may at anytime request a removal of information stored on AllMoviePortal.com server by [contacting us](http://www.allmovieportal.com/contact.html). 
 
 The foregoing policy is effective as of January 2001, and AllMoviePortal.com reserves the right to change this policy at any time. Please check this page periodically for changes. This statement and policies outlined herein are not intented to and do not create any contractual or other legal rights in or on behalf of any party. 
 
@@ -23,3 +23,6 @@ We use DoubleClick and other third-party advertising companies to serve ads when
 
 **Third Party Cookies**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+
+If you have any question about this privacy, please [contact us](http://www.allmovieportal.com/contact.html)  
+ 
