@@ -1,0 +1,416 @@
+<!--The following is the downloaded HTML source of the onsemi.com privacy policy that was archived on 2003-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031203102941id_/http%3A//www.onsemi.com/site/content/0%2C4367%2C1109%2C00.html) for the most accurate reproduction.-->
+
+<html><head>
+<title>ON Semiconductor</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" href="/site/common/ON_Style.css" type="text/css">
+
+<script language="JavaScript">
+ 
+function cntrSubmit(searchString) {
+	cntAlphaNum = 0;
+	allowedChars = new Array("*","-",".",",","/"," ");
+	
+	while (searchString.charCodeAt(searchString.length-1)==32) {
+		searchString = searchString.substr(0,searchString.length-1);
+	}
+	for ( i = 0; i < searchString.length; i++ ) {
+		asc = searchString.toUpperCase().charCodeAt(i);
+		if ( ((asc >= 48) && (asc <= 57)) || ((asc >= 65) && (asc <= 90)) ) {
+			cntAlphaNum++;
+		} else {
+			found = false;
+			for (j = 0; j < allowedChars.length; j++) {
+				if ((asc == allowedChars[j].charCodeAt(0))) {
+					found = true;
+				}
+			}
+			if (!found) {
+				chars = "";
+				for (k = 0; k < allowedChars.length; k++) {
+					chars+=", " + allowedChars[k];
+				}
+				alert("Only the following characters can be entered search : " + 
+				"{A-Z, 0-9" +chars+" }");
+				return false;
+			}
+		}
+	}
+	if ( cntAlphaNum < 3 ) {
+		alert("You must enter at least 3 characters.");
+		return false;
+	}
+	return true;
+}
+function cntrSubmitSearch(searchString) {
+	if (searchString.charCodeAt(0) == 34) {
+	  if (searchString.length > 4) {
+		  return true;
+	  } else {
+	  	alert("You must enter at least 3 characters within quotes.");
+		return false;
+	  }	  
+	} else {   
+	cntAlphaNum = 0;
+	allowedChars = new Array("*","-",".",",","/"," ");
+	
+	while (searchString.charCodeAt(searchString.length-1)==32) {
+		searchString = searchString.substr(0,searchString.length-1);
+	}
+	for ( i = 0; i < searchString.length; i++ ) {
+		asc = searchString.toUpperCase().charCodeAt(i);
+		if ( ((asc >= 48) && (asc <= 57)) || ((asc >= 65) && (asc <= 90)) ) {
+			cntAlphaNum++;
+		} else {
+			found = false;
+			for (j = 0; j < allowedChars.length; j++) {
+				if ((asc == allowedChars[j].charCodeAt(0))) {
+					found = true;
+				}
+			}
+			if (!found) {
+				chars = "";
+				for (k = 0; k < allowedChars.length; k++) {
+					chars+=", " + allowedChars[k];
+				}
+				alert("Only the following characters can be entered : " + 
+				"{A-Z, 0-9" +chars+" }.\n" + 
+				"Use quotes for search whole string including special characters.");
+				return false;
+			}
+		}
+	}
+	if ( cntAlphaNum < 3 ) {
+		alert("You must enter at least 3 characters.");
+		return false;
+	}
+	return true;
+	}
+}
+
+function invokeSubmitSearch(form) {
+  if ( cntrSubmitSearch(form.elements["searchString"].value)) {
+  	form.submit();
+  }
+}
+
+function invokeSubmit(form) {
+  if ( cntrSubmit(form.elements["searchString"].value)) {
+  	form.submit();
+  }
+}
+
+function invokeXrefSubmit(form) {
+  if ( cntrSubmit(form.elements["opn"].value)) {
+  	form.submit();
+  }
+}
+</script>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+ var sPath = location.href;
+ if (sPath.indexOf('http://onsemi.com') != -1) 
+ {
+ 	if (sPath.indexOf('onsemi.com:88') == -1)
+	{
+	 	location.href="http://www.onsemi.com";
+	}
+	else
+	{
+	 	location.href="http://www.onsemi.com:88";
+	}
+ }
+
+ if (sPath.indexOf('http://www.onsemi.co.jp') != -1) 
+ {
+ 	location.href="http://www.onsemi.com";
+ }
+ if (sPath.indexOf('http://www.onsemi.com.cn') != -1) 
+ {
+ 	location.href="http://www.onsemi.com";
+ }
+ 
+     var agt=navigator.userAgent.toLowerCase(); 
+    var is_major = parseInt(navigator.appVersion); 
+    var is_minor = parseFloat(navigator.appVersion); 
+
+    var is_nav  = ((agt.indexOf('mozilla')!=-1) && (agt.indexOf('spoofer')==-1)
+                	&& (agt.indexOf('compatible') == -1) &&
+					(agt.indexOf('opera')==-1) && (agt.indexOf('webtv')==-1)); 
+
+    var is_nav5up = (is_nav && (is_major >= 5)); 
+
+    var is_ie   = (agt.indexOf("msie") != -1); 
+    var is_ie5  = (is_ie && (is_major == 4) && (agt.indexOf("msie 5")!=-1) );
+    var is_ie6  = (is_ie && (is_major == 4) && (agt.indexOf("msie 6")!=-1) );
+
+
+
+// -->
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('/site/images/smsearch_highlight.jpg','/site/images/china_over.gif')">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td>
+	  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td width="252" bgcolor="#A5BCD4"><a href="/"><img src="/site/images/topleftlogo.jpg" width="252" height="27" border="0"></a></td>
+          <td align="right" bgcolor="#A5BCD4" class="headerTop"><img src="/site/images/spacer.gif" height="1"><br>
+           <a href="/site/content/0,4367,1000,00.html" target="_parent"><font size="2" style="font-size:14px">Company</font></a> 
+            • <a href="/site/frames/0,,1116,00.html" target="_parent"> <font size="2" style="font-size:14px">Investors</font></a> 
+            • <a href="/site/content/0,4367,1001,00.html" target="_parent"><font size="2" style="font-size:14px">Quality</font></a> 
+            • <a href="/site/index/0,4368,1107,00.html" target="_parent"><font size="2" style="font-size:14px">Site 
+            Index</font></a> • 
+			<a href="?lang=zh" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image62','','/site/images/china_over.gif',1)" target="_parent"><img src="/site/images/china.gif" name="Image62" width="24" height="12" border="0" align="absmiddle"></a>	 
+			<img src="/site/images/spacer.gif" width="10" height="1"><img src="/site/images/spacer.gif" width="1" height="1" align="right"></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td>
+	  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td width="252" bgcolor="#336699"><a href="/" target="_parent"><img src="/site/images/middlelogo.jpg" width="252" height="48" border="0"></a></td>
+          <td bgcolor="#336699" width="200" align="left"><img src="/site/images/leftblue.jpg" width="200" height="48"></td>
+          <td bgcolor="#336699" align="left" width="1000" valign="top" background="/site/images/technobg.jpg">
+	        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+              <tbody><tr> 
+                <td align="right"> 
+				  <form action="/site/products/searchresults/0,4533,,00.html" name="fSearchGlob" id="fSearchGlob" target="_parent" onsubmit="return cntrSubmitSearch(this.searchString.value);">				
+                    <input name="searchString" type="text" size="15" class="textInput" value="Product Search" maxlength="100" onfocus="this.value=&quot;&quot;">
+					&nbsp;	
+                    <a href="javascript:invokeSubmitSearch(document.forms['fSearchGlob']);" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('godotgif','','/site/images/smsearch_highlight.jpg',1)">					
+				    <img src="/site/images/smsearch.jpg" name="godotgif" align="absmiddle" border="0">&nbsp;											
+					</a>
+                  </form>
+				</td>					
+              </tr>       
+            </tbody></table>			  
+          </td>
+        </tr>
+      </tbody></table>
+	  </td>
+  </tr>
+  
+  <tr> 
+    <td valign="top" bgcolor="#A5BCD4"> 
+	  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td width="450" height="29" valign="top" bgcolor="#A5BCD4"> 
+		    <table width="466" border="0" cellpadding="0" cellspacing="0">
+              <!--DWLayoutTable-->
+              <tbody><tr> 
+                <td colspan="9" valign="top" width="450"><img src="/site/images/nav_topbar.jpg" height="7"></td>
+              </tr>
+              <tr> 
+                <td width="25" valign="top"><img src="/site/images/nav_begin.jpg" width="25" height="22"></td>
+                <td width="101" align="left" valign="middle" background="/site/images/nav_background.jpg" class="headerMain">
+				  <a class="main_head_links" href="/site/products/0,4535,1118,00.html" target="_parent">
+				  Products</a><img src="/site/images/spacer.gif" width="30" height="1">
+				</td>
+                <td width="25" valign="top"><img src="/site/images/nav_mid.jpg" width="25" height="22"></td>
+                <td width="90" align="left" valign="middle" background="/site/images/nav_background.jpg" class="headerMain">
+				<a class="main_head_links" href="/site/apps/taxonomy/0,4459,,00.html" target="_parent">
+				Application</a><img src="/site/images/spacer.gif" width="5" height="1">
+				</td>
+                <td width="25" valign="top"><img src="/site/images/nav_mid.jpg" width="25" height="22"></td>
+                <td width="83" align="left" valign="middle" background="/site/images/nav_background.jpg" class="headerMain">
+				<a class="main_head_links" href="/site/purchasing/0,4508,1002,00.html" target="_parent">
+				Purchasing</a><img src="/site/images/spacer.gif" width="3" height="1">
+				</td>
+                <td width="25" valign="top"><img src="/site/images/nav_mid.jpg" width="25" height="22"></td>
+                <td width="83" align="left" valign="middle" background="/site/images/nav_background.jpg" class="headerMain">
+				<a class="main_head_links" href="/site/content/0,4367,1003,00.html" target="_parent">
+				Support</a><img src="/site/images/spacer.gif" width="12" height="1">
+				</td>
+                <td width="8" valign="top"><img src="/site/images/nav_end.jpg" width="8" height="22"></td>
+              </tr>
+            </tbody></table>
+		  </td>
+          <td valign="top" bgcolor="#A5BCD4" align="left" width="1000">
+		  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr> 
+                <td width="16" align="left" background="/site/images/cartrep.jpg"><img src="/site/images/cartstart.jpg" width="16" height="20" align="absbottom"></td>
+                <td width="26" align="left" background="/site/images/cartrep.jpg" valign="top"><img src="/site/images/cart.jpg" width="26" height="20"></td>
+				<td valign="middle" nowrap="" background="/site/images/cartrep.jpg"><span class="cartStatus">
+				<img src="/site/images/spacer.gif" width="8" height="8"><a href="/site/shoppingCart/0,4993,1109,00.html" target="_parent">Cart Status</a></span>:&nbsp;</td>
+                
+				<td width="500" valign="middle" background="/site/images/cartrep.jpg"> <span class="cartQuanity">&nbsp;empty</span></td>
+				<td width="11&quot;" align="right" valign="top" background="/site/images/cart_on_rep.jpg"><img src="/site/images/cart_on_bend.jpg" width="11" height="12" align="top">
+				</td>
+               
+
+    <td width="25" align="center" valign="middle" background="/site/images/myon_rep.jpg" class="myonName">  
+	<img src="/site/images/spacer.gif" width="25" height="1"></td>
+	<td width="90" background="/site/images/myon_rep.jpg"><a href="/site/MyON/0,4386,1004,00.html" target="_parent"><img src="/site/images/myonlogin.jpg" width="90" height="20" border="0"></a></td>
+	 <td width="25" background="/site/images/myon_rep.jpg"><img src="/site/images/spacer.gif" width="25" height="1">
+
+
+</td>
+              </tr>
+              <tr> 
+                <td colspan="4" bgcolor="#A5BCD4"><img src="/site/images/spacer.gif" width="170" height="1"></td>
+              </tr>
+            </tbody></table></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+</tbody></table>
+
+
+
+
+<table width="100%" height="22" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td colspan="3" bgcolor="#A5BCD4" height="10"><img src="/site/images/spacer.gif"></td>
+</tr><tr> 
+<td width="1200" background="/site/images/breadCrumb.jpg"><img src="/site/images/spacer.gif" width="1" height="1"></td>
+<td width="40" height="6" valign="top" background="/site/images/crumb_rep_vert.gif"><img src="/site/images/crumb_split_top.gif"></td>
+<td width="139" background="/site/images/breadCrumb_r.jpg"><img src="/site/images/spacer.gif" width="1" height="1"></td>
+</tr>
+<tr> 
+<td valign="middle" width="1200" bgcolor="#E7E9EF" class="breadcumblink" height="10"><img src="/site/images/spacer.gif" width="4" height="1" align="left">
+	
+
+			<a href="/site/home/0,4370,0,00.html" target="_parent">Home</a> <img src="/site/images/bcArrow.gif" width="12" height="6" border="0"> 
+		
+			<a href="/site/content/0,4367,1109,00.html" target="_parent">Privacy Policy</a>
+		
+</td>
+<td width="40" rowspan="2" valign="bottom" background="/site/images/crumb_rep_vert.gif"><img src="/site/images/crumb_split_bottom.gif" width="40" height="22"></td>
+<td width="139" height="22" align="center" bgcolor="#A4A8BB" class="smLink">
+
+
+	<img src="/site/images/spacer.gif" width="139" height="1">
+
+</td>
+</tr>
+<tr> 
+<td height="2" background="/site/images/crumb_left_rep.jpg"><img src="/site/images/spacer.gif" width="615" height="2"></td>
+<td height="2" background="/site/images/crumb_right_rep.jpg"><img src="/site/images/spacer.gif" width="140" height="2"></td>
+</tr>
+<tr>
+<td colspan="3"><img src="/site/images/spacer.gif" width="1" height="10"></td>
+</tr>
+</tbody></table>
+
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0" class="bodyCopy">
+<tbody><tr>
+
+<td width="20">&nbsp;</td>
+<td valign="top" width="*">
+	
+
+
+
+<table width="720" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr> 
+    <td><p align="left" class="lgHeadline"><b>Privacy Policy </b></p>
+      <p> <span class="bodyCopy">ON Semiconductor is committed to protecting your 
+        privacy. This policy explains how we handle information we learn about 
+        you while you visit our site. The information that we receive depends 
+        on what you do during your visit, and what service(s) you request. </span></p>
+      <p><span class="smHeadline"><b>Data Collected</b></span><br>
+        <span class="bodyCopy">We collect two types of information: personal and 
+        demographic. Personal information is any information that you choose to 
+        submit to us and that is specific to your identification (i.e. name, address, 
+        phone number, email). Demographic information is information that cannot 
+        be associated with you personally (i.e. domain information, zip codes, 
+        areas of interest). We also keep track of your browsing patterns. </span> 
+      </p>
+      <p><span class="smHeadline"><b>Use of Data</b></span><br>
+        <span class="bodyCopy">When you request a service, place an order, submit 
+        feedback, or participate in a seminar or survey, it is necessary for you 
+        to offer certain personal information about yourself so that we could 
+        serve your needs. We will not send you information unless you specifically 
+        request it, or we feel that the information would benefit your business 
+        needs. If you decide that you do not want to receive further information, 
+        simply contact us and request to be removed from the contact list. When 
+        you order a sample from us, a customer representative may contact you 
+        to follow up. The demographic information that is collected through our 
+        site is used to evaluate how our site is used and how it can be improved. 
+        It may also be used for marketing and investment analysis. </span></p>
+      <p><span class="smHeadline"><b>Cookies</b></span><br>
+        <span class="bodyCopy">Some features of this site use cookies. Cookies 
+        are small files that the site places on your hard drive for identification 
+        purposes. Please note that cookies cannot read information on your hard 
+        drive. We use cookies to measure our web trafficking processes, so that 
+        we may make our site more efficient. We also use cookies to offer you 
+        certain services and to customize your visit. If you are a registered 
+        user, you can specifically request that our site remembers your login 
+        information. By doing so, you are allowing us to place a permanent cookie 
+        onto your computer. You may choose to turn off cookies completely, but 
+        you will not be able to use certain site services, such as the shopping 
+        cart. </span> </p>
+      <p><span class="smHeadline"><b>Disclosure to Third Parties</b></span><br>
+        <span class="bodyCopy">In order to offer certain services, ON Semiconductor 
+        hires subcontractors to ease business transactions. In the event that 
+        we share your personal information with these subcontractors, they will 
+        use your personal information for the sole purpose of providing the specific 
+        service they are hired for, and they will not disclose your personal information 
+        to any third parties. </span></p>
+      <p><span class="smHeadline"><b>Security</b></span><br>
+        <span class="bodyCopy">Systems that store your information are firewall 
+        protected. Access to sensitive information is restricted to authorized 
+        personnel. If we ask for any credit card or financial information, this 
+        information is transmitted through Secure Sockets Layer (SSL) technology, 
+        which encrypts sensitive information. Some information that is transmitted 
+        between our site and our registered users is also SSL encrypted, depending 
+        on the sensitivity of the information. </span></p>
+      <p><span class="smHeadline"><b>Contact Us</b></span><br>
+        <span class="bodyCopy">If you have any questions or comments regarding 
+        this privacy policy, please contact us and a legal representative will 
+        respond to your question/comment. </span></p>
+      <p class="bodyCopy">We reserve the right to change this policy at any time. 
+        For more information on using this site, see the Terms of Use.</p></td>
+  </tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+
+
+
+<br><br>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="center" valign="top"><img src="/site/images/h_hairline.jpg" width="480" height="16"></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" class="smLink"><a href="/site/content/0,4367,1109,00.html" target="_parent">Privacy 
+      Policy</a> • <a href="/site/content/0,4367,1017,00.html" target="_parent">Contact Us</a> • <a href="/site/content/0,4367,1108,00.html" target="_parent">Terms 
+      of Use</a><br>
+      <span class="bodyCopy">© Copyright 1999-2003</span><br></td>
+  </tr>
+</tbody></table>
+<br><br>
+
+</body></html>
