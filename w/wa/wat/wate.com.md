@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the wate.com privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616144408id_/http%3A//www.wate.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wate.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201194617id_/http%3A//wate.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
 # This Station’s Privacy Policy
 
-|    
 **This Station’s Privacy Policy**   
-  
 This station provides a variety of online services, from interactive entertainment to electronic commerce via its relationship with Gannaway Web Holdings, LLC d/b/a WorldNow ("WorldNow"). WorldNow is the host of this station's site (the "Web site"). Because the success of this station is dependent on building and maintaining goodwill with our customers, this station and WorldNow (hereinafter collectively referred to as "we" or “us” or "our") are committed to implementing measures designed to protect the privacy of those using our services. Moreover, we see it as our responsibility to set examples and help establish the standards for privacy on the Internet.
 
 Although we respect the privacy of all those who visit the Web site and use our online services, we do collect information from our Web site's members and visitors. This Privacy Policy governs your interaction with the Web site, and your registration for and use of this station's online services. Except as set forth within this Privacy Policy and this Web Site's Terms of Service and/or other published guidelines, we do not release personally identifiable information about this Web site's members and visitors without their permission.
@@ -64,5 +62,3 @@ We use third-party advertising companies to serve ads when you visit our web sit
 **Questions?**
 
 Questions regarding this Privacy Policy should be directed to us at [Info@WorldNow.com](mailto:Info@WorldNow.com).
-
-| 
