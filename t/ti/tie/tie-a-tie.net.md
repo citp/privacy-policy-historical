@@ -1,36 +1,38 @@
-> *The following text is extracted and transformed from the tie-a-tie.net privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610201342id_/http%3A//tie-a-tie.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tie-a-tie.net privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009181041id_/http%3A//www.tie-a-tie.net/privacy.html) for the most accurate reproduction.*
 
 # Tie-a-Tie.net | Privacy Policy
 
 **     [Home](http://www.tie-a-tie.net/ "Home")
 
-    [Windsor Knot](https://web.archive.org/web/20040610201342id_/http%3A//tie-a-tie.net/windsor.html "Windsor Knot")
+    [Windsor Knot](https://web.archive.org/web/20041009181041id_/http%3A//www.tie-a-tie.net/windsor.html "Windsor Knot")
 
-    [Half Windsor Knot](https://web.archive.org/web/20040610201342id_/http%3A//tie-a-tie.net/halfwindsor.html "Half Windsor Knot")
+    [Half Windsor Knot](https://web.archive.org/web/20041009181041id_/http%3A//www.tie-a-tie.net/halfwindsor.html "Half Windsor Knot")
 
-    [Four in Hand Knot](https://web.archive.org/web/20040610201342id_/http%3A//tie-a-tie.net/fourinhand.html "Four in Hand Knot")
+    [Four in Hand Knot](https://web.archive.org/web/20041009181041id_/http%3A//www.tie-a-tie.net/fourinhand.html "Four in Hand Knot")
 
-    [Pratt Knot](https://web.archive.org/web/20040610201342id_/http%3A//tie-a-tie.net/pratt.html "Pratt Knot")
+    [Pratt Knot](https://web.archive.org/web/20041009181041id_/http%3A//www.tie-a-tie.net/pratt.html "Pratt Knot")
 
-    [Bow Tie Knot](https://web.archive.org/web/20040610201342id_/http%3A//tie-a-tie.net/bowtie.html "Bow Tie Knot")
+    [Bow Tie Knot](https://web.archive.org/web/20041009181041id_/http%3A//www.tie-a-tie.net/bowtie.html "Bow Tie Knot")
 
-    [Tie Tips & Tricks](https://web.archive.org/web/20040610201342id_/http%3A//tie-a-tie.net/tips.html "Tie Tips & Tricks")
+    [Tie Tips & Tricks](https://web.archive.org/web/20041009181041id_/http%3A//www.tie-a-tie.net/tips.html "Tie Tips & Tricks")
 
-    [Necktie Accessories](https://web.archive.org/web/20040610201342id_/http%3A//tie-a-tie.net/accessories.html "Necktie Accessories")
+    [Necktie Accessories](https://web.archive.org/web/20041009181041id_/http%3A//www.tie-a-tie.net/accessories.html "Necktie Accessories")
 
-    [Buy Neckties Online](https://web.archive.org/web/20040610201342id_/http%3A//tie-a-tie.net/neckties.html "Buy Neckties Online")
+    [Job Interview Dress](https://web.archive.org/web/20041009181041id_/http%3A//www.tie-a-tie.net/dress.html "Job Interview Dress")
 
-    [Tell a Friend](https://web.archive.org/web/20040610201342id_/http%3A//tie-a-tie.net/tell.html "Tell a Friend")
+    [Buy Neckties Online](https://web.archive.org/web/20041009181041id_/http%3A//www.tie-a-tie.net/neckties.html "Buy Neckties Online")
 
-    [Link to Me](https://web.archive.org/web/20040610201342id_/http%3A//tie-a-tie.net/linktome.html "Link to Me")
+    [Tell a Friend](https://web.archive.org/web/20041009181041id_/http%3A//www.tie-a-tie.net/tell.html "Tell a Friend")
 
-    [Feedback](https://web.archive.org/web/20040610201342id_/http%3A//tie-a-tie.net/feedback.html "Feedback")
+    [Link to Me](https://web.archive.org/web/20041009181041id_/http%3A//www.tie-a-tie.net/linktome.html "Link to Me")
 
-    [Articles](https://web.archive.org/web/20040610201342id_/http%3A//tie-a-tie.net/articles.html "Articles")
+    [Feedback](https://web.archive.org/web/20041009181041id_/http%3A//www.tie-a-tie.net/feedback.html "Feedback")
 
-    [Resources](https://web.archive.org/web/20040610201342id_/http%3A//tie-a-tie.net/resources.html "Resources")
+    [Articles](https://web.archive.org/web/20041009181041id_/http%3A//www.tie-a-tie.net/articles.html "Articles")
 
-    [Sitemap](https://web.archive.org/web/20040610201342id_/http%3A//tie-a-tie.net/sitemap.html "Sitemap")
+    [Resources](https://web.archive.org/web/20041009181041id_/http%3A//www.tie-a-tie.net/resources.html "Resources")
+
+    [Sitemap](https://web.archive.org/web/20041009181041id_/http%3A//www.tie-a-tie.net/sitemap.html "Sitemap")
 
 **
 
