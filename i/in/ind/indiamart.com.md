@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiamart.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603120500id_/http%3A//www.indiamart.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiamart.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204193409id_/http%3A//indiamart.com/privacy-policy.html) for the most accurate reproduction.*
 
 # IndiaMART Privacy Policy
 
@@ -14,9 +14,9 @@
 > 
 > 3\. **Collection of information by IndiaMART**
 > 
-> When you are on a IndiaMART site and are asked for personal information, you are sharing that information with IndiaMART alone, unless it is specifically stated otherwise. If data is being collected and/or maintained by any company other than IndiaMART, you will be notified prior to the time of the data collection or transfer by not using that particular service.
+> When you are on a IndiaMART site and are asked for personal information, you are sharing that information with IndiaMART alone, unless it is specifically stated otherwise. If data is being collected and/or maintained by any company other than IndiaMART, you will be notified prior to the time of the data collection or transfer.
 > 
-> Promotions that run on IndiaMART may be sponsored by companies other than IndiaMART or may be co-sponsored by IndiaMART and another company. Some or all date collected during a promotion may be shared with the sponsor. If data will be shared, you will be notified prior to the time of data collection or transfer. You can decide not to participate in the promotion if you don’t want your data to be shared.
+> Promotions that run on IndiaMART may be sponsored by companies other than IndiaMART or may be co-sponsored by IndiaMART and another company. Some or all data collected during a promotion may be shared with the sponsor. If data will be shared, you will be notified prior to the time of data collection or transfer. You can decide not to participate in the promotion if you don’t want your data to be shared.
 > 
 > Please be aware that IndiaMART advertisers or websites that have links on our site may collect personally identifiable information about you. This privacy statement does not cover the information practices of those web sites linked to IndiaMART.
 > 
