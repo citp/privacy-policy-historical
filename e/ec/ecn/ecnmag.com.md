@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecnmag.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603132311id_/http%3A//www.reed-electronics.com/ecnmag/index.asp%3Flayout%3Dpage%26module%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecnmag.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011212605id_/http%3A//www.reed-electronics.com/ecnmag/index.asp%3Flayout%3Dpage%26module%3Dprivacy) for the most accurate reproduction.*
 
 # ECN: Electronic Component News
 
