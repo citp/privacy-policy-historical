@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the highcountrygardens.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604064113id_/http%3A//www.highcountrygardens.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highcountrygardens.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210225432id_/http%3A//www.highcountrygardens.com/privacy.html) for the most accurate reproduction.*
 
-# Gardening: Water conserving plants for Western gardens: High Country Gardens
+# Drought tolerant plants, perennials, and xeriscaping for western gardens
 
   
 **Your Privacy**
