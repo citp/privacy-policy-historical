@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itbusinessedge.com privacy policy that was archived on 2003-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030614085426id_/http%3A//www.itbusinessedge.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itbusinessedge.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204181233id_/http%3A//www.itbusinessedge.com/privacy.aspx) for the most accurate reproduction.*
 
 # IT Business Edge
 
@@ -13,7 +13,7 @@ When you register with IT Business Edge you supply some personal information, in
 We use the personal information you supply to provide you with valuable information that is relevant to your professional interests. The information you receive via e-mail in our weekly reports is customized according to what you tell us about your top IT priorities.
 
 3\. Information Sharing  
-IT Business Edge never shares your personal information with third parties. If you choose to receive them, IT Business Edge will send you special offers from third-party companies we think will be of interest to you based on the information you have provided. Rest assured, these offers are carefully screened by the IT Business Edge staff to ensure their relevance to your interests and are sent by IT Business Edge, not by the offering company.
+IT Business Edge never shares your personal information with third parties without your permission. If you choose to receive them, IT Business Edge will send you special offers from third-party companies we think will be of interest to you based on the information you have provided. Rest assured, these offers are carefully screened by the IT Business Edge staff to ensure their relevance to your interests and are sent by IT Business Edge, not by the offering company.
 
 4\. Links to Third-Party Web Sites  
 IT Business Edge weekly reports contain links to third-party Web sites. This privacy statement applies only to the IT Business Edge Web site and information collected by IT Business Edge. It does not apply to any third-party Web sites you access from our weekly reports or our Web site, and we are not responsible for the privacy practices of these sites.
@@ -42,5 +42,5 @@ You may update your personal information at any time by visiting the IT Business
 11\. Policy Changes  
 If this privacy policy changes in any significant way, a notice will appear on the IT Business Edge Web site and/or you will be notified by e-mail.
 
-8\. To Contact ITBE  
-Should you have any questions or comments regarding this privacy policy, please contact us at: [privacy@itbe.com](mailto:privacy@itbe.com).
+8\. To Contact IT Business Edge  
+Should you have any questions or comments regarding this privacy policy, please contact us at: [privacy@itbusinessedge.com](mailto:privacy@itbe.com).
