@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burtsbees.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205074948id_/http%3A//www1.burtsbees.com/webapp/wcs/stores/servlet/PrivacyView%3FlangId%3D-1%26catalogId%3D10001%26storeId%3D10001) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burtsbees.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606185026id_/http%3A//www1.burtsbees.com/webapp/wcs/stores/servlet/PrivacyView%3FlangId%3D-1%26catalogId%3D10001%26storeId%3D10001) for the most accurate reproduction.*
 
 # Earth friendly natural personal care products at Burt's Bees
 
