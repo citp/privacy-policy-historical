@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lakeside.com privacy policy that was archived on 2003-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030812095333id_/http%3A//www.lakeside.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lakeside.com privacy policy that was archived on 2004-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040804050706id_/http%3A//www.lakeside.com/privacy.asp) for the most accurate reproduction.*
 
-# The Lakeside Collection - One stop shopping for home furnishings, garden decor, candle holders, children's toys, birthday and Christmas gifts, at better than sale prices
+# The Lakeside Collection(sm) - Affordable Gift Giving ideas for all occasions, and for yourself. Value Priced gifts for birthdays, Christmas, Halloween, Easter, Child toys, free catalog, summer, and picnics.
 
 The Lakeside CollectionSM holds the privacy and security of our customers in the highest regard. The following data explains what kind of information is gathered on The Lakeside CollectionSM website and how the information is used. 
 
@@ -8,14 +8,16 @@ No information that we gather is shared with or sold to other organizations for 
 
   
 The Lakeside CollectionSM will NOT rent, sell or trade the contents of our emailing list to any outside parties. You can be assured that your email address will be kept in strictest confidence. 
-* Does The Lakeside CollectionSM offer secure online ordering?
-* What kind of information do you collect from me when I visit your web site?
-* Does The Lakeside CollectionSM share information it collects from me with outside parties?
-* What are 'cookies' and how do you use them?
-* What do you do with my email address?
-* How else do you use information about me?
-* How do I remove my name from The Lakeside CollectionSM mailing list?
-* How can I contact The Lakeside CollectionSM?
+
+  * Does The Lakeside CollectionSM offer secure online ordering?
+  * What kind of information do you collect from me when I visit your web site?
+  * Does The Lakeside CollectionSM share information it collects from me with outside parties?
+  * What are 'cookies' and how do you use them?
+  * What do you do with my email address?
+  * How else do you use information about me?
+  * How do I remove my name from The Lakeside CollectionSM mailing list?
+
+
 
 Does The Lakeside CollectionSM offer secure online ordering?
 
@@ -63,13 +65,6 @@ How do I remove my name from The Lakeside Collection'sSM mailing lists?
 
   
 If, at any time, you wish to be removed from our mailing list please contact us by email with your name and address. 
-
-back to top
-
-How can I contact The Lakeside CollectionSM?
-
-  
-Email: customerservice@lakeside.com 
 
 back to top
 
