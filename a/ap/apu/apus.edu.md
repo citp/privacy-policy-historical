@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the apus.edu privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216175022id_/http%3A//www.apus.edu/APUS/global/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apus.edu privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601235231id_/http%3A//www.apus.edu/APUS/global/privacypolicy.asp) for the most accurate reproduction.*
 
 # American Public University System - A Distance Learning Community
 
 **Your Privacy and The American Public University System Web site:**
 
-Your online privacy is important to us. As such, it is the policy of American Public University System to collect and retain personal information only to the extent necessary to provide the services you desire. American Public University System will collect only the necessary information to comply with Commonwealth of Virginia and/or other federal agency reporting requirements and/or to ensure the we are providing the necessary services required to function as a nationally accredited institution of higher learning.
+Your online privacy is important to us. As such, it is the policy of American Public University System to collect and retain personal information only to the extent necessary to provide the services you desire. American Public University System will collect only the necessary information to comply with the state of West Virginia and/or other federal agency reporting requirements and/or to ensure the we are providing the necessary services required to function as a nationally accredited institution of higher learning.
 
 Consistent with this policy, the APUS web site: 
 
