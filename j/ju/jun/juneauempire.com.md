@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the juneauempire.com privacy policy that was archived on 2000-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000616154831id_/http%3A//juneauempire.com/private.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juneauempire.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218072958id_/http%3A//juneauempire.com/privacy.shtml) for the most accurate reproduction.*
 
-# Juneau Empire Online: Southeast Newspaper Corp. Copyright
+# JuneauEmpire.com: Privacy Policy
 
-Juneau Empire Online Privacy Policy
+**JuneauEmpire.com Privacy Policy**
 
-* * *
-
-Juneau Empire Online is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the Web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At Juneau Empire Online, we intend to give you as much control as possible over your personal information. 
+JuneauEmpire.com is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the Web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At JuneauAlaska.com, we intend to give you as much control as possible over your personal information. 
 
 The purpose of our policy is to inform you about the types of information we gather about you when you visit our site(s), how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. 
 
@@ -24,7 +22,7 @@ We may require you to supply us with personal information (demographic informati
 
 **II. Use of User Information**
 
-We may perform statistical analyses of aggregate user behavior. This allows us to measure relative consumer interest in the various areas of our Web sites for product development purposes. Any information we collect is used for its own internal purposes to improve the content of the Web sites, to enhance users' experiences when visiting our site(s), to customize the content and/or layout of our pages, and to provide the services required by an individual user. We do not use personal identifying information for any reason that is not disclosed either in this Policy or at the time the information is requested. We never send e-mail to you unless you request a particular service, or consent to being contacted by e-mail. There are instances where you will have the opportunity to subscribe to an e-mail list that will send information about the site or our advertisers to your e-mail address, but this will be done only with your permission and consent 
+We may perform statistical analyses of aggregate user behavior. This allows us to measure relative consumer interest in the various areas of our Web sites for product developmentpurposes. Any information we collect is used for its own internal purposes to improve the content of the Web sites, to enhance users' experiences when visiting our site(s), to customize the content and/or layout of our pages, and to provide the services required by an individual user. We do not use personal identifying information for any reason that is not disclosed either in this Policy or at the time the information is requested. We never send e-mail to you unless you request a particular service, or consent to being contacted by e-mail. There are instances where you will have the opportunity to subscribe to an e-mail list that will send information about the site or our advertisers to your e-mail address, but this will be done only with your permission and consent 
 
 **III. Disclosure to Third Parties**
 
@@ -32,12 +30,24 @@ We do not share personal identifying information with any third party without yo
 
 **IV. Accuracy of User Information**
 
-In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to Yvonne Beasley, or you can reach us by telephone at 907-586-3740. You can also write us at: 
+In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to [Rob Curley](mailto:rcurley@morris.com) or [Yvonne Beasley](mailto:whybe@alaska.net) , or you can reach us by telephone at 706-828-2970 or 907-586-3740. You can also write us at: 
 
-Juneau Empire  
+Division of Online Services,  
+Corporate Content Development  
+Morris Communications Corporation  
+PO Box 936  
+Augusta, GA  
+30903  
+
+
+\---or--- 
+
+JuneauEmpire.com c/o  
+The Juneau Empire  
 3100 Channel Drive  
 Juneau, Alaska  
-99801 
+99801  
+
 
 These privacy policies are effective as of Dec. 1, 1999. We reserve the right to change this policy at any time, and will post any changes to this policy as soon as they go into effect. 
 
@@ -51,4 +61,4 @@ At any time while assessing our site(s), any user while online may "opt-out" of 
 
 **VII. Use of Materials**
 
-The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at jeonline@juneaualaska.com 
+The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at [rcurley@morris.com](mailto:rcurley@morris.com) or at [whybe@alaska.net](mailto:whybe@alaska.net). 
