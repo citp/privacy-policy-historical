@@ -1,14 +1,27 @@
-> *The following text is extracted and transformed from the sitepoint.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202204200id_/http%3A//www.sitepoint.com/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitepoint.com privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613023829id_/http%3A//sitepoint.com/privacy.php) for the most accurate reproduction.*
 
 # SitePoint : Privacy Policy
 
- 
+|  |  [ **Build**](http://www.webmasterbase.com/)  
+---  
+A hands on approach to helping you build a successful Website.  
+ [ **Profit**](http://www.ecommercebase.com/)  
+Covers all the different ways you can make money from your Website.  
+ [ **Promote**](http://www.promotionbase.com/)  
+Tips tricks and expert advice on how best to promote your Website.  
+ [ **Tools**](http://www.servicesbase.com/)  
+A comprehensive directory of Tools and Services for the busy Webmaster.  
+ [ **Forums**](http://www.sitepointforums.com/)  
+Need a prompt response to a Web related question? Ask our helpful community!  
+  
+  
+
 
 Privacy Policy
 
 SitePoint respects your privacy. Below is an outline of what information this network gathers, how it’s used, and how you can "opt-out":
 
-  * Whenever your request a page, your IP address, browser and version, operating system and the site you came from are stored in a log file. This information cannot be used to identify a specific individual. This information is only used for statistical purposed to help improve this site and provide accurate statistics to advertisers in the form of aggregated data. This information is kept on a secure dedicated server hosted by RackSpace. 
+  * Whenever your request a page, your IP address, browser and version, operating system and the site you came from are stored in a log file. This information cannot be used to identify a specific individual. This information is only used for statistical purposes to help improve this site and provide accurate statistics to advertisers in the form of aggregated data. This information is kept on a secure dedicated server hosted by RackSpace. 
   
  
   * The email addresses collected from the sign-ups for our newsletter are not sold, or disclosed to a third party. The email addresses collected will only be used to send out the newsletter/e-zine. You will not receive any mailings you did not request. The email addresses are stored on a server hosted by Dundee.net. You can remove yourself from our list at any time by sending a blank email to: unsubscribe@sitepoint.com from the address that you subscribed under.
@@ -23,7 +36,7 @@ SitePoint respects your privacy. Below is an outline of what information this ne
   * When a survey appears on the SitePoint network information is collected, compiled and analyzed on an aggregated basis. SitePoint may share this aggregated data with advertisers or business partners. 
   
  
-  * Cookies on this site are used by our ad management system, and occasionally be advertisers who use 3rd party ad serving solutions. Cookies are only used to prevent the displaying of the same ad to the individual more then once, for proper directing of clickthroughs and statistical tracking. Cookies cannot be used to identify specific individuals.
+  * Cookies on this site are used by our ad management system, and occasionally by advertisers who use 3rd party ad serving solutions. Cookies are only used to prevent the displaying of the same ad to the individual more then once, for proper directing of clickthroughs and statistical tracking. Cookies cannot be used to identify specific individuals.
   
  
   * Across the SitePoint network there are several polls. By voting you are not disclosing any other information other then the answer to the question the poll asks. A vote cannot be traced to a specific individual, and hence your identity remains anonymous. This information may be used to provide advertisers with demographic information.
