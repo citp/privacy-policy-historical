@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetf1.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604164043id_/http%3A//planetf1.com/Site_Information/story_436.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetf1.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203005931id_/http%3A//www.planet-f1.com/Site_Information/Privacy_Policy.shtml) for the most accurate reproduction.*
 
 # Formula One news, fun, results and features from Planet-F1.com
 
@@ -21,7 +21,8 @@
 
 8\. This site has security measures in place to protect against the loss, misuse and alteration of the information under our control. 
 
-9\. This site also gives all of its users the ability to read and to post in public forums. The site does not have a filter in place to exclude children from these activities without prior parental consent. Planet-F1 uses its best efforts to make the content of its website acceptable for children's viewing. Safeguarding the personal information of children is extremely important to us. We encourage parents and guardians to spend time online with their children and to participate in any interactive activities offered on the site.   
+9\. This site also gives all of its users the ability to read and to post in public forums. The site does not have a filter in place to exclude children from these activities without prior parental consent. Planet-F1 uses its best efforts to make the content of its website acceptable for children's viewing. Safeguarding the personal information of children is extremely important to us. We encourage parents and guardians to spend time online with their children and to participate in any interactive activities offered on the site. 
 
-
-**Thank you for reading our legal section and thank you for choosing Planet-F1 as your reliable source of sports news and views on the Internet. If you have any questions about anything contained in this site, or about your dealings with this site, you can contact Customer Service at Rivals Digital Media, 151 Freston Road, London W10 6TH, United Kingdom or e-mail us on**[ **customerservice@rivalsdm.com**](mailto:customerservice@rivalsdm.com) **.**
+  
+**Thank you for reading our legal section and thank you for choosing Planet-F1 as your reliable source of sports news and views on the Internet. If you have any questions about anything contained in this site, or about your dealings with this site, you can contact Customer Service at Rivals Digital Media, 151 Freston Road, London W10 6TH, United Kingdom or e-mail us on**[ **customerservice@rivalsdm.com**](mailto:customerservice@rivalsdm.com) **.  
+**
