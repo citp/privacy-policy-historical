@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the loveandfriends.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331012129id_/http%3A//loveandfriends.com/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveandfriends.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204185630id_/http%3A//loveandfriends.com/privacystatement.htm) for the most accurate reproduction.*
 
 # Love and Friends : Internet dating for thinking people . . . And it's free
+
+free dating, dating uk, london dating, internet dating, dating agency, online dating, personals, introductions Love and Friends : Internet dating for thinking people . . . And it's free free dating, dating uk, london dating, internet dating, dating agency, online dating, personals, introductions Internet dating for thinking people . . . And it's free - the best UK dating site I've seen free dating, dating uk, london dating, internet dating, dating agency, online dating, personals, introductions  [free dating](https://web.archive.org/web/20011204185630id_/http%3A//loveandfriends.com/default.htm) [dating uk](https://web.archive.org/web/20011204185630id_/http%3A//loveandfriends.com/default.htm) [london dating](https://web.archive.org/web/20011204185630id_/http%3A//loveandfriends.com/default.htm) [internet dating](https://web.archive.org/web/20011204185630id_/http%3A//loveandfriends.com/default.htm) [dating agency](https://web.archive.org/web/20011204185630id_/http%3A//loveandfriends.com/default.htm) [online dating](https://web.archive.org/web/20011204185630id_/http%3A//loveandfriends.com/default.htm) [personals](https://web.archive.org/web/20011204185630id_/http%3A//loveandfriends.com/default.htm) [introductions](https://web.archive.org/web/20011204185630id_/http%3A//loveandfriends.com/default.htm) [Searchengineering](http://www.yuki-onna.co.uk/)
+
+[ISP,hosting,design,online shopping](http://www.b-1st.com/) free dating, dating uk, london dating, internet dating, dating agency, online dating, personals, introductions 
 
 | 
 
