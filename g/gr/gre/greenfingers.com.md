@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenfingers.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218030511id_/http%3A//www.greenfingers.com/bottommenu.asp%3Fsubcategoryid%3D57) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenfingers.com privacy policy that was archived on 2002-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021016193947id_/http%3A//www.greenfingers.com/articledisplay.asp%3Fsubcategoryid%3D57) for the most accurate reproduction.*
 
 # Greenfingers.com - your UK garden resource and centre for gardening information
 
@@ -30,7 +30,7 @@ Please read on for more details about our privacy policy.
 > 
 > We will not sell, rent, share, trade or give away without your permission any information we hold about you.
 > 
-> From time to time, Greenfingers or other carefully selected companies that we have chosen may contact you with offers that may be of interest to you. If you do not wish to receive such offers, then please send an exact copy of your name and address to Greenfingers Data Protection Department, Redshank House, Alness Point Business Park, Alness, Ross-shire, IV17 OYJ. 
+> From time to time, Greenfingers or other carefully selected companies that we have chosen may contact you with offers that may be of interest to you. If you do not wish to receive such offers, then please send an exact copy of your name and address to Greenfingers Trading Ltd Data Protection Department, Freepost SCO 7517, Livingston EH54 0BR. 
 > 
 > If you do not want to receive such offers or to be contacted by us by telephone, please uncheck the box in the registration section when you register. If you don't uncheck the box but decide later that you don't want to receive any more information just let us know by e-mailing us at [ unsubscribe@greenfingers.com ](mailto:unsubscribe@greenfingers.com)
 
