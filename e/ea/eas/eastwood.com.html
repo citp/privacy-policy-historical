@@ -1,201 +1,403 @@
-<!--The following is the downloaded HTML source of the eastwood.com privacy policy that was archived on 2004-03-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040317080242id_/http%3A//www.eastwood.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eastwood.com privacy policy that was archived on 2004-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041208234720id_/http%3A//www.eastwood.com/custserv/customerservicemain.jsp%3Fcid%3D2) for the most accurate reproduction.-->
 
-<html><head><script language="javascript">
-//if (document.cookie.indexOf("testcookie=testcookie") <= 0)
-//document.location.href = "/Cookies_off.asp"
+<html><head><script language="JavaScript">
+    var isNav, isIE;
+    if(parseInt(navigator.appVersion) >= 4) {
+      if(navigator.appName == "Netscape")
+        isNav = true
+      else
+        isIE = true;
+    }
+
+    /* checks while typing*/
+    function maxlengthCheck(txt, evtThis, maxlength){
+      if(txt.value.length >= maxlength){
+        if (isIE)
+          event.keyCode = 0 // IE
+        else
+          return false;  // Netscape
+        maxlengthHack(txt, maxlength);
+        return false;
+      }
+    }
+
+    /* checks for pasted in text, etc*/
+    function maxlengthHack(txt, maxlength){
+      if(txt.value.length >= maxlength){
+        txt.value = txt.value.substring(0,maxlength);
+      }
+    }
 </script>
-<!-- Eastwood Nav DB-->
-<!-- Referer: -->
-<!-- 3(MACS) UID=: 2004031703025209 --><!-- Source Code: Default -->
 
 
-<title>The Eastwood Company. . . Unique Automotive Tools and Supplies</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link rel="stylesheet" href="aspfiles/eastwood.css" type="text/css">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<title>Eastwood Company: Auto Tools, Body Repair, Classic Car Restoration, House of Kolor Paint, Powder Coating</title>
+<meta name="keywords" content="powder coating,classic car restoration,lincoln welders,plasma cutter,house of kolor,paintless dent repair,paint stripper,sand blasting,auto glass repair,powder coating equipment,auto tools,paint guns,sandblasting equipment,buffing wheels,automobile restoration,car tools,auto body tool,car body repair,automotive hot rods,eastwood company">
+<meta name="description" content="The Eastwood Company provides unique automotive tools and supplies, as well as expert advice and solutions, for the classic car and hot rod enthusiast. Visit us online today.">
+<link rel="stylesheet" type="text/css" href="/includes/stylesheet.css" title="style">
+<script src="/includes/flyopen.js"></script>
+<script src="/includes/rollover.js"></script>
+<script src="/includes/cleartext.js"></script>
+<script language="javascript">
+arImageList = new Array ();
+arSubImageList = new Array ();
+
+function preLoadCatImages(images_array) {
+	for(loop = 0; loop < images_array.length; loop++)
+	{
+           arImageList[loop] = new Image(); 
+           arImageList[loop].src = images_array[loop];
+	}
+}
+function preLoadSubCatImages(images_array) {
+	for(loop = 0; loop < images_array.length; loop++)
+	{
+           arSubImageList[loop] = new Image(); 
+           arSubImageList[loop].src = images_array[loop];
+	}
+}
+function changeCat(frm, thisbox) {
+   var optiontxt = thisbox.options[thisbox.selectedIndex].value;
+   if (optiontxt == "0"){
+        return;
+    }
+    location.href = optiontxt
+    //frm.action = optiontxt;
+    //alert (frm.action);
+    //frm.submit();
+}
+
+</script>
+<script language="JavaScript">
+<!--
+custservImageList = new Array ();
+
+function preLoadCustServImages(images_array) {
+	for(loop = 0; loop < images_array.length; loop++)
+	{
+           custservImageList[loop] = new Image();
+           custservImageList[loop].src = images_array[loop];
+	}
+}
+var the_custservImages = new Array('/images/us/global/globalgraphics/spacer01.gif');
+preLoadCustServImages(the_custservImages);
+-->
+</script>
 </head>
-<body bgcolor="#FFFFCC" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr> 
-    <td valign="bottom">
-      	
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
-  <tbody><tr> 
-    <td rowspan="4" width="203"><a href="/default.asp"><img border="0" src="/aspfiles/images/EastwoodLogo2.gif" width="203" height="75"></a></td>
-  </tr>
-  <tr> </tr>
-  <tr> 
-    <td valign="middle" align="center" height="49" width="1">&nbsp;</td>
-    <td valign="middle" align="center" height="49" width="352">&nbsp;</td>
-    <td valign="middle" align="left" height="49" width="223"><img border="0" src="/aspfiles/images/viewcart.gif" usemap="#Map" width="197" height="23"></td>
-  </tr>
-  <tr> 
-    <td colspan="3" height="26"> <img src="/aspfiles/images/tabs16.gif" width="534" height="26" usemap="#Map6" border="0"></td>
-  </tr>
-</tbody></table>    
-<map name="Map6"> 
-        <area shape="rect" coords="404,5,444,21" href="/default.asp#category">
-          
-        <area shape="rect" coords="450,7,483,22" href="/Search.asp?SKW=NEWTOOL">
-          
-        <area shape="rect" coords="491,6,527,23" href="/c1.asp">
-          <area shape="rect" coords="4,3,61,26" href="/Search.asp?SKW=BCLUB">
-          
-        <area shape="rect" coords="64,4,133,24" href="/Search.asp?SKW=WEBONLYT">
-          
-        <area shape="rect" coords="138,5,193,22" href="/ccraft_landing.asp">
-          
-        <area shape="rect" coords="197,2,262,23" href="/Search.asp?SKW=FHCOAT">
-          
+<body bgcolor="#FFFFFF" marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" link="#333333" alink="#333333" vlink="#333333">
+
+<!-- Content Wrap Start -->
+ 
+<table border="0" width="605" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td colspan="3">
+<!--SourceCode: 1NT01 -->
+
+
+
+<!-- Navheader Start-->
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="navheaderbg"><!--Binder Table-->
+<tbody><tr>
+	<td><table border="0" cellpadding="0" cellspacing="0" width="768" class="navheaderbg">
+			<tbody><tr>
+			<td><a href="http://www.eastwood.com/index.jsp"><img src="/images/us/global/globalnav/logo01.gif" border="0" alt="Eastwood Co."></a></td>
+			<td><table border="0" cellpadding="0" cellspacing="0" align="right">
+				<tbody><tr>
+					<td height="19" width="558" colspan="3"><img src="/images/us/global/globalgraphics/spacer01.gif" border="0" width="558" height="19"></td>
+				</tr>
+				<tr>			
+						<td width="17" height="24"><img src="/images/us/global/globalgraphics/spacer01.gif" width="17" height="24" border="0"></td>
+						<td><table cellpadding="0" cellspacing="0" border="0">
+							<form name="searchForm" action="http://www.eastwood.com/shopping/search/searchresultsmain.jsp" onsubmit="return checkFieldsSearch('searchForm')"></form>
+							<tbody><tr>
+							<input type="hidden" name="searchType" value="keyword">
+							<input type="hidden" name="NRS" value="1">
+							<input type="hidden" name="RS" value="1">
+							<td align="left"><input type="text" name="keyword" value="Keyword or Item#" class="searchbox" size="20" maxlength="50" onfocus="this.select();"></td>
+							<td><input type="Image" name="Search" src="/images/us/global/globalgraphics/search_btn.gif" border="0" alt="Search"></td>			
+							</tr>
+							
+							
+						</tbody></table>
+						</td>
+						<td align="right"><a href="http://www.eastwood.com/basket/basketmain.jsp?ruleID=400&amp;itemID=0&amp;itemType=BASKET" onmouseover="rollover('shopbasket','/images/us/global/globalnav/shopbasket_off.gif');" onmouseout="rollover('shopbasket','/images/us/global/globalnav/shopbasket_off.gif');"><img src="/images/us/global/globalnav/shopbasket_off.gif" border="0" alt="Shopping Cart" name="shopbasket"></a></td>
+				</tr>
+				<tr>
+					<td colspan="3" nowrap=""><a href="http://www.eastwood.com/" onmouseover="rollover('Home','/images/us/global/globalnav/home_off.gif');" onmouseout="rollover('Home','/images/us/global/globalnav/home_off.gif');"><img src="/images/us/global/globalnav/home_off.gif" border="0" alt="Home" name="Home"></a><a href="http://www.eastwood.com/shopping/catalogquickshop/cqsmain.jsp" onmouseover="rollover('catquickshop','/images/us/global/globalnav/catquickshop_off.gif');" onmouseout="rollover('catquickshop','/images/us/global/globalnav/catquickshop_off.gif');"><img src="/images/us/global/globalnav/catquickshop_off.gif" border="0" alt="Catalog Quick Shop" name="catquickshop"></a><a href="http://www.eastwood.com/catalogrequest/catalogrequestmain.jsp" onmouseover="rollover('catrequest','/images/us/global/globalnav/catrequest_off.gif');" onmouseout="rollover('catrequest','/images/us/global/globalnav/catrequest_off.gif');"><img src="/images/us/global/globalnav/catrequest_off.gif" border="0" alt="Request A Catalog" name="catrequest"></a><a href="http://www.eastwood.com/subscribemain.jsp?action=1" class="xdefaultu" onmouseover="rollover('emailsignup','/images/us/global/globalnav/emailsignup_off.gif');" onmouseout="rollover('emailsignup','/images/us/global/globalnav/emailsignup_off.gif');"><img src="/images/us/global/globalnav/emailsignup_off.gif" border="0" alt="Email Updates" name="emailsignup"></a><a href="https://www.eastwood.com/account/accountmain.jsp" onmouseover="rollover('myaccount','/images/us/global/globalnav/myaccount_off.gif');" onmouseout="rollover('myaccount','/images/us/global/globalnav/myaccount_off.gif');"><img src="/images/us/global/globalnav/myaccount_off.gif" border="0" alt="My Account" name="myaccount"></a></td>
+				</tr>
+			</tbody></table>
+		</td></tr>
+		</tbody></table></td><!--Main Tables First Row End-->
+	</tr>
+
+
+<!-- Navheader End -->
+</tbody></table>
+
+<script language="javascript">
+var the_topimages = new Array('/images/us/global/globalnav/shopbasket_off.gif','/images/us/global/globalnav/home_off.gif','/images/us/global/globalnav/catquickshop_off.gif','/images/us/global/globalnav/catrequest_off.gif','/images/us/global/globalnav/emailsignup_off.gif','/images/us/global/globalnav/myaccount_off.gif');
+preLoadCatImages(the_topimages);
+function checkFieldsSearch() {
+        var searchtxt=Trim(document.searchForm.keyword.value);
+        if (searchtxt == '')
+	{
+		alert("Please enter keyword or item#.");
+		return false;
+	} else if (searchtxt == 'Keyword or Item#') {
+		alert("Please enter keyword or item#.");
+		return false;
+        } else if (searchtxt.length <= 1) {
+		alert("We are sorry, the information you have requested is not available.");
+		return false;
+        } else {
+		return true;
+	}
+}
+function Trim(inString){
+  return LTrim(RTrim(inString));
+}
+
+function LTrim(inString){
+  return inString.replace(/^\s+/,'');
+}
+
+function RTrim(inString){
+  return inString.replace(/\s+$/,'');
+}
+
+</script>
+
+<!-- <form name="searchForm" action="http://www.eastwood.com/shopping/search/searchresultsmain.jsp" onSubmit="return checkFieldsSearch('searchForm')"> -->
+							<!-- <tr>
+								 <td align=right><input type="hidden" name="searchType" value="keyword"><input type="hidden" name="NRS" value="1"><input type="hidden" name="RS" value="1"><input type="text" name="keyword" value="Keyword or Item#" size="20" maxlength="20" onFocus="this.select();"></td>
+								 <td><input type="Image" name="Search" src="/images/us/global/globalgraphics/search_btn.gif" border=0 alt="Search"></td>
+							</tr> -->
+							
+				<!-- <td align=right nowrap> -->
+			<!-- <a href="https://www.eastwood.com/account/accountmain.jsp"><img src="/images/us/global/globalnav/myaccount_off.gif" border=0 alt="My Account"></a> --><!-- <a href="http://www.eastwood.com/custserv/customerservicemain.jsp"><img src="/images/us/global/globalnav/customerserv_off.gif" border=0 alt="Customer Service"></a> --><!-- <a href="http://www.eastwood.com/basket/basketmain.jsp?ruleID=400&itemID=0&itemType=BASKET"><img src="/images/us/global/globalnav/shopbasket_off.gif" border=0 alt="Shopping Basket"></a></td>
+			 --><!-- </tr> -->
+<!-- 		<tr>
+			<td colspan=2 nowrap> -->
+			<!-- <img src="/images/us/global/globalgraphics/topbanner01.gif" border=0 alt="Banner image"> --><!-- <a href="http://www.eastwood.com/shopping/catalogquickshop/cqsmain.jsp"><img src="/images/us/global/globalnav/catquickshop_off.gif" border=0 alt="Catalog Quick Shop"></a><a href="http://www.eastwood.com/catalogrequest/catalogrequestmain.jsp"><img src="/images/us/global/globalnav/catrequest_off.gif" border=0 alt="Catalog Request"></a> --><!-- </td> --></td>
+	</tr>
+  	<tr valign="top">
+      <td width="163" class="leftnav">
+			  <table width="163" class="leftnavbg" border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr><td><img src="/images/us/global\globalgraphics\shopbycategory.gif" border="0" alt="Shop By Category"></td>
+				</tr>
+				<tr>
+					<td class="leftNav">
+
+
+
+
+					
+                    <div><a href="http://www.eastwood.com/jump.jsp?itemType=CATEGORY&amp;itemID=372" onmouseover="rollover('LeftRust Treatment','/images/us/global/globalnav/globalnav01_on.gif');" onmouseout="rollover('LeftRust Treatment','/images/us/global/globalnav/globalnav01_off.gif');"><img border="0" name="LeftRust Treatment" src="/images/us/global/globalnav/globalnav01_off.gif" alt="Rust Treatment"></a></div>
+              
+					
+                    <div><a href="http://www.eastwood.com/jump.jsp?itemType=CATEGORY&amp;itemID=389" onmouseover="rollover('LeftSpecialty Coatings','/images/us/global/globalnav/globalnav02_on.gif');" onmouseout="rollover('LeftSpecialty Coatings','/images/us/global/globalnav/globalnav02_off.gif');"><img border="0" name="LeftSpecialty Coatings" src="/images/us/global/globalnav/globalnav02_off.gif" alt="Specialty Coatings"></a></div>
+              
+					
+                    <div><a href="http://www.eastwood.com/jump.jsp?itemType=CATEGORY&amp;itemID=482" onmouseover="rollover('LeftMetal Shop','/images/us/global/globalnav/globalnav05_on.gif');" onmouseout="rollover('LeftMetal Shop','/images/us/global/globalnav/globalnav05_off.gif');"><img border="0" name="LeftMetal Shop" src="/images/us/global/globalnav/globalnav05_off.gif" alt="Metal Shop"></a></div>
+              
+					
+                    <div><a href="http://www.eastwood.com/jump.jsp?itemType=CATEGORY&amp;itemID=503" onmouseover="rollover('LeftAuto Body','/images/us/global/globalnav/globalnav06_on.gif');" onmouseout="rollover('LeftAuto Body','/images/us/global/globalnav/globalnav06_off.gif');"><img border="0" name="LeftAuto Body" src="/images/us/global/globalnav/globalnav06_off.gif" alt="Auto Body"></a></div>
+              
+					
+                    <div><a href="http://www.eastwood.com/jump.jsp?itemType=CATEGORY&amp;itemID=458" onmouseover="rollover('LeftHotCoat Powder Coating','/images/us/global/globalnav/globalnav04_on.gif');" onmouseout="rollover('LeftHotCoat Powder Coating','/images/us/global/globalnav/globalnav04_off.gif');"><img border="0" name="LeftHotCoat Powder Coating" src="/images/us/global/globalnav/globalnav04_off.gif" alt="HotCoat Powder Coating"></a></div>
+              
+					
+                    <div><a href="http://www.eastwood.com/jump.jsp?itemType=CATEGORY&amp;itemID=432" onmouseover="rollover('LeftMetal Buffing &amp; Finishing','/images/us/global/globalnav/globalnav03_on.gif');" onmouseout="rollover('LeftMetal Buffing &amp; Finishing','/images/us/global/globalnav/globalnav03_off.gif');"><img border="0" name="LeftMetal Buffing &amp; Finishing" src="/images/us/global/globalnav/globalnav03_off.gif" alt="Metal Buffing &amp; Finishing"></a></div>
+              
+					
+                    <div><a href="http://www.eastwood.com/jump.jsp?itemType=CATEGORY&amp;itemID=544" onmouseover="rollover('LeftPerformance &amp; Tune-Up','/images/us/global/globalnav/globalnav07_on.gif');" onmouseout="rollover('LeftPerformance &amp; Tune-Up','/images/us/global/globalnav/globalnav07_off.gif');"><img border="0" name="LeftPerformance &amp; Tune-Up" src="/images/us/global/globalnav/globalnav07_off.gif" alt="Performance &amp; Tune-Up"></a></div>
+              
+					
+                    <div><a href="http://www.eastwood.com/jump.jsp?itemType=CATEGORY&amp;itemID=580" onmouseover="rollover('LeftStyling, Care &amp; Custom','/images/us/global/globalnav/globalnav08_on.gif');" onmouseout="rollover('LeftStyling, Care &amp; Custom','/images/us/global/globalnav/globalnav08_off.gif');"><img border="0" name="LeftStyling, Care &amp; Custom" src="/images/us/global/globalnav/globalnav08_off.gif" alt="Styling, Care &amp; Custom"></a></div>
+              
+					
+                    <div><a href="http://www.eastwood.com/jump.jsp?itemType=CATEGORY&amp;itemID=607" onmouseover="rollover('LeftTools &amp; Equipment','/images/us/global/globalnav/globalnav09_on.gif');" onmouseout="rollover('LeftTools &amp; Equipment','/images/us/global/globalnav/globalnav09_off.gif');"><img border="0" name="LeftTools &amp; Equipment" src="/images/us/global/globalnav/globalnav09_off.gif" alt="Tools &amp; Equipment"></a></div>
+              
+
+<script language="javascript">
+var the_leftimages = new Array('/images/us/global/globalnav/shopbasket_off.gif','/images/us/global/globalnav/home_off.gif','/images/us/global/globalnav/catquickshop_off.gif','/images/us/global/globalnav/catrequest_off.gif','/images/us/global/globalnav/emailsignup_off.gif','/images/us/global/globalnav/myaccount_off.gif',"/images/us/global/globalnav/globalnav01_on.gif",
+"/images/us/global/globalnav/globalnav01_off.gif"
+,"/images/us/global/globalnav/globalnav02_on.gif",
+"/images/us/global/globalnav/globalnav02_off.gif"
+,"/images/us/global/globalnav/globalnav05_on.gif",
+"/images/us/global/globalnav/globalnav05_off.gif"
+,"/images/us/global/globalnav/globalnav06_on.gif",
+"/images/us/global/globalnav/globalnav06_off.gif"
+,"/images/us/global/globalnav/globalnav04_on.gif",
+"/images/us/global/globalnav/globalnav04_off.gif"
+,"/images/us/global/globalnav/globalnav03_on.gif",
+"/images/us/global/globalnav/globalnav03_off.gif"
+,"/images/us/global/globalnav/globalnav07_on.gif",
+"/images/us/global/globalnav/globalnav07_off.gif"
+,"/images/us/global/globalnav/globalnav08_on.gif",
+"/images/us/global/globalnav/globalnav08_off.gif"
+,"/images/us/global/globalnav/globalnav09_on.gif",
+"/images/us/global/globalnav/globalnav09_off.gif"
+);
+preLoadCatImages(the_leftimages);
+</script></td>
+				</tr>
+ 				<tr>
+					<td class="leftNav">
+<table border="0" cellpadding="0" cellspacing="0" width="163">
+<tbody><tr valign="top">
+	<td><img src="/images/us/global/globalgraphics/otherwaystoshop.gif"></td>
+</tr>
+<tr valign="top">
+	<td>
+
+
+                    <div><a href="http://www.eastwood.com/jump.jsp?itemType=CATEGORY&amp;itemID=1201&amp;iMainCat=1201&amp;iSubCat=1201" onmouseover="rollover('LeftGreat Gift Ideas','/images/us/global/globalnav/globalnav_gift_on.gif');" onmouseout="rollover('LeftGreat Gift Ideas','/images/us/global/globalnav/globalnav_gift_off.gif');"><img border="0" name="LeftGreat Gift Ideas" src="/images/us/global/globalnav/globalnav_gift_off.gif" alt="Great Gift Ideas"></a></div>
+              
+
+                    <div><a href="http://www.eastwood.com/jump.jsp?itemType=CATEGORY&amp;itemID=1208&amp;iMainCat=1208&amp;iSubCat=1208" onmouseover="rollover('LeftEastwood Products','/images/us/global/globalnav/globalnav15_on.gif');" onmouseout="rollover('LeftEastwood Products','/images/us/global/globalnav/globalnav15_off.gif');"><img border="0" name="LeftEastwood Products" src="/images/us/global/globalnav/globalnav15_off.gif" alt="Eastwood Products"></a></div>
+              
+
+                    <div><a href="http://www.eastwood.com/jump.jsp?itemType=CATEGORY&amp;itemID=641&amp;iMainCat=641&amp;iSubCat=641" onmouseover="rollover('LeftShop By Brand','/images/us/global/globalnav/globalnav10_on.gif');" onmouseout="rollover('LeftShop By Brand','/images/us/global/globalnav/globalnav10_off.gif');"><img border="0" name="LeftShop By Brand" src="/images/us/global/globalnav/globalnav10_off.gif" alt="Shop By Brand"></a></div>
+              
+
+                    <div><a href="http://www.eastwood.com/jump.jsp?itemType=CATEGORY&amp;itemID=640&amp;iMainCat=640&amp;iSubCat=640" onmouseover="rollover('LeftNew Products','/images/us/global/globalnav/globalnav16_on.gif');" onmouseout="rollover('LeftNew Products','/images/us/global/globalnav/globalnav16_off.gif');"><img border="0" name="LeftNew Products" src="/images/us/global/globalnav/globalnav16_off.gif" alt="New Products"></a></div>
+              
+
+                    <div><a href="http://www.eastwood.com/jump.jsp?itemType=CATEGORY&amp;itemID=631&amp;iMainCat=631&amp;iSubCat=631" onmouseover="rollover('LeftClearance','/images/us/global/globalnav/globalnav14_on.gif');" onmouseout="rollover('LeftClearance','/images/us/global/globalnav/globalnav14_off.gif');"><img border="0" name="LeftClearance" src="/images/us/global/globalnav/globalnav14_off.gif" alt="Clearance"></a></div>
+              
+<script language="javascript">
+var the_leftimages = new Array('/images/us/global/globalnav/shopbasket_off.gif','/images/us/global/globalnav/home_off.gif','/images/us/global/globalnav/catquickshop_off.gif','/images/us/global/globalnav/catrequest_off.gif','/images/us/global/globalnav/emailsignup_off.gif','/images/us/global/globalnav/myaccount_off.gif',"/images/us/global/globalnav/globalnav01_on.gif",
+"/images/us/global/globalnav/globalnav01_off.gif"
+,"/images/us/global/globalnav/globalnav02_on.gif",
+"/images/us/global/globalnav/globalnav02_off.gif"
+,"/images/us/global/globalnav/globalnav05_on.gif",
+"/images/us/global/globalnav/globalnav05_off.gif"
+,"/images/us/global/globalnav/globalnav06_on.gif",
+"/images/us/global/globalnav/globalnav06_off.gif"
+,"/images/us/global/globalnav/globalnav04_on.gif",
+"/images/us/global/globalnav/globalnav04_off.gif"
+,"/images/us/global/globalnav/globalnav03_on.gif",
+"/images/us/global/globalnav/globalnav03_off.gif"
+,"/images/us/global/globalnav/globalnav07_on.gif",
+"/images/us/global/globalnav/globalnav07_off.gif"
+,"/images/us/global/globalnav/globalnav08_on.gif",
+"/images/us/global/globalnav/globalnav08_off.gif"
+,"/images/us/global/globalnav/globalnav09_on.gif",
+"/images/us/global/globalnav/globalnav09_off.gif"
+,"/images/us/global/globalnav/globalnav_gift_on.gif",
+"/images/us/global/globalnav/globalnav_gift_off.gif"
+,"/images/us/global/globalnav/globalnav15_on.gif",
+"/images/us/global/globalnav/globalnav15_off.gif"
+,"/images/us/global/globalnav/globalnav10_on.gif",
+"/images/us/global/globalnav/globalnav10_off.gif"
+,"/images/us/global/globalnav/globalnav16_on.gif",
+"/images/us/global/globalnav/globalnav16_off.gif"
+,"/images/us/global/globalnav/globalnav14_on.gif",
+"/images/us/global/globalnav/globalnav14_off.gif"
+);
+preLoadCatImages(the_leftimages);
+</script></td>
+</tr>
+<tr>
+	<td><div><a href="http://www.eastwood.com/jump.jsp?itemID=706&amp;itemType=CATEGORY&amp;path=1%2C3" onmouseover="rollover('Left3','/images/us/global/globalnav/globalnav12_on.gif');" onmouseout="rollover('Left3','/images/us/global/globalnav/globalnav12_off.gif');"><img border="0" name="Left3" src="/images/us/global/globalnav/globalnav12_off.gif" alt="Catalog Online"></a></div>
+	<div><a href="http://www.eastwood.com/shopping/catalogquickshop/cqsmain.jsp" onmouseover="rollover('Left4','/images/us/global/globalnav/globalnav13_on.gif');" onmouseout="rollover('Left4','/images/us/global/globalnav/globalnav13_off.gif');"><img border="0" name="Left4" src="/images/us/global/globalnav/globalnav13_off.gif" alt="Catalog Quick Shop"></a></div></td>
+</tr>
+<tr>
+	<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="163" height="20" border="0"></td>
+</tr>
+</tbody></table>
+
+       </td>
+				</tr> 
+			 </tbody></table>
+		 </td>
+      <td width="10"><img src="/images/us/global/globalgraphics/spacer01.gif" width="10" height="1" border="0"></td>
+
+	  <td width="595" class="xbreadcrumb">
+      
+		<div><table cellpadding="0" cellspacing="0" border="0" valign="top">
+			<tbody><tr>
+				<td colspan="2"><img src="/images/us/global/globalgraphics/spacer01.gif" width="595 " height="22" border="0"></td>
+			</tr>
+		 </tbody></table></div>
+      
+	  <!-- Content Block Start -->
+
+
+<script language="JavaScript">
+<!--
+function custservsubmit(){
+	var intSelected = document.frmcustserv.custservdropdown.selectedIndex;
+        document.frmcustserv.action = document.frmcustserv.custservdropdown.options[intSelected].value;
+        document.frmcustserv.submit();
+}
+-->
+</script>
+
+<table width="595" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+	<td><table cellpadding="0" cellspacing="0" border="0">
+ 	<form name="frmcustserv" method="post"></form>
+ 	<tbody><tr valign="top">
+ 			
+ 		
+ 		<td><a href="/custserv/customerservicemain.jsp"><img src="/images/us/local/headers/main/customerservice_mhd.gif" border="0" alt="Customer Service"></a></td>
+
+		
+
+        <td valign="middle"> 
         
-  <area shape="rect" coords="269,3,302,21" href="/department.asp?dep_key1=search&amp;SKW=PD&amp;cat=Eastwood+Specials&amp;graphic=no">
-          <area shape="rect" coords="305,4,350,24" href="/Search.asp?SKW=CLEARANCET">
-          
-        <area shape="rect" coords="356,5,400,22" href="/shopbyven.asp">
-        </map>
-<map name="Map">
-  <area shape="rect" coords="5,2,93,21" href="http://www.eastwoodco.com/viewcart.asp">
-  <area shape="rect" coords="104,4,195,20" href="http://www.eastwoodco.com/accountrecall.asp">
-</map>
+            <select name="custservdropdown" onchange="javascript:custservsubmit();"><option value="/custserv/customerservicemain.jsp?cid=1">About Us</option><option selected="" value="/custserv/customerservicemain.jsp?cid=2">Privacy &amp; Security</option><option value="/custserv/customerservicemain.jsp?cid=3">Returns &amp; Exchanges</option><option value="/custserv/customerservicemain.jsp?cid=4">Ordering &amp; Payment</option><option value="/custserv/customerservicemain.jsp?cid=6">FAQs</option><option value="/custserv/customerservicemain.jsp?cid=7">Contact Us</option><option value="/custserv/customerservicemain.jsp?cid=19">Order Status</option><option value="/custserv/customerservicemain.jsp?cid=21">Customer Testimonials</option><option value="/custserv/customerservicemain.jsp?cid=97">Special Shipping</option><option value="/custserv/customerservicemain.jsp?cid=39">Shipping Information</option><option value="/custserv/customerservicemain.jsp?cid=99">Employment</option><option value="/custserv/customerservicemain.jsp?cid=138">Directions</option><option value="/jump.jsp?itemID=688&amp;itemType=CATEGORY">Tech Library</option><option value="/shopping/product/detailmain.jsp?itemID=5117&amp;itemType=PRODUCT">Gfit Certificates</option></select>
 
-    </td>
-  </tr>
-  <tr> 
-    <td bgcolor="#000069" align="center">
-      <center><img border="0" src="/aspfiles/images/UpperBlueMenu2.gif" usemap="#Map3"></center> 
-<map name="Map3"> 
-<area shape="rect" coords="6,1,41,20" href="/default.asp">
-<area shape="rect" coords="51,2,136,17" href="/ExpressShop.asp">
-<area shape="rect" coords="144,1,253,25" href="/customerservice.asp">
-<area shape="rect" coords="263,1,357,21" href="/shipping.asp">
-<area shape="rect" coords="369,2,472,22" href="/Catreq.asp">
-<area shape="rect" coords="481,1,568,25" href="/emailsign.asp">
-<area shape="rect" coords="579,1,633,21" href="/sitemap.asp">
-</map>
+        
+        
+        
+	</td></tr>
+	
+	</tbody></table></td>
+</tr>
+<tr>
+	<td><img src="/images/us/local/localgraphics/rule01.gif" height="1" width="595" border="0"></td>
+</tr>
+<tr>
+	<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="10" border="0"></td>
+</tr>
+</tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" width="595">
 
-    </td>
-  </tr>
-  <tr> 
-    <td valign="top"> 
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr> 
-          <td width="173" valign="top"> 
-            <table width="173" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr> 
-                <td bgcolor="#DDDDDD" valign="top" rowspan="2" width="173"> 
-                  <p align="center"><nobr><img border="0" src="/aspfiles/images/spacer.gif" width="2" height="10"> 
-                    </nobr> 
-                </p></td>
-                <td bgcolor="#DDDDDD" valign="top" rowspan="2" width="173"> 
-                  <form name="search" method="post" action="/Search.asp">
-                    <!-- <input type="hidden" name="UID" value="2004031703025209"> -->
-                    
-                    <nobr><font size="-1" face="Arial"><b><img src="aspfiles/Images/shopping-cart-small.gif" width="21" height="21" align="left"></b></font><font face="Arial" size="1"><b>You 
-                    have <font color="#CC0000"> 0 </font> items 
-                    in&nbsp;<a href="/viewcart.asp" class="LeftmenuLink">your<br>
-                    Cart</a> valued at </b></font><b><font size="1" face="Arial" color="#CC0000"> 
-                    $0.00 </font><br>
-                    
-                    </b> <img border="0" src="/aspfiles/images/spacer.gif" width="10" height="8"><b><br>
-                    </b> <img border="0" src="/aspfiles/images/search.gif" width="120" height="20"><br>
-                    <input type="text" name="skw" size="14">
-                    <input type="Image" border="0" src="/aspfiles/images/go.gif" width="25" height="25" align="middle">
-                    <br>
-                    <b><font face="Arial" size="1">&nbsp;Item # or Keyword</font></b><br>
-                    <img border="0" src="/aspfiles/images/spacer.gif" width="10" height="8"><br>
-                    <font face="Arial" size="2" color="#000073"><b>Search by Category</b></font><br>
-                    <b> <font face="Arial, Helvetica, sans-serif" size="1"> 
-                    
-                    <a href="/department.asp?dep_key1=Abb&amp;SKW=FABR" class="LeftmenuLink">Abrasive Blasting</a><br>
-                    
-                    <a href="/department.asp?dep_key1=AutAss&amp;SKW=FAAG" class="LeftmenuLink">Accessories &amp; Your Garage</a><br>
-                    
-                    <a href="/department.asp?dep_key1=BodFen&amp;SKW=FBODY" class="LeftmenuLink">Body &amp; Fender</a><br>
-                    
-                    <a href="/department.asp?dep_key1=BookVid&amp;SKW=TSC22" class="LeftmenuLink">Books &amp; Videos</a><br>
-                    
-                    <a href="/department.asp?dep_key1=BraSup&amp;SKW=FBRAKE" class="LeftmenuLink">Brakes &amp; Suspension</a><br>
-                    
-                    <a href="/department.asp?dep_key1=mfb&amp;SKW=FBUFF" class="LeftmenuLink">Buffing &amp; Finishing</a><br>
-                    
-                    <a href="/department.asp?dep_key1=Eldi&amp;SKW=FELEC" class="LeftmenuLink">Electrical &amp; Diagnostic</a><br>
-                    
-                    <a href="/department.asp?dep_key1=EngDri&amp;SKW=FENG" class="LeftmenuLink">Engine &amp; Drivetrain</a><br>
-                    
-                    <a href="/department.asp?dep_key1=hct&amp;SKW=FHCOAT" class="LeftmenuLink">HotCoat</a><br>
-                    
-                    <a href="/department.asp?dep_key1=InEx&amp;SKW=FINEX" class="LeftmenuLink">Interior &amp; Exterior</a><br>
-                    
-                    <a href="/department.asp?dep_key1=Mshop&amp;SKW=FMETAL" class="LeftmenuLink">Metal Shop</a><br>
-                    
-                    <a href="/department.asp?dep_key1=Paint&amp;SKW=FPAINT" class="LeftmenuLink">Painting</a><br>
-                    
-                    <a href="/department.asp?dep_key1=PinCus&amp;SKW=FPIN" class="LeftmenuLink">Pinstriping &amp; Custom Art</a><br>
-                    
-                    <a href="/department.asp?dep_key1=plagla&amp;SKW=FPG" class="LeftmenuLink">Plastic &amp; Glass Repair</a><br>
-                    
-                    <a href="/department.asp?dep_key1=pwct&amp;SKW=FHCOAT" class="LeftmenuLink">Powder Coatings</a><br>
-                    
-                    <a href="/department.asp?dep_key1=RusPre&amp;SKW=FRUST" class="LeftmenuLink">Rust Prevention</a><br>
-                    
-                    <a href="/department.asp?dep_key1=ShoToo&amp;SKW=FSHOP" class="LeftmenuLink">Shop Tools</a><br>
-                    
-                    <a href="/department.asp?dep_key1=spc&amp;SKW=FSPEC" class="LeftmenuLink">Specialty Paints &amp; Coatings</a><br>
-                    
-                    <a href="/department.asp?dep_key1=WelDg&amp;SKW=FWELD" class="LeftmenuLink">Welding</a><br>
-                    
-                    </font></b> <img border="0" src="/aspfiles/images/spacer.gif" width="10" height="8"><br>
-                    </nobr><nobr><font face="Arial" color="#000000" size="1"><b><font face="Arial" size="2" color="#000073">Company 
-                    Information</font></b><br>
-                    <font face="Arial" color="#000000" size="1"><b><a href="/privacy.asp" class="LeftmenuLink">Privacy 
-                    Statement</a></b><font face="Arial" color="#000000" size="1"><b><br>
-                    <a href="/terms.asp" class="LeftmenuLink">Terms 
-                    &amp; Conditions</a></b></font></font></font></nobr><nobr></nobr><nobr><font face="Arial" color="#000000" size="1"><font face="Arial" color="#000000" size="1"><b></b></font></font></nobr><nobr><font face="Arial" color="#000000" size="1"><font face="Arial" color="#000000" size="1"><b><br>
-                    <a href="/aboutus.asp" class="LeftmenuLink">About 
-                    Us</a><br>
-                    <a href="/retail.asp" class="LeftmenuLink">Retail</a><br>
-                    <a href="/comments.asp" class="LeftmenuLink">Comments</a><br>
-                    <a href="/services.asp" class="LeftmenuLink">Services</a></b><font face="Arial" color="#000000" size="1"><b><br>
-                    <a href="/carclub.asp" class="LeftmenuLink">Related 
-                    Links &amp; Car Clubs</a></b></font><b><br>
-                    <a href="/carshows.asp" class="LeftmenuLink">Car 
-                    Shows</a><br>
-                    <a href="/employment.asp" class="LeftmenuLink">Employment</a><br>
-                    <a href="/affiliates.asp" class="LeftmenuLink">Affiliates</a><br>
-                    <a href="/partners.asp" class="LeftmenuLink">Partners</a></b></font><b><br>
-                    <img border="0" src="/aspfiles/images/spacer.gif" width="150" height="10"></b></font> 
-                    </nobr> 
-                  </form>
-                </td>
-                <td valign="top" bgcolor="#FFFFFF"> 
-                  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="100%">
-                    <tbody><tr> 
-                      <td width="100%"><img src="aspfiles/Images/insidecorner.gif" width="15" height="15"></td>
-                    </tr>
-                  </tbody></table>
-                </td>
-              </tr>
-              <tr> 
-                <td valign="bottom" bgcolor="#FFFFFF"><img src="aspfiles/Images/insidecornerbottom.gif" width="15" height="15"></td>
-              </tr>
-            </tbody></table>
-            <p align="center">&nbsp; </p>
-            <p align="center">&nbsp; </p>
-            <p align="center">&nbsp; </p>
-          </td>
-          <td valign="top" bgcolor="#FFFFFF" width="100%"> 
-            <table border="0" width="100%" cellspacing="0" cellpadding="0">
-              <tbody><tr> 
-                <td rowspan="4" valign="top" width="100%"> 
-                  <!-- Past Center Gutter Content Here -->
-                  <table width="98%" border="0" cellspacing="2" cellpadding="1" align="center">
-                    <tbody><tr> 
-                      <td valign="top"> 
-                        <p align="center"><br>
-                          <img src="aspfiles/Images/PrivacyStateHD.gif" width="325" height="39"></p>
-                        <p><font face="Arial, Helvetica, sans-serif" size="2" color="#000066">The 
-                          Eastwood Company recognizes that you value the privacy 
-                          of your personal information and how it is utilized. 
+    <tbody><tr valign="top">
+        
+    <td><div class="default"><p align="center"><font size="4" color="#000066"><b>Privacy 
+                          Policy </b></font></p>
+<p>The Eastwood Company recognizes that you value the 
+                          privacy of your personal information and how it is utilized. 
                           We value your trust and continued patronage and will 
                           make every effort to utilize the information in a manner 
                           that will benefit your overall shopping experience. 
@@ -205,124 +407,136 @@
                           server will automatically recognize and store the following 
                           information: browser type and version, IP address, operating 
                           system, URL, pages visited, time spent on each page.<br>
-                          </font><font face="Arial, Helvetica, sans-serif" size="2" color="#000066"><b><br>
+                          <b><br>
                           WHAT WE DO WITH THE INFORMATION COLLECTED AUTOMATICALLY:</b> 
                           The information collected automatically is primarily 
                           used to improve our web site and enhance your shopping 
                           experience. For example, an infrequently visited page 
                           may be eliminated. In addition, we will utilize the 
                           information for product offerings or to improve navigation 
-                          throughout the site. </font></p>
-                        <p><font face="Arial, Helvetica, sans-serif" size="2" color="#000066"><b>HOW 
-                          WE USE COOKIES:</b> You do not need to accept or use 
-                          cookies to shop at eastwoodco.com. </font></p>
-                        <p><font face="Arial, Helvetica, sans-serif" size="2" color="#000066">We 
-                          use a single cookie that assists us in determining Web 
-                          site traffic patterns. This cookie helps us better understand 
-                          how visitors navigate through and use eastwoodco.com, 
+                          throughout the site. </p>
+                        <p><b>HOW WE USE COOKIES:</b> You do not need to accept 
+                          or use cookies to shop at eastwoodco.com. </p>
+                        <p>We use a single cookie that assists us in determining 
+                          Web site traffic patterns. This cookie helps us better 
+                          understand how visitors navigate through and use eastwoodco.com, 
                           enabling us to measure the site's ease of use and effectiveness. 
                           This information assists us in our efforts to refine 
                           our site, as well as efforts to improve and customize 
                           the shopping experience for individual visitors like 
-                          you. </font></p>
-                        <p><font face="Arial, Helvetica, sans-serif" size="2" color="#000066">The 
-                          cookie contains absolutely no personal information. 
+                          you. </p>
+                        <p>The cookie contains absolutely no personal information. 
                           If you do not want to receive cookies, you can set your 
                           browser to accept no cookies, or tell it to erase all 
-                          cookies at the end of a session.</font></p>
-                        <p><font face="Arial, Helvetica, sans-serif" size="2" color="#000066"><b>INFORMATION 
-                          YOU PROVIDE:</b> Eastwood receives and stores any information 
-                          you provide when placing an order, entering a promotional 
-                          event or requesting email announcements. Name, address 
-                          and phone number are required when you place an order. 
-                          Email addresses are utilized to confirm orders have 
-                          been placed or shipped and provide customers with new 
-                          product announcements and special savings. </font></p>
-                        <p><font face="Arial, Helvetica, sans-serif" size="2" color="#000066"><b>SECURITY 
-                          OF INFORMATION YOU PROVIDE:</b> We work to protect the 
-                          security of the information you provide during transmission 
-                          by using Secure Sockets Layer (SSL) software, which 
-                          encrypts the information you input. It is important 
-                          for you to protect against unauthorized access to your 
-                          password and to your computer. Be sure to sign off when 
-                          finished using a shared computer. </font></p>
-                        <p><font face="Arial, Helvetica, sans-serif" size="2" color="#000066"><b>WHAT 
-                          WE DO WITH THE INFORMATION PROVIDED:</b> The Eastwood 
-                          Company recognizes that privacy of personal information 
-                          is of the utmost importance. Therefore, information 
-                          will only be shared with approved partners. The partner 
-                          approval process involves an analysis of the ethical 
-                          standards of the prospect partner, product/service quality, 
-                          reputation, how our customers will be approached and 
-                          treated, the likelihood of partner's product/service 
+                          cookies at the end of a session.</p>
+                        <p><b>INFORMATION YOU PROVIDE:</b> Eastwood receives and 
+                          stores any information you provide when placing an order, 
+                          entering a promotional event or requesting email announcements. 
+                          Name, address and phone number are required when you 
+                          place an order. Email addresses are utilized to confirm 
+                          orders have been placed or shipped and provide customers 
+                          with new product announcements and special savings. 
+                        </p>
+                        <p><b>SECURITY OF INFORMATION YOU PROVIDE:</b> We work 
+                          to protect the security of the information you provide 
+                          during transmission by using Secure Sockets Layer (SSL) 
+                          software, which encrypts the information you input. 
+                          It is important for you to protect against unauthorized 
+                          access to your password and to your computer. Be sure 
+                          to sign off when finished using a shared computer. </p>
+                        <p><b>WHAT WE DO WITH THE INFORMATION PROVIDED:</b> The 
+                          Eastwood Company recognizes that privacy of personal 
+                          information is of the utmost importance. Therefore, 
+                          information will only be shared with approved partners. 
+                          The partner approval process involves an analysis of 
+                          the ethical standards of the prospect partner, product/service 
+                          quality, reputation, how our customers will be approached 
+                          and treated, the likelihood of partner's product/service 
                           appealing to Eastwood customers and other factors as 
-                          well. </font></p>
-                        <p><font face="Arial, Helvetica, sans-serif" size="2" color="#000066"><b>AGENTS:</b> 
-                          Occasionally, we will employ other companies to perform 
-                          functions on our behalf. These companies do have access 
-                          to personal information while fulfilling their obligations, 
-                          but do not have the authority to utilize any information. 
-                          </font></p>
-                        <p><font face="Arial, Helvetica, sans-serif" size="2" color="#000066"><b>CONSENT:</b> 
-                          By utilizing The Eastwood Company web site to gather 
-                          information or place product orders you consent to our 
-                          collection and use of your personal information. </font></p>
-                        <p><font face="Arial, Helvetica, sans-serif" size="2" color="#000066"><b>QUESTIONS 
-                          OR SUGGESTIONS:</b> If you have questions or suggestions, 
-                          send an email to webmaster@eastwoodco.com. </font></p>
-                        <p><font face="Arial, Helvetica, sans-serif" size="2" color="#000066"><b>CHANGES 
-                          TO THE EASTWOOD COMPANY PRIVACY POLICY:</b> It may be 
-                          necessary for The Eastwood Company to make changes to 
-                          this privacy policy. If changes are made, they will 
-                          be announced on this page. </font></p>
-                        <p align="center"><font face="Arial, Helvetica, sans-serif" size="2" color="#000066"><b><font size="3"><a href="/terms.asp">CLICK 
-                          HERE TO VIEW OUR TERMS &amp; CONDITIONS</a></font></b></font><font face="Arial, Helvetica, sans-serif"><br>
-                          </font></p>
-                        <!-- End Past Center Gutter Content -->
-                      </td>
-                    </tr>
-                  </tbody></table>
-                  <!-- End Past Center Gutter Content -->
-                </td>
-              </tr>
-              <tr> </tr>
-              <tr> </tr>
-              <tr> </tr>
-            </tbody></table>
-          </td>
-        </tr>
-        <tr> 
-          <td valign="top" colspan="2"> 
-            <table border="0" width="100%" cellspacing="0" cellpadding="0">
-              <tbody><tr> 
-                <td width="100%" bgcolor="#000073"> <img border="0" src="/aspfiles/images/spacer.gif" width="69" height="4"></td>
-              </tr>
-              <tr> 
-                <td width="100%" bgcolor="#FFFFCC"> 
-                  <p align="center"> 
-                    <script src="https://seal.verisign.com/getseal?host_name=www.eastwoodco.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES"></script>
-                    <img height="39" src="/aspfiles/images/bizratetran.gif" width="95" border="0" align="middle">&nbsp; 
-                    <img height="50" src="/aspfiles/images/dmatran.gif" width="90" align="middle">&nbsp; 
-                    <img src="/aspfiles/Images/SEMASM2.gif" width="44" height="50" align="middle"> 
-                    &nbsp;<img src="/aspfiles/Images/ARMOsm2.gif" width="90" height="36" align="middle"> 
-                    <img src="aspfiles/Images/PCIlogo.gif" width="82" height="75" align="middle"> 
-                    <br>
-                    <font face="Arial" size="1" color="#000073"> <br>
-                    </font> 
-                  </p><p align="center"><font face="Arial" size="1" color="#000073">This 
-                    entire site is © The Easthill Group Inc. 2003<br>
-                    263 Shoemaker Road, Pottstown, PA 19464<br>
-                    <font size="2"><b>1-800-343-9353</b></font></font>
-                  </p></td>
-              </tr>
-            </tbody></table>
-          </td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
+                          well. </p>
+                        <p><b>AGENTS:</b> Occasionally, we will employ other companies 
+                          to perform functions on our behalf. These companies 
+                          do have access to personal information while fulfilling 
+                          their obligations, but do not have the authority to 
+                          utilize any information. </p>
+                        <p><b>CONSENT:</b> By utilizing The Eastwood Company web 
+                          site to gather information or place product orders you 
+                          consent to our collection and use of your personal information. 
+                        </p>
+                        <p><b>QUESTIONS OR SUGGESTIONS:</b> If you have questions 
+                          or suggestions, send an email to webmaster@eastwoodco.com. 
+                        </p>
+                        <p><b>CHANGES TO THE EASTWOOD COMPANY PRIVACY POLICY:</b> 
+                          It may be necessary for The Eastwood Company to make 
+                          changes to this privacy policy. If changes are made, 
+                          they will be announced on this page. </p>
+                        <p align="center"><b><a href="/custserv/customerservicemain.jsp?cid=12">CLICK HERE TO 
+                          VIEW OUR TERMS &amp; CONDITIONS</a></b><br>
+                        </p><br>
+<script src="https://seal.verisign.com/getseal?host_name=www.eastwoodco.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES"></script><br></div></td>
+    </tr>    
+
 </tbody></table>
+
+
+
+
+<div><img src="/images/us/global/globalgraphics/spacer01.gif" width="595" height="10" border="0"></div><!--Global Space of 10 Pixels on all the pages except Home & Gateway above footer-->
+<!-- Content Block End -->
+	</td>
+</tr>
+<tr valign="bottom">
+	<!-- <td width=163 bgcolor="#FFFFFF"><img src="/images/us/global/globalgraphics/spacer01.gif" width="163" height="1" border="0"></td> -->
+	<!-- <td width="10"><img src="/images/us/global/globalgraphics/spacer01.gif" width="10" height="1" border="0"></td> -->
+	<td width="595" align="center" colspan="3">
+<!-- Footer Start -->
+<table border="0" width="768" cellpadding="0" cellspacing="0">
+
+
+
+
+<tbody><tr>
+
+<!--
+<a href='http://www.eastwood.com/jump.jsp?itemID=5161&itemType=PRODUCT'>
+-->
+    <td><a href="http://www.eastwood.com/jump.jsp?itemID=5161&amp;itemType=PRODUCT"><img border="0" src="/images/us/global/globalnav/joinbuyersclub.gif" alt="Join Our Buyer's Club"></a><a href="http://www.eastwood.com/jump.jsp?itemID=706&amp;itemType=CATEGORY&amp;path=1%2C3"><img border="0" src="/images/us/global/globalnav/visitcatalogonline.gif" alt="View Our Catalog Online"></a><a href="http://www.eastwood.com/jump.jsp?itemID=688&amp;itemType=CATEGORY"><img border="0" src="/images/us/global/globalnav/visittechlibrary.gif" alt="Visit Our Tech Library"></a></td>
+</tr>
+<tr>
+    <td class="clearbgfooter" width="768" valign="top"><img src="/images/us/global/globalgraphics/navbanner01.gif"></td>
+</tr>
+<tr>
+    <td align="center" class="clearbgfooter" valign="top"><a href="http://www.eastwood.com/" class="xfooter">Home</a><span class="footerdivider">&nbsp;|&nbsp;</span><a href="http://www.eastwood.com/content/sitemap/sitemapmain.jsp" class="xfooter">Site Map</a><span class="footerdivider">&nbsp;|&nbsp;</span><a href="http://www.eastwood.com/custserv/customerservicemain.jsp?cid=1" class="xfooter">About Us</a><span class="footerdivider">&nbsp;|&nbsp;</span><a href="http://www.eastwood.com/jump.jsp?itemID=36&amp;itemType=CONTENT" class="xfooter">Find Us at a Car Show</a><span class="footerdivider">&nbsp;|&nbsp;</span><a href="http://www.eastwood.com/custserv/customerservicemain.jsp?cid=21" class="xfooter">Customer Testimonials</a><span class="footerdivider">&nbsp;|&nbsp;</span><a href="http://www.eastwood.com/custserv/customerservicemain.jsp" class="xfooter">Customer Service</a></td>
+</tr>
+<tr>
+    <td align="center" class="clearbgfooter" valign="top"><span class="xfooterLine2"><a class="xfooterLine2" href="http://www.eastwood.com/custserv/customerservicemain.jsp?cid=2">Privacy &amp; Security</a>&nbsp;<span class="footerdivider">|</span>&nbsp;<a class="xfooterLine2" href="http://www.eastwood.com/custserv/customerservicemain.jsp?cid=12">Terms &amp; Conditions</a>&nbsp;<span class="footerdivider">|</span>&nbsp;<a href="http://www.eastwood.com/jump.jsp?itemID=29&amp;itemType=CONTENT" class="xfooterLine2">Useful Links</a>&nbsp;<span class="footerdivider">|</span>&nbsp;<a href="http://www.eastwood.com/jump.jsp?itemID=34&amp;itemType=CONTENT" class="xfooterLine2">Affiliate Program</a>&nbsp;<span class="footerdivider">|</span><a class="xfooterLine2" href="http://www.eastwood.com/jump.jsp?itemID=33&amp;itemType=CONTENT">&nbsp;Partners</a><span class="footer">&nbsp;&nbsp;©2004 Eastwood Co.</span></span></td>
+</tr>
+<tr>
+    <td class="clearbgfooter" width="768"><img src="/images/us/global/globalgraphics/spacer01.gif" width="768" height="12" border="0"></td>
+</tr>
+
+
+<tr valign="top">
+    <td><img src="/images/us/global/globalgraphics/spacer01.gif" width="595" height="1" border="0"></td>
+</tr>
+
+</tbody></table>
+<!-- Footer End -->
+
+    
+    <!-- <a href="https://www.eastwood.com/account/accountmain.jsp"><img src="/images/us/global/globalnav/footer_myaccount.gif" border=0 alt="My Account"></a><a href="https://www.eastwood.com//custserv/customerservicemain.jsp?cid=7"><img src="/images/us/global/globalnav/footer_contactus.gif" border=0 alt="Contact Us"></a><a class=xfooter href="http://www.eastwood.com/custserv/customerservicemain.jsp?cid=2"><img src="/images/us/global/globalnav/footer_privacy.gif" border=0 alt="My Account"></a><a href="http://www.eastwood.com/custserv/customerservicemain.jsp?cid=12"><img src="/images/us/global/globalnav/footer_terms.gif" border=0 alt="My Account"></a> <span class=footerdivider>|</span>&nbsp;&copy;2004 Eastwood Co.</span></td>
+</tr> --></td>
+	<!-- <td width=0><img src="/images/us/global/globalgraphics/spacer01.gif" width=0 height=1 border=0></td>	 -->
+</tr>
+</tbody></table>
+<!-- Content Wrap End -->
+
 <script language="javascript" src="http://eastwood.trk.sodoit.com/rts.js"></script>
+
+
+
+
+
 
 
 </body></html>
