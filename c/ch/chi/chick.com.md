@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chick.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206194736id_/http%3A//www.chick.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chick.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305120119id_/http%3A//www.chick.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -30,6 +30,7 @@
 • [Poster](https://web.archive.org/catalog/posters/poster.asp)  
 • [Videos](https://web.archive.org/catalog/videolist.asp)  
 • [DVDs](https://web.archive.org/catalog/dvdlist.asp)  
+• [VCD](https://web.archive.org/catalog/videos/lotw.asp)  
 • [Assortments](https://web.archive.org/catalog/assortmentlist.asp)  
 • [Mini-books](https://web.archive.org/catalog/minibooklist.asp)  
 • [Promotional](https://web.archive.org/catalog/promotionallist.asp)
