@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kcpl.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203082610id_/http%3A//www.kcpl.com/reports/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcpl.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604184242id_/http%3A//kcpl.com/reports/privacy.html) for the most accurate reproduction.*
 
 # KCP&L - Privacy & Security statement
 
