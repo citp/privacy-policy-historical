@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the swabiz.com privacy policy that was archived on 2003-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030606060158id_/http%3A//www.swabiz.com/travel_center/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swabiz.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205045840id_/http%3A//www.swabiz.com/travel_center/privacy_policy.html) for the most accurate reproduction.*
 
 # Southwest Airlines Privacy Policy
-
-Updated November 21, 2002
 
 ## southwest.com Privacy Policy 
 
@@ -62,5 +60,4 @@ If you still have questions about our privacy policy please visit [Contact SWA](
 
 * * *
 
-  
-
+Updated: November 21, 2002
