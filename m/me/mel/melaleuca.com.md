@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the melaleuca.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203094600id_/http%3A//www.melaleuca.com/index.cfm%3FPageID%3D69) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melaleuca.com privacy policy that was archived on 2001-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010410040309id_/http%3A//www.melaleuca.com/index.cfm%3FPageID%3D69) for the most accurate reproduction.*
 
 # Melaleuca's Privacy Policy
 
 | 
 
-### MELALEUCA, INC. AND MELAELUCA OF CANADA, INC. WEB SITE  
+### MELALEUCA, INC. AND MELALEUCA OF CANADA, INC. WEB SITE  
 ONLINE PRIVACY POLICY
 
 **MELALEUCA, INC. and MELALEUCA OF CANADA, INC. ("MELALEUCA") are committed to respecting your privacy. We've structured our Web site so that, in general, you can visit MELALEUCA on the Web without identifying yourself or revealing any personal information. Once you choose to provide us personally identifiable information (any information by which you can be identified), you can be assured that it will only be used to support your customer relationship with MELALEUCA.**
