@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vanik.com privacy policy that was archived on 2003-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030418142802id_/http%3A//vanik.com/others/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanik.com privacy policy that was archived on 2003-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031210144429id_/http%3A//vanik.com/others/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy of The Great Indian Bazaar
 
