@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usahockey.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208172947id_/http%3A//www.usahockey.com/usa_hockey/main/home/usah_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usahockey.com privacy policy that was archived on 2003-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030411083301id_/http%3A//www.usahockey.com/usa_hockey/main/home/usah_privacy_policy) for the most accurate reproduction.*
 
 # USA Hockey
 
