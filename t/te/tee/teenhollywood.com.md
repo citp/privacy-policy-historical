@@ -1,44 +1,15 @@
-> *The following text is extracted and transformed from the teenhollywood.com privacy policy that was archived on 2001-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010412234052id_/http%3A//www.teenhollywood.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenhollywood.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201053137id_/http%3A//www.teenhollywood.com/privacy.asp) for the most accurate reproduction.*
 
-# Daily TV News - TEENHOLLYWOOD.COM
+# TEENHOLLYWOOD.COM - Privacy Policy
 
-|   |  [HOME](https://web.archive.org/default.asp)  
-[FREE E-mail](http://mail.teenblvd.com/frameset/default.asp)  
-[Odigo  
-  Instant Messenger](https://web.archive.org/odigo/default.asp)  
-[Celebrity Sites](https://web.archive.org/official.asp)  
----|---  
-DAILY NEWS  
-  |  [Headlines](https://web.archive.org/default.asp)  
-[Celebrities](https://web.archive.org/default.asp?display=celebs)  
-[Movies](https://web.archive.org/default.asp?display=movies)  
-[Television](https://web.archive.org/default.asp?display=television)  
-[Music](https://web.archive.org/default.asp?display=music)  
-FEATURES  
-  |  [Advice](https://web.archive.org/dearlucie/default.asp)  
-[Speak Out!](https://web.archive.org/teenstuff/speakout/default.asp)  
-[Daily Horoscopes](https://web.archive.org/teenstuff/horoscopes/default.asp)  
-[Contests](https://web.archive.org/contests/winter2000.asp)  
-[Quizzes](https://web.archive.org/quizzes.asp)  
-[Chat & Events](https://web.archive.org/chat.asp)  
-[Send Fan mail](https://web.archive.org/fanmail.asp)  
-MOVIES & TV  
-  |  [Lateshow Lineups](https://web.archive.org/lateshows.asp)  
-[Best TV Bets](https://web.archive.org/bestbets.asp)  
-[Featured Movies](https://web.archive.org/featuredmovie.asp)  
-[Postcards](https://web.archive.org/postcards.asp)  
+|    
   
-MUSIC  
-  |  [CD Releases](https://web.archive.org/cdreleases.asp)  
-  
-  |  [About Us & Support](https://web.archive.org/info.asp)  
-[Privacy Policy](https://web.archive.org/privacy.asp)  
 A member of the [](http://www.totalwoman.com/)  
 Network  
-  
-|  |   
+|    
+|   
 ---  
-**TeenHollywood.com Privacy Statement**  
+**TeenVillage Network Privacy Statement**  
  **Privacy Statement**  
 Your privacy is important to us. In order to protect your privacy, we have put together a privacy statement so that you are aware of our data collection activities. If you have any questions or concerns about this privacy statement, please contact TeenHollywood.com, Inc. 444 5th Ave SW, Suite 1805 Calgary, AB T2P 2T8 Canada or e-mail us at [info@teenhollywood.com](mailto:info@teenhollywood.com).  
  **Children Under 13**  
@@ -56,7 +27,7 @@ TeenHollywood.com, Inc. may share non-personal, summary information regarding ou
  **Promotions, Sweepstakes and Contests**  
 We may ask you for personally identifiable information when you enter sweepstakes, contests, or other events requiring the awarding (i.e. mailing) of prizes. If you do not wish to have this data collected, please do not participate in these contests.  
  **Newsletters**  
-Our newsletters are generally sent out on a weekly basis, plus occasional “special editions” featuring special events or advertisers. We do not disclose our newsletter subscriber list to any third parties except as required for the delivery of the newsletter. Each newsletter sent includes an each “unsubscribe” option if you do not wish to receive future mailings.  
+Our newsletters are generally sent out on a weekly basis, plus occasional “special editions” featuring special events or advertisers. We do not disclose our newsletter subscriber list to any third parties except as required for the delivery of the newsletter. Each newsletter sent includes an "unsubscribe" option if you do not wish to receive future mailings.  
  **Disclosure to Law Enforcement**  
 We may disclose user information to government authorities as required by law or as deemed necessary. We may also disclose personally identifiable information when we have reason to believe that someone is causing injury to or interference with our rights or property, other users, or anyone else that could be harmed by such activities.  
  **Sale of Assets**  
@@ -65,7 +36,10 @@ In the event that TeenHollywood.com, Inc. or substantially all of its assets are
 Interactive services on our site include chat rooms, profiles and message boards. Users must be 13 or older to use or register for these services. TeenHollywood.com, Inc. reserves the right to monitor our interactive services, but does not warrant that it will be able to do so at all times. **PERSONAL INFORMATION SUCH AS FULL NAME, SCHOOL, ADDRESS OR PHONE NUMBER SHOULD NEVER BE POSTED IN OUR INTERACTIVE SERVICES. FOR YOUR OWN SAFETY, DO NOT POST SUCH INFORMATION.**  
  **Linked Sites**  
 There are many opportunities throughout our sites to "link" to other web sites that are beyond our control. These sites, including sites owned by our advertisers, usually do not follow our privacy policies and as a result we are not responsible for your activities on other sites or the use of your personally identifiable information by other sites.  
+ **3rd Party Advertisements/Ad Serving**  
+Third party ad servers and agencies serve ads to our web sites. They may collect information about surfing behaviors and user interests. For specific information regarding their privacy policies, view [Doubleclick's](http://www.doubleclick.net/us/corporate/privacy) and [Engage's](http://www.engage.com/privacy/) privacy policies. Information shared with third party advertisers for the purposes of ad serving is not personally identifiable. Information collected from users' visits to this site and other sites may be used by some third party advertisers to determine which ads to serve to the user on this site and other sites. DoubleClick uses information about your visit to this site, such as the number of times that you have viewed an ad (but not your name, address, or other personal information) to serve ads to you only on this site. To opt out of receiving intelligent advertising targeting from third party advertisers, [click here](http://www.networkadvertising.org/optout_nonppii.asp).  
  **Security**  
 TeenHollywood.com, Inc. maintains reasonable procedures to protect the confidentiality of our members information. Our servers are physically secure and are protected by firewall(s).  
  **Revision of Privacy Statement**  
-We reserve the right to update this policy at any time. This policy was last revised March 26, 2001.
+We reserve the right to update this policy at any time. Material changes in our use of information (i.e. distribution of information to 3rd parties) will not take effect until a reasonable effort has been make to contact members via e-mail and a one week "opt-out" period has passed.   
+| 
