@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insecure.org privacy policy that was archived on 2002-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020405114810id_/http%3A//insecure.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insecure.org privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204213350id_/http%3A//www.insecure.org/privacy.html) for the most accurate reproduction.*
 
 # Insecure.org Privacy Policy
 
