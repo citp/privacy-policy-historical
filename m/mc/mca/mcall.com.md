@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcall.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413052754id_/http%3A//mcall.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcall.com privacy policy that was archived on 2001-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011029121418id_/http%3A//mcall.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
