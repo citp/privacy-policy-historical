@@ -1,9 +1,16 @@
-> *The following text is extracted and transformed from the megagames.com privacy policy that was archived on 2000-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001216232300id_/http%3A//www.megagames.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megagames.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413070017id_/http%3A//megagames.com/policy.htm) for the most accurate reproduction.*
 
 # MegaGames - Privacy Statement
 
+|   
+---  
+|  |  | [](https://web.archive.org/trainers.html)  
+---|---|---  
   
-| 
+**[Bookmark this page and be rewarded!](http://www.blink.com/error/no_javascript.html) **
+
+  
+
 
 Privacy Statement for MegaGames
 
@@ -13,7 +20,7 @@ Privacy Statement for MegaGames
 > 
 > We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
 > 
-> MegaGames also works with Flycast, a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to [http://www.flycast.com/about_us/about-privacy.html](https://web.archive.org/web/20001216232300id_/http%3A//www.megagames.com/%3Cfont%20face%3D%22Arial,%20Helvetica,%20sans-serif%22%3Ehttp://www.flycast.com/about_us/about-privacy.html%3C/font%3E). 
+> MegaGames also works with Flycast, a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to [http://www.flycast.com/about_us/about-privacy.html](https://web.archive.org/web/20010413070017id_/http%3A//megagames.com/%3Cfont%20face%3D%22Arial,%20Helvetica,%20sans-serif%22%3Ehttp://www.flycast.com/about_us/about-privacy.html%3C/font%3E). 
 > 
 > ####  Registration Forms 
 > 
