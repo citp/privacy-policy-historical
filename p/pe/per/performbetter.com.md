@@ -1,45 +1,30 @@
-> *The following text is extracted and transformed from the performbetter.com privacy policy that was archived on 2002-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020403043726id_/http%3A//www.performbetter.com/catalog/policies.asp%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the performbetter.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610234342id_/http%3A//www.performbetter.com/catalog/matriarch/switch.asp_Q_PageID_E_41) for the most accurate reproduction.*
 
 # Perform Better: on-line catalog of plyometric, strength training, speed training, weight lifting and functional training equipment.
 
-|  |   
-  
----  
-  
-  
-  
----  
-  
-  
-  
----  
-  
----  
-  
-Would you like to receive news on sales and special offers?  
-  
-  
-| **M-F Athletic Co., Inc. Policies and Procedures  
-**  
-**PRIVACY STATEMENT  
-**M-F Athletic Co., Inc. is aware of our customers' need for privacy while ordering on the Internet. It is our intention at M-F Athletic Co., Inc. to make our sites as secure as commercially reasonable, while offering the comfort and convenience of on-line ordering to our customers. However technology is constantly changing, by utilizing our site, you understand and accept any risks that could occur through electronic information sharing through any of our sites, even though advertised as secure. We are making every effort to ensure that our customers have the most private ordering processes available, but we cannot be held responsible for unforeseen or unintended access to our client information.
+|  |   |   
+MF Athletic Privacy Statement, Policies and Procedures
 
-If you require privacy over and above our secure site structure or have a specific question you would like to ask concerning the extent of privacy afforded by any of our sites, please contact us via email at mfathletic@mfathletic.com, or call us toll-free at 1-888-556-7464, Monday through Friday, 8:30 a.m. to 6:00 p.m. E.S.T. We will be happy to address any concerns you might have from ordering on-line.
+ **PRIVACY STATEMENT**  
+M-F Athletic Co., Inc. is aware of our customers' need for privacy while ordering on the Internet. It is our intention at M-F Athletic Co., Inc. to make our sites as secure as commercially reasonable, while offering the comfort and convenience of on-line ordering to our customers. However technology is constantly changing, by utilizing our site, you understand and accept any risks that could occur through electronic information sharing through any of our sites, even though advertised as secure. We are making every effort to ensure that our customers have the most private ordering processes available, but we cannot be held responsible for unforeseen or unintended access to our client information.
+
+If you require privacy over and above our secure site structure or have a specific question you would like to ask concerning the extent of privacy afforded by any of our sites, please contact us via email at [mfathletic@mfathletic.com](mailto:mfathletic@mfathletic.com), or call us toll-free at 1-888-556-7464, Monday through Friday, 8:30 a.m. to 6:00 p.m. E.S.T. We will be happy to address any concerns you might have from ordering on-line.
 
 M-F Athletic CO, Inc. will not and does not release personal identifiable information about our customers, at any time, through any means, to any vendors, or other third parties without your permission (unless it is necessary for the completion of your order). Personal identifiable information includes information such as your name, address, phone number, email address, which is unique to you. Anonymous information such as site usage information, domain names and/or I.P. addresses or browsers visiting our sites, is utilized for site visitation tracking information, and is aimed at bettering our presentation of site pages to our customers. 
 
-M-F Athletic CO, Inc. uses pixels, or transparent GIF files, to help manage our online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to <http://www.doubleclick.net/us/corporate/privacy>
+M-F Athletic CO, Inc. uses pixels, or transparent GIF files, to help manage our online advertising. These GIF files are provided by our ad management partner, Conversion Ruler. These files enable Conversion Ruler to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with Conversion Ruler. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address.
 
-**RETURNS  
-**Returned items need to have either a Return Authorization Number (RA number) which has been generated by an M-F Athletic Representative or a Return Authorization Form which should be sent with the returned item. M-F Athletic Co., Inc. would like you to have both the RA # and the RA Form. This will ensure a timely transaction. M-F Athletic Co. recommends that you should return your items via a traceable carrier to ensure return delivery. Returned items must be shipped back to M-F Athletic with freight prepaid. Warranty and or defective items that need to be returned please call M-F Athletic Co. directly for further assistance.
+ **RETURNS**  
+Returned items need to have either a Return Authorization Number (RA number) which has been generated by an M-F Athletic Representative or a Return Authorization Form which should be sent with the returned item. M-F Athletic Co., Inc. would like you to have both the RA # and the RA Form. This will ensure a timely transaction. M-F Athletic Co. recommends that you should return your items via a traceable carrier to ensure return delivery. Returned items must be shipped back to M-F Athletic with freight prepaid. Warranty and or defective items that need to be returned please call M-F Athletic Co. directly for further assistance.
 
-**REGISTERING ON OUR SITES** **  
+ **REGISTERING ON OUR SITES  
 ** We wish to assure you that when you register on any of our sites, the personal information you enter is secure, and is utilized internally for order processing, but may include some private mailings to you, our customers. If you wish to be excluded from our mailing lists, please indicate via email to: [mfathletic@mfathletic.com](mailto:mfathletic@mfathletic.com). We will be happy to comply with your request.
 
-**PRICING CHANGES** **  
-** In the event a product is listed at an incorrect price or with incorrect information due to typographical error, we shall have the right to refuse or cancel any orders placed for product listed at the incorrect price. M-F Athletic Co. shall have the right to refuse or cancel any such orders whether or not the order has been confirmed and your credit card charged. If your credit card has already been charged for the purchase and your order is canceled, we shall immediately issue a credit to your credit card account in the amount of the charge.
+ **PRICING CHANGES**  
+In the event a product is listed at an incorrect price or with incorrect information due to typographical error, we shall have the right to refuse or cancel any orders placed for product listed at the incorrect price. M-F Athletic Co. shall have the right to refuse or cancel any such orders whether or not the order has been confirmed and your credit card charged. If your credit card has already been charged for the purchase and your order is canceled, we shall immediately issue a credit to your credit card account in the amount of the charge.
 
-**COPYRIGHT  
-**All content included on this site, such as text, graphics, logos, button icons, images, video clips, and data compilations is the property of M-F Athletic Co., Inc. or its content suppliers and protected by United States and international copyright laws. The compilation of all content on this site is the exclusive property of M-F Athletic Co., Inc. and protected by U.S. and international copyright laws. All software used on the site is the sole property of MF Athletic Company or those supplying the software.
+ **COPYRIGHT**  
+All content included on this site, such as text, graphics, logos, button icons, images, video clips, and data compilations is the property of M-F Athletic Co., Inc. or its content suppliers and protected by United States and international copyright laws. The compilation of all content on this site is the exclusive property of M-F Athletic Co., Inc. and protected by U.S. and international copyright laws. All software used on the site is the sole property of MF Athletic Company or those supplying the software.
 
-| 
+|   
+---|---|---|---
