@@ -1,17 +1,23 @@
-> *The following text is extracted and transformed from the state.ct.us privacy policy that was archived on 2001-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010203234800id_/http%3A//www.state.ct.us/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.ct.us privacy policy that was archived on 2002-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020204083630id_/http%3A//www.state.ct.us/privacy.htm) for the most accurate reproduction.*
 
 # ConneCT - Privacy Statement
 
   
-**Privacy Notice \- **Version 1.0, October 11, 2000  (DRAFT pending legal review)
+**Privacy Policy  
+**Version 1.0  
+February 14, 2001 
 
 * * *
 
-Thank you for visiting ConneCT - the official web site for the State of Connecticut. ConneCT is committed to protecting your privacy and to making your on-line experience enjoyable, secure, comfortable, and valuable. This notice discloses our privacy policy and information practices for the State of Connecticut.
+Thank you for visiting ConneCT - the official web site for the State of Connecticut. ConneCT is committed to protecting your privacy and to making your on-line experience enjoyable, secure, comfortable, and valuable.
 
-ConneCT policy is to respect and protect the privacy of our website users, consistent with the applicable laws of the United States and the State of Connecticut, including the Connecticut Freedom of Information Act and the Connecticut Personal Data Act. We do not collect, use or disclose any information about our users without their knowledge and approval. We do not share user information with third parties unless we have informed users about the disclosures or when we have prior consent.
+While State of Connecticut Agencies and Branches may adopt and publish privacy policies that differ substantially from the following because of their unique functions, in the absence of any other published policy, this one will apply 1.
 
-Visitors should be aware that the State of Connecticut could be required to disclose personal information in response to valid legal process, such as a search warrant, subpoena, or court order. All record keepers face the possibility that disclosure of their records may be compelled in some civil, criminal, or administrative matters. Disclosures may also be necessary to protect the State's legal rights or during emergencies if physical safety is believed to be at risk. We think that these events are unlikely, but they are possible.
+**Privacy Policy**
+
+ConneCT policy is to respect and protect the privacy of our website users, consistent with the applicable laws of the United States and the State of Connecticut, including the [_Connecticut Freedom of Information Act_ ](http://www.state.ct.us/foi/2001FOIA/2001FOIAStatutoryIndex.htm)and the [_Connecticut Personal Data Act_](https://web.archive.org/web/20011217232026id_/http%3A//www.state.ct.us/pda.htm). We do not collect, use or disclose any information about our users without their knowledge and approval. We do not share user information with third parties unless we have informed users about the disclosures or when we have prior consent.
+
+Visitors should be aware that the State of Connecticut could be required to disclose personal information in response to valid legal process, such as a search warrant, subpoena, or court order, pursuant to the [_Connecticut Freedom of Information Act_](http://www.state.ct.us/foi/2001FOIA/2001FOIAStatutoryIndex.htm). All record keepers face the possibility that disclosure of their records may be compelled in some civil, criminal, or administrative matters. Disclosures may also be necessary to protect the State’s legal rights or during emergencies if physical safety is believed to be at risk. We think that these events are unlikely, but they are possible.
 
 **Policy Revision and Notification of Changes**
 
@@ -19,7 +25,7 @@ ConneCT will update this policy as new services and features are added. We will 
 
 **What Information About Users Does The State Of Connecticut Collect?**
 
-**Automatic Information**
+**A. Automatic Information**
 
 The following information is collected and stored automatically from all users accessing the ConneCT web sites to browse or download information:
 
@@ -35,9 +41,9 @@ This information is used to create summary statistics, which are used for purpos
 
 This information is not reported or used in any manner that would reveal personally identifiable information, and will not be released to any outside (third) parties unless legally required.
 
-**Personal Information You Provide to Us**
+**B. Personal Information You Provide to Us**
 
-ConneCT does not obtain personally identifiable information about you when you visit our web sites unless you choose to provide such information to us (i.e. sending an e-mail, participating in a survey, responding to a feedback or "contact us" form, etc.)
+ConneCT does not retain personally identifiable information about you when you visit our web sites unless you choose to provide such information to us (i.e. sending an e-mail, participating in a survey, responding to a feedback or "contact us" form, etc.)
 
 We consider any information that could reasonably be used to identify you as "personally identifying information." This includes, but is not limited to:
 
@@ -52,23 +58,23 @@ We consider any information that could reasonably be used to identify you as "pe
 
 
 
-Government agencies may request personally identifiable information from you in order to provide requested services, but such information is handled as it would be on an in-person visit to a government office.
+Connecticut state government agencies, organizations and institutions may request personally identifiable information from you in order to provide requested services, but such information is handled as it would be on an in-person visit to that same agency, organization or institution.
 
-If personal information is requested on the web site or volunteered by the user, state law and the federal Privacy Act of 1974 may protect it. However, this information is a public record once you provide it, and may be subject to public inspection and copying if not protected by federal or state law.
+If personal information is requested on the web site or volunteered by the user, state law and the United States [Privacy Act of 1974](http://www.nara.gov/fedreg/legal/apa/552a.html) may protect it. However, this information is a public record once you provide it, and may be subject to public inspection and copying if not protected by federal or state law..
 
 **E-Mail Communications and Web Forms**
 
 If you send us an electronic mail message with a question or comment that contains personally identifying information, or fill out a form that e-mails us information, we will only use this personally identifying information to respond to your request. We may redirect your message to another government agency or person who is in a better position to answer your question.
 
-All e-mail addresses collected by ConneCT contain the names of people who voluntarily communicated with or requested information from us. E-mail addresses are not sold, leased or shared with any governmental or commercial entities without their consent. When a user has given us their e-mail address for purposes of communicating with or requesting information from ConneCT, that communication becomes part of the public record and may be subject to public inspection and copying if not protected by federal or state law.
+All e-mail messages collected by ConneCT contain the e-mail addresses of persons who voluntarily communicated with or requested information from us. E-mail addresses are not sold, leased or shared with any governmental or commercial entities without the user's consent. When a user has given us their e-mail address for purposes of communicating with or requesting information from ConneCT, that communication becomes part of the public record and may be subject to public inspection and copying if not protected by federal or state law.
 
-**Does ConneCT use Cookies?**
+**Does ConneCT use Cookies to Collect Information About a User?**
 
-We do not use cookies to collect information on the ConneCT site. A cookie is a text file, not a program, which is sent to your computer when you access a site. Cookies do not disclose your name or e-mail address to a web site. They can only tell a web site if you have visited before and can pass short bits of information from the web site back to itself the next time you visit.
+We do not use cookies to retain information on the ConneCT site. A cookie is a text file, not a program, which is sent to your computer when you access a site. Cookies do not disclose your name or e-mail address to a web site. They can only tell a web site if you have visited before and can pass short bits of information from the web site back to itself the next time you visit.
 
 **Does The State Of Connecticut Share The Information It Receives With Anyone?**
 
-Except as provided by applicable state and federal laws, we do not collect, use or disclose user information without their knowledge and approval. We do not share user information with third parties unless we have informed users about the disclosures or have prior consent.
+Except as provided by applicable state and federal laws, we do not collect, use or disclose user information without the user’s knowledge and approval. We do not share user information with third parties unless we have informed users about the disclosures or have prior consent.
 
 In addition, all State of Connecticut contractors must comply with this policy.
 
