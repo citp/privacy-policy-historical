@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the seologic.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208145812id_/http%3A//www.seologic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seologic.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603042216id_/http%3A//www.seologic.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Statement - SEO Logic Search Engine Optimization and Placement Services
+# Privacy Statement - SEO Logic® Search Engine Optimization and Placement Services
+
+  
+Content  
+(Jump to Navigation)
 
 Effective January 1, 2002
 
@@ -10,7 +14,7 @@ Effective January 1, 2002
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
 **The Information We Collect**  
-This notice applies to all information collected or submitted on the SEO Logic® Search Engine Optimization and Placement Services Website. On some pages, you can make requests, register to receive materials, and use free webmaster tools. The types of personal information collected at these pages are:
+This notice applies to all information collected or submitted on the SEO Logic® Search Engine Optimization and Placement Services website. On some pages, you can make requests, register to receive materials, and use free webmaster tools. The types of personal information collected at these pages are:
 
 Name  
 Company name  
@@ -27,7 +31,7 @@ We use the information you provide about yourself and your business to reply to 
 
 We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
 
-We use non-identifying and aggregate information to better design our Website.  For example, we track how frequently individual pages are visited as an indicator of interest levels in different service areas.
+We use non-identifying and aggregate information to better design our website.  For example, we track how frequently individual pages are visited as an indicator of interest levels in different service areas.
 
 We use aggregate data obtained through our free tools to research and compare search engines.
 
@@ -37,7 +41,7 @@ Finally, we never use or share the personally identifiable information provided 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
 **Our Commitment To Children's Privacy**  
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Website from those we actually know are under 13, and no part of our Website is structured to attract anyone under 13.
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
 **How You Can Access Or Correct Your Information**  
 You can request that we delete your information by [emailing us](http://www.seologic.com/contact.php).
