@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alltheinternet.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205022424id_/http%3A//www.alltheinternet.com/texis/open/thru%3Fss%3Da%26area%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltheinternet.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603002951id_/http%3A//www.alltheinternet.com/texis/open/allthru%3Farea%3Dprivacy) for the most accurate reproduction.*
 
 # All the Internet - Our Privacy Statement
 
@@ -30,7 +30,7 @@ All the Internet does not monitor, collect data or 'spy' on its user base. Any s
 By using the All the Internet web site, you consent to the collection and use of your information as we have outlined in this policy. All the Internet may decide to change this Privacy Policy from time to time. When we do, we will post those changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.
 
 **Questions and Suggestions**  
-If you have questions or suggestions, please [Contact Us](http://www.alltheinternet.com/texis/open/thru?ss=a&area=feedback) or you can mail us at: 
+If you have questions or suggestions, please [Contact Us](http://www.alltheinternet.com/texis/open/allthru?ss=a&area=feedback) or you can mail us at: 
 
 All the Internet  
 Privacy Policies  
