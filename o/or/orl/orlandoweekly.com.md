@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orlandoweekly.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205072555id_/http%3A//orlandoweekly.com/site/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orlandoweekly.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604053813id_/http%3A//orlandoweekly.com/site/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement for Orlando Weekly
 
@@ -12,7 +12,7 @@ Orlando Weekly does internal research on our users' demographics, interests and 
 
 **Customization**
 
-Orlando Weekly gives users with the ability to personalize the site's content through a [customization](https://web.archive.org/web/20011205072555id_/http%3A//orlandoweekly.com/customize) process. 
+Orlando Weekly gives users with the ability to personalize the site's content through a [customization](https://web.archive.org/web/20020604053813id_/http%3A//orlandoweekly.com/customize) process. 
 
 In order to customize Orlando Weekly for our users, some information (e.g. name and e-mail address) and demographic information is necessary to activate personalized services. 
 
@@ -42,7 +42,7 @@ This site contains links to other sites. Orlando Weekly is not responsible for t
 
 **Message boards**
 
-This site makes message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. Users of the Orlando Weekly message boards must register separately for these services (free of charge) in order to post messages, although they need not register to read others' messages. During message-board registration, users are required to supply a username, password, and e-mail address. For additional information, please see our [message board rules](https://web.archive.org/web/20011205072555id_/http%3A//orlandoweekly.com/scripts/Ultimate.cgi?action=agree). 
+This site makes message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. Users of the Orlando Weekly message boards must register separately for these services (free of charge) in order to post messages, although they need not register to read others' messages. During message-board registration, users are required to supply a username, password, and e-mail address. For additional information, please see our [message board rules](https://web.archive.org/web/20020604053813id_/http%3A//orlandoweekly.com/scripts/Ultimate.cgi?action=agree). 
 
 **Security**
 
@@ -54,14 +54,14 @@ Orlando Weekly provides users the opportunity to opt-out of receiving communicat
 
 **1.** You can send e-mail to [e-mail@orlandoweekly.com](mailto:email@orlandoweekly.com)
 
-**2.** You can visit the following URL: [http://www.orlandoweekly.com/customize/acindex.asp](https://web.archive.org/web/20011205072555id_/http%3A//orlandoweekly.com/customize/acindex.asp)
+**2.** You can visit the following URL: [http://www.orlandoweekly.com/customize/index.asp](https://web.archive.org/web/20020604053813id_/http%3A//orlandoweekly.com/customize/index.asp)
 
 **Correct/Update customization information**
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-**1.** Visit [http://www.orlandoweekly.com/customize/acindex.asp](https://web.archive.org/web/20011205072555id_/http%3A//orlandoweekly.com/customize/acindex.asp)
+**1.** Visit [http://www.orlandoweekly.com/customize/index.asp](https://web.archive.org/web/20020604053813id_/http%3A//orlandoweekly.com/customize/index.asp)
 
 **Contacting Orlando Weekly**
 
-If you have any questions about this policy or the site, please send e-mail ([lshepherd@orlandoweekly.com](mailto:lshepherd@orlandoweekly.com)) or call (407) 645-5888, ext. 203. 
+If you have any questions about this policy or the site, please send e-mail ([lshepherd@orlandoweekly.com](mailto:lshepherd@orlandoweekly.com)) or call (407) 377-0400, ext. 216. 
