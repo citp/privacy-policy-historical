@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the websense.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607145531id_/http%3A//www.websense.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websense.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205100952id_/http%3A//www.websense.com/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Internet Filtering by Websense
 
 **Websense Web Site  
 Privacy Policy Statement**
 
-For contact information, [click here](https://web.archive.org/web/20020607145531id_/http%3A//www.websense.com/company/contact/index.cfm). 
+For contact information, [click here](https://web.archive.org/web/20021205100952id_/http%3A//www.websense.com/company/contact/index.cfm). 
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address. 
 
