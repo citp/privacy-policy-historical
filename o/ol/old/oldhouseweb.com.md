@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oldhouseweb.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604015806id_/http%3A//www.oldhouseweb.net/stories/Detailed/997.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldhouseweb.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214123557id_/http%3A//www.oldhouseweb.net/stories/Detailed/997.shtml) for the most accurate reproduction.*
 
 # Our privacy policy We strive to protect your personal privacy. Here are the policies we follow.
 
@@ -25,6 +25,4 @@ If you have any questions concerning our Privacy Policy, please feel free to con
   
 * * *  
   
-* * *  
-  
-| 
+* * *
