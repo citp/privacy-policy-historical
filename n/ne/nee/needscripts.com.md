@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the needscripts.com privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802031317id_/http%3A//www.info.needscripts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the needscripts.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210033006id_/http%3A//www.info.needscripts.com/about/privacy.php) for the most accurate reproduction.*
 
-# Need Scripts: Privacy Policy
-
-|    
-|  | 
+# Scripts Directory :: PHP, ASP.NET, CGI/Perl, Flash, XML, Java Script!
 
 **Need Scripts Statement of Privacy**
 
@@ -22,15 +19,11 @@ Changes to this Privacy Policy
 Top Rank Position Network may change this policy from time to time. If we make any substantial changes, we will notify you by posting a prominent update on our pages.
 
 Questions, comments  
-Questions regarding this privacy statement, or regarding any other aspects of our network of Web sites, should be sent via e-mail to or to our offices at 2201 NW 122nd Street, # 2311, Oklahoma City, Oklahoma - 73120. We read every message submitted and try to reply promptly to every one. We may also file your comments to improve the site and program, or review and discard the information.
+Questions regarding this privacy statement, or regarding any other aspects of our network of Web sites, should be sent via e-mail to or to our offices at 6214 Masons Drive, Oklahoma City, Oklahoma - 73142. We read every message submitted and try to reply promptly to every one. We may also file your comments to improve the site and program, or review and discard the information.
 
 Top Rank Position Network  
-2201 NW 122nd Street, # 2311  
+6214 Masons Drive  
 Oklahoma City,  
-Oklahoma - 73120
+Oklahoma - 73142
 
-[privacy@needscripts.com](mailto:privacy@needscripts.com) or   
-[privacy@trpn.com](mailto:privacy@trpn.com)
-
-|   
----|---|---|---
+support@needscripts.com
