@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the returnpath.net privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202023940id_/http%3A//returnpath.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the returnpath.net privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401150818id_/http%3A//returnpath.net/privacypolicy.php) for the most accurate reproduction.*
 
 # Return Path - Changed Your Email? Keep Your Contacts!
 
