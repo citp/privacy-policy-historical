@@ -1,20 +1,6 @@
-> *The following text is extracted and transformed from the healthdesigns.com privacy policy that was archived on 2003-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030627034256id_/http%3A//www.healthdesigns.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthdesigns.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205060337id_/http%3A//www.healthdesigns.com/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
-
-[](https://web.archive.org/web/20030627034256id_/http%3A//www.healthdesigns.com/ShopSite/index.html)  
-[](https://web.archive.org/web/20030627034256id_/http%3A//www.healthdesigns.com/HealthNews.html)  
-[](https://web.archive.org/web/20030627034256id_/http%3A//www.healthdesigns.com/HealthConditions.html)  
-[](https://web.archive.org/web/20030627034256id_/http%3A//www.healthdesigns.com/HealthStore.html)  
-[](https://web.archive.org/web/20030627034256id_/http%3A//www.healthdesigns.com/TestIntro.html)  
-[](https://web.archive.org/web/20030627034256id_/http%3A//www.healthdesigns.com/SampleTests.html)  
-[](https://web.archive.org/web/20030627034256id_/http%3A//www.healthdesigns.com/AsktheDoc.html)  
-[](https://web.archive.org/web/20030627034256id_/http%3A//www.healthdesigns.com/talking.html)  
-[](https://web.archive.org/web/20030627034256id_/http%3A//www.healthdesigns.com/FAQs.html)
-
-|   | 
-
-**PRIVACY STATEMENT**
 
 This privacy statement discloses the privacy practices for HealthDesigns International at [http://www.healthdesigns.com](http://www.healthdesigns.com/).
 
@@ -59,7 +45,7 @@ When our order form asks users to enter sensitive information (such as credit ca
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line.  All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices.  Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information.  Furthermore, ALL employees are kept up-to-date on our security and privacy practices.  Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers’ information is protected.  Finally, the servers that we store personally identifiable information on are kept in a secure environment. 
 
-If you have any questions about the security at our website, you can send an email to [customer_service@healthdesigns.com](mailto:customer_service@healthdesigns.com).
+If you have any questions about the security at our website, you can send an email to [customerservice@healthdesigns.com](mailto:customer_service@healthdesigns.com).
 
 **Special Offers  
 **Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below.
@@ -74,5 +60,3 @@ If you have any questions about the security at our website, you can send an ema
 **If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email.  Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
 
 You should check this posted Privacy Policy for any future changes.  If you do not agree to the terms of this Privacy Policy or any revised policy, please exit the site immediately.
-
-| 
