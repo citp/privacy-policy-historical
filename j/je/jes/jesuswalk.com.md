@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jesuswalk.com privacy policy that was archived on 2000-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000616174824id_/http%3A//www.jesuswalk.com/admin/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jesuswalk.com privacy policy that was archived on 2000-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001211202400id_/http%3A//jesuswalk.com/admin/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy -- JesusWalk
 
-|  [](http://www.wilsonweb.com/cgi-bin/rfwilson/redirect.cgi/6819f974?REGION=joy-study&CAMPAIGN=Christian_Charities&ACCOUNT=wis&BANNER=sexual-tempation-online) [](http://www.jesuswalk.com/)
+|  [](http://www.wilsonweb.com/cgi-bin/rfwilson/redirect.cgi/1bd18212?REGION=joy-study&CAMPAIGN=wv-xmas&ACCOUNT=World_Vision_Sponsor&BANNER=wv-health) [](http://www.jesuswalk.com/)
 
 ##  Privacy Policy 
 
@@ -18,7 +18,7 @@ We respect the privacy of our newsletter subscribers, those who answer our surve
   * **Cookies.** To use cookies in a responsible manner to help our visitors, not snoop on them. We use cookies to help rotate banner advertising, to identify shoppers with their shopping carts, to make it easy to order a second time, to allow subscribers to store passwords in cookies if they desire, and to greet our visitors by name when they return. We do NOT collect or use this information from cookies to develop a profile about our shoppers. 
   * **Security.** To store subscriber and password files with personal information in a secure manner. We store such files in areas not accessible to Web browsers, or behind password protection, or off-line. 
 
-For assistance in developing a privacy policy for your own site check out the [Direct Marketing Association](http://www.the-dma.org/policy.html) site.  [Part of JesusWalk, Disciple Lessons from Luke's Gospel](http://www.jesuswalk.com/) [](http://www.joyfulheart.com/cgi-bin/imagemap/joypic/joy-bot.map)
+For assistance in developing a privacy policy for your own site check out the [Direct Marketing Association](http://www.the-dma.org/library/privacy/) site.  [Part of JesusWalk, Disciple Lessons from Luke's Gospel](http://www.jesuswalk.com/) [](http://www.joyfulheart.com/cgi-bin/imagemap/joypic/joy-bot.map)
 
 **Joyful Heart Ministries**  
 Pastor Ralph F. Wilson, Director ([pastor@joyfulheart.com](mailto:pastor@joyfulheart.com))  
