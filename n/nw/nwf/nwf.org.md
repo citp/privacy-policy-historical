@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the nwf.org privacy policy that was archived on 2002-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021015142845id_/http%3A//www.nwf.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwf.org privacy policy that was archived on 2004-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041126061802id_/http%3A//www.nwf.org/coldfusion/click.cfm%3Furl%3Dhttp%3A//www.nwf.org/about/privacy.cfm) for the most accurate reproduction.*
 
-# About - National Wildlife Federation
-
-**National Wildlife Federation www.nwf.org  
-Website Privacy Policy**
+# Privacy Policy - National Wildlife Federation
 
 We value the support of our members, donors, customers, and others who support the National Wildlife Federation (NWF) through visiting our web sites. We know that protecting personal information is important to our supporters. To make our Privacy Policy easy to find, we make it available in the footer of every page of our website. (If you have questions or concerns regarding our site's privacy statement, contact NWF directly at [http://www.nwf.org/contact](https://web.archive.org/contact/).
 
@@ -37,4 +34,4 @@ National Wildlife Federation reserves the right to amend this policy at any time
 
 National Wildlife Federation  
 11100 Wildlife Center Drive  
-Reston, VA 22190
+Reston, VA 20190
