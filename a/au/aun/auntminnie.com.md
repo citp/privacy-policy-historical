@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auntminnie.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002044101id_/http%3A//www.auntminnie.com/index.asp%3FSec%3Dabt%26Sub%3Dfaq%26Pag%3Ddis%26ItemId%3D52788) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auntminnie.com privacy policy that was archived on 2004-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040625165744id_/http%3A//www.auntminnie.com/index.asp%3FSec%3Dabt%26Sub%3Dfaq%26Pag%3Ddis%26ItemId%3D52788) for the most accurate reproduction.*
 
 # Radiology, FAQ
 
@@ -24,18 +24,18 @@ We do aggregate personally identifiable information and disclose such informatio
 
 We automatically track certain technical information about your use of our site. This information may include the URL that you just came from (whether this URL is on our site or not), which URL you next go to (whether this URL is on our site or not), what browser you are using, and your IP address.
 
-We may also use cookies on our site. Cookies are small pieces of information stored on your computer hard drive, not on our site. Among other things, cookies can permit you to enter your password less frequently during a session. Cookies can also help us provide information that is targeted to your interests so that we may focus our resources on features that are the most popular. You are always free to decline our cookies if your browser permits, although in that case you may be required to reenter your password multiple times during a session. 
+We may also use cookies on our site. Cookies are small pieces of information stored on your computer hard drive, not on our site. Among other things, cookies can allow you to be signed in automatically each time you visit the site. Cookies can also help us provide information that is targeted to your interests so that we may focus our resources on features that are the most popular. Cookies must be enabled in your browser in order to use our site. 
 
 If you send us correspondence, such as e-mails or letters, or if other members or third parties send us correspondence about your use of our services, we may collect such information into a file specific to you. We use information in the file we maintain about you, and other information we obtain from your current and past use of the service, to resolve disputes, troubleshoot problems and enforce our user agreement.
 
 Your E-mail Address and Personalized Content  
 If your registration form indicates that you want to receive e-mail updates about AuntMinnie, as part of our service we may send to you periodic e-mails and newsletters containing information about us, updates on new product and service features, product and service usage tips, information about third party services that are likely to be of interest to our customers, and customer satisfaction questions. 
 
-If your registration form indicates that you want AuntMinnie to share your name with advertisers, or if you otherwise expressly indicate to us that you would like to receive information about products and services from third parties, we may disclose your name and e-mail address to these parties.
+Use of some sections of our site may require that your name and e-mail address be given to a third party, such as a sponsor. In these cases your explicit consent is required before using these sections.
 
 If your registration form indicates that you want us to personalize your content based on your profile, we may use the information you provide to us to filter the content we deliver to you and to provide you with content we believe may be relevant to you.
 
-If you do not want us to send you periodic e-mails, do not want us to provide your name and e-mail address to advertisers, or do not want us to personalize content for you, you should make sure that the applicable box on the registration form is not checked when you submit it. In addition, at any time you can opt-out of these services by sending an e-mail with "UNLIST" in the subject line to [unlist@auntminnie.com](mailto:unlist@auntminnie.com) and telling us which of the foregoing services you do not want. You can also opt-out by notifying us in a letter at AuntMinnie.com, 1350 North Kolb Road, Tucson, Arizona 85715, Attention: Technical Service. 
+If you do not want us to send you periodic e-mails, do not want us to provide your name and e-mail address to advertisers, or do not want us to personalize content for you, you should make sure that the applicable box on the registration form is not checked when you submit it. In addition, at any time you can opt out of these services by going to [http://subscribe.auntminnie.com](http://subscribe.auntminnie.com/) and changing your selections. Or, you can send an e-mail to [support@auntminnie.com](mailto:support@auntminnie.com) with your request to opt out. It may take up to 5 days before your request is fully processed. You can also opt-out by notifying us in a letter at AuntMinnie.com, 1350 North Kolb Road, Tucson, Arizona 85715, Attention: Technical Service. 
 
 In addition to the periodic e-mails described above, we may use your e-mail address to send you administrative notices about your account (such as notices about pending activities).
 
