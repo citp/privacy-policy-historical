@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the music.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013113800id_/http%3A//www.music.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the music.com privacy policy that was archived on 2003-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030607012406id_/http%3A//music.com/privacy.shtml) for the most accurate reproduction.*
 
 # Music.com - The Search is Over!
 
