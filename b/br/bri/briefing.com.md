@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the briefing.com privacy policy that was archived on 2002-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020612193918id_/http%3A//briefing.com/About_/CorpInfo/ci_Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briefing.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205100642id_/http%3A//www.briefing.com/About_/CorpInfo/ci_Privacy.htm) for the most accurate reproduction.*
 
 # Briefing.com: Privacy Statement
 
@@ -20,7 +20,7 @@ Briefing.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independe
 
 
 
-If users have questions or concerns regarding this statement, they should first contact Celia Yoder by writing [cyoder@briefing.com](mailto:cyoder@briefing.com) or calling 312-670-4463 x230. If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/users/users_watchdog_intro.html). TRUSTe will serve as a liaison with the Web site to resolve users concerns. 
+If users have questions or concerns regarding this statement, they should first contact Cassandra Bayna by writing [cbayna@briefing.com](mailto:cbayna@briefing.com) or calling 312-670-4463 x232. If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/users/users_watchdog.html). TRUSTe will serve as a liaison with the Web site to resolve users concerns. 
 
 The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site. By displaying the TRUSTe trustmark, Briefing.com has agreed to notify users of:
 
@@ -28,6 +28,7 @@ The TRUSTe program covers only information that is collected through this Web si
   * How We Use Your Information
   * Disclosure of Your Information
     * Advertisers
+    * Online Store
     * Cookies
     * Log Files
     * Clear Gifs
@@ -62,12 +63,15 @@ The ads appearing on this Web site are delivered to users by DoubleClick, our We
 
 This privacy statement covers the use of cookies by Briefing.com only and does not cover the use of cookies by any advertisers.
 
+**Online Store**  
+The information used for purchases on the Briefing.com Online Store is collected by a third party and used to process and fulfill orders. This information is securely stored and will not be made available to any other outside parties.
+
 **Cookies**  
-A cookie is a piece of data stored on the user's computer tied to information about the user. [Usage of a cookie is in no way linked to any personally identifiable information while on our site.] We use session ID cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. 
+A cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Use of Briefing.com's subscription services requires the use of persistent cookies. To activate persistent cookies, Briefing.com servers will forward a piece of information to the user's hard drive for storage. By allowing this cookie to be "set", users do not have to log in a password to Briefing.com more than once and their personal preferences will be saved, thereby making for a better site experience. 
 
-By setting a cookie on our site, users would not have to log in a password more than once, thereby saving time while on our site. If users reject the cookie, they may still use our site. 
+Users of Briefing.com's Free Services may reject the cookie and still continue to use the Free Services portion of the site.
 
-Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. 
+Also, some Briefing.com business partners make use of cookies on our site (for example, advertisers). However, Briefing.com has no access to or control over these cookies once permission has been given for them to be set. 
 
 **Log Files**  
 Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We use a tracking utility called WebTrends that uses log files to analyze user movement. 
