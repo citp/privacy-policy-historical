@@ -1,462 +1,681 @@
-<!--The following is the downloaded HTML source of the nelson.com privacy policy that was archived on 2003-08-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030810103739id_/http%3A//www.thomson.com/corp/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nelson.com privacy policy that was archived on 2004-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040602215117id_/http%3A//www.nelson.com/nelson/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-	<title>Thomson - Privacy Statement</title>
-    <link rel="stylesheet" type="text/css" href="/css/thomson_main.css">
-    <link rel="stylesheet" type="text/css" href="/css/thomson_corp.css">
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <script language="javascript" src="/js/layerdisplay.js"></script>
-    <script language="javascript">
-	function openwin(url, w, h, s) {
-			winstyle = 'top=50,left=50,width='+w+',height='+h;
-			if (s == 'scroll') {
-				winstyle = winstyle + ',scrollbars=yes';
-			}
-			window.open(url,'', winstyle);
-		}
-    function redirect(form)
-        {
-            newPage = form.options[form.selectedIndex].value;
-            if (newPage != "")
-                window.top.location.href = newPage;
-        }
-		
-	function clearForm(frm)
-	{
-		for (var i = 0; i < frm.elements.length; i++)
-		{
-			if (frm.elements[i].type=="text" || frm.elements[i].type=="textarea")
-				frm.elements[i].value = "";
-			if (frm.elements[i].type=="checkbox" || frm.elements[i].type=="radio")
-				frm.elements[i].checked = false;
-		}
-	}
-    
-    function changeImage()
-        {  
-        	if (document.images)
-        	{
-        		for (var i=0; i < changeImage.arguments.length; i+=2)
-        		{                
-    		        document[changeImage.arguments[i]].src = eval(changeImage.arguments[i+1] + ".src");
-        		}  
-        	}
-        }
-    
-    function changeNavImage()
-        {  
-        	if (document.images)
-        	{
-        		for (var i=0; i < changeNavImage.arguments.length; i+=2)
-        		{                         
-    		       document[changeNavImage.arguments[i]].src = navImgList[changeNavImage.arguments[i]].states[changeNavImage.arguments[i+1]].src;
-        		}  
-        	}
-        }
-        
-    function navImg(baseName)
-    {
-        this.states = new Array();
-        this.states["on"] = new Image(); this.states["on"].src = basePath + baseName + "_on.gif";
-        this.states["off"] = new Image(); this.states["off"].src = basePath + baseName + "_off.gif";
-        this.states["on_over"] = this.states["on"];
-        this.states["off_over"] = this.states["on"];
-    }
-    
-    var basePath;    
-    
-    // for the left nav and home page nav images    
-    var navImgList = new Array(); 
-    var navList;
-
-	// for the sector menu drop down
-	var dropdownState = "hide";
-	var timerID;
-	function toggleDropdown(state)
-	{
-		dropdownState = state;
-		if (state == "show")
-		{
-			changeImage('explore_thomson','explore_thomson_on');
-			timerID = setInterval(displayDropdown,1500);
-		} 
-		else if (state == "hide")
-			changeImage('explore_thomson','explore_thomson_off');
-	}
-	
-    function displayDropdown()
-    {
-        MM_showHideLayers('topNavDropdown','',dropdownState);
-		if (dropdownState == "hide")
-			clearInterval(timerID);
-    }
-	
-	basePath = "/images/topnav/dropdown_";
-    var dropdownImgList = new Array();     
-    dropdownList = ["thomson", "biz_info", "financial", "healthcare", "learning", "legal", "scientific", "tax"];
-    
-    for (var i = 0; i < dropdownList.length; i++)
-    {
-        dropdownImgList[dropdownList[i]] = new navImg(dropdownList[i]);
-    }
-    
-    
-    basePath = "/images/topnav/topnav_explore_thomson_";
-    explore_thomson_on = new Image(); explore_thomson_on.src = basePath + "on.gif";
-    explore_thomson_off = new Image(); explore_thomson_off.src = basePath + "off.gif";
-	
-    </script> 
+<html><head>
+<script language="JavaScript" src="http://www.nelson.com/nelson/common/scripts/nelson.js"></script>
+<script>browserdetect('nelson')</script>
+<title>Nelson, A Division of Thomson Canada Limited - Privacy Policy</title>
+<meta http-equiv="Content-Type" content="text/html;">
 </head>
 
-<body marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" bgcolor="#ffffff">
-<a name="top"></a>
-<table width="760" border="0" cellpadding="0" cellspacing="0">
-    <tbody><tr>
-        <td class="bg_navblue" colspan="3"><img src="/images/s.gif" width="760" height="5" alt="" border="0"></td>        
-    </tr>
-    <tr>
-		<td class="bg_9"><img src="/images/s.gif" width="174" height="1" alt="" border="0"></td>        
-		<td class="bg_9"><img src="/images/s.gif" width="1" height="1" alt="" border="0"></td>        
-        <td class="bg_navblue"><img src="/images/s.gif" width="586" height="1" alt="" border="0"></td>    </tr>
-    <tr>
-        <td class="bg_f" rowspan="2"><img src="/images/s.gif" width="1" height="16" alt="" border="0"></td>        
-		<td class="bg_9"><img src="/images/s.gif" width="1" height="15" alt="" border="0"></td>
-        <td class="bg_navblue">
-            <table width="585" border="0" cellpadding="0" cellspacing="0" class="bg_navblue">
-                <tbody><tr>
-                    <td width="14"><img src="/images/s.gif" width="14" height="1" alt="" border="0"></td>
-					
-<td width="48"><a href="/index.jsp"><img src="/images/topnav/topnav_home_off.gif" width="48" height="14" alt="Home" border="0"></a></td>
-<td width="65"><a href="/corp/about/ab_home.jsp"><img src="/images/topnav/topnav_aboutus_off.gif" width="65" height="14" alt="About Us" border="0"></a></td>
-<td width="75"><a href="/corp/pressroom/pr_home.jsp"><img src="/images/topnav/topnav_pressroom_off.gif" width="75" height="14" alt="Press Room" border="0"></a></td>
-<td width="112"><a href="/corp/investor_relations/ir_home.jsp"><img src="/images/topnav/topnav_ir_off.gif" width="112" height="14" alt="Investor Relations" border="0"></a></td>
-<td width="58"><a href="http://www.thomsoncareers.com"><img src="/images/topnav/topnav_careers_off.gif" width="58" height="14" alt="Careers" border="0"></a></td>
-<td width="72"><a href="/corp/contact_us/contact_us.jsp"><img src="/images/topnav/topnav_contactus_off.gif" width="72" height="14" alt="Contact Us" border="0"></a></td>					
-                    <td width="131" align="right" valign="top"><a href="/index.jsp" onmouseover="changeImage('explore_thomson','explore_thomson_on');toggleDropdown('show');MM_showHideLayers('topNavDropdown','','show');" onmouseout="toggleDropdown('hide');"><img src="/images/topnav/topnav_explore_thomson_off.gif" width="112" height="14" alt="Explore The Thomson Corporation" name="explore_thomson" border="0"></a></td>
-                    <td width="10"><img src="/images/s.gif" width="10" height="1" alt="" border="0"></td>                    
-                </tr>
-            </tbody></table>
-        </td>
-    </tr>
-    <tr>
-        <td class="bg_9" colspan="2"><img src="/images/s.gif" width="586" height="1" alt="" border="0"></td>
-    </tr>
-</tbody></table>
-<table width="760" border="0" cellpadding="0" cellspacing="0">
-    <form action="/search/executeSearchQuery.do" method="GET"></form>
-    <tbody><tr>
-        <td width="174"><a href="/index.jsp"><img src="/images/misc/logo_thomson.gif" width="174" height="45" alt="The Thomson Corporation" border="0"></a></td>
-        <td width="466" align="right" valign="middle"><input type="text" name="queryText" value="Search" onfocus="if(this.value=='Search')this.value='';"><img src="/images/s.gif" width="10" height="1" alt="" border="0"><input type="image" src="/images/buttons/bu_go.gif" width="16" height="14" alt="Go" align="absmiddle" border="0">
-           	<input type="hidden" name="section" value="corp">
-			<input type="hidden" name="subsection" value="null">
-            <input type="hidden" name="aboutUs" value="on">
-            <input type="hidden" name="legal" value="on">
-            <input type="hidden" name="pressRoom" value="on">
-            <input type="hidden" name="taxAndAccounting" value="on">
-            <input type="hidden" name="pressReleases" value="on">
-            <input type="hidden" name="bizInfoAndNews" value="on">
-            <input type="hidden" name="investorRelations" value="on">
-            <input type="hidden" name="learning" value="on">
-            <input type="hidden" name="financial" value="on">
-            <input type="hidden" name="healthcare" value="on">
-            <input type="hidden" name="scientific" value="on"></td>
-        <td width="120" valign="middle">
-            <img src="/images/s.gif" width="10" height="1" alt="" border="0"><a href="/search/advanced_search_corp.jsp">Advanced Search</a>
-        </td>
-    </tr>
-    
-</tbody></table>    
+<body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<script language="JavaScript1.2">
 
+function validate() {
+	if (document.Privacyform.Name.value == "") {
+		alert("Please enter your name.");
+		return (false);
+	} else if (document.Privacyform.Address.value == ""){
+		alert("Please enter your address.");
+		return (false);
+	} else if (document.Privacyform.Telephone.value == ""){
+		alert("Please enter your telephone number.");
+		return (false);
+	} else if (document.Privacyform.Method_Of_Contact.value == ""){
+		alert("Please enter your preferred method of contact.");
+		return (false);
+	} else if (document.Privacyform.Nature_Of_Inquiry.value == ""){
+		alert("Please enter the nature of your inquiry.");
+		return (false);
+	} 
 
-
-    
-
-<table width="760" border="0" cellpadding="0" cellspacing="0" class="bg_topnav">
-    <tbody><tr>
-        <td class="bg_9" colspan="2"><img src="/images/s.gif" width="760" height="1" alt="" border="0"></td>
-    </tr>
-    <tr>
-		
-		<td width="178"><img src="/images/s.gif" width="178" height="20" alt="" border="0"></td>
-		
-        <td width="582"><img src="/images/s.gif" width="582" height="1" alt="" border="0"></td>
-    </tr>
-    <tr>
-        <td class="bg_9" colspan="2"><img src="/images/s.gif" width="760" height="1" alt="" border="0"></td>
-    </tr>
-</tbody></table>
-
-
-
-
-<div id="topNavDropdown" class="topNavDropdown">
-<script language="javascript">
-    // preloading images for the dropdown    
-    function changeDropdownImage()
-    {  
-    	if (document.images)
-    	{
-    		for (var i=0; i < changeDropdownImage.arguments.length; i+=2)
-    		{                         
-		       document[changeDropdownImage.arguments[i]].src = dropdownImgList[changeDropdownImage.arguments[i]].states[changeDropdownImage.arguments[i+1]].src;
-    		}  
-    	}
-    }
+}
 </script>
-<table width="116" border="0" cellpadding="0" cellspacing="0" onmouseover="toggleDropdown('show');" onmouseout="toggleDropdown('hide');">
-	<tbody><tr>
-	    <td><a href="/index.jsp" onmouseover="toggleDropdown('show');changeDropdownImage('thomson','on');" onmouseout="changeDropdownImage('thomson','off');toggleDropdown('hide');"><img src="/images/topnav/dropdown_thomson_off.gif" width="116" height="11" alt="The Thomson Corporation" name="thomson" border="0"></a></td>
-	</tr>
-	<tr>
-	    <td><a href="/financial/financial.jsp" onmouseover="toggleDropdown('show');changeDropdownImage('financial','on');" onmouseout="changeDropdownImage('financial','off');toggleDropdown('hide');"><img src="/images/topnav/dropdown_financial_off.gif" width="116" height="11" alt="Financial" name="financial" border="0"></a></td>
-	</tr>
-	<tr>
-	    <td><a href="/healthcare/healthcare.jsp" onmouseover="toggleDropdown('show');changeDropdownImage('healthcare','on');" onmouseout="changeDropdownImage('healthcare','off');toggleDropdown('hide');"><img src="/images/topnav/dropdown_healthcare_off.gif" width="116" height="11" alt="Healthcare" name="healthcare" border="0"></a></td>
-	</tr>
-	<tr>
-	    <td><a href="/learning/learning.jsp" onmouseover="toggleDropdown('show');changeDropdownImage('learning','on');" onmouseout="changeDropdownImage('learning','off');toggleDropdown('hide');"><img src="/images/topnav/dropdown_learning_off.gif" width="116" height="11" alt="Learning" name="learning" border="0"></a></td>
-	</tr>				
-	<tr>
-	    <td><a href="/legal/legal.jsp" onmouseover="toggleDropdown('show');changeDropdownImage('legal','on');" onmouseout="changeDropdownImage('legal','off');toggleDropdown('hide');"><img src="/images/topnav/dropdown_legal_off.gif" width="116" height="11" alt="Legal" name="legal" border="0"></a></td>
-	</tr>                                
-	<tr>
-	    <td><a href="/bizinfo/bizinfo.jsp" onmouseover="toggleDropdown('show');changeDropdownImage('biz_info','on');" onmouseout="changeDropdownImage('biz_info','off');toggleDropdown('hide');"><img src="/images/topnav/dropdown_biz_info_off.gif" width="116" height="11" alt="News and Business Info" name="biz_info" border="0"></a></td>
-	</tr>
-	<tr>
-	    <td><a href="/scientific/scientific.jsp" onmouseover="toggleDropdown('show');changeDropdownImage('scientific','on');" onmouseout="changeDropdownImage('scientific','off');toggleDropdown('hide');"><img src="/images/topnav/dropdown_scientific_off.gif" width="116" height="11" alt="Scientific" name="scientific" border="0"></a></td>
-	</tr>
-	<tr>
-		<td><a href="/taxacct/taxacct.jsp" onmouseover="toggleDropdown('show');changeDropdownImage('tax','on');" onmouseout="changeDropdownImage('tax','off');toggleDropdown('hide');"><img src="/images/topnav/dropdown_tax_off.gif" width="116" height="11" alt="Tax and Accounting" name="tax" border="0"></a></td>
-	</tr>
-	<tr>
-		<td class="bg_9"><img src="/images/s.gif" width="116" height="1" alt="" border="0"></td>
-	</tr>
+
+<!-- Tables are for the top content starts here-->
+<!-- Tables are for the top content ends here-->
+
+<!-- Main content area starts -->
+<table width="549" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr align="left" valign="top"> 
+    <td rowspan="2">
+		
+      <!--This is where the left menu starts -->
+      <img height="6" alt="" src="http://www.nelson.com/nelson/common/images/spacer.gif" width="50" border="0">
+      <!--This is where the left menu ends-->
+    </td>
+    <!-- Spacer between top nav bar and main graphic starts -->
+    <td>
+	<img src="http://www.nelson.com/nelson/common/images/spacer.gif" width="1" height="12" border="0">
+    </td>
+    <!-- Spacer between top nav bar and main graphic ends -->
+	
+	<!-- This is where any special events can be placed starts here -->
+    <td rowspan="2">
+	  <div align="right"><img src="http://www.nelson.com/nelson/common/images/spacer.gif" width="50" height="12" border="0"></div></td>
+    <!-- This is where any special events can be placed ends here -->
+	
+  </tr>
+  
+  <!-- Main image area begins here -->
+  <tr align="left" valign="top"> 
+    <td><h2 align="center">Nelson /<br>
+        A Division of Thomson Canada Limited</h2>
+      <h2 align="center">Nelson Privacy Code</h2>
+      <h3>Scope And Application Of The Nelson Privacy Code:</h3>
+      <p>The scope and application of the Nelson Privacy Code are as follows: </p>
+      <p>The Nelson Privacy Code applies to Personal Information about Nelson
+        Employees and non-employee Persons who interact with Nelson that is collected,
+        used or disclosed by Nelson.</p>
+      <ul>
+        <li>Employees in this context includes past and present employees
+        and independent contractors of Nelson.</li>
+        <li>          Non-employee Persons in this context includes Individuals
+          who are viewers, readers, subscribers, advertisers, contest participants,
+              job applicants,
+            Internet users who are exposed to the media content of Nelson or
+        a Nelson Company and about whom Nelson collects Personal Information.</li>
+      </ul>
+      <p>The Nelson Privacy Code applies to the management of Personal Information
+          in any form whether oral, electronic or written. Nelson reserves the
+        right to amend this Nelson Privacy Code from time to time.</p>
+      <p>The application
+          of the Nelson Privacy Code is subject to the requirements or provisions
+          of any applicable legislation, regulations or agreements
+          (such as collective agreements), or the order of any court or other
+        lawful authority.</p>
+      <p><u><strong>Exclusions from privacy protection:</strong></u> The Nelson
+        Privacy Code does not impose any limits on the collection, use or disclosure
+        of the following
+        information by a Nelson Company: a) information that is publicly available,
+        such as a Person’s name, address, telephone number and electronic
+        address, when listed in a directory or made available through directory
+        assistance; b) business-contact information, such as the name, title
+        or business address or telephone number of an employee of an organization;
+        c) information collected, used or disclosed in the course of journalistic,
+        literary or artistic activities; or d) aggregate information that cannot
+        be associated with a specific person, such as demographic statistics
+        about Nelson customers, or number of visitors and average time spent
+        on a website.</p>
+      <h3>Purposes for Collection of Personal Information:</h3>
+      <p>Nelson has collected and collects Personal Information for the following
+        purposes: a) to establish and maintain responsible commercial relations
+        with Individuals and to provide ongoing service; b) to understand Individual
+        needs; c) to develop, enhance, market or provide products and services;
+        d) to manage and develop its business and operations, including personnel
+        and employment matters; and e) to meet legal or regulatory requirements,
+        including to protect or defend a legal interest, and in connection with
+        an actual or possible Nelson corporate re-organization, merger or amalgamation
+        with another entity, or an actual or possible sale of all or a substantial
+        portion of the assets of Nelson, provided that the Personal Information
+        disclosed continues to be used by the entity acquiring the information
+        either for evaluation of the possible transaction, or, on completion
+      of any such transaction, for the purposes permitted by this Privacy Policy.</p>
+      <p>As examples of the above:</p>
+      <blockquote>
+        <p>i)	Nelson may from time to time use a Person’s Personal Information
+            to contact the Person about changes, enhancements or similar notices
+            related to Nelson Companies products and services; </p>
+        <p>ii) if a Person indicated that he/she was interested in receiving offers
+          or information from Nelson or one or more Nelson Companies or certain
+          of our selected sponsors or advertisers, Nelson may send the Person materials
+          about products and services that Nelson feels may be of interest to the
+          Person; and</p>
+        <p>iii) if a Person enters a contest or other promotion offered on a
+          Nelson Companies website, Nelson may, under the rules of the promotion,
+          use
+            the Person’s name and certain other information to administer
+            the promotion, such as contacting, announcing and promoting the winners
+            of
+        the promotion.</p>
+      </blockquote>
+      <h3>Obtaining Consent:</h3>
+      <p>Nelson will make a reasonable effort to make sure Persons understand
+        how their Personal Information will be used by Nelson. Nelson will obtain
+        consent from Persons before or when it collects or uses the Personal
+        Information. Nelson will not attempt to deceive Persons into giving consent. </p>
+      <p>A Person’s consent can be express, implied, or given through an
+        authorized representative. A Person can withdraw consent at any time,
+        with certain exceptions noted herein. Nelson, however, may collect, use
+        or disclose Personal Information without the Person’s knowledge
+        or consent in exceptional circumstances where such collection, use or
+        disclosure is permitted or as required by law. </p>
+      <blockquote>
+        <p>Note: If any Person at any time has any questions or concerns about
+          Nelson’s privacy practices, the Person can either:<br>
+          i) write to Customer Service – Privacy, Nelson Thomson Learning,
+          1120 Birchmount Road, Toronto, ON, M1K 5G4; or<br>
+          ii) provide information to Nelson through the <a href="#privacyform">form
+          on its Internet Privacy page</a>.</p>
+      </blockquote>
+      <h3>        Refusing or withdrawing Consent:</h3>
+      <p>Subject to legal and contractual requirements, a Person can refuse to
+        consent to Nelson’s collection, use or disclosure of Personal Information
+        about the Person, or a Person may withdraw the Person’s consent
+        to Nelson’s further collection, use or disclosure of Personal Information
+        at any time in the future by giving Nelson reasonable notice, unless:
+        i) the consent relates to certain information required for credit approval
+        which a Person applies for or accepts, ii) the consent is otherwise required
+        by law or iii) the use or disclosure is permitted by law or is related
+        to the legal or regulatory requirements described herein. If a Person
+        refuses or withdraws the Person’s consent, Nelson may not be able
+        to provide the Person or continue to provide the Person with some products,
+        services or information which may be of value to the Person.</p>
+      <h3>        Internet Aspects:</h3>
+      <p>Personal Information may be collected when a user conducts activities
+        on or related to all websites of Nelson Companies (“Nelson Companies
+        Sites”) or related to services made available on the Nelson Companies
+        Sites (“Nelson Companies Services”). Although information
+        collected, used or disclosed on the Internet as described below often
+        does not constitute Personal Information (and to the extent that such
+        is the case, then the obligations under the Nelson Privacy Code do not
+        extend to such information), Nelson provides the details below about
+        Internet aspects of Nelson Companies Services for the purposes of disclosure
+        about Nelson Companies Services.</p>
+      <p><u>        Internet Protocol Address (IP Address)</u><br>
+        When the user’s web browser requests a web page from another computer
+        on the Internet, it automatically gives that computer the address where
+        it should send the information. This address is called the computer's "IP
+        address." For most users accessing the Internet from a dial-up Internet
+        service provider (ISP), the IP address will be different every time the
+        user logs on.</p>
+      <p>Nelson Companies may use the user’s IP Address to:</p>
+      <ul>
+        <li> facilitate the diagnosis and remedy of a technical problem reported
+          by the user’s or Nelson Company’s technical team.</li>
+        <li> display (or allow the display by Third Party advertising providers
+          of) more appropriate and relevant content and advertising, such as
+          content and advertising based on the user’s geographic area.</li>
+        <li> estimate user traffic from specific countries or organizations.
+              Many IP addresses are commonly associated with Internet service
+              providers,
+            universities, or major corporations in specific regions or localities.
+            Aggregate information derived from IP addresses may also be reported
+            to advertisers.</li>
+      </ul>
+      <p><u>Cookies</u><br>
+        A cookie is a small text file, which often includes an anonymous unique
+          identifier, that is sent to the user’s web browser from a web
+          site's computers and is stored on the user’s computer's hard
+          drive. Cookies cannot be used to run programs or deliver viruses to
+          a user’s computer.</p>
+      <p>Nelson Companies may use cookies to:</p>
+      <ul>
+        <li> improve the operation and performance of the Nelson Companies Services
+          and to make Nelson Companies Services easier and more convenient to
+          use. For example, cookies help Nelson Companies provide more personalized
+          services by recalling user preferences on subsequent visits (e.g. language
+          preference). Cookies also allow Nelson Companies to save passwords
+          and
+          preferences for a user so that the user will not have to re-enter them
+          on the next visit to a Nelson Companies Site;</li>
+        <li> measure aggregate user traffic and demographic statistics related
+            to Nelson Companies Services and advertisements (e.g. number of users,
+            average time spent, average age and similar statistics). This information
+            helps Nelson Companies to better understand when to update, change
+          or offer new services and provides Nelson Companies with details as
+          to the
+            performance of Third Party advertisements and content. This information
+            may be reported, in aggregate form only, to Nelson Companies’ current
+            and prospective sponsors, advertisers and business partners. No Personal
+            Information will be disclosed in such reports;</li>
+        <li>display advertisements. Nelson Companies and Third Party advertising
+            providers may use cookies when serving advertisements on Nelson Companies
+            Sites. In some cases, advertisements from Third Party advertisers
+          are delivered to users (in conjunction with Nelson Companies Services)
+          by
+            such Third Party advertisers, or by separately contracted advertising
+            providers on their behalf, and not by Nelson Companies; as such,
+          the Third-party advertisers' use of cookies is subject to their own
+          privacy
+            policies, not the Nelson Privacy Code, and users should consult the
+          privacy policies of such Third Party advertisers.</li>
+      </ul>
+      <p>Most browsers are initially set up to accept cookies. If a user prefers,
+        the user can reset his/her browser either to notify the user when the
+        user has received a cookie, or to refuse to accept cookies. The user
+        should understand that while Nelson Companies do not require a user to
+        use cookies, certain Nelson Companies Services will not function properly
+        if a user sets his/her browser to not accept cookies.</p>
+      <p><u>Web Beacons</u><br>
+        Certain Nelson Companies Services may contain electronic images known
+          as Web beacons – sometimes called single-pixel gifs – that
+          allow Nelson Companies to count users who have visited those pages
+          and to deliver co-branded services. Web beacons are not used to access
+          Personal Information; they are a technique used to compile aggregated
+          statistics about Nelson Companies service usage. Web beacons collect
+          only a limited set of information including a cookie number, time and
+          date of a page view, and a description of the page on which the Web
+          beacon resides. Certain Nelson Companies Services web pages may also
+          contain Web beacons placed there by Nelson Companies’ advertising
+          partners to help Nelson Companies determine the effectiveness of Nelson
+          Companies’ Internet advertising campaigns.</p>
+      <p><u>Links To Other Sites And Advertisements</u><br>
+        A Nelson Companies Service may contain links to other websites and services.
+          While Nelson Companies try to link only to sites and services that
+          share Nelson Companies’ high standards and respect for privacy,
+          a user should understand that Nelson Companies are not responsible
+          for the content of, or the privacy practices employed by, other companies
+          or websites. This Nelson Privacy Code applies only to the Nelson Companies
+        Services related to this Nelson Privacy Code.</p>
+      <p> <u>Additional Information</u><br>
+        Nelson Companies automatically collect certain information about the
+        user’s computer hardware and software. This information may include:
+        browser type, operating system type, domain names, access times and referring
+        Web site addresses. This information is used by Nelson Companies to operate
+        the service, to maintain the quality of the service, and to provide general
+        statistics regarding use of the Nelson Companies Sites.<br>
+        Certain Nelson Companies Services may be co-branded and offered in conjunction
+        with another company. If a user registers for or uses such services,
+        both Nelson Companies and the other company may receive information collected
+        in conjunction with the co-branded services. </p>
+      <h2>The Nelson Privacy Code in Detail</h2>
+      <h3>          Definitions </h3>
+      <p><strong>Nelson Companies</strong> – all companies providing services under the
+        brands of Nelson Thomson Learning, Thomson Canada Limited or The Thomson
+        Corporation, and their subsidiaries, and any successor company or companies
+        thereof, as a result of corporate reorganization or restructuring.</p>
+      <p><strong>Collection</strong> - the act of gathering, acquiring, recording or obtaining
+        Personal Information from any source, including third parties, by any
+        means.</p>
+      <p><strong>Consent</strong> - voluntary agreement with the collection, use and disclosure
+        of Personal Information for defined purposes. Consent can be either express
+        or implied and can be provided directly by the Person or by an authorized
+        representative. Express consent can be given orally, electronically or
+        in writing but is always unequivocal and does not require any inference
+        on the part of Nelson. Implied consent is consent that can reasonably
+        be inferred from a Person’s action or inaction.</p>
+      <p><strong>Disclosure</strong> - making Personal Information available to a Third Party.</p>
+      <p><strong>Employee</strong> - an employee or independent contractor (including
+        freelancers)<sup><a href="#1">1</a></sup> of Nelson.</p>
+      <p><strong>Individual</strong> - an individual other than an Employee who <strong>(a)</strong> corresponds
+        with Nelson, including complaints and including applications for employment;
+        <strong>(b)</strong> enters an contest sponsored by Nelson; or <strong>(c)</strong> uses, or applies to
+        use, the products or services of Nelson.</p>
+      <p><strong>Person</strong> – an Employee or an Individual.</p>
+      <p><strong>Personal Information</strong> - information about an identifiable Person, but
+        not: a) information that is publicly available, such as a Person’s
+        name, address, telephone number and electronic address, when listed in
+        a directory or made available through directory assistance; b) business-contact
+        information, such as the name, title or business address or telephone
+        number of an employee of an organization; c) information collected, used
+        or disclosed in the course of journalistic, literary or artistic activities;
+        or d) aggregate information that cannot be associated with a specific
+        person, such as demographic statistics about Nelson customers, or number
+        of visitors and average time spent on a website.</p>
+      <p><strong>Third Party</strong> – a person other than the Person or his agent, or
+        an organization other than a Nelson Company.</p>
+      <p><strong>Use</strong> - the treatment, handling, and management of Personal Information
+        by the Nelson Companies.</p>
+      <h3>        Principle 1 - Accountability </h3>
+      <p>Nelson is responsible for Personal Information under its control and
+        shall designate one or more persons who are accountable for Nelson’s
+        compliance with the following principles.</p>
+      <p>1.1 Responsibility for ensuring compliance with the provisions of the
+        Nelson Privacy Code rests with the senior management of Nelson, which
+        shall designate one or more persons to be accountable for compliance
+        with the Nelson Privacy Code. Other people within Nelson Companies may
+        be delegated to act on behalf of the designated person(s) or to take
+        responsibility for the day-to- day collection and processing of Personal
+        Information.</p>
+      <p>1.2 Nelson has designated a Chief Privacy Officer to oversee compliance
+        with the Nelson Privacy Code. The Chief Privacy Officer can be contacted
+        at Chief Privacy Officer, 1120 Birchmount Road, Toronto, Ontario, M1K
+        5G4.</p>
+      <p>1.3 Nelson is responsible for Personal Information in its possession
+        or control, including information that has been transferred to a Third
+        Party for processing. Nelson shall use appropriate means to provide a
+        comparable level of protection while information is being processed by
+        a Third Party (see Principle 7).</p>
+      <p>1.4 Nelson has implemented policies and procedures to give effect to
+        the Nelson Privacy Code, including: a) implementing procedures to protect
+        Personal Information and to oversee Nelson’s compliance with the
+        Nelson Privacy Code; b) establishing procedures to receive and respond
+        to inquiries or complaints; c) training and communicating to staff about
+        Nelson’s policies and practices; and d) developing public information
+        to explain Nelson’s policies and practices.</p>
+      <h3>Principle 2 - Identifying Purposes for Collection of Personal Information </h3>
+      <p><em>Nelson has collected and collects Personal Information for the purposes
+        set out below, and shall identify the purposes for which Personal Information
+        is collected at or before the time the information is collected.</em></p>
+      <p>2.1 Nelson has collected and collects Personal Information for the following
+        purposes: a) to establish and maintain responsible commercial relations
+        with Individuals and to provide ongoing service; b) to understand Individual
+        needs; c) to develop, enhance, market or provide products and services;
+        d) to manage and develop its business and operations, including personnel
+        and employment matters; and e) to meet legal or regulatory requirements,
+        including to protect or defend a legal interest, and in connection with
+        an actual or possible Nelson corporate re-organization, merger or amalgamation
+        with another entity, or an actual or possible sale of all or a substantial
+        portion of the assets of Nelson, provided that the Personal Information
+        disclosed continues to be used by the entity acquiring the information
+        either for evaluation of the possible transaction, or, on completion
+        of any such transaction, for the purposes permitted by this Privacy Policy.</p>
+      <p>As examples of the above:</p>
+      <blockquote>
+        <p>i)	Nelson may from time to time use a Person’s Personal Information
+                  to contact the Person about changes, enhancements or similar
+          notices related to Nelson Companies products and services; </p>
+        <p>ii) if a Person indicated that he/she was interested in receiving
+            offers or information from Nelson or one or more Nelson Companies or
+            certain
+              of our selected sponsors or advertisers, Nelson may send the Person
+            materials about products and services that Nelson feels may be of interest
+            to the
+              Person; and</p>
+        <p>iii) if a Person enters a contest or other promotion offered on a
+                Nelson Companies website, Nelson may, under the rules of the
+          promotion, use
+                  the Person’s name and certain other information to administer
+                  the promotion, such as contacting, announcing and promoting
+                  the winners of
+                  the promotion.</p>
+      </blockquote>
+      <p>Further references to “identified purposes” mean the purposes
+        identified in this Principle 2.</p>
+      <p>2.2 Nelson shall specify orally, electronically or in writing the identified
+        purposes to the Person at or before the time Personal Information is
+        collected. Upon request, persons collecting Personal Information shall
+        explain these identified purposes or refer the Person to a designated
+        person within Nelson who shall explain the purposes.</p>
+      <p>2.3 Unless required by law, Nelson shall not use or disclose, for any
+        new purpose, Personal Information that has been collected without first
+        identifying the new purpose and obtaining the consent of the Person.</p>
+      <h3>Principle 3 - Obtaining Consent for Collection, Use or Disclosure of
+        Personal Information </h3>
+      <p><em>The knowledge and consent of a Person are required for the collection,
+        use or disclosure of Personal Information, except where inappropriate.</em></p>
+      <p>3.1 Generally, Nelson shall seek consent to use and disclose Personal
+        Information at the same time it collects the information. However, Nelson
+        may seek consent to use and disclose Personal Information after it has
+        been collected but before it is used or disclosed for a new purpose.</p>
+      <p>3.2 In obtaining consent, Nelson shall use reasonable efforts to ensure
+        that a Person is advised of the identified purposes for which Personal
+        Information will be used or disclosed. Purposes shall be stated in a
+        manner that can be reasonably understood by the Person.</p>
+      <p>3.3 Nelson will require Individuals to consent to the collection, use
+        or disclosure of Personal Information as a condition of the supply of
+        a product or service only if such collection, use or disclosure is required
+        to fulfill the identified purposes.</p>
+      <p>3.4 In determining the appropriate form of consent, Nelson shall take
+        into account the sensitivity of the Personal Information and the reasonable
+        expectations of the Persons.</p>
+      <p>3.5 In general, the use of products and services by an Individual, or
+        the acceptance of employment or benefits by an Employee, constitutes
+        implied consent for Nelson to collect, use and disclose Personal Information
+        for all identified purposes.</p>
+      <p>3.6 An Individual may withdraw consent at any time, subject to legal
+        or contractual restrictions and reasonable notice. Individuals may contact
+        Nelson for more information regarding the implications of withdrawing
+        consent.</p>
+      <p>3.7 In certain circumstances Personal Information can be collected,
+        used or disclosed without the knowledge and consent of the Person. For
+        example, Nelson may collect or use Personal Information without knowledge
+        or consent if it is clearly in the interests of the Person and consent
+        cannot be obtained in a timely way, such as when the Person is a minor,
+        seriously ill or mentally incapacitated.</p>
+      <p>Nelson may also collect, use or disclose Personal Information without
+        knowledge or consent if seeking the consent of the Person might defeat
+        the purpose of collecting the information such as in the investigation
+        of a breach of an agreement or a contravention of a federal or provincial
+        law.</p>
+      <p>Nelson may also use or disclose Personal Information without knowledge
+        or consent in the case of an emergency where the life, health or security
+        of an individual or property is threatened.</p>
+      <p>Nelson may disclose Personal Information without knowledge or consent
+        to collect a debt, to comply with a subpoena, warrant or other court
+        order, or as may be otherwise related to the legal or regulatory requirements
+        described herein.</p>
+      <h3>Principle 4 - Limiting Collection of Personal Information </h3>
+      <p><em>Nelson shall limit the collection of Personal Information to that which
+        is necessary for the purposes identified by Nelson.</em></p>
+      <p><em>Nelson shall collect Personal Information by fair and lawful means.</em></p>
+      <p>4.1 Nelson collects Personal Information primarily from Individuals
+        or its Employees.</p>
+      <p>4.2 Nelson may also collect Personal Information from other sources
+        including credit bureaus, employers or personal references, or other
+        third parties that represent that they have the right to disclose the
+        information.</p>
+      <h3>Principle 5 - Limiting Use, Disclosure and Retention of Personal Information </h3>
+      <p><em>Nelson shall not use or disclose Personal Information for purposes other
+        than those for which it was collected, except with the consent of the
+        Person or as required by law. Nelson shall retain Personal Information
+        only as long as necessary for the fulfillment of the purposes for which
+        it was collected.</em></p>
+      <p>5.1 In certain circumstances Personal Information can be collected,
+        used or disclosed without the knowledge and consent of the Person. (See
+        Principle 3.7) </p>
+      <p>5.2 In addition, Nelson may disclose a Person’s Personal Information
+        to: a) another person for the development, enhancement, marketing or
+        provision of any of the products or services of Nelson; b) a person who,
+        in the reasonable judgment of the Nelson Companies, is seeking the information
+        as an agent of the Person; c) any Nelson Companies to permit the provision
+        of services requested by the Person, and d) a Third Party or Third Parties,
+        where the Person consents to such disclosure or disclosure is required
+        by law.</p>
+      <p>5.3 Nelson may disclose Personal Information about its employees: a)
+        for normal personnel and benefits administration; b) in the context of
+        providing references regarding current or former employees in response
+        to requests from prospective employers; or c) where disclosure is required
+        by law.</p>
+      <p>5.4 Only those Employees of Nelson who require access for business reasons,
+        or whose duties reasonably so require, or properly designated representatives
+        of Nelson, are granted access to Personal Information about Individuals
+        and Employees.</p>
+      <p>5.5 Nelson shall keep Personal Information only as long as it remains
+        necessary or relevant for the identified purposes or as required by law.
+        Depending on the circumstances, where Personal Information has been used
+        to make a decision about a Person, Nelson shall retain, for a period
+        of time that is reasonably sufficient to allow for access by the Person,
+        either the actual information or the rationale for making the decision.</p>
+      <p>5.6 Nelson shall maintain reasonable and systematic controls, schedules
+        and practices for information and records retention and destruction which
+        apply to Personal Information that is no longer necessary or relevant
+        for the identified purposes or required by law to be retained. Such information
+        shall be destroyed, erased or made anonymous.</p>
+      <h3>Principle 6 - Accuracy of Personal Information </h3>
+      <em>Personal Information shall be as accurate, complete and up-to-date as
+        is necessary for the purposes for which it is to be used.</em>      <p>6.1 Personal Information used by Nelson shall be sufficiently accurate,
+        complete and up-to-date to minimize the possibility that inappropriate
+        information may be used to make a decision about a Person.</p>
+      <p>6.2 Nelson shall update Personal Information about Persons as and when
+        necessary to fulfill the identified purposes or upon notification by
+        the Person.</p>
+      <h3>Principle 7 - Security Safeguards </h3>
+      <p><em>Nelson shall protect Personal Information by security safeguards appropriate
+        to the sensitivity of the information.</em></p>
+      <p>7.1 Nelson shall protect Personal Information against such risks as
+        loss or theft, unauthorized access, disclosure, copying, use, modification
+        or destruction, through appropriate security measures. Nelson shall protect
+        the information regardless of the format in which it is held.</p>
+      <p>7.2 Nelson shall protect Personal Information disclosed to third parties
+        by contractual agreements stipulating the confidentiality of the information
+        and the purposes for which it is to be used.</p>
+      <p>7.3 All employees of Nelson with access to Personal Information shall
+        be required as a condition of employment to respect the confidentiality
+        of Personal Information.</p>
+      <h3>Principle 8 - Openness Concerning Policies and Practices </h3>
+      <p><em>Nelson shall make readily available to Persons specific information
+        about its policies and practices relating to the management of Personal
+        Information.</em></p>
+      <p>8.1 Nelson shall make information about its policies and practices easy
+        to understand, including: a) The title and address of the person or persons
+        accountable for the compliance with the Nelson Privacy Code and to whom
+        inquiries or complaints can be forwarded; b) The means of gaining access
+        to Personal Information held by Nelson; and c) A description of the type
+        of Personal Information held by Nelson, including a general account of
+        its use.</p>
+      <p>8.2 Nelson shall make available information to help Persons exercise
+        choices regarding the use of their Personal Information.</p>
+      <h3>Principle 9 - Access to Personal Information </h3>
+      <p><em>Nelson shall inform a Person of the existence, use and disclosure of
+        his or her Personal Information upon request and shall give the Person
+        access to that information.</em></p>
+      <p>A Person shall be able to challenge the accuracy and completeness of
+        the Personal Information and have it amended as appropriate.</p>
+      <p>9.1 Upon request, Nelson shall afford to a Person a reasonable opportunity
+        to review the Personal Information in the Person’s file. Personal
+        Information shall be provided in understandable form within a reasonable
+        time and at minimal or no cost to the Person.</p>
+      <p>9.2 In certain situations, Nelson may not be able to provide access
+        to all of the Personal Information that they hold about a Person. For
+        example, Nelson may not provide access to information if doing so would
+        likely reveal Personal Information about a Third Party or could reasonably
+        be expected to threaten the life or security of another person. Also,
+        Nelson may not provide access to information if disclosure would reveal
+        confidential commercial information, if the information is protected
+        by solicitor-client privilege, if the information was generated in the
+        course of a formal dispute resolution process, or if the information
+        was collected in relation to the investigation of a breach of an agreement
+        or a contravention of a federal or provincial law, or if the information
+        was collected as part of journalistic, literary or artistic activities.
+        If access to Personal Information cannot be provided, Nelson shall provide
+        the reasons for denying access upon request.</p>
+      <p>9.3 Upon request, Nelson shall provide an account of the use and disclosure
+        of Personal Information and, where reasonably possible, shall state the
+        source of the information. In providing an account of disclosure, Nelson
+        shall provide a list of organizations to which it may have disclosed
+        Personal Information about the individual when it is not possible to
+        provide an actual list.</p>
+      <p>9.3 In order to safeguard Personal Information, an individual or employee
+        may be required to provide sufficient identification information to permit
+        Nelson to account for the existence, use and disclosure of Personal Information
+        and to authorize access to the individual’s file. Any such information
+        shall be used only for this purpose.</p>
+      <p>9.4 Nelson shall promptly correct or complete any Personal Information
+        found to be inaccurate or incomplete. Any unresolved differences as to
+        accuracy or completeness shall be noted in the Person’s file. Where
+        appropriate, Nelson shall transmit to third parties having access to
+        the Personal Information in question any amended information or the existence
+        of any unresolved differences.</p>
+      <p>9.5 A Person can obtain information or seek access to his or her Personal
+        Information by contacting a designated representative at Nelson principal
+        office.</p>
+      <p>9.6 An employee can obtain information or seek access to his or her
+        Personal Information by contacting his or her immediate supervisor within
+        Nelson.</p>
+      <h3>Principle 10 - Challenging Compliance </h3>
+      <p><em>A Person shall be able to address a challenge concerning compliance
+        with the above principles to the designated person or persons accountable
+        for the compliance of Nelson with the Nelson Privacy Code.</em></p>
+      <p>10.1 Nelson shall maintain procedures for addressing and responding
+        to all inquiries or complaints from Persons about Nelson’s handling
+        of their Personal Information. If any Person at any time has any questions
+        or concerns about Nelson’s privacy practices, the Person can either:</p>
+      <blockquote>
+        <p> i) write to Customer Service – Privacy, Nelson Thomson Learning,
+          1120 Birchmount Road, Toronto, ON, M1K 5G4; or<br>
+          ii) provide information to Nelson through <a href="#privacyform">the
+          form on its Internet Privacy page</a>.</p>
+      </blockquote>
+      <p>10.2 Nelson shall inform Persons about the existence of these procedures
+        as well as the availability of complaint procedures.</p>
+      <p>10.3 The person or persons accountable for compliance with the Nelson
+        Privacy Code may seek external advice where appropriate before providing
+        a final response to individual complaints.</p>
+      <p>10.4 Nelson shall investigate all complaints concerning compliance with
+        the Nelson Privacy Code. If a complaint is found to be justified, Nelson
+        shall take appropriate measures to resolve the complaint including, if
+        necessary, amending its policies and procedures. A Person shall be informed
+        of the outcome of the investigation regarding his or her complaint.</p>
+      <p><sup><a name="1"></a><em><font size="-2">1</font></em></sup><font size="-2"><em>The
+            inclusion of independent contractors, including freelancers, within
+            the definition of “Employee” is
+          for convenience of reference only, and does in no manner imply that
+          such individuals are employees
+        of the company within the meaning of employment legislation or are in
+      an employee-employer relationship with the company.</em></font></p>
+      <p><strong><em>Most recently amended January 1, 2004.</em></strong></p>
+      <p><a name="privacyform"></a>
+	  </p><form action="/cgi-bin/dumpform.cgi" method="post" name="Privacyform">
+        <p>
+          <input name="log-action" type="hidden" value="mail">
+          <input name="log-mailto" type="hidden" value="privacyhr@nelson.com">
+          <input name="subject" type="hidden" value="Privacy Inquiry">
+          <input type="hidden" name="from-var" value="Email">
+          <input type="hidden" name="thankyou" value="http://www.nelson.com/nelson/privacythanks.html">
+        </p>
+        <h3>Privacy Inquiry</h3>
+        <p>Please send us your privacy inquiry using the form below. All fields
+        marked with <font color="#FF0000">*</font> are mandatory except for e-mail.</p>
+        <p><font color="#FF0000">*</font>Name<br>
+          <input name="Name" type="text" id="Name" size="20" maxlength="50">
+      </p>
+        <p><font color="#FF0000">*</font>Address<br>
+          <input name="Address" type="text" id="Address" size="40" maxlength="100">
+        </p>
+        <p><font color="#FF0000">*</font>Telephone<br>
+          <input name="Telephone" type="text" id="Telephone" size="20" maxlength="30">
+        </p>
+        <p>E-Mail<br>
+          <input name="Email" type="text" id="Email" size="20" maxlength="50">
+        </p>
+        <p><font color="#FF0000">*</font>Preferred method of contact. If phone, please indicate the best time
+        to call.<br>
+          <input name="Method_Of_Contact" type="text" id="Method_Of_Contact" size="20" maxlength="100">
+        </p>
+        <p><font color="#FF0000">*</font>Nature of Inquiry<br>
+          <textarea name="Nature_Of_Inquiry" cols="40" rows="5" id="Nature_Of_Inquiry"></textarea>
+        </p>
+        <p>
+          <input type="submit" name="Submit" value="Send Privacy Inquiry" onclick="return validate()">
+          <input name="Reset" type="reset" id="Reset" value="Reset">
+        </p>
+        <p><strong>You will be returned to the nelson.com home page.</strong></p>
+      </form><p></p>
+    </td>
+  </tr>
+  <!-- Main image area ends here -->
+  
+  <tr align="left" valign="top">
+    <td colspan="3"><div align="center"><br>
+        <a href="http://www.nelson.com" class="footer">Home</a> | <a href="http://www.nelson.com/nelson/privacy.html" onclick="CustomWin(this.href,'name','600','400','yes','yes','yes','no','yes');return false;" class="footer">Privacy
+Policy</a> | <a href="http://www.thomson.com/corp/copyright.jsp" onclick="NewWindow(this.href,'name','600','400','yes');return false;" class="footer">Copyright</a>
+<span class="footer">&amp;</span> <a href="http://www.thomson.com/corp/terms.jsp" onclick="NewWindow(this.href,'name','600','400','yes');return false;" class="footer">Terms</a> | <a href="http://www.thomsonlearning.com" onclick="NewWindow(this.href,'name','600','400','yes');return false;" class="footer">Thomson
+Learning</a>
+    </div></td>
+  </tr>
 </tbody></table>
+<!-- Main content area ends -->
 
-</div>
+<!-- Omniture Code Starts -->
 
-
-<table border="0" cellpadding="0" cellspacing="0" width="760">
-    <tbody><tr>
-        
-        <td width="10"><img src="/images/s.gif" width="10" height="1" alt="" border="0"></td>
-        <td width="164" valign="top">
-            <img src="/images/s.gif" width="1" height="8" alt="" border="0"><br>
-            
-
-
-
-    
-
-<script language="javascript">
-    // the variable declarations for nav_list and navImg() are in /includes/header.jsp
-    // preloading images for the navbar images
-    navList = ["about_us", "pressroom", "investor_relations", "careers", "contact_us"];
-    basePath = "/images/sections/corp/leftnav_cp_";
-    for (var i = 0; i < navList.length; i++)
-    {
-        navImgList[navList[i]] = new navImg(navList[i]);
-    }
-</script>
-<table width="164" border="0" cellpadding="0" cellspacing="0">
-    <tbody><tr>
-        <td class="bg_9"><img src="/images/s.gif" width="163" height="1" alt="" border="0"></td>
-        <td class="bg_9" rowspan="100"><img src="/images/s.gif" width="1" height="1" alt="" border="0"></td>
-    </tr>
-
-    
-	
-    <tr>
-        <td><a href="/corp/about/ab_home.jsp" onmouseover="changeNavImage('about_us', 'off_over');" onmouseout="changeNavImage('about_us', 'off');"><img src="/images/sections/corp/leftnav_cp_about_us_off.gif" name="about_us" width="163" height="15" alt="About Us" border="0"></a></td>
-    </tr>
-    <tr>
-        <td class="bg_9"><img src="/images/s.gif" width="163" height="1" alt="" border="0"></td>
-    </tr>
-
-			
-    
-    
-	
-    <tr>		
-        <td><a href="/corp/pressroom/pr_home.jsp" onmouseover="changeNavImage('pressroom', 'off_over');" onmouseout="changeNavImage('pressroom', 'off');"><img src="/images/sections/corp/leftnav_cp_pressroom_off.gif" name="pressroom" width="163" height="15" alt="Press Room" border="0"></a></td>
-    </tr>
-    <tr>
-        <td class="bg_9"><img src="/images/s.gif" width="163" height="1" alt="" border="0"></td>
-    </tr>
-
-    
-    
-	
-    <tr>
-        <td><a href="/corp/investor_relations/getLatestArticlesForInvestorRelationsHome.do?query=irhome&amp;code=earnings_fin&amp;maxArticles=3&amp;beginArticleNumber=0" onmouseover="changeNavImage('investor_relations', 'off_over');" onmouseout="changeNavImage('investor_relations', 'off');"><img src="/images/sections/corp/leftnav_cp_investor_relations_off.gif" name="investor_relations" width="163" height="15" alt="Investor Relations" border="0"></a></td>
-    </tr>
-    <tr>
-        <td class="bg_9"><img src="/images/s.gif" width="163" height="1" alt="" border="0"></td>
-    </tr>
-	
-    
-    
-	
-    <tr>
-        <td><a href="http://www.thomsoncareers.com" target="_new" onmouseover="changeNavImage('careers', 'off_over');" onmouseout="changeNavImage('careers', 'off');"><img src="/images/sections/corp/leftnav_cp_careers_off.gif" name="careers" width="163" height="15" alt="Careers" border="0"></a></td>
-    </tr>
-    <tr>
-        <td class="bg_9"><img src="/images/s.gif" width="163" height="1" alt="" border="0"></td>
-    </tr>
-	
-    
-	
-     <tr>
-        <td><a href="/corp/contact_us/contact_us.jsp" onmouseover="changeNavImage('contact_us', 'off_over');" onmouseout="changeNavImage('contact_us', 'off');"><img src="/images/sections/corp/leftnav_cp_contact_us_off.gif" name="contact_us" width="163" height="15" alt="Contact Us" border="0"></a></td>
-    </tr>
-    <tr>
-        <td class="bg_9"><img src="/images/s.gif" width="163" height="1" alt="" border="0"></td>
-    </tr>
-</tbody></table>
+<!-- SiteCatalyst code version: G.5.
+Copyright 1997-2003 Omniture, Inc. More info available at
+http://www.omniture.com --><script language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+var s_pageName=""
+var s_server=""
+var s_channel=""
+var s_pageType=""
+var s_prop1=""
+var s_prop2=""
+var s_prop3=""
+var s_prop4=""
+var s_prop5=""
+var s_prop6=""
+var s_prop7=""
+var s_prop8=""
+var s_prop9=""
+var s_prop10=""
+/* E-commerce Variables */
+var s_campaign=""
+var s_state=""
+var s_zip=""
+var s_events=""
+var s_products=""
+var s_purchaseID=""
+var s_eVar1=""
+var s_eVar2=""
+var s_eVar3=""
+var s_eVar4=""
+var s_eVar5=""
+/********* INSERT THE DOMAIN AND PATH TO YOUR CODE BELOW ************/
+//--></script><script language="JavaScript" src="http://www.nelson.com/includes/nelson/omniture/corp/s_code_remote.js"></script>
+<!-- End SiteCatalyst code version: G.5. -->
 
 
+<!-- Omniture Code Ends -->
 
-        </td>
-        <td width="4"><img src="/images/s.gif" width="4" height="1" alt="" border="0"></td>
-        
-        <td width="388" valign="top">
-			
-            
-
-<table width="388" border="0" cellpadding="0" cellspacing="0">
-    <tbody><tr>
-        <td width="1" class="bg_c" rowspan="100"><img src="/images/s.gif" width="1" height="1" alt="" border="0"></td>
-        <td width="13" rowspan="100"><img src="/images/s.gif" width="13" height="8" alt="" border="0"></td>
-        <td width="373"><img src="/images/s.gif" width="373" height="8" alt="" border="0"></td>
-        <td width="1" class="bg_c" rowspan="100"><img src="/images/s.gif" width="1" height="1" alt="" border="0"></td>
-    </tr>
-    <tr>
-        <td>
-            
-			
-
-<span class="breadcrumb">
-	<a href="/index.jsp">Home</a> :
-	
-	
-	
-	
-
-	<br><br>
-</span>
-			
-			<!-- START TITLE GRAPHIC SECTION -->
-            <img src="/images/sections/corp/heading/smhd_cp_privacy_statement.gif" width="373" height="20" alt="Privacy Statement" border="0"><br>
-			<br>
-            <!-- END TITLE GRAPHIC SECTION -->			
-        </td>
-    </tr>
-    <tr>
-        <td>
-			<p>This Privacy Statement relates solely to the online information collection and use practices of our Web site located at www.thomson.com (this "Web Site"), and not to any subdomains of this Web Site. We recognize that many visitors and users of this Web Site are concerned about the information they provide to us, and how we treat that information. This Privacy Statement, which may be updated from time to time, has been developed to address those concerns.</p>
-			<p>Your use of this Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Statement. If you have any questions or concerns regarding this Privacy Statement, please contact: <a href="mailto:generalinfo@thomson.com">generalinfo@thomson.com</a>.</p>
-			<br>
-			
-			<p><span class="subHead">WHAT INFORMATION ABOUT YOU DO WE COLLECT?</span></p>
-			<p>When you visit our Web Site, you may provide us with two types of information: (1) personally identifiable information that you knowingly choose to disclose, which is collected on an individual basis, and (2) general user information that does not contain personally identifiable information, which is collected on an aggregate basis as you browse the Web Site. In some cases, if you choose not to provide us with requested information, you may not be able to access all of our Web Site's content or services.</p>
-			
-			<table border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td width="20"><img src="/images/s.gif" width="20" height="1" alt="" border="0"></td>
-					<td>
-						<p><b>Personally Identifiable Information You Choose to Provide.</b></p>
-						<p>We may ask for certain personal information from you for the purpose of providing to you content and/or services that you request. For example, if you indicate an interest in receiving press releases about The Thomson Corporation, you are asked to submit your name and e-mail address, which we retain on file, so that we may send you the information that you requested. If you indicate on our E-mail Alert registration form that you are a member of the press, we may also send you information regarding our business. We also request your name and e-mail address each time you contact us by clicking on the "Contact Us" link. We may retain a record of users who have contacted us in order to respond properly to questions or concerns and for purposes of future communications.</p>
-
-						<p><b>Non-Personally Identifiable Information We Collect.</b></p>
-						<p>Cookies/ Web server logs: Similar to other commercial Web sites, our Web Site utilizes standard technology called "cookies" and Web server logs to collect information about how our Web Site is used. Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web site. Cookies are small pieces of data that are stored by a user's Web browser on the user's hard drive. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web Site, and the Web sites visited just before and just after our Web Site. This information is collected on an aggregate basis. None of this information is associated with you as an individual.</p>
-						<p>You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of our Web Site will not operate correctly if you disable cookies. You should consult with your browser's provider/manufacturer if you have any questions regarding disabling cookies.</p>
-					</td>
-				</tr>
-			</tbody></table>
-			<br>
-			
-			<p><span class="subHead">HOW DO WE USE THE INFORMATION WE COLLECT?</span></p>
-			<p>We use your personally identifiable information to provide you with the information or content that you have requested, and, in some cases, to contact you about our programs, products, features or services. If you no longer wish to receive press releases or any other type of information from us, you may send us an email through our "Contact Us" link or use our E-mail Alert form to change your preferences.</p>
-			<p>We use non-identifying information collected on our Web Site in the aggregate to better understand your use of the Web Site and to enhance your enjoyment and experience. For example, we may use the information to improve the design and content of our Web Site or to analyze the programs and services that we offer.</p>
-			<p>We may employ other companies and individuals to perform functions on our behalf. Our employees, agents and contractors who have access to personally identifiable information are required to protect the information in a manner that is consistent with this Privacy Statement.</p>
-			<p>We may provide access to your personally identifiable information when legally required to do so, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of our Web Site, to limit our legal liability and protect our rights, or to protect the rights and safety of visitors to this Web Site or the public. In those instances, the information is provided only for that limited purpose.</p>
-			<p>We will not share your personally identifiable information in ways unrelated to those described above without providing you with an opportunity to opt out of such use or otherwise prohibit such unrelated uses.</p>
-			<br>
-
-			<p><span class="subHead">HOW DO YOU ACCESS AND/OR MODIFY YOUR INFORMATION OR CHOICES?</span></p>
-			<p>If you visit our Web Site and volunteer personally identifiable information, you may modify, update or delete such information at any time by visiting the E-mail Alert area where you will have the opportunity to access and revise certain of your personally identifiable information, and to update your preferences regarding what information you want to receive from us, or by clicking on the "Contact Us" link and sending us an e-mail. You should be aware, however, that it is not always possible to completely remove or modify information in our databases. In addition, please be aware that your ability to opt out from receiving marketing and promotional materials does not change our right to contact you regarding your use of our Web Site.</p>
-			<br>
-
-			<p><span class="subHead">PRIVACY PROTECTIONS FOR CHILDREN USING THE INTERNET</span></p>
-			<p>Protecting children's privacy is important to us. For that reason, we do not collect or maintain information on our Web Site from those we actually know are under the age of 13, nor is any part of our Web Site targeted to attract anyone under 13. We request that all visitors to our Web Site who are under 13 not disclose or provide any personally identifiable information. If we discover that a child under 13 has provided us with personally identifiable information, we will delete that child's personally identifiable information from our records.</p>
-			<br>
-			
-			<p><span class="subHead">DATA SECURITY</span></p>
-			<p>We take reasonable steps to maintain the security of the personally identifiable information that we collect, including limiting the number of people who have physical access to our database servers, as well as installing electronic security systems that guard against unauthorized access. However, no data transmission over the Internet can be guaranteed to be completely secure. Accordingly, we cannot ensure or warrant the security of any information that you transmit to us, so you do so at your own risk.</p>
-			<br>
-
-			<p><span class="subHead">CONSENT TO TRANSFER</span></p>
-			<p>This Web Site is operated in the United States. If you are located outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Web Site, participating in any of our services and/or providing us with your information, you consent to this transfer.</p>
-			<br>
-
-			<p><span class="subHead">LINKS</span></p>
-			<p>This Web Site contains links to third party sites as well as to other sites owned and/or operated by The Thomson Corporation. Please be aware that The Thomson Corporation is not responsible for the privacy practices of any third party sites. Please also be aware that the privacy policies of other Thomson sites may differ significantly from the privacy policy of this Web Site. Therefore, we encourage our users to read the privacy statement of each and every Web site that collects personally identifiable information. This Privacy Statement applies solely to information collected by this Web Site.</p>
-			<br>
-		</td>
-    </tr>
-    <tr>
-        <td><img src="/images/s.gif" width="1" height="10" alt="" border="0"></td>
-    </tr>
-</tbody></table>
-
-<!-- page anchor -->
-<img src="/images/sections/corp/msc_page_anchor.gif" width="388" height="19" alt="" border="0">
-			
-        </td>
-        <td width="4"><img src="/images/s.gif" width="4" height="1" alt="" border="0"></td>
-        
-        <td width="190" valign="top"><img src="/images/s.gif" width="1" height="8" alt="" border="0"><br>
-			
-        </td>
-    </tr>
-</tbody></table>            
-
-
-
-<br><br>
-
-<table width="760" border="0" cellpadding="0" cellspacing="0">
-    <tbody><tr>
-        <td width="175" class="bg_9" colspan="3"><img src="/images/s.gif" width="175" height="1" border="0" alt=""></td>
-        <td width="585" colspan="2"><img src="/images/s.gif" width="585" height="1" border="0" alt=""></td>        
-    </tr>
-    <tr>
-        <td width="10" rowspan="3"><img src="/images/s.gif" width="10" height="1" border="0" alt=""></td>
-        <td width="164" class="footerGrey" rowspan="3" valign="top">
-			<img src="/images/s.gif" width="164" height="5" border="0" alt=""><br>
-            <a href="/corp/copyright.jsp">Copyright Notices</a> | <a href="/corp/terms.jsp">Terms of Use</a><br>
-<a href="/corp/privacy.jsp">Privacy Statement</a><br>
-        </td>
-        <td width="1" class="bg_9" rowspan="2"><img src="/images/s.gif" width="1" height="15" border="0" alt=""></td>
-        <td width="585" colspan="2"><img src="/images/s.gif" width="585" height="14" border="0" alt=""></td>        
-    </tr>
-    <tr>
-        <td width="585" class="bg_9" colspan="2"><img src="/images/s.gif" width="585" height="1" border="0" alt=""></td>
-    </tr>
-    <tr>
-        <td><img src="/images/s.gif" width="1" height="15" border="0" alt=""></td>
-		<td><img src="/images/s.gif" width="15" height="1" border="0" alt=""></td>
-        <td align="left" class="footer">
-            <img src="/images/s.gif" width="569" height="5" border="0" alt=""><br>
-            <a href="/index.jsp">Home</a> | <a href="/corp/sitemap.jsp">Site Map</a> | <a href="/corp/about/ab_home.jsp">About Us</a> | <a href="/corp/pressroom/pr_home.jsp">Press Room</a> | <a href="/corp/investor_relations/ir_home.jsp">Investor Relations</a> | <a target="_new" href="http://www.thomsoncareers.com">Careers</a> | <a href="/corp/contact_us/contact_us.jsp">Contact Us</a><br>
-<a href="/financial/financial.jsp">Financial</a> | <a href="/healthcare/healthcare.jsp">Healthcare</a> | <a href="/learning/learning.jsp">Learning</a> | <a href="/legal/legal.jsp">Legal</a> | <a href="/bizinfo/bizinfo.jsp">News &amp; Business Information</a> | <a href="/scientific/scientific.jsp">Scientific</a> | <a href="/taxacct/taxacct.jsp">Tax &amp; Accounting</a><br>
-        </td>
-    </tr>
-</tbody></table>
-<br><br>
-
-
-
-
-              </body></html>
+</body></html>
