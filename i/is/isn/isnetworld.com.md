@@ -1,47 +1,26 @@
-> *The following text is extracted and transformed from the isnetworld.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218123819id_/http%3A//isnetworld.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isnetworld.com privacy policy that was archived on 2002-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021212004913id_/http%3A//www.isnetworld.com/INFO_Site/Privacy.htm) for the most accurate reproduction.*
 
-# Safety Training and all your other Industrial Needs
+# ISNetworld.com
 
-**  
-Privacy Statement**
-
-Industrial Services Networld has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: Industrial Services Networld 
-
-Information Automatically Logged  
-We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to help verify who you are. 
-
-Cookies   
-Our Site uses cookies to keep track of your user information such as your username, and your company information. We also use cookies to deliver content specific to your interests, and for other purposes. 
-
-Advertisers   
-We use an inside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our company to track advertisement information. 
+The following discloses the information gathering and dissemination practices for ISNetworld. 
 
   
-Registration Forms   
-Our site's registration form requires users to give us contact information (like their name, email, and postal address), unique identifiers (like their username and password), and demographic information (like their zip code). 
-
-Contact information from the registration forms is used to ship purchases, ship information about our company, and verification of user identity. The customer's contact information is also used to get in touch with the customer when necessary, and to share with other companies who may want to contact our customers. 
-
-Unique identifiers (such as usernames and passwords) are collected from Web site visitors to verify the user's identity, and for use as account information in our record system. 
-
-Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
+We use your IP address to help diagnose problems with our servers and to administer our Web site. Your IP address is also used to help verify who you are. 
 
   
-Order Forms   
-Our site uses an order form for customers to request information, products, and services. We collect contact information (like their email address), unique identifiers (like usernames and passwords), and demographic information (like their zip code) for the same purposes as above. 
+Our Site uses long-term and short-term cookies. Long-term cookies are used to store user preferences. For example, a long-term cookie might store the user's preference regarding how data is displayed. Short-term cookies contain more information and are deleted as soon as you log off. Sensitive information is stored long-term only on ISNetworld's secure servers. 
 
-Surveys   
-Occassionally, we may use online surveys whick will ask visitors for contact information (like their email address). Contact information from the surveys is used to send information about our company. The contact information is also used to get in touch with the visitor when neccessary, and to share with other companies who may want to contact our visitors. 
+  
+We display ads on our site. These ads may contain cookies. 
 
-External Links   
-The site contains links to other sites. Industrial Services Networld is not responsible for the privacy practices or the contact of such Web sites that are not created and maintained by AllenTate Commercial Software. 
+  
+Our site gives users the option to enter contact information (like their name, email, and postal address), unique identifiers (like their username, password and social security number), and demographic information (like their zip code). User supplied information is collected within ISNetworld to verify the user's identity, allow for database linkage, provide reporting capability and for use as account information in our system. This information is supplied at the users discretion and will be used only as specified above.
 
-Security   
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. This site is password protected allowing only users who have been cleared by AllenTate Commercial Software access to this site. While no site can guaranty 100% online security, we believe Industrial Services Networld has ample security measures in place to protect your information. 
+  
+The site contains links to other sites. ISN Software Corporation is not responsible for the privacy practices or the contact of such Web sites that are not created and maintained by ISN Software Corporation. 
 
-Choice/Opt-Out   
-Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us by sending an email to remove@isnetworld.com. 
+  
+This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. ISNetworld is password protected allowing only users who have been cleared by ISN Software Corporation or authorized by previously authorized users access to this site. While no site can guaranty 100% online security, we believe ISNetworld has industry standard or better measures in place to protect information. 
 
-Data Quality/Access  
-This site gives users the following options for changing and modifying information previously provided by either sending mail to support@isnetworld.com or by logging into the Industrial Services Networld and modifying your user information online. Contacting the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can send an email to privacy@isnetworld.com   
-
+  
+This site gives users the option to change and modify information previously provided by logging into the ISNetworld and modifying the information online. Contact us you have any questions about this privacy statement, the practices of this site, or your dealings with this ISN by sending an email to [helpdesk@isnsoftware.com](mailto:helpdesk@isnsoftware.com).
