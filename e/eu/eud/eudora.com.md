@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the eudora.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607102021id_/http%3A//www.eudora.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eudora.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204015249id_/http%3A//eudora.com/privacy) for the most accurate reproduction.*
 
 # Eudora Privacy Statement
-
-| 
 
 **Eudora Privacy Statement**
 
@@ -13,6 +11,14 @@
 Eudora will never share information about you without your permission (unless required by law).
 
 ** **
+
+Third-party Sites
+
+**
+
+> This site contains links to other sites for your convenience. These third-party sites may also request personal information from you. These third-party sites are not covered by this Privacy Statement and QUALCOMM is not responsible for the privacy practices or the content of such web sites. These sites may have their own privacy policies or statements and we encourage you to learn their practices before providing information. 
+
+**
 
 WEB SITE: www.eudora.com
 
@@ -38,12 +44,14 @@ WEB SITE: www.eudora.com
 > We aggregate this information eliminating personally identifiable information in the process. The aggregate information is shared with advertisers 
 > 
 > **We will never, for any purpose whatsoever, examine the contents, addresses, subjects or attachments of user emails. This is true of all other data users enter in their address book, personalities, filters, stationery, etc.**
-> 
-> **Statement on Unsolicited Bulk or Commercial Email ("SPAM")**  
->  QUALCOMM is committed to preventing the transmission, distribution or delivery of unsolicited bulk or commercial email ("SPAM") and it is the policy of QUALCOMM, its affiliates and advertisers at all times to comply with the Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003 and other applicable laws, rules, and regulations in connection with the transmission, distribution or delivery of SPAM. 
-> 
-> **Updates to this Privacy Statement**  
->  While we will never change our fundamental commitment to protecting user privacy, regulatory changes or other circumstances may require us to modify this Privacy Statement. In the event that we do amend this Statement, we will post the amended Statement on our website at http://www.eudora.com/privacy, and the amended Statement will be effective immediately. 
-> 
-> **Contacting the Web Site**  
->  If you have any questions about this Privacy Statement, the practices of this site, or your dealings with this Web site, you can contact our [webmaster](mailto:webmaster@eudora.com). 
+
+**Statement on Unsolicited Bulk or Commercial Email ("SPAM")**  
+QUALCOMM is committed to preventing the transmission, distribution or delivery of unsolicited bulk or commercial email ("SPAM") and it is the policy of QUALCOMM, its affiliates and advertisers at all times to comply with the Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003 and other applicable laws, rules, and regulations in connection with the transmission, distribution or delivery of SPAM. 
+
+**Updates to this Privacy Statement**  
+While we will never change our fundamental commitment to protecting user privacy, regulatory changes or other circumstances may require us to modify this Privacy Statement. In the event that we do amend this Statement, we will post the amended Statement on our website at http://www.eudora.com/privacy, and the amended Statement will be effective immediately. 
+
+**Contacting the Web Site**  
+If you have any questions about this Privacy Statement, the practices of this site, or your dealings with this Web site, you can contact our [webmaster](mailto:webmaster@eudora.com). 
+
+Last revised: July 2, 2004.
