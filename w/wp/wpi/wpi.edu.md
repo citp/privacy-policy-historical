@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpi.edu privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206070200id_/http%3A//www.wpi.edu/Web/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpi.edu privacy policy that was archived on 2001-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010214055858id_/http%3A//www.wpi.edu/Web/privacy.html) for the most accurate reproduction.*
 
 # WPI's Privacy Statement
 
@@ -27,7 +27,7 @@ This site contains links to other sites, including the personal websites of WPI 
 This site makes use of discussion forums, such as the [Admissions Café](http://www.wpi.edu/cgi-bin/ubb/Ultimate.cgi?action=intro), the contents of which are accessible to users of the Internet. **Please remember that any information that is disclosed in these areas becomes public information** and you should exercise caution when deciding to disclose your personal information.
 
 **Security**  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Certain portions of the WPI website are restricted by domain to members of the WPI community only. Still other pages may require users to enter their username and password. These pages are intended for internal use only, and generally require the CCC UNIX username and password offered to all faculty, staff and students. Information on these pages is available to members of the WPI community [here](https://web.archive.org/web/20001206070200id_/http%3A//www.wpi.edu/Web/safe.html).
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Certain portions of the WPI website are restricted by domain to members of the WPI community only. Still other pages may require users to enter their username and password. These pages are intended for internal use only, and generally require the CCC UNIX username and password offered to all faculty, staff and students. Information on these pages is available to members of the WPI community [here](https://web.archive.org/web/20010214055858id_/http%3A//www.wpi.edu/Web/safe.html).
 
 **Choice/Opt-Out**  
 Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor.
