@@ -1,28 +1,31 @@
-> *The following text is extracted and transformed from the bangkok.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205215816id_/http%3A//bangkok.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangkok.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405212556id_/http%3A//www.bangkok.com/privacy.html) for the most accurate reproduction.*
 
-# Bangkok.com
+# Bangkok hotel and Thailand travel guide
 
-**Bangkok.com Privacy Policy**
+### Asia Web Direct Group
 
-Bangkok.com, like all websites, records a small amount of information about the traffic that it receives.
+Asia Web Direct Co. Ltd. and its subsidiary and associate companies operate www.latestays.com, www.phuket.com, www.bangkok.com, www.kosamui.com, www.gothailand.com, www.resort-hotels.com and many other clearly identified Web sites. We respect your privacy and value your trust in us. We will do everything in our power to earn your confidence so that you can enthusiastically use our services and recommend us to friends and family. 
 
-The information recorded consists of the date and time of a page request, the page requested, the ip address of the requesting device and the browser version and type used. By default this is the only information that is automatically recorded about our visitors.
+### Personal Information
 
-Some of Bangkok.com's services and promotions ask that the visitor volunteer additional information - in the case of a promotion this might be a name, address and phone number. For our email service this might be a first name, last name and email address. This type of information is requested and recorded as a necessity of the service provided. In all cases the collection of this information will be overt and voluntary.
+We do not collect the names or addresses of visitors to our Web sites. We do not sell, rent or barter mailing lists of our visitors. We do not reveal a visitor's name, address, credit card number or other personally identifying information to any phuket.com client other than the client involved in each particular transaction.
 
-General aggregated visitor information collected by Bangkok.com is used by Bangkok.com to make day-to-day business decisions about the site. Examples of this are determining what countries our users visit the site from, what browsers we need to support, etc.
+### Reservation Details
 
-Voluntary promotion and opt-in service information may be used for our own marketing purposes, or for the marketing purposes of our partners. When this is the case it will be clearly stated. Bangkok.com does not sell, loan or share any of this information with any third party - unless otherwise explicitly stated in promotion rules, terms of service agreements, etc.
+We do collect and store the names, addresses, credit card numbers and other personally identifying information of visitors who make on-line reservations. This information is collected using a secure server operating under our own Security Certificates issued by Thawte Server CA (a Verisign Company), transmitted in encrypted form and saved in a secure off-line environment. It is only used to process reservations and inform visitors of additional services, special offers, and to build features that will make the service easier and more personalized to use. 
 
-Bangkok.com works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>. 
+At the customer's request, we will not send the customer any information or offers unrelated to the customer's specific transaction. 
 
-If you have any questions about Bangkok.com's privacy, please feel free to contact us at [feedback@bangkok.com](https://web.archive.org/web/20021205215816id_/http%3A//bangkok.com/feedback@bangkok.com).
+### Cookies
 
-**[T-Board - The Two-Wheel Skateboard the Rides Like a Snowboard!](http://www.t-boards.com/?linkid=100051)
+We reserve the right to use "cookies" technology to reduce the time required for visitors to submit transactions. Cookies are small bits of code, usually stored on a user's computer hard drive, which enable a Web site to "personalize" itself for each user. No other company has access to our cookies. If you do not want us to use cookies when we serve you, disable them in your browser. 
 
-[Home](http://bangkok.com/) [Baht](http://bangkok.com/cgi-bin/anacondaodp.pl?search=baht) [Mall](http://bangkok.com/mall) [Postcards](http://www.bangkok.com/postcards) [Thailand Hotels](http://bangkok.com/hotels) [Thai Travel](http://bangkok.com/cgi-bin/anacondaodp.pl?search=thai+travel) [Chat](http://bangkokchat.com/) [Domain Names](http://www.registernames.com/)   
-[SiteTinker Web Design](http://www.sitetinker.us/) [Bird's Nests](http://www.bangkok.com/swift) [Chiang Mai](http://www.chiangmai-online.com/)
+For all transactions, we will employ reasonable and current Internet security methods and technologies. We encourage our participating third-party clients to adopt and honor their own consumer privacy policies. 
 
-**
+### **Statistics and Demographics**
 
-**Copyright © Bangkok.com**
+We may reveal general, non-personal data about our Web site, such as number of visitors, country of origin, number of goods and services purchased, etc. 
+
+### Amendments to Policy
+
+Any changes to our privacy promise will be communicated through our Web site at least 7 days in advance of implementation. Information collected before changes are made will be secured according to the old privacy policy.
