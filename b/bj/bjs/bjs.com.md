@@ -1,0 +1,83 @@
+> *The following text is extracted and transformed from the bjs.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602082928id_/http%3A//bjs.com/privacy.html) for the most accurate reproduction.*
+
+# BJ's Wholesale - Privacy Policy
+
+**PRIVACY POLICY**
+
+Effective: September 20, 2001
+
+**Information Collection and Use**
+
+BJ's is the sole owner of the information collected on the bjswholesale.com site*. We will not sell, share, or rent this information to others in ways different from what is disclosed in this policy. BJ's may collect information from our users at several different points on our website, including our trial membership page.
+
+BJ's may collect such information as your name, BJ's membership number, address, and e-mail address. BJ's uses this information to learn the number of visitors to the website, the website's popularity, and the pages visited most often for marketing and merchandising purposes. BJ's also uses such personal information in order to improve the contents of the website and assist BJ's in selecting and offering products and services to BJ's members which best suit their needs.
+
+BJ's does not currently sell or rent information collected from this website which personally identifies individuals. We may share aggregated demographic information with our business partners, advertisers and others. This is not linked to any personal information that can identify any individual person.
+
+BJ's anticipates using in the future e-mail addresses of visitors to this website to solicit their feedback on the quality of the services and merchandise offered at BJ's and to send them information regarding products and services offered by BJ's and upcoming events at BJ's, at BJ's discretion. 
+
+In addition, BJ's may disclose information collected through this website where BJ's believes in good faith that such disclosure is: a) authorized by law or necessary to comply with legal process, b) in response to legal claims, or c) necessary to protect personal safety, property or other rights of BJ's and its members.
+
+**Surveys & Contests**
+
+From time to time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
+
+From time to time BJ's may disclose certain information collected on this website to fulfillment houses and technical consultants with whom BJ's has subcontracted for maintenance of this website. Such subcontractors are required to keep this information confidential and only use the information in providing fulfillment or maintenance services to BJ's.
+
+**Log Files**
+
+We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses collected on bjswholesale.com are not linked to personally identifiable information. 
+
+**Links to Business Partners**
+
+This website contains links to other sites which offer products and services to BJ's members (for example, BJ's Auto Program). Listed below are such linking sites and the various products and services offered. These sites have established their own respective policies and practices on the collection and use of personal information gathered from visitors to each linking site. BJ's, however, may receive information that may be collected from these sites as described below. 
+
+  * _BJ's Vacations_ , offers discount vacations and travel packages. Although BJ's holds certain legal rights to information collected at this site, BJ's currently receives aggregated data collected at this site regarding the number and length of visits to the site, but not to the personally identifiable information associated with these visits. Please click here to [view the _BJ's Vacations_ privacy policy](http://www.bjsvacations.com/privacy_policy.asp) or to opt out of use of data collected by _BJ's Vacations_.
+  * _BJ's Car Rental_ offers automobile rental services at low rates to BJ's members. Although BJ's holds certain legal rights to information collected at this site, BJ's currently receives aggregated data collected at this site regarding the number and lengths of visits to the site. but not to the personal identifiable information associated with these visits. Please click here to [view the _BJ's Car Rental_ privacy policy](http://www.bjscarrentals.com/privacy.asp) or to opt-out of use of data collected by BJ's Car Rentals.
+  * _BJ's Optical_ offers optometry services including eyeglasses, frames and contact lenses provided by licensed eye care professionals. Although BJ's holds certain legal rights to information collected at this site, BJ's currently receives aggregated information collected at this site on the total number of visits to the site, the length of each visit and the products purchased. Information received by BJ's, however, does not identify individual visitors to or user of the _BJ's Optical_ site. Please click here to [view the _BJ's Optical_ privacy policy](https://www.colelenssupply.com/cgi-bin/ncommerce3/ExecMacro/BJS/info.d2w/report?section=privacy&merchant_rn=40097). 
+  * _BJ's Auto Program_ offers a discount auto buying and leasing service for new and pre-owned vehicles. Although BJ's holds certain legal rights to information collected at this site, BJ's currently receives aggregated information collected on this site regarding the total number of visits to the site and the length of each visit. Please click here to [see the privacy statement for the _BJ's Auto Program_](http://www.bjsauto.com/Privacy.asp) or to opt out of use of data collected at the _BJ's Auto Program_ site. 
+  * _BJ's Protection Plus_ offers extended warranty services. Although BJ's holds certain legal rights to information collected at this site, BJ's currently receives aggregated information on the number and length of visits and aggregated demographic data, but this information is not linked to any personal information. Please click here to view the _BJ's Protection Plus_ privacy policy. 
+  * _BJ's Merchant Payment Processing_ provides credit and debit card payment financial transaction processing services. Although BJ's holds certain legal rights to information collected at this site, BJ's currently does not receive any personal information that may be collected from this site, but receives aggregated data collected at this site on the total number of visits to the site, the length of each visit and the services purchased. Please click here to [view the privacy statement for _BJ's Merchant Payment Processing_](http://www.bjspaymentprocessing.com/priv_state.html) or to opt out of use of any personal information collected.
+  * _BJ's Checks_ offers check and other business printing services for personal and business use. Although BJ's holds certain legal rights to information collected at this site, BJ's does not currently receive any personal information that may be collected from this site, but has access to aggregated data collected at this site on the total number of visits to this site, the length of each visit and the services purchased. Please click here to [see the _BJ's Checks_ privacy policy](http://www.bjschecks.com/privacy.html) and to learn how you can opt out of use of any personal data collected through the BJ's Checks site.
+  * _BJ's Embroidered Apparel_ arranges for embroidery of names and logos onto apparel for businesses, church, civic and other organizations. Although BJ's holds certain legal rights to information collected at this site, BJ's receives aggregated information collected on this site regarding the total number of visits to the site and the length of each visit. BJ's may also request e-mail addresses of customers purchasing through this site. Please click here to [view the _BJ's Embroidered Apparel_ privacy statement](http://www.biltwelluniforms.com/privacy.html).
+  * _BJ's Gazebos_ offers gazebos for sale in New England and New York. Customers may purchase gazebos by calling the telephone number listed on this site or printing an order form from the site and sending it by mail to the address indicated.
+
+
+
+Please be aware that we are not responsible for the privacy practices of the linking sites listed above. We encourage our users to be aware when they leave our site to read the privacy policies of each and every linking website that collects personally identifiable information. This BJ's privacy policy applies solely to information collected by the BJ's website. Should you wish to opt out of data collection by any of these sites, please be sure to do so as each such site instructs.
+
+**Cookies**
+
+BJ's does not currently use cookies to collect information on visitors to this website. Some of our business partners use cookies on their respective sites (for example, _BJ's Vacations_ ). However, we have no access to or control over these cookies. Therefore, please read the privacy policies of other sites linked to this website.
+
+**Security**
+
+This Website takes reasonable precautions to protect our users' information. When users submit sensitive information via the website, your information is protected from unauthorized disclosure.
+
+BJ's Wholesale Club, Inc. is committed to maintaining the security of information on our site. To try to prevent unauthorized access, maintain data accuracy, and ensure correct use of information, we have put in place the appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+Any information collected on the BJ's site is located on a secured server behind a firewall and is not directly connected to the Internet. BJ's employs Secure Socket Layer ("SSL") software and password protection procedures to safeguard personal information collected. 
+
+**Supplementation of Information**
+
+From time to time, BJ's may supplement the information we collect through this site with email addresses voluntarily provided by members at the time of enrollment at our clubs or purchased from third party sources. 
+
+**Choice/Opt Out**
+
+You may "opt out" of having any personal information collected through this site used for purposes not directly related to our site. To do so, please [click here to opt out](https://web.archive.org/web/20020602082928id_/http%3A//bjs.com/optout.html "Opt out of having any personal information collected through this site used for purposes not directly related to this site") and fill in your name, BJ's membership number, address, and e-mail address on the form provided.
+
+**Correction/Updating Personal Information:**
+
+If a user's personally identifiable information changes (such as your address) or if a user no longer desires to remain on our mailing list, we will provide a way to correct, update or remove that user's personal data provided to us. This can usually be done by writing to BJ's at Marketing Department, BJ's Wholesale Club, Inc., One Mercer Road, Natick, MA 01760. Attn: Vice President, Manager of Advertising.
+
+**Notification of Changes**
+
+If at any point we decide to change our privacy policy or use personally identifiable information in a manner different from that stated at the time it was collected, we will inform users by way of a prominent notice on the Site. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+
+**Children**
+
+This web site is not targeted to Children younger than 13. Visitors to this site who are under the age of 13 may use this site only with the supervision and consent of a parent or guardian. None of the products or services available through this site may be purchased by anyone under 18 years of age.
+
+If you feel that BJ's is not abiding by its posted privacy policy, you may contact BJ's by emailing [privacy@bjs.com](mailto:privacy@bjs.com) or writing to BJ's Wholesale Club, Inc., One Mercer Road, Natick, MA 01760, Attn: Vice President, Manager of Advertising.
+
+* The bjswholesale.com web site is also accessible through the following domains: bjs.com and bjsinc.com. All three domains are located at the following IP address: 208.148.74.212
