@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the akc.org privacy policy that was archived on 2000-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000511121739id_/http%3A//www.akc.org/akc/privacystatement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akc.org privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202052100id_/http%3A//www.akc.org/akc/privacystatement.cfm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -11,6 +11,8 @@ At The American Kennel Club, we are committed to protecting your privacy. We use
 When you register with us, we need to know your name, e-mail address, and mailing address. This lets us notify you of your order status and helps make your shopping experience more enjoyable. When you order, we need to know your credit card number, and expiration date. This allows us to process and fulfill your order. 
 
 We may also use the information we collect to occasionally notify you about important functionality changes to the Web site, new AKC services, and special offers we think you'll find valuable. If you would rather not receive this information, visit the Customer Account Management page to change your preferences. 
+
+The AKC uses a reputable third party to serve some of the advertisements that you see on the pages of our Web site. If you would like to know more about the information gathering practices and "opt-out" procedures of our third party ad server, please click [here](http://www.sonar.com/content/privacy.htm). 
 
 **How does the AKC protect customer information?**
 
@@ -35,3 +37,6 @@ By using our web site, you consent to the collection and use of this information
 **Tell us what you think**
 
 The AKC welcomes your questions and comments about privacy. Please send e-mail to [info@akc.org](mailto:info@akc.org). 
+
+  
+
