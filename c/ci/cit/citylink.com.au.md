@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citylink.com.au privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205195354id_/http%3A//www.transurban.com.au/content/privacy/feature.asp%3FCC%3D8%26CN%3D61) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citylink.com.au privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606044804id_/http%3A//www.transurban.com.au/content/privacy/feature.asp%3FCC%3D8%26CN%3D61) for the most accurate reproduction.*
 
 # CityLink Melbourne Limited
 
