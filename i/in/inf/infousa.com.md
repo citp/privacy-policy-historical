@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infousa.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607092815id_/http%3A//www.infousa.com/homesite/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infousa.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201015452id_/http%3A//www.infousa.com/homesite/privacy_policy.html) for the most accurate reproduction.*
 
 # infoUSA.com - Privacy Policy
 
