@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tourfactory.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622130356id_/http%3A//www.tourfactory.com/Company/RealtyPrivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tourfactory.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208160626id_/http%3A//www.tourfactory.com/Company/RealtyPrivacy.asp) for the most accurate reproduction.*
 
 # Virtual Tour Provider - TourFactory.com - Create the Ultimate Real Estate Virtual Tours!
 
