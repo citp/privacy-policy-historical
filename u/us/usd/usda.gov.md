@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usda.gov privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603181723id_/http%3A//www.usda.gov/footers/PrivIndex.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usda.gov privacy policy that was archived on 2004-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040813033235id_/http%3A//www.usda.gov/footers/PrivIndex.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,4 +28,4 @@ Information presented on the USDA website is considered public information and m
 If you have any comments or questions about the information presented here please forward them to [Lesia.Banks@usda.gov](mailto:lesia.banks@usda.gov)
 
 Additional information on childrens online privacy protection can be found at the following site:  
-[Children's Online Privacy Protection Act of 1998](http://cio.gov/Documents/COPPA_Act_1998.html)
+[Children's Online Privacy Protection Act of 1998](http://www.ftc.gov/os/1999/10/64fr59888.pdf) (PDF)
