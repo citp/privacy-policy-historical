@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theganggreen.com privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406013352id_/http%3A//www.theganggreen.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theganggreen.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201021753id_/http%3A//www.theganggreen.com/about/privacy.php) for the most accurate reproduction.*
 
-# TheGangGreen.Com - privacy statement
+# TheGangGreen.Com - Privacy Statement
 
 TheGangGreen.Com's policy is to respect and protect the privacy of our users.
 
