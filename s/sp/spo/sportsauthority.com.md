@@ -1,24 +1,23 @@
-> *The following text is extracted and transformed from the sportsauthority.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201174356id_/http%3A//www.thesportsauthority.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsauthority.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203234512id_/http%3A//www.thesportsauthority.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
 
 # The Sports Authority Helpdesk
 
 |   
-| [](https://web.archive.org/helpdesk/index.jsp)  
+| [](https://web.archive.org/helpdesk/index.jsp)
 
-
-Global Sports Interactive, Inc. has created this Privacy Policy to inform you of the information gathering and dissemination practices for this Web site, www.thesportsauthority.com. Global Sports Interactive, which operates this Web site, is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, we have agreed to notify you of:
+GSI Commerce Solutions, Inc. has created this Privacy Policy to inform you of the information gathering and dissemination practices for this Web site, www.thesportsauthority.com. Because we want to demonstrate our commitment to your privacy, we want to notify you of:
 
   1. What personally identifiable information of yours is collected through this Web site; 
   2. The organization collecting the information; 
   3. How the information is used; 
   4. With whom the information may be shared; 
   5. What choices are available to you regarding collection, use and distribution of the information; 
-  6. The kind of security procedures that are in place to protect against the loss, misuse or alteration of information under Global Sport Interactive's control; and 
+  6. The kind of security procedures that are in place to protect against the loss, misuse or alteration of information under GSI Commerce Solutions, Inc.'s control; and 
   7. How you can correct any inaccuracies in the information. 
 
 
 
-If you have questions or concerns regarding this statement, you should contact our Customer Service Department by email by completing the Customer Feedback Form in the Helpdesk section or by phone at 1.888.801.9164. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/users/users_watchdog.html>. TRUSTe will then serve as a liaison with Global Sports Interactive to address your concerns.
+If you have questions or concerns regarding this statement, you should contact our Customer Service Department by email by completing the Customer Feedback Form in the Helpdesk section or by phone at 1.888.801.9164.
 
 Visiting www.thesportsauthority.com
 
@@ -80,7 +79,7 @@ Our Third Party Relationships   
 
 We have established several relationships with third parties vendors to best serve our customers.
 
-  * **_Retailer:_** Global Sports Interactive operates this Web site pursuant to agreements with The Sports Authority, Inc. ("The Sports Authority"). Pursuant to such agreements, The Sports Authority is entitled to access and use the information collected through this Web site to the same extent and in the same manner as Global Sports Interactive. Additionally, The Sports Authority may contact those customers who have agreed to receive promotional offers about offers in its land-based stores. The Sports Authority has agreed to abide by this Privacy Policy and the same restrictions and limitations applicable to Global Sports Interactive hereunder. 
+  * **_Retailer:_** GSI Commerce Solutions, Inc. operates this Web site pursuant to agreements with The Sports Authority, Inc. ("The Sports Authority"). Pursuant to such agreements, The Sports Authority is entitled to access and use the information collected through this Web site to the same extent and in the same manner as GSI Commerce Solutions, Inc.. Additionally, The Sports Authority may contact those customers who have agreed to receive promotional offers about offers in its land-based stores. The Sports Authority has agreed to abide by this Privacy Policy and the same restrictions and limitations applicable to GSI Commerce Solutions, Inc. hereunder. 
   * **_Affiliates:_** From time to time we may establish an affiliate program. An affiliate program allows other Web sites to earn money by linking customers to our site from their sites. These affiliates can only access data about the number of transactions and their resulting earnings. They cannot access our customers' personal data. If you choose to apply to any of our affiliate programs, we use the data you give us strictly for conducting business with you. We have entered into certain agreements with certain third parties for the purpose of helping to administer the affiliate programs. Such third parties may have access to certain of your information if you are an affiliate of the web site but is restricted to only use such information in connection with its administration of the affiliate programs. 
   * **_Order Fulfillment:_** Certain vendors of ours provide customer order fulfillment and shipping services on our behalf. These vendors have access only to information needed to accurately fulfill and ship orders, which are processed through such vendors. These vendors have agreed to not use any personally identifiable information of customers for any other purpose. 
   * **_Credit Card Processing:_** We use Chase Merchant Services L.L.C. to process credit card orders. We supply them with data for credit card authorization and fraud detection only and they are restricted from using the data for any other purposes. 
@@ -99,5 +98,3 @@ If we are going to use your personally identifiable information in a manner diff
 Questions about our Policies
 
 If you have any questions regarding your privacy or any of our policies, please contact our Customer Service Department by email by completing the Customer Feedback Form in the Helpdesk section or by phone at 1.888.801.9164. 
-
-If you have questions pertaining to our compliance with TRUSTe, contact our Customer Service Department first. If you still have questions or concerns, we invite you to contact TRUSTe directly. TRUSTe will then act as a liaison between you and Global Sports Interactive to address any of your concerns.
