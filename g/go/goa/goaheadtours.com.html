@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the goaheadtours.com privacy policy that was archived on 2002-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021204212711id_/http%3A//goaheadtours.com/bin/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the goaheadtours.com privacy policy that was archived on 2003-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030606204427id_/http%3A//goaheadtours.com/bin/privacy.asp) for the most accurate reproduction.-->
 
 <html><head><script>
 //global variable for error flag
@@ -29,6 +29,12 @@ function Validate(action) {
      error2(document.QuickQuote.DepDates,"Please select a departure date");
 	}
 	
+	str = document.QuickQuote.DepDates[document.QuickQuote.DepDates.selectedIndex].text
+	if (str.search("C") > 0 )
+	{
+		error2(document.QuickQuote.DepDates,"Please call to book this tour")
+	}
+
 	if (document.QuickQuote.cboRoomPref.selectedIndex == 0)
     {
      error2(document.QuickQuote.cboRoomPref,"Please select a room preference");
@@ -72,6 +78,11 @@ function ValidatePriceQuote(action,pagename,tourdate,cruise)
 	if (document.QuickQuote.DepDates.selectedIndex == 0)
     {
      error2(document.QuickQuote.DepDates,"Please select a departure date");
+	}
+	str = document.QuickQuote.DepDates[document.QuickQuote.DepDates.selectedIndex].text
+	if (str.search("C") > 0 )
+	{
+		error2(document.QuickQuote.DepDates,"Please call to book this tour")
 	}
 	
 	if (document.QuickQuote.cboRoomPref.selectedIndex == 0)
@@ -183,7 +194,12 @@ function openHelp(url) {popUpWin = window.open(url,'helpWin','toolbar=0,location
 //-->
 </script>
 
-<table width="580" border="0" cellspacing="0" cellpadding="0">
+<map name="textlinks">
+<area shape="rect" coords="8,3,297,68" href="/about/group.asp">
+<area shape="rect" coords="8,73,294,123" href="/destinations/tour_name.asp">
+<area shape="rect" coords="7,131,293,183" href="/account/login.asp">
+<area shape="rect" coords="8,193,292,253" href="/newsletter/default.asp">
+</map><table width="580" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
 <td width="8" rowspan="4"><img src="/images/1x1.gif" width="8"></td>
 <td height="4" width="115"><img src="/images/1x1.gif" height="4"></td>
@@ -193,21 +209,15 @@ function openHelp(url) {popUpWin = window.open(url,'helpWin','toolbar=0,location
 </tr>
 <tr> 
     <td align="left" valign="bottom" width="115">
-    <img src="/images/header/top_tag.gif" width="115" height="49" border="0" usemap="#Map">
-	<map name="Map"><area shape="poly" coords="23,12,27,39,95,30,101,25,98,6,90,2" href="/default.asp"></map>
+		<a href="/home/default.asp"><img src="/images/header/top_tag.gif" width="115" height="49" border="0"></a>
+	</td>    
+    <td colspan="3" align="right" valign="top">
+    <a href="/bin/ContactMain.asp"><img src="/images/home2003/tools_contact.gif" border="0" vspace="5"></a>
+    <a href="/bin/CatalogMain.asp"><img src="/images/home2003/tools_freecatalog.gif" border="0" vspace="5"></a>
+	<a href="/newsletter/"><img src="/images/home2003/tools_emag.gif" border="0" vspace="5"></a>
 	</td>
-    <td align="left" valign="bottom" width="68">
-    	<img src="/images/header/top_contact.gif" width="68" height="49" usemap="#Map2" border="0">
-	<map name="Map2">
-	<area shape="rect" coords="5,9,62,22" href="/bin/ContactMain.asp"></map>
-	</td>
-    <td width="295">&nbsp;</td>
-    <td align="right" valign="top" width="102">
-    <a href="/newsletter/"><img src="/images/header/newsletter.gif" border="0" vspace="5"></a>
-	<a href="/bin/CatalogMain.asp"><img src="/images/header/catalog.gif" border="0"></a>
-	</td>
-  </tr>
- 
+</tr>
+  
   <tr> 
     <td colspan="4"><img src="/images/header/hdr_default.gif" width="580" height="31" usemap="#welcomemap" border="0"></td>
   </tr>
@@ -216,7 +226,7 @@ function openHelp(url) {popUpWin = window.open(url,'helpWin','toolbar=0,location
   </tr>
 </tbody></table>
 <map name="welcomemap">
-  <area shape="rect" coords="7,4,67,27" href="/default.asp">
+  <area shape="rect" coords="7,4,67,27" href="/home/default.asp">
   <area shape="rect" coords="84,4,175,28" href="/destinations/tour_name.asp">
   <area shape="rect" coords="192,4,283,28" href="/about/Group.asp">
   <area shape="rect" coords="303,5,391,28" href="/about/AboutMain.asp">
@@ -232,11 +242,6 @@ function openHelp(url) {popUpWin = window.open(url,'helpWin','toolbar=0,location
 			<p>
 			
 
-			<!--TRUSTe verification button---->
-			<a href="https://www.truste.org/validate/5126"><img src="images/ClickSealBox.gif" align="right" height="73" width="91" border="0" alt="TRUSTe: Click to Verify" hspace="8" vspace="8"></a>
-			<!--end TRUSTe verification button---->
-			Go Ahead Vacations is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for www.goaheadvacations.com. If you have questions or concerns regarding this statement, you should first contact our Webmaster by email: <a href="mailto:goahead@ef.com">goahead@ef.com</a>. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe: <a href="http://www.truste.org/users/watchdog.html">http://www.truste.org/users/watchdog.html</a>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
-			</p><p>
 			Goaheadvacations.com is committed to protecting the privacy of our users. We would like to share our online information practices and the choices you can make about the way your information is collected and used. This notice is available at every point where personally identifiable information may be requested. This notice applies to all information collected or submitted on the goaheadvacations.com website.
 			</p><p>
 			<!--BBBonline verification button---->
@@ -310,30 +315,21 @@ function openHelp(url) {popUpWin = window.open(url,'helpWin','toolbar=0,location
 		</p></td>
 	</tr>
 </tbody></table>
-<p>
-
-<meta http-equiv="Content-Type" content="text/html; charset=unicode">
-<meta content="MSHTML 5.50.4807.2300" name="GENERATOR">
- <br>
+<p><br>
 <table border="0" cellpadding="3" cellspacing="0" width="590">
-  <tbody><tr align="middle"> 
-    <td valign="top"> <font face="geneva,verdana,arial" size="-2"> <a href="/default.asp">Welcome</a> 
-      | <a href="/destinations/tour_name.asp">Destinations &amp; Reservations</a> | 
-      <a href="/about/Group.asp">Travel for Free</a> | <a href="/about/AboutMain.asp">About 
-      Us</a> | <a href="/travel_center/default.asp">Traveler Center</a> | <a href="/account/login.asp">My 
-      Account</a></font></td>
-</tr><tr align="middle"><td><font face="geneva,verdana,arial" size="-2"> 
-      <a href="/bin/CatalogMain.asp">Free Catalog</a> | <a href="/newsletter/">eMagazine</a> | <a href="/bin/ContactMain.asp">Contact Us</a> | <a href="/bin/terms.asp">Terms 
+  
+<tbody><tr align="middle"><td><font face="geneva,verdana,arial" size="-2"> 
+      <a href="/bin/ContactMain.asp">Contact Us</a> | <a href="/bin/terms.asp">Terms 
       &amp; Conditions</a> | <a href="/bin/privacy.asp">Privacy Policy</a>&nbsp;| <a href="/bin/notice.asp">Notice</a> | <a href="/bin/termsofuse.asp">Terms of Use</a></font><br>
       <br>
       <font face="Verdana, Arial, Helvetica, sans-serif" size="1">Copyright © 
-      2000 EF Cultural Travel BV<br>
+      2000 EF Cultural Travel AG<br>
       Go Ahead Vacations is a member of the <a href="/exit/AboutEF.asp"><img height="17" src="/images/EFlogo.gif" width="30" align="absMiddle" border="0"></a> 
       group of companies.<br>
       <br>
       </font></td>
   </tr>
-</tbody></table><!-- www.goaheadvacations.com was developed by EF Internet Department. Art Director: Helena Sandberg. Project Management: Anders Sjoman. --><!-- www.goaheadvacations.com was updated by the GoNow project team: Michael Demopoulos, Stefan Nilsson, Ari Kalogeropoulos, Karen Breaux, Alexa Gutheil, Alexandra Bernadotte. 4/99 --><!-- www.goaheadvacations.com was further updated by the Tours Internet team: Mark Farris, Karen Breaux, Alexa Gutheil, Stefan Nilsson, Kevin Klinedinst, Chris Eustace, Mitra Morgan. 1/2000. Tours Internet is your new best friend -->
+</tbody></table>
  
 
 
