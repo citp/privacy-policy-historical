@@ -1,29 +1,14 @@
-> *The following text is extracted and transformed from the afternic.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207010700id_/http%3A//afternic.com/index.cfm%3Fa%3Dhelp%26sa%3Dgetstart%26tab%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afternic.com privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616125557id_/http%3A//www.afternic.com/index.cfm%3Fa%3Dhelp%26sa%3Dgetstart%26tab%3Dprivacy) for the most accurate reproduction.*
 
 # Afternic.com - Getting Started
 
-Your privacy is very important to us. As part of the normal operation of our business services, we collect and, in some cases, disclose information about you. This Privacy Policy outlines the information that we collect about you and what may happen to that information. The privacy policies of this notice apply to [http://www.Afternic.com](https://web.archive.org/web/20001207010700id_/http%3A//afternic.com/index.cfm) (hereafter, the Site).
+Your privacy is very important to us. As part of the normal operation of our business services, we collect and, in some cases, disclose information about you. This Privacy Policy outlines the information that we collect about you and what may happen to that information. The privacy policies of this notice apply to [http://www.Afternic.com](https://web.archive.org/web/20010616125557id_/http%3A//www.afternic.com/index.cfm) (hereafter, the Site).
 
-As described below, some of your personally identifiable information is disclosed to third parties and used by us and third parties. By accepting the User Agreement, you expressly consent to our use and disclosure of your personally identifiable information. This Privacy Policy is incorporated into and subject to the terms of the [AFTERNIC.COM, Inc. User Agreement](https://web.archive.org/web/20001207010700id_/http%3A//afternic.com/index.cfm?a=help&sa=getstart&tab=useragreement).
+As described below, some of your personally identifiable information is disclosed to third parties and used by us and third parties. By accepting the User Agreement, you expressly consent to our use and disclosure of your personally identifiable information. This Privacy Policy is incorporated into and subject to the terms of the [AFTERNIC.COM, Inc. User Agreement](https://web.archive.org/web/20010616125557id_/http%3A//www.afternic.com/index.cfm?a=help&sa=getstart&tab=useragreement).
 
 AFTERNIC.COM reserves the right to change its privacy policy from time to time. Before policy changes take effect, however we will post notices prominently.
 
- **1\. TRUSTe Privacy Program**  
-
-
-This confirms that Afternic.com is a licensee of the TRUSTe Privacy Program.This privacy statement discloses the privacy practices for Afternic.com.
-
-TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of:
-
-1.What personally identifiable information of yours or third party personally identification is collected from you through the web site   
-2.The organization collecting the information   
-3.How the information is used   
-4.With whom the information may be shared   
-5.What choices are available to you regarding collection, use and distribution of the information   
-6.The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Afternic.com control   
-7.How you can correct any inaccuracies in the information. 
-
-**2\. Information we collect**  
+ **1\. Information we collect**  
 If you are merely visiting our site, we collect and store only the following information about you:
 
   * The IP address of the terminal from which you access the Internet 
@@ -46,7 +31,7 @@ Cookies are used on certain pages of our site. We offer certain features that ar
 
 When you successfully buy or sell a domain name, we collect some additional information including name servers, administrative contacts, business identification, special registrar requirements, billing address, bank account number, and tracking information from checks and money orders. Bank account information is deleted when your transaction closes. 
 
-**3\. How we use your information**  
+**2\. How we use your information**  
 We use the information we collect from you to transmit administrative notices, buy/sell information and support, billing information, to send you specific information that you have requested, to process your credit card purchases, and to complete the paperwork necessary to transfer a domain name registration. We may also use it to send you information that is targeted to your interests, such as upcoming auctions and promotions. By accepting the User Agreement, you expressly agree to receive this information. Additionally, on appropriate portions of the site, we may display or archive your user name and system- and user-generated feedback, including the comments you submit and that others submit about you.
 
 If you send us personal correspondence, such as emails or letters, or if third parties such as other users send us correspondence about your activities or postings on the site, we may collect such information into a file with information specific to you. We use this information to support your customer inquiries, settle disputes, enforce our User Agreement, maintain our customer ranking system, troubleshoot problems, and to identify you as eligible for special user campaigns. On rare occasions, we may look across multiple users to identify problems, resolve disputes, and evaluate you for multiple user names.
@@ -55,12 +40,12 @@ As a general proposition, we do not sell or rent any personally identifiable inf
 
 Unfortunately, due to the existing regulatory environment, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. As an example, without limiting the foregoing, AFTERNIC.COM will provide personal data records if required by the order of any court of competent jurisdiction. We may disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal and may expose us to legal liability. Therefore, although we use industry standard practices to protect your privacy, we cannot guarantee, and you should not expect, that your personally identifiable information or private communications will remain private.
 
-**4\. Special note about children**  
+**3\. Special note about children**  
 Children are not eligible to use our services. We ask that minors do not submit any personal information to us. 
 
 If you believe your child has errantly submitted personally identifying information on the site, please send us an email message with the name of your child, the email address which the child used to contact us, and the child’s postal address. We will notify you if we have any data matching these identifiers. If you can supply the additional information that we require to authenticate your relationship to the data subject, we will delete the data at your request.
 
-**5\. Your use of other users’ information**  
+**4\. Your use of other users’ information**  
 In order to facilitate community, our service allows you to access other users’ personal information, such as (but not limited to) user name and listed auctions. Further, as a successful buyer or seller, you will be sent the other data subject’s name, address, email address, phone number, fax number, title, DNS information, and registrar identity information. 
 
 By entering into our User Agreement, you agree that, with respect to other user’s personally identifiable information, you obtain through the Site or through an AFTERNIC.COM-related communication or AFTERNIC.COM-facilitated transaction, AFTERNIC.COM hereby grants you license to use such information only for:
@@ -76,7 +61,7 @@ Additionally, under no circumstances, except those defined in this section, can 
 
 AFTERNIC.COM and its users will not tolerate any spam. Without limiting the foregoing, you are not licensed to add any AFTERNIC.COM user, even one with whom you have transacted, to your mail (email or physical) or phone list without their express consent after adequate disclosure.
 
-**8\. Reviewing and changing your information**  
+**7\. Reviewing and changing your information**  
 Following registration, you can review the information you submitted via your personal MY AFTERNIC account, including your Username and encoded credit card information. 
 
 Additionally, you can use your MY AFTERNIC account to review and modify other fields, including first and last name, address information, email address, and password. If you choose to change your email address, we will cross-match your new address in our database for relationship to any other data set. We will only allow unique email addresses to be used for registration.
