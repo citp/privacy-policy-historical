@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supersecret.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607013737id_/http%3A//www.talksurgery.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supersecret.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210062106id_/http%3A//www.talksurgery.com/privacy.html) for the most accurate reproduction.*
 
 # Plastic surgery information service, Privacy Policy
 
@@ -9,8 +9,8 @@
 |  **Related documents:**  
 
 
-  * [**Terms of Use**](https://web.archive.org/web/20040607013737id_/http%3A//www.talksurgery.com/terms.html)
-  * [**Disclaimer**](https://web.archive.org/web/20040607013737id_/http%3A//www.talksurgery.com/disclaimer.html)
+  * [**Terms of Use**](https://web.archive.org/web/20041210062106id_/http%3A//www.talksurgery.com/terms.html)
+  * [**Disclaimer**](https://web.archive.org/web/20041210062106id_/http%3A//www.talksurgery.com/disclaimer.html)
 
 Talksurgery pledges that will not sell or use your materials to anyone.
 
