@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the ultimaterollercoaster.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609174623id_/http%3A//ultimaterollercoaster.com/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimaterollercoaster.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204094827id_/http%3A//www.ultimaterollercoaster.com/info/privacy.shtml) for the most accurate reproduction.*
 
 # Ultimate Rollercoaster - Privacy Policy
 
-  
-
-
-**OUR PRIVACY STATEMENT**  
+  |  **OUR PRIVACY STATEMENT**  
 It is our desire at Ultimate Rollercoaster (TM) to protect the privacy of our guests. This document describes our policy regarding information collected or received during your visit to our web site. Please note that the amount and type of information gathered will vary depending upon your usage.
 
 **Collection of Personal Information**
@@ -22,7 +19,7 @@ An IP address is a number that is automatically assigned to your computer whenev
 
 When you request content from our web servers your IP address is automatically logged. For general use you may remain anonymous to us since our web logs do not contain personal, identifiable information connected and/or linked to your IP address.
 
-There are exceptions to linking personal identifiable information to your IP address. When using our message boards, chat rooms, user profiles, member registration, polls, features that require signing in or contacting us by email, then your IP address may be noted and logged along with any personal information you voluntarily or are required to submit. This information may include but is not limited to your name, home address and email address.
+There are exceptions to linking personal identifiable information to your IP address. When using our message boards, chat rooms, user profiles, member registration, polls, features that require you to sign in or contacting us by email, then your IP address may be noted and logged along with any personal information you voluntarily or are required to submit. This information may include but is not limited to your name, home address and email address.
 
 **Use of Cookies**
 
@@ -30,21 +27,21 @@ Cookies are pieces of information that a web server transfers to your hard drive
 
 We may also use cookies to help us track site activity, including page views, return visits and feature usage. Many of the improvements to the site are based on data that can be collected through the use of cookies.
 
-Web browsers are generally set to accept cookies by default. If you'd prefer not to accept cookies you can change the preferences to not accept cookies or to alert you prior to accepting one.
+Web browsers are generally set to accept cookies by default. If you'd prefer not to accept cookies then you can change the preferences on your browser to not accept cookies or to alert you prior to accepting one.
 
-Ultimate Rollercoaster uses cookies to store preferences, monitor site activity and store session information to enhance your online experience on this web site and to enable features such as our message boards, chat rooms, member registration and polls to function properly. Some sections and site features will not work or function properly without the use of cookies.
+Ultimate Rollercoaster uses cookies to store preferences, monitor site activity and store session information to enhance your online experience on this web site and to enable features such as our message boards, chat rooms, member registration, member features and polls to function properly. Some sections and site features will not work or function properly without the use of cookies.
 
 Ultimate Rollercoaster does not use cookies to retrieve personal information from your computer that was not originally sent to you from our web servers. We do not use cookies internally for site marketing or promotion, nor is the information we store in our cookies shared with third parties.
 
 Some of our cookies sent and stored on your local computer may contain personal identifiable information such as your name, user name or ID and other information that possibly could be traced to you.
 
-You may receive cookies from our advertisers and ad networks. Ultimate Rollercoaster, uses third-parties to server advertising on this web site and has no control over the use of these cookies; therefore they are not subject to our Privacy Policy. The use of cookies by our advertisers is common practice and for more information on how these cookies are used, please read the privacy statements for our advertisers listed below.
+You may receive cookies from our advertisers, affiliates and ad networks. Ultimate Rollercoaster, uses third-parties to server advertising on this web site and has no control over the use of these cookies; therefore they are not subject to our Privacy Policy. The use of cookies by our advertisers is common practice and for more information on how these cookies are used, please read the privacy statements for our advertisers listed below.
 
 **Collection of Personal Identifiable Information**
 
 There are instances or situations on this Web site that may require you to submit personal information to our Web servers. This information such as your name, mailing address, or email address is received, collected and stored on our web servers. Ultimate Rollercoaster is concerned about your privacy and therefore we take measures to ensure that the information we collect is secure from outside sources.
 
-In some cases the personal information you submit, may be accessible to other visitors of this web site. If it is your desire to remain completely anonymous you should not participate or use features of the site that require you to submit personal information.
+In some cases the personal information you submit, may be accessible to other visitors of this web site. If it is your desire to remain completely anonymous then you should not participate or use features of the site that require you to submit personal information.
 
 Please be aware that whenever you give out personal information online - for example, via chat rooms, discussion forums, message boards or user profiles -- information can be collected and used by people and/or third parties you don't know. While it is our goal to protect our users' privacy, we cannot guarantee the security of any information you disclose for public display, and therefore you do so at your own risk.
 
@@ -92,7 +89,7 @@ ValueClick - To find out more about how ValueClick handles your personal informa
 
 **Hyperlinks**
 
-Ultimate Rollercoaster features hyperlinks to other web sites that are independent of this site. The privacy policy is limited to the content hosted under the ultimaterollercoaster.com and does not apply to web sites that we provide links to.
+Ultimate Rollercoaster features hyperlinks to other web sites that are independent of this site. The privacy policy is limited to the content hosted under the ultimaterollercoaster.com domain and does not apply to web sites that we provide links to.
 
 Ultimate Rollercoaster, it's owner(s), webmaster(s), author(s), producer(s) and affiliate(s), make no representation or warranty as to the accuracy, completeness or authenticity of the information contained in any hyperlink or web site that we link to. Please note that hyperlinks are not to be taken as an endorsement by Ultimate Rollercoaster. Use of any hyperlink is done so at your own risk and you willingly accept all risks and liability of doing so.
 
