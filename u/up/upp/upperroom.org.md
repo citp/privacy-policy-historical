@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upperroom.org privacy policy that was archived on 2003-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031009071850id_/http%3A//upperroom.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upperroom.org privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605152454id_/http%3A//www.upperroom.org/privacy) for the most accurate reproduction.*
 
 # Upper Room | Privacy Policy
 
@@ -32,9 +32,9 @@ The information we collect is used only to improve the content of our Web page, 
 
 With respect to cookies: We use cookies to store visitors preferences; record session information, such as items that consumers add to their shopping cart; record user-specific information on what pages users access or visit; or record past activity at a site in order to provide better service when visitors return to our site.
 
-We do not send unsolicited e-mail. However, we do send e-mail newsletters to various Upper Room® e-mail listserves by request of the user. These lists are described on the following web page: <http://www.upperroom.org/mailinglists/> If you do not want to receive e-mail from us, please let us know by sending e-mail to the appropriate list manager (instructions are appended at the bottom of each e-mail we send out). 
+We do not send unsolicited e-mail. However, we do send e-mail newsletters to various Upper Room® e-mail listserves by request of the user. These lists are described on the following web page: <http://www.upperroom.org/subpages/mailinglists.asp> If you do not want to receive e-mail from us, you can unsubscribe your e-mail address by visiting the [unsubscribe page](http://www.upperroom.org/unsubscribe/) (instructions are appended at the bottom of each e-mail we send out). 
 
-We publish an E-Mail Edition of The Upper Room® daily devotional magazine: <http://www.upperroom.org/devotional/email/>. Information collected in the process of subscribing to the E-Mail Devotional is not shared with any other organizations or individuals. 
+We publish an E-Mail Edition of The Upper Room® daily devotional magazine: <http://www.upperroom.org/devotional/email/>. Information collected in the process of subscribing to the E-Mail Devotional or any other Upper Room lists is not shared with any other organizations or individuals. 
 
 If you supply us with your postal address on-line in a bookstore or print magazine order, you may receive mailings of interest to you from us or other selected, reputable companies. You can, however, put your name on our do-not-share list by sending e-mail to us at [marketing@bbs.upperroom.org](mailto:marketing@bbs.upperroom.org) or calling or writing to us at the above address or phone number. Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations.
 
