@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chroniclebooks.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202111400id_/http%3A//www.chroniclebooks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chroniclebooks.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607140142id_/http%3A//www.chroniclebooks.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -27,4 +27,4 @@ KIDS: Make sure you have the permission of your parent or guardian before sendin
 * * *
 
 [Copyright © 1996 - 2000](https://web.archive.org/copyright.html) Chronicle Books LLC  [frontdesk@chronbooks.com](mailto:frontdesk@chronbooks.com)  
-[Site Map](http://www.chroniclebooks.com/sitemap.html) • [Privacy Policy](https://web.archive.org/web/20001202111400id_/http%3A//www.chroniclebooks.com/privacy.html) • Illustrations by [Aufuldish & Warinner](mailto:aufwar@aol.com)
+[Site Map](http://www.chroniclebooks.com/sitemap.html) • [Privacy Policy](https://web.archive.org/web/20010607140142id_/http%3A//www.chroniclebooks.com/privacy.html) • Illustrations by [Aufuldish & Warinner](mailto:aufwar@aol.com)
