@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sqlmag.com privacy policy that was archived on 2002-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021031172354id_/http%3A//www.winnetmag.com/AboutUs/Index.cfm%3FAction%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlmag.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601211501id_/http%3A//www.winnetmag.com/AboutUs/Index.cfm%3FAction%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy
 
