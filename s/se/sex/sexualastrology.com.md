@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexualastrology.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205005117id_/http%3A//www.sexualastrology.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexualastrology.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404000935id_/http%3A//www.sexualastrology.com/privacy_statement.html) for the most accurate reproduction.*
 
 # Sexual Astrology - Privacy Statement
 
@@ -37,4 +37,4 @@ Because SexualAstrology.com operates globally, we make information we gather ava
 
 **Tell us what you think.**
 
-Our goal is to respect your privacy. To help us improve our privacy policies, please give us your [ feedback](https://web.archive.org/web/20041205005117id_/http%3A//www.sexualastrology.com/contact.html). We welcome your comments and questions.
+Our goal is to respect your privacy. To help us improve our privacy policies, please give us your [ feedback](https://web.archive.org/web/20050404000935id_/http%3A//www.sexualastrology.com/contact.html). We welcome your comments and questions.
