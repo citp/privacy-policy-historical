@@ -1,20 +1,110 @@
-> *The following text is extracted and transformed from the irs.gov privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207120835id_/http%3A//www.irs.gov/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irs.gov privacy policy that was archived on 2004-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040624170428id_/http%3A//www.irs.gov/privacy/index.html) for the most accurate reproduction.*
 
-# IRS Privacy and Security Policy
+# IRS Privacy Policy
 
-  
-|  |    
-[Home](https://web.archive.org/index.html) > [IRS Privacy and Security Policy](https://web.archive.org/privacy/index.html)     
-IRS Privacy and Security Policy  |      
-   
-|   
----|---  
-**[**Para ver la versión en Español haga clic aquí.**](https://web.archive.org/privacy/content/0,,id=101291,00.html)** **[**Office of the Privacy Advocate**](https://web.archive.org/privacy/article/0,,id=98563,00.html)**  
-The Internal Revenue Service's Office of the Privacy Advocate ensures that your privacy is protected whenever you visit the IRS website. **[**IRS Privacy Policy**](https://web.archive.org/privacy/article/0,,id=98564,00.html)**  
-We will not collect personal information about you just because you visit this Internet site. **[**Statistical Information**](https://web.archive.org/privacy/article/0,,id=98568,00.html)**  
-In order to improve the website for our visitors, we automatically collect and maintain statistical information from our site's data logs that show network traffic flow and volume.  **[**Security**](https://web.archive.org/privacy/article/0,,id=98572,00.html)**  
-Unauthorized attempts to upload information and/or change information on this website are strictly prohibited and are subject to prosecution under the Computer Fraud and Abuse Act of 1986 and Title 18 USC Sections 1001 and 1030. **[**If You Send Us Information On-line**](https://web.archive.org/privacy/article/0,,id=98577,00.html)**  
-We will only use the information you provide for the reasons you provided it. The information will be disposed of in accordance with National Archives' records management rules. **[**Cookies**](https://web.archive.org/privacy/article/0,,id=98583,00.html)**  
-In order to assist you or to identify you to make certain that you are the correct recipient of information that you have requested, we may use "temporary" or "session" cookies. We do not use "permanent" cookies. **[**Freedom of Information Act (FOIA)**](https://web.archive.org/foia/index.html)**  
-The Freedom of Information Act allows access to most Federal Agency records. **[**Links to Other Sites**](https://web.archive.org/privacy/article/0,,id=98586,00.html)**  
-This website provides access to other web sites outside of our control. When you link to these websites you leave our website and your communications no longer are protected by our privacy policy. 
+[Para ver esta página en español haga clic aquí](https://web.archive.org/privacy/article/0,,id=120920,00.html).
+
+**Office of the Privacy Advocate**  
+**IRS Privacy Policy**  
+**Your Privacy Rights**  
+**Access to Privacy Impact Assessments  
+Statistical Information**  
+**Security**  
+**If You Send Us Information On-Line**  
+**Cookies**  
+**Links to Other Sites**
+
+* * *
+
+### Office of the Privacy Advocate
+
+The Internal Revenue Service's Office of the Privacy Advocate ensures that your personal information is protected whenever you visit the IRS website. If you have any questions or comments regarding the IRS's website privacy policy, please contact us via e-mail at [privacy.advocate@irs.gov](mailto:privacy.advocate@irs.gov) or by conventional mail at the address below.
+
+The Office of the Privacy Advocate  
+Internal Revenue Service  
+Room 7050 OS:PA  
+1111 Constitution Ave. NW  
+Washington, DC 20224
+
+BEFORE YOU WRITE, please note the following: We cannot assist you with individual tax matters. Our office may only address questions about IRS privacy policies or concerns you may have regarding how IRS uses and collects personal information.
+
+* * *
+
+### IRS Privacy Policy
+
+You have entered the Internal Revenue Service's website, an official United States Government System. The IRS uses this website to provide information about IRS services and programs. This website includes specific applications which provide more services or enable us to respond to specific questions from web site visitors.
+
+We will not collect personal information about you just because you visit this Internet site. There are applications on this web site that provide you with the opportunity to order forms, ask questions requiring a response, sign up for electronic newsletters, participate in focus groups, or learn the status of filed returns or anticipated payments. Using these services is voluntary and may require that you provide additional personal information to us. Providing the requested information implies your consent for us to use this data in order to respond to your specific request.
+
+* * *
+
+### Your Privacy Rights
+
+The IRS is committed to protecting the privacy rights of America's taxpayers. These rights are protected by the [Internal Revenue Code](https://web.archive.org/app/scripts/exit.jsp?dest=http%3A%2F%2Ffrwebgate.access.gpo.gov%2Fcgi-bin%2Fget-cfr.cgi%3FTITLE%3D26%26PART%3D601%26SECTION%3D702%26TYPE%3DTEXT), the [Privacy Act of 1994](https://web.archive.org/app/scripts/exit.jsp?dest=http%3A%2F%2Ffrwebgate.access.gpo.gov%2Fcgi-bin%2Fgetdoc.cgi%3Fdbname%3Dbrowse_usc%26docid%3DCite%3A%2B5USC552a), the [Freedom of Information Act](https://web.archive.org/app/scripts/exit.jsp?dest=http%3A%2F%2Ffrwebgate.access.gpo.gov%2Fcgi-bin%2Fgetdoc.cgi%3Fdbname%3Dbrowse_usc%26docid%3DCite%3A%2B5USC552), the [Internal Revenue Restructuring and Reform Act of 1998](https://web.archive.org/individuals/article/0,,id=97702,00.html) and IRS policies and practices. For more information about these laws, visit the [IRS Electronic Freedom of Information Act Reading Room](https://web.archive.org/foia/article/0,,id=98716,00.html) .
+
+* * *
+
+### Access to Privacy Impact Assessments
+
+Privacy Impact Assessments (PIAs) are performed on computer systems and applications in order to evaluate any risks these systems may pose to personally identifiable information.  For a copy of a PIA, go to our [Privacy Impact Assessments](https://web.archive.org/privacy/article/0,,id=122989,00.html) site. Versions are available in Adobe Acrobat, MicroSoft Word, and plain text formats.  If you prefer to receive a paper copy, you may send a request to: 
+
+The Office of the Privacy Advocate  
+Internal Revenue Service  
+Room 7050  OS:PA  
+1111 Constitution Ave. NW  
+Washington, DC 20224
+
+* * *
+
+### Statistical Information
+
+In order to improve service on our website, we automatically collect and maintain statistical information in our site's data logs that show network traffic flow and volume. These logs do not identify individuals who visit our website. This information is:
+
+  * The name of the domain from which the visitor accesses the Internet (for example, “xcompany.com” if you use a private Internet access account; “yourschool.edu” if you connect from an educational domain; or, "agency.gov" if you connect from a US government domain).
+  * The Internet Protocol (IP) Address from which you access our website.
+  * The date and time (with time zone) that you access our website.
+  * The type of browser and operating system used to access our website.
+  * The Internet address of the website from which you linked directly to our website.
+  * The web pages on [www.irs.gov](https://web.archive.org/index.html) that you visit. This helps to determine which information on our site the public finds most useful and enables us to make it easier to access.
+  * Transmission Control Protocol/Internet Protocol (TCP/IP) packet data. This information is used to detect malicious activity on our website.
+  * Session cookie ID. This helps us determine which sequences of pages users typically view. We use this information to make the site easier to use.
+  * Visitor Display Color Depth (e.g., 32 bits, 24 bits, etc.) and Visitor Screen Resolution (e.g., 1024 x 768 pixels, 800 x 600 pixels, etc.). This information helps determine the colors and sizes of graphics and other design elements that work best on our site.
+  * Number of bytes received helps determine the computer and network capacity required to make the site available to the public.
+
+
+
+All of this data is retained for a minimum of 90 days to comply with federal record-keeping requirements, and then deleted. Collection and analysis of this information in the aggregate will enable us to enhance site performance, improve informational materials available on our website, and improve overall customer service.
+
+* * *
+
+### Security
+
+We make no attempts to identify individual users unless we suspect illegal behavior. To keep this service available and secure, we monitor network traffic to identify unauthorized attempts to add or change information, or otherwise cause damage to the website. By using this website you consent to such monitoring. Unauthorized attempts to upload information and/or change information on this website are strictly prohibited and are subject to prosecution under the _Computer Fraud and Abuse Act of 1986_ and _Title 18 USC Sections 1001_ and _1030_.
+
+* * *
+
+### If You Send Us Information On-line
+
+Our website offers the opportunity to ask questions, request information, or to obtain other services. Use of these options is voluntary. By furnishing the requested information, you are deemed to have consented to use of your data. We will use the information you provide only for the reasons you provided it.
+
+To enable us to respond to your requests, you may need to provide personal or tax information. Please read the supplemental Privacy statements that appear and know that whenever we request such information, it will be used only for the purposes you provide it.
+
+Your personal information will not be retained any longer than is necessary to provide the service. And, your personal information will not be sold or shared with any other party except as required by law. The information will be disposed of in accordance with National Archives' records management rules relating to the maintenance of electronic data.
+
+The confidentiality of Internet transactions is not guaranteed. You must decide if you want to assume the risk that an unauthorized person may learn your email address or other information you may provide as it is transmitted. Once received by IRS your information is secured. We will not email refund information, account data, tax data, or other personal information as part of our response to you. If you would like us to answer a question that requires this type of information, please call 1-800-829-1040. You may also visit [How to Contact Us](https://web.archive.org/contact/index.html) in order to locate a specific IRS office that is convenient to you.
+
+* * *
+
+### Cookies
+
+“Persistent cookies” collect personal information to recognize your computer in the future. The IRS does not use “persistent cookies” or other technology to collect personally identifiable information about visitors to our website. 
+
+“Temporary” or “session” cookies are used on all IRS.gov web pages. These cookies are stored in memory and are only available during an active browser session.  Session cookies are used by some of the IRS applications deployed on our website as well as to accurately analyze how visitors navigate through our website at an aggregated-level. These cookies do not collect personal information on visitors, and they are erased as soon as you close your web browser.  No personally identifiable information about you is maintained as a result of a temporary or session cookie.
+
+You can configure your web browser to accept or decline cookies, or to alert you when cookies are in use. You do not have to accept session cookies from us, but if you choose not to, some of the functions on our site may not be available to you.
+
+* * *
+
+### Links to Other Sites
+
+This website provides access to other websites outside our control. When you link to these websites, you leave our website and your communications no longer are protected by our privacy policy. IRS is not responsible for the privacy practices nor the content of non-IRS websites. We recommend that you review the privacy policy or terms and conditions of those sites to fully understand what information is collected and how it is used. The IRS provides links to other websites as a service but does not endorse non-IRS websites or validate their content.
