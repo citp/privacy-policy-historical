@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the areyouprepared.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207053335id_/http%3A//www.areyouprepared.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the areyouprepared.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402055254id_/http%3A//areyouprepared.com/privacy.html) for the most accurate reproduction.*
 
 # Water Storage and Filters - Emergency Preparedness
 
