@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travelguard.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208092937id_/http%3A//www.travelguard.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelguard.com privacy policy that was archived on 2003-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030613044305id_/http%3A//www.travelguard.com/info/privacy.asp) for the most accurate reproduction.*
 
-# America's #1 Travel Insurance - Travel Guard
+# The World's Leading Travel Insurance Provider - Travel Guard
 
 **Secure Transactions**  
 To ensure that every transaction is protected, we use advanced encryption technology; we treat your credit card and personal information with the highest standards of confidentiality and safety. 
