@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eglobe-solutions.com privacy policy that was archived on 2004-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040529000232id_/http%3A//www.eglobe-hotels.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eglobe-solutions.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206191724id_/http%3A//www.eglobe-hotels.com/privacy.asp) for the most accurate reproduction.*
 
-# Online Hotel Reservation, Book Hotels of India, Nepal.
+# Privacy Policy >> EGLOBE TRAVELS
 
 eGlobe-hotels.com is committed to safeguarding your privacy online. Your Information will not be sold to anyone. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings. The policy may change from time to time so please check periodically.
 
