@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trollandtoad.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214041539id_/http%3A//trollandtoad.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trollandtoad.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603131836id_/http%3A//www.trollandtoad.com/privacy.php) for the most accurate reproduction.*
 
-# Magic the Gathering Cards For Sale, also Games, Mage Knight, RPGs, Card Supplies -> Privacy & Security
+# Magic The Gathering Cards, Mage Knight and Other Games For Sale
 
 **Privacy & Security Notice**
 
@@ -20,7 +20,7 @@ On our site, only you or people you give your password to can access the informa
 
 **How secure is the information on the Web site?**
 
-All your private information is stored on the site using Secure Sockets Layer (SSL) software, which encrypts the information you input. Only the information listed in the section below can be physically seen on our site, and only by yourself or someone else you have given your password to. NOTE: Your credit card is never listed on our site. Even when changing your credit card, only the last 5 digits are ever seen. All our credit card processing is handled by IC Verify, a world insternational company authorized by all the major credit card companies to handle confirmation and charging of credit card numbers.
+All your private information is stored on the site using Secure Sockets Layer (SSL) software, which encrypts the information you input. Only the information listed in the section below can be physically seen on our site, and only by yourself or someone else you have given your password to. NOTE: Your credit card is never listed on our site. Even when changing your credit card, only the last 5 digits are ever seen. All our credit card processing is handled by Authorize.net, a world international company authorized by all the major credit card companies to handle confirmation and charging of credit card numbers.
 
 **What information can I access?**
 
@@ -30,13 +30,13 @@ You can access your account information, your wish list, the contents of your cu
 
 If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. 
 
-To correct or update your information go to "[My Account](https://trollandtoad.com/myaccount/index.php)" and choose "[Update My Account Information](https://trollandtoad.com/myaccount/user.php)." 
+To correct or update your information go to "[My Account](https://www.trollandtoad.com/myaccount/index.php)" and choose "[Update My Account Information](https://www.trollandtoad.com/myaccount/user.php)." 
 
 If you wish to remove yourself as a user, you must e-mail customer support with e-mail address, and give us the last 5 digits of your credit card number, and ask to be deleted.  We will delete your registration within 2 business days.
 
 **Choice/Opt-out**
 
-Our users are give the opportunity to "opt-out" of having their information used for purposes not directly related to our site at the point where we ask for the information when you register. For example, under "[Update My Account Information](https://trollandtoad.com/myaccount/user.php)" under the "[My Account](https://trollandtoad.com/myaccount/index.php)" tab, you can choose at any time Yes or No to be on our e-mail mailing list. 
+Our users are give the opportunity to "opt-out" of having their information used for purposes not directly related to our site at the point where we ask for the information when you register. For example, under "[Update My Account Information](https://www.trollandtoad.com/myaccount/user.php)" under the "[My Account](https://www.trollandtoad.com/myaccount/index.php)" tab, you can choose at any time Yes or No to be on our e-mail mailing list. 
 
 Users of our site will never have any information collected for any outside party.
 
