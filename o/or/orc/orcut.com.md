@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the orcut.com privacy policy that was archived on 2004-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040508225924id_/http%3A//www.orcut.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orcut.com privacy policy that was archived on 2004-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040728041424id_/http%3A//orcut.com/privacy.html) for the most accurate reproduction.*
 
 # orkut - privacy policy
 
-  |  **orkut.com Privacy Policy**
+  |  **orkut.com Privacy Policy**  
+v. July 1st, 2004
 
 Welcome to 
 
