@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ibackup.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204211900id_/http%3A//ibackup.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibackup.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603230426id_/http%3A//ibackup.com/policy.htm) for the most accurate reproduction.*
 
-# IBackup - Privacy Statement
+# ibackup - privacy
 
 ## **Privacy Statement for www.ibackup.com**
 
@@ -22,7 +22,7 @@ You can go to **MyIBackup** option after a successful login and uncheck the opti
 
 ## **Security**
 
-Your Password should never be shared with anyone unless you intend to do collaborative work with others who need read/write access to your files . When we receive certain types of sensitive information such as financial information, we redirect visitors to the secure portion of our site using industry standard SSL . This site has security measures in place to protect the loss, misuse and alteration of the information under our control. The user data is password protected.  However, Pro Softnet Corp.. is not responsible for any loss of data upon using this service. For details, please see [terms](https://web.archive.org/terms.htm). IBackup uses **cookies** for user session tracking. The **cookies** are used solely for identifying user sessions and do not store any personal information regarding the user.
+Your Password should never be shared with anyone unless you intend to do collaborative work with others who need read/write access to your files . When we receive certain types of sensitive information such as financial information, we redirect visitors to the secure portion of our site using industry standard SSL . This site has security measures in place to protect the loss, misuse and alteration of the information under our control. The user data is password protected.  However, Pro Softnet Corp. is not responsible for any loss of data upon using this service. For details, please see [terms](https://web.archive.org/terms.htm). IBackup uses **cookies** for user session tracking. The **cookies** are used solely for identifying user sessions and do not store any personal information regarding the user.
 
 **Correct/Update**
 
