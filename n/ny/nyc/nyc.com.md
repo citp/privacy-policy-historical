@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nyc.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204042300id_/http%3A//www.nyc.com/gbl.aspx%3Ft%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyc.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305014946id_/http%3A//nyc.com/gbl.aspx%3Ft%3D7) for the most accurate reproduction.*
 
 # New York City.com : The Authentic Guide to New York City, New York Hotels, New York Restaurants and New York Tours and Tourism plus New York Jobs
 
