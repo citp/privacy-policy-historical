@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the protrafficshop.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210105517id_/http%3A//www.protrafficshop.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protrafficshop.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205151836id_/http%3A//www.protrafficshop.com/privacy.php) for the most accurate reproduction.*
 
 # ProTrafficShop
 
