@@ -1,438 +1,725 @@
-<!--The following is the downloaded HTML source of the marvel.com privacy policy that was archived on 2001-04-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010413030633id_/http%3A//marvel.com/about/legal/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the marvel.com privacy policy that was archived on 2001-10-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011020070408id_/http%3A//marvel.com/about/privacy/privacy_policy.html) for the most accurate reproduction.-->
 
-<html><!-- #BeginTemplate "/Templates/about.dwt" --><head>
+<html><!-- #BeginTemplate "/Templates/blank.dwt" --><head>
+
 <!-- #BeginEditable "doctitle" --> 
-<title>Marvel Entertainment - About Marvel</title>
+<title>Marvel Entertainment - </title>
 <!-- #EndEditable -->
+
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
 <!-- #BeginEditable "metatags" --> 
-<meta name="keywords" content="investor, submissions, employment, job, internship, tour, credits, legal, privacy, advertising, contact, email, snail mail, address, relations">
+<meta name="description" content="">
+<meta name="keywords" content="">
 <!-- #EndEditable -->
-<script language="JavaScript">
+
+<script language="JAVASCRIPT">
 <!--
-function browse() {
-window.open("","browse","width=300,height=600,toolbar=0,location=0,directories=0,status=1,menubar=0,scrollbars=1,resizable=1,copyhistory=1")
-                }
+
+var w,h,NS4Plus,IE4Plus,origWidth,origHeight,query;
+
+
+function pulldown() {
+top.location.href = document.BodyForm.chars.options[document.BodyForm.chars.selectedIndex].value
+}
+
+
+function formSubmit(formName,elementName){
+
+	theForm = eval("document." + formName);
+	theElement = theForm.elements[elementName];
+	if (NS4Plus) {
+		docBodyForm = document.Layer2.document.BodyForm;
+	}
+	else {
+		docBodyForm = document.BodyForm;
+	}
+	if (eval("docBodyForm." + elementName + ".length")){
+		radioGrp = eval("docBodyForm." + elementName);
+		for (var i = 0; i < radioGrp.length; i++){
+			if (radioGrp[i].checked){theElement.value = radioGrp[i].value}
+		}
+	}
+	else {
+		theElement.value = eval("docBodyForm." + elementName +".value");
+	}
+theForm.submit();
+}
+
+
+function RandNum(ceil){
+	x = ((Math.random() * 1000) + 2) % ceil;
+	x = Math.round(x);
+	return x;
+}
 
 //-->
 </script>
 
+
+<script language="JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v3.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+
+ <script language="JavaScript">
+  <!--
+ if (window != top) top.location.href = location.href;
+ // -->
+  </script> 
+
+<script language="JavaScript">        
+
+function arraymaker() {
+	this.length = arraymaker.arguments.length
+	for (var i = 0; i < this.length; i++)
+	this[i+1] = arraymaker.arguments[i]
+}
+var descripts = new arraymaker
+(
+"CHARACTER BIOS",
+"Bios Home",
+"X-Men",
+"Ultimate Marvel",
+"Marvel Universe",
+"Spider-Man",
+"Marvel Knights ",
+"A to Z"  	
+);
+
+var url = new arraymaker
+(   
+" ",
+"/comics/bios/bios_families.html",
+ "/comics/bios/bios_family_xmen.html",
+"/comics/bios/bios_family_ultimate.html",
+"/comics/bios/bios_family_universe.html",
+"/comics/bios/bios_family_spiderman.html",
+"/comics/bios/bios_family_knights.html",
+"/comics/bios/bios_family_a_z.html"
+);
+function jumpPage(form) {
+	i = form.SelectMenu.selectedIndex;
+	if (i == 0 ){return};
+	if (url[i+1] == "") {return};
+	parent.location = url[i+1];
+}
+
+</script>
+
+<script language="JavaScript" src="/lib/banner.js"></script>
+<script language="JavaScript" src="/lib/contextual.js"></script>
+
 </head>
 
-<body bgcolor="#FFFFFF" text="#000000" link="#000000" alink="#000000" vlink="#000000">
-<!-- ADS SECTION --> 
-<table width="640" border="0"> 
+<body bgcolor="#000000" onload="MM_preloadImages('/xtras/nav_top_comics_on.gif','/xtras/nav_top_community_on.gif','/xtras/nav_top_shop_on.gif')" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#0000CC" vlink="#000099" alink="#0000CC">
+
+<a name="top"></a> 
+
+
+<!-- BEGIN : TOP SECTION -->
+<table width="794" cellpadding="0" cellspacing="0" border="0">
+  <tbody><tr>
+	<td align="LEFT"><a href="/" target="_top"><img src="/xtras/logo_marveldotcom.gif" width="125" height="69" alt="HOME" hspace="4" vspace="4" border="0"></a></td>
+    <td align="CENTER"><table width="475" border="0" cellspacing="0" cellpadding="0" align="center" height="60">
+        <tbody><tr>
+          <td><!-- 468x60 AD BANNER -->  <script language="JavaScript">
+
+<!-- Begin
+this_banner = randomBanner();
+
+//  End -->
+</script><a href="https://web.archive.org/web/20011020112416/http://www.dynamicforces.com" target="_blank"><img src="https://web.archive.org/web/20011020112416/http://www.marvel.com/xtras/banner_df.gif" width="468" height="60" border="0" alt="Click Here for Dynamic Forces"></a></td>
+          <td align="left" valign="top"> 
+            <table width="8" border="0" cellspacing="0" cellpadding="0" bgcolor="#666666" height="60" align="center">
+              <tbody><tr>
+                <td> <center>
+              <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><b>A<br>
+              D</b></font> 
+            </center></td>
+              </tr>
+            </tbody></table>
+           
+          </td>
+
+</tr></tbody></table>
+ </td>
+</tr>
+</tbody></table>
+<!-- END : TOP SECTION -->
+
+
+
+<!-- BEGIN : TOP NAVIGATION --> 
+<table width="794" cellpadding="0" cellspacing="0" border="0">
+		<tbody><tr>
+    <td width="133" align="left" valign="bottom"><a href="/comics/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('topnav-comics','','/xtras/topnav_comics_on.gif',1)"><img name="topnav-comics" border="0" src="/xtras/topnav_comics_off.gif" width="133" height="36" alt="Comic Previews"></a></td>
+	<td width="130" align="left" valign="bottom"><a href="/community/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('topnav-community','','/xtras/topnav_community_on.gif',1)"><img name="topnav-community" border="0" src="/xtras/topnav_community_off.gif" width="130" height="36" alt="Community"></a></td>
+    <td width="130" align="left" valign="bottom"><a href="/shop/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('topnav-shop','','/xtras/topnav_shop_on.gif',1)"><img name="topnav-shop" border="0" src="/xtras/topnav_shop_off.gif" width="130" height="36" alt="Shop"></a></td>
+    <td width="401" align="center"> 
+   <table border="0" cellspacing="0" cellpadding="0" width="100%">
+        <tbody><tr> 
+          <td align="right" valign="bottom" width="250" rowspan="2"> <a href="/comics/onsale/"><img src="/xtras/topnav_onsale.gif" width="160" height="30" valign="BOTTOM" alt="Comics Onsale" border="0" vspace="2"></a><img src="/xtras/transparent.gif" width="40" height="30"></td>
+        
+        </tr>
+        <tr>  <form class="small" name="FindFast"></form>
+            <td align="center" valign="middle"> <font face="arial,helvetica" size="2"> 
+              <select class="small" name="SelectMenu" onchange="jumpPage(this.form);">
+<script language="JavaScript"><!--
+tot = descripts.length;
+for (var i = 1; i <= tot; i++)
+document.writeln('<OPTION class=small>' + descripts[i] +'</option>');
+//--></script><option class="small">CHARACTER BIOS</option>
+<option class="small">Bios Home</option>
+<option class="small">X-Men</option>
+<option class="small">Ultimate Marvel</option>
+<option class="small">Marvel Universe</option>
+<option class="small">Spider-Man</option>
+<option class="small">Marvel Knights </option>
+<option class="small">A to Z</option>
+
+</select> 
+	  </font>
+</td> 
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+	<tr><td bgcolor="#999999" colspan="4"><img src="/xtras/transparent.gif" width="794" height="4"></td></tr>
+	<tr>
+		
+    <td bgcolor="#dddddd" colspan="4" valign="top"> <!-- #BeginLibraryItem "/Library/subnav_blank.lbi" --><!-- BEGIN : SUBNAV SSI -->
+		<table cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td><img align="ABSMIDDLE" src="/xtras/transparent.gif" width="4" height="16">
+				<!--<FONT FACE="Verdana, Arial, Helvetica, sans-serif" SIZE="1">&#149;
+				
+
+				
+				</FONT>-->
+				</td>
+			</tr>
+		</tbody></table>
+<!-- END : SUBNAV SSI -->
+<!-- #EndLibraryItem --></td>
+  </tr>
+	<tr><td bgcolor="#999999" colspan="4"><img src="/xtras/transparent.gif" width="794" height="4"></td></tr>
+</tbody></table>
+<!-- END : TOP NAVIGATION -->
+
+
+
+<table width="794" cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr>
 		
-	<td width="120"><!-- 120x60 AD BUTTON -->
-<script language="JavaScript">
-<!--
-var dclkPage = "about;area=about";
-var size = ";sz=120x60";
-var tile = ";tile=1";
-var imgattr = "WIDTH=120 HEIGHT=60";
-var abc = Math.random() + "";
-var random = abc.substring(2,abc.length);
-document.write('<a href="http://ad.doubleclick.net/jump/marvel.com/' + dclkPage + size + tile + ';ord='
- + random + '" target=_blank>');
-document.write('<img src="http://ad.doubleclick.net/ad/marvel.com/' + dclkPage + size + tile + ';ord='
- + random + '" ' + imgattr + ' BORDER=0 ALT="ad"></a>');
-// -->
-</script><a href="http://ad.doubleclick.net/jump/marvel.com/about;area=about;sz=120x60;tile=1;ord=4013087304108023" target="_blank"><img src="http://ad.doubleclick.net/ad/marvel.com/about;area=about;sz=120x60;tile=1;ord=4013087304108023" width="120" height="60" border="0" alt="ad"></a>
-<noscript>
-<A HREF="http://ad.doubleclick.net/jump/marvel.com/about;area=about;sz=120x60;tile=1;ord=666627373562" target="_blank"><IMG SRC="http://ad.doubleclick.net/ad/marvel.com/about;area=about;sz=120x60;tile=1;ord=666627373562" WIDTH="120" HEIGHT="60" BORDER="0" ALT="ad"></A>
-</noscript>
- </td>
-		
-	<td width="520" align="center"><!-- 468x60 AD BANNER --> 
-<script language="JavaScript">
-<!--
-var dclkPage = "about;area=about";
-var size = ";sz=468x60";
-var tile = ";tile=1";
-var imgattr = "WIDTH=468 HEIGHT=60";
-var abc = Math.random() + "";
-var random = abc.substring(2,abc.length);
-document.write('<a href="http://ad.doubleclick.net/jump/marvel.com/' + dclkPage + size + tile + ';ord='
- + random + '" target=_blank>');
-document.write('<img src="http://ad.doubleclick.net/ad/marvel.com/' + dclkPage + size + tile + ';ord='
- + random + '" ' + imgattr + ' BORDER=0 ALT="ad"></a>');
-// -->
-</script><a href="http://ad.doubleclick.net/jump/marvel.com/about;area=about;sz=468x60;tile=1;ord=17749399755361273" target="_blank"><img src="http://ad.doubleclick.net/ad/marvel.com/about;area=about;sz=468x60;tile=1;ord=17749399755361273" width="468" height="60" border="0" alt="ad"></a>
-<noscript>
-<A HREF="http://ad.doubleclick.net/jump/marvel.com/about;area=about;sz=468x60;tile=1;ord=666627373562" target="_blank"><IMG SRC="http://ad.doubleclick.net/ad/marvel.com/about;area=about;sz=468x60;tile=1;ord=666627373562" WIDTH="468" HEIGHT="60" BORDER="0" ALT="ad"></A>
-</noscript>
-</td>
-	</tr>
-</tbody></table>
+    <td valign="TOP" bgcolor="#000000" width="95"> <!-- #BeginLibraryItem "/Library/left_nav.lbi" -->
+<!-- BEGIN : LEFT NAV -->
+<!-- SEARCH --> 
+<!-- <CENTER>
+<br><IMG src="/xtras/transparent.gif" width="80" height="2">
+</CENTER>
+<form action="/search?NS-search-page=results" method="post" name="queryForm">
+  <CENTER>
+        <TABLE bgcolor=#000000 cellpadding=0 cellspacing=0 border=0 width=91>
+          <TR>
+                <TD align=center>
+                  <INPUT NAME="NS-query" SIZE=8 VALUE="NEED TO DO">
+                  <input type="hidden" name="NS-collection" value="marvel_content">
+                  <input type="hidden" name="NS-search-type" value="NS-boolean-query">
+                  <input type="hidden" name="NS-max-records" value="$$NS-max-records">
+                  <INPUT type="image" border="0" name="imageField" src="/xtras/search.gif" width="68" height="34">
+                </TD>
+          </TR>
+        </TABLE>
+  </CENTER>
+</FORM>--> 
 
  
-<!-- MAIN TABLE --> 
-<!-- TOP NAV TABS -->
-<table cellpadding="0" cellspacing="0" border="0" width="638">
-
-	<tbody><tr> 
-    <td width="108" rowspan="3" valign="top"><a href="/" target="_top"><img src="/xtras/marvel.gif" width="108" height="75" border="0" alt="MARVEL.COM"></a></td>
-<td width="12"><img src="/xtras/shim.gif" width="12" height="1" border="0"></td>
-    <td width="70" height="30" valign="bottom"><a href="/comics/comics.html"><img src="/xtras/topnav_comics.gif" width="70" height="30" border="0" alt="Comics"></a></td>
-<td width="11" height="30"><img src="/xtras/shim.gif" width="11" height="1" border="0"></td>
-    <td width="57" height="30" valign="bottom"><a href="/news/news.html"><img src="/xtras/topnav_news.gif" width="57" height="30" border="0" alt="News"></a></td>
-<td width="11" height="30"><img src="/xtras/shim.gif" width="11" height="1" border="0"></td>
-    <td width="108" height="30" valign="bottom"><a href="/fun/fun.html"><img src="/xtras/topnav_fungames.gif" width="108" height="30" border="0" alt="Fun and Games"></a></td>
-<td width="11" height="30"><img src="/xtras/shim.gif" width="11" height="1" border="0"></td>
-    <td width="70" height="30" valign="bottom"><a href="/studios/studios.html"><img src="/xtras/topnav_studios.gif" width="70" height="30" border="0" alt="Studios"></a></td>
-<td width="11" height="30"><img src="/xtras/shim.gif" width="11" height="1" border="0"></td>
-    <td width="92" height="30" valign="bottom"><a href="/community/community.html"><img src="/xtras/topnav_community.gif" width="92" height="30" border="0" alt="Community"></a></td>
-<td width="11" height="30"><img src="/xtras/shim.gif" width="11" height="1" border="0"></td>
-    <td width="55" height="30" valign="bottom"><a href="/shop/shop.html"><img src="/xtras/topnav_shop.gif" width="55" height="30" border="0" alt="Shop"></a></td>
-<td width="11" height="30"><img src="/xtras/shim.gif" width="11" height="1" border="0"></td>
-	</tr>
-	<tr><td valign="top" align="right"><!-- HORIZONTAL STRIPE --><img src="/xtras/stripecorner.gif" width="12" height="11" border="0"></td><td valign="top" colspan="12"><img src="/xtras/h_stripe.gif" width="525" height="7"></td></tr>
-	<tr>
-	<td valign="top" background="/xtras/v_stripe16.gif"><!-- TEXT NAV AND PULLDOWN CHARACTERS --><img src="/xtras/v_stripe12.gif" width="12" height="42" border="0"></td>
-
-		<td colspan="8" valign="middle" align="center"><font face="Verdana,Arial,Helvetica,sans-serif" size="1" color="#000000"><b><a href="/" target="_top">Home</a> 
-			| <a href="/help/sitemap.html">Site Map</a> | <a href="/news/mmmailer/mmmadmin.html">Newsletter</a> 
-			| <a href="/shop/subscriptions/direct.html">Subscriptions</a> | <a href="/partners/partners.html">Partners</a> 
-			| <a href="/help/help.html">Help</a></b></font></td>
-
-        <td colspan="4" valign="middle" align="right"> <font face="arial,helvetica" size="2"> 
-			</font> 
-			<form name="Characters" method="post" action="/cgi-bin/nav.cgi">
-        <font face="arial,helvetica" size="2">
-        <div align="CENTER"> <font face="arial,helvetica" size="2">
-		  <select name="page">
-			<option value="/comics/characters/characters.html" selected="">CHARACTERS 
-			</option>
-			<option value="/comics/characters/avengers.html">Avengers </option>
-			<option value="/comics/characters/bishop.html">Bishop </option>
-			<option value="/comics/characters/black_panther.html">Black Panther 
-			</option>
-			<option value="/comics/characters/blade.html">Blade </option>
-			<option value="/comics/characters/cable.html">Cable </option>
-			<option value="/comics/characters/captain_america.html">Cap America 
-			</option>
-			<option value="/comics/characters/captain_marvel.html">Cap Marvel 
-			</option>
-			<option value="/comics/characters/daredevil.html">Daredevil </option>
-			<option value="/comics/characters/deadpool.html">Deadpool </option>
-			<option value="/comics/characters/dr_strange.html">Dr. Strange </option>
-			<option value="/comics/characters/fantasticfour.html">Fantastic 4 
-			</option>
-			<option value="/comics/characters/gambit.html">Gambit </option>
-			<option value="/comics/characters/generationx.html">Gen. X </option>
-			<option value="/comics/characters/hulk.html">Hulk </option>
-			<option value="/comics/characters/inhumans.html">Inhumans </option>
-			<option value="/comics/characters/iron_man.html">Iron Man </option>
-			<option value="/comics/characters/mutantx.html">Mutant X </option>
-			<option value="/comics/characters/punisher.html">Punisher </option>
-			<option value="/comics/characters/rogue.html">Rogue </option>
-			<option value="/comics/characters/silversurfer.html">Silver Surfer 
-			</option>
-			<option value="/comics/characters/spider-girl.html">Spider-Girl </option>
-			<option value="/comics/characters/spider-man.html">Spider-Man </option>
-			<option value="/comics/characters/spider-woman.html">Spider-Woman 
-			</option>
-			<option value="/comics/characters/storm.html">Storm </option>
-			<option value="/comics/characters/thor.html">Thor </option>
-			<option value="/comics/characters/thunderbolts.html">Thunderbolts 
-			</option>
-			<option value="/comics/characters/wolverine.html">Wolverine </option>
-			<option value="/comics/characters/x-force.html">X-Force </option>
-			<option value="/comics/characters/x-man.html">X-Man </option>
-			<option value="/comics/characters/x-men.html">X-Men </option>
-			<option value="/comics/xmenfiles/xmenfiles.html">X-Men Files</option>
-		  </select>
-		  </font> 
-		  <input type="image" name="Submit3" value="go!" src="/xtras/gobutton.gif" width="23" height="18" border="0" align="MIDDLE" alt="Go!">
-        </div>
-        </font> 
-      </form>
-		</td>	</tr>
-
-	<tr> 
-<td width="108" valign="top" border="2" bordercolor="#FF3333">
-
-		
-
-<table width="108" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF">
-<tbody><tr><td><!-- SEARCH BOX -->
-	  <form action="/search?NS-search-page=results" method="post" name="queryForm">
-		<input type="hidden" name="NS-collection" value="marvel_content">
-		<input type="hidden" name="NS-search-type" value="NS-boolean-query">
-		<input type="hidden" name="NS-max-records" value="$$NS-max-records">
-		<table bgcolor="#EFF496" width="108" cellpadding="0" cellspacing="0" border="0">
-		  <tbody><tr> 
-			<td align="center"><font size="2" face="arial,helvetica"><img src="http://a840.g.akamai.net/7/840/1163/08b76fbec2e950/www.marvel.com/xtras/search.gif" width="108" height="22" border="0" alt="Search!"><br>
-			  <input name="NS-query" size="9" value="">
-			  <input type="image" src="http://a840.g.akamai.net/7/840/1163/7dafa2ad46d629/www.marvel.com/xtras/gobutton.gif" border="0" align="ABSMIDDLE" width="23" height="18" alt="Go!">
-			  <br>
-			  <img src="http://a840.g.akamai.net/7/840/1163/8aa589a68ba226/www.marvel.com/xtras/searchline.gif" width="108" height="2"></font></td>
-		  </tr>
-		</tbody></table>
-	    <br>
-	  </form>
-</td></tr>
-
-
-  <tr>
-	<td width="108" valign="top">
 <center>
-  <form method="post" action="/cgi-bin/mailerlist.cgi">
-  <table width="108" border="0" cellspacing="0" cellpadding="1" bgcolor="#000000">
-    <tbody><tr> 
-      <td> 
-        		<table bgcolor="#FFFFFF" width="100%" border="0" cellspacing="0" cellpadding="3" bordercolor="#CC0000">
-				  <tbody><tr bgcolor="#FFFF99"> 
-					<td align="center"> <font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#0000CC"><font color="#000000">Enter 
-					  your email address for the</font><b><font color="#000000"><br>
-					  Marvel Newsletter!</font></b></font><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000CC"><b> 
-					  </b></font> </td>
-          </tr>
-          <tr> 
-            <td align="center"> 
-                <input type="hidden" name="what" value="add"> 
-                	  <input type="text" name="email" size="9">
-                  
-                <input type="image" src="http://a840.g.akamai.net/7/840/1163/7dafa2ad46d629/www.marvel.com/xtras/gobutton.gif" border="0" align="ABSMIDDLE" width="23" height="18" alt="Go!">
-            </td>
-          </tr>
-        </tbody></table>
-      </td>
-    </tr>
-  </tbody></table>
-  </form>
-</center>
-	</td>
-</tr> 
+ <!-- <IMG src="/xtras/transparent.gif" width="80" height="2"> --><!-- NEWSLETTER --> 
+  <!--<TABLE bgcolor="#e5ecf0" width=91 cellpadding=0 cellspacing=0 border=0>
+        <TR> 
+          <TD align=center><IMG src="/xtras/newsletter_box_top.gif" width="91" height="8"></TD>
+        </TR>
+        <TR> 
+          
+      <TD bgcolor="#e5ecf0" align=center><a href="/community/newsletter/newsletter.html"><IMG src="/xtras/newsletter.gif" width="89" height="18" border="0"></a></TD>
+        </TR>
+        <TR> 
+          <TD align=center bgcolor="#e5ecf0"> <FONT face="Verdana, Arial, Helvetica, sans-serif" size="1"><BR>
+                Enter your<BR>
+                email address<BR>
+                to receive our<BR>
+                e-newsletter!</FONT><BR>
 
 
-<tr> 
-	<td width="108" valign="top" border="2" bordercolor="#FF3333"> <a href="/shop/subscriptions/direct.html"><img src="http://a840.g.akamai.net/7/840/1163/b133a906d27804/www.marvel.com/xtras/010801_subs.gif" width="108" height="51" border="0" alt="Save! on comic book subscriptions!"></a> 
-  </td></tr>
-<tr>
-      
-    <td> 
-      <p align="center"><a href="/dotcomics" target="_blank"><br>
-        <img src="http://a840.g.akamai.net/7/840/1163/d9f5238da2e7fe/www.marvel.com/xtras/dotcomic_uxm3_2.gif" width="101" height="200" border="0"></a></p>
-
-      </td>
-  </tr>
-</tbody></table>
-<br>
 
 
-</td>
 
-		
-		<td width="12" valign="top" background="/xtras/v_stripe16.gif"><!-- VERTICAL STRIPE --><img src="/xtras/v_stripe12.gif" width="12" height="1200" border="0"></td>		
-		
-		<td colspan="12" valign="top">
-		<!-- MAIN CONTENT SECTION -->
-		
+          </TD>
+        </TR>
+        <TR> 
 
-		<!-- SECTION HEADER -->
-		<table width="100%" cellpadding="6" cellspacing="0" border="0" bgcolor="#9BC6E9"><tbody><tr>
-		  			
-		  <td><img src="/xtras/icon_humantorch.gif" width="22" height="30" alt="*"><img src="/xtras/header_about.gif" width="130" height="26" alt="ABOUT MARVEL"></td>
-		</tr></tbody></table>
-		
-		<!-- MAIN CONTENT -->
-		<table width="100%" cellpadding="6" cellspacing="0" border="0">
+
+    <FORM NAME="MMM" METHOD="POST" ACTION="http://wip.marvel.com/cgi-bin/mailerlist.cgi">
+      <INPUT TYPE="Hidden" NAME="what" VALUE="add">
+          <TD bgcolor="#e5ecf0" align=center> 
+         <A HREF="JavaScript: onSubmit('MMM','email')">
+                <INPUT TYPE="text" NAME="email" VALUE="email" SIZE="8" MAXLENGTH="40">
+                <INPUT TYPE="submit" NAME="sumbit" VALUE="Go" SIZE="8" MAXLENGTH="40">
+                <!--
+                <IMG src="/xtras/go.gif" width="45" height="26" border="0">
+                </a> 
+                </FORM>
+        </TR>
+        <TR> 
+          <TD align=center><IMG src="/xtras/newsletter_box_bottom.gif" width="91" height="8"></TD>
+        </TR>
+  </TABLE>
+  <IMG src="/xtras/transparent.gif" width="80" height="2">
+  <!-- LINKS --><br><a href="/shop/subscriptions/direct.html"><img src="/xtras/leftnav_subscriptions.gif" border="0" alt="Subscriptions" width="94" height="39" vspace="5"></a><br><br>
+  <a href="/comics/trailers/trailers_main.html"><img src="/xtras/leftnav_trailers.gif" width="94" height="37" border="0" alt="Marvel Trailers"></a><br>
+  <br>  <br>
+  <a href="http://www.spiderman.sonypictures.com/" target="_blank"><img src="/xtras/leftnav_spidersite.gif" width="93" height="120" alt="Spider-Man Movie Site" border="0"></a><br>
+
+ <br>
+  <br>
+  <a href="/comics/storelocator.html"><img src="/xtras/store_locator.gif" vspace="4" border="0" alt="Store Locator" width="85" height="47"></a><br>
+  <br>
+  <!-- END : LEFT NAV --> 
+</center><!-- #EndLibraryItem --></td>
+		<td valign="TOP" bgcolor="#ffffff" width="699">
+		<table width="100%" cellpadding="0" cellspacing="0" border="0">
 			<tbody><tr>
 				
+          <td colspan="2" valign="TOP" width="100%" bgcolor="#e5ecf0"> <!-- #BeginLibraryItem "/Library/flash_subsection.lbi" -->
+<!-- BEGIN : FLASH SECTION SSI -->
 				
-		  <td width="100%" valign="top"><!-- #BeginEditable "MAINCONTENT" --> 
-			<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><br>
-			  <b>Marvel's Privacy Policy</b></font></p>
-			<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>PRIVACY</b> 
-			  </font></p>
-			<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">It 
-			  is Marvel's policy to respect and protect the privacy of visitors 
-			  to Marvel's web sites. Accordingly, Marvel DOES NOT extract personal 
-			  information about you or your computer at any time on Marvel's web 
-			  sites without your permission. Marvel will, however, analyze information 
-			  about our users as a group to make our web sites better. Users are 
-			  not individually identified when we do this. </font></p>
-			<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Marvel 
-			  will collect personal information such as names, home addresses, 
-			  e-mail addresses, age, etc., but only when you voluntarily give 
-			  it to us when you order subscriptions, the Marvel newsletters, enter 
-			  contests or sweepstakes, or register with the site. This information 
-			  is also used internally by Marvel for fulfilling your requests, 
-			  marketing and research purposes. Marvel will NOT sell, rent or give 
-			  your personal information to any third party unless we ask for and 
-			  receive your permission at the time the personal information is 
-			  collected from you. Marvel does however, share aggregate information 
-			  about the users of Marvel's web sites with our advertisers, business 
-			  partners, sponsors and certain others. As mentioned above, this 
-			  aggregate information is used to develop, improve and customize 
-			  Marvel's web sites to better serve our users. </font></p>
-			<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">If 
-			  you're under thirteen (13) years old, you should not be submitting 
-			  any personal information like your name, address, e-mail address, 
-			  phone number etc., without your parents' permission. You will notice 
-			  that when we have pages which ask for personal information we include 
-			  reminders asking kids to get parental permission before submitting. 
-			  </font></p>
-			<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">We 
-			  may occasionally ask, on a voluntary basis and with prior parental 
-			  permission, if appropriate, for personal information to provide 
-			  to sponsors of particular activities and/or products. This will 
-			  be made clear in each individual case where we have third-party 
-			  sponsors and you will have the opportunity to participate in these 
-			  activities even if you choose not to give permission to Marvel to 
-			  share this information with our sponsors. </font></p>
-			<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Marvel 
-			  uses automated e-mail systems to e-mail weekly newsletters and to 
-			  collect and answer correspondence from our users. While Marvel may 
-			  not have the time or manpower to individually answer each piece 
-			  of correspondence, we do read all of them! </font></p>
-			<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Marvel 
-			  tries to make it easy for you to contact us and we provide easy 
-			  instructions [Geoff should add detail once he gets this worked out] 
-			  on how you can either edit information previously given (such as 
-			  your address) or remove yourself from automated messages generated 
-			  by Marvel each time we send you an automated message. Please contact 
-			  help@marvel.com with technical problems only. </font></p>
-			<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>COOKIES</b> 
-			  </font></p>
-			<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Marvel 
-			  on occasion uses "cookie" technology to enhance your online experience 
-			  by making it easier for you to navigate through our web site or 
-			  to make an activity work better. </font></p>
-			<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Cookies 
-			  are small pieces of information or files that a web site puts on 
-			  your hard disk for record-keeping purposes. Cookies allow your computer 
-			  to "remember" information from our web site for future use. When 
-			  cookies are used, Marvel DOES NOT extract individual information 
-			  about you during this process. The use of cookies is an industry 
-			  standard-in other words, cookies are used by most major web sites. 
-			  </font></p>
-			<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Marvel 
-			  uses information collected by cookies to learn about our users' 
-			  preferences, so that we can make our web sites better. The information 
-			  is about our users as a whole, not about individuals. </font></p>
-			<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>LINKS</b> 
-			  </font></p>
-			<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">We 
-			  try to make sure that when there are links off our site, they are 
-			  working and lead you to interesting, fun and informative areas. 
-			  But it's hard to guarantee what exactly is presented on other sites 
-			  or where links elsewhere may lead to. Marvel is not responsible 
-			  for the content or information provided or requested by these links. 
-			  Marvel strongly recommends that kids check with an adult before 
-			  surfing new sites. </font></p>
-			<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>SECURITY</b> 
-			  </font></p>
-			<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Marvel 
-			  exercises great care and implements a variety of technologies to 
-			  make Marvel web sites as secure as possible against unauthorized 
-			  access and to protect the information you choose to provide to us. 
-			  We periodically review and update these measures. </font></p>
-			<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">In 
-			  compliance with COPPA (Children's Online Privacy Protection Act), 
-			  we're sensitive about children consulting with parents or guardians 
-			  before furnishing personal information or ordering anything online. 
-			  We try to remind kids about this and we encourage parents to supervise 
-			  and join their children in exploring cyberspace. We're proud of 
-			  our web site, believe that it is suitable for Marvel fans of all 
-			  ages and hope you enjoy it too. </font></p>
-			<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">The 
-			  importance of security for all personally identifiable information 
-			  associated with our Guests is of utmost concern to us. We exercise 
-			  great care in providing secure transmission of your information 
-			  from your computer to our servers. Unfortunately, no data transmission 
-			  over the Internet can be guaranteed to be 100% secure. As a result, 
-			  while we strive to protect </font><font face="Verdana, Arial, Helvetica, sans-serif" size="2">your 
-			  personal information, Marvel can't ensure or warrant the security 
-			  of any information you transmit to us or from our online products 
-			  or services, and you do so at your own risk. Once Marvel receives 
-			  your transmission, we make our best effort to ensure its security 
-			  on our systems. Accordingly, if credit card information is transmitted 
-			  to us we will use the industry standard, SSL (secure socket layer) 
-			  encryption. </font></p>
+			
+<table border="0" cellspacing="0" cellpadding="0" height="45" width="100%">
+  <tbody><tr><td>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=4,0,0,0" id="navigation" width="700" height="45">
+ <param name="movie" value="/flash/navigation.swf"> 
+ <param name="quality" value="high"> 
+ <param name="bgcolor" value="#E4ECEF"> 
+<script language="JavaScript">
+<!--
+var plugin = (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"]) ? navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin : 0;
+if ( plugin && parseInt(plugin.description.substring(plugin.description.indexOf(".")-1)) >= 4 ) {
+	// Check for Flash version 4 or greater in Netscape
+	document.write('<EMBED src="/flash/navigation.swf" quality=high bgcolor=#E4ECEF ');
+	document.write(' swLiveConnect=FALSE WIDTH=700 HEIGHT=45');
+	document.write(' TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">');
+} else if (!(navigator.appName && navigator.appName.indexOf("Netscape")>=0 && navigator.appVersion.indexOf("2.")>=0)){
+	// Netscape 2 will display the IMG tag below so don't write an extra one
+	document.write('<A HREF="/dotcomics"><IMG SRC="/xtras/navigation.jpg" WIDTH=700 HEIGHT=45 BORDER=0></A>');
+}
+//-->
+</script><a href="/dotcomics"><img src="/xtras/navigation.jpg" width="700" height="45" border="0"></a>
+<noembed><A HREF="/dotcomics"><IMG SRC="/xtras/navigation.jpg" WIDTH=700 HEIGHT=45 BORDER=0></A></noembed>
+<noscript><A HREF="/dotcomics"><IMG SRC="/xtras/navigation.jpg" WIDTH=700 HEIGHT=45 BORDER=0></A></noscript>
+</object>
+</td></tr>
+</tbody></table>
+				
+<!-- END : FLASH SECTION SSI -->
+<!-- #EndLibraryItem --></td>
+			</tr>
+			<tr>
+				
+		  <td valign="TOP" bgcolor="#ffffff"> <!-- #BeginEditable "MAIN%20CONTENT" -->
+			<table width="90%" border="0" cellspacing="2" cellpadding="2" align="CENTER">
+			  <tbody><tr> 
+				<td> 
+                  <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><br>
+                    <img src="../xtras/privacypolicy.gif" width="167" height="43"></font></p>
+                  <table width="75%" border="0" cellspacing="0" cellpadding="0" align="CENTER">
+					<tbody><tr>
+					  <td>&nbsp;</td>
+					  <td>&nbsp;</td>
+					</tr>
+				  </tbody></table>
+				  <p>&nbsp;</p>
+				  <p> <font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>COLLECTION 
+					OF INFORMATION &amp; USE THEREOF</b> </font></p>
+				  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">It 
+					is Marvel's policy to respect and protect the privacy of visitors 
+					to Marvel's website. Accordingly, Marvel DOES NOT extract 
+					without permission personal information about its visitors 
+					or their computer at any time while on Marvel's website. Marvel 
+					will, however, analyze information about our visitors as a 
+					group to make our website better, but visitors are not individually 
+					identified when we do this. </font></p>
+				  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Marvel 
+					will collect personal information such as names, home addresses, 
+					e-mail addresses, age, etc., but only when a visitor voluntarily 
+					gives it to us in the process of ordering subscriptions or 
+					the Marvel newsletters, entering contests or sweepstakes, 
+					or registering with the Marvel website. This information is 
+					used internally by Marvel to fulfill your requests and for 
+					marketing and research purposes. Marvel will NOT sell, rent 
+					or give a visitor's personal information to any third party 
+					unless Marvel asks for and receives the visitor's permission 
+					at the time the personal information is collected. Marvel 
+					does however, share aggregate information about the users 
+					of Marvel's website with our advertisers, business partners, 
+					sponsors and certain others. As mentioned above, this aggregate 
+					information is used to develop, improve and customize Marvel's 
+					website to better serve visitors to our website. Where Marvel.com's 
+					information collection activities involve children, Marvel.com 
+					provides special privacy protections. </font></p>
+				  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Marvel 
+					is committed to protecting the online privacy of children. 
+					In accordance with the Children's Online Privacy Protection 
+					Act ("COPPA"), Marvel will not knowingly collect any personally 
+					identifiable information from children under the age of thirteen 
+					(13) without first obtaining parental consent. Prior to providing 
+					any personally identifiable information (your name, email 
+					address, address, phone number etc.), either by placing an 
+					order for merchandise, setting up a Marvel.com account, entering 
+					a contest or sweepstakes (if eligible), or participating in 
+					any other activity offered through the Marvel.com site, children 
+					under the age of thirteen (13) must have a parent or legal 
+					guardian complete and return (by mail or fax) a Parental Consent 
+					Form to MARVEL.COM - Marvel Enterprises, Inc., 10 East 40th 
+					Street, 11th Floor, New York, NY 10016; or by fax to: 917 
+					472 2257. The consent form states that the child's "Parent" 
+					or "Legal Guardian", by his or her signature, consents to 
+					the collection and transfer of the child's personally identifiable 
+					information. Consent may be revoked by completing a "Marvel 
+					Revocation of Parental Consent Form" and sending it to the 
+					address or fax number above. </font></p>
+				  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">In 
+					compliance with COPPA, Marvel is sensitive about children 
+					consulting with parents or guardians before furnishing personal 
+					information or ordering anything online. It's also Marvel's 
+					intention to adhere to the Children's Advertising Review Unit 
+					(CARU) Guidelines on Internet advertising with its special 
+					sensitivities regarding solicitations to children under thirteen 
+					(13). Marvel encourages parents/guardians to supervise and 
+					join their children in exploring cyberspace. Marvel is proud 
+					of its website and believes that it is suitable for Marvel 
+					fans of all ages. </font></p>
+				  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Occasionally, 
+					Marvel may ask, on a voluntary basis and with prior parental 
+					permission, if appropriate, for personal information to provide 
+					to sponsors of particular activities and/or products. This 
+					will be made clear in each individual case where we have third-party 
+					sponsors. In the event children under the age of thirteen 
+					(13) are eligible, with parental consent, to participate in 
+					contests, sweepstakes or other activities offered through 
+					our site, we will only collect and use information (e.g., 
+					email address, mailing address, name, age) to the extent that 
+					it is necessary to administer the activity. We will never 
+					require that, as a condition of participation, a child disclose 
+					more information than is necessary to participate in an activity. 
+					</font></p>
+				  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Please 
+					note that if a parent does not permit Marvel.com's use or 
+					collection of personally identifiable information or has instructed 
+					Marvel to delete personally identifiable information, a child's 
+					participation in those Marvel.com activities for which the 
+					personally identifiable information has been requested may 
+					not be possible. </font></p>
+				  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Marvel 
+					will not disclose information collected from children under 
+					the age of thirteen (13) (or from adults for that matter) 
+					to third parties unless indicated otherwise or in special 
+					cases where Marvel has reason to believe that disclosure is 
+					necessary to identify, contact or bring legal action against 
+					someone who may be causing injury to or interference (whether 
+					intentionally or unintentionally) with Marvel's rights or 
+					property or anyone else who may be harmed by such actions 
+					or if required by law. </font></p>
+				  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Marvel 
+					recommends that parents/guardians monitor and supervise the 
+					online activities of their children and to consider using 
+					available parental control tools which can prevent children 
+					from disclosing their name, address, and other personal information 
+					without parental permission. Visitors to Marvel's website 
+					who are under thirteen (13) years old should not be submitting 
+					any personal information like their name, address, e-mail 
+					address, phone number etc. without a parent's or guardian's 
+					permission. </font></p>
+				  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><br>
+					CORRESPONDENCE &amp; WEEKLY NEWSLETTERS</b></font></p>
+				  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+					Marvel uses automated e-mail systems to e-mail weekly newsletters 
+					and to collect and answer correspondence from our visitors. 
+					While Marvel may not have the time or manpower to individually 
+					answer each piece of correspondence, we do read all of them! 
+					</font></p>
+				  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Marvel 
+					tries to make it easy for visitors to contact Marvel.com and 
+					we provide easy instructions on our website on how you can 
+					either edit information previously given (such as your address) 
+					or remove yourself from automated messages generated by Marvel. 
+					Should you have a technical problem doing this please contact 
+					HelpDesk@marvel.com. </font></p>
+				  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>COOKIES</b></font></p>
+				  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Marvel 
+					uses "cookie" technology to enhance a visitor's online experience 
+					by making it easier to navigate through our website or to 
+					make an activity work better. </font></p>
+				  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Cookies 
+					are small pieces of information or files that a website puts 
+					on a computer's hard disk for record-keeping purposes. Cookies 
+					allow a computer to "remember" information from our website 
+					for future use. The use of cookies is an industry standard 
+					and is practiced by most major websites.</font></p>
+				  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Marvel 
+					DOES NOT use cookies to collect or record personally identifiable 
+					information about visitors to Marvel.com. Marvel uses information 
+					collected by cookies to learn about our visitors' preferences, 
+					so that we can make our website better. The information is 
+					about our visitors as a whole, not about individuals. </font></p>
+				  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>ELECTRONIC 
+					POSTCARDS </b></font></p>
+				  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Visitors 
+					to Marvel.com can send electronic postcards to their friends. 
+					In order to do this visitors are asked to provide only their 
+					first name and their friend's first name and e-mail address, 
+					all of which are deleted once the postcard is sent.<br>
+					</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b> 
+					</b></font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><br>
+					REQUESTS FOR FEEDBACK </b></font></p>
+				  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Marvel.com 
+					may request feedback from visitors regarding an activity or 
+					piece of content on the Marvel.com website. Feedback is used 
+					for internal purposes only, and any personally identifiable 
+					information that is accidentally submitted is deleted. </font></p>
+				  <p><a name="links"></a><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>ADVERTISEMENTS 
+					AND LINKS </b></font></p>
+				  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Marvel.com 
+					may include advertisements and/or links to websites operated 
+					by third parties that are not sponsors and are not affiliated 
+					with Marvel. Marvel tries to make sure that when there are 
+					links off the Marvel website, they are working and lead visitors 
+					to interesting, fun and informative areas. However, it is 
+					hard to guarantee what exactly is presented on other sites 
+					or where links elsewhere may lead. Marvel is not responsible 
+					for the content, practices, or information provided or requested 
+					on websites operated by third parties. Further, advertisements 
+					on and links to or from Marvel.com do not constitute sponsorship, 
+					endorsement, or approval by Marvel of the content, policies, 
+					practices or products or services offered on these websites. 
+					Marvel.com will always mark advertisements as advertisements 
+					and will display and notify visitors when they are leaving 
+					Marvel.com.</font></p>
+				  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Parents/guardians 
+					should check each website's privacy policy and terms of use 
+					in order to understand their policies and practices regarding 
+					the collection and use of personally identifiable information. 
+					Marvel also suggests that parents/guardians review the privacy 
+					policies of all websites that their children visit, including 
+					those websites linking to or from the Marvel websites. Information 
+					provided to those websites will be subject to the privacy 
+					policy posted at that website.</font></p>
+				  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>SECURITY 
+					</b> </font></p>
+				  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">The 
+					importance of security for all personally identifiable information 
+					associated with Marvel.com visitors is of utmost concern to 
+					us. Marvel exercises great care and implements a variety of 
+					technologies to make the Marvel website as secure as possible 
+					against unauthorized access and to protect the information 
+					visitors choose to provide to us. Marvel periodically reviews 
+					and updates these measures. Unfortunately, no data transmission 
+					over the Internet can be guaranteed to be one hundred percent 
+					(100%) secure. As a result, while Marvel strives to protect 
+					a visitor's personal information, Marvel can not ensure or 
+					warrant the security of any information transmitted to us 
+					or from our online products or services, and a visitor does 
+					so at his/her own risk. Marvel uses the industry standard, 
+					SSL (secure socket layer) encryption when credit card information 
+					is transmitted to us. </font></p>
+				  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>REVIEW 
+					AND DELETION OF PERSONAL INFORMATION </b></font></p>
+				  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">You 
+					may review and delete your personally identifiable information 
+					contained in Marvel's records at any time. If you would like 
+					to review or delete this information, please contact us at: 
+					</font></p>
+				  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Marvel 
+					Enterprises Inc. <br>
+					Attn: Online Privacy <br>
+					10 East 40th Street, 11th Floor <br>
+					New York, NY 10016 <br>
+					privacy@marvel.com <br>
+					Fax: 917-472-2257 </font></p>
+                  <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>QUESTIONS, 
+					SUGGESTIONS &amp; COMMENTS </b></font></p>
+				  <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Please 
+					contact us at privacy@marvel.com or write to us at: Business 
+					&amp; Legal Affairs, Marvel Enterprises, Inc., 10 East 40th Street, 
+					9th Floor, New York, New York, 10016 with any questions regarding 
+					Marvel's privacy policy. </font></p>
+				  <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>KIDS:</b> 
+					Never provide any information about yourself on the Internet 
+					without your parent's/guardian's permission. Please read Marvel's 
+					Parental Consent Policy (see below) with your parent's/guardian's 
+					before you go any further. Marvel requires your parents'/guardian's 
+					written permission for children under thirteen (13) to provide 
+					us with certain information required to get the Marvel Newsletter, 
+					order subscriptions or enter certain clubs etc. on the Marvel 
+					websites. </font></p>
+				  <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b><a href="pdfs/consent.pdf">MARVEL'S 
+					PARENTAL CONSENT POLICY</a> </b></font></p>
+				  <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Marvel 
+					is committed to protecting the online privacy of children. 
+					In accordance with the Children's Online Privacy Protection 
+					Act, Marvel will not knowingly collect any personally identifiable 
+					information from children under the age of thirteen (13) without 
+					first obtaining parental consent. </font></p>
+				  <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>IMPORTANT 
+					NOTICE to Children Under the Age of thirteen (13): </b></font></p>
+				  <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Prior 
+                    to providing any personally identifiable information (your 
+                    name, email address, address, phone number etc.), either by 
+                    placing an order for merchandise, setting up a Marvel.com 
+                    account, entering a contest or sweepstakes (if eligible), 
+                    or participating in any other activity offered through the 
+                    Marvel.com site, children under the age of thirteen (13) must 
+                    have a "Parent" or "Legal Guardian" complete and return (by 
+                    mail or fax) a <a href="pdfs/consent.pdf">Parental Consent 
+                    Form</a> to MARVEL.COM - Marvel Enterprises, Inc., 10 East 
+                    40th Street, 11th Floor, New York, NY 10016; or by fax to: 
+                    917 472 2257. The consent form states that the child's "Parent" 
+                    or "Legal Guardian," by his or her signature, consents to 
+                    the collection and transfer of the child's personally identifiable 
+                    information. Consent may be revoked by completing a "<a href="pdfs/revocation.pdf">Marvel 
+                    Revocation of Parental Consent Form</a>" and sending it to 
+                    the address or fax number above. </font></p>
+				  <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">If 
+					parental consent has been given, Marvel will only collect 
+					and use personal information (e.g., email address, mailing 
+					address, payment method and details) to the extent necessary 
+					to administer the requested activity. For example, the information 
+					will be used to: 1. To process and fulfill orders for subscriptions; 
+					2. To send the Marvel Newsletter or other pertinent information 
+					by email; and 3. To notify winners of contests and sweepstakes 
+					(if children under thirteen (13) were eligible). </font></p>
+				  <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Information 
+					collected may also be used by Marvel for internal review purposes 
+					in aggregate.</font></p>
+				  <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> 
+					Marvel will not disclose information collected from children 
+					under the age of thirteen (13) (or from adults for that matter) 
+					to third parties unless indicated otherwise or in special 
+					cases where Marvel has reason to believe that disclosure is 
+					necessary to identify, contact or bring legal action against 
+					someone who may be causing injury to or interference (whether 
+					intentionally or unintentionally) with Marvel's rights or 
+					property or anyone else who may be harmed by such actions 
+					or if required by law. </font></p>
+				  <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Please 
+					contact us at privacy@marvel.com or write to us at Business 
+					&amp; Legal Affairs, Marvel Enterprises, Inc., 10 East 40th Street, 
+					9th Floor, New York, New York, 10016 with any questions regarding 
+					Marvel's privacy policy or information collected pursuant 
+					to the policy. </font></p>
+				  <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Marvel 
+					recommends that parents/guardians monitor and supervise the 
+					online activities of their children and to consider using 
+					parental control tools available which can prevent children 
+					from disclosing their name, address, and other personal information 
+					without parental permission. </font></p>
+				  <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Marvel 
+					also suggests that parents/guardians review the privacy policies 
+					of all websites that their children visit, including those 
+					websites linking to or from the Marvel websites. Information 
+					provided to those websites will be subject to the privacy 
+					policy posted at that website. The fact that another website 
+					has established a link to or from a Marvel website is not 
+					an endorsement of that website's privacy policy by Marvel. 
+					</font></p>
+				  <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">In 
+					the event children under the age of thirteen (13) are eligible, 
+					with parental consent, to participate in contests, sweepstakes 
+					or other activities offered through our site, we will only 
+					collect and use information (e.g., email address, mailing 
+					address, name, age) to the extent that it is necessary to 
+					administer the activity. We will never require that a child 
+					disclose more information than is necessary to participate 
+					in an activity as a condition of participation.</font><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+					</font></p>
+                  </td>
+			  </tr>
+			</tbody></table>
 			<!-- #EndEditable --> <br>
-			<br><br>
-			<!-- BOTTOM NAV -->
-<center>
+<br>
+            <!-- FOOTER --> <!-- #BeginLibraryItem "/Library/footer.lbi" --><center>
   <table width="400">
 	<tbody><tr> 
 	  <td align="center"> 
-		<hr> 
-		<p><font size="1" face="arial,helvetica"><a href="/about/about.html">ABOUT MARVEL</a><br>
-          <a href="/about/legal/privacy.html">Privacy Policy</a> | <a href="/about/advertising/advertising.html">Advertising</a> 
-          | <a href="/about/appearances/appearances.html">Character Bookings</a> 
-          | <a href="/comics/store_locator/store_locator.html">Comic Shop Locator</a><br>
-          <a href="/">Home</a> | <a href="/help/sitemap.html">Site Map</a> | <a href="/news/mmmailer/mmmadmin.html">Newsletter</a> 
-		  | <a href="/shop/subscriptions/direct.html">Subscriptions</a> | <a href="/partners/partners.html">Partners</a> 
-		  | <a href="/help/help.html">Help</a><br><a href="/comics/comics.html">Comics</a> | <a href="/news/news.html">News</a> 
-		  | <a href="/fun/fun.html">Fun &amp; Games</a> | <a href="/studios/studios.html">Studios</a> 
-		  | <a href="/community/community.html">Community</a> | <a href="/shop/shop.html">Shop</a> 
-		  | <a href="/comics/characters/characters.html">Characters</a></font></p>
-		<p><font face="Arial, Helvetica, sans-serif" size="1"><a href="/about/legal/legal.html">™ 
+		<hr>
+		<p><font face="Arial, Helvetica, sans-serif" size="2"><a href="#top">Back 
+		  To Top</a></font></p>
+		<p><font size="1" face="arial,helvetica"><a href="/about/about.html">About 
+          Marvel</a> | <a href="/help_section/help_main.html">Help</a> | <a href="/about/privacy/privacy_policy.html">Privacy Policy</a> | <a href="/help_section/sitemap.html">Site 
+          Map</a> | <a href="/about/partners/partners.html">Partners</a><br><br>
+          </font>
+        </p><p><font face="Arial, Helvetica, sans-serif" size="1"><a href="/about/legal_notice/legal_notice.html">™ 
           &amp; © 2001 Marvel Enterprises, Inc. &amp; Marvel Characters, 
           Inc.</a></font> </p>
 	  </td>
 	</tr>
   </tbody></table>
-</center>
-			<!-- END MAIN CONTENT --> 
-				</td>
-		
-		
-		
-		<!-- RIGHT NAV SECTION -->
+</center><!-- #EndLibraryItem --> </td>
+
 				
-				    <td bgcolor="#eeeeee" width="100" valign="top"><!-- #BeginEditable "RIGHTCOLUMN" -->
-<div align="CENTER"> 
-  <p><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a href="/about/advertising/advertising.html"><font color="#0000CC">Advertising<br>
-    Info</font></a></font></b></p>
-  <p><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a href="/about/contact.html"><font color="#0000CC">Contact<br>
-    Us</font></a></font></b></p>
-  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a href="/about/appearances/appearances.html"><font color="#0000CC"><b>Character<br>
-	Bookings &amp;<br>
-	Appearances</b></font></a></font><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
-	</font></b></p>
-  <p><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a href="/about/legal/legal.html"><font size="2"><b><font face="Verdana, Arial, Helvetica, sans-serif"></font></b></font></a><font size="2"><b><font face="Verdana, Arial, Helvetica, sans-serif"><a href="/about/employment/employment.html"><font color="#0000CC">Employment<br>
-    Opportunities</font></a></font></b></font></font></b></p>
-  <p><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a href="/about/legal/legal.html"><font size="2"><b><font face="Verdana, Arial, Helvetica, sans-serif"></font></b></font></a><font size="2"><b><font face="Verdana, Arial, Helvetica, sans-serif"><a href="/about/internships/internships.html"><font color="#0000CC">Internships</font></a></font></b></font></font></b></p>
-  <p><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a href="/about/legal/legal.html"><font color="#0000CC">Legal 
-    Notice</font></a></font></b></p>
-	
-  <p><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a href="/about/mediarelations.html"><font color="#0000CC">Media<br>
-    Relations</font></a></font></b></p>
-  <p><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a href="/about/legal/privacy.html"><font color="#0000CC">Privacy 
-    Policy</font></a></font></b></p>
-  <p><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a href="/about/advertising/advertising.html"></a></font></b><font size="2"><b><font face="Verdana, Arial, Helvetica, sans-serif"><a href="/about/credits.html"><font color="#0000CC">Site 
-    Credits</font></a></font></b></font></p>
-	
-  <p><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a href="/about/mediarelations.html"></a><a href="/about/submissions_guide/submissions_guide.html"><font color="#0000CC">Submissions<br>
-    Guide</font></a></font></b></p>
-  <p><b><font size="2"><b><font face="Verdana, Arial, Helvetica, sans-serif"><font size="2"><b><font face="Verdana, Arial, Helvetica, sans-serif"><a href="/about/tours.html"><font color="#0000CC">Tours</font></a></font></b></font> 
-    </font></b></font></b></p>
-  <p><font size="2"><b><font face="Verdana, Arial, Helvetica, sans-serif"><a href="/about/employment/employment.html"><font size="2"><b><font face="Verdana, Arial, Helvetica, sans-serif"></font></b></font></a> 
-    </font></b></font></p>
-  <p><font size="2"><b><font face="Verdana, Arial, Helvetica, sans-serif"><a href="/about/employment/employment.html"></a></font></b></font></p>
-    
-  <p><font size="2"><b><font face="Verdana, Arial, Helvetica, sans-serif"><a href="/about/internships/internships.html"></a></font></b></font> 
-  </p>
-    
-  <p>&nbsp; </p>
-	<p><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a href="/about/contact.html"></a></font></b></p>
-</div>
-<!-- #EndEditable --></td> 
-				
+
 
 			</tr>
 		</tbody></table>
 		</td>
-		
 	</tr>
 </tbody></table>
 
 
 
+<form name="queryForm" method="POST" action="/search?NS-search-page=results">
+	<input type="hidden" name="NS-collection" value="marvel_content">
+	<input type="hidden" name="NS-search-type" value="NS-boolean-query">
+	<input type="hidden" name="NS-max-records" value="$$NS-max-records">
+	<input type="hidden" name="NS-query">
+</form>
 
-<!-- #EndTemplate --></body></html>
+<form name="MMM" method="POST" action="http://www.marvel.com/cgi-bin/mailerlist.cgi">
+	<input type="Hidden" name="what" value="add">
+	<input type="Hidden" name="email">
+</form>
+
+<form name="powerPoll" method="post" action="http://www.marvel.com/cgi-bin/ppvote.cgi">
+	<input type="Hidden" name="submit2" value="add">
+	<input type="Hidden" name="choice">
+</form>
+
+
+
+
+
+<!-- #EndTemplate -->
+</body></html>
