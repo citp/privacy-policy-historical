@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the spss.com privacy policy that was archived on 2002-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021208053853id_/http%3A//www2.spss.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spss.com privacy policy that was archived on 2003-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030602174426id_/http%3A//www2.spss.com/privacy.htm) for the most accurate reproduction.-->
 
 <html><head><link rel="stylesheet" href="/css/new_spss.css">  
 <!--- Mouseover Script --->
@@ -173,9 +173,10 @@
 <a class="biglink" href="/products"> <span class="navbar">Products &amp; Solutions</span></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a class="biglink" href="/applications/"><span class="navbar">Applications</span></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a class="biglink" href="/estore/softwaremenu/"><span class="navbar">Store</span></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a class="biglink" href="/downloads"><span class="navbar">Downloads</span></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a class="biglink" href="/tech/spssdefault.htm"><span class="navbar">Support</span></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a class="biglink" href="/training/"><span class="navbar">Training</span></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a class="biglink" href="/services/"><span class="navbar">Services</span></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a class="biglink" href="/spssbi/consulting/"><span class="navbar">Services</span></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a class="biglink" href="/partners/"><span class="navbar">Partners</span></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a class="biglink" href="/corpinfo/"><span class="navbar">Company</span></a>
 
@@ -192,10 +193,10 @@
 
 </tr></tbody></table><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td>
 
-<table cellpadding="0" cellspacing="0" width="517" border="0">
+<table cellpadding="0" cellspacing="0" width="517" height="90" border="0">
 <tbody><tr>
 <td width="30">&nbsp;</td>
-<td width="114">
+<td width="114" valign="top">
 <!--- date script --->
 	<script language="JavaScript">
 
@@ -264,17 +265,17 @@ function getCookie(name) {
 
 var vRLNName = getCookie("RLNNAME");
 if (vRLNName != null) {
-	document.write("<br><br><span class=WelcomeBack>Welcome back, "+vRLNName+"</span>");
-	document.write("<br><a href='/registration/login/login.cfm'>If you are not "+vRLNName+", please click here</a>");
+	document.write("<br><b><span class='body_text'>Welcome back, "+vRLNName+" </b></span>");
+	document.write("<br><a href='https://www.spss.com/registration/login/login.cfm'>Create or update your login profile</a>");
 	}
 else
 	{
-	document.write("<span class=WelcomeBack>Welcome to SPSS.com<br></span>");
-	document.write("<a href='/registration/login/login.cfm'>Click here to login or register</a>");
+	document.write("<br><b><span class='body_text'>Welcome to SPSS.com</span></b><br>");
+	document.write("<a href='https://www.spss.com/registration/login/login.cfm'>Click here to login or register</a>");
 	}
 	//  -->
-</script><span class="WelcomeBack">Welcome to SPSS.com<br></span><a href="/registration/login/login.cfm">Click here to login or register</a>
-<cfinclude template="/02root/spssbi/includes/wb.txt">
+</script><br><b><span class="body_text">Welcome to SPSS.com</span></b><br><a href="https://www.spss.com/registration/login/login.cfm">Click here to login or register</a>
+<cfinclude template="/02includes/wb.txt">
 
 
 </cfinclude></td>
@@ -286,23 +287,32 @@ else
 
 <script>
 
-i = Math.floor(Math.random()*3) + 1;
+i = Math.floor(Math.random()*4) + 1;
+
 
 if(i==1)
 
-document.write("<img hspace='0' src='/images/SPSSWEB160.jpg' alt='SPSS gives you the best software for solving business and research problems using statistics.' width='160' height='90' border='0' align='left'><img src='/images/yellow_bar_fill2.gif' width='25' height='90' alt='' border='0' hspace='0' vspace='0' align='left'><span class='CallOut'><br><a href='/02whats_new.htm'>What’s new in SPSS 11.5? Plenty of features and benefits to make your job easier. Read more...</a></span></td>");
+document.write("<img hspace='0' src='/images/pred_web160x90.gif' alt='Close the Web metrics gap with predictive analytics' width='160' height='90' border='0' align='left'><img src='/images/yellow_bar_fill2.gif' width='25' height='90' alt='' border='0' hspace='0' vspace='0' align='left'><span class='CallOut'><br><a href='/press/template_view.cfm?PR_ID=592'>Close the Web metrics gap with predictive analysis</a> </span></td>");
 
 else if(i==2)
 
-document.write("<img hspace='0' src='/spssbi/tables/images/Tables1.jpg' alt='Report your results in a tabular format with SPSS Tables, an SPSS add-on module.' width='160' height='90' border='0' align='left'><img src='/images/yellow_bar_fill2.gif' width='25' height='90' alt='' border='0' hspace='0' vspace='0' align='left'><span class='CallOut'><br><a href='/tables'>Build tables with confidence! Check out the all-new SPSS Tables and its many time-savers.</a> </span></td>");
+document.write("<img hspace='0' src='/images/amos160X90.gif' alt='Create more accurate models with structural equation modeling (SEM) techniques' width='160' height='90' border='0' align='left'><img src='/images/yellow_bar_fill2.gif' width='25' height='90' alt='' border='0' hspace='0' vspace='0' align='left'><span class='CallOut'><br><a href='/spssbi/amos'>Create more accurate models with structural equation modeling (SEM) techniques</a></span></td>");
+
+else if(i==3)
+
+document.write("<img hspace='0' src='/images/mropinionplace160x90.gif' alt='Improve online analysis with real-time, prescreened samples from AOL and SPSS MR' width='160' height='90' border='0' align='left'><img src='/images/yellow_bar_fill2.gif' width='25' height='90' alt='' border='0' hspace='0' vspace='0' align='left'><span class='CallOut'><br><a href='/spssmr/opinionplace'>Improve online analysis with real-time, prescreened samples from AOL and SPSS MR</a> </span></td>");
+
+else if(i==4)
+
+document.write("<img hspace='0' src='/images/see_it_in_spss160x90.gif' alt='See Amos 5.0 in action!' width='160' height='90' border='0' align='left'><img src='/images/yellow_bar_fill2.gif' width='25' height='90' alt='' border='0' hspace='0' vspace='0' align='left'><span class='CallOut'><br><a href='/seeit'>See Amos 5.0 in action in this online seminar!<br><br>Get dates and times.</a> </span></td>");
 
 else
 
-document.write("<img hspace='0' src='/spssbi/clementine/images/clemweb160.jpg' alt='Create and deploy powerful predictive modles in Clementine.' width='160' height='90' border='0' align='left'><img src='/images/yellow_bar_fill2.gif' width='25' height='90' alt='' border='0' hspace='0' vspace='0' align='left'><span class='CallOut'><br><a href='/clementine'>Generate maximum return on data in minimum time with Clementine 7.0</a> </span></td>");
+document.write("<img hspace='0' src='/images/SPSSforMac_160x90.gif' alt='SPSS 11.0 for Mac OS X' width='160' height='90' border='0' align='left'><img src='/images/yellow_bar_fill2.gif' width='25' height='90' alt='' border='0' hspace='0' vspace='0' align='left'><span class='CallOut'><br><a href='/spssbi/spss_mac'>SPSS® 11.0 for Mac OS X<BR><BR>Make more informed decisions using statistics on your Mac</a> </span></td>");
 
 
 
-</script><img hspace="0" src="/images/SPSSWEB160.jpg" alt="SPSS gives you the best software for solving business and research problems using statistics." width="160" height="90" border="0" align="left"><img src="/images/yellow_bar_fill2.gif" width="25" height="90" alt="" border="0" hspace="0" vspace="0" align="left"><span class="CallOut"><br><a href="/02whats_new.htm">What’s new in SPSS 11.5? Plenty of features and benefits to make your job easier. Read more...</a></span></td>
+</script><img hspace="0" src="/images/amos160X90.gif" alt="Create more accurate models with structural equation modeling (SEM) techniques" width="160" height="90" border="0" align="left"><img src="/images/yellow_bar_fill2.gif" width="25" height="90" alt="" border="0" hspace="0" vspace="0" align="left"><span class="CallOut"><br><a href="/spssbi/amos">Create more accurate models with structural equation modeling (SEM) techniques</a></span></td>
 
  
 
@@ -322,8 +332,17 @@ document.write("<img hspace='0' src='/spssbi/clementine/images/clemweb160.jpg' a
 <tr><td background="/images/curve.gif" width="203" height="48">
 <!--SEARCH FIELD-->
 	<table width="100%" cellspacing="0" cellpadding="0" border="0" alt=""><tbody><tr><td>
-	<form method="get" title="search" action="/searchaction.cfm" name="fsearch">
+	<form method="post" action="/new_searchaction.cfm">
 	
+	<input type="hidden" name="Action" value="Search" size="15">
+<input type="hidden" name="collection" value="SPSSmain" size="15">
+<input type="hidden" name="Filter" value="filter.hts" size="15"> 
+<input type="hidden" name="ResultTemplate" value="allin101.hts" size="15"> 
+
+<!--- <INPUT TYPE="hidden" NAME="QueryText[2]" VALUE="homepage <CONTAINS> homepage" size="15">
+<INPUT TYPE="hidden" NAME="QueryWeight[2]" VALUE="50" size="15"> --->
+
+
 	</form></td><td width="50" align="center">
 	
 	
@@ -349,7 +368,11 @@ document.write("<img hspace='0' src='/spssbi/clementine/images/clemweb160.jpg' a
 	</tr></tbody></table>
 <!--END SEARCH FIELD-->
 
-</td></tr></tbody></table>
+</td></tr>
+
+<tr><td valign="bottom"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr height="20"><td width="13">&nbsp;</td><td valign="bottom"><a href="/estore/shoppingcartrouter.cfm"><img border="0" width="25" src="/home_page/images/shopping_cart.gif">View shopping cart</a></td></tr></tbody></table></td></tr>
+
+</tbody></table>
 </td></tr></tbody></table>
 
 
@@ -461,10 +484,9 @@ sites.</p>
 
 <li type="square" class="red"><a href="/events/">Event listings</a><br><br></li>
 <li type="square" class="red"><a href="/press/">Press center</a></li><br><br>
-<li type="square" class="red"><a href="/spssbi/training/">Training</a>
 
 <br><br>	
-</li></td>
+</td>
 		<td width="10">&nbsp;</td>
 		</tr>
 		
@@ -475,17 +497,6 @@ sites.</p>
 		<td width="180" colspan="3" align="center"><a href="/success/"><img src="/images/Success.gif" alt="Success stories" border="0" hspace="0" vspace="0"></a>
 		</td>
 		</tr>
-		 <tr>
-		<td width="11">&nbsp;</td>
-		
-		<td>
-		<table><tbody><tr><td>
-		<a href="/estore/shoppingcartrouter.cfm"><img src="/images/cart.gif" width="36" height="34" alt="Shopping cart" border="0" align="top"></a></td>
-		<td><a href="/estore/shoppingcartrouter.cfm">View<br> shopping cart</a></td>
-		</tr></tbody></table>
-		</td>
-		<td width="12">&nbsp;</td>
-		</tr> 
 		</tbody></table>
 		
 		</td></tr>
@@ -506,7 +517,7 @@ sites.</p>
 		<br><br>
 		<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td>
 
-		<p class="body_text">Copyright © 2002, SPSS Inc. All rights reserved.<br> 
+		<p class="body_text">Copyright © 2003, SPSS Inc. All rights reserved.<br> 
 		SPSS Inc. Headquarters, 233 S. Wacker Drive, 11th floor <br>Chicago, Illinois 60606
 		<br><a href="/privacy.htm">Privacy Policy</a>
 		| <a href="/terms.htm">Terms and Conditions</a> | <a href="/contact_us/">Contact us</a> | <a href="/worldwide">Worldwide Offices</a> <br><br><br></p>
