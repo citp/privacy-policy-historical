@@ -1,13 +1,20 @@
-<!--The following is the downloaded HTML source of the redherring.com privacy policy that was archived on 2000-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001206015900id_/http%3A//www.redherring.com/about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the redherring.com privacy policy that was archived on 2001-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010603084450id_/http%3A//www.redherring.com/index.asp%3Flayout%3Dprivacy_statment) for the most accurate reproduction.-->
 
 <html><head>
 
-<title>Redherring.com | Red Herring Communications</title>
+	<title>RedHerring.com | The Business of Innovation</title>
+
+<style> 
+.nodec  {text-decoration : none;}
+.positive{color: #009900;}
+.negative{color: #990000;}
+.zero{color: #000000;}
+</style>
 
 <!--v1.5 11/30/00-->
 
-<title>Redherring.com - Technology Business News, Analysis, and Research</title>
+<!--TITLE>Redherring.com - Technology Business News, Analysis, and Research</TITLE-->
 <!-- begin javascripts.js -->
 <script language="JavaScript">
    <!--
@@ -21,26 +28,26 @@
 	var is_nav5up = (is_nav && (is_major >= 5)); 
 	if ((is_mac && is_ie) || (is_mac && is_nav && is_nav5up)) 
 		{
-		document.write('<link rel="STYLESHEET" type="text/css" href="/inc/mac.css">');
+		document.write('<link rel="STYLESHEET" type="text/css" href="css_mac.asp">');
 		}
 	else if (is_mac && is_nav) 
 		{
-		document.write('<link rel="STYLESHEET" type="text/css" href="/inc/mac_ns.css">');
+		document.write('<link rel="STYLESHEET" type="text/css" href="css_mac_ns.asp">');
 		}
 	else if ((is_win && is_nav && is_nav5up) || (is_win && is_ie))
 		{
-		document.write('<link rel="STYLESHEET" type="text/css" href="/inc/pc_ie.css">');
+		document.write('<link rel="STYLESHEET" type="text/css" href="css_pc_ie.asp">');
 		}
 	else if (is_win && is_nav)
 		{  
-		document.write('<link rel="STYLESHEET" type="text/css" href="/inc/pc_ns.css">');
+		document.write('<link rel="STYLESHEET" type="text/css" href="css_pc_ns.asp">');
 		}
 	else 
 		{
-		document.write('<link rel="STYLESHEET" type="text/css" href="/inc/linux.css">');
+		document.write('<link rel="STYLESHEET" type="text/css" href="css_linux.asp">');
 		}
 // The array for the month names
-var montharray = new Array(11)
+var montharray = new Array(12)
 montharray[0] = "January";
 montharray[1] = "February";
 montharray[2] = "March";
@@ -68,342 +75,660 @@ function popWindow(url) {
         location = url;
         }
 	}    
-function search(){
-var num = document.test_form.test.selectedIndex
-if (num == 0){
-herring = 0
-}
-if (num == 1){
-herring = 1
-}
-if (num == 2){
-herring = 2
-}
-if (herring == 0){
-document.test_form.action="http://www.redherring.com/cgi-bin/asearch.cgi";
-document.test_form.elements[3].name="qt"
-document.test_form.method="POST"
-}
-else if (herring == 1){
-document.test_form.action="http://www.redherring.com/cgi-bin/pci-query.pl";
-document.test_form.elements[3].name="company";
-document.test_form.method="GET"
-}
-else if (herring == 2){
-document.test_form.action="http://www.eocenter.com/redherring/eo.asp";
-document.test_form.elements[3].name="I"
-document.test_form.method="POST"
-}
-}
-
+//-->
+</script><link rel="STYLESHEET" type="text/css" href="css_linux.asp">
+<script language="JavaScript">
+<!--
 var ord = Math.random() + "";                   
 var ord = Math.floor(ord * 100000000);
 ordstring = ord; 
 //-->	
-</script><link rel="STYLESHEET" type="text/css" href="/inc/linux.css">
+</script>
+<noscript>
+<p>Please enable JavaScript to properly display the site.<br><br>
+</noscript>
 <!-- end javascripts.js -->
 </head>
 
-<body bgcolor="#FFFFFF" link="#003399" vlink="#0066ff" alink="#FF0000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<body bgcolor="#FFFFFF" link="#003399" vlink="#0066ff" alink="#003399" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 
 <!-- Banner Ad and Top Red Herring Logo Row Table -->
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ff0000">
-
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
+<td rowspan="3" width="5" bgcolor="#ff0000">&nbsp;</td>
+<td colspan="4"> 
+<script language="JavaScript">
+<!--
+   var MSIE, browserName, num, numString;
+   var channel = '%channel%'; //get channel id from url
+   //vars below used for ad targeting and graphic selection
+   var layout = new String('privacy_statment'); 
+       layout = layout.toLowerCase();
+   var mode = new String('%mode%'); 
+   var subMode = new String('%subscribe_mode%');
+   var ticker = new String('%ticker%');
+   var special_report_id = new String('%rh_special_report_id%');
 
-	<!-- far left 5 pixel column row spans entire table -->
 
-	<td rowspan="5" width="5" bgcolor="#ff0000">&nbsp;</td>
+   num = Math.floor(Math.random() * 100000000);
+   numString = num + ''; //ord value in ad target
+   browserName = navigator.appName;
 
-	<td colspan="5" height="5"><spacer type="block" width="1" height="5"></spacer></td>
+   if (layout.indexOf('%') == 0)
+      layout = 'home'; // no layout means home
+   if (ticker.indexOf('%') == -1)
+      channel = '20000002'; // ticker symbol means Inv Cen
+   if (browserName.indexOf("Microsoft") >=0)
+      MSIE = true
+   else
+      MSIE = false;
 
-</tr><tr>
+function selectTableColor()
+{// page theme color is red, blue or green
 
-	<td width="468" colspan="3"><iframe src="http://ad.doubleclick.net/adi/redherring.dart/about;pos=top;sec=about;sz=468x60;tile=1;ord=Tuesday, 05-Dec-00 17:59:59 PST?" name="frame1" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><SCRIPT language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/redherring.dart/about;abr=!ie;pos=top;sec=about;sz=468x60;tile=1;ord=Tuesday, 05-Dec-00 17:59:59 PST?"></SCRIPT><NOSCRIPT><A HREF="http://ad.doubleclick.net/jump/redherring.dart/about;abr=!ie;pos=top;sec=about;sz=468x60;tile=1;ord=Tuesday, 05-Dec-00 17:59:59 PST?"> <IMG SRC="http://ad.doubleclick.net/ad/redherring.dart/about;abr=!ie;pos=top;sec=about;sz=468x60;tile=1;ord=Tuesday, 05-Dec-00 17:59:59 PST?" border=0 height="60" width="468"></A></NOSCRIPT></iframe></td>
-<td align="right" bgcolor="#ff0000"><a href="https://www.redherring.com/service/circ/subs_WM.html"><img src="/images2/top_mag_promo.gif" width="117" height="60" border="0"></a></td>
+   if ((channel == '20000002') && //Investor Center
+      (layout != 'search_results')) // this layout is red
+      document.write('<tr bgcolor=#003399>')
+   else
+      if (layout.indexOf('herring') == 0) //Herringtown
+         document.write('<tr bgcolor=#666633>')
+      else //must be a red page
+         document.write('<tr bgcolor=#ff0000>');
+}
+
+function dynamicBox(type1,name1,size1)
+{// generate an input box and seed it if possible
+
+   var search = new String('%search%');
+   var ticker = new String('%ticker%');
+
+   if (name1 == 'search')
+      if (search.indexOf("%")==0) //if % 1st char, no seed
+         value1=""
+      else
+         value1=search
+   else
+   if (name1 == 'ticker')
+      if (ticker.indexOf("%")==0) //if % 1st char, no seed
+         value1=""
+      else
+         value1=ticker;
+
+   document.write('<input type='+ type1 +' name='+ name1 +' size='+ size1 +' value='+ value1 +'>');
+}
+
+function selectRighthandAd()
+{// get ad for upper right-hand corner
+
+   if (channel == '20000002') //Investor Center
+      document.write('<img src="upload/images/circ_promo_5_8.gif" height=62 width=117 border=0>')
+   else
+      document.write('<img src="upload/images/circ_promo_5_8.gif" height=62 width=117 border=0>');
+}
+
+function ad468x60(sp,sec,tile)
+{ // write the ad
+
+   if (MSIE) //use IFRAME ad
+      document.write('<IFRAME SRC="http://ad.doubleclick.net/adi/redherring.dart/'+ sp +';pos=top;sec='+ sec +';sz=468x60;'+ tile +'=1;ord='+ numString +'?" name=frame1 width=468 height=60 frameborder=no border=0 marginwidth=0 marginheight=0 scrolling=no></IFRAME>');
+   else // use non-IFRAME ad
+      document.write('<SCR'+'IPT language=JavaScript1.1 SRC="http://ad.doubleclick.net/adj/redherring.dart/'+ sp +';abr=!ie;pos=top;sec='+ sec +';sz=468x60;'+ tile +'=1;ord='+ numString +'?"></'+'SCRIPT>');
+}
+
+function displayBanner()
+{ //select the targeted ad 
+
+   var mode = new String('%mode%'); // both need Services ad
+   var subMode = new String('%subscribe_mode%');
 
 
-	<td rowspan="4" bgcolor="#ff0000" width="5">&nbsp;</td>
+   if (special_report_id == '340000034') //RH100 
+      ad468x60(';sp=rh100banner','rh100-2001','ptile')
+   else
+   if (ticker.indexOf('%') == -1) //If ticker in url
+      ad468x60('investor;ticker='+ticker,'inv','ptile')
+   else
+   if (channel == '10000001') //Inside Tech
+      ad468x60('insidetech','ins','ptile')
+   else
+   if (channel == '20000002') //Investor Center
+      ad468x60('investor','inv','ptile')
+   else
+   if (channel == '30000003') //IPO News
+      ad468x60('iponews','ipo','ptile')
+   else
+   if (channel == '40000004') //VC & Startups
+      ad468x60('vc','vc','tile')
+   else
+   if (channel == '50000005') //Industries
+      ad468x60('industries','ind','ptile')
+   else
+   if (channel == '60000006') //Companies
+      ad468x60('companies','comp','ptile')
+   else
+   if (channel == '70000007') //Magazine
+      ad468x60('magazine','mag','ptile')
+   else
+   if (channel == '80000008') //catch of the day
+      ad468x60('cod','cod','ptile')
+   else
+   if (channel == '90000009') //home 
+      ad468x60('home','home','ptile')
+   else
+   if (layout.indexOf('research')==0) //research (market place) page
+      ad468x60('marketplace','market','ptile')
+   else
+   if (layout.indexOf('special')==0) //special report list
+      ad468x60('specialreports','sprept','ptile')
+   else
+   if (layout.indexOf('herring')==0) //Herringtown
+      ad468x60('herringtown','htown','ptile')
+   else
+   if ((layout.indexOf('member')==0) || //member services page
+      (layout.indexOf('e_news')==0) || //newsletter page
+      (mode.indexOf('%')!=0) || //mode is in url
+      (subMode.indexOf('%')!=0)) // subscribe mode in url
+      ad468x60('service','svc','ptile')
+   else
+   if (layout.indexOf('site_map')==0) //site map
+      ad468x60('sitemap','map','ptile')
+   else
+   if (layout.indexOf('talk')==0) //discussion page
+      ad468x60('discussions','disc','ptile')
+   else
+   if (layout.indexOf('portables')==0) //portables page
+      ad468x60('portables','portables','ptile')
+   else
+   if (layout.indexOf('home')==0) //home page
+      ad468x60('home','home','ptile')
+   
+   else // serve up the home page ad
+      ad468x60('home','home','ptile');
+}
 
+function setCookie(name, value)
+{
+	var cookieString  = name + "=" + value+";"
+    	var factor = 24 * 60 * 60 * 1000 * 30; // 30 days in the future
+    	var xDate = new Date();
+      	xDate.setTime(xDate.getTime() + factor);
+     	cookieString += "expires=" + xDate.toGMTString();
+  
+ 	document.cookie = cookieString;
+}
+
+function doPopUp()
+{
+	if (document.cookie.indexOf("HTpromo2") == -1) //it ain't there
+	{
+		setCookie("HTpromo2","NoPopUp");
+		window.open("index.asp?layout=popup","RHinvite","width=535,height=464");
+	}
+}
+
+/*   if (channel != '20000002')
+      doPopUp();  */
+
+//-->
+</script>	<noscript><tr bgcolor=#ff0000></noscript><table width="100%" border="0" cellpadding="0" cellspacing="0">
+<script>selectTableColor();</script><tbody><tr bgcolor="#ff0000">
+
+   <td height="70" width="468" valign="center"><script>displayBanner();</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/redherring.dart/home;abr=!ie;pos=top;sec=home;sz=468x60;ptile=1;ord=7775521?"></script><noscript><A HREF="http://ad.doubleclick.net/jump/redherring.dart/home;pos=top;sec=home;sz=468x60;tile=1;ord=12345678?"><IMG SRC="http://ad.doubleclick.net/ad/redherring.dart/home;pos=top;sec=home;sz=468x60;tile=1;ord=12345678?" border=0 height="60" width="468"></A></noscript></td>
+   <td align="right" height="70" valign="center"><a href="https://www.redherring.com/circulation.asp?layout=circulation_us4734&amp;keyid=YQ"><script>selectRighthandAd();</script><img src="upload/images/circ_promo_5_8.gif" height="62" width="117" border="0"><noscript><img src="http://a330.g.akamai.net/7/330/990/ce16993941ca7f/www.redherring.com/upload/images/circ_promo_5_8.gif" height=62 width=117 border=0></noscript></a><img src="http://a330.g.akamai.net/7/330/990/94fb0c3ed8a8f9/www.redherring.com/images/spacer.gif" width="5" height="1"></td>
 </tr>
-
-<tr>
-
-	<td colspan="4" height="5"><spacer type="block" width="1" height="5"></spacer></td>
-
-</tr>
-
-<tr bgcolor="#000000">
-
-<td width="195" height="30">
-
-<a href="/"><img src="/images/logo_top.gif" width="208" height="44" border="0" alt="Redherring.com"></a></td>
-
-<td width="100%">&nbsp;</td>
-
-<td height="30" width="275" valign="bottom" nowrap="" class="stock"><nobr>
-
-</nobr><form method="POST" name="test_form" action="http://www.redherring.com/cgi-bin/asearch.cgi"><nobr>
-
+</tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+<tbody><tr>
+   <td height="44" valign="top" width="208">
+      <a href="index.asp?layout=home"><img src="http://a330.g.akamai.net/7/330/990/9ea0864e29abe6/www.redherring.com/images/logo_top.gif" width="208" height="44" border="0" alt="RedHerring.com"></a><br><img src="http://a330.g.akamai.net/7/330/990/2a1eb799fb7cd5/www.redherring.com/upload/images/logo_tagline2.gif" width="208" height="10" border="0">
+   </td>
+   <td align="right">
+      <table border="0" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+         <form method="post" action="index.asp"></form>
+         <td height="30" width="50%" nowrap="" class="stock" valign="top"><nobr>
+<input type="hidden" name="layout" value="search_results">
 <input type="hidden" name="tid" value="4">
+            <input type="hidden" name="S" value="HS-NEP">
+            <input type="HIDDEN" name="format" value="CMP-LIST">
+<font color="white"><b>Search Articles</b></font><br>
+<!--        <input type=text name=search size=15> -->
+            <script>dynamicBox('text','search',15);</script><input type="text" name="search" size="15" value="">
+            &nbsp;&nbsp;
+<!--        <input type=text name=test size=10 readonly value=Articles>-->
+<!--        <select name=test onChange=search()>
+            <option>Articles</option>
+            <option>Companies</option>
+            <option>Research</option>
+            </select>
+-->
+            &nbsp;
+            <input type="image" src="http://a330.g.akamai.net/7/330/990/0a30c318fd1d7b/www.redherring.com/images/go_bl.gif" name="Search" border="0" alt="Search" align="absmiddle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</nobr></td>
 
-<input type="hidden" name="S" value="HS-NEP">
-
-<input type="HIDDEN" name="format" value="CMP-LIST">
-
-&nbsp;&nbsp;<font color="white"><b>Search</b></font><br>
-
-<input type="text" name="qt" size="15">&nbsp;&nbsp;
-
-<select name="test" onchange="search()">
-
-<option>Articles</option>
-
-<option>Companies</option>
-
-<option>Research</option>
-
-</select>
-
-<input type="image" src="/images/buttons/go_bl.gif" name="Search" border="0" alt="Search" align="absmiddle">&nbsp;&nbsp;</nobr></form></td>
-
-<td height="30" valign="bottom" class="stock" align="left" width="230" nowrap=""><nobr>
-
-	</nobr><form action="http://www.stockmaster.com/exe/redherring/go_proc" method="post" name="proc_form"><nobr> 
-
-<input type="hidden" name="CurrAction" value="chart"> 
-
-<input type="hidden" name="LastTemplate" value="chart"> 
-
-<input type="hidden" name="cobrand" value="redherring"> 
-
-&nbsp;&nbsp;<font color="white"><b>Look Up</b></font><br>
-
-<input type="text" name="UserSymbol" size="6">
-
-<select name="symbolAction"> 
-
-<option value="chart">Quotes
-
-</option><option value="profile">Profile 
-
-</option><option value="financial">Financials
-
-</option><option value="sec">SEC Filings 
-
-</option><option value="earnings">Earnings 
-
+         <form action="index.asp" method="post" name="proc_form"></form>
+         <td height="30" valign="top" class="stock" nowrap=""><nobr>
+<font color="white"><b>Look Up
+<br>
+</b></font>
+<input type="hidden" name="channel" value="20000002"> <script>dynamicBox('text','ticker',6);</script><input type="text" name="ticker" size="6" value="">
+<select name="layout"> 
+<option value="tick_news">Quotes/Charts
+</option><option value="tick_news2">News
+</option><option value="tick_profile">Profile
+</option><option value="tick_sec_key">Industry
+</option><option value="tick_insider">Insiders
+</option><option value="tick_fin_ann">Financials
+</option><option value="tick_earnings">Analysts
+</option><option value="tick_filings">SEC Filings
 </option></select> 
-
 &nbsp;
-
-<input type="image" src="/images/buttons/go_bl.gif" name="Go" value="Go" border="0" alt="Search" align="absmiddle"></nobr>
-
-</form></td>
-
+<input type="image" src="http://a330.g.akamai.net/7/330/990/0a30c318fd1d7b/www.redherring.com/images/go_bl.gif" name="Go" value="Go" border="0" alt="Search" align="absmiddle"></nobr>
+<br><font color="white"><b><input type="radio" name="searchType" value="symbol" checked="">Symbol 
+<input type="radio" name="searchType" value="name">Name</b></font></td>
+<td width="5"><img src="http://a330.g.akamai.net/7/330/990/94fb0c3ed8a8f9/www.redherring.com/images/spacer.gif"></td></tr></tbody></table>
+</td>
 </tr>
-
-<tr>
-
-<td colspan="4" bgcolor="#000000" valign="top" align="left"><img src="/images/logo_tagline.gif" width="208" height="10" border="0"></td>
-
-</tr>
-
 </tbody></table>
+ </td></tr>
+<tr><td width="120" valign="top"> 
+<script language="JavaScript">
+<!--
+function cellColor (cell)
+{ //highlight current page in nav bar
+  
+   var bgcolor; 
 
-<!-- End Banner Ad and Top Red Herring Logo Row Table -->
+   if ((channel == cell) || //if channel matches
+      (layout.indexOf(cell) == 0)) //layout matches
+   { //section needs to be highlighted in left nav bar
+       if (cell == '20000002')
+          bgcolor = "#003399"
+       else // highlighting will be in red
+          bgcolor = "#FF0000"
+   }
+   else // display ordinary background color 
+   { 
+      if ((cell == '70000007') ||
+         (cell == 'events'))
+          bgcolor = "#000000"
+      else 
+      if ((cell == 'special_report_list') ||
+          (cell == 'talkBackNews') ||
+          (cell == 'e_newsletters'))
+           bgcolor = "#999999"
+      else 
+          bgcolor = "#666666";
+   } 
 
-<!-- Main Content Table -->
+   if (layout == 'search_results')
+      bgcolor = '#666666';
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+   document.write ('<TD bgcolor='+ bgcolor +'>');
+}
 
+function bottomColor()
+{ //color for bottom row of nav table
 
-
+   if ((channel == '20000002') &&
+      (layout != 'search_results'))
+      document.write ('<TD bgcolor=#003399 height=13>')
+   else
+      document.write ('<TD bgcolor=#FF0000 height=13>');
+}
+//-->
+</script>
+<table cellpadding="0" cellspacing="0" border="0" width="120" align="left">
 <tbody><tr>
-
-
-
-	<!-- far left 5 pixel column row spans entire table -->
-
-
-
-	<td rowspan="4" width="5" bgcolor="#ff0000">&nbsp;</td>
-
-
-
-	<!-- channel nav cell in left 120 pixel column -->
-
-
-
-	<td rowspan="4" width="120" valign="top">
-
-
-
-
-
-<table cellpadding="0" cellspacing="0" border="0" width="120"><tbody><tr>
-
-	<td bgcolor="#666666" class="lftnavt">
-
-	<a class="lftnav" href="/insider/">&nbsp;&nbsp;INSIDE TECH</a><br>
-
-	<a class="lftnav" href="/investor/">&nbsp;&nbsp;INVESTOR NEWS</a><br>
-
-	<a class="lftnav" href="/ipo/">&nbsp;&nbsp;IPO NEWS</a><br>
-
-	<a class="lftnav" href="/vc/">&nbsp;&nbsp;VC &amp; STARTUPS</a><br>
-
-	<a class="lftnav" href="/industries/">&nbsp;&nbsp;INDUSTRIES</a><br>
-
-	<a class="lftnav" href="/companies/">&nbsp;&nbsp;COMPANIES</a><br>
-
-	<a class="lftnav" href="http://www.redherring.com/herringtown/home/home.jsp">&nbsp;&nbsp;HERRINGTOWN</a><br>
-
-	</td></tr>
-
-	<tr><td bgcolor="#999999"><a class="lftnav" href="/specialreports/">&nbsp;&nbsp;SPECIAL REPORTS</a><br>
-
-	<a class="lftnav" href="/discussions/">&nbsp;&nbsp;DISCUSSIONS</a><br>
-
-	<a class="lftnav" href="/enewsletters/">&nbsp;&nbsp;E-NEWSLETTERS</a>
-
-	</td></tr>
-
-	<tr><td bgcolor="#000000"><a class="lftnav" href="/mag/">&nbsp;&nbsp;MAGAZINE</a><br>
-
-	<a class="lftnav" href="/events/">&nbsp;&nbsp;EVENTS</a><br>
-
-	<a class="lftnav" href="http://www.stockmaster.com" target="Offsite">&nbsp;&nbsp;STOCKMASTER</a></td></tr>
-
-	<tr><td bgcolor="#ff0000" height="3"><img src="/images/spacer.gif" width="3" height="3" border="0"></td></tr>
-
-	<tr><td bgcolor="#ff0000">
-
-	<iframe src="http://ad.doubleclick.net/adi/redherring.dart/home;sp=searchbox;pos=left;sec=home;sz=120x60;tile=1;ord=Tuesday, 05-Dec-00 17:59:59 PST?" name="frame1" width="120" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><SCRIPT language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/redherring.dart/home;abr=!ie;sp=searchbox;pos=left;sec=home;sz=120x60;tile=1;ord=Tuesday, 05-Dec-00 17:59:59 PST?">
-
-</SCRIPT><NOSCRIPT><A HREF="http://ad.doubleclick.net/jump/redherring.dart/home;abr=!ie;sp=searchbox;pos=left;sec=home;sz=120x60;tile=1;ord=Tuesday, 05-Dec-00 17:59:59 PST?"><IMG SRC="http://ad.doubleclick.net/ad/redherring.dart/home;abr=!ie;sp=searchbox;pos=left;sec=home;sz=120x60;tile=1;ord=Tuesday, 05-Dec-00 17:59:59 PST?" border=0 height="60" width="120"></A></NOSCRIPT></iframe></td>
-
+   <script>cellColor('10000001')</script><td bgcolor="#666666">
+   <noscript><td bgcolor=#666666></noscript>
+   <a class="lftnav" href="index.asp?layout=inside_tech&amp;channel=10000001">&nbsp;&nbsp;INSIDE TECH</a><br></td>
 </tr>
+<tr>
+   <script>cellColor('20000002')</script><td bgcolor="#666666">
+   <noscript><td bgcolor=#666666></noscript>
+   <a class="lftnav" href="index.asp?layout=front_page&amp;channel=20000002">&nbsp;&nbsp;INVESTOR CENTER</a></td>
+</tr>
+<tr>
+   <script>cellColor('30000003')</script><td bgcolor="#666666">
+   <noscript><td bgcolor=#666666></noscript>
+   <a class="lftnav" href="index.asp?layout=ipo_news&amp;channel=30000003">&nbsp;&nbsp;IPO NEWS</a></td>
+</tr>
+<tr>
+   <script>cellColor('40000004')</script><td bgcolor="#666666">
+   <noscript><td bgcolor=#666666></noscript>
+   <a class="lftnav" href="index.asp?layout=vc_startups&amp;channel=40000004">&nbsp;&nbsp;VC &amp; STARTUPS</a></td>
+</tr>
+<tr>
+   <script>cellColor('50000005')</script><td bgcolor="#666666">
+   <noscript><td bgcolor=#666666></noscript>
+   <a class="lftnav" href="index.asp?layout=industries&amp;channel=50000005">&nbsp;&nbsp;INDUSTRIES</a></td>
+</tr>
+<tr>
+   <script>cellColor('60000006')</script><td bgcolor="#666666">
+   <noscript><td bgcolor=#666666></noscript>
+   <a class="lftnav" href="index.asp?layout=companies&amp;channel=60000006">&nbsp;&nbsp;COMPANIES</a></td>
+</tr>
+<tr>
+   <script>cellColor('herringtown')</script><td bgcolor="#666666">
+   <noscript><td bgcolor=#666666></noscript>
+   <a class="lftnav" href="http://www.ipo.com/venture/herringtown.asp?p=REDH">&nbsp;&nbsp;HERRINGTOWN</a></td>
+</tr>
+<tr>
+   <script>cellColor('special_report_list')</script><td bgcolor="#999999">
+   <noscript><td bgcolor=#999999></noscript>
+   <a class="lftnav" href="index.asp?layout=special_report_list">&nbsp;&nbsp;SPECIAL REPORTS</a></td>
+</tr>
+<tr>
+   <script>cellColor('talkBackNews')</script><td bgcolor="#999999">
+   <noscript><td bgcolor=#999999></noscript>
+   <a class="lftnav" href="index.asp?layout=talkBackNews">&nbsp;&nbsp;DISCUSSIONS</a></td>
+</tr>
+<tr>
+   <script>cellColor('e_newsletters')</script><td bgcolor="#999999">
+   <noscript><td bgcolor=#999999></noscript>
+   <a class="lftnav" href="news_letter_subscribe.asp">&nbsp;&nbsp;E-NEWSLETTERS</a></td>
+</tr>
+<tr>
+   <script>cellColor('70000007')</script><td bgcolor="#000000">
+   <noscript><td bgcolor=#000000></noscript>
+   <a class="lftnav" href="index.asp?layout=magazine&amp;channel=70000007">&nbsp;&nbsp;MAGAZINE</a></td>
+</tr>
+<tr>
+   <script>cellColor('events')</script><td bgcolor="#000000">
+   <noscript><td bgcolor=#000000></noscript>
+   <a class="lftnav" href="http://www.events.redherring.com">&nbsp;&nbsp;EVENTS</a></td>
+</tr>
+<tr>
+   <script>bottomColor();</script><td bgcolor="#FF0000" height="13">
+   <noscript><td bgcolor=#ff0000 height=13></noscript>
+   <img src="http://a330.g.akamai.net/7/330/990/94fb0c3ed8a8f9/www.redherring.com/images/spacer.gif" width="3" height="13" border="0"></td></tr>
+<script language="JavaScript">
+<!--
 
-<tr><td bgcolor="#ffffff" height="8"><img src="/images/spacer.gif" width="8" height="8" border="0"></td></tr>
+function write120x240(sp,sec,tile)
+{ //write the ad
 
-<tr><td bgcolor="#ff0000" height="17" align="right" class="Verd8ptwhite" nowrap="">Promotions&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/box_ur_red.gif" border="0"></td></tr>
+   if (MSIE)
+      document.write('<IFRAME SRC="http://ad.doubleclick.net/adi/redherring.dart/;sp='+ sp +';sec='+ sec +';sz=120x240;'+tile+';ord='+ numString +'?" name=frame1 width=120 height=240 frameborder=no border=0 marginwidth=0 marginheight=0 scrolling=no></IFRAME>');
+   else // 
+      document.write('<SCR'+'IPT language=JavaScript1.1 SRC="http://ad.doubleclick.net/adj/redherring.dart/;abr=!ie;sp='+ sp +';sec='+ sec +';sz=120x240;'+tile+';ord='+ numString +'?"><'+'/SCRIPT>');
+}
 
-<tr><td>
+function write120x600(sp,sec,tile)
+{//write the ad
 
-<a href="/jump/inhouse/rh_leftpromo3.html"><img src="http://a4.g.akamai.net/6/4/990/3fac9eb2d88864/www.redherring.com/images2/rh_leftpromo3.gif" width="120" height="75" border="0" alt="Promo"></a><br>
+   if (MSIE)
+      document.write('<IFRAME SRC="http://ad.doubleclick.net/adi/redherring.dart/;sp='+ sp +';sec='+ sec +';sz=120x600;'+ tile +';ord='+ numString +'?" name=frame1 width=120 height=600 frameborder=no border=0 marginwidth=0 marginheight=0 scrolling=no></IFRAME>');
+   else // 
+      document.write('<SCR'+'IPT language=JavaScript1.1 SRC="http://ad.doubleclick.net/adj/redherring.dart/;abr=!ie;sp='+ sp +';sec='+ sec +';sz=120x600;'+ tile +';ord='+ numString +'?"><'+'/SCRIPT>');
+}
 
-	<a href="/jump/inhouse/rh_leftpromo4.html"><img src="http://a4.g.akamai.net/6/4/990/0ea659641ddcfc/www.redherring.com/images2/rh_leftpromo4.gif" width="120" height="64" border="0" alt="Promo"></a></td></tr>
+function displayLeftAd()
+{ //select a targeted ad 
 
-<tr><td bgcolor="#ff0000" align="right"><img src="/images/box_lr_red.gif" border="0"></td></tr>
+   if (layout == 'markets_main') 
+      return; //markets main has no left ad
+   if ((layout.indexOf('story') == 0) &&
+      (channel != '20000002')) 
+      return; //only Investor stories have left ads
 
+   if (special_report_id == '340000034') //RH100 
+   { 
+      if (numString.charAt(3) < '5') // split ads 50/50
+        write120x240('rh100-120x240','rh100-2001','ptile=2')
+      else
+        write120x600('rh100-120x600','rh100-2001','ptile=2')
+   }
+   else
+   if (ticker.indexOf('%') == -1) //If ticker in url
+      write120x600('inv120x600;ticker='+ticker,'inv','ptile=2')
+   else
+   if (channel == '10000001') //Inside Tech
+   {
+      if (numString.charAt(3) < '4')
+         write120x240('insstory','ins','ptile=2')
+      else
+         write120x600('ins120x600','ins','ptile=2')
+   }
+   else
+   if (channel ==  '20000002') //Investor Center
+      write120x600('inv120x600','inv','ptile=2')
+   else
+   if (channel ==  '30000003') //IPO News
+   {
+      if (numString.charAt(3) < '4')
+         write120x240('ipostory','ipo','ptile=2')
+      else
+         write120x600('ipo120x600','ipo','ptile=2')
+   }
+   else
+   if (channel == '40000004') //VC & Startups
+   {
+      if (numString.charAt(3) < '4')
+         write120x240('vcstory','vc','ptile=2')
+      else
+         write120x600('vc120x600','vc','ptile=2')
+   }
+   else
+   if (channel == '50000005') //Industries
+   {
+      if (numString.charAt(3) < '4')
+         write120x240('indstory','ind','ptile=2')
+      else
+         write120x600('ind120x600','ind','ptile=2')
+   }
+   else
+   if (channel == '60000006') //Companies
+   {
+      if (numString.charAt(3) < '4')
+         write120x240('compstory','comp','ptile=2')
+      else
+         write120x600('comp120x600','comp','ptile=2')
+   }
+   else
+   if (channel == '70000007') //Magazine
+   {
+      if (numString.charAt(3) < '4')
+         write120x240('magstory','mag','ptile=2')
+      else
+         write120x600('mag120x600','mag','ptile=2')
+   }
+   else
+   if (layout.indexOf('talk')==0) //discussion page
+   {
+      if (numString.charAt(3) < '4')
+         write120x240('discstory','disc','ptile=2')
+      else
+         write120x600('disc120x600','disc','ptile=2')
+   }
+   else
+   if (layout.indexOf('special')==0) //special reports
+   {
+      if (numString.charAt(3) < '4')
+         write120x240('spreportstory','sprept','ptile=2')
+      else
+         write120x600('sprept120x600','sprept','ptile=2')
+   }
+   else
+   if (layout.indexOf('home')==0) // once got 2 extra ads
+   { 
+/*
+      document.write('<BR><DIV align=center class=Verd8pt><FONT color=#666666><B>Inside Tech</B><BR><I>Sponsored by</I></FONT><BR>');
+      if ((MSIE) || (is_nav5up))
+      {// NS6 can handle IFRAMEs
+         document.write('<IFRAME SRC="http://ad.doubleclick.net/adi/redherring.dart/home;button=home1;sec=home;sz=88x31;tile=1;ord='+ numString +'?" name=frame1 width=88 height=31 frameborder=no border=0 marginwidth=0 marginheight=0 scrolling=no></IFRAME>');
+         document.write('<BR><IMG SRC="http://a330.g.akamai.net/7/330/990/94fb0c3ed8a8f9/www.redherring.com/images/spacer.gif" height=25 width=1 border=0>');  
+
+         document.write('<BR><FONT color=#666666><B>Wireless Watch</B><BR><I>Sponsored by</I></FONT><BR>');
+         document.write('<IFRAME SRC="http://ad.doubleclick.net/adi/redherring.dart/home;button=home13;sec=home;sz=88x31;tile=1;ord='+ numString +'?" name=frame1 width=88 height=31 frameborder=no border=0 marginwidth=0 marginheight=0 SCROLLING=no></IFRAME>');   
+      }
+      else
+      {
+         document.write('<SCR'+'IPT language=JavaScript1.1 SRC="http://ad.doubleclick.net/adj/redherring.dart/home;abr=!ie;button=home1;sec=home;sz=88x31;tile=1;ord='+ numString +'?"><'+'/script>');
+         document.write('<BR><IMG SRC="http://a330.g.akamai.net/7/330/990/94fb0c3ed8a8f9/www.redherring.com/images/spacer.gif" height=25 width=1 border=0>');
+
+         document.write('<BR><FONT color=#666666><B>Wireless Watch</B><BR><I>Sponsored by</I></FONT><BR>');
+         document.write('<SCR'+'IPT language=JavaScript1.1 SRC="http://ad.doubleclick.net/adj/redherring.dart/home;abr=!ie;button=home13;sec=home;sz=88x31;tile=1;ord='+ numString +'?"><'+'/script>');    
+         }  */
+//       document.write('<br><img src="http://a330.g.akamai.net/7/330/990/94fb0c3ed8a8f9/www.redherring.com/images/spacer.gif" height=15 width=1 border=0><br></DIV>');
+
+      write120x600('home120x600','home','ptile=2');
+   }
+   else // if no match display home ad
+      write120x600('home120x600','home','ptile=2');
+}
+//-->
+</script>	<tr>
+   <td align="left">
+      <script>displayLeftAd();</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/redherring.dart/;abr=!ie;sp=home120x600;sec=home;sz=120x600;ptile=2;ord=7775521?"></script>
+      <noscript><a href="http://ad.doubleclick.net/jump/redherring.dart/;sp=homestory;sec=home;sz=120x240;tile=1;ord=12344321?">
+<img src="http://ad.doubleclick.net/ad/redherring.dart/;sp=homestory;sec=home;sz=120x240;tile=1;ord=12344321?" border=0 height=240 width=120></a></noscript>
+   </td>
+</tr>
+</tbody></table>
+ </td>
+<td align="left"><img src="http://a330.g.akamai.net/7/330/990/94fb0c3ed8a8f9/www.redherring.com/images/spacer.gif" width="13" height="1"></td>
+<td width="100%" align="left" valign="top"> <script language="JavaScript">
+<!--
+function displayLink(currentLayout)
+{ // display link to current page in red, others black
+
+   localLayout = layout;
+   if (layout.indexOf('myaccount')==0) 
+      localLayout = 'research';
+
+   if (currentLayout == "member_services")
+      link = "Member Services"
+   else
+   if (currentLayout == "research_home")
+      link = "Research"
+   else
+      link = currentLayout;
+  
+   currentLayout = currentLayout.toLowerCase();
+   if (localLayout.indexOf(currentLayout.substring(0,4))==0)
+      navClass = "topnavon"
+   else
+      navClass = "topnav";
+
+   document.write('<td><font color=#999999>|</font></td><td align=center><a class='+ navClass +' href=index.asp?layout='+ currentLayout +'>'+ link +'</a></td>'); 
+}
+//-->
+</script>
+
+<noscript>
+      <TD><FONT color="#999999">|</FONT></TD>
+      <TD align=center>
+         <a class=topnav href=index.asp?layout=research_home>Research</a></TD>
+      <TD><FONT color="#999999">|</FONT></TD>
+      <TD align=center>
+         <a class=topnav href=index.asp?layout=member_services>Member Services</a></TD>
+      <TD><FONT color="#999999">|</FONT></TD>
+      <TD align=center>
+         <a class=topnav href=index.asp?layout=portables>Portables</a></TD>
+   </noscript><table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+   <td align="center">
+      <a class="topnav" href="index.asp?layout=home">Home</a></td>
+   <script>
+      displayLink('research_home');
+      displayLink('member_services');
+      displayLink('Portable');
+   </script><td><font color="#999999">|</font></td><td align="center"><a class="topnav" href="index.asp?layout=research_home">Research</a></td><td><font color="#999999">|</font></td><td align="center"><a class="topnav" href="index.asp?layout=member_services">Member Services</a></td><td><font color="#999999">|</font></td><td align="center"><a class="topnav" href="index.asp?layout=portable">Portable</a></td>
+   
+   <td><font color="#999999">|</font></td>
+   <td align="center">
+      <a class="topnav" href="http://www.redherringmedia.com">Media Kit</a></td>
+   <td><font color="#999999">|</font></td>
+   <td align="center">
+      <a class="topnav" href="http://redherring.custhelp.com/cgi-bin/redherring">Help</a></td>
+   <td align="right" class="date"><b><font color="#666666">
+      <script>document.write(monthname + " " + day + ", " + year)</script>February 19, 2020</font></b></td>
+</tr>
 </tbody></table>
 
-<!--left column internal ads and promos-->
+<script language="JavaScript">
+<!--
+function selectHeaderGraphic()
+{ // display a page title graphic below the global menu
 
-<!--br><br-->
-<!--IFRAME SRC="http://ad.doubleclick.net/adi/redherring.dart/about;sp=bizdev;sec=about;sz=120x60;tile=1;ord=055959 PST?" name="frame1" width="120" height="60" frameborder="no" border="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="no"><SCRIPT language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/redherring.dart/about;abr=!ie;sp=bizdev;sec=about;sz=120x60;tile=1;ord=055959 PST?"></SCRIPT><NOSCRIPT><A HREF="http://ad.doubleclick.net/jump/redherring.dart/about;abr=!ie;sp=bizdev;sec=about;sz=120x60;tile=1;ord=055959 PST?"> <IMG SRC="http://ad.doubleclick.net/ad/redherring.dart/about;abr=!ie;sp=bizdev;sec=about;sz=120x60;tile=1;ord=055959 PST?" border=0 height="60" width="120"></A></NOSCRIPT></IFRAME-->
-<p>
+   if (channel == '10000001')
+      document.write ('<img border=0 vspace=2 src="images/inside_black.gif" alt="Inside Tech">')
+   else
+   if (channel == '20000002')
+      document.write ('<img border=0 vspace=2 src="images/investorcenter.gif" alt="Investor Center">')
+   else
+   if (channel == '30000003')
+      document.write ('<img border=0 vspace=2 src="images/iponews_black.gif" alt="IPO News">')
+   else
+   if (channel ==  '40000004')
+      document.write ('<img border=0 vspace=2 src="images/vc_black.gif" alt="VC Startups">')
+   else
+   if (channel == '50000005')
+      document.write ('<img border=0 vspace=2 src="images/industries_black.gif" alt="Industries">')
+   else
+   if (channel ==  '60000006')
+      document.write ('<img border=0 vspace=2 src="images/companies_black.gif" alt="Companies">')
+   else
+   if (channel ==  '70000007')
+      document.write ('<img border=0 vspace=2 src="images/magazine_black.gif" alt="Magazines">')
 
-</p><center>
-&nbsp;&nbsp;<iframe src="http://ad.doubleclick.net/adi/redherring.dart/about;sp=button;sec=about;sz=88x31;tile=1;ord=055959 PST?" name="frame1" width="88" height="31" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><SCRIPT language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/redherring.dart/about;abr=!ie;sp=button;sec=about;sz=88x31;tile=1;ord=055959 PST?"></SCRIPT><NOSCRIPT><A HREF="http://ad.doubleclick.net/jump/redherring.dart/about;abr=!ie;sp=button;sec=about;sz=88x31;tile=1;ord=055959 PST?"><IMG SRC="http://ad.doubleclick.net/ad/redherring.dart/about;abr=!ie;sp=button;sec=about;sz=88x31;tile=1;ord=055959 PST?" border=0 height="31" width="88"></A></NOSCRIPT></iframe><br>
-<img src="http://a4.g.akamai.net/7/4/990/94fb0c3ed8a8f9/www.redherring.com/images/spacer.gif" width="1" height="5" border="0">
-&nbsp;&nbsp;<iframe src="http://ad.doubleclick.net/adi/redherring.dart/about;sp=button;sec=about;sz=88x31;tile=2;ord=055959 PST?" name="frame1" width="88" height="31" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><SCRIPT language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/redherring.dart/about;abr=!ie;sp=button;sec=about;sz=88x31;tile=2;ord=055959 PST?"></SCRIPT><NOSCRIPT><A HREF="http://ad.doubleclick.net/jump/redherring.dart/about;abr=!ie;sp=button;sec=about;sz=88x31;tile=2;ord=055959 PST?"><IMG SRC="http://ad.doubleclick.net/ad/redherring.dart/about;abr=!ie;sp=button;sec=about;sz=88x31;tile=2;ord=055959 PST?" border=0 height="31" width="88"></A></NOSCRIPT></iframe><br>
-<img src="http://a4.g.akamai.net/7/4/990/94fb0c3ed8a8f9/www.redherring.com/images/spacer.gif" width="1" height="5" border="0">
-&nbsp;&nbsp;<iframe src="http://ad.doubleclick.net/adi/redherring.dart/about;sp=button;sec=about;sz=88x31;tile=3;ord=055959 PST?" name="frame1" width="88" height="31" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><SCRIPT language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/redherring.dart/about;abr=!ie;sp=button;sec=about;sz=88x31;tile=3;ord=055959 PST?"></SCRIPT><NOSCRIPT><A HREF="http://ad.doubleclick.net/jump/redherring.dart/about;abr=!ie;sp=button;sec=about;sz=88x31;tile=3;ord=055959 PST?"><IMG SRC="http://ad.doubleclick.net/ad/redherring.dart/about;abr=!ie;sp=button;sec=about;sz=88x31;tile=3;ord=055959 PST?" border=0 height="31" width="88"></A></NOSCRIPT></iframe><br>
-<img src="http://a4.g.akamai.net/7/4/990/94fb0c3ed8a8f9/www.redherring.com/images/spacer.gif" width="1" height="5" border="0">
-&nbsp;&nbsp;<iframe src="http://ad.doubleclick.net/adi/redherring.dart/about;sp=button;sec=about;sz=88x31;tile=4;ord=055959 PST?" name="frame1" width="88" height="31" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><SCRIPT language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/redherring.dart/about;abr=!ie;sp=button;sec=about;sz=88x31;tile=4;ord=055959 PST?"></SCRIPT><NOSCRIPT><A HREF="http://ad.doubleclick.net/jump/redherring.dart/about;abr=!ie;sp=button;sec=about;sz=88x31;tile=4;ord=055959 PST?"><IMG SRC="http://ad.doubleclick.net/ad/redherring.dart/about;abr=!ie;sp=button;sec=about;sz=88x31;tile=4;ord=055959 PST?" border=0 height="31" width="88"></A></NOSCRIPT></iframe><br>
-<img src="http://a4.g.akamai.net/7/4/990/94fb0c3ed8a8f9/www.redherring.com/images/spacer.gif" width="1" height="5" border="0">
-</center>
+   else
+   if (channel == '99099') 
+         document.write ('<img border=0 vspace=2 src="upload/images/video_salestool.gif" alt="VIDEO SALE TOOL">')
+
+   else
+   if (layout.indexOf('talk')==0) //discussions
+         document.write ('<img border=0 vspace=2 src=images/discussions_black.gif alt="Discussions">')
 
 
+   else
+   if (layout.indexOf('special')==0) //special reports list
+         document.write ('<img border=0 vspace=2 src=upload/images/special_black.gif alt="Special Reports">')
+   else
+   if ((layout.indexOf('research')==0) || //research
+      (layout.indexOf('thank')==0) || // thank you
+      (layout.indexOf('myaccount')==0)) //
+         document.write ('<img border=0 vspace=2 src=images/research.gif alt="Research">')
+   else
+   if ((layout.indexOf('e_news')==0) || //e_newsletters
+      (layout.indexOf('member')==0)) //member services
+         document.write ('<img border=0 vspace=2 src=images/member_svcs.gif alt="Member Services">')
+   else
+   if (layout.indexOf('portables')==0) //portables
+         document.write ('<img border=0 vspace=2 src=upload/images/rh_portable_e_title.gif alt="Portable">')
+   else
+   if (layout.indexOf('site')==0) //site map
+         document.write ('<img border=0 vspace=2 src=images/site_map.gif alt="Site Map">')
+   else
+   if (mode.indexOf('sign')==0) //signon in subscribe.asp
+         document.write ('<img border=0 vspace=2 src="images/investorcenter.gif" alt="Investor Center">')
+   else
+   if (mode.indexOf('subscribe')==0) //subscribe
+         document.write ('<img border=0 vspace=2 src=images/member_svcs.gif alt="Member Services">')
+   else
+   if (subMode.indexOf('lost')==0) // lost password
+      document.write ('<img border=0 vspace=2 src=images/member_svcs.gif alt="Member Services">')
+   else // give them this as a last resort
+      document.write ('<img border=0 vspace=2 src=upload/images/rh_comm.gif alt="Red Herring Communications">');
+}
+//-->
+</script>
 
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+   <td height="30" colspan="10" valign="bottom">
+      <script>selectHeaderGraphic();</script><img border="0" vspace="2" src="upload/images/rh_comm.gif" alt="Red Herring Communications">
+      <noscript><img border=0 align=left vspace=2 src="http://a330.g.akamai.net/7/330/990/c5f90441e38655/www.redherring.com/upload/images/rh_comm.gif" alt="Red Herring Communications"></noscript>
+   </td>
+</tr>
+<tr>
+   <td colspan="12" width="100%" background="http://a330.g.akamai.net/7/330/990/5fd5aa640d4ab8/www.redherring.com/images/dotted_linie_top.gif"><spacer type="block" width="2" height="5"></spacer></td>
+</tr>
+</tbody></table>
 <br>
 
-<a href="/jump/inhouse/rh_leftpromo2.html"><img src="/images2/rh_leftpromo2.gif" width="119" height="167" border="0"></a>
-
-		<!-- end left column -->
-
-		</td>
-
-	<td rowspan="4" width="15">&nbsp;<spacer type="block" width="13" height="1"></spacer></td>	
-
-
-
-	<!-- top horizontal global navigation table -->
-
-
-
-	<td colspan="3" align="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-
-	<tbody><tr>
-
-		<td align="center" class="Verd9pt"><a class="topnav" href="/">Home</a></td>
-		<td class="Verd9pt"><font color="#999999">|</font></td>
-		<td align="center" class="Verd9pt"><a class="topnav" href="/market/">Market Place</a></td>
-
-		<td class="Verd9pt"><font color="#999999">|</font></td>
-
-		<td align="center" class="Verd9pt"><a class="topnav" href="/service/">Member Services</a></td>
-
-		<td class="Verd9pt"><font color="#999999">|</font></td>
-
-<td align="center" class="Verd9pt"><a class="topnav" href="/portable/">Portable</a></td>
-
-		<td class="Verd9pt"><font color="#999999">|</font></td>
-
-		<td align="center" class="Verd9pt"><a class="topnav" href="http://www.redherringmedia.com">Media Kit</a></td>
-
-		<td class="Verd9pt"><font color="#999999">|</font></td>
-
-		<td align="center" class="Verd9pt"><a class="topnav" href="javascript:popWindow('/rhhelp/index.html')">Help</a></td>
-
-		<td align="right" class="date"><b><font color="#666666">
-
-		<script>document.write(monthname + " " + day + ", " + year)</script>January 30, 2020 </font></b></td>
-
-	</tr>
-	<tr>
-
-	<td height="30" colspan="12" valign="bottom">
-		<img src="http://a4.g.akamai.net/7/4/990/c5f90441e38655/www.redherring.com/images/section_headers/rh_comm.gif" alt="Red Herring Communications" border="0" height="16" width="334" align="left" vspace="2">
-	</td>
-
-</tr>
-
-<tr>
-
-	<td colspan="12" background="http://a4.g.akamai.net/7/4/990/5fd5aa640d4ab8/www.redherring.com/images/dotted_linie_top.gif"><spacer type="block" width="2" height="5"></spacer></td>
-
-</tr>
-	</tbody></table>
-
-</td>
-
-	<td rowspan="4" width="5"><spacer type="block" width="5" height="1">&nbsp;</spacer></td></tr>
-	
-<!-- end header -->
-
-
-	<tr>
-
-		<td colspan="3"><!-- #BeginEditable "bread_crumb" --><!-- #EndEditable --></td>
-
-	</tr>
-
-	
-
-	<!-- first three columns of this row are taken up by rowspans in previous cells -->
-
-	<!-- main content cell - all pages are nested inside here -->
-
-	<tr>
-
-		<td valign="top" bgcolor="#FFFFFF" height="650">
-
-	<!-- main content cell --> 
-
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr><td width="100%" valign="top"> 
 		&nbsp;<br>
 
 	
@@ -557,221 +882,151 @@ Suite 450<br>
 San Francisco, CA 94103<br>
 
 <a href="mailto:privacy@redherring.com">Privacy@redherring.com</a>
-
-
-
-	
-
-	<!-- end main content cell -->
-
-		</p></td>
-
-		
-
-		<!-- spacer row between main content cell and far right column -->
-
-		<td rowspan="2" width="15" valign="top">&nbsp;&nbsp;</td>
-
-		
-
-		<!-- far right column -->
-
-		<td rowspan="2" width="150" valign="top" bgcolor="#FFFFFF" class="column"><br>
-
-		
-
-		     
-
-			<!-- Channel Navigation-->	
-
-			<table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#ff0000">
+<br>
+<br> </p></td>
+<td width="15"><img src="http://a330.g.akamai.net/7/330/990/94fb0c3ed8a8f9/www.redherring.com/images/spacer.gif" width="15" height="1"></td>
+<td width="150" valign="top"> <br>			
+<table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#ff0000">
 	<tbody><tr>
 		<td class="Verd9ptwhite"><b>&nbsp;In this Section</b></td>
 	</tr>
 	</tbody></table>
 	<table cellpadding="1" cellspacing="0" border="0" width="100%">
-	<!--TR>
-		<TD valign="top"><img src="http://a4.g.akamai.net/7/4/990/bd5f45f4db8c3d/www.redherring.com/images/bullet_filled.gif" width="5" height="5" alt="" border="0" vspace="5"></TD>
-		<TD colspan="3" valign="top"><A href="/about/news.html" class="Verd9pt">Red Herring in the News</A></TD>
-	</TR-->
-	<tbody><tr>
-		<td valign="top"><img src="http://a4.g.akamai.net/7/4/990/bd5f45f4db8c3d/www.redherring.com/images/bullet_filled.gif" width="5" height="5" alt="" border="0" vspace="5"></td>
-		<td colspan="3" valign="top"><a href="/about/press.html" class="Verd9pt">Red Herring Press Releases</a></td>
+		<tbody><tr>
+		<td valign="top"><img src="http://a330.g.akamai.net/7/330/990/bd5f45f4db8c3d/www.redherring.com/images/bullet_filled.gif" width="5" height="5" alt="" border="0" vspace="5"></td>
+		<td colspan="3" valign="top">
+<!-- <A href="index.asp?layout=press_releases" class="Verd9pt"> -->
+Red Herring Press Releases</td>
 	</tr>
 	<tr>
-		<td valign="top"><img src="http://a4.g.akamai.net/7/4/990/bd5f45f4db8c3d/www.redherring.com/images/bullet_filled.gif" width="5" height="5" alt="" border="0" vspace="5"></td>
-		<td colspan="3" valign="top"><a href="http://www.redherringmedia.com/" class="Verd9pt">Media Kit</a></td>
+		<td valign="top"><img src="http://a330.g.akamai.net/7/330/990/bd5f45f4db8c3d/www.redherring.com/images/bullet_filled.gif" width="5" height="5" alt="" border="0" vspace="5"></td>
+		<td colspan="3" valign="top"><a href="http://www.redherringmedia.com " class="Verd9pt">Media Kit</a></td>
 	</tr> 
 	<tr>
-		<td valign="top"><img src="http://a4.g.akamai.net/7/4/990/bd5f45f4db8c3d/www.redherring.com/images/bullet_filled.gif" width="5" height="5" alt="" border="0" vspace="5"></td>
-		<td colspan="3" valign="top"><a href="/about/team.html" class="Verd9pt">Red Herring Team</a></td>
+		<td valign="top"><img src="http://a330.g.akamai.net/7/330/990/bd5f45f4db8c3d/www.redherring.com/images/bullet_filled.gif" width="5" height="5" alt="" border="0" vspace="5"></td>
+		<td colspan="3" valign="top"><a href="index.asp?layout=red_team" class="Verd9pt">Red Herring Team</a></td>
 	</tr>
 	<tr>
-		<td width="5" valign="top"><img src="http://a4.g.akamai.net/7/4/990/bd5f45f4db8c3d/www.redherring.com/images/bullet_filled.gif" width="5" height="5" alt="" border="0" vspace="5"></td>
-		<td colspan="3" valign="top"><a href="/about/online.html" class="Verd9pt">Redherring.com</a></td>
+		<td width="5" valign="top"><img src="http://a330.g.akamai.net/7/330/990/bd5f45f4db8c3d/www.redherring.com/images/bullet_filled.gif" width="5" height="5" alt="" border="0" vspace="5"></td>
+		<td colspan="3" valign="top"><a href="index.asp?layout=red_com" class="Verd9pt">Redherring.com</a></td>
 	</tr>
 	<tr>
-		<td valign="top"><img src="http://a4.g.akamai.net/7/4/990/bd5f45f4db8c3d/www.redherring.com/images/bullet_filled.gif" width="5" height="5" alt="" border="0" vspace="5"></td>
-		<td colspan="3" valign="top"><a href="/about/magazine.html" class="Verd9pt">Red Herring Magazine</a></td>
+		<td valign="top"><img src="http://a330.g.akamai.net/7/330/990/bd5f45f4db8c3d/www.redherring.com/images/bullet_filled.gif" width="5" height="5" alt="" border="0" vspace="5"></td>
+		<td colspan="3" valign="top"><a href="index.asp?layout=red_magazine" class="Verd9pt">Red Herring Magazine</a></td>
 	</tr>
 	<tr>
-		<td valign="top"><img src="http://a4.g.akamai.net/7/4/990/bd5f45f4db8c3d/www.redherring.com/images/bullet_filled.gif" width="5" height="5" alt="" border="0" vspace="5"></td>
-		<td colspan="3" valign="top"><a href="/about/events.html" class="Verd9pt">Red Herring Events</a></td>
+		<td valign="top"><img src="http://a330.g.akamai.net/7/330/990/bd5f45f4db8c3d/www.redherring.com/images/bullet_filled.gif" width="5" height="5" alt="" border="0" vspace="5"></td>
+		<td colspan="3" valign="top"><a href="index.asp?layout=red_events" class="Verd9pt">Red Herring Events</a></td>
 	</tr>
 	<tr>
-		<td valign="top"><img src="http://a4.g.akamai.net/7/4/990/bd5f45f4db8c3d/www.redherring.com/images/bullet_filled.gif" width="5" height="5" alt="" border="0" vspace="5"></td>
-		<td colspan="3" valign="top"><a href="/about/online_partners.html" class="Verd9pt">Redherring.com Partnerships</a></td>
+		<td valign="top"><img src="http://a330.g.akamai.net/7/330/990/bd5f45f4db8c3d/www.redherring.com/images/bullet_filled.gif" width="5" height="5" alt="" border="0" vspace="5"></td>
+		<td colspan="3" valign="top"><a href="index.asp?layout=red_partnerships" class="Verd9pt">RedHerring.com Partnerships</a></td>
 	</tr>
 	<tr>
-		<td valign="top"><img src="http://a4.g.akamai.net/7/4/990/bd5f45f4db8c3d/www.redherring.com/images/bullet_filled.gif" width="5" height="5" alt="" border="0" vspace="5"></td>
-		<td colspan="3" valign="top"><a href="/about/permissions.html" class="Verd9pt">Permissions</a></td>
+		<td valign="top"><img src="http://a330.g.akamai.net/7/330/990/bd5f45f4db8c3d/www.redherring.com/images/bullet_filled.gif" width="5" height="5" alt="" border="0" vspace="5"></td>
+		<td colspan="3" valign="top"><a href="index.asp?layout=permissions" class="Verd9pt">Permissions</a></td>
 	</tr>
 	<tr>
-		<td valign="top"><img src="http://a4.g.akamai.net/7/4/990/bd5f45f4db8c3d/www.redherring.com/images/bullet_filled.gif" width="5" height="5" alt="" border="0" vspace="5"></td>
-		<td colspan="3" valign="top"><a href="/about/jobs.html" class="Verd9pt">Jobs at Red Herring</a></td>
+		<td valign="top"><img src="http://a330.g.akamai.net/7/330/990/bd5f45f4db8c3d/www.redherring.com/images/bullet_filled.gif" width="5" height="5" alt="" border="0" vspace="5"></td>
+		<td colspan="3" valign="top"><a href="index.asp?layout=employment" class="Verd9pt">Jobs at Red Herring</a></td>
 	</tr>
 	<tr>
-		<td valign="top"><img src="http://a4.g.akamai.net/7/4/990/bd5f45f4db8c3d/www.redherring.com/images/bullet_filled.gif" width="5" height="5" alt="" border="0" vspace="5"></td>
-		<td colspan="3" valign="top"><a href="/about/contact.html" class="Verd9pt">Contact Us</a></td>
+		<td valign="top"><img src="http://a330.g.akamai.net/7/330/990/bd5f45f4db8c3d/www.redherring.com/images/bullet_filled.gif" width="5" height="5" alt="" border="0" vspace="5"></td>
+		<td colspan="3" valign="top"><a href="index.asp?layout=contact_us" class="Verd9pt">Contact Us</a></td>
 	</tr>
 	</tbody></table>
+ </td></tr>
+</tbody></table>
+</td>
+<td width="5"><img src="http://a330.g.akamai.net/7/330/990/94fb0c3ed8a8f9/www.redherring.com/images/spacer.gif" width="5" height="1"></td>
+</tr>
+<tr><td colspan="4"> 
 
-			<p>
+<script language="JavaScript">
+function unicastAd()
+{
+   if (special_report_id == '340000034') //RH100
+      return;
 
-			<!-- no catch of the day newsletter subscription --><br>
+   if (MSIE)
+      document.write('<IFRAME SRC="http://ad.doubleclick.net/adi/redherring.dart/;sp=unicast;sz=1x1;ord='+numString+'?" name=frame1 width=1 height=1 frameborder=no border=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=no></IFRAME>')
+/*   else
+      document.write('<SCR'+'IPT language=JavaScript1.1 SRC="http://ad.doubleclick.net/adj/redherring.dart/;abr=!ie;sp=unicast;sz=1x1;ord='+numString+'?"></SCR'+'IPT>'); */
 
-			</p><p>&nbsp;<br>
+}
+</script>
 
-			
-
-		<!-- end far right column (closing </tr> in footer)-->
-
-		</p></td>
-
-
-
-<!--v1.5 12/05/00-->
 
 <!-- begin footer -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%" valign="top">
+<tbody><tr><td rowspan="3" width="135">&nbsp;</td>
+<td background="http://a330.g.akamai.net/7/330/990/5fd5aa640d4ab8/www.redherring.com/images/dotted_linie_top.gif" height="9"><spacer type="block" height="9" width="1"></spacer></td>
+<td rowspan="3" width="150">&nbsp;</td>
 </tr>
-<tr>
-<td>
-<!-- sponsored links table -->
-<table cellpadding="0" cellspacing="0" border="0" width="100%">
-<tbody><tr><td height="15"><spacer type="block" height="15" width="1"></spacer></td></tr>
-<tr>
-	<td background="http://a4.g.akamai.net/7/4/333/5fd5aa640d4ab8/www.redherring.com/images/dotted_linie_top.gif" height="9"><spacer type="block" height="9" width="1"></spacer></td>
-</tr>
+<tr><td class="Verd9pt"><p><font color="#666666"><b>SPONSORED LINKS</b><br>
+<br>
+<a href="http://ad.doubleclick.net/clk;2875137;4419705;o?http://click.linksynergy.com/fs-bin/click?id=Ms54VNskQPw&amp;offerid=25830.10000004&amp;type=3&amp;subid=0">GE CAPITAL</a>: Solve your business needs with innovative financing solutions.
+<br>
+<a href="http://ad.doubleclick.net/clk;2760236;4419705;h?http://ads17.focalink.com/SmartBanner/page?15724.156-%n">Motorola</a>: i1000plus-The power of advanced communication on the go!
+<br>
+<a href="http://ad.doubleclick.net/clk;2802538;4419705;j?http://www.ejigsaw.com/index.jsp?from=redherring">eJigsaw</a>:  FREE Personalized IT Consulting. Over 21,000 IT solutions listed.
+<br>
+<a href="http://ad.doubleclick.net/clk;2743501;4419705;d?http://www.sprintesolutions.com/ip189">Sprint E|Solutions(sm)</a>:  Get scalable Internet access + a FREE Cisco router.<br>
+        <a target="OFFSITE" href="http://ad.doubleclick.net/clk;2609732;4419705;k?http://ad.doubleclick.net/clk;2598727;5301576;s?http://www.fidelity.com/goto/banners/sysmutualfundslz/?banner=5301576" onmouseover="status='Click here for more information'; return true">FIDELITY INVESTMENTS</a>:  For mutual funds, choose strength and expertise.<br>
+ <a target="OFFSITE" href="http://ad.doubleclick.net/clk;2593116;4419705;i?http://ad.doubleclick.net/clk;2581420;5636572;h?http://www.fidelity.com/goto/banners/syspowerstreetlz/?banner=5636572" onmouseover="status='Click here for more information'; return true">FIDELITY INVESTMENTS</a>:  See Yourself Succeeding(SM).<br>
 
-<tr>
-	 <td class="Verd9pt"><p><font color="#666666"><b>SPONSORED LINKS</b><br>
-    <a target="OFFSITE" href="http://ad.doubleclick.net/clk;2120917;4419705;d?http://redherring.nbci.com/main/channel/0,2,redherring-cp,00.html?tag=ep.rh.redherring.tech" onmouseover="status='Click here for more information'; return true">NBCi</a>:&nbsp;Want High Tech's Hottest? Get downloads, news and more!<br>
-	<a target="OFFSITE" href="http://ad.doubleclick.net/clk;2143616;4419705;e?http://www.redherring.com/charity" onmouseover="status='Click here for more information'; return true">PLEASE HELP!</a>:&nbsp;Bid against the big guys at the Red Herring Charity auction.<br>
-	<a target="OFFSITE" href="http://ad.doubleclick.net/clk;1436566;4419705;m?http://www.guru.com/index.jhtml?code=M_redh78" onmouseover="status='Click here for more information'; return true">GURU.COM</a>:&nbsp;Find gigs. Post Gigs. We've got something for everyone. Join free.<br>  
-	<a target="OFFSITE" href="http://ad.doubleclick.net/clk;1856563;4419705;p?http://www.hubstorm.com/redh/1002/txt/" onmouseover="status='Click here for more information'; return true">HUBSTORM</a>:&nbsp;Launch your net market in NO time!<br>
-	<a target="OFFSITE" href="http://ad.doubleclick.net/clk;1629316;4419705;j?http://www.dljdirect.com/b4.htm?OIRDHCSTX" onmouseover="status='Click here for more information'; return true">DLJ<i>direct</i></a>:&nbsp;A premier online brokerage firm. Join now and receive 100!<br>
-	<a target="OFFSITE" href="http://ad.doubleclick.net/clk;1908873;4419705;r?http://www.ndb.com/forms/index.cgi?s=rhj&amp;u=http://www.ndb.com/sections/section1-2.htm" onmouseover="status='Click here for more information'; return true">NATIONAL DISCOUNT BROKERS</a>:&nbsp;No Min. Account Balance Required! Apply Now!<br>
-	<a target="OFFSITE" href="http://ad.doubleclick.net/clk;1958599;4419705;b?http://ad.doubleclick.net/clk;1911732;4905517;g?http://www.oracle.com/go/?&amp;Src=201777&amp;Act=12" onmouseover="status='Click here for more information'; return true">ORACLE PORTAL</a>:&nbsp;Zero to Portal @ Web Speed - Click here for free kit<br>
-	<a target="OFFSITE" href="http://ad.doubleclick.net/clk;2177694;4419705;r?http://www.bowne.com/offers/default.asp?offer=IPO&amp;src=TER" onmouseover="status='Click here for more information'; return true">BOWNE</a>:&nbsp;Download your free Survival Guide to IPOs from Bowne.<br>
-	<a target="OFFSITE" href="http://ad.doubleclick.net/clk;1732380;4419705;f?http://www.frequentflyerupdate.oag.com/registration.htm?from=red&amp;ad=tl" onmouseover="status='Click here for more information'; return true">OAG FREQUENT FLYER UPDATE</a>:&nbsp;The business traveler's secret weapon. It's free!<br>
-	<a target="OFFSITE" href="http://ad.doubleclick.net/clk;2092347;4419705;i?http://chkpt.zdnet.com/chkpt/baredherring/www.zdnet.com/computershopper" onmouseover="status='Click here for more information'; return true">ZDNET</a>:&nbsp;Best Buys - Shop Smart for scanners, digital cameras, monitors &amp; more!<br>
-	<a target="OFFSITE" href="http://ad.doubleclick.net/clk;1668637;4419705;s?http://www.siliconinvestor.com/registration/registration.gsp?p=rh" onmouseover="status='Click here for more information'; return true">SILICON INVESTOR</a>:&nbsp;Lifetime Membership ($200 value) for only $49.95.<br>
+<a target="OFFSITE" href="http://ad.doubleclick.net/clk;2683747;4419705;s?http://ad.doubleclick.net/clk;2677047;5712966;u?http://www.bellatlantic.com/infospeed/partner.html?promotionCode=VZBNR&amp;expiry=30">VERIZON BUSINESS DSL</a>:&nbsp;Connect and work with the speed essential
+to modern business.
+<br>
+<a target="OFFSITE" href="http://ad.doubleclick.net/clk;2688306;4419705;o?http://ad.doubleclick.net/clk;2645943;5693316;r?http://ad.doubleclick.net/574839/claunch.html" onmouseover="status='Click here for more information'; return true">Get on with life's pleasures</a>. See the Mercedes-Benz C-Class at MBUSA.com.
+<br>
+<a target="OFFSITE" href="http://ad.doubleclick.net/clk;2720229;4419705;f?http://www.ustrek.org" onmouseover="status='Click here for more information'; return true">US TREK</a>: Because the Internet should be more than just e-commerce.
 	</font></p></td>
 </tr>
+
 <tr>
-	<td background="http://a4.g.akamai.net/7/4/333/df5c48499e5be6/www.redherring.com/images/dotted_linie_bottom.gif" height="12"><spacer type="block" width="2" height="12"></spacer></td>
-
-</tr>
-<tr>
-
-	<td height="12"><spacer type="block" width="2" height="12"></spacer></td>
-
+	<td background="http://a330.g.akamai.net/7/330/990/df5c48499e5be6/www.redherring.com/upload/images/dotted_linie_bottom.gif" height="12"><spacer type="block" width="2" height="12"></spacer></td>
 </tr>
 </tbody></table>
-<!-- end sponsored links table -->
-</td>
-</tr>
-</tbody></table> 
-<!--end main table-->
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-
-		<tbody><tr>
-
-			<td rowspan="6" width="5" bgcolor="#ff0000">&nbsp;<spacer type="block" height="1" width="5"></spacer></td>
-
-</tr>
-
-	<tr>
-
-		<td bgcolor="#CCCCCC" height="1" width="100%"><spacer type="block" height="1" width="1"></spacer></td>
-
+<br><table width="100%" border="0" cellpadding="0" cellspacing="0"><!--TR><TD ROWSPAN=6 WIDTH='5' BGCOLOR='#003399'>&nbsp;<spacer type=block height=1 width=5></TD></TR-->
+	<tbody><tr><td bgcolor="#cccccc" height="1" width="100%"><spacer type="block" height="1" width="1"></spacer></td></tr>
+	<tr><td class="Arial8pt" width="100%">&nbsp;&nbsp;<a href="index.asp"><img src="http://a330.g.akamai.net/7/330/990/fc855d7b045f83/www.redherring.com/images/rh_bot_nav.gif" align="absMiddle" border="0"></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="index.asp?layout=about_redherring">About Red Herring</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://redherring.custhelp.com/cgi-bin/redherring">Customer Support</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="index.asp?layout=site_map">Site Map</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="index.asp?layout=employment">Employment</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="index.asp?layout=terms">Terms of Service</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="index.asp?layout=privacy_statment">Privacy Statement</a></td></tr>
+	<tr><td height="2" width="100%"><spacer type="block" height="1" width="1"></spacer></td></tr>
+	<tr><td width="100%" bgcolor="#cccccc" height="1"><spacer type="block" height="1" width="1"></spacer></td></tr>
+	<tr><td width="100%" class="Arial8pt"><br><b><font color="#666666">Our Partners</font></b></td></tr>
+</tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tbody><tr><!--TD ROWSPAN='2' WIDTH='5' BGCOLOR='#003399'>&nbsp;</TD-->
+		<td align="left" bgcolor="#ffffff">&nbsp;&nbsp;<a target="OFFSITE" href="http://ad.doubleclick.net/clk;1596935;4586014;r?http://www.stockpoint.com/" onmouseover="status='Click here for more information'; return true"><img height="31" src="http://a330.g.akamai.net/7/330/990/63f169ebb3d846/www.redherring.com/upload/images/partner1.gif" width="88" border="0"></a>&nbsp;<a target="OFFSITE" href="http://ad.doubleclick.net/clk;1596987;4586014;y?http://www.enfish.com/10p.asp?redherring01P" onmouseover="status='Click here for more information'; return true"><img height="31" src="http://a330.g.akamai.net/7/330/990/69374d96b2cdea/www.redherring.com/upload/images/partner5.gif" width="88" border="0"></a>&nbsp;<a target="OFFSITE" href="http://ad.doubleclick.net/clk;1596988;4586014;z?http://www.vcapital.com/chouse/5ah_matchform.asp" onmouseover="status='Click here for more information'; return true"><img height="31" src="http://a330.g.akamai.net/7/330/990/1ca71a12cd04b1/www.redherring.com/upload/images/partner6.gif" width="88" border="0"></a></td>
 	</tr>
-
-	<tr>
-
-		<td class="Arial8pt" width="100%">&nbsp;&nbsp;<a href="/"><img src="/images/rh_bot_nav.gif" border="0" align="absmiddle"></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/about">About Red Herring</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/about/contact.html">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/sitemap">Site Map</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/about/jobs.html">Employment</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/about/tos.html">Terms of Service</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/about/privacy.html">Privacy Statment</a></td>
-
-	</tr>
-
-	<tr>
-
-		<td height="2" width="100%"><spacer type="block" height="1" width="1"></spacer></td>
-
-	</tr>
-
-	<tr>
-
-		<td width="100%" bgcolor="#CCCCCC" height="1"><spacer type="block" height="1" width="1"></spacer></td>
-
-	</tr>
-
-	<tr>
-
-
-
-		<td width="100%" class="Arial8pt"><br><b><font color="#666666">Our Partners</font></b></td>
-
-	</tr>
-
-	</tbody></table>
-
-
-
-
-
-<!-- bottom ad table, includes all partner gifs -->
-
-<table border="0" cellspacing="0" cellpadding="0">
-
-<tbody><tr>
-
-	<!-- far left 5 pixel column row spans entire table -->
-
-	<td rowspan="2" width="5" bgcolor="#ff0000">&nbsp;</td>
-
-	<td bgcolor="#ffffff">&nbsp;&nbsp;<a target="OFFSITE" href="http://ad.doubleclick.net/clk;1596935;4586014;r?http://www.redherring.com/jump/partner_btn/partner1.html" onmouseover="status='Click here for more information'; return true"><img src="http://a4.g.akamai.net/7/4/990/63f169ebb3d846/www.redherring.com/images2/partner1.gif" width="88" height="31" border="0"></a>&nbsp;<a target="OFFSITE" href="http://ad.doubleclick.net/clk;1596987;4586014;y?http://www.redherring.com/jump/partner_btn/partner5.html" onmouseover="status='Click here for more information'; return true"><img src="http://a4.g.akamai.net/7/4/990/69374d96b2cdea/www.redherring.com/images2/partner5.gif" width="88" height="31" border="0"></a>&nbsp;<a target="OFFSITE" href="http://ad.doubleclick.net/clk;1596988;4586014;z?http://www.redherring.com/jump/partner_btn/partner6.html" onmouseover="status='Click here for more information'; return true"><img src="http://a4.g.akamai.net/7/4/990/1ca71a12cd04b1/www.redherring.com/images2/partner6.gif" width="88" height="31" border="0"></a></td>
-
-</tr>
-
 </tbody></table>
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
-<tbody><tr bgcolor="ff0000">
-
-<td height="5" colspan="2"><spacer type="block" height="1" width="1"></spacer></td>
-
+<tbody><tr>
+<td height="5" colspan="2"><spacer type="block" height="1" width="1">
+   <script>unicastAd()</script>
+</spacer></td>
 </tr>
 </tbody></table>
 
-<!-- end footer -->
+<!-- /BODY>
+</HTML --><!-- end footer --> </td></tr>
+</tbody></table>
+
+<!--Content Ends Here-->
+
+<!--Footer Starts Here-->
+
+<!--TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0 ALIGN=center>
+	<TR VALIGN=top><TD ALIGN=center>
+		<FONT SIZE=1 FACE="MS Sans Serif" color="#000000">Technology Copyright &copy by<a href="http://www.elogic.com/" target="_blank"><font size=1 face="MS Sans Serif" color="#000000"><u>eLogic communications</u></u></a> &nbsp;&nbsp;All Rights Reserved.
+	</TD></TR>
+	<TR><TD><br>
+		<FONT SIZE=1 FACE="MS Sans Serif" COLOR="#000000"><P> <B>FOR INFORMATION ONLY</B><Br>Search, Quote and index technology developed by eLogic. Historical information supplied by Iverson Financial, news articles contibuted by Reuters, PRNewswire and BusinessWire. Data and information is provided for informational purposes only, and is not intended for trading purposes. Neither eLogic nor any of its data or content providers shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.</p></font>
+	</TD></TR>
+</TABLE-->
 
 
 
-
-
-
-
-
-
+<!--Footer Ends Here-->
 </body></html>
