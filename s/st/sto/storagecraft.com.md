@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the storagecraft.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605095812id_/http%3A//www.storagecraft.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storagecraft.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206204942id_/http%3A//www.storagecraft.com/privacy/privacy.html) for the most accurate reproduction.*
 
 # StorageCraft Privacy Page
 
 | 
 
-**At StorageCraft, Inc.   we take privacy seriously and we respect your right to privacy. We've arranged this official "Privacy Policy Statement" to clearly disclose to you what information we collect and how we use this information.**
+**At StorageCraft Technology Corp.   we take privacy seriously and we respect your right to privacy. We've arranged this official "Privacy Policy Statement" to clearly disclose to you what information we collect and how we use this information.**
 
 **For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address.**
 
@@ -23,8 +23,9 @@
 [ ](http://www.storagecraft.com/mvp/microsoft%20mvp%20program.pdf)
 
 **Contact Information:  
-** StorageCraft, Inc.  
-18187 Nate Harrison Grade  
-Suite C - Box 148  
-Palomar Mountain CA 92060-0148   
+** StorageCraft Technology  
+2274 South 1300 East  
+#G15-107  
+Salt Lake City, UT  
+ 84106-2882   
 888-455-5041
