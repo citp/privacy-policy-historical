@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infopackets.com privacy policy that was archived on 2004-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040409074625id_/http%3A//www.infopackets.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infopackets.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210100516id_/http%3A//www.infopackets.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
