@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the adcouncil.org privacy policy that was archived on 2001-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010804224628id_/http%3A//www.adcouncil.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adcouncil.org privacy policy that was archived on 2002-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020203141253id_/http%3A//www.adcouncil.org/privacy.html) for the most accurate reproduction.*
 
 # Ad Council's Online Privacy Statement
 
   
-[](https://web.archive.org/web/20010804224628id_/http%3A//www.adcouncil.org/fr_about.html)    
-[](https://web.archive.org/web/20010804224628id_/http%3A//www.adcouncil.org/fr_news.html)    
-[](https://web.archive.org/web/20010804224628id_/http%3A//www.adcouncil.org/fr_camp.html)    
-[](https://web.archive.org/web/20010804224628id_/http%3A//www.adcouncil.org/fr_media.html)    
-[](https://web.archive.org/web/20010804224628id_/http%3A//www.adcouncil.org/fr_research.html)    
-[](https://web.archive.org/web/20010804224628id_/http%3A//www.adcouncil.org/fr_thanks.html)    
-[](https://web.archive.org/web/20010804224628id_/http%3A//www.adcouncil.org/fr_donate_financial.html)   
-[ ](https://web.archive.org/web/20010804224628id_/http%3A//www.adcouncil.org/Become_a_campaign/fr_become_campaign.html)   
-[ ](https://web.archive.org/web/20010804224628id_/http%3A//www.adcouncil.org/fr_donate_media.html)   
-[](https://web.archive.org/web/20010804224628id_/http%3A//www.adcouncil.org/fr_aconline.html)   
+[](https://web.archive.org/web/20020203141253id_/http%3A//www.adcouncil.org/fr_about.html)    
+[](https://web.archive.org/web/20020203141253id_/http%3A//www.adcouncil.org/fr_news.html)    
+[](https://web.archive.org/web/20020203141253id_/http%3A//www.adcouncil.org/fr_camp.html)    
+[](https://web.archive.org/web/20020203141253id_/http%3A//www.adcouncil.org/fr_media.html)    
+[](https://web.archive.org/web/20020203141253id_/http%3A//www.adcouncil.org/fr_research.html)    
+[](https://web.archive.org/web/20020203141253id_/http%3A//www.adcouncil.org/fr_thanks.html)    
+[](https://web.archive.org/web/20020203141253id_/http%3A//www.adcouncil.org/fr_donate_financial.html)   
+[ ](https://web.archive.org/web/20020203141253id_/http%3A//www.adcouncil.org/Become_a_campaign/fr_become_campaign.html)   
+[ ](https://web.archive.org/web/20020203141253id_/http%3A//www.adcouncil.org/fr_donate_media.html)   
+[](https://web.archive.org/web/20020203141253id_/http%3A//www.adcouncil.org/fr_aconline.html)   
 [  
-](https://web.archive.org/web/20010804224628id_/http%3A//www.adcouncil.org/ondcp/index.html) | **The Advertising Council’s Privacy Statement  
+](https://web.archive.org/web/20020203141253id_/http%3A//www.adcouncil.org/ondcp/index.html) | **The Advertising Council’s Privacy Statement  
 **Updated: July 26, 2001 
 
 **Overall**  
