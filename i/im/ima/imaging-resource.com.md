@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imaging-resource.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204215957id_/http%3A//imaging-resource.com/PRIVACY.HTM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imaging-resource.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605053452id_/http%3A//imaging-resource.com/PRIVACY.HTM) for the most accurate reproduction.*
 
 # The Imaging Resource: Privacy Policy
 
@@ -17,6 +17,6 @@ Refer it to your family and friends!**
 
 Questions? Problems? [**Email**](mailto:web@imaging-resource.com) us!
 
-###### **This document copyright © 1998 - 2001, The Imaging Resource, all rights reserved.** Visitors to this site may download this document for _local, private, non-commercial use_. Individuals who have _themselves_ downloaded this page may print a copy on their personal printers for convenience of reading and reference. Other than this explicit usage, it may not be published, reproduced, or distributed in print or electronic and/or digital media without the express written consent of [The Imaging Resource](mailto:web@imaging-resource.com).
+###### **This document copyright © 1998 - 2002, The Imaging Resource, all rights reserved.** Visitors to this site may download this document for _local, private, non-commercial use_. Individuals who have _themselves_ downloaded this page may print a copy on their personal printers for convenience of reading and reference. Other than this explicit usage, it may not be published, reproduced, or distributed in print or electronic and/or digital media without the express written consent of [The Imaging Resource](mailto:web@imaging-resource.com). 
 
 [Search](https://web.archive.org/search.html) | [About Us](https://web.archive.org/ABOUTUS.HTM) | [Advertising](https://web.archive.org/ADINFO.HTM) | [Privacy Policy](https://web.archive.org/PRIVACY.HTM) | [Home Page](https://web.archive.org/)
