@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lazydays.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602033357id_/http%3A//lazydays.com/default.asp%3Fipage%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazydays.com privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212215530id_/http%3A//lazydays.com/default.asp%3Fipage%3Dpolicy) for the most accurate reproduction.*
 
-# Welcome to Lazydays
+# Lazydays - Website and Privacy Policy
 
 |   
 LAZYDAYS PRIVACY POLICY
