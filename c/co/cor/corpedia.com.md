@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corpedia.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208212726id_/http%3A//www.corpedia.com/welcome/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corpedia.com privacy policy that was archived on 2003-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030607103803id_/http%3A//corpedia.com/welcome/privacy.asp) for the most accurate reproduction.*
 
 # Corpedia Privacy Statement
 
