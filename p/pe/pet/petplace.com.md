@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petplace.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207134238id_/http%3A//www.petplace.com/Corporate/corpSiteTextHandler.asp%3Fcode%3DPrivacy%2BStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petplace.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606064210id_/http%3A//www.petplace.com/Corporate/corpSiteTextHandler.asp%3Fcode%3DPrivacy%2BStatement) for the most accurate reproduction.*
 
 # PetPlace.com - Corporate
 
