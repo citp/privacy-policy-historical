@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lta.org.uk privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609093118id_/http%3A//www.lta.org.uk/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lta.org.uk privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009232557id_/http%3A//www.lta.org.uk/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - LTA Tennis Nation
 
