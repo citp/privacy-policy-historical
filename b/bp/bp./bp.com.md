@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bp.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602181546id_/http%3A//www.bp.com/legal/privacy_statement_page.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bp.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202023553id_/http%3A//www.bp.com/legal/privacy_statement_page.asp) for the most accurate reproduction.*
 
 # bp.com: Privacy statement
 
