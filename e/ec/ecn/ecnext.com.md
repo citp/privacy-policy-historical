@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecnext.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203022926id_/http%3A//www.ecnext.com/aboutecnext/customercare/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecnext.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622001138id_/http%3A//ecnext.com/aboutecnext/customercare/privacypolicy.shtml) for the most accurate reproduction.*
 
 # The ECNext Knowledge Center : Online Business and Industry Information
 
