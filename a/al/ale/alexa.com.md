@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the alexa.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630195049id_/http%3A//pages.alexa.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alexa.com privacy policy that was archived on 2004-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041231084231id_/http%3A//pages.alexa.com/help/privacy.html) for the most accurate reproduction.*
 
 # Alexa Web Search -- Privacy Policy
 
 Alexa Internet Privacy Policy
 
-**Updated 17 March 2003** ([see what's changed](https://web.archive.org/web/20040630195049id_/http%3A//pages.alexa.com/help/redline.html#privacy))   
+**Updated 17 March 2003** ([see what's changed](https://web.archive.org/web/20041231084231id_/http%3A//pages.alexa.com/help/redline.html#privacy))   
  
 
-Alexa is committed to protecting your privacy. This Privacy Policy, which is a binding part of Alexa's [ Website Terms of Use and End User License Agreement ("Agreement")](https://web.archive.org/web/20040630195049id_/http%3A//pages.alexa.com/help/terms.html), explains the type of information Alexa collects through its website and theAlexa browser companion software ("Toolbar Service") and what Alexa does with it.
+Alexa is committed to protecting your privacy. This Privacy Policy, which is a binding part of Alexa's [ Website Terms of Use and End User License Agreement ("Agreement")](https://web.archive.org/web/20041231084231id_/http%3A//pages.alexa.com/help/terms.html), explains the type of information Alexa collects through its website and theAlexa browser companion software ("Toolbar Service") and what Alexa does with it.
 
 ALEXA'S TOOLBAR SERVICE COLLECTS AND STORES INFORMATION ABOUT THE WEB PAGES YOU VIEW, THE DATA YOU ENTER IN ONLINE FORMS AND SEARCH FIELDS, AND, WITH VERSIONS 5.0 AND HIGHER, THE PRODUCTS YOU PURCHASE ONLINE WHILE USING THE TOOLBAR SERVICE. ALTHOUGH ALEXA DOES NOT ATTEMPT TO ANALYZE WEB USAGE DATA TO DETERMINE THE IDENTITY OF ANY ALEXA USER, SOME INFORMATION COLLECTED BY THE TOOLBAR SERVICE IS PERSONALLY IDENTIFIABLE. ALEXA AGGREGATES AND ANALYZES THE INFORMATION IT COLLECTS TO IMPROVE ITS SERVICE AND TO PREPARE REPORTS ABOUT AGGREGATE WEB USAGE AND SHOPPING HABITS.
 
@@ -118,11 +118,11 @@ You acknowledge and agree that Alexa is not responsible for any content, adverti
 
 **_How to Change Your Information_**
 
-You can inform us of a change in the e-mail address or demographic information you provide us by contacting us at [customerservice@alexa.com](mailto:customerservice@alexa.com). Alexa does not currently enable users to access, review, or change usage path and shopping path information collected during use of the Toolbar Service. Alexa also does not enable users to delete information, including usage path, shopping, and demographic information.
+You can inform us of a change in the e-mail address or demographic information you provide us by [contacting us](http://pages.alexa.com/company/contact.html). Alexa does not currently enable users to access, review, or change usage path and shopping path information collected during use of the Toolbar Service. Alexa also does not enable users to delete information, including usage path, shopping, and demographic information.
 
-If you do not want to receive Alexa newsletters, offers, and product and service information, simply send an e-mail _to_ [customerservice@alexa.com](mailto:customerservice@alexa.com) _from_ the e-mail address where such information is being sent, and state that you no longer want to receive Alexa information and updates.
+If you do not want to receive Alexa newsletters, offers, and product and service information, simply [contact us](http://pages.alexa.com/company/contact.html) and be sure to _include the e-mail address_ where such information is being sent, and state that you no longer want to receive Alexa information and updates.
 
-To submit requests to change or remove website owner contact information, follow the instructions on the following form: [Change Contact Information Form](http://www.alexa.com/data/details/editor?type=contact), or send an e-mail to [customerservice@alexa.com](mailto:customerservice@alexa.com). Please note that it can take up to 6 weeks for approved requests to be implemented in Alexa's Toolbar Service or website.
+To submit requests to change or remove website owner contact information, follow the instructions on the following form: [Change Contact Information Form](http://www.alexa.com/data/details/editor?type=contact), or [contact us](http://pages.alexa.com/company/contact.html). Please note that it can take up to 6 weeks for approved requests to be implemented in Alexa's Toolbar Service or website.
 
 **_Glossary of Terms_**
 
