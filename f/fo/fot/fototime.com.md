@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fototime.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607172444id_/http%3A//fototime.com/ftweb/bin/ft.dll/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fototime.com privacy policy that was archived on 2001-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010803005553id_/http%3A//fototime.com/ftweb/bin/ft.dll/privacy) for the most accurate reproduction.*
 
 # FotoTime.com
 
