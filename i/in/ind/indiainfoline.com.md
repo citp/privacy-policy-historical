@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiainfoline.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202161800id_/http%3A//www.indiainfoline.com/home/priv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiainfoline.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607224350id_/http%3A//www.indiainfoline.com/home/priv.html) for the most accurate reproduction.*
 
 # India Infoline
 
@@ -34,10 +34,7 @@ Cookies are not programs that come onto a user's system and damage files. Genera
 
 Indiainfoline.com reserves the right to change this policy at any time by notifying users of the existence of a new privacy statement. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
 
-|   |  | 
-
-[](http://shop.indiainfoline.com/)  
-  
+|   |  |   
 ---  
    
   
