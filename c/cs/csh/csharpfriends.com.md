@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the csharpfriends.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001191637id_/http%3A//www.csharpfriends.com/Members/Main/Misc/private.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csharpfriends.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606024646id_/http%3A//www.csharpfriends.com/Members/Main/Misc/private.aspx) for the most accurate reproduction.*
 
-# CSharpFriends - ASP.NET & C# Tutorials
+# C# C Sharp and Tutorials on C# Friends.com
 
 |   
 ---  
@@ -8,11 +8,10 @@
   
 ---  
   
+[about c# chat](http://www.csharpfriends.com/demos/chatserver/)
 
-
-[](https://web.archive.org/Members/ad_redirect.aspx?ADID=78)
-
-  | 
+**Hosted By:**   
+[](http://www.securewebs.com/)
 
 Your use of the CSharpFriends.com Web site constitutes your agreement to this privacy policy and consent to the terms herein. Please see the section labeled "Information We Collect and How We Use It" to learn more about our collection and use of user information. 
 
@@ -69,3 +68,52 @@ If you have any questions regarding this privacy policy you can contact CSharpFr
 CSharpFriends.com may from time to time change this privacy policy with or without notice, so please check it regularly for any changes or updates. For future reference, CSharpFriends.com will make a link to the current privacy policy available to you on your screen when you are on our Web site. Your use of the site constitutes your agreement to this privacy policy and your assent to any modification thereto. 
 
 | 
+
+|  **Today's Top Movers**  
+---  
+alefiya 1  
+kwalda 1  
+senasrini 1  
+hansb 1  
+razovy 1  
+  
+  
+  
+
+
+**Yesterday Top Movers**  
+---  
+shenen 3  
+mohammedno.. 2  
+beenish 1  
+bcp1978 1  
+qrich 1  
+  
+  
+  
+
+
+**Monthly Leaders**  
+---  
+mohammedno.. 26  
+shenen 16  
+MadHatter 15  
+aniaahh 14  
+csharpnewb.. 12  
+  
+  
+  
+
+
+**Top Members**  
+---  
+mosessaur 18445  
+Rincewind 7074  
+stanleytan 6995  
+Gsuttie 6045  
+juliet 4638  
+  
+  
+  
+  
+
