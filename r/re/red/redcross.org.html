@@ -1,67 +1,260 @@
-<!--The following is the downloaded HTML source of the redcross.org privacy policy that was archived on 2003-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030604153529id_/http%3A//redcross.org/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the redcross.org privacy policy that was archived on 2003-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031203000039id_/http%3A//redcross.org/privacy) for the most accurate reproduction.-->
 
-<html><head>
-<meta name="robots" content="noindex nofollow"> 
-<script language="javascript" src="css/master.js"></script> 
-<title>American Red Cross</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<meta name="description" content="The American Red Cross helps keep people safe every day as well as in an emergency thanks to caring people who support our work in the community. Please support your local Red Cross">
+<meta name="keywords" content="red,cross,American Red Cross,American National Red Cross,Red Cross,Red Crescent,IFRC,ICRC,online giving,online fundraising">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>American Red Cross</title>
+					<!----- *****JAVASCRIPT MASTER INCLUDE *****------>
+<script language="javascript" src="/cda/common/js/master.js"></script> 
+					<!----- *****JAVASCRIPT HOME INCLUDE *****------>
+<script language="javascript" src="/cda/common/js/home.js"></script>  
 
-<link rel="stylesheet" type="text/css" href="/css/rcomaster.css" title="master">
+<script>
+<!--
+	// JAVASCRIPT VALIDATION
+	var validations = new Array
+
+	// Usage:
+	// addValidation("FieldName", "Expression (true => error)", "ErrorMessage");
+	// eg..
+	// addValidation("F_TITLE", "form.F_TITLE.value == ''", "Title must not be empty");
+
+	function IfaddValidation(fieldValueTrue,fieldName, expression, msg) {
+		//alert ("pass in value is" + eval(fieldValueTrue);
+		if(fieldValueTrue > 1)
+			{
+			var v = new Array(fieldName, expression, msg);
+			validations[validations.length] = v;
+			}
+	}
+	
+	function addValidation(fieldName, expression, msg) {
+		var v = new Array(fieldName, expression, msg);
+		validations[validations.length] = v;
+	}
+	
+	function validate(actionPerformed) {
+		var errors = new Array()
+		var form = document.forms[0]
+		var output = "";
+		for (var loop=0; loop < validations.length; loop++) {
+			if (eval(validations[loop][1])) {
+				errors[errors.length] = validations[loop]
+				output = output + validations[loop][2] + "\n";
+			}
+		}
+		
+		if (errors.length > 0) {
+			// Switch to the first tab with an error then show error message.  Return false.
+				//var contentTabBox = new TabBox("contentTabBox");
+				//contentTabBox.switchToField(errors[0][0]);
+			alert("You must correct these errors first:\n"+
+			      "-------------------------------------\n"+output+"\nVALUE ");
+			return false;			
+		} else {
+			// No errors, so return true so that submit continues
+			return true;
+		}
+	}
+	
+	//------------------- Already Submitted?
+	var submitProcessed = false;
+	function alreadySubmitted() {
+		// already submitted is a check to prevent user from submitting form twice.
+		if (!submitProcessed) {
+			submitProcessed = true;
+			return false;
+		} else {
+			return true;
+		}
+	}	
+//-->
+</script>
+
+<link rel="stylesheet" type="text/css" href="/cda/common/css/rcomaster.css" title="master">
 
 </head>
 
 <body bgcolor="#003366">
-
 <center>
-<table width="705" border="3" cellspacing="0" cellpadding="2" bgcolor="#ffffff">
-  <tbody><tr> 
-    <td> 
-<table width="700" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff"><tbody><tr><td colspan="2"> 
-<table width="700" border="0" cellspacing="0" cellpadding="0" colspan="2">
-	<tbody><tr><td height="100" width="700"><img src="images/homemasthd.jpg" width="700" height="100"></td></tr>
-	<tr><td height="20" valign="top" width="700" colspan="2"><img src="images/helpnow2.gif" width="130" height="20" border="0" alt="Find Out How You Can Help."><a href="index.html" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('home1','','images/rollover/home2b.gif',1);"><img name="home1" src="images/home2a.gif" width="54" height="20" border="0"></a><a href="news" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('news1','','images/rollover/news2b.gif',1);"><img name="news1" src="images/news2a.gif" width="65" height="20" border="0"></a><a href="services" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('serv1','','images/rollover/serv2b.gif',1);"><img name="serv1" src="images/serv2a.gif" width="78" height="20" border="0"></a><a href="press" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('press1','','images/rollover/press2b.gif',1);"><img name="press1" src="images/press2a.gif" width="101" height="20" border="0"></a><a href="faq" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('faq1','','images/rollover/faq2b.gif',1);"><img name="faq1" src="images/faq2a.gif" width="59" height="20" border="0"></a><a href="jobs" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('job1','','images/rollover/job2b.gif',1);"><img name="job1" src="images/job2a.gif" width="50" height="20" border="0"></a><a href="/pubs/" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('gift1','','images/rollover/gift2b.gif',1);"><img name="gift1" src="images/gift2a.gif" width="80" height="20" border="0"></a><a href="museum" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('mus1','','images/rollover/mus2b.gif',1);"><img name="mus1" src="images/mus2a.gif" width="83" height="20" border="0"></a></td></tr></tbody></table></td></tr>
-<tr><td valign="top" rowspan="1" width="130" border="0">  
-      <table width="130" border="0" cellspacing="0" cellpadding="0">
-        <!-- Help Now - Orange Bar Section  -->
-<!-- <tr bgcolor="#000033">  
-				<td width="130"><img src="/images/helpnow2.gif" width="130" height="20" alt="Find Out How You Can Help."></td></tr> -->
-        <tbody><tr><td height="20"><a href="http://www.redcross.org/donate/donate.html" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('donat1','','/images/rollover/donat2.gif',1);"><img name="donat1" src="/images/donat.gif" width="130" height="20" border="0"></a></td></tr>
-        <tr><td><img src="/images/spacer.gif" height="2" width="1"></td></tr>  
-        <tr><td height="20"><a href="http://www.redcross.org/donate/give/" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('givebl1','','/images/rollover/givebl2.gif',1);"><img name="givebl1" src="/images/givebl.gif" width="130" height="20" border="0"></a></td></tr>
-        <tr><td><img src="/images/spacer.gif" height="2" width="1"></td></tr>
-        <tr><td height="20"><a href="http://www.redcross.org/donate/tissue/" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('tissuedon1','','/images/rollover/tissuedon2.gif',1);"><img name="tissuedon1" src="/images/tissuedon.gif" width="130" height="20" border="0"></a></td></tr>
-        <tr><td><img src="/images/spacer.gif" height="2" width="1"></td></tr>
-		<tr><td height="20"><a href="http://www.redcross.org/donate/volunteer/" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('volunteer1','','/images/rollover/volunteer2.gif',1);"><img name="volunteer1" src="/images/volunteer.gif" width="130" height="20" border="0"></a></td></tr>
-        <tr><td><img src="/images/spacer.gif" height="2" width="1"></td></tr>
-	    <tr><td height="20"><a href="http://www.redcross.org/donate/plngiv/" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('pgive1','','/images/rollover/pgive2.gif',1);"><img name="pgive1" src="/images/pgive.gif" width="130" height="20" border="0"></a></td></tr>
-	    <tr><td><img src="/images/spacer.gif" height="2" width="1"></td></tr>
-		<tr><td height="20"><a href="http://www.redcross.org/donate/goods/" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('goods','','/images/rollover/goods2.gif',1);"><img name="goods" src="/images/goods.gif" width="130" height="20" border="0"></a></td></tr>
-	    <tr><td><img src="/images/spacer.gif" height="2" width="1"></td></tr>
-       <tr bgcolor="#ff3333"><td width="130" height="17"><font style="color: #ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 11px;">&nbsp;&nbsp;<b>Find Your Local<br>&nbsp;&nbsp;Red Cross</b></font></td>
-      </tr> 
-        <tr> 
-        <td align="left" height="100%" bgcolor="#ff6633"><form name="LocalARC" method="post" action="/where/search.asp" onsubmit="return checkform(this)">&nbsp;<font style="color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 11px;">Enter Zip Code Here:<br clear="all"></font> &nbsp;<input name="zip" maxlength="10" size="6"><input type="image" border="0" name="find" src="images/find.gif" alt="Find" align="absmiddle" hspace="2" vspace="2" width="52" height="17"></form></td></tr>
-        <tr><td><img src="../images/spacer.gif" height="2" width="1"></td></tr>
-        <tr bgcolor="#ff3333"><td width="130" height="17"><font style="color: #ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 11px;">&nbsp;&nbsp;<b>Search Our Site</b></font></td></tr>        
-        <tr bgcolor="#ff6633" height="100%"> 
-        <td align="left" height="100%"><form name="query" action="/sys/search/search.asp" method="post">&nbsp;<input name="SearchString" size="9" maxlength="100" align="absmiddle"><input type="image" src="/images/go.gif" valign="center" border="0" width="21" height="21" align="absmiddle" alt="Go!" hspace="2"></form></td></tr>
-        <tr><td><img src="../images/spacer.gif" height="2" width="1"></td></tr>
-        <tr bgcolor="#000033"> 
-        <td width="130"><img src="images/supportn.gif" width="114" hspace="7" alt="Find Out Who Are Supporters Are."></td></tr>
-        <tr> 
-        <td class="blubar2" bgcolor="#336699" valign="top"><a href="sponsors" style="color: #ffffff; text-decoration: none">&nbsp;&nbsp;<b>Find Out Who Our<br>&nbsp;&nbsp;Supporters Are</b></a></td>
-        </tr>
-      </tbody></table>
-</td> 
-   <td valign="top" width="550">
-   
-    <!--  c  o  n  t  e  n  t  -->
+<table width="704" border="2" cellspacing="0" cellpadding="2" bgcolor="#ffffff">
+ <tbody><tr> 
+  <td> 
+<table width="700" border="0" cellspacing="0" cellpadding="0" summary="Organization logo and main navigation">
+	<tbody><tr><!-- hardcode masthead for now -->
+		<td height="100" width="700"><img src="/cda/images/homemasthd.jpg" width="700" height="100" alt="Home English"></td>
+	</tr>
+	<tr><td height="20" valign="top" width="700" colspan="2">
+<img src="/cda/images/services.gif" width="130" height="20" border="0" alt="Search Through a List of Our Services."><a href="/home/0,1071,0_1_,00.html" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('channel1','','/cda/images/home2b.gif',1);"><img name="channel1" src="/cda/images/home2a.gif" border="0" alt="Home" english'=""></a><a href="/news/0,1074,0_312_,00.html" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('channel312','','/cda/images/news2b.gif',1);"><img name="channel312" src="/cda/images/news2a.gif" border="0" alt="News"></a><a href="/services/0,1103,0_313_,00.html" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('channel313','','/cda/images/serv2b.gif',1);"><img name="channel313" src="/cda/images/serv2a.gif" border="0" alt="Services"></a><a href="/press/0,1079,0_314_,00.html" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('channel314','','/cda/images/press2b.gif',1);"><img name="channel314" src="/cda/images/press2a.gif" border="0" alt="Press Room"></a><a href="/faq/0,1096,0_315_,00.html" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('channel315','','/cda/images/faq2b.gif',1);"><img name="channel315" src="/cda/images/faq2a.gif" border="0" alt="FAQs"></a><a href="/jobs/0,1115,0_316_,00.html" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('channel316','','/cda/images/job2b.gif',1);"><img name="channel316" src="/cda/images/job2a.gif" border="0" alt="Jobs"></a><a href="http://www.redcross.org/pubs/" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('channel317','','/cda/images/gift2b.gif',1);"><img name="channel317" src="/cda/images/gift2a.gif" border="0" alt="Publications"></a><a href="http://www.redcross.org/museum" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('channel318','','/cda/images/mus2b.gif',1);"><img name="channel318" src="/cda/images/mus2a.gif" border="0" alt="Museum"></a></td>
+	</tr>
+</tbody></table>
 
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr valign="top">
+		<td width="130px">
+
+						<!-- BLUE NAVIGATION ... SHOULD BE DYNAMIC -->
+<table width="130" border="0" cellspacing="0" cellpadding="0" summary="Lines of service navigation. Help now navigation for donating to the Red Cross. Chapter locator function, link to a list of chapters, Search the site.">
+<tbody><tr bgcolor="#6699cc"><td width="2%" height="20"></td><td height="20" width="98%" class="blubar"><a class="nav" style="text-decoration: none; color:#003366; font-weight: bold;" href="/services/disaster/0,1082,0_319_,00.html" title="Disaster Services">Disaster Services</a></td></tr>
+		<tr><td width="130" colspan="2"><img src="/cda/images/spacer.gif" height="2" width="1" alt=""></td></tr>
+		<tr bgcolor="#6699cc"><td width="2%" height="20"></td><td height="20" width="98%" class="blubar"><a class="nav" style="text-decoration: none; color:#003366; font-weight: bold;" href="/services/biomed/0,1082,0_320_,00.html" title="Biomedical Services">Biomedical Services</a></td></tr>
+		<tr><td width="130" colspan="2"><img src="/cda/images/spacer.gif" height="2" width="1" alt=""></td></tr>
+		<tr bgcolor="#6699cc"><td width="2%" height="20"></td><td height="20" width="98%" class="blubar"><a class="nav" style="text-decoration: none; color:#003366; font-weight: bold;" href="/services/afes/0,1082,0_321_,00.html" title="Military Members and Families">Military Members and Families</a></td></tr>
+		<tr><td width="130" colspan="2"><img src="/cda/images/spacer.gif" height="2" width="1" alt=""></td></tr>
+		<tr bgcolor="#6699cc"><td width="2%" height="20"></td><td height="20" width="98%" class="blubar"><a class="nav" style="text-decoration: none; color:#003366; font-weight: bold;" href="/services/hss/" title="Health and Safety Services">Health and Safety Services</a></td></tr>
+		<tr><td width="130" colspan="2"><img src="/cda/images/spacer.gif" height="2" width="1" alt=""></td></tr>
+		<tr bgcolor="#6699cc"><td width="2%" height="20"></td><td height="20" width="98%" class="blubar"><a class="nav" style="text-decoration: none; color:#003366; font-weight: bold;" href="/services/intl/0,1082,0_323_,00.html" title="International Services">International Services</a></td></tr>
+		<tr><td width="130" colspan="2"><img src="/cda/images/spacer.gif" height="2" width="1" alt=""></td></tr>
+		<tr bgcolor="#6699cc"><td width="2%" height="20"></td><td height="20" width="98%" class="blubar"><a class="nav" style="text-decoration: none; color:#003366; font-weight: bold;" href="/more/commserv/" title="Community Services">Community Services</a></td></tr>
+		<tr><td width="130" colspan="2"><img src="/cda/images/spacer.gif" height="2" width="1" alt=""></td></tr>
+		<tr bgcolor="#6699cc"><td width="2%" height="20"></td><td height="20" width="98%" class="blubar"><a class="nav" style="text-decoration: none; color:#003366; font-weight: bold;" href="/services/volunteer/0,1082,0_325_,00.html" title="Volunteer Services">Volunteer Services</a></td></tr>
+		<tr><td width="130" colspan="2"><img src="/cda/images/spacer.gif" height="2" width="1" alt=""></td></tr>
+		<tr bgcolor="#6699cc"><td width="2%" height="20"></td><td height="20" width="98%" class="blubar"><a class="nav" style="text-decoration: none; color:#003366; font-weight: bold;" href="/services/youth/0,1082,0_326_,00.html" title="Youth Services">Youth Services</a></td></tr>
+		<tr><td width="130" colspan="2"><img src="/cda/images/spacer.gif" height="2" width="1" alt=""></td></tr>
+		<tr bgcolor="#6699cc"><td width="2%" height="20"></td><td height="20" width="98%" class="blubar"><a class="nav" style="text-decoration: none; color:#003366; font-weight: bold;" href="/services/nursing/0,1082,0_327_,00.html" title="Nursing">Nursing</a></td></tr>
+		<tr><td width="130" colspan="2"><img src="/cda/images/spacer.gif" height="2" width="1" alt=""></td></tr>
+		<tr bgcolor="#6699cc"><td width="2%" height="20"></td><td height="20" width="98%" class="blubar"><a class="nav" style="text-decoration: none; color:#003366; font-weight: bold;" href="/services/diversity/0,1082,0_328_,00.html" title="Diversity">Diversity</a></td></tr>
+		<tr><td width="130" colspan="2"><img src="/cda/images/spacer.gif" height="2" width="1" alt=""></td></tr>
+		<tr bgcolor="#6699cc"><td width="2%" height="20"></td><td height="20" width="98%" class="blubar"><a class="nav" style="text-decoration: none; color:#003366; font-weight: bold;" href="http://www.redcross.org/services/ecard/" title="Send an eCard">Send an eCard</a></td></tr>
+		<tr><td width="130" colspan="2"><img src="/cda/images/spacer.gif" height="2" width="1" alt=""></td></tr>
+		
+		<tr bgcolor="#6699cc"><td width="2%" height="20"></td><td height="20" width="98%" class="blubar"><a class="nav" style="text-decoration: none; color:#003366; font-weight: bold;" href="/spanish" title="RedCross in Spanish">En Español</a></td></tr>
+		<tr><td width="130" colspan="2"><img src="/cda/images/spacer.gif" height="2" width="1" alt=""></td></tr>			
+</tbody></table>
+<table width="130" border="0" cellspacing="0" cellpadding="0" summary="Lines of service navigation. Help now navigation for donating to the Red Cross. Chapter locator function, link to a list of chapters, Search the site.">
+       					<!-- HELP NOW SECTION -->
+<tbody><tr bgcolor="#000033"><td width="130" colspan="2"><img src="/cda/images/helpnow2.gif" width="130" height="20" alt="Find Out How You Can Help."></td></tr> 
+<tr><td height="20" colspan="2"><a href="/donate/donate.html" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('donat1','','/cda/images/donat2.gif',1);"><img name="donat1" src="/cda/images/donat.gif" width="130" height="20" border="0" alt="Donate Online"></a></td></tr>
+<tr><td colspan="2"><img src="/cda/images/spacer.gif" height="2" width="1" border="0" alt=""></td></tr>  
+<tr><td height="20" colspan="2"><a href="/donate/give" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('givebl1','','/cda/images/givebl2.gif',1);"><img name="givebl1" src="/cda/images/givebl.gif" width="130" height="20" border="0" alt="Give Blood"></a></td></tr>
+<tr><td colspan="2"><img src="/cda/images/spacer.gif" height="2" width="1" border="0" alt=""></td></tr>
+<tr><td height="20" colspan="2"><a href="/donate/tissue" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('tissuedon1','','/cda/images/tissuedon2.gif',1);"><img name="tissuedon1" src="/cda/images/tissuedon.gif" width="130" height="20" border="0" alt="Donate Tissue"></a></td></tr>
+<tr><td colspan="2"><img src="/cda/images/spacer.gif" height="2" width="1" border="0" alt=""></td></tr>
+<tr><td height="20" colspan="2"><a href="/donate/volunteer" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('volunteer1','','/cda/images/volunteer2.gif',1);"><img name="volunteer1" src="/cda/images/volunteer.gif" width="130" height="20" border="0" alt="Volunteer"></a></td></tr>
+<tr><td colspan="2"><img src="/cda/images/spacer.gif" height="2" width="1" border="0" alt=""></td></tr>
+<tr><td height="20" colspan="2"><a href="/donate/plngiv" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('pgive1','','/cda/images/pgive2.gif',1);"><img name="pgive1" src="/cda/images/pgive.gif" width="130" height="20" border="0" alt="Planned Giving"></a></td></tr>
+<tr><td colspan="2"><img src="/cda/images/spacer.gif" height="2" width="1"></td></tr>
+<tr><td height="20" colspan="2"><a href="/donate/goods/" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('goods','','/cda/images/goods2.gif',1);"><img name="goods" src="/cda/images/goods.gif" width="130" height="20" border="0" alt="Donate Goods"></a></td></tr>
+<tr><td colspan="2"><img src="/cda/images/spacer.gif" height="2" width="1"></td></tr>
+
+						<!-- HOME SECTION ONLY !!! -->
+						<!-- FIND YOUR LOCAL RED CROSS -->
+<tr bgcolor="#ff3333"><td colspan="2" class="orgbar"><font style="color: #ffffff;">&nbsp;&nbsp;Find Your Local<br>&nbsp;&nbsp;Red Cross</font></td></tr>
+<tr><td align="left" bgcolor="#ff6633" colspan="2"><form name="LocalARC" method="post" action="/where/search.asp" onsubmit="return checkform(this)"><center>Enter Zip Code Here:<br><input name="zip" maxlength="10" size="9"><br><input type="image" border="0" name="find" src="/cda/images/find.gif" alt="Find Your Local Red Cross Chapter" align="absmiddle" hspace="2" vspace="2" width="52" height="17"></center></form></td></tr>
+<tr><td><img src="/cda/images/spacer.gif" height="2" width="1" alt=""></td></tr>
+						<!-- CHAPTER LOCATOR -->
+<tr bgcolor="#ff3333"><td height="20" class="orgbar" colspan="2"><a href="/where/chapts.html" style="color: #ffffff; font-family: Arial, Helvetica, sans-serif;">&nbsp;&nbsp;<b>Or Browse Through<br>&nbsp;&nbsp;A List of Chapters!</b></a></td></tr>
+<tr bgcolor="#ff6633"><td align="center" colspan="2"><a href="/where/chapts.html"><img src="/cda/images/chp.gif" border="0" alt="Go to the Chapters Page" align="absmiddle" hspace="8" vspace="2" width="59" height="20"></a></td></tr>
+<tr><td colspan="2"><img src="/cda/images/spacer.gif" height="2" width="1" alt=""></td></tr>
+						<!-- SITE SEARCH FUNCTION -->
+<tr bgcolor="#ff3333"><td width="130" height="17" class="orgbar" colspan="2"><font style="color: #ffffff;">&nbsp;&nbsp;Search Our Site</font></td></tr>
+<tr bgcolor="#ff6633"><td align="left" colspan="2">
+	<form name="query" action="/search/search.asp" method="post">
+        <input type="hidden" name="queryaction" value="results">                                
+		<input type="hidden" name="selecteddatabases" value="AllSite">
+		<center>
+			<input name="SearchString" size="9" maxlength="100"><br>
+			<input type="image" src="/cda/images/go.gif" valign="center" border="0" width="21" height="21" align="absmiddle" alt="Go!">
+		</center>
+	</form>
+</td></tr>
+<tr><td colspan="2"><img src="/cda/images/spacer.gif" height="2" width="1" alt=""></td></tr>
+						<!-- SIGN UP FOR MAILING LIST -->
+<tr>
+	<td width="130" align="left" bgcolor="#6699CC" colspan="2">
+		<table cellpadding="0" cellspacing="0" width="128" align="center" background="/cda/images/at.jpg">
+			<tbody><tr>
+				<td align="center">
+					<form method="POST" action="/cgi-bin/process_form/process_form_pubinfo.asp" onsubmit="return validate_3(this)" name="subscribe">
+						<input type="hidden" name="app_id" value="oneminute"> 
+						<input type="hidden" name="app_order" value="email">
+						
+						<p><font color="#FFFFFF"><b>
+						Receive monthly news, tips and updates 
+						from the Red Cross.<br><br>
+						Email:</b></font><br>
+						<input name="email" size="9" maxlength="100"><br>
+						<input type="image" border="0" name="send" src="/cda/images/submit.gif" alt="Submit" width="59" height="20">
+					</p></form>
+				</td>
+			</tr>
+		</tbody></table>
+	</td>
+</tr>
+<tr><td colspan="2"><img src="/cda/images/spacer.gif" height="2" width="1" alt=""></td></tr>
+						<!-- HOME SECTION ONLY ??? -->				
+						<!-- SUPPORTERS -->
+								
+<tr bgcolor="#000033"><td colspan="2"><img src="/cda/images/supportn.gif" hspace="7" width="114" height="20" alt="Find Out Who Are Supporters Are"></td></tr>
+<tr>
+	<td class="orgbar" bgcolor="#336699" valign="top" width="114" height="20">
+		<table cellpadding="3" border="0" summary="Table includes current Red Cross Supporters">
+			<tbody><tr>
+				<td>			
+												
+				<img src="/cda/images/featarrow.gif" align="absbottom" alt="arrow image">&nbsp;<a href="/sponsors/drf_recognition.html" style="color: #ffffff;" title="Major Gifts Provide Essential Support of Red Cross Disaster Relief Fund"><b>Major Gifts Provide Essential Support of Red Cross Disaster Relief Fund</b></a>
+				<p>
+				
+				<img src="/cda/images/featarrow.gif" align="absbottom" alt="arrow image">&nbsp;<a href="http://www.duracell.com/safefamilies/default.htm" style="color: #ffffff;" title="Duracell and Safe Families" target="_new"><b>Duracell and Safe Families</b></a>
+				</p><p>				
+
+				<img src="/cda/images/featarrow.gif" align="absbottom" alt="arrow image">&nbsp;<a href="/sponsors/donation_sites.html" style="color: #ffffff;" title="Official Cash Donation Sites"><b>Official Cash Donation Sites</b></a>
+				</p><p>
+
+				<img src="/cda/images/featarrow.gif" align="absbottom" alt="arrow image">&nbsp;<a href="/sponsors/helping.html" style="color: #ffffff;" title="Look Who's Helping"><b>Look Who's Helping</b></a>
+				</p><p>
+
+				<img src="/cda/images/featarrow.gif" align="absbottom" alt="arrow image">&nbsp;<a href="/sponsors/adgp/members.html" style="color: #ffffff;" title="ADGP"><b>Annual Disaster Giving Program</b></a>
+				</p><p>
+
+				<img src="/cda/images/featarrow.gif" align="absbottom" alt="arrow image">&nbsp;<a href="/article/0,1072,0_312_1770,00.html" style="color: #ffffff;" title="Nextel Golf Tournament Benefits Red Cross"><b>Nextel Golf Tournament Benefits Red Cross</b></a>
+				</p><p>
+
+				</p></td>
+			</tr>
+		</tbody></table>
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<table align="center" cellpadding="0" cellspacing="0" border="0">
+						<tbody><tr valign="top">
+							<td colspan="2"><a href="http://www.redcross.org/metadata/rco/exit/020806capitalonecard.html"><img src="http://www.redcross.org/images/banners/caponebanner080602.gif" width="130" height="132" border="0"></a></td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>		
+		</tbody></table>
+	</td>
+
+
+	
+
+		
+		<td width="565" valign="top"><!--<td width=100%>-->
+<!-- END HEADER -->
+<table width="550" border="0&quot;" cellspacing="0" cellpadding="5" valign="top">
+<!-- USE THIS BLOCK IF YOU NEED BREADCRUMB TRAIL FOR ANY TEMPLATE 
+<tr valign=top>
+	<td valign="top" height="21" class="bodylink">&nbsp;&nbsp;
+		<a href="../../../">Home</a> &gt; Privacy Policy
+	</td>
+</tr>-->
+<!------------------------------------------------------------------>
+
+<tbody><tr valign="top">
+
+</tr><tr>
+<td width="550" valign="top">
+<p>
+<!-- CUSTOM CONTENT GOES HERE -->
           
 <table cellspacing="10" cellpadding="0" border="0" width="540">
 <tbody><tr><td>
-<center><img src="/images/privpol.gif" width="306" height="35" alt="Internet Site Privacy Policy"></center><hr size="1" width="75%" vspace="5">
+<center><img src="/cda/images/privpol.gif" width="306" height="35" alt="Internet Site Privacy Policy"></center><hr size="1" width="75%" vspace="5">
 <p>
 This Web site is owned and operated by or on behalf of the American Red Cross. We recognize that visitors to our site may be concerned about the information they provide to us, and how we treat that information. This Privacy Policy addresses those concerns.  This policy may be changed or updated from time to time.  
 </p><p>
@@ -84,7 +277,7 @@ The American Red Cross only gathers personally identifiable data, such as names,
 mail addresses, etc., when voluntarily submitted by a visitor. For example, personally identifiable information may be collected in order to respond to a stated desire to volunteer time to the American Red Cross, to schedule a blood donation or to make a financial donation online. This information is used solely by the American Red Cross or other entities who are involved in the operation of this site for internal purposes. American Red Cross lists are never sold to third parties. We will only share personally identifiable information with third parties when (i) the person submitting the information authorizes us to share it; (ii) sharing the information is a necessary operation of the site, for instance, to process a credit card transaction, or (iii) we are required to by law. The American Red Cross has no control over or responsibility for the data collection and use practices of third parties that process online donation credit card transactions. 
 </p><p><b>
 Is Credit Card Information Secure?</b><br>
-We care about the safety and security of your transaction. We use high grade encryption and the https security protocol to communicate with your browser software. This method is the industry standard security protocol, which makes it extremely difficult for anyone else to intercept the credit card information you send to us. Companies we work with to process credit card transactions also use high grade encryption and security protocols. Contributions may also be made by calling 1-800-HELP NOW or directly to your <a href="http://www.redcross.org/where/where.html">local chapter</a>. 
+We care about the safety and security of your transaction. We use high grade encryption and the https security protocol to communicate with your browser software. This method is the industry standard security protocol, which makes it extremely difficult for anyone else to intercept the credit card information you send to us. Companies we work with to process credit card transactions also use high grade encryption and security protocols. Contributions may also be made by calling 1-800-HELP NOW or directly to your <a href="/where/where.html">local chapter</a>. 
 
 
 </p><p><b>
@@ -98,11 +291,11 @@ The American Red Cross employs error checking procedures to make certain transac
 
 </p><p>
 <b>How Do We Use "Cookies"?</b><br>
-Visitors should be aware that non-personal information and data may be automatically collected by the American Red Cross’ Website through the use of "cookies." "Cookies" are small text files a Website can use to recognize repeat visitors, facilitate the visitor’s ongoing access to and use of the site, and allow a site to track usage behavior and compile aggregate data that will allow content improvements. Cookies are not programs that come onto a visitor’s system and damage files. Generally, cookies work by assigning a unique number to the visitor that has no meaning outside the assigning site. If a visitor does not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the visitor to deny or accept the cookie feature. The American Red Cross uses "cookie" technology only to obtain non-personal information from its online visitors in order to improve visitors’ online experience and facilitate their visit within our site. 
+Visitors should be aware that non-personal information and data may be automatically collected by the American Red Crossâ€™ Website through the use of "cookies." "Cookies" are small text files a Website can use to recognize repeat visitors, facilitate the visitorâ€™s ongoing access to and use of the site, and allow a site to track usage behavior and compile aggregate data that will allow content improvements. Cookies are not programs that come onto a visitorâ€™s system and damage files. Generally, cookies work by assigning a unique number to the visitor that has no meaning outside the assigning site. If a visitor does not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the visitor to deny or accept the cookie feature. The American Red Cross uses "cookie" technology only to obtain non-personal information from its online visitors in order to improve visitorsâ€™ online experience and facilitate their visit within our site. 
 </p><p>
 <b>Note to Parents on Our Privacy Policy</b><br>
 
-The American Red Cross welcomes children to learn more about our organization and, where appropriate, find opportunities to serve their communities through American Red Cross training programs and volunteer activities. However, we encourage this to be done only with their parent's knowledge and supervision. For this reason, the American Red Cross follows the guidelines for interactive electronic media published by the Children’s Advertising Review Unit of the Better Business Bureau. Special notices urging children to get their parent's permission before providing any personal information have been incorporated into our site. 
+The American Red Cross welcomes children to learn more about our organization and, where appropriate, find opportunities to serve their communities through American Red Cross training programs and volunteer activities. However, we encourage this to be done only with their parent's knowledge and supervision. For this reason, the American Red Cross follows the guidelines for interactive electronic media published by the Childrenâ€™s Advertising Review Unit of the Better Business Bureau. Special notices urging children to get their parent's permission before providing any personal information have been incorporated into our site. 
 
 
 </p><p>
@@ -114,21 +307,25 @@ Revised September 14, 2001
 </p></td></tr>
 </tbody></table>
 
-<!--  e  n  d      c  o  n  t  e  n  t  -->
-</td></tr><tr> 
-    <td height="30" colspan="2" valign="bottom" bgcolor="#FFFFFF"> 
-      <table cellspacing="0" cellpadding="0" border="0" width="700">
-        <tbody><tr align="center" bgcolor="#003366"> 
-          <td width="700" height="20"><font color="#ffffff" size="-2" face="arial"><a href="copyright.html" style="color: white; text-decoration: none">© Copyright 2002 The American National Red Cross. All Rights Reserved.</a></font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="1" face="arial"><a href="contactus.html" style="color: white; text-decoration: none">CONTACT US</a></font> &nbsp;<font color="#FFFFFF">|</font>&nbsp;&nbsp;<font size="1" face="arial"><a href="sitedirectory.html" style="color: white; text-decoration: none">SITE DIRECTORY</a></font> &nbsp;<font color="#FFFFFF">|</font>&nbsp;&nbsp;<font size="1" face="arial"><a href="privacy.html" style="color: white; text-decoration: none">PRIVACY POLICY</a></font> </td>
-    </tr>
-</tbody></table>
-</td>
-    </tr>
-    </tbody></table>
-
-</td>
+<!-- END CUSTOM CONTENT -->
+</p><p>
+</p></td>
 </tr>
 </tbody></table>
+<!-- FOOTER -->
+</td></tr><tr> 
+	<td height="30" colspan="2" bgcolor="#FFFFFF" valign="bottom"> 
+	<table cellspacing="0" cellpadding="0" border="0">
+		<tbody><tr align="center" bgcolor="#003366"> 
+			<td width="700" height="20"><a href="/copyright" style="color: white; text-decoration: none;"><font size="-2" face="arial">© Copyright 2003 The American National Red Cross. All Rights Reserved.</font></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/contactus" style="color: white; text-decoration: none;"><font size="1" face="arial"><b>CONTACT US</b></font></a> &nbsp;<font color="#FFFFFF">|</font>&nbsp;&nbsp;<a href="/sitedirectory" style="color: white; text-decoration: none;"><font size="1" face="arial"><b>SITE DIRECTORY</b></font></a> &nbsp;<font color="#FFFFFF">|</font>&nbsp;&nbsp;<a href="/privacy" style="color: white; text-decoration: none;"><font size="1" face="arial"><b>PRIVACY POLICY</b></font></a></td>
+		</tr>
+	</tbody></table>   
+	</td>
+</tr>
+<!-- END FOOTER -->	
+</tbody></table>
+</td></tr>
+</tbody></table>
 
 
-</center></body></html>
+<!--    END    --></center></body></html>
