@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safe.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607182519id_/http%3A//www.safe.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safe.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204213119id_/http%3A//www.safe.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Safe Software Privacy Policy
 
@@ -21,4 +21,4 @@ Fax: +604-501-9965
 
 We do not use any external identifiers to uniquely identify our contacts. Safe Software allows anonymous interaction wherever it is practical and does not transfer personal information internationally. We do not collect any potentially sensitive information on any person.
 
-If you have a complaint regarding online privacy, please [contact us](https://web.archive.org/web/20020607182519id_/http%3A//www.safe.com/company/contactus.htm).
+If you have a complaint regarding online privacy, please [contact us](https://web.archive.org/web/20021204213119id_/http%3A//www.safe.com/company/contactus.htm).
