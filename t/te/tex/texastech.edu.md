@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the texastech.edu privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607011414id_/http%3A//www.texastech.edu/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texastech.edu privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204054714id_/http%3A//www.texastech.edu/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement-- Texas Tech University System, Lubbock, Texas
 
