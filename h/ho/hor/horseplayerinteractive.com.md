@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horseplayerinteractive.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210045232id_/http%3A//www.woodbineentertainment.com/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horseplayerinteractive.com privacy policy that was archived on 2003-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030623062856id_/http%3A//www.woodbineentertainment.com/corporate/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 This Privacy Policy was last updated on June 1, 2001. 
 
-The Woodbine Entertainment Group created this Privacy Policy in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices of the WOODBINE ENTERTAINMENT GROUP and the WOODBINE ENTERTAINMENT GROUP web sites at www.WoodbineEntertainment.com, www.675Bets.com and www.TRN.com/Canada (collectively, the "Site"). 
+The Woodbine Entertainment Group created this Privacy Policy in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices of the WOODBINE ENTERTAINMENT GROUP and the WOODBINE ENTERTAINMENT GROUP web sites at www.WoodbineEntertainment.com, www.675Bets.com, www.TRN.com/Canada and myweg.com (collectively, the "Site"). 
 
 **Application**  
 BY USING THIS SITE, YOU AGREE TO BE BOUND BY THIS PRIVACY POLICY. IF YOU DO NOT AGREE WITH ANY OF THE TERMS OF THIS PRIVACY POLICY, YOU MUST IMMEDIATELY DISCONTINUE YOUR USE OF THE SITE. 
