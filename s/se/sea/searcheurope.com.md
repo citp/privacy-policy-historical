@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searcheurope.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602034936id_/http%3A//searcheurope.com/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searcheurope.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217014148id_/http%3A//searcheurope.com/info/privacy.shtml) for the most accurate reproduction.*
 
 # Search Europe > Privacy Policy
 
@@ -33,12 +33,12 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  1. You can send email to [digest@searcheurope.com](mailto:digest@searcheurope.com)
+  1. You can send email to [info@searcheurope.com](mailto:info@searcheurope.com)
 
  **Correct/Update**  
 This site gives users the following options for changing and modifying information previously provided. 
 
-  1. email [digest@searcheurope.com](mailto:digest@searcheurope.com)
+  1. email [info@searcheurope.com](mailto:info@searcheurope.com)
 
  **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Antoine Zammit SearchEurope.com, Inc. 5756 Descartes Circle Boynton Beach,  FL 33437, USA antoine@searcheurope.com
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Antoine Zammit SearchEurope.com, Inc. 5756 Descartes Circle Boynton Beach,  FL 33437, USA info@searcheurope.com
