@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsite.co.uk privacy policy that was archived on 2003-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030912172308id_/http%3A//www.jobsite.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsite.co.uk privacy policy that was archived on 2004-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040614205937id_/http%3A//www.jobsite.co.uk/privacy) for the most accurate reproduction.*
 
 # Jobsite UK Privacy statement
 
@@ -22,13 +22,10 @@ Jobs by E Mail Service
 The Jobs by Email service matches a job seekers requirements for employment with the profile of vacancies advertised on any one of our Sites. For job seekers who subscribe to this service you receive an email listing those jobs that we believe you should be interested in. Your requirements are defined by you using "strings" which can be used to specify geographic region, specific job titles, skills or other definition of the job you want. You can change the strings at any time or unsubscribe at any time.  
 
 
-Application Forms and Psychometric Tests  
+Application Forms  
 
 
-When you apply for positions with some of our Clients, you will be requested to complete an application form and may be requested to take a psychometric test. The information submitted by you on the application form or any psychometric test paper will be used by our Client to assess your suitability for the position to which it applies. We are not responsible for framing the questions in our Client's application forms or psychometric test papers, and merely provide the electronic means to enable our Client to present the application form or psychometric test paper to you, and to collect the application form or psychometric test paper once it has been completed by you. We do not process any of the data in completed forms or papers other than psychometric test scores, which we present to our Clients in our applicants' database. We may, however, temporarily store your completed forms or papers.  
-
-
-Our psychometric specialist suppliers may administer tests on our behalf and on behalf of our Clients. If we use a specialist, we will ensure that only an anonymous identifier and your psychometric test paper is disclosed to the specialist so that the specialist will be unable to identify you. We will keep the database matching your details to the anonymous identifier confidential, and will not disclose it to any third parties.  
+When you apply for positions with some of our Clients, you will be requested to complete an application form. The information submitted by you on the application form will be used by our Client to assess your suitability for the position to which it applies. We are not responsible for framing the questions in our Client's application forms, and merely provide the electronic means to enable our Client to present the application form to you, and to collect the application form once it has been completed by you. We do not process any of the data in completed forms, which we present to our Clients in our applicants' database. We may, however, temporarily store your completed forms.  
 
 
 You expressly agree, acknowledge and accept that we provide this service as a mere conduit for the applications forms. Whilst we will use our best endeavours to ensure that the application form is suitable for its purpose using suitable protection methods, please note that we do not guarantee that our protection methods will ensure that the application form does not include:  
@@ -50,7 +47,7 @@ If you have any concerns over any application form, please contact us for advice
 General Privacy Statement
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is also used to help identify you and to gather broad demographic information.  
-Our site uses cookies to keep track of your searches in any single visit. These cookies expire half an hour after you leave the site, and do not allow anyone to access your confidential information. If you are using a shared computer, please ensure that you log out of MyJobsite or close down the browser before leaving the computer for the next user.  
+Our site uses persistent cookies to keep track of your navigation, searches and actions every time you visit the site. These cookies expire after two years, and do not allow anyone to access your confidential information. If you are using a shared computer, please ensure that you log out of MyJobsite or close down the browser before leaving the computer for the next user.  
 Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis only.  
 This site contains links to other sites. We are not responsible for the privacy practices or the content of such Web sites.  
 We may use your personal data to contact you from time to time and provide you with marketing information about us or our partners which we think may be of interest to you. Such information will either be sent by us or by our agents on our behalf and therefore, we may disclose your personal data to our agents for this purpose. If at any time you wish to stop the delivery of such information please e-mail us at [noinfo@jobsite.co.uk](mailto:noinfo@jobsite.co.uk)  
