@@ -1,48 +1,8 @@
-> *The following text is extracted and transformed from the isixsigma.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205041841id_/http%3A//www.isixsigma.com/uagree/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isixsigma.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606212915id_/http%3A//www.isixsigma.com/uagree/privacy.asp) for the most accurate reproduction.*
 
 # iSixSigma Privacy Policy
 
-|   **Free Newsletter     
-**  
----  
-  
- 
-
-  
-    
-  [Your Privacy Matters](http://www.isixsigma.com/uagree/privacy.asp)   
-  [Previously Subscribed?](http://www.isixsigma.com/newsletter/subscribe_process.asp)  
-  
-  [ **New To Six Sigma?**](http://www.isixsigma.com/library/content/six-sigma-newbie.asp)  
-  [ **Six Sigma Q &A**](http://www.isixsigma.com/library/content/c010204a.asp)  
-  [ **Cert. Practice Test**](http://www.isixsigma.com/exam/)  
-  **Industry Channels**    
-  [ **Healthcare**](http://healthcare.isixsigma.com/)  
-  [ **Software / IT**](http://software.isixsigma.com/)  
-  [ **Next Channel | Vote!**](javascript: openwindowlink\(\))  
-  **Quality Directory**    
-  [ **Best Practices**](http://www.isixsigma.com/bp/)  
-  [ **Certifications/Awards**](http://www.isixsigma.com/ca/)  
-  [ **Consultants**](http://www.isixsigma.com/co/)  
-  [ **Culture Evolution**](http://www.isixsigma.com/ce/)  
-  [ **Methodologies**](http://www.isixsigma.com/me/)  
-  [ **News & Events**](http://www.isixsigma.com/ne/)  
-  [ **Organizations**](http://www.isixsigma.com/or/)  
-  [ **Statistics & Analysis**](http://www.isixsigma.com/st/)  
-  [ **Tools & Templates**](http://www.isixsigma.com/tt/)  
-  [ **Voice of the Customer**](http://www.isixsigma.com/vc/)  
-  **Quick Access**    
-  [ **Help**](http://www.isixsigma.com/help/)  
-  [ **Search**](http://www.isixsigma.com/search/)  
-  [ **Advertise Here**](http://www.isixsigma.com/adsales/)  
-  [ **Article Archives**](http://www.isixsigma.com/spotlight/)  
-  [ **Newsletter Archives**](http://www.isixsigma.com/newsletter/archive/)  
-  **User Feedback**    
-  Please suggest site  
-  improvements.  
-   
-  [ [larger form](http://www.isixsigma.com/suggestion/default.asp) ]  
-|   
+|  |   
 
 
 |  |   
@@ -73,7 +33,7 @@ iSixSigma will not sell or rent your personally identifiable information to anyo
 
 
  **Cookies**  
-iSixSigma may set and access iSixSigma cookies on your computer. iSixSigma allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to iSixSigma's cookies. If you would like to learn more about cookies, please visit [Cookie Central](http://www.isixsigma.com/offsite.asp?A=Fr&Url=http://www.cookiecentral.com/content.phtml?area=2&id=1). If you would like to remove the iSixSigma cookies stored on your computer that identify your name and email address and make it easier for you to post to the discussion forum, [click here](https://web.archive.org/web/20031205041841id_/http%3A//www.isixsigma.com/newsletter/expire.asp).
+iSixSigma may set and access iSixSigma cookies on your computer. iSixSigma allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to iSixSigma's cookies. If you would like to learn more about cookies, please visit [Cookie Central](http://www.isixsigma.com/offsite.asp?A=Fr&Url=http://www.cookiecentral.com/content.phtml?area=2&id=1). If you would like to remove the iSixSigma cookies stored on your computer that identify your name and email address and make it easier for you to post to the discussion forum, [click here](https://web.archive.org/web/20040606212915id_/http%3A//www.isixsigma.com/newsletter/expire.asp).
 
  **Your Ability to Edit and Delete Your Account Information**  
 iSixSigma gives you the ability to edit your iSixSigma Account Information and preferences at any time. You may request deletion of your iSixSigma account by sending an email to [Account-Remove@iSixSigma.com](mailto:Account-Remove@iSixSigma.com).
@@ -88,5 +48,118 @@ iSixSigma may amend this policy from time to time. If we make any substantial ch
 If you have questions or suggestions complete a [feedback form](http://www.isixsigma.com/contactus/) or send an email to [PrivacyPolicy@iSixSigma.com](mailto:PrivacyPolicy@iSixSigma.com).
 
   
-[**"The Bottom Line" Links**](http://www.isixsigma.com/adsales/ad-opps.asp#bottomline)   
+[**"The Bottom Line" Links**](http://www.isixsigma.com/adsales/ad-opps.asp#bottomline)  
+---  
+  
+| **BMG**
+
+* * *
+
+ **WORLD CLASS  
+SIX SIGMA SOLUTIONS!**
+
+| Upcoming public courses:  
+BLACK BELT – Sept 7, Orlando    GREEN BELT – July 19, Seattle  
+EXEC OVERVIEW – June 24, Atlanta    MULTIPLE Advanced Classes  
+---|---  
+  
+| 
+
+Juran Institute, Inc.
+
+* * *
+
+Six Sigma Success  
+Starts Here
+
+| Juran Institute is pleased to sponsor the WCBF conference **"Successfully Implementing Six Sigma in Financial Services" on June 23-24 in New York City**. Knowledgeable speakers within the finance arena have been carefully selected to offer a balanced perspective of how Six Sigma is being deployed across the spectrum of financial organizations. For more information and to register, _click here_.  
+---|---  
+  
+| **SixNet Intelligence System**
+
+* * *
+
+ **from Six Sigma Qualtec**  
+| 
+
+Satisfied with your Performance Improvement Tracking Software?
+
+Complete our survey to enter a drawing for a **free digital camera.**  
+Financial Reporting, Project Tracking, Knowledge Management, On-Line Support.  
+  
+---|---  
+  
+| 
+
+Smarter Solutions, Inc.
+
+Design for Six Sigma Experts
+
+| 
+
+Leaders in Thinking for six sigma consulting, training and coaching.
+
+::: We wrote The Book - Implementing Six Sigma, 2nd ed ::: [Learn More>](http://www.isixsigma.com/ads/redirect.asp?id=1582&r=http://www.isixsigma.com/uagree/privacy.asp)  
+  
+---|---  
+  
+| 
+
+SBTI
+
+Sigma Breakthrough Technologies, Inc.
+
+| 
+
+e-Learning Yellow Belt: Six Sigma & Lean.  
+Public Green/Black Belt Courses.  
+ **Results.** By The Numbers. **Guaranteed.**  
+  
+---|---  
+  
+| 
+
+PIVOTAL RESOURCES
+
+The Experts in Six Sigma Strategy and Implementation
+
+|  | 
+
+Six Sigma Black Belt, Green Belt and Champion Courses  
+  
+---  
+  
+Classes in:  
+  
+San Francisco, Chicago, Dallas, New York and Miami  
+  
+| 
+
+Global Directions in Six Sigma
+
+| 
+
+Leaders in Six Sigma, Design for Six Sigma and LEAN Six Sigma Training
+
+SigmaPro maximizes client value in its certification programs through best in class public and on-site   
+training at affordable prices. Take advantage of these certification opportunities today. ****_Learn more_ ****  
+  
+---|---  
+  
+| 
+
+LAUNSBY CONSULTING
+
+* * *
+
+Practical,  
+Hands-on Training
+
+| **DFSS Black Belt Certification**  
+Get certified in only 2 weeks. Starts May 2004  
+ **Six Sigma Insight Software**  
+Software tools for DFSS and Six Sigma  
+---|---  
+  
+  
 |  [Free Website Content!](https://web.archive.org/syndicate/)
