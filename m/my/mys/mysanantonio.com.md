@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mysanantonio.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607064708id_/http%3A//www.mysanantonio.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysanantonio.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208172646id_/http%3A//www.mysanantonio.com/registration/privacy.html) for the most accurate reproduction.*
 
 # MySA.com: Help
 
-This Privacy Policy discloses the privacy practices for MSA.com, LLC , the website of The San Antonio Express-News, a publication of Hearst Newspapers Partnership, LP and Kens TV, a station of Belo Communications, Inc. (“Belo”). Hearst and Belo are collectively referred to as “Partners”. The Partners are committed to respecting your privacy rights when visiting any Belo or Hearst websites. To protect your Personal Information, the Partners have created the guidelines outlined below. Understanding that Internet technologies are rapidly evolving, any changes to this policy will be promptly posted on this page, with an updated "effective date" posted at the end of this policy. 
+This Privacy Policy discloses the privacy practices for MSA.com, LLC , the website of The San Antonio Express-News, a publication of Hearst Newspapers Partnership, LP and KENS-TV, a station of Belo Corp. (“Belo”). Hearst and Belo are collectively referred to as “Partners”. The Partners are committed to respecting your privacy rights when visiting any Belo or Hearst websites. To protect your Personal Information, the Partners have created the guidelines outlined below. Understanding that Internet technologies are rapidly evolving, any changes to this policy will be promptly posted on this page, with an updated "effective date" posted at the end of this policy.
 
-While visiting any Belo or Hearst web sites (collectively, the "Site"), we may ask you to register and/or provide information that personally identifies you ("Personal Information") for purposes of interacting with the Site. Such Personal Information may include, but is not limited to, your name, phone number, street address, and e-mail address. On any page that collects Personal Information, we will specifically describe what information is required in order to provide you with the product or service, enter you in the promotion you have requested, or respond to your inquiry or comment. 
+While visiting MySanAntonio.com (the "Site"), we may ask you to register and/or provide information that personally identifies you ("Personal Information") for purposes of interacting with the Site. Such Personal Information may include, but is not limited to, your name, phone number, street address, and e-mail address. On any page that collects Personal Information, we will specifically describe what information is required in order to provide you with the product or service, enter you in the promotion you have requested, or respond to your inquiry or comment. 
 
 A cookie is a small data text file that a web site sends to your browser, which is stored on your system. The Site can only access the information from a cookie sent by the Site. We cannot access cookies sent by other web sites or the information contained therein. Additionally, we cannot learn your e-mail address or any other information about you through the use of a cookie. The only way we would learn such information is if you specifically and voluntarily submit that information to us, for example, through a registration system, or by entering a sweepstakes or promotion. 
 
@@ -67,7 +67,7 @@ You may access all of the Personal Information that we collect from you online a
 
 You may also at any time choose to change or delete your profile from our database using this procedure. You should know that if you choose to delete your profile, certain areas of our Site may no longer be accessible to you. 
 
-  1. Enter (or click) [http://signin.mysanantonio.com](http://signin.mysanantonio.com/) in your browser.  
+  1. Enter (or click) <http://www.mysanantonio.com/sharedcontent/registration/membercenter.jsp> in your browser.  
 
   2. Sign in by entering your e-mail address and password. Your account information will then be displayed.  
 
