@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hyperwallet.com privacy policy that was archived on 2000-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001214220400id_/http%3A//www.hyperwallet.com/security_intro.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyperwallet.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331014329id_/http%3A//www.hyperwallet.com/security_intro.jsp) for the most accurate reproduction.*
 
-# Security at HyperWallet.com
+# Security at HyperWallet
 
-HyperWallet is Private and Secure
+Your HyperWallet is Private and Secure
 
 Privacy
 
