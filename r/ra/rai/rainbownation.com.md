@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rainbownation.com privacy policy that was archived on 2003-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031003003620id_/http%3A//www.rainbownation.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainbownation.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610114419id_/http%3A//rainbownation.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy on the South Africans Global Community
 
@@ -54,10 +54,10 @@ Our site provides users the opportunity to opt-out of receiving promotional/ mar
   
 This site gives users the following options for changing and modifying information previously provided:
 
-See the [contacts section](https://web.archive.org/web/20031003003620id_/http%3A//www.rainbownation.com/contacts/contact.asp) to send us your information   
+See the [contacts section](https://web.archive.org/web/20040610114419id_/http%3A//rainbownation.com/contacts/contact.asp) to send us your information   
   
 Contacting the web site   
   
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
-See the [contacts section](https://web.archive.org/web/20031003003620id_/http%3A//www.rainbownation.com/contacts/contact.asp) to send us your information 
+See the [contacts section](https://web.archive.org/web/20040610114419id_/http%3A//rainbownation.com/contacts/contact.asp) to send us your information 
