@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the goats.com privacy policy that was archived on 2003-10-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031008190948id_/http%3A//www.goats.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the goats.com privacy policy that was archived on 2004-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040602190257id_/http%3A//www1.goats.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <title>goats: the privacy policy</title>
@@ -7,109 +7,68 @@
 <meta name="description" content="The privacy policy for Goats: The Comic Strip, chronicling the adventures of two hapless antisocialites, their amorous pet goat, an evil yet clueless chicken, and an assorted cast of eggplants, sadistic bartenders, manic aliens, and Frank Coffee.">
 <meta name="keywords" content="goats, goat, comic, strip, comic strip, goats comic strip, online, online comic, online comics, web, web comic, web comics, jon, phillip, toothgnip, diablo, lori, beer, pub, bar, couch, television, sarcasm, frank coffee, lynda, orange drink, nihilism, sex, drinking, alcohol, dating, strange, hops, malt, yeast, homebrew, dilbert, bloom county, fish, biff, humor, funny,privacy policy">
 <meta name="distribution" content="global">
-<meta name="copyright" content="all contents ©1997-2003 Goats LLC. all rights reserved. unauthorized copying or distribution of anything on this site is prohibited.">
+<meta name="copyright" content="all contents ©1997-2004 Goats LLC. all rights reserved. unauthorized copying or distribution of anything on this site is prohibited.">
 <link rel="SHORTCUT ICON" href="/favicon.ico">
 <meta name="revisit-after" content="2 days">
 <script language="JavaScript" type="text/javascript">
-if (document.images) {
 
-	nav_archive_on = new Image();           // Active images
-	nav_archive_on.src = "/images/nav_archive_on.gif";  
-	nav_store_on = new Image();        
-	nav_store_on.src = "/images/nav_store_on.gif";  
-	nav_news_on = new Image();        
-	nav_news_on.src = "/images/nav_news_on.gif";  
-	nav_bios_on = new Image();        
-	nav_bios_on.src = "/images/nav_bios_on.gif";  
-	nav_forums_on = new Image();        
-	nav_forums_on.src = "/images/nav_forums_on.gif";  
-	nav_features_on = new Image();        
-	nav_features_on.src = "/images/nav_features_on.gif";  
-	nav_pub_on = new Image();        
-	nav_pub_on.src = "/images/nav_pub_on.gif"; 
-	nav_premium_on = new Image();        
-	nav_premium_on.src = "/images/nav_premium_on.gif";   
-	nav_exit_on = new Image();        
-	nav_exit_on.src = "/images/nav_exit_on.gif";  
-	nav_prev_on = new Image();        
-	nav_prev_on.src = "/images/nav_prev_on.gif";  
-	nav_next_on = new Image();        
-	nav_next_on.src = "/images/nav_next_on.gif"; 
-	
-	nav_archive_off = new Image();           // Inactive images
-	nav_archive_off.src = "/images/nav_archive_off.gif";  
-	nav_store_off = new Image();        
-	nav_store_off.src = "/images/nav_store_off.gif";  
-	nav_news_off = new Image();        
-	nav_news_off.src = "/images/nav_news_off.gif";  
-	nav_bios_off = new Image();        
-	nav_bios_off.src = "/images/nav_bios_off.gif";  
-	nav_forums_off = new Image();        
-	nav_forums_off.src = "/images/nav_forums_off.gif";  
-	nav_features_off = new Image();        
-	nav_features_off.src = "/images/nav_features_off.gif";  
-	nav_pub_off = new Image();        
-	nav_pub_off.src = "/images/nav_pub_off.gif";  
-	nav_premium_off = new Image();        
-	nav_premium_off.src = "/images/nav_premium_off.gif";  
-	nav_exit_off = new Image();        
-	nav_exit_off.src = "/images/nav_exit_off.gif"; 
-	nav_prev_off = new Image();        
-	nav_prev_off.src = "/images/nav_prev_off.gif"; 
-	nav_next_off = new Image();        
-	nav_next_off.src = "/images/nav_next_off.gif"; 
-	
-	
+
+function setSection() {
+
+if (("none" == "archive") || ("none" == "lastfive")) {
+		menuitemOn("archive");
+	}
+	if ("none" == "store") {	
+		menuitemOn("store");
+	}
+	if ("none" == "news") {	
+		menuitemOn("news");
+	}
+	if ("none" == "bios") {	
+		menuitemOn("bios");
+	}
+	if ("none" == "forums") {	
+		menuitemOn("forums");
+	}
+	if ("none" == "features") {	
+		menuitemOn("features");
+	}
+	if ("none" == "premium") {	
+		menuitemOn("premium");
+	}
+
 }
-
-
 
 var pageIsLoaded = false;
 function checkLoad() {
 	pageIsLoaded = true;
+        setSection();
 }
 
-function navimgOn(imgName,elementName) {
-	if (!elementName) { elementName = imgName; } 
-	//alert(elementName);
-	if (document.images) {
-		document[elementName].src = eval(imgName + "_on.src");
-	}
-}
 
-function navimgOff(imgName,elementName) {
-	if (!elementName) { elementName = imgName; } 
-
-	if (document.images) {
-		document[elementName].src = eval(imgName + "_off.src");
-	}
-}
 
 function vanish() {
 	
 	if (("none" != "archive") && ("none" != "lastfive")) {
-		navimgOff("nav_archive");
+		menuitemOff("archive");
 	}
 	if ("none" != "store") {	
-		navimgOff("nav_store");
+		menuitemOff("store");
 	}
 	if ("none" != "news") {	
-		navimgOff("nav_news");
+		menuitemOff("news");
 	}
 	if ("none" != "bios") {	
-		navimgOff("nav_bios");
+		menuitemOff("bios");
 	}
 	if ("none" != "forums") {	
-		navimgOff("nav_forums");
+		menuitemOff("forums");
 	}
 	if ("none" != "features") {	
-		navimgOff("nav_features");
-	}
-	if ("none" != "pub") {	
-		navimgOff("nav_pub");
+		menuitemOff("features");
 	}
 	if ("none" != "premium") {	
-		navimgOff("nav_premium");
+		menuitemOff("premium");
 	}
 	vanishDivs();
 
@@ -125,9 +84,9 @@ function vanishDivs() {
 		document.getElementById('subnavBios').style.visibility='hidden';
 		document.getElementById('subnavForums').style.visibility='hidden';
 		document.getElementById('subnavFeatures').style.visibility='hidden';
-		document.getElementById('subnavPub').style.visibility='hidden';
+
 		document.getElementById('subnavPremium').style.visibility='hidden';
-		//subnavExit.style.visibility='hidden';
+
 	}
 }
 
@@ -135,24 +94,25 @@ function vanishDivs() {
 
 var timerID;
 var section;
-var prefix = "nav_";
-var currentSection = (prefix + "none");
+var currentSection = ("none");
 
 function menuOn(mysection) {
 	if (pageIsLoaded == true) {
 		if (!document.layers) {
 			var mysection2 = mysection.toLowerCase();
-			mysection2 = ("nav_" + mysection2.substring(6));
+			mysection2 = (mysection2.substring(6));
+                        //alert(mysection2);
 			stopHidesub();
+
 			if (document.getElementById(mysection)) {
 				vanish();
 			}
-			navimgOn(mysection2);
+			menuitemOn(mysection2);
 			document.getElementById(mysection).style.visibility='visible';
 		} else {
 			var mysection2 = mysection.toLowerCase();
-			mysection2 = ("nav_" + mysection2.substring(6));
-			navimgOn(mysection2);
+			mysection2 = (mysection2.substring(6));
+			menuitemOn(mysection2);
 			
 		}
 	} else{
@@ -160,7 +120,20 @@ function menuOn(mysection) {
 	}
 }
 
+function menuitemOn(selectedItem) {
+       // alert(selectedItem);
+	//document.getElementById(selectedItem).className = 'menuOn';
+        document.getElementById(selectedItem).style.backgroundColor = 'ffcc66';
+	document.getElementById(selectedItem).style.color = '666666';
+ 
+}
 
+
+function menuitemOff(selectedItem) {
+	//document.getElementById(selectedItem).className = 'menuOff';
+        document.getElementById(selectedItem).style.backgroundColor = 'ff9900';
+	document.getElementById(selectedItem).style.color = 'FFFFFF';
+}
 
 function hidesub(secname) {
 	section = secname;
@@ -171,10 +144,10 @@ function vamoose() {
 	//alert(section);
 	//alert(currentSection);
 	if (section == currentSection) {
-		navimgOn(section);
+		menuitemOn(section);
 	}
 	else {
-		navimgOff(section);
+		menuitemOff(section);
 	}
 	
 }
@@ -183,149 +156,127 @@ function stopHidesub() {
 	clearTimeout(timerID);
 }
 
-function secondlevelOn(selectedItem) {
-	document.getElementById(selectedItem).style.backgroundColor = 'cccccc';
-	document.getElementById(selectedItem).style.color = '000000';
-}
 
-
-function secondlevelOff(selectedItem) {
-	document.getElementById(selectedItem).style.backgroundColor = '666666';
-	document.getElementById(selectedItem).style.color = 'ffffff';
-}
 </script>
 
-
-<script language="JavaScript" type="text/javascript">
-	if (document.layers) {
-document.write('\<LINK REL=\"stylesheet\" TYPE=\"text/css\" HREF=\"/ns4styles.css\">');
-} else {
-document.write('\<LINK REL=\"stylesheet\" TYPE=\"text/css\" HREF=\"/styles.css\">');
-}
-</script><link rel="stylesheet" type="text/css" href="/styles.css">
-<noscript>
-<LINK REL="stylesheet" TYPE="text/css" HREF="/styles.css">
-</noscript>
+<link rel="stylesheet" type="text/css" href="/styles2.css">
 
 <script type="text/javascript" src="/scripts/nicetitle.js"></script>
 </head>
-<body bgcolor="#000000" text="#000000" link="#ff6666" vlink="#ff6666" alink="#666666" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<div class="subnavArchive" onmouseover="stopHidesub();navimgOn('nav_archive')" onmouseout="hidesub('nav_archive');" id="subnavArchive">
-	<table border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-			<td><img src="/images/corner_subnav.gif" width="19" height="20" alt="" border="0"></td>
-			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_1_1');" onmouseout="secondlevelOff('subnav_1_1');" onclick="location='/archive/lastfive.html';" id="subnav_1_1">&nbsp;&nbsp;lastfive&nbsp;&nbsp;</div></td>
-			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_1_2');" onmouseout="secondlevelOff('subnav_1_2');" onclick="location='/archive/';" id="subnav_1_2">&nbsp;&nbsp;yesterday's&nbsp;strip&nbsp;&nbsp;</div></td>
-			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_1_3');" onmouseout="secondlevelOff('subnav_1_3');" onclick="location='/archive/970401.html';" id="subnav_1_3">&nbsp;&nbsp;first&nbsp;strip&nbsp;&nbsp;</div></td>
-			<td><img src="/images/corner_subnav_r.gif" width="19" height="20" alt="" border="0"></td>
-		</tr>
-</tbody></table>
+<body>
+
+
+<div class="subnav" onmouseover="stopHidesub();menuitemOn('archive');" onmouseout="hidesub('archive');" id="subnavArchive">
+<ul>
+<li><a href="/archive/lastfive.html" onmouseover="menuOn('subnavArchive');">lastfive</a></li>
+<li><a href="/archive/" onmouseover="menuOn('subnavArchive');">yesterday's strip</a></li>
+<li><a href="/archive/970401.html" onmouseover="menuOn('subnavArchive');">first strip</a></li>
+</ul></div>
+
+<div class="subnav" onmouseover="stopHidesub();menuitemOn('store');" onmouseout="hidesub('store');" id="subnavStore">
+<ul>
+<li><a href="/store/tshirts.html" onmouseover="menuOn('subnavStore');">t-shirts</a></li>
+<li><a href="/store/babydoll.html" onmouseover="menuOn('subnavStore');">babydoll tees</a></li>
+<li><a href="/store/hoodies.html" onmouseover="menuOn('subnavStore');">hoodies</a></li>
+<li><a href="/store/paperback.html" onmouseover="menuOn('subnavStore');">books</a></li>
+<li><a href="/store/minicomic.html" onmouseover="menuOn('subnavStore');">minicomics</a></li>
+<li><a href="/store/stickers.html" onmouseover="menuOn('subnavStore');">stickers</a></li>
+<li><a href="http://www.cafeshops.com/goats_all" onmouseover="menuOn('subnavStore');">merch warehouse</a></li>
+</ul>
 </div>
 
-<div class="subnavStore" onmouseover="stopHidesub();navimgOn('nav_store')" onmouseout="hidesub('nav_store');" id="subnavStore">
-	<table border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-			<td><img src="/images/corner_subnav.gif" width="19" height="20" alt="" border="0"></td>
-			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_2_1');" onmouseout="secondlevelOff('subnav_2_1');" onclick="location='http://www.cafeshops.com/cp/store.aspx?s=goats_all.5514';" id="subnav_2_1">&nbsp;&nbsp;paperback&nbsp;books&nbsp;&nbsp;</div></td>
-			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_2_2');" onmouseout="secondlevelOff('subnav_2_2');" onclick="location='/store/book.html';" id="subnav_2_2">&nbsp;&nbsp;hardcover&nbsp;books&nbsp;&nbsp;</div></td>
-			<td class="subnav" nowrap=""><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_2_3');" onmouseout="secondlevelOff('subnav_2_3');" onclick="location='/store/tshirts.html';" id="subnav_2_3">&nbsp;&nbsp;super-advance&nbsp;t-shirts&nbsp;&nbsp;</div></td>
-			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_2_4');" onmouseout="secondlevelOff('subnav_2_4');" onclick="location='http://www.cafeshops.com/goats_all';" id="subnav_2_4">&nbsp;&nbsp;merchandise&nbsp;warehouse&nbsp;&nbsp;</div></td>
-			<td><img src="/images/corner_subnav_r.gif" width="19" height="20" alt="" border="0"></td>
-		</tr>
-	</tbody></table>
+<div class="subnav" id="subnavNews"></div>
+
+
+<div class="subnav" onmouseover="stopHidesub();menuitemOn('bios');" onmouseout="hidesub('bios');" id="subnavBios">
+<ul>
+<li><a href="/bios/" onmouseover="menuOn('subnavBios');">the regulars</a></li>
+<li><a href="/bios/others.html" onmouseover="menuOn('subnavBios');">the irregulars</a></li>
+<li><a href="/bios/pub.html" onmouseover="menuOn('subnavBios');">pub denizens</a></li>
+<li><a href="/bios/villains.html" onmouseover="menuOn('subnavBios');">the villains</a></li>
+</ul>
 </div>
 
-<div class="subnavNews" onmouseover="stopHidesub();navimgOn('nav_news')" onmouseout="hidesub('nav_news');" id="subnavNews">
-	
+
+<div class="subnav" onmouseover="stopHidesub();" onmouseout="hidesub('forums');" id="subnavForums">
+<ul>
+<li><a href="/forums/news/" onmouseover="menuOn('subnavForums');">news</a></li>
+<li><a href="/forums/pub/" onmouseover="menuOn('subnavForums');">the pub</a></li>
+<li><a href="/forums/flame/" onmouseover="menuOn('subnavForums');">ring of fire</a></li>
+<li><a href="/forums/webcomics/" onmouseover="menuOn('subnavForums');">self-promotion</a></li>
+<li><a href="/forums/pp/" onmouseover="menuOn('subnavForums');">patent pending</a></li>
+<li><a href="/forums/members/" onmouseover="menuOn('subnavForums');">members only</a></li>
+</ul>
 </div>
 
-<div class="subnavBios" onmouseover="stopHidesub();navimgOn('nav_bios')" onmouseout="hidesub('nav_bios');" id="subnavBios">
-	<table border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-			<td><img src="/images/corner_subnav.gif" width="19" height="20" alt="" border="0"></td>
-			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_4_1');" onmouseout="secondlevelOff('subnav_4_1');" onclick="location='/bios/';" id="subnav_4_1">&nbsp;&nbsp;the&nbsp;regulars&nbsp;&nbsp;</div></td>
-			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_4_2');" onmouseout="secondlevelOff('subnav_4_2');" onclick="location='/bios/others.html';" id="subnav_4_2">&nbsp;&nbsp;the&nbsp;irregulars&nbsp;&nbsp;</div></td>
-			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_4_3');" onmouseout="secondlevelOff('subnav_4_3');" onclick="location='/bios/pub.html';" id="subnav_4_3">&nbsp;&nbsp;pub&nbsp;denizens&nbsp;&nbsp;</div></td>
-			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_4_4');" onmouseout="secondlevelOff('subnav_4_4');" onclick="location='/bios/villains.html';" id="subnav_4_4">&nbsp;&nbsp;the&nbsp;villains&nbsp;&nbsp;</div></td>
-			<td><img src="/images/corner_subnav_r.gif" width="19" height="20" alt="" border="0"></td>
-		</tr>
-	</tbody></table>
+
+<div class="subnav" onmouseover="stopHidesub();" onmouseout="hidesub('features');" id="subnavFeatures">
+<ul>
+<li><a href="/pub/" onmouseover="menuOn('subnavFeatures');">the pub</a></li>
+<li><a href="/features/index.html#fanstuff" onmouseover="menuOn('subnavFeatures');">fan stuff</a></li>
+<li><a href="/features/" onmouseover="menuOn('subnavFeatures');">official stuff</a></li>
+</ul>
 </div>
 
-<div class="subnavForums" onmouseover="stopHidesub();navimgOn('nav_forums')" onmouseout="hidesub('nav_forums');" id="subnavForums">
-	<table border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-			<td><img src="/images/corner_subnav.gif" width="19" height="20" alt="" border="0"></td>
-			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_5_1');" onmouseout="secondlevelOff('subnav_5_1');" onclick="location='/forums/news/';" id="subnav_5_1">&nbsp;&nbsp;goats&nbsp;news&nbsp;&nbsp;</div></td>
-			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_5_2');" onmouseout="secondlevelOff('subnav_5_2');" onclick="location='/forums/pub/';" id="subnav_5_2">&nbsp;&nbsp;the&nbsp;pub&nbsp;&nbsp;</div></td>
-			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_5_3');" onmouseout="secondlevelOff('subnav_5_3');" onclick="location='/forums/flame/';" id="subnav_5_3">&nbsp;&nbsp;ring&nbsp;of&nbsp;fire&nbsp;&nbsp;</div></td>
-			<td class="subnav" nowrap=""><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_5_4');" onmouseout="secondlevelOff('subnav_5_4');" onclick="location='/forums/webcomics/';" id="subnav_5_4">&nbsp;&nbsp;blatant&nbsp;self-promotion&nbsp;&nbsp;</div></td>
-			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_5_5');" onmouseout="secondlevelOff('subnav_5_5');" onclick="location='/forums/pp/';" id="subnav_5_5">&nbsp;&nbsp;patent&nbsp;pending&nbsp;&nbsp;</div></td>
-			<td><img src="/images/corner_subnav_r.gif" width="19" height="20" alt="" border="0"></td>
-		</tr>
-	</tbody></table>
-</div>
 
-<div class="subnavFeatures" onmouseover="stopHidesub();navimgOn('nav_features')" onmouseout="hidesub('nav_features');" id="subnavFeatures">
-	<table border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-			<td><img src="/images/corner_subnav.gif" width="19" height="20" alt="" border="0"></td>
-			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_6_1');" onmouseout="secondlevelOff('subnav_6_1');" onclick="location='/features/index.html#fanstuff';" id="subnav_6_1">&nbsp;&nbsp;fan&nbsp;stuff&nbsp;&nbsp;</div></td>
-			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_6_2');" onmouseout="secondlevelOff('subnav_6_2');" onclick="location='/features/index.html';" id="subnav_6_2">&nbsp;&nbsp;official&nbsp;stuff&nbsp;&nbsp;</div></td>
-			<td><img src="/images/corner_subnav_r.gif" width="19" height="20" alt="" border="0"></td>
-		</tr>
-	</tbody></table>
-</div>
-
-<div class="subnavPub" onmouseover="stopHidesub();navimgOn('nav_pub')" onmouseout="hidesub('nav_pub');" id="subnavPub">
-	<table border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-			<td><img src="/images/corner_subnav.gif" width="19" height="20" alt="" border="0"></td>
-			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_7_1');" onmouseout="secondlevelOff('subnav_7_1');" onclick="location='/pub/';" id="subnav_7_1">&nbsp;&nbsp;the&nbsp;peculier&nbsp;pub&nbsp;&nbsp;</div></td>
-			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_7_2');" onmouseout="secondlevelOff('subnav_7_2');" onclick="location='/pub/list.html';" id="subnav_7_2">&nbsp;&nbsp;pub&nbsp;tips&nbsp;&nbsp;</div></td>
-			<td><img src="/images/corner_subnav_r.gif" width="19" height="20" alt="" border="0"></td>
-		</tr>
-	</tbody></table>
-</div>
-
-<div class="subnavPremium" onmouseover="stopHidesub();navimgOn('nav_premium')" onmouseout="hidesub('nav_premium');" id="subnavPremium">
-	<table border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-			<td><img src="/images/corner_subnav.gif" width="19" height="20" alt="" border="0"></td>
-			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_8_1');" onmouseout="secondlevelOff('subnav_8_1');" onclick="location='/premium/sunday/';" id="subnav_8_1">&nbsp;&nbsp;sunday&nbsp;strips&nbsp;&nbsp;</div></td>
-			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_8_2');" onmouseout="secondlevelOff('subnav_8_2');" onclick="location='/forums/members/';" id="subnav_8_2">&nbsp;&nbsp;members&nbsp;only&nbsp;forum&nbsp;&nbsp;</div></td>
-			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_8_3');" onmouseout="secondlevelOff('subnav_8_3');" onclick="location='/premium/animals/';" id="subnav_8_3">&nbsp;&nbsp;ask&nbsp;the&nbsp;animals&nbsp;&nbsp;</div></td>
-			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_8_5');" onmouseout="secondlevelOff('subnav_8_5');" onclick="location='/premium/pp/';" id="subnav_8_5">&nbsp;&nbsp;patent&nbsp;pending&nbsp;&nbsp;</div></td>
-			<td class="subnav"><div class="subnavSecondLevel" onmouseover="secondlevelOn('subnav_8_4');" onmouseout="secondlevelOff('subnav_8_4');" onclick="location='/premium/store/';" id="subnav_8_4">&nbsp;&nbsp;discount&nbsp;stuff&nbsp;&nbsp;</div></td>
-			<td><img src="/images/corner_subnav_r.gif" width="19" height="20" alt="" border="0"></td>
-		</tr>
-	</tbody></table>
+<div class="subnav" onmouseover="stopHidesub();" onmouseout="hidesub('premium');" id="subnavPremium">
+<ul>
+<li><a href="/premium/sunday/" onmouseover="menuOn('subnavPremium');">sunday strips</a></li>
+<li><a href="/forums/members/" onmouseover="menuOn('subnavPremium');">forum</a></li>
+<li><a href="/premium/animals/" onmouseover="menuOn('subnavPremium');">ask the animals</a></li>
+<li><a href="/premium/pp/" onmouseover="menuOn('subnavPremium');">patent pending</a></li>
+<li><a href="/store/" onmouseover="menuOn('subnavPremium');">discount stuff</a></li>
+</ul>
 </div>
 
 
 
 
-<div onmouseover="vanishDivs();"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-	<td width="10"><img src="/images/spacer.gif" alt="" width="10" height="1" border="0" hspace="0" vspace="0"></td>
-	<td width="178"><a href="/" target="_top"><img src="/images/newlogo.gif" width="178" height="60" alt="goats: the comic strip" border="0" hspace="0" vspace="0"></a></td>
-	
-	<td width="100%"><img src="/images/illus_cheese.gif" width="90" height="70" alt="Cheese of Evil" border="0" hspace="0" vspace="0"></td>
-	<td width="468" align="right">&nbsp;</td>
-	<td width="5"><img src="/images/spacer.gif" alt="" width="5" height="1" border="0" hspace="0" vspace="0"></td>
-</tr>
-</tbody></table></div>
 
 
+
+
+<div id="menubanner" onmouseover="this.style.top='0px';" onmouseout="this.style.top='-250px';">
+<div id="menulinks">
+<div class="menulinkshead">Dumbrella Comics</div>
+<ul>
+<li><a href="http://www.wigu.com/">Wigu</a></li>
+<li><a href="http://www.scarygoround.com/">Scary-Go-Round</a></li>
+<li><a href="http://www.dieselsweeties.com/">Diesel Sweeties</a></li>
+<li><a href="http://www.creaturesinmyhead.com/">Creatures In My Head</a></li>
+<li><a href="http://www.explodingdog.com/">Exploding Dog</a></li>
+<li><a href="http://www.boasas.com/">BOASAS</a></li>
+</ul>
+<div class="menulinkshead">Other Good Comics</div>
+<ul>
+<li><a href="http://www.achewood.com/">Achewood</a></li>
+<li><a href="http://www.penny-arcade.com/">Penny Arcade</a></li>
+<li><a href="http://www.brunostrip.com/bruno.html">Bruno</a></li>
+<li><a href="http://www.somethingpositive.net/">Something Positive</a></li>
+<li><a href="http://www.partiallyclips.com/">Partially Clips</a></li>
+<li><a href="http://www.catandgirl.com/">Cat And Girl</a></li>
+<li><a href="http://www.superosity.com/">Superosity</a></li>
+</ul>
+</div>
+<img src="/images/menu_banner.gif" alt="" width="269" height="30" hspace="0" vspace="0" border="0">
+</div>
 <!-- top navigation/comic date -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr bgcolor="#333333">
-		<td width="15"><span onmouseover="vanish();"><img src="/images/spacer.gif" alt="" width="15" height="39" border="0" hspace="0" vspace="0"></span></td>
-		<td width="100%" nowrap=""><a href="/archive/" onmouseover="menuOn('subnavArchive');" onmouseout="navimgOff('nav_archive');"><img src="/images/nav_archive_off.gif" width="72" height="39" alt="archive" name="nav_archive" border="0"></a><a href="/store/" onmouseover="menuOn('subnavStore');" onmouseout="navimgOff('nav_store');"><img src="/images/nav_store_off.gif" width="59" height="39" alt="store" name="nav_store" border="0"></a><a href="/news/" onmouseover="menuOn('subnavNews');" onmouseout="navimgOff('nav_news');"><img src="/images/nav_news_off.gif" width="56" height="39" alt="news" name="nav_news" border="0"></a><a href="/forums/" onmouseover="menuOn('subnavForums');" onmouseout="navimgOff('nav_forums');"><img src="/images/nav_forums_off.gif" width="71" height="39" alt="forums" name="nav_forums" border="0"></a><a href="/bios/" onmouseover="menuOn('subnavBios');" onmouseout="navimgOff('nav_bios');"><img src="/images/nav_bios_off.gif" width="45" height="39" alt="bios" name="nav_bios" border="0"></a><a href="/features/" onmouseover="menuOn('subnavFeatures');" onmouseout="navimgOff('nav_features');"><img src="/images/nav_features_off.gif" width="81" height="39" alt="features" name="nav_features" border="0"></a><a href="/pub/" onmouseover="menuOn('subnavPub');" onmouseout="navimgOff('nav_pub');"><img src="/images/nav_pub_off.gif" width="41" height="39" alt="pub" name="nav_pub" border="0"></a><a href="/premium/" onmouseover="menuOn('subnavPremium');" onmouseout="navimgOff('nav_premium');"><img src="/images/nav_premium_off.gif" width="86" height="39" alt="premium" name="nav_premium" border="0"></a><span onmouseover="vanish();"><img src="/images/spacer.gif" width="10" height="39" alt="" border="0"></span></td>
-		<td valign="bottom">
+	<tbody><tr class="header">
+		<td width="114"><a href="/" onmouseover="vanish();"><img src="/images/logo04.gif" width="114" height="53" alt="" border="0"></a></td>
+		<td width="100%"><div id="menu"><ul>
+<li><a href="/archive/" onmouseover="menuOn('subnavArchive');" onmouseout="vanish();" id="archive">archive</a></li>
+<li><a href="/store/" onmouseover="menuOn('subnavStore');" onmouseout="vanish();" id="store">store</a></li>
+<li><a href="/forums/news/" onmouseover="menuOn('subnavNews');" onmouseout="vanish();" id="news">news</a></li>
+<li><a href="/forums/" onmouseover="menuOn('subnavForums');" onmouseout="vanish();" id="forums">forums</a></li>
+<li><a href="/bios/" onmouseover="menuOn('subnavBios');" onmouseout="vanish();" id="bios">bios</a></li>
+<li><a href="/features/" onmouseover="menuOn('subnavFeatures');" onmouseout="vanish();" id="features">features</a></li>
+<li><a href="/premium/" onmouseover="menuOn('subnavPremium');" onmouseout="vanish();" id="premium">premium</a></li>
+</ul></div></td>
+		<td valign="bottom"><img src="/images/spacer.gif" width="138" height="12" alt="advertise on goats" border="0" vspace="5">
 			<table border="0" cellspacing="0" cellpadding="0">
 				<tbody><tr bgcolor="#FFFFFF">
-					<td width="14"><img src="/images/corner_date.gif" width="14" height="14" alt="" border="0"></td>
+					<td width="14" class="header"><img src="/images/corner_date.gif" width="14" height="14" alt="" border="0"></td>
 					<td nowrap="" class="date" style="width:131px;">the privacy policy
 <script language="JavaScript" type="text/javascript">
 if (document.layers) {
@@ -392,19 +343,17 @@ If you feel that we're not following the above policies, have other general comm
 	<tbody><tr><td align="center"><img src="/images/spacer.gif" alt="" width="1" height="10" border="0" hspace="0" vspace="0"></td></tr>
 	<tr>
 		<td align="center" class="support">
-			<a href="/" target="_top" class="support">home</a> | <a href="/archive/" target="_top" class="support">archive</a> | <a href="/store/" target="_top" class="support">store</a> | <a href="/news/" target="_top" class="support">news</a> | <a href="/forums/" target="_top" class="support">forums</a> | <a href="/bios/" target="_top" class="support">bios</a> |  <a href="/features/" target="_top" class="support">features</a> | <a href="/pub/" target="_top" class="support">pub</a> | <a href="/premium/" target="_top" class="support">premium</a><br>
-			<table cellpadding="10" cellspacing="0" border="0">
+			<a href="/" target="_top" class="support">home</a> | <a href="/archive/" target="_top" class="support">archive</a> | <a href="/store/" target="_top" class="support">store</a> | <a href="/forums/news/" target="_top" class="support">news</a> | <a href="/forums/" target="_top" class="support">forums</a> | <a href="/bios/" target="_top" class="support">bios</a> |  <a href="/features/" target="_top" class="support">features</a> | <a href="/premium/" target="_top" class="support">premium</a><br>
+			<form method="get" action="/search/" style="padding:0;border:0;margin:0;"><table cellpadding="10" cellspacing="0" border="0">
 	<tbody><tr>
-		<td><form method="get" action="/search/"></form></td>
 		<td><span class="searchformdark">search for: <input type="text" name="q" value="" maxlength="128" class="dark"> in the: <select name="search" class="dark">
 		<option value="comics">Comics</option>
 		<option value="forums">Forums</option>
 		<option value="news">News</option>
 </select>&nbsp;<input type="submit" class="darkbutton" value="search">
 	</span></td>
-		<td></td>
 	</tr>
-</tbody></table><br>
+</tbody></table></form><br>
 			<span class="copyright">all contents ©1997-2003 Goats LLC. all rights reserved. Goats is a service mark of Goats, LLC<br>
 			IRC: irc.goats.com #goats<br>
 			contact: <a href="/contact/index.html?realm=11">jon</a> <a href="/contact/index.html?realm=12">phillip</a> <a href="/contact/index.html?realm=14">general inquiries and hoo-hah</a><br>
