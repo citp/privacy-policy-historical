@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the delphiforums.com privacy policy that was archived on 2003-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031003172151id_/http%3A//www.delphiforums.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delphiforums.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630083050id_/http%3A//www.delphiforums.com/privacy.html) for the most accurate reproduction.*
 
 # Delphi Forums: Privacy Policy
 
@@ -34,7 +34,7 @@ When you register, you are asked to give demographic information (like birth yea
  -top-  
   
 **Children’s Online Privacy Protection Act**  
-Any data—except email address—that Delphi Forums collects on children under 13 years of age will be discarded in accordance with the Children’s Online Privacy Protection Act. Email addresses of children under 13 submitted during registration are kept by Delphi Forums for identification purposes only, and under no circumstances are displayed or made publicly available. 
+No children under 13 are allowed to participate in Delphi Forums. 
 
  -top-  
   
@@ -45,9 +45,7 @@ The above describes information that is provided "actively" - meaning, you choos
   
 **Cookies**  
   
-Delphi Forums uses cookies to customize your experience while using the Forums. A cookie is a small text file that many Web sites write through your browser when you visit them. A cookie can only be read by the site that places it, so Delphi Forums can't "see where you've been" based on any other cookies in your browser. Cookies are generally supported in version 3.0 and newer of Internet Explorer, 2.02 and newer of Netscape, and 3.0 and newer of AOL. Netscape Navigator uses a single file called "cookies.txt" to record all cookies, and you can open this file in any text editor to see what it looks like. On a Macintosh computer, the Netscape cookie file is called "MagicCookie". Internet Explorer uses a separate file for each cookie, which typically reside in "C:\Windows\Profiles\User\Cookies." Most browsers also allow the option of displaying a warning before accepting a cookie, or refusing all cookies. Declining cookies while participating in forums may result in some of features not working properly. 
-
-Delphi Forums uses 24/7 Media and other third-party advertising companies to serve the ads that you see on our site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by third party advertising companies, go to [http://www.networkadvertising.org](http://www.networkadvertising.org/). To learn more about 24/7 Media, including your ability to opt out of 24/7 Media system go to <http://www.247media.com/privacy>. 
+Delphi Forums uses cookies to customize your experience while using the Forums. A cookie is a small text file that many Web sites write through your browser when you visit them. A cookie can only be read by the site that places it, so Delphi Forums can't "see where you've been" based on any other cookies in your browser. Cookies are generally supported in version 3.0 and newer of Internet Explorer, 2.02 and newer of Netscape, and 3.0 and newer of AOL. Netscape Navigator uses a single file called "cookies.txt" to record all cookies, and you can open this file in any text editor to see what it looks like. On a Macintosh computer, the Netscape cookie file is called "MagicCookie". Internet Explorer uses a separate file for each cookie, which typically reside in "C:\Windows\Profiles\User\Cookies." Most browsers also allow the option of displaying a warning before accepting a cookie, or refusing all cookies. Declining cookies while participating in forums may result in some of features not working properly.
 
  -top-  
   
@@ -55,7 +53,7 @@ Delphi Forums uses 24/7 Media and other third-party advertising companies to ser
   
 Delphi Forums, along with many other companies, relies on Prospero Technologies to host our online communities and related data. Participation in a given company's forums includes the sharing of some of your personal information with both Prospero and the company that operates the forum. You will be warned before your information is shared with another company, and will have the opportunity to decline if desired. Any company with which your information is shared will have it's own privacy policy. 
 
-As a registered user, you may receive email messages on a regular basis to keep you apprised of your membership status and inform you of new services available to you. Examples of this include the personalized 'My Forums' email, which shows you an overview of activity in your favorite online communities. If you create your own online community, we will also email you traffic summary reports for your own forum on a regular basis. Included in each of these messages are simple instructions on how to remove yourself from these mailings if you do not wish to receive them in the future. 
+As a registered user, you may receive informational email messages from Delphi Forums from time to time. All registered members are required to receive such communications. If you wish to stop these emails, you may terminate your membership at any time. 
 
  -top-  
   
