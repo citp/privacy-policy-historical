@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mssarma.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603191346id_/http%3A//www.oup-usa.org/index/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mssarma.com privacy policy that was archived on 2003-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030802104916id_/http%3A//www.oup-usa.org/index/privacy.html) for the most accurate reproduction.*
 
 # OUP-USA: Privacy Policy
 
