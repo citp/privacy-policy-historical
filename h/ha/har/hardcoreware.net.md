@@ -1,10 +1,33 @@
-> *The following text is extracted and transformed from the hardcoreware.net privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204164905id_/http%3A//hardcoreware.net/about.htm%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardcoreware.net privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210184900id_/http%3A//www.hardcoreware.net/about.php%23Privacy) for the most accurate reproduction.*
 
-# hardCOREware.Net - Hardware Gaming News for Hardcore Gamers
+# hardCOREware.net - What makes us tick?
 
+  
   
 
 
+[](http://rd1.hitbox.com/rd?acct=WQ500226NGRD28EN0)
+
+|   
+|   
+---  
+  
+**About hardCOREware.net - NO BS**
+
+We are a hardware gaming review site.  We review the latest, greatest (and lamest, on occasion) hardware and games, and tell you about it.  We tell you **nothing** less than the **blatant and total truth**.  If something kicks ass, believe me, you will be the first to know.  The same goes if something sucks ass.
+
+What makes us different from other hardware gaming sites? Well, the fact that we give you the straight, **no BS** story on hardware.  We're not going to slam every piece we review, but we aren't going to be like other sites who have nothing bad to say about anything, just so they can score free hardware.
+
+We will have several reviews each week.  The hardware will range from the latest graphics cards and CPUs, right down to cases, fans, heatsinks, and mice.  Everything that is important to you, the hardcore gamer.
+
+**hardCOREware is:**
+
+[ ](http://www.mysql.com/)     [ ](http://www.php.net/)     [ ](http://www.remotecommunications.com/apache/mod_gzip)     [ ](http://www.php-accelerator.co.uk/)  
+  
+  
+  
+---  
+  
 **Staff**
 
 **Carl Nelson (lowlight) - Editor in Chief**[lowlight@hardcoreware.net](mailto:lowlight@hardcoreware.net)
@@ -13,56 +36,60 @@
 
 Carl Nelson (lowlight) has been a hardcore gamer from the get-go.  From copying code out of magazines and into his Vic-20 at the age of 5, to starting (and running, of course) several gaming web sites, he has seen just about everything.
 
-Other sites include: [Surreal-News.com](http://www.surreal-news.com/) \- A site devoted to bringing you the latest news regarding Surreal Software, and ALL their titles.  Right now this includes Drakan: Order of the Flame.  You will find the most extensive database of player-created levels on Surreal-News, as well as the official DevBoard, where YOU suggest to Surreal what YOU want to see in games.
+Other sites include: [Surreal-News.com](http://www.surreal-news.com/) \- A site devoted to bringing you the latest news regarding Surreal Software, and ALL their titles.  Right now this includes a series of games for the **Lord of the Rings** franchise.  You will find the most extensive database of player-created levels on Surreal-News, as well as the official DevBoard, where YOU suggest to Surreal what YOU want to see in games.
 
  **lowlight's Favorites:**
 
- **Now Playing:**  
-Colin MacRae II  
-Black & White
+ **Now Playing** (updated 08.30.02) **:**  
+Jedi Knight II - Jedi Outcast  
+Battlefield: 1942  
+America's Army  
+Ultima Online  
+Outcast (the sleeper classic from 1999)
 
- **Music:**  
+ **Music:  
+**Almost any House Music or Eurodance  
+Funker Vogt  
 Daft Punk (All-time favourite)  
-Gigi D'Agostino  
+Brooklyn Bounce  
 Frontline Assembly  
 Noise Unit  
 Skinny Puppy  
 NIN  
 Front 242  
 Rob Zombie  
+Classic EBM ROM files :)  
 Almost anything from the Baroque Period (Bach of course, but also Pachelbel, Handel, Purcell, etc)
 
  **Movies:** (In no particular order) **  
-** Princess Mononoke **  
+** Princess Mononoke  
+Once Upon a Time in China I, II, & III **  
 ** Star Wars  
 Se7en  
 The Green Mile  
 Forrest Gump  
 Trainspotting  
-Saving Private Ryan (All time favourite)  
+Saving Private Ryan  
 The Blair Witch Project  
 Fight Club  
-Excalibur  
 Braveheart  
-Traffic  
 Three Kings  
 Jurassic Park  
-Momento  
-Shrek  
-The Cell  
+Memento  
 Crouching Tiger, Hidden Dragon  
 Being John Malkovich  
-Bringing Out The Dead
+Spirited Away  
+Iron Monkey
 
  **Directors:** (In order)  
-David Fincher  
 P.T. Anderson  
+David Fincher  
+Yuen Wo-Ping  
 Steven Spielberg  
 Tim Burton  
-James Cameron  
-Jon Woo 
+James Cameron
 
-**Actors:** (In no order)  
+ **Actors:** (In no order)  
 Don Cheadle  
 Brad Pitt  
 John C. Reilly  
@@ -70,10 +97,16 @@ Samuel L. Jackson
 Mark Wahlberg  
 Morgan Freeman  
 William H. Macy  
-John Travolta  
+Phillip Seymour Hoffman  
 Tom Hanks  
-Edward Norton
-
+Edward Norton  
+Jet Li  
+Donnie Yen  
+  
+  
+  
+---  
+  
 **Bryan Pizzuti** **\- Senior Editor** [ bpizzuti@hardcoreware.net](mailto:bpizzuti@hardcoreware.net)
 
 Despite the fact the Bryan is an IBM employee, we still consider him to be hardcore :)
@@ -134,8 +167,12 @@ Logitech PageScan USB
 US Robotics PerformancePro 56k modem (pitiful, huh?)  
 Some keyboard or another.
 
-**Computer experience** : Been working with PCs and video games since they were invented. 
-
+**Computer experience** : Been working with PCs and video games since they were invented.   
+  
+  
+  
+---  
+  
 **Privacy Statement**
 
 **Information Collection and Use**   
@@ -152,8 +189,36 @@ We use IP addresses to analyze trends, administer the site, track user’s movem
 **Links**  
 This web site contains links to other sites. Please be aware that we [hardCOREware] are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
-**Surveys & Contests**  
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address). Contact information will be used to notify the winners and award prizes, and nothing else. No addresses are shared with anyone. 
+**Newsletter**  
+Readers may join our newsletter by using the form at the top of the page. By joining the newsletter, you may receive solicited advertisements from hardCOREware directly.  **Your email address will never be sold or lent to another party for advertising purposes** , solicited or otherwise.  Everyone who joins our forum is automatically subscribed to the HCW Newsletter.  You may still participate in the forum even if you unsubscribe.
 
 **Notification of Changes**  
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.  
+  
+  
+  
+  
+
+
+  
+
+
+**ME**  
+[12.09.02] @ 11:42 AM   
+Yes, and I am the king of this site. **wilcox**  
+[12.08.02] @ 8:30 PM   
+Did you know Hitler was black? **ME**  
+[12.08.02] @ 5:43 PM   
+There needs to be more traffic to this Shoutbox **JDR**  
+[12.07.02] @ 6:16 PM   
+just ordered a 845pe over a RDRAM; like the logo! **qlz19**  
+[12.07.02] @ 5:24 PM   
+isn't spam the whole purpose of the shoutbox? **ME**  
+[12.06.02] @ 12:23 PM   
+Work shmork! The weekend is here! **Egh**  
+[12.05.02] @ 2:57 PM   
+Stop screaming! I am trying to work here... **Mike**  
+[12.05.02] @ 2:42 AM   
+mikioooo.pointclark.net spammmmm
+
+[](http://www.hardcoreware.net/hcwads/adclick.php?bannerid=9&zoneid=1&source=&dest=http%3A%2F%2Fwww.cablestore.us%2Fdefault.php%3FcPath%3D37)
