@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keyence.com privacy policy that was archived on 2000-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001214023400id_/http%3A//www.keyence.com/privacy/statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keyence.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606213141id_/http%3A//www.keyence.com/privacy/statement.htm) for the most accurate reproduction.*
 
 # Keyence - Privacy Statement for KA web site
 
