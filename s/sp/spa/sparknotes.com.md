@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparknotes.com privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402172558id_/http%3A//www.sparknotes.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparknotes.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202075442id_/http%3A//www.sparknotes.com/legal/privacy.html) for the most accurate reproduction.*
 
 # SparkNotes: Privacy Statement
 
@@ -12,7 +12,7 @@ This site contains links to other sites. **SparkNotes.com** is not responsible f
 
 #### Third Party Advertising
 
-We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here:  
+We use MaxWorldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here:  
 <http://www.networkadvertising.org/optout_nonppii.asp>
 
 #### Third Party Cookies
@@ -37,5 +37,6 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following option for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-[MEMBERSHIP PAGE](http://login.sparknotes.com/cancel.mpl)
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact SparkNotes LLC 76 9th Avenue 9th Floor New York, NY 10011 [ comments@sparknotes.com](mailto:comments@sparknotes.com)[return to SparkNotes.com](https://web.archive.org/)     [read our Terms and Conditions](http://www.sparknotes.com/legal/terms.html)
+> [Cancel your account.](https://login.sparknotes.com/cancelAccount.psp)
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact SparkNotes LLC 120 Fifth Avenue New York, NY 10011 [ comments@sparknotes.com](mailto:comments@sparknotes.com)[return to SparkNotes.com](https://web.archive.org/)     [read our Terms and Conditions](http://www.sparknotes.com/legal/terms.html)
