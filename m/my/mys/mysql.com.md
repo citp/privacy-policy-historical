@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysql.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009220847id_/http%3A//www.mysql.com/company/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysql.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406084134id_/http%3A//www.mysql.com/company/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,13 +30,13 @@ We analyze visitors' use of our sites by tracking information such as pageviews,
 
 We use IP addresses to analyze trends, administer the site, track user movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
 
-## Cookies & Advertising
+## Cookies
 
-A cookie is a small data file that we transfer to your computer's hard drive through your web browser when you visit our sites. Cookies enable our systems to recognize your computer, so that we can provide you with personalized information and features. We do not use cookies to track user traffic patterns.
+As part of our approach to providing personalized services on our web site, MySQL AB uses cookies to store and sometimes track information about you. A cookie is a small data file sent to your browser from a web server to be stored on your hard drive that allows easier access the next time the same page is visited. For example, a cookie is sent when you register or sign in to this site. With your consent, cookies can store information from forms you fill out to create a user profile so that you do not have to re-enter the information each time you visit.
 
-We may use an outside advertising company to display advertisements on our site. These advertisements may contain cookies. While we use cookies in other parts of our Web Site, cookies received with banner or other ads are collected by these advertising companies, and we do not have access to this information.
+If you do not want your personal information to be stored by cookies, you can configure your browser so that it notifies you whenever a cookie is received so you can decide each time if you accept them or not. However, the use of cookies may be necessary to provide certain features and choosing to reject cookies may reduce the functionality of the site. Your browser help should include precise instructions explaining how to define the acceptance of cookies.
 
-You can set your browser to warn you before accepting cookies or to block cookies. If you block cookies, you may not be able to use certain site features or functions.
+Our website also automatically captures IP addresses. We use IP addresses to help diagnose problems with our server, to administer our website, and to help ensure the security of your interaction with the website.
 
 ## Services
 
@@ -52,7 +52,7 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 ## Notification of Changes
 
-If we change our Privacy Policy, we will post those changes on www.mysql.com. If we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users via email. Users will be able to opt out of any new use of their personal information.
+If we change our Privacy Policy, we will post those changes on [www.mysql.com](http://www.mysql.com/). If we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users via email. Users will be able to opt out of any new use of their personal information.
 
 ## Choice/Opt-Out
 
@@ -73,4 +73,4 @@ You can review and validate the information, that we have collected about you by
 
 If you have any questions or comments about this privacy statement, the practices of this site, or your dealings with this Web Site, you can contact <[webmaster@mysql.com](mailto:webmaster@mysql.com)> and/or <[privacy@mysql.com](mailto:privacy@mysql.com)>
 
-_Last modified: October 12, 2001_
+_Last modified: March 1, 2005_
