@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a-msystems.com privacy policy that was archived on 2002-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021010154154id_/http%3A//www.a-msystems.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a-msystems.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601083741id_/http%3A//a-msystems.com/help/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
