@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the eftours.com privacy policy that was archived on 2002-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021028011549id_/http%3A//www.eftours.com/global/assets/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eftours.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618102226id_/http%3A//www.eftours.com/global/assets/privacy.asp) for the most accurate reproduction.*
 
 # Privacy
 
 |  |  |  |  |  |  |  |  |  |  |   
 ---|---|---|---|---|---|---|---|---|---|---  
-[ ](http://www.eftours.com/public/home.asp) | [ ](https://www.eftours.com/public/learn/ef_advantage.asp) | [ ](http://www.eftours.com/public/browse/browse.asp) | [ ](https://www.eftours.com/public/become/great_benefits.asp) | [ ](http://www.eftours.com/public/magazine/) |   
+[ ](http://www.eftours.com/public/home.asp) | [ ](https://www.eftours.com/public/learn/) | [ ](http://www.eftours.com/public/browse/browse.asp) | [ ](https://www.eftours.com/public/become/great_benefits.asp) | [ ](http://www.eftours.com/public/magazine/) |   
   
 ---|---|---|---|---|---  
   
@@ -15,11 +15,11 @@
 ---  
 << Return to Previous Page  
 Our Commitment to Your Privacy  
-This confirms that EF Tours is a licensee of the TRUSTe Privacy Program. The privacy statement discloses the privacy practices for www.eftours.com. If you have questions or concerns regarding this statement, you should first contact our [Webmaster](mailto:webmaster@eftours.com) by email. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/users/watchdog.html). TRUSTe will then serve as a liaison with the website to resolve your concerns. 
+The privacy statement discloses the privacy practices for www.eftours.com. If you have questions or concerns regarding this statement, you should contact our [Webmaster](mailto:webmaster@eftours.com) by email. 
 
 EF Tours is committed to protecting the privacy of our online users. We would like to share our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, it is available in the navigation bar at the bottom of every page and at every point where personally identifiable information may be requested. This notice applies to all information collected or submitted on the eftours.com website.
 
-| [](https://www.truste.org/validate/5124)  
+|   
   
 We also participate in the Council of Better Business Bureaus' BBBOnLine® Reliability Program, and comply with all the [BBBOnLine](http://www.bbbonline.org/) privacy standards. 
 
@@ -29,11 +29,11 @@ Protecting the privacy of children is especially important. For that reason, we 
 Collection of Personal Information  
 On our site, you can order products and materials, make payments on your account, and sign up to lead or travel on a tour. EFTours.com maintains the confidentiality, security, and integrity of personal information that we obtain from our users. We limit the personally identifiable information we collect to only that which is required to participate on an EF Tour. This includes your name, address, email address, phone number, date of birth, emergency contact information, and financial data such as credit/debit card and/or checking account numbers. 
 
-When applying for the [MBNA Loan Program](http://www.mbnaamerica.com/), participants will link to an external site. They enter a secure area controlled and monitored directly by MBNA. Submitting personally identifiable information in this area is subject to MBNA's privacy policies. This applies to any external links from our site. We encourage users to check for privacy policies of any sites that collect personally identifiable information. 
+When visiting other websites linked from eftours.com, submitting personally identifiable information is subject to that site's privacy policies. This applies to any external links from our site. We encourage users to check for privacy policies of any sites that collect personally identifiable information. 
 
 When you send a digital postcard, refer a teacher, or use the "tell a friend" to describe a particular tour, we ask for the recipient's name and email address. 
 
-| [](http://www.mbnaamerica.com/)  
+|   
 Collection of Non Personal Information  
 We collect site traffic data from cookie usage on our site. We also use information about IP addresses, types of Web browsers, Internet Service Providers (ISPs), referring and exit pages, operating systems, date/time stamps, and number of clicks to analyze trends, administer the site, track users' movement, and gather broad demographic information for aggregate use. IP addresses and the like are not linked to personally identifiable information. 
 
