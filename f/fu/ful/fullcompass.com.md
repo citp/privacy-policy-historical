@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the fullcompass.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207173359id_/http%3A//64.213.162.194/terms/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullcompass.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610090629id_/http%3A//www.fullcompass.com/terms/privacy.aspx) for the most accurate reproduction.*
 
-# Full Compass - Privacy Statement
+# Full Compass Systems - Privacy Statement
 
 **FULL COMPASS, Ltd. PRIVACY STATEMENT**  
 We respect your right to privacy and want to adhere to your preferences about receiving unsolicited email and direct mail. Please be assured that we will honor your decisions about the use of your email and postal addresses.
 
 **What personal information does Full Compass Systems gather from me?**
 
-**Information You Give Us:**  
+** Information You Give Us: **  
 We receive and store any information you enter on our Web site or give us in any other way, including name, business name and title (as applicable), street address, e-mail address, phone number, and data associated with any transactions with you. We use the information that you provide for such purposes as responding to your requests, fulfilling your orders, improving our store and service, and communicating with you. **Automatic Information:**  
 Full Compass Systems and its affiliated web sites do not employ the use of cookies. Cookies are small identifiers that may be transferred to your computer's hard drive using your web browser. These cookies may be used to keep track of items, to provide you with customized content and to remember information you entered so you don't have to reenter it each time you visit a particular site. Many browsers are initially set up to accept cookies, but if you prefer, you can set up your browser to refuse to accept cookies. The "help" portion of your toolbar on your browser will tell you how to prevent your browser from accepting cookies, how to have your browser notify you when you receive new cookies, or how to disable cookies all together. 
 
