@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kgrams.org privacy policy that was archived on 2003-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030812074538id_/http%3A//www.kgrams.org/main/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kgrams.org privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612163126id_/http%3A//www.kgrams.org/main/privacy.html) for the most accurate reproduction.*
 
 # K-grams -- Privacy Policy
 
