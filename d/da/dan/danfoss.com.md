@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the danfoss.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214143039id_/http%3A//www.danfoss.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danfoss.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602082424id_/http%3A//www.danfoss.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
 |  |  |  |  |   
 ---|---|---|---|---  
-| **[Terms of Use](https://web.archive.org/web/20011214143039id_/http%3A//www.danfoss.com/terms.asp)**  
+| **[Terms of Use](https://web.archive.org/web/20020602082424id_/http%3A//www.danfoss.com/terms.asp)**  
 | **Privacy Policy**  
   
 Danfoss respects your privacy. Whether you are buying one of Danfoss' quality products, or just browsing the Danfoss Site, Danfoss wants to make you comfortable with our privacy policy and the security measures that we take to protect your personal information. If you give Danfoss personal information Danfoss will treat it according to this policy. Danfoss encourages you to read this privacy policy.
@@ -24,4 +24,4 @@ When you access the Danfoss Site, the Danfoss server attaches a small text file 
 **Accessing and Updating Personal Information for Registered Users**  
 Danfoss needs your help to ensure that the personal information you provide to Danfoss is correct and up-to-date. You should immediately notify Danfoss of any changes to your name, address, company, phone number, or email address to enable us to make changes to your registered user profile. 
 
-Contact [Webmaster@Danfoss.com](mailto:webmaster@danfoss.com) with questions or problems with this service. 
+Contact [webmaster@danfoss.com](mailto:webmaster@danfoss.com) with questions or problems with this service. 
