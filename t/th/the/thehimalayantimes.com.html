@@ -1,0 +1,583 @@
+<!--The following is the downloaded HTML source of the thehimalayantimes.com privacy policy that was archived on 2003-04-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030408203443id_/http%3A//www.thehimalayantimes.com/Policy.asp%3FdtSiteDate%3D20030408) for the most accurate reproduction.-->
+
+<html><head><script language="javascript">
+String.prototype.Trim = trim_string;
+	function trim_string() 
+	{
+		var ichar, icount;
+		var strValue = this;		
+		ichar = strValue.length - 1;			
+		icount = -1;		
+		while (strValue.charAt(ichar)==' ' && ichar > icount)
+			--ichar;
+		if (ichar!=(strValue.length-1))
+			strValue = strValue.slice(0,ichar+1);
+		ichar = 0;
+		icount = strValue.length - 1;
+		while (strValue.charAt(ichar)==' ' && ichar < icount)
+			++ichar;
+		if (ichar!=0)
+			strValue = strValue.slice(ichar,strValue.length);
+		return strValue;
+	}
+//This function alert user to enter Valid details
+function fnBad(Control,iCtr,sField)
+{
+	var sText;
+	var j;
+	var ch;
+	sText=Control.value;
+	switch (iCtr){
+		case 0:
+		{
+			for (j=0; j<sText.length;j++)
+			{
+			    ch=sText.substring(j,j+1);
+			    if ((ch == '\\') || (ch == '>') || (ch == '<'))
+			    {
+			        alert("\nPlease Enter Valid Information in " + sField + ".\nSpecial Characters(<,>,\\) are not allowed");
+			        Control.focus();
+			        return false;
+			    }                        
+			}
+			break;
+		}
+		case 1:
+		{
+			for (j=0; j<sText.length;j++)
+			{
+			    ch=sText.substring(j,j+1);
+			    if ( ((ch < "a" || "z" < ch) && (ch < "A" || "Z" < ch)) && (ch < "0" || "9" < ch)) 
+			    {
+			        alert(sField + " Accepts Only Alphabets And Numbers.\nPlease Re-Enter. " + sField);
+			        Control.focus();
+			        return false;
+			    }                        
+			}
+			break;
+		}
+		case 2:
+		{
+			for (j=0; j<sText.length;j++)
+			{
+			    ch=sText.substring(j,j+1);
+			    if ( ((ch < "a" || "z" < ch) && (ch < "A" || "Z" < ch)) && (ch < "0" || "9" < ch) && (ch != ' ')) 
+			    {
+			        alert(sField + " Accepts Only Alphabets, Numbers And Space.\nPlease Re-Enter. " + sField);
+			        Control.focus();
+			        return false;
+			    }                        
+			}
+			break;
+		}
+	}
+}	
+function fnRemoveSpace(strTemp)
+{
+    var iChk=0;
+    for (var i=0;i<strTemp.length;i++) 
+    {
+		var ch=strTemp.substring(i,i+1);
+		if(ch == " " )
+		{
+			iChk++;
+		}
+		else
+		{
+			break;
+		}
+	}
+return 	strTemp.substring(iChk,strTemp.length);
+}
+</script>
+
+
+
+<title>The Himalayan Times</title>
+<script language="JavaScript">
+function fnSearch()
+{
+	document.frmheadlines.txtSearch.value = fnRemoveSpace(document.frmheadlines.txtSearch.value);
+	if (document.frmheadlines.txtSearch.value != "")
+	{	
+		document.frmheadlines.HSearch.value = document.frmheadlines.txtSearch.value;
+		document.frmheadlines.action="SearchSite.asp?dtSiteDate=20030408";
+		document.frmheadlines.submit();
+				
+		return false;
+	}
+	else
+	{
+		alert ("Please fill something to search");
+		document.frmheadlines.txtSearch.focus();
+		return false;
+	}
+}
+function fnchange(iChange)
+  {
+  	document.frmheadlines.SubmitMe.value=iChange;	
+  }
+
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v3.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function MM_timelinePlay(tmLnName, myID) { //v1.2
+  //Copyright 1997 Macromedia, Inc. All rights reserved.
+  var i,j,tmLn,props,keyFrm,sprite,numKeyFr,firstKeyFr,propNum,theObj,firstTime=false;
+  if (document.MM_Time == null) MM_initTimelines(); //if *very* 1st time
+  tmLn = document.MM_Time[tmLnName];
+  if (myID == null) { myID = ++tmLn.ID; firstTime=true;}//if new call, incr ID
+  if (myID == tmLn.ID) { //if Im newest
+    setTimeout('MM_timelinePlay("'+tmLnName+'",'+myID+')',tmLn.delay);
+    fNew = ++tmLn.curFrame;
+    for (i=0; i<tmLn.length; i++) {
+      sprite = tmLn[i];
+      if (sprite.charAt(0) == 's') {
+        if (sprite.obj) {
+          numKeyFr = sprite.keyFrames.length; firstKeyFr = sprite.keyFrames[0];
+          if (fNew >= firstKeyFr && fNew <= sprite.keyFrames[numKeyFr-1]) {//in range
+            keyFrm=1;
+            for (j=0; j<sprite.values.length; j++) {
+              props = sprite.values[j]; 
+              if (numKeyFr != props.length) {
+                if (props.prop2 == null) sprite.obj[props.prop] = props[fNew-firstKeyFr];
+                else        sprite.obj[props.prop2][props.prop] = props[fNew-firstKeyFr];
+              } else {
+                while (keyFrm<numKeyFr && fNew>=sprite.keyFrames[keyFrm]) keyFrm++;
+                if (firstTime || fNew==sprite.keyFrames[keyFrm-1]) {
+                  if (props.prop2 == null) sprite.obj[props.prop] = props[keyFrm-1];
+                  else        sprite.obj[props.prop2][props.prop] = props[keyFrm-1];
+        } } } } }
+      } else if (sprite.charAt(0)=='b' && fNew == sprite.frame) eval(sprite.value);
+      if (fNew > tmLn.lastFrame) tmLn.ID = 0;
+  } }
+}
+
+function MM_timelineGoto(tmLnName, fNew, numGotos) { //v2.0
+  //Copyright 1997 Macromedia, Inc. All rights reserved.
+  var i,j,tmLn,props,keyFrm,sprite,numKeyFr,firstKeyFr,lastKeyFr,propNum,theObj;
+  if (document.MM_Time == null) MM_initTimelines(); //if *very* 1st time
+  tmLn = document.MM_Time[tmLnName];
+  if (numGotos != null)
+    if (tmLn.gotoCount == null) tmLn.gotoCount = 1;
+    else if (tmLn.gotoCount++ >= numGotos) {tmLn.gotoCount=0; return}
+  jmpFwd = (fNew > tmLn.curFrame);
+  for (i = 0; i < tmLn.length; i++) {
+    sprite = (jmpFwd)? tmLn[i] : tmLn[(tmLn.length-1)-i]; //count bkwds if jumping back
+    if (sprite.charAt(0) == "s") {
+      numKeyFr = sprite.keyFrames.length;
+      firstKeyFr = sprite.keyFrames[0];
+      lastKeyFr = sprite.keyFrames[numKeyFr - 1];
+      if ((jmpFwd && fNew<firstKeyFr) || (!jmpFwd && lastKeyFr<fNew)) continue; //skip if untouchd
+      for (keyFrm=1; keyFrm<numKeyFr && fNew>=sprite.keyFrames[keyFrm]; keyFrm++);
+      for (j=0; j<sprite.values.length; j++) {
+        props = sprite.values[j];
+        if (numKeyFr == props.length) propNum = keyFrm-1 //keyframes only
+        else propNum = Math.min(Math.max(0,fNew-firstKeyFr),props.length-1); //or keep in legal range
+        if (sprite.obj != null) {
+          if (props.prop2 == null) sprite.obj[props.prop] = props[propNum];
+          else        sprite.obj[props.prop2][props.prop] = props[propNum];
+      } }
+    } else if (sprite.charAt(0)=='b' && fNew == sprite.frame) eval(sprite.value);
+  }
+  tmLn.curFrame = fNew;
+  if (tmLn.ID == 0) eval('MM_timelinePlay(tmLnName)');
+}
+
+function MM_initTimelines() { //v4.0
+    //MM_initTimelines() Copyright 1997 Macromedia, Inc. All rights reserved.
+    var ns = navigator.appName == "Netscape";
+    var ns4 = (ns && parseInt(navigator.appVersion) == 4);
+    var ns5 = (ns && parseInt(navigator.appVersion) > 4);
+    document.MM_Time = new Array(1);
+    document.MM_Time[0] = new Array(1);
+    document.MM_Time["Timeline1"] = document.MM_Time[0];
+    document.MM_Time[0].MM_Name = "Timeline1";
+    document.MM_Time[0].fps = 15;
+    document.MM_Time[0][0] = new String("behavior");
+    document.MM_Time[0][0].frame = 286;
+    document.MM_Time[0][0].value = "MM_timelineGoto('Timeline1','1')";
+    document.MM_Time[0].lastFrame = 286;
+    for (i=0; i<document.MM_Time.length; i++) {
+        document.MM_Time[i].ID = null;
+        document.MM_Time[i].curFrame = 0;
+        document.MM_Time[i].delay = 1000/document.MM_Time[i].fps;
+    }
+}
+//-->
+</script>
+<link href="thtNewGUI.css" rel="stylesheet"></head>
+
+<body bgcolor="#FFFFFF" onload="MM_preloadImages('file:///D|/tht.com/gif/signup(d).gif','file:///D|/tht.com/gif/msgboard(d).gif','file:///D|/tht.com/gif/archive(d).gif');MM_timelinePlay('Timeline1')" topmargin="0">
+<form name="frmheadlines" method="post" onsubmit="return fnSearch()">
+<table width="750" border="0" cellspacing="0" cellpadding="1">
+  <tbody><tr> 
+    <td> 
+      <div align="right" class="txt">KATHMANDU, APRIL 08, 2003, Chaitra 25, 2059&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARCHIVE SECTION&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+    </td>
+  </tr>
+</tbody></table>
+<table width="750" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="25" align="left" valign="top">&nbsp;</td>
+    <td width="44" align="left" valign="top"><img src="gif/logo.gif" width="44" height="46"></td>
+    <td width="10" align="left" valign="top">&nbsp;</td>
+    <td align="left" valign="top" width="322"><a href="index.asp?dtSiteDate=20030408" title="Home Page"><img src="gif/topband.gif" width="322" height="46" border="0"></a></td>
+    <td align="left" valign="top" width="10">&nbsp;</td>
+    <td align="left" valign="top" width="324"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0" width="331" height="43" id="ShockwaveFlash1">
+        <param name="movie" value="swf/bannerad1.swf">
+        <param name="quality" value="high">
+        <embed src="swf/bannerad1.swf" quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="331" height="43">
+         
+      </object></td>
+    <td align="left" valign="top" width="25">&nbsp;</td>
+  </tr>
+</tbody></table>
+<img src="gif/clear.gif" width="5" height="2"><br> <br>
+<table width="750" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr valign="top"> 
+    <td width="25">&nbsp;</td>
+    <td width="125"> 
+      
+
+	<table width="125" border="0" cellspacing="0" cellpadding="0" bgcolor="ffcc66" class="txt">
+        <tbody><tr valign="top" bgcolor="#FF9900"> 
+          <td colspan="3"><img src="gif/clear.gif" width="8" height="2"></td>
+        </tr>
+        <tr valign="top"> 
+          <td width="10" bgcolor="FF9900"><img src="gif/clear.gif" width="8" height="12"></td>
+          <td bgcolor="FF9900" align="left" valign="top" width="105" class="menuHead"><b><img src="gif/clear.gif" width="5" height="12">NEWS</b></td>
+          <td width="10" bgcolor="FF9900"><img src="gif/clear.gif" width="5" height="12"></td>
+        </tr>
+        <tr valign="top"> 
+          <td width="10"><img src="gif/clear.gif" width="5" height="12"></td>
+          <td align="left" valign="middle" width="105"><b><img src="gif/clear.gif" width="5" height="12">&nbsp;
+          
+          <a href="National.asp?name=National&amp;dtSiteDate=20030408" class="buttons">NATIONAL</a>
+          
+          </b></td>
+          <td width="10"><img src="gif/clear.gif" width="5" height="12"></td>
+        </tr>
+        <tr valign="top"> 
+          <td width="10"><img src="gif/clear.gif" width="5" height="12"></td>
+          <td align="left" valign="middle" width="105"><b><img src="gif/clear.gif" width="5" height="12">&nbsp;
+          
+				<a href="City.asp?name=City&amp;dtSiteDate=20030408" class="buttons">CITY</a>
+          
+          </b></td>
+          <td width="10"><img src="gif/clear.gif" width="5" height="12"></td>
+        </tr>
+        <tr valign="top"> 
+          <td width="10"><img src="gif/clear.gif" width="5" height="12"></td>
+          <td align="left" valign="middle" width="105"><b><img src="gif/clear.gif" width="5" height="12">&nbsp;
+           
+				<a href="World.asp?name=WORLD&amp;dtSiteDate=20030408" class="buttons">WORLD</a>
+				
+			</b></td>
+          <td width="10"><img src="gif/clear.gif" width="5" height="12"></td>
+        </tr>
+        <tr valign="top"> 
+          <td width="10"><img src="gif/clear.gif" width="5" height="12"></td>
+          <td align="left" valign="middle" width="105"><b><img src="gif/clear.gif" width="5" height="12">&nbsp;
+
+				<a href="Business.asp?name=Business&amp;dtSiteDate=20030408" class="buttons">BUSINESS</a>
+
+			</b></td>
+          <td width="10"><img src="gif/clear.gif" width="5" height="12"></td>
+        </tr>
+        <tr valign="top"> 
+          <td width="10"><img src="gif/clear.gif" width="5" height="12"></td>
+          <td align="left" valign="middle" width="105"><b><img src="gif/clear.gif" width="5" height="12">&nbsp;
+
+		          <a href="Neighbours.asp?name=Neighbours&amp;dtSiteDate=20030408" class="buttons">NEIGHBOURS</a>
+			</b></td>
+          <td width="10"><img src="gif/clear.gif" width="5" height="12"></td>
+        </tr>
+        <tr valign="top"> 
+          <td width="10"><img src="gif/clear.gif" width="8" height="12"></td>
+          <td align="left" valign="middle" width="105"><b><img src="gif/clear.gif" width="5" height="12">&nbsp;
+
+				<a href="Sports.asp?name=Sports&amp;dtSiteDate=20030408" class="buttons">SPORTS</a>
+			</b></td>
+          <td width="10"><img src="gif/clear.gif" width="5" height="12"></td>
+        </tr>
+        <tr valign="top" bgcolor="#FFCC66"> 
+          <td colspan="3"><img src="gif/clear.gif" width="8" height="8"></td>
+        </tr>
+        <tr valign="top" bgcolor="#FF9900"> 
+          <td width="10"><img src="gif/clear.gif" width="5" height="12"></td>
+          <td valign="middle" align="left" width="105" class="menuHead"><b><img src="gif/clear.gif" width="5" height="12">OPINION</b></td>
+          <td width="10"><img src="gif/clear.gif" width="8" height="12"></td>
+        </tr>
+        <tr valign="top"> 
+          <td width="10"><img src="gif/clear.gif" width="5" height="12"></td>
+          <td align="left" valign="middle" width="105"><b><img src="gif/clear.gif" width="5" height="12">&nbsp;
+
+		          <a href="Default.asp?name=Editorial&amp;dtSiteDate=20030408" class="buttons">EDITORIAL</a>
+			</b></td>
+          <td width="10"><img src="gif/clear.gif" width="5" height="12"></td>
+        </tr>
+        <tr valign="top" bgcolor="#FFCC66"> 
+          <td colspan="3"><img src="gif/clear.gif" width="8" height="8"></td>
+        </tr>
+        <tr valign="top" bgcolor="#FF9900"> 
+          <td width="10"><img src="gif/clear.gif" width="5" height="12"></td>
+          <td align="left" valign="middle" width="105" class="menuHead"><b><img src="gif/clear.gif" width="5" height="12">FEATURES</b></td>
+          <td width="10"><img src="gif/clear.gif" width="5" height="12"></td>
+        </tr>
+        <tr valign="top"> 
+          <td width="10"><img src="gif/clear.gif" width="5" height="12"></td>
+          <td align="left" valign="middle" width="105"><b><img src="gif/clear.gif" width="5" height="12">&nbsp;
+
+			      <a href="Ent.asp?name=Entertainment&amp;dtSiteDate=20030408" class="buttons">ENTERTAINMENT</a>
+			</b></td>
+          <td width="10"><img src="gif/clear.gif" width="5" height="12"></td>
+        </tr>
+        <tr valign="top"> 
+          <td width="10"><img src="gif/clear.gif" width="5" height="12"></td>
+          <td align="left" valign="middle" width="105"><b><img src="gif/clear.gif" width="5" height="12">&nbsp;
+
+          <a href="TV.asp?name=TV Schedule&amp;dtSiteDate=20030408" class="buttons">TV 
+            SCHEDULE</a> 
+			</b></td>
+          <td width="10"><img src="gif/clear.gif" width="5" height="12"></td>
+        </tr>
+        <tr valign="top"> 
+          <td width="10"><img src="gif/clear.gif" width="5" height="12"></td>
+          <td align="left" valign="middle" width="105"><b><img src="gif/clear.gif" width="5" height="12">&nbsp;
+
+			<a href="Radio.asp?name=Radio&amp;dtSiteDate=20030408" class="buttons">RADIO SCHEDULE</a> 
+			</b></td>
+          <td width="10"><img src="gif/clear.gif" width="5" height="12"></td>
+        </tr>
+        <tr valign="top"> 
+          <td width="10"><img src="gif/clear.gif" width="5" height="12"></td>
+          <td align="left" valign="middle" width="105"><b><img src="gif/clear.gif" width="5" height="12">&nbsp;
+
+          <a href="Bus.asp?name=Bus&amp;dtSiteDate=20030408" class="buttons">BUS SCHEDULE</a> 
+			</b></td>
+          <td width="10"><img src="gif/clear.gif" width="5" height="12"></td>
+        </tr>
+        <tr valign="top"> 
+          <td width="10"><img src="gif/clear.gif" width="5" height="12"></td>
+          <td align="left" valign="middle" width="105"><b><img src="gif/clear.gif" width="5" height="12">&nbsp;
+
+          <a href="ImpNum.asp?name=Important Numbers&amp;dtSiteDate=20030408" class="buttons">IMPORTANT NOS.</a>
+			</b></td>
+          <td width="10"><img src="gif/clear.gif" width="5" height="12"></td>
+        </tr>
+        <tr valign="top" bgcolor="#FFCC66"> 
+          <td width="10"><img src="gif/clear.gif" width="5" height="12"></td>
+          <td valign="middle" width="105"><b><img src="gif/clear.gif" width="5" height="12">&nbsp;
+
+				<a href="Weather.asp?name=Weather&amp;dtSiteDate=20030408" class="buttons">WEATHER</a>
+			</b></td>
+          <td width="10"><img src="gif/clear.gif" width="5" height="12"></td>
+        </tr>
+        <tr valign="top" bgcolor="#FFCC66"> 
+          <td height="2" width="10"><img src="gif/clear.gif" width="5" height="12"></td>
+          <td valign="middle" height="2" width="105"><b><img src="gif/clear.gif" width="5" height="12">&nbsp;
+
+		         <a href="Stock.asp?name=Stock Watch&amp;dtSiteDate=20030408" class="buttons">STOCKS</a>
+			</b></td>
+          <td height="2" width="10"><img src="gif/clear.gif" width="5" height="12"></td>
+        </tr>
+        <tr valign="top" bgcolor="#FFCC66"> 
+          <td width="10"><img src="gif/clear.gif" width="5" height="12"></td>
+          <td valign="middle" width="105"><b><img src="gif/clear.gif" width="5" height="12">&nbsp;
+
+		          <a href="Horo.asp?dtSitedate=20030408" class="buttons">HOROSCOPE</a>
+			</b></td>
+          <td width="10"><img src="gif/clear.gif" width="5" height="12"></td>
+        </tr>
+        <tr valign="top" bgcolor="#FFCC66"> 
+          <td colspan="3"><b><img src="gif/clear.gif" width="8" height="8"></b></td>
+        </tr>
+      </tbody></table>
+      <br>
+    </td>
+    <td width="24">&nbsp;</td>
+    <td width="428"><span class="Pgheading"> 
+      <b>PRIVACY POLICY<br><br></b></span>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" class="txt">
+        <tbody><tr>
+          <td> 
+            <p><b><span class="txtSearch">What 
+              we know about you:</span></b> <br>
+              The Himalayan 
+              Times takes the privacy of its users seriously. We are committed<br>
+               to safeguarding 
+              the privacy of our users while providing a personalised and<br>
+              valuable service. This Privacy Policy Statement explains the data 
+              processing<br>
+              practices of <a href="http://www.thehimalayantimes.com/index.asp">thehimalayantimes.com</a>. 
+              </p>
+            </td>
+        </tr>
+      </tbody></table>
+      <br>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" class="txt">
+        <tbody><tr> 
+          <td colspan="2" class="txtsearch"><b>Information 
+            collected:</b></td>
+          <td width="3%">&nbsp;</td>
+        </tr>
+        <tr valign="top" align="left"> 
+          <td width="3%" height="29"> 
+            <div align="center"><img src="gif/bullet.gif" width="4" height="8"></div>
+          </td>
+          <td width="94%" height="29">Personal 
+            information is collected by The Himalayan Times through the use<br>
+            of enquiry and registration forms and every time you e-mail us your 
+            details.</td>
+          <td width="3%" height="29">&nbsp;</td>
+        </tr>
+        <tr valign="top" align="left"> 
+          <td width="3%"> 
+            <p align="center"><img src="gif/bullet.gif" width="4" height="8"><br>
+              
+              </p>
+              <br>
+          </td>
+          <td width="94%">We 
+            also collect information automatically about your visit to our site.<br>
+            The information obtained in this way, which includes demographic data<br>
+            and browsing patterns, is only used in aggregate form.</td>
+          <td width="3%">&nbsp;</td>
+        </tr>
+      </tbody></table>
+      <br>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" class="txt">
+        <tbody><tr> 
+          <td colspan="2" height="35"><b><span class="txtSearch">Use 
+            and Disclosure of Personal Information:<br></span>
+            We process personal information collected via thehimalayantimes.com<br>
+            for the purposes of:</b></td>
+        </tr>
+        <tr> 
+          <td width="3%"> 
+            <div align="center"><img src="gif/bullet.gif" width="4" height="8"></div>
+          </td>
+          <td width="97%">providing 
+            a personalised service</td>
+        </tr>
+        <tr> 
+          <td width="3%"> 
+            <div align="center"><img src="gif/bullet.gif" width="4" height="8"></div>
+          </td>
+          <td width="97%">conducting 
+            market research surveys</td>
+        </tr>
+        <tr> 
+          <td width="3%"> 
+            <div align="center"><img src="gif/bullet.gif" width="4" height="8"></div>
+          </td>
+          <td width="97%">running 
+            competitions and</td>
+        </tr>
+        <tr> 
+          <td width="3%"> 
+            <div align="center"><img src="gif/bullet.gif" width="4" height="8"></div>
+          </td>
+          <td width="97%">providing 
+            you with information about products and services we offer. </td>
+        </tr>
+        <tr> 
+          <td width="3%"> 
+            <div align="center"><img src="gif/bullet.gif" width="4" height="8"></div>
+          </td>
+          <td width="97%">to 
+            build up marketing profiles</td>
+        </tr>
+        <tr> 
+          <td width="3%"> 
+            <div align="center"><img src="gif/bullet.gif" width="4" height="8"></div>
+          </td>
+          <td width="97%">to 
+            aid strategic development</td>
+        </tr>
+        <tr>
+          <td width="3%">
+            <div align="center"><img src="gif/bullet.gif" width="4" height="8"></div>
+          </td>
+          <td width="97%">to 
+            manage our relationship with advertisers.</td>
+        </tr>
+      </tbody></table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td class="txt"><br>
+            We would be more than delighted to receive your comments, views<br>
+            and ideas. Help us to improve ourselves.</td>
+        </tr>
+      </tbody></table>
+      <p></p>
+      <br>
+      <br>
+      <br>
+    </td>
+    <td width="20">&nbsp;</td>
+    	
+
+    <td width="128"> 
+      
+  <table><tbody><tr><td>
+  <span class="txt" style="color:#666666">SEARCH</span><br>   
+  <input type="text" name="txtSearch" size="7" maxlength="150">  
+  <input type="hidden" name="HSearch">
+  <a href="Policy.asp?Name=&amp;dtSiteDate=20030408&amp;link=1" onclick="return fnSearch()" class="txt">GO</a>
+  <br>
+  
+  <a href="AdvSearch.asp?name=AdvSearch&amp;dtSiteDate=20030408" class="txt">ADVANCED SEARCH</a> 
+  
+
+<p><a href="SignUp.asp?dtSiteDate=20030408" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image64','','gif/signup(d).gif',1)"><img name="Image64" border="0" src="gif/signup.gif" width="99" height="14"></a><br>
+  <img src="gif/clear.gif" width="8" height="5"><br>
+  <a href="MessageBoard.asp?dtSiteDate=20030408" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image68','','gif/msgboard(d).gif',1)"><img name="Image68" border="0" src="gif/msgboard.gif" width="99" height="14"></a><br>
+  <img src="gif/clear.gif" width="8" height="5"><br>
+  <a href="Archive.asp?dtSiteDate=20030408" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image69','','gif/archive(d).gif',1)"><img name="Image69" border="0" src="gif/archive.gif" width="99" height="14"></a> 
+  </p></td></tr></tbody></table>
+      <p></p>
+      </td>
+  </tr>
+</tbody></table>
+<br>
+<table width="750" border="0" cellspacing="0" cellpadding="1">
+  <tbody><tr bgcolor="#CCCCCC"> 
+    <td>
+      <div align="center" class="txt"><b><span style="color:#666666"><a href="AboutUs.asp?dtSiteDate=20030408" class="buttons">ABOUT 
+        US</a> |&nbsp;&nbsp;<a href="contact.asp?dtSiteDate=20030408" class="buttons">CONTACT US</a> |&nbsp;&nbsp;<a href="Policy.asp?dtSiteDate=20030408" class="buttons">PRIVACY 
+        POLICY</a></span><br>
+        <span style="color:#990000">THE HIMALAYAN TIMES PUBLICATION</span></b></div>
+    </td>
+  </tr>
+  <tr><td align="center" class="txt">Powered by <a href="http://www.vedamtech.com">Vedam Technologies (P) Ltd.</a>
+</td></tr>
+</tbody></table>
+<p>&nbsp;</p>
+</form>
+
+
+</body></html>
