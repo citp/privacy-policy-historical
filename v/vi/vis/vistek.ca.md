@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vistek.ca privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604191324id_/http%3A//www.vistek.ca/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vistek.ca privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208180253id_/http%3A//www.vistek.ca/about/policies.asp) for the most accurate reproduction.*
 
-# Vistek - Privacy Statement
+# Vistek Canada - Photo Video Digital
 
 This privacy statement discloses the privacy practices for www.vistek.ca. 
 
@@ -40,7 +40,7 @@ From time-to-time our site requests information from users via surveys or contes
 
 This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line.
 
-If you have any questions about the security at our website, you can send an email to webmaster@vistek.ca.
+If you have any questions about the security at our website, you can send an email to [webmaster@vistek.ca.](mailto:webmaster@vistek.ca)
 
 **Supplementation of Information**
 
