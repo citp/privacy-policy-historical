@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the usaswimming.org privacy policy that was archived on 2001-04-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010405022435id_/http%3A//www.usaswimming.org/about/template.pl%3Fopt%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the usaswimming.org privacy policy that was archived on 2001-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011217003942id_/http%3A//usaswimming.org/about/template.pl%3Fopt%3Dprivacy) for the most accurate reproduction.-->
 
 <html><head>
 <title>
@@ -8,48 +8,97 @@ USA Swimming Sub Page -About
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <style type="text/css">
 <!--
-BODY {OVERFLOW:scroll;OVERFLOW-X:hidden}
+BODY {OVERFLOW:scroll;OVERFLOW-X:scroll}
 .DEK {POSITION:absolute;VISIBILITY:hidden;Z-INDEX:200;}
 //-->
 </style>
 
 </head>
 <body onload="slideit();slideitx();" bgcolor="#ffffff" text="#000000" link="#cc0000" vlink="#0066cc">
+
+<!--  Information Popup Script  -->
+
+<div id="dek" class="dek"></div>
+<script type="text/javascript">
+<!--
+ 
+/*
+Pop up information box II (Mike McGrath (mike_mcgrath@lineone.net,  http://website.lineone.net/~mike_mcgrath))
+Permission granted to Dynamicdrive.com to include script in archive
+For this and 100's more DHTML scripts, visit http://dynamicdrive.com
+*/
+ 
+Xoffset=145;    // modify these values to ...
+Yoffset= 20;    // change the popup position.
+ 
+var nav,old,iex=(document.all),yyy=-1000;
+if(navigator.appName=="Netscape"){(document.layers)?nav=true:old=true;}
+ 
+if(!old){
+var skn=(nav)?document.dek:dek.style;
+if(nav)document.captureEvents(Event.MOUSEMOVE);
+document.onmousemove=get_mouse;
+}
+ 
+function popup(msg){
+var content="<TABLE  WIDTH=230 BORDER=1 BORDERCOLOR=#cc0000 CELLPADDING=2 CELLSPACING=0 "+
+"BGCOLOR=#000066><TD ALIGN=center><FONT face=Verdana COLOR=white SIZE=1>"+msg+"</FONT></TD></TABLE>";
+if(old){alert(msg);return;}
+else{yyy=Yoffset;
+ if(nav){skn.document.write(content);skn.document.close();skn.visibility="visible"}
+ if(iex){document.all("dek").innerHTML=content;skn.visibility="visible"}
+ }
+}
+ 
+function get_mouse(e){
+//var x=(nav)?e.pageX:event.x+document.body.scrollLeft;skn.left=x+Xoffset;
+var x=(nav)?e.pageX:event.x+document.body.scrollLeft;skn.left=Xoffset;
+var y=(nav)?e.pageY:event.y+document.body.scrollTop;skn.top=y+yyy;
+}
+ 
+function kill(){
+if(!old){yyy=-1000;skn.visibility="hidden";}
+}
+ 
+//-->
+</script>                                   
+
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tbody><tr>
+<!--Top of the page USA Swimming Graphics -->
+
 	 <td colspan="3"><a href="../index.shtml"><img src="../images/sublogo_top.gif" width="151" height="52" alt="USA Swimming Logo" border="0"></a><img src="../images/about_usa_title.gif" width="612" height="52" alt="USA Swimming"></td>
 	
   </tr>
   <tr>
 	<td valign="top"><a href="../index.shtml"><img src="../images/sublogo_bottom.gif" width="151" height="62" alt="USA Swimming Logo" border="0"></a><br>
 	</td>
+<!-- AD Banner -->
 	<td valign="top" height="62">
-	<a href="javascript:slidelink()"><img src="../images/sponsors/goodyear.jpg" name="slide" border="0" style="filter:blendTrans(duration=3)"></a>
+	<a href="javascript:slidelink()"><img src="../images/sponsors/caddy.jpg" name="slide" border="0" style="filter:blendTrans(duration=3)"></a>
 
 <script language="JavaScript">
 <!--
-var links = new Array(6)
-var images = new Array(6)
+var links = new Array(5)
+var images = new Array(5)
 
-links[1]="http://www.ual.com"
-images[1]="../images/sponsors/United.jpg"
-links[2]="http://www.goodyear.com"
-images[2]="../images/sponsors/goodyear.jpg"
-links[3]="http://www.speedo.com"
-images[3]="../images/sponsors/speedo.jpg"
-links[4]="http://www.usa-swimming.org/whats_new/template.pl?opt=news&pubid=612"
-images[4]="../images/sponsors/phillips.jpg"
-links[5]="http://www.cadillac.com"
-images[5]="../images/sponsors/caddy.jpg"
-links[6]="http://www.daktronics.com"
-images[6]="../images/sponsors/daktronicsbanner.gif"
+links[1]="../aps/banner_ads/ad_redirect.pl?http://www.mutualofomaha.com"
+images[1]="../images/sponsors/swimmer_ual.jpg"
+links[2]="../aps/banner_ads/ad_redirect.pl?http://www.speedo.com"
+images[2]="../images/sponsors/speedo.jpg"
+links[3]="../aps/banner_ads/ad_redirect.pl?http://www.usa-swimming.org/whats_new/template.pl?opt=news&pubid=612"
+images[3]="../images/sponsors/phillips.jpg"
+links[4]="../aps/banner_ads/ad_redirect.pl?http://www.cadillac.com"
+images[4]="../images/sponsors/caddy.jpg"
+links[5]="../aps/banner_ads/ad_redirect.pl?http://www.daktronics.com"
+images[5]="../images/sponsors/daktronicsbanner.gif"
 
 ////change number of images below 
-var number_of_images=6
+var number_of_images=5
 //change speed below (in seconds)
 var speed=6
-var step=2
-var whichimage=2
+var step=4
+var whichimage=4
 function slideit(){
 if (!document.images)
 return
@@ -81,6 +130,7 @@ window.location=links[whichimage]
 
 
 	</td>
+<!-- Right Side Column  -->
 	<td rowspan="2" valign="top">
 	<table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr>
@@ -89,11 +139,6 @@ window.location=links[whichimage]
 <!--
 
 if (document.images) {
-       
-        var marketingn = new Image();
-       marketingn.src = "../images/subnav_whitetab.gif";
-        var marketingr = new Image();
-       marketingr.src = "../images/subnav_whitetab_r.gif"; 
        
         var missionn = new Image();
        missionn.src = "../images/subnav_whitetab.gif";
@@ -125,9 +170,6 @@ function inact(imgName) {
 
 // -->
 </script>
-
-	<a href="template.pl?opt=marketing" onmouseout="inact('marketing')" onmouseover="act('marketing')">
-	 <img src="../images/subnav_whitetab.gif" name="marketing" alt="marketing" border="0" vspace="1" width="17" height="13"><img src="../images/about_nav_marketing.gif" border="0" vspace="1"></a><br>
 
 	<a href="template.pl?opt=mission" onmouseout="inact('mission')" onmouseover="act('mission')">
 	 <img src="../images/subnav_whitetab.gif" name="mission" alt="mission" border="0" vspace="1" width="17" height="13"><img src="../images/about_nav_mission.gif" border="0" vspace="1"></a><br>
@@ -209,6 +251,7 @@ function inact(imgName) {
 	</td>
 
   </tr>
+<!-- Left Side Column -->
   <tr>
 	<td valign="top">
 	
@@ -279,25 +322,29 @@ function inact(imgName) {
 	  <a href="../about/" onmouseover="act('about');popup('Click <i>ABOUT USA SWIMMING</i> for:<br>Marketing Partners<br>Mission Statement<br>The Staff<br>FAQs');" onmouseout="inact('about');kill();">
 	  <img src="../images/subnav_about.gif" name="about" alt="" border="0" width="151" height="22"></a>
 <br><br>
-	<a href="javascript:slidelinkx()"><img src="../images/sponsors/posterad.jpg" name="slidex" border="0" style="filter:blendTrans(duration=3)"></a>
+	<a href="javascript:slidelinkx()"><img src="../images/sponsors/subscription.jpg" name="slidex" border="0" style="filter:blendTrans(duration=3)"></a>
 
 <script language="JavaScript">
 <!--
-var linkx = new Array(3)
-var imagex = new Array(3)
-linkx[1]="http://store.usa-swimming.org/usa/details.asp?ProductID=1383"
-imagex[1]="../images/sponsors/posterad.jpg"
-linkx[2]="http://store.usa-swimming.org"
-imagex[2]="../images/sponsors/storead.jpg"
-linkx[3]="http://store.usa-swimming.org/usa/details.asp?ProductID=1392"
-imagex[3]="../images/sponsors/box.jpg"
+var linkx = new Array(5)
+var imagex = new Array(5)
+linkx[1]="http://www.xpapparel.com/swimofficials/"
+imagex[1]="../images/sponsors/officialsmerch.jpg"
+linkx[2]="http://www.usa-swimming.org/programs/template.pl?opt=news&pubid=506"
+imagex[2]="../images/sponsors/prefdealbox.jpg"
+linkx[3]="http://store.usa-swimming.org/usa/details.asp?ProductID=1410"
+imagex[3]="../images/sponsors/subscription.jpg"
+linkx[4]="http://www.xpapparel.com/unitedwestand/"
+imagex[4]="../images/sponsors/unitedshirt.jpg"
+linkx[5]="http://www.usa-swimming.org/media_services/template.pl?opt=news&pubid=2040"
+imagex[5]="../images/sponsors/wcpromobox.jpg"
 
 ////change number of images below 
-var number_of_imagesx=3
+var number_of_imagesx=5
 //change speed below (in seconds)
 var speedx=6
-var stepx=1
-var whichimagex=1
+var stepx=3
+var whichimagex=3
 function slideitx(){
 if (!document.images)
 return
@@ -365,115 +412,119 @@ function mySubmit() {
     <select name="frmShortCategory" style="font: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 8pt; width=40mm; font-weight: bold">
 	<option value="">Select a section...</option>
         
-            <option value="/index.shtml�">HOME</option>
+            <option value="/index.shtml">HOME</option>
         
-            <option value="/events/template.pl�">EVENTS</option>
+            <option value="/events/template.pl">EVENTS</option>
         
-            <option value="/events/template.pl?opt=international�">- International</option>
+            <option value="/events/template.pl?opt=international">- International</option>
         
-            <option value="/events/template.pl?opt=national�">- National</option>
+            <option value="/events/template.pl?opt=national">- National</option>
         
-            <option value="/events/template.pl?opt=collegiate�">- Collegiate</option>
+            <option value="/events/template.pl?opt=collegiate">- Collegiate</option>
         
-            <option value="/events/template.pl?opt=agegroup�">- Age Group</option>
+            <option value="/events/template.pl?opt=agegroup">- Age Group</option>
         
-            <option value="/events/template.pl?opt=otherevents�">- Other Events</option>
+            <option value="/events/template.pl?opt=otherevents">- Other Events</option>
         
-            <option value="/events/template.pl?opt=fouryearcalendar�">- 4 Year Calendar</option>
+            <option value="/events/template.pl?opt=fouryearcalendar">- 4 Year Calendar</option>
         
-            <option value="/register�">- Meet Registration</option>
+            <option value="/register">- Meet Registration</option>
         
-            <option value="/fast_times/template.pl�">FAST TIMES</option>
+            <option value="/fast_times/template.pl">FAST TIMES</option>
         
-            <option value="/fast_times/template.pl?opt=meetresults�">- Meet Results</option>
+            <option value="/fast_times/template.pl?opt=meetresults">- Meet Results</option>
         
-            <option value="/fast_times/template.pl?opt=recordsranking�">- Records &amp; Rankings</option>
+            <option value="/fast_times/template.pl?opt=recordsranking">- Records &amp; Rankings</option>
         
-            <option value="/fast_times/template.pl?opt=timestandards�">- Time Standards</option>
+            <option value="/fast_times/template.pl?opt=timestandards">- Time Standards</option>
         
-            <option value="/fast_times/template.pl?opt=startimes�">- STAR Times</option>
+            <option value="/fast_times/template.pl?opt=startimes">- STAR Times</option>
         
-            <option value="/superstars/template.pl�">SUPERSTARS</option>
+            <option value="/superstars/template.pl">SUPERSTARS</option>
         
-            <option value="/superstars/template.pl?opt=splash�">- Splash</option>
+            <option value="/superstars/template.pl?opt=splash">- Splash</option>
         
-            <option value="/superstars/template.pl?opt=poolside�">- Poolside</option>
+            <option value="/superstars/template.pl?opt=funfacts">- Fun Facts</option>
         
-            <option value="/superstars/template.pl?opt=funfacts�">- Fun Facts</option>
+            <option value="/superstars/template.pl?opt=biosearch">- Bio Search</option>
         
-            <option value="/superstars/template.pl?opt=biosearch�">- Bio Search</option>
+            <option value="/superstars/template.pl?opt=swimcam">- Swimcam Gallery</option>
         
-            <option value="/superstars/template.pl?opt=swimcam�">- Swimcam Gallery</option>
+            <option value="/superstars/template.pl?opt=appearance">- Appearances</option>
         
-            <option value="/superstars/template.pl?opt=appearance�">- Appearances</option>
+            <option value="/superstars/template.pl?opt=splashtv">- Splash TV</option>
         
-            <option value="/swimkids/template.pl�">SWIM KIDS</option>
+            <option value="/swimkids/template.pl">SWIM KIDS</option>
         
-            <option value="/swimkids/template.pl?opt=bios�">- Bios</option>
+            <option value="/swimkids/template.pl?opt=bios">- Bios</option>
         
-            <option value="/swimkids/template.pl?opt=splash�">- Splash</option>
+            <option value="/swimkids/template.pl?opt=splash">- Splash</option>
         
-            <option value="/swimkids/template.pl?opt=poolside�">- Poolside</option>
+            <option value="/swimkids/template.pl?opt=swimcam">- Swimcam Gallery</option>
         
-            <option value="/swimkids/template.pl?opt=swimcam�">- Swimcam Gallery</option>
+            <option value="/ubb/cgi-bin/Ultimate.cgi">- SwimKids Forum</option>
         
-            <option value="/ubb/cgi-bin/Ultimate.cgi�">- SwimKids Forum</option>
+            <option value="/media_services/template.pl">MEDIA SERVICES</option>
         
-            <option value="/media_services/template.pl�">MEDIA SERVICES</option>
+            <option value="/media_services/template.pl?opt=swimschool">- Swim School</option>
         
-            <option value="/media_services/template.pl?opt=swimschool�">- Swim School</option>
+            <option value="/media_services/template.pl?opt=feature_ideas">- Feature Ideas</option>
         
-            <option value="/media_services/template.pl?opt=feature_ideas�">- Feature Ideas</option>
+            <option value="/media_services/template.pl?opt=pressreleases">- Press Releases</option>
         
-            <option value="/media_services/template.pl?opt=pressreleases�">- Press Releases</option>
+            <option value="/media_services/template.pl?opt=clippings">- Clippings</option>
         
-            <option value="/media_services/template.pl?opt=clippings�">- Clippings</option>
+            <option value="/media_services/template.pl?opt=credentials">- Credential Information</option>
         
-            <option value="/media_services/template.pl?opt=credentials�">- Credential Information</option>
+            <option value="/media_services/template.pl?opt=history">- History</option>
         
-            <option value="/media_services/template.pl?opt=history�">- History</option>
+            <option value="/media_services/template.pl?opt=linkcity">- Link City</option>
         
-            <option value="/media_services/template.pl?opt=linkcity�">- Link City</option>
+            <option value="/media_services/template.pl?opt=presskit">- Press Kit</option>
         
-            <option value="/media_services/template.pl?opt=presskit�">- Press Kit</option>
+            <option value="/programs/template.pl">PROGRAMS &amp; SERVICES</option>
         
-            <option value="/programs/template.pl�">PROGRAMS &amp; SERVICES</option>
+            <option value="/ubb/cgi-bin/Ultimate.cgi">- Forums</option>
         
-            <option value="/ubb/cgi-bin/Ultimate.cgi�">- Forums</option>
+            <option value="/programs/template.pl?opt=camps">- Camps &amp; Clinics</option>
         
-            <option value="/programs/template.pl?opt=camps�">- Camps &amp; Clinics</option>
+            <option value="/programs/template.pl?opt=clubtoolbox">- Club Toolbox</option>
         
-            <option value="/programs/template.pl?opt=clubtoolbox�">- Club Toolbox</option>
+            <option value="/programs/template.pl?opt=sportsscience">- Sports Science</option>
         
-            <option value="/programs/template.pl?opt=sportsscience�">- Sports Science</option>
+            <option value="/programs/template.pl?opt=nationalteam">- National Team</option>
         
-            <option value="/programs/template.pl?opt=nationalteam�">- National Team</option>
+            <option value="/programs/template.pl?opt=openwater">- Open Water</option>
         
-            <option value="/programs/template.pl?opt=openwater�">- Open Water</option>
+            <option value="/programs/template.pl?opt=coaches">- Coaches</option>
         
-            <option value="/programs/template.pl?opt=coaches�">- Coaches</option>
+            <option value="/programs/template.pl?opt=officials">- Officials</option>
         
-            <option value="/programs/template.pl?opt=officials�">- Officials</option>
+            <option value="/programs/template.pl?opt=parents">- Parents</option>
         
-            <option value="/programs/template.pl?opt=parents�">- Parents</option>
+            <option value="/programs/template.pl?opt=adapted">- Adapted</option>
         
-            <option value="/programs/template.pl?opt=adapted�">- Adapted</option>
+            <option value="/programs/template.pl?opt=coachtech">- Coach Tech Support</option>
         
-            <option value="/programs/template.pl?opt=coachtech�">- Coach Tech Support</option>
+            <option value="/programs/template.pl?opt=drugcontrol">- Drug Control</option>
         
-            <option value="/about/template.pl�">ABOUT USA SWIMMING</option>
+            <option value="/programs/template.pl?opt=memberservices">- Member Services</option>
         
-            <option value="/about/template.pl?opt=mission�">- Mission Statement</option>
+            <option value="/programs/template.pl?opt=zone">- Zone News</option>
         
-            <option value="/about/template.pl?opt=staff�">- The Staff</option>
+            <option value="/about/template.pl">ABOUT USA SWIMMING</option>
         
-            <option value="/about/template.pl?opt=contact�">- Contact Information</option>
+            <option value="/about/template.pl?opt=mission">- Mission Statement</option>
         
-            <option value="/about/template.pl?opt=marketing�">- Marketing Partners</option>
+            <option value="/about/template.pl?opt=staff">- The Staff</option>
         
-            <option value="/about/template.pl?opt=faqs�">- FAQs</option>
+            <option value="/about/template.pl?opt=contact">- Contact Information</option>
         
-            <option value="/whats_new/template.pl�">WHAT'S NEW</option>
+            <option value="/about/template.pl?opt=marketing">- Marketing Partners</option>
+        
+            <option value="/about/template.pl?opt=faqs">- FAQs</option>
+        
+            <option value="/whats_new/template.pl">WHAT'S NEW</option>
         
     </select>
     <input type="image" src="../images/sub_but_go.gif" alt="Click here to search for the selected category." border="0"><br>
@@ -486,6 +537,7 @@ function mySubmit() {
 </tbody></table>
 
 	</td>
+<!-- Section Content -->
 	<td valign="top">
 	
 <p align="center"><font size="4" face="Verdana,Arial,sans-serif" color="000066"><b>PRIVACY STATEMENT</b></font></p>
@@ -536,6 +588,7 @@ function mySubmit() {
 
 	</td>
   </tr> 
+<!-- Footer -->
    <tr>
 	<td colspan="3">
 	
@@ -546,50 +599,9 @@ function mySubmit() {
 	</td>
   </tr>
 </tbody></table>
-<div id="dek" class="dek"></div>
-<script type="text/javascript">
-<!--
 
-/*
-Pop up information box II (Mike McGrath (mike_mcgrath@lineone.net,  http://website.lineone.net/~mike_mcgrath))
-Permission granted to Dynamicdrive.com to include script in archive
-For this and 100's more DHTML scripts, visit http://dynamicdrive.com
-*/
 
-Xoffset=0;    // modify these values to ...
-Yoffset= 20;    // change the popup position.
 
-var nav,old,iex=(document.all),yyy=-1000;
-if(navigator.appName=="Netscape"){(document.layers)?nav=true:old=true;}
-
-if(!old){
-var skn=(nav)?document.dek:dek.style;
-if(nav)document.captureEvents(Event.MOUSEMOVE);
-document.onmousemove=get_mouse;
-}
-
-function popup(msg){
-var content="<TABLE  WIDTH=230 BORDER=1 BORDERCOLOR=#cc0000 CELLPADDING=2 CELLSPACING=0 "+
-"BGCOLOR=#000066><TD ALIGN=center><FONT face=Verdana COLOR=white SIZE=1>"+msg+"</FONT></TD></TABLE>";
-if(old){alert(msg);return;} 
-else{yyy=Yoffset;
- if(nav){skn.document.write(content);skn.document.close();skn.visibility="visible"}
- if(iex){document.all("dek").innerHTML=content;skn.visibility="visible"}
- }
-}
-
-function get_mouse(e){
-var x=(nav)?e.pageX:event.x+document.body.scrollLeft;skn.left=x+Xoffset;
-//var x=(nav)?e.pageX:event.x+document.body.scrollLeft;skn.left=Xoffset;
-var y=(nav)?e.pageY:event.y+document.body.scrollTop;skn.top=y+yyy;
-}
-
-function kill(){
-if(!old){yyy=-1000;skn.visibility="hidden";}
-}
-
-//-->
-</script>
 
 
 
