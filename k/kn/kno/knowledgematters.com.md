@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knowledgematters.com privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406194546id_/http%3A//www.knowledgematters.com/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowledgematters.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217140628id_/http%3A//knowledgematters.com/PrivacyStatement.asp) for the most accurate reproduction.*
 
 # Knowledge Matters, Inc.
 
@@ -25,11 +25,11 @@ The Knowledge Matters, Inc. Web Site contains links to other Web Sites. Knowledg
   | 
 
 **What's New!**  
-Knowledge Matters and Glencoe/McGraw-Hill join forces! New activities released online.[(Click Here)](https://web.archive.org/web/20010406194546id_/http%3A//www.knowledgematters.com/SchoolZone/WhatsNew.asp)  
+Knowledge Matters and Glencoe/McGraw-Hill join forces! New activities released online.[(Click Here)](https://web.archive.org/SchoolZone/WhatsNew.asp)  
 
 
 **The Virtual Business Preview**  
-One stop gets it all. Lessons, Program Tour, Testimonials, and a Next Step decision summary. [(Click Here)](https://web.archive.org/SchoolZone/Preview/PreviewStart.asp)
+One stop gets it all. Lessons, Program Tour, Testimonials, and a Next Step decision summary. [ (Click Here)]()
 
 **Virtual Business Success Stories**  
 Video and other testimonials. [(Click Here)](https://web.archive.org/SchoolZone/SuccessStories/SuccessStories.asp)
