@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drscholls.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602145033id_/http%3A//drscholls.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drscholls.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205051711id_/http%3A//drscholls.com/privacy.html) for the most accurate reproduction.*
 
 # Dr. Scholls
 
@@ -29,7 +29,7 @@ When you view one of our websites, advertisements or promotions, we may store so
 
 What about children?
 
-Schering-Plough HealthCare Products has no intention of collecting personally-identifiable information (such as name, address, telephone number) from individuals under 13 years of age. Where appropriate, we will specifically instruct children NOT to provide such information to us. If a child has provided us with personally-identifiable information, we ask that a parent or guardian of the child contact us at info@spcorp.com or 1-901-320-2998 if they would like this information deleted from our records. We will use reasonable efforts to delete the child's information from our existing files.
+Schering-Plough HealthCare Products does not intend this site for child audiences, and has no intention of collecting personally-identifiable information (such as name, address, telephone number) from children under 13 years old. Should a child under 13 attempt to provide us with personally-identifiable information, we will decline to collect that information, and set a session cookie [or use other means for tracking the child while on the site] to make sure the child does not attempt to change his/her age and provide us with his/her personally-identifiable information. If you discover that your child has provided us with personally-identifiable information, we ask that a parent or guardian of the child contact us at [info@spcorp.com](mailto:info@spcorp.com) or 1-901-320-2998 to have this information deleted from our records. We will take all feasible measures to delete the child's information from our existing files.
 
 Your consent
 
