@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allaboutdance.com privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611221055id_/http%3A//www.allaboutdance.com/Merchant2/merchant.mv%3FScreen%3DPRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboutdance.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209222713id_/http%3A//www.allaboutdance.com/Merchant2/merchant.mv%3FScreen%3DPRIVACY) for the most accurate reproduction.*
 
 # Privacy Information
 
@@ -7,33 +7,35 @@
 Quantity in Basket:  | none|    
   
   
-[Account Members Sign-In](https://www.allaboutdance.com/Merchant2/merchant.mv?Session_ID=3D0675730005983F0000352100000000&Screen=LOGN&Order=0&Store_Code=AAD) **Categories**   
-[Dance Accessories](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=AAD&Category_Code=accessories)   
-[Ballet Shoes](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=AAD&Category_Code=ballet)   
-[Ballroom Shoes](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=AAD&Category_Code=ballroom)   
-[Bodywear & Dancewear](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=AAD&Category_Code=body)   
-[Cheerleading](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=AAD&Category_Code=cheerleading)   
-[Exercise & Active Wear](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=AAD&Category_Code=exercise)   
-[Gift Certificates](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=AAD&Category_Code=gift-cert)   
-[Gymnastics](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=AAD&Category_Code=gymnastics)   
-[Jazz](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=AAD&Category_Code=jazz)   
-[Men's Section](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=AAD&Category_Code=mens)   
-[Miscellaneous](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=AAD&Category_Code=misc)   
-[Pointe Shoes](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=AAD&Category_Code=pointe)   
-[Skating](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=AAD&Category_Code=skating)   
-[T-Shirts, Shorts & Sweatshirts](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=AAD&Category_Code=t-short)   
-[Tap Shoes](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=AAD&Category_Code=tap)   
-[Tights](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=AAD&Category_Code=tights)   
-[Colleges/Universities](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=AAD&Category_Code=z-colleges)   
-[Clearance Products](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=AAD&Category_Code=zz-clearance)   
-[New Products](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=AAD&Category_Code=zz-products)
+[Account Members Sign-In](https://www.allaboutdance.com/Merchant2/merchant.mv?Session_ID=3DF518BE00004E9B0000118300000000&Screen=LOGN&Order=0&Store_Code=AAD) **Categories**   
+[DANCE ACCESSORIES](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=AAD&Category_Code=accessories)   
+[BALLET SHOES](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=AAD&Category_Code=ballet)   
+[BALLROOM SHOES](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=AAD&Category_Code=ballroom)   
+[BODYWEAR & DANCEWEAR](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=AAD&Category_Code=body)   
+[CHEERLEADING](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=AAD&Category_Code=cheerleading)   
+[EXERCISE & ACTIVE WEAR](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=AAD&Category_Code=exercise)   
+[GIFT CERTIFICATES](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=AAD&Category_Code=gift-cert)   
+[GYMNASTICS](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=AAD&Category_Code=gymnastics)   
+[JAZZ](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=AAD&Category_Code=jazz)   
+[MEN'S SECTION](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=AAD&Category_Code=mens)   
+[MISCELLANEOUS](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=AAD&Category_Code=misc)   
+[POINTE SHOES](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=AAD&Category_Code=pointe)   
+[SKATING](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=AAD&Category_Code=skating)   
+[STOCKING STUFFERS](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=AAD&Category_Code=stocking)   
+[T-SHIRTS, SHORTS, ETC.](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=AAD&Category_Code=t-short)   
+[TAP SHOES](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=AAD&Category_Code=tap)   
+[TIGHTS](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=AAD&Category_Code=tights)   
+[COLLEGES/UNIVERSITIES](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=AAD&Category_Code=z-colleges)   
+[CLEARANCE PRODUCTS](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=AAD&Category_Code=zz-clearance)   
+[*NEW* PRODUCTS](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=AAD&Category_Code=zz-products)   
+[DANCE MAGAZINES](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Store_Code=AAD&Category_Code=magazines)
 
 **Information**  
 [**Request a CATALOG**](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CATALOG)  
 [Product Search](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=SRCH)  
 [Contact Us](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=INFO#contact)  
 [Return Policy](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=INFO#return)  
-[Shipping Info](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=INFO#shipping)  
+[Shipping Rates](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=INFO#shipping)  
 [Privacy Policy](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=PRIVACY)  
 [Testimonials](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=TESTIMONIALS)
 
@@ -43,8 +45,7 @@ Quantity in Basket:  | none|  
 [Shoe Size Conversions](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=SIZING-SHOES)  
 [Color Charts](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=COLORS)
 
-[   
-click to authenticate](https://www.thawte.com/cgi/server/certdetails.exe?code=USBROA29-1)
+[ ](https://www.thawte.com/cgi/server/certdetails.exe?code=USBROA29-1)
 
 **We Accept**   
 
