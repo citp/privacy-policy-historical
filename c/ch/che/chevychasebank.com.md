@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chevychasebank.com privacy policy that was archived on 1999-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991114144855id_/http%3A//chevychasebank.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chevychasebank.com privacy policy that was archived on 2000-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000615011037id_/http%3A//chevychasebank.com/html/privacy.html) for the most accurate reproduction.*
 
 # Chevy Chase Bank - Privacy Statement
 
