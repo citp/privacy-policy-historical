@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the creators.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202224800id_/http%3A//www.creators.com/privacy.php4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creators.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405105139id_/http%3A//creators.com/privacy.php4) for the most accurate reproduction.*
 
 # Creators.com : Privacy Policy
+
+**In summary**  
+This site uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects and stores anonymous data typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy/>. 
 
 **What information do we collect? How do we use it?**  
 When you use our "Send To a Friend", which allows you to send your favorite creators works to your friends, we use your name and email address. 
