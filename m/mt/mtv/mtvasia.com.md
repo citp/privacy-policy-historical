@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtvasia.com privacy policy that was archived on 2000-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000823061744id_/http%3A//www.mtvasia.com/top/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtvasia.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405192106id_/http%3A//mtvasia.com/Bottom/Privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -85,6 +85,5 @@ Users may unsubscribe to any of our electronic newsletters at any time by follow
 
 **MTV Asia Online**  
 Asiacontent.com  
-47 Pekin Street  
-#02-01/02  
-Singapore 048777 
+152 Beach Road, Gateway East  
+#36-00 Singapore 189721.
