@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfumeemporium.com privacy policy that was archived on 2000-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000616055841id_/http%3A//perfumeemporium.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfumeemporium.com privacy policy that was archived on 2000-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001208151900id_/http%3A//perfumeemporium.com/privacy.cfm) for the most accurate reproduction.*
 
 # Perfume Emporium - Designer fragrances, perfumes, cologne, and skin care at cheap prices!
 
