@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babyage.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603051940id_/http%3A//www.babyage.com/help/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyage.com privacy policy that was archived on 2001-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011203080026id_/http%3A//www.babyage.com/help/Privacy.asp) for the most accurate reproduction.*
 
 # : BabyAge: Baby Strollers, Carseats, Cribs, and more!
 
