@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the muziqpakistan.com privacy policy that was archived on 2002-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020210144041id_/http%3A//www.muziqpakistan.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muziqpakistan.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013013957id_/http%3A//www.muziqpakistan.com/privacy.php) for the most accurate reproduction.*
 
-# Muziqpakistan - The Largest collection of Pakistani songs and media on the web
+# MuziqPakistan - Pakistani songs and music from pop to ghazals, includes PTV Live 24/7
 
 **MuziqPakistan.com Privacy Policy**
 
