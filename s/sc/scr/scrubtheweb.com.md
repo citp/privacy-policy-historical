@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrubtheweb.com privacy policy that was archived on 2003-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030413183111id_/http%3A//www.scrubtheweb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrubtheweb.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207054001id_/http%3A//scrubtheweb.com/privacy.html) for the most accurate reproduction.*
 
 # Scrub The Web Privacy Policy
 
@@ -44,7 +44,7 @@ Scrub The Web uses reasonable efforts not to collect, use or disclose individual
 
 **How can I access or correct any personally identifying information about me?**
 
-To request a copy of the personally identifiable information you have sent to Scrub The Web, please send an email containing your request to support@scrubtheweb.com. You must provide your full name and the e-mail from which the request is received (and to which the response will be sent) must match the e-mail on file with Scrub The Web. You may then correct or delete such information using the procedures specified in the e-mail.
+To request a copy of the personally identifiable information you have sent to Scrub The Web, please contact us by clicking on the " **Contact Us** " link found on virtually all Web pages throughout our site. You must provide your full name and the e-mail from which the request is received (and to which the response will be sent) must match the e-mail on file with Scrub The Web. You may then correct or delete such information using the procedures specified in the e-mail.
 
 **How do I find out more about Scrub The Web's information practices?**
 
@@ -52,13 +52,11 @@ If you have any questions about anything in this Privacy Policy, or about collec
 
 Business and Legal Affairs  
 Scrub The Web  
-835 W. Warner Rd. Suite 101  
-PMB 452  
+835 W. Warner Rd. Suite 101-452  
 Gilbert, AZ 85233  
 Tel: 480.633.5548  
-Fax: 480.633.5548  
-E-Mail: support@scrubtheweb.com
+Fax: 480.633.5548
 
 You may also use the above contact information if you think any information about you is inaccurate, incomplete, or if you want to change the sort of information about you that Scrub The Web may have collected.
 
-This Privacy Policy was last revised on February 22, 2001. 
+This Privacy Policy was last revised on September 27, 2003. 
