@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the creative-weblogging.com privacy policy that was archived on 2004-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041230125334id_/http%3A//www.creative-weblogging.com/archives/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creative-weblogging.com privacy policy that was archived on 2005-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050311052844id_/http%3A//www.creative-weblogging.com/archives/privacy_policy.html) for the most accurate reproduction.*
 
-# Creative Weblogging - "Helping bloggers to succeed"
+# Creative Weblogging - "Serving Great Bloggers"
 
 Creative Weblogging is strongly committed to protect your privacy while you interact with our content. We want to provide a safe and secure environment for you. 
 
