@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tasteofhome.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203030803id_/http%3A//www.reimanpub.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tasteofhome.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605061832id_/http%3A//www.reimanpub.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # RP privacy policy
 
