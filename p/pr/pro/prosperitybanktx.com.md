@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prosperitybanktx.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201214419id_/http%3A//prosperitybanktx.com/Internet_Bank/Net_Bank_Disclosure/Privacy_Policy/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prosperitybanktx.com privacy policy that was archived on 2002-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020415041807id_/http%3A//prosperitybanktx.com/Internet_Bank/Net_Bank_Disclosure/Privacy_Policy/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -33,7 +33,7 @@ When you visit our website at [_www.prosperitybanktx.com_](http://www.prosperity
 § The date and time the pages were accessed  
 § The page or pages you requested
 
-There are instances where you may elect to provide us with personal information.  If you fill out one of our feedback or request forms or send e-mail, you are transmitting the information that applies to you in the form of a message.  This will typically include  information like your name, mailing address, email address, the kind of request you are making, and any other information  necessary to fulfill your request.  You only transmit personally identifying  information that you enter yourself.  This information cannot be collected unless you specifically elect to send it to us.  This information is used internally only for the purpose of fulfilling the request or for contacting you directly and is not given or sold to any other business or organization. 
+There are instances where you may elect to provide us with personal information.  If you fill out one of our feedback or request forms or send e-mail, you are transmitting the information that applies to you in the form of a message.  This will typically include  information like your name, mailing address, e-mail address, the kind of request you are making, and any other information  necessary to fulfill your request.  You only transmit personally identifying  information that you enter yourself.  This information cannot be collected unless you specifically elect to send it to us.  This information is used internally only for the purpose of fulfilling the request or for contacting you directly and is not given or sold to any other business or organization. 
 
 When you submit personally identifying information via one of our feedback or application forms, that information is also encrypted, or scrambled, by your browser before it is transmitted back to our website.  This effectively prevents anyone from intercepting and reading any personal information about you.   **Note that this encryption does not take place if you send us e-mail, but only when you use your   Web browser with one of our site's forms.**
 
@@ -43,10 +43,19 @@ Use of Information About You—
 
 Prosperity BankSM reserves its right to disclose financial information to nonaffiliated third party service providers to the fullest extent permitted by law. 
 
-QUESTIONS?        [PLEASE CONTACT YOUR  LOCAL  BANKING CENTER.](https://web.archive.org/web/20011201214419id_/http%3A//prosperitybanktx.com/About_Us/about_us.HTM)
+QUESTIONS?        [PLEASE CONTACT YOUR  LOCAL  BANKING CENTER.](https://web.archive.org/web/20020415041807id_/http%3A//prosperitybanktx.com/About_Us/about_us.HTM)
 
 PROSPERITY BANKSM –
 
 PROSPERITY BANCSHARESSM
 
  JUNE 2001
+
+ _Prosperity Bank is chartered under the laws of the State of Texas and by state law is subject to regulatory oversight by the Texas Department of Banking.   Any consumer wishing to file a complaint against Prosperity Bank should contact the Texas Department of Banking through one of the means indicated below:
+
+In Person or U.S. Mail: 2601 North Lamar Boulevard, Suite 300, Austin Texas 78705-4294   
+Fax No.: 512-475-1313  
+E-mail: 
+
+_[_consumer.complaints@banking.state.tx.us_](mailto:consumer.complaints@banking.state.tx.us) _  
+Website: www.banking.state.tx.us_
