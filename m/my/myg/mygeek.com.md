@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mygeek.com privacy policy that was archived on 2002-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020205135005id_/http%3A//www.mygeek.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygeek.com privacy policy that was archived on 2002-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021012121702id_/http%3A//www.mygeek.com/privacy.jsp) for the most accurate reproduction.*
 
-# myGeek.com - It's like having your own Personal Shopper
+# myGeek.com - Qualified Leads from the Internets Leading Search Engines
 
 [](https://www.truste.org/validate/4227) This confirms that myGeek.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of:
 
@@ -100,6 +100,7 @@ If you have any questions regarding our privacy policy please contact [CustomerS
 
 U.S. Mail: myGeek.com  
 Attn: Customer Service  
-1435 N. Hayden Road  
-Scottsdale, AZ 85257  
+3636 N. Hayden  
+Suite 590  
+Phoenix, AZ 85012  
 
