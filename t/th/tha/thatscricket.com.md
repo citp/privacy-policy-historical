@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thatscricket.com privacy policy that was archived on 2003-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030629145647id_/http%3A//www.indiainfo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatscricket.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205053059id_/http%3A//www.indiainfo.com/privacy.html) for the most accurate reproduction.*
 
 # Indiainfo: Privacy Policy
 
@@ -14,7 +14,7 @@ We will enable you to communicate your privacy concerns to us and that we will r
 
 We do not disclose any personal information to advertisers and for other marketing and promotional purposes that could be used to personally identify you, such as your password, credit card number and bank account number. The credit card transaction information is protected by the industry standard Secure Socket Layer (SSL).
 
-In case of any concern about your privacy, please write to us at [ **info@team.indiainfo.com**](mailto:info@team.indiainfo.com), we will respond to you immediately.
+In case of any concern about your privacy, please [**write to us**](http://www.indiainfo.com/feedback.html), we will respond to you immediately.
 
   
 
