@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the kohls.com privacy policy that was archived on 2000-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001217075300id_/http%3A//www.kohls.com/site_information/site_information_privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kohls.com privacy policy that was archived on 2001-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010614212613id_/http%3A//www.kohls.com/site_information/site_information_privacy_statement.htm) for the most accurate reproduction.*
 
 # Site Information - Privacy Statement and Legal Notices
 
 **  
 Privacy & Security Policy  
-**This is the Website of Kohl's Department Stores. Our corporate headquarters is located at N56 W17000 Ridgewood Drive, Menomonee Falls, WI, 53051. [More About Kohl's](https://web.archive.org/web/20001217075300id_/http%3A//www.kohls.com/about_kohls/about_us_intro.htm)
+**This is the Website of Kohl's Department Stores. Our corporate headquarters is located at N56 W17000 Ridgewood Drive, Menomonee Falls, WI, 53051. [More About Kohl's](https://web.archive.org/web/20010614212613id_/http%3A//www.kohls.com/about_kohls/about_us_intro.htm)
 
 How We Respect Your Right To Privacy   
 Our Security Standards   
 Online Shopping Security & Privacy   
-[Terms & Conditions](https://web.archive.org/web/20001217075300id_/http%3A//www.kohls.com/site_information/site_information_terms_conditions.htm)
+[Terms & Conditions](https://web.archive.org/web/20010614212613id_/http%3A//www.kohls.com/site_information/site_information_terms_conditions.htm)
 
 **How We Respect Your Right To Privacy**   
 Our Web server does not automatically recognize information regarding the domain or e-mail address of individual visitors. We do collect non-personal and personal information under the following circumstances:
@@ -31,6 +31,6 @@ If you provide us with your telephone number online, you may receive telephone c
 We protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts the information you provide before it travels over the Internet. SSL technology is the industry standard for secure online transactions. Because we use SSL, placing an order online for our **Corporate Gift Card and/or Fundraising Gift Card** at kohls.com is as safe as giving your personal and payment information to us over the phone. 
 
 **Online Shopping Security& Privacy**   
-Currently, our Website does not offer the ability to order merchandise online because we won't settle for anything less than an online shopping experience that is as convenient, secure and as hassle-free as shopping one of our brick-and-mortar locations. When we launch an online store, we will address any issues and how we'll guarantee a safe shopping experience at [www.kohls.com](https://web.archive.org/web/20001217075300id_/http%3A//www.kohls.com/index.html). Please continue to visit our site to watch for updates. 
+Currently, our Website does not offer the ability to order merchandise online because we won't settle for anything less than an online shopping experience that is as convenient, secure and as hassle-free as shopping one of our brick-and-mortar locations. When we launch an online store, we will address any issues and how we'll guarantee a safe shopping experience at [www.kohls.com](https://web.archive.org/web/20010614212613id_/http%3A//www.kohls.com/index.html). Please continue to visit our site to watch for updates. 
 
 If you have additional questions about Kohl's Privacy & Security policy, contact us via e-mail at [webmaster@kohls.com](mailto:webmaster@kohls.com). 
