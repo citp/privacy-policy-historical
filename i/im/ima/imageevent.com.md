@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the imageevent.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603145928id_/http%3A//imageevent.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imageevent.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207124103id_/http%3A//imageevent.com/privacy.jsp) for the most accurate reproduction.*
 
 # ImageEvent Privacy Policy
 
-ImageEvent Privacy Policy
+**ImageEvent Privacy Policy**
 
 At ImageEvent have a firm commitment to safeguarding the privacy of our customers. We are very concerned about your privacy, and we make sure that your information is protected. We want you to be able to enjoy ImageEvent experience safely and privately. 
 
