@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sillydog.org privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606115445id_/http%3A//sillydog.org/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sillydog.org privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207013830id_/http%3A//sillydog.org/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy- SillyDog701
 
