@@ -1,0 +1,67 @@
+> *The following text is extracted and transformed from the nationalnotary.org privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402115153id_/http%3A//www.nationalnotary.org/nnaPrivacy.cfm) for the most accurate reproduction.*
+
+# NationalNotary.org - Privacy Statement
+
+  
+ National Notary Association® Privacy Statement  
+(Last updated: January 2004)
+
+The National Notary Association (NNA) is committed to protecting your privacy. This NNA Privacy Statement governs the data collection and usage within the NNA family of Web sites: NationalNotary.org, SigningAgent.com, NNAcnap.org and any other domain under the ownership or control of the NNA.
+
+Collection of Your Personal Information
+
+The NNA requires you to enter personal information, including your name, e-mail address, home address and telephone number when you contact us with an inquiry through our Web site. This personal information is used for the sole purpose of contacting you with a response to your inquiry. Your personal information is deleted upon the NNA responding to any questions, comments or concerns within your inquiry.
+
+If you choose to place an order through NationalNotary.org, we require you to provide your name, shipping and billing address, e-mail address, phone number and credit card information. This personal information is only used for order fulfillment, credit authorization, and to contact you regarding NNA business. Personal information for the role of credit card authorization may be shared with a third-party credit card processing center in accordance with all state and federal consumer information privacy laws.
+
+The NNA also collects certain information about your computer hardware and software. This information may include: your IP address, browser type, domain names, access times, referring Web site addresses and pages visited within NNA Web sites. This information is used by the NNA for the operation of our Web sites, to maintain quality of the services offered, and to provide general statistics regarding use of the NNA Web sites.
+
+The NNA encourages you to review the privacy statements of Web sites you choose to link to from the NationalNotary.org so that you can understand how those Web sites collect, use and share your information. The NNA is not responsible for the privacy statements or other content on Web sites outside of the NNA family of Web sites.
+
+Use of Your Personal Information
+
+The NNA collects and uses your personal information to operate its family of Web sites and deliver the content and services you have requested. Your personal information may be used to inform you of other products or services available from the NNA. The NNA may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+
+The NNA does not sell, rent or lease its member/customer lists to third parties. The NNA may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your personal information (e-mail, name, address, telephone number) is not transferred to the third party.
+
+We occasionally hire other companies to provide limited services on our behalf, such as handling the processing and delivery of mailings, providing customer support, processing transactions, or performing statistical analysis of our services. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of your information and are prohibited from using that information for any other purpose.
+
+The NNA may access and/or disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law; (b) protect and defend the rights or property of the NNA, including the NNA family of Web sites; or (c) act under exigent circumstances to protect the personal safety of users of the NNA services or members of the public.
+
+Control of Your Personal Information
+
+As an NNA member, you may log in to the NNA Community and select Membership Manager to view and/or edit your personal information at any time. Please keep in mind that changing your address after an order has been placed will not change the shipping address for the order. To make a change to a shipping address after placing an order, you will need to contact customer service at 1-800-876-6827.
+
+As an NSA Section member, you may log in to the NSA Section and select Update Your Profile to view and/or edit your personal information within your listing on SigningAgent.com. All personal information included within your SigningAgent.com listing is considered "public" and is viewable by registered companies searching the SigningAgent.com Directory. The NNA urges you to be careful only to enter information on your SigningAgent.com listing that you are comfortable sharing with registered SigningAgent.com companies.
+
+In each case described above, you will be asked to make your requests while logged into a secure area, so that the NNA can associate your preferences with a particular account. This security safeguard prevents someone else from accessing your personal information or making choices about the usage and control of your personal information.
+
+As part of your NNA and/or NSA Section memberships, you may receive periodic e-mails informing you of technical service issues, product surveys, featured news articles and news about NNA products and services. Most of these e-mails provide an option for you to unsubscribe to future mailings.
+
+Security of Your Personal Information
+
+The NNA is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, located in controlled facilities. When we transmit highly confidential information (such as a credit card number) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+
+Use of Cookies
+
+The NNA uses "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web server in the domain that issued the cookie to you.
+
+One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, as a member of the NNA Community or NSA Section, a cookie helps recall your specific information on subsequent visits enabling you to access such sections from the same computer without the need to log-in multiple times. These cookies are used solely for session management and do not contain any personal information.
+
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the NNA Web sites you visit.
+
+Changes to this Statement
+
+The NNA will occasionally update this Privacy Statement to reflect company and customer feedback. When the NNA posts changes to this Statement, you will see the word "updated" next to the Privacy Statement link appearing at the bottom of all pages. If there are material changes to this Statement or in how the NNA will use your personal information, the NNA will prominently post changes prior to implementing the change. The NNA encourages you to periodically review this Statement to be informed of how the NNA is protecting your information.
+
+Contact Information
+
+The NNA welcomes your comments regarding this Privacy Statement. Please contact us with any comments, questions or concerns by telephone, e-mail or postal mail.
+
+NNA Privacy (Web)  
+National Notary Association  
+9350 De Soto Ave.  
+Chatsworth, CA 91311  
+1-800-876-6827  
+[webmaster@nationalnotary.org](mailto:webmaster@nationalnotary.org)  
+
