@@ -1,14 +1,17 @@
-> *The following text is extracted and transformed from the babez.de privacy policy that was archived on 2002-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021012164404id_/http%3A//www.babez.de/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babez.de privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602203820id_/http%3A//www.babez.de/policy.php) for the most accurate reproduction.*
 
-# Babez.de - Privacy Policy pics cars pictures supercars wallpaper ferrari car mercedes girls bmw and ford 2003 the g35 jaguar 2002 wallpapers new porsche coupe modified tyler super liv lamborghini sport rx8 picture aston martin import gallery dodge mazda bentley for clk sports mustang infiniti rsx tuning exotic naked audi concept free acura pressley phaeton classic jaime tara sale reid spy babez lowrider 2004 gt40 hot lamborgini toyota harley f150 nissan beetle rover lotus maybach s2000 honda can alfa cobra bugatti lincoln photos with alizee lowriders body where find romeo f60 euro hummer bilder fast type supra women davidson ground jessica effects richards 350 svt denise 2001 racing movie fotos 2005 kits screensaver range diablo high show biel model mr2 spyder swain 575m jamie vanquish top sex dominique cayenne maranello saleen amg convertible maserati 156 razor custom navigator gtr best mercedesbenz katie 850 arnage lexus sportcars holmes julia limousine parts 2000 stiles wild lightning theron performance charlize things volvo magellan future auto from erlknig pressly viper integra chrysler ram trucks carspictures japanese calender hynas world videos 360 roadster sexy fastcars corvette clio expensive focus jennifer gta elise v12 logo perfomance images supercar street renault undercover engine chevy xtype austin old poster resolution landrover jpg jetta limo series clasic lamborghinis cavalier csl tvr video cool luxury models erlknige brother spider land neon gift kerry 911 cruiser love sweet race sarah celeb cruel motor powers shots girl 550 slk intentions rs6 chevrolet defender aviator prototype gemballa venturi rsi veyron nude mcgregor truck fastes gto xkr esprit automobile forum touareg hewitt latest speed oldtimer cabrio dtm sportscars emblem babes tonka xjr interior a4fsi discovery silver sportscar thunderbird 750 sites vector jeep dereks escape ferraris american 500 carrera rally fetish woman pontiac magazine cs1 f350 alize x90 lear2000 smart dream replica raider 430 mini modena red italian mclaren
+# Babez.de - Privacy Policy
 
-Babez.de Commitment to Online Security Physical, electronic and managerial procedures have been employed to safeguard the security and integrity of personal information. Personal information is accessible only by staff or volunteers designated to handle online complaints or requests. All Babez.de agents and contractors with access to personal information obtained on the Babez.de web sites are also bound to adhere to this policy. To protect the security of information supplied by businesses applying for participation in the Babez.de privacy program, businesses are provided user names and passwords to access their information. 
-
+Babez.de commitment to Online Security Physical, electronic and managerial procedures have been employed to safeguard the security and integrity of personal information.  
+Personal information is accessible only by staff or volunteers designated to handle online complaints or requests. All Babez.de agents and contractors with access to personal information obtained on the Babez.de web sites are also bound to adhere to this policy.  
 Personal Information that Babez.de May Collect Online Babez.de collects the following types of personal information: e-mail addresses. 
 
-Babez.de does not collect or maintain information from those actually known to be under the age of 13, and no part of our sites are structured to attract anyone under the age of 13. 
-
-How Babez.de Uses Personal Information Collected Online Unless you consent, we will not use your personal information for any purpose other than that for which it is submitted. We use personal information to reply to inquiries, handle complaints, provide operational notices and in program record-keeping. At any time you can add or remove your name from a Babez.de list by contacting us at webmaster@babez.de 
+Babez.de does not collect or maintain information from those actually known to be under the age of 13, and no part of our sites are structured to attract anyone under the age of 13.  
+  
+How Babez.de uses Personal Information Collected Online  
+Unless you consent, we will not use your personal information for any purpose other than that for which it is submitted.  
+We use personal information to reply to inquiries, handle complaints, provide operational notices and in program record-keeping.  
+At any time you can add or remove your name from a Babez.de list by contacting us at webmaster@babez.de 
 
 We never sell or rent your personal information. 
 
@@ -24,13 +27,9 @@ A cookie is a small amount of data that is sent to your browser from a Web serve
 
 Problems If you have a complaint about Babez.de compliance with this privacy policy, you may contact us at webmaster@babez.de. 
 
-* * *
+Third Party Advertising  
+We use Maxworldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here 
 
-**Policy:**
+Third Party Cookies  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.  
 
-**Third Party Advertising**  
-We use Maxworldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone  
-number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp)
-
-**Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
