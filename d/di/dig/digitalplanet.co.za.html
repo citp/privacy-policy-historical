@@ -1,530 +1,345 @@
-<!--The following is the downloaded HTML source of the digitalplanet.co.za privacy policy that was archived on 2000-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001215145200id_/http%3A//www.digitalplanet.co.za/DP/about/default.asp%3FID%3D10) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the digitalplanet.co.za privacy policy that was archived on 2001-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010614132635id_/http%3A//www.digitalplanet.co.za/DP/about/default.asp%3FID%3D10) for the most accurate reproduction.-->
 
 <html><head>
 <meta name="GENERATOR" content="Microsoft Visual Studio 6.0">
-<!-- Include meta tags -->
 <meta name="keywords" content="computer,computers,it,hardware,software, networking, books, pc, shop, shopping, online shop, online computer shop">
 <meta name="keywords" content="cpu, memory, cd rom, cd, dvd, nic, pda, monitor, projector, scanner, modem, motherboard, hub, switch, router">
 <meta name="keywords" content="3COM,3M,Accton, Acer, Adobe, APC, ATL, Axiz, Bay Networks,Casio,Cisco, Compaq, Computer Associates, Corel,  Digi, DLT, Eicon, Epson, Extreme, Fujitsu, Hewlett-Packard, I-Ring, IBM, IMC, Intel, Lexmark, Logitech, Lotus, Lucent,  MGE, Microsoft, Motorola, Nbase-Xyplex, OKI, OS2 Express, Palm, Philips, Pink Software, Psion, QMS, Quantum, Seagate Software, SMC, Symantec, Targus, Tarsus, TrendNet,Visio">
 
 
-<link rel="StyleSheet" href="/dp/common/style.css" type="text/css">
 
-<!-- Include Connection String -->
-
-<!-- Include Menu System -->
+<link rel="StyleSheet" href="/dp/StyleSheet.css" type="text/css">
 
 <script language="JavaScript" type="text/javascript">
 <!--
 
-     NS4 = (document.layers);
-     IE4 = (document.all);
-    ver4 = (NS4 || IE4);
-     IE5 = (IE4 && navigator.appVersion.indexOf("5.")!=-1);
-   isMac = (navigator.appVersion.indexOf("Mac") != -1);
-  isMenu = (NS4 || (IE4 && !isMac) || (IE5 && isMac));
+/*HM_Loader.js
+* by Peter Belesis. v4.0.4 010206
+* Copyright (c) 2001 Peter Belesis. All Rights Reserved.
+*/
 
-function popUp(){return};
-function popDown(){return};
+   HM_DOM = (document.getElementById) ? true : false;
+   HM_NS4 = (document.layers) ? true : false;
+    HM_IE = (document.all) ? true : false;
+   HM_IE4 = HM_IE && !HM_DOM;
+   HM_Mac = (navigator.appVersion.indexOf("Mac") != -1);
+  HM_IE4M = HM_IE4 && HM_Mac;
+HM_IsMenu = (HM_DOM || HM_NS4 || (HM_IE4 && !HM_IE4M));
 
-if (!ver4) event = null;
+HM_BrowserString = HM_NS4 ? "NS4" : HM_DOM ? "DOM" : "IE4";
 
-//-->
-</script>
+if(window.event + "" == "undefined") event = null;
+function HM_f_PopUp(){return false};
+function HM_f_PopDown(){return false};
+popUp = HM_f_PopUp;
+popDown = HM_f_PopDown;
 
-<script language="JavaScript1.2" type="text/javascript">
-<!--
 
-if (isMenu) {
-    menuVersion = 3;
-    
-    menuWidth = 120;
-    childOverlap = 10;
-    childOffset = 5;
-    perCentOver = null;
-    secondsVisible = .5;
-    
-    fntCol = "blue";
-    fntSiz = "7";
-    fntBold = false;
-    fntItal = false;
-    fntFam = "verdana,arial,sans-serif";
-    
-    backCol = "#DDDDDD";
-    overCol = "#FFCCCC";
-    overFnt = "purple";
-    
-    borWid = 2;
-    borCol = "black";
-    borSty = "solid";
-    itemPad = 3;
-    
-    imgSrc = "/dp/common/menu/tri.gif";
-    imgSiz = 10;
-    
-    separator = 1;
-    separatorCol = "red";
-    
-    isFrames = false;      // <-- IMPORTANT for full window
-    navFrLoc = "left";     // <-- display. see below
-    
-    keepHilite = true; 
-    NSfontOver = true;
-    clickStart = false;
-    clickKill = false;
+HM_GL_MenuWidth          = 50;
+HM_GL_FontFamily         = "verdana, arial, sans-serif";
+HM_GL_FontSize           = 7;
+HM_GL_FontBold           = false;
+HM_GL_FontItalic         = false;
+HM_GL_FontColor          = "black";
+HM_GL_FontColorOver      = "#ffffff";
+HM_GL_BGColor            = "white";
+HM_GL_BGColorOver        = "black";
+HM_GL_ItemPadding        = 3;
+
+HM_GL_BorderWidth        = 1;
+HM_GL_BorderColor        = "#548CAB";
+HM_GL_BorderStyle        = "solid";
+HM_GL_SeparatorSize      = 1;
+HM_GL_SeparatorColor     = "#548CAB";
+HM_GL_ImageSrc           = "/Dp/Common/Images/Menu/DP_arrow_dark_yellow.gif";
+HM_GL_ImageSrcLeft       = "/Dp/Common/Images/Menu/DP_arrow_dark_yellow.gif";
+HM_GL_ImageSize          = 7;
+HM_GL_ImageHorizSpace    = 9;
+HM_GL_ImageVertSpace     = 5;
+
+HM_GL_KeepHilite         = true;
+HM_GL_ClickStart         = false;
+HM_GL_ClickKill          = 0;
+HM_GL_ChildOverlap       =5;
+HM_GL_ChildOffset        = 10;
+HM_GL_ChildPerCentOver   = null;
+HM_GL_TopSecondsVisible  = .5;
+HM_GL_StatusDisplayBuild = 0;
+HM_GL_StatusDisplayLink  = 1;
+HM_GL_UponDisplay        = null;
+HM_GL_UponHide           = null;
+
+//HM_GL_RightToLeft        = true;
+HM_GL_CreateTopOnly    = true;
+HM_GL_ShowLinkCursor     = true;
+
+
+if(HM_IsMenu) {
+	document.write("<SCR" + "IPT LANGUAGE='JavaScript1.2' SRC='/dp/common/menu/HM_Arrays.js' TYPE='text/javascript'><\/SCR" + "IPT>");
+	document.write("<SCR" + "IPT LANGUAGE='JavaScript1.2' SRC='/dp/common/menu/HM_Script"+ HM_BrowserString +".js' TYPE='text/javascript'><\/SCR" + "IPT>");
 }
 
+
+//end
 //-->
+</script><script language="JavaScript1.2" src="/dp/common/menu/HM_Arrays.js" type="text/javascript"></script><script language="JavaScript1.2" src="/dp/common/menu/HM_ScriptDOM.js" type="text/javascript"></script> <script language="javascript">
+<!-- Hide JavaScript from Java-Impaired Browsers
+function NavRollOver(oTd) {if (!oTd.contains(event.fromElement)) {oTd.bgColor="#326387";}}
+function NavRollOut(oTd) {if (!oTd.contains(event.toElement)) {oTd.bgColor="#548CAB";}}
+function AdRollOver(oTd) {if (!oTd.contains(event.fromElement)) {oTd.bgColor="#326387";}}
+function AdRollOut(oTd) {if (!oTd.contains(event.toElement)) {oTd.bgColor="#548CAB";}}
+// End Hiding -->
 </script>
 
-<script language="JavaScript1.2">
-<!--
-if (isMenu) {
-document.write("<SCR" + "IPT LANGUAGE='JavaScript1.2' SRC='/dp/common/menu/hierArrays.js'><\/SCR" + "IPT>");
-document.write("<SCR" + "IPT LANGUAGE='JavaScript1.2' SRC='/dp/common/menu/hierMenus.js'><\/SCR" + "IPT>");
-}
-//-->
-</script> 
+<title>Digital Planet -  About Us</title>
 
-<title>Digital Planet - About Us</title>
 </head>
 <body bgcolor="#ffffff" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
-<!-- Site Tracker -->
 
-<!-- Page Header -->
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr bgcolor="#ffffff">
-	<td width="21%" bgcolor="#c6d9ff">
-		<img src="/dp/common/images/Xmaslogos/bluelogo.gif" border="0" width="147" height="70">
-	</td>
-	<td valign="center" align="center">
-	&nbsp;
-	
-	
-	<iframe src="http://banner.coza.com/gen_ad.asp?AREA=dplanet.home/site=dplanet/ammsz=banner468x60/lang=e" scrolling="no" marginwidth="0" marginheight="0" framespacing="0" frameborder="0" width="468" height="60">
-	<A HREF="http://direct.coza.com/accipiter/adclick.exe/AREA=dplanet.home/site=dplanet/lang=e/ammsz=banner468x60">
-	<IMG SRC="http://direct.coza.com/accipiter/adserver.exe/AREA=dplanet.home/site=dplanet/lang=e/ammsz=banner468x60" width="468" height="60" border="0"></A>
-	</iframe> 
-	
-	<!--
-	<IFRAME VSPACE=0 HSPACE=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO FRAMEBORDER=0 WIDTH=468 HEIGHT=82 SRC=http://www.digitalplanet.com.pubcookie.winwin.com/dp/winwin/wwad.html?size=468X60&websiteID=27&type=ZZ&flag=BOTTOM&thirdtag=%3CIFRAME%20src%3D%22http%3A//banner.coza.com/gen_ad.asp%3FAREA%3Ddplanet.home/site%3Ddplanet/ammsz%3Dbanner468x60/lang%3De%22%20scrolling%3D%22no%22%20marginwidth%3D%220%22%20marginheight%3D%220%22%20framespacing%3D%220%22%20frameborder%3D%220%22%20width%3D%22468%22%20height%3D%2260%22%3E%0D%0A%3CA%20HREF%3D%22http%3A//direct.coza.com/accipiter/adclick.exe/AREA%3Ddplanet.home/site%3Ddplanet/lang%3De/ammsz%3Dbanner468x60%22%3E%0D%0A%3CIMG%20SRC%3D%22http%3A//direct.coza.com/accipiter/adserver.exe/AREA%3Ddplanet.home/site%3Ddplanet/lang%3De/ammsz%3Dbanner468x60%22%20width%3D%22468%22%20height%3D%2260%22%20border%3D%220%22%3E%3C/A%3E%0D%0A%3C/IFRAME%3E%20%0D%0A></IFRAME>
-
-<SCRIPT LANGUAGE="JavaScript" SRC=&{ 'http://adserv.winwin.com/ad?size=468X60&websiteID=27&type=ZZ&flag=BOTTOM&thirdtag=%3CIFRAME%20src%3D%22http%3A//banner.coza.com/gen_ad.asp%3FAREA%3Ddplanet.home/site%3Ddplanet/ammsz%3Dbanner468x60/lang%3De%22%20scrolling%3D%22no%22%20marginwidth%3D%220%22%20marginheight%3D%220%22%20framespacing%3D%220%22%20frameborder%3D%220%22%20width%3D%22468%22%20height%3D%2260%22%3E%0D%0A%3CA%20HREF%3D%22http%3A//direct.coza.com/accipiter/adclick.exe/AREA%3Ddplanet.home/site%3Ddplanet/lang%3De/ammsz%3Dbanner468x60%22%3E%0D%0A%3CIMG%20SRC%3D%22http%3A//direct.coza.com/accipiter/adserver.exe/AREA%3Ddplanet.home/site%3Ddplanet/lang%3De/ammsz%3Dbanner468x60%22%20width%3D%22468%22%20height%3D%2260%22%20border%3D%220%22%3E%3C/A%3E%0D%0A%3C/IFRAME%3E%20%0D%0A&scriptcall=yes&t=' + new Date().getTimezoneOffset(); };>
-</SCRIPT>
-<NOSCRIPT>
-<IFRAME src="http://banner.coza.com/gen_ad.asp?AREA=dplanet.home/site=dplanet/ammsz=banner468x60/lang=e" scrolling="no" marginwidth="0" marginheight="0" framespacing="0" frameborder="0" width="468" height="60">
-<A HREF="http://direct.coza.com/accipiter/adclick.exe/AREA=dplanet.home/site=dplanet/lang=e/ammsz=banner468x60">
-<IMG SRC="http://direct.coza.com/accipiter/adserver.exe/AREA=dplanet.home/site=dplanet/lang=e/ammsz=banner468x60" width="468" height="60" border="0"></A>
-</IFRAME> 
-
-</NOSCRIPT>
--->	
-		   
-		<font color="FFFFFF" size="1">
-			<script>
-				<!--
-				n=new Date();document.write('<IMG SRC="HTTP://LiveStat.com/'+Math.round(n.getTimezoneOffset()/60)+'$LSZ'+n.getTime()+'-'+Math.random()+'.cgi?'+document.referrer+'" BORDER=0 WIDTH=1 HEIGHT=1>');
-				//-->
-			</script><img src="HTTP://LiveStat.com/0$LSZ1580417829545-0.3476104310671402.cgi?" border="0" width="1" height="1">
-			
-			<noscript>
-				<IMG SRC=HTTP://LiveStat.com/$LSZ.cgi BORDER=0 WIDTH=1 HEIGHT=1>
-			</noscript>
-		</font>
-		
-	</td>
-</tr>
-
-</tbody></table>
+<table cellspacing="0" cellpadding="0" width="780" border="0" class="MainTable">
 
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
+
+<!-- HEADER ---------------------------------------------------------------------------------------------------->
 <tbody><tr>
-	<!-- cell contains left navigation bar-->
-	<td bgcolor="#c6d9ff" width="21%" valign="top">
-		<center>
-	
-		<br>
-		
-<form action="/dp/search/searchresults.asp" method="get" id="form1" name="form1">
-<table width="90%" cellpadding="2" cellspacing="0" border="0">
-<tbody><tr>
-	<td>
-		<img src="/dp/common/menu/images/product.gif" border="0" align="top" width="141" height="30">
-	</td>
-</tr>
+	<td valign="top" width="160"><a href="http://www.digitalplanet.co.za"><img src="/dp/Common/Images/Header/DP_logo.gif" width="160" height="95" border="0</a"></a></td>
 
-<tr>
-	<td valign="top" align="left">	
-		<input type="text" name="txtSearch" id="txtSearch" size="11">
-		<input type="image" src="/dp/common/images/go.gif" border="0" valign="middle" width="25" height="25">
-	</td>
-</tr>
-</tbody></table>
-</form><table width="90%" cellpadding="2" cellspacing="0" border="0">
-		<tbody><tr>
-			<td>
-				<img src="/dp/common/menu/images/menu.gif" border="0" align="top" width="141" height="31">
-			</td>
-		</tr>
-		
-		<tr>
-			<td>
-			<font face="verdana,arial,sans-serif" size="-1">
-			<a href="/dp/shop/default.asp" onmouseover="popUp('elMenu1',event,1)" onmouseout="popDown('elMenu1')" class="normallink"><img src="/dp/common/menu/images/shopping.gif" border="0" align="center" width="149" height="25"></a>
-			</font></td>
-		</tr>
-		
-		
-		
-		<tr>
-			<td>
-			<font face="verdana,arial,sans-serif" size="-1">
-			<a href="/dp/auction/default.asp" onmouseover="popUp('elMenu2',event,2)" onmouseout="popDown('elMenu2')" class="normallink"><img src="/dp/common/menu/images/auction.gif" border="0" align="center" width="149" height="26"></a>
-			</font></td>
-		</tr>
-		
-		<tr>
-			<td>
-			<font face="verdana,arial,sans-serif" size="-1">
-			<a href="/dp/community/default.asp" onmouseover="popUp('elMenu3',event,3)" onmouseout="popDown('elMenu3')" class="normallink"><img src="/dp/common/menu/images/community.gif" border="0" align="center" width="149" height="25"></a>
-			</font></td>
-		</tr>
-		
-		<tr>
-			<td>
-			<font face="verdana,arial,sans-serif" size="-1">
-			<a href="/dp/content/default.asp" onmouseover="popUp('elMenu4',event,4)" onmouseout="popDown('elMenu4')" class="normallink"><img src="/dp/common/menu/images/content.gif" border="0" align="center" width="149" height="25"></a>
-			</font></td>
-		</tr>
-		
-		<tr>
-			<td>
-			<font face="verdana,arial,sans-serif" size="-1">
-			<a href="/dp/customers/default.asp" onmouseover="popUp('elMenu5',event,5)" onmouseout="popDown('elMenu5')" class="normallink"><img src="/dp/common/menu/images/customer.gif" border="0" align="center" width="149" height="25"></a>
-			</font></td>
-		</tr>
-		
-		<tr>
-			<td>
-			<font face="verdana,arial,sans-serif" size="-1">
-			<a href="/dp/earthweb/default.asp" class="normallink"><img src="/dp/common/menu/images/earthweb.gif" border="0" align="center" width="149" height="25"></a>
-			</font></td>
-		</tr>
-		
-		<tr>
-			<td>
-			<font face="verdana,arial,sans-serif" size="-1">
-			<a href="/DP/about/default.asp" onmouseover="popUp('elMenu6',event,6)" onmouseout="popDown('elMenu6')" class="normallink"><img src="/dp/common/menu/images/help.gif" border="0" align="center" width="149" height="25"></a>
-			</font></td>
-		</tr>
-				
-		
-		<tr>
-			<td align="center">
-			<font face="verdana,arial,sans-serif" size="-1"> 
-			
-			<a href="/dp/common/menu/dynamic.asp?menu=off">
-			<img src="/dp/common/images/menuon.gif" alt="The dynamic menu's are on.  Click here to turn them off." border="0" align="center" width="114" height="25">
-			
-			</a>
-			</font></td>
-		</tr>
-		
-		<tr>
-			<td>
-			<font face="verdana,arial,sans-serif" size="-1">
-			<img src="/dp/common/menu/images/Gaming_Butt_Still.gif" border="0" align="center" width="142" height="31">
-			</font></td>
-		</tr>
-		
-		<tr>
-			<td>
-			<font face="verdana,arial,sans-serif" size="-1">
-			<a href="/dp/shop/level1.asp?L1=6" class="normallink"><img src="/dp/common/menu/images/Game_Shop_Butt.gif" border="0" align="center" width="148" height="25"></a>
-			</font></td>
-		</tr>
-		
-		<!--		<tr>			<td align="center">				<a HREF="http://direct.coza.com/accipiter/adclick.exe/exclusive=dplanet.button1/site=dplanet/lang=e/"><img SRC="http://direct.coza.com/accipiter/adserver.exe/exclusive=dplanet.button1/site=dplanet/lang=e/" width="120" height="60" border="0"></a> 			</td>		</tr>		-->
-		
-		<tr>
-			<td>
-				<img src="/dp/common/menu/images/brand.gif" border="0" align="top" width="142" height="31">
-			</td>
-		</tr>
-		
-		<tr>
-			<td>
-			<font face="verdana,arial,sans-serif" size="-1">
-			<a href="/dp/shop/hp.asp" class="normallink"><img src="/dp/common/menu/images/hpshop.gif" border="0" align="center" width="149" height="25"></a>
-			</font></td>
-		</tr>
-		
-		<tr>
-			<td>
-			<font face="verdana,arial,sans-serif" size="-1">
-			<a href="/dp/shop/palm.asp" class="normallink"><img src="/dp/common/menu/images/palmshop.gif" border="0" align="center" width="149" height="27"></a>
-			</font></td>
-		</tr>
-		
-		<tr>
-			<td>
-			<font face="verdana,arial,sans-serif" size="-1">
-			<a href="/dp/shop/microsoft/microsoft.asp" class="normallink"><img src="/dp/common/menu/images/microsoftshop.gif" border="0" align="center" width="148" height="25"></a>
-			</font></td>
-		</tr>
-		<!--		<tr>			<td>			<font face="verdana,arial,sans-serif" size="-1">			<a HREF="/dp/shop/3com.asp" class="normallink"><img src="/dp/common/menu/images/3comshop.gif" border="0" align="center" WIDTH="149" HEIGHT="24"></a>			</td>		</tr>		-->
-		<tr>
-			<td>
-			<font face="verdana,arial,sans-serif" size="-1">
-			<a href="/dp/shop/mecer/default.asp" class="normallink"><img src="/dp/common/menu/images/mecershop.gif" border="0" align="center" width="149" height="25"></a>
-			</font></td>
-		</tr>
-		
-		<tr>
-			<td>
-			<font face="verdana,arial,sans-serif" size="-1">
-			<a href="/dp/shop/Acer/default.asp" class="normallink"><img src="/dp/common/menu/images/Acer_shop_butt.gif" border="0" align="center" width="149" height="25"></a>
-			</font></td>
-		</tr>
-		
-		<tr>
-			<td>
-			<font face="verdana,arial,sans-serif" size="-1">
-			<a href="/dp/shop/IBM/default.asp" class="normallink"><img src="/dp/common/menu/images/IBM_shop_butt.gif" border="0" align="center" width="149" height="25"></a>
-			</font></td>
-		</tr>	
-		
-		<tr>
-			<td>
-			<font face="verdana,arial,sans-serif" size="-1">
-			<a href="/dp/shop/Consumables/default.asp" class="normallink"><img src="/dp/common/menu/images/Con_shop_butt.gif" border="0" align="center" width="149" height="25"></a>
-			</font></td>
-		</tr>			
-		
-		<tr>
-			<td>
-			<font face="verdana,arial,sans-serif" size="-1">
-			<a href="/dp/shop/epson.asp" class="normallink"><img src="/dp/common/menu/images/EpsonMain.gif" border="0" align="center" width="149" height="25"></a>
-			</font></td>
-		</tr>	 
-				
-		<tr>
-			<td>
-			<font face="verdana,arial,sans-serif" size="-1">
-			<a href="/dp/shop/Canon/default.asp" class="normallink"><img src="/dp/common/menu/images/Canon_shop_butt.gif" border="0" align="center" width="149" height="25"></a>
-			</font></td>
-		</tr>
-		
-		<tr>
-			<td>
-			<font face="verdana,arial,sans-serif" size="-1">
-			<a href="/dp/shop/qms/default.asp" class="normallink"><img src="/dp/common/menu/images/qms_shop_butt.gif" border="0" align="center" width="149" height="25"></a>
-			</font></td>
-		</tr>
-		
-		<tr>
-			<td>
-			<font face="verdana,arial,sans-serif" size="-1">
-			<a href="/dp/shop/Compaq/default.asp" class="normallink"><img src="/dp/common/menu/images/compaq_shop_butt.gif" border="0" align="center" width="149" height="25"></a>
-			</font></td>
-		</tr>
-					
-</tbody></table>
-	
-<table width="90%" cellpadding="2" cellspacing="0" border="0">
-<tbody><tr>
-	<td>
-		<img src="/dp/common/menu/images/basket.gif" border="0" align="top" width="141" height="30">
-	</td>
-</tr>
-
-<tr>
-	<td valign="top" align="center">
-
-	
-	<img src="/dp/common/menu/images/emptytrolley.gif" border="0" width="41" height="37">
-	
-
-	</td>
-</tr>
-
-<tr>
-	<td valign="top" align="center">	
-	<font color="black" face="verdana, arial, sans-serif" size="-2">
-	0 item(s) in your basket
-	</font>
-	<br>
-	<br>
-	
-	<font color="black" face="verdana, arial, sans-serif" size="-2">
-	<a href="/dp/shop/checkOut.asp?Action=ViewBasket" class="navbar" target="_top">
-		<font color="black" onmouseover="this.style.color = '#0293dd'" onmouseout="this.style.color = ''">
-		View Basket
-		</font>
-	</a>
-	</font>
-	<br>
-	
-	<font color="black" face="verdana, arial, sans-serif" size="-2">
-	<a href="/dp/shop/retrieve.asp?Action=ListItems" class="navbar" target="_top">
-		<font color="black" onmouseover="this.style.color = '#0293dd'" onmouseout="this.style.color = ''">
-		Get Saved Basket
-		</font>
-	</a>
-	</font>
-	</td>
-</tr>
-</tbody></table>
-
-
-		</center>
-		<br><br><br><br><br><br>
+	<td valign="top" width="495" align="center" nowrap=""><br>
+	<!-- BANNER GOES HERE -->
+	<a href="http://www.digitalplanet.co.za/dp/add_rotator/redirect.asp?url=http://www.aucor.co.za&amp;BannerID=1003&amp;image=http://www.digitalplanet.co.za/dp/banners/AucorJVC.gif"><img src="http://www.digitalplanet.co.za/dp/banners/AucorJVC.gif" alt="Aucor Banner TV" width="468" height="60" border="0"></a>
+	<!-- BANNER GOES HERE ---------------------------------------------------------------------->
 	</td>
 	
-	<!-- cell for right hand side of page-->
-	<td valign="top">
-	
-	<table width="100%" border="0" cellpadding="0" cellspacing="0">
-	<!-- Tab Navigation Bar -->
+	<td width="125" class="Login" align="right">
+
+
+<table border="0" cellspacing="0" cellpadding="0" height="90">
+
+	<form action="/dp/login/processlogin.asp" target="_self" method="post" id="LoginForm" name="LoginForm"></form>
+
 	<tbody><tr>
-		<td colspan="3" bgcolor="#ffffff">
-		<a href="/dp/default.asp" onmouseover="home.src = '/dp/common/images/tabs/home.gif'" onmouseout="home.src = '/dp/common/images/tabs/home.gif'"><img src="/dp/common/images/tabs/home.gif" border="0" name="home" width="74" height="17"></a><a href="/dp/community/default.asp" onmouseover="community.src = '/dp/common/images/tabs/community_f2.gif'" onmouseout="community.src = '/dp/common/images/tabs/community.gif'"><img src="/dp/common/images/tabs/community.gif" border="0" name="community" width="71" height="17"></a><a href="/dp/content/default.asp" onmouseover="content.src = '/dp/common/images/tabs/content_f2.gif'" onmouseout="content.src = '/dp/common/images/tabs/content.gif'"><img src="/dp/common/images/tabs/content.gif" border="0" name="content" width="73" height="17"></a><a href="/dp/auction/default.asp" onmouseover="auction.src = '/dp/common/images/tabs/auction_f2.gif'" onmouseout="auction.src = '/dp/common/images/tabs/auction.gif'"><img src="/dp/common/images/tabs/auction.gif" border="0" name="auction" width="72" height="17"></a><a href="/dp/shop/default.asp" onmouseover="shop.src = '/dp/common/images/tabs/shop_f2.gif'" onmouseout="shop.src = '/dp/common/images/tabs/shop.gif'"><img src="/dp/common/images/tabs/shop.gif" border="0" name="shop" width="64" height="17"></a><a href="/dp/customers/default.asp" onmouseover="zone.src = '/dp/common/images/tabs/customer_f2.gif'" onmouseout="zone.src = '/dp/common/images/tabs/customer.gif'"><img src="/dp/common/images/tabs/customer.gif" border="0" name="zone" width="72" height="17"></a><a href="/dp/earthweb/default.asp" onmouseover="earth.src = '/dp/common/images/tabs/earthweb_f2.gif'" onmouseout="earth.src = '/dp/common/images/tabs/earthweb.gif'"><img src="/dp/common/images/tabs/earthweb.gif" border="0" name="earth" width="66" height="17"></a></td>
-</tr>
-
-	
-	<!-- Section Image -->
+		<td align="left" class="logintext">e-mail</td>
+	</tr>
 	<tr>
-		<td colspan="3" bgcolor="#c6d9ff" height="40" valign="top">
-		<img src="/dp/common/images/homebanner.gif" border="0" width="350" height="50">
-		</td>
+		<td class="logintext"><input type="text" name="txtUserEMail" value="" size="10"></td>
+	</tr>
+	<tr>
+		<td align="left" class="logintext">password</td>
+	</tr>
+	<tr>
+		<td class="logintext"><input type="password" name="txtPassword" value="" size="10"></td>
 	</tr>
 	
-	<!-- Text Navigation Bar -->
-	<tr bgcolor="#666666">
-	<td colspan="3" valign="top">
-		<font color="white" face="verdana, arial, sans-serif" size="-2">
-		&nbsp;
-		
-		<a href="/dp/login/login.asp" class="navbar">
-		<font color="white" onmouseover="this.style.color = '#ffd485'" onmouseout="this.style.color=''">
-		Log On
-		
-		</font>
-		</a></font><a href="/dp/login/login.asp" class="navbar">
-		</a>
-		
-		<font color="white" face="verdana, arial, sans-serif" size="-2">
-		&nbsp;|&nbsp;
-		<a href="/dp/register/default.asp" class="navbar">
-		<font color="white" onmouseover="this.style.color = '#ffd485'" onmouseout="this.style.color=''">
-		Register
-		</font>
-		</a></font><a href="/dp/register/default.asp" class="navbar">
-		</a>
-		
-		<font color="white" face="verdana, arial, sans-serif" size="-2">
-		&nbsp;|&nbsp;
-		<a href="/dp/search/search.asp" class="navbar">
-		<font color="white" onmouseover="this.style.color = '#ffd485'" onmouseout="this.style.color=''">
-		Search
-		</font>
-		</a></font><a href="/dp/search/search.asp" class="navbar">
-		</a>
-		
-		<font color="white" face="verdana, arial, sans-serif" size="-2">
-		&nbsp;|&nbsp;
-		<a href="/dp/shop/checkOut.asp?Action=ViewBasket" class="navbar">
-		<font color="white" onmouseover="this.style.color = '#ffd485'" onmouseout="this.style.color=''">
-		View Basket
-		</font>
-		</a></font><a href="/dp/shop/checkOut.asp?Action=ViewBasket" class="navbar">
-		</a>
-		
-		<font color="white" face="verdana, arial, sans-serif" size="-2">
-		&nbsp;&nbsp;|&nbsp;&nbsp;
-		<a href="/DP/about/default.asp?ID=2" class="navbar">
-		<font color="white" onmouseover="this.style.color = '#ffd485'" onmouseout="this.style.color=''">
-		Contact Us
-		</font>
-		</a></font><a href="/DP/about/default.asp?ID=2" class="navbar">
-		</a>
-		
-		<font color="white" face="verdana, arial, sans-serif" size="-2">
-		&nbsp;|&nbsp;
-		<a href="/DP/about/default.asp?ID=1" class="navbar">
-		<font color="white" onmouseover="this.style.color = '#ffd485'" onmouseout="this.style.color=''">
-		About us
-		</font>
-		</a></font><a href="/DP/about/default.asp?ID=1" class="navbar">
-		</a>
-		
-		
-		
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		<font color="white" face="verdana, arial, sans-serif" size="-2">
-		15 December 2000
-		</font>
-		
-	</td>
-</tr>	
-
-
 	<tr>
+		<td align="right"><input type="image" border="0" src="/dp/Login/Images/DP_logon.gif"></td>
+	</tr>
+
 	
-	<!----------------------------------------------------------------------------------------->
-	<!-- MAIN BODY STARTS                                                                    -->	
-	<!----------------------------------------------------------------------------------------->
-		<td valign="top" width="73%">
-		
-		<img src="/dp/buttons/spacer.gif" height="5" width="1" border="0"><br>
-		
-<!--Local NavBar-->
-<table width="100%" border="0">
-<tbody><tr>
-  <td>
-	  <font face="verdana, arial, sans-serif" size="-2">
-		You are here: 
-		<a href="/dp/default.asp">
-		<font face="verdana, arial, sans-serif" size="-2" color="black">
-		Home
-		</font> 
-		</a>
-		&nbsp;&gt;&nbsp;
-		<b>About us</b>
-		</font>
-	</td>
-	<td align="right">
-	  <font face="verdana, arial, sans-serif" size="-2">
-		</font>
-	</td>
+
+</tbody></table>
+</td>
 </tr>
+
 </tbody></table>
 
-<br>
 
-<table width="96%" cellpadding="0" align="center" border="0">
+
+
+<table cellspacing="0" cellpadding="0" width="780" height="100%" border="0" class="MainTable">
+	
+<!-- TOP MENU ------------------------------------------------------------>
 <tbody><tr>
-  <td>
-  <font face="verdana, arial, sans-serif" size="-1">
-	  Click on the links below to view further information:
-		<table border="0" width="80%"><tbody><tr><td><b><li><font size="-2"><a class="normallink" href="/dp/about/default.asp?ID=1">Overview</a></font></li></b></td><td><b><li><font size="-2"><a class="normallink" href="/dp/about/default.asp?ID=2">Contacting Us</a></font></li></b></td></tr><tr><td><b><li><font size="-2"><a class="normallink" href="/dp/about/default.asp?ID=3">Delivery Details</a></font></li></b></td><td><b><li><font size="-2"><a class="normallink" href="/dp/about/default.asp?ID=4">Terms and Conditions</a></font></li></b></td></tr><tr><td><b><li><font size="-2"><a class="normallink" href="/dp/about/default.asp?ID=5">Payment Options</a></font></li></b></td><td><b><li><font size="-2"><a class="normallink" href="/dp/about/default.asp?ID=6">Shopping at Digital Planet</a></font></li></b></td></tr><tr><td><b><li><font size="-2"><a class="normallink" href="/dp/about/default.asp?ID=7">Warranties and Returns</a></font></li></b></td><td><b><li><font size="-2"><a class="normallink" href="/dp/about/default.asp?ID=8">How to Register</a></font></li></b></td></tr><tr><td><b><li><font size="-2"><a class="normallink" href="/dp/about/default.asp?ID=9">Jobs at Digital Planet</a></font></li></b></td><td><b><li><font size="-2"><a class="normallink" href="/dp/about/default.asp?ID=10">Your Privacy</a></font></li></b></td></tr><tr><td><b><li><font size="-2"><a class="normallink" href="/dp/about/default.asp?ID=11">Loyalty Program</a></font></li></b></td><td><b><li><font size="-2"><a class="normallink" href="/dp/about/default.asp?ID=12">Security Measures</a></font></li></b></td></tr><tr><td><b><li><font size="-2"><a class="normallink" href="/dp/about/default.asp?ID=13">Legal Disclaimer</a></font></li></b></td><td><b><li><font size="-2"><a class="normallink" href="/dp/about/default.asp?ID=15">Changes at Digital Planet</a></font></li></b></td></tr></tbody></table>
-	  <br>
-	  <hr width="80%" align="center">
-  </font></td>
-  
+	<td bgcolor="#548CAB" colspan="2" width="144" height="50">
+		<table cellspacing="0" cellpadding="0" border="0" bgcolor="#548CAB" width="100%">
+			
+<form action="/dp/search/searchresults.asp" method="get" name="Search"></form>
+			
+			
+				<tbody><tr>
+					<td align="center"><input type="search" size="12" name="txtSearch" class="InputBox"></td>
+					<td align="right"><input type="image" src="/dp/common/images/menu/top/Dp_Go.gif" border="0" width="30" height="19" id="image1" name="image1"></td>	
+				</tr>
+				
+				<tr>
+					<td align="center" valign="center" class="menutextwhite"><a href="/dp/search/search.asp" class="menutextwhite">Search Options</a></td>
+					<td></td>
+				</tr>
+			
+			
+</tbody></table>
+
+	</td>
+	
+	<td width="34" valign="top"><img src="/dp/common/images/menu/top/dp_topbar_curve1.gif" width="34" height="50"></td>
+	
+	<td valign="top" width="592">
+		<table cellspacing="0" cellpadding="0" width="100%" border="0" bgcolor="#548CAB">
+		<tbody><tr>
+			<td align="center"><a href="/dp/shop/default.asp" onmouseover="popUp('HM_Menu1',event)" onmouseout="popDown('HM_Menu1')" class="menutextwhite"><img src="/dp/common/images/menu/top/dp_shopping.gif" border="0" width="42" height="27"></a></td>
+			<td align="center"><a href="/dp/auction/default.asp" onmouseover="popUp('HM_Menu2',event)" onmouseout="popDown('HM_Menu2')" class="menutextwhite"><img src="/dp/common/images/menu/top/dp_auction.gif" border="0" width="42" height="27"></a></td>
+			<td align="center"><a href="/dp/Community/default.asp" onmouseover="popUp('HM_Menu3',event)" onmouseout="popDown('HM_Menu3')" class="menutextwhite"><img src="/dp/common/images/menu/top/dp_community.gif" border="0" width="42" height="27"></a></td>
+			<td align="center"><a href="/dp/Content/default.asp" onmouseover="popUp('HM_Menu4',event)" onmouseout="popDown('HM_Menu4')" class="menutextwhite"><img src="/dp/common/images/menu/top/dp_content.gif" border="0" width="42" height="27"></a></td>
+			<td align="center"><a href="/dp/customers/default.asp" onmouseover="popUp('HM_Menu5',event)" onmouseout="popDown('HM_Menu5')" class="menutextwhite"><img src="/dp/common/images/menu/top/dp_customer.gif" border="0" width="42" height="27"></a></td>
+			<td align="center"><a href="/dp/about/default.asp" onmouseover="popUp('HM_Menu6',event)" onmouseout="popDown('HM_Menu6')" class="menutextwhite"><img src="/dp/common/images/menu/top/dp_help.gif" border="0" width="42" height="27"></a></td>
+			<td align="left" rowspan="2" bgcolor="#CEDCE8"><img src="/dp/common/images/menu/top/dp_topbar_curve2.gif" border="0" width="31" height="50"></td>
+			<td align="center" bgcolor="#CEDCE8"><a href="/dp/shop/checkOut.asp?Action=ViewBasket" onmouseover="popUp('HM_Menu7',event)" onmouseout="popDown('HM_Menu7')" class="menutextblack"><img src="/dp/common/images/menu/top/dp_basket.gif" border="0" width="42" height="27"></a></td>
+		</tr>
+		<tr>
+			<td align="center" class="menutextwhite"><a href="/dp/shop/default.asp" onmouseover="popUp('HM_Menu1',event)" onmouseout="popDown('HM_Menu1')" class="menutextwhite">shopping</a></td>
+			<td align="center" class="menutextwhite"><a href="/dp/auction/default.asp" onmouseover="popUp('HM_Menu2',event)" onmouseout="popDown('HM_Menu2')" class="menutextwhite">auction</a></td>
+			<td align="center" class="menutextwhite"><a href="/dp/Community/default.asp" onmouseover="popUp('HM_Menu3',event)" onmouseout="popDown('HM_Menu3')" class="menutextwhite">community</a></td>
+			<td align="center" class="menutextwhite"><a href="/dp/Content/default.asp" onmouseover="popUp('HM_Menu4',event)" onmouseout="popDown('HM_Menu4')" class="menutextwhite">content</a></td>
+			<td align="center" class="menutextwhite"><a href="/dp/customers/default.asp" onmouseover="popUp('HM_Menu5',event)" onmouseout="popDown('HM_Menu5')" class="menutextwhite">customer zone</a></td>
+			<td align="center" class="menutextwhite"><a href="/dp/about/default.asp" onmouseover="popUp('HM_Menu6',event)" onmouseout="popDown('HM_Menu6')" class="menutextwhite">help</a></td>
+			<td align="center" bgcolor="#CEDCE8" class="menutextblack"><a href="/dp/shop/checkOut.asp?Action=ViewBasket" onmouseover="popUp('HM_Menu7',event)" onmouseout="popDown('HM_Menu7')" class="menutextblack">basket</a></td>
+		</tr>
+</tbody></table>
+	</td>
 </tr>
+<!--------------------------------------------------------------------------->
+
+<!--BODY ------------------------------------------------------------------>
 <tr>
-  <td align="center">
-		<font face="verdana, arial, sans-serif">
-    <h4><u>Your Privacy</u></h4>
-  </font></td>
+
+<!-- LEFT MENU ----------------------------------------------------------->
+<td colspan="1" valign="top" bgcolor="#548cab" height="100%">
+	
+		<table cellspacing="0" cellpadding="0" border="0" bgcolor="#548cab" width="144" class="MainTable"> 
+			
+<script language="javascript">
+<!--
+
+function quicklink(url)
+{
+	location.href=""+(url)
+}
+//-->
+</script>
+
+
+
+
+<form id="form2" name="form2"></form>
+			<tbody><tr>
+				<td valign="top" align="left" bgcolor="#CEDDE8">
+				<a href="/dp/Default.asp">
+				<img src="/Dp/Common/Images/DP_home.gif" width="100%" border="0"></a><br>
+				<select class="MenuQuickLinks" id="select1" name="select1" onchange="quicklink(this.value)">
+					<option value="http://www.digitalplanet.co.za">-----Quick Links----</option>
+					<option value="http://www.digitalplanet.co.za/dp/news/default.asp">News Headlines</option>
+<option value="http://www.digitalplanet.co.za/dp/register/default.asp">Register</option>
+<option value="http://www.digitalplanet.co.za/dp/shop/specials.asp">Specials</option>
+
+				</select>
+				
+				</td>
+			
+			</tr>	
+<tr>
+				<td bgcolor="#CEDCE8" valign="top">
+				<table width="100%" cellspacing="0" cellpadding="0" border="0">
+					<tbody><tr>
+						<td colspan="2"><img src="/dp/common/images/menu/left/Dp_brand_stores.gif" width="143" height="31"></td>
+					</tr>
+					
+					<tr>	<td width="50%" align="center" class="shopmenu"><a href="/dp/shop/theshop.asp?ShopID=18&amp;Shop=Book Shop " title="Book Shop"><img src="/dp/common/images/shops/DP_book_shop.gif" border="0"></a></td>	<td width="50%" align="center" class="shopmenu"><a href="/dp/shop/theshop.asp?ShopID=9&amp;Shop=Canon" title="Canon Shop"><img src="/dp/common/images/shops/DP_canon_shop.gif" border="0"></a></td></tr><tr>	<td colspan="2"><img src="/dp/common/images/menu/left/Dp_shop_divider.gif"></td></tr><tr>	<td width="50%" align="center" class="shopmenu"><a href="/dp/shop/theshop.asp?ShopID=20&amp;Shop=Gaming &amp; Beyond " title="Games &amp; Multimedia"><img src="/dp/common/images/shops/DP_gaming_shop.gif" border="0"></a></td>	<td width="50%" align="center" class="shopmenu"><a href="/dp/shop/theshop.asp?ShopID=1&amp;Shop=Hewlett Packard" title="Hewlett Packard"><img src="/dp/common/images/shops/DP_hp_shop.gif" border="0"></a></td></tr><tr>	<td colspan="2"><img src="/dp/common/images/menu/left/Dp_shop_divider.gif"></td></tr><tr>	<td width="50%" align="center" class="shopmenu"><a href="/dp/shop/theshop.asp?ShopID=6&amp;Shop=Acer " title="Acer shop"><img src="/dp/common/images/shops/DP_acer_shop.gif" border="0"></a></td>	<td width="50%" align="center" class="shopmenu"><a href="/dp/shop/theshop.asp?ShopID=12&amp;Shop=wireless" title="Wireless"><img src="/dp/common/images/shops/DP_wireless_shop.gif" border="0"></a></td></tr><tr>	<td colspan="2"><img src="/dp/common/images/menu/left/Dp_shop_divider.gif"></td></tr><tr>	<td width="50%" align="center" class="shopmenu"><a href="/dp/shop/theshop.asp?ShopID=24&amp;Shop=Toshiba /  Xircom " title="Toshiba /  Xircom"><img src="/dp/common/images/shops/toshiba_shopbutton.gif" border="0"></a></td>	<td width="50%" align="center" class="shopmenu"><a href="/dp/shop/theshop.asp?ShopID=14&amp;Shop=Creative Labs" title="Creative Labs"><img src="/dp/common/images/shops/DP_creative_shop.gif" border="0"></a></td></tr><tr>	<td colspan="2"><img src="/dp/common/images/menu/left/Dp_shop_divider.gif"></td></tr><tr>	<td width="50%" align="center" class="shopmenu"><a href="/dp/shop/theshop.asp?ShopID=8&amp;Shop=Epson " title="Epson"><img src="/dp/common/images/shops/DP_epson_shop.gif" border="0"></a></td>	<td width="50%" align="center" class="shopmenu"><a href="/dp/shop/theshop.asp?ShopID=4&amp;Shop=3com" title="3 com"><img src="/dp/common/images/shops/DP_3com_shop.gif" border="0"></a></td></tr><tr>	<td colspan="2"><img src="/dp/common/images/menu/left/Dp_shop_divider.gif"></td></tr><tr>	<td width="50%" align="center" class="shopmenu"><a href="/dp/shop/theshop.asp?ShopID=15&amp;Shop=Gestetner " title="Gestetner"><img src="/dp/common/images/shops/DP_gestetner_shop.gif" border="0"></a></td>	<td width="50%" align="center" class="shopmenu"><a href="/dp/shop/theshop.asp?ShopID=16&amp;Shop=HandSpring Visor" title="HandSpring Visor"><img src="/dp/common/images/shops/DP_handspring_shop.gif" border="0"></a></td></tr><tr>	<td colspan="2"><img src="/dp/common/images/menu/left/Dp_shop_divider.gif"></td></tr><tr>	<td width="50%" align="center" class="shopmenu"><a href="/dp/shop/theshop.asp?ShopID=11&amp;Shop=Philips " title="Philips"><img src="/dp/common/images/shops/DP_phillips_shop.gif" border="0"></a></td>	<td width="50%" align="center" class="shopmenu"><a href="/dp/shop/theshop.asp?ShopID=22&amp;Shop=Cellular shop" title="Cellular shop"><img src="/dp/common/images/shops/cell_shopbutton.gif" border="0"></a></td></tr><tr>	<td colspan="2"><img src="/dp/common/images/menu/left/Dp_shop_divider.gif"></td></tr><tr>	<td width="50%" align="center" class="shopmenu"><a href="/dp/shop/theshop.asp?ShopID=7&amp;Shop=IBM " title="Ibm Shop"><img src="/dp/common/images/shops/DP_ibm_shop.gif" border="0"></a></td>	<td width="50%" align="center" class="shopmenu"><a href="/dp/shop/theshop.asp?ShopID=23&amp;Shop=Apple Shop" title="Apple Shop"><img src="/dp/common/images/shops/apple_shopbutton.gif" border="0"></a></td></tr><tr>	<td colspan="2"><img src="/dp/common/images/menu/left/Dp_shop_divider.gif"></td></tr><tr>	<td width="50%" align="center" class="shopmenu"><a href="/dp/shop/theshop.asp?ShopID=5&amp;Shop=Mecer " title="Mecer"><img src="/dp/common/images/shops/DP_mecer_shop.gif" border="0"></a></td>	<td width="50%" align="center" class="shopmenu"><a href="/dp/shop/theshop.asp?ShopID=10&amp;Shop=Compaq" title="Compaq"><img src="/dp/common/images/shops/DP_compaq_shop.gif" border="0"></a></td></tr><tr>	<td colspan="2"><img src="/dp/common/images/menu/left/Dp_shop_divider.gif"></td></tr><tr>	<td width="50%" align="center" class="shopmenu"><a href="/dp/shop/theshop.asp?ShopID=3&amp;Shop=Microsoft " title="Microsoft"><img src="/dp/common/images/shops/DP_microsoft_shop.gif" border="0"></a></td>	<td width="50%" align="center" class="shopmenu"><a href="/dp/shop/theshop.asp?ShopID=17&amp;Shop=Psion" title="Psion"><img src="/dp/common/images/shops/DP_psion_shop.gif" border="0"></a></td></tr><tr>	<td colspan="2"><img src="/dp/common/images/menu/left/Dp_shop_divider.gif"></td></tr><tr>	<td width="50%" align="center" class="shopmenu"><a href="/dp/shop/theshop.asp?ShopID=25&amp;Shop=Inks &amp; Toner " title="Inks &amp; Toner"><img src="/dp/common/images/shops/ink_shopbutton.gif" border="0"></a></td>	<td width="50%" align="center" class="shopmenu"><a href="/dp/shop/theshop.asp?ShopID=13&amp;Shop=Targus" title="Targus"><img src="/dp/common/images/shops/DP_notebook_shop.gif" border="0"></a></td></tr><tr>	<td colspan="2"><img src="/dp/common/images/menu/left/Dp_shop_divider.gif"></td></tr><tr>	<td width="50%" align="center" class="shopmenu"><a href="/dp/shop/theshop.asp?ShopID=2&amp;Shop=Palm " title="Palm Shop"><img src="/dp/common/images/shops/DP_palm_shop.gif" border="0"></a></td>	<td width="50%" align="center" class="shopmenu"><a href="/dp/shop/theshop.asp?ShopID=26&amp;Shop=Panasonic" title="Panasonic"><img src="/dp/common/images/shops/panasonic_shopbutton1.gif" border="0"></a></td></tr><tr>	<td colspan="2"><img src="/dp/common/images/menu/left/Dp_shop_divider.gif"></td></tr>
+					
+				</tbody></table>
+				</td>
+				<!--<td bgcolor="#ffffff" Class="MainTable">&nbsp;</td>-->
+			</tr><tr>
+				<td bgcolor="#548CAB" valign="top">
+				
+				<table width="100%" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>	
+					<td colspan="2"><img src="/dp/common/images/menu/left/Dp_shoptable_bot.gif" width="143" height="4"></td>
+				</tr>
+				<tr>	
+					<td colspan="2"></td>
+				</tr>
+				
+				<tr>	
+					<td colspan="2"><img src="/dp/common/images/menu/left/Dp_buttons_divider.gif" width="143" height="2"></td>
+				</tr>
+				<tr>	
+					<td nowrap="" align="right" valign="middle" bgcolor="#548CAB" onmouseover="AdRollOver(this);" onmouseout="AdRollOut(this)"><a href="/dp/vendorzone/default.asp" class="menutextlinks" onmouseover="style.color='#FEDA0E'" onmouseout="style.color='white'">Vendor Zone</a>&nbsp;&nbsp;</td><td><img src="/dp/Common/Images/Menu/Left/DP_single_arrow.gif" width="6" height="8"></td>
+				</tr>
+				<tr>	
+					<td colspan="2"><img src="/dp/common/images/menu/left/Dp_buttons_divider.gif" width="143" height="2"></td>
+				</tr>
+				<tr>	
+					<td nowrap="" align="right" bgcolor="#548CAB" onmouseover="AdRollOver(this);" onmouseout="AdRollOut(this)"><a href="/dp/servicesdirectory/default.asp" class="menutextlinks" onmouseover="style.color='#FEDA0E'" onmouseout="style.color='white'">Services Directory</a>&nbsp;&nbsp;</td><td><img src="/dp/Common/Images/Menu/Left/DP_single_arrow.gif" width="6" height="8"></td>
+				</tr>
+				<tr>	
+					<td colspan="2"><img src="/dp/common/images/menu/left/Dp_buttons_divider.gif" width="143" height="2"></td>
+				</tr>
+				
+				<tr>	
+					<td nowrap="" align="right" bgcolor="#548CAB" onmouseover="AdRollOver(this);" onmouseout="AdRollOut(this)"><a href="/dp/events/default.asp" class="menutextlinks" onmouseover="style.color='#FEDA0E'" onmouseout="style.color='white'">Events Calendar</a>&nbsp;&nbsp;</td><td><img src="/dp/Common/Images/Menu/Left/DP_single_arrow.gif" width="6" height="8"></td>
+				</tr>
+				<tr>	
+					<td colspan="2"><img src="/dp/common/images/menu/left/Dp_buttons_divider.gif" width="143" height="2"></td>
+				</tr>
+				
+				<!--
+					<td align="center" colspan="2"><br>
+					<img SRC="/dp/homepage/Images/compfare_logo.gif"><br><a class="menutextlinks" onmouseover="style.color='#FEDA0E'" onmouseout="style.color='white'"> Find us at this years computer faire @ Hall 3, stand A7.
+					</td>
+				</tr>
+				-->		
+	
+				
+				<!--				<tr>						<td nowrap align=right  bgcolor="#548CAB"  onMouseOver=AdRollOver(this); onMouseOut=AdRollOut(this)><a href="" class="menutextlinks" onmouseover="style.color='#FEDA0E'" onmouseout="style.color='white'">Security Center</a>&nbsp;&nbsp;</td><td><img SRC="/dp/Common/Images/Menu/Left/DP_single_arrow.gif" WIDTH="6" HEIGHT="8"></td>				</tr>				<tr>						<td colspan="2"><img src="/dp/common/images/menu/left/Dp_buttons_divider.gif" WIDTH="143" HEIGHT="2"></td>				</tr>				<tr>						<td nowrap  align=right  bgcolor="#548CAB"  onMouseOver=AdRollOver(this); onMouseOut=AdRollOut(this)><a href="" class="menutextlinks" onmouseover="style.color='#FEDA0E'" onmouseout="style.color='white'">Virus Center</a>&nbsp;&nbsp;</td><td><img SRC="/dp/Common/Images/Menu/Left/DP_single_arrow.gif" WIDTH="6" HEIGHT="8"></td>				</tr>				<tr>						<td colspan="2"><img src="/dp/common/images/menu/left/Dp_buttons_divider.gif" WIDTH="143" HEIGHT="2"></td>				</tr>				-->
+				</tbody></table>
+				
+				</td>
+	
 </tr>
-<tr>
-  <td>
-    	<font face="verdana, arial, sans-serif" color="black" size="-1">
-			<b>Digital Planet respects your privacy</b>
+			
+		</tbody></table>		
+	</td>
+	
+	<td valign="top" align="left"><img src="/dp/common/images/menu/left/Dp_smallcurve_top.gif" width="9" height="14"></td>
+<!--------------------------------------------------------------------------->
+
+<!-- CONTENT -->	
+	<td colspan="2" valign="top">
+	
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+		<tbody><tr>
+			<td width="450">&nbsp;<font size="-2">You are here  &gt;&gt;  <b>About Us</b></font></td>
+			<td width="150" align="center">14 June 2001</td>
+		</tr>
+		<tr>
+			<td><br></td>
+		</tr>
+		</tbody></table>	
+	
+	<!-----CODE GOES HERE -------------------------------------------->
+	
+	<table width="600" cellpadding="0" bgcolor="white" align="center" border="0">
+	
+	<tbody><tr>
+	  <td>
+		  Click on the links below to view further information:
+			<table border="0" width="90%"><tbody><tr><td><b><li><a href="/dp/about/default.asp?ID=1">Overview</a></li></b></td><td><b><li><a href="/dp/about/default.asp?ID=2">Contacting Us</a></li></b></td></tr><tr><td><b><li><a href="/dp/about/default.asp?ID=3">Delivery Details</a></li></b></td><td><b><li><a href="/dp/about/default.asp?ID=4">Terms and Conditions</a></li></b></td></tr><tr><td><b><li><a href="/dp/about/default.asp?ID=5">Payment Options</a></li></b></td><td><b><li><a href="/dp/about/default.asp?ID=6">Shopping at Digital Planet</a></li></b></td></tr><tr><td><b><li><a href="/dp/about/default.asp?ID=7">Warranties and Returns</a></li></b></td><td><b><li><a href="/dp/about/default.asp?ID=8">How to Register</a></li></b></td></tr><tr><td><b><li><a href="/dp/about/default.asp?ID=9">Jobs at Digital Planet</a></li></b></td><td><b><li><a href="/dp/about/default.asp?ID=10">Your Privacy</a></li></b></td></tr><tr><td><b><li><a href="/dp/about/default.asp?ID=11">Loyalty Program</a></li></b></td><td><b><li><a href="/dp/about/default.asp?ID=12">Security Measures</a></li></b></td></tr><tr><td><b><li><a href="/dp/about/default.asp?ID=13">Legal Disclaimer</a></li></b></td><td><b><li><a href="/dp/about/default.asp?ID=15">Changes at Digital Planet</a></li></b></td></tr></tbody></table>
+		  <br>
+		  <hr>
+	  </td>
+	  
+	</tr>
+	
+	<tr>
+	  <td align="center" class="tblheader">
+	    Your Privacy
+	  </td>
+	</tr>
+	<tr>
+	  <td>&nbsp;</td>
+	</tr>
+	<tr>
+	  <td>				<b>Digital Planet respects your privacy</b>
 			This statement discloses the privacy practices for both
 			our Web site and email system. 
 			<br><br>
@@ -602,9 +417,8 @@ on "Edit Personal Details". Here you may update your name, password,
 billing address, shipping address, and telephone number.
 
 			<br><br>
-
-  </font></td>
-</tr>
+</td>
+	</tr>
 </tbody></table>
 
 
@@ -612,190 +426,58 @@ billing address, shipping address, and telephone number.
 <!-- MAIN BODY ENDS                                                                      -->	
 <!----------------------------------------------------------------------------------------->
 		
-	<!--footer-->
-		</td>
 	
-	<!-- Spacing cell -->
-		<td width="1%" valign="top">
-		
-		</td>
-		
-		<!-- cell for right nav bar -->
-		<td width="26%" align="right" valign="top">
-		
-			<img src="/dp/buttons/spacer.gif" height="5" width="1" border="0"><br>
-			<table width="100%" cellpadding="2" cellspacing="0" border="0">
-<tbody><tr>
-	<td bgcolor="#000000">
-		<img src="/dp/common/images/swoosh.gif" border="0" align="top" width="26" height="19">
-		<font face="verdana,arial,sans-serif" size="-1" color="white">
-		<b>Registration</b>
-		</font>
+	<!-----CODE ENDS HERE -------------------------------------------->
+	
+	
+	
 	</td>
+<!-------------------------------------------------------------------------->
+
 </tr>
+<!-------------------------------------------------------------------------->
+
+<!-- FOOTER ------------------------------------------------------------->
+
 
 <tr>
-	<td valign="top" bgcolor="#ffffff">	
-	<font color="black" face="verdana, arial, sans-serif" size="-2">
-	<a href="/dp/register/default.asp" class="navbar">
-		<font color="red" onmouseover="this.style.color = '#0293dd'" onmouseout="this.style.color = ''">
-		Register Now - It's Free!
-		</font>
-	</a>
-	</font>
-	<br>
-	
-	<font color="black" face="verdana, arial, sans-serif" size="-2">
-	<a href="/DP/about/default.asp?ID=11" class="navbar">
-		<font color="black" onmouseover="this.style.color = '#0293dd'" onmouseout="this.style.color = ''">
-		Loyalty Program
-		</font>
-	</a>
-	</font>
-	<br>
-	
-	<font color="black" face="verdana, arial, sans-serif" size="-2">
-	<a href="/DP/about/default.asp?ID=10" class="navbar">
-		<font color="black" onmouseover="this.style.color = '#0293dd'" onmouseout="this.style.color = ''">
-		Privacy
-		</font>
-	</a>
-	</font>
-	<br>
-	
-	<font color="black" face="verdana, arial, sans-serif" size="-2">
-	<a href="/DP/about/default.asp?ID=12" class="navbar">
-		<font color="black" onmouseover="this.style.color = '#0293dd'" onmouseout="this.style.color = ''">
-		Security
-		</font>
-	</a>
-	</font>
-	<br>
+		<td width="144" bgcolor="#548CAB">&nbsp;</td>
+		<td valign="bottom" colspan="3"><img src="/dp/common/images/menu/left/Dp_smallcurve_bot.gif" width="9" height="14"></td>
+</tr>
+
+
+
+<tr>
+		<td valign="top" bgcolor="#548CAB" width="150" colspan="2">&nbsp;</td>
+		<td valign="top" bgcolor="#CEDDE8"><img src="/dp/common/images/footer/dp_bottombar_curve.gif" width="30" height="50"></td>
+		<td bgcolor="#CEDDE8" align="center" class="footertext">
+			<a href="/DP/about/default.asp?ID=1" class="footertext">About Us</a> |
+			<a href="/dp/about/default.asp?ID=10" class="footertext"> Privacy</a> | 
+			<a href="/dp/about/default.asp?ID=12" class="footertext">Security</a> | 
+			<a href="/dp/about/default.asp?ID=3" class="footertext">Delivery</a> | 
+			<a href="/dp/faq/default.asp" class="footertext">F.A.Q</a> | 
+			<a href="/dp/about/default.asp?ID=2" class="footertext">Contact Us</a>
 			
-	<font color="black" face="verdana, arial, sans-serif" size="-2">
-	<a href="/DP/about/default.asp?ID=3" class="navbar">
-		<font color="black" onmouseover="this.style.color = '#0293dd'" onmouseout="this.style.color = ''">
-		Delivery
-		</font>
-	</a>
+		   
+    <font color="FFFFFF" size="1">
+		<script>
+			<!--
+			n=new Date();document.write('<IMG SRC="HTTP://LiveStat.com/'+Math.round(n.getTimezoneOffset()/60)+'$LSZ'+n.getTime()+'-'+Math.random()+'.cgi?'+document.referrer+'" BORDER=0 WIDTH=1 HEIGHT=1>');
+			//-->
+		</script><img src="HTTP://LiveStat.com/0$LSZ1580417831145-0.6093958892664924.cgi?" border="0" width="1" height="1">
+		
+		<noscript>
+			<img SRC="HTTP://LiveStat.com/$LSZ.cgi" BORDER="0" WIDTH="1" HEIGHT="1">
+		</noscript>
 	</font>
-	<br>
-	
-	<font color="black" face="verdana, arial, sans-serif" size="-2">
-	<a href="/dp/faq/default.asp" class="navbar">
-		<font color="black" onmouseover="this.style.color = '#0293dd'" onmouseout="this.style.color = ''">
-		F.A.Q
-		</font>
-	</a>
-	</font>
-	</td>
-</tr>
-</tbody></table>
 
-
-			<br>
-			<form action="/DP/login/processlogin.asp" target="_self" method="post" id="loginform" name="loginform">
-<table width="100%" cellpadding="2" cellspacing="0" border="0">
-<tbody><tr>
-	<td bgcolor="#000000">
-		<img src="/dp/common/images/swoosh.gif" border="0" align="top" width="26" height="19">
-		<font face="verdana,arial,sans-serif" size="-1" color="white">
-		<b>Log On</b>
-		</font>
-	</td>
-</tr>
-
-<tr>
-	
-	
-	<td valign="top" bgcolor="#ffffff">	
-		<font face="Verdana, Arial, sans-serif" size="-2">
-		E-Mail Address
-		</font>
-		<br>
-		
-		<input name="txtUserEMail" id="txtUserEMail">
-		
-		<br>
-		<font face="Verdana, Arial, sans-serif" size="-2">
-		Password
-		</font>
-		<br>
-		<input type="password" name="txtPassword" id="txtPassword">
-		<center>
-		<input type="submit" value="Submit"> 
-		</center>
-		<a href="/dp/login/forgot.asp">
-		<font face="verdana, arial, sans-serif" size="-2" color="black">
-		Forgotten your password?
-		</font></a><font face="verdana, arial, sans-serif" size="-2" color="black">	
-	</font></td>
-	
-</tr>
-</tbody></table>
-</form>
-<form action="/dp/subscribe/results.asp" method="get">
-<table width="100%" cellpadding="2" cellspacing="0" border="0">
-<tbody><tr>
-	<td bgcolor="#000000">
-		<img src="/dp/common/images/swoosh.gif" border="0" align="top" width="26" height="19">
-		<font face="verdana,arial,sans-serif" size="-1" color="white">
-		<b>Newsletter</b>
-		</font>
-	</td>
-</tr>
-
-<tr>
-	<td>
-	<input name="email" value="Your E-mail address here" onfocus="this.value=''">
-	</td>
-</tr>
-
-<tr>
-	<td align="center">
-	<input name="Action" type="hidden" value="Add">
-	<input type="submit" value="Subscribe">
-	</td>
-</tr>
-</tbody></table>
-</form>
-
-
-			<br><br><br><br><br><br>	
-		
 		</td>
-		
-				
-	</tr>
-	</tbody></table>
-	
-	</td>
 </tr>
 
 
+<!-------------------------------------------------------------------------->
 </tbody></table>
-<!-- Close Connection String -->
 
-
-<!-- Display Footer -->
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-	<td width="21%" bgcolor="#c6d9ff">
-	&nbsp;
-	</td>
-	
-	<td align="center">
-	&nbsp;
-	
-	<iframe src="http://banner.coza.com/gen_ad.asp?AREA=dplanet.home/site=dplanet/ammsz=banner468x60/lang=e" scrolling="no" marginwidth="0" marginheight="0" framespacing="0" frameborder="0" width="468" height="60">
-	<A HREF="http://direct.coza.com/accipiter/adclick.exe/AREA=dplanet.home/site=dplanet/lang=e/ammsz=banner468x60">
-	<IMG SRC="http://direct.coza.com/accipiter/adserver.exe/AREA=dplanet.home/site=dplanet/lang=e/ammsz=banner468x60" width="468" height="60" border="0"></A>
-	</iframe> 
-	
-	
-	</td>
-</tr>
-</tbody></table>
 
 
 
