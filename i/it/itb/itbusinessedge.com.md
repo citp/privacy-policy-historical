@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itbusinessedge.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204181233id_/http%3A//www.itbusinessedge.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itbusinessedge.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603091822id_/http%3A//www.itbusinessedge.com/privacy.aspx) for the most accurate reproduction.*
 
 # IT Business Edge
 
@@ -43,4 +43,4 @@ You may update your personal information at any time by visiting the IT Business
 If this privacy policy changes in any significant way, a notice will appear on the IT Business Edge Web site and/or you will be notified by e-mail.
 
 8\. To Contact IT Business Edge  
-Should you have any questions or comments regarding this privacy policy, please contact us at: [privacy@itbusinessedge.com](mailto:privacy@itbe.com).
+Should you have any questions or comments regarding this privacy policy, please contact us at: [privacy@itbe.com](mailto:privacy@itbe.com?subject=Does%20your%20policy%20cover%20this).
