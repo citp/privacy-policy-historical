@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldstart.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204204054id_/http%3A//www.worldstart.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldstart.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622054206id_/http%3A//www.worldstart.com/privacy.htm) for the most accurate reproduction.*
 
 # WorldStart
 
@@ -57,6 +57,10 @@ Should you have any questions on our privacy policy, feel free to contact us at 
 
 [steve@worldstart.com](mailto:steve@worldstart.com)
 
+|    
+---|---  
+  |    
+  
 **Great Deals Just For You!  
 ****  
 **
