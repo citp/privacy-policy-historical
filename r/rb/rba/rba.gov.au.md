@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rba.gov.au privacy policy that was archived on 2001-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010605233257id_/http%3A//www.rba.gov.au/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rba.gov.au privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201221549id_/http%3A//www.rba.gov.au/PrivacyStatement) for the most accurate reproduction.*
 
 # RBA: Privacy Statement
 
@@ -6,7 +6,7 @@ The Reserve Bank of Australia (RBA) is committed to respecting the privacy of vi
 
 ### What information do we collect when you visit our site?
 
-When you connect to our website, our service provider (ISP) makes a record of your connection but we do not collect any information that identifies you personally or gives details on your use of the site. In particular, the RBA does not use "cookies" to get information on you or your use of our site. (A "cookie" is a file that could be placed on your hard drive by a website without your knowledge to allow it to monitor how the site is used). We would inform you before any "cookies" were used by posting any changes to this policy on this page.
+When you connect to our website, our Internet service provider (ISP) makes a record of your connection but we do not collect any information that identifies you personally or gives details on your use of the site. In particular, the RBA does not use 'cookies' to get information on you or your use of our site. (A 'cookie' is a file that could be placed on your hard drive by a website without your knowledge to allow it to monitor how the site is used). We would inform you before any 'cookies' were used by posting any changes to this policy on this page.
 
 Information from ISP logs will only be disclosed if the RBA is required by law to do so.
 
