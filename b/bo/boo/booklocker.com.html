@@ -1,51 +1,146 @@
-<!--The following is the downloaded HTML source of the booklocker.com privacy policy that was archived on 2000-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20000618152832id_/http%3A//www.booklocker.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the booklocker.com privacy policy that was archived on 2000-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001206195700id_/http%3A//www.booklocker.com/privacy.html) for the most accurate reproduction.-->
 
 <html><!-- #BeginTemplate "/Templates/catergorypages.dwt" --><head>
+
+<title>Booklocker.com - Your Bookstore For The Unique, Eclectic and Different</title>
 <!-- #BeginEditable "doctitle" --> <!-- #BeginEditable "doctitle" --> 
 <title>BookLocker.com</title>
 <!-- #EndEditable --> <!-- #EndEditable --> 
+<script language="JavaScript">
+<!--
+function MM_validateForm() { //v2.0
+  var i,objStr,field,theCheck,atPos,theNum,colonPos,min,max,errors='';
+  for (i=0; i<(MM_validateForm.arguments.length-2); i+=3) {
+    objStr = MM_validateForm.arguments[(navigator.appName == 'Netscape')?i:i+1];
+    if ((objStr.indexOf('document.layers[')==0 && document.layers==null) ||
+        (objStr.indexOf('document.all[')   ==0 && document.all   ==null))
+      objStr = 'document'+objStr.substring(objStr.substring(0,objStr.lastIndexOf('.')).
+                 lastIndexOf('.'),objStr.length);  //fix layer ref if not supp
+    field = eval(objStr);
+    field.name = (field.name)?field.name:objStr;
+    theCheck = MM_validateForm.arguments[i+2];
+    if (field.value) { //IF NOT EMPTY FIELD
+      if (theCheck.indexOf('isEmail') != -1) { //CHECK EMAIL
+        atPos = field.value.indexOf('@');
+        if (atPos < 1 || atPos == (field.value.length - 1))
+          errors += '- '+field.name+' must contain an e-mail address.\n';
+      } else if (theCheck != 'R') { //START NUM CHECKS
+        theNum = parseFloat(field.value);
+        if (field.value != ''+theNum) errors += '- '+field.name+' must contain a number.\n';
+        if (theCheck.indexOf('inRange') != -1) { //CHECK RANGE
+          colonPos = theCheck.indexOf(':');
+          min = theCheck.substring(8,colonPos);
+          max = theCheck.substring(colonPos+1,theCheck.length);
+          if (theNum < min || max < theNum) //bad range
+            errors += '- '+field.name+' must contain a number between '+min+' and '+max+'.\n';
+    } } }
+    else if (theCheck.charAt(0) == 'R') errors += '- '+field.name+' is required.\n';
+  }
+  if (errors) alert('The following error(s) occurred:\n'+
+                    errors);
+  document.MM_returnValue = (errors == '')
+}
+//-->
+</script>
 </head>
 <body link="#FF8000" vlink="#FF8000" alink="#FF8000" bgcolor="#FFFFFF">
-<table cellspacing="0" cellpadding="0" border="0" width="85%">
+<table cellspacing="0" cellpadding="0" border="0" width="85%" align="center">
   <tbody><tr> 
     <td width="180" height="1150" rowspan="11" valign="top" bgcolor="#FFFFFF"> 
       <p><strong><a href="http://www.booklocker.com/"><img src="http://www.booklocker.com/images/logosm.gif" width="175" height="72" border="0"><br>
         <br>
         </a></strong></p>
-      <p><b><font face="Arial, Helvetica, sans-serif" size="2">Subscribe to eBookExcerpt!<br>
-        </font></b><font size="2" face="Arial, Helvetica, sans-serif"><b>It's 
-        FREE!</b></font> 
-      </p><form method="post" action="http://www.writersmarkets.com/cgi-bin/cgiemail/subsbl.txt" name="">
-          <input type="hidden" name="success" value="http://www.booklocker.com/mailformsub.html">
-          <br>
-          <input type="text" name="email" size="16" maxlength="38" value="enter email address">
-          <input type="submit" name="submit_info" value="join">
-          <br>
+      <p><b><font face="Arial, Helvetica, sans-serif" size="2">Subscribe to eBookExcerpt! 
+        </font></b> 
+      </p><form method="post" action="http://www.booklocker.com/phpscripts/subscribe.php3" name="">
+  <p align="left"> 
+    <input type="hidden" name="success" value="http://www.booklocker.com/mailformsub.html">
+    <input type="text" name="emailaddress" size="16" maxlength="38" value="enter email address">
+          <input type="submit" name="submit_info" value="join - it's free" onclick="MM_validateForm('document.forms[0].emailaddress','document.forms[0].emailaddress','RisEmail');return document.MM_returnValue">
+    <br>
+  </p>
+</form>
+      <p align="center"><font face="Arial, Helvetica, sans-serif" size="3"><b><a href="http://www.booklocker.com/">BOOKLOCKER'S 
         <br>
-      </form>
-      <p><font face="Arial, Helvetica, sans-serif" size="3"><b><font face="Arial, Helvetica, sans-serif" size="3"><b><font face="Arial, Helvetica, sans-serif" size="3"><b><font face="Arial, Helvetica, sans-serif" size="3"><b><font size="4"><a href="http://www.booklocker.com/"><img src="http://www.booklocker.com/images/specials/bestseller.gif" width="174" height="42" border="0"></a></font></b></font></b></font><font size="4"></font></b></font></b></font></p>
-      <p><font size="3" face="Arial, Helvetica, sans-serif"><b><a href="http://www.booklocker.com/specials/cdrom.html"><img src="http://www.booklocker.com/images/specials/cdrom%20special.gif" border="0" width="158" height="133"></a></b></font></p>
-      <strong><a href="http://www.booklocker.com/"> </a></strong> 
-      <blockquote>&nbsp;</blockquote>
+        BEST SELLERS!</a></b></font> </p>
+      <p><font face="Arial, Helvetica, sans-serif" size="3"><b><br>
+        Categories<br>
+        </b></font></p>
+      <p><a href="http://www.booklocker.com/cgi-bin/catdatabase/categories.cgi?category=Art"><font face="Arial, Helvetica, sans-serif" size="2" color="#FF8000"><b>Art</b></font></a><font size="2" face="Arial, Helvetica, sans-serif"><br>
+        <font color="#003399"><b><a href="http://www.booklocker.com/cgi-bin/catdatabase/categories.cgi?category=Business+And+Economics">Business 
+        &amp; Economics<br>
+        </a></b></font></font><font color="#003399" face="Arial, Helvetica, sans-serif" size="2"><b><a href="http://www.booklocker.com/cgi-bin/catdatabase/categories.cgi?category=Children's+Books">Children's 
+        Books<br>
+        </a><a href="http://www.booklocker.com/cgi-bin/catdatabase/categories.cgi?category=Computers+And+Internet">Computers 
+        &amp; Internet<br>
+        </a></b></font><font face="Arial, Helvetica, sans-serif" size="2"><b><a href="http://www.booklocker.com/cgi-bin/catdatabase/categories.cgi?category=Cookbooks">Cookbooks</a></b><br>
+        <a href="http://www.booklocker.com/cgi-bin/catdatabase/categories.cgi?category=Creative+Writing"><b>Creative 
+        Writing</b></a></font><font color="#003399" face="Arial, Helvetica, sans-serif" size="2"><b><a href="Templates/categories/cre.html"><br>
+        </a><a href="http://www.booklocker.com/cgi-bin/catdatabase/categories.cgi?category=Education">Education<br>
+        </a><a href="http://www.booklocker.com/cgi-bin/catdatabase/categories.cgi?category=Family+And+Relationships">Family 
+        &amp; Relationships<br>
+        <br>
+        </a></b></font> <font face="Arial, Helvetica, sans-serif" size="2"><b><a href="http://www.booklocker.com/cgi-bin/catdatabase/categories.cgi?category=Fiction">Fiction</a></b><br>
+        </font> 
+      </p><blockquote> <font face="Arial, Helvetica, sans-serif" size="2"><a href="http://www.booklocker.com/cgi-bin/catdatabase/categories.cgi?category=Fiction:Adventure">adventure<br>
+        </a><a href="http://www.booklocker.com/cgi-bin/catdatabase/categories.cgi?category=Fiction:Drama">drama</a> 
+        <a href="http://www.booklocker.com/cgi-bin/catdatabase/categories.cgi?category=Fiction:Historical"><br>
+        historical</a> <a href="http://www.booklocker.com/cgi-bin/catdatabase/categories.cgi?category=Fiction:Mystery"><br>
+        mystery</a> <a href="http://www.booklocker.com/cgi-bin/catdatabase/categories.cgi?category=Fiction:SciFi+Fantasy+Horror"><br>
+        scifi fantasy horror</a><a href="http://www.booklocker.com/cgi-bin/catdatabase/categories.cgi?category=Fiction:Spiritual"><br>
+        spiritual</a><br>
+        <a href="http://www.booklocker.com/cgi-bin/catdatabase/categories.cgi?category=Fiction:Romance">romance</a><br>
+        <a href="http://www.booklocker.com/cgi-bin/catdatabase/categories.cgi?category=Fiction:Techno-Thrillers">techno-thrillers</a><br>
+        <a href="http://www.booklocker.com/cgi-bin/catdatabase/categories.cgi?category=Fiction:Young+Adult">young 
+        adult</a> <br>
+        <a href="http://www.booklocker.com/cgi-bin/catdatabase/categories.cgi?category=Fiction:Other">other</a><br>
+        </font> </blockquote>
+      <p><font face="Arial, Helvetica, sans-serif" size="2"><a href="http://www.booklocker.com/cgi-bin/catdatabase/categories.cgi?category=Health+And+Fitness"><b>Health 
+        &amp; Fitness</b></a><b><br>
+        <a href="http://www.booklocker.com/cgi-bin/catdatabase/categories.cgi?category=History">History</a> 
+        <br>
+        <a href="http://www.booklocker.com/cgi-bin/catdatabase/categories.cgi?category=Home+Business">Home 
+        Business</a><br>
+        <a href="http://www.booklocker.com/cgi-bin/catdatabase/categories.cgi?category=How+To">How 
+        To</a> </b><br>
+        <b><a href="http://www.booklocker.com/cgi-bin/catdatabase/categories.cgi?category=Humor">Humor</a></b></font><font color="#003399" face="Arial, Helvetica, sans-serif" size="2"><b><br>
+        </b></font><font face="Arial, Helvetica, sans-serif" color="#FF8000" size="2"><a href="http://www.booklocker.com/cgi-bin/catdatabase/categories.cgi?category=Marketing"><b>Marketing<br>
+        </b></a><b><a href="http://www.booklocker.com/cgi-bin/catdatabase/categories.cgi?category=Music">Music</a><a href="http://www.booklocker.com/cgi-bin/catdatabase/categories.cgi?category=Newsletters"><br>
+        Newsletters<br>
+        </a></b></font><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#FF8000"><a href="http://www.booklocker.com/cgi-bin/catdatabase/categories.cgi?category=Non">Non-Fiction<br>
+        </a></font></b><font color="#FF8000"><b><a href="http://www.booklocker.com/cgi-bin/catdatabase/categories.cgi?category=Photography">Photography</a><br>
+        <a href="http://www.booklocker.com/cgi-bin/catdatabase/categories.cgi?category=Reference">Reference<br>
+        </a></b></font></font><font face="Arial, Helvetica, sans-serif" size="2" color="#FF8000"><b><a href="http://www.booklocker.com/cgi-bin/catdatabase/categories.cgi?category=Screenplays">Screenplays<br>
+        </a><a href="http://www.booklocker.com/cgi-bin/catdatabase/categories.cgi?category=Self+Help">Self 
+        Help</a><a href="http://www.booklocker.com/cgi-bin/catdatabase/categories.cgi?category=New+Age,+Spirituality+and+Philosophy"><br>
+        New Age / Philosophy<br>
+        </a><a href="http://www.booklocker.com/cgi-bin/catdatabase/categories.cgi?category=Travel">Travel<br>
+        </a><a href="http://www.booklocker.com/cgi-bin/catdatabase/categories.cgi?category=Writing+and+Publishing">Writing 
+        &amp; Publishing</a></b></font> 
+      </p><blockquote>
+        <p><font size="1" face="Arial, Helvetica, sans-serif"><font size="2"><b>Our 
+          Ebooks are in PDF</b>. All you need to read them is <a href="http://www.booklocker.com/help/adobe.html">Adobe 
+          Acrobat Reader</a>, which is <b>free</b>. (And you probably have it 
+          already!</font><font size="2">)</font></font></p>
+      </blockquote>
     </td>
     <td height="28" colspan="3" valign="middle" bgcolor="#FFFFFF"> 
-      <p><font color="#3A7781" size="-1" face="Arial, Helvetica"><b>Your Complete 
-        Online E-book Source and More!</b></font><font color="#3A7781">&nbsp;</font><font color="#FFFFFF"> 
-        &nbsp;</font> </p>
+      <p><font face="Arial, Helvetica" color="#339999" size="-1"><b>Your Bookstore 
+        For The Unique, Eclectic and Different</b></font></p>
     </td>
   </tr>
   <tr> 
     <td height="36" colspan="3" valign="top" bgcolor="#FFFFFF"> 
-      <p align="left"><a href="http://www.booklocker.com/cgi-bin/cart/cart.cgi?look"><img src="http://www.booklocker.com/images/cart.jpg" width="63" height="60" align="right" border="0"></a><font face="Arial, Helvetica, sans-serif" size="2" color="#FF8000"><a href="http://www.booklocker.com/getpublished/published.html">Sell Your Book 
-        on Booklocker</a></font><font face="Arial, Helvetica, sans-serif" size="2" color="#FF8000"><a href="http://www.booklocker.com/getpublished/published.html"><b><br>
-        </b></a></font><font face="Arial, Helvetica, sans-serif" size="2" color="#FF8000"><a href="http://www.booklocker.com/cgi-bin/comish/add.cgi">Author Login</a> </font> 
-        <font face="Arial, Helvetica, sans-serif" size="2" color="#FF8000"> | 
-        <a href="mailto:angela@booklocker.com">E-Mail Us</a></font> <font face="Arial, Helvetica, sans-serif" size="2" color="#FF8000">|</font> 
-        <font face="Arial, Helvetica, sans-serif" size="2" color="#FF8000"><a href="http://www.booklocker.com/help/faq.html">FAQ</a></font> 
-        <font face="Arial, Helvetica, sans-serif" size="2" color="#FF8000">|</font> 
-        <font face="Arial, Helvetica, sans-serif" size="2" color="#FF8000"><a href="http://www.booklocker.com/">Home</a></font> 
-        <br>
+      <p align="left"><a href="http://www.booklocker.com/cgi-bin/cart/cart.cgi?look"><img src="http://www.booklocker.com/images/cart.jpg" width="63" height="60" align="right" border="0"></a><font face="Arial, Helvetica, sans-serif" size="2" color="#FF8000"><a href="mailto:angela@booklocker.com">Email 
+        Us</a></font> <font color="#339999"><b><font face="Arial, Helvetica, sans-serif" size="2">|</font> 
+        </b></font><font face="Arial, Helvetica, sans-serif" size="2" color="#FF8000"><a href="http://www.booklocker.com/help/faq.html">FAQ</a> 
+        <font color="#339999"><b><font face="Arial, Helvetica, sans-serif" size="2">|</font> 
+        </b></font></font><font face="Arial, Helvetica, sans-serif" size="2" color="#FF8000"><a href="http://www.booklocker.com/getpublished/published.html">Authors 
+        Click Here</a></font><br>
+        <font face="Arial, Helvetica, sans-serif" size="2" color="#FF8000"> <b><a href="http://www.booklocker.com/help/order.html">Ebook 
+        Ordering/Delivery</a> </b><font color="#339999"><b><font face="Arial, Helvetica, sans-serif" size="2">|</font> 
+        </b></font><a href="http://www.booklocker.com/"><b>Home</b></a></font><br>
         <br>
     </p></td>
   </tr>
@@ -57,8 +152,8 @@
   </tr>
   <tr> 
     <td width="224" height="57" valign="top" bgcolor="#FFFFFF"> 
-      <div align="left"><font face="Arial, Helvetica, sans-serif" size="3"><b><font face="Arial, Helvetica, sans-serif" size="3"><b><font face="Arial, Helvetica, sans-serif" size="3"><b><font size="2" face="Arial, Helvetica, sans-serif"><a href="http://www.booklocker.com/browse.html">Browse 
-        For Ebooks</a></font></b></font><font size="4"></font></b></font></b></font></div>
+      <div align="left"><font face="Arial, Helvetica, sans-serif" size="2"><b><a href="http://www.booklocker.com/browse.html">Browse 
+        For Books</a></b></font></div>
     </td>
     <td width="302" height="57" valign="top" bgcolor="#FFFFFF" colspan="2"> 
       <form action="http://search.freefind.com/find.html" method="GET" target="_top">
@@ -78,14 +173,14 @@
     <td height="19" colspan="3" valign="top">&nbsp;</td>
   </tr>
   <tr> 
-    <td height="19" colspan="3" valign="top" bgcolor="#3A7781">&nbsp;</td>
+    <td height="19" colspan="3" valign="top" bgcolor="#339999">&nbsp;</td>
   </tr>
   <tr>
     <td height="19" colspan="3" valign="top">&nbsp;</td>
   </tr>
   <tr> 
-    <td height="62" colspan="3" valign="top" rowspan="2"><font face="Arial, Helvetica, sans-serif" size="3"><!-- #BeginEditable "category%20title%20here" --><font face="Arial, Helvetica, sans-serif" size="3"><b>Privacy 
-      Statement for BookLocker.com</b></font><!-- #EndEditable --></font></td>
+    <td height="62" colspan="3" valign="top" rowspan="2"><font face="Arial, Helvetica, sans-serif" size="3"><!-- #BeginEditable "category%20title%20here" --><b>Privacy 
+      Statement for BookLocker.com</b><!-- #EndEditable --></font></td>
   </tr>
   <tr> </tr>
   <tr> 
@@ -115,14 +210,11 @@
         Our site uses cookies to keep track of your shopping cart. <br>
         <br>
         Our site's registration form requires users to give us contact information 
-        (like their name and email address) and unique identifiers (like their 
-        social security number). We use customer contact information from the 
+        (like their name and email address) We use customer contact information from the 
         registration form to send the user information about our company and promotional 
         material from some of our partners. The customer's contact information 
         is also used to contact the visitor when necessary. Users may opt-out 
-        of receiving future mailings; see the choice/opt-out section below. Unique 
-        identifiers (such as social security numbers) are collected for use as 
-        account numbers in our record system.<br>
+        of receiving future mailings; see the choice/opt-out section below. <br>
         <br>
         This site contains links to other sites. <b>BookLocker.com</b> is not 
         responsible for the privacy practices or the content of such Web sites. 
@@ -140,10 +232,9 @@
         <br>
         We run contests on our site in which we ask visitors for contact information 
         (like their email address). We use contact data from our contests to send 
-        users information about our company and promotional material from some 
-        of our partners. The customer's contact information is also used to contact 
-        the visitor when necessary. Users may opt-out of receiving future mailings; 
-        see the choice/opt-out section below.<br>
+        users information about our company.  The customer's contact information is
+        also used to contact the visitor when necessary. Users may opt-out of receiving
+        future mailings;  see the choice/opt-out section below.<br>
         <br>
         This site has security measures in place to protect the loss, misuse and 
         alteration of the information under our control.<br>
@@ -167,20 +258,24 @@
         If you have any questions about this privacy statement, the practices 
         of this site, or your dealings with this Web site, you can contact:</font></p>
       <p><font size="2" face="Arial, Helvetica, sans-serif">Angela Adair<br>
-        <a href="mailto:angela@booklocker.com">angela@booklocker.com </a></font><br>
+        <a href="mailto:angela@booklocker.com">angela@booklocker.com </a></font></p>
+      <p><br>
       </p>
       <!-- #EndEditable --> 
     </td>
   </tr>
   <tr> 
-    <td height="19" colspan="3" valign="top" bgcolor="#3A7781">&nbsp; </td>
+    <td height="19" colspan="3" valign="top" bgcolor="#339999">&nbsp; </td>
   </tr>
   <tr> 
     <td width="180" height="29" valign="top" bgcolor="#FFFFFF"><font color="#000000" face="arial" size="-3">Copyright 
       © 2000 Booklocker.com<br>
       All rights reserved. <a href="http://www.booklocker.com/privacy.html">Privacy 
       Policy</a></font></td>
-    <td height="29" colspan="3" valign="top">&nbsp;</td>
+    <td height="29" colspan="3" valign="top">
+      <div align="right"><font face="Arial, Helvetica, sans-serif" size="1"><br>
+        last modified: <!-- #BeginDate format:fcAm1a -->Wednesday, November 15, 2000 9:36 AM<!-- #EndDate --></font></div>
+    </td>
   </tr>
 </tbody></table>
 
