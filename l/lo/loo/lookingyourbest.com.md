@@ -1,11 +1,14 @@
-> *The following text is extracted and transformed from the lookingyourbest.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401225242id_/http%3A//www.lookingyourbest.com/privacystatement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookingyourbest.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209163051id_/http%3A//www.lookingyourbest.com/privacystatement.php) for the most accurate reproduction.*
 
 # Looking Your Best Privacy Statement
 
-| Privacy Policy  
+|  | 
+
+Privacy Policy
+
 Privacy Statement
 
-Please read this privacy statement carefully. (Click [**here**](https://web.archive.org/web/20030401225242id_/http%3A//www.lookingyourbest.com/termsandconditions.php) to read Terms and Conditions ralated to using this website.) Privacy is very important to us. We also understand that privacy is very important to you. This Privacy Statement tells you how we protect and use information that we gather through this LOOKINGYOURBEST.COM web site. By using this web site, you agree to the terms of the most recent version of this Privacy Statement. You may be subject to additional terms that may apply when you access particular services or materials on certain areas in this web site, or by following a link from this web site.
+Please read this privacy statement carefully. (Click [**here**](https://web.archive.org/web/20031209163051id_/http%3A//www.lookingyourbest.com/termsandconditions.php) to read Terms and Conditions ralated to using this website.) Privacy is very important to us. We also understand that privacy is very important to you. This Privacy Statement tells you how we protect and use information that we gather through this LOOKINGYOURBEST.COM web site. By using this web site, you agree to the terms of the most recent version of this Privacy Statement. You may be subject to additional terms that may apply when you access particular services or materials on certain areas in this web site, or by following a link from this web site.
 
 Introduction
 
@@ -34,6 +37,8 @@ Because non-personal information cannot identify you or be tied to you in any wa
   * customize the information or services that are of interest to you
   * share it with or sell it to third parties
   * provide aggregated "traffic statistics" and "response rates" to third parties
+
+
 
 What Is Personal Information?
 
@@ -64,6 +69,8 @@ We may keep and use personal information we collect from you through this web si
   * to protect our rights or property
   * to protect someone's health, safety or welfare
   * to comply with a law or regulation, court order or other legal process
+
+
 
 Does LOOKINGYOURBEST.COM Ever Share Personal Information with Third Parties?
 
@@ -99,9 +106,9 @@ How to Contact LOOKINGYOURBEST.COM
 
 If you have questions or comments about this Privacy Statement, please contact  
 LOOKINGYOURBEST.COM Web Administrator  
-1404 W. State Rd Suite 9  
+1412 W. State Rd Suite 9  
 Pleasant Grove, Utah  
 Telephone: 800-873-9062  
-E-mail: [webmaster@lookingyourbest.com](mailto:webmaster@lookingyourbest.com)
-
-| 
+E-mail: [webmaster@lookingyourbest.com](mailto:webmaster@lookingyourbest.com)  
+  
+---|---
