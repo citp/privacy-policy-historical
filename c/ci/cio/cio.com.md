@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cio.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205064013id_/http%3A//www.cio.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cio.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603125940id_/http%3A//www.cio.com/privacy.html) for the most accurate reproduction.*
 
 # CIO.COM Privacy Statement
 
@@ -19,9 +19,9 @@ CIO.COM users should be aware that when they voluntarily disclose personal infor
 
 Questions about this policy can be sent to us at [thorgan@cio.com.](mailto:thorgan@cio.com)
 
-CIO.COM's [welcome message](https://web.archive.org/web/20011205064013id_/http%3A//www.cio.com/joegreet.html), [User Agreement](https://web.archive.org/web/20011205064013id_/http%3A//www.cio.com/user_agreement.html), and [ link disclaimer](https://web.archive.org/CIO/disclaimer.html).
+CIO.COM's [welcome message](https://web.archive.org/web/20020603125940id_/http%3A//www.cio.com/joegreet.html), [User Agreement](https://web.archive.org/web/20020603125940id_/http%3A//www.cio.com/user_agreement.html), and [ link disclaimer](https://web.archive.org/CIO/disclaimer.html).
 
-CIO.COM complies with [the ASME Guidelines with IDG extensions](https://web.archive.org/web/20011205064013id_/http%3A//www.cio.com/asme.html) for new media. 
+CIO.COM complies with [the ASME Guidelines with IDG extensions](https://web.archive.org/web/20020603125940id_/http%3A//www.cio.com/asme.html) for new media. 
 
   
 [](http://www.cio.com/resources/)
