@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rewardsnetwork.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204214545id_/http%3A//www.rewardsnetwork.com/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rewardsnetwork.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206190050id_/http%3A//www.rewardsnetwork.com/privacypolicy.jsp) for the most accurate reproduction.*
 
 # Rewards Network - Privacy Policy
 
@@ -129,8 +129,8 @@ Rewards Network Services Inc.
 Rewards Network International, Inc.  
 Rewards Network Canada GP Corp.  
 Rewards Network Canada LP  
-TNMI International Inc.  
+TMNI International Inc.  
 RTR Funding LLC  
-RN Investments Inc.  
 iDine Media Group Inc.  
+FFA Acquisition Corp.  
 
