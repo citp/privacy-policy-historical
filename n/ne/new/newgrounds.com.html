@@ -1,261 +1,344 @@
-<!--The following is the downloaded HTML source of the newgrounds.com privacy policy that was archived on 2004-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040622205944id_/http%3A//newgrounds.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newgrounds.com privacy policy that was archived on 2004-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204050155id_/http%3A//newgrounds.com/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>Newgrounds Privacy Statement</title>
 </head>
 
-<body bgcolor="#000000" text="#ffffff" link="#FFFF00" vlink="#FFCC00" alink="#FFFFFF" leftmargin="0" topmargin="2">
+<body>
 
-<style>
-  FORM { margin-bottom : 0 px; margin-top : 0 px; }
-BODY
-{
-scrollbar-face-color: #666666; scrollbar-shadow-color: #333333;
-scrollbar-highlight-color: #333333; scrollbar-3dlight-color: #333333;
-scrollbar-darkshadow-color: #333333; scrollbar-track-color: #333333;
-scrollbar-arrow-color: #FFEB00
-}
-</style>
+<!-- VC active -->
+<script language="JavaScript">
+<!--
+// ValueParameters
+ValueHost = "hs0002401";
+ValueLoaded = false;
+ValueID = "pagebuster";
+ValueVersion = "1.2";
+ValueBannerType = "pop";
+ValuePopSize = "large";
 
+ValueNoText = 1;
+ValueHCat = "elgp";
 
+//-->
+</script>
+<script language="Javascript" src="http://live.ezz.ezzmedia.com/jsmaster"></script>
+<script language="JavaScript">
+<!--
+if (ValueLoaded) ValueShowAd();
+//-->
+</script>
+
+<!-- vc active -->
+
+<!---------- BEGIN GLOBAL HEADER ---------->
+<a name="top"></a>
 <script language="JavaScript">
 <!--
 
-function JumpToHotContent()
-{
-	if(document.hotcontent.directory.selectedIndex != 0)
-		window.location.href = document.hotcontent.directory.options[document.hotcontent.directory.selectedIndex].value;
-}
+	var ng_image_rolls = new Array("sub_nav_2", "sub_nav_3", "sub_nav_4", "sub_nav_5", "sub_nav_6", "sub_nav_7");
 
-function GetHeightWidth(height, width)
-{
-	var xposition=0, yposition=0, text;
-
-	if((parseInt(navigator.appVersion) >= 4))
+	function InitNGRolls()
 	{
-		xposition = (screen.width - width) / 2;
-		yposition = (screen.height - height) / 2;
+		var this_image;
+		for(var i=0; i<ng_image_rolls.length; i++)
+		{
+			this_image = ng_image_rolls[i];
+			eval(this_image + "on = new Image();");
+			eval(this_image + "on.src = \"/layout04/" + this_image + "_on.gif\";");
+			eval(this_image + "off = new Image();");
+			eval(this_image + "off.src = \"/layout04/" + this_image + ".gif\";");
+		}
 	}
 
-	text = "height=" + height + ",width=" + width + ",screenx=" + xposition + ",screeny=" + yposition + ",left=" + xposition + ",top=" + yposition;
-	return(text);
-}
+	//InitNGRolls();
 
-	// Start e-zine popup.
-	function OurCookieVal(key)
+	function NGRollOver(name)
 	{
-		var arr = new Array();
-		var value;
+		document.images[name].src = eval(name + "on.src");
+	}
 
-		arr = document.cookie.split(";")
-		for(var i=0; i<arr.length; i++)
+	function NGRollOut(name)
+	{
+		document.images[name].src = eval(name + "off.src");
+	}
+
+	function JumpToHotContent()
+	{
+		if(document.hotcontent.directory.selectedIndex != 0)
+			window.location.href = document.hotcontent.directory.options[document.hotcontent.directory.selectedIndex].value;
+	}
+
+	function GetHeightWidth(height, width)
+	{
+		var xposition=0, yposition=0, text;
+
+		if((parseInt(navigator.appVersion) >= 4))
 		{
-			if(arr[i].indexOf(key + "=") != -1)
+			xposition = (screen.width - width) / 2;
+			yposition = (screen.height - height) / 2;
+		}
+
+		text = "height=" + height + ",width=" + width + ",screenx=" + xposition + ",screeny=" + yposition + ",left=" + xposition + ",top=" + yposition;
+		return(text);
+	}
+
+		function LookForCook(this_name)
+		{
+			var our_cookies = document.cookie;
+			var pos = (our_cookies.indexOf(this_name)+this_name.length+1);
+
+			if(our_cookies.substring(pos,(pos+1)) == "Y")
 			{
-				value = arr[i].substring(arr[i].indexOf("=")+1);
-				return(value);
+				return("Y");
+			} else
+			{
+				return("N");
 			}
 		}
 
-		return(-1);
-	}
-
-	function OpenAdultEzine()
-	{
-		var this_datetime = new Date();
-		var expiry = new Date(this_datetime.getTime()+86400000);
-
-		var ezine_cookie = OurCookieVal('ng_ezine');
-
-		var width, height;
-
-		if (parseInt(navigator.appVersion) >= 4)
-		{
-			width = (screen.width - 150);
-			height = (screen.height - 150);
-		} else
-		{
-			width = 550;
-			height = 400;
-		}
-
-		if(ezine_cookie == -1)
-		{
-			document.cookie = 'ng_ezine=Y'
-			window.open('/webcam/adult/freeezines.html', 'ng_ezine', GetHeightWidth(height, width) + ',location=0,menubar=0,resizable=0,scrollbars=1,status=0,titlebar=0,toolbar=0,hotkeys=0');
+		// Start multi-poll stuff
+		//if(LookForCook("ng_multipolls") != "Y")
+		//{
+		//	window.open("/multipolls/alienhominidfeeler.html", "AHSniffer", GetHeightWidth(460, 665) + ',location=0,menubar=0,resizable=0,scrollbars=1,status=0,titlebar=0,toolbar=0,hotkeys=0');
 			window.focus();
-		}
-	}
+		//}
+		// End multi-poll stuff
 
-	OpenAdultEzine();
-	// End e-zine popup.
-
-
-	function DoEncEmail(dom, recip, name)
-	{
-		var dom_parts = dom.split("|");
-
-		document.write('<a href="mailto:');
-		document.write(recip + "@");
-		for(var i=(dom_parts.length-1); i>=0; i--)
+		function DoEncEmail(dom, recip, name)
 		{
-			document.write(dom_parts[i]);
-			if(i!=0)
+			var dom_parts = dom.split("|");
+
+			document.write('<a href="mailto:');
+			document.write(recip + "@");
+			for(var i=(dom_parts.length-1); i>=0; i--)
 			{
-				document.write(".");
+				document.write(dom_parts[i]);
+				if(i!=0)
+				{
+					document.write(".");
+				}
 			}
+			document.write('">' + name + '</a>');
 		}
-		document.write('">' + name + '</a>');
-	}
 
-function CheckSearch()
-{
-	if(document.search.terms.value.length == 0)
+	function CheckSearch()
 	{
-		alert("You must enter search terms before clicking \"Search NG\".");
-		return(false);
+		if(document.search.terms.value.length == 0)
+		{
+			alert("You must enter search terms before clicking \"Search NG\".");
+			return(false);
+		}
+		return(true);
 	}
-	return(true);
-}
 
-function OpenProfileWin(user_id)
-{
-	window.open('/gold/profile/template.php3?id=' + user_id, 'profile' + user_id, GetHeightWidth(400, 490) + ',location=0,menubar=0,resizable=0,scrollbars=1,status=0,titlebar=0,toolbar=0,hotkeys=0');
-}
+	function OpenProfileWin(user_id)
+	{
+		window.open('/gold/profile/template.php3?id=' + user_id, 'profile' + user_id, GetHeightWidth(400, 490) + ',location=0,menubar=0,resizable=0,scrollbars=1,status=0,titlebar=0,toolbar=0,hotkeys=0');
+	}
 
-function OpenGGWin()
-{
-	window.open('/gold/login.php', 'goldwin', GetHeightWidth(350, 550) + ',location=0,menubar=0,resizable=0,scrollbars=1,status=0,titlebar=0,toolbar=0,hotkeys=0');
-}
+	function OpenGGWin()
+	{
+		window.open('/gold/login.php', 'goldwin', GetHeightWidth(375, 560) + ',location=0,menubar=0,resizable=0,scrollbars=1,status=0,titlebar=0,toolbar=0,hotkeys=0');
+	}
 
-function OpenSignupWin()
-{
-	window.open('/gold/signup.html', 'signupwin', GetHeightWidth(350, 550) + ',location=0,menubar=0,resizable=0,scrollbars=1,status=0,titlebar=0,toolbar=0,hotkeys=0');
-}
+	function OpenSignupWin()
+	{
+		window.open('/gold/signup.php', 'signupwin', GetHeightWidth(350, 550) + ',location=0,menubar=0,resizable=0,scrollbars=1,status=0,titlebar=0,toolbar=0,hotkeys=0');
+	}
 
-function OpenForgotPassWin()
-{
-	window.open('/forgotpass.html', 'fpwin', GetHeightWidth(250, 400) + ',location=0,menubar=0,resizable=0,scrollbars=1,status=0,titlebar=0,toolbar=0,hotkeys=0');
-}
+	function OpenForgotPassWin()
+	{
+		window.open('/forgotpass.html', 'fpwin', GetHeightWidth(250, 400) + ',location=0,menubar=0,resizable=0,scrollbars=1,status=0,titlebar=0,toolbar=0,hotkeys=0');
+	}
 
-function OpenTellFriendWin(topic, url)
-{
-	window.open('/tellfriend.php3?title=' + escape(topic) + '&url=' + escape(url), 'tfwin', GetHeightWidth(450, 450) + ',location=0,menubar=0,resizable=0,scrollbars=1,status=0,titlebar=0,toolbar=0,hotkeys=0');
-}
+	function OpenTellFriendWin(topic, url)
+	{
+		window.open('/tellfriend.php3?title=' + escape(topic) + '&url=' + escape(url), 'tfwin', GetHeightWidth(450, 450) + ',location=0,menubar=0,resizable=0,scrollbars=1,status=0,titlebar=0,toolbar=0,hotkeys=0');
+	}
 
-function OpenFlash(file, height, width, url, name)
-{
-	window.open('/show_flash.php?file=' + file + '&height=' + height + '&width=' + width + '&url=' + url + '&name=' + name, name, GetHeightWidth(height + 42, width) + ',location=0,menubar=0,resizable=0,scrollbars=0,status=0,titlebar=0,toolbar=0,hotkeys=0');
-}
+	function OpenFlash(file, height, width, url, name)
+	{
+		window.open('/show_flash.php?file=' + file + '&height=' + height + '&width=' + width + '&url=' + url + '&name=' + name, name, GetHeightWidth(height + 42, width) + ',location=0,menubar=0,resizable=0,scrollbars=0,status=0,titlebar=0,toolbar=0,hotkeys=0');
+	}
 
-// -->
+	// For visited links...
+	// #B47101
+
+//-->
 </script>
+<style type="text/css">
+<!--
 
-<!-- TRACK POP-UP -->
+FORM { margin-bottom : 0 px; margin-top : 0 px; }
 
-<!-- Begin Ban Man Pro Banner Code -  Site: Newgrounds  Zone: Newgrounds Pop -->
-<!--<SCRIPT LANGUAGE='JAVASCRIPT' SRC="http://ads.track.net/banman.asp?ZoneID=178&Task=Get&Browser=NETSCAPE4&PageID=56030&SiteID=5"></SCRIPT>-->
-<!-- End Ban Man Pro Banner Code -  Site: Newgrounds  Zone: Newgrounds Pop -->
+body
+{
+	background-color: #2F3238;
+	color: #C2C7CB;
+	background-image: url(/layout04/bg_page.gif);
+	background-repeat: repeat-x;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin: 0px;
+}
 
-<!-- END TRACK POP-UP -->
+a { text-decoration: none; }
+a:link { color: #FFAB0D; }
+a:visited { color: #B47101; }
+a:active { color: #FFAB0D; }
+a:hover { color: #FFEE70; }
 
-<map name="navbar">
-<area shape="rect" coords="0,2,87,33" href="/index.html" alt="Frontpage Features, News">
-<area shape="rect" coords="103,2,189,33" href="/portal/index.html" alt="Freshest content. Submit your own!">
-<area shape="rect" coords="206,2,293,33" href="/games/index.html" alt="Endless games!">
-<area shape="rect" coords="309,2,396,33" href="/toons/index.html" alt="Cartoons!">
-<area shape="rect" coords="412,2,499,33" href="/collections/hot.html" alt="Collections of related content, series.">
-<area shape="rect" coords="515,2,603,33" href="/audio/" alt="Loops and Sound Effects, free for Flash authors!">
-</map>
-<map name="gg_bar">
-<area shape="rect" coords="0,0,67,21" href="javascript:OpenGGWin()" alt="Sign-In!">
-<area shape="rect" coords="111,0,189,21" href="javascript:OpenSignupWin()" alt="Join NG!">
-</map>
+body, div, td
+{
+	scrollbar-face-color: #41464E;
+	scrollbar-highlight-color: #575F68;
+	scrollbar-3dlight-color: #000000;
+	scrollbar-darkshadow-color: #000000;
+	scrollbar-shadow-color: #33373C;
+	scrollbar-arrow-color: #FFCC00;
+	scrollbar-track-color: #2F3238;
+}
+
+.global_field
+{
+	font-family: Arial;
+	color: #000000;
+	font-size: 11px;
+	font-weight: bold;
+	background-color: #FFCC00;
+	background-image: url('/layout04/newhf/tf_bg_sm.gif');
+	border-left: #000000 2px solid;
+	border-top: #000000 2px solid;
+	border-right: #45494F 1px solid;
+	border-bottom: #45494F 1px solid;
+}
+
+.global_field_sm
+{
+	font-family: Arial;
+	color: #000000;
+	font-size: 10px;
+	background-color: #FFCC00;
+	background-image: url('/layout04/newhf/tf_bg_sm.gif');
+	border-left: #000000 2px solid;
+	border-top: #000000 2px solid;
+	border-right: #45494F 1px solid;
+	border-bottom: #45494F 1px solid;
+}
+
+.button_normal
+{
+	font-family: Arial;
+	color: #FFCC00;
+	font-size: 11px;
+	font-weight: bold;
+	background-color: #41464E;
+	border-left: #20252A 1px solid;
+	border-top: #20252A 1px solid;
+	border-right: #5F656B 1px solid;
+	border-bottom: #5F656B 1px solid;
+}
+
+.font_contact
+{
+	font-family: Arial,Helvetica;
+	font-size: 10px;
+}
+
+.font_vd_small
+{
+	font-family: Verdana,Arial,Helvetica;
+	font-size: 10px;
+}
+
+.font_a2
+{
+	font-family: Arial,Helvetica;
+	font-size: 13px;
+}
+
+//-->
+</style>
+<table border="0" cellpadding="0" cellspacing="0" width="770" align="center">
+	<tbody><tr>
+		<td align="center"><img src="/layout04/newhf/top.gif" width="770" height="19"></td>
+	</tr>
+	<tr>
+		<td align="center">
+		<table border="0" cellpadding="0" cellspacing="0" width="770">
+			<tbody><tr>
+				<td><img src="/layout04/newhf/top_nav_1.gif" width="15" height="13"></td>
+				<td width="742" background="/layout04/newhf/top_nav_bg.gif">
+				<table border="0" cellpadding="0" cellspacing="0" width="100%">
+          			<tbody><tr>
+          				<td><a href="/lit/portal_faq.html"><img src="/layout04/newhf/top_nav_2.gif" width="31" height="13" alt="[ Help ]" border="0"></a><img src="/layout04/newhf/top_nav_sep.gif" width="4" height="13"><a href="/bbs/"><img src="/layout04/newhf/top_nav_3.gif" width="43" height="13" alt="[ Forums ]" border="0"></a><img src="/layout04/newhf/top_nav_sep.gif" width="4" height="13"><a href="/chat/"><img src="/layout04/newhf/top_nav_4.gif" width="31" height="13" alt="[ Chat ]" border="0"></a><img src="/layout04/newhf/top_nav_sep.gif" width="4" height="13"><a href="/lit/"><img src="/layout04/newhf/top_nav_5.gif" width="65" height="13" alt="[ Lit ]" border="0"></a><img src="/layout04/newhf/top_nav_sep.gif" width="4" height="13"><a href="/webcam/"><img src="/layout04/newhf/top_nav_6.gif" width="49" height="13" alt="[ Webcams ]" border="0"></a><img src="/layout04/newhf/top_nav_sep.gif" width="4" height="13"><a href="/users_list.html"><img src="/layout04/newhf/top_nav_7.gif" width="37" height="13" alt="[ Users ]" border="0"></a><img src="/layout04/newhf/top_nav_sep.gif" width="4" height="13"><a href="/network/net_news.html"><img src="/layout04/newhf/top_nav_8.gif" width="49" height="13" alt="[ Network ]" border="0"></a><img src="/layout04/newhf/top_nav_sep.gif" width="4" height="13"><a href="/submit.html"><img src="/layout04/newhf/top_nav_9.gif" width="87" height="13" alt="[ Submit Content! ]" border="0"></a><img src="/layout04/newhf/top_nav_10.gif" width="6" height="13"></td>
+						<td align="right"><a href="/"><img src="/layout04/newhf/top_nav_11.gif" width="148" height="13" border="0"></a></td>
+					</tr>
+				</tbody></table>
+				</td>
+				<td><img src="/layout04/newhf/top_nav_12.gif" width="14" height="13"></td>
+			</tr>
+		</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td align="center"><img src="/layout04/newhf/top_nav_bar.gif" width="770" height="4"></td>
+	</tr>
+	<tr>
+		<td align="center">
+		<table border="0" cellpadding="0" cellspacing="0" width="770">
+			<tbody><tr>
+				<td width="275"><img src="/layout04/newhf/head_logo.gif" width="275" height="92" border="0" alt="" usemap="#head_logo_map"><map name="head_logo_map"><area shape="rect" alt="" coords="16,7,268,84" href="/"></map></td>
+				<td background="/layout04/newhf/top_bg.gif" width="486" align="center">
+				<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="486" height="92" id="ng_nav" align="">
+				<param name="movie" value="/layout04/newhf/ng_nav.swf">
+				<param name="quality" value="high">
+				<param name="wmode" value="transparent">
+				<param name="bgcolor" value="#393E42"><embed src="/layout04/newhf/ng_nav.swf" quality="high" bgcolor="#393E42" width="486" height="92" name="ng_nav" align="" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+				</object>
+				</td>
+				<td width="9"><img src="/layout04/newhf/top_right.gif" width="9" height="92"></td>
+			</tr>
+		</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td align="center">
+		<table border="0" cellpadding="0" cellspacing="0" width="770">
+			<tbody><tr>
+				<td width="15"><img src="/layout04/newhf/banner_left.gif" width="12" height="100"></td>
+				<td width="100%" background="/layout04/newhf/banner_mid.gif" align="center">
+				<script language="JavaScript">
+				<!--
+
+					var ng_chars = new Array("/iframe_track.html", "/iframe_casale.html", "/iframe_track.html");
+					document.write('<iframe src="' + ng_chars[Math.floor((Math.random()*ng_chars.length))] + '" scrolling="no" frameborder="no" align="center" height = "90px" width = "728px"></iframe>');
+
+				//--></script><iframe src="/iframe_track.html" scrolling="no" frameborder="no" align="center" height="90px" width="728px"></iframe><noscript><iframe src="/iframe_track.html" scrolling="no" frameborder="no" align="center" height = "90px" width = "728px"></iframe></noscript>
+				</td>
+				<td width="26"><img src="/layout04/newhf/banner_right.gif" width="23" height="100"></td>
+			</tr>
+		</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td><img src="/layout04/newhf/black_break.gif" width="770" height="1"></td>
+	</tr>
+	<tr>
+		<td background="/layout04/newhf/bg_full.gif" align="center">
+		<!---------- END GLOBAL HEADER ---------->
+
+
+
+
 
 <center>
-<table border="0" width="761" cellpadding="0" cellspacing="0" height="150" bgcolor="#000000">
-<tbody><tr>
-<td rowspan="4" valign="top" width="158"><a href="/index.html"><img src="/images/tank_large2002.gif" width="150" height="150" border="0"></a></td>
-<td valign="top" bgcolor="#333333" align="center" height="19">
-<font face="arial" size="1" color="#FFFFFF"><a href="/lit/portal_faq.html">Help</a> |
-<a href="/bbs/">Forums</a> |
-<a href="/chat/">Chat</a> |
-<a href="/lit/">Literature</a> |
-<a href="/webcam/">Webcams</a> |
-<a href="/users_list.html">Users</a> |
-<a href="/network/net_news.html">Network</a> |
-<a href="/submit.html">Submit Content</a></font></td>
-<td align="right" rowspan="2" valign="top"><a href="/webcam/adult/"><img src="/ads/adult18.gif" width="135" height="80" border="0"></a></td>
+<table border="0" width="730" cellpadding="0" cellspacing="0"><tbody><tr><td>
 
-</tr>
-
-<tr>
-<!------------------------------- BANNER AD ------------------------------>
-<td valign="top" height="60" width="468">
-<script language="JavaScript">
-var imagearray= new Array("/ads/adult/free_ezine.gif",
-	"/ads/adult/hentai_ad1.gif",
-	"/ads/adult/dating_sims1.gif",
-	"/ads/adult/webcam_ad.jpg",
-	"/ads/adult/comic_ezine.gif",
-	"/ads/adult/webcam_ad2.gif",
-	"/ads/adult/lesbian_ad.gif");
-
-var urlarray= new Array("http://www.freeezinebucks.com/ps.php?s=49&u=newgrounds",
-	"http://www.hentaiplayground.com/?wm_login=newgrounds",
-	"http://www.newgrounds.com/collections/datingsims.html",
-	"http://www.newgrounds.com/webcam/adult/index.html",
-	"http://www.freeezinebucks.com/ps.php?s=57&u=newgrounds",
-	"http://www.newgrounds.com/webcam/adult/index.html",
-	"http://www.freeezinebucks.com/ps.php?s=49&u=newgrounds");
-
-randomno=Math.floor((Math.random()*urlarray.length));
-
-urlstr="<a href=\""+urlarray[randomno]+"\" target=\"_blank\"><img src=\""+imagearray[randomno]+"\" border=0 width=468 height=60></a>";
-document.write (urlstr);
-</script><a href="http://www.newgrounds.com/webcam/adult/index.html" target="_blank"><img src="/ads/adult/webcam_ad2.gif" border="0" width="468" height="60"></a>
-</td>
-<!-- ------------------ END BANNER AD --------------------------------------------------------->
-</tr>
-
-<tr>
-<td colspan="2" valign="top">
-	<table border="0" cellpadding="0" cellspacing="0" width="603"><tbody><tr>
-	<td><form name="hotcontent">
-	<select name="directory" size="1" onchange="JumpToHotContent()" ;="">
-		<option value="0">-- Popular Features --
-        	</option><option value="/assassin/">Assassin
-		</option><option value="/collections/spears.html">Britney Spears
-		</option><option value="/collections/datingsims.html">Dating Sims
-		</option><option value="/disorderly/">Disorderly
-		</option><option value="/collections/dress.html">Dress-Up Games
-		</option><option value="/pico/index.html">Pico
-		</option><option value="/collections/osama.html">War on Terror
-		</option><option value="/collections/vg.html">Video Game Parodies
-	</option></select>
- 	</form></td>
-	<td align="center"><img src="/images/gg_button2.gif" width="190" height="22" usemap="#gg_bar" border="0"></td>
-	<td align="right"><form name="search" method="GET" action="/portal/search.php" onsubmit="return(CheckSearch());">
-	<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><img src="/images/search.gif" width="42" height="19"></td>
-	<td><input type="hidden" name="kind" value="j"><input type="text" name="terms" size="16"></td>
-	<td align="right"><input input="" type="image" img="" src="/images/search_go.gif" width="32" height="19" value="Search NG!"></td></tr></tbody></table></form></td>
-	</tr></tbody></table>
-</td>
-</tr>
-
-
-<tr>
-<td colspan="3" valign="bottom"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><img src="/images/menu_options2.gif" usemap="#navbar" border="0" width="603" height="33"></td>
-</tr>
-</tbody></table></td></tr></tbody></table>
-</center>
-<p>
-
-
-</p><center>
-<table border="0" width="761" cellpadding="0" cellspacing="0"><tbody><tr><td>
-
+<br>
+<font face="arial" size="-1">
 <div>
 <!--  Begin of Privacy Statement 
     -->
@@ -533,9 +616,7 @@ Contacting the Web Site
       
 <br>
 </p><address>
-<a href="mailto:tfulp@fast.net">
-tfulp@fast.net
-</a>
+<a href="mailto:tom@newgrounds.com">tom@newgrounds.com</a>
 </address>
 <p></p>
 <!--  End of Privacy Statement 
@@ -543,96 +624,109 @@ tfulp@fast.net
 </div>
 
 
-<p>
-<font size="-1">Generated by <a href="http://privacy.bcentral.com/">Privacy Wizard</a></font>
 
-</p></td></tr></tbody></table>
-<p>
-</p><center>
+</font></td></tr></tbody></table>
 <p>
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr>
 
-<td width="90" valign="top">
-<!------------------------------------ LEFT AD ------------------------------------>
+		<!---------- BEGIN GLOBAL FOOTER ---------->
+		</p></center></td>
+	</tr>
+	<tr>
+		<td>
+		<table border="0" cellpadding="0" cellspacing="0" width="770">
+			<tbody><tr>
+				<td width="185"><img src="/layout04/newhf/sub_left.gif" width="185" height="23"></td>
+				<td background="/layout04/newhf/sub_bg.gif" width="575">
+				<table border="0" cellpadding="5" cellspacing="0" width="100%">
+					<tbody><tr>
+						<td class="font_vd_small"><a href="/portal/">Flash Portal</a> | <a href="/games/">Games</a> | <a href="/toons/">Toons</a> | <a href="/collections/hot.html">Genres &amp; Series</a> | <a href="/audio/">Audio Portal</a> | <a href="/ngmag/">NG Mag</a> | <a href="/mature">Mature</a> | <a href="/shop/">NG Store</a></td>
+						<td class="font_vd_small"><b>^ <a href="#top">Top</a></b></td>
+					</tr>
+				</tbody></table>
+				</td>
+				<td width="10"><img src="/layout04/newhf/sub_right.gif" width="10" height="23"></td>
+			</tr>
+		</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td align="center">
+		<table border="0" cellpadding="0" cellspacing="0" width="770">
+			<tbody><tr>
+				<td width="10"><img src="/layout04/newhf/bot_1.gif" width="10" height="30"></td>
+				<td width="750" background="/layout04/newhf/bot_bg.gif" align="center">
+				<table border="0" cellpadding="0" cellspacing="0" width="750">
+					<tbody><tr>
+						<td>
+						<table border="0" cellpadding="0" cellspacing="0">
+							<tbody><tr>
+								<td><img src="/layout04/newhf/bot_2.gif" width="11" height="30"></td>
+								<td background="/layout04/newhf/bot_3.gif" class="font_vd_small"><b>Copyright 1996-2004 <a href="/">Newgrounds Inc</a>.<br>
+								<img src="/layout04/newhf/spacer_3.gif" width="3" height="3"></b></td>
+								<td><img src="/layout04/newhf/bot_4.gif" width="13" height="30"></td>
+							</tr>
+						</tbody></table>
+						</td>
+						<td align="right" valign="middle">
+						<table border="0" cellpadding="0" cellspacing="0">
+							<tbody><tr>
+								<td><img src="/layout04/newhf/bot_5.gif" width="13" height="30"></td>
+								<td background="/layout04/newhf/bot_6.gif" align="right" valign="middle" class="font_contact"><a href="/contact.html">Contact Us!</a> | <a href="/privacy.html">Privacy Policy</a> | <a href="/banners/index.html">Link To NG</a><br> <img src="/layout04/newhf/spacer_3.gif" width="3" height="3"></td>
+								<td><img src="/layout04/newhf/bot_7.gif" width="11" height="30"></td>
+							</tr>
+						</tbody></table>
+						</td>
+					</tr>
+				</tbody></table>
+				</td>
+				<td width="10"><img src="/layout04/newhf/bot_8.gif" width="10" height="30"></td>
+			</tr>
+		</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td><img src="/layout04/newhf/ad_top.gif" width="770" height="10"></td>
+	</tr>
+	<tr>
+		<td align="center">
+		<table border="0" cellpadding="0" cellspacing="0" width="770">
+			<tbody><tr>
+				<td width="13" background="/layout04/newhf/ad_left.gif" align="center"><img src="/layout04/newhf/ad_spacer.gif" width="13" height="5"></td>
+				<td width="100%" background="/layout04/newhf/ad_bg.gif" align="center"><img src="/layout04/newhf/spacer_5.gif" width="5" height="5"><br>
+				<script language="JavaScript">
 
-<script language="JavaScript">
-var urlarray= new Array("http://www.jaggedteam.com",
-      	"http://www.rogerceleb.com/?wm_login=newgrounds",
-      	"http://www.rogerceleb.com/?wm_login=newgrounds",
-      	"http://www.truecelebs.com/cgi-bin/click-tc.cgi?newgrounds",
-	"http://www.truecelebs.com/cgi-bin/click-tc.cgi?newgrounds");
+				var urlarray= new Array("http://www.alienhominid.com/",
+				"http://www.alienhominid.com/",
+				"http://www.chroniclogic.com/gish.htm?id=ng1001",
+				"/collections/saladfingers.html",
+				"/collections/opieandanthony.html",
+				"/collections/opieandanthony.html");
 
-var imagearray= new Array("/banners/buds/jagged.gif",
-      	"/ads/adult/rc_2.gif",
-      	"/ads/adult/rc_1.gif",
-      	"/ads/adult/tc_1.gif",
-	"/ads/adult/true_celebs1.jpg");
+				var imagearray= new Array("/bbs/ads/super_hominid_1.gif",
+				"/bbs/ads/super_hominid_2.gif",
+				"/bbs/ads/super_gish.gif",
+				"/bbs/ads/super_salad.gif",
+				"/ads/opieanthonypromo.gif",
+				"/ads/opieanthonypromo.gif");
 
-randomno=Math.floor((Math.random()*urlarray.length));
+				randomno=Math.floor((Math.random()*urlarray.length));
 
-urlstr="<a href=\""+urlarray[randomno]+"\" target=\"_blank\"><img src=\""+imagearray[randomno]+"\" border=0></a>";
-document.write (urlstr);
-</script><a href="http://www.truecelebs.com/cgi-bin/click-tc.cgi?newgrounds" target="_blank"><img src="/ads/adult/true_celebs1.jpg" border="0"></a>
+				urlstr="<a href=\""+urlarray[randomno]+"\" target=\"_blank\"><img src=\""+imagearray[randomno]+"\" border=0></a>";
+				document.write(urlstr);
 
-<!------------------- END LEFT AD --------------------------------->
-</td>
-
-<td>&nbsp;&nbsp;&nbsp;</td>
-
-<td valign="top" width="468">
-<!------------------------------------ BANNER AD ------------------------------------>
-
-<script language="JavaScript">
-var urlarray= new Array("http://ClickCash.WebPower.com/SetPermanentSignupCookie.cgi?svc=IF&lang=ENGLISH&type=BOUNTY&mode=1&art=AD05&acct=newgrounds&url=http://picpost.ifriends.net/~wsapi/aexplorer.dll",
-      	"http://www.hentaiplayground.com/?wm_login=newgrounds",
-	"http://ClickCash.WebPower.com/SetPermanentSignupCookie.cgi?svc=IF&lang=ENGLISH&type=BOUNTY&mode=1&art=AD03&acct=newgrounds&url=http://picpost.ifriends.net/~wsapi/aexplorer.dll",
-	"http://ClickCash.WebPower.com/SetPermanentSignupCookie.cgi?svc=IF&lang=ENGLISH&type=BOUNTY&mode=1&art=AD01&acct=newgrounds&url=http://picpost.ifriends.net/~wsapi/aexplorer.dll.htm",
-	"http://click.silvercash.com/?a=638009&p=1&s=44&r=1",
-	"http://www.hentaiplayground.com/?wm_login=newgrounds",
-	"http://www.myfreepaysite.com/?aid=ng");
-
-var imagearray= new Array("/ads/adult/clickcash05.gif",
-      	"/ads/adult/hentai.gif",
-      	"/ads/adult/clickcash10.gif",
-	"/ads/adult/clickcash11.gif",
-	"/ads/adult/celebhotel_hor_01.jpg",
-	"/ads/adult/hentai_free.gif",
-	"/ads/adult/myfreepaysite.gif");
-
-randomno=Math.floor((Math.random()*urlarray.length));
-
-urlstr="<a href=\""+urlarray[randomno]+"\" target=\"_blank\"><img src=\""+imagearray[randomno]+"\" border=0></a>";
-document.write (urlstr);
-</script><a href="http://ClickCash.WebPower.com/SetPermanentSignupCookie.cgi?svc=IF&amp;lang=ENGLISH&amp;type=BOUNTY&amp;mode=1&amp;art=AD01&amp;acct=newgrounds&amp;url=http://picpost.ifriends.net/~wsapi/aexplorer.dll.htm" target="_blank"><img src="/ads/adult/clickcash11.gif" border="0"></a>
-
-<!------------------- END BANNER AD --------------------------------->
-</td>
-
-<td>&nbsp;&nbsp;&nbsp;</td>
-
-<td width="68" valign="top">
-
-<!------------------------------------ RIGHT AD ------------------------------------>
-
-<script language="JavaScript">
-var urlarray= new Array("http://www.freeezinebucks.com/ps.php?s=76&u=newgrounds",
-      "http://www.freeezinebucks.com/ps.php?s=105&u=newgrounds");
-
-var imagearray= new Array("/ads/adult/free_hentai_ad.gif",
-      	"/ads/adult/free_hentai_ad2.gif");
-
-randomno=Math.floor((Math.random()*urlarray.length));
-
-urlstr="<a href=\""+urlarray[randomno]+"\" target=\"_blank\"><img src=\""+imagearray[randomno]+"\" border=0 width=130 height=60></a>";
-document.write (urlstr);
-</script><a href="http://www.freeezinebucks.com/ps.php?s=76&amp;u=newgrounds" target="_blank"><img src="/ads/adult/free_hentai_ad.gif" border="0" width="130" height="60"></a>
-
-<!------------------- END RIGHT AD --------------------------------->
-</td>
-</tr></tbody></table>
-<font face="arial" size="-1"><a href="/contact.html">Contact Us!</a> | <a href="/privacy.html">Privacy Policy</a> | <a href="/banners/index.html">Link to NG</a> | <a href="/webcam/adult/index.html">Adult Links</a> | <a href="http://www.freeezinebucks.com/ps.php?s=105&amp;u=newgrounds"><font color="#CC0000">FREE</font> Hentai</a></font>
-</p></center>
+				</script><a href="/collections/saladfingers.html" target="_blank"><img src="/bbs/ads/super_salad.gif" border="0"></a>
+				</td>
+				<td width="13" background="/layout04/newhf/ad_right.gif" align="center"><img src="/layout04/newhf/ad_spacer.gif" width="13" height="5"></td>
+			</tr>
+		</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td align="center"><img src="/layout04/newhf/bottom.gif" width="770" height="34"></td>
+	</tr>
+</tbody></table>
+<!---------- END GLOBAL FOOTER ---------->
  
 
-</center></body></html>
+</body></html>
