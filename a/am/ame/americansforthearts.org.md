@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americansforthearts.org privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604152850id_/http%3A//www.americansforthearts.org/privacy.asp%3Fid%3D708) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americansforthearts.org privacy policy that was archived on 2004-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041221014018id_/http%3A//www.americansforthearts.org/privacy.asp%3Fid%3D708) for the most accurate reproduction.*
 
 # Americans for the Arts Privacy Statement
 
@@ -27,10 +27,10 @@ Cookies are text messages stored on your computer's hard drive. The message is s
 **Information Collected and Stored Automatically**  
 As you browse through the website, read pages, or download information, we may gather and store certain information about your visit automatically. This information does not identify you personally. We may automatically collect and store only the following information about your visit: 
 
-  * The Internet domain (for example, "xcompany.com" if you use a private Internet access account or "yourschool.edu" if you connect from a university's domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our website;
-  * the type of browser and operating system used to access our site;
-  * the date and time you access our site;
-  * the pages you visit;
+  * The Internet domain (for example, "xcompany.com" if you use a private Internet access account or "yourschool.edu" if you connect from a university's domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our website; 
+  * the type of browser and operating system used to access our site; 
+  * the date and time you access our site; 
+  * the pages you visit; 
   * and if you linked to the Americans for the Arts site from another website, the address of that website. 
 
 
@@ -44,7 +44,7 @@ To facilitate AmericansForTheArts.org's offerings and services, on occasion cert
 This site contains links to other sites for which Americans for the Arts is not responsible in terms of the content or privacy practices of such sites. Americans for the Arts encourages you to review the privacy policies of the sites that you visit, especially before submitting your personal information. 
 
 **Americans for the Arts Listservs**  
-Americans for the Arts manages several listservs. Only those who have joined particular listservs may post to those lists. Americans for the Arts does not give, sell, or rent these lists' subscriber information to any third parties. However, please note that content sent to the list is viewable by all subscribers. If you'd like to unsubscribe to a listserv, please contact [hrowe@artsusa.org](mailto:hrowe@artsusa.org). 
+Americans for the Arts manages several listservs. Only those who have joined particular listservs may post to those lists. Americans for the Arts does not give, sell, or rent these lists' subscriber information to any third parties. However, please note that content sent to the list is viewable by all subscribers. If you'd like to unsubscribe to a listserv, please [contact us](https://web.archive.org/staff_email.asp?u=listserv&d=artsusa.org&n=Listserv+Staff&t=Professional+Membership). 
 
 **How to Unsubscribe from Americans for the Arts E-mail Newsletters**  
 To unsubscribe from receiving our e-newsletters, please contact [registration@artsusa.org](mailto:registration@artsusa.org), and we will remove your registration account. 
