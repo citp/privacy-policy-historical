@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the rent-a-list.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604034619id_/http%3A//www.rent-a-list.com/s/privacy.cgi/rent-a-list) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rent-a-list.com privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212172931id_/http%3A//www.rent-a-list.com/s/privacy.cgi/rent-a-list) for the most accurate reproduction.*
 
-# RENT-A-LIST.COM - The Internet Advertiser's Domain
-
-**Privacy Policy**
+# Website Promotion Tools By Multiple Stream Media.
 
 Rent-A-List has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Rent-A-List and our network of other websites: Hits4Pay.com, aSMARToffer.com, FreeWeeklyLotto.com.
 
@@ -16,7 +14,7 @@ A cookie is a small amount of data, which often includes an anonymous unique ide
 In areas of our site that require registration, our site's registration form requires users to give us contact information (like their name and email address).  Your contact information is used to deliver the publication that you subscribed to, and to contact you if it becomes necessary to provide you with customer support. Your contact information is also used to notify you of special promotions from rent-a-list.com and our network sites.  Rent-A-List pledges that we will never release your name or e-mail address to a third party for any purpose. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
 
 **Links**  
-This site contains links to other sites. Rent-A-List is not responsible for the privacy practices or the content of such Web sites.
+This site contains links to other sites. Rent-A-List is not responsible for the privacy practices or the content of such Web sites. 
 
 Our online form ask visitors for contact information (like their email address) and demographic information (like their zip code, category of interest). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis only.
 
@@ -58,8 +56,7 @@ Modifications to this policy will be posted publicly on this page. 
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
-Abraham Cherian  
-Multiple Stream  
+Multiple Stream Media  
 141 Ulster Ave, Suite 2A, Saugerties New York.  
 [support@rent-a-list.com](mailto:support@rent-a-list.com)  
 845.246.2212
