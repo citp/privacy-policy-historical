@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tucows.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603152103id_/http%3A//www.tucows.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tucows.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204093402id_/http%3A//www.tucows.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -83,4 +83,4 @@ Users may unsubscribe to any of our electronic newsletters at any time by follow
 
 ## How To Contact Us
 
-If you ever need to contact us via email, be sure to email [helpdesk@tucows.com](mailto:helpdesk@tucows.com)
+If you ever need to contact us via email, click [here](http://www.tucows.com/contactus.html). 
