@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sikids.com privacy policy that was archived on 2001-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010611023744id_/http%3A//www.sikids.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sikids.com privacy policy that was archived on 2001-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010802033628id_/http%3A//www.sikids.com/admin/privacy.html) for the most accurate reproduction.*
 
-# Time Warner Children’s Privacy Notice
+# Time Warner Children's Privacy Policy
+
+## Time Warner Children’s Privacy Notice
 
 Your child’s privacy is important to us at Time Warner. We are committed to safeguarding children’s personal information collected online, and to helping parents and their children learn how to exercise control over personal information while exploring the Internet. The additional measures we have taken to tailor our content and offerings at our children’s sites to help children protect their privacy while online include encouraging children to use non-personally identifiable screen names rather than their real names and taking efforts to prevent children from posting contact information. In addition, we do not ask children to disclose more personal information than is necessary for them to participate in an activity. 
 
@@ -10,7 +12,7 @@ To help ensure a rewarding online experience for your child, we provide you with
 
 I. _The Information We Collect_
 
- __**__
+**__
 
 To enable children to participate in some of our online activities, we may ask them to provide personal information including name, e-mail address, address, telephone number, and date of birth. 
 
@@ -24,9 +26,9 @@ When children visit our site, we automatically collect certain non-personally id
 
 II. _How We Use the Information_
 
- __** **
+** **
 
-We never share children’s personal information with third parties.
+We never share children’s personal information with third parties. 
 
 **
 
@@ -46,17 +48,17 @@ This Time Warner site will not use or transfer personally identifiable informati
 
 III. _Collection of Information by Third-Party Sites and Sponsors_
 
- __**
+**
 
 Our site contains links to other sites whose information practices may be different from ours. Visitors should consult the other sites' privacy notices as the sites are not covered by our privacy policy. 
 
-This Time Warner site sometimes may offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain personally identifiable information that children voluntarily submit to participate in the contest, sweepstakes, or promotion. Time Warner does not control the third-party sponsors' use of this information. [Click here](https://web.archive.org/web/20010611023744id_/http%3A//www.sikids.com/privacy/thirdparty.html) for a list of names and contact information of outside third parties that may collect and maintain personally identifiable information as a result of their participation in these activities. 
+This Time Warner site sometimes may offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain personally identifiable information that children voluntarily submit to participate in the contest, sweepstakes, or promotion. Time Warner does not control the third-party sponsors' use of this information. [Click here](https://web.archive.org/web/20010802033628id_/http%3A//www.sikids.com/admin/thirdparty.html) for a list of names and contact information of outside third parties that may collect and maintain personally identifiable information as a result of their participation in these activities. 
 
 **
 
 IV. _Cookies_
 
- __**
+**
 
 Sikids.com uses a software technology called "cookies." Cookies are small text files that we place in visitors’ computer browsers to store their preferences. Cookies themselves does not contain any personally identifiable information. Although cookies could enable us to relate a visitor’s use of this Web site to personal information ( _e.g.,_ e-mail address) that a visitor has provided, we do not do so for this site. 
 
@@ -64,7 +66,7 @@ This Web site uses a reputable third party to serve the advertisements that you 
 
 **V. _Security_**
 
- ** __**__
+ ****__
 
 We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
 
@@ -72,7 +74,7 @@ We have put in place appropriate physical, electronic, and managerial procedures
 
 VI. _Parental Review of Information_
 
- __**
+**
 
 E-mail us at [sikids.inbox@sikids.com](mailto:Sikids.inbox@sikids.com?subject=Privacy) for instructions on how you can accomplish any of the following:
 
@@ -89,7 +91,7 @@ To protect your child’s privacy and security online, we will take reasonable s
 
 VII. _Contact Us_
 
- __**
+**
 
 If you have any questions, comments or concerns regarding our privacy policy and/or practices, please contact us at the following e-mail address, address and telephone number: 
 
@@ -101,8 +103,10 @@ New York, NY 10020-1393
 
 212-522-9949
 
-****
+**
 
-**VIII. _A Final Note to Parents_**
+VIII. _A Final Note to Parents_
+
+**
 
 The Internet offers a world of opportunity for children. Your guidance and involvement are essential to help ensure that children have a safe and rewarding online experience. We encourage you to the visit The Direct Marketing Association’s web site (www.the-dma.org) [http://www.the-dma.org](http://www.the-dma.org/) and explore the Get CyberSavvy! Program. Get CyberSavvy! helps families learn how information flows online so they can use the Internet in ways that protect their privacy and well-being. It also contains a number of valuable resources to help parents and children be aware of and express their preferences about information that is collected online and how it is used. Your efforts to instill responsible information practices will help steer your children to age-appropriate sites, and will go a long way toward ensuring that your children have enriching experiences online. 
