@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankofireland.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203120804id_/http%3A//www.bankofireland.com/html/gws/legal_statement/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankofireland.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602215839id_/http%3A//www.bankofireland.ie/html/gws/legal_statement/privacy.html) for the most accurate reproduction.*
 
 # Personal
 
@@ -59,4 +59,4 @@ Back to top>>
 
 **Cookies:** A "cookie" is a small text file or a small piece of information which a web site stores through your web browser on your PC that it can later retrieve when you log back on to the site. www.bankofireland.ie does not use "cookies".
 
-[Legal Statement ](https://web.archive.org/web/20031203120804id_/http%3A//www.bankofireland.com/html/gws/legal_statement/index.html) 
+[Legal Statement ](https://web.archive.org/web/20040602215839id_/http%3A//www.bankofireland.ie/html/gws/legal_statement/index.html) 
