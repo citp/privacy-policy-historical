@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the concord.org privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605182251id_/http%3A//www.concord.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concord.org privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208021731id_/http%3A//www.concord.org/privacy.html) for the most accurate reproduction.*
 
 # Concord.org -> Privacy
 
-[Home](https://web.archive.org/?concord_session=c1aec0ccc477ed288581d3a0767a9d0d "Go to the Concord Conortium home page
+[Home](https://web.archive.org/ "Go to the Concord Conortium home page
 ") >> **Privacy**
 
 ## Summary
@@ -23,11 +23,15 @@ The only thing you need to provide us with to get a Concord account is a valid e
 
 If you download our free software, we may contact you regarding available updates or critical problems.
 
-If you **subscribe** (opt-in) to an **e-mail** mailing list(s), we will send you materials via e-mail only from the mailing list(s) you subscribed to. At any time, you may opt-out by going to your account and clicking on the Subscriptions link.
+If you **subscribe** (opt-in) to an **e-mail** mailing list(s), we will send you materials via e-mail only from the mailing list(s) you subscribed to. At any time, you may opt-out by going to your account and clicking on the **Subscriptions** link.
 
 If you **subscribe** (opt-in) to a **Print** mailing list, we will send materials through Postal mail if you have given us your valid **US postal address**. At any time, you may opt-out by going to your account and clicking on the **Subscriptions** link.
 
 Online course registrants will be contacted by course instructors.
+
+### @Concord Newsletter
+
+We require a valid email address for **Print** subscriptions to our @Concord Newsletter. Your email address will become your 'user id' and allow you to update personal information directly at our website. Athough we require your email address, **we will not send you unsolicited email** or otherwise disclose your information to other organizations (as stated above). 
 
 ### Cookies
 
