@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the pffcu.org privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202032100id_/http%3A//www.pffcu.org/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pffcu.org privacy policy that was archived on 2001-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010627144922id_/http%3A//www.pffcu.org/privacypolicy.html) for the most accurate reproduction.*
 
 # PFFCU - Loans Made Faster and Easier
 
   | 
 
-**_[Privacy Policy](https://web.archive.org/web/20001202032100id_/http%3A//www.pffcu.org/privacypolicy.html#privacy)_**  
-**_[Web Disclosures](https://web.archive.org/web/20001202032100id_/http%3A//www.pffcu.org/privacypolicy.html#web)_**  
-**_[Equal Housing Lender Notice](https://web.archive.org/web/20001202032100id_/http%3A//www.pffcu.org/privacypolicy.html#equal)_**  
-**_[Home Mortgage Disclosure Act (HMDA) Notice](https://web.archive.org/web/20001202032100id_/http%3A//www.pffcu.org/privacypolicy.html#mortgage)_**  
-**_[Expedited Funds Availability Act (Regulation CC)](https://web.archive.org/web/20001202032100id_/http%3A//www.pffcu.org/privacypolicy.html#funds)_**
+**_[Privacy Policy](https://web.archive.org/web/20010627144922id_/http%3A//www.pffcu.org/privacypolicy.html#privacy)_**  
+**_[Web Disclosures](https://web.archive.org/web/20010627144922id_/http%3A//www.pffcu.org/privacypolicy.html#web)_**  
+**_[Equal Housing Lender Notice](https://web.archive.org/web/20010627144922id_/http%3A//www.pffcu.org/privacypolicy.html#equal)_**  
+**_[Home Mortgage Disclosure Act (HMDA) Notice](https://web.archive.org/web/20010627144922id_/http%3A//www.pffcu.org/privacypolicy.html#mortgage)_**  
+**_[Expedited Funds Availability Act (Regulation CC)](https://web.archive.org/web/20010627144922id_/http%3A//www.pffcu.org/privacypolicy.html#funds)_**
 
 **_Privacy Policy_**  
 Police and Fire Federal Credit Union and PFFCU Financial Services Inc. are committed to making available financial products and services that will enable you to meet your financial needs and reach your financial goals. We strive to earn your TRUST by providing quality financial products, at attractive prices, delivered with superior service, value and convenience! Part of this trust is protecting your personal information and using it in a manner consistent with your expectations. This is a high priority for everyone associated with PFFCU and PFFCU Financial Services Inc. 
@@ -26,6 +26,12 @@ As a member of PFFCU, you also have a responsibility to safeguard your financial
     * Information about your transactions with us, our affiliates, as permitted by law, or others, such as the particular types of loans or share accounts you have with us. 
 We may disclose all of the information we collect, as described above to companies that perform marketing services on our behalf, or to other financial institutions with whom we have joint marketing agreements. 
   * **PFFCU and PFFCU Financial Services, Inc. adheres to strict confidentiality.** We restrict access to non public information about you to those employees who need to know that information, for example, in order to provide products or services to you. We maintain physical, electronic, and procedural safeguards that comply with federal regulations to guard your nonpublic personal information. 
+
+
+  * **Fair Credit Reporting Act Disclosure.** In this notice, we are required to also advise you of our disclosure policy under the Fair Credit Reporting Act. The Fair Credit Reporting Act governs the sharing of information that may impact upon you for certain purposes such as credit, collections and insurance. We learn information about you from our experience with you and from information provided by others, such as through credit reports. The Fair Credit Reporting Act permits us and we do share information from our experience with you with others, including credit reporting agencies. The Fair Credit Reporting Act permits us to share information we learn from others unless you direct us otherwise. If we elect to share information about you we learn from others for a purpose under the Fair Credit Reporting Act, we will give you a separate notice of our intention to do so and the right to direct us not to share the information.
+
+
+  * **E-Mail Addresses.** If you supply us with your email address, we will store that address in your member file. We may contact you by email with information about PFFCU products and services and product enhancements that may be of interest to you. You will have the opportunity to tell us you do not want to receive these product messages any time you receive one of these messages. You may also request that we remove your email address from our email list at any time by sending an email to [ Member Service](https://cyber1.fi1.net/forms/pffcu/email_survey.asp) and requesting that we remove your email address from our email list. Please include your name and account number in your request. 
 
 
 
@@ -99,36 +105,24 @@ $100.00 of a deposit that includes both local and/or non-local checks
 
 |   |    
   
-[](https://web.archive.org/web/20001202032100id_/http%3A//www.pffcu.org/geninfo/index.html)  
-[](https://web.archive.org/web/20001202032100id_/http%3A//www.pffcu.org/geninfo/atmlocate.html)  
-[](https://web.archive.org/web/20001202032100id_/http%3A//www.pffcu.org/geninfo/membership.html)  
-[](https://web.archive.org/web/20001202032100id_/http%3A//www.pffcu.org/geninfo/board.html)  
-[](https://web.archive.org/web/20001202032100id_/http%3A//www.pffcu.org/geninfo/annualreport.html)  
-[](https://web.archive.org/web/20001202032100id_/http%3A//www.pffcu.org/geninfo/reportcomm.html)  
-[](https://web.archive.org/web/20001202032100id_/http%3A//www.pffcu.org/privacypolicy.html)  
-[ ](https://web.archive.org/web/20001202032100id_/http%3A//www.pffcu.org/geninfo/MemberSurvey.html)  
+[](https://web.archive.org/web/20010627144922id_/http%3A//www.pffcu.org/geninfo/atmlocate.html)  
+[](https://web.archive.org/web/20010627144922id_/http%3A//www.pffcu.org/geninfo/membership.html)  
+[](https://web.archive.org/web/20010627144922id_/http%3A//www.pffcu.org/geninfo/board.html)  
+[](https://web.archive.org/web/20010627144922id_/http%3A//www.pffcu.org/geninfo/annualreport.html)  
+[](https://web.archive.org/web/20010627144922id_/http%3A//www.pffcu.org/geninfo/reportcomm.html)  
+[](https://web.archive.org/web/20010627144922id_/http%3A//www.pffcu.org/privacypolicy.html)  
+[](https://web.archive.org/web/20010627144922id_/http%3A//www.pffcu.org/privacypolicy.html)  
+[ ](https://web.archive.org/web/20010627144922id_/http%3A//www.pffcu.org/geninfo/MemberSurvey.html)  
   
-|  [](https://web.archive.org/web/20001202032100id_/http%3A//www.pffcu.org/pcexpress.asp)  
-[](https://web.archive.org/web/20001202032100id_/http%3A//www.pffcu.org/loans/index.asp)  
-[](https://web.archive.org/web/20001202032100id_/http%3A//www.pffcu.org/accounts/index.html)  
+|  [](https://web.archive.org/web/20010627144922id_/http%3A//www.pffcu.org/pcexpress.asp)  
+[](https://web.archive.org/web/20010627144922id_/http%3A//www.pffcu.org/loans/index.html)  
+[](https://web.archive.org/web/20010627144922id_/http%3A//www.pffcu.org/accounts/index.html)  
 [](https://cyber1.fi1.net/forms/pffcu/)  
-[](https://web.archive.org/web/20001202032100id_/http%3A//www.pffcu.org/service/index.html)  
-[](https://web.archive.org/web/20001202032100id_/http%3A//www.pffcu.org/insurance/index.html)  
-[](https://web.archive.org/web/20001202032100id_/http%3A//www.pffcu.org/rates/index.html)  
-[](https://web.archive.org/web/20001202032100id_/http%3A//www.pffcu.org/whatsnew/index.html)  
-[](https://web.archive.org/web/20001202032100id_/http%3A//www.pffcu.org/geninfo/index.html)  
+[](https://web.archive.org/web/20010627144922id_/http%3A//www.pffcu.org/service/index.html)  
+[](https://web.archive.org/web/20010627144922id_/http%3A//www.pffcu.org/insurance/index.html)  
+[](https://web.archive.org/web/20010627144922id_/http%3A//www.pffcu.org/rates/index.html)  
+[](https://web.archive.org/web/20010627144922id_/http%3A//www.pffcu.org/whatsnew/index.html)  
+[](https://web.archive.org/web/20010627144922id_/http%3A//www.pffcu.org/geninfo/index.html)  
 [](https://cyber1.fi1.net/forms/pffcu/email_survey.asp)  
 [](https://cyber1.fi1.net/forms/pffcu/employment.asp)  
-  
-  
-PFFCU IS AN EQUAL OPPORTUNITY LENDER  
-  
-Mortgage Pre-Qualification cannot be processed without receipt of all required worksheet information.
 
-Police and Fire Federal Credit Union  
-901 Arch Street • Philadelphia, PA 19107  
-Tel: 215/931-0300 • Toll Free: 800/228-8801
-
-Download the latest version of Browsers: [Netscape](http://www.netscape.com/computing/download/index.html) or [Internet Explorer](http://www.microsoft.com/windows/ie/default.htm).
-
-Copyright © 1999 Police and Fire Federal Credit Union. All Rights Reserved.
