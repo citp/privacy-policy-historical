@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mandtbank.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212141802id_/http%3A//www.mandtbank.com/custservice/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mandtbank.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607111219id_/http%3A//www.mandtbank.com/custservice/privacy.html) for the most accurate reproduction.*
 
 # M&T Bank: Privacy Policy
 
@@ -167,5 +167,15 @@ If you choose to limit information sharing, it will apply only to your personal 
 This policy is effective as of July 1, 2001. Until then, current policies and practices remain in effect. This policy replaces all previous versions, and it supersedes anything to the contrary in your account documentation from any of the companies within the M&T family. 
 
 We hope this insight as to how M&T uses and protects your personal and financial information is helpful. We value your business and we are committed to earning and keeping your trust. Thank you for giving us that opportunity.
+
+_Back to Top_
+
+**State of Vermont Residents**  
+Residents of the state of Vermont are provided additional rights according to state law. As a result, residents of that state do not have to take any further action to limit the sharing of information - such limits are already in place. If you live in Vermont, M&T will not share any of your non-public personal financial information (other than as permitted by law) within the M&T family of companies, or with outside companies, unless you first authorize us to do so. This amends the above Privacy Policy to this extent. 
+
+_Back to Top_
+
+**State of New Mexico Residents**  
+Residents of the state of New Mexico are provided additional rights according to state law. As a result, residents of that state do not have to take any further action to limit the sharing of information with outside companies- such limits are already in place. If you live in New Mexico, M&T will not share any of your non-public personal financial information (other than as permitted by law) with outside companies, unless you first authorize us to do so. This amends the above Privacy Policy to this extent. 
 
 _Back to Top_
