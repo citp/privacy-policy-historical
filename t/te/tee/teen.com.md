@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teen.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207051841id_/http%3A//www.teen.com/home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teen.com privacy policy that was archived on 2005-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050216024941id_/http%3A//www.teen.com/home/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Statement - Alloy
 
