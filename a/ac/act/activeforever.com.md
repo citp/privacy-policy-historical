@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the activeforever.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206103202id_/http%3A//www.ilp-online.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activeforever.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611073102id_/http%3A//activeforever.com/Privacy.asp) for the most accurate reproduction.*
 
-# ILP
-
-**
-
-Our Commitment to Privacy
+# Daily Living Aids at Guaranteed Low Prices - ActiveForever.com
 
 **
 
-Our Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. This statement will be continuously assessed against new technologies, business practices and our customers' needs. 
+####  Our Commitment to Privacy
 
 **
 
-What Information Do We Collect?
+Our Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. This statement will be continuously assessed against new technologies, business practices and our customers' needs.
+
+**
+
+####  What Information Do We Collect?
 
 **
 
@@ -20,11 +20,11 @@ When you visit our Web site you may provide us with two types of information: pe
 
 **
 
-1\. Personal Information You Choose to Provide
+####  1\. Personal Information You Choose to Provide
 
 ** **
 
-Credit Card Information 
+#####  Credit Card Information 
 
 **
 
@@ -39,7 +39,7 @@ If you choose to purchase products or services from us or our partners, you may 
 
 **
 
-Email Information
+#####  Email Information
 
 **
 
@@ -47,7 +47,7 @@ In addition to providing the foregoing information to our partners, if you choos
 
 **
 
-2\. Web Site Use Information
+####  2\. Web Site Use Information
 
 **
 
@@ -55,7 +55,7 @@ Similar to other commercial Web sites, our Web site utilizes a standard technolo
 
 **
 
-How Do We Use the Information That You Provide to Us?
+#####  How Do We Use the Information That You Provide to Us?
 
 **
 
@@ -65,7 +65,7 @@ Broadly speaking, we use personal information for purposes of administering our 
 
 **
 
-How Do We Use Information We Collect from Cookies?
+#####  How Do We Use Information We Collect from Cookies?
 
 **
 
@@ -75,7 +75,7 @@ Cookies help us collect important business and technical statistics. The informa
 
 **
 
-Sharing Information with Affiliates
+#####  Sharing Information with Affiliates
 
 **
 
@@ -83,7 +83,7 @@ From time to time you may notice offers from outside companies advertised on our
 
 **
 
-Sharing Information with Strategic Partners
+#####  Sharing Information with Strategic Partners
 
 **
 
@@ -91,15 +91,15 @@ We may enter into strategic marketing alliances or partnerships with third parti
 
 **
 
-Notice of New Services and Changes
+#####  Notice of New Services and Changes
 
 **
 
-Occasionally, we may also use the information we collect to **** notify you about important changes to our Web site, new services and special offers we think you will find valuable. As our client, you will be given the opportunity to notify us of your desire not to receive these offers by clicking on a response box when you receive such an offer or by sending us an email request at [customerservice@ilp-online.com](mailto:customerservice@ilp-online.com). 
+Occasionally, we may also use the information we collect to **** notify you about important changes to our Web site, new services and special offers we think you will find valuable. As our client, you will be given the opportunity to notify us of your desire not to receive these offers by clicking on a response box when you receive such an offer or by sending us an email request at [customerservice@ActiveForever.com](mailto:customerservice@activeforever.com). 
 
 **
 
-How Do We Secure Information Transmissions?
+#####  How Do We Secure Information Transmissions?
 
 **
 
@@ -109,7 +109,7 @@ Other email that you may send to us may not be secure unless we advise you that 
 
 **
 
-How Do We Protect Your Information?
+#####  How Do We Protect Your Information?
 
 **
 
@@ -121,15 +121,15 @@ How Do We Protect Your Information?
 
 **
 
-How Can You Access and Correct Your Information?
+#####  How Can You Access and Correct Your Information?
 
 **
 
-You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing [customerservice@ilp-online.com](mailto:customerservice@ilp-online.com).
+You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing [customerservice@ActiveForever.com](mailto:customerservice@activeforever.com).
 
 **
 
-Do We Disclose Information to Outside Parties?
+#####  Do We Disclose Information to Outside Parties?
 
 **
 
@@ -137,7 +137,7 @@ We may provide aggregate information about our customers, sales, Web site traffi
 
 **
 
-What About Legally Compelled Disclosure of Information?
+#####  What About Legally Compelled Disclosure of Information?
 
 **
 
@@ -145,8 +145,12 @@ We may disclose information when legally compelled to do so, in other words, whe
 
 **
 
-What About Other Web Sites Linked to Our Web Site?
+#####  What About Other Web Sites Linked to Our Web Site?
 
 **
 
 We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site.
+
+##### Secure Transfer of Information
+
+All information gather and transferred on ActiveForever.com is secure, so you can shop online in confidence. ActiveForever.com uses a 128-bit SSL (Secure Socket Layer) encryption on all pages colleting private information (i.e. credit card data, email addresses, etc).
