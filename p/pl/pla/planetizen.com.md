@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetizen.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203225051id_/http%3A//www.planetizen.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetizen.com privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608220717id_/http%3A//www.planetizen.com/about/privacy.php) for the most accurate reproduction.*
 
 # PLANETIZEN: About > Privacy Policy
 
@@ -8,24 +8,24 @@ We respect your privacy. All information collected at this site will be kept str
 
 This policy is based on our fundamental goal at PLANetizen to provide the Internet community with relevant content while maintaining personal privacy. This policy is open to comment and is meant to provide an evolutionary framework from which we can address any concerns of the Internet community. Please forward any comments you may have regarding this policy to us at [info@planetizen.com](mailto:info@planetizen.com). 
 
-  * Resale or disclosure of information to third parties
-  * Browser information collected on the website
-  * Use of cookies
+  * Resale or Disclosure of Information to Third Parties
+  * Browser Information Collected on the Website
+  * Use of Cookies
   * Advertising
-  * Privacy of our email lists
+  * Privacy of Our Email Lists
   * Online Privacy Alliance
 
 
 
-### Resale or disclosure of information to third parties
+### Resale or Disclosure of Information to Third Parties
 
 PLANetizen does not sell, rent, loan, trade, or lease any personal information collected at our site, including email addresses. (Please see advertising information below.) 
 
-### Browser information collected on the website
+### Browser Information Collected on the Website
 
-We analyze our website logs to constantly improve the value of the materials available on website. Our website logs are not personally identifiable, and we make no attempt to link them with the individuals that actually browse the site.
+We analyze our website logs to constantly improve the value of the materials available on this website. Our website logs are not personally identifiable, and we make no attempt to link them with the individuals that actually browse the site.
 
-### Use of cookies
+### Use of Cookies
 
 We do not use cookies on this site. 
 
@@ -33,7 +33,7 @@ We do not use cookies on this site.
 
 We do not use third-party advertisers. 
 
-### Privacy of our email lists
+### Privacy of Our Email Lists
 
 PLANetizen maintains several email lists to keep the urban planning community informed about news and changes to our website. Individuals must affirmatively ask to join our mailing lists by contacting PLANetizen, or completing our online email newsletter subscription form. We do not sell, rent, loan, trade, or lease the addresses on our list to anyone. In addition, we configure our email list server software to refuse to divulge the email addresses of our list subscribers to anyone but authorized PLANetizen staff, including other list subscribers. 
 
@@ -41,4 +41,4 @@ PLANetizen maintains several email lists to keep the urban planning community in
 
 Urban Insight, Inc. and PLANetizen support the goals of the [Online Privacy Alliance](http://www.privacyalliance.org/), a cross-industry coalition of more than 80 global companies and associations committed to promoting the privacy of individuals online. The Alliance is an ad hoc organization. Its sole purpose is to work to define privacy policy for the new electronic medium and to foster an online environment that respects consumer privacy.
 
-**Questions:** If you have any questions please [send us an email](mailto:info@planetizen.com). 
+If you have a question not covered by these topics please [send us an email](mailto:info@planetizen.com). 
