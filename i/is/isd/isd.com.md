@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isd.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602232729id_/http%3A//www.isd.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isd.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204035526id_/http%3A//www.isd.com/privacy.shtml) for the most accurate reproduction.*
 
 # WECA Web Site Legal Terms & Conditions
 
