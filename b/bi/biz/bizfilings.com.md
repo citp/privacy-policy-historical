@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizfilings.com privacy policy that was archived on 2000-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001211202900id_/http%3A//bizfilings.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizfilings.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606171340id_/http%3A//bizfilings.com/privacy.htm) for the most accurate reproduction.*
 
 # Welcome to Business Filings, Inc. - About Our Privacy Policy
 
@@ -8,16 +8,16 @@
 ---|---  
 |  |  | 
 
-[](https://web.archive.org/web/20001211202900id_/http%3A//bizfilings.com/sitemap.htm)  
+[](https://web.archive.org/web/20010606171340id_/http%3A//bizfilings.com/sitemap.htm)  
   
 ---|---|---  
-| [](https://web.archive.org/web/20001211202900id_/http%3A//bizfilings.com/index.html) | [](https://web.archive.org/web/20001211202900id_/http%3A//bizfilings.com/orderonline.htm) | [](https://web.archive.org/web/20001211202900id_/http%3A//bizfilings.com/livehelp.htm) |  | [](https://web.archive.org/web/20001211202900id_/http%3A//bizfilings.com/learning/index.html) | [](https://web.archive.org/web/20001211202900id_/http%3A//products/index.htm) | [](https://web.archive.org/web/20001211202900id_/http%3A//bizfilings.com/pricing/index.html) | [](https://web.archive.org/web/20001211202900id_/http%3A//bizfilings.com/international/index.html) | [](https://web.archive.org/web/20001211202900id_/http%3A//bizfilings.com/checkstatus.htm) | 
+| [](https://web.archive.org/web/20010606171340id_/http%3A//bizfilings.com/index.html) | [](https://web.archive.org/web/20010606171340id_/http%3A//bizfilings.com/orderonline.htm) | [](https://web.archive.org/web/20010606171340id_/http%3A//bizfilings.com/livehelp.htm) |  | [](https://web.archive.org/web/20010606171340id_/http%3A//bizfilings.com/learning/index.html) | [](https://web.archive.org/web/20010606171340id_/http%3A//products/index.htm) | [](https://web.archive.org/web/20010606171340id_/http%3A//bizfilings.com/pricing/index.html) | [](https://web.archive.org/web/20010606171340id_/http%3A//bizfilings.com/international/index.html) | [](https://www.bizfilings.com/status) | 
 
-[](https://web.archive.org/web/20001211202900id_/http%3A//bizfilings.com/businessresources.htm)  
+[](https://web.archive.org/web/20010606171340id_/http%3A//bizfilings.com/businessresources.htm)  
   
 ---|---|---|---|---|---|---|---|---|---  
   
-| [](http://www.bizfilings.com/cgi-bin/INFOUSA/search.cgi) |  |   
+|  |  |   
 ---|---|---  
 |   |  |   
 ---  
