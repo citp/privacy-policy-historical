@@ -1,22 +1,32 @@
-> *The following text is extracted and transformed from the rightnow.com privacy policy that was archived on 2001-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010611201754id_/http%3A//www.rightnow.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightnow.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205093702id_/http%3A//www.rightnow.com/privacy) for the most accurate reproduction.*
 
-# RightNow Technologies | Privacy Statement
+# Privacy Statement | RightNow Technologies, Inc.
 
 RightNow Technologies, Inc. is committed to your right to privacy. As a visitor to our website or user of our product, you deserve the ability to control the uses of your personal information. This privacy statement discloses our privacy practices. 
 
-This Privacy Statement is directed at visitors to our website. We have adopted a separate Statement called "[Privacy when Hosting](http://www.rightnow.com/privacy/hosting.html)" to address the privacy needs of our customers whose software we host. 
+This Privacy Statement is directed at visitors to our website. We have adopted a separate Statement called "[Privacy when Hosting](http://www.rightnow.com/privacy/hosting.html)" to address the privacy needs of our customers whose software we host (see <http://www.rightnow.com/privacy/hosting.html>, etc.). 
 
 RightNow agrees to notify you of the following:  
-1\. What personally identifiable information of yours or third party personal identification is collected from you through the website  
-2\. The organization collecting the information   
-3\. How the information is used  
-4\. With whom the information may be shared   
-5\. What choices are available to you regarding collection, use and distribution of the information  
-6\. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under RightNow's control  
-7\. How you can correct any inaccuracies in the information.  
 
 
-**If you feel that RightNow is not abiding by its posted privacy policy, you should contact us by addressing your concerns to[privacy@rightnow.com](mailto:privacy@rightnow.com)**
+  1. What personally identifiable information of yours or third party personal identification is collected from you through the website  
+
+  2. The organization collecting the information   
+
+  3. How the information is used  
+
+  4. With whom the information may be shared   
+
+  5. What choices are available to you regarding collection, use and distribution of the information  
+
+  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under RightNow's control  
+
+  7. How you can correct any inaccuracies in the information.  
+
+
+
+
+**If you feel that RightNow is not abiding by its posted privacy policy, you should contact us by addressing your concerns to[cpo@rightnow.com](mailto:cpo@rightnow.com)**
 
 RightNow collects information from our users at several different points on our website to enable us to better inform you about our product. By knowing your preferences we can deliver relevant information that meets your needs and ensure that your visit to our site is quick, easy and productive. RightNow is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.
 
@@ -82,20 +92,12 @@ We send all new Inner Circle members a welcoming email to verify password and us
 
 We encourage our users to update our record of any personal information which changes (such as your zip code). Information can be corrected/updated on any registration form. Users can also opt out of our services by emailing a request to info@rightnow.com. Inner Circle information may be updated online at [http://www.rightnowtech.com/custcentral/inner.html](http://www.rightnowtech.com/customercentral/inner.html)
 
-**Notification of Changes**
+**Changes to Privacy Policy**
 
-RightNow will notify you of any changes or enhancements to our privacy policy by posting notification of such changes on our Homepage with a link for you to read more about the changes in detail. Our policy statement will always contain a last revised date. 
+RightNow will update this policy from time to time. A "last revised" date will always be included on the bottom of the statement. To keep up-to-date with RightNows' policy, please check this page periodically.
 
 **Contacting the Website**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact us on privacy@rightnow.com.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact us at [cpo@rightnow.com](mailto:cpo@rightnow.com).
 
-* * *
-
-| [Send to a Colleague](http://www.rightnow.com/forms/send_friend.php?url=http://www.rightnow.com/privacy/index.html) | | [Free Custom Demo](http://www.rightnowtech.com/resource/form_prototype.html) | | [White Papers](http://www.rightnowtech.com/resource/whitepaper.html) | | [Please Contact Me](http://www.rightnowtech.com/products/form_contactme.html) |
-
-Please send Web site comments to [webmaster@rightnow.com](mailto:webmaster@rightnow.com)  
-Copyright 2000 [RightNow Technologies, Inc.](http://www.rightnow.com/)  
-[Privacy Statement](http://www.rightnow.com/privacy/) \- Last Modified 1/24/2001
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Last revised 8/20/2001 
