@@ -1,35 +1,70 @@
-> *The following text is extracted and transformed from the davidsbridal.com privacy policy that was archived on 2003-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031213020629id_/http%3A//www2.davidsbridal.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidsbridal.com privacy policy that was archived on 2005-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050303172904id_/http%3A//davidsbridal.com/privacy.jsp) for the most accurate reproduction.*
 
-# David's Bridal - Bridal gowns, fashions for brides, bridesmaids, flower girls at weddings and special Occasions
+# David's Bridal - Privacy Policy
 
-   
-Effective August 12, 1999  
-   
-**David's Bridal's commitment to privacy**  
- | David's Bridal is committed to maintaining your confidence and trust, and accordingly maintains the following privacy policy to protect the personal information you provide online. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.  
-**What information do we collect? How do we use it?**  
- | David's Bridal collects information online for the sole purpose of fulfilling your requests. When you join our registry, we need to know your name and shipping address. While not required, we also ask that you provide us with additional information about yourself (such as e-mail address), as well as specific bridal party and wedding information. This allows us to send you special events and offers, and other information custom-tailored to your needs. The information collected is also used to administer our "gown giveaway" contest and to notify winners each week.
+Effective 12.09.2004 
 
-David's Bridal uses a third party advertising agency to serve ads on our behalf across the Internet. Our agency may also collect anonymous information about your visits to our Web site. This is primarily accomplished through the use of a technology device, commonly referred to as a Web beacon or an action tag, which we place on various Web pages within our Web site or in an html e-mail. We may use information about your visits to this and other Web sites in order to provide ads about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by our agency, [click here](http://www.networkadvertising.org/optout_nonppii.asp). Periodically, if we request, The "Company" may report the anonymous data that they collect on our behalf back to us for our internal use and analysis and our treatment of this information is governed by the terms of this policy.  
+David's Bridal is committed to maintaining your confidence and trust and, maintains the following privacy policy to protect the personally identifiable information you provide online. To make this notice easy to find, we make it available on our homepage and at every point where we request personally identifiable information from you. 
+
+* * *
+
   
-**Will we disclose the information collected to outside parties?**  
- | The information collected is sent to the local David's Bridal retail outlet in your area for the purpose of providing you with information regarding special events and offers specific to your area. David's Bridal may choose to sell, trade or rent your personal information to trustworthy third parties providing offers that we feel would be attractive to our customers. If you wish to permanently opt out of these offers, please send an e-mail to [privacy@davidsbridal.net](mailto:privacy@davidsbridal.net).
+**What information do we collect on this website?**
 
-Also, we may decide to use non-identifying and aggregate information to better design our Web site and to share with advertisers. For example, we may tell an advertiser that Xnumber of individuals visited a certain area on our Web site, or that Ynumber of women who filled out our registration form are from the northeast U.S., but we would not disclose anything that could be used to identify those individuals.  
-  
-**How does David's Bridal protect customer information?**  
- | When you order our catalog, we offer the use of a secure server. The secure server software (SSL) encrypts all information input before you send it to us. Furthermore, all the customer data we collect is protected against unauthorized access. The information collected when you enter our Bridal Registry is transmitted over an insecure server. Still, in this case, David's Bridal uses industry standard efforts, such as firewalls, to safeguard the confidentiality of your information.
+David's Bridal collects information online to fulfill your requests. When you join our registry, we need to know your name and shipping address. While it is not required, we also ask for additional information about you (such as email address), as well as specific bridal party and wedding information. This allows us to send you information about special events and offers, and other information custom-tailored to your needs. The information collected is also used to administer our "gown giveaway" contest as explained in the Contest Rules. 
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.  
-  
-**A special note concerning children's privacy**  
- | The safety of children is obviously very important to us. Children should always ask a parent or guardian for permission before sending personal information to anyone online. David's Bridal does not collect or maintain information at our Web site from those we actually know are under 18.  
-**Is there anything else I should know?**  
- | Please keep in mind that whenever you voluntarily disclose personal information online-for example on message boards, through e-mail or in chat areas-that information can be collected and used by others. In addition, the privacy policies of other Web sites will vary, while many will have no stated privacy policy.
+We use a third party advertising company to serve ads on our behalf across the Internet. To help make our information more useful to our visitors, we may collect anonymous information about your visits to our web site, and about your interaction with our ads. For example, we may keep track of how many of our ads you had seen before visiting our site using technology such as cookies, action tags, Web Beacons or GIF tags, which we may place at various sections within our web site. We do not collect any personally identifiable information through the use of this technology. 
 
-In short, if you provide personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. It is ultimately your responsibility to maintain the secrecy of your personal information to the extent you feel comfortable. We encourage you to be careful and to ask questions before you disclose your personal information to others.  
+"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information. Most web browsers automatically accept cookies, but you can usually change your browser to prevent that. Our site uses cookies to make sure you are not shown the same content repeatedly, to deliver information that is specific to your interests, and to save your password so you don't have to re-enter it each time you visit our site. 
+
+From time to time, we may share anonymous information with our ad agencies in an aggregate form, for purposes of analysis and improvement of our site. We may use information about your visits to this and other web sites in order to provide ads about goods and services of interest to you. If you would like more information about this practice or the process of opting out of these cookies, please [click here](http://www.atlasdmt.com/privacy). 
+
+* * *
+
   
-**Your consent**  
- | By using our Web site, you consent to the collection and use of this information by David's Bridal. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. If you would like to be removed from our mailing list, please send an email to: [remove@davidsbridal.net](mailto:remove@davidsbridal.net).  
-**How to contact us**  
- | If you have other questions or concerns about these privacy policies, please send us an e-mail at [remove@davidsbridal.net](mailto:remove@davidsbridal.net).
+**Will we disclose the information collected to outside parties?**
+
+The personally identifiable information we collect online is sent to the David's Bridal retail store in your area so the store can provide you with information regarding special events and offers relating to special events and offers in your area. David's Bridal may choose to sell, trade or rent your personally identifiable information to third parties providing offers that we believe would be attractive to our customers. If you wish to opt out of these offers, please send an email to [remove@davidsbridal.net](mailto:remove@davidsbridal.net). 
+
+We also may use non-identifying and aggregate information to improve the design of our web site and to share with advertisers. For example, we may tell an advertiser that X-number of individuals visited a certain area on our web site, or that Y-number of women who filled out our registration form are from the northeast U.S., but we will not disclose anything that could be used to identify those individuals. 
+
+* * *
+
+  
+**How does David's Bridal protect customer information?**
+
+We protect the customer data we collect. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have implemented appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+
+When you order our catalog online, we offer the use of a secure server. The secure server software (SSL) encrypts all information input before you send it to us. The information we collect when you enter our Bridal Registry is transmitted over an insecure server, but we use industry standard efforts, such as firewalls, to safeguard the confidentiality of this information. 
+
+* * *
+
+  
+**A special note concerning children's privacy:**
+
+The safety of children is very important to us. We are committed to protecting children's privacy on the Internet and we comply fully with the Children's Online Privacy Protection Act (COPPA). We do not knowingly collect personally identifiable information from children under the age of 13. If a child has provided one of our Web sites with personally identifiable information, we ask that a parent or guardian send us an email at [remove@davidsbridal.net](mailto:remove@davidsbridal.net), and we will delete the information about the child from our files. 
+
+* * *
+
+  
+**Is there anything else I should know about Internet privacy?**
+
+Please keep in mind that whenever you voluntarily disclose personally identifiable information online-for example on message boards, through email or in chat areas-that information can be collected and used by others. In addition, the privacy policies of other web sites will vary, while some may have no stated privacy policy. 
+
+In short, if you provide personally identifiable information online that is accessible to the public, you may receive unsolicited messages from other parties in return. It is ultimately your responsibility to maintain the secrecy of your personally identifiable information to the extent you feel comfortable. We encourage you to be careful and to ask questions before you disclose your personally identifiable information to others. 
+
+* * *
+
+  
+**Your consent:**
+
+By using our web site, you consent to our collection and use of the information you provide. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. If you would like to be removed from our mailing list, please send an email to: [remove@davidsbridal.net](mailto:remove@davidsbridal.net). 
+
+* * *
+
+  
+**How to contact us:**
+
+If you have other questions or concerns about our privacy policy, please send us an email at [remove@davidsbridal.net](mailto:remove@davidsbridal.net). Our address is 1001 Washington Street, Conshohocken, PA 19428. 
+
+* * *
