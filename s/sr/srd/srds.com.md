@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the srds.com privacy policy that was archived on 2000-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000617112553id_/http%3A//www.srds.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the srds.com privacy policy that was archived on 2001-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010203175100id_/http%3A//srds.com/privacy/privacy.html) for the most accurate reproduction.*
 
-# privacy.html
+# SRDS® Privacy Statement
 
 This statement discloses our information gathering/dissemination and privacy practices for the srds.com Web site. Questions regarding this privacy policy should be directed to Christine Pokorny, [cpoko@srds.com](mailto:cpoko@srds.com) .
 
