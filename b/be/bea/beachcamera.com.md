@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beachcamera.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205145750id_/http%3A//www.beachcamera.com/shop/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beachcamera.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623201416id_/http%3A//www.beachcamera.com/shop/privacypolicy.asp) for the most accurate reproduction.*
 
 # Beach Camera
 
@@ -12,7 +12,11 @@
 |  | [TELEPHONES](http://www.beachcamera.com/Shop/searchresults.asp?ProdTypeList=4110&ParCat=9999&ShowImages=1) |   
 |  | [BINOCULARS/SCOPES](http://www.beachcamera.com/Shop/searchresults.asp?ProdTypeList=1005&ParCat=9999&ShowImages=1) |   
 |  | [ACCESSORIES](http://www.beachcamera.com/Shop/searchresults.asp?ProdTypeList=1004&ParCat=9999&ShowImages=1) |   
-|  | [CLEARANCE](http://www.beachcamera.com/Shop/searchresults.asp?ProdTypeList=3100&ParCat=9999&ShowImages=1) |   
+|  | [GIFT CERTIFICATE](http://www.beachcamera.com/Shop/searchresults.asp?ProdTypeList=2018&ParCat=9999&ShowImages=1) |   
+|  | [CLOSEOUT CORNER](http://www.beachcamera.com/Shop/searchresults.asp?ProdTypeList=3101&ParCat=9999&ShowImages=1) |   
+|  | [WATCHES](http://www.beachcamera.com/Shop/searchresults.asp?ProdTypeList=5800&ParCat=9999&ShowImages=1) |   
+  
+  
   
   
   
