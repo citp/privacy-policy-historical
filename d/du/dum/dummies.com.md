@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dummies.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002183549id_/http%3A//www.dummies.com/WileyCDA/Section/id-100065.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dummies.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602205051id_/http%3A//www.dummies.com/WileyCDA/Section/id-100065.html) for the most accurate reproduction.*
 
 # Dummies::Privacy Policy
 
