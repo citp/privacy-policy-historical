@@ -1,25 +1,24 @@
-> *The following text is extracted and transformed from the uttyler.edu privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204093351id_/http%3A//www.uttyler.edu/mainsite/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uttyler.edu privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601221741id_/http%3A//www.uttyler.edu/mainsite/privacy_policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy - University of Texas at Tyler
+# Privacy Policy, The University of Texas at Tyler
 
 _**  
 Web site Privacy Statement on the Use of Information  
 gathered from the General Public**_
 
-> **The University of Texas at Tyler** maintains the U.T. Tyler web site as a public service.  The following statement applies only to members of the general public and is intended to address concerns about the types of information gathered from the public, if any, and how that information is used.
+> **The University of Texas at Tyler** maintains the UT Tyler web site as a public service. The following statement applies only to members of the general public and is intended to address concerns about the types of information gathered from the public, if any, and how that information is used.
 > 
 > **I. Cookies**
 >
->> A "cookie" is a small file containing information that is placed on a user's computer by a web server.  Typically, these files are used to enhance the user's experience of the site, to help users move between pages in a database, or to customize information for a user.
+>> A "cookie" is a small file containing information that is placed on a user's computer by a web server. Typically, these files are used to enhance the user's experience of the site, to help users move between pages in a database, or to customize information for a user.
 >> 
->> Any information that U.T. Tyler webservers may store in cookies is used for internal purposes only.  Cookie data is not used in any way that would disclose personally identifiable information to outside parties unless U.T. Tyler is legally required to do so in connection with law enforcement investigations or other legal proceedings.
+>> Any information that UT Tyler webservers may store in cookies is used for internal purposes only. Cookie data is not used in any way that would disclose personally identifiable information to outside parties unless UT Tyler is legally required to do so in connection with law enforcement investigations or other legal proceedings.
 > 
 > **II. Notice of Personal Information**
 >
 >> The following notice is provided in accordance with Section 559.003(a) of the Texas Government Code:
 > 
->   1. With few exceptions, you are entitled on your request to be informed about the information The University of Texas at Tyler collects about  
->  you;
+>   1. With few exceptions, you are entitled on your request to be informed about the information The University of Texas at Tyler collects about you;
 >   2. Under Sections 552.021 and 552.023 of the Texas Government Code, you are entitled to receive and review the information; and
 >   3. Under Section 559.004 of the Texas Government Code, you are entitled to have The University of Texas at Tyler correct information about you that is held by The University of Texas at Tyler and is incorrect, in accordance with the procedures set forth in The University Of Texas System Business Procedures Memorandum 32, Texas Public Information Act. 
 > 
@@ -29,7 +28,7 @@ gathered from the General Public**_
 > 
 > **III. Logs and Network Monitoring**
 >
->> U.T. Tyler maintains log files of all access to its site and also monitors network traffic for the purposes of site management.  This information is used to help diagnose problems with the server and to carry out other administrative tasks.  Log analysis tools are also used to create summary statistics to determine which information is of most interest to users, to identify system problem areas, or to help determine technical requirements.
+>> UT Tyler maintains log files of all access to its site and also monitors network traffic for the purposes of site management. This information is used to help diagnose problems with the server and to carry out other administrative tasks. Log analysis tools are also used to create summary statistics to determine which information is of most interest to users, to identify system problem areas, or to help determine technical requirements.
 >> 
 >> Information such as the following is collected in these files:
 >> 
@@ -59,18 +58,18 @@ gathered from the General Public**_
 > 
 > **IV. E-mail and Form Information**
 >
->> If a member of the general public sends U.T. Tyler an e-mail message or fills out a web-based form with a question or comment that contains personally identifying information, that information will only be used to respond to the request and analyze trends.  The message may be redirected to another government agency or person who is better able to answer your question.  Such information is not used in any way that would reveal personally identifying information to outside parties unless U.T. Tyler is legally required to do so in connection with law enforcement investigations or other legal proceedings.
+>> If a member of the general public sends UT Tyler an e-mail message or fills out a web-based form with a question or comment that contains personally identifying information, that information will only be used to respond to the request and analyze trends. The message may be redirected to another government agency or person who is better able to answer your question. Such information is not used in any way that would reveal personally identifying information to outside parties unless UT Tyler is legally required to do so in connection with law enforcement investigations or other legal proceedings.
 > 
 > **V. Links**
 >
->> This site contains links to other sites outside of The University of Texas at Tyler.  U.T. Tyler is not responsible for the privacy practices or the content of such websites.
+>> This site contains links to other sites outside of The University of Texas at Tyler. UT Tyler is not responsible for the privacy practices or the content of such websites.
 > 
 > **VI. Security**
 >
->> This site has security measures in place to protect from loss, misuse and alteration of the information under control of U.T. Tyler.
+>> This site has security measures in place to protect from loss, misuse and alteration of the information under control of UT Tyler.
 
 * * *
 
-> **Contacting U.T. Tyler:**
+> **Contacting UT Tyler:**
 > 
-> If there are any questions about this privacy statement, the practices of this site, or dealings with this website, contact: [**webmaster@mail.uttyl.edu.**](mailto:webmaster@mail.uttyl.edu)
+> If there are any questions about this privacy statement, the practices of this site, or dealings with this website, contact: [**security@uttyler.edu.**](mailto:security@uttyler.edu)
