@@ -1,49 +1,61 @@
-> *The following text is extracted and transformed from the webposition.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622211514id_/http%3A//www.webposition.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webposition.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206193127id_/http%3A//www.webposition.com/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# WebPosition - Privacy
 
-### Privacy Policy
+NetIQ is committed to maintaining the trust and confidence of its customers and visitors to our web site. In particular, we want you to know that NetIQ is not in the business or selling, renting or trading email lists with other companies for marketing purposes. In this Privacy Policy we provide detailed information on when and why we collect your personal information, how we use it, the limited conditions under which we may disclose it to others and how we keep it secure.
 
-FirstPlace Software, Inc. respects the privacy of users who visit each of the sites within the FirstPlace Software, Inc. network. The following policies are in effect for all of the Web pages owned and operated by FirstPlace Software, Inc. and are in place to demonstrate our firm commitment to your privacy. 
+## Collection and Use of Personal Information
 
-FirstPlace Software, Inc. may ask for the following information about you and your organization. First & Last Name, Company Name, e-mail address, billing address, web site address, payment information, and other data. This information is required as a necessary part of completing your order, application, or transaction. 
+Personal information means any information that may be used to identify you, such as, your name, title, phone number, email address, or mailing address.
 
-### No Spam
+In general, you can browse our web site without giving us any personal information. We use our own product, WebTrends On Demand, to analyze traffic to this web site in order to understand our customer's and visitor's needs and to continually improve our site for them. WebTrends On Demand collects only anonymous, aggregate statistics. For example, we do not tie a specific visit to a specific IP address. For more information, see [Privacy Statement for Visitors to Sites Tracked by WebTrends](https://reports.webtrends.com/privacypolicy.asp#PSFV) On Demand.
 
-FirstPlace Software, Inc. maintains a strict "no-spam" policy. Your e-mail address or mailing address will not be sold or rented to a third party, except if all or part of the company is sold, merged or otherwise transferred to another entity, the information you have provided at a FirstPlace Software, Inc. site may be transferred as part of that transaction. However, FirstPlace Software will take reasonable steps to assure that the personal information is used in a manner consistent with the FirstPlace Software privacy policy under which it was collected. In addition, FirstPlace Software may be legally required to disclose information about individual users to governmental or judicial authorities or law enforcement agencies, or to other individuals or entities in response to subpoena, court order, or other valid legal process. You may receive occasional communications from FirstPlace Software, Inc. to inform you of product promotions or related news.
+If you want to subscribe to our MarketPosition newsletter, we ask you to simply provide your business email address. In that case, we use your email address only in connection with providing you the newsletter and for no other purpose.
 
-### Opt-Out
+Additional activities on our site require you to be registered - for example, to download a trial.. As part of the registration process, we collect additional personal information. We use that information for several general purposes: to tell you about products, seminars and services if you so request, to fulfill your request, to contact you if we need to obtain or provide additional information; to verify the accuracy of our records, to contact you regarding customer satisfaction surveys. Some activities require additional personal information. For example, to fulfill online orders for product and support, we require you to enter credit card information, and you have the option to provide a separate shipping address. 
 
-If at anytime you wish to be removed from our e-newsletter, trial product, customer, or other list you may request to be removed by e-mailing [help@webposition.com](mailto:help@webposition.com). Removals are usually completed within 24 hours.
+## Disclosure of Personal Information
 
-### Security
+In some instances we rely on our channel partners to fulfill product trials and information requests, and provide customers and prospective customers with information about NetIQ and its solutions. To do this, we may pass your information to them for that purpose only, and they are prohibited from using that information for any other purpose. NetIQ sometimes hires vendor companies to provide limited services on our behalf, including packaging, mailing and delivering items, sending postal mail, providing technical support, and processing event registrations. We provide those companies only the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
 
-All data collected on our secure product order forms will be encrypted for your security and privacy.
+Because NetIQ is a global company, your personal information may be shared with other NetIQ offices or subsidiaries in the U.S., Europe, and elsewhere. The data protection laws in these countries may be more or less extensive than laws in the country in which you are located. However, NetIQ and its offices and subsidiaries are governed by this Privacy Policy and will use your personal information only as set forth in this policy. If you want, we can provide you with details of the countries relevant to you upon request.
 
-### Change/Modify
+By using our web site and providing us with your personal data, you consent to this transfer of your personal data.
 
-If at anytime you wish to review, change or update any personal information provided to us, simply e-mail [help@webposition.com](mailto:help@webposition.com). To better protect the security and integrity of your information, we will also take reasonable steps to verify your identity before granting access or making corrections to your information.
+NetIQ may also disclose your personal information if required to do so by law or in the good faith belief that such action is necessary in connection with a sale, merger, transfer, exchange or other disposition (whether of assets, stock or otherwise) of all or a portion of a business of NetIQ and/or its subsidiaries or to (1) conform to legal requirements or comply with legal process served on NetIQ or this web site; (2) protect and defend the rights or property of NetIQ and this web site; (3) enforce its agreements with you, or (4) act in urgent circumstances to protect personal safety or the public. 
 
-### Cookies
+## Children and Privacy
 
-From time to time, FirstPlace Software, Inc. may send a cookie to your computer. This information is collected to identify your account with the source of advertising that brought you to the site or to personalize your browsing experience.
+Our web site does not offer information intended to attract children. NetIQ does not knowingly solicit personal information from children under the age of 13.
 
-### Testimonials
+## Security of Personal Information
 
-The Testimonials that appear on the FirstPlace Software, Inc. web sites have all given permission to be included. Information that is presented to us will not be posted unless permission is granted.
+When you submit credit card, email and physical address information to us, we use a secure server. The secure server software (SSL) helps protect your information as it travels over the Internet by encrypting that information before it is sent to us. We have also implemented industry-standard security mechanisms and procedures to protect data from loss, misuse and unauthorized access, disclosure, alteration and destruction.
 
-### WebPosition Affiliates
+## Use of Cookies
 
-As a necessary part of processing orders that originate from an affiliate site, FirstPlace Software, Inc. will provide a confirmation, and in some cases, a copy of the information gathered to referring affiliate.
+A cookie is a small text file containing information that a web site transfers to your computer's hard disk for record-keeping purposes. Cookies allow us to analyze our site traffic patterns and to provide a user-friendly myNetIQ registration and log-in process. A cookie can not give us access to your computer or to information beyond what you provide to us. Most web browsers automatically accept cookies; consult your browser's manual or online help if you want information on restricting or disabling the browser's handling of cookies. If you disable cookies, you can still view the publicly available information on our web site, but you will not be able to take advantage of offers or activities requiring a myNetIQ account, which includes online sales and accessing customer-only support areas. If are using a shared computer and you have cookies turned on, be sure to log off when you finish.
 
-### IP address
+## Links to Other Web Sites
 
-When a visitor requests pages at any FirstPlace Software, Inc. site, our Web servers automatically recognize the browser's domain name and IP address as most Web sites do. 
+Our web site contains links to information on other web sites. We do not have any control over these other web sites, and therefore we cannot be responsible for the protection and privacy of any information that you provide while visiting those sites. Those sites are not governed by this Privacy Policy, and if you have questions about how a site uses your information, consult that site's privacy statement.
 
-### BBB Online
+## Access to Your Personal Information/Updating Your Personal Information
 
-FirstPlace Software participates in the Council of Better Business Bureaus' BBBOnLine Privacy Program, and we attemp to comply with all the BBBOnLine Privacy standards. Further information about this program is available at http://www.bbbonline.org. 
+You are entitled to access the personal information that we hold. Email your request to our Data Privacy Officer at [privacy@NetIQ.com](mailto:privacy@NetIQ.com). An administrative fee may be payable. 
 
-If you have questions about our privacy policy, e-mail us at [help@webposition.com](mailto:help@webposition.com) or call 1-800-962-4855. It is our goal to provide a private, risk-free experience with our company.
+## Updating Your Personal Information
 
-Press your BACK button to return to the previous page.
+You may update your information at anytime by sending an email to [help@webposition.com](mailto:help@webposition.com). 
+
+## Unsubscribing
+
+You may unsubscribe to general mailings at any time, by sending an email to [remove@webposition.com](mailto:remove@webposition.com). You may unsubscribe to the MarketPosition newsletter at any time, by sending an email to [unsubscribe@marketposition.com](mailto:unsubscribe@marketposition.com).
+
+## Your Consent
+
+By using our web site, you consent to the collection and use of the information you provide to us as outlined in this Privacy Policy. We may change this Privacy Policy from time to time and without notice. If we change our Privacy Policy, we will publish those changes on this page.
+
+If you have any questions or concerns about our collection, use or disclosure of your personal information, please email our Data Privacy Officer at [privacy@NetIQ.com](mailto:privacy@NetIQ.com). For more information about this site or your visit, please email us at [webmaster@NetIQ.com](mailto:webmaster@NetIQ.com).
+
+This document was last updated July 28, 2004.
