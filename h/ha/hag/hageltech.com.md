@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hageltech.com privacy policy that was archived on 2002-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020608202859id_/http%3A//www.hageltech.com/root/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hageltech.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017102956id_/http%3A//www.hageltech.com/root/privacy.php) for the most accurate reproduction.*
 
 # Hagel Technlologies Privacy Policy
 
@@ -20,12 +20,8 @@ A cookie is a file that a web site transfers to a visitor's hard drive for recor
 
 Your name and e-mail are used if you elect to receive updates and special offers via e-mail from Hagel Technologies. You can always "opt-out" from our mailing lists by sending e-mail to [support@hageltech.com](mailto:support@hageltech.com)
 
-**NOTE:  **| 
+**NOTE:** Hagel Technologies will never sell, rent, or share your personal information without your consent unless compelled by law or court order to do so. 
 
-Hagel Technologies will never sell, rent, or share your personal information without your consent unless compelled by law or court order to do so.   
-  
----|---  
-  
 ### Links to other sites
 
 Our policy does not extend to anything that is inherent in the operation of the Internet, and therefore beyond our control. For example, there are links on our web site to other web sites which we do not operate or control. These other sites may send cookies to users, collect data, or solicit personal information.
@@ -44,8 +40,7 @@ If you have questions or concerns regarding this web site's privacy statement, c
 * * *
 
 Send mail to [webmaster@hageltech.com](mailto:webmaster@hageltech.com) with questions or comments about this web site.  
-Copyright © 1997-2002 by [ Hagel Technologies](http://www.hageltech.com/), All Rights Reserved.  
-This page was last updated on March, 8th 2002  
-Site design by Haim Gelfenbeyn.  
+Copyright © 1997-2002 by [Hagel Technologies](http://www.hageltech.com/), All Rights Reserved.  
+This page was last updated on September, 18th 2002  
   
 
