@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the britannica.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602105014id_/http%3A//corporate.britannica.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britannica.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206053116id_/http%3A//corporate.britannica.com/privacy.html) for the most accurate reproduction.*
 
-# Corporate Site
+# Encyclopædia Britannica, Inc. Corporate Site
 
 **Table of Contents**
 
