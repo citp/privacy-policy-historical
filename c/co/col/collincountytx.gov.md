@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collincountytx.gov privacy policy that was archived on 2004-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040503231853id_/http%3A//www.collincountytx.gov/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collincountytx.gov privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209045221id_/http%3A//collincountytx.gov/privacy.jsp) for the most accurate reproduction.*
 
 # Collin County Privacy Policy
 
@@ -30,8 +30,6 @@ When visiting the Collin County website, the following information is collected 
   10. Name of the ISP assigned to your IP address.
 
 
-
-We do not use "cookies". (A "cookie" is a file placed on your hard drive by a Web site).
 
 The information gathered is used to improve this website's content and to help the County understand how people are using this website. This information is collected for statistical analysis, to determine what information is of most and of least interest to our visitors, and to identify system performance or problem areas (e.g. Those dealing with browser types and operating systems).
 
@@ -85,6 +83,14 @@ Collin County, its employees, officers and agencies make no representations as t
 
 The County reserves the right to make changes at any time and without notice, and assumes no liability for damages incurred directly or indirectly as a result of errors, omissions or discrepancies.
 
+Collin County Logo
+
+The Collin County logo is a protected trademark. Duplication and any use outside of official Collin County government business is prohibited.
+
+Accessibility
+
+Collin County is committed to ensuring accessibility of its website for people with disabilities. We plan for all new, updated, and existing web content produced by our organization to conform to [W3C/WAI's Web Content Accessibility Guidelines 2.0, Conformance Level 1](http://www.w3.org/TR/WCAG20/) by July 1, 2005. Third-party developers who provide new web content for our site will be asked to conform to [W3C/WAI's Web Content Accessibility Guidelines 2.0, Conformance Level 1](http://www.w3.org/TR/WCAG20/) as well. We will review this policy in the future to consider updating it to an advanced version of W3C's Web Content Accessibility Guidelines.
+
 Contact Information
 
-For questions regarding the Privacy Policy please contact: [webarchitect@collincountytx.gov](mailto:webarchitect@collincountytx.gov)
+For questions regarding the Privacy & Accessibility Policy please contact: [webarchitect@collincountytx.gov](mailto:webarchitect@collincountytx.gov)
