@@ -1,13 +1,17 @@
-> *The following text is extracted and transformed from the grisoft.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208201958id_/http%3A//www.grisoft.com/us/us_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grisoft.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403194851id_/http%3A//www.grisoft.com/doc/PrivacyPolicy/lng/us/tpl/tpl01) for the most accurate reproduction.*
 
-# Protection of Personal Information
+# AVG Anti Virus: Privacy Policy
 
-Some information provided while using this server or the products and services of GRISOFT, s.r.o., headquartered in Brno, Lidická 956/31, IÈ: 44017774, and recorded in the commercial register at the Regional Court in Brno, section C, insert 3681 (hereinafter "GRISOFT, s.r.o."), may be considered personal pursuant to Statute No. 101/2000 of the Czech Republic Code - the Protection of Personal Information Act, as amended (hereinafter the "Act"). GRISOFT, s.r.o. fully complies with this Act and expends the maximum effort to protect such personal information. 
+Privacy Policy
 
-### Using registration information: 
+* * *
+
+Some information provided while using this server or the products and services of GRISOFT, s.r.o., headquartered in Brno, Lidická 956/31, Ič 44017774, and recorded in the commercial register at the Regional Court in Brno, section C, insert 3681 (hereinafter "GRISOFT, s.r.o."), may be considered personal pursuant to Statute No. 101/2000 of the Czech Republic Code - the Protection of Personal Information Act, as amended (hereinafter the "Act"). GRISOFT, s.r.o. fully complies with this Act and expends the maximum effort to protect such personal information.
+
+ **Using registration information:**
 
   * Registration requires some pertinent information to be entered in order to facilitate communication with our customers. 
-  * With the exception of information willingly disclosed during registration, GRISOFT, s.r.o. does not process any other information about customers, such as visits to the company's web pages, using its program, updating it, etc. 
+  * With the exception of information willingly disclosed during registration, GRISOFT, s.r.o. does not process any other information about customers, such as visits to the company's web pages, using its program, updating it, etc.
   * All information furnished by users (customers) during registration will be stored on a secure server. 
   * Information provided by users is available only to authorized employees of GRISOFT, s.r.o. and are not disclosed to third parties. 
   * GRISOFT, s.r.o. reserves the right to use customers' contact information to send them information it deems important for the full utilization of its products and services. Every registered customer may choose not to receive such information from GRISOFT, s.r.o. by replying to any message to that effect. 
@@ -16,6 +20,6 @@ Some information provided while using this server or the products and services o
 
 
 
-### Rights of users of this server and of the products and services of GRISOFT, s.r.o. 
+**Rights of users of this server and of the products and services of GRISOFT, s.r.o.**
 
 The law states that every user (customer) who provided personal information to GRISOFT, s.r.o. may ask GRISOFT, s.r.o. in writing to advise of any and all information processed about him or her by the same.
