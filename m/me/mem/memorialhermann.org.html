@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the memorialhermann.org privacy policy that was archived on 2002-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020609163138id_/http%3A//www.memorialhermann.org/Policies/priv_pol.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the memorialhermann.org privacy policy that was archived on 2003-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030608131621id_/http%3A//www.memorialhermann.org/Policies/priv_pol.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 	<title>Untitled</title>
@@ -38,526 +38,104 @@
  </style>
 	
 	
-<title>Memorial Hermann Healthcare System</title><meta name="Description" content=""><meta name="Keywords" content=""><link rel="STYLESHEET" type="text/css" href="/Theme/Style/main.css"><script language="JavaScript1.2" type="text/javascript">
-<!-- NN RESIZE -->
-NS4 = document.layers
-if (NS4){
-origWidth = innerWidth;
-origHeight = innerHeight;
+<link rel="STYLESHEET" type="text/css" href="/theme/Style/mhhs_main.css"></head>
+
+<!--org_id = 1110-->
+<!--CSID = -->
+<!--ContentName = priv_pol.htm-->
+<!--Theme ID = 111-->
+<!--Opening layout file (mhhs_default.htm)-->
+
+
+
+<body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<script language="javascript" src="/scriptfile/mhhs.js"></script>
+<script language="JavaScript">
+<!-- // 
+//  Netscape Resize Fix
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
 }
+MM_reloadPage(true);
+// -->
+</script>
 
-function reBuild(){
-if (innerWidth != origWidth || innerHeight != origHeight)
-location.reload();
-}
-
-if (NS4) onresize = reBuild;
-
-<!-- ROLLOVER CODE (OPTIONAL) -->
-function preImages(length, path, image, type) {	for(var i = 0; i<length; i++) {
-		this[i]= new Image()		
-		this[i].src= path + (i+1) + image +'.'+type
-		self.status=this.src	
-		}	
-		return this
-	}
-if(document.images){ 
-	preOff=new preImages(18,'/theme/images/interface/','_off','gif')
-	preOn=new preImages(18,'/theme/images/interface/','_on','gif')
-	}
-
-function ovon(num,div) {
-	if (document.images) {
-		if(document.layers && div) document.divCont.document[div].document["img"+num].src= preOn[num-1].src
-		else document.images["img"+num].src = preOn[num-1].src           
-	}
-}
-function ovoff(num,div) {
-  	if (document.images) {
-		if(document.layers && div) document.divCont.document[div].document["img"+num].src= preOff[num-1].src
-     	else document.images["img"+num].src =preOff[num-1].src
-	}}
-<!-- NEW MENU -->
-function lib_bwcheck(){
-	this.ver=navigator.appVersion
-	this.agent=navigator.userAgent
-	this.dom=document.getElementById?1:0
-	this.opera5=(navigator.userAgent.indexOf("Opera")>-1 && document.getElementById)?1:0
-	this.ie5=(this.ver.indexOf("MSIE 5")>-1 && this.dom && !this.opera5)?1:0; 
-	this.ie6=(this.ver.indexOf("MSIE 6")>-1 && this.dom && !this.opera5)?1:0;
-	this.ie4=(document.all && !this.dom && !this.opera5)?1:0;
-	this.ie=this.ie4||this.ie5||this.ie6
-	this.mac=this.agent.indexOf("Mac")>-1
-	this.ns6=(this.dom && parseInt(this.ver) >= 5) ?1:0; 
-	this.ns4=(document.layers && !this.dom)?1:0;
-	this.bw=(this.ie6 || this.ie5 || this.ie4 || this.ns4 || this.ns6 || this.opera5)
-	return this
-}
-var bw=new lib_bwcheck()
-<!-- fold number is the total number of div tops -->
-<!-- folfimg 1 is yes for arrows, 0 is no for arrows -->
-<!-- mainOffsetY is distance between top level buttons -->
-FoldNumber = 11		
-var stayFolded = false			
-foldImg = 0						
-mainOffsetY = 0				
-
-var unImg=new Image();
-unImg.src='images/interface/arrow_u.gif'
-
-var exImg=new Image();					
-exImg.src='images/interface/arrow_d.gif'	
-
-var px = bw.ns4||window.opera?"":"px";
-
-if(navigator.userAgent.indexOf('Opera')>-1 && document.getElementById){ 
-	scrX= innerWidth; scrY= innerHeight;
-	document.onmousemove= function(){
-		if(scrX<innerWidth-10 || scrY<innerHeight-10 || scrX>innerWidth+10 || scrY>innerHeight+10){
-			scrX = innerWidth;
-			scrY = innerHeight;
-			initFoldout();
-		}
-	}
-}
-
-function makeMenu(obj,nest){
-	nest= (!nest)?"":'document.'+nest+'.';
-	this.el= bw.ie4?document.all[obj]:bw.ns4?eval(nest+'document.'+obj):document.getElementById(obj);	
-   	this.css= bw.ns4?this.el:this.el.style;
-	this.ref= bw.ns4?this.el.document:document;		
-	this.x= (bw.ns4||bw.opera5)?this.css.left:this.el.offsetLeft;
-	this.y= (bw.ns4||bw.opera5)?this.css.top:this.el.offsetTop;
-	this.h= (bw.ie||bw.ns6)?this.el.offsetHeight:bw.ns4?this.ref.height:bw.opera5?this.css.pixelHeight:0;
-    this.vis= b_vis;
-	this.hideIt= b_hideIt;
-    this.showIt= b_showIt;
-    this.moveIt= b_moveIt;
-	return this
-}
-
-function b_showIt(){this.css.visibility='visible'}
-function b_hideIt(){this.css.visibility='hidden'}
-function b_vis(){if(this.css.visibility=='hidden' || this.css.visibility=='HIDDEN' || this.css.visibility=='hide') return true;}
-function b_moveIt(x,y){this.x=x; this.y=y; this.css.left=this.x+px; this.css.top=this.y+px}
-
-function menu(num){
-	if(bw.bw){
-		if (!stayFolded){
-			for (var i=0; i<oSub.length; i++){
-				if (i!=num){
-					oSub[i].hideIt()
-					if (foldImg)oTop[i].ref["imgA"+i].src = unImg.src
-				}
-			}
-			for(var i=1; i<oTop.length; i++){
-				oTop[i].moveIt(0,oTop[i-1].y+oTop[i-1].h)
-			}
-		}
-		if (oSub[num].vis()){
-			oSub[num].showIt()
-			if (foldImg)oTop[num].ref["imgA"+num].src = exImg.src
-		}else{
-			oSub[num].hideIt()
-			if(foldImg)oTop[num].ref["imgA"+num].src = unImg.src
-		}
-		for(var i=1; i<oTop.length; i++){ 
-			if (!oSub[i-1].vis()) oTop[i].moveIt(0,oTop[i-1].y+oTop[i-1].h+oSub[i-1].h+mainOffsetY) 
-			else oTop[i].moveIt(0,oTop[i-1].y+oTop[i-1].h+mainOffsetY)
-		}
-	}
-}
-
-function initFoldout(){
-window.status=""
-	bw.opera5 = (navigator.userAgent.indexOf("Opera")>-1 && document.getElementById)?true:false
-	if (bw.opera5) bw.ns6 = 0
-
-	oTop = new Array()
-	oSub = new Array()
-
-	for (var i=0; i<FoldNumber; i++){
-		oTop[i] = new makeMenu('divTop'+i,'divCont')
-		oSub[i] = new makeMenu('divSub'+i,'divCont.document.divTop'+i)
-		oSub[i].hideIt()
-	}
-	
-	oTop[0].moveIt(0,0)
-	for (var i=1; i<oTop.length; i++){
-		oTop[i].moveIt(0, oTop[i-1].y+oTop[i-1].h+mainOffsetY)
-	}
-	
-	oCont = new makeMenu('divCont')
-	oCont.showIt()
-}
-if(bw.bw) onload = initFoldout;
-
-
-<!-- KEEP THIS -->
-//header images to be changed by content store selection
-//  3/13/2002 - Modified array to prevent preloading images.
-var csImg = new Array
-csImg[1] = "/theme/images/interface/1_csphoto.jpg"
-csImg[2] = "/theme/images/interface/2_csphoto.jpg"
-csImg[3] = "/theme/images/interface/3_csphoto.jpg"
-csImg[4] = "/theme/images/interface/4_csphoto.jpg"
-csImg[5] = "/theme/images/interface/5_csphoto.jpg"
-csImg[6] = "/theme/images/interface/6_csphoto.jpg"
-csImg[7] = "/theme/images/interface/7_csphoto.jpg"
-csImg[8] = "/theme/images/interface/8_csphoto.jpg"
-csImg[9] = "/theme/images/interface/9_csphoto.jpg"
-csImg[10] = "/theme/images/interface/10_csphoto.jpg"
-csImg[11] = "/theme/images/interface/11_csphoto.jpg"
-csImg[12] = "/theme/images/interface/12_csphoto.jpg"
-csImg[13] = "/theme/images/interface/13_csphoto.jpg"
-csImg[14] = "/theme/images/interface/hdr_main.jpg"
-csImg[15] = "/theme/images/interface/14_csphoto.jpg"
-
-
-function expandit(){
-  //variables used to determine which page is current page
-  //used to highlight image and expand menu for that section
-window.status=""
-
-  var pathString = window.location.pathname;
-
-  //Evaluate after converting to lowercase
-
-  pathString = pathString.toLowerCase();
-
-  //See if aboutus is in the url string and load the menu function
-  if (pathString.indexOf("/locations/") != -1){
-    menu(0);csPic(4);
-         	}
-  if (pathString.indexOf("/education/") != -1){
-    menu(1);csPic(3);
-         	}
-  if (pathString.indexOf("/healthwellness/") != -1){
-    menu(2);csPic(5);
-         	}       	       	
-  if (pathString.indexOf("/mycarelink/") != -1){
-    menu(3);csPic(6);
- 	}
-  if (pathString.indexOf("/howyoucangive/") != -1){
-    menu(4);csPic(7);
-         	}
-  if (pathString.indexOf("/newsroom/") != -1){
-    menu(5);csPic(13);
-         	} 
-  if (pathString.indexOf("/aboutus/") != -1){
-    menu(6);csPic(1);
-         	}
-  if (pathString.indexOf("/onlineresources/") != -1){
-    menu(7);csPic(12);
-         	}
-  if (pathString.indexOf("/physiciansrv/") != -1){
-    menu(9);csPic(10);
-         	}
-  if (pathString.indexOf("/employeesrv/") != -1){
-    menu(10);csPic(11);
-         	}  
-  if (pathString.indexOf("/physicians/") != -1){
-    csPic(10);
-         	}     
-
-// 3/13/2002 Added logic for Physician Search splash page.
-  if (pathString.indexOf("/services/") != -1){
-	if (pathString.indexOf("physiciansrch") != -1){
-   	 	csPic(10);	
-	}
-	else {
-		csPic(8);
-         	}  
-	}   
-
-  if (pathString.indexOf("/careers/") != -1){
-    csPic(2);
-         	}   	
- if (pathString.indexOf("/jobs/") != -1){
-    csPic(2);
-         	}  
-  if (pathString.indexOf("/calendarofevents/") != -1){
-    csPic(9);
-         	}  
-  if (pathString.indexOf("/events/") != -1){
-    csPic(9);
-         	}  
-if (pathString.indexOf("/_mem_bin/") != -1){
-    csPic(6);
-			}
-if (pathString.indexOf("/usergroup/") != -1){
-    csPic(6);
-			}	
-if (pathString.indexOf("/security/") != -1){
-    csPic(6);
-			}							
-if (pathString.indexOf("/frontpage/") != -1){
-    csPic(14);
-         	}   
-if (pathString.indexOf("/patientsrv/") != -1){
-    csPic(15);menu(8);
-         	}  
-if (pathString.indexOf("/yourhealth/") != -1){
-    csPic(5);
-         	}  
-if (pathString.indexOf("/library/") != -1){
-    csPic(5);
-         	} 
-if (pathString.indexOf("/healthnews/") != -1){
-    csPic(5);
-         	} 
-if (pathString.indexOf("/search/") != -1){
-    csPic(14);
-         	} 
-  if (pathString == '/'){
-    csPic(14);
-         	}   
-
-        	       	       	      		
- 	return false;
-  }
-
-  
-csphoto = new Image();
-csphoto.src = "/theme/images/interface/hdr_main.jpg" 
-
-function csPic(newImg) {
-// 3/13/2002 - csImg modified to prevent preloading of images.  csImg points to correct image path only.
- 	if (document.images) {
-		if(document.layers) document.images["csphoto"].src = csImg[newImg]
-		else document.images["csphoto"].src = csImg[newImg]
-	}
-}
-  
-
-// 3/13/2002 adPhoto array removed.  Replaced images with animated GIF (faces.gif).
-// 3/13/2002 rotate function removed.  Animated GIF substituted.  Rotate function call removed from BODY ONLOAD.
-
-</script></head>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<body background="/theme/images/interface/big_bg.jpg" onload="initFoldout();expandit();" topmargin="0" marginheight="0" marginwidth="0" rightmargin="0" bottommargin="0" leftmargin="0">
-
-<!-- IMAGE MAPS FOR LEFT NAV -->
-<!-- NOTE CHANGES TO THE HREF IN THE IMAGE MAP MUST BE MADE IN THE MENU DIV ALSO -->
-<map name="8on">
-<area alt="click to display menu" coords="0,0,19,20" href="#" onclick="menu(0); return false" onmouseover="ovon(8,'divTop0')" onmouseout="ovoff(8,'divTop0')" shape="RECT">
-<area alt="Locations Near You" coords="19,1,150,20" href="/locations/" onmouseover="ovon(8,'divTop0')" onmouseout="ovoff(8,'divTop0')" shape="RECT">
-</map>
-<map name="9on">
-<area alt="click to display menu" coords="0,0,19,20" href="#" onclick="menu(1); return false" onmouseover="ovon(9,'divTop1')" onmouseout="ovoff(9,'divTop1')" shape="RECT">
-<area alt="For Your Education" coords="19,1,150,20" href="/education/" onmouseover="ovon(9,'divTop1')" onmouseout="ovoff(9,'divTop1')" shape="RECT">
-</map>
-<map name="10on">
-<area alt="click to display menu" coords="0,0,19,20" href="#" onclick="menu(2); return false" onmouseover="ovon(10,'divTop2')" onmouseout="ovoff(10,'divTop2')" shape="RECT">
-<area alt="Health &amp; Wellness" coords="19,1,150,20" href="/healthwellness/" onmouseover="ovon(10,'divTop2')" onmouseout="ovoff(10,'divTop2')" shape="RECT">
-</map>
-
-<map name="12on">
-<area alt="click to display menu" coords="0,0,19,20" href="#" onclick="menu(4); return false" onmouseover="ovon(12,'divTop4')" onmouseout="ovoff(12,'divTop4')" shape="RECT">
-<area alt="How You Can Give" coords="19,1,150,20" href="/howyoucangive/" onmouseover="ovon(12,'divTop4')" onmouseout="ovoff(12,'divTop4')" shape="RECT">
-</map>
-<map name="13on">
-<area alt="click to display menu" coords="0,0,19,20" href="#" onclick="menu(5); return false" onmouseover="ovon(13,'divTop5')" onmouseout="ovoff(13,'divTop5')" shape="RECT">
-<area alt="Newsroom" coords="19,1,150,20" href="/newsroom/" onmouseover="ovon(13,'divTop5')" onmouseout="ovoff(13,'divTop5')" shape="RECT">
-</map>
-<map name="14on">
-<area alt="click to display menu" coords="0,0,19,20" href="#" onclick="menu(6); return false" onmouseover="ovon(14,'divTop6')" onmouseout="ovoff(14,'divTop6')" shape="RECT">
-<area alt="About Us" coords="19,1,150,20" href="/aboutus/" onmouseover="ovon(14,'divTop6')" onmouseout="ovoff(14,'divTop6')" shape="RECT">
-</map>
-<map name="15on">
-<area alt="click to display menu" coords="0,0,19,20" href="#" onclick="menu(7); return false" onmouseover="ovon(15,'divTop7')" onmouseout="ovoff(15,'divTop7')" shape="RECT">
-<area alt="Online Resources" coords="19,1,150,20" href="/onlineresources/" onmouseover="ovon(15,'divTop7')" onmouseout="ovoff(15,'divTop7')" shape="RECT">
-</map>
-<map name="16on">
-<area alt="click to display menu" coords="0,0,19,20" href="#" onclick="menu(9); return false" onmouseover="ovon(16,'divTop9')" onmouseout="ovoff(16,'divTop9')" shape="RECT">
-<area alt="Physician Services" coords="19,1,150,20" href="/physiciansrv/" onmouseover="ovon(16,'divTop9')" onmouseout="ovoff(16,'divTop9')" shape="RECT">
-</map>
-<map name="17on">
-<area alt="click to display menu" coords="0,0,19,20" href="#" onclick="menu(10); return false" onmouseover="ovon(17,'divTop10')" onmouseout="ovoff(17,'divTop10')" shape="RECT">
-<area alt="Employee Services" coords="19,1,150,20" href="/employeesrv/" onmouseover="ovon(17,'divTop10')" onmouseout="ovoff(17,'divTop10')" shape="RECT">
-</map>
-
-<map name="18on">
-<area alt="click to display menu" coords="0,0,19,20" href="#" onclick="menu(8); return false" onmouseover="ovon(18,'divTop8')" onmouseout="ovoff(18,'divTop8')" shape="RECT">
-<area alt="Patient Services" coords="19,1,150,20" href="/patientsrv/" onmouseover="ovon(18,'divTop8')" onmouseout="ovoff(18,'divTop8')" shape="RECT">
-</map>
-
-
-<div id="divCont" style="visibility: visible;">
-	<div id="divTop0" class="clTop" style="left: 0px; top: 0px;"> 
-	<img name="img8" src="/theme/images/interface/8_off.gif" width="150" height="20" alt="Locations Near You" border="0" usemap="#8on"><br>
-<div id="divSub0" class="clSub" style="visibility: hidden;"><img src="/theme/images/interface/8_on.gif" width="150" height="20" alt="Locations Near You" border="0" usemap="#8on"><br>
-&nbsp; <span class="hvMenu">Hospitals</span><br>
-&nbsp; &nbsp; <a href="/locations/bb.html" class="clSubb">Baptist Beaumont</a><br>
-&nbsp; &nbsp;  <a href="/locations/bo.html" class="clSubb">Baptist Orange</a><br>
-&nbsp; &nbsp; <a href="/locations/ch.html" class="clSubb">Children's Hospital</a><br>
-&nbsp; &nbsp; <a href="/locations/fb.html" class="clSubb">Fort Bend</a><br>
-&nbsp; &nbsp; <a href="/locations/he.html" class="clSubb">Hermann Hospital</a><br>
-&nbsp; &nbsp; <a href="/locations/k.html" class="clSubb">Katy</a><br>
-&nbsp; &nbsp;  <a href="/locations/mc.html" class="clSubb">Memorial City</a><br>
-&nbsp; &nbsp; <a href="/locations/nw.html" class="clSubb">Northwest</a><br>
-&nbsp; &nbsp; <a href="/locations/se.html" class="clSubb">Southeast</a><br>
-&nbsp; &nbsp; <a href="/locations/sw.html" class="clSubb">Southwest</a><br>
-&nbsp; &nbsp; <a href="/locations/tw.html" class="clSubb">The Woodlands</a><br>
-&nbsp; <span class="hvMenu">Specialty Facilities</span><br>
-&nbsp; &nbsp;  <a href="/locations/cc.html" class="clSubb">Continuing Care Hospital</a><br>
-&nbsp; &nbsp;  <a href="/locations/ib.html" class="clSubb">Imaging and Breast Center</a><br>
-&nbsp; &nbsp;  <a href="/locations/hh.html" class="clSubb">Home Health</a><br>
-&nbsp; &nbsp;  <a href="/services/prev.html" class="clSubb">Prevention and<br>
-&nbsp; &nbsp; &nbsp; &nbsp;  Recovery Center</a><br>
-&nbsp; &nbsp;  <a href="/locations/ss.html" class="clSubb">Spring Shadows Pines</a><br>
-&nbsp; &nbsp;  <a href="/locations/sl.html" class="clSubb">Sugar Land Health Center</a><br>
-&nbsp; &nbsp;  <a href="/locations/up.html" class="clSubb">University Place<br>
-&nbsp; &nbsp; &nbsp; &nbsp;  Retirement Community</a><br>
-&nbsp; &nbsp;  <a href="/locations/up.html" class="clSubb">University Place<br>
-&nbsp; &nbsp; &nbsp; &nbsp;  Nursing Center</a><br>
-&nbsp; &nbsp;  <a href="/locations/wc.html" class="clSubb">Wellness Center</a><br> 	  	 
-		</div><img src="/theme/images/interface/butspace.jpg" width="150" height="7" alt="space" border="0"><br>
-	</div>
-		<div id="divTop1" class="clTop" style="left: 0px; top: 27px;"> 
-	<img name="img9" src="/theme/images/interface/9_off.gif" width="150" height="20" alt="For Your Education" border="0" usemap="#9on"><br>
-		<div id="divSub1" class="clSub" style="visibility: hidden;"><img src="/theme/images/interface/9_on.gif" width="150" height="20" alt="For Your Education" border="0" usemap="#9on">
-&nbsp; <a href="/calendarofevents/" class="clSubb">Classes and Seminars</a><br>
-&nbsp; <a href="/education/RESfamily.html" class="clSubb">Residency Programs</a><br>
-&nbsp; <a href="/education/publications.html" class="clSubb">Publications</a><br> 
-		</div><img src="/theme/images/interface/butspace.jpg" width="150" height="7" alt="space" border="0"><br>  
-	</div>
-			<div id="divTop2" class="clTop" style="left: 0px; top: 54px;">
-	<img name="img10" src="/theme/images/interface/10_off.gif" width="150" height="20" alt="Health &amp; Wellness" border="0" usemap="#10on"><br>
-		<div id="divSub2" class="clSub" style="visibility: hidden;"><img src="/theme/images/interface/10_on.gif" width="150" height="20" alt="Health &amp; Wellness" border="0" usemap="#10on"><br>
-&nbsp; <a href="/healthwellness/wc.html" class="clSubb">Wellness Programs</a><br>	
-&nbsp; <a href="/yourhealth/" class="clSubb">Health Information</a><br>		
-&nbsp; <a href="/healthwellness/supportgrp.html" class="clSubb">Support Groups</a><br>
-&nbsp; <a href="/services/CamMainPage.html" class="clSubb">Integrative Medicine</a><br> 
-		</div><img src="/theme/images/interface/butspace.jpg" width="150" height="7" alt="space" border="0"><br>  
-	</div>
-			<div id="divTop3" class="clTop" style="left: 0px; top: 81px;">
-	<a href="/security/formslogin.asp?/MyPersonalHealth/EncryptDefault.asp?FROM=Personalization" onmouseover="ovon(11,'divTop4')" onmouseout="ovoff(11,'divTop4')"><img name="img11" src="/theme/images/interface/11_off.gif" width="150" height="20" alt="MyWellness" border="0"></a><br>
-		<div id="divSub3" class="clSub" style="visibility: hidden;"> 
-		</div><img src="/theme/images/interface/butspace.jpg" width="150" height="7" alt="space" border="0"><br>  
-	</div>
-			<div id="divTop4" class="clTop" style="left: 0px; top: 108px;">
-	<img name="img12" src="/theme/images/interface/12_off.gif" width="150" height="20" alt="How You Can Give" border="0" usemap="#12on"><br>
-		<div id="divSub4" class="clSub" style="visibility: hidden;"><img src="/theme/images/interface/12_on.gif" width="150" height="20" alt="How You Can Give" border="0" usemap="#12on"><br>
-&nbsp; <a href="/aboutus/foundation.html" class="clSubb">Make a Donation</a><br>
-&nbsp; <a href="/services/volunteer.html" class="clSubb">Volunteering</a><br>
-&nbsp; <a href="/howyoucangive/donateblood.html" class="clSubb">Donate Blood</a><br>
-&nbsp; <a href="/services/CMN.html" class="clSubb">Children's Miracle Network</a><br>
-&nbsp; <a href="/services/MMmedmission.html" class="clSubb">Medical Missions</a><br>
-		</div><img src="/theme/images/interface/butspace.jpg" width="150" height="7" alt="space" border="0"><br>  
-	</div>
-			<div id="divTop5" class="clTop" style="left: 0px; top: 135px;">
-	<img name="img13" src="/theme/images/interface/13_off.gif" width="150" height="20" alt="Newsroom" border="0" usemap="#13on"><br>
-		<div id="divSub5" class="clSub" style="visibility: hidden;"><img src="/theme/images/interface/13_on.gif" width="150" height="20" alt="Newsroom" border="0" usemap="#13on"><br>
-&nbsp; <a href="/newsroom/newsreleases.html" class="clSubb">News Releases</a><br>
-&nbsp; <a href="/newsroom/mediacontact.html" class="clSubb">Media Contacts</a><br>
-&nbsp; <a href="/newsroom/newsarchive.html" class="clSubb">News Archive</a><br>
-		</div><img src="/theme/images/interface/butspace.jpg" width="150" height="7" alt="space" border="0"><br>  
-	</div>
-			<div id="divTop6" class="clTop" style="left: 0px; top: 162px;">
-	<img name="img14" src="/theme/images/interface/14_off.gif" width="150" height="20" alt="About Us" border="0" usemap="#14on"><br>
-		<div id="divSub6" class="clSub" style="visibility: hidden;"><img src="/theme/images/interface/14_on.gif" width="150" height="20" alt="About Us" border="0" usemap="#14on"><br>
-&nbsp; <a href="/aboutus/letter_ceo.html" class="clSubb">Letter from the CEO</a><br>
-&nbsp; <a href="/aboutus/purval.html" class="clSubb">Purpose and Values</a><br>
-&nbsp; <a href="/aboutus/history.html" class="clSubb">History</a><br>
-&nbsp; <a href="/aboutus/partnerscaring.html" class="clSubb">Partners in Caring</a><br>
-&nbsp; <a href="/aboutus/spirtuallead.html" class="clSubb">Spiritual Leadership</a><br>
-&nbsp; <a href="/aboutus/foundation.html" class="clSubb">MH Foundation</a><br>
-		</div><img src="/theme/images/interface/butspace.jpg" width="150" height="7" alt="space" border="0"><br>  
-	</div>
-			<div id="divTop7" class="clTop" style="left: 0px; top: 189px;">
-	<img name="img15" src="/theme/images/interface/15_off.gif" width="150" height="20" alt="Online Resources" border="0" usemap="#15on"><br>
-		<div id="divSub7" class="clSub" style="visibility: hidden;"><img src="/theme/images/interface/15_on.gif" width="150" height="20" alt="Online Resources" border="0" usemap="#15on"><br>
-&nbsp; <a href="/onlineresources/onlinejourn.html" class="clSubb">Medical Journals</a><br>
-&nbsp; <a href="/onlineresources/onlineassoc.html" class="clSubb">Healthcare Assoc.</a><br>
-&nbsp; <a href="/onlineresources/onlinehou.html" class="clSubb">Houston Area Information </a><br>
-		</div><img src="/theme/images/interface/butspace.jpg" width="150" height="7" alt="space" border="0"><br>  
-	</div>
-	
-	<div id="divTop8" class="clTop" style="left: 0px; top: 216px;">
-	<img name="img18" src="/theme/images/interface/18_off.gif" width="150" height="20" alt="Patient Services" border="0" usemap="#18on"><br>
-		<div id="divSub8" class="clSub" style="visibility: hidden;"><img src="/theme/images/interface/18_on.gif" width="150" height="20" alt="Patient Services" border="0" usemap="#18on"><br>
-&nbsp; <a href="https://secure1.mhhs.org/previsit/members/memberlogon.asp" target="_self" class="clSubb">Pre-Registration</a><br>
-&nbsp; <a href="/patientsrv/insuranceaffil.html" class="clSubb">Insurance &amp; Patient Billing</a><br>
-&nbsp; <a href="https://swowa.mhhs.org/egreeting/egreeting.html" target="_blank" class="clSubb">E-Greetings</a><br>
-		</div><img src="/theme/images/interface/butspace.jpg" width="150" height="7" alt="space" border="0"><br>  
-	</div>
-	
-
-			<div id="divTop9" class="clTop" style="left: 0px; top: 243px;">
-	<img name="img16" src="/theme/images/interface/16_off.gif" width="150" height="20" alt="Physician Services" border="0" usemap="#16on"><br>
-		<div id="divSub9" class="clSub" style="visibility: hidden;"><img src="/theme/images/interface/16_on.gif" width="150" height="20" alt="Physician Services" border="0" usemap="#16on"><br>
-&nbsp; <a href="https://www.physicianlink.org" target="_blank" class="clSubb">PhysicianLink - Secure</a><br>
-&nbsp; <a href="http://web.mhhs.org/resources/Emr_Physicians/Main.asp" target="_blank" class="clSubb">EMR Physician Training</a><br>
-&nbsp; <a href="http://web.mhhs.org/resources/health_net/hn-default.html" target="_blank" class="clSubb">MH Healthnet Providers</a><br>
-&nbsp; <a href="/education/RESfamily.html" class="clSubb">Residency Programs </a><br>
-		</div><img src="/theme/images/interface/butspace.jpg" width="150" height="7" alt="space" border="0"><br>  
-	</div>
-				<div id="divTop10" class="clTop" style="left: 0px; top: 270px;">
-	<img name="img17" src="/theme/images/interface/17_off.gif" width="150" height="20" alt="Employee Services" border="0" usemap="#17on"><br>
-		<div id="divSub10" class="clSub" style="visibility: hidden;"><img src="/theme/images/interface/17_on.gif" width="150" height="20" alt="Employee Services" border="0" usemap="#17on"><br>
-			 &nbsp; <a href="/employeesrv/currentsrv.html" class="clSubb">Current services</a><br>
-		</div>
-	</div>
-	</div>
-	
-
-
-	
-<table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0" align="left">
-<tbody><tr>
-<td height="95%" align="left" valign="top" nowrap="">			
-<!-- Begin Inner Tables -->
-<!-- Left Logo & Nav Table -->
-<table width="150" height="100%" border="0" cellspacing="0" cellpadding="0" align="left">
-<tbody><tr><form method="GET" action="/Search/searchresult.asp" name="Search"></form>
-<td width="150" valign="top">
-<a href="http://www.memorialhermann.org" onmouseover="ovon(1)" onmouseout="ovoff(1)"><img name="img1" src="/theme/images/interface/1_off.gif" width="150" height="32" alt="memorialhermann.org" border="0"></a><br>
-<a href="/yourhealth/" onmouseover="ovon(2)" onmouseout="ovoff(2)"><img name="img2" src="/theme/images/interface/2_off.gif" width="150" height="53" alt="Memorial Hermann Health Information" border="0"></a><br><img src="/theme/images/interface/navtop.gif" width="150" height="5" alt="space" border="0"><br>
-	
-	 &nbsp; <span class="search">Site Search</span><br> &nbsp; <input alt="Enter a keyword to search on." type="text" name="q1" size="11">
-	<input type="image" src="/theme/images/interface/go.jpg" align="absbottom" width="23" height="21" alt="Click to submit keyword for search." border="0"><br>	 &nbsp; <a href="/search/" class="search">Advanced Search</a>
-</td>
-</tr>
+<!-- Start Top Navigation -->  
+<table width="770" border="0" cellspacing="0" cellpadding="1">
+  <tbody><tr>
+    <td height="40" bgcolor="#006699" align="left" valign="middle"><a href="/"><img src="/theme/images/mhlogMB.gif" width="350" height="34" alt="Memorial Hermann Healthcare System" border="0"></a></td>
+   <td height="40" align="center" valign="middle" bgcolor="#006699" width="75"><a href="/locations/default.html" class="mhhstopnav">Our<br>Locations</a></td>
+   <td height="40" align="center" valign="middle" bgcolor="#006699" width="75"><a href="/services/physiciansrch.html" class="mhhstopnav">Find a<br>Physician</a></td>
+    <td height="40" align="center" valign="middle" bgcolor="#006699" width="75"><a href="/calendarofevents/default.htm" class="mhhstopnav">Calendar<br>of Events</a></td>
+    <td height="40" align="center" valign="middle" bgcolor="#006699" width="75"><a href="/careers/default.htm" class="mhhstopnav">Careers</a></td>
+    <td height="40" align="center" valign="middle" bgcolor="#006699" width="75"><a href="/nurserymhhs/default.htm" class="mhhstopnav">Nursery</a></td>
+  </tr>
 </tbody></table>
-<!-- End Nav Table -->
-<!-- Begin Header & Body Table -->
-<table bgcolor="#FFFFFF" width="100%" height="100%" border="0" cellspacing="0" cellpadding="0" align="left">
-<tbody><tr>
-<td height="85" nowrap="">
-<table align="left" border="0" cellpadding="0" cellspacing="0" width="449">
-<tbody><tr><td align="left"><img name="csphoto" src="/theme/images/interface/hdr_not.jpg" width="323" height="85" alt="" border="0"><br>
-</td><td align="left" nowrap=""><img hspace="0" src="/theme/images/interface/faces.gif" name="photogo" width="126" height="85" alt="Memorial Hermann, For Your Whole Life." border="0"><br></td></tr></tbody></table>
-</td>
-</tr>
-<tr>
-<td height="32" nowrap="">
-<table align="left" border="0" cellpadding="0" cellspacing="0" width="615"><tbody><tr><td align="left" valign="top" nowrap=""><a href="/services/physiciansrch.html" onmouseout="ovoff(3)" onmouseover="ovon(3)"><img alt="Physician  Search" border="0" height="32" name="img3" src="/theme/images/interface/3_off.gif" width="126"></a><a href="/services" onmouseout="ovoff(4)" onmouseover="ovon(4)"><img alt="Services  &amp; Programs" border="0" height="32" name="img4" src="/theme/images/interface/4_off.gif" width="132"></a><a href="/calendarofevents/" onmouseout="ovoff(5)" onmouseover="ovon(5)"><img alt="Calendar  of Events" border="0" height="32" name="img5" src="/theme/images/interface/5_off.gif" width="128"></a><a href="http://web.mhhs.org/nursery/NurserySearch.asp" onmouseover="ovon(6)" onmouseout="ovoff(6)"><img alt="Online  Nursery" border="0" height="32" name="img6" src="/theme/images/interface/6_off.gif" width="120"></a><a href="/careers/" onmouseout="ovoff(7)" onmouseover="ovon(7)"><img alt="Careers" border="0" height="32" name="img7" src="/theme/images/interface/7_off.gif" width="119"></a><br></td></tr></tbody></table>
-</td>
-</tr>
+<!-- End Top Navigation -->  
 
-<tr>
-<td valign="top" bgcolor="#FFFFFF">						
-<!-- Begin Body Table -->
-<table bgcolor="#FFFFFF" width="620" height="100%" border="0" cellspacing="0" cellpadding="0" align="left">
+<table width="770" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
-<td valign="top" bgcolor="#FFFFFF">
-<!-- HCO CONTENT HERE -->
+<td width="150" align="center" valign="top" background="/theme/images/navbground.gif">
+	<table width="148" border="0" cellspacing="1" cellpadding="3" bgcolor="#FFFFFF">
+      	<tbody><tr><td bgcolor="#006699"><a href="/aboutus/wholelife.html"><img src="/theme/images/wholelife.gif" width="142" height="12" border="0" alt="Memorial Hermann.  For Your Whole Life."></a></td></tr>
+      	 <tr>
+	<td bgcolor="#006699" height="25" valign="middle">
+		<table width="100%" height="100%" border="0" cellpadding="2" cellspacing="0">
+              <tbody><tr><td class="mhhstopnav">Search<br></td></tr>
+		<tr>
+		<form method="get" action="/Search/searchresult.asp" name="search"></form>
+		<td class="mhhstopnav" align="left" valign="middle">
+		<script language="JavaScript">
+		<!--//  Netscape 4 Resize Text Input
+ 		var navigatorString = navigator.appName
+  		var navigatorVer = navigator.appVersion
+  		navigatorVer = parseInt(navigatorVer)
+  		var browserString = navigatorString + navigatorVer
+  		if (browserString == "Netscape4")  { document.write("<input type='text' name='q1' size='5'>")  }
+  		else { document.write("<input type='text' name='q1' size='14'> ")  }
+		//-->
+		</script><input type="text" name="q1" size="14"> 
+              	<input type="image" src="/theme/images/go_new.jpg" border="0" alt="Click To Submit Keyword For Search." width="20" height="20" name="Submit Keyword" align="absmiddle"></td></tr>
+		<tr><td class="mhhstopnav">
+		<a href="/search/" class="mhhstopnav">Advanced Search</a></td></tr>
+		</tbody></table>
+        	 </td></tr>
+       	 <tr><td bgcolor="#006699"><a href="/manageyourhealth/default.htm" class="mhhstopnav">Manage Your Health</a></td></tr>
+       	 <tr><td bgcolor="#006699"><a href="/resourcessupport/default.htm" class="mhhstopnav">Resources &amp; Support</a></td></tr>
+       	 <tr><td bgcolor="#006699"><a href="/services/default.htm" class="mhhstopnav">Services &amp; Programs</a></td></tr>
+      	 <tr><td bgcolor="#006699"><a href="/locations/wc.html" class="mhhstopnav">Wellness Center </a></td></tr>
+      	 <tr><td bgcolor="#006699"><a href="/becomeamember/default.html" class="mhhstopnav">Memberships</a></td></tr>
+       	 <tr><td bgcolor="#006699"><a href="/waystogive/default.htm" class="mhhstopnav">Ways To Give</a></td></tr>
+       	 <tr><td bgcolor="#006699"><a href="/volunteer/default.htm" class="mhhstopnav">Volunteer</a></td></tr>
+       	 <tr><td bgcolor="#006699"><a href="/aboutus/default.html" class="mhhstopnav">About Us</a></td></tr>
+       	 <tr><td bgcolor="#006699"><a href="/newsroom/default.htm" class="mhhstopnav">Newsroom</a></td></tr>
+       	 <tr><td bgcolor="#006699"><a href="/foremployers/default.htm" class="mhhstopnav">For Employers</a></td></tr>
+       	 <tr><td bgcolor="#006699"><a href="/forpatients/default.htm" class="mhhstopnav">For Patients</a></td></tr>
+       	 <tr><td bgcolor="#006699"><a href="/forphysicians/default.htm" class="mhhstopnav">For Physicians</a></td></tr>
+       	 <tr><td bgcolor="#006699"><a href="/foremployees/default.htm" class="mhhstopnav">For Employees</a></td></tr>
+      	</tbody></table>
+	<table width="150" border="0" cellspacing="0" cellpadding="0">
+       	<tbody><tr><td background="/theme/images/navbground.gif">&nbsp;</td></tr>
+        	<tr><td>
+        	<a href="https://www.memorialhermann.org/security/formslogin.asp?/MyPersonalHealth/EncryptDefault.asp?FROM=Personalization"><img src="/theme/images/mywellnesswhite.gif" width="120" height="30" border="0" alt="Login To MyWellness"></a>
+        	</td></tr>
+        	<tr><td>
+        	<a href="https://swowa.mhhs.org/egreeting/egreeting.html" target="_blank"><img src="/theme/images/egreetwhite.gif" width="120" height="30" border="0" alt="Send An E-Greeting"></a>
+       	</td></tr>
+       	<tr><td><a href="https://secure1.mhhs.org/previsit/members/login.asp" target="_blank">
+       	<img src="/theme/images/preregwhite.gif" width="120" height="30" border="0" alt="Patient Pre-Registration"></a></td></tr>
+<tr><td><a href="/newsroom/111502.htm">
+	<img src="/theme/images/eaward.gif" width="145" height="90" border="0" alt="2002 Platinum Award - Best Site Design"></a>
+	</td></tr>
+      	<tr><td>&nbsp;</td></tr>
+	<tr><td>     	<a href="http://www.healthvision.com" target="_blank"><img src="/theme/images/hvlogonav.gif" width="130" height="30" border="0" alt="Powered by HEALTHvision"></a>
+      	</td></tr>
+	</tbody></table>
+</td>
+<td width="620" align="left" valign="top" height="10"> 
+<!-- Begin HCO Content -->
 
 
 
@@ -724,53 +302,30 @@ You may remove previously provided personal and/or health-related personal infor
       </tr>
     </tbody></table>
 
+<!-- End  HCO Content -->
 
-<!-- HCO CONTENT -->
-</td>
-</tr>
-</tbody></table><br>
-<!-- Begin Footer Table -->
-</td>
-</tr>
-<tr>
-<td valign="top" bgcolor="#FFFFFF">	
-<table align="left" height="60" width="620" border="0" cellspacing="0" cellpadding="2">
-<tbody><tr>
-
-<td align="center" bgcolor="#FFFFFF">
-<img vspace="2" src="/theme/images/interface/footrule.jpg" width="450" height="2" alt="" border="0"><br>
-<map name="footmap">
-<area alt="Home" coords="7,1,69,24" href="/">
-<area alt="Contact the Webmaster" coords="94,1,190,24" href="mailto:webmaster@mhhs.org">
-<area alt="Site Map" coords="216,1,292,24" href="/frontpage/sitemap.html">
-</map>
-<img src="/theme/images/interface/footer.gif" width="312" height="25" alt="space" border="0" usemap="#footmap"><br>
-<a href="/Policies/priv_pol.htm" class="hvLinks">Privacy Policy</a> 
-| <a href="/Policies" class="hvLinks">Policies &amp; Ownership</a><br>
-<img src="/theme/images/interface/nothing.gif" width="1" height="5" alt="space" border="0"><br>
-<img src="/theme/images/Interface/hvlogo.gif" width="29" height="27" alt="Powered by HEALTHvision" border="0"><a href="http://www.healthvision.com" target="_blank" class="hvLinks">Powered by HEALTHvision</a><br><br>
-<a href="http://www.memorialhermann.org/includes/PrintBuilder.asp?URL=/Policies/priv_pol.htm&amp;QS=" target="_blank"><img border="0" src="/includes/PrintPage.gif"></a>
-
-</td>
-</tr>
-</tbody></table>						
-<!-- End Footer Table -->						
-<!-- End Body Table -->
-</td>
-</tr>
-</tbody></table>			
-<!-- End Header & Body Table -->
-<!-- End Inner Tables -->
-</td>
-</tr>
-<tr>
-<td height="5%" align="left" nowrap="">			
-
-
-</td></tr>
+  <table border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+  <td width="620" align="center" valign="top">
+            <p><img src="/theme/images/interface/footer_new.gif" width="453" height="26" usemap="#footer" border="0"><br>
+  <a href="/frontpage/npp.html" class="hvLinks" title="Review Our Web Site's Privacy Policy">Notice of Privacy Practices</a>
+  &nbsp;&nbsp;<font color="#00699">|</font>&nbsp;&nbsp;
+ <a href="/Policies" class="hvLinks" title="Review Our Web Site's Policies &amp; Ownership">Policies &amp; Ownership</a></p>
+ <a href="http://www.memorialhermann.org/includes/PrintBuilder.asp?URL=/Policies/priv_pol.htm&amp;QS=" target="_blank"><img border="0" src="/includes/PrintPage.gif"></a>
+  <a href="/includes/EmailLink1.asp" class="hvLinks">&nbsp;&nbsp;<img src="/includes/emailicon.gif" width="18" height="14" border="0/">&nbsp; 
+		          Email To A Friend</a>
+ </td>
+ </tr>
+ </tbody></table>
+    </td>
+  </tr>
 </tbody></table>
-
-
+<map name="footer"> 
+  <area shape="rect" coords="0,2,142,24" alt="Get Health Information" title="Get Health Information" href="/yourhealth/">
+  <area shape="rect" coords="165,2,226,24" href="/" alt="Go To Home Page" title="Go To Home Page">
+  <area shape="rect" coords="253,2,348,24" href="mailto:webmaster@mhhs.org" alt="Contact Webmaster" title="Contact Webmaster">
+  <area shape="rect" coords="374,2,450,24" href="/frontpage/sitemap.html" alt="View Site Map" title="View Site Map">
+</map>
 
 
 
