@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vogue.com.au privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603184539id_/http%3A//www.ipmg.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vogue.com.au privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202212527id_/http%3A//www.ipmg.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
