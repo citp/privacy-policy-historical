@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newswise.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612092040id_/http%3A//www.newswise.com/about/policy/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newswise.com privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212021626id_/http%3A//www.newswise.com/about/policy/%23privacy) for the most accurate reproduction.*
 
 # Newswise
 
@@ -27,7 +27,7 @@ Newswise is the most innovative service of its kind. It introduced the concept a
 
 Newswise expanded to the web in 1996. It is the most comprehensive site for research, or knowledge-based news, with more than 400 leading research institutions participating. 
 
-Newswise moved to Charlottesville, Virginia, in 2001 and has offices in Helsinki, Finland; Mannheim, Germany; and Athens, Greece. 
+Newswise moved to Charlottesville, Virginia, in 2001 and has offices in Helsinki, Finland and Athens, Greece. 
 
 [](http://www.newswise.com/about/policy/#top)
 
