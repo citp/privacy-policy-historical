@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the play.net privacy policy that was archived on 2002-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021212010241id_/http%3A//www.play.net/playdotnet/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the play.net privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621121522id_/http%3A//www.play.net/playdotnet/privacy.asp) for the most accurate reproduction.*
 
 # play.net >> Privacy Policy
 
@@ -34,17 +34,10 @@ We use an outside ad company to display ads on our site. These ads may contain c
 **This site gives children the ability to publicly post or distribute personally identifiable contact information without prior parental consent. However Simutronics Corporation does employ staff to monitor the interactive parts of our site to help ensure as kid-friendly atmosphere as is possible in a highly interactive environment. 
 
 **Choice/Opt-Out**  
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
+Our site provides users with a **play.net** account the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. To update your communication options, please see the "Email Subscriptions" page in [the Account section](http://www.play.net/playdotnet/account/) of the site, or [follow this link](http://www.play.net/playdotnet/account/change_email.asp).
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
-
-> **Email:** [Feedback@simutronics.com](mailto:feedback@simutronics.com)
-
-**Correct/Update  
-**This site gives users the following options for changing and modifying information previously provided. 
-
-> **Email:** [Feedback@simutronics.com](mailto:feedback@simutronics.com)  
->  **Visit:** [www.play.net](http://www.play.net/)
+**Correct/Update**  
+Our site provides users with a **play.net** account the opportunity to change and modify information previously provided. To update your information, please see [the Account section](http://www.play.net/playdotnet/account/) of the site.
 
 **Contacting the Web Site  
 **If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
