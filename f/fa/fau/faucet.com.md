@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the faucet.com privacy policy that was archived on 2003-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031121200323id_/http%3A//store.faucet.com/cgi-bin/fcom/gen_ppolicy%3F%3BFaucet.com%7C%3B) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faucet.com privacy policy that was archived on 2004-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040426015954id_/http%3A//store.faucet.com/cgi-bin/fcom/gen_ppolicy%3F%3BFaucet.com%7C%3B) for the most accurate reproduction.*
 
-# 
+# Faucet.com - Kitchen & Bathroom Faucets, Sinks, Fixtures and Hardware
+
+  
+
 
 Faucet.com has created this privacy notice in order to demonstrate our firm commitment to consumer privacy on our web site.  Because Faucet.com wants to demonstrate its commitment to your privacy, we have agreed to disclose our information handling practices. 
 
@@ -30,4 +33,7 @@ Dan Auer
 President
 
 [ _dauer@faucet.com_](mailto:dauer@Faucet.com)  
+
+
+  
 
