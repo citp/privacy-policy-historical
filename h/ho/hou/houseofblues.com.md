@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the houseofblues.com privacy policy that was archived on 2004-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040624180419id_/http%3A//hob.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseofblues.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204121726id_/http%3A//www.hob.com/support/privacy) for the most accurate reproduction.*
 
 # Privacy : HOB.com
 
 ## Our Commitment to Privacy
 
-House of Blues Entertainment, Inc. ("HOB") respects our customers' privacy and is committed to collect, maintain, and use customer information responsibly. We do not sell or rent information you provide us to third parties and you may [update your account information](https://web.archive.org/updates/) at any time.
+House of Blues Entertainment, Inc. ("HOB") respects our customers' privacy and is committed to collect, maintain, and use customer information responsibly. We do not sell or rent information you provide us to third parties and you may [update your account information](http://store.hob.com/account/) at any time.
 
 This privacy statement explains our information collection, storage, and use practices for the HOB websites and our other forms of online communication. If this policy changes in the future, we will let you know by posting any changes to this webpage or by communicating directly with you. We will contact you directly before using your information in a manner not previously permitted in this privacy policy. Prior to such changes, you will have the opportunity to opt out of any new use of your information.
 
@@ -72,3 +72,5 @@ We welcome your questions or comments regarding this privacy statement. Please c
 HOB Customer Service  
 6255 Sunset Blvd. 18th floor   
 Hollywood, CA 90028
+
+_Effective Date: 12 July 2004._
