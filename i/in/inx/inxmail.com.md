@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inxmail.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602233005id_/http%3A//www.inxmail.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inxmail.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206121227id_/http%3A//www.inxmail.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Inxmail - Professional email marketing software and services [Privacy Policy]
 
@@ -8,7 +8,7 @@
 | [Inxmail Easy](https://web.archive.org/products/inxmail_easy/index.html)  
 | [Inxmail Professional](https://web.archive.org/products/inxmail_professional/index.html)  
 | [Inxmail Enterprise](https://web.archive.org/products/inxmail_enterprise/index.html)  
-| [Inxmail ASP-Service](https://web.archive.org/service/index.html)  
+| [Inxmail ASP-Service](https://web.archive.org/service/inxmail_asp_service.html)  
 |  |   
   
   
