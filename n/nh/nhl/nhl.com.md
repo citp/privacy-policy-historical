@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nhl.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206130900id_/http%3A//www.nhl.com/nhlhq/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhl.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603045311id_/http%3A//www.nhl.com/nhlhq/privacy.html) for the most accurate reproduction.*
 
 # NHL.com - NHL Headquarters
 
@@ -22,15 +22,14 @@ _Your privacy is important to us. At NHL ICE, we are committed to undertaking re
 
  _Please contact us at_ _[webmaster@nhl.com](mailto:webmaster@nhl.com?subject=Privacy)_ _if you have any questions or comments about our use of personal information_. 
 
-**Information requested from children (users under 13 years old)**
+**Children's Privacy Statement (users under 13 years old)**
 
- _At NHL.com and NHL4kids.com, we take our responsibilities to our younger visitors seriously. In addition to the steps we take to safeguard the privacy and integrity of personal information submitted by adults, we adhere to the following principles and practices regarding personal information requested from children under 13 years old._
+ _At NHL.com, we take our responsibilities to our younger visitors seriously. It is the intention of NHL Interactive CyberEnterprises, LLC, the operator of this website, to fully comply with the requirements of the Children's Online Privacy Protection Act and the Guidelines promulgated by the Children's Advertising Review Unit of the Better Business Bureau._
 
-  * We will not obtain personal information from children under 13 (such as full name, home address, e-mail address, phone number, etc.) without first obtaining verifiable consent from their parents. Requests for parental consent will explain how we collect, use, and disclose children's personal information, and will include an opportunity for parents to prevent use of their children's information as well as to prevent their children from participating in the online activity. Without prior parental consent, we will only use a child's personal information (for example, his or her e-mail address) to respond directly to a request from that child or to seek parental consent or provide parental notice. 
-  * We will not use, distribute, or disclose any child's personal information to third parties without prior parental consent. 
-  * If, at any time, a parent withdraws his or her consent to our use or maintenance of personal information collected from his or her child, we will promptly remove such information from our database. 
-  * We will not require children under 13 to disclose more personal information than is necessary in order to participate in any game, contest, or similar online interactive activity hosted by us. 
+  * In general, we do not knowingly collect personal information from children under 13 via the website, and we use age screening mechanisms to help prevent children from posting data on the website, such as in our fan chat rooms. We do not require children to register or to otherwise disclose personal information to participate in the activities in the KIDS section of our website. 
+  * In the future we may offer children the opportunity to enter promotions or contests via the NHL.com website. In this case, the child will be asked only to provide his or her first name and email address, as well as his or her parent's email address. We will use the information only to notify the contest winners, and will require that the winner's parent provide us with whatever information is needed to provide the prize. 
+  * We may also post information on the website about other promotions or contests that are open to children but that require other personal information (such as home address or favorite hockey team) to enter. For these contests, children will be required to print a paper entry form from the website and have their parents sign and mail or fax the form to us. Children are not be permitted to provide personal information via the website or to enter these contests online. 
+  * The NHL.com website is operated by NHL Interactive CyberEnterprises, LLC, for the benefit of the National Hockey League member teams, our affiliates and corporate sponsors. All questions about our policies related to children's data and our data sharing practices should be directed to NHL ICE at [webmaster@nhl.com](mailto:webmaster@nhl.com?subject=Children%27s%20Privacy%20Statement). Please note that the nhl.com website contains links to websites that are not operated by NHL ICE. We are not responsible for the privacy practices or the content of such websites, and we recommend that you view the privacy policy posted on each site that you use to confirm that the site's policies are acceptable to you. 
 
-
-
-_If you have any comments or questions about the information you or your children have submitted on this web site, including its accuracy, integrity, or completeness, or if you wish to access, review, verify, correct, amend, or remove such information, you may send an e-mail to _[webmaster@nhl.com](mailto:webmaster@nhl.com?subject=Privacy)_. Or, if you have any questions or comments about our use of your or your children's personal information or about our commitment to protecting your and your children's privacy, please contact _[webmaster@nhl.com](mailto:webmaster@nhl.com?subject=Privacy)_. NHL ICE pledges to investigate any complaint you may have regarding our use of personal information and to comply fully with the legal or regulatory supervisory authorities responsible for enforcing our adherence to the privacy principles stated above._
+  
+ 
