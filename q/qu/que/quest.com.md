@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quest.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208034302id_/http%3A//www.quest.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quest.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604151623id_/http%3A//quest.com/privacy.asp) for the most accurate reproduction.*
 
 # Quest Software Privacy Statement
 
@@ -29,12 +29,12 @@ Most browsers are initially set to accept cookies. You can set your browser to n
 While Quest Software uses cookies to track your visit to the Quest Software Web site, this information does not identify you personally and you remain anonymous unless you have otherwise provided Quest Software with personal information.
 
 **Choice/Opt-Out or Correct/Update**  
-If you would like to remove your information from our database or not receive future communications, or wish to change or modify information previously provided please contact us at [webmaster@quest.com](mailto:webmaster@quest.com)
+If you would like to remove your information from our database or not receive future communications, or wish to change or modify information previously provided please contact us at [listmaster@quest.com](mailto:listmaster@quest.com)
 
 **Contacting our Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Quest Software, Inc. at [webmaster@quest.com](mailto:webmaster@quest.com)
 
   
-Page last updated: 12/11/2000
+Page last updated: 2/14/2003
 
                                                                                                                                                                                                                                
