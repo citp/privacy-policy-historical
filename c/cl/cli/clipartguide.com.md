@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clipartguide.com privacy policy that was archived on 2000-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000520085853id_/http%3A//clipartguide.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipartguide.com privacy policy that was archived on 2000-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001021013646id_/http%3A//clipartguide.com/privacy_statement.html) for the most accurate reproduction.*
 
 # 
 
