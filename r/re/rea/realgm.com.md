@@ -1,34 +1,30 @@
-> *The following text is extracted and transformed from the realgm.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004071337id_/http%3A//www1.realgm.com/src_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realgm.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621171124id_/http%3A//www2.realgm.com/src_privacy.php) for the most accurate reproduction.*
 
-# Real GM
+# 
 
 [**Trade Checker**](https://web.archive.org/src_tradechecker.php)  
-[**Free Agents**](https://web.archive.org/src_freeagents.php)  
+[**Lotto Simulator**](https://web.archive.org/src_lottosim.php)  
 [**Wiretap (News)**](https://web.archive.org/src_wiretap.php)  
 [**Heads Up (E-Mail)**](https://web.archive.org/src_subscription.php)  
 [**Player Profiles**](https://web.archive.org/src_roster.php)  
 [**Message Boards**](https://web.archive.org/boards/index.php)  
 [**Transactions**](https://web.archive.org/src_recent_transactions.php)  
 [**Depth Charts**](https://web.archive.org/src_depthcharts.php)  
-[**Larry Coon's FAQ**](http://members.cox.net/lmcoon/salarycap.htm)|   
+[**Larry Coon's FAQ**](http://members.cox.net/lmcoon/salarycap.htm) |   
 ---  
   
-Q: _Which Eastern Conference team improved the most this offseason?_
+Q: _Has Jason Kidd played his last game for the Nets?_
 
 * * *
 
-New Jersey  
-Washington  
-Philadelphia  
-Boston  
-Chicago  
-New York  
-Atlanta  
-Other  
+Yes  
+No  
   
-[View old polls](https://web.archive.org/web/20021004071337id_/http%3A//www1.realgm.com/src_polls.php)  
+[View old polls](https://web.archive.org/web/20030621171124id_/http%3A//www2.realgm.com/src_polls.php)  
   
-  | 
+  
+  |    
+
 
 **Privacy Statement:**
 
