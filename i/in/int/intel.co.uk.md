@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intel.co.uk privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605112733id_/http%3A//www.intel.com/sites/corporate/privacy.htm%3Fiid%3DukHomepage%2BFooter_Privacy%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intel.co.uk privacy policy that was archived on 2003-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031221104057id_/http%3A//www.intel.com/sites/corporate/privacy.htm%3Fiid%3DukHomepage%2BFooter_Privacy%26) for the most accurate reproduction.*
 
 # Intel Corporation - Intel Privacy Policy
 
@@ -159,7 +159,7 @@ All updates to this policy will be posted here. Last update: July 24, 2002
 | 
 
   
-Contact Intel at: [privacy.feedback@intel.com](mailto:privacy.feedback@intel.com). To aid in processing your request, please include the following details:
+Please contact us by using [this form](https://web.archive.org/intel/writeusp.htm). To aid in processing your request, please include the following details:
 
   * Contact information (your name, address, e-mail address, etc.)
   * Name of the program where you want the update applied
