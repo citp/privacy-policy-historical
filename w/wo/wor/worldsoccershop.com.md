@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the worldsoccershop.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607040142id_/http%3A//worldsoccershop.com/more_info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldsoccershop.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204123322id_/http%3A//www.worldsoccershop.com/privacy.html) for the most accurate reproduction.*
 
-# WorldSoccerShop.com - Official soccer merchandise from top brands - Nike, adidas, Puma, Reebok, Umbro
+# World Soccer Shop
 
 **Privacy Policy**
 
-Introduction  
+|  Introduction  
 ---  
 Your acceptance of these Privacy Statement terms  
-What data do we collect and how do we use it?  
-Log files/IP addresses  
+What data do we collect and how do we use it?   
+Log files/IP addresses   
 Non personal information  
 Use of Cookies  
 With whom is the information shared?  
@@ -19,7 +19,7 @@ Comments
   
 * * *
 
-**Introduction**  
+** Introduction**  
 365 (which means 365 Corporation plc, 365 plc and their associated companies) is committed to protecting your privacy when you use our on-line, telephone or other services ("Services"). In this policy we explain how and why we collect your information, what we do with it and what controls you have over our use of it.
 
 From time to time, we add or change functions, features or products to our Web Sites or add or change Services. This, and our commitment to protecting the privacy of your personal information, may result in periodic changes to this Privacy Policy. As a result, please remember to refer back to this Privacy Policy regularly to review any amendments.
@@ -30,14 +30,14 @@ Back to top
 
 * * *
 
-**Your acceptance of these Privacy Statement terms**  
+** Your acceptance of these Privacy Statement terms**  
 By using any of the sites within our web site network ("Web Sites") or our Services, you unconditionally agree to be bound by this Privacy Policy. 
 
 Back to top
 
 * * *
 
-**What data do we collect and how do we use it?**  
+** What data do we collect and how do we use it?**  
 365 collects and processes information about you in order to:
 
 (i) identify you each time you visit a Web Site or wish to have a Service provided;   
@@ -55,21 +55,21 @@ Back to top
 
 * * *
 
-**_ _Log files/IP addresses  
+** Log files/IP addresses  
 **When you visit our Web Sites, we automatically log your IP address (the unique address which identifies your computer on the internet) which is automatically recognised by our web server. We use IP addresses to help us administer our Web Sites and to collect broad demographic information for aggregate use. We do not link IP addresses to personally identifiable information. 
 
 Back to top
 
 * * *
 
-**__Non personal information**  
+** Non personal information**  
 We may automatically collect non-personal information about you such as the type of internet browsers you use or the site from which you linked to our Web Sites. You cannot be identified from this information and it is only used to assist us in providing an effective service on our Web Sites. We may from time to time supply the owners or operators of third party sites from which it is possible to link to our Web Sites with information relating to the number of users linking to our Web Sites from their sites. You cannot be identified from this information. 
 
 Back to top
 
 * * *
 
-**__Use of Cookies**  
+**Use of Cookies**  
 Cookies are pieces of information that a Web Site transfers to your hard drive to store and sometimes track information about you. Most web browsers automatically accept cookies, but if you prefer, you can change your browser to prevent that. However, you may not be able to take full advantage of a Web Site if you do so. Cookies are specific to the server that created them and cannot be accessed by other servers, which means they cannot be used to track your movements around the web. Although they do identify a user's computer, cookies do not personally identify customers or passwords. Credit card information is not stored in cookies.
 
 We use cookies for the following reasons:
@@ -85,7 +85,7 @@ Back to top
 
 * * *
 
-**With whom is the information shared?**  
+** With whom is the information shared?**  
 365 will not share, sell or rent your personal information to third parties. However, we may disclose your personal information to third party suppliers who provide services on our behalf.
 
 365 may disclose aggregate statistics about our sales, our Web Site visitors and customers of our telephone services in order to describe our services to prospective partners, advertisers and other reputable third parties and for other lawful purposes, but these statistics will not include personally identifying information.
@@ -114,15 +114,15 @@ Back to top
 
 * * *
 
-**Where is the information stored?**  
+** Where is the information stored?**  
 Information which you submit via our Web Sites or our telephone services is stored on a computer located in the European Economic Area. This is necessary in order to process the information and to send you any information you have requested. Information submitted by you may be transferred by us to our other offices and to reputable third party suppliers, which may be situated outside the European Economic Area. Not all countries outside the EEA have data protection or privacy laws. In addition, if you use our Services while you are outside the EEA, your information may be transferred outside the EEA in order to provide you with those Services. 
 
 Back to top
 
 * * *
 
-******Comments**  
-Please e-mail any questions, concerns or comments you have about our Privacy Policy to [ bfrei@365-inc.com](mailto:bfrei@365-inc.com) or write to us at:
+**Comments**  
+Please e-mail any questions, concerns or comments you have about our Privacy Policy to [bfrei@365-inc.com](mailto:bfrei@365-inc.com) or write to us at:
 
 Privacy  
 365  
