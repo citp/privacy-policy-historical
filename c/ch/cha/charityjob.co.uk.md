@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charityjob.co.uk privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207211723id_/http%3A//www.charityjob.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charityjob.co.uk privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618112429id_/http%3A//charityjob.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -12,4 +12,4 @@ Popcorn Promotions does not capture and store any personal information about ind
 
 We do not send cookies from this site, except to make it easier for individuals to enter the private area of our site, and even in that case we offer visitors the opportunity to decline a cookie. 
 
-You have a right to know about the personal information Popcorn Promotions holds about you. You also have a right to have your data corrected or deleted. Please address all your requests and/or queries about our Data Protection policy to the Website Manager, Popcorn Promotions, 57 Bond Road, Surbiton Surrey KT6 7SG England, or by email to [info@charityjob.co.uk](mailto:info@charityjob.co.uk). 
+You have a right to know about the personal information Popcorn Promotions holds about you. You also have a right to have your data corrected or deleted. Please address all your requests and/or queries about our Data Protection policy to the Popcorn Promotions Ltd, PO Box 762A SURBITON KT5 8YZ England, or by email to [info@charityjob.co.uk](mailto:info@charityjob.co.uk "info@charityjob.co.uk")
