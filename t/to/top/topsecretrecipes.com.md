@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topsecretrecipes.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202162100id_/http%3A//www.topsecretrecipes.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topsecretrecipes.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604031051id_/http%3A//www.topsecretrecipes.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,8 +15,8 @@ We urge parents to regularly monitor and supervise their children’s on-line ac
 
 ADVERTISEMENTS
 
-The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. In the course of delivering an ad to you DoubleClick collects certain non-personally identifiable information about you. This information is used to deliver tailored ads to you.  DoubleClick has significant security measures in place in their physical facilities and in their computer systems, databases, and communications networks to strictly protect information contained within their systems from loss, misuse or alteration. If you would like to know more about the information gathering practices and "opt-out" procedures of DoubleClick, please click [here](http://www.doubleclick.net/privacy_policy/).  
+The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. In the course of delivering an ad to you DoubleClick collects certain non-personally identifiable information about your visits to this and other Web sites. This information is used to deliver tailored ads to you. During this process, DoubleClick may also place or recognize a unique "cookie" on your browser. DoubleClick has significant security measures in place in their physical facilities and in their computer systems, databases, and communications networks to strictly protect information contained within their systems from loss, misuse or alteration. If you would like to know more about the information gathering practices and "opt-out" procedures of DoubleClick, please click [here](http://www.doubleclick.net/privacy_policy/).  
 
 
 Copyright © 2000 Top Secret Recipes, Inc. All Rights Reserved  
-[Terms and Conditions](https://web.archive.org/web/20001202162100id_/http%3A//www.topsecretrecipes.com/terms.htm)
+[Terms and Conditions](https://web.archive.org/web/20010604031051id_/http%3A//www.topsecretrecipes.com/terms.htm)
