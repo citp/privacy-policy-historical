@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activision.com privacy policy that was archived on 2000-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000621192244id_/http%3A//activision.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activision.com privacy policy that was archived on 2000-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001218055400id_/http%3A//activision.com/privacy.asp) for the most accurate reproduction.*
 
 # Activision : Privacy Policy
 
@@ -51,7 +51,7 @@ In addition to using cookies to save time, [www.activision.com](http://www.activ
 An IP address is the unique number assigned to your server or Internet Service Provider; they generally do not identify you personally. Activision keeps track of the IP address you are using to access [www.activision.com](http://www.activision.com/). 
 
 **_OPT-OUT:_**  
-If you do not want to participate in Activision's informational questionnaire or contests, or if you do not want to receive e-mail or regular mail about our products and/or services, you can opt-out at the time of registration or at the time of information collection. If at a later date you choose to have your name removed from Activision's database, you can do so by sending an e-mail to [webmster@activision.com](mailto:webmaster@activision.com). 
+If you do not want to participate in Activision's informational questionnaire or contests, or if you do not want to receive e-mail or regular mail about our products and/or services, you can opt-out at the time of registration or at the time of information collection. If at a later date you choose to have your name removed from Activision's database, you can do so by sending an e-mail to [webmaster@activision.com](mailto:webmaster@activision.com). 
 
 **_DATA QUALITY:_**  
 Activision ensures data quality, such as the accuracy of information obtained from website visitors to [www.activision.com](http://www.activision.com/). Access to information kept by Activision is strictly controlled. 
@@ -60,4 +60,4 @@ Activision ensures data quality, such as the accuracy of information obtained fr
 Activision recognizes the special obligation to protect personal identifiable information obtained from children 12 and under. AS A RESULT, IF YOU ARE 12 YEARS OLD OR YOUNGER, YOU MAY NOT SUBMIT ANY PERSONAL INFORMATION TO ACTIVISION. 
 
 **_CONTACT INFORMATION - QUESTIONS & COMPLAINTS:_**  
-Any questions or complaints about [www.activision.com](http://www.activision.com/) or this privacy statement can be resolved by contacting Activision at [webmster@activision.com](mailto:webmaster@activision.com) or [www.activision.com](http://www.activision.com/). You may call us at 310-255-2000. Please address all mail to 3100 Ocean Park Boulevard, Santa Monica, CA 90405. 
+Any questions or complaints about [www.activision.com](http://www.activision.com/) or this privacy statement can be resolved by contacting Activision at [webmaster@activision.com](mailto:webmaster@activision.com) or [www.activision.com](http://www.activision.com/). You may call us at 310-255-2000. Please address all mail to 3100 Ocean Park Boulevard, Santa Monica, CA 90405. 
