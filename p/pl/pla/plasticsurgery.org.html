@@ -1,0 +1,365 @@
+<!--The following is the downloaded HTML source of the plasticsurgery.org privacy policy that was archived on 2003-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030621095517id_/http%3A//www.plasticsurgery.org/privacy.cfm) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html xmlns:v="urn:schemas-microsoft-com:vml"><head>
+<title>Privacy</title>
+<meta name="Description" content="Privacy">
+<meta name="Keywords" content="Privacy"><meta name="Generator" content="CommonSpot Content Server Version 3.2 SP2">
+<link rel="stylesheet" href="/style/default.css" type="text/css"><link rel="stylesheet" href="/style/public_education.css" type="text/css">
+<script language="JavaScript"> <!--
+var gMenuControlID=0;
+var menus_included = 0;
+var jsPageAuthorMode = 0;
+var jsSessionPreviewON = 1;
+var jsDlgLoader = '/loader.cfm';
+var jsSiteID = 1;
+var jsSubSiteID = 1;
+var kurrentPageID = 1852;
+// -->
+</script><script language="JavaScript" src="/commonspot/nw-lame.js"></script>
+<link rel="stylesheet" href="/style/print.css" type="text/css" media="print">
+<script language="javascript" src="/templates/flash.js"></script>
+</head>
+<body lang="en" class="CS_Document"><a name="__topdoc__"></a><script language="JavaScript"><!--
+// always-include-ie.js  Copyright 1998-2003 PaperThin, Inc. All rights reserved.
+bName = navigator.appName;
+bVer = parseInt(navigator.appVersion);
+var bCanRollover=0
+if ((bName == "Netscape" && bVer >= 3) ||
+(bName == "Microsoft Internet Explorer" && bVer >= 4))
+bCanRollover=1;
+function ImageSet(imgID,newTarget)
+{
+if (bCanRollover)
+document[imgID].src=newTarget;
+}
+function clearStatus()
+{
+window.status = "";
+}
+function setStatbar(statbar)
+{
+var strStatbar=unescape(statbar);
+window.status=strStatbar;
+}
+function onLoadComplete()
+{
+if( menus_included == 1 )
+document.onmouseover = document_mouseover;	// defined in menu_ie.js
+}
+function HandleLink(parentID,link)
+{
+// links are in one of the following formats:
+// 		cpe_60_0,CP___PAGEID=100
+// 		CPNEWWIN:WindowName^params@CP___
+// 			CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2.cfm,1
+if( jsPageAuthorMode == 0 )
+{
+windowname = "";
+windowparams = "";
+// "CPNEWWIN:" & NewWindowName & "^" & params & "@" & linkStruct.LinkURL;
+pos = link.indexOf("CPNEWWIN:");
+if (pos != -1)
+{
+pos1 = link.indexOf ("^");
+windowname = link.substring (pos+9, pos1);
+pos2 = link.indexOf ("@");
+windowparams = link.substring (pos1 + 1, pos2);
+link = link.substring (pos2 + 1, link.length);
+}
+if (link.indexOf ("CP___") != -1)
+{
+if (windowname == "")
+window.location = jsDlgLoader + "?url=/commonspot/utilities/handle-link.cfm&thelink=" + link;
+else
+{
+urltoopen = jsDlgLoader + "?url=/commonspot/utilities/handle-link.cfm&thelink=" + link;
+windowparams = FormatWindowParams(windowparams);
+window.open (urltoopen, windowname, windowparams);
+}
+}
+else
+{
+if (windowname == "")
+window.location = link;
+else
+{
+windowparams = FormatWindowParams(windowparams);
+window.open (link, windowname, windowparams);
+}
+}
+}
+else if( jsSessionPreviewON == 1 )
+{
+previewLink(link);
+}
+else
+{
+if( document.all[parentID] )
+document.all[parentID].click();
+}
+}
+function doWindowOpen(href,name,params)
+{
+window.open (href, name, params);
+}
+// 	CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2.cfm,1
+function FormatWindowParams(windowparams)
+{
+if( windowparams.indexOf(":loc=") != -1 || windowparams.indexOf(":ww=") != -1 || windowparams.indexOf(":hh=") != -1 ||
+windowparams.indexOf(":left=") != -1 || windowparams.indexOf(":top=") != -1 )
+{
+windowparams = substringReplace(windowparams,':left=',',left=');
+windowparams = substringReplace(windowparams,'left=','left=');
+windowparams = substringReplace(windowparams,':ww=',',width=');
+windowparams = substringReplace(windowparams,'ww=','width=');
+windowparams = substringReplace(windowparams,':hh=',',height=');
+windowparams = substringReplace(windowparams,'hh=','height=');
+windowparams = substringReplace(windowparams,':loc=',',location=');
+windowparams = substringReplace(windowparams,'loc=','location=');
+windowparams = substringReplace(windowparams,':dir=',',directories=');
+windowparams = substringReplace(windowparams,'dir=','directories=');
+windowparams = substringReplace(windowparams,':tb=',',toolbar=');
+windowparams = substringReplace(windowparams,'tb=','toolbar=');
+windowparams = substringReplace(windowparams,':stat=',',status=');
+windowparams = substringReplace(windowparams,':mb=',',menubar=');
+windowparams = substringReplace(windowparams,':sb=',',scrollbars=');
+windowparams = substringReplace(windowparams,':rs=',',resizable=');
+}
+return windowparams;
+}
+function substringReplace(source,pattern,replacement)
+{
+var pos = 0;
+var target="";
+while ((pos = source.indexOf(pattern)) != (-1))
+{
+target = target + source.substring(0,pos) + replacement;
+source = source.substring(pos+pattern.length);
+pos = source.indexOf(pattern);
+}
+return (target + source);
+}
+// handle scheduled element links
+function show_sched_element(eid)
+{
+evalCol = String(self.element_collection);
+dispFlag = false;
+ua = navigator.userAgent.toLowerCase();
+if (bName == "Netscape" || ua.indexOf('aol') >= 0)
+{
+// cloned from always-include-ns.js
+tmp = "";
+if  (evalCol != 'undefined')
+{
+str = self.location.search;
+for(i=0;i<self.element_collection.length;i++)
+{
+sp = 'sched_elements_' + self.element_collection[i].id;
+if  (self.element_collection[i].id == eid)
+{
+dispFlag = true;
+if  (str == '')
+{
+tmp = "?forceElement=" + eid;
+self.location.search = tmp;
+}
+else
+{
+qArray = str.split("&");
+forceExists = false;
+for(i=0; i < qArray.length; i++)
+{
+el = qArray[i];
+qel = el.split('=');
+if  (qel.length == 1)
+qel[1] = '';
+if  (qel[0] == 'forceElement' || qel[0] == '?forceElement')
+{
+forceExists = true;
+qel[1] = eid;
+}
+qArray[i] = qel;
+}
+// reassemble
+searchStr = '';
+for (i=0; i < qArray.length; i++)
+{
+if  (i == 0)
+searchStr = qArray[i][0] + '=' + qArray[i][1];
+else
+searchStr = searchStr + '&' + qArray[i][0] + '=' + qArray[i][1];
+}
+if  (!forceExists)
+searchStr = searchStr + '&forceElement=' + eid;
+tmp = searchStr;
+self.location.search = searchStr;
+break;
+}
+}
+}
+}
+if  (!dispFlag)
+alert("You do not have access to the requested element.")
+}
+else
+{
+if ( evalCol != 'undefined' )
+{
+for(i=0;i<self.element_collection.length;i++)
+{
+sp = 'sched_elements_' + self.element_collection[i].id;
+obj = document.all.item(sp);
+//alert(sp);
+if ( self.element_collection[i].id == eid && obj != null)
+{
+dispFlag = true;
+if ( obj.length >= 0 )
+{
+for(z=0;z<obj.length;z++)
+{
+obj(z).style.display = 'block';
+}
+}
+else
+document.all(sp).style.display = 'block';
+}
+else if ( obj != null )
+{
+if ( obj.length >= 0 )
+{
+for(z=0;z<obj.length;z++)
+{
+obj(z).style.display = 'none';
+}
+}
+else
+document.all(sp).style.display = 'none';
+}
+}
+}
+if ( !dispFlag )
+alert("You do not have access to the requested element.")
+}
+}
+// --></script>
+<script language="JavaScript"> <!--
+function glblLinkHandler(lobj, attr, val)
+{
+return;
+}
+function onLoadFinished()
+{
+onLoadComplete();
+}
+var js_gvPageID = 1852;
+// -->
+</script><script language="JavaScript"><!--
+bName = navigator.appName;
+bVer = parseInt(navigator.appVersion);
+
+var bCanRollover=0
+if ((bName == "Netscape" && bVer >= 3) ||
+	 (bName == "Microsoft Internet Explorer" && bVer >= 4))
+	bCanRollover=1;
+
+function ImageSet(imgID,newTarget)
+{
+	if (bCanRollover)
+		document[imgID].src=newTarget;
+}
+// -->
+</script><!-- -->
+<table cellpadding="0" cellspacing="0" border="0" width="776">
+<tbody><tr>
+<td valign="top" width="165" height="141"><span class="CS_Element_Schedule"><span id="1852-493"><span class="CS_Element_Image"><div id="1852-1504">
+<span class="CS_Image_IMG"><a href="/index.cfm" style="text-decoration:none" onmouseout=" setStatbar(''); return true;" onmouseover=" setStatbar('/index.cfm'); return true;"><img src="/images/procedures.jpg" class="CS_Image_IMG" border="0" width="165" height="141" alt="ASPS hdr logo - Learn About Procedures"></a></span></div></span></span></span>
+</td>
+<td class="cphideformenus" colspan="2" valign="top" width="610" height="141">
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="611" height="141" id="flash_nav" align="">
+<param name="movie" value="/flash_nav.swf?xmlurl=/flash_nav_2.xml"> <param name="quality" value="high"> <param name="bgcolor" value="#FFFFFF"> <embed src="/flash_nav.swf?xmlurl=/flash_nav_2.xml" quality="high" bgcolor="#FFFFFF" width="611" height="141" name="flash_nav" align="" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+</object>
+</td>
+</tr>
+<tr>
+<td valign="middle" width="165" align="center" style="vertical-align: middle; border-right: 1px dashed #ddd;" class="highlight"><span class="CS_Element_LinkBar"><div class="highlight"><span class="CS_LinkBar_Item"><span class="highlight"><a href="/about-asps.cfm" onmouseover=" setStatbar('/about-asps.cfm');  return true;" onmouseout=" setStatbar('');  return true;" class="highlight">About ASPS</a></span></span><span class="CS_LinkBar_Separator">&nbsp;|&nbsp;</span><span class="CS_LinkBar_Item"><span class="highlight"><a href="/contact.cfm" onmouseover=" setStatbar('/contact.cfm');  return true;" onmouseout=" setStatbar('');  return true;" class="highlight">Contact Us</a></span></span></div></span></td>
+<td width="446" style="vertical-align: middle; padding-left: 5px;"><div class="CS_Element_LinkBar"><span class="CS_LinkBar_Item"><span class="breadcrumb"><a href="/" onmouseover=" setStatbar('/');  return true;" onmouseout=" setStatbar('');  return true;" class="breadcrumb">Home</a></span></span></div></td>
+<td width="165"><img src="/images/spacer.gif" width="1" height="16"><span class="CS_Element_Textblock"><div id="1852-498"><span class="CS_Element_Textblock"><span class="CS_Generic_Text"><div class="CS_Textblock_Text"><!--<table cellspacing="0" cellpadding="0" width="165" border="0">
+<tbody>
+<tr>
+<td valign="top" align="middle" width="33%"><a class="redsmall" href="#"><img height="15" alt="Save" src="/images/save.gif" width="16" border="0"><br>
+save</a></td>
+<td valign="top" align="middle" width="33%"><a class="redsmall" href="#"><img height="15" alt="Print" src="/images/print.gif" width="16" border="0"><br>
+print</a></td>
+<td valign="top" align="middle" width="33%"><a class="redsmall" href="#"><img height="15" alt="Email this site to a friend" src="/images/email.gif" width="18" border="0"><br>
+email</a></td>
+</tr>
+</tbody>
+</table>--><img src="/images/spacer.gif" width="100" height="15"></div></span></span></div></span></td>
+</tr>
+<tr><td valign="top" width="165" style="border-right: 1px dashed #ddd; padding-left: 5px;"><span class="CS_Element_Schedule"><span id="1852-506"></span></span>
+<span class="CS_Element_Schedule"><span id="1852-1791"></span></span>
+<span class="CS_Element_Schedule"><span id="1852-501"><div class="CS_Element_LinkBar"><span class="nav_header">About Plastic Surgery:</span>
+<br>
+<p style="margin: 0px 0px -10px 10px; text-indent: -10px;"><span class="col_nav"><a href="/about-asps.cfm" class="col_nav">About ASPS/PSEF</a></span>
+<span class="arrow"><a href="/about-asps.cfm" class="arrow">»</a></span></p><br>
+<p style="margin: 0px 0px -10px 10px; text-indent: -10px;"><span class="col_nav"><a href="/Frequently-Asked-Questions.cfm" class="col_nav">FAQs</a></span>
+<span class="arrow"><a href="/Frequently-Asked-Questions.cfm" class="arrow">»</a></span></p><br>
+<p style="margin: 0px 0px -10px 10px; text-indent: -10px;"><span class="col_nav"><a href="/History.cfm" class="col_nav">History</a></span>
+<span class="arrow"><a href="/History.cfm" class="arrow">»</a></span></p><br>
+<p style="margin: 0px 0px -10px 10px; text-indent: -10px;"><span class="col_nav"><a href="/Reaching-Out-How-it-all-Began.cfm" class="col_nav">Reaching Out</a></span>
+<span class="arrow"><a href="/Reaching-Out-How-it-all-Began.cfm" class="arrow">»</a></span></p><br>
+<p style="margin: 0px 0px -10px 10px; text-indent: -10px;"><span class="col_nav"><a href="/Support-Plastic-Surgery.cfm" class="col_nav">Support Plastic Surgery</a></span>
+<span class="arrow"><a href="/Support-Plastic-Surgery.cfm" class="arrow">»</a></span></p><br>
+<p style="margin: 0px 0px -10px 10px; text-indent: -10px;"><span class="col_nav"><a href="/links.cfm" class="col_nav">Links</a></span>
+<span class="arrow"><a href="/links.cfm" class="arrow">»</a></span></p><br>
+</div></span></span>
+<br>
+<span class="CS_Element_Schedule"><span id="1852-4753"></span></span>
+</td>
+<td valign="top" width="446" style="padding-left: 5px; padding-right: 5px;"><span class="CS_Element_Layout"><table id="idLayout2" cellpadding="0" cellspacing="0" class="CS_Layout_Table" width="100%" summary=""><tbody><tr class="CS_Layout_TR"><td id="idCell2x1x1" class="CS_Layout_TD"><span class="CS_Element_Textblock"><div id="1852-1849"><span class="CS_Element_Textblock"><span class="CS_Generic_Text"><div class="CS_Textblock_Text"><span class="header">Privacy</span>
+<p>The American Society of Plastic Surgeons (ASPS) believes that user privacy is integral to the success, growth and use of the Internet. This statement describes the practices that ASPS will follow in respect to the privacy of site users. This statement may be reviewed and changed as new services and programs are introduced which require modifications to this statement. ASPS encourages you to re-read this Privacy Policy periodically.<br>
+<br>
+ASPS does not collect personally identifiable information regarding the users of its Internet site - including e-mail addresses – without asking the user. In some instances, ASPS may request that users voluntarily supply information, including e-mail address, street address, telephone number or other information, to allow the society to personalize and enhance a users’ site visit or to provide the opportunity for follow up after the site visit. Whether users provide information is entirely voluntary.<br>
+<br>
+You must be at least 18 years old to have our permission to use this site. Our policy is that we do not knowingly collect, use or disclose personally identifiable information about visitors under 18 years of age.<br>
+<br>
+<span class="subhead">Use of information provided</span><br>
+If you voluntarily provide information, you consent to the collection and use of your personally identifiable information by the society. However, ASPS does not sell or rent personal information collected through this site to anyone.<br>
+<br>
+ASPS may provide aggregate statistics about Web site visitors, such as volume, traffic patterns, referral sources and related site information to reputable third-party vendors, but these statistics will include no personally identifiable information about the users. ASPS may also disclose information in special cases when it has a good faith belief that such action is necessary to: (a) conform to legal requirements or comply with legal process; (b) protect and defend our rights or property; (c) enforce the Web site Terms and Conditions of Use; or (d) act to protect the interests of our users or others. Occasionally ASPS may be required by law enforcement or judicial authorities to provide personally identifiable information to the appropriate governmental authorities. We will disclose such information upon receipt of a court order, subpoena, or to cooperate with a law enforcement investigation. ASPS reserves the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful.<br>
+<br>
+If you have voluntarily provided personally identifiable information, ASPS may, from time to time, send mail or e-mail to you regarding products and services. If you do not want to receive such offers and mailings, you can easily indicate that by checking the appropriate box on the submission form.<br>
+<br>
+<span class="subhead">Regarding cookies<br>
+</span>ASPS may utilize a standard Internet technology called "cookies" to collect information about how the society’s site is accessed and utilized. Cookies can allow a web site operator to determine that a user visited the site in the past and thus save and remember preferences that the user may have set while browsing the site. Cookies do not allow the Web site to retrieve any other data from your hard drive or obtain your e-mail address. ASPS may also make use of memory-based cookies in support of authenticating the user of certain ASPS web applications. While users maintain the ability to modify browser settings to either accept all cookies, notify you when a cookie is sent, or reject all cookies, it may not be possible to utilize certain ASPS services which require registration if the browser is set to reject cookies.<br>
+<br>
+<span class="subhead">Other sites<br>
+</span>This site contains links to other sites. While ASPS strives to link only to sites that share our high standards and respect for privacy, the society is not responsible for the privacy practices employed by other sites. If you have questions or concerns regarding this statement, you should contact us at <a id="mailto:webmaster@plasticsurgery.org|" href="mailto:webmaster@plasticsurgery.org">webmaster@plasticsurgery.org</a>.</p></div></span></span></div></span></td></tr>
+</tbody></table>	</span>
+</td>
+<td valign="top" width="165" style="padding-left: 5px;"><span class="CS_Element_Layout"><table id="idLayout521" cellpadding="0" cellspacing="0" class="CS_Layout_Table" width="100%" summary=""><tbody><tr class="CS_Layout_TR"><td id="idCell521x1x1" class="CS_Layout_TD"><span class="CS_Element_Schedule"><span id="1852-3221"></span></span></td></tr>
+</tbody></table>	</span>
+</td>
+</tr>
+<!-- margin between content and footer -->
+<tr>
+<td style="border-right: 1px dashed #ddd;"><img src="/images/spacer.gif" width="1" height="15"></td>
+<td colspan="2"><img src="/images/spacer.gif" width="1" height="15"></td>
+</tr>
+<tr>
+<td colspan="3">
+<!-- lower navigation, info, copyright -->
+<table cellpadding="0" cellspacing="0" width="776" style="border-top: 1px dashed #ddd; border-left: 1px dashed #fff; border-right: 1px dashed #fff; border-bottom: 1px dashed #fff;">
+<tbody><tr>
+<td><img src="/images/spacer.gif" width="5" height="1"></td>
+<td valign="top">
+<span class="CS_Element_LinkBar"><div class="footer"><span class="CS_LinkBar_Item"><a href="/contact.cfm" onmouseover=" setStatbar('/contact.cfm');  return true;" onmouseout=" setStatbar('');  return true;" class="CS_LinkBar_Item">Contact Us</a></span><span class="CS_LinkBar_Separator">&nbsp;|&nbsp;</span><span class="CS_LinkBar_Item"><a href="/privacy.cfm" onmouseover=" setStatbar('/privacy.cfm');  return true;" onmouseout=" setStatbar('');  return true;" class="CS_LinkBar_Item">Privacy</a></span><span class="CS_LinkBar_Separator">&nbsp;|&nbsp;</span><span class="CS_LinkBar_Item"><a href="/disclaimer.cfm" onmouseover=" setStatbar('/disclaimer.cfm');  return true;" onmouseout=" setStatbar('');  return true;" class="CS_LinkBar_Item">Disclaimer</a></span></div></span>
+</td>
+<td class="footer"><span class="CS_Element_Textblock"><div id="1852-1091"><span class="CS_Element_Textblock"><span class="CS_Generic_Text"><span class="CS_Textblock_Text"><div class="footer">Surgeon Referral Service 1.888.4 PLASTIC</div></span></span></span></div></span></td>
+<td class="footer" align="right"><span class="CS_Element_Textblock"><div id="1852-1092"><span class="CS_Element_Textblock"><span class="CS_Generic_Text"><span class="CS_Textblock_Text"><div class="footer"><div align="right">All Materials 2003 ASPS/PSEF&nbsp;</div></div></span></span></span></div></span></td>
+</tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
+</body></html>
