@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the elitefitness.com privacy policy that was archived on 2002-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020223143655id_/http%3A//www.elitefitness.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitefitness.com privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216094317id_/http%3A//www.elitefitness.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for Elite Fitness
 
-Privacy Statement for Elite Fitness
-
-[](https://web.archive.org/ubb/Archives) Elite Fitness has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this site; Elite Fitness. 
+[an error occurred while processing this directive] Privacy Statement for Elite Fitness [](https://web.archive.org/ubb/Archives) Elite Fitness has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this site; Elite Fitness. 
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information.
 
@@ -48,9 +46,7 @@ This site gives users the following options for changing and modifying informati
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
-
-Elite Fitness, Inc. 217 West 18th Street PO Box 1264 New York, NY 10113-1264 suggestions@elitefitness.com
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact  Elite Fitness, Inc. 217 West 18th Street PO Box 1264 New York, NY 10113-1264 suggestions@elitefitness.com
 
 [](http://www.elitefitness.com/capro/redirect.cgi/top_banner)
 
