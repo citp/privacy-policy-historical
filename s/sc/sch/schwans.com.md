@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schwans.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203195749id_/http%3A//www.schwans.com/customerService/customerServicePrivacy.aspx%3Ftb%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schwans.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606125137id_/http%3A//www.schwans.com/customerService/customerServicePrivacy.aspx%3Ftb%3D6) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,6 +29,8 @@ For example, we use an outside source to provide advertising for schwans.com. Th
 
 Schwan's Home Service, Inc.-or our authorized third party partner(s)-may also collect general information (such as the type of browser you use, the files you request, and the domain name and country from which you request information) to help us make our site serve you better. User-specific data about which pages our customers access may also be gathered. For more information about this practice, [click HERE](http://www.websidestory.com/cgi-bin/wss.cgi?privacy&privacy&index). Data collected by Schwan's Home Service, Inc. is used to create customized recommendations and to tailor content for our customers. This helps make your shopping experience more personalized and complete. 
 
+Schwan's Home Service uses an outside company to measure the effectiveness of our keyword marketing. This technology uses cookies to collect information about our customers' actions on the Schwan's site but does not capture any personally identifiable information such as your name, e-mail address, or telephone number. The privacy of this information is protected by Schwan's Home Service, Inc. You can set your browser to notify you when you receive a cookie, giving you the opportunity to accept or decline it. If you'd like more information about this technology, [click HERE](http://track.did-it.com/w3c/policy.html)
+
 ### Security
 
 Schwan's Home Service, Inc. makes security a top priority. Any personal data you provide to us is stored on a secure server. Only Schwan's Home Service, Inc. employees with proper authorization can view this information. In addition, each customer is protected through a unique username and password. 
@@ -52,4 +54,6 @@ Schwan's Home Service, Inc. reserves the right to modify this privacy policy at 
 By using the Schwan'sTM Web site, you consent to our use of your information as described in this Internet Privacy Policy. As we implement new technology and introduce new services, we will update our Internet Privacy Policy, so we encourage you to review it often. 
 
 |  |    
-
+|   
+---  
+[](http://www.impromptugourmet.com/)
