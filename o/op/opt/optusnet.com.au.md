@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optusnet.com.au privacy policy that was archived on 2001-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010330200436id_/http%3A//www.optusnet.excite.com.au/info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optusnet.com.au privacy policy that was archived on 2001-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010804234536id_/http%3A//optusnet.excite.com.au/info/privacy_policy) for the most accurate reproduction.*
 
 # Optus Excite Channels - Excite Australia Privacy Policy
 
