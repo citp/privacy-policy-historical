@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the embarcadero.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602195328id_/http%3A//www.embarcadero.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the embarcadero.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207042102id_/http%3A//www.embarcadero.com/privacy.html) for the most accurate reproduction.*
 
 # Embarcadero Technologies, Inc - Provider of database and application development tools that enable companies to build, optimize and manage their business applications and underlying databases.
 
@@ -6,9 +6,9 @@ Embarcadero Privacy Statement
 
 * * *
 
-**© Copyright (1996-2003) Embarcadero Technologies, Inc.,  
-425 Market Street, Suite 425,  
-San Francisco, CA 94105 U.S.A.  
+**© Copyright (1996-2004) Embarcadero Technologies, Inc.,  
+100 California Street, 12th Floor  
+San Francisco, CA 94111 U.S.A.  
 All rights reserved.**
 
 * * *
