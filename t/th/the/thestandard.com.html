@@ -1,33 +1,21 @@
-<!--The following is the downloaded HTML source of the thestandard.com privacy policy that was archived on 1999-08-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/19990826230919id_/http%3A//thestandard.com/privacy_policy/%3Ffoot) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thestandard.com privacy policy that was archived on 2000-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20000622000214id_/http%3A//www.thestandard.com/privacy_policy) for the most accurate reproduction.-->
 
 <html><head>
-<title>The Industry Standard: PRIVACY POLICY</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta http-equiv="Description" name="Description" content="The Industry Standard is the single source for critical, timely information about the Internet Economy. Written for senior-level executives who view the Internet as an opportunity to grow their business, The Industry Standard delivers sophisticated coverage of the people, the companies and the business models shaping the Internet Economy.">
-<meta http-equiv="Keywords" name="Keywords" content="internet, economy, economy, business, business, research, research, metrics, news, news, media, finance, technology, internet, ecommerce, advertising, entertainment, telecom, law, recruit, people, companies, research, metrics, magazine, analysis, carl, idg">
-
-<meta http-equiv="Expires" content="Mon, 23 August 1999 02:53:43 GMT">
-<meta name="publisher" content="The Industry Standard">
-<meta name="source" content="The Industry Standard">
-<meta name="copyright" content="Copyright (c) 1998 The Industry Standard. All Rights Reserved.">
-<meta name="language" content="eng">
-<meta name="resource-type" content="document">
-<meta name="robots" content="all">
-<meta name="type" content="Unrefereed Article">
-<meta name="rating" content="General">
- 
-
-<script language="javascript">
+	<title>
+	 
+ 		  TheStandard.com</title>
+	<meta http-equiv="expires" content="Tue, 20 Aug 1996 01:00:00 GMT">
+	   <script language="javascript">
 
 <!--
 // begin params
 sampledUser = 0; // variable for determining whether or not the user was sampled
-sampleRate = 10.0;// sampling rate should be set to a number between 0 and 100
-cookName = "survey2151"; // name of cookie
+sampleRate = 20.0;// sampling rate should be set to a number between 0 and 100
+cookName = "survey2000"; // name of cookie
 cookExpire = 1; //number of months cookie will persist 
 machineUrl = "http://www.thestandard.com/";
-studyName = "survey";
+studyName = "survey2"; //path name of where the survey is located, gets appended to machineUrl
 numWaves = 1; // number of waves the user can be redirected to. should be set to at 1 at the lowest.
 // end params
 
@@ -85,7 +73,10 @@ function sample(BV) {
         else{
           var dest = machineUrl + studyName + "?Ntookcook=" + cookie;
         }
-        window.open(dest,"survey");
+		
+		//********remember to adjust the paramaters here...width and height, scroll, etc**********
+		
+        window.open(dest,"survey","scrollbars=yes,menubar=no,toolbar=no,directories=no,copyhistory=no, ,resizable=yes,width=350,height=300");
 }
 
 if (navigator.appVersion.indexOf("MSIE 3.0A") > -1){
@@ -104,351 +95,599 @@ else if(navigator.appVersion.indexOf("2") < 0){
 // copyright Millward Brown 1998 //
 
 
-</script>
+</script> <script language="javascript">
+
+<!--
+	var allcookies = document.cookie;				// Get list of All Cookies
+	var refer = document.referrer;					// Get HTTP_REFERER var
+	var pos = allcookies.indexOf("personify=");		// Look for the personify cookie
+	var rpos = refer.indexOf("thestandard.com");	// Look for thestandard.com
+	
+	//alert("all cookies->" + allcookies + "\nPos->" + pos + "\nReferer->" + refer + "\nReferer Pos->" + rpos);  // Debug Statement
+
+	if ((pos == -1) || (rpos == -1)) {
+		expireDate = new Date						// Create New Date Object
+		expireDate.setYear(expireDate.getYear()+10)	// date=today + 10 years
+		cookieValue = "06212000165203209.233.23.54"   // cookie value=PeronifyCookieInfo (see above)
+		document.cookie = "personify="+ cookieValue + ";expires=" + expireDate.toGMTString() + ";domain=thestandard.com"
+		//alert("All Done");
+	} else {
+		//alert("DID NOT RESET COOKIE!") // Debug Statement, also left for future use
+	}
+
+// -->
+
+</script> <script language="javascript"><!--
+function openWindow(url, name, w, h, r) {
+	window.open(url,name,'width=' + w + ',height=' + h + ',resizable=' + r +', scrollbars=yes, menubar=no, status=yes, top=100, left=100');
+}
+
+function roll(img,dest) {
+	if (document.images) 
+	document[dest].src = eval(img + ".src");
+}
+
+//--></script>
+
+<script language="javascript">
+<!--
+
+var agt = navigator.userAgent.toLowerCase();
+var is_major = parseInt(navigator.appVersion);
+var is_minor = parseFloat(navigator.appVersion);
+var is_ie   = (agt.indexOf("msie") != -1);
+var is_nav  = 
+	((agt.indexOf('mozilla')!=-1)
+	&& (agt.indexOf('spoofer')==-1)
+	&& (agt.indexOf('compatible') == -1)
+	&& (agt.indexOf('opera')==-1)
+	&& (agt.indexOf('webtv')==-1));
+//var is_nav3 = (is_nav && (is_major == 3));
+var is_nav4up = (is_nav && (is_major >= 4));
+var is_ie3  = (is_ie && (is_major < 4));
+var is_ie4  = (is_ie && (is_major == 4) && (agt.indexOf("msie 5.0")==-1) );
+var is_ie4up  = (is_ie  && (is_major >= 4));
+var is_ie5up  = (is_ie  && !is_ie3 && !is_ie4);
+
+var is_mac = (agt.indexOf("mac")!=-1);
+
+
+if(is_nav4up == true && is_mac == false) {
+   document.write('<link rel=stylesheet type="text/css" href="/css_library/pc_net">');
+}
+else if(is_nav4up == true && is_mac == true) {
+   document.write('<link rel=stylesheet type="text/css" href="/css_library/mac_net">');
+} 
+else if(is_ie5up == true && is_mac == true) {
+   document.write('<link rel=stylesheet type="text/css" href="/css_library/mac_ie_five">');
+}
+else if(is_ie4up == true && is_mac == true) {
+   document.write('<link rel=stylesheet type="text/css" href="/css_library/mac_ie">');
+}
+else {
+   document.write('<link rel=stylesheet type="text/css" href="/css_library/pc_ie">');
+}
+
+
+//-->
+</script><link rel="stylesheet" type="text/css" href="/css_library/pc_net">
+  </head>
+<body bgcolor="#434343" link="#990000" vlink="#666666" alink="#CCCCCC">
+
+<center>
+
+<table border="0" width="767" cellpadding="0" cellspacing="0">
+<tbody><tr>
+	<td width="279" valign="bottom"><a href="/index.html"><img src="http://a1048.g.akamai.net/f/1048/1249/19991109-031103/www.thestandard.com/img/logo/965.gif" height="66" width="279" border="0" alt="TheStandard"></a></td>
+	<td width="20"><img src="/img/general/spacer.gif" height="64" width="20" border="0"></td>
+	<td width="533" valign="top"><nolayer><iframe src="http://ad.doubleclick.net/adi/idg.thestandard/;pos=top;sz=468x60;tile=1;ord=050214?" name="frame1" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/idg.thestandard/;abr=!ie4;abr=!ie5;pos=top;sz=468x60;tile=1;ord=050214?"><IMG SRC="http://ad.doubleclick.net/ad/idg.thestandard/;abr=!ie4;abr=!ie5;pos=top;sz=468x60;tile=1;ord=050214?" BORDER=0 HEIGHT=60 WIDTH=468></A></iframe></nolayer><ilayer id="layer1" visibility="hide" width="468" height="60"></ilayer></td>
+</tr>                        
+</tbody></table>
+
+<table border="0" cellpadding="4" cellspacing="0" width="767" bgcolor="#FFFFFF">
+<tbody><tr><td>
+	<center>
+		
+
+		<table border="0" cellpadding="0" cellspacing="0" width="759" bgcolor="#990000">
+
+		<tbody><tr>
+			<td colspan="6" height="2" bgcolor="#990000"><img src="/img/spacer.gif" height="1" width="1"></td>
+		</tr>
+		
+		<tr>
+			<form method="GET" action="http://search.thestandard.com/texis/multi"></form>
+			
+			<td rowspan="3" width="140" bgcolor="#990000"><img src="/img/spacer.gif" height="1" width="140"></td>
+
+			<td bgcolor="#990000"><img src="http://a1048.g.akamai.net/f/1048/1249/19991114-101146/www.thestandard.com/img/search/100.gif" height="28" width="44" border="0" alt="search"></td>
+			
+			<td bgcolor="#990000" align="center">
+				<select name="stype">
+					<option selected="" value="">-------- Entire Site ---------
+					</option><option value="articles">Articles
+					</option><option value="metrics">Metrics
+					</option><option value="people">People
+					</option><option value="directory">Companies
+					</option><option value="store">Intelligence Store
+					</option><option value="newsletters">Newsletters
+				</option></select>
+			</td>
+			
+			<td bgcolor="#990000"><img src="http://a1048.g.akamai.net/f/1048/1249/19991114-101127/www.thestandard.com/img/search/99.gif" height="28" width="21" border="0" alt="for"></td>
+			
+			<td bgcolor="#990000">
+				&nbsp;<input name="search" size="15">
+				&nbsp;&nbsp;<input name="submit" src="/img/search/133.gif" type="image" border="0" hspace="8">
+			</td>
+			
+			<td rowspan="3" width="140" bgcolor="#990000" align="center">
+				<table border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr><td><img src="http://a1048.g.akamai.net/f/1048/1249/19991123-121110/www.thestandard.com/img/general/1537.gif" height="12" width="88" border="0" alt="Search Sponsored by"><br></td></tr>
+				<tr><td>
+					<nolayer><iframe src="http://ad.doubleclick.net/adi/idg.thestandard/;pos=;sz=88x31;tile=2;ord=050214?" name="frame2" width="88" height="31" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/idg.thestandard/;abr=!ie4;abr=!ie5;pos=;sz=88x31;tile=2;ord=050214?"><IMG SRC="http://ad.doubleclick.net/ad/idg.thestandard/;abr=!ie4;abr=!ie5;pos=;sz=88x31;tile=2;ord=050214?" BORDER=0 HEIGHT=31 WIDTH=88></A></iframe></nolayer><ilayer id="layer2" visibility="hide" width="88" height="31"></ilayer> </td></tr>
+				</tbody></table>
+			</td>
+
+			
+		</tr>
+		
+		<tr>
+			<td colspan="4" height="2" bgcolor="#990000"><img src="/img/spacer.gif" height="1" width="1"></td>
+		</tr>
+		
+		<tr>
+			<td colspan="4" width="490" bgcolor="#990000"><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><a href="http://www.thestandard.com/home/issue/"><img src="http://a1048.g.akamai.net/f/1048/1249/20000509-120559/www.thestandard.com/img/nav/4289.gif" height="18" width="140" border="0" hspace="0" vspace="0" alt="Magazine"></a></td><td><a href="http://www.thestandard.com/newsletters/"><img src="http://a1048.g.akamai.net/f/1048/1249/20000509-120513/www.thestandard.com/img/nav/4291.gif" height="18" width="112" border="0" hspace="0" vspace="0" alt="Newsletters"></a></td><td><a href="http://www.thestandard.com/mystandard/portable/"><img src="http://a1048.g.akamai.net/f/1048/1249/20000509-120539/www.thestandard.com/img/nav/4295.gif" height="18" width="125" border="0" hspace="0" vspace="0" alt="Portable"></a></td><td><a href="http://www.thestandard.com/about/"><img src="http://a1048.g.akamai.net/f/1048/1249/20000621-045203/www.thestandard.com/img/nav/4287.gif" height="18" width="116" border="0" hspace="0" vspace="0" alt="About Us"></a></td></tr></tbody></table></td>
+		</tr>
+		
+		</tbody></table>
+		
+		
+		
+	
+</center>
+</td></tr>
+</tbody></table>
+
+ <table border="0" cellpadding="0" cellspacing="0" width="767">
+<tbody><tr>
+<!-- left column -->
+<td width="140" bgcolor="#666699" valign="top">
+<table border="0" width="140" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td class="white"><img width="4" height="1" border="0" src="/img/spacer.gif"></td>
+<td class="maroon"><img width="1" height="3" border="0" src="/img/spacer.gif"></td>
+</tr>
+<tr>
+<td class="white"><img width="4" height="1" border="0" src="/img/spacer.gif"></td>
+<td width="136">
+<table width="136" border="0" cellpadding="1" cellspacing="0"><tbody><tr><td class="maroon"><img width="2" height="2" border="0" src="/img/spacer.gif"><a class="levelOneDefault">TODAY</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/news/" class="levelTwoDefault">News &amp; Analysis</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/news/opinion/" class="levelTwoDefault">Opinion</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/news/special/home/" class="levelTwoDefault">Special Reports</a></td></tr><tr><td class="maroon"><img width="2" height="2" border="0" src="/img/spacer.gif"><a class="levelOneDefault">DRILL-DOWN</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/subject/ecommerce/" class="levelTwoDefault">Commerce</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/subject/culture/" class="levelTwoDefault">Culture</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/subject/ideas/" class="levelTwoDefault">Ideas &amp; Strategies</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/subject/jobs/" class="levelTwoDefault">Jobs &amp; Workplace</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/subject/marketing/" class="levelTwoDefault">Media &amp; Marketing</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/subject/finance/" class="levelTwoDefault">Money &amp; Markets</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/subject/policy/" class="levelTwoDefault">Policy &amp; Politics</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/subject/technology/" class="levelTwoDefault">Tech &amp; Telecom</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/subject/world/" class="levelTwoDefault">World</a></td></tr><tr><td class="maroon"><img width="2" height="2" border="0" src="/img/spacer.gif"><a class="levelOneDefault">RESEARCH</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/companies/" class="levelTwoDefault">Companies</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/research/store/" class="levelTwoDefault">Intelligence Store</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/research/metrics/" class="levelTwoDefault">Metrics</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/people/" class="levelTwoDefault">People</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/research/briefcase/" class="levelTwoDefault">BriefCase</a></td></tr><tr><td class="maroon"><img width="2" height="2" border="0" src="/img/spacer.gif"><a class="levelOneDefault">CONNECT</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/people/recruitment/" class="levelTwoDefault">Job Shop</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/companies/directory/" class="levelTwoDefault">The Directory</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/events/" class="levelTwoDefault">Conferences &amp; Events</a></td></tr><tr><td class="maroon"><img width="16" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/summit2000/" class="levelThreeDefault">Internet Summit: CA</a></td></tr><tr><td class="maroon"><img width="16" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/netreturns/" class="levelThreeDefault">Net Returns: CO</a></td></tr><tr><td class="maroon"><img width="16" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/events/rooftop/" class="levelThreeDefault">Rooftop Party</a></td></tr><tr><td class="maroon"><img width="2" height="2" border="0" src="/img/spacer.gif"><a class="levelOneDefault">HELP</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.thestandard.com/service/" class="levelTwoDefault">Customer Service</a></td></tr><tr><td class="maroon"><img width="8" height="2" border="0" src="/img/spacer.gif"><a href="http://www.standardservices.com/" class="levelTwoDefault">My Account</a></td></tr></tbody></table></td>
+</tr>
+<tr>
+<td colspan="2"><img src="http://a1048.g.akamai.net/f/1048/1249/20000510-120545/www.thestandard.com/img/nav/4345.gif" height="14" width="140" border="0" hspace="0" vspace="0" alt=""></td>
+</tr>
+	
+	</tbody></table>
+
+	<br>
+		  
+
+				<center><a href="/magazine/double_offer"><img src="/img/is_adverts/4267.gif" width="120" height="182" border="0"></a></center><br>
+
+				
+
+				<center><font color="#FFFFFF"><font face="verdana,arial,helvetica,sans serif" size="1"><br></font><center><font face="verdana,arial,helvetica,sans serif" size="1"><b>Get The Daily News.</b><br>The top stories of <br> the Internet Economy <br>delivered FREE. <br><a href="HTTP://www.thestandard.com/uf/?code=hpnews"></a><center><a href="HTTP://www.thestandard.com/uf/?code=hpnews"><b><font color="#FFFF00">Sign up now</font></b></a><b><font color="#FFFF00">!</font></b></center></font></center>  </font></center></td>
+
+	<!-- left gutter -->
+	<td width="12" valign="top" bgcolor="#666699">
+		<img src="/img/general/1461.gif" height="450" width="12" border="0" vspace="0" hspace="0"><br>
+		<img src="/img/general/1436.gif" height="25" width="12" border="0" vspace="0" hspace="0"><br>
+	</td>
+
+	<!-- center column -->
+	<td width="474" valign="top" bgcolor="#FFFFFF">
+		
+		  
+		
+		 
+
+			<table border="0" width="474" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td colspan="4" bgcolor="#9999CC">
+					<table width="100%" border="0" cellpadding="4" cellspacing="0"><tbody><tr><td><img width="10" height="2" border="0" src="/img/spacer.gif"></td></tr></tbody></table>  </td>
+			</tr>
+			<tr>
+				 <td valign="top" bgcolor="#FFFFFF"><img src="http://a1048.g.akamai.net/f/1048/1249/19991109-031118/www.thestandard.com/img/body/1021.gif" height="10" width="10" border="0" alt=""></td>
+				<td bgcolor="#FFFFFF"><table width="90%" border="0" cellpadding="4" cellspacing="0"><tbody><tr><td></td></tr></tbody></table></td>
+				<td valign="top" bgcolor="#FFFFFF"><img src="http://a1048.g.akamai.net/f/1048/1249/19991109-031121/www.thestandard.com/img/body/1022.gif" height="22" width="19" border="0" alt=""></td>
+				<td bgcolor="#9999CC" align="center">
+					<font size="1" face="verdana">Wed Jun 21</font><br>
+				</td>
+			</tr>
+			<tr bgcolor="#FFFFFF">
+				<td><img border="0" width="10" height="1" vspace="0" hspace="0" src="/img/general/spacer.gif"><br></td>
+				<td><img border="0" width="345" height="1" vspace="0" hspace="0" src="/img/general/spacer.gif"><br></td>
+				<td><img border="0" width="10" height="1" vspace="0" hspace="0" src="/img/general/spacer.gif"><br></td>
+				<td><img border="0" width="100" height="1" vspace="0" hspace="0" src="/img/general/spacer.gif"><br></td>
+			</tr>
+			</tbody></table>
+
+		   
+			<table border="0" cellpadding="4" cellspacing="0" width="474">
+		 <tbody><tr>
+			
+			<td valign="top">
+<p><!-- BEGIN CONTENT --> <font face="Arial, Helvetica, sans-serif" size="3" color="#330066"><b>Privacy Policy</b></font>
+ </p>
+<p> 
+</p><p><font size="2" face="verdana, helvetica, sans-serif"><b>Principles</b></font></p>
+<ul>
+  <li><font size="2" face="verdana, helvetica, sans-serif"><i>The Industry Standard</i> 
+    will not release your personal data to anyone else without your consent. </font></li>
+  <li><font size="2" face="verdana, helvetica, sans-serif"><i>The Industry Standard</i> 
+    does not monitor individual traffic patterns on our site — only aggregate 
+    reader behavior is collected.</font></li>
+  <li><font size="2" face="verdana, helvetica, sans-serif">You may change the 
+    status of whether you wish to receive Industry Standard offers and communications 
+    at anytime. </font></li>
+</ul>
+<p><b><font size="2" face="verdana, helvetica, sans-serif">Gathering of Information</font></b></p>
+<ul>
+  <li><font size="2" face="verdana, helvetica, sans-serif">Optional Registration 
+    </font>
+    <p><font size="2" face="verdana, helvetica, sans-serif"> TheStandard.com offers 
+      free, voluntary registration to users. By registering, users can enter the 
+      site without having to log on each time; users who register will have complete 
+      access to all content and resources on the site; and users who register 
+      receive the best available subscription offer at our website. During registration 
+      the user is required to supply a username, password and email address, and 
+      must answer mandatory survey questions about age, gender, income, Internet 
+      connection, zip code, country, employment status, and other employment information. 
+      </font></p>
+  </li>
+  <li><font size="2" face="verdana, helvetica, sans-serif">Electronic Newsletters 
+    </font>
+    <p> <font size="2" face="verdana, helvetica, sans-serif"><i>The Industry Standard</i> 
+      offers several electronic newsletters to users. <i>The Industry Standard</i> 
+      gathers the email addresses of users who voluntarily subscribe. Users may 
+      remove themselves from this mailing list by following the link provided 
+      in every newsletter that points users to the subscription management page 
+      or by unsubscribing in the <a href="http://www.standardservices.com/newsletters/UnsubNews.asp">newsletter subscription</a> 
+      area of our website. Users can also subscribe to the newsletters at the 
+      time of registration. </font></p>
+  </li>
+</ul>
+<ul>
+  <li><font size="2" face="verdana, helvetica, sans-serif">"Mail this Story to 
+    a Friend" </font>
+    <p><font size="2" face="verdana, helvetica, sans-serif"><i>The Industry Standard</i> 
+      Article Mailer service allows a reader to electronically forward a news 
+      story to someone else by clicking the appropriate link at the top of that 
+      story. The user must provide their email address, as well as that of the 
+      recipient. This information is used only in the case of transmission errors 
+      and, of course, to let the recipient know who sent the story. The information 
+      is not used for any other purpose. </font></p>
+  </li>
+</ul>
+<ul>
+  <li><font size="2" face="verdana, helvetica, sans-serif">Surveys </font>
+    <p><font size="2" face="verdana, helvetica, sans-serif"> Occasionally <i>The 
+      Industry Standard</i> conducts user surveys to better target our content 
+      to our audience. We sometimes share the aggregated demographic information 
+      in these surveys with our advertisers and partners. We never share any of 
+      this information about specific individuals with any third party. </font></p>
+  </li>
+</ul>
+<ul>
+  <li><font size="2" face="verdana, helvetica, sans-serif">Cookies </font>
+    <p><font size="2" face="verdana, helvetica, sans-serif"> A cookie is a small 
+      data file that certain Web sites write to your hard drive when you visit 
+      them. A cookie file can contain information such as a user ID that the site 
+      uses to track the pages you've visited and to allow easy access to restricted 
+      areas of the website. But the only personal information a cookie can contain 
+      is information you supply yourself. A cookie can't read data off your hard 
+      disk or read cookie files created by other sites. <i>The Industry Standard</i> 
+      uses cookies to simplify access to restricted areas and to track user traffic 
+      in aggregate. </font></p>
+    <p><font size="2" face="verdana, helvetica, sans-serif">If you've set your 
+      browser to warn you before accepting cookies, you will receive the warning 
+      message with each cookie. </font></p>
+    <p><font size="2" face="verdana, helvetica, sans-serif">You can refuse cookies 
+      by turning them off in your browser. You do not need to have cookies turned 
+      on to use TheStandard.com </font></p>
+  </li>
+</ul>
+<p><b><font size="2" face="verdana, helvetica, sans-serif">Use of the Information</font></b></p>
+<p> <font size="2" face="verdana, helvetica, sans-serif"><i>The Industry Standard</i> 
+  uses any information voluntarily given by our users to enhance their experience, 
+  whether to provide interactive or personalized elements on the sites or to better 
+  prepare future content based on the interests of our users. </font></p>
+<p><font size="2" face="verdana, helvetica, sans-serif"> As stated above, <i>The 
+  Industry Standard</i> uses information that users voluntarily provide in order 
+  to send out electronic newsletters and to enable users to move seamlessly through 
+  the website. We send out newsletters to subscribers on a regular schedule (daily 
+  or weekly, depending on the newsletter), and occasionally send out special editions 
+  when we think subscribers might be particularly interested in something we are 
+  doing. </font></p>
+<p><font size="2" face="verdana, helvetica, sans-serif"> We use tracking information 
+  to determine which areas our site users like and don't like based on traffic 
+  to those areas. <i>The Industry Standard</i> does not track what individual 
+  users read, but rather how well each page performs overall. This helps us continue 
+  to build a better service for you. </font></p>
+<p> <font size="2" face="verdana, helvetica, sans-serif"><i>The Industry Standard</i> 
+  creates aggregate reports on user demographics and traffic patterns for advertisers 
+  and partners. This allows our advertisers to advertise more effectively, and 
+  allows our users to receive advertisements that are pertinent to their needs. 
+  Because <i>The Industry Standard</i> doesn't track the usage patterns of individual 
+  users, an advertiser will never know that a specific user clicked their ad. 
+  </font></p>
+<p> <font size="2" face="verdana, helvetica, sans-serif"><i>The Industry Standard</i> 
+  does allow select advertisers to mail promotions to registrants and newsletter 
+  recipients who have given us their permission to do so. All promotions are pre-approved 
+  by <i>The Industry Standard</i> and all mailings are conducted by a reputable 
+  third party mail house to ensure the names are not mis-used or used more than 
+  once. Our users are asked at the time when their information is collected if 
+  they would prefer to not receive promotions from our partners. You may change 
+  this designation at anytime. </font></p>
+<p><b><font size="2" face="verdana, helvetica, sans-serif">Maintenance Policy</font></b></p>
+<p> <font size="2" face="verdana, helvetica, sans-serif"><i>The Industry Standard</i> 
+  gives users options wherever necessary and practical. Such choices include: 
+  </font></p>
+<ul>
+  <li><font size="2" face="verdana, helvetica, sans-serif">Opting not to receive 
+    our electronic newsletters when registering.</font></li>
+  <li><font size="2" face="verdana, helvetica, sans-serif">Opting not to receive 
+    correspondence from carefully chosen third-party advertisers.</font></li>
+  <li><font size="2" face="verdana, helvetica, sans-serif">Opting not to provide 
+    certain personal information when registering or when participating in surveys.</font></li>
+  <li><font size="2" face="verdana, helvetica, sans-serif">Opting not to participate 
+    in certain interactive areas, which completely alleviates the need for any 
+    information from our users.</font></li>
+</ul>
+<p> <font size="2" face="verdana, helvetica, sans-serif"><i>The Industry Standard</i> 
+  offers users the ability to correct or change the information collected during 
+  registration for any site (see above). <!-- The instructions for doing this can be found in Member Services. --> 
+  Users may change this information at any time and as often as necessary. Users 
+  who are experiencing problems or who have any questions about how our services 
+  work can contact us at <a href="mailto:richm@thestandard.com">richm@thestandard.com</a>.</font></p>
+<p><font size="2" face="verdana, helvetica, sans-serif"> Users may unsubscribe 
+  to any of our electronic newsletters at anytime by following the instructions 
+  contained at the end of every newsletter. </font></p>
+<p><font size="2" face="verdana, helvetica, sans-serif"> Currently, <i>The Industry 
+  Standard</i> does not offer users a means by which to completely delete personal 
+  information established at the time of registration for any site. </font></p>
+
+
+<!-- Vignette StoryServer 4 Wed Jun 21 16:52:03 2000 -->
+ </td>
+		</tr>
+		</tbody></table><br>
+
+
+	</td>
+
+	<!-- right gutter -->
+	<td width="12" valign="top">
+		<img src="/img/general/1464.gif" height="450" width="12" border="0" vspace="0" hspace="0"><br>
+		<img src="/img/general/1439.gif" height="25" width="12" border="0" vspace="0" hspace="0"><br>
+	</td>
+
+	<!-- right column -->
+	<td width="129" valign="top" align="right">
+
+
+		 <table border="0" cellpadding="0" cellspacing="0" width="129">
+		
+		<tbody><tr>
+		
+		<td width="4" rowspan="10"><img src="http://www.thestandard.com/img/spacer.gif" width="4"></td>
+		
+		<td>
+			  <br>			  
+<center><font color="#FFFFFF"><font face="verdana,arial,helvetica,sans serif" size="1"><b>
+Get the Magazine</b><br></font>
+
+<font face="verdana,arial,helvetica,sans" serif="" size="2"><a href="http://www.standardservices.com/Magazine/msubscribe.asp?SK=7SHW"><font color="FFFF00">
+<b>4 FREE ISSUES</b></font></a>			  
+			  		
+
+        </font></font></center></td>
+		</tr>
+			<tr><td>
+			&nbsp;
+			</td></tr>
+		
+		
+		<tr>
+
+							
+
+		
+		
+			</tr><tr>
+				<td>
+					<nolayer><iframe src="http://ad.doubleclick.net/adi/idg.thestandard/;pos=right;sz=120x240;tile=4;ord=050214?" name="frame4" width="120" height="240" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/idg.thestandard/;abr=!ie4;abr=!ie5;pos=right;sz=120x240;tile=4;ord=050214?"><IMG SRC="http://ad.doubleclick.net/ad/idg.thestandard/;abr=!ie4;abr=!ie5;pos=right;sz=120x240;tile=4;ord=050214?" BORDER=0 HEIGHT=240 WIDTH=120></A></iframe></nolayer><ilayer id="layer4" visibility="hide" width="120" height="240"></ilayer> </td>
+			</tr>
+			<tr>
+				<td>&nbsp;<br></td>
+			</tr>
+			<tr>
+				<td>
+					<nolayer><iframe src="http://ad.doubleclick.net/adi/idg.thestandard/;pos=;sz=125x125;tile=5;ord=050214?" name="frame5" width="125" height="125" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/idg.thestandard/;abr=!ie4;abr=!ie5;pos=;sz=125x125;tile=5;ord=050214?"><IMG SRC="http://ad.doubleclick.net/ad/idg.thestandard/;abr=!ie4;abr=!ie5;pos=;sz=125x125;tile=5;ord=050214?" BORDER=0 HEIGHT=125 WIDTH=125></A></iframe></nolayer><ilayer id="layer5" visibility="hide" width="125" height="125"></ilayer> </td>
+			</tr>
+            
+			<tr>
+				<td>&nbsp;<br></td>	
+			</tr>
+			
+			<tr>
+						
+            
+			<td>
+				<!-- Vignette StoryServer 4 Wed Jun 21 17:00:05 2000 -->
+
+		<center><font color="#FFFFFF"><font face="verdana,arial,helvetica,sans serif" size="1"><b>Post a job<br>in our</b><br><a href="http://ad.doubleclick.net/jump/idg.thestandard/fourthPromo3;text=link1;sz=1x1;ord=16675187787771?"><font color="#FFFF00" size="2"><b>Job Shop</b></font><img src="http://ad.doubleclick.net/ad/idg.thestandard/fourthPromo3;text=link1;sz=1x1;ord=16675187787771?" border="0" height="1" width="1"></a> </font></font></center><font color="#FFFFFF"><font face="verdana,arial,helvetica,sans serif" size="1"><br><br>
+	
+		<center><font color="#FFFFFF"><font face="verdana,arial,helvetica,sans serif" size="1"><b>Subscribe to any<br>of our 18</b><br><a href="http://ad.doubleclick.net/jump/idg.thestandard/fourthPromo3;text=link2;sz=1x1;ord=15822299713234?"><font color="#FFFF00" size="2"><b>Newsletters</b></font><img src="http://ad.doubleclick.net/ad/idg.thestandard/fourthPromo3;text=link2;sz=1x1;ord=15822299713234?" border="0" height="1" width="1"></a> </font></font></center><font color="#FFFFFF"><font face="verdana,arial,helvetica,sans serif" size="1"><br><br>
+	
+		<center><font color="#FFFFFF"><font face="verdana,arial,helvetica,sans serif" size="1"><b>List your<br>company info<br>in our</b><br><a href="http://ad.doubleclick.net/jump/idg.thestandard/fourthPromo3;text=link3;sz=1x1;ord=1063529611513?"><font color="#FFFF00" size="2"><b>iB2B Directory</b></font><img src="http://ad.doubleclick.net/ad/idg.thestandard/fourthPromo3;text=link3;sz=1x1;ord=1063529611513?" border="0" height="1" width="1"></a> </font></font></center><font color="#FFFFFF"><font face="verdana,arial,helvetica,sans serif" size="1"><br><br>
+	 </font></font></font></font></font></font></td>
+			
+			</tr>
+			
+			<tr>
+				<td>&nbsp;<br></td>
+			</tr>
+			
+			<tr>
+			    <td>
+					<center><a href="http://www.standardservices.com/magazine/msubscribe.asp?SK=7VLY"><img src="http://a1048.g.akamai.net/f/1048/1249/20000314-050323/www.thestandard.com/img/is_adverts/2940.gif" height="148" width="98" border="0" alt="Get The Magazine, 4 Free Issues, Click Here to Subscribe"></a></center>
+				</td>
+			</tr>
+		 </tbody></table>
 
 
 
-<script language="JavaScript">
-<!--   hide this script from non-javascript-enabled browsers
 
-// function that displays status bar message
+	</td>
 
-function dm(msgStr) { 
-    window.status = msgStr;
-    document.returnValue = true;
-  }
-
-// stop hiding -->
-</script>
-
-
-</head>
-
-<body bgcolor="#FFFFFF" background="/img/background_4col_white.gif" text="#000000" link="#6666CC" vlink="#6666CC" alink="#6666CC" leftmargin="10" marginwidth="10" topmargin="0" marginheight="0">
-
-
-
-<!-- Vignette StoryServer 4 Thu Apr 22 15:55:28 1999 -->
-<!-- BEGIN COMPONENT /CDA/NAV/TABS MAP -->
-<map name="navtabs">
-<area shape="rect" coords="0,0,44,57" href="/articles/news_index/?tab" onmouseout="dm(''); return document.returnValue;" onmouseover="dm('Articles'); return document.returnValue;">
-<area shape="rect" coords="0,58,54,110" href="/metrics/?tab" onmouseout="dm(''); return document.returnValue;" onmouseover="dm('Metrics'); return document.returnValue;">
-<area shape="rect" coords="0,111,50,170" href="http://www.standardservices.com/scripts/TIS/magazine.asp?Acct=&amp;FORM=Trial&amp;SK=7SCA&amp;A=49.97&amp;ELSE&amp;T=40" onmouseout="dm(''); return document.returnValue;" onmouseover="dm('Magazine and Newsletter Subscriptions'); return document.returnValue;">
-<area shape="rect" coords="0,171,43,228" href="/aboutus/?tab" onmouseout="dm(''); return document.returnValue;" onmouseover="dm('About The Industry Standard'); return document.returnValue;">
-<area shape="DEFAULT" nohref="">
-</map>
-<!-- END COMPONENT /CDA/Navigation/TABS --><table border="0" cellpadding="0" cellspacing="0" width="772">
-    <tbody><tr>
-	<td width="17"><img src="/img/spacer.gif" width="17" height="1" border="0"></td>
-	<td width="110"><a href="http://www.idg.net/" target="window"><img src="/img/logo_idg.gif" width="110" height="64" alt="IDG.net" border="0"></a></td>
-	<td width="1" bgcolor="#000000"><img src="/img/black1.gif" width="1" height="1" border="0"></td>
-	<td width="472" bgcolor="#000000"><nolayer><iframe src="http://ad.doubleclick.net/adi/idg.articles.thestandard.com/home;sz=468x60;tile=1;pos=;ord=040513?" width="468" height="60" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/idg.articles.thestandard.com/home;abr=!ie4;abr=!ie5;sz=468x60;tile=1;pos=;ord=040513?"><IMG SRC="http://ad.doubleclick.net/ad/idg.articles.thestandard.com/home;abr=!ie4;abr=!ie5;sz=468x60;tile=1;pos=;ord=040513?"></A></iframe></nolayer><ilayer id="layer1" visibility="hide" width="468" height="60"></ilayer></td>
-	<td width="8"><a href="/aboutus/mediakit" onmouseover="window.status='Advertising Rates And Information'; return true;"><img src="/img/banner_btn_advert.gif" width="8" height="64" border="0"></a></td>
-	<td width="2"><img src="/img/spacer.gif" width="2" height="1" border="0"></td>
-	<td width="162"><img src="/img/promotions.gif" width="162" height="64" border="0"></td>
     </tr>
 </tbody></table>
 
-<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr><td width="17"><img src="/img/spacer.gif" width="17" height="1" border="0"></td><td width="593"><img src="/img/black1.gif" width="593" height="1" border="0"></td></tr>
-	<tr>
-	<td width="610" colspan="2" valign="TOP"><img src="/img/banner_home3.gif" width="400" height="30" border="0" alt="The Industry Standard"><img src="/img/current_date.gif" width="210" height="30" border="0"></td>
-	</tr>
-	<tr>
-	<td width="610" colspan="2" valign="TOP"><img src="/img/banner_shadow.gif" width="610" height="13" border="0"></td>
-	</tr>
-</tbody></table>
 
-<table border="0" width="127" cellpadding="0" cellspacing="0" align="left">
+
+
+<!-- BOTTOM TABLE -->
+<center>
+<table border="0" cellpadding="0" cellspacing="0" width="767">
 <tbody><tr>
-<td width="17" valign="TOP">
-<img src="/img/spacer.gif" width="17" height="40" border="0"><img src="/img/nav_articles.gif" width="17" height="275" border="0" alt="navigation" usemap="#navtabs">
-</td>
-<td width="110" valign="TOP">
-<a href="/" onmouseout="dm(''); return document.returnValue" ;="" onmouseover="dm('Home'); return document.returnValue"><img src="/img/btn_home2_a.gif" alt="Home" border="0" width="110" height="15"></a>
-<a href="/search/" onmouseout="dm(''); return document.returnValue" ;="" onmouseover="dm('Site Search'); return document.returnValue"><img src="/img/btn_search.gif" alt="Site Search" border="0" width="110" height="15"></a><br><br>
-<a href="/articles/news_index/0,1260,,00.html" onmouseout="dm(''); return document.returnValue" ;="" onmouseover="dm('Top News'); return document.returnValue"><img src="/img/btn_news.gif" alt="Top News" border="0" width="110" height="15"></a>
-<a href="/articles/special/0,1832,,00.html" onmouseout="dm(''); return document.returnValue" ;="" onmouseover="dm('Special Reports'); return document.returnValue"><img src="/img/btn_special.gif" alt="Special Reports" border="0" width="110" height="15"></a>
-<a href="/articles/mediagrok/0,1184,,00.html" onmouseout="dm(''); return document.returnValue" ;="" onmouseover="dm('Media Grok'); return document.returnValue"><img src="/img/btn_grok.gif" alt="Media Grok" border="0" width="110" height="15"></a>
-<a href="/articles/opinion_index/0,1256,,00.html" onmouseout="dm(''); return document.returnValue" ;="" onmouseover="dm('Opinions'); return document.returnValue"><img src="/img/btn_opinion.gif" alt="Opinions" border="0" width="110" height="15"></a>
-<img src="/img/btn_line.gif" border="0" width="110" height="15">
-<a href="/articles/industry_index/0,1447,101,00.html" onmouseout="dm(''); return document.returnValue" ;="" onmouseover="dm('Finance'); return document.returnValue"><img src="/img/btn_finance.gif" alt="Finance" border="0" width="110" height="15"></a>
-<a href="/articles/industry_index/0,1447,102,00.html" onmouseout="dm(''); return document.returnValue" ;="" onmouseover="dm('Marketing'); return document.returnValue"><img src="/img/btn_marketing.gif" alt="Marketing" border="0" width="110" height="15"></a><a href="/articles/industry_index/0,1447,103,00.html" onmouseout="dm(''); return document.returnValue" ;="" onmouseover="dm('Media'); return document.returnValue"><img src="/img/btn_media.gif" alt="Media" border="0" width="110" height="15"></a><a href="/articles/industry_index/0,1447,104,00.html" onmouseout="dm(''); return document.returnValue" ;="" onmouseover="dm('Telecom'); return document.returnValue"><img src="/img/btn_telecom.gif" alt="Telecom" border="0" width="110" height="15"></a><a href="/articles/industry_index/0,1447,105,00.html" onmouseout="dm(''); return document.returnValue" ;="" onmouseover="dm('E-commerce'); return document.returnValue"><img src="/img/btn_ecommerce.gif" alt="E-commerce" border="0" width="110" height="15"></a><a href="/articles/industry_index/0,1447,106,00.html" onmouseout="dm(''); return document.returnValue" ;="" onmouseover="dm('Legal'); return document.returnValue"><img src="/img/btn_legal.gif" alt="Legal" border="0" width="110" height="15"></a><a href="/articles/industry_index/0,1447,107,00.html" onmouseout="dm(''); return document.returnValue" ;="" onmouseover="dm('Technology'); return document.returnValue"><img src="/img/btn_technology.gif" alt="Technology" border="0" width="110" height="15"></a><a href="/articles/industry_index/0,1447,108,00.html" onmouseout="dm(''); return document.returnValue" ;="" onmouseover="dm('Recruitment'); return document.returnValue"><img src="/img/btn_recruitment.gif" alt="Recruitment" border="0" width="110" height="15"></a>
+	<td width="140" bgcolor="#666699">&nbsp;</td>
+	<td>
 
-<img src="/img/btn_line.gif" border="0" width="110" height="15">
-<a href="/thenetwork" onmouseout="dm(''); return document.returnValue;" onmouseover="dm('The Network'); return document.returnValue;"><img src="/img/btn_network.gif" alt="The Network" border="0" width="110" height="15"></a>
-<a href="/bookstore" onmouseout="dm(''); return document.returnValue;" onmouseover="dm('Bookstore'); return document.returnValue;"><img src="/img/btn_bookstore.gif" alt="Bookstore" border="0" width="110" height="15"></a>
-<a href="/portable" onmouseout="dm(''); return document.returnValue;" onmouseover="dm('Portable'); return document.returnValue;"><img src="/img/btn_portable.gif" alt="Portable" border="0" width="110" height="15"></a>
-<a href="/directory" onmouseout="dm(''); return document.returnValue;" onmouseover="dm('Directory'); return document.returnValue;"><img src="/img/btn_directory.gif" alt="Directory" border="0" width="110" height="15"></a>
+		<table border="0" cellpadding="0" cellspacing="0" width="498">
 
-<img src="/img/btn_line.gif" border="0" width="110" height="15">
-<a href="/newsletters" onmouseout="dm(''); return document.returnValue" ;="" onmouseover="dm('Free Newsletters'); return document.returnValue"><img src="/img/btn_newsletter.gif" alt="Free Newsletters" width="110" height="15" border="0"></a>
-<a href="/articles/archive_meta_index/" onmouseout="dm(''); return document.returnValue" ;="" onmouseover="dm('Past Issues'); return document.returnValue"><img src="/img/btn_past_issues.gif" alt="Past Issues" width="110" height="15" border="0"></a>
-<a href="/articles/issue_index/0,1251,,00.html" onmouseout="dm(''); return document.returnValue" ;="" onmouseover="dm('Current Issue'); return document.returnValue"><img src="/img/btn_current_issue.gif" alt="Current Issue" border="0" width="110" height="15"></a><a href="/articles/issue_index/0,1251,,00.html" onmouseout="dm(''); return document.returnValue" ;="" onmouseover="dm('Current Issue'); return document.returnValue"><img src="/img/current_issue.blue.gif" alt="Current Issue" width="110" height="115" border="0"></a>
+		<tbody><tr>
+			<td colspan="3" width="498" valign="top" bgcolor="#666699"><img src="http://a1048.g.akamai.net/f/1048/1249/20000621-045204/www.thestandard.com/img/nav/1144.gif" height="22" width="498" border="0" alt=""></td>
+		</tr>
 
-<img src="/img/spacer_purple.gif" width="110" height="10">
-</td></tr>
-<tr><td width="127" colspan="2">
-<!-- Vignette StoryServer 4 Thu Apr 22 15:55:28 1999 -->
-<!-- BEGIN COMPONENT /CDA/Navigation/Internal Ad Button --><a href="http://www.standardservices.com/scripts/TIS/magazine.asp?Acct=&amp;FORM=Trial&amp;SK=7VCA&amp;A=49.97&amp;ELSE&amp;T=40"><img src="/img/ads/banners/x125x40/subscribe.gif" alt="Subscribe to The Industry Standard" border="0" width="127" height="31"></a><!-- END COMPONENT /CDA/Navigation/ --></td></tr>
-<tr><td width="127" colspan="2">
-<img src="/img/adtop.gif" width="127" height="10" border="0"></td></tr>
-<tr><td width="127" colspan="2" align="right"><nolayer><iframe src="http://ad.doubleclick.net/adi/idg.articles.thestandard.com/home;sz=125x125;tile=2;pos=left;ord=040513?" width="125" height="125" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/idg.articles.thestandard.com/home;abr=!ie4;abr=!ie5;sz=125x125;tile=2;pos=left;ord=040513?"><IMG SRC="http://ad.doubleclick.net/ad/idg.articles.thestandard.com/home;abr=!ie4;abr=!ie5;sz=125x125;tile=2;pos=left;ord=040513?"></A></iframe></nolayer><ilayer id="layer2" visibility="hide" width="125" height="125"></ilayer></td></tr>
-<tr><td width="127" colspan="2">
-<img src="/img/adbottom.gif" width="127" height="10" border="0"></td>
-</tr>
-</tbody></table>
+		<tr>
+			<td width="4" bgcolor="#ffffff"><img src="/img/general/spacer.gif" height="1" width="4" border="0" vspace="0" hspace="0"></td>
+			<td bgcolor="#CCCCCC"><!-- Vignette StoryServer 4 Tue Jun 20 14:00:45 2000 -->
+ &nbsp;<br>
 
-<!-- START MAIN TABLE -->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="/img/general/1554.gif" height="23" width="447" border="0" alt="Featured Links"><br> 
 
-<table border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr><td colspan="3"><img src="/img/spacer.gif" height="5" width="480" border="0"></td>
-	</tr>
-	<tr>
-	<td><img src="/img/spacer.gif" height="1" width="5" border="0"></td>
-	<td valign="top" width="470" align="left">
-<!-- BEGIN CONTENT -->
+<font face="verdana" size="2">
 
-<font size="4" face="verdana, helvetica, sans-serif" color="#333366">
-<b>Privacy Policy</b></font>
-<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Join <a href="http://www.backflip.com/p_error_browser.html" target="_blank" onclick="void(window.open('http://www.backflip.com/p_add_page_pop.ihtml?p=376&amp;title='+escape(document.title)+'&amp;url='+escape(location.href),'Backflip','height=366,width=400,location=no,scrollbars=no,menubars=no,toolbars=no,resizable=yes'));return false;" onmouseover="status='Backflip it!'; return true;" onmouseout="status=''; return true;"><font color="#990000"><b>Backflip</b></font></a>: save, discover, organize, &amp; share Web pages.<br>
 
-<font size="2" face="verdana, helvetica, sans-serif">
-<b></b></font></p><p><font size="2" face="verdana, helvetica, sans-serif"><b>Principles</b></font></p><font size="2" face="verdana, helvetica, sans-serif">
 
-<ul>
-<li><i>The Industry Standard</i> will not release your personal data to anyone else without your consent. </li>
-
-<li><i>The Industry Standard</i> does not monitor individual traffic patterns on our site — only aggregate reader behavior is collected.</li>
-
-<li>You may change the status of whether you wish to receive Industry Standard offers and communications at anytime. </li>
-</ul>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="http://ad.doubleclick.net/jump/idg.thestandard/homepage;text=link2;sz=1x1;ord=050214?"><font color="#990000"><b>Demandline</b></font><img src="http://ad.doubleclick.net/ad/idg.thestandard/homepage;text=link2;sz=1x1;ord=050214?" border="0" height="1" width="1"></a> Where businesses save $$$ on long distance &amp; more<br>
 
 
 
-<b><p>Gathering of Information</p></b>
-
-<ul>
-<li>Optional Registration
-<p>
-TheStandard.com offers free, voluntary registration to users.  By registering, users can enter the site without having to log on each time; users who register will have complete access to all content and resources on the site; and users who register receive the best available subscription offer at our website.  During registration the user is required to supply a username, password and email address, and must answer mandatory survey questions about age, gender, income, Internet connection, zip code, country, employment status, and other employment information. 
-</p>
-</li>
-
-<li>Electronic Newsletters
-<p>
-<i>The Industry Standard</i> offers several electronic newsletters to users.  <i>The Industry Standard</i> gathers the email addresses of users who voluntarily subscribe.  Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page or by unsubscribing in the <a href="/newsletters">newsletter subscription</a> area of our website.  Users can also subscribe to the newsletters at the time of registration. </p>
-</li>
-</ul>
-
-<ul>
-<li>"Mail this Story to a Friend"
-<p><i>The Industry Standard</i> Article Mailer service allows a reader to electronically forward a news story to someone else by clicking the appropriate link at the top of that story. The user must provide their email address, as well as that of the recipient.  This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the story. The information is not used for any other purpose. 
-</p>
-</li>
-</ul>
-
-<ul>
-<li>Surveys
-<p>
-Occasionally <i>The Industry Standard</i> conducts user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our advertisers and partners. We never share any of this information about specific individuals with any third party.
-</p>
-</li>
-</ul>
 
 
-<ul>
-<li>Cookies
-<p>
-A cookie is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited and to allow easy access to restricted areas of the website.  But the only personal information a cookie can contain is information you supply yourself.  A cookie can't read data off your hard disk or read cookie files created by other sites.  <i>The Industry Standard</i> uses cookies to simplify access to restricted areas and to track user traffic in aggregate. 
-</p>
-
-<p>If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. </p>
-
-<p>You can refuse cookies by turning them off in your browser.  You do not need to have cookies turned on to use TheStandard.com </p>
-
-</li>
-</ul>
-
-<b><p>Use of the Information</p></b>
-<p>
-<i>The Industry Standard</i> uses any information voluntarily given by our users to enhance their experience, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users. 
-</p>
-
-<p>
-As stated above, <i>The Industry Standard</i> uses information that users voluntarily provide in order to send out electronic newsletters and to enable users to move seamlessly through the website. We send out newsletters to subscribers on a regular schedule (daily or weekly, depending on the newsletter), and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. 
-</p>
-
-<p>
-We use tracking information to determine which areas our site users like and don't like based on traffic to those areas. <i>The Industry Standard</i> does not track what individual users read, but rather how well each page performs overall.  This helps us continue to build a better service for you. 
-</p>
-
-<p>
-<i>The Industry Standard</i> creates aggregate reports on user demographics and traffic patterns for advertisers and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because <i>The Industry Standard</i> doesn't track the usage patterns of individual users, an advertiser will never know that a specific user clicked their ad. </p>
-
-<p>
-<i>The Industry Standard</i> does allow select advertisers to mail promotions to registrants and newsletter recipients who have given us their permission to do so. All promotions are pre-approved by <i>The Industry Standard</i> and all mailings are conducted by a reputable third party mail house to ensure the names are not mis-used or used more than once.  Our users are asked at the time when their information is collected if they would prefer to not receive promotions from our partners.  You may change this designation at anytime.
-</p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="http://ad.doubleclick.net/jump/idg.thestandard/homepage;text=link3;sz=1x1;ord=050214?"><font color="#990000"><b>MadeToOrder.com</b></font><img src="http://ad.doubleclick.net/ad/idg.thestandard/homepage;text=link3;sz=1x1;ord=050214?" border="0" height="1" width="1"></a> For quality, custom logo merchandise online<br>
 
 
-<b><p>Maintenance Policy</p></b>
-<p>
-<i>The Industry Standard</i> gives users options wherever necessary and practical.  Such choices include: 
-</p>
 
 
-<ul>
-<li>Opting not to receive our electronic newsletters when registering.</li>
 
-<li>Opting not to receive correspondence from carefully chosen third-party advertisers.</li>
-
-<li>Opting not to provide certain personal information when registering or when participating in surveys.</li>
-
-<li>Opting not to participate in certain interactive areas, which completely alleviates the need for any information from our users.</li>
-</ul>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="http://ad.doubleclick.net/jump/idg.thestandard/homepage;text=link4;sz=1x1;ord=050214?"><font color="#990000"><b>neoIT:</b></font><img src="http://ad.doubleclick.net/ad/idg.thestandard/homepage;text=link4;sz=1x1;ord=050214?" border="0" height="1" width="1"></a> Outsource your software projects and launch on-time<br>
 
 
-<p>
-<i>The Industry Standard</i> offers users the ability to correct or change the information collected during registration for any site (see above). <!-- The instructions for doing this can be found in Member Services. --> Users may change this information at any time and as often as necessary. Users who are experiencing problems or who have any questions about how our services work can contact us at richm@thestandard.com. 
-</p>
 
-<p>
-Users may unsubscribe to any of our electronic newsletters at anytime by following the instructions contained at the end of every newsletter. 
-</p>
 
-<p>
-Currently, <i>The Industry Standard</i> does not offer users a means by which to completely delete personal information established at the time of registration for any site.
-</p>
+
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+OpenBusiness from <a href="http://ad.doubleclick.net/jump/idg.thestandard/homepage;text=link5;sz=1x1;ord=050214?"><font color="#990000"><b>ObjectSpace:</b></font><img src="http://ad.doubleclick.net/ad/idg.thestandard/homepage;text=link5;sz=1x1;ord=050214?" border="0" height="1" width="1"></a> WHAT B2B IS MEANT TO BE<br>
+
+
+
+
+
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="http://ad.doubleclick.net/jump/idg.thestandard/homepage;text=link6;sz=1x1;ord=050214?"><font color="#990000"><b>OpenSite:</b></font><img src="http://ad.doubleclick.net/ad/idg.thestandard/homepage;text=link6;sz=1x1;ord=050214?" border="0" height="1" width="1"></a> Online auction solutions<br>
+
+
+
+
+
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Run your own B2B auctions! <a href="http://ad.doubleclick.net/jump/idg.thestandard/homepage;text=link7;sz=1x1;ord=050214?"><font color="#990000"><b>Commerce One</b></font><img src="http://ad.doubleclick.net/ad/idg.thestandard/homepage;text=link7;sz=1x1;ord=050214?" border="0" height="1" width="1"></a> Auction Services.<br>
+
+
+
+
+
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="http://ad.doubleclick.net/jump/idg.thestandard/homepage;text=link8;sz=1x1;ord=050214?"><font color="#990000"><b>Improvemybusiness.com:</b></font><img src="http://ad.doubleclick.net/ad/idg.thestandard/homepage;text=link8;sz=1x1;ord=050214?" border="0" height="1" width="1"></a> Need we say more?<br>
+
+
+
 
 </font>
-<!-- END CONTENT -->
 
+&nbsp;<br>
 </td>
-	<td><img src="/img/spacer.gif" height="1" width="15" border="0"></td><td width="150" valign="top"><img src="/img/spacer.gif" width="150" height="1" border="0"><br clear="all">
-<!-- Vignette StoryServer 4 Sun Aug 22 19:19:09 1999 -->
-<center><font face="verdana, helvetica, sans-serif" size="3" color="#333333"><b><a href="http://www.standardservices.com/scripts/TIS/magazine.asp?Acct=&amp;FORM=Trial&amp;SK=7TCA&amp;A=49.97&amp;ELSE&amp;T=40" style="color: #000033">Get the Magazine</a> --<br>4 FREE Issues of<br>The Industry Standard</b></font></center>
-<br><br><br>
-	
+			<td width="4" bgcolor="#ffffff"><img src="/img/general/spacer.gif" height="1" width="4" border="0" vspace="0" hspace="0"></td>
+		</tr>
+
+		<tr>
+			<td width="4" bgcolor="#ffffff"><img src="/img/general/spacer.gif" height="1" width="4" border="0" vspace="0" hspace="0"></td>
+			<td bgcolor="#cccccc" align="center"><br><nolayer><iframe src="http://ad.doubleclick.net/adi/idg.thestandard/;pos=bottom;sz=468x60;tile=6;ord=050214?" name="frame6" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/idg.thestandard/;abr=!ie4;abr=!ie5;pos=bottom;sz=468x60;tile=6;ord=050214?"><IMG SRC="http://ad.doubleclick.net/ad/idg.thestandard/;abr=!ie4;abr=!ie5;pos=bottom;sz=468x60;tile=6;ord=050214?" BORDER=0 HEIGHT=60 WIDTH=468></A></iframe></nolayer><ilayer id="layer6" visibility="hide" width="468" height="60"></ilayer></td>
+			<td width="4" bgcolor="#ffffff"><img src="/img/general/spacer.gif" height="1" width="4" border="0" vspace="0" hspace="0"></td>
+		</tr>
+
+		<tr>
+			<td width="4" bgcolor="#ffffff"><img src="/img/general/spacer.gif" height="1" width="4" border="0" vspace="0" hspace="0"></td>
+			<td bgcolor="#cccccc" width="490">
+
+				<small>&nbsp;<br></small>
+
+			</td>
+			<td width="4" bgcolor="#ffffff"><img src="/img/general/spacer.gif" height="1" width="4" border="0" vspace="0" hspace="0"></td>
+		</tr>
+
+		<tr>
+			<td colspan="3" bgcolor="#666699"><img src="http://a1048.g.akamai.net/f/1048/1249/20000621-045204/www.thestandard.com/img/nav/1145.gif" height="12" width="498" border="0" alt=""></td>
+		</tr>
+
+		</tbody></table>
 
 
-<center><font size="1" face="verdana, helvetica">ADVERTISEMENT</font><br>
-<nolayer><iframe src="http://ad.doubleclick.net/adi/idg.articles.thestandard.com/home;sz=120x240;tile=4;pos=;ord=040513?" width="120" height="240" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/idg.articles.thestandard.com/home;abr=!ie4;abr=!ie5;sz=120x240;tile=4;pos=;ord=040513?"><IMG SRC="http://ad.doubleclick.net/ad/idg.articles.thestandard.com/home;abr=!ie4;abr=!ie5;sz=120x240;tile=4;pos=;ord=040513?"></A></iframe></nolayer><ilayer id="layer4" visibility="hide" width="120" height="240"></ilayer><!-- Vignette StoryServer 4 Sun Aug 22 19:19:09 1999 -->
-</center>
-<br><br><br>
-
-
-<font color="#333333" face="verdana, helvetica, sans-serif" size="3"><a href="/netreturns/?promo" style="color: #000033"><b>Net Returns 2000 Conference</b></a></font><br>
-	<font color="#000000" size="2" face="verdana, helvetica, sans-serif"><i>The Industry Standard's</i> forum for a select group of senior executives to address the Internet business challenges they face with some of business's brightest and most innovative minds. <b><a href="/netreturns/?promo" style="color: #000033">Request an invitation today.</a></b></font>
-<br><br><br><br><br>
-
-<font color="#333333" face="verdana, helvetica, sans-serif" size="3"><a href="/directory/add/?promo" style="color: #000033"><b>Add Your Company to the Directory</b></a></font><br>
-	<font color="#000000" size="2" face="verdana, helvetica, sans-serif">The first-ever Internet Economy yellow pages is here!  Is your company listed in The Industry Standard's <b><a href="/directory/add/?promo" style="color: #000033">Directory</a></b>?</font>
-<br><br><br><br><br>
-
-<!--
-<FONT COLOR="#333333" FACE="verdana, helvetica, sans-serif" SIZE="3"><A HREF="/newsletters/?promo" style="color: #000033"><B>Get a Free Newsletter</B></A></FONT><BR>
-	<FONT COLOR="#000000" SIZE="2" FACE="verdana, helvetica, sans-serif">Sign up for <A HREF="/newsletters/?promo" style="color: #000033"><B>Net Returns</B></A>, highlighting the new technology categories and the new players, analyzing their prospects for delivering ROI.</FONT>
-<BR><BR><BR><BR><BR>
-
-<FONT COLOR="#333333" FACE="verdana, helvetica, sans-serif" SIZE="3"><A HREF="/bookstore/?promo" style="color: #000033"><B>Shop for Books Covering the Internet Economy</B></A></FONT><BR>
-	<FONT COLOR="#000000" SIZE="2" FACE="verdana, helvetica, sans-serif">Read reviews of industry books currently on the shelves.  Then place your order online.  Find a list of hot titles in The Industry Standard's <B><A HREF="/bookstore/?promo" style="color: #000033">bookstore</A></B>.</FONT>
-<BR><BR><BR><BR><BR>
--->
-
-
-
-<font color="#333333" face="verdana, helvetica, sans-serif" size="3"><a href="/metrics/downloads/?promo" style="color: #000033"><b>Download PowerPoint Slides</b></a></font><br>
-	<font color="#000000" size="2" face="verdana, helvetica, sans-serif">Now you can <b><a href="/metrics/downloads/?promo" style="color: #000033">download Metrics</a></b> for your own presentations.  Get the research, analysis, statistics and raw data that define the Internet Economy.</font>
-<br><br><br><br><br>
-
-
- </td>
+	</td>
+	<td width="129">&nbsp;</td>
 </tr>
 </tbody></table>
-<!-- END MAIN TABLE -->
-
-
-<br clear="ALL">
 
 
 
-<!-- BEGIN SEARCH -->
+<table border="0" cellpadding="10" cellspacing="0" width="767">
+<tbody><tr>
+	
+			<td bgcolor="#666699" width="139">
+				&nbsp;
+			</td>
+			<td width="468" bgcolor="#666699" valign="top">
 
-<!-- Vignette StoryServer 4 Tue Jun 22 18:28:12 1999 -->
-<!-- BEGIN COMPONENT /CDA/NAV/search -->
-
-
-<table border="0" cellpadding="0" cellspacing="0" width="610">
-		<tbody><tr>
-		<td><img src="/img/spacer.gif" width="15" height="5" border="0"></td>
-		<td colspan="2"><img src="/img/spacer.gif" width="595" height="1" border="0"></td>
-		</tr>
-		<tr>
-		<td></td>
-		<td bgcolor="#000000" align="left">
-		<br>
-		<form name="controls" method="get" action="/articles/stock/1,2438,,FF.html">
-<!--		
-		<FORM NAME="controls" ACTION="http://www.bigcharts.com/custom/industrystandard-com/industrystandard.asp" METHOD="get">
--->		
-
-		<img src="/img/spacer.gif" width="10" height="5" border="0"><font color="#FFFFFF" face="verdana, helvetica, sans-serif" size="2"><b>Stock Lookup: </b></font><img src="/img/spacer.gif" width="5" height="5" border="0"><input type="text" name="symb" size="10" value=""><img src="/img/spacer.gif" width="5" height="5" border="0"><input type="image" name="Submit" value="Submit" border="0" src="/img/form_btn_submit.gif" align="absmiddle"><img src="/img/spacer.gif" width="5" height="5" border="0">
-		</form>
-		</td>
-		<td bgcolor="#000000" align="right">
-		<br>
-		<form method="GET" action="/search/1,1326,,00.html">
-		<font color="#FFFFFF" face="verdana, helvetica, sans-serif" size="2"><b>Site Search: </b></font><img src="/img/spacer.gif" width="5" height="1" border="0"><input type="TEXT" name="terms" size="10" value=""><input type="HIDDEN" name="SEARCH_ALL" value="TRUE"><input type="HIDDEN" name="OPERATOR" value="and"><input type="HIDDEN" name="MONTHLIMIT" value="1"><img src="/img/spacer.gif" width="5" height="5" border="0"><input type="image" name="Search" border="0" align="absmiddle" src="/img/form_btn_search.gif"><img src="/img/spacer.gif" width="5" height="5" border="0">
-		</form>
-		</td>
-		</tr>
+			<table width="468" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><a href="http://www.thestandard.com/home/issue/" class="footer">Magazine</a><a class="footer"> | </a><a href="http://www.thestandard.com/newsletters/" class="footer">Newsletters</a><a class="footer"> | </a><a href="http://www.thestandard.com/mystandard/portable/" class="footer">Portable</a><a class="footer"> | </a><a href="http://www.thestandard.com/about/" class="footer">About Us</a><a class="footer"> | </a><a href="http://www.thestandard.com/news/" class="footer">News &amp; Analysis</a><a class="footer"> | </a><a href="http://www.thestandard.com/news/special/home/" class="footer">Special Reports</a><a class="footer"> | </a><a href="http://www.thestandard.com/research/store/" class="footer">Intelligence Store</a><a class="footer"> | </a><a href="http://www.thestandard.com/people/recruitment/" class="footer">Job Shop</a><a class="footer"> | </a><a href="http://www.thestandard.com/companies/directory/" class="footer">The Directory</a><a class="footer"> | </a><a href="http://www.thestandard.com/events/" class="footer">Conferences &amp; Events</a><a class="footer"> | </a><a href="http://www.thestandard.com/service/" class="footer">Customer Service</a><a class="footer"> | </a><a class="footer">Copyright© 2000 The Standard Media International</a></td></tr></tbody></table> </td>
+			
+			<td width="159">&nbsp;</td>
+</tr>
 </tbody></table>
 
-<!-- END COMPONENT /CDA/NAV/search --><!-- END SEARCH -->
 
-<!-- BEGIN FOOTER -->
 
-<!-- Vignette StoryServer 4 Mon May 03 19:34:51 1999 -->
-<!-- BEGIN COMPONENT /CDA/Navigation/Footer -->
-<br>
-<table border="0" cellpadding="0" cellspacing="0" width="610">
-	<tbody><tr>
-	<td><img src="/img/spacer.gif" width="298" height="1" border="0"></td>
-	<td><img src="/img/spacer.gif" width="312" height="1" border="0"></td>
-	</tr>
-	<tr>
-	<td align="right" valign="top"><font face="verdana, helvetica, sans-serif" size="1">ARTICLES:</font>&nbsp;</td>
-	<td>&nbsp;<font face="verdana, helvetica, sans-serif" size="1"><a href="/articles/news_index/?foot">Top News</a> | <a href="/articles/opinion_index/?foot">Opinion</a> | <a href="/articles/archive_meta_index/?foot">Past Issues</a> | <a href="/articles/issue_index/?foot">Current Issue</a>
-</font><br>
-&nbsp;<font face="verdana, helvetica, sans-serif" size="1"><a href="/thenetwork/?foot">The Network</a>  | <a href="/directory/?foot">Directory</a>  | <a href="/bookstore/?foot">Bookstore</a></font></td>
-	</tr>
-	<tr>
-	<td align="right" valign="top"><font face="verdana, helvetica, sans-serif" size="1">METRICS:</font>&nbsp;</td>
-	<td>&nbsp;<font face="verdana, helvetica, sans-serif" size="1"><a href="/metrics/?foot">Metrics Home</a>  | <a href="/metrics/type/0,1989,201,00.html?foot">Industry Spotlight</a>  | <a href="/metrics/archive/?foot">Metrics Archive</a>  
-</font></td>
-	</tr>
-	<tr>
-	<td align="right" valign="top"><font face="verdana, helvetica, sans-serif" size="1">SERVICES:</font>&nbsp;</td>
-	<td>&nbsp;<font face="verdana, helvetica, sans-serif" size="1"><a href="http://www.standardservices.com/scripts/TIS/account.asp?Acct=&amp;FORM=Edit">My Account</a>  | <a href="http://www.standardservices.com/scripts/TIS/magazine.asp?Acct=&amp;FORM=Trial&amp;SK=7UCA&amp;A=49.97&amp;ELSE&amp;T=40">Get the Magazine</a>  | <a href="http://www.standardservices.com/scripts/TIS/newsletters.asp?Acct=">Newsletters</a>
-</font></td>
-	</tr>
-	<tr>
-	<td align="right" valign="top"><font face="verdana, helvetica, sans-serif" size="1">ABOUT US:</font>&nbsp;</td>
-	<td>&nbsp;<font face="verdana, helvetica, sans-serif" size="1"><a href="/aboutus/mission/?foot">Mission</a>  | <a href="/aboutus/staff/?foot">Staff</a>  | <a href="/aboutus/contact/?foot">Contact Us</a>  | <a href="/advertising/?foot">Advertising</a>
-	</font></td>
-	</tr>
-	<tr>
-	<td align="right" valign="top">&nbsp;</td>
-	<td><br>&nbsp;<font face="verdana, helvetica, sans-serif" size="1"><a href="/privacy_policy/?foot">Privacy Policy</a></font></td>
-	</tr>
-	<tr>
-	<td valign="TOP" align="right">&nbsp;</td>
-	<td valign="TOP"><br>&nbsp;<font face="verdana, helvetica, sans-serif" size="1">Copyright © 1999 The Industry Standard<br>&nbsp;All rights reserved<br>&nbsp;E-mail: <a href="mailto:webmaster@thestandard.com">webmaster@thestandard.com</a></font><br><br></td>
-	</tr>
-</tbody></table>
-<!-- END COMPONENT /CDA/Navigation/ -->
-<!-- END FOOTER -->
+</center>
 
-<layer src="http://ad.doubleclick.net/adl/idg.articles.thestandard.com/home;sz=468x60;tile=1;pos=;ord=040513?" width="468" height="60" visibility="hide" onload="moveToAbsolute(layer1.pageX,layer1.pageY);clip.height=60;clip.width=468;visibility='show';"></layer><layer src="http://ad.doubleclick.net/adl/idg.articles.thestandard.com/home;sz=125x125;tile=2;pos=left;ord=040513?" width="125" height="125" visibility="hide" onload="moveToAbsolute(layer2.pageX,layer2.pageY);clip.height=125;clip.width=125;visibility='show';"></layer><layer src="http://ad.doubleclick.net/adl/idg.articles.thestandard.com/home;sz=120x240;tile=4;pos=;ord=040513?" width="120" height="240" visibility="hide" onload="moveToAbsolute(layer4.pageX,layer4.pageY);clip.height=240;clip.width=120;visibility='show';"></layer>
+<layer src="http://ad.doubleclick.net/adl/idg.thestandard/;pos=top;sz=468x60;tile=1;ord=050214?" width="468" height="60" visibility="hide" onload="moveToAbsolute(layer1.pageX,layer1.pageY);clip.height=60;clip.width=468;visibility='show';"></layer><layer src="http://ad.doubleclick.net/adl/idg.thestandard/;pos=;sz=88x31;tile=2;ord=050214?" width="88" height="31" visibility="hide" onload="moveToAbsolute(layer2.pageX,layer2.pageY);clip.height=31;clip.width=88;visibility='show';"></layer>
+	<layer src="http://ad.doubleclick.net/adl/idg.thestandard/;pos=right;sz=120x240;tile=4;ord=050214?" width="120" height="240" visibility="hide" onload="moveToAbsolute(layer4.pageX,layer4.pageY);clip.height=240;clip.width=120;visibility='show';"></layer> <layer src="http://ad.doubleclick.net/adl/idg.thestandard/;pos=;sz=125x125;tile=5;ord=050214?" width="125" height="125" visibility="hide" onload="moveToAbsolute(layer5.pageX,layer5.pageY);clip.height=125;clip.width=125;visibility='show';"></layer><layer src="http://ad.doubleclick.net/adl/idg.thestandard/;pos=bottom;sz=468x60;tile=6;ord=050214?" width="468" height="60" visibility="hide" onload="moveToAbsolute(layer6.pageX,layer6.pageY);clip.height=60;clip.width=468;visibility='show';"></layer>
 
-</body></html>
+</center></body></html>
