@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldsnooker.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008122158id_/http%3A//www.worldsnooker.com/terms/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldsnooker.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605090941id_/http%3A//www.worldsnooker.com/terms/privacy.asp) for the most accurate reproduction.*
 
 # World Snooker Association | Competitions
 
@@ -8,7 +8,7 @@
 **Privacy Policy**
 
   
-This document forms part of the World Snooker [Terms and Conditions of Use](https://web.archive.org/web/20031008122158id_/http%3A//www.worldsnooker.com/terms/terms.asp) for the [http://www.worldsnooker.com](http://www.worldsnooker.com/) website (the "Site") and should be read in conjunction with it. Terms and expressions used in this document but not otherwise defined shall have the same meanings as set out in the World Snooker Terms and Conditions of Use.
+This document forms part of the World Snooker [Terms and Conditions of Use](https://web.archive.org/web/20040605090941id_/http%3A//www.worldsnooker.com/terms/terms.asp) for the [http://www.worldsnooker.com](http://www.worldsnooker.com/) website (the "Site") and should be read in conjunction with it. Terms and expressions used in this document but not otherwise defined shall have the same meanings as set out in the World Snooker Terms and Conditions of Use.
 
   
 Introduction
