@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directhit.com privacy policy that was archived on 2001-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010612083639id_/http%3A//www.directhit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directhit.com privacy policy that was archived on 2001-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011215045706id_/http%3A//www.directhit.com/privacy.html) for the most accurate reproduction.*
 
 # Direct Hit Privacy Statement
 
