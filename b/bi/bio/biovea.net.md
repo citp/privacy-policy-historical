@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biovea.net privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605215025id_/http%3A//www.biovea.net/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biovea.net privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204105701id_/http%3A//www.biovea.net/privacypolicy.asp) for the most accurate reproduction.*
 
 # Welcome to BIOVEA
 
@@ -12,4 +12,12 @@ The following is required to process all orders: delivery address, invoice addre
 
 Remove yourself from our mailing list at any time
 
-During the checkout process, you can choose not to receive any email correspondence from us, such as discounts and promotions. You can also remove yourself from our mailing list at any time by sending an email to remove@biovea.com (NOTE: the email address you use to send this email should match the email address you want to remove. If it does not, simply enter the membership email and your first and last name in the body of the email). Once removed, we will no longer contact you in any form (email, regular mail or other). 
+During the checkout process, you can choose not to receive any email correspondence from us, such as discounts and promotions. 
+
+You can also remove yourself from our mailing list at any time by sending an email to [support@biovea.co.uk   
+](mailto:support@biovea.co.uk)  
+The email SUBJECT line should read: UNSUBSCRIBE
+
+The email BODY should contain: your membership email address, as well as your first and last name.
+
+Once removed, we will no longer contact you in any form (email, regular mail or other). 
