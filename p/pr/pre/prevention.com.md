@@ -1,61 +1,109 @@
-> *The following text is extracted and transformed from the prevention.com privacy policy that was archived on 1999-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19990428143908id_/http%3A//women.com/membership/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prevention.com privacy policy that was archived on 2003-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030413051823id_/http%3A//www.rodale.com/corp/sub/1%2C1874%2C1-28%2C00.html) for the most accurate reproduction.*
 
-# Women.com Networks - Privacy Policy
+# Rodale - Meet RODALE - Privacy Policy
 
-[](https://www.truste.org/validate/486)  
 **Privacy Policy**
 
-Women.com Networks is a member of the TRUSTe program. This statement discloses the privacy practices for the following Web sites: Women.com, Women's Wire, Stork Site, Prevention's Healthy Ideas, Money Mode, Crayola FamilyPlay, Beatrice's Web Guide and the Women.com Store. 
+****_Protecting Your Privacy and Servicing Your Needs_****  
+_May 2002_
 
-TRUSTe is an independent, non-profit initiative whose mission is to build users' trust and confidence in the Internet by promoting TRUSTe's principles of fair information practices. Because this site wants to demonstrate its commitment to respecting your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. When you visit a Web site displaying the TRUSTe mark, you can expect to be notified of: 
+Rodale is the world's leader in health and well-being. Through our brands ( _Backpacker, Bicycling, Men's Health, Mountain Bike, OG, Organic Style, Prevention, Rodale's Scuba Diving, Runner's World_ , and Rodale Books) Rodale brings you the ideas, insights, inspiration and information you need to live life to the fullest. 
 
-1\. What personally identifiable information is collected  
-2\. How the information is used  
-3\. With whom the information will be shared  
-4\. This site's opt-out policy   
-5\. This site's policy on correcting and updating personally identifiable information   
-6\. This site's policy on deleting or deactivating your name from our database 
+We're a family-run business that treats its customers like family. And we are deeply committed to protecting your privacy and security when you access Rodale owned and operated Web sites. 
 
-Questions regarding this statement should be directed to the Women.com Networks site coordinator by sending an email to: [membership@women.com](mailto:membership@women.com) and writing "Privacy Policy" in the subject line. If the Web site has not responded to your inquiry within seven days or your inquiry has not been satisfactorily addressed, contact [TRUSTe](http://www.truste.org/users/users_watchdog.html). To return to the Site, please use the "Back" button on your browser. 
+We believe you have the right to know everything regarding the information we collect about you as you use Rodale owned and operated Web sites...how this information benefits you...and how you can say "no" to the use of any of this information. 
 
-This Privacy Policy is incorporated into and subject to the terms of our [Member Agreement](https://web.archive.org/web/19990428143908id_/http%3A//women.com/membership/agreement.html). 
+This policy explains what we do with your information online, and what you can expect from Rodale. By using this site, you indicate your acceptance of Rodale's Online Privacy Policy. 
 
-**How We Collect Information**   
-Many of the ways in which you interact with our sites allow us to learn more about you. We collect and store statistics and other information about the online activities of our visitors on an aggregated (collective) basis. For example, we track the number of people who view each page to learn which features are the most popular. But in these, and almost all other instances, we do not obtain personally identifiable information about you. 
+**Children Under 13:**   
+We care about the safety of children. We won't knowingly allow anyone under 13 to provide us any personally identifying information. Children should always get permission from their parents before sending any information about themselves (such as their names, e-mail addresses, and phone numbers) over the Internet, to us or to anyone else. We encourage you to become involved in your children's online experience, and to share your interest in our sites with your young ones. 
 
-In those instances where we do collect personally identifiable information, you have the option of choosing to reveal it to us or to one of the vendors in our Network. Examples of when you voluntarily submit this kind of information include when you answer our polls, enter sweepstakes or contests, fill out the registration page, send us feedback or post in our chat rooms or message boards. In the event of a complaint, we may also receive personally identifiable information about you from other parties in our Network or from other users or third parties who may communicate information to us about you in relation to that complaint. 
+**What information do you collect about me?**   
+Rodale collects personal identifying information from you only if you voluntarily submit such information to us. We also collect user-specific information on what pages are visited and volunteered information such as survey information and/or site registrations. 
 
-**How We Use and Disclose Your Information**   
-As a general practice, we do not sell your personally identifiable information to third parties. So, for example, we do not sell your email addresses or your name and personal demographic information to mass marketers. However, on particular pages where we ask for your personally identifiable information, we may explicitly tell you that the data we are collecting on that page will be shared with third parties, in which case those disclosures shall override anything to the contrary in this policy. For example, before you submit answers to questions we ask in an advertiser-sponsored promotion, we will tell you that your answers will be shared with that advertiser. 
+**What's in it for me?**   
+_Plenty!_ The information we collect allows us to customize the content and/or layout of our page for each visitor. Plus, it enables us to notify visitors about updates to our Web site...contact visitors with special offers of interest...and customize our visitors' Web site experience. In addition, information is shared with reputable organizations who may contact Web site visitors with special offers of possible interest. 
 
-We use your information on an aggregated basis to do such things as operate our site, enhance our site and sell and deliver advertising. We also use this data, both aggregated and personally identifiable, to enhance your on-site experience by displaying content and marketing messages that we believe will be of interest to you. We disclose aggregated information about our site to third parties. 
+**What are "cookies" and what do they do for me?**   
+In order to provide better service when visitors return to our site, Rodale may use cookies to store visitors' preferences and information about such things as items added to a user's shopping cart, what pages users visit, and past user activity at a site. "Cookies" are tiny pieces of information stored by your browser on your computer's hard drive. Cookies are also used to ensure that visitors are not repeatedly sent the same banner ads, to customize Web page content based on visitors' browser type (Netscape or Microsoft Explorer, for example) or other information that the visitor sends. Most browsers are initially set to accept cookies. 
 
-Note that some online activities you choose to do necessarily lead to disclosure of your personally identifiable information to third parties, such as when you include your name and email address in a postcard or when you order merchandise in the Store. In these cases, again, your choice to disclose personally identifiable information is voluntary. 
+If you want to disable cookies, there is a simple procedure in most Internet browsers that allow you to turn off cookies. Please remember however, that cookies may be required to allow you to use certain features of our sites. 
 
-In some situations, we share your personally identifiable information with third parties who provide services to our Network in order to enhance the functionality available to you as part of the Network, and to provide you with new products and services such as email and Member pages. 
+**With whom do you share information about me?**   
+From time to time, we make our customer e-mail addresses, postal addresses and telephone numbers available to other reputable business associates whose products or services might be of value to you. If you do not want us to share your information with other companies or organizations, please let us know by accessing the form at [privacy@rodale.com](http://www.rodale.com/cs/privacy.html), by calling us at (800) 914-9363, or writing to us at Customer Service, Rodale, 400 South Tenth Street, Emmaus, PA 18098. 
 
-In some cases we use your personally identifiable information to provide information to you, such as to send newsletters to you that you request or to personalize the site in accordance with your requests. 
+**Transfers of Information for Legal Purposes**   
+Rodale, Inc. may need to disclose certain information to comply with a legal requirement, such as a law, regulation, court order, subpoena, search warrant, in the course of a legal proceeding or in response to a law enforcement agency request. If there is a change of control in Rodale's business (whether by merger, sale, or otherwise), or a sale or transfer of its assets, customer information could be sold or transferred as part of that transaction and your personally identifying information potentially used by the Purchaser or other recipient of said customer information. 
 
-**Controlling or Changing Your Information**   
-You can access and update your personal information, including changing your subscriptions to our email newsletters, by going to <http://more.women.com/cgi-bin/update-member-info> and following the instructions on that page. 
+**Links**   
+Rodale sites may, on occasion, contain links to other sites with information gathering practices different from our own. Visitors should consult privacy policies for all other sites as Rodale has no control over information submitted to or collected by such third parties. 
 
-**Children**   
-Children and their personally identifiable information pose a special problem online. Because of these issues, we do not permit minors to become Members unless they obtain the consent of their parents or guardian. Further, Women.com requests that minors do not use any part of our sites that requires the disclosure of personally identifiable information without the supervision of their parents or guardian. 
+Rodale sites sometimes offer contest, sweepstakes or promotions sponsored or co-sponsored by third parties. These third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the contest, sweepstakes or promotion. Rodale has no control over the third party sponsor's use of this information. The Rodale site will notify you at the time of requesting personally identifiable information if third party sponsors will obtain such information. 
 
-**Cookies and Other Tracking Methods**   
-Cookies are small pieces of information stored on your hard drive, not on our site. We use cookies or, in a limited number of cases, IP addresses for a number of reasons. First, cookies allow you to store your password without having to constantly re-enter it. Second, cookies can also help us to tailor a Web site or a marketing message to better match your needs and interests. Third, cookies allow us to better understand how users use our site, which in turn helps us focus our resources on features that are most popular with our users. You are always free to decline our cookies if your browser permits, but some parts of our site may not work properly if you do. 
+**What if I don't want e-mail from Rodale?**   
+Easy. If you do not want to receive e-mail from Rodale, please let us know by accessing the form at [privacy@rodale.com](http://www.rodale.com/cs/privacy.html), by calling us at (800) 914-9363, or writing to us at: Customer Service, Rodale, 400 South Tenth Street, Emmaus, PA 18098. 
 
-Note: Women.com places advertising on our sites that originates from outside advertisers and/or advertising agencies. In some cases, if you click on or view these ads, a cookie may be assigned by the advertiser. Women.com does not control these cookies. 
+**May I see the information you collect about me?**   
+_Yes!_ Upon request, we provide our customers with access to personal account information (e.g., customer number)...account status (outstanding balance)...and contact information (i.e., name, address, phone number). You may access the information by completing the form at [privacy@rodale.com](http://www.rodale.com/cs/privacy.html) or by calling us at (800) 914-9363. 
 
-**Other Sites**   
-Please note that if you provide any information on your own or directly to parties who provide service to our Network (such as WhoWhere?), any merchants in our Store or any other sites you encounter on the Internet (even if these sites are branded with our branding), different rules may apply to their use or disclosure of the personal information you disclose to them. We encourage you to investigate and ask questions before disclosing information to third parties. 
+In addition, we offer web visitors the ability to correct any inaccuracies in their contact information, simply by accessing the appropriate [Customer Service](http://www.rodale.com/corp/sub/1,1874,5-30,00.html) site, completing the form at [privacy@rodale.com](http://www.rodale.com/cs/privacy.html), or by calling us at (800) 914-9363. If you prefer, you may write to us at Customer Service, Rodale, 400 South Tenth Street, Emmaus, PA 19098. 
 
-**Limits on Our Abilities**   
-Although your privacy is very important to us, due to the existing legal regulatory and security environment, we cannot fully ensure that your private communications and other personally identifiable information will not be disclosed to third parties. For example, we may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. Additionally, in the unlikely event we need to investigate or resolve possible problems or inquiries, we can (and you authorize us to do so) disclose any information about you to private entities, law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate. 
+**Changes...**   
+Rodale may need to change this privacy policy from time to time in order to address new issues, evolving technologies and changes on our sites. Rodale will post those changes so you will always know what information we gather and how we might use that information. Please refer back to this policy regularly. 
 
-**Security**   
-We use industry-standard efforts to safeguard the confidentiality of your personal identifiable information, such as firewalls and Secure Socket Layers where appropriate. However, "perfect security" does not exist on the Internet. 
+**What about data security?**   
+To ensure the security of your data- including address information and credit card numbers- Rodale always uses industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. We have appropriate security measures that protect against the loss, misuse or alteration of information that we have collected from you. 
 
-We hope this policy clarifies our procedures regarding your personal information. We at the Women.com Network encourage you to learn as much as you can about your privacy on the Internet. To learn more, visit [TRUSTe](http://www.truste.org/) at: <http://www.truste.org/>. 
+**Rules for Submissions and Messages**   
+Responsibility for what is posted in the discussion groups or other public forums lies with each user--you alone are responsible for the content of your messages, and the consequences of any such messages. We cannot and do not review every submission a user may make. We neither endorse nor guarantee the accuracy or propriety of any submission. We do, however, reserve the right but do not assume the obligation to restrict or prohibit your use of our sites if we believe you are violating any of the terms of the agreement and to remove, edit, or relocate any submission as we see fit whether for legal or other reasons. 
 
-**Hit your "Back" button to continue registration**
+**Member Conduct**   
+You understand that all information, data, text, software, music, sound, photographs, graphics, video, messages or other materials ("Content"), whether publicly posted or privately transmitted, are the sole responsibility of the person from which such Content originated. This means that you, and not Rodale, Inc., are entirely responsible for all Content that you upload, post or otherwise transmit. Rodale does not control the Content posted and, as such, does not guarantee the accuracy, integrity or quality of such Content. You understand that by using a Rodale site, you may be exposed to Content that is offensive, indecent or objectionable. 
+
+You agree to not use the Rodale sites in order to: 
+
+  * upload, post or otherwise transmit any Content that is unlawful, harmful, threatening, abusive, harassing, tortious, defamatory, vulgar, obscene, libelous, invasive of another's privacy, hateful, or racially, ethnically or otherwise objectionable; 
+  * harm minors in any way; 
+  * impersonate any person or entity, including, but not limited to, a Rodale official, forum leader, guide or host, or falsely state or otherwise misrepresent your affiliation with a person or entity; 
+  * forge headers or otherwise manipulate identifiers in order to disguise the origin of any Content transmitted through the Service or develop restricted or password-only access pages, or hidden pages or images (those not linked to from another accessible page); 
+  * upload, post or otherwise transmit any Content that you do not have a right to transmit under any law or under contractual or fiduciary relationships (such as inside information, proprietary and confidential information learned or disclosed as part of employment relationships or under nondisclosure agreements); 
+  * upload, post or otherwise transmit any Content that infringes any patent, trademark, trade secret, copyright or other proprietary rights of any party; 
+  * upload, post or otherwise transmit any unsolicited or unauthorized advertising, promotional materials, "junk mail," "spam," "chain letters," "pyramid schemes," or any other form of solicitation, except in those areas of the Service that are designated for such purpose; 
+  * upload, post or otherwise transmit any material that contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment; 
+  * interfere with or disrupt the servers or networks connected to the Rodale site, or disobey any requirements, procedures, policies or regulations of networks connected to the site; 
+  * intentionally or unintentionally violate any applicable local, state, national or international law, including, but not limited to, regulations promulgated by the U.S. Securities and Exchange Commission, any rules of any national or other securities exchange, including, without limitation, the New York Stock Exchange, the American Stock Exchange or the NASDAQ, and any regulations having the force of law; 
+  * "stalk" or otherwise harass another; 
+  * collect or store personal data about other users; 
+  * promote or provide instructional information about illegal activities, promote physical harm or injury against any group or individual, or promote any act of cruelty to animals. 
+  * use your home page (or directory) as storage for remote loading or as a door or signpost to another home page 
+  * engage in commercial activities without the express written consent of Rodale, Inc. This includes, but is not limited to, the following activities:   
+  
+
+    * offering for sale any products or services; 
+    * soliciting for advertisers or sponsors; 
+    * conducting raffles or contests that require any type of entry fee; 
+    * displaying a sponsorship banner of any kind, including those that are generated by banner or link exchange services 
+    * displaying banners for services that provide cash or cash-equivalent prizes to users in exchange for hyperlinks to their web sites. 
+  
+
+
+  
+**Rights**   
+You acknowledge that we acquire all Rights to use any posted materials as described above so that we do not violate any Rights you may have in materials you post. By submitting content to or through our sites, you grant us the non-exclusive right to reproduce, modify and distribute it as we see fit in any medium and for any purpose in any form, media, or technology now known or later developed. You also permit any other user to access, display, and print such content for personal use. You vouch that any material you submit does not violate, plagiarize or infringe upon the right of any third party, including copyright, trademark or proprietary rights. If non-original content is included in your posting, you must obtain permission from the content owner and attribute it. 
+
+**We appreciate the opportunity to serve you!**   
+If you have any questions regarding this privacy policy statement or if you feel that this site has not followed its stated information policy, feel free to contact us. Our postal address is: 33 East Minor Street, Emmaus, PA 18098 and we can be reached via e-mail at: [info@rodale.com](mailto:info@rodale.com). You can reach us by telephone at (610) 967-5171 or (800) 914-9363. 
+
+Additionally, you may contact your state or local consumer protection office, The Direct Marketing Association's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), the [Better Business Bureau](http://www.bbb.org/), or The Federal Trade Commission by phone at (202) FTC-HELP (202/382-4357) and online at [www.ftc.gov](https://rn.ftc.gov/dod/wsolcq$.startup?Z_ORG_CODE=PU01). 
+
+Note: This privacy policy applies only to Rodale's owned and operated websites, and is not applicable to Rodale's other information gathering activities. 
+
+  
+  
+Rodale complies with all the stringent standards of ethical conduct set forth by the [Direct Marketing Association](http://www.the-dma.org/). 
+
+  
+We inspire and enable people to improve their lives and the world around them.
+
+  
+
