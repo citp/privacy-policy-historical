@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curryguide.com privacy policy that was archived on 2000-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000818071920id_/http%3A//www.curryguide.com/curryguide_files/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curryguide.com privacy policy that was archived on 2001-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011021165316id_/http%3A//www.curryguide.com/curryguide_files/privacy) for the most accurate reproduction.*
 
 # CurryGuide: Conditions of Use
 
