@@ -1,0 +1,458 @@
+<!--The following is the downloaded HTML source of the stgeorge.com.au privacy policy that was archived on 2001-10-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011006173825id_/http%3A//stgeorge.com.au/code/privacy.asp) for the most accurate reproduction.-->
+
+<html><head><title>St.George Internet Privacy Statement</title> 
+
+      
+<meta name="resource-type" content="organization">
+     <meta name="author" content="St.George Bank Limited">
+     <meta name="keywords" content="st.george, online banking, internet banking, e-bank, on-line banking,home loans,housing loans,mortgages,investment loans,banks,banks australia,credit cards,money,personal loans,car loans,savings accounts,savings,saving,term deposit,interest rates,interest,finance,australian finance,financial services,financing,lending">
+     <meta name="Organization-Handle" content="St.George Bank Limited">
+     <meta name="Organization-Name" content="St.George Bank Limited">
+     <meta name="City" content="Sydney">
+     <meta name="Country" content="Australia">
+     <meta name="Organization-Email" content="stgeorge@stgeorge.com.au">
+     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<script language="javascript">
+
+    var agt=navigator.userAgent.toLowerCase();
+    var is_major = parseInt(navigator.appVersion);
+    var is_minor = parseFloat(navigator.appVersion);
+    var is_nav  = ((agt.indexOf('mozilla')!=-1) && (agt.indexOf('spoofer')==-1)
+                && (agt.indexOf('compatible') == -1) && (agt.indexOf('opera')==-1)
+                && (agt.indexOf('webtv')==-1));
+    var is_ie   = (agt.indexOf("msie") != -1);
+   var is_mac    = (agt.indexOf("mac")!=-1);
+   var is_mac68k = (is_mac && ((agt.indexOf("68k")!=-1) || (agt.indexOf("68000")!=-1)));
+   var is_macppc = (is_mac && ((agt.indexOf("ppc")!=-1) || (agt.indexOf("powerpc")!=-1)));
+   var is_macall = (is_mac68k || is_mac || is_macppc);
+   var is_win   = ( (agt.indexOf("win")!=-1) || (agt.indexOf("16bit")!=-1) );
+
+ if (is_win && is_ie)
+{
+   document.write('<link rel=stylesheet href="/resources/stg/css/new.css" type="text/css">');
+}
+else if (is_win && is_nav)
+{
+   document.write('<link rel=stylesheet href="/resources/stg/css/new_nav.css" type="text/css">');
+}
+else if (is_macall && is_nav)
+{
+   document.write('<link rel=stylesheet href="/resources/stg/css/new_mac.css" type="text/css">');
+}
+else
+{
+   document.write('<link rel=stylesheet href="/resources/stg/css/new_mac.css" type="text/css">');
+}
+
+
+function goPage()
+{
+        pageNo = document.pager.goWhere.selectedIndex
+		if (pageNo == 0 || pageNo == 5 || pageNo == 6) {
+                top.location.href = document.pager.goWhere.options[pageNo].value } else {
+        parent.location.href = document.pager.goWhere.options[pageNo].value
+        }
+}
+function windowCreator(filename)
+{       window.open(filename,'personaLoanWin','menubar=no,location=no,menus=no,scrollbars,resizable=1,status=yes,width=640,height=400');
+}
+function NewWindow(filename)
+{       window.open(filename,'atmBranchLocator','menubar=no,location=no,menus=no,scrollbars,resizable=1,status=yes,width=790,height=460');
+}
+function UserWindow(filename)
+{       window.open(filename,'userguide','menubar=no,location=no,menus=no,scrollbars,resizable=1,status=yes,width=505,height=570');
+}
+function CalculatorWindow(filename)
+{       window.open(filename,'Calculators','menubar=no,location=no,menus=no,scrollbars,resizable=1,status=yes,width=540,height=570');
+}
+function CalculatorWindowlg(filename)
+{       window.open(filename,'Calculatorslg','menubar=no,location=no,menus=no,scrollbars,resizable=1,status=yes,width=640,height=580');
+}
+function NewWindow(filename)
+{       window.open(filename,'Plain','menubar=no,location=no,menus=no,scrollbars,resizable=1,status=yes,width=770,height=580');
+}
+function NewWindow1(filename)
+{       window.open(filename,'NewWindow1','menubar=no,location=no,menus=no,scrollbars=yes,resizable=1,status=yes,width=770,height=580');
+}
+function Login(s) {
+	for (var i = 0; i < document.login_form.selectlog.length; i++) {
+		if (document.login_form.selectlog[i].checked) {
+			var str = document.login_form.selectlog[i].value;
+			break;
+		}
+	}
+	var arrayOfURL = str.split(",");
+	var URL1 = arrayOfURL[0];
+	var URL2 = arrayOfURL[1];
+	if (s == 1)
+	{
+		if (URL1 != "") window.location.href = URL1;
+	}
+        else
+	{
+		if (URL2 != "") window.location.href = URL2;
+	}
+}
+
+//Function to access rates db
+function doIt()
+{
+document.forms.rate_form.submit();
+}
+function doIt1()
+{
+document.forms.rate_form1.submit();
+}
+function doIt2()
+{
+document.forms.rate_form2.submit();
+}
+function doIt3()
+{
+document.forms.rate_form3.submit();
+}
+function doIt4()
+{
+document.forms.rate_form4.submit();
+}
+
+
+</script><link rel="stylesheet" href="/resources/stg/css/new_mac.css" type="text/css">
+
+
+
+<script language="JavaScript">
+
+//This script will fix the print screen problem on IE 4
+
+var da = (document.all) ? 1 : 0;
+var pr = (window.print) ? 1 : 0;
+var mac = (navigator.userAgent.indexOf("Mac") != -1);
+
+function printPage() {
+  if (pr) // NS4, IE5
+    window.print()
+  else if (da && !mac) // IE4 (Windows)
+    vbPrintPage()
+  else // other browsers
+    alert("Sorry, your browser doesn't support this feature.");
+  return false;
+}
+
+if (da && !pr && !mac) with (document) {
+  writeln('<OBJECT ID="WB" WIDTH="0" HEIGHT="0" CLASSID="clsid:8856F961-340A-11D0-A96B-00C04FD705A2"></OBJECT>');
+  writeln('<' + 'SCRIPT LANGUAGE="VBScript">');
+  writeln('Sub window_onunload');
+  writeln('  On Error Resume Next');
+  writeln('  Set WB = nothing');
+  writeln('End Sub');
+  writeln('Sub vbPrintPage');
+  writeln('  OLECMDID_PRINT = 6');
+  writeln('  OLECMDEXECOPT_DONTPROMPTUSER = 2');
+  writeln('  OLECMDEXECOPT_PROMPTUSER = 1');
+  writeln('  On Error Resume Next');
+  writeln('  WB.ExecWB OLECMDID_PRINT, OLECMDEXECOPT_DONTPROMPTUSER');
+  writeln('End Sub');
+  writeln('<' + '/SCRIPT>');
+}
+
+</script>
+
+
+
+
+
+      </head><body bgcolor="#FFFFFF" leftmargin="2" topmargin="0" marginwidth="0" marginheight="0">
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" background="/resources/stg/images/header/red.gif">
+  <tbody><tr>
+    <td valign="top"><a name="begin"></a>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td valign="top">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td width="470" valign="top"><a href="/default.asp">
+                
+				<img src="/resources/stg/images/header/header_goals.jpg" width="470" height="53" border="0"></a>
+				
+                </td>
+                <td valign="top"><img src="/resources/stg/images/header/red.gif" width="100%" height="53"></td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td valign="top"><img src="/resources/stg/images/header/red.gif" width="100%" height="25"></td>
+                <td valign="top" align="right" width="325"><img src="/resources/stg/images/header/stgeorgetext.gif" width="325" height="25" border="0"></td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+      </tbody></table>
+    </td>
+    <td valign="top" align="right" width="175"><a href="/default.asp"><img src="/resources/stg/images/header/stgeorgelogo.gif" width="175" height="78" border="0"></a></td>
+  </tr>
+</tbody></table>
+ <table border="0" cellspacing="0" cellpadding="0" align="center" width="100%"> <tbody><tr align="center" valign="top"> <td colspan="5"><img src="/resources/stg/images/misc/grey_line.gif" width="100%" height="1" align="top"></td> </tr><tr><td width="192">
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font class="date">7<sup></sup>&nbsp;October&nbsp;2001</font>
+ </td><td colspan="4" align="right" valign="top">
+
+
+<font class="topmenu"><a href="/default.asp">home</a> / <a href="/code/contact_us/default.asp">contact us</a> / <a href="javascript:NewWindow('http://www.nowwhere.com.au/stgeorge.htm?Type=stgeorge') ">locate us</a> / <a href="/code/rates/default.asp">interest rates</a> / <a href="/code/calculators/default.asp">calculators</a> / <a href="/code/about/news/default.asp">news</a> / <a href="/code/sitemap/default.asp">sitemap</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>
+
+ </td></tr><tr> <td colspan="5" align="center" valign="top"><img src="/resources/stg/images/misc/grey_line.gif" width="100%" height="1"></td> </tr><tr> <td colspan="5" align="center" valign="top"><img src="/resources/stg/images/misc/1x1.gif" width="100%" height="20"></td> </tr><tr><td align="left" valign="top">
+
+ 													<table width="170" border="0" cellspacing="0" cellpadding="1" bgcolor="#663333">
+<tbody><tr>
+<td>
+<table width="170" border="0" cellspacing="1" cellpadding="2">
+       <!--<tr>
+          <td class="homenavdown"><a href="/code/home/menutest.asp"><font class="nav">StGeorge Home Page</font></a></td>
+        </tr>-->
+        <tbody><tr>
+          <td class="navoff" onmouseover="this.className='navon';" onmouseout="this.className='navoff';" bgcolor="#CC9999">
+            <ilayer width="170">
+            <layer width="170" onmouseover="this.bgColor='#990033'" onmouseout="this.bgColor='#CC9999'"><a href="/code/about/default.asp"><font class="nav">About St George</font></a></layer>
+            </ilayer>
+          </td>
+        </tr>
+         <tr>
+          <td class="navoff" onmouseover="this.className='navon';" onmouseout="this.className='navoff';" bgcolor="#CC9999">
+            <ilayer width="170">
+            <layer width="170" onmouseover="this.bgColor='#990033'" onmouseout="this.bgColor='#CC9999'"><a href="/code/int_bank/default.asp"><font class="nav">Internet  Banking</font></a></layer>
+            </ilayer>
+          </td>
+        </tr>
+        <tr>
+          <td class="navoff" onmouseover="this.className='navon';" onmouseout="this.className='navoff';" bgcolor="#CC9999">
+            <ilayer width="170">
+            <layer width="170" onmouseover="this.bgColor='#990033'" onmouseout="this.bgColor='#CC9999'"><a href="/code/accounts/default.asp"><font class="nav">Accounts &amp; Cards</font></a></layer>
+            </ilayer>
+          </td>
+        </tr>
+        <tr>
+          <td class="navoff" onmouseover="this.className='navon';" onmouseout="this.className='navoff';" bgcolor="#CC9999">
+            <ilayer width="170">
+            <layer width="170" onmouseover="this.bgColor='#990033'" onmouseout="this.bgColor='#CC9999'"><a href="/code/dragon/default.asp"><font class="nav">dragondirect</font></a></layer>
+            </ilayer>
+          </td>
+        </tr>
+
+        <tr>
+          <td class="navoff" onmouseover="this.className='navon';" onmouseout="this.className='navoff';" bgcolor="#CC9999">
+            <ilayer width="170">
+            <layer width="170" onmouseover="this.bgColor='#990033'" onmouseout="this.bgColor='#CC9999'"><a href="/code/loans/default.asp"><font class="nav">Loans &amp; Credit</font></a></layer>
+            </ilayer>
+          </td>
+        </tr>
+        <tr>
+          <td class="navoff" onmouseover="this.className='navon';" onmouseout="this.className='navoff';" bgcolor="#CC9999">
+            <ilayer width="170">
+            <layer width="170" onmouseover="this.bgColor='#990033'" onmouseout="this.bgColor='#CC9999'"><a href="/code/insurance/default.asp"><font class="nav">Insurance</font></a></layer>
+            </ilayer>
+          </td>
+        </tr>
+        <tr>
+          <td class="navoff" onmouseover="this.className='navon';" onmouseout="this.className='navoff';" bgcolor="#CC9999">
+            <ilayer width="170">
+            <layer width="170" onmouseover="this.bgColor='#990033'" onmouseout="this.bgColor='#CC9999'"><a href="/code/invest/default.asp"><font class="nav">Investments</font></a></layer>
+            </ilayer>
+          </td>
+        </tr>
+        <tr>
+          <td class="navoff" onmouseover="this.className='navon';" onmouseout="this.className='navoff';" bgcolor="#CC9999">
+            <ilayer width="170">
+            <layer width="170" onmouseover="this.bgColor='#990033'" onmouseout="this.bgColor='#CC9999'"><a href="/code/privatebank/default.asp"><font class="nav">Private Bank</font></a></layer>
+            </ilayer>
+          </td>
+        </tr>
+        <tr>
+          <td class="navoff" onmouseover="this.className='navon';" onmouseout="this.className='navoff';" bgcolor="#CC9999">
+            <ilayer width="170">
+            <layer width="170" onmouseover="this.bgColor='#990033'" onmouseout="this.bgColor='#CC9999'"><a href="/code/commercial/default.asp"><font class="nav">Commercial Banking</font></a></layer>
+            </ilayer>
+          </td>
+        </tr>
+        <tr>
+          <td class="navoff" onmouseover="this.className='navon';" onmouseout="this.className='navoff';" bgcolor="#CC9999">
+            <ilayer width="170">
+            <layer width="170" onmouseover="this.bgColor='#990033'" onmouseout="this.bgColor='#CC9999'"><a href="/code/treasury/default.asp"><font class="nav">Treasury</font></a></layer>
+            </ilayer>
+          </td>
+        </tr>
+         <!--<tr>
+          <td class="navoff" onmouseover="this.className='navon';" onmouseout="this.className='navoff';" bgcolor="#CC9999">
+            <ilayer
+            width=170>
+            <layer width=170
+            onMouseOver="this.bgColor='#990033'"
+            onMouseOut="this.bgColor='#CC9999'"><a href="/code/ebank/default.asp"><font class="nav">Internet e-bank</font></a></layer>
+            </ilayer>
+          </td>
+        </tr>-->
+
+         <tr>
+          <td class="navoff" onmouseover="this.className='navon';" onmouseout="this.className='navoff';" bgcolor="#CC9999">
+            <ilayer width="170">
+            <layer width="170" onmouseover="this.bgColor='#990033'" onmouseout="this.bgColor='#CC9999'"><a href="/code/ecommerce/default.asp"><font class="nav">eCommerce Solutions</font></a></layer>
+            </ilayer>
+          </td>
+        </tr>
+      </tbody></table>
+</td>
+  </tr>
+</tbody></table>
+
+
+<!--<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top"><br>
+<form method="post" class="smallfm" name="pager">
+<select class="smallfm" name="goWhere" >
+ <option value="/code/about/employment/default.asp">Employment</option>
+ <option value="/code/about/investor/default.asp">Investor Info.</option>
+ <option value=javascript:windowCreator('http://www.bourseinvestor.com/wraps/sgb/default.asp?rcode=SGB&sect=1')>Share Price</option>
+ <option value="/code/treasury/morning/default.asp">Morning Report</option>
+</select>
+</form>
+</td>
+<td valign="middle"><a href="javascript:goPage()"><img src="/resources/stg/images/misc/go_button.gif" width=29 height=20 border=0 valign="center" alt="Go to Page!" onClick="goPage()" hspace="1"></a>
+</td></tr>
+</table>-->
+
+
+        </td><td align="left" valign="top"><img src="/resources/stg/images/misc/1x1.gif" width="10" height="100%" align="top"></td><td width="100%" align="left" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr valign="top"><td><p align="right"><font class="splashtitle">Privacy Policy</font></p> <h2 class="title"> St.George Internet Privacy Statement</h2> <p></p><div class="subheadingb">Your information is private and secure</div>
+<p>At St.George we value your privacy.  When you give us information about yourself we keep that information private.  We also keep information about the accounts you operate  private.</p>   
+
+<p>We also appreciate that security of online services is an essential concern to users.  Our service provides the maximum level of security to on-line customers.  Please click on "Security" to read further about our security.</p>
+
+<div class="subheadingb">Information we collect from our Website</div>
+<p>When you visit our website we collect the following types of information: the number of visitors to our site; the type of browser used; the number and type of pages viewed and the documents downloaded; the date and time of visits and other similar patterns of usage.  We use this information to evaluate our website performance and to continually improve our service to you. </p>
+
+<p>We cannot identify you from this information.</p>
+
+<p>If you use our online banking, you provide us with your personal information and we also monitor the time you spend online and the type of transactions you conduct.  This information is essential for our provision of banking services.</p>
+
+<div class="subheadingb">Email Address</div>
+<p>We only collect your email address if you have provided it to us.  We may use your email address to notify you of: changes to our online service; the management of your account or if we have scheduled interruptions to internet banking for maintenance purposes.</p>
+
+<p>You may change your email address on the internet at anytime or elect to remove yourself from our notification list by simply blanking out the email address field.</p>
+
+<div class="subheadingb">How we store your information</div>
+<p>We take all reasonable steps to protect your personal information from misuse, loss, unauthorised access, modification or disclosure.</p>
+
+<p>Any personal information you provide to us is stored either electronically or at one of our secure warehouses or both.  Access to information stored electronically is restricted to staff whose job purpose requires access. Even then a personal password is required to access the information.  We require all staff to maintain the confidentiality of customer information</p>
+
+<div class="subheadingb">Accuracy of your personal information</div>
+<p>We take reasonable steps to ensure that any personal information we hold about you is accurate, complete and up to date.  Please contact us whenever there is a change to your personal information or as soon as you are aware that the details we have about you are not entirely accurate.</p>
+
+<div class="subheadingb">Can we disclose your information to other persons?</div>
+<p>Usually we must get your consent before we tell anyone about you, your accounts or your credit worthiness.  We can't even tell your partner or family without your consent.  You can give your consent directly to us or indirectly by your conduct.</p>
+
+<p>Sometimes the law requires us to give out information about you.  If this is the case we cannot say no.  For example, we must tell the Australian Taxation Office how much interest we pay you.</p>
+
+<p>We may disclose information about you to outside contractors to carry out specialised activities on our behalf, such as a mailing house.  Any outside contractor may only use the information for our business and is strictly prohibited from using the information for any other purpose.</p>
+
+<p>When you apply for a loan with St.George, the application form contains notices and agreements under the Privacy Act.  These notices tell you the type of information about your credit worthiness that we can give to and receive from a Credit Reporting Agency.  This information helps us to assess your application for credit or your position if you are in default. </p>
+
+<p>When you sign the loan application form you agree to our giving and receiving information to or from other financial institutions that you have dealt with or may deal with in the future.  You also agree to our giving information to a guarantor.</p>
+
+<div class="subheadingb">Companies in the St.George Group</div>
+<p>We may give information about you to companies related to us to help us work out the total amount you owe our group of companies or we owe you.  An example of a related company is a company we own like St.George Life Limited.</p>
+
+<p>We may also give information to a related company if it provides services that are related to the ones we provide.  We won't give information about you to a related company for this reason if you ask us not to.  You can do this by writing to us.  You must give the account numbers of all accounts with us and the full name of all account holders and your current address.</p>
+
+<div class="subheadingb">Application of our Privacy Statement</div>
+<p>This Privacy Statement was last reviewed in March 2001.  It is subject to change from time to time due to developments in technology and new laws.  We encourage you to periodically review this Statement.   This Privacy Statement does not apply to parties that may be linked or associated with our site; those site owners are responsible for the privacy of the information they collect.</p></td></tr></tbody></table></td><td align="left" valign="top"><img src="/resources/stg/images/misc/1x1.gif" width="10" height="100%" align="top"></td><td align="left" valign="top">
+
+
+<table width="100" border="0">
+  <tbody><tr>
+    <td> <form method="post" name="login_form">
+      <table width="105" border="0" cellspacing="0" cellpadding="1">
+        <tbody><tr class="rightmenuback">
+          <td align="center"> <font class="rightmenuheader">online services</font>
+          </td>
+        </tr>
+        <tr bgcolor="#990000">
+          <td>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+              <tbody><tr valign="bottom">
+                <td class="rightmenusmall">
+
+                    <input type="radio" name="selectlog" value="https://ibank.stgeorge.com.au/html/redirect.asp,/code/int_bank/default.asp" checked="">
+					<font class="rightmenusmall">internet banking</font><br>
+					<!--<input type="radio" name="selectlog" value="/code/ebank/default.asp,/code/ebank/default.asp" >
+					<font class="rightmenusmall">internet e-bank</font><br>-->
+				
+					<input type="radio" name="selectlog" value="javascript:NewWindow1('https://www.quicktrade.com.au/cgi-bin/secure?FNAME=clientshome'),/code/invest/trade/default.asp">
+					<font class="rightmenusmall">quicktrade</font><br>
+				
+
+                    <table cellpadding="0" cellspacing="0" border="0">
+                      <tbody><tr>
+                        <td><a href="javascript:Login(1)"><img src="/resources/stg/images/logon1.gif" alt="logon" border="0" vspace="2"></a></td>
+                        <td><a href="javascript:Login(2)"><img src="/resources/stg/images/learn_more1.gif" alt="learn more" border="0" vspace="2"></a></td>
+                      </tr>
+                    </tbody></table>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+      </tbody></table></form>
+    </td>
+  </tr>
+</tbody></table>
+<table width="100" border="0">
+  <tbody><tr>
+    <td>
+      <table width="105" border="0" cellspacing="0" cellpadding="1">
+        <tbody><tr class="rightmenuback">
+          <td align="center"> <font class="rightmenuheader">apply online</font>
+          </td>
+        </tr>
+        <tr bgcolor="990000">
+          <td>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+              <tbody><tr valign="top">
+                <td class="rightmenusmall"><img src="/resources/stg/images/red.gif" width="7" height="7" hspace="2"><a href="javascript:windowCreator('https://www.stgeorge.com.au/personal_loan/checklist.asp')">personal
+                  loan </a><br>
+                  <img src="/resources/stg/images/red.gif" width="7" height="7" hspace="2"><a href="javascript:windowCreator('https://homeloan.stgeorge.com.au/')">home
+                  loan </a><br>
+                  <img src="/resources/stg/images/red.gif" width="7" height="7" hspace="2"><a href="javascript:windowCreator('https://www.stgeorge.com.au/visa/start.asp')">credit
+                  card </a><br>
+             
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+
+   
+ 
+   
+   
+</tbody></table>
+
+<font class="textwhitesm">11 : 02PM - Jun / 3 / 2001</font></td></tr><tr> <td colspan="5" align="center" valign="top"><img src="/resources/stg/images/misc/1x1.gif" width="100%" height="20"></td> </tr><tr align="center" valign="top"> <td colspan="5"><img src="/resources/stg/images/misc/grey_line.gif" width="100%" height="1" align="top"></td> </tr><tr>
+
+
+<td colspan="5" valign="top" width="100%" align="center" height="43"><br><font class="smalltexta">© 
+St.George Bank Ltd ABN 92 055 513 070</font><br>
+<hr width="30%" size="1" noshade=""><font class="footer"><font color="red">–&nbsp;<a href="#begin">Back to Top</a>&nbsp;–<br><a href="/default.asp">Home</a> | <a href="/code/about/default.asp">About St.George</a> | <a href="/code/int_bank/default.asp">Internet Banking</a> | <a href="/code/dragon/default.asp">dragondirect</a> |  <a href="/code/loans/default.asp">Loans &amp; Credit</a> | <a href="/code/accounts/default.asp">Accounts &amp; Cards</a> | <a href="/code/invest/default.asp">Investments</a> <br> <a href="/code/insurance/default.asp">Insurance</a> | <a href="/code/commercial/default.asp">Commercial Banking</a>  | <a href="/code/treasury/default.asp">Treasury</a> <!--| <a href="/code/ebank/default.asp">Internet e-Bank</a> -->| <a href="/code/ecommerce/default.asp">eCommerce Solutions </a> | <a href="/code/contact_us/default.asp">Contact Us</a> </font></font>
+<p></p><p>
+</p></td>
+
+ </tr></tbody></table></body></html>
