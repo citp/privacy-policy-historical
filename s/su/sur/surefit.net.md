@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surefit.net privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202150136id_/http%3A//www.surefit.net/customerservice/policy_privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surefit.net privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605065618id_/http%3A//www.surefit.net/customerservice/policy_privacy.cfm) for the most accurate reproduction.*
 
 # Sure Fit - Customer Service - Ordering Information - Privacy Policy
 
@@ -21,14 +21,14 @@ The personal information that we collect may include your contact information - 
 
 Placing an order online will automatically set up your account with SureFit.com if you select a password during the checkout process. You may also choose not to have Sure Fit remember your information. However, having an account with us will make your checkout quicker and easier. 
 
-If you would rather not receive our special e-mail offers and updates, please do not enter your email address on the catalog request page. If you are already receiving our special offers and updates and no longer wish to receive them, please click the unsubscribe link at the bottom of any e-mail update that you receive from us and you will be taken off our list. You may call us toll free at 1-888-787-3348 or send an [e-mail](https://web.archive.org/web/20031202150136id_/http%3A//www.surefit.net/customerservice/contact.cfm?) and we will remove you from our lists promptly. We do not rent, sell, or trade e-mail addresses. 
+If you would rather not receive our special e-mail offers and updates, please do not enter your email address on the catalog request page. If you are already receiving our special offers and updates and no longer wish to receive them, please click the unsubscribe link at the bottom of any e-mail update that you receive from us and you will be taken off our list. You may call us toll free at 1-888-787-3348 or send an [e-mail](https://web.archive.org/web/20040605065618id_/http%3A//www.surefit.net/customerservice/contact.cfm?) and we will remove you from our lists promptly. We do not rent, sell, or trade e-mail addresses. 
 
 If you wish, you can opt-out of certain kinds of communications while continuing to receive other materials that you desire. So if you want to opt-out of our e-mail promotions while still receiving our catalog through the mail, just let us know. 
 
-You may update your contact information by calling us toll free at 1-888-787-3348 or sending us an [e-mail](https://web.archive.org/web/20031202150136id_/http%3A//www.surefit.net/customerservice/contact.cfm?). If you have a password-protected account with Sure Fit, you may update your contact information online anytime. 
+You may update your contact information by calling us toll free at 1-888-787-3348 or sending us an [e-mail](https://web.archive.org/web/20040605065618id_/http%3A//www.surefit.net/customerservice/contact.cfm?). If you have a password-protected account with Sure Fit, you may update your contact information online anytime. 
 
 Financial Information -  
-If you place an order, we will collect billing information, usually your credit card number and expiration date. If you wish, Sure Fit will store your credit card information for you in a password-protected account, which will allow you to checkout more easily next time you order from us. We never share your credit card number or use it for any purpose besides fulfilling your order. To read more about our security policy, [click here](https://web.archive.org/web/20031202150136id_/http%3A//www.surefit.net/customerservice/policy_security.cfm). 
+If you place an order, we will collect billing information, usually your credit card number and expiration date. If you wish, Sure Fit will store your credit card information for you in a password-protected account, which will allow you to checkout more easily next time you order from us. We never share your credit card number or use it for any purpose besides fulfilling your order. To read more about our security policy, [click here](https://web.archive.org/web/20040605065618id_/http%3A//www.surefit.net/customerservice/policy_security.cfm). 
 
 Other Personal Information -  
 If you answer a survey on our site, we may ask for personal information besides your contact information, such as your preferences or interests. We analyze this information in aggregate form, looking for market trends among our customers, rather than analyzing information about any individual customer. 
@@ -46,7 +46,7 @@ Sure Fit is currently also using and has contracted with a third party (Omniture
 
 We do not sell, rent, or trade e-mail addresses. 
 
-If you receive our printed catalog, Sure Fit may occasionally share your mailing address with carefully selected partners. If you do not wish to receive our printed catalog, or if you do not want Sure Fit to share your postal information with our partners, please contact us and we will put you on our do not share list. Call us toll free at 1-888-787-3348 or [e-mail us](https://web.archive.org/web/20031202150136id_/http%3A//www.surefit.net/customerservice/contact.cfm?). 
+If you receive our printed catalog, Sure Fit may occasionally share your mailing address with carefully selected partners. If you do not wish to receive our printed catalog, or if you do not want Sure Fit to share your postal information with our partners, please contact us and we will put you on our do not share list. Call us toll free at 1-888-787-3348 or [e-mail us](https://web.archive.org/web/20040605065618id_/http%3A//www.surefit.net/customerservice/contact.cfm?). 
 
 Sure Fit may provide aggregate statistics about our customers, sales, web site traffic patterns, and similar information to our consultants and reputable third-party vendors, but these statistics will not include any personally identifying information. 
 
@@ -78,7 +78,7 @@ Children's Privacy -
 Sure Fit does not knowingly solicit or collect information from anyone under the age of thirteen. Sure Fit requires children over the age of 13 to consult with their parents before furnishing any data to us. 
 
 Privacy Promise -  
-If you feel that this site is not following its stated privacy policy, you may call us toll free at 1-888-787-3348, or [e-mail us](https://web.archive.org/web/20031202150136id_/http%3A//www.surefit.net/customerservice/contact.cfm?), or write to us at Sure Fit, Inc. / Slipcovers By Mail, Customer Service, 7339 Industrial Boulevard, Allentown, PA 18106. 
+If you feel that this site is not following its stated privacy policy, you may call us toll free at 1-888-787-3348, or [e-mail us](https://web.archive.org/web/20040605065618id_/http%3A//www.surefit.net/customerservice/contact.cfm?), or write to us at Sure Fit, Inc. / Slipcovers By Mail, Customer Service, 7339 Industrial Boulevard, Allentown, PA 18106. 
 
 **Your Security**  
 At Sure Fit, we ensure that the information you send us remains protected, safe, and secure. We take this policy very seriously. Below we'll try to answer all your questions regarding credit cards, our safe ordering process, and Internet security in general. 
