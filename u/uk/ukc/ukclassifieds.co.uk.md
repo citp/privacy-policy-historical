@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukclassifieds.co.uk privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206083225id_/http%3A//www.ad-mart.co.uk/cgi-bin/classifieds/classifieds.cgi%3Fdb%3D%26website%3D%26language%3D%26session_key%3D%26print_privacy_page%3Don) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukclassifieds.co.uk privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610162025id_/http%3A//www.ad-mart.co.uk/cgi-bin/classifieds/classifieds.cgi%3Fdb%3D%26website%3D%26language%3D%26session_key%3D%26print_privacy_page%3Don) for the most accurate reproduction.*
 
 # 
 
