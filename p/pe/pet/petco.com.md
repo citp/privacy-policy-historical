@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petco.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203122146id_/http%3A//www.petco.com/privacy.asp%3Fwebt%3D0%26cmLink_ID%3Dswft0011) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petco.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619095851id_/http%3A//www.petco.com/privacy.asp%3Fwebt%3D0%26cmLink_ID%3Dswft0011) for the most accurate reproduction.*
 
 # PETCO.com - Privacy Concerns and Issues
 
@@ -8,7 +8,7 @@
 Privacy Policy  
 Surveys, Contests, and Other Special Programs  
 Cookies and How We Use Them  
-Choice/Opt-OutEffective as of 07/25/02  
+Choice/Opt-Out  
 **
 
 **Your information is secure**  
@@ -40,6 +40,10 @@ Sometimes you will provide us with data that doesn't reveal your personal identi
 We reserve the right to use aggregated, anonymous data about our users as a group. For instance, we might report to potential advertisers that a certain percentage of our users are interested in parrot behavior, based on online surveys or other requests. 
 
 We use a third party agent to handle our email marketing and you may refer to [their privacy policy here.](http://www.rsvp0.net/)
+
+If we know a visitor is under the age of thirteen, we will collect a parent's permission offline (by postal mail, fax or phone) before we collect or share personal information with anyone else. 
+
+Please note that nowhere on the website do we knowingly collect contact information or financial information from children under the age of 13. 
 
 **»**back to top
 
@@ -88,14 +92,14 @@ PETCO.com sends registered users regular newsletters and occasional promotional 
 
   
 **Updating or Correcting Your Information**  
-If you need to change or correct some of the information you provided PETCO.com, you can [send an email](https://web.archive.org/web/20031203122146id_/http%3A//www.petco.com/corpinfo_contact.asp) specifying the modifications. Or you can edit the information yourself by visiting "[My Account.](https://web.archive.org/web/20031203122146id_/http%3A//www.petco.com/mypetopia.asp)" 
+If you need to change or correct some of the information you provided PETCO.com, you can [send an email](https://web.archive.org/web/20040619095851id_/http%3A//www.petco.com/corpinfo_contact.asp) specifying the modifications. Or you can edit the information yourself by visiting "[My Account.](https://www.petco.com/petcoonline/secure/youraccount.aspx)" 
 
   
 **Changes to Our Privacy Policy**  
-PETCO.com's privacy policy may be modified from time to time. Notices of changes will appear on this page at least 30 days in advance, so check back often. These changes will be shown in red and the effective date for the changes is noted below. Any such changes will not be retroactive. 
+PETCO.com's privacy policy may be modified from time to time. Notices of changes will appear on this page at least 30 days in advance, so check back often. These changes will be shown in red and the effective date for the changes is noted above. Any such changes will not be retroactive. 
 
   
 **Contacting Us**  
-If you have any questions about this privacy statement, the practices of this web site, or your dealings with this site, [send us an email](https://web.archive.org/web/20031203122146id_/http%3A//www.petco.com/corpinfo_contact.asp). 
+If you have any questions about this privacy statement, the practices of this web site, or your dealings with this site, [send us an email](https://web.archive.org/web/20040619095851id_/http%3A//www.petco.com/corpinfo_contact.asp). 
 
 **»**back to top
