@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickthru.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202111400id_/http%3A//www.clickthru.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickthru.com privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406085420id_/http%3A//www.clickthru.net/privacy) for the most accurate reproduction.*
 
 # ClickThru Network
 
