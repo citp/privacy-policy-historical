@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luggagepros.com privacy policy that was archived on 2002-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021012095618id_/http%3A//www.luggagepros.com/policies/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luggagepros.com privacy policy that was archived on 2003-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030413082254id_/http%3A//www.luggagepros.com/search/sitesearch.cgi%3Flnk%3Dprivacy%26grp%3Dfooter%26go%3D/policies/privacy.shtml) for the most accurate reproduction.*
 
 # Luggage Pros - Privacy Statement
 
