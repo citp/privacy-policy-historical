@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoover.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603153027id_/http%3A//hoover.com/xq/asp/qx/docs/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoover.com privacy policy that was archived on 2001-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010806201258id_/http%3A//www.hoover.com/xq/asp/qx/docs/privacy.htm) for the most accurate reproduction.*
 
 # The Hoover Company Vacuum Cleaners and Sweepers
 
