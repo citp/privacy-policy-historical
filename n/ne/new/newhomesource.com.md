@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newhomesource.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203072343id_/http%3A//www.newhomesource.com/sitehelp/SiteHelp.aspx%3Fcontent%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newhomesource.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604150103id_/http%3A//www.newhomesource.com/sitehelp/SiteHelp.aspx%3Fcontent%3Dprivacy) for the most accurate reproduction.*
 
 # New homes for sale, home builders and house plans.
 
