@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenfingers.com privacy policy that was archived on 2002-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021016193947id_/http%3A//www.greenfingers.com/articledisplay.asp%3Fsubcategoryid%3D57) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenfingers.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618181912id_/http%3A//www.greenfingers.com/articledisplay.asp%3Fsubcategoryid%3D57) for the most accurate reproduction.*
 
 # Greenfingers.com - your UK garden resource and centre for gardening information
 
