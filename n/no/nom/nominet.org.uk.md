@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the nominet.org.uk privacy policy that was archived on 2004-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041013000914id_/http%3A//www.nominet.org.uk/ReferenceDocuments/DataProtectionAndPrivacyStatements) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nominet.org.uk privacy policy that was archived on 2005-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050122200444id_/http%3A//www.nominet.org.uk/ReferenceDocuments/DataProtectionReleaseAndPrivacyStatements) for the most accurate reproduction.*
 
-# Nominet:Data Protection & Privacy Statements
+# Nominet:Data Protection, Release & Privacy Statements
 
   
-Data Protection & Privacy Statements
+Data Protection, Release & Privacy Statements
 
 * * *
 
@@ -15,9 +15,15 @@ You may write to us to request a copy of the personal data held by us about you.
 
 **Registrants of a .uk Domain Name**
 
-If you register a Domain Name under the .uk top level domain, you are subject to our terms and conditions. Clause 6 of those terms and conditions sets out how we will process your data, which includes; publishing your details on the register, posting information on the WHOIS database (subject only to a consumer opt-out), using the information in the Public Register Subscription Service (or any successor or replacement service); and providing information to third parties with a legitimate reason to know that information (e.g. your Tag Holder, if you have registered via one).
+If you register a Domain Name under the .uk top level domain, you are subject to our terms and conditions. Clause 11 of those terms and conditions sets out how we will process your data, which includes; publishing your details on the register, posting information on the WHOIS database (subject only to a consumer opt-out), using the information in the Public Register Subscription Service (or any successor or replacement service); and providing information to third parties with a legitimate reason to know that information (e.g. your Tag Holder, if you have registered via one).
 
 You should be aware that personal data posted on the WHOIS database may be accessible to countries outside the European Economic Area. By registering a Domain Name you consent to your personal data being transferred out of the European Economic Area and to our use of your personal data for the purposes specified above.
+
+From 11 January 2005 where data about a registration, in excess of that available by inspection of WHOIS and/or PRSS, is passed by Nominet to a third party, then Nominet shall inform the registrant by email at the registrant's email contact address if any (or if no such address exists, Nominet shall use reasonable endeavours to use an alternative contact mechanism) of the identity of the third party and the information passed to that third party.  This shall not apply:
+
+(a) where the passing of such information is prohibited by law
+
+(b) where it has been, prior to the passing of such information, shown by the third party, to Nominet's reasonable satisfaction, that there is a very substantial likelihood that the rights of others will be damaged by disclosing the fact that such information has been passed, or that law enforcement would be prejudiced.
 
 **Members & Tag Holders**
 
