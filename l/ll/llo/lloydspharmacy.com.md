@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lloydspharmacy.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209141920id_/http%3A//www.lloydspharmacy.com/6-0-0-0.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lloydspharmacy.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602232933id_/http%3A//www.lloydspharmacy.com/6-0-0-0.htm) for the most accurate reproduction.*
 
 # Lloydspharmacy - Privacy Policy
 
@@ -10,7 +10,7 @@ Admenta UK plc
 John Bell & Croyden Limited  
 G J Maley Limited (Isle of Man subsidiary)  
 Quennevais Pharmacy Limited (Jersey subsidiaries)  
-Savory & Moore (Jersey) Limited  
+Savory &Moore (Jersey) Limited  
 Stephen Smith Limited (Guernsey subsidiary)  
 AAH Pharmaceuticals Limited  
 Barclay Pharmaceuticals Limited  
@@ -35,6 +35,8 @@ We may share your personal information with other members of the Admenta Group. 
 ### Cookies
 
 In common with many other web site operators, we may use standard technology called 'cookies' on this site. Cookies are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies enable us to identify you and to store information about the services you select between visits. Most browsers automatically accept cookies, but you can usually change your browser to prevent cookies being stored, however if you do turn cookies off this may limit the service that we are able to provide to you.
+
+If you wish to switch off cookies on your browser please go to _www.allaboutcookies.org_.
 
 ### Security
 
