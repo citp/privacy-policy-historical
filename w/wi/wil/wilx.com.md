@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wilx.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218141601id_/http%3A//wilx.com/benedek/HomePage/SubTopic/index.html%3Fbody_file%3Dprivacy.html%26topicintid%3D5%26subtopicintid%3D110) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilx.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607201712id_/http%3A//www.wilx.com/benedek/HomePage/SubTopic/index.html%3Fbody_file%3Dprivacy.html%26topicintid%3D5%26subtopicintid%3D110) for the most accurate reproduction.*
 
 # Welcome to WILX
 
