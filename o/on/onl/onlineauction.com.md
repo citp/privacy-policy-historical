@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineauction.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201221710id_/http%3A//www.onlineauction.com/help/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineauction.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205105352id_/http%3A//onlineauction.com/help/privacy_policy.html) for the most accurate reproduction.*
 
 # Onlineauction.com - User Privacy Policy
 
