@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the skinbase.org privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204212048id_/http%3A//www.skinbase.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinbase.org privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605125342id_/http%3A//www.skinbase.org/privacy.php) for the most accurate reproduction.*
 
 # Skinbase.org / Privacy Policy
 
+  
 **SkinBase Submissions Policy**  
 SkinBase reserves the right to prohibit any submission that it deems offensive. Some of the items that can be seen as offensive include any pornographic, racial or hate-based works. By submitting your work to SkinBase, you also agree that you are the legal copyright holder to all said submitted works (or parts-thereof) or that you have permission from the original work's artist. If a submitted piece of artwork is found to not be that of the submitting artist, he/she shall be responsible for any legal action that may arise due to copyright infringement. We do not claim ownership of the artwork submitted to SkinBase as all artwork submitted is the copyrighted work of its original artist. The files submitted by the users of SkinBase are not checked for viruses and it is recommended that all users check their downloaded files with a virus checker. SkinBase takes no responsibility for anything contained in a downloaded file as the contents of each file are not checked by the SkinBase website or it's admins.
 
