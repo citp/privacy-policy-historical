@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the swapalease.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604230020id_/http%3A//swapalease.com/help_files/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swapalease.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204111730id_/http%3A//swapalease.com/help_files/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
 **SWAPALEASE INC. PRIVACY STATEMENT  
 **EFFECTIVE ON: 5/19/2004** **  
 ---  
-| [](https://www.truste.org/validate/8927) |  Swapalease Inc. is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for Swapalease.com of Swapalease Inc.'s Website.  
+| [](http://www.truste.org/ivalidate.php?url=www.swapalease.com) |  Swapalease Inc. is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for Swapalease.com of Swapalease Inc.'s Website.  
 ---|---  
 TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of: 
 
@@ -19,7 +19,12 @@ TRUSTe is an independent, non-profit organization whose mission is to build user
 
 
 
-**If you feel that this company is not abiding by its posted privacy policy, you should first contact Scot Hall, of the Swapalease Client Services Department by emailing Mr. Hall at[shall@swapalease.com](mailto:shall@swapalease.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/watchdog.html>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.  
+**If you feel that this company is not abiding by its posted privacy policy, you should first contact Scot Hall, of the Swapalease Client Services Department by emailing Mr. Hall at[shall@swapalease.com](mailto:shall@swapalease.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at 
+
+<http://truste.org/consumers/watchdog_complaint.php?>
+
+TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+
 **  
   
 **Information Collection and Use  
