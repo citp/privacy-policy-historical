@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the avadirect.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611073622id_/http%3A//www.avadirect.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avadirect.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208181959id_/http%3A//www.avadirect.com/privacy.asp) for the most accurate reproduction.*
 
 # AVADirect - Privacy and Security
 
 **Transaction Security**
 
 AVADirect recognizes your right for privacy and full confidentiality while shopping online. All sensitive data such as billing and shipping information are securely encrypted using Secure Socket Layers (SSL) encryption protocol. That is why you maintain control over your personal data at avadirect.com . AVADirect is commited to provide up-to-date secure environment for online shoppers. The avadirect.com web site is registered with independent site identification authorities such as [Comodo Group](http://www.comodogroup.com/) to confirm identity of our online store before any transmission is sent. Comodo Group Secure Certificate gives all parties the confidence that information is being sent securely and to the right place. 
-
-[ ](https://secure.comodo.net/CPS)
 
 **Fraud Protection**
 
