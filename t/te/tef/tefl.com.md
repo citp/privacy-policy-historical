@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tefl.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209180715id_/http%3A//www.tefl.com/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tefl.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622105055id_/http%3A//www.tefl.com/home/privacy.html) for the most accurate reproduction.*
 
 # TEFL.com - The world's largest real-time database of English Language Teaching Jobs
 
@@ -41,7 +41,3 @@ Tel (UK) +44 (0)709 216 5424
 Fax/Voicemail (UK) +44 (0)20 7691 7074  
 Fax/Voicemail (US) +1 212 898 0454   
 [Click here](mailto:support@tefl.com) to send an e.mail
-
-| |    
-  
----|---|---
