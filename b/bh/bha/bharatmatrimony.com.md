@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bharatmatrimony.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402143410id_/http%3A//www.bharatmatrimony.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bharatmatrimony.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207050142id_/http%3A//www.bharatmatrimony.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -25,6 +25,10 @@ Bharatmatrimony.com does not sell, rent, or loan any identifiable information at
 *  **Do all visitors have to pay?**
 
 NO, All visitors to our site may browse the site, search the ads and view any articles or features our site has to offer without entering any personal information or paying money.
+
+*  **Can users contact any number of profiles in a single day?**
+
+As a paid member of this site, you have the privilege to contact hundreds of profiles in a single day. However, there is a specified limit to 150 contacts for security reasons per day . If you want to contact more profiles than the specified limit in a single day, he/she can do so after the completion of 24 hours of their login time.
 
 *  **Notice**
 
