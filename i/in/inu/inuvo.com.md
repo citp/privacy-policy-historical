@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the inuvo.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203193246id_/http%3A//www.inuvo.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inuvo.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606021703id_/http%3A//www.inuvo.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Privacy Policy
 
 Inuvo is committed to the privacy of each visitor to our website. We have, therefore, taken significant steps to ensure that each transaction with Inuvo is executed safely and securely. Please review the following statements concerning our information gathering and privacy practices. Use of the Inuvo website implies your consent to the collection, use, and storage of your personal information as described in this policy. Inuvo reserves the right to report to law enforcement agencies any activities that we reasonably believe to be unlawful.
 
