@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the mortgage101.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401230138id_/http%3A//www.mortgage101.com/partner-scripts/privacy.asp%3Fp%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mortgage101.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207145028id_/http%3A//www.mortgage101.com/Privacy.asp%3Fp%3Dmtg101) for the most accurate reproduction.*
 
-# Mortgage 101 Privacy Policy
+# Privacy Policy
 
-[Mortgage 101](http://www.mortgage101.com/), produced by [LionInc.com](http://www.lionchoice.com/), gives consumers current interest rate and various mortgage vehicles to assist in home financing. As an Mortgage 101 participant in our home financing service, each selected broker agrees with and is committed to Mortgage 101’s policies for consumer privacy. 
+  | 
+
+  
+Mortgage 101 Privacy Policy
+
+[Mortgage 101](http://www.mortgage101.com/), produced by [LionInc.com](http://www.lionchoice.com/), gives consumers current interest rate and various mortgage vehicles to assist in home financing. As an Mortgage 101 participant in our home financing service, each selected broker agrees with and is committed to Mortgage 101’s policies f or consumer privacy. 
 
 To process customer home financing requests and keep customers informed, customers must provide their names, e-mail and street addresses, telephone numbers, income and other financial data. All of this information is stored in a secure manner and is not accessible through the Internet. 
 
