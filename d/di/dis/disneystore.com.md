@@ -1,17 +1,7 @@
-> *The following text is extracted and transformed from the disneystore.com privacy policy that was archived on 2002-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020406032733id_/http%3A//disney.go.com/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disneystore.com privacy policy that was archived on 2002-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021120023130id_/http%3A//disney.go.com/legal/privacy_policy.html) for the most accurate reproduction.*
 
 # Disney Online Guest Services - Privacy Policy
 
-[](http://transfer.go.com/cgi/transfer.dll?srvc=dis&goto=http://search.disney.go.com/&name=gs_navbar_search)  
-[](http://transfer.go.com/cgi/transfer.dll?srvc=dis&goto=http://disney.go.com/sitemap/index.html&name=gs_navbar_sitemap)  
-[](http://transfer.go.com/cgi/transfer.dll?srvc=dis&goto=http://disney.go.com/help/index.html&name=gs_navbar_help)  
-[](http://transfer.go.com/cgi/transfer.dll?srvc=dis&goto=http://disney.go.com/guestservices/your_account/index.html&name=gs_navbar_youraccount)  
-[](http://transfer.go.com/cgi/transfer.dll?srvc=dis&goto=http://disney.go.com/guestservices/netiquette.html&name=gs_navbar_netiquette)  
-[](http://transfer.go.com/cgi/transfer.dll?srvc=dis&goto=http://disney.go.com/help/software_center/index.html&name=gs_navbar_search_softwarecenter)  
-[](http://transfer.go.com/cgi/transfer.dll?srvc=dis&goto=http://disney.go.com/legal/internet_safety.html&name=gs_navbar_internetsafety)  
-[](http://transfer.go.com/cgi/transfer.dll?srvc=dis&goto=http://disney.go.com/legal/privacy_policy.html&name=gs_navbar_privacypolicy)  
-[](http://transfer.go.com/cgi/transfer.dll?srvc=dis&goto=http://disney.go.com/legal/conditions_of_use.html&name=gs_navbar_termsofuse)  
-  
 |  |  |  |   
 ---|---|---  
 | **Q1** | **What types of information are WDIG sites collecting, and how are the sites collecting it?** |   
