@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the hitz.fm privacy policy that was archived on 2002-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020219153515id_/http%3A//www.hitz.fm/v6/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitz.fm privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208095632id_/http%3A//www.hitz.fm/main/privacy.asp) for the most accurate reproduction.*
 
 # :: The All New hitz.fm ::
 
----  
-|   |   
-|    
----|---|---  
-  | **1\. Our Policy  
+**1\. Our Policy  
 2\. IP Address  
 3\. The information we require from you  
 4\. Registration  
@@ -17,9 +13,9 @@
 9\. Prohibitions  
 10\. Personal Data Access and Updating Information  
 11\. Changes to this Privacy Policy  
-12\. How to contact us regarding Privacy and Security Issues** |    
-  |  |    
-  | **1\. Our Policy**
+12\. How to contact us regarding Privacy and Security Issues**
+
+**1\. Our Policy**
 
 Airtime Management & Programming Sdn Bhd. (403472-D) ("AMP"), our subsidiaries, affiliates and employees are committed to your privacy and security. We have created this privacy statement in order to demonstrate our firm commitment to protecting your privacy on-line. Keeping your information secure is our top priority. We want you to understand what we do, so we ask that you read.
 
@@ -51,16 +47,11 @@ The Website uses "cookies" to identify a user's session on the Website and there
 **  
 All personal data held by us will be kept confidential but we may, where such disclosure is necessary to satisfy the purpose, or a directly related purpose, for which the data was collected provide such information to the following parties:-
 
-|    
-  | 
+**A**. any subsidiaries, holding companies, associated companies or affiliates of or companies controlled by or under our common control;   
+**B**. any other person who is under a duty of confidentiality to us who has undertaken to keep such information confidential;   
+**C**. any financial institutions, charge or credit card issuing companies, credit information or reference bureaux, or collection agencies necessary to establish and support the payment of any services being requested.
 
-> **A**. any subsidiaries, holding companies, associated companies or affiliates of or companies controlled by or under our common control;   
->  **B**. any other person who is under a duty of confidentiality to us who has undertaken to keep such information confidential;   
->  **C**. any financial institutions, charge or credit card issuing companies, credit information or reference bureaux, or collection agencies necessary to establish and support the payment of any services being requested.
-
-|    
-  |  |    
-  | Your information is password-protected so that only you have access to this personal information. We recommend that you do not divulge your password to anyone. We will never ask you for your password in an unsolicited phone call or in an unsolicited email. Remember to log out and close your browser window when you have finished your work to ensure that others cannot access your personal information. 
+Your information is password-protected so that only you have access to this personal information. We recommend that you do not divulge your password to anyone. We will never ask you for your password in an unsolicited phone call or in an unsolicited email. Remember to log out and close your browser window when you have finished your work to ensure that others cannot access your personal information. 
 
 **7\. Links  
 **  
@@ -82,7 +73,6 @@ AMP may amend this policy from time to time. If we make any substantial changes 
 
 **12\. How To Contact Us Regarding Privacy and Security Issues  
 **  
-We take privacy and security matters very seriously and it is important to us that you understand and are comfortable with our privacy standards. If you have any questions, comments, criticisms or complaints about our Privacy and Security Statement and the way it affects you, please feel free to e-mail us at [webmaster@amp.com.my](mailto:webmaster@amp.com.my) or write or call us during regular business hours.  
+We take privacy and security matters very seriously and it is important to us that you understand and are comfortable with our privacy standards. If you have any questions, comments, criticisms or complaints about our Privacy and Security Statement and the way it affects you, please feel free to e-mail us at [webmaster@com.my](mailto:webmaster@com.my) or write or call us during regular business hours.
 
-
-|  
+[ **TOP**]
