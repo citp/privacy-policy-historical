@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popdirt.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604162002id_/http%3A//popdirt.com/modules.php%3Fop%3Dmodload%26name%3DFAQ%26file%3Dindex%26myfaq%3Dyes%26id_cat%3D3%26categories%3DPrivacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popdirt.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203040802id_/http%3A//popdirt.com/modules.php%3Fop%3Dmodload%26name%3DFAQ%26file%3Dindex%26myfaq%3Dyes%26id_cat%3D3%26categories%3DPrivacy%2BPolicy) for the most accurate reproduction.*
 
 # Popdirt.com - FAQ
 
