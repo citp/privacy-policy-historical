@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lockergnome.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602204431id_/http%3A//www.lockergnome.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lockergnome.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008150736id_/http%3A//www.lockergnome.com/privacy.html) for the most accurate reproduction.*
 
 # Lockergnome's Privacy Statement
 
@@ -87,12 +87,12 @@ Des Moines, IA 50321 USA
 
  Remember Our Free Newsletters
 
-©1996-2003, Lockergnome LLC. ISSN: 1095-3965. All Rights Reserved. Please read our [Terms of Service](http://www.lockergnome.com/terms.html) and [Privacy Policy](http://www.lockergnome.com/privacy.html). Domains registered at [DNS Central](https://gnomedomains.securenow.com/registerdomain.cgi). Powered by [Lyris ListManager](http://www.lyris.com/). Chris Pirillo fueled by [Peet's Coffee](http://www.qksrv.net/click-471546-1200274). Headers provided by [Habeas](http://www.habeas.com/partner.php?affil=lockergnome&url=lockergnome.htm). Statistics provided by [Urchin](http://www.urchin.com/).
+©1996-2003, Lockergnome LLC. All Rights Reserved. Please read our [Terms of Service](http://www.lockergnome.com/terms.html) and [Privacy Policy](http://www.lockergnome.com/privacy.html). Domains registered at [GnomeDomains](https://www.gnomedomains.com/registerdomain.cgi). Chris Pirillo fueled by [Peet's Coffee](http://www.peets.com/promo/lockergnome.asp). Website hosted by [Webair](http://www.webair.com/cgi-bin/in?51).
 
-|  [](http://www.gnomedex.com/)
+| 
 
-**Helpful Services:**  
- [GnomeDomains](https://gnomedomains.securenow.com/registerdomain.cgi)  
+**Newest Services:**  
+ [GnomeDomains](http://www.gnomedomains.com/)  
  [GnomePortable](http://www.handango.com/brainstore/home.jsp?siteId=813)  
  [Gnomies.com](http://www.crosspaths.net/links.asp?code=XPLGWEB&dest=/services/gnomies/)  
  [GnomeSavings](http://lockergnome.pricegrabber.com/)  
@@ -100,9 +100,8 @@ Des Moines, IA 50321 USA
  [GnomeJobs](http://seeker.dice.com/seeker.epl?rel_code=14)  
 
 
-**Current Content:**  
+**Newest Content:**  
  [Windows Daily](http://windowsdaily.lockergnome.com/)  
- [Digital Media](http://digitalmedia.lockergnome.com/)  
  [Tech Specialist](http://techspecialist.lockergnome.com/)  
  [Penguin Shell](http://penguinshell.lockergnome.com/)  
  [Apple Core](http://applecore.lockergnome.com/)  
@@ -110,38 +109,27 @@ Des Moines, IA 50321 USA
  [Technology News](http://update.lockergnome.com/)  
  [PDF Downloads](http://tutorials.lockergnome.com/)  
  [File Of The Day](http://windows.fileoftheday.com/)  
+ [RSS Resource](http://rss.lockergnome.com/)  
+ [Amazon.com Products](http://www.lockergnome.com/amazon/)  
 
 
-**Our Community:**  
- [Gnomedex Conference](http://www.gnomedex.com/)  
- [Recommend Us!](http://www.lockergnome.com/recommend.html)  
- [Enter the Forums](http://help.lockergnome.com/)  
- [Live Chat Room](http://www.lockergnome.com/chat.html)  
- [Watch The Webcams](http://www.lockergnome.com/webcam.html)  
- [About Lockergnome](http://www.lockergnome.com/about.html)  
-
-
-**Contact Us:**  
- [General Feedback](mailto:feedback@lockergnome.com?subject=Lockergnome%20Web%20Site%20Feedback)  
- [Submit Your Link](http://www.lockergnome.com/submit.php)  
- [Sponsorships](http://advertise.lockergnome.com/)  
+**Contact Options:**  
+ [Hire Us Today](http://www.pirillo.com/)  
+ [Submit a Link](http://www.lockergnome.com/submit.php)  
+ [Send Feedback](mailto:feedback@lockergnome.com?subject=Lockergnome%20Web%20Site%20Feedback)  
+ [Advertise with Us](http://advertise.lockergnome.com/)  
 
 
   
 
 
   
+ [Affordable web hosting](http://go.lockergnome.com/138 "HostRocket provides web hosting that is affordable, reliable, and full of features.")  
+ [Create CD/Web catalog](http://go.lockergnome.com/163 "A quick, powerful, all-in-one environment for creating stunning catalogs, CDs and Web sites.")  
+ [1Site Create Website](http://go.lockergnome.com/152 "1SITE is a professional easy-to-use Web site creator software. Get it now and start creating your Website in minutes!")  
  [Pretty Good Solitaire](http://www.goodsol.com/index.html?src=gnome "You will enjoy countless hours of fun with Pretty Good Solitaire! Play over 500 solitaire card games, from classic games like Klondike, FreeCell, and Spider, to original games found nowhere else.  Enjoy lush graphics, large easy-to-read cards, statistics, and quests, a unique new way to play for points.")  
- [Download StealthDisk](http://www.invisicom.com/?lockergnome "Secure, hide, and encrypt your valuable data. StealthDisk removes all traces of online and offline activities using patent pending technology.")  
- [Intranet Help Desk](http://www.auscomp.com/itcommander_lg.html "Auscomp IT Commander. Free relational database. Easy to install, deploy, use, maintain & scale. Try it!")  
- [Easy webcam mobility!](http://www.strangesolutions.com/ccp5/cgi-bin/cp-app.cgi?pg=prod&ref=FlexStand&camp=gnome "FlexStand - the necessary webcam accessory. Put your webcam where you want it. The FlexStand provides unmatched mobility for your web camera. FlexStand your webcam today!")  
- [Dr.Tag - MP3 Tagger](http://www.drtag.de/?lockergnome "World's most effective and easiest MP3 tagging and renaming utility. Click here to purchase now and pay only $19.95!")  
- [Registry Mechanic](http://www.winguides.com/regmech/?ref=lggsmay "Safely clean and repair Windows registry problems with a few simple mouse clicks!")  
- [Create CD, Web, catalog](http://www.hyperpublish.com/create_a_catalog_000018.htm "Creating autorun CDs with CD FrontEnd is really a snap! Not just a compiler but a quick, powerful all-in-one environment for creating stunning CDs!")  
- [1SITE Web creator](http://www.1site.info/lg.html "Create a Web site quickly, without Html tech stuff! Internet pages in a snap! - 1site, the easy web software")  
- [EBooksWriter](http://www.ebookswriter.com/lg.html "Creating e-books with EbooksWriter is really a snap! Not just an ebook compiler, but a quick, powerful all-in-one environment for making stunning e-books!")  
- [Recover Nonbooting PCs](http://store.yahoo.com/cgi-bin/clink?configsafe+7TusZ4+myezfixcom1.html "CPR software from imagine LAN recovers non-booting Windows PCs in minutes - and without data loss!")  
- [Computer Power User](https://www.sandhills.com/secure/smartcomputing/cpufreetrial4.asp?guid=&source=CPU740bonus "Computer Power User is a monthly publication tech enthusiasts. It         offers a mix of opinions from columnists like Chris Pirillo, Rob Malda, and Sharky Ross. In addition to high-tech tips and information and product reviews")  
+ [Portable Applications](http://store.yahoo.com/cgi-bin/clink?winboot+pPhcPQ+piprotector.html "Private Browsing/Portable Email/ File Sync for USB flash drives and other portable storage devices. Device-centric, leaves no trace.")  
+ [Computer Power User](http://go.lockergnome.com/127 "Computer Power User is a monthly publication for tech enthusiasts. It offers a mix of opinions from columnists like Chris Pirillo, Rob Malda, and Sharky Ross, in addition to high-tech tips and information and product reviews.")  
 
 
 [**Get Listed Here**](http://www.lockergnome.com/special.html)
