@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebuzz.com privacy policy that was archived on 2002-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020606043330id_/http%3A//www.thebuzz.com/jacor-common/tou.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebuzz.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215130146id_/http%3A//www.thebuzz.com/jacor-common/tou.html) for the most accurate reproduction.*
 
 # 94.5 - The Buzz - Houston's New Music Alternative
 
