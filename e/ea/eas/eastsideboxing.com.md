@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eastsideboxing.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204194120id_/http%3A//www.eastsideboxing.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastsideboxing.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621100844id_/http%3A//www.eastsideboxing.com/privacy.html) for the most accurate reproduction.*
 
 # East Side Boxing - Privacy Policy
 
