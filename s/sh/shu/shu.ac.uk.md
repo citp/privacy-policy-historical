@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shu.ac.uk privacy policy that was archived on 2000-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001213103600id_/http%3A//www.shu.ac.uk/services/marketing/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shu.ac.uk privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211203258id_/http%3A//www.shu.ac.uk/services/marketing/corporate/privacy.html) for the most accurate reproduction.*
 
 # Sheffield Hallam University - Website Privacy Policy
 
@@ -22,7 +22,9 @@ If you choose not to receive further communications we will only use your name a
 
 You may use our facility to e-mail content to yourself or a friend. Any information you supply for this is used only to deliver a message in real-time to the e-mail address(es) you specify. We do not keep this information, nor do we share it in any way. 
 
-You may use our subscription facility to receive regular e-mail updates from Sheffield Hallam University. Any information you supply for this is used only to deliver messages based on the subjects you choose to the e-mail address you specify. We do not keep this information, nor do we share it in any way. 
+You may use our subscription facility to receive regular e-mail updates from Sheffield Hallam University. Any information you supply for this is used only to deliver messages based on the subjects you choose to the e-mail address you specify. We do not share this information in any way. Details of how to stop receiving updates are sent to the e-mail address you specify at the time of subscribing.
+
+You may use our facility to receive regular SMS text messages from Sheffield Hallam University. Any information you supply for this is used only to deliver messages based on the subjects you choose to the phone number you specify. We do not share this information in any way. Details of how to stop receiving text messages are displayed at the time of subscribing. 
 
 If you contact us by e-mail to request information, report a problem or provide feedback on our services we will only use the information you provide (including your e-mail address) to respond to your message. We do not keep this information, nor do we share it in any way.
 
