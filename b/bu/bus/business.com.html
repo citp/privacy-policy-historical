@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the business.com privacy policy that was archived on 2004-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041207224143id_/http%3A//www.business.com/info/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the business.com privacy policy that was archived on 2005-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050403214435id_/http%3A//www.business.com/info/privacypolicy.asp) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -29,53 +29,228 @@ function trim(str) {
 <a name="top"></a>
 
 
-<table cellspacing="0" cellpadding="0" border="0" width="100%" bgcolor="#190C80">
+<script>
+
+function s1(el, type) 
+{
+	if (window.RegExp && window.encodeURIComponent) 
+	{
+		
+		//alert('type='+type);
+		
+		
+		
+		
+		if (document.b.query!=null)
+		{
+			//alert('dd');
+			//alert(document.b.query.value.length);
+			if (document.b.query.value.length<1)
+			{
+				//alert(document.b.query.value.length);
+				location.href="/search/index_"+type+".asp";
+				return false;
+			}
+			else
+			{
+				var qe=encodeURIComponent(document.b.query.value);
+				
+				if (el.href.indexOf("query=")!=-1) 
+				{
+					el.href=el.href.replace(new RegExp("query=[^&$]*"),"query="+qe);
+				} 
+				else 
+				{
+					el.href+="&query="+qe;
+				}
+			}
+		}
+		else //when query object is null
+		{
+			//alert('1');
+			if (type=='web' || type =='news')
+			{
+				//alert('2');
+				if (document.b.last!=null && document.b.first!=null)
+				{
+					if (document.b.last.value.length>0 && document.b.first.value.length>0)
+					{
+						var qe=encodeURIComponent(document.b.first.value+" "+document.b.last.value);
+					        
+						if (el.href.indexOf("query=")!=-1) 
+						{
+							el.href=el.href.replace(new RegExp("query=[^&$]*"),"query="+qe);
+						} 
+						else 
+						{
+							el.href+="&query="+qe;
+						}
+						return 1;
+					}
+				} 
+			}
+			location.href="/search/index_"+type+".asp";
+			return false;
+		
+		}
+		
+		
+	}
+	
+	return 1;
+}
+function s2(el, type) 
+{
+	if (type=='jobs')
+	{
+		top.location.href="/search/index_jobs.asp";
+		return false;
+	}
+	
+	if (window.RegExp && window.encodeURIComponent) 
+	{
+		
+		//alert('type='+type);
+		
+		
+		
+		
+		if (document.b.query!=null)
+		{
+			//alert('dd');
+			//alert(document.b.query.value.length);
+			if (document.b.query.value.length<1)
+			{
+				//alert(document.b.query.value.length);
+				top.location.href="/search/index_"+type+".asp";
+				return false;
+			}
+			else
+			{
+				var qe=encodeURIComponent(document.b.query.value);
+				
+				if (el.href.indexOf("query=")!=-1) 
+				{
+					el.href=el.href.replace(new RegExp("query=[^&$]*"),"query="+qe);
+				} 
+				else 
+				{
+					el.href+="&query="+qe;
+				}
+				top.location.href=el.href;
+			        return false;
+			}
+		}
+		else //when query object is null
+		{
+			//alert('1');
+			if (type=='web' || type =='news')
+			{
+				//alert('2');
+				if (document.b.last!=null && document.b.first!=null)
+				{
+					if (document.b.last.value.length>0 && document.b.first.value.length>0)
+					{
+						var qe=encodeURIComponent(document.b.first.value+" "+document.b.last.value);
+					        
+						if (el.href.indexOf("query=")!=-1) 
+						{
+							el.href=el.href.replace(new RegExp("query=[^&$]*"),"query="+qe);
+						} 
+						else 
+						{
+							el.href+="&query="+qe;
+						}
+						top.location.href=el.href;
+						return false;
+					}
+				} 
+			}
+			top.location.href="/search/index_"+type+".asp";
+			return false;
+		
+		}
+		
+		
+	}
+	
+	return 1;
+}
+
+
+
+</script>
+
+
+<style type="text/css">
+<!-- General Style -->
+a:hover {color:"#C35907";}
+.br4{font-size:4px}
+.br6{font-size:6px}
+.br8{font-size:8px}
+.br9{font-size:9px}
+.br11{font-size:11px}
+.gnavbig { font-size: 11px; font-weight: bold; color: #ffffff; font-family: arial, sans-serif; }
+.inputMy { color: #000000; font-weight: normal;font-family: arial;font-size: 10px; }
+.noUnd {text-decoration:none;color:#000000;}
+.snavhsa { font-size: 10px; font-weight: regular; color: #333333; font-family: arial, sans-serif; }
+.snavhsc { font-size: 12px; font-weight: regular; color: #333333; font-family: arial, sans-serif; }
+.hide { position:absolute; visibility:hidden; }
+.show { position:absolute; visibility:visible; }
+</style>
+
+
+
+
+
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
 	<tbody><tr>
-		<td width="235" valign="bottom"><a href="http://www.business.com"><img src="/images/logonew5small.gif" alt="Business.com Search Engine and Directory for Business Information" border="0"></a></td>
-		<td width="7"></td>
-		<td width="*" colspan="2" align="center" valign="middle">
-			<table cellspacing="0" cellpadding="0" border="0" width="100%">
-				<tbody><tr>
-					<td>&nbsp;</td>
-				</tr>
-			</tbody></table>
-		</td>
+		<td><a href="/"><img src="/images/bdclogowhitese.gif" alt="Business.com Search Engine and Directory for Business Information" border="0"></a></td>
+		<td align="right" nowrap=""><font face="arial" size="3"><b><a href="/info/advertisewithus.asp?mkt=bdc.se.header">Advertise With Us</a></b></font></td>
+
 	</tr>
+</tbody></table>
+<br class="br6">
+<form action="/search/rslt_default.asp" method="get" name="b" target="_top"> 
+
+<table border="0" cellspacing="0" cellpadding="2" width="375">   
+ <tbody><tr>
+  <td id="tdDir" align="center" bgcolor="#D9EDF9" nowrap="" class="gnavb">Web</td>
+  <td align="center" bgcolor="#ffffff"><font face="arial" size="2">&nbsp;</font></td>
+  <td id="tdNews" align="center" bgcolor="#ffffff" nowrap="" class="gnavb"><a href="/search/rslt_default.asp?vt=all&amp;search=search&amp;type=news&amp;query=" onclick="return s1(this,'news');" id="aNews">News</a></td>  
+  <td align="center" bgcolor="#ffffff"><font face="arial" size="2">&nbsp;</font></td> 
+  <td id="tdPpl" align="center" bgcolor="#ffffff" nowrap="" class="gnavb"><a href="/search/index_people.asp" id="aPpl">People</a></td> 
+  <td align="center" bgcolor="#ffffff"><font face="arial" size="2">&nbsp;</font></td> 
+  <td id="tdJobs" align="center" bgcolor="#ffffff" nowrap="" class="gnavb"><a href="/search/rslt_default.asp?vt=all&amp;search=search&amp;type=jobs&amp;query=" onclick="return s1(this,'jobs');" id="aJobs">Jobs</a></td>
+ </tr>
+</tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" id="searchTable">    
+	<input type="hidden" name="vt" value="all">
+	<tbody><tr id="searchRow">
+		<td id="searchCell" bgcolor="#D9EDF9">			
+			<font size="2" face="arial">&nbsp;</font>
+			<br>
+			<font size="2" face="arial">&nbsp;&nbsp;</font>
+			<font face="arial" size="2" id="searchText">
+				<b id="blah">Search The Business Internet ®
+			</b></font><b id="blah">
+			
+			<input type="hidden" name="type" value="web">
+			<input type="text" size="55" name="query" value="">
+			<input type="submit" name="search" value="Search" style="color:333333;font-weight:bold;font-family:arial;font-size:12px;height:22;"> &nbsp; <font face="arial" size="1"><a href="/info/searchtips.asp">Search Tips</a></font><br>
+			<font size="2" face="arial">&nbsp;</font>
+		</b></td>
+	</tr> 
 </tbody></table>
 
-<!-- start GLOBAL NAV -->
-<table cellspacing="0" cellpadding="2" border="0" bgcolor="#FF8600" width="100%">
-	<tbody><tr>
-		<td>
-			<table cellspacing="0" cellpadding="0" border="0" width="100%" bgcolor="#ffffff">
-				
-				<tbody><tr>
-					<td>
-						<table cellspacing="0" cellpadding="3" border="0">
-							<tbody><tr><td></td><td colspan="3" valign="top"><font face="verdana" style="font-size:11px;"><a href="#" onclick="return sticky('web')">Internet</a> &nbsp; <a href="#" onclick="return sticky('news')">News</a> &nbsp; <a href="#" onclick="return sticky('jobs')">Jobs</a></font></td></tr>
-							<tr><form action="/search/rslt_default.asp" method="get" name="b"></form>	
-								<td class="gnavb" nowrap=""><font face="Arial,Sans-serif" style="font-size:15px;color:333333;">&nbsp; Search The Business Internet ®</font></td>
-								<td>
-									<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><input type="hidden" name="vt" value="all"><input type="text" size="26" name="query" value=""></td>
-									<td>&nbsp;<input type="submit" name="search" value="Search" style="background:#F9C486;color:333333;font-weight:bold;font-family:verdana;font-size:11px;height:22;"></td>
-									</tr>
-									</tbody></table>
-								</td>
-								<td nowrap="" valign="middle"><font face="arial" size="1">&nbsp;&nbsp;&nbsp;<a href="/info/searchtips.asp">Search Tips</a></font></td>
-							</tr>
-						</tbody></table>	
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
+
+  
 
 
 <table cellspacing="0" cellpadding="2" border="0" width="100%">
 	<tbody><tr>
-		<td><font face="verdana,sans-serif" size="4" color="#FF6600"><b>Privacy Policy</b></font></td>
-		<td align="right"><font face="verdana,sans-serif" size="1"><!-- 30px space - replace table w/ sponsorship logo --><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td height="30"></td></tr></tbody></table><!-- sponsored by logo --></font></td>
+		<td><font face="arial" size="4" color="#FF6600"><b>Privacy Policy</b></font></td>
+		<td align="right"><font face="arial" size="2"><!-- 30px space - replace table w/ sponsorship logo --><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td height="30"></td></tr></tbody></table><!-- sponsored by logo --></font></td>
 	</tr>
 	<tr bgcolor="#99B0DE">
 		<td colspan="2"><table cellspacing="0" cellpadding="0" border="0" width="10"><tbody><tr><td height="1"></td></tr></tbody></table></td>
@@ -107,7 +282,7 @@ function trim(str) {
 
 <tbody><tr>
 <td>
-<font face="verdana" size="2">
+<font face="arial" size="2">
 <p>
 <b>INTRODUCTION</b>
 </p>
@@ -200,7 +375,7 @@ It is possible that Business.com, its subsidiaries, its joint ventures, or any c
 	The Site may also contain links to other web sites and advertising.  The privacy policies of those web sites and advertisers may significantly differ from that of our Site.  It is your responsibility to contact such web site operator or advertiser directly to determine their privacy policy.
 	</p>
 <a name="contact"></a><b>8. 	How you can contact us.</b><br><br>
-	</font><p><font face="verdana" size="2">
+	</font><p><font face="arial" size="2">
 	Any questions about our Privacy Policy, the practices of the Site, or your dealings with the Site should be directed to: <br>
 
 Customer Service<br>
@@ -211,7 +386,7 @@ Santa Monica, CA 90404<br>
 
 </font>
 <br><br>
-<font face="verdana" size="1">
+<font face="arial" size="2">
 <img src="/images/uparrow.gif" border="0"><a href="#top">Top</a></font>
 
 
@@ -241,37 +416,40 @@ Santa Monica, CA 90404<br>
 <br class="br6">
 
 
-<table cellspacing="0" cellpadding="0" border="0" width="100%" bgcolor="#4B6FB8">
-<tbody><tr>
-<td>
-<table cellspacing="1" cellpadding="5" border="0" width="100%">
-	<tbody><tr bgcolor="#ffffff">
-		<td width="25%" bgcolor="#CBCBEA" align="center"><font face="verdana" size="1"><a href="#" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage(location.href);" style="color:blue;">Make This Your Homepage</a></font></td>
-		<td width="25%" bgcolor="#EED5BA" align="center"><font face="verdana" size="1"><a href="http://www.business.com/survey.asp">Register With Business.com</a></font></td>
-		<td width="25%" bgcolor="#e9ecf4" align="center"><font face="verdana" size="1"><a href="http://www.business.com/info/advertisewithus.asp">Advertise With Business.com</a></font></td>
-		<td width="25%" bgcolor="#CBDEF3" align="center"><font face="verdana" size="1"><a href="https://secure.business.com/doc/emailthis.jsp?url=http%3A%2F%2Fwww%2Ebusiness%2Ecom%2Finfo%2Fprivacypolicy%2Easp&amp;pagetitle=Business.com">Email This Page</a></font></td>
-		
+
+
+<table cellspacing="0" cellpadding="0" border="0" width="100%" bgcolor="#1A54D6"><tbody><tr><td height="1"></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" border="0" width="100%" bgcolor="#F7B060">
+	<tbody><tr>
+		<td align="right">
+			<table cellspacing="0" cellpadding="4" border="0">
+				<tbody><tr bgcolor="#ffffff">
+					<td bgcolor="#F7B060" align="center"><font face="arial" size="2"><a href="#" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage(location.href);" style="color:white;text-decoration:none;"><b>Make This Your Homepage</b></a> &nbsp;|</font></td>
+					<td bgcolor="#F7B060" align="center"><font face="arial" size="2"><a href="https://secure.business.com/doc/emailthis.jsp?url=http%3A%2F%2Fwww%2Ebusiness%2Ecom%2Finfo%2Fprivacypolicy%2Easp&amp;pagetitle=Business.com" style="color:white;text-decoration:none;"><b>Email This Page</b></a></font></td>
+				</tr>
+			</tbody></table>
+		</td>
 	</tr>
 </tbody></table>
-</td>
-</tr>
-</tbody></table>
+<table cellspacing="0" cellpadding="0" border="0" width="100%" bgcolor="#1A54D6"><tbody><tr><td height="1"></td></tr></tbody></table>
+
+
+
 
 <br class="br6">
 <br class="br6">
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 	<tbody><tr>
 	    <td class="snavhs" align="center">
-			  <a href="https://secure.business.com/registration/currentlistings.jsp">Account Login</a> | <a href="/info/aboutus.asp">About Us</a> | 
-	          <a href="/info/partners.asp">Partners</a> | <a href="/info/press/index.asp">Press Room</a>
-	          | <b><a href="https://secure.business.com/registration/suggestasite.jsp?bdcs=61F2F366-349E-48B4-8F9B-F0A5D7B3C14C20041275289669&amp;partner=bdc&amp;mkt=bdc.dir.footer.ge&amp;uuid=&amp;breadcrumb=">PPC Advertising</a></b> | <a href="/info/advertisewithus.asp?mkt=bdc.dir.footer.ge">Advertise With Us</a> | <a href="/info/contactus.asp">Contact Business.com</a>
+			  <b><a href="/info/advertisewithus.asp?mkt=bdc.dir.footer.ge">Advertise With Us</a></b> |
+			  <a href="https://secure.business.com/registration/currentlistings.jsp">Account Login</a> | 
+			  <a href="/info/aboutus.asp">About Us</a> | 
+			  <a href="/jobs/index.asp">Jobs</a> | 
+			  <a href="/directory/sponsored.asp">Featured Listings</a>
 		</td>
 	</tr>
 	<tr>
-	    <td height="33" class="snavhs" align="center">
-
-		 <a href="/directory/sponsored.asp">Featured Advertisers</a> | 	
-		<a href="/jobs/index.asp">Jobs</a> | <a href="/info/privacypolicy.asp">Privacy</a> | <a href="/info/termsofuse.asp">Terms Of Use</a> | <a href="/info/copyright.asp">© 2001 Business.com, Inc.</a> &nbsp; All Rights Reserved</td>
+	    <td height="33" class="snavhs" align="center"><small><a href="/info/privacypolicy.asp">Privacy</a> | <a href="/info/termsofuse.asp">Terms Of Use</a> | <a href="/info/copyright.asp">© 2001-2005 Business.com, Inc.</a> &nbsp; All Rights Reserved</small></td>
 	</tr>
 </tbody></table>
 
@@ -280,12 +458,12 @@ Santa Monica, CA 90404<br>
 
 
 
-<noscript><img src="http://wvw.business.com/spacer.gif?event=6~~28~business~100~%2Finfo%2Fprivacypolicy%2Easp~101~~102~~103~~104~61F2F366-349E-48B4-8F9B-F0A5D7B3C14C20041275289669~107~~53~%2Finfo%2Fprivacypolicy%2Easp" border=0 height=1 width=1></noscript>
+<noscript><img src="http://wvw.business.com/spacer.gif?event=6~~28~business~100~%2Finfo%2Fprivacypolicy%2Easp~101~~102~~103~~104~CEBF8C45-AD97-4008-9693-67F1C15990532005435308311~107~~53~%2Finfo%2Fprivacypolicy%2Easp" border=0 height=1 width=1></noscript>
 <script language="javascript"><!--
 tagProt = "http"
 if (document.location.protocol.indexOf('https') > -1)
 {  tagProt = "https"; }
-var ES = "28~business~100~%2Finfo%2Fprivacypolicy%2Easp~101~~102~~103~~104~61F2F366-349E-48B4-8F9B-F0A5D7B3C14C20041275289669~107~~53~%2Finfo%2Fprivacypolicy%2Easp";
+var ES = "28~business~100~%2Finfo%2Fprivacypolicy%2Easp~101~~102~~103~~104~CEBF8C45-AD97-4008-9693-67F1C15990532005435308311~107~~53~%2Finfo%2Fprivacypolicy%2Easp";
 var RN = 0;
 var e5 = document.URL.toLowerCase();
 
@@ -318,5 +496,5 @@ else
 ES = "5~" + escape (e5) + "~" + ES; 
 if (ES != "") {  ES = "&event=" + ES; }
 document.write ("<img src='" + tagProt + "://wvw.business.com/spacer.gif?random=" + RN + ES + "' border=0 height=1 width=1>"); //--> 
-</script><img src="https://wvw.business.com/spacer.gif?random=3964&amp;event=5~https%3A//www.web.archive.org/web/20041207224143id_/http%253a//www.business.com/info/privacypolicy.asp~28~business~100~%2Finfo%2Fprivacypolicy%2Easp~101~~102~~103~~104~61F2F366-349E-48B4-8F9B-F0A5D7B3C14C20041275289669~107~~53~%2Finfo%2Fprivacypolicy%2Easp" border="0" height="1" width="1">
-</p></body></html>
+</script><img src="https://wvw.business.com/spacer.gif?random=6405&amp;event=5~https%3A//www.web.archive.org/web/20050403214435id_/http%253a//www.business.com/info/privacypolicy.asp~28~business~100~%2Finfo%2Fprivacypolicy%2Easp~101~~102~~103~~104~CEBF8C45-AD97-4008-9693-67F1C15990532005435308311~107~~53~%2Finfo%2Fprivacypolicy%2Easp" border="0" height="1" width="1">
+</p></form></body></html>
