@@ -1,28 +1,33 @@
-> *The following text is extracted and transformed from the computerjobs.com privacy policy that was archived on 2000-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000621011623id_/http%3A//www.computerjobs.com/main_html/content/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computerjobs.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207061300id_/http%3A//www.computerjobs.com/main_html/content/privacy.cfm) for the most accurate reproduction.*
 
 # ComputerJobs.com Privacy Statement
 
 |   
 |  |  |   
 ---|---|---  
-**Tuesday**  
-June 20, 2000  
+**Thursday**  
+December 7, 2000  
 **Question of the Day**  
-In the pursuit of career excellence, what is more important to you?  
-Money  
-Happiness  
+What do you think is the primary cause of burnout?  
+Low pay  
+Long hours / No time off  
+Dead-end job  
+Too much pressure to meet schedules  
+Management  
+Poor working environment  
   
   
   
 [](http://www.computerjobs.com/salary_survey.cfm)  
-**[**Enter your Salary Information**](http://www.computerjobs.com/salary_survey.cfm) and you could win a free monitor! Are you making what you're worth? Take a look at our [Survey Results](http://www.computerjobs.com/salary99/) and find out!**  
+**[**Enter your Salary Information**](http://www.computerjobs.com/salary_survey.cfm) and you could win a free monitor! Are you making what you're worth? Take a look at our [1999 Survey Results](http://www.computerjobs.com/salary99/) and find out!**  
 [](http://www.zdnet.com/yil/content/mag/0005/goldstar.html#hightech)  
 [](http://www.microsoft.com/windows2000/dotcoms/)  
    
    
+  
 #1 in Customer Satisfaction  
-[](https://web.archive.org/about_us/press_room.cfm?about_menu=3&site_sec=6&home_sec=2)  
-Best In Class Best Overall  
+[](https://web.archive.org/about_us/main.cfm?display=press)  
+Best In ClassBest Overall  
 [](http://www.careerxroads.com/)  
 |  |  |    
 | 
