@@ -1,0 +1,340 @@
+<!--The following is the downloaded HTML source of the uschamber.com privacy policy that was archived on 2001-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010604001128id_/http%3A//www.uschamber.com/_privacy%2Bpolicy.htm) for the most accurate reproduction.-->
+
+<html><head>
+
+<link rel="P3Pv1" href="http://www.uschamber.com/w3c/p3p.xml">
+   <title>U.S. Chamber of Commerce: _Channels</title>
+<meta name="Description" content="U.S. Chamber of Commerce - Privacy Policy">
+<meta name="Keywords" content="">
+
+<style>
+a. {color:#336699;text-decoration:none;}
+a.:active {color:#CC3300;}
+a.:visited {color:#000080;}
+a.:hover {color:#CC3300;}
+a.:visited:hover {color:#CC3300;}
+</style>
+<base target="_top">
+	<script language="JAVASCRIPT" type="TEXT/JAVASCRIPT">
+		<!-- Hide script from older browsers
+
+		function validEmail(email) {
+			invalidChars = " /:,;"
+	
+			if (email == "") {						// cannot be empty
+				return false
+			}
+			for (i=0; i<invalidChars.length; i++) {	// does it contain any invalid characters?
+				badChar = invalidChars.charAt(i)
+				if (email.indexOf(badChar,0) > -1) {
+					return false
+				}
+			}
+			atPos = email.indexOf("@",1)			// there must be one "@" symbol
+			if (atPos == -1) {
+				return false
+			}
+			if (email.indexOf("@",atPos+1) != -1) {	// and only one "@" symbol
+				return false
+			}
+			periodPos = email.indexOf(".",atPos)
+			if (periodPos == -1) {					// and at least one "." after the "@"
+				return false
+			}
+			if (periodPos+3 > email.length)	{		// must be at least 2 characters after the "."
+				return false
+			}
+			return true
+		}
+
+		function isNum(passedVal) {					// Is this a number?
+			if (passedVal == "") {
+				return false
+			}
+			for (i=0; i<passedVal.length; i++) {
+				if (passedVal.charAt(i) < "0") {
+					return false
+				}
+				if (passedVal.charAt(i) > "9") {
+					return false
+				}
+			}
+			return true
+		}
+
+		function validZip(inZip) {					// Is this a valid Zip code?
+			if (inZip == "") {
+				return true
+			}
+			if (isNum(inZip)) {						// Check if Zip is numeric
+				return true
+			}
+			return false
+		}
+
+		function submitIt(usccForm) {
+	
+			// make sure they enter in a cardName
+			cardOption = -1
+			for (i=0; i<usccForm.cardName.length; i++) {
+				if (usccForm.cardName[i].checked) {
+					cardOption = i
+				}
+			}
+			if (cardOption == -1) {
+				alert("You must choose a Card Name")
+				return false
+			}
+	
+			// check to see if the email's valid
+			if (!validEmail(usccForm.emailAddr.value)) {
+				alert("Invalid email address")
+				usccForm.emailAddr.focus()
+				usccForm.emailAddr.select()
+				return false
+			}
+
+			if (usccForm.zipCode.value == "") {
+				alert("You must enter a Zip code")
+				usccForm.zipCode.focus()
+				return false
+			}
+
+			if (!validZip(usccForm.zipCode.value)) {
+				alert("That is an invalid Zip code")
+				usccForm.zipCode.focus()
+				usccForm.zipCode.select()
+				return false
+			}
+
+			if (usccForm.firstName.value == "") {
+				alert("You must fill in First Name")
+				usccForm.firstName.focus()
+				return false
+			}
+
+			if (usccForm.lastName.value == "") {
+				alert("You must fill in Last Name")
+				usccForm.lastName.focus()
+				return false
+			}
+	
+			if (usccForm.busiNess.value == "") {
+				alert("You must fill in Business")
+				usccForm.busiNess.focus()
+				return false
+			}
+
+			if (usccForm.addRess.value == "") {
+				alert("You must fill in Address")
+				usccForm.addRess.focus()
+				return false
+			}
+
+			if (usccForm.ciTy.value == "") {
+				alert("You must fill in City")
+				usccForm.ciTy.focus()
+				return false
+			}
+
+			if (usccForm.staTe.value == "") {
+				alert("You must fill in State")
+				usccForm.staTe.focus()
+				return false
+			}
+
+			if (usccForm.memNum.value == "") {
+				alert("You must fill in Membership Number")
+				usccForm.memnum.focus()
+				return false
+			}
+
+			if (usccForm.cardName.value == "") {
+				alert("You must fill in Card Name")
+				usccForm.cardName.focus()
+				return false
+			}
+
+			if (usccForm.cardNum.value == "") {
+				alert("You must fill in Card Number")
+				usccForm.cardNum.focus()
+				return false
+			}
+
+			// If we made it to here, everything's valid, so return true
+			return true
+		}
+
+		// End hiding script -->
+	</script>
+<script language="JavaScript">
+<!-- Hide this
+if (document.images) {
+   off = new MakeArray(6);
+   over = new MakeArray(6);
+
+   off[1].src = "http://www.uschamber.com/nr/includes/NavImages/generalsite/ga_hp_bn_about_off.gif";
+   off[2].src = "http://www.uschamber.com/nr/includes/NavImages/generalsite/ga_hp_bn_mems_off.gif";
+   off[3].src = "http://www.uschamber.com/nr/includes/NavImages/generalsite/ga_hp_bn_political_off.gif";
+   off[4].src = "http://www.uschamber.com/nr/includes/NavImages/generalsite/ga_hp_bn_news_off.gif";
+   off[5].src = "http://www.uschamber.com/nr/includes/NavImages/generalsite/ga_hp_bn_business_off.gif";
+   off[6].src = "http://www.uschamber.com/nr/includes/NavImages/generalsite/ga_hp_bn_programs_off.gif";
+
+   over[1].src = "http://www.uschamber.com/nr/includes/NavImages/generalsite/ga_hp_bn_about_on.gif";
+   over[2].src = "http://www.uschamber.com/nr/includes/NavImages/generalsite/ga_hp_bn_mems_on.gif";
+   over[3].src = "http://www.uschamber.com/nr/includes/NavImages/generalsite/ga_hp_bn_political_on.gif";
+   over[4].src = "http://www.uschamber.com/nr/includes/NavImages/generalsite/ga_hp_bn_news_on.gif";
+   over[5].src = "http://www.uschamber.com/nr/includes/NavImages/generalsite/ga_hp_bn_business_on.gif";
+   over[6].src = "http://www.uschamber.com/nr/includes/NavImages/generalsite/ga_hp_bn_programs_on.gif";
+
+}
+function MakeArray(n) {
+   this.length = n
+   for (var i = 1; i<=n; i++) {
+      this[i] = new Image()
+   }
+   return this;
+}
+function UDIover(name,number){
+if (document.images){
+      name.src = over[number].src;
+   }
+}
+function UDIoff(name,number){
+if (document.images){
+      name.src = off[number].src;
+   }
+}
+// Done -->
+</script>
+
+
+<!-- Inserted by Resolution: BEGIN EmbedTmplHeadHook -->
+
+		<link rel="stylesheet" href="/NR/System/WBC/Customizable/Common.css">
+		<script language="JavaScript" src="/NR/System/WBC/Internals/Shared/CommonClient.js" type="text/javascript"></script>
+		<script language="JavaScript" src="/NR/System/WBC/Customizable/OptionsClient.js" type="text/javascript"></script>
+
+<!-- Inserted by Resolution: END EmbedTmplHeadHook -->
+
+</head>
+
+<body marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" bgcolor="#FFFFFF">
+<!-- Inserted by Resolution: BEGIN EmbedBodyBeginHook -->
+
+<!-- Inserted by Resolution: BEGIN EmbedBodyBeginHook -->
+
+
+<table border="0" width="620" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="100%">
+      <table border="0" width="620" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td width="356" valign="top" align="left"><img src="/NR/rdonlyres/000008fampggufnjdjblgzek/_TemplateResource0.gif" width="357" height="94" hspace="0" vspace="0" border="0" alt="[Title Image: USCHamber.com]"></td>
+          <td width="180" valign="top" align="left"><a href="http://www.uschamber.com/default.htm"><img src="http://www.uschamber.com/nr/includes/NavImages/generalsite/ga_hp_bn_hderhome.gif" width="34" height="18" hspace="0" vspace="0" border="0" alt="[Home]"></a><a href="http://www.uschamber.com/Join/default.htm"><img src="http://www.uschamber.com/nr/includes/NavImages/generalsite/ga_hp_bn_hderjoin.gif" width="31" height="18" hspace="0" vspace="0" border="0" alt="[Join]"></a><a href="http://www.uschamber.com/main+search.htm"><img src="http://www.uschamber.com/nr/includes/NavImages/generalsite/ga_hp_bn_hdersrch.gif" width="60" height="18" hspace="0" vspace="0" border="0" alt="[Main Search]"></a><a href="http://www.uschamber.com/Contact+Us.htm"><img src="http://www.uschamber.com/nr/includes/NavImages/generalsite/ga_hp_bn_hdercontact.gif" width="54" height="18" hspace="0" vspace="0" border="0" alt="[Contact Us]"></a><br>
+            <img src="/NR/rdonlyres/000008ffeflkklrbntvfesds/_TemplateResource5.gif" width="179" height="76" hspace="0" vspace="0" border="0" alt="[Title U.S. Chamber of Commerce]"></td>
+          <td width="100%" valign="top" align="right"><img src="/NR/rdonlyres/00000900nkhbchvztxpmidce/_TemplateResource6.gif" width="84" height="94" hspace="0" vspace="0" border="0" alt="[USCC Logo]"></td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top" align="left">
+	<a href="http://www.uschamber.com/_About+Us/default.htm" onmouseover="UDIover(about,1); return true;" onmouseout="UDIoff(about,1)"><img src="http://www.uschamber.com/nr/includes/NavImages/generalsite/ga_hp_bn_about_off.gif" width="66" height="21" hspace="0" vspace="0" border="0" alt="[About Us]" name="about"></a><a href="http://www.uschamber.com/_Member+Services/default.htm" onmouseover="UDIover(mems,2); return true;" onmouseout="UDIoff(mems,2)"><img src="http://www.uschamber.com/nr/includes/NavImages/generalsite/ga_hp_bn_mems_off.gif" width="97" height="21" hspace="0" vspace="0" border="0" alt="[Member Services]" name="mems"></a><a href="http://www.uschamber.com/_Political+Advocacy/default.htm" onmouseover="UDIover(political,3); return true;" onmouseout="UDIoff(political,3)"><img src="http://www.uschamber.com/nr/includes/NavImages/generalsite/ga_hp_bn_political_off.gif" width="107" height="21" hspace="0" vspace="0" border="0" alt="[Political Advocacy]" name="political"></a><a href="http://www.uschamber.com/_News+and+Events/default.htm" onmouseover="UDIover(news,4); return true;" onmouseout="UDIoff(news,4)"><img src="http://www.uschamber.com/nr/includes/NavImages/generalsite/ga_hp_bn_news_off.gif" width="87" height="21" hspace="0" vspace="0" border="0" alt="[News &amp; Events]" name="news"></a><a href="http://www.uschamber.com/_Business+Resources/default.htm" onmouseover="UDIover(business,5); return true;" onmouseout="UDIoff(business,5)"><img src="http://www.uschamber.com/nr/includes/NavImages/generalsite/ga_hp_bn_business_off.gif" width="112" height="21" hspace="0" vspace="0" border="0" alt="[Business Resources]" name="business"></a><a href="http://www.uschamber.com/_Programs+and+Affiliates" onmouseover="UDIover(programs,6); return true;" onmouseout="UDIoff(programs,6)"><img src="http://www.uschamber.com/nr/includes/NavImages/generalsite/ga_hp_bn_programs_off.gif" width="151" height="21" hspace="0" vspace="0" border="0" alt="[Programs &amp; Affiliates]" name="programs"></a>
+	</td>
+  </tr>
+</tbody></table>
+
+<table border="0" width="620" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="165" valign="top" align="left">
+      <table border="0" width="165" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td width="165" align="center">
+            <table border="0" width="165" cellspacing="0">
+              <tbody><tr>
+                <td width="165"><div align="center">&nbsp;</div>
+<div align="center">&nbsp;</div>
+<div align="center">&nbsp;</div>
+<div align="center">&nbsp;</div>
+<div align="center">&nbsp;</div>
+<table cellspacing="0" cellpadding="3" width="145" align="center" bgcolor="#336699" border="0">
+<tbody>
+<tr>
+<td width="100%"><b><font face="Verdana, Arial, Geneva, Helvetica" color="#ffffcc" size="2"><a href="http://www.w3.org/P3P/"><font color="#ffffcc">P3P Compliant</font></a></font></b></td></tr></tbody></table>
+<table bordercolor="#c0c0c0" cellspacing="0" bordercolordark="#ffffff" cellpadding="3" width="145" align="center" bgcolor="#ffcc66" border="1">
+<tbody>
+<tr>
+<td bordercolor="#c0c0c0" align="middle" bordercolordark="#ffffff" height="13">
+<p align="left"><font face="Verdana" size="2"><img height="59" alt="[P3P Compliant]" src="/NR/rdonlyres/000019c5rqwaeyzjwsmbkovg/privacy.gif" width="65" align="left" border="0"></font><font face="Verdana" size="1">The U.S. Chamber's Web site is P3P compliant. <a href="http://www.w3.org/P3P/"><strong><font color="#ffffcc">Read more</font></strong></a> about Platform for Privacy Preferences Project (P3P).</font></p></td></tr></tbody></table>
+<div align="center">&nbsp;</div>
+<div align="center"><a href="http://www.getnetwise.org/"><img style="WIDTH: 150px; HEIGHT: 28px" src="/NR/rdonlyres/2575FDF7-5601-11D4-9985-00E01898D957/getnetwiselogo.gif" border="0"></a></div>
+<div align="center">&nbsp;</div>
+<div align="center">&nbsp;</div>
+<div align="center">&nbsp;</div></td>
+              </tr>
+            </tbody></table>
+		<br>
+		<table border="0" width="150" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+			<td>
+				<p align="right">
+				
+				</p>
+			</td>
+			</tr>
+		</tbody></table>
+          </td>
+        </tr>
+      </tbody></table>
+    </td>
+
+    <td width="45" valign="top" align="left"><font size="2">&nbsp;&nbsp;<br></font></td>
+
+    <td width="410" valign="top" align="left"><font face="verdana, arial, helvetica" size="2"><img src="windows/TEMP/res_gasubimgsspacer5.gif" width="100" height="5"><br>
+   	<b><font face="Verdana" size="2">
+<p><font color="#336699" size="3"><img src="/NR/rdonlyres/2575FE4C-5601-11D4-9985-00E01898D957/subheader_uscc.gif" border="0"></font></p>
+<p><font color="#336699" size="3">Privacy Policy</font></p></font></b><font face="Verdana" size="2"><b>
+<p><font color="#000000">General Statement of Privacy</font></p></b></font><font face="Arial,helvetica"></font><font face="Verdana" size="2">
+<p><font color="#000000">The U.S. Chamber of Commerce respects the privacy of its members and of those who visit this site. Subject to the provisions of applicable laws, any information you submit to the U.S. Chamber of Commerce will not be used in any manner to which you have not consented. While the U.S. Chamber does analyze its Web site logs to monitor the flow of traffic and make improvements to the site’s content, its Web site logs are not personally identifiable, and no attempt to link them to individual visitors to this site is made. For additional information on privacy, visit the <a href="http://www.privacyalliance.org"><strong>Online Privacy Alliance</strong></a>.</font></p><b>
+<p><font color="#000000">Personally identifiable information</font></p></b>
+<p><font color="#000000">We do not collect personally identifiable information about you on the U.S. Chamber Web site without your knowledge or action. Your information is collected through the membership registration form, email newsletter registration and/or event registration forms. This information includes your name (first and last), company name, company address, phone number, fax number, and e-mail address. You should be aware that if you disclose any information on a bulletin board or in a chat room or other open forum that is hosted by the U.S. Chamber, others may collect that information to send you unsolicited information from outside the U.S. Chamber, or for other purposes.</font></p><b>
+<p><font color="#000000">Use of personally identifiable information</font></p></b>
+<p><font color="#000000">Other than our partner, Chamberbiz.com, we do not share our information with outside organizations or businesses.</font></p><b>
+<p><font color="#000000">Non-personally identifiable information</font></p></b>
+<p><font color="#000000">Non-Personally Identifiable Information includes, but is not limited to, information we automatically collect on your use and/or actions on our Web site (e.g., user traffic patterns, page views on the Web site, click-through rates, search terms that users enter into our search utility). In addition, when a visitor arrives at our site, we collect the IP address, operating system and browser software used. An IP address (which is not the same as an e-mail address) can tell us the user's internet service provider and, based on that, can suggest the geographic location of the connection. The U.S. Chamber recognizes that certain User Information of a key demographic nature (e.g., race, age, gender, national origin, income), while Non-Personally Identifiable Information, is still of a sensitive nature to users. As a general matter, the U.S. Chamber does not collect such information about you through the uschamber.com Web site. However, in recognition of the sensitive nature of such information, in the event the U.S. Chamber comes into possession of such information, whether through your voluntary submission of such information in response to a special feature on the Web site or by receiving such information from any of our business partners, such information shall, when coupled with any of your Personally Identifiable Information, itself be deemed to be Personally Identifiable Information and treated by the U.S. Chamber as such. </font></p><b>
+<p><font color="#000000">Use of Non-personally identifiable information</font></p></b>
+<p><font color="#000000">As a general matter, Non-Personally Identifiable Information helps us determine how the uschamber.com Web site is being used, helps us identify popular areas of the Web site, and helps determine the effectiveness of our promotional activities regarding the Web site. </font></p><b>
+<p><font color="#000000">Third Party use of personal information</font></p></b>
+<p><font color="#000000">The U.S. Chamber Web site contains links to other Internet Web sites, including co-branded or other affiliated sites. Unless otherwise explicitly stated, we are not responsible for the privacy practices or the content of such web sites, including such sites' use of any information.</font></p><b>
+<p><font color="#000000">Security</font></p></b>
+<p><font color="#000000">You understand and agree that "perfect" security does not exist anywhere, including on the Internet. When you send credit card information, we encrypt this information between your computer and our server. Other information you send to this site, including email messages, will not be encrypted unless we advise you otherwise.</font></p><b>
+<p><font color="#000000">Merchant Services</font></p></b>
+<p><font color="#000000">You may be able to access certain information related to third parties at the Site, or via links, banner ads or clickthroughs from the Site, regarding the goods or services of third parties. You understand and agree that your access to or use of those services is a matter entirely between you and the associated third parties, and the U.S. Chamber shall have no liability whatsoever for any such access or use.</font></p><b>
+<p><font color="#000000">Notice to Parents or guardians</font></p></b>
+<p><font color="#000000">We want to help you protect your child’s privacy. We encourage you to talk to your children about safe and responsible use of their personal information while using the Internet. That’s why we are a sponsor of <a href="http://www.getnetwise.org/"><strong>GetNetWise</strong></a>. </font></p><b><font color="#000000">
+</font></b><font color="#000000"><p><b>Correcting, Updating or Deleting Information</b> <br><br>The uschamber.com Web site gives users the option, through automated procedures available on the Web site, to correct, update or delete any information previously provided to us by the user; however, we will maintain copies of user information to the extent retained as part of our Web site's standard backup/archive process. In addition, these procedures will not remove such of your information that has been provided by you to, or collected from you by, the Web sites of our business partners. We are not responsible for ensuring the removal or deletion from the Web sites of our business partners of your information provided by us to our business partners as permitted by you or otherwise in accordance with this Privacy Statement. </p>
+<p><br>&nbsp;</p></font></font></font></td>
+  </tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" border="0" width="620">
+	<tbody><tr>
+		<td colspan="2"><img src="http://www.uschamber.com/nr/includes/NavImages/generalsite/ga_gs_imgs_spacer.gif" width="30" height="4" border="0" alt=""></td>
+	</tr>
+	<tr>
+		<td bgcolor="#336699" colspan="2"><img src="http://www.uschamber.com/nr/includes/NavImages/generalsite/ga_gs_imgs_spacer.gif" width="30" height="2" border="0" alt=""></td>
+	</tr>
+	<tr>
+		<td bgcolor="#ffffff" align="right" width="85%%"><font face="Verdana, Arial, Helvetica" size="1"><a href="http://www.uschamber.com/_copyright.htm">Copyright © 2001 U.S. Chamber of Commerce</a></font><img src="http://www.uschamber.com/nr/includes/NavImages/generalsite/ga_gs_imgs_spacer.gif" width="30" height="1" border="0" alt=""></td>
+		<td bgcolor="#ffffff" align="right" width="15%"><font face="Verdana, Arial, Helvetica" size="1"><a href="http://www.uschamber.com/_privacy+policy.htm">Privacy Policy</a></font></td>
+	</tr>
+	<tr>
+		<td bgcolor="#336699" colspan="2"><img src="http://www.uschamber.com/nr/includes/NavImages/generalsite/ga_gs_imgs_spacer.gif" width="30" height="2" border="0" alt=""></td>
+	</tr>
+</tbody></table>
+<!-- Inserted by Resolution: BEGIN EmbedBodyEndHook -->
+
+<!-- Inserted by Resolution: BEGIN EmbedBodyEndHook -->
+
+</body></html>
