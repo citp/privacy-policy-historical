@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gazelle.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607082335id_/http%3A//www.gazelle.com/global/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gazelle.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011014727id_/http%3A//www.gazelle.com/global/privacy.html) for the most accurate reproduction.*
 
 # . . : : G A Z E L L E : : . .
 
@@ -14,7 +14,7 @@ Sign up for our complimentary newsletter featuring monthly strategies for senior
 To arrange a consultation with a Gazelle industry specialist, please call us at **678.405.1300** or email us at: [contact@gazelle.com](mailto:contact@gazelle.com)   
 
 
-|  [home](https://web.archive.org/web/20040607082335id_/http%3A//www.gazelle.com/index.html) > privacy statement 
+|  [home](https://web.archive.org/web/20041011014727id_/http%3A//www.gazelle.com/index.html) > privacy statement 
 
   
 Privacy Statement  
