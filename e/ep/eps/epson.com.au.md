@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epson.com.au privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203030413id_/http%3A//www.epson.com.au/misc/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epson.com.au privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402130031id_/http%3A//www.epson.com.au/misc/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
