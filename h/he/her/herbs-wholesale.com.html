@@ -1,0 +1,688 @@
+<!--The following is the downloaded HTML source of the herbs-wholesale.com privacy policy that was archived on 2004-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041208193722id_/http%3A//herbs-wholesale.com/privacy.asp) for the most accurate reproduction.-->
+
+<html><head>
+
+<title>Herbs-WholeSale - Herbal Products Privacy Policy</title>
+<meta name="Description" content="Privacy Policy of Herbs-Wholesale. Full Information about herbs-wholesale or company.">
+<meta name="keywords" content="herbs-wholesale,herbswholesale,privacy policy,herbs-wholesale.com,herbal products,alternative medicine">
+<meta name="robots" content="index, follow">
+<title>Herbs-WholeSale</title>
+<link rel="stylesheet" type="text/css" href="nscss.css">
+</head>
+<body bgcolor="#FFFFFF" text="#000000" topmargin="0" leftmargin="0">
+<table width="766" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tbody><tr>
+    <td>
+      <table width="766" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tbody><tr>
+    <td align="right"> 
+      <table width="766" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td width="592" align="right"><img src="/images/addtofav.jpg" border="0" onclick="window.external.AddFavorite(location.href, document.title); return false"></td>
+          <td width="88" align="center"><a href="/shop/cart.asp"><img src="/images/viewcart.jpg" border="0"></a></td>
+          <td width="86" align="left"><a href="https://www.herbs-wholesale.com/bin/payment.asp"><img src="/images/checkout.jpg" border="0"></a></td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+<table width="766" border="0" align="center" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td width="153" valign="bottom" height="82"><a href="/"><img src="/images/herbs-wholesale.jpg" border="0"></a></td>
+    <td valign="top" align="right" width="613"> 
+      <h6><img src="/images/herbs-header.jpg"></h6>
+      </td>
+  </tr>
+  <tr align="right"> 
+    <td colspan="2"> 
+      <table width="766" border="0" cellspacing="0" cellpadding="0" align="center">
+        <tbody><tr> 
+          <td width="476" background="/images/topbar1.jpg"> 
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr align="center"> 
+                <td width="14%"> 
+                  <h6><b><a href="/" class="st1">Home</a></b></h6>
+                </td>
+                <td width="15%"> 
+                  <h6><b><a href="/shop/default.asp" class="st1">Shop</a></b></h6>
+                </td>
+                <td width="14%"> 
+                  <h6><b><a href="/shop/products.asp" class="st1">Products</a></b></h6>
+                </td>
+                <td width="14%"> 
+                  <h6><b><a href="/shop/brands.asp" class="st1">Brands</a></b></h6>
+                </td>
+                <td width="19%"> 
+                  <h6><b><a href="/contact.asp" class="st1">Contact Us</a></b></h6>
+                </td>
+                <td width="24%"> 
+                  <h6><b><a href="/article/article.asp" class="st1">Health Articles</a></b></h6>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+          <form method="Get" name="searchfrm" action="/search/sq.asp" onsubmit="if(this.sq.value=='') { alert('Enter word for search.'); return false; }"></form>
+            <td height="26" width="290" background="/images/topbar2.jpg"> 
+              <table width="257" border="0" cellspacing="0" cellpadding="0" align="right">
+                <tbody><tr> 
+                  <td width="55"><font face="Verdana" size="2" color="#0061AB">&nbsp;<b>Search</b></font></td>
+                  <td width="136" align="center"> 
+                    <input type="text" name="sq" size="18" value="">
+                  </td>
+                  <td width="66"> 
+                    <input type="image" border="0" name="imageField" src="/images/go.jpg">
+                  </td>
+                </tr>
+              </tbody></table>
+            </td>
+          
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+
+    </td>
+  </tr>
+</tbody></table>
+<table width="766" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tbody><tr> 
+    <td width="140" valign="top"><img src="/images/spacer.gif" width="1" height="7"><br>
+      <script language="javascript">
+function submitbrandsfrm()
+{
+if(document.brandfrm.vid.value!='')
+	{
+	bname = document.brandfrm.vid.options[document.brandfrm.vid.selectedIndex].text;
+	bname = bname.split(' ').join('_')
+	bname = bname.replace("/", "_")
+	//alert(bname);
+	vid = document.brandfrm.vid.value;
+	document.brandfrm.action = '/vn/'+bname+'/'+vid+'/'+bname+'.htm';
+	document.brandfrm.submit();
+	return true;
+	}
+}
+
+function Leftecheck(str) {
+	var at="@"
+	var dot="."
+	var lat=str.indexOf(at)
+	var lstr=str.length
+	var ldot=str.indexOf(dot)
+	if (str.indexOf(at)==-1) return false
+	if (str.indexOf(at)==-1 || str.indexOf(at)==0 || str.indexOf(at)==lstr) return false
+	if (str.indexOf(dot)==-1 || str.indexOf(dot)==0 || str.indexOf(dot)==lstr) return false
+	if (str.indexOf(at,(lat+1))!=-1) return false
+	if (str.substring(lat-1,lat)==dot || str.substring(lat+1,lat+2)==dot) return false
+	if (str.indexOf(dot,(lat+2))==-1) return false
+	if (str.indexOf(" ")!=-1) return false
+	return true
+}
+
+function Leftvalid() {
+	
+	var smail = document.subsfrm.email.value;
+	
+	if ( (smail == null)||(smail == "") ){
+ 		alert("Please enter a valid email address.");
+		document.subsfrm.email.focus();
+		return false;	
+	}	
+
+	if (Leftecheck(smail)==false){
+		alert("Please type a valid email address.");
+		document.subsfrm.email.focus();
+		document.subsfrm.email.select();
+		return false;
+	}
+}
+</script>
+<table width="158" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td valign="top"> 
+      <table width="158" border="0" align="center" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td width="152"> 
+            <table width="152" border="0" cellspacing="0" cellpadding="0" align="center">
+              <tbody><tr bgcolor="#0061AB"> 
+                <td colspan="2" height="20" class="verd3"><b><font color="#FFFFFF">&nbsp;Shop by Category</font></b></td>
+              </tr>
+              <tr> 
+                <td colspan="2"><img src="images/spacer.gif" width="1" height="7"></td>
+              </tr>
+              <tr> 
+                <td width="18" align="center"><img src="/images/bul.gif"></td>
+                <td width="136" height="17"><a href="/category/amino_acids/1/amino_acids.htm" class="st1">Amino 
+                  Acids</a></td>
+              </tr>
+              <tr> 
+                <td width="18" align="center"><img src="/images/bul.gif"></td>
+                <td width="136" height="17"><a href="/category/beauty_&amp;_cosmetics/3/beauty_&amp;_cosmetics.htm" class="st1">Beauty 
+                  &amp; Cosmetics</a></td>
+              </tr>
+              <tr>
+                <td width="18" align="center"><img src="/images/bul.gif"></td>
+                <td width="136" height="17"><a href="/category/bath_&amp;_body/2/bath_&amp;_body.htm" class="st1">Bath 
+                  &amp; Body</a></td>
+              </tr>
+              <tr>
+                <td width="18" align="center"><img src="/images/bul.gif"></td>
+                <td width="136" height="17"><a href="/cold-flu.asp" class="st1"><b>Cold &amp; Flu</b></a>&nbsp;</td>
+              </tr>
+              <tr> 
+                <td width="18" align="center"><img src="/images/bul.gif"></td>
+                <td width="136" height="17"><a href="/category/herbal_teas/6/herbal_teas.htm" class="st1">Herbal 
+                  Teas</a></td>
+              </tr>
+              <tr> 
+                <td width="18" align="center"><img src="/images/bul.gif"></td>
+                <td width="136" height="17"><a href="/category/herbal_supplements/5/herbal_supplements.htm" class="st1">Herbal 
+                  Supplements</a></td>
+              </tr>
+              <tr> 
+                <td width="18" align="center"><img src="/images/bul.gif"></td>
+                <td width="136" height="17"><a href="/category/men_health/8/men_health.htm" class="st1">Men's 
+                  Health</a></td>
+              </tr>
+              <tr> 
+                <td width="18" align="center"><img src="/images/bul.gif"></td>
+                <td width="136" height="17"><a href="/category/nutritional_supplements/10/nutritional_supplements.htm" class="st1">Nutritional 
+                  Supplements</a></td>
+              </tr>
+              <tr> 
+                <td width="18" align="center"><img src="/images/bul.gif"></td>
+                <td width="136" height="17"><a href="/category/oral_care/11/oral_care.htm" class="st1">Oral 
+                  Care</a></td>
+              </tr>
+              <tr> 
+                <td width="18" align="center"><img src="/images/bul.gif"></td>
+                <td width="136" height="17"><a href="/category/sexual_vitality/13/sexual_vitality.htm" class="st1">Sexual 
+                  Vitality</a></td>
+              </tr>
+              <tr> 
+                <td width="18" align="center"><img src="/images/bul.gif"></td>
+                <td width="136" height="17"><a href="/category/vitamins/15/vitamins.htm" class="st1">Vitamins</a></td>
+              </tr>
+              <tr> 
+                <td width="18" align="center"><img src="/images/bul.gif"></td>
+                <td width="136" height="17"><a href="/category/women_health/16/women_health.htm" class="st1">Women's 
+                  Health</a></td>
+              </tr>
+              <tr> 
+                <td colspan="2" align="center"><img src="images/spacer.gif" width="1" height="10"></td>
+              </tr>
+              <tr> 
+                <td colspan="2" height="20" bgcolor="#0061AB" class="verd3"><b><font color="#FFFFFF">&nbsp;Shop 
+                  by Brand</font></b></td>
+              </tr>
+              <form name="brandfrm" id="brandfrm" method="post"></form>
+                <tr> 
+                  <td colspan="2" align="center" height="30"> 
+                    
+                    <select name="vid" onchange="if(this.value != '') submitbrandsfrm();" width="35">
+                      <option value="">Select Brand</option>
+                      <option value="9">A To B Calm</option>
+<option value="169">Abkit</option>
+<option value="450">Action Labs</option>
+<option value="188">ActiPet</option>
+<option value="906">Aerobic Life</option>
+<option value="170">Air Therapy</option>
+<option value="171">Alacer</option>
+<option value="172">Alba Botanica</option>
+<option value="174">All-One</option>
+<option value="714">Aloe Complete</option>
+<option value="175">Alta Health Product</option>
+<option value="10">Alvita Teas</option>
+<option value="830">American Bioscience</option>
+<option value="11">American Health</option>
+<option value="12">Amerifit</option>
+<option value="13">Anabol Naturals</option>
+<option value="176">Arizona Naturals</option>
+<option value="14">Ark Naturals</option>
+<option value="15">Arkopharma</option>
+<option value="16">At Last Naturals</option>
+<option value="261">Atkins</option>
+<option value="17">Aura Cacia</option>
+<option value="18">Auromere</option>
+<option value="20">Auroshikha Flower C</option>
+<option value="21">Avalon Organic Bota</option>
+<option value="827">Ayurceutics</option>
+<option value="22">Bach Flower Essence</option>
+<option value="376">Baywood</option>
+<option value="23">Beauty Without Crue</option>
+<option value="27">Bio-Strath</option>
+<option value="828">Bioforce USA</option>
+<option value="26">Biogenetics</option>
+<option value="28">Biotec</option>
+<option value="809">Biotech Corporation</option>
+<option value="29">Biotherapies</option>
+<option value="923">Bluebonnet</option>
+<option value="31">Bodyzone</option>
+<option value="32">Boericke &amp; Tafel</option>
+<option value="33">Boiron</option>
+<option value="35">Borlind Of Germany</option>
+<option value="310">Celestial Seasoning</option>
+<option value="36">Champion Nutrition</option>
+<option value="37">Chandrika Soap</option>
+<option value="39">Chinese Imports</option>
+<option value="829">Christopher’s Origi</option>
+<option value="509">Country Comfort</option>
+<option value="817">Crystal Body Deodor</option>
+<option value="42">Desert Essence</option>
+<option value="43">Dolisos</option>
+<option value="45">Earth Science</option>
+<option value="46">Earthrise</option>
+<option value="5">Eclectic Institute </option>
+<option value="47">Ecodent</option>
+<option value="48">Emerald Forest</option>
+<option value="810">En Garde/Oxy Moxy</option>
+<option value="7">Enzymatic Therapy</option>
+<option value="50">Essiac Internationa</option>
+<option value="53">Foodscience Of Verm</option>
+<option value="54">French Transit Ltd</option>
+<option value="55">Fuchs Brushes</option>
+<option value="56">Futurebiotics</option>
+<option value="57">Ginsana/Pharmaton</option>
+<option value="811">Good Earth Teas</option>
+<option value="58">Great American Nutr</option>
+<option value="60">Green Foods Corpora</option>
+<option value="863">Guayaki Yerba Mate</option>
+<option value="64">Hair Fitness</option>
+<option value="51">Harmonic Innerprize</option>
+<option value="65">Health Concerns</option>
+<option value="66">Health From The Sun</option>
+<option value="67">Health Plus</option>
+<option value="8">Herb Pharm</option>
+<option value="69">Herbavita Natural H</option>
+<option value="71">Herbs For Kids</option>
+<option value="72">Heritage Products</option>
+<option value="864">Historical Remedies</option>
+<option value="73">Hobe Labs</option>
+<option value="74">Holistic Horizons</option>
+<option value="76">Home Health</option>
+<option value="812">Honso USA/Japanese </option>
+<option value="77">Hylands</option>
+<option value="78">Imperial Elixir/Gin</option>
+<option value="911">INTERCEUTICALS INC.</option>
+<option value="82">Ion Labs</option>
+<option value="4">Jarrow Formulas Inc</option>
+<option value="83">Jason Natural Cosme</option>
+<option value="84">Jason Winters</option>
+<option value="181">Kal</option>
+<option value="429">Kiss My Face</option>
+<option value="85">Klamath Blue-Green </option>
+<option value="87">Lane Labs</option>
+<option value="88">Life Extensions</option>
+<option value="89">Light Mountain Henn</option>
+<option value="90">Long Life Teas</option>
+<option value="91">Longevity</option>
+<option value="92">Longevity Science</option>
+<option value="93">Lunar Farms Herbals</option>
+<option value="609">Malabar</option>
+<option value="6">Marlyn/Naturally</option>
+<option value="819">Megahydrin (Flantec</option>
+<option value="95">Mezotrace</option>
+<option value="820">Mill Creek Botanica</option>
+<option value="98">Mode De Vie</option>
+<option value="263">Moducare</option>
+<option value="813">Monoi Tiare</option>
+<option value="99">Montana Big Sky</option>
+<option value="100">Narula Research</option>
+<option value="102">Natra-Bio/Botanical</option>
+<option value="495">Natracare</option>
+<option value="103">Natrol</option>
+<option value="104">Naturade</option>
+<option value="745">Natural Balance</option>
+<option value="836">Natural Bridges/Fir</option>
+<option value="702">Natural Sources</option>
+<option value="189">Natural Sport</option>
+<option value="921">Naturalcare</option>
+<option value="185">NaturalMax</option>
+<option value="105">Nature's Alchemy</option>
+<option value="106">Nature's Answer</option>
+<option value="107">Nature's Herbs</option>
+<option value="108">Nature's Secret</option>
+<option value="109">Nature's Way</option>
+<option value="478">Natures Gate</option>
+<option value="918">Natures Life</option>
+<option value="110">Natureworks</option>
+<option value="821">Neemaura Naturals</option>
+<option value="111">Nelson Homeopathics</option>
+<option value="112">Neuro-Emotional Hom</option>
+<option value="907">New Chapter</option>
+<option value="822">New Life Process</option>
+<option value="113">Novogen</option>
+<option value="905">NOW Foods</option>
+<option value="114">Nutrex</option>
+<option value="115">Nutri-Cell</option>
+<option value="904">NutriBiotic</option>
+<option value="116">Nutricology/Allergy</option>
+<option value="117">Nutrilabs</option>
+<option value="252">Nutrition Now</option>
+<option value="824">Nx Nutraceuticals</option>
+<option value="81">O'Donnell Formulas</option>
+<option value="119">Optio Health Produc</option>
+<option value="912">ORJENE ORGANICS</option>
+<option value="120">Pacific Biologics</option>
+<option value="121">Paul Penders</option>
+<option value="122">Peelu</option>
+<option value="123">Pines Wheat Grass</option>
+<option value="549">Pinnacle</option>
+<option value="2">Planetary Formulas</option>
+<option value="190">Premier</option>
+<option value="124">Premier Labs</option>
+<option value="125">Prince Of Peace</option>
+<option value="127">Pro-Gest/Emerita</option>
+<option value="126">Probiologic/Caprici</option>
+<option value="128">Prolongevity</option>
+<option value="129">Pronatura</option>
+<option value="913">PURELINE ORALCARE</option>
+<option value="914">QUALITY OF LIFE</option>
+<option value="130">Quantum</option>
+<option value="131">Rachel Perry</option>
+<option value="132">Rainbow Light</option>
+<option value="133">Reviva</option>
+<option value="134">San Francisco Herb </option>
+<option value="801">Sanhelios</option>
+<option value="135">Scandinavian Natura</option>
+<option value="136">Schiff/Bio Foods</option>
+<option value="562">Seelect</option>
+<option value="138">Similasan</option>
+<option value="840">Solanova</option>
+<option value="180">Solaray</option>
+<option value="139">Sonoma Soap Company</option>
+<option value="1">Source Naturals</option>
+<option value="140">Sun Chlorella Produ</option>
+<option value="182">Sunny Green</option>
+<option value="141">Sunshine SPA</option>
+<option value="142">Sunsource Products</option>
+<option value="839">TeaTech</option>
+<option value="143">Thayers</option>
+<option value="144">Thompson Nutritiona</option>
+<option value="815">Thriving Health</option>
+<option value="145">Tiger Balm</option>
+<option value="146">Tom's of Maine</option>
+<option value="148">Topfer</option>
+<option value="149">Traditional Medicin</option>
+<option value="423">Trimedica</option>
+<option value="150">Twinlab</option>
+<option value="789">Ultimate Nutrition</option>
+<option value="153">Un-Petroleum</option>
+<option value="151">Unipro</option>
+<option value="152">Universal Light</option>
+<option value="186">Veglife</option>
+<option value="488">Viobin</option>
+<option value="696">Vitol</option>
+<option value="156">Wakunaga/Kyolic</option>
+<option value="157">Weider</option>
+<option value="158">Weleda</option>
+<option value="159">White Flower</option>
+<option value="161">Wisdom Herbs</option>
+<option value="163">Women's Health Form</option>
+<option value="187">Woodland</option>
+<option value="164">World Organics</option>
+<option value="833">Yakshi Fragrances</option>
+<option value="165">Yerba Prima</option>
+<option value="166">Yogi Teas</option>
+<option value="167">Yummi Bears</option>
+<option value="168">Zand</option>
+
+                    </select>
+                  </td>
+                </tr>
+              
+              <tr bgcolor="#CCCCCC"> 
+                <td colspan="2" align="center"><img src="images/spacer.gif" width="10" height="1"></td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+        <tr> 
+          <td align="center" width="152"> 
+            <table width="142" border="0" cellspacing="0" cellpadding="0" height="116">
+              <tbody><tr> 
+                <td width="142" height="116" background="/images/ups.jpg"> 
+                  <table width="141" border="0" cellspacing="0" cellpadding="0" align="center" height="115">
+                    <tbody><tr> 
+                      <td colspan="2" height="28" class="ar3">&nbsp;<b><font color="#666666">Shipping</font></b></td>
+                    </tr>
+                    <tr> 
+                      <td width="65" rowspan="2" align="center"><a href="/shipping.asp#rates"><img src="/images/spacer.gif" width="55" height="64" border="0"></a></td>
+                      <td width="76" height="53" class="verd1" align="center" valign="bottom"><b><font color="#0066CC"><a href="/shipping.asp#rates" class="st1">Flat 
+                        Shipping Rates</a></font></b></td>
+                    </tr>
+                    <tr> 
+                      <td width="76" align="center" class="verd3" valign="top"> 
+                        <p><b><font color="#0061AB">Ground $6</font></b></p>
+                      </td>
+                    </tr>
+                  </tbody></table>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+        <form method="Get" name="subsfrm" action="/subscribe.asp" onsubmit="return Leftvalid();"></form>
+          <tr> 
+            <td align="center" width="152"> 
+              <table border="0" cellspacing="0" cellpadding="0" align="center" width="155">
+                <tbody><tr> 
+                  <td height="15" width="149"> 
+                    <table width="98%" border="0" cellspacing="0" cellpadding="0" align="right">
+                      <tbody><tr> 
+                        <td class="verd2"><b><font color="#000099">Join our mailing list</font></b></td>
+                      </tr>
+                      <tr> 
+                        <td><font face="Verdana" size="1">for receiving our monthly Special Offers and 
+                          Discount Coupons.</font></td>
+                      </tr>
+                    </tbody></table>
+                  </td>
+                </tr>
+                <tr> 
+                  <td width="149"><b></b><b></b> 
+                    <table width="99%" border="0" cellspacing="0" cellpadding="0">
+                      <tbody><tr valign="top"> 
+                        <td width="79%" align="right"> 
+                          <input type="text" name="email" size="16" style="font-family: Verdana; font-size: 8pt; border-style: solid; border-width: 1; background-color: #F7F7F7">
+                        </td>
+                        <td width="21%" align="center" valign="bottom">
+                          <input type="image" border="0" name="Subscribe" src="/images/gos.jpg">
+                        </td>
+                      </tr>
+                    </tbody></table>
+                  </td>
+                </tr>
+              </tbody></table>
+            </td>
+          </tr>
+        
+        <tr> 
+          <td align="center"> 
+            <hr color="#CCCCCC" size="1" width="90%">
+            <img src="/images/geo-trust-SSL.jpg"><br>
+            <img src="images/spacer.gif" width="1" height="4"><a href="/shipping.asp#return"><br>
+            <img src="/images/100sg.jpg" border="0"></a></td>
+        </tr>
+        <tr> 
+          <td align="center" width="152"> 
+            <p> <img src="images/spacer.gif" width="1" height="4"><br>
+              <img src="/images/weaccept.jpg"></p>
+          </td>
+        </tr>
+      </tbody></table>
+      <img src="images/spacer.gif" width="1" height="10"></td>
+  </tr>
+</tbody></table>
+
+    </td>
+    <td width="1" valign="top" bgcolor="#CCCCCC"><img src="/images/spacer.gif" width="1" height="7"></td>
+    <td width="597" valign="top"> 
+      <table width="98%" border="0" cellspacing="0" cellpadding="0" align="center">
+        <tbody><tr> 
+          <td class="verd1">
+            <h3><img src="/images/spacer.gif" width="1" height="7"><br>
+              Privacy Policy</h3>
+            <p>Simply, We do not sell, rent or share personal information with 
+              any third party. The information you give us is totally confidential, 
+              and will not be sold or given to any individual or company or organization 
+              under any circumstances.</p>
+            <p>The privacy practices of this statement apply to our services available 
+              under the domain and sub-domains of <a href="http://Herbs-Wholesale.com" class="st1">Herbs-Wholesale.com</a>. 
+              By visiting this website you agree to be bound by the terms and 
+              conditions of this Privacy Policy. </p>
+            <p>The <a href="http://Herbs-Wholesale.com" class="st1">Herbs-Wholesale.com</a> 
+              Privacy Policy discloses our privacy practices and contains detailed 
+              information about the following:</p>
+            <ol>
+              <li><a href="#1" class="st1">What information of yours does the 
+                Herbs-Wholesale.com collect?</a></li>
+              <li><a href="#2" class="st1">What organization is collecting the information?</a></li>
+              <li><a href="#3" class="st1">What are "cookies" and how 
+                does Herbs-Wholesale.com use them?</a></li>
+              <li><a href="#4" class="st1">How can you access or edit your information?</a></li>
+              <li><a href="#5" class="st1">What types of security procedures are in place 
+                to protect against the loss, misuse or alteration of your information?</a></li>
+              <li><a href="#6" class="st1">Notice</a></li>
+            </ol>
+            <p><b><a name="1"><font color="#000099">1. What information of yours 
+              does the Herbs-Wholesale.com collect?</font></a></b><br>
+              Our primary goal in collecting personal information is to provide 
+              you with a smooth, efficient, and customized experience. This allows 
+              us to provide services and features that most likely meet your needs, 
+              and to customize our service to make your experience easier. While 
+              you are not required to register for any services on the <a href="http://Herbs-Wholesale.com" class="st1">Herbs-Wholesale.com</a>, 
+              Some Products and Services may not function properly or may not 
+              be accessible unless you do.</p>
+            <p>Information collected online is usually defined as being either 
+              anonymous or personally identifiable. <a href="http://Herbs-Wholesale.com" class="st1">Herbs-Wholesale.com</a> 
+              collects some information each time a visitor comes to the site 
+              so we can improve the overall quality of the visitor's online experience. 
+              <a href="http://Herbs-Wholesale.com" class="st1">Herbs-Wholesale.com</a> 
+              collects the visitor's IP address (e.g., whether the user is logged 
+              on from ibm.com or aol.com), referral data (e.g., the Internet address 
+              of the last Web page visited by a user before clicking over to Herbs-Wholesale 
+              site), and browser and platform type (e.g., a Netscape browser on 
+              a Macintosh platform). Herbs-Wholesale collects this user information 
+              for purposes of product monitoring, product improvement, and targeted 
+              advertising. You do not have to register with the Herbs-Wholesale 
+              before we can collect this anonymous information.</p>
+            <p>Personally identifiable information refers to data that tells us 
+              specifically who you are, such as your name and postal address, 
+              which may be collected in addition to the anonymous data described 
+              above. <a href="http://Herbs-Wholesale.com" class="st1">Herbs-Wholesale.com</a> 
+              collects personal information when you register to use on the <a href="http://Herbs-Wholesale.com" class="st1">Herbs-Wholesale.com</a>, 
+              you provide <a href="http://Herbs-Wholesale.com" class="st1">Herbs-Wholesale.com</a> 
+              with your name, postal address, ZIP Code, email address, birth date, 
+              gender, telephone number, occupation, marital status and other information. 
+              While not all of this data is required for our services to function, 
+              we are better able to customize your experience if you volunteer 
+              complete and accurate information. Users who complete the registration 
+              process are given a user account and can take full advantage of 
+              the many offerings &amp; Discounts. </p>
+            <p><b><font color="#000099"><a name="2">2. What organization is collecting 
+              the information?</a></font></b><br>
+              When you register for a service within the <a href="http://Herbs-Wholesale.com" class="st1">Herbs-Wholesale.com</a>, 
+              that information is generally collected and maintained solely by 
+              the <a href="http://Herbs-Wholesale.com" class="st1">Herbs-Wholesale.com</a> 
+              unless specifically stated otherwise at the point of collection. 
+            </p>
+            <p><b><font color="#000099"><a name="3">3. What are "cookies" 
+              and how does Herbs-Wholesale.com use them?</a></font></b> <br>
+              In addition to the personally identifiable information that <a href="http://Herbs-Wholesale.com" class="st1">Herbs-Wholesale.com</a> 
+              actively collects when you register, we also collect anonymous information 
+              passively using cookies. This technology plays an important role 
+              in making the Internet work, but there is much confusion among Internet 
+              users about what cookies are and how they are used. </p>
+            <p>A cookie is a small text file containing a unique identification 
+              number that is transferred from a Web site to the hard drive of 
+              your computer so that the site administrator may identify your computer 
+              and passively track its activities on the Web site. This unique 
+              number identifies your web browser to our computer system whenever 
+              you visit our web site . A cookie will not allow a web site to learn 
+              any personally identifiable information (such as your real name 
+              and address) that you have not otherwise disclosed. </p>
+            <p>Cookies allow <a href="http://Herbs-Wholesale.com" class="st1">Herbs-Wholesale.com</a> 
+              to automatically remember your web browser when you visit web site. 
+              By storing certain registration and preference information on cookies 
+              or associating cookies with registration, preference or profile 
+              information stored on our computers, we can deliver products and 
+              services that use such information more quickly and efficiently 
+              for more users. This information is normally saved in an encrypted 
+              form that only <a href="http://Herbs-Wholesale.com" class="st1">Herbs-Wholesale.com</a> 
+              can interpret.</p>
+            <p>The use of cookies is an industry standard, and they are currently 
+              used on most major web sites. It is possible to adjust your web 
+              browser preferences to alert you when a cookie is sent to your hard 
+              drive, or to refuse cookies altogether. While <a href="http://Herbs-Wholesale.com" class="st1">Herbs-Wholesale.com</a> 
+              does not require you to use cookies, keep in mind that certain features 
+              of the web site will not function properly if you set your browser 
+              to refuse all cookies. </p>
+            <p><b><font color="#000099"><a name="4">4. How can you access or edit 
+              your information?</a></font></b><br>
+              <a href="http://Herbs-Wholesale.com" class="st1">Herbs-Wholesale.com</a> 
+              provides registered users a complete personalized panel. This personalized 
+              panel allows users to manage or change their personal information 
+              like password, shipping and billing address. User panel also allows 
+              users to track their shipment and view order history.</p>
+            <p><b><font color="#000099"><a name="5">5. What types of security procedures 
+              are in place to protect against the loss, misuse or alteration of 
+              your information?</a></font></b><br>
+              <a href="http://Herbs-Wholesale.com" class="st1">Herbs-Wholesale.com</a> 
+              uses industry standard practices to safeguard the confidentiality 
+              of your personal identifiable information, including "firewalls" 
+              and Secure Socket Layers.</p>
+            <p><b><font color="#000099"><a name="6">6. Notice</a></font></b><br>
+              We may amend this Privacy Policy at any time by posting the amend 
+              terms on our site. All amended terms shall automatically be effective 
+              30 days after they are initially posted on our site. In addition, 
+              we will notify you in accordance with your Notification Preferences.</p>
+            <p>Last updated: Monday April 12, 2004</p>
+          </td>
+  </tr>
+</tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+<table width="77%" border="0" cellspacing="0" cellpadding="0" align="center" height="30">
+  <tbody><tr> 
+    <td align="center"> 
+      <table width="99%" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tbody><tr>
+    <td align="center" bgcolor="#999999"><img src="/images/spacer.gif" width="1" height="1"></td>
+  </tr>
+  <tr> 
+    <td align="center" height="64"> 
+      <h6>Copyright © 2002 Herbs-Wholesale.Com, All rights reserved. <br>
+        Statement contained within this web site have not been evaluated by the 
+        Food and Drug Administration.<br>
+        These products are not intended to diagnose, cure, mitigate, treat, or 
+        prevent any disease.<br>
+      </h6>
+    </td>
+  </tr>
+  <tr> 
+    <td align="center"> 
+      <h6><a href="/" class="st1">Home</a>&nbsp; - &nbsp;<a href="/about.asp" class="st1">About 
+        us</a>&nbsp;- &nbsp;<a href="/shop/default.asp" class="st1">Shop</a> &nbsp;- 
+        &nbsp;<a href="/shop/brands.asp" class="st1">Brands</a> &nbsp;- &nbsp;<a href="/shop/products.asp" class="st1">Products</a> 
+        &nbsp;- &nbsp;<a href="/contact.asp" class="st1">Contact us</a> &nbsp;- 
+        &nbsp;<a href="/shop/quickorder.asp" class="st1">Quick Order</a><br>
+        <a href="/shipping.asp" class="st1">Shipping Policy</a> &nbsp;- &nbsp;<a href="/privacy.asp" class="st1">Privacy 
+        Policy</a> &nbsp;-&nbsp;&nbsp;<a href="/sitemap.asp" class="st1">Site 
+        Map</a>&nbsp; - &nbsp;<a href="/subscribe.asp" class="st1">Join Mailing 
+        List</a>&nbsp; - &nbsp;<a href="/links.asp" class="st1">Links</a></h6>
+    </td>
+  </tr>
+  <tr> 
+    <td><img src="/images/spacer.gif" width="1" height="7"></td>
+  </tr>
+</tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+
+
+</body></html>
