@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the tdstelecom.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601104806id_/http%3A//tdstelecom.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tdstelecom.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204100107id_/http%3A//www.tdstelecom.com/about/privacy.asp) for the most accurate reproduction.*
 
 # TDS Telecom - Privacy Policy Statement
 
 |    
 
 
-TDS TELECOM understands our customer's concerns about how the information we gather is used and shared. It is our intention to only use this information sensibly, safely, and with our customer's best interest in mind. Recently, many Internet service providers were asked by law enforcement agencies to disclose information such as customer lists and databases in the interest of protecting national security. To date, TDS TELECOM has not been asked to disclose such information. However, we will do so if requested. We would like to reassure you that we will do whatever we can to protect your privacy while supporting our government in this time of crisis. 
+TDS TELECOM understands our customer's concerns about how the information we gather is used and shared. It is our intention to only use this information sensibly, safely, and with our customer's best interest in mind. Recently, many Internet service providers were asked by law enforcement agencies to disclose information such as customer lists and databases in the interest of protecting national security. To date, TDS TELECOM has not been asked to disclose such information. However, we will do so if requested. We would like to reassure you that we will do whatever we can to protect your privacy while supporting our government in times of crisis. 
 
 The information we learn from customers helps us personalize and continually improve your experience at the TDS TELECOM Web site.
 
@@ -20,7 +20,7 @@ We receive and store certain types of information whenever you interact with us.
   * **Information from Other Sources**  
 We occasionally receive updated delivery and address information from our shippers or other sources so that we can correct our records and deliver your next purchase or communication more easily. 
   * **Information Gathered by Ad Servers**  
-TDS TELECOM has relationships with companies that we allow to place advertising on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address, and clickstream information. For additional information, please visit www.mycity.com and refer to their privacy policy. 
+TDS TELECOM has relationships with companies that we allow to place advertising on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address, and clickstream information. 
 
 What About Cookies? 
   * Cookies are identifiers that we transfer to your computer's hard drive, through your Web browser, so that our systems can recognize your browser and provide personalized features. The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. 
@@ -50,7 +50,7 @@ You may choose at any time to not provide us information. You can disable cookie
   * **To know what we know**  
 Upon request, we'll provide you with access to the information we've collected regarding your transactions with us (e.g., dates of your purchases, amounts and types of purchases) and personal, or contact, information (e.g., name, address, phone, etc.) 
   * To receive this information regarding your purchases through TDS TELECOM, please send your request in writing to [webcontact@tdstelecom.com](mailto:webcontact@tdstelecom.com) or to the postal address at the end of this document. 
-  * Or, if you'd like to know about purchases of TDS.NET product only, you may view your activity by visiting http://secure.tds.net. 
+  * Or, if you'd like to know about purchases of the TDS Internet product only, you may view your activity by visiting http://secure.tds.net. 
   * To correct inaccuracies in contact information or transaction information, please make your request in writing to [webcontact@tdstelecom.com](mailto:webcontact@tdstelecom.com) or to the postal address at the end of this document. 
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in this notice. If our information practices change at some time in the future we will post the updated policy here on our site and we will provide you with the ability to opt-out of these new uses. Please review this Privacy Policy periodically to changes and updates. 
