@@ -1,514 +1,184 @@
-<!--The following is the downloaded HTML source of the nextel.com privacy policy that was archived on 2002-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020603234217id_/http%3A//nextel.com/registration/privacy_policy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nextel.com privacy policy that was archived on 2002-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021206093439id_/http%3A//www.nextel.com/privacy_policy.shtml) for the most accurate reproduction.-->
 
 <html><head>
-	 <title>Nextel - Privacy Policy</title>
-	 <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
-<link href="/nextel_pc.css" rel="STYLESHEET" type="text/css">
-  <script language="javascript">
+  <title>Nextel - Online Privacy Policy</title>
+  <link rel="stylesheet" href="/nextel_pc.css" type="text/css">
 
-	imageArray = new Array('phones_plans','services','support','mynextel','about');
-	imagePath = "/img/topnav/";
-	function preloadImages() {
-		for(x=0;x<imageArray.length;x++) {
-			eval(imageArray[x] + 'off = new Image();');
-			eval(imageArray[x] + 'off.src = "' + imagePath + imageArray[x] + '_on.gif";');
-			eval(imageArray[x] + 'over = new Image();');
-			eval(imageArray[x] + 'over.src = "' + imagePath + imageArray[x] + '_off.gif";');
-		}
-	}
-	preloadImages();
+<!-- BEGIN: Header -->
+<script src="/Header.js" language="javascript"></script>
+<script src="/common.js" language="javascript"></script>
 
-	function turnon(i) {
-		document[i].src = eval(i + "off.src")
-	}
-	function turnoff(i) {
-		if (i != currentSection) {
-			document[i].src = eval(i + "over.src")
-		}
-	}
+<script language="javascript">
+autoRedirect();
+</script>
 
-//DYNAMIC MENUS
+</head> 
+ 
+<body bgcolor="#FFFFFF" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" onload="getSection()"><a name="top"></a> 
 
-phones_plans = new Array (
-  ["Phones", "/NASApp/onlinestore/PhoneLanding?initstate=true&redirect=false"],
-  ["Compare Phones", "/phones_plans/phonecomparison.shtml"],
-  ["Rate Plans", "/NASApp/onlinestore/RatePlanLanding?initstate=true&redirect=false"],
-  ["Compare Rate Plans", "/phones_plans/plans/rateplancomparison.shtml"],
-  ["Promotions", "/phones_plans/promos/index.shtml"],
-  ["Value Packs", "/phones_plans/promos/targetpromoindex.shtml"],
-  ["Accessories", "/NASApp/onlinestore/AccessoryLanding?initstate=true&redirect=false"]
-)
-
-services = new Array (
-  ["Coverage", "/services/coverage/index.shtml"],
-  ["Direct Connect", "/services/directconnect.shtml"],
-  ["Nextel Online", "/services/nextelonline/index.shtml"],
-  ["Mobile Messaging", "/services/mobilemessaging/index.shtml"],
-  ["Email Services", "/services/nextelonline/email_qual.shtml"],
-  ["Java Applications", "/services/javaapps/index.shtml"],
-  ["Worldwide Service", "/services/worldwide/index.shtml"]
-)
-
-support = new Array (
-  ["Phone Setup", "/support/gettingstarted.shtml"],
-  ["User's Guides", "/support/user_guides/index.shtml"],
-  ["How to Read Your Bill", "/support/readbill/index.shtml"],
-  ["Service and Repair", "/support/servicerepair/index.shtml"],
-  ["FAQs", "/support/faq/index.shtml"]
-)
-
-mynextel = new Array (
-  ["Account Summary", "/NASApp/care/WCMainServlet?operation=showAccountSummary"],
-  ["Address Book", "/NASApp/addrbook/ABEntryServlet"],
-  ["Billing Statements", "/NASApp/care/WCMainServlet?operation=showInvoiceStatus"],
-  ["Mobile Email", "http://nextel.wirelessinbox.com/"],
-  ["Pay My Bill (Credit Card)", "/NASApp/care/WCCreditCardPaymentServlet?operation=displayCreditCardPaymentPage&clearValidParams=true"],
-  ["Reset Voice Mail Password", "/NASApp/care/WCRVMPServlet"],
-  ["Send a Message", "http://messaging.nextel.com/cgi/mPageExt.dll?buildIndAddressPage&entry=1"],
-  ["Software Updates", "/mynextel/index.shtml"]
-)
-
-about = new Array (
-  ["Career Opportunities", "http://www.nexteljobs.com/"],
-  ["Company Profile", "/about/corporateinfo/profile.shtml"],
-  ["Financial Reports", "http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=NXTL&script=700"],
-  ["Investor Relations", "http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=NXTL&script=2300"],
-  ["Nextel News", "/about/corporateinfo/news.shtml"],
-  ["Press Releases", "http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=NXTL&script=400&layout=9"]
-)
-
-
-navArrow = '<img src="/img/topnav/white_arrow.gif" border=0>';
-menuWidth = 175
-menuHeight = 17
-menuColor = "#8c8a8c"
-menuHighlight = "#525552"
-menuborderColor = "#292829"
-borderStyle1 = ' border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: ' + menuborderColor + '; border-style: solid; '
-borderStyle2 = ' border-top-width: 1px; border-left-width: 1px; border-bottom-width: 1px; border-right-width: 1px; border-color: ' + menuborderColor + '; border-style: solid;  width:' + menuWidth + 'px; height:' + menuHeight + 'px; '
-
-menuVposition = new Array (75,75,75,75,75,75)
-menuHposition = new Array (10,149,223,351,432)
-menuArray = new Array ('phones_plans','services','support','mynextel','about')
-
-URLpath = new String( window.location.pathname );
-currentSection = ""
-appSection = new Array(['NASApp/care','mynextel'],['NASApp/onlinestore','phones_plans'])
-
-
-function getSection() {
-	for( var i=0; i < menuArray.length; i++ ) {
-		if( URLpath.indexOf( menuArray[i] ) >= 0 ) {
-			currentSection = menuArray[i];
-			turnon(menuArray[i])
-			break;
-		}
-	}
-	if (currentSection == "") {
-		for (i=0;i<appSection.length; i++) {
-			if( URLpath.indexOf( appSection[i][0] ) >= 0 ) {
-				currentSection = appSection[i][1];
-				turnon(menuArray[i])
-				break;
+<table border="0" cellpadding="0" cellspacing="0" width="735"> 
+	<tbody><tr> 
+		<td colspan="2" bgcolor="#900028"> 
+		<table border="0" cellpadding="0" cellspacing="0" width="100%"> 
+			<tbody><tr> 
+				<td><a href="javascript:sourceRedirect(1)"><img src="/img/topnav/logo.gif" width="152" height="50" border="0" alt="NEXTEL"></a></td> 
+				<td align="right" class="redbar"><a href="javascript:sourceRedirect(1)" class="redbar">Home</a> | <a href="/NASApp/onlinestore/Action/CartLanding" class="redbar">View Cart</a> | <a href="javascript:sourceRedirect(8)" class="redbar">Contact Us</a>&nbsp;&nbsp;&nbsp;&nbsp;</td> 
+			</tr> 
+		</tbody></table></td> 
+	</tr> 
+	<tr> 
+		<td colspan="2" bgcolor="#000000"><img src="/img/spacer.gif" width="525" height="2" border="0"></td> 
+	</tr> 
+	<tr> 
+		<td bgcolor="#666666" background="/img/topnav/nav_bkg.gif"> 
+		<table border="0" cellpadding="0" cellspacing="0"> 
+			<tbody><tr bgcolor="#999999"> 
+				<td bgcolor="000000"><img src="/img/spacer.gif" width="1" height="1"></td> 
+				<td background="/img/topnav/nav_bkg.gif"><a href="/NASApp/onlinestore/Action/StoreLanding" onmouseover="showMenu('phones_plansLyr')" onmouseout="dropMenu('phones_plansLyr')"><img src="/img/topnav/phones_plans_off.gif" width="136" height="23" border="0" name="phones_plans" alt="Phones and Rate Plans"></a></td> 
+				<td bgcolor="000000"><img src="/img/spacer.gif" width="1" height="1"></td> 
+				<td background="/img/topnav/nav_bkg.gif"><a href="/services/index.shtml" onmouseover="showMenu('servicesLyr')" onmouseout="dropMenu('servicesLyr')"><img src="/img/topnav/services_off.gif" width="71" height="23" border="0" name="services" alt="Services"></a></td> 
+				<td bgcolor="000000"><img src="/img/spacer.gif" width="1" height="1"></td> 
+				<td background="/img/topnav/nav_bkg.gif"><a href="/support/index.shtml" onmouseover="showMenu('supportLyr')" onmouseout="dropMenu('supportLyr')"><img src="/img/topnav/support_off.gif" width="127" height="23" border="0" name="support" alt="Customer Support"></a></td> 
+				<td bgcolor="000000"><img src="/img/spacer.gif" width="1" height="1"></td> 
+				<td background="/img/topnav/nav_bkg.gif"><a href="/mynextel/index.shtml" onmouseover="showMenu('mynextelLyr')" onmouseout="dropMenu('mynextelLyr')"><img src="/img/topnav/mynextel_off.gif" width="82" height="23" border="0" name="mynextel" alt="MyNextel"></a></td> 
+				<td bgcolor="000000"><img src="/img/spacer.gif" width="1" height="1"></td> 
+				<td background="/img/topnav/nav_bkg.gif"><a href="/about/index.shtml" onmouseover="showMenu('aboutLyr')" onmouseout="dropMenu('aboutLyr')"><img src="/img/topnav/about_off.gif" width="99" height="23" border="0" name="about" alt="About Nextel"></a></td> 
+				<td bgcolor="000000"><img src="/img/spacer.gif" width="1" height="1"></td> 
+			</tr> 
+		</tbody></table> 
+		</td> 
+		<td bgcolor="#666666" background="/img/topnav/nav_bkg.gif" align="right" valign="bottom">&nbsp; 
+ 
+		<script language="javascript">
+			function logOut() {
+				confBox = confirm("Logging out will delete any items you may have added to your shopping cart. Are you sure you want to continue and log out?")
+				if (confBox == true) { location = "/NASApp/registration/do/Logoff" }
 			}
-		}				
-	}
-}
-
-active=false
-menusReady = false
-currentMenu = ""
-
-var NS4 = false
-var IE4 = false
-var DOM = false
-var IE = false
-var NS6 = false
-
-oldIE = ( navigator.appName.indexOf('Microsoft') >= 0 && navigator.appVersion.indexOf('MSIE 4.') >= 0) ? true:false
-if (document.getElementById) { DOM = true; browser="DOM"; }
-if (document.layers && !DOM) { NS4 = true; browser="NS4"; }
-if (document.all && !DOM) IE4 = true
-if (navigator.appName.indexOf("Microsoft Internet Explorer") > -1) IE = true
-if (DOM && !IE) NS6 = true
-
-function initLayers() {
-
-if (IE || DOM) {
-	for (x=0; x<menuArray.length; x++) {
-		layerName = menuArray[x] + 'Layer'
-		useArray = eval(menuArray[x])
-		menu = '<div id="' + layerName + '" style="position: absolute; width: ' + menuWidth + 'px; z-index: 20; background-color: ' + menuHighlight + '; visibility: hidden;" onmouseout="unLock(\'' + menuArray[x] + 'Lyr\')" onmouseover="lock(\'' + menuArray[x] + 'Lyr\')">';
-		for (v=0;v<useArray.length;v++) {
-			menu += '<div id="' + layerName + v + '" style="position: relative; background-color: ' + menuColor + '; z-index: ' + x + 30 + '; height:' + menuHeight + 'px; ' + borderStyle1
-			menu += (NS6) ? 'width:' + (menuWidth - 1) + 'px; ' : 'width:' + menuWidth + 'px; '
-			menu += (v == useArray.length - 1) ?  " border-bottom-width: 1px;" : " border-bottom-width: 0px;"
-			menu += '" onmouseover="highlight(\'' + menuArray[x] + v + 'Lyr\')" onmouseout="unhighlight(\'' + menuArray[x] + v + 'Lyr\')" onclick="linkto(\'' + useArray[v][1] + '\')"><table cellspacing=2><tr><td>' + navArrow + '<a href="' + useArray[v][1] + '" class=menuLink>' + useArray[v][0] + '<\/a><\/td><\/tr><\/table><\/div>';
-		}
-		menu += '<\/div>\n';
-		document.write(menu);
-	}
-}
-
-if (NS4) {
-	document.write('<style type="text/css">\n')
-	document.write('all.menuItem1 {' + borderStyle1 + ' width:' + menuWidth + 'px; }\n')
-	document.write('all.menuItem2 {' + borderStyle2 + '}\n')
-	document.write('all.menuLink { padding-left: 2px; padding-top: 0px;}</style>')
-	for (x=0; x<menuArray.length; x++) {
-		layerName = menuArray[x] + 'Layer'
-		useArray = eval(menuArray[x])
-		menu = '<layer id="' + layerName + '" width=' + menuWidth + ' z-index=20 visibility=hide onmouseout="unLock(\'' + menuArray[x] + 'Lyr\')" onmouseover="lock(\'' + menuArray[x] + 'Lyr\')">';
-		for (v=0;v<useArray.length;v++) {
-			menu += '<ilayer id="' + layerName + v + '" bgcolor=' + menuColor + '><layer class='
-			menu += (v == useArray.length - 1) ?  'menuItem2' : 'menuItem1'
-			menu += ' z-index=' + (x + 30 - v) + ' onmouseover="highlight(\'' + menuArray[x] + v + 'Lyr\')"'
-			menu += ' onmouseout="unhighlight(\'' + menuArray[x] + v + 'Lyr\')"><a href="' + useArray[v][1] + '" class=menuLink>' + navArrow + useArray[v][0] + '<\/a><\/layer></ilayer><br>';
-		}
-		menu += '<\/layer>\n';
-		document.write(menu);
-	}
-}
-
-for (x=0; x<menuArray.length; x++) {
-	layerName = menuArray[x] + 'Layer'
-	useArray = eval(menuArray[x])
-	eval(menuArray[x] + 'Lyr = new domObject(\'' + layerName + '\')');
-	for (v=0;v<useArray.length;v++) {
-		eval(menuArray[x] + v + 'Lyr = new domObject(\'' + layerName + v + '\',\'' + layerName + '\')')
-	}
-	eval(menuArray[x] + 'Lyr.sty.left = ' + menuHposition[x])
-	eval(menuArray[x] + 'Lyr.sty.top = ' + menuVposition[x])
-}
-menusReady = true;
-}
-
-if (!oldIE) initLayers()
-
-function domObject(theName,nestedLayer,frame) {
-	if (DOM || NS4) {
-		if (DOM) {
-			this.sty = document.getElementById(theName).style
-		}
-		 if (NS4) {
-			if (nestedLayer) {
-				this.sty = eval('document.' + nestedLayer + '.document.' + theName)
+			var cookieTest = document.cookie 
+			if (cookieTest.indexOf('SMSESSION') >= 0 && cookieTest.indexOf('LOGGEDOFF') == -1) { 
+				document.write('<a href="javascript:logOut()"><img src="/img/button_logout.gif" border=0 width=58 height=19 hspace=4></a>'); 
 			} else {
-				this.sty = document.layers[theName]
-			}
-		}
-	}
-	if (IE4) {
-		this.sty = this.frame.document.all[theName].style
-	}
-	this.theName = theName
-	this.active = false
-	this.locked = false
-}
+				document.write('<a href="/mynextel_login"><img src="/img/button_login.gif" border=0 width=50 height=19 hspace=4></a>'); 
+			}				
+		</script><a href="/mynextel_login"><img src="/img/button_login.gif" border="0" width="50" height="19" hspace="4"></a> 
+ 
+		</td> 
+	</tr> 
+	<tr> 
+		<td colspan="2" bgcolor="#000000"><img src="/img/spacer.gif" width="1" height="1"></td> 
+	</tr> 
+</tbody></table> 
+<!-- END: Header -->
 
-
-function showMenu(theMenu) {
-	theName = theMenu.replace(/Lyr/, "")
-	if (menusReady && !oldIE) {
-		if (currentMenu != theName && currentMenu != "") {
-			dropit(theMenu);
-		}
-		currentMenu = theName;
-		argMenu = theMenu
-		eval(theMenu + ".active = true")
-		show = setTimeout("showIt(argMenu)", 100)
-	}
-}
-
-function dropMenu(theMenu) {
-	eval(theMenu + ".active = false")
-	whichMenu = theMenu
-	wait = setTimeout("dropit(whichMenu)", -1)
-	//dropit(theMenu)
-}
-
-function showIt(theMenu) {
-	if (eval(theMenu + ".active") == true) {
-		eval(theMenu + '.sty.visibility = (NS4)? "show" : "visible"')
-		theName = theMenu.replace(/Lyr/, "")
-		turnon(theName)
-	}
-}
-
-function dropit(theMenu) {
-	if (!oldIE && eval(theMenu + ".locked") == false) {
-		eval(theMenu + '.sty.visibility = (NS4)? "hide" : "hidden"')
-		currentMenu = ""
-		theName = theMenu.replace(/Lyr/, "")
-		turnoff(theName)
-	}
-}
-
-function highlight(theMenu) {
-	if (IE || DOM) {
-		eval(theMenu + '.sty.backgroundColor = "' + menuHighlight + '"')
-		eval(theMenu + '.sty.cursor = "hand"')
-	}
-	if (NS4) {
-		eval(theMenu + '.sty.bgColor = "' + menuHighlight + '"')
-	}
-}
-
-function unhighlight(theMenu) {
-	if (IE || DOM) {
-		eval(theMenu + '.sty.backgroundColor = "' + menuColor + '"')
-		eval(theMenu + '.sty.cursor = "auto"')
-	}
-	if (NS4) {
-		eval(theMenu + '.sty.bgColor = "' + menuColor + '"')
-	}
-}
-
-function lock(theMenu) {
-	eval(theMenu + ".locked = true")
-}
-
-function unLock(theMenu) {
-	eval(theMenu + ".locked = false")
-	dropMenu(theMenu)
-}
-
-function linkto(link) {
-	location = link
-}
-
-
-
-	</script></head>
-<!--START: Header-->
-
-	<body bgcolor="#FFFFFF" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" onload="getSection()"><div id="phones_plansLayer" style="position: absolute; width: 175px; z-index: 20; background-color: rgb(82, 85, 82); visibility: hidden; left: 10px; top: 75px;" onmouseout="unLock('phones_plansLyr')" onmouseover="lock('phones_plansLyr')"><div id="phones_plansLayer0" style="position: relative; background-color: #8c8a8c; z-index: 030; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('phones_plans0Lyr')" onmouseout="unhighlight('phones_plans0Lyr')" onclick="linkto('/NASApp/onlinestore/PhoneLanding?initstate=true&amp;redirect=false')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/NASApp/onlinestore/PhoneLanding?initstate=true&amp;redirect=false" class="menuLink">Phones</a></td></tr></tbody></table></div><div id="phones_plansLayer1" style="position: relative; background-color: #8c8a8c; z-index: 030; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('phones_plans1Lyr')" onmouseout="unhighlight('phones_plans1Lyr')" onclick="linkto('/phones_plans/phonecomparison.shtml')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/phones_plans/phonecomparison.shtml" class="menuLink">Compare Phones</a></td></tr></tbody></table></div><div id="phones_plansLayer2" style="position: relative; background-color: #8c8a8c; z-index: 030; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('phones_plans2Lyr')" onmouseout="unhighlight('phones_plans2Lyr')" onclick="linkto('/NASApp/onlinestore/RatePlanLanding?initstate=true&amp;redirect=false')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/NASApp/onlinestore/RatePlanLanding?initstate=true&amp;redirect=false" class="menuLink">Rate Plans</a></td></tr></tbody></table></div><div id="phones_plansLayer3" style="position: relative; background-color: #8c8a8c; z-index: 030; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('phones_plans3Lyr')" onmouseout="unhighlight('phones_plans3Lyr')" onclick="linkto('/phones_plans/plans/rateplancomparison.shtml')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/phones_plans/plans/rateplancomparison.shtml" class="menuLink">Compare Rate Plans</a></td></tr></tbody></table></div><div id="phones_plansLayer4" style="position: relative; background-color: #8c8a8c; z-index: 030; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('phones_plans4Lyr')" onmouseout="unhighlight('phones_plans4Lyr')" onclick="linkto('/phones_plans/promos/index.shtml')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/phones_plans/promos/index.shtml" class="menuLink">Promotions</a></td></tr></tbody></table></div><div id="phones_plansLayer5" style="position: relative; background-color: #8c8a8c; z-index: 030; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('phones_plans5Lyr')" onmouseout="unhighlight('phones_plans5Lyr')" onclick="linkto('/phones_plans/promos/targetpromoindex.shtml')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/phones_plans/promos/targetpromoindex.shtml" class="menuLink">Value Packs</a></td></tr></tbody></table></div><div id="phones_plansLayer6" style="position: relative; background-color: #8c8a8c; z-index: 030; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 1px;" onmouseover="highlight('phones_plans6Lyr')" onmouseout="unhighlight('phones_plans6Lyr')" onclick="linkto('/NASApp/onlinestore/AccessoryLanding?initstate=true&amp;redirect=false')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/NASApp/onlinestore/AccessoryLanding?initstate=true&amp;redirect=false" class="menuLink">Accessories</a></td></tr></tbody></table></div></div>
-<div id="servicesLayer" style="position: absolute; width: 175px; z-index: 20; background-color: rgb(82, 85, 82); visibility: hidden; left: 149px; top: 75px;" onmouseout="unLock('servicesLyr')" onmouseover="lock('servicesLyr')"><div id="servicesLayer0" style="position: relative; background-color: #8c8a8c; z-index: 130; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('services0Lyr')" onmouseout="unhighlight('services0Lyr')" onclick="linkto('/services/coverage/index.shtml')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/services/coverage/index.shtml" class="menuLink">Coverage</a></td></tr></tbody></table></div><div id="servicesLayer1" style="position: relative; background-color: #8c8a8c; z-index: 130; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('services1Lyr')" onmouseout="unhighlight('services1Lyr')" onclick="linkto('/services/directconnect.shtml')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/services/directconnect.shtml" class="menuLink">Direct Connect</a></td></tr></tbody></table></div><div id="servicesLayer2" style="position: relative; background-color: #8c8a8c; z-index: 130; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('services2Lyr')" onmouseout="unhighlight('services2Lyr')" onclick="linkto('/services/nextelonline/index.shtml')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/services/nextelonline/index.shtml" class="menuLink">Nextel Online</a></td></tr></tbody></table></div><div id="servicesLayer3" style="position: relative; background-color: #8c8a8c; z-index: 130; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('services3Lyr')" onmouseout="unhighlight('services3Lyr')" onclick="linkto('/services/mobilemessaging/index.shtml')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/services/mobilemessaging/index.shtml" class="menuLink">Mobile Messaging</a></td></tr></tbody></table></div><div id="servicesLayer4" style="position: relative; background-color: #8c8a8c; z-index: 130; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('services4Lyr')" onmouseout="unhighlight('services4Lyr')" onclick="linkto('/services/nextelonline/email_qual.shtml')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/services/nextelonline/email_qual.shtml" class="menuLink">Email Services</a></td></tr></tbody></table></div><div id="servicesLayer5" style="position: relative; background-color: #8c8a8c; z-index: 130; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('services5Lyr')" onmouseout="unhighlight('services5Lyr')" onclick="linkto('/services/javaapps/index.shtml')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/services/javaapps/index.shtml" class="menuLink">Java Applications</a></td></tr></tbody></table></div><div id="servicesLayer6" style="position: relative; background-color: #8c8a8c; z-index: 130; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 1px;" onmouseover="highlight('services6Lyr')" onmouseout="unhighlight('services6Lyr')" onclick="linkto('/services/worldwide/index.shtml')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/services/worldwide/index.shtml" class="menuLink">Worldwide Service</a></td></tr></tbody></table></div></div>
-<div id="supportLayer" style="position: absolute; width: 175px; z-index: 20; background-color: rgb(82, 85, 82); visibility: hidden; left: 223px; top: 75px;" onmouseout="unLock('supportLyr')" onmouseover="lock('supportLyr')"><div id="supportLayer0" style="position: relative; background-color: #8c8a8c; z-index: 230; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('support0Lyr')" onmouseout="unhighlight('support0Lyr')" onclick="linkto('/support/gettingstarted.shtml')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/support/gettingstarted.shtml" class="menuLink">Phone Setup</a></td></tr></tbody></table></div><div id="supportLayer1" style="position: relative; background-color: #8c8a8c; z-index: 230; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('support1Lyr')" onmouseout="unhighlight('support1Lyr')" onclick="linkto('/support/user_guides/index.shtml')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/support/user_guides/index.shtml" class="menuLink">User's Guides</a></td></tr></tbody></table></div><div id="supportLayer2" style="position: relative; background-color: #8c8a8c; z-index: 230; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('support2Lyr')" onmouseout="unhighlight('support2Lyr')" onclick="linkto('/support/readbill/index.shtml')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/support/readbill/index.shtml" class="menuLink">How to Read Your Bill</a></td></tr></tbody></table></div><div id="supportLayer3" style="position: relative; background-color: #8c8a8c; z-index: 230; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('support3Lyr')" onmouseout="unhighlight('support3Lyr')" onclick="linkto('/support/servicerepair/index.shtml')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/support/servicerepair/index.shtml" class="menuLink">Service and Repair</a></td></tr></tbody></table></div><div id="supportLayer4" style="position: relative; background-color: #8c8a8c; z-index: 230; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 1px;" onmouseover="highlight('support4Lyr')" onmouseout="unhighlight('support4Lyr')" onclick="linkto('/support/faq/index.shtml')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/support/faq/index.shtml" class="menuLink">FAQs</a></td></tr></tbody></table></div></div>
-<div id="mynextelLayer" style="position: absolute; width: 175px; z-index: 20; background-color: rgb(82, 85, 82); visibility: hidden; left: 351px; top: 75px;" onmouseout="unLock('mynextelLyr')" onmouseover="lock('mynextelLyr')"><div id="mynextelLayer0" style="position: relative; background-color: #8c8a8c; z-index: 330; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('mynextel0Lyr')" onmouseout="unhighlight('mynextel0Lyr')" onclick="linkto('/NASApp/care/WCMainServlet?operation=showAccountSummary')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/NASApp/care/WCMainServlet?operation=showAccountSummary" class="menuLink">Account Summary</a></td></tr></tbody></table></div><div id="mynextelLayer1" style="position: relative; background-color: #8c8a8c; z-index: 330; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('mynextel1Lyr')" onmouseout="unhighlight('mynextel1Lyr')" onclick="linkto('/NASApp/addrbook/ABEntryServlet')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/NASApp/addrbook/ABEntryServlet" class="menuLink">Address Book</a></td></tr></tbody></table></div><div id="mynextelLayer2" style="position: relative; background-color: #8c8a8c; z-index: 330; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('mynextel2Lyr')" onmouseout="unhighlight('mynextel2Lyr')" onclick="linkto('/NASApp/care/WCMainServlet?operation=showInvoiceStatus')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/NASApp/care/WCMainServlet?operation=showInvoiceStatus" class="menuLink">Billing Statements</a></td></tr></tbody></table></div><div id="mynextelLayer3" style="position: relative; background-color: #8c8a8c; z-index: 330; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('mynextel3Lyr')" onmouseout="unhighlight('mynextel3Lyr')" onclick="linkto('http://nextel.wirelessinbox.com/')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="http://nextel.wirelessinbox.com/" class="menuLink">Mobile Email</a></td></tr></tbody></table></div><div id="mynextelLayer4" style="position: relative; background-color: #8c8a8c; z-index: 330; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('mynextel4Lyr')" onmouseout="unhighlight('mynextel4Lyr')" onclick="linkto('/NASApp/care/WCCreditCardPaymentServlet?operation=displayCreditCardPaymentPage&amp;clearValidParams=true')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/NASApp/care/WCCreditCardPaymentServlet?operation=displayCreditCardPaymentPage&amp;clearValidParams=true" class="menuLink">Pay My Bill (Credit Card)</a></td></tr></tbody></table></div><div id="mynextelLayer5" style="position: relative; background-color: #8c8a8c; z-index: 330; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('mynextel5Lyr')" onmouseout="unhighlight('mynextel5Lyr')" onclick="linkto('/NASApp/care/WCRVMPServlet')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/NASApp/care/WCRVMPServlet" class="menuLink">Reset Voice Mail Password</a></td></tr></tbody></table></div><div id="mynextelLayer6" style="position: relative; background-color: #8c8a8c; z-index: 330; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('mynextel6Lyr')" onmouseout="unhighlight('mynextel6Lyr')" onclick="linkto('http://messaging.nextel.com/cgi/mPageExt.dll?buildIndAddressPage&amp;entry=1')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="http://messaging.nextel.com/cgi/mPageExt.dll?buildIndAddressPage&amp;entry=1" class="menuLink">Send a Message</a></td></tr></tbody></table></div><div id="mynextelLayer7" style="position: relative; background-color: #8c8a8c; z-index: 330; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 1px;" onmouseover="highlight('mynextel7Lyr')" onmouseout="unhighlight('mynextel7Lyr')" onclick="linkto('/mynextel/index.shtml')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/mynextel/index.shtml" class="menuLink">Software Updates</a></td></tr></tbody></table></div></div>
-<div id="aboutLayer" style="position: absolute; width: 175px; z-index: 20; background-color: rgb(82, 85, 82); visibility: hidden; left: 432px; top: 75px;" onmouseout="unLock('aboutLyr')" onmouseover="lock('aboutLyr')"><div id="aboutLayer0" style="position: relative; background-color: #8c8a8c; z-index: 430; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('about0Lyr')" onmouseout="unhighlight('about0Lyr')" onclick="linkto('http://www.nexteljobs.com/')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="http://www.nexteljobs.com/" class="menuLink">Career Opportunities</a></td></tr></tbody></table></div><div id="aboutLayer1" style="position: relative; background-color: #8c8a8c; z-index: 430; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('about1Lyr')" onmouseout="unhighlight('about1Lyr')" onclick="linkto('/about/corporateinfo/profile.shtml')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/about/corporateinfo/profile.shtml" class="menuLink">Company Profile</a></td></tr></tbody></table></div><div id="aboutLayer2" style="position: relative; background-color: #8c8a8c; z-index: 430; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('about2Lyr')" onmouseout="unhighlight('about2Lyr')" onclick="linkto('http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=NXTL&amp;script=700')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=NXTL&amp;script=700" class="menuLink">Financial Reports</a></td></tr></tbody></table></div><div id="aboutLayer3" style="position: relative; background-color: #8c8a8c; z-index: 430; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('about3Lyr')" onmouseout="unhighlight('about3Lyr')" onclick="linkto('http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=NXTL&amp;script=2300')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=NXTL&amp;script=2300" class="menuLink">Investor Relations</a></td></tr></tbody></table></div><div id="aboutLayer4" style="position: relative; background-color: #8c8a8c; z-index: 430; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('about4Lyr')" onmouseout="unhighlight('about4Lyr')" onclick="linkto('/about/corporateinfo/news.shtml')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/about/corporateinfo/news.shtml" class="menuLink">Nextel News</a></td></tr></tbody></table></div><div id="aboutLayer5" style="position: relative; background-color: #8c8a8c; z-index: 430; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 1px;" onmouseover="highlight('about5Lyr')" onmouseout="unhighlight('about5Lyr')" onclick="linkto('http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=NXTL&amp;script=400&amp;layout=9')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=NXTL&amp;script=400&amp;layout=9" class="menuLink">Press Releases</a></td></tr></tbody></table></div></div>
-
-
-
-
-
-<table border="0" cellpadding="0" cellspacing="0" width="735">
+<table border="0" cellpadding="0" cellspacing="0" width="727">
 	<tbody><tr>
-		<td colspan="2" bgcolor="#900028">
-		<table border="0" cellpadding="0" cellspacing="0" width="100%">
-			<tbody><tr>
-				<td><a href="/index.shtml"><img src="/img/topnav/logo.gif" width="152" height="49" border="0" alt="NEXTEL"></a></td>
-				<td align="right" class="redbar"><a href="/NASApp/onlinestore/ShoppingCart" class="redbar">View Cart</a> | <a href="/contact/index.shtml" class="redbar">Contact Us</a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-			</tr>
-		</tbody></table></td>
+		<td rowspan="3"><img src="/img/spacer.gif" width="10" height="1"></td>
+		<td colspan="4" valign="top"><img src="/img/spacer.gif" width="1" height="25"><br>
+		<img src="/img/hr_black.gif" width="717" height="1"><br>
+		<img src="/img/spacer.gif" width="1" height="3"></td>
 	</tr>
 	<tr>
-		<td colspan="2" bgcolor="#000000"><img src="/img/spacer.gif" width="525" height="3" border="0"></td>
-	</tr>
-	<tr>
-		<td bgcolor="#9c9a9c">
-		<table border="0" cellpadding="0" cellspacing="0">
-			<tbody><tr>
-				<td bgcolor="#8B8B8B"><img src="/img/spacer.gif" width="10" height="1"></td>
-				<td bgcolor="#8B8B8B"><a href="/NASApp/onlinestore/StoreLanding" onmouseover="showMenu('phones_plansLyr')" onmouseout="dropMenu('phones_plansLyr')"><img src="/img/topnav/phones_plans_off.gif" width="139" height="23" border="0" name="phones_plans" alt="Phones and Rate Plans"></a></td>
-				<td bgcolor="#8B8B8B"><a href="/services/index.shtml" onmouseover="showMenu('servicesLyr')" onmouseout="dropMenu('servicesLyr')"><img src="/img/topnav/services_off.gif" width="73" height="23" border="0" name="services" alt="Services"></a></td>
-				<td bgcolor="#FFFFFF"><img src="/img/spacer.gif" width="1" height="1"></td>
-				<td bgcolor="#9E9E9E"><a href="/support/index.shtml" onmouseover="showMenu('supportLyr')" onmouseout="dropMenu('supportLyr')"><img src="/img/topnav/support_off.gif" width="128" height="23" border="0" name="support" alt="Customer Support"></a></td>
-				<td bgcolor="#9E9E9E"><a href="/mynextel/index.shtml" onmouseover="showMenu('mynextelLyr')" onmouseout="dropMenu('mynextelLyr')"><img src="/img/topnav/mynextel_off.gif" width="81" height="23" border="0" name="mynextel" alt="MyNextel"></a></td>
-				<td bgcolor="#9E9E9E"><a href="/about/index.shtml" onmouseover="showMenu('aboutLyr')" onmouseout="dropMenu('aboutLyr')"><img src="/img/topnav/about_off.gif" width="102" height="23" border="0" name="about" alt="About Nextel"></a></td>
-			</tr>
-		</tbody></table>
+		<td valign="top" rowspan="2"><img src="/img/title2_blank.gif" width="172" height="22"><br>
 		</td>
-		<td bgcolor="#9c9a9c" align="right">&nbsp;</td>
+
+		<td rowspan="2"><img src="/img/spacer.gif" width="3" height="1"></td>
+		<td bgcolor="#900028"><img src="/img/spacer.gif" width="10" height="22"></td>
+
+<td bgcolor="#900028" class="subcathdr">Online Privacy Policy</td>
 	</tr>
 	<tr>
-		<td colspan="2" bgcolor="#000000"><img src="/img/spacer.gif" width="1" height="1"></td>
-	</tr>
-</tbody></table>
+		<td><img src="/img/spacer.gif" width="10" height="240"></td>
 
-
-
-<!--END: Header-->
-
-<table border="0" cellspacing="0" cellpadding="0" width="735">
-  <tbody><tr> 
-    
-<td height="32"><img src="/images/line_left.gif" width="33" height="32"></td>
-    
-<td height="32"><img src="/images/line_mid.gif" width="1" height="32"></td>
-    
-<td colspan="2" height="32"><img src="/images/header1_privacy_policy_short.gif" width="701" height="32"></td>
-  </tr>
-  <tr> 
-    <td valign="top"></td>
-    
-<td bgcolor="#000000" valign="bottom"><img src="/images/Fade.jpg" width="1" height="49"></td>
-    
-<td valign="top" align="left" width="5"><img src="/images/Spacer.gif" width="5" height="1"></td>
-    <!-- ******* LEFT COLUMN BEGIN ************* --> 
-    
-<td valign="top" align="left"> 
-<table width="600" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr> 
-<td> 
-            <div align="left"> 
-              <p><span class="bodytext"><br>
-                Nextel Communications respects the privacy of visitors to our 
-                site. Please read this Privacy Policy carefully so that you understand 
-                our privacy practices. If you have any questions about this Privacy 
-                Policy, please <a href="/NASApp/care/WCGeneralQuestionsFeedbackServlet">contact 
-                Customer Care online</a>. </span></p>
-              <p><span class="bodytext">Children should always get permission 
-                from their parents before sending any information about themselves 
-                (such as their names, email addresses, and phone numbers) over 
-                the Internet, to us or to anyone else. If you're under 13, please 
-                don't provide any personally identifying information during your 
-                visit to nextel.com. </span></p>
-<p><span class="bodytext">The information gathered by nextel.com falls into two 
-categories: (1) information supplied by visitors to the site when they register 
-or initiate transactions, and (2) tracking information gathered as visitors navigate 
-through the nextel.com site. Third party providers featured on or linked to by 
-our site, such as vendors of products and services offered through our site, may 
-be gathering the same kinds of information. </span></p>
-<p><span class="bodytext">The information you provide us during a visit to nextel.com 
-helps us to improve the quality and utility of our site. The more information 
-you share with us, the better we can serve your needs.</span></p>
-<p><span class="bodytext"> When you purchase phones, accessories, or additional 
-services, we request the following information on our order form:</span></p>
-</div>
+<td valign="top"><br>
+<table border="0" cellpadding="0" cellspacing="0" width="445">
+<tbody><tr>
+<td>
+Nextel Communications respects the privacy of visitors to our site. Please read this Online Privacy Policy carefully so that you understand our privacy practices relating to information we gather through this Web site.  If you have any questions about this Online Privacy Policy, please <a href="/NASApp/care/WCGeneralQuestionsFeedbackServlet">contact Customer Care online</a>.
+<br>
+<br>
+<b>Protecting the Privacy of Children</b><br>
+Nextel does not market to children under the age of 13.  Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. If you're under 13, please don't provide any personally identifying information during your visit to nextel.com.
+<br>
+<br>
+<b>The Information We Collect</b><br>
+The information gathered by nextel.com falls into two categories: (1) information supplied by visitors to the site when they register or initiate transactions, and (2) tracking information gathered as visitors navigate through the nextel.com site. Third-party providers, whose sites are featured on and accessed via our site, may gather information as well. <br>
+<br>
+The information you provide us during a visit to nextel.com helps us to improve the quality and utility of our site. The more information you share with us, the better we can serve your needs.<br>
+<br>
+When you purchase phones, accessories, or additional services, we request the following information on our order form:<br>
 <ul>
-<li> 
-<div align="left"><span class="bodytext"> Name</span></div>
-</li>
-<li> 
-<div align="left"><span class="bodytext"> Shipping and/or billing address</span></div>
-</li>
-<li> <span class="bodytext"> Credit card number or account number </span></li>
-<li><span class="bodytext"> Phone or fax number </span></li>
-<li><span class="bodytext"> Email address</span></li>
+<li>Name</li>
+<li>Shipping and/or billing address</li>
+<li>Credit card number or account number</li>
+<li>Phone or fax number</li>
+<li>Email address</li>
+<li>Date of birth</li>
+<li>Social Security Number</li>
+<li>Driver's license number</li>
 </ul>
-<div align="left"> 
-<p><span class="bodytext"> We need this information to process your order. If 
-we have trouble processing your order, the contact information you provide is 
-used to get in touch with you. We also use this contact information to provide 
-you updates regarding your current phone or service. </span></p>
-              <p><span class="bodytext">For new accounts, we may request a social 
-                security number, which we use to order a credit report. The only 
-                other purpose for which we'll use your social security number 
-                is to confirm that you are who you say you are when you call to 
-                inquire about, or make changes to, your account. </span></p>
-<p><span class="bodytext">To take advantage of personalized services available 
-on nextel.com, you may need to supply additional information, such as: </span></p>
-</div>
+For corporate accounts, we may also request one or more of the following:<br>
 <ul>
-<li> 
-                <div align="left"><span class="bodytext"> Nextel Phone Number 
-                  or Direct Connect (two way radio) number </span></div>
-</li>
-<li> 
-<div align="left"><span class="bodytext"> Industry category </span></div>
-</li>
-<li> 
-<div align="left"><span class="bodytext"> Level of responsibility for account 
-administration </span></div>
-</li>
+<li>Federal Tax ID</li>
+<li>Company name</li>
+<li>Other information your employer may ask us to collect, such as purchase order number, employee number, and the like</li>
 </ul>
-<div align="left"> 
-<p><span class="bodytext">We use this data to provide you with billing information, 
-equipment discounts, and rate plan promotions. </span></p>
-              <p><span class="bodytext">If you provide us your email address, 
-                from time to time we may send you email about new products and 
-                services, or offers that we believe will interest you. We may 
-                also share your email address with providers of products or services 
-                that we think will interest you. Though we hope you'll find this 
-                information useful, if you do not wish to receive such email, 
-                please indicate, when you give us your email address, that you'd 
-                prefer not to receive such information or offers. You can always 
-                change your election by clicking on "Update Registration," which 
-                appears on the Customer Support page of our site or just click 
-                on the <a href="/NASApp/registration/UpdateRegistrationServlet">update 
-                registration information</a> link. You'll need your Member Name 
-                and Password to make changes to your profile. If you've forgotten 
-                your Password, you may <a href="/NASApp/registration/ChangeMyPasswordServlet">change 
-                your password</a> online. Of course, we also use your email address 
-                to answer any email you send us.</span></p>
-<p><span class="bodytext"> To help us tailor our site to the needs and interests 
-of our visitors, we keep track of the pages visited by our users by placing a 
-small entry in text file, called a cookie, on your hard drive. The cookie contains 
-an ID number that allows us to track the pages you've visited. We aggregate this 
-data with data on the pages visited by other users to track overall visitor traffic 
-patterns. We use this information to improve our site by making it more responsive 
-to the needs of our users. The help function on most browsers contains information 
-on how to set your browser to notify you before accepting a cookie or to disable 
-cookies entirely. However, if you don't accept cookies, you won't be able to take 
-advantage of various features on our site that are available to other visitors. 
-</span></p>
-<p><span class="bodytext">Our web server automatically collects your IP address 
-when you request pages from our server. Your IP address is a number that is used 
-by computers connected to the Internet to identify your computer so that data 
-(such as the web pages you request) can be sent to you. Your IP address does not 
-tell us who you are. We also collect information on the browser software you're 
-using to access our site so we can optimize our site for the most popular browsers. 
-And, because we like to know how you found our site, we keep track of where you 
-came from. </span></p>
-<p><span class="bodytext">Of course, our site includes links to other websites, 
-and provides access to products and services offered by third parties, whose privacy 
-policies we don't control. When you access another website or purchase products 
-or services or conduct other transactions through our website, use of any information 
-you provide is governed by the privacy policy of the operator of the site you're 
-visiting or the provider of such products or services. When you provide information 
-in the course of obtaining products or services through our site, use of any information 
-you provide may be governed by the privacy policy of the provider of those products 
-or services, even if it appears that you're on nextel.com pages throughout the 
-transaction. The provider's privacy policy may differ from ours. If you can't 
-find the privacy policy of any of our provider partners via a link either from 
-the site's homepage or from the pages on which the products or services are offered, 
-you should contact the provider directly for more information. </span></p>
-<p><span class="bodytext">From time to time, we request information from users 
-via pop-up surveys. Participation in these surveys is completely voluntary; if 
-you don't want to provide the requested information, just don't respond to the 
-survey. The information we gather through these surveys will be used to improve 
-our site. </span></p>
-              <p><span class="bodytext">The information we collect from our visitors 
-                is stored within a database we control. Physical access to the 
-                servers on which we store visitor information is restricted. To 
-                protect the privacy of your credit card number and other ordering 
-                information, we encrypt this information for transit over the 
-                Internet using a Secure Socket Layer ("SSL") connection. However, 
-                as effective as encryption technology is, no security system is 
-                impenetrable. We cannot guarantee the security of our database, 
-                nor can we guarantee that information you supply won't be intercepted 
-                while being transmitted over the Internet. </span></p>
-<p><span class="bodytext">Most web browsers allow use of an SSL connection. If 
-your browser does not support use of an SSL connection, or if you prefer not to 
-send your credit card number over the Internet, you can place your order by calling 
-us toll free at 1-800-NEXTEL9 (U.S. only). </span></p>
-<p><span class="bodytext">We may occasionally release information about our visitors 
-when release is appropriate to comply with law, to enforce our Visitor Agreement, 
-or to protect the rights, property or safety of visitors to our site, the public 
-or Nextel Communications. As our business grows, we may buy or sell various assets. 
-In the unlikely event that Nextel Communications or substantially all of its assets 
-are acquired by another company, information on our visitors would be among the 
-transferred assets. </span></p>
-              <p><span class="bodytext">The Web is an evolving medium. If we need 
-                to change our privacy policy at some point in the future, we'll 
-                post the new policy promptly. If at any point we decide to use 
-                personally identifiable information in a manner different from 
-                what was stated at the time it was collected, we will notify you 
-                and give you an opportunity to opt out of the proposed use. By 
-                using nextel.com, you agree that your visit to our site, and any 
-                dispute over privacy, is governed by this Privacy Policy and our 
-                Visitor Agreement. </span><br>
-</p>
-</div>
+
+We need this information to process your order. If we have trouble processing your order, the contact information you provide is used to get in touch with you. We also use this contact information to provide you with updates regarding your current phone or service.<br><br>
+For new accounts, we may request a Social Security Number, which we use to order a credit report. The only other purpose for which we'll use your Social Security Number is to confirm your identity when you inquire about or access your account.<br><br>
+To take advantage of personalized services available on nextel.com, you may need to supply additional information, such as:  <ul>
+<li>Nextel Phone Number or Direct Connect  number</li>
+<li>Level of responsibility for account administration</li>
+</ul>
+We use this data to provide you with billing information, equipment discounts, and rate plan promotions.
+<br><br>
+<b>Email Addresses</b><br>
+If you provide us your email address, from time to time we may send you emails about new products and services, or offers that we believe will interest you. We may also share your email address with providers of products or services that we think will interest you. Though we hope you'll find this information useful, if you do not wish to receive such email, please indicate, when you give us your email address, that you'd prefer not to receive such information or offers. You can always change your election by clicking on "Update Registration," which appears on the MyNextel page of our site or by just clicking on this link: <a href="/NASApp/registration/UpdateRegistrationServlet">update registration information</a>. You'll need your Member Name and Password to make changes to your profile. If you've forgotten your Password, you can <a href="NASApp/registration/ChangeMyPasswordServlet">change your password</a> online. We will also use your email address to answer any email you send us.  Of course, you can always elect not to receive future emails by clicking on the "unsubscribe" link that we include in all of the emails we send.
+<br>
+<br>
+<b>Cookies</b><br>
+To help us tailor our site to the needs and interests of our visitors, we keep track of the pages visited by our users by placing a small entry in a text file, called a cookie, on your hard drive. The cookie contains an ID number that allows us to track the pages you've visited. We aggregate this data with data on the pages visited by other users to track overall visitor traffic patterns. We use this information to improve our site by making it more responsive to the needs of our users. The help function on most browsers contains information on how to set your browser to notify you before accepting a cookie or to disable cookies entirely. However, if you don't accept cookies, you won't be able to take advantage of various features on our site that are available to other visitors.
+<br>
+<br>
+<b>Browser Level Information</b><br>
+Our Web server automatically collects your IP address when you request pages from our server. Your IP address is a number that is used by computers connected to the Internet to identify your computer so that data (such as the Web pages you request) can be sent to you. Your IP address does not tell us who you are. We also collect information on the operating system you're running on your computer and the Web browser software you're using to access our site so we can optimize our site for the most popular operating systems and Web browsers. And, because we like to know how you found our site, we keep track of where you came from.
+<br>
+<br>
+<b>Pop-up Surveys</b><br>
+From time to time, we request information from users via pop-up surveys. Participation in these surveys is completely voluntary; if you don't want to provide the requested information, please don't respond to the survey. The information we gather through these surveys will be used to improve our site.
+<br>
+<br>
+<b>Information Collected by Third Parties</b><br>
+Of course, our site includes links to other Web sites, and provides access to products and services offered by third parties, whose privacy policies we don't control. When you access another Web site or purchase products or services or conduct other transactions through our Web site, use of any information you provide is governed by the privacy policy of the operator of the site you're visiting or the provider of such products or services. The provider's privacy practices may differ from ours. If you can't find the privacy policy of any of our provider partners via a link either from the site's home page or from the pages on which the products or services are offered, you should contact the provider directly for more information.
+<br>
+<br>
+<b>Security</b><br>
+The information we collect from our visitors is stored in databases we control. Physical access to the servers on which we store visitor information is restricted. We use your credit card information only to bill you for the products and services you order from us. We don't share your credit card information with anyone, except as may be necessary to process your transactions. To protect the privacy of your credit card number and other ordering information, we encrypt this information for transit over the Internet using a Secure Sockets Layer ("SSL") connection. However, as effective as modern security practices are, no physical or electronic security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted over the Internet. <br><br>
+Most Web browsers allow use of an SSL connection. If your browser does not support use of an SSL connection, or if you prefer not to send your credit card number over the Internet, you can place your order by calling us toll free at 1-800-NEXTEL9 (U.S. only).
+<br>
+<br>
+<b>Disclosure of Information</b><br>
+We may occasionally release information about our visitors when release is appropriate to comply with law, to enforce our Visitor Agreement, or to protect the rights, property or safety of visitors to our site, our customers, the public or Nextel Communications. As our business grows, we may buy or sell various assets. In the unlikely event that Nextel Communications, one of its business units, or substantially all of its assets are acquired by another company, information on our visitors would be among the transferred assets.
+<br>
+<br>
+<b>Changes to This Privacy Policy</b><br>
+This privacy policy is subject to change.  The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the new policy promptly. If at any point we decide to use personally identifiable information in a manner different from what was stated at the time it was collected, we will notify you and give you an opportunity to opt out of the proposed use. By using nextel.com, you agree that your visit to our site, and any dispute over privacy, is governed by the then-current version of the Online Privacy Policy and our Visitor Agreement.<br><br>
+<b>This Online Privacy Policy was last revised on November 25, 2002.</b>
+<br><br><br>
+
+
+
+
+
+
+<a href="#top">Back to Top</a>
 </td>
-</tr>
-</tbody></table>
-<p>&nbsp; 
-</p></td>
-    <!-- ******* LEFT COLUMN END ************* --> <!-- *******CENTER COLUMN START ************* --> 
-  </tr>
+</tr></tbody></table>
+
+
+		<img src="/img/spacer.gif" width="532" height="1">
+		</td>
+	</tr>
 </tbody></table>
 
 <!--START: Bottom footer table-->
@@ -523,11 +193,11 @@ transferred assets. </span></p>
 		<td bgcolor="#ededed">
 		<table border="0" cellpadding="0" cellspacing="14" width="735">
 			<tbody><tr>
-				<td class="footertext"><a href="/NASApp/onlinestore/StoreLanding" class="promo">Phones &amp; Rate Plans</a> | <a href="/services/index.shtml" class="promo">Services</a> | <a href="/support/index.shtml" class="promo">Customer Support</a><br>
-				<a href="/mynextel/index.shtml" class="promo">MyNextel</a> | <a href="/about/index.shtml" class="promo">About Nextel</a> | <a href="/sitemap.shtml" class="promo">Sitemap</a><br>
+				<td class="smalltext"><a href="/NASApp/onlinestore/Action/StoreLanding" class="promo">Phones &amp; Rate Plans</a> | <a href="/services/index.shtml" class="promo">Services</a> | <a href="/support/index.shtml" class="promo">Customer Support</a><br>
+				<a href="/mynextel/index.shtml" class="promo">MyNextel</a> | <a href="/about/index.shtml" class="promo">About Nextel</a> | <a href="/sitemap.shtml" class="promo">Sitemap</a> | <a href="javascript:sourceRedirect(1)" class="promo">Home</a><br>
 				<img src="/img/spacer.gif" width="442" height="14"><br>
 				By accessing this site, you accept the terms of our <a href="/visitor_agreement.shtml">Visitor Agreement</a> and <a href="/privacy_policy.shtml">Privacy Policy</a>. © 1995-2002 Nextel Communications. All rights reserved. <a href="/legal.shtml">Copyright and Disclaimer Notice</a></td>
-				<td valign="top"><a href="https://digitalid.verisign.com/as2/8f925e9bc72d0c501eba8d312795c525" target="_blank"><img src="/img/verisign.gif" alt="Verisign" border="0"></a></td>
+				<td valign="top"><a href="https://digitalid.verisign.com/as2/8f925e9bc72d0c501eba8d312795c525" target="_blank"><img src="/img/verisign.gif" alt="VeriSign" border="0"></a></td>
 				<td valign="top"><a href="/fact_driver.shtml"><img src="/img/talk_safely.gif" alt="Talk Safely" border="0"></a></td>
 			</tr>
 		</tbody></table>
