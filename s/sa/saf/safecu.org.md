@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safecu.org privacy policy that was archived on 2000-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000413050522id_/http%3A//www.safecu.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safecu.org privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206110100id_/http%3A//www.safecu.org/privacy.asp) for the most accurate reproduction.*
 
 # SAFE Credit Union
 
@@ -6,7 +6,7 @@ SAFE Credit Union has created this privacy statement in order to demonstrate our
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you. We use cookies for other purposes. 
 
-Our site's registration form requires users to give us contact information (like their name and e-mail address) and financial information (like their account numbers). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used for other purposes. 
+Our site's registration form requires users to give us contact information (like their name and e-mail address) and financial information (like their account numbers). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
 This site may contain links to other sites. SAFE Credit Union is not responsible for the privacy practices or the content of such Web sites. 
 
