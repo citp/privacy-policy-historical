@@ -1,30 +1,33 @@
-> *The following text is extracted and transformed from the nwcn.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204202800id_/http%3A//www.nwcn.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwcn.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603042843id_/http%3A//www.nwcn.com/privacy.html) for the most accurate reproduction.*
 
 # NORTHWEST CABLE NEWS
 
-|   
+| [**NWCN Select**](https://web.archive.org/)  
 ---  
-[TOP STORY](http://www.nwcn.com/)  
-[WASHINGTON](https://web.archive.org/washingtonnews/)  
-[OREGON](https://web.archive.org/oregonnews/)  
-[IDAHO](https://web.archive.org/idahonews/)  
-[LIFESTYLES - *New](https://web.archive.org/nwlife/)  
-[NW VOTE 2000](https://web.archive.org/nwvote2000)  
-[BEYOND THE NW](https://web.archive.org/national/)  
-[HEALTH](https://web.archive.org/health/)  
-[ENTERTAINMENT](https://web.archive.org/entertainment/)  
-[NW TRAVEL GUIDE](https://web.archive.org/nwtravelguide/)  
-[BUSINESS](https://web.archive.org/business/)  
-[FINANCE CENTER](https://web.archive.org/business/finance.html)  
-[CYBERNEWS](https://web.archive.org/cybernews/)  
-[SPORTS](https://web.archive.org/sports/)  
-[NEWS LINKS](https://web.archive.org/news/newslinks.html)  
-   
+[**News**](https://web.archive.org/index.html)  
+[Top Story](http://www.nwcn.com/)  
+[Washington](https://web.archive.org/washingtonnews/)  
+[Oregon](https://web.archive.org/oregonnews/)  
+[Idaho](https://web.archive.org/idahonews/)  
+[Environment *New](https://web.archive.org/environment/)  
+[Seattle News](https://web.archive.org/news/seattlenews.html)  
+[Tax Center](https://web.archive.org/news/taxcenter/)  
+[Lifestyles](https://web.archive.org/nwlife/)  
+[NW Politics](https://web.archive.org/nwvote2000)  
+[Beyond The NW](https://web.archive.org/national/)  
+[Health](https://web.archive.org/health/)  
+[Entertainment](https://web.archive.org/entertainment/)  
+[NW Travel Guide](https://web.archive.org/nwtravelguide/)  
+[Business](https://web.archive.org/business/)  
+[Finance Center](https://web.archive.org/business/finance.html)  
+[NW NetWatch](https://web.archive.org/netwatch/)  
+[Sports](https://web.archive.org/sports/)  
+[News Links](https://web.archive.org/news/newslinks.html)  
   
 | 
 
   
-**OREGON NEWS**
+**PRIVACY POLICY**
 
 **
 
@@ -87,81 +90,23 @@ Belo Interactive cares about the safety of children and their use of the Interne
 This Privacy Policy is effective as of April 11, 2000. Belo Interactive reserves the right to modify the terms of this policy at any time and in our sole discretion, by posting a change notice to this page. Your continued use of the Site following our posting of a change notice will constitute binding acceptance of those changes.
 
 |  |   
-[](http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.nwcn.com/news/583220308/Position1/default/empty.gif/64316637323864633361326330636130)  
-[](http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.nwcn.com/news/581531241/Position2/default/empty.gif/64316637323864633361326330636130)  
+[](http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.nwcn.com/index.html/1484715532/Position1/default/empty.gif/64316637323836393362313962636630)
+
+[](http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.nwcn.com/index.html/797815939/Position2/NWCNMyWeather002A/MyCast120x60.gif/64316637323836393362313962636630)
+
 |   
 ---  
 **NW Headlines**  
   
-500 Servlet Exception `
-    
-    
-    java.lang.NullPointerException
-    	at java.io.File.<init>(File.java:181)
-    	at _jsp._www__nwcn__com_0._indexinclude2__jsp.getLastModified(/indexinclude2.jsp:2)
-    	at com.caucho.jsp.Page.service(Page.java:245)
-    	at com.caucho.jsp.QServlet.service(QServlet.java:161)
-    	at com.caucho.server.http.AbstractRequest.service(AbstractRequest.java:450)
-    	at com.caucho.server.http.AbstractRequest.service(AbstractRequest.java:393)
-    	at com.caucho.server.http.PageCache$Entry.service(PageCache.java:252)
-    	at com.caucho.server.http.PageCache.service(PageCache.java:103)
-    	at com.caucho.server.http.VirtualHost.service(VirtualHost.java:394)
-    	at com.caucho.server.http.Request.dispatch(Request.java:210)
-    	at com.caucho.server.http.RunnerRequest.handleRequest(RunnerRequest.java:302)
-    	at com.caucho.server.http.RunnerRequest.handleConnection(RunnerRequest.java:257)
-    	at com.caucho.server.TcpConnection.run(TcpConnection.java:145)
-    	at java.lang.Thread.run(Thread.java:475)
-    
-
-`
+404 Not Found /indexinclude2.jsp was not found on this server.
 
 * * *
 
-Resin 1.1.1 -- Thu Apr 27 13:36:04 PDT 2000  500 Servlet Exception `
-    
-    
-    java.lang.NullPointerException
-    	at java.io.File.<init>(File.java:181)
-    	at _jsp._www__nwcn__com_0._indexinclude2__jsp.getLastModified(/indexinclude2.jsp:2)
-    	at com.caucho.jsp.Page.service(Page.java:245)
-    	at com.caucho.jsp.QServlet.service(QServlet.java:161)
-    	at com.caucho.server.http.AbstractRequest.service(AbstractRequest.java:450)
-    	at com.caucho.server.http.AbstractRequest.service(AbstractRequest.java:393)
-    	at com.caucho.server.http.PageCache$Entry.service(PageCache.java:252)
-    	at com.caucho.server.http.PageCache.service(PageCache.java:103)
-    	at com.caucho.server.http.VirtualHost.service(VirtualHost.java:394)
-    	at com.caucho.server.http.Request.dispatch(Request.java:210)
-    	at com.caucho.server.http.RunnerRequest.handleRequest(RunnerRequest.java:302)
-    	at com.caucho.server.http.RunnerRequest.handleConnection(RunnerRequest.java:257)
-    	at com.caucho.server.TcpConnection.run(TcpConnection.java:145)
-    	at java.lang.Thread.run(Thread.java:475)
-    
-
-`
+Resin 1.1.1 -- Thu Apr 27 13:36:04 PDT 2000  404 Not Found /indexinclude2.jsp was not found on this server.
 
 * * *
 
-Resin 1.1.1 -- Thu Apr 27 13:36:04 PDT 2000  500 Servlet Exception `
-    
-    
-    java.lang.NullPointerException
-    	at java.io.File.<init>(File.java:181)
-    	at _jsp._www__nwcn__com_0._indexinclude2__jsp.getLastModified(/indexinclude2.jsp:2)
-    	at com.caucho.jsp.Page.service(Page.java:245)
-    	at com.caucho.jsp.QServlet.service(QServlet.java:161)
-    	at com.caucho.server.http.AbstractRequest.service(AbstractRequest.java:450)
-    	at com.caucho.server.http.AbstractRequest.service(AbstractRequest.java:393)
-    	at com.caucho.server.http.PageCache$Entry.service(PageCache.java:252)
-    	at com.caucho.server.http.PageCache.service(PageCache.java:103)
-    	at com.caucho.server.http.VirtualHost.service(VirtualHost.java:394)
-    	at com.caucho.server.http.Request.dispatch(Request.java:210)
-    	at com.caucho.server.http.RunnerRequest.handleRequest(RunnerRequest.java:302)
-    	at com.caucho.server.http.RunnerRequest.handleConnection(RunnerRequest.java:257)
-    	at com.caucho.server.TcpConnection.run(TcpConnection.java:145)
-    	at java.lang.Thread.run(Thread.java:475)
-    
-
-`
+Resin 1.1.1 -- Thu Apr 27 13:36:04 PDT 2000  404 Not Found /indexinclude2.jsp was not found on this server.
 
 * * *
 
