@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isbe.net privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208155023id_/http%3A//isbe.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isbe.net privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603080939id_/http%3A//isbe.net/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -102,7 +102,7 @@ Users are cautioned that the collection of personal information volunteered by c
 
 **Links to Other Sites**
 
-The ISBE Web site often provides a number of links that offer direct access to other useful or interesting web sites holding potential value to site visitors. Inclusion of the other sites by links does not imply any endorsement by ISBE of the material or information on the other sites. 
+The ISBE Web site often provides a number of links that offer direct access to other useful or interesting educational web sites holding potential value to site visitors. Inclusion of the other sites by links does not imply any endorsement by ISBE of the material or information on the other sites. 
 
 We encourage users to review the privacy policy of each linked site, as we are not responsible for the privacy practices of other sites. Users assume sole responsibility for use of third-party links and any disclaimers set forth herein are applicable to such third-party sites. 
 
