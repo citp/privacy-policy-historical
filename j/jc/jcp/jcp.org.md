@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jcp.org privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601071955id_/http%3A//www.sun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcp.org privacy policy that was archived on 2002-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021121085422id_/http%3A//www.sun.com/privacy) for the most accurate reproduction.*
 
 # Sun Microsystems - Sun Online Privacy Policy
 
@@ -122,3 +122,6 @@ Back to top
 By using this Web site, you consent to the terms of our Online Privacy Policy and to Sun's processing of Personal Information for the purposes given above as well as those explained where Sun collects Personal Information on the Web. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time.
 
 Back to top
+
+v.2.0  
+May 22, 2001 
