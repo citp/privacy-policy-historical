@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medhunters.com privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613045720id_/http%3A//www.medhunters.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medhunters.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201204445id_/http%3A//www.medhunters.com/privacy.html) for the most accurate reproduction.*
 
 # MedHunters.com: Advertising Rates
 
@@ -14,7 +14,7 @@
 > 
 > On our site, in certain areas, such as Jobseeker registration, or Employer account areas, we ask for information that offers you the option of providing us with your name, address, phone number, fax number, email address, demographic, preference and other personal information, and various other kinds of details. We gather this personal information with your knowledge, and active permission and participation. This personal information is not shared with a third party except for the purpose of processing your order or matching you with job opportunities, and then, only with your written or expressed consent. 
 > 
-> Our site does not use cookies. However, HumanClick provides the live help feature we use, and they use cookies. Any cookies you receive while on our site may appear to be coming from our server, but in reality they are coming from HumanClick. We do not have access to any information about you from cookies you might receive while visiting our site.
+> In addition, our site does not use cookies. We do not track any information based on your visits, other than the information you provide on your own. 
 
 **Specific Information We Collect About Our Visitors**
 
