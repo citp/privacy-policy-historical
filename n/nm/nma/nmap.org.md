@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nmap.org privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205104503id_/http%3A//nmap.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmap.org privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017064440id_/http%3A//www.nmap.org/privacy.html) for the most accurate reproduction.*
 
 # Insecure.org Privacy Policy
 
