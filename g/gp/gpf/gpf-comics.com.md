@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gpf-comics.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212072902id_/http%3A//www.gpf-comics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpf-comics.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605050357id_/http%3A//gpf-comics.com/privacy.html) for the most accurate reproduction.*
 
 # GPF: Privacy Statement and Ad Info
 
-Last updated June 7, 2001
+Last updated January 18, 2002
 
 Privacy Statement | Our Policy on and Use of "Cookies"  
 Advertiser Information | Sonar/DoubleClick "Opt Out"
@@ -19,9 +19,9 @@ In the event we may run future contests, we may require you to enter small amoun
 
 ### Our Policy on and Use of "Cookies"
 
-For the uninitiated, "cookies" are small snippets of text information stored on your hard drive, saved by your browser. Cookies have a multitude of uses, usually helping maintain state information between pages (such as an online shopping cart system, or perhaps a [game](https://web.archive.org/web/20011212072902id_/http%3A//www.gpf-comics.com/games/gandalf/)). Cookies can and have been used by others for malicious purposes; please rest assured that we here at **GPF** will never use cookies in such a manner.
+For the uninitiated, "cookies" are small snippets of text information stored on your hard drive, saved by your browser. Cookies have a multitude of uses, usually helping maintain state information between pages (such as an online shopping cart system, or perhaps a [game](https://web.archive.org/web/20020605050357id_/http%3A//gpf-comics.com/games/gandalf/)). Cookies can and have been used by others for malicious purposes; please rest assured that we here at **GPF** will never use cookies in such a manner.
 
-As a general rule, this site does not use cookies for your basic **GPF** experience (the comic, archives, most fun extras). Our web server may attempt to attach a cookie to your browser on your first visit, but this action is beyond our control and we cannot turn it off. (Subsequently, we will never use this particular cookie for any purpose, either.) Some of our [Geeky Games](https://web.archive.org/web/20011212072902id_/http%3A//www.gpf-comics.com/games/) may use cookies to maintain state information, and we may use cookies to help identify your browser in the case of a contest, as mentioned above. Our [Archives](https://web.archive.org/web/20011212072902id_/http%3A//www.gpf-comics.com/archive/) have a voluntary bookmark feature that also uses a cookie to keep track of where you left off. These cookies will never be set without your knowledge; we will always tell you up front what's going on before it happens, so you can elect not to participate in or use these features if you feel uncomfortable. In most cases, we will also provide some method of destroying the cookie and thus "unbranding" your browser if the feature is no longer needed or desired.
+As a general rule, this site does not use cookies for your basic **GPF** experience (the comic, archives, most fun extras). Our web server may attempt to attach a cookie to your browser on your first visit, but this action is beyond our control and we cannot turn it off. (Subsequently, we will never use this particular cookie for any purpose, either.) Some of our [Geeky Games](https://web.archive.org/web/20020605050357id_/http%3A//gpf-comics.com/games/) may use cookies to maintain state information, and we may use cookies to help identify your browser in the case of a contest, as mentioned above. Our [Archives](https://web.archive.org/web/20020605050357id_/http%3A//gpf-comics.com/archive/) have a voluntary bookmark feature that also uses a cookie to keep track of where you left off. These cookies will never be set without your knowledge; we will always tell you up front what's going on before it happens, so you can elect not to participate in or use these features if you feel uncomfortable. In most cases, we will also provide some method of destroying the cookie and thus "unbranding" your browser if the feature is no longer needed or desired.
 
 We cannot be held responsible for any use of cookies, legitimate or otherwise, made by our advertisers.
 
@@ -36,6 +36,7 @@ There have been, in some cases, advertisers who have displayed ads on our site t
 Each advertiser usually maintains their own privacy policies and procedures. For your convenience, we've included links to their privacy pages here:
 
   * [Engage (Flycast) Privacy Statement](http://www.engage.com/privacy/)
+  * [Sonar/DoubleClick Privacy Statement](http://www.doubleclick.net/us/corporate/privacy/default.asp)
   * [BURST! Media Privacy Statement](http://www.burstmedia.com/release/privacy.asp)
   * [Adtegrity Privacy Statement](http://www.adtegrity.com/privacy.asp)
 
@@ -47,7 +48,7 @@ In addition, Keenspot has now launched [Keenspot PREMIUM](http://www.keenspot.co
 
 ### Sonar/DoubleClick "Opt Out"
 
-_**Please Note: GPF** and Keenspot no longer are using Sonar/DoubleClick for our advertising. However, because we feel this information is still valuable, we will retain this "opt out" link as a public service to our readers. Many sites across the 'Net use DoubleClick, and the vast overwhelming majority of them do not make this information available. We, being the savvy Netizens we are, want you to be informed and prepared for whatever these folks my throw at you. Isn't that special?_
+_**Update:** After a period of being DoubleClick-free, Keenspot is now showing DoubleClick ads again as part of a campaign with another company. Therefore, the "opt out" link is imperative again. We encourage all readers to "out out" of their tracking system by clicking the link below and following the instructions. Keep in mind that you need to do this for every browser you use, since cookies do not transfer between browser implementations._
 
 Many of you may already be aware that [Sonar](http://www.sonar.com/) and its parent company, [DoubleClick](http://www.doubleclick.net/), have been the center of some debate concerning online privacy. To summarize, DoubleClick merged with another company which specialized in maintaining large marketing databases containing the names, addresses, and other contact information for many, many consumers. DoubleClick announced their plans to connect their current Web surfing tracking database with this marketing database, a move which, in short, would enable them to connect an individual's Web surfing habits with their personal contact information. Up until this announcement, Web surfing has largely been an anonymous activity. Many privacy advocates cried foul over the announcement and, under a great deal of pressure from the Internet community, DoubleClick backed down and promised not to pursue this activity... _for the time being._
 
