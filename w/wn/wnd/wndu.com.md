@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wndu.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604040136id_/http%3A//wndu.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wndu.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201233819id_/http%3A//wndu.com/about/privacy.php) for the most accurate reproduction.*
 
 # WNDU-TV: About WNDU
 
@@ -48,20 +48,28 @@ If you have any questions or concerns about the WNDU-TV's online policy for this
 ---  
 |  |   
 |  |    
-[New Paris fire](https://web.archive.org/news/062001/news_8040.php)  
+[EMS workers arrested for 9-11 scam](https://web.archive.org/news/122001/news_11090.php)  
   
-[Isreal mourns after attack](https://web.archive.org/news/062001/news_8039.php)  
+[Irish coaches have resigned under different circumstances](https://web.archive.org/news/122001/news_11089.php)  
   
-[Teacher layoffs](https://web.archive.org/news/062001/news_8034.php)  
+[Fort Hood's 428th Company homesick](https://web.archive.org/news/112001/news_11085.php)  
   
-[Strawberry season unpredictable](https://web.archive.org/news/062001/news_8032.php)  
+[Connecticut: Anthrax spores detected on letter](https://web.archive.org/news/112001/news_11084.php)  
+  
+[Davie denies report on firing](https://web.archive.org/news/112001/news_11083.php)  
+  
+[Afghanistan: Opposition closes in on Kandahar](https://web.archive.org/news/112001/news_11077.php)  
   
   
-[Kuerten, Capriati advance](https://web.archive.org/sports/062001/sports_8038.php)  
+[](https://web.archive.org/sports/122001/sports_11092.php)[High School basketball scores](http://www.wndu.com/sports/hsfootball/scores.php)  
   
-[Woods wins Memorial Tourney](https://web.archive.org/sports/062001/sports_8037.php)  
+[Austrailia reaches Davis Cup Final...again](https://web.archive.org/sports/112001/sports_11087.php)  
   
-[Webb wins U.S. Womens Open](https://web.archive.org/sports/062001/sports_8036.php)  
+[Chicago wins in battle of worst teams](https://web.archive.org/sports/112001/sports_11075.php)  
+  
+[Irish and Boilers ready for Saturday](https://web.archive.org/sports/112001/sports_11074.php)  
+  
+[Eagles over Chiefs in KC](https://web.archive.org/sports/112001/sports_11073.php)  
   
 |  |   
 |  |   
