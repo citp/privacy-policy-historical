@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asianeuro.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208215804id_/http%3A//www.asianeuro.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianeuro.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622194105id_/http%3A//asianeuro.com/Privacy.htm) for the most accurate reproduction.*
 
 # asianeuro.com - Privacy Policy
 
@@ -61,6 +61,6 @@ If you become a member we collect all of the information that you fill out in th
 
 This Privacy Statement was last reviewed in April 2001. It is subject to change from time to time due to developments in technology and new laws.
 
-[Home ](https://web.archive.org/web/20021208215804id_/http%3A//www.asianeuro.com/default.htm)
+[Home ](https://web.archive.org/web/20030622194105id_/http%3A//asianeuro.com/default.htm)
 
  
