@@ -1,60 +1,61 @@
-> *The following text is extracted and transformed from the starfinancial.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204084500id_/http%3A//www.starfinancial.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starfinancial.com privacy policy that was archived on 2001-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010619093324id_/http%3A//www.starfinancial.com/privacy.html) for the most accurate reproduction.*
 
 # STAR Financial Bank’s Customer Privacy Statement
 
-  
-[](https://web.archive.org/web/20001204084500id_/http%3A//www.starfinancial.com/q-up/index.html)  
-  
-[](https://web.archive.org/web/20001204084500id_/http%3A//www.starfinancial.com/pb/index.html)  
-  
-[](https://web.archive.org/web/20001204084500id_/http%3A//www.starfinancial.com/bb/index.html)  
-  
-[](https://web.archive.org/web/20001204084500id_/http%3A//www.starfinancial.com/cs/index.html)  
-  
-[](https://web.archive.org/web/20001204084500id_/http%3A//www.starfinancial.com/ab/index.html)  
-  
-[](https://web.archive.org/web/20001204084500id_/http%3A//www.starfinancial.com/pb/apply.html)  
-  
-[](https://web.archive.org/web/20001204084500id_/http%3A//www.starfinancial.com/index.html)  
+Important Information Regarding Your Privacy
 
+At STAR Financial Bank, the basis of each client relationship is trust. You have chosen to do business with STAR, and we are committed to honoring that relationship with great care, beginning with the information you have chosen to share with us. We value your trust, and we recognize you have a right to expect your personal financial information to remain private and secure. At the same time, we want to offer you the array of financial products and services you need to accomplish your financial goals. We believe we can do both through the Privacy Policy outlined below.
 
-| 
+What Information We Collect  
+1\. STAR only collects and maintains the information necessary to administer your business with us and to advise you about our products and services and other opportunities that we feel may be of interest to you. We collect nonpublic personal information about you from the following sources:
 
-> ### Your Privacy is STAR’s Priority ** **
-> 
-> At STAR, our customers are our highest priority.  So naturally we want to protect the personal and financial information you’ve entrusted with us.   For this reason, we would like to explain some of our procedures, which are intended to protect your privacy. 
-> 
-> 1)      **Restrictions on the Disclosure of Account Information**
-> 
-> Financial institutions should not reveal specific information about customer accounts or other personally identifiable data to unaffiliated third parties for their independent use, except for the exchange of information with reputable information reporting agencies to maximize the accuracy and security of such information or in the performance of bona fide corporate due diligence, unless 1) the information is provided to help complete a customer initiated transaction; 2) the customer requests it; 3) the disclosure is required by/or allowed by law (e.g., subpoena, investigation of fraudulent activity, etc); or 4) the customer has been informed about the possibility of disclosure for marketing or similar purposes through a prior communication and is given the opportunity to decline (i.e., “opt out”).  
-> 
-> 2)      **Information We Share with Consumer Reporting Agencies**
-> 
-> It is commonplace for financial institutions like STAR to share information about customer accounts with consumer reporting agencies.  However, if you believe some of the information we have shared or may share is in error, please let us know by writing to: STAR Financial Bank, 
-> 
-> 3)      **Information We Share within STAR**
-> 
-> To be able to respond to your inquiries and determine which STAR products would be most useful to you, our Web server automatically recognizes the consumer’s domain name and e-mail address.  We collect the e-mail addresses of those who communicate with us via e-mail.  We also collect information on what page consumers access or visit and information volunteered by the consumer, such as application and survey information.   The information we collect is used to: improve the content of our Web for your future visits, customize the content and/or layout of our pages for each individual consumer, notify consumers about updates to our Web site, and notify consumers of new products. 
-> 
-> 4)      **Promotional Offers We Share with You**
-> 
-> If we have a promotional offer or product which we think would be of interest to you, we may let you know by mail, phone, e-mail, and sometimes with the help of a third-party communication company.  In all cases, we only work with approved vendors who meet our security and privacy concerns and who agree, in writing, to hold confidential all customer information and allow us to check their practice of our strict standards. 
-> 
-> Many customers find these special offers helpful, as they are informative and sometimes communicate special pricing. 
-> 
-> 5)      **Limiting Employee Access to Information**
-> 
-> We seek to limit employee access to personally identifiable information to those with a business reason for knowing such information.  STAR believes in educating employees so that they will understand the importance of confidentiality and customer privacy and believes in taking appropriate measures to enforce employee privacy responsibilities. 
-> 
-> 6)      **How We Respect Your Right to be Left Alone**
-> 
-> We will not use or allow others to use our customer information except to offer customer products or services we believe to be of interest to them. 
-> 
-> Do Not Call List.  At your request, we’ll put you on our Do Not Call List excluding you from all telephone solicitations by STAR.  Just write us at Customer Support, Do Not Call Request, STAR Financial Bank, P. O. Box 967, Marion, IN   46952. 
-> 
-> You must include complete and legible information about each name, address and phone number to be excluded.  If you have moved or changed your name or phone number, please include your old name, address, and phone number as well as your new name, address and phone number.  It may take up to 12 weeks for your request to be completely fulfilled.   STAR is not responsible for the services or actions of the Direct Marketing Association. 
-> 
-> ### Thank You
-> 
-> At STAR, your business is very important to us and we do our best to ensure your happiness.  If at any time we can help you further, please do not hesitate to call 1-800-395-7827.  
-> 
+• Information we receive from you on applications or other forms;  
+• Information about your transactions with us, our affiliates, or others; and  
+• Information we receive from a consumer reporting agency.
+
+What Information We Disclose  
+2\. We may disclose all of the information that we collect with affiliated or nonaffiliated companies: 1) if you, our customer, requests or authorizes it; 2) if the information is provided to help complete a transaction initiated by you; 3) if the information is provided to a reputable credit bureau or similar information reporting agency; 4) that perform marketing services on our behalf; 5) with whom we have joint marketing agreements; and 6) if the disclosure is required by law or our regulators.
+
+We may disclose the following kinds of nonpublic personal information about you:  
+• Information we receive from you on applications or other forms, such as your name, address and social security   number;  
+• Information about your transactions with us, our affiliates, or others, such as your account balance, payment   history and parties to transactions.
+
+We may disclose to the following types of non-affiliated companies:  
+• Financial service providers such as mortgage bankers, securities broker-dealers and insurance agents;  
+• As permitted by law.
+
+If you prefer that we do not disclose nonpublic personal information about you to nonaffiliated third parties, you may opt out of those disclosures, that is you may direct us not to make those disclosures (other than disclosures permitted by law). If you wish to opt out of disclosures to nonaffiliated third parties, you may call your local STAR Financial Bank office at the number listed below to reach our Customer Service Department.
+
+Anderson, IN (765) 622-4107  
+Angola, IN (219) 665-2151  
+Carmel, IN (317) 816-2907  
+Columbia City, IN (219) 248-6007  
+Elwood, IN (765) 552-4507  
+Fort Wayne, IN (219) 467-5507  
+Hamilton, IN (219) 488-2119  
+Kokomo, IN (765) 868-3807  
+Marion, IN (765) 651-6807  
+Muncie, IN (765) 751-3507  
+New Castle, IN (765) 593-5107
+
+If you are outside of a STAR local service area,call our toll-free number at 888-395-2447. Or e-mail us at [custserv@starfinancial.com](mailto:custserv@starfinancial.com).
+
+How We Protect Your Information  
+3\. STAR safeguards, according to our strict standards of confidentiality, any information our customers share with us. Customer records are securely stored at all times. We continuously strive to maintain complete and accurate information about you and your accounts. Should you ever believe that our records contain inaccurate or incomplete information about you, please notify us. We will investigate your concerns and correct any inaccuracies.
+
+4\. Access to nonpublic, personal information is limited to employees with a valid business reason for having such access. Employees are trained to understand and comply with our information principles, and any employee who violates our Privacy Policy will be subject to disciplinary action.
+
+5\. When it comes to sharing customer information with nonaffiliated companies, STAR places strict limits on who receives specific information about customer accounts or other personally identifiable data. To protect your privacy, we only work with companies that agree to safeguard your information and to use that information only for the intended purpose. We do not permit these companies to sell to other third parties the information we provide to them.
+
+What You Can Expect From STAR  
+6\. We will inform you of our Privacy Policy initially and annually of how to remove your name from our marketing lists. You may contact us to remove your name from our lists at any time by calling your local STAR Financial Bank office and asking for our Customer Service Department. If you have any questions about STAR’s Privacy Policy, please contact us.
+
+You Can Help  
+Protect your account numbers, PINs (personal identification numbers) and passwords. NEVER keep your PIN with your debit, ATM or credit cards. If your card is lost or stolen, thieves will try the numbers they find in your wallet or billfold in an attempt to access your accounts.
+
+Be careful about disclosing your account numbers, your social security number and any other personal numbers to others. If someone calls you, claiming to be the bank and asking for your ac-count number—Don't tell. A bank representative will have access to your information and will notneed to ask for it.
+
+Keep your information current. If we suspect fraudulent or unauthorized activity on your account, we will attempt to contact you immediately. Please inform us of changes in your address or phone number.
+
+Member FDIC  
+
