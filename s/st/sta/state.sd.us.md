@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state.sd.us privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402135928id_/http%3A//www.state.sd.us/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.sd.us privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204195147id_/http%3A//www.state.sd.us/privacy.htm) for the most accurate reproduction.*
 
 # State of South Dakota Privacy Policy
 
@@ -26,4 +26,4 @@
 **Contact Information  
 **   The State welcomes comments regarding this privacy statement. Please convey any questions or concerns to: 
 
-Dale Luckhurst, Bureau of Information and Telecommunications: (605) 773-5545.   E-mail: [Dale Luckhurst](mailto:dale.luckhurst@state.sd.us).
+Bureau of Information and Telecommunications: (605) 773-3416.  E-mail: [ Service.Direct@state.sd.us](mailto:Service.Direct@state.sd.us?subject=Privacy%20Policy%20Question/Concern)
