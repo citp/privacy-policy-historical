@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the llbean.com privacy policy that was archived on 2000-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001201235800id_/http%3A//llbean.com/customerService/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the llbean.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607185615id_/http%3A//www.llbean.com/customerService/privacy/index.html) for the most accurate reproduction.*
 
 # About Your Privacy
 
