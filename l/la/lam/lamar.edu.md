@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lamar.edu privacy policy that was archived on 2000-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001208122700id_/http%3A//www.lamar.edu/contact/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lamar.edu privacy policy that was archived on 2001-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010614023254id_/http%3A//www.lamar.edu/contact/privacypolicy.htm) for the most accurate reproduction.*
 
 # Lamar University: Contact Us
 
