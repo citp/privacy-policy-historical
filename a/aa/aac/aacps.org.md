@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aacps.org privacy policy that was archived on 2004-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041215094659id_/http%3A//www.aacps.org/aacps/boe/HR/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aacps.org privacy policy that was archived on 2005-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050322065423id_/http%3A//www.aacps.org/aacps/boe/HR/privacy.htm) for the most accurate reproduction.*
 
 # Anne Arundel County - Web Privacy Policy
 
