@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wisconsindot.gov privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012225820id_/http%3A//www.wisconsindot.gov/util/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisconsindot.gov privacy policy that was archived on 2005-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050302040341id_/http%3A//www.wisconsindot.gov/util/privacy.htm) for the most accurate reproduction.*
 
 # Privacy notice - Wisconsin Department of Transportation
 
