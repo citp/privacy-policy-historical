@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the alltheparties.com privacy policy that was archived on 2001-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011024015635id_/http%3A//alltheparties.com/index.php%3Fmainact%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltheparties.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209112404id_/http%3A//www.alltheparties.com/index.php%3Fmainact%3Dprivacy) for the most accurate reproduction.*
 
 # Allnightclubs.com's Privacy Policy
 
 **_Privacy Policy for AllNightclubs.com_**
 
- **Netstudent.com, LLC** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.AllNightclubs.com. 
+ **Allnightclubs.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.AllNightclubs.com. 
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information. 
 
@@ -58,7 +58,7 @@ This site gives users the following options for changing and modifying informati
 if you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
 _Samuel O. Obukwelu  
-Netstudent.com, LLC  
+Allnightclubs.com  
 PO Box 1454  
 New York, NY 10027  
 Sam@allnightclubs.com_
