@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fborfw.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621130710id_/http%3A//www.fborfw.com/privacy/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fborfw.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209110651id_/http%3A//www.fborfw.com/privacy/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement, For Better or For Worse - Official website for Lynn Johnston's comic strip family
 
@@ -34,8 +34,8 @@ Questions regarding our privacy policy, the accuracy of your personal informatio
 
 www.fborfw.com  
 Web Privacy Policy  
-304 MacPherson Drive  
-Cobeil, ON, Canada  
+353 MacPherson Drive  
+Corbeil, ON, Canada  
 P0H 1K0
 
 We use our best efforts to ensure the security of personal information submitted by users. When collecting credit card information for on-line purchases, we offer secured-server transactions that encrypt your information in transit to thwart someone from intercepting it and misusing it. When we collect other information from our users, it is stored in an area where the general public does not have access to it. Unfortunately, no electronic communication over the internet can be guaranteed 100% secure and Lynn Johnston Productions Inc. cannot warrant the security of any information that you submit to us, and you do so at your own risk.
