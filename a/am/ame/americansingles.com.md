@@ -1,65 +1,112 @@
-> *The following text is extracted and transformed from the americansingles.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604023003id_/http%3A//www.americansingles.com/pagetext/default.asp%3Fapplicationid%3D36%26pagetextname%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americansingles.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215172127id_/http%3A//www.americansingles.com/default.asp%3Fp%3D13000%26CategoryID%3D1022) for the most accurate reproduction.*
 
-# 
+# AmericanSingles.com - Free personals, online dating, chat, millions of members
 
-|   
-**[Home](https://web.archive.org/)[ Join](https://web.archive.org/registration/)[Login](https://web.archive.org/logon.asp)[Member Services](https://web.archive.org/memberservices/default.asp)** |   
+**Privacy Statement for www.americansingles.com**
 
+MatchNet plc has created this Privacy Statement (Policy) in order to demonstrate our firm commitment to helping our users better understand what information we collect about them and what may happen to that information. 
 
-**Privacy Statement for www.AmericanSingles.com  
-** | **Our postal address is:**  
----  
-|   
-AmericanSingles.com  
-c/o MatchNet PLC  
-270 N. Canon Dr.   
-# 1207  
-Beverly Hills, CA 90210 |   
-  
-MatchNet PLC has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.AmericanSingles.com. 
+The following discloses our information gathering and dissemination practices for this website: www.AmericanSingles.com. ****
 
-  1. Our membership registration form requires you to provide various information. This information is divided into the following sections:
+**Overview**
 
- **Confidential information:** Including your first and last names, your full address and your telephone number. **This information will never be sold or disclosed or otherwise made available to third parties!** We will only disclose your personal information if required by law.. **
+ ****
 
-Email Address:
+As part of the normal operation of our services we collect and, in some cases, may disclose information about you. This Privacy Policy describes the information we collect about you and what may happen to that information.
 
-** **We do not disclose your email address nor do we sell it or make it available to any third party.** Notwithstanding, when you send an introductory note through our system to another member, your email address is included in that note so that the recipient can respond to you. Further, AmericanSingles.com may contact you via email, from time to time, to inform you about upgrades and improvements of the system and of special promotions or events. The only way to remove yourself from such mailings is to suspend your membership.
+By accepting this Privacy Policy and our Terms and Conditions, you expressly consent to our use and disclosure of your personal information in the manner prescribed in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the MatchNet Terms and Conditions.
 
- **Profiling information:** This information comprises your online AmericanSingles.com profile and is available to anybody that views your profile on AmericanSingles.com. Your profile, however, does not include any identifying information about you, exclusive of the screen name that you chose at the time of registration.
+The privacy practices of this statement apply to the AmericanSingles.com web site (the 'Site'). All other MatchNet companies worldwide operate under similar privacy practices as described in this Privacy Policy, and subject to the requirements of applicable local law, we strive to provide a consistent set of privacy practices throughout the MatchNet dating sites.
 
- **Contact Us:** When you contact AmericanSingles.com by clicking on the Contact Us button, our customer service department receiver's your communication together with your email address and information about your computer that includes the type (Pentium, Mac, etc.) operating system and the browser that you use. This information is very useful to us for addressing your question, especially if it involves a technical difficulty. We do not make this information available to any person outside the AmericanSingles.com organization.
+1\. **A Special Note About Children**
 
-  2. We may document your IP address, browser type and other technical information for use in diagnosing problems with our server, manage security and for demographic reference.
+ ****
+
+Children are not eligible to use our services, and we ask that minors (under the age of 18) do not submit any personal information to us. If you are a minor, you can use this service only in conjunction with your parents or guardians.
+
+2\. **Information We Collect**
+
+ ****
+
+Our primary goal in collecting personal information is to provide you with a smooth, efficient, and customized experience. This allows us to provide services and features that most likely meet your needs and to customize our service to make your experience easier. Your name, address and telephone number are confidential and will not be posted in your profile. Your profile is available for other members to view on the Site. Members' profiles include a description and photos, likes and dislikes, individual essays and other information helpful in determining matches. Your viewable profile does not include any identifying information about you, except the screen name you chose upon registering. We do not disclose your email address nor do we sell it or make it available to any third party other than as outlined in more detail in this Privacy Policy. However, when you send an introductory note through our system to another member, your email address is included in that note so that the recipient can respond to you.
+
+Under some circumstances we may require some additional information, such as, but not limited to credit card details. We use this financial information, including your name, address, and other information, as well as to bill you for use of our services.
+
+We automatically track certain information based upon your behaviour on our site using cookies and other devices. We use this information to internal research on our members' demographics, interests, and behaviour to better understand and serve you and our community. This information may include the URL that you just came from (whether this URL is on our site or not). Which URL you next go to (whether this URL is on our site or not), what browser you are using, and your IP address.
+
+We use data collection devices such as "cookies" on certain pages of our site. "Cookies" are small files placed on your hard drive that assist us in providing customized services. We also offer certain features that are only available through the use of a "cookie". Cookies can also help us provide information which is targeted to your interests. Most cookies are "session cookies", meaning that they are automatically deleted from your hard drive at the end of a session. You are always free to decline our cookies if your browser permits.
+
+3\. **Our Use of Your Information.**
+
+ ****
+
+We use information in the files we maintain about you, and the other information we obtain from your current and past activities on the Site to resolve disputes, troubleshoot problems and enforce our Terms and Conditions. At times, we may look across multiple members to identify problems or resolve disputes, and in particular we may examine your information to identify members multiple Member ID No. or aliases.
+
+You agree that we may use personally identifiable information about you to improve our marketing and promotional efforts, to analyse site usage, improve our content and product offerings, and customize our Site's content, layout, and services. These uses improve our site and better tailor it to meet your needs.
+
+You agree that we may use your information to contact you and deliver information to you that, in some cases, are targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the Site. By accepting Privacy Policy, you expressly agree to receive this information. If you do not wish to receive these communications, we encourage you to opt out of the receipt of certain communications by sending an email to comments@americansingles.com.
+
+4\. **Our Disclosure of Your Information**
+
+ ****
+
+Due to the existing regulatory environment, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting and foregoing), we may be forced to disclose information to the government, law enforcement agencies or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or members may abuse or misuse your information that they collect from our Site. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personally identifiable information or private communications will always remain private.
+
+As a matter of policy, we **do not** sell or rent any personally identifiable information about you to any third party. However, the following describes some of the ways that your personally identifiable information may be disclosed.
 
 ****
 
-**Security  
-** This AmericanSingles.com database resides behind firewalls in order to protect against the loss, misuse and alteration of the information under our control. We have taken preventive measures to restrict access to sensitive data, as well as to detect and prohibit certain connections and operations by unauthorized users. While our measures exceed industry standards, no claim is made as to the impenetrability of the system under unusual circumstance or its resilience to future attacks.  
-
-
-**Choice/Opt-Out  
-** AmericanSingles.com periodically sends email to its members in order to inform them of new services, improvements, scheduled service interruptions, etc. Our members can opt-out of receiving communications from us by suspending their membership. 
-
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
-
-  1. You can send email to [_Info@AmericanSingles.com_](mailto:Info@AmericanSingles.com)
-  2. You can send mail to one of the postal addresses that appear at the top of this screen.
-  3. You can go to [http://www.AmericanSingles.com/subscriptions/default.asp?p=127005](https://web.archive.org/subscriptions/default.asp?p=127005) and suspend your AmericanSingles.com membership.
+**Advertisers.** We aggregate (gather up data across all our members accounts) personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for other marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to identify you personally. Certain information, such as your name, email address, password, credit card number and bank account number, are never disclosed to marketing advertisers.
 
 ****
 
-**Correct/Update  
-** You can change or update all your personal information (exclusive of your first and last name) online by going to [www.AmericanSingles.com](http://www.americansingles.com/), logging in as a member, and clicking on Member Services. 
+**External Service Providers.** There are a number of services offered by external service providers that help you use our Site (e.g. co-branded sites, listing agents, escrow, authentication, mediation). If you choose to use these optional services, and in the course of doing so, disclose information to the external service providers, and/or grant them permission to collect information about you, then their use of your information is governed by their private policy.
 
 ****
 
-**Contacting the Web Site  
-** If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact AmericanSingles.com via post at one of the addresses at the top of this screen, clicking on the **_Contact Us_** button or by emailing to [Info@AmericanSingles.com](mailto:info@AmericanSingles.com)
+**Other Corporate Entities.** We share much of our data, including personally identifiable information about you, with our parent, affiliates, subsidiaries and joint ventures that are committed to serving your online needs and related services, throughout the world. To the extent that these entities have access to your information, they will treat it at least as protectively as they treat information they obtain from their other members. Our parent, affiliates, subsidiaries and joint ventures will follow privacy practices no less protective of all members than our practices described in this document, to the extent allowed by applicable law. It is possible that MatchNet, it's subsidiaries, joint ventures, or any combination of such, could merge with or be acquired by another business entity. Should such a combination occur, you should expect that MatchNet would share some or all of your information in order to continue to provide the service. You will receive notice of such event (to the extent it occurs) and we will require that the new combined entity follow the practices disclosed in this Privacy Policy.
 
-**Protect Yourself from Spam  
-** It is a good practice to refrain from disclosing your email address or any other information in chat rooms, public forms or any other place unless it's properly protected. Information disclosed may be used by other persons for many purposes, including spamming.
+****
 
-AmericanSingles.com works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to [http://www.flycast.com/about_us/about-privacy.htm](http://www.flycast.com/about_us/about-privacy.html)l. 
+**Legal Requests.** MatchNet cooperates with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights. We can (and you authorize us to) disclose any information about you to law enforcement and other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us or you to legal liability.
 
- 
+5\. **Your Use of other Members Information.**
+
+In order to facilitate interaction among all our members, when you send an introductory note through our system to another member, your email address is included in that note so that the recipient can respond to you. We also allow you access to our chat room. As a member you have access to the Members ID No., and you might gain access to other contact information of the Member(s) through the regular use of the chat room. By accepting this Privacy Policy, you agree that, with respect to other Members' personally identifiable information that you obtain through the email communication and the chat room, MatchNet hereby grants to you a license to use such information only for: (a) MatchNet related communications that are not unsolicited commercial messages, and (b) any other purpose that such member expressly agrees to after adequate disclosure of the purpose(s). In all cases, you must give Members an opportunity to remove themselves from your database and a chance to review what information you have collected about them. In addition, under no circumstances, except as defined in this Section, can you disclose personally identifiable information about another member to any third party without our consent and the consent of such other member after adequate disclosure. MatchNet and our members do not tolerate spam. Therefore, without limiting the foregoing, you are not licensed to add a MatchNet member, to your mail list (email or physical mail) without their express written consent after adequate disclosure. To report spam from other MatchNet members, please send an email to comments@americansingles.com.
+
+6\. **Accessing, Reviewing and Changing Your Profile.**
+
+ ****
+
+Following registration, you can review and change the information you submitted during registration through the Member Service Menu including: Your password and e-mail address. If you change your password and email we keep track of your old password and email. You can also change your registration information such as: name, address, city, state, zip code, country, phone number, profile, likes and dislikes, desired date profile, essays and saves search criteria.
+
+Upon your written request, we will suspend your membership, contact information, and financial information from our active databases. Such information will be suspended as soon as reasonably possible in accordance with our suspension policy and applicable law.
+
+We will retain our files information you have requested to remove in order in some circumstances, such as to resolve disputes, troubleshoot problems and enforce our terms and conditions. Further, such prior information is never completely removed from our databases due to technical and legal constraints, including stored ‘back up' systems. Therefore, you should not expect that all of your personally identifiable information will be completely removed from our databases in response to your requests.
+
+7\. **Control of Your Password**
+
+ ****
+
+You are responsible for all actions taken with your member ID No. and password, including fees. Therefore we do not recommend that you disclose your MatchNet password or member ID No. to any third parties. If you choose to share your member ID No and password or your information with third parties to provide you additional services, you are responsible for all actions taken with your member ID No. and password and therefore should review that third party's privacy policy. If you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password.
+
+8\. **Other Information Collectors**
+
+ ****
+
+Except as otherwise expressly included in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are on our Site or on other sites throughout the Internet, different rules may apply to their use or disclosure of the information you disclose to them. To the extent that we use third party advertisers, they adhere to their own privacy policies. Since MatchNet does not control the privacy policies of the third parties, you are subject to ask questions before you disclose your personal information to others.
+
+9\. **Security**
+
+ ****
+
+MatchNet uses industry standard practices to safeguard the confidentiality of your personal identifiable information, including "firewalls" and Secure Socket Layers. MatchNet treats data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by members inside and outside the company. However, "perfect security" does not exist on the Internet.
+
+10\. **Notice**
+
+ ****
+
+We may change this Privacy Policy from the time based on your comments and our need to accurately reflect our data collection and disclosure practices. All changes to this policy are effective after we provide you with at least (30) days' notice of changes by sending email to members. We provide you with (30) days' notice to allow you the opportunity to notify MatchNet if you do not agree to such changes.
+
+|  | |  | **Privacy Statement**  
+---|---
