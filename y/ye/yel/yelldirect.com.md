@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yelldirect.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008195428id_/http%3A//uk.yell.com/legal/privacy/home.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yelldirect.com privacy policy that was archived on 2004-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040703051644id_/http%3A//www.yell.com/legal/privacy/home.html) for the most accurate reproduction.*
 
 # Yell.com >> Conditions of use >> Privacy
 
@@ -76,7 +76,7 @@ If you register with us, we ask you for a small amount of information. We do thi
   * forename and surname;
   * e-mail address.
 
-During your session as a registered user we use a [cookie](https://web.archive.org/web/20031008195428id_/http%3A//uk.yell.com/legal/cookies/home.html) to store an encoded version of your Yell.com user ID so that you can access your address book. If you have cookies disabled on your browser you will not be able to use log in as a registered user.
+During your session as a registered user we use a [cookie](https://web.archive.org/web/20040623082102id_/http%3A//www.yell.com/legal/cookies/home.html) to store an encoded version of your Yell.com user ID so that you can access your address book. If you have cookies disabled on your browser you will not be able to use log in as a registered user.
 
 Competitions  
 All our competitions and promotions are governed by specific terms and conditions. We recommend that you read these before entering.
@@ -143,7 +143,7 @@ A cookie will typically contain the name of the domain from which the cookie has
 
 Cookies can help a website to arrange content to match your preferred interests more quickly. Most major websites use cookies. Cookies cannot be used by themselves to identify you.
 
-[Find out more about cookies](https://web.archive.org/web/20031008195428id_/http%3A//uk.yell.com/legal/cookies/home.html).
+[Find out more about cookies](https://web.archive.org/web/20040623082102id_/http%3A//www.yell.com/legal/cookies/home.html).
 
 #### How do you use cookies and what information do you collect about me?
 
@@ -164,7 +164,7 @@ We do not link cookies to information you have provided during registration.
 
 If you don't want a cookie to be created on your PC, web browsers like Netscape Navigator and Microsoft Internet Explorer provide the option to disable them. However, you might not be able to take advantage of the full functionality of our website if you do.
 
-[Find out more about how to disable cookies](https://web.archive.org/web/20031008195428id_/http%3A//uk.yell.com/legal/cookies/home.html#10).
+[Find out more about how to disable cookies](https://web.archive.org/web/20040623082102id_/http%3A//www.yell.com/legal/cookies/home.html#10).
 
 Sites linked to Yell.com may also use cookies. Please check the individual privacy policies of such sites to find out more.
 
@@ -174,7 +174,7 @@ A web beacon—sometimes referred to as a clear GIF (Graphics Interchange Format
 
 This helps us provide a better service to you by allowing us to understand which areas of the site are more popular with visitors than others. Web beacons are not used to collect any personal information about you. But allow us to gather aggregated information about the use of our site. Yell.com pages may also contain web beacons inserted by our advertising agency so that we can measure the effectiveness of our advertising on other websites. Web beacon files enable our agency to recognise a unique cookie on your web browser, which in turn enables us to learn which advertisements bring users to our website. The web beacon only records a limited amount of information that includes the cookie number, the page id and the time and date the page was accessed, it does not contain your name, address, telephone number or e-mail address.
 
-[Find out more about web beacons](https://web.archive.org/web/20031008195428id_/http%3A//uk.yell.com/legal/cookies/home.html#11).
+[Find out more about web beacons](https://web.archive.org/web/20040623082102id_/http%3A//www.yell.com/legal/cookies/home.html#11).
 
 #### How to manage the use of cookies on our website
 
@@ -182,7 +182,7 @@ You can manage the cookies in the cookie folder of your browser. You can either 
 
 Deleting or rejecting cookies may impair your experience of our website. You may not be able to access some pages or complete some transactions securely.
 
-[Find out more about deleting and rejecting cookies](https://web.archive.org/web/20031008195428id_/http%3A//uk.yell.com/legal/cookies/home.html#10).
+[Find out more about deleting and rejecting cookies](https://web.archive.org/web/20040623082102id_/http%3A//www.yell.com/legal/cookies/home.html#10).
 
 ### Disclosing information and consent
 
