@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brecks.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205101951id_/http%3A//brecks.com/article_disp.asp%3Farticle_id%3D139) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brecks.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621145839id_/http%3A//www.brecks.com/article_disp.asp%3Farticle_id%3D139) for the most accurate reproduction.*
 
 # Breck's Bulbs From Holland Since 1818
 
@@ -49,3 +49,10 @@ Consumers can have this information corrected by sending us e-mail at the above 
 With respect to security: When we transfer and receive certain types of sensitive information such as credit card information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at mgoldberger@the-dma.org, state or local chapters of the Better Business Bureau.
+
+* * *
+
+Have another question? Return to the [Customer Service Help](https://web.archive.org/article_disp.asp?article_id=378) page or send an e-mail directly to Customer Service.
+
+  
+
