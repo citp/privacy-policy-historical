@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the tamu.edu privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206173900id_/http%3A//www.tamu.edu/new/priv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamu.edu privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406152131id_/http%3A//www.tamu.edu/00/data/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# Texas A&M University - Historical Photographs
+
+  
+
 
 **Privacy Statement**
 
@@ -11,7 +14,7 @@ Personal information that you provide via e-mail or through other online means w
   
 We do, however, use server logs to collect information concerning your Internet connection and general information about your visit to our Web site. This information may be used to analyze trends; to create summary statistics for the purpose of determining technical design specifications; and to identify system performance or problem areas.  
   
-This means we sometimes acquire, record and analyze portions of the data that is entered into, stored on, and/or transmitted through this site by you. This information is only released -- when legally required \-- to help law enforcement investigations, legal proceedings or internal investigations of TAMU rule and regulation violations. These groups would use the information to track the electronic interactions back to the source computer(s) or account(s). 
+This means we sometimes acquire, record and analyze portions of the data that is entered into, stored on, and/or transmitted through this site by you. This information is only released -- when legally required -- to help law enforcement investigations, legal proceedings or internal investigations of TAMU rule and regulation violations. These groups would use the information to track the electronic interactions back to the source computer(s) or account(s). 
 
 Some web pages at Texas A&M University may collect personal information about visitors and use that information for purposes other than those stated above. Each web page that collects information will have a separate privacy statement that will tell you how that information is used.
 
