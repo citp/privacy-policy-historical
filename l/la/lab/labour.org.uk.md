@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the labour.org.uk privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207111040id_/http%3A//www.labour.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labour.org.uk privacy policy that was archived on 2004-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040617144612id_/http%3A//labour.org.uk/privacy) for the most accurate reproduction.*
 
 # The Labour Party - Privacy statement
 
@@ -55,7 +55,7 @@ London
 SW1H 9HP                                                                   
 
 Our data protection officer can be contacted at the following address:   
-Chloe Alexander  
+Melanie Onn  
 Labour Party   
 16 Old Queen Street  
 London  
