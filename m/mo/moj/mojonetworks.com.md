@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mojonetworks.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204203605id_/http%3A//www.matchdoctor.com/html/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mojonetworks.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308125454id_/http%3A//www.matchdoctor.com/html/privacy.asp) for the most accurate reproduction.*
 
 # MatchDoctor.com - Privacy Statement
 
@@ -12,7 +12,7 @@ Our site uses cookies to keep track of your preferences. We use cookies to deliv
 
 Our site uses software called LiveStats.NET to track web traffic statistics. DeepMetrix's privacy statement for this software can be found at <http://www.deepmetrix.com/legal/privacy/products/>. 
 
-Our site's registration form requires users to give us contact information (like their name and email address) and demographic information (like their zip code, age, or income level). We use customer contact information from the registration form to send the user promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data for other purposes. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. We may also, unless you opt-out via the below instructions, share your email address and demographics with third-party mailing services in order to fund our site, as it is currently a free service. You always have the right to opt-out. Please email us at [problem@matchdoctor.com](mailto:problem@matchdoctor.com) if you have any problems opting-out or fear your email address was abused. 
+Our site's registration form requires users to give us contact information (like their name and email address) and demographic information (like their zip code, age, or income level). We use customer contact information from the registration form to send the user promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data for other purposes. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. We may also, unless you opt-out via the below instructions, share your email address and demographics with third-party mailing services in order to fund our site, as it is currently a free service. You always have the right to opt-out. Please submit a [support ticket](https://web.archive.org/html/contact.asp) to our support department if you have any problems opting-out or fear your email address was abused. 
 
 Legal Note: We may cooperate with valid police investigations and legal proceedings, and you give us permission to disclose your information under such situations. DO NOT USE THIS SITE FOR ILLEGAL ACTIVITIES. 
 
@@ -24,7 +24,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for cancelling their profile and to not receive future communications or to no longer receive our service. 
 
-  * You can change your Mail Preferences by [Logging](https://web.archive.org/cgi/logon.asp) to your account and visit the [Start Page](https://web.archive.org/web/20041204203605id_/http%3A//cgi/home.asp), and then click on [Mail Preferences](https://web.archive.org/web/20041204203605id_/http%3A//cgi/user/preferences.asp). 
+  * You can change your Mail Preferences by [Logging](https://web.archive.org/cgi/logon.asp) to your account and visit the [Start Page](https://web.archive.org/web/20050308125454id_/http%3A//cgi/home.asp), and then click on [Mail Preferences](https://web.archive.org/web/20050308125454id_/http%3A//cgi/user/preferences.asp). 
   * To stop all emails and Cancel your account as well, [click here](https://web.archive.org/cgi/cancel.asp). 
 
 
@@ -39,7 +39,7 @@ In the course of serving advertisements to this site, our third-party advertiser
 This site gives users the following options for changing and modifying information previously provided. 
 
   * [Logon](https://web.archive.org/cgi/logon.asp) to your account and visit the [Start Page](https://web.archive.org/cgi/home.asp). 
-  * LAST OPTION: email [problem@matchdoctor.com](mailto:problem@matchdoctor.com)
+  * LAST OPTION: submit a [support ticket](https://web.archive.org/html/contact.asp) to our support department. 
 
 **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can [Contact Us Here](https://web.archive.org/web/20041204203605id_/http%3A//www.matchdoctor.com/html/contact.asp). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can [Contact Us Here](https://web.archive.org/web/20050308125454id_/http%3A//www.matchdoctor.com/html/contact.asp). 
