@@ -1,0 +1,17 @@
+> *The following text is extracted and transformed from the benefitaccess.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203172304id_/http%3A//www.benefitaccess.com/ssb_privacy.html) for the most accurate reproduction.*
+
+# Smith Barney - Terms and Conditions
+
+Welcome to Citigroup Global Markets Inc., Smith Barney Benefit Access® web site. This Privacy Statement explains our policy regarding personal information that you supply us when you visit the site. Keeping your personal information secure, and making sure you understand how we use such information, is important to us.
+
+ You may use this site only in connection with your participation in your employer's employee benefit plan ("Plan"). To visit the site, you will be required to give us your e-mail address. In addition, you must use the user name and password that we furnish to you.
+
+ The personal information you provide (and that your employer provides to us about you), and the personalized data you create and save on the site, is used primarily to facilitate your participation in the Plan (including effecting transactions). In addition, we use such information and data to provide you with "real-time" information about your Plan account, and in connection with your "modelling" of various transaction scenarios under the Plan. The information will be used in a manner consistent with the Terms and Conditions that govern your use of the site as well as all applicable law, rules, regulations and other legal obligations. We do not sell or market to affiliated or unaffiliated organizations your personal information or personalized data that we have obtained in connection with this site. When you send us e-mails, they will be maintained in a manner consistent with our legal and regulatory requirements regarding client and public communications.
+
+ We maintain your personal information and data according to strict standards of security and confidentiality as described in the Terms and Conditions that govern your use of this site. Online access to your option grant information is only possible through a secure (SSL capable) web browser. SSL capable web browsers support encryption technology, which helps prevent unauthorized users from viewing your Plan account information as it travels over the Internet.
+
+ In order to provide better service or to address security hazards, we will occasionally use a "cookie". A cookie is a small piece of information which a web site stores on your web browser on your PC and can later retrieve. The cookie cannot be read by a web site other than the one that set the cookie. We use cookies for a number of administrative purposes. Most cookies last only through a single visit to our site. None will contain information that will enable anyone to contact you via telephone, e-mail, or any other means.
+
+ This Privacy Statement does not supersede the Terms and Conditions that govern your use of the site. Any conflict between the two shall be determined in favor of such Terms and Conditions. Smith Barney may change this Privacy Statement at any time. Any changes or updates will be effective immediately upon posting to the site.
+
+ You may also review the [Citigroup Privacy Promise](http://www.citigroup.com/citigroup/privacy/index.htm) for Consumers. Citigroup is our parent corporation. Its Privacy Policy covers various aspects of our clients' relationship with Citigroup companies and is not confined to Smith Barney's Internet site clients.
