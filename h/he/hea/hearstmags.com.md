@@ -1,21 +1,10 @@
-> *The following text is extracted and transformed from the hearstmags.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623222311id_/http%3A//www.hearstmags.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hearstmags.com privacy policy that was archived on 2004-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041218041945id_/http%3A//www.hearstmags.com/privacy.htm) for the most accurate reproduction.*
 
-# Hearst Magazines Customer Service
-
-**Hearst Magazine Subscription  
-Offers**
-
-**[Order New  
-Subscriptions](http://www.hearstmags.com/)**
-
-**[Order Gift  
-Subscriptions](http://www.hearstmags.com/)**
-
-| 
+# Hearst Magazines Homepage
 
 **Privacy Policy**
 
-**** Please note: for magazine delivery and customer service requests, please[click here](http://www.hearstmags.com/). ****
+**Please note: for magazine delivery and customer service requests, please** **[click here](http://www.hearstmags.com/). **
 
 **Purpose of this Privacy Policy**  
 This privacy policy describes how Communications Data Services, Inc. (the company that fulfills magazine subscriptions for Hearst Communications, Inc. and its affiliates ("Hearst") and Hearst treat the personally identifiable information that is collected about you when you visit the web sites to which this policy is linked. For purposes of this policy, Communications Data Services, Inc. and Hearst are referred to collectively as "Hearst".
@@ -34,7 +23,7 @@ Hearst uses this information to provide you with the service you have requested.
 
 Hearst may share or disclose personally identifiable information about you to other companies or individuals when:
 
-  * You have not notified us that you do not wish information to be shared (if you do not wish us to share information with companies who would otherwise contact you via e-mail, you can refuse consent by deselecting the appropriate box or by notifying Hearst at [privacy@hearstmags.com](mailto:privacy@hearstmags.com); if you do not wish us to share information with companies who would otherwise contact you at your mailing address, you may notify us in writing by sending a notice to Mail Preference Service, P.O. Box 7024, Red Oak, Iowa 51591)
+  * You have not notified us that you do not wish information to be shared (if you do not wish us to share information with companies who would otherwise contact you via e-mail, you can refuse consent by deselecting the appropriate box or by notifying Hearst at [privacy@hearstmags.com](mailto:privacy@hearstmags.com); if you do not wish us to share information with companies who would otherwise contact you at your mailing address, you may notify us in writing by sending a notice to Mail Preference Service, P.O. Box 7024, Red Oak, Iowa 51591) 
   * we utilize third party service providers to provide products, services or functions on our behalf (such as sending emails or processing credit cards or fulfilling subscriptions), and ask these service providers to agree to maintain the confidentiality of your personally identifiable information and not to use your personally identifiable information for any reason except to carry out the purpose(s) for which we hired them;  
 
   * we publish a magazine to which you subscribe through a joint venture or licensing arrangement with a third party (such as Smart Money and Marie Claire), in which event our third party partner may use your personally identifiable information to the same extent that we can; 
@@ -69,7 +58,7 @@ Your Internet Protocol ("IP") address is usually associated with the place from 
 We aim to make every online transaction you make with us as safe as possible. You will pay nothing if unauthorized charges are made to your card as a result of shopping at our online store. Under the Fair Credit Billing Act, your bank cannot hold you liable for more than $50.00 of fraudulent charges. If you rbank does hold you liable for any of this $50.00, We will cover the entire liability for you, up to the full $50.00. We will only cover this liability if the  
 unauthorized use of your credit card resulted through no fault of your own  
 from purchases made while using the secure server. In the event of unauthorized  
-use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures.
+use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures. 
 
 **Kids And Parents**  
 The sites covered by this policy are not intended for use by children, especially those under age 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums and chats. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardian(s) before subscribing to any magazines on our sites.
@@ -85,5 +74,3 @@ If you are located outside of the United States, please note that the informatio
 Hearst may change this policy from time to time in its discretion. Your continued use of our sites indicates your consent to this privacy policy and any amended versions of it.
 
 This policy was last updated on October 17, 2003
-
-|  
