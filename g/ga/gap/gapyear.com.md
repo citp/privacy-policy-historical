@@ -1,50 +1,95 @@
-> *The following text is extracted and transformed from the gapyear.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604034651id_/http%3A//www.gapyear.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gapyear.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017020030id_/http%3A//www.gapyear.com/home.php%3Fop%3Dpolicy) for the most accurate reproduction.*
 
-# gapyear.com
-
- home | about us | **privacy policy**
+# GAPYEAR.COM
 
   
-**Privacy Policy**
+[Home](https://web.archive.org/web/20021017020030id_/http%3A//www.gapyear.com/index.php) :: Privacy policy
 
-We want to safeguard the privacy of visitors to our website. Please read the following, it will help you to understand how we use personal data that we collect about you. 
+ **Privacy Statement**
 
-**What personal data do we collect?**
+We will not collect any personal or business information, nor store or share that information with any third party without your express permission.
 
-You'll see that we sometimes ask you for personal data (things like your name, password, phone number and address) when you register for one of our services or order products from us. 
+**Why we need Information**
 
-We may sometimes ask you to take part in surveys that we carry out to improve our services to you. 
+When you visit our site you will receive explicit advice when we seek to gather information about you. The information you provide is used to produce your web page and any information you supply is displayed to the public on this page, unless otherwise stated. 
 
-And we hold other personal data that you disclose, for instance, when you use the chat room, or send an email to us or via other services we provide. 
+**The Registration Process**
 
-**How do we use your personal data?**
+The information harvested during the registration process is used to create your own unique identification as a site visitor/services user and enable us to undertake the various administration processes necessary. 
 
-We use your personal data to provide goods and services to you, and to let you know about other goods and services in which you may be interested. 
+**Your Unique Identification**
 
-We may also use your personal data to complete statistics about our users and their preferences, but these statistics do not identify you. 
+This identification is provided in the form of a member name and password. It is important that you keep this identification secret to avoid unauthorized use of your account. 
 
-**Cookies**
+**How we use your Information**
 
-The gapyear Company only uses ONE cookie on its website and that is to allow your computer to remember the name and colour you choose to log on to our chat room. You are given the option to activate the cookie when entering the chat site, it is not compulsory. 
+The information we collect about you or your business enables us to:  
+\- understand your needs  
+\- improve our own branded services to you  
+\- stay in touch with you through other media as you require  
+\- deliver goods and services to the addresses you have provided   
+\- enhance and refine existing information we may have acquired from other sources  
+\- complete the internal administration necessary to register you and maintain our service to you   
+\- help benefit the growth and understanding of the gapyear market
 
-A cookie is a small piece of data that is sent to your browser from a web server and stored on your computer's hard drive. A cookie can't read data off your hard disk or read cookie files created by other sites. Cookies do not damage your system. You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept our cookies, your experience at our site may be diminished and some features may not work as intended. 
+**How do you know if we are gathering Information?**
 
-**Security Precautions**
+Detailed information about you is only collected when you are advised explicitly that is what we are doing and you supply it voluntarily. 
 
-Your personal data (except any you disclose when using the chat room or when sending an e-mail) are password protected. 
+**Sharing Information**
 
-You shouldn't give your password to anyone else, and you should close your browser window when you've finished using our website. 
+We may share the information with sub-contractors and partners but only on condition that they comply strictly with our own Supplier Confidentiality Agreement, the Customer Privacy Promise you are currently reading and the EU Directive on Data Protection and the Data Protection Act 1998. 
 
-**Disclosures**
+**Checking Information**
 
-Whenever we collect personal data we may share it with other companies in the same group as The gapyear Company Ltd. 
+You can check the accuracy of our records and make modifications at any time in the 'Edit My Profile' settings area. 
 
-If you link from our site to another site, remember we have no control over or responsibility for any personal data collected by those sites. 
+**Deleting Information**
 
-We do not disclose personal data except where we are obliged to do so, or allowed to do so, by law, or where we need to do so in order to run our business (for instance where we outsource services or other people process data for us). In those circumstances we ask those other people to give us confidentiality or non-disclosure undertakings. 
+You can immediately delete any information we hold about you by using the facilities in Edit My Profile. But please remember that deletion of key information may affect your status as a registered user. 
 
-We may disclose statistics about visitors to our site to our business partners or other interested parties, or for publicity purposes, but this is only done in an anonymous aggregate form. All identifiers are stripped out first. 
+**Sale of Information**
 
-**Contact**
+If you have agreed explicitly to allow us to do so, information about you may be sold or provided to third parties. However, no information will be provided to any other party without your express permission. 
 
-If you want to know what data we hold about you, or have access to that data, or to amend it, please contact Tom Griffiths by either sending an email to [info@gapyear.com](mailto:info@gapyear.com?subject=Privacy%20Policy) or sending a letter to Tom Griffiths, The gapyear Company Ltd, Confederation House, 69 Westgate Street, Ipswich IP1 3DZ.
+**Legal Disclosure**
+
+When approached by the appropriate authorities, information about you, your business or account usage may be disclosed but only when legally required under European Law. 
+
+**Security**
+
+We take all reasonable precautions to protect information about you from loss, misuse and alteration. Agents, partners and sub-contractors who have access to your information have a duty of care as detailed in our contracts with them and are not permitted to use it for any other purpose unless you have given your explicit permission in detail that they may do so. 
+
+**Payment Encryption Technology**
+
+To protect security we use the most advanced Encryption Technology, anti-intruder and anti-infection techniques when you are providing payment details. You can download an update to the default browser we recommend you use with this site, Internet Explorer 5 or above, which will give you 128 bit encryption. 
+
+**Destruction of Confidential Materials**
+
+Manual destruction of files, records and computer print-outs containing sensitive data are carried out in a secure way by either internally shredding or using a supplier who uses secure disposal methods. 
+
+**Hackers and Viruses**
+
+Your registration details are very important - please keep your password and member name secret. It is better for other users to register separately than to share your account access information. We will never write to ask for your login details - be cautious of anyone asking for this information. 
+
+**Automated Collection of Other Information**
+
+Some non-personal information may be collected automatically, such as the computer operating system and the type of browser software you are using, along with special codes that tell us which pages you have visited. Some information is stored in the form of a 'cookie', a small file which remains on your computer but which acts as a reminder about any preferences you have selected when visiting our sites. We only use 'cookies' to improve our service to you. We may occasionally allow this non-personal data to be used by third party content suppliers, to help us serve you with more relevant content. We may also store your log in details on your computer, but only if you explicitly request us to do so. Remember that if you opt for us to do this, any other user of the same computer can access your account. You can delete this 'cookie' by clicking the Log Out link at the top of any page. 
+
+**Switching Cookies Off**
+
+Cookies are required in order to become a member of Gapyear, or to use the Gapyear Services. 
+
+**Linked Sites**
+
+This Privacy Promise does not apply to any third parties over whom we have no control. 
+
+**Changes to our Privacy Promise**
+
+We reserve the right to change this statement at any time without warning to meet any statutory requirements or changes in the nature of our activities and services. This privacy statement does not form the basis of any contract between any party. 
+
+**Protect your Privacy**
+
+We caution you against giving out personally identifiable information (such as social security numbers, credit card numbers, names and addresses, driver license numbers, passwords) to strangers online, which may be used for illegal or harmful purposes.
+
+Some personal information you provide to Gapyear may be stored outside of the country in which you reside.
