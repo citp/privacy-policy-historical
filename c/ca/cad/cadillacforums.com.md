@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cadillacforums.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002090723id_/http%3A//cadillacforums.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cadillacforums.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602184716id_/http%3A//cadillacforums.com/privacy.html) for the most accurate reproduction.*
 
 # Cadillac Forums: The Cadillac web site for serious enthusiasts
 
