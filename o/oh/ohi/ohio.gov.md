@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ohio.gov privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207033539id_/http%3A//www1.ohio.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohio.gov privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618153351id_/http%3A//www.ohio.gov/privacy.htm) for the most accurate reproduction.*
 
 # State of Ohio Government Info and Services
 
@@ -28,4 +28,4 @@ We take very seriously the integrity of the information and systems that we main
 
 **_CONTACT_**
 
-If you would like information on how to review or correct information submitted through this web site, please contact:        [webmaster@das.state.oh.us](https://web.archive.org/web/20021207033539id_/http%3A//www1.ohio.gov/feedback.htm)
+If you would like information on how to review or correct information submitted through this web site, please contact:        [portal.manager@exchange.state.oh.us](https://web.archive.org/web/20030618153351id_/http%3A//www.ohio.gov/feedback.htm)
