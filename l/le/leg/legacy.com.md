@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legacy.com privacy policy that was archived on 2000-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001208170700id_/http%3A//legacy.com/LegacySubPage1.asp%3FPage%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legacy.com privacy policy that was archived on 2001-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010625035012id_/http%3A//www.legacy.com/LegacySubPage1.asp%3FPage%3DPrivacy) for the most accurate reproduction.*
 
 # Legacy.com: LegacySubPage1.asp
 
@@ -17,7 +17,7 @@
     
    | **_General_**
 
-Legacy.com does not collect personal information about individuals except when specifically and knowingly provided by such individuals. Examples of personal information are name, postal address, email address, and phone number. Personal information is collected from _Legacy Guest Book_ submissions and _Legacy Notice_ and _Life Story_ orders.
+Legacy.com does not collect personal information about individuals except when specifically and knowingly provided by such individuals. Examples of personal information are name, postal address, e-mail address, and phone number. Personal information is collected from _Legacy Guest Book_ submissions and _Legacy Notice_ and _Life Story_ orders.
 
 This site makes Legacy Guest Books, Life Stories, and Notices available to all our visitors. Please remember that any information disclosed in a _Legacy Guest Book_ , or any information posted within a _Life Story_ or _Notice_ , becomes public information. You therefore should exercise caution when disclosing any personal information in these forums.
 
@@ -47,7 +47,7 @@ In an effort to provide personalized services, Legacy.com uses [cookies](http://
     
    | You may modify and correct information previously provided to Legacy.com for the purposes of _Notices_ and _Life Stories_ , if necessary. Additionally, although _Guest Book_ entries are screened for appropriateness, they are not altered except by request. Legacy.com, Inc. offers users the following options for updating information: 
 
-1\. Send email to [info@legacy.com](https://web.archive.org/web/20001208170700id_/http%3A//legacy.com/LegacySubPage2.asp?Page=MailLegacy&MailTo=info@legacy.com&Subject=Update%20Guest%20Book%20Information)   
+1\. Send e-mail to [info@legacy.com](https://web.archive.org/web/20010625035012id_/http%3A//www.legacy.com/LegacySubPage2.asp?Page=MailLegacy&MailTo=info@legacy.com&Subject=Update+Guest+Book+Information)   
 2\. Send postal mail to the following address:   
     Legacy.com   
     820 Davis St.   
@@ -76,7 +76,7 @@ In an effort to provide personalized services, Legacy.com uses [cookies](http://
    | Additional information |     
     
    | Questions regarding the Legacy.com Privacy Policy should be directed to:   
-[info@legacy.com](https://web.archive.org/web/20001208170700id_/http%3A//legacy.com/LegacySubPage2.asp?Page=MailLegacy&MailTo=info@legacy.com&Subject=Privacy%20Policy)
+[info@legacy.com](https://web.archive.org/web/20010625035012id_/http%3A//www.legacy.com/LegacySubPage2.asp?Page=MailLegacy&MailTo=info@legacy.com&Subject=Privacy+Policy)
 
 The links below will provide you with greater insight about electronic privacy rights and issues. We encourage you to become fully informed so you can protect your rights while online.
 
