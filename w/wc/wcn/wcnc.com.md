@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wcnc.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204232006id_/http%3A//www.wcnc.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wcnc.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610173033id_/http%3A//www.wcnc.com/registration/privacy.html) for the most accurate reproduction.*
 
 # WCNC.com | News for Charlotte, N.C. | Help Center
 
-**Updated as of October 14, 2003**
+**Updated as of March 15, 2004**
 
 This Privacy Policy discloses the general privacy practices for the Belo Interactive web sites, including **WCNC.com**. Belo Interactive, Inc. ("Belo Interactive") is a subsidiary of Belo Corp. 
 
@@ -77,9 +77,19 @@ We respect your privacy and ability to choose whether to share information with 
 
 There are four contact preference options available: (1) "opt-in" includes you in our special offer, discount and other programs with respect to our advertisers and partners via our My Specials Direct e-mail program or a similar program; (2) "site" includes you in our special offer, discount and other programs that relate to this Site from **WCNC.com** ; (3) "phone" allows you to be contacted by telephone with respect to any of these programs, and (4) "mail" allows you to be contacted by mail with respect to any of these programs.  You may choose to be contacted by any or all of these methods, or "opt-out" by not selecting any contact options.  You may change your contact options at any time by following the process described in "Reviewing, Changing, and Deleting Your Personal Information."
 
+In addition to opting-out by managing your contact preference options, you may opt-out from receiving e-mail communications from any site service by sending your request to [helpcenter@belointeractive.com](mailto:helpcenter@belointeractive.com), or by sending postal mail to:  
+Belo Interactive  
+Attn: “Opt-Out Request”  
+900 Jackson Street, Suite 400  
+Dallas, TX 75202 
+
 You may "opt-out" altogether from providing Personal Information to us by not registering on the Site and thereby not providing Personal Information.  You may also choose at a later date to have your name removed from our database by deleting your registration profile.  To do so, please follow the process described  in "Reviewing, Changing, and Deleting Your Personal Information."
 
 Certain portions of the Site and certain services provided on the Site, however, do require registration in order to access or use these areas and services.  If you choose not to register or provide certain information, these areas will not be accessible to you. 
+
+### Notifying Advertisers of Opt-Outs, by Law
+
+When any site user chooses to opt-out of a specific advertiser program, to comply with federal law, we will furnish that user’s e-mail address to only the affected advertiser and only for the purpose of ensuring that address is removed from the advertiser’s own distribution lists per the user’s opt-out request. 
 
 ### Reviewing, Changing and Deleting Your Personal Information
 
@@ -105,6 +115,6 @@ If you have any questions or comments about our Privacy Policy, please e-mail us
 
 ### Effective Date and Changes
 
-This Privacy Policy is effective as of October 14, 2003.  Belo Interactive reserves the right to modify the terms of this policy at any time and in our sole discretion, by posting a change notice to this page.  Your continued use of the Site following our posting of a change notice will constitute binding acceptance of those changes. 
+This Privacy Policy is effective as of March 15, 2004.  Belo Interactive reserves the right to modify the terms of this policy at any time and in our sole discretion, by posting a change notice to this page.  Your continued use of the Site following our posting of a change notice will constitute binding acceptance of those changes. 
 
 This text is invisible on the page, but this text is affected by the invisible item's flow. This text is invisible on the page, but this text is affected by the invisible item's flow.
