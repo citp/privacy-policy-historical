@@ -1,8 +1,16 @@
-> *The following text is extracted and transformed from the lifetechnologies.com privacy policy that was archived on 2004-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040414214517id_/http%3A//www.lifetechnologies.com/content.cfm%3Fpageid%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifetechnologies.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206163300id_/http%3A//www.lifetechnologies.com/content.cfm%3Fpageid%3D12) for the most accurate reproduction.*
 
 # Invitrogen - Privacy Policy
 
-|  | 
+|   
+  
+[home](https://web.archive.org/index.cfm) > contact us > privacy policy
+
+|   
+---  
+|   
+---  
+|  |  | 
 
 Welcome to Invitrogen.com (“Site”), which is owned and operated by Invitrogen Corporation. This Privacy Policy is designed to tell you about Invitrogen’s collection, use, and dissemination practices regarding information that you provide to Invitrogen through this Site or through the websites of our affiliates or representatives. 
 
@@ -46,7 +54,7 @@ This Site contains links to the web sites of other organizations. Invitrogen is 
 
 ###### How to contact us:
 
-For any requests or questions related to this Privacy Policy, or if you have concerns about how information you provide to Invitrogen is being used, please contact your [local Invitrogen office](https://web.archive.org/web/20040414214517id_/http%3A//www.lifetechnologies.com/content.cfm?pageid=13). 
+For any requests or questions related to this Privacy Policy, or if you have concerns about how information you provide to Invitrogen is being used, please contact your [local Invitrogen office](https://web.archive.org/web/20041206163300id_/http%3A//www.lifetechnologies.com/content.cfm?pageid=13). 
 
 This Privacy Policy was last updated on January 5, 2004.   
   
