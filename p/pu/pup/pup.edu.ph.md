@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pup.edu.ph privacy policy that was archived on 2004-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041019094157id_/http%3A//www.pup.edu.ph/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pup.edu.ph privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407013032id_/http%3A//www.pup.edu.ph/help/privacy.asp) for the most accurate reproduction.*
 
 # PUPWebSite : Help and Support : Privacy Statement
 
@@ -177,4 +177,4 @@ A. Mabini Campus, Sta. Mesa, Manila, Philippines 01008
     Fax Number: +632.338.74.15
     [inquire@pup.edu.ph](mailto:inquire@pup.edu.ph)
 
-This document was last updated on July 26, 2004
+This document was last updated on February 16, 2005
