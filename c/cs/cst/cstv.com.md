@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cstv.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203021814id_/http%3A//www.cstv.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cstv.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401140606id_/http%3A//cstv.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # College Sports Television - Features
 
