@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4webhelp.net privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205014012id_/http%3A//www.4webhelp.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4webhelp.net privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603083913id_/http%3A//www.4webhelp.net/privacy.php) for the most accurate reproduction.*
 
 # 4WebHelp - Privacy Statement
 
@@ -22,7 +22,7 @@ This site contains links to other sites. [4WebHelp.net](https://web.archive.org/
 
 ## Public Forums
 
-This site makes chat rooms and forums available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. These forums are not monitored on a 24/7 basis, but if you feel that an item posted is offensive please [contact us](https://web.archive.org/contact.). 
+This site makes chat rooms and forums available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. These forums are not monitored on a 24/7 basis, but if you feel that an item posted is offensive please [contact us](https://web.archive.org/contact/). 
 
 ## Security
 
