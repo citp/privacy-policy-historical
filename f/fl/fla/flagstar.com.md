@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flagstar.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203031615id_/http%3A//flagstar.com/inside/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flagstar.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607212906id_/http%3A//www.flagstar.com/inside/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Flagstar Bank - Privacy Policy
 
@@ -24,7 +24,7 @@ We collect information about you from the following sources:
 
 ### Disclosure of Information to Parties that Provide Services to Us
 
-We may disclose information we collect, as provided by state and/or federal law and as described above, to companies that perform marketing or other services on our behalf or to other financial institutions with whom we have joint marketing agreements, so that we may provide customers competitive products and services. We may also disclose non-public personal information about you under circumstances as permitted or required by state and/or federal law. These disclosures typically include information to process transactions on your behalf, conduct the operations of Flagstar, follow your instructions as you authorize or protect the security of financial records.
+We may disclose Public non-financial information we collect, as provided by state and/or federal law and as described above, to companies that perform marketing or other services on our behalf or to other financial institutions with whom we have joint marketing agreements, so that we may provide customers competitive products and services. We may also disclose non-public personal information about you under circumstances as permitted or required by state and/or federal law. These disclosures typically include information to process transactions on your behalf, conduct the operations of Flagstar, follow your instructions as you authorize or protect the security of financial records.
 
 ### Disclosure of Information About Former Customers
 
@@ -51,4 +51,4 @@ Flagstar is committed to protecting the privacy of its customers. You can help b
 
 This notice is provided pursuant to Title V of the Gramm-Leach-Bliley Act (GLBA) of 1999, 12 CFR 40.
 
-[Top of Page](https://web.archive.org/web/20031203031615id_/http%3A//flagstar.com/inside/privacy_policy_content.jsp#topofpage)
+[Top of Page](https://web.archive.org/web/20040607212906id_/http%3A//www.flagstar.com/inside/privacy_policy_content.jsp#topofpage)
