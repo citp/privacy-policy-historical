@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wetfeet.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607163205id_/http%3A//www.wetfeet.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wetfeet.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208074220id_/http%3A//www.wetfeet.com/about/privacy.asp) for the most accurate reproduction.*
 
 # WetFeet Inc. Privacy Statement
 
@@ -97,8 +97,8 @@ If you have any questions about this privacy statement, the practices of this Si
 
 **By snail-mail:**  
 WetFeet, Inc.   
-609 Mission St.   
-Suite 400   
+The Folger Building   
+101 Howard Street, Suite 300   
 San Francisco, CA 94105 
 
 **By telephone:**   
