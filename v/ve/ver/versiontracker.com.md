@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the versiontracker.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622082645id_/http%3A//www.techtracker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the versiontracker.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206074317id_/http%3A//www.techtracker.com/privacy) for the most accurate reproduction.*
 
 # TechTracker - desktop management solutions and software download tools for Windows, Macintosh, and Palm OS.
 
