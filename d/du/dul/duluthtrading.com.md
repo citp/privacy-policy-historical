@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the duluthtrading.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204132149id_/http%3A//www.duluthtrading.com/store/privacysecurity.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duluthtrading.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402072113id_/http%3A//www.duluthtrading.com/store/privacysecurity.asp) for the most accurate reproduction.*
 
 # Privacy & Security ~ Duluth Trading Company
 
