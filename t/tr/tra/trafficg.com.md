@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficg.com privacy policy that was archived on 2002-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021213155516id_/http%3A//www.trafficg.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficg.com privacy policy that was archived on 2003-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030626163504id_/http%3A//www.trafficg.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
