@@ -1,9 +1,34 @@
-> *The following text is extracted and transformed from the africa.com privacy policy that was archived on 2000-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000622214825id_/http%3A//www.africa.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the africa.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206154400id_/http%3A//www.africa.com/privacy.phtml) for the most accurate reproduction.*
 
-# africa dot com - home
+# africa.com - Privacy
 
-_/  privacy /..._  
+|    
 
+
+|   
+---  
+  
+
+
+Fill in your e-mail address below to subscribe to or unsubscribe from our **FREE** newsletter.
+
+  
+subscribe  
+unsubscribe  
+  
+  
+[](https://web.archive.org/webcast/)  
+  
+  
+
+
+On November 6, 1975 King Hassan II of Morocco launched the Green March, a mass migration in which over 300,000 Moroccans marched into the newly sovereign nation of Western Sahara.
+
+**Research info:**  
+[Moroccans](https://web.archive.org/morocco/)   
+[Morocco](https://web.archive.org/morocco/)  
+  
+| 
 
 **Privacy Statement for africa.com:**
 
@@ -74,12 +99,9 @@ If you have any questions about this privacy statement, the practices of this si
 [webmaster@africa.com](mailto:webmaster@africa.com)  
 \- Web site information: You can send email to [info@africa.com](mailto:info@africa.com)  
   
-_africa.com (USA)_  
-address: 121 Estes Drive, Suite 100 Chapel Hill, NC 27514, USA  
-phone: +1 919 967 1616  
-fax: +1 919 967 1691
-
 _africa.com (South Africa)_  
-address: PO Box 607, Howard Place, 7450, RSA  
-phone: +27 21 530 1200  
-fax: +27 21 530 1400
+address: P.O. Box 607, Howard Place, 7450, Cape Town, South Africa  
+phone: +27 21 530 1500  
+fax: +27 21 530 1501
+
+|  | 
