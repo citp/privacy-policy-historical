@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenchat.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207221648id_/http%3A//www.teenchat.com/users/adduser.py%3Fquery%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenchat.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603221951id_/http%3A//www.teenchat.com/users/adduser.py%3Fquery%3Dprivacy) for the most accurate reproduction.*
 
 # Create an Account
 
