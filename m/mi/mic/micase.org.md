@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the micase.org privacy policy that was archived on 2004-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041217182144id_/http%3A//www.michigan.gov/hal/0%2C1607%2C7-160-17188-2088--%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micase.org privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404101457id_/http%3A//www.michigan.gov/hal/0%2C1607%2C7-160-17188-2088--%2C00.html) for the most accurate reproduction.*
 
 # Michigan Privacy Policy
 
