@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kcci.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621123059id_/http%3A//www.theiowachannel.com/news/1014422/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcci.com privacy policy that was archived on 2003-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031117205941id_/http%3A//www.theiowachannel.com/news/1014422/detail.html) for the most accurate reproduction.*
 
 # TheIowaChannel.com - News
 
@@ -44,5 +44,4 @@ Mendota Heights, MN 55120
 **Changes to This Policy**  
 We may make changes to this policy from time to time. We will post changes to this policy here, so be sure to check back periodically. We will generally use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify our users via email or by posting a notice on the site for 30 days. 
 
-Last Revised 09/02   
-
+Last Revised 09/02 
