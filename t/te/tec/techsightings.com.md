@@ -1,10 +1,55 @@
-> *The following text is extracted and transformed from the techsightings.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405095926id_/http%3A//www.andover.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsightings.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201215838id_/http%3A//www.osdn.com/privacy.shtml) for the most accurate reproduction.*
 
-# Andover.Net privacy
+# Open Source Development Network
 
-****Personal information**** **  
-** |   
-|   
-|  At Andover.Net, we intend to give you as much control as possible over your personal information. In general, you can visit Andover.Net's sites without telling us who you are or revealing any information about yourself. There are times, however, when we may need information from you, such as your name and address. It is our intent to let you know before we collect personal information from you on the Internet. 
+At OSDN, we intend to give you as much control as possible over your personal information, including the Registration Data. We will let each user know how we will use the personal information derived from each user's access to and use of OSDN and/or the Services.
 
-If you choose to give us personal information via the Internet that we or our business partners may need -- to correspond with you, process an order or provide you with a subscription, for example -- it is our intent to let you know how we will use such information. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will respect your wishes. We do keep track of the domains from which people visit us. We analyze this data for trends and statistics, and then we discard it. 
+**NOTICE**
+
+OSDN will track the domains from which people visit OSDN and analyze this data for trends and statistics. Subject to the provisions of this Privacy Policy, different OSDN sites may use accumulated data for different purposes, including but not limited to marketing analysis, service evaluation and planning.
+
+OSDN contains links to other websites, whether owned or controlled by OSDN affiliates or unrelated third parties. OSDN is not responsible for the privacy policies and practices of any linked website. 
+
+Currently, OSDN uses personal information as a basis for notifications to users, "opt-in" emails, and in order to implement the terms of the Terms of Service governing the website (the "TOS"). User names and email addresses (as well as any additional information that a user may choose to post) are publicly available on the OSDN site, unless a user elects to "opt-out" of such display of personal information. However, in cases where users voluntarily and publicly disclose personal information which may contain Registration Data, or otherwise post personal information in conjunction with content subject to an open source license, such personal information necessarily will be disclosed subject to the terms of the applicable license. 
+
+Subject to the foregoing, OSDN may conduct surveys of other studies of its customer base and usage for marketing and planning purposes. With respect to information collected from such surveys or studies, and in the event that responses are to be publicly disclosed, users will be notified at the time they take the survey and OSDN will disclose only aggregate information regarding its users and not personal information identifying any specific individual. Notwithstanding the foregoing, in cases where surveys allow users to submit written comments, and where OSDN advises users of the possibility of such disclosure at the time they take the survey, OSDN reserves the right to disclose text information provided by any user through such a survey, provided that no personal information identifying that user is disclosed. 
+
+**CHOICE**
+
+Cookies: OSDN employs "cookies" to provide a user with tailored information. A "cookie" is an element of data which a Service or site, when visited by a user, sends to that user's browser which, in turn, may store that element on the user's hard drive or memory. OSDN uses cookies to better serve users who use our Services; any cookies sent by OSDN will be marked so that they will only be accessible by websites subject to this Privacy Policy. However, at his or her option and at his or her sole expense and responsibility, any user may block or delete our cookies from his or her hard drive. However, by disabling cookies, certain site features and functionality may no longer work properly, or at all. 
+
+"Opt-in" Emails: Users may "opt-in" to receive site notifications, newsletters or other information via email. Users may remove themselves from such services at their discretion. Any email sent to an "opt-in" list will include directions for how a user may remove him or herself from the list, or a URL where the user may find such directions. 
+
+Other Notification: In order to implement or enforce the Terms of Service of the relevant OSDN site, OSDN may use personal information to contact users on an individual basis.
+
+Profile Display: In some cases, users' personal information may be publicly available through a user's profile display. In such cases, users have the option to opt out of publicly displaying their real names. In cases where site profiles allow users to display optional information publicly, such entry and display is at the user's discretion and may be changed at any time by the user.
+
+Email Display: In some cases, users may have the opportunity to use an OSDN service to send electronic mail to another user or email list. In such cases, a user's valid email address and real name will be included with such messages. In order to prevent abuse, users may not opt-out of such a display, but may choose to refrain from using said Service to transmit an email message.
+
+General: In cases where users voluntarily and publicly disclose personal information which may contain Registration Data or otherwise post personal information in conjunction with content subject to an open source license, such personal information necessarily will be disclosed subject to the terms of the applicable license. An example of such a disclosure includes, but is not limited to, a user's disclosure of personal information as part of a message posted to a public message forum or a publicly-released software application.
+
+At no time, unless such disclosure is required by law or a user specifically authorizes such disclosure, will OSDN disclose individual user personal information that is not publicly available to unrelated third parties.
+
+Surveys and Resulting Information: Subject to the foregoing, OSDN may conduct surveys or other studies of its customer base and usage for marketing and planning purposes. Participation in such surveys is at the user's option; OSDN does not conduct mandatory surveys.
+
+With respect to information collected from such surveys or studies, and in the event that responses are to be publicly disclosed, users will be notified at the time they take the survey and OSDN will disclose only aggregate information regarding its users and not personal information identifying any specific individual. Circumstances under which OSDN would publicly disclose such aggregate information include, but are not limited to, sharing survey results with the site population, providing data to OSDN advertisers on user preferences and/or demographics, and publicizing overall usage data in press communications.
+
+Notwithstanding the foregoing, in cases where surveys allow users to submit written comments, and where OSDN advises users of the possibility of such disclosure at the time they take the survey, OSDN reserves the right to disclose text information provided by any user through such a survey, provided that no personal information identifying that user is disclosed.
+
+**ACCESS**
+
+With regard to personal information, users can view their data on their personal profile page. When technically feasible, users are permitted to update their personal information directly through the OSDN service. When such updating service is not technically feasible, OSDN will make reasonable efforts to assist users in updating their personal information.
+
+**SECURITY**
+
+To secure site integrity, OSDN employs measures including but not limited to security audits, use of encryption tools and software, and other reasonable security measures and procedures. Internal access to users' private and nonpublic personal information is restricted to site administrators and individuals on a need-to-know basis.
+
+**ENFORCEMENT**
+
+In the event that OSDN becomes aware that site security is compromised or user nonpublic information has been disclosed to unrelated third parties as a result of external activity, including but not limited to external security attacks, OSDN shall take reasonable measures which it deems appropriate, including but not limited to internal investigation and reporting, and notification to and cooperation with law enforcement authorities.
+
+If OSDN becomes aware that a user's personal information provided to OSDN has been disclosed in a manner not permitted by this Privacy Policy, OSDN shall make reasonable efforts to notify the affected user, as soon as reasonably possible and as permitted by law, of what information has been disclosed, to the extent that OSDN knows this information.
+
+**UPDATES TO THE PRIVACY POLICY**
+
+To update the privacy policy, we will both post the changed version and its effective date at <http://www.osdn.com/privacy.shtml>. Concurrently with any change to the core privacy policy, we will email notice of the change to known users at least 15 days (or such shorter or longer time as mandated by law or any judicial or government body ) in advance.
