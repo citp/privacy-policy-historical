@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clarkconnect.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202144530id_/http%3A//clarkconnect.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarkconnect.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402080105id_/http%3A//www.clarkconnect.com/info/privacy.html) for the most accurate reproduction.*
 
 # About Us - Company - Privacy Policy
 
@@ -44,7 +44,7 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 Point Clark Networks provides users the opportunity to opt-out of receiving communications.  This site gives users the following options for removing their information from our database. 
 
-  * Send email to [privacy@clarkconnect.com](mailto:privacy@clarkconnect.com)
+  * Send e-mail to [privacy@clarkconnect.com](mailto:privacy@clarkconnect.com)
   * Account configuration on the website
 
 
@@ -63,7 +63,7 @@ We use cookies to personalize your visit to our site.  We do not use DoubleClic
 
 Point Clark Networks gives users the following options for modifying information previously provided. 
 
-  * Send email to [privacy@clarkconnect.com](mailto:privacy@clarkconnect.com)
+  * Send e-mail to [privacy@clarkconnect.com](mailto:privacy@clarkconnect.com)
   * Account configuration on the website
 
 
