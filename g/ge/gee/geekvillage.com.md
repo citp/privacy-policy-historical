@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekvillage.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610084141id_/http%3A//www.geekvillage.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekvillage.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017105540id_/http%3A//www.geekvillage.com/privacy.htm) for the most accurate reproduction.*
 
 # GeekVillage.com: Privacy Policy
 
@@ -28,7 +28,7 @@ Although we have no knowledge of any children under the age of 13 using any serv
 
 **If you are under 13 years of age please do not subscribe to any of our Email lists or register for our geek/talk Bulletin Board and or use any service on this site which requires your "personnel information".** The next paragraph explains this in more detail.
 
-If you are under the age of 13 and you see any service on this site which collects the following information, please do not use it or submit any data. This includes a service on this site which asks for your name, home address, e-mail address, telephone number, hobbies, interests, and a request for any other information that would allow someone to identify or contact a child under the age of 13. If you have any questions about our compliance procedures, please Email us at [webmaster@GeekVillage.com](https://web.archive.org/web/20020610084141id_/http%3A//www.geekvillage.com/mailto#webmaster@geekvillage.com)
+If you are under the age of 13 and you see any service on this site which collects the following information, please do not use it or submit any data. This includes a service on this site which asks for your name, home address, e-mail address, telephone number, hobbies, interests, and a request for any other information that would allow someone to identify or contact a child under the age of 13. If you have any questions about our compliance procedures, please [Email us](http://www.geekvillage.com/cgi-bin/no-mail.pl?webmaster).
 
 **Helpful Links:**
 
