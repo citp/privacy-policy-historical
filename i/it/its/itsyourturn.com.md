@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itsyourturn.com privacy policy that was archived on 2000-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000610192405id_/http%3A//www.itsyourturn.com/iyt.dll/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsyourturn.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203190800id_/http%3A//itsyourturn.com/iyt.dll/privacy) for the most accurate reproduction.*
 
 # ItsYourTurn.com - Privacy policy
 
