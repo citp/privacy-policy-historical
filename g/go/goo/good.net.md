@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the good.net privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203132434id_/http%3A//www.good.net/site/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the good.net privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602212455id_/http%3A//www.good.net/site/privacy.asp) for the most accurate reproduction.*
 
 # IDT Corporation - Site - Privacy Policy
 
