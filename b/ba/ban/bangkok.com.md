@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangkok.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603155252id_/http%3A//bangkok.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangkok.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205215816id_/http%3A//bangkok.com/privacy.shtml) for the most accurate reproduction.*
 
 # Bangkok.com
 
@@ -16,10 +16,13 @@ Voluntary promotion and opt-in service information may be used for our own marke
 
 Bangkok.com works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>. 
 
-If you have any questions about Bangkok.com's privacy, please feel free to contact us at [feedback@bangkok.com](https://web.archive.org/web/20020603155252id_/http%3A//bangkok.com/feedback@bangkok.com).
+If you have any questions about Bangkok.com's privacy, please feel free to contact us at [feedback@bangkok.com](https://web.archive.org/web/20021205215816id_/http%3A//bangkok.com/feedback@bangkok.com).
 
-**  
-[Home](http://bangkok.com/) [Baht](http://bangkok.com/cgi-bin/anacondaodp.pl?search=baht) [Mall](http://bangkok.com/mall) [Postcards](http://www.bangkok.com/postcards) [Thailand Hotels](http://bangkok.com/hotels) [Thai Travel](http://bangkok.com/cgi-bin/anacondaodp.pl?search=thai+travel) [Chat](http://bangkokchat.com/) [Privacy](http://bangkok.com/privacy.shtml)   
-[SiteTinker Web Design](http://www.sitetinker.us/) [Chiang Mai](http://www.chiangmai-online.com/) **
+**[T-Board - The Two-Wheel Skateboard the Rides Like a Snowboard!](http://www.t-boards.com/?linkid=100051)
+
+[Home](http://bangkok.com/) [Baht](http://bangkok.com/cgi-bin/anacondaodp.pl?search=baht) [Mall](http://bangkok.com/mall) [Postcards](http://www.bangkok.com/postcards) [Thailand Hotels](http://bangkok.com/hotels) [Thai Travel](http://bangkok.com/cgi-bin/anacondaodp.pl?search=thai+travel) [Chat](http://bangkokchat.com/) [Domain Names](http://www.registernames.com/)   
+[SiteTinker Web Design](http://www.sitetinker.us/) [Bird's Nests](http://www.bangkok.com/swift) [Chiang Mai](http://www.chiangmai-online.com/)
+
+**
 
 **Copyright © Bangkok.com**
