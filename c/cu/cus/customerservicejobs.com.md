@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customerservicejobs.com privacy policy that was archived on 2004-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040620205234id_/http%3A//www.customerservicejobs.com/MKT/Content/JS/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customerservicejobs.com privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012001708id_/http%3A//www.customerservicejobs.com/MKT/Content/JS/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # Customer Service. Careers in Customer Service. Work in Customer Service. Customer Service work. Customerservicejobs.com
 
