@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the digimarc.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607100059id_/http%3A//www.digimarc.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digimarc.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204112436id_/http%3A//www.digimarc.com/about/privacy.asp) for the most accurate reproduction.*
 
-# Digimarc Privacy Statement
+# Digimarc Corporation
 
-Digimarc Corporation Internet Privacy Policy
+[Home](https://web.archive.org/) > [About Digimarc]() > Digimarc Corporation Internet Privacy Policy
 
 Digimarc recently withdrew from participation in the [TRUSTe](http://www.truste.com/) program. Since this withdrawal, there has been no change to Digimarc's Privacy Policy and Digimarc remains committed to a Privacy Policy that provides users of the Digimarc web site assurance that their personal information is treated with the appropriate respect. For further information, please read the Privacy Policy below.
 
@@ -22,7 +22,7 @@ Unless you have voluntarily consented to provide Digimarc information about your
 If you have any questions regarding your information, choose to change it or have us delete what you provided to us, please contact our Digimarc MediaBridge group at 877-477-9992 or [helpdesk@digimarc.com](mailto:helpdesk@digimarc.com).
 
 **Digimarc Media Commerce Watermark Subscription Registration Program**  
-Photographers, web designers, and other people and organizations involved in image-processing can subscribe to digital watermark embedding and related services through our website by obtaining a Digimarc ID. In order to sign up for a Digimarc ID under the Digimarc Watermark Subscription Registration Program, you must first complete the [registration form](https://web.archive.org/products/imagebridge/signup/default.asp). During registration you are required to give your contact information (such as name, country and email address) and, if a fee is required, payment information (such as credit card number and expiration date). This information is used to contact you about the services on our site for which you have expressed interest, for billing purposes and to obtain your feedback. It is optional for you to provide demographic information (such as profession, digital camera ownership, embedding tool used) and unique identifiers (such as URL linked to Digimarc). You may update your information in the Member subscription area, [https://www.digimarc.com/mcregistration/login.asp](https://web.archive.org/products/imagebridge/myImageBridge/login.asp?&CookieCheck=yes&CookieCheck=yes).
+Photographers, web designers, and other people and organizations involved in image-processing can subscribe to digital watermark embedding and related services through our website by obtaining a Digimarc ID. In order to sign up for a Digimarc ID under the Digimarc Watermark Subscription Registration Program, you must first complete the [registration form](https://web.archive.org/watermark/mypicturemarc/purchase.asp). During registration you are required to give your contact information (such as name, country and email address) and, if a fee is required, payment information (such as credit card number and expiration date). This information is used to contact you about the services on our site for which you have expressed interest, for billing purposes and to obtain your feedback. It is optional for you to provide demographic information (such as profession, digital camera ownership, embedding tool used) and unique identifiers (such as URL linked to Digimarc). You may update your information in the [Member subscription area](https://web.archive.org/myimagebridge/login.aspx).
 
 **Administrative Email Communications**  
 We may send administrative type emails to you. As long as you are a registrant, you are not able to un-subscribe from these administrative emails. These emails contain important information about the service. We communicate with you to provide requested services and in regards to issues relating to your account via email or phone. 
@@ -61,6 +61,6 @@ Personally Identifiable Information and/or Third Party Personally Identifiable I
 
 Digimarc reserves the right to change its privacy policy. If we change our privacy practices, the changes will not relate to previously collected data. If we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
 
-Copyright 2004 , Digimarc Corporation, 19801 SW 72nd Avenue, Suite 100, Tualatin, Oregon 97062.  
+Copyright 2004 , Digimarc Corporation  
 **PRIVACY POLICY UPDATED 04/29/2002**  
 
