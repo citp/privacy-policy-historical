@@ -1,15 +1,16 @@
-> *The following text is extracted and transformed from the kgw.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203063850id_/http%3A//www.kgw.com/registration/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kgw.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611150750id_/http%3A//www.kgw.com/registration/privacy.html) for the most accurate reproduction.*
 
-# kgw.com | Portland | Privacy
+# kgw.com | News for Oregon and SW Washington | Privacy Policy
 
-**Updated as of October 14, 2003**
+| 
 
-This Privacy Policy discloses the general privacy practices for the Belo Interactive web sites, including **KGW.com**. Belo Interactive, Inc. ("Belo Interactive") is a subsidiary of Belo Corp. 
+**Updated as of March 5, 2004**
+
+This Privacy Policy discloses the general privacy practices for the Belo Interactive web sites, including **kgw.com**. Belo Interactive, Inc. ("Belo Interactive") is a subsidiary of Belo Corp. 
 
 Belo Interactive is committed to respecting your privacy rights when visiting any Belo Interactive web site, such as this one.  To protect your Personal Information, Belo Interactive has created the guidelines outlined below. Understanding that Internet technologies are rapidly evolving, any changes to this policy will be promptly posted on this page, with an updated "effective date" posted at the end of this policy. 
 
-  
-**Information Collected:**
+###  **Information Collected:**
 
 While visiting any of the Belo Interactive web sites (collectively, the "Site"), we may ask you to register and/or provide information that personally identifies you ("Personal Information") for purposes of interacting with the Site.  Such Personal Information may include, but is not limited to, your name, phone number, street address, and e-mail address.  On any page that collects Personal Information, we will specifically describe what information is required in order to provide you with the product or service, enter you in the promotion you have requested, or respond to your inquiry or comment.
 
@@ -25,8 +26,7 @@ We use an advertising server developed by a third party to display ads on the Si
 
 **IP Addresses** : Belo Interactive logs IP addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes and to determine site usage.  Your IP address does not contain personal information about you.
 
-  
-**Use of Personal Information**
+###  **Use of Personal Information**
 
 We believe in protecting your privacy, and will not share Personal Information with third parties outside of Belo Corp. except as described in this Privacy Policy.  We believe we can enhance your experience on our Site with the information you share with us.  We use Personal Information about you to improve our advertising and marketing efforts, to statistically analyze Site usage, to improve our content and product offerings and to personalize the Site's content, layout, and services.  We may also use your Personal Information, such as your e-mail address or mailing address, to contact you regarding products and/or services that may be of interest to you, to respond to an inquiry from you regarding the information that we have collected, or respond to your comments and suggestions. 
 
@@ -65,8 +65,7 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 Third party sites linked to and from the Site are not necessarily under the control of Belo Interactive.  Belo Interactive shall have no responsibilities or liabilities whatsoever for the content or privacy practices of any such linked site or any link or linking program at any time.  Belo Interactive does not necessarily endorse companies (or related products or services) to or from which the Site is linked.  If you decide to access any of the third party sites linked to the Site, you do so entirely at your own risk. 
 
-###   
-_Children's Privacy_
+###  _Children's Privacy_
 
 Belo Interactive cares about the safety of children and their use of the Internet.  Therefore, in accordance with the Children's Online Privacy Protection Act of 1998, we will never knowingly request or solicit personally identifiable information from anyone under the age of 13 without verifiable parental consent.  In the event that we receive actual knowledge that we have collected such personal information without the requisite and verifiable parental consent, we will delete that information from our database as quickly as is practicable.
 
@@ -77,9 +76,15 @@ We respect your privacy and ability to choose whether to share information with 
 
 There are four contact preference options available: (1) "opt-in" includes you in our special offer, discount and other programs with respect to our advertisers and partners via our My Specials Direct e-mail program or a similar program; (2) "site" includes you in our special offer, discount and other programs that relate to this Site from **KGW.com** ; (3) "phone" allows you to be contacted by telephone with respect to any of these programs, and (4) "mail" allows you to be contacted by mail with respect to any of these programs.  You may choose to be contacted by any or all of these methods, or "opt-out" by not selecting any contact options.  You may change your contact options at any time by following the process described in "Reviewing, Changing, and Deleting Your Personal Information."
 
+In addition to opting-out by managing your contact preference options, you may opt-out from receiving e-mail communications from any site service by sending your request to [helpcenter@belointeractive.com](mailto:helpcenter@belointeractive.com), or by sending postal mail to: Belo Interactive Attn: “Opt-Out Request” 900 Jackson Street, Suite 400 Dallas, TX 75202 
+
 You may "opt-out" altogether from providing Personal Information to us by not registering on the Site and thereby not providing Personal Information.  You may also choose at a later date to have your name removed from our database by deleting your registration profile.  To do so, please follow the process described  in "Reviewing, Changing, and Deleting Your Personal Information."
 
 Certain portions of the Site and certain services provided on the Site, however, do require registration in order to access or use these areas and services.  If you choose not to register or provide certain information, these areas will not be accessible to you. 
+
+### Notifying Advertisers of Opt-Outs, by Law
+
+When any site user chooses to opt-out of a specific advertiser program, to comply with federal law, we will furnish that user’s e-mail address to only the affected advertiser and only for the purpose of ensuring that address is removed from the advertiser’s own distribution lists per the user’s opt-out request.
 
 ### Reviewing, Changing and Deleting Your Personal Information
 
@@ -87,7 +92,7 @@ You may access all of the Personal Information that we collect from you online a
 
 You may also at any time choose to change or delete your profile from our database using this procedure.  You should know that if you choose to delete your profile, certain areas of our Site may no longer be accessible to you.
 
-1.                  Enter (or click) [http://signin. **KGW**.com](http://signin.kgw.com/) in your browser.
+1.                  Enter (or click) [http://signin. **kgw**.com](http://signin.kgw.com/) in your browser.
 
 2.                  Sign in by entering your e-mail address and password.  Your account information will then be displayed.
 
@@ -101,8 +106,20 @@ Belo Interactive maintains industry standard safeguards to ensure the security, 
 
 **Contacting Us**  
 
-If you have any questions or comments about our Privacy Policy, please e-mail us at helpcenter@belointeractive.com.
+If you have any questions or comments about our Privacy Policy, please e-mail us at [helpcenter@belointeractive.com](mailto:helpcenter@belointeractive.com).
 
 ### Effective Date and Changes
 
-This Privacy Policy is effective as of October 14, 2003.  Belo Interactive reserves the right to modify the terms of this policy at any time and in our sole discretion, by posting a change notice to this page.  Your continued use of the Site following our posting of a change notice will constitute binding acceptance of those changes. 
+This Privacy Policy is effective as of March 5, 2004.  Belo Interactive reserves the right to modify the terms of this policy at any time and in our sole discretion, by posting a change notice to this page.  Your continued use of the Site following our posting of a change notice will constitute binding acceptance of those changes. 
+
+This text is invisible on the page, but this text is affected by the invisible item's flow. This text is invisible on the page, but this text is affected by the invisible item's flow.
+
+| 
+
+Advertising 
+
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.kgw.com/aboutus/982970555/Position1/default/empty.gif/7a2f4869356c3479786b6f4143547864?x)
+
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.kgw.com/aboutus/298558243/Position4/default/empty.gif/7a2f4869356c3479786b6f4143547864?x)
+
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.kgw.com/aboutus/10237106/Position5/default/empty.gif/7a2f4869356c3479786b6f4143547864?x)
