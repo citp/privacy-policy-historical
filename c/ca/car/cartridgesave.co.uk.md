@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cartridgesave.co.uk privacy policy that was archived on 2003-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031225092602id_/http%3A//www.cartridgesave.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartridgesave.co.uk privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605094747id_/http%3A//www.cartridgesave.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
-# Cartridge Save -- Privacy Policy
+# Cartridge SAVE -- Privacy Policy
 
 We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998).
 
@@ -20,7 +20,7 @@ We will never collect sensitive information about you without your explicit cons
 
 We may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way cannot be used to to identify you. If you have any questions/comments about privacy, you should e-mail us at [privacy@cartridgesave.co.uk](mailto:privacy@cartridgesave.co.uk).
 
-Cartridge Save  
-Unit 9 Queens Court, Winsford  
-Cheshire, CW7 2BD, UK  
+Cartridge SAVE  
+418 Gorton Road, Reddish  
+Cheshire, SK5 6RS, UK  
 
