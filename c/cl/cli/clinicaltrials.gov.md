@@ -1,15 +1,12 @@
-> *The following text is extracted and transformed from the clinicaltrials.gov privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001223811id_/http%3A//www.nlm.nih.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clinicaltrials.gov privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602213432id_/http%3A//www.nlm.nih.gov/privacy.html) for the most accurate reproduction.*
 
 # NLM Privacy Policy
-
-  
-
 
 The National Library of Medicine (NLM) provides this Web site as a public service. We do **not** collect personal information about you when you visit our Web sites unless you choose to provide that information to us. 
 
 ### Information Collected and Stored Automatically
 
-Of the information we learn about you from your visit to NLM Web sites, we store only the following: the IP address from which you access the Internet, the date and time, the Internet address of the Web site from which you linked directly to our site, the name of the file or the words you searched, and the browser used to access our site. This information is used to measure the number of visitors to the various sections of our site and identify system performance or problem areas. We also use this information to help us expand the coverage of the sites and to make the site more useful. NLM periodically deletes its Web logs.
+Of the information we learn about you from your visit to NLM Web sites, we store only the following: the IP address from which you access the Internet, the date and time, the Internet address of the Web site from which you linked directly to our site, the name of the file or the words you searched, and the browser used to access our site. This information is used to measure the number of visitors to the various sections of our site and identify system performance or problem areas. We also use this information to help us expand the coverage of the sites and to make the site more useful. NLM periodically deletes its Web logs. On occasion, NLM may provide this information to third party entities it contracts with for the purposes of research analysis. 
 
 ### Cookies
 
@@ -26,3 +23,8 @@ Some NLM Web sites, such as MEDLINEplus, provide links to other Internet sites t
 ### Security
 
 The U.S. Government maintains this site. For site security purposes and to ensure that this service remains available to all users, we use software programs to monitor traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Causing damage to federal computer systems is a violation of U.S. law and is subject to criminal prosecution in federal court. In the event of authorized law enforcement investigations, and pursuant to any required legal process, information from these sources may be used to help identify an individual.
+
+**Last updated:** 06 May 2004  
+**First published:** 01 January 1993  
+Permanence level **:** Permanent: Stable Content  
+
