@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the crystald.com privacy policy that was archived on 2004-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040628050446id_/http%3A//eidosinteractive.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crystald.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010183913id_/http%3A//www.eidosinteractive.com/privacy.html) for the most accurate reproduction.*
 
 # EidosInteractive.com
 
-| [](https://web.archive.org/web/20040628050446id_/http%3A//eidosinteractive.com/whatsnew.html)  
+| [](https://web.archive.org/web/20041010183913id_/http%3A//www.eidosinteractive.com/whatsnew.html)  
 ---  
 |  |   
 | 
 
+[Get On Da Mic - In Stores Now & New Web Updates](http://www.getondamic.com/main.html)
+
+[ShellShock: Nam '67 In Stores Now. Check out the website updates.](http://www.eidosinteractive.com/gss/legacy/shellshock/main.html)
+
+[The Official Get On Da Mic Site is LIVE!](http://www.getondamic.com/main.html)
+
+[New ShellShock Trailer. Check it out here!](http://www.eidosinteractive.com/downloads/search.html?gmid=147)
+
 [New Backyard Wrestling 2 Trailer. View it now!](http://www.eidosinteractive.com/downloads/search.html?gmid=148)
-
-[Check out the Thief Playable Demo. Download it Now!](http://www.eidosinteractive.com/downloads/search.html?gmid=141)
-
-[New Thief Gameplay Trailer. View it now!](http://www.eidosinteractive.com/downloads/search.html?gmid=141)
-
-[Singles Demo Available for Download Now! Click Here to Download the Demo](http://www.eidosinteractive.com/downloads/search.html?gmid=152)
-
-[New Imperial Glory Trailer. View it Now!](http://www.eidosinteractive.com/downloads/search.html?gmid=150)
 
 |   
 |  |   
@@ -32,7 +32,7 @@ click here
 |  |   
 | 
 
-[Go here](https://web.archive.org/web/20040628050446id_/http%3A//eidosinteractive.com/forums/index.html) to talk about the games! 
+[Go here](https://web.archive.org/web/20041010183913id_/http%3A//www.eidosinteractive.com/forums/index.html) to talk about the games! 
 
 |   
 |  |   
