@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowes.com privacy policy that was archived on 2001-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010609120646id_/http%3A//www.lowes.com/lowes/generalContent/lowesDocument.asp%3FID%3Dsecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowes.com privacy policy that was archived on 2001-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011005120749id_/http%3A//www.lowes.com/Lowes/generalContent/lowesDocument.asp%3FID%3Dsecurity) for the most accurate reproduction.*
 
 # Document
 
