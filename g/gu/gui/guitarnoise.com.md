@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the guitarnoise.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604023744id_/http%3A//www.guitarnoise.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarnoise.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210160608id_/http%3A//www.guitarnoise.com/privacy.html) for the most accurate reproduction.*
 
-# GuitarNoise | Privacy Statement
+# Guitar Noise - Privacy Statement
 
 > **We do not collect personal information on this site.**
 
@@ -21,4 +21,4 @@ What this means to you is that we are committed to protecting your privacy and d
 
 GuitarNoise does not collect personal information from you.  At times you may be asked to voluntarily submit information if you wish to receive our newsletter, participate in BBS discussions, chats etc. Please remember that chat sessions and our interactive forum are considered public areas and you are responsible for your actions in these areas.  You should also be aware that any personal information you share may be available to others outside our organization. 
 
-Questions regarding this statement should be sent to the webmaster at [guitarnoise@hotmail.com](mailto:guitarnoise@hotmail.com). 
+Questions regarding this statement should be [sent to the webmaster](https://web.archive.org/web/20021210160608id_/http%3A//www.guitarnoise.com/contact.html). 
