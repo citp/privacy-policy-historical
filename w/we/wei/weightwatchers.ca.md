@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weightwatchers.ca privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215185331id_/http%3A//weightwatchers.ca/legal/n3_le_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightwatchers.ca privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628112836id_/http%3A//www.weightwatchers.ca/legal/n3_le_privacy.asp) for the most accurate reproduction.*
 
 # Welcome to Weight Watchers
 
