@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marist.edu privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217160611id_/http%3A//www.marist.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marist.edu privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607181446id_/http%3A//www.marist.edu/privacy.html) for the most accurate reproduction.*
 
 # Marist College: Privacy Policy
 
