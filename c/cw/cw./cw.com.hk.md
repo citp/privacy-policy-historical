@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cw.com.hk privacy policy that was archived on 2003-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030417140743id_/http%3A//www.idg.com.hk/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cw.com.hk privacy policy that was archived on 2003-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031219212502id_/http%3A//www.idg.com.hk/about/privacy) for the most accurate reproduction.*
 
 # IDG Communications - Hong Kong : Privacy
 
