@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jdate.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203025556id_/http%3A//jdate.com/default.asp%3Fp%3D13010%26CategoryID%3D120) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jdate.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602205153id_/http%3A//jdate.com/default.asp%3Fp%3D13010%26CategoryID%3D120) for the most accurate reproduction.*
 
 # jdate.com - the world's largest Jewish singles community
 
@@ -10,7 +10,7 @@ The following discloses our information gathering and dissemination practices fo
 
 **Overview**
 
-As part of the normal operation of our services we collect and, in some cases, may disclose information about you. This Privacy Policy describes the information we collect about you and what may happen to that information. By accepting this Privacy Policy and our Terms and Conditions, you expressly consent to our use and disclosure of your personal information in the manner prescribed in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the MatchNet Terms and Conditions. This Privacy Statement applies to all MatchNet sites, including: AmericanSingles.com, JDate.com, JDate.co.il, Glimpse.com, MatchNet.de, MatchNet.co.uk, MatchNet.com.au, CollegeLuv.com and FaceLink.com (the Websites"). All other MatchNet worldwide sites operate under similar privacy practices as described in this Privacy Policy, and subject to the requirements of applicable local law, we strive to provide a consistent set of privacy practices throughout the MatchNet dating sites.
+As part of the normal operation of our services we collect and, in some cases, may disclose information about you. This Privacy Policy describes the information we collect about you and what may happen to that information. By accepting this Privacy Policy and our Terms and Conditions, you expressly consent to our use and disclosure of your personal information in the manner prescribed in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the MatchNet Terms and Conditions. This Privacy Statement applies to all MatchNet sites, including: AmericanSingles.com, JDate.com, JDate.co.il, Glimpse.com, MatchNet.de, MatchNet.co.uk, MatchNet.com.au, CollegeLuv.com, SilverSingles.com, and FaceLink.com (the Websites"). All other MatchNet worldwide sites operate under similar privacy practices as described in this Privacy Policy, and subject to the requirements of applicable local law, we strive to provide a consistent set of privacy practices throughout the MatchNet dating sites.
 
 1\. **A Special Note About Children**
 
