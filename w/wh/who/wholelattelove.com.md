@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholelattelove.com privacy policy that was archived on 2001-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011215050543id_/http%3A//wholelattelove.com/espresso-machine/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholelattelove.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602082259id_/http%3A//wholelattelove.com/espresso-machine/privacy.htm) for the most accurate reproduction.*
 
 # Espresso Machines from Whole Latte Love
 
@@ -16,13 +16,11 @@ Whole Latte Love will not sell or rent your personally identifiable information 
 Whole Latte Love may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages. **Questions & Suggestions:**  
 If you have questions or suggestions complete our survey or send an e-mail to [sales@wholelattelove.com](mailto:sales@wholelattelove.com).  
   
-back to top of page  
-[](https://web.archive.org/web/20011215050543id_/http%3A//wholelattelove.com/gifts/gift_services.htm)   
-[Home](https://web.archive.org/web/20011215050543id_/http%3A//wholelattelove.com/index.shtml) . [Reviews](http://www.coffee-machine.com/cm/forms/default.asp) . [Research Center ](https://web.archive.org/web/20011215050543id_/http%3A//wholelattelove.com/espresso-machine/research.htm). [Policies](https://web.archive.org/web/20011215050543id_/http%3A//wholelattelove.com/espresso-machine/policies.htm) . [Privacy](https://web.archive.org/web/20011215050543id_/http%3A//wholelattelove.com/espresso-machine/privacy.htm) . [Contact Us](http://www.wholelattelove.com/forms/contact.htm) . [View Basket](http://www.coffee-machine.com/cm/basket.asp)  
+back to top of page[Home](https://web.archive.org/web/20020602082259id_/http%3A//wholelattelove.com/index.shtml) . [Reviews](http://www.coffee-machine.com/cm/forms/default.asp) . [Research Center ](https://web.archive.org/web/20020602082259id_/http%3A//wholelattelove.com/espresso-machine/research.htm). [Policies](https://web.archive.org/web/20020602082259id_/http%3A//wholelattelove.com/espresso-machine/policies.htm) . [Privacy](https://web.archive.org/web/20020602082259id_/http%3A//wholelattelove.com/espresso-machine/privacy.htm) . [Contact Us](https://web.archive.org/web/20020602082259id_/http%3A//wholelattelove.com/espresso-machine/contact.htm) . [View Basket](http://www.coffee-machine.com/cm/basket.asp)  
   
 888-411-5282 (JAVA) or 585-924-7170 or FAX 585-924-7362  
 Whole Latte Love 7330 Rt 251, Victor, NY 14564  
 Distribution Centers in Victor, NY & Reno, NV  
-[Copyright © 2001 Whole Latte Love](https://web.archive.org/web/20011215050543id_/http%3A//wholelattelove.com/espresso-machine/copyright.htm). All rights reserved.
+[Copyright © 2002 Whole Latte Love](https://web.archive.org/web/20020602082259id_/http%3A//wholelattelove.com/espresso-machine/copyright.htm). All rights reserved.
 
 [](http://www.espressotop50.com/)
