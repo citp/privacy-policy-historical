@@ -1,15 +1,19 @@
-> *The following text is extracted and transformed from the domesticsale.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603093618id_/http%3A//www.domesticsale.com/help-privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domesticsale.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208203635id_/http%3A//www.domesticsale.com/help-privacy.shtml) for the most accurate reproduction.*
 
 # DomesticSale.com - Privacy Policy
 
 | | | [Home](https://web.archive.org/)  
 ---|---  
 |  [Auto](https://web.archive.org/autoclassified/ "Used cars for sale, auto dealers, car loan, auto insurance")  
-|  [Real Estate](https://web.archive.org/realestate/ "Real Estate classifieds. Home for sale.")  
+|  [Real Estate](https://web.archive.org/realestate/ "Real Estate classifieds. Homes for sale.")  
 |  [Classifieds](https://web.archive.org/Classifieds/ "Auto goods, Pets, Collectibles, Personals and more ...")  
-| [Job guide](https://web.archive.org/job/ "Jobs finder, job listing, career tools")  
+| [Job guide](http://job.domesticsale.com/ "Jobs finder, job listing, career tools")  
 | [Sales digest](https://web.archive.org/sales/ "Sales, clearance, smart shopping")  
 | [Free stuff](https://web.archive.org/signs/ "Flyers, boards ads, sales signs, car sticker")  
+|  [Vacations](http://travel.domesticsale.com/ "Vacation by owners")  
+ **International:**  
+|  [Classifieds](http://international.domesticsale.com/ "International classified ads")  
+|  [Real Estate](http://international.domesticsale.com/realestate/ "Internetational Real Estate")  
 |   Maps  
 ---|---  
 | Address:  
@@ -18,9 +22,6 @@ City:
 State: |   
 ZIP: |   
   
-  
-
-
 | | | | 
 
 ## Privacy policy & Disclaimer
@@ -57,24 +58,24 @@ DomesticSale.com does not assume responsibility for the content of classified ad
   
 | 
 
-[](https://web.archive.org/sales/travel.html "Vacation and Travel deals")
+[](https://web.archive.org/top-ads-program.html)
 
 | |   Testimonials  
 ---|---  
-  "I love your site, the best FREE classified site I've come accross EVER!!! ..."  
+  "I love your site, **the best** FREE classified site I've come accross EVER!!! ..."  
 Regards, Kerry *pinkbike*
 
-  "This classified ads site is very competitively priced... I'm getting a massive response from my ad!"   
+  "This classified ads site is **very** competitively priced... I'm getting a **massive response** from my ad!"   
 DG. New York.
 
-  "Free ads work but are not pulling responses like we expected. We finally decided to use DomesticSale's paid ads because we have real results now."   
+  "Free ads work but are not pulling responses like we expected. We **finally decided** to use DomesticSale's paid ads because we have real results now."   
 Kristin & Tim. Florida.
 
-  "This is very nice and useful website. There are no any hidden fee like "processing fee", "verification fee" or "diamond membership", no registration with hundreds of questions. I was very impressed with the results. I like it and recommend it to others."   
+  "This is very nice and **useful website**. There are no any hidden fee like "processing fee", "verification fee" or "diamond membership", no registration with hundreds of questions. I was **very impressed** with the results. I like it and recommend it to others."   
 Brian F. Colorado.
 
-  "This is a very nice site, I sold my car in few days!!!"   
-Tank You. Steve.
+  "This is a very nice site, I **sold my car** in few days!!!"   
+Thank You. Steve.
 
-  "Thank you very much! I sold all my pups in week. Remove my ad ASAP, please ..."   
+  "Thank you very much! I sold **all my pups** in week. Remove my ad ASAP, please ..."   
 Sincerely, Jeff. 
