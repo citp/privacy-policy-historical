@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recipeland.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604103454id_/http%3A//www.recipeland.com/privacy.epl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipeland.com privacy policy that was archived on 2001-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011031162923id_/http%3A//www.recipeland.com/privacy.epl) for the most accurate reproduction.*
 
 # Privacy Policy - RecipeLand.com
 
