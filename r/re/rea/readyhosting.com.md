@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readyhosting.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208135539id_/http%3A//www2.readyhosting.com/CustomerDisplayPrivacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readyhosting.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618202037id_/http%3A//www2.readyhosting.com/CustomerDisplayPrivacyPolicy.cfm) for the most accurate reproduction.*
 
 # WebHosting, ReadyHosting.com, Your source for NT Webhosting, FrontPage, Unlimited Email
 
