@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nea.org privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203035512id_/http%3A//www.nea.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nea.org privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603195910id_/http%3A//nea.org/privacy.html) for the most accurate reproduction.*
 
 # NEA: NEA Privacy Statement
 
-  | 
+| 
 
 Thank you for visiting the National Education Association's (NEA) Web Site. We appreciate your interest in NEA. Because we share your concern about privacy, we are letting you know how we collect information about you, what information we collect, how we use the information, under what circumstances we disclose it, and what choices are available to you regarding such data collection. This Privacy Statement covers information collected at the following NEA Web sites: www.nea.org, www.safeschoolsnow.org, conference.nea.org, events.nea.org, flyerpro.nea.org, and list.nea.org. For simplicity, we will refer to these as "our sites."
 
@@ -56,3 +56,5 @@ NEA retains the right to amend or otherwise update this Privacy Statement at any
 ### How to Contact Us
 
 If you have any questions about this Privacy Statement, you may contact us by sending an e-mail to [slanoff@nea.org](mailto:slanoff@nea.org).
+
+|  | 
