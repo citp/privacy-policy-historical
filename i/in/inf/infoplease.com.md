@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infoplease.com privacy policy that was archived on 2002-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021129081037id_/http%3A//fen.com/resources/privacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoplease.com privacy policy that was archived on 2003-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030801181804id_/http%3A//fen.com/resources/privacyStatement.html) for the most accurate reproduction.*
 
 # Fen.com - Privacy Statement
 
@@ -20,12 +20,14 @@ _
 Information You Provide to Us  
 How We Use the Information You Provide   
 Choice/Opt-out   
+Our Email Newsletters  
 We Protect Kids' Privacy   
 Notification and Verifiable Parental Consent  
 What Are Cookies?   
 What Are IP Addresses?   
+A Notice about SchoolCash Users' Information  
 A Notice About Our Advertisers  
-A Notice About External Links   
+A Notice About External Links  
 Public Forums  
 Security  
 Contacting Family Education Network_
@@ -41,15 +43,21 @@ Please note: Children under the age of 13 cannot become Family Education Network
   
 How We Use the Information You Provide:
 
-Family Education Network uses your personal information to tailor the content programming, information services, and software applications that we provide to meet your needs and interests. We do not share any personal information you provide to us with any partner, sponsor, affiliate, agent, or third party, unless you have given us express consent to do so. Family Education Network may occasionally involve a paying or nonpaying partner in our registration areas because they share our educational mission and they provide a highly valued service to our members. 
+Family Education Network uses your personal information to tailor the content programming, information services, and software applications that we provide to meet your needs and interests. When you conduct a transaction through this site, you are providing transaction information to Family Education Network's third party suppliers (such as transaction processors and financial institutions) who will use the information solely for the purpose of the transaction. Finally, there may also be other third party vendors who supply software applications, web hosting and other technologies for this site that may have access to your personal information but they will never use such information for any other purpose except to provide services in connection with this site. Except as otherwise provided herein, Family Education Network will not share any personal information about you with any third party (a party not affiliated with Pearson Education, Inc.), except in the following circumstances: (a) in response to subpoenas, court orders or legal process, to the extent permitted and as restricted by law; (b) when disclosure is required to maintain the security and integrity of this site, or to protect any user's security or the security of other persons, consistent with applicable laws; or (c) when disclosure is directed or consented to by the registered member who has inputted the personal information. Family Education Network may occasionally involve a paying or nonpaying partner in our registration areas because they share our educational mission and they provide a highly valued service to our members. 
 
 Family Education Network also collects information on our audience as a whole. Here, no audience members are identified by their personal information -- we are only interested in how Family Education Network looks demographically and statistically. This basic market research allows us to identify the trends, developments, and needs of our audience. The information is organized into reports that are used internally and only shared with partners and sponsors to make sure that their product or services are appropriately suited to our audience. Every audience member remains completely anonymous. 
 
-  
+Family Education Network uses WebTrends Live, a third party service, to collect anonymous visitor data on our network of sites. The WebTrends Live service does not collect any personal information such as names, ages, phone numbers, addresses or e-mail addresses from visitors to any Family Education Network site. Family Education Network uses the WebTrends Live service to collect anonymous visitor information like IP addresses, browser types (such as Internet Explorer or Netscape), referring pages, pages visited and time spent on a particular site. Family Education Network uses the WebTrends Live service to collect this non-personally identifiable information for the following purposes: (1) to provide anonymous statistical analysis of web page traffic patterns; (2) to administer our site and servers; (3) to allow for auditing of our services by third parties; and (4) to improve our services. If you would like to learn more about the WebTrends Live service and to view the complete WebTrends Live privacy statement, please click here:   
+<http://www.webtrendslive.com/privacy_policy.htm>
+
 Choice/Opt-out:
 
-When you register, you may be given the option to receive important Family Education Network news, events, products, and special offers. If you wish not to be contacted, you must simply "opt-out" by unchecking the demarcated box (you will find the box already checked). At any time, you may change this decision and either opt-in or opt-out of this service by sending an email to: [CustomerCare@fen.com](mailto:customercare@fen.com). When emailing, please provide your first name and last name, and also tell us if you are opting out of an email or postal mail communication. If you would like to be contacted by one of our partners or sponsors, you must actively opt-in to this service by checking the demarcated box (you will find the box unchecked).  
-  
+When you register, you may be given the option to receive important Family Education Network news, events, product information, and special offers ("FEN Mail"). Depending on the FEN product or service, you may be given the choice to "opt-out" of receiving such FEN Mail during the registration process. If you wish not to be contacted please do one of the following: (1) if given the option to opt-out during the registration process, you should do so by unchecking the demarcated box (you will find the box already checked), or (2) if the choice to opt-out is not given during the registration process, please email us at [CustomerCare@fen.com](mailto:customercare@fen.com) and tell us your full name, the identify the FEN product at issue and let us know that you do not wish to receive FEN Mail. At any time, you may change this decision and either opt-in or opt-out of this service by sending an email to: [CustomerCare@fen.com](mailto:customercare@fen.com). When emailing, please provide your full name, the identify the FEN product at issue, and also tell us that you are opting-out (or opting back-in) of receiving FEN Mail. If you would like to be contacted by one of our partners or sponsors, you must actively opt-in to this service by checking the demarcated box (you will find the box unchecked). 
+
+Our Email Newsletters:
+
+Please be advised that our email newsletters are part of a wide distribution, and that neither FEN nor any third party involved in these offers/newsletters is monitoring, reviewing or screening the recipient list of this email prior to its distribution. This email is being distributed to everyone who has expressly opted-in to receive these types of offers and/or newsletters from FEN. If local, state or federal rules or regulations prohibit you from receiving these types of offers and/or newsletters or you simply do not wish to receive same in the future or this email was sent to you in error, please immediately opt-out from receiving similar future offers and/or newsletters by visting the [FEN Newsletter Center](http://newsletters.fen.com/) and updating your subscription. You can always opt back in to receive future offers and/or newsletters at any time by going to the [Newsletter Center](http://newsletters.fen.com/). To review and modify the categories of offers and/or newsletters which you have opted-in, please go to [http://newsletters.fen.com](http://newsletters.fen.com/).
+
 We Protect Kids' Privacy:
 
 Family Education Network encourages parents and guardians to spend time online with their children. We urge parents to instruct their children to never give out their real names, addresses, or phone numbers without permission when using the Internet. We recognize a special obligation to protect personal information obtained from children. 
@@ -94,6 +102,16 @@ An IP address is a number that is assigned automatically to your computer whenev
 Family Education Network collects IP addresses for system administration; to report aggregate information to our advertisers, sponsors, and partners; and to audit the use of our site. When visitors request pages from Family Education Network sites, our servers log the guests' IP addresses. We typically do not link IP addresses to anything personally identifiable. This means that a visitor's session will be logged, but the visitor remains anonymous to us. We can and will use IP addresses to identify a visitor when we feel it is necessary to enforce compliance with our rules or terms of service, or to protect our service, site, customers, or other individuals. 
 
 Some features within Family Education Network, such as certain message boards, may display IP addresses along with the message-poster's visitor name and message. You should review each feature prior to use and only use those features that disclose information you are comfortable sharing. 
+
+A Notice about SchoolCash Users' Information:
+
+The "My Account" section of SchoolCash provides users with secure access to the following personal information about his/her transaction history: transaction date, merchant name, sale amount, rebate amount, and SchoolCash group supported. SchoolCash will share a User's aggregate rebate information (total purchases made in support of the group and total rebates earned) with the SchoolCash Coordinator for the group(s) the User has selected to support. SchoolCash will not divulge to the SchoolCash Coordinator the merchant(s) at which a User's transaction(s) occurred. SchoolCash does not gather product-level information about each transaction; therefore SchoolCash cannot divulge which product(s) the user purchased. SchoolCash users may opt NOT to share aggregate purchase and rebate information with their Coordinator through changing preferences on the SchoolCash "[My Profile](http://schoolcash.com/secure/editProfile.aspx)" page. 
+
+SchoolCash Users may elect to share their email address with the SchoolCash Coordinator(s) for their selected group(s). While SchoolCash's privacy policy prohibits the sharing of individual email addresses, the User may request that his/her email address be shared with the SchoolCash Coordinator in order to better facilitate communication about the program. SchoolCash will not divulge the User's email address to anyone other than the SchoolCash Coordinator of record for the User's selected group(s). 
+
+SchoolCash Coordinators may opt to share their email address with their SchoolCash Users who support that Coordinator's group. SchoolCash will not divulge the Coordinator email address to anyone other than SchoolCash Users who support the Coordinator's group. 
+
+The rest of the terms of FEN's Privacy Policy apply. 
 
 A Notice About Our Advertisers:
 
