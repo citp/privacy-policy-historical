@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smashbox.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604234947id_/http%3A//www.smashbox.com/privacy.asp%3Fsblid%3Dlink1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smashbox.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205002214id_/http%3A//www.smashbox.com/privacy.asp%3Fsblid%3Dlink1) for the most accurate reproduction.*
 
 # privacy policy
 
