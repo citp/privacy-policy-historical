@@ -1,24 +1,16 @@
-> *The following text is extracted and transformed from the hardwareanalysis.com privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608174927id_/http%3A//hardwareanalysis.com/content/about_us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardwareanalysis.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203181434id_/http%3A//hardwareanalysis.com/content/about_us/privacy_policy) for the most accurate reproduction.*
 
 # Hardware Analysis - Privacy Policy
 
-By accessing or using the Hardware Analysis web site, you agree to the terms of the Privacy Policy, as outlined below. If you do not agree to these terms, please do not access or use this web site. Hardware Analysis reserves the right to change the Privacy Policy from time to time at its sole discretion. Your use of this web site will be subject to the most current version of the Privacy Policy at the time of such use, which is this document.Collection of personal information:
+By accessing or using the Hardware Analysis web site, you agree to the terms of the Privacy Policy, as outlined below. If you do not agree to these terms, please do not access or use this web site. Hardware Analysis reserves the right to change the Privacy Policy from time to time at its sole discretion. Your use of this web site will be subject to the most current version of the Privacy Policy at the time of such use, which is this document.
 
 When you register for the Hardware Analysis Community, Hardware Analysis will ask you to provide certain information about yourself by filling out and submitting an online form. In this form Hardware Analysis will ask that you provide us personal information, such as your first and last name and e-mail address. When ordering products or services on the site, you may be asked to provide a credit card number. Depending upon the activity, some of the information that we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data with respect to a particular activity, you will not be able to engage in that activity. 
 
-How your personal information is used:
-
 Hardware Analysis collects your information in order to record and support your participation in the activities you select. Hardware Analysis recognizes and appreciates the importance of responsible use of information collected on this website. If you do not want to receive newsletters or any other promotional materials regarding our products or services, and you indicate this preference when you provide your personal information to Hardware Analysis, Hardware Analysis will honor your preference by not providing you with such information. Hardware Analysis reserves the right to provide aggregate data to third parties for statistical analysis. Such data will not be linked to any particular individuals. 
-
-Protection of your personal information:
 
 The personal information that you provide in connection with registering yourself as a member of the Hardware Analysis Community is classified as Registration Information. Registration Information is protected in several ways. Access by you to your Registration Information is available through a password and unique username selected by you. This password is encrypted. We recommend that you do not divulge your password to anyone. Please note that any information you post in the forums or chat room, is available to all persons accessing Hardware Analysis. 
 
-Use of cookies:
-
 When you visit Hardware Analysis, you will do so anonymously and can access information without revealing your identity. In order to improve our site, we use 'cookies' to track your visit. A cookie is small amount of data that is transferred to your browser by a web server and can only be read by the server that gave it to you. It functions as your identification card, recording your passwords, purchases, and preferences. It cannot be executed as code or deliver viruses, and this information does not identify you personally and you remain anonymous unless you have otherwise provided Hardware Analysis with personal information.
-
-Updating your personal information:
 
 You have the right to access and correct your personal information and privacy preferences at any time. With respect to Registration Information, this may be accomplished by linking to User Profile, where you can view and make changes to your personal information. You may also access and correct your personal information and privacy preferences by writing Hardware Analysis. Please include your user name, email address, and password when you contact us. 
 
@@ -27,8 +19,6 @@ Registration Information
 Overlanderstraat 399  
 1445 DV Purmerend  
 The Netherlands 
-
-Privacy related complaints:
 
 If you believe that Hardware Analysis has not complied with this Privacy Policy with respect to your personal information, you may write Hardware Analysis at the address indicated above. In your letter, please describe in as much detail as possible the ways in which you believe that the Privacy Policy has not been complied with. We will investigate your complaint promptly. 
 
