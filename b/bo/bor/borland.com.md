@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the borland.com privacy policy that was archived on 2003-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031004172653id_/http%3A//www.borland.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the borland.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605171119id_/http%3A//borland.com/company/privacy.html) for the most accurate reproduction.*
 
-# Borland
+# Borland Privacy Policy
 
 Privacy Policy 
 
@@ -38,4 +38,4 @@ We may also link to co-branded Web sites from time to time that are maintained b
 
 Please remember that any information you submit in a chat group or forum will be deemed public information and is not confidential. There is a risk in such communication venues that information can be collected and used by others. Please be careful and responsible when you are online.
 
-Questions regarding this Privacy Statement should be directed to [privacy@borland.com](mailto:privacy@borland.com).
+Questions regarding this Privacy Statement please [contact us](https://web.archive.org/company/contact/index.html).
