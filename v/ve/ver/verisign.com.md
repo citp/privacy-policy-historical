@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the verisign.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622041948id_/http%3A//verisign.com/truste/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verisign.com privacy policy that was archived on 2003-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031225220416id_/http%3A//verisign.com/truste/index.html%3Fsl%3D061202) for the most accurate reproduction.*
 
-# VeriSign Inc. - www.verisign.com
+# Truste
 
 VeriSign, Inc.'s Privacy Statement  
 **Version 2.7 - November 15, 2002**  
