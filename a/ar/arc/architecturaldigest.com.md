@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the architecturaldigest.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208182314id_/http%3A//condenet.com/mags/archdigest/site/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architecturaldigest.com privacy policy that was archived on 2003-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030210130305id_/http%3A//condenet.com/mags/archdigest/site/privacypolicy.html) for the most accurate reproduction.*
 
 # CondéNet and Condé Nast Magazines: ArchitecturalDigest.com Privacy Policy
 
