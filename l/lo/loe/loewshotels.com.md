@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loewshotels.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217214834id_/http%3A//loewshotels.com/aboutus_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loewshotels.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408122653id_/http%3A//loewshotels.com/aboutus_privacy.asp) for the most accurate reproduction.*
 
 # Loews Hotels | About Us
 
