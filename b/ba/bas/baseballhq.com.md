@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baseballhq.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602235549id_/http%3A//www.baseballhq.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baseballhq.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208215222id_/http%3A//www.baseballhq.com/privacy.html) for the most accurate reproduction.*
 
 # Baseball HQ - Privacy Policy
 
