@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatefirst.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001225142id_/http%3A//www.affiliatefirst.com/cgi-bin/page.cgi%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatefirst.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610103632id_/http%3A//www.affiliatefirst.com/cgi-bin/page.cgi%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # AffiliateFirst Submission Services
 
@@ -46,11 +46,20 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.
 
+#### Choice/Opt-Out
+
+Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us .
+
+  1. You can visit the following URL: [http://www.affiliatefirst.com](http://www.affiliatefirst.com/cgi-bin/page.cgi?p=contact&d=1)
+
+
+
+
 #### Data Quality/Access
 
 This site gives users the following options for changing and modifying information previously provided:
 
-  1. You can send email to [webmaster@affiliatefirst.com](mailto:friends@affiliatefirst.com)
+  1. You can [contact us](http://www.affiliatefirst.com/cgi-bin/page.cgi?p=contact&d=1)
 
 
 
@@ -61,7 +70,7 @@ If we decide to change our privacy policy, we will post those changes on our Hom
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site  
+[Contact Us](http://www.affiliatefirst.com/cgi-bin/page.cgi?p=contact&d=1)
 
-
-[webmaster@affiliatefirst.com](mailto:webmaster@affiliatefirst.com) or my mail; AffiliateFirst  241 W. 97th St.,14K, New York, NY, 10025 **   ******
+or by mail; AffiliateFirst  241 W. 97th St.,14K, New York, NY, 10025 **   ******
