@@ -1,36 +1,11 @@
-> *The following text is extracted and transformed from the burlingtoncoatfactory.com privacy policy that was archived on 2003-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030324210716id_/http%3A//www.bcfdirect.com/privacy.tem) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burlingtoncoatfactory.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002023005id_/http%3A//www.bcfdirect.com/privacy.tem) for the most accurate reproduction.*
 
 # BCF Webstore - Privacy
 
-  |  | [](http://www.bcfdirect.com/index.html) |  | 
+ |  Thank you for shopping at BCFDirect. BCFDirect is committed to respecting your privacy rights as a customer or visitor to our Web site. When you visit our Web site, our server only recognizes your IP address and your domain. Our site analysis tool tracks aggregate information on which pages are visited, how frequently, and for how long. This information is gathered for both marketing and promotional purposes. This information is collected in an effort to enhance your shopping experience. If you give us your e-mail or U.S. mailing information in the course of a sales transaction, registration, or in response to a customer survey, we do retain this information.
 
-[](http://www.coat.com/) [](http://www.bcfdirect.com/service.tem) [](https://www.bcfdirect.com/Members.tem) [](http://www.bcfdirect.com/map.tem) [](https://www.bcfdirect.com/OMBasketManager.process?RestartFlow=t&OMAction=list)  
-  
----  
-  
-            [](http://www.bcfdirect.com/Templates/IWProduct/IWAdvancedSearch.tem)  
-  
-[](http://www.bcfdirect.com/IWCatSectionView.process?IWAction=Load&Merchant_Id=1&Section_Id=2697) | [](http://www.bcfdirect.com/IWCatSectionView.process?IWAction=Load&Merchant_Id=1&Section_Id=2100) | [](http://www.bcfdirect.com/IWCatSectionView.process?IWAction=Load&Merchant_Id=1&Section_Id=3160) | [](http://www.bcfdirect.com/IWCatSectionView.process?IWAction=Load&Merchant_Id=1&Section_Id=2040) | [](http://www.bcfdirect.com/IWCatSectionView.process?IWAction=Load&Merchant_Id=1&Section_Id=1940) | [](http://www.bcfdirect.com/IWCatSectionView.process?IWAction=Load&Merchant_Id=1&Section_Id=3040) | [](http://www.bcfdirect.com/IWCatSectionView.process?IWAction=Load&Merchant_Id=1&Section_Id=1395) | [](http://www.bcfdirect.com/IWCatSectionView.process?IWAction=Load&Merchant_Id=1&Section_Id=2401) | [](http://www.bcfdirect.com/IWCatSectionView.process?IWAction=Load&Merchant_Id=1&Section_Id=2380)  
----|---|---|---|---|---|---|---|---  
-  | 
+This information will not be sold or shared with any third parties other than companies or persons retained by Burlington Coat Factory to provide information to you or analysis for Burlington Coat Factory. All such companies or persons will be contractually bound to keep such information confidential.
 
-Your Privacy 
+Protecting our customers' personal information is a priority for BCFDirect. To ensure your security, anytime personal or sensitive information such as your credit card number or name and address is transmitted; BCFDirect uses an SSL (Secure Socket Layer) with 128-bit encryption protocol. 
 
-|    
----|---|---  
- | Your Privacy Online|    
----|---|---  
- |  Burlington Coat Factory Direct and Burlington Coat Factory gather customer information online for both marketing and promotional purposes. When you visit our web site, our server only recognizes your IP address and your domain. Our site analysis tool tracks aggregate information on which pages are visited, how frequently, and for how long. If you give us your e-mail or US mailing information, we do retain this information. This information is collected in an effort to enhance our customers' shopping experience. Such information includes customer information gathered in the course of processing sales transactions and in response to customer surveys and registrations. This information will not be shared with or sold to any third parties.  |    
-  |    
-  
-|   
----|---  
-| Enter your U.S. zip code to find a Burlington Coat Factory near you.  
-Not all stores contain Baby Depot, Linen, Shoe, or Jewelry departments. |   
-  
-[  
-Ladies'](http://www.bcfdirect.com/IWCatSectionView.process?IWAction=Load&Merchant_Id=1&Section_Id=2697) | [Fine Jewelry](http://www.bcfdirect.com/IWCatSectionView.process?IWAction=Load&Merchant_Id=1&Section_Id=4720) | [Men's](http://www.bcfdirect.com/IWCatSectionView.process?IWAction=Load&Merchant_Id=1&Section_Id=2100) | [Children's](http://www.bcfdirect.com/IWCatSectionView.process?IWAction=Load&Merchant_Id=1&Section_Id=3160) | [Coats](http://www.bcfdirect.com/IWCatSectionView.process?IWAction=Load&Merchant_Id=1&Section_Id=2040) | [Shoes](http://www.bcfdirect.com/IWCatSectionView.process?IWAction=Load&Merchant_Id=1&Section_Id=1940) | [Fragrances](http://www.bcfdirect.com/IWCatSectionView.process?IWAction=Load&Merchant_Id=1&Section_Id=3040) | [Baby](http://www.bcfdirect.com/IWCatSectionView.process?IWAction=Load&Merchant_Id=1&Section_Id=1395) | [Home Decor](http://www.bcfdirect.com/IWCatSectionView.process?IWAction=Load&Merchant_Id=1&Section_Id=2401) | [Luggage](http://www.bcfdirect.com/IWCatSectionView.process?IWAction=Load&Merchant_Id=1&Section_Id=2380) | [Sizing Charts](http://www.bcfdirect.com/schart.tem)   
-[Home](http://www.coat.com/index.shtml) | [Customer Service](http://www.bcfdirect.com/service.tem) | [Login](https://www.bcfdirect.com/Members.tem) | [Site Map](http://www.bcfdirect.com/map.tem) | [Store Locator](http://www.coat.com/cgi-bin/mqinterconnect?link=find) | [Corporate](http://www.coat.com/corpinfo/index.shtml) | [Employment](http://www.coat.com/employment/index.shtml) | [Events](http://www.coat.com/events/index.shtml) | [Contact Us](http://www.coat.com/contact/index.shtml)   
-Please read our [Privacy Statement](http://www.bcfdirect.com/privacy.tem).
-
-Copyright © 1997-2002 Burlington Coat Factory - All rights reserved
+|  
