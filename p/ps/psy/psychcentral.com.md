@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psychcentral.com privacy policy that was archived on 2002-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021221012253id_/http%3A//www.grohol.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychcentral.com privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624184113id_/http%3A//www.grohol.com/privacy.htm) for the most accurate reproduction.*
 
 # Grohol.com . Privacy statement
 
@@ -38,7 +38,7 @@ Hey, who wants data to be floating out in cyberspace without security? Not us, t
 During the voluntary registration process for our discussion forums, you may be asked for various identifying information, such as your name and e-mail address. **All** information gathered in this process is used exclusively for the registration process; this information is not shared with any third-party for any reason whatsoever. 
 
 Additionally, users should be aware that when they voluntarily disclose personally identifiable information (e.g., user name, e-mail address) on the discussion forums of any Liviant LLC Web site, that information, along with any substantive information disclosed in the user's communication, can be collected and correlated and used by third parties and may result in unsolicited messages from other posters or third parties. Such activities are beyond the control of Liviant LLC.  **Funding & Advertising**  
-Some Liviant LLC Web sites, such as PsychCentral.com, work with a third party that serves ads to this site. We have read and agree with their [privacy policy](http://www.digitalhealthcare.com/privacy.html). You should read it too. If you don't agree with their privacy policy, you will find a link at the end of it which allows you to quickly and easily opt out of it. 
+Some Liviant LLC Web sites, such as PsychCentral.com, work with third-parties that serves ads to this site. We have read and agree with the [DHN privacy policy](http://www.digitalhealthcare.com/privacy.html) (banner ads) and the [Google privacy policy](http://www.google.com/privacy.html) (text ads). We hate to tell you, but you should read them too. If you don't agree with their privacy policies, you will find a link at the end of it which allows you to quickly and easily opt out of the DHN advertising. 
 
 All proceeds from monies collected from this Web site as an Amazon.com affiliate or from advertising are reinvested directly into the Web site. Any extra monies are donated to the [National Parkinson Foundation](http://www.parkinson.org/). If you would like to advertise on PsychCentral.com, please contact our advertising network partner: 
 
@@ -46,6 +46,8 @@ All proceeds from monies collected from this Web site as an Amazon.com affiliate
 [www.e-healthcaresolutions.com](http://www.e-healthcaresolutions.com/)   
 [sales@e-healthcaresolutions.com](mailto:sales@e-healthcaresolutions.com)   
 Phone: (908) 203-1350 
+
+You can also purchase text ads that will show up immediately through Google's [AdWords](http://www.google.com/adwords/) program. 
 
 Liviant LLC also receives fees associated with its [consulting](https://web.archive.org/consulting/) work for the behavioral healthcare industry, mainly in the areas of Internet infrastructure, architecture, information design, Web site development, and security. Liviant LLC has no additional funding sources or outside investors. 
 
