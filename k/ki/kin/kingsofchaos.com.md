@@ -1,18 +1,12 @@
-> *The following text is extracted and transformed from the kingsofchaos.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204173232id_/http%3A//www.kingsofchaos.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingsofchaos.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619005406id_/http%3A//www.kingsofchaos.com/privacy.php) for the most accurate reproduction.*
 
 # Kings of Chaos :: Massively Multiplayer Online Role Playing Game
 
-|   
----  
-  
-2837 logged in   
-3696 online  
-  
-[Advertise here](https://web.archive.org/web/20031204173232id_/http%3A//www.kingsofchaos.com/advertising.php)
+[Advertise here](https://web.archive.org/web/20040619005406id_/http%3A//www.kingsofchaos.com/advertising.php)
 
 [](http://t.extreme-dm.com/?login=kofc)
 
-  
+|    
 
 
 ## PRIVACY STATEMENT
@@ -93,7 +87,7 @@ This Web site takes every precaution to protect our users' information. When use
 
 #### Correcting/Updating/Deleting/Deactivating Personal Information
 
-If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users’ personally identifiable information. This can usually be done by emailing our Customer Support at admin@kingsofchaos.com. 
+If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users’ personally identifiable information. This can usually be done by emailing our Customer Support at privacy@kingsofchaos.com. 
 
 #### Notification of Changes
 
@@ -103,8 +97,8 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 If users have any questions or suggestions regarding our privacy policy, please [contact us](mailto:%61%64%6d%69%6e%40%6b%69%6e%67%73%6f%66%63%68%61%6f%73%2e%63%6f%6d). 
 
-[Report Spam](https://web.archive.org/web/20031204173232id_/http%3A//www.kingsofchaos.com/spam.php) | [Privacy Policy](https://web.archive.org/web/20031204173232id_/http%3A//www.kingsofchaos.com/privacy.php) | [Advertising](https://web.archive.org/web/20031204173232id_/http%3A//www.kingsofchaos.com/advertising.php)
+[Report Spam](https://web.archive.org/web/20040619005406id_/http%3A//www.kingsofchaos.com/spam.php) | [Privacy Policy](https://web.archive.org/web/20040619005406id_/http%3A//www.kingsofchaos.com/privacy.php) | [Advertising](https://web.archive.org/web/20040619005406id_/http%3A//www.kingsofchaos.com/advertising.php) | [Business Queries](mailto:%62%69%7a%64%65%76%40%6b%69%6e%67%73%6f%66%63%68%61%6f%73%2e%63%6f%6d) | [Terms of Service](https://web.archive.org/web/20040619005406id_/http%3A//www.kingsofchaos.com/tos.php) | [Store](http://www.99dogs.com/portal/associate.html?assoc=WSN-MV4&page=store&item=16503)
 
 Created by Rocco, Ben, Aman, and Nick  
-_Copyright © 2003 Kings of Chaos, All rights reserved._  
+_Copyright © 2003-2004 Kings of Chaos, All rights reserved._  
 
