@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wlky.com privacy policy that was archived on 2000-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000609122326id_/http%3A//www.wlky.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wlky.com privacy policy that was archived on 2000-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001217181600id_/http%3A//wlky.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Polcy
 
-###  This is the WLKY-TV and WLKY Radio Privacy Policy Statement. 
+###  This is the WLKY-TV Privacy Policy Statement. 
 
-This site complies with the following Private Policy. We can be reached by e-mail at [_droberson@hearstsc.com_](mailto:droberson@hearstsc.com). 
+This site complies with the following Private Policy. We can be reached by e-mail at [_droberson@hearst.com_](mailto:droberson@hearstsc.com). 
 
 This site collects no personally identifying information about individuals except when specifically and knowingly provided by such individuals. In addition, we may place a "cookie" in the browser files of a user's computer. The cookie itself does not contain any personally identifying information although it will endable us to relate a user's use of our sites to information that the user has specifically and knowingly provided to us. 
 
