@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the members1st.org privacy policy that was archived on 2003-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031211004534id_/http%3A//www.members1st.org/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the members1st.org privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207225656id_/http%3A//www.members1st.org/Privacy.htm) for the most accurate reproduction.*
 
-# Members 1st Federal Credit Union - Privacy Statement
+# Privacy Statement
 
 March 2002
 
@@ -24,8 +24,7 @@ We permit only authorized employees, who are trained in the proper handling of m
 The Information We Collect**  
 We collect and use member information obtained from applications and account usage, as well as information derived from other sources. This information is used only to the extent needed to conduct our business and to meet our high quality service standards. We only obtain information in accordance with applicable laws and in response to a member's request for any legitimate business purpose(s).
 
-We make every effort to keep member information files complete, up-to-date, and accurate. We regularly tell our members how and where to access their account information to verify its accuracy. When notified of an error, we promptly make the appropriate correction(s).
-
+We make every effort to keep member information files complete, up-to-date, and accurate. We regularly tell our members how and where to access their account information to verify its accuracy. When notified of an error, we promptly make the appropriate correction(s).  
   
 **The Information We Share**  
 We do not disclose any nonpublic personal information about our customers or former customers to anyone, except as permitted by law. 
