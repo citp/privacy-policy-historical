@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wncn.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204015124id_/http%3A//www.nbc17.com/news/1176131/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wncn.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603024928id_/http%3A//www.nbc17.com/news/1176131/detail.html) for the most accurate reproduction.*
 
 # NBC 17 - News - Online Privacy Statement
 
@@ -74,8 +74,6 @@ We reserve the right to change this policy at any time by posting a revised priv
   
   
 
-
-[](https://web.archive.org/weather/)
 
 * * *
 
