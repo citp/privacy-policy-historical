@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the submitexpress.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201131634id_/http%3A//www.submitexpress.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submitexpress.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604034232id_/http%3A//www.submitexpress.com/policy.html) for the most accurate reproduction.*
 
 # Submit Express - Privacy Policy
 
@@ -42,7 +42,7 @@ All website information provided for our paid submission and optimization servic
 "SUBMIT EXPRESS WORKS WITH A THIRD PARTY THAT SERVES ADS TO THIS SITE. TO FIND OUT MORE ABOUT HOW FLYCAST MANAGES THE PRIVACY OF INFORMATION IN CONJUNCTION WITH SERVING ADS ON THIS SITE, PLEASE GO TO: [Flycast Communications Privacy Policy](http://www.flycast.com/about_us/index.cfm?sub=pri&content=privacy)"
 
 **Affiliate Programs  
-** In addition, Submit Express works with the following companies that provide banner ads via affiliate programs: [BeFree](http://www.befree.com/), [Internet Domain Registrars](http://www.registrars.com/), [Commission Junction](http://www.cj.com/), [GoTo.com](http://www.goto.com/) and [ValueClick](http://www.valueclick.com/). Please check their sites for their privacy policies.
+** In addition, Submit Express works with the following companies that provide banner ads via affiliate programs: [BeFree](http://www.befree.com/), [Internet Domain Registrars](http://www.registrars.com/), [Commission Junction](http://www.cj.com/), [overture.com](http://www.overture.com/) and [ValueClick](http://www.valueclick.com/). Please check their sites for their privacy policies.
 
 [Retriever and AccessPoint](http://www.apc.net/):  
 Retriever and AccessPoint are third party merchant account providers. All credit card information collected for our paid services will be processed by them. Please see their privacy policy at:  
