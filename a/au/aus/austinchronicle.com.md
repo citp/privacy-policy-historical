@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the austinchronicle.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202173915id_/http%3A//austinchronicle.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the austinchronicle.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612055935id_/http%3A//austinchronicle.com/info/privacy.html) for the most accurate reproduction.*
 
 # The Austin Chronicle: Privacy
 
