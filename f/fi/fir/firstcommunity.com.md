@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstcommunity.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409172900id_/http%3A//www.firstcommunity.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstcommunity.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217090536id_/http%3A//firstcommunity.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,6 +31,10 @@ First Community Credit Union is committed to the highest level of security and p
 
 The credit union uses this information to create summary statistics and to determine the level of interest in our web site. 
 
+**Website Links** The internet contains many useful resources, and First Community Credit Union contains links to other websites. First Community Credit Union is not responsible for the privacy practices, content or availability of the linked websites. We also encourage users to read the privacy statement of all linked websites to become acquainted with their specific privacy practices. 
+
+**Protecting Children** First Community Credit Union recognizes that protecting children's identities and privacy online is important and that the responsibility rests with both the online industry and the parents. The Credit Union does not collect any personal information on children through its website, but does offer online links through the website to various child-oriented sites. Please be advised that any site collecting information from children under the age of 13 must conform to the Children's Online Privacy Protection Act of 1998 (COPPA). 
+
 **Online Banking Pages** To ensure your privacy and financial security, we require that you enter a password before you may log onto our online account access service. Account access pages are encrypted using "Secure Socket Layer" (SSL). To ensure valid navigation access from your computer to our host servers we employ the use of "Cookies". Cookies are small pieces of information that are stored by your browser on your computer's hard drive. These also allow us to know if you have visited the site before. Our Cookies do not contain any information that would identify you personally. You can generally configure your web browser to block cookies, but doing so may restrict your access to any secured site, including ours. 
 
 **Your E-Mail Privacy** First Community Credit Union's web site does not require you to disclose any personal identifying information. If, however, you choose to contact us via e-mail, please keep in mind that your e-mail address, and any other information your e-mail header shows about you, such as your name or organization, will be revealed to us in the e-mail. We pledge, however, that when you communicate with us via e-mail, we will use your e-mail information only for the specific purpose of responding to your comments or questions. Your e-mail address will not be sold nor will it be shared with others outside the credit union unless we are compelled to do so by law. 
@@ -45,4 +49,4 @@ The credit union uses this information to create summary statistics and to deter
        				Contact: Neil P. Finnegan, Compliance Officer
     
 
-rev. 3/2000 
+rev. 9/2001 
