@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starpulse.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612155739id_/http%3A//www.starpulse.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starpulse.com privacy policy that was archived on 2004-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040821181907id_/http%3A//www.starpulse.com/help/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Starpulse.com
 
