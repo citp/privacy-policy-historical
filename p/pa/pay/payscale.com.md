@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payscale.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202144711id_/http%3A//www.payscale.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payscale.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610140538id_/http%3A//www.payscale.com/privacy.asp) for the most accurate reproduction.*
 
 # PayScale - Salary Survey, Salaries, Wages, Compensation Information and Analysis
 
@@ -81,3 +81,6 @@ We are sensitive to your desire to limit the intrusiveness of advertising in you
   * If you have questions or suggestions please send email to .
 
 
+
+_©2001-2004 PayScale, Inc._   
+Patents Pending. PayScale, The PayScale Report and People Like You are trademarks of PayScale, Inc.
