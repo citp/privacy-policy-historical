@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buffalo.edu privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203015222id_/http%3A//wings.buffalo.edu/computing/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffalo.edu privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607051136id_/http%3A//wings.buffalo.edu/computing/policies/privacy) for the most accurate reproduction.*
 
 # University at Buffalo - Privacy Policy
 
