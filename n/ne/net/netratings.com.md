@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the netratings.com privacy policy that was archived on 2004-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040404183150id_/http%3A//www.netratings.com/corp.jsp%3Fsection%3Dleg_prs) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netratings.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404023415id_/http%3A//www.netratings.com/corp.jsp%3Fsection%3Dleg_prs) for the most accurate reproduction.*
 
 # Nielsen//NetRatings: The global standard for digital media measurement and analysis.
 
 **Nielsen//NetRatings’ Privacy Policy**
 
 **Privacy Notice**  
-Nielsen//NetRatings (“NetRatings”) is committed to the privacy of all visitors to its Web site (www.nielsen-netratings.com). To that end, NetRatings has established this Privacy Policy (“Policy”) to protect each visitor’s privacy. The Policy explains what and how NetRatings collects, uses, stores and protects the information gathered from its Web site. By using and visiting the Web site, you agree to this Policy and the uses made of personal information as set forth herein or amended hereafter. 
+Nielsen//NetRatings (“NetRatings”) is committed to the privacy of all visitors to its Web site (www.nielsen-netratings.com). To that end, NetRatings has established this Privacy Policy (“Policy”) to protect each visitor’s privacy. The Policy explains what and how NetRatings collects, uses, stores and protects the information gathered from its Web site. _To read our privacy policy regarding the information we collect on behalf of our clients on their Web sites through our SiteCensus, AdIntelligence and Market Intelligence services, please[ **click here**](https://web.archive.org/privacy/sitecensus.htm)._ By using and visiting the Web site, you agree to this Policy and the uses made of personal information as set forth herein or amended hereafter. 
 
 **What Information is Collected and How It’s Used**  
 Upon visiting the Web site, your browser automatically sends NetRatings your IP  
