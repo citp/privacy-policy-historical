@@ -1,92 +1,106 @@
-> *The following text is extracted and transformed from the search123.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206181331id_/http%3A//www.search123.com/sc/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the search123.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305033847id_/http%3A//www.search123.com/sc/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Partner Programs | Search Products | Search123
 
 **  
-This privacy statement was last updated on 6/07/2004.**
+This page set forth the privacy policies and practices of Search123 and its affiliated companies within the ValueClick Marketing Network (“ValueClick Network” “ValueClick” “we” or “us”).**
 
-Search123.com Inc., a California corporation, has created this privacy statement in order to disclose its information gathering and dissemination practices for the website located at [www.search123.com](http://www.search123.com/). Search123 abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. 
+_Please read this privacy policy carefully since by visiting a ValueClick Network site and sharing information with one our companies you agree to be bound by the terms and conditions of this Privacy Policy unless you offer different terms which are accepted by ValueClick, Inc. in writing._ For more information about the ValueClick Network and other ValueClick companies please visit [www.ValueClick.com](http://www.valueclick.com/).
 
-Upon reading this privacy statement, you will know: 
+CALIFORNIA RESIDENTS: YOUR PRIVACY RIGHTS.   
+Effective January 1, 2005, companies that collect personally identifiable information (“PII”) from California residents and disclose such information to third parties (including affiliated entities) for marketing purposes must, in response to a request by a consumer, either (1) provide a list detailing the categories of information shared and the entities to which such information was provided or (2) provide a mechanism by which a consumer may opt-out of having their information shared with third parties. We have elected the second option and you may request that your PII not be shared with third parties by sending your request, including your full name, email address and postal address: Search123.com, Attn: SB 27 Officer, P.O. Box 5600, Westlake Village, CA 91361.
 
-  1. The personally identifiable information that is collected from you through the website.
-  2. The organization collecting the information.
-  3. The manner in which the information is used.
-  4. The parties with whom the information may be shared.
-  5. The choices available to you regarding collection, use and distribution of the information.
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Search123's control.
-  7. The manner in which you may access and correct any inaccuracies in the information collected about you.
+STATEMENT OF RESPONSIBLE ONLINE MARKETING
 
+The ValueClick Network’s information usage practices are based on two beliefs: first, that protecting user privacy is essential to the growth and prosperity of the Internet; second, that a personalized web experience can provide significant benefits to Internet end users if done properly. In accordance with these beliefs, the ValueClick Network creates results for advertisers and publishers in revolutionary ways without compromising individual privacy. 
 
+If you have questions or concerns regarding this statement, email us at [privacy@search123.com](mailto:privacy@search123.com). 
 
-Questions regarding this statement should be directed to Search123 by contacting us through our [Contact Form](https://web.archive.org/web/20041206181331id_/http%3A//www.search123.com/sc/contact.shtml) or by writing to us at the following address: 
+CONSUMER PRIVACY
 
-Attn: Privacy  
-Search123 Inc.  
-4353 Park Terrace Drive  
-Westlake Village, CA 91361
+I. INFORMATION WE COLLECT: INDIVIDUAL INTERNET CONSUMERS
 
-**Client Information Collection and Use**
+**A. Personally Identifiable Information (PII).**   
+The ValueClick Network sites are designed to promote and facilitate the business of the ValueClick companies with advertisers and marketers. These sites are not directed towards individual Internet consumers nor do they seek any PII from such consumers. PII may be collected should a consumer contact a ValueClick company on his/her own initiative or respond to a ValueClick advertisement and provide any PII. Under no circumstances does the ValueClick Network request or collect sensitive PII such as an Internet user’s medical/health conditions; racial or ethnic origin; political, religious or philosophical beliefs or affiliations; trade union membership or sex life.
 
-Search123 is the sole owner of the information collected on this website. We will not sell, share, or rent this information to any third parties in ways different from what is disclosed in this statement. Search123 collects information from its Advertisers and Traffic Partners (the "Clients") as well as from Internet users who initiate keyword searches from sites operated by our Traffic Partners (the "Internet Users") at several different points on our website.
+From time to time, however, ValueClick may host response forms for one of our advertisers which will ask the Internet user to provide PII (e.g. name, address, zip code, email address, gender, and birth date). All information provided will be shared with the advertiser. We also may collect PII through co-registrations, i.e., when an Internet user registers on a third party site and agrees to receive offers from ValueClick.
 
-**Client Registration**
+B. Non-Personally Identifiable Information (Non-PII).   
+When a consumer responds to or views an Internet advertisement served by a ValueClick company (such as through third-party websites or email solicitation) or visits a ValueClick Network site, we send a cookie and/or gif file (“Cookies”) to assign an anonymous, unique identifier to the end user's Internet browser. Cookies are small data files commonly used on the Internet to help optimize and personalize the Internet end user experience and identify repeat visitors to websites. 
 
-In order to become an Advertiser and Traffic Partner, a user must first complete our online registration form. During registration, a user is required to provide their contact information (including name, email address, physical address and telephone number). Part of the registration process also requires prospective Traffic Partners to provide their Social Security Number or Federal Tax I.D. Number in order to receive payments from Search123 as part of our Traffic Partner Program. Part of the registration process also requires Advertisers to provide their credit card information (including their credit card number, billing address and CVV2 security number). We use this information to process and authorize payments that are initiated by Advertisers using our online payment platform.
+The function of these Cookies is to provide ValueClick with information for the purpose of paying third-parties commissions when an Internet user clicks on a link, creates a lead, or makes a purchase on an advertiser's Web site; and also to optimize and personalize the Internet user’s experience. If the Internet user re-visits the advertiser's site directly, ValueClick is able to continue to track the user’s activities on the advertiser's site and reward the third-party website that referred the user. We reserve the right to retain all ad delivery and reporting data as long as may be reasonably necessary for accounting and audit purposes.
 
-**Regular Communication with Clients**
+Like most standard website servers, we use log files to collect Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, and date/time stamp. We use the information to analyze site usage, administer the site, understand usage and navigation trends in aggregate, and determine the relevance of content. This information, however, is not linked to any personally identifiable information.
 
-As part of our process in serving our Clients, we routinely communicate via email, mail or telephone with our Clients. In addition to our initial welcome letter, our Clients receive account activity reports, low balance warnings, funding confirmation emails, site and service announcement updates, and other information relating to the management of their Search123 accounts. Clients also receive emails directly from a member of our team offering optimization or other services designed to assist Clients. Out of respect for the privacy of our Clients, we will honor every request not receive these types of communications.
+We also may use Internet browsing and online purchase data associated with an anonymous identifier to develop a predictive statistical user profile of the end user's needs and interests. ValueClick does not use Cookies or log files to collect end users' names, physical addresses, email addresses, phone numbers, credit card numbers, social security numbers, or any other information which can be used to identify a specific person. We may match the IP address and user profile with email address data obtained separately in order to better target campaigns to meet user’s interests, but will not share this information with third parties.
 
-**Newsletter to Clients**
+For improved audience targeting, some ValueClick Network sites use marketing technology that allows advertisers to add non-personally-identifying demographic information, such as age, gender, area code, or ZIP code, to the non-identifiable profile data. Thus, there is no direct connection between an end user's online choices and his or her personal identity.
 
-Our Clients receive a regular newsletter from us. If a Client wishes to unsubscribe to our newsletters, he or she may do so by unsubscribing directly from our newsletter. We do not sell, share, or rent our newsletter email list to any third party.
+II. INFORMATION SHARING 
 
-**Client Surveys**
+The ValueClick Network may make any PII provided in responding to an advertisement available to the company sponsoring the advertisement, as well as to other trusted third parties in accordance with the terms of this privacy policy. As a result, you may receive information on additional products, services and offers that may be of interest to you.
 
-From time-to-time, we may request information from our Clients by email or through an online survey. Participation in these surveys is completely voluntary and the Client therefore has a choice whether or not to disclose any of the requested information. Information requested may include contact information (such as name and address), demographic information (such as zip code, age and income level), information about other forms of online advertising that is used by the Client, information related to the Client's experience as a Search123 Advertiser or Traffic Partner, and information related to the business of the Client. Information that we gather in this way is intended to get important feedback from our Clients with the purpose of improving the quality of our services. We may share the information that we collect, but no information will be attributed to any individual Client without written authorization from the Client. 
+The ValueClick Network and/or our marketing partners may enhance and/or merge PII about consumers who have opted-in to receive marketing communications with commercially-available third party data collected from other sources in an effort to ensure that the messages being sent to the consumer in online and/or offline marketing programs are relevant to their interests. In the event we enhance and/or merge such personally identifiable information with data collected from other sources, we will take reasonable steps to maintain the integrity and quality of that information.
 
-**Advertiser Credit Card Information**
+The ValueClick Network may share PII (including information that has been enhanced with information from other sources) with advertisers, third party marketers, our affiliated entities for their online and/or offline marketing programs or in connection with the sale, merger, consolidation, change in control, transfer of substantial asset, reorganization or liquidation of any of the ValueClick Network companies. While ValueClick strongly encourages clients and partners to adopt responsible approaches to online marketing, ValueClick is not responsible for the information practices of clients or their partners. The collection, use, and disclosure of information by clients and partners are subject to their respective privacy policies, which may differ from ValueClick's policy. 
 
-We request credit card information from our Advertisers. As part of this process, an advertiser must provide contact information (including name, email address, telephone number and billing address), their credit card number, expiration date and CVV2 number. This information is stored in our system, with the exception of the CVV2 number, which is only used to authorize the credit card the first time it is used. The information is used to fulfill the Advertiser's requests to fund their online advertising accounts. The billing address is used to authorize the charge to their credit card; the email address and telephone number will be used if it is necessary to contact the Advertiser regarding the processing a request or to otherwise address billing issues.
+The ValueClick Network may release account and any other personal information when we believe release is appropriate to respond to a subpoena or otherwise comply with the law; enforce or apply our Terms and Conditions and other agreements; or protect the rights, property, or safety of ValueClick or others. This includes exchanging information with other companies and organizations for fraud protection. 
 
-**Cookies**
+III. CONSUMER CHOICE AND ACCESS 
 
-A cookie is a piece of data stored on the user's hard drive containing information about the user. If a user rejects the cookie, they may still use our website. However, Traffic Partners and Advertisers who disable cookies will be limited in some areas of our site. 
+A. Opting Out.   
+Some ValueClick Cookies have an "opt-out" option. This process does not remove the ValueClick Cookie from your system; it simply replaces it with an opt-out Cookie that does not contain any unique identifiers. If this site provides such a process it is detailed below.
 
-**Collection of Data from Internet Users**
+Search123’s Cookies do not have an "opt-out" option, yet you still have the option of blocking the use of Cookies by changing a setting in your Internet browser. Please see your browser supplier's website for details on how to do this. 
 
-Search123 does not collect Internet User identity or contact information from Internet Users' visits to Search123's website or to any of its Traffic Partner websites. For each visitor to a Search123 website or to any of its Traffic Partner websites, the visitor's computer reaches us via a particular Internet Protocol (the "IP") address. Search123's servers automatically collect this IP address.
+B. Accessing Consumer Information.   
+Because they are not directed towards individual Internet users, most ValueClick Network sites do not maintain a process for an individual consumer to review and/or request changes to any PII collected. This site does not maintain a process for an individual consumer to access his/her PII.
 
-An Internet User's browser sets cookies (when enabled) that contain small amounts of data on the Internet User's computer after a visit to any website. Cookies assist Search123 in tracking Internet Users' activities beginning from a Traffic Partner's website through to Advertiser's site listing that the Internet User clicked on from Search123's website or through the Traffic Partner's site. If the Internet User conducts other searches and clicks on the Traffic Partner's website, Search123 is able to continue to track the Internet User's activities on the Traffic Partner's website and compensate the Traffic Partner that referred the Internet User. The information contained in the cookies do not provide Search123 with any personally identifiable information about the Internet User.
+IV. SECURITY 
 
-The function of these cookies is to provide Search123 with information solely for the purpose of paying Traffic Partners commissions when an Internet User clicks on an Advertiser's search results listing. No information is obtained from the Internet User or Internet User's computer to generate the unique identifying number of the Internet User. Search123's servers automatically generate the unique number. None of Search123's cookies are used to perform "User Profiling." If a Web site using Search123's tracking technology were to provide any personally identifying information to Search123 beyond name and/or email address, Search123 would discard that information immediately.
+The ValueClick Network employs industry standard security measures to ensure the security of all data. Any data that is stored on ValueClick's servers is treated as proprietary and confidential and is not available to the public. ValueClick has an internal security policy with respect to the confidentiality of customer and other data, allowing access only to those employees or third parties who have a need to know such information for the purpose of effectively delivering ValueClick products and services by means of user login and password requirements. The ValueClick Network routinely evaluates its data security practices to identify security threats or opportunities for improvement.
 
-**Sharing of Client Information**
+No transmission of data over the Internet is guaranteed to be completely secure. It may be possible for third parties not under the control of ValueClick to intercept or access transmissions or private communications unlawfully. While we strive to protect your PII, ValueClick cannot ensure or warrant the security of any information you transmit to us. You acknowledge and assume this risk when communicating with a ValueClick Network company.
 
-We will share aggregated demographic information with our Traffic Partners and Advertisers from time-to-time. The information that we may share is not linked to any personal information that can identify any individual user. We use an outside credit card processing company to process the credit cards of our Clients. This company has advised us that they do not retain, share, store or use personally identifiable information for any purpose other than processing transactions on our behalf. As a wholly-owned subsidiary of ValueClick, Inc., a Delaware corporation ("ValueClick") we regularly share information about Traffic Partners and Advertisers, including personally identifiable information, in order to facilitate accounting and other related services provided by ValueClick to Search123. ValueClick uses such personally identifiable information only for the purpose of providing these services. In the future, we may partner with other parties to provide other specific services related to the services that we provide for our Clients. In such instances, we may be required to share personally identifiable information about our Traffic Partners and Advertisers that is necessary for the third party service provider to provide these services. These parties will not be allowed to use personally identifiable information related to our Clients except for the purpose of providing these services.
+V. CONSENT AND CHANGES 
 
-**Links to Other Sites**
+The ValueClick Network may find it necessary or be legally obligated to update this Privacy Policy from time to time. When we do, we will post those changes on this page and update the effective date so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. Except as otherwise required by law, modifications to this Privacy Policy will not affect the privacy of data collected by ValueClick prior to the effective date of the policy change unless we provide you direct notice and the opportunity to opt-out of such proposed change.
 
-This website contains links to other sites. Please be advised that Search123 is not responsible for the privacy practices of any other sites that link to or from Search123. We encourage our Clients to be aware that privacy policies may differ when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website and through Traffic Partner websites.
+VI. CHILDREN’S PRIVACY AND SPAM 
 
-**Security**
+The ValueClick Network is very sensitive to the issue of children's privacy and makes every effort to protect the privacy of children using the Internet. ValueClick's web site, products, and services are not developed for or directed at children. Children (persons under the age of 18) are not eligible to do business with us and we do not collect personal information from any person we actually know is under the age of 13. If you believe your child has provided the ValueClick Network with any personally identifiable data by registering at a ValueClick web site, please email us at [privacy@Search123.com](mailto:privacy@Search123.com) to have them removed. 
 
-Search123 takes many precautions to protect our Clients' information. When Clients submit sensitive information via the website, information is protected both online and offline. Sensitive information (such as credit card numbers and email addresses) is encrypted using SSL. While on a secure page, such as all of the pages within our account management interface, the lock icon on the bottom of web browsers such as Netscape Navigator and Internet Explorer becomes locked, as opposed to unlocked, or open, when you are not on a secure page. To learn more about SSL, [click here](http://developer.netscape.com/tech/security/ssl/howitworks.html).
+The ValueClick Network is committed to proper Internet practices and full compliance with the CAN-SPAM Act of 2003 (15 U.S.C. § 7701). It is our policy to prohibit the sending of unsolicited or "Spam" e-mail by ValueClick or any of its marketing partners. 
 
-While we use SSL encryption to protect sensitive information online, we also protect user information offline. All information related to our Clients is restricted in our offices. Only employees who need the information to perform a specific function (for example, our Account Managers) are granted access to personally identifiable information. All our databases are accessible only through password-protected interfaces. 
+Please note that under the CAN-SPAM Act, an advertiser is required to provide an opt-out mechanism for consumers to unsubscribe from future emails about the advertiser. Although not required to by law, many email marketers also include an opt-out mechanism to enable consumers to be removed from their mailing list. This has caused some confusion for consumers in opting out. The table below clarifies which opt-out mechanism you should use for commercial emails.
 
-Furthermore, all employees are routinely advised of our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure the integrity of our Clients' personal information. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage, at a third party hosting facility.
+To receive no further emails . . .
 
-**Corrections/Updating Personal Information**
+Opt-Out Mechanism to Use
 
-If our Clients' personally identifiable information changes, or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data. This can be done within the "Admin" section of our Account Management Interface or by contacting our Advertiser Services Team through our [Contact Form](https://web.archive.org/web/20041206181331id_/http%3A//www.search123.com/sc/contact.shtml) or by telephone at **877-777-3272** (US Only) or (818) 575-4500.
+| _**To receive no further emails . . .**_ | **_Opt-Out Mechanism to Use_**  
+---|---  
+about the advertiser | Advertiser's  
+from the email marketing company | Marketer's  
+from the advertiser or email marketing company | Both  
+  
+VII. DATA PROCESSING/SAFE HARBOR 
 
-www.search123.com
+The European Union (“EU”) maintains strict privacy laws. These rules differ significantly from US laws. To reconcile these differences, the US and the EU have created a Safe Harbor that defines mutually acceptable privacy operations. ValueClick, Inc. adheres to the Safe Harbor principals. For more information see [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
 
-We have the right to change our privacy policy at any time. If we do so, we will post those changes in this section of our website so that our Clients are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose such information.
+By providing information to ValueClick Network sites, you acknowledge that they operate in the United States and agree to (i) permit ValueClick to transmit and use your User information anywhere necessary, including across international boundaries, to affect the services and transactions provided by this Site; and (ii) that such use by ValueClick shall be subject to the terms and conditions stated in this Privacy Statement and applicable Terms and Conditions and Policies. 
 
-If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify Clients by email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+VIII. NETWORK ADVERTISING INITIATIVE 
 
-If you require further information regarding the above policies, or would like to request that you cease receiving any particular form of communication from us, please contact us through our [Contact Form](https://web.archive.org/web/20041206181331id_/http%3A//www.search123.com/sc/contact.shtml) or by telephone at 877-777-3272 (US Only) or (818) 575-4500.  
+ValueClick, Inc. is a member of the Network Advertising Initiative (“NAI”). The NAI is a group of third party network advertisers committed to increasing consumer confidence and contributing to the growth of electronic commerce. We, along with other members of the NAI, are committed to providing consumers with a clear explanation of what data we collect, how we use them, and why the use of data can benefit consumer's experience online. For more information about the Network Advertising Alliance please go to <http://www.networkadvertising.org/>. 
+
+IX. LIMITATION OF LIABILITY, THIRD PARTY INFORMATION & LANGUAGE
+
+YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND APPLICABLE TERMS AND CONDITIONS AND POLICIES (INCLUDING LIMITATIONS ON DAMAGES, AND ARBITRATION OF DISPUTES). YOU AGREE THAT SEARCH123’ LIABILITY FOR ANY BREACH OF THIS PRIVACY POLICY SHALL BE LIMITED TO THE GREATER OF THE VALUE OF THE TRANSACTIONS OR SERVICES PROVIDED TO YOU BY SEARCH123 OR $250 TO THE EXTENT SUCH CLAIM IS NOT OTHERWISE BARRED BY OUR TERMS AND CONDITIONS. 
+
+You also agree that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to Search123 with regard to: (a) the purposes for which such third party's personal data has been collected; (b) the intended recipients or categories of recipients of the third party's personal data; (c) which of the third party's data are obligatory and which data, if any, are voluntary; and (d) how the third party can access and, if necessary, rectify the data held about them. It is the express will of the parties that this agreement and all related documents have been drawn up in English. C'est la volonté expresse des parties que la présente convention ainsi que les documents qui s'y rattachent soient rédigés en anglais. 
+
+CONTACT US 
+
+For more information or if you have questions or concerns regarding the ValueClick Network Privacy Policy, please email us at [privacy@Search123.com](mailto:privacy@Search123.com) or you can send correspondence to the following address: Search123, Privacy Officer, 4353 Park Terrace Drive, Westlake Village, CA 91361.   
 
