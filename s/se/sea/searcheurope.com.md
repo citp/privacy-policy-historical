@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searcheurope.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618194711id_/http%3A//searcheurope.com/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searcheurope.com privacy policy that was archived on 2003-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031004170006id_/http%3A//www.searcheurope.com/info/privacy.shtml) for the most accurate reproduction.*
 
 # Search Europe
 
@@ -33,15 +33,15 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  1. You can send email to [info@searcheurope.com](mailto:info@searcheurope.com?subject=Re%20Search%20Europe)  
+  1. You can send email to [contact.us@searcheurope.com](mailto:contact.us@searcheurope.com?subject=Re%20Search%20Europe)  
 
 
  **Correct/Update**  
 This site gives users the following options for changing and modifying information previously provided. 
 
-  1. email: [info@searcheurope.com](mailto:info@searcheurope.com?subject=Re%20Search%20Europe)  
+  1. email: [contact.us@searcheurope.com](mailto:contact.us@searcheurope.com?subject=Re%20Search%20Europe)  
 
 
  **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact SearchEurope.com, Inc. 5756 Descartes Circle Boynton Beach,  FL 33437, USA [info@searcheurope.com](mailto:info@searcheurope.com?subject=Re%20Search%20Europe)  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact SearchEurope.com, Inc. 5756 Descartes Circle Boynton Beach,  FL 33437, USA [contact.us@searcheurope.com](mailto:contact.us@searcheurope.com?subject=Re%20Search%20Europe)  
 
