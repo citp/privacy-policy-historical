@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globeinvestor.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207164400id_/http%3A//www.globeinvestor.com/resources/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globeinvestor.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602125433id_/http%3A//www.globeinvestor.com/resources/help/privacy.html) for the most accurate reproduction.*
 
 # globeinvestor.com: Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Your privacy on the Internet is very important to us, and we feel you should know how we use the information you provide to us.
 
-Information you provide when using globeinvestor.com is stored securely by Globe Interactive. We may use the information you provide in the following ways.
+Information you provide when using globeinvestor.com is stored securely by Globe Interactive, a division of Bell Globemedia Publishing Inc. We may use the information you provide in the following ways.
 
   * To give the producers and developers of the site information that is useful in determining appropriate new features, content and services.
   * To provide advertisers with aggregate - not individual - information about our user base. This is essential to providing our service free of charge.
