@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the inyork.com privacy policy that was archived on 2001-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011215102847id_/http%3A//www.inyork.com/iy_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inyork.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603144749id_/http%3A//www.inyork.com/iy_privacy.html) for the most accurate reproduction.*
 
 # InYork.com Privacy Statement
 
-**The York Newspaper Company is committed to protecting the privacy of our customers. The following statement discloses our information gathering and dissemination practices for the inyork.com Web site.**
+**The York Newspaper Company is committed to protecting the privacy of our customers. The following statement discloses our information gathering and dissemination practices for the inyork.com Web site. **
 
 **What personally identifiable information does InYork.com collect from me?**
 
