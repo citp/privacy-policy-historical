@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the catalink.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402210917id_/http%3A//www.catalink.net/privacy_policy2.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catalink.com privacy policy that was archived on 2004-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040620132923id_/http%3A//www.catalink.com/privacy_policy2.php) for the most accurate reproduction.*
 
-# Catalink - Over 900 Top UK Mail Order Catalogues Available Free
+# Catalogues & Brochures Available Free at Catalink - Catalogs Mail Order Holiday Travel
 
 This information is used to maximise the efficiency of the catalogue requesting and product ordering process to ensure that the duration of your visit to the Catalink Network can be spent gathering information rather than giving it. In addition we use the information you have provided to keep you informed of new events, products and other topical items of interest from our portal activities.
 
