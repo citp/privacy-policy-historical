@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broderbros.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204233126id_/http%3A//www2.broderbros.com/bb_L2_cc_privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broderbros.com privacy policy that was archived on 2004-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040614213203id_/http%3A//www2.broderbros.com/bb_L2_cc_privacy.cfm) for the most accurate reproduction.*
 
 # Broder Bros. 2003
 
