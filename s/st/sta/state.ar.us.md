@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state.ar.us privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217074700id_/http%3A//www.state.ar.us/access.html%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.ar.us privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604012144id_/http%3A//www.state.ar.us/access.html%23Privacy) for the most accurate reproduction.*
 
 # Access Information
 
@@ -43,7 +43,7 @@ Act 1227 of 1999 required the Arkansas Department of Information Systems to deve
 
 In essence, this means that Arkansas Government or state funded entities must have websites that are equally accessible to blind or visually impaired visitors.  For instance, websites must provided text equivalents for all non-text elements such as images, animation, audio and video.  We will make every effort to comply with these new guidelines on the State of Arkansas website.  If you have trouble accessing or navigating state government pages, please contact info@ark.org.
 
-For more information about IT policies and standards in Arkansas, link to the State of Arkansas Strategic Information Technology Plan.  For the specific information regarding web development and accessibility issues, link to W3C Web Content Guidelines or the Center for Applied Special Technology (CAST).  
+For more information about IT policies and standards in Arkansas, link to the State of Arkansas Strategic [ Information Technology Plan](http://www.oit.state.ar.us/ITPlan/default.asp).  For the specific information regarding web development and accessibility issues, link to [ W3C Web Content Guidelines](http://www.w3c.org/) or the [ Center for Applied Special Technology](http://www.cast.org/) (CAST).  
   
 Information which can be identified or associated with a particular person or persons that is available from government web sites through the Information Network of Arkansas is subject to these principles and policies:  
   
