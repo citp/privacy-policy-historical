@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prometric.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605161640id_/http%3A//www.prometric.com/AboutUs/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prometric.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209051455id_/http%3A//www.prometric.com/AboutUs/privacy.htm) for the most accurate reproduction.*
 
-# Prometric.com® - Privacy Policy
+# Privacy Policy
 
 Privacy Policy 
 
