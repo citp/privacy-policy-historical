@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portillos.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609121959id_/http%3A//www.portillos.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portillos.com privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014012056id_/http%3A//www.portillos.com/privacy.jsp) for the most accurate reproduction.*
 
 # The Portillo Restaurant Group: Locations
 
