@@ -1,13 +1,7 @@
-> *The following text is extracted and transformed from the navexpress.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607223335id_/http%3A//www.navexpress.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the navexpress.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201170630id_/http%3A//www.navexpress.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # NavExpress - Privacy policy
 
-The privacy policy below shows the attempts of NavExpress to preserve the privacy of all users. 
-
- 1\. Not to use personally identifiable information  
-  
----  
-  
 We will not collect, rent, sell or release personally identifiable information without your permission. 
 
 AYou can manage, update and control the information you provide to us. 
