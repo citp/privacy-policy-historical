@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kvue.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607205008id_/http%3A//www.kvue.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kvue.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208074742id_/http%3A//www.kvue.com/registration/privacy.html) for the most accurate reproduction.*
 
 # kvue.com | News for Austin, Texas | Privacy Policy
 
@@ -96,7 +96,7 @@ You may access all of the Personal Information that we collect from you online a
 
 You may also at any time choose to change or delete your profile from our database using this procedure. You should know that if you choose to delete your profile, certain areas of our Site may no longer be accessible to you.
 
-1.                  Enter (or click) [http://signin. **KVUE**.com](http://signin.kvue.com/) in your browser.
+1.                  Enter (or click) <http://www.kvue.com/sharedcontent/registration/membercenter.jsp> in your browser.
 
 2.                  Sign in by entering your e-mail address and password.  Your account information will then be displayed.
 
@@ -122,8 +122,8 @@ This text is invisible on the page, but this text is affected by the invisible i
 
 Advertising 
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.kvue.com/aboutus/765500911/Position1/default/empty.gif/7a2f4868396c347a686f45414158686f?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.kvue.com/aboutus/441574197/Position1/default/empty.gif/7a2f48693231347a686f454143577636?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.kvue.com/aboutus/1634281785/Position4/default/empty.gif/7a2f4868396c347a686f45414158686f?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.kvue.com/aboutus/1253075790/Position4/default/empty.gif/7a2f48693231347a686f454143577636?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.kvue.com/aboutus/1476175164/Position5/default/empty.gif/7a2f4868396c347a686f45414158686f?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.kvue.com/aboutus/1433821640/Position5/default/empty.gif/7a2f48693231347a686f454143577636?x)
