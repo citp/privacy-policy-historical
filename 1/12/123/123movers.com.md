@@ -1,24 +1,26 @@
-> *The following text is extracted and transformed from the 123movers.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205061217id_/http%3A//123movers.com/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123movers.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605163059id_/http%3A//123movers.com/privacy_statement.asp) for the most accurate reproduction.*
 
 # 
 
-|  | [Residential Movers](https://web.archive.org/cd/moving_companies/asp/s-residential/je/default.html "Moving Companies")  
+[](https://web.archive.org/default.asp)
+
+|  | [Moving Companies](https://web.archive.org/cd/moving_companies/s-residential/asp/je/default.html "Moving Companies")  
 ---  
-| [International Movers](https://web.archive.org/cd/international_moving_companies/asp/s-international/je/default.html "International Movers")  
+| [International Movers](https://web.archive.org/cd/international_movers/s-international/asp/je/default.html "International Movers")  
 ---  
-| [Boxes and Supplies](https://web.archive.org/cd/moving_boxes/asp/s-supplies/je/default.html "Boxes and Supplies")  
+| [Boxes and Supplies](https://web.archive.org/cd/moving_boxes/s-supplies/asp/je/default.html "Moving Boxes and Supplies")  
 ---  
-| [Self Storage](https://web.archive.org/cd/self_storage/asp/s-storage/je/default.html "Self Storage")  
+| [Self Storage](https://web.archive.org/cd/self_storage/s-storage/asp/je/default.html "Self Storage")  
 ---  
-| [Auto Shippers](https://web.archive.org/cd/auto_transport/asp/s-auto_ship/je/default.html "Auto Shippers")  
+| [Auto Transport](https://web.archive.org/cd/auto_transport/s-auto_ship/asp/je/default.html "Auto Shippers")  
 ---  
-| [U-Load, Movers Drive](https://web.archive.org/cd/self_moving/asp/s-u_load/je/default.html "U-Load, Movers Drive")  
+| [U-Load, Movers Drive](https://web.archive.org/cd/self_moving/s-u_load/asp/je/default.html "U-Load, Movers Drive")  
 ---  
-| [Office Movers](https://web.archive.org/cd/corporate_moving/asp/s-office/je/default.html "Office Movers")  
+| [Corporate Relocation](https://web.archive.org/cd/corporate_relocation/s-office/asp/je/default.html "Corporate Relocation")  
 ---  
-| [Packing Services](https://web.archive.org/cd/moving_companies/asp/s-packing/je/default.html "Packing Services")  
+| [Packing Services](https://web.archive.org/cd/moving_companies/s-packing/asp/je/default.html "Packing Services")  
 ---  
-[All tips & Guides](http://www.123movers.com/guides/tipsmap.asp "Real Estate") | [Moving Guide](http://www.123movers.com/guides/movingguide.asp "Moving Guide") | [Packing Guide](http://www.123movers.com/guides/packingguide.asp "Packing Guide") | [Storage Guide](http://www.123movers.com/guides/storageguide.asp "Storage Guide")  
+[All tips & Guides](http://www.123movers.com/guides/tipsmap.asp "Real Estate") | [Relocation Guide](http://www.123movers.com/guides/movingguide.asp "Relocation Guide") | [Packing Guide](http://www.123movers.com/guides/packingguide.asp "Packing Guide") | [Storage Guide](http://www.123movers.com/guides/storageguide.asp "Storage Guide")  
 ---|---|---|---  
 |   
 ---  
