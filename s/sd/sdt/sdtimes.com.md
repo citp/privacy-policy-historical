@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sdtimes.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602084333id_/http%3A//sdtimes.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sdtimes.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205184139id_/http%3A//www.sdtimes.com/privacy.htm) for the most accurate reproduction.*
 
 # SD Times: Privacy Policy
 
@@ -35,8 +35,8 @@ Phone: 516-922-2101
 
 * * *
 
-[news](https://web.archive.org/web/20020602084333id_/http%3A//sdtimes.com/news/index.htm) | [current issue](https://web.archive.org/web/20020602084333id_/http%3A//sdtimes.com/issues/index.htm) | [back issues](https://web.archive.org/web/20020602084333id_/http%3A//sdtimes.com/search/index.cgi) | [columns](https://web.archive.org/web/20020602084333id_/http%3A//sdtimes.com/cols/index.htm) | [opinions](https://web.archive.org/web/20020602084333id_/http%3A//sdtimes.com/opinions/index.htm) | [resource links](https://web.archive.org/web/20020602084333id_/http%3A//sdtimes.com/links/index.htm)  
-[about](https://web.archive.org/web/20020602084333id_/http%3A//sdtimes.com/about.htm) | [site map](https://web.archive.org/web/20020602084333id_/http%3A//sdtimes.com/sitemap.htm) | [subscriptions](https://web.archive.org/web/20020602084333id_/http%3A//sdtimes.com/subscriptions/index.cgi) | [media kit](https://web.archive.org/web/20020602084333id_/http%3A//sdtimes.com/media_kit/index.htm) | [contact us](https://web.archive.org/web/20020602084333id_/http%3A//sdtimes.com/contact.htm)
+[news](https://web.archive.org/web/20021205184139id_/http%3A//www.sdtimes.com/news/index.htm) | [current issue](https://web.archive.org/web/20021205184139id_/http%3A//www.sdtimes.com/issues/index.htm) | [back issues](https://web.archive.org/web/20021205184139id_/http%3A//www.sdtimes.com/search/index.cgi) | [columns](https://web.archive.org/web/20021205184139id_/http%3A//www.sdtimes.com/cols/index.htm) | [opinions](https://web.archive.org/web/20021205184139id_/http%3A//www.sdtimes.com/opinions/index.htm) | [resource links](https://web.archive.org/web/20021205184139id_/http%3A//www.sdtimes.com/links/index.htm)  
+[about](https://web.archive.org/web/20021205184139id_/http%3A//www.sdtimes.com/about.htm) | [site map](https://web.archive.org/web/20021205184139id_/http%3A//www.sdtimes.com/sitemap.htm) | [subscriptions](https://web.archive.org/web/20021205184139id_/http%3A//www.sdtimes.com/subscriptions/index.cgi) | [media kit](https://web.archive.org/web/20021205184139id_/http%3A//www.sdtimes.com/media_kit/index.htm) | [contact us](https://web.archive.org/web/20021205184139id_/http%3A//www.sdtimes.com/contact.htm)
 
 Copyright © 1999-2001 [BZ Media, LLC](http://www.bzmedia.com/), all rights reserved.  
 Phone: 516-922-2101 • E-mail: [info@bzmedia.com](mailto:info@bzmedia.com)
