@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superherohype.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605000427id_/http%3A//www.superherohype.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superherohype.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204100206id_/http%3A//www.superherohype.com/privacy.php) for the most accurate reproduction.*
 
 # Superhero Hype! - Privacy Policy
 
@@ -32,7 +32,7 @@ This site makes chat rooms and forums available to its users. Please remember th
 
 #### Security
 
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. For more information about our security measures, you may send us an [e-mail](https://web.archive.org/web/20040605000427id_/http%3A//www.superherohype.com/feedback.php). 
+This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. For more information about our security measures, you may send us an [e-mail](https://web.archive.org/web/20041204100206id_/http%3A//www.superherohype.com/feedback.php). 
 
 ** Choice/Opt-Out **
 
@@ -40,12 +40,7 @@ Our site provides users with the opportunity to opt-out of receiving communicati
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [e-mail](https://web.archive.org/web/20040605000427id_/http%3A//www.superherohype.com/feedback.php) us:  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [e-mail](https://web.archive.org/web/20041204100206id_/http%3A//www.superherohype.com/feedback.php) us:  
 _Webmaster  
 Superhero Hype!  
-_  
-
-
-[SHH-Central](http://www.superherohype.com/) | [Search News](http://www.superherohype.com/search.php) | [Boards](http://www.superherohype.com/forums/) | [SHH-Media](http://www.superherohype.com/cgi-bin/imageFolio.cgi) | [Fan Reviews](http://www.superherohype.com/review_write.php) | [SHH-Articles](http://www.superherohype.com/articles/) | [Contact Us](http://www.superherohype.com/feedback.php) | [Merchandise](http://www.superherohype.com/products/) | [SHH-Heroes](http://www.superherohype.com/heroes.php) **[](https://web.archive.org/web/20040605000427id_/http%3A//www.superherohype.com/privacy.htm)**[Privacy Policy](http://www.superherohype.com/privacy.php) | [Advertiser Info](http://www.superherohype.com/advertising.php)
-
-**Copyright © 2004 Coming Soon! All rights reserved.**
+_
