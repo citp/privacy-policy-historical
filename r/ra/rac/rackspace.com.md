@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the rackspace.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609061418id_/http%3A//www.rackspace.com/aboutus/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rackspace.com privacy policy that was archived on 2004-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041001005104id_/http%3A//www.rackspace.com/aboutus/privacy.php) for the most accurate reproduction.*
 
 # Rackspace Managed Hosting - Rackspace Privacy Statement
-
-|    
-
 
 Rackspace Managed Hosting has created this privacy statement to demonstrate our firm commitment to privacy. This statement sets forth our information gathering and dissemination practices for the www.rackspace.com, www.rackspace.co.uk and my.rackspace.com sites. 
 
@@ -31,31 +28,3 @@ Rackspace makes every effort to follow industry standard security measures to pr
 **Cookies** We use cookies to keep track of your shopping cart and purchases during the time you view www.rackspace.com. We also use them to recognize return visitors and to track our promotions. We gather this information for internal use only and will never authorize the release of this information with anyone outside Rackspace. 
 
 **Linked Sites** This site contains links to external Web Sites. Rackspace is not responsible for the privacy practices or the content of these Web sites. 
-
-|  |  |  |  |  |   
----|---|---  
-| 
-
-Something we pioneered and one of the key components of **Fanatical Support™
-
-> [Learn More](http://www.rackspace.com/solutions/service_teams.php)  
-
-
-**
-
-|   
-   
----  
-[](http://server.iad.liveperson.net/hc/25513229/?cmd=file&file=visitorWantsToChat&site=25513229&byhref=1&imageUrl=http://rackspace.com/media/liveperson/cta)  
-   
-   
-[ ](http://www.rackspace.com/aboutus/contact_sales.php)  
-   
-  | 
-
-Our 24x7 sales consultants are ready to answer any questions you may have.
-
-Contact sales by using one of the methods above, or [click here](http://www.rackspace.com/aboutus/contact_us.php) for a complete list of contacts. 
-
-|    
- 
