@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the itnews.com.au privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628220155id_/http%3A//www.itnews.com.au/privacystat.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itnews.com.au privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/privacystat.asp) for the most accurate reproduction.*
 
-# iTnews
+# iTNews
 
-| [](https://web.archive.org/crn/)  
+|  [ ](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/crn/)  
 ---  
-[](https://web.archive.org/infoweek/)  
-[](https://web.archive.org/windows/)  
-[](https://web.archive.org/index.cfm)  
-[](https://web.archive.org/subscribe/)  
+[ ](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/infoweek/)  
+[ ](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/windows/)  
+[](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/index.asp)  
+[](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/subscribe/)  
 [](https://secure.itnews.com.au/register/register.asp)  
-[](https://web.archive.org/media/)  
-[](https://web.archive.org/event_sales.cfm)  
-[](https://web.archive.org/contact.cfm)  
+[](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/media/)  
+[](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/event_sales.asp)  
+[](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/contact.asp)  
 [](http://www.itresellers.com.au/)  
   
 >   
@@ -169,16 +169,16 @@
 > 
 > You may be required to provide identification prior to us releasing personal information. 
 
-> |  | [ ](https://web.archive.org/web/20030628220155id_/http%3A//www.itnews.com.au/content.cfm?ID=2)  
+> |  | [ ](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/content.asp?ID=2)  
 ---  
-[ ](https://web.archive.org/web/20030628220155id_/http%3A//www.itnews.com.au/content.cfm?ID=5)  
-[ ](https://web.archive.org/web/20030628220155id_/http%3A//www.itnews.com.au/govt.cfm?ID=3)  
-[ ](https://web.archive.org/web/20030628220155id_/http%3A//www.itnews.com.au/hardware.cfm?ID=7)  
-[ ](https://web.archive.org/web/20030628220155id_/http%3A//www.itnews.com.au/content.cfm?ID=1)  
-[ ](https://web.archive.org/web/20030628220155id_/http%3A//www.itnews.com.au/content.cfm?ID=8)  
-[ ](https://web.archive.org/web/20030628220155id_/http%3A//www.itnews.com.au/content.cfm?ID=9)  
-[ ](https://web.archive.org/web/20030628220155id_/http%3A//www.itnews.com.au/content.cfm?ID=6)  
-[ ](https://web.archive.org/web/20030628220155id_/http%3A//www.itnews.com.au/software.cfm?ID=10)  
-[ ](https://web.archive.org/web/20030628220155id_/http%3A//www.itnews.com.au/content.cfm?ID=4)  
-[ ](https://web.archive.org/web/20030628220155id_/http%3A//www.itnews.com.au/content.cfm?ID=12)  
-[ ](https://web.archive.org/web/20030628220155id_/http%3A//win2000.cfm)
+[ ](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/content.asp?ID=5)  
+[ ](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/content.asp?ID=3)  
+[ ](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/content.asp?ID=7)  
+[ ](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/content.asp?ID=1)  
+[ ](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/content.asp?ID=8)  
+[ ](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/content.asp?ID=9)  
+[ ](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/content.asp?ID=6)  
+[ ](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/content.asp?ID=10)  
+[ ](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/content.asp?ID=4)  
+[ ](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/content.asp?ID=12)  
+[ ](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/content.asp?ID=17)
