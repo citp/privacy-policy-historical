@@ -1,26 +1,34 @@
-> *The following text is extracted and transformed from the inboxdollars.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207083546id_/http%3A//www.inboxdollars.com/%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboxdollars.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603144621id_/http%3A//www.inboxdollars.com/%3Fp%3Dprivacy) for the most accurate reproduction.*
 
-# InboxDollars.com -- Get Paid to Read E-Mail, Complete Offers, Refer Others, and Take Surveys!
+# InboxDollars - Earn CA$H for E-Mail, Surveys, Games, and More!
 
-| 
+**Information Collected:**   
+The following information is required to join InboxDollars: Name, Address, Phone Number, E-Mail Address, Username, and Password. Your name and address are required so that we can send payment to you. Your phone number and email address are required so that we are able to contact you. Username and password are required in order to provide you with restricted access to our Member's Section. 
 
-**_Information Collected:_**   
-The information collected by InboxDollars is used to better serve you. We collect your name and address to provide payment to you. Demographical information about you, including birth date, gender, marital status, and interests are collected to send you paid advertisements corresponding to your information. Since we handle all mailings, advertisers who purchase mailings do not see your personal information. The only time your personal information is physically given to advertisers who pay for mailings is when you select any co-registration boxes (ads for separate sites) on our signup form. Your name, email address, street address, city, state, zip, country, timestamp, and IP Address will be given to these advertisers, so they can contact you about the service you have opted in for.
+In addition, the following information is required in order to receive your Signup Bonus: Birth Date, Gender, Marital Status, Education Completed, Household Income, and Children in Household. This information is used to send you targeted Advertisements that we believe you will be most interested in.
 
-**_Means of Collection:_**   
-At this time, the only way to become a member of InboxDollars is by filling out our signup form. Members will not be acquired through through purchase, other companies, or mergers. However, InboxDollars reserves the right to purchase email addresses and market offers to these individuals as a separate function of our site. These individuals are not considered InboxDollars members, and are not paid to receive these email promotions.
+**Means of Collection:**   
+Currently, the only way InboxDollars collects information is through our Signup Form. We do not acquire Members through purchase, co-registration, or any other means; however, we may do so at any time.
 
-**_Use of Information:_**   
-The information you provide us serves two purposes. One of these purposes is for InboxDollars to contact you regarding updates to our program and other essential contacts between the company and its members. The other purpose is to match you with paying advertisers using the demographic information you provide upon signup.
+**Use of Information:**   
+The information you provide is used only to contact you and to provide targeted Advertisements to you. InboxDollars does not share or sell your personal information with anyone, including our Advertisers.
 
-**_Cookies:_**   
-In order to prevent your Username and Password from being displayed in the location bar when browsing our Member's Section, our site uses Cookies to track this information. Cookies are 100% safe and not visible to any site besides InboxDollars.
+**Co-Registration**   
+In most circumstances, our Signup Form will include several co-registration advertisements. If you check any of the boxes (thereby "co-registering" for that Advertiser's web site, product, or service), your Personal Information is given to that Advertiser. The information provided to the Advertiser includes: your Name, Address, Phone Number, E-Mail Address, and IP Address. Please note that checking any of the co-registration boxes is completely optional.
 
-**_Minimum Required Age:_**   
-In accordance with the **Children's Online Privacy Protection Act** , Members must be at least 13 years old to participate in our program.
+**Cookies:**   
+InboxDollars uses Cookies to track your Username and Password throughout our Web Site. We do this for several reasons:  
+ **Recognition** \- you will not be required to login every time you visit our web site - you will be "remembered" between visits;  
+ **Security** \- Because your Username and Password are stored in a Cookie, they are not displayed in the URL, which prevents someone walking by your computer from seeing this information. 
 
-**_Subject to Change:_**   
-This Privacy Policy may change from time to time, as our company grows and our plans change. We reserve the right to modify this Policy at any time without notification to our Members; however, if any major updates take place, we will post this information with a pertinent link on our site.
+Cookies are 100% safe! Cookies are not used to invade your privacy in any way - they are simply used to provide better service to you. 
 
-  
+Please note that some Web Browser settings, as well as some software programs (such as Norton Internet Security and some Firewall Applications) may disable Cookies. **You will not be able to use InboxDollars.com without Cookies enabled!**
 
+**Minimum Required Age:**   
+In accordance with the Children's Online Privacy Protection Act, Members must be at least 13 years old to participate in our program.
+
+**Subject to Change:**   
+As InboxDollars grows and expands, this Privacy Policy may change. InboxDollars reserves the right to change this Privacy Policy at any time. The Last Modification Date will always appear at the bottom of this page.
+
+_Last Modified: April 28, 2004_
