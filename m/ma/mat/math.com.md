@@ -1,6 +1,20 @@
-> *The following text is extracted and transformed from the math.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202141400id_/http%3A//math.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the math.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331122338id_/http%3A//math.com/privacy.html) for the most accurate reproduction.*
 
 # Math.com Privacy Policy
+
+|  | **Resources** |   
+---|---|---  
+|  **·  **[Cool Tools](https://web.archive.org/students/tools.html)  
+**·  **[Formulas & Tables](https://web.archive.org/tables/index.html)  
+**·  **[References](https://web.archive.org/students/references.html)  
+**·  **[Test Preparation](https://web.archive.org/students/testprep.html)  
+**·  **[Study Tips](https://web.archive.org/students/advice.html)  
+**·  **[Wonders of Math](https://web.archive.org/students/wonders.html)  
+   
+| **Search** |   
+|   
+  
+   | 
 
 Privacy Policy For Math.com*
 
@@ -55,3 +69,5 @@ If you have any questions about the Math.com Privacy Policy, the practices of th
 
 **Advertising**  
 Math.com works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>.
+
+|    | 
