@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamu-commerce.edu privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205030113id_/http%3A//www7.tamu-commerce.edu/university/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamu-commerce.edu privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604015943id_/http%3A//www7.tamu-commerce.edu/university/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Texas A&M University-Commerce
 
