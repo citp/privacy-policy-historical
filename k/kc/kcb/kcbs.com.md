@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kcbs.com privacy policy that was archived on 2003-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031217144231id_/http%3A//www.kcbs.com/pages/kcbs/home/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcbs.com privacy policy that was archived on 2004-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040414043249id_/http%3A//www.kcbs.com/pages/kcbs/home/privacypolicy.html) for the most accurate reproduction.*
 
 # KCBS Privacy Policy
 
@@ -22,7 +22,7 @@
 
 KCBS.com ("Site," "us" or "we") is the official website for Radio Station KCBS, San Francisco, CA ("Station"). This Site is owned and operated by KCBS ("Owner and Operator"). 
 
-Your privacy is very important to us. Because we gather certain types of personally identifiable information ("Personal Information") from users of our website, we feel you should know how we use the Personal Information that you may voluntarily provide us and the Personal Information that is collected passively through the use of cookies or image tags. The Privacy Policy is a part of the Site's [Terms of Use Agreement](https://web.archive.org/web/20031217144231id_/http%3A//www.kcbs.com/pages/kcbs/home/policy_termsofuse.nsp), which is binding on all users.
+Your privacy is very important to us. Because we gather certain types of personally identifiable information ("Personal Information") from users of our website, we feel you should know how we use the Personal Information that you may voluntarily provide us and the Personal Information that is collected passively through the use of cookies or image tags. The Privacy Policy is a part of the Site's [Terms of Use Agreement](https://web.archive.org/web/20040414043249id_/http%3A//www.kcbs.com/pages/kcbs/home/policy_termsofuse.nsp), which is binding on all users.
 
 Unless specified otherwise on the Site, users must be at least 18 years of age and a legal resident of the United States before participation in any activity that requires the submission of Personal Information. By your participation in our Site activities, you certify that you are at least 18 years of age. All users of the Site are required to provide true, current, complete and accurate Personal Information when prompted and we will reject and delete any entry that we believe in good faith to be false or fraudulent. 
 
@@ -46,7 +46,7 @@ Advertising support allows us to offer, free of charge, many great activities an
 
 When we plan to share your information with Advertisers, you will receive such notice on the Site and/or in the rules of participation ("Rules of Participation") for the activity or event. However, please be informed that our Advertisers may not have the same privacy policies that we do. Therefore, we will ask you for your consent first to receive marketing information directly from our Advertisers. You will need to check the "Opt-in" click boxes so indicated on the registration area for the particular activity or event, or notify the Site's Privacy Administrator at [aklee@sfradio.cbs.com](mailto:aklee@sfradio.cbs.com). However, if you do not wish to receive marketing or promotional materials from the Site and/or Station, you will need to tell us so by clicking the "Opt-Out" click boxes so indicated on the registration area for the particular event, or notify the Site's Privacy Administrator. Please note that this process is different than the one for Advertisers.
 
-We reserve the right to monitor and edit any Personal Information about our users, including information about the use of website activities and services and the contents of users' email and messages for internal purposes and when necessary, to disclose to law enforcement personnel, and/or the employer and/or Internet Service Provider of a user that is not in compliance with the [Terms of Use Agreement](https://web.archive.org/web/20031217144231id_/http%3A//www.kcbs.com/pages/kcbs/home/policy_termsofuse.nsp). We will take such measures if we believe it is necessary to protect the security and operations of this Site. We provide aggregate statistics about our users, traffic patterns and related website information to Advertisers, reputable third-party vendors or marketing companies, but these statistics do not disclose Personal Information about a particular user.
+We reserve the right to monitor and edit any Personal Information about our users, including information about the use of website activities and services and the contents of users' email and messages for internal purposes and when necessary, to disclose to law enforcement personnel, and/or the employer and/or Internet Service Provider of a user that is not in compliance with the [Terms of Use Agreement](https://web.archive.org/web/20040414043249id_/http%3A//www.kcbs.com/pages/kcbs/home/policy_termsofuse.nsp). We will take such measures if we believe it is necessary to protect the security and operations of this Site. We provide aggregate statistics about our users, traffic patterns and related website information to Advertisers, reputable third-party vendors or marketing companies, but these statistics do not disclose Personal Information about a particular user.
 
 [Back to top]
 
@@ -72,7 +72,7 @@ If this Site sells goods and/or services or provides auction services we will re
 
 For your enjoyment and entertainment, this Site offers user interactive activities such as chat rooms, message boards, and/or public forums ("Public Forums"). We do not share any Personal Information that is entered into the Public Forum registration and/or correspondence areas with Advertisers. 
 
-We reserve the right, at our sole discretion, to save and archive any content of any nature posted to the Site and that the Station may, without liability to any user, disclose such content if required to do so by law or to comply with legal processes; to respond to claims that any of the content violates the property, privacy, publicity or other rights of others; or to protect the rights, property or safety of the Site, the Station, its employees, users and members of the public. For more information on this Site's rules of conduct for these Public Forums, please see our [Terms of Use Agreement](https://web.archive.org/web/20031217144231id_/http%3A//www.kcbs.com/pages/kcbs/home/policy_termsofuse.nsp).
+We reserve the right, at our sole discretion, to save and archive any content of any nature posted to the Site and that the Station may, without liability to any user, disclose such content if required to do so by law or to comply with legal processes; to respond to claims that any of the content violates the property, privacy, publicity or other rights of others; or to protect the rights, property or safety of the Site, the Station, its employees, users and members of the public. For more information on this Site's rules of conduct for these Public Forums, please see our [Terms of Use Agreement](https://web.archive.org/web/20040414043249id_/http%3A//www.kcbs.com/pages/kcbs/home/policy_termsofuse.nsp).
 
 [Back to top]
 
@@ -84,7 +84,7 @@ This Privacy Policy does not cover third-party advertising or third-party conten
 
 **Hyper Links to Other Websites**
 
-This Site often provides links to third parties' websites that could be of interest to our users, including the websites of our Advertisers. These websites do not have an affiliation with the Site or Station and may have different privacy policies and business practices than we do. We take no responsibility for such websites, as stated in our [Terms of Use Agreement](https://web.archive.org/web/20031217144231id_/http%3A//www.kcbs.com/pages/kcbs/home/policy_termsofuse.nsp). By use of this Site, you have agreed that you will use the hyperlinks to third party sites at your own risk. 
+This Site often provides links to third parties' websites that could be of interest to our users, including the websites of our Advertisers. These websites do not have an affiliation with the Site or Station and may have different privacy policies and business practices than we do. We take no responsibility for such websites, as stated in our [Terms of Use Agreement](https://web.archive.org/web/20040414043249id_/http%3A//www.kcbs.com/pages/kcbs/home/policy_termsofuse.nsp). By use of this Site, you have agreed that you will use the hyperlinks to third party sites at your own risk. 
 
 [Back to top]
 
@@ -124,6 +124,6 @@ San Francisco, CA 94111
 
 This Privacy Policy was last updated on 02/19/2020 
 
-Copyright  KCBS. All rights reserved.
+Copyright 2004 KCBS. All rights reserved.
 
 [Back to top]
