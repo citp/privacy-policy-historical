@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the football365.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604021155id_/http%3A//football365.com/Home/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the football365.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203043151id_/http%3A//football365.com/Home/privacy.shtml) for the most accurate reproduction.*
 
-# Football news, fun, results and features from Football365.com
+# Football news, fun, results, fixtures and features from Football365.com
 
 **1.** **Football365** has a firm commitment to privacy. 
 
