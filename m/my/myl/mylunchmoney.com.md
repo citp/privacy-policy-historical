@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylunchmoney.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214121834id_/http%3A//mylunchmoney.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylunchmoney.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604032140id_/http%3A//mylunchmoney.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -52,4 +52,4 @@ If you cease to be our customer, such as when you no longer use the Facilities, 
 
 This policy relates only to nonpublic personal information and does not affect our information practices with respect to other information.
 
-If you have any questions about this privacy policy, the practices of this website, or your or your child's dealings with this website, you should contact us directly. 
+If you have any questions about this privacy policy, the practices of this website or your child's dealings with this website, you should contact us directly. 
