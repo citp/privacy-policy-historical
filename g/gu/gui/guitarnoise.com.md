@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guitarnoise.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205031133id_/http%3A//guitarnoise.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarnoise.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607202804id_/http%3A//www.guitarnoise.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement @ Guitar Noise (www.guitarnoise.com) free guitar lessons
 
@@ -21,4 +21,4 @@ What this means to you is that we are committed to protecting your privacy and d
 
 Guitar Noise does not collect personal information from you.  At times you may be asked to voluntarily submit information if you wish to receive our newsletter, participate in forum discussions, chats etc. Please remember that chat sessions and our interactive forum are considered public areas and you are responsible for your actions in these areas.  You should also be aware that any personal information you share may be available to others. 
 
-Questions regarding this statement should be [sent to the webmaster](https://web.archive.org/web/20031205031133id_/http%3A//guitarnoise.com/contact.php). 
+Questions regarding this statement should be [sent to the webmaster](https://web.archive.org/web/20040607202804id_/http%3A//www.guitarnoise.com/contact.php). 
