@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the petco.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004051634id_/http%3A//www.petco.com/privacy.asp%3Fwebt%3D0%26cmLink_ID%3Dswft0009) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petco.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602194512id_/http%3A//www.petco.com/privacy.asp%3Fwebt%3D0%26cmLink_ID%3Dswft0011) for the most accurate reproduction.*
 
-# PETCO.com - Where the pets go online
+# PETCO.com - Privacy Concerns and Issues
 
 **Privacy Concerns and Issues** ****
 
@@ -21,6 +21,8 @@ SSL encrypts your order information to avoid the decoding of that information by
 | PETCO also supports the Verified by Visa Security Service. Learn more about this feature... |   
 ---|---  
   
+**»**back to top
+
   
 **Privacy Policy**  
 At PETCO.com we are concerned with protecting your privacy. We use the information we collect about you to provide a personalized shopping experience. We may also use it to tell you about special offers that we think you'd appreciate. You'll never have to worry about receiving a barrage of unexpected e-mail from us if you have not subscribed with us. We will not sell, rent or trade your information. 
@@ -39,13 +41,15 @@ We reserve the right to use aggregated, anonymous data about our users as a grou
 
 We use a third party agent to handle our email marketing and you may refer to [their privacy policy here.](http://www.rsvp0.net/)
 
-  
-**Surveys, Contests, and Other Special Programs**
+**»**back to top
 
+**Surveys, Contests, and Other Special Programs**   
 **Surveys**  
 Our online surveys may ask visitors for contact information (like your e-mail address) and demographic information (like your zip code or age). We use contact data from our surveys to send users information about PETCO.com and our promotions. Users may opt-out of receiving future mailings; see the "Choice/Opt-Out" section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. 
 
 From time to time we may conduct contests or other promotions or request material for publication. To participate, you usually must supply us with your true identity, which you agree to have publicly associated with your submission. The exact rules vary from case to case, and will be noted clearly on the relevant pages. Your participation will always be voluntary and knowing. Contact information will be used in order to notify contest winners. 
+
+**»**back to top
 
 **Cookies and How We Use Them**  
 You may have read about "cookies," nuggets of information that a Web site you visit will store on your own computer. PETCO.com uses cookies so that we can recognize you and serve you better when you shop at our store. 
@@ -70,7 +74,8 @@ Be sure to ask your parents for permission before you send any information about
 **Parents**  
 We are committed to protecting your children's privacy. If PETCO.com knowingly collects personally identifying data from children, we will use it for internal purposes only. We will not post it, publish it, or supply it to any third parties. As mentioned earlier, for certain purposes we may use anonymous, aggregated data about our users. Kids' information may be included in this aggregated data, but will not be personally identifiable. Children must ask their parents or guardians for permission before visiting PETCO.com or purchasing anything from PETCO.com. It is also recommended that children get permission before sharing personal information (such as name, address, phone number, or e-mail address) over the Internet. 
 
-  
+**»**back to top
+
 **Choice/Opt-Out**  
 PETCO.com sends registered users regular newsletters and occasional promotional offers. However, PETCO.com provides users with the opportunity to opt out of receiving communications from us. If you do not wish to receive correspondence from PETCO.com, just follow these easy steps: 
 
@@ -92,3 +97,5 @@ PETCO.com's privacy policy may be modified from time to time. Notices of changes
   
 **Contacting Us**  
 If you have any questions about this privacy statement, the practices of this web site, or your dealings with this site, email us at [cs@orders.petco.com](mailto:cs@orders.petco.com). 
+
+**»**back to top
