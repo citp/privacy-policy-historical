@@ -1,23 +1,11 @@
-> *The following text is extracted and transformed from the cuteftp.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409205809id_/http%3A//cuteftp.com/company/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuteftp.com privacy policy that was archived on 2002-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020608001408id_/http%3A//www.cuteftp.com/company/privacy.shtml) for the most accurate reproduction.*
 
-# GlobalSCAPE, Inc. - Copyrights
+# GlobalSCAPE, Inc
 
-|  **Company Information**  
-[Contact](https://web.archive.org/company/contact.shtml)  
-[Investor Resources](https://web.archive.org/company/ir.shtml)  
-[Press Releases](https://web.archive.org/cgi-bin/press.cgi)  
-[Product Reviews](https://web.archive.org/company/reviews.shtml)  
-[Partners](https://web.archive.org/company/partners.shtml)  
-[Advertising](https://web.archive.org/company/advertising.shtml)  
-[Careers](https://web.archive.org/careers/index.shtml)  
-[Privacy Policy](https://web.archive.org/company/privacy.shtml)  
-[Copyrights](https://web.archive.org/company/copyrights.shtml)  
-[Distribute Software](https://web.archive.org/company/distribute.shtml)  
-[Copyright Infringement](https://web.archive.org/company/copyrightinfringement.shtml)  
-|  |  |   
-**GlobalSCAPE, Inc. Privacy Policy**
+  
 
-We want you to know that we take your privacy seriously. We collect industry standard information to help us provide you with better software and services as described below:
+
+We want you to know that we take your privacy seriously. We collect industry standard information to help us provide you with better software and services as described below. 
 
 **Personal Information**
 
@@ -31,11 +19,15 @@ We use your credit card billing information only to obtain payment for our softw
 
 **Non-personal Information**
 
-**User Surveys** : Your participation in surveys is optional. We may ask you for information regarding your experience with our software or web sites, or to provide demographic information such as age, gender, or areas of interest. We use this information to help us improve our software, plan marketing initiatives, and develop new products that may interest you. We collect this information in a completely anonymous way so that it cannot be tied to any personally identifiable information. 
+**Web Visit:** When you visit our web site, our server logs your IP address, the time and duration of your visit, and the time and duration of the pages on our web site that you view. This information is used to generate aggregate statistical data that we use to measure interest in our web pages. We do not tie this information to any personally identifiable information that we collect. 
 
-**Shopping Cart** : We use a limited duration or "session" cookie to keep track of items in your shopping cart on our web site. We do not tie the cookie to any of your personally- identifiable information. See the section below called "Cookies." 
+**User Surveys:** Your participation in surveys is optional. We may ask you for information regarding your experience with our software or web sites, or to provide demographic information such as age, gender, or areas of interest. We use this information to help us improve our software, plan marketing initiatives, and develop new products that may interest you. We collect this information in a completely anonymous way so that it cannot be tied to any personally identifiable information. 
 
-**Installation Tracking** : To help us accurately count installations of our software, most versions of our software that we release after January 2001 will include a feature that communicates with us over the Internet to let us know the software has been installed and the date and time of installation. As part of this process, our server will log your IP address at the time of installation and the software will assign a unique identifying number to your computer based on system information and the date and time of installation. We do not tie your IP address or the unique identifying number to any personally-identifiable information. 
+**Shopping Cart:** We use a limited duration or "session" cookie to keep track of items in your shopping cart on our web site. We do not tie the cookie to any of your personally identifiable information. See the section below called "Cookies." 
+
+**Software Reporting.** The software includes a feature which assigns a unique number to your computer based on system information. The software reports this number to us either when you install the Software or enter your registration number, or both. The Software may also identify and report to us your Windows language identifier setting, IP address, and the date and time of installation and/or registration. We use this information only to count the number of installations, detect piracy, and develop rough statistical data regarding the geographic location of our users. Unless you register our software, we do not tie this information to any personally identifiable information that we may have about you. 
+
+**Purchase.** In addition to obtaining your name and other personally identifiable information, we will identify and log your browser type when you purchase our software online. We use this information to help us detect piracy. 
 
 **Cookies**
 
@@ -46,6 +38,8 @@ We place a test cookie when you visit our site to see if your browser will accep
 The session cookie we use to keep track of items in your shopping cart contains an alphanumeric identifier that is unique to your browser. When you close your browser, the cookie is permanently disabled. 
 
 We use a cookie to identify customers who are referred to us by one of our partners in order to compensate our partner for the referral. 
+
+
 
 
 If you do not wish to have a cookie on your computer, check the "help" feature of your browser for instructions. Most browsers can be set to refuse cookies. 
@@ -60,10 +54,14 @@ We will not disclose your personally identifiable information except as follows:
 
 **As part of a sale of our assets or a merger of our company.** We may in the future sell all or part of our assets or be involved in a merger. It is customary for user information to be included with the transferred assets in these types of transactions. 
 
+**To the Bureau of Export Administration.** We are required by law to furnish a report to the United States Bureau of Export Administration stating the names and addresses of all non-U.S. businesses or organizations (but not individual consumers) who purchase online or register any of our software that contains an encryption feature. This includes CuteFTP Pro, CuteFTP Server, and CuteZIP. 
+
+
+
 
 We may send promotional messages on behalf of other companies. If we do this, we will not provide them with your personal information. 
 
-We do not share your personally identifiable information with third parties under other circumstances. If we ever wish to share your personally-identifiable information with third parties under other circumstances, we will give you a chance to opt out before we do so. 
+We do not share your personally identifiable information with third parties under other circumstances. If we ever wish to share your personally identifiable information with third parties under other circumstances, we will give you a chance to opt out before we do so. 
 
 We may share non-personally identifiable aggregate statistical information about our users with third parties. 
 
@@ -78,7 +76,3 @@ Neither our web sites nor our products are designed for or directed to children 
 **Contact Information**
 
 If you have a concern about your privacy, please contact us at [webmaster@globalscape.com](mailto:webmaster@globalscape.com). 
-
-* * *
-
-©2001 [GlobalSCAPE, Inc.](http://www.globalscape.com/) All rights reserved. [Privacy Policy](https://web.archive.org/company/privacy.shtml) [Copyright Policy](https://web.archive.org/company/copyrightinfringement.shtml)
