@@ -1,29 +1,29 @@
-> *The following text is extracted and transformed from the nbwebexpress.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008112216id_/http%3A//www.nbwebexpress.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbwebexpress.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603021328id_/http%3A//www.nbwebexpress.com/privacy.htm) for the most accurate reproduction.*
 
-# New Balance @ NB Web Express - Privacy Statement
+# NB Web Express - Privacy Statement
 
   
 
 
-[](https://web.archive.org/web/20031008112216id_/http%3A//www.nbwebexpress.com/contactus.htm)
+[](https://web.archive.org/web/20040603021328id_/http%3A//www.nbwebexpress.com/contactus.htm)
 
    
-[](http://www.nbwebexpress.com/security.htm?x=&src2=ALink)
+[](https://web.archive.org/security.htm)
 
 |  | 
 
-| [](https://web.archive.org/web/20031008112216id_/http%3A//www.nbwebexpress.com/policy.htm) | 
+| [](https://web.archive.org/web/20040603021328id_/http%3A//www.nbwebexpress.com/policy.htm) | 
 
 ### Privacy Statement  
   
 ---|---  
   
-We are committed to protecting your privacy and have created this statement to outline our approach in this regard. The following discloses the information gathering and dissemination practices for our web site (www.nbwebexpress.com). If you have any concerns, comments or complaints, please [let us know](mailto:privacy@nbwebexpress.com).
+NB Web Express is committed to protecting your privacy and have created this statement to outline our approach in this regard. The following discloses the information gathering and dissemination practices for our web site (www.NBwebexpress.com). If you have any concerns, comments or complaints, please [let us know](mailto:privacy@nbwebexpress.com).
 
 | **Information We Collect...**  
 ---|---  
   
-We collect general information as you browse our site to help us diagnose problems with our server, administer our web site, and analyze broad demographic information about our visitors. The following information is obtained:
+NB Web Express collects general information as you browse our site to help us diagnose problems with our server, administer our web site, and analyze broad demographic information about our visitors. The following information is obtained:
 
   * IP Address - We use IP addresses to measure site traffic and help provide relevent shopping experiences. Your IP address is not linked to your customer information.
   * Referral Site - If you come to our site via a link, the location of the referral is captured. This is to help us know where our customers come from.
@@ -34,14 +34,14 @@ We collect general information as you browse our site to help us diagnose proble
 
 In addition, our site uses an order form for customers to request products. This order form allows us to obtain contact information (email, address, & phone number) and payment information (credit card number). This information is used to confirm your order and respond to any questions you may have. Where required, we also share this information with certain intermediaries (UPS, USPS, New Balance) strictly to process and ship your order. We do not sell, rent or loan information regarding our customers to any third parties. We do reserve the right to sell customer data in conjunction with a sale of the company or any of its assets.
 
-We allow customers to maintain a Customer Profile to aid in the input of future orders. The Customer Profile contains contact information only, we do not maintain payment information in our customer database. This feature is optional and available during the order process. You may change the information in your Customer Profile at any time by visiting the [Edit Customer Profile](https://web.archive.org/web/20031008112216id_/http%3A//www.nbwebexpress.com/profile.asp) page.
+NB Web Express allows customers to maintain a Customer Profile to aid in the input of future orders. The Customer Profile contains contact information only, we do not maintain payment information in our customer database. This feature is optional and available during the order process. You may change the information in your Customer Profile at any time by visiting the [Edit Customer Profile](https://web.archive.org/web/20040603021328id_/http%3A//www.nbwebexpress.com/profile.asp) page.
 
 Lastly, to improve our services to you we may from time to time request some of our customers to complete a voluntary survey. Survey answers are confidential. If you do not wish to participate in a survey, simply decline to participate when asked.
 
 | **Cookies...**  
 ---|---  
   
-Our site uses "cookies" to keep track of your current shopping session. For more information about cookies, [click here](https://web.archive.org/web/20031008112216id_/http%3A//www.nbwebexpress.com/cookies.htm).
+Our site uses "cookies" to keep track of your current shopping session. For more information about cookies, [click here](https://web.archive.org/web/20040603021328id_/http%3A//www.nbwebexpress.com/cookies.htm).
 
 | **Correspondence From Us...**  
 ---|---  
@@ -50,7 +50,7 @@ To keep you informed about our latest offers, we may notify you of current promo
 
 We provide our customers with the ability to be removed from our mailing list and to cease receiving all communications from us. To do so, follow one of the following steps:
 
-  1. Visit our [Newsletter Sign-Up Page](https://web.archive.org/web/20031008112216id_/http%3A//www.nbwebexpress.com/newsletter.htm) and complete the Removal Request Form.
+  1. Visit our [Newsletter Sign-Up Page](https://web.archive.org/web/20040603021328id_/http%3A//www.nbwebexpress.com/newsletter.htm) and complete the Removal Request Form.
   2. [Contact Us](mailto:service@nbwebexpress.com) and request to be removed from our mailing list.
 
 
@@ -60,7 +60,7 @@ We provide our customers with the ability to be removed from our mailing list an
   
 If you have any questions about this privacy statement, the practices of this site, or your dealings with us, you can contact us at:
 
-NBWE  
-538 Axminister Drive  
+NB Web Express  
+1537 Fencorp Drive  
 Fenton, Missouri 63026  
 1-800-595-9138
