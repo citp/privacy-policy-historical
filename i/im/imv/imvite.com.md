@@ -1,0 +1,43 @@
+> *The following text is extracted and transformed from the imvite.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305052105id_/http%3A//www.imvite.com/Privacy_Policy.php) for the most accurate reproduction.*
+
+# IMVITE ::::::::: PRIVACY
+
+**Introduction**
+
+IMVITE is committed to protecting the privacy of our customers. This document describes the privacy policy that applies with respect to the information that we collect from the company's website, located at http://www.imvite.com, and from users of the IMVITE messaging service. This privacy policy was last revised on February 16, 2005. Amendments to this privacy policy may be made by IMVITE at any time, and from time to time, in its sole discretion without notice to you. Such amendments will be posted at this URL and will be effective when posted. Your continued use of this site following the posting of any amendment, modification or change shall constitute your acceptance thereof. Therefore, you should regularly review this privacy policy so that you are aware of any changes. If you do not consent to the modified privacy policy, you must cease use of IMVITE's services immediately. 
+
+**Information Collected**
+
+Information may be collected from you in one of two ways: we may collect information automatically when you browse the site, or you may voluntarily disclose the information to us in order to use the service. 
+
+1\. Non-individually identifiable information 
+
+We may automatically collect certain non-individually identifiable information in order to manage the operations of this site. This information may include such technical data as the URL of the site which referred you to our website, your IP address, the browser you are using and the operating system you are using. 
+
+IMVITE may use "cookies" - a small file placed on your computer - or similar technologies to enhance your use of the site. These cookies may allow you to save login information so that you may use our site without having to enter screen names and/or passwords every time you view the site. These cookies will not collect any personal information about you, and you may disable them using a feature of your web browser if you choose. IMVITE lets other companies that show advertisements on some of our pages use their cookies and similar technologies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to IMVITE's cookies.
+
+2\. Personally identifiable information 
+
+We do not collect any personally identifiable information about you unless you voluntarily submit such information to us when signing up for our service. The type of information that may be requested includes (but may not be limited to) your name, age, personal and/or family income, gender, work address, home address, e-mail address, telephone number and fax number. In addition, for you to take part in IMVITE's affiliate program or associate program IMVITE will need to collect financial information from you such as account or credit card information in order to bill you or make payments to you, as appropriate. Additionally, there may be several services offered to IMVITE members for additional fees. IMVITE will need to collect contact information such as name and address, financial information (such as credit card information) and information about the transactions in order to bill you for these services. 
+
+Please note that individuals under the age of thirteen are not permitted to use IMVITE's services, and we will not knowingly collect or retain information from those under the age of thirteen. If we discover that an individual under the age of thirteen has provided information to us, we will cancel that person's account and delete that information. 
+
+**Use of Information**
+
+We recognize the importance of your privacy. Therefore, in general, we will only use the information you provide to us for the purpose for which such information was provided. Your information will be used internally by IMVITE, its employees, subcontractors and agents to create an account and store information about our users. We may also use this information to deliver information about our company to you. 
+
+Your financial information will be utilized solely for the purpose of billing you for the services you sign up for, or for making payments to you under the terms of the affiliate program or the associate program (as the case may be), and will be disclosed only to valid financial institutions and credit card companies for these purposes. It will never be disclosed to other users of IMVITE under any circumstances. 
+
+IMVITE may display targeted advertisements based upon personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted advertisements meet the specific criteria being targeted. Although IMVITE does not provide any personal information to the advertiser when you interact with, view or click on a targeted advertisement, by doing so you are consenting to the possibility that the advertiser will make the assumption that you meet the criteria being targeted by the advertisement. 
+
+This information may be transferred to another company as a result of a change in ownership of IMVITE. In the event that this happens, IMVITE will notify you before information about you is transferred and becomes subject to a different privacy policy. 
+
+The information you provide may be disclosed pursuant to a subpoena or other legal court order or to establish or exercise our legal rights or defend against legal claims. In addition, IMVITE may disclose your information to the appropriate law enforcement authorities in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of IMVITE's terms of use, or as otherwise required by law. 
+
+Non-individually identifiable information which is gathered may be used for site administration purposes. 
+
+**External Sites**
+
+Some links on our site or as part of our messaging service may direct you to websites, including privately branded "IMVITE" websites, operated by third parties outside of IMVITE's control. We are not responsible for the collection or use of any information by those third parties, and we do not make any representations about the privacy of any information you provide to any sites you reach as a result of clicking on a link on our site. By clicking on these links, you acknowledge that you understand the above, and that the privacy policies of these external websites may be different than those of our website. 
+
+**Contact Us** If you have any concerns about our use of your information or about this privacy policy, please send an e-mail to [legal@imvite.com](mailto:legal@imvite.com). 
