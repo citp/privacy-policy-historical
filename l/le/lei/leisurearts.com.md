@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leisurearts.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618122530id_/http%3A//leisurearts.com/customer_support/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leisurearts.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202204041id_/http%3A//leisurearts.com/customer_support/privacy.asp) for the most accurate reproduction.*
 
 # Leisure Arts - Privacy Policy
 
