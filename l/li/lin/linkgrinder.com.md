@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linkgrinder.com privacy policy that was archived on 2000-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001201235800id_/http%3A//www.linkgrinder.com/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkgrinder.com privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616133515id_/http%3A//www.linkgrinder.com/Privacy.cfm) for the most accurate reproduction.*
 
-# Link Grinder - Free Engine for Fast Searching of Hot Links and Free Advertising - Find what you want FAST! Search Engine,Links,Free Advertising,Free Links,Hot Links, banner, ad, Journals Performing Arts Media Literacy Water Color History Employment Diseases and Conditions Companies Travel Actors and Actresses
+# Gnutella Grinder - Free Engine for Fast Searching of Shared Files on the Gnutella Peer to Peer Network - Find what you want FAST! Gnutella, MP3, DIVX, Shareware, Music, Movies, Film, Search Engine,Links,Free Advertising,Free Links,Hot Links, banner, ad, Disabilities Desktop Customization Pharmacy Automotive Graphics Organizations Religion and Science Midwifery Holidays and Observances Pets
 
 | 
 
