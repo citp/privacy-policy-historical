@@ -1,17 +1,14 @@
-> *The following text is extracted and transformed from the taxact.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203052113id_/http%3A//www.taxact.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxact.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606012349id_/http%3A//taxact.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# TaxACT Legal Notice
+# TaxACT Privacy Policy Statement
 
-**Privacy Policy Statement**  
----  
-  
 **www.taxact.com** is the web site of **2nd Story Software, Inc.**
 
 Our postal address is  
  **5925 Dry Creek Lane, NE**  
  **Cedar Rapids, IA 52402**
 
-We can be reached via e-mail at [support2@taxact.com](mailto:support2@taxact.com)  
+We can be reached via e-mail at [customerservice@taxact.com](mailto:customerservice@taxact.com)  
 Or you can reach us by telephone at 319-373-3600  
 Or you can reach us by fax at 319-447-4674
 
@@ -30,6 +27,8 @@ If you decide to purchase our TaxACT products, we request additional information
 **Third Party Intermediaries**
 
 We use an outside credit card processing company to bill users for goods and services. This company does not retain, share, store or use personally identifiable information for any secondary purposes.
+
+We use an advertising company to serve advertisements on our website. We do not share, rent or sell any personally identifiable information to this company. The advertising company uses Pixel tags and cookies on our site to help us measure the effectiveness of the advertising placed on our Web site. We do not have direct control over the use of the cookies or Pixel tags once placed on our site. If you wish to review the advertising company’s privacy policy, please [click here](http://www.advertising.com/Privacy.html).
 
 **Changing and Deleting Personal Information**
 
@@ -80,3 +79,5 @@ The TRUSTe program covers only information that is collected through this Web si
 **Disclaimer**
 
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
+
+_Last Updated: April 05, 2004_
