@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the jackpot.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205152901id_/http%3A//www.jackpot.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackpot.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619065232id_/http%3A//www.jackpot.com/help/privacy.asp) for the most accurate reproduction.*
 
 # Jackpot.com Privacy Policy
 
 |   
 ---  
   
-|  |  [Effective as of October 10, 2002] 
+|  |  [Effective as of January 20, 2004] 
 
 Jackpot.com ("Jackpot.com") makes this Web site (the "Site") available to registered members of the Site ("Members"), subject to this privacy policy (the "Policy") and the Jackpot.com User Agreement ("Member Agreement"). This Policy explains what information Jackpot.com collects about Members on the Site, how Jackpot.com uses this information, and how such information is maintained. By registering and using this Site, you signify your acceptance of this Policy. If you do not agree to the terms of this Policy, in whole or part, you should not use this Site, or if you are a Member, you must immediately terminate your account. 
 
@@ -19,7 +19,7 @@ Jackpot.com only collects Member personally identifiable information ("PII") tha
 **Use and Sharing of PII**  
 Jackpot.com reserves the right to use Member PII: (1) for the specific purpose for which such information was provided; (2) as disclosed at the time such information is provided; and (3) as disclosed in this Policy. However, Members should note that Jackpot.com may change this Policy at any time (See "Changes to this Policy," below), and that therefore Jackpot.com may in the future use Member PII for additional purposes not currently included in this Policy. 
 
-When you register to become a Member of this Site, you are automatically registered to become a Member of all the other online properties in the Vendare Network (collectively, the "Network Sites") Accordingly, Jackpot.com may share Member PII with the Network Sites. For a list of the Network Sites, [click here](https://web.archive.org/features/network.asp). 
+When you register to become a Member of this Site, you are automatically registered to become a Member of all the other online properties in the Vendare Network (collectively, the "Network Sites") Accordingly, Jackpot.com may share Member PII with the Network Sites. For a list of the Network Sites, please see your Jackpot.com member profile, which you can view by [clicking here](https://web.archive.org/login/updateinfo.asp). 
 
 Also, Jackpot.com may share Member PII (except for credit card information and social security number) with its partners, sponsors, advertisers, service providers and marketers lookup and reference services and any other entities that Jackpot.com believes are able to provide Members with special offers and opportunities. Note that although Jackpot.com advises everyone who receives Member PII from Jackpot.com to support this Policy, Jackpot.com has no control over such party's information handling practices and is not responsible for any failure of such party to adhere to this Policy. 
 
@@ -27,7 +27,9 @@ As provided in the Member Agreement, Members are required to provide their PII t
 
 Additionally, Jackpot.com may share Member PII in aggregate, non-personal form, with select companies that wish to reach a particular Member target audience (e.g., registered female Members between the ages of 25-35, who have an average household income of over $50,000.00). This information will allow these entities to provide relevant offers to specific Members. 
 
-Finally, Jackpot.com may disclose Member PII in order to: (1) comply with applicable laws; (2) respond to governmental inquiries; (3) comply with valid legal process; and (4) protect the rights or property of Jackpot.com, the Network Sites or other Members of this Site.   
+Finally, Jackpot.com may disclose Member PII in order to: (1) comply with applicable laws; (2) respond to governmental inquiries; (3) comply with valid legal process; and (4) protect the rights or property of Jackpot.com, the Network Sites or other Members of this Site. 
+
+By registering and using this Site, Members acknowledge that the processing of their PII for the purposes described above may involve the transfer of such PII from within the European Economic Area ("EEA") to countries outside the EEA whose data protection regulation may not be as stringent as that within the European Union.   
   
 ---|---  
   
@@ -43,7 +45,7 @@ _Clear GIFs._ Jackpot.com uses a common technology known as a "Clear GIF" or "1-
 
 Although the information collected through the foregoing methods does not itself contain any PII, Jackpot.com may analyze and match such information with other information that you provide on this Site (including PII) as well as information that Jackpot.com may obtain elsewhere, and Jackpot.com may share all or some of such information with partners, prospective partners, and other affiliated or unaffiliated third parties. 
 
-Jackpot.com may also disclose any of the non-personally identifiable information described above in order to (1) comply with applicable laws, (2) respond to governmental inquiries, (3) comply with valid legal process, or (4) protect the rights or property of Jackpot.com, the Network Sites or Members of this Site.   
+Jackpot.com may also disclose any of the non-personally identifiable information described above in order to (1) comply with applicable laws (including, without limitation, the CAN-SPAM Act), (2) respond to governmental inquiries, (3) comply with valid legal process, or (4) protect the rights or property of Jackpot.com, the Network Sites or Members of this Site.   
   
 ---|---  
   
@@ -54,7 +56,7 @@ Jackpot.com may also disclose any of the non-personally identifiable information
 
 Additionally, when you register to become a Member on the Site, you will be provided with the opportunity to receive promotional offers, via emails, from partners of Jackpot.com. While some of these opportunities will only be sent to you if you expressly request them, others may be sent to you unless you elect not to receive them. Accordingly, when you register, please review these offers carefully. 
 
-Members may, at any time, choose not to receive promotional emails from Jackpot.com, the Network Sites or partners of Jackpot.com by (1) following the "unsubscribe" instructions in the Jackpot.com e-mail, or (2) visiting the [Help](https://web.archive.org/help/) section of the Site and updating the "E-mail Subscription" selection under "Add/Change Member Info." Jackpot.com will respond to a request made pursuant to these methods as promptly as practicable. Notwithstanding the foregoing, Jackpot.com may at any time contact Members for the purpose of communicating important information about Jackpot.com or the Site to Members. 
+Members may, at any time, choose not to receive promotional emails from Jackpot.com, the Network Sites or partners of Jackpot.com by (1) following the "unsubscribe" instructions in the Jackpot.com e-mail, or (2) terminating their Jackpot.com account. Notwithstanding the foregoing, Jackpot.com may continue to contact Members for the purpose of communicating information about their membership with Jackpot.com, changes in features of the Site, or similar information relating to Jackpot.com, the Site or your membership, as well as to facilitate, complete or confirm any transaction that Members' enter into or in response to or fulfillment of Members' inquiries or requests. 
 
 _Note that unsubscribing from one email list does not automatically unsubscribe you from any other email list that you may be on. Please read the email carefully to find out which list you are unsubscribing from. If you would like to unsubscribe from all email lists, you must terminate your account._  
   
@@ -84,7 +86,7 @@ _Note that unsubscribing from one email list does not automatically unsubscribe 
 |  In its sole discretion, Jackpot.com may transfer, sell or assign information collected on and through this Site, including without limitation, PII and other Member-provided information, to one or more third parties, as a result of the sale, merger, consolidation, change in control, transfer of substantial assets, reorganization or liquidation of Jackpot.com.   
 ---|---  
   
-|  Members of the Site who disagree with any provision of this Policy must immediately terminate their account with Jackpot.com. Accounts may be terminated by visiting the [Help](https://web.archive.org/help/) section of the Site and following the applicable instructions, or by emailing Jackpot.com customer service at [customerservice@jackpot.com](mailto:customerservice@jackpot.com). All inquiries concerning the use of Member PII by a third party must be communicated to that third party, and not to Jackpot.com.   
+|  If you wish to update your email subscription or change any of your profile details you must navigate to your profile page that you can access through the help section of the site. Members of the Site who disagree with any provision of this Policy must immediately terminate their account with Jackpot.com. Accounts may be terminated by visiting the [Help](https://web.archive.org/help/) section of the Site and following the applicable instructions, or by emailing Jackpot.com customer service at [customerservice@jackpot.com](mailto:customerservice@jackpot.com). All inquiries concerning the use of Member PII by a third party must be communicated to that third party, and not to Jackpot.com.   
 ---|---  
   
 |  Jackpot.com may, from time to time, amend this Policy, in whole or part, in its sole discretion. Depending on the nature of the change, Jackpot.com will either announce the change (1) on the home page of the Site, or (2) provide such notice via e-mail to Members. By continuing to use the Site following an announcement of any changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Policy, as it may be amended from time to time, in whole or part, you must terminate your account by visiting the [Help](https://web.archive.org/help/) section of the Site and following the appropriate instructions. 
