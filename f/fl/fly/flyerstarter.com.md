@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyerstarter.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206205145id_/http%3A//www.flyerstarter.com/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyerstarter.com privacy policy that was archived on 2005-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050324033837id_/http%3A//www.flyerstarter.com/default%7Epg%7Eprivacy.asp) for the most accurate reproduction.*
 
 # Flyerstarter.com - Privacy policy
 
