@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the briefing.com privacy policy that was archived on 2003-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030625112221id_/http%3A//www.briefing.com/About_/CorpInfo/ci_Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briefing.com privacy policy that was archived on 2003-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031021192218id_/http%3A//briefing.com/About_/CorpInfo/ci_Privacy.htm) for the most accurate reproduction.*
 
 # Briefing.com: Privacy Statement
 
@@ -124,7 +124,7 @@ In the event [Briefing.com] goes through a business transition, such as a merger
 
 Choice/Opt-out
 
-Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by managing their email preferences at the following link: <http://www.briefing.com/scripts/FreeServices/emailsignup.asp> OR the user may contact us at [800-752-3013; [service@briefing.com](mailto:service@briefing.com) or by writing to us at: 875 Mahler Road #216, Burlingame, CA 94010] to opt-out.
+Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by managing their email preferences at the following link: <http://www.briefing.com/scripts/FreeServices/emailsignup.asp> OR the user may contact us at [800-752-3013; [service@briefing.com](mailto:service@briefing.com) or by writing to us at: 555 Airport Boulevard, Suite 150, Burlingame, CA 94010] to opt-out.
 
 **Links**  
 This Web site contains links to other sites. Please be aware that we, [Briefing.com], are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by Briefing.com. 
@@ -158,7 +158,7 @@ Contact Information
 If users have any questions or suggestions regarding our privacy policy, please contact us at:
 
 Phone: 800-752-3013  
-Fax: 650-752-1743  
-Email: [service@briefing.com](mailto:service@briefing.com)  
-Postal Address: 875 Mahler Road Suite 216 Burlingame, CA 94010  
+Fax: 650-347-2223  
+E-mail: [service@briefing.com](mailto:service@briefing.com)  
+Postal Address: 555 Airport Boulevard, Suite 150, Burlingame, CA 94010  
 Web site URL www.briefing.com
