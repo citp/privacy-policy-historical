@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixonline.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202205430id_/http%3A//www.primediabusiness.com/company/privacy.asp%3Fpage%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixonline.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603123137id_/http%3A//www.primediabusiness.com/company/privacy.asp%3Fpage%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,12 +22,15 @@ Copyright 2003 Primedia Business Magazines & Media. All rights reserved.
 
 _Privacy Policy for subscribers of print magazines_
 
-Because we are concerned about honoring your privacy, we want to let you know how we may use the e-mail address that you provide on your magazine subscription/renewal forms. While we will primarily use your email address to contact you when your subscription is up for renewal, there are a few other types of e-mail messages we may want to send you: 
+Because we are concerned about honoring your privacy, we want to let you know how we may use the e-mail address that you provide on your subscription/renewal forms. While we will primarily use your email address to contact you when your subscription is up for renewal and to send you online newsletters related to your subscription, there are a few other types of e-mail messages we may want to send you: 
 
-  * Announcements regarding other Primedia Business products or services. 
-  * Email messages with special offers from carefully selected, relevant businesses and organizations. 
+  * Research surveys/polls 
+  * Announcements regarding other Primedia-related products or services. 
+  * Email messages with special offers from other carefully selected, relevant businesses and organizations. 
 
 
+
+All commercial/promotional email messages you receive directly from us will include an option for you to unsubscribe from future promotions of that type from that publication.
 
 **If you have any other questions about our subscription privacy policy, please contact our subscription department at[subs@primediabusiness.com](mailto:subs@primediabusiness.com) or by calling 1-800-441-0294.**
 
