@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the holidaytaxis.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010152334id_/http%3A//www.holidaytaxis.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidaytaxis.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305075322id_/http%3A//www.holidaytaxis.com/about/privacy.php) for the most accurate reproduction.*
 
-# Holiday taxis water and ski taxis helicopter transfer available at Holiday Taxis
+# Holiday Taxis provide airport transfer, airport taxi service, limousine hotel transfers and minibus shuttles. Book online at HolidayTaxis.com
 
 Privacy Policy  
 ---  
