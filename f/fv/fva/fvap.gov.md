@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the fvap.gov privacy policy that was archived on 2004-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041216213723id_/http%3A//www.fvap.gov/security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fvap.gov privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305035842id_/http%3A//www.fvap.gov/security.html) for the most accurate reproduction.*
 
-# Privacy
+# Privacy, Security and Accessibility
 
-1\. The Federal Voting Assistance Program website is provided as a public service by the [ Federal Voting Assistance Program](https://web.archive.org/web/20041216213723id_/http%3A//www.fvap.gov/index.html) and the [Defense Technical Information Center](http://www.dtic.mil/). 
+[Home](https://web.archive.org/web/20050305035842id_/http%3A//www.fvap.gov/index.html)|[Site Index](https://web.archive.org/web/20050305035842id_/http%3A//www.fvap.gov/siteindex.html)|[Email Us!](mailto:vote@fvap.ncr.gov?subject=WWW)
+
+1\. The Federal Voting Assistance Program website is provided as a public service by the [ Federal Voting Assistance Program](https://web.archive.org/web/20050305035842id_/http%3A//www.fvap.gov/index.html "FVAP Home Page") and the [Defense Technical Information Center](http://www.dtic.mil/ "DTIC Home Page"). 
 
 2\. Information presented on Federal Voting Assistance Program website is considered public information and may be distributed or copied unless otherwise specified. Use of appropriate byline/photo/image credits is requested.
 
@@ -14,7 +16,7 @@
 
 6\. Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
 
-7\. If you have any questions or comments about the information presented here, please forward them to us using the [Comment Form.](https://web.archive.org/web/20041216213723id_/http%3A//www.fvap.gov/comment.html)
+7\. If you have any questions or comments about the information presented here, please forward them to us using the [Comment Form.](https://web.archive.org/web/20050305035842id_/http%3A//www.fvap.gov/comment.html "FVAP Title Form")
 
 8\. Cookie Disclaimer - The Federal Voting Assistance Program website does not use persistent cookies (persistent tokens that pass information back and forth from the client machine to the server). The Federal Voting Assistance Program site may use session cookies (tokens that remain active only until you close your browser) in order to make the site easier to use. The Department of Defense DOES NOT keep a database of information obtained from these cookies. You can choose not to accept these cookies and still use the site, but it may take longer for the pages to load. Refer to the help information in your browser software for instructions on how to disable cookies.
 
@@ -53,3 +55,17 @@ Connections via many Internet Service Providers assign different IP addresses fo
 **www.altavista.digital.com** \-- this indicates the last site the person visited, which indicates how people find this site 
 
 Requests for other types of documents use similar information. No other user-identifying information is collected. 
+
+* * *
+
+## Accessiblity
+
+[www.fvap.gov](https://web.archive.org/web/20050305035842id_/http%3A//www.fvap.gov/index.html "FVAP home page") includes several features designed to improve accessibility for users with disabilities. Some of these features are described below. 
+
+Images on the site contain 'alt tags,' which aid users who listen to the content of the site by using a screen reader, rather than reading the site. 
+
+Adobe Portable Document Format (PDF) files have either a text equivilent file or an Hyper-Text Markup Language (html) page which is accessible via a screen reader. 
+
+Users can get information regarding the accessibility of PDF files from the [Access Adobe](http://www.adobe.com/enterprise/accessibility/main.html "Access Adobe") website. 
+
+If you are having a problem with [www.fvap.gov](https://web.archive.org/web/20050305035842id_/http%3A//www.fvap.gov/index.html "FVAP Home Page"), please contact us via email at [vote@fvap.ncr.gov](mailto:vote@fvap.ncr.gov?subject=Accessibility "Accessibility"), subject: Accessibility. Our Web Team welcomes comments on how to improve the site's accessibility for users with disabilities. 
