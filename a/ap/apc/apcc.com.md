@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apcc.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611045353id_/http%3A//apcc.com/corporate/legal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apcc.com privacy policy that was archived on 2004-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040726080138id_/http%3A//www.apcc.com/corporate/legal/privacy.cfm) for the most accurate reproduction.*
 
 # APC - Online Privacy Policy
 
