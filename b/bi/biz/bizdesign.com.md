@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizdesign.com privacy policy that was archived on 2004-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040618180516id_/http%3A//bizdesign.com/pages/policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizdesign.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209192216id_/http%3A//www.bizdesign.com/pages/policy.shtml) for the most accurate reproduction.*
 
 # BizDesign's Privacy Statement
 
