@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everyone.net privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408220018id_/http%3A//www.everyone.net/p_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everyone.net privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210085345id_/http%3A//www.everyone.net/p_policy.html) for the most accurate reproduction.*
 
 # Email for you, your family, your group, or your business
 
@@ -40,7 +40,7 @@ We use SSL (Secure Socket Layer) encryption to secure personal identification. I
 
    **How You Can Access or Update Your Information**
 
-  **Clients** can access their personally identifiable information that Everyone.net collects online and maintains by logging in to their password-protected (SSL encrypted) Control Center account at [http://www.everyone.net](https://web.archive.org/web/20020408220018id_/http%3A//www.everyone.net/index.html) and selecting "Edit My Profile." **End-Users** can access their information by logging in to their password-protected End-User account and selecting to update their "Personal Info." End-Users and Clients can also correct factual errors in their personally identifiable information by sending us a written request that credibly documents and explains the error.
+  **Clients** can access their personally identifiable information that Everyone.net collects online and maintains by logging in to their password-protected (SSL encrypted) Control Center account at [http://www.everyone.net](https://web.archive.org/web/20021210085345id_/http%3A//www.everyone.net/index.html) and selecting "Edit My Profile." **End-Users** can access their information by logging in to their password-protected End-User account and selecting to update their "Personal Info." End-Users and Clients can also correct factual errors in their personally identifiable information by sending us a written request that credibly documents and explains the error.
 
   If you have submitted information on our site but do not currently have an account with us, you can access and correct the information that we collect and maintain by contacting us and requesting such information or correction.
 
@@ -52,7 +52,7 @@ We use SSL (Secure Socket Layer) encryption to secure personal identification. I
 
   **Email, Search, and Community Specific Terms and Conditions**
 
-  Everyone.net considers email transmitted via our service to be private correspondence between the sender and recipient. Therefore, we will not monitor, edit or disclose the contents of your private communications, except for reasons provided for in the [End-User Agreement](https://web.archive.org/web/20020408220018id_/http%3A//www.everyone.net/agreement_enduser.html).
+  Everyone.net considers email transmitted via our service to be private correspondence between the sender and recipient. Therefore, we will not monitor, edit or disclose the contents of your private communications, except for reasons provided for in the [End-User Agreement](https://web.archive.org/web/20021210085345id_/http%3A//www.everyone.net/agreement_enduser.html).
 
   Content posted to public community areas is publicly available, and Everyone.net reserves the right to remove any publicly posted content that it deems to be objectionable.
 
