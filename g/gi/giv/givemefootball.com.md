@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the givemefootball.com privacy policy that was archived on 2004-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040621204814id_/http%3A//www.givemefootball.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the givemefootball.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204083519id_/http%3A//www.givemefootball.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,7 +30,12 @@ In some cases, as per the PFA Fans Player Awards, you may voluntarily provide pe
 If you do not wish your Personal Data to be disclosed in this manner, please make this clear by sending an appropriately worded message to privacy@givemefootball.com.   
 From time to time we may also use your personal data to notify you of other goods and/or services offered by The Professional Footballers Association and/or third party marketing partners. We will share with them your e-mail address and the information described above, so they can send you offers for products and services that may be of interest to you. 
 
-We will only share your e-mail address if you have opted in by checking the box on the registration page. Additionally, each e-mail we send you will include a description of the simple opt out process to enable you to stop receiving future e-mail.   
-If you have questions regarding this privacy statement please send an e-mail to:  
-[privacy@givemefootball.com](mailto:privacy@givemefootball.com)   
+We will only share your e-mail address if you have opted in by checking the box on the registration page. Additionally, each e-mail we send you will include a description of the simple opt out process to enable you to stop receiving future e-mail.
 
+If you have questions regarding this privacy statement please send an e-mail to: [privacy@givemefootball.com](mailto:privacy@givemefootball.com)
+
+GIVEMEFOOTBALL LIMITED   
+20 OXFORD COURT  
+BISHOPSGATE  
+MANCHESTER  
+GREATER MANCHESTER M2 3WQ 
