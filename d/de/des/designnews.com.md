@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the designnews.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207082000id_/http%3A//www.manufacturing.net/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designnews.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413052813id_/http%3A//www.manufacturing.net/help/privacy.htm) for the most accurate reproduction.*
 
 # Manufacturing.Net - Privacy Statement
 
 September 1, 1999
 
-This Privacy Policy for _Manufacturing.Net_ , an electronic publication of Cahners Business Information, a division of Reed Elsevier Inc., will be continuously assessed against new technologies, business practices and our customers' changing needs. We may change our privacy practices from time to time. If we make any changes, we'll update this privacy statement accordingly (the date of the most recent change is displayed at the top of this statement).
+This Privacy Policy for _Manufacturing.Net,_ will be continuously assessed against new technologies, business practices and our customers' changing needs. We may change our privacy practices from time to time. If we make any changes, we'll update this privacy statement accordingly (the date of the most recent change is displayed at the top of this statement).
 
 **Free One-Time Registration and Advertiser Support**
 
-  1. We ask our users to register so we can ensure our advertisers reach an audience of qualified manufacturing professionals. You can [register now](https://web.archive.org/cgi-bin/welcome2.cgi) and read our [FAQs](https://web.archive.org/web/20001207082000id_/http%3A//www.manufacturing.net/help/raq.html) and our [Terms and Conditions](https://web.archive.org/registration/terms_nw.htm).  
+  1. We ask our users to register so we can ensure our advertisers reach an audience of qualified manufacturing professionals. You can [register now](https://web.archive.org/cgi-bin/welcome2.cgi) and read our [FAQs](https://web.archive.org/web/20010413052813id_/http%3A//www.manufacturing.net/help/raq.html) and our [Terms and Conditions](https://web.archive.org/help/terms.htm).  
 
-  2. We try to keep user information current and accurate to help us provide you with the most useful and personalized products, services, and industry information. If you wish to change your information at any time please click on the "Register Free" button on our main page. To make changes now [click here](https://web.archive.org/cgi-bin/reg/update_2).   
+  2. We try to keep user information current and accurate to help us provide you with the most useful and personalized products, services, and industry information. If you wish to change your information at any time please click on the "Register Free" button on our main page. To make changes now [click here](https://web.archive.org/cgi-bin/reg/update_2.cgi).   
 
   3. We may use the information we collect from you individually or aggregated with other user's information to improve our publications, to customize these publications, and to notify you about updates or new features. In addition, we may use information we collect to notify you of third-party products and services in which you may be interested.  
 
