@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the ctv.ca privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216045554id_/http%3A//www.ctv.ca/LegalNotice.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctv.ca privacy policy that was archived on 2002-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020608005740id_/http%3A//www.ctv.ca/generic/generated/shows/CTVShowsPrivacy/default.html) for the most accurate reproduction.*
 
-# CTV Corporate Home
+# CTV.ca - Canadian Television's Web Destination
+
+CTV.ca Privacy Policy
 
 **LEGAL NOTICE**
 
-**CTV.ca** welcomes you to their website. **CTV.ca** is a website of **CTV Television Inc.** (" **CTV** "), a Canadian company. Through this website **CTV** brings you information regarding **CTV** programming. However, before you use this website, there are a few legal notices we would like you to read:
+**CTV.ca** welcomes you to their website. **CTV.ca** is a website of **CTV Television Inc.** (" **CTV** "), a Canadian company. Through this website **CTV** brings you information regarding **CTV** programming. However, before you use this website, there are a few legal notices we would like you to read: 
 
 **A. USER AGREEMENT**
 
@@ -14,7 +16,6 @@ Using this website indicates your consent to and agreement to be bound by this L
 
 Your privacy and the integrity of any information you provide are important to us. As a result, we have created the following policy, developed pursuant to the Personal Information Protection and Electronic Documents Act, 2000 c.5. (the "Privacy Act").
 
-  
 **THE SCOPE OF THIS POLICY**
 
 This policy applies to the **CTV.ca** website only. It is designed to inform you of how and why **CTV** gathers personal and non-personal information about you 
@@ -27,8 +28,7 @@ We are accountable for our privacy practices on this website. If you have any qu
 
 **OUR INFORMATION PRACTICES**
 
-We cannot collect personally identifiable information from you without your consent. By voluntarily providing this information to us at various points when using our website, including, sending us a comment or suggestion, entering a chatroom or bulletin board that may be available from time to time, or entering a contest that is posted on our website you will be consenting to the collection, use and distribution of your personal information by **CTV**. **CTV** will collect, use and distribute information for purposes of running the contest, as well as distribution to sponsors which manage the contests, for purposes of running the contest and marketing (for example the sponsor directly contacting the contestant to promote products and services and distribution to third parties who may participate in chatrooms and bulletin boards on the web site as set out below. You are under no obligation to provide us with this information and can access many aspects of the website without providing us any personal information. By volunteering this personal information you are also agreeing to its collection, use and distribution for the purposes stated below.  
-
+We cannot collect personally identifiable information from you without your consent. By voluntarily providing this information to us at various points when using our website, including, sending us a comment or suggestion, entering a chatroom or bulletin board that may be available from time to time, or entering a contest that is posted on our website you will be consenting to the collection, use and distribution of your personal information by **CTV**. **CTV** will collect, use and distribute information for purposes of running the contest, as well as distribution to sponsors which manage the contests, for purposes of running the contest and marketing (for example the sponsor directly contacting the contestant to promote products and services and distribution to third parties who may participate in chatrooms and bulletin boards on the web site as set out below. You are under no obligation to provide us with this information and can access many aspects of the website without providing us any personal information. By volunteering this personal information you are also agreeing to its collection, use and distribution for the purposes stated below.
 
 **THE PURPOSE OF OUR COLLECTING INFORMATION FROM YOU**
 
@@ -37,8 +37,10 @@ We cannot collect personally identifiable information from you without your cons
 >  •To respond to your questions, or comments you e-mail to us.  
 >  •To run chatrooms and bulletin boards  
 >  •To keep aggregate information on website use. 
+> 
+>   
+> 
 
-  
 Having responded to your questions or concerns in a manner that **CTV** deems appropriate we will also destroy, after dealing with your comment or concern in a manner we deem appropriate, any personal information collected from you upon e-mailing us your question or concern.
 
 We will not sell personal information. However, by entering contests and bulletin boards or chatrooms please be advised that you will have consented to the sharing of your personal information with co-sponsors of any contest and other third party participants in the bulletin board or chatroom. We cannot control what third parties in the bulletin board or chatroom do with your personal information.
