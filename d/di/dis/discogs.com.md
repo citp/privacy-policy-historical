@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the discogs.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603171304id_/http%3A//www.discogs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discogs.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211174532id_/http%3A//www.discogs.com/info/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Statement
 
-[](https://web.archive.org/) |   
----|---  
-  
 **Privacy Statement for Discogs**   
 Discogs has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Discogs](http://www.discogs.com/)
 
@@ -29,6 +26,3 @@ This site has security measures in place to protect the loss, misuse, and altera
 
 **Contacting the Web Site**   
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: info@discogs.com 
-
-[Privacy Policy](https://web.archive.org/privacy) \- [About](https://web.archive.org/about) \- [Contact Us](https://web.archive.org/contact)  
-Copyright © 2001 Zink Media Inc. All Rights Reserved.
