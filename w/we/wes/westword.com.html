@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the westword.com privacy policy that was archived on 2000-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20000505100909id_/http%3A//www.westword.com/about/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the westword.com privacy policy that was archived on 2000-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001202123700id_/http%3A//westword.com/about/privacy_policy.html) for the most accurate reproduction.-->
 
 <html><head>
 <!-- Begin standard_html_header (actually it start above the html tag) -->
 
-<title>Westword Online -- westword.com</title>
+<title>Westword Online -- westword.com | About</title>
 
 <!-- Begin control_panel/products/nitsite/ntcity/javascript -->
 
@@ -21,7 +21,7 @@ var c = new adsize(120,60);
 var d = new adsize(120,90);
 var v = new adsize("120v");     
 
-function ad(site,category,size,id) {
+function ad(site,category,size,id,ad_loc) {
 if (size == "") {
     size = "a";
 } // default size
@@ -35,6 +35,7 @@ var ad = "";
 var path_info = "site=" + site +
                 "&category=" + category +
                 "&size=" + size_name +
+                "&loc=" + ad_loc +
                 "&id=" + id;
 var yourHREF = "http://ads.newtimes.com/click.ng/?" + path_info;
 var yourSRC = "http://ads.newtimes.com/image.ng/?" + path_info;
@@ -61,7 +62,13 @@ document.write(ad);
 
 <!--//
 function openElink() {
-window.open("http://www.westword.com/about/elink","thwindow","toolbar=no,width=325,height=425,status=no,scrollbars=yes,resize=no,menubar=no");
+window.open("http://www.westword.com/about/elink.html","thwindow","toolbar=no,width=325,height=425,status=no,scrollbars=yes,resize=no,menubar=no");
+}
+//-->
+
+<!--//
+function openElink2(theLink) {
+window.open(theLink,"thwindow","toolbar=no,width=325,height=425,status=no,scrollbars=yes,resize=no,menubar=no");
 }
 //-->
 
@@ -72,8 +79,14 @@ window.open("http://www.westword.com/about/elink","thwindow","toolbar=no,width=3
 
 <!--//
 
-if(top.location != self.location) {
-top.location = self.location
+var fromref = document.referrer;
+var referPat = /newtimes.com/;
+var matchPat = fromref.match(referPat);
+
+if (matchPat == null){
+  if(top.location != self.location) {
+  top.location = self.location
+  }
 }
 
 //-->
@@ -129,7 +142,6 @@ function clearField(field){
         }
         .bodycopy { font-family: "Times New Roman", "Times", "Georgia", serif;
           font-size: 12pt;
-          line-height: 1.1em;
         }
 
         .subhead { font-family: "Arial", "Verdana", "Helvetica", san-serif; 
@@ -208,6 +220,12 @@ function clearField(field){
           font-weight: 700; 
           color: white; 
          }
+
+        .navigationhead_home { font-family: "Helvetica", "Arial",  "Verdana", san-serif;
+          font-size: 10pt;
+          font-weight: 700; 
+          color: #bbbbbb; 
+         }
       
 	  
 	      .navigationbase { font-family: "Verdana", "Helvetica", "Arial",  san-serif;
@@ -215,11 +233,14 @@ function clearField(field){
 
 		 
 		 
-         .navigation { font-family: "Verdana", "Helvetica", "Arial",  san-serif;
+	div.navigation { font-family: "Helvetica", "Arial", "Verdana", san-serif;
           font-size: 9pt;
-          
-		   color: black;
-         }
+          font-percentage:70%;
+           }
+
+	.navigation2 { font-family: "Helvetica", "Arial", "Verdana", san-serif;
+          font-size: 9pt;
+           }
 		 
          .navigation A {text-decoration: none; }
          .navigation A:visited { color: #000000; }
@@ -230,6 +251,7 @@ function clearField(field){
         }
 </style>
 <!-- End css -->
+
 
 </head>
 
@@ -259,8 +281,8 @@ function clearField(field){
     }else{
       var adid = "folonari";
     }
-     ad("den","other","c",adid);
-   </script><a href="http://ads.newtimes.com/click.ng/?site=den&amp;category=other&amp;size=c&amp;id=privacy_policy.html&amp;transactionID=1580388937094"><center><img src="http://ads.newtimes.com/image.ng/?site=den&amp;category=other&amp;size=c&amp;id=privacy_policy.html&amp;transactionID=1580388937094" width="120" height="60" border="0" alt="advertisement"></center></a>
+     ad("den","other","c",adid,"1");
+   </script><a href="http://ads.newtimes.com/click.ng/?site=den&amp;category=other&amp;size=c&amp;loc=1&amp;id=privacy_policy.html&amp;transactionID=1580388940461"><center><img src="http://ads.newtimes.com/image.ng/?site=den&amp;category=other&amp;size=c&amp;loc=1&amp;id=privacy_policy.html&amp;transactionID=1580388940461" width="120" height="60" border="0" alt="advertisement"></center></a>
 
    <noscript>
     <A HREF="http://ads.newtimes.com/click.ng/?site=den&category=other&size=c&id=privacy_policy.html">
@@ -292,8 +314,8 @@ function clearField(field){
     }else{
       var adid = "folonari";
     }
-     ad("den","other","a",adid);
-   </script><a href="http://ads.newtimes.com/click.ng/?site=den&amp;category=other&amp;size=a&amp;id=privacy_policy.html&amp;transactionID=1580388937096"><center><img src="http://ads.newtimes.com/image.ng/?site=den&amp;category=other&amp;size=a&amp;id=privacy_policy.html&amp;transactionID=1580388937096" width="468" height="60" border="0" alt="advertisement"></center></a>
+     ad("den","other","a",adid,"1");
+   </script><a href="http://ads.newtimes.com/click.ng/?site=den&amp;category=other&amp;size=a&amp;loc=1&amp;id=privacy_policy.html&amp;transactionID=1580388940463"><center><img src="http://ads.newtimes.com/image.ng/?site=den&amp;category=other&amp;size=a&amp;loc=1&amp;id=privacy_policy.html&amp;transactionID=1580388940463" width="468" height="60" border="0" alt="advertisement"></center></a>
 
    <noscript>
     <A HREF="http://ads.newtimes.com/click.ng/?site=den&category=other&size=a&id=privacy_policy.html">
@@ -308,11 +330,9 @@ function clearField(field){
 
 <!-- End Ads -->
 
-
 <center>
 
-
-<a href="http://www.westword.com/about"><img src="/palette3/hedabout.gif" width="590" border="0" alt=""></a><br>
+  <a href="http://www.westword.com/about/index.html"><img src="/palette3/hedabout.gif" width="590" border="0" alt=""></a><br>
 
 <!-- End standard_html_header -->
 
@@ -320,8 +340,6 @@ function clearField(field){
 <table width="590" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td valign="TOP" align="LEFT" width="120">
-
-
 
 
 <!-- Begin left_column_nav -->
@@ -334,9 +352,9 @@ function clearField(field){
     <table cellspacing="0" cellpadding="0" width="110" border="0" align="center">
      <tbody><tr>
       <td valign="middle" align="left" height="30">
-      <small><small><div class="navigation"><b>	
-       Friday</b>
-       <br>May 5, 2000</div></small></small>
+     <div class="navigation"><small><small><b>	
+       Saturday</b>
+       <br>December 2, 2000</small></small></div>
       </td>
      </tr>
     </tbody></table>
@@ -346,7 +364,7 @@ function clearField(field){
  <tr>
   <td bgcolor="#3399cc" valign="middle" align="left" nowrap="">
    <img src="/palette0/spacer_t.gif" alt="" width="1" height="0" align="LEFT">
-   <div class="navigationhead">Site Search</div>
+   <div class="navigationhead"><small><small>Site Search</small></small></div>
   </td>
  </tr>
 
@@ -360,86 +378,99 @@ function clearField(field){
   <tr>
   <td align="left" bgcolor="#e0e0e0">
     <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
-   <small><small><div class="navigation"><a href="/search">Enhanced search</a></div></small></small>
+  <div class="navigation"><a href="/search/index.html"><small><small>Enhanced search</small></small></a></div>
   </td>
  </tr>
 
 
-		
+
+ 		
  <tr>
   <td bgcolor="#3399cc" valign="middle" align="left">
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
-   <div class="navigationhead">Section Contents</div>
+   <div class="navigationhead"><small><small>
+          In <small><small>About</small></small>
+      </small></small></div>
   </td>
  </tr>
    
 		
  <tr>
   <td valign="middle" bgcolor="#e0e0e0" nowrap="">
-  <small><small><div class="navigation">
+  <small><div class="navigation">
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
    <a href="/about/awards.html" onmouseover="window.status='Awards'; return true">Awards</a>
-      </div></small></small>
+      </div></small>
   </td>
  </tr>
    
 		
  <tr>
   <td valign="middle" bgcolor="#e0e0e0" nowrap="">
-  <small><small><div class="navigation">
+  <small><div class="navigation">
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
    <a href="/about/staff.html" onmouseover="window.status='Staff'; return true">Staff</a>
-      </div></small></small>
+      </div></small>
   </td>
  </tr>
    
 		
  <tr>
   <td valign="middle" bgcolor="#e0e0e0" nowrap="">
-  <small><small><div class="navigation">
+  <small><div class="navigation">
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
    <a href="/about/corporate_staff.html" onmouseover="window.status='Corporate Staff'; return true">Corporate Staff</a>
-      </div></small></small>
+      </div></small>
   </td>
  </tr>
    
 		
  <tr>
   <td valign="middle" bgcolor="#e0e0e0" nowrap="">
-  <small><small><div class="navigation">
+  <small><div class="navigation">
+   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
+   <a href="/about/internships.html" onmouseover="window.status='Internships'; return true">Internships</a>
+      </div></small>
+  </td>
+ </tr>
+   
+		
+ <tr>
+  <td valign="middle" bgcolor="#e0e0e0" nowrap="">
+  <small><div class="navigation">
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
    <a href="/about/contact.html" onmouseover="window.status='Contact Us'; return true">Contact Us</a>
-      </div></small></small>
+      </div></small>
   </td>
  </tr>
    
 		
  <tr>
   <td valign="middle" bgcolor="#e0e0e0" nowrap="">
-  <small><small><div class="navigation">
+  <small><div class="navigation">
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
    <a href="/classified/wemploy.html" onmouseover="window.status='Work at Westword'; return true">Work at Westword</a>
-      </div></small></small>
+      </div></small>
   </td>
  </tr>
    
 		
  <tr>
   <td valign="middle" bgcolor="#e0e0e0" nowrap="">
-  <small><small><div class="navigation">
+  <small><div class="navigation">
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
    <a href="/about/privacy_policy.html" onmouseover="window.status='Privacy Policy'; return true">Privacy Policy</a>
-      </div></small></small>
+      </div></small>
   </td>
  </tr>
    
 		
  <tr>
   <td valign="middle" bgcolor="#e0e0e0" nowrap="">
-  <small><small><div class="navigation">
+  <small><div class="navigation">
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
-   <a href="http://www.newtimes.com" onmouseover="window.status='New Times, Inc.'; return true">New Times, Inc.</a>
-      </div></small></small>
+   <a href="http://www.newtimes.com" onmouseover="window.status='New Times Inc.'; return true">New Times Inc.</a>
+      </div></small>
   </td>
  </tr>
    
@@ -447,161 +478,196 @@ function clearField(field){
  <tr>
   <td bgcolor="#3399cc" valign="middle" align="left">
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
-   <div class="navigationhead">Site Contents</div>
+  <div class="navigationhead"><small><small>Site Contents</small></small></div>
   </td>
  </tr>
 	
 		
  <tr>
   <td valign="middle" bgcolor="#e0e0e0" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
 <a href="/issues/current/news_toc.html" onmouseover="window.status='News &amp; Features'; return true">News</a>
-   </div></small></small>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#e0e0e0" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
 <a href="/issues/current/calendar_toc.html" onmouseover="window.status='Events Calendar'; return true">Calendar</a>
-   </div></small></small>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#e0e0e0" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
 <a href="/issues/current/arts_toc.html" onmouseover="window.status='Art, Theater &amp; Dance'; return true">Arts</a>
-   </div></small></small>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#e0e0e0" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
 <a href="/issues/current/music_toc.html" onmouseover="window.status='Music'; return true">Music</a>
-   </div></small></small>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#e0e0e0" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
 <a href="/issues/current/cafe_toc.html" onmouseover="window.status='Cafe Reveiws &amp; Columns'; return true">Cafe</a>
-   </div></small></small>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#e0e0e0" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
 <a href="/issues/current/movies_toc.html" onmouseover="window.status='Movie Reviews'; return true">Movies</a>
-   </div></small></small>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#e0e0e0" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
-<a href="/classified/" onmouseover="window.status='Classified'; return true">Classified</a>
-   </div></small></small>
+<a href="/classified/index.html" onmouseover="window.status='Classified'; return true">Classified</a>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#e0e0e0" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
-<a href="/romance/" onmouseover="window.status='Romance'; return true">Romance</a>
-   </div></small></small>
+<a href="http://romance.westword.com/index.html" onmouseover="window.status='Romance'; return true">Romance</a>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#e0e0e0" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
-<a href="/wildside/" onmouseover="window.status='Wild Side'; return true">Wild Side</a>
-   </div></small></small>
+<a href="/wild/index.html" onmouseover="window.status='Wild Side'; return true">Wild Side</a>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#e0e0e0" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
-<a href="/letters_to_editor/" onmouseover="window.status='Write Us'; return true">E-mail the Editor</a>
-   </div></small></small>
+<a href="/letters/" onmouseover="window.status='Write Us'; return true">E-mail the Editor</a>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#e0e0e0" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
-<a href="/feedback/" onmouseover="window.status='Message Boards'; return true">Message Boards</a>
-   </div></small></small>
+<a href="/discussions/" onmouseover="window.status='Discussions'; return true">Discussions</a>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#e0e0e0" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
-<a href="/extra/" onmouseover="window.status='Web Extra'; return true">Web Extra</a>
-   </div></small></small>
+<a href="/bestof/2000/index.html" onmouseover="window.status='Best of Denver 2000'; return true">Best of Denver</a>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#e0e0e0" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
-<a href="/bod/1999/" onmouseover="window.status='Best of Denver 1999'; return true">Best of Denver</a>
-   </div></small></small>
+<a href="/edge/index.html" onmouseover="window.status='The Edge Ski Guide'; return true">Skiing Guide</a>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#e0e0e0" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
-<a href="/search/" onmouseover="window.status='Archive'; return true">Archive</a>
-   </div></small></small>
+<a href="/search/index.html" onmouseover="window.status='Archive'; return true">Archive</a>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#e0e0e0" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
-<a href="/about/" onmouseover="window.status='About westword.com'; return true">About</a>
-   </div></small></small>
+<a href="/about/index.html" onmouseover="window.status='About westword.com'; return true">About</a>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#e0e0e0" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
-<a href="/giveaways" onmouseover="window.status='Free stuff from your pals at westword.com'; return true">Giveaways</a>
-   </div></small></small>
+<a href="/classified/wemploy.html" onmouseover="window.status='Employment Opportunities at Westword'; return true">Work at Westword</a>
+   </small></small></div>
+  </td>
+ </tr>
+
+ <tr>
+  <td bgcolor="#3399cc" valign="middle" align="left">
+   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
+  <div class="navigationhead"><small><small>Promotions</small></small></div>
+  </td>
+ </tr>
+	
+		
+ <tr>
+  <td valign="middle" bgcolor="#e0e0e0" nowrap="">
+<div class="navigation"><small><small>
+   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
+<a href="/about/subscribe.html" onmouseover="window.status='Subscribe'; return true">Subscribe</a>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#e0e0e0" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
-<a href="/about/subscribe.html" onmouseover="window.status='Subscribe to our free newsletter'; return true">Subscribe</a>
-   </div></small></small>
+<a href="/menuguide/index.html" onmouseover="window.status='Menu Guide'; return true">Menu Guide</a>
+   </small></small></div>
+  </td>
+ </tr>
+		
+ <tr>
+  <td valign="middle" bgcolor="#e0e0e0" nowrap="">
+<div class="navigation"><small><small>
+   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
+<a href="/coupons/index.html" onmouseover="window.status='Online Bargains'; return true">Coupons</a>
+   </small></small></div>
+  </td>
+ </tr>
+		
+ <tr>
+  <td valign="middle" bgcolor="#e0e0e0" nowrap="">
+<div class="navigation"><small><small>
+   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
+<a href="/giveaways/index.html" onmouseover="window.status='Giveaways'; return true">Giveaways</a>
+   </small></small></div>
   </td>
  </tr>
  
@@ -609,10 +675,6 @@ function clearField(field){
 </tbody></table>
 
 <!-- End left_column_nav -->
-
-
-
-
 
 </td>
 <td width="10"><img src="/palette0/spacer_t.gif" alt="" width="10" height="1"></td>
@@ -633,20 +695,20 @@ function clearField(field){
 </p></font></center><font face="Verdana, Arial, Helvetica" size="2">
 
 <font size="-1">
-<p>New Times, Inc. respects your privacy.  Here's our privacy policy for this site:
+<p>New Times Inc. respects your privacy.  Here's our privacy policy for this site:
 
 </p><p><b>Personally Identifiable Information</b>
 <br>We do track how our visitors use this site so that we can see what people like and don't like.  We also analyze and aggregate information about use patterns and share the aggregated data with our advertisers (for example, we keep track of how many users see and click on particular advertisements). We may also collect personal information about you via registration for contests, surveys and newsletters. We will not, however, release your name, e-mail address or any other personal information to anyone else outside New Times unless we have your consent, we are under a legal order to do so, or there is an emergency involving personal danger. <b>This means that we will not provide our advertisers or anyone else outside New Times with any information specific to you unless we have your consent.</b> The only New Times employees or consultants allowed access to personal information about you are those who need to have access.  Any employee or consultant who violates our privacy and security policies is subject to disciplinary action, including possible termination or prosecution.
 
 
 </p><p><b>Cookies</b>
-<br>"Cookies" are small text files that allow Web sites to store and retrieve information about you from your computer system.  New Times does serve cookies to track individual site usage for later aggregation.  But we do not use cookies in order to retrieve any information from your computer other than information originally sent in a New Times cookie, such as a user code.  We have no control over whether and how our advertisers use cookies <b><u>that originate from their website</u></b>.
+<br>"Cookies" are small text files that allow Web sites to store and retrieve information about you from your computer system.  New Times does serve cookies to track individual site usage for later aggregation.  But we do not use cookies in order to retrieve any information from your computer other than information originally sent in a New Times cookie, such as a user code.  We have no control over whether and how our advertisers use cookies <b><u>that originate from their web site</u></b>.
 
-</p><p><b>Your Feedback/Letters to the Editor Contributions</b>
-<br>As with our print editions, we insist that you supply your real name, daytime telephone number and e-mail address when providing feedback on our material or when commenting on other readers' comments.  That is because we may need to contact you, and because your identity may be important to understand your point of view.  If you send us such commentary, we reserve the right to publish it in print or display it on this site in full or in edited form.  To protect your privacy, however, we will withhold your name and address upon request, both in print and on-line.
+</p><p><b>Your Letters to the Editor Contributions</b>
+<br>As with our print editions, we insist that you supply your real name and a daytime telephone number or e-mail address when writing a letter for publication.  That is because we may need to contact you, and because your identity may be important to understand your point of view.  If you send us such commentary, we reserve the right to publish it in print or display it on this site in full or in edited form.  To protect your privacy, however, we will withhold your name and address upon request, both in print and on-line.
 
-</p><p><b>Threads (Coming Soon)</b>
-<br><i>Threads</i> is our interactive discussion area.  Unlike our Feedback and Letters sections, comments posted here are not edited by New Times personnel prior to posting on that portion of the site.  We only require that you provide us with your on-line name (real or fictitious), your correct e-mail address and that you accept our <u>User Agreement</u>. Any personal information you may disclose in <i>Threads</i> can be collected and used by third parties beyond New Times' control.
+</p><p><b>Discussions</b>
+<br><i>Discussions</i> is our interactive discussion area.  Unlike our Letters sections, comments posted here are not edited by Westword personnel prior to posting on that portion of the site.  We only require that you provide us with your on-line name (real or fictitious), your correct e-mail address and that you accept our <u>User Agreement</u>. Any personal information you may disclose in <i>Discussions</i> can be collected and used by third parties beyond New Times' control.
 
 </p><p><b>Communication from New Times</b>
 <br>Any ongoing communication you may receive from New Times via e-mail, such as newsletters, subscriptions, contest results, survey inquiries, etc. may be terminated via a simple "opt out" procedure.  You need only reply to the communication with the word "unsubscribe" (without the quotation marks) in the body of your e-mail response and your name will be removed from that mailing list.
@@ -673,11 +735,19 @@ function clearField(field){
 
 <!-- Begin right_column -->
 
-
-
 </p><p></p>
 
-  <!--Begin nd_ad-->
+
+
+<p></p>
+
+
+
+
+  
+
+      <p>
+    <!--Begin nd_ad-->
 
 
 
@@ -694,23 +764,26 @@ function clearField(field){
     }else{
       var adid = "folonari";
     }
-     ad("den","other","v",adid);
-   </script><a href="http://ads.newtimes.com/click.ng/?site=den&amp;category=other&amp;size=120v&amp;id=privacy_policy.html&amp;transactionID=1580388937103"><center><img src="http://ads.newtimes.com/image.ng/?site=den&amp;category=other&amp;size=120v&amp;id=privacy_policy.html&amp;transactionID=1580388937103" width="120" border="0" alt="advertisement"></center></a>
+     ad("den","other","v",adid,"1");
+   </script><a href="http://ads.newtimes.com/click.ng/?site=den&amp;category=other&amp;size=120v&amp;loc=1&amp;id=privacy_policy.html&amp;transactionID=1580388940493"></a></font></p><center><font color="white"><a href="http://ads.newtimes.com/click.ng/?site=den&amp;category=other&amp;size=120v&amp;loc=1&amp;id=privacy_policy.html&amp;transactionID=1580388940493"><img src="http://ads.newtimes.com/image.ng/?site=den&amp;category=other&amp;size=120v&amp;loc=1&amp;id=privacy_policy.html&amp;transactionID=1580388940493" width="120" border="0" alt="advertisement"></a></font></center><font color="white">
 
    <noscript>
-    <A HREF="http://ads.newtimes.com/click.ng/?site=den&category=other&size=v&id=privacy_policy.html">
-    <IMG SRC="http://ads.newtimes.com/image.ng/?site=den&category=other&size=v&id=privacy_policy.html" width=120 height= Border=0 ALT="westword.com Advertiser"></A>
+    <A HREF="http://ads.newtimes.com/click.ng/?site=den&category=other&size=120v&id=privacy_policy.html">
+    <IMG SRC="http://ads.newtimes.com/image.ng/?site=den&category=other&size=120v&id=privacy_policy.html" width=120 height= Border=0 ALT="westword.com Advertiser"></A>
    </noscript>
   </font>
 <!--End ng_ad-->
-
+    <p></p>
+  
 <p></p>
+
+<br><img src="/palette0/spacer_t.gif" height="10"><br>
 
 <!-- </td> is on the standard_footer -->
 
 <!-- End right_column -->
 
-
+ 
 </td>
 </tr>
 </tbody></table>
@@ -746,17 +819,16 @@ function clearField(field){
 						 | <a href="/issues/current/music_toc.html" onmouseover="window.status='Music'; return true">Music</a>
 						 | <a href="/issues/current/cafe_toc.html" onmouseover="window.status='Cafe Reveiws &amp; Columns'; return true">Cafe</a>
 						 | <a href="/issues/current/movies_toc.html" onmouseover="window.status='Movie Reviews'; return true">Movies</a>
-						 | <a href="/classified/" onmouseover="window.status='Classified'; return true">Classified</a>
-						 | <a href="/romance/" onmouseover="window.status='Romance'; return true">Romance</a>
-						 | <a href="/wildside/" onmouseover="window.status='Wild Side'; return true">Wild Side</a>
-						 | <a href="/letters_to_editor/" onmouseover="window.status='Write Us'; return true">E-mail the Editor</a>
-						 | <a href="/feedback/" onmouseover="window.status='Message Boards'; return true">Message Boards</a>
-						 | <a href="/extra/" onmouseover="window.status='Web Extra'; return true">Web Extra</a>
-						 | <a href="/bod/1999/" onmouseover="window.status='Best of Denver 1999'; return true">Best of Denver</a>
-						 | <a href="/search/" onmouseover="window.status='Archive'; return true">Archive</a>
-						 | <a href="/about/" onmouseover="window.status='About westword.com'; return true">About</a>
-						 | <a href="/giveaways" onmouseover="window.status='Free stuff from your pals at westword.com'; return true">Giveaways</a>
-						 | <a href="/about/subscribe.html" onmouseover="window.status='Subscribe to our free newsletter'; return true">Subscribe</a>
+						 | <a href="/classified/index.html" onmouseover="window.status='Classified'; return true">Classified</a>
+						 | <a href="http://romance.westword.com/index.html" onmouseover="window.status='Romance'; return true">Romance</a>
+						 | <a href="/wild/index.html" onmouseover="window.status='Wild Side'; return true">Wild Side</a>
+						 | <a href="/letters/" onmouseover="window.status='Write Us'; return true">E-mail the Editor</a>
+						 | <a href="/discussions/" onmouseover="window.status='Discussions'; return true">Discussions</a>
+						 | <a href="/bestof/2000/index.html" onmouseover="window.status='Best of Denver 2000'; return true">Best of Denver</a>
+						 | <a href="/edge/index.html" onmouseover="window.status='The Edge Ski Guide'; return true">Skiing Guide</a>
+						 | <a href="/search/index.html" onmouseover="window.status='Archive'; return true">Archive</a>
+						 | <a href="/about/index.html" onmouseover="window.status='About westword.com'; return true">About</a>
+						 | <a href="/classified/wemploy.html" onmouseover="window.status='Employment Opportunities at Westword'; return true">Work at Westword</a>
 						<hr size="1">
 			©2000 <a href="http://www.newtimes.com" onmouseover="window.status='New Times'; return true">New Times, Inc.</a> All rights reserved. |
 			<a href="/about/privacy_policy.html" onmouseover="window.status='Privacy Policy'; return true">Privacy Policy</a> | <a href="/bug_report?page=http://www.westword.com/about/privacy_policy.html">Bug Report</a>
@@ -772,9 +844,11 @@ function clearField(field){
 
 
 
-<!-- Served by: node4.newtimes.com on: 2000/05/05 03:09:10.1799 US/Mountain -->
+<!-- Served by: node5.newtimes.com on: 2000/12/02 01:19:41.3565 US/Mountain -->
 
 
 <!-- End standard_html_footer -->
 
-<!-- End /about/index_html --></body></html>
+<!-- End /about/index_html -->
+<!-- Cached: Sat Dec  2 01:19:41 2000 -->
+</body></html>
