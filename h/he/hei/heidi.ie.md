@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the heidi.ie privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611230214id_/http%3A//heidi.ie/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heidi.ie privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209023515id_/http%3A//www.heidi.ie/PrivacyPolicy.php) for the most accurate reproduction.*
 
-# Heidi Computers Limited
+# Heidi Computers Limited - Internet Security and Software Server manufacturers
 
-If you have questions or concerns regarding this Policy, contact us by any means listed on our [contact page](https://web.archive.org/web/20040611230214id_/http%3A//heidi.ie/contact_us.php). 
+**  
+** If you have questions or concerns regarding this Policy, contact us by any means listed on our [contact page](https://web.archive.org/web/20041209023515id_/http%3A//www.heidi.ie/contact_us.php). 
 
 **Privacy Policy**  
 Our Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. This statement will be continuously assessed against new technologies, business practices and our customers' needs. 
@@ -23,9 +24,11 @@ In addition to providing the foregoing information to our partners, if you choos
 
 **2\. Web Site Use Information** Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. This information is collected on an aggregate basis. None of this information is associated with you as an individual. 
 
-**Cookies  
-****  
-What Are Cookies?** Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web site. Cookies are small pieces of data that are stored by a user’s Web browser on the user’s hard drive. Cookies can remember what information a user accesses on one Web page to simplify subsequent interactions with that Web site by the same user or to use the information to streamline the user’s transactions on related Web pages. This makes it easier for a user to move from Web page to Web page and to complete commercial transactions over the Internet. Cookies should make your online experience easier and more personalized. Certain parts of our sites e.g. the forum send a "cookie" to your computer. A cookie is a piece of data that identifies you as a unique user. These are used to remember your forum login or preferences, beyond enhancing the use of our sites we do not use the information for any personal data gathering exercise.  
+**Cookies
+
+What Are Cookies? 
+
+**Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web site. Cookies are small pieces of data that are stored by a user’s Web browser on the user’s hard drive. Cookies can remember what information a user accesses on one Web page to simplify subsequent interactions with that Web site by the same user or to use the information to streamline the user’s transactions on related Web pages. This makes it easier for a user to move from Web page to Web page and to complete commercial transactions over the Internet. Cookies should make your online experience easier and more personalized. Certain parts of our sites e.g. the forum send a "cookie" to your computer. A cookie is a piece of data that identifies you as a unique user. These are used to remember your forum login or preferences, beyond enhancing the use of our sites we do not use the information for any personal data gathering exercise.  
 Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Be aware, however, that some parts of our sites may not function properly if you refuse cookies. 
 
 **How Do We Use Information We Collect from Cookies?** We use Web site browser software tools such as cookies and Web server logs to gather information about our Web site users’ browsing activities, in order to constantly improve our Web site and better serve our customers. This information assists us to design and arrange our Web pages in the most user-friendly manner and to continually improve our Web site to better meet the needs of our customers and prospective customers. Cookies help us collect important business and technical statistics. The information in the cookies lets us trace the paths followed by users to our Web site as they move from one page to another. Web server logs allow us to count how many people visit our Web site and evaluate our Web site’s visitor capacity. We do not use these technologies to capture your individual email address or any personally identifying information about you. 
@@ -67,3 +70,8 @@ You may request access to all your personally identifiable information that we c
 
 **Do We Disclose Information to Outside Parties?**  
 We may provide aggregate information about our customers, sales, Web site traffic patterns and related Web site information to our affiliates or reputable third parties, but this information will not include personally identifying data, except as otherwise provided in this Privacy Policy. 
+
+**What About Legally Compelled Disclosure of Information?** We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights. 
+
+**Your consent and changes to the Privacy Policy  
+** By using the our web sites , you consent to the collection and use of your information as we have outlined in this policy and to our [Terms of Use Policy](https://web.archive.org/web/20041209023515id_/http%3A//www.heidi.ie/Termsofuse.php). We may decide to change this Privacy Policy from time to time. When we do, we will post those changes on this page.
