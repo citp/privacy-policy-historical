@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mididb.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601123723id_/http%3A//www.mididb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mididb.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008155932id_/http%3A//www.mididb.com/privacy) for the most accurate reproduction.*
 
 # MIDI Database Privacy Policy
 
