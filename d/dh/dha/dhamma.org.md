@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dhamma.org privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202063759id_/http%3A//www.dhamma.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dhamma.org privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209185630id_/http%3A//www.dhamma.org/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,7 +23,7 @@ The Vipassana Website does not have any webpages that use "cookies." Cookies are
 **Children's Privacy**  
 Our vipassana organizations do not specifically collect information about children, but we are concerned about the safety of children and their use of the Internet. Therefore, in accordance with the U.S. Children's Online Privacy Protection Act of 1998 (and comparable legislation of other countries), we will never knowingly request or solicit personally identifiable information from anyone under the age of 13 without verifiable parental consent. In the event we receive actual knowledge that we have collected such personal information without the requisite and verifiable parental consent, we will delete that information from our database as quickly as is practical. 
 
-**Counytry Specific Privacy Requirements**  
+**Country Specific Privacy Requirements**  
 Please note that individual countries may have particular privacy law requirements. Our vipassana organizations around the world have developed specific privacy policies to comply with these requirements that may differ in specific details from the more general policies set forth above. You may obtain a hard copy of these specific requirements by contacting the registrar of the center to which you have submitted your application and/or registraton forms. 
 
 **Opt-Out/Opt-In**  
@@ -35,4 +35,4 @@ If you have any questions or concerns about the privacy or any other policies of
 **Effective Date**  
 This Privacy Policy is effective as of November 1, 2001. Our vipassana organizations reserve the right to modify the terms of this policy at any time and in our sole discretion, by posting a change notice to this page. Your continued use of this website following our posting of a change notice will constitute binding acceptance of those changes. 
 
-[](https://web.archive.org/web/20020202063759id_/http%3A//www.dhamma.org/index.htm)
+[](https://web.archive.org/web/20021209185630id_/http%3A//www.dhamma.org/index.htm)
