@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retrogames.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217005507id_/http%3A//www.ztnet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retrogames.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603174554id_/http%3A//www.ztnet.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -14,19 +14,21 @@ We use your IP address to help diagnose problems with our server and to administ
 
 #### Cookies 
 
-Our Site uses cookies to deliver content specific to your interests. We also use cookies to save your password so you don't have to re-enter it each time you visit our site. Our messaging system uses cookes so users do not have to re-enter their password many times while reading and responding to messages.
+Our Site uses cookies to deliver content specific to your interests. We also use cookies to save your password so you don't have to re-enter it each time you visit our site. Our messaging system uses cookes so users do not have to re-enter their password many times while reading and responding to messages. 
+
+In addition, our online store uses cookies to maintain the consistancy of the items in your shopping cart as you navigate the store.
 
 #### Advertisers 
 
-ZTNet, L.L.C. works with a third party that serves ads to this site. To find out more about how Ad Allies manages the privacy of information in conjunction with serving ads on our network, please go to [Ad Allies Privacy](http://www.adallies.com/policy.html). 
+ZTNet, L.L.C. works with a third party that serves ads to this site. To find out more about how Adtegrity manages the privacy of information in conjunction with serving ads on our network, please go to [Adtegrity Privacy Policy](http://www.adtegrity.com/privacy.asp). 
 
 We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
 
 #### Personal Information 
 
-This Web site does not request any personal information or collect any information that personally identifies you or allows you to be personally contacted. 
+All of our web sites do not request any personal information or collect any information that personally identifies you or allows you to be personally contacted, unless otherwise specified by a separate privacy policy. 
 
-Since we do not collect any personal information on this Web site, we do not share any personal information with any third parties nor do we use any personal information for any purposes. 
+Our online store collects only relevant information persuant to verifiying your identity when submitting credit card information, and ensuring the product is shipped to the proper location. This information will not be used to contact you with anything aside from your purchase. 
 
 #### External Links 
 
