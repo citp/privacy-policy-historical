@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the globalsources.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602031403id_/http%3A//www.globalsources.com/HELP/PRIVACY.HTM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalsources.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202201803id_/http%3A//www.globalsources.com/HELP/PRIVACY.HTM) for the most accurate reproduction.*
 
-# Global Sources Online - Privacy Policy
+# Global Sources - FAQ - Privacy Policy
 
 | **Privacy Policy**  
 | **Collection of information**
@@ -49,7 +49,7 @@ We have established relationships with other parties on the Internet to offer yo
 
 You may notice that some services available through our website are "Powered by" or "Provided by" other third party content or technology service providers. We contract with these third party providers to help us provide you with better value and service. To fully access and use such services, you may sometimes be required to register for them or to otherwise provide certain information and data. In order to provide you with the services in question, such information and data may have to be made available to the third party provider, who may then process or update such information and data and transmit them back to us. We are highly selective in choosing these third party providers, and they are allowed to use your information and data only for the purpose of and in connection with providing the services which we have contracted with them to provide.   
   
-| **Important Notice** Although we adhere to industry standard practices to protect your personal information and confidential data, we cannot ensure that such information and data will never be disclosed in ways not otherwise described in this Privacy Policy. 
+| __Important Notice__ _Although we adhere to industry standard practices to protect your personal information and confidential data, we cannot ensure that such information and data will never be disclosed in ways not otherwise described in this Privacy Policy._
 
 |  | 
 
