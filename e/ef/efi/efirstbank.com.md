@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efirstbank.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207035921id_/http%3A//www.efirstbank.com/1stbank/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efirstbank.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403115341id_/http%3A//www.efirstbank.com/1stbank/privacypolicy.html) for the most accurate reproduction.*
 
 # FirstBank Privacy Policy and Disclosure
 
@@ -22,7 +22,7 @@ For Internet Banking enrollment, once the customer has been enrolled for Interne
 
 While visitors can use e-mail to contact us about routine issues and inquiries, e-mail may not be a secure method of communication for time sensitive communication or communication of information that is confidential. We strongly recommend that this type of information not be communicated via e-mail. 
 
-From our web site, we do not knowingly collect or use personal information from children under 14 years of age. We are not responsible for the data collection and use practices of nonaffiliated third parties to which our web sites may link. For more information about the Children's Online Privacy Protection Act (COPPA), visit the FTC web site: [www.ftc.gov](http://www.ftc.gov/).
+From our web site, we do not knowingly collect or use personal information from children under 14 years of age. We are not responsible for the data collection and use practices of nonaffiliated third parties to which our web sites may link. For more information about the Children's Online Privacy Protection Act (COPPA), visit the FTC web site: [www.ftc.gov](http://www.efirstbank.com/1stbank/exit.html?site=http://www.ftc.gov/).
 
 Our privacy policy is posted on our web site and is also available at any of our offices or by telephoning us. We do not sell information about you to third parties for any purpose. We will establish security procedures to confirm your identity. You must take reasonable precautions to maintain the confidentiality of any passwords or personal identification numbers (PINs) that you select or receive from us. 
 
@@ -39,9 +39,9 @@ We may disclose nonpublic personal information, as described above, about our cu
 
 We will only disclose information to nonaffiliated third parties as permitted by law. We periodically enter into agreements with third party insurance providers to provide additional financial services to our customers at group rates. In conjunction with the offering of these services, we will only share your name and address with the providers. 
 
-_**If you wish to prevent the sharing of credit information, as described above, please sign the form below, detach and mail it to FirstBank Holding Company, Attention: Compliance Department, 12345 W. Colfax, Ave., Lakewood, CO 80215. Please keep the remaining portion of this disclosure for your records.**_
+_**If you wish to prevent the sharing of credit information, as described above, please sign the form below, detach and mail it to FirstBank Holding Company, Attention: Opt-Out, 12345 W. Colfax, Ave., Lakewood, CO 80215. Please keep the remaining portion of this disclosure for your records.**_
 
-_***[Colorado](http://www.efirstbank.com/locations/viewall.html) & [California](http://www.efirstbankca.com/locations/viewall.html) FirstBank Affiliates to which this disclosure applies. **_
+_***[FirstBank Affiliates](http://www.efirstbank.com/1stbank/affiliates.html) to which this disclosure applies. **_
 
 \---------------------------------------------------------------------------------  
 (Detach Here)
@@ -60,7 +60,4 @@ Name of Customer (Please Print)
 ---|---  
 __________________  
 Signature of Customer | ___________________________  
-Name of Customer (Please Print)   
-__________________  
-Signature of Customer  | ___________________________  
-Name of Customer (Please Print)
+Name of Customer (Please Print) 
