@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zdnet.com.au privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209043024id_/http%3A//www.zdnet.com.au/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zdnet.com.au privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622080854id_/http%3A//www.zdnet.com.au/services/privacy) for the most accurate reproduction.*
 
 # ZDNet Australia:
 
@@ -43,6 +43,8 @@ _Third-Party Advertisement Servers_
 ZDNet Australia uses the DoubleClick DART technology for serving advertisements on its web pages. To view the DoubleClick privacy policy [click here](http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp). 
 
 Some of our advertisers use third-party companies to serve their advertisements on our sites and, in some cases, in our HTML-formatted newsletters. In both cases, these third-party advertising companies employ cookie and Web bug technologies to measure advertisement effectiveness. We do not give any personally identifiable information to them as part of this relationship. Use of their tracking technology is subject to their own privacy policies. If you would like more information about the privacy policies of the third-party advertising providers including information on how to opt out of their tracking methods, [click here](http://www.networkadvertising.org/optout_nonppii.asp). 
+
+ZDNet Australia allows a trusted 3rd party utilising anonymous and aggregated data collection. Cookies may be used by this 3rd party to gather statistical information that will assist us in understanding what uses find interesting and useful on our website. These cookies are known as your "Unique Visitor Cookie", a small piece of data, identifying you only by a random number (eg # 12489). No personal information can be identified about the users through cookies. 
 
 **3\. How does ZDNET Australia use the information?**
 
