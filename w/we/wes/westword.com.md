@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the westword.com privacy policy that was archived on 1999-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991124194424id_/http%3A//www.westword.com/about/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westword.com privacy policy that was archived on 2000-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000505100909id_/http%3A//www.westword.com/about/privacy_policy.html) for the most accurate reproduction.*
 
-# Denver westword.com | About Us
+# Westword Online -- westword.com
+
+**Our Privacy Policy**
+
+New Times Inc.   
+Parent of Westword   
+and westword.com 
 
 New Times, Inc. respects your privacy. Here's our privacy policy for this site: 
 
