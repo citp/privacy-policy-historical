@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shiur.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009130706id_/http%3A//shiur.com/legal.php%3Fmode%3Dps) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiur.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307051415id_/http%3A//shiur.com/legal.php%3Fmode%3Dps) for the most accurate reproduction.*
 
-# ..::Shiur.com - Your Online Yeshiva! Welcomes you to our site to learn about your heritage, learn Torah, hallachot, read divrey Torah and listen to shiurim in 5 languages - English, Hebrew, Yiddish, Bukharian & Russian::..
+# ..::Shiur.com - Your Online Yeshiva! Welcomes you to our site to learn about your heritage, learn Torah, hallachot, read divrey Torah and listen to shiurim in 5 languages - English, Hebrew, Yiddish, Bukharian & Russian - shiur,weekly parsha,daf hayomi,pirkey avot, pirkey avos, jewish education, tzaddikim, stories of tzadikkim,prayer,prayers,holiday,beracha,rabbis,learn kabbalah,shiur blog,torah blog,shiurim,online lessons,seminary::..
 
 **
 
