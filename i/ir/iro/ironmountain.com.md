@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ironmountain.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402053137id_/http%3A//www.ironmountain.com/privacy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ironmountain.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208231608id_/http%3A//www.ironmountain.com/privacy/index.asp) for the most accurate reproduction.*
 
 # Iron Mountain - Privacy Statement
 
@@ -35,7 +35,7 @@ If you have selected the "Choose a Country" button, your country and language pr
 Subject to applicable law, we and our service providers (as defined below) disclose and share your personal information: 
 
   * Among Iron Mountain and its Affiliates;
-  * To unaffiliated third parties that are under contract to perform services for or on behalf of Iron Mountain ( _Service Providers_ ), and are required to uphold and maintain policies with respect to privacy and the treatment of your personally identifiable information (e.g., vendors hosting the investor relations or DSI Technology Escrow aspects of this Web site);
+  * To unaffiliated third parties that are under contract to perform services for or on behalf of Iron Mountain ( _Service Providers_ ), and are required to uphold and maintain policies with respect to privacy and the treatment of your personally identifiable information (e.g., vendors hosting the investor relations or other aspects of this Web site);
   * To a third party in connection with a proposed or actual sale, merger, or transfer of all or a portion of a business or division; and 
   * To other persons as permitted or required by applicable law or regulation. 
 
@@ -56,13 +56,13 @@ You are entitled to request that Iron Mountain:
 
 If you would like to receive a copy of the personal information we have about you as submitted to us via this Web site, or if you wish to opt out of receiving marketing related communications from us, please send a request to [webmaster@ironmountain.com](mailto:webmaster@ironmountain.com). If this information is incorrect or incomplete, please let us know, and we will make every reasonable effort to correct or update it promptly (unless we require further information from you in order to fulfill your request). You may also ask us to remove your name and other personal information from our databases. In each of the foregoing cases, we will make all reasonable efforts to honor your request promptly, subject to legal and other permissible considerations.
 
-If you do not receive acknowledgement of your inquiry from the [webmaster@ironmountain.com](mailto:webmaster@ironmountain.com) or your inquiry has not been satisfactorily addressed, you should first contact Iron Mountain’s Director of Privacy at [global.privacy@ironmountain.com](mailto:global.privacy@ironmountain.com). If you continue to have questions thereafter, then you may file a request for mediation of an online privacy issue with the American Arbitration Association at 335 Madison Avenue, 10th Floor, New York, New York 10017-4605, USA; telephone: 212-716-5800; fax: 212-716-5905 and e-mail: [website-mail@adr.org](mailto:website-mail@adr.org). Any mediation shall take place at a location mutually agreed to as being convenient to both parties; if mutual agreement cannot be achieved, then it shall take place at a location convenient to the party which did not initiate the mediation request.
+If you do not receive acknowledgement of your inquiry from the [webmaster@ironmountain.com](mailto:webmaster@ironmountain.com) or your inquiry has not been satisfactorily addressed, you should first contact Iron Mountain’s Director of Privacy at [global.privacy@ironmountain.com](mailto:global.privacy@ironmountain.com). If you continue to have questions thereafter, then you may file a request for mediation of an online privacy issue with the American Arbitration Association at 335 Madison Avenue, 10th Floor, New York, New York 10017-4605, USA; telephone: 212-716-5800; fax: 212-716-5905 and e-mail: [websitemail@adr.org](mailto:websitemail@adr.org). Any mediation shall take place at a location mutually agreed to as being convenient to both parties; if mutual agreement cannot be achieved, then it shall take place at a location convenient to the party which did not initiate the mediation request.
 
 **How will we notify you if this policy changes?**
 
 Iron Mountain may, in its sole discretion, update this policy at any time and from time to time, by posting the amended policy on this Web site. If we make material changes to this policy that affect our treatment of your personal information, we will provide you with e-mail or postal mail notice and a choice to opt in under the terms of the revised policy. After the changes take effect, all newly collected personal information will be subject to the terms of the revised policy and all previously collected personal information will be handled in accordance with your response to our opt-in notice (in accordance with the revised policy if you opt in and in accordance with the previous policy if you do not opt in).
 
-If no material changes have been made to this policy that affect our treatment of your personal information, the amended policy shall be effective upon posting, and your access to or use of the site following an update shall be deemed consent to the revised policy. If you have asked to receive marketing and other materials, and you regularly receive electronic communications from us, amendments to this policy may be sent to you via e-mail. We urge you to refer back to this page regularly and especially prior to providing any personal information via this Web site. This policy may not be otherwise amended without the written consent of Iron Mountain. **This Policy was last updated August 26, 2002.**
+If no material changes have been made to this policy that affect our treatment of your personal information, the amended policy shall be effective upon posting, and your access to or use of the site following an update shall be deemed consent to the revised policy. If you have asked to receive marketing and other materials, and you regularly receive electronic communications from us, amendments to this policy may be sent to you via e-mail. We urge you to refer back to this page regularly and especially prior to providing any personal information via this Web site. This policy may not be otherwise amended without the written consent of Iron Mountain. **This Policy was last updated April 23, 2004.**
 
 **How do we protect your information and where is it stored?**
 
@@ -73,6 +73,10 @@ Personal information which you submit via the site is stored on servers in the U
 **Children**
 
 Iron Mountain does not want to collect personal information from minors (children under 13 years of age, or any other age defined under applicable law). If we become aware that a minor is attempting to or has submitted personal information via this Web site, we will notify the user that we may not accept his or her personal information. We will then expunge any such personal information from our records.
+
+IRON MOUNTAIN'S WHISTLEBLOWER PROGRAM 
+
+Disclosures made pursuant to Iron Mountain's Whistleblower Program are covered by Iron Mountain's Code of Ethics and Business Conduct in lieu of this privacy policy.
 
 **Questions regarding this policy**
 
