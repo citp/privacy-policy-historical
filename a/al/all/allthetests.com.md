@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allthetests.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201100204id_/http%3A//allthetests.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allthetests.com privacy policy that was archived on 2002-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020219150959id_/http%3A//www.allthetests.com/privacy.php3) for the most accurate reproduction.*
 
 # 
 
@@ -29,4 +29,6 @@ Email:[allthetests@testedich.de](mailto:allthetests@testedich.de)
 Your Searchengine and your link to the collection of all IQ tests, EQ tests, earning power, health profile and many others.  
 http://www.AllTheTests.com 
 
-Copyright © 2001 by testedich.de, all rights reserved. 
+Copyright © 2002 by testedich.de, all rights reserved. 
+
+649 
