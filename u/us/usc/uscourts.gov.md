@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the uscourts.gov privacy policy that was archived on 2000-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001217204300id_/http%3A//www.uscourts.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscourts.gov privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217181213id_/http%3A//www.uscourts.gov/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy: Federal Judiciary Website
-
-**Privacy Policy**  
-**Federal Judiciary Website**
+# Privacy Policy
 
 Thank you for visiting the Federal Judiciary's website. Our privacy policy outlines the types of information we learn when you visit our site and how such information will be used. 
 
