@@ -1,11 +1,15 @@
-<!--The following is the downloaded HTML source of the phpprobid.com privacy policy that was archived on 2004-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204013047id_/http%3A//www.phpprobid.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the phpprobid.com privacy policy that was archived on 2005-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050403075056id_/http%3A//www.phpprobid.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
-<title>PHP Pro Bid - Professional Auction Software</title>
+<title>Professional Auction Script Software by PHP Pro Bid</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="PHP Pro Bid is a professional Auction Software package that enables you to run your own online Auction web-site just like eBay.">
-<meta name="keywords" content="Auction software,auction,websolutions,bid,bidding,businesses,online,onlineventures,phpprobid, auction program,phpauction,auction sites.ebay,php,ebay software,paypal,worldpay,">
+<meta name="description" content="The Leading Proffessional Auction Script Software available online today written in PHP/ Mysql.">
+<meta name="keywords" content="auction script software package pro php ebay style">
+<meta name="keyphrases" content="auction script, auction software, professional auction script, own auction business, php auction script, php auction software, cheap auction script,">
+<meta name="robots" content="index,follow">
+<meta name="AUTHOR" content="PHP Pro Bid Auction Script Software">
+<meta name="GOOGLEBOT" content="INDEX, FOLLOW">
 <link href="/style.css" type="text/css" rel="stylesheet">
 <link rel="icon" href="/favicon.ico" type="image/png">
 <script language="javascript" src="/mt_script.js"></script>
@@ -75,15 +79,78 @@ function changeImages() {
 
 // -->
 </script>
+<script>
+<!--
+// Set slideShowSpeed (milliseconds)
+var slideShowSpeed = 5000
+// Duration of crossfade (seconds)
+var crossFadeDuration = 3
+// Specify the image files
+var Pic = new Array() // don't touch this
+// to add more images, just continue
+// the pattern, adding to the array below
+
+//Array containing the links for each picture. 
+var PicURL = new Array()
+
+Pic[0] = 'images/slide1.jpg'
+PicURL[0] = 'javascript:popUp("images/pop1.jpg",500,500,1);'
+Pic[1] = 'images/slide2.jpg'
+PicURL[1] = 'javascript:popUp("images/pop2.jpg",500,500,1);'
+Pic[2] = 'images/slide3.jpg'
+PicURL[2] = 'javascript:popUp("images/pop3.jpg",500,500,1);'
+Pic[3] = 'images/slide4.jpg'
+PicURL[3] = 'javascript:popUp("images/pop4.jpg",500,500,1);'
+Pic[4] = 'images/slide5.jpg'
+PicURL[4] = 'javascript:popUp("images/pop5.jpg",500,500,1);'
+Pic[5] = 'images/slide6.jpg'
+PicURL[5] = 'javascript:popUp("images/pop6.jpg",500,500,1);'
+Pic[6] = 'images/slide7.jpg'
+PicURL[6] = 'javascript:popUp("images/pop7.jpg",500,500,1);'
+Pic[7] = 'images/slide8.jpg'
+PicURL[7] = 'javascript:popUp("images/pop8.jpg",500,500,1);'
+Pic[8] = 'images/slide9.jpg'
+PicURL[8] = 'javascript:popUp("images/pop9.jpg",500,500,1);'
+
+// do not edit anything below this line
+
+var t
+var j = 0
+var p = Pic.length
+var preLoad = new Array()
+for (i = 0; i < p; i++) { preLoad[i] = new Image()
+preLoad[i].src = Pic[i]
+preLoad[i].link = PicURL[i] } 
+function runSlideShow() { if (document.images.SlideShow) { document.images.SlideShow.style.filter="blendTrans(duration=2)"
+document.images.SlideShow.style.filter='blendTrans(duration=crossFadeDuration)'
+document.images.SlideShow.filters.blendTrans.Apply()
+ } if (document.images.SlideShow) { document.images.SlideShow.src = preLoad[j].src
+
+document.all.SlideShowLnk.href = preLoad[j].link
+  } if (document.images.SlideShow) { document.images.SlideShow.filters.blendTrans.Play()
+   } j = j + 1
+     if (j > (p - 1)) j = 0
+      t = setTimeout('runSlideShow()', slideShowSpeed) } 
+
+
+// -->
+</script>
+<script>
+<!--
+function popUp(page,PWidth,PHeight,id) {
+ eval("designerwiz"+id+"=window.open('"+page+"','designerwiz1','toolbar=0,scrollbars=0,location=0,status=0,menubars=0,resizable=0,width="+PWidth+",height="+PHeight+"')")
+eval;("wiz"+id+".window.moveTo((screen.width/2)-(PWidth/2),(screen.height/2)-(PHeight/2))")
+}
+// -->
+</script>
 </head>
 
-<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="init();">
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="init(); runSlideShow();">
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr> 
     <td width="210">
-    <img src="/img/logo.gif" width="210" height="87" alt="PHP Pro Bid"></td>
-    <td width="167" rowspan="2">
-    <img src="/img/softbox.jpg" width="167" height="244" alt="Auction Software"></td>
+    <img src="/img/logo.gif" width="210" height="87" alt="PHP Pro Bid Auction Script Software"></td>
+    <td width="167" rowspan="2">    <img src="/img/softbox.jpg" width="167" height="244" alt="Run your own complete professional eBay style business!"></td>
     <td rowspan="2" valign="top">
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr> 
@@ -96,7 +163,7 @@ function changeImages() {
           <td background="/img/bgmenu.gif"><table width="100%" height="55" border="0" cellpadding="0" cellspacing="0">
   <tbody><tr>
     <td><a id="menu1" onmouseover="swapImage('button1', preloaded[1][1].src)" onmouseout="swapImage('button1', preloaded[1][0].src)" href="/"><img id="button1" height="55" src="/img/nav/1-0.gif" width="80" border="0" name="button1" alt="PHP Pro Bid Home Page"></a></td>
-    <td><a id="menu2" onmouseover="swapImage('button2', preloaded[2][1].src)" onmouseout="swapImage('button2', preloaded[2][0].src)" href="/features.php"><img id="button2" height="55" src="/img/nav/2-0.gif" width="80" border="0" name="button2" alt="More Info On PHP Pro Bid"></a></td>
+    <td><a id="menu2" onmouseover="swapImage('button2', preloaded[2][1].src)" onmouseout="swapImage('button2', preloaded[2][0].src)" href="http://www.phpprobid.com/auction-software-features.php"><img id="button2" height="55" src="/img/nav/2-0.gif" width="80" border="0" name="button2" alt="More Info On PHP Pro Bid"></a></td>
     <td><a id="menu3" onmouseover="swapImage('button3', preloaded[3][1].src)" onmouseout="swapImage('button3', preloaded[3][0].src)" href="https://www.phpprobid.com/order.php"><img id="button3" height="55" src="/img/nav/3-0.gif" width="81" border="0" name="button3" alt="Order PHP Pro Bid"></a></td>
     <td><a id="menu4" onmouseover="swapImage('button4', preloaded[4][1].src)" onmouseout="swapImage('button4', preloaded[4][0].src)" href="/client/"><img id="button4" height="55" src="/img/nav/4-0.gif" width="80" border="0" name="button4" alt="PHP Pro Bid Support"></a></td>
     <td><a id="menu5" onmouseover="swapImage('button5', preloaded[5][1].src)" onmouseout="swapImage('button5', preloaded[5][0].src)" href="/contact.php"><img id="button5" height="55" src="/img/nav/5-0.gif" width="82" border="0" name="button5" alt="Contact PHP Pro Bid"></a></td>
@@ -162,14 +229,14 @@ function changeImages() {
         <tr> 
           <td bgcolor="#F0F1F2"><img src="/img/arrow.gif" width="8" height="8" hspace="4"></td>
           <td bgcolor="#F8F8F8" class="categories"><b>
-          <a href="/features.php">Information</a></b></td>
+          <a href="auction-software-features.php" title="software information">Software Information</a></b></td>
         </tr>
         <tr> 
           <td bgcolor="#E1E2E4"><img src="/img/pixel.gif" width="1" height="1"></td>
           <td bgcolor="#F0F0F0" class="categories">
-          <a href="/features.php">Features</a><br> 
-            <a href="/demo/">Demo</a><br> 
-          <a href="/requirements.php">Requirements</a></td>
+          <a href="http://www.phpprobid.com/auction-software-features.php" title="software features">Software Features</a><br> 
+            <a href="http://www.phpprobid.com/auction-software-demo" title="auction software demo">Auction Software Demo</a><br>
+          <a href="http://www.phpprobid.com/auction-script-requirements.php" title="auction script requirements">Script Requirements</a></td>
         </tr>
         <tr> 
           <td bgcolor="#F0F1F2"><img src="/img/arrow.gif" width="8" height="8" hspace="4"></td>
@@ -206,8 +273,10 @@ function changeImages() {
         </tr>
       </tbody></table>
 	  
-    <a href="/comp.php"><img src="/img/comp.jpg" width="198" height="180" border="0"></a> 
-  </td>
+    <p><a href="/comp.php"><img src="/img/comp.jpg" border="0"></a></p>
+    <p align="center"><a href="http://www.hotscripts.com"><img src="http://images.hotscripts.com/dynamic/reviewed.gif?32742" border="0"></a>
+
+    </p></td>
     <td width="12"><img src="/img/pixel.gif" width="12" height="1"></td>
     <td width="561" bgcolor="#F0F0F0"><img src="/img/bg_contentmain.gif" width="561" height="35">
 
@@ -321,9 +390,9 @@ font-family:Arial"><o:p>&nbsp;</o:p></span></b></p>
     <td bgcolor="#0082D6"><img src="img/pixel.gif" width="1" height="1"></td>
   </tr>
   <tr>
-    <td height="38" bgcolor="#F1F1F5" class="small">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Copyright ©2004 Dot Com 
+    <td height="38" bgcolor="#F1F1F5" class="small">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Copyright ©2005 Dot Com 
     Software |&nbsp;<a href="/">Home</a> •
-    <a href="/features.php">Information</a> 
+    <a href="auction-software-features.php">Information</a> 
       • <a href="https://www.phpprobid.com/order.php">Order</a> •
     <a href="/client/support/pdesk.cgi">Support</a> 
       • <a href="/contact.php">Contact Us</a> • <a href="/privacy.php">Privacy Policy </a></td>
@@ -333,16 +402,18 @@ font-family:Arial"><o:p>&nbsp;</o:p></span></b></p>
 <div id="Layer1" style="position:absolute; left:462px; top:184px; width:315px; height:75px; z-index:10"> 
   <table width="315" border="0" cellspacing="5" cellpadding="0" height="75">
     <tbody><tr> 
-      <td valign="top" class="pagehead">PHP Pro Bid</td>
+      <td valign="top" class="pagehead">PHP Pro Bid Auction Script</td>
     </tr>
     <tr>
       <td valign="top" class="main">Are you looking for the ideal software 
-      solution so you can run your own eBay style auction web-site? If yes then 
-      you have come to the right place.&nbsp; PHP Pro Bid is the leading 
-      Internet Auction Software package.</td>
+      solution so you can run your own eBay style auction web-site?<br>      If so, then 
+      you have come to the right place.</td>
     </tr>
   </tbody></table>
 </div>
+
+
+
 
 
 
