@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dofactory.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605075857id_/http%3A//dofactory.com/terms/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dofactory.com privacy policy that was archived on 2002-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020810192208id_/http%3A//www.dofactory.com/terms/privacy.asp) for the most accurate reproduction.*
 
 # Data & Object Factory privacy statement
 
