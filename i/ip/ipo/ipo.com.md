@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ipo.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602140307id_/http%3A//www.ipo.com/privacy.asp%3Fp%3DIPO) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipo.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402124547id_/http%3A//www2.ipo.com/privacy.asp%3Fp%3DIPO) for the most accurate reproduction.*
 
-# IPO.com - Privacy Policy
+# IPO.com|Main|Privacy Policy
 
 IPO.com has created this privacy statement in order to demonstrate our commitment to your privacy on the Internet. The following statement discloses our information gathering and dissemination practices.
 
@@ -30,4 +30,4 @@ We use an outside ad company to display ads on our site. These ads may contain c
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact [info@ipo.com](mailto:info@ipo.com).
+If you have any questions about this privacy statement, or the practices of this site please visit the [Message Center](https://web.archive.org/ipocom/messages.asp?p=ipo) and let us know.
