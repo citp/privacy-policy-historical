@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uspto.gov privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208034519id_/http%3A//www.uspto.gov/web/doc/privact.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uspto.gov privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601105808id_/http%3A//www1.uspto.gov/web/doc/privact.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
