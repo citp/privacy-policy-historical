@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the swift.com privacy policy that was archived on 2000-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001213223600id_/http%3A//www.swift.com/index.cfm%3Fitem_id%3D1037) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swift.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607074206id_/http%3A//www.swift.com/index.cfm%3Fitem_id%3D1037) for the most accurate reproduction.*
 
-# SWIFT - Legal notices - Privacy statement
+# SWIFT - Home - Legal notices - SWIFT data privacy
 
 Protecting your privacy is very important to SWIFT. To do so, we follow general principles in accordance with worldwide best practices on data protection. Information we collect may include personal data related to individuals such as name, address and e-mail address. We treat all this information as confidential. We do not give it or sell it to any third party, except as required by law or as necessary for us to provide you with the required services. We hope the following policy will help you understand how SWIFT collects, uses, and safeguards your information on our web site.
 
