@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vioc.com privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609200907id_/http%3A//vioc.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vioc.com privacy policy that was archived on 2003-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031011003721id_/http%3A//www.vioc.com/privacy.asp) for the most accurate reproduction.*
 
 # Valvoline Instant Oil Change
 
@@ -35,4 +35,4 @@ We may provide you with hyperlinks to other websites. Please be aware that we ca
 This website is not designed for, or directed to, children under the age of 13 and will not knowingly collect personally identifiable information from individuals in this age group. We encourage parents to take an active role in their children's online activities and to talk with their children about disclosing personally identifiable information to websites. 
 
 **How to contact Ashland**  
-If you have any questions about this Privacy Notice, or if you have or another person has submitted personally identifiable information about you through this website, and you would like to have that information deleted, please contact the VIOC Help Desk at 1-800-FAST-CHANGE or by e-mail by clicking [here](https://web.archive.org/web/20030609200907id_/http%3A//vioc.com/contact.asp). 
+If you have any questions about this Privacy Notice, or if you have or another person has submitted personally identifiable information about you through this website, and you would like to have that information deleted, please contact the VIOC Help Desk at 1-800-FAST-CHANGE or by e-mail by clicking [here](https://web.archive.org/web/20031011003721id_/http%3A//www.vioc.com/contact.asp). 
