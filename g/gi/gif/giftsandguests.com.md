@@ -1,6 +1,25 @@
-> *The following text is extracted and transformed from the giftsandguests.com privacy policy that was archived on 2004-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040806153530id_/http%3A//www.names.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftsandguests.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403184303id_/http%3A//www.names.co.uk/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement :: Namesco Limited Domain Names, Hosting and Dedicated Server Solutions
+# Privacy Statement :: Namesco Limited Domain Names, Hosting, Dedicated Server Solutions and Broadband
+
+  * [> Customer Login](https://web.archive.org/controlpanel.html)
+  * [Domain Names](https://web.archive.org/domains.html)
+  * [Email Packages](https://web.archive.org/email.html)
+  * [Web Hosting](https://web.archive.org/hosting.html)
+  * [Dedicated Servers](https://web.archive.org/servers.html)
+  * [Search Engine Submit](https://web.archive.org/search_engines.html)
+  * [Web Development](https://web.archive.org/phase8.html)
+  * [Internet Access](https://web.archive.org/adsl.html)
+  * [Help and Support](https://web.archive.org/support.html)
+  * [Latest News](https://web.archive.org/news.html)
+  * [About Us](https://web.archive.org/profile.html)
+  * [Contact Us](https://web.archive.org/contact.html)
+  * [Price List](https://web.archive.org/prices.html)
+
+  
+| [](https://web.archive.org/news.html)  
+---  
+| 
 
 This privacy statement discloses the privacy practices for Namesco Limited.
 
@@ -16,7 +35,7 @@ This web site agrees to notify you of:
 
 
 
-If you feel that this company is not abiding by its posted privacy policy, you should [contact us](https://web.archive.org/web/20040806153530id_/http%3A//www.names.co.uk/contact.html)
+If you feel that this company is not abiding by its posted privacy policy, you should [contact us](https://web.archive.org/web/20050403184303id_/http%3A//www.names.co.uk/contact.html)
 
 Information Collection and Use 
 
@@ -69,3 +88,9 @@ Users of our site are notified when their information is being collected or used
 Notification of Changes 
 
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+
+|  | 
+
+[](https://web.archive.org/adsl.html)
+
+[ ](https://web.archive.org/competition.html)
