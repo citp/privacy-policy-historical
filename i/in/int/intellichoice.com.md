@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intellichoice.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216223935id_/http%3A//www.intellichoice.com/includes/privacy_statement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intellichoice.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605044202id_/http%3A//intellichoice.com/includes/privacy_statement.cfm) for the most accurate reproduction.*
 
 # The IntelliChoice CarCenter
 
