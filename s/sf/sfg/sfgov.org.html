@@ -1,288 +1,30 @@
-<!--The following is the downloaded HTML source of the sfgov.org privacy policy that was archived on 2004-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040606020056id_/http%3A//sfgov.org/site/mainpages_index.asp%3Fid%3D37) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sfgov.org privacy policy that was archived on 2004-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041207172020id_/http%3A//sfgov.org/site/mainpages_index.asp%3Fid%3D37) for the most accurate reproduction.-->
 
 <html><head>
 <title>San Francisco SFGov: Privacy Policy</title>
-<link rel="stylesheet" type="text/css" href="http://sfgov.org/scripts/main.css">
-<script language="JavaScript" type="text/javascript">
-<!--
-if (top != self) {
-	top.location=location
-	}
-	
-if (document.layers) {
- window.resize = reloadIt;
- }
- 
-function reloadIt() {
-     document.location = document.location;
-}
-bIE = false;
-av = navigator.appVersion;
-iMSIE=parseInt(av.indexOf("MSIE"));
-if (iMSIE >= 1)
- bIE = true;
-function activateFrame(obj, htm_str) {
-   document.frameForm.href_value_outside.value=obj.href;
-   document.frameForm.href_value_inside.value=window.location;
-   var emptyFURL = "http://";
-   emptyFURL += window.location.host;
-   emptyFURL += "/frames/redirects/";
-   emptyFURL += htm_str;
-   document.frameForm.href_value_hidden.value=emptyFURL;
-   var actionURL = "http://";
-   actionURL += window.location.hostname;
-   actionURL += "/cgi-bin/publish/frame.cgi";
-   document.frameForm.action = actionURL;
-   document.frameForm.submit();
-   if (bIE) {
-     window.event.returnValue = false;
-   }
-   return false;   
-}
-//-->
-</script>
+<link rel="stylesheet" type="text/css" href="/scripts/main.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/scripts/print.css" media="print">
+<script language="javascript" src="/scripts/scripts.js"></script><script language="javascript" type="text/javascript" src="/scripts/indexpg.js"></script>
+<script language="javascript" type="text/javascript" src="/scripts/windows.js"></script>
+<script language="javascript" type="text/javascript" src="/scripts/searchscript.js"></script>
 
-<script language="JavaScript" type="text/javascript">
-<!--
-function jump(which) {
-    var menu = which;
-    var url = menu.options[menu.selectedIndex].value;
-    eval("window.location ='" + url + "'");
-}
-
-
-function MM_jumpMenu(targ,selObj,restore){ //v3.0
-  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
-  if (restore) selObj.selectedIndex=0;
-}
-
-function getEmail(eaddress,ccAddress) {
-if (eaddress == "other@sfgov.org") 
-  var dummy
-else 
-
-document.contactUs.submit_to.value = eaddress;
-document.contactUs.form_id.value = ccAddress;
-
-}
-
-function getEmailOther() {
-if (document.contactUs.form_id_select.options[document.contactUs.form_id_select.selectedIndex].value  == "blank") 
-//document.contactUs.submit_to.value=""
-alert("Please choose a department");
-else{
-
-var strSubmit;
-var strFormId;
-var valueArray;
-valueArray = document.contactUs.form_id_select.options[document.contactUs.form_id_select.selectedIndex].value .split(",");
-strFormId = valueArray[0];
-strSubmit = valueArray[1];
-document.contactUs.submit_to.value = strSubmit
-document.contactUs.form_id.value = strFormId;
- }
-}
-
-function emailSubmit() {
-//alert(document.contactUs.submit_to.value);
-//alert(document.contactUs.form_id.value);
-if (document.contactUs.form_id_select.options[document.contactUs.form_id_select.selectedIndex].value  == "blank") 
-
-alert("Please choose a department");
-else{
-if (document.contactUs.submit_to.value=="") 
-
-alert("please choose a department");
-else {
-document.contactUs.submit();
-
-}}}
-
-//-->
-</script><script language="javascript" src="/scripts/indexpg.js">
-</script>
-
-<script language="javascript" src="/scripts/windows.js">
-</script>
-        
-<script language="JavaScript" type="text/javascript">
-
-<!--
-var newString = "";
-var wordQuotes = "";
-function queryString() {
-//define form variables
-wordQuotes = document.searchForm.wordQuotes.value
-
-var quoteString
-if (wordQuotes) {
-quoteString = '+"' + wordQuotes + '"';
-}
-else {
-quoteString = ""
-}
-
-//build the string
-
-newString = quoteString 
-//put the string in our hidden filed called qt to pass to the app
-document.searchForm.qt.value = newString
-
-if (newString) {
-document.searchForm.submit();
-}
-}
-//-->
-
-
-</script>
-
-<script language="JavaScript" type="text/javascript">
-<!--
-
-function checkAddressInput() {
-
-	var checkString = document.address.fulladdress.value
-	
-	if (checkString) {
-		chSpace1 = checkString.charAt(0)
-	
-		if (chSpace1 == " ") {
-		alert("You have a space at the beginning of your address.\nPlease delete it.")
-		return false;
-		}
-	count = 0; 
-	var stnumber
-	var street
-	var chFirst
-	var chLast
-	
-	
-	//parse the string first make sure there's no spaces at the beginning
-	
-	
-	
-	
-	//if we there's no spaces, parse and check
-	splitString = checkString.split(" ")
-	stnumber = splitString[0]
-	street = splitString[1]
-	last = splitString[2]
-	
-	//make an array of impermissiable street names
-
-	var streetArray = new Array(11)
-	streetArray[0] = "Ave"
-	streetArray[1] = "AVE"
-	streetArray[2] = "AVENUE"
-	streetArray[3] = "Avenue"
-	streetArray[4] = "St"
-	streetArray[5] = "ST"
-	streetArray[6] = "Street"
-	streetArray[7] = "STREET"
-	streetArray[8] = "BLVD"
-	streetArray[9] = "Blvd"
-	streetArray[10] = "Boulevard"
-	
-	
-	
-	
-	//regular expressions to match
-	number = new RegExp()
-	letter = new RegExp()
-	
-	number = /\d/
-	letter = /[a-zA-Z]/
-	
-	//loop through the street array
-if (last) {
-	for (i = 0; i < streetArray.length; i++) {
-		if(last == streetArray[i]) {
-		alert("Please don't enter the street type "+last+" after the street name.")
-		return false;
-		}
-	
-	}
-
-   //check for a period in last place which would indicate street abbrev
-   chLast = last.charAt(last.length-1)
-   if (chLast == ".") {
-   alert("Please don't enter the street type "+last+" after the street name.")
-		return false;
-   }
-}  
-
-if (street) {
-        chFirst = street.charAt(0)
-		chLast = street.charAt(street.length-1)
-        // ENSURE CHARACTER IS AN ALPHA OR NUMERIC CHARACTER
-		
-        if (chLast.match(number)) {
-		
-		
-		alert("Please be sure to include complete names for numbered streets and avenues.\n" +
-		"For example, 1ST, 2ND, 3RD, 4TH will yield results\n" +
-		"\nAlso, FOURTH, FIFTH will not yield the results desired.")
-		
-		return false;
-        
-    	}
-}		
-	newString = ""
-	
-
-    // check to make sure streetno is a number
-    for (i = 0; i < stnumber.length; i++) {
-        ch = stnumber.substring(i, i+1);
-
-        // ENSURE CHARACTER IS AN ALPHA OR NUMERIC CHARACTER
-        if ((ch >= "0" && ch <= "9") || (ch == ".")){
-
-            newString += ch;
-			
-        }
-    }
-
-    if (stnumber != newString) {
-      alert("You can only use numbers for street addresses.\nLetters and other punctuation including spaces is not allowed.")
-        // no submission til fixed!
-       return false;
-     }
-	else {
-	return true;
-	}
- 
-}}
-
-
-// for dropdown menus
-function menujump(item) {
-    var url = item.options[item.selectedIndex].value;
-    if(url.length > 0) {
-	   window.location = url;
-	}
-}
-
-
-//-->
-</script>
-
-<meta keywords="City and County of San Francisco, San Francisco, Bridging government and citizens through technology, city departments, community resources, San Francisco government, San Francisco, CCSF, city meetings, legislation, reports, visitor information, City of San Francisco, Muni, Board of Supervisors, Mayor, Ethics Commission, Film Commission, Health Commission, Housing Authority, Human Rights Commission, Human Services, County of San Francisco, Asian Art commission, Commission on the Status of Women, Environment, Planning, Police, Purchasing, Port of San Francisco, PUC, Public Utilities, Redevelopment Agency, Rent Board, Small Business Advisory Commission, Transportation Authority, City Hall, Youth Commission, Meeting agendas, San Francisco Home Page, SF municipal government.">
-<meta description="SFGOV is the official website of the government of the City and County of San Francisco, providing information about departments, meetings, legislation, regulations, and community resources.">
-<meta search="mainpages">
+<meta name="keywords" content="City and County of San Francisco, San Francisco, Bridging government and citizens through technology, city departments, community resources, San Francisco government, San Francisco, CCSF, city meetings, legislation, reports, visitor information, City of San Francisco, Muni, Board of Supervisors, Mayor, Ethics Commission, Film Commission, Health Commission, Housing Authority, Human Rights Commission, Human Services, County of San Francisco, Asian Art commission, Commission on the Status of Women, Environment, Planning, Police, Purchasing, Port of San Francisco, PUC, Public Utilities, Redevelopment Agency, Rent Board, Small Business Advisory Commission, Transportation Authority, City Hall, Youth Commission, Meeting agendas, San Francisco Home Page, SF municipal government.">
+<meta name="description" content="SFGOV is the official website of the government of the City and County of San Francisco, providing information about departments, meetings, legislation, regulations, and community resources.">
+<meta name="search" content="mainpages">
 </head>
 
 <body topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" bgcolor="FFFFFF">
 <!-- Header Zone -->
-   <table border="0" cellspacing="0" cellpadding="0">
+<div id="header">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
   <tbody><tr> 
   <td rowspan="2" width="26" bgcolor="#000000"><img src="/images/backblack.jpg" width="26" height="50" alt=""></td>
   <td rowspan="2" width="120" bgcolor="#000000"><a href="http://www.sfgov.org/"><img src="/images/sfgovlogo.gif" width="120" height="50" border="0" alt="Go To SFGov, the official site for San Francisco"></a></td>
     <td valign="top" align="left" bgcolor="#42416D" width="99%"><img src="/images/homepage/banner_bb.gif" border="0" alt="Bay Bridge" width="656" height="25"></td>
   </tr>
   <tr> 
-    <form action="http://209.77.149.3:8765/query.html" method="GET" name="searchForm" onsubmit="return queryString()"></form>
+    <form action="http://www.sfgov.org:8765/query.html" method="GET" name="searchForm" onsubmit="return queryString()"></form>
  <input type="hidden" name="pw" value="100%">
         <input type="hidden" name="ws" value="0">
         <input type="hidden" name="la" value="">
@@ -304,10 +46,12 @@ function menujump(item) {
         | <a href="/onlineservices/" class="top-nav">online services</a> 
         | </font>
       <a href="/site/mainpages_index.asp?id=42" class="top-nav">search</a><img src="/images/spacer.gif" width="4" height="1" alt=""> <input type="text" size="10" style="height: 18px; font-size: 10px;" name="wordQuotes">
-        <a href="javascript:queryString()" class="top-nav">go !</a> </td>
+        <label for="wordQuotes"><a href="javascript:queryString()" class="top-nav">go !</a></label> </td>
     
   </tr>
-</tbody></table><!-- /Header Zone -->
+</tbody></table>
+</div>
+<!-- /Header Zone -->
 <table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top">
 <table border="0" width="560" cellspacing="0" cellpadding="0" align="left">
 <tbody><tr><td align="left" colspan="2"><font class="breadcrumb"></font></td></tr>
@@ -316,8 +60,8 @@ function menujump(item) {
 
 <!-- Left SF Spacer -->
 
-<td valign="top" width="29"><br><img src="/images/spacer.gif" width="29" height="1" alt="" border="0"> 
-<img alt="San Francisco" align="top" src="/images/sanfranvertical.gif" border="0" width="14" height="202"></td>
+<td valign="top" width="29"><div id="sidetext"><br><img src="/images/spacer.gif" width="29" height="1" alt="" border="0"> 
+<img alt="San Francisco" align="top" src="/images/sanfranvertical.gif" border="0" width="14" height="202"></div></td>
 <td width="520" valign="top"><p><br>
 
 <!-- GOVERNMENT ORGANIZATION -->
@@ -330,27 +74,69 @@ function menujump(item) {
 
 <!-- CONTENT -->  
 
-<font class="heading1">Privacy Policy</font><br>Thank you for visiting the City and County of San Francisco and reviewing our privacy policy. We will collect no personal information about you when you visit our website unless you choose to provide that information to us. We do not give, share, sell, or transfer any personal information to a third party.<br>
-<br>
-<font class="heading2">Information Collected and Stored Automatically</font><br>
-We analyze user traffic patterns on our web portal from information automatically provided by your browser when you visit our site. This information includes the IP address of your computer or network, the date, time, and page you visited on our site, your browser and operating system, and the referring page (the last webpage you visited before clicking on a link to our site).<br>
-<br>
-We use the aggregated information from all of our visitors to measure server performance and improve the content of our site.<br>
-<br>
-We sometimes track the keywords that are entered into our search engine to measure interest in specific topics, but we do not track which terms a particular user enters.<br>
-<br>
-<font class="heading2">Information Provided by You</font><br>
-Information volunteered by you through your filling out of our optional online feedback form is used to help us enhance our web sites, and may be shared with City and County of San Francisco employees and contractors for that purpose.<br>
-<br>
-We do not use "cookies" except when providing personalization services such as "MySFGov". The use of cookies is a standard practice among Internet websites and most Internet web browsers may be customized to reject cookies, to only accept or reject cookies by user intervention, or to delete cookies.<p></p>
+<font class="heading1">Privacy Policy</font><br><p class="MsoNormal">Thank you for visiting the City and <st1:place><st1:placetype>County</st1:placetype> of <st1:placename>San Francisco</st1:placename></st1:place> website and reviewing our Privacy Policy. This Privacy Policy outlines the types of information we gather when you visit our website, as well as some of the steps we take to safeguard it.</p>
 
-<p><font class="heading2">Links to Other Sites</font><br>
-The City and County of San Francisco uses link and search capabilities to navigate publicly available information from dozens of agencies that are not part of the City and County of San Francisco web site. The privacy policies and procedures described here do not necessarily apply to those sites. We suggest contacting these sites directly for information on their data collection and distribution policies.<br>
-<br>
-<font class="heading2">Site Security</font><br>
-We monitor network traffic to identify unauthorized attempts to upload or change information or to otherwise cause damage to the site. Anyone using this Web site expressly consents to such monitoring.</p>
+<p class="MsoNormal"><b>Information Collection</b></p>
 
-<p></p>
+<ul type="disc">
+<li class="MsoNormal">We do not collect personal information about you when you visit our website unless you choose to provide that information to us. &nbsp;</li>
+
+<li class="MsoNormal">We collect limited non-personally identifying information your browser makes available automatically whenever you visit a website. This information includes the Internet Address of your computer or network, the date, time, and page you visited on our site, your browser and operating system, and the referring page (the last webpage you visited before clicking on a link to our site).</li>
+
+<li class="MsoNormal">We use the aggregated information from all of our visitors to measure server performance, analyze user traffic patterns and improve the content of our site.</li>
+
+<li class="MsoNormal">We sometimes track the keywords that are entered into our search engine to measure interest in specific topics, but we do not track which terms a particular user enters.</li>
+
+<li class="MsoNormal">Some of our online services require you to register for an account. We ask you for some personal information in order to create an account (typically your name, email address and a password for your account) and we will use that information to provide the service. For certain services, such as our online payment services, we may request credit card or other payment information which may be stored temporarily in encrypted form on secure servers.</li>
+</ul>
+
+<p class="MsoNormal"><b>Information You Provide</b></p>
+
+<ul type="disc">
+<li class="MsoNormal">Information volunteered by you through your filling out of our optional online feedback form and contact us form is used to help us enhance our web sites, and may be shared with City and County of San Francisco employees and contractors for that purpose.</li>
+</ul>
+
+<p class="MsoNormal"><b>Cookies</b></p>
+
+<ul type="disc">
+<li class="MsoNormal">We use "cookies" when providing personalization services such as My SFGov Portal. We use cookies to improve quality of our service and not to track any personal information.</li>
+
+<li class="MsoNormal">The use of cookies is a standard practice among Internet websites and most Internet web browsers may be customized to reject cookies, to only accept or reject cookies by user intervention, or to delete cookies. However, some features may not function properly without cookies.</li>
+</ul>
+
+<p class="MsoNormal"><b>Information Sharing</b></p>
+
+<ul type="disc">
+<li class="MsoNormal">We do not give, share, sell, rent or transfer any personal information to a third party, unless we have your consent.</li>
+</ul>
+
+<p class="MsoNormal"><b>Links</b></p>
+
+<ul type="disc">
+<li class="MsoNormal">The City and <st1:place><st1:placetype>County</st1:placetype> of <st1:placename>San Francisco</st1:placename></st1:place> uses link and search capabilities to navigate publicly available information from dozens of agencies that are not part of the City and <st1:place><st1:placetype>County</st1:placetype> of <st1:placename>San Francisco</st1:placename></st1:place> web site and over whom City exercises no control.</li>
+
+<li class="MsoNormal">The privacy policies and procedures described here do not necessarily apply to those sites.</li>
+
+<li class="MsoNormal">We suggest contacting these sites directly for information on their data collection and distribution policies.</li>
+</ul>
+
+<p class="MsoNormal"><b>Site Security</b></p>
+
+<ul type="disc">
+<li class="MsoNormal">We monitor network traffic to identify unauthorized attempts to upload or change information or to otherwise cause damage to the site. Anyone using this Web site expressly consents to such monitoring.</li>
+
+<li class="MsoNormal">We take appropriate security measures to protect unauthorized access, alteration or destruction of data.</li>
+</ul>
+
+<p class="MsoNormal"><b>Policy Changes</b></p>
+
+<ul type="disc">
+<li class="MsoNormal">Please note this Privacy Policy can change from time to time. We expect most such changes to be minor, but we will post those changes as they occur.</li>
+</ul>
+
+<p class="MsoNormal">&nbsp;</p>
+
+
 <!-- /CONTENT -->
 
 </td></tr></tbody></table>
@@ -361,16 +147,20 @@ We monitor network traffic to identify unauthorized attempts to upload or change
 <td width="1" valign="top" bgcolor="#000000" height="310"><img src="/images/spacer.gif" alt="" align="top" border="0" width="1" height="400"></td>
 <!-- /VERTICAL LINE -->   
 
-<!-- RIGHT COLUMN -->
-<!-- need ssi's for beginning and end of tables, call in the middle-->
-<td valign="top"><img src="/images/spacer.gif" height="20"><br><img src="/images/spacer.gif" width="20">
+<td valign="top">
+<!-- modules -->
+<div id="modules">
+<img src="/images/spacer.gif" height="20" alt=""><br><img src="/images/spacer.gif" width="20" alt="">
 
 
 
       <img src="/images/ctyseal.gif" border="0" alt="City Seal" height="125" width="124">
-<!-- /RIGHT COLUMN -->
+
+</div>
+<!-- /modules -->
 </td></tr></tbody></table>
 <!-- Footer -->
+<div id="footer">
 <br clear="all">
 <table border="0" width="760" cellspacing="0" cellpadding="0">
   <tbody><tr> 
@@ -390,9 +180,8 @@ We monitor network traffic to identify unauthorized attempts to upload or change
     <td width="30">&nbsp;</td>
     <td width="500" class="copyright"><img src="/images/spacer.gif" width="1" height="10" alt="" border="0"><br>
 	<img src="/images/spacer.gif" width="35" height="1" alt="" border="0" align="left"><a href="/site/mainpages_index.asp?id=41" class="copyright">Copyright</a> © 1999-2004 City &amp; County of San Francisco. All rights reserved.</td><td width="200">&nbsp;</td></tr>
-
 </tbody></table>
-
+</div>
 <!-- /Footer -->
 
 
