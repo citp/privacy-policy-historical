@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the birthrightisrael.com privacy policy that was archived on 2002-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021204155906id_/http%3A//www.birthrightisrael.com/bin/en.jsp%3FenPage%3DBlankPage%26enDisplay%3Dview%26enDispWhat%3DZone%26enInfolet%3D../Include/Static/privacy.jsp%26) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the birthrightisrael.com privacy policy that was archived on 2003-04-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030402181216id_/http%3A//www.birthrightisrael.com/bin/en.jsp%3FenPage%3DBlankPage%26enDisplay%3Dview%26enDispWhat%3DZone%26enInfolet%3D../Include/Static/privacy.jsp%26) for the most accurate reproduction.-->
 
 <html><head>
 <!-- CSS link -->
@@ -338,6 +338,44 @@ function confirmDelete(URL,item,customMsg)
 	else if(!URL)
 		return ret;
 }
+
+//repopulate date select list when month or year changes
+function enformiaPopulateDates(theYear,theMonth,theDay){
+	var e=theDay.options[0].value;
+	var selectedDay=theDay.options[theDay.selectedIndex].value;
+	//skip if not both month and year are non blanck
+	if(!theYear.options[theYear.selectedIndex].text ||
+		!theMonth.options[theMonth.selectedIndex].value)return;
+	//get no of days in month
+	var getDaydInMonth=function(y, m){
+		timeA = new Date(y, m, 1);
+		timeDifference = timeA - 86400000;
+		timeB = new Date(timeDifference);
+		return timeB.getDate();
+	}
+	var daysInMonth=getDaydInMonth(theYear.options[theYear.selectedIndex].text,
+		theMonth.options[theMonth.selectedIndex].value);
+	//empty all options
+	theDay.options.length=0;
+	//replace with new options
+	var j=0;
+	//first blank option - if was present
+	if(!e){
+		theDay.options[j] = new Option("","");
+		j++; 
+	}
+	if(!selectedDay)selectedDay=1;
+	if(selectedDay>daysInMonth)selectedDay=daysInMonth;
+	var k=1;
+    for (var i = j; i-j < daysInMonth; i++){
+     	theDay.options[i] = new Option(k,k);
+		if(k==selectedDay){
+			theDay.options[i].selected=true;
+			//theDay.options[i].defaultSelected=true;			
+		}
+		k++;
+    }
+}
 //-->
 </script>
 
@@ -351,21 +389,22 @@ function confirmDelete(URL,item,customMsg)
 
 
 
-<!--LAYER 1-->
 
-<div id="Layer1" style="position:absolute; width:160px; z-index:1; left: 72px; top: 122; visibility: hidden"> 
+<!--LAYER 1-->
+<div id="Layer1" style="position:absolute; width:160px; z-index:1; left: 59px; top: 122; visibility: hidden"> 
   <table border="0" cellpadding="2" cellspacing="0" width="160">
     <tbody><tr> 
-      <td rowspan="8" width="15"><a href="javascript:;" onmouseover="MM_showHideLayers('Layer1','','hide')"><img src="../Static/Images/transparent.gif" width="15" height="130" border="0" vspace="0" hspace="0" name="Image1"></a></td>
+      <td rowspan="8" width="15" onmouseover="MM_showHideLayers('Layer1','','hide','Layer2','','hide','Layer3','','hide','Layer4','','hide','Layer5','','hide','Layer6','','hide')"><a href="javascript:;" onmouseover="MM_showHideLayers('Layer1','','hide','Layer2','','hide','Layer3','','hide','Layer4','','hide','Layer5','','hide','Layer6','','hide')"><img src="../static/images/transparent.gif" width="15" height="130" border="0" vspace="0" hspace="0" name="Image1"></a></td>
       <td width="142" valign="middle" bgcolor="6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enZone=AboutUs" class="V11boldwhite">&nbsp;Main page</a></td>
-      <td rowspan="8" width="15"><a href="javascript:;" onmouseover="MM_showHideLayers('Layer1','','hide')"><img src="../Static/Images/transparent.gif" width="15" height="130" border="0" vspace="0" hspace="0"></a></td>
+      <td rowspan="8" width="15" onmouseover="MM_showHideLayers('Layer1','','hide','Layer2','','hide','Layer3','','hide','Layer4','','hide','Layer5','','hide','Layer6','','hide')"><a href="javascript:;" onmouseover="MM_showHideLayers('Layer1','','hide','Layer2','','hide','Layer3','','hide','Layer4','','hide','Layer5','','hide','Layer6','','hide')"><img src="../static/images/transparent.gif" width="15" height="130" border="0" vspace="0" hspace="0"></a></td>
     </tr>
     <tr> 
       <td width="142" valign="middle" bgcolor="#6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=object&amp;enDispWho=Features%5El9&amp;enZone=Features&amp;enVersion=0&amp;&amp;channel=AboutUs" class="V11boldwhite">&nbsp;Why Israel?</a></td>
     </tr>
 	
+	
 		<tr> 
-	      <td width="142" valign="middle" bgcolor="#6589BA"><a href="en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=object&amp;enDispWho=Features%5El518&amp;enZone=Features&amp;enVersion=0&amp;&amp;channel=TheTrip&amp;type=Profile" class="V11boldwhite">&nbsp;BRI in the News</a></td>
+	      <td width="142" valign="middle" bgcolor="#6589BA"><a href="en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=object&amp;enDispWho=Features%5El726&amp;enZone=Features&amp;enVersion=0&amp;&amp;channel=TheTrip&amp;type=Profile" class="V11boldwhite">&nbsp;BRI in the News</a></td>
 	    </tr>
 	
     <tr> 
@@ -384,24 +423,24 @@ function confirmDelete(URL,item,customMsg)
       <td width="142" valign="middle" bgcolor="#6589BA" class="v1space">&nbsp;</td>
     </tr>
   </tbody></table>
-  <a href="javascript:;" onmouseover="MM_showHideLayers('Layer1','','hide')"><img src="../Static/Images/transparent.gif" border="0" height="10" width="160" vspace="0" hspace="0" align="top"></a></div>
+  <a href="javascript:;" onmouseover="MM_showHideLayers('Layer1','','hide')"><img src="../static/images/transparent.gif" border="0" height="10" width="160" vspace="0" hspace="0" align="top"></a></div>
 <!--END OF LAYER 1-->   
 <!--LAYER 2-->
-<div id="Layer2" style="position:absolute; width:185px; z-index:1; left: 150px; top: 122; visibility: hidden"> 
-<table border="0" cellpadding="2" cellspacing="0" width="180">
-<tbody><tr> 
-	<td rowspan="10" width="15"><a href="javascript:;" onmouseover="MM_showHideLayers('Layer2','','hide')"><img src="../Static/Images/transparent.gif" width="15" border="0" height="150" vspace="0" hspace="0"></a></td>
+<div id="Layer2" style="position:absolute; width:185px; z-index:1; left: 136px; top: 122; visibility: hidden"> 
+  <table border="0" cellpadding="2" cellspacing="0" width="180">
+    <tbody><tr> 
+	  <td rowspan="11" width="15" onmouseover="MM_showHideLayers('Layer1','','hide','Layer2','','hide','Layer3','','hide','Layer4','','hide','Layer5','','hide','Layer6','','hide')"><a href="javascript:;" onmouseover="MM_showHideLayers('Layer1','','hide','Layer2','','hide','Layer3','','hide','Layer4','','hide','Layer5','','hide','Layer6','','hide')"><img src="../static/images/transparent.gif" width="15" border="0" height="150" vspace="0" hspace="0"></a></td>
 	<td width="162" valign="middle" bgcolor="6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enZone=TheTrip" class="V11boldwhite">&nbsp;Main page</a></td>
-	<td rowspan="10" width="15"><a href="javascript:;" onmouseover="MM_showHideLayers('Layer2','','hide')"><img src="../Static/Images/transparent.gif" width="15" border="0" height="150" vspace="0" hspace="0"></a></td>
+	  <td rowspan="11" width="15" onmouseover="MM_showHideLayers('Layer1','','hide','Layer2','','hide','Layer3','','hide','Layer4','','hide','Layer5','','hide','Layer6','','hide')"><a href="javascript:;" onmouseover="MM_showHideLayers('Layer1','','hide','Layer2','','hide','Layer3','','hide','Layer4','','hide','Layer5','','hide','Layer6','','hide')"><img src="../static/images/transparent.gif" width="15" border="0" height="150" vspace="0" hspace="0"></a></td>
 </tr>
 <tr> 
 	<td width="162" valign="middle" bgcolor="#6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enDispWho=AboutUs&amp;enZone=Trips&amp;enInfolet=TripsOptions.jsp&amp;&amp;channel=AboutUs" class="V11boldwhite">&nbsp;Trip Options</a></td>
 </tr>
 <tr> 
-	<td width="162" valign="middle" bgcolor="#6589BA"><a href="http://register.birthrightisrael.com/reg0203/index.cfm" target="_blank" class="V11boldwhite">&nbsp;Registration</a></td>
+	<td width="162" valign="middle" bgcolor="#6589BA"><a href="javascript:;" onclick="window.open('../WEBINF/Infolets/Include/Static/frame_sampleItinerary.htm','israel','width=520,height=400,left=100,top=100')" class="V11boldwhite">&nbsp;Sample Itinerary</a></td>
 </tr>
 <tr>  
-	<td width="162" valign="middle" bgcolor="#6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=object&amp;enDispWho=Features%5El7&amp;enZone=Features&amp;enVersion=0&amp;&amp;channel=AboutUs" class="V11boldwhite">&nbsp;Safety and Security</a></td>
+	<td width="162" valign="middle" bgcolor="#6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=object&amp;enDispWho=Features%5El18&amp;enZone=Features&amp;enVersion=0&amp;&amp;channel=TheTrip" class="V11boldwhite">&nbsp;Safety and Security</a></td>
 </tr>
 <tr>  
 	<td width="162" valign="middle" bgcolor="#6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=object&amp;enDispWho=Features%5El54&amp;enZone=Features&amp;enVersion=0&amp;&amp;channel=AboutUs&amp;type=Bri" class="V11boldwhite">&nbsp;Alumni Speak!</a></td>
@@ -422,21 +461,21 @@ function confirmDelete(URL,item,customMsg)
 	<td width="162" valign="middle" bgcolor="#6589BA" class="v1space">&nbsp;</td>
 </tr>
 </tbody></table>
-<a href="javascript:;" onmouseover="MM_showHideLayers('Layer2','','hide')"><img src="../Static/Images/transparent.gif" width="185" height="10" border="0" vspace="0" hspace="0" align="top"></a></div>
+  <a href="javascript:;" onmouseover="MM_showHideLayers('Layer1','','hide','Layer2','','hide','Layer3','','hide','Layer4','','hide','Layer5','','hide','Layer6','','hide')"><img src="../static/images/transparent.gif" width="185" height="10" border="0" vspace="0" hspace="0" align="top"></a></div>
 <!--END OF LAYER 2-->
 <!--LAYER 3-->
-<div id="Layer3" style="position:absolute; width:172px; z-index:1; left: 220px; top: 122; visibility: hidden"> 
-<table border="0" cellpadding="2" cellspacing="0" width="172">
-<tbody><tr> 
-	<td rowspan="5" width="15"><a href="javascript:;" onmouseover="MM_showHideLayers('Layer3','','hide')"><img src="../Static/Images/transparent.gif" width="15" height="50" border="0" vspace="0" hspace="0"></a></td>
+<div id="Layer3" style="position:absolute; width:172px; z-index:1; left: 206px; top: 122; visibility: hidden"> 
+  <table border="0" cellpadding="2" cellspacing="0" width="172">
+    <tbody><tr> 
+	  <td rowspan="5" width="15" onmouseover="MM_showHideLayers('Layer1','','hide','Layer2','','hide','Layer3','','hide','Layer4','','hide','Layer5','','hide','Layer6','','hide')"><a href="javascript:;" onmouseover="MM_showHideLayers('Layer1','','hide','Layer2','','hide','Layer3','','hide','Layer4','','hide','Layer5','','hide','Layer6','','hide')"><img src="../static/images/transparent.gif" width="15" height="69" border="0" vspace="0" hspace="0"></a></td>
 	<td width="142" valign="middle" bgcolor="6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enZone=InsideIsrael" class="V11boldwhite">&nbsp;Main page</a></td>
-	<td rowspan="5" width="15"><a href="javascript:;" onmouseover="MM_showHideLayers('Layer3','','hide')"><img src="../Static/Images/transparent.gif" width="15" height="50" border="0" vspace="0" hspace="0"></a></td>
+	  <td rowspan="5" width="15" onmouseover="MM_showHideLayers('Layer1','','hide','Layer2','','hide','Layer3','','hide','Layer4','','hide','Layer5','','hide','Layer6','','hide')"><a href="javascript:;" onmouseover="MM_showHideLayers('Layer1','','hide','Layer2','','hide','Layer3','','hide','Layer4','','hide','Layer5','','hide','Layer6','','hide')"><img src="../static/images/transparent.gif" width="15" height="69" border="0" vspace="0" hspace="0"></a></td>
 </tr>
 <tr> 
 	<td width="142" valign="middle" bgcolor="#6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enDispWho=InsideIsrael&amp;enZone=InsideIsrael&amp;enInfolet=../Include/Static/israel101.jsp&amp;" class="V11boldwhite">&nbsp;Israel 101</a></td>
 </tr>
 <tr> 
-	<td width="142" valign="middle" bgcolor="#6589BA"><a href="javascript:;" onclick="window.open('http://64.39.4.76/VTour/index.htm','VTour','width=640,height=545')" class="V11boldwhite">&nbsp;Virtual Tour</a></td>
+	<td width="142" valign="middle" bgcolor="#6589BA"><a href="javascript:;" onclick="window.open('http://web.birthrightisrael.com/VTour/index.htm','VTour','width=640,height=545')" class="V11boldwhite">&nbsp;Virtual Tour</a></td>
 </tr>
 <tr> 
 	<td width="142" valign="middle" bgcolor="#6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enDispWho=InsideIsrael&amp;enZone=NewsLetter&amp;channel=Interactive" class="V11boldwhite">&nbsp;Israel Newsletters</a></td>
@@ -445,54 +484,58 @@ function confirmDelete(URL,item,customMsg)
 	<td width="142" valign="middle" bgcolor="#6589BA" class="v1space">&nbsp;</td>
 </tr>
 </tbody></table>
-<a href="javascript:;" onmouseover="MM_showHideLayers('Layer3','','hide')"><img src="../Static/Images/transparent.gif" width="200" height="10" border="0" vspace="0" hspace="0" align="top"></a></div>
+  <a href="javascript:;" onmouseover="MM_showHideLayers('Layer1','','hide','Layer2','','hide','Layer3','','hide','Layer4','','hide','Layer5','','hide','Layer6','','hide')"><img src="../static/images/transparent.gif" width="200" height="10" border="0" vspace="0" hspace="0" align="top"></a></div>
 <!--END OF LAYER 3-->
 <!--LAYER 4-->
-<div id="Layer4" style="position:absolute; width:172px; z-index:1; left: 321px; top: 122; visibility: hidden"> 
-<table border="0" cellpadding="2" cellspacing="0" width="172">
-<tbody><tr> 
-	<td rowspan="5" width="15"><a href="javascript:;" onmouseover="MM_showHideLayers('Layer4','','hide')"><img src="../Static/Images/transparent.gif" width="15" height="70" border="0" vspace="0" hspace="0"></a></td>
-	<td width="142" valign="middle" bgcolor="#6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enZone=JewishLife" class="V11boldwhite">&nbsp;Main page</a></td>
-	<td rowspan="5" width="15"><a href="javascript:;" onmouseover="MM_showHideLayers('Layer4','','hide')"><img src="../Static/Images/transparent.gif" width="15" height="70" border="0" vspace="0" hspace="0"></a></td>
-</tr>
+<div id="Layer4" style="position:absolute; width:172px; z-index:1; left: 307px; top: 122; visibility: hidden"> 
+  <table border="0" cellpadding="2" cellspacing="0" width="172">
+    <tbody><tr> 
+      <td rowspan="6" width="15" onmouseover="MM_showHideLayers('Layer1','','hide','Layer2','','hide','Layer3','','hide','Layer4','','hide','Layer5','','hide','Layer6','','hide')"><a href="javascript:;" onmouseover="MM_showHideLayers('Layer1','','hide','Layer2','','hide','Layer3','','hide','Layer4','','hide','Layer5','','hide','Layer6','','hide')"><img src="../static/images/transparent.gif" width="15" height="125" border="0" vspace="0" hspace="0"></a></td>
+      <td width="142" valign="middle" bgcolor="#6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enZone=JewishLife" class="V11boldwhite">&nbsp;Main 
+        page</a></td>
+      <td rowspan="6" width="15" onmouseover="MM_showHideLayers('Layer1','','hide','Layer2','','hide','Layer3','','hide','Layer4','','hide','Layer5','','hide','Layer6','','hide')"><a href="javascript:;" onmouseover="MM_showHideLayers('Layer1','','hide','Layer2','','hide','Layer3','','hide','Layer4','','hide','Layer5','','hide','Layer6','','hide')"><img src="../static/images/transparent.gif" width="15" height="125" border="0" vspace="0" hspace="0"></a></td>
+    </tr>
+    <tr> 
+      <td width="142" valign="middle" bgcolor="#6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enInfolet=../Include/Static/holidaysCalendar.jsp&amp;" class="V11boldwhite">&nbsp;Holiday 
+        Calendar</a></td>
+    </tr>
 
 <tr> 
-	<td width="142" valign="middle" bgcolor="#6589BA"><a href="en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=object&amp;enDispWho=WeeklyPortion%5El38&amp;enZone=WeeklyPortion&amp;enVersion=0&amp;&amp;channel=JewishLife" class="V11boldwhite">&nbsp;Weekly Torah <br>&nbsp;Portion</a></td>
+	<td width="142" valign="middle" bgcolor="#6589BA"><a href="en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=object&amp;enDispWho=WeeklyPortion%5El8&amp;enZone=WeeklyPortion&amp;enVersion=0&amp;&amp;channel=JewishLife" class="V11boldwhite">&nbsp;This week's<br>&nbsp;Torah Portion</a></td>
 </tr>
 
 
 	<tr> 
-		<td width="142" valign="middle" bgcolor="#6589BA"><a href="en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=object&amp;enDispWho=Features%5El519&amp;enZone=Features&amp;enVersion=0&amp;&amp;channel=JewishLife" class="V11boldwhite">&nbsp;Weekly Torah<br>&nbsp;Commentary</a></td>
+		<td width="142" valign="middle" bgcolor="#6589BA"><a href="en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=object&amp;enDispWho=Features%5El133&amp;enZone=Features&amp;enVersion=0&amp;&amp;channel=JewishLife" class="V11boldwhite">&nbsp;This week's<br>&nbsp;Torah Commentary</a></td>
 	</tr>
 
-<tr> 
-	<td width="142" valign="middle" bgcolor="#6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enDispWho=JewishLife&amp;enZone=Features&amp;&amp;FeatureType=HolidayArticle&amp;channel=JewishLife&amp;HolidayType=AllHolidays" class="V11boldwhite">&nbsp;Holidays</a></td>
-</tr>
-<tr> 
-	<td width="142" valign="middle" bgcolor="#6589BA" class="v1space">&nbsp;</td>
-</tr>
-</tbody></table>
-<a href="javascript:;" onmouseover="MM_showHideLayers('Layer4','','hide')"><img src="../Static/Images/transparent.gif" width="200" height="10" border="0" vspace="0" hspace="0" align="top"></a></div>
-<!--END OF LAYER 4-->
-<!--LAYER 5-->
-<div id="Layer5" style="position:absolute; width:172px; z-index:1; left: 410px; top: 122; visibility: hidden"> 
-  <table border="0" cellpadding="2" cellspacing="0" width="180">
-    <tbody><tr> 
-      <td rowspan="12" width="15"><a href="javascript:;" onmouseover="MM_showHideLayers('Layer5','','hide')"><img src="../Static/Images/transparent.gif" width="15" height="130" border="0" vspace="0" hspace="0"></a></td>
-      <td width="145" valign="middle" bgcolor="6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enZone=Interactive" class="V11boldwhite">&nbsp;Main page</a></td>
-      <td rowspan="12" width="15"><a href="javascript:;" onmouseover="MM_showHideLayers('Layer5','','hide')"><img src="../Static/Images/transparent.gif" width="15" height="130" border="0" vspace="0" hspace="0"></a></td>
+    <tr> 
+      <td width="142" valign="middle" bgcolor="#6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enInfolet=../Include/Static/torah.jsp&amp;" class="V11boldwhite">&nbsp;All 
+        Torah <br>
+        &nbsp;Portions</a></td>
     </tr>
     <tr> 
-      <td width="150" valign="middle" bgcolor="#6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enInfolet=../Include/Static/refer1.jsp&amp;" class="V11boldwhite">&nbsp;Refer-a-Friend<br>&nbsp;Contest</a></td>
+      <td width="142" valign="middle" bgcolor="#6589BA" class="v1space">&nbsp;</td>
+    </tr>
+  </tbody></table>
+  <a href="javascript:;" onmouseover="MM_showHideLayers('Layer1','','hide','Layer2','','hide','Layer3','','hide','Layer4','','hide','Layer5','','hide','Layer6','','hide')"><img src="../static/images/transparent.gif" width="200" height="10" border="0" vspace="0" hspace="0" align="top"></a></div>
+<!--END OF LAYER 4-->
+<!--LAYER 5-->
+<div id="Layer5" style="position:absolute; width:172px; z-index:1; left: 397px; top: 122; visibility: hidden"> 
+  <table border="0" cellpadding="2" cellspacing="0" width="180">
+    <tbody><tr> 
+      <td rowspan="12" width="15" onmouseover="MM_showHideLayers('Layer5','','hide')"><a href="javascript:;" onmouseover="MM_showHideLayers('Layer1','','hide','Layer2','','hide','Layer3','','hide','Layer4','','hide','Layer5','','hide','Layer6','','hide')"><img src="../static/images/transparent.gif" width="15" height="100" border="0" vspace="0" hspace="0"></a></td>
+      <td width="145" valign="middle" bgcolor="6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enZone=Interactive" class="V11boldwhite">&nbsp;Main page</a></td>
+      <td rowspan="12" width="15" onmouseover="MM_showHideLayers('Layer1','','hide','Layer2','','hide','Layer3','','hide','Layer4','','hide','Layer5','','hide','Layer6','','hide')"><a href="javascript:;" onmouseover="MM_showHideLayers('Layer1','','hide','Layer2','','hide','Layer3','','hide','Layer4','','hide','Layer5','','hide','Layer6','','hide')"><img src="../static/images/transparent.gif" width="15" height="100" border="0" vspace="0" hspace="0"></a></td>
+    </tr>
+	<tr> 
+		<td width="150" valign="middle" bgcolor="#6589BA"><a href="javascript:;" onclick="window.open('../WEBINF/Infolets/Include/Static/frame_sampleItinerary.htm','israel','width=520,height=400,left=100,top=100')" class="V11boldwhite">&nbsp;Sample Itinerary</a></td>
+	</tr>
+    <tr> 
+      <td width="150" valign="middle" bgcolor="#6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enDisplay=view&amp;enDispWho=Learning&amp;enDispWhat=Zone&amp;enZone=Learning&amp;enPage=BlankPage&amp;" class="V11boldwhite">&nbsp;Learning Resources</a></td>
     </tr>
     <tr> 
       <td width="150" valign="middle" bgcolor="#6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enDispWho=Personals&amp;enZone=Personals&amp;" class="V11boldwhite">&nbsp;Personals/Matching</a></td>
-    </tr>
-    <tr> 
-      <td width="150" valign="middle" bgcolor="#6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enDispWho=alumni&amp;enZone=alumni" class="V11boldwhite">&nbsp;Alumni Directory</a></td>
-    </tr>
-    <tr> 
-      <td width="150" valign="middle" bgcolor="#6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enDispWho=MyBus&amp;enZone=MyBus" class="V11boldwhite">&nbsp;MyBus photos</a></td>
     </tr>
     <tr> 
       <td width="150" valign="middle" bgcolor="#6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enDispWho=Ecards&amp;enZone=Ecards&amp;" class="V11boldwhite">&nbsp;eCards</a></td>
@@ -501,13 +544,13 @@ function confirmDelete(URL,item,customMsg)
       <td width="150" valign="middle" bgcolor="#6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enDispWho=Events&amp;enZone=Events&amp;" class="V11boldwhite">&nbsp;Events Calendar</a></td>
     </tr>
     <tr> 
-      <td width="150" valign="middle" bgcolor="#6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enDispWho=CareerOpportunities&amp;enZone=CareerOpportunities&amp;" class="V11boldwhite">&nbsp;Job Opportunities</a></td>
+      <td width="150" valign="middle" bgcolor="#6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enDispWho=CareerOpportunities&amp;enZone=CareerOpportunities&amp;" class="V11boldwhite">&nbsp;Opportunities</a></td>
     </tr>
     <tr> 
       <td width="150" valign="middle" bgcolor="#6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enDispWho=Discussions&amp;enZone=Discussions&amp;" class="V11boldwhite">&nbsp;Message Boards</a></td>
     </tr>
     <tr> 
-      <td width="150" valign="middle" bgcolor="#6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=object&amp;enDispWho=Features%5El305&amp;enZone=Features&amp;enVersion=0&amp;&amp;channel=TheTrip" class="V11boldwhite">&nbsp;Recent Clips</a></td>
+      <td width="150" valign="middle" bgcolor="#6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=object&amp;enDispWho=Features%5El305&amp;enZone=Features&amp;enVersion=0&amp;&amp;channel=TheTrip" class="V11boldwhite">&nbsp;Video/Audio/Shows</a></td>
     </tr>
     <tr> 
       <td width="150" valign="middle" bgcolor="#6589BA"><a href="javascript:;" onclick="window.open('http://web.birthrightisrael.com/aleph/aleph.html','aleph','width=640,height=545')" class="V11boldwhite">&nbsp;Hebrew Lessons</a></td>
@@ -516,24 +559,48 @@ function confirmDelete(URL,item,customMsg)
       <td width="150" valign="middle" bgcolor="#6589BA" class="v1space">&nbsp;</td>
     </tr>
   </tbody></table>
-<a href="javascript:;" onmouseover="MM_showHideLayers('Layer5','','hide')"><img src="../Static/Images/transparent.gif" width="200" height="10" border="0" vspace="0" hspace="0" align="top"></a></div>
+  <a href="javascript:;" onmouseover="MM_showHideLayers('Layer1','','hide','Layer2','','hide','Layer3','','hide','Layer4','','hide','Layer5','','hide','Layer6','','hide')"><img src="../static/images/transparent.gif" width="200" height="10" border="0" vspace="0" hspace="0" align="top"></a></div>
 <!--END OF LAYER 5-->
 <!--LAYER 6-->
-<div id="Layer6" style="position:absolute; width:157px; z-index:1; left: 504px; top: 122; visibility: hidden"> 
-  <table border="0" cellpadding="2" cellspacing="0" width="157">
+<div id="Layer6" style="position:absolute; width:174px; z-index:1; left: 490px; top: 122; visibility: hidden"> 
+  <table border="0" cellpadding="2" cellspacing="0" width="174">
     <tbody><tr> 
-      <td rowspan="3" width="15"><a href="javascript:;" onmouseover="MM_showHideLayers('Layer6','','hide')"><img src="../Static/Images/transparent.gif" width="15" height="20" border="0" vspace="0" hspace="0"></a></td>
-      <td width="127" valign="middle" bgcolor="6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enZone=GoingBack" class="V11boldwhite">&nbsp;Main page</a></td>
-      <td rowspan="3" width="15"><a href="javascript:;" onmouseover="MM_showHideLayers('Layer6','','hide')"><img src="../Static/Images/transparent.gif" width="15" height="20" border="0" vspace="0" hspace="0"></a></td>
+      <td rowspan="10" width="15" onmouseover="MM_showHideLayers('Layer1','','hide')"><a href="javascript:;" onmouseover="MM_showHideLayers('Layer1','','hide','Layer2','','hide','Layer3','','hide','Layer4','','hide','Layer5','','hide','Layer6','','hide')"><img src="../static/images/transparent.gif" width="15" height="130" border="0" vspace="0" hspace="0" name="Image1"></a></td>
+      <td width="144" valign="middle" bgcolor="6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enDispWho=alumni&amp;enZone=alumni" class="V11boldwhite">&nbsp;Alumni 
+        Directory</a></td>
+      <td rowspan="10" width="15" onmouseover="MM_showHideLayers('Layer1','','hide')"><a href="javascript:;" onmouseover="MM_showHideLayers('Layer1','','hide','Layer2','','hide','Layer3','','hide','Layer4','','hide','Layer5','','hide','Layer6','','hide')"><img src="../static/images/transparent.gif" width="15" height="130" border="0" vspace="0" hspace="0"></a></td>
     </tr>
     <tr> 
-      <td width="127" valign="middle" bgcolor="#6589BA"><a href="http://www.birthrightisrael.com/" class="V11boldwhite">&nbsp;Israel Programs</a></td>
+      <td width="144" valign="middle" bgcolor="#6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enDispWho=AboutUs&amp;enZone=AboutUs&amp;enInfolet=../Include/Static/advisory.jsp&amp;" class="V11boldwhite">&nbsp;Alumni 
+        Advisory &nbsp;Board</a></td>
     </tr>
     <tr> 
-      <td width="127" valign="middle" bgcolor="#6589BA" class="v1space">&nbsp;</td>
+      <td width="144" valign="middle" bgcolor="#6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enZone=alumniBus&amp;" class="V11boldwhite">&nbsp;MyBus</a></td>
+    </tr>
+    <tr> 
+      <td width="144" valign="middle" bgcolor="#6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enDispWho=Personals&amp;enZone=Personals&amp;" class="V11boldwhite">&nbsp;Personals</a></td>
+    </tr>
+    <tr> 
+      <td width="144" valign="middle" bgcolor="#6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enZone=GoingBack" class="V11boldwhite">&nbsp;Going 
+        Back</a></td>
+    </tr>
+    <tr> 
+      <td width="144" valign="middle" bgcolor="#6589BA"><a href="en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=object&amp;enDispWho=Features%5El533&amp;enZone=Features&amp;enVersion=0&amp;&amp;channel=TheTrip&amp;type=Profile" class="V11boldwhite">&nbsp;Contest Winners</a></td>
+    </tr>
+     <tr> 
+      <td width="144" valign="middle" bgcolor="#6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enDispWho=Events&amp;enZone=Events&amp;" class="V11boldwhite">&nbsp;Events Calendar</a></td>
+    </tr>
+    <tr> 
+      <td width="144" valign="middle" bgcolor="#6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enDispWho=Discussions&amp;enZone=Discussions&amp;" class="V11boldwhite">&nbsp;Message Boards</a></td>
+    </tr>
+    <tr> 
+      <td width="144" valign="middle" bgcolor="#6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enDispWho=CareerOpportunities&amp;enZone=CareerOpportunities&amp;" class="V11boldwhite">&nbsp;Opportunities</a></td>
+    </tr>
+    <tr> 
+      <td width="144" valign="middle" bgcolor="#6589BA" class="v1space" height="2">&nbsp;</td>
     </tr>
   </tbody></table>
-<a href="javascript:;" onmouseover="MM_showHideLayers('Layer6','','hide')"><img src="../Static/Images/transparent.gif" width="127" height="10" border="0" vspace="0" hspace="0" align="top"></a></div>
+  <a href="javascript:;" onmouseover="MM_showHideLayers('Layer1','','hide','Layer2','','hide','Layer3','','hide','Layer4','','hide','Layer5','','hide','Layer6','','hide')"><img src="../static/images/transparent.gif" border="0" height="10" width="160" vspace="0" hspace="0" align="top"></a></div>
 <!--END OF LAYER 6-->
 <table border="0" width="770" cellspacing="0" cellpadding="0" align="top">
 <!--NAVIGATION TABLE-->
@@ -551,7 +618,7 @@ function confirmDelete(URL,item,customMsg)
 		</tr>
 		<tr bgcolor="afc2dc">
 			<td align="center" height="21">
-			<a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=HomePage" onmouseover="MM_showHideLayers('Layer1','','hide');MM_swapImage('homepage','','../Static/Images/nav_home_on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="../Static/Images/nav_home.gif" width="32" height="21" vspace="0" border="0" hspace="0" name="homepage" alt="Return to the BRI homepage."></a><img src="../Static/Images/nav_dot.gif" width="21" height="21" vspace="0" border="0" hspace="0" name="Image1" onmouseover="MM_showHideLayers('Layer1','','hide')"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enZone=AboutUs" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image01','','../Static/Images/nav_about_on.gif',1);MM_showHideLayers('Layer1','','show');MM_showHideLayers('Layer2','','hide');MM_showHideLayers('Layer3','','hide');MM_showHideLayers('Layer4','','hide');MM_showHideLayers('Layer5','','hide')"><img src="../Static/Images/nav_about.gif" width="56" height="21" vspace="0" border="0" hspace="0" name="Image01"></a><img src="../Static/Images/nav_dot.gif" width="21" height="21" vspace="0" border="0" hspace="0" name="Image1" onmouseover="MM_showHideLayers('Layer1','','hide');MM_showHideLayers('Layer2','','hide')"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enZone=TheTrip" onmouseout="MM_swapImgRestore();MM_showHideLayers('Layer1','','hide')" onmouseover="MM_swapImage('Image21','','../Static/Images/nav_trip_on.gif',1);MM_showHideLayers('Layer2','','show');MM_showHideLayers('Layer1','','hide');MM_showHideLayers('Layer3','','hide');MM_showHideLayers('Layer4','','hide');MM_showHideLayers('Layer5','','hide');MM_showHideLayers('Layer6','','hide')"><img src="../Static/Images/nav_trip.gif" width="49" height="21" vspace="0" border="0" hspace="0" name="Image21"></a><img src="../Static/Images/nav_dot.gif" width="21" height="21" vspace="0" border="0" hspace="0" name="Image3" onmouseover="MM_showHideLayers('Layer2','','hide');MM_showHideLayers('Layer3','','hide')"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enZone=InsideIsrael" onmouseover="MM_swapImage('Image51','','../Static/Images/nav_israel_on.gif',1);MM_showHideLayers('Layer3','','show');MM_showHideLayers('Layer1','','hide');MM_showHideLayers('Layer2','','hide');MM_showHideLayers('Layer4','','hide');MM_showHideLayers('Layer5','','hide');MM_showHideLayers('Layer6','','hide')" onmouseout="MM_swapImgRestore()"><img src="../Static/Images/nav_israel.gif" width="80" height="21" border="0" name="Image51"></a><img src="../Static/Images/nav_dot.gif" width="21" height="21" vspace="0" border="0" hspace="0" name="Image0" onmouseover="MM_showHideLayers('Layer3','','hide');MM_showHideLayers('Layer4','','hide')"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enZone=JewishLife" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image11','','../Static/Images/nav_jewish_on.gif',1);MM_showHideLayers('Layer4','','show');MM_showHideLayers('Layer1','','hide');MM_showHideLayers('Layer2','','hide');MM_showHideLayers('Layer3','','hide');MM_showHideLayers('Layer5','','hide');MM_showHideLayers('Layer6','','hide')"><img src="../Static/Images/nav_jewish.gif" width="69" height="21" vspace="0" border="0" hspace="0" name="Image11"></a><img src="../Static/Images/nav_dot.gif" width="21" height="21" vspace="0" border="0" hspace="0" name="Image2" onmouseover="MM_showHideLayers('Layer4','','hide');MM_showHideLayers('Layer5','','hide')"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enZone=Interactive" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image31','','../Static/Images/nav_interactive_on.gif',1);MM_showHideLayers('Layer5','','show');MM_showHideLayers('Layer1','','hide');MM_showHideLayers('Layer2','','hide');MM_showHideLayers('Layer3','','hide');MM_showHideLayers('Layer4','','hide')"><img src="../Static/Images/nav_interactive.gif" width="72" height="21" vspace="0" border="0" hspace="0" name="Image31"></a><img src="../Static/Images/nav_dot.gif" width="21" height="21" border="0" name="Image5" onmouseover="MM_showHideLayers('Layer5','','hide')"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enZone=GoingBack" onmouseout="MM_swapImgRestore()" onmouseover="MM_showHideLayers('Layer5','','hide');MM_swapImage('Image4','','../Static/Images/nav_back_on.gif',1)"><img src="../Static/Images/nav_back.gif" width="69" height="21" name="Image4" border="0" alt="Israel Programs for BRI alumni and others."></a><img src="../Static/Images/nav_dot.gif" width="21" height="21"><a href="http://avichai.birthrightisrael.com/bin/en.jsp?enDisplay=view&amp;enZone=Books&amp;enPage=BookPage&amp;enInfolet=MainBook.jsp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image6','','../Static/Images/avichailink_on.gif',1)"><img src="../Static/Images/avichailink.gif" width="116" height="21" name="Image6" border="0" alt="The AVI CHAI Foundation offers all birthright israel participants a gift of free books and periodicals."></a></td>
+			<a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=HomePage" onmouseover="MM_showHideLayers('Layer1','','hide');MM_swapImage('homepage','','../Static/Images/nav_home_on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="../Static/Images/nav_home.gif" width="32" height="21" vspace="0" border="0" hspace="0" name="homepage" alt="Return to the BRI homepage."></a><img src="../Static/Images/nav_dot.gif" width="21" height="21" vspace="0" border="0" hspace="0" name="Image1" onmouseover="MM_showHideLayers('Layer1','','hide')"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enZone=AboutUs" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image01','','../Static/Images/nav_about_on.gif',1);MM_showHideLayers('Layer1','','show');MM_showHideLayers('Layer2','','hide');MM_showHideLayers('Layer3','','hide');MM_showHideLayers('Layer4','','hide');MM_showHideLayers('Layer5','','hide')"><img src="../Static/Images/nav_about.gif" width="56" height="21" vspace="0" border="0" hspace="0" name="Image01"></a><img src="../Static/Images/nav_dot.gif" width="21" height="21" vspace="0" border="0" hspace="0" name="Image1" onmouseover="MM_showHideLayers('Layer1','','hide');MM_showHideLayers('Layer2','','hide')"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enZone=TheTrip" onmouseout="MM_swapImgRestore();MM_showHideLayers('Layer1','','hide')" onmouseover="MM_swapImage('Image21','','../Static/Images/nav_trip_on.gif',1);MM_showHideLayers('Layer2','','show');MM_showHideLayers('Layer1','','hide');MM_showHideLayers('Layer3','','hide');MM_showHideLayers('Layer4','','hide');MM_showHideLayers('Layer5','','hide');MM_showHideLayers('Layer6','','hide')"><img src="../Static/Images/nav_trip.gif" width="49" height="21" vspace="0" border="0" hspace="0" name="Image21"></a><img src="../Static/Images/nav_dot.gif" width="21" height="21" vspace="0" border="0" hspace="0" name="Image3" onmouseover="MM_showHideLayers('Layer2','','hide');MM_showHideLayers('Layer3','','hide')"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enZone=InsideIsrael" onmouseover="MM_swapImage('Image51','','../Static/Images/nav_israel_on.gif',1);MM_showHideLayers('Layer3','','show');MM_showHideLayers('Layer1','','hide');MM_showHideLayers('Layer2','','hide');MM_showHideLayers('Layer4','','hide');MM_showHideLayers('Layer5','','hide');MM_showHideLayers('Layer6','','hide')" onmouseout="MM_swapImgRestore()"><img src="../Static/Images/nav_israel.gif" width="80" height="21" border="0" name="Image51"></a><img src="../Static/Images/nav_dot.gif" width="21" height="21" vspace="0" border="0" hspace="0" name="Image0" onmouseover="MM_showHideLayers('Layer3','','hide');MM_showHideLayers('Layer4','','hide')"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enZone=JewishLife" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image11','','../Static/Images/nav_jewish_on.gif',1);MM_showHideLayers('Layer4','','show');MM_showHideLayers('Layer1','','hide');MM_showHideLayers('Layer2','','hide');MM_showHideLayers('Layer3','','hide');MM_showHideLayers('Layer5','','hide');MM_showHideLayers('Layer6','','hide')"><img src="../Static/Images/nav_jewish.gif" width="69" height="21" vspace="0" border="0" hspace="0" name="Image11"></a><img src="../Static/Images/nav_dot.gif" width="21" height="21" vspace="0" border="0" hspace="0" name="Image2" onmouseover="MM_showHideLayers('Layer4','','hide');MM_showHideLayers('Layer5','','hide')"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enZone=Interactive" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image31','','../Static/Images/nav_interactive_on.gif',1);MM_showHideLayers('Layer5','','show');MM_showHideLayers('Layer1','','hide');MM_showHideLayers('Layer2','','hide');MM_showHideLayers('Layer3','','hide');MM_showHideLayers('Layer4','','hide');MM_showHideLayers('Layer6','','hide');"><img src="../Static/Images/nav_interactive.gif" width="72" height="21" vspace="0" border="0" hspace="0" name="Image31"></a><img src="../Static/Images/nav_dot.gif" width="21" height="21" border="0" name="Image5" onmouseover="MM_showHideLayers('Layer5','','hide')"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enDispWho=alumni&amp;enZone=alumni" onmouseout="MM_swapImgRestore()" onmouseover="MM_showHideLayers('Layer6','','show');MM_showHideLayers('Layer5','','hide');MM_swapImage('Image4','','../Static/Images/nav_alumni_on.gif',1)"><img src="../Static/Images/nav_alumni.gif" width="99" height="21" name="Image4" border="0" alt=""></a><img src="../Static/Images/nav_dot.gif" width="21" height="21"><a href="http://avichai.birthrightisrael.com/bin/en.jsp?enDisplay=view&amp;enZone=Books&amp;enPage=BookPage&amp;enInfolet=MainBook.jsp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image6','','../Static/Images/avichailink_on.gif',1)"><img src="../Static/Images/avichailink.gif" width="116" height="21" name="Image6" border="0" alt="The AVI CHAI Foundation offers all North American birthright israel participants a gift of free books and periodicals."></a></td>
 		</tr>
 		<tr>
 			<td height="2" width="770"><img src="../Static/Images/transparent.gif" width="1" height="2" vspace="0" hspace="0" border="0"></td>
@@ -563,7 +630,6 @@ function confirmDelete(URL,item,customMsg)
 	</td>
 </tr>
 </tbody></table>
-
 
 
 <table border="0" width="770" cellspacing="0" cellpadding="0">
@@ -716,10 +782,10 @@ function confirmDelete(URL,item,customMsg)
 				<table border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr>
 				
-					<td><a href="http://avichai.birthrightisrael.com/bin/en.jsp?enPage=BookPage&amp;enDisplay=view&amp;enDispWhat=object&amp;enDispWho=Books%5El264&amp;enZone=IsraelKI&amp;enVersion=0&amp;"><img src="http://www.birthrightisrael.com/Static/Binaries/Avichai/foodsofisrael_0.jpg" width="71" height="50" align="left" hspace="1" border="1" vspace="0"></a></td>
-					<td><img src="../Static/Images/transparent.gif" width="6" height="50" hspace="0" border="0" align="left" vspace="0"><a href="http://avichai.birthrightisrael.com/bin/en.jsp?enPage=BookPage&amp;enDisplay=view&amp;enDispWhat=object&amp;enDispWho=Books%5El264&amp;enZone=IsraelKI&amp;enVersion=0&amp;" class="V11darkgreenbold">The Foods of Israel Today</a><br>
-					<span class="V10black">Prescription for those suffering from Israel-deprivation</span><br>
-					<a href="http://avichai.birthrightisrael.com/bin/en.jsp?enPage=BookPage&amp;enDisplay=view&amp;enDispWhat=object&amp;enDispWho=Books%5El264&amp;enZone=IsraelKI&amp;enVersion=0&amp;" class="V10darkgreenbold">Read more &gt;&gt;</a>
+					<td><a href="http://avichai.birthrightisrael.com/bin/en.jsp?enPage=BookPage&amp;enDisplay=view&amp;enDispWhat=object&amp;enDispWho=Books%5El125&amp;enZone=ShabHol"><img src="http://www.birthrightisrael.com/Static/Binaries/Avichai/passover0319_1.jpg" width="71" height="50" align="left" hspace="1" border="1" vspace="0"></a></td>
+					<td><img src="../Static/Images/transparent.gif" width="6" height="50" hspace="0" border="0" align="left" vspace="0"><a href="http://avichai.birthrightisrael.com/bin/en.jsp?enPage=BookPage&amp;enDisplay=view&amp;enDispWhat=object&amp;enDispWho=Books%5El125&amp;enZone=ShabHol" class="V11darkgreenbold">The Passover Haggadah</a><br>
+					<span class="V10black">A gateway to a deeper understanding of Jewish thought and ritual.</span><br>
+					<a href="http://avichai.birthrightisrael.com/bin/en.jsp?enPage=BookPage&amp;enDisplay=view&amp;enDispWhat=object&amp;enDispWho=Books%5El125&amp;enZone=ShabHol" class="V10darkgreenbold">Read more &gt;&gt;</a>
 					
 					</td>
 					</tr>
@@ -749,7 +815,7 @@ function confirmDelete(URL,item,customMsg)
 <table border="0" width="770" cellspacing="0" cellpadding="0">
 <tbody><tr>
 	<td class="copyrightlink" bgcolor="afc2dc" align="center" width="770" height="15">
-	© 2000-2002 <a href="en.jsp?enPage=HomePage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;" class="copyrightlink">birthright israel</a>.<a href="en.jsp?enPage=BlankPage&amp;enInfolet=..%2FInclude%2FStatic%2Fterms.jsp&amp;" class="copyrightlink">
+	© 2000-2003 <a href="en.jsp?enPage=HomePage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;" class="copyrightlink">birthright israel</a>.<a href="en.jsp?enPage=BlankPage&amp;enInfolet=..%2FInclude%2FStatic%2Fterms.jsp&amp;" class="copyrightlink">
 	&nbsp;&nbsp;Terms of Use</a>.<a href="en.jsp?enPage=BlankPage&amp;enInfolet=..%2FInclude%2FStatic%2Fprivacy.jsp&amp;" class="copyrightlink">&nbsp;&nbsp;&nbsp;Privacy policy</a>.
 	<a href="en.jsp?enPage=BlankPage&amp;enInfolet=..%2FInclude%2FStatic%2Fsite_credits.jsp&amp;" class="copyrightlink">&nbsp;&nbsp;Site credits</a>.<a href="en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enInfolet=../Include/contactus.jsp&amp;" class="copyrightlink">&nbsp;&nbsp;Contact us</a>.
 	
