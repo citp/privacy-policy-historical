@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bluenile.com privacy policy that was archived on 2001-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011217182715id_/http%3A//www.bluenile.com/privacy.asp%3Ftrack%3D59) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bluenile.com privacy policy that was archived on 2002-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020601144949id_/http%3A//www.bluenile.com/privacy.asp%3Ftrack%3D59) for the most accurate reproduction.-->
 
 <html><head><meta name="imageid" content="/assets/images/item/item_pxlclear.gif">
 <meta name="description" content="Blue Nile is concerned about your privacy. We post and clearly state our privacy policy for your review.">
@@ -15,18 +15,20 @@
 <!--stopindex-->
 
 <style type="text/css">
-.SideNavMenus {
-	position:absolute;
-	top:0;
-	left:0;
-	z-index:100;
-	visibility:hidden
-}
-.SideNavDropDown {
-	width:125;
-	font-family:Verdana;
-	font-size:xx-small
-}
+
+	.SideNavMenus {
+		position:absolute;
+		top:0;
+		left:0;
+		z-index:100;
+		visibility:hidden
+	}
+	.SideNavDropDown {
+		width:125;
+		font-family:Verdana;
+		font-size:xx-small
+	}
+	
 .PagingFilterDropDown {
 	font-family:Verdana;
 	font-size=xx-small
@@ -34,17 +36,21 @@
 </style>
 
 
+	<script language="JavaScript">
+	<!--
+	   NS4 = (document.layers) ? 1 : 0;
+	   IE4 = (document.all) ? 0 : 0;
+	   NS6 = (document.getElementById && !document.all) ? 0 : 0;
 
-<script language="JavaScript">
-<!--
-   NS4 = (document.layers) ? 1 : 0;
-   IE4 = (document.all) ? 0 : 0;
-   NS6 = (document.getElementById && !document.all) ? 0 : 0;
-
-  ver4 = (NS4 || IE4 || NS6) ? 1 : 0;
- isMac = (navigator.appVersion.indexOf("Mac") != -1) ? 1 : 0;
-isMenu = (NS4 || IE4 || NS6) ? 1 : 0;
-
+	  ver4 = (NS4 || IE4 || NS6) ? 1 : 0;
+	 isMac = (navigator.appVersion.indexOf("Mac") != -1) ? 1 : 0;
+	isMenu = (NS4 || IE4 || NS6) ? 1 : 0;
+	var arrMenuSearch = new Array("/diamond_search.asp?track=54","Diamond Search","/jewelry_search.asp?track=54","Gifts by Price")
+	arrMenuSearch.name = "search"
+	var arrMenuProduct = new Array("/diamond_channel.asp?track=54","Loose Diamonds","/settings_channel.asp?track=54","Engagement Rings","/band_channel.asp?track=54","Wedding & Anniversary Rings","/ring_channel.asp?track=54","Rings","/earring_channel.asp?track=54","Earrings","/necklace_channel.asp?track=54","Necklaces & Pendants","/bracelet_channel.asp?track=54","Bracelets","/mens_watch_channel.asp?track=54","Men&#8217;s Watches","/womens_watch_channel.asp?track=54","Women&#8217;s Watches","/acc_channel.asp?track=54","Accessories")
+	arrMenuProduct.name = "product"
+	var arrMenuMaterial = new Array("/diamond_jewelry.asp?track=54","Diamond Jewelry","/pearl_jewelry.asp?track=54","Pearl Jewelry","/gemstone_jewelry.asp?track=54","Gemstone Jewelry","/gold_jewelry.asp?track=54","Gold Jewelry","/platinum_jewelry.asp?track=54","Platinum Jewelry","/silver_jewelry.asp?track=54","Silver Jewelry")
+	arrMenuMaterial.name = "material"
 
 	if (isMenu) {
 		var isOverLink = false;
@@ -54,31 +60,25 @@ isMenu = (NS4 || IE4 || NS6) ? 1 : 0;
 		imgBulletOff.src = "/assets/images/item/item_purplebullet.gif";
 		imgBulletOn = new Image();
 		imgBulletOn.src = "/assets/images/item/item_whitebullet.gif";
-
-
-		var arrMenuSearch = new Array("/diam_search.asp?track=54","Diamond Search","/jewelry_search.asp?track=54","Jewelry Search")
-		arrMenuSearch.name = "search"
-		var arrMenuProduct = new Array("/diam_channel.asp?track=54","Loose Diamonds","/settings_channel.asp?track=54","Engagement Settings","/ring_channel.asp?track=54","Rings & Bands","/ear_channel.asp?track=54","Earrings","/neck_channel.asp?track=54","Necklaces & Pendants","/brac_channel.asp?track=54","Bracelets","/mens_watch_channel.asp?track=54","Men&#8217;s Watches","/womens_watch_channel.asp?track=54","Women&#8217;s Watches","/acc_channel.asp?track=54","Accessories")
-		arrMenuProduct.name = "product"
-		var arrMenuOccasion = new Array("/recommend_channel.asp?track=54","Holiday Gift Ideas","/engagement_channel.asp?track=54","Engagement","/wedding_channel.asp?track=54","Wedding","/product_catalog.asp?catid=86&track=54","Anniversary")
-		arrMenuOccasion.name = "occasion"
-		var arrMenuMaterial = new Array("/diam_jewelry.asp?track=54","Diamond Jewelry","/pearl_jewelry.asp?track=54","Pearl Jewelry","/gemstone_jewelry.asp?track=54","Gemstone Jewelry","/goldplat_jewelry.asp?track=54","Gold & Platinum Jewelry","/silver_jewelry.asp?track=54","Silver Jewelry")
-		arrMenuMaterial.name = "material"
+		imgArrowOff = new Image();
+		imgArrowOff.src = "/assets/images/shell/shell_snav_arrow.gif";
+		imgArrowOn = new Image();
+		imgArrowOn.src = "/assets/images/shell/shell_snav_arrow_on.gif";
 
 		
 
 		function DisplayMenus(MenuName,arrMenus) {
 			
-				strMC = "<LAYER NAME='" + MenuName + "_menu' VISIBILITY='HIDDEN' OnMouseOver='menuShow();' OnMouseOut='hideMenu()'><TABLE WIDTH='102' CELLSPACING='0' CELLPADDING='0' BORDER='0'><TR>";
+				strMC = "<LAYER NAME='" + MenuName + "_menu' VISIBILITY='HIDDEN' OnMouseOver='menuShow();' OnMouseOut='hideMenu()'><TABLE WIDTH='127' CELLSPACING='0' CELLPADDING='0' BORDER='0'><TR>";
 				
 			strMC += "<TD WIDTH='127' COLSPAN='3'><IMG SRC='/assets/images/item/item_menutop.gif' WIDTH='127' HEIGHT='3'></TD></TR><TR><TD BGCOLOR='#B1BDCD' WIDTH='125'><TABLE BORDER='0' CELLPADDING='2' CELLSPACING='0' WIDTH='125' OnMouseOver='menuShow();'>"
 			for (i=0;i<arrMenus.length;i=i+2) {
 				strElementName = arrMenus.name + i
-				if (i != 0) {
-					strMC += "<TR><TD ALIGN='CENTER' COLSPAN='2'><IMG SRC='/assets/images/item/item_menurule.gif' WIDTH='115' HEIGHT='1'></TR>";
+				if (strElementName == 'product4' || strElementName == 'product14') {
+					strMC += "<TR><TD ALIGN='CENTER' COLSPAN='2'><IMG SRC='/assets/images/item/item_menurule.gif' WIDTH='115' HEIGHT='1' VSPACE='3'></TR>";
 				}
 				
-					strMC += "<TR><TD VALIGN='TOP' WIDTH='12'><IMG SRC='/assets/images/item/item_purplebullet.gif' WIDTH='5' HEIGHT='5' HSPACE='3' VSPACE='3' NAME='menu_" + strElementName + "'></TD><TD WIDTH='113'><A HREF='" + arrMenus[i] + "' OnMouseOver='window.status=\"" + arrMenus[i+1] + "\";document.menu_" + strElementName + ".src=imgBulletOn.src;return true;' OnMouseOut='window.status=\"\";document.menu_" + strElementName + ".src=imgBulletOff.src;return true;'><font color='#663366' face='Verdana' size='1'>" + arrMenus[i+1] + "</font></A></TD></TR>";
+					strMC += "<TR><TD VALIGN='TOP' WIDTH='12'><IMG SRC='/assets/images/item/item_pxlclear.gif' width='5' height='1'><IMG SRC='/assets/images/item/item_purplebullet.gif' WIDTH='5' HEIGHT='5' HSPACE='1' VSPACE='5' NAME='menu_" + strElementName + "'></TD><TD WIDTH='113'><A HREF='" + arrMenus[i] + "' OnMouseOver='window.status=\"" + arrMenus[i+1] + "\";document.menu_" + strElementName + ".src=imgBulletOn.src;return true;' OnMouseOut='window.status=\"\";document.menu_" + strElementName + ".src=imgBulletOff.src;return true;'><font color='#663366' face='Verdana' size='1'>" + arrMenus[i+1] + "</font></A></TD></TR>";
 					
 			}
 			strMC += "</TABLE></TD><TD BGCOLOR='#9F9F9F' WIDTH='1'><IMG SRC='/assets/images/item/item_pxlclear.gif' WIDTH='1' HEIGHT='1'></TD><TD BGCOLOR='#DEDEDE' WIDTH='1'><IMG SRC='/assets/images/item/item_pxlclear.gif' WIDTH='1' HEIGHT='1'></TD></TR><TR><TD WIDTH='127' COLSPAN='3'><IMG SRC='/assets/images/item/item_menubottom.gif' WIDTH='127' HEIGHT='4'></TD></TR></TABLE>";
@@ -107,6 +107,7 @@ isMenu = (NS4 || IE4 || NS6) ? 1 : 0;
 					}
 
 					activeHeader = eval("document.images." + menu_basename + "_image;");
+					activeArrow = eval("document.images." + menu_basename + "_arrow;");
 
 					if (NS6) {
 						activeMenu = eval("document.getElementById('" + menu_basename + "_menu');");
@@ -128,8 +129,8 @@ isMenu = (NS4 || IE4 || NS6) ? 1 : 0;
 						left += 20;
 					} else {
 						
-							top += 3;
-							left += activeHeader.width + 5;
+							top += 1;
+							left += activeHeader.width + 18;
 							
 					}
 
@@ -152,6 +153,7 @@ isMenu = (NS4 || IE4 || NS6) ? 1 : 0;
 					clearTimeout(idMenuFade);
 					activeMenu.visibility = 'show';
 				}
+				if (activeArrow) { activeArrow.src=imgArrowOn.src; }
 			}
 		}
 
@@ -163,6 +165,7 @@ isMenu = (NS4 || IE4 || NS6) ? 1 : 0;
 				} else {
 					activeMenu.visibility = 'hide';
 				}
+				if (activeArrow) { activeArrow.src=imgArrowOff.src; }
 			}
 		}
 
@@ -174,108 +177,62 @@ isMenu = (NS4 || IE4 || NS6) ? 1 : 0;
 			}
 		}
 	}
+	//-->
+	</script>
 	
-//-->
-</script>
-
 
 </head>
 
 
 	<body bgcolor="#FFFFFF" leftmargin="0" rightmargin="0" topmargin="0" marginwidth="0" marginheight="0" text="#555555" link="#660F57" vlink="#663366" alink="#663366">
 	
-
-
-<script language="JavaScript">
-<!--
-
+	<script language="JavaScript">
+	<!--
 	if (isMenu) {
 		document.write (DisplayMenus("search",arrMenuSearch));
 		document.write (DisplayMenus("shopbyproduct",arrMenuProduct));
-		document.write (DisplayMenus("shopbyoccasion",arrMenuOccasion));
 		document.write (DisplayMenus("shopbymaterial",arrMenuMaterial));
 		
 	}
+	//-->
+	</script>
 	
-//-->
-</script>
 
-
-
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#5B7290"><tbody><tr>
-	<td align="LEFT"><table width="670" border="0" cellpadding="0" cellspacing="0"><tbody><tr>
-	<td><a href="/default.asp?track=49"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/item/item_mainlogo_a.jpg" border="0" width="551" height="95"></a></td>
-		<td valign="BOTTOM"><table border="0" cellpadding="0" cellspacing="0" width="119">
-			<tbody><tr><td><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/item/item_toppiece.gif" width="119" height="17" alt="" border="0"></td></tr>
-			<tr><td><nobr><a href="http://secure.bluenile.com/favorite/favorite_item.jsp?track=50"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/toprightnav/toprightnav_myfavorites.gif" width="119" height="15" alt="My Favorites" name="aboutbluenile" border="0"></a></nobr></td></tr>
-			<tr><td><nobr><a href="http://www.bluenile.com/services_channel.asp?track=50"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/toprightnav/toprightnav_insurancefinancing.gif" width="119" height="15" alt="Financing and Insurance" name="insuranceandfinancing" border="0"></a></nobr></td></tr>
-			<tr><td><nobr><a href="http://secure.bluenile.com/order_status_login.jsp?track=50"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/toprightnav/toprightnav_orderstatus.gif" width="119" height="15" alt="Order Status" border="0"></a></nobr></td></tr>
-			<tr><td><nobr><a href="http://secure.bluenile.com/basket.jsp?track=50"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/toprightnav/toprightnav_shoppingbasket.gif" width="119" height="15" alt="Shopping Basket" border="0" name="shoppingbasket"></a></nobr></td></tr>
-			<tr><td valign="TOP"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/item/item_bottompiece.gif" width="119" height="18" border="0"></td></tr>
-		</tbody></table></td>
-	</tr></tbody></table></td>
-</tr></tbody></table>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#003366" background="/assets/images/item/item_bluebg.gif"><tbody><tr>
-	<td align="LEFT"><table width="670" border="0" cellpadding="0" cellspacing="0"><tbody><tr>
-		<td align="RIGHT"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr>
-			<td><a href="http://www.bluenile.com/diam_channel.asp?track=51"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/topnav/topnav_loosediamonds.gif" name="loose_diamonds" border="0" alt="Loose Diamonds" height="28" width="97"></a></td>
-			<td><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/item/item_topnavspacer.gif" height="28" width="3" hspace="6"></td>
-			<td><a href="http://www.bluenile.com/engagement_channel.asp?track=51"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/topnav/topnav_engagements.gif" name="engagements" border="0" alt="Engagement" height="28" width="77"></a></td>
-			<td><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/item/item_topnavspacer.gif" height="28" width="3" hspace="6"></td>
-			<td><a href="http://www.bluenile.com/wedding_channel.asp?track=51"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/topnav/topnav_wedding.gif" name="wedding" border="0" alt="Wedding" height="28" width="53"></a></td>
-			<td><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/item/item_topnavspacer.gif" height="28" width="3" hspace="6"></td>
-			<td><a href="http://www.bluenile.com/recommend_channel.asp?track=51"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/topnav/topnav_holidaygiftideas.gif" width="105" height="28" alt="Holiday Gift Ideas" border="0"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/item/item_giftbox_b.gif" width="23" height="28" alt="Gift Box" border="0"></a></td>
-			<td><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/item/item_topnavspacer.gif" height="28" width="3" hspace="6"></td>
-			<td><a href="http://www.bluenile.com/educ_channel.asp?track=51"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/topnav/topnav_producteducation.gif" name="producteducation" border="0" alt="Product Education" height="28" width="110"></a></td>
-		</tr></tbody></table></td>
-	</tr></tbody></table></td>
-</tr></tbody></table>
-
-
-
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr>
-	<td align="LEFT"><table width="670" border="0" cellpadding="0" cellspacing="0"><tbody><tr>
-		<td align="LEFT" valign="TOP"><table width="150" border="0" cellpadding="0" cellspacing="0">
-
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#003366"><tbody><tr>
+	<td align="LEFT"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr>
+	<td width="675"><a href="/default.asp?track=49"><img src="/assets/images/shell/shell_header.gif" width="675" height="68" border="0" alt="Diamonds, Engagement Rings and Fine Jewelry at Blue Nile"></a></td>
+	
+		<td width="102"><font color="#555555" face="Verdana" size="1">
+			<nobr><img src="/assets/images/item/item_whitebullet.gif" width="5" height="5" hspace="4" vspace="6" align="MIDDLE"><a href="https://secure.bluenile.com/order_status.jsp?track=50"><img src="/assets/images/shell/shell_header_orderstatus.gif" width="80" height="11" border="0" align="MIDDLE"></a></nobr><br>
+			<nobr><img src="/assets/images/item/item_whitebullet.gif" width="5" height="5" hspace="4" vspace="6" align="MIDDLE"><a href="http://secure.bluenile.com/favorite/favorite_item.jsp?track=50"><img src="/assets/images/shell/shell_header_myfavorites.gif" width="80" height="11" border="0" align="MIDDLE"></a></nobr><br>
+			<nobr><img src="/assets/images/item/item_whitebullet.gif" width="5" height="5" hspace="4" vspace="6" align="MIDDLE"><a href="http://secure.bluenile.com/basket.jsp?track=50"><img src="/assets/images/shell/shell_header_shoppingbasket.gif" width="80" height="11" border="0" align="MIDDLE"></a></nobr>
+		</font></td>
 		
-	<tbody><tr>
-		<td valign="TOP" width="125"><a href="" onmouseover="setMenu('search');" onmouseout="hideMenu()" onclick="return false;"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/sidenav/sidenav_searcharrow.gif" name="search_image" border="0" height="17" width="125"></a></td>
-		<td valign="TOP" width="5" colspan="5"><a href="" onmouseover="setMenu('search');" onmouseout="hideMenu()" onclick="return false;"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/item/item_sidenavtabtop.gif" border="0" height="17" width="5"></a></td>
-		<td valign="TOP" width="20"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/item/item_underbarfade.jpg" border="0" height="2" width="20"></td>
+	</tr></tbody></table></td>
+</tr></tbody></table>
+
+
+	<table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr>
+		<td align="LEFT" valign="TOP" bgcolor="#E7EBF0" width="130"><table width="130" border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+	<td><img src="/assets/images/shell/shell_dongle.gif" width="130" height="33"></td>
+</tr>
+<tr>
+	<td bgcolor="#FFFFFF"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="3"></td>
+</tr>
+
+
+	<tr>
+		<td valign="TOP" width="130"><a href="" onmouseover="setMenu('search');" onmouseout="hideMenu()" onclick="return false;"><img src="/assets/images/shell/shell_snav_search.gif" name="search_image" border="0" height="17" width="113"><img src="/assets/images/shell/shell_snav_arrow.gif" name="search_arrow" border="0" height="17" width="17"></a><img src="/assets/images/item/item_pxlclear.gif" width="1" height="6" border="0"></td>
 	</tr>
 	<form name="seek1" method="GET" action="http://www.bluenile.com/keyword_content_check.asp"></form>
 	<tr>
 		<td valign="TOP" width="130">
-
-		<script language="javascript">
-		<!--
-		function seek1SetCols(v) {
-			for (i=0;i<document.seek1.elements.length;i++) {
-				if (document.seek1.elements[i].name=='col') {
-					document.seek1.elements[i].checked=v
-				}
-			}
-		}
-		//-->
-		</script>
-
 		
 			<input type="hidden" name="internal" value="1">
 			
 		&nbsp;&nbsp;<input type="text" name="qt" size="8" value="" maxlength="256">
-		<input type="image" src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/but/but_go.gif" border="0" width="34" height="15"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="6" border="0">		</td>
-		
-	<td width="1" bgcolor="#E3E3E3"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	<td width="1" bgcolor="#EBEBEB"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	<td width="1" bgcolor="#F2F2F2"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	<td width="1" bgcolor="#F7F7F7"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	<td width="1" bgcolor="#FBFBFD"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	<td width="20"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	
-		<td valign="TOP" width="20"></td>
+		<input type="IMAGE" src="/assets/images/shell/shell_but_go.gif" border="0" width="25" height="20"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="6" border="0"></td>
 	</tr>
 	
 	<script name="JavaScript">
@@ -286,113 +243,40 @@ isMenu = (NS4 || IE4 || NS6) ? 1 : 0;
 	//-->
 	</script><form name="SideNavForm"></form>
 	<tr>
-		<td valign="TOP" width="125"><script name="JavaScript">
-		<!--
-			if (!isMenu) {
-				document.write ("<FONT SIZE='2'><SELECT NAME='Nav1' OnChange='location.href=this.options[this.options.selectedIndex].value' CLASS='SideNavDropDown'>")
-				document.write ("<OPTION VALUE=''>search</OPTION>")
-				document.write ("<OPTION VALUE='jewelry_search.asp?track=55'>Jewelry Search</OPTION>")
-				document.write ("<OPTION VALUE='diam_search.asp?track=55'>Diamond Search</OPTION>")
-				document.write ("</SELECT>")
-			}
-		//-->
-		</script><font size="2"><select name="Nav1" onchange="location.href=this.options[this.options.selectedIndex].value" class="SideNavDropDown"><option value="">search</option><option value="jewelry_search.asp?track=55">Jewelry Search</option><option value="diam_search.asp?track=55">Diamond Search</option></select><img src="/assets/images/item/item_pxlclear.gif" width="1" height="6"></font></td>
-		
-	<td width="1" bgcolor="#E3E3E3"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	<td width="1" bgcolor="#EBEBEB"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	<td width="1" bgcolor="#F2F2F2"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	<td width="1" bgcolor="#F7F7F7"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	<td width="1" bgcolor="#FBFBFD"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	<td width="20"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	
+		<td valign="TOP" width="130"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="6"></td>
 	</tr>
 	<tr>
-		<td valign="TOP" width="125"><a href="" onmouseover="setMenu('shopbyproduct');" onmouseout="hideMenu()" onclick="return false;"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/sidenav/sidenav_shopbyproductarrow.gif" name="shopbyproduct_image" border="0" height="17" width="125"></a></td>
-		<td valign="TOP" width="25" colspan="6"><a href="" onmouseover="setMenu('shopbyproduct');" onmouseout="hideMenu()" onclick="return false;"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/item/item_sidenavtab.gif" border="0" height="17" width="5"></a></td>
+		<td valign="TOP" width="130"><a href="" onmouseover="setMenu('shopbyproduct');" onmouseout="hideMenu()" onclick="return false;"><img src="/assets/images/shell/shell_snav_shopbyproduct.gif" name="shopbyproduct_image" border="0" height="17" width="113"><img src="/assets/images/shell/shell_snav_arrow.gif" name="shopbyproduct_arrow" border="0" height="17" width="17"></a></td>
 	</tr>
 	<tr>
-		<td valign="TOP" width="125"><script name="JavaScript">
+		<td valign="TOP" width="130"><script name="JavaScript">
 		<!--
 			if (!isMenu) {
 				document.write ("<FONT SIZE='2'><SELECT NAME='Nav2' OnChange='location.href=this.options[this.options.selectedIndex].value' CLASS='SideNavDropDown'>")
-				document.write ("<OPTION VALUE=''>shop by product</OPTION>")
-				document.write ("<OPTION VALUE='diam_channel.asp?track=55'>Loose Diamonds</OPTION>")
-				document.write ("<OPTION VALUE='settings_channel.asp?track=55'>Engagement Settings</OPTION>")
-				document.write ("<OPTION VALUE='ring_channel.asp?track=55'>Rings & Bands</OPTION>")
-				document.write ("<OPTION VALUE='ear_channel.asp?track=55'>Earrings</OPTION>")
-				document.write ("<OPTION VALUE='neck_channel.asp?track=55'>Necklaces</OPTION>")
-				document.write ("<OPTION VALUE='brac_channel.asp?track=55'>Bracelets</OPTION>")
-				document.write ("<OPTION VALUE='mens_watch_channel.asp?track=55'>Men&#8217;s Watches</OPTION>")
-				document.write ("<OPTION VALUE='womens_watch_channel.asp?track=55'>Women&#8217;s Watches</OPTION>")
-				document.write ("<OPTION VALUE='acc_channel.asp?track=55'>Accessories</OPTION>")
+				document.write ("<OPTION VALUE=''>Shop by Product</OPTION>")
+				for (i=0;i<arrMenuProduct.length;i=i+2) {
+					document.write ("<OPTION VALUE='" + arrMenuProduct[i] + "?track=55'>" + arrMenuProduct[i+1] + "</OPTION>")
+				}
 				document.write ("</SELECT>")
 			}
 		//-->
-		</script><font size="2"><select name="Nav2" onchange="location.href=this.options[this.options.selectedIndex].value" class="SideNavDropDown"><option value="">shop by product</option><option value="diam_channel.asp?track=55">Loose Diamonds</option><option value="settings_channel.asp?track=55">Engagement Settings</option><option value="ring_channel.asp?track=55">Rings &amp; Bands</option><option value="ear_channel.asp?track=55">Earrings</option><option value="neck_channel.asp?track=55">Necklaces</option><option value="brac_channel.asp?track=55">Bracelets</option><option value="mens_watch_channel.asp?track=55">Men’s Watches</option><option value="womens_watch_channel.asp?track=55">Women’s Watches</option><option value="acc_channel.asp?track=55">Accessories</option></select><img src="/assets/images/item/item_pxlclear.gif" width="1" height="6"></font></td>
-		
-	<td width="1" bgcolor="#E3E3E3"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	<td width="1" bgcolor="#EBEBEB"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	<td width="1" bgcolor="#F2F2F2"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	<td width="1" bgcolor="#F7F7F7"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	<td width="1" bgcolor="#FBFBFD"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	<td width="20"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	
+		</script><font size="2"><select name="Nav2" onchange="location.href=this.options[this.options.selectedIndex].value" class="SideNavDropDown"><option value="">Shop by Product</option><option value="/diamond_channel.asp?track=54?track=55">Loose Diamonds</option><option value="/settings_channel.asp?track=54?track=55">Engagement Rings</option><option value="/band_channel.asp?track=54?track=55">Wedding &amp; Anniversary Rings</option><option value="/ring_channel.asp?track=54?track=55">Rings</option><option value="/earring_channel.asp?track=54?track=55">Earrings</option><option value="/necklace_channel.asp?track=54?track=55">Necklaces &amp; Pendants</option><option value="/bracelet_channel.asp?track=54?track=55">Bracelets</option><option value="/mens_watch_channel.asp?track=54?track=55">Men’s Watches</option><option value="/womens_watch_channel.asp?track=54?track=55">Women’s Watches</option><option value="/acc_channel.asp?track=54?track=55">Accessories</option></select><img src="/assets/images/item/item_pxlclear.gif" width="1" height="6"></font></td>
 	</tr>
 	<tr>
-		<td valign="TOP" width="125"><a href="" onmouseover="setMenu('shopbymaterial');" onmouseout="hideMenu()" onclick="return false;"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/sidenav/sidenav_shopbymaterialarrow.gif" name="shopbymaterial_image" border="0" height="17" width="125"></a></td>
-		<td valign="TOP" width="25" colspan="6"><a href="" onmouseover="setMenu('shopbymaterial');" onmouseout="hideMenu()" onclick="return false;"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/item/item_sidenavtab.gif" border="0" height="17" width="5"></a></td>
+		<td valign="TOP" width="130"><a href="" onmouseover="setMenu('shopbymaterial');" onmouseout="hideMenu()" onclick="return false;"><img src="/assets/images/shell/shell_snav_shopbymaterial.gif" name="shopbymaterial_image" border="0" height="17" width="113"><img src="/assets/images/shell/shell_snav_arrow.gif" name="shopbymaterial_arrow" border="0" height="17" width="17"></a></td>
 	</tr>
 	<tr>
-		<td valign="TOP" width="125"><script name="JavaScript">
+		<td valign="TOP" width="130"><script name="JavaScript">
 		<!--
 			if (!isMenu) {
-				document.write ("<FONT SIZE='2'><SELECT NAME='Nav4' OnChange='location.href=this.options[this.options.selectedIndex].value' CLASS='SideNavDropDown'>")
-				document.write ("<OPTION VALUE=''>shop by material</OPTION>")
-				document.write ("<OPTION VALUE='diam_jewelry.asp?track=55'>Diamond Jewelry</OPTION>")
-				document.write ("<OPTION VALUE='pearl_jewelry.asp?track=55'>Pearl Jewelry</OPTION>")
-				document.write ("<OPTION VALUE='gemstone_jewelry.asp?track=55'>Gemstone Jewelry</OPTION>")
-				document.write ("<OPTION VALUE='goldplat_jewelry.asp?track=55'>Platinum Jewelry</OPTION>")
-				document.write ("<OPTION VALUE='goldplat_jewelry.asp?track=55'>Gold Jewelry</OPTION>")
-				document.write ("<OPTION VALUE='silver_jewelry.asp?track=55'>Silver Jewelry</OPTION>")
+				document.write ("<FONT SIZE='2'><SELECT NAME='Nav4' OnChange='location.href=this.options[this.options.selectedIndex].value' CLASS='SideNavDropDown'><OPTION VALUE=''>Shop by Material</OPTION>")
+				for (i=0;i<arrMenuMaterial.length;i=i+2) {
+					document.write ("<OPTION VALUE='" + arrMenuMaterial[i] + "?track=55'>" + arrMenuMaterial[i+1] + "</OPTION>")
+				}
 				document.write ("</SELECT>")
 			}
 		//-->
-		</script><font size="2"><select name="Nav4" onchange="location.href=this.options[this.options.selectedIndex].value" class="SideNavDropDown"><option value="">shop by material</option><option value="diam_jewelry.asp?track=55">Diamond Jewelry</option><option value="pearl_jewelry.asp?track=55">Pearl Jewelry</option><option value="gemstone_jewelry.asp?track=55">Gemstone Jewelry</option><option value="goldplat_jewelry.asp?track=55">Platinum Jewelry</option><option value="goldplat_jewelry.asp?track=55">Gold Jewelry</option><option value="silver_jewelry.asp?track=55">Silver Jewelry</option></select><img src="/assets/images/item/item_pxlclear.gif" width="1" height="6"></font></td>
-		
-	<td width="1" bgcolor="#E3E3E3"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	<td width="1" bgcolor="#EBEBEB"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	<td width="1" bgcolor="#F2F2F2"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	<td width="1" bgcolor="#F7F7F7"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	<td width="1" bgcolor="#FBFBFD"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	<td width="20"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	
-	</tr>
-	<tr>
-		<td valign="TOP" width="125"><a href="" onmouseover="setMenu('shopbyoccasion');" onmouseout="hideMenu()" onclick="return false;"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/sidenav/sidenav_shopbyoccasionarrow.gif" name="shopbyoccasion_image" border="0" height="17" width="125"></a></td>
-		<td valign="TOP" width="25" colspan="6"><a href="" onmouseover="setMenu('shopbyoccasion');" onmouseout="hideMenu()" onclick="return false;"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/item/item_sidenavtab.gif" border="0" height="17" width="5"></a></td>
-	</tr>
-	<tr>
-		<td valign="TOP" width="125"><script name="JavaScript">
-		<!--
-			if (!isMenu) {
-				document.write ("<FONT SIZE='2'><SELECT NAME='Nav3' OnChange='location.href=this.options[this.options.selectedIndex].value' CLASS='SideNavDropDown'>")
-				document.write ("<OPTION VALUE=''>shop by occasion</OPTION>")
-				document.write ("<OPTION VALUE='recommend_channel.asp?track=55'>Holiday Gift Ideas</OPTION>")
-				document.write ("<OPTION VALUE='engagement_channel.asp?track=55'>Engagement</OPTION>")
-				document.write ("<OPTION VALUE='wedding_channel.asp?track=55'>Wedding</OPTION>")
-				document.write ("<OPTION VALUE='product_catalog.asp?catid=86&track=55'>Anniversary</OPTION>")
-				document.write ("</SELECT>")
-			}
-		//-->
-		</script><font size="2"><select name="Nav3" onchange="location.href=this.options[this.options.selectedIndex].value" class="SideNavDropDown"><option value="">shop by occasion</option><option value="recommend_channel.asp?track=55">Holiday Gift Ideas</option><option value="engagement_channel.asp?track=55">Engagement</option><option value="wedding_channel.asp?track=55">Wedding</option><option value="product_catalog.asp?catid=86&amp;track=55">Anniversary</option></select><img src="/assets/images/item/item_pxlclear.gif" width="1" height="6"></font></td>
-		
-	<td width="1" bgcolor="#E3E3E3"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	<td width="1" bgcolor="#EBEBEB"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	<td width="1" bgcolor="#F2F2F2"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	<td width="1" bgcolor="#F7F7F7"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	<td width="1" bgcolor="#FBFBFD"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	<td width="20"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	
+		</script><font size="2"><select name="Nav4" onchange="location.href=this.options[this.options.selectedIndex].value" class="SideNavDropDown"><option value="">Shop by Material</option><option value="/diamond_jewelry.asp?track=54?track=55">Diamond Jewelry</option><option value="/pearl_jewelry.asp?track=54?track=55">Pearl Jewelry</option><option value="/gemstone_jewelry.asp?track=54?track=55">Gemstone Jewelry</option><option value="/gold_jewelry.asp?track=54?track=55">Gold Jewelry</option><option value="/platinum_jewelry.asp?track=54?track=55">Platinum Jewelry</option><option value="/silver_jewelry.asp?track=54?track=55">Silver Jewelry</option></select><img src="/assets/images/item/item_pxlclear.gif" width="1" height="6"></font></td>
 	</tr>
 	<script name="JavaScript">
 	<!--
@@ -403,276 +287,319 @@ isMenu = (NS4 || IE4 || NS6) ? 1 : 0;
 	</script>
 	
 	<tr>
-		<td valign="TOP" width="125"><a href="/about.asp"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/sidenavp/sidenavp_aboutbluenile.gif" alt="About Blue Nile" border="0" height="17" width="125"></a></td>
-		<td valign="TOP" width="25" colspan="6"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/item/item_sidenavtabp.gif" border="0" height="17" width="5"></td>
+		<td valign="TOP" width="130"><a href="/about.asp"><img src="/assets/images/shell/shell_snav_aboutbluenile.gif" alt="About Blue Nile" border="0" height="17" width="130"></a></td>
 	</tr>
 	<tr>
-		<td valign="TOP" width="125">
-		
-	<table border="0" cellpadding="1" cellspacing="0"><tbody><tr><td valign="TOP"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/item/item_purplebullet.gif" width="5" height="5" border="0" hspace="2" vspace="5"></td><td valign="TOP"><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/quality.asp?track=56">Quality &amp; Value</a></font></td></tr></tbody></table>
-	
-	<table border="0" cellpadding="1" cellspacing="0"><tbody><tr><td valign="TOP"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/item/item_purplebullet.gif" width="5" height="5" border="0" hspace="2" vspace="5"></td><td valign="TOP"><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/shopping.asp?track=56">Secure Shopping</a></font></td></tr></tbody></table>
-	
-	<table border="0" cellpadding="1" cellspacing="0"><tbody><tr><td valign="TOP"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/item/item_purplebullet.gif" width="5" height="5" border="0" hspace="2" vspace="5"></td><td valign="TOP"><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/service.asp?track=56">Expert Service</a></font></td></tr></tbody></table>
-	
-	<table border="0" cellpadding="1" cellspacing="0"><tbody><tr><td valign="TOP"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/item/item_purplebullet.gif" width="5" height="5" border="0" hspace="2" vspace="5"></td><td valign="TOP"><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/shipping.asp?track=56">Free Shipping</a></font></td></tr></tbody></table>
-	
-	<table border="0" cellpadding="1" cellspacing="0"><tbody><tr><td valign="TOP"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/item/item_purplebullet.gif" width="5" height="5" border="0" hspace="2" vspace="5"></td><td valign="TOP"><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/customerletters.asp?track=56">Customer Letters</a></font></td></tr></tbody></table>
-	
-	<table border="0" cellpadding="1" cellspacing="0"><tbody><tr><td valign="TOP"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/item/item_purplebullet.gif" width="5" height="5" border="0" hspace="2" vspace="5"></td><td valign="TOP"><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/history.asp?track=56">History</a></font></td></tr></tbody></table>
-	
-	<table border="0" cellpadding="1" cellspacing="0"><tbody><tr><td valign="TOP"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/item/item_purplebullet.gif" width="5" height="5" border="0" hspace="2" vspace="5"></td><td valign="TOP"><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/in_the_news.asp?track=56">News</a></font></td></tr></tbody></table>
-	
-	<table border="0" cellpadding="1" cellspacing="0"><tbody><tr><td valign="TOP"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/item/item_purplebullet.gif" width="5" height="5" border="0" hspace="2" vspace="5"></td><td valign="TOP"><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/press_releases.asp?track=56">Press Releases</a></font></td></tr></tbody></table>
-	
-	<table border="0" cellpadding="1" cellspacing="0"><tbody><tr><td valign="TOP"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/item/item_purplebullet.gif" width="5" height="5" border="0" hspace="2" vspace="5"></td><td valign="TOP"><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/eteam.asp?track=56">Executive Team</a></font></td></tr></tbody></table>
-	
-	<table border="0" cellpadding="1" cellspacing="0"><tbody><tr><td valign="TOP"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/item/item_purplebullet.gif" width="5" height="5" border="0" hspace="2" vspace="5"></td><td valign="TOP"><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/jobs.asp?track=56">Jobs</a></font></td></tr></tbody></table>
-	
-	<table border="0" cellpadding="1" cellspacing="0"><tbody><tr><td valign="TOP"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/item/item_purplebullet.gif" width="5" height="5" border="0" hspace="2" vspace="5"></td><td valign="TOP"><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/privacy.asp?track=56">Privacy Policy</a></font></td></tr></tbody></table>
-	
-	<table border="0" cellpadding="1" cellspacing="0"><tbody><tr><td valign="TOP"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/item/item_purplebullet.gif" width="5" height="5" border="0" hspace="2" vspace="5"></td><td valign="TOP"><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/affiliate/default.asp?track=56">Become an Affiliate</a></font></td></tr></tbody></table>
-	
+		<td valign="TOP" width="130">
+		<img src="/assets/images/item/item_pxlclear.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr><td valign="TOP"><img src="/assets/images/item/item_pxlclear.gif" width="2" height="9"><img src="/assets/images/item/item_purplebullet.gif" width="5" height="5" hspace="2" align="BOTTOM"></td><td valign="TOP"><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/quality.asp?track=56">Quality &amp; Value</a></font></td></tr></tbody></table><img src="/assets/images/item/item_pxlclear.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr><td valign="TOP"><img src="/assets/images/item/item_pxlclear.gif" width="2" height="9"><img src="/assets/images/item/item_purplebullet.gif" width="5" height="5" hspace="2" align="BOTTOM"></td><td valign="TOP"><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/shopping.asp?track=56">Secure Shopping</a></font></td></tr></tbody></table><img src="/assets/images/item/item_pxlclear.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr><td valign="TOP"><img src="/assets/images/item/item_pxlclear.gif" width="2" height="9"><img src="/assets/images/item/item_purplebullet.gif" width="5" height="5" hspace="2" align="BOTTOM"></td><td valign="TOP"><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/service.asp?track=56">Expert Service</a></font></td></tr></tbody></table><img src="/assets/images/item/item_pxlclear.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr><td valign="TOP"><img src="/assets/images/item/item_pxlclear.gif" width="2" height="9"><img src="/assets/images/item/item_purplebullet.gif" width="5" height="5" hspace="2" align="BOTTOM"></td><td valign="TOP"><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/shipping.asp?track=56">Free Shipping</a></font></td></tr></tbody></table><img src="/assets/images/item/item_pxlclear.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr><td valign="TOP"><img src="/assets/images/item/item_pxlclear.gif" width="2" height="9"><img src="/assets/images/item/item_purplebullet.gif" width="5" height="5" hspace="2" align="BOTTOM"></td><td valign="TOP"><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/customerletters.asp?track=56">Customer Letters</a></font></td></tr></tbody></table><img src="/assets/images/item/item_pxlclear.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr><td valign="TOP"><img src="/assets/images/item/item_pxlclear.gif" width="2" height="9"><img src="/assets/images/item/item_purplebullet.gif" width="5" height="5" hspace="2" align="BOTTOM"></td><td valign="TOP"><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/history.asp?track=56">History</a></font></td></tr></tbody></table><img src="/assets/images/item/item_pxlclear.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr><td valign="TOP"><img src="/assets/images/item/item_pxlclear.gif" width="2" height="9"><img src="/assets/images/item/item_purplebullet.gif" width="5" height="5" hspace="2" align="BOTTOM"></td><td valign="TOP"><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/in_the_news.asp?track=56">News</a></font></td></tr></tbody></table><img src="/assets/images/item/item_pxlclear.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr><td valign="TOP"><img src="/assets/images/item/item_pxlclear.gif" width="2" height="9"><img src="/assets/images/item/item_purplebullet.gif" width="5" height="5" hspace="2" align="BOTTOM"></td><td valign="TOP"><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/press_releases.asp?track=56">Press Releases</a></font></td></tr></tbody></table><img src="/assets/images/item/item_pxlclear.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr><td valign="TOP"><img src="/assets/images/item/item_pxlclear.gif" width="2" height="9"><img src="/assets/images/item/item_purplebullet.gif" width="5" height="5" hspace="2" align="BOTTOM"></td><td valign="TOP"><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/eteam.asp?track=56">Executive Team</a></font></td></tr></tbody></table><img src="/assets/images/item/item_pxlclear.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr><td valign="TOP"><img src="/assets/images/item/item_pxlclear.gif" width="2" height="9"><img src="/assets/images/item/item_purplebullet.gif" width="5" height="5" hspace="2" align="BOTTOM"></td><td valign="TOP"><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/jobs.asp?track=56">Jobs</a></font></td></tr></tbody></table><img src="/assets/images/item/item_pxlclear.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr><td valign="TOP"><img src="/assets/images/item/item_pxlclear.gif" width="2" height="9"><img src="/assets/images/item/item_purplebullet.gif" width="5" height="5" hspace="2" align="BOTTOM"></td><td valign="TOP"><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/privacy.asp?track=56">Privacy Policy</a></font></td></tr></tbody></table><img src="/assets/images/item/item_pxlclear.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr><td valign="TOP"><img src="/assets/images/item/item_pxlclear.gif" width="2" height="9"><img src="/assets/images/item/item_purplebullet.gif" width="5" height="5" hspace="2" align="BOTTOM"></td><td valign="TOP"><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/affiliate/default.asp?track=56">Become an Affiliate</a></font></td></tr></tbody></table>
 		<img src="/assets/images/item/item_pxlclear.gif" width="1" height="6"></td>
-		
-	<td width="1" bgcolor="#E3E3E3"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	<td width="1" bgcolor="#EBEBEB"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	<td width="1" bgcolor="#F2F2F2"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	<td width="1" bgcolor="#F7F7F7"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	<td width="1" bgcolor="#FBFBFD"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	<td width="20"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	
 	</tr>
 	
 		<tr>
-			<td valign="TOP" width="125"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/sidenavp/sidenavp_relatedlinks.gif" alt="Related Links" border="0" height="17" width="125"></td>
-			<td valign="TOP" width="25" colspan="6"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/item/item_sidenavtabp.gif" border="0" height="17" width="5"></td>
+			<td valign="TOP" width="130"><img src="/assets/images/shell/shell_snav_relatedlinks.gif" alt="Related Links" border="0" height="17" width="130"></td>
 		</tr>
 		<tr>
-			<td valign="TOP" width="125">
-		
-	<table border="0" cellpadding="1" cellspacing="0"><tbody><tr><td valign="TOP"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/item/item_purplebullet.gif" width="5" height="5" border="0" hspace="2" vspace="5"></td><td valign="TOP"><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/subscription.asp?track=58">Subscription Status</a></font></td></tr></tbody></table>
-	
+			<td valign="TOP" width="130">
+		<img src="/assets/images/item/item_pxlclear.gif" width="1" height="2"><table cellpadding="1" cellspacing="0" border="0"><tbody><tr><td valign="TOP"><img src="/assets/images/item/item_pxlclear.gif" width="2" height="9"><img src="/assets/images/item/item_purplebullet.gif" width="5" height="5" hspace="2" align="BOTTOM"></td><td valign="TOP"><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/subscription.asp?track=58">Subscription Status</a></font></td></tr></tbody></table>
 	<img src="/assets/images/item/item_pxlclear.gif" width="1" height="6"></td>
-	
-	<td width="1" bgcolor="#E3E3E3"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	<td width="1" bgcolor="#EBEBEB"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	<td width="1" bgcolor="#F2F2F2"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	<td width="1" bgcolor="#F7F7F7"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	<td width="1" bgcolor="#FBFBFD"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	<td width="20"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
-	
 	</tr>
 	
 <tr>
-	<td valign="TOP" width="125"><img src="/assets/images/item/item_pxlclear.gif" width="125" height="1"></td>
-	<td valign="TOP" width="5" colspan="5"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/item/item_sidenavbarbottom.gif" border="0" height="100" width="5"></td>
-	<td valign="TOP" width="20"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
+	<td valign="TOP" width="130"><img src="/assets/images/item/item_pxlclear.gif" width="130" height="1"></td>
 </tr>
 
 
-
 		</tbody></table></td>
-		<td align="LEFT" valign="TOP" rowspan="2"><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr>
-			<td><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/item/item_underbarfade.jpg" width="100%" height="2"></td>
-			</tr></tbody></table>
-
+		<td rowspan="2" width="3"><img src="/assets/images/item/item_pxlclear.gif" width="3" height="1" border="0"></td>
+		<td width="100%" rowspan="2" valign="TOP">
 			
-	<table width="520" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td align="RIGHT">
-		<font color="#555555" face="Verdana" size="1">
-		<a href="http://www.bluenile.com/default.asp?track=60">Home</a>
-		 &gt; <a href="http://www.bluenile.com/about.asp?track=60">About Blue Nile</a> &gt; <b>Privacy Policy</b></font>
-		</td>
-	</tr>
-	</tbody></table>
+	<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#003366"><tbody><tr>
+		<td align="LEFT" rowspan="3"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" width="643"><tbody><tr>
+				<td><a href="http://www.bluenile.com/engagement_segment.asp?track=51"><img src="/assets/images/shell/shell_tab_engagement.gif" width="126" height="37" border="0" alt="Engagement"></a></td>
+				<td width="3"><img src="/assets/images/shell/shell_tab_spacer.gif" width="3" height="37"></td>
+				<td><a href="http://www.bluenile.com/jewelry_segment.asp?track=51"><img src="/assets/images/shell/shell_tab_jewelry.gif" width="95" height="37" border="0" alt="Jewelry"></a></td>
+				<td width="3"><img src="/assets/images/shell/shell_tab_spacer.gif" width="3" height="37"></td>
+				<td><a href="http://www.bluenile.com/acc_segment.asp?track=51"><img src="/assets/images/shell/shell_tab_watchesaccessories.gif" width="191" height="37" border="0" alt="Watches &amp; Accessories"></a></td>
+				<td width="3"><img src="/assets/images/shell/shell_tab_spacer.gif" width="3" height="37"></td>
+				<td><a href="http://www.bluenile.com/recommend_channel.asp?track=51"><img src="/assets/images/shell/shell_tab_giftideas.gif" width="106" height="37" border="0" alt="Gift Ideas"></a></td>
+				<td width="3"><img src="/assets/images/shell/shell_tab_spacer.gif" width="3" height="37"></td>
+				<td><a href="http://www.bluenile.com/educ_channel.asp?track=51"><img src="/assets/images/shell/shell_tab_education.gif" width="113" height="37" border="0" alt="Education"></a></td>
+				<td width="3"><img src="/assets/images/item/item_pxlclear.gif" width="3" height="1"></td>
+			</tr></tbody></table></td>
+		<td bgcolor="#003366"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="33"></td>
+	</tr><tr>
+		<td bgcolor="#FFFFFF" width="100%"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="3"></td>
+	</tr><tr>
+		<td bgcolor="#E7EBF0" width="100%"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
+	</tr></tbody></table>
 	
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+	<td><table width="643" border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td bgcolor="#B1BDCD" width="1"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
+			<td width="30"><img src="/assets/images/item/item_pxlclear.gif" width="30" height="500"></td>
+			<td width="596" valign="TOP">
 
+
+		<table width="100%" border="0" cellpadding="6" cellspacing="0">
+		<tbody><tr>
+			<td align="RIGHT">
+			<font color="#555555" face="Verdana" size="1">
+			<a href="http://www.bluenile.com/default.asp?track=60">Home</a>
+			 &gt; <a href="http://www.bluenile.com/about.asp?track=60">About Blue Nile</a> &gt; <b>Privacy Policy</b>
+			</font></td>
+		</tr>
+		</tbody></table>
+		
 <!--startindex-->
 
 
-<img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/hdr/hdr_privacypolicy_520x27.gif" width="520" height="27" border="0" vspace="5" alt="Privacy Policy"><br><a href="https://www.truste.org/validate/4826"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/bug/bug_truste_91x73.gif" width="91" height="73" border="0" alt="TRUSTe: Click to Verify" hspace="3" vspace="2" align="right"></a>
+<img src="assets/images/hdr/hdr_privacypolicy_520x27.gif" width="520" height="27" border="0" vspace="5" alt="Privacy Policy">
+<br>
+
+<a href="https://www.truste.org/validate/4826" target="new_window"><img src="assets/images/bug/bug_truste_91x73.gif" width="91" height="73" border="0" alt="TRUSTe: Click to Verify" hspace="3" vspace="2" align="right"></a>
 <font color="#555555" face="Arial" size="2">
-Blue&nbsp;Nile is committed to protecting your privacy. We promise to keep all the personally identifiable information that you share with us confidential. We only collect personal information from customers in order to process billing, fulfill orders, and provide a personal and customized shopping experience. Only non-personal, summary, or aggregate customer data is shared with Blue&nbsp;Nile partners and other third parties. Please review our privacy policy for more detail. 
+Blue&nbsp;Nile is committed to protecting your privacy. We promise to keep all the personally identifiable information that you share with us confidential. We only collect personal information from customers in order to process billing, fulfill orders, and provide a personal and customized shopping experience. Only non-personal, summary, or aggregate customer data is shared with Blue&nbsp;Nile partners and other third parties. Please review our privacy policy for more detail.
 <p>
-<img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/subhdr/subhdr_thetrusteprivacyprogram_300x18.gif" width="300" height="18" alt="The Truste Privacy Program">
+
+<img src="assets/images/subhdr/subhdr_thetrusteprivacyprogram_300x18.gif" width="300" height="18" alt="The Truste Privacy Program">
 <br>
-This statement confirms that Blue&nbsp;Nile, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, nonprofit organization, whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. To demonstrate its commitment to your privacy, Blue&nbsp;Nile has agreed to disclose its information practices on the Blue&nbsp;Nile Web site and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark on its Web site, Blue&nbsp;Nile has agreed to notify you of: 
-<br></p><p>
-</p><ul type="disc">
-<li> What identifiable personal information regarding you or a third party is collected from you on its Web site; 
-</li><li> The organization collecting the information; 
-</li><li> How the information is used; 
-</li><li> With whom the information may be shared; 
-</li><li> What choices are available to you regarding collection, use, and distribution of the information; 
-</li><li> The security procedures that are in place to protect against the loss, misuse, or alteration of information that is under the control of Blue&nbsp;Nile; and, 
-</li><li> How you can correct any inaccuracies in the information. 
-</li></ul>
-If you have questions or concerns regarding this statement, you should first contact the Blue&nbsp;Nile customer service department at <a href="mailto:service@bluenile.com">service@bluenile.com</a> or 800-242-2728. If you do not receive acknowledgment of your inquiry or if your inquiry has not been satisfactorily addressed, you should contact <a href="http://www.truste.org/users/users_watchdog.html">TRUSTe</a>. TRUSTe will then serve as a liaison with Blue&nbsp;Nile to resolve your concerns. 
-<p>
-<img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/subhdr/subhdr_privacypolicychanges_300x18.gif" width="300" height="18" alt="Privacy Policy Changes">
+This statement confirms that Blue&nbsp;Nile, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, nonprofit organization, whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. To demonstrate its commitment to your privacy, Blue&nbsp;Nile has agreed to disclose its information practices on the Blue&nbsp;Nile Web site and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark on its Web site, Blue&nbsp;Nile has agreed to notify you of:
 <br>
-Blue&nbsp;Nile will occasionally update its privacy statement to reflect company and customer feedback. When Blue&nbsp;Nile posts changes to this statement, you will see the word "updated" next to the Privacy link on the Blue&nbsp;Nile home page. If there are material changes to this statement or how Blue&nbsp;Nile will use your personal information, Blue&nbsp;Nile will prominently post such changes prior to implementing the change. Blue&nbsp;Nile encourages you to periodically review this page to be informed of how we are protecting your information. 
 </p><p>
-<img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/subhdr/subhdr_howweusetheinformationwegather_300x18.gif" width="300" height="18" alt="How We Use the Information We Gather">
-<br>
-Blue&nbsp;Nile may request personal information, including your name, shipping address, telephone number, e-mail address, billing address, credit card number, and expiration date. Blue&nbsp;Nile collects that information in order to: 
-</p><p>
+
 </p><ul type="disc">
-<li> Process an order; 
-</li><li> Verify your identity for payment authorization; 
-</li><li> Contact you regarding your order status; 
-</li><li> Ship your order to you; 
-</li><li> Enter you in a sweepstakes (if you request); 
-</li><li> Allow you to apply for financing; 
-</li><li> Send you news from Blue&nbsp;Nile (if you request); 
-</li><li> Generate anonymous statistics; and 
-</li><li> Provide you with an excellent shopping experience. 
+<li> What identifiable personal information regarding you or a third party is collected from you on its Web site;
+</li><li> The organization collecting the information;
+</li><li> How the information is used;
+</li><li> With whom the information may be shared;
+</li><li> What choices are available to you regarding collection, use, and distribution of the information;
+</li><li> The security procedures that are in place to protect against the loss, misuse, or alteration of information that is under the control of Blue&nbsp;Nile; and,
+</li><li> How you can correct any inaccuracies in the information.
+</li></ul>
+
+If you have questions or concerns regarding this statement, you should first contact the Blue&nbsp;Nile customer service department at <a href="mailto:service@bluenile.com">service@bluenile.com</a> or 800-242-2728. If you do not receive acknowledgment of your inquiry or if your inquiry has not been satisfactorily addressed, you should contact <a href="http://www.truste.org/users/users_watchdog_intro.html" target="new_window">TRUSTe</a>. TRUSTe will then serve as a liaison with Blue&nbsp;Nile to resolve your concerns.
+<p>
+
+<img src="assets/images/subhdr/subhdr_privacypolicychanges_300x18.gif" width="300" height="18" alt="Privacy Policy Changes">
+<br>
+Blue&nbsp;Nile will occasionally update its privacy statement to reflect company and customer feedback. When Blue&nbsp;Nile posts changes to this statement, you will see the word "Updated" next to the Privacy Policy link on the Blue&nbsp;Nile home page. If there are material changes to this statement on how Blue&nbsp;Nile uses your personal information, Blue&nbsp;Nile will send you an e-mail describing the changes before implementing them, and allow you the opportunity to opt-out. If Blue&nbsp;Nile makes material changes to these privacy practices which do not affect user information already stored in our database, we will post the word "Updated" next to the Privacy Policy link on our home page. Blue&nbsp;Nile encourages you to periodically review this page to be informed of how we are protecting your information
+</p><p>
+
+<img src="assets/images/subhdr/subhdr_howweusetheinformationwegather_300x18.gif" width="300" height="18" alt="How We Use the Information We Gather">
+<br>
+Blue&nbsp;Nile may request personal information, including your name, shipping address, telephone number, e-mail address, billing address, credit card number, and expiration date. Blue&nbsp;Nile collects that information in order to:
+</p><p>
+
+</p><ul type="disc">
+<li> Process an order;
+</li><li> Verify your identity for payment authorization;
+</li><li> Contact you regarding your order status;
+</li><li> Ship your order to you;
+</li><li> Enter you in a sweepstakes (if you request);
+</li><li> Allow you to apply for financing;
+</li><li> Send you news from Blue&nbsp;Nile (if you request);
+</li><li> Generate anonymous statistics; and
+</li><li> Provide you with an excellent shopping experience.
 </li></ul>
 <p>
+
 Once Blue&nbsp;Nile gathers your name and address, this information will then be transferred to your credit card company, if applicable, for confirmation to complete your purchase. Your shipping information may also be supplied to a third-party fulfillment center, but your name and address will not be used for any other purpose than delivery of your order. Your name and address will not be sold to mailing-list firms. Although Blue&nbsp;Nile may occasionally share statistics about our customers with important business partners, we do not disclose any identifying information about individual customers.
 </p><p>
-<img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/subhdr/subhdr_thirdpartyprivacypolicies_300x18.gif" width="300" height="18" alt="Third Party Privacy Policies">
+
+<img src="assets/images/subhdr/subhdr_thirdpartyprivacypolicies_300x18.gif" width="300" height="18" alt="Third Party Privacy Policies">
 <br>
-Blue&nbsp;Nile gives you access to third party partners to provide you with certain services that are detailed below. Blue&nbsp;Nile will provide that third party with your transaction information and then that third party will collect additional information that it needs to provide you with the requested service. Blue&nbsp;Nile encourages you to review the privacy statements of Web sites you choose to link to from Blue&nbsp;Nile so that you can understand how those Web sites collect, use, and share your information. Blue&nbsp;Nile is not responsible for the privacy statements or content on Web sites outside of Blue&nbsp;Nile's Web site. 
+Blue&nbsp;Nile gives you access to third party partners to provide you with certain services that are detailed below. Blue&nbsp;Nile will provide that third party with your transaction information and then that third party will collect additional information that it needs to provide you with the requested service. Blue&nbsp;Nile encourages you to review the privacy statements of Web sites you choose to link to from Blue&nbsp;Nile so that you can understand how those Web sites collect, use, and share your information. Blue&nbsp;Nile is not responsible for the privacy statements or content on Web sites outside of Blue&nbsp;Nile's Web site.
 </p><p>
+
 <b>Order Processing by Microsoft Wallet or AOL QuickCheckOut</b>
 <br>
-Through the Blue&nbsp;Nile shopping cart, you may choose to use the AOL QuickCheckOut or Microsoft Passport Wallet functions. If you elect to use either of these wallet technologies to complete your online purchase, the information listed above as well as your transactional information will be passed along to AOL or Microsoft and will then be governed by that party's privacy policy. If you previously signed up for the AOL QuickCheckOut and/or Microsoft Passport Wallet tools, you have already consented to the passage of such information, so you will not be asked for permission again before your information is passed along. 
+Through the Blue&nbsp;Nile shopping cart, you may choose to use the AOL QuickCheckOut or Microsoft Passport Wallet functions. If you elect to use either of these wallet technologies to complete your online purchase, the information listed above as well as your transactional information will be passed along to AOL or Microsoft and will then be governed by that party's privacy policy. If you previously signed up for the AOL QuickCheckOut and/or Microsoft Passport Wallet tools, you have already consented to the passage of such information, so you will not be asked for permission again before your information is passed along.
 </p><p>
-<b>Participation in Contests or Sweepstakes</b> - Updated November 27, 2001
-<br> 
-If you choose to participate in a Blue Nile promotion (contest or sweepstakes), Blue Nile may share your personal information with those organizations running the applicable promotion. Personal information is usually shared in order to ensure your ability to redeem that promotion with the third-party partner managing that promotion. Typically, these third parties do not use your information for any other purpose other than to manage the promotion. In some cases these third-party partners may send you promotional materials regarding their products and services. In these cases, you will be given the opportunity to opt-out, and not have your personal information shared with that third-party partner.
+
+<b>Participation in Contests or Sweepstakes</b> - Updated January 22, 2002
+<br>
+If you choose to participate in a Blue Nile promotion (contest or sweepstakes), Blue Nile may share your personal information with those organizations running the applicable promotion. Personal information is usually shared in order to ensure your ability to redeem that promotion with the third-party partner managing that promotion. Typically, these third parties do not use your information for any other purpose other than to manage the promotion. In some cases these third-party partners may send you promotional materials regarding their products and services. In these cases, you will be given the opportunity to opt-out, and not have your personal information shared with that third-party partner. If you choose to enter our feedback contest and allow us to post your feedback on our site, we will remove your feedback from the site at any time if you send your request in e-mail to <a href="mailto:service@bluenile.com">service@bluenile.com</a>.
 </p><p>
+
 <b>Application for Financing</b>
 <br>
-Blue&nbsp;Nile has partnered with MBNA, which will arrange the financing of your purchase from Blue&nbsp;Nile. If you decide to use Blue&nbsp;Nile's financing services, you will be directed to MBNA's financing application. Blue&nbsp;Nile will then provide MBNA with your transaction information and then MBNA will collect the additional information it needs in order to provide you with financing for your Blue&nbsp;Nile purchase. Further, MBNA will provide Blue&nbsp;Nile information regarding the status of your financing application. Once your application is approved by MBNA, you may complete your purchase with Blue&nbsp;Nile. 
+Blue&nbsp;Nile has partnered with MBNA, which will arrange the financing of your purchase from Blue&nbsp;Nile. If you decide to use Blue&nbsp;Nile's financing services, you will be directed to MBNA's financing application. Blue&nbsp;Nile will then provide MBNA with your transaction information and then MBNA will collect the additional information it needs in order to provide you with financing for your Blue&nbsp;Nile purchase. Further, MBNA will provide Blue&nbsp;Nile information regarding the status of your financing application. Once your application is approved by MBNA, you may complete your purchase with Blue&nbsp;Nile.
 </p><p>
-<b>Tracking of Advertising Links</b>
+
+<b>Tracking of Advertising Links and Action Tags</b>
 <br>
-Blue&nbsp;Nile works with a company called Avenue A to serve its ads on the Internet. This third-party advertising company employs cookie technology to measure the effectiveness of Blue&nbsp;Nile's ads. To do so, this company may use information about your visits to the Blue&nbsp;Nile Web site and other Web sites. Unless otherwise notified, Avenue A does not use names, addresses, e-mail addresses, or telephone numbers and does not link any online actions or cookies to an identifiable person. The use of your cookies is subject to the privacy policy of Avenue A. View more information about Avenue A's privacy practices: <a href="http://www.avenuea.com/info/privacy.asp">http://www.avenuea.com/info/privacy.asp</a> 
+Blue&nbsp;Nile works with Avenue A, a third-party advertising company which serves ads and employs a software technology called clear gifs, or action tags. Avenue A works with Blue&nbsp;Nile to collect information on advertisement performance and Web site usage. Ad banners employ cookie technology to measure the effectiveness of Blue&nbsp;Nile's advertisements. To do so, this company may use information about your visits to the Blue&nbsp;Nile Web site and other Web sites. Unless otherwise notified, Avenue A does not use names, addresses, e-mail addresses, or telephone numbers and does not link any online actions or cookies to an identifiable person. The use of your cookies is subject to the privacy policy of Avenue A. View more information about Avenue A's privacy practices: <a href="http://www.avenueainc.com/privacy/" target="new_window">http://www.avenueainc.com/privacy/</a>
 </p><p>
-If you want to prevent Avenue A from sending and reading cookies on your computer, currently you must visit each ad network's Web site individually and opt out. Learn more about how to opt out of our third-party advertiser cookie: <a href="http://www.avenuea.com/info/optout.asp">http://www.avenuea.com/info/optout.asp</a> 
+
+Clear gifs or actions tags are used to collect information about how many times users view and click on Blue&nbsp;Nile's advertisements and which specific pages of a our Web site users visit (e.g. a registration or checkout page). No uniquely identifiable information is tracked by Avenue A.  To learn more about the technology behind action tags, visit the <a href="http://www.avenueainc.com/privacy/anonymous.asp" target="new_window">Avenue A Web site</a>.
 </p><p>
-<img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/subhdr/subhdr_bluenilecommunication_300x18.gif" width="300" height="18" alt="Blue Nile Communication">
+
+To prevent Avenue A from sending and reading cookies on your computer, visit Avenue A's Web site where you can <a href="http://www.avenuea.com/info/optout.asp" target="new_window">opt out</a> of our third-party advertiser cookie.
+</p><p>
+
+<img src="assets/images/subhdr/subhdr_bluenilecommunication_300x18.gif" width="300" height="18" alt="Blue Nile Communication">
 <br>
-Blue&nbsp;Nile offers customers many ways to keep up to date with the latest product offerings and promotions. Below, we outline how we treat the information you provide to Blue&nbsp;Nile. 
+Blue&nbsp;Nile offers customers many ways to keep up to date with the latest product offerings and promotions. Below, we outline how we treat the information you provide to Blue&nbsp;Nile.
 </p><p>
+
 <b>Sending this Product to a Friend</b>
 <br>
-When you e-mail a product to a friend, you and your friend's names and e-mail addresses are requested. This ensures that your friend will know that you have requested that Blue&nbsp;Nile send them an e-mail. You and your friend's e-mail addresses will only be used for this purpose unless permission is otherwise granted. 
+When you e-mail a product to a friend, you and your friend's names and e-mail addresses are requested. This ensures that your friend will know that you have requested that Blue&nbsp;Nile send them an e-mail. You and your friend's e-mail addresses will only be used for this purpose unless permission is otherwise granted.
 </p><p>
+
 <b>Refer a Friend</b>
 <br>
-Using a Blue&nbsp;Nile form, you can also refer a friend to the Blue&nbsp;Nile Web site. You and your friend's names and e-mail addresses are requested to ensure that your friend will know that you have requested that Blue&nbsp;Nile send them an e-mail. You and your friend's e-mail addresses will only be used for this purpose unless permission is otherwise granted. 
+Using a Blue&nbsp;Nile form, you can also refer a friend to the Blue&nbsp;Nile Web site. You and your friend's names and e-mail addresses are requested to ensure that your friend will know that you have requested that Blue&nbsp;Nile send them an e-mail. You and your friend's e-mail addresses will only be used for this purpose unless permission is otherwise granted.
 </p><p>
+
+<b>Surveys</b>
+<br>
+Blue&nbsp;Nile occasionally requests information from our users and customers via surveys. Participation in these surveys is completely voluntary, and all participants have a choice whether or not to disclose information. The requested information typically includes the customer's first name, as well as information relating to the customer's experience at Blue&nbsp;Nile, or their opinions on products they have purchased. Survey information will be used internally to monitor or improve this site, and after attaining user permission, may be posted on the site to provide information about our products to other users. Users' personally identifiable information is not shared with third parties unless Blue&nbsp;Nile gives prior notice and choice.
+</p><p>
+
 <b>Opt-Out Policy</b>
 <br>
-To opt out of receiving communications from Blue&nbsp;Nile, just select "unsubscribe" on our subscription status page and enter the requested information. Or you can make your request in person by contacting a customer service associate at 800-242-2728 or by e-mail at service@bluenile.com. 
+To opt out of receiving communications from Blue&nbsp;Nile, just select "unsubscribe" on our <a href="subscription.asp">subscription status page</a> and enter the requested information. Or you can make your request in person by contacting a customer service associate at 800-242-2728 or by e-mail at service@bluenile.com.
 </p><p>
-<img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/subhdr/subhdr_updatingpersonalinformation_300x18.gif" width="300" height="18" alt="Updating Personal Information">
+
+<img src="assets/images/subhdr/subhdr_updatingpersonalinformation_300x18.gif" width="300" height="18" alt="Updating Personal Information">
 <br>
-If the personal information Blue&nbsp;Nile has gathered from you changes or you no longer desire our service, we will gladly correct, update, or remove any personal data you have previously provided to us. To request a change or removal of your personal information, send an e-mail to service@bluenile.com or contact one of our customer service associates at 800-242-2728. 
+If the personal information Blue&nbsp;Nile has gathered from you changes or you no longer desire our service, we will gladly correct, update, or remove any personal data you have previously provided to us. To request a change or removal of your personal information, send an e-mail to service@bluenile.com or contact one of our customer service associates at 800-242-2728.
 </p><p>
-<img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/subhdr/subhdr_security_300x18.gif" width="300" height="18" alt="Security">
+
+<img src="assets/images/subhdr/subhdr_security_300x18.gif" width="300" height="18" alt="Security">
 <br>
-Blue&nbsp;Nile is committed to protecting the privacy of your personal information. To protect the information you send from your computer to Blue&nbsp;Nile's e-commerce system, this information — including your credit card number, name, and address — is encrypted using Secure Sockets Layer (SSL) software. Internally, we use encryption and Web security technologies to protect the privacy of your personal data. Only parties responsible for processing your order have access to your credit card and bank information. 
+Blue&nbsp;Nile is committed to protecting the privacy of your personal information. To protect the information you send from your computer to Blue&nbsp;Nile's e-commerce system, this information — including your credit card number, name, and address — is encrypted using Secure Sockets Layer (SSL) software. Internally, we use encryption and Web security technologies to protect the privacy of your personal data. Only parties responsible for processing your order have access to your credit card and bank information.
 </p><p>
+
 Blue&nbsp;Nile continuously reviews its policies and practices to ensure that all customer information remains secure.
 </p><p>
-<img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/subhdr/subhdr_useoftechnology_300x18.gif" width="300" height="18" alt="Use of Technology">
+
+<img src="assets/images/subhdr/subhdr_useoftechnology_300x18.gif" width="300" height="18" alt="Use of Technology">
 <br>
-"Cookies" are small pieces of information that are stored by your browser on your computer hard drive. You must have cookies enabled in order for you to be able to perform many of the general functions on the Blue&nbsp;Nile Web site. With cookies enabled, the Blue&nbsp;Nile Web site will have the capacity to deliver you a more customized and complete shopping experience to track visits from our affiliates and partners and to enable the use of our shopping cart. Blue&nbsp;Nile does not use cookies to store or collect any personal information such as names, addresses, or payment information. To learn how to enable cookies on your computer, visit the Web site that corresponds to the browser you use: 
+"Cookies" are small pieces of information that are stored by your browser on your computer hard drive. You must have cookies enabled in order for you to be able to perform many of the general functions on the Blue&nbsp;Nile Web site. With cookies enabled, the Blue&nbsp;Nile Web site will have the capacity to deliver you a more customized and complete shopping experience to track visits from our affiliates and partners and to enable the use of our shopping cart. Blue&nbsp;Nile does not use cookies to store or collect any personal information such as names, addresses, or payment information. To learn how to enable cookies on your computer, visit the Web site that corresponds to the browser you use:
+
 </p><ul>
-<li><a href="http://www.microsoft.com/Windows/ie/security/quiz/two_b.htm">Microsoft Internet Explorer</a>
+<li><a href="http://www.microsoft.com/info/cookies.htm">Microsoft Internet Explorer</a>
 </li><li><a href="http://help.netscape.com/kb/consumer/19971020-3.html">Netscape Navigator</a>
 </li></ul>
 <p>
-<img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/subhdr/subhdr_ipaddresses_300x18.gif" width="300" height="18" alt="IP Addresses">
+
+<img src="assets/images/subhdr/subhdr_ipaddresses_300x18.gif" width="300" height="18" alt="IP Addresses">
 <br>
-Blue&nbsp;Nile collects your IP address, which cannot be used to identify you personally, to help diagnose problems with its server, to administer and tune the operation of its site, and to log your browser type and referring URL information. Blue&nbsp;Nile's servers use each IP address to anonymously track the date and duration of each session within its site. Your IP address may also be used to help Blue&nbsp;Nile collect statistical data or in gathering broad usage information. Certain parts of this information may be shared with Blue&nbsp;Nile partners, but your IP address will not be distributed. 
+Blue&nbsp;Nile collects your IP address, which cannot be used to identify you personally, to help diagnose problems with its server, to administer and tune the operation of its site, and to log your browser type and referring URL information. Blue&nbsp;Nile's servers use each IP address to anonymously track the date and duration of each session within its site. Your IP address may also be used to help Blue&nbsp;Nile collect statistical data or in gathering broad usage information. Certain parts of this information may be shared with Blue&nbsp;Nile partners, but your IP address will not be distributed.
 </p><p>
-<img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/subhdr/subhdr_contactingbluenile_300x18.gif" width="300" height="18" alt="Contacting Blue Nile">
+
+<img src="assets/images/subhdr/subhdr_contactingbluenile_300x18.gif" width="300" height="18" alt="Contacting Blue Nile">
 <br>
-To provide the best customer service possible, Blue&nbsp;Nile provides multiple methods for customers to ask questions and provide feedback. 
+To provide the best customer service possible, Blue&nbsp;Nile provides multiple methods for customers to ask questions and provide feedback.
 </p><p>
-<b>Customer Surveys</b>
-<br>
-Blue&nbsp;Nile works with an independent researcher to send surveys to customers who have opted to receive communication from Blue&nbsp;Nile. Never at any time will input in these surveys be tied to an identifiable person. Participation in these surveys is completely voluntary, and your input is kept strictly confidential and used solely for the purposes of research. 
-</p><p>
+
 <b>Contact Us</b>
 <br>
-Via the "Contact Us" link, Blue&nbsp;Nile allows customers to e-mail service@bluenile.com. This provides direct contact to a Blue&nbsp;Nile customer service associate, who reads each e-mail and tries to promptly answer your questions. Blue&nbsp;Nile may also file your comments to improve the site and program or review and discard the information. You may also send us your comments about the Blue&nbsp;Nile Web site or the shopping experience in general, as we always appreciate feedback. 
+Via the "Contact Us" link, Blue&nbsp;Nile allows customers to e-mail service@bluenile.com. This provides direct contact to a Blue&nbsp;Nile customer service associate, who reads each e-mail and tries to promptly answer your questions. Blue&nbsp;Nile may also file your comments to improve the site and program or review and discard the information. You may also send us your comments about the Blue&nbsp;Nile Web site or the shopping experience in general, as we always appreciate feedback.
 </p><p>
-<img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/subhdr/subhdr_fraudulentchargeprotection_300x18.gif" width="300" height="18" alt="Fradulent Charge Protection">
+
+<img src="assets/images/subhdr/subhdr_fraudulentchargeprotection_300x18.gif" width="300" height="18" alt="Fradulent Charge Protection">
 <br>
-If a third party obtains your personal information from a purchase made with Blue&nbsp;Nile and uses that information to perpetrate credit card fraud, you are protected. Under the Fair Credit Billing Act, your bank may hold you liable for up to $50 of fraudulent charges. If your bank holds you liable for any portion of the $50, Blue&nbsp;Nile will cover up to the entire $50.* 
+If a third party obtains your personal information from a purchase made with Blue&nbsp;Nile and uses that information to perpetrate credit card fraud, you are protected. Under the Fair Credit Billing Act, your bank may hold you liable for up to $50 of fraudulent charges. If your bank holds you liable for any portion of the $50, Blue&nbsp;Nile will cover up to the entire $50.*
 </p><p>
-<img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/subhdr/subhdr_legaldisclaimer_300x18.gif" width="300" height="18" alt="Legal Disclaimer">
+
+<img src="assets/images/subhdr/subhdr_legaldisclaimer_300x18.gif" width="300" height="18" alt="Legal Disclaimer">
 <br>
 The only time Blue&nbsp;Nile will disclose personal information is when required to by law or with the good-faith belief that such action is necessary in order to conform to the law.
 </p><p>
-If you have questions about this privacy statement, please contact the Blue&nbsp;Nile customer service department at service@bluenile.com or at 800-242-2728. 
+
+If you have questions about this privacy statement, please contact the Blue&nbsp;Nile customer service department at service@bluenile.com or at 800-242-2728.
 </p><p>
-* Blue Nile will cover this liability if the unauthorized use resulted through no fault of yours from purchases made on Blue Nile's secure server. In the event of unauthorized use of your credit card, you must notify your credit card company in accordance with its reporting rules and procedures. 
+
+* Blue Nile will cover this liability if the unauthorized use resulted through no fault of yours from purchases made on Blue Nile's secure server. In the event of unauthorized use of your credit card, you must notify your credit card company in accordance with its reporting rules and procedures.
 </p><br>
-<font size="-1"><b>Updated November 27, 2001</b></font>
-
-
-</font>
+<font size="-1"><b>Updated December 19, 2001</b>
 <!--stopindex-->
-	<p>
-	</p></td>
-	</tr><tr>
-		<td valign="BOTTOM" width="150"><table width="150" border="0" cellpadding="0" cellspacing="6">
-			<tbody><tr>
-				<td valign="BOTTOM" width="125">
-				<font color="#555555" face="Verdana" size="1"><b>Questions?</b> Contact <a href="mailto:service@bluenile.com">service@bluenile.com</a><br> or 800-242-2728</font><font color="#555555" face="Verdana" size="1"><p>For phone orders, please mention: <font color="GREEN">NCKY99</font> </p></font><p><font color="#555555" face="Verdana" size="1"><a href="http://www.bluenile.com/product_policies.asp">Legal&nbsp;Notices</a><br>© 1999-2001,<br>Blue Nile, Inc.</font></p></td>
-				<td valign="TOP" width="25">&nbsp;</td>
-			</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	</tbody></table></td>
+				<p>
+				<img src="/assets/images/item/item_pxlclear.gif" width="596" height="1">
+				</p></font></font></td>
+				<td width="15"><img src="/assets/images/item/item_pxlclear.gif" width="15" height="1"></td>
+				<td bgcolor="#B1BDCD" width="1"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
+				<td bgcolor="#FFFFFF" width="3"><img src="/assets/images/item/item_pxlclear.gif" width="3" height="1"></td>
+			</tr></tbody></table>
 
-	<td valign="TOP" width="100%"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/item/item_underbarfade.jpg" width="100%" height="2"></td>
-	
-</tr></tbody></table>
-<br>
-<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#003366" background="/assets/images/item/item_bluebg.gif"><tbody><tr>
-	<td align="LEFT"><table width="670" border="0" cellpadding="0" cellspacing="0"><tbody><tr>
-		<td align="RIGHT"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr>
-			<td><a href="http://www.bluenile.com/about.asp?track=59"><font face="arial,helvetica" color="#FFFFFF" size="-1">About Blue Nile</font></a></td>
-			<td><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/item/item_topnavspacer.gif" height="22" width="3" hspace="6"></td>
-			<td><a href="http://www.bluenile.com/privacy.asp?track=59"><font face="arial,helvetica" color="#FFFFFF" size="-1">Privacy Policy <font size="1">(updated)</font></font></a></td>
-			<td><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/item/item_topnavspacer.gif" height="22" width="3" hspace="6"></td>
-			<td><a href="http://www.bluenile.com/returns.asp?track=59"><font face="arial,helvetica" color="#FFFFFF" size="-1">Extended Returns</font></a></td>
-			<td><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/item/item_topnavspacer.gif" height="22" width="3" hspace="6"></td>
-			<td><a href="http://www.bluenile.com/email_friend.asp?track=59"><font face="arial,helvetica" color="#FFFFFF" size="-1">Refer a Friend</font></a></td>
-			<td><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/item/item_topnavspacer.gif" height="22" width="3" hspace="6"></td>
-			<td><a href="http://www.bluenile.com/gift_certificate.asp?track=59"><font face="arial,helvetica" color="#FFFFFF" size="-1">Gift Certificates</font></a></td>
-			<td><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/item/item_topnavspacer.gif" height="22" width="3" hspace="6"></td>
-			<td><a href="http://www.bluenile.com/contact.asp?track=59"><font face="arial,helvetica" color="#FFFFFF" size="-1">Contact Us</font></a></td>
+			<table width="643" cellpadding="0" cellspacing="0" border="0"><tbody><tr>
+				<td bgcolor="#B1BDCD"><img src="/assets/images/item/item_pxlclear.gif" width="643" height="1"></td>
+			</tr><tr>
+				<td bgcolor="#FFFFFF"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="3"></td>
+			</tr></tbody></table>
+		</td>
+		<td bgcolor="#E7EBF0" width="100%"><img src="/assets/images/item/item_pxlclear.gif" width="1" height="1"></td>
+		</tr></tbody></table>
+	</td>
+	</tr><tr>
+		
+			<td valign="BOTTOM" width="130" bgcolor="#E7EBF0"><table width="130" border="0" cellpadding="0" cellspacing="4">
+				<tbody><tr>
+					<td valign="BOTTOM" width="130">
+					<font color="#555555" face="Verdana" size="1"><b>Questions?</b> Contact <a href="mailto:service@bluenile.com">service@bluenile.com</a><br> or 800-242-2728</font><font color="#555555" face="Verdana" size="1"></font><p><font color="#555555" face="Verdana" size="1">For phone orders, please mention: <font color="GREEN">NCKY99</font></font></p></td>
+				</tr>
+				</tbody></table>
+			</td>
+			
+	</tr>
+	</tbody></table>
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#E7EBF0"><tbody><tr>
+	<td align="LEFT">
+		
+			<table width="776" border="0" cellpadding="6" cellspacing="0"><tbody><tr>
+			<td width="130"><font color="#555555" face="Arial" size="2">&nbsp;</font></td>
+			
+		<td align="CENTER"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr>
+			<td><font color="#555555" face="Arial" size="2"><a href="http://www.bluenile.com/about.asp?track=59">About&nbsp;Blue&nbsp;Nile</a></font></td>
+			<td><img src="/assets/images/item/item_pxlclear.gif" width="15" height="25"></td>
+			<td><font color="#555555" face="Arial" size="2"><a href="http://www.bluenile.com/contact.asp?track=59">Contact&nbsp;Us</a></font></td>
+			<td><img src="/assets/images/item/item_pxlclear.gif" width="15" height="25"></td>
+			<td><font color="#555555" face="Arial" size="2"><a href="http://www.bluenile.com/shipping.asp?track=59">Free&nbsp;Shipping</a></font></td>
+			<td><img src="/assets/images/item/item_pxlclear.gif" width="15" height="25"></td>
+			<td><font color="#555555" face="Arial" size="2"><a href="http://www.bluenile.com/returns.asp?track=59">30-Day&nbsp;Returns</a></font></td>
+			<td><img src="/assets/images/item/item_pxlclear.gif" width="15" height="25"></td>
+			<td><font color="#555555" face="Arial" size="2"><a href="http://www.bluenile.com/services_channel.asp?track=59">Finance&nbsp;&amp;&nbsp;Insurance</a></font></td>
+			<td><img src="/assets/images/item/item_pxlclear.gif" width="15" height="25"></td>
+			<td><font color="#555555" face="Arial" size="2"><a href="http://www.bluenile.com/email_friend.asp?track=59">Refer&nbsp;a&nbsp;Friend</a></font></td>
 		</tr></tbody></table></td>
 	</tr></tbody></table></td>
 </tr></tbody></table>
-<table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr>
-	<td valign="TOP" width="100%"><img src="http://a1603.g.akamai.net/f/1603/2779/1h/www.bluenile.com/assets/images/item/item_underbarfade.jpg" width="100%" height="2"></td>
+	
+		<table width="776" border="0" cellpadding="6" cellspacing="0"><tbody><tr>
+		<td width="130"><font color="#555555" face="Arial" size="2">&nbsp;</font></td>
+		
+	<td align="CENTER"><font color="#555555" face="Verdana" size="1">
+		<a href="http://www.bluenile.com/product_policies.asp">Legal Notices</a> &nbsp;
+		<a href="http://www.bluenile.com/privacy.asp?track=59">Privacy Policy</a> &nbsp;
+		© 1999-2002, Blue Nile, Inc.
+	</font></td>
 </tr></tbody></table>
 
-<!-- copyright 1999-2000 Blue Nile, Inc.-->
+<script language="JavaScript">
+<!--
+	document.write ('<IMG SRC="/assets/images/item/item_pxltrack.gif?resolution=' + screen.height + 'x' + screen.width + '&colordepth=' + screen.colorDepth + '" HEIGHT="1" WIDTH="1">')
+//-->
+</script><img src="/assets/images/item/item_pxltrack.gif?resolution=600x800&amp;colordepth=24" height="1" width="1">
+
+<!-- copyright 1999-2002 Blue Nile, Inc.-->
 
 
-		<script language="JavaScript">
-		<!--
-		if (document.cookie.indexOf("GUID=") != -1) {
-			sweepswin = window.open('/sweepstakes_pop.asp','bn_sweeps','resizable=1,scrollbars=0,directories=0,height=380,width=355');
-			sweepswin.focus();
-		}
-		//-->
-		</script>
-		
+
+	<script language="JavaScript">
+	<!--
+	if (document.cookie.indexOf("GUID=") != -1) {
+		sweepswin = window.open('/sweepstakes_pop.asp','bn_sweeps','resizable=1,scrollbars=0,directories=0,height=380,width=355');
+		sweepswin.focus();
+	}
+	//-->
+	</script>
+	
 	<p>
 	
 	
