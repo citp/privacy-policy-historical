@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the littletikes.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602195415id_/http%3A//www.littletikes.com/privacy.asp%3FC%3DP) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littletikes.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204202109id_/http%3A//www.littletikes.com/privacy.asp%3FC%3DP) for the most accurate reproduction.*
 
 # LITTLE TIKES PRIVACY POLICY
 
 | ****
 
-**LITTLE TIKES PRIVACY POLICY**      _[LITTLE TIKES WARRANTY POLICY](https://web.archive.org/web/20030602195415id_/http%3A//www.littletikes.com/Warranty.asp)_
+**LITTLE TIKES PRIVACY POLICY**      _[LITTLE TIKES WARRANTY POLICY](https://web.archive.org/web/20031204202109id_/http%3A//www.littletikes.com/Warranty.asp)_
 
-Click [here](https://web.archive.org/web/20030602195415id_/http%3A//www.littletikes.com/default2.asp) to return to the home page 
+Click [here](https://web.archive.org/web/20031204202109id_/http%3A//www.littletikes.com/default2.asp) to return to the home page 
 
 Little Tikes' policy is to respect and protect your privacy. This policy statement tells you how we collect information from you and how we use it.
 
