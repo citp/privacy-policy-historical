@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelguide.net privacy policy that was archived on 2000-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001030074226id_/http%3A//hotelguide.net/privacy_policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelguide.net privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607034649id_/http%3A//www.hotelguide.net/privacy_policies.html) for the most accurate reproduction.*
 
 # RealMetros Privacy Policies
 
