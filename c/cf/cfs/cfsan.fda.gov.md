@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cfsan.fda.gov privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218020813id_/http%3A//www.cfsan.fda.gov/required.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfsan.fda.gov privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604001348id_/http%3A//www.cfsan.fda.gov/required.html) for the most accurate reproduction.*
 
 # REQUIRED NOTICES
 
@@ -63,9 +63,13 @@ Reference in this web site to any specific commercial products, process, service
 
 ## Required Disclaimer Notice
 
-The information provided using this WEB Server is only intended to be General Summary Information to the Public. It is not intended to take the place of either the written law or regulations. For an authoritative source, the [FDA Regulations](http://vm.cfsan.fda.gov/~dms/reg-2.html) are published in the CFR - Code of Federal Regulations, and are available in book format from the Superintendent of Documents, [US Government Printing Office](http://www.gpo.gov/). 
+The information provided using this WEB Server is only intended to be General Summary Information to the Public. It is not intended to take the place of either the written law or regulations. For an authoritative source, the [FDA Regulations](http://www.cfsan.fda.gov/~dms/reg-2.html) are published in the CFR - Code of Federal Regulations, and are available in book format from the Superintendent of Documents, [US Government Printing Office](http://www.gpo.gov/). 
 
-##  US Government Computer
+## Information Quality Guidelines
+
+FDA/CFSAN is dedicated to ensuring that all data it disseminates reflect a level of quality commensurate with the nature and timeliness of the information. Futher, FDA seeks to disseminate all its data as broadly and promptly as possible so that the public can benefit from FDA's work of ensuring that foods are safe, wholesome, sanitary, and properly labeled and that cosmetics are safe and properly labeled. In keeping with this commitment, and in accordance with OMB requirements, the FDA has developed draft [Information Quality Guidelines](http://www.hhs.gov/infoquality/fda.html) for public review and comment. 
+
+## US Government Computer
 
 This site is maintained by the U.S. Government. It is protected by various provisions of Title 18, U.S. Code. Violations of Title 18 are subject to criminal prosecution in federal court. 
 
@@ -81,7 +85,7 @@ CFSAN is a part of the Food and Drug Administration (FDA) and of the Department 
 * * *
 
 CFSAN Privacy Policy Statement originally posted by LRD on 1998-FEB-26   
-Updated 2001-OCT-10  
+Updated 2002-MAY-16  
 
 
 * * *
