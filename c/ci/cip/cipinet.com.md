@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cipinet.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630043123id_/http%3A//www.cipinet.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cipinet.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204115055id_/http%3A//www.cipinet.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
-# Cipinet : Privacy Policy
+# Cipinet Privacy Policy
 
 Cipinet takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
@@ -16,9 +16,9 @@ For search engine listing, we ask for the information such as URL and Email Addr
 
 Cipinet automatically receives and records information when a visitor uses our search engine. The information includes Keywords used, IP address, the type of Browser used and the time the search was made. This information is used only for the purpose of improving our search engine services. 
 
-For advertising, we request applicants to submit their personal and website details. This information is required to access their website to approve for advertising campaign. If the website is not accepted, the information collected is not saved. If approved, the information is stored at the safe place to contact the advertiser. 
+For advertising, we request applicants to submit their personal and website details. This information is required to access their website to approve for advertising campaign. If the website is not accepted, the information collected is not saved. If approved, the information is stored at the safe place to contact the advertiser.
 
-**Information Sharing and Disclosure**
+ **Information Sharing and Disclosure**
 
 Cipinet does not rent, sell, or share personal information about you with other people and/or affiliated and nonaffiliated companies. 
 
