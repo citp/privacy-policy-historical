@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chick.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604041157id_/http%3A//www.chick.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chick.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207053825id_/http%3A//www.chick.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -17,7 +17,8 @@
 • [Take Survey](https://web.archive.org/surveys/survey.asp)  
 • [E-Mail Us](https://web.archive.org/contacts.asp)  
 • [Keep Me Posted](https://web.archive.org/requests/NewsRequest.asp)  
-• [Read "Who, Me?"](https://web.archive.org/reading/tracts/0900/0900_01.asp)
+• [Read "Who, Me?"](https://web.archive.org/reading/tracts/0900/0900_01.asp)  
+• [Translate](https://web.archive.org/transinstruct.asp)
 
 **PRODUCTS**
 
@@ -29,7 +30,9 @@
 • [Poster](https://web.archive.org/catalog/posters/poster.asp)  
 • [Videos](https://web.archive.org/catalog/videolist.asp)  
 • [DVDs](https://web.archive.org/catalog/dvdlist.asp)  
-• [Assortments](https://web.archive.org/catalog/assortmentlist.asp)
+• [Assortments](https://web.archive.org/catalog/assortmentlist.asp)  
+• [Mini-books](https://web.archive.org/catalog/minibooklist.asp)  
+• [Promotional](https://web.archive.org/catalog/promotionallist.asp)
 
 **INFORMATION**
 
