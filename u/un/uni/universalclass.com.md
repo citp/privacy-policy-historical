@@ -1,10 +1,56 @@
-> *The following text is extracted and transformed from the universalclass.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201212715id_/http%3A//home.universalclass.com/myinterests/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universalclass.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605135457id_/http%3A//home.universalclass.com/myinterests/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - UniversalClass
 
-|    |   
----|---  
-  |  |    |  |     
+  |  |   Categories  
+---  
+[Accounting](http://home.universalclass.com/i/subjects/accounting.htm)  
+[Arts & Crafts](http://home.universalclass.com/i/subjects/artsandcrafts.htm)  
+[Business](http://home.universalclass.com/i/subjects/Business.htm)  
+[Career Training](http://home.universalclass.com/i/subjects/careertraining.htm)  
+[Computing/Technology](http://home.universalclass.com/i/subjects/computers.htm)  
+[Counseling Pyschology](http://home.universalclass.com/i/subjects/counseling.htm)  
+[Criminal Studies](http://home.universalclass.com/i/subjects/Criminal.htm)  
+[Family Studies](http://home.universalclass.com/i/subjects/familyresources.htm)  
+[Finance/Wealth](http://home.universalclass.com/i/subjects/makingmoney.htm)  
+[Health/Fitness](http://home.universalclass.com/i/subjects/fitness.htm)  
+[History](http://home.universalclass.com/i/subjects/History.htm)  
+[Home Schooling](http://home.universalclass.com/i/subjects/homeschooling.htm)  
+[Language Studies](http://home.universalclass.com/i/subjects/languagestudies.htm)  
+[Law & Legal Studies](http://home.universalclass.com/i/subjects/lawandlegal.htm)  
+[Medical Billing](http://home.universalclass.com/i/subjects/medicalbilling.htm)  
+[Performing Arts](http://home.universalclass.com/i/subjects/PerformArts.htm)  
+[Self Help](http://home.universalclass.com/i/subjects/selfhelp.htm)  
+[Social Sciences](http://home.universalclass.com/i/subjects/social.htm)  
+[Spiritual Studies](http://home.universalclass.com/i/subjects/spiritual.htm)  
+[Web Development](http://home.universalclass.com/i/subjects/learnhtml.htm)  
+[Writing Classes](http://home.universalclass.com/i/subjects/Writing.htm)  
+[Special Offers](http://home.universalclass.com/i/subjects/specials.htm)  
+  
+   
+ My Views  
+[My Classes](http://my.universalclass.com/secure/myclasses.htm)  
+[My Reminders](http://my.universalclass.com/secure/myreminders.htm)  
+[$$ Money I've Earned](http://my.universalclass.com/secure/moneyearned.htm)  
+[Course Catalog](http://home.universalclass.com/courses/1.htm)  
+[Course Requests](http://boards.universalclass.com/requests/view/1.htm)  
+[Global Search](http://search.universalclass.com/home/index.htm)  
+  
+   
+ My To Do's  
+[Create a Class](http://my.universalclass.com/secure/createclass.htm)  
+[Join/Remove a Class](http://my.universalclass.com/secure/joinclass.htm)  
+  
+   
+ My Settings  
+[Change Password](http://my.universalclass.com/secure/password.htm)  
+[Edit My Profile](http://my.universalclass.com/secure/profile.htm)  
+[Edit My Resume](http://my.universalclass.com/secure/editresume.htm)  
+[My Interests & Expertise](http://my.universalclass.com/secure/manageinterests.htm)  
+[Help](http://home.universalclass.com/help.htm)  
+[LogOff](http://home.universalclass.com/logoff.htm)  
+  
+  |  |     
 ---  
 **UniversalClass.com Inc. takes your privacy seriously.** Please feel free to review our Privacy Policy: 
 
@@ -63,21 +109,12 @@ If you don't find the area of your interest, you may suggest a new UniversalClas
   
 ---  
   
-  1. [**Beginner HTML & Web Design**](http://universalclass.com/i/technology/computersciences/classes/1769.htm) (Hot Class!) **4 Stars.** If you want the mystery taken out of web design and HTML, this continuous-intake course is for you! No formal computing or web design experience required. If you know how to work the keyboard, you're in! This course is the first in CHRIS WATLING'S WEB DEVELOPMENT SERIES.  
-**Topics Covered & Skills Acquired:** Students of T100 learn how to format text; create links, lists, and tables; add color, borders, backgrounds, and images – all like the pros do and while acquiring the skills that prepare them for subsequent courses in Advanced HTML, CSS, JavaScript, DHTML, and XML.  
-**What Students Say about this Course and the Quality of Instruction** :  
-Darlene M: Thank you Chris for all your help! (and there was alot of it). It was a great class, I have learned alot and plan on taking the advance class soon.  
-Almudena V: Our teacher is amazing!! I have enjoyed the course a lot. But I have learned due to our teacher because she has made a great job in creating the lessons. They are very simple to understand; ...this has been a great and wonderful journey for me to take with her.  
-Tammy G: Wow it's so nice to have a compassionate teacher. I learned so much...! You have been so helpful when I was having trouble.  
-Miguel M: Thank you for the amendments and for the encouragement!!!! I think the best way to learn is to learn from mistakes so I really appreciate your effort in correcting every error so I can be aware of them.   
-Shaza S: I'm happy with this class and the instructor. She is so great and very encouraging or should I say heartening. Even though I do alot of mistakes, she still give me a chance to redo my assignment until I did it right. I never feel this situation in my college.... but she is different and I'm gonna miss her and the entire class. [Chris Watling](http://experts.universalclass.com/sunwalker)
-  2. [**Classroom Management**](http://universalclass.com/i/education/education/classes/1499.htm) (63 students) **4 Stars.** This class is for teachers or those interested in a teaching career. Learn how to manage a classroom for the most effective and efficient instruction. Tips and techniques for maintaining student discipline and involvement. [Susan Petrey](http://experts.universalclass.com/texansue)[](http://my.universalclass.com/certificate.htm?ID=494&cn=texansue)[](http://my.universalclass.com/certificate.htm?ID=759&cn=texansue)
-  3. [**Introduction to Professional Medical Billing From Home**](http://universalclass.com/i/medicine/healthservices/classes/1759.htm) (Hot Class!) **4 Stars.** A course devoted to those entrepreneurs who have the desire, professionalism, education and dedication to run a successful medical billing business from home! The course focuses on specifics like HOW to get started, determining WHAT types of services to offer, comparisons on software choices, reporting and collection choices, and is loaded with FREE FORMS for you to keep and use! [Annette Derks](http://experts.universalclass.com/akaderks)[](http://my.universalclass.com/certificate.htm?ID=498&cn=akaderks)[](http://my.universalclass.com/certificate.htm?ID=540&cn=akaderks)[](http://my.universalclass.com/certificate.htm?ID=664&cn=akaderks)
-  4. [**The Healing Power of Affirmations**](http://universalclass.com/i/socialsciences/spiritual/classes/1774.htm) (146 students) **4 Stars.** Learn more about the ancient art of affirming and find out how to use affirmations effectively in your daily life to achieve your goals and to manifest your dreams. Affirmations are a powerful way of changing your life for the better, and this course is a helpful tool on your path. [Anita Asman](http://experts.universalclass.com/aumara)
-  5. [**Behavior Management: When Time-out & Stickers Don't Work**](http://universalclass.com/i/education/earlyed/classes/1648.htm) (45 students) **4 Stars.** Learn the causes of difficult behavior in young children as well as positive strategies to manage and change behavior. This course has been offered at a univeristy level and has been adapted for parents, child care providers, educators, and others who work with young children. [Catherine Swanson Cain](http://experts.universalclass.com/cain00)
+  1. [**QuickBooks Accounting**](http://universalclass.com/i/business/accounting/classes/4109.htm) (Hot Class!) **4 Stars.** This is a very practical course on computerized accounting with QuickBooks 2001. Accounting has come a long way; from the old ledgers and columnar pads to complete automated systems. QuickBooks is a great tool that facilitates transaction recording, posting to ledgers, writing checks, preparing invoices, performing reconciliation and most importantly preparing the company financial statements with a few simple clicks. Students will learn how to set up a company from scratch, prepare invoices, purchase orders, reconcile bank and credit card accounts quickly and easily, write checks, do online banking, prepare budgets, process payroll, prepare quarterly payroll taxes and much more. The course is designed to give the student self-confidence, speed and accuracy in working with this software. Students who master the program will extend their accounting knowledge beyond measure. They will feel capable of doing computerized accounting work, not only for other companies, but also may contemplate the idea of starting their own bookkeeping practice. Before enrolling in the course students should have already had an introductory course in accounting. Although it is not necessary to have the QuickBooks software to enroll in the course and go through all the lessons, students will need it to complete the final exam which consist of setting up a company, entering historical accounting data and preparing financial statements and other reports. If you do have the program to go through the course you will find it to be an added benefit.  [Dantes Joseph](http://experts.universalclass.com/danny039)
+  2. [**Anatomy-Beginners and Beyond**](http://universalclass.com/i/education/homeschool/classes/4124.htm) (Hot Class!) **4 Stars.** Have you ever wondered why the Funny Bone is called that? Did you know that you blink your eyes about 20,000 times a day? That an eyelash life is about 150 days before it falls out, or that 400 gallons of blood flow through your kidneys each day? What about your body's blood vessels? Placed end to end, all would measure about 62,000 miles. All those (and hundreds more) strange but true facts are found here! Early learners and advanced alike will enjoy this course! First we teach you the body parts, then the systems, and then the functions of each. Filled with interactive games, online movies and activities, it is a fun learning experience for the whole family. [Jill Manzoni](http://experts.universalclass.com/1dedicatedmom)
+  3. [**Intermediate Poetry Under Construction**](http://universalclass.com/i/arts/creativewriting/classes/3981.htm) (Hot Class!) **3 Stars.** Are you looking for a way to improve your writing? Lacking inspiration? Make your poetry come alive. Learn how to create vibrant, exciting poems. Find your poetic voice. Take this course and you will learn about different poetic forms, exercises to circumvent writer's block, and how to polish what you've written. Join other poets who want to improve their writing or get motivated to write again. [Katelyn Thomas](http://experts.universalclass.com/whitepinek)
+  4. [**Hosting a LIVE Web Conference**](http://universalclass.com/i/business/businesscommunications/classes/4059.htm) (Hot Class!) **4 Stars.** Hosting a LIVE Web Conference Description Designed for... Anyone who gives business presentations Project Management, HR, or Training Online teachers and coaches 'Hosting a LIVE Webconference' examines the fundamental elements of synchronous (at the same time) communication and describes how you can develop a topic for web delivery, create interactive experiences and send clear and consistent messages to your audience. We will explore the top 5 web conferencing solutions and discuss strategies for choosing the right communication method. If your organization has a webconferencing platform, you may use it to complete your activities. We will also practice hosting and presenting skills, as well as develop presentation skills that impact effectiveness. The webcourse is divided into three modules, one module per week. Each module will begin with a LIVE session, via web conference. All activities, as well as the final presentation must be completed before a certificate of completion is awarded. Our promise to you: You will be able to identify and create the elements of a rich, engaging online presentations for web conferences. You will be able to identify and create a treatment for a LIVE online web conference. You will be able to host an interactive LIVE web conference and be prepared for technical and content changes.   [Michael Henry](http://experts.universalclass.com/henrymp)
+  5. [**000T Demystifying the Internet**](http://universalclass.com/i/technology/computersciences/classes/3941.htm) (42 students) **4 Stars.** This free, continuous-intake course has something for everyone. If you are new to the Internet and all its goings-on, then certain lessons in this course will help you better understand matters like email, newsgroups, and chat. For those people considering training in Web Development, it touches on the very basics of the Internet and the World Wide Web: band widths, protocols, the types of documents on the Web, FTP, the names and meanings of the various Web technologies, and so on. Having completed this course, students will feel more comfortable with the terms of the Web and have a sense of the general environment in which web developers work. T000 is a course in the Web Development Program . It may be taken on its own or as part of that Program. Due to the popularity of the Web Development Program of courses, enrollment is limited. If you find that enrollment has been closed, contact the instructor to have your name put on a waiting list. [Chris Watling](http://experts.universalclass.com/sunwalker)
   6. [**More Online Classes...**](http://universalclass.com/i/courses/1.htm)
-  7. [ **Check out these Hot Classes...**](http://universalclass.com/i/hotclasses.htm)
+  7. [ **Check out these Hot Classes...**](http://search.universalclass.com/i/search/hotclasses.htm)
 
-  
-  
-  |   
+
