@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the famousfootwear.com privacy policy that was archived on 2003-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030630125639id_/http%3A//www.famousfootwear.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famousfootwear.com privacy policy that was archived on 2003-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031003155733id_/http%3A//www.famousfootwear.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # 
 
