@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arkansas.gov privacy policy that was archived on 2000-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001214213900id_/http%3A//www.arkansas.gov/access.html%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arkansas.gov privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606175300id_/http%3A//www.arkansas.gov/access.html%23Privacy) for the most accurate reproduction.*
 
 # Access Information
 
