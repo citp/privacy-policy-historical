@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hewitt.com privacy policy that was archived on 2003-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031214231150id_/http%3A//was4.hewitt.com/hewitt/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hewitt.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603044229id_/http%3A//was4.hewitt.com/hewitt/privacy.htm) for the most accurate reproduction.*
 
 # Hewitt Associates - Privacy Statement
 
