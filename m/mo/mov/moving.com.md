@@ -1,13 +1,23 @@
-> *The following text is extracted and transformed from the moving.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218160607id_/http%3A//moving.com/footer/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moving.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607192806id_/http%3A//moving.com/footer/privacy.asp) for the most accurate reproduction.*
 
 # Moving.com - Find Moving Companies, Real Estate Agents, Mortgage Quotes and more
 
+|  |  |   
+---|---|---  
+  
+|   
+---  
 The information presented on this page covers Moving.com's usage of information gathered for our website, [www.moving.com](http://www.moving.com/). 
 
-Moving.com contains links to other sites. Moving.com is not responsible for the privacy practices, business operations, or content of any such sites.
+Moving.com contains links to other sites. 
+
+Moving.com is not responsible for the privacy practices, business operations, or content of any such sites.
 
 **Demographic Information**  
-Moving.com currently surveys its visitors for certain demographical information. This information typically includes contact information (e-mail address, zip code, phone number). The contact information provided by users to Moving.com is used solely for the purposes of:
+Moving.com currently surveys its visitors for certain demographical information. This information typically includes contact information (e-mail address, zip code, phone number).
+
+|   
+The contact information provided by users to Moving.com is used solely for the purposes of:
 
   * contacting our users if necessary.
   * allowing reputable and professional companies to contact users in order to offer them a service that the users had voluntarily requested.
@@ -36,7 +46,11 @@ Moving.com provides its users with the opportunity to unsubscribe from receiving
 >  Suite 1131  
 >  New York, NY 10004
 
+**Advertisements**  
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.almondnet.com/webSite2/policy.html). 
+
 **Contacting the Web Site**  
 If you have any questions regarding this privacy statement, the practices of this site, or your personal matters involving Moving.com, please contact us using the information provided below:
 
-Moving.com 11 Broadway Suite 1131 New York, NY 10004 move@moving.com
+Moving.com 11 Broadway Suite 1131 New York, NY 10004 move@moving.com  
+| 
