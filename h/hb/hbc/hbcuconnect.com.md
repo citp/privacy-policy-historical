@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hbcuconnect.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206102743id_/http%3A//hbcuconnect.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hbcuconnect.com privacy policy that was archived on 2005-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050112071644id_/http%3A//hbcuconnect.com/privacy.html) for the most accurate reproduction.*
 
 # HBCUCONNECT.COM Terms of Service
 
