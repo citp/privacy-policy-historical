@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laplink.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602142054id_/http%3A//laplink.com/siteinfo/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laplink.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206213940id_/http%3A//www.laplink.com/siteinfo/default.asp) for the most accurate reproduction.*
 
 # LapLink Inc Privacy Policy
 
@@ -7,7 +7,7 @@
   * Why do we collect it?
   * Security.
   * Freedom of choice: "opting-out."
-  * How to update your MyLapLink profile.
+  * How to update your MySupport profile.
   * Legal disclaimer.
   * What happens if we change our privacy policy?
   * "Cookies" and how we use them.
@@ -42,11 +42,11 @@ LapLink Inc does not handle financial transactions via the Web, so it has no nee
 
 **Freedom of choice: "opting-out"**
 
-Don't want to receive e-mail or postal mail from us? We give our Web site visitors the opportunity to "opt-out" of having their information used for purposes that are not directly related to our Web site at the point when we ask for the information. Your MyLapLink profile contains a box that you check to indicate you don't want to be sent any news or product information.
+Don't want to receive e-mail or postal mail from us? We give our Web site visitors the opportunity to "opt-out" of having their information used for purposes that are not directly related to our Web site at the point when we ask for the information. Your MySupport profile contains a box that you check to indicate you don't want to be sent any news or product information.
 
 Visitors who decide they no longer wish to receive our product mailings or promotional materials sent on behalf of our partners have three options for opting-out: 
 
-  * Visit [MyLapLink profile](https://web.archive.org/mylaplink/viewProfile.asp). Click one box to opt out of receiving future promotional materials. 
+  * Visit [MySupport profile](https://web.archive.org/mysupport/viewProfile.asp). Click one box to opt out of receiving future promotional materials. 
 
   * Click the opt-out link that you’ll find on each promotional e-mail. 
 
@@ -54,7 +54,7 @@ Visitors who decide they no longer wish to receive our product mailings or promo
 
 
 LapLink Inc.  
-18702 North Creek Parkway  
+18912 North Creek Parkway  
 Bothell, WA 98011  
 USA  
 Phone: 425.483.8088  
@@ -66,11 +66,11 @@ Fax: 425.487.1284
 
 Visitors to our site are always notified when their information is being collected by any outside party. We do this so LapLink Inc visitors can make informed choices as to whether they should proceed with services that require an outside party.
 
-**How to update your MyLapLink profile**
+**How to update your MySupport profile**
 
-Through the one-stop convenience of MyLapLink you can register LapLink products, submit and track your requests for customer support, sign up to receive e-mail notices of new product releases and special offers or "opt-out" of such mailings.
+Through the one-stop convenience of MySupport you can register LapLink products, submit and track your requests for customer support, sign up to receive e-mail notices of new product releases and special offers or "opt-out" of such mailings.
 
-Once you’ve registered with us, you may update or change your personal profile at any time by visiting the [MyLapLink](https://web.archive.org/mylaplink/viewProfile.asp) section of our Web site.
+Once you’ve registered with us, you may update or change your personal profile at any time by visiting the [MySupport](https://web.archive.org/mysupport/viewProfile.asp) section of our Web site.
 
 **Legal disclaimer**
 
@@ -95,7 +95,7 @@ Cookies also help us to better understand general visitor interests and patterns
 Please feel free to write, call or send us an e-mail message with any questions or comments you have about our privacy policies!
 
 LapLink Inc.  
-18702 North Creek Parkway  
+18912 North Creek Parkway  
 Bothell, WA. 98011  
 USA  
 Phone: 425.483.8088  
