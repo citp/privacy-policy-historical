@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstamres.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622103229id_/http%3A//www.firstamres.com/html/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstamres.com privacy policy that was archived on 2003-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031011145230id_/http%3A//www.firstamres.com/html/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # First American Real Estate Solutions
 
@@ -71,6 +71,10 @@ First American Real Estate Solutions, L.P.
 Attn: Client Services  
 5601 East La Palma Avenue  
 Anaheim, CA 92807
+
+As an individual consumer, you have privacy rights as it relates to direct marketers. Review the attached [document](https://web.archive.org/doc/FA_OptOutConsumerFlyer_LR.pdf) to learn more about having your contact information removed from lists used for telemarketing and direct mail.
+
+Also, we recognize the challenges our clients face regarding consumer opt-out regulations. Review the attached [document](https://web.archive.org/doc/FA_OptOutBusinessFlyer_LR.pdf) to learn more about what First American Real Estate Solutions is doing to help businesses in their customer's privacy efforts.
 
 **Changes in Policy**
 
