@@ -1,21 +1,32 @@
-> *The following text is extracted and transformed from the hopster.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001173033id_/http%3A//www.hopster.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hopster.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603015720id_/http%3A//www.hopster.com/about/privacy) for the most accurate reproduction.*
 
 # hopster | privacy
 
-hopster is planning to become a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices.
+hopster is preparing to become a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices.
 
 This privacy statement covers the site www.hopster.com. Because this Web site wants to demonstrate its commitment to its users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-1\. What personally identifiable information hopster collects.  
-2\. What personally identifiable information third parties collect through the Web site.  
-3\. What organization collects the information.  
-4\. How hopster uses the information.  
-5\. With whom hopster may share user information.  
-6\. What choices are available to users regarding collection, use and distribution of the information.  
-7\. What types of security procedures are in place to protect the loss, misuse or alteration of information under hopster control.  
-8\. How users can correct any inaccuracies in the information.
+  1. What personally identifiable information hopster collects. 
+  2. What personally identifiable information third parties collect through the Web site. 
+  3. What organization collects the information. 
+  4. How hopster uses the information. 
+  5. With whom hopster may share user information. 
+  6. What choices are available to users regarding collection, use and distribution of the information. 
+  7. What types of security procedures are in place to protect the loss, misuse or alteration of information under hopster control. 
+  8. How users can correct any inaccuracies in the information. 
+
+
 
 If users have questions or concerns regarding this statement, they should contact hopster Customer Service by e-mail at privacy@hopster.com .
+
+  * Ensure that you do not expose confidential information to online threats and protect you and your family from inappropriate online content. 
+  * Secure your personal information while providing greater control over your family's Internet experience. 
+  * McAfee's Privacy Service is a powerful, integrated service which combines personal identifiable information (PII) protection with online advertisement blocking and content filtering. 
+
+[learn more about McAfee Privacy Service](http://click.linksynergy.com/fs-bin/click?id=EjYpE/roCBo&offerid=50252.10000010&type=3&subid=0)
+
+
+
 
 ## Information Collection
 
