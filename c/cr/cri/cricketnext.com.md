@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cricketnext.com privacy policy that was archived on 2000-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001217155500id_/http%3A//cricketnext.com/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricketnext.com privacy policy that was archived on 2002-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020614233714id_/http%3A//www.cricketnext.com/disclaimer.html) for the most accurate reproduction.*
 
 # CRICKETNEXT.COM ::: Privacy Policy
 
