@@ -1,10 +1,20 @@
-> *The following text is extracted and transformed from the ebooks.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607021159id_/http%3A//www.ebooks.com/information/privacy.smm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebooks.com privacy policy that was archived on 2004-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041019212659id_/http%3A//usa.ebooks.com/information/privacy.asp) for the most accurate reproduction.*
 
-# eBooks.com - Help
+# eBooks.com - Help - Privacy
 
-####   About the Privacy Policy
+Welcome to eBooks.com The World's Leading Source of eBooks.
 
-eBooks.com respects your privacy. As we develop our online presence, we will revise our Privacy Policy to reflect our practices and to meet any legislative or other requirements. The terms of this Privacy Policy form part of and should be read in conjunction with the [Terms of Use and Licenses](https://web.archive.org/information/terms.smm) which govern this Website.   
+A massive range of ebooks in all popular formats including MS .lit, Palm and Adobe
+
+The eBooks.com website has been built with the current web standards in mind. This site will look much better in a browser that supports these web standards, however its content is accessible to any browser or Internet device.
+
+We recommend that you update your browser to the lastest version. Thank you.
+
+|  |  | 
+
+#### About the Privacy Policy
+
+eBooks.com respects your privacy. As we develop our online presence, we will revise our Privacy Policy to reflect our practices and to meet any legislative or other requirements. The terms of this Privacy Policy form part of and should be read in conjunction with the [Terms of Use and Licenses](https://web.archive.org/information/terms.asp) which govern this Website.   
 
 
 #####   Collection of Personal Information
@@ -48,7 +58,7 @@ eBooks.com takes your privacy and the privacy of all its customers very seriousl
 
 If you have any concerns about your privacy and the use of the Website or any of eBooks.com's services or products, please contact [privacy@eBooks.com](mailto:privacy@eBooks.com). 
 
-You may request that we provide you with a copy of the personal information collected by us from your use of the Website or through your dealings with us. You may make this request by contact us through our [Online Support Form](https://web.archive.org/help/support-form.smm) and providing the requested details. 
+You may request that we provide you with a copy of the personal information collected by us from your use of the Website or through your dealings with us. You may make this request by contact us through our [Online Support Form](http://usa.ebooks.com/help/support-form.aspx) and providing the requested details. 
 
 #####   E-commerce Policy
 
@@ -63,3 +73,70 @@ Provo, UT 84604-4445 USA
 #####   Changes to Privacy Policy
 
 If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+
+|  | 
+
+##### Top 15 Best Sellers
+
+  
+
+
+##### Special Offers
+
+[****First time to eBooks.com?****](http://usa.ebooks.com/news/article.asp?AID=41)  
+Easy steps to using eBooks
+
+[ ** **Register your subjects of interest****](http://usa.ebooks.com/news/article.asp?AID=42)  
+Receive an email alert when we release new books in your field.
+
+[ ** **10% off New York Times Best Sellers****](http://usa.ebooks.com/news/article.asp?AID=5475)  
+eBook versions of the New York Times Best Sellers - at 10% off!
+
+[ ** **Meaning of Life Sale****](http://usa.ebooks.com/news/article.asp?AID=13771)  
+It can take a lifetime to figure out the meaning of life - but you can get a head start with 20% off our best religion and philosophy books.
+
+[ ** **Best Selling Fiction Titles****](http://usa.ebooks.com/news/article.asp?AID=46)  
+Books that are definitely worth a read - our Best Selling Fiction
+
+[ ** **Oxford University Press Reference eBooks****](http://usa.ebooks.com/news/article.asp?AID=50)  
+See the exciting range of Oxford Reference eBooks
+
+[](http://us.ebooks.com/article/article.sjc?AID=50)
+
+[****Just Arrived!****](http://usa.ebooks.com/news/article.asp?AID=57)  
+We're adding hundreds of great titles each month.
+
+[ ** **Recently Reduced Titles****](http://usa.ebooks.com/news/article.asp?AID=5478)  
+On Sale - Our favourite and most popular ebooks!
+
+[ ** **Cambridge University Press titles****](http://usa.ebooks.com/news/article.asp?AID=64)  
+The most comprehensive selection of Cambridge University Press ebooks.
+
+[ ** **Take the law into your own hands!****](http://usa.ebooks.com/news/article.asp?AID=60)  
+Represent Yourself in Court, Take Control of Your Student Debt, Become a US Citizen
+
+[ ** **Schools and Libraries receive a discount at eBooks.com!****](http://usa.ebooks.com/news/article.asp?AID=7154)  
+We are happy to offer schools, universities and libraries a discount on ebooks.
+
+[ ** **Press Release - Full-text search at eBooks.com****](http://usa.ebooks.com/news/article.asp?AID=5481)  
+Announcing the launch of ground-breaking search technology at eBooks.com.
+
+[ ** **Syngress Computer ebooks****](http://usa.ebooks.com/news/article.asp?AID=69)  
+Popular Computing ebooks
+
+[ ** **Win $50 worth of eBooks!****](http://usa.ebooks.com/news/article.asp?AID=5948)  
+Join our eBooks.com Competitions Group for a chance to win yourself $50 worth of eBooks!
+
+[ ** **Get Rich Now****](http://usa.ebooks.com/news/article.asp?AID=72)  
+Get control of your finances with our "Financial Independence Library"
+
+[ ** **Express Exec****](http://usa.ebooks.com/news/article.asp?AID=68)  
+Save 20% on 100 comprehensive business strategy titles.
+
+[ ** **Academic Best Sellers****](http://usa.ebooks.com/news/article.asp?AID=5500)  
+Our best selling academic titles are great for students, academics and intellectuals.
+
+[ ** **eBook Library****](http://usa.ebooks.com/news/article.asp?AID=82)  
+EBL eBook Library is an innovative, lightweight ebook lending platform for academic and research libraries
+
+| 
