@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joblo.com privacy policy that was archived on 2002-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020405205156id_/http%3A//www.joblo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joblo.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202070907id_/http%3A//www.joblo.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for JoBlo's Movie Emporium
 
@@ -9,7 +9,7 @@
   
 [Home](http://www.joblo.com/index.htm) \- [Reviews](http://www.joblo.com/jobloalphabetical.htm) \- [Trailers](http://www.joblo.com/movietrailers.htm) \- [Screensavers](http://www.joblo.com/moviescreensavers.htm) \- [Wallpapers](http://www.joblo.com/moviewallpapers.htm) \- [DVD Clinic](http://www.joblo.com/dvd/index.htm) \- [Trivia Quizzes](http://www.joblo.com/indianasev.htm) \- [News  
 ](http://www.joblo.com/movienews/index.htm)[ Arrow in the Head](http://www.joblo.com/arrow/index.htm) \- [Upcoming Movies](http://www.joblo.com/comingsoon.htm) \- [Celebrity Savers](http://www.joblo.com/moviestarscreensavers.htm) \- [Scripts](http://www.joblo.com/moviescripts.htm) \- [Discussion Board  
-](http://www.joblo.com/ubb/index.shtml)[Shopping](http://www.joblo.com/shopping.htm) \- [Movie Malls](http://www.moviemalls.com/) \- [Star Malls](http://www.starmalls.com/) \- [Box-Office](http://www.joblo.com/box-office.htm) \- [Interviews](http://www.joblo.com/interviews.htm) \- [Contact Us](http://www.joblo.com/contactus.htm)
+](http://www.joblo.com/forums/)[Shopping](http://www.joblo.com/shopping.htm) \- [Movie Malls](http://www.moviemalls.com/) \- [Star Malls](http://www.starmalls.com/) \- [Box-Office](http://www.joblo.com/box-office.htm) \- [Interviews](http://www.joblo.com/interviews.htm) \- [Contact Us](http://www.joblo.com/contactus.htm)
 
 **Privacy Statement for JoBlo's Movie Emporium**
 
