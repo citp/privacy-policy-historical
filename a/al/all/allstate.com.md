@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the allstate.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604181949id_/http%3A//www.allstate.com/about/priv.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allstate.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210081642id_/http%3A//www.allstate.com/about/priv.asp) for the most accurate reproduction.*
 
-# Allstate Insurance Company At Allstate.com
+# Allstate.com - Learn More About Allstate Insurance Company
 
   | 
 
 Important Notice - Allstate Privacy Statement
 
- _Revised June 4, 2001_
+ _Revised August 30, 2002_
 
 At Allstate, we understand your concerns about privacy. We hope that this notice, which describes our use and protection of nonpublic personal information (“customer information”), will help you understand how we treat the customer information that we obtain from you or other sources in the course of providing you with products and services. 
 
 Whether you’re doing business with us through your local agent or broker, our Customer Information Center, or allstate.com, we want you to know that Allstate respects your privacy and protects your information. 
 
-  * We do not sell your customer information.      
-  * We do not share customer information with persons, companies, or organizations outside of Allstate that would use that information to contact you about their own products and services.      
-  * We expect persons or organizations that provide services on our behalf to keep customer information confidential and to use it only to provide the services we’ve asked them to perform.      
+  * We do not sell your customer information.          
+  * We do not share customer information with persons, companies, or organizations outside of Allstate that would use that information to contact you about their own products and services.          
+  * We expect persons or organizations that provide services on our behalf to keep customer information confidential and to use it only to provide the services we’ve asked them to perform.          
   * Within Allstate, we communicate regarding the need to protect your information to those individuals who may have access to it, and we’ve established physical, electronic, and procedural safeguards to protect customer information.
 
 
@@ -56,7 +56,7 @@ As part of our services, we also use cookies. A cookie is a message sent to your
 
 In general, cookies allow us to identify you as a particular user and thus provide you with a more customized service. We may also use cookies to track and measure customer or user requests, inquiries, preferences, interests, demographics, traffic patterns and Web site usage, and to determine audience size and repeated usage.  This information may also be used to manage and customize our Web site’s content, layout, and services in order to improve our site, enhance customer service, and provide tailored messages.
 
-As indicated above, we may also use customer information to send you promotional communications about products, features, and options that we believe may be of interest to you.  If we have your e-mail address, we may do this by e-mail.  If you do not wish to receive promotional e-mails from us, you can inform us of your desire to be removed from our mailing lists by writing us at Allstate Insurance Company, Customer Privacy Inquiries, P.O. Box 11904, Roanoke, VA 24022. 
+As indicated above, we may also use customer information to send you promotional communications about products, features, and options that we believe may be of interest to you.  If we have your e-mail address, we may do this by e-mail.  If you do not wish to receive promotional e-mails from us, you can inform us of your desire to be removed from our mailing lists by writing us at Allstate Insurance Company, Customer Privacy Inquiries, P.O. Box 11904, Roanoke, VA 24022 or email us at [customerprivacy@allstate.com](mailto:customerprivacy@allstate.com). 
 
 **Who Should Use Our Web Site?  
 ** Our Web site is for insurance and financial products and services and is not intended for children. We offer insurance and financial products and services and thus do not market any products or services to children under the age of thirteen or knowingly collect any information from children under the age of thirteen. If we become aware that information is or has been submitted by or collected from a child under the age of thirteen, we will delete this information. 
@@ -73,9 +73,9 @@ We take seriously the issue of safeguarding your privacy online. However, please
  **What can you do as a customer to help maintain the security of information when accessing Allstate over the Internet?**  
 Some steps you can take to maintain the security of your information include:
 
-  * Utilize the latest, generally proven version of the Netscape, Microsoft Explorer or the America Online browser. Our site is most secure when using one of these browsers.      
-  * Keep your User ID and PIN or password confidential. Utilize a PIN or password unique to you and, if possible, change it frequently.      
-  * Make sure others are not watching you enter your User ID, PIN or password on your keyboard when using the Customer Care Center or when using other protected areas of Allstate.com.      
+  * Utilize the latest, generally proven version of the Netscape, Microsoft Explorer or the America Online browser. Our site is most secure when using one of these browsers.          
+  * Keep your User ID and PIN or password confidential. Utilize a PIN or password unique to you and, if possible, change it frequently.          
+  * Make sure others are not watching you enter your User ID, PIN or password on your keyboard when using the Customer Care Center or when using other protected areas of Allstate.com.          
   * Do not leave your computer unattended while logged onto our Customer Care Center or other protected areas of Allstate.com. After you’ve finished accessing your information, exit the Customer Care Center or other protected area within Allstate.com. This ensures that no one can access your policy information if you leave your computer and your session has not been timed out.
 
 
@@ -106,4 +106,4 @@ Roadway Protection Auto Club, Inc.
   
 
 
-[](http://www.allstate.com/About/Priv.asp?a=print) |   
+[](http://www.allstate.com/About/Priv.asp?a=print)
