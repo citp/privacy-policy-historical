@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the actionenvelope.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207041127id_/http%3A//www.actionenvelope.com/info.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actionenvelope.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207120235id_/http%3A//www.actionenvelope.com/info.html) for the most accurate reproduction.*
 
 # Action Envelope Info
 
@@ -7,18 +7,20 @@ Here you will find the answers to your questions about shopping this site, track
 
 Send comments and questions to [**support@actionenvelope.com**](mailto:support@actionenvelope.com), or **Call (800) 653-1705**
 
+Track your order:
+
 **Shipping**
 
-Most of our products are shipped from our main production and distribution facility in Farmingdale, NY 11735. On the map below, you can see the estimated transit time for our standard UPS Ground shipping. 
+Most of our products are shipped from our main production and distribution facility in Farmingdale, NY 11735. On the map below, you can see the estimated transit time for our standard UPS Ground shipping.
 
 We offer the following shipping options so you can receive your envelopes when you need them.
 
-   UPS Next Day Air  
-* UPS 2nd Day Air   
-* UPS 3 Day Select   
+* UPS Next Day Air  
+* UPS 2nd Day Air  
+* UPS 3 Day Select  
 * UPS Ground (standard)
 
-**Orders received before 3:00 PM EST may ship the same business day. Although we maintain a large inventory, occasionally we may be out of stock on one or more items in your order. Should this be the case, we will ship your order as soon as it can be fulfilled. You order may be broken into more than one shipment in order to provide you with faster service. We will notify you via e-mail of any delays in shipping your order over 5 business days.  **
+**Orders received before 3:00 PM EST may ship the same business day. Although we maintain a large inventory, occasionally we may be out of stock on one or more items in your order. Should this be the case, we will ship your order as soon as it can be fulfilled. You order may be broken into more than one shipment in order to provide you with faster service. We will notify you via e-mail of any delays in shipping your order over 5 business days.**
 
 ****
 
@@ -31,7 +33,7 @@ UPS 2nd Day Air
 
 **Shipping to P.O. Box or Military Addresses**
 
-We ship orders to US Military APO boxes via US Mail. 
+We do not ship orders to US Military APO boxes. We Apologize.
 
 If you have any questions regarding our shipping policy contact [support@actionenvelope.com. ](mailto:support@actionenvelope.com.)
 
