@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the britishexpats.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211011505id_/http%3A//www.britishexpats.com/forum/misc.php%3Fs%3D%26action%3Dfaq%26page%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britishexpats.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621095849id_/http%3A//www.britishexpats.com/forum/misc.php%3Fs%3D%26action%3Dfaq%26page%3D4) for the most accurate reproduction.*
 
 # Britishexpats.com Frequently Asked Questions
 
@@ -27,13 +27,13 @@ This web site contains links to other sites. Please be aware that we are not res
 From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and email address), and demographic information (such as town of residency, age level). 
 
 **Security**  
-Britishexpats.com takes every precaution to protect your information. The server on which this site resides is administered by [DialtoneInternet](http://dialtone.com/), a commercial hosting company. Access to the server is restricted to trusted personnel and contained in a [secure data center in Florida](http://www.dialtoneinternet.com/ourfacilities/tour/tour.html). If you have any questions regarding the security at our website, you can send an email to [admin@britishexpats.com](mailto:admin@britishexpats.com). 
+Britishexpats.com takes every precaution to protect your information. The server on which this site resides is administered by [Datapipe](http://datapipe.com/infrastructure.asp), a commercial hosting company. Access to the server is restricted to trusted personnel and contained in a [secure data center in Florida](http://www.dialtoneinternet.com/ourfacilities/tour/tour.html). If you have any questions regarding the security at our website, you can send an email to [admin@britishexpats.com](mailto:admin@britishexpats.com). 
 
 **Site and Service Updates**  
 We occasionally send you site and service announcement updates. During registration members are permitted to opt-out of these mailings. Should you choose not to receive these announcements, britishexpats.com can not be held responsible for notifying you of any any changes made to this policy. 
 
 **Correcting/Updating Personal Information**  
-Your personally identifiable information is always accessible by you and can be changed at any time by visiting your [profile page](http://britishexpats.com/forum/usercp.php). If you no longer wish to be a member of britishexpats.com, you should email admin@britishexpats.com to have your information permanently deleted from the site. 
+Your personally identifiable information is always accessible by you and can be changed at any time by visiting your profile page. If you no longer wish to be a member of britishexpats.com, you should email admin@britishexpats.com to have your information permanently deleted from the site. 
 
 **Notification of Changes**  
 Notification of changes to our privacy policy are sent to members by way of email announcements. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. During registration members are permitted to opt-out of administrator mailings. Should you choose not to receive these announcements, britishexpats.com can not be held responsible for notifying you of any changes made to this policy. 
