@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cuttingedgeoffers.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204193537id_/http%3A//www.cuttingedgeoffers.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuttingedgeoffers.com privacy policy that was archived on 2003-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030207141004id_/http%3A//www.cuttingedgeoffers.com/privacy.html) for the most accurate reproduction.*
 
 # Cutting Edge Offers
 
@@ -46,7 +46,7 @@ While we make every effort to ensure that we deal only with ethical companies, p
 
 _back to top_
 
-If at any time you change your mind about receiving advertising and email updates from Cutting Edge Offers, then [click here to unsubscribe](https://web.archive.org/web/20021204193537id_/http%3A//www.cuttingedgeoffers.com/remove.asp).
+If at any time you change your mind about receiving advertising and email updates from Cutting Edge Offers, then [click here to unsubscribe](https://web.archive.org/web/20030207141004id_/http%3A//www.cuttingedgeoffers.com/remove.asp).
 
 _back to top_
 
