@@ -1,6 +1,20 @@
-> *The following text is extracted and transformed from the insidecostarica.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204191305id_/http%3A//insidecostarica.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidecostarica.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602215732id_/http%3A//insidecostarica.com/privacy.htm) for the most accurate reproduction.*
 
-# InsideCostaRica.com - Privacy Policy
+# Costa Rica's Daily News Magazine!
+
+**PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THIS SITE.**
+
+As used herein, the phrase "this Site" refers to insidecostarica.com and other sites on the World Wide Web which are owned and/or operated by Istarmedia.net (collectively "Istarmedia"). By using this Site, you indicate your acceptance of these Terms & Conditions. If you do not agree to these Terms & Conditions, you have no right or license to access this Site and you should not do so.
+
+  
+  
+Istarmedia reserves the right, in its sole discretion, to change, modify or otherwise update this Policy at any time. Such changes, modifications, updates, or additions shall be effective immediately upon notice thereof, which may be given by means including, but not limited to, posting on this site, or by electronic or conventional mail, or by any other means by which you obtain notice thereof. Your use of this site after such notice shall be deemed to constitute your acceptance of such changes, modifications, updates, or additions.
+
+Istarmedia understands and respects your desire for privacy. To that end, we would like you to know how we use the personal information you provide to us.
+
+We collect personal information (such as your name, address, and credit card number) and non-personally-indentifiable information (such as information about daily Web site usage, your IP address or domain). Personal information is collected when you subscribe to the magazine, purchase a product from the site, register for the online newsletter, enter contests, or participate in other interactive online activities (e.g., surveys, chat rooms, games, or bulletin boards) through this site. As described below, we may use such information to fulfill magazine subscriptions, award prizes, track customer usage of the sites, or for promotional and marketing purposes.
+
+Insidecostarica
 
 .com has implemented appropriate safeguards to help prevent unauthorized access, maintain data security, and make proper use of the information that we collect. However, no transmission of data over the Internet is guaranteed to be completely secure. Thus, while we strive to protect your personal information, Maxim Online cannot absolutely guarantee the security of any information you provide to us.
 
