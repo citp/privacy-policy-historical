@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the firstcitizens.com privacy policy that was archived on 2004-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040603041611id_/http%3A//www.firstcitizens.com/privacy_security/privacy_statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the firstcitizens.com privacy policy that was archived on 2004-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041208173625id_/http%3A//firstcitizens.com/privacy_security/privacy_statement) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -35,7 +35,21 @@
 
 	<!--javascript calls-->
 		<script language="JavaScript" src="/javascript/leftnav_popup.js"></script>
+
+	<script language="JavaScript">
+	<!--
+	function sa_validate_link(input)
+	{
+	if (input.indexOf("http://")>=0 || input.indexOf("https://")>=0)
+	sa_onclick(input);
+	}
+
+	//-->
+
+	</script>
 	<!--/javascript calls-->
+
+
 
 <a name="top"></a>	
 
@@ -47,7 +61,7 @@
 		<tbody><tr valign="top">
 			<td nowrap="nowrap" class="globalnavcell"><a href="/"><img src="/images/globalnav/fcb_off.gif" alt="First Citizens Bank" width="128" height="25" border="0"></a><a href="/"><img src="/images/globalnav/home_off.gif" alt="Home" width="55" height="25" border="0"></a><a href="/personal_services/"><img src="/images/globalnav/personal_off.gif" alt="Personal" width="72" height="25" border="0"></a><a href="/business_services/"><img src="/images/globalnav/business_off.gif" alt="Business" width="72" height="25" border="0"></a><a href="/about_us/"><img src="/images/globalnav/about_off.gif" alt="About Us" width="75" height="25" border="0"></a><a href="/careers/"><img src="/images/globalnav/careers_off.gif" alt="Careers" width="69" height="25" border="0"></a></td>
 			<td class="globalnavcell"><img src="/images/spacer.gif" width="232" height="1" border="0"></td>
-			<td class="globalnavcell"><a href="/sign_in/"><img src="/images/globalnav/signin_off.gif" width="67" height="25" border="0"></a></td>
+			<td class="globalnavcell"><a href="/sign_in/"><img src="/images/globalnav/signin_off.gif" alt="Sign In" width="67" height="25" border="0"></a></td>
 		</tr>
 	</tbody></table>
 <!--/global navigation table-->
@@ -184,7 +198,7 @@
 			<div class="accessaccountstable">
 				<table border="0" width="100%" cellspacing="0" cellpadding="0">
 					<tbody><tr valign="top">
-						<form action="/cgi-bin/redirect.cgi"></form>
+						<form onsubmit="sa_validate_link(this.uri.value);" action="/cgi-bin/redirect.cgi"></form>
 						<td class="contentcell"><div class="content"><div class="headline">Sign in to Your Accounts:</div><a href="/learn_more/">Learn more</a> about Online Access.</div></td>
 						<td class="pulldowncell">
 							<div class="pulldownarea">
@@ -197,14 +211,14 @@
 											<option value="/pob_check.htm">Personal Online</option>
 											<option value="/na_check.htm">netAccess</option>
 											<option value="/bob_check.htm">Business Online</option>
-											<option value="/exit/index.html?link=https://www.trustweb.com/log3r01.htm" target="_Blank">Trust Direct</option>
-											<option value="/exit/index.html?link=https://www.go-401k.com/1stcitizen/">Retirement Plan</option>								
-											<option value="/exit/index.html?link=https://www.trustweb.com/log3r04.htm">Trust Advisory</option>
+											<option value="https://www.trustweb.com/log3r01.htm" target="_Blank">Trust Direct</option>
+											<option value="https://www.go-401k.com/1stcitizen/">Retirement Plan</option>								
+											<option value="https://www.trustweb.com/log3r04.htm">Trust Advisory</option>
 											<option value="/exit/index.html?link=https://www.sharebuilder.com/firstcitizens/Account/Login">ShareBuilder® Access</option>
-											<option value="/exit/index.html?link=https://www2.netxclient.com/universal/frameset_login.htm">Online Brokerage</option>
-											<option value="/exit/index.html?link=https://www.trustweb.com/log3r02.htm">Retirement Plan Maintenance</option>
+											<option value="https://pob-w.firstcitizens.com/financialadvice/www/pb_is_login_frame.html">Online Brokerage</option>
+											<option value="https://www.trustweb.com/log3r02.htm">Retirement Plan Maintenance</option>
 											<option value="/business_services/cash_management/image_lockbox/">NetQuery Image Lockbox</option>
-											<option value="/exit/index.html?link=https://pob-w.firstcitizens.com/financialadvice/www/factoring_login_frame.htm">Factoring Account Access</option>
+											<option value="https://pob-w.firstcitizens.com/financialadvice/www/factoring_login_frame.htm">Factoring Account Access</option>
 										</select>
 										</noindex>
 										</td>
