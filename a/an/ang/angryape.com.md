@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the angryape.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610133725id_/http%3A//www.angryape.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angryape.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009204501id_/http%3A//www.angryape.com/about/privacy) for the most accurate reproduction.*
 
-# AngryApe > About > Privacy
+# AngryApe › About › Privacy
 
 ### AngryApe Privacy Statement
 
