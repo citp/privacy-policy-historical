@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the countryinns.com privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212170631id_/http%3A//www.countryinns.com/customerservice/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countryinns.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603083924id_/http%3A//www.countryinns.com/customerservice/privacy.jsp) for the most accurate reproduction.*
 
 # Welcome to Country Inns & Suites - Your Privacy Rights
 
