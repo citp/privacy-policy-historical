@@ -1,34 +1,13 @@
-> *The following text is extracted and transformed from the sqlmag.com privacy policy that was archived on 2001-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010404234518id_/http%3A//www.win2000mag.net/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlmag.com privacy policy that was archived on 2002-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020406031656id_/http%3A//www.winnetmag.com/AboutUs/Index.cfm%3FAction%3DPrivacy) for the most accurate reproduction.*
 
-# Windows 2000 Magazine Network - Privacy
+# Privacy
 
-Duke Communications International, Inc. (Duke), doing business as _Windows 2000 Magazine_ Network, _Windows 2000 Magazine_ , and _SQL Server Magazine_ , is committed to your privacy. The following paragraphs fully describe Duke's practices regarding information you provide while using our Web sites. 
+We use reasonable precautions to keep the personal information that you disclose to us secure and to disclose such information only within the above guidelines. Where information is shared, it is only with your permission and only to third parties we believe to be responsible. However, we are not responsible for any breach of security or for any actions of any third parties that receive the information. Our sites also link to many other sites and we are not responsible for their privacy policies or practices. 
 
-Duke collects personal information about our users only during registration for site services, order forms for our publications, entry into a Duke content or sweepstakes. We also use "cookies" to help you login to subscriber-only areas, set site preferences, and help facilitate your experience on our sites. 
+Our sites use "cookies" to set and maintain site preferences during your session, to authenticate when you log in as a subscriber, and to help facilitate your experience on our sites. Other cookies from third-party vendors may be used to facilitate serving ads and analyzing overall Web site usage (see below). 
 
-We aggregate data collected from cookies and other places to create a demographic picture of the entire Duke audience in order to improve site services. We also share aggregate information, not individual data, with our advertisers to help them better understand our services and to monitor their advertising efforts on the sites. 
+We use DoubleClick DART, a third-party ad serving system, to serve ads on the site. We use only non-personally identifiable information about your visit to provide advertisements about goods and services that may be of interest to you. We also use HitBox Enterprise by WebSideStory to get an aggregate picture of traffic patterns on our site. Aggregate information, not individual data, collected from DART and HitBox is used to create an overall picture of how people use our site in order to improve site experience, to help our advertisers better understand our services, and to monitor advertising efforts on the site. Both DART and HitBox may place or recognize a unique "cookie" on your computer that does not contain any personally identifiable information. 
 
-Personal information such as your name, address, etc. is used to service your account and to inform you about updates to our services. We may also use this information, with your permission, to notify you of new products and services from Duke, its affiliates, and third parties that we believe may be of interest to you. 
+If you would like more information about the privacy policies of our third-party vendors, please visit the WebSideStory privacy center or the DoubleClick privacy center. 
 
-_Windows 2000 Magazine_ Network works use AdForce, a third-party ad serving system, to serve ads to the sites. AdForce is a founding partner of TRUSTe and has stringent privacy policies. For more information, please [read the AdForce privacy policy](http://www.adforce.com/home/privacy/PrivacyPolicy.html). 
-
-Since Duke respects your right to privacy, when you register for our online services and email newsletters, you have the option to decline mailings about additional products and services from Duke or third parties. When you subscribe to our print publications, you can decline third-party mailings by contacting our customer service department (see below). 
-
-Duke uses reasonable precautions to keep the personal information that you disclose to us secure and to disclose such information, with your permission, only to third parties we believe to be responsible. However, we are not responsible for any breach of security or for any actions of any third parties that receive the information. Duke also links to many other sites and we are not responsible for their privacy policies or practices. 
-
-At any time, you may correct your personal information or opt not to receive additional mailings by contacting the Duke Customer Service Department 
-
-    Duke Communications International, Inc.  
-
-    Customer Service Department  
-
-    221 East 29th Street  
-
-    Loveland, CO 80538
-    Email: [info@win2000mag.com](mailto:info@win2000mag.com)  
-
-    Toll-free: (800) 621-1544  
-
-    Phone: (970) 663-4700
-
-If you have questions about our privacy policy, please direct them to Gregg Kinnes, [greggk@win2000mag.com](mailto:greggk@win2000mag.com). 
+If you have questions about the Windows & .NET Magazine Network's privacy policy, please direct them to [greggk@winnetmag.com](mailto:greggk@winnetmag.com). For information about Penton Media's general corporate privacy policy, please visit <http://www.penton.com/privacy.html>. 
