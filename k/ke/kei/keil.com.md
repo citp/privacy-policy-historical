@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keil.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604072302id_/http%3A//keil.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keil.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202075906id_/http%3A//www2.keil.com/company/privacy.htm) for the most accurate reproduction.*
 
 # Keil Software Privacy Statement
 
@@ -126,7 +126,7 @@ We partner with other embedded tools companies and chip manufacturers to provide
 
 ### What Security Precautions are in Effect?
 
-[ ](https://digitalid.verisign.com/as2/d5bdae13abd5799759e12c3c650c78da) **Keil Software** takes every precaution to protect your information. When you submit sensitive information via the website, that information is protected both online and off-line. 
+[](https://digitalid.verisign.com/as2/d5bdae13abd5799759e12c3c650c78da) **Keil Software** takes every precaution to protect your information. When you submit sensitive information via the website, that information is protected both online and off-line. 
 
 All forms on this web site are available in both non-secure and secure formats. Secure forms encrypt and protect information with the best encryption software in the industry -- SSL. While on a secure page, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just _surfing_. To learn more about SSL, refer to [http://www.verisign.com](http://www.verisign.com/). 
 
