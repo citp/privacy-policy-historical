@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enriqueiglesias.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622152428id_/http%3A//privacy.yahoo.com/privacy/us/launch/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enriqueiglesias.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208052515id_/http%3A//privacy.yahoo.com/privacy/us/launch/index.html) for the most accurate reproduction.*
 
 # Yahoo! Privacy
 
@@ -44,6 +44,7 @@
   * Yahoo! displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, women ages 18-24 from a particular geographic area. 
     * Yahoo! does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
     * Yahoo! advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies). 
+  * Yahoo! works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please read our detailed [reference links](http://privacy.yahoo.com/privacy/us/all.html). 
 
 **Cookies**  
 
@@ -83,7 +84,7 @@
 **Questions and Suggestions**  
 
 
-  * [Yahoo! is TRUSTe-certified](https://www.truste.org/validate/361). This certification applies to all English-language sites under the Yahoo.com domain. If you feel that your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](http://www.truste.org/users/users_watchdog.html), an independent privacy organization. TRUSTe serves as a liaison with Yahoo! to resolve your concern. 
+  * [Yahoo! is TRUSTe-certified](https://www.truste.org/validate/361). This certification applies to all English-language sites under the Yahoo.com domain. If you feel that your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php), an independent privacy organization. TRUSTe serves as a liaison with Yahoo! to resolve your concern. 
   * If you have questions or suggestions, please complete a [feedback form](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback?radio30=radio305) or you can contact us at: 
 
 Yahoo! Inc.  
@@ -93,6 +94,8 @@ Sunnyvale, CA 94089
 (408) 349-5070  
 
 
+  
+Effective Date: March 28, 2002
 
   
 ---|---|---
