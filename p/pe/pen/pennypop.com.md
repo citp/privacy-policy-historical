@@ -1,28 +1,28 @@
-> *The following text is extracted and transformed from the pennypop.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606185837id_/http%3A//www.iloandirect.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennypop.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204130134id_/http%3A//www.iloandirect.com/privacy.html) for the most accurate reproduction.*
 
 # iLoanDirect.com :: Privacy Policy
 
-[ ](https://web.archive.org/web/20040606185837id_/http%3A//www.iloandirect.com/purchase.html)
+[ ](https://web.archive.org/web/20041204130134id_/http%3A//www.iloandirect.com/purchase.html)
 
-[ ](https://web.archive.org/web/20040606185837id_/http%3A//www.iloandirect.com/refinance.html)
+[ ](https://web.archive.org/web/20041204130134id_/http%3A//www.iloandirect.com/refinance.html)
 
-[ ](https://web.archive.org/web/20040606185837id_/http%3A//www.iloandirect.com/home_equity.html)
+[ ](https://web.archive.org/web/20041204130134id_/http%3A//www.iloandirect.com/home_equity.html)
 
-[ ](https://web.archive.org/web/20040606185837id_/http%3A//www.iloandirect.com/buyers.html)
+[ ](https://web.archive.org/web/20041204130134id_/http%3A//www.iloandirect.com/buyers.html)
 
-[ ](https://web.archive.org/web/20040606185837id_/http%3A//www.iloandirect.com/auto.html)
+[ ](https://web.archive.org/web/20041204130134id_/http%3A//www.iloandirect.com/auto.html)
 
-[ ](https://web.archive.org/web/20040606185837id_/http%3A//www.iloandirect.com/damaged_credit.html)
+[ ](https://web.archive.org/web/20041204130134id_/http%3A//www.iloandirect.com/damaged_credit.html)
 
-[ ](https://web.archive.org/web/20040606185837id_/http%3A//www.iloandirect.com/programs.html)
+[ ](https://web.archive.org/web/20041204130134id_/http%3A//www.iloandirect.com/programs.html)
 
-[ ](https://web.archive.org/web/20040606185837id_/http%3A//www.iloandirect.com/process.html)
+[ ](https://web.archive.org/web/20041204130134id_/http%3A//www.iloandirect.com/process.html)
 
-[ ](https://web.archive.org/web/20040606185837id_/http%3A//www.iloandirect.com/tools.html)
+[ ](https://web.archive.org/web/20041204130134id_/http%3A//www.iloandirect.com/tools.html)
 
-[ ](https://web.archive.org/web/20040606185837id_/http%3A//www.iloandirect.com/faqs.html)
+[ ](https://web.archive.org/web/20041204130134id_/http%3A//www.iloandirect.com/faqs.html)
 
-[ ](https://web.archive.org/web/20040606185837id_/http%3A//www.iloandirect.com/realestate.html)
+[ ](https://web.archive.org/web/20041204130134id_/http%3A//www.iloandirect.com/realestate.html)
 
 |  | 
 
