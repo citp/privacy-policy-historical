@@ -11,3 +11,10 @@ For each visitor to our web site, our server automatically collects information 
 West Group will collect, and protect, information (including transaction information) gathered from our web sites, with the same regard as any other communication or transaction with us. We will continue to modify our privacy policy guidelines to comply with the recommendations and suggestions of various privacy organizations and interest groups. 
 
 * * *
+### West Group Internet Privacy Policy
+
+West Group is the preeminent provider of information to the U.S. legal market. We believe that everyone benefits from the free flow of information and pledge to use information about our customers responsibly.
+
+For each visitor to our web site, our server automatically collects information regarding customer interests, preferences and purchases. The information collected is used to improve the content on our site and to better serve our customers needs. We compile this information so that we can design, customize and offer new products that may be of interest to our customers.
+
+West Group will collect, and protect, information (including transaction information) gathered from our web sites, with the same regard as any other communication or transaction with us. We will continue to modify our privacy policy guidelines to comply with the recommendations and suggestions of various privacy organizations and interest groups. 
