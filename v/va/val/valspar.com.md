@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the valspar.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606144522id_/http%3A//www.valspar.com/etc/priv.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valspar.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604033800id_/http%3A//www.valspar.com/etc/priv.htm) for the most accurate reproduction.*
 
-# Valspar Corporation - Privacy Policy
-
-| 
+# Valspar Corporation - Legal Information
 
 Valspar respects your right to privacy. This policy summarizes what personally identifiable information we may collect, and how we might use this information. This policy also describes other important topics relating to your privacy. 
 
@@ -20,4 +18,7 @@ The Valspar web site may contain links to other sites. We do not endorse or othe
 
 Valspar reserves the right to modify this privacy policy at any time. We will promptly reflect any such modifications in these Web pages. 
 
-[Home](https://web.archive.org/val/index.jsp) | [Legal Information](https://web.archive.org/web/20010606144522id_/http%3A//www.valspar.com/etc/leg.htm) | [Privacy Policy](https://web.archive.org/web/20010606144522id_/http%3A//www.valspar.com/etc/priv.htm) | © 2000 Valspar Corporation 
+[Home](https://web.archive.org/val/index.jsp) | [Legal Information](https://web.archive.org/web/20020604033800id_/http%3A//www.valspar.com/etc/leg.htm) | [Privacy Policy](https://web.archive.org/web/20020604033800id_/http%3A//www.valspar.com/etc/priv.htm) | © 2002 Valspar Corporation 
+
+  
+
