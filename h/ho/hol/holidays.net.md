@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holidays.net privacy policy that was archived on 2000-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000614054808id_/http%3A//www.holidays.net/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidays.net privacy policy that was archived on 2000-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001212021700id_/http%3A//www.holidays.net/policy.htm) for the most accurate reproduction.*
 
 # Holidays on the Net - Privacy Statement
 
@@ -22,7 +22,7 @@ We use an outside ad company to display ads on our site. These ads may contain c
 
 ####  Mailing List 
 
-Holidays on the Net, in association with OneList ([www.onelist.com](https://web.archive.org/web/20000614054808id_/http%3A//www.holidays.net/www.onelist.com)), offers a mailing list that notifies our users of upcoming Holiday celebrations at our website. 
+Holidays on the Net, in association with OneList ([www.onelist.com](https://web.archive.org/web/20001212021700id_/http%3A//www.holidays.net/www.onelist.com)), offers a mailing list that notifies our users of upcoming Holiday celebrations at our website. 
 
 Contact information from the registration form is ONLY used to send information about our website and upcoming holiday celebrations. 
 
