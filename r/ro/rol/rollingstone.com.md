@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rollingstone.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603161324id_/http%3A//rollingstone.com/help/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollingstone.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214225349id_/http%3A//www.rollingstone.com/help/privacypolicy.asp) for the most accurate reproduction.*
 
 # RollingStone.com
 
@@ -86,7 +86,7 @@ Privacy Policy Manager
 c/o RollingStone.com  
 640 N. LaSalle, Suite 560  
 Chicago, IL 60610  
-[privacy@tunes.com](mailto:privacy@tunes.com)  
+[info@info.getmusic.com](mailto:info@info.getmusic.com)  
 
 
 If there is anything that we can do to make your RollingStone.com experience more enjoyable, please don't hesitate to use our [User Support Form](https://web.archive.org/help/supportform.asp) to let us know  
