@@ -1,14 +1,26 @@
-> *The following text is extracted and transformed from the moneyfacts.co.uk privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207110257id_/http%3A//www.moneyfacts.co.uk/terms.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyfacts.co.uk privacy policy that was archived on 2004-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040624091452id_/http%3A//www.moneyfacts.co.uk/terms.asp) for the most accurate reproduction.*
 
-# Moneyfacts - the UK's leading independant financial website
+# Moneyfacts - the UK's leading independent financial website
 
 The figures and details shown are obtained from sources believed to be reliable. However the accuracy and completeness of any information cannot be guaranteed and no warranty or representation is given and users must check all rates, conditions and details before finalising any arrangement. No liability can be accepted for any direct or consequential loss arising from the use of, or reliance upon, this information. The information is directed at persons in the United Kingdom and is not to be regarded as an offer to buy or sell, or a solicitation for any product or service shown on the site. The content is designed to provide you with information to help make an informed decision and does not constitute an incitement, invitation, advice or personal recommendation. **Readers who are not financial professionals should seek expert advice.**
 
 If you become aware of any defects in the site or any information shown please notify us immediately as follows: 
 
-• E-mail at: [enquiries@moneyfacts.co.uk](mailto:enquiries@moneyfacts.co.uk)  
-• Telephone on: **0870 2250 476**  
-• Fax on: **0870 2250 477**
+  * E-mail at: [webteam@moneyfacts.co.uk](mailto:enquiries@moneyfacts.co.uk)
+  * Telephone on: **0870 2250 476**
+  * Fax on: **0870 2250 477**
+
+
+
+Moneyfacts Group plc is the largest personal finance data publisher in the UK. 
+
+We monitor the thousands of savings, mortgage, credit card, personal loan and other personal finance products available in the UK. Our data is used throughout the financial industry. All the leading banks and building societies in the UK use our online news and data service. Our charts are used by most national and regional newspapers. 
+
+Moneyfacts is totally independent and impartial. We are not paid by anyone for inclusion in our charts. 
+
+[www.moneyfacts.co.uk ](http://www.moneyfacts.co.uk/) is our free consumer news and information service. We are not trying to sell anything. We do not benefit from any arrangement that may result from the information and data that appears on the site. Our income comes from advertising and payments for click thrus and referrals. 
+
+NOTE: Where we do not ourselves cover a particular area (such as utilities) we have linked up with third party sites. These sites are quite independent from [www.moneyfacts.co.uk ](http://www.moneyfacts.co.uk/) and are appropriately authorised. We have endeavoured to find the very best sites available to ensure that our users obtain the best possible service but if you have any problems or complaints we want to know. Moneyfacts receives affiliate fees from these sites, which may be in the form of referral payments or income sharing depending on the practice of that Affiliate site. 
 
 **By accessing any part of this site, you will be deemed to have accepted these terms in full.**
 
