@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the it4profit.com privacy policy that was archived on 2002-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020319014633id_/http%3A//www.it4profit.com/home/index.jsp%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the it4profit.com privacy policy that was archived on 2002-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021223060439id_/http%3A//www.it4profit.com/home/index.jsp%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# www.IT4Profit.com
+# IT4profit - b2b exchange for IT distributors
 
 **IT4profit B2B EXCHANGE PRIVACY POLICY**
 
@@ -74,7 +74,7 @@ Users can access their Contact and User Information, and other appropriate Membe
 
 **6\. OPTING OUT OF MARKETING COMMUNICATIONS**
 
-Users may choose whether to receive direct marketing communications relating to IT4profit at the time of registration. If a User subsequently does not want to receive information about special offers available through IT4profit, User may unsubscribe by sending an email to support@e-vision-group.com with "Remove Me" in the subject line. 
+Users may choose whether to receive direct marketing communications relating to IT4profit at the time of registration. If a User subsequently does not want to receive information about special offers available through IT4profit, User may unsubscribe by sending an email to support@IT4profit.com with "Remove Me" in the subject line. 
 
 **7\. PRIVACY POLICY UPDATES**
 
