@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recreation.gov privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624211010id_/http%3A//recreation.gov/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recreation.gov privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207120409id_/http%3A//www.recreation.gov/privacy.cfm) for the most accurate reproduction.*
 
 # Recreation.gov
 
@@ -39,7 +39,7 @@ Unauthorized attempts to upload information or change information on this servic
 **Disclaimer of Endorsement**   
 The information posted on the Recreation.gov website includes hypertext links or pointers to information created and maintained by other public and/or private organizations. Recreation.gov provides these links and pointers solely for our users' information and convenience. When users select a link to an outside website, they are leaving the Recreation.gov site and are subject to the privacy and security policies of the owners/sponsors of the outside website. Recreation.gov:   
 \- does not control or guarantee the accuracy, relevance, timeliness or completeness of information contained on a linked website  
-\- endorse the organizations sponsoring linked websites, and we do not endorse the views they express or the products/services they offer  
+\- does not endorse the organizations sponsoring linked websites, and we do not endorse the views they express or the products/services they offer  
 \- cannot authorize the use of copyrighted materials contained in linked websites. Users must request such authorization from the sponsor of the linked website  
-\- are not responsible for transmissions that users receive from linked websites  
-\- do not guarantee that outside websites comply with Section 508 (Accessibility Requirements) of the Rehabilitation Act. 
+\- is not responsible for transmissions that users receive from linked websites  
+\- does not guarantee that outside websites comply with Section 508 (Accessibility Requirements) of the Rehabilitation Act. 
