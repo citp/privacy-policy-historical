@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jsonline.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218034426id_/http%3A//www.jsonline.com/general/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jsonline.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603154118id_/http%3A//www.jsonline.com/general/privacy.asp) for the most accurate reproduction.*
 
 # JS Online Privacy Policy
 
-**Monday, December 17, 2001** Journal Interactive, Journal Sentinel Inc. and JSOnline.com/OnWisconsin.com are committed to bringing you information tailored to your individual needs, and we recognize the importance of protecting the privacy of personally identifiable information collected about you, our customers and prospects. In adopting this customer privacy policy, our intent is to balance our legitimate business interests in collecting and using information and your reasonable expectations of privacy. 
+**Monday, June 3, 2002** Journal Interactive, Journal Sentinel Inc. and JSOnline.com/OnWisconsin.com are committed to bringing you information tailored to your individual needs, and we recognize the importance of protecting the privacy of personally identifiable information collected about you, our customers and prospects. In adopting this customer privacy policy, our intent is to balance our legitimate business interests in collecting and using information and your reasonable expectations of privacy. 
 
 **What personally identifiable information does JSOnline.com/OnWisconsin.com collect from me?**
 
