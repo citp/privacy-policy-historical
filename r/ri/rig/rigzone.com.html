@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rigzone.com privacy policy that was archived on 2002-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020607152820id_/http%3A//www.rigzone.com/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rigzone.com privacy policy that was archived on 2002-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021209184508id_/http%3A//www.rigzone.com/privacypolicy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>RIGZONE - </title>
@@ -202,7 +202,48 @@ function openhelp() {
     &nbsp;&nbsp;- <a href="/member_register.asp">Become a Member</a>
     
     </p><p>
-    
+    <script language="javascript">
+<!--
+
+function HandleCheckBox (obj)
+{
+	if (obj	 == 1) 
+	{
+		if (document.newsForm1.NewsletterSignUp[1].checked == true )
+			{
+			document.newsForm1.NewsletterSignUp[0].checked = false		
+			}
+		
+	}
+	else if (obj == 8)
+	{
+		if (document.newsForm1.NewsletterSignUp[0].checked == true )
+			{
+			document.newsForm1.NewsletterSignUp[1].checked = false		
+			}
+	} 		
+}
+function getCalSelection()
+{
+document.newsForm1.NAVSubscription.value = 0;
+
+var HowMany;
+var count;
+HowMany = (document.newsForm1.NewsletterSignUp.length - 1);
+
+	for (count = 0; count <= HowMany;count++)
+	{
+
+		if (document.newsForm1.NewsletterSignUp[count].checked == true)
+		{
+			document.newsForm1.NAVSubscription.value = parseInt(document.newsForm1.NAVSubscription.value) + parseInt(document.newsForm1.NewsletterSignUp[count].value);	
+		}
+	}
+//alert (document.newsForm1.NAVSubscription.value);
+}
+-->
+</script>
+
 <!--NEWSLETTER SUBSCRIBE-->
 <table border="0" cellspacing="0" cellpadding="0" bgcolor="#5A9AE6"><!--B4DAFF-->
 <tbody><tr>
@@ -215,19 +256,30 @@ function openhelp() {
   <td style="font-size:8pt;color:#FFFFFF">
   <span style="font-size:8pt;color:#FFFFFF">
 	  
-  <form method="post" action="/newsletter.asp" id="newsForm1" name="newsForm1">
-  &nbsp;<input type="text" name="Email" value="Your Email Here" size="18">
+  <form method="POST" action="/Subscribe.asp" id="newsForm1" name="newsForm1" onsubmit="getCalSelection();">
+  &nbsp;<input type="text" name="Email" value="Your Email Here" size="18" onclick="document.newsForm1.Email.value=''">
   <br>
-  <input type="checkbox" name="chkNews" value="industrynews" checked="">Daily Industry News
+  
+  <input type="checkbox" name="NewsletterSignUp" value="8" checked="" onclick="HandleCheckBox(document.newsForm1.NewsletterSignUp[0].value);">Daily News
   <br>
-  <input type="checkbox" name="chkNews" value="newsletter">Weekly News Summary	  
+  <!--"newsletter"-->
+  <input type="checkbox" name="NewsletterSignUp" value="1" onclick="HandleCheckBox(document.newsForm1.NewsletterSignUp[1].value);">Weekly Summary	  
   <br>
-  <input type="checkbox" name="chkNews" value="jobsupdate">Job Alert	  
-  <br>	
-  <input type="checkbox" name="chkNews" value="marketplace">Equipment Update	  
+  <!--"jobsupdate"-->
+  <input type="checkbox" name="NewsletterSignUp" value="128">Job Alert	  
+  <br>
+  <!--"marketplace"-->	
+  <input type="checkbox" name="NewsletterSignUp" value="32">Equipment Update	  
   <br>	  
   &nbsp;<center><input type="submit" name="button" value="Subscribe"></center>
-  <center><a href="/newsletter.asp"><font color="#FFFFFF">About Newsletters</font></a></center>
+  
+  
+  <center><a href="/Subscribe.asp?Action=INSERT"><font color="#FFFFFF">About Newsletters</font></a></center>
+  <center><a href="/subscribeLogin.asp?"><font color="#FFFFFF">Manage My Subscription</font></a></center>
+  
+   	<input type="hidden" id="NAVSubscription" value="0" name="NAVSubscription">
+	<input type="hidden" id="NoMain" value="NoMain" name="NoMain">
+ 
   </form>
 	  
   </span>
@@ -291,7 +343,7 @@ function openhelp() {
       <td>
 	  <!--ADVERTISE HERE-->
       
-      <a href="/adserve/thru.asp?id=19761378&amp;url=http://www.rigzone.com/store/product.asp?p_id=218&amp;c_id=&amp;page=/privacypolicy.asp" target="_top"><img src="/adserve/images/storebutton12_120x90.gif" alt="Drill String Design Handbook - Buy It Now!" height="90" width="120" border="0" hspace="0" vspace="0" align="left"></a>
+      <a href="/adserve/thru.asp?id=31149435&amp;url=http://www.geoservices.com&amp;page=/privacypolicy.asp" target="_top"><img src="/adserve/images/geoservices_120x90.gif" alt="Geoservices - Mud Logging, Well Intervention..." height="90" width="120" border="0" hspace="0" vspace="0" align="left"></a>
       </td>
       <td><img src="/images/spacer.gif" height="1" width="1" align="left" border="0" hspace="0" vspace="0"></td>
       </tr>
@@ -324,7 +376,7 @@ function openhelp() {
       <td><img src="/images/spacer.gif" height="1" width="1" align="left" border="0" hspace="0" vspace="0"></td>
       <td>
 	  <!--ADVERTISE HERE-->
-      <a href="/adserve/thru.asp?id=19761379&amp;url=http://www.acmetruck.com&amp;page=/privacypolicy.asp" target="_top"><img src="/adserve/images/acme_road_468x60.gif" alt="Acme Truck Line" height="60" width="468" border="0" hspace="0" vspace="0" align="left"></a>
+      <a href="/adserve/thru.asp?id=31149436&amp;url=http://www.rigmatch.com&amp;page=/privacypolicy.asp" target="_top"><img src="/adserve/images/rigmatch3_468x60.gif" alt="Rigmatch - Daily Drilling Permits" height="60" width="468" border="0" hspace="0" vspace="0" align="left"></a>
       </td>
       <td><img src="/images/spacer.gif" height="1" width="1" align="left" border="0" hspace="0" vspace="0"></td>
       </tr>
