@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the jcp.org privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604205556id_/http%3A//www.sun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcp.org privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217222529id_/http%3A//www.sun.com/privacy) for the most accurate reproduction.*
 
 # Sun Microsystems, Inc.: Privacy Policy
 
 |  |   
 ---|---  
-[ ](https://web.archive.org/products-n-solutions/index.html;$sessionid$3ON4Q4QAAEJFJAMTA1FU3NQ) | [Products & Solutions](https://web.archive.org/products-n-solutions/index.html;$sessionid$3ON4Q4QAAEJFJAMTA1FU3NQ)  
-[ ](https://web.archive.org/service;$sessionid$3ON4Q4QAAEJFJAMTA1FU3NQ) | [Consulting, Training & Support](https://web.archive.org/service;$sessionid$3ON4Q4QAAEJFJAMTA1FU3NQ)  
-[ ](https://web.archive.org/developers/index.html;$sessionid$3ON4Q4QAAEJFJAMTA1FU3NQ) | [Sun Developer Connection](https://web.archive.org/developers/index.html;$sessionid$3ON4Q4QAAEJFJAMTA1FU3NQ)  
-[ ](https://web.archive.org/corporateoverview/who/index.jhtml;$sessionid$3ON4Q4QAAEJFJAMTA1FU3NQ) | [About Sun](https://web.archive.org/corporateoverview/who/index.jhtml;$sessionid$3ON4Q4QAAEJFJAMTA1FU3NQ)  
+[ ](https://web.archive.org/products-n-solutions/index.html;$sessionid$BRQJSP2VQNDRDAMTA1FU4GQ) | [Products & Solutions](https://web.archive.org/products-n-solutions/index.html;$sessionid$BRQJSP2VQNDRDAMTA1FU4GQ)  
+[ ](https://web.archive.org/service;$sessionid$BRQJSP2VQNDRDAMTA1FU4GQ) | [Consulting, Training & Support](https://web.archive.org/service;$sessionid$BRQJSP2VQNDRDAMTA1FU4GQ)  
+[ ](https://web.archive.org/developers/index.html;$sessionid$BRQJSP2VQNDRDAMTA1FU4GQ) | [Sun Developer Connection](https://web.archive.org/developers/index.html;$sessionid$BRQJSP2VQNDRDAMTA1FU4GQ)  
+[ ](https://web.archive.org/corporateoverview/who/index.jhtml;$sessionid$BRQJSP2VQNDRDAMTA1FU4GQ) | [About Sun](https://web.archive.org/corporateoverview/who/index.jhtml;$sessionid$BRQJSP2VQNDRDAMTA1FU4GQ)  
   
    |   
   
