@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askmen.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405131241id_/http%3A//askmen.com/mediakit/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askmen.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212145740id_/http%3A//www.askmen.com/mediakit/privacy.html) for the most accurate reproduction.*
 
 # AskMen.com : Media Kit
 
@@ -44,7 +44,10 @@ Some of our sites contain links to other sites whose information practices may b
 
 AskMen.com sites sometimes may offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the contest, sweepstakes, or promotion. AskMen.com has no control over the third-party sponsors' use of this information. The AskMen.com site will notify you at the time of requesting personally identifiable information if third-party sponsors will obtain such information. 
 
-"We use third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.sonar.com/content/privacy.htm)." 
+"We use third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.sonar.com/content/privacy.htm)."
+
+**Engage - Privacy Policy**  
+This site, AskMen.com, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>. 
 
 ### Cookies
 
