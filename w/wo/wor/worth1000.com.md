@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worth1000.com privacy policy that was archived on 2003-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030620132749id_/http%3A//www.worth1000.com/help.asp%3Fhelp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worth1000.com privacy policy that was archived on 2003-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031009061323id_/http%3A//www.worth1000.com/help.asp%3Fhelp%3Dprivacy) for the most accurate reproduction.*
 
-# Worth1000.com | Photoshop Contests | Are you Worthy?™ | hidden
+# Worth1000.com | Photoshop Contests | Are you Worthy™ | hidden
 
 **Privacy Policy**
 
@@ -64,69 +64,3 @@ Third party advertisers may collect certain information that is available to the
 
 **Questions?  
 **If you have any questions regarding this Privacy Statement, the practices of Worth1000.com, or your dealings on our web site, please [contact us](https://web.archive.org/message.asp?uid=17).
-
-Register
-
-Login
-
-Contests
-
-Galleries
-
-Tutorials
-
-Toys
-
-Community
-
-Help
-
-What's New?
-
-Photoshop
-
-Text
-
-Animation
-
-Photography
-
-Illustration
-
-3d
-
-Image Search
-
-Best of Worth1000
-
-Top 25 Images
-
-Daily Picture
-
-Forums
-
-Chat
-
-Site News
-
-Community Page
-
-Hall of Fame
-
-User Search
-
-Who's Online?
-
-FAQ
-
-Live Help
-
-Guidelines
-
-User Agreement
-
-Privacy Policy
-
-Legal Claims
-
-Contact Us
