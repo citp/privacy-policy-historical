@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebay.ca privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204194925id_/http%3A//pages.ebay.ca/help/community/png-priv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.ca privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630210151id_/http%3A//pages.ebay.ca/help/community/png-priv.html) for the most accurate reproduction.*
 
 # eBay Canada: Help : Policies and Guidelines : Privacy Policies
 
