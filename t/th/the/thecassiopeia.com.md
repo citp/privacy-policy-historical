@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecassiopeia.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603122319id_/http%3A//www.thecassiopeia.com/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecassiopeia.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207091402id_/http%3A//www.thecassiopeia.com/ppolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy For Internet Business Consultants For 3rd Millennium
 
