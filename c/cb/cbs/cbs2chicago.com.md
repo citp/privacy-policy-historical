@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbs2chicago.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604050937id_/http%3A//www.cbs2chicago.com/site_content.asp%3FPAGE%3D396) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbs2chicago.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208185240id_/http%3A//www.cbs2chicago.com/site_content.asp%3FPAGE%3D396) for the most accurate reproduction.*
 
 # CBS 2 Chicago : Privacy Policy
 
