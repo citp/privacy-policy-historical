@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jennycraig.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604061627id_/http%3A//www.jennycraig.com/corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jennycraig.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204204939id_/http%3A//jennycraig.com/corporate/privacy.asp) for the most accurate reproduction.*
 
 # JennyCraig.com Privacy Policy
 
