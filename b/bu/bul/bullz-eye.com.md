@@ -1,64 +1,17 @@
-> *The following text is extracted and transformed from the bullz-eye.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603195445id_/http%3A//www.bullz-eye.com/privacy/default.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bullz-eye.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202022714id_/http%3A//www.bullz-eye.com/privacy/default.htm) for the most accurate reproduction.*
 
 # Bullz-eye.com - Guy's Portal to the Web
 
-|    
-[](http://vgn.ifilm.com/db/redirect?s=bullzeye&er=www.ifilm.com/filmdetail?ifilmid=2469635)   
-[](http://tracking.adlandpro.com/url_tracker.asp?id=940_bullz-eye)   
-[](http://www.wsexpoker.com/?a=904)   
-[](http://www.quit-smoking-quitting-smoking-stop-smoking.com/)   
-  
----  
-**Channels**  
-[The Opposite Sex  
-](http://www.bullz-eye.com/channels/oppositesex.htm)[Sports  
-](http://www.bullz-eye.com/channels/sports.htm)[Entertainment  
-](http://www.bullz-eye.com/channels/entertainment.htm)[Fitness  
-](http://www.bullz-eye.com/channels/fitness.htm)[Travel  
-](http://www.bullz-eye.com/channels/travel.htm)[Vices  
-](http://www.bullz-eye.com/channels/vices.htm)[Wagering  
-](http://www.bullz-eye.com/channels/wagering.htm)[Recreation  
-](http://www.bullz-eye.com/channels/recreation.htm) [Finance  
-](http://www.bullz-eye.com/channels/finance.htm)[Stuff to Buy](http://www.bullz-eye.com/channels/stufftobuy.htm)  
-  
-**Guides & Reviews**  
-[Web Guide  
-](http://www.bullz-eye.com/webguide/default.htm)[City Guide  
-](http://www.bullz-eye.com/city_guide/Default.htm)[Movie Reviews](http://www.bullz-eye.com/mguide/default.htm)  
-[CD Reviews](http://www.bullz-eye.com/cdreviews/default.htm)  
-[Car Reviews](http://www.bullz-eye.com/carreviews/default.htm)  
-  
-**Columnists**  
-[Mike Furci](http://www.bullz-eye.com/furci/default.htm)  
-[Lane Strauss](http://www.bullz-eye.com/strauss/default.htm)  
-[Jamey Codding](http://www.bullz-eye.com/codding/default.htm)  
-[Shawn Griffin](http://www.bullz-eye.com/griffin/default.htm)  
-[Mitch Post](http://www.bullz-eye.com/post/default.htm)  
-  
-**Premium Members**  
-[Join](https://web.archive.org/web/20030603195445id_/http%3A//www.bullz-eye.com/join.html)  
-[Enter](https://web.archive.org/web/20030603195445id_/http%3A//www.bullz-eye.com/members/)  
-  
-  
-[](http://www.myaffiliateprogram.com/u/barontec/t.asp?id=1020)   
-[ ](http://www.ebaumsworld.com/)   
-[](http://adserver.matchcraft.com/adserver/noscriptClick/bullnation/LeftNav120x60/120x60)   
-[](http://rd1.hitbox.com/rd?acct=WQ5305285BRD38EN7)
-
-[privacy](http://counter.hitbox.com/a/hitboxfree.cgi)  
-  
-|  |  **Privacy Policy** |   
+|  |  |  ** Privacy Policy ** |   
 ---|---  
   
-We at Bullz-Eye.com take your right to privacy seriously. The following discloses our information-gathering and dissemination practices for the Bullz-Eye.com site and any affiliated site. 
-
+We at Bullz-Eye.com take your right to privacy seriously. The following discloses our information-gathering and dissemination practices for the Bullz-Eye.com site and any affiliated site.   
+  
 Bullz-Eye only collects personal information from a user when the user chooses to give it to us by registering with the site, entering a Bullz-Eye contest or registering for free email on Bullz-Eye. Bullz-Eye will use email addresses to inform registered users of new content, contests, news and other information selected by our editors, unless the user specifically requests to not receive these messages. Bullz-Eye will also use email addresses from time to time to deliver email messages from our partners, advertisers and sponsors. In such event the email will disclose that the recipient is receiving the email from Bullz-Eye because the recipient is a registered user.
 
-Users may opt-out of receiving future mailings by sending an email to [webmaster@bullz-eye.com](mailto:webmaster@bullz-eye.com). 
+Users may opt-out of receiving future mailings by sending an email to [staff@bullz-eye.com](mailto:webmaster@bullz-eye.com). 
 
-Bullz-Eye will 
-
-_not_ sell or disclose to any third party your name, address, email address or other personal information that specifically identifies you, unless you specifically provide your informed consent, except to the extent necessary to comply with applicable laws or a court order. Bullz-Eye will allow access to database information to third parties providing technical services, but only to the extent necessary to provide those services. 
+Bullz-Eye will not sell or disclose to any third party your name, address, email address or other personal information that specifically identifies you, unless you specifically provide your informed consent, except to the extent necessary to comply with applicable laws or a court order. Bullz-Eye will allow access to database information to third parties providing technical services, but only to the extent necessary to provide those services. 
 
 Bullz-Eye will use and disclose to third parties information from user registrations and site usage patterns in aggregate form to improve and market the site and to provide traffic information to our partners, advertisers and market researchers. Bullz-Eye may, at its sole discretion, develop and use consumer research based on an individual user’s use of the web site. 
 
