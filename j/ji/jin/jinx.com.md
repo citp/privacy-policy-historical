@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jinx.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210212636id_/http%3A//www.jinx.com/scripts/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jinx.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403113635id_/http%3A//www.jinx.com/scripts/privacy.asp) for the most accurate reproduction.*
 
 # J!NX - Gamer Geek Hacker Computer Nerd T-Shirts TShirts T-Shirt TShirt Shirts Shirt Hats Sweatshirts Clothes Clothing Gaming Hacking
 
@@ -44,6 +44,4 @@ By using our Web site, you consent to the collection and use of your personal in
 From time to time, we may change our Privacy Policy. We will post those changes on this page so that our customers will always be aware of what information we collect, how we use it, and under what circumstances we share the information with others. 
 
 |    
----|---|---  
-  
-© JINX, Inc. / JINX Hackwear / Jinx Gear / JinxGear 
+---|---|---
