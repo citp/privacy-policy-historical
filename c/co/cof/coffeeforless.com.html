@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the coffeeforless.com privacy policy that was archived on 2004-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041208124427id_/http%3A//www.coffeeforless.com/privacy_and_security.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coffeeforless.com privacy policy that was archived on 2005-04-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050402015158id_/http%3A//www.coffeeforless.com/privacy_and_security.asp) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -59,18 +59,41 @@ function OpenCertDetails()
 	}
 // -->
 </script><script language="JAVASCRIPT">
-function POPSURVEY()
+var link_glob=0;
+window.onunload=function POPSURVEY()
 {
+if (document.URL.indexOf("checkout.asp")!=-1){
+if(link_glob==0){
 if (confirm("Would you like to take a brief survey?"))
 window.open('http://www.coffeeforless.com/ss/wsb.dll/ben/shopcart12-4.htm', 'newwindow','toolbar=0,menu=0,width=680,height=400,screenx=1,screeny=1,status=0,directories=0,scrollbars=1,resizable=1');
+}
+}
+}
+</script><script language="JAVASCRIPT">
+function modifylinks()
+{
+var alllinks = document.links; 
+for (var i = 0; i < alllinks.length; i++) 
+{  
+alllinks[i].onclick = function POPSURVEY() {link_glob=1;};
+}
+var allforms = document.forms;
+for (var i = 0; i < allforms.length; i++) 
+{  
+allforms[i].onclick = function POPSURVEY() {link_glob=1;};
+}
 }
 </script></head>
 
 
+
+
+ 
+
   
 
+<body onload="modifylinks()" background="images/page_bg.gif" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#800000" vlink="#800000">
 
-<body background="images/page_bg.gif" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#800000" vlink="#800000">
 <!-----Platinum------>
 <div><h1 style="position: absolute; width: 400px; height: 1px; z-index: -1; left: 0px; top: 0px; font-size: 1pt">
 <font color="#F0F8F0">
@@ -86,7 +109,17 @@ Starbucks coffee, coffee beans, Kona coffee, tea, Jamaica Blue Mountain and more
     <td width="720">
   
       <p align="left">
-      <a href="home.asp"><img border="0" src="images/holiday_anim5.gif"></a><map name="FPMap1"><area href="forthehome.asp" shape="rect" coords="27, 50, 125, 65"><area href="fortheoffice.asp" shape="rect" coords="132, 48, 229, 65"><area href="home.asp" shape="rect" coords="24, 67, 73, 90"><area href="aboutus.asp" shape="rect" coords="73, 68, 122, 89"><area href="customerservice.asp" shape="rect" coords="126, 66, 244, 88"><area href="my_account.asp" shape="rect" coords="250, 68, 335, 90"><area href="shoppingcart.asp" shape="rect" coords="338, 66, 458, 90"></map><img border="0" src="images/holidaylogo_2a.jpg" usemap="#FPMap1"><br>
+      <map name="FPMap0">
+      <area href="forthehome.asp" shape="rect" coords="169, 50, 267, 65">
+      <area href="fortheoffice.asp" shape="rect" coords="273, 48, 370, 65">
+      <area href="home.asp" shape="rect" coords="6, 17, 139, 90">
+      <area href="home.asp" shape="rect" coords="170, 67, 219, 90">
+      <area href="aboutus.asp" shape="rect" coords="219, 68, 268, 89">
+      <area href="customerservice.asp" shape="rect" coords="271, 68, 389, 90">
+      <area href="my_account.asp" shape="rect" coords="392, 68, 477, 90">
+      <area href="shoppingcart.asp" shape="rect" coords="480, 66, 600, 90">
+      </map>
+      <img border="0" src="images/topimage_wnumber1.jpg" usemap="#FPMap0"><br>
      </p></td>
   </tr>
 </tbody></table>
@@ -133,6 +166,17 @@ Starbucks coffee, coffee beans, Kona coffee, tea, Jamaica Blue Mountain and more
                         <a target="_blank" href="http://www.amazon.com/gp/browse.html/103-4468162-5640622?me=A32535RAYKKT2T">
                         <img border="0" src="images/amazon_image.gif"></a></p></td>
             </tr>
+              <tr>
+  <td width="200%" height="30" valign="top" colspan="2">
+                          <p align="center">
+                        <!-- START SCANALERT CODE -->
+<a target="_blank" href="http://www.scanalert.com/RatingVerify?ref=www.coffeeforless.com">
+                        <img width="94" height="54" border="0" src="https://images.scanalert.com/meter/www.coffeeforless.com/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE  is a Trademark of ScanAlert'); return false;"></a>
+<!-- END   SCANALERT CODE -->
+                        
+                        </p></td>
+            </tr>
+
             <tr>
   <td width="200%" class="rowheader" height="20" colspan="2">
                           <p align="left"><b>&nbsp;<font color="#FFFFFF">browse the 
@@ -419,25 +463,12 @@ Starbucks coffee, coffee beans, Kona coffee, tea, Jamaica Blue Mountain and more
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
           <table border="0" width="98%" cellspacing="0" cellpadding="0" style="border-collapse: collapse" bordercolor="#111111">
             <tbody><tr>
               <td height="1">
                 <img border="0" src="images/white.gif" width="10" height="10"></td>
-              <td width="145" height="1">
-                &nbsp;
+              <td width="145" height="1">&nbsp;
+                
               </td>
             </tr>
             <tr>
@@ -462,19 +493,13 @@ Starbucks coffee, coffee beans, Kona coffee, tea, Jamaica Blue Mountain and more
                       <td valign="top" align="center"> 
                         <div align="left"> 
                           <p class="body" style="line-height: 150%"><b><font color="#990000">
-                          <a target="_blank" href="https://www.truste.org/validate.php?invnum=12023&amp;fromcgi=1">
-                          <img border="0" src="images/clickseal.gif" align="right"></a>CoffeeForLess.com</font></b> 
-                            is a licensee of the TRUSTe Privacy Program. TRUSTe 
-                            is an independent, non-profit organization whose mission 
-                            is to enable individuals and organizations to establish 
-                            trusting relationships based on respect for personal 
-                            identity and information by promoting the use of fair 
-                            information practices. This privacy statement covers 
-                            the site CoffeeForLess.com. Because this Web site 
-                            wants to demonstrate its commitment to our users' 
-                            privacy, it has agreed to disclose its information 
-                            practices and have its privacy practices reviewed 
-                            for compliance by TRUSTe. </p>
+                                                    CoffeeForLess.com Privacy
+                                                    Statement-</font></b>This
+                          privacy statement covers  the site CoffeeForLess.com.
+                          Because this Web site
+                             wants to demonstrate its commitment to our users'
+                             privacy, it has agreed to disclose its information
+                            practices.</p>
                         </div>
                         <ol>
                           <li> 
@@ -525,15 +550,9 @@ Starbucks coffee, coffee beans, Kona coffee, tea, Jamaica Blue Mountain and more
                         </ol>
                         <div align="left"> 
                           <p class="body" style="line-height: 150%"><b><font color="#990000">
-                          <img border="0" src="images/security.jpg" align="right" width="170" height="120"></font></b>If 
-                            users have questions or concerns regarding this statement, 
-                            they should first contact Ben Kirshner by e-mail (ben@coffeeserv.com) 
-                            If they do not receive acknowledgment of their inquiry 
-                            or their inquiry is not satisfactorily addressed, 
-                            they should then contact TRUSTe through the TRUSTe 
-                            Watchdog Dispute Resolution Process (http://www.truste.org/users/users_watchdog_intro.html). 
-                            TRUSTe will serve as a liaison with the Web site to 
-                            resolve users concerns. </p>
+                          <img border="0" src="images/security.jpg" align="right" width="170" height="120"></font></b>If
+                          users have questions or concerns regarding this statement,
+                          they should first contact Ben Kirshner by e-mail (ben@coffeeserv.com)</p>
                           <p class="body" style="line-height: 150%">Information 
                             Collection and Use Information Collection CoffeeForLessis 
                             the sole owner of the information collected on www.CoffeeForLess.com. 
@@ -710,8 +729,8 @@ Starbucks coffee, coffee beans, Kona coffee, tea, Jamaica Blue Mountain and more
                 
             </tr>
             <tr>
-              <td valign="top">
-                &nbsp;</td>
+              <td valign="top">&nbsp;
+                </td>
             </tr>
           </tbody></table>
           
@@ -728,7 +747,9 @@ Starbucks coffee, coffee beans, Kona coffee, tea, Jamaica Blue Mountain and more
     <tr>
       <td align="center" valign="top" height="55" bgcolor="#840000" background="images/burg_bg.gif" colspan="3">
             
-            <p class="smallbodywhite" align="center">
+            <p class="smallbodywhite" align="center"><b>
+       
+            
             <a href="customerservice.asp"><font color="#FFFFFF">Contact Us</font></a><font color="#FFFFFF">
             | </font>
             <a href="fortheoffice.asp">
@@ -746,7 +767,7 @@ Starbucks coffee, coffee beans, Kona coffee, tea, Jamaica Blue Mountain and more
             <b>
             <font color="#FFFFFF" face="Verdana" size="2">1-888-893-7593</font><font color="#800000" face="Verdana" size="2"><br>
                        </font>           
-			</b>© 2002 CoffeeServ Inc. All rights reserved.</p>
+			</b>© 2002 CoffeeServ Inc. All rights reserved.</b></p><b>
 			<!-----Platinum------>
 			<div><h1 style="position: absolute; width: 400px; height: 1px; z-index: -1; left: 0px; top: 0px; font-size: 1pt">
 			<font color="#F0F8F0">
@@ -754,7 +775,7 @@ Starbucks coffee, coffee beans, Kona coffee, tea, Jamaica Blue Mountain and more
 			</font></h1></div>
 			<!-----Platinum------>
 			
-        </td>
+        </b></td>
 	  </tr>
       <tr>
 		<td align="center" colspan="3" background="images/page_bg.gif">
@@ -771,11 +792,5 @@ Starbucks coffee, coffee beans, Kona coffee, tea, Jamaica Blue Mountain and more
 			</td></tr></tbody></table>
 
 <!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG --><script language="javascript" src="https://server.iad.liveperson.net/hc/59394348/x.js?cmd=file&amp;file=chatScript3&amp;site=59394348&amp;&amp;imageUrl=https://www.coffeeforless.com/images/liveperson"> </script><!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
-
-
-
-
-
-
 
 </center></div></body></html>
