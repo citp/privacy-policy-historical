@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wtamu.edu privacy policy that was archived on 2003-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030417014654id_/http%3A//www.wtamu.edu/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtamu.edu privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204213605id_/http%3A//www.wtamu.edu/privacy.htm) for the most accurate reproduction.*
 
 # www.wtamu.edu - Welcome to West Texas A&M University
 
-     |             West Texas A&M University has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.wtamu.edu](http://www.wtamu.edu/). 
+West Texas A&M University has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.wtamu.edu](http://www.wtamu.edu/). 
 
           We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. 
 
@@ -25,10 +25,3 @@ WT Box 60811 
 Canyon, Texas 79016-0001    
 (806) 651-7925    
 [webmaster@mail.wtamu.edu](mailto:webmaster@mail.wtamu.edu)
-
-* * *
-
-West Texas A&M University Office of Web Support  
-E-Mail: [webmaster@mail.wtamu.edu](mailto:webmaster@mail.wtamu.edu)  
-All contents copyright (C) 1999, WTAMU. All rights reserved.This page last updated: 3 July 2000  
----|---
