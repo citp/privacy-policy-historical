@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the hospitalityonline.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205114606id_/http%3A//www.hospitalityonline.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hospitalityonline.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602142437id_/http%3A//www.hospitalityonline.com/legal/privacy) for the most accurate reproduction.*
 
-# Hospitality Online, Inc. Privacy Policy
+# Hospitality Online Privacy Policy
 
-**Hospitality Online, Inc. Privacy Policy**
+  
+
 
 The purpose of your job search is to advance your personal career. Hospitality Online is committed to helping you advance your career while maintaining your privacy and the privacy of all others using Hospitality Online. 
 
@@ -22,26 +23,24 @@ Employers each have their own section on Hospitality Online. Those sections ofte
 
 Hospitality Online has alliances with other companies to provide additional services. Note that when you link to those other services you are going directly to those companies and you are subject to their privacy policies. 
 
-Job seekers, employers, and others have the opportunity to share success stories and other comments with Hospitality Online, usually through email. These comments become the property of Hospitality Online. We may use this information for marketing purposes, or to contact you for additional information or clarification. 
+Job seekers, employers, and others have the opportunity to share success stories and other comments with Hospitality Online, usually through e-mail. These comments become the property of Hospitality Online. We may use this information for marketing purposes, or to contact you for additional information or clarification. 
 
 **Your information about you. (Job seekers)**  
-Hospitality Online has a registration process to provide job seekers with their own private section within Hospitality Online. This also enables you to access features like [Hospitality Hound](http://hound.hospitalityonline.com/) and provides tools to enable you to manage your career. Some of these sections request detailed information from you about your career and interests. You determine whether you participate or not, and at what level. 
-
-You can use Hospitality Online without utilizing the above tools. Simply review jobs and follow the employer's instructions on how to respond. 
+Hospitality Online has a registration process to provide job seekers with their own private section within Hospitality Online. This also enables you to access features like the [Hospitality Online Career Toolkit](http://toolkit.hospitalityonline.com/) and provides tools to enable you to manage your career. Some of these sections request detailed information from you about your career and interests. You determine whether you participate or not, and at what level. 
 
 The Hospitality Online Career Tool Kit is designed to streamline your career process, save you time, and present your qualifications very professionally, while allowing you to manage the entire process. 
 
-Hospitality Online does not allow employers to search our database. When employers post jobs, those jobs are pre-screened against your objectives. When there is a match you are sent an email alerting you to review the position the employer is advertising. If you are interested you respond directly to the employer. 
+Hospitality Online does not allow employers to search our database. When employers post jobs, those jobs are pre-screened against your objectives. When there is a match you are sent an e-mail alerting you to review the position the employer is advertising. If you are interested you respond directly to the employer. 
 
 Hospitality Online does our best to make sure no one has unauthorized access to our database, but we can't guarantee that people won't gain access to our database without our consent. 
 
-Once you have submitted your resume to an employer, we are not responsible for the privacy of your information. Once you have a new job, we strongly encourage you to send an email to all companies you submitted your resume to. Tell them you have a new position and ask that they remove your resume from their files/database. 
+Once you have submitted your resume to an employer, we are not responsible for the privacy of your information. Once you have a new job, we strongly encourage you to send an e-mail to all companies you submitted your resume to. Tell them you have a new position and ask that they remove your resume from their files/database. 
 
 **Credit Card Security**  
 Hospitality Online uses a secure server for all credit card transactions. These credit card transactions use SSL encryption before being sent over the Internet. While we can't guarantee encryption or the privacy of your personal details and credit card transactions, SSL makes it very difficult for your information to be stolen or intercepted while the data is being transferred. 
 
 **Cookies**  
-To make things easier for you, Hospitality Online uses a feature called "Cookies". This enables file(s) to be transferred from a web site to the hard drive of your computer. Cookies make it easier for you and provides us statistics to improve Hospitality Online for you. 
+To make things easier for you, Hospitality Online uses a feature called "Cookies." This enables file(s) to be transferred from a web site to the hard drive of your computer. Cookies make it easier for you and provides us statistics to improve Hospitality Online for you. 
 
 Cookies are used to remember passwords, user names, to identify which pages, jobs, etc. are most visited, and for load balancing. They enable us to deliver service faster and to provide a more personalized experience for you. 
 
