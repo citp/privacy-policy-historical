@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsbvi.edu privacy policy that was archived on 2002-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020228020009id_/http%3A//www.tsbvi.edu/about.html%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsbvi.edu privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013120923id_/http%3A//www.tsbvi.edu/about.html%23Privacy) for the most accurate reproduction.*
 
 # About the TSBVI Web Site
 
@@ -20,15 +20,13 @@ All resources on the TSBVI Web page are in the public domain unless otherwise no
 
 ### Web Site Usability Features
 
-If you have a visual impairment there are many options which you can control from the selection of an accessible browser to modifying your browser to meet your needs. Visit the [Large Print and Speech Access to the World Wide Web.](https://web.archive.org/web/20020228020009id_/http%3A//www.tsbvi.edu/technology/web.htm)
+If you have a visual impairment there are many options which you can control from the selection of an accessible browser to modifying your browser to meet your needs. Visit the [Large Print and Speech Access to the World Wide Web.](https://web.archive.org/web/20021013120923id_/http%3A//www.tsbvi.edu/technology/web.htm)
 
 This website strives to follow [Web Content Accessibility Guidelines](http://www.w3.org/TR/WAI-WEBCONTENT).
 
 The Texas image on each page will link back to the home page
 
-Every graphics image will have alt text to name the graphic. Where appropriate, a graphic will be followed by a D link that provides an in-depth description of the image
-
-When practical, two dimensional tables will be presented as visual tables and also converted to a linear speech-friendly format. When web technology improves to allow understandable speech access to tables, this convention will be discontinued.
+Every graphics image will have alt text to name the graphic. Where appropriate, a graphic will be followed by a D link that provides an in-depth description of the image.
 
 * * *
 
@@ -62,7 +60,7 @@ We use Log analysis tools to create summary statistics, which are used for purpo
 
 ### Submission Guidelines
 
-  * Use a FAQ structure (see [bnsemail.htm](https://web.archive.org/web/20020228020009id_/http%3A//www.tsbvi.edu/technology/bnsemail.htm) as an example)
+  * Use a FAQ structure (see [bnsemail.htm](https://web.archive.org/web/20021013120923id_/http%3A//www.tsbvi.edu/technology/bnsemail.htm) as an example)
   * Identify sources of quoted materials (link to source when available)
   * When referencing specific products provide a link to appropriate manufacturer's product page
   * Provide complete author information. Name, Organization, Address, E-mail.
@@ -72,11 +70,15 @@ We use Log analysis tools to create summary statistics, which are used for purpo
 
 * * *
 
-[](https://web.archive.org/web/20020228020009id_/http%3A//www.tsbvi.edu/index.htm) [](https://web.archive.org/web/20020228020009id_/http%3A//www.tsbvi.edu/tsbvi-toc.htm) [](https://web.archive.org/web/20020228020009id_/http%3A//www.tsbvi.edu/search.htm)  
-[Agency Contact Information](https://web.archive.org/web/20020228020009id_/http%3A//www.tsbvi.edu/school/whodoyou.htm) | [Texas State Homepage](http://www.state.tx.us/) | [Texas State Wide Search](http://isadore.tsl.state.tx.us/trail/)
+### [Open Records Policy](https://web.archive.org/web/20021013120923id_/http%3A//www.tsbvi.edu/school/open.htm)
 
-Please complete the [comment form](https://web.archive.org/web/20020228020009id_/http%3A//www.tsbvi.edu/survey.htm) or send comments and suggestions to: Jim Allan ([Webmaster-Jim Allan](mailto:jimallan@tsbvi.edu))
+* * *
 
-Last Revision: January 23, 2002
+[](https://web.archive.org/web/20021013120923id_/http%3A//www.tsbvi.edu/index.htm) [](https://web.archive.org/web/20021013120923id_/http%3A//www.tsbvi.edu/tsbvi-toc.htm) [](https://web.archive.org/web/20021013120923id_/http%3A//www.tsbvi.edu/search.htm)  
+[Agency Contact Information](https://web.archive.org/web/20021013120923id_/http%3A//www.tsbvi.edu/school/whodoyou.htm) | [Texas State Homepage](http://www.state.tx.us/) | [Texas State Wide Search](http://isadore.tsl.state.tx.us/trail/)
+
+Please complete the [comment form](https://web.archive.org/web/20021013120923id_/http%3A//www.tsbvi.edu/survey.htm) or send comments and suggestions to: Jim Allan ([Webmaster-Jim Allan](mailto:jimallan@tsbvi.edu))
+
+Last Revision: July 30, 2002
 
 The URL of this page is: http://www.tsbvi.edu/about.html
