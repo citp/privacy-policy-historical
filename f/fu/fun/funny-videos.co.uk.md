@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the funny-videos.co.uk privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605101839id_/http%3A//www.funny-videos.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funny-videos.co.uk privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208045533id_/http%3A//www.funny-videos.co.uk/privacy.html) for the most accurate reproduction.*
 
-# Funny videos to buy!
+# Privacy Statment for Funny Videos
+
+| 
 
 **Privacy Statment**
 
@@ -21,3 +23,7 @@ This site contains links to other sites, VeryFunnyDownloads.com is not responsib
 
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us by emailing us at [info@Funny-Videos.co.uk](mailto:support@funny-videos.co.uk).
+
+|   
+  
+Funny-Videos © 2004. All rights Reserved 
