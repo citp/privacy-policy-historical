@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the easybib.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201162028id_/http%3A//www.easybib.com/main.cfm%3FID%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easybib.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605050927id_/http%3A//www.easybib.com/main.php%3FID%3D9) for the most accurate reproduction.*
 
-# EasyBib.com - Easy Bibliography Formatting, Alphabetizing, and Storing.
+# EasyBib.com - Free, Automatic Bibliography Formatting, Alphabetizing, and Printing.
 
-Privacy Policy
+privacy policy
 
 EasyBib.com is committed to providing the utmost is privacy security. We do not sell nor barter any specific personal information obtained from the site. 
 
@@ -19,6 +19,6 @@ These policies are subject to change, so please make sure to check back periodic
 Although EasyBib.com has a strict privacy policy, all interactions with the Internet pose some inherent dangers. Please be aware of these and conduct all your transactions with caution. Please be careful and responsible when you are surfing online. 
 
 Thank you for surfing with us,  
-[Darshan and Neal](http://www.easybib.com/main.cfm?ID=5)  
+[Darshan and Neal](http://www.easybib.com/main.php?ID=6)  
 EasyBib.com  
 
