@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nursingcenter.com privacy policy that was archived on 2003-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031220084258id_/http%3A//www.nursingcenter.com/about/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nursingcenter.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611062752id_/http%3A//www.nursingcenter.com/about/privacypolicy.asp) for the most accurate reproduction.*
 
 # NursingCenter - About Us - Privacy Policy
 
@@ -95,9 +95,9 @@ If you have questions about this privacy statement, the practices of this site, 
 
 NursingCenter Customer Service  
 Lippincott Williams & Wilkins  
-P.O. Box 908  
-1111 Bethlehem Pike  
-Springhouse, PA 19477
+323 Norristown Road  
+Suite 200  
+Ambler, PA 19002-2758
 
 E-mail: [CustomerService@NursingCenter.com](mailto:CustomerService@NursingCenter.com)  
   
