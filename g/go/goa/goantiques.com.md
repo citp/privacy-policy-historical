@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goantiques.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401145700id_/http%3A//www.goantiques.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goantiques.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010161911id_/http%3A//www.goantiques.com/privacy_policy) for the most accurate reproduction.*
 
 # Antiques, Art, Collectibles & More - GoAntiques
 
@@ -62,10 +62,10 @@ Changes to this Privacy Policy
 2) If you have questions or suggestions, please contact us at: 
 
 GoAntiques Inc.  
-1350 W. Fifth  
-Suite 230  
-Columbus, OH 43212  
-(614) 481-5750  
+94 N. High Street  
+Suite 300  
+Dublin, OH 43017  
+(614) 923-4250  
 support@goantiques.com  
 
 
