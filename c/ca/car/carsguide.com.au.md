@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carsguide.com.au privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613035934id_/http%3A//carsguide.news.com.au/news/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsguide.com.au privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223110427id_/http%3A//carsguide.news.com.au/news/privacy) for the most accurate reproduction.*
 
 # Carsguide - Privacy Policy
 
