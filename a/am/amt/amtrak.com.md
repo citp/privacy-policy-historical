@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amtrak.com privacy policy that was archived on 2001-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010817014907id_/http%3A//amtrak.com/help/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amtrak.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408095151id_/http%3A//amtrak.com/help/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
