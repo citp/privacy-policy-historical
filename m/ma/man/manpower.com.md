@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manpower.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205183117id_/http%3A//www.manpower.com/mpcom/PrivacyPolicy.jsp%3Flanguage%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manpower.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609084818id_/http%3A//www.manpower.com/mpcom/PrivacyPolicy.jsp%3Flanguage%3Den) for the most accurate reproduction.*
 
 # Manpower
 
