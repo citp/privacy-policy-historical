@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opm.gov privacy policy that was archived on 2000-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000511002930id_/http%3A//www.opm.gov/html/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opm.gov privacy policy that was archived on 2000-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001211123200id_/http%3A//www.opm.gov/html/privacy.htm) for the most accurate reproduction.*
 
 # Office of Personnel Management Web Privacy Policy
 
@@ -40,8 +40,8 @@ Our web site has links to other federal agencies. We also link to other organiza
 
 * * *
 
-  * To [Freedom of Information Act Home Page](https://web.archive.org/web/20000511002930id_/http%3A//www.opm.gov/efoia/index.htm)
-  * To [OPM Web Site Index](https://web.archive.org/web/20000511002930id_/http%3A//www.opm.gov/html/topics.htm)
-  * To [OPM Home Page](https://web.archive.org/web/20000511002930id_/http%3A//www.opm.gov/index.htm)
+  * To [Freedom of Information Act Home Page](https://web.archive.org/web/20001211123200id_/http%3A//www.opm.gov/efoia/index.htm)
+  * To [OPM Web Site Index](https://web.archive.org/web/20001211123200id_/http%3A//www.opm.gov/html/topics.htm)
+  * To [OPM Home Page](https://web.archive.org/web/20001211123200id_/http%3A//www.opm.gov/index.htm)
 
 
