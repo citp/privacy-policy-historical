@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zdnet.com.au privacy policy that was archived on 2000-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000505152043id_/http%3A//www.zdnet.com.au/admin/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zdnet.com.au privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207073500id_/http%3A//www1.zdnet.com.au/admin/privacy.html) for the most accurate reproduction.*
 
 # ZDNet Australia
 
