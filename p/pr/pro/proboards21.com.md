@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proboards21.com privacy policy that was archived on 2003-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030802102625id_/http%3A//www.proboards.com/Information-Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proboards21.com privacy policy that was archived on 2004-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040620012121id_/http%3A//www.proboards.com/Information-Privacy_Policy.html) for the most accurate reproduction.*
 
 # ProBoards.com - Home
 
