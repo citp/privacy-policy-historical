@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2ya.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206052917id_/http%3A//2ya.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2ya.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403170448id_/http%3A//www.2ya.com/privacy_policy.php) for the most accurate reproduction.*
 
 # 2Ya.com Domain Name Registration and Services
 
