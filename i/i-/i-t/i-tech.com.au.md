@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the i-tech.com.au privacy policy that was archived on 2002-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021229055628id_/http%3A//www.i-tech.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-tech.com.au privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618120825id_/http%3A//i-tech.com.au/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Statement
+# Computer Hardware and Software Australia
 
   
 I-Tech Group is committed to protecting your privacy. That's because we base our business on the trust you place in us. The information we collect is gathered to ensure secure ordering and to provide a more personalized shopping experience. If you have any concerns, comments or complaints, be sure to [_let us know_](mailto:privacy@i-tech.com.au%22). 
@@ -18,14 +18,11 @@ The amount of information we collect depends on you. We collect information need
 **Purchase product online from I-tech.com.au**   
 Name, address and payment information, although credit card and PO numbers may be phoned in as an alternative. 
 
-**E-mail a link to product information to a friend/colleague "Send to Associate"**   
+**E-mail a link to product information to a friend/colleague "Tell a friend"**   
 E-mail address of your friend/colleague and your e-mail address. 
 
 [**_Application of employment_**](http://www.i-tech.com.au/jobs.asp)   
 First name, last name, address, home phone, city, state, country, whether or not you have the legal right to work in the Australia, any criminal convictions, date available to start, current employment status, whether or not you have any computer skills/training as well as your certification that the information contained in the application is true and correct and that you have authorized the affidavit contained in the application. 
-
-**Electronic proxy voting and receiving shareholder information electronically**   
-If you choose to cast your proxy vote electronically and/or receive shareholder information electronically, we will collect e-mail address. Of course, when you cast your vote electronically, we will collect that information as well. 
 
 **Is your information used for any other purpose?**   
 We require only the personal information that is needed for safely processing your online order and for contacting you about your transactions. It is used exclusively for that purpose. If you become a I-Tech Group customer, you may receive mailings from your order information may be analyzed as part of our standard business practices. 
