@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efax.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604050608id_/http%3A//www.efax.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efax.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216230117id_/http%3A//www.efax.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,6 +26,4 @@ We use industry-standard efforts to safeguard the confidentiality of your transm
 
 **Junk Faxes** Finally, it is our intention to use legally available means to prevent distribution and receipt of unsolicited commercial faxes ("junk faxes") through the service, and we specifically restrict members from taking any actions which impose an unreasonable or disproportionately large load on eFax.com resources. We would like to ask that any member that is annoyed by receipt of such junk faxes, please report such activity to eFax.com via our eFax.com support form so that we can attempt to prevent further junk faxes from the same source. 
 
-**© 2000 eFax.com, all rights reserved.**   
-**eFax is a registered trademark of eFax.com.**  
-
+**© 2000 eFax.com, all rights reserved.**
