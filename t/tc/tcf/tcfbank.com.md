@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcfbank.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607193236id_/http%3A//tcfbank.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcfbank.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207081900id_/http%3A//www.tcfbank.com/privacy.htm) for the most accurate reproduction.*
 
 # TCF Bank - TCF Privacy Policy
 
@@ -53,11 +53,11 @@ We may also use the information we collect about you to offer you products and s
 
 **Accuracy of Customer Information**
 
-TCF has established audit procedures to maintain the accuracy and integrity of account and personal information. If you believe the account or personal information we maintain is incorrect, or if you would like to review you account or personal information, please [contact us](https://web.archive.org/web/20020607193236id_/http%3A//tcfbank.com/cu_phonb.htm).
+TCF has established audit procedures to maintain the accuracy and integrity of account and personal information. If you believe the account or personal information we maintain is incorrect, or if you would like to review you account or personal information, please [contact us](https://web.archive.org/web/20021207081900id_/http%3A//www.tcfbank.com/cu_phonb.htm).
 
 **Contact for Privacy Concerns**
 
-If you believe TCF has not followed this Privacy Policy or if you have any questions or complaints regarding your privacy at TCF, [contact us](https://web.archive.org/web/20020607193236id_/http%3A//tcfbank.com/cu_phonb.htm). You may also write to us at:
+If you believe TCF has not followed this Privacy Policy or if you have any questions or complaints regarding your privacy at TCF, [contact us](https://web.archive.org/web/20021207081900id_/http%3A//www.tcfbank.com/cu_phonb.htm). You may also write to us at:
 
 TCF Bank  
 Attn: Bank Central  
@@ -70,7 +70,7 @@ If you request information and enter your request in this website, we will respo
 
 **Security**
 
-We use industry standards to safeguard your personal identifying information, such as Secure Socket Layer (SSL) protocol and firewalls. These systems are designed to guard against unauthorized access and use of customer information by unauthorized individuals. We work to upgrade these features on an ongoing basis. See [Internet Security](https://web.archive.org/web/20020607193236id_/http%3A//tcfbank.com/ob_secur.htm) for additional information regarding the steps we have taken to ensure you online banking transactions are secure.
+We use industry standards to safeguard your personal identifying information, such as Secure Socket Layer (SSL) protocol and firewalls. These systems are designed to guard against unauthorized access and use of customer information by unauthorized individuals. We work to upgrade these features on an ongoing basis. See [Internet Security](https://web.archive.org/web/20021207081900id_/http%3A//www.tcfbank.com/ob_secur.htm) for additional information regarding the steps we have taken to ensure you online banking transactions are secure.
 
 **Links To Other Web Sites**
 
@@ -117,7 +117,7 @@ We always have the right to share, within the TCF family, identifying and contac
 **Fair Credit Reporting Act Notice  
 Opt-Out of Sharing with TCF Companies**
 
-We always have the right to share, within the TCF family, identifying and contact information from your application. You may direct us not to share the other information in your application and in your consumer reports with other TCF companies by [contacting us](https://web.archive.org/web/20020607193236id_/http%3A//tcfbank.com/cu_phonb.htm).
+We always have the right to share, within the TCF family, identifying and contact information from your application. You may direct us not to share the other information in your application and in your consumer reports with other TCF companies by [contacting us](https://web.archive.org/web/20021207081900id_/http%3A//www.tcfbank.com/cu_phonb.htm).
 
 Please note that contacting us does not affect our right to share, within the TCF family, identification and contact information from your application, as well as information about our transaction and experience with your account. In addition, even if you contact us, we will share all your information within the TCF family when you ask us to.
 
@@ -127,7 +127,7 @@ A consumer report is any written, oral, or other communication from a consumer r
 
 **Sharing Your Information with Other Companies**
 
-We share your non-public personal information outside the TCF family for specific reasons. We do not share the information with non-TCF companies if you do not want us to. (Simply [contact us](https://web.archive.org/web/20020607193236id_/http%3A//tcfbank.com/cu_phonb.htm) if you do not want us to share your information.)
+We share your non-public personal information outside the TCF family for specific reasons. We do not share the information with non-TCF companies if you do not want us to. (Simply [contact us](https://web.archive.org/web/20021207081900id_/http%3A//www.tcfbank.com/cu_phonb.htm) if you do not want us to share your information.)
 
 We may share the following kinds of non-public personal information about you with third parties who are not part of the TCF family of affiliated companies:
 
@@ -185,7 +185,7 @@ TCF maintains physical, electronic, and procedural safeguards that comply with f
 
 If you prefer that we not share non-public personal information about you with third parties who are not affiliated with TCF, you may opt out of the sharing. That is, you may direct us not to share the information.
 
-If you wish to opt-out of sharing information with third parties who are not affiliated with TCF, [contact us](https://web.archive.org/web/20020607193236id_/http%3A//tcfbank.com/cu_phonb.htm).
+If you wish to opt-out of sharing information with third parties who are not affiliated with TCF, [contact us](https://web.archive.org/web/20021207081900id_/http%3A//www.tcfbank.com/cu_phonb.htm).
 
 **What Happens If You Opt-Out?**
 
