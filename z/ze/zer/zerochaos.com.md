@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zerochaos.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214091350id_/http%3A//www.zerochaos.com/company.asp%3Fpage%3Dcomp-privacy%26title%3DOur%2BCommitment%2BTo%2BYour%2BPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zerochaos.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605060440id_/http%3A//zerochaos.com/company.asp%3Fpage%3Dcomp-privacy%26title%3DOur%2BCommitment%2BTo%2BYour%2BPrivacy) for the most accurate reproduction.*
 
 # ZeroChaos - Company Info - Our Commitment To Your Privacy
 
