@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the business.gov privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601132237id_/http%3A//www.business.gov/busadv/pages/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business.gov privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209173956id_/http%3A//www.business.gov/busadv/pages/privacy.cfm) for the most accurate reproduction.*
 
 # U.S. Business Advisor - Privacy
 
