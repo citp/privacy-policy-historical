@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quia.com privacy policy that was archived on 2003-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030802105345id_/http%3A//www.quia.com/company/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quia.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609184034id_/http%3A//www.quia.com/company/privacy_policy.html) for the most accurate reproduction.*
 
 # Quia.com - Privacy Policy
 
