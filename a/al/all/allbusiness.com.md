@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the allbusiness.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208080919id_/http%3A//www.allbusiness.com/include/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allbusiness.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605140254id_/http%3A//allbusiness.com/include/privacy.asp) for the most accurate reproduction.*
 
 # AllBusiness Privacy Policy
 
 Privacy Policy
 
+  
 Privacy Policy
 
 Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
