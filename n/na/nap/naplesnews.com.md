@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naplesnews.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207172825id_/http%3A//www.naplesnews.com/cgi-bin/sendto.pl%3Flocation%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naplesnews.com privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628222307id_/http%3A//www.naplesnews.com/cgi-bin/sendto.pl%3Flocation%3Dprivacy) for the most accurate reproduction.*
 
 # naplesnews.com | Privacy Policy
 
@@ -67,6 +67,7 @@ The right to download and store or output the materials in our sites is granted 
 
 
 **Feedback:**  
+[AP link: The latest news from Iraq](http://www.naplesnews.com/sections/iraq/front.html)  
 [E-mail the naplesnews.com staff](mailto:info@naplesnews.com)  
 [Write a letter to the editor](https://web.archive.org/cgi-bin/sendto.pl?location=letters)  
 [View our directory of Daily News staff](https://web.archive.org/cgi-bin/sendto.pl?location=directory)  
@@ -75,37 +76,3 @@ The right to download and store or output the materials in our sites is granted 
 
   
 
-
-|  |  |  |    
-  
-[](http://admaster.scripps.com/cfapps/2/jobs_more.cfm?&site_id=2&rail_type=jobs)  
-Employment ads from The Naples Daily News  
-  
-  
-  
-  
-[](http://www.naplesnews.net/)  
-  
-[](http://www.winktv.com/)  
-  
-[  
-**Circulation:**](http://chatter.naplesnews.com/transactiontype.asp)  
-Use our online WEB service any time you need to contact circulation
-
-**[Postcards:](http://www.naplesnews.com/postcard/index.html)**  
-Send an electronic postcard to somebody you know.
-
-**[Coupons:](http://www.naplesnews.com/coupon/alpha.html)**  
-Save at local area businesses.
-
-**[Ad Rates:](http://www.naplesnews.com/advertising/)**  
-For Naples Daily News and naplesnews.com
-
-[**E-commerce**](http://www.naplesnews.com/ecommerce/open/)  
-Sell Your Products or Services on the Internet
-
-**[CD Business Cards](http://www.naplesnews.com/business_cds/)**  
-Convenient, impressive sales tool for businesses
-
-**[BillPay](http://www.naplesnews.com/billpay/)**  
-Manage your advertising account payments
