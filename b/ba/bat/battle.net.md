@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the battle.net privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606224112id_/http%3A//www.battle.net/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the battle.net privacy policy that was archived on 2001-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011010194925id_/http%3A//www.battle.net/privacy.shtml) for the most accurate reproduction.*
 
 # Battle.net - Blizzard Entertainment On-Line Privacy Policy
 
@@ -47,25 +47,25 @@ Blizzard Entertainment also owns other domain names, such as www.warcraft.com, t
 
 **What other types of information may we collect?**
 
-> Your web browser or client software may transmit certain geographic information or information regarding the capabilities of your computer to Blizzard Entertainment. Blizzard Entertainment may use this information to generate aggregate statistics about our user community. This information is never linked to you or your household in any way. 
+> Your web browser or client software may transmit certain geographic information or information regarding the capabilities or features of your computer to Blizzard Entertainment. Blizzard Entertainment may use this information to generate aggregate statistics about our user community or for security purposes. This information is never linked to you or your household in any way. 
 
 **How do we use your personal information?**
 
-> The personal information you provide Blizzard Entertainment will allow us to fulfill your product or service order; alert you of new products, features, or enhancements; and/or notify you of upgrade opportunities, contests, or special events. We may also provide your personal information to other companies or organizations that offer products that may be of interest to you. In such cases, we will notify you that the information will be shared and provide you with the opportunity to opt-out. 
+> The personal information you provide Blizzard Entertainment will allow us to fulfill your product or service order; alert you of new products, features, or enhancements; and/or notify you of upgrade opportunities, contests, or special events. We may also provide your personal information to other companies or organizations that offer products or services that may be of interest to you. In such cases, we will notify you that the information will be shared and provide you with the opportunity to opt-out. 
 > 
 > Lastly, we may use your personal information for internal marketing, profiling, or demographic purposes, so we can adapt our products and services to better suit your needs. We do this to better understand and serve our customers. 
 
 **Who is collecting your information?**
 
-> When you are asked for information while on a Blizzard Entertainment site, you are sharing that information only with Blizzard Entertainment and we will not disclose that information without your permission. Some services, however, are provided in conjunction with partner companies. If another company other than Blizzard Entertainment is collecting your personal information, you will be notified at the time the information is collected. If you do not want your information shared, you can choose not to allow the transfer of information by not using that particular service or by not providing any information at that time. 
+> When you are asked for information while on a Blizzard Entertainment site, you are sharing that information only with Blizzard Entertainment and we will not disclose that information without your permission. Some services, however, are provided in conjunction with partner companies. If another company other than Blizzard Entertainment is collecting your personal information, you will be notified at the time the information is collected. If do not want your information shared, you can choose not to allow the transfer of information by not using that particular service or by not providing any information at that time. 
 > 
 > Please be aware that advertisers or web sites with links to our sites may collect personal information about you. And remember, the Blizzard Entertainment Privacy Policy does not apply to, and cannot control the activities of, those other advertisers or web sites. 
 
 **With whom may my personal information be shared?**
 
-> Blizzard Entertainment may disclose your personal information to third-party vendors for the purpose of fulfilling orders or processing mailings. In special circumstances, we may also disclose such information if there is a violation of our End User License Agreements or our Terms of Service or Use Agreements or if we have a good faith belief that the law requires it. 
+> Blizzard Entertainment may disclose your personal information to third-party vendors for the purpose of fulfilling orders, processing mailings, or to analyze and/or store data. In special circumstances, we may also disclose such information if there is a violation of our End User License Agreements or our Terms of Service or Use Agreements or if we have a good faith belief that the law requires it. 
 > 
-> Blizzard Entertainment sites also have forum sections, where users can chat and exchange ideas and tactics. When posting to a forum, please be aware that the information posted is being made publicly available on-line. 
+> Blizzard Entertainment sites also have forum sections, where users can chat and exchange ideas and tactics. When posting to a forum, please be aware that the information posted is being made publicly available on-line and the user does so at his or her own risk. 
 
 **What choices do I have regarding the collection, use, and distribution of my personal information?**
 
@@ -83,7 +83,7 @@ Blizzard Entertainment also owns other domain names, such as www.warcraft.com, t
 
 **What are cookies and how do you use them?**
 
-> Blizzard Entertainment uses cookies on its web sites. Cookies are a feature of your web browser that allows web sites to transfer bits of information to your computer for record-keeping purposes. A cookie stored on your computer can be used to "remember" things like your password, or that you have already registered. This allows us to speed up your future activities, saving the time you would normally spend entering information such as your password or registration. In addition, Blizzard Entertainment may use cookies to retrieve user information for promotional or marketing purposes. 
+> Blizzard Entertainment uses cookies on its web sites. Cookies are a feature of your web browser that allows web sites to transfer bits of information to your computer for record-keeping purposes. A cookie stored on your computer can be used to "remember" things like your password, or that you have already registered. This allows us to speed up your future activities, saving the time you would normally spend entering information such as your password or registration. In addition, Blizzard Entertainment may use cookies to retrieve user information for promotional, marketing, or security purposes. 
 
 **What are Internet protocol addresses?**
 
@@ -91,7 +91,7 @@ Blizzard Entertainment also owns other domain names, such as www.warcraft.com, t
 
 **What do I do if I want to correct or review my personal information?**
 
-> If for any reason you are concerned with the way we are using your personal information, or would like to correct or request that we cease from using such personal information, please contact Blizzard Entertainment Privacy On-Line at 19840 Pioneer Avenue, Torrance, California 90503. You can also contact us at (800) 953-7669 or by e-mailing us at [ privacyonline@blizzard.com](mailto:privacyonline@blizzard.com). 
+> If for any reason you are concerned with the way we are using your personal information, or would like to correct or request that we cease from using such personal information, please contact Blizzard Entertainment Privacy On-Line at 6080 Center Drive, 10th Floor, Los Angeles, California 90045. You can also contact us at (800) 953-7669 or by e-mailing us at [ privacyonline@blizzard.com](mailto:privacyonline@blizzard.com). 
 
 **How secure is my personal information?**
 
@@ -99,7 +99,7 @@ Blizzard Entertainment also owns other domain names, such as www.warcraft.com, t
 
 **What if I have a question or complaint?**
 
-> If you have any questions or wish to file a complaint, please feel free to e-mail us at [privacy@blizzard.com](mailto:privacy@blizzard.com) or send a letter addressed to Blizzard Entertainment Privacy Policy, Attn: Rod Rigole, at 19840 Pioneer Avenue, Torrance, California 90503. 
+> If you have any questions or wish to file a complaint, please feel free to e-mail us at [privacy@blizzard.com](mailto:privacy@blizzard.com) or send a letter addressed to Blizzard Entertainment Privacy Policy, Attn: Rod Rigole, at 6080 Center Drive, 10th Floor, Los Angeles, California 90045. 
 
 By using the Blizzard Entertainment web sites listed herein, you signify your assent to the Blizzard Entertainment Privacy Policy. If you do not agree to this policy, please do not use these web sites. 
 
