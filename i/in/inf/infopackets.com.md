@@ -1,16 +1,50 @@
-> *The following text is extracted and transformed from the infopackets.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211151316id_/http%3A//www.infopackets.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infopackets.com privacy policy that was archived on 2003-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030410125404id_/http%3A//www.infopackets.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
-**Our Privacy Policy**
+**Infopackets.com Privacy Policy**
+
+  
+This web site is made for new and intermediate computer users.
+
+A short version of the Privacy Policy is below, followed by a longer version for your convenience.
+
+In general --  
+ 
+
+**We respect your privacy. Your email address will never be sold, or rented to a third party.**
+
+  
+The infopackets web site is based on a [free Windows newsletter](http://www.infopackets.com/windows+newsletter.htm).
+
+Your are encouraged to sign up for the newsletter and share in our knowledge.  Should you sign up for the newsletter, you can be assured that:  
+ 
+
+  1. You can unsubscribe at any time.  Unsubscribing is done in the same manner as it is when you subscribe.  
+ 
+  2. Your email address will never be sold, or rented to a third party.  
+ 
+  3. Your email address will be kept safe and secure.  
+ 
+  4. All newsletter-based emails will always contain unsubscribe information at the VERY bottom of the page.  To change or remove your email address, you can also visit this URL: [ http://www.infopackets.com/remove+change+email.htm](http://www.infopackets.com/remove+change+email.htm)
+
+
+
+  
+Furthermore:
+
+  * We don't use cookies on our web site to track visitors.  
+ 
+  * We don't use annoying pop up ads on our web site.
+
+
+
+**The long version of our Privacy Policy  
+ **
 
 Infopackets.com is committed to user privacy in our products and services. This policy outlines our personal information handling practices. If you give us personal information, we will treat it according to this policy. 
 
-Infopackets.com encourages you to read this privacy policy and those of all web sites you visit. Below is a summary of Infopackets.com's online privacy policy. 
-
-**Types and uses of personal information**
-
-Your personal information is used in the following ways: 
+Infopackets.com encourages you to read this privacy policy and those of all web sites you visit.  Your personal information is used in the following ways: 
 
 **User IDs and Passwords**
 
@@ -30,7 +64,7 @@ Used to raise and respond to issues and inquiries of all types. Also used to dis
 
 **Transactions**
 
-Shows which products and services you have requested. We will only use your personal information in the ways specified when it was collected. We will not subsequently change the way in which we use your personal information, unless you consent to the new usage. _**We do not sell your personal information for third party purposes.**_
+Shows which products and services you have requested. We will only use your personal information in the ways specified when it was collected. We will not subsequently change the way in which we use your personal information, unless you consent to the new usage. _**We will not sell your personal information for third party purposes.**_
 
 **Security measures**
 
@@ -50,17 +84,15 @@ We provide links to third party sites. Since we do not control these Web sites, 
 
 We do not knowingly collect personal information from children under the age of 13. If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems. Infopackets.com encourages parents to go online with their kids. Here are a few tips to help make a child's online experience safer: 
 
-Teach kids never to give personal information, unless supervised by a parent or responsible adult. Includes name, address, phone, school, etc. Know the sites your kids are visiting and which sites are appropriate. Look for Web site privacy policies. Know how your child's information is treated. 
+  * Teach kids never to give personal information, unless supervised by a parent or responsible adult. Includes name, address, phone, school, etc. Know the sites your kids are visiting and which sites are appropriate. Look for Web site privacy policies. Know how your child's information is treated.   
+ 
+  * Check out the [FTC's site](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html) for more tips on protecting children's privacy online. 
 
-Check out the [FTC's site](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html) for more tips on protecting children's privacy online. 
+
 
 **Cookies**
 
-Most Infopackets.com pages use cookies. Cookies help us provide a better user experience by measuring which Web site areas are of greatest interest. Infopackets.com also uses cookies when you register for one of our Web programs. In this situation, a cookie will store useful information that enables our Web site to remember you when you return. Infopackets.com can only read cookies from Infopackets.com Web sites. 
-
-If you choose to disable cookies in your browser, you can still access most of our Web sites. Some Web sites will not allow you to complete certain activities if cookies are disabled. For example, our consumer e-commerce site uses session cookies and persistent cookies to process transactions. If people you do not accept cookies, the associated shopping bag will not work and you would not be able to order. 
-
-We may display advertisements from third parties. Third party ad-serving companies control which ads are shown. These ad-serving companies may use cookies to collect non-personally identifiable information from you. Advertisers use this information to target the ads and measure their impact. 
+We don't use cookies to track visitor sessions. 
 
 **Accessing and updating information**
 
@@ -68,7 +100,9 @@ We need your help in making sure your personal information is correct in our sys
 
 **Unsubscribing**
 
-Each email newsletter has instructions on how to unsubscribe. 
+Each email newsletter has instructions on how to unsubscribe.  You can also unsubscribe or change your email address by visiting the link below:
+
+[ http://www.infopackets.com/remove+change+email.htm](http://www.infopackets.com/remove+change+email.htm)
 
 **Newsgroups / Forums**
 
@@ -78,4 +112,4 @@ Infopackets.com forums are public. Please consider this before posting.
 
 All updates to this policy will be posted here. 
 
-Last update: April 06, 2001
+Last update: January 05, 2003
