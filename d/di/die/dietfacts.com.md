@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dietfacts.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607045053id_/http%3A//dietfacts.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dietfacts.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207194726id_/http%3A//www.dietfacts.com/privacy.asp) for the most accurate reproduction.*
 
 # Fast Food nutrition database, free diets, weight loss programs - DietFacts.com
 
@@ -12,15 +12,24 @@ Our site contains a contact signup form. We use the contact information from the
 
 This site contains links to other sites. This site is not responsible for the privacy practices or the content of such Web sites. 
 
-|    
-**Please Visit Our Sponsors:** [ ](http://www.qksrv.net/click-871258-9836173)
+|  **Please Visit Our Sponsors:**  
+[  
+**Buy Lowfat Pizza online!**](http://www.heavensbistro.com/)
 
-[ ](http://www.qksrv.net/click-871258-2484329)
+[](http://click.linksynergy.com/fs-bin/click?id=EbT4BSOhmpo&offerid=51678.10000215&type=4&subid=0)
+
+[ ](http://www.tkqlhce.com/click-871258-10373145)
 
 [ ](http://www.qksrv.net/click-871258-10308492)
 
-[ ](http://www.qksrv.net/click-871258-5029329)
-
 [ ](http://www.qksrv.net/click-871258-1500116)
 
-[ ](http://www.qksrv.net/click-871258-10285054)
+[ ](http://www.qksrv.net/click-871258-5029329)
+
+[ ](http://sheknows.com/cgi-bin/lceaffiliates/jump.cgi?ID=282)
+
+[ ](http://www.qksrv.net/click-871258-1457541)
+
+[ ](http://www.qksrv.net/click-871258-9836173)
+
+[](http://click.linksynergy.com/fs-bin/click?id=EbT4BSOhmpo&offerid=78094.10000235&type=4&subid=0)
