@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lehigh.edu privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603073952id_/http%3A//www2.lehigh.edu/page.asp%3Fpage%3Dprivpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lehigh.edu privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217232606id_/http%3A//www2.lehigh.edu/page.asp%3Fpage%3Dprivpolicy) for the most accurate reproduction.*
 
 # Lehigh University: privpolicy
 
