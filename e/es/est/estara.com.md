@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the estara.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204190830id_/http%3A//www.estara.com/aboutus/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estara.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611215501id_/http%3A//estara.com/aboutus/privacy.php) for the most accurate reproduction.*
 
 # eStara, Inc. Privacy Policy
 
@@ -6,9 +6,9 @@
 
 Quote
 
-"The Push to Talk service is excellent. Without it, I would not have booked my ticket online."
+25% of eStara callers who made apurchase said without Push to Talk, they would have quit the transaction.
 
-\--eStara Online Survey Response
+\--eStara Online Survey
 
   
   
@@ -49,6 +49,15 @@ As is standard practice for most websites, eStara analyzes its website logs to i
 
 **Cookies**   
 eStara uses a Session ID cookie solely to faciliate efficient site navigation and improve your experience on the eStara website. In addition, cookies are used to store calling information if you elect to make a "Talk by Phone" call using Push to Talk, solely for the purpose of connecting the Push to Talk calls. 
+
+**Web Beacons**   
+eStara may also use electronic images (known as Web Beacons or "single-pixel GIF") in accordance with TRUSTe "best practices" guidelines for Web Beacon use. Web Beacons are used by a wide variety of online companies to aggregate data about site traffic, generate unique visitors counts, and to understand how website visitors use various online services. eStara uses Web Beacons in the following ways: 
+
+  1. eStara uses web beacons to conduct research on behalf of certain customers on their web sites and also for auditing purposes. 
+  2. Information recorded through these web beacons is used to report aggregate information about eStara Push to Talk users to our customers. This aggregate information may include demographic and usage information. 
+  3. When conducting research eStara's practice is to encourage our customers to disclose the presence of these web beacons on their pages in their privacy policies and state what choices are available to users regarding the collection and use of this information. You may choose to opt-out of eStara using this information for this research. Please contact [marketing@estara.com](mailto:marketing@estara.com) to opt-out. 
+
+
 
 **Links to Other Sites**   
 This web site contains links to other sites. Please be aware that eStara is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Site. 
