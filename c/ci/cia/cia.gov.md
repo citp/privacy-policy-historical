@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cia.gov privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630051313id_/http%3A//cia.gov/cia/notices.html%23priv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cia.gov privacy policy that was archived on 2004-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041230062957id_/http%3A//www.cia.gov/cia/notices.html%23priv) for the most accurate reproduction.*
 
 # Notices
 
@@ -156,7 +156,7 @@ We encourage parents and teachers to be involved in children's Internet explorat
 
 ###  Accessing Declassified Information 
 
-If you are interested in documents recently declassified by the Central Intelligence Agency, you can access much of this information through the [CIA FOIA Electronic Reading Room ](http://164.109.56.133/)(Freedom of Information Act) on this Web site. 
+If you are interested in documents recently declassified by the Central Intelligence Agency, you can access much of this information through the [CIA FOIA Electronic Reading Room ](http://www.foia.cia.gov/)(Freedom of Information Act) on this Web site. 
 
 The FOIA Electronic Reading Room offers an Internet-based database containing recently declassified documents on a wide variety of issues. Many of the referenced documents are available for viewing as full text images of the original document. In addition to the FOIA Electronic Reading Room, the Agency's homepage contains a [Related Links](https://web.archive.org/cia/other_links/other.html) section which includes links to the National Archives Records Administration and other sites where declassified documents and satellite photography may be obtained. 
 
