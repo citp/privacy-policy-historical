@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theinsider.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204094201id_/http%3A//www.theinsider.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinsider.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602205055id_/http%3A//www.theinsider.com/privacy.htm) for the most accurate reproduction.*
 
 # Insider Travel Network: insider travel and sightseeing guides
 
