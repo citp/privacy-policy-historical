@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the champion.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202200329id_/http%3A//www.championmortgage.com/marketing/legalprivacy/legalprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the champion.com privacy policy that was archived on 2004-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040624082834id_/http%3A//www.championmortgage.com/marketing/legalprivacy/legalprivacy.asp) for the most accurate reproduction.*
 
 # The home equity lenders at Champion Mortgage are committed to your privacy
 
