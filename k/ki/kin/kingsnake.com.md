@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingsnake.com privacy policy that was archived on 2002-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021010093136id_/http%3A//www.onlinehobbyist.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingsnake.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605091355id_/http%3A//www.onlinehobbyist.com/privacy.html) for the most accurate reproduction.*
 
 # OnlineHobbyist
 
@@ -20,7 +20,7 @@ This site makes classified advertisements, chat rooms, forums, message boards, a
 
 This site has a variety of security measures in place to protect the loss, misuse and alteration of the information under our control, including but not limited to: IP Logging, Firewalls, Usernames/Passwords, Secure Server technology. 
 
-##  Children's Guidelines
+## Children's Guidelines
 
 This site gives children the ability to publicly post or distribute personally identifiable contact information without prior parental consent. The TRUSTe Children's Guidelines are not being met by our site.
 
@@ -30,7 +30,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  1. You can send email to [webmaster@onlinehobbyist.com](mailto:webmaster@onlinehobbyist.com)  
+  1. You can send [email](http://www.pethobbyist.com/contact/index.php) to the Legal Dept.  
 
   2. You can send mail to the following postal address:     508 East Howard #25 Austin, Texas 78753   
 
@@ -42,7 +42,7 @@ This site gives users the following options for removing their information from 
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-  1. You can send email to [webmaster@onlinehobbyist.com](mailto:webmaster@onlinehobbyist.com)  
+  1. You can send [email](http://www.pethobbyist.com/contact/index.php) to the Legal Dept.  
 
   2. You can send mail to the following postal address:     508 East Howard #25 Austin, Texas 78753  
 
