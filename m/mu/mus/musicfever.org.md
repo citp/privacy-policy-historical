@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicfever.org privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211145317id_/http%3A//www.musicfever.org/privacy%2520statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicfever.org privacy policy that was archived on 2003-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030607003102id_/http%3A//www.musicfever.org/privacy%2520statement.htm) for the most accurate reproduction.*
 
 # PRIVACY STATEMENT
 
