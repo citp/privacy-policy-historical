@@ -1,11 +1,14 @@
-> *The following text is extracted and transformed from the wellcare.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602105216id_/http%3A//www.wellcare.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellcare.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216183706id_/http%3A//wellcare.com/privacy.htm) for the most accurate reproduction.*
 
 # Well Care - Privacy
 
-       
+   
+  
+---  
+**Privacy Policy      ** | 
 
-**Privacy Policy**
-
+****  
+  
 * * *
 
 Well Care Health Plan maintains standards for the protection of privacy over the Internet. This statement is intended to explain the types of information Well Care Health Plan may obtain about visitors to our Web site and how the information is used.
