@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winsms.co.za privacy policy that was archived on 2003-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030426184038id_/http%3A//www.winsms.co.za/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winsms.co.za privacy policy that was archived on 2003-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030714073936id_/http%3A//www.winsms.co.za/privacy.asp) for the most accurate reproduction.*
 
 # WinSMS.net
 
