@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the vegasinsider.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602142137id_/http%3A//www.vegasinsider.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegasinsider.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004081551id_/http%3A//www.vegasinsider.com/privacy.html) for the most accurate reproduction.*
 
-# VegasInsider.com User Services
+# VegasInsider.com
 
-   
-Privacy Statement for VegasInsider.com 
+  | 
 
-##  Privacy Statement for VegasInsider.com
+###  Privacy Statement for VegasInsider.com
 
 Your privacy on the Internet is of the utmost importance to us. Because we gather certain types of information about the users of VegasInsider.com, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather, how we use it, and how to correct or change it. 
 
@@ -95,4 +94,5 @@ VegasInsider.com gives users the following options for changing and modifying in
 
 #### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of VegasInsider.com, or your dealings with this Web site, you can contact [Member Services](mailto:supportvi@vegasinsider.com) or write to: Customer Service VegasInsider.com Attn: Privacy Statement 2200 W. Cypress Creek Road Fort Lauderdale, FL 33309
+If you have any questions about this privacy statement, the practices of VegasInsider.com, or your dealings with this Web site, you can contact [Member Services](mailto:supportvi@vegasinsider.com) or write to: Customer Service VegasInsider.com Attn: Privacy Statement 2200 W. Cypress Creek Road Fort Lauderdale, FL 33309  
+---|---
