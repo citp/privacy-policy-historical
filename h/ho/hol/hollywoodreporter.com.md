@@ -1,156 +1,58 @@
-> *The following text is extracted and transformed from the hollywoodreporter.com privacy policy that was archived on 1999-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19990508050759id_/http%3A//www.hollywoodreporter.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodreporter.com privacy policy that was archived on 2000-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000529201127id_/http%3A//www.hollywoodreporter.com/mast/privacy.asp) for the most accurate reproduction.*
 
-# The Hollywood Reporter online privacy policy
+# THR Privacy Policy
 
-  
+**HOLLYWOOD REPORTER ONLINE Privacy Policy:**
 
+12/10/99   
+Updated 02/03/00
 
-[](https://web.archive.org/info/email.asp)
+At HOLLYWOOD REPORTER ONLINE we take your privacy very seriously. Because of this we want to provide you with explicit information on how we collect, gather, and identify information during your visit to our site. This information may be expanded or be updated as we change or develop our site. For this reason, we recommend that you review this policy from time-to-time to see if anything has changed.
 
-  
-[](https://web.archive.org/hyperlink/index.asp)
+WHAT INFORMATION DO WE COLLECT AND HOW DO WE USE IT? 
 
-* * *
+HOLLYWOOD REPORTER ONLINE collects information on our users in three ways: by voluntary submission through opt-in email and/or surveys; sweepstakes and/or contest entries; and through cookie technology.
 
-|  [](https://web.archive.org/info/contact.asp) |  [Contact an editor or reporter](https://web.archive.org/info/contact.asp)   
-  
----|---  
-[](https://web.archive.org/info/webmail.asp) |  [Contact the Web site team](https://web.archive.org/info/webmail.asp)   
-  
-[](mailto:mailbox@hollywoodreporter.com) |  [Premium subscription customer service](mailto:mailbox@hollywoodreporter.com)   
-  
-[](https://web.archive.org/info/faq.asp) |  [Web site FAQ/help](https://web.archive.org/info/faq.asp)   
-  
-[](https://web.archive.org/info/ratecard.asp) |  [Rate card](https://web.archive.org/info/ratecard.asp)   
-  
-[](https://web.archive.org/info/credits.asp) |  [Credits](https://web.archive.org/info/credits.asp)   
-  
-[](https://web.archive.org/info/disclaimer.asp) |  [Privacy policy](https://web.archive.org/info/privacy.asp)   
-  
-[](https://web.archive.org/info/disclaimer.asp) |  [Disclaimer](https://web.archive.org/info/disclaimer.asp)   
-  
-  
-* * *
+The information HOLLYWOOD REPORTER ONLINE collects is used in a variety of ways: for internal review; to improve the content of the site, thus making your user experience more valuable; and to notify customers about updates to the service.
 
-  
-[](https://web.archive.org/themeparks/)
+From time to time we share this information with other reputable organizations for marketing purposes or the information is used by HOLLYWOOD REPORTER ONLINE to contact consumers for its own marketing endeavors. As a valued consumer, we offer you the opportunity to "opt in," or agree to accept these marketing opportunities. If at any time you change your mind and do not want HOLLYWOOD REPORTER ONLINE to share your email address or home address with other companies and/or organizations, or would simply like to be removed from the list, please let us know by emailing us at:[ webmaster@HOLLYWOODREPORTERONLINE.com](mailto:webmaster@HOLLYWOODREPORTERONLINE.com) or by writing us at BPI Communications, Electronic Media, 1515 Broadway, New York, NY 10036-8956.
 
-[](https://web.archive.org/directorpower/)
+OPT-IN EMAIL 
 
-[](https://web.archive.org/wrap/)
+HOLLYWOOD REPORTER ONLINE provides for its users an "optional" email service that allows the user to request-through personal email-specific HOLLYWOOD REPORTER ONLINE information. At times we may request additional information for the purpose of improving this service or for facilitating the user's online experience. A user may request to be removed (or "opt-out") from this "opt-in" email at anytime by contacting us at: [ webmaster@HOLLYWOODREPORTERONLINE.com](mailto:webmaster@HOLLYWOODREPORTERONLINE.com)
 
-[](https://web.archive.org/postla/)
+SWEEPSTAKES/CONTESTS 
 
-The Hollywood Reporter online privacy policy
+From time-to-time HOLLYWOOD REPORTER ONLINE, along with other reputable companies, provides sweepstakes and other contests for the enjoyment of our users. By participating in the contest or sweepstakes and answering any and all questions, the user understands that HOLLYWOOD REPORTER ONLINE and/or the involved company(s) may use information obtained for marketing purposes. Children under 18 may not participate in any sweepstakes or contest on HOLLYWOOD REPORTER ONLINE.
 
-Last updated: 04/20/98
+COOKIES 
 
-The policies below are applicable to The Hollywood Reporter Online (the "Service") produced and maintained by BPI Communications, Inc. ("BPI").
+HOLLYWOOD REPORTER ONLINE may automatically collect non-personal information and data through the use of "cookies." Cookies are small text files a Web site uses to recognize repeat users, facilitate the user's ongoing access to the site and facilitate the use of the site. "Cookies" also allow a site to track usage behavior and compile site usage information that will allow for the improvement of content and target advertising.
 
-For each visitor to the Service, our web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
+ABOUT CHILDREN'S PRIVACY 
 
-BPI collects only the domain name, but not the e-mail address of visitors to the Service, the e-mail addresses of those who communicate with BPI via e-mail, aggregate information on what pages consumers access or visit and information volunteered by the consumer, such as survey information and/or site registrations.
+HOLLYWOOD REPORTER ONLINE is committed to the safety of our children. Children under 18 may not participate in any sweepstakes or contests on HOLLYWOOD REPORTER ONLINE. Also, we encourage children under the age of 18 to ask a parent for permission before providing or sending any information to anyone online.
 
-The information BPI collects is used for internal review and is then discarded, used to improve the content of the Service, used to notify consumers about updates to the Service, shared with other reputable organizations to help them contact consumers for marketing purposes and used by BPI to contact consumers for marketing purposes.
+YOUR CONSENT 
 
-If you do not want to receive e-mail from BPI in the future, please let BPI know by sending email to BPI at the above address and telling BPI that you do not want to receive e-mail from BPI.
+By using our Web site, you consent to the collection and use of this information by HOLLYWOOD REPORTER Online. Once again, if you do not wish us to share this information with other reputable companies that we think you might be interested in, please let us know by emailing us at [webmaster@hollywoodreporter.com.](mailto:webmaster@HOLLYWOODREPORTERONLINE.com)
 
-From time to time, BPI may make the e-mail addresses of those who access the Service available to other reputable organizations whose products or services BPI believes you might find interesting. If you do not want BPI to share your e-mail address with other companies or organizations, please let BPI know by sending email to BPI at the above address and telling BPI that you do not want BPI to share your e-mail address with other companies.
+QUESTIONS? 
 
-From time to time, BPI may make our customer e-mail list available to other reputable organizations whose products or services BPI may think you might find interesting. If you do not want BPI to share your e-mail address with other companies or organizations, please let BPI know by sending email to BPI at the above address.
-
-If you supply BPI with your postal address on-line you will only receive the information for which you provided BPI your address. You may receive mailings from other reputable companies. You can, however, have your name put on our do-not-share list by sending email to BPI at the above address.
-
-Please provide BPI with your exact name and address. BPI will be sure your name is removed from the list BPI share with other organizations.
-
-Persons who supply BPI with their telephone numbers on-line may receive telephone contact from BPI with information regarding orders they have placed on-line. Please provide BPI with your correct phone number. BPI will be sure your name is removed from the list BPI share with other organizations.
-
-Users also should be aware that non-personal information and data may be automatically collected through the standard operation of BPI's internet servers or through the use of "cookies." "Cookies" are small text files a web site can use to recognize repeat users, facilitate the user's ongoing access to and use of the site and allow a site to track usage behavior and compile aggregate data that will allow content improvements and targeted advertising. Cookies are not programs that come onto a user's system and damage files. Generally, cookies work by assigning a unique number to the user that has no meaning outside the assigning site. Users should be aware that BPI cannot control the use of cookies or the resulting information by advertisers or third parties hosting data for BPI. If a user does not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the user to deny or accept the cookie feature; however, users should note that cookies may be necessary to provide the user with certain features (e.g., customized delivery of information) available on the BPI Site.
-
-Persons under the age of 18 should receive permission from the parents before supplying name, address, e-mail, phone number or any other personal information to BPI. 
-
-[Contact information](https://web.archive.org/web/19981205160315id_/http%3A//www.hollywoodreporter.com/info/contact.asp)
+We welcome your questions and/or comments. Please send all queries to [ webmaster@hollywoodreporter.com.](mailto:webmaster@HOLLYWOODREPORTERONLINE.com)
 
   
-  
 
 
-| [Front Page](https://web.archive.org/frontpage/index.asp) | [Film](https://web.archive.org/film/index.asp) | [Television](https://web.archive.org/television/index.asp) | [Music](https://web.archive.org/music/index.asp) | [International](https://web.archive.org/international/index.asp) | [Business](https://web.archive.org/business/index.asp) | [Web Watch](https://web.archive.org/webwatch/index.asp) | [More News](https://web.archive.org/morenews/index.asp) |   
-| [Reviews](https://web.archive.org/reviews/index.asp) | [Boxoffice](https://web.archive.org/boxoffice/index.asp) | [Int'l Boxoffice](https://web.archive.org/intlbox/index.asp) | [Production](https://web.archive.org/charts/index.asp) | [Classifieds](https://web.archive.org/classifieds/index.asp) |   
-| [Star Power](https://web.archive.org/starpower/index.asp) | [Director Power](https://web.archive.org/directorpower/index.asp) | [Script Sales](https://web.archive.org/literary/index.asp) | [TV Pilot Charts](https://web.archive.org/pilots/index.asp) | [In Words](https://web.archive.org/inwords/index.asp) | [Calendar](https://web.archive.org/calendar/index.asp) |   
-| [Archives](https://web.archive.org/newsearch.asp) | [Hollywood Hyperlink](https://web.archive.org/hyperlink/index.asp) | [Main Page](https://web.archive.org/index.asp) | 
-
-© 1998 The Hollywood Reporter and [BPI Communications Inc.](http://www.bpicomm.com/) All rights reserved.  
-BPI Electronic Media includes [Billboard](http://www.billboard.com/), [Brandweek](http://www.brandweek.com/), [Amusement Business](http://www.amusementbusiness.com/), [Back Stage](http://www.backstage.com/), [Mediaweek](http://www.mediaweek.com/), [MC](http://www.marketingcomputers.com/), [Adweek](http://www.adweek.com/), [Musician](http://www.musicianmag.com/), and [BPIQ](http://www.bpiq.com/). Sites hosted by [Telescan Inc.](http://www.telescan.com/)
-  
-
-
-[](https://web.archive.org/info/email.asp)
-
-  
-[](https://web.archive.org/hyperlink/index.asp)
-
-* * *
-
-|  [](https://web.archive.org/info/contact.asp) |  [Contact an editor or reporter](https://web.archive.org/info/contact.asp)   
-  
----|---  
-[](https://web.archive.org/info/webmail.asp) |  [Contact the Web site team](https://web.archive.org/info/webmail.asp)   
-  
-[](mailto:mailbox@hollywoodreporter.com) |  [Premium subscription customer service](mailto:mailbox@hollywoodreporter.com)   
-  
-[](https://web.archive.org/info/faq.asp) |  [Web site FAQ/help](https://web.archive.org/info/faq.asp)   
-  
-[](https://web.archive.org/info/ratecard.asp) |  [Rate card](https://web.archive.org/info/ratecard.asp)   
-  
-[](https://web.archive.org/info/credits.asp) |  [Credits](https://web.archive.org/info/credits.asp)   
-  
-[](https://web.archive.org/info/disclaimer.asp) |  [Privacy policy](https://web.archive.org/info/privacy.asp)   
-  
-[](https://web.archive.org/info/disclaimer.asp) |  [Disclaimer](https://web.archive.org/info/disclaimer.asp)   
-  
-  
-* * *
-
-  
-[](https://web.archive.org/pilots/)
-
-The Hollywood Reporter online privacy policy
-
-Last updated: 04/12/99
-
-The policies below are applicable to The Hollywood Reporter Online (the "Service") produced and maintained by BPI Communications, Inc. ("BPI").
-
-For each visitor to the Service, our web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
-
-BPI collects only the domain name, but not the e-mail address of visitors to the Service, the e-mail addresses of those who communicate with BPI via e-mail, aggregate information on what pages consumers access or visit and information volunteered by the consumer, such as survey information and/or site registrations.
-
-The information BPI collects is used for internal review and is then discarded, used to improve the content of the Service, used to notify consumers about updates to the Service, shared with other reputable organizations to help them contact consumers for marketing purposes and used by BPI to contact consumers for marketing purposes.
-
-If you do not want to receive e-mail from BPI in the future, please let BPI know by sending email to BPI at [mailbox@hollywoodreporter.com](mailto:mailbox@hollywoodreporter.com) and telling BPI that you do not want to receive e-mail from BPI.
-
-From time to time, BPI may make the e-mail addresses of those who access the Service available to other reputable organizations whose products or services BPI believes you might find interesting. If you do not want BPI to share your e-mail address with other companies or organizations, please let BPI know by sending email to BPI at the above address and telling BPI that you do not want BPI to share your e-mail address with other companies.
-
-From time to time, BPI may make our customer e-mail list available to other reputable organizations whose products or services BPI may think you might find interesting. If you do not want BPI to share your e-mail address with other companies or organizations, please let BPI know by sending email to BPI at the above address.
-
-If you supply BPI with your postal address on-line you will only receive the information for which you provided BPI your address. You may receive mailings from other reputable companies. You can, however, have your name put on our do-not-share list by sending email to BPI at the above address.
-
-Please provide BPI with your exact name and address. BPI will be sure your name is removed from the list BPI share with other organizations.
-
-Persons who supply BPI with their telephone numbers on-line may receive telephone contact from BPI with information regarding orders they have placed on-line. Please provide BPI with your correct phone number. BPI will be sure your name is removed from the list BPI share with other organizations.
-
-Users also should be aware that non-personal information and data may be automatically collected through the standard operation of BPI's internet servers or through the use of "cookies." "Cookies" are small text files a web site can use to recognize repeat users, facilitate the user's ongoing access to and use of the site and allow a site to track usage behavior and compile aggregate data that will allow content improvements and targeted advertising. Cookies are not programs that come onto a user's system and damage files. Generally, cookies work by assigning a unique number to the user that has no meaning outside the assigning site. Users should be aware that BPI cannot control the use of cookies or the resulting information by advertisers or third parties hosting data for BPI. If a user does not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the user to deny or accept the cookie feature; however, users should note that cookies may be necessary to provide the user with certain features (e.g., customized delivery of information) available on the BPI Site.
-
-Persons under the age of 18 should receive permission from the parents before supplying name, address, e-mail, phone number or any other personal information to BPI. 
-
-  
-  
-
-
-| [Front Page](https://web.archive.org/frontpage/index.asp) | [Film](https://web.archive.org/film/index.asp) | [Television](https://web.archive.org/television/index.asp) | [Music](https://web.archive.org/music/index.asp) | [International](https://web.archive.org/international/index.asp) | [Business](https://web.archive.org/business/index.asp) | [Web Watch](https://web.archive.org/webwatch/index.asp) | [N.Y.](https://web.archive.org/newyork/index.asp) | [More News](https://web.archive.org/morenews/index.asp) |   
+| [Front Page](https://web.archive.org/frontpage/index.asp) | [Film](https://web.archive.org/film/index.asp) | [Television](https://web.archive.org/television/index.asp) | [Music](https://web.archive.org/music/index.asp) | [Int'l](https://web.archive.org/international/index.asp) | [Business](https://web.archive.org/business/index.asp) | [Web Watch](https://web.archive.org/webwatch/index.asp) | [N.Y.](https://web.archive.org/newyork/index.asp) | [More News](https://web.archive.org/morenews/index.asp) |   
 | [Columnists](https://web.archive.org/columnists/index.asp) | [Reviews](https://web.archive.org/reviews/index.asp) | [Boxoffice](https://web.archive.org/boxoffice/index.asp) | [Int'l Boxoffice](https://web.archive.org/intlbox/index.asp) | [Production](https://web.archive.org/charts/index.asp) | [Classifieds](https://web.archive.org/classifieds/index.asp) |   
-| [TV Pilots](https://web.archive.org/pilots/index.asp) | [Home Video](https://web.archive.org/pilots/index.asp) | [Star Power](https://web.archive.org/starpower/index.asp) | [Director Power](https://web.archive.org/directorpower/index.asp) | [Script Sales](https://web.archive.org/literary/index.asp) | [In Words](https://web.archive.org/inwords/index.asp) | [Calendar](https://web.archive.org/calendar/index.asp) |   
-| [Archives](https://web.archive.org/newsearch.asp) | [Hollywood Hyperlink](https://web.archive.org/hyperlink/index.asp) | [Main Page](https://web.archive.org/index.asp) | 
+| [Fall TV Sked](https://web.archive.org/television/schedule00/) | [Home Video](https://web.archive.org/video/index.asp) | [Star Power](https://web.archive.org/starpower/index.asp) | [Director Power](https://web.archive.org/directorpower/index.asp) | [Script Sales](https://web.archive.org/literary/index.asp) | [In Words](https://web.archive.org/inwords/index.asp) |   
+| [Calendar](https://web.archive.org/calendar/index.asp) | [Archives](https://web.archive.org/newsearch.asp) | [Hollywood Hyperlink](https://web.archive.org/hyperlink/index.asp) | [Main Page](https://web.archive.org/index.asp) | 
 
-© 1999 The Hollywood Reporter and [BPI Communications Inc.](http://www.bpicomm.com/) All rights reserved.  
-BPI Electronic Media includes [Billboard](http://www.billboard.com/), [Adweek](http://www.adweek.com/), [Brandweek](http://www.brandweek.com/), [Amusement Business](http://www.amusementbusiness.com/), [Back Stage](http://www.backstage.com/), [Mediaweek](http://www.mediaweek.com/), [MC](http://www.marketingcomputers.com/), and [BPIQ](http://www.bpiq.com/). Sites hosted by [Telescan Inc.](http://www.telescan.com/)
+* * *
+
+© 2000 [The Hollywood Reporter](https://web.archive.org/) and [BPI Communications Inc.](http://www.bpicomm.com/) All rights reserved.  
+BPI Electronic Media includes [Billboard](http://www.billboard.com/), [Adweek](http://www.adweek.com/), [Amusement Business](http://www.amusementbusiness.com/), [Back Stage](http://www.backstage.com/), [MC](http://www.marketingcomputers.com/), [Mediaweek](http://www.mediaweek.com/), & [BPIQ](http://www.bpiq.com/).   
+Sites hosted by [Telescan Inc.](http://www.telescan.com/)  
+Read our [LEGAL NOTICE](https://web.archive.org/mast/legal.asp) & [PRIVACY POLICY](https://web.archive.org/mast/privacy.asp)  
+
