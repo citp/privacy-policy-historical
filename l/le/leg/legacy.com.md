@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legacy.com privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212200919id_/http%3A//legacy.com/LegacySubPage1.asp%3FPage%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legacy.com privacy policy that was archived on 2004-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040414103911id_/http%3A//www.legacy.com/LegacySubPage1.asp%3FPage%3DPrivacy) for the most accurate reproduction.*
 
 # Legacy.com: LegacySubPage1.asp
 
@@ -8,7 +8,7 @@ Legacy.com does not collect personal information about individuals except when s
 
 This site makes Legacy Guest Books, Life Stories, and Notices available to all our visitors. Please remember that any information disclosed in a _Legacy Guest Book_ , or any information posted within a _Life Story_ or _Notice_ , becomes public information. You therefore should exercise caution when disclosing any personal information in these forums.
 
-Information also is collected as our server logs automatically receive and record information from your browser, including your [IP address](http://www.whatis.com/WhatIs_Definition_Page/0,4152,212381,00.html) and the page(s) you requested. Legacy.com uses your IP address to help diagnose problems with our [Web server](http://www.whatis.com/WhatIs_Definition_Page/0,4152,213606,00.html), and to administer our Web site. Other purposes of collecting such information are to customize the advertising you see on our pages and to fulfill visitors' requests for certain products and services. IP addresses are not linked to personally identifiable information.
+Information also is collected as our server logs automatically receive and record information from your browser, including your IP address and the page(s) you requested. Legacy.com uses your IP address to help diagnose problems with our Web server, and to administer our Web site. Other purposes of collecting such information are to customize the advertising you see on our pages and to fulfill visitors' requests for certain products and services. IP addresses are not linked to personally identifiable information.
 
 Legacy.com will never share personal information about our visitors with third parties, and does not sell or share any information at the individual customer level, unless our visitors have provided consent for us to do so.
 
