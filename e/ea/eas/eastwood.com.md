@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the eastwood.com privacy policy that was archived on 2004-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040317080242id_/http%3A//www.eastwood.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastwood.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208234720id_/http%3A//www.eastwood.com/custserv/customerservicemain.jsp%3Fcid%3D2) for the most accurate reproduction.*
 
-# The Eastwood Company. . . Unique Automotive Tools and Supplies
+# Eastwood Company: Auto Tools, Body Repair, Classic Car Restoration, House of Kolor Paint, Powder Coating
 
-  
-
+**Privacy Policy**
 
 The Eastwood Company recognizes that you value the privacy of your personal information and how it is utilized. We value your trust and continued patronage and will make every effort to utilize the information in a manner that will benefit your overall shopping experience. 
 
-I **NFORMATION WE COLLECT AUTOMATICALLY:** Our web server will automatically recognize and store the following information: browser type and version, IP address, operating system, URL, pages visited, time spent on each page.
-
- **  
+I **NFORMATION WE COLLECT AUTOMATICALLY:** Our web server will automatically recognize and store the following information: browser type and version, IP address, operating system, URL, pages visited, time spent on each page.  
+**  
 WHAT WE DO WITH THE INFORMATION COLLECTED AUTOMATICALLY:** The information collected automatically is primarily used to improve our web site and enhance your shopping experience. For example, an infrequently visited page may be eliminated. In addition, we will utilize the information for product offerings or to improve navigation throughout the site. 
 
 **HOW WE USE COOKIES:** You do not need to accept or use cookies to shop at eastwoodco.com. 
@@ -32,5 +30,5 @@ The cookie contains absolutely no personal information. If you do not want to re
 
 **CHANGES TO THE EASTWOOD COMPANY PRIVACY POLICY:** It may be necessary for The Eastwood Company to make changes to this privacy policy. If changes are made, they will be announced on this page. 
 
-**[CLICK HERE TO VIEW OUR TERMS& CONDITIONS](https://web.archive.org/terms.asp)**  
+**[CLICK HERE TO VIEW OUR TERMS& CONDITIONS](https://web.archive.org/custserv/customerservicemain.jsp?cid=12)**  
 
