@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 101inks.com privacy policy that was archived on 2004-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040407021922id_/http%3A//www.101inks.com/privacy1.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 101inks.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208030008id_/http%3A//www.101inks.com/privacy1.asp) for the most accurate reproduction.*
 
 # 101inks
 
