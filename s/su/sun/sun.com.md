@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sun.com privacy policy that was archived on 2002-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021121085422id_/http%3A//www.sun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sun.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402054949id_/http%3A//www2.sun.com/privacy) for the most accurate reproduction.*
 
 # Sun Microsystems - Sun Online Privacy Policy
 
