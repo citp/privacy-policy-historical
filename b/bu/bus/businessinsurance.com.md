@@ -1,54 +1,38 @@
-> *The following text is extracted and transformed from the businessinsurance.com privacy policy that was archived on 2001-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011020043939id_/http%3A//businessinsurance.com/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessinsurance.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405201403id_/http%3A//www.businessinsurance.com/cgi-bin/page.pl%3FpageId%3D26) for the most accurate reproduction.*
 
-# Business Insurance - Privacy Policy
+# Privacy Policy
 
-**Privacy Policy Statement**
+Privacy Policy
 
-This is the web site of _Business Insurance_.  
+  
+Privacy Policy 
+
+_Businessinsurance.com_ is the Web site of _Business Insurance_ , a publication of Crain Communications Inc. Our postal address is 360 N. Michigan Ave., Chicago, IL 60601-3806. We can be reached by e-mail at [_BIWeb@crain.com_](https://web.archive.org/web/20050405201403id_/http%3A//www.businessinsurance.com/cgi-bin/%E2%80%9Dmailto:biweb@crain.com%E2%80%9D). Your use of our Web site indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions. 
+
+We have developed this Privacy Policy to advise subscribers and users of our products about our possible uses of information collected by us and to inform you on how to modify your marketing preferences. This Privacy Policy is subject to change. When we make any material change to this Privacy Policy, we will inform you by posting a notice on the home page of this site and by changing the date on this page noting when the Privacy Policy was last updated. 
+
+When you subscribe, register, make purchases or at other times, we collect and store personally identifiable information from you that may include your name, postal and e-mail addresses, credit card information, facts about your profession, company and responsibilities and information regarding your computer system. For each visitor to this Web site, our web server may automatically attempt to identify the user through a cookie set within your browser. This is done to provide access to the site. From time to time we may also track information, in aggregate, on pages and features that users access or view. The activity is collected and stored in our server's log files. Our email alerts utilize tracking technology that allows us to see how many newsletter e-mails are opened and the e-mail address of users who have clicked on a given story, feature or advertisement. We use this information for internal purposes to measure the aggregate number of people who view a given newsletter item. 
+
+We may also set cookies to your computer to allow subscribers and users to store login information, set personalization and navigate easily through the site. Additionally, through the use of an additional cookies or technology, we will have the ability to track users by their behavior profile and geographic location for the purpose of pushing advertising that matches their interests and/or specific location. We may conduct online surveys and contests or generate content that is presented by aggregating activity of users on the site. These surveys and contests are entirely voluntary and you may decline to participate. 
+
+Information collected about subscribers and users may be used by us and our affiliates and partnering third-party companies to provide subscribers and users with the features of the site, to enable us to provide the products you requested, to personalize content and advertising, to send you e-mail notifications about our services and products, for audits, to perform statistical analysis of user behavior in order to measure interest in the various areas of our site (such as for product development purposes), to enforce our user agreement and to inform advertisers as to how many users have seen or "clicked" their advertising banners. We will disclose site usage information to third parties only in aggregate. 
+
+From time to time, we may make individual subscriber or user information available to carefully selected third parties to send you information through e-mail or postal mail about their products or services. If you prefer not to have your personal information disclosed to third parties for direct marketing purposes, please send an e-mail stating this preference and including your full name and e-mail address to [_BIWeb@crain.com_](https://web.archive.org/web/20050405201403id_/http%3A//www.businessinsurance.com/cgi-bin/%E2%80%9Dmailto:biweb@crain.com%E2%80%9D) or, if you are a print subscriber, please call 1-800-678-9595. Also, during the registration process, a user can indicate on the registration form that he or she does not wish to receive such marketing materials. A user may change/correct his/her preferences or personal information at any time online or by contacting us at the above e-mail address or phone number. We retain the right to contact a subscriber or registered user regarding account status, orders for products or services, changes to the registration agreement or to enforce our subscription agreement. 
+
+We will remove any registrant (and their personal information) from our database pursuant to a request from the registrant, including full name and e-mail address, to [_BIWeb@crain.com_](https://web.archive.org/web/20050405201403id_/http%3A//www.businessinsurance.com/cgi-bin/%E2%80%9Dmailto:biweb@crain.com%E2%80%9D). You may not be able to fully access this Web site if you request removal of your personal information. 
+
+This Web site is operated in the United States. If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provided to us will be transferred to the United States. By using our Web site, participating in any of our services and/or providing us with your information, you consent to this transfer. 
+
+If you have any questions or concerns about the substance or implementation of this Privacy Policy, please contact the Crain Communications Inc Legal Department at privacyhelp@crain.com or 313-446-6000. 
+
+Policy Last Updated: January 1, 2005
+
+  
 
 
-Our postal address is   
-**740 Rush St.  
-Chicago, IL 60611-2590**
+* * *
 
-We can be reached via e-mail at [biweb@crain.com](mailto:biweb@crain.com)  
-or you can reach us by telephone at 312-649-5398  
+< < BACK
 
+  
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
-
-We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
-
-The information we collect is used for internal review and is then discarded, used to improve the content of our Web page.
-
-With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart, record past activity at a site in order to provide better service when visitors return to our site , ensure that visitors are not repeatedly sent the same banner ads.
-
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
-
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
-
-From time to time, we make our _customer_ e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
-
-If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
-
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
-
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations 
-
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
-
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically, we will use for these new purposes only data collected from the time of the policy change forward .
-
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by calling us at the number provided above. 
-
-Upon request we provide site visitors with access to unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, contact information (e.g., name, address, phone number) that we maintain about them.
-
-Consumers can access this information by e-mail us at the above address. 
-
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information, financial information, unique identifiers, transaction information, communications that the consumer/visitor has directed to the site.
-
-Consumers can have this information corrected by sending us e-mail at the above address. 
-
-With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
-
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
