@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the newyorker.com privacy policy that was archived on 2001-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010412214733id_/http%3A//condenet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorker.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204204133id_/http%3A//condenet.com/privacy.html) for the most accurate reproduction.*
 
 # CondéNet and Condé Nast Magazines
 
 This policy was revised on October 10, 2000. Please take a few moments to review it. 
 
-This policy covers all sites produced by CondéNet, including CondeNet.com, Epicurious.com, Concierge.com, STYLE.com, Mademoiselle.com, Glamour.com, Swoon.com, and all Condé Nast magazine subscription sites. This policy does not cover information collected on sites linked from CondéNet sites. 
+This policy covers all sites produced by CondéNet, including CondeNet.com, Epicurious.com, Concierge.com, STYLE.com, Glamour.com, Swoon.com, and all Condé Nast magazine subscription sites. This policy does not cover information collected on sites linked from CondéNet sites. 
 
 CondéNet sites are committed to bringing you information that's tailored to your individual needs and, at the same time, to protecting your privacy. The following is a summary of the various ways we treat the information you provide us while using our sites. 
 
@@ -39,6 +39,6 @@ If you have concerns or questions about any aspect of this policy, please email 
 Privacy Policy Coordinator  
 CondéNet Inc.  
 1440 Broadway  
-11th Floor  
+10th Floor  
 New York, NY 10018  
 USA 
