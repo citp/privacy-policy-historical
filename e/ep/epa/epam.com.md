@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the epam.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207102922id_/http%3A//epam.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epam.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607040936id_/http%3A//www.epam.com/privacy.htm) for the most accurate reproduction.*
 
 # EPAM - offshore software development from Russia, software services outsourcing
 
 |   
 
 
-Print version [](https://web.archive.org/web/20031207102922id_/http%3A//epam.com/privacy-pv.htm)
+Print version [](https://web.archive.org/web/20040607040936id_/http%3A//www.epam.com/privacy-pv.htm)
 
 |  |  |  |   
 [Home](http://www.epam.com/) / Privacy Policy
@@ -13,18 +13,46 @@ Print version [](https://web.archive.org/web/20031207102922id_/http%3A//epam.co
 Privacy Policy
 
   
-EPAM is committed to protecting your privacy. We pledge to use information about our visitors and customers responsibly. We will not sell, share, or rent this information, for commercial purposes, to any person or organization outside the Thomson Legal & Regulatory Group. Please read on for more details about epam.com's privacy policy. 
+EPAM Systems, Inc. has created this Privacy Policy in order to demonstrate our firm commitment to your privacy on the EPAM web-sites. The following discloses our information gathering, dissemination and protection practices. 
 
-This notice applies to all information collected from or submitted to epam.com. Our Web site contains links to other Web sites operated by third parties. EPAM is not responsible for the privacy practices or policies of these sites. We encourage you to review the privacy policy of each site you visit. 
+Compliance
 
-If you have any questions about epam.com's privacy policy, you may e-mail us at info@epam.com. 
+By accessing this site you agree to the terms of the EPAM Privacy Policy outlined below. If you do not agree to the terms of this policy, please do not access or use this site. 
 
-Information Collection and Use
+Collection of information
 
-Our Web site does not automatically collect personally identifiable information from each visitor. We do recognize and collect IP address, browser type, ISP, referring/exit pages, platform type, date/time stamp, number of clicks, domain name and country/state. This information is used to analyze trends, administer the site, track visitor's movement, and analyze broad demographic trends. 
+EPAM does not collect any personally identifiable information about you other than the information that you affirmatively choose to submit to us (such as your name, e-mail address, street address and company name) when you choose to download reports, request information online, subscribe to EPAM newsletters, etc. 
 
-In order to offer and provide a customized, personal experience, epam.com uses cookies to store and help track your information. Cookies are simply pieces of information that are sent to your browser from a Web server and stored on your computer's hard drive. The use of cookies is relatively standard and you will likely find them used on most other major Web sites. Most browsers are initially set up to accept cookies. You will not be able to use the epam.com site if you set your browser to not accept cookies. 
+We do recognize and collect the IP address, browser type, ISP, referring/exit pages, platform type, date/time stamp, number of clicks, domain name and country/state. 
 
-In some areas of our site, we ask you to provide personally identifiable information. The personal information you provide will be kept confidential and used to support your interactions with EPAM. 
+Use of information
+
+EPAM Systems, Inc. collects this information to make better business decisions, support the activities you choose to engage in, and provide higher quality solutions and services to our customers. We also use your non-personal information to enhance our web-site. We may use your IP address to help diagnose problems with the server and to administer the web-site. 
+
+We will not sell, share, or rent this information, for commercial purposes, to any person or organization. 
+
+Information security
+
+EPAM Systems, Inc classifies your personal information as Confidential Information. Confidential Information is protected by storing it on secure servers that only select EPAM Systems, Inc. personnel have access to. The information is encrypted to prevent unauthorized parties from accessing this information. 
+
+Links
+
+This web-site contains links to web-sites of third parties. EPAM has no control over, and is not responsible for, the content, privacy policies or reliability of such sites. 
+
+Changes to the policy
+
+EPAM Systems reserves the right to modify or amend this Privacy Policy at its own discretion. The changes can be viewed here or elsewhere at this site. Your continued usage of this site will mean you accept those changes. 
+
+Contact information
+
+If you have any questions about this Privacy Policy, the practices of this site, or your interaction with EPAM Systems by means of this site, please contact: 
+
+EPAM Systems, Inc.  
+Princeton Pike Corporate Center  
+989 Lenox Dr., Suite 305  
+Lawrenceville, NJ 08648  
+Phone: 609-844-0400  
+Fax: 609-844-0415  
+[info@epam.com](mailto:info@epam.com)
 
 | 
