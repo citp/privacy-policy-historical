@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zdnet.co.uk privacy policy that was archived on 2000-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000815054132id_/http%3A//www1.zdnet.co.uk/misc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zdnet.co.uk privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604081031id_/http%3A//www1.zdnet.co.uk/misc/privacy) for the most accurate reproduction.*
 
 # ZDNet UK Privacy Statement
 
@@ -17,7 +17,7 @@ The data we collect from cookies, IP addresses and optional online surveys give 
 
 ZDNet UK uses reasonable precautions to keep the information disclosed to us secure and to disclose such information only to third parties we believe to be responsible. However, we are not responsible for any breach of security or for any actions of any third parties which receive the information. ZDNet UK also links to a wide variety of other sites and contains advertisements from third parties. We are not responsible for advertisers' privacy policies or how they treat information about their users. 
 
-If you have questions, you should direct them to the ZDNet UK site Privacy Coordinator, [eugene_lacey@zd.com](mailto:eugene_lacey@zd.com). 
+If you have questions, you should direct them to the ZDNet UK site Privacy Coordinator, [eugene_lacey@zdnet.com](mailto:eugene_lacey@zdnet.com). 
 
 |  |  |   | **Newsletters**  
 ---|---  
@@ -30,5 +30,5 @@ If you have questions, you should direct them to the ZDNet UK site Privacy Coord
  ·  |  [IT Events This Week](https://web.archive.org/misc/newsletters/events.html)  
  ·  |  [**_More newsletters..._**](https://web.archive.org/misc/newsletters/)  
   |    
-[](http://ad.uk.doubleclick.net/jump/www.zdbuttons.co.uk/misc_trigger_01;chan=misc;sz=95x40;tile=2;ord=3606?)   
-[](http://ad.uk.doubleclick.net/jump/www.zdbuttons.co.uk/misc_macro_01;chan=misc;sz=95x120;tile=1;ord=3606?)
+[](http://ad.uk.doubleclick.net/jump/www.zdbuttons.co.uk/misc_trigger_01;chan=misc;sz=95x40;tile=2;ord=2269?)   
+[](http://ad.uk.doubleclick.net/jump/www.zdbuttons.co.uk/misc_macro_01;chan=misc;sz=95x120;tile=1;ord=2269?)
