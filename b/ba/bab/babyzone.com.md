@@ -1,90 +1,54 @@
-> *The following text is extracted and transformed from the babyzone.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203073300id_/http%3A//www.babyzone.com/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyzone.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603075734id_/http%3A//www.babyzone.com/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
-**Privacy Statement**
+**BABYZONE PRIVACY POLICY**
 
-Your privacy on the Internet is of the utmost importance to us. Because we gather certain types of information about the users of BabyZone, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather, how we use it, and how to correct or change it.
+BabyZone takes your online privacy seriously and we are fully committed to ensuring that your privacy is respected and protected. Our Privacy Policy below outlines the type of information we may collect and/or request from you while you are using BabyZone's web sites, as well as ways in which we process and, sometimes, disseminate information collected. You are, of course, free to use the majority of our site features without providing any personal information. This Privacy Policy covers all web sites and web pages owned, controlled and/or operated by BabyZone.com, Inc., specifically including but not limited to babyzone.com, maternityzone.com, amazingtoystore.com and babyzonestore.com.
 
-    * We use your IP address to help diagnose problems with our server, and to administer our Web site.
+**Information We Collect and What We Do With It**
 
+**Advertiser and Partner Links** \- BabyZone contains links to advertiser and partner websites. We cannot be responsible for the privacy practices or the content of such non-BabyZone websites, and we do not control the practices of any of our advertisers or partners to whom we are linked. In order to participate in certain partner and/or advertiser supplied services and tools you may be required to provide personally identifiable information to the advertisers and partners whose tools and services you have chosen to interact with. Each advertiser and partner may request different information from you. If you have additional questions about how one of our advertisers, partners or sponsors use information about you, we urge you to contact them directly. 
 
+**Third Party Advertising Companies** \- Some of our advertising is currently served by third party advertising companies. In some cases these companies deliver a cookie to you so the ads you see can be tracked and to ensure that you are not shown the same ad too many times. BabyZone does not provide these third party advertising companies with any personally identifiable information. However, these companies may use non-personally identifiable information about your visits to BabyZone and other sites in order to provide advertisements about goods and services of interest to you. 
 
-    * Our site uses cookies to make sure you don't see the same ad repeatedly.
+**Membership Registration** \- Many areas of BabyZone are reserved for BabyZone members who have registered with us; for example, chats, message boards and access to special services such as My BabyZone, special offers and sweepstakes. The personally identifiable information you provide during membership registration will not be given to third parties without your consent except in the limited circumstances described in the section of this Privacy Policy entitled "Information Sharing Policy". We send all new members a welcoming email to verify password and username and provide an overview of member benefits. Members may occasionally receive additional email from us. All emails will contain simple instructions on how to unsubscribe.
 
+**Edit Member Information** \- BabyZone provides you with the ability to access, correct or change certain information in your member profile at any time, including contact information or other information you've provided to us. Please be advised that BabyZone currently archives information it collects on its members and visitors. 
 
+**Shopping at BabyZone Stores (MaternityZone, AmazingToyStore, BabyZoneStore)** BabyZone stores are hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you access our stores through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the [Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information. 
 
-    * This site contains links to other sites. BabyZone.com is not responsible for the privacy practices or the content of such Web sites.
+BabyZone does not sell or rent information about our store customers. All information provided remains confidential. Examples of such information are: name, postal address, e-mail address, phone number, and credit card information. BabyZone only uses this personally identifying data to facilitate your order and for future product promotion and will not disseminate it to third parties. We maintain appropriate safeguards internally to ensure the security, integrity and privacy of your personal information within our company. BabyZone may share non-personal aggregate, or summary, information regarding its customers with partners or other third parties, but BabyZone does not sell or share any information at the individual customer level. As a customer, you'll occasionally receive e-mail updates about special offers, sales, new services, and noteworthy news. We hope you'll find these updates interesting and informative. But if you'd rather not receive them, simply follow the instructions in the email to unsubscribe and you will be removed from our store mailing list.
 
+**Shopping at BabyZone's E-Commerce Partners** \- When you provide personal financial and other personally identifiable information to one of BabyZone's e-commerce partners, this transaction will occur on the e-commerce partner's site, not BabyZone and as such the financial and personally identifiable information you provide is collected by and controlled by the Privacy Policy of that e-commerce partner. It is important therefore that you familiarize yourself with the Privacy Policy of the e-commerce site you transact with. 
 
+**Newsletters** \- BabyZone offers newsletters on a variety of topics. In order to receive these newsletters you must opt-in to receiving them. BabyZone does not share mailing lists from its newsletters with third parties. BabyZone may, however, provide third parties with a list of BabyZone members and visitors who have opted-in to receiving additional information from third parties. In those instances where you opt-in to subscribe to a newsletter or special offers from a third-party email service or advertiser or partner, the email address information sometimes will be located on the third party's server. In those cases, any information you provide is subject to that entity's Privacy Policy, not this one. Some of our partners' and advertisers' sites require that you specifically opt-out from receiving their newsletters. As a result, to stop receiving them you will need to affirmatively opt-out from the third party newsletter. 
 
-    * Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders to our customers. The customer's contact information is used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+**Message Boards, Chat Rooms, Birth Stories, Birth Announcements, Email Sent to BabyZone, Journals and Baby Books** \- Throughout BabyZone various public forums such as chat rooms, message boards, "ask the expert" areas and various question and answer areas are available to you as a BabyZone visitor or member. Please remember that any information you disclose in these public forum areas becomes public information and is immediately accessible on the BabyZone, so it is important for you to exercise discretion and appropriate caution when deciding to reveal personal information in these areas. When entering journal or baby book entries, you have the choice to make these entries public or private. BabyZone may decide to utilize the content of Q&A's, interactions with experts, birth stories, public journals, public baby books, email sent to us and chat room and message board content throughout BabyZone and in promotions in order to enhance BabyZone's editorial, advertising, promotional and similar activities. 
 
+**Surveys and Polls** \- Our surveys ask for opinions on various issues and very often these surveys and polls are sponsored by or associated with BabyZone advertisers and partners. Occasionally, we may request demographic information (like zip code, age or gender). Most information obtained through surveys and polls is aggregated and used internally or shared with advertisers and partners only in the aggregated form. In the event personally identifiable information is requested as part of surveys or polls about any BabyZone member or visitor, such personally identifiable information is never provided to third parties without your consent. In these instances you may expressly choose to receive information from a sponsor, in which case your information is provided to that sponsor only. Some survey answers may be added to your member portrait so that we can better provide you with content, ads and offers that are most appropriate for you. 
 
+**Contests and Sweepstakes** \- We regularly operate sweepstakes, contests and giveaways throughout BabyZone sites. We typically ask you for your email address to notify you if you've won. We also ask for first and last names, and sometimes post office addresses in order to verify the entrant's identity. In some situations, we need additional information as part of the entry process, such as a prize selection choice. This information is shared with a third party: 
 
-    * Financial information that is collected is used to bill the user for products and services.
-
-
-
-    * Our online surveys ask visitors for contact information (like their email address), financial information (like their account or credit card numbers), and demographic information (like their zip code, age, or income level). We use contact data from our surveys to send the user information about our company. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected from our users is used to bill the user for products and services. Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis.
-
-
-
-    * We run contests on our site in which we ask visitors for contact information (like their email address). We use contact data from our contests to send users information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
-
-
-
-    * We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
+  * When you choose to receive information from a third party sweepstakes sponsor; 
+  * When a sweepstakes is hosted by BabyZone but administered by a sponsor, again, we will advise you of this in the sweepstakes rules; or 
+  * Most sweepstakes and contests will also ask you to consent to the release of information contained within the entry form for tax purposes if you become a winner.   
 
 
-**
 
-Public Forums
 
-**
+You should carefully review the rules of each sweepstakes, contest and giveaway which you enter as they may contain additional important information about BabyZone's or a sponsor's use of your personally identifiable information. 
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its users.
+**Email to a Friend and E-Cards** \- BabyZone offers the ability to forward an article to another person via email or to send an electronic card. If you use either of these services, we will use the recipient's email address in order to send the article or e-card and it will also ask for your email address. In the case of e-cards, we will ask for your email address and each may be stored so that we can ensure delivery and that the recipient can retrieve the e-card. We do not use the recipient's email address for any other purpose unless such recipient gives us permission to do so.
 
-Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+**Opt In/Opt Out Policy** \- Upon registration or from time-to-time, you may be asked to indicate whether you are interested in receiving BabyZone newsletters, special offers from our partners, or news about our sites. If you do choose to receive these communications by means of an opt-in, we or our partners will occasionally send you an email message that matches your request(s). You may, of course, always choose not to receive any of this information from us. At any time, you can follow a link provided in every newsletter or email message (except for e-commerce confirmation emails) to unsubscribe from that mailing list or email service.
 
-**
+**IP Address** \- Your IP address is a number that is assigned by your ISP (Internet Service Provider) to your computer to identify its location. We use your IP address to help diagnose problems with our server and to administer our website. 
 
-Security
+**Cookies** \- Our site uses a feature of your browser to set a "cookie" on your computer. BabyZone can then read the cookies whenever you visit the BabyZone websites. We use cookies to save your ID and password so you don't have to re-enter them each time you visit our site, to deliver content specific to your interests, to track the pages you've visited and to make sure you don't see the same ads repeatedly. You may modify your browser preference to provide you with choices relating to cookies. You have the choice to accept all cookies, to be notified when a cookie is set or to reject all cookies. If you choose to reject cookies you may be unable to use those BabyZone services that require registration. 
 
-**
+**Information Sharing Policy** \- BabyZone does not sell or otherwise share personally identifiable information with third parties without your consent except when appropriate or required. For example we will release information to comply with the law and/or to protect the rights and property of BabyZone, our visitors and others. In the event that another company acquires BabyZone, or any or all of the assets of BabyZone, our member and visitor information would be considered a transferable asset. In addition, BabyZone reserves the right to allow access to its systems to third parties providing necessary services (eg: fulfillment of orders and credit card processing) when such access is required in order to provide those services. 
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Data is stored behind a firewall and access is password controlled.
+**Security of Information** \- BabyZone has numerous security measures in place to protect you from the loss, misuse and alteration of the information under our control, including your credit card information if you choose to conduct an e-commerce transaction in the BabyZone stores. Access to all of your private member information requires use of your password. We recommend that you do not share your password with anyone. BabyZone uses industry-standard tools to ensure that your information is secure and confidential. 
 
-**
-
-Choice/Opt-Out
-
-**
-
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
-
-1.You can send email to [remove@babyzone.com](mailto:remove@babyzone.com)
-
-**
-
-Correct/Update
-
-**
-
-This site gives users the following options for changing and modifying information previously provided.
-
-1.email [correct@babyzone.com](mailto:correct@babyzone.com)
-
-**
-
-Contacting the Web Site
-
-**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact
-
-BabyZone Inc.  
-42 Spring St.  
-Watertown, MA 02472
-
-[privacy@babyzone.com](mailto:privacy@babyzone.com)
+**Contact** \- If you have questions about this Privacy Policy or anything else about BabyZone, you can contact us at the following email address: [feedback@babyzone.com](mailto:feedback@babyzone.com).
