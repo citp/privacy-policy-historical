@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wchstv.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211212758id_/http%3A//www.wchstv.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wchstv.com privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624144232id_/http%3A//www.wchstv.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement for www.wchstv.com
 
@@ -72,5 +72,15 @@ If you have any questions about this privacy statement, the practices of this si
     PO Box 11138  
     Charleston, WV 25338
 
-    [webmaster@wchstv.com](mailto:webmaster@wchstv.com) |  |  |  |    
+    [webmaster@wchstv.com](mailto:webmaster@wchstv.com) |  |  |  | 
+
+[](http://www.supportournation.com/)  
+  
+[](https://web.archive.org/synd_prog/weakestlink/)  
+  
+EYEWITNESS NEWS IS AFFILIATED WITH  
+[](http://cnn.com/LOCAL/regions/southeast/WCHS-TV/)  
+  
+Also Visit:  
+[](http://www.wvah.com/)  
 
