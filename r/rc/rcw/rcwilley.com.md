@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcwilley.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205154422id_/http%3A//www.rcwilley.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcwilley.com privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608203958id_/http%3A//www.rcwilley.com/privacy.htm) for the most accurate reproduction.*
 
 # RC Willey Home Furnishings. Retailer of quality furniture, electronics, appliances, flooring and mattresses for your home. Retail stores in Idaho, Utah and Nevada.
 
