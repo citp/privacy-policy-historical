@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kisw.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204091919id_/http%3A//kisw.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kisw.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403174711id_/http%3A//www.kisw.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # 99.9 KISW
 
@@ -8,7 +8,7 @@
 ---  
 | 
 
-[](https://web.archive.org/ad/click.asp?adID=4485&adRunID=15166)
+[](https://web.archive.org/ad/click.asp?adID=145&adRunID=15166)
 
 |   
 ---  
