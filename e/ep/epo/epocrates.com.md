@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epocrates.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205183955id_/http%3A//epocrates.com/company/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epocrates.com privacy policy that was archived on 2003-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030210113544id_/http%3A//www.epocrates.com/company/privacy.cfm) for the most accurate reproduction.*
 
 # ePocrates, Inc. - Privacy
 
@@ -8,7 +8,7 @@
 * * *
 
    
-[ FAQs ](https://web.archive.org/web/20021205183955id_/http%3A//epocrates.com/company/FAQ/)  
+[ FAQs ](https://web.archive.org/web/20030210113544id_/http%3A//www.epocrates.com/company/FAQ/)  
    
 
 
