@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the nikebiz.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207131320id_/http%3A//niketown.nike.com/info/privacy.jhtml%3Fitem%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikebiz.com privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628194017id_/http%3A//niketown.nike.com/info/privacy.jhtml%3Fitem%3Dprivacy) for the most accurate reproduction.*
 
 # Niketown.com
 
 |   
-Nike is committed to respecting the privacy rights of website visitors. The following policy describes how we collect, protect and use information we receive from website visitors. If you would like to review our policies specifically applicable to children, see “[Children's Privacy Policy](https://web.archive.org/info/privacy.jhtml;jsessionid=HBKTQHZ4ZG0K4CQCGI1SFEYKAIZBKIV0?item=child)”. 
+Nike is committed to respecting the privacy rights of website visitors. The following policy describes how we collect, protect and use information we receive from website visitors. If you would like to review our policies specifically applicable to children, see “[Children's Privacy Policy](https://web.archive.org/info/privacy.jhtml;jsessionid=I0YYK3XPRQHOCCQCGI1SFEYKAIZBKIV0?item=child)”. 
 
 NIKE USA, Inc. and NIKE Retail Services, Inc are responsible for this privacy policy. Please note, that when you enter any sub-sites accessible through nike.com, they may have different privacy policies specific to those sites. We encourage you to read the privacy policies of each NIKE site.
 
@@ -13,7 +13,7 @@ How do we protect visitor information?
 Do we use “cookies”?  
 Do we disclose the information we collect to outside parties?  
 How can you opt-out, remove, or modify information that you have provided to us?  
-[Children's Privacy Policy](https://web.archive.org/info/privacy.jhtml;jsessionid=HBKTQHZ4ZG0K4CQCGI1SFEYKAIZBKIV0?item=child)
+[Children's Privacy Policy](https://web.archive.org/info/privacy.jhtml;jsessionid=I0YYK3XPRQHOCCQCGI1SFEYKAIZBKIV0?item=child)
 
 What information do we collect?
 
@@ -34,6 +34,7 @@ We may use the information we collect from you when you register, purchase produ
   * To quickly process your transactions.
   * To administer a contest, promotion, survey or other site feature.
   * If you have opted-in to receive Nike e-mail, we may send you periodic e-mails from Nike. If you would no longer like to receive Nike e-mail, please refer to the “How can you opt-out, remove or modify information you have provided to us?”section below. If you have not opted-in to receive Nike e-mail, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
+  * If you have opted-in to receive Nike SMS messages, we may send you periodic SMS messages from Nike. If you would no longer like to receive Nike SMS messages, please refer to the section of the Nike site where you opted-in to receive the messages.
 
 back to top
 
@@ -63,9 +64,9 @@ back to top
 
 How can you opt-out, remove or modify information you have provided to us? 
 
-To modify your e-mail subscriptions or completely opt-out of receiving Nike e-mail please let us know by modifying your preferences in the “My Account” section. Please note that due to email production schedules you may receive any emails already in production. 
+To modify your e-mail subscriptions or completely opt-out of receiving Nike e-mail please let us know by modifying your preferences in the “My Account“ section. To opt out of receiving Nike SMS messages, please refer to the section in the Nike site where you opted in to receive the messages. Please note that due to email production schedules you may receive any emails already in production. 
 
-To delete all of your Nike online account information from our database, sign into the "My Account" section of our site and select “De-Register.” Or you can send us a request by clicking [here](https://nike-store.custhelp.com/cgi-bin/nike_store.cfg/php/enduser/ask.php). Please fill out the required fields and include your first name, last name and e-mail address in the “Message” box before submitting. Note that if you request your account information to be deleted from our database, we may maintain information about an individual sales transaction in order to service that transaction and for record keeping. 
+To delete all of your Nike online account information (except any opt-in to receive SMS messages) from our database, sign into the “My Account“ section of our site and select “De-Register.“ Or you can send us a request by clicking [here](https://nike-store.custhelp.com/cgi-bin/nike_store.cfg/php/enduser/ask.php). Please fill out the required fields and include your first name, last name and e-mail address in the “Message“ box before submitting. As noted above, to opt out of SMS messages, please refer to the section in the Nike site where you opted in to receive the messages.NNote that if you request your account information to be deleted from our database, we may maintain information about an individual sales transaction in order to service that transaction and for record keeping. 
 
 back to top
 
@@ -81,7 +82,7 @@ In an attempt to provide you with increased value, we may include third party li
 
 Changes to our policy 
 
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on May 31, 2002.
+If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on May 19, 2003.
 
 Questions and feedback 
 
@@ -91,7 +92,7 @@ Online Policy Only
 
 This online privacy policy applies only to information collected through our website and not to information collected offline. Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/info/privacy.jhtml;jsessionid=HBKTQHZ4ZG0K4CQCGI1SFEYKAIZBKIV0?item=terms) section establishing the use, disclaimers, and limitations of liability governing the use of our website. 
+Please also visit our [Terms and Conditions](https://web.archive.org/info/privacy.jhtml;jsessionid=I0YYK3XPRQHOCCQCGI1SFEYKAIZBKIV0?item=terms) section establishing the use, disclaimers, and limitations of liability governing the use of our website. 
 
 Your consent 
 
@@ -99,4 +100,4 @@ By using our site, you consent to our privacy policy.
 
 back to top
 
-[Children's Privacy Policy](https://web.archive.org/info/privacy.jhtml;jsessionid=HBKTQHZ4ZG0K4CQCGI1SFEYKAIZBKIV0?item=child)
+[Children's Privacy Policy](https://web.archive.org/info/privacy.jhtml;jsessionid=I0YYK3XPRQHOCCQCGI1SFEYKAIZBKIV0?item=child)
