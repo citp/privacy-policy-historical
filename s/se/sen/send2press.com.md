@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the send2press.com privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616121111id_/http%3A//www.send2press.com/about/mindset_privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the send2press.com privacy policy that was archived on 2001-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011219011705id_/http%3A//www.send2press.com/about/mindset_privacy.shtml) for the most accurate reproduction.*
 
 # pr news bureau | mindsetnetwire.com | privacy statement
 
-  Saturday, June 16, 2001 | [A Member of the Neotrope™ Interactive Network](http://www.neotrope.net/)   
+  Tuesday, December 18, 2001 | [A Member of the Neotrope™ Interactive Network](http://www.neotrope.net/)   
   
 [](http://www.send2press.com/)  
 [](http://www.send2press.com/)  
@@ -15,13 +15,23 @@
 
 * * *
 
+|  **Search Neotrope Interactive Network Sites**  
+**using Google** :   
+  
+  
+---  
+Choose Site to Search:  
+Send2press.com   
+DigitalAuthor.com   
+NeotropeHosting.com   
+  
 * * *
 
 * * *
 
 [](http://www.neotropehosting.com/)
 
-|  | 
+[](http://www.mynewdomainname.com/) | 
 
   
 **Mindset Netwire™ Privacy Statement**
