@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whas11.com privacy policy that was archived on 2002-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021217030826id_/http%3A//www.whas11.com/registration/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whas11.com privacy policy that was archived on 2003-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030417011645id_/http%3A//www.whas11.com/registration/privacy.html) for the most accurate reproduction.*
 
 # WHAS11.com | Louisville Kentucky | Registration
 
