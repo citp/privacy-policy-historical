@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-love-cats.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602173807id_/http%3A//i-love-cats.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-love-cats.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208094634id_/http%3A//www.i-love-cats.com/privacy.html) for the most accurate reproduction.*
 
 # I-Love-Cats.com - Privacy
 
@@ -12,8 +12,6 @@ We run contests on our site in which we ask visitors for contact information (li
 
 Contact information from the contests is used to get in touch with the visitor when necessary.
 
-Users may opt-out of receiving future mailings; see the choice/opt-out section below.
-
 #### External Links
 
 This site contains links to other sites. **I-Love-Cats.com** is not responsible for the privacy practices or the content of such Web sites.
@@ -26,15 +24,9 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.
 
-#### Choice/Opt-Out
-
-Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us .
-
->>> You can send email to [meow@i-love-cats.com](mailto:meow@i-love-cats.com) with the subject "REMOVE ME MEOW".
-
 ## Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  
 
 
-[meow@i-love-cats.com](mailto:meow@i-love-cats.com)[ ](mailto:meow@i-love-cats.com)
+[meow@i-love-cats.com ](mailto:meow@i-love-cats.com)
