@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesimsresource.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202154300id_/http%3A//www.mgon.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesimsresource.com privacy policy that was archived on 2001-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010412234001id_/http%3A//www.mgon.com/privacy.phtml) for the most accurate reproduction.*
 
 # MGON - Company Information
 
