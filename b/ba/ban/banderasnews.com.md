@@ -1,41 +1,41 @@
-> *The following text is extracted and transformed from the banderasnews.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205185843id_/http%3A//www.banderasnews.com/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banderasnews.com privacy policy that was archived on 2003-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030630143547id_/http%3A//www.banderasnews.com/info/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|  | [**In The News!**](https://web.archive.org/web/20021205185843id_/http%3A//www.banderasnews.com/features/news.htm)  
+|  | [**In The News!**](https://web.archive.org/web/20030630143547id_/http%3A//www.banderasnews.com/features/news.htm)  
 ---|---  
-| [**Local Events**](https://web.archive.org/web/20021205185843id_/http%3A//www.banderasnews.com/features/calendar.htm)  
-| [**Business & Technology**](https://web.archive.org/web/20021205185843id_/http%3A//www.banderasnews.com/features/business.htm)  
-| [**Real Estate**](https://web.archive.org/web/20021205185843id_/http%3A//www.banderasnews.com/realestate/index.htm)  
-| [**Destinations**](https://web.archive.org/web/20021205185843id_/http%3A//www.banderasnews.com/features/destinations.htm)  
-| [**Photo Galleries**](https://web.archive.org/web/20021205185843id_/http%3A//www.banderasnews.com/galleries/index.htm)  
+| [**Local Events**](https://web.archive.org/web/20030630143547id_/http%3A//www.banderasnews.com/features/calendar.htm)  
+| [**Business & Technology**](https://web.archive.org/web/20030630143547id_/http%3A//www.banderasnews.com/features/business.htm)  
+| [**Real Estate**](https://web.archive.org/web/20030630143547id_/http%3A//www.banderasnews.com/realestate/index.htm)  
+| [**Destinations**](https://web.archive.org/web/20030630143547id_/http%3A//www.banderasnews.com/features/destinations.htm)  
+| [**Photo Galleries**](https://web.archive.org/web/20030630143547id_/http%3A//www.banderasnews.com/galleries/index.htm)  
   |   
-| [**Classified Ads**](https://web.archive.org/web/20021205185843id_/http%3A//www.banderasnews.com/classifieds/index.htm)  
+| [**Classified Ads**](https://web.archive.org/web/20030630143547id_/http%3A//www.banderasnews.com/classifieds/index.htm)  
   |   
-| [**Profiles**](https://web.archive.org/web/20021205185843id_/http%3A//www.banderasnews.com/articles/profiles/index.htm)  
-| [**Art Talk**](https://web.archive.org/web/20021205185843id_/http%3A//www.banderasnews.com/art/index.htm)  
-| [**Night Life**](https://web.archive.org/web/20021205185843id_/http%3A//www.banderasnews.com/features/nightlife.htm)  
-| [**Community**](https://web.archive.org/web/20021205185843id_/http%3A//www.banderasnews.com/features/community.htm)  
-| [**Fishing Report**](https://web.archive.org/web/20021205185843id_/http%3A//www.banderasnews.com/features/fishreport.htm)  
-| [**Health & Beauty**](https://web.archive.org/web/20021205185843id_/http%3A//www.banderasnews.com/features/health.htm)  
+| [**Profiles**](https://web.archive.org/web/20030630143547id_/http%3A//www.banderasnews.com/articles/profiles/index.htm)  
+| [**Art Talk**](https://web.archive.org/web/20030630143547id_/http%3A//www.banderasnews.com/art/index.htm)  
+| [**Night Life**](https://web.archive.org/web/20030630143547id_/http%3A//www.banderasnews.com/features/nightlife.htm)  
+| [**Community**](https://web.archive.org/web/20030630143547id_/http%3A//www.banderasnews.com/features/community.htm)  
+| [**Fishing Report**](https://web.archive.org/web/20030630143547id_/http%3A//www.banderasnews.com/features/fishreport.htm)  
+| [**Health & Beauty**](https://web.archive.org/web/20030630143547id_/http%3A//www.banderasnews.com/features/health.htm)  
   |   
-| [**Web Archives**](https://web.archive.org/web/20021205185843id_/http%3A//www.banderasnews.com/archives/index.htm)  
+| [**Web Archives**](https://web.archive.org/web/20030630143547id_/http%3A//www.banderasnews.com/archives/index.htm)  
   |   
-| [**Humor**](https://web.archive.org/web/20021205185843id_/http%3A//www.banderasnews.com/features/humor.htm)  
-| [**Comics**](https://web.archive.org/web/20021205185843id_/http%3A//www.banderasnews.com/galleries/cartoons/index.htm)  
-| [**How To**](https://web.archive.org/web/20021205185843id_/http%3A//www.banderasnews.com/howto/index.htm)  
-| [**Letters**](https://web.archive.org/web/20021205185843id_/http%3A//www.banderasnews.com/features/letters.htm)  
-| [**Puzzler**](https://web.archive.org/web/20021205185843id_/http%3A//www.banderasnews.com/features/puzzler.htm)  
-| [**Rumors**](https://web.archive.org/web/20021205185843id_/http%3A//www.banderasnews.com/features/rumors.htm)  
-| [**Ask Andy**](https://web.archive.org/web/20021205185843id_/http%3A//www.banderasnews.com/features/askandy.htm)  
-| [**Horoscope**](https://web.archive.org/web/20021205185843id_/http%3A//www.banderasnews.com/features/horoscope.htm)  
+| [**Humor**](https://web.archive.org/web/20030630143547id_/http%3A//www.banderasnews.com/features/humor.htm)  
+| [**Comics**](https://web.archive.org/web/20030630143547id_/http%3A//www.banderasnews.com/galleries/cartoons/index.htm)  
+| [**How To**](https://web.archive.org/web/20030630143547id_/http%3A//www.banderasnews.com/howto/index.htm)  
+| [**Letters**](https://web.archive.org/web/20030630143547id_/http%3A//www.banderasnews.com/features/letters.htm)  
+| [**Puzzler**](https://web.archive.org/web/20030630143547id_/http%3A//www.banderasnews.com/features/puzzler.htm)  
+| [**Rumors**](https://web.archive.org/web/20030630143547id_/http%3A//www.banderasnews.com/features/rumors.htm)  
+| [**Ask Andy**](https://web.archive.org/web/20030630143547id_/http%3A//www.banderasnews.com/features/askandy.htm)  
+| [**Horoscope**](https://web.archive.org/web/20030630143547id_/http%3A//www.banderasnews.com/features/horoscope.htm)  
   |   
 | **Advertising**  
-| [**Shopping Guide**](https://web.archive.org/web/20021205185843id_/http%3A//www.banderasnews.com/shopping/index.shtml)  
-| [**Ad Information**](https://web.archive.org/web/20021205185843id_/http%3A//www.banderasnews.com/advertisers/index.htm)  
-| [**Print Distribution**](https://web.archive.org/web/20021205185843id_/http%3A//www.banderasnews.com/info/distribution.htm)  
+| [**Shopping Guide**](https://web.archive.org/web/20030630143547id_/http%3A//www.banderasnews.com/shopping/index.shtml)  
+| [**Ad Information**](https://web.archive.org/web/20030630143547id_/http%3A//www.banderasnews.com/advertisers/index.htm)  
+| [**Print Distribution**](https://web.archive.org/web/20030630143547id_/http%3A//www.banderasnews.com/info/distribution.htm)  
   |   
- [ **Free Newsletter!**](https://web.archive.org/web/20021205185843id_/http%3A//www.banderasnews.com/info/newsletter.htm)  
+ [ **Free Newsletter!**](https://web.archive.org/web/20030630143547id_/http%3A//www.banderasnews.com/info/newsletter.htm)  
 |  | 
 
 **Privacy Statement**
