@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the travelmole.com privacy policy that was archived on 2004-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041102042726id_/http%3A//www.travelmole.com/service/help/help_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelmole.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306155619id_/http%3A//www.travelmole.com/service/help/help_privacy.php) for the most accurate reproduction.*
 
 # TravelMole - Privacy Policy
 
 | 
 
 Considering advertising on TravelMole.com? You can advertise on our online community with banner ads, in the PressZONE, on the weekly TravelMole Insider newswire, or via sponsorship. For further information please contact Richard Lough:   
-+44 (0)7979 076763 or [rlough@travelmole.com](mailto:rlough@travelmole.com)
++44 (0)0870 438 1045 Ext 603 or [rlough@travelmole.com](mailto:rlough@travelmole.com)
 
 |   
 ---  
