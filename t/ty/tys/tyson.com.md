@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the tyson.com privacy policy that was archived on 1998-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19980523195236id_/http%3A//www.tyson.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tyson.com privacy policy that was archived on 2000-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000517050120id_/http%3A//www.tyson.com/help/privacy_policy.asp) for the most accurate reproduction.*
 
-# TYSON FOODS WEBSITE PRIVACY POLICY
+# Web Site Privacy Policy
 
- 
+|  | 
+
+**Tyson Foods Web Site Privacy Policy**
+
+* * *
 
   1. This site may request personally identifiable data from you ("Personal Information"), which may include your e-mail address, domain name (where possible),or other personal information such as your address, telephone number, etc.
 
