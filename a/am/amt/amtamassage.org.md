@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amtamassage.org privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602204651id_/http%3A//www.amtamassage.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amtamassage.org privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009194708id_/http%3A//www.amtamassage.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
