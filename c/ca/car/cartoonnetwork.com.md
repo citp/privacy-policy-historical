@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartoonnetwork.com privacy policy that was archived on 2001-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011021172843id_/http%3A//www.cartoonnetwork.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoonnetwork.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603235100id_/http%3A//cartoonnetwork.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Cartoon Network: Privacy Information
 
@@ -69,8 +69,9 @@ Please be sure to include your e-mail address and a telephone number where we ca
 
 If you have any questions, comments or concerns regarding our privacy policy and/or practices, please contact us at the following e-mail address, mailing address and telephone number:
 
-**Privacy.CartoonNetwork@turner.com**
+**E-mail: Privacy.CartoonNetwork@turner.com**
 
+Mailing Address (Postcards only, please.):  
 Privacy Manager - Cartoon Network   
 TEG Online   
 1050 Techwood Drive   
