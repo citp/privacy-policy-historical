@@ -1,311 +1,335 @@
-<!--The following is the downloaded HTML source of the nextel.com privacy policy that was archived on 2001-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011212141215id_/http%3A//www.nextel.com/registration/privacy_policy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nextel.com privacy policy that was archived on 2002-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020603234217id_/http%3A//nextel.com/registration/privacy_policy.shtml) for the most accurate reproduction.-->
 
 <html><head>
 	 <title>Nextel - Privacy Policy</title>
 	 <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
 <link href="/nextel_pc.css" rel="STYLESHEET" type="text/css">
-  <script language="javascript1.2">
+  <script language="javascript">
 
-/* ***** Header Begin ***** */
+	imageArray = new Array('phones_plans','services','support','mynextel','about');
+	imagePath = "/img/topnav/";
+	function preloadImages() {
+		for(x=0;x<imageArray.length;x++) {
+			eval(imageArray[x] + 'off = new Image();');
+			eval(imageArray[x] + 'off.src = "' + imagePath + imageArray[x] + '_on.gif";');
+			eval(imageArray[x] + 'over = new Image();');
+			eval(imageArray[x] + 'over.src = "' + imagePath + imageArray[x] + '_off.gif";');
+		}
+	}
+	preloadImages();
 
-man="/images/header/hd_face_homeandcontact.jpg "
+	function turnon(i) {
+		document[i].src = eval(i + "off.src")
+	}
+	function turnoff(i) {
+		if (i != currentSection) {
+			document[i].src = eval(i + "over.src")
+		}
+	}
 
-home="'/images/header/hh_head_button_off.jpg' alt='Nextel Home'"
-contact="'/images/header/co_head_button_off.jpg' alt='Contact Us'"
-store="'/images/header/st_head_button_off.jpg' alt='Phones & Services'"
-about="'/images/header/ab_head_button_off.jpg' alt='About Nextel'"
-wirelessweb="'/images/header/ww_head_button_off.jpg' alt='Wireless Web'"
-account="'/images/header/ma_head_button_off.jpg' alt='My Account'"
-support="'/images/header/cs_head_button_off.jpg' alt='Customer Support'"
+//DYNAMIC MENUS
 
-if(document.URL.indexOf("/index.shtml") != -1 ) {
-var header="home";
-home="'/images/header/hh_head_button_on.gif'"
-store="'/images/header/st_head_button_off.jpg' alt='Phones & Services'"
-man="'/images/header/hd_face_homeandcontact.jpg'"
+phones_plans = new Array (
+  ["Phones", "/NASApp/onlinestore/PhoneLanding?initstate=true&redirect=false"],
+  ["Compare Phones", "/phones_plans/phonecomparison.shtml"],
+  ["Rate Plans", "/NASApp/onlinestore/RatePlanLanding?initstate=true&redirect=false"],
+  ["Compare Rate Plans", "/phones_plans/plans/rateplancomparison.shtml"],
+  ["Promotions", "/phones_plans/promos/index.shtml"],
+  ["Value Packs", "/phones_plans/promos/targetpromoindex.shtml"],
+  ["Accessories", "/NASApp/onlinestore/AccessoryLanding?initstate=true&redirect=false"]
+)
+
+services = new Array (
+  ["Coverage", "/services/coverage/index.shtml"],
+  ["Direct Connect", "/services/directconnect.shtml"],
+  ["Nextel Online", "/services/nextelonline/index.shtml"],
+  ["Mobile Messaging", "/services/mobilemessaging/index.shtml"],
+  ["Email Services", "/services/nextelonline/email_qual.shtml"],
+  ["Java Applications", "/services/javaapps/index.shtml"],
+  ["Worldwide Service", "/services/worldwide/index.shtml"]
+)
+
+support = new Array (
+  ["Phone Setup", "/support/gettingstarted.shtml"],
+  ["User's Guides", "/support/user_guides/index.shtml"],
+  ["How to Read Your Bill", "/support/readbill/index.shtml"],
+  ["Service and Repair", "/support/servicerepair/index.shtml"],
+  ["FAQs", "/support/faq/index.shtml"]
+)
+
+mynextel = new Array (
+  ["Account Summary", "/NASApp/care/WCMainServlet?operation=showAccountSummary"],
+  ["Address Book", "/NASApp/addrbook/ABEntryServlet"],
+  ["Billing Statements", "/NASApp/care/WCMainServlet?operation=showInvoiceStatus"],
+  ["Mobile Email", "http://nextel.wirelessinbox.com/"],
+  ["Pay My Bill (Credit Card)", "/NASApp/care/WCCreditCardPaymentServlet?operation=displayCreditCardPaymentPage&clearValidParams=true"],
+  ["Reset Voice Mail Password", "/NASApp/care/WCRVMPServlet"],
+  ["Send a Message", "http://messaging.nextel.com/cgi/mPageExt.dll?buildIndAddressPage&entry=1"],
+  ["Software Updates", "/mynextel/index.shtml"]
+)
+
+about = new Array (
+  ["Career Opportunities", "http://www.nexteljobs.com/"],
+  ["Company Profile", "/about/corporateinfo/profile.shtml"],
+  ["Financial Reports", "http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=NXTL&script=700"],
+  ["Investor Relations", "http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=NXTL&script=2300"],
+  ["Nextel News", "/about/corporateinfo/news.shtml"],
+  ["Press Releases", "http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=NXTL&script=400&layout=9"]
+)
+
+
+navArrow = '<img src="/img/topnav/white_arrow.gif" border=0>';
+menuWidth = 175
+menuHeight = 17
+menuColor = "#8c8a8c"
+menuHighlight = "#525552"
+menuborderColor = "#292829"
+borderStyle1 = ' border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: ' + menuborderColor + '; border-style: solid; '
+borderStyle2 = ' border-top-width: 1px; border-left-width: 1px; border-bottom-width: 1px; border-right-width: 1px; border-color: ' + menuborderColor + '; border-style: solid;  width:' + menuWidth + 'px; height:' + menuHeight + 'px; '
+
+menuVposition = new Array (75,75,75,75,75,75)
+menuHposition = new Array (10,149,223,351,432)
+menuArray = new Array ('phones_plans','services','support','mynextel','about')
+
+URLpath = new String( window.location.pathname );
+currentSection = ""
+appSection = new Array(['NASApp/care','mynextel'],['NASApp/onlinestore','phones_plans'])
+
+
+function getSection() {
+	for( var i=0; i < menuArray.length; i++ ) {
+		if( URLpath.indexOf( menuArray[i] ) >= 0 ) {
+			currentSection = menuArray[i];
+			turnon(menuArray[i])
+			break;
+		}
+	}
+	if (currentSection == "") {
+		for (i=0;i<appSection.length; i++) {
+			if( URLpath.indexOf( appSection[i][0] ) >= 0 ) {
+				currentSection = appSection[i][1];
+				turnon(menuArray[i])
+				break;
+			}
+		}				
+	}
 }
 
-if(document.URL.indexOf("/ab/") != -1 || document.URL.indexOf("/nbd/") != -1 || document.URL.indexOf("/oarss/") != -1 || document.URL.indexOf("/promo/") != -1 || document.URL.indexOf("/wu/") != -1) {
-var header="other";
-home="'/images/header/hh_head_button_off.jpg'"
-store="'/images/header/st_head_button_off.jpg' alt='Phones & Services'"
+active=false
+menusReady = false
+currentMenu = ""
+
+var NS4 = false
+var IE4 = false
+var DOM = false
+var IE = false
+var NS6 = false
+
+oldIE = ( navigator.appName.indexOf('Microsoft') >= 0 && navigator.appVersion.indexOf('MSIE 4.') >= 0) ? true:false
+if (document.getElementById) { DOM = true; browser="DOM"; }
+if (document.layers && !DOM) { NS4 = true; browser="NS4"; }
+if (document.all && !DOM) IE4 = true
+if (navigator.appName.indexOf("Microsoft Internet Explorer") > -1) IE = true
+if (DOM && !IE) NS6 = true
+
+function initLayers() {
+
+if (IE || DOM) {
+	for (x=0; x<menuArray.length; x++) {
+		layerName = menuArray[x] + 'Layer'
+		useArray = eval(menuArray[x])
+		menu = '<div id="' + layerName + '" style="position: absolute; width: ' + menuWidth + 'px; z-index: 20; background-color: ' + menuHighlight + '; visibility: hidden;" onmouseout="unLock(\'' + menuArray[x] + 'Lyr\')" onmouseover="lock(\'' + menuArray[x] + 'Lyr\')">';
+		for (v=0;v<useArray.length;v++) {
+			menu += '<div id="' + layerName + v + '" style="position: relative; background-color: ' + menuColor + '; z-index: ' + x + 30 + '; height:' + menuHeight + 'px; ' + borderStyle1
+			menu += (NS6) ? 'width:' + (menuWidth - 1) + 'px; ' : 'width:' + menuWidth + 'px; '
+			menu += (v == useArray.length - 1) ?  " border-bottom-width: 1px;" : " border-bottom-width: 0px;"
+			menu += '" onmouseover="highlight(\'' + menuArray[x] + v + 'Lyr\')" onmouseout="unhighlight(\'' + menuArray[x] + v + 'Lyr\')" onclick="linkto(\'' + useArray[v][1] + '\')"><table cellspacing=2><tr><td>' + navArrow + '<a href="' + useArray[v][1] + '" class=menuLink>' + useArray[v][0] + '<\/a><\/td><\/tr><\/table><\/div>';
+		}
+		menu += '<\/div>\n';
+		document.write(menu);
+	}
 }
 
-if(document.URL.indexOf("/contact/") != -1) {
-var header="contact";
-contact="'/images/header/co_head_button_on.gif'"
-home="'/images/header/hh_head_button_off.jpg' alt='Nextel Home'"
-store="'/images/header/st_head_button_off.jpg' alt='Phones & Services'"
-man="'/images/header/hd_face_homeandcontact.jpg'"
+if (NS4) {
+	document.write('<style type="text/css">\n')
+	document.write('all.menuItem1 {' + borderStyle1 + ' width:' + menuWidth + 'px; }\n')
+	document.write('all.menuItem2 {' + borderStyle2 + '}\n')
+	document.write('all.menuLink { padding-left: 2px; padding-top: 0px;}</style>')
+	for (x=0; x<menuArray.length; x++) {
+		layerName = menuArray[x] + 'Layer'
+		useArray = eval(menuArray[x])
+		menu = '<layer id="' + layerName + '" width=' + menuWidth + ' z-index=20 visibility=hide onmouseout="unLock(\'' + menuArray[x] + 'Lyr\')" onmouseover="lock(\'' + menuArray[x] + 'Lyr\')">';
+		for (v=0;v<useArray.length;v++) {
+			menu += '<ilayer id="' + layerName + v + '" bgcolor=' + menuColor + '><layer class='
+			menu += (v == useArray.length - 1) ?  'menuItem2' : 'menuItem1'
+			menu += ' z-index=' + (x + 30 - v) + ' onmouseover="highlight(\'' + menuArray[x] + v + 'Lyr\')"'
+			menu += ' onmouseout="unhighlight(\'' + menuArray[x] + v + 'Lyr\')"><a href="' + useArray[v][1] + '" class=menuLink>' + navArrow + useArray[v][0] + '<\/a><\/layer></ilayer><br>';
+		}
+		menu += '<\/layer>\n';
+		document.write(menu);
+	}
 }
 
-if(document.URL.indexOf("/NASApp/nol/StoreLanding") != -1) {
-var header="store";
-store="'/images/header/st_head_button_on.gif'"
-home="'/images/header/hh_head_button_off.jpg' alt='Nextel Home'"
-man="'/images/header/st_face_store.jpg'"
+for (x=0; x<menuArray.length; x++) {
+	layerName = menuArray[x] + 'Layer'
+	useArray = eval(menuArray[x])
+	eval(menuArray[x] + 'Lyr = new domObject(\'' + layerName + '\')');
+	for (v=0;v<useArray.length;v++) {
+		eval(menuArray[x] + v + 'Lyr = new domObject(\'' + layerName + v + '\',\'' + layerName + '\')')
+	}
+	eval(menuArray[x] + 'Lyr.sty.left = ' + menuHposition[x])
+	eval(menuArray[x] + 'Lyr.sty.top = ' + menuVposition[x])
+}
+menusReady = true;
 }
 
-if(document.URL.indexOf("/phone_services/") != -1 ||document.URL.indexOf("/kjavaapps/") != -1) {
-var header="store";
-store="'/images/header/st_head_button_on.gif'"
-home="'/images/header/hh_head_button_off.jpg' alt='Nextel Home'"
-man="'/images/header/st_face_store.jpg'"
-}
+if (!oldIE) initLayers()
 
-if(document.URL.indexOf("/about/index.shtml") != -1 ||document.URL.indexOf("/about/") != -1) {
-var header="about_home";
-about="'/images/header/ab_head_button_on.gif'"
-home="'/images/header/hh_head_button_off.jpg' alt='Nextel Home'"
-store="'/images/header/st_head_button_off.jpg' alt='Phones & Services'"
-man="'/images/header/ab_face_about.jpg'"
-}
-
-
-if(document.URL.indexOf("/wireless/email/pop3def.shtml") != -1 ) {
-var header="wirelessweb_home";
-wirelessweb="'/images/header/ww_head_button_on.gif'"
-home="'/images/header/hh_head_button_off.jpg' alt='Nextel Home'"
-store="'/images/header/st_head_button_off.jpg' alt='Phones & Services'"
-man="'/images/header/ww_face_wireless.jpg'"
-}
-
-if(document.URL.indexOf("/wireless/web/wireless.shtml") != -1 ) {
-var header="wirelessweb_home";
-wirelessweb="'/images/header/ww_head_button_on.gif'"
-home="'/images/header/hh_head_button_off.jpg' alt='Nextel Home'"
-store="'/images/header/st_head_button_off.jpg' alt='Phones & Services'"
-man="'/images/header/ww_face_wireless.jpg'"
-}
-
-if(document.URL.indexOf("/wireless/private/wirelessweb.shtml") != -1 ||document.URL.indexOf("/wireless/private/") != -1) {
-var header="wirelessweb_home";
-wirelessweb="'/images/header/ww_head_button_on.gif'"
-home="'/images/header/hh_head_button_off.jpg' alt='Nextel Home'"
-store="'/images/header/st_head_button_off.jpg' alt='Phones & Services'"
-man="'/images/header/ww_face_wireless.jpg'"
-}
-
-if(document.URL.indexOf("/wireless/private/wirelessweb_plus.shtml") != -1 ||document.URL.indexOf("/wireless/private/") != -1) {
-var header="wirelessweb_home";
-wirelessweb="'/images/header/ww_head_button_on.gif'"
-home="'/images/header/hh_head_button_off.jpg' alt='Nextel Home'"
-store="'/images/header/st_head_button_off.jpg' alt='Phones & Services'"
-man="'/images/header/ww_face_wireless.jpg'"
-}
-
-if(document.URL.indexOf("/myaccount/index.shtml") != -1 ||document.URL.indexOf("/myaccount/") != -1) {
-var header="account_home";
-account="'/images/header/ma_head_button_on.gif'"
-home="'/images/header/hh_head_button_off.jpg' alt='Nextel Home'"
-store="'/images/header/st_head_button_off.jpg' alt='Phones & Services'"
-man="'/images/header/ma_face_acct_blue.jpg'"
-}
-
-if(document.URL.indexOf("/myaccount/login/index.shtml") != -1 ||document.URL.indexOf("/myaccount/login/") != -1) {
-var header="login";
-account="'/images/header/ma_head_button_on.gif'"
-home="'/images/header/hh_head_button_off.jpg' alt='Nextel Home'"
-store="'/images/header/st_head_button_off.jpg' alt='Phones & Services'"
-man="'/images/header/ma_face_acct_login.jpg'"
+function domObject(theName,nestedLayer,frame) {
+	if (DOM || NS4) {
+		if (DOM) {
+			this.sty = document.getElementById(theName).style
+		}
+		 if (NS4) {
+			if (nestedLayer) {
+				this.sty = eval('document.' + nestedLayer + '.document.' + theName)
+			} else {
+				this.sty = document.layers[theName]
+			}
+		}
+	}
+	if (IE4) {
+		this.sty = this.frame.document.all[theName].style
+	}
+	this.theName = theName
+	this.active = false
+	this.locked = false
 }
 
 
-if(document.URL.indexOf("/support/index.shtml") != -1 ||document.URL.indexOf("/support/") != -1 ||document.URL.indexOf("/keypadlock.shtml") != -1 ) {
-var header="support_home";
-support="'/images/header/cs_head_button_on.gif'"
-home="'/images/header/hh_head_button_off.jpg' alt='Nextel Home'"
-store="'/images/header/st_head_button_off.jpg' alt='Phones & Services'"
-man="'/images/header/cs_face_custsupt.jpg'"
+function showMenu(theMenu) {
+	theName = theMenu.replace(/Lyr/, "")
+	if (menusReady && !oldIE) {
+		if (currentMenu != theName && currentMenu != "") {
+			dropit(theMenu);
+		}
+		currentMenu = theName;
+		argMenu = theMenu
+		eval(theMenu + ".active = true")
+		show = setTimeout("showIt(argMenu)", 100)
+	}
 }
-</script></head>
 
-
-
-<body leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" bgcolor="#FFFFFF" link="#000099" vlink="#990099" alink="#990099"> 
-  <script language="JavaScript1.2">
-
-switch(header) {
-	case "store" :
-		document.write("<table width='591' border='0' cellspacing='0' cellpadding='0'>");
-		break;
-	case "account_home" :
-		document.write("<table width='705' border='0' cellspacing='0' cellpadding='0'>");
-		break;
-	case "login" :
-		document.write("<table width='640' border='0' cellspacing='0' cellpadding='0'>");
-		break;
-	case "support_home" :
-		document.write("<table width='721' border='0' cellspacing='0' cellpadding='0'>");
-		break;
-	case "other" :
-		document.write("<table width='715' border='0' cellspacing='0' cellpadding='0'>");
-		break;
-	default :
-		document.write("<table width='715' border='0' cellspacing='0' cellpadding='0'>");
-		break;
+function dropMenu(theMenu) {
+	eval(theMenu + ".active = false")
+	whichMenu = theMenu
+	wait = setTimeout("dropit(whichMenu)", -1)
+	//dropit(theMenu)
 }
-document.write("<tr>");
-document.write("<td colspan='6'>");
-/* *****This is the top inside table***** */
-document.write("<table cellpadding='0' cellspacing='0' border='0' width='100%'>");
-document.write("<tr>");
-/* *****This is the logo***** */
-switch (header) {
-	case "home" :
-		document.write("<td colspan='2'><a href='/index.shtml' target='_top'><img src='/images/header/hd_top_register_1.gif' border='0'></a><img src='/images/header/hd_top_register_2.gif' border='0'><a href='/NASApp/nol/InitialRegistrationServlet' target='_top'><img src='/images/header/hd_top_register_3.gif' border='0'></a><img src='/images/header/hd_top_register_4.gif' border='0'></td>");
-		break;
 
-	case "other" :
-		document.write("<td colspan='2'><a href='/index.shtml' target='_top'><img src='/images/header/hd_top_register_1.gif' border='0'></a><img src='/images/header/hd_top_register_2.gif' border='0'><a href='/NASApp/nol/InitialRegistrationServlet' target='_top'><img src='/images/header/hd_top_register_3.gif' border='0'></a><img src='/images/header/hd_top_register_4.gif' border='0'></td>");
-		break;
-	default :
-		document.write("<td colspan='2'><a href='/index.shtml' target='_top'><img src='/images/header/hd_top_register_1.gif' border='0'></a><img src='/images/header/hd_top_register_2.gif' border='0'><a href='/NASApp/nol/InitialRegistrationServlet' target='_top'><img src='/images/header/hd_top_register_3.gif' border='0'></a><img src='/images/header/hd_top_register_4.gif' border='0'></td>");
-		break;
+function showIt(theMenu) {
+	if (eval(theMenu + ".active") == true) {
+		eval(theMenu + '.sty.visibility = (NS4)? "show" : "visible"')
+		theName = theMenu.replace(/Lyr/, "")
+		turnon(theName)
+	}
 }
-/*  *****This is the blue fade line***** and *****This is the contact us image*****  */
-switch(header) {
-	case "store" :
-		document.write("<td width='15%'><a href='/NASApp/nol/ShoppingCart' target='_top'><img src='/images/header/hd_top_shoppingcart.jpg' width='90' height='32' border='0'></a></td>");
-		document.write("<td width='19%'><a href='/contact/'><img src="+contact+" width='104' height='32' border='0'target='_top'></a></td>");
-		break;
-	case "wirelessweb_home" :
-		document.write("<td width='15%'><a href='/NASApp/nol/ShoppingCart' target='_top'><img src='/images/header/hd_top_shoppingcart.jpg' width='91' height='32' border='0'></a></td>");
-		document.write("<td><a href='/contact/' target='_top'><img src="+contact+" width='104' height='32' border='0'></a></td>");
-		break;
-	case "login" :
-		document.write("<td width='15%'><a href='/NASApp/nol/ShoppingCart' target='_top'><img src='/images/header/hd_top_shoppingcart.jpg' width='90' height='32' border='0'></a></td>");
-		document.write("<td width='19%'><a href='/contact/' target='_top'><img src="+contact+" width='104' height='32' border='0'></a></td>");
-		break;
-	case "support_home" :
-		document.write("<td width='15%'><a href='/NASApp/nol/ShoppingCart' target='_top'><img src='/images/header/hd_top_shoppingcart.jpg' width='90' height='32' border='0'></a></td>");
-		document.write("<td width='17%'><a href='/contact/' target='_top'><img src="+contact+" width='104' height='32' border='0'></a></td>");
-		break;
-	case "contact" :
-		document.write("<td width='15%'><a href='/NASApp/nol/ShoppingCart' target='_top'><img src='/images/header/hd_top_shoppingcart.jpg' width='91' height='32' border='0'></a></td>");
-		document.write("<td width='19%'><img src="+contact+" width='103' height='32' border='0'></a></td>");
-		break;
-	case "other" :
-		document.write("<td width='15%'><a href='/NASApp/nol/ShoppingCart' target='_top'><img src='/images/header/hd_top_shoppingcart.jpg' width='91' height='32' border='0'></a></td>");
-		document.write("<td width='19%'><a href='/contact/' target='_top'><img src="+contact+" width='103' height='32' border='0'></a></td>");
-		break;
-	default :
-		document.write("<td width='15%'><a href='/NASApp/nol/ShoppingCart' target='_top'><img src='/images/header/hd_top_shoppingcart.jpg' width='91' height='32' border='0'></a></td>");
-		document.write("<td width='19%'><a href='/contact/' target='_top'><img src="+contact+" width='103' height='32' border='0'></a></td>");
-		break;
-}
-document.write("</tr>");
-document.write("</table>");
-document.write("</td>");
-/* *****This is the man graphic*****  */
-switch (header) {
-	case "store" :
-		document.write("<td rowspan='2' width='10'><img src="+man+" width='132' height='61'></td>");
-		break;
-	case "wirelessweb_home" :
-		document.write("<td rowspan='2' width='114'><img src="+man+" width='132' height='61'></td>");
-		break;
-	case "account_home" :
-		document.write("<td rowspan='2' width='103' align='left'><img src="+man+" width='130' height='61'></td>");
-		break;
-	case "login" :
-		document.write("<td rowspan='2' width='38' align='left'><img src="+man+" width='132' height='61'></td>");
-		break;
-	case "support_home" :
-		document.write("<td rowspan='2' width='121'><img src="+man+" width='132' height='61'></td>");
-		break;
-	case "other" :
-		document.write("<td rowspan='2' width='113'><img src="+man+" width='132' height='61'></td>");
-		break;
-	default :
-		document.write("<td rowspan='2' width='113'><img src="+man+" width='132' height='61'></td>");
-		break;
-}
-document.write("</tr>");
-document.write("<tr>");
-/* *****This is the second row of pictures table*****  */
-switch (header) {
-	case "store" :
-		document.write("<td width='61'><a href='/index.shtml' target='_top'><img src="+home+" width='61' height='29' border='0'></a></td>");
-		document.write("<td width='124'><a href='/NASApp/nol/StoreLanding' target='_top'><img src="+store+" width='124' height='29' border='0'></a></td>");
-		document.write("<td width='125'><a href='/support/' target='_top'><img src="+support+" width='125' height='29' border='0'></a></td>");
-		document.write("<td width='96'><a href='/NASApp/nol/WWLandingServlet' target='_top'><img src="+wirelessweb+" width='96' height='29' border='0'></a></td>");
-		document.write("<td width='96'><a href='/about/' target='_top'><img src="+about+" width='96' height='29' border='0'></a></td>");
-		document.write("<td width='98'><a href='/NASApp/nol/AMHomeServlet' target='_top'><img src="+account+" width='98' height='29' border='0'></a></td>");
-		break;
-	case "wirelessweb_home" :
-		document.write("<td width='61' align='left'><a href='/index.shtml' target='_top'><img src="+home+" width='61' height='29' border='0'></a></td>");
-		document.write("<td width='124'><a href='/NASApp/nol/StoreLanding' target='_top'><img src="+store+" width='124' height='29' border='0'></a></td>");
-		document.write("<td width='125'><a href='/support/' target='_top'><img src="+support+" width='125' height='29' border='0'></a></td>");
-		document.write("<td width='96'><img src="+wirelessweb+" width='96' height='29' border='0'></a></td>");
-		document.write("<td width='96'><a href='/about/' target='_top'><img src="+about+" width='96' height='29' border='0'></a></td>");
-		document.write("<td width='99'><a href='/NASApp/nol/AMHomeServlet' target='_top'><img src="+account+" width='99' height='29' border='0'></a></td>");
-		break;
-			
-	case "account_home" :
-		document.write("<td width='61' align='left'><a href='/index.shtml' target='_top'><img src="+home+" width='61' height='29' border='0'></a></td>");
-		document.write("<td width='124'><a href='/NASApp/nol/StoreLanding' target='_top'><img src="+store+" width='124' height='29' border='0'></a></td>");
-		document.write("<td width='125'><a href='/support/' target='_top'><img src="+support+" width='125' height='29' border='0'></a></td>");
-		document.write("<td width='96'><a href='/NASApp/nol/WWLandingServlet' target='_top'><img src="+wirelessweb+" width='96' height='29' border='0'></a></td>");
-		document.write("<td width='96'><a href='/about/' target='_top'><img src="+about+" width='96' height='29' border='0'></a></td>");
-		document.write("<td width='100'><a href='/NASApp/nol/AMHomeServlet' target='_top'><img src="+account+" width='98' height='29' border='0'></a></td>");
-		break;
-	case "support_home" :
-		document.write("<td width='61' align='right'><a href='/index.shtml' target='_top'><img src="+home+" width='61' height='29' border='0'></a></td>");
-		document.write("<td width='124'><a href='/NASApp/nol/StoreLanding' target='_top'><img src="+store+" width='124' height='29' border='0'></a></td>");
-		document.write("<td width='125'><a href='/support/' target='_top'><img src="+support+" width='125' height='29' border='0'></a></td>");
-		document.write("<td width='96'><a href='/NASApp/nol/WWLandingServlet' target='_top'><img src="+wirelessweb+" width='96' height='29' border='0'></a></td>");
-		document.write("<td width='96'><a href='/about/' target='_top'><img src="+about+" width='96' height='29' border='0'></a></td>");
-		document.write("<td width='98'><a href='/NASApp/nol/AMHomeServlet' target='_top'><img src="+account+" width='98' height='29' border='0'></a></td>");
-		break;
-	case "about_home" :
-		document.write("<td width='63' align='right'><a href='/index.shtml' target='_top'><img src="+home+" width='61' height='29' border='0'></a></td>");
-		document.write("<td width='124'><a href='/NASApp/nol/StoreLanding' target='_top'><img src="+store+" width='124' height='29' border='0'></a></td>");
-		document.write("<td width='125'><a href='/support/' target='_top'><img src="+support+" width='125' height='29' border='0'></a></td>");
-		document.write("<td width='96'><a href='/NASApp/nol/WWLandingServlet' target='_top'><img src="+wirelessweb+" width='96' height='29' border='0'></a></td>");
-		document.write("<td width='96'><img src="+about+" width='96' height='29' border='0'></a></td>");
-		document.write("<td width='98'><a href='/NASApp/nol/AMHomeServlet' target='_top'><img src="+account+" width='98' height='29' border='0'></a></td>");
-		break;
-	case "home" :
-		document.write("<td width='63' align='right'><img src="+home+" width='61' height='29' border='0'></td>");
-		document.write("<td width='124'><a href='/NASApp/nol/StoreLanding' target='_top'><img src="+store+" width='124' height='29' border='0'></a></td>");
-		document.write("<td width='125'><a href='/support/' target='_top'><img src="+support+" width='125' height='29' border='0'></a></td>");
-		document.write("<td width='96'><a href='/NASApp/nol/WWLandingServlet' target='_top'><img src="+wirelessweb+" width='96' height='29' border='0'></a></td>");
-		document.write("<td width='96'><a href='/about/' target='_top'><img src="+about+" width='96' height='29' border='0'></a></td>");
-		document.write("<td width='98'><a href='/NASApp/nol/AMHomeServlet' target='_top'><img src="+account+" width='98' height='29' border='0'></a></td>");
-		break;
-	case "login" :
-		document.write("<td width='63' align='right'><a href='/index.shtml' target='_top'><img src="+home+" width='61' height='29' border='0'></a></td>");
-		document.write("<td width='124'><a href='/NASApp/nol/StoreLanding' target='_top'><img src="+store+" width='124' height='29' border='0'></a></td>");
-		document.write("<td width='125'><a href='/support/' target='_top'><img src="+support+" width='125' height='29' border='0'></a></td>");
-		document.write("<td width='96'><a href='/NASApp/nol/WWLandingServlet' target='_top'><img src="+wirelessweb+" width='96' height='29' border='0'></a></td>");
-		document.write("<td width='96'><a href='/about/' target='_top'><img src="+about+" width='96' height='29' border='0'></a></td>");
-		document.write("<td width='98'><img src="+account+" width='98' height='29' border='0'></a></td>");
-		break;
-	case "other" :
-		document.write("<td width='63' align='right'><a href='/index.shtml' target='_top'><img src="+home+" width='61' height='29' border='0'></a></td>");
-		document.write("<td width='124'><a href='/NASApp/nol/StoreLanding' target='_top'><img src="+store+" width='124' height='29' border='0'></a></td>");
-		document.write("<td width='125'><a href='/support/' target='_top'><img src="+support+" width='125' height='29' border='0'></a></td>");
-		document.write("<td width='96'><a href='/NASApp/nol/WWLandingServlet' target='_top'><img src="+wirelessweb+" width='96' height='29' border='0'></a></td>");
-		document.write("<td width='96'><a href='/about/' target='_top'><img src="+about+" width='96' height='29' border='0'></a></td>");
-		document.write("<td width='98'><a href='/NASApp/nol/AMHomeServlet' target='_top'><img src="+account+" width='98' height='29' border='0'></a></td>");
-		break;
-	default :
-		document.write("<td width='63' align='right'><a href='/index.shtml' target='_top'><img src="+home+" width='61' height='29' border='0'></a></td>");
-		document.write("<td width='124'><a href='/NASApp/nol/StoreLanding' target='_top'><img src="+store+" width='124' height='29' border='0'></a></td>");
-		document.write("<td width='125'><a href='/support/' target='_top'><img src="+support+" width='125' height='29' border='0'></a></td>");
-		document.write("<td width='96'><a href='/NASApp/nol/WWLandingServlet' target='_top'><img src="+wirelessweb+" width='96' height='29' border='0'></a></td>");
-		document.write("<td width='96'><a href='/about/' target='_top'><img src="+about+" width='96' height='29' border='0'></a></td>");
-		document.write("<td width='98'><a href='/NASApp/nol/AMHomeServlet' target='_top'><img src="+account+" width='98' height='29' border='0'></a></td>");
-		break;
-}
-document.write("</tr>");
-document.write("</table>");
 
-/* ***** Header End ***** */
+function dropit(theMenu) {
+	if (!oldIE && eval(theMenu + ".locked") == false) {
+		eval(theMenu + '.sty.visibility = (NS4)? "hide" : "hidden"')
+		currentMenu = ""
+		theName = theMenu.replace(/Lyr/, "")
+		turnoff(theName)
+	}
+}
 
-</script><table width="715" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td colspan="6"><table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td colspan="2"><a href="/index.shtml" target="_top"><img src="/images/header/hd_top_register_1.gif" border="0"></a><img src="/images/header/hd_top_register_2.gif" border="0"><a href="/NASApp/nol/InitialRegistrationServlet" target="_top"><img src="/images/header/hd_top_register_3.gif" border="0"></a><img src="/images/header/hd_top_register_4.gif" border="0"></td><td width="15%"><a href="/NASApp/nol/ShoppingCart" target="_top"><img src="/images/header/hd_top_shoppingcart.jpg" width="91" height="32" border="0"></a></td><td width="19%"><a href="/contact/" target="_top"><img src="/images/header/co_head_button_off.jpg" alt="Contact Us" width="103" height="32" border="0"></a></td></tr></tbody></table></td><td rowspan="2" width="113"><img src="/images/header/hd_face_homeandcontact.jpg" width="132" height="61"></td></tr><tr><td width="63" align="right"><a href="/index.shtml" target="_top"><img src="/images/header/hh_head_button_off.jpg" alt="Nextel Home" width="61" height="29" border="0"></a></td><td width="124"><a href="/NASApp/nol/StoreLanding" target="_top"><img src="/images/header/st_head_button_off.jpg" alt="Phones &amp; Services" width="124" height="29" border="0"></a></td><td width="125"><a href="/support/" target="_top"><img src="/images/header/cs_head_button_off.jpg" alt="Customer Support" width="125" height="29" border="0"></a></td><td width="96"><a href="/NASApp/nol/WWLandingServlet" target="_top"><img src="/images/header/ww_head_button_off.jpg" alt="Wireless Web" width="96" height="29" border="0"></a></td><td width="96"><a href="/about/" target="_top"><img src="/images/header/ab_head_button_off.jpg" alt="About Nextel" width="96" height="29" border="0"></a></td><td width="98"><a href="/NASApp/nol/AMHomeServlet" target="_top"><img src="/images/header/ma_head_button_off.jpg" alt="My Account" width="98" height="29" border="0"></a></td></tr></tbody></table>
+function highlight(theMenu) {
+	if (IE || DOM) {
+		eval(theMenu + '.sty.backgroundColor = "' + menuHighlight + '"')
+		eval(theMenu + '.sty.cursor = "hand"')
+	}
+	if (NS4) {
+		eval(theMenu + '.sty.bgColor = "' + menuHighlight + '"')
+	}
+}
+
+function unhighlight(theMenu) {
+	if (IE || DOM) {
+		eval(theMenu + '.sty.backgroundColor = "' + menuColor + '"')
+		eval(theMenu + '.sty.cursor = "auto"')
+	}
+	if (NS4) {
+		eval(theMenu + '.sty.bgColor = "' + menuColor + '"')
+	}
+}
+
+function lock(theMenu) {
+	eval(theMenu + ".locked = true")
+}
+
+function unLock(theMenu) {
+	eval(theMenu + ".locked = false")
+	dropMenu(theMenu)
+}
+
+function linkto(link) {
+	location = link
+}
+
+
+
+	</script></head>
+<!--START: Header-->
+
+	<body bgcolor="#FFFFFF" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" onload="getSection()"><div id="phones_plansLayer" style="position: absolute; width: 175px; z-index: 20; background-color: rgb(82, 85, 82); visibility: hidden; left: 10px; top: 75px;" onmouseout="unLock('phones_plansLyr')" onmouseover="lock('phones_plansLyr')"><div id="phones_plansLayer0" style="position: relative; background-color: #8c8a8c; z-index: 030; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('phones_plans0Lyr')" onmouseout="unhighlight('phones_plans0Lyr')" onclick="linkto('/NASApp/onlinestore/PhoneLanding?initstate=true&amp;redirect=false')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/NASApp/onlinestore/PhoneLanding?initstate=true&amp;redirect=false" class="menuLink">Phones</a></td></tr></tbody></table></div><div id="phones_plansLayer1" style="position: relative; background-color: #8c8a8c; z-index: 030; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('phones_plans1Lyr')" onmouseout="unhighlight('phones_plans1Lyr')" onclick="linkto('/phones_plans/phonecomparison.shtml')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/phones_plans/phonecomparison.shtml" class="menuLink">Compare Phones</a></td></tr></tbody></table></div><div id="phones_plansLayer2" style="position: relative; background-color: #8c8a8c; z-index: 030; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('phones_plans2Lyr')" onmouseout="unhighlight('phones_plans2Lyr')" onclick="linkto('/NASApp/onlinestore/RatePlanLanding?initstate=true&amp;redirect=false')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/NASApp/onlinestore/RatePlanLanding?initstate=true&amp;redirect=false" class="menuLink">Rate Plans</a></td></tr></tbody></table></div><div id="phones_plansLayer3" style="position: relative; background-color: #8c8a8c; z-index: 030; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('phones_plans3Lyr')" onmouseout="unhighlight('phones_plans3Lyr')" onclick="linkto('/phones_plans/plans/rateplancomparison.shtml')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/phones_plans/plans/rateplancomparison.shtml" class="menuLink">Compare Rate Plans</a></td></tr></tbody></table></div><div id="phones_plansLayer4" style="position: relative; background-color: #8c8a8c; z-index: 030; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('phones_plans4Lyr')" onmouseout="unhighlight('phones_plans4Lyr')" onclick="linkto('/phones_plans/promos/index.shtml')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/phones_plans/promos/index.shtml" class="menuLink">Promotions</a></td></tr></tbody></table></div><div id="phones_plansLayer5" style="position: relative; background-color: #8c8a8c; z-index: 030; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('phones_plans5Lyr')" onmouseout="unhighlight('phones_plans5Lyr')" onclick="linkto('/phones_plans/promos/targetpromoindex.shtml')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/phones_plans/promos/targetpromoindex.shtml" class="menuLink">Value Packs</a></td></tr></tbody></table></div><div id="phones_plansLayer6" style="position: relative; background-color: #8c8a8c; z-index: 030; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 1px;" onmouseover="highlight('phones_plans6Lyr')" onmouseout="unhighlight('phones_plans6Lyr')" onclick="linkto('/NASApp/onlinestore/AccessoryLanding?initstate=true&amp;redirect=false')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/NASApp/onlinestore/AccessoryLanding?initstate=true&amp;redirect=false" class="menuLink">Accessories</a></td></tr></tbody></table></div></div>
+<div id="servicesLayer" style="position: absolute; width: 175px; z-index: 20; background-color: rgb(82, 85, 82); visibility: hidden; left: 149px; top: 75px;" onmouseout="unLock('servicesLyr')" onmouseover="lock('servicesLyr')"><div id="servicesLayer0" style="position: relative; background-color: #8c8a8c; z-index: 130; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('services0Lyr')" onmouseout="unhighlight('services0Lyr')" onclick="linkto('/services/coverage/index.shtml')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/services/coverage/index.shtml" class="menuLink">Coverage</a></td></tr></tbody></table></div><div id="servicesLayer1" style="position: relative; background-color: #8c8a8c; z-index: 130; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('services1Lyr')" onmouseout="unhighlight('services1Lyr')" onclick="linkto('/services/directconnect.shtml')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/services/directconnect.shtml" class="menuLink">Direct Connect</a></td></tr></tbody></table></div><div id="servicesLayer2" style="position: relative; background-color: #8c8a8c; z-index: 130; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('services2Lyr')" onmouseout="unhighlight('services2Lyr')" onclick="linkto('/services/nextelonline/index.shtml')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/services/nextelonline/index.shtml" class="menuLink">Nextel Online</a></td></tr></tbody></table></div><div id="servicesLayer3" style="position: relative; background-color: #8c8a8c; z-index: 130; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('services3Lyr')" onmouseout="unhighlight('services3Lyr')" onclick="linkto('/services/mobilemessaging/index.shtml')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/services/mobilemessaging/index.shtml" class="menuLink">Mobile Messaging</a></td></tr></tbody></table></div><div id="servicesLayer4" style="position: relative; background-color: #8c8a8c; z-index: 130; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('services4Lyr')" onmouseout="unhighlight('services4Lyr')" onclick="linkto('/services/nextelonline/email_qual.shtml')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/services/nextelonline/email_qual.shtml" class="menuLink">Email Services</a></td></tr></tbody></table></div><div id="servicesLayer5" style="position: relative; background-color: #8c8a8c; z-index: 130; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('services5Lyr')" onmouseout="unhighlight('services5Lyr')" onclick="linkto('/services/javaapps/index.shtml')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/services/javaapps/index.shtml" class="menuLink">Java Applications</a></td></tr></tbody></table></div><div id="servicesLayer6" style="position: relative; background-color: #8c8a8c; z-index: 130; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 1px;" onmouseover="highlight('services6Lyr')" onmouseout="unhighlight('services6Lyr')" onclick="linkto('/services/worldwide/index.shtml')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/services/worldwide/index.shtml" class="menuLink">Worldwide Service</a></td></tr></tbody></table></div></div>
+<div id="supportLayer" style="position: absolute; width: 175px; z-index: 20; background-color: rgb(82, 85, 82); visibility: hidden; left: 223px; top: 75px;" onmouseout="unLock('supportLyr')" onmouseover="lock('supportLyr')"><div id="supportLayer0" style="position: relative; background-color: #8c8a8c; z-index: 230; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('support0Lyr')" onmouseout="unhighlight('support0Lyr')" onclick="linkto('/support/gettingstarted.shtml')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/support/gettingstarted.shtml" class="menuLink">Phone Setup</a></td></tr></tbody></table></div><div id="supportLayer1" style="position: relative; background-color: #8c8a8c; z-index: 230; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('support1Lyr')" onmouseout="unhighlight('support1Lyr')" onclick="linkto('/support/user_guides/index.shtml')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/support/user_guides/index.shtml" class="menuLink">User's Guides</a></td></tr></tbody></table></div><div id="supportLayer2" style="position: relative; background-color: #8c8a8c; z-index: 230; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('support2Lyr')" onmouseout="unhighlight('support2Lyr')" onclick="linkto('/support/readbill/index.shtml')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/support/readbill/index.shtml" class="menuLink">How to Read Your Bill</a></td></tr></tbody></table></div><div id="supportLayer3" style="position: relative; background-color: #8c8a8c; z-index: 230; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('support3Lyr')" onmouseout="unhighlight('support3Lyr')" onclick="linkto('/support/servicerepair/index.shtml')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/support/servicerepair/index.shtml" class="menuLink">Service and Repair</a></td></tr></tbody></table></div><div id="supportLayer4" style="position: relative; background-color: #8c8a8c; z-index: 230; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 1px;" onmouseover="highlight('support4Lyr')" onmouseout="unhighlight('support4Lyr')" onclick="linkto('/support/faq/index.shtml')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/support/faq/index.shtml" class="menuLink">FAQs</a></td></tr></tbody></table></div></div>
+<div id="mynextelLayer" style="position: absolute; width: 175px; z-index: 20; background-color: rgb(82, 85, 82); visibility: hidden; left: 351px; top: 75px;" onmouseout="unLock('mynextelLyr')" onmouseover="lock('mynextelLyr')"><div id="mynextelLayer0" style="position: relative; background-color: #8c8a8c; z-index: 330; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('mynextel0Lyr')" onmouseout="unhighlight('mynextel0Lyr')" onclick="linkto('/NASApp/care/WCMainServlet?operation=showAccountSummary')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/NASApp/care/WCMainServlet?operation=showAccountSummary" class="menuLink">Account Summary</a></td></tr></tbody></table></div><div id="mynextelLayer1" style="position: relative; background-color: #8c8a8c; z-index: 330; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('mynextel1Lyr')" onmouseout="unhighlight('mynextel1Lyr')" onclick="linkto('/NASApp/addrbook/ABEntryServlet')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/NASApp/addrbook/ABEntryServlet" class="menuLink">Address Book</a></td></tr></tbody></table></div><div id="mynextelLayer2" style="position: relative; background-color: #8c8a8c; z-index: 330; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('mynextel2Lyr')" onmouseout="unhighlight('mynextel2Lyr')" onclick="linkto('/NASApp/care/WCMainServlet?operation=showInvoiceStatus')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/NASApp/care/WCMainServlet?operation=showInvoiceStatus" class="menuLink">Billing Statements</a></td></tr></tbody></table></div><div id="mynextelLayer3" style="position: relative; background-color: #8c8a8c; z-index: 330; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('mynextel3Lyr')" onmouseout="unhighlight('mynextel3Lyr')" onclick="linkto('http://nextel.wirelessinbox.com/')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="http://nextel.wirelessinbox.com/" class="menuLink">Mobile Email</a></td></tr></tbody></table></div><div id="mynextelLayer4" style="position: relative; background-color: #8c8a8c; z-index: 330; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('mynextel4Lyr')" onmouseout="unhighlight('mynextel4Lyr')" onclick="linkto('/NASApp/care/WCCreditCardPaymentServlet?operation=displayCreditCardPaymentPage&amp;clearValidParams=true')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/NASApp/care/WCCreditCardPaymentServlet?operation=displayCreditCardPaymentPage&amp;clearValidParams=true" class="menuLink">Pay My Bill (Credit Card)</a></td></tr></tbody></table></div><div id="mynextelLayer5" style="position: relative; background-color: #8c8a8c; z-index: 330; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('mynextel5Lyr')" onmouseout="unhighlight('mynextel5Lyr')" onclick="linkto('/NASApp/care/WCRVMPServlet')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/NASApp/care/WCRVMPServlet" class="menuLink">Reset Voice Mail Password</a></td></tr></tbody></table></div><div id="mynextelLayer6" style="position: relative; background-color: #8c8a8c; z-index: 330; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('mynextel6Lyr')" onmouseout="unhighlight('mynextel6Lyr')" onclick="linkto('http://messaging.nextel.com/cgi/mPageExt.dll?buildIndAddressPage&amp;entry=1')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="http://messaging.nextel.com/cgi/mPageExt.dll?buildIndAddressPage&amp;entry=1" class="menuLink">Send a Message</a></td></tr></tbody></table></div><div id="mynextelLayer7" style="position: relative; background-color: #8c8a8c; z-index: 330; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 1px;" onmouseover="highlight('mynextel7Lyr')" onmouseout="unhighlight('mynextel7Lyr')" onclick="linkto('/mynextel/index.shtml')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/mynextel/index.shtml" class="menuLink">Software Updates</a></td></tr></tbody></table></div></div>
+<div id="aboutLayer" style="position: absolute; width: 175px; z-index: 20; background-color: rgb(82, 85, 82); visibility: hidden; left: 432px; top: 75px;" onmouseout="unLock('aboutLyr')" onmouseover="lock('aboutLyr')"><div id="aboutLayer0" style="position: relative; background-color: #8c8a8c; z-index: 430; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('about0Lyr')" onmouseout="unhighlight('about0Lyr')" onclick="linkto('http://www.nexteljobs.com/')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="http://www.nexteljobs.com/" class="menuLink">Career Opportunities</a></td></tr></tbody></table></div><div id="aboutLayer1" style="position: relative; background-color: #8c8a8c; z-index: 430; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('about1Lyr')" onmouseout="unhighlight('about1Lyr')" onclick="linkto('/about/corporateinfo/profile.shtml')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/about/corporateinfo/profile.shtml" class="menuLink">Company Profile</a></td></tr></tbody></table></div><div id="aboutLayer2" style="position: relative; background-color: #8c8a8c; z-index: 430; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('about2Lyr')" onmouseout="unhighlight('about2Lyr')" onclick="linkto('http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=NXTL&amp;script=700')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=NXTL&amp;script=700" class="menuLink">Financial Reports</a></td></tr></tbody></table></div><div id="aboutLayer3" style="position: relative; background-color: #8c8a8c; z-index: 430; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('about3Lyr')" onmouseout="unhighlight('about3Lyr')" onclick="linkto('http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=NXTL&amp;script=2300')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=NXTL&amp;script=2300" class="menuLink">Investor Relations</a></td></tr></tbody></table></div><div id="aboutLayer4" style="position: relative; background-color: #8c8a8c; z-index: 430; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 0px;" onmouseover="highlight('about4Lyr')" onmouseout="unhighlight('about4Lyr')" onclick="linkto('/about/corporateinfo/news.shtml')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="/about/corporateinfo/news.shtml" class="menuLink">Nextel News</a></td></tr></tbody></table></div><div id="aboutLayer5" style="position: relative; background-color: #8c8a8c; z-index: 430; height:17px;  border-top-width: 1px; border-left-width: 1px; border-bottom-width: 0px; border-right-width: 1px; border-color: #292829; border-style: solid; width:174px;  border-bottom-width: 1px;" onmouseover="highlight('about5Lyr')" onmouseout="unhighlight('about5Lyr')" onclick="linkto('http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=NXTL&amp;script=400&amp;layout=9')"><table cellspacing="2"><tbody><tr><td><img src="/img/topnav/white_arrow.gif" border="0"><a href="http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=NXTL&amp;script=400&amp;layout=9" class="menuLink">Press Releases</a></td></tr></tbody></table></div></div>
+
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="735">
+	<tbody><tr>
+		<td colspan="2" bgcolor="#900028">
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody><tr>
+				<td><a href="/index.shtml"><img src="/img/topnav/logo.gif" width="152" height="49" border="0" alt="NEXTEL"></a></td>
+				<td align="right" class="redbar"><a href="/NASApp/onlinestore/ShoppingCart" class="redbar">View Cart</a> | <a href="/contact/index.shtml" class="redbar">Contact Us</a>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td colspan="2" bgcolor="#000000"><img src="/img/spacer.gif" width="525" height="3" border="0"></td>
+	</tr>
+	<tr>
+		<td bgcolor="#9c9a9c">
+		<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td bgcolor="#8B8B8B"><img src="/img/spacer.gif" width="10" height="1"></td>
+				<td bgcolor="#8B8B8B"><a href="/NASApp/onlinestore/StoreLanding" onmouseover="showMenu('phones_plansLyr')" onmouseout="dropMenu('phones_plansLyr')"><img src="/img/topnav/phones_plans_off.gif" width="139" height="23" border="0" name="phones_plans" alt="Phones and Rate Plans"></a></td>
+				<td bgcolor="#8B8B8B"><a href="/services/index.shtml" onmouseover="showMenu('servicesLyr')" onmouseout="dropMenu('servicesLyr')"><img src="/img/topnav/services_off.gif" width="73" height="23" border="0" name="services" alt="Services"></a></td>
+				<td bgcolor="#FFFFFF"><img src="/img/spacer.gif" width="1" height="1"></td>
+				<td bgcolor="#9E9E9E"><a href="/support/index.shtml" onmouseover="showMenu('supportLyr')" onmouseout="dropMenu('supportLyr')"><img src="/img/topnav/support_off.gif" width="128" height="23" border="0" name="support" alt="Customer Support"></a></td>
+				<td bgcolor="#9E9E9E"><a href="/mynextel/index.shtml" onmouseover="showMenu('mynextelLyr')" onmouseout="dropMenu('mynextelLyr')"><img src="/img/topnav/mynextel_off.gif" width="81" height="23" border="0" name="mynextel" alt="MyNextel"></a></td>
+				<td bgcolor="#9E9E9E"><a href="/about/index.shtml" onmouseover="showMenu('aboutLyr')" onmouseout="dropMenu('aboutLyr')"><img src="/img/topnav/about_off.gif" width="102" height="23" border="0" name="about" alt="About Nextel"></a></td>
+			</tr>
+		</tbody></table>
+		</td>
+		<td bgcolor="#9c9a9c" align="right">&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="2" bgcolor="#000000"><img src="/img/spacer.gif" width="1" height="1"></td>
+	</tr>
+</tbody></table>
+
+
+
+<!--END: Header-->
 
 <table border="0" cellspacing="0" cellpadding="0" width="735">
   <tbody><tr> 
@@ -333,8 +357,8 @@ document.write("</table>");
                 Nextel Communications respects the privacy of visitors to our 
                 site. Please read this Privacy Policy carefully so that you understand 
                 our privacy practices. If you have any questions about this Privacy 
-                Policy, please contact us at <a href="/NASApp/nol/CustomerCareServlet/">Customer 
-                Care</a>. </span></p>
+                Policy, please <a href="/NASApp/care/WCGeneralQuestionsFeedbackServlet">contact 
+                Customer Care online</a>. </span></p>
               <p><span class="bodytext">Children should always get permission 
                 from their parents before sending any information about themselves 
                 (such as their names, email addresses, and phone numbers) over 
@@ -379,8 +403,8 @@ on nextel.com, you may need to supply additional information, such as: </span></
 </div>
 <ul>
 <li> 
-<div align="left"><span class="bodytext"> Nextel phone number or Direct Connect 
-(two way radio) number </span></div>
+                <div align="left"><span class="bodytext"> Nextel Phone Number 
+                  or Direct Connect (two way radio) number </span></div>
 </li>
 <li> 
 <div align="left"><span class="bodytext"> Industry category </span></div>
@@ -403,10 +427,10 @@ equipment discounts, and rate plan promotions. </span></p>
                 prefer not to receive such information or offers. You can always 
                 change your election by clicking on "Update Registration," which 
                 appears on the Customer Support page of our site or just click 
-                on this link <a href="/NASApp/nol/UpdateRegistrationServlet">update 
-                registration information</a>. You'll need your Member Name and 
-                Password to make changes to your profile. If you've forgotten 
-                your Password, you may <a href="/NASApp/nol/ChangeMyPasswordServlet">change 
+                on the <a href="/NASApp/registration/UpdateRegistrationServlet">update 
+                registration information</a> link. You'll need your Member Name 
+                and Password to make changes to your profile. If you've forgotten 
+                your Password, you may <a href="/NASApp/registration/ChangeMyPasswordServlet">change 
                 your password</a> online. Of course, we also use your email address 
                 to answer any email you send us.</span></p>
 <p><span class="bodytext"> To help us tailor our site to the needs and interests 
@@ -487,28 +511,34 @@ transferred assets. </span></p>
   </tr>
 </tbody></table>
 
-<table width="735" border="0" cellspacing="0" cellpadding="0" height="20">
-  <tbody><tr>
-    <td height="29" class="footer"> 
-      <div align="center"> 
-        <p><a href="/index.shtml" target="_top">Home</a> | <a href="/NASApp/nol/StoreLanding" target="_top">Phones 
-          &amp; Services</a> | <a href="/support/index.shtml" target="_top">Customer 
-          Support</a> | <a href="/NASApp/nol/WWLandingServlet" target="_top">Wireless 
-          Web</a> | &nbsp;<a href="/about/index.shtml" target="_top">About Nextel</a> 
-          | <a href="/NASApp/nol/AMHomeServlet" target="_top">My Account</a> | 
-          <a href="/contact/index.shtml" target="_top">Contact Us</a> <a href="/sitemap.shtml"><br>
-          Site Map</a> | Customer Care 1-800-639-6111 (<a href="/contact/index.shtml">Hours 
-          of Operation</a>) </p>
-        <p> <span class="footer">By accessing this site, you accept the terms 
-          of our <a href="/registration/visitor_agreement.shtml" target="_top"> 
-          Visitor Agreement</a> and <a href="/registration/privacy_policy.shtml" target="_top">Privacy 
-          Policy</a>.<br>
-          ©2001 Nextel Communications. All rights reserved. <a href="/legal.shtml" target="_top">Copyright 
-          and Disclaimer Notice</a></span></p>
-        </div>
-    </td>
-  </tr>
+<!--START: Bottom footer table-->
+<table border="0" cellpadding="0" cellspacing="0" width="735">
+	<tbody><tr>
+		<td><img src="/img/spacer.gif" width="14" height="25"></td>
+	</tr>
+	<tr>
+		<td bgcolor="#BFBFBF"><img src="/img/spacer.gif" width="1" height="2"></td>
+	</tr>
+	<tr>
+		<td bgcolor="#ededed">
+		<table border="0" cellpadding="0" cellspacing="14" width="735">
+			<tbody><tr>
+				<td class="footertext"><a href="/NASApp/onlinestore/StoreLanding" class="promo">Phones &amp; Rate Plans</a> | <a href="/services/index.shtml" class="promo">Services</a> | <a href="/support/index.shtml" class="promo">Customer Support</a><br>
+				<a href="/mynextel/index.shtml" class="promo">MyNextel</a> | <a href="/about/index.shtml" class="promo">About Nextel</a> | <a href="/sitemap.shtml" class="promo">Sitemap</a><br>
+				<img src="/img/spacer.gif" width="442" height="14"><br>
+				By accessing this site, you accept the terms of our <a href="/visitor_agreement.shtml">Visitor Agreement</a> and <a href="/privacy_policy.shtml">Privacy Policy</a>. © 1995-2002 Nextel Communications. All rights reserved. <a href="/legal.shtml">Copyright and Disclaimer Notice</a></td>
+				<td valign="top"><a href="https://digitalid.verisign.com/as2/8f925e9bc72d0c501eba8d312795c525" target="_blank"><img src="/img/verisign.gif" alt="Verisign" border="0"></a></td>
+				<td valign="top"><a href="/fact_driver.shtml"><img src="/img/talk_safely.gif" alt="Talk Safely" border="0"></a></td>
+			</tr>
+		</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td bgcolor="#666666"><img src="/img/spacer.gif" width="1" height="2"></td>
+	</tr>
 </tbody></table>
+<!--END: Bottom footer table-->
+
 
 
 </body></html>
