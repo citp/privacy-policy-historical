@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the volition.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202233700id_/http%3A//www.volition.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volition.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606144123id_/http%3A//www.volition.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Volition.com LLC PRIVACY POLICY STATEMENT
 
@@ -10,7 +10,9 @@
 
 [](http://www.volition.com/prize.html)
 
-[](http://www.volition.com/gear.html)
+[](http://www.volition.com/DoubleLotto/)
+
+[](http://www.volition.com/gear/)
 
 [](http://www.volition.com/chat/)
 
@@ -40,7 +42,7 @@
 
 [](http://www.volition.com/recommend.html)
 
-[](http://www.volition.com/cgi-bin/ads.pl?banner=alladvant120)
+[](http://www.volition.com/cgi-bin/ads.pl?banner=prizegames)
 
 |   |  This Privacy Policy Statement sets forth the privacy policy pertaining to this Site, www.volition.com which is owned by Volition.com LLC (" Volition.com "). By using this Site, you are agreeing to the terms set forth in this Privacy Policy Statement.
 
