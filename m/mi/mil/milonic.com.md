@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the milonic.com privacy policy that was archived on 2002-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021001102423id_/http%3A//www.milonic.com/menu/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milonic.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603210617id_/http%3A//www.milonic.com/menu/privacy.php) for the most accurate reproduction.*
 
-# Cross Browser DHTML JavaScript Web Site Navigation Menu. Popup Menus Sample Demos, & Scripts, DHTML Help & Dynamic HTML Source Code
+# DHTML Cross Browser Javascript Menu, DHTML Menus & Web Site Navigation Menus. Popup Menus Sample Demos, JavaScript WebSite Menu, DHTML Help & Dynamic HTML Source Code
 
 **Milonic Solutions Privacy Policy  
 **  
