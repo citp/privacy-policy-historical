@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the utteraccess.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207212411id_/http%3A//www.utteraccess.com/forums/viewprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utteraccess.com privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624233338id_/http%3A//www.utteraccess.com/forums/viewprivacy.php) for the most accurate reproduction.*
 
-# Microsoft Access Help... and more! UtterAccess.com - Privacy statement
+# Microsoft Access Help ...and more! UtterAccess.com - Privacy statement
 
 **Welcome to UtterAccess.com!**
 
