@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the facethejury.com privacy policy that was archived on 2001-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011004022416id_/http%3A//facethejury.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facethejury.com privacy policy that was archived on 2002-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020608005118id_/http%3A//www.facethejury.com/privacy.asp) for the most accurate reproduction.*
 
 # FaceTheJury - Privacy Policy -
 
@@ -6,15 +6,15 @@
   
   
   
-  
-  
-  
-  
+
+
+[](http://www.stylerave.com/)
+
   
   
 
 
-**We get some pretty crazy email here at FTJ. If you'd like to see some of these crazy email requests and complaints, signup here and we'll send you our "top 5 laughers" of the week (this stuff is hilarious).** **Email:  
+**Check out our newsletter for the latest latest site news, hilarious emails we receive, and other special offers!** **Email:  
 **
 
   
