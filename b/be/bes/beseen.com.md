@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the beseen.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204184021id_/http%3A//aboutus.looksmart.com/corp.jhtml%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beseen.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604012806id_/http%3A//aboutus.looksmart.com/corp.jhtml%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # LookSmart About Us
 
-LookSmart has created this privacy statement in order to demonstrate our firm commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for the following LookSmart sites: [www.looksmart.com](http://www.looksmart.com/) and [www.beseen.com](https://web.archive.org/aboutus/corp/www.beseen.com;$sessionid$SPZJYOAAAARBHLAQQBTCOMA). 
+LookSmart has created this privacy statement in order to demonstrate our firm commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for the following LookSmart sites: [www.looksmart.com](http://www.looksmart.com/), [listings.looksmart.com](http://listings.looksmart.com/), and [www.beseen.com](http://www.beseen.com/). 
 
 The following questions are answered below: 
 
@@ -37,6 +37,8 @@ Fifth, we may collect credit card information if you register for any paid servi
 
 Sixth, we also collect information through the use of "pixel tags" included in email messages we may send to you. Pixel tags are tiny graphic files, not visible to the human eye, that are included in HTML-encoded email messages. When such a message is opened in an HTML-capable email program, the recipient's computer will access our server to retrieve the pixel tag file, allowing us to record and store, along with the recipient's email address, the date and time the recipient viewed the email message, that the recipient's email program is capable of receiving HTML-encoded email, and other standard logging information. The pixel tag also may see or read cookies. 
 
+Seventh, we contract with Coremetrics, a service partner, to provide us with a data collection and reporting service for our LookListings Small Business services. If you access the LookListings Small Business part of our web site, Coremetrics may collect information about you on our behalf. For further information, including how to opt out, please see: <http://www.coremetrics.com/info_eluminate2.html>. 
+
 **2.  What organization is collecting the information?**
 
 LookSmart usually collects the requested information. However, LookSmart has chosen select partners in order to provide you with full-service Web sites. LookSmart's partners provide users with services such as classified ads. In order to use these areas, it may be necessary to enter information that then goes to our partner and is not kept by LookSmart. The areas of our sites in which partners are collecting information may be cobranded with our partners' logos. 
@@ -48,7 +50,8 @@ Some of the sections in which we use content partners include, but are not limit
   * Localized content 
   * Horoscopes 
   * Chat 
-  * Weather
+  * Weather 
+  * Small Business
 
 
 
@@ -87,6 +90,8 @@ As previously noted, you may always choose to not provide us with any of the inf
 Certain users of Beseen (such as chatters) can review and modify their account or profile information on the site or alternatively by email. 
 
 LookSmart does not currently have a method for users to change their user information. In the case of personalized services, you will be able to modify your user information through personalization links on those pages. 
+
+We contract with Coremetrics, a service partner, to provide us with a data collection and reporting service for our LookListings Small Business services. If you access the LookListings Small Business part of our web site, Coremetrics may collect information about you on our behalf. For further information, including how to opt out, please see: <http://www.coremetrics.com/info_eluminate2.html>. 
 
 **7.  How can you delete your information or deactivate your membership?**
 
