@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineconversion.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603173836id_/http%3A//www.bluesparks.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineconversion.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206070136id_/http%3A//www.bluesparks.net/privacy.htm) for the most accurate reproduction.*
 
 # BlueSparks Network - Privacy Statement
 
@@ -8,7 +8,8 @@
 **[Online Conversion](http://www.onlineconversion.com/)  
 [Acronym Search](http://www.acronymsearch.com/)  
 [Lost Jungle](http://www.lostjungle.com/)  
-[Top100 Borland](http://www.top100borland.com/)
+[Top100 Borland](http://www.top100borland.com/)  
+[ComedyBarn.net](http://www.comedybarn.net/)
 
  Games I wrote   
 [Froggy Racing](http://www.prowler-pro.com/bluesparks/froggy/)  
@@ -46,10 +47,17 @@ Some forms may ask users to give us contact information (email address).
   * **AcronymSearch** : Contact information from the add and request forms is used to get in touch with the customer when necessary. This contact information is not required. After the add or request has been completed, the contact information is deleted.
   * **OnlineConversion** : Name and email is asked for in the Tell-a-Friend program. This information is not saved on our server and is used only for emailing your friend. Your Email address is asked when joining the mailing list. This information is saved on our server and used only for sending web page updates and occasional newsletters.
   * **LostJungle** : Name and email is asked for in the Tell-a-Friend program. This information is not saved on our server and is used only for emailing your friend.
+  * **ComedyBarn.net** : Name and email is asked for in the Tell-a-Friend program. This information is not saved on our server and is used only for emailing your friend.Your Email address is asked when joining the mailing list. This information is saved on our server and used only for sending daily or weekly jokes for which you signed up.
 
 
 
 **We will never give or sell your email address to anyone.**
+
+**Web Forms**
+
+**OnlineConversion.com:** Many of the forms ask you to enter information for using the conversions. Such as how many feet to convert to meters. Some may ask for personal information, such as your birthday, to tell you how many days old you are. These forms use "Client Side Scripting" and do not send any information to us. The information entered in these forms disappears as soon as you close your web browser. 
+
+**AcronymSearch.com:** The information typed into the acronym search, and reverse acronym search, is sent to our server and may be saved. We would use this information for determining the "most popular" acronym or something similar. We consider this information to be "non-personal" in nature, and can in no way be associated with any single person. 
 
 **Forums**
 
