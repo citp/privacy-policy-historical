@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the abbeynational.co.uk privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603182238id_/http%3A//www.abbeynational.co.uk/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abbeynational.co.uk privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008074703id_/http%3A//www.abbeynational.co.uk/privacy_statement.htm) for the most accurate reproduction.*
 
-# Abbey National: Privacy statement
+# Abbey: Privacy statement
 
   
 At Abbey National, we are committed to keeping your personal information secure & confidential both on-line and offline. We want you to enjoy your interaction with our website and its associated services, whether you are looking for information, using our on-line transactional services or applying for an account.
@@ -16,10 +16,12 @@ Below are some of the things that you can do to protect the security of your per
 'Freely accessible' sections of the website are those that inform you of our accounts and services. It excludes those areas where you apply on-line, obtain insurance quotations or undertake other transactional services, for example e-banking.
 
  **Site Tracking information.**   
-Abbey National uses 'cookie' based site tracking. A 'cookie' is a small file that resides on your computer's hard drive and enables us to monitor all unencrypted areas of our website. Site tracking helps us to review our content and improve site navigation. Our site tracking log data files do not collect personal information about you.
+Abbey National uses independent companies to measure and analyse the Internet usage across the Abbey National website. Abbey National uses third party measurement tracking code to collect core information on the usage of the Abbey National website. We collate information such as the number of page views that occur on the website, the number of unique visitors and common ways of arriving on or leaving the website. This enables us to review our content and improve site navigation.
 
- **'Cookies'**  
-A 'cookie' is a small text file that resides on your computer's hard drive. Abbey National's site tracking 'cookies' contain no name or address information. It consists of the following information:
+This aggregate, non-personal information is collated by third party agencies by using a "cookie" which contains a unique identifier. A 'cookie' is a small file that resides on your computer's hard drive and enables us to monitor areas of our website. This information is collected and aggregated, and in no way does this unique identifier identify a user personally. Abbey National does not and will not marry any data collected by these third parties with any personal information collected on the website. 
+
+**'Cookies'**  
+Abbey National's site tracking 'cookies' contain no name or address information. It consists of the following information:
 
 Your browser allows you to disable both permanent and temporary cookies. If you do disable cookies you may not be able to use the Abbey National on-line encrypted services within the Abbey National website. If you wish to disable cookies on your browser, follow the instructions below and select the disable/reject options instead.
 
@@ -76,7 +78,7 @@ Abbey National would like to remind you that you are entitled to access informat
 
 We will tell you if we intend to use your information for marketing purposes and we will give you the opportunity to opt out of such marketing if you wish.
 
-Abbey National is committed to keeping your personal information secure and confidential. We have introduced a [Peace of Mind Guarantee](http://www.abbeynational.co.uk/peace_mind_guarantee.htm).
+Abbey National is committed to keeping your personal information secure and confidential. We have introduced a [Peace of Mind Guarantee](http://www.abbey.com/peace_mind_guarantee.htm).
 
  **Links to other websites**  
 There are several places within this site which link to external websites. Abbey National does not accept responsibility for the content of these other sites.
@@ -93,7 +95,7 @@ Prior to entering your logon credentials, we take you to a secure part of our co
 
 In order to access your accounts we require 3 pieces of information from you to verify that you are authorised to view the account details. Firstly your card number is required, secondly a passcode is needed and finally a registration number. Only once all three parts of the data are confirmed as being correctly entered will we allow access to the accounts system.
 
-In addition, we have introduced a ['Peace of Mind Guarantee'](http://www.abbeynational.co.uk/peace_mind_guarantee.htm). When using the Abbey National On-line Services we will cover any losses from fraud - guaranteed; just as long as you have taken the necessary safeguards to keep your passcode and registration number secret and haven't deliberately involved yourself in fraud. 
+In addition, we have introduced a ['Peace of Mind Guarantee'](http://www.abbey.com/peace_mind_guarantee.htm). When using the Abbey National On-line Services we will cover any losses from fraud - guaranteed; just as long as you have taken the necessary safeguards to keep your passcode and registration number secret and haven't deliberately involved yourself in fraud. 
 
 All our on-line transactional services are protected by 'firewalls'. This technology monitors & prevents any unauthorised access to our back-end systems ensuring that no account/personal details can be accessed by 'hackers'.
 
