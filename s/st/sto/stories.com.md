@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stories.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201034315id_/http%3A//stories.com/main/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stories.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208093228id_/http%3A//www3.stories.com/main/privacy.php) for the most accurate reproduction.*
 
 # Stories.Com: Stories.Com Privacy Statement
 
@@ -14,7 +14,15 @@ Our Site uses cookies to save your password so you don't have to re-enter it as 
 
 Advertisers 
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+We use various outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. We serve ad from: 
+
+> [Adtegrity.com](http://www.adtegrity.com/privacy.asp)  
+>  Advertising.Com  
+>  Bay9.Com  
+>  FastClick.Com  
+>  Sprink (About.Com)  
+>  TrafficSupport.Com  
+>  And various other companies. 
 
 Registration Forms 
 
