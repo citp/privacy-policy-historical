@@ -1,16 +1,45 @@
-> *The following text is extracted and transformed from the stjude.org privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604172513id_/http%3A//www2.stjude.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stjude.org privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609152556id_/http%3A//www.stjude.org/privacy.htm) for the most accurate reproduction.*
 
-# St. Jude Children's Research Hospital - Privacy Statement
+# 
 
 **Privacy Policy Statement**
 
-The mission of ALSAC/St. Jude Children’s Research Hospital is to provide unsurpassed patient care and to advance the health of children through biomedical research. We are committed to protecting your personal information. As a general policy, no personal information is automatically collected from users of this web site. However, certain non-personal information is recorded by the standard operation of ALSAC/St. Jude Children’s Research Hospital Internet server. Information such as the type of browser being used, your operating system and your domain name is gathered.
+This privacy statement applies to St. Jude Children’s Research Hospital and its fund-raising arm, American Lebanese Syrian Associated Charities (ALSAC). St. Jude and ALSAC respect the privacy of our online visitors and donors. 
 
-Personally identifiable information that may be collected from forms you voluntarily fill out is retained by ALSAC/St. Jude Children’s Research Hospital and is not transferred outside the Campus.
+This site collects information such as the visitor’s domain name, site traffic patterns, and server usage statistics. This information is used to improve the performance and content of our Web pages and to personalize content and layout of our pages for individual visitors. We do not collect your e-mail address unless you choose to communicate with us via e-mail or you volunteer your e-mail address on a form on this site. 
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. All forms that collect information from you use the SSL Protocol (Security Sockets Layer) to provide privacy for the data flowing between your browser and the ALSAC/St. Jude Children’s Research Hospital web site, www.stjude.org.
+We do not sell, lease, rent, or loan any personally identifiable data of our site visitors or donors. Personally identifiable data includes name, address, phone number, e-mail address, and credit card information. We will share this data with business partners only if they are acting directly on our behalf. Our business partners adhere to our privacy policies with respect to this data. Your personally identifiable data will not otherwise be released unless required by a court of law. You can, however, contact us at the addresses, phone numbers, or e-mail address listed below if you do not want us to share your data with our business partners.
 
-If you have any questions or concerns, please feel free to contact us at:
+We do not collect personally identifiable data on our sites designed for children. 
 
-St. Jude Children’s Research Hospital Public Relations 332 N. Lauderdale St. Memphis, TN 38105 (901) 495-3306 privacy@stjude.org |  ALSAC Communications 501 St. Jude Place Memphis, TN 38105 (901) 524-0370  
+Third-party personally identifiable information you provide for memorial or honor donations or for merchandise shipping will not be shared. 
+
+We may occasionally conduct voluntary surveys on this site. Personally identifiable information collected in these surveys will not be shared. Aggregate results may be shared for analysis by third parties. The aggregate data can not be used to identify individuals. 
+
+Persons who provide us with their telephone numbers online will only receive telephone contact from us regarding orders or donations, unless their number is on file from other programs or sources. 
+
+We use shipping companies to ship merchandise and a credit card processor for merchandise orders and donations. These companies do not share or use personally identifiable information for secondary purposes. 
+
+We use cookies to store visitors preferences, alert visitors to new areas of the site, customize Web page content based on visitor interests, and record past activity in order to provide better service. Cookies are small text files that do not damage a visitor’s system or files. Most browsers will allow a user to accept or deny cookies. If a visitor rejects our cookies they may still use our site. 
+
+Our server uses Secure Socket Layer (SSL) encryption to protect credit card and other information submitted via the forms on this site. SSL is the industry standard security protocol. All off-line information is securely stored and is accessible only by authorized staff. 
+
+This site contains links to other sites. We are not responsible for the privacy practices of sites not owned by St. Jude Children’s Research Hospital or ALSAC. We encourage our visitors to be aware of when they leave our site and to read the privacy statement of any site that collects personally identifiable data. 
+
+Any changes to our privacy policy will be posted on all sites owned by St. Jude Children’s Research Hospital or ALSAC. 
+
+If you have any questions about St. Jude Children’s Research Hospital, ALSAC, or our privacy policy, please feel free to contact us at:  
+
+
+St. Jude Children’s Research Hospital   
+Public Relations   
+332 N. Lauderdale Street  
+Memphis, TN 38105   
+(901) 495-3306  
+[privacy@stjude.org](mailto:privacy@stjude.org)[ ](mailto:privacy@stjude.org) |  ALSAC   
+Communications  
+501 St. Jude Place   
+Memphis, TN 38105  
+(901) 578-2260  
+[privacy@stjude.org](mailto:privacy@stjude.org)[ ](mailto:privacy@stjude.org)  
 ---|---
