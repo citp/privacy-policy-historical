@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nokiausa.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618223729id_/http%3A//www.nokiausa.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nokiausa.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203000749id_/http%3A//www.nokiausa.com/privacypolicy) for the most accurate reproduction.*
 
 # NokiaUSA: Privacy Policy
 
