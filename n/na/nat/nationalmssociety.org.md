@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalmssociety.org privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211210548id_/http%3A//www.nationalmssociety.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalmssociety.org privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403224846id_/http%3A//www.nationalmssociety.org/privacy.asp) for the most accurate reproduction.*
 
 # National Multiple Sclerosis Society - Privacy
 
@@ -26,7 +26,7 @@ The National MS Society does not endorse or recommend products, services, or man
 
 The National MS Society is not responsible for the contents of any "off-site" Internet information referenced by or linked to the National MS Society’s Internet site.
 
-The National MS Society website address (URL) is [http://www.nationalmssociety.org](https://web.archive.org/). When you visit our website, our Web server automatically logs (records) domain name and standard information about the operating system and Web browser you are using, as provided by your Web browser. To track your progress through the site, and to help us evaluate usage of the site, the server places a "cookie"—a small text file with an identification number—on your machine. This automatically collected information is used for statistical purposes to help us manage our site, but it does not identify you in any way.
+The National MS Society website address (URL) is [http://www.nationalmssociety.org](http://www.nationalmssociety.org/). When you visit our website, our Web server automatically logs (records) domain name and standard information about the operating system and Web browser you are using, as provided by your Web browser. To track your progress through the site, and to help us evaluate usage of the site, the server places a "cookie"—a small text file with an identification number—on your machine. This automatically collected information is used for statistical purposes to help us manage our site, but it does not identify you in any way.
 
 We collect information about you only if you volunteer it. There are several ways you may volunteer information on the site. These include completing a survey, sending an email inquiry to us, contributing online, or registering for or contributing to a participant in an event online. The information we collect is used to provide you with information about our programs and products available to you through the Society. We generally respond to you by postal service mail, email, or telephone—depending on your requests and our resources.
 
@@ -44,15 +44,16 @@ From time to time, the National MS Society makes postal addresses available to o
 
 If you do not want us to share your postal address with other organizations, please submit a statement to your local chapter via mail, or contact us via email at [mailinglist@nmss.org](mailto:mailinglist@nmss.org)
 
+No advertisements are accepted.
+
 | 
 
-The National Multiple Sclerosis Society is in compliance with the Privacy Policy to American Consumers of The Direct Marketing Association (DMA; website:  
-<http://www.the-dma.org/dmalogotext.html>).  
+The National Multiple Sclerosis Society is in compliance with the Privacy Policy to American Consumers of The Direct Marketing Association (DMA; website: [www.the-dma.org/dmalogotext.html](http://www.the-dma.org/dmalogotext.html)).  
   
 ---|---  
   
 **Copyright Information**
 
-All information on this site is the property of the National MS Society. Copyright © 1995-2003, the National Multiple Sclerosis Society. All rights reserved.
+All information on this site is the property of the National MS Society. Copyright © 1995-2005, the National Multiple Sclerosis Society. All rights reserved.
 
-Current as of February 2003
+Last updated January 2005
