@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linuxlinks.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602114720id_/http%3A//www.linuxlinks.com/portal/html/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linuxlinks.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208084817id_/http%3A//www.linuxlinks.com/portal/content/html/privacy.shtml) for the most accurate reproduction.*
 
 # Linux Links - the Linux Portal Site
 
@@ -15,5 +15,3 @@ When links are submitted to our site, we request that the sender provides us wit
 The links database largely consists of pointers to external sites which we have no control over. These include the banner advertisements that are run on the site, together with text links found in our Category pages. The external sites may collate information about you with the use of 'cookies'.
 
 While LinuxLinks.com strives to protect its users personal information, we do not guarantee that information disclosed online is not distributed by these external companies. Visitors provide information at their own risk. 
-
-LinuxLinks.com works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to http://www.flycast.com/about_us/about-privacy.html 
