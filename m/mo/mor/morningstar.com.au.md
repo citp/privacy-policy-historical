@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the morningstar.com.au privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208142738id_/http%3A//www.morningstar.com.au/templateslocal/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morningstar.com.au privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603004109id_/http%3A//www.morningstar.com.au/templateslocal/privacypolicy.asp) for the most accurate reproduction.*
 
 # Morningstar Australia: Privacy Policy
 
+|   
 ---  
 1. |  | YOUR PRIVACY IS IMPORTANT  
-|  | Morningstar Research Pty Ltd ("Morningstar") recognises that maintaining the privacy of your Personal Information is important and is committed to protecting any Personal Information which it holds. Morningstar's main business activities are as an independent provider of investment information services and tools to individuals and businesses. This Privacy Policy describes the way Morningstar will manage and protect any Personal Information that it collects or that is provided to it in the course of its business activities.  
+|  | Morningstar Research Pty Ltd ABN: 83 062 096 342, AFSL: 243 161 ("Morningstar") recognises that maintaining the privacy of your Personal Information is important and is committed to protecting any Personal Information which it holds. Morningstar's main business activities are as an independent provider of investment information services and tools to individuals and businesses. This Privacy Policy describes the way Morningstar will manage and protect any Personal Information that it collects or that is provided to it in the course of its business activities.  
 |  | As of 21 December 2001, amendments to the Privacy Act require most private sector organisations to comply with the National Privacy Principles ("NPPs"). The NPPs regulate the way in which organisations may collect, use or disclose an individual's Personal Information. Morningstar is bound by and will comply with the NPPs in order to protect your privacy.  
 2. |  | WHO MUST COMPLY WITH THIS POLICY  
 2.1 |  | Morningstar, its employees, and contractors.  
@@ -29,7 +30,7 @@
 4.4.1 |  | In most cases, Morningstar will give you access to any Personal Information that it holds. Morningstar will handle all requests for access in accordance with the NPPs. In some cases, consistently with the National Privacy Principles, Morningstar may refuse to give you access to Personal Information it holds about you. If Morningstar refuses to give you access it will provide you with reasons for its refusal.  
 4.5 |  | _Handling of Access Correction and Complaints_ :  
 4.5.1 |  | All requests for access, corrections, complaints or queries should be directed (or if attended to, then internally copied) to the Privacy Officer at Morningstar who can be contacted as follows:  
-|  |      Legal Officer  
+|  |      Privacy Officer  
 |  |      Morningstar  
 |  |      Level 8, 51 Pitt Street  
 |  |      GPO Box 5222  
@@ -38,4 +39,19 @@
 |  |      Ph: +612 8274 0300  
 |  |      Fax: +612 9252 4584  
 |  | Additionally, if you wish to get more information about the way that Morningstar handles your Personal Information you should contact our Privacy Officer on the contact details set out above.  
-THIS PRIVACY POLICY MAY BE UPDATED FROM TIME TO TIME
+THIS PRIVACY POLICY MAY BE UPDATED FROM TIME TO TIME  
+    |  |   
+---  
+for more information  
+contact:  
+telephone:  
+\+ 61 2 8274 0300  
+email: helpdesk@  
+morningstar.com.au  
+facsimile:  
+\+ 61 2 9252 4584  
+Level 8, 51 Pitt St  
+GPO Box 5222  
+Sydney NSW 2001  
+ABN: 83 062 096 342  
+AFSL: 243 161
