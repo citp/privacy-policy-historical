@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proxibid.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604010245id_/http%3A//www.proxibid.com/asp/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxibid.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209021752id_/http%3A//www.proxibid.com/asp/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Proxibid: Privacy Policy
 
