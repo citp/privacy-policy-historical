@@ -1,28 +1,29 @@
-> *The following text is extracted and transformed from the bandwidthplace.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205110557id_/http%3A//bandwidthplace.com/about/index.html%3Ftask%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bandwidthplace.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610201046id_/http%3A//bandwidthplace.com/about/index.html%3Fv%3Dprivacy) for the most accurate reproduction.*
 
-# Bandwidth Place >> About Us
+# Bandwidth Place, About Us
+
+**About us**  
+
 
   
-| **About us**| | |   
----|---|---|---  
+
+
+ **Site content**  
+
+
   
- **Search**| | |   
----|---|---|---  
-  
- **Forums**| | |   
----|---|---|---  
-  
- **Partners**| | |   
----|---|---|---  
-  
-| |  **Privacy Policy**| | |   
----|---|---|---  
+| |   
+
+
+ **Privacy policy**  
+
+
   
 At Bandwidth Place we understand that submitting information about yourself or business is serious. Out of respect for our customer's privacy, Bandwidth Place has developed the following privacy statement that discloses our information gathering and dissemination practices. The purpose of this privacy policy is to let our users know what information of yours is collected through this web site, the organization collecting the information, how the information is used and with whom the information may be shared.
 
 This policy may be updated at any time without notice. This policy applies only to the information collected by Bandwidth Place on our own web site.
 
-**Information collection and use**
+ **Information collection and use**
 
 Bandwidth Place is the sole owner of all information collected on this site. We do not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Bandwidth Place collects information from our users at several different points on our website.
 
@@ -34,20 +35,12 @@ Bandwidth Place is the sole owner of all information collected on this site. We 
 
 4.Site stats. Our site uses various statistics software packages to measure our traffic and user demographics so that we can make our site the most useful it can be. We use IP addresses to analyze trends, administer the site, track user's movement, diagnose problems with our servers, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information and are used by us only.
 
-**Advertising**
+ **Cookies**
 
-This site, Bandwidth Place, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>.
+A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Bandwidth Place uses optional cookies in our speed test and marketplace.
 
-**Cookies**
-
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. Bandwidth Place uses cookies only in our marketplace to optionally store login information.
-
-**Links**
+ **Links**
 
 Bandwidth Place contains many links to other web sites. These links are provided for the utility of our customers only, and we are not responsible for the privacy practices of these other sites. We encourage our users to be aware of this when they leave our site and to take the time to read the privacy policy of any web site requesting personal information.
 
-|   
-|  **Resources**| | |   
----|---|---|---  
-  
-
+|  
