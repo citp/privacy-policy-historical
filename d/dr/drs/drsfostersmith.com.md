@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drsfostersmith.com privacy policy that was archived on 2002-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021031101652id_/http%3A//www.drsfostersmith.com/general/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drsfostersmith.com privacy policy that was archived on 2003-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030104020348id_/http%3A//www.drsfostersmith.com/general/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
