@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the golivewire.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203200815id_/http%3A//www.golivewire.com/forums/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golivewire.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607060052id_/http%3A//www.golivewire.com/forums/privacy.cgi) for the most accurate reproduction.*
 
 # LiveWire Teen Forums & College Forums - Privacy Policy
 
