@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the estara.com privacy policy that was archived on 2002-10-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021017111204id_/http%3A//www.estara.com/aboutus/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the estara.com privacy policy that was archived on 2003-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030621143303id_/http%3A//www.estara.com/aboutus/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 
@@ -72,7 +72,7 @@ OpenWin = this.open(page, "CtrlWindow", tempstring);
 
   </head>
 
-  <body bottommargin="0" bgcolor="#FFFFFF" onload="preloadImages();">
+  <body bottommargin="0" bgcolor="#FFFFFF" onload="preloadImages();startBlink();">
 
     <!-- Outside border start -->
     <table border="1" bordercolor="#BBBBBB" align="CENTER" cellspacing="0" cellpadding="0">
@@ -108,7 +108,32 @@ OpenWin = this.open(page, "CtrlWindow", tempstring);
 
 
 
+<style>
+<!--
+blink
+-->
+</style>
+
+<script language="JavaScript">
+<!--
+
+function doBlink()
+{var blink = document.all.tags("BLINK")
+for (var i=0; i<blink.length; i++)
+blink[i].style.visibility = blink[i].style.visibility == "" ? "hidden" :
+""}
+        
+function startBlink()
+{if (document.all)
+setInterval("doBlink()",1000)}
+
+//window.onload = startBlink;
+   
+//-->   
+</script>
+
     <!-- BODY -->
+
 
 
 <table cellspacing="15" cellpadding="10" border="0"><tbody><tr><td width="650">
@@ -201,7 +226,7 @@ A more detailed explanation about how we safeguard your personal information is 
               <tr><td class="address4">Reston, VA 20191</td></tr>
             </tbody></table></td>
         <td width="10"></td>
-       <td><a href="javascript:webVoicePop('Template=846');"><img src="/images/CSRNoRotatePhoto2.gif" border="0" alt="Questions? Push to call our corporate office."></a></td>
+       <td><a href="javascript:webVoicePop('AuthorizeURL=http://as00.estara.com/leads/authorizeurl.php?accountid=200008070000','Template=846');"><img src="/images/CSRNoRotatePhoto2.gif" border="0" alt="Questions? Push to call our corporate office."></a></td>
         <!--<TD WIDTH="50"></TD>-->
         <td width="30"></td>
         <td><table border="0" cellspacing="1" cellpadding="0">
@@ -223,7 +248,7 @@ A more detailed explanation about how we safeguard your personal information is 
     <!-- Copyright statement -->
     <br>
     <center class="address3">
-      © 2002, eStara, Inc.  All Rights Reserved &nbsp; - &nbsp; <a class="address3" href="/aboutus/privacy.jsp">Privacy Statement</a>
+      © 2003, eStara, Inc.  All Rights Reserved &nbsp; - &nbsp; <a class="address3" href="/aboutus/privacy.jsp">Privacy Statement</a>
     </center>
 
   
