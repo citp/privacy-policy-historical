@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the oreillynet.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604030043id_/http%3A//oreillynet.com/pub/a/mediakit/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oreillynet.com privacy policy that was archived on 2002-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021128210816id_/http%3A//www.oreillynet.com/pub/a/mediakit/privacy.html) for the most accurate reproduction.*
 
 # O'Reilly Network: Privacy Policy [Jan. 31, 2000]
 
 |  [](http://www.oreillynet.com/)  
   
   
+  
 |  |    
-
-
-[](https://web.archive.org/lpt/a//mediakit/privacy.html)  
 
 
 ## O'Reilly & Associates, Inc. Privacy Policy
@@ -90,4 +88,4 @@ If we change our Privacy Policy, we will post those changes on www.oreilly.com. 
 
 Sponsored by:
 
-[](http://www.oreilly.com/catalog/p2presearch/)
+[](http://www.oreillynet.com/sunwhitepaper.csp)
