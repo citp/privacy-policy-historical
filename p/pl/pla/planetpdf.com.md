@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the planetpdf.com privacy policy that was archived on 2004-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041216065931id_/http%3A//www.planetpdf.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetpdf.com privacy policy that was archived on 2005-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050312120829id_/http%3A//www.planetpdf.com/planetpdf.asp%3FcontentID%3D6477) for the most accurate reproduction.*
 
-# Planet PDF - Privacy Policy
+# Planet PDF - Privacy Policy - Planet PDF & PDF Store
 
 This policy covers the following two [BinaryThing](http://www.binarything.com/) Web sites:
 
