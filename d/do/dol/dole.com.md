@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dole.com privacy policy that was archived on 1999-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991127150214id_/http%3A//dole.com/policy.ghtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dole.com privacy policy that was archived on 2000-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000610013658id_/http%3A//www.dole.com/policy.ghtml) for the most accurate reproduction.*
 
 # Dole.com
 
@@ -10,8 +10,8 @@ This website is owned and operated by Dole Food Company, Inc. At Dole, we recogn
 If you have any questions about our Privacy Policy, you can contact us at: 
 
 > Dole Food Company, Inc.  
->  31365 Oak Crest Drive  
->  Westlake Village, CA 91361  
+>  One Dole Drive  
+>  Westlake Village, CA 91362  
 >  Attention: Legal Department  
 >  Phone: 1/800-232-8888 
 
