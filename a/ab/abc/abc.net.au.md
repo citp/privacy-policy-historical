@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abc.net.au privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603235720id_/http%3A//www.abc.net.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abc.net.au privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204223706id_/http%3A//www.abc.net.au/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ The purpose of this Privacy Policy is to tell you what kind of information we ma
 
 This policy applies only to ABC Online and not to other companies' or organisations' websites to which ABC Online is linked.
 
-Please note that the ABC Shop has additional information about how it deals with privacy and personal information you provide ABC Online when dealing with the ABC Shop. Please visit the ABC Shop's website at <http://shop.abc.net.au/abcasp/help/security_issues.asp>. 
+Please note that the ABC Shop has additional information about how it deals with privacy and personal information you provide ABC Online when dealing with the ABC Shop. Please visit the ABC Shop's [privacy and security page](http://abcshop.com.au/help/privacy.shtm). 
 
 ###  Collection of information
 
