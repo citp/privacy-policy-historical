@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the chicagobusiness.com privacy policy that was archived on 2003-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031211234008id_/http%3A//chicagobusiness.com/cgi-bin/article.pl%3Fstatic_id%3D11) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chicagobusiness.com privacy policy that was archived on 2004-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040605035128id_/http%3A//chicagobusiness.com/cgi-bin/article.pl%3Fstatic_id%3D11) for the most accurate reproduction.-->
 
 <html><head>
 <title>Chicagobusiness.com</title>
@@ -82,7 +82,7 @@ OAS_url = 'http://oascentral.chicagobusiness.com/RealMedia/ads/';
 //OAS_sitepage = window.location.hostname + window.location.pathname;
 OAS_sitepage = 'www.chicagobusiness.com/portal/admin/privacy_policy';
 //OAS_listpos = 'comma,delimited,list';
-OAS_listpos = 'Position1,TopRight,Right2,Middle1'; 
+OAS_listpos = 'Position1,TopRight,Right2,Middle1,Bottom1'; 
 OAS_target = '_blank';
 OAS_query = '';
 //end of configuration
@@ -99,7 +99,7 @@ function OAS_RICH(pos) {
 <!--
   document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC=' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + '><\/SCRIPT>');
 //-->
-</script><script language="JavaScript1.1" src="http://oascentral.chicagobusiness.com/RealMedia/ads/adstream_mjx.ads/www.chicagobusiness.com/portal/admin/privacy_policy/13725306379@Position1,TopRight,Right2,Middle1?"></script>
+</script><script language="JavaScript1.1" src="http://oascentral.chicagobusiness.com/RealMedia/ads/adstream_mjx.ads/www.chicagobusiness.com/portal/admin/privacy_policy/13725306379@Position1,TopRight,Right2,Middle1,Bottom1?"></script>
 <script language="JavaScript">
 <!--
 document.write('');
@@ -227,6 +227,29 @@ window.open('http://oas-central.realmedia.com/RealMedia/ads/Creatives/crain/CBO_
 		//set to expire in one day
 		var expiration = new Date();
 		expiration.setTime (expiration.getTime() + (1000 * 60 * 60 * 24 * 1));
+
+
+		var str=location.search;
+		var r1=/mpid=172/i;
+		var r2=/portalid=172/i;
+		var r3=/pageid=1540/i;
+		
+		if ((str.match(r1)) || (str.match(r2))|| (str.match(r3)))
+		{
+		}
+		else
+		{
+	            var tt=getCookie('tenpop');
+	            if (tt == "yuppa")
+	            {
+	            }
+	            else
+	            {
+			window.open('http://oas-central.realmedia.com/RealMedia/ads/Creatives/crain/CBO_INTERSTITIAL_LOCKDOWN/10thingspopup.html','tenthings',config='toolbar=no,location=no,status=no,menubar=no,scrollbars=no,resizable=yes,height=50,width=50');
+	                setCookie('tenpop', 'yuppa', expiration, '/', '.chicagobusiness.com');
+	            }
+		} 
+
 		var rp = getCookie('regpop');
 		
 		if (rp == "yuppa") {
@@ -281,13 +304,13 @@ window.open('http://oas-central.realmedia.com/RealMedia/ads/Creatives/crain/CBO_
             <tbody><tr class="blueHeader"> 
               <td width="7"><img src="/images/global/spacer.gif" width="7" height="7"> 
               </td>
-              <td valign="middle" nowrap=""><b>Thursday, Dec. 11, 2003</b></td>
+              <td valign="middle" nowrap=""><b>Friday, June 4, 2004</b></td>
               <td valign="middle" align="right" width="100%"> <b> Crain's Lists: 
                 </b> </td>
               <td align="left"><form method="post" action="" name="ViewCrainsLists">
                   <select name="select" onchange="RedirectMenu (this);">
                     <option value="none" selected="">View Crain's Lists</option>
-                    <option value="/cgi-bin/portal.pl?id=35">40 Under 40</option><option value="/cgi-bin/portal.pl?id=46">Accounting Firms</option><option value="/cgi-bin/portal.pl?id=89">Ad Agencies</option><option value="/cgi-bin/portal.pl?id=44">Architecture Firms</option><option value="/cgi-bin/portal.pl?id=46">Banks</option><option value="/cgi-bin/portal.pl?id=46">Banks' Performance</option><option value="/cgi-bin/portal.pl?id=28">Biotech Directory</option><option value="/cgi-bin/portal.pl?id=37">Chicago Market Facts</option><option value="/cgi-bin/portal.pl?id=48">CLECs</option><option value="/cgi-bin/portal.pl?id=44">Contractors</option><option value="/cgi-bin/portal.pl?id=41">Conventions</option><option value="/cgi-bin/portal.pl?id=25">Employers</option><option value="/cgi-bin/portal.pl?id=48">Energy Providers</option><option value="/cgi-bin/portal.pl?id=30">Executive Recruiters</option><option value="/cgi-bin/portal.pl?id=25">Fastest-Growing Firms</option><option value="/cgi-bin/portal.pl?id=46">Foreign-Owned Banks</option><option value="/cgi-bin/portal.pl?id=40">Higher Ed. Guide</option><option value="/cgi-bin/portal.pl?id=35">Highest-Paid CEOs</option><option value="/cgi-bin/portal.pl?id=35">Highest-Paid non-CEOs</option><option value="/cgi-bin/portal.pl?id=31">HMOs</option><option value="/cgi-bin/portal.pl?id=32">Homebuilders</option><option value="/cgi-bin/portal.pl?id=31">Hospitals</option><option value="/cgi-bin/portal.pl?id=31">Indep. Practice Assns.</option><option value="/cgi-bin/portal.pl?id=44">Industrial Parks</option><option value="/cgi-bin/portal.pl?id=46">Insurance Brokers</option><option value="/cgi-bin/portal.pl?id=28">The Internet 100</option><option value="/cgi-bin/portal.pl?id=46">Investment Bankers</option><option value="/cgi-bin/portal.pl?id=28">ISPs</option><option value="/cgi-bin/portal.pl?id=16">Law Firms</option><option value="/cgi-bin/portal.pl?id=41">Meeting Planners Guide</option><option value="/cgi-bin/portal.pl?id=28">Mgmt./IT Consultants</option><option value="/cgi-bin/portal.pl?id=25">Minority-Owned Firms</option><option value="/cgi-bin/portal.pl?id=46">Money Managers</option><option value="/cgi-bin/portal.pl?id=32">Mortgage Lenders</option><option value="/cgi-bin/portal.pl?id=44">Office Leases</option><option value="/cgi-bin/portal.pl?id=46">Pension Funds</option><option value="/cgi-bin/portal.pl?id=31">Physician Groups</option><option value="/cgi-bin/portal.pl?id=31">PPOs</option><option value="/cgi-bin/portal.pl?id=44">Property Mgmt. Firms</option><option value="/cgi-bin/portal.pl?id=89">PR Firms</option><option value="/cgi-bin/portal.pl?id=25">Privately-Held Firms</option><option value="/cgi-bin/portal.pl?id=25">Publicly-Held Firms</option><option value="/cgi-bin/portal.pl?id=44">REITs</option><option value="/cgi-bin/portal.pl?id=46">SBA Lenders</option><option value="/cgi-bin/portal.pl?id=47">Small Biz Resources</option><option value="/cgi-bin/portal.pl?id=28">Software Firms</option><option value="/cgi-bin/portal.pl?id=30">Staffing Firms</option><option value="/cgi-bin/portal.pl?id=46">Thrifts</option><option value="/cgi-bin/portal.pl?id=41">Tourist Attractions</option><option value="/cgi-bin/portal.pl?id=36">Venture Capital Firms</option><option value="/cgi-bin/article.pl?page_id=622">Wage &amp; Salary Survey</option><option value="/cgi-bin/portal.pl?id=28">Web Developers</option><option value="/cgi-bin/portal.pl?id=35">Who's Who</option><option value="/cgi-bin/article.pl?page_id=1208">Women-Owned Firms</option> 
+                    <option value="/cgi-bin/portal.pl?id=35">40 Under 40</option><option value="/cgi-bin/portal.pl?id=46">Accounting Firms</option><option value="/cgi-bin/portal.pl?id=89">Ad Agencies</option><option value="/cgi-bin/portal.pl?id=44">Architecture Firms</option><option value="/cgi-bin/portal.pl?id=46">Banks</option><option value="/cgi-bin/portal.pl?id=46">Banks' Performance</option><option value="/cgi-bin/portal.pl?id=28">Biotech Directory</option><option value="/cgi-bin/portal.pl?id=149">Charities</option><option value="/cgi-bin/portal.pl?id=37">Chicago Market Facts</option><option value="/cgi-bin/portal.pl?id=48">CLECs</option><option value="/cgi-bin/portal.pl?id=44">Contractors</option><option value="/cgi-bin/portal.pl?id=41">Conventions</option><option value="/cgi-bin/portal.pl?id=42">Cultural Institutions</option><option value="/cgi-bin/portal.pl?id=25">Employers</option><option value="/cgi-bin/portal.pl?id=48">Energy Providers</option><option value="/cgi-bin/portal.pl?id=30">Executive Recruiters</option><option value="/cgi-bin/portal.pl?id=25">Fastest-Growing Firms</option><option value="/cgi-bin/portal.pl?id=46">Foreign-Owned Banks</option><option value="/cgi-bin/portal.pl?id=40">Higher Ed. Guide</option><option value="/cgi-bin/portal.pl?id=35">Highest-Paid CEOs</option><option value="/cgi-bin/portal.pl?id=35">Highest-Paid non-CEOs</option><option value="/cgi-bin/portal.pl?id=31">HMOs</option><option value="/cgi-bin/portal.pl?id=32">Homebuilders</option><option value="/cgi-bin/portal.pl?id=31">Hospitals</option><option value="/cgi-bin/portal.pl?id=31">Indep. Practice Assns.</option><option value="/cgi-bin/portal.pl?id=44">Industrial Parks</option><option value="/cgi-bin/portal.pl?id=46">Insurance Brokers</option><option value="/cgi-bin/portal.pl?id=28">The Internet 100</option><option value="/cgi-bin/portal.pl?id=46">Investment Bankers</option><option value="/cgi-bin/portal.pl?id=28">ISPs</option><option value="/cgi-bin/portal.pl?id=16">Law Firms</option><option value="/cgi-bin/portal.pl?id=41">Meeting Planners Guide</option><option value="/cgi-bin/portal.pl?id=28">Mgmt./IT Consultants</option><option value="/cgi-bin/portal.pl?id=25">Minority-Owned Firms</option><option value="/cgi-bin/portal.pl?id=46">Money Managers</option><option value="/cgi-bin/portal.pl?id=32">Mortgage Lenders</option><option value="/cgi-bin/portal.pl?id=44">Office Leases</option><option value="/cgi-bin/portal.pl?id=46">Pension Funds</option><option value="/cgi-bin/portal.pl?id=31">Physician Groups</option><option value="/cgi-bin/portal.pl?id=31">PPOs</option><option value="/cgi-bin/portal.pl?id=44">Property Mgmt. Firms</option><option value="/cgi-bin/portal.pl?id=89">PR Firms</option><option value="/cgi-bin/portal.pl?id=25">Privately-Held Firms</option><option value="/cgi-bin/portal.pl?id=25">Publicly-Held Firms</option><option value="/cgi-bin/portal.pl?id=44">REITs</option><option value="/cgi-bin/portal.pl?id=46">SBA Lenders</option><option value="/cgi-bin/portal.pl?id=44">Shopping Centers</option><option value="/cgi-bin/portal.pl?id=47">Small Biz Resources</option><option value="/cgi-bin/portal.pl?id=28">Software Firms</option><option value="/cgi-bin/portal.pl?id=30">Staffing Firms</option><option value="/cgi-bin/portal.pl?id=46">Thrifts</option><option value="/cgi-bin/portal.pl?id=41">Tourist Attractions</option><option value="/cgi-bin/portal.pl?id=36">Venture Capital Firms</option><option value="/cgi-bin/article.pl?page_id=622">Wage &amp; Salary Survey</option><option value="/cgi-bin/portal.pl?id=28">Web Developers</option><option value="/cgi-bin/portal.pl?id=35">Who's Who</option><option value="/cgi-bin/article.pl?page_id=1208">Women-Owned Firms</option> 
                   </select>
                 </form></td>
               <td width="10"><img src="images/global/spacer.gif" width="10" height="8"></td>
@@ -312,7 +335,7 @@ window.open('http://oas-central.realmedia.com/RealMedia/ads/Creatives/crain/CBO_
 <!--
 OAS_RICH("Position1");
 //-->
-</script><a href="http://oascentral.chicagobusiness.com/RealMedia/ads/click_nx.ads/www.chicagobusiness.com/portal/admin/privacy_policy/13725306379@Position1,TopRight,Right2,Middle1!Position1?" target="_blank"><img src="http://oascentral.chicagobusiness.com/RealMedia/ads/adstream_nx.ads/www.chicagobusiness.com/portal/admin/privacy_policy/13725306379@Position1,TopRight,Right2,Middle1!Position1?" border="0"></a>
+</script><a href="http://oascentral.chicagobusiness.com/RealMedia/ads/click_nx.ads/www.chicagobusiness.com/portal/admin/privacy_policy/13725306379@Position1,TopRight,Right2,Middle1,Bottom1!Position1?" target="_blank"><img src="http://oascentral.chicagobusiness.com/RealMedia/ads/adstream_nx.ads/www.chicagobusiness.com/portal/admin/privacy_policy/13725306379@Position1,TopRight,Right2,Middle1,Bottom1!Position1?" border="0"></a>
               </td>
             </tr>
           </tbody></table></td>
@@ -508,6 +531,10 @@ Crain's</a></b></td></tr>
             </tr>
              
             <tr> 
+              <td><div class="leftnavItem"><a href="http://chicagobusiness.com/cgi-bin/portal.pl?id=188">Minority Business</a></div></td>
+            </tr>
+             
+            <tr> 
               <td><div class="leftnavItem"><a href="http://chicagobusiness.com/cgi-bin/portal.pl?id=29">Politics / Public Policy</a></div></td>
             </tr>
              
@@ -517,10 +544,6 @@ Crain's</a></b></td></tr>
              
             <tr> 
               <td><div class="leftnavItem"><a href="http://chicagobusiness.com/cgi-bin/portal.pl?id=47">Small Business</a></div></td>
-            </tr>
-             
-            <tr> 
-              <td><div class="leftnavItem"><a href="http://chicagobusiness.com/cgi-bin/portal.pl?id=180">Special Reports</a></div></td>
             </tr>
              
             <tr> 
@@ -557,21 +580,21 @@ Crain's</a></b></td></tr>
             </tr>
             <tr> 
               <td><div class="leftnavItem"><div class="calendardate">
-	December 2003
+	June 2004
 </div>
 <table border="0" cellspacing="0" cellpadding="0" class="blkcopy" align="center" style="table-layout: fixed;">
 	<tbody><tr valign="top"> 
-		<td class="calendarday">S<br><a href="http://chicagobusiness.com/cgi-bin/calendar.pl?date=2003-12-7">7</a></td>
-		<td class="calendarday">M<br><a href="http://chicagobusiness.com/cgi-bin/calendar.pl?date=2003-12-8">8</a></td>
-		<td class="calendarday">T<br><a href="http://chicagobusiness.com/cgi-bin/calendar.pl?date=2003-12-9">9</a></td>
-		<td class="calendarday">W<br><a href="http://chicagobusiness.com/cgi-bin/calendar.pl?date=2003-12-10">10</a></td>
-		<td class="calendarday" bgcolor="#ffffff">T<br><a href="http://chicagobusiness.com/cgi-bin/calendar.pl?date=2003-12-11">11</a></td>
-		<td class="calendarday">F<br><a href="http://chicagobusiness.com/cgi-bin/calendar.pl?date=2003-12-12">12</a></td>
-		<td class="calendarday">S<br><a href="http://chicagobusiness.com/cgi-bin/calendar.pl?date=2003-12-13">13</a></td>
+		<td class="calendarday">S<br><a href="http://chicagobusiness.com/cgi-bin/calendar.pl?date=2004-5-30">30</a></td>
+		<td class="calendarday">M<br><a href="http://chicagobusiness.com/cgi-bin/calendar.pl?date=2004-5-31">31</a></td>
+		<td class="calendarday">T<br><a href="http://chicagobusiness.com/cgi-bin/calendar.pl?date=2004-6-1">1</a></td>
+		<td class="calendarday">W<br><a href="http://chicagobusiness.com/cgi-bin/calendar.pl?date=2004-6-2">2</a></td>
+		<td class="calendarday">T<br><a href="http://chicagobusiness.com/cgi-bin/calendar.pl?date=2004-6-3">3</a></td>
+		<td class="calendarday" bgcolor="#ffffff">F<br><a href="http://chicagobusiness.com/cgi-bin/calendar.pl?date=2004-6-4">4</a></td>
+		<td class="calendarday">S<br><a href="http://chicagobusiness.com/cgi-bin/calendar.pl?date=2004-6-5">5</a></td>
 	</tr>
 </tbody></table>
 
-<a href="http://chicagobusiness.com/cgi-bin/calendar.pl?date=2003-12-11">View Calendar</a><br>
+<a href="http://chicagobusiness.com/cgi-bin/calendar.pl?date=2004-6-4">View Calendar</a><br>
 
 <a href="/cgi-bin/submitEvent.pl">Send Us Your Events</a>
  </div></td>
@@ -601,12 +624,6 @@ Crain's</a></b></td></tr>
             <tr> 
               <td><div class="leftnavItem"><a href="http://www.chicagobusiness.com/cgi-bin/redirect.pl?mpid=102&amp;portal_id=122&amp;id='http://www.crain.com/classified/ccb/index.cfm'"> 
                   <b>Classifieds</b>, including Residential and Commercial Real Estate</a> 
-                </div></td>
-            </tr>
-             
-            <tr> 
-              <td><div class="leftnavItem"><a href="http://www.chicagobusiness.com/cgi-bin/redirect.pl?mpid=102&amp;portal_id=122&amp;id='http://www.crain.com/classified/ccb/index.cfm?display=auto_searchmenu'"> 
-                  Luxury Automobile Classifieds</a> 
                 </div></td>
             </tr>
              
@@ -647,9 +664,13 @@ Crain's</a></b></td></tr>
               <td><div class="leftnavItem"><a href="/cgi-bin/article.pl?static_id=3&amp;page_id=1120">Advertise 
                   with Us</a></div></td>
             </tr>
-            <tr>
-              <td>&nbsp;</td>
-            </tr>
+       <tr>
+            <td><img src="/images/global/spacer.gif" height="35" width="1"></td>
+          </tr>
+        <tr><td align="center">
+        <img src="/images/goldAward.gif"><p style="font-size:11px;"><b>Awarded by the
+                Association of Area Business Publications</b></p><p></p></td></tr>
+
           </tbody></table>
           <p>&nbsp;</p></td>
         <td rowspan="2" valign="top"><img src="images/global/spacer.gif" alt="" width="10" height="1"></td>
@@ -673,24 +694,24 @@ For each visitor to our website, whether a registered user or non-registered use
 
 
 <tr>
-  <td class="bodyCopy"> 
-	<p align="center" class="redTextSmall">continued below</p>
+  <td> <p align="center" class="redTextSmall">continued below</p>
     <table width="260" border="0" cellspacing="0" cellpadding="5" bgcolor="#EEEEEE" align="center">
       <tbody><tr> 
         <td class="small" align="center">Advertisement</td>
       </tr>
       <tr> 
-        <td align="center"><p></p> <script language="JavaScript"> 
+        <td align="center" height="250" valign="top"><p></p> <script language="JavaScript"> 
 						<!--
 							OAS_RICH("Middle1");
 						//-->
-						</script><a href="http://oascentral.chicagobusiness.com/RealMedia/ads/click_nx.ads/www.chicagobusiness.com/portal/admin/privacy_policy/13725306379@Position1,TopRight,Right2,Middle1!Middle1?" target="_blank"><img src="http://oascentral.chicagobusiness.com/RealMedia/ads/adstream_nx.ads/www.chicagobusiness.com/portal/admin/privacy_policy/13725306379@Position1,TopRight,Right2,Middle1!Middle1?" border="0"></a>
+						</script><a href="http://oascentral.chicagobusiness.com/RealMedia/ads/click_nx.ads/www.chicagobusiness.com/portal/admin/privacy_policy/13725306379@Position1,TopRight,Right2,Middle1,Bottom1!Middle1?" target="_blank"><img src="http://oascentral.chicagobusiness.com/RealMedia/ads/adstream_nx.ads/www.chicagobusiness.com/portal/admin/privacy_policy/13725306379@Position1,TopRight,Right2,Middle1,Bottom1!Middle1?" border="0"></a>
 <br>
         </td>
       </tr>
     </tbody></table><br><br></td></tr>
-<tr><td class="bodyCopy">
 
+
+<tr><td class="bodyCopy">
 
                                                 
 
@@ -715,7 +736,13 @@ Persons who supply us with their telephone or fax numbers online may receive tel
 
 
 <!-- this is the end of the main body -->
-
+<br>
+<script language="JavaScript" type="text/javascript">
+   <!--
+    OAS_RICH("Bottom1");
+   //-->
+</script><a href="http://oascentral.chicagobusiness.com/RealMedia/ads/click_nx.ads/www.chicagobusiness.com/portal/admin/privacy_policy/13725306379@Position1,TopRight,Right2,Middle1,Bottom1!Bottom1?" target="_blank"><img src="http://oascentral.chicagobusiness.com/RealMedia/ads/adstream_nx.ads/www.chicagobusiness.com/portal/admin/privacy_policy/13725306379@Position1,TopRight,Right2,Middle1,Bottom1!Bottom1?" border="0"></a> 
+<br><br>
 
 </p></td>
             </tr>
@@ -723,12 +750,12 @@ Persons who supply us with their telephone or fax numbers online may receive tel
           <p> 
             <script language="JavaScript">
 					if (location.pathname == "/" || location.href == "http://www.chicagobusiness.com/") {
-						document.write ('<a href="https://sec.crain.com/ccb/cgi-bin/speccirculation.pl?KEY_CDE_NEW=W3WEB1&KEY_CDE_RENEW=W3WEB5"><img src="/images/global/subscribe-ad.gif" width="468" height="60" border="0"></a>');
+						document.write ('<a href="https://sec.crain.com/ccb/cgi-bin/speccirculation.pl?KEY_CDE_NEW=W4WEB1&KEY_CDE_RENEW=W4WEB5"><img src="/images/global/subscribe-ad.gif" width="468" height="60" border="0"></a>');
 					}
 					else {
-						document.write ('<a href="https://sec.crain.com/ccb/cgi-bin/speccirculation.pl?KEY_CDE_NEW=W3WEB2&KEY_CDE_RENEW=W3WEB6"><img src="/images/global/subscribe-ad.gif" width="468" height="60" border="0"></a>');
+						document.write ('<a href="https://sec.crain.com/ccb/cgi-bin/speccirculation.pl?KEY_CDE_NEW=W4WEB2&KEY_CDE_RENEW=W4WEB6"><img src="/images/global/subscribe-ad.gif" width="468" height="60" border="0"></a>');
 					}
-				</script><a href="https://sec.crain.com/ccb/cgi-bin/speccirculation.pl?KEY_CDE_NEW=W3WEB2&amp;KEY_CDE_RENEW=W3WEB6"><img src="/images/global/subscribe-ad.gif" width="468" height="60" border="0"></a>
+				</script><a href="https://sec.crain.com/ccb/cgi-bin/speccirculation.pl?KEY_CDE_NEW=W4WEB2&amp;KEY_CDE_RENEW=W4WEB6"><img src="/images/global/subscribe-ad.gif" width="468" height="60" border="0"></a>
           </p></td>
         <td valign="top">&nbsp;</td>
         <td rowspan="2" class="divider"><img src="/images/global/spacer.gif" alt="" width="1" height="1"></td>
@@ -769,7 +796,7 @@ Persons who supply us with their telephone or fax numbers online may receive tel
 <!--
 OAS_RICH("TopRight");
 //-->
-</script><a href="http://oascentral.chicagobusiness.com/RealMedia/ads/click_nx.ads/www.chicagobusiness.com/portal/admin/privacy_policy/13725306379@Position1,TopRight,Right2,Middle1!TopRight?" target="_blank"><img src="http://oascentral.chicagobusiness.com/RealMedia/ads/adstream_nx.ads/www.chicagobusiness.com/portal/admin/privacy_policy/13725306379@Position1,TopRight,Right2,Middle1!TopRight?" border="0"></a>
+</script><a href="http://oascentral.chicagobusiness.com/RealMedia/ads/click_nx.ads/www.chicagobusiness.com/portal/admin/privacy_policy/13725306379@Position1,TopRight,Right2,Middle1,Bottom1!TopRight?" target="_blank"><img src="http://oascentral.chicagobusiness.com/RealMedia/ads/adstream_nx.ads/www.chicagobusiness.com/portal/admin/privacy_policy/13725306379@Position1,TopRight,Right2,Middle1,Bottom1!TopRight?" border="0"></a>
 </td>
             </tr>
             <tr> 
@@ -823,7 +850,7 @@ OAS_RICH("TopRight");
 <!--
 OAS_RICH("Right2");
 //-->
-</script><a href="http://oascentral.chicagobusiness.com/RealMedia/ads/click_nx.ads/www.chicagobusiness.com/portal/admin/privacy_policy/13725306379@Position1,TopRight,Right2,Middle1!Right2?" target="_blank"><img src="http://oascentral.chicagobusiness.com/RealMedia/ads/adstream_nx.ads/www.chicagobusiness.com/portal/admin/privacy_policy/13725306379@Position1,TopRight,Right2,Middle1!Right2?" border="0"></a>
+</script><a href="http://oascentral.chicagobusiness.com/RealMedia/ads/click_nx.ads/www.chicagobusiness.com/portal/admin/privacy_policy/13725306379@Position1,TopRight,Right2,Middle1,Bottom1!Right2?" target="_blank"><img src="http://oascentral.chicagobusiness.com/RealMedia/ads/adstream_nx.ads/www.chicagobusiness.com/portal/admin/privacy_policy/13725306379@Position1,TopRight,Right2,Middle1,Bottom1!Right2?" border="0"></a>
 </p>
 <!--	
 	  <div class="smallHeadline">Related Stories</div>
@@ -910,6 +937,11 @@ OAS_RICH("Right2");
               <td><div class="rightnavItem"><a href="http://chicagobusiness.com/cgi-bin/article.pl?static_id=1">Contact 
                   Us</a></div></td>
             </tr>
+<tr><td>
+<a href="/business/homepage.shtml"><img src="/images/global/business.gif" width="20" height="10" border="0" alt="business resource"></a>
+</td></tr>
+
+
           </tbody></table></td>
       </tr>
       <tr> 
@@ -919,7 +951,7 @@ OAS_RICH("Right2");
         <td colspan="7"><img src="images/global/spacer.gif" width="1" height="10"></td>
       </tr>
       <tr align="center"> 
-        <td height="6" colspan="7" class="footer">Copyright 2003 
+        <td height="6" colspan="7" class="footer">Copyright 2004 
           Crain Communications Inc.&nbsp;&nbsp; | &nbsp;&nbsp;<a href="http://chicagobusiness.com/cgi-bin/article.pl?static_id=11" class="whiteLinks">Privacy 
           Policy</a>&nbsp;&nbsp; | &nbsp;&nbsp;<a href="http://chicagobusiness.com/cgi-bin/sitemap.pl" class="whiteLinks">Site 
           Map</a> &nbsp;&nbsp; | &nbsp;&nbsp;<a href="http://chicagobusiness.com/cgi-bin/article.pl?static_id=2" class="whiteLinks">About 
@@ -929,7 +961,7 @@ OAS_RICH("Right2");
       </tr>
       <tr align="center"> 
         <td colspan="7"><br>
-          Site Programming Copyright 2003 
+          Site Programming Copyright 2004 
           <a href="http://www.chaffee.com/" target="_blank">Chaffee Interactive, 
           Inc</a>. &nbsp;&nbsp; | &nbsp;&nbsp;Graphic Design by <a href="http://www.gripdesign.com/" target="_blank">gripdesign, 
           Inc.</a></td>
