@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the newscientist.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217220939id_/http%3A//www.newscientist.com/thesite/tsprivacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newscientist.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609071556id_/http%3A//www.newscientist.com/thesite/tsprivacy.jsp) for the most accurate reproduction.*
 
 # New Scientist
 
    
 **Privacy Policy**  
-Newscientist.com is owned and operated by [Reed Business Information Limited](http://www.reedbusiness.com/) ("RBI").   
+Newscientist.com is owned and operated by [Reed Business Information Limited](http://www.reedbusiness.co.uk/) ("RBI").   
 Information we collect from users of the site will be stored by us on computers in the UK and may be used in the following ways:   
    
 **6.1 Subscription Services**  
