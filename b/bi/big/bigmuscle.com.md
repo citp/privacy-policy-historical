@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigmuscle.com privacy policy that was archived on 2003-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030407233641id_/http%3A//www.bigmuscle.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigmuscle.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403211206id_/http%3A//bigmuscle.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -28,7 +28,7 @@ We also collect information about our users via Internet browser "Cookies".  If
  **4\. Our Disclosure of Your Information**  
 We DO NOT sell or rent any personally identifiable information about you to any third party without your permission. We do disclose information in aggregate to advertisers and for other marketing and promotional purposes. However, in these situations, we DO NOT disclose to these entities any information that could be used to personally identify you. Certain information, such as your password, credit card number, and bank account number, are not disclosed in aggregate at all. 
 
-BigMsucle.com cooperates with all law enforcement inquiries and with all third parties to enforce their intellectual property or other rights.
+BigMuscle.com cooperates with all law enforcement inquiries and with all third parties to enforce their intellectual property or other rights.
 
  **5\. Your use of Other Users' Information**  
 BigMuscle.com and our users do not tolerate spam, harassment, or threats. We retain the right to terminate without advance notice, any user or account that we find is spamming, harassing or threatening anyone, via this website. 
@@ -40,12 +40,22 @@ You may not disclose your password to any third parties or share it with any thi
  **7.Third Party Collections of Information**  
 BigMuscle.com has no control over any persons, third party web sites, link or email addresses posted to this website by users. Any web navigation that take you off this site, is not under our control.
 
-**8\. You Safety Is Important**  
+ **8\. You Safety Is Important**  
 We strongly suggest to you that you do not disclose any personal, financial or location (home, business or hotel) address information while on this site or while using the Internet at anytime. 
 
-The Federal Trade Commission offers information about 
-
-[surfing the Internet safely](http://www.ftc.gov/bcp/conline/pubs/alerts/dialupalt.htm).
+The Federal Trade Commission offers information about [surfing the Internet safely](http://www.ftc.gov/bcp/conline/pubs/alerts/dialupalt.htm).
 
  **9\. Contact**   
-To contact us please refer to our [contact information](http://www.bigmuscle.com/contact.phtml). 
+To contact us please refer to our [contact information](https://web.archive.org/web/20050403211206id_/http%3A//bigmuscle.com/contact.html). 
+
+**10\. Private Information:**
+
+AB Software disclaims all liability, regardless of the form of action, for the acts or omissions of other Members or users (including unauthorized users, or "hackers") of the Service. 
+
+**11\. Change Privacy Statement:**
+
+AB Software reserves the right to change our Privacy Policy without prior notice to anyone.
+
+ **12\. Privacy Information:**
+
+AB Software reserves the right to transfer ownership of all private and non private information collect from use of this web site to pending parties who may contract with AB Software to purchase controlling interest/partnership or full ownership of this web site.
