@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedback.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605062628id_/http%3A//www7.freedback.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedback.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209031300id_/http%3A//www7.freedback.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement for Freedback.com
 
