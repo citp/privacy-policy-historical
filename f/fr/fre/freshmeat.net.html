@@ -1,474 +1,273 @@
-<!--The following is the downloaded HTML source of the freshmeat.net privacy policy that was archived on 2003-10-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031009014525id_/http%3A//osdn.com/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freshmeat.net privacy policy that was archived on 2005-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050403160223id_/http%3A//www.ostg.com/privacy.htm) for the most accurate reproduction.-->
 
-<html><head><title>Open Source Development Network</title>
-
-
-
-
-<!-- start template: ID 148, header;misc;default -->
-
-<meta name="description" content="OSDN.com: The Open Source Development Network">
-<meta name="keywords" content="Open, Open Source, Slashdot, freshmeat, newsforge, themes.org, open source jobs, Linux Jobs, Linux employment, davecentral, slashcode, Linux, Linux.com, open source, Andover.net, sourceforge, sourceforge.net, operating system, VA, VA Linux, valinux, VA Software, vasoftware, software">
-
-
-
-
-
-
-<link rel="top" href="//www.osdn.com/" title="The Open Source Development Network">
-<link rel="search" href="//www.osdn.com/search.pl" title="Search OSDN.com">
-
-<style type="text/css">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+<title>OSTG | Open Source Technology Group</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="css/ostg.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">
 <!--
-.search {
-font-size: 11px;
-font-family: verdana, arial, sans-serif;
+function newImage(arg) {
+	if (document.images) {
+		rslt = new Image();
+		rslt.src = arg;
+		return rslt;
+	}
 }
-.search_button {
-font-size: 11px;
-font-family: verdana, arial, sans-serif;
-background: #eeeeee;
-}
-.osdn_foottext {
-border-top: 1px solid #999999;
-border-bottom: 1px solid #999999;
-}
--->
-</style>
 
+function changeImages() {
+	if (document.images && (preloadFlag == true)) {
+		for (var i=0; i<changeImages.arguments.length; i+=2) {
+			document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
+		}
+	}
+}
+
+var preloadFlag = false;
+function preloadImages() {
+	if (document.images) {
+		NavHome_01_ImageMap_01_over = newImage("http://ostg.com/images/nav/index/NavHome_01-ImageMap_01_over.gif");
+		NavHome_01_ImageMap_02_over = newImage("http://ostg.com/images/nav/index/NavHome_01-ImageMap_02_over.gif");
+		NavHome_01_ImageMap_03_over = newImage("http://ostg.com/images/nav/index/NavHome_01-ImageMap_03_over.gif");
+		NavHome_01_ImageMap_04_over = newImage("http://ostg.com/images/nav/index/NavHome_01-ImageMap_04_over.gif");
+		NavHome_01_ImageMap_05_over = newImage("http://ostg.com/images/nav/index/NavHome_01-ImageMap_05_over.gif");
+		preloadFlag = true;
+	}
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+
+function MM_showHideLayers() { //v6.0
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
+//-->
+</script>
 </head>
-
-<body bgcolor="#FFFFFF" text="#333333" link="#003399" vlink="#003399" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr bgcolor="#003399">
-		<td valign="bottom"><a href="//www.osdn.com"><img src="//images.osdn.com/OSDN_bluew_rev.gif" width="190" height="35" alt="OSDN - Open Source Development Network" border="0"></a></td>
-		<td valign="middle" width="100%" nowrap="">
-                        
-                        &nbsp;
-                        
-
-		</td>
-		<td valign="middle"><img src="//images.osdn.com/header_sites.gif" width="318" height="33" alt=""></td>
-		<td align="right">
-			<table>
-				<tbody><tr>
-				<form action="//www.osdn.com/osdnsearch.pl" method="GET"></form>
-					<td valign="middle" nowrap="">
-						<font face="verdana,arial,sans-serif" size="-2">
-						<input type="TEXT" size="10" name="query" value="" class="search">
-						<!-- <select NAME="site" class="search">
-							<option VALUE="all">All OSDN Sites</option>
-							<option VALUE="" DISABLED></option><option VALUE="Freshmeat">Freshmeat</option>
-							<option VALUE="Linux Software">Linux Software</option>
-							<option VALUE="Linux.com">Linux.com</option>
-							<option VALUE="LinuxGram">LinuxGram</option>
-							<option VALUE="NewsForge">NewsForge</option>
-							<option VALUE="OSDN" SELECTED>OSDN</option>
-							<option VALUE="Slashcode">Slashcode</option>
-							<option VALUE="Slashdot">Slashdot</option>
-							<option VALUE="SourceForge.net">SourceForge.net</option>
-						</select> -->
-						<input type="submit" name="Submit" value="Search" class="search_button">
-						</font></td>
-				
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td background="//images.osdn.com/header_st_bg.gif" height="30" valign="bottom" nowrap="">&nbsp;&nbsp;<font face="verdana,arial,sans-serif" size="-2"><b>
-
-<a href="//www.osdn.com/users.pl">LOG IN</a> | <a href="//www.osdn.com/users.pl?op=newuserform">NEW&nbsp;ACCOUNT</a>
-
-</b></font></td>
-<td valign="top">
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td width="100%" bgcolor="#003399" background="//images.osdn.com/header_st_bg.gif">&nbsp;</td>
-<td bgcolor="#003399" background="//images.osdn.com/top_menu_left.gif"><img src="//images.osdn.com/pix.gif" width="22" height="21" alt=""></td>
-<td valign="middle" nowrap="" background="//images.osdn.com/top_menu_bg.gif" align="center"><font size="-2" face="verdana,arial,sans-serif">&nbsp;&nbsp;<a href="/about" style="text-decoration:none"><b>ABOUT OSDN</b></a>&nbsp;&nbsp;</font></td>
-<td valign="middle" nowrap="" background="//images.osdn.com/top_menu_bg.gif" align="center"><img src="//images.osdn.com/top_div.gif" width="1" height="18" alt="|"></td>
-<td valign="middle" nowrap="" background="//images.osdn.com/top_menu_bg.gif" align="center"><font size="-2" face="verdana,arial,sans-serif">&nbsp;&nbsp;<a href="/myosdn" style="text-decoration:none"><b>MY OSDN</b></a>&nbsp;&nbsp;</font></td>
-<td valign="middle" nowrap="" background="//images.osdn.com/top_menu_bg.gif" align="center"><img src="//images.osdn.com/top_div.gif" width="1" height="18" alt="|"></td>
-<td valign="middle" nowrap="" background="//images.osdn.com/top_menu_bg.gif" align="center"><font size="-2" face="verdana,arial,sans-serif">&nbsp;&nbsp;<a href="http://newsletters.osdn.com" style="text-decoration:none"><b>NEWSLETTERS</b></a>&nbsp;&nbsp;</font></td>
-<td valign="middle" nowrap="" background="//images.osdn.com/top_menu_bg.gif" align="center"><img src="//images.osdn.com/top_div.gif" width="1" height="18" alt="|"></td>
-<td valign="middle" nowrap="" background="//images.osdn.com/top_menu_bg.gif" align="center"><font size="-2" face="verdana,arial,sans-serif">&nbsp;&nbsp;<a href="/pr" style="text-decoration:none"><b>PRESS &amp; EVENTS</b></a>&nbsp;&nbsp;</font></td>
-<td valign="middle" nowrap="" background="//images.osdn.com/top_menu_bg.gif" align="center"><img src="//images.osdn.com/top_div.gif" width="1" height="18" alt="|"></td>
-<td valign="middle" nowrap="" background="//images.osdn.com/top_menu_bg.gif" align="center"><font size="-2" face="verdana,arial,sans-serif">&nbsp;&nbsp;<a href="http://thinkgeek.com" style="text-decoration:none"><b>SHOP</b></a>&nbsp;&nbsp;</font></td>
-<td valign="middle" nowrap="" background="//images.osdn.com/top_menu_bg.gif" align="center"><img src="//images.osdn.com/top_div.gif" width="1" height="18" alt="|"></td>
-<td valign="middle" nowrap="" background="//images.osdn.com/top_menu_bg.gif" align="center"><font size="-2" face="verdana,arial,sans-serif">&nbsp;&nbsp;<a href="/advertising" style="text-decoration:none"><b>ADVERTISE</b></a>&nbsp;&nbsp;</font></td>
-<td valign="middle" nowrap="" background="//images.osdn.com/top_menu_bg.gif" align="center"><img src="//images.osdn.com/top_div.gif" width="1" height="18" alt="|"></td>
-<td valign="middle" nowrap="" background="//images.osdn.com/top_menu_bg.gif" align="center"><font size="-2" face="verdana,arial,sans-serif">&nbsp;&nbsp;<a href="/contact" style="text-decoration:none"><b>CONTACTS</b></a>&nbsp;&nbsp;</font></td>
-<td bgcolor="#003399" background="//images.osdn.com/top_menu_right.gif"><img src="//images.osdn.com/pix.gif" width="33" height="21" alt=""></td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-</tbody></table>
-                                                                                                                                       
-<center>
-<img src="//images.osdn.com/ad_dec.gif" width="125" height="12" alt="advertisement"><br>
-<!-- ad 1 place holder -->
-	<script language="JAVASCRIPT">
-<!--
-document.write("<iframe style='{background-color: #FFFFFF }' type='content' id='1' name='pos1' SRC='http://ads.osdn.com/?ad_id=831&alloc_id=1932&site_id=6&request_id=5416821' width='728' height='90' frameborder='0' border='0' MARGINWIDTH='0' MARGINHEIGHT='0' SCROLLING='no'></iframe>");
-//-->
-</script><iframe style="{background-color: #FFFFFF }" type="content" id="1" name="pos1" src="http://ads.osdn.com/?ad_id=831&amp;alloc_id=1932&amp;site_id=6&amp;request_id=5416821" width="728" height="90" frameborder="0" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-<noscript>
-<iframe style='{background-color: #FFFFFF }' id='1' type='content' name='pos1' SRC='http://ads.osdn.com/?ad_id=831&alloc_id=1932&site_id=6&request_id=5416821' width='728' height='90' frameborder='0' border='0' MARGINWIDTH='0' MARGINHEIGHT='0' SCROLLING='no'></iframe>
-</noscript>
-
-
-<!-- end ad 1 place holder -->
-</center>
-
-
-<table width="98%" align="CENTER" cellpadding="0" cellspacing="15" border="0">
+<body bgcolor="#FFFFFF" onload="preloadImages();MM_preloadImages('images/nav/subnav/sites/sitesItOn.gif','images/nav/subnav/sites/sitesDevOn.gif','images/nav/subnav/sites/sitesMedOn.gif','images/nav/subnav/sites/sitesThinkOn.gif','images/nav/subnav/sites/sitesNewsOn.gif','images/nav/subnav/press/pressPressOn_03.gif','images/nav/subnav/press/pressPressAwardsOn_04.gif','images/nav/subnav/press/pressInOn.gif','images/nav/TopNav/interior/aboutOn.gif','images/nav/TopNav/interior/sitesOn.gif','images/nav/TopNav/interior/pressOn.gif','images/nav/TopNav/interior/contactOn.gif','images/nav/TopNav/interior/homeOn.gif','images/nav/subnav/about/aboutCompOn.gif','images/nav/subnav/about/aboutExecOn.gif','images/nav/subnav/about/aboutEditOn.gif','images/nav/TopNav/interior/mediaOn.gif')">
+<table cellpadding="0" cellspacing="0" width="100%" border="0">
 	<tbody><tr>
-		<td valign="TOP" width="100%">
-		<p align="right">
-		<!-- ad 8 place holder -->
-		        <script language="JAVASCRIPT">
-<!--
-document.write("<iframe style='{background-color: #FFFFFF }' type='content' id='8' name='pos8' SRC='http://ads.osdn.com/?ad_id=844&alloc_id=1945&site_id=6&request_id=5416821' width='325' height='30' frameborder='0' border='0' MARGINWIDTH='0' MARGINHEIGHT='0' SCROLLING='no'></iframe>");
-//-->
-</script><iframe style="{background-color: #FFFFFF }" type="content" id="8" name="pos8" src="http://ads.osdn.com/?ad_id=844&amp;alloc_id=1945&amp;site_id=6&amp;request_id=5416821" width="325" height="30" frameborder="0" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-<noscript>
-<iframe style='{background-color: #FFFFFF }' id='8' type='content' name='pos8' SRC='http://ads.osdn.com/?ad_id=844&alloc_id=1945&site_id=6&request_id=5416821' width='325' height='30' frameborder='0' border='0' MARGINWIDTH='0' MARGINHEIGHT='0' SCROLLING='no'></iframe>
-</noscript>
-
-
-		<!-- end ad 8 place holder -->
-
-<!-- end template: ID 148, header;misc;default -->
-
- 
- </p><h1>
-
-         OSDN Privacy Statement
-      </h1>
-      <a name="section1"></a>
-      <p>
-         The Open Source Development Network, Inc. ("OSDN"),
-         comprised of the Internet sites osdn.com, slashdot.org,
-         sourceforge.net, freshmeat.net, linux.com, animationfactory.com,
-         gifworks.com, mediabuilder.com, postcardmaker.com, 3dtextmaker.com,
-         newsforge.com, geocrawler.com and devchannel.com (the "OSDN
-         Sites"), is committed to protecting the privacy of users of the
-         OSDN Sites. At OSDN, we intend to give you as much control as possible
-         over your personal information, including registration data. As part
-         of the normal operation of the OSDN Sites, we collect information from
-         you. This Privacy Statement describes the information we collect about
-         you and how that information may be used.
-      </p>
-      <a name="section1a"></a>
-      <p>
-         <b>Information Gathered through the OSDN Sites:</b>
-
-      </p>
-      <p>
-         OSDN will track the domains from which people visit the OSDN Sites in
-         order to gain aggregate data that may be analyzed for trends and
-         statistics. Subject to the provisions of this Privacy Statement, OSDN
-         may use accumulated aggregate data for several purposes including, but
-         not limited to, marketing analysis, evaluation of OSDN's
-         services, and business planning.
-      </p>
-      <a name="section1b"></a>
-      <p>
-         Currently, OSDN uses personal information as a basis for notifications
-         to users, and in order to implement the Terms and Conditions of Use
-         governing the OSDN Sites (the "Terms"). Generally, the user
-         names, email addresses, and any additional information that a user may
-         choose to post are publicly available on the OSDN Sites.&nbsp; When
-         users voluntarily and publicly disclose personal information that may
-         contain Registration Data, as defined in the Terms, or otherwise post
-         personal information in conjunction with content subject to a license,
-         such personal information necessarily will be disclosed subject to the
-         terms of the applicable license. An example of such a disclosure
-         includes, but is not limited to, a user's disclosure of personal
-         information as part of a message posted to a public message forum, or
-         a publicly-released software application.
-      </p>
-	<a name="section1c"></a>
-      <p>
-         OSDN may conduct surveys or other studies of its user base and usage
-         for marketing and planning purposes. Participation in such surveys is
-         at the user's option, but OSDN does reserve the right to conduct
-         mandatory surveys in the future. With respect to information collected
-         from such surveys or studies, and in the event that responses are to
-         be publicly disclosed, users will be notified at the time they take
-         the survey and OSDN will disclose only aggregate information regarding
-         its users and not personal information identifying any specific
-         individual. Notwithstanding the foregoing, in cases where surveys
-         allow users to submit written comments, and where OSDN advises users
-         of the possibility of such disclosure at the time they take the
-         survey, OSDN reserves the right to disclose text information provided
-         by any user through such a survey, provided that no personal
-         information identifying that user is disclosed.&nbsp; Circumstances
-         under which OSDN would publicly disclose aggregate information
-         include, but are not limited to, sharing survey results with the site
-         population, providing data to OSDN advertisers on user preferences
-         and/or demographics, business planning, and publicizing overall usage
-         data in press communications.
-      </p>
-      <a name="section1d"></a>
-      <p>
-         <u>Cookies</u>: OSDN employs "cookies" to provide users with
-         tailored information. A "cookie" is an element of data that
-         a website, when visited by a user, sends to that user's browser
-         which, in turn, may store that element on the user's hard drive or
-         memory.&nbsp; OSDN uses cookies to better serve users of our OSDN
-         Sites; any cookies sent by OSDN will be marked so that they will be
-         accessible only by OSDN Sites subject to this Privacy Statement.
-         However, at his or her option and at his or her sole expense and
-         responsibility, any user may block or delete our cookies from his or
-         her hard drive. However, by disabling cookies, certain site features
-         and functionality may no longer work properly, or at all.
-      </p>
-	<a name="section1e"></a>
-      <p>
-         <u>Other Notification</u>: In order to implement or enforce the Terms,
-         OSDN may use user-provided e-mail addresses to contact users on an
-         individual basis.&nbsp; At no time, unless such disclosure is required
-         by law, a governmental agency, or specifically authorized by the user,
-         will OSDN disclose individual user personal information to unrelated
-         third parties that is not publicly available.
-      </p>
-      <a name="section2"></a>
-      <p>
-         <b>Links with other sites</b>
-      </p>
-      <p>
-         The OSDN Sites contain links to other websites, whether owned or
-         controlled by OSDN affiliates, or unrelated third parties. Please note
-         that the privacy policies of these sites may differ from those of the
-         OSDN Sites. OSDN is not responsible for the privacy policies and
-         practices of any linked website. We encourage you to read the privacy
-         statement of any website you may visit.
-      </p>
-      <a name="section3"></a>
-
-      <p>
-         <b>Choice</b>
-      </p>
-      <p>
-         <u>"Opt-in" Emails</u>: Users may "opt-in" to
-         receive site notifications, newsletters, or other information via
-         email. Users may remove themselves from such services at their
-         discretion. Any email sent to an "opt-in" list will include
-         directions for how a user may remove himself or herself from the list,
-         or a URL where the user may find such directions.
-      </p>
-	<a name="section3a"></a>
-      <p>
-         <u>Profile Display</u>: In some cases, users' personal information
-         may be publicly available through a user's profile display. In
-         such cases, users have the option to opt out of publicly displaying
-         their personal information, including e-mail addresses.&nbsp; Users
-         may also enlist this technique when posing comments on certain OSDN
-         Sites.&nbsp; In cases where site profiles allow users to display
-         optional information publicly, such entry and display is at the
-         user's discretion and may be changed at any time by the user.
-      </p>
-      <a name="section3b"></a>
-      <p>
-         <u>Email Display</u>: In some cases, users may have the opportunity to
-         use an OSDN Site to send electronic mail to another user or email
-         list. In such cases, a user's valid email address and real name
-         will be included with such messages. In order to prevent abuse, users
-         may not opt-out of such a display, but may choose to refrain from
-         using such OSDN Site to transmit an email message.
-      </p>
-      <a name="section4"></a>
-
-      <p>
-         <b>Access</b>
-      </p>
-      <p>
-         On certain OSDN Sites, users can view their data on their personal
-         profile page. When technically feasible, users are permitted to update
-         their personal information directly through OSDN. When such updating
-         service is not technically feasible, OSDN will make reasonable efforts
-         to assist users in updating their personal information.
-      </p>
-      <a name="section5"></a>
-      <p>
-         <b>Security</b>
-
-      </p>
-      <p>
-         To secure site integrity, OSDN employs measures, including but not
-         limited to security audits, use of encryption tools and software, and
-         other reasonable security measures and procedures.
-      </p>
-      
-      <a name="section5a"></a>
-      <p>
-         Internal access to users' private and nonpublic personal
-         information is restricted to site administrators and individuals on a
-         need-to-know basis.
-      </p>
-      <a name="section6"></a>
-      <p>
-         <b>Enforcement</b>
-
-      </p>
-      <p>
-         In the event that OSDN becomes aware that site security is compromised
-         or nonpublic user information has been disclosed to unrelated third
-         parties as a result of external activity, including but not limited to
-         external security attacks, OSDN shall take reasonable measures which
-         it deems appropriate, including but not limited to internal
-         investigation and reporting, and notification to and cooperation with
-         law enforcement authorities, notwithstanding other provisions of this
-         Privacy Statement.
-      </p>
-      <a name="section6a"></a>
-      <p>
-         If OSDN becomes aware that a user's personal information provided
-         to OSDN has been disclosed in a manner not in accordance with this
-         Privacy Statement, OSDN shall make reasonable efforts to notify the
-         affected user, as soon as reasonably possible and as permitted by law,
-         of what information has been disclosed, to the extent that OSDN knows
-         this information.
-      </p>
-      <a name="section7"></a>
-      <p>
-         <b>Updates to the Privacy Statement</b>
-
-      </p>
-      <p>
-         To update the Privacy Statement, we will post both the changed version
-         and its effective date at <a href="&#10;         http://osdn.com/privacy.shtml">http://osdn.com/privacy.shtml</a>.
-      </p>
-      <a name="section8"></a>
-      <p>
-
-         <b>No Guarantees For Factors Beyond OSDN's Control</b>
-      </p>
-      <p>
-         <b>While this Privacy Statement expresses OSDN's standards for
-         maintenance of private data, it is not in a position to guarantee that
-         the standards will always be met. There may be factors beyond
-         OSDN's control (e.g., "script kiddies", "crackers and other malcontents") that may result in
-         disclosure of data. As a consequence, OSDN disclaims any warranties or
-         representations relating to maintenance or nondisclosure of private
-         information.</b>
-      </p>
-
-<p><b><small>Last modified: 03/04/03</small></b></p>
-</td><td valign="top"><img src="//images.osdn.com/ad_dec.gif" width="125" height="12" alt="advertisement"><br>
-<!-- ad 2 place holder -->
-	<script language="JAVASCRIPT">
-<!--
-document.write("<iframe style='{background-color: #FFFFFF }' type='content' id='2' name='pos2' SRC='http://ads.osdn.com/?ad_id=954&alloc_id=2237&site_id=6&request_id=5416821' width='120' height='600' frameborder='0' border='0' MARGINWIDTH='0' MARGINHEIGHT='0' SCROLLING='no'></iframe>");
-//-->
-</script><iframe style="{background-color: #FFFFFF }" type="content" id="2" name="pos2" src="http://ads.osdn.com/?ad_id=954&amp;alloc_id=2237&amp;site_id=6&amp;request_id=5416821" width="120" height="600" frameborder="0" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-<noscript>
-<iframe style='{background-color: #FFFFFF }' id='2' type='content' name='pos2' SRC='http://ads.osdn.com/?ad_id=954&alloc_id=2237&site_id=6&request_id=5416821' width='120' height='600' frameborder='0' border='0' MARGINWIDTH='0' MARGINHEIGHT='0' SCROLLING='no'></iframe>
-</noscript>
-
-
-<!-- end ad 2 place holder -->
-<p>
-<!-- ad 9 place holder -->
-        <script language="JAVASCRIPT">
-<!--
-document.write("<iframe style='{background-color: #FFFFFF }' type='content' id='9' name='pos9' SRC='http://ads.osdn.com/?ad_id=845&alloc_id=1946&site_id=6&request_id=5416821' width='125' height='80' frameborder='0' border='0' MARGINWIDTH='0' MARGINHEIGHT='0' SCROLLING='no'></iframe>");
-//-->
-</script><iframe style="{background-color: #FFFFFF }" type="content" id="9" name="pos9" src="http://ads.osdn.com/?ad_id=845&amp;alloc_id=1946&amp;site_id=6&amp;request_id=5416821" width="125" height="80" frameborder="0" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-<noscript>
-<iframe style='{background-color: #FFFFFF }' id='9' type='content' name='pos9' SRC='http://ads.osdn.com/?ad_id=845&alloc_id=1946&site_id=6&request_id=5416821' width='125' height='80' frameborder='0' border='0' MARGINWIDTH='0' MARGINHEIGHT='0' SCROLLING='no'></iframe>
-</noscript>
-
-
-<!-- end ad 9 place holder -->
-
-</p><p><img src="//images.osdn.com/ad_dec.gif" width="125" height="12" alt="advertisement"><br>
-<!-- ad 4 place holder -->
-        <script language="JAVASCRIPT">
-<!--
-now = new Date();
-tail = now.getTime();
-AltText = "\"Click Here\"";
-document.write("<A HREF='http://ads.osdn.com/?ad_id=767&alloc_id=1760&site_id=6&request_id=5416821&op=click&page=%2fslashhead%2einc' TARGET=_top>");
-document.write("<IMG SRC='http://ads.osdn.com/?ad_id=767&alloc_id=1760&site_id=6&request_id=5416821&");
-document.write(tail);
-document.write("' WIDTH=125 HEIGHT=125 BORDER=0 ALT=");
-document.write(AltText);
-document.write("></A><BR>");
-//-->
-</script><a href="http://ads.osdn.com/?ad_id=767&amp;alloc_id=1760&amp;site_id=6&amp;request_id=5416821&amp;op=click&amp;page=%2fslashhead%2einc" target="_top"><img src="http://ads.osdn.com/?ad_id=767&amp;alloc_id=1760&amp;site_id=6&amp;request_id=5416821&amp;1580450247111" width="125" height="125" border="0" alt="Click Here"></a><br>
-<noscript>
-<a HREF="http://ads.osdn.com/?ad_id=767&alloc_id=1760&site_id=6&request_id=5416821&op=click&page=%2fslashhead%2einc" TARGET=_top><img SRC="http://ads.osdn.com/?ad_id=767&alloc_id=1760&site_id=6&request_id=5416821" WIDTH=125 HEIGHT=125 BORDER=0 ALT="Click Here"></a><br>
-</noscript>
-<iframe width="0" height="1" border="0" frameborder="0"></iframe>
-
-<!-- end ad 4 place holder -->
-</p><p></p><div style="border-bottom: 1px #666666 solid;"><font size="-2" face="verdana, sans-serif"><b>Spotlight links</b></font></div>
-<font size="-2">
-<!-- ad 7 place holder -->
-        
-
-<!-- end ad 7 place holder -->
-</font>
-
-</td></tr></tbody></table><p>
-
-
-
-
-<!-- begin OSDN footer -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
-<tbody><tr align="center" valign="middle">
-<td height="50" class="osdn_foottext"><font face="verdana,arial,sans-serif" size="-2">© Copyright 2003 - <a href="http://www.osdn.com/">OSDN</a> Open Source Development Network, Inc., All Rights Reserved<br>
-About <a href="//www.osdn.com/about/">OSDN</a> &nbsp;•&nbsp; <a href="//www.osdn.com/privacy.shtml">Privacy Statement</a> &nbsp;•&nbsp; <a href="//www.osdn.com/terms.shtml">Terms of Use</a> &nbsp;•&nbsp; <a href="//www.osdn.com/advertise">Advertise</a> &nbsp;•&nbsp; <a href="http://selfserve.osdn.com/introduction.html">Self Serve Ad System</a> &nbsp;•&nbsp; <a href="mailto:info@osdn.com">Contact Us</a></font></td>
-
-</tr>
-</tbody></table>
-<!-- end osdn footer  -->
-</p><div align="center">
-<!-- ad 5 place holder -->
-        <script language="JAVASCRIPT">
-<!--
-now = new Date();
-tail = now.getTime();
-AltText = "\"Click Here\"";
-document.write("<A HREF='http://ads.osdn.com/?ad_id=163&alloc_id=1674&site_id=6&request_id=5416821&op=click&page=%2fslashhead%2einc' TARGET=_top>");
-document.write("<IMG SRC='http://ads.osdn.com/?ad_id=163&alloc_id=1674&site_id=6&request_id=5416821&");
-document.write(tail);
-document.write("' WIDTH=468 HEIGHT=60 BORDER=0 ALT=");
-document.write(AltText);
-document.write("></A><BR>");
-//-->
-</script><a href="http://ads.osdn.com/?ad_id=163&amp;alloc_id=1674&amp;site_id=6&amp;request_id=5416821&amp;op=click&amp;page=%2fslashhead%2einc" target="_top"><img src="http://ads.osdn.com/?ad_id=163&amp;alloc_id=1674&amp;site_id=6&amp;request_id=5416821&amp;1580450247181" width="468" height="60" border="0" alt="Click Here"></a><br>
-<noscript>
-<a HREF="http://ads.osdn.com/?ad_id=163&alloc_id=1674&site_id=6&request_id=5416821&op=click&page=%2fslashhead%2einc" TARGET=_top><img SRC="http://ads.osdn.com/?ad_id=163&alloc_id=1674&site_id=6&request_id=5416821" WIDTH=468 HEIGHT=60 BORDER=0 ALT="Click Here"></a><br>
-</noscript>
-<iframe width="0" height="1" border="0" frameborder="0"></iframe>
-
-<!-- end ad 5 place holder -->
-</div>
-
-<!-- image audit code -->
+		<td align="center" valign="top">
+			<table class="container" cellpadding="0" cellspacing="0" border="0">
+				<tbody><tr>
+					<td class="top" height="6"></td>
+				</tr>
+				<tr>
+					<td class="spacer"><img src="http://ostg.com/images/spacer.gif" alt="" width="8" height="8"></td>
+				</tr>
+				<tr>
+					<td class="banner">
 <script language="JAVASCRIPT">
 <!--
-now = new Date();
-tail = now.getTime();
-document.write("<IMG SRC='http://images-aud.osdn.com/pc.gif?l,");
-document.write(tail);
-document.write("' WIDTH=1 HEIGHT=1 BORDER=0>");
+document.write("<iframe style='{background-color: #eeeeee }'SRC='http://ads.osdn.com/?site_id=27;position=1;op=iframe' width='728' height='90' frameborder='0' border='0' MARGINWIDTH='0' MARGINHEIGHT='0' SCROLLING='no'></iframe>");
 //-->
-</script><img src="http://images-aud.osdn.com/pc.gif?l,1580450247397" width="1" height="1" border="0">
+</script><iframe style="{background-color: #eeeeee }" src="http://ads.osdn.com/?site_id=27;position=1;op=iframe" width="728" height="90" frameborder="0" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 <noscript>
-<IMG SRC='http://images-aud.osdn.com/pc.gif?l,350' WIDTH=1 HEIGHT=1 BORDER=0>
+<iframe style='{background-color: #eeeeee }' src='http://ads.osdn.com/?site_id=27;position=1;op=iframe' width='728' height='90' frameborder='0' border='0' marginwidth='0' marginheight='0' scrolling='no'></iframe>
 </noscript>
-<!-- end audit code -->
+</td>
+				</tr>
+				<tr>
+					<td class="spacer"><img src="http://ostg.com/images/spacer.gif" alt="" name="Image9" width="8" height="8" id="Image9"></td>
+				</tr>
+				<tr>
+					<td class="top_nav1"><table width="800" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr>
+							<td width="22">&nbsp;</td>
+							<td width="129"><a href="index.htm" onmouseover="MM_swapImage('home','','images/nav/TopNav/interior/homeOn.gif',1);MM_showHideLayers('About','','hide','Sites','','hide','Press','','hide')" onmouseout="MM_swapImgRestore()"><img src="http://ostg.com/images/nav/TopNav/interior/homeOff.gif" name="home" width="129" height="27" border="0" id="home"></a></td>
+							<td width="126"><a href="about/index.htm" onmouseover="MM_swapImage('about','','images/nav/TopNav/interior/aboutOn.gif',1);MM_showHideLayers('About','','show','Sites','','hide','Press','','hide')" onmouseout="MM_swapImgRestore();MM_showHideLayers('About','','hide')"><img src="http://ostg.com/images/nav/TopNav/interior/aboutOf.gif" name="about" width="126" height="27" border="0" id="about"></a></td>
+							<td width="124"><a href="sites/index.htm" onmouseover="MM_showHideLayers('About','','hide','Sites','','show','Press','','hide');MM_swapImage('sites','','images/nav/TopNav/interior/sitesOn.gif',1)" onmouseout="MM_showHideLayers('About','','hide','Sites','','inherit');MM_swapImgRestore()"><img src="http://ostg.com/images/nav/TopNav/interior/sitesOff.gif" name="sites" width="124" height="27" border="0" id="sites"></a></td>
+							<td width="127"><a href="advertising/index.htm" onmouseover="MM_showHideLayers('About','','hide','Sites','','hide','Press','','hide');MM_swapImage('mediakit','','images/nav/TopNav/interior/mediaOn.gif',1)" onmouseout="MM_swapImgRestore()"><img src="http://ostg.com/images/nav/TopNav/interior/mediaOff.gif" name="mediakit" width="127" height="27" border="0" id="mediakit"></a></td>
+							<td width="123"><a href="press/index.htm" onmouseover="MM_swapImage('presscenter','','images/nav/TopNav/interior/pressOn.gif',1);MM_showHideLayers('About','','hide','Sites','','hide','Press','','show')" onmouseout="MM_swapImgRestore();MM_showHideLayers('Press','','hide')"><img src="http://ostg.com/images/nav/TopNav/interior/pressOff.gif" name="presscenter" width="125" height="27" border="0" id="presscenter"></a></td>
+							<td width="127"><a href="contact/index.htm" onmouseover="MM_swapImage('contact','','images/nav/TopNav/interior/contactOn.gif',1);MM_showHideLayers('About','','hide','Sites','','hide','Press','','hide')" onmouseout="MM_swapImgRestore()"><img src="http://ostg.com/images/nav/TopNav/interior/contactOff.gif" name="contact" width="125" height="27" border="0" id="contact"></a></td>
+							<td width="22">&nbsp;</td>
+						</tr>
+          </tbody></table></td>
+				</tr>
+				<tr>
+          <td height="23" class="top_nav2">
+            <div id="About" style="position:relative; left:50px; top:0px; width:193px; height:23px;visibility: hidden;">
+              <table width="307" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                  <td width="131"><a href="about/index.htm" onmouseover="MM_swapImage('company','','images/nav/subnav/about/aboutCompOn.gif',1);MM_showHideLayers('About','','show')" onmouseout="MM_swapImgRestore();MM_showHideLayers('About','','hide')"><img src="http://ostg.com/images/nav/subnav/about/aboutCompOff.gif" name="company" width="132" height="23" border="0" id="company"></a></td>
+                  <td width="91"><a href="about/executive_bios.htm" onmouseover="MM_swapImage('executive','','images/nav/subnav/about/aboutExecOn.gif',1);MM_showHideLayers('About','','show')" onmouseout="MM_swapImgRestore();MM_showHideLayers('About','','hide')"><img src="http://ostg.com/images/nav/subnav/about/aboutExecOff.gif" name="executive" width="92" height="23" border="0" id="executive"></a></td>
+                  <td width="83"><a href="about/editorial_bios.htm" onmouseover="MM_swapImage('editorial','','images/nav/subnav/about/aboutEditOn.gif',1);MM_showHideLayers('About','','show')" onmouseout="MM_swapImgRestore();MM_showHideLayers('About','','hide')"><img src="http://ostg.com/images/nav/subnav/about/aboutEditOff.gif" name="editorial" width="83" height="23" border="0" id="editorial"></a></td>
+                </tr>
+              </tbody></table>
+               <div id="Sites" style="position:absolute; left:75px; top:0px; width:543px; height:23px; visibility: hidden;">
+                <table border="0" cellspacing="0" cellpadding="0">
+                  <tbody><tr>
+                    <td width="92"><a href="sites/index.htm" onmouseover="MM_swapImage('Image6','','images/nav/subnav/sites/overviewOn.gif',1);MM_showHideLayers('Sites','','show')" onmouseout="MM_swapImgRestore();MM_showHideLayers('Sites','','hide')"><img src="http://ostg.com/images/nav/subnav/sites/overviewOff.gif" name="Image6" width="92" height="23" border="0" id="Image6"></a></td>
+                    <td width="75"><a href="sites/it_focus.htm" onmouseover="MM_swapImage('it','','images/nav/subnav/sites/sitesItOn.gif',1);MM_showHideLayers('Sites','','show')" onmouseout="MM_swapImgRestore();MM_showHideLayers('Sites','','hide')"><img src="http://ostg.com/images/nav/subnav/sites/sitesItOff.gif" name="it" width="75" height="23" border="0" id="it"></a></td>
+                    <td width="79"><a href="sites/mediabuilder.htm" onmouseover="MM_swapImage('media1','','images/nav/subnav/sites/sitesMedOn.gif',1);MM_showHideLayers('Sites','','show')" onmouseout="MM_swapImgRestore();MM_showHideLayers('Sites','','hide')"><img src="http://ostg.com/images/nav/subnav/sites/sitesMedOff.gif" name="media1" width="79" height="23" border="0" id="media"></a></td>
+                    <td width="66"><a href="http://www.thinkgeek.com" target="_blank" onmouseover="MM_swapImage('think','','images/nav/subnav/sites/sitesThinkOn.gif',1);MM_showHideLayers('Sites','','show')" onmouseout="MM_swapImgRestore();MM_showHideLayers('Sites','','hide')"><img src="http://ostg.com/images/nav/subnav/sites/sitesThinkOff.gif" name="think" width="66" height="23" border="0" id="think"></a></td>
+                    <td width="73"><a href="sites/newsletters.htm" onmouseover="MM_swapImage('news','','images/nav/subnav/sites/sitesNewsOn.gif',1);MM_showHideLayers('Sites','','show')" onmouseout="MM_swapImgRestore();MM_showHideLayers('Sites','','hide')"><img src="http://ostg.com/images/nav/subnav/sites/sitesNewsOff.gif" name="news" width="73" height="23" border="0" id="news"></a></td>
+                  </tr>
+                </tbody></table>
+                <div id="Press" style="position:absolute; left:310px; top:0px; width:237px; height:23px; visibility: hidden;">
+                  <table border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="80"><a href="press/index.htm" onmouseover="MM_swapImage('in','','images/nav/subnav/press/pressInOn.gif',1);MM_showHideLayers('Press','','show')" onmouseout="MM_swapImgRestore();MM_showHideLayers('Press','','hide')"><img src="http://ostg.com/images/nav/subnav/press/pressInOff.gif" name="in" width="80" height="23" border="0" id="in"></a></td>
+                      <td width="97"><a href="press/press.htm" onmouseover="MM_swapImage('press1','','images/nav/subnav/press/pressPressOn_03.gif',1);MM_showHideLayers('Press','','show')" onmouseout="MM_swapImgRestore();MM_showHideLayers('Press','','hide')"><img src="http://ostg.com/images/nav/subnav/press/pressPressOff.gif" name="press1" width="97" height="23" border="0" id="press"></a></td>
+                      <td width="123"><a href="press/awards.htm" onmouseover="MM_swapImage('awards','','images/nav/subnav/press/pressPressAwardsOn_04.gif',1);MM_showHideLayers('Press','','show')" onmouseout="MM_swapImgRestore();MM_showHideLayers('Press','','hide')"><img src="http://ostg.com/images/nav/subnav/press/pressAwardsOff.gif" name="awards" width="123" height="23" border="0" id="awards"></a></td>
+                    </tr>
+                  </tbody></table>
+                </div>
+              </div>
+            </div>
+          </td>
+				</tr>
+				
+				<tr>
+					<td height="100%" align="center" valign="top">
+						<table class="container_inner" cellpadding="0" cellspacing="0" border="0">
+            <tbody><tr>
+              <td height="18" colspan="6"><img src="http://ostg.com/images/Headlines/privacy_statement.gif" width="756" height="42"></td>
+            </tr>
+            <tr>
+              <td height="14" colspan="2" bgcolor="#FFFFFF" class="bg_rule_left">&nbsp;</td>
+              <td height="14" class="bg_rule_right" bgcolor="#FFFFFF">&nbsp;</td>
+              <td width="12" rowspan="27"> <img src="http://ostg.com/images/spacer.gif"> <img src="http://ostg.com/images/spacer.gif"> </td>
+              <td width="164" rowspan="27"><img src="http://ostg.com/images/spacer.gif" width="4" height="4">
+                <p class="header2">Technology Sites</p>
+                <p align="left" class="copyside"><a href="http://www.slashdot.org" target="_blank"><img src="http://ostg.com/images/icons/icon_sd.gif" width="17" height="17" alt="SlashDot" class="img_left">Slashdot</a></p>
+                  <p align="left" class="copyside"><a href="http://www.itmanagersjournal.com" target="_blank"><img src="http://ostg.com/images/icons/icon_itmj.gif" width="17" height="17" class="img_left">ITManager'sJournal</a></p>
+                  <p align="left" class="copyside"><a href="http://www.newsforge.com" target="_blank"><img src="http://ostg.com/images/icons/icon_nf.gif" width="16" height="16" class="img_left">NewsForge</a></p>
+                  <p align="left" class="copyside"><a href="http://www.linux.com" target="_blank"><img src="http://ostg.com/images/icons/icon_lc.gif" width="16" height="17" class="img_left">Linux.com</a></p>
+                  
+                  <p class="copyside"><a href="http://www.sourceforge.net" target="_blank"><img src="http://ostg.com/images/icons/icon_sf.gif" width="16" height="16" class="img_left">SourceForge.net</a></p>
+                  <p class="copyside">                      <a href="http://www.freshmeat.net" target="_blank"><img src="http://ostg.com/images/icons/icon_fm.gif" width="17" height="17" class="img_left">freshmeat.net</a></p>
+                  <p class="copyside">                      <a href="http://www.devchannel.org" target="_blank"><img src="http://ostg.com/images/icons/icon_dc.gif" width="16" height="16" class="img_left">DevChannel.org</a></p>
+                  <p class="header2">MEDIABUILDER SITES</p>
+                  <p class="copyside"><a href="http://www.animationfactory.com" target="_blank"><img src="http://ostg.com/images/icons/icon_af.gif" width="17" height="12" class="img_left">Animation Factory</a></p>
+                  <p class="copyside">                      <a href="http://www.mediabuilder.com" target="_blank"><img src="http://ostg.com/images/icons/icon_mb.gif" width="17" height="13" class="img_left">MediaBuilder</a></p>
+                  <p class="header2">E-commerce Site</p>
+                  <p class="copyside"><a href="http://www.thinkgeek.com" target="_blank"><img src="http://ostg.com/images/icons/icon_tg.gif" width="16" height="16" class="img_left">ThinkGeek</a></p>
+                  <p class="header2">OSTG Newsletters</p>
+<p class="copyside">                                                                                                                                            <img src="http://ostg.com/images/more.gif" alt="Sign Up" style="margin-top:2px;padding-top:2px"><a href="http://newsletters.ostg.com"><b>Sign Up</b></a>
+                                                                        </p>
+                                                                </td>
+              <td width="12" rowspan="27" background="http://ostg.com/images/horRules/hor_rule_nav_right.gif">&nbsp;&nbsp;</td>
+            </tr>
+            <tr>
+							<td width="18" height="50" background="http://ostg.com/images/horRules/hor_rule_left.gif" bgcolor="#FFFFFF"></td>
+              <td width="532" bgcolor="#FFFFFF" class="footer">
+                <p class="content">OSTG, Inc.,  comprised of the Internet sites ostg.com, slashdot.org, sourceforge.net, freshmeat.net, thinkgeek.com, itmanagersjournal.com, slashcode.com, linux.com, animationfactory.com, gifworks.com, mediabuilder.com, postcardmaker.com, 3dtextmaker.com, NewsForge.com, geocrawler.com and devchannel.org (the "OSTG Sites"), is committed to protecting the privacy of users of the OSTG Sites. At OSTG, we intend to give you as much control as possible over your personal information, including registration data. As part of the normal operation of the OSTG Sites, we collect information from you. This Privacy Statement describes the information we collect about you and how that information may be used. </p>
+                <p class="header">Information Gathered through the OSTG Sites</p>
+                <p class="content">OSTG will track the domains from which people visit the OSTG Sites in order to gain aggregate data that may be analyzed for trends and statistics. Subject to the provisions of this Privacy Statement, OSTG may use accumulated aggregate data for several purposes including, but not limited to, marketing analysis, evaluation of OSTG's services, and business planning. </p>
+                <p class="content">Currently, OSTG uses personal information  as a basis for notifications to users, and in order to implement the Terms and Conditions of Use governing the OSTG Sites (the "Terms"). Generally, the user names, email addresses, and any additional information that a user may choose to post are publicly available on the OSTG Sites.&nbsp; When users voluntarily and publicly disclose personal information that may contain Registration Data, as defined in the Terms, or otherwise post personal information in conjunction with content subject to a license, such personal information necessarily will be disclosed subject to the terms of the applicable license. An example of such a disclosure includes, but is not limited to, a user's disclosure of personal information as part of a message posted to a public message forum, or a publicly-released software application. </p>
+                <p class="content">OSTG may conduct surveys or other studies of its user base and usage for marketing and planning purposes. Participation in such surveys is at the user's option, but OSTG does reserve the right to conduct mandatory surveys in the future. With respect to information collected from such surveys or studies, and in the event that responses are to be publicly disclosed, users will be notified at the time they take the survey and OSTG will disclose only aggregate information regarding its users and not personal information identifying any specific individual. Notwithstanding the foregoing, in cases where surveys allow users to submit written comments, and where OSTG advises users of the possibility of such disclosure at the time they take the survey, OSTG reserves the right to disclose text information provided by any user through such a survey, provided that no personal information identifying that user is disclosed.&nbsp; Circumstances under which OSTG would publicly disclose aggregate information include, but are not limited to, sharing survey results with the site population, providing data to OSTG advertisers on user preferences and/or demographics, business planning, and publicizing overall usage data in press communications. </p>
+                <p class="head3">Cookies</p>
+                <p class="content">OSTG employs "cookies" to provide users with tailored information. A "cookie" is an element of data that a website, when visited by a user, sends to that user's browser which, in turn, may store that element on the user's hard drive or memory.&nbsp; OSTG uses cookies to better serve users of our OSTG Sites; any cookies sent by OSTG will be marked so that they will be accessible only by OSTG Sites subject to this Privacy Statement. However, at his or her option and at his or her sole expense and responsibility, any user may block or delete our cookies from his or her hard drive. However, by disabling cookies, certain site features and functionality may no longer work properly, or at all. </p>                
+                <p class="head3">Other Notification</p>
+                <p class="content">In order to implement or enforce the Terms, OSTG may use user-provided e-mail addresses to contact users on an individual basis.&nbsp; At no time, unless such disclosure is required by law, a governmental agency, or specifically authorized by the user, will OSTG disclose individual user personal information to unrelated third parties that is not publicly available. </p>                <p class="header">Links with other sites </p>
+                <p class="content">The OSTG Sites contain links to other websites, whether owned or controlled by OSTG affiliates, or unrelated third parties. Please note that the privacy policies of these sites may differ from those of the OSTG Sites. OSTG is not responsible for the privacy policies and practices of any linked website. We encourage you to read the privacy statement of any website you may visit. </p>
+                <p class="header">Choice </p>
+                <p class="head3">"Opt-in" Emails</p>
+                <p class="content">Users may "opt-in" to receive site notifications, newsletters, or other information via email. Users may remove themselves from such services at their discretion. Any email sent to an "opt-in" list will include directions for how a user may remove himself or herself from the list, or a URL where the user may find such directions. </p>                <p class="head3">Profile Display</p>
+                <p class="content"> In some cases, users' personal information may be publicly available through a user's profile display. In such cases, users have the option to opt out of publicly displaying their personal information, including e-mail addresses.&nbsp; Users may also enlist this technique when posing comments on certain OSTG Sites.&nbsp; In cases where site profiles allow users to display optional information publicly, such entry and display is at the user's discretion and may be changed at any time by the user. </p>                <p class="head3">Email Display</p>
+                <p class="content"> In some cases, users may have the opportunity to use an OSTG Site to send electronic mail to another user or email list. In such cases, a user's valid email address and real name will be included with such messages. In order to prevent abuse, users may not opt-out of such a display, but may choose to refrain from using such OSTG Site to transmit an email message. </p>                <p class="header">Access </p>
+                <p class="content">On certain OSTG Sites, users can view their data on their personal profile page. When technically feasible, users are permitted to update their personal information directly through OSTG. When such updating service is not technically feasible, OSTG will make reasonable efforts to assist users in updating their personal information. </p>
+                <p class="header">Security </p>
+                <p class="content">To secure site integrity, OSTG employs measures, including but not limited to security audits, use of encryption tools and software, and other reasonable security measures and procedures. </p>
+                <p class="content">Internal access to users' private and nonpublic personal information is restricted to site administrators and individuals on a need-to-know basis. </p>
+                <p class="header">Enforcement </p>
+                <p class="content">In the event that OSTG becomes aware that site security is compromised or nonpublic user information has been disclosed to unrelated third parties as a result of external activity, including but not limited to external security attacks, OSTG shall take reasonable measures which it deems appropriate, including but not limited to internal investigation and reporting, and notification to and cooperation with law enforcement authorities, notwithstanding other provisions of this Privacy Statement. </p>
+                <p class="content">If OSTG becomes aware that a user's personal information provided to OSTG has been disclosed in a manner not in accordance with this Privacy Statement, OSTG shall make reasonable efforts to notify the affected user, as soon as reasonably possible and as permitted by law, of what information has been disclosed, to the extent that OSTG knows this information. </p>
+                <p class="header">No Guarantees For Factors Beyond OSTG's Control </p>
+                <p class="content"><strong>While this Privacy Statement expresses OSTG's standards for maintenance of private data, it is not in a position to guarantee that the standards will always be met. There may be factors beyond OSTG's control (e.g., "script kiddies", "crackers and other malcontents") that may result in disclosure of data. As a consequence, OSTG disclaims any warranties or representations relating to maintenance or nondisclosure of private information. </strong></p>
+                <p class="content">&nbsp;</p>                <strong>Last modified: </strong>06/22/04 </td>
+              <td width="18" background="http://ostg.com/images/horRules/hor_rule_right.gif" bgcolor="#FFFFFF"></td>
+            </tr>
+            <tr>
+              <td height="13" colspan="7" background="http://ostg.com/images/horRules/hor_rule_bottom.gif"><img src="http://ostg.com/images/horRules/hor_rule_bottom_interior.gif" width="562" height="13"></td>
+            </tr>
+          </tbody></table></td>
+				</tr>
+				<tr>
+					<td class="spacer"><img src="http://ostg.com/images/spacer.gif" alt="" width="8" height="8"></td>
+				</tr>
+				<tr>
+					<td class="banner">
+<script language="JAVASCRIPT">
+<!--
+document.write("<iframe style='{background-color: #eeeeee }'SRC='http://ads.osdn.com/?site_id=27;position=5;op=iframe' width='728' height='90' frameborder='0' border='0' MARGINWIDTH='0' MARGINHEIGHT='0' SCROLLING='no'></iframe>");
+//-->
+</script><iframe style="{background-color: #eeeeee }" src="http://ads.osdn.com/?site_id=27;position=5;op=iframe" width="728" height="90" frameborder="0" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<noscript>
+<iframe style='{background-color: #eeeeee }' src='http://ads.osdn.com/?site_id=27;position=5;op=iframe' width='728' height='90' frameborder='0' border='0' marginwidth='0' marginheight='0' scrolling='no'></iframe>
+</noscript>
+</td>
+				</tr>
+				<tr>
+          <td height="23" class="top_nav2">&nbsp;</td>
+			  </tr>
+				<tr>
+          <td align="center">
+						<p class="content" style="margin-bottom:0;padding-bottom:0;"><a href="index.htm">HOME</a> | <a href="about/index.htm">ABOUT US</a> | <a href="sites/index.htm">SITES</a> | <a href="http://www.ostg.com/advertising/index.htm">MEDIA KIT</a> | <a href="press/index.htm">PRESS CENTER</a> | <a href="contact/index.htm">CONTACT US</a></p>
+          </td>
+			  </tr>
+				<tr>
+          <td height="23" class="top_nav2">&nbsp;</td>
+			  </tr>
+				<tr>
+          <td align="center">            <p class="footer">© Copyright 2005 – OSTG, Inc., All Rights Reserved<br>
+              <a href="about/index.htm">About OSTG</a> | <a href="privacy.htm">Privacy Statement</a> | <a href="terms.htm">Terms of Use</a> | <a href="advertising/index.htm">Advertise</a><br>OSTG - A subsidiary of <a href="http://vasoftware.com" class="ostgnavbar">VA Software</a></p>
+              
+			  </td></tr>
+				<tr>
+					<td class="bottom" height="6"></td>
+				</tr>
+			</tbody></table>
+	</td></tr>
+</tbody></table>
+		
+	
 
+<script language="JAVASCRIPT">
+<!-- 
+now = new Date();
+ tail = now.getTime();
+ document.write("<IMG SRC='http://images-aud.ostg.com/pc.gif?l,");
+ document.write(tail);
+ document.write("' WIDTH=1 HEIGHT=1 BORDER=0>");
+ //-->
+</script><img src="http://images-aud.ostg.com/pc.gif?l,1580450251635" width="1" height="1" border="0">
+<noscript>
+<img src='http://images-aud.ostg.com/pc.gif?l,196' width=1 height=1 border=0>
+</noscript>
 
 
 </body></html>
