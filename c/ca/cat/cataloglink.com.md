@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the cataloglink.com privacy policy that was archived on 2003-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031012013444id_/http%3A//amos.catalogcity.com/cc.class/cc%3Fmain%3Dccn_privacy%26ccsyn%3D45) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cataloglink.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401201618id_/http%3A//amos2.catalogcity.com/amos/cc/main/ccn_privacy/ccsyn/45) for the most accurate reproduction.*
 
 # CatalogLink
 
 | 
 
-CatalogLink is a member of the Altura Network. Click here for [more details about the Network](http://admin-amos.catalogcity.com/cc.class/cc?main=portal_solutions&act=120%2CCatalogLink&ccsyn=251). 
+CatalogLink is a member of the Altura Network. Click here for [more details about the Network](http://admin-amos.catalogcity.com/amos/cc/main/portal_solutions/act/120%2CCatalogLink/ccsyn/251). 
 
 This privacy statement discloses the privacy and security practices for the CatalogLink website
 
 **TRUSTe Licensee**  
-CatalogCity.com is a licensee of TRUSTe. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because CatalogCity.com wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this website has agreed to notify you of:
+CatalogLink is a licensee of TRUSTe. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because CatalogLink wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this website has agreed to notify you of:
 
   1. What personally identifiable information of yours or third-party personally identifiable information is collected from you through the website 
   2. The organization collecting the information 
   3. How the information is used 
   4. With whom the information may be shared 
   5. What choices are available to you regarding collection, use and distribution of the information 
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under CatalogCity.com's control 
+  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under CatalogLink's control 
   7. How you can correct any inaccuracies in the information 
 
 
@@ -38,7 +38,7 @@ Altura International, Inc., the owner and operator of CatalogLink, is the sole o
   * Register 
   * Place an order 
   * Make changes or additions to your account settings 
-  * Use our Shopping/Gift Services such as Gift Registry and Catalog Requests 
+  * Use our Shopping/Gift Services such as Wish List (or Gift Registry) and Catalog Requests 
   * Enter site contests, such as sweepstakes 
   * Participate in a site survey 
   * Use our customer service and feedback links to communicate with us 
@@ -46,7 +46,7 @@ Altura International, Inc., the owner and operator of CatalogLink, is the sole o
 
 
 **Registration**  
-To make a purchase, request a catalog, redeem a gift certificate or coupon, send or redeem an eGift or create a gift registry on our site, you must first register with us. When filling out our registration form you are required to give your contact information (such as name, street address, phone number and email address). Your registration information becomes part of your personal account, which you can access by selecting the My Account tab at the top of our site.
+To make a purchase, request a catalog, redeem a gift certificate or coupon, send or redeem an eGift or create a Wish List on our site, you must first register with us. When filling out our registration form you are required to give your contact information (such as name, street address, phone number and email address). Your registration information becomes part of your personal account, which you can access by selecting the Your Account tab at the top of our site.
 
 During registration, you are given the opportunity to receive offers from different sources:
 
@@ -57,16 +57,16 @@ During registration, you are given the opportunity to receive offers from differ
 Selecting to receive offers from CatalogLink lets us know that you would like to occasionally receive email updates about new features on our site and special offers we think will interest you. Selecting to receive offers from "catalogs that I ordered from or request" tells us that it's okay for these catalogs to put you on their catalog mailing list. Selecting to receive offers from our marketing partners tells us that it's okay to share your contact information with third-party marketing partners. For more information on our sharing policies, please see **Sharing** below.
 
 **Placing an Order**  
-We request information from you in our checkout area when you place orders with any of the catalogs on our site. During checkout you must provide your credit card number and shipping address information if it's different than your default account. You also have the option to have your credit card information securely stored in your My Account for future use (see **My Account** below). After the checkout process is complete, your purchase information is securely forwarded to the catalog merchant you have made the purchase with. They will use this information so they can fulfill your order and contact you if they have questions regarding your order. In addition to your purchasing data, we forward all of your privacy settings to the catalog merchant. If you selected to receive offers from catalogs when you registered, or in your My Account privacy settings, then the catalog merchant may use your contact information to mail you catalogs, and/or send you special offers and email promotions.
+We request information from you in our checkout area when you place orders with any of the catalogs on our site. During checkout you must provide your credit card number and shipping address information if it's different than your default account. You also have the option to have your credit card information securely stored in Your Account for future use (see **Your  Account** below). After the checkout process is complete, your purchase information is securely forwarded to the catalog merchant you have made the purchase with. They will use this information so they can fulfill your order and contact you if they have questions regarding your order. In addition to your purchasing data, we forward all of your privacy settings to the catalog merchant. If you selected to receive offers from catalogs when you registered, or in Your Account privacy settings, then the catalog merchant may use your contact information to mail you catalogs, and/or send you special offers and email promotions.
 
-**My Account**  
-The personal information you enter during registration and/or during checkout is stored in your personal account area, also known as My Account. You can access My Account to add or change information, including changing your privacy settings, by entering the email address you used when you registered and the password you created. You also have the ability to add new credit card or shipping information to your My Account when placing an order. If you have elected to store your credit cards with us, we only display the last five digits of your credit card number in your account area. The full credit card information is stored on secure offline servers. For more information on how we protect your credit card information, please see our **Security** section below.
+**Your Account**  
+The personal information you enter during registration and/or during checkout is stored in your personal account area, also known as Your Account. You can access Your Account to add or change information, including changing your privacy settings, by entering the email address you used when you registered and the password you created. You also have the ability to add new credit card or shipping information to Your Account when placing an order. If you have elected to store your credit cards with us, we only display the last five digits of your credit card number in your account area. The full credit card information is stored on secure offline servers. For more information on how we protect your credit card information, please see our **Security** section below.
 
 **Address Book**  
-Your Address Book is the area in My Account where the billing address you enter during registration is stored. After registration, you also have the option to add shipping addresses. You can do this by going directly to My Account, or by entering a new shipping address when placing an order. Shipping addresses are used solely for the purpose of fulfilling your orders, and will not be used for any marketing purposes either by CatalogLink or the catalog merchant you have made the purchase with.
+Your Address Book is the area in Your Account where the billing address you enter during registration is stored. After registration, you also have the option to add shipping addresses. You can do this by going directly to Your Account, or by entering a new shipping address when placing an order. Shipping addresses are used solely for the purpose of fulfilling your orders, and will not be used for any marketing purposes either by CatalogLink or the catalog merchant you have made the purchase with.
 
 **Shopping/Gift Services**  
-CatalogLink provides you with a number of Shopping and Gift services. Some of these require personal information in order to carry out the given task. For example, to create a Gift Registry you may want to provide us with the name of a second recipient other than yourself, or a shipping address if different than that in your address book. With services like eGifts, E-Cards, and "send this product to a friend" we will need to know the recipient's email address so that we can send the requested communication to them via email. If you choose to purchase a Gift Certificate, you will need to provide us with the recipient's name and email address or street address, depending on how you wish the certificate to be sent. These services only require the minimal amount of information necessary to carry out the task at hand and nothing more. Although we do store this information in our database for tracking purposes, we make no other use of it beyond which it was intended.
+CatalogLink provides you with a number of Shopping and Gift services. Some of these require personal information in order to carry out the given task. For example, to create a Wish List you may want to provide us with the name of a second recipient other than yourself, or a shipping address if different than that in your address book. With services like eGifts, E-Cards, and "send this product to a friend" we will need to know the recipient's email address so that we can send the requested communication to them via email. If you choose to purchase a Gift Certificate, you will need to provide us with the recipient's name and email address or street address, depending on how you wish the certificate to be sent. These services only require the minimal amount of information necessary to carry out the task at hand and nothing more. Although we do store this information in our database for tracking purposes, we make no other use of it beyond which it was intended.
 
 **Contests**  
 In order to participate in CatalogLink sponsored contests or sweepstakes you will be required to provide us some information. Participation in these contests is completely voluntary and you have a choice whether or not to disclose this information. You also have the option not to have the information you give us distributed to other third parties not specifically involved with the promotion. Information requested may include contact information (such as name, email address and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Contests may be managed by a third party and this third party is not allowed to use the information you supply us for any other purpose except to manage the contest. Prizes are provided directly from CatalogLink unless the contest is being sponsored by a catalog merchant or other specified third party. In this case, the prize will be awarded by the catalog merchant or third party and the information you provide will be shared with them.
@@ -88,7 +88,7 @@ If you have agreed to receive offers from third-party marketing partners, the pe
 If you have agreed to receive offers from CatalogLink we occasionally provide your name and postal address (but not your email address) to a select group of companies whose products you may find of interest. If you do not want us to share this information with these companies, we can add your name to our "do-not-share" list. Please email us at [donotshare@altura.com](mailto:donotshare@altura.com) with your name and postal address if you do not want us to share this information.
 
 **Opt Out**  
-CatalogLink gives you the option to opt out from receiving offers from us and the catalogs that you've made purchases from on our site. You can opt out by de-selecting "Yes, send me offers from CatalogLink" and "Yes, send me offers from catalogs that I order from or request." You can do this during the registration process or by going to the privacy settings in your account area (My Account) after you've registered. You can also opt out by e-mailing us, phoning us or writing us, using the contact information provided above. If you do not wish to receive offers from our marketing partners, simply leave that checkbox unchecked. Additionally, if you have previously agreed to receive offers from our catalog merchants and marketing partners, and would like to discontinue receiving these offers, you can do so by following the simple opt out procedures they provide in the email or contacting them directly.
+CatalogLink gives you the option to opt out from receiving offers from us and the catalogs that you've made purchases from on our site. You can opt out by de-selecting "Yes, send me offers from CatalogLink" and "Yes, send me offers from catalogs that I order from or request." You can do this during the registration process or by going to the privacy settings in your account area (Your Account) after you've registered. You can also opt out by e-mailing us, phoning us or writing us, using the contact information provided above. If you do not wish to receive offers from our marketing partners, simply leave that checkbox unchecked. Additionally, if you have previously agreed to receive offers from our catalog merchants and marketing partners, and would like to discontinue receiving these offers, you can do so by following the simple opt out procedures they provide in the email or contacting them directly.
 
 **Security**  
 Our website takes every precaution to protect your information. When you submit sensitive information, that information is protected both online and offline. Website security is reviewed regularly to ensure we are up to date with industry standards and technology.
@@ -125,7 +125,7 @@ Building 1, Suite 210
 Monterey, CA 93940  
 Telephone: (831) 649-2489  
 E-mail: [customerservice@cataloglink.com](mailto:customerservice@cataloglink.com)  
-Web: [Contact Customer Service](http://amos.catalogcity.com/cc.class/cc?main=ccn_cs_email&ccsyn=45)  
+Web: [Contact Customer Service](http://amos2.catalogcity.com/amos/cc/main/ccn_cs_email/ccsyn/45)  
 
 
 Back to top of page | 
