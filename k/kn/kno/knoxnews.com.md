@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the knoxnews.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203204908id_/http%3A//web.knoxnews.com/web/contactinfo/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knoxnews.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602222710id_/http%3A//web.knoxnews.com/contactinfo/privacypolicy.shtml) for the most accurate reproduction.*
 
 # KnoxNews.com: Site Services
 
 Privacy Policy
 
- **KnoxNews.com** is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At **KnoxNews.com** we intend to give you as much control as possible over your personal information.
+**KnoxNews.com** is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At **KnoxNews.com** we intend to give you as much control as possible over your personal information.
 
 The purpose of our policy is to inform you about the types of information we gather about you when you visit our **site(s)** , how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information.
 
@@ -20,7 +20,7 @@ We also use cookies in connection with our chat rooms in order to record your pr
 
 We may require you to supply us with personal information (demographic information such as average age, income, education, population data, zip codes) during a "registration" process online prior to using certain features of our site. For example, you may be required to register to use chat rooms, forums, to access archival stories, to subscribe to newspapers, and to access other features. We use this general information to aggregate information according to demographics, such as gender, geographic location, age, income or a combination of these or other demographics.
 
-In addition, users may complete a subscription form online in order to subscribe to **The Knoxville News-Sentinel**. To subscribe, users must submit personal information in order for us to send the newspaper to you.
+In addition, users may complete a subscription form online in order to subscribe to **The Knoxville News Sentinel**. To subscribe, users must submit personal information in order for us to send the newspaper to you.
 
 **II. Use of User Information**
 
@@ -30,14 +30,12 @@ We may perform statistical analyses of aggregate user behavior. This allows us t
 
 We do not share personal identifying information with any third party without your permission. We disclose _only in aggregate form_ our statistical analyses or demographics of users to third parties, such as advertisers or other business partners. In some instances, we operate shared web sites with businesses affiliated with us. Our privacy policy will apply to these web sites, and our affiliates adhere to our privacy policy and will not share personal information with any third party without your permission. PLEASE BE AWARE that when you voluntarily disclose personal information (such as your name, e-mail address) in chat areas or bulletin boards to third parties, that information may be collected by others outside the control of us and may result in unsolicited messages from others.
 
-This site uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>. 
-
 **IV. Accuracy of User Information**
 
 In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to [**webmaster@knoxnews.com**](mailto:webmaster@knoxnews.com), or you can reach us by telephone at **(865) 342-6801**. You can also write us at:
 
 Knoxville News-Sentinel Co.  
-Online Media Division  
+Online Media  
 P.O. Box 59038  
 Knoxville, TN 37950 
 
