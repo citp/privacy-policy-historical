@@ -1,243 +1,627 @@
-<!--The following is the downloaded HTML source of the aao.org privacy policy that was archived on 2001-04-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010406220842id_/http%3A//www.eyenet.org/legal.html%23Privacy%2520Statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aao.org privacy policy that was archived on 2002-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021207214955id_/http%3A//www.aao.org/aao/privacy.cfm) for the most accurate reproduction.-->
 
-<html><head>
-<title>Copyright and Disclaimer</title></head>
+<!DOCTYPE html PUBLIC "-//IETF//DTD HTML//EN"><html xmlns:v="urn:schemas-microsoft-com:vml"><head><script language="JavaScript"> <!--
+var gMenuControlID=0;
+var menus_included = 0;
+var jsPageAuthorMode = 0;
+var jsSessionPreviewON = 1;
+var jsDlgLoader = '/aao/loader.cfm';
+var jsSiteID = 1;
+var jsSubSiteID = 1;
+function newWindow (name, url)
+{
+if (url.indexOf ("?") == -1)
+url = url + "?kurrentPageID=7729";
+else
+url = url + "&kurrentPageID=7729";
+window.open (url, name, "toolbar=no,resizable=yes,scrollbars=yes,menubar=no,location=no,width=450,height=290,top=200,left=200");}
+// -->
+</script>
+<script language="JavaScript">
+// Copyright 1999, 2000 by Ray Stott - ver 2.0
+// OK to use on noncommercial sites as long as copyright is included
+// Commercial Sites, please see http://www.crays.com/jsc/jsCom.htm
+// Script is available at http://www.crays.com/jsc
+var popWin = null    // use this when referring to pop-up window
+var winCount = 0
+var winName = "popWin"
+function openPopWin(winURL,winWidth,winHeight,winFeatures,winLeft,winTop){
+var d_winLeft = 20  // default, pixels from screen left to window left
+var d_winTop = 20   // default, pixels from screen top to window top
+winName = "popWin" + winCount++ //unique name for each pop-up window
+closePopWin()           // close any previously opened pop-up window
+if (openPopWin.arguments.length >= 4)  // any additional features?
+winFeatures = "," + winFeatures
+else
+winFeatures = ""
+if (openPopWin.arguments.length == 6)  // location specified
+winFeatures += getLocation(winWidth,winHeight,winLeft,winTop)
+else
+winFeatures += getLocation(winWidth,winHeight,d_winLeft,d_winTop)
+popWin = window.open(winURL,winName, "width=" + winWidth
++ ",height=" + winHeight + winFeatures)
+}
+function closePopWin(){    // close pop-up window if it is open
+if (navigator.appName != "Microsoft Internet Explorer"
+|| parseInt(navigator.appVersion) >=4) //do not close if early IE
+if(popWin != null) if(!popWin.closed) popWin.close()
+}
+function getLocation(winWidth,winHeight,winLeft,winTop){
+return ""
+}
+</script>
+<script language="JavaScript1.2">  // for Netscape 4+ and IE 4+
+function getLocation(winWidth,winHeight,winLeft,winTop){
+var winLocation = ""
+if (winLeft < 0)
+winLeft = screen.width - winWidth + winLeft
+if (winTop < 0)
+winTop = screen.height - winHeight + winTop
+if (winTop == "cen")
+winTop = (screen.height - winHeight)/2 - 20
+if (winLeft == "cen")
+winLeft = (screen.width - winWidth)/2
+if (winLeft>0 & winTop>0)
+winLocation =  ",screenX=" + winLeft + ",left=" + winLeft
++ ",screenY=" + winTop + ",top=" + winTop
+else
+winLocation = ""
+return winLocation
+}
+//-->
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+window.open(theURL,winName,features);
+}
+//-->
+</script>
+<meta name="Description" content="AAO.org Privacy Policy">
+<meta name="Keywords" content="">
+<meta name="Generator" content="CommonSpot v2.5"><title>AAO.org Privacy Policy</title></head><body lang="en" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" bgcolor="#FFFFFF" onload="CB_preloadImages('/commonspot/images/hp_assets/eye_on.gif','/commonspot/images/hp_assets/public_off.gif','/commonspot/images/hp_assets/media_off.gif','/commonspot/images/hp_assets/join_on.gif','/commonspot/images/hp_assets/forum_on.gif','/commonspot/images/hp_assets/job_on.gif','/commonspot/images/hp_assets/cal_on.gif','/commonspot/images/hp_assets/shop_on.gif');CB_preloadImages('/commonspot/images/hp_assets/public_on.gif')"><a name="__topdoc__"></a><script language="JavaScript"><!--
+// always-include-ie.js  Copyright 1998-2001 PaperThin, Inc. All rights reserved.
+bName = navigator.appName;
+bVer = parseInt(navigator.appVersion);
+var bCanRollover=0
+if ((bName == "Netscape" && bVer >= 3) ||
+(bName == "Microsoft Internet Explorer" && bVer >= 4))
+bCanRollover=1;
+function ImageSet(imgID,newTarget)
+{
+if (bCanRollover)
+document[imgID].src=newTarget;
+}
+function clearStatus()
+{
+window.status = "";
+}
+function setStatbar(statbar)
+{
+var strStatbar=unescape(statbar);
+window.status=strStatbar;
+}
+function onLoadComplete()
+{
+if( menus_included == 1 )
+document.onmouseover = document_mouseover;	// defined in menu_ie.js
+}
+function HandleLink(parentID,link)
+{
+// links are in one of the following formats:
+// 		cpe_60_0,CP___PAGEID=100
+// 		CPNEWWIN:WindowName^params@CP___
+// 			CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2.cfm,1
+if( jsPageAuthorMode == 0 )
+{
+windowname = "";
+windowparams = "";
+// "CPNEWWIN:" & NewWindowName & "^" & params & "@" & linkStruct.LinkURL;
+pos = link.indexOf("CPNEWWIN:");
+if (pos != -1)
+{
+pos1 = link.indexOf ("^");
+windowname = link.substring (pos+9, pos1);
+pos2 = link.indexOf ("@");
+windowparams = link.substring (pos1 + 1, pos2);
+link = link.substring (pos2 + 1, link.length);
+}
+if (link.indexOf ("CP___") != -1)
+{
+if (windowname == "")
+window.location = jsDlgLoader + "?url=/commonspot/utilities/handle-link.cfm&thelink=" + link;
+else
+{
+urltoopen = jsDlgLoader + "?url=/commonspot/utilities/handle-link.cfm&thelink=" + link;
+windowparams = FormatWindowParams(windowparams);
+window.open (urltoopen, windowname, windowparams);
+}
+}
+else
+{
+if (windowname == "")
+window.location = link;
+else
+{
+windowparams = FormatWindowParams(windowparams);
+window.open (link, windowname, windowparams);
+}
+}
+}
+else if( jsSessionPreviewON == 1 )
+{
+previewLink(link);
+}
+else
+{
+if( document.all[parentID] )
+document.all[parentID].click();
+}
+}
+function doWindowOpen(href,name,params)
+{
+window.open (href, name, params);
+}
+// 	CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2.cfm,1
+function FormatWindowParams(windowparams)
+{
+if( windowparams.indexOf(":loc=") != -1 || windowparams.indexOf(":ww=") != -1 || windowparams.indexOf(":hh=") != -1 ||
+windowparams.indexOf(":left=") != -1 || windowparams.indexOf(":top=") != -1 )
+{
+windowparams = substringReplace(windowparams,':left=',',left=');
+windowparams = substringReplace(windowparams,'left=','left=');
+windowparams = substringReplace(windowparams,':ww=',',width=');
+windowparams = substringReplace(windowparams,'ww=','width=');
+windowparams = substringReplace(windowparams,':hh=',',height=');
+windowparams = substringReplace(windowparams,'hh=','height=');
+windowparams = substringReplace(windowparams,':loc=',',location=');
+windowparams = substringReplace(windowparams,'loc=','location=');
+windowparams = substringReplace(windowparams,':dir=',',directories=');
+windowparams = substringReplace(windowparams,'dir=','directories=');
+windowparams = substringReplace(windowparams,':tb=',',toolbar=');
+windowparams = substringReplace(windowparams,'tb=','toolbar=');
+windowparams = substringReplace(windowparams,':stat=',',status=');
+windowparams = substringReplace(windowparams,':mb=',',menubar=');
+windowparams = substringReplace(windowparams,':sb=',',scrollbars=');
+windowparams = substringReplace(windowparams,':rs=',',resizeable=');
+}
+return windowparams;
+}
+function substringReplace(source,pattern,replacement)
+{
+var pos = 0;
+var target="";
+while ((pos = source.indexOf(pattern)) != (-1))
+{
+target = target + source.substring(0,pos) + replacement;
+source = source.substring(pos+pattern.length);
+pos = source.indexOf(pattern);
+}
+return (target + source);
+}
+// handle scheduled element links
+function show_sched_element(eid)
+{
+evalCol = String(self.element_collection);
+dispFlag = false;
+if ( evalCol != 'undefined' )
+{
+for(i=0;i<self.element_collection.length;i++)
+{
+sp = 'sched_elements_' + self.element_collection[i].id;
+obj = document.all.item(sp);
+//alert(sp);
+if ( self.element_collection[i].id == eid && obj != null)
+{
+dispFlag = true;
+if ( obj.length >= 0 )
+{
+for(z=0;z<obj.length;z++)
+{
+obj(z).style.display = 'block';
+}
+}
+else
+document.all(sp).style.display = 'block';
+}
+else if ( obj != null )
+{
+if ( obj.length >= 0 )
+{
+for(z=0;z<obj.length;z++)
+{
+obj(z).style.display = 'none';
+}
+}
+else
+document.all(sp).style.display = 'none';
+}
+}
+}
+if ( !dispFlag )
+alert("You do not have access to the requested element.")
+}
+// --></script>
+<script language="JavaScript"> <!--
+function onLoadFinished()
+{
+onLoadComplete();
+}
+var js_gvPageID = 7729;
+// -->
+</script><script language="JavaScript"><!--
+	bName = navigator.appName;
+	bVer = parseInt(navigator.appVersion);
 
-<body bgcolor="#FFFFFF">
-<!-- updated by lfraizer 061200 -->
+	var bCanRollover=0
+	if ((bName == "Netscape" && bVer >= 3) ||
+		 (bName == "Microsoft Internet Explorer" && bVer >= 4))
+		bCanRollover=1;
 
-<center>
-  <table cellpadding="0" cellspacing="0" border="0" width="570">
-    <tbody><tr>
-		
-      <td> <!--start 2nd level header--> <img src="/pictures/hdrs/logo_1.gif" width="266" height="61" border="0" alt="American Academy of Ophthalmology" usemap="#aao_home"><img src="/pictures/hdrs/lvl2/2nd/disclaim.gif" width="274" height="61" border="0" alt="Copyright and Disclaimer"><br>
-<img src="/pictures/hdrs/lvl2/lvl2indx_3.gif" width="266" height="53" border="0" usemap="#level2_index"><img src="/pictures/hdrs/lvl2/4th/2ndlvl_4.gif" width="274" height="70" border="0" alt="Search" usemap="#search" align="top">
-<map name="aao_home">
+	function ImageSet(imgID,newTarget)
+	{
+		if (bCanRollover)
+			document[imgID].src=newTarget;
+	}
+	// -->
+</script>
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tbody><tr>
+<td valign="top"><div align="left">
+<table id="idLayout467" border="0" cellpadding="0" cellspacing="0" width="100%" height="60" bgcolor="#ffffff">
+<tbody><tr><td id="idCell467x1x1" align="default" valign="top" bgcolor="#ffffff">
+<table id="idLayout14066" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr><td id="idCell14066x1x1" align="default" valign="top" background="/aao/images/bg.gif">
+<table id="idLayout14070" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr><td id="idCell14070x1x1" align="default" valign="top">
+<div id="7729-14075"> <div align="left"><a href="http://www.aao.org" style="text-decoration:none" onmouseout="setStatbar(''); return true;" onmouseover=" setStatbar('http://www.aao.org'); return true;"><img name="AIID--1" src="/aao/images/logo1.gif" border="0" width="175" height="51" alt="American Academy of Ophthalmology"></a></div></div><font size="1"><br></font>
+<div id="7729-14389">
 
-<area shape="RECT" coords="5,4,163,33" href="/aao_index.html" alt="American Academy of Ophthalmology Home">
-</map>
 
-<map name="search">
-<area shape="RECT" coords="1,1,65,19" href="/cgi-bin/search" alt="Search">
-</map>
-<map name="level2_index">
+<table width="250" height="12" border="0">
+  <tbody><tr>
+    <td><form method="get" id="form" name="search" action="http://www.aao.org/aao/aao-search.cfm">
+  <input type="TEXT" style="font-size: 7.5pt; font-family: verdana,garamond,arial" name="QueryText">
+  <input type="HIDDEN" name="ResultStart" value="1">
+  <input type="HIDDEN" name="ResultCount" value="20">
+  <input type="HIDDEN" name="ViewTemplate" value="docview.cfm">
+  <input type="SUBMIT" style="font-size: 7.5pt; font-family: verdana,garamond,arial" value="Search">
+ </form></td>
+  </tr>
+</tbody></table>
 
-<area shape="RECT" coords="151,1,266,20" href="/aao_index.html" alt="Eyenet Home Page">
-<area shape="RECT" coords="35,22,103,39" href="/siteindex.html" alt="Site Index">
-<area shape="RECT" coords="107,21,171,41" href="/feedback.html" alt="Feedback">
-<area shape="RECT" coords="175,21,265,40" href="/eyelinks.html" alt="Eye Care Links">
-</map>
-
-<!--end 2nd level header-->
+</div>
+</td><td id="idCell14070x1x2" valign="top">
+<img src="/commonspot/images/clear.gif" width="1" height="1"></td><td id="idCell14070x1x3" align="default" valign="top">
+<div id="7729-14074"> 
+  <form method="POST" name="dlgform" action="/aao/loader.cfm">
+    <table width="100%" height="80" border="0">
+      <tbody><tr> 
+        <td width="10" height="80">&nbsp;</td>
+        <td width="220" height="80"> <div align="center"><a href="http://www.aao.org/aao/advocacy/federal/feefix_action.cfm"><img src="/commonspot/images/assets/feeFixAction.jpg" width="200" height="80" border="0" align="top"></a> 
+          </div></td> 
+          
+        <td width="30">&nbsp;</td>
+        <td>
 	
-<p>
-		</p></td>
-	</tr>
-</tbody></table></center>
+		<table height="65" border="0" align="right" cellpadding="0">
+            <tbody><tr> 
+              <td height="35"></td>
+              <td height="35"></td>
+              <td height="35"> 
+                <a href="/aao/helpindex.cfm"><span style="font-weight:bold;font-family:Verdana, Arial, Helvetica, sans-serif; text-decoration:none;font-size:xx-small;color:black">help</span></a>
+                
+              </td>
+            </tr>
+				
+            <tr> 
+              <td width="100" height="10"><div align="center"><strong><font color="#000000" size="1" face="Verdana, Arial, Helvetica, sans-serif">Last 
+                  Name</font></strong></div></td>
+              <td width="100" height="10"><div align="center"><strong><font color="#000000" size="1" face="Verdana, Arial, Helvetica, sans-serif">ID 
+                  Number</font></strong></div></td>
+              <td height="10">&nbsp;</td>
+            </tr>
+            <tr> 
+              <td width="100"><div align="center"> 
+                  <input type="text" name="UserID" size="15" maxlength="17" value="" style="font-size: 7.5pt; font-family: verdana,garamond,arial" onfocus="this.value='';">
+                </div></td>
+              <td width="100"><div align="center"> 
+                  <input type="password" name="Password" size="15" style="font-size: 7.5pt; font-family: verdana,garamond,arial" value="" onfocus="this.value='';">
+                </div></td>
+              <td> <input type="submit" style="font-size: 7.5pt; font-family: verdana,garamond,arial" value="Login" name="Login">
+			 
+			  
+                 
+                
+            </td></tr>
+          </tbody></table>  </td>
+		  
+		  
+      </tr>
+    </tbody></table>
+    <input type="hidden" name="url" value="/commonspot/security/login-validate.cfm">
+    <input type="hidden" name="hidePendingActions" value="1">
+    <input type="hidden" name="hideAutoLogin" value="0">
+    <input type="hidden" name="hideChangePassword" value="1">
+    <input type="hidden" name="WindowType" value="/aao/index.cfm">
+    <input type="hidden" name="bNewWindow" value="0">
+  </form>
+  
+</div>
+</td></tr>
+</tbody></table>
+</td></tr><tr><td id="idCell14066x2x1" align="default" valign="top">
+<div id="7729-14078">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function CB_swapImgRestore() { //v3.0
+  var i,x,a=document.CB_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
 
-<blockquote>
+function CB_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.CB_p) d.CB_p=new Array();
+    var i,j=d.CB_p.length,a=CB_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.CB_p[j]=new Image; d.CB_p[j++].src=a[i];}}
+}
 
-<h2>Copyright</h2> The American Academy of Ophthalmology owns the copyright in all contents of the EyeNet website unless otherwise indicated.  We present all such copyrighted material here for personal use only as long as the copyright notice and permission notice is included in your reproduction. We expressly prohibit reprints or electronic reproduction of any document in part or in its entirety, unless you obtain prior written consent from the American Academy of Ophthalmology or the owner of the material.  Address all applications and inquiries to the contact cited on a particular page.
-<p>
-</p><h2>Disclaimer</h2> The American Academy of Ophthalmology provides on-line information and services on the Internet as a benefit to its members and the public and to further its educational mission.  
-<p>
-1. THE ACADEMY, ANY WEBSITE CONTRIBUTORS AND THEIR AFFILIATES DO NOT MAKE ANY WARRANTIES, AS TO THE ACCURACY, ADEQUACY OR COMPLETENESS OF ANY MATERIAL PRESENTED HERE, WHICH IS PROVIDED ON AN "AS IS" BASIS.  THE ACADEMY AND ITS WEBSITE CONTRIBUTORS ARE NOT LIABLE TO ANYONE FOR ANY: a) ERRORS, INACCURACIES, OMISSIONS OBTAINED HERE; b) DAMAGES OR INJURY TO PERSON OR PROPERTY FROM ANY USE OF IDEAS CONTAINED HERE; AND/OR c) ANY DAMAGES INCURRED IF MATERIAL INFECTS OR CONTAMINATES A USER'S SYSTEM.
+function CB_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=CB_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
 
-</p><p>
-2. The information published on the EyeNet website is not intended to replace consultation with an ophthalmologist.  The Academy cannot answer specific medical questions or refer you to a particular ophthalmologist.  
-</p><p>
-3. Unless specifically stated otherwise, the opinions expressed and statements made by various authors on this website reflect the author's observations and do not imply endorsement by the Academy.  Please see the <a href="/member/member_login.html">Online Forum Area disclaimer</a>. 
-  </p><p> 4. The Academy does not exert editorial control over and has not participated 
-    in the development of other Internet websites. The Academy does not support, 
-    endorse, or hold any responsibility for hyperlink pointers, their website 
-    content, any of their expressed views, any services they offer or hyperlinks 
-    they mention. The Academy does not endorse any of the products or companies 
-    mentioned in the EyeNet website. 
- 
-  </p><h2>Trademarks</h2>
-  The following are all trademarks or registered trademarks of the American Academy 
-  of Ophthalmology: EyeNet, American Academy of Ophthalmology, AAO, The Foundation 
-  of the American Academy of Ophthalmology, Advocacy Update, Clinical Pearls, 
-  LEO (Lifelong Education for the Ophthalmologist), Eyecon: Diabetic Retinopathy 
-  Pilot, Ophthalmology, Vision for Your Future, Get an Eyeful, Celebrate Sight: 
-  Do You Know Your Glaucoma Risk?<font size="-1"><sup>sm</sup></font> , National 
-  Eye Care Project (NECP), National Children's Eye Care Program (NCECP), Academy 
-  Services, Inc. (ASI), Academy Insurance Management Services, Inc. (AIMS), Diabetes 
-  2000, Discover Your Eye Q, Test Your Eye-Q, ICODE, NEON, Preferred Practice 
-  Pattern, Under Pressure, VISION, OEC: On-Line Education Center, Professional 
-  Choices. 
-  <p> Other product and company names mentioned here might be the trademarks of 
-    their respective owners. 
- 
-  </p><h2><a name="Eyenet"></a>Additional Information 
-    for <i>EyeNet Magazine</i> </h2>
-  <b>Copyright<br>
-  </b>©1999, American Academy of Ophthalmology, Inc.® All rights reserved. No 
-  part of this publication may be reproduced without written permission from the 
-  publisher. Letters to the editor and other unsolicited material are assumed 
-  intended for publication and are subject to editorial review, acceptance and 
-  editing. 
-  <p><b>Disclaimer</b><br>
-    The ideas and opinions expressed in EyeNet are those of the authors, and do 
-    not necessarily reflect any position of the editors, the publisher or the 
-    American Academy of Ophthalmology. Because this publication provides information 
-    on the latest developments in ophthalmology, articles may include information 
-    on drug or device applications that are not considered community standard, 
-    or that reflect indications not included in approved FDA labeling. Such ideas 
-    are provided as information and education only so that practitioners may be 
-    aware of alternative methods of the practice of medicine. Information in this 
-    publication should not be considered endorsement, promotion or in any other 
-    way encouragement for the use of any particular procedure, technique, device 
-    or product. EyeNet, its editors, the publisher or the Academy in no event 
-    will be liable for any injury and/or damages arising out of any decision made 
-    or action taken or not taken in reliance on information contained herein. 
-  </p><p>
-  </p><h2><b><a name="Privacy Statement"></a>Privacy Statement</b> <br>
-  </h2>
-  <ul>
-    <li>We only use information collected on EyeNet.org for Academy purposes and 
-      do not distribute this information to third parties. 
-    </li><li>We deploy technology to protect the information your send us. 
-    </li><li>Cookies are used to keep track of information to allow a better user experience 
-      and this information is kept confidential within the Academy. 
-  </li></ul>
-  <p> The American Academy of Ophthalmology has created this privacy statement 
-    in order to demonstrate our firm commitment to privacy. The following discloses 
-    our information gathering and dissemination practices for this website: <b>EyeNet.org.</b> 
-  </p><p> 
-  </p><p> We use your IP address to help diagnose problems with our server, and to 
-    administer our Web site. 
-  </p><p> Our site uses cookies to keep track of your shopping cart. We also use cookies 
-    to save and verify your password information so you don't have to register 
-    each time you visit our the Annual Meeting section. 
-  </p><p> EyeNet.org contains areas and forms that require user and member registration 
-    to give us contact information (like their name and email address), unique 
-    identifiers (like their social security number), financial information (like 
-    their account or credit card numbers), and demographic information (like their 
-    zip code, age, or income level). We use customer contact information from 
-    the registration form to send the user information about our company. 
-  </p><p> Financial information that is collected is used to bill the user for products 
-    and services. Unique identifiers (such as social security numbers) are collected 
-    to verify the user's identity. Demographic and profile data is also collected 
-    at our site. All data is only used for Academy purposes. 
-  </p><p> This site contains links to other sites. <b>EyeNet.org</b> is not responsible 
-    for the privacy practices or the content of such Web sites. 
-  </p><p> 
-  </p><p> Our site incorporates forms for customers to request information, products, 
-    and services. We collect visitor's contact information (like their email address), 
-    financial information (like their account or credit card numbers), and demographic 
-    information (like their zip code, age, or income level). Contact information 
-    from the order form is used to send orders and information about our company 
-    to our customers. Users may opt-out of receiving future mailings; see the 
-    choice/opt-out section below. Financial information that is collected is used 
-    to check the users' qualifications and bill the user for products and services. 
-  </p><p> EyeNet.org online surveys ask users and members for contact information 
-    (like their email address) and demographic information (like their zip code, 
-    age, or income level). We use contact data from our surveys to send the user 
-    information about our company. The customer's contact information is also 
-    used to contact the visitor when necessary. 
-  </p><h2><a name="emailprivacy"></a>Academy E-mail Privacy Policy</h2>
-  <p>The Academy will protect your e-mail address from inappropriate use.&nbsp; If 
-    the Academy determines the use of your e-mail address is of benefit to its 
-    members and/or their patients, the Academy may, with the approval of its Executive 
-    Vice President, provide your e-mail address to a third party.</p>
-  <p><b><u>Policies Governing the Use of Academy E-mail Addresses</u></b></p>
-  <p>The Academy's Executive Vice President may grant permission to use Academy 
-    e-mail addresses to organizations, firms or individuals who agree to comply 
-    with the following conditions:</p>
-  <ol start="1" type="1">
-    <li>The Academy determines if the use of e-mail addresses is of benefit to 
-      its members and/or their patients.</li>
-    <li>The content of every e-mail correspondence is subject to advance approval 
-      by the Academy.&nbsp; A sample of each intended e-mail correspondence must be 
-      reviewed and approved by the Academy.</li>
-    <li>Each set of Academy e-mail addresses will be used only once and only for 
-      the purpose approved by the Academy.</li>
-    <li>An entity other than the Academy cannot use Academy e-mail addresses to 
-      create or update its own database.&nbsp; The e-mail address list is the property 
-      of the Academy and may not be duplicated.</li>
-    <li>Use of Academy e-mail addresses does not imply Academy endorsement, and 
-      no implication of endorsement will be made in any correspondence.</li>
-    <li>Academy e-mail addresses will not be made available for any communication 
-      on drugs, medical equipment or devices involving the offer of a rebate, 
-      discount, or other remuneration, which in the sole discretion of the Academy 
-      may be illegal or unethical.</li>
-    <li>Academy e-mail addresses will not be made available for any communication 
-      that would tend to mislead, misinform, or deceive.</li>
-  </ol>
-  <h2>Member Forums</h2>
-  EyeNet.org incorporates a member only forum.<br>
-  To review the Member Forum Disclaimer <a href="/member/member_login.html">click 
-  here</a>. 
-  <p> 
-  </p><h2>Security</h2>
-  <p> This website has security measures in place to protect the loss, misuse 
-    and alteration of the information under our control. 
-  </p><p> 
-  </p><p> 
-  </p><h2>Contacting the Website</h2>
-  <p> 
-  </p><p>If you have any questions about this privacy statement, the practices of 
-    this site, or your dealings with this Web site, you can contact: 
-  </p><p> American Academy of Ophthalmology<br>
-  </p><p>Website Services<br>
-    655 Beach Street<br>
-    San Francisco, CA 94109<br>
-    <a href="mailto:webmaster@aao.org">webmaster@aao.org</a> 
-  </p><p>
-  </p><p>
-  </p><h2>&nbsp; </h2>
-  </blockquote>
-
-<center>
-<table border="0">
-	<tbody><tr>
-		<td>
-
-<p>
-<br>
-</p><center>
-<!--start 2nd level footer-->
-<img src="/pictures/hdrs/footers/index_footer_home.gif" alt="Footer_Home" border="0" usemap="#footer_home"><p>
-<map name="footer_home">
-
-<area shape="RECT" coords="109,6,229,27" href="/aao_index.html" alt="EyeNet Home Page">
-<area shape="RECT" coords="230,6,297,27" href="/cgi-bin/search" alt="Search EyeNet">
-<area shape="RECT" coords="298,6,369,27" href="/siteindex.html" alt="EyeNet Site Index">
-<area shape="RECT" coords="369,6,445,27" href="/feedback.html" alt="Feedback">
-<area shape="RECT" coords="446,6,540,28" href="/eyelinks.html" alt="Eye Care Links">
-</map>
-
-<!--end 2nd level footer-->
+function CB_swapImage() { //v3.0
+  var i,j=0,x,a=CB_swapImage.arguments; document.CB_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=CB_findObj(a[i]))!=null){document.CB_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
 
 
-
-</p><p>
-</p><center>
-
-<p>
-</p><center>
-<font size="-1">
-
-<a href="/legal.html">Copyright © 1996-2000</a> American Academy of Ophthalmology<p>
-
-<a href="/aao_index.html">Home</a> | <a href="/cgi-bin/search">Search</a> | <a href="/eyelinks.html">Links</a> | <a href="/feedback.html">Feedback</a> </p><p>
-
-<a href="/public/about_aao/">About AAO</a> |<a href="/public/about_oph/"> About Ophthalmology</a> | <a href="/public/pi/">Public Information</a> <br><a href="/public/pi/disclaimer_search.html"> Find an Ophthalmologist</a> |<a href="/public/whats_new/"> What's New</a><br>
-</p></font><p><font size="-1">
-
-</font></p></center>
-</center></center></td>
+  
+  <table width="580" border="0" cellpadding="0" cellspacing="1">
+    <tbody><tr>
+	<td width="8">&nbsp;</td>
+    <td><a href="/eyemd_disclaimer.cfm" onmouseout="CB_swapImgRestore()" onmouseover="CB_swapImage('find','','/commonspot/images/hp_assets/eye_on.gif',1)"><img src="/commonspot/images/hp_assets/eye_off.gif" alt="Find an Eye M.D." name="find" width="108" height="25" border="0"></a></td>
+      
+    <td><a href="/about/membership.cfm" onmouseout="CB_swapImgRestore()" onmouseover="CB_swapImage('join','','/commonspot/images/hp_assets/join_on.gif',1)"><img src="/commonspot/images/hp_assets/join_off.gif" alt="Join the Academy" name="join" width="90" height="25" border="0"></a></td>
+      <td><a href="/community/" onmouseout="CB_swapImgRestore()" onmouseover="CB_swapImage('forum','','/commonspot/images/hp_assets/forum_on.gif',1)"><img src="/commonspot/images/hp_assets/forum_off.gif" alt="The Academy's Online Community" name="forum" width="90" height="25" border="0"></a></td>
+    <td><a href="https://secure3.aao.org/professionalchoices/" onmouseout="CB_swapImgRestore()" onmouseover="CB_swapImage('job','','/commonspot/images/hp_assets/job_on.gif',1)"><img src="/commonspot/images/hp_assets/job_off.gif" alt="Find a job with Professional Choices" name="job" width="90" height="25" border="0"></a></td>
+      <td><a href="/aao/eyeorbit-calendar.cfm" onmouseout="CB_swapImgRestore()" onmouseover="CB_swapImage('calendar','','/commonspot/images/hp_assets/cal_on.gif',1)"><img src="/commonspot/images/hp_assets/cal_off.gif" alt="Calendar" name="calendar" width="90" height="25" border="0"></a></td>
+    <td><a href="https://secure3.aao.org/timssnet/products/aao_store_frontpage.cfm" onmouseout="CB_swapImgRestore()" onmouseover="CB_swapImage('shop','','/commonspot/images/hp_assets/shop_on.gif',1)"><img src="/commonspot/images/hp_assets/Shop_off.gif" alt="Shop the Academy's online store" name="shop" width="90" height="25" border="0"></a></td>
+  </tr>
+</tbody></table>
+</div>
+</td></tr><tr><td id="idCell14066x3x1" align="default" valign="top">
+<div align="left">
+<table id="idLayout14134" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr><td id="idCell14134x1x1" width="15" valign="top">
+<img src="/commonspot/images/clear.gif" width="1" height="1"></td><td id="idCell14134x1x2" align="default" valign="top">
+<div align="left"> <span class="normal"><font face="Verdana,Arial" size="2"><a href="/aao/" onmouseover=" setStatbar('/aao/');  return true;" onmouseout=" setStatbar('');  return true;">AAO Home</a></font></span><span class="normal"><font face="Verdana,Arial" size="2" color="Black">&nbsp;</font></span></div></td></tr><tr><td id="idCell14134x2x1" width="15" height="10" valign="top">
+<img src="/commonspot/images/clear.gif" width="1" height="1"></td><td id="idCell14134x2x2" height="10" valign="top">
+<img src="/commonspot/images/clear.gif" width="1" height="1"></td></tr>
+</tbody></table>
+</div></td></tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
+</div></td>
 </tr>
+<tr><td>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td valign="top" align="left">
+<table id="idLayout470" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr><td id="idCell470x1x1" align="default" valign="top">
+<img src="/commonspot/images/clear.gif" width="1" height="1"></td></tr><tr><td id="idCell470x2x1" align="default" valign="top">
+<div id="7729-1111"> 
+
+
+
+
+
+
+ <table width="215" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr><td width="215"> <table width="215" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+            <td width="200" bgcolor="#cccccc"><span style="font-weight:bold;font-family:Verdana, Arial, Helvetica, sans-serif; text-decoration:none;font-size:
+small;color:black">AAO Home</span></td>
+          <td width="15" bgcolor="#FFFFFF"></td>
+        </tr>
+      </tbody></table>
+    </td></tr>
+ 
+
+ <tr>
+      <td width="215" height="2"> 
+        <table width="215" border="0" cellspacing="0" cellpadding="0">
+           <tbody><tr> 
+            <td background="/commonspot/images/assets/ln_assets/ln_bg.GIF" width="20"> 
+              <div align="center"><img src="/commonspot/images/assets/ln_assets/arrow_vert.gif" width="7" height="7" name="ab_lft_vr" border="0"></div>
+            </td>
+            <td background="/commonspot/images/assets/ln_assets/ln_bg.GIF" width="180"><a href="&#10;&#9;&#9;&#10; &#9; &#9; &#9;about&#10; &#9;&#9; ">
+		 
+		 <span style="font-weight:bold;font-family:Verdana, Arial, Helvetica, sans-serif; text-decoration:none;font-size:x-small;color:black">About the Academy  </span></a><br>
+            </td>
+            <td width="15" bgcolor="#FFFFFF"><img src="/commonspot/images/assets/ln_assets/blank.GIF" width="1" height="1"></td>
+          </tr>
+         </tbody></table>
+	 </td></tr>
+	 <tr>
+	 <td width="215">
+	   <table width="215" border="0" cellspacing="0" cellpadding="0">
+	      <tbody><tr>
+	       <td width="200" background="/commonspot/images/assets/ln_assets/ln_bar_bg.GIF"><img src="/commonspot/images/assets/ln_assets/ln_bar_bg.GIF" width="1" height="1"></td>
+          <td width="15" bgcolor="#FFFFFF"><img src="/commonspot/images/assets/ln_assets/blank.GIF" width="1" height="1"></td>
+       </tr>
+	   </tbody></table>  
+  </td></tr>
+
+
+
+ <tr>
+      <td width="215" height="2"> 
+        <table width="215" border="0" cellspacing="0" cellpadding="0">
+           <tbody><tr> 
+            <td background="/commonspot/images/assets/ln_assets/ln_bg.GIF" width="20"> 
+              <div align="center"><img src="/commonspot/images/assets/ln_assets/arrow_vert.gif" width="7" height="7" name="ab_lft_vr" border="0"></div>
+            </td>
+            <td background="/commonspot/images/assets/ln_assets/ln_bg.GIF" width="180"><a href="&#10;&#9;&#9;&#10; &#9; &#9; &#9;newsroom&#10; &#9;&#9; ">
+		 
+		 <span style="font-weight:bold;font-family:Verdana, Arial, Helvetica, sans-serif; text-decoration:none;font-size:x-small;color:black">Newsroom  </span></a><br>
+            </td>
+            <td width="15" bgcolor="#FFFFFF"><img src="/commonspot/images/assets/ln_assets/blank.GIF" width="1" height="1"></td>
+          </tr>
+         </tbody></table>
+	 </td></tr>
+	 <tr>
+	 <td width="215">
+	   <table width="215" border="0" cellspacing="0" cellpadding="0">
+	      <tbody><tr>
+	       <td width="200" background="/commonspot/images/assets/ln_assets/ln_bar_bg.GIF"><img src="/commonspot/images/assets/ln_assets/ln_bar_bg.GIF" width="1" height="1"></td>
+          <td width="15" bgcolor="#FFFFFF"><img src="/commonspot/images/assets/ln_assets/blank.GIF" width="1" height="1"></td>
+       </tr>
+	   </tbody></table>  
+  </td></tr>
+
+
 </tbody></table>
 
 
+<style>
+<!--
+p {font-family:verdana, arial; font-size:x-small;}
+td {font-family:verdana, arial; font-size:x-small;}
+-->
+</style>
 
-</center>
-
-
-
-
-
+</div>
+</td></tr>
+</tbody></table>
+</td>
+<td valign="top" align="left">
+<table id="idLayout468" border="0" cellpadding="0" cellspacing="0" width="550">
+<tbody><tr><td id="idCell468x1x1" align="default" valign="top">
+<div id="7729-4000"> <div align="left"><span class="normal"><font face="Verdana,Arial" size="3" color="#000000"><strong>Privacy Policy</strong></font></span></div><span class="normal"><div align="left"><font face="Verdana,Arial" size="2" color="#000000"><h2 align="left"><font face="Verdana,Arial" size="2">Copyright</font></h2>
+<div align="left"><font face="Verdana,Arial" size="2">The American Academy of Ophthalmology owns the copyright in all contents of the aao.org website unless otherwise indicated. We present all such copyrighted material here for personal use only as long as the copyright notice and permission notice is included in your reproduction. We expressly prohibit reprints or electronic reproduction of any document in part or in its entirety, unless you obtain prior written consent from the American Academy of Ophthalmology or the owner of the material. Address all applications and inquiries to the contact cited on a particular page. </font></div>
+<p align="left"><font face="Verdana,Arial"></font>
+</p><h2 align="left"><font face="Verdana,Arial" size="2">Disclaimer</font></h2>
+<div align="left"><font face="Verdana,Arial" size="2">The American Academy of Ophthalmology provides on-line information and services on the Internet as a benefit to its members and the public and to further its educational mission. </font></div>
+<p align="left"><font face="Verdana,Arial" size="2">1. THE ACADEMY, ANY WEBSITE CONTRIBUTORS AND THEIR AFFILIATES DO NOT MAKE ANY WARRANTIES, AS TO THE ACCURACY, ADEQUACY OR COMPLETENESS OF ANY MATERIAL PRESENTED HERE, WHICH IS PROVIDED ON AN "AS IS" BASIS. THE ACADEMY AND ITS WEBSITE CONTRIBUTORS ARE NOT LIABLE TO ANYONE FOR ANY: a) ERRORS, INACCURACIES, OMISSIONS OBTAINED HERE; b) DAMAGES OR INJURY TO PERSON OR PROPERTY FROM ANY USE OF IDEAS CONTAINED HERE; AND/OR c) ANY DAMAGES INCURRED IF MATERIAL INFECTS OR CONTAMINATES A USER'S SYSTEM. </font>
+</p><p align="left"><font face="Verdana,Arial" size="2">2. The information published on the aao.org website is not intended to replace consultation with an ophthalmologist. The Academy cannot answer specific medical questions or refer you to a particular ophthalmologist. </font>
+</p><p align="left"><font face="Verdana,Arial" size="2"><font face="Verdana,Arial">3. Unless specifically stated otherwise, the opinions expressed and statements made by various authors on this website reflect the author's observations and do not imply endorsement by the Academy. </font></font>
+</p><p align="left"><font face="Verdana,Arial" size="2">4. The Academy does not exert editorial control over and has not participated in the development of other Internet websites. The Academy does not support, endorse, or hold any responsibility for hyperlink pointers, their website content, any of their expressed views, any services they offer or hyperlinks they mention. The Academy does not endorse any of the products or companies mentioned in the aao.org website. </font>
+</p><h2 align="left"><font face="Verdana,Arial" size="2">Trademarks</font></h2>
+<div align="left"><font face="Verdana,Arial" size="2">The following are all trademarks or registered trademarks of the American Academy of Ophthalmology: EyeNet, American Academy of Ophthalmology, AAO, The Foundation of the American Academy of Ophthalmology, Advocacy Update, Clinical Pearls, LEO (Lifelong Education for the Ophthalmologist), Eyecon: Diabetic Retinopathy Pilot, Ophthalmology, Vision for Your Future, Get an Eyeful, Celebrate Sight: Do You Know Your Glaucoma Risk?<sup>sm</sup> , National Eye Care Project (NECP), National Children's Eye Care Program (NCECP), Academy Services, Inc. (ASI), Academy Insurance Management Services, Inc. (AIMS), Diabetes 2000, Discover Your Eye Q, Test Your Eye-Q, ICODE, NEON, Preferred Practice Pattern, Under Pressure, VISION, OEC: On-Line Education Center, Professional Choices. </font></div>
+<p align="left"><font face="Verdana,Arial" size="2">Other product and company names mentioned here might be the trademarks of their respective owners. </font>
+</p><h2 align="left"><font face="Verdana,Arial" size="2"><a name="Eyenet"></a><font face="Verdana,Arial">Additional Information for <i>EyeNet Magazine</i> </font></font></h2>
+<div align="left"><font face="Verdana,Arial" size="2"><font face="Verdana,Arial"><a name="eyenet_copyright"></a><b>Copyright<br></b>©2001, American Academy of Ophthalmology, Inc.? All rights reserved. No part of this publication may be reproduced without written permission from the publisher. Letters to the editor and other unsolicited material are assumed intended for publication and are subject to editorial review, acceptance and editing. </font></font></div>
+<p align="left"><font face="Verdana,Arial" size="2"><font face="Verdana,Arial"><a name="eyenet_disclaimer"></a><b>Disclaimer</b><br>The ideas and opinions expressed in EyeNet are those of the authors, and do not necessarily reflect any position of the editors, the publisher or the American Academy of Ophthalmology. Because this publication provides information on the latest developments in ophthalmology, articles may include information on drug or device applications that are not considered community standard, or that reflect indications not included in approved FDA labeling. Such ideas are provided as information and education only so that practitioners may be aware of alternative methods of the practice of medicine. Information in this publication should not be considered endorsement, promotion or in any other way encouragement for the use of any particular procedure, technique, device or product. EyeNet, its editors, the publisher or the Academy in no event will be liable for any injury and/or damages arising out of any decision made or action taken or not taken in reliance on information contained herein. </font></font>
+</p><p align="left"><font face="Verdana,Arial"></font>
+</p><h2 align="left"><font face="Verdana,Arial" size="2"><b><a name="eyenet_privacy"></a><font face="Verdana,Arial">Privacy Statement</font></b><font face="Verdana,Arial"> <br></font></font></h2>
+<div align="left">
+<ul>
+<li><font face="Verdana,Arial" size="2">We only use information collected on aao.org for Academy purposes and do not distribute this information to third parties. </font>
+</li><li><font face="Verdana,Arial" size="2">We deploy technology to protect the information your send us. </font>
+</li><li><font face="Verdana,Arial" size="2">Cookies are used to keep track of information to allow a better user experience and this information is kept confidential within the Academy. </font></li></ul></div>
+<p align="left"><font face="Verdana,Arial" size="2">The American Academy of Ophthalmology has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: <b>aao.org.</b> </font>
+</p><p align="left"><font face="Verdana,Arial"></font>
+</p><p align="left"><font face="Verdana,Arial" size="2">We use your IP address to help diagnose problems with our server, and to administer our Web site. </font>
+</p><p align="left"><font face="Verdana,Arial" size="2">Our site uses cookies to keep track of your shopping cart. We also use cookies to save and verify your password information so you don't have to register each time you visit our the Annual Meeting section. </font>
+</p><p align="left"><font face="Verdana,Arial" size="2">aao.org contains areas and forms that require user and member registration to give us contact information (like their name and email address), unique identifiers (like their social security number), financial information (like their account or credit card numbers), and demographic information (like their zip code, age, or income level). We use customer contact information from the registration form to send the user information about our company. </font>
+</p><p align="left"><font face="Verdana,Arial" size="2">Financial information that is collected is used to bill the user for products and services. Unique identifiers (such as social security numbers) are collected to verify the user's identity. Demographic and profile data is also collected at our site. All data is only used for Academy purposes. </font>
+</p><p align="left"><font face="Verdana,Arial" size="2">This site contains links to other sites. <b>aao.org</b> is not responsible for the privacy practices or the content of such Web sites. </font>
+</p><p align="left"><font face="Verdana,Arial"></font>
+</p><p align="left"><font face="Verdana,Arial" size="2">Our site incorporates forms for customers to request information, products, and services. We collect visitor's contact information (like their email address), financial information (like their account or credit card numbers), and demographic information (like their zip code, age, or income level). Contact information from the order form is used to send orders and information about our company to our customers. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to check the users' qualifications and bill the user for products and services. </font>
+</p><p align="left"><font face="Verdana,Arial" size="2">aao.org online surveys ask users and members for contact information (like their email address) and demographic information (like their zip code, age, or income level). We use contact data from our surveys to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary. </font>
+</p><h2 align="left"><font face="Verdana,Arial" size="2"><a name="emailprivacy"></a><font face="Verdana,Arial">Academy E-mail Privacy Policy</font></font></h2>
+<p align="left"><font face="Verdana,Arial" size="2">The Academy will protect your e-mail address from inappropriate use.  If the Academy determines the use of your e-mail address is of benefit to its members and/or their patients, the Academy may, with the approval of its Executive Vice President, provide your e-mail address to a third party.</font></p>
+<p align="left"><font face="Verdana,Arial" size="2"><b><u>Policies Governing the Use of Academy E-mail Addresses</u></b></font></p>
+<p align="left"><font face="Verdana,Arial" size="2">The Academy's Executive Vice President may grant permission to use Academy e-mail addresses to organizations, firms or individuals who agree to comply with the following conditions:</font></p>
+<div align="left">
+<ol type="1">
+<li><font face="Verdana,Arial"><font face="Verdana,Arial" size="2">The Academy determines if the use of e-mail addresses is of benefit to its members and/or their patients.</font> </font>
+</li><li><font face="Verdana,Arial"><font face="Verdana,Arial" size="2">The content of every e-mail correspondence is subject to advance approval by the Academy.  A sample of each intended e-mail correspondence must be reviewed and approved by the Academy.</font> </font>
+</li><li><font face="Verdana,Arial"><font face="Verdana,Arial" size="2">Each set of Academy e-mail addresses will be used only once and only for the purpose approved by the Academy.</font> </font>
+</li><li><font face="Verdana,Arial"><font face="Verdana,Arial" size="2">An entity other than the Academy cannot use Academy e-mail addresses to create or update its own database.  The e-mail address list is the property of the Academy and may not be duplicated.</font> </font>
+</li><li><font face="Verdana,Arial"><font face="Verdana,Arial" size="2">Use of Academy e-mail addresses does not imply Academy endorsement, and no implication of endorsement will be made in any correspondence.</font> </font>
+</li><li><font face="Verdana,Arial"><font face="Verdana,Arial" size="2">Academy e-mail addresses will not be made available for any communication on drugs, medical equipment or devices involving the offer of a rebate, discount, or other remuneration, which in the sole discretion of the Academy may be illegal or unethical.</font> </font>
+</li><li><font face="Verdana,Arial"><font face="Verdana,Arial" size="2">Academy e-mail addresses will not be made available for any communication that would tend to mislead, misinform, or deceive.</font> </font></li></ol></div>
+<h2 align="left">
+<div align="left"><font face="Verdana,Arial" size="2"></font></div>
+<p align="left"><font face="Verdana,Arial"></font></p><font face="Verdana,Arial" size="2">Security</font></h2>
+<p align="left"><font face="Verdana,Arial" size="2">This website has security measures in place to protect the loss, misuse and alteration of the information under our control. </font>
+</p><p align="left"><font face="Verdana,Arial"></font>
+</p><p align="left"><font face="Verdana,Arial"></font>
+</p><h2 align="left"><font face="Verdana,Arial" size="2">Contacting the Website</font></h2>
+<p align="left"><font face="Verdana,Arial"></font>
+</p><p align="left"><font face="Verdana,Arial" size="2">If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: </font>
+</p><p align="left"><font face="Verdana,Arial" size="2">American Academy of Ophthalmology<br></font>
+</p><p align="left"><font face="Verdana,Arial" size="2"><font face="Verdana,Arial">Informatics<br>655 Beach Street<br>San Francisco, CA 94109<br></font><a href="mailto:webmaster@aao.org" designtimeurl="mailto:webmaster@aao.org"><font face="Verdana,Arial">webmaster@aao.org</font></a> </font></p></font></div></span></div></td></tr>
+</tbody></table>
+</td>
+<td valign="top" align="right">
+<table id="idLayout471" border="0" cellpadding="0" cellspacing="0" width="20">
+<tbody><tr><td id="idCell471x1x1" valign="top">
+<img src="/commonspot/images/clear.gif" width="1" height="1"></td></tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</td></tr>
+<tr>
+<td>
+<table id="idLayout469" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr><td id="idCell469x1x1" align="default" valign="top">
+<div id="7729-867">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td height="15"><img src="/commonspot/images/assets/blank.gif" width="1" height="1"></td>
+</tr>
+<tr>
+<td>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td background="/commonspot/images/assets/bg.JPG" height="2">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td width="10" height="2"><img src="/commonspot/images/assets/blank.gif" width="1" height="1"></td>
+<td width="100%">
+<table width="500" border="0" align="center" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td>
+<div align="center"><font face="Arial, Helvetica, sans-serif" size="1"><a href="/aao/privacy.cfm">Privacy
+Policy</a> | <a href="/aao/contact_us.cfm">Contact
+Us</a> | <a href="/aao/Term-of-Services.cfm">Terms
+of Service</a> | <a href="/aao/Term-of-Services.cfm#med">Medical
+Disclaimer</a> | <a href="/aao/site_index.cfm">Site
+Index</a></font></div>
+</td>
+</tr>
+<tr>
+<td>
+<div align="center"><font face="Arial, Helvetica, sans-serif" size="1">©
+1995 - 2002 American Academy of Ophthalmology</font></div>
+</td>
+</tr>
+</tbody></table>
+</td>
+<td width="10" height="2"><img src="/commonspot/images/assets/blank.gif" width="8" height="8"></td>
+<td width="100" height="2">
+<img src="/commonspot/images/assets/orbit.gif" alt="AAOrbit" border="0">
+</td>
+<td width="10" height="2"><img src="/commonspot/images/assets/blank.gif" width="1" height="1"></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</div></td></tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
 </body></html>
