@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pedsters-planet.co.uk privacy policy that was archived on 2004-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040614113537id_/http%3A//www.pedsters-planet.co.uk/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pedsters-planet.co.uk privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204215018id_/http%3A//www.pedsters-planet.co.uk/help/privacy.htm) for the most accurate reproduction.*
 
 # Pedsters Planet : Privacy Policy
 
-We can be reached via e-mail at [webmaster@pedsters-planet.co.uk](mailto:webmaster@pedsters-planet.co.uk)
+We can be reached via e-mail at webmaster @ pedsters-planet.co.uk 
 
 For each visitor to our Web page, our Web server automatically recognises only the consumer's domain name, but not the e-mail address (where possible).
 
