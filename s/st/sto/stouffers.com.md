@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stouffers.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205201000id_/http%3A//stouffers.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stouffers.com privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616143432id_/http%3A//www.stouffers.com/webdocs/privacy.asp) for the most accurate reproduction.*
 
-# Stouffer's
+# Stouffer's - Privacy Statement
 
 Thank you for visiting Stouffers.com. We value your visit to our Web site, and we hope you enjoy it. We know privacy is important to you, and want you to be comfortable as you explore our site, and perhaps share in the interactive nature of the site. We do not share personally identifiable information collected at this site with third parties. Below is a summary of this site's information collection and use practices. 
 
