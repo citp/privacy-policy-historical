@@ -1,33 +1,41 @@
-> *The following text is extracted and transformed from the ttiinc.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008162730id_/http%3A//www.ttiinc.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ttiinc.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609084137id_/http%3A//www.ttiinc.com/object/Internet_Privacy_Policy.html) for the most accurate reproduction.*
 
-# TTI Inc. - Electronic Components Distributor
+# Internet Privacy Policy
 
-**STATEMENT OF PRIVACY**
+At TTI, we understand your concerns regarding privacy and we are committed to protecting your privacy. You can browse through most of this Site without having to provide personal information but you may be asked to register or fill out a form to access certain features. This Policy explains what information we collect, what we do with it, and how we maintain its privacy. Please read this entire policy before using this site. Also see the separate Terms of Use.
 
-It's important to TTI Inc. to help our customers retain their privacy when they take advantage of all the Internet has to offer. To protect your privacy, ttiinc.com follows five principles in accordance with worldwide practices for customer privacy and data protection. 
+* * *
 
-PRINCIPLE 1 -- NOTICE We will ask you when we need information that personally identifies you (Personal Information) or allows us to contact you. Generally this information is requested when you are asked to register before downloading free software, entering a contest, ordering e-mail newsletters or joining a limited-access premium site. We use your Personal Information for four primary purposes: To make the site easier for you to use by not having to enter information more than once. To help you quickly find software, services or information on ttiinc.com. To help us create content most relevant to you. To alert you to product upgrades, special offers, updated information and other new services from TTI Inc.. 
+#### Information that we collect
 
-PRINCIPLE 2 - CONSENT If you choose not to register or provide personal information, you can still use most of ttiinc.com. But you will not be able to access areas that require registration. If you decide to register, you will be able to select the information you want to receive from ttiinc.com by subscribing to various services, like our electronic newsletters. If you do not want ttiinc.com to communicate with you about other offers regarding TTI Inc. products, programs, events, or services by e-mail, postal mail, or telephone, you may visit the ttiinc.com Profile Center, and establish your preferences in the Free Newsletters and Contact Options section. ttiinc.com occasionally allows other companies to offer our registered customers information about their products and services, using postal mail only. If you do not want to receive these offers, you should uncheck the Contact Options section stating, "TTI Inc. partners can send me postal mail about their services or products." 
+We collect certain information in order to improve the features of our Site, to provide you with helpful information, to support our security procedures, and to help us contact you to resolve an issue. Nearly all personal information that we collect is explicitly provided by you through registration forms and request forms. Typically this is contact type information such as name, address, company, and email address.
 
-PRINCIPLE 3 - ACCESS We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time at the Profile Center. The Profile Center is akin to a visitor center. There, you can: View and edit personal information you have already given us. Tell us whether you want ttiinc.com to send you marketing information, or whether you want third parties to send you their offers by postal mail. Sign up for electronic newsletters about our services and products. Register. Once you register, you won't need to do it again. Wherever you go on ttiinc.com, your information stays with you. 
+In addition to information you provide to us explicitly, the Site uses technology to collect technical information such as your Internet Protocol address, your computer’s operating system, and your browser type. We use this information to help us improve the Site and to enable security.
 
-PRINCIPLE 4 - SECURITY ttiinc.com strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. 
+#### Visitor Identification (“cookies”)
 
-PRINCIPLE 5 - ENFORCEMENT If for some reason you believe ttiinc.com has not adhered to these principles, please notify us by e-mail at webmaster@ttiinc.com, and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line. 
+We may place information on your computer to allow us to identify you. This information is commonly known as “cookies”. We place cookies to help us create a faster user experience and to enforce certain security procedures. The use of cookies is a well-known industry standard. If you do not wish to receive cookies, or want to be notified when they are placed, you may set your web browser to do so, if your browser so permits.
 
-ELECTRONIC PRODUCT REGISTRATION When you buy and install a new product, we may ask you to register your purchase electronically. When you do, we merge your registration information with any information you've already left with us (we call that information your personal profile). If you haven't previously registered with us, we create a personal profile for you from your product registration information. If you ever want to review or update that information, you can visit the Profile Center and edit any of the Personal Information in your profile. If you haven't already registered by giving us your e-mail address and a password, we will ask you to do so. This ensures that only you can access your information. 
+#### How we protect your privacy
 
-CUSTOMER PROFILES As mentioned above, every registered customer has a unique personal profile. Each profile is assigned a unique personal identification number, which helps us ensure that only you can access your profile. When you register, we create your profile, assign a personal identification number, then send this personal identification number back to your hard drive in the form of a cookie, which is a very small bit of code. This code is uniquely yours. It enables seamless travel across ttiinc.com, allowing you to download free software, order free newsletters, and visit premium sites without having to fill out registration forms with information you've already provided. Even if you switch computers, you won't have to re-register - just use your e-mail address and password to identify yourself. Be sure to read our privacy FAQ below: 
+TTI, Inc. takes several steps to safeguard your personal information -
 
-Q: What is a cookie, and how does a cookie affect my privacy? 
+  * Your personal information is stored on equipment that is protected from the Internet by a firewall (a device that prevents unauthorized access to a private network). Your information is protected to the same degree as we protect other TTI, Inc. confidential data from loss, misuse, disclosure, alteration, destruction or unauthorized access.
+  * We only share aggregate statistics, if any, with third parties. TTI, Inc. **will not** disclose your personal information to outside parties unless you authorize us to do so, or unless we are obligated by law to do so, or unless we must disclose it to defend TTI, Inc. against some claim.
+  * Whenever you sign into the Site we automatically encrypt your unique User ID and Password so that a third party cannot read it.
+  * Your website Profile can only be accessed by the TTI, Inc. Security Department or by you, and it is associated with a unique User ID and Password, which you control.
+  * You may change your password or other personal information at any time through the Profile page on the Site.
 
-A: Please read our separate q/a about cookies. It should help you understand how cookies help you navigate our site. 
 
-Q: How exactly does registration information help you provide me better content? 
 
-A: Today, the ttiinc.com site is comprised of more than 300,000 Web pages of content. That's equivalent to more than 300 very thick novels. Finding what you need among those pages can be intimidating. But when you tell us about yourself - for example, that you're an IT professional - we can suggest content you might find useful. The better we know you, the more specific information we can suggest. If you want us to, we will also send you product or information updates that help you stay abreast of changes in your industry. 
+#### Emails
 
-Q: How can I quit a registration wizard before finishing, and what happens to the information I've already typed in? 
+If you are registered with the Site we will occasionally send you emails about various products and services that we feel may be of interest to you. You may choose to stop receiving these emails at any time by using the “opt-out” link that is included in each email. Even if you have opted out, however, we still reserve the right to send you notices by email of changes to the Site.
 
-A: If you begin a registration form, then decide you don't want to finish it, just click the cancel button on the bottom of the page. You will be delivered to the entry page of the Profile Center. None of the information entered on the page where you quit the wizard will be saved. However, information entered on previous pages of that wizard, if any, will be saved in our database. 
+#### Changes
+
+We may change this Privacy Policy at any time with or without notice.
+
+If you have any questions or comments concerning our privacy statement contact us at [information@ttiinc.com](mailto:information@ttiinc.com).
+
+* * *
