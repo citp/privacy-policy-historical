@@ -1,0 +1,213 @@
+> *The following text is extracted and transformed from the weightwatchers.ca privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215185331id_/http%3A//weightwatchers.ca/legal/n3_le_privacy.asp) for the most accurate reproduction.*
+
+# Welcome to Weight Watchers
+
+|   
+|  |  |   
+LOGIN  
+Become a registered user.  
+User Name:  
+  
+Password    Forgot password?  
+  
+Remember User Name   
+|  |   
+---|---|---|---|---  
+|  |   
+TRY OUR SUBSCRIBER TOOLS  
+Follow Winning Points with the Web's best weight loss tools.  
+Journal  
+Weight Tracker  
+Meal Plans  
+POINTS® Calculators  
+Recipe Search  
+|  |   
+---|---|---|---|---  
+|  PRIVACY POLICY
+
+WEIGHTWATCHERS.CA LIMITED
+
+PRIVACY POLICY
+
+Your privacy and the security of your personal information are very important to us. We want you to be as comfortable as possible visiting our Website and using our Online Products. We are dedicated to protecting the privacy of those who visit our Website and use our Online Products. This Privacy Policy governs the Canadian website operated by us (our "Website") and explains how we collect your personal information on our Website, how we protect such information, and the choices you have concerning the use and disclosure of such information. Please read this Privacy Policy carefully. This Website is for use by residents of Canada only. Except as we disclose in this Privacy Policy, we will not sell, share, license, trade, or rent your personal information to others. For purposes of this Privacy Policy, "we", "us", and "our" means WeightWatcher.ca Limited ("WeightWatchers.ca"), WeightWatchers.com, Inc. and Weight Watchers International, Inc. 
+
+We may amend this Privacy Policy from time to time. We will post any changes to this Privacy Policy here so that you will always know what information we gather, how we might use that information, and whether we will disclose that information to anyone. Please refer back to this Privacy Policy on a regular basis. By using our Website or any of our products, offerings, features, tools or resources that we provide on our Website (collectively, our "Online Products"), you agree to the terms of this Privacy Policy. 
+
+**Please remember that this Privacy Policy applies only to information collected by our Website. We are not responsible for the privacy of any information you reveal or post in any public forum (e.g., message board or chat room) or through the "Public Profile" feature available on our Website, or for the privacy practices of websites that are operated or owned by third parties.  
+**   
+The following are links to the provisions of our Privacy Policy. For immediate access to a particular topic, click on that provision title below.
+
+WHAT INFORMATION ABOUT ME IS COLLECTED ON OUR WEBSITE?
+
+WHERE AND WHEN IS INFORMATION COLLECTED ON OUR WEBSITE (INCLUDING THROUGH THE USE OF COOKIES AND ACTION TAGS)? 
+
+DOES OUR WEBSITE COLLECT INFORMATION FROM CHILDREN UNDER 13 YEARS OF AGE? 
+
+WHAT DOES OUR WEBSITE DO WITH THE INFORMATION IT COLLECTS? 
+
+WHEN DOES OUR WEBSITE DISCLOSE INFORMATION TO THIRD PARTIES? 
+
+DOES THIS PRIVACY POLICY APPLY WHEN I LINK TO OTHER WEBSITES? 
+
+IS THE INFORMATION COLLECTED ON OUR WEBSITE SECURE? 
+
+WHAT CHOICES DO I HAVE REGARDING THE COLLECTION, DISCLOSURE AND DISTRIBUTION OF PERSONALLY IDENTIFIABLE INFORMATION? 
+
+CAN I UPDATE OR CORRECT MY PERSONALLY IDENTIFIABLE INFORMATION? 
+
+HOW WILL I KNOW IF THERE ARE ANY CHANGES TO THIS PRIVACY POLICY? 
+
+WHO DO I CONTACT IF I HAVE ANY PRIVACY QUESTIONS?   
+  
+WHAT INFORMATION ABOUT ME IS COLLECTED ON OUR WEBSITE?
+
+We collect two types of information: personally identifiable information and non-personally identifiable information.
+
+**Personally Identifiable Information.  
+**   
+Personally identifiable information is information that identifies you or can be used to identify or contact you ("Personally Identifiable Information"). Such Personally Identifiable Information may include your name, address, email address, telephone number, birth date (for the purposes of determining eligibility to subscribe to our Online Products or offerings, conducting demographic analyses, personalizing your experience on the Website, and/or satisfaction of contest eligibility requirements) and billing and credit card information. We may request Personally Identifiable Information from you when you register on our Website, subscribe to our Online Products or in connection with other Online Products we may make available on our Website from time to time. In all of these cases, we will collect Personally Identifiable Information from you only if you voluntarily submit such information to us. Unless you give us permission to do so, we will not sell, share, license, trade or rent your Personally Identifiable Information other than as specified in this Privacy Policy.
+
+You do not have to provide us with any Personally Identifiable Information to visit our Website. However, if you choose to withhold requested information, you may not be able to visit all sections of our Website or use all of our Online Products, such as subscribing to our online weight loss tools, posting messages on our message boards or visiting our chat rooms. In addition, we may not be able to provide you with some of the other Online Products dependent upon the collection of such information, such as a personalized WeightWatchers.ca home page.
+
+**Non-Personally Identifiable Information.  
+**   
+When you become a registered user of our Website, subscribe to one of our current Online Products, or in connection with other Online Products we may make available on our Website from time to time, we also may collect information that by itself cannot be used to identify or contact you, such as demographic information (like age, profession or gender) and physical information (like current weight) ("Non-Personally Identifiable Information"). Non-Personally Identifiable Information may also include user IP addresses, browser types, domain names, and other anonymous statistical data involving the use of our Website. Non-Personally Identifiable Information is used to help us understand the characteristics of people who use our Website and to improve and market our Website in general and our Online Products in particular. In the event that we link any Non-Personally Identifiable Information with Personally Identifiable Information, we will treat such information as Personally Identifiable Information and only use such information in accordance with this Privacy Policy. 
+
+**Information from Other Sources.  
+**   
+We may also supplement the information we collect with information from other sources to assist us in evaluating and improving our Website and Online Products, to determine your preferences so that we can tailor our Website and Online Products to your needs, and/or to study nutritional, weight loss, behavioural and fitness questions in general.  
+  
+**WHERE AND WHEN IS INFORMATION COLLECTED ON OUR WEBSITE (INCLUDING THROUGH THE USE OF COOKIES AND ACTION TAGS)?  
+**   
+We may collect information (including information that is Personally Identifiable Information) from you in different manners and at different places and times on our Website, such as when you register for our Website or subscribe to one of our Online Products. We also may collect information from you in connection with, or through, other Online Products we may make available on our Website from time to time. The following is a description of the areas and/or manner in which we primarily collect information about you. 
+
+**_Becoming a Registered User and Subscription.  
+_**   
+In order to access certain Online Products on our Website, such as our chat rooms, message boards, weight loss tools and food database, you must first complete certain steps to become either a registered user or a subscriber. During these steps, you may be required to provide us with information (including Personally Identifiable Information) such as name, postal code and email address, and, if you subscribe to one of our Online Products, credit card and billing information. This information is used to help us understand the characteristics of people who use our Website, to improve our Website and our Online Products, to contact users about requested Online Products and/or for subscription billing purposes. It is optional for you to provide demographic information (such as profession and number of children), but providing this information is encouraged so we can provide a more personalized experience on our Website such as by providing you with information that we think would be of interest to you.
+
+**_Cookies and Action Tags.  
+_**   
+We also collect Non-Personally Identifiable Information passively using "cookies" and "action tags."
+
+"Cookies" are small text files that are placed on your computer in order to identify your Web browser and the activities of your computer on our Website and other websites. Cookies are used to personalize your experience on our Website (such as dynamically generating content on webpages specifically designed for you), to assist you in using our Online Products (such as saving time by not having to re-enter your name upon each visit to our Website), and to allow us to statistically monitor how you are using our Website to help us improve our online offerings. We also may use cookies to target certain advertisements to your browser which may be of interest to you or to determine the popularity of certain content.
+
+In addition to cookies that we place on your computer, cookies may also be placed on your computer by third parties that we use to display or serve advertisements on our Website or to collect Non-Personally Identifiable Information in order to provide advertising-related services. In the course of serving advertisements on this Website, our third-party advertiser may place or recognize a unique "cookie" on your browser. We have selected DoubleClick Inc. ("DoubleClick") as our third party ad server. Neither DoubleClick nor its cookies collect Personally Identifiable Information on our Website, and we do not share Personally Identifiable Information with them without your permission. DoubleClick's privacy policy, (http://www.doubleclick.net/us/corporate/privacy) describes its data collection practices and explains the way in which you can "opt-out" of certain tracking by DoubleClick. 
+
+You do not have to accept cookies to use our Website. Although most browsers are initially set to accept cookies, you may reset your browser to notify you when you receive a cookie or to reject cookies generally. Most browsers offer instructions on how to do so in the "Help" section of the toolbar. While you are not required to accept our cookies to access our Website, if you reject cookies, certain products, offerings, features, or resources of our Website (including certain Online Products) may not work properly and you may experience some loss of convenience.
+
+"Action tags", also known as web beacons or gif tags, are a web technology used to help track website usage information, such as how many times a specific page has been viewed. Action tags are invisible to you, and any portion of our Website, including advertisements, or email sent on our behalf, may contain action tags. We have selected Avenue A, Inc. ("Avenue A") to track website usage through action tags on our Website and on our advertisements on other websites. Avenue A sets a cookie (or reads a cookie previously placed by it) on users' computers to track the activities of users who view a page containing action tags. Many Internet users already have an Avenue A cookie on their computer today. Avenue A's privacy policy (http://www.avenuea.com/info/optout.asp) describes its data collection practices and explains the way in which you can "opt-out" of certain tracking by Avenue A. You may also "opt-out" of certain tracking on our Website and other websites by various advertising companies through the Network Advertising Initiative at http://www.networkadvertising.org.
+
+By using cookies and action tags together, we are able to gain valuable information to improve our Website and our Online Products and measure the effectiveness of our advertising and marketing campaigns. We do not disclose any of your Personally Identifiable Information to our advertising partners.
+
+Finally, please note that advertisers and other third parties may also use their own cookies or action tags when you click on their advertisement or link to their website or service, on or from our Website. This Privacy Policy does not govern the use by such third-party websites or providers of third-party advertising.
+
+**_Online Products.  
+_**   
+We collect information, some of which may be Personally Identifiable Information, that you voluntarily provide to us when you choose to use some of our Online Products (available either for free or on a subscription basis) such as the "My Favorites" feature, the online journal, and the "Weight Tracker" tool. We also collect information that you provide voluntarily through responses to special Online Products such as surveys, questionnaires, self-assessment quizzes, contests and the like. Some of these Online Products may ask you for physical information, such as your weight and height.
+
+**_Public Forums and the Public Profile Feature.  
+_**   
+We feature public forums such as chat rooms, message boards, bulletin boards, recipe swaps or similar activities where you and other users of our Website can communicate with one another. In addition, we offer the "Public Profile" feature of our Website to permit you to share information about yourself (including, if you elect, Personally Identifiable Information) with others. THIS PRIVACY POLICY DOES NOT PROTECT YOU WHEN YOU USE OUR PUBLIC FORUMS OR PROVIDE INFORMATION (INCLUDING PERSONALLY IDENTIFIABLE INFORMATION) ABOUT YOURSELF THROUGH THE PUBLIC PROFILE FEATURE AVAILABLE ON OUR WEBSITE. You should be aware that any information shared in a public forum such as a chat room, message board, bulletin board or recipe swap or through our Public Profile feature is public information and may be seen or collected by third parties that do not adhere to our Privacy Policy. You should think carefully before disclosing any information in any public forum, or through the Public Profile feature, on our Website.
+
+Log Files.
+
+We also collect Non-Personally Identifiable Information through our Internet log files, which record data such as user IP addresses, browser types, domain names, and other anonymous statistical data involving the use of our Website. This information may be used to analyze trends, to administer the Website, to monitor our Website's use, and to gather general demographic information. We may link this information to Personally Identifiable Information for these and other purposes such as personalizing your experience on our Website and evaluating our Online Products in general and, in the event that we link such Non-Personally Identifiable Information with Personally Identifiable Information, we will only use such information in accordance with this Privacy Policy. 
+
+**_Email or Refer a Friend.  
+_**   
+Through our referral tools for informing a friend about our Website, or one of our Online Products, we will automatically send your friend a one-time email containing the information you request to be sent. If you elect to use these referral tools, we will collect from you certain Personally Identifiable Information about your friend which you have provided, such as your friend's name and email address.   
+  
+**DOES OUR WEBSITE COLLECT INFORMATION FROM CHILDREN UNDER 13 YEARS OF AGE?  
+**   
+We are committed to protecting the privacy of children. Our Website is not designed for or directed to children under the age of 13. We do not collect Personally Identifiable Information from any person we actually know is under the age of 13. We urge all parents or guardians to participate in their children's exploration of the Internet, and to teach their children about protecting their personal information while online.  
+  
+**WHAT DOES OUR WEBSITE DO WITH THE INFORMATION IT COLLECTS?  
+**   
+In general, we use the information collected on our Website to help us understand who uses our Website and how it is used, to personalize your online experience (such as by providing you with information we think may be of interest to you), to assist you in using our Online Products, to improve our Website, and for subscription billing purposes, if applicable.
+
+If you become a registered user of our Website or subscribe to one of our Online Products, we may use your information to send you a welcoming email that may confirm your user name and password. If you "opt-in" we may send you electronic newsletters, contact you about Weight Watchers products, services, information and news that may be of interest to you, and provide you with targeted feedback. If you no longer desire to receive these communications, we will provide you with the option to change your preferences. In addition, if you identify yourself to us by sending us an email with questions or comments, we may use your information (including Personally Identifiable Information) to respond to your questions or comments, and we may file your questions or comments for future reference. We may also use the information collected to send you important service announcements and updates regarding our Website or Online Products or, if you are a subscriber, about your billing account status. You will not be able to unsubscribe from these service announcements and updates as they contain important information relevant to your use of our Website and/or our Online Products.
+
+We may also use the information gathered on our Website to perform statistical analysis of user behaviour, to analyze and evaluate issues relating to nutrition, weight loss, behaviour and fitness, or to evaluate and improve our Online Products. We may link some of this information to Personally Identifiable Information for purposes such as understanding the characteristics of people who use our Website, to improve and market our Website in general and our Online Products in particular or to assist you in your personal weight loss efforts.   
+  
+**WHEN DOES OUR WEBSITE DISCLOSE INFORMATION TO THIRD PARTIES?  
+**   
+Except as set forth in this Privacy Policy or as specifically agreed to by you, we will not disclose any information we gather from you on our Website.
+
+**_Affiliates.  
+_**   
+We may disclose information (including Personally Identifiable Information) about you to our Affiliates. For purposes of this Privacy Policy, "Affiliates" means any person or entity which directly or indirectly controls, is controlled by or is under common control with WeightWatchers.com, Inc. or Weight Watchers International, Inc., whether by ownership or otherwise. Any information relating to you that we provide to our Affiliates will be treated by those Affiliates in accordance with the terms of this Privacy Policy. We may share your information (including Personally Identifiable Information) with franchisees of Weight Watchers International, but only where we indicate to you at time of information collection that such information will be provided to a franchisee, or if we otherwise obtain your permission. 
+
+**_Laws and Legal Rights.  
+_**   
+We may also disclose your information (including Personally Identifiable Information) if we believe in good faith that we are required to do so in order to comply with an applicable statute, regulation, rule or law, a subpoena, a search warrant, a court or regulatory order, or other valid legal process. We may disclose Personally Identifiable Information in special circumstances when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms & Conditions or our Subscription Agreement, or to protect the safety and/or security of our users, our Website or the general public.
+
+**_Third Parties Generally.  
+_**   
+We may provide to third parties aggregated Non-Personally Identifiable Information (i.e., information about you and other users of our Website that does not allow you to be identified or contacted. For example, we might inform third parties regarding the number of unique users who visit our Website, the demographic breakdown of registered users of our Website, or the activities that visitors to our Website engage in while on our Website. The third parties to which we may provide this information may include potential or actual advertisers, providers of advertising services (including website tracking services), commercial partners, sponsors, licensees, researchers and other similar parties.
+
+**_Outside Contractors.  
+_**   
+We may employ independent contractors, vendors and suppliers (collectively, "Outside Contractors") to provide specific services and products related to our Website, such as hosting and maintaining our chat rooms, providing credit card processing and fraud screening, and developing applications for our Website and e-mail services. These Outside Contractors may sometimes have limited access to information collected on our Website, including your Personally Identifiable Information, in the course of providing products or services to us. Access to your Personally Identifiable Information by these contractors is limited to the information reasonably necessary in order for the Outside Contractors to perform their limited function for us. We also require that these contractors (i) protect the privacy of your Personally Identifiable Information in a manner consistent with this Privacy Policy, and (ii) not use or disclose your Personally Identifiable Information for any purpose other than providing us with products or services for which we contracted.
+
+**_Third Party Sellers.  
+_**   
+In addition, through our Website, you may be given the opportunity to purchase (or to obtain more information) regarding certain content, products or services which are sold through a person or company other than us or our Affiliates (collectively, "Third Party Sellers"). Similarly, if you purchase a product or service through one of our co-branded stores, you will likely be purchasing the product through a Third Party Seller and not from us. We will attempt to make it clear to you when you are dealing with a Third Party Seller by opening a new browser or otherwise notifying you that you are leaving our Website. For example, if you see a phrase such as "powered by" or "brought to you by" followed by the name of a person or company other than WeightWatchers.ca, then you are likely on, or about to enter, a website hosted or operated by a person or company other than us. Third Party Sellers may request that you submit certain information to them in order to purchase their products or services or to obtain additional information from them. You do not need to submit this information or purchase any products or services from Third Party Sellers to access our Website. By submitting the requested information, you affirmatively consent to provide that information to the Third Party Seller. This information is used by the Third Party Seller and may be subject to a different privacy policy. We do not otherwise share or disclose your Personally Identifiable Information to Third Party Sellers.
+
+**_Sale of Business.  
+_**   
+We reserve the right to disclose and/or transfer information (including your Personally Identifiable Information) to a third party in the event of a proposed or actual sale, merger or other transfer of all or substantially all of the assets of WeightWatchers.ca, WeightWatchers.com, Inc. or Weight Watchers International, Inc. provided that the third party agrees to adhere to the terms of this Privacy Policy.   
+  
+**DOES THIS PRIVACY POLICY APPLY WHEN I LINK TO OTHER WEBSITES?  
+**   
+Our Website contains links to other websites not owned or operated by WeightWatchers.ca or an Affiliate (for example, if you "click" on a banner advertisement, you will likely be taken off our Website), including links to websites operated by franchisees of Weight Watchers International. We will attempt to make it obvious to you when you leave our Website and enter these websites by opening a new browser or otherwise notifying you that you are leaving our Website. However, please be aware that we are not responsible for the privacy practices of such websites. We encourage you to be aware when our Website links to other websites and to read the privacy policies or statements of these websites. This Privacy Policy applies solely to information collected by our Website.  
+  
+**IS THE INFORMATION COLLECTED ON OUR WEBSITE SECURE?  
+**   
+We want your information (including Personally Identifiable Information) to remain as secure as possible. We strive to provide secure transmission of your information from your computer to our servers through industry-standard techniques. To help ensure the integrity and privacy of the Personally Identifiable Information you provide to us via the Internet at the time you elect to become a registered user or subscribe to our Online Products, we use Secured Socket Layer (SSL) encryption technology in transmitting such Personally Identifiable Information over the Internet to our servers. We secure the Personally Identifiable Information you provide on servers located in controlled, secure environments, protected from unauthorized access, use, or alteration. Only employees or agents who need access to your information to perform a specific task or function are granted access to such information. In addition, all WeightWatchers.ca employees and agents must abide by this Privacy Policy and are kept up-to-date on security practices. Any employee who violates this Privacy Policy is subject to disciplinary action, up to and including termination.
+
+Notwithstanding the above commitments to protect your information (including Personally Identifiable Information) from loss, misuse or alteration by third parties, you should be aware that there is always some risk involved in transmitting information over the Internet. There is also some risk that others could find a way to thwart our security systems. As a result, while we strive to protect your information, we cannot ensure or warrant the security and privacy of any information you transmit to us.  
+  
+**WHAT CHOICES DO I HAVE REGARDING THE COLLECTION, DISCLOSURE AND DISTRIBUTION OF PERSONALLY IDENTIFIABLE INFORMATION?  
+**   
+Except as otherwise described in this Privacy Policy, we will only use or disclose Personally Identifiable Information for the purposes described above or as otherwise notified at the time we request such information from you or prior to any new use of such information. You must "opt-in" and give us permission to use or disclose your Personally Identifiable Information for any other purpose. For example, we have an "opt-in" mechanism so that those who become registered users or subscribe to our Website must give us permission to send them marketing materials and our electronic newsletter. You may also change your preference and "opt-out" of receiving such communications by changing that option in the My Profile feature of our Website, following the directions provided in association with the communication, or by contacting privacy@WeightWatchers.ca.
+
+Users of our Website are notified via this Privacy Policy or on the Website at the time of collection when Personally Identifiable Information is being collected by third parties on our Website. We do this so you can make an informed choice as to whether you should disclose information to a third party.
+
+In addition, as noted above, you may "opt-out" of certain data tracking practices by our advertising partners. For more information about the data tracking practices of various third-party advertising companies, including their privacy practices and "opt-out" procedures, please go to the website operated by the Network Advertising Initiative at http://www.networkadvertising.org.  
+  
+**CAN I UPDATE OR CORRECT MY PERSONALLY IDENTIFIABLE INFORMATION?  
+**   
+You can always contact us in order to (1) update or correct your Personally Identifiable Information, (2) change your preferences with respect to communications and other information you receive from us, or (3) delete the Personally Identifiable Information maintained about you on our systems, by accessing My Profile or contacting privacy@WeightWatchers.ca. 
+
+You should be aware that it is not technologically possible to remove each and every record of the information you have provided to us from our system. The need to back-up our systems to protect information from inadvertent loss means that a copy of your Personally Identifiable Information may exist in a non-erasable form that will be difficult or impossible for us to locate, and information that is kept in this format is only used for our internal record-keeping purposes and will not be disclosed to any third party unless required by law. However, we promise that promptly after receiving your request, all Personally Identifiable Information stored in databases we actively use and other readily searchable media will be updated, corrected, changed or deleted, as appropriate, as soon as reasonably practicable.  
+  
+**HOW WILL I KNOW IF THERE ARE ANY CHANGES TO THIS PRIVACY POLICY?  
+**   
+If we decide to change this Privacy Policy, we will post those changes on our Website so you are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use Personally Identifiable Information in a manner significantly different from that stated in this Privacy Policy, or otherwise disclosed to you, at the time it was collected, we will notify you by email or by posting a notice of the changes on the Website, and you will have a choice as to whether or not we use your Personally Identifiable Information in a new manner. We may also make non-significant changes to our Privacy Policy that generally will not affect our use of your Personally Identifiable Information. If you do not agree to the terms of this Privacy Policy, you should not use our Website.  
+  
+**WHO DO I CONTACT IF I HAVE ANY PRIVACY QUESTIONS?  
+**   
+If you have any questions about our Privacy Policy or feel that we are not abiding by the terms of our posted Privacy Policy, please contact our Privacy Coordinator in any of the following ways:
+
+Email our Privacy Coordinator at:
+
+privacy@WeightWatchers.ca
+
+Or, write to our Privacy Coordinator at:
+
+WeightWatchers.ca Limited  
+Columbus Circle Station  
+PO Box 21053   
+New York, NY 10023  
+Attn: Privacy Coordinator
+
+Or, fax our Privacy Coordinator at:
+
+(212) 315-0709  
+Attn: Privacy Coordinator
+
+**BY USING OUR WEBSITE, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU SHOULD NOT USE OUR WEBSITE. YOUR CONTINUED USE OF OUR WEBSITE FOLLOWING THE POSTING OF CHANGES TO THIS PRIVACY POLICY WILL MEAN THAT YOU ACCEPT THOSE CHANGES.  
+**   
+Last modified September 5, 2002 
+
+|  | 
