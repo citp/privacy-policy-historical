@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iona.ie privacy policy that was archived on 2002-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020613100757id_/http%3A//www.iona.ie/info/aboutus/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iona.ie privacy policy that was archived on 2002-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021218224822id_/http%3A//www.iona.com/info/aboutus/privacy_policy.htm) for the most accurate reproduction.*
 
 # Welcome to IONA - About US
 
