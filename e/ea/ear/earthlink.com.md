@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the earthlink.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206111500id_/http%3A//www.earthlink.com/about/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthlink.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601150849id_/http%3A//earthlink.com/about/policies/privacy) for the most accurate reproduction.*
 
-# Privacy Policies
+# Privacy Policy
 
-**EARTHLINK™ PRIVACY POLICY**
+  
+
 
 Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet’s vast array of information, tools, and opportunities with complete confidence. 
 
@@ -27,6 +28,8 @@ If you order products directly from EarthLink, such as through the “EarthLink 
 **Online Advertisements**   
 EarthLink displays our online advertisements. We share aggregated and nonidentifying information about our Visitors and Members collected through the registration process as well as through online surveys and promotions with these advertisers. Additionally, in some instances, we use this aggregated and nonidentifying information to deliver tailored advertisements. For instance, an advertiser tells us the audience they want to reach (for example, males between 25 and 55 years of age) and provides us an advertisement tailored to the audience. Based upon the aggregated and nonidentifying information we have collected, we may then display the advertisement to the intended audience. EarthLink does not share personal information about its Visitors or Members with these advertisers.
 
+We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here: <http://www.networkadvertising.org/optout_nonppii.asp>
+
 **Responses to Email Inquiries**   
 When Visitors or Members send email inquiries to EarthLink, the return email address is used to answer the email inquiry we receive. EarthLink does not use the return email address for any other purpose and does not share the return email address with any third party. 
 
@@ -36,7 +39,7 @@ We may periodically conduct both business and individual customer surveys. We en
 We take the information we receive from individuals responding to our Customer Surveys and combine (or aggregate) it with the responses of other EarthLink customers to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services to you, and to develop new services and products. This aggregated, non-personally identifying information may be shared with third parties.
 
 **Special Cases**   
-It is EarthLink’s policy not to use or share the personal information about Visitors of Members in ways unrelated to the ones described above without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. However, EarthLink may disclose personal information about Visitors or Members, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: to satisfy laws, such as the Electronic Communications Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our [Acceptable Use Policy](http://www.earthlink.net/about/policies/aupolicy.html) or other user policies; to operate the Services properly; or to protect EarthLink and our Members. 
+It is EarthLink’s policy not to use or share the personal information about Visitors of Members in ways unrelated to the ones described above without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. However, EarthLink may disclose personal information about Visitors or Members, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: to satisfy laws, such as the Electronic Communications Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our [Acceptable Use Policy](https://web.archive.org/about/policies/use/) or other user policies; to operate the Services properly; or to protect EarthLink and our Members. 
 
 **"Cookies" and How EarthLink Uses Them**   
 A “cookie” is a small data file that can be placed on your hard drive when you visit certain Web sites. EarthLink may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our telecommunications networks. If you are a Member and have created your own **Personal Start Page** , we will use a cookie to save your settings and to provide customizable and personalized services. These cookies do not enable third parties to access any of your customer information. Additionally, be aware that if you visit non-EarthLink web sites where you are prompted to log in or that are customizable, you may be required to accept cookies. 
@@ -64,13 +67,13 @@ If you have any questions about this Privacy Policy or the practices described h
 
 Customer Service  
 EarthLink, Inc.  
-1430 West Peachtree Street, N.W.  
-Suite 400  
+1375 Peachtree Street, N.W.  
+Level A  
 Atlanta, Georgia 30309  
-[privacypolicy@corp.earthlink.net](mailto:privacypolicy@corp.earthlink.net),   
-or [service@mindspring.net](mailto:service@mindspring.net)
+[service@mindspring.net](mailto:service@mindspring.net), or  
+[privacypolicy@corp.earthlink.net](mailto:privacypolicy@corp.earthlink.net)
 
 **Revisions to This Policy**   
-EarthLink reserves the right to revise, amend, or modify this policy, our [Internet Service Agreement](http://www.earthlink.net/about/policies/accessagrmnt.html) and our other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted in accordance with the [Internet Service Agreement](http://www.earthlink.net/about/policies/accessagrmnt.html). 
+EarthLink reserves the right to revise, amend, or modify this policy, our [Internet Service Agreement](https://web.archive.org/about/policies/dial/) and our other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted in accordance with the [Internet Service Agreement](https://web.archive.org/about/policies/dial/). 
 
-Rev. 03/07/2000
+Rev. 1/07/2002
