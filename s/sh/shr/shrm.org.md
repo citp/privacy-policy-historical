@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the shrm.org privacy policy that was archived on 2000-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000815083754id_/http%3A//www.shrm.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shrm.org privacy policy that was archived on 2002-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020209111535id_/http%3A//shrm.org/privacy) for the most accurate reproduction.*
 
-# SHRM Online Privacy Statement
+# SHRM Privacy Standard
 
-[](https://web.archive.org/join)[](https://web.archive.org/membership)[](https://web.archive.org/pubs)[](https://web.archive.org/jobs)[](https://web.archive.org/whitepapers)[](https://web.archive.org/hrtalk)[](https://web.archive.org/members)[](https://web.archive.org/meetings)[](https://web.archive.org/hrci)[](https://web.archive.org/chapters)[](https://web.archive.org/consultants/directory)[](https://web.archive.org/diversity)[](https://web.archive.org/government)[](https://web.archive.org/hrcomply)[](https://web.archive.org/hrlinks)[](https://web.archive.org/hrmagazine)[](https://web.archive.org/hrnews)[](https://web.archive.org/hrnewsscan)[](https://web.archive.org/international)[](https://web.archive.org/learning)[](https://web.archive.org/membership/exclusives)[](https://web.archive.org/portfolio)[](https://web.archive.org/press)[](https://web.archive.org/education)[](https://web.archive.org/pegs)[](https://web.archive.org/buyers)[](https://web.archive.org/foundation)[](https://web.archive.org/shrmstore)[](https://web.archive.org/students)[](https://web.archive.org/surveys)[](https://web.archive.org/committees/volunteer.asp)[](https://web.archive.org/trends)
-
-|  | 
+SHRM Online Privacy Statement
 
 The Society for Human Resource Management has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for SHRM Online. 
 
@@ -26,7 +24,7 @@ This site uses firewalls to protect the loss, misuse and alteration of the infor
 
 **Choice/Opt-Out**
 
-The Society for Human Resource Management provides members with the opportunity to opt-out of receiving communications from us and our partners. If you no longer wish to future communications or to no longer receive our service. 
+The Society for Human Resource Management provides members with the opportunity to opt-out of receiving communications from us and our partners. If you no longer wish to receive future communications or to no longer receive our service. 
 
   1. You can send email to [shrm@shrm.org](mailto:shrm@shrm.org)
   2. You can send mail to the following postal address: SHRM, 1800 Duke Street, Alexandria, Virginia, 22314 
@@ -37,7 +35,7 @@ The Society for Human Resource Management provides members with the opportunity 
 This site gives members the following options for changing and modifying information previously provided. 
 
   1. Email: [shrm@shrm.org](mailto:shrm@shrm.org)
-  2. Visit: <http://www.shrm.org/membership>
+  2. Visit: [/membership](https://web.archive.org/membership)
   3. Send mail to the following postal address: SHRM, 1800 Duke Street, Alexandria, Virginia, 22314 
   4. Call 703/548-3440 
 
@@ -51,25 +49,30 @@ SHRM Online reserves the right to alter its privacy policies. Any changes to the
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact the following: 
 
-Mike Frost  
+Susan Bergman  
 Director, Internet Operations  
 Society for Human Resource Management  
 1800 Duke Street  
 Alexandria, Virginia 22314  
-[mfrost@shrm.org](mailto:mfrost@shrm.org)
+[sbergman@shrm.org](mailto:sbergman@shrm.org)
 
   
-| [](http://www.shrm.org/index.html) | 
+| 
 
-**Society for Human Resource Management**  
+* * *  
+  
+---  
+[](https://web.archive.org/default.asp) |  **Society for Human Resource Management**  
 1800 Duke Street  
 Alexandria, Virginia 22314 USA  
 (703) 548-3440   
 FAX: (703) 535-6490  
-Email: [shrm@shrm.org](mailto:shrm@shrm.org)  
+Questions? [Contact SHRM](https://web.archive.org/help)  
+Technical Assistance: [webhelp@shrm.org](mailto:webhelp@shrm.org)Copyright © 2002, Society for Human Resource Management  
+   
+[SHRM Privacy Statement](https://web.archive.org/privacy)  
   
----|---  
+* * *  
   
-Copyright © 2000, Society for Human Resource Management
-
-[ [About SHRM](https://web.archive.org/about) || [Privacy Statement](https://web.archive.org/privacy) ]
+[Help](https://web.archive.org/sitehelp) | [About](https://web.archive.org/about)  | [Careers@SHRM](https://web.archive.org/jobs/career/)  | [Member Services](https://web.archive.org/memberkit)  | [Non-Members](https://web.archive.org/about/default.asp?page=nonmembers.html) |  [Join](https://web.archive.org/join)  |  **[Log In](https://web.archive.org/login.asp)**  
+ADVERTISEMENT
