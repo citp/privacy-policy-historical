@@ -1,15 +1,12 @@
-> *The following text is extracted and transformed from the kfoxtv.com privacy policy that was archived on 1999-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991109205959id_/http%3A//kfoxtv.com/FEATURES/help/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kfoxtv.com privacy policy that was archived on 2000-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000502045028id_/http%3A//kfoxtv.com/shared/help/privacy_policy.html) for the most accurate reproduction.*
 
-# KFOXTV.com - Privacy Policy
+# KFOXTV.com: Help: Privacy Policy
 
-|    
-[an error occurred while processing this directive]  
-Privacy Policy
+|  **Privacy Policy**
 
-**TRUSTe certification**   
-Cox Interactive Media is a licensee of the TRUSTe Privacy Program. This statement discloses the privacy practices for all CIM websites. When you visit a website displaying the TRUSTe trustmark, you can expect to be notified of: what personally identifiable information of yours is collected; the organization collecting the information; how the information is used; with whom the information may be shared; what choices are available to you regarding collection, use and distribution of the information; the kind of security procedures that are in place to protect the loss, misuse or alteration of information under the licensee's control; and how you can correct any inaccuracies in the information.
+This statement discloses the privacy practices for all Cox Interactive Media Web sites. When you visit our sites, you can expect to be notified of: what personally identifiable information of yours is collected; the organization collecting the information; how the information is used; with whom the information may be shared; what choices are available to you regarding collection, use and distribution of the information; the kind of security procedures that are in place to protect the loss, misuse or alteration of information under the licensee's control; and how you can correct any inaccuracies in the information.
 
-Questions regarding this statement should be directed to Cox Interactive Media at [privacy@cimedia.com.](mailto:privacy@cimedia.com) If your inquiry has not been satisfactorily addressed within five business days, please contact [TRUSTe.](http://www.truste.org/users/watchdog.html) To return to the Site, please use the "Back" button on your browser.
+Questions regarding this statement should be directed to Cox Interactive Media at [privacy@cimedia.com.](mailto:privacy@cimedia.com)
 
 Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. We won't knowingly allow anyone under 13 to register with any of our sites or to access those features that require registration.
 
