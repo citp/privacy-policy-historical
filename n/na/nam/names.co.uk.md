@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the names.co.uk privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624145516id_/http%3A//www.names.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the names.co.uk privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001201714id_/http%3A//www.names.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement :: Names.Co Internet Plc
 
@@ -16,7 +16,7 @@ This web site agrees to notify you of:
 
 
 
-If you feel that this company is not abiding by its posted privacy policy, you should [contact us](https://web.archive.org/web/20030624145516id_/http%3A//www.names.co.uk/contact.html)
+If you feel that this company is not abiding by its posted privacy policy, you should [contact us](https://web.archive.org/web/20031001201714id_/http%3A//www.names.co.uk/contact.html)
 
 Information Collection and Use 
 
