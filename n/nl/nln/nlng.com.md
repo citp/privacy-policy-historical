@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nlng.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201185045id_/http%3A//www.nlng.com/disclaimer/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nlng.com privacy policy that was archived on 2002-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020422225945id_/http%3A//www.nlng.com/disclaimer/privacy.htm) for the most accurate reproduction.*
 
 # NLNG: Privacy Policy
 
