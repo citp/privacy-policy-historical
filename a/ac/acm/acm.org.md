@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the acm.org privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607175937id_/http%3A//www.acm.org/serving/acm-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acm.org privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207124840id_/http%3A//www.acm.org/serving/acm-privacy.html) for the most accurate reproduction.*
 
 # ACM: Privacy Policy
 
-  | **ACM Privacy Policy** As of 11/8/00
+**ACM Privacy Policy** As of 11/8/00
 
 The Association for Computing Machinery (ACM) is committed to protecting the privacy of its members and customers. ACM recognizes the interest of its members and customers in the confidentiality of their personal information. ACM only maintains personal information that is relevant to ACM activities and seeks to maintain accurate, complete, and timely information. 
 
@@ -69,6 +69,3 @@ Some portions of the ACM Web site, specifically the ACM Digital Library, require
 Customers must setup an ACM Web account in order to use the "Search" facility in the ACM Digital Library. Non-members are asked for their name, email address, and postal address when they create their account. By default, ACM may send information about ACM products and services to non-member ACM Web account holders via email. Customers may request that they not receive such information via email. 
 
 Information collected about ACM Web account usage -- including logs of Web pages visited, searches performed, and Digital Library content downloaded -- will be stored in an anonymized form and used to improve the ACM Digital Library and other ACM Web offerings. Other information provided in the process of creating or using a Web account is used according to the ACM Privacy Policy. 
-
-**Questions/Comments:**  
-If you have any questions or comments on the above policy please direct them to [privacy@acm.org](mailto:privacy@acm.org). 
