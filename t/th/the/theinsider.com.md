@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the theinsider.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607193902id_/http%3A//www.theinsider.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinsider.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203012449id_/http%3A//www.theinsider.com/privacy.htm) for the most accurate reproduction.*
 
 # Insider Travel Network: insider travel and sightseeing guides
+
+[](http://banners.dnastudio.com/click.jsp?image=1339&referer=cb20)
 
 **Privacy Statement for The Insider Travel Network**
 
@@ -77,3 +79,5 @@ This site gives users the following options for changing and modifying informati
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
 [webmaster@TheInsider.com ](mailto:webmaster@TheInsider.com)
+
+**Site Directory:**
