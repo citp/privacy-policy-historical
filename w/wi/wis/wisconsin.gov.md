@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wisconsin.gov privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602103415id_/http%3A//www.wisconsin.gov/state/core/privacy_notice_t.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisconsin.gov privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216184219id_/http%3A//www.wisconsin.gov/state/core/privacy_notice_t.html) for the most accurate reproduction.*
 
-# Wisconsin.gov - Wisconsin.gov - - Wisconsin Citizen Portal Privacy Notice
+# Wisconsin.gov - - Wisconsin Citizen Portal Privacy Notice
 
 _Wisconsin.gov Navigation_   
 [Portal Home](https://web.archive.org/state/core/index_t.html) | [Government](https://web.archive.org/state/core/government_t.html) | [Public Services](https://web.archive.org/state/core/public_services_t.html) | [Business](https://web.archive.org/state/core/business_t.html) | [Education](https://web.archive.org/state/core/education_t.html) | [Wisconsin Facts](https://web.archive.org/state/core/wisconsin_facts_t.html) | [Health and Safety](https://web.archive.org/state/core/health_and_safety_t.html) | [Relocation](https://web.archive.org/state/core/moving_to_wisconsin_t.html) | [Visiting](https://web.archive.org/state/core/visiting_wisconsin_t.html)
