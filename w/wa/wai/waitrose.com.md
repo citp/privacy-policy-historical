@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the waitrose.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203202258id_/http%3A//www.waitrose.com/about/securityandprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waitrose.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607085242id_/http%3A//www.waitrose.com/about/securityandprivacy.asp) for the most accurate reproduction.*
 
 # Waitrose.com - Security & Privacy
 
 Waitrose.com is a secure site and we understand your concerns about the safety of your credit/debit card and personal details online. So we have developed highly secure systems to give you confidence and peace of mind when you shop online with us. Read below to find out more.
 
   * Problems with Internet Explorers version 5.0 and earlier
+  * Safe internet shopping
   * Credit card safety
   * Our privacy policy
   * What are cookies?
@@ -22,6 +23,40 @@ The message occurs because the Server Connection Authority has renewed the keys 
 We recommend that you use IE 5.5 above to avoid this issue.
 
 For more information visit the [BT Trustwise FAQ page](http://www.btignite.com/uk/products/trustservices/support/server_cert/end_user_issues/end_user_errorcodes.html "This link will open in a new window").
+
+Back to top
+
+[](http://www.consumer.gov.uk/consumer_web/e-shopping.htm "This link will open in a new window")
+
+## Safe internet shopping
+
+With more and more people regularly using the Internet, it is important to ensure your safety when you buy online.
+
+We are keen to raise awareness of best practice at Waitrose.com and as such we are pleased to support the Department of Trade and Industry's Safe Internet Shopping initiative, whose aim is to ensure that you are fully aware of your consumer rights when you buy online.
+
+There are 5 key tips for Safe Shopping Online:
+
+## Payment:
+
+If your credit or debit card is used fraudulently in the EU, the card company must refund you.
+
+## Websites:
+
+Use ones you know or which are recommended and always get the supplier's phone number and postal address.
+
+## Records:
+
+Keep a copy of what you've ordered, plus the supplier's confirmation message.
+
+## Quality:
+
+Your high street consumer rights apply online.
+
+## Cooling off:
+
+In many cases in the EU the law lets you change your mind and get a refund within 7 working days of the delivery.
+
+The Government website [www.consumer.gov.uk](http://www.consumer.gov.uk/consumer_web/e-shopping.htm "This link will open in a new window") contains all the above tips as well as any other information you should need about shopping online safely. 
 
 Back to top
 
