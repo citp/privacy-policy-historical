@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the ylighting.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603094110id_/http%3A//ylighting.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ylighting.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204144743id_/http%3A//www.ylighting.com/privacypolicy.html) for the most accurate reproduction.*
 
 # privacy policy
 
 | |   
-[](https://web.archive.org/web/20040603094110id_/http%3A//ylighting.com/advanced-search.html)  
+[](https://web.archive.org/web/20041204144743id_/http%3A//www.ylighting.com/advanced-search.html)  
   
 ---  
   
@@ -11,52 +11,57 @@
   
   
 |   
-[](https://web.archive.org/web/20040603094110id_/http%3A//ylighting.com/monorail-lighting.html)  
+[](https://web.archive.org/web/20041204144743id_/http%3A//www.ylighting.com/monorail-lighting.html)  
 |   
   
   
 |   
-[](https://web.archive.org/web/20040603094110id_/http%3A//ylighting.com/tracklighting.html)  
+[](https://web.archive.org/web/20041204144743id_/http%3A//www.ylighting.com/tracklighting.html)  
 |   
   
   
 |   
-[](https://web.archive.org/web/20040603094110id_/http%3A//ylighting.com/pendantlights1.html)  
+[](https://web.archive.org/web/20041204144743id_/http%3A//www.ylighting.com/pendantlights1.html)  
 |   
   
   
 |   
-[](https://web.archive.org/web/20040603094110id_/http%3A//ylighting.com/reclig.html)  
+[](https://web.archive.org/web/20041204144743id_/http%3A//www.ylighting.com/reclig.html)  
 |   
   
   
 |   
-[](https://web.archive.org/web/20040603094110id_/http%3A//ylighting.com/sconandsurmo.html)  
+[](https://web.archive.org/web/20041204144743id_/http%3A//www.ylighting.com/sconandsurmo.html)  
 |   
   
   
 |   
-[](https://web.archive.org/web/20040603094110id_/http%3A//ylighting.com/lamps.html)  
+[](https://web.archive.org/web/20041204144743id_/http%3A//www.ylighting.com/lamps.html)  
 |   
   
   
 |   
-[](https://web.archive.org/web/20040603094110id_/http%3A//ylighting.com/floorlamps.html)  
+[](https://web.archive.org/web/20041204144743id_/http%3A//www.ylighting.com/floorlamps.html)  
 |   
   
   
 |   
-[](https://web.archive.org/web/20040603094110id_/http%3A//ylighting.com/acanddislig.html)  
+[](https://web.archive.org/web/20041204144743id_/http%3A//www.ylighting.com/acanddislig.html)  
 |   
   
   
 |   
-[](https://web.archive.org/web/20040603094110id_/http%3A//ylighting.com/outlig.html)  
+[](https://web.archive.org/web/20041204144743id_/http%3A//www.ylighting.com/outlig.html)  
 |   
   
   
 |   
-[](https://web.archive.org/web/20040603094110id_/http%3A//ylighting.com/ceiling-fans.html)  
+[](https://web.archive.org/web/20041204144743id_/http%3A//www.ylighting.com/ceiling-fans.html)  
+|   
+  
+  
+|   
+[](https://web.archive.org/web/20041204144743id_/http%3A//www.ylighting.com/clsp.html)  
 |   
   
   
@@ -64,28 +69,28 @@
   
   
 |   
-[](https://web.archive.org/web/20040603094110id_/http%3A//ylighting.com/dimmers.html)  
+[](https://web.archive.org/web/20041204144743id_/http%3A//www.ylighting.com/dimmers.html)  
 |   
   
   
 |   
-[](https://web.archive.org/web/20040603094110id_/http%3A//ylighting.com/transformers.html)  
+[](https://web.archive.org/web/20041204144743id_/http%3A//www.ylighting.com/transformers.html)  
 |   
   
   
 |   
-[](https://web.archive.org/web/20040603094110id_/http%3A//ylighting.com/halligbul.html)  
+[](https://web.archive.org/web/20041204144743id_/http%3A//www.ylighting.com/halligbul.html)  
 |   
   
   
 |   
-[](https://web.archive.org/web/20040603094110id_/http%3A//ylighting.com/furnishings.html)  
+[](https://web.archive.org/web/20041204144743id_/http%3A//www.ylighting.com/furnishings.html)  
 |   
   
 |   
 
 
-[home](https://web.archive.org/web/20040603094110id_/http%3A//ylighting.com/index.html)  
+[home](https://web.archive.org/web/20041204144743id_/http%3A//www.ylighting.com/index.html)  
   
 privacy policy **Y** Lighting values its customers and respects their privacy. When you order, we need to know your name, email address, credit card billing address, mailing address, telephone number, credit card number, and credit card expiration date. This allows us to process and fulfill your order and to notify you of your order status. We do not sell or rent the information you provide us online to third parties. By shopping with us, you agree that we may use your information for our own marketing purposes. 
 
