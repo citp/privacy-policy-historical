@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4utah.com privacy policy that was archived on 2003-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030417112237id_/http%3A//www.4utah.com/copyright/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4utah.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008142232id_/http%3A//www.abc4.com/copyright/privacypolicy.aspx) for the most accurate reproduction.*
 
 # ABC 4
 
