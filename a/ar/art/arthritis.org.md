@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arthritis.org privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207234829id_/http%3A//www.arthritis.org/resources/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arthritis.org privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403112928id_/http%3A//www.arthritis.org/resources/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Practices
 
@@ -26,7 +26,7 @@ We collect individually identifiable information about you when you choose to sh
 
 Individually identifiable information is used to provide you with information or to deliver the service you have requested. If you provide your postal address, telephone number or e-mail address to the Arthritis Foundation online, you may receive periodic contacts from us.
 
-If you would like to change the way we contact you, please fill out the [Privacy Preference Form](https://web.archive.org/web/20041207234829id_/http%3A//www.arthritis.org/resources/PrivacyForm.asp).
+If you would like to change the way we contact you, please fill out the [Privacy Preference Form](https://web.archive.org/web/20050403112928id_/http%3A//www.arthritis.org/resources/PrivacyForm.asp).
 
 At certain parts of some of our site, only persons who provide us with the requested personally identifiable information will be able to use tools or otherwise participate in the site's activities and offerings.
 
@@ -42,7 +42,7 @@ We use a technology called a "cookie" to recognize you when you return to our si
 
 **Sharing Information with Others**
 
-From time to time, the Arthritis Foundation may make our constituent mailing addresses available to other worthy nonprofit and commercial organizations whose services may be of interest to our supporters.  We carefully screen these organizations. If you do not want us to share your postal address with other companies or organizations, please fill out the [Privacy Preference Form](https://web.archive.org/web/20041207234829id_/http%3A//www.arthritis.org/resources/PrivacyForm.asp).
+From time to time, the Arthritis Foundation may make our constituent mailing addresses available to other worthy nonprofit and commercial organizations whose services may be of interest to our supporters.  We carefully screen these organizations. If you do not want us to share your postal address with other companies or organizations, please fill out the [Privacy Preference Form](https://web.archive.org/web/20050403112928id_/http%3A//www.arthritis.org/resources/PrivacyForm.asp).
 
 At times we may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. The Arthritis Foundation has no control over the third-party's use of this information.
 
@@ -50,7 +50,7 @@ We will also share personal information when we believe release is appropriate t
 
 **Email Communications**
 
-We occasionally send out an email newsletter and direct email communications to Arthritis Foundation site visitors to highlight news, information and opportunities available from the Arthritis Foundation. You can elect not to receive communications from us, either by completing our [privacy preference form](https://web.archive.org/web/20041207234829id_/http%3A//www.arthritis.org/resources/PrivacyForm.asp) or by noting your preference in response to communications from us. In addition, all Arthritis Foundation e-newsletters and direct email communications have easy-to-follow unsubscribe instructions at the bottom of each email.
+We occasionally send out an email newsletter and direct email communications to Arthritis Foundation site visitors to highlight news, information and opportunities available from the Arthritis Foundation. You can elect not to receive communications from us, either by completing our [privacy preference form](https://web.archive.org/web/20050403112928id_/http%3A//www.arthritis.org/resources/PrivacyForm.asp) or by noting your preference in response to communications from us. In addition, all Arthritis Foundation e-newsletters and direct email communications have easy-to-follow unsubscribe instructions at the bottom of each email.
 
 **Links to Other Sites**
 
