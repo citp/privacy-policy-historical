@@ -1,45 +1,69 @@
-> *The following text is extracted and transformed from the lizclaiborne.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209095352id_/http%3A//www.lizclaiborne.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lizclaiborne.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009233915id_/http%3A//www.lizclaiborne.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
 
-# Liz Claiborne
+# liz claiborne Helpdesk
 
-**PRIVACY STATEMENT**
+[](https://web.archive.org/helpdesk/index.jsp) **Privacy Policy**
 
-**I. General**
+Effective Date March 9, 2004 
 
-Liz Claiborne respects the privacy of every individual who visits our Web sites or responds to our interactive communications. This Privacy Statement outlines the information we collect when you visit our Web site or respond to our interactive communications, and how we use that information. This Statement will also instruct you on what to do if you do not want your personal information collected or shared when you visit the Liz Claiborne Web site or respond to our interactive communications. 
+GSI-Chelsea Solutions, Inc. ("GSI") operates this Web site, www.lizclaiborne.com, pursuant to agreements with LCI Holdings, Inc. ("Liz"). Both GSI and Liz ("we" or "us") recognize that you care how information about you is used and shared. We have created this Privacy Policy to inform you of our information collection, use and sharing practices for this Web site. 
 
-**II.a. What Is Collected: Voluntarily Supplied Personally-Identifiable Information**
+Please be advised that the practices described in this Privacy Policy apply only to information gathered through this Web site and, where applicable, through our Customer Service Department in connection with this Web site, and do not necessarily reflect our practices with respect to information gathered through other Web sites that we operate or through other off-line means. 
 
-Liz Claiborne will not collect any personally-identifiable information about you (your name, address, telephone number, or e-mail address) unless you provide it to us voluntarily. If you do not want your personally-identifiable information collected, please do not submit it to us. If you have already submitted this information and would like us to remove it from our records, please contact us at the e-mail address and/or postal address listed in Section V of this Statement. 
+If you have any questions regarding this Privacy Policy, you should contact our Customer Service Department by email at [customersupport@lizclaiborne.com](mailto:customersupport@lizclaiborne.com). 
 
-When you do provide us with personally-identifiable information, we may use that information to improve the content of our web page, to notify you about updates to our Web site, and to contact you for marketing purposes. This information will not be shared with other organizations for commercial purposes. If you do not want to receive e-mail from us in the future, please contact us at the e-mail address and/or postal address listed in Section V of this Statement. Please tell us that you do not want to receive e-mail from our company. We will use all reasonable efforts to delete your information from our files. 
+**What Information About Me Is Collected and Stored?**
 
-If you supply us with your postal address online you may receive periodic mailings from us with information on new products and services and/or upcoming events. If you do not wish to receive such mailings, please contact us at the e-mail address and/or postal address listed in Section V of this Statement. Please tell us that you do not want to receive such mailings from our company. 
+We collect and store information that you enter into this Web site or that you provide to our Customer Service Department. For example, when you open an account or place an order, we collect and store some or all of the following information that you provide: name, billing address, shipping address, email address, telephone number, credit card number and expiration date. This information is used to provide the products and services that you have ordered or requested, to process and ship orders, to send order and shipping confirmations and to provide customer service. This information also may be used to contact you about sales, special offers and new site features, unless you have opted not to receive promotional communications in connection with this Web site. 
 
-If you supply us with your telephone number you may receive periodic telephone calls from us with information regarding new products and services and/or upcoming events. If you do not wish to receive such telephone calls, please contact us at the e-mail address and/or postal address listed at the bottom of this Statement. Please tell us you prefer not to receive telephone calls from our company. Please be sure to provide us with your correct phone number, when you ask us to remove it from our records. 
+We collect and store certain other information automatically whenever you interact with this Web site. For example, we collect your IP address, browser information and reference site domain name every time you visit this Web site. We also collect information regarding customer traffic patterns and site usage. This information is used to analyze and improve this Web site and to provide our customers with a fulfilling shopping experience. 
 
-**II.b. What Is Collected: Automatically Collected Non-Personally-Identifiable Information**
+Also, like many Web sites, we use "cookies", which are files stored on your computer's hard drive by your browser. Cookies do not contain personally identifiable information. Cookies help us to identify account holders and to optimize their shopping experience. Cookies also allow us to hold selections in a shopping cart when a user leaves this Web site without checking out. Cookies are not used on this Web site to store your account information; this information is stored securely on this Web site's server. When you log in at this Web site with your username and password, we will assign you a secure session id. The server then passes your information to you through this secure session id. Also, we will use cookies to monitor and maintain information about your use of this Web site. Cookies are also used to track the identity of the Web site you visited immediately prior to visiting this Web site; otherwise, we do not track information about your use of other Web sites. Most browsers accept cookies automatically but allow you to disable them. We recommend that you leave cookies "turned on" so that we can offer you a better shopping experience on this Web site. 
 
-We collect information that is not personally-identifiable when you visit our Web sites. This includes the Internet browser you are using, the computer operating system you are using, time spent visiting our Web sites, usage patterns within our Web sites, and the domain name of the Web site from which you linked to our site or advertisement. 
+We also may collect and store information about you that we receive from other sources, to enable us to update and correct the information contained in our database and to provide product recommendations and special offers that we think will interest you. 
 
-**III. Information We May Place Automatically on Your Computer's Hard Drive**
+**Is Information Collected From Children?**
 
-When you view one of our Web sites or advertisements, we may store some information on your computer. This information will be in the form of a "cookie" or similar file and will help us in many ways. For example, cookies allow us to tailor a Web site or interactive advertisement to better match your interests and preferences. With most Internet browsers, you can erase cookies from your computers hard drive, block all cookies, or receive a warning before a cookie is stored. Please refer to your browsers instructions or help screen to learn more about these functions. 
+We do not sell or ship any items ordered through this Web site directly to anyone who we know to be under the age of 18, nor do we collect any personal information from anyone who we know to be under the age of 18. If you are under the age of 18, you should use this Web site only with the involvement of a parent or guardian and should not submit any personal information to us. 
 
-**IV. Children**
+**With Whom Do You Share Information?**
 
-Liz Claiborne will not knowingly collect any personally-identifiable information (name, address, telephone number, or e-mail address) from children under thirteen years of age. 
+We do not share with others, or sell or rent to others, any personal information that you provide to us through this Web site or through our Customer Service Department, except with your consent or as described in this Privacy Policy. 
 
-Where appropriate, Liz Claiborne will specifically instruct children not to submit such information on our Web sites or interactive advertisements. If a child has provided us with personally-identifiable information, a parent or guardian of that child should contact us at the e-mail address and/or postal address listed at the bottom of this Statement. The parent or guardian should tell us that they would like this information deleted from our records. We will delete the child's information from our existing files. 
+We engage third parties to perform services in connection with the operation of our business. Examples of these services include payment processing and authorization, fraud protection and credit risk reduction, product customization, order fulfillment and shipping, marketing and promotional material distribution, Web site evaluation, data analysis and, where applicable, data cleansing. We provide personal information to these third parties, but we authorize them to use this information only in connection with the services they perform. 
 
-**V. Whom to Contact for Personal Information Removal**
+We may release personal information if we believe in good faith that: the law or legal process requires it; we have received a valid administrative request from a law enforcement agency; or such release is necessary to protect the rights, property or safety of GSI and/or Liz, or any of our respective affiliates, business partners, customers or others. 
 
-If you have submitted personally-identifiable information through a Liz Claiborne Web site or interactive advertisement and would like that information deleted from our records, please contact us via   
-e-mail at [consumer_relations@liz.com](mailto:consumer_relations@liz.com)   
-or by mail at:  
-Consumer Relations  
-Liz Claiborne Inc.  
-Two Claiborne Avenue  
-North Bergen, NJ 07047 
+We may share non-personal information with our marketing partners, advertisers and others from time to time. Examples of such non-personal information include the number of users who visited this Web site during a specific time period or purchased a specific product through this Web site. This information generally is shared in an aggregated form. 
 
-Upon receiving your request, we will delete your personal information from our existing files.
+As with any business, it is possible that as our business develops, we might sell or buy online stores or other assets. In such transactions, information about customers often is among the transferred assets. Accordingly, in the unlikely event that GSI or Liz, or substantially all of our respective assets, are acquired by a third party, such information may be one of the transferred assets (unless the information was collected under a previous Privacy Policy that did not permit such disclosure). Under such circumstances, GSI or Liz, as the case may be, would to the extent possible require the acquiring party to follow the practices described in this Privacy Policy. 
+
+**What Steps Are Taken To Keep Personal Information Secure?**
+
+We use various security measures, including Secure Socket Layer (SSL) encryption technology, to protect personal information that we collect. If you place an order through this Web site, you will be asked to set up an account and provide an email address and password. You must provide an appropriate email address and password in order to access account information. In order to help protect your personal information further, you should be careful about providing your password to others. If you wish to cancel a password, or if you become aware of any loss, theft or unauthorized use of a password, please contact our Customer Service Department by email at [customersupport@lizclaiborne.com](mailto:customersupport@lizclaiborne.com) or by phone at 1-866-549-7467. 
+
+**How Can I Access, Correct and Update Personal Information?**
+
+You can access, correct and update certain personal information that you have provided to us by clicking on "Manage Your Account" within the Help Desk area of this Web site. 
+
+**Can I Indicate Whether or Not I Want To Receive Promotional Communications?**
+
+There are several ways in which you can tell us whether or not you want to receive promotional communications from us. When you set up an account, or click on "Manage Your Account" within the Help Desk area, or place an order, you will have an opportunity to make or change your selections in this regard. You also will have an opportunity to change these selections by clicking on an "unsubscribe" hyperlink contained in promotional emails we send you. Additionally you may email us at [customersupport@lizclaiborne.com](mailto:customersupport@lizclaiborne.com) or call us at 1-866-549-7467 or write to us at Liz Claiborne, Inc., Consumer Relations, One Claiborne Ave, North Bergen, NJ 07047. Please note that any request to be removed from such mailing lists may take up to one (1) week to become effective. Even if you are removed from any such list, if you order online, we will send you an email confirming your order and may need to contact you by phone, email, or regular mail if we have questions about your order. 
+
+**What Happens When I Link To or From Another Web Site?**
+
+This Web site may contain links to Web sites operated by third parties. Please be advised that the practices described in this Privacy Policy do not apply to information gathered through these other Web sites. We encourage you to be aware of when you leave this Web site and to read the privacy policies of each and every Web site that you visit. 
+
+If you have accessed this Web site through a link from certain of our advertising or marketing partners, this Web site may include a frame of the applicable advertising or marketing partner. Nevertheless, the information you provide to us through these framed Web pages is collected by us, and our use of this information is governed by this Privacy Policy. 
+
+**What About Contests and Sweepstakes?**
+
+When we run a contest or sweepstakes relating to this Web site, it will be accompanied by a set of rules. The rules for each contest/sweepstakes will specify how the information gathered from you for entry will be used and disclosed. 
+
+**What About Online Surveys?**
+
+We may from time to time conduct on-line surveys. When you complete an online survey, we may ask for certain information including your age, zip code, shopping habits, email and/or mailing address. This information will be treated in accordance with this Privacy Policy. 
+
+**How Will I Be Informed About Changes Regarding This Privacy Policy?**
+
+If we make any material changes to this Privacy Policy, we will post a notice on this Web site notifying users of the changes. In some cases, we also may send an email notifying users of the changes. You should check this Web site periodically to see if any recent changes to this Privacy Policy have occurred. 
