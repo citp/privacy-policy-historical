@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the cbs.com privacy policy that was archived on 1999-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991108225716id_/http%3A//www.cbs.com/flat/story_167710.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbs.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205172700id_/http%3A//www.cbs.com/policies/privacy.shtml) for the most accurate reproduction.*
 
-# CBS
+# CBS - Primetime
+
+  
+|  |    
+**CBS.com | Privacy Statement**
 
 **(CBS)** CBS.com takes your electronic privacy seriously. We do not share Personally Identifiable Information with anyone unless we tell you otherwise when we collect the information. 
-
-We understand the need to protect the online privacy of children who may not yet be sophisticated enough to determine for themselves what information is appropriate to release. The Kidshow portion of our site is hosted by Nikolai.com. Nikolai.com has a [Children's Privacy Policy](http://cbs.nikolai.com/privacy_cbs.htm) that parents can read and a [version written especially for kids under 13. ](https://web.archive.org/web/19991108225716id_/http%3A//www.cbs.com/flat/story_172674.html)
 
 Questions regarding this statement should be directed to the cbs.com privacy coordinator by email at [privacy@cbs.com](mailto:privacy@cbs.com). You may also send inquiries by mail to: 
 
@@ -13,7 +15,7 @@ CBS New Media (555/13)
 524 West 57th Street   
 New York, New York 10019**
 
- **Kinds of Information**
+**Kinds of Information**
 
 There are two kinds of information Web sites can obtain about you: 
 
@@ -25,7 +27,7 @@ We at CBS.com collect certain Aggregate Information – such as your IP address 
 
 **Cookies**
 
-CBS.com uses [cookies](https://web.archive.org/web/19991108225716id_/http%3A//www.cbs.com/flat/story_112221.html) to remember your zip code so that you can maintain a customized view of CBS.com showing your city’s CBS-TV affiliate Web site. We may also use cookies when we conduct polls, surveys, and contests to limit multiple responses and registrations. 
+CBS.com uses [cookies](https://web.archive.org/policies/cookies.shtml) to remember your zip code so that you can maintain a customized view of CBS.com showing your city’s CBS-TV affiliate Web site. We may also use cookies when we conduct polls, surveys, and contests to limit multiple responses and registrations. 
 
 CBS.com will never use cookies to retrieve information from your computer that was not originally sent by us to you in a cookie. CBS.com does not use information transferred through cookies for any promotional or marketing purposes. 
 
@@ -37,9 +39,13 @@ Most browsers are initially set to accept cookies. If you'd prefer, you can set 
 
 Sometimes CBS.com posts optional surveys in which we ask for Personally Identifiable Information. Here are some ways we might use that information: 
 
-To send you information about CBS and this Web site   
-To give to our content partners, who may send you promotional material   
-To give to our advertisers, who may send you information about their products and services 
+* To send you information about CBS and this Web site
+  
+
+* To give to our content partners, who may send you promotional material
+  
+
+* To give to our advertisers, who may send you information about their products and services
 
 The choice is yours – you do not have to answer surveys. If you choose to answer the survey, we will always tell you on the survey form how we will use the Personally Identifiable Information. If we are asking for optional information, we will mark it with an asterisk (*) so you know you can skip it if you want. And on that same page we will give you a way to "opt out" of being contacted by CBS.com and any third parties. 
 
@@ -74,10 +80,7 @@ We do not share Personally Identifiable Information with anyone unless we tell y
 
 If we ask you for Personally Identifiable Information, we will tell you if we intend to share it with others. We will provide you with a way to tell us that you don’t want us to share the information or if you don’t want to receive promotional and/or marketing information about products, services, and offerings from CBS.com and/or any third parties. Let us know and we will use your name and address only to tell you if you win a contest. 
 
-**Feedback and Email**
-
-On every page at CBS.com, there is a link to a “feedback” email form so you can comment, complain, make suggestions, and ask questions. Your email address is required on this form so we can answer your questions, and we want your name, too, so we can address our answer in a mannerly way. We may also track your browser type, and referring URL to better diagnosis technical issues you may be having. We do not share this information with third parties and we will use it only to answer your correspondence. 
-
+  
 **CBS-TV Affiliates**
 
 CBS.com has a unique relationship with some of our CBS Television affiliates. If you are interested in local information, we will give you the option to choose a local affiliate or enter a zip code. We asked for this information so that your view of the site could be “branded” to your local CBS Television affiliate, or to any other CBS-Television affiliate you choose. You'll see their logo at the top of your screen. 
@@ -130,10 +133,14 @@ CBS New Media (555/13)
 524 West 57th Street   
 New York, New York 10019**
 
- **The Bottom Line**
+**The Bottom Line**
 
 Sometimes we want personal information from you so that we, our partners and our advertisers can send you some material we think might be of interest to you. 
 
 We promise never to be sneaky about it getting this information from you. We always tell you up front what we’re going to do with the answers, and we always give you a chance to say “no thanks.” 
 
-So head back to the [CBS.com home page](https://web.archive.org/web/19991108225716id_/http%3A//www.cbs.com/flat/section_100.html) and mouse around in confidence.
+So head back to the [CBS.com home page](https://web.archive.org/) and mouse around in confidence. 
+
+  
+|  |   
+
