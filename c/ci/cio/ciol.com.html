@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ciol.com privacy policy that was archived on 2004-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040603200658id_/http%3A//ciol.com/company/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ciol.com privacy policy that was archived on 2004-10-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041010040816id_/http%3A//www.ciol.com/company/privacy) for the most accurate reproduction.-->
 
 <html><head>
 <title></title>
@@ -16,8 +16,8 @@ document.write('<IFRAME WIDTH=0 HEIGHT=0 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 V
 document.write('<SCR' + 'IPT LANGUAGE="JavaScript1.1" SRC="http://ads.mediaturf.net/js.ng/Params.richmedia=yes&site=ciol&size=300x250&category=tech&content=other&SpaceDesc=popup&lang=eng&bust='+bust+'">\n');
 document.write('</SCR' + 'IPT>\n');
 document.write('</IFRAME>');
-</script><iframe width="0" height="0" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://ads.mediaturf.net/html.ng/site=ciol&amp;size=300x250&amp;category=tech&amp;content=other&amp;SpaceDesc=popup&amp;lang=eng&amp;bust=351186">
-<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ads.mediaturf.net/js.ng/Params.richmedia=yes&site=ciol&size=300x250&category=tech&content=other&SpaceDesc=popup&lang=eng&bust=351186">
+</script><iframe width="0" height="0" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://ads.mediaturf.net/html.ng/site=ciol&amp;size=300x250&amp;category=tech&amp;content=other&amp;SpaceDesc=popup&amp;lang=eng&amp;bust=53924">
+<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ads.mediaturf.net/js.ng/Params.richmedia=yes&site=ciol&size=300x250&category=tech&content=other&SpaceDesc=popup&lang=eng&bust=53924">
 </SCRIPT>
 </iframe>
 
@@ -38,8 +38,8 @@ document.write('<IFRAME WIDTH=468 HEIGHT=60 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=
 document.write('<SCR' + 'IPT LANGUAGE="JavaScript1.1" SRC="http://ads.mediaturf.net/js.ng/Params.richmedia=yes&site=ciol&size=468x60&category=tech&content=news&SpaceDesc=top&lang=eng&bust='+bust+'">\n');
 document.write('</SCR' + 'IPT>\n');
 document.write('</IFRAME>');
-</script><iframe width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://ads.mediaturf.net/html.ng/site=ciol&amp;size=468x60&amp;category=tech&amp;content=gnews&amp;SpaceDesc=top&amp;lang=eng&amp;bust=537180">
-<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ads.mediaturf.net/js.ng/Params.richmedia=yes&site=ciol&size=468x60&category=tech&content=news&SpaceDesc=top&lang=eng&bust=537180">
+</script><iframe width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://ads.mediaturf.net/html.ng/site=ciol&amp;size=468x60&amp;category=tech&amp;content=gnews&amp;SpaceDesc=top&amp;lang=eng&amp;bust=708737">
+<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ads.mediaturf.net/js.ng/Params.richmedia=yes&site=ciol&size=468x60&category=tech&content=news&SpaceDesc=top&lang=eng&bust=708737">
 </SCRIPT>
 </iframe>
 <noscript>
@@ -75,51 +75,41 @@ document.write('</IFRAME>');
         </tr>
         <tr>
           <td width="100%" colspan="5" bgcolor="#E0E0E0" height="24" valign="bottom"><script language="Javascript">
-function srchValidate()
+function sitechange()
 {
-	if(document.srchForm.toptxt.value == "")
-		{
-		alert("Please enter some search text");
-		document.srchForm.toptxt.focus();
-		return false;
-	}
+var val = document.srchForm.cboname.options[document.srchForm.cboname.selectedIndex].value;
+window.location = val;
 }
-
-	function sitechange()
-			{
-				var val = document.srchForm.cboname.options[document.srchForm.cboname.selectedIndex].value;
-				window.location = val;
-			}
 </script>
  <table border="0" cellpadding="0" cellspacing="0" height="1">
     <tbody><tr>
       <td height="21">
           <table border="0" cellpadding="0" cellspacing="0" height="1">
             <tbody><tr>
-<form name="srchForm" method="post" action="/content/search/search1.asp"></form>
-
               <td width="600" height="30" bgcolor="#E0E0E0" align="center">
-<p align="left">
-<b class="normaltext">Search</b> 
-<input type="text" width="30" name="toptxt" style="font-family: Arial; font-size: 8pt; font-weight: bold">
-                in&nbsp; 
-<select name="topcmb" style="font-family: Arial; font-size: 8pt">
-<option value="entire">Entire CIOL Network</option><option value="ciol">CIOL</option>
-<option value="dqci">DQ Channels India</option>
-<option value="pcquest">PCQuest</option>
-<option value="dataquest">Dataquest</option>
-<option value="vnd">Voice&amp;Data</option>
-<option value="dqweek">the DQweek</option>
-<option value="LD">Living Digital</option>
-<option value="BS">BioSpectrum</option>
-</select>&nbsp;&nbsp;<input type="Submit" name="go" value="Go" onclick="return srchValidate();" style="font-family: Arial; font-size: 8pt">&nbsp;&nbsp;<a class="trail" href="/content/search/advsearch.asp">Advanced Search</a></p>
+<!-- SiteSearch Google -->
+<form name="google" method="GET" action="http://www.google.co.in/custom" target="_GoogleNew">
+<table align="left" border="0" cellpadding="0" cellspacing="0" width="90%">
+<tbody><tr><td nowrap="nowrap" valign="top" align="center"><a href="http://www.google.com/"><img src="http://www.google.com/logos/Logo_25wht.gif" border="0" alt="Google"></a></td>
+<td><input type="hidden" name="domains" value="ciol.com"><input type="text" name="q" size="10" maxlength="255" value=""> <input type="submit" name="sa" value="Search"></td><td><font size="-1"><input type="radio" name="sitesearch" value="ciol.com" checked="">ciol.com <input type="radio" name="sitesearch" value="">Web<br></font>
+<input type="hidden" name="client" value="pub-0788439606881995">
+<input type="hidden" name="forid" value="1">
+<input type="hidden" name="channel" value="8191008975">
+<input type="hidden" name="ie" value="ISO-8859-1">
+<input type="hidden" name="oe" value="ISO-8859-1">
+<input type="hidden" name="safe" value="active">
+<input type="hidden" name="cof" value="GALT:#008000;GL:1;DIV:#CCCCCC;VLC:663399;AH:left;BGC:FFFFFF;LBGC:000000;ALC:0000FF;LC:0000FF;T:000000;GFNT:0000FF;GIMP:0000FF;LH:50;LW:157;L:http://www.ciol.com/ads/google/images/ciol.gif;S:http://www.ciol.com/;FORID:1;">
+<input type="hidden" name="hl" value="en">
+</td><td width="28%" align="right">&nbsp;&nbsp;<a class="trail" href="/content/search/advsearch.asp">Advanced Search</a></td></tr></tbody></table>
+</form>
+<!-- SiteSearch Google -->
 </td>
-              <td width="125" height="21" bgcolor="#E0E0E0" align="right">
-	<select name="cboname" onchange="javascript:sitechange()" style="font-family: Arial; font-size: 8pt">
+<form name="srchForm" method="post" action="/content/search/search1.asp"></form>              <td width="125" height="21" bgcolor="#E0E0E0" align="right">
+<select name="cboname" onchange="javascript:sitechange()" style="font-family: Arial; font-size: 8pt">
 <option value="http://www.dqindia.com/">CIOL Network Sites</option>
-<option value="http://www.dqindia.com/">Dataquest</option>
 <option value="http://www.voicendata.com/">Voice&amp;Data</option>
 <option value="http://www.pcquest.com/">PCQuest</option>
+<option value="http://www.dqindia.com/">Dataquest</option>
 <option value="http://www.livingdigitalindia.com/">Living Digital</option>
 <option value="http://www.dqchannelsindia.com/">DQ Channels India</option>
 <option value="http://www.ciolshop.com/">CIOL Shop</option>
@@ -127,8 +117,7 @@ function srchValidate()
 <option value="http://www.dqweek.com/">the DQweek</option>
 <option value="http://www.globaloutsourcing.org/">GlobalOutsourcing</option>
 <option value="http://www.biospectrumindia.com/">BioSpectrum</option>
-			</select>
-
+</select>
 </td>
 <td><a href="http://www.cmil.com/"><img border="0" src="/images03/nov/cmilogo.gif" hspace="3"></a></td>
             </tr>
@@ -171,8 +160,8 @@ document.write('<IFRAME WIDTH=728 HEIGHT=90 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=
 document.write('<SCR' + 'IPT LANGUAGE="JavaScript1.1" SRC="http://ads.mediaturf.net/js.ng/Params.richmedia=yes&site=ciol&size=728x90&category=tech&content=gnews&SpaceDesc=top&lang=eng&bust='+bust+'">\n');
 document.write('</SCR' + 'IPT>\n');
 document.write('</IFRAME>');
-</script><iframe width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://ads.mediaturf.net/html.ng/site=ciol&amp;size=728x90&amp;category=tech&amp;content=gnews&amp;SpaceDesc=top&amp;lang=eng&amp;bust=664545">
-<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ads.mediaturf.net/js.ng/Params.richmedia=yes&site=ciol&size=728x90&category=tech&content=gnews&SpaceDesc=top&lang=eng&bust=664545">
+</script><iframe width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://ads.mediaturf.net/html.ng/site=ciol&amp;size=728x90&amp;category=tech&amp;content=gnews&amp;SpaceDesc=top&amp;lang=eng&amp;bust=766714">
+<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ads.mediaturf.net/js.ng/Params.richmedia=yes&site=ciol&size=728x90&category=tech&content=gnews&SpaceDesc=top&lang=eng&bust=766714">
 </SCRIPT>
 </iframe>
 <noscript>
@@ -301,7 +290,11 @@ site, or your dealings with this Web site, you can contact <a href="mailto:webma
 </div>
               </td>
               <td width="165" valign="top" height="8">
-<p align="center"><font class="ad">A d v e r t i s e m e n t</font><br><a href="http://www.ciol.com/track/clicks3.asp?client=HPLJ3030247&amp;clickUrl=http://www.ciol.com/content/productoftheweek/may04/hplj3030.asp"><img src="http://www.ciol.com/track/impressions3.asp?client=HPLJ3030247&amp;imageUrl=http://www.ciol.com/content/productoftheweek/images/hplj3030_panel.gif" width="148" height="130" border="0" alt="More on HP LJ 3030"></a></p>
+<p align="center">
+<font class="ad"><b>Product of the Week</b></font><br>
+<a href="http://www.ciol.com/track/clicks3.asp?client=Iomega_POTW274&amp;clickUrl=http://www.ciol.com/content/productoftheweek/sep04/iomega.asp"><img src="http://www.ciol.com/track/impressions3.asp?client=Iomega_POTW274&amp;imageUrl=http://www.ciol.com/content/productoftheweek/images/iomega_oct04.gif" width="148" height="130" border="0" alt="Click here"></a> 
+</p><p align="center"><font class="ad">A d v e r t i s e m e n t</font><br>
+<a href="http://www.ciol.com/track/clicks3.asp?client=SeagateWarranty262&amp;clickUrl=http://info.seagate.com/mk/get/AMER_WARRANTY_0704_JUMP"><img src="http://www.ciol.com/track/impressions3.asp?client=SeagateWarranty262&amp;imageUrl=http://www.ciol.com/ads/seagate/warranty-ext-120x90.gif" width="120" height="90" border="0" alt="More on Seagate..."></a></p>
 <p align="center"><a href="http://www.ciol.com/newsletters/subscribe.asp"><img src="/images03/ct_signup.gif" width="150" height="72" border="0"></a></p><p align="center"><font class="ad">A d v e r t i s e m e n t</font>
 
 </p><p align="center">
@@ -313,8 +306,8 @@ document.write('<IFRAME WIDTH=148 HEIGHT=400 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE
 document.write('<SCR' + 'IPT LANGUAGE="JavaScript1.1" SRC="http://ads.mediaturf.net/js.ng/Params.richmedia=yes&site=ciol&size=148x400&category=tech&content=homepage&SpaceDesc=top&lang=eng&bust='+bust+'">\n');
 document.write('</SCR' + 'IPT>\n');
 document.write('</IFRAME>');
-</script><iframe width="148" height="400" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://ads.mediaturf.net/html.ng/site=ciol&amp;size=148x400&amp;category=tech&amp;content=homepage&amp;SpaceDesc=top&amp;lang=eng&amp;bust=471092">
-<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ads.mediaturf.net/js.ng/Params.richmedia=yes&site=ciol&size=148x400&category=tech&content=homepage&SpaceDesc=top&lang=eng&bust=471092">
+</script><iframe width="148" height="400" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://ads.mediaturf.net/html.ng/site=ciol&amp;size=148x400&amp;category=tech&amp;content=homepage&amp;SpaceDesc=top&amp;lang=eng&amp;bust=983286">
+<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ads.mediaturf.net/js.ng/Params.richmedia=yes&site=ciol&size=148x400&category=tech&content=homepage&SpaceDesc=top&lang=eng&bust=983286">
 </SCRIPT>
 </iframe>
 <noscript>
@@ -334,11 +327,11 @@ document.write('</IFRAME>');
   <td width="100%" bgcolor="#FFFFFF">
       <table border="0" cellpadding="2" cellspacing="0" width="100%" align="center">
         <tbody><tr>
-          <td width="100%"><a href="http://www.ciol.com/nlclick1.asp?nl=AcrosNW1704&amp;adurl=http://www.cioljobs.com/jobseeker/findjob2.asp?jobquote=510" class="rightlink">Sonata Software - DW Architect</a><br>
-<font class="rightnormaltext">Key Skills: ETL, OLAP<br>
-Experience: 6-12 years<br>
+          <td width="100%"><a href="http://www.ciol.com/nlclick1.asp?nl=AcrosNW1704&amp;adurl=http://www.cioljobs.com/jobseeker/compjobs1.asp?empname={5A7EF2A1-153E-428D-8B85-A754A104BEA8}" class="rightlink">Wireless Professional</a><br>
+<font class="rightnormaltext">Key Skills: GSM, GPRS<br>
+Experience: 2+ years<br>
 Location: Bangalore<br>
-</font><a href="http://www.ciol.com/nlclick1.asp?nl=AcrosNW1704&amp;adurl=http://www.cioljobs.com/jobseeker/findjob2.asp?jobquote=510" class="rightlink">Click here</a>
+</font><a href="http://www.ciol.com/nlclick1.asp?nl=AcrosNW1704&amp;adurl=http://www.cioljobs.com/jobseeker/compjobs1.asp?empname={5A7EF2A1-153E-428D-8B85-A754A104BEA8}" class="rightlink">Click here</a>
 <font class="rightnormaltext"> to know more.</font></td>
         </tr>
       </tbody></table>
@@ -359,8 +352,7 @@ Search for IT Jobs</a></td>
   <center>
   <table border="0" cellpadding="2" cellspacing="0" width="100%">
     <tbody><tr>
-      <td width="100%"><a href="http://www.ciolshop.com/stores/pcstore/pcstore_url.asp?PId=PC3004200423801"><img border="0" src="/images03/apple_ipod.gif" align="left" width="79" height="80"></a><a class="rightlink" href="http://www.ciolshop.com/stores/pcstore/pcstore_url.asp?PId=PC3004200423801">Apple iPod 20GB</a><br><font class="rightnormaltext">The super-slim iPod is lighter than two CDs, can hold up to 5,000 songs, thousands of digital photos and works as a personal voice recorder.
-<br><font color="red"><b>Price Rs 25,900/-</b></font><br>
+      <td width="100%"><a href="http://www.ciolshop.com/stores/pcstore/pcstore_url.asp?PId=PC5720021044202"><img border="0" src="http://fabmall.speedera.net/www.fabmall.com/Stores/PCStore/Images/Lcpq2800.jpg" align="left" width="80" height="80"></a><a class="rightlink" href="http://www.ciolshop.com/stores/pcstore/pcstore_url.asp?PId=PC5720021044202">Compaq Presario P2801</a><br><font class="rightnormaltext">Presario 2801 - Intel Mobile Pentium 4-M 1.4Ghz/ 400Mhz FSB/ 512KB Cache/ 128MB DDR SDRAM/ 30GB HDD/ 8XDVD/ 1.44MB FDD/ 56K Modem/NIC Combo/ LiIon Battery/ 14.1"TFT XGA Screen/ 32MB Dedicated DDR - ATI Mobility Radeon 7500 4X AGP Graphics/ JBL Pro Audio/<br><font color="red"><b>Price Rs 20,000/-</b></font><br>
 &nbsp;<img border="0" src="/images03/arrow_searchjobs.gif" width="8" height="7">&nbsp;<a class="rightlink" href="http://www.ciolshop.com/stores/ciol_spurl.asp">More Products</a>
       </font></td>
     </tr>
@@ -373,7 +365,7 @@ Search for IT Jobs</a></td>
 </td>
   </tr>
 </tbody></table>
-
+<br>&nbsp;
               </td>
             </tr>
           </tbody></table>
@@ -390,16 +382,18 @@ Search for IT Jobs</a></td>
    <tbody><tr>
       <td width="16" bgcolor="#000000">&nbsp;</td>
       <td width="770" align="center">
-<br><script type="text/javascript"><!--
+<script type="text/javascript"><!--
 google_ad_client = "pub-0788439606881995";
 google_ad_width = 728;
 google_ad_height = 90;
 google_ad_format = "728x90_as";
-google_color_border = "B4D0DC";
-google_color_bg = "ECF8FF";
-google_color_link = "0000CC";
+google_ad_channel ="7066868619";
+google_ad_type = "text_image";
+google_color_border = "CCCCCC";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
 google_color_url = "008000";
-google_color_text = "6F6F6F";
+google_color_text = "000000";
 //--></script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script><br>&nbsp;
@@ -407,7 +401,7 @@ google_color_text = "6F6F6F";
    </tr>
    <tr>
       <td width="16" bgcolor="#000000">&nbsp;</td>
-      <td width="770" bgcolor="#D8D8D8" align="center"> <a class="rightlink" href="/company/">About CIOL</a> | <a class="rightlink" href="http://www.ciol.com/ads/ciol/salesleadform.asp">How to Advertise</a> | <a class="rightlink" href="/company/#contact">Contact Us</a> | <a class="rightlink" href="/company/privacy/">Privacy Policy</a> | <a class="rightlink" href="/company/jobs/">Jobs@CIOL</a> | <a class="rightlink" href="/company/guidelines.asp">Write for CIOL</a> </td>
+      <td width="770" bgcolor="#D8D8D8" align="center"> <a class="rightlink" href="/company/">About CIOL</a> | <a class="rightlink" href="/company/awards.asp">Awards</a> | <a class="rightlink" href="http://www.ciol.com/mediakit/">How to Advertise</a> | <a class="rightlink" href="/company/#contact">Contact Us</a> | <a class="rightlink" href="/company/privacy/">Privacy Policy</a> | <a class="rightlink" href="/company/jobs/">Jobs@CIOL</a> | <a class="rightlink" href="/company/guidelines.asp">Write for CIOL</a> </td>
    </tr>
   <tr>
       <td width="16" bgcolor="#000000">&nbsp;</td>
