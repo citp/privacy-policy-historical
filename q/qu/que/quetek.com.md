@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quetek.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209045534id_/http%3A//www.quetek.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quetek.com privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609180600id_/http%3A//quetek.com/privacy.htm) for the most accurate reproduction.*
 
 # File recovery and data recovery software - QueTek Consulting Corporation
 
@@ -21,7 +21,7 @@ Please send any complaint about our compliance with this policy to [help@quetek.
 
 [](http://www.bbbonline.org/cks.asp?id=100121410455613623)
 
-[Privacy Policy](https://web.archive.org/web/20021209045534id_/http%3A//www.quetek.com/privacy.htm)  
+[Privacy Policy](https://web.archive.org/web/20030609180600id_/http%3A//quetek.com/privacy.htm)  
 Send email to [help@quetek.com](mailto:help@quetek.com) with questions or comments about this web site.  
-Windows NT, Windows 2000, Windows XP are registered trademarks of Microsoft Corporation.  NTFS stands for NT File System.  WinFrame and MetaFrame are registered trademarks of Citrix Systems, Inc.  
-Copyright © 1998-2002 QueTek Consulting Corporation (Houston, Texas).
+Windows NT, Windows 2000, Windows XP are registered trademarks of Microsoft Corporation.  NTFS stands for NT File System. WinFrame and MetaFrame are registered trademarks of Citrix Systems, Inc.  
+Copyright © 1998-2003 QueTek Consulting Corporation (Houston, Texas).
