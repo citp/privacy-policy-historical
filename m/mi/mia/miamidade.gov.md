@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miamidade.gov privacy policy that was archived on 2002-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021112073313id_/http%3A//www.co.miami-dade.fl.us/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miamidade.gov privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602085120id_/http%3A//www.co.miami-dade.fl.us/info/privacy) for the most accurate reproduction.*
 
 # Miami-Dade County
 
