@@ -1,57 +1,14 @@
-> *The following text is extracted and transformed from the bookcrossing.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205011652id_/http%3A//www.bookcrossing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookcrossing.com privacy policy that was archived on 2003-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030801105029id_/http%3A//www.bookcrossing.com/privacy) for the most accurate reproduction.*
 
 # BookCrossing - privacy - FREE YOUR BOOKS!
 
 |  |   
-|  |  |   
----|---|---  
-| 
-
-**_Did You Know..._**  
-Your BookCrossing membership is free, but operating this site isn't. Please consider supporting our efforts in one of these ways:
-
-* * *
-
-[  
-Buy stuff from the **BookCrossing Store!**](http://www.cafeshops.com/cp/store.aspx?s=bookcrossing2)
-
-* * *
-
-**_Buy Books..._**  
-Each time you buy books using the links below, BookCrossing earns a small commission
-
-[**amazon.com**](https://web.archive.org/link/amazon/home)
-
-world's largest online bookseller   
-[**amazon.ca**](https://web.archive.org/link/amazon.ca/home) amazon for our canadian members   
-[**powells.com**](https://web.archive.org/link/powells/home) fiercely independent bookstore founded in Portland, Oregon   
-[**abebooks.com**](https://web.archive.org/link/abebooks/home) over 40 million used, rare, and out-of-print books from thousands of booksellers around the world   
-[**half.com**](https://web.archive.org/link/half/home) low prices on used books   
-[**chinaberry.com**](https://web.archive.org/link/chinaberry/home) family-friendly books and gifts   
-[**audiobookclub.com**](https://web.archive.org/link/audiobookclub/home) Listen to books on cassette or CD while you drive or exercise!
-
-* * *
-
-**_Simplify..._**
-
-[**peapod.com**](https://web.archive.org/link/peapod/home)
-
-order groceries online and have them delivered to your door   
-[**inkjetbroker.com**](https://web.archive.org/link/inkjet/home) order inkjet/laser printer supplies online and save 50-75%
-
-* * *
-
-**_Donate..._**  
-Donations are always appreciated!
-
-[**donate via amazon.com**](https://web.archive.org/link/amazondonation/home)  
-[**donate via paypal.com**](https://web.archive.org/link/paypaldonation/home)
-
-|   
-|  |   
   
-|  **Privacy Policy**   
+|  |  **Privacy Policy**   
 BookCrossing respects and protects the privacy of the individuals that use the BookCrossing.com site. Individually identifiable information about you is not willfully disclosed to any third party without first receiving your permission, as explained in this privacy policy. 
+
+**Children under the age of 13**   
+When someone under the age of 13 attempts to register with BookCrossing, we ask that he or she have a parent, teacher or librarian establish a BookCrossing Account for them. When any user registers for a BookCrossing account, we require first name, email address, birth date, city, state/province, country, and zip code. BookCrossing uses this information to create and maintain accounts, for research, and may use this information to customize the content seen on our pages. Under the Children's Online Privacy Protection Act, no web site operator can require, as a condition of participation in an activity, that a child under the age of 13 disclose more information than is reasonably necessary. BookCrossing abides by this requirement. 
 
 **BookCrossing and Cookies**  
 Upon your first visit to BookCrossing, BookCrossing sends a "cookie" to your computer. A cookie is a piece of data that identifies you as a unique member. BookCrossing uses cookies to improve the quality of our service. BookCrossing does this by storing member preferences in cookies. BookCrossing will not disclose its cookies to third parties. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Be aware, however, that some parts of BookCrossing may not function properly if you refuse cookies. 
@@ -72,4 +29,6 @@ By using the BookCrossing site, you consent to the collection and use of your in
 Feel free to contact us any time and we'll answer any additional questions you may have. Our email address is [info@bookcrossing.com](mailto:info@bookcrossing.com). 
 
 [ home](https://web.archive.org/home)   [ books](https://web.archive.org/books)   [ people](https://web.archive.org/people)   [ go hunting](https://web.archive.org/hunt)   [ community](https://web.archive.org/community)   [ the buzz](https://web.archive.org/thebuzz)   [ about](https://web.archive.org/about)   [ FAQs](https://web.archive.org/faqs)   [ press](https://web.archive.org/press)   [ contact](https://web.archive.org/contact)   ** privacy**   |  |    
+[](http://secure.bookcrossing.com/store)  
+  
 |  | 
