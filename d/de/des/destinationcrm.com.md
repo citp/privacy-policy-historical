@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destinationcrm.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205093717id_/http%3A//destinationcrm.com/dcrm_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destinationcrm.com privacy policy that was archived on 2002-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020405164155id_/http%3A//destinationcrm.com/dcrm_privacy.asp) for the most accurate reproduction.*
 
 # destinationCRM - Privacy
 
@@ -9,7 +9,7 @@ This privacy statement informs all visitors of our dedication to them and to the
   * What identifiable information we gather/track about you on this web site
   * What we do with personally identifiable information we gather/track on this web site 
   * Whether any of your personally identifiable information will be shared with any third party 
-  * Questions regarding this statement should be directed to the destinationCRM site coordinator at [radik@destinationCRM.com](mailto:radik@destinationcrm.com)
+  * Questions regarding this statement should be directed to the destinationCRM webmaster [webmaster@destinationcrm.com](mailto:webmaster@destinationcrm.com)
 
 
 
@@ -26,7 +26,7 @@ In general, you can visit destinationCRM on the Web without telling us who you a
 
 _What Information We Gather and Track_
 
-There are times when we may need to collect information from you through our Web site. This generally involves filling out forms so you can become a member, to view special materials on the site, or order third-party products from destinationCRM's and its co-branded web sites. When you become a member, we require you to fill out a form with your name, title, company, company size, field, postal address, and email address. During this process, you are given the opportunity to decline further e-mail notification of important news and events from destinationCRM and its co-branded sites. In addition, you can remove yourself from the mailing list at any time by going here: [Unsubscribe](https://web.archive.org/web/20011205093717id_/http%3A//destinationcrm.com/dcrm_rg_unsubscribe.asp)
+There are times when we may need to collect information from you through our Web site. This generally involves filling out forms so you can become a member, to view special materials on the site, or order third-party products from destinationCRM's and its co-branded web sites. When you become a member, we require you to fill out a form with your name, title, company, company size, field, postal address, and email address. During this process, you are given the opportunity to decline further e-mail notification of important news and events from destinationCRM and its co-branded sites. In addition, you can remove yourself from the mailing list at any time by going here: [Unsubscribe](https://web.archive.org/web/20020405164155id_/http%3A//destinationcrm.com/dcrm_rg_unsubscribe.asp)
 
 When you submit an order on-line, your credit card number is submitted with encryption to the credit institution for normal, routine processing. destinationCRM does not share credit history or credit card information with other companies or third parties, unless compelled by law or court order to do so.
 
@@ -91,9 +91,9 @@ If you have any questions about this privacy statement, or our Web sites, you ma
 
 Privacy Policy  
 destinationCRM.com   
-Freedom Technology Media Group   
-156 West 56th St., Third Floor  
-New York, NY 10019  
-Phone (212) 314-7674
+Line56 Media  
+10940 Wilshire Blvd. STE 600  
+Los Angeles, CA 90024  
+Phone (310) 443-4226
 
   
