@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internationalstudent.com privacy policy that was archived on 2003-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030410191323id_/http%3A//www.internationalstudent.com/about_us/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationalstudent.com privacy policy that was archived on 2003-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030806121443id_/http%3A//www.internationalstudent.com/about_us/privacy.shtml) for the most accurate reproduction.*
 
 # InternationalStudent.com - Privacy Policy
 
