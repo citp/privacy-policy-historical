@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bostonmagazine.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602200349id_/http%3A//www.bostonmagazine.com/content.php%3Fname%3Dprivacy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bostonmagazine.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209073856id_/http%3A//www.bostonmagazine.com/content.php%3Fname%3Dprivacy.txt) for the most accurate reproduction.*
 
 # www.bostonmagazine.com Home Page
 
