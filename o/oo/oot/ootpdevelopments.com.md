@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ootpdevelopments.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202163956id_/http%3A//www.ootpdevelopments.com/policies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ootpdevelopments.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606221527id_/http%3A//www.ootpdevelopments.com/policies.php) for the most accurate reproduction.*
 
 # OOTP Developments: Policies & Copyright
 
@@ -10,7 +10,7 @@ The information we collect is used for internal review and is never shared with 
 
 With respect to cookies: We use cookies to record user-specific information on what pages users access or visit, record past activity at a site in order to provide better service when visitors return to our site, customize Web page content based on visitors' browser type or other information that the visitor sends. 
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at [webmaster@400softwarestudios.com](mailto:webmaster@400softwarestudios.com).
+If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at [webmaster@ootpdevelopments.com](mailto:webmaster@ootpdevelopments.com).
 
   
 
