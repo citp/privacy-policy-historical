@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uggaustralia.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202192729id_/http%3A//www.uggaustralia.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uggaustralia.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612123028id_/http%3A//uggaustralia.com/Privacy.asp) for the most accurate reproduction.*
 
 # UGG: Privacy
 
@@ -15,26 +15,4 @@ Even within UGG Australia, we restrict access to your information to those indiv
 
 UGG Australia privacy policy 07/27/2003 
 
-|  |  |    
-  
-|  Code   
-5825 |  |   Colors   
- baby blue, black, baby pink, chestnut, sand  
----|---|---  
-  |   
-[](https://web.archive.org/web/20031202192729id_/http%3A//www.uggaustralia.com/Apparel_Detail.asp?dept_id=3&sku=5825)  
-  |  |    
-
-
-Features  
-Classic Short
-* Womens   
-  
-  |    
-[](https://web.archive.org/web/20031202192729id_/http%3A//www.uggaustralia.com/Apparel_Detail.asp?dept_id=3&sku=5825)
-
-[](https://web.archive.org/web/20031202192729id_/http%3A//www.uggaustralia.com/Dealers.asp?style_no=5825)[](https://web.archive.org/web/20031202192729id_/http%3A//www.uggaustralia.com/ProductFinder.asp)  
-  
-SEARCH   |   GO   
-  
-
+| 
