@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news.com.au privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402110646id_/http%3A//www.news.com.au/common/privacy/0%2C4841%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news.com.au privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209193804id_/http%3A//www.news.com.au/common/privacy/0%2C4841%2C%2C00.html) for the most accurate reproduction.*
 
 # News Interactive Privacy
 
@@ -66,7 +66,6 @@ Whenever you voluntarily disclose personal information over the Internet that th
 
 Please contact our Privacy Officer to ask for access to your information or if you have a complaint concerning your information privacy or if you would like more information about our approach to privacy. 
 
-Brook Milbank   
 Privacy Officer   
 News Interactive   
 [privacy@news.com.au](mailto:privacy@news.com.au)   
