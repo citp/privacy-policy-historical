@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecollege.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408113512id_/http%3A//www.ecollege.com/company/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecollege.com privacy policy that was archived on 2002-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020930233641id_/http%3A//www.ecollege.com/company/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,7 +44,7 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 eCollege provides "opt-in" opportunities to receive information, offers, and updates. We use your email address to confirm your registration and the validity of your email address.
 
 **Opt-Out**  
-eCollege provides users with the opportunity to "opt-out" of receiving communication from us, with the exception of providing users with system critical information. You may discontinue receiving email communication from eCollege, other than system critical information, by replying to an email with the word "unsubscribe" in the subject line, or by contacting us at [unsubscribe@eCollege](mailto:unsubscribe@eCollege).
+eCollege provides users with the opportunity to "opt-out" of receiving communication from us, with the exception of providing users with system critical information. You may discontinue receiving email communication from eCollege, other than system critical information, by replying to an email with the word "unsubscribe" in the subject line, or by contacting us at [unsubscribe@eCollege.com](mailto:unsubscribe@eCollege.com).
 
 **Email communication**  
 Email addresses are required in order to register for some features on eCollege. We do not rent out our users' email addresses to third parties for unsolicited email communications.
