@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the htmlcenter.com privacy policy that was archived on 2003-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030603161902id_/http%3A//www.htmlcenter.com/contacts/index.cfm/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the htmlcenter.com privacy policy that was archived on 2003-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031202172449id_/http%3A//www.htmlcenter.com/contacts/index.cfm/privacy) for the most accurate reproduction.-->
 
 <html><head>
 <script language="JavaScript">
@@ -92,44 +92,57 @@ function FormValidator(theForm)
 <body bgcolor="FFFFFF">
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr><td align="left" valign="top"><a href="/index.cfm"><img src="/images/htmllogo.gif" alt="HTMLCenter - a web design and development resource - HTML, Javascript, Photoshop, Illustrator tutorials and reviews" border="0"></a></td><td align="center" valign="top">
-<!-- BEGIN RICH-MEDIA BURST! CODE --> 
 <script language="JavaScript"> 
-<!-- /* © 1997-2001 BURST! Media, LLC. All Rights Reserved.*/ 
-function ShowBurstAd(adcode, width, height) {
- var bN = navigator.appName;
- var bV = parseInt(navigator.appVersion);   
- var base='http://www.burstnet.com/';   
- var Tv='';   
- var agt=navigator.userAgent.toLowerCase();   
- if (bV>=4)  
- {ts=window.location.pathname+window.location.search;
+<!-- /* Copyright 1997-2003 BURST! Media, LLC. All Rights Reserved. (Version 1.0J) */ 
+function ShowBurstAd(adcode, width, height, sizes, intrusive, bgcolor, background) {
+var bN = navigator.appName;
+var bV = parseInt(navigator.appVersion);
+var base='http://www.burstnet.com/';
+var Tv=''; var Itr='';
+var sz=''; var bkgd='';
+var bgc=''; var rfr='';
+var vr='v=1.0J';
+var agt=navigator.userAgent.toLowerCase();
+
+if (sizes.length!=0) {sz='/sz='+sizes;} else {sz='';}
+if (bgcolor.length!=0) {bgc='/zg' + bgcolor;} else {bgc='';}
+if (background.length!=0) {bkgd='/bgi='+(escape(escape(background))).replace(/\//gi,'%252F');} else {bkgd='';}
+rfr='/r='+(escape(escape(top.location.href))).replace(/\//gi,'%252F');
+                            
+if (bV>=4) {
+  ts=window.location.pathname+window.location.search;
   i=0; Tv=0; while (i< ts.length)
-    { Tv=Tv+ts.charCodeAt(i); i=i+1; } Tv="/"+Tv;}
-  else   {Tv=escape(window.location.pathname);
-  if( Tv.charAt(0)!='/' ) Tv="/"+Tv; 
+    { Tv=Tv+ts.charCodeAt(i); i=i+1; } Tv="/"+Tv;
+} else {Tv=escape(window.location.pathname);
+  if( Tv.charAt(0)!='/' ) Tv="/"+Tv;
     else if (Tv.charAt(1)=="/")
- Tv="";     
- if( Tv.charAt(Tv.length-1) == "/")
-   Tv = Tv + "_";}   
- if (bN=='Netscape'){        
-  if ((bV>=4)&&(agt.indexOf("mac")==-1))  
- { document.write('<s'+'cript src="'+ 
-  base+'cgi-bin/ads/'+adcode+'.cgi/RETURN-CODE/JS' 
-  +Tv+'">'); 
-  document.write('</'+'script>');
- }
-   else if (bV>=3) {document.write('<'+'a href="'+base+'ads/' + 
-  adcode + '-map.cgi'+Tv+'"target=_top>');
-  document.write('<img src="' + base + 'cgi-bin/ads/' +
-  adcode + '.cgi' + Tv + '" width="' + width + '" height="' + height + '"' +
-  ' border="0" alt="Click Here"></a>');}   
+ Tv="";
+  if( Tv.charAt(Tv.length-1) == "/")
+   Tv = Tv + "_";
 }
-if (bN=='Microsoft Internet Explorer')    
-document.write('<ifr'+'ame id="BURST" src="'+base+'cgi-bin/ads/'  
-+     
-adcode + '.cgi' + Tv + '/RETURN-CODE" width="' + width + '" height="' + height + '"' +     
-'marginwidth="0" marginheight="0" hspace="0" vspace="0" ' +     
-'frameborder="0" scrolling="no"></ifr'+'ame>');  
+
+var fCode='<ifr'+'ame id="BURST" src="'+base+
+ 'cgi-bin/ads/'+adcode+'.cgi/NI/if/'+vr+bgc+sz+bkgd+
+ rfr+Tv+'/RETURN-CODE" width="'+width+'" height="'+
+ height+'"'+'marginwidth="0" marginheight="0"'+
+ 'hspace="0" vspace="0" frameborder="0" '+
+ 'scrolling="no">';
+ var gCode = '<'+'a href="'+base+'ads/'+adcode+'-map.cgi/'+
+ vr+sz+rfr+Tv+'" target=_top><im'+'g src="'+base+
+ 'cgi-bin/ads/'+adcode+'.cgi/'+vr+sz+rfr+Tv+
+ '" border="0" alt="Click Here"></a>';
+var fCodeEnd = '</ifr'+'ame>';
+
+if ((adcode.charAt(0)=="a")&&(intrusive=="1")) {
+ Itr='<di'+'v><scr'+'ipt src="'+base+'cgi-bin/ads/'+adcode+
+ '.cgi/sz=0X0MN/'+vr+rfr+Tv+'/RETURN-CODE/JS/"></scr'+'ipt></d'+'iv>';
+}
+
+if (agt.indexOf("mac")==-1) {
+  document.write(fCode+gCode+fCodeEnd+Itr);
+} else {
+  document.write(gCode);
+}
 }
 //-->
 </script>
@@ -137,14 +150,13 @@ adcode + '.cgi' + Tv + '/RETURN-CODE" width="' + width + '" height="' + height +
 <!-- BEGIN RICH-MEDIA BURST! CODE --> 
 <script language="JavaScript">
 <!--
-ShowBurstAd('ad3249a','468','60');
-// --></script><script src="http://www.burstnet.com/cgi-bin/ads/ad3249a.cgi/RETURN-CODE/JS/6619"></script>
-<noscript><a href="http://www.burstnet.com/ads/ad3249a-
-map.cgi/ns" target="_top"><img src="http://www.burstnet.com/cgi-
-bin/ads/ad3249a.cgi/ns" width="468" height="60" 
-border="0" alt="Click Here"></a> 
+ShowBurstAd('ad3249a','468','60','468x60A','2', '', '');
+// --></script><iframe id="BURST" src="http://www.burstnet.com/cgi-bin/ads/ad3249a.cgi/NI/if/v=1.0J/sz=468x60A/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031202172449id_%252Fhttp%253A%252F%252Fwww.htmlcenter.com%252Fcontacts%252Findex.cfm%252Fprivacy%252F/6623/RETURN-CODE" width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"><a href="http://www.burstnet.com/ads/ad3249a-map.cgi/v=1.0J/sz=468x60A/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031202172449id_%252Fhttp%253A%252F%252Fwww.htmlcenter.com%252Fcontacts%252Findex.cfm%252Fprivacy%252F/6623" target=_top><img src="http://www.burstnet.com/cgi-bin/ads/ad3249a.cgi/v=1.0J/sz=468x60A/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031202172449id_%252Fhttp%253A%252F%252Fwww.htmlcenter.com%252Fcontacts%252Findex.cfm%252Fprivacy%252F/6623" border="0" alt="Click Here"></a></iframe>
+<noscript><a href="http://www.burstnet.com/ads/ad3249a-map.cgi/ns/v=1.0J/sz=468x60A/" target="_top">
+<img src="http://www.burstnet.com/cgi-bin/ads/ad3249a.cgi/ns/v=1.0J/sz=468x60A/" border="0" alt="Click Here"></a> 
 </noscript>
 <!-- END BURST CODE -->
+
 
 
  
@@ -162,21 +174,25 @@ border="0" alt="Click Here"></a>
 <tbody><tr><td><table width="100%" cellspacing="1" cellpadding="2" border="0"><tbody><tr>
 
 
-<td width="14%" class="nav" align="center" onmouseover="this.className='navhilite';" onmouseout="this.className='nav';" onclick="location.href='/index.cfm'"><p class="navlg"><a href="/index.cfm" class="navlink" id="linkHome">Home</a></p></td>
+<td width="12%" class="nav" align="center" onmouseover="this.className='navhilite';" onmouseout="this.className='nav';" onclick="location.href='/index.cfm'"><p class="navlg"><a href="/index.cfm" class="navlink" id="linkHome">Home</a></p></td>
 
-<td width="14%" class="nav" align="center" onmouseover="this.className='navhilite';" onmouseout="this.className='nav';" onclick="location.href='/tutorials/index.cfm/main/'"><p class="navlg"><a href="/tutorials/index.cfm/main/" class="navlink" id="linkHome">Tutorials</a></p></td>
+<td width="12%" class="nav" align="center" onmouseover="this.className='navhilite';" onmouseout="this.className='nav';" onclick="location.href='/tutorials/index.cfm/main/'"><p class="navlg"><a href="/tutorials/index.cfm/main/" class="navlink" id="linkHome">Tutorials</a></p></td>
 
-<td width="14%" class="nav" align="center" onmouseover="this.className='navhilite';" onmouseout="this.className='nav';" onclick="location.href='/reviews/index.cfm/main/'"><p class="navlg"><a href="/reviews/index.cfm/main/" class="navlink" id="linkHome">Reviews</a></p></td>
-
-
-<td width="14%" class="nav" align="center" onmouseover="this.className='navhilite';" onmouseout="this.className='nav';" onclick="location.href='http://forums.htmlcenter.com'"><p class="navlg"><a href="http://forums.htmlcenter.com" class="navlink" id="linkHome">Help Forums</a></p></td>
+<td width="12%" class="nav" align="center" onmouseover="this.className='navhilite';" onmouseout="this.className='nav';" onclick="location.href='/reviews/index.cfm/main/'"><p class="navlg"><a href="/reviews/index.cfm/main/" class="navlink" id="linkHome">Reviews</a></p></td>
 
 
-<td width="14%" class="nav" align="center" onmouseover="this.className='navhilite';" onmouseout="this.className='nav';" onclick="location.href='/hosts/index.cfm?pgid=sp&amp;fg=1'"><p class="navlg"><a href="/hosts/index.cfm?pgid=sp&amp;fg=1" class="navlink" id="linkHome">Web Hosts</a></p></td>
+<td width="12%" class="nav" align="center" onmouseover="this.className='navhilite';" onmouseout="this.className='nav';" onclick="location.href='http://forums.htmlcenter.com'"><p class="navlg"><a href="http://forums.htmlcenter.com" class="navlink" id="linkHome">Forums</a></p></td>
 
-<td width="14%" class="nav" align="center" onmouseover="this.className='navhilite';" onmouseout="this.className='nav';" onclick="location.href='/news/index.cfm'"><p class="navlg"><a href="/news/index.cfm" class="navlink" id="linkHome">Industry News</a></p></td>
 
-<td width="14%" bgcolor="#003399" align="center"><p class="navlg"><a href="/contacts/index.cfm/general/" class="navlinksel" id="linkHome">Contact Us</a></p></td>
+<td width="12%" class="nav" align="center" onmouseover="this.className='navhilite';" onmouseout="this.className='nav';" onclick="location.href='/hosts/index.cfm?pgid=sp&amp;fg=1'"><p class="navlg"><a href="/hosts/index.cfm?pgid=sp&amp;fg=1" class="navlink" id="linkHome">Web Hosts</a></p></td>
+
+<td width="12%" class="nav" align="center" onmouseover="this.className='navhilite';" onmouseout="this.className='nav';" onclick="location.href='/news/index.cfm'"><p class="navlg"><a href="/news/index.cfm" class="navlink" id="linkHome">News</a></p></td>
+
+
+<td width="12%" class="nav" align="center" onmouseover="this.className='navhilite';" onmouseout="this.className='nav';" onclick="location.href='http://shop.htmlcenter.com'"><p class="navlg"><a href="http://shop.htmlcenter.com" class="navlink" id="linkHome">Store</a></p></td>
+
+
+<td width="12%" bgcolor="#003399" align="center"><p class="navlg"><a href="/contacts/index.cfm/general/" class="navlinksel" id="linkHome">Contact Us</a></p></td>
 
 </tr></tbody></table></td></tr></tbody></table>
 
@@ -256,7 +272,7 @@ Tv="";
   document.write('<img src="/images/links/hitsites.jpg" width=120 height=600>');
   document.write('</ifr'+'ame>');    
 // --> 
-</script><iframe id="BURST" src="http://www.burstnet.com/cgi-bin/ads/sk3249a.cgi/6619/zgFFFFFFx000000l000000v000000k000000/RETURN-CODE" width="160" height="600" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"><img src="/images/links/hitsites.jpg" width=120 height=600></iframe>
+</script><iframe id="BURST" src="http://www.burstnet.com/cgi-bin/ads/sk3249a.cgi/6623/zgFFFFFFx000000l000000v000000k000000/RETURN-CODE" width="160" height="600" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"><img src="/images/links/hitsites.jpg" width=120 height=600></iframe>
 <!-- 
 <center><A HREF="http://www.amazon.com/exec/obidos/redirect-home/thehtmlcenter"><IMG SRC="/images/amazon1.gif" BORDER="0" alt="In Association with Amazon.com"></A>
 <br><img src="/images/blank.gif" alt="" border="0" width="88" height="12"><br>
@@ -336,25 +352,28 @@ HTMLCenter takes your privacy seriously. Please read the following to learn more
 <td width="120" valign="top">
 
 
+<table border="0" width="120" cellpadding="1" cellspacing="0"><tbody><tr> <td width="100%" align="center">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_xclick">
+<input type="hidden" name="business" value="allen@htmlcenter.com">
+<input type="hidden" name="item_name" value="HTMLCenter.com">
+<input type="hidden" name="item_number" value="HTMLCenter">
+<input type="hidden" name="no_shipping" value="1">
+<input type="hidden" name="return" value="http://www.htmlcenter.com">
+<input type="hidden" name="cancel_return" value="http://www.htmlcenter.com">
+<input type="hidden" name="cn" value="Any comments please">
+<input type="hidden" name="currency_code" value="USD">
+<input type="hidden" name="tax" value="0">
+</form></td></tr>
+<tr> <td width="100%" align="center"><input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but21.gif" border="0" name="submit" alt="Donate to HTMLCenter"></td></tr>
+<tr> <td width="100%" align="center"></td></tr>
+<tr><td><img src="/images/blank.gif" alt="" width="10" height="5" border="0"></td></tr></tbody></table>
 <table border="0" width="120" cellpadding="1" cellspacing="0" bgcolor="#666666"><tbody><tr> <td width="100%"><table width="100%" border="0" cellpadding="4" cellspacing="0" bgcolor="#ededed"><tbody><tr> <td bgcolor="#b5b5b5" valign="top" width="100%" class="bodycopy"><b>New Stuff!</b></td></tr><tr> <td bgcolor="#ededed" valign="top" width="100%">
 <table cellpadding="1" cellspacing="0" border="0">
 <tbody><tr>
 <td colspan="2" class="rmenuheader">Discussions:</td></tr>
+<tr><td valign="top"><font face="arial,helvetica" size="1">•&nbsp;</font></td><td class="bodysm"><a href="http://forums.htmlcenter.com/showthread.php?goto=lastpost&amp;threadid=712" target="_top">turn off selection of the image</a><br></td></tr><tr><td valign="top"><font face="arial,helvetica" size="1">•&nbsp;</font></td><td class="bodysm"><a href="http://forums.htmlcenter.com/showthread.php?goto=lastpost&amp;threadid=717" target="_top">email submission</a><br></td></tr><tr><td valign="top"><font face="arial,helvetica" size="1">•&nbsp;</font></td><td class="bodysm"><a href="http://forums.htmlcenter.com/showthread.php?goto=lastpost&amp;threadid=716" target="_top">Basic question - linking to word docs?</a><br></td></tr><tr><td valign="top"><font face="arial,helvetica" size="1">•&nbsp;</font></td><td class="bodysm"><a href="http://forums.htmlcenter.com/showthread.php?goto=lastpost&amp;threadid=715" target="_top">html help needed</a><br></td></tr><tr><td valign="top"><font face="arial,helvetica" size="1">•&nbsp;</font></td><td class="bodysm"><a href="http://forums.htmlcenter.com/showthread.php?goto=lastpost&amp;threadid=714" target="_top">help!</a><br></td></tr>
 
-				<tr><td valign="top"><font face="arial,helvetica" size="1">•&nbsp;</font></td><td class="bodysm"><a href="http://forums.htmlcenter.com/showthread.php?goto=lastpost&amp;threadid=420" target="_top">Third Party MYSQL Tools</a><br></td></tr>
-				<tr><td valign="top"><font face="arial,helvetica" size="1">•&nbsp;</font></td><td class="bodysm"><a href="http://forums.htmlcenter.com/showthread.php?goto=lastpost&amp;threadid=419" target="_top">need help - page not displaying properly</a><br></td></tr>
-				<tr><td valign="top"><font face="arial,helvetica" size="1">•&nbsp;</font></td><td class="bodysm"><a href="http://forums.htmlcenter.com/showthread.php?goto=lastpost&amp;threadid=414" target="_top">How to make links open in cells (targeting different content in different cells)</a><br></td></tr>
-				<tr><td valign="top"><font face="arial,helvetica" size="1">•&nbsp;</font></td><td class="bodysm"><a href="http://forums.htmlcenter.com/showthread.php?goto=lastpost&amp;threadid=395" target="_top">help req'd: how can I enum in JS all .style properties?</a><br></td></tr>
-				<tr><td valign="top"><font face="arial,helvetica" size="1">•&nbsp;</font></td><td class="bodysm"><a href="http://forums.htmlcenter.com/showthread.php?goto=lastpost&amp;threadid=417" target="_top">css font size problem</a><br></td></tr> 
-<tr>
-<td colspan="2"><img src="/images/blank.gif" width="20" height="10" alt="" border="0"></td></tr>
-
-<tr><td colspan="2" class="rmenusweeps" width="100%"><a href="/contest.cfm" class="rmenusweeps">Adobe GoLive sweepstakes</a><br><br>
-<a href="/contest1.cfm" class="rmenusweeps">HTML COMPLETE sweepstakes</a><br>
-
-
-
-</td></tr>
 </tbody></table>
 </td> </tr> </tbody></table> </td> </tr> </tbody></table> 
 <br>
@@ -403,19 +422,26 @@ function FormValidator(theForm)
 <table border="0" width="120" cellpadding="1" cellspacing="0" bgcolor="#666666"><tbody><tr> <td width="100%"><table width="100%" border="0" cellpadding="4" cellspacing="0" bgcolor="#003399"><tbody><tr> <td bgcolor="#b5b5b5" valign="top" width="100%" class="bodycopy"><b>Newsletter</b></td></tr><tr> <td bgcolor="#ededed" valign="top" width="100%">
 <table cellpadding="1" cellspacing="0">
 <tbody><tr>
-<td colspan="2" class="bodysm">Enter your e-mail address to receive our free newsletter.</td></tr>
+<td colspan="2" class="bodysm">Sign up for our free newsletter.</td></tr>
 <tr>
 <td><form method="post" action="http://www.htmlcenter.com/newsthanks.cfm" onsubmit="return FormValidator(this)" id="form4" name="form4">
-<input type="text" name="email" size="8" maxlength="254"></form></td><td><input type="submit" value="Go"></td>
-</tr>
-</tbody></table>
-</td> </tr> </tbody></table> </td> </tr> </tbody></table>
-<a href="http://www.templatemonster.com/?aff=allen074"><img src="http://www.mytemplatestorage.com/banners/120x90_1.gif" width="120" height="90" border="0"></a><br><img src="/images/blank.gif" width="10" height="10" alt="" border="0"><br><img src="http://service.bfast.com/bfast/serve?bfmid=27276611&amp;siteid=40293844&amp;bfpage=s_120x60style4" border="0" width="1" height="1" nosave=""><a href="http://service.bfast.com/bfast/click?bfmid=27276611&amp;siteid=40293844&amp;bfpage=s_120x60style4" target="_top"><img src="http://a408.g.akamai.net/f/408/1284/24h/image.netflix.com/NetFlix_Assets/affiliates/banners/S12060v4.gif" border="0" width="120" height="60" alt=""></a><br><img src="/images/blank.gif" width="10" height="10" alt="" border="0"><br><img src="http://service.bfast.com/bfast/serve?bfmid=37628499&amp;siteid=40293844&amp;bfpage=sna_120x60" border="0" width="1" height="1" nosave=""><a href="http://service.bfast.com/bfast/click?bfmid=37628499&amp;siteid=40293844&amp;bfpage=sna_120x60" target="_top"><img src="http://di.dell.com/images/us/html/segments/bsd/images/affiliates/sna_120x60.gif" border="0" width="120" height="60" alt="Software &amp; Peripherals from Dell Business"></a><br><img src="/images/blank.gif" width="10" height="10" alt="" border="0"><br><img src="http://service.bfast.com/bfast/serve?bfmid=30991737&amp;siteid=40293844&amp;bfpage=bb_logos" border="0" width="1" height="1" nosave=""><a href="http://service.bfast.com/bfast/click?bfmid=30991737&amp;siteid=40293844&amp;bfpage=bb_logos" target="_top"><img src="http://ads.bfast.com/clients/bestbuy/logo120x30_logo.gif" border="0" width="120" height="30" alt=""></a><br><img src="/images/blank.gif" width="10" height="10" alt="" border="0">
-
-</td><td><img src="/images/blank.gif" width="10" height="10" alt="" border="0"></td></tr><tr><td colspan="5">
-<table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td bgcolor="#ffffff"><img src="/images/blank.gif" alt="" width="1" height="15" border="0"></td></tr><tr><td bgcolor="#b5b5b5"><img src="/images/blank.gif" alt="" width="1" height="1" border="0"></td></tr><tr><td bgcolor="#ffffff"><img src="/images/blank.gif" alt="" width="1" height="5" border="0"></td></tr><tr><td valign="top" align="center" class="bodymed"><a href="/index.cfm">Home</a> | <a href="/tutorials/index.cfm/main/">Tutorials</a> | <a href="/reviews/index.cfm/main/">Reviews</a> | <a href="/contacts/index.cfm/advertising/">Advertising</a> | <a href="/contacts/index.cfm/link/">Link To Us</a> | <a href="/contacts/index.cfm">Contact Us</a><br>©1997-2002 HTMLCenter | <a href="/contacts/index.cfm/privacy/">Privacy Policy</a> | All Rights Reserved<br>Site Hosting by <a href="http://wetrack.it/hitsites/af.cgi?aid=5&amp;ent=1" target="_blank">HitSites Web Solutions</a><br>Domain Name Advice provided by <a href="http://www.domainnameregistration.me.uk">Domain
-Name Registration UK</a> &amp; <a href="http://www.dotdomainnames.info">Dot
-Domain Names UK</a></td></tr><tr><td bgcolor="#ffffff"><img src="/images/blank.gif" alt="" width="1" height="5" border="0"></td></tr></tbody></table>
+<input type="text" name="email" size="8" maxlength="254" value="email"></form></td><td><input type="submit" value="Go"></td>
+</tr></tbody></table></td> </tr> </tbody></table> </td> </tr> </tbody></table><br><img src="/images/blank.gif" width="7" height="1" border="0" alt=""><br>
+<script type="text/javascript"><!--
+google_ad_client = "pub-6035777964660725";
+google_alternate_ad_url = "http://www.htmlcenter.com/googledefault.html";
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = "120x600_as";
+google_color_border = "003399";
+google_color_bg = "FFFFEE";
+google_color_link = "000000";
+google_color_url = "003399";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr><tr><td colspan="5">
+<table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td bgcolor="#ffffff"><img src="/images/blank.gif" alt="" width="1" height="15" border="0"></td></tr><tr><td bgcolor="#b5b5b5"><img src="/images/blank.gif" alt="" width="1" height="1" border="0"></td></tr><tr><td bgcolor="#ffffff"><img src="/images/blank.gif" alt="" width="1" height="5" border="0"></td></tr><tr><td valign="top" align="center" class="bodymed"><a href="/index.cfm">Home</a> | <a href="/tutorials/index.cfm/main/">Tutorials</a> | <a href="/reviews/index.cfm/main/">Reviews</a> | <a href="/contacts/index.cfm/advertising/">Advertising</a> | <a href="/contacts/index.cfm/link/">Link To Us</a> | <a href="/contacts/index.cfm">Contact Us</a><br>©1997-2002 HTMLCenter | <a href="/contacts/index.cfm/privacy/">Privacy Policy</a> | All Rights Reserved<br>Site Hosting by <a href="http://www.hitsites.net" target="_blank">HitSites Web Solutions</a><br><a href="http://www.mobile-phones-review.co.uk/">Cellular Phones</a> | <a href="http://www.domainnameregistration.me.uk">Domain Name Registration UK</a> | <a href="http://www.dotdomainnames.info">Dot Domain Names UK</a> | <a href="http://www.123-web-hosting.co.uk">Cheap Web Hosting UK</a> </td></tr><tr><td bgcolor="#ffffff"><img src="/images/blank.gif" alt="" width="1" height="5" border="0"></td></tr></tbody></table>
 
 
 
