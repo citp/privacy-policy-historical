@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livescore.co.uk privacy policy that was archived on 2001-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010205080200id_/http%3A//www.livescore.co.uk/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livescore.co.uk privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217073059id_/http%3A//www.livescore.co.uk/policy.htm) for the most accurate reproduction.*
 
 # LiveScore.com Privacy Policy
 
@@ -32,7 +32,5 @@ If you do not want the benefit of cookies, there is a simple procedure to manual
 
 **Third party ad serving**
 
-LiveScore.com works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>
-
-If you have any additional questions about our dedication to consumer privacy,  
+LiveScore.com also works with some other third parties that serve ads to this site (i.e. Doubleclick, Engage, Realmedia, 24/7, Bostonmedia, Greenroommedia, Sabela,...). We only choose to use ad serving solutions of companies whose Privacy Policy is in line with ours and if you would like to find out more about how they manage the privacy of information in conjunction with serving ads on this site, or if you have any additional questions about our dedication to consumer privacy,  
 please contact us at [info@livescore.com](mailto:info@livescore.com)
