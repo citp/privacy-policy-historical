@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the readingrockets.org privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207092716id_/http%3A//www.readingrockets.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readingrockets.org privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604224753id_/http%3A//www.readingrockets.org/privacy.php) for the most accurate reproduction.*
 
-# WETA: Reading Rockets: Privacy Policy
+# Reading Rockets: Privacy Policy
 
 * * *
 
