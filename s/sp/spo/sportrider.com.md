@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportrider.com privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212000400id_/http%3A//media.primediamags.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportrider.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404003414id_/http%3A//media.primediamags.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Primedia Consumer Privacy Policy
 
