@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waysidegardens.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602034807id_/http%3A//www.waysidegardens.com/webapp/commerce/command/ExecMacro/psPrivacy.d2w/report) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waysidegardens.com privacy policy that was archived on 2001-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011210144201id_/http%3A//www.waysidegardens.com/webapp/commerce/command/ExecMacro/psPrivacy.d2w/report) for the most accurate reproduction.*
 
 # Wayside Gardens: Wayside's Privacy Policy
 
@@ -57,6 +57,32 @@ WaysideGardens.com gives users the following options:
 
 _**Security Measures**_  
 We work hard to protect the security of your information by using Secure Socket Layer (SSL) technology, the current standard for secure transactions over the Internet. There are some simple measures that you can take to promote protection of your information. First, to help protect the security of your account, do not share your password with others. Also, remember to "log-off" after using any of our on-line services when you have finished using the website. While Wayside Gardens strives to protect your information by using SSL and through measures to protect our system, such security cannot be ensured. Consequently, Wayside Gardens and George W. Park Seed Company, Inc. do not ensure or warrant the security of information you transmit, and you do so at your own risk.
+
+**Encryption**
+
+ **What is Encryption?**
+
+Encryption is a process by which we use software to scramble sensitive information while it is in transit to Wayside Gardens. 
+
+Please take a moment to read about the steps that we have taken to help protect your information and make your online transmissions safer. We also invite you to review the steps you can take to help protect yourself further. 
+
+**How Does Encryption Work?**
+
+Encryption is based on a key that has two different parts. The public part and the private part. The public part of the key is distributed to those you want to communicate with. The private part is for the recipient's use only. 
+
+When you send personal information to WaysideGardens.com, you use Wayside Gardens' public key to encrypt your personal information. That means, if at any point during the transmission your information is intercepted, it is scrambled and very difficult to decrypt. Once Wayside Gardens receives your encrypted personal information, we use the private part of our key to decode it. 
+
+**What Kind of Encryption Software Does Wayside Gardens Use?**
+
+Wayside Gardens currently uses the industry-standard SSL (Secure Sockets Layer) encryption. But we continue to keep up with the current technologies in order to provide the best security for our customers. 
+
+**What Information Does Wayside Gardens Encrypt?**
+
+Wayside Gardens encrypts all personal information you give us when you place an order online. Remember, if you feel uncomfortable providing any of this information online, please feel free to call one of our representatives at 1-800-845-1124. 
+
+**How Safe is Encryption Really?**
+
+Providing encrypted information online is as safe as doing it over the phone.
 
 _**Privacy Policy Changes**_  
 WaysideGardens.com may update this Privacy Policy from time to time to better serve you. We encourage you to review this Privacy Policy periodically. 
