@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livescore.net privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205191700id_/http%3A//livescore.net/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livescore.net privacy policy that was archived on 2001-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010425144259id_/http%3A//www.livescore.net/policy.htm) for the most accurate reproduction.*
 
 # LiveScore.com Privacy Policy
 
