@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pennlive.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203063345id_/http%3A//pennlive.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennlive.com privacy policy that was archived on 2004-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040614142924id_/http%3A//pennlive.com/privacypolicy) for the most accurate reproduction.*
 
 # PennLive.com: Privacy Policy
 
@@ -63,7 +63,7 @@ Privacy Policy Coordinator
 Harrisburg, PA 17110 
 
 |  |    
-[](http://ads3.advance.net/RealMedia/ads/click_lx.ads/www.pennlive.com/privacypolicy/index.ssf/NQS/1604979842/SponsorRight/default/empty.gif/64316564656561633366636438336330)   
+[](http://ads5.udc.advance.net/RealMedia/ads/click_lx.ads/www.pennlive.com/privacypolicy/index.ssf/NQS/1338368108/SponsorRight/default/empty.gif/64316564656562353430636462363430)   
 INSIDE  
 [**About Us**](https://web.archive.org/aboutus/)  
 » [Media Kit](https://web.archive.org/mediakit/)  
@@ -72,10 +72,8 @@ INSIDE
   
 [](https://web.archive.org/sendthispage/sendthispage.ssf) |  |    
   
-|  [ ](http://ads1.advance.net/RealMedia/ads/click_lx.ads/www.pennlive.com/privacypolicy/index.ssf/NQS/573099119/Sponsor1/PENNLIVE/WAYPOINT01PN02/waypoint_premiumtile.gif/64316564656561633366636438336330)  
----  
-  
-[](http://ads3.advance.net/RealMedia/ads/click_lx.ads/www.pennlive.com/privacypolicy/index.ssf/NQS/1180739795/Tile1/PENNLIVE/MEMBERS08PN01/house_piaafball_SMTI.gif/64316564656561633366636438336330)   
+[](http://ads5.udc.advance.net/RealMedia/ads/click_lx.ads/www.pennlive.com/privacypolicy/index.ssf/NQS/1576356395/Sponsor1/default/empty.gif/64316564656562353430636462363430)   
+[](http://ads5.udc.advance.net/RealMedia/ads/click_lx.ads/www.pennlive.com/privacypolicy/index.ssf/NQS/159304328/Tile1/PENNLIVE/AV_INTERCO_PN04/neworleans_ad_supertile31.gif/64316564656562353430636462363430)   
   
   
 
