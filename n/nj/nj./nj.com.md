@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nj.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413111003id_/http%3A//www.nj.com/userguide/index.ssf%3F/njo_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nj.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217201646id_/http%3A//nj.com/userguide/index.ssf%3F/njo_privacy.html) for the most accurate reproduction.*
 
 # NJ.com - User Guide
 
@@ -35,16 +35,17 @@ Again, if you have any concerns regarding your child's or your use of **New Jers
 **»**  [Free Newsletters](https://web.archive.org/lists/)  
 **»**  [Site Index](https://web.archive.org/index/)  
 **»**  [Bookmarking](https://web.archive.org/userguide/index.ssf?/bookmarking.html)  
-**»**  [NJ.com Staff](https://web.archive.org/userguide/index.ssf?/staff.html)  
+**»**  [NJ.com Staff](https://web.archive.org/userguide/staff.ssf)  
 **»**  [Jobs With Us](http://careersite.nj.com/perl/vaui/EmpList/top/foliobycust/99342-0162)  
   
-[](http://ads4.advance.net/RealMedia/ads/click_lx.ads/www.nj.com/userguide/index.ssf//njo_privacy.html/20010413071004/385929565/Tile1/NJONLINE/NJO_AUTO/AutoSupStoreTile.gif/64306439366435633361643664653830) | MARKETPLACE  
+[](http://ads3.advance.net/RealMedia/ads/click_lx.ads/www.nj.com/userguide/index.ssf//njo_privacy.html/969314552/Tile1/NJONLINE/AV_FIRSTJOBS_NJ01/Tile_Job1.jpg/64306439366434633363316535326230) | MARKETPLACE  
 ---  
 |  |  |   
+**»** [Marketplace](https://web.archive.org/marketplace/)  
 **»** [Savings Center](https://web.archive.org/savings/)  
-**»** [Coupons & Deals](https://web.archive.org/savings/)  
-**»** [Auctions](https://web.archive.org/auctions/)  
-**»** [E-stores](https://web.archive.org/shopping/)  
+**»** [Auctions](http://nj.auctions.abracat.com/)  
+**»** [Shoppers Guides](https://web.archive.org/shoppers/)  
+**»** [E Stores](https://web.archive.org/e-stores/)  
 **»** [Yellow Pages](http://nj.switchboard.com/bin/cgidir.dll?MEM=219)  
   
   
@@ -52,7 +53,6 @@ Again, if you have any concerns regarding your child's or your use of **New Jers
 MUST CLICKS  
 ---  
 |  |  |   
-**»** [NJ Energy Choice](https://web.archive.org/energy_choice/)  
 **»** [Weddings](https://web.archive.org/weddings/)  
 **»** [Travel](https://web.archive.org/travel/)  
 **»** [Newspaper Archives](https://web.archive.org/archive/)  
