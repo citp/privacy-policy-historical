@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esquire.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214082511id_/http%3A//esquire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esquire.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605031407id_/http%3A//www.esquire.com/privacy) for the most accurate reproduction.*
 
 # Esquire:Privacy
 
