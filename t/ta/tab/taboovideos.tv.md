@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taboovideos.tv privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605162114id_/http%3A//www.taboovideos.tv/legal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taboovideos.tv privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204013100id_/http%3A//taboovideos.tv/legal.html) for the most accurate reproduction.*
 
 # 
 
