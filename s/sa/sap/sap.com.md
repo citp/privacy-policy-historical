@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sap.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621120945id_/http%3A//sap.com/company/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sap.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205044508id_/http%3A//www.sap.com/company/legal/privacy.asp) for the most accurate reproduction.*
 
 # SAP - SAP Privacy Statement
 
@@ -73,5 +73,5 @@ Germany
 
 Or e-mail: [webmaster@sap.com](mailto:webmaster@sap.com)
 
-**Want to learn more?**  Contact the [SAP sales office](https://web.archive.org/contactsap/directory/) nearest you.  
+**Want to learn more?**  [Contact SAP](https://web.archive.org/contactsap/) for more information.  
  
