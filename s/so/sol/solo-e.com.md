@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solo-e.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206193716id_/http%3A//www.solo-e.com/mainfiles/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solo-e.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404053255id_/http%3A//www.solo-e.com/mainfiles/privacy.shtml) for the most accurate reproduction.*
 
 # Solo-E.com - Privacy Policy
 
@@ -22,7 +22,7 @@ Privacy Policy
 
 **8.** How users can correct any inaccuracies in the information.
 
-If users have questions or concerns regarding this privacy policy, they should first contact customer service: [www.solo-e.com/feedback](https://web.archive.org/web/20041206193716id_/http%3A//www.solo-e.com/mainfiles/feedback.shtml).
+If users have questions or concerns regarding this privacy policy, they should first contact customer service: [www.solo-e.com/feedback](https://web.archive.org/web/20050404053255id_/http%3A//www.solo-e.com/mainfiles/feedback.shtml).
 
   
   
@@ -95,7 +95,7 @@ In submitting messages, members grant Solo-E.com a royalty-free, non-exclusive r
 
 
   
-Members are solely responsible for maintaining the privacy of their personal information and password. Members will be responsible for all uses of their account and should ensure that unauthorized use is avoided by all reasonable means. In the event of unauthorized use, a member should contact Solo-E.com immediately at [www.solo-e.com/feedback](https://web.archive.org/web/20041206193716id_/http%3A//www.solo-e.com/mainfiles/feedback.shtml) [security@solo-e.com](mailto:security@solo-e.com).
+Members are solely responsible for maintaining the privacy of their personal information and password. Members will be responsible for all uses of their account and should ensure that unauthorized use is avoided by all reasonable means. In the event of unauthorized use, a member should contact Solo-E.com immediately at [www.solo-e.com/feedback](https://web.archive.org/web/20050404053255id_/http%3A//www.solo-e.com/mainfiles/feedback.shtml) [security@solo-e.com](mailto:security@solo-e.com).
 
   
 This Web site takes every precaution to protect our users' information. When users submit sensitive information via the Web site, their information is protected both online and offline.
