@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the computeruser.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604131746id_/http%3A//www.computeruser.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computeruser.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208064927id_/http%3A//www.computeruser.com/about/privacy.html) for the most accurate reproduction.*
 
 # ComputerUser Privacy Statement
 
@@ -10,29 +10,28 @@
 
   
   
-  |  Search these directories for your best solution:  
-Click here for [ComputerTraining.](https://web.archive.org/clickthru/click.php?ct=20/)
+  |  Search these directories for your best solution:Click here for [ComputerTraining.](https://web.archive.org/clickthru/click.php?ct=20/)
 
 [ISP Reviews - Internet Access - Dialup](http://www.findanyisp.com/)
 
-[isp directory - internet service providers](http://www.isprank.com/)
-
-[web hosting directory - search hosting reviews](http://www.webhostingrank.com/)  
+[isp directory - internet service providers](http://www.isprank.com/)  
   
-  |  [Click here for self-paced ](http://www.careeracademy.com/)[Computer Training programs](http://www.careeracademy.com/)  
+  |  [Click here for self-paced Computer Training programs](http://www.careeracademy.com/)  
   |  Click here for your local [Internet Service Provider](http://www.cpu-net.com/)  
-  |  [Click for A+ Certification, Cisco Training, MCSE Certification, and MOUS exam info](http://www.trainingplanet.com/)  
-  |  [Click here for Online Computer and Technology Degrees](http://www.worldwidelearn.com/)  
-  |  [Host Department, leader in web hosting and reseller hosting](http://www.hostdepartment.com/)  
-  |  [Computer Training & Certification A+, MCSE, Microsoft Office](http://www.netwind.com/)  
-  |  [Click here for internet access](http://www.monster-isp.com/)  
-  |  [ Click here for Ethical Hacking Course](http://www.infosecinstitute.com/courses/ethical_hacking_training.html)  
-  |  [ Click here Professional, Trade, & Vocational Colleges & Training Programs](http://www.careerschoolguide.com/)  
-  |  [ Click here for web hosting services](http://www.hosting4less.com/)  
+  | [Click for A+ Certification, Cisco Training, MCSE Certification, and MOUS exam info](http://www.trainingplanet.com/)  
+  | [Click here for Online Computer and Technology Degrees](http://www.worldwidelearn.com/)  
+  | [Host Department, leader in web hosting and reseller hosting](http://www.hostdepartment.com/)  
+  | [Computer Training & Certification A+, MCSE, Microsoft Office](http://www.netwind.com/)  
+  | [cheap isp - best isp - isp providers](http://www.monster-isp.com/)  
+  | [ Ethical Hacking Course, Information Security Training and Computer Forensics Training](http://www.infosecinstitute.com/courses/ethical_hacking_training.html)  
+  | [ Click here Professional, Trade, & Vocational Colleges & Training Programs](http://www.careerschoolguide.com/)  
+  | [Click here for web hosting services](http://www.hosting4less.com/)  
+  | [Click Here for Dial-Up Internet Access](http://www.dialup4less.com/)  
+  | [ Career Training & Technical Degrees](http://www.careertrainingdirectory.com/)  
   
 Please reload this page to view the headlines
 
-|  |  ComputerUser  
+|  | ComputerUser  
 Privacy Policy Statement
 
 **Frequently Asked Questions**
