@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the coherent.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602211234id_/http%3A//www.coherent.com/index.cfm%3Ffuseaction%3Dinterfaces.page%26PageID%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coherent.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209190238id_/http%3A//www.coherent.com/Home/index.cfm%3Ffuseaction%3Dforms.page%26PageID%3D4) for the most accurate reproduction.*
 
-# Coherent Inc.
+# Coherent Inc. : Coherent Privacy Statement
+
+Coherent Privacy Statement
 
 **Coherent, Inc. Privacy Statement**
 
