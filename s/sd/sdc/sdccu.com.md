@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sdccu.com privacy policy that was archived on 2003-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030811013616id_/http%3A//www.sdccu.com/pages/privacypolicy_4.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sdccu.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610040409id_/http%3A//www.sdccu.com/pages/privacypolicy_4.asp) for the most accurate reproduction.*
 
 # San Diego County Credit Union-Privacy Policy
 
@@ -87,7 +87,7 @@ If you terminate your membership with SDCCU, we will not share information we ha
 **What choices are available to you regarding collection, use and distribution of your personally identifiable information**  
   
   
-Occasionally, we may also use personally identifiable information that we collect to notify you about important changes to our Site, new services, and special offers we think you will find valuable. The lists used to send you product and service offers are developed and managed under our traditional corporate standards designed to safeguard the security and privacy of our members' personal information. If you desire not to receive these offers, please write to us at, San Diego County Credit Union, 9985 Pacific Heights Blvd. San Diego, California 92121. Or you may phone us at 1-877-SDCCU-4U (732-2848).  
+Occasionally, we may also use personally identifiable information that we collect to notify you about important changes to our Site, new services, and special offers we think you will find valuable. The lists used to send you product and service offers are developed and managed under our traditional corporate standards designed to safeguard the security and privacy of our members' personal information. If you desire not to receive these offers, please write to us at, San Diego County Credit Union, 6545 Sequence Drive, San Diego, California 92121. Or you may phone us at 1-877-SDCCU-4U (732-2848).  
   
   
 **The kind of security procedures that are in place to protect the loss, misuse or alteration of your personally identifiable information under San Diego County Credit Union control**  
@@ -116,7 +116,7 @@ Our corporate values, ethical standards, policies and practices are committed to
 **How you can correct any inaccuracies in your personally identifiable information**  
   
   
-If your personally identifiable information changes (such as your zip code), we will endeavor to provide a way to correct or update your personal data provided to us. These actions can usually be done in the Account Management section of Internet Branch. Alternatively, you can write to us at, San Diego County Credit Union, 9985 Pacific Heights Blvd. San Diego, California 92121. Or you may phone us at 1-877-SDCCU-4U (732-2848).  
+If your personally identifiable information changes (such as your zip code), we will endeavor to provide a way to correct or update your personal data provided to us. These actions can usually be done in the Account Management section of Internet Branch. Alternatively, you can write to us at, San Diego County Credit Union, 6545 Sequence Drive, San Diego, California 92121. Or you may phone us at 1-877-SDCCU-4U (732-2848).  
   
   
 **What Are cookies**  
@@ -154,7 +154,7 @@ If we decide to change this Policy, we will post those changes on our Homepage s
   
 Our Site is not intended for use by children. We do not knowingly market to, nor solicit data from, children.
 
-[Click here](https://web.archive.org/web/20030811013616id_/http%3A//www.sdccu.com/pages/sdccuLegal_5.asp) for further information on terms governing use of this Site.   
+[Click here](https://web.archive.org/web/20040610040409id_/http%3A//www.sdccu.com/pages/sdccuLegal_5.asp) for further information on terms governing use of this Site.   
   
   
   
@@ -164,6 +164,6 @@ Our Site is not intended for use by children. We do not knowingly market to, nor
 * * *  
   
 For further information on terms governing use of this Site,  
-see [San Diego County Credit Union's Terms of Use Agreement](https://web.archive.org/web/20030811013616id_/http%3A//www.sdccu.com/pages/sdccuLegal_5.asp)  
+see [San Diego County Credit Union's Terms of Use Agreement](https://web.archive.org/web/20040610040409id_/http%3A//www.sdccu.com/pages/sdccuLegal_5.asp)  
   |  |   
 In compliance with Federal Banking regulation D, telephone and automated savings withdrawals will be limited per month to comply with the regulation. During any calendar month, you may not make more than six withdrawals or transfers to another SDCCU account of yours or to a third party by means of a preauthorized or automatic transfer or telephonic order or instruction. If you use automated methods to make transfers or withdrawals from savings, fewer than six telephone or Home Banking transfers or withdrawals are allowed. Automated methods include Overdraft Protection Transfers to checking accounts and Automatic withdrawals made through the Automated Clearing House (ACH) or preauthorized draft withdrawals (i.e., bill payment, insurance premiums). 
