@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the web-source.net privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004083728id_/http%3A//www.web-source.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web-source.net privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603193616id_/http%3A//www.web-source.net/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement For Web-Source
 
   
-**Privacy Statement for Web Source**
+**Privacy Statement for Web-Source.net**
 
-Web Source has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Web-Source.net.
+Web-Source.net has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Web-Source.net.
 
-Web Source respects the privacy of its users and promises not to disclose personal and/or business information to third parties without Your permission. We will not sell Your name, email address, phone number, or any other personal information to anyone else. We consider this information to be private, and it will remain as such.
+Web-Source.net respects the privacy of its users and promises not to disclose personal and/or business information to third parties without Your permission. We will not sell your name, email address, phone number, or any other personal information to anyone else. We consider this information to be private, and it will remain as such.
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site.
 
-This site contains links to other sites. **Web Source** is not responsible for the privacy practices or the content of such Web sites.
+This site contains links to other sites. **Web-Source.net** is not responsible for the privacy practices or the content of such Web sites.
 
 Our site uses subscription forms which collects email addresses. We use these email addresses to send subscribers our publications and to keep them updated on issues that affect them. Subscribers may choose to unsubscribe from any mailings at any time. See the choice/opt-out section below.
 
@@ -33,7 +33,7 @@ This site gives users the following options for removing their information from 
 
 Each mailing contains information pertaining to your subscription. This includes an email and/or web address to unsubscribe from the publication and/or mailings.
 
-Visit Web Source to manage your subscriptions. There are subscription management forms located at the bottom of most pages. (See the bottom of this page)
+Visit Web-Source.net to manage your subscriptions. There are subscription management forms located at the bottom of most pages. (See the bottom of this page)
 
 You can send email to [service@web-source.net](mailto:service@web-source.net)
 
@@ -45,11 +45,11 @@ email [service@web-source.net](mailto:service@web-source.net)
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact:
 
 Shelley Lowery   
 Brajusta Publishing   
 P.O. Box 156   
 Lewis Center, OH 43035  
-(740)548-9594  
+740.548.9594  
 [info@web-source.net](mailto:info@web-source.net)
