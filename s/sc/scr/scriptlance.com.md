@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scriptlance.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204153927id_/http%3A//www.scriptlance.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scriptlance.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404232654id_/http%3A//www.scriptlance.com/privacy.shtml) for the most accurate reproduction.*
 
-# ScriptLance.com - freelance programming, web designers, job listings and more...
+# ScriptLance.com - custom freelance programming, web designers, job listings and more...
 
 ##  Privacy Statement for ScriptLance.com 
 
@@ -20,7 +20,7 @@ This site contains links to other sites. **ScriptLance.com** is not responsible 
 
 ####  Special Relationships 
 
-[SmartCGIs.com](http://www.smartcgis.com/) is a partner of ScriptLance.com, but no account information is shared. 
+[SmarterScripts.com](http://www.smarterscripts.com/) is a partner of ScriptLance.com, but no account information is shared. 
 
 ####  Public Forums 
 
@@ -32,7 +32,4 @@ This site has security measures in place to protect the loss, misuse, and altera
 
 ##  Contacting the Web Site 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
-
-
-[ webmaster@scriptlance.com ](mailto:webmaster@scriptlance.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://www.r3n3.com/contact.html). 
