@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the witchvox.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602172749id_/http%3A//www.witchvox.net/wotw/wotw_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the witchvox.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610024615id_/http%3A//www.witchvox.com/wotw/wotw_privacy.html) for the most accurate reproduction.*
 
 # WOTW - The Witches' Voice Privacy & Security Policies
 
-  
 **The Witches' Voice Privacy & Security Policies...**
 
 The Witches' Voice encourages all Web site operators to post clear and easy-to-find privacy notices. We also encourage our site visitors to seek out privacy notices (and read them) before divulging personally identifiable information about themselves. For more information on how you can create your own privacy notice, or what you should look for when reading one, please see the Witches' Voice article about online privacy at [ Protecting Online Privacy](http://www.witchvox.com/fritz/privacynotes.html)
 
-The Witches' Voice is dedicated to protecting your privacy. Outlined below is everything that may be collected by the Witches' Voice Web sites ([www.witchvox.com](http://www.witchvox.com/), and [www.witchvox.net](http://www.witchvox.net/)), how that information is used, and the choices you have in controlling your information. Should you have any questions or concerns about these policies, please contact us at: [privacy@witchvox.com](mailto:privacy@witchvox.com).
+The Witches' Voice is dedicated to protecting your privacy. Outlined below is everything that may be collected by the Witches' Voice Web site ([www.witchvox.com](http://www.witchvox.com/)), how that information is used, and the choices you have in controlling your information. Should you have any questions or concerns about these policies, please [contact us.](http://www.witchvox.com/twv/contactus.html).
 
 **What We Collect:**  
 The site logs for The Witches' Voice generate certain kinds of non-identifying usage data - such as the number of hits, site referrals, entry and exit pages, browser types, originating hosts, I.P. numbers, and top search strings. These statistics are only used in aggregate, and are never linked or associated with any kind of personally identifiable information.
@@ -44,9 +43,9 @@ The Witches Voice has over 3,500 links leading to other Web sites. These sites a
 Protecting the online privacy of the very young is especially important. For that reason, the Witches' Voice voluntarily complies with the _Children's Online Privacy Protection Act of 1998_ and the US Federal Trade Commission's _Children's Online Privacy Protection Rule_. (16 C.F.R. Part 312). We neither collect nor maintain information at our site from those actually known to be under the age of 13, nor is any part of our site designed to serve those under the age of 13.
 
 **How To Review, Update, Or Delete:**  
-Information submitted through the Witches' Voice submission forms can be later updated or deleted using the submission form index ([www.witchvox.net/xforms.html](http://www.witchvox.net/xforms.html)). To later review such information, simply view your post once it goes online (usually within 24 hours). If you delete a listing, you will also be removed from the verification email list (the occasional emails we send out to verify the accuracy of email and Web site links).
+Information submitted through the Witches' Voice submission forms can be later updated or deleted using the submission form index ([www.witchvox.com/xforms.html](http://www.witchvox.com/xforms.html)). To later review such information, simply view your post once it goes online (usually within 24 hours). If you delete a listing, you will also be removed from the verification email list (the occasional emails we send out to verify the accuracy of email and Web site links).
 
-All other personally identifiable information that may be maintained in a retrievable form can be later reviewed, updated, or deleted by writing to: [workerbeez@witchvox.net](mailto:workerbeez@witchvox.com). For security reasons, the Witches' Voice will only act on such requests when they are received from the original submitter's email account.
+All other personally identifiable information that may be maintained in a retrievable form can be later reviewed, updated, or deleted by writing to: [workerbeeez@witchvox.com](mailto:workerbeeez@witchvox.com). For security reasons, the Witches' Voice will only act on such requests when they are received from the original submitter's email account.
 
 **How This Information Is Secured:**  
 The Witches' Voice employs stringent electronic, physical, and managerial procedures to maintain the security and integrity of information. Access to online information is limited to authorized individuals, adequate training has been provided, and all Witches' Voice personnel are bound to uphold these privacy and security policies.
