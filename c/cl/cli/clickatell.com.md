@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickatell.com privacy policy that was archived on 2002-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020608065326id_/http%3A//www.clickatell.com/brochure/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickatell.com privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216082402id_/http%3A//www.clickatell.com/brochure/privacy.php) for the most accurate reproduction.*
 
 # Clickatell - Privacy Policy - send sms messages from the web - bulk SMS, web SMS and SMS marketing
 
