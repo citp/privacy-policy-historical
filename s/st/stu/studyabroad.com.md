@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studyabroad.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603094842id_/http%3A//www.studyabroad.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyabroad.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206194740id_/http%3A//www.studyabroad.com/privacy.html) for the most accurate reproduction.*
 
 # Studyabroad.com Privacy Policy
 
@@ -82,7 +82,7 @@ Our web sites also contain links to other sites. The privacy policies of linked 
 If you would like to contact us for information on any of our services, information on our privacy policy, or for any reason relating to our site, we can be reached at the following:
 
 Contact Name: Educational Directories Unlimited, Inc.  
-Address: 1450 Edgmont Avenue, Suite 140, Chester, PA 19013 USA  
+Address: 1350 Edgmont Avenue, Suite 1100, Chester, PA 19013 USA  
 PH: 1-610-499-9200  
 FAX: 1-610-499-9205  
 E-mail: [privacy@studentprospector.com](mailto:privacy@studentprospector.com)  
