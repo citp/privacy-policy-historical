@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apeainthepod.com privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216101525id_/http%3A//apeainthepod.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apeainthepod.com privacy policy that was archived on 2003-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030626190212id_/http%3A//apeainthepod.com/Privacy.asp) for the most accurate reproduction.*
 
 # A Pea in the Pod - Maternity Clothing and Accessories Redefined!
 
