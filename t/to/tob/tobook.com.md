@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tobook.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004002100id_/http%3A//www.tobook.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tobook.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402144010id_/http%3A//www.tobook.com/privacy.asp) for the most accurate reproduction.*
 
 # tobook.com Hotel Guide -
 
 Privacy policy
 
-Thank you for visiting the tobook.com Hotel Guide. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices, the way your information is collected and used at this site. 
+Thank you for visiting the toBook Hotel Guide. Your privacy is very important to us. The following notice explains our online information practices and how your information is collected and used at this site. 
 
 Our privacy policy is very simple:  
 **We do not sell, rent or share your personal information with anyone.**
@@ -20,10 +20,10 @@ If you register as a member of the website, personal information such as your na
 
   
 **How is the information used**  
-Personal information is not shared by anyone outside the tobook.com Hotel Guide organisation. 
+Personal information is not shared by anyone outside the toBook Hotel Guide organisation. 
 
 We share aggregate statistics about our customers, traffic patterns, and reservations with our suppliers and partners, but these statistics do not include any personally identifying information. 
 
 When you make a reservation on our site, your personal and credit card information are forwarded to the property in which you have reserved. The property will use this information to process your reservation. A representative of that property or one of our Customer Support representatives may contact you if there is a question about your reservation. 
 
-If you have any questions about this privacy statement or would like more information about our company, please [contact us](https://web.archive.org/web/20021004002100id_/http%3A//www.tobook.com/about.asp#contactus). 
+If you have any questions about this privacy statement or would like more information about our company, please [contact us](https://web.archive.org/web/20030402144010id_/http%3A//www.tobook.com/about.asp#contactus). 
