@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the englishdaily626.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607044830id_/http%3A//englishdaily626.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the englishdaily626.com privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212214835id_/http%3A//www.englishdaily626.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -57,3 +57,5 @@ Notification of Changes**
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
 If, however, we are going to use users personally identifiable information in a manner different from that stated at the time of collection we will notify users via email.
+
+ 
