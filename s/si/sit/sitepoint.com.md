@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitepoint.com privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613023829id_/http%3A//sitepoint.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitepoint.com privacy policy that was archived on 2001-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011024205105id_/http%3A//sitepoint.com/privacy.php) for the most accurate reproduction.*
 
 # SitePoint : Privacy Policy
 
@@ -13,6 +13,19 @@ Tips tricks and expert advice on how best to promote your Website.
 A comprehensive directory of Tools and Services for the busy Webmaster.  
  [ **Forums**](http://www.sitepointforums.com/)  
 Need a prompt response to a Web related question? Ask our helpful community!  
+  
+  
+  
+  
+| **  Get Inspired ! ** |   
+---|---|---  
+  
+**Cure Your Designers Block Instantly!  
+\------------- **
+
+Peruse the enormous gallery of top-notch Web site designs and free your mind!
+
+[CoolHomePages](http://www.coolhomepages.com/)  
   
   
 
