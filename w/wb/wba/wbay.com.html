@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the wbay.com privacy policy that was archived on 2001-10-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011031075424id_/http%3A//wbay.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wbay.com privacy policy that was archived on 2002-02-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020201225257id_/http%3A//wbay.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.-->
 
 <html><head>
 <title>This Station’s Privacy Policy</title>
-</head><body marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" rightmargin="0" link="#0033CC" alink="#990000" vlink="#CC0001" bgcolor="#000066" background="/Images/static_4_5/gfx/bg_right.gif"><wn version="S5.1" base="IIS17">
+</head><body marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" rightmargin="0" link="#0033CC" alink="#990000" vlink="#CC0001" bgcolor="#000066" background="/Images/static_4_5/gfx/bg_right.gif"><wn version="S5.1" base="IIS19">
 <script type="text/javascript" language="JavaScript1.1" src="/global/include/VideoFunctions.js"></script>
 <script language="JavaScript1.1">
 <!--
@@ -185,21 +185,33 @@
 
 
 			function mOvr(src,clrOver,aclrOver) {
-				src.style.cursor = 'hand'; src.style.backgroundColor = clrOver; src.children.tags('A')[0].style.color = aclrOver; src.children.tags('A')[0].style.textDecoration = 'underline';
+				src.style.cursor = 'hand'; 
+				src.style.backgroundColor = clrOver; 
+				src.children.tags('A')[0].style.color = aclrOver; 
+				src.children.tags('A')[0].style.textDecoration = 'underline';
 			}
+						
 			function mOut(src,clrIn,aclrIn) {
-				src.style.cursor = 'default'; src.style.backgroundColor = clrIn; src.children.tags('A')[0].style.color = aclrIn; src.children.tags('A')[0].style.textDecoration = 'none';
+				src.style.cursor = 'default'; 
+				src.style.backgroundColor = clrIn; 
+				src.children.tags('A')[0].style.color = aclrIn; 
+				src.children.tags('A')[0].style.textDecoration = 'none';
 			}
+			
 			function mOvrN(src,aclrOver) {
 				if (ns6){
 					src.style.color = aclrOver;}
 			}
+			
 			function mOutN(src,aclrIn) {
 				if (ns6){
 					src.style.color = aclrIn;}
 			}
 
-		
+
+
+	window.name = "CONTENT";
+	window.focus();
 
 
 	function goTo () {
@@ -208,6 +220,7 @@
 	}
 
 
+	
 	var URLPOS = 0, NAMEPOS = 1, PROPERTYPOS = 2;
 
 	function OpenWin(props)
@@ -228,13 +241,21 @@
 				lsProperties[PROPERTYPOS] = "";
 
 			lsURLPrefix = ""
-			if ( lsProperties[URLPOS].substring( 0, 3 ) != "http" )
-			{
-				if (lsProperties[URLPOS].substring( 0, 1 ) != "/" )
-					lsURLPrefix = "http://";
-			}
+			
+			if ( lsProperties[URLPOS].substring( 0, 4 ) != "http" )
 
-			myWin = window.open( lsURLPrefix + lsProperties[URLPOS], lsProperties[NAMEPOS], lsProperties[PROPERTYPOS] );
+			{
+
+				if (lsProperties[URLPOS].substring( 0, 1 ) != "/" )
+
+					lsURLPrefix = "http://";
+
+			
+			}				
+
+			myWin = window.open( lsURLPrefix + lsProperties[URLPOS], lsProperties[NAMEPOS], lsProperties[PROPERTYPOS] );	
+
+					
 		}
 	}
 
@@ -268,6 +289,8 @@
 			return false;
 		}
 	}
+
+
 
 
 //-->
@@ -384,9 +407,10 @@ A.ctdoff	{
 	color:#000000;
 	font-family:Arial;
 	font-size:12px;
-	font-weight:700;
+	font-weight:700; 
 	text-decoration:none;
 }
+
 
 //-->
 </style>
@@ -400,7 +424,7 @@ A.ctdoff	{
 <input type="IMAGE" src="/images/static_4_5/btn/btn_go.gif" width="35" height="20" border="0" align="RIGHT"></td>
 </tr>
 </tbody></table>
-<table border="0" bordercolor="#FF0000" cellspacing="0" cellpadding="0" height="100%" width="760">
+<table border="0" bordercolor="#FF0000" cellspacing="0" cellpadding="0" width="760">
 <tbody><tr valign="TOP">
 <td rowspan="3" width="130" bgcolor="#D7E7FF" background="/Images/static_4_5/gfx/bg_nav.gif">
 <table border="0" width="100%" cellpadding="0" cellspacing="0" background="/images/static_4_5/gfx/pxl_trans.gif">
@@ -432,7 +456,7 @@ A.ctdoff	{
 </tr>
 </tbody></table>
 </td>
-<td valign="TOP" width="630">
+<td valign="TOP" width="630" bgcolor="#D7E7FF">
 <table border="0" bordercolor="#ffcc00" width="100%" cellpadding="0" cellspacing="0">
 <tbody><tr>
 <td width="100%" bgcolor="#000000">
@@ -441,20 +465,35 @@ A.ctdoff	{
 <td class="ctdoff" width="100%" align="right"><img src="/global/images/nrev_title.gif" height="15" border="0"></td>
 <td class="ctdoff" onmouseover="mOvr(this,'#13217A','#FFFFFF');" onmouseout="mOut(this,'#FFCC00','#000000');">
 <!-- --><a class="ctdoff" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#000000');" href="/global/category.asp?c=17154">
-Employment&nbsp;&gt;</a><!-- --></td>
+<nobr>
+Employment&nbsp;&gt;</nobr></a><!-- --></td>
 <td class="ctdoff" onmouseover="mOvr(this,'#13217A','#FFFFFF');" onmouseout="mOut(this,'#FFCC00','#000000');">
 <!-- --><a class="ctdoff" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#000000');" href="/global/category.asp?c=17153">
-Legal&nbsp;&gt;</a><!-- --></td>
+<nobr>
+Legal&nbsp;&gt;</nobr></a><!-- --></td>
 <td class="ctdoff" onmouseover="mOvr(this,'#13217A','#FFFFFF');" onmouseout="mOut(this,'#FFCC00','#000000');">
 <!-- --><a class="ctdoff" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#000000');" href="/global/category.asp?c=17152">
-Money&nbsp;&gt;</a><!-- --></td>
+<nobr>
+Money&nbsp;&gt;</nobr></a><!-- --></td>
+<td class="ctdoff" onmouseover="mOvr(this,'#13217A','#FFFFFF');" onmouseout="mOut(this,'#FFCC00','#000000');">
+<!-- --><a class="ctdoff" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#000000');" href="/global/category.asp?c=17155">
+<nobr>
+Valentine's&nbsp;&gt;</nobr></a><!-- --></td>
+<td class="ctdoff" onmouseover="mOvr(this,'#13217A','#FFFFFF');" onmouseout="mOut(this,'#FFCC00','#000000');">
+<!-- --><a class="ctdoff" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#000000');" href="/global/category.asp?c=23185">
+<nobr>
+Tax&nbsp;Help&nbsp;&gt;</nobr></a><!-- --></td>
+<td class="ctdoff" onmouseover="mOvr(this,'#13217A','#FFFFFF');" onmouseout="mOut(this,'#FFCC00','#000000');">
+<!-- --><a class="ctdoff" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#000000');" href="/global/category.asp?c=23385">
+<nobr>
+Yellow&nbsp;Pages&nbsp;&gt;</nobr></a><!-- --></td>
 </tr></tbody></table></td>
 </tr></tbody></table>
 <table border="0" bordercolor="#ffcc00" width="100%" cellpadding="1" cellspacing="0">
 <tbody><tr>
 <td align="CENTER" colspan="2" bgcolor="#D7E7FF">
 <!-- --><!--Inserted HTML code from MSASv1.0-->
-<a href="/Global/Ads/adredirwn.asp?ciid=288&amp;url=http://www.qksrv.net/click-736950-5029401" target="NewWin"><img src="/global/ads/5838_G.gif" width="468" height="60" border="0" alt="Click here for Ebay"></a><!-- --></td>
+<a href="/Global/Ads/adredirwn.asp?ciid=350&amp;url=http://www.ediets.com/start.cfm%3Fcode=11327" target="NewWin"><img src="/global/ads/6958_G.gif" width="468" height="60" border="0" alt="Click Here for Ediets!"></a><!-- --></td>
 </tr>
 <tr valign="MIDDLE">
 <td width="1" bgcolor="#D7E7FF">
@@ -462,7 +501,7 @@ Money&nbsp;&gt;</a><!-- --></td>
 <td align="LEFT" width="100%" bgcolor="#D7E7FF">
 <table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr>
 <td valign="MIDDLE" width="80%"></td>
-<td valign="BOTTOM" align="RIGHT"><nobr><font style="FONT-SIZE:10px;COLOR:#000000;"><!-- -->October 31, 2001
+<td valign="BOTTOM" align="RIGHT"><nobr><font style="FONT-SIZE:10px;COLOR:#000000;"><!-- -->February 1, 2002
 &nbsp;<!-- -->
 </font></nobr></td></tr></tbody></table>
 </td>
@@ -471,10 +510,10 @@ Money&nbsp;&gt;</a><!-- --></td>
 <td width="1" bgcolor="#D7E7FF">
 <!-- -->&nbsp;<!-- --></td>
 <td width="100%" bgcolor="#D7E7FF">
-<table cellpadding="0" cellspacing="1" border="0">
+<table cellpadding="0" cellspacing="1" border="0" width="100%">
 <tbody><tr>
 <td width="100%" valign="MIDDLE">
-<table cellpadding="0" cellspacing="0" border="0"><tbody><tr>
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr>
 <td><b><font style="FONT-SIZE:12px;COLOR:#111F81;"><!-- --><!-- -->
 </font></b></td>
 </tr></tbody></table>
@@ -574,15 +613,6 @@ Money&nbsp;&gt;</a><!-- --></td>
 <table width="141" border="0" cellpadding="0" cellspacing="1">
 <tbody><tr>
 <td align="CENTER"><!-- --><!--Inserted HTML code from MSASv1.0-->
-<table border="0" height="60" width="120">
-<tbody><tr><td>
-<a href="http://www.redcross.org">
-<img src="http://www.wbay.com/Ads/5352_G.gif" border="0" align="CENTER" alt="American Red Cross disaster relief">
-</a>
-</td></tr></tbody></table><!-- --></td>
-</tr>
-<tr>
-<td align="CENTER"><!-- --><!--Inserted HTML code from MSASv1.0-->
 <table border="0" width="120" height="60"> <tbody><tr><td>
 <a href="http://www.rogansshoes.com">
 <img src="http://www.wbay.com/Ads/2850_G.gif" border="0" align="CENTER" alt="Rogans Shoes, We Have Them All! Visit us online!">
@@ -593,13 +623,13 @@ Money&nbsp;&gt;</a><!-- --></td>
 <table width="141" border="0" cellpadding="0" cellspacing="1">
 <tbody><tr><td></td></tr>
 <tr>
-<td align="CENTER"><a href="/global/category.asp?c=4164"><img width="139" border="0" src="/images/8133_G.gif"></a></td>
+<td align="CENTER"><a href="/global/story.asp?s=20820"><img width="139" border="0" src="/images/8133_G.gif"></a></td>
 </tr>
 </tbody></table>
 <table width="141" border="0" cellpadding="0" cellspacing="5">
 <tbody><tr>
 <td align="CENTER"><!-- --><!--Inserted HTML code from MSASv1.0-->
-<a target="_new" href="http://ad.doubleclick.net/jump/wn.wbay/;class=News;sz=120x60;ord=29687771797179?"><img src="http://ad.doubleclick.net/ad/wn.wbay/;class=News;sz=120x60;ord=29687771797179?" border="0" height="60" width="120"></a><!-- --></td>
+<a href="/Global/Ads/adredirwn.asp?ciid=352&amp;url=http://www.ediets.com/start.cfm%3Fcode=11327" target="_top"><img src="/global/ads/6957_G.gif" width="120" height="60" border="0" alt="Click Here for Ediets!"></a><!-- --></td>
 </tr>
 </tbody></table>
 <img src="/images/static_4_5/gfx/pxl_trans.gif" width="141" height="1" border="0">
@@ -611,7 +641,7 @@ Money&nbsp;&gt;</a><!-- --></td>
 <table border="0" align="CENTER" bordercolor="#FF0000" cellspacing="5" cellpadding="0">
 <tbody><tr><td><a href="http://www.worldnow.com" target="_blank"><img src="/images/static_4_5/gfx/wn_powerby.gif" width="125" height="60" border="0"></a></td>
 <td><font style="FONT-FAMILY:Verdana,Helvetica,Sans-Serif;FONT-SIZE:10px;COLOR:#000000;">
-<!-- -->All content © Copyright 2000, 2001, WorldNow and WBAY.<br>All Rights Reserved.<br>For more information on this site, please read our<br><a href="/global/story.asp?s=18990">Privacy Policy</a> and <a href="/global/story.asp?s=18991">Terms of Service</a>.<!-- -->
+<!-- -->All content © Copyright 2000 - 2002, WorldNow and WBAY.<br>All Rights Reserved.<br>For more information on this site, please read our<br><a href="/global/story.asp?s=18990">Privacy Policy</a> and <a href="/global/story.asp?s=18991">Terms of Service</a>.<!-- -->
 </font></td>
 </tr>
 </tbody></table>
