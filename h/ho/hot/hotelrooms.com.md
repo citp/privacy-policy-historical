@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelrooms.com privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611215427id_/http%3A//www.hotelrooms.com/web/users/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelrooms.com privacy policy that was archived on 2002-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021217062058id_/http%3A//www.hotelrooms.com/web/users/privacy.shtml) for the most accurate reproduction.*
 
 # Hotel Rooms Privacy Policy
 
