@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviesite.co.za privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609233427id_/http%3A//moviesite.co.za/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviesite.co.za privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210033654id_/http%3A//www.moviesite.co.za/privacy.htm) for the most accurate reproduction.*
 
 # The MovieSite - Privacy Policy
 
@@ -6,7 +6,7 @@ We value your privacy.
 
 We hate spam just as much as you do. 
 
-So we do not and will not release your email address or any other personal details to anyone else outside this web site. 
+So we do not and will not release your email address or any other personal details to anyone else outside this web site without your permission. 
 
 Your email address is used only for sending out the regular mailings about updates to this site, if you subscribed. Email addresses supplied when you submit a movie rating are sometimes used to verify that it was indeed you who submitted an opinion. 
 
