@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the covers.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211150716id_/http%3A//covers.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covers.com privacy policy that was archived on 2002-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020405140607id_/http%3A//covers.com/about/privacy.asp) for the most accurate reproduction.*
 
 # online sports betting odds, lines, gambling free picks
 
-[](http://www.covers.com/progs/banman/banman.asp?Task=Click&ZoneID=2&CampaignID=210&AdvertiserID=26&BannerID=378&SiteID=0&RandomNumber=62553)  
+[](http://www.covers.com/progs/banman/banman.asp?Task=Click&ZoneID=2&CampaignID=362&AdvertiserID=42&BannerID=641&SiteID=0&RandomNumber=72766)  
 
 
 |  |  | Covers.com's Privacy Statement  
@@ -11,7 +11,7 @@ We understand and respect the importance of your privacy.
   
 
 
-[](http://www.covers.com/progs/banman/banman.asp?Task=Click&ZoneID=3&CampaignID=213&AdvertiserID=22&BannerID=383&SiteID=0&RandomNumber=84469)  
+[](http://www.covers.com/progs/banman/banman.asp?Task=Click&ZoneID=3&CampaignID=366&AdvertiserID=40&BannerID=654&SiteID=0&RandomNumber=47656)  
 
 
 Your privacy is important to us. At covers.com, we are committed to undertaking reasonable measures to protect the privacy, accuracy and reliability of your personal information and to protect such information from loss, misuse, unauthorized access, disclosure, alteration and destruction. Please read the following description of our policies and practices regarding your personal information. 
