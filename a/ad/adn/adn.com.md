@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adn.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603144557id_/http%3A//adn.com/help/v-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adn.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204044512id_/http%3A//www.adn.com/help/v-privacy) for the most accurate reproduction.*
 
 # Anchorage Daily News | Help and Company Infomation
 
