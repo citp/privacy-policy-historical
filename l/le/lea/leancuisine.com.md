@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leancuisine.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603195910id_/http%3A//www.leancuisine.com/Index/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leancuisine.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206064025id_/http%3A//leancuisine.com/Index/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Lean Cuisine – Healthy Meal Planning, Diet Tips, Light Recipes, Weight Loss Success Stories
 
@@ -49,7 +49,7 @@ Your personally identifiable information is kept secure. Only authorized Nestlé
 
 All emails and newsletters from this site allow you to opt out of further mailings. Many Nestle sites allow you to access (via password) the information you provided at registration to update it, change opt-ins, or delete it. If this feature is not available at a site, you may call us at 1-800-225-1180 or email us through our 
 
-[Contact Us](https://web.archive.org/web/20030603195910id_/http%3A//www.leancuisine.com/Index/ContactUs.aspx) page to update information, change opt-ins, or request to have your information deleted from our mailing list. You may also use this contact information if you have any questions about this policy or our practices. General  
+[Contact Us](https://web.archive.org/web/20031206064025id_/http%3A//leancuisine.com/Index/ContactUs.aspx) page to update information, change opt-ins, or request to have your information deleted from our mailing list. You may also use this contact information if you have any questions about this policy or our practices. General  
 Third party Internet sites accessible through hyperlinks from this site have their own privacy practices, and Nestlé has no responsibility or liability for these independent practices. Please review their privacy practices for yourself. 
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted. 
