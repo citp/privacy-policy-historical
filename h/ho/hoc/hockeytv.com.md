@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hockeytv.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630144358id_/http%3A//privacy.yahoo.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hockeytv.com privacy policy that was archived on 2004-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041231073441id_/http%3A//privacy.yahoo.com) for the most accurate reproduction.*
 
 # Yahoo! Privacy
 
@@ -8,20 +8,21 @@
 [Find them here](https://web.archive.org/privacy/us/all.html).   
 **Assistance**  
 · | [Printer-friendly format](https://web.archive.org/privacy/us/print.html)  
-· | [Help](http://help.yahoo.com/help/us/privacy/)  
+· | [Privacy Policy Help](http://help.yahoo.com/help/us/privacy/)  
 · | [Contact us](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback)  
 · | [Edit Account Information](http://edit.yahoo.com/config/eval_profile?.src=&.done=privacy.yahoo.com/privacy/us/)  
 · | [Marketing Preferences](http://subscribe.yahoo.com/showaccount)  
+· | [Marketing Communication Help](http://help.yahoo.com/help/us/ymc/index.html)  
 **Special Topics**  
 · | [Security at Yahoo!](https://web.archive.org/privacy/us/security/details.html)  
 · | [Cookies](https://web.archive.org/privacy/us/cookies/details.html)  
 · | [Third Party Ad Servers](https://web.archive.org/privacy/us/adservers/details.html)  
 · | [more...](https://web.archive.org/privacy/us/all.html)  
 **Privacy Links**  
-· | [Full Coverage: Privacy](http://fullcoverage.yahoo.com/Full_Coverage/Tech/Internet_Privacy)  
-· | [Yahoo! Category: Privacy](http://dir.yahoo.com/Computers_and_Internet/Internet/Issues/Privacy/)  
-· | [Yahoo! Search: Privacy](http://search.yahoo.com/bin/search?p=privacy)  
-· | [Yahoo! Category: Security](http://dir.yahoo.com/Computers_and_Internet/Security_and_Encryption/)  
+· | [Y! News: Privacy](http://fullcoverage.yahoo.com/Full_Coverage/Tech/Internet_Privacy)  
+· | [Y! Directory: Privacy Category](http://dir.yahoo.com/Computers_and_Internet/Internet/Issues/Privacy/)  
+· | [Search the Web: Privacy](http://search.yahoo.com/bin/search?p=privacy)  
+· | [Y! Directory: Security Category](http://dir.yahoo.com/Computers_and_Internet/Security_and_Encryption/)  
 · | [Federal Trade Commission](http://www.ftc.gov/)  
   
 * * *  
@@ -68,13 +69,14 @@
   * Yahoo! displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, women ages 18-24 from a particular geographic area. 
     * Yahoo! does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
     * Yahoo! advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies). 
+  * Yahoo! works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please read our detailed [reference links](http://privacy.yahoo.com/privacy/us/all.html). 
 
 **Cookies**  
 
 
   * Yahoo! may set and access Yahoo! [ cookies](https://web.archive.org/privacy/us/cookies/details.html) on your computer. 
   * Yahoo! lets [ other companies](https://web.archive.org/privacy/us/adservers/details.html) that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Yahoo!'s cookies. 
-  * Yahoo! uses [ web beacons](https://web.archive.org/privacy/us/pixels/details.html) to access Yahoo! cookies inside and outside our network of web sites and in connection with Yahoo! products and services. 
+  * Yahoo! uses [ web beacons](https://web.archive.org/privacy/us/beacons/details.html) to access Yahoo! cookies inside and outside our network of web sites and in connection with Yahoo! products and services. 
 
 **Your Ability to Edit and Delete Your Account Information and Preferences**
 
@@ -107,7 +109,7 @@
 **Questions and Suggestions**  
 
 
-  * [Yahoo! is TRUSTe-certified](https://www.truste.org/validate/361). This certification applies to all English-language sites under the Yahoo.com domain. If you feel that your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](http://www.truste.org/users/users_watchdog.html), an independent privacy organization. TRUSTe serves as a liaison with Yahoo! to resolve your concern. 
+  * [Yahoo! is TRUSTe-certified](https://www.truste.org/ivalidate.php?url=www.yahoo.com). This certification applies to all English-language sites under the Yahoo.com domain. If you feel that your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php), an independent privacy organization. TRUSTe serves as a liaison with Yahoo! to resolve your concern. 
   * If you have questions or suggestions, please complete a [feedback form](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback?radio30=radio305) or you can contact us at: 
 
 Yahoo! Inc.  
@@ -117,5 +119,7 @@ Sunnyvale, CA 94089
 (408) 349-5070  
 
 
+  
+Effective Date: March 28, 2002
 
 
