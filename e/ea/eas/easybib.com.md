@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easybib.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409020650id_/http%3A//www.easybib.com/main.cfm%3FID%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easybib.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201162028id_/http%3A//www.easybib.com/main.cfm%3FID%3D1) for the most accurate reproduction.*
 
 # EasyBib.com - Easy Bibliography Formatting, Alphabetizing, and Storing.
 
