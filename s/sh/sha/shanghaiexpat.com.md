@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the shanghaiexpat.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204201507id_/http%3A//www.xianzai.com.cn/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shanghaiexpat.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603235950id_/http%3A//www.xianzai.com.cn/privacy.htm) for the most accurate reproduction.*
 
 # Xianzai.com Delivers China Email Newsletters, Email Marketing Tools, Opt-in Announcement Emails, & Email Technology
 
 Xianzai respects your right to privacy. Your name, email address, postal code and any other identifying information that you give us will not be revealed to any of the clients who rent our lists. Should we ever change our policy, you will be given the chance to remove yourself from our lists.
 
-We hate spamming, and we know that you do, too. When you sign up for our Xianzai.com mailing lists, you will receive commercial email messages only about those topical categories that you have selected. Before any mailing goes out, our staff members personally screen each marketer's message to make sure that it's relevant to the list's topic. for more information about our anti-spamming policy, go [here](https://web.archive.org/web/20031204201507id_/http%3A//www.xianzai.com.cn/antispam.htm).
+We hate spamming, and we know that you do, too. When you sign up for our Xianzai.com mailing lists, you will receive commercial email messages only about those topical categories that you have selected. Before any mailing goes out, our staff members personally screen each marketer's message to make sure that it's relevant to the list's topic. for more information about our anti-spamming policy, go [here](https://web.archive.org/web/20040603235950id_/http%3A//www.xianzai.com.cn/antispam.htm).
 
 We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, discussion lists and opt-in announcement lists owned and operated by Xianzai Limited. The following discloses our Privacy Policy. 
 
