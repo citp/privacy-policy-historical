@@ -1,41 +1,48 @@
-> *The following text is extracted and transformed from the 4inkjets.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610214750id_/http%3A//4inkjets.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4inkjets.com privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211183255id_/http%3A//4inkjets.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
   
   
- [Photo Paper](http://4inkjets.com/inkjetpaper.html)   
- [Apollo](http://4inkjets.com/apollo.html)   
- [Apple](http://4inkjets.com/apple.html)   
- [Brother](http://4inkjets.com/brother.html)   
- [Canon](http://4inkjets.com/canon1.html)   
- [Compaq](http://4inkjets.com/compaq.html)   
- [Dell](http://4inkjets.com/dell.html)   
- [Epson](http://4inkjets.com/epson.html)   
- [Lexmark](http://4inkjets.com/lexmarkibm.html)   
- [Hewlett Packard](http://4inkjets.com/hewlettpackard1.html)   
- [IBM](http://4inkjets.com/ibm.html)   
- [NEC](http://4inkjets.com/nec.html)   
- [Panasonic](http://4inkjets.com/panasonic.html)   
- [Pitney Bowes](http://4inkjets.com/pitneybowes.html)   
- [Samsung](http://4inkjets.com/samlasprinsu.html)   
- [Sharp](http://4inkjets.com/sharp.html)   
- [Tektronix](http://4inkjets.com/xerteksolink.html)   
- [Toshiba](http://4inkjets.com/toscomtoncar.html)   
- [Xerox](http://4inkjets.com/xerox.html)   
- [i-Stick Pen Drives](http://4inkjets.com/insticisusbf.html)   
- [Flash Memory](http://4inkjets.com/digmemcomfla.html)   
- [Burners/Software](http://4inkjets.com/dvanddvbuand.html)   
- [Customer Service](http://4inkjets.com/cuse.html)
+ [Photo Paper](http://www.4inkjets.com/inkjetpaper.html)   
+ [Apollo](http://www.4inkjets.com/apollo.html)   
+ [Apple](http://www.4inkjets.com/apple.html)   
+ [Brother](http://www.4inkjets.com/brother.html)   
+ [Canon](http://www.4inkjets.com/canon1.html)   
+ [Compaq](http://www.4inkjets.com/compaq.html)   
+ [Dell](http://www.4inkjets.com/dell.html)   
+ [Epson](http://www.4inkjets.com/epson.html)   
+ [Lexmark](http://www.4inkjets.com/lexmarkibm.html)   
+ [Hewlett Packard](http://www.4inkjets.com/hewlettpackard1.html)   
+ [IBM](http://www.4inkjets.com/ibm.html)   
+ [NEC](http://www.4inkjets.com/nec.html)   
+ [Panasonic](http://www.4inkjets.com/panasonic.html)   
+ [Pitney Bowes](http://www.4inkjets.com/pitneybowes.html)   
+ [Okidata](http://www.4inkjets.com/okidata.html)   
+ [Samsung](http://www.4inkjets.com/samlasprinsu.html)   
+ [Sharp](http://www.4inkjets.com/sharp.html)   
+ [Tektronix](http://www.4inkjets.com/xerteksolink.html)   
+ [Toshiba](http://www.4inkjets.com/toscomtoncar.html)   
+ [Xerox](http://www.4inkjets.com/xerox.html)   
+ [i-Stick Pen Drives](http://www.4inkjets.com/insticisusbf.html)   
+ [Flash Memory](http://www.4inkjets.com/digmemcomfla.html)   
+ [Burners/Software](http://www.4inkjets.com/dvanddvbuand.html)
 
   
-  
-GEIDMTRGEL2U.  
-  
-6DA3DMEWFBZO.  
+ [Driver Downloads](http://4inkjets.com/lintoprincom.html)   
+ [Refill Instructions](http://4inkjets.com/refin.html)
 
+  
+ [Customer Service](http://www.4inkjets.com/cuse.html)   
+ [Affiliate Program](http://4inkjets.com/afprog.html)   
+ [About Us](http://4inkjets.com/info.html)   
+ [Your Privacy](http://4inkjets.com/privacy.html)   
+ [Shipping Info](http://4inkjets.com/cuse.html)   
+ Order Tracking   
+ [Tell A Friend!](http://4inkjets.com/tellfriend.html)   
+ [Returns](http://4inkjets.com/4ininkprodre.html)
 
-| | [](https://web.archive.org/web/20040610214750id_/http%3A//4inkjets.com/index.html)
+| | [](https://web.archive.org/web/20041211183255id_/http%3A//4inkjets.com/index.html)
 
 Privacy Statement |  | **4Inkjets! : Privacy Notice**  
 Effective **12/01/1999 - Current**
@@ -110,14 +117,22 @@ Should you have other questions or concerns about these privacy policies, please
   
 ---|---  
   
-| | |  [](https://www.scanalert.com/RatingVerify?ref=www.4inkjets.com)
-
+| | |  [](https://www.scanalert.com/RatingVerify?ref=www.4inkjets.com)  
   
-|   
----  
- Email :   
- First Name :   
- Last Name :   
+[  
+Refurbished Inkjet Cartridge To Replace HP C6578AN, C6578A, C6578D ](https://web.archive.org/web/20041211183255id_/http%3A//4inkjets.com/hewpachpc6571.html)  
+Regular price: $21.99Sale price: **$18.99, 5/$90.00**  
+[  
+Refurbished Inkjet Cartridge To Replace Hewlett Packard HP C6657AN, C6657A #57 ](https://web.archive.org/web/20041211183255id_/http%3A//4inkjets.com/reincatorehe.html)  
+Regular price: $26.99Sale price: **$22.99, 5/$100.00**  
+[  
+Refurbished Inkjet Cartridge To Replace HP 51645A #45](https://web.archive.org/web/20041211183255id_/http%3A//4inkjets.com/hewpac51645a.html)  
+Regular price: $15.95Sale price: **$12.95, 5/$55.00, 10/$100.00**  
+[  
+Epson C62, CX3200 T040120 (T040) Black Compatible Ink Cartridge](https://web.archive.org/web/20041211183255id_/http%3A//4inkjets.com/epc62t0blacc.html)  
+Regular price: $7.95Sale price: **$6.95, 5/$30.00**  
+[  
+Refurbished Inkjet Cartridge To Replace Hewlett Packard HP C6656AN, #56 ](https://web.archive.org/web/20041211183255id_/http%3A//4inkjets.com/rehepahpc6c6.html)  
+Regular price: $17.95Sale price: **$14.95, 5/$70.00**  
   
-My email supports HTML.  
 
