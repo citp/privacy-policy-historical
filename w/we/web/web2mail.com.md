@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the web2mail.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618120906id_/http%3A//web2mail.com/privacy.php%3Fuser_id%3D%26username%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web2mail.com privacy policy that was archived on 2003-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031216034800id_/http%3A//www.web2mail.com/privacy/policy.php%3Fuser_id%3D%26username%3D) for the most accurate reproduction.*
 
-# Web2Mail.com - Privacy policy
+# Web2Mail - Privacy policy
 
 [<< Return to previous page](javascript:history.go\(-1\))
 
