@@ -1,107 +1,74 @@
-> *The following text is extracted and transformed from the netiq.com privacy policy that was archived on 2003-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030422122622id_/http%3A//www.netiq.com/About_NetIQ/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netiq.com privacy policy that was archived on 2003-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031226181738id_/http%3A//www.netiq.com/about_netIQ/privacypolicy.asp) for the most accurate reproduction.*
 
 # NetIQ: Privacy Policy
 
-|  |  |  |  |  |   
----|---|---|---|---  
   
-| 
-
-[Company Profile](https://web.archive.org/about_netiq/default.asp)
-
-|   
-  
-| 
-
-[Investor Relations](https://web.archive.org/about_netiq/investor_relations/default.asp)
-
-|   
-  
-| 
-
-[Press Room](https://web.archive.org/news/default.asp)
-
-|   
-  
-| 
-
-[Events](https://web.archive.org/events/default.asp)
-
-|   
-  
-| 
-
-[eBooks and Newsletters](https://web.archive.org/library/default.asp)
-
-|   
-  
-| 
-
-[Careers at NetIQ](https://web.archive.org/careers/default.asp)
-
-|   
-  
-| 
-
-[Customers](https://web.archive.org/about_netiq/customers.asp)
-
-|   
-  
-| 
-
-[Contact Us](https://web.archive.org/about_netiq/contactus.asp)
-
-|   
-  
-|  |   
   
 
 
-NetIQ is committed to preserving your trust and confidence. That is why we want you to understand how we handle information we learn about you from your visit to this web site, what measures we take to safeguard that information and our commitment to data security. Because your privacy is important to us, NetIQ will not sell, rent or trade your personal information collected on this site except as outlined in this Privacy Policy. 
+NetIQ is committed to maintaining the trust and confidence of its customers and visitors to our web site. In particular, we want you to know that NetIQ is not in the business or selling, renting or trading email lists with other companies for marketing purposes. In this Privacy Policy we provide detailed information on when and why we collect your personal information, how we use it, the limited conditions under which we may disclose it to others and how we keep it secure.
 
-Collection and Use of Data
+Collection and Use of Personal Information
 
-We use our own products, WebTrends Live, WebTrends Reporting Center, Data Collection Server, and Webhouse Builder to analyze traffic to this web site. This information is used in aggregate to analyze and improve this web site. For more information about WebTrends Live's privacy policy, please [click here](http://www.webtrendslive.com/wtl_marcom/privacy_policy.htm). 
+Personal information means any information that may be used to identify you, such as, your name, title, phone number, email address, or mailing address.
 
-We also may ask you for information that personally identifies you, such as your name, phone number, e-mail address, credit card number, and mailing address. Such personal information is collected only as part of an explicit registration process, such as that used in connection with purchasing or registering products, requesting additional information, participating in contests or surveys, receiving trial downloads, or registering for one of our training courses or events. This information allows us to process and fulfill your order, to register your subscriptions, to inform you of new products, services or offers, and to contact you if we need to obtain or provide additional information. We also use some personally identifiable information in conjunction with cookies and web behavioral data in order to help us better understand individual customer needs and behavior, as well as to tailor web site content and marketing messages to your interests.
+In general, you can browse our web site without giving us any personal information. We use our own product, [WebTrends Reporting Service](https://web.archive.org/products/wrs/default.asp), to analyze traffic to this web site in order to understand our customer's and visitor's needs and to continually improve our site for them. WebTrends Reporting Services collects only anonymous, aggregate statistics. For example, we do not tie a specific visit to a specific IP address. For more information, see [Privacy Statement for Visitors to Sites Tracked by WebTrends Reporting Service](https://reports.webtrends.com/privacypolicy.asp#PSFV).
 
-Disclosure of Data
+If you want to subscribe to one of our newsletters, we ask you to simply provide your business email address. In that case, we use your email address only in connection with providing you the newsletter and for no other purpose.
 
-You agree that we may provide your information to our affiliates, resellers and business partners so that they may contact you for promotional purposes relating to NetIQ products. As well, we may provide your information to third party service providers, such as fulfillment centers, mailing houses, event providers and customer support organizations. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose. Your information also may be transferred in connection with a sale, merger, transfer, exchange or other disposition (whether of assets, stock or otherwise) of all or a portion of a business of NetIQ and/or its subsidiaries.
+Additional activities on our site require you to be registered — for example, to read a white paper, download a trial, or register for an event. As part of the registration process, we ask you to create a myNetIQ account where we collect additional personal information. We use that information for several general purposes: to tell you about products, seminars and services if you so request, to fulfill your request, to contact you if we need to obtain or provide additional information; to verify the accuracy of our records, to contact you regarding customer satisfaction surveys.
 
-While NetIQ takes steps to protect the confidentiality, privacy and security of personal information communicated to these third parties, their activities are not subject to the exclusive control of NetIQ and they are not subject to this privacy statement.
+Some activities require additional personal information besides your myNetIQ account. For example, to fulfill online orders for products, support, and training, we require you to enter credit card information, and you have the option to provide a separate shipping address. 
 
-With the above exceptions, NetIQ will not disclose your personal information without your express consent unless required to do so by law or unless NetIQ has a good faith belief that such action is necessary to: (1) conform to legal requirements or comply with legal process served on NetIQ or this web site; (2) protect and defend the rights or property of NetIQ and this web site; or (3) enforce its agreements with you. 
+Disclosure of Personal Information
 
-Updating and Removal of Data
+In some instances we rely on our channel partners to fulfill product trials and information requests, and provide customers and prospective customers with information about NetIQ and its solutions. To do this, we may pass your information to them for that purpose only, and they are prohibited from using that information for any other purpose. 
 
-You may have your name removed from our direct and e-mail marketing lists at any time, by visiting [http://netiq.com/account/lists.asp](https://web.archive.org/account/lists.asp), entering your e-mail address, and selecting the option, "Please remove me from all e-mail lists."
+NetIQ sometimes hires vendor companies to provide limited services on our behalf, including packaging, mailing and delivering items, sending postal mail, providing technical support, and processing event registrations. We provide those companies only the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
 
-If you prefer to receive e-mail in text-only format instead of HTML, visit [http://netiq.com/account/lists.asp](https://web.archive.org/account/lists.asp), and select the option, "Send text-only messages."
+Because NetIQ is a global company, your personal information may be shared with other NetIQ offices or subsidiaries in the U.S., Europe, and elsewhere. The data protection laws in these countries may be more or less extensive than laws in the country in which you are located. However, NetIQ and its offices and subsidiaries are governed by this Privacy Policy and will use your personal information only as set forth in this policy. If you want, we can provide you with details of the countries relevant to you upon request.
 
-Security of Your Personal Information
+By using our web site and providing us with your personal data, you consent to this transfer of your personal data.
 
-When you place orders at netiq.com, we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, we have implemented industry standard security mechanisms and procedures to protect data from loss, misuse and unauthorized access, disclosure, alteration and destruction. 
+NetIQ may also disclose your personal information if required to do so by law or in the good faith belief that such action is necessary in connection with a sale, merger, transfer, exchange or other disposition (whether of assets, stock or otherwise) of all or a portion of a business of NetIQ and/or its subsidiaries or to (1) conform to legal requirements or comply with legal process served on NetIQ or this web site; (2) protect and defend the rights or property of NetIQ and this web site; (3) enforce its agreements with you, or (4) act in urgent circumstances to protect personal safety or the public. 
 
-Children's Information
+Children and Privacy
 
-NetIQ.com is not a site that publishes content that is targeted to children, and we do not knowingly collect, use or disclose personally identifiable data on children under the age of 13. 
+Our web site does not offer information intended to attract children. NetIQ does not knowingly solicit personal information from children under the age of 13.
+
+Security of Personal Information
+
+When you submit any form requiring a myNetIQ account, we use a secure server. The secure server software (SSL) helps protect your information as it travels over the Internet by encrypting that information before it is sent to us. We have also implemented industry-standard security mechanisms and procedures to protect data from loss, misuse and unauthorized access, disclosure, alteration and destruction.
 
 Use of Cookies
 
-Cookies are small pieces of information that are stored by your browser on your computer's hard drive. They allow us to better analyze our site traffic patterns and to provide improved content, advertisements, products and services. They also allow us to refine and enhance the visitor registration process and to add personalization. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that if you would rather not store the information for future use. If you disable the operation of cookies, you will be unable to access certain functionality on this web site and will not be able to purchase products directly through the web site. 
+A cookie is a small text file containing information that a web site transfers to your computer's hard disk for record-keeping purposes. Cookies allow us to analyze our site traffic patterns and to provide a user-friendly myNetIQ registration and log-in process. A cookie can not give us access to your computer or to information beyond what you provide to us. Most web browsers automatically accept cookies; consult your browser's manual or online help if you want information on restricting or disabling the browser's handling of cookies. If you disable cookies, you can still view the publicly available information on our web site, but you will not be able to take advantage of offers or activities requiring a myNetIQ account, which includes online sales and accessing customer-only support areas. If are using a shared computer and you have cookies turned on, be sure to log off when you finish.
 
-Questions 
+Links to Other Web Sites
 
-If you have any questions regarding this privacy policy or its application, you should email us at [privacy@netiq.com](mailto:privacy@netiq.com).
+Our web site contains links to information on other web sites. We do not have any control over these other web sites, and therefore we cannot be responsible for the protection and privacy of any information that you provide while visiting those sites. Those sites are not governed by this Privacy Policy, and if you have questions about how a site uses your information, consult that site's privacy statement.
 
-Your consent
+Access to Your Personal Information/Updating Your Personal Information
 
-By using our web site, you consent to the collection and use of this information as outlined in this privacy policy. We may change our privacy policy at any time and without notice. If we decide to change our privacy policy, we will post those changes on this page so that you are aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+You are entitled to access the personal information that we hold. Email your request to our Data Privacy Officer at [privacy@NetIQ.com](mailto:privacy@NetIQ.com). An administrative fee may be payable. 
+
+Updating Your Personal Information
+
+If you have a myNetIQ account, you can update or correct your information online by visiting our [myNetIQ Account Management](https://web.archive.org/f/mynetiq/default.asp) page or by emailing our Data Privacy Officer at [privacy@NetIQ.com](mailto:privacy@NetIQ.com). 
+
+Unsubscribing
+
+If you have set up a myNetIQ account, you may change your preferences at any time by following the instructions provided in the myNetIQ account pages.
+
+If you do not have a myNetIQ account, you may unsubscribe at any time, by visiting <http://netiq.com/account/lists.asp>, entering your e-mail address, and selecting the applicable option.
+
+Your Consent
+
+By using our web site, you consent to the collection and use of the information you provide to us as outlined in this Privacy Policy. We may change this Privacy Policy from time to time and without notice. If we change our Privacy Policy, we will publish those changes on this page.
+
+If you have any questions or concerns about our collection, use or disclosure of your personal information, please email our Data Privacy Officer at [privacy@NetIQ.com](mailto:privacy@NetIQ.com). For more information about this site or your visit, please email us at [webmaster@NetIQ.com](mailto:webmaster@NetIQ.com). 
+
+This document was last updated December 12, 2003.
 
   
-|  |   
-
-
-[](https://web.archive.org/careers/default.asp)  
 
