@@ -1,77 +1,56 @@
-> *The following text is extracted and transformed from the websiteiq.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218023638id_/http%3A//www.earthlink.net/about/policies/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websiteiq.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602191308id_/http%3A//www.websiteiq.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Website I.Q. ~ Shop Smart ~ Privacy & Security Policy
 
-  
+**Privacy and  
+Security Policy** [Home](https://web.archive.org/web/20030602191308id_/http%3A//www.websiteiq.com/index.htm)  
+[Spring Planting](https://web.archive.org/web/20030602191308id_/http%3A//www.websiteiq.com/seasonal_store.htm)  
+[Appliances & Housewares](https://web.archive.org/web/20030602191308id_/http%3A//www.websiteiq.com/appliance_store.htm)  
+[Electronics](https://web.archive.org/web/20030602191308id_/http%3A//www.websiteiq.com/electronics_store.htm)  
+[Cameras & Video](https://web.archive.org/web/20030602191308id_/http%3A//www.websiteiq.com/camera_store.htm)  
+[Computer Hardware](https://web.archive.org/web/20030602191308id_/http%3A//www.websiteiq.com/pc_store.htm)  
+[Computer Software](https://web.archive.org/web/20030602191308id_/http%3A//www.websiteiq.com/software_store.htm)  
+[Movies](https://web.archive.org/web/20030602191308id_/http%3A//www.websiteiq.com/dvd_store.htm)  
+[Music](https://web.archive.org/web/20030602191308id_/http%3A//www.websiteiq.com/music_store.htm)  
+[Books](https://web.archive.org/web/20030602191308id_/http%3A//www.websiteiq.com/books_store.htm)  
+[Toys & Video Games](https://web.archive.org/web/20030602191308id_/http%3A//www.websiteiq.com/toys_store.htm)  
+[Sports & Recreation](https://web.archive.org/web/20030602191308id_/http%3A//www.websiteiq.com/sports_store.htm)  
+[Pets](https://web.archive.org/web/20030602191308id_/http%3A//www.websiteiq.com/pet_store.htm)  
+[Flowers & Plants](https://web.archive.org/web/20030602191308id_/http%3A//www.websiteiq.com/flower_store.htm)  
+[Gifts](https://web.archive.org/web/20030602191308id_/http%3A//www.websiteiq.com/gifts_store.htm)  
+[Gourmet Food](https://web.archive.org/web/20030602191308id_/http%3A//www.websiteiq.com/food_store.htm)  
+[Apparel](https://web.archive.org/web/20030602191308id_/http%3A//www.websiteiq.com/apparel_store.htm)  
+[Jewelry & Watches](https://web.archive.org/web/20030602191308id_/http%3A//www.websiteiq.com/jewelry_store.htm)  
+[Health & Nutrition](https://web.archive.org/web/20030602191308id_/http%3A//www.websiteiq.com/health_store.htm)  
+[Beauty](https://web.archive.org/web/20030602191308id_/http%3A//www.websiteiq.com/beauty_store.htm)  
+[Home Décor](https://web.archive.org/web/20030602191308id_/http%3A//www.websiteiq.com/decor_store.htm)  
+[Gardening &  
+Outdoor Accents](https://web.archive.org/web/20030602191308id_/http%3A//www.websiteiq.com/garden_store.htm)  
+[Office Products](https://web.archive.org/web/20030602191308id_/http%3A//www.websiteiq.com/office_store.htm)  
+[Travel & Entertainment](https://web.archive.org/web/20030602191308id_/http%3A//www.websiteiq.com/travel_store.htm)  
+|  **Your Privacy Matters to Website I.Q.!**
 
+Website I.Q. has created this privacy statement to demonstrate our commitment to privacy and to outline how we plan to handle such information. The following describes our information gathering and usage practices for www.websiteiq.com.
 
-Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet’s vast array of information, tools, and opportunities with complete confidence. 
+You can be assured that if you provide information to Website I.Q., no individual data will be passed on to any third-party. Website I.Q. will only divulge information as may be necessary to comply with state and federal laws.
 
-We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how EarthLink collects information from all end users of EarthLink’s Internet services (the “Services”)—those who access some of our Services but do not have accounts (“Visitors”) as well as those who pay a monthly service fee to subscribe to the Service (“Members”)—what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. EarthLink requests that you read this Privacy Policy carefully. 
+On occasion, Website I.Q. conducts online surveys that ask visitors for contact information (such as email address) and demographic information (such as zip code, age, or income level).  Survey results provide information that enables us to better tailor our content to readers' needs and to help our advertisers better understand the aggregate demographics of our audience. Data may be used in aggregate form to learn more about our customers' needs, however, individual personal data will never be released from these surveys. 
 
-**Personal Information EarthLink Collects and How It Is Used**
+Website I.Q. provides a free email newsletter that covers subjects related to safe, easy, online shopping. Subscription to our newsletter is optional and requires you to reply to a confirmation email indicating your desire to subscribe. Users may opt-in for the newsletter by clicking on the checkbox on the "subscribe to newsletter" option. Users can decline this service by leaving the checkbox unchecked or by choosing not to reply to the confirmation message. If users decide to unsubscribe, it is an easy one step process.
 
-**Introduction**   
-EarthLink collects information in different ways from Visitors and Members who access the various parts of our Services and the network of Web sites accessible through our Service. We use this information primarily to provide a customized experience as you use our Services and, generally, do not share this information with third parties. However, we may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required by law or other special cases described below. 
+Website I.Q. may occasionally sponsor a sweepstakes, contest or giveaways. In these cases, Website I.Q. will require name, mailing address, and email address. Should you choose to participate, we will notify you via email of the result.
 
-**Registration**   
-Members are asked to provide certain personal information when they sign up for our Services including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Members during the registration process is used to manage each Member’s account (such as for billing purposes). This information is not shared with third parties, unless specifically stated otherwise or in special circumstances. However, in instances where EarthLink and a partner jointly promote the Services, EarthLink may provide the partner certain personal information, such as the name, address, and username of persons who subscribed to the Services as a result of the joint promotion for the sole purpose of allowing us and the partner to assess the results of the promotion. In this instance, personal information may not be used by the partner for any other purpose. EarthLink may also generate nonidentifying and aggregate profiles from personal information Members provide during registration (such as the total number, but not the names, of Members). As explained in more detail below, we may use this aggregated and nonidentifying information to sell advertisements that appear on the Services. 
+Website I.Q. occasionally sends informational or promotional mailings related to our services. These mailings provide information about our services, and may offer shopping discounts. If a user does not wish to receive this type of information, they may elect to remove their address.
 
-**EarthLink Partners and Sponsors**   
-Some EarthLink products and services are offered to Visitors and Members in conjunction with a non-affiliated partner. For example, we outsource the provision of stock quotes and operation of your stock portfolio (accessible through your **Personal Start Page** ) to a third-party vendor. To provide Visitors and Members some of these products and services, the partner may need to collect and maintain personal information. In these instances, you will be notified before any such data is collected or transferred and may decide not to use that particular service or feature. Additionally, many EarthLink Members have cobranded **Personal Start Pages** that are cosponsored by nonaffiliated partners. EarthLink will share nonidentifying and aggregate information (except as described above), but not personal information, with such partners in order to administer the cobranded products or services offered. 
+Website I.Q. may offer interactive polls to users so they can easily share their opinions and see what the audience thinks about important issues. Website I.Q. uses a system to "tag" users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users.
 
-**Online Shopping**   
-At some Web sites, you can purchase products and services or register to receive materials, such as a catalog or new product and service updates. In many cases, you may be asked to provide contact information, such as your name, address, email address, phone number, and credit/debit card information. If you complete an order for someone else, such as an online gift order sent directly to a recipient, you may be asked to provide information about the recipient, such as the recipient’s name, address, and phone number. EarthLink has no control over the third parties’ use of any personal information you provide when placing such an order. Please exercise care when doing so.
+This site contains links to other websites. Website I.Q. is not responsible for the privacy practices or the content of these sites. If you have concerns about how other websites collect and use information about you, make sure to read that site’s own privacy policy.
 
-If you order products directly from EarthLink, such as through the “EarthLink Store,” we will use the personal information you provide only to process that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
+Last updated 1-4-2003
 
-**Online Advertisements**   
-EarthLink displays our online advertisements. We share aggregated and nonidentifying information about our Visitors and Members collected through the registration process as well as through online surveys and promotions with these advertisers. Additionally, in some instances, we use this aggregated and nonidentifying information to deliver tailored advertisements. For instance, an advertiser tells us the audience they want to reach (for example, males between 25 and 55 years of age) and provides us an advertisement tailored to the audience. Based upon the aggregated and nonidentifying information we have collected, we may then display the advertisement to the intended audience. EarthLink does not share personal information about its Visitors or Members with these advertisers.
+| 
 
-**Responses to Email Inquiries**   
-When Visitors or Members send email inquiries to EarthLink, the return email address is used to answer the email inquiry we receive. EarthLink does not use the return email address for any other purpose and does not share the return email address with any third party. 
-
-**Voluntary Customer Surveys**   
-We may periodically conduct both business and individual customer surveys. We encourage our customers to participate in these surveys because they provide us with important information that helps us to improve the types of services we offer and how we provide them to you. Your personal information and responses will remain strictly confidential, even if the survey is conducted by a third party. Participation in our customer surveys is voluntary. 
-
-We take the information we receive from individuals responding to our Customer Surveys and combine (or aggregate) it with the responses of other EarthLink customers to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services to you, and to develop new services and products. This aggregated, non-personally identifying information may be shared with third parties.
-
-**Special Cases**   
-It is EarthLink’s policy not to use or share the personal information about Visitors of Members in ways unrelated to the ones described above without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. However, EarthLink may disclose personal information about Visitors or Members, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: to satisfy laws, such as the Electronic Communications Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our [Acceptable Use Policy](https://web.archive.org/about/policies/use/) or other user policies; to operate the Services properly; or to protect EarthLink and our Members. 
-
-**"Cookies" and How EarthLink Uses Them**   
-A “cookie” is a small data file that can be placed on your hard drive when you visit certain Web sites. EarthLink may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our telecommunications networks. If you are a Member and have created your own **Personal Start Page** , we will use a cookie to save your settings and to provide customizable and personalized services. These cookies do not enable third parties to access any of your customer information. Additionally, be aware that if you visit non-EarthLink web sites where you are prompted to log in or that are customizable, you may be required to accept cookies. 
-
-Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them. 
-
-**EarthLink's Commitment to Children's Privacy**   
-Protecting children’s privacy is especially important to us. It is our policy to comply with the Children’s Online Privacy Protection Act of 1998 and all other applicable laws. 
-
-We have Web pages designed especially for our younger users. While we make every effort to ensure that these Web sites are fun and age-appropriate for our younger audience, we believe that there is no substitute for proper parental supervision. For further information about tips, tools, age-appropriate or kid-friendly Web sites and how to report online trouble, please visit [www.getnetwise.org](http://www.getnetwise.org/). 
-
-Finally, EarthLink recommends that children ask a parent for permission before sending personal information to EarthLink, or to anyone else online. 
-
-**Public Forums**   
-Please remember that any information you may disclose in our Member Directory, or other public areas of our Web sites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas. 
-
-**EarthLink's Commitment to Data Security**   
-Services and Web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party “hackers” from illegally obtaining this information. 
-
-**How to Access or Modify Your Information**   
-EarthLink offers Members the opportunity to access or modify information provided during registration. To access or modify such information, visit <http://help.earthlink.net/billing> or contact our Customer Service Department at 800.890.6356. 
-
-**Where to Direct Questions About EarthLink's Privacy Policy**   
-If you have any questions about this Privacy Policy or the practices described herein, you may contact: 
-
-Customer Service  
-EarthLink, Inc.  
-1430 West Peachtree Street, N.W.  
-Suite 400  
-Atlanta, Georgia 30309  
-[privacypolicy@corp.earthlink.net](mailto:privacypolicy@corp.earthlink.net),   
-or [service@mindspring.net](mailto:service@mindspring.net)
-
-**Revisions to This Policy**   
-EarthLink reserves the right to revise, amend, or modify this policy, our [Internet Service Agreement](https://web.archive.org/about/policies/dial/) and our other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted in accordance with the [Internet Service Agreement](https://web.archive.org/about/policies/dial/). 
-
-Rev. 03/07/2000
+* Turbo-Net Solutions does not control prices, inventory, or shipping on products contained in these pages.  
+Prices, stock availability, and shipping policies are subject to change. Not responsible for typographical errors.   
+[_Privacy & Security_](http://www.websiteiq.com/privacy.htm)  
+**© Copyright 1999–2003, Turbo-Net Solutions**
