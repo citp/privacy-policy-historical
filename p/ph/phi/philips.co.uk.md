@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philips.co.uk privacy policy that was archived on 2002-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020406005336id_/http%3A//www.philips.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philips.co.uk privacy policy that was archived on 2002-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021012101658id_/http%3A//www.philips.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # Royal Philips Electronics: UK Portal
 
@@ -80,5 +80,3 @@ If you have a problem with our use of your information, please let us know and w
 There are a number of excellent sources of information about online privacy and related issues. They include:   
 European Union: [Guide to data protection](http://europa.eu.int/comm/internal_market/en/dataprot/news/guide_en.pdf) (PDF File)  
 Other European Languages available [here](http://europa.eu.int/comm/internal_market/en/dataprot/news/guide.htm).
-
-| ©2000 Philips Electronics. All rights reserved. | [Privacy Policy](https://web.archive.org/web/20020406005336id_/http%3A//privacy.asp) | Philips | Access to and use of this Web Site is subject to these [Terms of Use](https://web.archive.org/web/20020406005336id_/http%3A//tandcs.asp).|
