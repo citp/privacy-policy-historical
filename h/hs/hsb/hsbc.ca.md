@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsbc.ca privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611042538id_/http%3A//www.hsbc.ca/english/privacy_notice.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsbc.ca privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017003525id_/http%3A//www.hsbc.ca/english/privacy_notice.asp) for the most accurate reproduction.*
 
 # HSBC Canada - Privacy Notice
 
