@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dap.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209095801id_/http%3A//www.dap.com/company/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dap.com privacy policy that was archived on 2003-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030623170600id_/http%3A//dap.com/company/privacy.cfm) for the most accurate reproduction.*
 
 # DAP - Privacy Statement
 
