@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bakersfield.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216203754id_/http%3A//www.bakersfield.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakersfield.com privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202033748id_/http%3A//bakersfield.com/privacy) for the most accurate reproduction.*
 
 # bakersfield.com - Privacy Policy
 
-|  December 15, 2001   
+|  February 1, 2002   
 [Homepage](http://www.bakersfield.com/) > [News Home](https://web.archive.org/news/) > [**Privacy Policy**](https://web.archive.org/privacy/)   
   
 
@@ -166,6 +166,6 @@ e-mail: [webmaster@bakersfield.com](mailto:webmaster@bakersfield.com)
 
 * * *
 
-[](http://www.nandomedia.com/) Copyright © 2001, [The Bakersfield Californian](http://www.bakersfield.com/help/whoweare.html) | [Email the Webmaster](mailto:webmaster@bakersfield.com)  
+[](http://www.nandomedia.com/) Copyright © 2002, [The Bakersfield Californian](http://www.bakersfield.com/help/whoweare.html) | [Email the Webmaster](mailto:webmaster@bakersfield.com)  
 [Privacy Policy Statement](https://web.archive.org/privacy/) | [Terms of Use](https://web.archive.org/terms/)   
 
