@@ -1,90 +1,72 @@
-> *The following text is extracted and transformed from the ehealthinsurance.com privacy policy that was archived on 1999-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991109152412id_/http%3A//ehealthinsurance.com/ehealthinsurance/PrivacyAndSecurity.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehealthinsurance.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204191607id_/http%3A//www.ehealthinsurance.com/ehealthinsurance/PrivacyAndSecurity.html) for the most accurate reproduction.*
 
-# Privacy and Security Policy
+# eHealthInsurance.com
 
-**Privacy and Security Policy**
+|            | 
 
-This confirms that eHealthInsurance.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of:
+Privacy Policy for eHealthInsurance.com
 
-  1. What personally identifiable information of yours or third party personally identification is collected from you through the web site
-  2. The organization collecting the information 
-  3. How the information is used 
-  4. With whom the information may be shared 
-  5. What choices are available to you regarding collection, use and distribution of the information 
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under (Name of the Company) control 
-  7. How you can correct any inaccuracies in the information.
+[](https://www.truste.org/validate/4605)
+
+At eHealthInsurance.com, we are committed to protecting your privacy.  eHealthInsurance will **NOT SELL, TRADE or GIVE AWAY** your personal information to anyone, except those specifically involved in the referral or processing of your health insurance quote or application.  Additionally, we use industry leading technologies to ensure the **SECURITY** of the information under our control.  Our guidelines for protecting the information you provide us during a visit to our website appear below. 
+
+Furthermore, eHealthInsurance is a registered licensee of TRUSTe.  TRUSTe is an independent, non-profit initiative whose mission is to build users' trust and confidence in the Internet by promoting the principles of full disclosure and informed consent.  Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices and to have our privacy practices reviewed and audited for compliance by TRUSTe.  These include: 
+
+  * What information of yours we collect;
+  * How we use the information;
+  * With whom your personally identifiable information may be shared;
+  * What your choices are regarding collection, use and distribution of the information;
+  * The security procedures in place to protect against the loss, misuse or alteration of information under eHealthInsurance's control; and
+  * How you can correct any inaccuracies in the information.
 
 
-
-If you have questions or concerns regarding this statement, you should first contact Samir Mehta by email at [mailto:samir@ehealthinsurance.com](mailto:samir@ehealthinsurance.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at [ http://www.truste.org/](javascript:Plan_window\('http://www.truste.org/'\)). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
-
-[](javascript:Plan_window\('https://www.truste.org/validate/4605'\))
 
 * * *
 
-At eHealthInsurance.com, we believe that your personal health insurance information is just that \-- personal. All of your information is kept confidential between you, eHealthInsurance.com and the health insurance company you select. None of the information is accessible to anyone else. 
+Collection and Use of Information
 
-The following discloses our information gathering and dissemination practices.
+**Personally Identifiable Information**. Our site uses an application form for individuals and businesses to apply online for health insurance.  To provide you with a health insurance quote or to process your application with the health insurance company that you have selected, we collect your _contact information_ (like your email address and mailing address), _personal health information_ (like your or your family's medical history), _financial information_ (like your account or credit card numbers), and _demographic information_ (like your zip code, gender and state).  If you are enrolling your company, _employee information_ is also collected (like their age, home zip code and family members to be insured).  Contact, personal health, demographic information and/or employee information is required by the health insurance company to process an application form. Additionally, the financial information will be used by the insurance company to bill you after you have been approved to be a policy holder. 
 
-**Security**
+Your contact and demographic information may also be used by eHealthInsurance to get in touch with you when necessary to process your application.  Emails will be sent to you throughout the application process to inform you of the status of your application and additional information that is requested as part of the application.  A postal mailing of your application will be sent to you if you choose to have us mail you the application for signature and submission of payment. Emails, postal mailings and telephone calls are made upon your request or as a friendly reminder to submit your application if we have not received the application for a prolonged period after your online submission. 
 
-Our site has security measures in place to protect the loss, misuse and alteration of the information  
-under our control. To guard against unauthorized use, our site features the latest in Internet security technology. Information that is passed between your browser and eHealthInsurance.com is encrypted (scrambled) with the Secure Socket Layer (SSL) system. This creates a protected connection between you and eHealthInsurance.com to ensure the highest levels of confidentiality. 
+Additionally, eHealthInsurance may contact you to survey your satisfaction of our service and/or to inform you of additional products and services available through our website. To opt-out of receiving these additional communications from eHealthInsurance, follow the opt-out procedures below.
 
-Cookies are not used on the site.
+**Anonymous Information.** In addition to the collection and use of _personally identifiable information_ to provide you with quotes or to process your insurance application, eHealthInsurance also gathers _anonymous information_ and _aggregate demographic information_ , which may be used by eHealthInsurance or shared by eHealthInsurance with third parties.  This information does not personally identify you, but it may be helpful to us for marketing purposes or for improving the services we offer.  For example, eHealthInsurance may track the aggregate number of return visitors to our site or the aggregate number of visitors to our site that are men, and eHealthInsurance may share this information with its partners and outside advertisers for general marketing purposes. ** ** Generally this information is collected through “traffic data” and may entail the use of “Cookies,” “Internet Protocol” addresses or other numeric codes used to identify a computer.  Again, disclosure of anonymous information and/or aggregate demographic information by eHealthInsurance will not reveal any personally identifiable information about specific users.
 
-**Collection and Use of Information**
+“Cookies” are small files that are stored by your web browser to help a particular system recognize you and the pages you visited in a website.  Our site uses cookies to make your online experience more convenient. For example, we may use a cookie to store your account information between sessions and to maintain information about the quotes that you've requested during your session.  Additionally, we may use data from cookies for a variety of internal purposes, such as studying how users navigate our site.  Most Web browsers automatically accept cookies, but if you prefer, you can set yours to refuse cookies.  Even without a cookie, you can still use most of the features on our site, including obtaining quotes and purchasing insurance. 
 
-Our site uses an application form for individuals and businesses to apply online for health insurance.   
-We collect your contact information (like your email address), personal health information (like your medical history), financial information (like your account or credit card numbers), and demographic  
-information (like your address, zip code, and age) as required by the health insurance company. Medical and financial information is collected on behalf of the insurance company. The financial information will be used by the insurance company to bill you after you have been approved to be a policy holder.
+**Links to Other Sites.** Our site contains links to other sites. Please note that when you click on one of these links you are "clicking" to another website.  eHealthInsurance is not responsible for the privacy practices or the content of such websites. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
 
-If you are enrolling your company, employee information that is required by the health insurance company is collected (like their age, home zip code, and the family members to be insured). All information that is required by the health insurance company must be provided to submit an application and obtain health insurance. Email addresses are optional and are used for customer communications. The site utilizes your demographic information for marketing purposes.
+Sharing of Personally Identifiable Information
 
-Your contact information is also used to get in touch with you when necessary. Emails will be sent to  
-you throughout the application process to inform you of the status of your application and additional information that is requested as part of the application. A postal mailing of your application will be sent to you if you choose to have us mail you the application for signature and submission of payment. Telephone calls are made upon your request or as a friendly reminder to submit your application if we have not received the application after a prolonged period after your online submission. You may receive a telephone call to survey your satisfaction of our service. You do not have to participate in the survey and you can let us know that you do not wish for us to contact you regarding surveys in the future.
+**It is our firm commitment to you that eHealthInsurance will not sell, trade or give away your personally identifiable or personal health information to anyone, except those specifically involved in the referral or processing of your health insurance application.**   Additionally, eHealthInsurance will (as described below) share your personally identifiable information and/or personal health information **only** with the following categories of third parties:
 
-We use your Internet Protocol (IP) address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. We collect information on who your Internet Service Provider is and what browser type you have. This information is used for the purpose of testing and monitoring system performance.
+  * **Your Chosen Insurance Company.** As stated above, your personally identifiable and personal health information is sent by eHealthInsurance directly to the health insurance company to process your application form. 
 
-Our site contains links to other sites. Please note that when you click on one of these links you are "clicking" to another web site. eHealthInsurance.com is not responsible for the privacy practices or the content of such Web sites. We encourage you to read the privacy statements of these linked sites as their privacy policy may differ from ours.
-
-**Special Relationships**
-
-You may have come from one of our affiliate partners web sites. All of your personal information is collected by eHealthInsurance.com as described above. Personal information about you is provided to some of our affiliate partners for their marketing purposes. Demographic information may be shared on an aggregate basis with affiliate partners and health insurance companies.
-
-**Collection and Use of Information on Affiliates Sign-Up Page  
-**  
-Companies that sign up to become affiliates are required to provide contact and company information. This information is used for administrative, accounting, and communication purposes.
-
-**Choice/Opt-Out of Receiving Communication**
-
-Our site provides visitors and customers the opportunity to opt-out of receiving communications from us. Our site gives visitors and customers the following options for removing their information from our database: 
-
-1.You can send email to service@ehealthinsurance.com  
-2.You can send mail to the following postal address:   
-eHealthInsurance.com 1150 Iron Point, Suite 100 Folsom, CA 95630   
-3.You can call the following telephone number: 800-977-8860 
-
-**Correct/Update Your Information**
-
-Our site gives visitors and customers the following options for changing and modifying information previously provided. Once your application has been submitted to a health insurance company, you will have to contact the insurance company directly to correct or update your information.
-
-  1. You can send email to service@ehealthinsurance.com
-  2. You can send mail to the following postal address: eHealthInsurance.com 1150 Iron Point, Suite 100 Folsom, CA 95630
-  3. You can call the following telephone number: 800-977-8860 
+  * **Service Providers.** eHealthInsurance may provide your personally identifiable information to reputable service providers who provide routine services that are an essential element of our site.  For instance, eHealthInsurance may provide your financial information (like credit card numbers) to an outside service for the secure processing of your credit card payments over the Internet.  **eHealthInsurance does not disclose your personal health information to any of its service providers** **.  ** Additionally, eHealthInsurance will contractually require any service provider to whom personally identifiable information is disclosed to maintain such information in strict confidence and not use such information for any purpose other than for the purpose that service provider has been contracted by eHealthInsurance. 
+  * **Co-Branded Websites/Affiliate Partners.**   You may have come to our site from one of our affiliate partner websites or be visiting eHealthInsurance through a co-branded website.  Our co-branded websites are clearly identified by both an eHealthInsurance and a partner’s logo.  As part of these affiliate partnerships, your contact information and/or demographic information may be provided to the specific affiliate partner that referred you to our site.  **eHealthInsurance does not disclose your personal health information or financial information to any of its affiliate partners.**   eHealthInsurance is not responsible for the actions of these affiliate partners, and we encourage you to review the privacy policy from the affiliate partner that you are visiting our site from to learn more about what, why and how they collect and use personally identifiable information. 
+  * **Legal Obligations.**   eHealthInsurance may release personally identifiable information including your personal health information when we believe, in good faith, that such release is reasonably necessary to comply with the law or a valid court order. 
 
 
 
-**Notification of Changes to the Privacy Policy**
+Security
 
-Any changes made to the privacy statement will be communicated to our customers by email.
+All personally identifiable information collected in order to provide you with the services on our site is securely stored in our databases.  eHealthInsurance uses leading encryption technologies to protect personally identifiable information.  Information that is passed between your browser and our site is encrypted with the Secure Socket Layer (SSL) system.  This creates a protected connection between you and our site to ensure the highest levels of confidentiality.  Additionally, access to the information stored on our databases is restricted to select eHealthInsurance employees and other authorized personnel. 
 
-**Contacting the Web Site**
+Opt-Out of Receiving Communication
 
-If you have any questions about this privacy statement, our company policies and procedures or your experience with our site, you can contact:
+If you do not want to receive satisfaction surveys from eHealthInsurance and/or information on additional products and services that eHealthInsurance may offer, simply contact us by email at [customerservice@ehealthinsurance.com](mailto:customerservice@ehealthinsurance.com), or contact us by mail at Customer Service, eHealthInsurance.com, 1150 Iron Point Road, Suite 100 Folsom, CA 95630.  Please note, however, that you will still receive communications from eHealthInsurance regarding your insurance application or policy.
 
-Samir Mehta, Marketing Director  
-eHealthInsurance Services, Inc.  
-1390 Borregas Ave.  
-Sunnyvale, CA 94089  
-[samir@ehealthinsurance.com](mailto:samir@ehealthinsurance.com)
+Correct/Update Your Information
+
+If you want to correct or update your contact information, simply contact us by email at [customerservice@ehealthinsurance.com](mailto:customerservice@ehealthinsurance.com), or contact us by mail at Customer Service, eHealthInsurance.com 1150 Iron Point Road, Suite 100 Folsom, CA 95630. Please note that once your application has been submitted to your chosen health insurance company, you may have to contact the insurance company directly to correct or update your information.
+
+Notification of Changes to the Privacy Policy
+
+If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email.  You will have a choice as to whether or not we use your personally identifiable information in this different manner.  In addition, if we make any material changes in our privacy practices that do not affect the personally identifiable information already stored in our database, we will post a prominent notice in the privacy portion of our web site notifying users of the change.
+
+Questions
+
+If you have any questions about this privacy statement, our company policies and procedures or your experience with our site, you can contact us at [privacy@ehealthinsurance.com](mailto:privacy@ehealthinsurance.com).   If we have not responded to your inquiry, or if your inquiry has not been satisfactory addressed, please contact TRUSTe at <http://www.truste.org/watchdog.html>.   
+  
+---|---
