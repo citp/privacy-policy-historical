@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vandykes.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205020000id_/http%3A//www.vandykes.com/security.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vandykes.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602190344id_/http%3A//www.vandykes.com/security.php) for the most accurate reproduction.*
 
 # Privacy Policy from Van Dyke
 
@@ -11,7 +11,7 @@ Welcome to Van Dykes Restorers - suppliers for woodworkers and antique restorers
 ---|---  
   
   |    
-Add to cart using the catalog ID#. Don't have a catalog? [Click here](https://web.archive.org/catalog.php?PHPSESSID=8e6fc2209a781ea70bdd66658f022e94)  
+Add to cart using the catalog ID#. Don't have a catalog? [Click here](http://www.vandykes.com/catalog.php)  
   
 ---|---  
 | 
@@ -39,5 +39,15 @@ Any information collected from you with your permission may be used by Van Dykes
 |  | 
 
   
+
+
   
-[](https://web.archive.org/specials.php?PHPSESSID=8e6fc2209a781ea70bdd66658f022e94)
+[**Double Hook**](http://www.vandykes.com/product/02239957/)   
+[](http://www.vandykes.com/product/02239957/)   
+Functional, yet beautiful in its simplicity, this chrome plated hook   
+.. [more details](http://www.vandykes.com/product/02239957/).   
+Retail Price: $ ~~0.99~~   
+Special Price: $ 0.59
+
+  
+[](http://www.vandykes.com/specials.php)
