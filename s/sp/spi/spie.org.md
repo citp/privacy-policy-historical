@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spie.org privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604231523id_/http%3A//spie.org/dsp_globalPrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spie.org privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206233121id_/http%3A//spie.org/dsp_globalPrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - SPIE--The International Society for Optical Engineering. The Optics, Photonics, Fibers, and Lasers Resource.
 
@@ -26,7 +26,7 @@ _Web Site Forms_
 
 We obtain information you provide to us in online forms such as your name, address, and e-mail address. We may use this information to provide you with information about the products and services offered by SPIE. Online forms are available for customers to request information, products, and services. We collect information about you only if you voluntarily provide contact information within these forms.
 
-If you do not wish to receive relevant information through the mail from organizations other than SPIE, you may email [SPIE](https://web.archive.org/web/20040604231523id_/http%3A//spie.org/address-change@spie.org), telephone SPIE Customer Service, or indicate so on forms where the option is available.
+If you do not wish to receive relevant information through the mail from organizations other than SPIE, you may email [SPIE](https://web.archive.org/web/20041206233121id_/http%3A//spie.org/address-change@spie.org), telephone SPIE Customer Service, or indicate so on forms where the option is available.
 
 E-mail addresses are never released to third parties as a matter of SPIE policy. 
 
@@ -54,7 +54,7 @@ _Contact SPIE_
 
 This privacy policy applies to <http://spie.org/>, [http://spiedl.org](http://spiedl.org/), <http://spieworks.com/>, <http://oemagazine.com/>, <http://myspie.org/> and <http://photonicsclusters.org/>. It does not apply to Web sites of any SPIE member, affiliate, section, division, or chapter that SPIE does not own or control. It does not apply to Web sites operated by organizations or groups who associate themselves in any way with SPIE. It does not apply to any other Internet Web sites including those that have hypertext links to www.spie.org.
 
-If you have any concerns, comments or questions about this privacy policy please contact SPIE at [customer_service@spie.org](mailto:customer_service@spie.org). 
+If you have any concerns, comments or questions about this privacy policy please contact SPIE at [CS@spie.org](mailto:CS@spie.org). 
 
 You may also contact SPIE directly:
 
