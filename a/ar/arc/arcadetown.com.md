@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the arcadetown.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612070621id_/http%3A//arcadetown.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadetown.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204031851id_/http%3A//www.arcadetown.com/privacy.asp) for the most accurate reproduction.*
 
 # Free Online Games Arcade Games Free Games - Arcade Town.com
 
-**PRIVACY POLICY FOR OUR WEB SITE**
+**PRIVACY POLICY FOR ARCADETOWN.COM**
 
 We have created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses the information gathering and dissemination practices for this web site.
 
@@ -28,4 +28,4 @@ This site contains links to other sites. We are not responsible for the privacy 
 
 **CONTACTING OUR WEB SITE**
 
-If you have any comments or questions about this privacy statement or any other issues you can [contact us](https://web.archive.org/web/20040612070621id_/http%3A//arcadetown.com/contact.asp).
+If you have any comments or questions about this privacy statement or any other issues you can [contact us](https://web.archive.org/web/20041204031851id_/http%3A//www.arcadetown.com/contact.asp).
