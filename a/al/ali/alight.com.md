@@ -1,52 +1,29 @@
-> *The following text is extracted and transformed from the alight.com privacy policy that was archived on 2001-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010330231201id_/http%3A//alight.com/cust/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alight.com privacy policy that was archived on 2001-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011213215832id_/http%3A//www.alight.com/privacy-statement.html) for the most accurate reproduction.*
 
-# alight.com - privacy statement
+# privacy statement
 
-Privacy Statement  
+alight.com is a Yahoo! Store. Yahoo! hosts our store pages, ordering system, and order data.   
+While Yahoo! automatically collects order information, it does not make it available to any other party. If you accessed us through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the [Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information. ********
 
+**What personally identifiable information is collected and how is it used?**   
+  
+When you make a purchase, you are required to provide your shipping and billing address, phone number and credit card information. This information is stored in a secured database, only accessible to employees with access rights to this information. alight.com makes every effort to protect your online order information using Secure Sockets Layer (SSL) technology. 
 
-alight.com respects your privacy! However, we do collect customer information in an effort to improve your shopping experience. We recognize we must maintain and use customer information responsibly.
+Additionally, alight.com logs your Internet Protocol Address (IP). An IP address is a number that is automatically assigned to your computer every time you browse the Internet. Information from IP addresses is used for system administration, to examine overall traffic trends, troubleshooting, etc. This information is kept private. IP addresses are not linked to any personally identifiable information, meaning that although the user session is tracked, the user is anonymous. 
 
-**What personally identifiable information is collected and how is it used?**
+****
 
-We ask users to register on alight.com in order to make a purchase, receive alight.com's monthly mailings or access the site's message board. The following information is required for registration: first and last name, E–mail address, password, user name, opt–in or out of alight.com's monthly mailings and opt–in or out to receive mailings from partners and affiliates of alight.com. 
-
-When you make a purchase, we require that you also provide your shipping and billing address, phone number and credit card information (if paying by credit card). This information is stored in a secured database, only accessible to employees with access rights to this information. alight.com makes every effort to protect your online order information using Secure Sockets Layer (SSL) technology. (Details are provided in the next section.) 
-
-Additionally, alight.com logs your Internet Protocol Address (IP). An IP address is a number that is automatically assigned to your PC every time you browse the Internet. Information from IP addresses is used for system administration, to examine overall traffic trends, troubleshooting, etc. This information is used only in the aggregate form. IP addresses are not linked to any personally identifiable information, meaning the user session is tracked but the user is anonymous. 
-
-All new alight.com registrants are eligible to enter alight.com's quarterly $1,000 wardrobe sweepstakes by filling out an optional questionnaire asking for demographic information, shopping behavior, attitudes and preferences. If you decide to enter, your answers will be used only in aggregate form, for the purpose of understanding general site user profiles and size of segments. You may also provide your phone number should you choose to participate in alight.com market research. 
-
-**How secure is transaction information?**
-
-**Your information is secure with alight.com!**   
-Protecting your order information is a priority. alight.com makes every effort to protect your online order information using Secure Sockets Layer (SSL) technology. 
-
-SSL encrypts your order information to avoid the decoding of that information by anyone other than alight.com. To check the security of your connection, look at the lower left–hand corner of your browser window after accessing the server. If you see an unbroken key or a closed lock (depending on your browser), then SSL is active. You can also double check by looking at the URL line of your browser. When accessing a secure server, the first characters of the site address will change from "http" to "https". 
-
-Some versions of firewalls don't permit communication through secure servers. In that case, you will be unable to connect to the server (and you won't have to worry about placing an order through an unsecured connection). 
-
-**Cookies, what are they? How and why we use them.**   
-Cookies are bits of electronic information that a website can transfer to your computer's hard drive to help tailor and keep records of his or her visit to the site. Cookies allow web site operators to better customize site visits to the visitor's preferences. The use of cookies is standard on the Internet and many major websites use them. 
-
-alight.com uses cookies to identify returning registrants to the site so we can enhance your experience with a personal greeting on the homepage and provide a more convenient shopping experience. The cookie allows us to provide you with a personal mini–bag that appears on your screen and stores any items you dropped in the bag during your last visit. The site will also pre–populate shipping and billing (but not credit card) information to save time during check out. Please be assured that we do not use cookies to track information about other sites you may visit. 
-
-Although most browsers automatically accept cookies, you can usually change your browser to prevent cookies or notify you whenever you are sent a cookie. This gives you the option to decide whether or not to accept it. 
-
-**How to change or modify your personal information**
-
-Changing your alight.com account information is easy. Simply click on [My Account](https://web.archive.org/web/20010330231201id_/http%3A//alight.com/myaccount/manageaccnt.asp) to access and make changes to your alight.com profile — you can update your e–mail address, password and user name. You will have the opportunity to change your shipping or billing information during the check out process. If you have any questions about your account, please do not hesitate to e–mail us at [myaccount@alight.com.](mailto:myaccount@alight.com)
-
-**Does alight.com share user information with 3rd parties?**
-
-During the registration process, you will have the option to participate in third party mailings. If you opt–in to receive information from alight.com and its partners and affiliates, your first and last name and postal address may be shared with those third parties. If you opt–in to receive mailings from alight.com only or opt–out entirely, your information will not be shared with third parties. 
-
-If you no longer wish to receive future third party mailings, you can unsubscribe by sending us an e–mail to [support@alight.com](mailto:support@alight.com) with “no third parties” in the subject line. 
+**  
+Does alight.com share user information with third parties?**   
+  
+We do not currently share or have any plans to share user information with third parties. We may, in the future, share user information with selected partners if we feel they offer a valuable service or product for our users. 
 
 In the event that alight.com is merged with or acquired by a third party, we retain the right to transfer all personal (consumer) information databases to successors in business or purchasers of the site and its assets. 
 
-**How to unsubscribe from alight.com's mailing list**
+****
 
-Our unsubscribe information and link is offered on every e–mailed newsletter and promotion. You can remove yourself from our mailings at any time by sending a request to: [unsubscribe_alight@news.alight.com](mailto:unsubscribe_alight@news.alight.com), and typing “unsubscribe” in the subject line.
-
-back to top
+**  
+How to unsubscribe from alight.com's mailing list**   
+  
+Our unsubscribe information and link is offered on every e–mailed newsletter and promotion.   
+You can remove your name from our mailings at any time by sending a request to: [unsubscribe@alight.com](mailto:unsubscribe@alight.com), and typing "unsubscribe" in the subject line.
