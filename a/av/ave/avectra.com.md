@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avectra.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002133800id_/http%3A//www.avectra.com/eweb/DynamicPage.aspx%3FSite%3Davectra%26Webcode%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avectra.com privacy policy that was archived on 2004-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040507185201id_/http%3A//avectra.com/eweb/DynamicPage.aspx%3FSite%3Davectra%26webcode%3Dprivacy) for the most accurate reproduction.*
 
 # 
 
