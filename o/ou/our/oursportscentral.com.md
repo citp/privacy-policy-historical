@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oursportscentral.com privacy policy that was archived on 2000-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001216163500id_/http%3A//oursportscentral.com/ospage.cfm%3Ftopic%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oursportscentral.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602062931id_/http%3A//www.oursportscentral.com/ospage.cfm%3Ftopic%3Dprivacy) for the most accurate reproduction.*
 
 # OurSports Central
 
