@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the golden1.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402120541id_/http%3A//www.golden1.com/about_us/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golden1.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206010057id_/http%3A//www.golden1.com/privacy_security/privacy.asp) for the most accurate reproduction.*
 
 # The Golden 1 Credit Union
 
