@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketcity.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203022954id_/http%3A//www.ticketcity.com/security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketcity.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603224346id_/http%3A//www.ticketcity.com/security.asp) for the most accurate reproduction.*
 
 # TicketCity.com - Sports Tickets
 
@@ -29,7 +29,7 @@ If you have any questions about this privacy statement, the practices of this si
 
 _Customer Service Department  
 TicketCity.com  
-2025 Guadalupe, Suite #256  
+2025 Guadalupe, Suite #142  
 Austin, Texas 78705  
 _ [_Customer_service@ticketcity.com_](mailto:customer_service@ticketcity.com)
 
