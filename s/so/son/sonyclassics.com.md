@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonyclassics.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602203249id_/http%3A//www.sonypictures.com/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonyclassics.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202020759id_/http%3A//www.sonypictures.com/corp/privacy.html) for the most accurate reproduction.*
 
 # Sony Pictures - Privacy Policy
 
