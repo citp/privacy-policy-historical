@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldoffreegames.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004092319id_/http%3A//www.worldoffreegames.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldoffreegames.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621173528id_/http%3A//www.worldoffreegames.com/privacy.php) for the most accurate reproduction.*
 
 # World Of Free Games - Privacy Policy
 
@@ -41,7 +41,7 @@
 
 
   * worldoffreegames.com gives you the ability to edit your worldoffreegames.com Account Information and preferences at any time, including whether you want worldoffreegames.com to contact you. 
-  * You may request deletion of your worldoffreegames.com account by sending an email to [_info@worldoffreegames.com_](mailto:info@worldoffreegames.com).
+  * You may request deletion of your worldoffreegames.com account by using this [_form_](https://web.archive.org/contact.php).
 
 **Security**  
 
@@ -57,6 +57,6 @@ This site, World Of Free Games, uses the services of Engage for the serving and/
 **Questions or Suggestions**  
 
 
-  * If you have questions or suggestions send an email to [_info@worldoffreegames.com_](mailto:info@worldoffreegames.com). 
+  * If you have questions or suggestions contact us using this [_form_](https://web.archive.org/contact.php). 
 
 
