@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soberrecovery.com privacy policy that was archived on 2001-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010803081419id_/http%3A//soberrecovery.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soberrecovery.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210055939id_/http%3A//www.soberrecovery.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Untitled Document
 
