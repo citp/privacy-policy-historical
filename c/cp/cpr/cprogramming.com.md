@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cprogramming.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206194757id_/http%3A//www.cprogramming.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cprogramming.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204172556id_/http%3A//www.cprogramming.com/privacy.html) for the most accurate reproduction.*
 
 # Cprogramming.com: Privacy Policy
 
@@ -27,5 +27,5 @@ We do not track individual users on the site, except in extreme cases to respond
 \-----  
 Interested in [advertising with us](http://www.cprogramming.com/advertising.html)?  
 Please read our [privacy policy](http://www.cprogramming.com/privacy.html).  
-[Copyright](http://www.cprogramming.com/use.html) © 1997-2003 Cprogramming.com. All rights reserved.  
+[Copyright](http://www.cprogramming.com/use.html) © 1997-2005 Cprogramming.com. All rights reserved.  
 Design by [Geodesy Designs](http://www.geodesydesign.com/)
