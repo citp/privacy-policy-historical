@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the spss.com privacy policy that was archived on 2000-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000418100813id_/http%3A//www.spss.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spss.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206125800id_/http%3A//www.spss.com/privacy.htm) for the most accurate reproduction.*
 
 # Product and Service Inquiries
 
-**
+  
+
 
 SPSS Inc. Web Privacy Policy
-
-**
 
 Your privacy is very important to us. Because we gather certain types of information about the visitors of SPSS Inc.'s sites and services, we believe you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather, how we use it and how to correct, change or delete it.
 
@@ -158,13 +157,3 @@ _**
 You can direct all questions, comments and concerns to [webmaster@spss.com](mailto:webmaster@spss.com). We are always interested in hearing from our sites' visitors -- that's the best way for us to learn how to improve our sites so they give you a better experience.
 
 Note: This site contains links to other Web sites. SPSS Inc. is not responsible for the privacy practices or the content of those Web sites.
-
-  
-[Data Mining](https://web.archive.org/datamine/) | [Customer Services](https://web.archive.org/service/) | [Technical Support](https://web.archive.org/tech/) | [SPSS Worldwide](https://web.archive.org/corpinfo/) | [Press Center](https://web.archive.org/press/)  
-[Investor Center](https://web.archive.org/investorcenter/) | [Cool Stuff](https://web.archive.org/cool/) | [Consulting](https://web.archive.org/consulting/) | [SPSS Training](https://web.archive.org/training/) | [How to Order](https://web.archive.org/order/)   
-[Software](https://web.archive.org/software/) | [Newsletters](https://web.archive.org/newsltrs/) | [Books & References](https://web.archive.org/books/) | [FAQs](https://web.archive.org/corpinfo/faqs.htm)   
-
-
-[Webmaster](mailto:webmaster@spss.com) | [Talk to Us](https://web.archive.org/talk/) | [Search](https://web.archive.org/search.htm) | [SPSS Home](https://web.archive.org/)  
-**Copyright © 1999, SPSS Inc. All rights reserved.**  
-[Terms and Conditions](https://web.archive.org/terms.htm)
