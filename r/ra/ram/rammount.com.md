@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rammount.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610111446id_/http%3A//rammount.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rammount.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204163952id_/http%3A//rammount.com/privacy.htm) for the most accurate reproduction.*
 
 # NPI Privacy Page
 
