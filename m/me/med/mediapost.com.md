@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediapost.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602010451id_/http%3A//www.mediapost.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediapost.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204232543id_/http%3A//www.mediapost.com/privacy.htm) for the most accurate reproduction.*
 
 # MediaPost Help
 
@@ -11,7 +11,7 @@ MediaPost Communications may also automatically collect information such as your
    
   
 | []() **Updating or Opting-Out**  
-  |  If you want to change or update your registration information please visit [www.mediapost.com](http://www.mediapost.com/) and select 'my profile' from the menu, and update your information. If you would like to opt-out as a member of MediaPost Communications, please send an email to [adam@mediapost.com](mailto:adam@mediapost.com) or call us at 203-222-0330 ext-323. We will delete you from our database.  
+  |  If you want to change or update your registration information please visit [www.mediapost.com](http://www.mediapost.com/) and select 'my profile' from the menu, and update your information. If you would like to opt-out as a member of MediaPost Communications, please send an email to [adam@mediapost.com](mailto:adam@mediapost.com) or call us at 212-204-2008. We will delete you from our database.  
    
 | []() **Cookies**  
   | MediaPost Communications may place a "cookie" in the browser files of your computer. A cookie is a file that identifies you as a unique user. The cookie itself does not contain any individual information about you, although it will enable MediaPost Communications to relate your use of our site to information that you have specifically provided to us. We may use cookies to provide you with information, to save your password so that you do not have to re-enter it each time you visit our site, for retaining you selections between screens during a session, and for other purposes. The first time you register on to our site, you may be asked to accept a cookie. The cookie will remember your user name and password every time you access the site. You do not need to accept this cookie to use our services, but you will have to enter your name and password every time you visit the site.  
