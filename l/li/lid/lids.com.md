@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the lids.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622103534id_/http%3A//www.lids.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lids.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204183228id_/http%3A//www.lids.com/privacy_policy.html) for the most accurate reproduction.*
 
 # HATWORLD/LIDS - Privacy Policy
 
 **Privacy Policy** **PRIVACY & SECURITY**   
-hatworld.com™ and lids.com™ knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting hatworld.com™ and lids.com™, you are accepting the practices described in this Privacy Notice.**
+hatworld.com™ and lids.com™ know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting hatworld.com™ and lids.com™, you are accepting the practices described in this Privacy Notice.**
 
 **The hatworld.com™ and lids.com™ Safe Shopping Guarantee**   
 The hatworld.com™ and lids.com™ Safe Shopping Guarantee protects you while you shop at hatworld.com™ and lids.com™, so that you never have to worry about credit card safety. Period. We guarantee that every transaction you make at hatworld.com™ and lids.com™ will be safe. This means that you pay nothing if unauthorized charges are made to your card as a result of shopping at hatworld.com™ and lids.com™. 
