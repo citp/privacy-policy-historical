@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the history.ca privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609053834id_/http%3A//history.ca/footer/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the history.ca privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017071319id_/http%3A//www.history.ca/footer/default.asp) for the most accurate reproduction.*
 
 # HistoryTelevision.ca ::
 
