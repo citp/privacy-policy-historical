@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apollo.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202032332id_/http%3A//apollo.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apollo.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605094623id_/http%3A//apollo.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
