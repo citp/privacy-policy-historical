@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the nystax.gov privacy policy that was archived on 2003-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030801144804id_/http%3A//www.nystax.gov/nyshome/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nystax.gov privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402031443id_/http%3A//nystax.gov/nyshome/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Notice
-
-**Privacy Policy**
-
-* * *
 
 ### Introduction
 
@@ -18,13 +14,13 @@ For purposes of this policy, “personal information” means any information co
 
 When visiting this Web site DTF automatically collects and stores the following information about your visit: 
 
-| (i)  |  The Internet Protocol address and domain name used, but not the e-mail address. The Internet Protocol address is a numerical identifier assigned either to your Internet service provider or directly to your computer;   
+|  | (i)  | The Internet Protocol address and domain name used, but not the e-mail address. The Internet Protocol address is a numerical identifier assigned either to your Internet service provider or directly to your computer;   
 ---|---|---  
-| (ii)  |  The type of browser and operating system used;   
-| (iii)  |  The date and time you visited this site;   
-| (iv)  |  The Web pages or services you accessed at this site;   
-| (v)  |  Any form, publication or document which you download; and   
-| (vi)  |  Depending on how you access DTF’s site, DTF may also, on occasion, capture the Web site you visited prior to coming to DTF’s Web site.   
+| (ii)  | The type of browser and operating system used;   
+| (iii)  | The date and time you visited this site;   
+| (iv)  | The Web pages or services you accessed at this site;   
+| (v)  | Any form, publication or document which you download; and   
+| (vi)  | Depending on how you access DTF’s site, DTF may also, on occasion, capture the Web site you visited prior to coming to DTF’s Web site.   
   
 None of the foregoing information is deemed to constitute personal information. 
 
@@ -60,7 +56,7 @@ DTF may disclose personal information to federal or state law enforcement author
 
 ### Retention of Information Collected Through this Web site
 
-The information collected through this Web site is retained by DTF in accordance with the records retention and disposition requirements of the New York State Arts & Cultural Affairs Law. Information on the requirements of the Arts & Cultural Affairs Law may be found at <http://www.archives.nysed.gov/a/nysaservices/ns_gov_start_records-dis.shtml>. In general, the Internet services logs of DTF, comprising electronic files or automated logs created to monitor access and use of DTF services provided through this Web site, are retained for at least three months. Information, including personal information, that you submit in an e-mail or when you conduct an online transaction is retained in accordance with the records retention and disposition schedule established for the records of the program unit to which you submitted the information. 
+The information collected through this Web site is retained by DTF in accordance with the records retention and disposition requirements of the New York State Arts & Cultural Affairs Law. Information on the requirements of the Arts & Cultural Affairs Law may be found at [ http://www.archives.nysed.gov/a/nysaservices/ns_mgr_laws.shtml](http://www.archives.nysed.gov/a/nysaservices/ns_mgr_laws.shtml). In general, the Internet services logs of DTF, comprising electronic files or automated logs created to monitor access and use of DTF services provided through this Web site, are retained for at least three months. Information, including personal information, that you submit in an e-mail or when you conduct an online transaction is retained in accordance with the records retention and disposition schedule established for the records of the program unit to which you submitted the information. 
 
 ### Access to and Correction of Personal Information Collected Through this Web site
 
@@ -82,7 +78,7 @@ DTF is committed to protecting personal information collected through this Web s
 
 In addition, DTF has implemented procedures to safeguard the integrity of its information technology assets including, but not limited to, authentication, monitoring, auditing, and encryption. These security procedures have been integrated into the design, implementation, and day-to-day operations of this Web site as part of our continuing commitment to the security of electronic content as well as the electronic transmission of information. 
 
-For Web site security purposes and to maintain the availability of the Web site for all users, DTF employs software to monitor traffic to identify unauthorized attempts to upload or change information or otherwise damage this Web site. For additional information concerning Security at DTF’s Web site, see DTF’s [Security page](https://web.archive.org/web/20030801144804id_/http%3A//www.nystax.gov/nyshome/securesite.htm). 
+For Web site security purposes and to maintain the availability of the Web site for all users, DTF employs software to monitor traffic to identify unauthorized attempts to upload or change information or otherwise damage this Web site. For additional information concerning Security at DTF’s Web site, see DTF’s [Security page](https://web.archive.org/web/20040402031443id_/http%3A//nystax.gov/nyshome/securesite.htm). 
 
 ### Disclaimer
 
@@ -90,11 +86,11 @@ The information provided in this privacy policy should not be construed as givin
 
 * * *
 
-[Tax Home](https://web.archive.org/) | [Site Index](https://web.archive.org/nyshome/index.htm) | [Search](https://web.archive.org/search/search.asp) | [Individuals](https://web.archive.org/pit/) | [Businesses](https://web.archive.org/sbc/) | [Practitioners](https://web.archive.org/tp/)  
+  [Tax Home](https://web.archive.org/) | [Site Index](https://web.archive.org/nyshome/index.htm) | [Search](https://web.archive.org/search/search.asp) | [Individuals](https://web.archive.org/pit/) | [Businesses](https://web.archive.org/sbc/) | [Practitioners](https://web.archive.org/tp/)  
 [Forms & Instructions](https://web.archive.org/forms/) | [Publications & Technical Bulletins](https://web.archive.org/pubs_and_bulls/) | [Policy & Statistical Reports](https://web.archive.org/Statistics/)  
-[Online Services](https://web.archive.org/nyshome/online.htm) | [FAQs](https://web.archive.org/faq/) | [Tax News](https://web.archive.org/taxnews/default.htm) | [How to Reach Us](https://web.archive.org/nyshome/how_to_reach.htm) | [Related Links](https://web.archive.org/nyshome/related.htm) | [Career Opportunities](https://web.archive.org/empopps/empopps.htm)  
+[Electronic Services](https://web.archive.org/nyshome/online.htm) | [Find Answers](https://web.archive.org/faq/) | [Tax News](https://web.archive.org/taxnews/default.htm) | [Contact Us](https://web.archive.org/nyshome/how_to_reach.htm) | [Related Links](https://web.archive.org/nyshome/related.htm) | [Career Opportunities](https://web.archive.org/empopps/default.htm)  
 [Disclaimer](https://web.archive.org/nyshome/disclaimer.htm) | [Privacy](https://web.archive.org/nyshome/privacy_policy.htm) | [Security](https://web.archive.org/nyshome/securesite.htm)
 
 * * *
 
-Last Modified:  February 6, 2003
+Last Modified:  March 10, 2004
