@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recreation.gov privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205234800id_/http%3A//www.recreation.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recreation.gov privacy policy that was archived on 2001-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010605223553id_/http%3A//www.recreation.gov/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for this Website for www.recreation.gov
 
@@ -23,4 +23,4 @@ If you identify yourself by sending an E-mail or filling out a questionnaire or 
     You also may decide to send us personally-identifying information, for example, in an electronic mail message containing a complaint. We use personally-identifying information from consumers in various ways to further our **customer's protection and to provide better service. This may be to correct broken links that you have identified or provide additional information that you have requested.** ******Any information that we collect via a questionnaire or a guestbook may be subject to disclosure, but will be handled in accordance with the requirements of the**[ **Privacy Act**](http://www.usdoj.gov/oip/overview.pdf) **and the**[ **Freedom of Information Act**](http://www.doi.gov/foia/foiaregs.html) **to ensure the greatest protection of personal privacy in the face of any required disclosure.**  
 **_    We will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us. Except as might be required by law, we do not share any information we receive with outside parties.
 _**
-    Return to [www.recreation.gov](https://web.archive.org/web/20001205234800id_/http%3A//www.recreation.gov/index.htm)
+    Return to [www.recreation.gov](https://web.archive.org/web/20010605223553id_/http%3A//www.recreation.gov/index.htm)
