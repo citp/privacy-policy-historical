@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wedj.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207014024id_/http%3A//wedj.com/wedjcom.nsf/privacy.html%21OpenPage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wedj.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207000756id_/http%3A//www.wedj.com/wedjcom.nsf/privacy.html%21OpenPage) for the most accurate reproduction.*
 
 # WeDJ.com
 
@@ -73,8 +73,8 @@ To protect your privacy and security, we will also take reasonable steps to veri
 ### To contact us, regarding any privacy concerns, you can reach us at:
 
 WeDJ.com  
-1519 W. Moss Avenue   
+950 N. Douglas Suite C   
 Peoria, IL 61606 USA   
 email: support@wedj.com  
-phone: 888.643.4016  
+phone: 309.494.9858  
 
