@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hancockbank.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621170600id_/http%3A//www.hancockbank.com/home/home_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hancockbank.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207120317id_/http%3A//hancockbank.com/home/home_privacy.asp) for the most accurate reproduction.*
 
 # Hancock Bank Privacy Policy
 
@@ -112,8 +112,8 @@ Through its Web site, Hancock Bank offers opportunities to apply for various pro
 ** Protecting Your Bank Online  
 **When you bank online with Hancock Bank, we, along with our third-party service providers who bring these services to you, have access to your information. Information is retained on our system or the system of the appropriate third-party service provider, depending upon what is required to serve your needs. We use state-of-the-art Internet technology, supported by the third-party service providers that we work with, to make online banking secure and to protect your personal information. We also require an I.D. and password to access your accounts. If you do not provide this information, we cannot establish an online banking service for you. You can also help maintain the security of your banking information by not sharing your ID or password with anyone, by changing your password regularly, and by remembering to sign off. 
 
-** Planning Tools Do Not Capture Personal Data  
-**There are many planning tools throughout this Site to help you make the financial decisions that are right for you in the privacy of your home. We encourage you to try all of our "what-if" scenarios as often as you like. When you use various planning tools on our Site, the calculations run on your computer or our server. We do not capture the personal information that you provide using these planning tools. 
+** Planning Tools and Personal Data  
+**There are many planning tools and educational topics throughout this Site to help you make the financial decisions that are right for you in the privacy of your home. We encourage you to try all of our "what-if" scenarios as often as you like. When you use various planning tools on our Site, the calculations run on your computer or our server. The information you enter is retained to assist you on return visits to our site as it relates to the use of the tools and topics. The information is also used to present specific product/service information related to those tools or topics when visiting our web-site. You will not be solicited by telephone or e-mail unless you specifically request to have a representative contact you.
 
 **Applications for Employment**  
 Hancock Bank offers visitors to its Web site the opportunity to inquire about employment opportunities posted on the Web site. When enabled, applicants may also submit online resumes on the Web site. The information submitted is used solely to evaluate prospective candidates and to communicate regarding an open position. 
@@ -131,7 +131,7 @@ A cookie is a small piece of information about an Internet session that may be c
 
 
 
-* **Except for Online Banking-HandyNet.** Please refer to [Online Banking FAQ](https://web.archive.org/web/20030621170600id_/http%3A//www.hancockbank.com/banking/faq_online.html) for more information regarding the use of Cookies with Online Banking. 
+* **Except for Online Banking-HandyNet.** Please refer to [Online Banking FAQ](https://web.archive.org/web/20031207120317id_/http%3A//hancockbank.com/banking/faq_online.html) for more information regarding the use of Cookies with Online Banking. 
 
 ** Use of Information Collected **  
 Hancock Bank uses the information collected from visitors to its Web sites to address the specific needs of those visitors and to provide better customer service, including the provision of the latest information regarding Hancock Bank products. The information collected also is used to provide a record of communications between Hancock Bank and its Web site visitors and to comply with any applicable legal and/or regulatory requirements. 
