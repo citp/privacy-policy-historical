@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quiksilver.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204033311id_/http%3A//quiksilver.com%3FpageID%3D2043) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quiksilver.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404030428id_/http%3A//quiksilver.com%3FpageID%3D2043) for the most accurate reproduction.*
 
 # Quiksilver : Privacy Policy
 
