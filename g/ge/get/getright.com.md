@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getright.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210084507id_/http%3A//www.getright.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getright.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403141648id_/http%3A//www.getright.com/privacy.html) for the most accurate reproduction.*
 
 # GetRight Download Manager: Resume Downloads, Schedule Downloads, Faster Downloads
 
@@ -17,8 +17,8 @@ Headlight Software, Inc. does not use "cookies" or other methods to track your u
 
   
 _The current versions and builds of GetRight to download here no longer use Radiate/Aureate Media or Conducent for any of the ads._   
-But older versions did, and are still in use. (If you've got an older one, [upgrade here](https://web.archive.org/web/20041210084507id_/http%3A//www.getright.com/get.html).)   
+But older versions did, and are still in use. (If you've got an older one, [upgrade here](https://web.archive.org/web/20050403141648id_/http%3A//www.getright.com/get.html).)   
 Headlight Software, Inc. has worked with third parties (Radiate/Aureate Media and Conducent) to show advertising in the GetRight software. A form was shown when using the Radiate or Conducent system so you may fill in as much or as little demographic information about yourself as you want. All information provided in this way is _optional_ and is not personally identifiable information. No other information is gathered from your computer.   
 [Radiate's privacy policy.](http://www.radiate.com/privacy/)   
-There have been some false rumors and concerns about Radiate/Aureate's system. [Aureate/Radiate Concerns](https://web.archive.org/web/20041210084507id_/http%3A//www.getright.com/aureate.html) 
+There have been some false rumors and concerns about Radiate/Aureate's system. [Aureate/Radiate Concerns](https://web.archive.org/web/20050403141648id_/http%3A//www.getright.com/aureate.html) 
 |  |  |  | 
