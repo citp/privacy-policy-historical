@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamhost.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331041616id_/http%3A//www.dreamhost.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamhost.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204214128id_/http%3A//dreamhost.com/privacy.html) for the most accurate reproduction.*
 
 # [ DreamHost : Technical Support : Privacy Policy ]
 
