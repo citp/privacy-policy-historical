@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the phs.org privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609090642id_/http%3A//phs.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phs.org privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207205116id_/http%3A//www.phs.org/privacy.htm) for the most accurate reproduction.*
 
 # Presbyterian Healthcare Services - Privacy Policy
 
-[](https://web.archive.org/web/20020609090642id_/http%3A//phs.org/index.htm) |   
+[](https://web.archive.org/web/20021207205116id_/http%3A//www.phs.org/index.htm) |   
 ---|---  
   
 **Presbyterian Healthcare Services Privacy Policy**
@@ -75,6 +75,6 @@ Telephone: (505) 923-8612
 
 * * *
 
-[Home](https://web.archive.org/web/20020609090642id_/http%3A//phs.org/index.htm) | [About PHS](https://web.archive.org/web/20020609090642id_/http%3A//phs.org/aboutpres/apabout.htm) | [Health Info](https://web.archive.org/web/20020609090642id_/http%3A//phs.org/healthinfo/hihealthinfo.htm) | [Health Plans](https://web.archive.org/web/20020609090642id_/http%3A//phs.org/healthplan/hphealthplan.htm) | [Employment](https://web.archive.org/web/20020609090642id_/http%3A//phs.org/employment/eoemployment.htm) | [Facilities](https://web.archive.org/web/20020609090642id_/http%3A//phs.org/facilities/facfacilities.htm) | [Providers](https://web.archive.org/web/20020609090642id_/http%3A//phs.org/providers/prproviders.htm) | [News](https://web.archive.org/web/20020609090642id_/http%3A//phs.org/news/nenews.htm) | [Disclaimer](https://web.archive.org/web/20020609090642id_/http%3A//phs.org/disclaimer.htm) | [Site Map](https://web.archive.org/web/20020609090642id_/http%3A//phs.org/sitemap.htm) | [E-mail](https://web1.phs.org/healthplan/hprequest.htm) | [Search](http://www.phs.org:8765/)
+[Home](https://web.archive.org/web/20021207205116id_/http%3A//www.phs.org/index.htm) | [About PHS](https://web.archive.org/web/20021207205116id_/http%3A//www.phs.org/aboutpres/apabout.htm) | [Health Info](https://web.archive.org/web/20021207205116id_/http%3A//www.phs.org/healthinfo/index.htm) | [Health Plans](https://web.archive.org/web/20021207205116id_/http%3A//www.phs.org/healthplan/hphealthplan.htm) | [Employment](https://web.archive.org/web/20021207205116id_/http%3A//www.phs.org/employment/eoemployment.htm) | [Facilities](https://web.archive.org/web/20021207205116id_/http%3A//www.phs.org/facilities/facfacilities.htm) | [Providers](https://web.archive.org/web/20021207205116id_/http%3A//www.phs.org/providers/index.htm) | [News](https://web.archive.org/web/20021207205116id_/http%3A//www.phs.org/news/nenews.htm) | [Disclaimer](https://web.archive.org/web/20021207205116id_/http%3A//www.phs.org/disclaimer.htm) | [Site Map](https://web.archive.org/web/20021207205116id_/http%3A//www.phs.org/sitemap.htm) | [E-mail](https://secure.phs.org/healthplan/hprequest.htm) | [Search](http://www.phs.org:8765/)
 
 All content on this site is copyrighted by Presbyterian Healthcare Services. No images or content may be reproduced for commercial use or distribution without the written authorization of PHS. 121701
