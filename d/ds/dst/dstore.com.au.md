@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dstore.com.au privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603211422id_/http%3A//dstore.com.au/help/%3Fpage%3D30) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dstore.com.au privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203205613id_/http%3A//dstore.com.au/help/%3Fpage%3D30) for the most accurate reproduction.*
 
-# dStore.com.au - Australian Online Department Store
+# dStore.com.au - Your Online Shopping Department Store
 
 dStore understands that privacy is important to you. dStore is also required to comply with the requirements of the Privacy Amendment (Private Sector) Act 2000.
 
