@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the defense.gov privacy policy that was archived on 2004-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040406142624id_/http%3A//www.defense.gov/warning/warn-dl.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defense.gov privacy policy that was archived on 2004-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041025203449id_/http%3A//www.defense.gov/warning/warn-dl.html) for the most accurate reproduction.*
 
 # U.S. Department of Defense - Privacy and Security Notice
 
