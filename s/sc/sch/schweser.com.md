@@ -1,6 +1,38 @@
-> *The following text is extracted and transformed from the schweser.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621115415id_/http%3A//www.schweser.com/faq/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schweser.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205023011id_/http%3A//schweser.com/help/privacypolicy.php) for the most accurate reproduction.*
 
-# Schweser Study Program
+# Schweser Study Program: The Trusted Leader in CFA Review, Study Materials and Exam Preparation
+
+|  Login to Online Access  
+---  
+  Username: |   
+  Password: |   
+  |     
+[Recover Password](http://www.schweser.com/account/recover_password.php) | [Help](http://www.schweser.com/account/login_help.php)  
+ Announcements   
+  
+ November 26, 2003  
+  
+[Now Shipping 2004 CFA Level 2 Study Notes and SchweserPro Testing Software.](https://web.archive.org/cfa2.php?PHPSESSID=15b21a8030f64f0339183dfcc5d28fb6)  
+  
+ November 24, 2003  
+  
+Vancouver, BC Weekly Program Announced...details to follow.  
+  
+ November 17, 2003  
+  
+[Now Shipping 2004 CFA Level 1 Study Notes and SchweserPro Testing Software.](https://web.archive.org/cfa1.php?PHPSESSID=15b21a8030f64f0339183dfcc5d28fb6)  
+  
+ October 15, 2003  
+  
+[AIMR® releases the October Candidate Bulletin.](https://web.archive.org/news/index.php?PHPSESSID=15b21a8030f64f0339183dfcc5d28fb6#EVENTS)  
+  
+ September 11, 2003  
+  
+[Schweser / NYSSA Press Release](https://web.archive.org/news/announcements.php?announcement=nysociety&PHPSESSID=15b21a8030f64f0339183dfcc5d28fb6)  
+  |    
+
+
+__  Privacy Policy
 
 We understand that our visitors and members need to be in control of their personal information. This policy explains how and why we collect information from you and how we use it. Our policies and systems are designed to give you a private, secure means of communicating with us and using the services of our site.
 
@@ -126,3 +158,5 @@ If you have questions or concerns regarding this privacy statement, you should c
 By using this website, you signify your consent to schweser.com's Privacy Policy. If you do not agree to this, please do not use our websites or services. Your continued use of our websites or services following the posting of changes to these terms will mean you accept those changes in accordance with the Terms of Use.
 
 For us to provide the appropriate training program and relevant content for you, we must receive your consent to collect and use your information as stated above.
+
+|   |  
