@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidzbop.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206085909id_/http%3A//kidzbop.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidzbop.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605090049id_/http%3A//www.kidzbop.com/privacy.html) for the most accurate reproduction.*
 
 # Kidz Bop
 
@@ -9,15 +9,15 @@ To help ensure a rewarding online experience for all visitors, we provide this s
 As we continue to offer our visitors new and different types of content and services, we may modify our practices from time to time.
 
 **What Information Is Collected?**  
-At KidzBop.com, it's our policy to create website content that requires minimum collection of information from our visitors. From time to time, however, we may request limited personally identifiable information (e.g. child's e-mail address and/or e-mail address of parent or third party), as explained below, in order to conduct online contests or sweepstakes or offer other online activities.
+At KidzBop.com, it's our policy to create website content that requires minimum collection of information from our visitors. From time to time, however, we may request limited personally identifiable information (e.g. a child's e-mail address and/or the e-mail address of a parent or third party), as explained below, in order to conduct online contests or sweepstakes or offer other online activities.
 
 **Contests and Sweepstakes**  
-KidzBop.com occasionally offers contests and sweepstakes, which may be entered online. To participate in a contest or sweepstakes, a child is asked to provide his or her first name and e-mail address. E-mail addresses are collected for the purpose of entering the online sweepstakes or contest on a one-time basis and are used to notify winners of the sweepstakes or contest. Winners will be required to return a completed prize acceptance form contained in the notification e-mail by facsimile or US mail within a designated time period (along with the signature of a parent or legal guardian for all minors). 
+KidzBop.com occasionally offers contests and sweepstakes, which may be entered online. To participate in a contest or sweepstakes, a child is asked to provide his or her first name and e-mail address. E-mail addresses are collected for the purpose of entering the online sweepstakes or contest on a one-time basis and are used to notify winners of the sweepstakes or contest. The parent or guardian of the winner will be required to return a completed prize acceptance form contained in the notification e-mail by facsimile or US mail within a designated time period.
 
-Sometimes, when we conduct contests or sweepstakes that may involve more than a one-time contact, we ask additionally for the e-mail address of his or her parent. In such types of contests or sweepstakes, we send the child's parent an e-mail informing him or her of the child's entry and give the parent the option to have the child's entry deleted. All the information collected by KidzBop.com is securely maintained and used only for the purpose of conducting the contest or sweepstakes. Once the contest or sweepstakes is finished, we then delete any personal information collected. The information collected in a KidzBop.com sweepstakes may be passed to a fulfillment house which may use the information to help run the contest or sweepstakes and may not use it for other purposes and has agreed to maintain the confidentiality of such information.
+Sometimes, when we conduct contests or sweepstakes that may involve more than a one-time contact, we ask additionally for the e-mail address of the entrant's parent or guardian. In such types of contests or sweepstakes, we send the child's parent an e-mail informing him or her of the child's entry and give the parent the option to have the child's entry deleted. All the information collected by KidzBop.com is securely maintained and used only for the purpose of conducting the contest or sweepstakes. Once the contest or sweepstakes is finished, we then delete any personal information collected. The information collected in a KidzBop.com sweepstakes may be passed on to a fulfillment house which may use the information to help run the contest or sweepstakes and may not use it for other purposes.
 
 **E-mail**  
-KidzBop.com may also provide the opportunity to send e-mail to us. All information collected is used only to respond to e-mail questions and/or requests.
+KidzBop.com may also provide the opportunity for visitors to send e-mail to us. All information collected is used only to respond to e-mail questions and/or requests.
 
 **Use of Information**  
 KidzBop.com uses or may use personally identifiable information that children provide for such purposes as conducting contests or sweepstakes, and responding to their questions regarding our products and services. KidzBop.com currently does not disclose to third parties personally identifiable information that children provide, except from time to time, we may transfer, disclose or share such information with third parties who may be engaged by us specifically to handle and deliver certain online activities (e.g. conducting contests and sweepstakes). Such third parties have access to personal information needed to perform their functions, but may not use it for other purposes. Additionally, in the event that all or substantially all of the assets relating to KidzBop.com are transferred or sold to another entity, personally identifiable information submitted to us may be transferred to the acquiring entity. Finally, we may also disclose personally identifiable information to third parties in order to comply with law or requests by law enforcement agencies, to enforce our Terms and Conditions or to protect the rights, property or safety of our website, users of our website and others. 
@@ -25,10 +25,10 @@ KidzBop.com uses or may use personally identifiable information that children pr
 **Cookies and Log Data**  
 Cookies are information files that your web browser places on the hard drive of your computer when you visit a website. Cookies cannot damage user files, nor can they read information from a user's hard drive. Cookies allow websites to "remember" users activities on a website as well as users visits to a site. At KidzBop.com, cookies are used to determine the number of unique visitors to our website over a given period. We do not store any personal information into cookies nor do we link or combine information collected through cookies to any personal information that children submit online when participating in our activities. You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser.
 
-We use log data - aggregate information \- to improve access to our content based on our visitors' browsers and operating system types to make our content available to as many children as possible. We do not link the log data collected to the personal information that children submit online when participating in our activities. 
+We use log data - aggregate information - to improve access to our content based on our visitors' browsers and operating system types to make our content available to as many children as possible. We do not link the log data collected to the personal information that children submit online when participating in our activities.
 
 **Security**  
-KidzBop.com has taken steps to ensure that personally identifiable information collected is secure
+KidzBop.com has taken steps to ensure that personally identifiable information collected is secure.
 
 KidzBop.com provides links to other websites that may have their own information collection practices. These other websites are governed by their own privacy policies or information collection practices, which may be substantially different from ours. We encourage visitors to other websites to review the privacy policies and information collection practices of those websites. 
 
@@ -38,4 +38,4 @@ If you have any questions, comments or concerns regarding KidzBop.com's privacy 
 
 The KidzBop.com website is intended for domestic viewers and is consequently directed towards residents of the United States. 
 
-This privacy policy was last updated on Feb 27, 2003.
+This privacy policy was last updated on May 19, 2003.
