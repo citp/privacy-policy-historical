@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logosoftwear.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205210400id_/http%3A//www.logosoftwear.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logosoftwear.com privacy policy that was archived on 2001-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010614085225id_/http%3A//www.logosoftwear.com/privacy.html) for the most accurate reproduction.*
 
 # Your source for custom caps,imprinted tee shirts,embroidered caps,imprinted t-shirts,embroidered hats,imprinted shirts and custom golf shirts - LogoSoftwear.com
 
