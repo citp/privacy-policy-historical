@@ -1,39 +1,49 @@
-> *The following text is extracted and transformed from the aquabid.com privacy policy that was archived on 2000-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001028135251id_/http%3A//aquabid.com/cgi-bin/auction/auction.cgi%3Fhelppriv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquabid.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603230229id_/http%3A//www.aquabid.com/help/helppriv.htm) for the most accurate reproduction.*
 
-# AquaBid.com
+# AquaBid.com - Privacy Policy
 
-| 
+**General**
+
+AquaBid.com respects the privacy of every individual who visits our websites. This Privacy Policy outlines the information AquaBid.com may collect and how we may use that information.
+
+  
+**Personal Data**
+
+AquaBid.com will not collect any personally identifiable information about you (e.g., your name, address, telephone number or email address ("personal data")) through our websites unless you have provided it to us voluntarily. If you do not want your personal data collected, please do not submit it to us.
+
+When you do provide us with personal data, we may use that information in the following ways, unless stated otherwise: we may store and process that information to better understand your needs and how we can improve our products and services; we (or a fulfillment house or other third party on our behalf in connection with a promotion) may use that information to contact you; and/or we may provide other third parties with aggregate - but not individual - information about visitors to or users of our sites. We do not now and do not intend to sell, rent or market personal data about you to third parties.
 
 When you provide your personal information to this auction (such as name, address, phone number, company name, email address, credit card number, or the products you are shopping for or purchasing) **we will not give or sell your individual information to any outside company** for its use in marketing or solicitation. We will maintain the confidentiality of your personal information and **it will be used only to support your customer relationship with** **us**. Additionally, internal practices help protect your privacy by limiting employee access to and use of customer data.
 
-If you have any questions or concerns in this area we are happy to respond personally to you; e-mail us at the e-mail address at the bottom of this page. 
+If you have any questions or concerns in this area we are happy to respond personally to you; [e-mail us](mailto:privacy@aquabid.com).
 
 To elaborate: All exchanges between you and us will remain _confidential_ with no personally identifiable information being sold or provided to any third party.
 
 This includes:
 
   * IP addresses and other information (browser, platform, referral URL etc.) contained in web server logs
-
   * E-mail addresses contained in messages sent to us.
-
   * Credit card or other financial information.
-
   * Names, addresses, telephone numbers, etc.
 
 
 
-
-This auction contains links to other sites. We are not responsible for the privacy practices or the content of such Web sites.
-
-We will also _respect any requests for anonymity_ when disclosing interesting news or information.
-
-You _will not receive any unsolicited e-mail_ from us unless you sign up for planned notification services, submitted an e-mail requiring a response and/or subscribed to a mailing list.
-
-_**Your consent**_ :   
-By using our Web site, you consent to the collection and use of this information by this auction. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
-
-So, bid with confidence and the very best regards to you from everyone here and, please remember, if you have any questions, drop us an e-mail to the address below.
-
-|   
   
-We here at **AquaBid.com** want your auction experience to be the very best possible. Please remember, if you have any questions, drop us an e-mail at [mark@aquabid.com](mailto:mark@aquabid.com).
+**Children**
+
+AquaBid.com has no intention of collecting any personal data from individuals under thirteen years of age. Where appropriate, the Company will specifically instruct children not to submit such information on our websites and/or will take reasonable steps to ensure parental consent to such submission.
+
+Parents should be aware that AquaBid.com's Privacy Policy will govern our use of personal data, but that information which is voluntarily given by children -- or others -- in chat sessions, email exchanges, bulletin boards or the like may be used by other parties to generate unsolicited mail. AquaBid.com encourages all parents to instruct their children in the safe and responsible use of their personal data while using the Internet.
+
+  
+**Additional Information Collected Automatically**
+
+In some cases, we may automatically (i.e., not via registration) collect technical information when you connect to our site that is not personally identifiable. Examples of this type of information include the type of Internet Browser you are using, the type of computer operating system you are using and the domain name of the website from which you linked to our site.
+
+  
+**Information Placed Automatically on Your Computer -- Cookies**
+
+When you view one of our websites, we may store some information on your computer. This information will be in the form of a "Cookie" or similar file and can help us in many ways. For example, Cookies allow us to tailor a website to better match your interests and preferences. With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies or receive a warning before a Cookie is stored. Please refer to your Browser instructions or help screen to learn more about these functions.  
+  
+Copyright ©2000 All Rights Reserved. AquaBid.com  
+Site by AquaNetwork.com
