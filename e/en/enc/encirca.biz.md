@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the encirca.biz privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211101137id_/http%3A//www.encirca.biz/html/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the encirca.biz privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605120017id_/http%3A//www.encirca.biz/html/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - EnCirca
 
@@ -18,9 +18,7 @@ We promise you that:
 **
   * **You can unsubscribe from our service at any time.**
 
-For the rest of this document, "EnCirca" refers to both "Encirca.biz" and "Mailregistry.net". 
-
-EnCirca is applying to be a licensee of the BBBOnline Privacy and Dispute Resolution Program. Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by BBBOnline. 
+EnCirca is a licensee of the BBBOnline Privacy and Dispute Resolution Program. Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by BBBOnline. 
 
 BBBOnline is a wholly owned subsidiary of the Council of Better Business Bureaus, BBBOnLine's mission is to promote trust and confidence on the Internet through the BBBOnLine Reliability and BBBOnLine Privacy programs. 
 
@@ -220,7 +218,7 @@ As we continue to develop our business, we might sell or buy companies or assets
 
 **Notification of Changes**
 
-The foregoing policy is effective as of March 28, 2002. EnCirca reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of EnCirca's services following the posting of changes to these terms will mean you accept those changes. In the event that EnCirca intends to change this policy, EnCirca will post a message on the home page of its Web Site that states that the Privacy Policy has been changed, and will provide a link to the Privacy Policy. These postings will occur on MailRegistry.net's Web Site for at least 30 days prior to any material change. 
+The foregoing policy is effective as of March 21, 2003. EnCirca reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of EnCirca's services following the posting of changes to these terms will mean you accept those changes. In the event that EnCirca intends to change this policy, EnCirca will post a message on the home page of its Web Site that states that the Privacy Policy has been changed, and will provide a link to the Privacy Policy. These postings will occur on MailRegistry.net's Web Site for at least 30 days prior to any material change. 
 
 If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via e-mail. You will have a choice as to whether or not we use your information in this different manner. 
 
