@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scilearn.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606183954id_/http%3A//www.scilearn.com/pol/index.php3%3Fmain%3DPrivPol) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scilearn.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214175054id_/http%3A//scilearn.com/pol/index.php3%3Fmain%3DPrivPol) for the most accurate reproduction.*
 
 # Scientific Learning: Announcements
 
