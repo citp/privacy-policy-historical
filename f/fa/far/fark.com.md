@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fark.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604000006id_/http%3A//www.fark.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fark.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208034914id_/http%3A//www.fark.com/privacy.shtml) for the most accurate reproduction.*
 
 # FARK.com
 
@@ -6,8 +6,13 @@
 
 * * *
 
-**Fark’s Privacy Policy**
+**Fark’s Privacy Policy**   
 
+
+**Short Version**  
+We will not give your addresses to third parties. We hate spammers. Bunch of jackasses is what they are. 
+
+**Longer Official Version**  
 Fark is committed to user privacy in our products and services. This policy outlines our personal information handling practices. If you give us personal information, we will treat it according to this policy. 
 
 Fark encourages you to read this privacy policy and those of all web sites you visit. Below is a summary of Fark's online privacy policy. 
@@ -65,15 +70,29 @@ Note: This policy also covers the personal information you provide to Fark Custo
 **Sponsors:**  
   
 ---  
-[](http://www.t-shirtsthatsuck.com/cgi-bin/SoftCart.exe/scstore/index.html?E+scstore+FRK)  
-[](http://go.fark.com/cgi/fark/go.pl?IDLink=156977&location=http://www.thinkgeek.com/stuff/fun-stuff/5776.shtml)  
-[](http://go.fark.com/cgi/fark/go.pl?IDLink=195133&location=http://www.flashmxfiles.com)  
+[](http://www.tshirtsthatsuck.com/)  
+[](http://www.airgunstore.com/fark)  
+[](http://www.thinkgeek.com/)  
+[](http://ads.bigcitytools.com/motor?3|2|6;2;141:671)  
+[](http://www.oddballproducts.com/store/customer/home.php)  
   
 |   
 ---  
   
 **Upcoming Photoshop Contests (EST):**  
   
-06/04 08:52AM EST  
+12/08 04:22AM EST  
   
-06/04 04:50PM EST
+12/08 11:08AM EST  
+  
+12/08 07:39PM EST  
+  
+12/09 04:38AM EST  
+  
+12/09 10:56AM EST  
+  
+12/09 06:43PM EST  
+  
+12/10 01:08AM EST  
+  
+12/10 08:41AM EST
