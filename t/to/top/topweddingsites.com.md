@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the topweddingsites.com privacy policy that was archived on 2002-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021012122418id_/http%3A//www.topweddingsites.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topweddingsites.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602031051id_/http%3A//topweddingsites.com/privacy.htm) for the most accurate reproduction.*
 
 # Top Wedding Sites - Privacy Policy
 
-[](http://www.siteguardian.org/guardian.nsf/checklicense?open&57-24660)We are committed to protecting your online privacy. The limited information we do collect is used to provide you with a personalized experience, better customer service and at times, bring you value-added offers from our partners and advertisers.
-
+  
 **The Information Collected and How it is Used**
 
   * **Cookies & IP Addresses  
@@ -22,7 +21,7 @@
 
 **Security**  
 
-All data collected at ToPWedidngSites™ is protected against unauthorized access. Personally identifiable information such as names, addresses, credit card numbers and other information is stored securely offline.
+All data collected at TopWeddingSites™ is protected against unauthorized access. Personally identifiable information such as names, addresses, credit card numbers and other information is stored securely offline.
 
 **Choice/Opt-Out**
 
