@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the q.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207214433id_/http%3A//www.q.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the q.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621095258id_/http%3A//q.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Qwest | Legal Notices
-
-| 
 
 **Customer Privacy Policy**
 
@@ -63,9 +61,11 @@ There are exceptions to the general rule. For example, we might provide informat
 >   * We are required to provide **listed** customer names, addresses and telephone numbers to directory publishers - our own and others. Qwest and other directory publishers may publish this information in alphabetical or reverse directories that take the form of paper directories, electronic directories over the Internet, or on CDs. We also provide customer name and addresses for all customers (including non-listed and non-published customers) to directory publishers to allow for directory deliveries, but only for that purpose.
 >   * We are required to provide customer names, addresses and telephone numbers to directory assistance and operator services providers. This information includes non-listed information, as well as the name and address of non-published customers. By contract, Qwest requests these companies to honor the privacy indicators that may be included in their purchased lists and such indicators are included for nonlisted and nonpublished numbers. Some of these providers offer Internet or online directory assistance services.
 >   * In some cases, when you dial 911, your name, address and telephone number information is provided to the emergency service provider. And, by law, we are required to provide this information, including non-listed and non-published information, to emergency service providers and emergency support services providers upon request in a more comprehensive format.
->   * If you place a long distance call using a provider other than the one you use on your home phone -- for example, if you place a calling card or third number billed call from a pay phone - Qwest is required by law to provide billing name and address information to the service provider. This includes names and addresses associated with non-published and non-listed information where the individual has not objected. This information cannot be used for marketing purposes. Similar information is provided with respect to the provision of services by non-Qwest carriers. 
+>   * If you place a long distance call using a provider other than the one you use on your home phone -- for example, if you place a calling card or third number billed call from a pay phone - Qwest is required by law to provide billing name and address information to the service provider. This includes names and addresses associated with non-published and non-listed information where the individual has not objected. This information cannot be used for marketing purposes. Similar information is provided with respect to the provision of services by non-Qwest carriers.
 > 
-We might provide your name and address to administrative agencies where we are working with them to minimize costs and maximize accuracy. For example, we might share this information with the Post Office so that we continue to get reduced postage rates and you get your bills and other information from us in a cost-efficient, reliable and timely fashion.
+
+> 
+> We might provide your name and address to administrative agencies where we are working with them to minimize costs and maximize accuracy. For example, we might share this information with the Post Office so that we continue to get reduced postage rates and you get your bills and other information from us in a cost-efficient, reliable and timely fashion.
 > 
 > We also compile lists of customer names, addresses and telephone numbers of the type printed in the White Pages directories and provide these lists to qualified companies that are conducting product promotions. Non-published and non-listed numbers are not included in these lists and we remove other customers from these lists by request.
 
@@ -91,7 +91,7 @@ For more information on our Customer Privacy Policy related to Qwest Choice TV &
 
 Qwest appreciates that some individuals believe that special privacy concerns arise around information transmitted or collected over the Internet or through web sites. Below we describe our practices to address those concerns.
 
-**Cookies:** Some of Qwest's Web sites may use "cookies" to improve our level of service and speed up the delivery of information to our visitors. Cookies are lines of text that are transmitted to your Web browser when you click on a site. They provide a way for a server to recall a previous request or previous registration, or to keep track of a transaction as it progresses, so that information does not have to be repeated. Your browser stores the information on your hard drive and when you return to that site later, the cookie is transmitted back only to the servers that originally sent it to you. To be notified when you are about to receive a cookie you can configure your browser to alert you when a site is attempting to send you a cookie and at that time you will have the option of refusing the cookie. You can check your hard drive for cookie files in a "cookies" folder for Internet Explorer, a "cookies.txt" file for Netscape, and under "magic cookies" on a Macintosh.
+ **Cookies:** Some of Qwest's Web sites may use "cookies" to improve our level of service and speed up the delivery of information to our visitors. Cookies are lines of text that are transmitted to your Web browser when you click on a site. They provide a way for a server to recall a previous request or previous registration, or to keep track of a transaction as it progresses, so that information does not have to be repeated. Your browser stores the information on your hard drive and when you return to that site later, the cookie is transmitted back only to the servers that originally sent it to you. To be notified when you are about to receive a cookie you can configure your browser to alert you when a site is attempting to send you a cookie and at that time you will have the option of refusing the cookie. You can check your hard drive for cookie files in a "cookies" folder for Internet Explorer, a "cookies.txt" file for Netscape, and under "magic cookies" on a Macintosh.
 
 Advertisers that serve ads on our Web sites may also use their own cookies. These cookies collect their own information independent of Qwest. You can disable this cookie capability as described above.
 
@@ -111,7 +111,7 @@ We treat information we collect on line similarly to that we collect off-line. W
 
 The Qwest Web sites may contain links to other sites. We are not responsible for the content or privacy practices employed by other sites. Other Web sites may have different privacy policies or no policy. Users should review the privacy policies of any Web site before providing personal information.
 
-Qwest places banner ads on others' web sites. When we do this, we collect non-personally identifiable information through the aid of third parties with whom we contract, using the most current browsing technology. This activity allows us to recognize a browser's cookie when a browser visits the site and helps us target our Internet advertisements. The information collected is anonymous and does not contain any information that would personally identify you. The information is shared among our contracting agents and our business operations in order to assess the results of a promotion or event. 
+Qwest places banner ads on others' web sites. When we do this, we collect non-personally identifiable information through the aid of third parties with whom we contract, using the most current browsing technology. This activity allows us to recognize a browser's cookie when a browser visits the site and helps us target our Internet advertisements. The information collected is anonymous and does not contain any information that would personally identify you. The information is shared among our contracting agents and our business operations in order to assess the results of a promotion or event.
 
 **Security of Your Information:** Qwest has databases and systems that are maintained to reasonably secure all of Qwest's commercial information, including information about customers. All credit card and bank account information you submit is encrypted through Secure Sockets Layer (SSL) software. We transmit the entire credit card number or bank information to the appropriate financial institution during processing.
 
@@ -121,5 +121,4 @@ Qwest places banner ads on others' web sites. When we do this, we collect non-pe
 
 * * *
 
-  
 To improve the services it can offer you, Qwest may opt to expand its capabilities for obtaining information about users in the future. Qwest will update this privacy policy continually to ensure that you are aware of developments in this area.
