@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the punoftheday.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202070900id_/http%3A//www.punoftheday.com/pun_11.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punoftheday.com privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616144011id_/http%3A//www.punoftheday.com/pun_11.htm) for the most accurate reproduction.*
 
 # Pun of the Day: Privacy Policy
 
@@ -16,8 +16,8 @@ The Pun of the Day mailing list is hosted by [Egroups.com](http://www.egroups.co
 
 Cookies are small pieces of information that some web sites use to store data using your browser on your computer's hard drive. Pun of the Day does not use cookies. Some Pun of the Day sponsor sites may use cookies to assist in tracking click-thrus. No personal information is collected.
 
-Tell us what you think. Pun of the Day welcomes your questions and comments about privacy. Please click [here](https://web.archive.org/web/20001202070900id_/http%3A//www.punoftheday.com/pun_07.htm) or send e-mail to [ webmaster@punoftheday.com](mailto:webmaster@punoftheday.com). 
+Tell us what you think. Pun of the Day welcomes your questions and comments about privacy. Please click [here](https://web.archive.org/web/20010616144011id_/http%3A//www.punoftheday.com/pun_07.htm) or send e-mail to [ webmaster@punoftheday.com](mailto:webmaster@punoftheday.com). 
 
 [ ](http://www.punoftheday.com/)
 
-[ ](http://rd1.hitbox.com/rd?acct=WQ500817C1AM55EN0&p=s)
+[ ](http://rd1.hitbox.com/rd?acct=WQ500817C1AM23EN0&p=s)
