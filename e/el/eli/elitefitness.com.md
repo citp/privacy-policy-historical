@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the elitefitness.com privacy policy that was archived on 2003-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030516150248id_/http%3A//www.elitefitness.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitefitness.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207111727id_/http%3A//www.elitefitness.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement for Elite Fitness
+# EliteFitness.com - Underground Bodybuilding, Fitness and Steroid Site - Tons of Bodybuilding, Weight Lifting, and Anabolic Steroid Information
 
 [](https://web.archive.org/) |  |    
 ---|---|---  
@@ -50,6 +50,4 @@ This site gives users the following options for changing and modifying informati
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact  Elite Fitness, Inc. 217 West 18th Street PO Box 1264 New York, NY 10113-1264 suggestions@elitefitness.com
 
-[](http://www.elitefitness.com/capro/redirect.cgi/top_banner)
-
- 
+[](http://www.elitefitness.com/adp/banners.pl?region=24&campaign=18&banner=70&publisher=0&mode=CLICK&bust=535548&timestamp=20031207061722)
