@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationmultimedia.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603171048id_/http%3A//nationmultimedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationmultimedia.com privacy policy that was archived on 2003-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031228065829id_/http%3A//nationmultimedia.com/privacy.html) for the most accurate reproduction.*
 
 # Welcome to The Nation
 
