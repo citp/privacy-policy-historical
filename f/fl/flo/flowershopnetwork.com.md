@@ -1,8 +1,21 @@
-> *The following text is extracted and transformed from the flowershopnetwork.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208093154id_/http%3A//www.flowershopnetwork.com/pages/policies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flowershopnetwork.com privacy policy that was archived on 2003-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030623072526id_/http%3A//www.flowershopnetwork.com/pages/policies.php) for the most accurate reproduction.*
 
 # Flower Shop Network Privacy Policy
 
-|  |     |    
+|    
+  
+| [Win Free Flowers](https://web.archive.org/pages/freeflowers/ "Win Free Flowers")  
+---  
+  
+Lisa of Marietta, GA is the winner of the December 1st drawing.  
+  
+  
+[Flower Tips](https://web.archive.org/pages/tips/)  
+---  
+Supply detailed information when ordering flowers.  
+  
+  
+  
 **Flower Shop Network's Privacy Policy**
 
 * * *
@@ -32,7 +45,3 @@ Flower Shop Network will only send personal information about you to others when
 **Changes to this Privacy Policy**
 
 Flower Shop Network may amend this policy from time to time. Flower Shop Network will prominently display on this website any substantial change in the way we use your personal information. 
-
-  
-  
----|---|---
