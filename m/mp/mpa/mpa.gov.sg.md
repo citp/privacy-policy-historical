@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mpa.gov.sg privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202113827id_/http%3A//www.mpa.gov.sg/homepage/gov_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpa.gov.sg privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211220626id_/http%3A//www.mpa.gov.sg/homepage/gov_privacy_policy.html) for the most accurate reproduction.*
 
 # GOVERNMENT OF SINGAPORE PRIVACY STATEMENT
 
