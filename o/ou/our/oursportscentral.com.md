@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oursportscentral.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604053632id_/http%3A//www.oursportscentral.com/ospage.cfm%3Ftopic%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oursportscentral.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207094356id_/http%3A//www.oursportscentral.com/ospage.cfm%3Ftopic%3Dprivacy) for the most accurate reproduction.*
 
 # OurSports Central- Independent and Minor League Sports News
 
