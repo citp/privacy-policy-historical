@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the calibex.com privacy policy that was archived on 2003-07-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030719163906id_/http%3A//calibex.com/serv/calibex1/buyer/help/calibexPrivacyPolicy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the calibex.com privacy policy that was archived on 2004-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040626060250id_/http%3A//calibex.com/serv/calibex1/buyer/help/calibexPrivacyPolicy.jsp) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -7,18 +7,21 @@
 	<script language="JavaScript" src="/buyer/BrowserSniffer.js"></script>
 <noscript><LINK REL="stylesheet" HREF="/nextag.css" TYPE="text/css"></noscript>
 
+
 </head>
-<body>
+<body link="#333333" vlink="#330066" text="#333333" onload="document.forms.form1.search.focus()">
+
+<link rel="stylesheet" href="/calibex.css" type="text/css">
 
 <table width="740" cellpadding="1" cellspacing="0" align="center" bgcolor="#FFFFFF">
 <tbody><tr>
 <td rowspan="3">
-<a href="/serv/calibex1/All~5z0zcalibex1z5-htm?nxtg=1b4f34_CDB8800A60BC9488"><img src="/hosted/distChannels/calibex1/calibex_logo6.gif" alt="Calibex" border="0"></a>
+<a href="/serv/calibex1/All~5z0zcalibex1z5-htm"><img src="/hosted/distChannels/calibex1/calibex_logo10.gif" alt="Calibex" border="0"></a>
 </td>
 </tr>
 
 <tr>
-<form name="form1" action="/serv/calibex1/buyer/OutPDir.jsp?nxtg=1b4f34_CDB8800A60BC9488" method="get"></form>
+<form name="form1" action="/serv/calibex1/buyer/OutPDir.jsp" method="get"></form>
 <td align="right" nowrap="">
 <input type="text" name="search" value="" tabindex="100" size="24">
 <input type="submit" value="Calibex Search" tabindex="101">
@@ -29,11 +32,11 @@
 
 <tr>
 <td align="right" class="largeText" nowrap="">
-<a href="/serv/calibex1/Computers~300000z15z4z3ozcalibex1z5-htm?nxtg=1b4f34_CDB8800A60BC9488"><b>Computers</b></a> &nbsp;|&nbsp;
-<a href="/serv/calibex1/Electronics~500000z15z4z3ozcalibex1z5-htm?nxtg=1b4f34_CDB8800A60BC9488"><b>Electronics</b></a> &nbsp;|&nbsp;
-<a href="/serv/calibex1/Software~300170z15z4z3ozcalibex1z5-htm?nxtg=1b4f34_CDB8800A60BC9488"><b>Software</b></a> &nbsp;|&nbsp;
-<a href="/serv/calibex1/Digital_Cameras~500001z15z3oz3ozcalibex1z5-htm?nxtg=1b4f34_CDB8800A60BC9488"><b>Digital Cameras</b></a> &nbsp;|&nbsp;
-<a href="/serv/calibex1/Video_Games~1400000z15z4z3ozcalibex1z5-htm?nxtg=1b4f34_CDB8800A60BC9488"><b>Video Games</b></a>
+<a href="/serv/calibex1/Computers~300000z15z4z3ozcalibex1z5-htm"><b>Computers</b></a> &nbsp;|&nbsp;
+<a href="/serv/calibex1/Electronics~500000z15z4z3ozcalibex1z5-htm"><b>Electronics</b></a> &nbsp;|&nbsp;
+<a href="/serv/calibex1/Software~300170z15z4z3ozcalibex1z5-htm"><b>Software</b></a> &nbsp;|&nbsp;
+<a href="/serv/calibex1/Digital_Cameras~500001z15z3oz3ozcalibex1z5-htm"><b>Digital Cameras</b></a> &nbsp;|&nbsp;
+<a href="/serv/calibex1/Video_Games~1400000z15z4z3ozcalibex1z5-htm"><b>Video Games</b></a>
 &nbsp;
 </td>
 </tr>
@@ -55,8 +58,23 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 <a href="/norob/ClickTracker1.jsp"><b></b></a>
-<script language="JavaScript" src="/buyer/Header.js"></script>
+
+
+
+
 <script language="JavaScript">
 window.onerror=handleError;
 function handleError(msg, url, line) {
@@ -67,9 +85,36 @@ function handleError(msg, url, line) {
 
 function emailPage() {
   var regex = /[+]/;
-  location.href = "/buyer/SendToFriend.jsp?url=http%3A%2F%2Fwww.calibex.com%2Fserv%2Fcalibex1%2Fbuyer%2Fhelp%2FcalibexPrivacyPolicy.jsp%3Fnxtg%3D1b4f34_CDB8800A60BC9488&page_title=" + escape(document.title).replace(regex, '%2B');
+  location.href = "/buyer/SendToFriend.jsp?url=http%3A%2F%2Fwww.calibex.com%2Fserv%2Fcalibex1%2Fbuyer%2Fhelp%2FcalibexPrivacyPolicy.jsp&page_title=" + escape(document.title).replace(regex, '%2B');
 }
+
+var _h2outpdirArray = new Array(10);
+function _h2outpdir(link, type) { 
+	var aidx = 0;
+	while(aidx < _h2outpdirArray.length && _h2outpdirArray[aidx] != null) {
+		if(_h2outpdirArray[aidx] == link) {
+			return;
+		}
+		else {
+			++aidx;
+		}
+	}
+	_h2outpdirArray[aidx] = link;
+	var idx = 0;
+	var oldUrl = link.href.substring(idx);
+	if(oldUrl.indexOf('?') < 0) {
+		var regex1 = /\&/;
+		oldUrl = oldUrl.replace(regex1, '%26');
+	}
+	var regex = /\?/;
+	link.href = '/ctr.jsp?ctru=' + oldUrl.replace(regex, '&') + '&ctr0=' + type + '&ctrp=outpdir&ctrs=other';
+}
+
 </script>
+
+<!-- end header -->
+
+
 
 
 
@@ -130,14 +175,16 @@ We take reasonable precautions to maintain the security of the personal informat
 <table width="740" cellpadding="1" cellspacing="0" align="center"><tbody><tr><td>
 <hr noshade="" size="1" width="100%">
 <div align="center" class="smallText">
-<a href="/serv/calibex1/buyer/aboutCalibex.jsp?nxtg=1b4f34_CDB8800A60BC9488">About Us</a> |
-<a href="/serv/calibex1/buyer/help/calibexPrivacyPolicy.jsp?nxtg=1b4f34_CDB8800A60BC9488">Privacy Statement</a>
+<a href="/serv/calibex1/buyer/aboutCalibex.jsp">About Us</a> |
+<a href="/serv/calibex1/buyer/help/calibexPrivacyPolicy.jsp">Privacy Statement</a>
 </div>
 <div align="center" style="padding-top: 2px;">
-©2003
-<span style="color: #CC0000"><b>Calibex</b></span>
+©2004
+<span style="color: #336666"><b>Calibex</b></span>
 </div>
 </td></tr></tbody></table>
+<script language="javascript" type="text/javascript" src="/js/Tooltip.js"></script>
+<script language="javascript" type="text/javascript" src="/js/BrowserUtils.js"></script>
 
 
 </body></html>
