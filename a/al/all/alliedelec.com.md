@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alliedelec.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604102626id_/http%3A//www.alliedelec.com/CustomerService/LegalPrivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alliedelec.com privacy policy that was archived on 2004-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041216222739id_/http%3A//www.alliedelec.com/CustomerService/LegalPrivacy.asp) for the most accurate reproduction.*
 
-# Allied Electronics - On Line Privacy Practices
+# Allied Electronics - Privacy Policy
 
 **General**  
 You can access our web site home page and browse our site without disclosing your personal data. However, while visiting the Allied Electronics site, we may ask you to register and/or provide information that personally identifies you ("Personal Information") for purposes of interacting with our site, including, for example, when you ask for information, enter a contest, order subscriptions, or download material. Allied intends to give you as much control as possible over your Personal Information. If you choose to provide Allied with your Personal Information, it is our intent to let you know how we will use your Personal Information. Allied uses your Personal Information to help you quickly find goods, services or information on the site. We track the domains from which this site is visited and use that data to analyze for trends and statistics, and then discard it. If you choose not to have your Personal Information used as a basis for further contact with you by Allied or one of its business partners, you may "opt out". If you choose not to give us your Personal Information, you can still use most of this site. You merely will not be able to access areas that require registration. Additionally, if you do not want Allied to send you e-mail or postal mail regarding Allied or its services, you may "opt out" at the time you give us your Personal Information. 
@@ -52,6 +52,4 @@ We recommend that you do not divulge your password to anyone. www.alliedelec.com
 **Site Technologies**  
 Allied does not provide the technologies used to build its site, and therefore neither recommends nor endorses the same. Any information regarding identified technologies, their capabilities, limitations, applications, etc., should be sought directly from their manufacturers. Allied hereby disclaims any rights to trademarks, service marks, tradenames, logos, copyrights, patents, domain names or other intellectual property interests of third parties. 
 
-If you have any questions or comments about our privacy practices, and the use of cookies, please send email to: 
-
-[webmaster@alliedelec.com](mailto:webmaster@alliedelec.com)
+If you have any questions or comments about our privacy practices, and the use of cookies, please send email to: [webmaster@alliedelec.com](mailto:webmaster@alliedelec.com)
