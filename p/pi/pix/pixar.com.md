@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixar.com privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608201827id_/http%3A//www.pixar.com/companyinfo/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixar.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203230405id_/http%3A//www1.pixar.com/companyinfo/privacy.html) for the most accurate reproduction.*
 
 # Pixar Online Privacy Policy
 
