@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sunbeltrentals.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605032526id_/http%3A//www.sunbeltrentals.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunbeltrentals.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205100625id_/http%3A//www.sunbeltrentals.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Sunbelt Rentals: Specialty Services: Special Event Services
 
-|  | Tuesday, June 04, 2002  
+|  | Thursday, December 05, 2002  
 ---|---  
 The Privacy Policy and Terms of Site Use are subject to change as the site content, practices, and features evolve. Sunbelt Rentals Corporation encourages you to read these policies each time you visit SunbeltRentals.com. 
 
@@ -23,7 +23,7 @@ Information Collection and Use
 Sunbelt Rentals collects information in several ways from different areas of our web site in order to provide you with personal service. This information may also be used to evaluate and enhance your experience with Sunbelt Rentals and your visit to our web site.
 
 Personal Information  
-The types of information we collect to personally identify you include your name, address, telephone number, and email address. Sunbelt Rentals collects this information only when you volunteer this information on applications, contact forms, Sunbelt Rentals mail signup, employment applications, and other forms located on this web site. By entering information into any one of these areas, you grant Sunbelt Rentals permission to contact you about selected products, companies and events we think may interest you. If you later decide you do not want to be contacted, please let us know by mail, phone or email at ----------------
+The types of information we collect to personally identify you include your name, address, telephone number, and email address. Sunbelt Rentals collects this information only when you volunteer this information on applications, contact forms, Sunbelt Rentals mail signup, employment applications, and other forms located on this web site. By entering information into any one of these areas, you grant Sunbelt Rentals permission to contact you about selected products, companies and events we think may interest you. If you later decide you do not want to be contacted, please let us know by mail, phone or email at [customerservice@sunbeltrentals.com](mailto:customerservice@sunbeltrentals.com)
 
 Certain areas of our site are only accessible upon disclosure of personally identifiable information. Therefore, if you do not wish to volunteer your personal information in these areas, access will be denied.
 
