@@ -1,13 +1,7 @@
-> *The following text is extracted and transformed from the mitel.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207102424id_/http%3A//www.mitel.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mitel.com privacy policy that was archived on 2003-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030607023332id_/http%3A//mitel.com/privacy.cfm) for the most accurate reproduction.*
 
 # Mitel Networks: Mitel Privacy Policy
 
-|  |   
----  
-|    
-  
-[Home](https://web.archive.org/web/20021207102424id_/http%3A//www.mitel.com/index.cfm) > [Mitel Privacy Policy](https://web.archive.org/web/20021207102424id_/http%3A//www.mitel.com/privacy.cfm)   
-  
 Mitel Networks respects each individual's right to personal privacy. Generally, you can browse through our web site without providing any personal information. However, periodically you may be asked to provide personal information to access a specific information resource or as part of a request for information. We will collect and use information through our Web site only in the ways disclosed in this statement. 
 
 **Information Collection**
