@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihispano.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413010755id_/http%3A//ihispano.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihispano.com privacy policy that was archived on 2001-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011215071213id_/http%3A//ihispano.com/privacy.asp) for the most accurate reproduction.*
 
 # iHispano.com: Privacy Statement
 
