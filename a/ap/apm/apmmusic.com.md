@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apmmusic.com privacy policy that was archived on 2001-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010611211856id_/http%3A//apmmusic.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apmmusic.com privacy policy that was archived on 2001-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011020012932id_/http%3A//apmmusic.com/privacy.htm) for the most accurate reproduction.*
 
 # APM Privacy Policy
 
@@ -7,7 +7,7 @@ PRIVACY POLICY
 
 This Web site is owned and operated by Associated Production Music LLC (the "Site"). You can contact us @ 6255 Sunset Blvd., Suite 820, Hollywood, CA 90028. Associated Production Music LLC has created this privacy statement is order to demonstrate our firm commitment to our visitors' privacy. The following discloses our information gathering and dissemination practices for apmmusic.com. 
 
-The site may only be used or otherwise accessed by persons 18 years of age or older. See [Terms and Conditions](https://web.archive.org/web/20010611211856id_/http%3A//apmmusic.com/terms.htm). If we reasonably believe that someone under 18 years of age has provided us with personal information, we will make reasonable efforts to remove such personal information from our database. 
+The site may only be used or otherwise accessed by persons 18 years of age or older. See [Terms and Conditions](https://web.archive.org/web/20011020012932id_/http%3A//apmmusic.com/terms.htm). If we reasonably believe that someone under 18 years of age has provided us with personal information, we will make reasonable efforts to remove such personal information from our database. 
 
 What Information We Collect  
 When using the site, you may be asked to provide certain personal information about yourself, such as name, address, and e-mail address. This information may be requested when you order compact discs, request a license agreement or report music usage. 
