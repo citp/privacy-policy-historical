@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gevalia.com privacy policy that was archived on 2000-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001005180104id_/http%3A//www.gevalia.com/privacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gevalia.com privacy policy that was archived on 2001-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011021073639id_/http%3A//gevalia.com/privacy.jhtml) for the most accurate reproduction.*
 
 # Privacy And Security
 
@@ -19,12 +19,12 @@ We will be happy to answer your questions or hear your concerns.
 **OUR POLICY**  
 At our site, we don’t collect personally-identifiable information from individuals unless they provide it to us voluntarily and knowingly. So, if you just want to browse and learn about our exceptional coffees and teas, we invite you to do so. As a casual, unregistered visitor to our site, we’ll recognize your home server (e.g., that your web access is through AOL.com), but not your e-mail address or any other personal or system information. 
 
-Of course, since we only sell our coffees, teas and other products through the mail, if you want to order our products it will be necessary for you to provide personally-identifiable information. This will include your name, address, phone number and, if you place an order online, credit card information. Any information you provide is downloaded off of the web server to a secure system and is maintained there. 
+Of course, since we only sell our coffees, teas and other products through the mail, if you want to order our products it will be necessary for you to provide personally-identifiable information. This will include your name, address, phone number and, if you place an order online, credit card information. Any information you provide is downloaded off of the web server to a secure system and is maintained there. Changes to your information online may only occur after a customer has logged in with their registered user name and password. 
 
 **OUR CUSTOMER LIST**  
 When you enroll in any of the Gevalia programs or purchase items from our online catalog, we add your name to our Customer List. From time to time we share selected names and addresses from this List with other companies or services that offer fine quality food or merchandise by mail. 
 
-**If you prefer not to receive mailings from these companies, please advise us by mail, phone or e-mail.** Please include your name and address if you are contacting us by mail or e-mail. We will ensure that your name is removed from the list we share with other organizations. 
+**If you prefer not to receive mailings from these companies, please advise us by using the mail, phone or e-mail address provided above.** Please include your name and address if you are contacting us by mail or e-mail. We will ensure that your name is removed from the list we share with other organizations. 
 
 **CONTACTS FROM US**  
 We also use our Customer List for our own followup contacts with you. Many of our customers look forward to being contacted by Gevalia Customer Service Representatives by phone to be kept up-to-date about new coffees and services, programs and benefits. On the other hand, we recognize that some customers prefer not to be contacted by phone, even if they do love our coffees. Please be assured that we maintain an up-to-date "Do Not Call" list for customers who have advised us of their preference in this regard. If you do not wish to be called regarding our special offers, please let us know by mail, phone or email, and we will add you to our Do Not Call list. 
