@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the swirve.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206075410id_/http%3A//www.swirve.com/corp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swirve.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606090959id_/http%3A//www.swirve.com/corp/privacy.asp) for the most accurate reproduction.*
 
 # About Swirve.com
 
 | 
 
-**Swirve.com... The reason Al Gore invented the internet.**
+**Swirve.com... More fun than a barrel full of monkeys and midgets!**
 
 |   
 ---  
@@ -21,7 +21,7 @@ Internet user privacy and confidentiality is of the utmost importance to Swirve.
 **User Information**  
 
 
-Personal information submitted by users to Swirve.com is used for the purposes of maintaining the integrity of the website and its contents, contacting our users when necessary, and improving the quality of service provided by Swirve.com. This information is not provided to 3rd parties, except when requested by the user or legally required. Swirve.com may offer opt-in opportunities with 3rd party partners - this information cannot be protected by Swirve.com after being released (with your permission) to the 3rd party.
+Personal information submitted by users to Swirve.com is used for the purposes of maintaining the integrity of the website and its contents, contacting our users when necessary, and improving the quality of service provided by Swirve.com. This information is not sold to 3rd parties and is only used for internal purposes. It may, however, be provided to contracted 3rd parties for the sole purpose of internal analysis. These parties are contractually bound not to release or sell this information.
 
 Swirve.com servers also collect information which is specific to how you use the Internet. Swirve servers note details such as the server you are logged onto, the geographic location of the ISP and type of browser you use, and your IP address. This information is obtained solely for the purpose of maintaining the site's integrity and improving our service.
 
@@ -39,15 +39,14 @@ Swirve.com may use cookies to improve and better understand your Web browsing ex
 
 
 
-**3rd Party Measurement Services**  
+**3rd Party Advertising and Measurement Services**  
 
 
-Often, advertisers or other Swirve.com partners will employ a third-party measurement service other than Swirve.com for tracking the performance of an ad program. In these instances, we have no control over the information collected by the third party, and may not be held responsible for the actions of the third party measurement service where collected information is concerned.
+Often, advertisers or other Swirve.com partners will employ a third-party measurement service other than Swirve.com for tracking the performance of an ad program. In these instances, we have no control over the information collected by the third party, and may not be held responsible for the actions of the third party measurement service where collected information is concerned. 
 
-To find out more about how some of our partners use your information, please visit their privacy policies:
+We use BUDS INC, MAXONLINE and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by MAXONLINE, please click [Here](http://www.maxonline.com/privacy_policy/index.php), or for other partners, click [Here](http://www.networkadvertising.org/optout_nonppii.asp). 
 
-[Engage Media Privacy Information](http://www.engage.com/privacy/)  
-[Valueclick Privacy Information](http://valueclick.com/privacy.html)
+In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser. 
 
 
 
@@ -66,14 +65,11 @@ SWIRVE.COM!**
 * * *
 
   
-Bobcat, when we first met, we definitely knew that it was love at first sight. Thought the mist of the storm comes the quiet love we have for each other.   
-_Never forget, Tiger!_
+Billah, without you, I would never have gotten through these tough times. I am glad to have a friend I can count on like you. Thank you for being there when I needed you the most.   
+_Black Lotus_
 
-Kelly, I know we have been through a lot ... but I know love will conquer all. I love you baby, and I always will. I want you to be my wife someday, Kelly. I love you!   
-_Danny_
-
-Redbeard, Since I've met you here, we've shared so much: talks, stories, thoughts, dreams, goals and so much more. If I would have never met you, my life would be incomplete. You make me want to be a better person.   
-_Love, MeloDEE_
+I just moved to a new city and I had no friends and basically no family, but when I met Tiffany, my life had meaning again, and I just want to say that I love you Tiffancy, and thank you for giving me a chance.   
+_Chris_
 
 Want to say something? [Tell Us!](javascript:Users\(\);)  
   
