@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the globalspec.com privacy policy that was archived on 2004-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040630220602id_/http%3A//globalspec.com/Help/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the globalspec.com privacy policy that was archived on 2004-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041210203234id_/http%3A//www.globalspec.com/Help/Privacy) for the most accurate reproduction.-->
 
 <html><head><title>GlobalSpec - Privacy Policy</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -48,6 +48,7 @@
 
 <table class="bannerArea" width="100%" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
+
 
 
 
@@ -117,6 +118,7 @@ function DoSearchBoxSubmit() {
 			case "Suppliers":	gotoURL = "http://www.globalspec.com/SpecSearch/SupplierByNameSearch?query=" + escape(searchterm); break;
 			case "FeaturedProducts":	gotoURL = "http://www.globalspec.com/FeaturedProducts/SearchResults?criteria=" + escape(searchterm); break;
 			case "SearchEngineTotal":	gotoURL = "http://search.globalspec.com/Search?query=" + escape(searchterm) + "&show=total"; break;
+			case "SearchEnginePartNumbers": gotoURL = "http://search.globalspec.com/Search?query=" + escape(searchterm) + "&show=partnumbers"; break;
 			case "SearchEngineCompanySites":	gotoURL = "http://search.globalspec.com/Search?query=" + escape(searchterm) + "&show=companysites"; break;
 			case "SearchEngineAppNotes":	gotoURL = "http://search.globalspec.com/Search?query=" + escape(searchterm) + "&show=appnotes"; break;
 			case "SearchEnginePatents":		gotoURL = "http://search.globalspec.com/Search?query=" + escape(searchterm) + "&show=patents"; break;
@@ -129,6 +131,10 @@ function DoSearchBoxSubmit() {
 		// append a URL parameter for tracking that indicates we are hitting the page
 		// from the search box in the skin
 		gotoURL = gotoURL + "&frmtrk=topnav";
+
+		
+		
+					
 		top.location.href = gotoURL;
 	}
 }
@@ -167,31 +173,21 @@ function searchModeKeyDown(evt) {
 				
 					<td align="right">Find:&nbsp;</td>
 				
-					<td align="left" valign="cetner" nowrap="">
+					<td align="left" valign="middle" nowrap="">
 						
 						<input name="query" type="text" value="" size="30"><img src="/pix/dot.gif" width="1" height="1" hspace="1">
 					</td>
 					<td align="left" valign="center" nowrap="">
 						
-						<select name="SearchMode" onkeydown="return searchModeKeyDown(event)">
-							<option value="Products" selected="">Products &amp; Manufacturers</option>
-							<option value="Services">Service Providers</option>
-							<option value="Suppliers">A Company by Name</option>
-							<option value="SearchEngineTotal">== THE ENGINEERING WEB ==</option>
-							<option value="SearchEngineTotal">All Sites</option>
-							<option value="SearchEngineAppNotes">Application Notes</option>
-							<option value="SearchEngineMaterials">Material Properties</option>
-							<option value="SearchEnginePatents">Patents</option>
-							<option value="SearchEngineStandards">Standards</option>
-							<option value="SearchEngineCompanySites">Supplier Web Sites</option>
-						</select><img src="/pix/dot.gif" width="1" height="1" hspace="1">
+						<select name="SearchMode" onkeydown="return searchModeKeyDown(event)"><option value="Products" selected="">Products &amp; Manufacturers</option><option value="Services">Service Providers</option><option value="Suppliers">A Company by Name</option><option value="SearchEngineTotal">== THE ENGINEERING WEB ==</option><option value="SearchEngineTotal">All Sites</option><option value="SearchEngineAppNotes">Application Notes</option><option value="SearchEngineMaterials">Material Properties</option><option value="SearchEnginePartNumbers">Search By Part Number (Beta)</option><option value="SearchEnginePatents">Patents</option><option value="SearchEngineStandards">Standards</option><option value="SearchEngineCompanySites">Supplier Web Sites</option></select><img src="/pix/dot.gif" width="1" height="1" hspace="1">						
+						
 					</td>												
 					
 				</tr>
 			</tbody></table>
 		</td>
 		<td>
-			<img src="/pix/dot.gif" width="1" height="1" vspace="3"><br>
+			<img src="/pix/dot.gif" width="1" height="1" vspace="8"><br>
 			<img src="/pix/dot.gif" width="1" height="1" hspace="2">
 		
 			<input type="image" src="/pix/buttons/HeaderGo_Out.gif" alt="Search now!" border="0" onclick="DoSearchBoxSubmit(); return false;" onmouseover="this.src='/pix/buttons/HeaderGo_Over.gif'" onmouseout="this.src='/pix/buttons/HeaderGo_Out.gif'" onmousedown="this.src='/pix/buttons/HeaderGo_Down.gif'">
@@ -229,6 +225,7 @@ We at GlobalSpec have one primary goal: to help the engineering community quickl
 </li><li><span class="content">GlobalSpec, Inc will not sell lists of its users and/or contact information to any third party without having first elicited individual permission from included end-users to do so. </span>
 </li><li><span class="content">GlobalSpec may transfer your contact information to a purchaser of the entire business, and/or it may be shared with any companies that merge with GlobalSpec or that GlobalSpec purchases.</span>
 
+
 </li></ol>
 </blockquote>
 
@@ -248,31 +245,35 @@ We at GlobalSpec have one primary goal: to help the engineering community quickl
 	<hr width="90%">
 	<hr width="90%">
 	
-		<table>
-			<tbody><tr>
-				<td align="left" colspan="2">
-					<a href="http://www.globalspec.com/" class="footerlinks">Home</a> 
-		            &nbsp; <span class="boldRedContent">|</span> &nbsp; <a href="http://www.globalspec.com/AboutUs" class="footerlinks">About&nbsp;GlobalSpec</a>
-				    &nbsp; <span class="boldRedContent">|</span> &nbsp; <a href="http://www.globalspec.com/MediaKit" class="footerlinks">Media&nbsp;Kit</a>
-				    &nbsp; <span class="boldRedContent">|</span> &nbsp; <a href="http://www.globalspec.com/SiteMap" class="footerlinks">Site&nbsp;Map</a>
-					&nbsp; <span class="boldRedContent">|</span> &nbsp; <a target="_blank" href="http://www.globalspec.com/Help/TermsOfUse" class="footerlinks">Terms&nbsp;of&nbsp;Use</a>
-          			&nbsp; <span class="boldRedContent">|</span> &nbsp; <a target="_blank" href="http://www.globalspec.com/Help/Privacy" class="footerlinks">Privacy&nbsp;Policy</a>
-			        &nbsp; <span class="boldRedContent">|</span> &nbsp; <a target="_blank" href="http://www.globalspec.com/Information/LinkToOurSite" class="footerlinks">Link&nbsp;To&nbsp;Our&nbsp;Site</a>
-					<br>
-				</td>
-			</tr>
-			<tr>
-				<td colspan="2" align="center">
-			    	
+		
+
+		 
+			<table>
+				<tbody><tr>
+					<td align="left" colspan="2">
+						<a href="http://www.globalspec.com/" class="footerlinks">Home</a> 
+			            &nbsp; <span class="boldRedContent">|</span> &nbsp; <a href="http://www.globalspec.com/AboutUs" class="footerlinks">About&nbsp;GlobalSpec</a>
+					    &nbsp; <span class="boldRedContent">|</span> &nbsp; <a href="http://www.globalspec.com/MediaKit" class="footerlinks">Media&nbsp;Kit</a>
+					    &nbsp; <span class="boldRedContent">|</span> &nbsp; <a href="http://www.globalspec.com/SiteMap" class="footerlinks">Site&nbsp;Map</a>
+						&nbsp; <span class="boldRedContent">|</span> &nbsp; <a target="_blank" href="http://www.globalspec.com/Help/TermsOfUse" class="footerlinks">Terms&nbsp;of&nbsp;Use</a>
+	          			&nbsp; <span class="boldRedContent">|</span> &nbsp; <a target="_blank" href="http://www.globalspec.com/Help/Privacy" class="footerlinks">Privacy&nbsp;Policy</a>
+				        &nbsp; <span class="boldRedContent">|</span> &nbsp; <a target="_blank" href="http://www.globalspec.com/Information/LinkToOurSite" class="footerlinks">Link&nbsp;To&nbsp;Our&nbsp;Site</a>
+						<br>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2" align="center">
+				    	
 <a href="http://www.globalspec.com/Recommend/Supplier" target="_blank" class="footerlinks">Recommend&nbsp;a&nbsp;Supplier</a> 
  
-					&nbsp; <span class="boldRedContent">|</span> &nbsp; <a href="http://www.globalspec.com/Submit-Site" class="footerLinks">Submit a Site</a>
-					&nbsp; <span class="boldRedContent">|</span> &nbsp; <a target="_blank" href="http://www.globalspec.com/Email/RecommendEmail" class="footerlinks">Recommend&nbsp;This&nbsp;Site</a>
-					&nbsp; <span class="boldRedContent">|</span> &nbsp; <a href="http://www.globalspec.com/Engineering-Toolbar/Install" class="footerlinks">Download&nbsp;Engineering&nbsp;Toolbar</a>
-				  	<br>
-				</td>
-	  	 	</tr>
-		</tbody></table>
+						&nbsp; <span class="boldRedContent">|</span> &nbsp; <a href="http://www.globalspec.com/Submit-Site" class="footerLinks">Submit a Site</a>
+						&nbsp; <span class="boldRedContent">|</span> &nbsp; <a target="_blank" href="http://www.globalspec.com/Email/RecommendEmail" class="footerlinks">Recommend&nbsp;This&nbsp;Site</a>
+						&nbsp; <span class="boldRedContent">|</span> &nbsp; <a href="http://www.globalspec.com/Engineering-Toolbar/Install?frmtrk=footer" class="footerlinks">Download&nbsp;Engineering&nbsp;Toolbar</a>
+					  	<br>
+					</td>
+		  	 	</tr>
+			</tbody></table>
+		
 	
 
 	©1999-2004 GlobalSpec.&nbsp; All rights reserved.&nbsp; GlobalSpec, the GlobalSpec logo and SpecSearch are registered trademarks of GlobalSpec, Inc.&nbsp; 
@@ -281,7 +282,11 @@ We at GlobalSpec have one primary goal: to help the engineering community quickl
 	<br>
 	No portion of this site may be copied, retransmitted, reposted, duplicated or otherwise used 
 	<br>
-	without the express written permission of GlobalSpec Inc.&nbsp; 350 Jordan Rd, Troy, NY, 12180
+	without the express written permission of GlobalSpec Inc.
+	
+	
+		&nbsp; 350 Jordan Rd, Troy, NY, 12180
+		
     <a href="http://www.globalspec.com/SiteMap/Directory/"><img border="0" src="/pix/dot.gif"></a> 
 	<a href="http://search.globalspec.com/Search/WebSearch"><img border="0" src="/pix/dot.gif"></a> 
 	
@@ -289,6 +294,13 @@ We at GlobalSpec have one primary goal: to help the engineering community quickl
 
 </div>
 
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	
