@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the webstat.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605112911id_/http%3A//www.webstat.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webstat.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202175232id_/http%3A//www.webstat.com/privacy.php) for the most accurate reproduction.*
 
 # WebSTAT
 
-|  |     
-|     
-WebSTAT.Com - Privacy Statement |  Privacy Statement  
+|    
+|   
+WebSTAT.Com - Privacy Statement |  |   
 ---  
+**Privacy Policy & Statement  
+**  
 **Commitment to Privacy:**  
 WebSTAT.Com respects the sensitive nature of the information you provide us. Our Privacy Policy is designed to protect your personal information while maximizing your access to our free services.  This Privacy Policy describes how we treat the information we receive about you when you sign up for an account. Please read the Privacy Policy carefully because it governs how we use the information you submit to us. If this Privacy Policy changes in the future, we will not use the information you have submitted to us in a manner that is inconsistent with the Privacy Policy under which the information was originally collected.
 
@@ -19,6 +21,4 @@ Cookies are used to facilitate page path tracking and statistics on returning/un
 WebSTAT works with reputable third parties such as MaxOnline (Doubleclick) and ValueClick to serve ads to this site. In the course of delivering an ad to you these companies collect certain non-personally identifiable information about you. This information is used to deliver tailored ads to you.  To find out more about how these companies manage the privacy of information in conjunction with serving ads on this site, please visit the following links: [Sonar Network](http://www.sonar.com/content/privacy.htm) | [Engage](http://www.engage.com/privacy/) | [ValueClick](http://www.valueclick.com/privacy.html). 
 
 **Contact us:**  
-If you have any questions/concerns about our privacy statement, feel free to contact us with [THIS FORM](http://www.webstat.com/email.php). Thank You!   
-  
-Copyright 1998-2002 WebSTAT.COM, LLC   All rights Reserved.
+If you have any questions/concerns about our privacy statement, feel free to contact us with [THIS FORM](http://www.webstat.com/email.php). Thank You! 
