@@ -1,17 +1,19 @@
-> *The following text is extracted and transformed from the freeslots.com privacy policy that was archived on 2004-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041229082724id_/http%3A//www.freeslots.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeslots.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403212042id_/http%3A//www.freeslots.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # FreeSlots.com - Privacy Policy
 
 [](http://www.freeslots.com/)  
   
 [Slots Home](http://www.freeslots.com/)  
-[Free Slots 1](https://web.archive.org/web/20041229082724id_/http%3A//www.freeslots.com/Page1.htm)  
-[Free Slots 2](https://web.archive.org/web/20041229082724id_/http%3A//www.freeslots.com/Page2.htm)  
-[Free Slots 3](https://web.archive.org/web/20041229082724id_/http%3A//www.freeslots.com/Page3.htm)  
-[Free Slots 4](https://web.archive.org/web/20041229082724id_/http%3A//www.freeslots.com/ClassicSlots.htm)  
-[Multi-Payline Slots](https://web.archive.org/web/20041229082724id_/http%3A//www.freeslots.com/MultiPayline1.htm)  
-[Winners List](https://web.archive.org/web/20041229082724id_/http%3A//www.freeslots.com/Winners.htm)  
-[FAQ](https://web.archive.org/web/20041229082724id_/http%3A//www.freeslots.com/FAQ.htm)
+[Free Slots 1](https://web.archive.org/web/20050403212042id_/http%3A//www.freeslots.com/slots-1.htm)  
+[Free Slots 2](https://web.archive.org/web/20050403212042id_/http%3A//www.freeslots.com/slots-2.htm)  
+[Free Slots 3](https://web.archive.org/web/20050403212042id_/http%3A//www.freeslots.com/slots-3.htm)  
+[Free Slots 4](https://web.archive.org/web/20050403212042id_/http%3A//www.freeslots.com/slots-4.htm)  
+[Free Slots 5](https://web.archive.org/web/20050403212042id_/http%3A//www.freeslots.com/ClassicSlots.htm)  
+[Multi-Payline Slots](https://web.archive.org/web/20050403212042id_/http%3A//www.freeslots.com/MultiPayline1.htm)  
+[Video Poker](http://www.freevideopoker.com/)  
+[Winners List](https://web.archive.org/web/20050403212042id_/http%3A//www.freeslots.com/Winners.htm)  
+[FAQ](https://web.archive.org/web/20050403212042id_/http%3A//www.freeslots.com/FAQ.htm)
 
 **Play more slots:**  
   
@@ -22,7 +24,7 @@
 [English Harbour Casino](http://www.englishharbour.com/index.html?ID=simslots)  
 [SuperSlots](http://www.superslots.com/index.html?ID=simslots)
 
-|  [](http://www.freeslots.com/banman/banman.asp?Task=Click&ZoneID=1&CampaignID=3&AdvertiserID=2&BannerID=167&SiteID=0)
+|  [](http://www.freeslots.com/banman/banman.asp?Task=Click&ZoneID=1&CampaignID=3&AdvertiserID=2&BannerID=1302&SiteID=0)
 
 [Back to FreeSlots Home](http://www.freeslots.com/)
 
