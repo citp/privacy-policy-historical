@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the techsoup.org privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604080945id_/http%3A//www.techsoup.org/about/privacy.cfm%3Fcg%3Dhome%26sg%3Dfooter_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsoup.org privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207231742id_/http%3A//www.techsoup.org/about/privacy.cfm%3Fcg%3Dhome%26sg%3Dfooter_privacy) for the most accurate reproduction.*
 
 # TechSoup - About TechSoup - Privacy Statement
 
 **Privacy Statement**  
-This privacy statement discloses the privacy practices for TechSoup.org. TechSoup.org is a project of [CompuMentor](http://www.compumentor.org/). 
+This privacy statement discloses the privacy practices for TechSoup.org. TechSoup.org is a project of [CompuMentor](http://www.compumentor.org/). To learn how TechSoup Stock maintains your privacy and security, please refer to the [TechSoup Stock Privacy Statement](https://web.archive.org/stock/privacy.asp). 
 
 **Information Collection and Use**  
 TechSoup.org is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. TechSoup.org collects information from our users at several different points on our Web site. 
