@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iatn.net privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602014339id_/http%3A//www.iatn.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iatn.net privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203151615id_/http%3A//www.iatn.net/privacy.html) for the most accurate reproduction.*
 
 # iATN - Privacy Policy
 
@@ -39,7 +39,7 @@ Sponsors](http://www.iatn.net/atn/)
 
 Privacy Policy
 
-Revision 1.0.0 \- October 4, 2001
+Revision 1.0.1 \- July 17, 2003
 
 * * *
 
@@ -51,7 +51,7 @@ iATN has always considered the protection of your private personal information t
   * We do not share your personal information with advertisers or sponsors.
   * We have zero tolerance for unsolicited commercial email (a.k.a. "spam").
   * We encrypt credit card information and otherwise secure your personal data.
-  * We will display the name, company name, position, and general location (city, state, country, zipcode) of registered members in our public member directory, and in other areas of our site, including any Interactive Content created by said member.
+  * We will display the name, company name, position, and general location (city, state, country, zipcode) of registered members in our public member directory, and may also in other areas of our site, including areas showing who is "online" on our network, and in any Interactive Content created by said member.
   * Any Interactive Content posted to or sent through the network (e.g. TechMail, forum posts, etc.), is not private and is not covered by this privacy policy.
   * You may cancel your membership at any time if you do not wish your information to be listed in our public member directory.  
 
