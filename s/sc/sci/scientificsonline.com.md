@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the scientificsonline.com privacy policy that was archived on 2002-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020806153023id_/http%3A//www.scientificsonline.com/catalogs/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scientificsonline.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618110048id_/http%3A//scientificsonline.com/privacy_statement.cfm) for the most accurate reproduction.*
 
-# Edmund Scientifics: Privacy Policy
+# Edmund Scientifics: privacy statement
 
-Privacy Policy
+  | 
 
-  
+**Privacy Policy**
+
 Our customers' privacy is very important to us here at Edmund Scientific. That is why we are offering this page of information describing what information we collect when you come onto our site. 
 
 Our postal address is:   
@@ -25,9 +26,7 @@ If you supply us with your postal address you may receive periodic catalog maili
 
 From time to time we make a portion of our catalog mailing list available to carefully screened companies whose products or services we believe you might find interesting. As a rule we protect our customer list very closely to insure that it is used only in a manner that serves our customers' interests. Additionally, we will never make your e-mail address available to other companies. 
 
-If you prefer that we do not make your name and address available for these carefully screened offers, or if at any time you want to stop receiving our catalog, or if you don't want to be contacted via e-mail, please check and fill in the appropriate boxes below and submit this form. If you would rather print this form and mail it to us, you may send this form to: 
+If you prefer that we do not make your name and address available for these carefully screened offers, or if at any time you want to stop receiving our catalog, or if you don't want to be contacted via e-mail, please check and fill in the appropriate boxes below and submit this form. If you would rather print this form and mail it to us, you may send this form to:
 
-         Mail Preference Supervisor  
-         Edmund Scientific  
-         60 Pearce Ave.  
-         Tonawanda, NY 14150-6711 
+|    
+---|---|---
