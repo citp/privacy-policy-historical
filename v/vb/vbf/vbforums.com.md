@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vbforums.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202024900id_/http%3A//www.vb-world.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vbforums.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405054618id_/http%3A//www.vb-world.net/privacy.html) for the most accurate reproduction.*
 
 # VB-World - Privacy Statement
 
