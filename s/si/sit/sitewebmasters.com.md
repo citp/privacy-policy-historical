@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitewebmasters.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605160220id_/http%3A//sitewebmasters.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitewebmasters.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204112158id_/http%3A//sitewebmasters.com/privacy.html) for the most accurate reproduction.*
 
 # Creating Fully Integrated Online Stores
 
