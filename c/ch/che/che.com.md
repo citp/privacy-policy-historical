@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the che.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603225349id_/http%3A//www.che.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the che.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203032941id_/http%3A//www.che.com/privacy) for the most accurate reproduction.*
 
-# Chemical Engineering -- Online Privacy Policy
+# Chemical Engineering.com
 
 ### Your Privacy Matters To Us
 
@@ -12,4 +12,4 @@ The data we collect is used in the aggregate to give us demographic information 
 
 Chemcial Week Associates uses reasonable precautions to keep the personal information disclosed to us secure and to disclose such information only to third parties we believe to be responsible. However, we are not responsible for any breach of security or for any actions of any third parties which receive the information.
 
-###### [Back to Homepage](https://web.archive.org/index.html)
+###### [Back to Homepage](https://web.archive.org/index.php)
