@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valuemags.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602222837id_/http%3A//www.valuemags.com/home/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuemags.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206182200id_/http%3A//www.valuemags.com/home/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,10 +40,10 @@ This site contains links to other sites. **Valuemags.com** is not responsible fo
 **Choice/Opt-Out  
 **Our site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners, and us . 
 
-You can send email to [ customerservice@valuemags.com](mailto:customerservice@valuemags.com)
+You can send email to [ support@valuemags.com](mailto:support@valuemags.com)
 
 **Data Quality/Access**  
-This site gives users the following options for changing and modifying information previously provided:You can send email to [ customerservice@valuemags.com](mailto:customerservice@valuemags.com)
+This site gives users the following options for changing and modifying information previously provided:You can send email to [ support@valuemags.com](mailto:support@valuemags.com)
 
 **  
 Contacting the Web Site**
