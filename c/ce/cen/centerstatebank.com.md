@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centerstatebank.com privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613093207id_/http%3A//www.centerstatebank.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centerstatebank.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204174955id_/http%3A//www.centerstatebank.com/privacy.htm) for the most accurate reproduction.*
 
 # Center State Bank
 
@@ -24,4 +24,4 @@ CenterState Bank employees are permitted access to the information necessary to 
 
 Periodically, CenterState Bank contracts with outside vendors and other business partners to perform specific tasks for the Bank.  Such parties are strictly prohibited from using the information for their own benefit, or allowing any other party to access this information.  The Bank selects business partners and vendors that adhere to similar privacy standards as we do.  Also, we completely expect those persons we contract to honor and safeguard any information regarding our customers.
 
-[](https://web.archive.org/web/20010613093207id_/http%3A//www.centerstatebank.com/privacy.htm#top)
+[](https://web.archive.org/web/20011204174955id_/http%3A//www.centerstatebank.com/privacy.htm#top)
