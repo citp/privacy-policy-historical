@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsn.ca privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605194229id_/http%3A//tsn.ca/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsn.ca privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206091504id_/http%3A//tsn.ca/help/privacy.asp) for the most accurate reproduction.*
 
 # TSN.ca - Help - Canada's Sports Leader
 
@@ -76,13 +76,13 @@ Privacy procedures specific to a BGM Service can be found on a BGM Site at the l
 
 BGM provides you with the means to access, update, edit or delete any Account or Registration Information you may have provided to us at any time on your own by going to the appropriate page in the Account or Registration section of the relevant BGM Service, and changing or deleting such information as desired. 
 
-If you are unsure whether we have a record containing any of your Personal Information and would like to confirm whether or not we do, please send an e-mail to our Privacy Manager at [generalinfo@bgmi.ca](mailto:generalinfo@bgmi.ca), indicating all e-mail addresses that you may have given us. 
+If you are unsure whether we have a record containing any of your Personal Information and would like to confirm whether or not we do, please send an e-mail to our Privacy Manager [here](https://web.archive.org/website/email_form.asp?mailto=tech), indicating all e-mail addresses that you may have given us. 
 
 If you decide at any time that you do not want to receive any e-mail materials to which you have subscribed, you may choose to unsubscribe to these e-mails by following the instructions at the end of the message. 
 
 **QUESTIONS, COMMENTS OR SUGGESTIONS?**
 
-If you have questions, comments or suggestions about this Privacy Policy or BGM's privacy practices that were not answered here, send our Privacy Manager an e-mail at [generalinfo@bgmi.ca](mailto:generalinfo@bgmi.ca). 
+If you have questions, comments or suggestions about this Privacy Policy or BGM's privacy practices that were not answered here, send our Privacy Manager an e-mail [here](https://web.archive.org/website/email_form.asp?mailto=tech). 
 
 **BGM USE OF NON-PERSONAL INFORMATION**   
 Non-Personal Information is collected or derived by us in the course of operating the BGM Services. For example, our Web servers may automatically collect Non-Personal Information which is provided through your browser or stored on a Cookie or through a Web Beacon when you choose to visit a BGM Service. 
@@ -119,5 +119,5 @@ Cookies are used on many major web sites. Most browsers are initially set up to 
 
 Certain BGM Services may contain electronic images known as Web beacons - sometimes called single-pixel gifs - that allow BGM to count users who have visited those pages and to deliver co-branded services. Web beacons are not used to access your Personal Information; they are a technique used to compile aggregated statistics about BGM Service usage. Web beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the Web beacon resides. Certain BGM Service web pages may also contain Web beacons placed there by our advertising partners to help BGM determine the effectiveness of our Internet advertising campaigns. 
 
-_Copyright 2003 Bell Globemedia Inc.  
+_Copyright 2004 Bell Globemedia Inc.  
 All Rights Reserved. _
