@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the touchreading.com privacy policy that was archived on 2002-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020725000032id_/http%3A//www.touchreading.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the touchreading.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605022037id_/http%3A//www.touchreading.com/privacy.cfm) for the most accurate reproduction.*
 
 # Touch Reading - Privacy Policy
 
