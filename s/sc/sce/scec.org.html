@@ -1,0 +1,333 @@
+<!--The following is the downloaded HTML source of the scec.org privacy policy that was archived on 2002-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021209092051id_/http%3A//www.scec.org/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<title>SCEC Privacy Policy</title>
+		<link href="http://www.scec.org/scec.css" type="text/css" rel="stylesheet">
+		<script language="JavaScript">
+<!--
+
+var dflt = 0;
+// dflt = default main directory
+var mup = 0;
+// mup = menu up; starts same as dflt
+var sldr = 9;
+// sldr = second-level directory: set to 9 = none highlighted
+var mainitem = 999;
+// set mainitem = 999 for random selection!
+var mythitem = 999;
+var factitem = 999;
+var nw = 0;
+var wnparams = "toolbar=0,resizable=1,location=0,directories=0,scrollbars=0,status=0,menubars=0,width=400,height=300";
+var bnparams = "toolbar=0,resizable=1,location=0,directories=0,scrollbars=0,status=0,menubars=0,width=600,height=400";
+var srchtrick = "http://www.scec.org/sitegraphics/sbanner.jpg\" border=\"0\" usemap=\"#banner\" ISMAP></center>\n<map name=\"banner\">\n<area href=\"http://www.scec.org/\" shape=\"rect\" coords=\"0,68,94,68\">\n</map>\n<center><div name=\"blank";
+
+mnutab = new Array();
+for (mtb = 0; mtb < 16; mtb++) {
+  mnutab[mtb] = new Image();
+}
+mnutab[0].src = "http://www.scec.org/aboutscec/graphics/peoptabN.gif";
+mnutab[1].src = "http://www.scec.org/aboutscec/graphics/histtabN.gif";
+mnutab[2].src = "http://www.scec.org/aboutscec/graphics/opprtabN.gif";
+mnutab[3].src = "http://www.scec.org/aboutscec/graphics/manatabN.gif";
+mnutab[4].src = "http://www.scec.org/research/graphics/maprtabN.gif";
+mnutab[5].src = "http://www.scec.org/research/graphics/fogrtabN.gif";
+mnutab[6].src = "http://www.scec.org/research/graphics/dicotabN.gif";
+mnutab[7].src = "http://www.scec.org/research/graphics/paretabN.gif";
+mnutab[8].src = "http://www.scec.org/resources/graphics/datatabN.gif";
+mnutab[9].src = "http://www.scec.org/resources/graphics/tooltabN.gif";
+mnutab[10].src = "http://www.scec.org/resources/graphics/publtabN.gif";
+mnutab[11].src = "http://www.scec.org/education/graphics/k12tabN.gif";
+mnutab[12].src = "http://www.scec.org/education/graphics/colltabN.gif";
+mnutab[13].src = "http://www.scec.org/education/graphics/publtabN.gif";
+mnutab[14].src = "http://www.scec.org/education/graphics/meditabN.gif";
+mnutab[15].src = "http://www.scec.org/education/graphics/espatabN.gif";
+
+ctbvl = new Array(6);
+clkvl = new Array(6);
+
+function none() {
+}
+
+toptab = new Array(5);
+
+toptab[0] = "sitegraphics/mtabs/hometab";
+toptab[1] = "sitegraphics/mtabs/abouttab";
+toptab[2] = "sitegraphics/mtabs/resetab";
+toptab[3] = "sitegraphics/mtabs/resotab";
+toptab[4] = "sitegraphics/mtabs/edutab";
+
+function scndtab(base, zero, one, two, three, four, five) {
+  this.base = base;
+  this.zero = zero;
+  this.one = one;
+  this.two = two;
+  this.three = three;
+  this.four = four;
+  this.five = five;
+}
+
+scndlvl = new Array(5);
+
+scndlvl[0] = new scndtab("http://www.scec.org/sitegraphics/stabs/", "spacetab", "spacetab", "spacetab", "spacetab", "spacetab", "spacetab");
+scndlvl[1] = new scndtab("http://www.scec.org/aboutscec/graphics/", "peoptab", "histtab", "opprtab", "manatab", "spacetab", "spacetab");
+scndlvl[2] = new scndtab("http://www.scec.org/research/graphics/", "maprtab", "fogrtab", "dicotab", "paretab", "spacetab", "spacetab");
+scndlvl[3] = new scndtab("http://www.scec.org/resources/graphics/", "datatab", "tooltab", "publtab", "spacetab", "spacetab", "spacetab");
+scndlvl[4] = new scndtab("http://www.scec.org/education/graphics/", "k12tab", "colltab", "publtab", "meditab", "espatab", "spacetab");
+
+menulink = new Array(5);
+
+menulink[0] = new scndtab("0", "999", "999", "999", "999", "999", "999");
+menulink[1] = new scndtab("0", "http://www.scec.org/aboutscec/people/", "http://www.scec.org/aboutscec/history/", "http://www.scec.org/aboutscec/opportunities/", "http://www.scec.org/aboutscec/management/", "999", "999");
+menulink[2] = new scndtab("0", "http://www.scec.org/research/majorprojects/", "http://www.scec.org/research/focusgroups/", "http://www.scec.org/research/discgroups/", "http://www.scec.org/research/pastresearch/", "999", "999");
+menulink[3] = new scndtab("0", "http://www.scec.org/resources/data/", "http://www.scec.org/resources/tools/", "http://www.scec.org/resources/publications/", "999", "999", "999");
+menulink[4] = new scndtab("0", "http://www.scec.org/education/k12/", "http://www.scec.org/education/college/", "http://www.scec.org/education/public/", "http://www.scec.org/education/media/", "http://www.scec.org/education/espanol/", "999");
+
+function assignVals(mup) {
+  ctbvl[0] = scndlvl[mup].zero;
+  ctbvl[1] = scndlvl[mup].one;
+  ctbvl[2] = scndlvl[mup].two;
+  ctbvl[3] = scndlvl[mup].three;
+  ctbvl[4] = scndlvl[mup].four;
+  ctbvl[5] = scndlvl[mup].five;
+  clkvl[0] = menulink[mup].zero;
+  clkvl[1] = menulink[mup].one;
+  clkvl[2] = menulink[mup].two;
+  clkvl[3] = menulink[mup].three;
+  clkvl[4] = menulink[mup].four;
+  clkvl[5] = menulink[mup].five;
+}
+
+assignVals(mup);
+
+function resetMenu() {
+  if (mup != dflt) {
+    if (nw != 1) {
+      dfltnm = "tab" + dflt;
+      document.images[tabnm].src = "http://www.scec.org/" + toptab[mup] + "r.jpg";
+      document.images[dfltnm].src = "http://www.scec.org/" + toptab[dflt] + "s.jpg";
+      mup = dflt;
+      assignVals(mup);
+      for (sxmn = 0; sxmn < 6; sxmn++) {
+        menimg = "menu" + sxmn;
+        document.images[menimg].src = scndlvl[mup].base + ctbvl[sxmn] + "N.gif";
+        if (sldr == 9) {
+          document.images[menimg].src = scndlvl[mup].base + ctbvl[sxmn] + "N.gif";
+        }
+        else {
+          if (sxmn != sldr) {
+            document.images[menimg].src = scndlvl[mup].base + ctbvl[sxmn] + "N.gif";
+          }
+          else {
+            document.images[menimg].src = scndlvl[mup].base + ctbvl[sxmn] + "R.gif";
+          }
+        }
+      }
+    }
+  }
+}
+
+function writeMenu() {
+  for (sxmn = 0; sxmn < 6; sxmn++) {
+    menimg = "menu" + sxmn;
+    if (mup != dflt) {
+      document.images[menimg].src = scndlvl[mup].base + ctbvl[sxmn] + "N.gif";
+    }
+    else {
+      if (sxmn != sldr) {
+        document.images[menimg].src = scndlvl[mup].base + ctbvl[sxmn] + "N.gif";
+      }
+      else {
+        document.images[menimg].src = scndlvl[mup].base + ctbvl[sxmn] + "R.gif";
+      }
+    }
+  }
+}
+
+function slMenuOver(mennum) {
+  nw = 1;
+  if (mup == dflt) {
+    if (mennum != sldr) {
+      menimg = "menu" + mennum;
+      document.images[menimg].src = scndlvl[mup].base + ctbvl[mennum] + "R.gif";
+    }
+    else {
+    }
+  }
+  else {
+    menimg = "menu" + mennum;
+    document.images[menimg].src = scndlvl[mup].base + ctbvl[mennum] + "R.gif";
+  }
+}
+
+function slMenuOut(mennum) {
+  nw = 0;
+  if (mup == dflt) {
+    if (mennum != sldr) {
+      menimg = "menu" + mennum;
+      document.images[menimg].src = scndlvl[mup].base + ctbvl[mennum] + "N.gif";
+      setTimeout("resetMenu()", 200)
+    }
+    else {
+    }
+  }
+  else {
+    menimg = "menu" + mennum;
+    document.images[menimg].src = scndlvl[mup].base + ctbvl[mennum] + "N.gif";
+    setTimeout("resetMenu()", 200)
+  }
+}
+
+function pursueLink(mennum) {
+  if (clkvl[mennum] != 999) {
+    window.parent.location = clkvl[mennum];
+  }
+}
+
+function tabOver(tbv) {
+  nw = 1;
+  if (tbv != dflt) {
+    dfltnm = "tab" + dflt;
+    document.images[dfltnm].src = "http://www.scec.org/" + toptab[dflt] + ".jpg";
+  }
+  if (mup != dflt) {
+    if (mup != tbv) {
+      oldnm = "tab" + mup;
+      document.images[oldnm].src = "http://www.scec.org/" + toptab[mup] + "r.jpg";
+    }
+  }
+  mup = tbv;
+  tabnm = "tab" + tbv;
+  document.images[tabnm].src = "http://www.scec.org/" + toptab[tbv] + "s.jpg";
+  assignVals(tbv);
+  writeMenu();
+}
+
+function tabOut(tbo) {
+  nw = 0;
+  tabnm = "tab" + tbo;
+  setTimeout("resetMenu()", 200)
+}
+
+function itemUp() {
+  if (sldr != 9) {
+    sldrnm = "menu" + sldr;
+    document.images[sldrnm].src = scndlvl[dflt].base + ctbvl[sldr] + "R.gif";
+  }
+}
+
+function openPage(page) {
+  enlarge = "http://www.scec.org/" + page + ".html";
+  if (page != "contact") {
+    bnwin = window.open(enlarge, "bnwindow", bnparams);
+  }
+  else {
+    smwin = window.open(enlarge, "smwindow", wnparams);
+  }
+}
+
+// end -->
+</script>
+	</head>
+
+	<body onload="itemUp()" background="sitegraphics/bgtile.jpg" bgcolor="#ffffff" text="#000000" leftmargin="6" marginheight="0" marginwidth="6" topmargin="0">
+		<form action="http://www.usc.edu:8765/udf/query.html" method="post" enctype="x-www-form-urlencoded">
+			<table width="600" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td>
+						<div align="center">
+							<img src="sitegraphics/tobanner.gif" border="0" alt="Southern California Earthquake Center"></div>
+					</td>
+				</tr>
+				<tr>
+					<td><img src="sitegraphics/banner.jpg" usemap="#banner" ismap="" border="0" alt="SCEC Banner"></td>
+				</tr>
+				<tr>
+					<td><a onmouseover="tabOver(0)" onmouseout="tabOut(0)" href="http://www.scec.org/"><img src="sitegraphics/mtabs/hometabs.jpg" alt="" name="tab0" height="31" width="120" border="0"></a><a onmouseover="tabOver(1)" onmouseout="tabOut(1)" href="http://www.scec.org/aboutscec/"><img src="sitegraphics/mtabs/abouttabr.jpg" alt="" name="tab1" height="31" width="120" border="0"></a><a onmouseover="tabOver(2)" onmouseout="tabOut(2)" href="http://www.scec.org/research/"><img src="sitegraphics/mtabs/resetabr.jpg" alt="" name="tab2" height="31" width="120" border="0"></a><a onmouseover="tabOver(3)" onmouseout="tabOut(3)" href="http://www.scec.org/resources/"><img src="sitegraphics/mtabs/resotabr.jpg" alt="" name="tab3" height="31" width="120" border="0"></a><a onmouseover="tabOver(4)" onmouseout="tabOut(4)" href="http://www.scec.org/education/"><img src="sitegraphics/mtabs/edutabr.jpg" alt="" name="tab4" height="31" width="120" border="0"></a></td>
+				</tr>
+				<tr>
+					<td>
+						<table width="600" border="0" cellspacing="0" cellpadding="0">
+							<tbody><tr>
+							<td>
+								<script language="JavaScript">
+<!--
+  document.write("<td><a href=\"javascript:pursueLink(0)\" onMouseOver=\"slMenuOver(0)\" onMouseOut=\"slMenuOut(0)\"><img name=\"menu0\" src=\"" + scndlvl[dflt].base + scndlvl[dflt].zero + "N.gif\" alt=\"\" width=\"100\" height=\"30\" border=\"0\"></a></td>");
+  document.write("\n<td><a href=\"javascript:pursueLink(1)\" onMouseOver=\"slMenuOver(1)\" onMouseOut=\"slMenuOut(1)\"><img name=\"menu1\" src=\"" + scndlvl[dflt].base + scndlvl[dflt].one + "N.gif\" alt=\"\" width=\"100\" height=\"30\" border=\"0\"></a></td>");
+  document.write("\n<td><a href=\"javascript:pursueLink(2)\" onMouseOver=\"slMenuOver(2)\" onMouseOut=\"slMenuOut(2)\"><img name=\"menu2\" src=\"" + scndlvl[dflt].base + scndlvl[dflt].two + "N.gif\" alt=\"\" width=\"100\" height=\"30\" border=\"0\"></a></td>");
+  document.write("\n<td><a href=\"javascript:pursueLink(3)\" onMouseOver=\"slMenuOver(3)\" onMouseOut=\"slMenuOut(3)\"><img name=\"menu3\" src=\"" + scndlvl[dflt].base + scndlvl[dflt].three + "N.gif\" alt=\"\" width=\"100\" height=\"30\" border=\"0\"></a></td>");
+  document.write("\n<td><a href=\"javascript:pursueLink(4)\" onMouseOver=\"slMenuOver(4)\" onMouseOut=\"slMenuOut(4)\"><img name=\"menu4\" src=\"" + scndlvl[dflt].base + scndlvl[dflt].four + "N.gif\" alt=\"\" width=\"100\" height=\"30\" border=\"0\"></a></td>");
+  document.write("\n<td><a href=\"javascript:pursueLink(5)\" onMouseOver=\"slMenuOver(5)\" onMouseOut=\"slMenuOut(5)\"><img name=\"menu5\" src=\"" + scndlvl[dflt].base + scndlvl[dflt].five + "N.gif\" alt=\"\" width=\"100\" height=\"30\" border=\"0\"></a></td>");
+// end -->
+</script></td><td><a href="javascript:pursueLink(0)" onmouseover="slMenuOver(0)" onmouseout="slMenuOut(0)"><img name="menu0" src="http://www.scec.org/sitegraphics/stabs/spacetabN.gif" alt="" width="100" height="30" border="0"></a></td>
+<td><a href="javascript:pursueLink(1)" onmouseover="slMenuOver(1)" onmouseout="slMenuOut(1)"><img name="menu1" src="http://www.scec.org/sitegraphics/stabs/spacetabN.gif" alt="" width="100" height="30" border="0"></a></td>
+<td><a href="javascript:pursueLink(2)" onmouseover="slMenuOver(2)" onmouseout="slMenuOut(2)"><img name="menu2" src="http://www.scec.org/sitegraphics/stabs/spacetabN.gif" alt="" width="100" height="30" border="0"></a></td>
+<td><a href="javascript:pursueLink(3)" onmouseover="slMenuOver(3)" onmouseout="slMenuOut(3)"><img name="menu3" src="http://www.scec.org/sitegraphics/stabs/spacetabN.gif" alt="" width="100" height="30" border="0"></a></td>
+<td><a href="javascript:pursueLink(4)" onmouseover="slMenuOver(4)" onmouseout="slMenuOut(4)"><img name="menu4" src="http://www.scec.org/sitegraphics/stabs/spacetabN.gif" alt="" width="100" height="30" border="0"></a></td>
+<td><a href="javascript:pursueLink(5)" onmouseover="slMenuOver(5)" onmouseout="slMenuOut(5)"><img name="menu5" src="http://www.scec.org/sitegraphics/stabs/spacetabN.gif" alt="" width="100" height="30" border="0"></a></td>
+							
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				<tr>
+					<td bgcolor="#d3d3d3">
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tbody><tr>
+								<td class="crumbs">&nbsp;<a href="index.shtml">Home</a> &gt; Privacy Policy</td>
+								<td align="right" width="150"><input type="hidden" name="col" value="vhost"><input type="hidden" name="qp" value="+site:www.scec.org"><input type="hidden" name="imgname" value="http://www.scec.org/sitegraphics/sbanner.jpg"><input type="hidden" name="textcol" value="000000"><input type="hidden" name="bgcol" value="ffffff"><input type="hidden" name="linkcol" value="0000ff"><input type="hidden" name="vlinkcol" value="772222"><input type="text" name="qt" value="Search" size="10" onfocus="this.value=''"><a onmouseover="self.status='Start keyword search'; return true" onmouseout="self.status=''; return true" href="javascript:document.forms%5b0%5d.submit()"><img src="sitegraphics/gobutton.gif" alt="Go" width="30" height="17" border="0"></a></td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tbody><tr height="5">
+								<td height="5"></td>
+							</tr>
+							<tr>
+								<td align="left" valign="top">
+									<table width="100%" border="0" cellspacing="0" cellpadding="2">
+										<tbody><tr>
+											<td bgcolor="#ff8c00" class="main"><font color="#ffffff">SCEC Privacy Policy</font></td>
+										</tr>
+										<tr>
+											<td bgcolor="#d3d3d3">
+												<p><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Thank you for visiting the Southern California Earthquake Center (SCEC) web site. Please note that we collect no personal information about you when you visit our web site unless you choose to provide that information to us.</font></p>
+												<p><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">If you are simply visiting the SCEC home page to browse through our site, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store <b>only</b> the following information about your visit:</font></p>
+												<ol>
+													<li><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">The <b>Internet domain</b> (for example, "xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you connect from a university's domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our web site;</font>
+													</li><li><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">The type of <b>browser</b> and <b>operating system</b> used to access our site;</font>
+													</li><li><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">The <b>date and time</b> you access our site;</font>
+													</li><li><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">The <b>pages</b> you visit; and</font>
+													</li><li><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">If you linked to the SCEC site from another web site, the <b>address of that web site</b>.</font>
+												</li></ol>
+												<p><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">We use this information to help us make our site more useful to visitors -- to learn about the number of visitors to our site and the types of technology our visitors use. We do <b>not</b> track or record information about individuals and their visits.</font></p>
+												<p><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">If you request information or services from SCEC and submit personal information to facilitate response to your request, we use the information provided to respond to your message. We will not share the information you give us with others. unless your inquiry relates to them, or as otherwise provided by law. We do not create individual profiles with the information you provide or collect information for commercial marketing.</font></p>
+												<p><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">If you conduct business with SCEC electronically, any information voluntarily submitted as part of that process will be used and protected as explained for the specific function involved.</font></p>
+												<div align="left">
+													<p><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Policy only pertains to pages beginning with "www.scec.org" or "128.125.23.68". (for example, not www.scign.org or www.relm.org or www.scecdc.scec.org which are maintained by others)</font></p>
+													<p><a href="javascript:%20history.go(-1)" onmouseover="self.status='Back to the previous page'; return true" onmouseout="self.status=''; return true"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Back</font></a></p>
+												</div>
+											</td>
+										</tr>
+										<tr height="5">
+											<td height="5"></td>
+										</tr>
+									</tbody></table>
+								</td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+			</tbody></table>
+			<p></p>
+		</form>
+	
+<map name="banner">
+<area shape="poly" coords="0,24,29,0,59,0,89,24,89,44,59,68,29,68,0,44" href="http://www.scec.org/" onmouseover="self.status='SCEC Home Page'; return true" onmouseout="self.status=''; return true" alt="Home">
+<area shape="rect" coords="0,0,599,68" href="javascript:openPage('banner')" onmouseover="self.status='About this image...'; return true" onmouseout="self.status=''; return true" alt="About the Banner">
+</map>
+</body></html>
