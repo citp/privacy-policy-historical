@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drweil.com privacy policy that was archived on 2001-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010401014613id_/http%3A//www.drweil.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drweil.com privacy policy that was archived on 2001-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010815092502id_/http%3A//www.drweil.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Ask Dr. Weil - Privacy policy
 
