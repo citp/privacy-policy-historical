@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the effcu.org privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604055053id_/http%3A//effcu.org/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the effcu.org privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205003636id_/http%3A//effcu.org/policy.asp) for the most accurate reproduction.*
 
 # Policy - Eastern Financial Credit Union
 
