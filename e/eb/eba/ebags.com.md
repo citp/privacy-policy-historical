@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebags.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604010350id_/http%3A//ebags.com/info/index.cfm%3FFuseAction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebags.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217204602id_/http%3A//ebags.com/info/index.cfm%3FFuseAction%3Dprivacy%26PageEnd_Link%3DPrivacy) for the most accurate reproduction.*
 
 # eBags.com
 
