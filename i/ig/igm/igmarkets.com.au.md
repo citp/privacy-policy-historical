@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the igmarkets.com.au privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211025850id_/http%3A//www.igmarkets.com.au/privacy_notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igmarkets.com.au privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402023238id_/http%3A//www.igmarkets.com.au/content/privacy_notice.html) for the most accurate reproduction.*
 
-# IG Markets Australia - Trading Stock Indices on Margin
+# IG Markets - Privacy Notice
 
 Privacy Notice
 
@@ -33,11 +33,11 @@ Unless you are informed otherwise, the personal information we hold is used for 
 
 Depending on the product or service concerned and particular restrictions on sensitive information, this means that personal information may be disclosed to:
 
-  * other companies within the IG group (including associated companies in the United Kingdom) who provide financial and other services
-  * service providers and specialist advisers to IG Markets who have been contracted to provide IG Markets with administrative, financial, insurance, research or other services
-  * credit providers, courts, tribunals and regulatory authorities as agreed or authorised by law
-  * credit reporting or reference agencies
-  * anyone authorised by an individual, as specified by that individual or the contract
+» other companies within the IG group (including associated companies in the United Kingdom) who provide financial and other services   
+service providers and specialist advisers to IG Markets who have been contracted to provide IG Markets with administrative, financial, insurance, research or other services   
+» credit providers, courts, tribunals and regulatory authorities as agreed or authorised by law   
+» credit reporting or reference agencies   
+» anyone authorised by an individual, as specified by that individual or the contract 
 
 Generally, we require that organisations outside the IG group of companies who handle or obtain personal information as service providers to IG Markets acknowledge the confidentiality of this information, undertake to respect any individual's right to privacy and comply with the National Privacy Principles and this policy.
 
@@ -74,9 +74,9 @@ If you are not satisfied with our response to your complaint, you can telephone 
   
 If you want to:
 
-  * make a general enquiry about IG Markets' privacy policy
-  * change your personal information
-  * obtain an application form for access to your personal information
+» make a general enquiry about IG Markets' privacy policy   
+» change your personal information   
+» obtain an application form for access to your personal information 
 
 phone IG Markets on (03) 9860 1711 or write to us at: IG Markets, Level 3, 499 St Kilda Road, Melbourne VIC 3004, or email: [helpdesk@igmarkets.com.au](mailto:helpdesk@igmarkets.com.au)
 
