@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conduent.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603200706id_/http%3A//www.conduent.com/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conduent.com privacy policy that was archived on 2004-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041214032620id_/http%3A//www.conduent.com/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # About Us : Privacy Policy
 
