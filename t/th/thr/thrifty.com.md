@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thrifty.com privacy policy that was archived on 2003-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030404030004id_/http%3A//thrifty.com/about/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thrifty.com privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613133741id_/http%3A//thrifty.com/about/privacystatement.aspx) for the most accurate reproduction.*
 
-# Thrifty Car Rental Rates, quotes, reservations, travel planning for vacation, business, corporate & Leisure
+# Thrifty Rental. Rent a car with our easy online reservation system.
 
- | 
+### Privacy statement
 
 You understand that the collection of personal data is necessary to rent a car. We respect your privacy and your right to know how that information is being used. The following represents our privacy policy regarding the collection, handling and distribution of your personal data. 
 
@@ -16,3 +16,7 @@ You understand that the collection of personal data is necessary to rent a car. 
 CIMS 1079  
 P.O. Box 35250  
 Tulsa, OK 74153-0250** If you opt out, Thrifty will not share your personal information with anyone other than our franchisees who need that information to provide you a rental car. However, you will be targeted for Thrifty marketing opportunities and we reserve the right to pass this information to third parties to enforce collection efforts against you as a result of the breach of any agreement with us or our franchisees. 
+
+Back to top
+
+|  | 
