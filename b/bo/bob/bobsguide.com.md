@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bobsguide.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603122656id_/http%3A//www.bobsguide.com/cgi-bin/guide/vinfo.pl%3FID%3Dbg%26hkey%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bobsguide.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013092930id_/http%3A//www.bobsguide.com/cgi-bin/guide/vinfo.pl%3FID%3Dbg%26hkey%3Dprivacy) for the most accurate reproduction.*
 
 # Bobs Guide
 
