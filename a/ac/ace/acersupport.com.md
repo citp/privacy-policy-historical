@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acersupport.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206131800id_/http%3A//acersupport.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acersupport.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331115429id_/http%3A//www.acersupport.com/html/privacy.html) for the most accurate reproduction.*
 
 # privacy
 
@@ -38,4 +38,4 @@ You can choose to set your browser to notify you when you receive a cookie, givi
                          P.O. Box 6137.  
                          Temple, TX 76503-6137 
 
-[webmaster@acersupport.com](https://web.archive.org/web/20001206131800id_/http%3A//acersupport.com/html/webmaster.html)
+webmaster@acersupport.com
