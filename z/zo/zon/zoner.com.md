@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoner.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605131815id_/http%3A//zoner.com/zoner/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoner.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203191542id_/http%3A//zoner.com/zoner/privacy-policy.asp) for the most accurate reproduction.*
 
 # Zoner Graphics, Digital Photography, and Barcode Software
 
