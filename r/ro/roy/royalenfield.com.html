@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the royalenfield.com privacy policy that was archived on 2002-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021205151936id_/http%3A//www.royalenfield.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the royalenfield.com privacy policy that was archived on 2003-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030603185303id_/http%3A//www.royalenfield.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Royal Enfield - Privacy Policy</title>
@@ -22,11 +22,36 @@ if (document.getElementById)
 </style>
 <link rel="stylesheet" href="./common/royalenfield.css"></head>
 
-<body text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" bgcolor="#313131">
+<body text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" bgcolor="#313131" stats="1">
 
 <script language="JavaScript" type="text/javascript">
 <!--
-function showlayer()
+function showlayer(id)
+ {
+ 	if(document.all)
+	{
+	 	document.all["RE_"+id].style.visibility = "visible";
+	}
+	else
+	{
+		document.layers["RE_"+id].visibility = "visible";
+	}
+ }
+ function hidelayer()
+ {
+ 	if(document.all)
+	{
+		for(i=1;i<=3;i++)
+	 		document.all["RE_"+i].style.visibility = "hidden";
+	}
+	else
+	{
+		for(i=1;i<=3;i++)
+			document.layers["RE_"+i].visibility = "hidden";
+	}
+ }		
+ 
+/* function showlayer()
  {
  	if(document.all)
  	document.all["company"].style.visibility = "visible";
@@ -39,7 +64,8 @@ function showlayer()
  	document.all["company"].style.visibility = "hidden";
 	else
 	document.layers["company"].visibility = "hidden";
- }		
+ }*/		
+ 
  function NewsDetails(newsid,strmode)
 	{
 		document.location= "NewsDetails.asp?Newsid=" + newsid + "&Mode=" + strmode;
@@ -53,7 +79,10 @@ function NewsDetailsnew(newsid,strmode)
 	document.location = "./NewsDetails.asp?Newsid=" + newsid + "&Mode=" + strmode;
 //	window.open(page,'','toolbar=no,menubar=no,top=0,left=0,resizable=yes,scrollbars=yes,width=770')
 }
-
+function MM_openBrWindow(theURL,winName,features) 
+{ //v2.0
+  window.open(theURL,winName,features);
+}
 //-->
 </script>
 <div id="Layer" style="LEFT:0px; POSITION:absolute; TOP:0px; VISIBILITY:Visible; Z-INDEX:1;">
@@ -107,7 +136,7 @@ resolution =screen.width
 
 document.write('<img src="http://www.royalenfield.com/tracking/stream.asp?http_referer=&path_info=%2Fprivacy%2Easp&resolution='+resolution+'&BrowserInfo='+escape(browser)+'&BrowserVersion='+version+'&BrowserOS='+OS+'&actualPath='+escape(document.location)+'&link_id=" width=1 height=1>')
 //-->
-</script><img src="http://www.royalenfield.com/tracking/stream.asp?http_referer=&amp;path_info=%2Fprivacy%2Easp&amp;resolution=800&amp;BrowserInfo=Netscape%20Navigator&amp;BrowserVersion=5&amp;BrowserOS=Linux&amp;actualPath=https%3A//web.archive.org/web/20021205151936id_/http%253A//www.royalenfield.com/privacy.asp&amp;link_id=" width="1" height="1">
+</script><img src="http://www.royalenfield.com/tracking/stream.asp?http_referer=&amp;path_info=%2Fprivacy%2Easp&amp;resolution=800&amp;BrowserInfo=Netscape%20Navigator&amp;BrowserVersion=5&amp;BrowserOS=Linux&amp;actualPath=https%3A//web.archive.org/web/20030603185303id_/http%253A//www.royalenfield.com/privacy.asp&amp;link_id=" width="1" height="1">
 </div>
 <table cellpadding="0" cellspacing="0" border="0" width="779" bgcolor="#000000">
 <tbody><tr><td><img src="./images/b3b3b3.gif" border="0" width="126" height="1"></td>
@@ -117,23 +146,31 @@ document.write('<img src="http://www.royalenfield.com/tracking/stream.asp?http_r
 <tr><td width="126" rowspan="4"><a href="index.asp"><img src="./images/hlogo.gif" border="0"></a></td>
 	<td align="right" class="greytext"><img src="./images/b3b3b3.gif" border="0" width="1" height="5"></td>
 </tr>
-<tr><td align="right"><img src="images/toplink.gif" height="10" border="0" alt="" usemap="#toplink_Map"><map name="toplink_Map"><area shape="rect" alt="" coords="173,0,293,10" href="contact.asp"><area shape="rect" alt="" coords="91,0,152,10" href="downloads.asp"><area shape="rect" alt="" coords="46,0,71,9" href="faq.asp"><area shape="rect" alt="" coords="0,0,27,9" href="links.asp"></map>&nbsp;&nbsp;</td></tr>
+<tr>
+	<td align="right">
+	<img src="./images/toplink.gif" width="248" height="10" border="0" usemap="#toplink_Map">
+	<map name="toplink_Map">
+	<area shape="rect" alt="" coords="126,0,248,9" href="contact.asp">
+	<area shape="rect" alt="" coords="45,0,109,9" href="downloads.asp">
+	<area shape="rect" alt="" coords="0,0,28,10" href="links.asp">
+	</map>&nbsp;&nbsp;
+	</td>
+</tr>
 <tr><td><img src="./images/b3b3b3.gif" border="0" width="1" height="12"></td></tr>
 
 <tr>
-	<td align="right" valign="bottom"><a href="index.asp"><img src="./images/homelink.gif" border="0"></a>
-	<img src="images/logi.gif" height="10" border="0" usemap="#logi_Map">	
-<map name="logi_Map">
-<area shape="rect" alt="" coords="1,0,31,9" href="login.asp">
-<area shape="rect" alt="" coords="48,0,102,10" href="products.asp">
-<area shape="rect" alt="" coords="116,0,145,9" href="searchnews.asp">
-<area shape="rect" alt="" coords="165,0,203,9" href="dealersearch.asp">
-<area shape="rect" alt="" coords="221,0,267,9" href="theride.asp">
-<area shape="rect" alt="" coords="285,0,344,9" href="community.asp">
-<area shape="rect" alt="" coords="364,0,409,9" href="rentals.asp">
-<area shape="rect" alt="" coords="424,0,459,9" href="touroperator.asp">
-<area shape="rect" alt="" coords="474,0,519,9" href="corporate.asp" onmouseover="javascript:showlayer()" onmouseout="javascript:hidelayer()">
-</map>&nbsp;&nbsp;</td>
+	<td align="right" valign="bottom"><a href="index.asp"><img src="./images/homelink.gif" border="0"></a><img src="images/logi.gif" border="0" usemap="#logi">	
+	<map name="logi">
+<area alt="" coords="2,0,54,9" href="products.asp" onmouseover="javascript:showlayer(3)" onmouseout="javascript:hidelayer()">
+<area alt="" coords="72,0,134,9" href="community.asp" onmouseover="javascript:showlayer(2)" onmouseout="javascript:hidelayer()">
+<area alt="" coords="152,0,199,9" href="corporate.asp" onmouseover="javascript:showlayer(1)" onmouseout="javascript:hidelayer()">
+<area alt="" coords="212,0,255,9" href="dealersearch.asp">
+<area alt="" coords="272,0,315,9" href="rentals.asp">
+<area alt="" coords="332,0,367,8" href="touroperator.asp">
+<area alt="" coords="385,0,412,8" href="searchnews.asp">
+<area alt="" coords="426,0,458,9" href="login.asp">
+</map>&nbsp;&nbsp;
+	</td>
 </tr>
 
 <tr>
@@ -144,42 +181,41 @@ document.write('<img src="http://www.royalenfield.com/tracking/stream.asp?http_r
 <script language="JavaScript" type="text/javascript">
 <!--
 if(document.all)
-document.write("<div id='company' style='position:absolute;top:50px;left:642px;visibility:hidden' onmouseover='javascript:showlayer()' onmouseout='javascript:hidelayer()'>")
+document.write("<div id='RE_1' style='position:absolute;top:50px;left:368px;visibility:hidden' onmouseover='javascript:showlayer(1)' onmouseout='javascript:hidelayer()'>")
 else
-document.write("<layer id='company' top=51 left=642 visibility='hidden' onmouseover='javascript:showlayer()' onmouseout='javascript:hidelayer()'>")
+document.write("<layer id='RE_1' top='51' left='368' visibility='hide' onmouseover='javascript:showlayer(1)' onmouseout='javascript:hidelayer()'>")
 //-->
-</script><layer id="company" top="51" left="642" visibility="hidden" onmouseover="javascript:showlayer()" onmouseout="javascript:hidelayer()">
-
+</script><layer id="RE_1" top="51" left="368" visibility="hide" onmouseover="javascript:showlayer(1)" onmouseout="javascript:hidelayer()">
 <table cellpadding="0" cellspacing="0" border="0" width="130">
 <tbody><tr>
 	<td bgcolor="#000000"><img src="./images/b3b3b3.gif" border="0" width="1" height="5"></td>
 </tr>
 <tr>
-	<td bgcolor="#808080" class="whitetext" height="17" align="right"><a href="history.asp" class="whitetext">History</a>&nbsp;</td>
+	<td bgcolor="#808080" class="tshirt" height="17" align="right"><a href="history.asp" class="tshirt">History</a>&nbsp;</td>
 </tr>
 <tr>
 	<td bgcolor="#000000"><img src="./images/b3b3b3.gif" border="0" width="1" height="1"></td>
 </tr>
 <tr>
-	<td bgcolor="#808080" class="whitetext" height="17" align="right"><a href="eicher.asp" class="whitetext">Eicher Group</a>&nbsp;</td>
+	<td bgcolor="#808080" class="tshirt" height="17" align="right"><a href="eicher.asp" class="tshirt">Eicher Group</a>&nbsp;</td>
 </tr>
 <tr>
 	<td bgcolor="#000000"><img src="./images/b3b3b3.gif" border="0" width="1" height="1"></td>
 </tr>
 <tr>
-	<td bgcolor="#808080" class="whitetext" height="17" align="right"><a href="searchnews.asp" class="whitetext">Royal Enfield News</a>&nbsp;</td>
+	<td bgcolor="#808080" class="tshirt" height="17" align="right"><a href="searchnews.asp" class="tshirt">Royal Enfield News</a>&nbsp;</td>
 </tr>
 <tr>
 	<td bgcolor="#000000"><img src="./images/b3b3b3.gif" border="0" width="1" height="1"></td>
 </tr>
 <tr>
-	<td bgcolor="#808080" class="whitetext" height="17" align="right"><a href="media_relations.asp" class="whitetext">Media Relations</a>&nbsp;</td>
+	<td bgcolor="#808080" class="tshirt" height="17" align="right"><a href="media_relations.asp" class="tshirt">Media Relations</a>&nbsp;</td>
 </tr>
 <tr>
 	<td bgcolor="#000000"><img src="./images/b3b3b3.gif" border="0" width="1" height="1"></td>
 </tr>
 <tr>
-	<td bgcolor="#808080" class="whitetext" height="17" align="right"><a href="business_opp.asp" class="whitetext">Business Opportunity</a>&nbsp;</td>
+	<td bgcolor="#808080" class="tshirt" height="17" align="right"><a href="business_opp.asp" class="tshirt">Business Opportunity</a>&nbsp;</td>
 </tr>
 </tbody></table>
 <script language="JavaScript" type="text/javascript">
@@ -190,6 +226,96 @@ else
 document.write("</layer>")
 //-->
 </script></layer>
+
+
+<script language="JavaScript" type="text/javascript">
+<!--
+if(document.all)
+document.write("<div id='RE_2' style='position:absolute;top:50px;left:340px;visibility:hidden' onmouseover='javascript:showlayer(2)' onmouseout='javascript:hidelayer()'>")
+else
+document.write("<layer id='RE_2' top='51' left='340' visibility='hide' onmouseover='javascript:showlayer(2)' onmouseout='javascript:hidelayer()'>")
+//-->
+</script><layer id="RE_2" top="51" left="340" visibility="hide" onmouseover="javascript:showlayer(2)" onmouseout="javascript:hidelayer()">
+<table cellpadding="0" cellspacing="0" border="0" width="95">
+<tbody><tr>
+	<td bgcolor="#000000"><img src="./images/b3b3b3.gif" border="0" width="1" height="5"></td>
+</tr>
+<tr>
+	<td bgcolor="#808080" class="whitetext" height="17" align="right"><a href="bullet_in_board.asp" class="tshirt">Bullet-in Board</a>&nbsp;</td>
+</tr>
+<tr>
+	<td bgcolor="#000000"><img src="./images/b3b3b3.gif" border="0" width="1" height="1"></td>
+</tr>
+<tr>
+	<td bgcolor="#808080" class="whitetext" height="17" align="right"><a href="theride.asp" class="tshirt">The Ride</a>&nbsp;</td>
+</tr>
+<tr>
+	<td bgcolor="#000000"><img src="./images/b3b3b3.gif" border="0" width="1" height="1"></td>
+</tr>
+<tr>
+	<td bgcolor="#808080" class="whitetext" height="17" align="right"><a href="sharetheride.asp" class="tshirt">Ride Contest</a>&nbsp;</td>
+</tr>
+<tr>
+	<td bgcolor="#000000"><img src="./images/b3b3b3.gif" border="0" width="1" height="1"></td>
+</tr>
+<tr>
+	<td bgcolor="#808080" class="whitetext" height="17" align="right"><a href="http://www.reds.royalenfield.com" class="tshirt" target="_blank">REDS</a>&nbsp;</td>
+</tr>
+</tbody></table>
+<script language="JavaScript" type="text/javascript">
+<!--
+if(document.all)
+document.write("</div>")
+else
+document.write("</layer>")
+//-->
+</script></layer>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+if(document.all)
+document.write("<div id='RE_3' style='position:absolute;top:50px;left:228px;visibility:hidden' onmouseover='javascript:showlayer(3)' onmouseout='javascript:hidelayer()'>")
+else
+document.write("<layer id='RE_3' top='51' left='228' visibility='hide' onmouseover='javascript:showlayer(3)' onmouseout='javascript:hidelayer()'>")
+//-->
+</script><layer id="RE_3" top="51" left="228" visibility="hide" onmouseover="javascript:showlayer(3)" onmouseout="javascript:hidelayer()">
+<table cellpadding="0" cellspacing="0" border="0" width="135">
+<tbody><tr>
+	<td bgcolor="#000000"><img src="./images/b3b3b3.gif" border="0" width="1" height="5"></td>
+</tr>
+<tr>
+	<td bgcolor="#808080" class="whitetext" height="17" align="right"><a href="products.asp" class="tshirt">Indian Models</a>&nbsp;</td>
+</tr>
+<tr>
+	<td bgcolor="#000000"><img src="./images/b3b3b3.gif" border="0" width="1" height="1"></td>
+</tr>
+<tr>
+	<td bgcolor="#808080" class="whitetext" height="17" align="right"><a href="products.asp" class="tshirt">International Models</a>&nbsp;</td>
+</tr>
+<tr>
+	<td bgcolor="#000000"><img src="./images/b3b3b3.gif" border="0" width="1" height="1"></td>
+</tr>
+<tr>
+	<td bgcolor="#808080" class="whitetext" height="17" align="right"><a href="discbrake.asp" class="tshirt">Disk Brake Kit</a>&nbsp;</td>
+</tr>
+<tr>
+	<td bgcolor="#000000"><img src="./images/b3b3b3.gif" border="0" width="1" height="1"></td>
+</tr>
+<tr>
+	<td bgcolor="#808080" class="whitetext" height="17" align="right"><a href="bikecover.asp" class="tshirt">Motorcycle Cover</a>&nbsp;</td>
+</tr>
+</tbody></table>
+<script language="JavaScript" type="text/javascript">
+<!--
+if(document.all)
+document.write("</div>")
+else
+document.write("</layer>")
+//-->
+</script></layer>
+
+
+
 <table width="780" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
 	<tbody><tr><td bgcolor="#999999" colspan="3" height="22" class="bheader">&nbsp;&nbsp;Privacy Policy</td></tr>
 	<tr><td bgcolor="#ffffff" colspan="3"><img src="./images/b3b3b3.gif" width="1" height="1"></td></tr>
@@ -259,19 +385,16 @@ document.write("</layer>")
 	
 	
 </tbody></table>
-<table width="775" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td bgcolor="#5a5757" colspan="2"><img src="./images/b3b3b3.gif" width="775" height="1"></td></tr>
-<tr><td colspan="2"><img src="./images/b3b3b3.gif" width="775" height="3"></td></tr>
-  <tr> 
-  	<td valign="top"><font class="footer">&nbsp;&nbsp;<a href="privacy.asp" class="footer">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="term.asp" class="footer">Terms and Conditions</a></font></td>
-    <td valign="top" align="right"><font class="footer">© Royal Enfield. All rights reserved</font></td>
-  </tr>
+
+<table width="780" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+	<tbody><tr><td bgcolor="#ACABAB" colspan="2"><img src="./images/b3b3b3.gif" width="775" height="1"></td></tr>
+	<tr><td colspan="2"><img src="./images/b3b3b3.gif" width="775" height="3"></td></tr>
+  	<tr><td valign="top" class="tshirt">&nbsp;&nbsp;<a href="privacy.asp" class="tshirt"><font color="#999999">Privacy Policy</font></a>&nbsp;&nbsp;<font color="#999999">|</font>&nbsp;&nbsp;<a href="term.asp" class="tshirt"><font color="#999999">Terms and Conditions</font></a></td>
+    	<td valign="top" align="right" class="tshirt"><font color="#999999">© Royal Enfield. All rights reserved&nbsp;&nbsp;</font></td>
+  	</tr>
+	<tr><td colspan="2"><img src="./images/b3b3b3.gif" width="775" height="3"></td></tr>
 </tbody></table>
 
-
-
-      
-      
 
 
 
