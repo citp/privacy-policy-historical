@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coastalwatch.com privacy policy that was archived on 2003-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031121133848id_/http%3A//coastalwatch.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coastalwatch.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605174133id_/http%3A//www.coastalwatch.com/privacy.asp) for the most accurate reproduction.*
 
 # Coastalwatch Conditions of Use, Disclaimer and Copyright Information.
 
@@ -45,9 +45,9 @@ This site gives users the following options for changing and modifying informati
 Contacting the website**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact 
 
-**coastalwatch.com Pty Ltd**  
-Offices 16-17  
-62-66 Goodwin Terrace  
-Burleigh Heads  
-QLD 4220  
+**Coastalwatch Holdings Pty Ltd**  
+Level 2  
+53 Walker St  
+North Sydney  
+NSW 2060  
 [info@coastalwatch.com ](mailto:info@coastalwatch.com%20)
