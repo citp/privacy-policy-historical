@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibackup.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604065248id_/http%3A//www.ibackup.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibackup.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208102318id_/http%3A//www1.ibackup.com/policy.htm) for the most accurate reproduction.*
 
 # IBackup
 
@@ -26,7 +26,7 @@ You can go to **MyIBackup** option after a successful login and uncheck the opti
   
 Your Password should never be shared with anyone unless you intend to do collaborative work with others who need read/write access to your files . When we receive certain types of sensitive information such as financial information, we redirect visitors to the secure portion of our site using industry standard SSL . This site has security measures in place to protect the loss, misuse and alteration of the information under our control. The user data is password protected. However, Pro Softnet Corp. is not responsible for any loss of data upon using this service. 
 
-For details, please see [Terms of Service](http://www.ibackup.com/terms.htm)
+For details, please see [Terms of Service](https://web.archive.org/terms.htm)
 
 IBackup uses **cookies** for user session tracking. The **cookies** are used solely for identifying user sessions and do not store any personal information regarding the user.   
   
