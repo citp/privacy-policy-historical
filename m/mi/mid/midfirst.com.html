@@ -1,295 +1,63 @@
-<!--The following is the downloaded HTML source of the midfirst.com privacy policy that was archived on 2001-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010616173550id_/http%3A//www.midfirst.com/privacy1.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the midfirst.com privacy policy that was archived on 2001-10-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011030164131id_/http%3A//midfirst.com/inside_privacy.asp) for the most accurate reproduction.-->
 
-<html><head><script language="JavaScript">
-	NS4 = (document.layers) ? 1 : 0;
-    IE4 = (document.all) ? 1 : 0;
-    ver4 = (NS4 || IE4) ? 1 : 0;
+<html><head><script language="JavaScript" type="text/javascript">
+<!--
 
-	var selectParent = null
-	var selectChild = null
+if(window.event + "" == "undefined") event = null;
+function HM_f_PopUp(){return false};
+function HM_f_PopDown(){return false};
+popUp = HM_f_PopUp;
+popDown = HM_f_PopDown;
 
-	NS4 = (document.layers) ? 1 : 0;
-    IE4 = (document.all) ? 1 : 0;
-    ver4 = (NS4 || IE4) ? 1 : 0;
-
-    if (ver4) {
-         with (document) {
-             write("<STYLE TYPE='text/css'>\n");
-             if (NS4) {
-                 write(".parent {position:absolute; visibility:inherit}\n");
-                 write(".child {position:absolute; visibility:inherit}\n");
-             }
-             else {
-                  write(".child {display:none}\n")
-             }
-             write("</STYLE>");
-         }
-     }
-
-     isExpanded = false;
-
-     function getIndex(el) {
-         ind = null;
-         for (i=0; i<document.NavMenu.document.layers.length; i++) {
-             whichEl = document.NavMenu.document.layers[i];
-             if (whichEl.id == el) {
-                 ind = i;
-                 break;
-             }
-         }
-         return ind;
-     }
-
-	 function arrange() {
-	 	 nextY = document.NavMenu.document.layers[firstInd].pageY + document.NavMenu.document.layers[firstInd].document.height;
-		 for (i=firstInd+1; i<document.NavMenu.document.layers.length; i++) {
-		 	if (document.NavMenu.document.layers[i].name != "Content") {
-				whichEl = document.NavMenu.document.layers[i];
-				if (whichEl.visibility != "hide") {
-					whichEl.pageY = nextY;
-					whichEl.pageX = 0;
-					nextY += whichEl.document.height;
-				}
-			}
-		}
-	 }
-
-     function initIt(){
-         if (!ver4) return;
-         if (NS4) {
-             for (i=0; i<document.NavMenu.document.layers.length; i++) {
-                 whichEl = document.NavMenu.document.layers[i];
-                 if (whichEl.id.indexOf("Child") != -1) whichEl.visibility = "hide";
-             }
-             arrange();
-			 // make the menu visible after it finishes loading to prevent the flashing effect
-			 document.NavMenu.visibility = "visible";
-         }
-         else {
-             divColl = document.all.tags("DIV");
-             for (i=0; i<divColl.length; i++) {
-                 whichEl = divColl(i);
-                 if (whichEl.className == "child") whichEl.style.display = "none";
-             }
-         }
-     }
-
-     function expandIt(el) {
-         if (!ver4) return;
-         if (IE4) {
-             whichEl = eval(el + "Child");
-             whichIm = eval("document.images['"+ el + "imEx']");
-             if (whichEl.style.display == "none") {
-                 whichEl.style.display = "block";
-				 // if (el == selectParent) whichIm.src = "f1.gif";
-                 // else whichIm.src = "f2.gif";
-                 whichIm.src = "f1.gif";
-             }
-             else {
-                 whichEl.style.display = "none";
-                 //if (el == selectParent) whichIm.src = "f1.gif";
-                 //else whichIm.src = "f2.gif";
-                 whichIm.src = "f2.gif";
-             }
-         }
-         else {
-             whichEl = eval("document.NavMenu.document." + el + "Child");
-			 whichIm = eval("document.NavMenu.document." + el + "Parent.document.images['"+ el + "imEx']");
-			 if (whichEl.visibility == "hide") {
-                 whichEl.visibility = "show";
-                 //if (el == selectParent) whichIm.src = "f2.gif";
-                 //else whichIm.src = "f1.gif";
-                 whichIm.src = "f1.gif";
-             }
-             else {
-                 whichEl.visibility = "hide";
-                 //if (el == selectParent) whichIm.src = "f2.gif";
-                 //else whichIm.src = "f1.gif";
-                 whichIm.src = "f2.gif";
-             }
-             arrange();
-         }
-     }
-
-	function highlight(parentNum,childItemNum) {
-		if (!ver4) return;
-		var el = "el" + parentNum
-		var nextNum = parentNum + 1
-		selectParent = el
-		if (IE4) {
-			whichElP = eval("el" + parentNum + "Parent");
-			whichElC = eval("el" + parentNum + "Child");
-			whichImP = eval("document.images['"+ el + "imEx']");
-			nextYelIm = eval("document.images['Rule" + nextNum + "']");
-			var imageSource = whichImP.src;
-			if (imageSource.indexOf("f1.gif") != -1) {
-				whichImP.src = "f2.gif"
-				if (childItemNum != null) eval ("document.images['ChildImage" + parentNum + "-" + childItemNum + "'].src = 'http://www.countrywide.com/images/mn_check.gif'")
-				expandIt(el);
-			}
-			else {
-				whichImP.src = "f2.gif"
-			}
-		}
-		else {
-			whichElP = eval("document.NavMenu.document." + el + "Parent");
-			whichElC = eval("document.NavMenu.document." + el + "Child");
-			whichImP = eval("whichElP.document.images['"+ el + "imEx']");
-			var imageSource = whichImP.src;
-			if (imageSource.indexOf("f1.gif") != -1) {
-				whichImP.src = "f2.gif"
-				if (childItemNum != null) eval ("whichElC.document.images['ChildImage" + parentNum + "-" + childItemNum + "'].src = 'http://www.countrywide.com/images/mn_check.gif'")
-				expandIt(el);
-			}
-			else {
-				whichImP.src = "f1.gif"
-			}
-		}
-	}
+//-->
 </script>
-		<script language="JavaScript">
-		if (NS4)  document.write("<div id='NavMenu' style='position:absolute; width:125px; height:600px; z-index:100; left: 0px; top: 300px; visibility:hidden;'>");
-		else document.write("<div id='NavMenu' style='position:absolute; width:125px; z-index:100; left: 0px; top: 300px;'>");
-		</script></head><body bgcolor="White" leftmargin="0" onload="initIt();
-	return false"><div id="NavMenu" style="position:absolute; width:125px; z-index:100; left: 0px; top: 300px;">
+<script language="JavaScript1.2" type="text/javascript">
+<!--
 
-			
-			<!-- ------------------menu section 1------------------------ -->
-			<div id="el1Parent" class="parent">
-			<table width="125" border="0" cellspacing="0">
-			<tbody><tr align="left" valign="top">
-				<td width="20"><a href="inside_annualreport.asp" onmouseover="window.status='Click to expand or collapse menu.'; return true;" onmouseout="window.status=' '; return true;"><img src="f2.gif" border="0" name="el1imEx" align="TOP" vspace="0" hspace="0"></a></td>
-				<td><a href="inside_annualreport.asp" onmouseover="window.status='Click to expand or collapse menu.'; return true;" onmouseout="window.status=' '; return true;" class="menuParent">Annual Report</a></td><td>&nbsp;</td>
-			</tr>
-			</tbody></table>
-			 </div>
-			 <div id="el1Child" class="child">
-			 <!-- nested table for open menu -->
-			<!-- /nested table for open menu -->
-			</div>
+HM_PG_MenuWidth = 150;
+HM_PG_FontFamily = "Arial,sans-serif";
+HM_PG_FontSize = 9;
+HM_PG_FontBold = 0;
+HM_PG_FontItalic = 0;
+HM_PG_FontColor = "black";
+HM_PG_FontColorOver = "blue";
+HM_PG_BGColor = "#DDDDDD";
+HM_PG_BGColorOver = "#DDDDDD";
+HM_PG_ItemPadding = 0;
 
-			
-			<!-- ------------------menu section 2------------------------ -->
-			<div id="el2Parent" class="parent">
-			<table width="125" border="0" cellspacing="0">
-			<tbody><tr align="left" valign="top">
-				<td width="20"><a href="" onmouseover="window.status='Click to expand or collapse menu.'; return true;" onmouseout="window.status=' '; return true;" onclick="expandIt('el2'); return false"><img src="f2.gif" border="0" name="el2imEx" align="TOP" vspace="0" hspace="0"></a></td>
-				<td><a href="" onmouseover="window.status='Click to expand or collapse menu.'; return true;" onmouseout="window.status=' '; return true;" onclick="expandIt('el2'); return false" "="" class="menuParent">Career Center</a></td><td>&nbsp;</td>
-			</tr>
-			</tbody></table>
-			 </div>
-			 <div id="el2Child" class="child">
-			 <!-- nested table for open menu -->
-		 	<table width="125" border="0" cellspacing="1" cellpadding="1">
-		 	<tbody><tr valign="TOP"><td>&nbsp;</td><td><a href="inside_opportunities.asp?mnu=2,9"><img name="ChildImage2-9" src="/images/mn_checkbox.gif" width="10" height="12" border="0" vspace="0" hspace="0"></a></td><td><a href="inside_opportunities.asp?mnu=2,9" class="menuChild">Introduction</a></td><td></td></tr>		 	
-		 	<tr valign="TOP"><td>&nbsp;</td><td><a href="openpositions.asp?mnu=2,1"><img name="ChildImage2-1" src="/images/mn_checkbox.gif" width="10" height="12" border="0" vspace="0" hspace="0"></a></td><td><a href="openpositions.asp?mnu=2,1" class="menuChild">Career Opportunities</a></td><td></td></tr>
-			<tr valign="TOP"><td>&nbsp;</td><td><a href="career_benefits.asp?mnu=2,2"><img name="ChildImage2-2" src="/images/mn_checkbox.gif" width="10" height="12" border="0" vspace="0" hspace="0"></a></td><td><a href="career_benefits.asp?mnu=2,2" class="menuChild">Employee Benefits</a></td><td></td></tr>
-			<tr valign="TOP"><td>&nbsp;</td><td><a href="eeo_policy.asp?mnu=2,3"><img name="ChildImage2-3" src="/images/mn_checkbox.gif" width="10" height="12" border="0" vspace="0" hspace="0"></a></td><td><a href="eeo_policy.asp?mnu=2,3" class="menuChild">Employment Policy</a></td><td></td></tr>
-			<tr valign="TOP"><td>&nbsp;</td><td><a href="online_employment.asp?mnu=2,4"><img name="ChildImage2-4" src="/images/mn_checkbox.gif" width="10" height="12" border="0" vspace="0" hspace="0"></a></td><td><a href="online_employment.asp?mnu=2,4" class="menuChild">Apply Online</a></td><td></td></tr>
-		 	</tbody></table>
-			<!-- /nested table for open menu -->
-			</div>
+HM_PG_BorderWidth = 1;
+HM_PG_BorderColor = "#DFEBFF";
+HM_PG_BorderStyle = "solid";
+HM_PG_SeparatorSize = 2;
+HM_PG_SeparatorColor = "#DFEBFF";
+HM_PG_ImageSrc = "tri.gif";
+HM_PG_ImageSrcLeft = "triL.gif";
 
-			
-			<!-- ------------------menu section 3------------------------ -->
-			<div id="el3Parent" class="parent">
-			<table width="125" border="0" cellspacing="0">
-			<tbody><tr align="left" valign="top">
-				<td width="20"><a href="inside_history.asp"><img src="f2.gif" border="0" name="el3imEx" align="TOP" vspace="0" hspace="0"></a></td>
-				<td><a href="inside_history.asp" class="menuParent">History</a></td><td>&nbsp;</td>
-			</tr>
-			</tbody></table>
-			 </div>
-			 <div id="el3Child" class="child">
-			 <!-- nested table for open menu -->
-			<!-- /nested table for open menu -->
-			</div>
+HM_PG_ImageSize = 5;
+HM_PG_ImageHorizSpace = 5;
+HM_PG_ImageVertSpace = 5;
 
-			
-			<!-- ------------------menu section 4------------------------ -->
-			<div id="el4Parent" class="parent">
-			<table width="125" border="0" cellspacing="0">
-			<tbody><tr align="left" valign="top">
-				<td width="20"><a href="inside_pressreleases.asp"><img src="f2.gif" border="0" name="el4imEx" align="TOP" vspace="0" hspace="0"></a></td>
-				<td><a href="inside_pressreleases.asp" class="menuParent">Press Releases</a></td><td>&nbsp;</td>
-			</tr>
-			</tbody></table>
-			 </div>
-			 <div id="el4Child" class="child">
-			 <!-- nested table for open menu -->
-			<!-- /nested table for open menu -->
-			</div>
+HM_PG_KeepHilite = true; 
+HM_PG_ClickStart = 0;
+HM_PG_ClickKill = false;
+HM_PG_ChildOverlap = 8;
+HM_PG_ChildOffset = 0;
+HM_PG_ChildPerCentOver = null;
+HM_PG_TopSecondsVisible = .3;
+HM_PG_StatusDisplayBuild =0;
+HM_PG_StatusDisplayLink = 0;
+HM_PG_UponDisplay = null;
+HM_PG_UponHide = null;
+HM_PG_RightToLeft = false;
 
-			
-			<!-- ------------------menu section 5------------------------ -->
-			<div id="el5Parent" class="parent">
-			<table width="125" border="0" cellspacing="0">
-			<tbody><tr align="left" valign="top">
-				<td width="20"><a href="inside_privacy.asp"><img src="f2.gif" border="0" name="el5imEx" align="TOP" vspace="0" hspace="0"></a></td>
-				<td><a href="inside_privacy.asp" class="menuParent">Privacy Statement</a></td><td>&nbsp;</td>
-			</tr>
-			</tbody></table>
-			 </div>
-			 <div id="el5Child" class="child">
-			 <!-- nested table for open menu -->
-			<!-- /nested table for open menu -->
-			</div>
-          
-			<!-- ------------------menu section 6------------------------ -->
-			<div id="el6Parent" class="parent">
-			<table width="125" border="0" cellspacing="0">
-			<tbody><tr align="left" valign="top">
-				<td width="20"><a href="locations.asp"><img src="f2.gif" border="0" name="el6imEx" align="TOP" vspace="0" hspace="0"></a></td>
-				<td><a href="locations.asp" class="menuParent">Locate Us</a></td><td>&nbsp;</td>
-			</tr>
-			</tbody></table>
-			 </div>
-			 <div id="el6Child" class="child">
-			 <!-- nested table for open menu -->
-			<!-- /nested table for open menu -->
-			</div>
+//HM_PG_CreateTopOnly = 1;
+HM_PG_ShowLinkCursor = 1;
 
-			
+//HM_a_TreesToBuild = [1,2];
 
-
-		</div><!-- end menu div -->
-		
-		
-		<script language="JavaScript">
-		if (NS4) {
-			firstEl = "el1Parent";
-			firstInd = getIndex(firstEl);
-			arrange();
-		}
-		</script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+//-->
+</script>
 
 
 
@@ -297,6 +65,33 @@
 
 <style type="text/css">
 <!--
+
+.spanstyle {
+	position:absolute;
+    left:-5000px;
+}
+
+.haupt { position:absolute;
+		visibility:hidden;
+		color:RGB(255,0,0);
+		font-size : 10pt;
+		font-family:arial;
+		font-weight: bold;
+		text-shadow:black;
+		width: 130px;
+		background-color:RGB(239,239,239);
+		padding: 0px;}
+
+.haupt2 { position:absolute;
+		visibility:hidden;
+		color:RGB(0,0,255);
+		font-size : 10pt;
+		font-family:arial;
+		font-weight: bold;
+		text-shadow:black;
+		width: 65px;
+		background-color:RGB(239,239,239);
+		padding: 0px;}
 
 a:visited,a:link
 				{font-size:8pt;
@@ -308,124 +103,106 @@ a:hover {color:Red}
 
 -->
 </style>
+</head><body bgcolor="White" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><input type="Hidden" name="subs" size="20" value="Iinside">
+				  <script language="JavaScript">
+					function eloan2(){
+					var w = window.screen.availWidth;
+                 var h = window.screen.availHeight;
+				   win = window.open('https://www.midfirst.com/loansignin1a.asp','Rates')
+                 win.moveTo(0, 0);
+                 win.resizeTo(window.screen.availWidth, window.screen.availHeight)
+											}
+				  </script>
+				  <script language="JavaScript">
+					function eloan(){
+	         window.open('https://www.midfirst.com/loansignin1a.asp','Loan');
+											}
+				  </script>
+				  
+				  <script language="JavaScript">
+			function howmuch() {
+	         window.open('http://www.calcbuilder.com/cgi-bin/calcs/HOM1.cgi/midfirstbank','VirtualTour','width=600,height=600,left=50,top=5,resizable=no,scrollbars=yes,toolbar=no');
+											}
+				  </script>
+				  
+				  <script language="JavaScript">
+			function glossary() {
+	         window.open('library1.asp','Glossary','width=600,height=600,left=50,top=5,resizable=no,scrollbars=yes,toolbar=no');
+											}
+				  </script>
+
 <script language="JavaScript">
 <!--
 // MouseOver functions.
 function selectA1() {
-  document.images["button1"].src = "images/button01b.jpg";
-  document.images["area1"].src = "images/area01b.jpg";
+  if (subs.value  == "Personal" || subs.value  == "Savings" || subs.value == "CDIRA" || subs.value == "Loans" || subs.value == "Morgage")  {document.images["button1"].src = "images/button1b.jpg"};
+  if (subs.value  != "Personal" && subs.value  != "Savings" && subs.value != "CDIRA" && subs.value != "Loans" && subs.value != "Morgage")  {document.images["button1"].src = "images/button1a.jpg"};
+  holdit = document.images["button1"].src;
+  document.images["button1"].src = "images/button1b.jpg";
 }
-function selectA2() {
-  document.images["button2"].src = "images/button02b.jpg";
-  document.images["area2"].src = "images/area02b.jpg";
+function selectA1z() {
+  document.images["button1"].src = holdit;
+}
 
+function selectA2() {
+  if (subs.value == "Bchecking" || subs.value == "Bsavings" || subs.value == "Bservices" || subs.value == "Bloans")   {document.images["button2"].src = "images/button2b.jpg"};
+  if (subs.value != "Bchecking" && subs.value != "Bsavings" && subs.value != "Bservices" && subs.value != "Bloans")  {document.images["button2"].src = "images/button2a.jpg"};
+  holdit = document.images["button2"].src;
+  document.images["button2"].src = "images/button2b.jpg";
 }
+function selectA2z() {
+  document.images["button2"].src = holdit;
+}
+
 function selectA3() {
-  document.images["button3"].src = "images/button03b.jpg";
-  document.images["area3"].src = "images/area03b.jpg";
+  if (subs.value  == "Itrust" || subs.value  == "Iplan" || subs.value == "Imutual")  {document.images["button3"].src = "images/button3b.jpg"};
+  if (subs.value  != "Itrust" && subs.value  != "Iplan" && subs.value != "Imutual")  {document.images["button3"].src = "images/button3a.jpg"};
+  holdit = document.images["button3"].src;
+  document.images["button3"].src = "images/button3b.jpg";
+}
+function selectA3z() {
+  document.images["button3"].src = holdit;
 }
 
 function selectA4() {
-  document.images["button4"].src = "images/button04b.jpg";
-  document.images["area4"].src = "images/area04b.jpg";
+  if (subs.value  == "Iloan" || subs.value  == "Iloan1" || subs.value == "Iloan2")  {document.images["button4"].src = "images/button4b.jpg"};
+  if (subs.value  != "Iloan" && subs.value  != "Iloan1" && subs.value != "Iloan2")  {document.images["button4"].src = "images/button4a.jpg"};
+  holdit = document.images["button4"].src;
+  document.images["button4"].src = "images/button4b.jpg";
 }
+function selectA4z() {
+  document.images["button4"].src = holdit;
+}
+
 function selectA5() {
-  document.images["button5"].src = "images/button05b.jpg";
-  document.images["area5"].src = "images/area05b.jpg";
+  if (subs.value  == "Iinside")  {document.images["button5"].src = "images/button5b.jpg"};
+  if (subs.value  != "Iinside")  {document.images["button5"].src = "images/button5a.jpg"};
+  holdit = document.images["button5"].src;
+  document.images["button5"].src = "images/button5b.jpg";
 }
-function selectHome() 
-  {
-    document.images["area1"].src = "images/area01a.jpg";
-    document.images["area2"].src = "images/area02a.jpg";
-    document.images["area3"].src = "images/area03a.jpg";
-    document.images["area4"].src = "images/area04a.jpg";
-    document.images["area5"].src = "images/area05a.jpg";
-    document.images["button1"].src = "images/button01a.jpg";
-    document.images["button2"].src = "images/button02a.jpg";
-    document.images["button3"].src = "images/button03a.jpg";
-    document.images["button4"].src = "images/button04a.jpg";
-    document.images["button5"].src = "images/button05a.jpg";
-  }
-function selectHomepers() 
-  {
-    document.images["area1"].src = "images/area01a.jpg";
-    document.images["area2"].src = "images/area02a.jpg";
-    document.images["area3"].src = "images/area03a.jpg";
-    document.images["area4"].src = "images/area04a.jpg";
-    document.images["area5"].src = "images/area05a.jpg";
-    document.images["button1"].src = "images/button01c.jpg";
-    document.images["button2"].src = "images/button02a.jpg";
-    document.images["button3"].src = "images/button03a.jpg";
-    document.images["button4"].src = "images/button04a.jpg";
-    document.images["button5"].src = "images/button05a.jpg";
- 
-  }
-function selectHomebus() 
-  {
-    document.images["area1"].src = "images/area01a.jpg";
-    document.images["area2"].src = "images/area02a.jpg";
-    document.images["area3"].src = "images/area03a.jpg";
-    document.images["area4"].src = "images/area04a.jpg";
-    document.images["area5"].src = "images/area05a.jpg";
-    document.images["button1"].src = "images/button01a.jpg";
-    document.images["button2"].src = "images/button02c.jpg";
-    document.images["button3"].src = "images/button03a.jpg";
-    document.images["button4"].src = "images/button04a.jpg";
-    document.images["button5"].src = "images/button05a.jpg";
+function selectA5z() {
+  document.images["button5"].src = holdit;
+}
+function selectA6() {
+  if (subs.value  == "Imore" )  {document.images["button6"].src = "images/button6b.jpg"};
+  if (subs.value  != "Imore" )  {document.images["button6"].src = "images/button6a.jpg"};
+  holdit = document.images["button6"].src;
+  document.images["button6"].src = "images/button6b.jpg";
+}
+function selectA6z() {
+  document.images["button6"].src = holdit;
+}
 
-  }
-function selectHomeinv() 
-  {
-    document.images["area1"].src = "images/area01a.jpg";
-    document.images["area2"].src = "images/area02a.jpg";
-    document.images["area3"].src = "images/area03a.jpg";
-    document.images["area4"].src = "images/area04a.jpg";
-    document.images["area5"].src = "images/area05a.jpg";
-    document.images["button1"].src = "images/button01a.jpg";
-    document.images["button2"].src = "images/button02a.jpg";
-    document.images["button3"].src = "images/button03c.jpg";
-    document.images["button4"].src = "images/button04a.jpg";
-    document.images["button5"].src = "images/button05a.jpg";
-
-  }
-function selectHomeins() 
-  {
-    document.images["area1"].src = "images/area01a.jpg";
-    document.images["area2"].src = "images/area02a.jpg";
-    document.images["area3"].src = "images/area03a.jpg";
-    document.images["area4"].src = "images/area04a.jpg";
-    document.images["area5"].src = "images/area05a.jpg";
-    document.images["button1"].src = "images/button01a.jpg";
-    document.images["button2"].src = "images/button02a.jpg";
-    document.images["button3"].src = "images/button03a.jpg";
-    document.images["button4"].src = "images/button04c.jpg";
-    document.images["button5"].src = "images/button05a.jpg";
-
-  }
-function selectHomemor() 
-  {
-    document.images["area1"].src = "images/area01a.jpg";
-    document.images["area2"].src = "images/area02a.jpg";
-    document.images["area3"].src = "images/area03a.jpg";
-    document.images["area4"].src = "images/area04a.jpg";
-    document.images["area5"].src = "images/area05a.jpg";
-    document.images["button1"].src = "images/button01a.jpg";
-    document.images["button2"].src = "images/button02a.jpg";
-    document.images["button3"].src = "images/button03a.jpg";
-    document.images["button4"].src = "images/button04a.jpg";
-    document.images["button5"].src = "images/button05c.jpg";
-
-  }
   
 //-->  
 </script>
 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="MidFirst Bank Oklahoma City Banks Financial Loans">
+<meta name="description" content="Fireworks Splice HTML">
+<link rel="stylesheet" href="images/main.css" type="text/css">
 
 
-
-
+ 
 
 <table border="0" cellpadding="0" cellspacing="0">
   <tbody><tr>
@@ -434,7 +211,10 @@ function selectHomemor()
    <td><img src="images/shim.gif" width="573" height="1" border="0"></td>
    <td><img src="images/shim.gif" width="1" height="1" border="0"></td>
   </tr>
-  <tr <tr="" valign="top"><!-- row 1 -->
+  <tr valign="top"><!-- row 1 -->
+  
+  
+ 
   
   
   
@@ -443,40 +223,216 @@ function selectHomemor()
   
   
       <td><img src="images/shim.gif" width="3" height="1" border="0"></td>
-    <td width="125" background="images/background4.jpg" height="700"><img src="Rotation/pic04.jpg"><br>
+    <td width="125" background="images/background4.jpg" height="700"><p align="center"><img src="Rotation/pic06.jpg"><br>
   
+<font face="Times New Roman" color="NAVY" size="1">Tuesday, October 30, 2001<br></font>
+<font face="Times New Roman" color="NAVY" size="1">10:41:46 AM&nbsp;CDT</font></p>
 
 
-    <img src="images/Online.jpg" width="125" height="59" usemap="#Map3" border="0"><map name="Map3"><area shape="RECT" alt="Login" coords="1,31,125,43" href="https://vault5.mids.com/731"> <area shape="RECT" alt="Online Banking" coords="1,1,125,31" href="https://vault5.mids.com/731"> <area shape="RECT" alt="Demo" coords="1,44,58,59" href="Demo/interactive/p1bot.htm" target="_blank"> <area shape="RECT" alt="Apply" coords="59,45,125,59" href="online_application_disclosures.asp"></map><br>
+
+
+  <font face="Verdana" size="3" color="#EC4F18"></font><font face="Verdona" size="3" color="#EC4F18"><b>&nbsp;Online Banking</b></font><br>
+&nbsp;<a href="https://vault5.mids.com/731" class="nav">&nbsp;&nbsp;Login</a><br>&nbsp;<a href="Demo/interactive/p1bot.htm" target="_blank" class="nav">&nbsp;&nbsp;Demo</a><br>&nbsp;<a href="/online_application_disclosures.asp" class="nav">&nbsp;&nbsp;Apply Online</a><br>
+<br>
+
+<font face="Verdana" size="3" color="#EC4F18"></font><font face="Verdona" size="3" color="#EC4F18"><b>&nbsp;Career Center</b></font><br>
+&nbsp;<img src="images/cb1.gif" width="10"><a href="inside_opportunities.asp" class="nav">&nbsp;Introduction</a><br>&nbsp;<img src="images/cb1.gif" width="10"><a href="openpositions.asp" class="nav">&nbsp;Career Opportunities</a><br>&nbsp;<img src="images/cb1.gif" width="10"><a href="career_benefits.asp" class="nav">&nbsp;Employee Benefits</a><br>&nbsp;<img src="images/cb1.gif" width="10"><a href="eeo_policy.asp" class="nav">&nbsp;Employment Policy</a><br>&nbsp;<img src="images/cb1.gif" width="10"><a href="online_employment.asp" class="nav">&nbsp;Apply Online</a><br>
+<br>
+<font face="Verdana" size="3" color="#EC4F18"></font><font face="Verdona" size="3" color="#EC4F18"><b>&nbsp;More Choices</b></font><br>
+
+<a href="inside_annualreport.asp" class="nav">&nbsp;&nbsp;Annual Report</a><br><a href="inside_history.asp" class="nav">&nbsp;&nbsp;History</a><br><a href="inside_pressreleases.asp" class="nav">&nbsp;&nbsp;Press Releases</a><br><a href="inside_privacy.asp" class="navselected">&nbsp;&nbsp;Privacy Statement</a><br><a href="terms.asp" class="nav">&nbsp;&nbsp;Terms of Use</a><br><a href="locations.asp" class="nav">&nbsp;&nbsp;Locate Us</a><br><a href="contributions.asp" class="nav">&nbsp;&nbsp;Contributions</a><br>
 
 
       </td>
 
+
     <td valign="top"><img src="images/topbar.jpg" width="449" height="13"><a href="index.asp"><img src="images/search.jpg" width="59" height="13" border="0"></a><a href="contact.asp"><img src="images/contact.jpg" width="79" height="13" border="0"></a><a href="https://vault5.mids.com/731"><img src="images/login.jpg" width="63" height="13" border="0"></a><br>
-<!--    <td valign="top"><img src="images/topbar.jpg" width="449" height="13"><a href="#"><img src="images/search.jpg" width="59" height="13" border="0"></a><a href="#" onmouseover="popUp('elMenu6',event);" onmouseout="popDown('elMenu6');"><img src="images/contact.gif" width="79" height="13" border="0"><a href="#" onmouseover="popUp('elMenu7',event);" onmouseout="popDown('elMenu7');"><img src="images/login.gif" width="63" height="13" border="0"></a><BR> -->
-<!--	  <img name="midrv1new_r2_c2" src="images/titlebar1.jpg" width="510" height="80" border="0" usemap="#midrv1new_r2_c2Map"><map name="midrv1new_r2_c2Map"><area shape="rect" coords="134,0,385,55" href="index.asp"></map> -->
-<!--	  <img name="midrv1new_r2_c3" src="images/titlebar2.jpg" width="140" height="80" border="0"><BR> -->
       <img name="area1" src="images/area01a.jpg" width="134" height="80" border="0"><a href="index.asp" target="_top"><img name="area2" src="images/area02a.jpg" width="127" height="80" border="0"><img name="area3" src="images/area03a.jpg" width="127" height="80" border="0"><img name="area4" src="images/area04a.jpg" width="128" height="80" border="0"><img name="area5" src="images/area05a.jpg" width="134" height="80" border="0"><br>  
-<!--  <a href="personal_checking.asp" onmouseover="menu(1,168,122);"><img alt="Personal Services: Checking, Savings, CDs & IRAs, Lending, Mortgage Loans" src="images/button01.jpg" height="23" border="0"></a><a href="business_intro.asp" onmouseover="menu(2,315,122);"><img alt="Business Services: Checking, Money Market Gold, Savings, Business Services, Business Loans" src="images/button02.jpg" height="23" border="0"></a><a href="investment_trust.asp" onmouseover="menu(3,458,122);"><img alt="Investment Services: Trust Services, Waddell & Reed" src="images/button03.jpg" height="23" border="0"></a><a Alt="Inside Midfirst" href="inside_MF.asp" onmouseover="menu(4,608,122);"><img Alt="Inside Midfirst" src="images/button04.jpg" height="23" border="0"></a><a alt="More: Contact Us, FAQs, Financial Calculators, Glossary of Terms, Locate Us, More than you'd expect." href="moremore.asp" onmouseover="menu(7,718,122);"><img alt="More: Contact Us, FAQs, Financial Calculators, Glossary of Terms, Locate Us, More than you'd expect." src="images/button05.jpg" height="23" border="0"></a><BR> -->
 
-      </a><a href="personal_intro.asp" onmouseover="selectA1()" onmouseout="selectHomeins()"><img name="button1" src="images/button01a.jpg" height="23" border="0"></a><a href="business_intro1.asp" onmouseover="selectA2()" onmouseout="selectHomeins()"><img name="button2" src="images/button02a.jpg" height="23" border="0"></a><a href="investment.asp" onmouseover="selectA3()" onmouseout="selectHomeins()"><img name="button3" src="images/button03a.jpg" height="23" border="0"></a><a href="inside_MF.asp" onmouseover="selectA4()" onmouseout="selectHomeins()"><img name="button4" src="images/button04c.jpg" height="23" border="0"></a><a href="moremore.asp" onmouseover="selectA5()" onmouseout="selectHomeins()"><img name="button5" src="images/button05a.jpg" height="23" border="0"></a><br>
-  	      	  
-
-
-
-
-
-
-<!-- 	  <a href="personalcheckingintro.asp" onmouseover="menu(1,230,122);"><img src="images/button01.jpg" height="23" border="0"></a><a href="businessintro.asp" onmouseover="menu(2,341,122);"><img src="images/TabBusBankingNew.gif" height="23" border="0"></a><a href="javascript:menu(3,455,122)" onmouseover="menu(3,455,122);"><img src="images/TabInvestmentServicesNew.gif" height="23" border="0"></a><a href="insideintro.asp" onmouseover="menu(4,570,122);"><img src="images/TabInsideMidFirstNew.gif" height="23" border="0"></a><a href="businessintro.asp" onmouseover="menu(7,682,122);"><img src="images/TabMoreNew.gif" height="23" border="0"></a><BR> -->
-
-
-<!--  	  <a href="personal_checking.asp" onmouseover="popUp('elMenu1',event);" onmouseout="popDown('elMenu1');"><img src="images/button01.jpg" height="23" border="0"></a><a href="business_intro.asp" onmouseover="popUp('elMenu2',event);" onmouseout="popDown('elMenu2');"><img src="images/button02.jpg" height="23" border="0"></a><a href="investment_trust.asp" onmouseover="popUp('elMenu3',event);" onmouseout="popDown('elMenu3');"><img src="images/button03.jpg" height="23" border="0"></a><a href="inside_MF.asp" onmouseover="popUp('elMenu4',event);" onmouseout="popDown('elMenu4');"><img src="images/button04.jpg" height="23" border="0"></a><a href="insideintro.asp" onmouseover="popUp('elMenu5',event);" onmouseout="popDown('elMenu5');"><img src="images/button05.jpg" height="23" border="0"></a><BR> -->
-<!--  	  <img src="images/LeftWS.gif" width="12" height="23"><a href="personalcheckingintro.asp" onmouseover="menu(1,238,122);"><img src="images/ButtonPersonalBanking.gif" height="23" border="0"></a><a href="business_intro.asp" onmouseover="menu(2,364,122);"><img src="images/ButtonBusBanking.gif" width="111" height="23" border="0"></a><a href="javascript:menu(3,490,122)" onmouseover="menu(3,490,122);"><img src="images/ButtonInvestmentServices.gif" width="109" height="23" border="0"></a><a href="insideintro.asp" onmouseover="menu(4,616,122);"><img src="images/ButtonInsideMidFirst.gif" width="110" height="23" border="0"></a><a href="business_intro.asp" onmouseover="menu(7,740,122);"><img src="images/ButtonMore.gif" width="110" height="23" border="0"></a><img src="images/RightWS.gif" width="12" height="23"><BR> -->
+  </a><a href="personal_intro.asp" onmouseover="popUp('elMenu1',event); selectA1();" onmouseout="popDown('elMenu1'); selectA1z();"><img name="button1" src="images/button1a.jpg" height="23" border="0"></a><a href="business_intro1.asp" onmouseover="popUp('elMenu2',event); selectA2();" onmouseout="popDown('elMenu2'); selectA2z();"><img src="images/button2a.jpg" height="23" border="0" name="button2"></a><a href="investment.asp" onmouseover="popUp('elMenu3',event); selectA3();" onmouseout="popDown('elMenu3'); selectA3z();"><img src="images/button3a.jpg" height="23" border="0" name="button3"></a><a href="javascript:eloan();" onmouseover="popUp('elMenu4',event); selectA4();" onmouseout="popDown('elMenu4'); selectA4z();"><img src="images/button4a.jpg" height="23" border="0" name="button4"></a><a href="inside_mf.asp" onmouseover="popUp('elMenu5',event); selectA5();" onmouseout="popDown('elMenu5'); selectA5z();"><img src="images/button5b.jpg" height="23" border="0" name="button5"></a><a href="moremore.asp" onmouseover="popUp('elMenu6',event); selectA6();" onmouseout="popDown('elMenu6'); selectA6z();"><img src="images/button6a.jpg" height="23" border="0" name="button6"></a><br> 
+  
       <table width="620" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr>
           <td colspan="2" width="620" align="left" valign="top">&nbsp;<br>
           <table border="0" width="100%" cellpadding="0" cellspacing="0"><tbody><tr><td>&nbsp;&nbsp;</td><td>
 <!-- End Header -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -743,21 +699,44 @@ information practices as described in this notice.</i></font></p>
     <tbody><tr>
       <td width="100%" align="center" valign="middle"><font size="1" face="Arial, Helvetica, sans-serif"><a href="index.asp">Home
         Page</a> | <a href="personal_intro.asp">Personal Banking</a> | <a href="business_intro1.asp">Business Banking</a>
-        | <a href="investment.asp">Investment Services</a> | <a href="inside_MF.asp">Inside MidFirst</a>
-        | <a href="moremore.asp">More...</a> | <a href="contact.asp">Contact Us</a> 
-        | <a href="https://vault5.mids.com/731">Login</a>| <a href="privacy1.asp" target="_blank">Privacy Statement</a><br><br> </font></td>
+        | <a href="loansignin1a.asp" target="_blank">Rapid Loans</a> | <a href="investment.asp">Investment Services</a> | <a href="inside_MF.asp">Inside MidFirst</a>
+        | <a href="moremore.asp">More...</a><br><a href="contact.asp">Contact Us</a> |
+        <a href="https://vault5.mids.com/731">Login</a>| <a href="inside_privacy.asp">Privacy Statement</a> | <a href="terms.asp">Terms of Use</a><br><br> </font></td>
     </tr>
 </tbody></table>
 
+  <table border="0" cellpadding="0" cellspacing="0" width="750" align="left">
+    <tbody><tr>
+      <td>
+        <p align="center"><font face="Verdana" size="1" color="#000080">Copyright © 2001
+        MidFirst Bank. All rights reserved.</font></p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="center"><font face="Verdana" size="1" color="#000080" align="left">This site and content herein are published for use in the United States, and may not be used or downloaded in other countries.<font></font></font></p><font face="Verdana" size="1" color="#000080" align="left"><font>
+      </font></font></td>
+    </tr>
+  </tbody></table>
+<br>
+<br>
 
-<img align="center" src="FDIC.JPG" alt="" border="0"><img align="center" src="EQUAL.JPG" alt="" border="0"><table width="400" border="0" align="right">
-		
-		
-		
-</table>
+<div align="left">
+  <table border="0" cellpadding="0" cellspacing="0" width="750">
+    <tbody><tr>
+      <td>
+        <p align="center">
+        <img border="0" src="FDIC.JPG" width="41" height="25">&nbsp;&nbsp;<img border="0" src="EQUAL.JPG" width="28" height="29">
+        </p>
+      </td>
+    </tr>
+  </tbody></table>
+</div>
 
 
+  
 
+<script language="JavaScript1.2" src="HM_Loader.js" type="text/javascript"></script><script language="JavaScript1.2" src="HM_Arrays.js" type="text/javascript"></script><script language="JavaScript1.2" src="HM_ScriptDOM.js" type="text/javascript"></script>
 
 
 
@@ -948,4 +927,6 @@ information practices as described in this notice.</i></font></p>
 
 
 
-</body></html>
+
+
+<div id="HM_Menu1" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 131px; border-width: 1px; border-color: rgb(51, 102, 153); border-style: solid; overflow: hidden; cursor: default; height: 206px;"><div id="HM_Item1_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 121px; left: 0px; top: 0px;"><img src="tri.gif" hspace="0" vspace="0" width="5" style="position: relative; margin-top: 5px; margin-right: -5px; float: right;">&nbsp;Checking</div><div id="HM_Item1_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 121px; left: 0px; top: 16px;"><img src="tri.gif" hspace="0" vspace="0" width="5" style="position: relative; margin-top: 5px; margin-right: -5px; float: right;">&nbsp;Savings</div><div id="HM_Item1_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 121px; left: 0px; top: 32px;"><img src="tri.gif" hspace="0" vspace="0" width="5" style="position: relative; margin-top: 5px; margin-right: -5px; float: right;">&nbsp;CDs &amp; IRAs</div><div id="HM_Item1_4" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 121px; left: 0px; top: 48px;"><img src="tri.gif" hspace="0" vspace="0" width="5" style="position: relative; margin-top: 5px; margin-right: -5px; float: right;">&nbsp;Personal Loans</div><div id="HM_Item1_5" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 121px; left: 0px; top: 64px;"><img src="tri.gif" hspace="0" vspace="0" width="5" style="position: relative; margin-top: 5px; margin-right: -5px; float: right;">&nbsp;Mortgage Loans</div><div id="HM_Item1_6" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 121px; left: 0px; top: 80px;"><img src="tri.gif" hspace="0" vspace="0" width="5" style="position: relative; margin-top: 5px; margin-right: -5px; float: right;">&nbsp;Credit Card</div><div id="HM_Item1_7" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 121px; left: 0px; top: 96px;"><img src="tri.gif" hspace="0" vspace="0" width="5" style="position: relative; margin-top: 5px; margin-right: -5px; float: right;">&nbsp;Personal eBanking</div><div id="HM_Item1_8" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 121px; left: 0px; top: 112px;">&nbsp;Gift Cards</div><div id="HM_Item1_9" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 121px; left: 0px; top: 128px;">&nbsp;Payroll Cards</div><div id="HM_Item1_10" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 121px; left: 0px; top: 144px;">&nbsp;Open an Account</div><div id="HM_Item1_11" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 121px; left: 0px; top: 160px;">&nbsp;Locate Us</div><div id="HM_Item1_12" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 121px; left: 0px; top: 176px;">&nbsp;Why MidFirst?</div><div id="HM_Item1_13" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; width: 121px; left: 0px; top: 192px;"><img src="tri.gif" hspace="0" vspace="0" width="5" style="position: relative; margin-top: 5px; margin-right: -5px; float: right;">&nbsp;Contact Us</div></div><div id="HM_Menu2" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 133px; border-width: 1px; border-color: rgb(51, 102, 153); border-style: solid; overflow: hidden; cursor: default; height: 190px;"><div id="HM_Item2_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 123px; left: 0px; top: 0px;"><img src="tri.gif" hspace="0" vspace="0" width="5" style="position: relative; margin-top: 5px; margin-right: -5px; float: right;">&nbsp;Checking</div><div id="HM_Item2_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 123px; left: 0px; top: 16px;"><img src="tri.gif" hspace="0" vspace="0" width="5" style="position: relative; margin-top: 5px; margin-right: -5px; float: right;">&nbsp;Savings</div><div id="HM_Item2_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 123px; left: 0px; top: 32px;"><img src="tri.gif" hspace="0" vspace="0" width="5" style="position: relative; margin-top: 5px; margin-right: -5px; float: right;">&nbsp;Services</div><div id="HM_Item2_4" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 123px; left: 0px; top: 48px;"><img src="tri.gif" hspace="0" vspace="0" width="5" style="position: relative; margin-top: 5px; margin-right: -5px; float: right;">&nbsp;Positive Pay</div><div id="HM_Item2_5" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 123px; left: 0px; top: 64px;"><img src="tri.gif" hspace="0" vspace="0" width="5" style="position: relative; margin-top: 5px; margin-right: -5px; float: right;">&nbsp;iManage eBanking</div><div id="HM_Item2_6" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 123px; left: 0px; top: 80px;">&nbsp;eVision</div><div id="HM_Item2_7" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 123px; left: 0px; top: 96px;">&nbsp;Loans</div><div id="HM_Item2_8" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 123px; left: 0px; top: 112px;">&nbsp;remitONE</div><div id="HM_Item2_9" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 123px; left: 0px; top: 128px;">&nbsp;Remote Deposit</div><div id="HM_Item2_10" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 123px; left: 0px; top: 144px;">&nbsp;Credit Card</div><div id="HM_Item2_11" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 123px; left: 0px; top: 160px;">&nbsp;Payroll Cards</div><div id="HM_Item2_12" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; width: 123px; left: 0px; top: 176px;">&nbsp;Why MidFirst?</div></div><div id="HM_Menu3" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 143px; border-width: 1px; border-color: rgb(51, 102, 153); border-style: solid; overflow: hidden; cursor: default; height: 30px;"><div id="HM_Item3_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 133px; left: 0px; top: 0px;"><img src="tri.gif" hspace="0" vspace="0" width="5" style="position: relative; margin-top: 5px; margin-right: -5px; float: right;">&nbsp;Trust Services</div><div id="HM_Item3_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; width: 133px; left: 0px; top: 16px;">&nbsp;Mutual Funds</div></div><div id="HM_Menu4" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 120px; border-width: 1px; border-color: rgb(51, 102, 153); border-style: solid; overflow: hidden; cursor: default; height: 110px;"><div id="HM_Item4_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 110px; left: 0px; top: 0px;">&nbsp;Loan Overview</div><div id="HM_Item4_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 110px; left: 0px; top: 16px;"><img src="tri.gif" hspace="0" vspace="0" width="5" style="position: relative; margin-top: 5px; margin-right: -5px; float: right;">&nbsp;Mortgages</div><div id="HM_Item4_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 110px; left: 0px; top: 32px;"><img src="tri.gif" hspace="0" vspace="0" width="5" style="position: relative; margin-top: 5px; margin-right: -5px; float: right;">&nbsp;Home Equity</div><div id="HM_Item4_4" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 110px; left: 0px; top: 48px;"><img src="tri.gif" hspace="0" vspace="0" width="5" style="position: relative; margin-top: 5px; margin-right: -5px; float: right;">&nbsp;Personal Loans</div><div id="HM_Item4_5" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 110px; left: 0px; top: 64px;">&nbsp;Student Loans</div><div id="HM_Item4_6" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 110px; left: 0px; top: 80px;">&nbsp;Calculators</div><div id="HM_Item4_7" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; width: 110px; left: 0px; top: 96px;"><img src="tri.gif" hspace="0" vspace="0" width="5" style="position: relative; margin-top: 5px; margin-right: -5px; float: right;">&nbsp;Contact Us</div></div><div id="HM_Menu5" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 124px; border-width: 1px; border-color: rgb(51, 102, 153); border-style: solid; overflow: hidden; cursor: default; height: 158px;"><div id="HM_Item5_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 114px; left: 0px; top: 0px;"><img src="tri.gif" hspace="0" vspace="0" width="5" style="position: relative; margin-top: 5px; margin-right: -5px; float: right;">&nbsp;Career Center</div><div id="HM_Item5_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 114px; left: 0px; top: 16px;">&nbsp;Annual Report</div><div id="HM_Item5_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 114px; left: 0px; top: 32px;">&nbsp;History</div><div id="HM_Item5_4" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 114px; left: 0px; top: 48px;">&nbsp;Press Releases</div><div id="HM_Item5_5" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 114px; left: 0px; top: 64px;"><img src="tri.gif" hspace="0" vspace="0" width="5" style="position: relative; margin-top: 5px; margin-right: -5px; float: right;">&nbsp;Contact Us</div><div id="HM_Item5_6" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 114px; left: 0px; top: 80px;">&nbsp;Privacy Statement</div><div id="HM_Item5_7" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 114px; left: 0px; top: 96px;">&nbsp;MoneyMatters</div><div id="HM_Item5_8" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 114px; left: 0px; top: 112px;">&nbsp;Terms of Use</div><div id="HM_Item5_9" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 114px; left: 0px; top: 128px;">&nbsp;About Us</div><div id="HM_Item5_10" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px 10px 0px 0px; font: 9pt Arial, sans-serif; width: 114px; left: 0px; top: 144px;">&nbsp;Locate Us</div></div><div id="HM_Menu6" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 96px; border-width: 1px; border-color: rgb(51, 102, 153); border-style: solid; overflow: hidden; cursor: default; height: 94px;"><div id="HM_Item6_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 96px; left: 0px; top: 0px;">&nbsp;Contact Us</div><div id="HM_Item6_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 96px; left: 0px; top: 16px;">&nbsp;FAQ's</div><div id="HM_Item6_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 96px; left: 0px; top: 32px;">&nbsp;Calculators</div><div id="HM_Item6_4" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 96px; left: 0px; top: 48px;">&nbsp;Security</div><div id="HM_Item6_5" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 96px; left: 0px; top: 64px;">&nbsp;Glossary</div><div id="HM_Item6_6" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px; font: 9pt Arial, sans-serif; width: 96px; left: 0px; top: 80px;">&nbsp;Locate Us</div></div><div id="HM_Menu7" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 118px; border-width: 1px; border-color: rgb(51, 102, 153); border-style: solid; overflow: hidden; cursor: default; height: 49px;"><div id="HM_Item7_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 118px; left: 0px; top: 0px;">&nbsp;Personal eBanking</div><div id="HM_Item7_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 118px; left: 0px; top: 16px;">&nbsp;Business eBanking</div><div id="HM_Item7_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px; font: 9pt Arial, sans-serif; width: 118px; left: 0px; top: 32px;">&nbsp;remitONE<sup>SM</sup></div></div><div id="HM_Menu8" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 118px; border-width: 1px; border-color: rgb(51, 102, 153); border-style: solid; overflow: hidden; cursor: default; height: 46px;"><div id="HM_Item8_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 118px; left: 0px; top: 0px;">&nbsp;Contact Info</div><div id="HM_Item8_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px; font: 9pt Arial, sans-serif; border-bottom: 2px solid rgb(51, 102, 153); width: 118px; left: 0px; top: 16px;">&nbsp;Hours of Operation</div><div id="HM_Item8_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: rgb(255, 255, 255); padding: 0px; font: 9pt Arial, sans-serif; width: 118px; left: 0px; top: 32px;">&nbsp;Locations</div></div></body></html>
