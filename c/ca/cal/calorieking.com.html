@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the calorieking.com privacy policy that was archived on 2002-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020610024935id_/http%3A//www.calorieking.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the calorieking.com privacy policy that was archived on 2002-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021206100253id_/http%3A//www.calorieking.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 	<title>CalorieKing.com - Privacy</title>
 	<meta http-equiv="PICS-Label" content="(PICS-1.1 &quot;http://www.icra.org/ratingsv02.html&quot; l gen true for &quot;http://www.calorieking.com&quot; r (cb 1 lz 1 nz 1 oz 1 vz 1) &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true for &quot;http://www.calorieking.com&quot; r (n 0 s 0 v 0 l 0))">
 <meta name="title" content="Calorieking.com - Your Complete Online Diet Portal">
 
-<meta name="description" content="Your Complete Onlie Diet Portal - With a powerful online diet diary and the web's most comprehensive fod database">
+<meta name="description" content="Your Complete Online Diet Portal - With a powerful online diet diary and the web's most comprehensive food database">
 
 <meta name="keywords" content="calorieking, nutrition, diet, weight issues, fitness, recipes, health, advice, weight loss, lifestyle, meals, testimonials, meal modules, success, low salt, nutritional guidelines, high fiber, fast food, exercise, low fat, low cholesterol, food facts, pyramid, breakfast, lunch, dinner, snacks, beverages, food logs, daily journal, food tracker, daily food planner, diets, dieting, diet facts, diet plan, dieting tips, eating, fat, fiber, food, loose weight, nutrition facts, nutritional information, nutrient, nutrient data, nutrient database, nutrients, obesity, overeating problems, saturated fat, weight control, restaurants, nutritionist, dietitian, cooking, low fat recipes, junk food, overweight, sports nutrition, vegetarian">
 <style type="text/css">
@@ -36,6 +36,14 @@ H1 {
 	margin-top: 0;
 }
 
+H1.mealplanlinks {
+	text-align: center;
+	color: #FF7900;
+}
+H1.mealplanlinks a:link { color: #FF7900 }
+H1.mealplanlinks a:active { color: #FF7900 }
+H1.mealplanlinks a:visited { color: #FF7900 }
+
 H2 {
 	font-size: 9pt;
 	font-weight: bold;
@@ -54,7 +62,7 @@ A:visited { color: red; }
 
 /* LEFT MARGIN DEFAULTS */
 .leftmargin P, .leftmargin TD, .leftmargin H1 {	color: white; }
-.leftmargin A:link, .leftmargin A:visited { color: yellow; }
+.leftmargin A:link, .leftmargin A:visited { color: white; }
 
 /* CK_HOME */
 .frontpagejoin TH { font-size: 13pt; font-weight: bold; color: red; text-align: left; }
@@ -67,6 +75,13 @@ TABLE.diabetestrackertable { background-color: lightgrey; }
 .diabetestrackertable TR.alt { background-color: #D8EED9; }
 .diabetestrackertable TH { font-size: 12; font-weight: bold; color: white; background-color: #3EAC3C; }
 .diabetestrackertable TD { font-size: 10; }
+.diabetestable a:link, .diabetestable a:visited { color: green; }
+a.diabeteslink {color : green; }
+
+TABLE.diabetesrecordtable { background-color: lightgrey; }
+.diabetesrecordtable TH { font-size: 13; font-weight: bold; color: white; background-color: #3EAC3C; text-align: left;}
+.diabetesrecordtable TD { background-color: #D8EED9; }
+.diabetesrecordtable A:link, .diabetesrecordtable A:visited { color: black; }
 
 .personalprofile H1 { color: orange; }
 
@@ -80,14 +95,24 @@ TABLE.checkinlisttable { background-color: lightgrey; }
 .checkinlisttable TD { background-color: #D8EED9; }
 .checkinlisttable A:link, .checkinlisttable A:visited { color: black; }
 
+TABLE.mealplandaytable { background-color: darkgray; }
+.mealplandaytable TH { font-size: 12; font-weight: bold; color: white; background-color: #3EAC3C; }
+.mealplandaytable TD { background-color: #EBF7EB; }
+.mealplandaytable A:link, .mealplandaytable A:visited { color: black; }
+.mealplandaytable TR.heading td { background-color: #198F2E; color: white; font-weight: bold; }
+.mealplandaytable TR.heading a:link, .mealplandaytable tr.heading a:visited 
+	{ color: #FFE330; font-weight: bold; font-size: 8pt; text-decoration: none; }
+
 TABLE.calendar { background-color: black; }
 TABLE.calendar A:link, TABLE.calendar A:visited { color: black; text-decoration: none; }
 TABLE.calendar TH { background-color: #1A8E2B; font-size: 11px; font-weight: bold; color: white; }
 TABLE.calendar TH.month { background-color: #046C15; font-size: 12px; }
 TABLE.calendar TD { background-color: white; font-size: 11px; color: black; text-align: center; vertical-align: middle;}
 TABLE.calendar TD.past { background-color: #FFF7CC; color: gray; }
-TABLE.calendar TD.focus { background-color: red; color: white; }
+TABLE.calendar TD.today { background-color: red; color: white; }
+TABLE.calendar TD.focus { background-color: orange; color: white; }
 TABLE.calendar TD.past A:link, TABLE.calendar TD.past A:visited { color: gray; text-decoration: none; }
+TABLE.calendar TD.today A:link, TABLE.calendar TD.today A:visited { color: white; text-decoration: none; }
 TABLE.calendar TD.focus A:link, TABLE.calendar TD.focus A:visited { color: white; text-decoration: none; }
 
 /* CK_HANDHELD */
@@ -223,6 +248,14 @@ INPUT {
 	background-color: #5AABDE;
 }
 
+.navigationlinks {
+	font-size : 11px;
+	text-decoration : none;
+	text-align : right;
+	color : #ffffff;
+	font-weight : normal;
+}
+
 .leftnav1 {
 		background-color : #C8EAFF;
 }
@@ -339,7 +372,7 @@ input.fancy {
 <!-- AD BANNER -->
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tbody><tr>
-<td><div align="center"><a href="http://www.calorieking.com/ads/redirect.php?ad_id=0" target="_self"><img style="border-color: black;" src="http://images.calorieking.com/ads/banners/palmbanner.gif" border="1" alt="CalorieKing.com Mobile" width="468" height="60" align="middle"></a></div></td>
+<td><div align="center"><a href="http://www.calorieking.com/ads/redirect.php?ad_id=0" target="_self"><img style="border-color: black;" src="http://images.calorieking.com/ads/banners/palmbanner.gif" border="0" alt="CalorieKing.com Mobile" width="468" height="60" align="middle"></a></div></td>
 <td width="15">&nbsp;</td>
 </tr>
 </tbody></table>
@@ -357,51 +390,84 @@ input.fancy {
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tbody><tr height="50"><td><a href="http://www.calorieking.com/"><img src="http://images.calorieking.com/common/tl_logo_lower.gif" width="130" height="50" border="0"></a></td></tr>
 </tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr height="20">
-<td><img src="http://images.calorieking.com/common/mainnav/home_bg.gif" width="14" height="20" border="0"></td>
-<td><a href="http://www.calorieking.com/"><img src="http://images.calorieking.com/common/mainnav/home_off.gif" width="116" height="20" border="0"></a></td>
-</tr>
-<tr height="20">
-<td><img src="http://images.calorieking.com/common/mainnav/members_bg.gif" width="14" height="20" border="0"></td>
-<td><a href="http://www.calorieking.com/personal"><img src="http://images.calorieking.com/common/mainnav/members_off.gif" width="116" height="20" border="0"></a></td>
-</tr>
-<tr height="20">
-<td><img src="http://images.calorieking.com/common/mainnav/handheld_bg.gif" width="14" height="20" border="0"></td>
-<td><a href="http://www.calorieking.com/handheld"><img src="http://images.calorieking.com/common/mainnav/handheld_off.gif" width="116" height="20" border="0"></a></td>
-</tr>
-<tr height="20">
-<td><img src="http://images.calorieking.com/common/mainnav/recipes_bg.gif" width="14" height="20" border="0"></td>
-<td><a href="http://www.calorieking.com/recipes"><img src="http://images.calorieking.com/common/mainnav/recipes_off.gif" width="116" height="20" border="0"></a></td>
-</tr>
-<tr height="20">
-<td><img src="http://images.calorieking.com/common/mainnav/library_bg.gif" width="14" height="20" border="0"></td>
-<td><a href="http://www.calorieking.com/library"><img src="http://images.calorieking.com/common/mainnav/library_off.gif" width="116" height="20" border="0"></a></td>
-</tr>
-<tr height="20">
-<td><img src="http://images.calorieking.com/common/mainnav/shoponline_bg.gif" width="14" height="20" border="0"></td>
-<td><a href="http://www.calorieking.com/shop"><img src="http://images.calorieking.com/common/mainnav/shoponline_off.gif" width="116" height="20" border="0"></a></td>
-</tr>
-<tr height="20">
-<td><img src="http://images.calorieking.com/common/mainnav/fooddb_bg.gif" width="14" height="20" border="0"></td>
-<td><a href="http://www.calorieking.com/foods"><img src="http://images.calorieking.com/common/mainnav/fooddb_off.gif" width="116" height="20" border="0"></a></td>
-</tr>
-<tr height="20">
-<td><img src="http://images.calorieking.com/common/mainnav/community_bg.gif" width="14" height="20" border="0"></td>
-<td><a href="http://www.calorieking.com/community"><img src="http://images.calorieking.com/common/mainnav/community_off.gif" width="116" height="20" border="0"></a></td>
-</tr>
-<tr height="20">
-<td><img src="http://images.calorieking.com/common/mainnav/affiliates_bg.gif" width="14" height="20" border="0"></td>
-<td><a href="http://www.calorieking.com/affiliates"><img src="http://images.calorieking.com/common/mainnav/affiliates_off.gif" width="116" height="20" border="0"></a></td>
-</tr>
-<tr height="20">
-<td><img src="http://images.calorieking.com/common/mainnav/joinnow_bg.gif" width="14" height="20" border="0"></td>
-<td><a href="http://www.calorieking.com/join"><img src="http://images.calorieking.com/common/mainnav/joinnow_off.gif" width="116" height="20" border="0"></a></td>
-</tr>
-<tr height="1">
-<td colspan="2"><img src="http://images.calorieking.com/common/mainnav/bottombar.gif" width="130" height="1" border="0"></td>
-</tr>
-</tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" background="http://images.calorieking.com/common/mainnav/background_grad.gif" width="100%"><tbody><tr height="20">
+<td></td><td align="right"><img src="http://images.calorieking.com/dot.gif" height="5"><br><a href="/" class="navigationlinks">Home</a></td><td>
+<img src="http://images.calorieking.com/dot.gif" height="7"><br>
+<img src="http://images.calorieking.com/common/mainnav/spacer.gif" width="10" height="12">
+</td></tr>
+<tr>
+<td><img src="http://images.calorieking.com/dot.gif" width="11" height="1" border="0"></td><td colspan="2" align="right" bgcolor="#80c0d8"><img src="http://images.calorieking.com/dot.gif" width="119" height="1" border="0"></td>
+</tr><tr height="20">
+<td></td><td align="right"><img src="http://images.calorieking.com/dot.gif" height="5"><br><a href="/personal" class="navigationlinks">Members</a></td><td>
+<img src="http://images.calorieking.com/dot.gif" height="7"><br>
+<img src="http://images.calorieking.com/common/mainnav/spacer.gif" width="10" height="12">
+</td></tr>
+<tr>
+<td><img src="http://images.calorieking.com/dot.gif" width="11" height="1" border="0"></td><td colspan="2" align="right" bgcolor="#80b9d2"><img src="http://images.calorieking.com/dot.gif" width="119" height="1" border="0"></td>
+</tr><tr height="20">
+<td></td><td align="right"><img src="http://images.calorieking.com/dot.gif" height="5"><br><a href="/handheld" class="navigationlinks">Handheld</a></td><td>
+<img src="http://images.calorieking.com/dot.gif" height="7"><br>
+<img src="http://images.calorieking.com/common/mainnav/spacer.gif" width="10" height="12">
+</td></tr>
+<tr>
+<td><img src="http://images.calorieking.com/dot.gif" width="11" height="1" border="0"></td><td colspan="2" align="right" bgcolor="#80b2cc"><img src="http://images.calorieking.com/dot.gif" width="119" height="1" border="0"></td>
+</tr><tr height="20">
+<td></td><td align="right"><img src="http://images.calorieking.com/dot.gif" height="5"><br><a href="/diabetes" class="navigationlinks">Diabetes Center</a></td><td>
+<img src="http://images.calorieking.com/dot.gif" height="7"><br>
+<img src="http://images.calorieking.com/common/mainnav/spacer.gif" width="10" height="12">
+</td></tr>
+<tr>
+<td><img src="http://images.calorieking.com/dot.gif" width="11" height="1" border="0"></td><td colspan="2" align="right" bgcolor="#80abc6"><img src="http://images.calorieking.com/dot.gif" width="119" height="1" border="0"></td>
+</tr><tr height="20">
+<td></td><td align="right"><img src="http://images.calorieking.com/dot.gif" height="5"><br><a href="/recipes" class="navigationlinks">Recipes</a></td><td>
+<img src="http://images.calorieking.com/dot.gif" height="7"><br>
+<img src="http://images.calorieking.com/common/mainnav/spacer.gif" width="10" height="12">
+</td></tr>
+<tr>
+<td><img src="http://images.calorieking.com/dot.gif" width="11" height="1" border="0"></td><td colspan="2" align="right" bgcolor="#80a4c0"><img src="http://images.calorieking.com/dot.gif" width="119" height="1" border="0"></td>
+</tr><tr height="20">
+<td></td><td align="right"><img src="http://images.calorieking.com/dot.gif" height="5"><br><a href="/library" class="navigationlinks">Library</a></td><td>
+<img src="http://images.calorieking.com/dot.gif" height="7"><br>
+<img src="http://images.calorieking.com/common/mainnav/spacer.gif" width="10" height="12">
+</td></tr>
+<tr>
+<td><img src="http://images.calorieking.com/dot.gif" width="11" height="1" border="0"></td><td colspan="2" align="right" bgcolor="#809dba"><img src="http://images.calorieking.com/dot.gif" width="119" height="1" border="0"></td>
+</tr><tr height="20">
+<td></td><td align="right"><img src="http://images.calorieking.com/dot.gif" height="5"><br><a href="/shop" class="navigationlinks">Shop Online</a></td><td>
+<img src="http://images.calorieking.com/dot.gif" height="7"><br>
+<img src="http://images.calorieking.com/common/mainnav/spacer.gif" width="10" height="12">
+</td></tr>
+<tr>
+<td><img src="http://images.calorieking.com/dot.gif" width="11" height="1" border="0"></td><td colspan="2" align="right" bgcolor="#8096b4"><img src="http://images.calorieking.com/dot.gif" width="119" height="1" border="0"></td>
+</tr><tr height="20">
+<td></td><td align="right"><img src="http://images.calorieking.com/dot.gif" height="5"><br><a href="/foods" class="navigationlinks">Food Database</a></td><td>
+<img src="http://images.calorieking.com/dot.gif" height="7"><br>
+<img src="http://images.calorieking.com/common/mainnav/spacer.gif" width="10" height="12">
+</td></tr>
+<tr>
+<td><img src="http://images.calorieking.com/dot.gif" width="11" height="1" border="0"></td><td colspan="2" align="right" bgcolor="#808fae"><img src="http://images.calorieking.com/dot.gif" width="119" height="1" border="0"></td>
+</tr><tr height="20">
+<td></td><td align="right"><img src="http://images.calorieking.com/dot.gif" height="5"><br><a href="/community" class="navigationlinks">Community</a></td><td>
+<img src="http://images.calorieking.com/dot.gif" height="7"><br>
+<img src="http://images.calorieking.com/common/mainnav/spacer.gif" width="10" height="12">
+</td></tr>
+<tr>
+<td><img src="http://images.calorieking.com/dot.gif" width="11" height="1" border="0"></td><td colspan="2" align="right" bgcolor="#8088a8"><img src="http://images.calorieking.com/dot.gif" width="119" height="1" border="0"></td>
+</tr><tr height="20">
+<td></td><td align="right"><img src="http://images.calorieking.com/dot.gif" height="5"><br><a href="/affiliates" class="navigationlinks">Affiliates</a></td><td>
+<img src="http://images.calorieking.com/dot.gif" height="7"><br>
+<img src="http://images.calorieking.com/common/mainnav/spacer.gif" width="10" height="12">
+</td></tr>
+<tr>
+<td><img src="http://images.calorieking.com/dot.gif" width="11" height="1" border="0"></td><td colspan="2" align="right" bgcolor="#8081a2"><img src="http://images.calorieking.com/dot.gif" width="119" height="1" border="0"></td>
+</tr><tr height="20">
+<td></td><td align="right"><img src="http://images.calorieking.com/dot.gif" height="5"><br><a href="/join" class="navigationlinks">Join Now! Free!</a></td><td>
+<img src="http://images.calorieking.com/dot.gif" height="7"><br>
+<img src="http://images.calorieking.com/common/mainnav/spacer.gif" width="10" height="12">
+</td></tr>
+<tr>
+<td><img src="http://images.calorieking.com/dot.gif" width="11" height="1" border="0"></td><td colspan="2" align="right" bgcolor="#807a9c"><img src="http://images.calorieking.com/dot.gif" width="119" height="1" border="0"></td>
+</tr></tbody></table>
 <br>
 </td><td>
 
@@ -671,11 +737,11 @@ them.</p>
 
 </tbody></table>
 
-<table class="bottombar" border="0" cellpadding="10" cellspacing="0" width="100%">
+<table class="bottombar" border="0" cellpadding="5" cellspacing="0" width="100%">
 
 <tbody><tr>
-<td nowrap="">Copyright © 1996-2002 Family Health Network</td>
-<td align="right" nowrap="">
+<td align="center" nowrap="">Copyright © 1996-2002 Family Health Network<br>
+<a href="/sitemap/">Site Map</a> |
 <a target="_blank" href="http://www.familyhealth.info/">Company</a> |
 <a href="/contactus/">Contact Us</a> |
 <a href="/privacy/">Privacy Policy</a> |
