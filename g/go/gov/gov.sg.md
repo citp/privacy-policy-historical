@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gov.sg privacy policy that was archived on 2004-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040405123250id_/http%3A//www.gov.sg/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gov.sg privacy policy that was archived on 2004-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040811090823id_/http%3A//www.gov.sg/privacy.htm) for the most accurate reproduction.*
 
 # SINGOV: Privacy Policy Statement
 
