@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsbook.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605110440id_/http%3A//www.sportsbook.com/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsbook.com privacy policy that was archived on 2004-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041217092759id_/http%3A//sportsbook.com/misc/privacy.html) for the most accurate reproduction.*
 
 # Casino, Online Casino, Gambling, Bet, Sportsbook
 
@@ -51,9 +51,9 @@ Sportsbook.com gives users the following options for removing their information 
 
 1\. You can send email to majordomo@sportsbook.com com with the words: "unsubscribe sportsbook-list" in the body of the message.
 
-2\. You can visit the following URL: http://www.sportsbook.com/list/  
-Correct/Update
+2\. You can visit the following URL: http://www.sportsbook.com/list/ 
 
+**Correct/Update**   
 This site gives users the following options for changing and modifying information previously provided. 
 
 1\. email support@sportsbook.com  
@@ -65,4 +65,4 @@ This site gives users the following options for changing and modifying informati
 Internet Opportunity Entertainment Ltd  
 St. Johns, Antigua, West Indies  
 [privacy@sportsbook.com](mailto:privacy@sportsbook.com)  
-1.800.996.5152
+1.800.632.6088
