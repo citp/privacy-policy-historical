@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uo.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203141800id_/http%3A//www.ea.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uo.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602174607id_/http%3A//www.ea.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -65,6 +65,6 @@ If for any reason you are concerned that the personal information maintained by 
 
 By using this site, you signify your assent to the Electronic Arts Online Privacy Policy. If you do not agree to this policy, please do not use this site. We reserve the right to make changes in this policy. Please check back from time to time to ensure you are aware of any changes in our privacy practices. Your continued use of our site will signify your acceptance of these changes.
 
-(c) 2000 Electronic Arts. All rights reserved.
+(c) 2000-2001 Electronic Arts. All rights reserved.
 
 | [](http://208.59.2.67/ea-confirmation.htm)
