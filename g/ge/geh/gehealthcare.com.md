@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gehealthcare.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017094426id_/http%3A//www.gecapitalhealthcare.com/util/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gehealthcare.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622001415id_/http%3A//www.gehealthcare.com/hfs/util/privacy_policy.shtml) for the most accurate reproduction.*
 
-# GE Capital Healthcare Financial Services -- Equity Investment
+# GE Healthcare Financial Services -- Equity Investment
 
 At GE Healthcare, protecting your privacy is very important to us. Our goal is to treat the personal information you give us with the utmost respect, and in accordance with this Privacy Policy. This Privacy Policy is currently applicable only to our United States customers and visitors when they interact with our Web site.
 
