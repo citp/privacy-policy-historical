@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bythom.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206040446id_/http%3A//www.bythom.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bythom.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618061810id_/http%3A//www.bythom.com/privacy.htm) for the most accurate reproduction.*
 
 # bythom.com Privacy Policy
 
