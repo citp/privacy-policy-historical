@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cancerresearchuk.org privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207061354id_/http%3A//www.cancerresearchuk.org/utilities/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cancerresearchuk.org privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603212724id_/http%3A//cancerresearchuk.org/utilities/privacy) for the most accurate reproduction.*
 
 # Cancer Research UK: Privacy statement
 
