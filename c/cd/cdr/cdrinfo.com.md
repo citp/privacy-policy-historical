@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdrinfo.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214161144id_/http%3A//cdrinfo.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdrinfo.com privacy policy that was archived on 2002-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020206073505id_/http%3A//www.cdrinfo.com/privacy.shtml) for the most accurate reproduction.*
 
 # CDR-Info, The Recording Authority
 
@@ -6,7 +6,9 @@
 
 CDR Info has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: CDR Info.COM 
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Our site's registration form requires users to give us contact information (like their name and email address). The customer's contact information is not shared with other companies. We use an outside ad company to display ads on our site. Ads may contain cookies, and appear to be coming from our site, but in reality they are coming from our partners who are serving ads on our site. Our site does not use cookies. We do not have access to any information about you from cookies you might receive while visiting our site. CDRInfo works with a third party that hosts our e-mail newsletters and serves ads into this publication. To find out more about how Flycast manages the privacy of information in conjunction with hosting and serving ads into our newsletters, please go to [**http://edispatch.flycast.com/privacy**](http://edispatch.flycast.com/privacy) **.**
+We use your IP address to help diagnose problems with our server, and to administer our Web site. Our site's registration form requires users to give us contact information (like their name and email address). The customer's contact information is not shared with other companies. We use an outside ad company to display ads on our site. Ads may contain cookies, and appear to be coming from our site, but in reality they are coming from our partners who are serving ads on our site. Our site does not use cookies. We do not have access to any information about you from cookies you might receive while visiting our site. CDRInfo works with a third party that hosts our e-mail newsletters and serves ads into this publication. 
+
+To find out more about how [AdTegrity](http://www.adtegrity.com/) manages the privacy of information in conjunction with hosting and serving ads into our newsletters, please visit this [**link**](http://www.adtegrity.com/privacy.asp) **.**
 
 **Public Forums  
 **This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
