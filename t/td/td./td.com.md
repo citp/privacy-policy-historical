@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the td.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604073321id_/http%3A//www.td.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the td.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201215701id_/http%3A//www.td.com/privacy/index.html) for the most accurate reproduction.*
 
 # TD Privacy Code
 
@@ -249,7 +249,7 @@ or visit our website at
 www.tdcanadatrust.com  
 
 
-1 The TD Bank Financial Group means The Toronto-Dominion Bank and affiliates, who provide deposit, investment, loan, securities, trust, insurance and other products and services. Our affiliates include: The Canada Trust Company, Canada Trustco Mortgage Company, TD Mortgage Corporation, TD Pacific Mortgage Corporation, TD Securities Inc. (TD Evergreen Investment Services), TD Waterhouse Investor Services (Canada) Inc., TD Asset Management Inc., Toronto Dominion Life Insurance Company, Meloche Monnex Inc. and TD MarketSite Inc.  
+1 The TD Bank Financial Group means The Toronto-Dominion Bank and affiliates, who provide deposit, investment, loan, securities, trust, insurance and other products and services. Our affiliates include: The Canada Trust Company, Canada Trustco Mortgage Company, TD Mortgage Corporation, TD Pacific Mortgage Corporation, TD Securities Inc. (TD Evergreen Investment Services), TD Waterhouse Investor Services (Canada) Inc., TD Asset Management Inc., TD Life Insurance Company, Meloche Monnex Inc. and TD MarketSite Inc.  
 *Trade-mark of TD Bank.  
 * TD Bank, licensed user of Mark.  
 TD Bank Financial Group’s Privacy Code complies with the provisions of the Personal Information Protection and Electronic Documents Act.
