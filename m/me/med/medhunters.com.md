@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medhunters.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202181644id_/http%3A//www.medhunters.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medhunters.com privacy policy that was archived on 2004-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040204194327id_/http%3A//www.medhunters.com/privacy.html) for the most accurate reproduction.*
 
 # MedHunters.com: Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **Your privacy is guaranteed!**
 
-> When you add your resume to MedHunters.com, your contact information is kept confidential until you give MedHunters permission to release it to an employer. Only direct healthcare employers who purchase a subscription to post jobs on MedHunters have access to our resume database. Employers that search our resume database only see your resume profile and NOT your contact information or the names of your current and previous employer and educational institution.
+> When you add your resume to MedHunters.com, your contact information is kept confidential if you request it. Afterward, it will be confidential until you give MedHunters permission to release it to an employer. Only direct healthcare employers who purchase a subscription to post jobs on MedHunters have access to our resume database. Employers that search our resume database only see your resume profile and NOT your contact information or the names of your current and previous employer and educational institution if you have asked for your resume to be confidential.
 
 **Protecting Your Privacy is Important to Us**
 
@@ -24,7 +24,7 @@
 
 > **Our Job Seekers**
 > 
-> In order for MedHunters help you find the job you want - where you want it - we ask that you complete our online, password-protected registration/resume builder profile. This allows you to provide us with all of your personal and professional information so that we can offer you job opportunities that best meet your interests and abilities. When you register, we realize that we ask for very confidential information from you, and we want you to know that we treat this with the highest degree of privacy possible. No information is released to anyone without your permission - permission is granted when you verbally agree to have your information sent to an employer (i.e. when you are talking to one of our staff) or when you apply for a job online on our site or through e-mail.
+> In order for MedHunters help you find the job you want - where you want it - we ask that you complete our online, password-protected registration/resume builder profile. This allows you to provide us with all of your personal and professional information so that we can offer you job opportunities that best meet your interests and abilities. When you register, we realize that we ask for very confidential information from you, and we want you to know that we treat this with the highest degree of privacy possible. No information is released to anyone without your permission - permission is granted in three ways. First, when you register, there is a checkbox which allows you to set your information visible, or confidentional. Second and third, whether visible or confidential, is when you verbally agree to have your information sent to an employer (i.e. when you are talking to one of our staff) or when you apply for a job online on our site or through e-mail.
 > 
 > **Our Registered Employers**
 > 
@@ -50,7 +50,7 @@
 > 
 > There are several ways in which you can change, modify or delete any information in your online resume profile:
 > 
->   * log into your My MedHunters account and make the changes you desire (for changes to your confidential information, you will have to email or telephone us with the details)
+>   * log into your My MedHunters account and make the changes you desire. 
 >   * contact us by email at [jobs@medhunters.com](mailto:jobs@medhunters.com). 
 >   * mail us at: 2403-180 Dundas St. W., Toronto ON M5G 1Z8 
 >   * phone us at: 1-800-664-0278 
