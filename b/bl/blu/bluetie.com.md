@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluetie.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216225851id_/http%3A//www.bluetie.com/about/privacy.asp%3Fid%3D%26res%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluetie.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604011720id_/http%3A//www.bluetie.com/about/privacy.asp%3Fid%3D%26res%3D) for the most accurate reproduction.*
 
 # BlueTie, Inc. - Contact Us
 
@@ -36,7 +36,7 @@ BlueTie, Inc. is a licensee of the TRUSTe Privacy Program. BlueTie respects the 
 
 **Your Acceptance Of These Terms**
 
-By using the Web Site, you signify your assent to our [Privacy Policy](https://web.archive.org/web/20011216225851id_/http%3A//www.bluetie.com/about/privacy.asp?id=&res=). If you do not agree to this Policy, please do not use the Site. Your continued use of the Web Site following the posting of changes to its terms means you accept those changes.
+By using the Web Site, you signify your assent to our [Privacy Policy](https://web.archive.org/web/20020604011720id_/http%3A//www.bluetie.com/about/privacy.asp?id=&res=). If you do not agree to this Policy, please do not use the Site. Your continued use of the Web Site following the posting of changes to its terms means you accept those changes.
 
 **Personally-Identifiable Information**
 
