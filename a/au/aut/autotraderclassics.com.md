@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the autotraderclassics.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602221200id_/http%3A//oldcartrader.com/index.php%3Fpage%3Dextra%26pg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autotraderclassics.com privacy policy that was archived on 2005-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050401234230id_/http%3A//www.oldcartrader.com/privacy.php) for the most accurate reproduction.*
 
 # Old Car Trader - Classic and Antique Cars, Trucks, Tractors and More
 
-  
-
-
-## oldcartrader.com Privacy Policy Statement
+## OldCarTrader.com Privacy Policy Statement
 
 oldcartrader.com is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of the oldcartrader.com Classifieds. This policy may change from time to time so please check back periodically. 
 
