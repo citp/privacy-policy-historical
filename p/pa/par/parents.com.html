@@ -1,475 +1,975 @@
-<!--The following is the downloaded HTML source of the parents.com privacy policy that was archived on 2003-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031203111800id_/http%3A//www.parents.com/other/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the parents.com privacy policy that was archived on 2004-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204113925id_/http%3A//www.parents.com/other/privacy.jsp) for the most accurate reproduction.-->
 
-<html><head></head><body bgcolor="#ffffff" marginheight="0" marginwidth="0" leftmargin="0" topmargin="0">&lt;%@ page language="java" import="java.net.*,java.sql.*,java.io.*,oracle.xml.parser.v2.*,org.w3c.dom.*,sun.misc.BASE64Decoder;" %&gt;
-&lt;%
-long randomNumber = System.currentTimeMillis();
-if (request.getParameter ("reload") != null)
-	response.sendRedirect (request.getRequestURI());
+<html><head>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<title>Privacy Policy</title>
+		<meta name="Author" content="">
+		<meta name="Date" content="09-01-2003">
+		<meta name="Deck" content="">
+		<meta name="Keywords" content="Privacy policy">
+		<meta name="Abstract" content="">
+		<meta name="PageTitle" content="Privacy Policy">
 
-String url = request.getRequestURI ();
-Cookie [] cookie  = request.getCookies(); 
-String login = null, membername = "", password = "";
-boolean showLogin = true;
+		<script language="JavaScript" type="text/javascript">
+			function Rollover(imageID, on) {
+				var path = "/images/nav/";
+				if (on) {
+				 imageID.src = path + imageID.id + "-over.gif";
+				}
+				else {
+				 imageID.src = path + imageID.id + ".gif";
+				}
+			}
+		</script>
 
-
-for (int i = 0; i &lt; cookie.length; i++) {
-	if (cookie [i].getName().equals ("parents_login")) {
-		login = cookie [i].getValue ();
-	} //end if
-} //end for
-	
-if (login != null) {
-
-	BASE64Decoder decode  = new BASE64Decoder();
-	login = new String(decode.decodeBuffer (login));
-	//login = loginB.toString ();
-	
-	int index = login.indexOf("~");
-	
-	membername = login.substring (0,index).trim();	
-	password = login.substring (index+1).trim();
-	session.setAttribute ("MemberName", membername);
-	session.setAttribute ("Password", password);
-}
-else membername = (String)session.getAttribute ("MemberName");	
-
-if (membername != null) {
-	showLogin = false;
-}
-%&gt;
+		<script language="JavaScript" type="text/javascript">
+		function popWindow(targetURI, windowParameters)
+		{
+			//windowParameters are very browser dependent.  Be sure to test in all browswers when
+			//changing window parameters.
 		
+			//For instance for Both IE and Netscape browsers to absolutely position a window properly 2 sets
+			// of dimensions should be included example: screenX=0,screenY=0,left=0,top=0
+			//To set the height and width of the windows example: width=625,height=400
+			//A Good PopupWindow in all browsers with no toolbar, no scrollbar, and not resizable.
+			//windowParameters = "scrollbars=no,width=625,height=400";
+		
+			if ( windowParameters.length == 0 )
+			{
+				windowParameters = "resizable,dependent,toolbar,scrollbars,location,status,menubar";
+			}
+		
+			popupWin = window.open(targetURI,'PopupWindow',windowParameters);
+		}
+		</script>
+		<script language="JavaScript" src="/js/misc.js" type="text/javascript"></script>
+		<link rel="stylesheet" href="/css/basic.css">
+		<link rel="SHORTCUT ICON" href="/favicon.ico">
+	</head>
+	<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="preloadImages();">
+		<table cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td colspan="3">
+					
+
+<script language="JavaScript" type="text/javascript">// global popup function for pop up windows
+function popitup(url)
+{
+	newwindow=window.open(url,'makehome','height=300,width=370,scrollbars=no,resizable=no');
+}</script>
+<!-- START 468 X 60 BANNER ADVERTISEMENT HERE -->
+<table width="711" cellpadding="10" cellspacing="0" id="Table1">
+ <tbody><tr>
+  <td align="middle">
+  	
+
+<!-- START 468 AD -->
+<table cellpadding="0" cellspacing="0" border="0" bgcolor="#E6E6FE" width="152">
+	<tbody><tr>
+		<td align="right" valign="top">
+			<img src="/images/shim.gif" width="152" height="1" border="0" alt=""><br>
+				
+			 
+			 
+			   
+			    
+				<!-- begin DEFAULT ad tag -->
+				<script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/gjparents.com/default;type=banner;tile=1;dcopt=ist;sz=468x60;ord=1102160359816?"></script>
+
+				<script>
+				if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0) {
+				document.write('<A HREF="http://ad.doubleclick.net/jump/gjparents.com/default;type=banner;tile=1;sz=468x60;ord=1102160359816?" TARGET="_blank">');
+				document.write('<IMG SRC="http://ad.doubleclick.net/ad/gjparents.com/default;type=banner;tile=1;sz=468x60;ord=1102160359816?" WIDTH="1" HEIGHT="1" BORDER="0" ALT=""></A>');
+				}
+				</script>
+
+				<noscript>
+				<A HREF="http://ad.doubleclick.net/jump/gjparents.com/default;type=banner;tile=1;sz=468x60;ord=1102160359816?" TARGET="_blank">
+				<IMG SRC="http://ad.doubleclick.net/ad/gjparents.com/default;type=banner;tile=1;sz=468x60;ord=1102160359816?" WIDTH="1" HEIGHT="1" BORDER="0" ALT=""></A>
+				</noscript>
+				<!-- end DEFAULT ad tag -->
+			    
+			    
+			    
+		        
+		</td>
+	</tr>
+</tbody></table>
+<!-- END 468 AD -->
+  </td>
+ </tr>
+</tbody></table>
+<!-- END 468 X 60 BANNER ADVERTISEMENT HERE -->
+<!-- START HEADER -->
+ <table width="100%" border="0" align="left" cellpadding="0" cellspacing="0" id="Table2">
+  <tbody><tr class="headerStrip">
+   <td>
+    <table border="0" cellpadding="0" cellspacing="0" width="731">
+		<tbody><tr>
+			<td>&nbsp;</td>
+
+			
+	
+			<td align="left" class="headerStrip">
+			MEMBERS: &nbsp;<a href="/registration/registration.jsp?url=/index.jsp" class="headerstrip"><img src="/images/top_login.gif" width="44" height="8" border="0" alt="Log In"></a>
+			&nbsp;&nbsp; or &nbsp;&nbsp; GUESTS: &nbsp;<a href="/registration/registration.jsp?url=/index.jsp" class="headerStrip"><img src="/images/top_joinnow.gif" width="56" height="8" border="0" alt="Join Now"></a></td>
+	
+			
 
 
-<map name="welcome">
-<area alt="Register" coords="29,192,76,203" href="/registration/registration.jsp?url=/index.jsp">
-</map>
-          
+			<td align="right" class="headerstrip">
+				Today is
+			   <script language="JavaScript" type="text/javascript">
+											var mydate=new Date()
+											var year=mydate.getYear()
+											if (year < 1000)
+											year+=1900
+											var day=mydate.getDay()
+											var month=mydate.getMonth()
+											var daym=mydate.getDate()
+											if (daym<10)
+											daym="0"+daym
+											var montharray=new Array("January","February","March","April","May","June","July","August","September","October","November","january")
+											document.write(""+montharray[month]+" "+daym+", "+year+"")
+			   </script>January 30, 2020
+			</td>
+		</tr>
+	</tbody></table>
+   </td>
+  </tr>
+ </tbody></table>
+ <br clear="left">
+ <!-- logo strip -->
+ <table border="0" width="736" align="left" cellpadding="0" cellspacing="0" class="logoStrip" bgcolor="#ffffff" id="Table4">
+	<tbody><tr>
+		<td>
+		<!-- START HEADER -->
+		<table width="711" border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td colspan="3" rowspan="4">
+					<a href="/index.jsp"><img src="/images/nav/header_01.gif" width="288" height="65" alt="Parents.com" border="0"></a></td>
+				<td width="423" height="17" colspan="7">
+					<img src="/images/nav/spacer.gif" width="423" height="17" alt=""></td>
+			</tr>
+			<tr>
+			<form name="searchForm" id="FormSearch1" action="/search/results.jsp"></form>
+				<td width="67" height="33" rowspan="2" align="center"><img src="/images/nav/search.gif" width="53" height="10" alt="Search"></td>
+				<td width="167" height="33" colspan="3" rowspan="2" align="center"><input type="text" name="query" size="19" maxlength="50"></td>
+				<td width="20" height="33" rowspan="2"><a href="javascript:document.forms['searchForm'].submit()"><img src="/images/icons/go_icon.gif" width="17" height="17" border="0" alt="Go"></a></td>
+				<td width="15" height="33" rowspan="2">
+					<img src="/images/nav/spacer.gif" width="15" height="33" alt=""></td>
+				<td>
+					<a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=PMM&amp;cds_page_id=17225&amp;cds_response_key=IPJK" onmouseover="changeImages('subscribe', '/images/nav/subscribe-over.gif'); return true;" onmouseout="changeImages('subscribe', '/images/nav/subscribe.gif'); return true;">
+						<img name="subscribe" src="/images/nav/subscribe.gif" width="154" height="16" border="0" alt="Subscribe to Parents"></a></td>
+			
+			</tr>
+			<tr>
+				<td>
+					<a href="https://w1.buysub.com/servlet/GiftsGateway?cds_mag_code=PMM&amp;cds_page_id=14962&amp;cds_response_key=IPJN" onmouseover="changeImages('gift', '/images/nav/gift-over.gif'); return true;" onmouseout="changeImages('gift', '/images/nav/gift.gif'); return true;">
+						<img name="gift" src="/images/nav/gift.gif" width="154" height="17" border="0" alt="Give Parents as a Gift"></a></td>
+			</tr>
+			<tr>
+				<td width="269" height="15" colspan="6">
+					<img src="/images/nav/spacer.gif" width="269" height="15" alt=""></td>
+				<td>
+					<a href="http://www.parents.com/other/subscription.jsp" onmouseover="changeImages('help', '/images/nav/help-over.gif'); return true;" onmouseout="changeImages('help', '/images/nav/help.gif'); return true;">
+						<img name="help" src="/images/nav/help.gif" width="154" height="15" border="0" alt="Subscription Help"></a></td>
+			</tr>
+			<tr>
+				<td>
+					<a href="/pregnancy/index.jsp" onmouseover="changeImages('pregnancy', '/images/nav/pregnancy-over.gif'); return true;" onmouseout="changeImages('pregnancy', '/images/nav/pregnancy.gif'); return true;">
+						<img name="pregnancy" src="/images/nav/pregnancy.gif" width="83" height="24" border="0" alt="Pregnancy"></a></td>
+				<td>
+					<a href="/age/index.jsp" onmouseover="changeImages('advice_by_age', '/images/nav/advice_by_age-over.gif'); return true;" onmouseout="changeImages('advice_by_age', '/images/nav/advice_by_age.gif'); return true;">
+						<img name="advice_by_age" src="/images/nav/advice_by_age.gif" width="97" height="24" border="0" alt="Advice by Age"></a></td>
+				<td>
+					<a href="/health/index.jsp" onmouseover="changeImages('health_safety', '/images/nav/health_safety-over.gif'); return true;" onmouseout="changeImages('health_safety', '/images/nav/health_safety.gif'); return true;">
+						<img name="health_safety" src="/images/nav/health_safety.gif" width="108" height="24" border="0" alt="Health &amp; Safety"></a></td>
+				<td colspan="2">
+					<a href="/food_fun/index.jsp" onmouseover="changeImages('food_fun', '/images/nav/food_fun-over.gif'); return true;" onmouseout="changeImages('food_fun', '/images/nav/food_fun.gif'); return true;">
+						<img name="food_fun" src="/images/nav/food_fun.gif" width="84" height="24" border="0" alt="Food &amp; Fun"></a></td>
+				<td>
+					<a href="/moms_dads/index.jsp" onmouseover="changeImages('moms_dads', '/images/nav/moms_dads-over.gif'); return true;" onmouseout="changeImages('moms_dads', '/images/nav/moms_dads.gif'); return true;">
+						<img name="moms_dads" src="/images/nav/moms_dads.gif" width="94" height="24" border="0" alt="Moms &amp; Dads"></a></td>
+				<td colspan="3">
+					<a href="/community/index.jsp" onmouseover="changeImages('community', '/images/nav/community-over.gif'); return true;" onmouseout="changeImages('community', '/images/nav/community.gif'); return true;">
+						<img name="community" src="/images/nav/community.gif" width="91" height="24" border="0" alt="Community"></a></td>
+				<td>
+					<a href="/january/index.jsp" onmouseover="changeImages('magazine', '/images/nav/magazine-over.gif'); return true;" onmouseout="changeImages('magazine', '/images/nav/magazine.gif'); return true;">
+						<img name="magazine" src="/images/nav/magazine.gif" width="154" height="24" border="0" alt="Parents Magazine"></a></td>
+			</tr>
+			<tr>
+				<td>
+					<img src="/images/nav/spacer.gif" width="83" height="1" alt=""></td>
+				<td>
+					<img src="/images/nav/spacer.gif" width="97" height="1" alt=""></td>
+				<td>
+					<img src="/images/nav/spacer.gif" width="108" height="1" alt=""></td>
+				<td>
+					<img src="/images/nav/spacer.gif" width="67" height="1" alt=""></td>
+				<td>
+					<img src="/images/nav/spacer.gif" width="17" height="1" alt=""></td>
+				<td>
+					<img src="/images/nav/spacer.gif" width="94" height="1" alt=""></td>
+				<td>
+					<img src="/images/nav/spacer.gif" width="56" height="1" alt=""></td>
+				<td>
+					<img src="/images/nav/spacer.gif" width="20" height="1" alt=""></td>
+				<td>
+					<img src="/images/nav/spacer.gif" width="15" height="1" alt=""></td>
+				<td>
+					<img src="/images/nav/spacer.gif" width="154" height="1" alt=""></td>
+			</tr>
+		</tbody></table>
+		<!-- END HEADER -->
+		</td>
+	</tr>
+ </tbody></table>
+<br clear="left"> 
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">
+					<table cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" width="735">
+						<tbody><tr>
+							<td bgcolor="#ffffff"><img src="/images/shim.gif" width="13" height="10" alt="" border="0"></td>
+							<td>
+							 <table cellpadding="0" cellspacing="0" border="0" width="152" bgcolor="#ffffff" class="tdleftcol" height="100%" id="Table6">
+							  <tbody><tr>
+							   <td valign="top">
+							    <!--******* START SIGN UP ******* -->
+							    <table border="0" cellspacing="0" cellpadding="0" id="Table12">
 
-	<title></title>
-	<meta name="Author" content="">
-	<meta name="Date" content="">
-	<meta name="Deck" content="Privacy Policy">
-	<meta name="Keywords" content="Privacy Policy, Privacy, privacy, policy">
-	<meta name="Abstract" content="Privacy Policy">
-	<meta name="MessageBoards" content="">
-	<meta name="MessageBoardHref" content="">	
-	<link href="/global.css" rel="stylesheet" type="text/css">
-
-<script>
-
-<!--
-
-if(document.layers) {
-    browser="badbrowser";
-} else {
-    browser="goodbrowser";
-}
-document.write('<link type="text/css" href="/parents_' + browser + '.css" rel="stylesheet">\n');
-document.write('<link type="text/css" href="/parents_nav_' + browser + '.css" rel="stylesheet">\n');
-
-function navChange(formName, popupName, target) {
-	var popup = document[formName].elements[popupName];
-	if (popup.options[popup.selectedIndex].value != "") {
-        if (target != "_blank") {
-    		document.location = popup.options[popup.selectedIndex].value;
-        } else {
-            window.open(popup.options[popup.selectedIndex].value, target);
-        }
-		popup.selectedIndex=0;
-	}
-}
-// -->
-
-</script><link type="text/css" href="/parents_goodbrowser.css" rel="stylesheet">
-<link type="text/css" href="/parents_nav_goodbrowser.css" rel="stylesheet">
-
-<script language="javascript" src="/scripts/rollover.js"></script>
+							  
 
 
+							   
+							       
+
+								<!--LEFT NAVIGATION SIGNUP WAS HERE-->
+
+							       
+							     
 
 
-<!-- Printer Friendly code -->
+							   
+							       
+								<tbody><tr>
+									<td height="10">&nbsp;</td>
+								</tr>
+								<!--LEFT NAVIGATION BUTTONS-->
+								
+  
+
+
+              
+
+					<!-- ******* START USEFUL LINKS LEFT NAV ******* -->
+					<tr>
+						<td><table cellspacing="0" cellpadding="0" border="0" id="Table3">
+								<tbody><tr>
+									<td><img height="23" src="/images/useful_links.gif" width="143"></td>
+								</tr>
+								<tr>
+									<td>
+										<a href="/other/help/index.jsp" onmouseover="Rollover(useful_nav_01, true);" onmouseout="Rollover(useful_nav_01, false)">
+											<img height="32" width="143" src="/images/nav/useful_nav_01.gif" border="0" id="useful_nav_01"></a><br>
+										<a href="https://w1.buysub.com/servlet/GiftsGateway?cds_mag_code=PMM&amp;cds_page_id=12753&amp;cds_response_key=IPFU" onmouseover="Rollover(useful_nav_02, true);" onmouseout="Rollover(useful_nav_02, false)">
+											<img height="29" src="/images/nav/useful_nav_02.gif" width="143" border="0" id="useful_nav_02"></a><br>
+										<a href="https://w1.buysub.com/servlet/GiftsGateway?cds_mag_code=PMM&amp;cds_page_id=14962&amp;cds_response_key=IPGE" onmouseover="Rollover(useful_nav_03, true);" onmouseout="Rollover(useful_nav_03, false)">
+											<img height="28" src="/images/nav/useful_nav_03.gif" width="143" border="0" id="useful_nav_03"></a><br>
+										<a href="https://w1.buysub.com/servlet/CSGateway?cds_mag_code=PMM" onmouseover="Rollover(useful_nav_04, true);" onmouseout="Rollover(useful_nav_04, false)">
+											<img height="28" src="/images/nav/useful_nav_04.gif" width="143" border="0" id="useful_nav_04"></a><br>
+										<a href="/community/writers_guidelines.jsp" onmouseover="Rollover(useful_nav_05, true);" onmouseout="Rollover(useful_nav_05, false)">
+											<img height="28" src="/images/nav/useful_nav_05.gif" width="143" border="0" id="useful_nav_05"></a><br>
+										<a href="/community/child_modeling.jsp" onmouseover="Rollover(useful_nav_06, true);" onmouseout="Rollover(useful_nav_06, false)">
+											<img height="41" src="/images/nav/useful_nav_06.gif" width="143" border="0" id="useful_nav_06"></a><br>
+										
+										</td>
+								</tr>
+							</tbody></table>
+						</td>
+					</tr>
+					<!--******* END USEFUL LINKS LEFT NAV ******* -->
+
+
+
+		       
+
+
 
  
-	
+								<!--END LEFT NAVIGATION BUTTONS-->
+
+								<!-- ******* DIVIDER ******* -->
+								<tr>
+									<td height="1">&nbsp;</td>
+								</tr>
+								<tr>
+									<td height="1" nowrap="" bgcolor="#99FF33"></td>
+								</tr>
+								<tr>
+									<td height="10">&nbsp;</td>
+								</tr>
+								<!-- ******* END DIVIDER ******* -->
+
+							       
+							     
+
+
+							   
+							       
+
+								<!--LEFT NAVIGATION SUBSCRIBE-->
+								
+
+		<!--******* START 2 FREE ISSUES ******* -->
+		     <tr>
+		      <td>		
+				<table width="136" height="251" border="0" cellpadding="0" cellspacing="0">
+					<tbody><tr>
+						<td>
+							<a href="https://w1.buysub.com/servlet/GiftsGateway?cds_mag_code=PMM&amp;cds_page_id=14962&amp;cds_response_key=IPKA" target="_blank">
+								<img src="/images/leftnav/gift_subscribe2_01.gif" width="136" height="37" border="0" alt=""></a></td>
+					</tr>
+					<tr>
+						<td>
+							<a href="https://w1.buysub.com/servlet/GiftsGateway?cds_mag_code=PMM&amp;cds_page_id=14962&amp;cds_response_key=IPKA" target="_blank">
+								<img src="/images/leftnav/gift_cover.jpg" width="136" height="152" border="0" alt=""></a></td>
+					</tr>
+					<tr>
+						<td>
+							<a href="https://w1.buysub.com/servlet/GiftsGateway?cds_mag_code=PMM&amp;cds_page_id=14962&amp;cds_response_key=IPKA" target="_blank">
+								<img src="/images/leftnav/gift_subscribe2_03.gif" width="136" height="29" border="0" alt=""></a></td>
+					</tr>
+					<tr>
+						<td>
+							<a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=PMM&amp;cds_page_id=17225&amp;cds_response_key=IPJL" target="_blank">
+								<img src="/images/leftnav/gift_subscribe2_04.gif" width="136" height="33" border="0" alt=""></a></td>
+					</tr>
+				</tbody></table>
+		      </td>
+		     </tr> 
+
+		<!--******* END 2 FREE ISSUES ******* -->
+
+
+								<!--END LEFT NAVIGATION SUBSCRIBE-->
+
+								<!-- ******* DIVIDER ******* -->
+								<tr>
+									<td height="10">&nbsp;</td>
+								</tr>
+								<tr>
+									<td height="1" nowrap="" bgcolor="#99FF33"></td>
+								</tr>
+								<tr>
+									<td height="10">&nbsp;</td>
+								</tr>
+								<!-- ******* END DIVIDER ******* -->
+
+							       
+							     
+
+
+							   
+							       
+
+								<!--LEFT NAVIGATION-->
+								
 
 
 
 
 
 
-<table width="711" cellpadding="0" cellspacing="0" border="0" bgcolor="#4b217b">
-<tbody>
-<tr>
-<td colspan="2" width="710" valign="bottom">
-<table>
-<tbody><tr>
-<td>
-<a href="/index.html"><img src="/images/logo_greendotcom1.gif" width="215" height="51" hspace="9" vspace="3" border="0" alt="Parents.com"></a>
-</td>
-<td>
+
+					<!-- START NEWSLETTERS -->
+					<tr>
+						<td>
+						 <table width="136" height="137" border="0" cellpadding="0" cellspacing="0">
+							<tbody><tr>
+								<td width="136" height="1" colspan="6" bgcolor="#9933CC">
+									<img src="/images/leftnav/spacer.gif" width="136" height="1" alt=""></td>
+							</tr>
+							<tr>
+								<td width="1" height="134" rowspan="8" bgcolor="#9933CC">
+									<img src="/images/leftnav/spacer.gif" width="1" height="134" alt=""></td>
+								<td colspan="4">
+									<img src="/images/leftnav/signup.gif" width="134" height="19" alt="Newsletters"></td>
+								<td width="1" height="134" rowspan="8" bgcolor="#9933CC">
+									<img src="/images/leftnav/spacer.gif" width="1" height="134" alt=""></td>
+							</tr>
+							<tr>
+								<td width="134" height="5" colspan="4">
+									<img src="/images/leftnav/spacer.gif" width="134" height="5" alt=""></td>
+							</tr>
+							<tr>
+								<td width="6" height="99" rowspan="5">
+									<img src="/images/leftnav/spacer.gif" width="6" height="99" alt=""></td>
+								<td width="122" height="50" colspan="2" align="left" valign="top">
+								<span style="color:#9900CC;font-size:12px;font-weight:bold;line-height:12px;">Free Newsletters</span>
+								<br><span style="color:#9900CC;font-size:10px;font-weight:normal;line-height:12px;">• My Pregnancy<br>
+								• My Baby<br> 
+								• My Toddler<br>
+								and more...</span></td>
+								<td width="6" height="99" rowspan="5">
+									<img src="/images/leftnav/spacer.gif" width="6" height="99" alt=""></td>
+							</tr>
+							<tr>
+								<td width="122" height="9" colspan="2">
+									<img src="/images/leftnav/spacer.gif" width="122" height="9" alt=""></td>
+							</tr>
+							<tr>
+								<td width="122" height="8" colspan="2" align="left" valign="bottom" style="color:#9900CC;font-size:9px;font-weight:normal;line-height:9px;"><b>E-mail Address</b></td>
+							</tr>
+							<tr>
+								<td width="122" height="17" colspan="2" align="left" valign="bottom">
+						
+								<!-- form name="info" onSubmit="return verify(this);" action="/registration/newsletter.jsp" ID="Form1"-->
+								<!--form name="form1" method="post"-->
+								<form name="form1" method="post" action="/registration/registration.jsp?url=/index.jsp" onsubmit="return validate(this);" id="Form1">
+								<input class="input" type="text" name="email" style="font-size: 10px; border: 1px solid #666666;" size="15" maxlength="80">
+								</form></td>
+							</tr>
+							<tr>
+								<td width="122" height="15" colspan="2">
+									<img src="/images/leftnav/spacer.gif" width="122" height="15" alt=""></td>
+							</tr>
+							<tr>
+								<td width="63" height="11" colspan="2">
+									<img src="/images/leftnav/spacer.gif" width="63" height="11" alt=""></td>
+								<td colspan="2">
+									<a href="continue.jsp">
+										<input type="image" name="submit" src="/images/leftnav/continue.gif" width="71" height="11"></a></td>
+							</tr>
+							<tr>
+								<td width="136" height="1" colspan="6" bgcolor="#9933CC">
+									<img src="/images/leftnav/spacer.gif" width="136" height="1" alt=""></td>
+							</tr>
+							<tr>
+								<td>
+									<img src="/images/leftnav/spacer.gif" width="1" height="1" alt=""></td>
+								<td>
+									<img src="/images/leftnav/spacer.gif" width="6" height="1" alt=""></td>
+								<td>
+									<img src="/images/leftnav/spacer.gif" width="57" height="1" alt=""></td>
+								<td>
+									<img src="/images/leftnav/spacer.gif" width="65" height="1" alt=""></td>
+								<td>
+									<img src="/images/leftnav/spacer.gif" width="6" height="1" alt=""></td>
+								<td>
+									<img src="/images/leftnav/spacer.gif" width="1" height="1" alt=""></td>
+							</tr>
+						</tbody></table>
+						</td>
+					</tr>
+					<!-- END NEWSLETTERS -->
+						<!-- ******* DIVIDER ******* -->
+						<tr>
+							<td height="1">&nbsp;</td>
+						</tr>
+						<tr>
+							<td height="1" nowrap="" bgcolor="#99FF33"></td>
+						</tr>
+						<tr>
+							<td height="10">&nbsp;</td>
+						</tr>
+						<!-- ******* END DIVIDER ******* -->
+					<!-- START CONTESTS AND SWEEPSTAKES -->
+					<tr>
+						<td valign="top">
+							<table width="136" height="239" border="0" cellpadding="0" cellspacing="0">
+								<tbody><tr>
+									<td>
+										<img src="/images/leftnav/contests_sweeps.gif" width="136" height="50" alt="Contests &amp; Sweepstakes"></td>
+								</tr>
+								<tr>
+									<td>
+										<a href="/cutekids/">
+											<img src="/images/leftnav/cutekids.gif" width="136" height="85" border="0" alt="Cutest Kid in the Universe Contest"></a></td>
+								</tr>
+								<tr>
+									<td>
+										<a href="/sweepstakes/sweepstakes.jsp">
+											<img src="/images/leftnav/sweepstakes.gif" width="136" height="46" border="0" alt="Win Free Stuff"></a></td>
+								</tr>
+								<tr>
+									<td>
+										<a href="/Microsites/ppp/ppp.html">
+											<img src="/images/leftnav/prizes.gif" width="136" height="58" border="0" alt="Prizes, Products, Promotions"></a></td>
+								</tr>
+							</tbody></table>
+						</td>
+					</tr>
+					<!-- END CONTESTS AND SWEEPSTAKES -->
+
+<!-- SURVEY GOES HERE -->
+
+
+<!-- END HEALTH SAFETY LEFT NAVIGATION BAR -->
+
+
+								<!--END LEFT NAVIGATION-->
+
+								<!-- ******* DIVIDER ******* -->
+								<tr>
+									<td height="10">&nbsp;</td>
+								</tr>
+								<tr>
+									<td height="1" nowrap="" bgcolor="#99FF33"></td>
+								</tr>
+								<tr>
+									<td height="10">&nbsp;</td>
+								</tr>
+								<!-- ******* END DIVIDER ******* -->
+
+							       
+							     
 
 
 
-<!-- 468 x 60 -->
+							   
+							       
 
+								<!--LEFT NAVIGATION FROM OUR SPONSORS-->
+								
 
+     <!-- START FROM OUR SPONSORS -->
+      <tr>
+      <td>
 
+		<table width="136" border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td width="8" height="7" colspan="3">
+					<img src="/images/leftnav/spacer.gif" width="8" height="7" alt=""></td>
+				<td rowspan="3">
+					<img src="/images/leftnav/from_our_sponsors_02.gif" width="93" height="11" alt=""></td>
+				<td width="35" height="7" colspan="3">
+					<img src="/images/leftnav/spacer.gif" width="35" height="7" alt=""></td>
+			</tr>
+			<tr>
+				<td width="8" height="2" colspan="3" bgcolor="#660099">
+					<img src="/images/leftnav/spacer.gif" width="8" height="2" alt=""></td>
+				<td width="33" height="2" colspan="2" bgcolor="#660099">
+					<img src="/images/leftnav/spacer.gif" width="33" height="2" alt=""></td>
+				<td width="2" rowspan="5" bgcolor="#660099">
+					<img src="/images/leftnav/spacer.gif" width="2" alt=""></td>
+			</tr>
+			<tr>
+				<td width="2" rowspan="4" bgcolor="#660099">
+					<img src="/images/leftnav/spacer.gif" width="2" alt=""></td>
+				<td width="6" height="6" colspan="2" rowspan="2">
+					<img src="/images/leftnav/spacer.gif" width="6" height="6" alt=""></td>
+				<td width="28" height="3">
+					<img src="/images/leftnav/spacer.gif" width="28" height="3" alt=""></td>
+				<td width="5" rowspan="4">
+					<img src="/images/leftnav/spacer.gif" width="5" alt=""></td>
+			</tr>
+			<tr>
+				<td width="121" height="3" colspan="2">
+					<img src="/images/leftnav/spacer.gif" width="121" height="3" alt=""></td>
+			</tr>
+			<tr>
+				<td width="5" rowspan="2">
+					<img src="/images/leftnav/spacer.gif" width="5" alt=""></td>
+				<td colspan="3">
+					<table width="122" border="0" cellpadding="0" cellspacing="0">
+				
+				<!--
+						  <tr>
+					<td width="122" bgcolor="#FFF5EF">
+						 <table align="left" border="0" cellspacing="0" cellpadding="0" style="MARGIN-BOTTOM: 4px;MARGIN-TOP: 4px;">
+								  <tr>
+								   <td width="12" align="left" valign="top">&#149;</td>
+								   <td>
+									<a href="http://www.life-line.org/index_quiz.php" target="_blank" class="sponsorText">Test your life insurance IQ &amp; win a computer!</a></td>
+						  </tr>
+						 </table>
+						</td>
+					   </tr>
+				
+				   
+					  <tr>
+					<td width="122" bgcolor="#EEEEEE">
+						 <table align="left" border="0" cellspacing="0" cellpadding="0" style="MARGIN-BOTTOM: 4px;MARGIN-TOP: 4px;">
+								  <tr>
+								   <td width="12" align="left" valign="top">&#149;</td>
+								   <td>
+									<a href="http://clk.atdmt.com/OGI/go/prnteenf00100048ogi/direct/01/" target="_blank" class="sponsorText">Enfamil Family Beginnings &reg; &#151;<br/>Click Today!</a></td>
+						  </tr>
+						 </table>
+						</td>
+					   </tr>
+				
+				
+				
+				-->
+				   
+					  <tbody><tr>
+					<td width="122" bgcolor="#FFF5EF">
+						 <table align="left" border="0" cellspacing="0" cellpadding="0" style="MARGIN-BOTTOM: 4px;MARGIN-TOP: 4px;">
+								  <tbody><tr>
+								   <td width="12" align="left" valign="top">•</td>
+								   <td>
+									<a href="http://www.sensationalbeginnings.com/BrandScreen.asp?ScreenID=5001" target="_blank" class="sponsorText">Shop for <i>PARENTS</i><br>Play &amp; Learn Toys</a></td>
+						  </tr>
+						 </tbody></table>
+						</td>
+					   </tr>
+				
+				
+				
+			   </tbody></table></td>
+			</tr>
+			<tr>
+				<td width="122" height="5" colspan="3">
+					<img src="/images/leftnav/spacer.gif" width="122" height="5" alt=""></td>
+			</tr>
+			<tr>
+				<td width="136" height="2" colspan="7" bgcolor="#660099">
+					<img src="/images/leftnav/spacer.gif" width="136" height="2" alt=""></td>
+			</tr>
+			<tr>
+				<td>
+					<img src="/images/leftnav/spacer.gif" width="2" height="1" alt=""></td>
+				<td>
+					<img src="/images/leftnav/spacer.gif" width="5" height="1" alt=""></td>
+				<td>
+					<img src="/images/leftnav/spacer.gif" width="1" height="1" alt=""></td>
+				<td>
+					<img src="/images/leftnav/spacer.gif" width="93" height="1" alt=""></td>
+				<td>
+					<img src="/images/leftnav/spacer.gif" width="28" height="1" alt=""></td>
+				<td>
+					<img src="/images/leftnav/spacer.gif" width="5" height="1" alt=""></td>
+				<td>
+					<img src="/images/leftnav/spacer.gif" width="2" height="1" alt=""></td>
+			</tr>
+		</tbody></table>
 
-
-<iframe src="http://ad.doubleclick.net/adi/gjparents.com/homepage;pos=top;sz=468x60;tile=1;ord=&lt;%=randomNumber%&gt;?" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
-<A HREF="http://ad.doubleclick.net/jump/gjparents.com/homepage;abr=!ie;pos=top;sz=468x60;tile=1;ord=<%=randomNumber%>?">
-<IMG SRC="http://ad.doubleclick.net/ad/gjparents.com/homepage;abr=!ie;pos=top;sz=468x60;tile=1;ord=<%=randomNumber%>?" border=0 height="60" width="468">
-</A>
-</iframe>
-
-
-
-
-
-
-
-</td>
-</tr>
-</tbody></table>
-</td>
-<td width="1" bgcolor="#000000"><img src="/images/nopixel.gif" width="1" height="1" border="0"></td>
-</tr>
-<tr>
-<form name="search" action="/community/search_results.jsp"></form>
-
-<td width="169" bgcolor="#FFFF66"><a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=PMM&amp;cds_page_id=4296"><img src="/images/subscription.gif" width="169" height="55" border="0" alt="click to subscribe to the print magazine" align="top"></a><br>
-<img src="/images/search_parents.gif" width="169" height="15" border="0" alt="search parents.com"><br>
-    <table cellpadding="0" cellspacing="0" border="0">
-    <tbody><tr valign="top">
-    <td width="11"><img src="/images/nopixel.gif" width="11" height="18" border="0"></td>
-    <td><input id="searchtextbox" type="text" name="SEARCH" size="14"></td>
-    <td><img src="/images/nopixel.gif" width="5" height="1" border="0"><input type="image" src="/images/btn_arrow.gif" alt="submit" width="21" height="18" hspace="0" vspace="1" border="0"><br></td>
-    </tr>
-    </tbody></table>
-</td>
-
-<td width="541" valign="bottom">
-    <table width="541" cellpadding="0" cellspacing="0" border="0">
-    <tbody><tr>
-    <td width="461" align="center" valign="top">
-    <div class="grayEleven">
-	<font color="#99ccff">
-	&lt;%if (!showLogin) { %&gt;
-		Welcome, &lt;%=membername %&gt;!&nbsp;
-	&lt;%}
-	else{%&gt;
-		<a href="#" class="linkLight" onclick="window.open ('/other/signin_pop.jsp', 'LogIn', 'width=260,height=390');">Sign In</a>&nbsp;  /&nbsp;
- <a href="/registration/registration.jsp?url=/index.jsp" class="linkLight">Register Now</a>
-    &lt;%}%&gt;
- 	</font>
-    </div>
     </td>
-    <td width="80">
-    <img src="/images/nopixel.gif" width="80" height="15" border="0"><br>
-    <img src="/images/helptab.gif" width="80" height="12" border="0" usemap="#helptab"><br>
-    <map name="helptab">
-    <area alt="site index" coords="9,4,51,11" href="http://www.parents.com/site_index/index.jsp">
-    <area alt="help" coords="56,4,78,11" href="http://www.parents.com/other/help/index.jsp" shape="RECT">
-    <area alt="" shape="default" nohref="">
-    </map>
-    </td>
-    </tr>
-    <tr bgcolor="#ffff66">
+   </tr>
 
-	   	<td width="541" colspan="2"><!-- navigation --><a href="/pregnancy/index.jsp" onmouseover="imageOn(0); rollOn(0);" onmouseout="imageOff(0); rollOff();"><img name="btn0" src="/images/btn_preg_off.gif" width="91" height="25" border="0" alt=""></a><a href="/health/index.jsp" onmouseover="imageOn(1); rollOn(1);" onmouseout="imageOff(1); rollOff();"><img name="btn1" src="/images/btn_health_off.gif" width="91" height="25" border="0" alt="Health"></a><a href="/ages_and_stages/index.jsp" onmouseover="imageOn(2); rollOn(2);" onmouseout="imageOff(2); rollOff();"><img name="btn2" src="/images/btn_ages_off.gif" width="97" height="25" border="0" alt=""></a><a href="/family_time/index.jsp" onmouseover="imageOn(3); rollOn(3);" onmouseout="imageOff(3); rollOff();"><img name="btn3" src="/images/btn_family_off.gif" width="91" height="25" border="0" alt=""></a><a href="/community/index.jsp" onmouseover="imageOn(4); rollOn(4);" onmouseout="imageOff(4); rollOff();"><img name="btn4" src="/images/btn_community_off.gif" width="96" height="25" border="0" alt=""></a><br>
+     <!-- END FROM OUR SPONSORS -->
+ 
 
-<!-- /navigation -->
-<!-- rollover text -->
-    <img name="rolloverText" src="/images/nopixel.gif" width="466" height="21" border="0" alt=""><br>
-    <!-- /rollover text -->
+								<!--END LEFT NAVIGATION FROM OUR SPONSORS-->
 
-    </td>
-    </tr>
-    </tbody></table>
-</td>
+								<!-- ******* DIVIDER ******* -->
+								<tr>
+									<td height="10">&nbsp;</td>
+								</tr>
+								<tr>
+									<td height="1" nowrap="" bgcolor="#99FF33"></td>
+								</tr>
+								<tr>
+									<td height="10">&nbsp;</td>
+								</tr>
+								<!-- ******* END DIVIDER ******* -->
 
-<td width="1" bgcolor="#000000"><img src="/images/nopixel.gif" width="1" height="1" border="0" alt=""></td>
-</tr>
-</tbody></table>
+							       
+							     
 
 
 
+							 
+							   <tr>
+								<td align="center">
+								  <br>
+									
 
-
-
-<!-- End Top Nav-->
-<!-- This is where PATH optional table will be inserted -->
-<!-- /PATH option table -->
-
-<!-- content -->
-<table width="711" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr valign="top">
-
-
-<!-- left column -->
 
 	
-		
-			<!-- build left column with standard compontents -->
-<td width="162">
-  
-  <!-- BEGIN left rail cap MANDATORY -->
-    <table width="162" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF">
-		<tbody><tr><td height="19" valign="top"><img src="/images/subnav_cap.gif" width="162" height="19" border="0"></td></tr>
-    </tbody></table>
-  <!-- END  left rail cap MANDATORY -->
-
-	<!-- component #1 -->  
-	    	    	<!-- subscription component left rail below navigation -->
-		<table width="162" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" background="/images/bg_subscribe_left.gif">
-   		<tbody><tr><td>   
-		<div class="compObject">
-		<div class="blueHeader">Subscribe to <i>Parents</i> Magazine!</div>
-		<div class="blackEleven">Be a great parent, raise a great kid. Get <i>Parents</i> now!</div>
-		<br>
-		<a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=PMM&amp;cds_page_id=4296"><img src="/images/btn_subscribe.gif" width="89" height="20" border="0" align="top" alt="subscribe now"></a>
-		</div>
-		</td></tr></tbody></table>
-		<img src="/images/purplepixel.gif" width="162" height="2" border="0" alt=""><br>
-	<!-- /subscription component left rail below navigation -->
-		
 	
-    <!-- / component -->
-	
-	<!-- component #3 -->  
-	    	    
-
-    <table width="162" cellpadding="0" cellspacing="0" border="0" bgcolor="#93C856">
-	
-    <tbody><tr valign="top">
-    <td>
-	<form name="form_parentsComm">
-        <img src="http://parents.com/images/abc_components/comm_ages/parents_comm_land.gif" width="162" height="49" border="0" alt="Parents Community" usemap=""><br>
-	<div id="parentsComm">
-        <span class="blackEleven">
-	<b>Family Time Open Forum Board:</b><br>
-	<i>"...My husband and I are moving to due to a job promotion. How can I find out about the schools before hand? Does any one have any advice on moving out of state?..."</i>
-	<br>
-        <a href="http://www.parents.com/community/boards/messagestring.jsp?threadID=27954&amp;isArchive=0"><img src="http://parents.com/images/abc_components/comm_ages/btn_joinnow.gif" width="59" height="20" vspace="4" border="0" alt="join now"></a><br><br>    
-	Popular boards:<br>
-
-                   <select class="selectbox" onchange="navChange('form_parentsComm', 'DISCUSSION', '_top');" name="DISCUSSION" style="width: 140; margin-bottom: 8px;">
-		   <option value="">Select one</option>
- 		
-					
-						<option value="http://65.193.9.197/community/boards/discussions.jsp?board=Ages+and+Stages.Toddlers">Toddlers</option>			
-					
-						<option value="http://www.parents.com/community/boards/discussions.jsp?board=Ages+and+Stages.Babies">Babies</option>			
-					
-						<option value="http://65.193.9.197/community/boards/discussions.jsp?board=Family+Time.Recipe+Exchange">Recipes</option>			
-							
-                
-		   </select>
-		</span>
-                </div>
-		</form>
-        </td>
-        
-    </tr>
-	
-	<tr>
-	<td><br>
-	<img src="http://parents.com/images/abc_components/comm_ages/purplepixel.gif" width="162" height="2" border="0" alt=""><br>
-	</td>
-	</tr>
-	
-    </tbody></table>
-		
-	
-    <!-- / component -->
-
-	<!-- component #3 -->  
-	    	    
-
-  	
-	<table width="162" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFE35F" background="http://www.parents.com/images/abc_components/tellus/bg_tellus.gif">
-    <tbody><tr>
-    <td><img src="http://www.parents.com/images/abc_components/tellus/tellus.gif" width="162" height="41" border="0" alt="Tell Us What You Think">
-    <div class="compObject">
-	<span class="blackEleven">Parents.com is growing! Tell us what you'd like to see on our site.</span><br>
-    <a href="http://www.parents.com/other/help/index.jsp"><img src="http://www.parents.com/images/abc_components/tellus/btn_submit_feedback.gif" alt="submit feedback" width="94" height="20" border="0" vspace="5"></a>
-    </div>
-
-	</td>
-	</tr>
-	<tr>
-	<td>
-	<img src="http://parents.com/images/abc_components/comm_ages/purplepixel.gif" width="162" height="2" border="0" alt=""><br>
-	</td>
-	</tr>
-	</tbody></table>
-	
-	
-		
-	
-    <!-- / component -->
-	
-	<img src="/images/purplepixel.gif" width="162" height="2" border="0" alt=""><br>
+			   
+			    
+				<!-- begin DEFAULT ad tag -->
 
 
 
-   <!-- sponsor area -->
+				<!-- end DEFAULT ad tag -->
 
-    <table width="162" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff">
-
-    <tbody><tr>
-
-        <td>
-
-        <div id="sponsorArea">
-
-        <span class="blackTen">
-
-        <br>from our sponsors:
-
-        <br>
-
-  
-
-<!-- 120 x 90 -->
-
-
-
-<iframe src="http://ad.doubleclick.net/adi/gjparents.com/homepage;pos=top;sz=120x90;tile=3;ord=&lt;%=randomNumber%&gt;?" width="120" height="90" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
-<A HREF="http://ad.doubleclick.net/jump/gjparents.com/homepage;abr=!ie;pos=top;sz=120x90;tile=3;ord=<%=randomNumber%>?">
-<IMG SRC="http://ad.doubleclick.net/ad/gjparents.com/homepage;abr=!ie;pos=top;sz=120x90;tile=3;ord=<%=randomNumber%>?" border=0 height="90" width="120">
-</A>
-</iframe>
-
-
-
-
-   
-     </span>
-        </div>
-        </td>
-    </tr>
-    </tbody></table>
-
-	<!-- /sponsor area -->
-
+			    
+			    
 			
-			
+		
+								  <br>
+								</td>
+							   </tr>
 
-			
-</td>			
-			
+							    </tbody></table>
+							   </td>
+							  </tr>
+							  <tr>
+							      <td><img src="/images/shim.gif" width="1" height="200"></td>
+							  </tr>
+							 </tbody></table>
+							</td>
+	        				<td><img height="10" src="/images/shim.gif" width="5"></td>
+							<td valign="top">
+
+								<!-- START STANDARD ARTICLE CONTENT -->
+								<!-- ******* START BREADCRUMB/PULLDOWN ******* -->
+								<table cellspacing="0" cellpadding="0" bgcolor="#ffffff" border="0" id="Table1">
+									<tbody><tr>
+										<td>
+											<table id="Table2" cellspacing="0" cellpadding="0" width="565" border="0">
+												<tbody><tr>
+													<td rowspan="99"><img height="10" src="/images/shim.gif" width="15"></td>
+													<td colspan="2"><img height="1" src="/images/shim.gif" width="525"></td>
+													<td rowspan="99"><img height="10" src="/images/shim.gif" width="24"></td>
+												</tr>
+												<tr>
+													<td valign="top"><img height="10" src="/images/shim.gif" width="359"><br>
+														<!--********************START BREADCRUMBS*************************-->
+															<a class="breadcrumbHome" href="/index.jsp">Parents.com</a><span class="breadcrumbHome"> &gt;</span>&nbsp;<span class="breadcrumbSubadvice">Privacy Policy</span>
+
+
+														<!--*********************END BREADCRUMBS**************************-->
+													</td>
+													<td align="right">
+														<!--***************SUBSCRIPTION DROPDOWN WAS HERE***************-->
+													</td>
+												</tr>
+												<tr>
+													<td colspan="2"><img height="10" src="/images/shim.gif" width="525"></td>
+												</tr>
+											</tbody></table>
+											<!--******* END BREADCRUMB/PULLDOWN  ******* -->
+											<table width="565" cellpadding="0" cellspacing="0" id="Table4">
+												<tbody><tr>
+													<td rowspan="99"><img height="10" src="/images/shim.gif" width="10"></td>
+													<td>
+
+												
 												
 
+												
+														<table border="0" cellpadding="0" cellspacing="0" id="Table19">
+														<tbody><tr>
+															
+																
+															
 
-<!-- /left column -->
 
-<!-- center column -->
-<td width="548">
-    <table width="548" cellpadding="0" cellspacing="0" border="0" height="700">
-    <tbody><tr valign="top">
-        <td rowspan="999" width="8" bgcolor="#4b217b"><img src="/images/nopixel.gif" width="8" height="1" border="0" alt=""></td>
-        <td width="540" bgcolor="#000000" height="1"><img src="/images/nopixel.gif" width="370" height="1" border="0" alt=""></td>
-    </tr>
 
-    
-	 <!-- article content -->
-    <tr valign="top">
-    	<td width="540" height="699">
-    	<div class="mainObject">
-			<!-- enter page specific content here :: font styles need to be defined individually for each page -->
-			<p>
-</p><div class="blueHeader">Privacy Policy</div><p>
-</p><div class="blackTwelve">
-Through your use of this Site, Gruner + Jahr USA Publishing ("G+J") collects certain information about you that you specifically and knowingly provide to us, such as your user name, email address, name or mailing address. In addition, we may track how you use this Site and relate it to the information you have provided to us.  If you wish to be notified of the use of such tracking software and/or disable such software, your browser may offer this feature by means of its options or preferences menu.				<p>							The above-described information (Personally-Identifying Information) may be used by G+J to personalize and enhance your use of this Site, including the marketing and promotion of certain products and services that might be of interest to you. Your use of this Site is a consent to the foregoing use of your Personally-Identifying Information by G+J.		</p><p>
+
+
+																<td valign="top" colspan="3">
+																	<span class="articleHeader">Privacy Policy</span><br>
+																	<span class="articleIntro"></span><br><br>
+																 
+
+																 
+
+
+																
+																</td>
+															</tr>
+														
+														  
+														      
+														     
+														  <!-- START TOC option -->
+														  
+														  <!-- END TOC option -->
+														
+
+
+														</tbody></table>
+														<!-- START ARTICLE CONTENT SECTION -->
+														<!-- PLACE AD INCLUDE WITHIN ARTICLE COPY FOR ADVERTISEMENT -->
+														<!-- AD INCLUDE LOCATED WITHIN GREEK COPY - IF YOU ARE PASTING - DONT PASTE OVER THE AD INCLUDE -->
+														<!-- MOVE INCLUDE AROUND TO GET DESIRED SPACING FROM RELATED RESOURCES -->
+														<!--startclickprintinclude -->
+														<p>
+														
+														
+														    
+
+															
+															
+																Through your use of this Site, Gruner + Jahr USA Publishing ("G+J") collects certain information about you that you specifically and knowingly provide to us, such as your user name, email address, name or mailing address. In addition, we may track how you use this Site and relate it to the information you have provided to us.  If you wish to be notified of the use of such tracking software and/or disable such software, your browser may offer this feature by means of its options or preferences menu.				</p><p>							The above-described information (Personally-Identifying Information) may be used by G+J to personalize and enhance your use of this Site, including the marketing and promotion of certain products and services that might be of interest to you. Your use of this Site is a consent to the foregoing use of your Personally-Identifying Information by G+J.		</p><p>
 G+J also may share your Personally-Identifying Information with select companies and organizations for their own marketing and promotional use.  While G+J seeks to share Personally-Identifying Information with companies that follow appropriate privacy policies, it does not bear any responsibility for the actions and policies of such third parties.  If you wish that we not share your Personally-Identifying Information with third parties, you may "opt out" by emailing us with such request. 
-</p><p>						You should be aware that any Personally-Identifying Information, such as your user name and email address, as well as any other information that you post on a bulletin board, share in a "chat room," or otherwise specifically and knowingly disclose by use of the Forums, may be directly collected and used by third parties.  Therefore, you may be subject to unsolicited email as a result of your disclosure of such information.  YOU SHOULD HAVE NO EXPECTATION OF PRIVACY WITH RESPECT TO YOUR COMMUNICATIONS THROUGH THE FORUMS.</p></div>
-<p>
-		</p></div>
-   		 <br>
-		 <br>
-	
-   	 	</td>
-    </tr>
-	<tr valign="bottom">
-	<td><img src="/images/purplepixel.gif" width="540" height="2" border="0" alt=""><br></td> 
+</p><p>						You should be aware that any Personally-Identifying Information, such as your user name and email address, as well as any other information that you post on a bulletin board, share in a "chat room," or otherwise specifically and knowingly disclose by use of the Forums, may be directly collected and used by third parties.  Therefore, you may be subject to unsolicited email as a result of your disclosure of such information.  YOU SHOULD HAVE NO EXPECTATION OF PRIVACY WITH RESPECT TO YOUR COMMUNICATIONS THROUGH THE FORUMS.
+</p><p>
+															
+														
+														
+														
+														<!-- END ARTICLE CONTENT SECTION -->
+														<!--endclickprintinclude-->
+														</p>
+													</td>
+													<td rowspan="99" height="1"><img src="/images/shim.gif" width="5" height="10"></td>
+												</tr>
+												<tr>
+													<td valign="top">&nbsp;</td>
+												</tr>
+
+                                                                                       
+                                                                                        
+
+										     
+												<tr>
+													<td valign="top">&nbsp;</td>
+												</tr>
+
+											   
+												<tr>
+													<td valign="top" class="copyright">
+														<p class="topSpotText">09-01-2003</p>
+														<p class="topSpotText">Copyright © Parents.com</p>
+													</td>
+												</tr>
+												<tr>
+													<td valign="top">&nbsp;</td>
+												</tr>
+											   
+
+												<tr>
+													<td valign="top" class="articleoptions" height="14">
+																 
+																   
+																		   
+																		       
+																			<!-- START CLICKABILITY -->
+																				
+
+
+<!-- Copyright 2001-2003, Clickability, Inc.  All rights reserved.-->
+<script language="javascript1.2" src="http://a449.g.akamai.net/7/449/1776/000/button.clickability.com/1584/button_3/button.js"></script>
+																			<!-- END CLICKABILITY -->
+																			<br>
+																		       
+																		     
+
+																     
+																 
+
+													</td>
+												</tr>
+												<tr>
+													<td valign="top">&nbsp;</td>
+												</tr>
+											</tbody></table>
+										</td>
+									</tr>
+								</tbody></table>
+							<!-- END STANDARD ARTICLE CONTENT -->
+							</td>
+						</tr>
+					</tbody></table>
+				</td>
+				<td valign="top">
+					
+
+<!-- START SKYSCRAPER AD -->
+<table cellpadding="0" cellspacing="0" border="0" bgcolor="#E6E6FE" width="152">
+	<tbody><tr>
+		<td align="right" valign="top">
+			<img src="/images/shim.gif" width="152" height="1" border="0" alt=""><br>
+
+			 
+
+			   
+
+				<!-- begin DEFAULT ad tag -->
+				<script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/gjparents.com/default;type=skyscraper;tile=2;sz=120x600;ord=1102160359816?"></script>
+
+				<script>
+				if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0) {
+				document.write('<A HREF="http://ad.doubleclick.net/jump/gjparents.com/default;type=skyscraper;tile=2;sz=120x600;ord=1102160359816?" TARGET="_blank">');
+				document.write('<IMG SRC="http://ad.doubleclick.net/ad/gjparents.com/default;type=skyscraper;tile=2;sz=120x600;ord=1102160359816?" WIDTH="1" HEIGHT="1" BORDER="0" ALT=""></A>');
+				}
+				</script>
+
+				<noscript>
+				<A HREF="http://ad.doubleclick.net/jump/gjparents.com/default;type=skyscraper;tile=2;sz=120x600;ord=1102160359816?" TARGET="_blank">
+				<IMG SRC="http://ad.doubleclick.net/ad/gjparents.com/default;type=skyscraper;tile=2;sz=120x600;ord=1102160359816?" WIDTH="1" HEIGHT="1" BORDER="0" ALT=""></A>
+				</noscript>
+				<!-- end DEFAULT ad tag -->
+
+
+			    
+
+			
+
+					<br><br>
+					<!--begin bottom 120x600 ad tag -->
+					<script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/gjparents.com/skyscraper2;pos=bottom;tile=5;sz=120x600;ord=1102160359816?"></script>
+
+					<script>
+					if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0) {
+					document.write('<A HREF="http://ad.doubleclick.net/jump/gjparents.com/skyscraper2;pos=bottom;tile=5;sz=120x600;ord=1102160359816?" TARGET="_blank">');
+					document.write('<IMG SRC="http://ad.doubleclick.net/ad/gjparents.com/skyscraper2;pos=bottom;tile=5;sz=120x600;ord=1102160359816?" WIDTH="120" HEIGHT="600" BORDER="0" ALT=""></A>');
+					}
+					</script>
+
+					<noscript>
+					<A HREF="http://ad.doubleclick.net/jump/gjparents.com/skyscraper2;pos=bottom;tile=5;sz=120x600;ord=1102160359816?" TARGET="_blank">
+					<IMG SRC="http://ad.doubleclick.net/ad/gjparents.com/skyscraper2;pos=bottom;tile=5;sz=120x600;ord=1102160359816?" WIDTH="120" HEIGHT="600" BORDER="0" ALT=""></A>
+					</noscript>
+		</td>
 	</tr>
-    <!-- /article content -->
-	
-	
-    
-    </tbody></table>
-	</td>
-	<!-- /center column -->
 
-
-
-<td width="1" bgcolor="#000000"><img src="/images/nopixel.gif" width="1" height="1" border="0" alt=""></td>
-</tr>
 </tbody></table>
-<!-- /content -->
-
-<!--Advertisement-->
-<table width="711" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr><td width="122">&nbsp;</td>
-<td><br>
-<br>
-
-
-
-
-<!-- 468 x 60 -->
-
-
-
-
-
-<iframe src="http://ad.doubleclick.net/adi/gjparents.com/homepage;pos=bottom;sz=468x60;tile=2;ord=&lt;%=randomNumber%&gt;?" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
-<A HREF="http://ad.doubleclick.net/jump/gjparents.com/homepage;abr=!ie;pos=bottom;sz=468x60;tile=2;ord=<%=randomNumber%>?">
-<IMG SRC="http://ad.doubleclick.net/ad/gjparents.com/homepage;abr=!ie;pos=bottom;sz=468x60;tile=2;ord=<%=randomNumber%>?" border=0 height="60" width="468">
-</A>
-</iframe>
-
-
-
-
-
-
-
-<!--/Advertisement-->
-
-
-
-<!-- footer -->
-	<div align="center" class="blackEleven"><br>
-<a href="/index.jsp">Home</a> | <a href="/pregnancy/index.jsp">Pregnancy</a> | <a href="/health/index.jsp">Health</a> | <a href="/ages_and_stages/index.jsp">Advice by Age</a> | <a href="/family_time/index.jsp">Family Time</a> | <a href="/community/index.jsp">Community</a><br>
-<br>
-<a href="/site_index/index.jsp">Site Index</a> | <a href="/other/terms.html">Terms of Use</a> | <a href="/other/privacy.html">Privacy Policy</a> | <a href="http://www.parentsmediakit.com">Advertisers' Info</a><br>
-<br>
-<a href="/other/help/index.jsp">Help Center</a> | <a href="/other/subscription_center.jsp">Subscription Center</a> | <a href="http://www.parents.com/submit_form/tell_us.jsp">Contact Us</a>
-
-<div class="blackTen"><br>
-©2002 Gruner + Jahr Publishing. All Rights Reserved.</div>
-</div>
+<!-- END SKYSCRAPER AD -->
+				</td>
+				<td width="100%"></td>
+			</tr>
+			<tr>
+				<td colspan="3"><!-- START FOOTER -->
+<table width="100%" cellpadding="0" cellspacing="0">
+	<tbody><tr class="footerStrip">
+		<td class="footerStrip">
+		<a name="below"></a>
+			<table width="711" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td align="center">
+						<br>
+					
+						<a href="/pregnancy/index.jsp" class="footerStrip">Pregnancy</a> &nbsp; | &nbsp; <a href="/age/index.jsp" class="footerStrip">
+							Advice By Age</a> &nbsp; | &nbsp; <a href="/health/index.jsp" class="footerStrip">Health &amp; 
+							Safety</a> &nbsp; | &nbsp; <a href="/food_fun/index.jsp" class="footerStrip">Food &amp; Fun</a> &nbsp; 
+						| &nbsp; <a href="/moms_dads/index.jsp" class="footerStrip">Moms &amp; Dads</a> &nbsp; | &nbsp; <a href="/community/index.jsp" class="footerStrip">
+							Community</a>
+						<br>
+						&nbsp; 
+						<br>
+						<a href="/tool_indexes/topics_atoz.jsp" class="footerStrip">Topics A to Z</a> &nbsp; | &nbsp; <a href="/tool_indexes/tools.jsp" class="footerStrip">
+							Tools</a> &nbsp; | &nbsp; <a href="/sweepstakes/sweepstakes.jsp" class="footerStrip">
+							Sweepstakes</a> &nbsp; | &nbsp; <a href="/registration/registration.jsp?url=/index.jsp" class="footerStrip">Newsletters</a>
+						&nbsp; | &nbsp; <a href="/other/help/index.jsp" class="footerStrip">Help Center</a>
+						<br>
+						&nbsp;
+						<br>
+						<a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=PMM&amp;cds_page_id=17225&amp;cds_response_key=IPJM" class="footerStrip">Subscribe to <i>Parents</i></a> &nbsp; | &nbsp; <a href="https://w1.buysub.com/servlet/GiftsGateway?cds_mag_code=PMM&amp;cds_page_id=14962&amp;cds_response_key=IPJO" class="footerStrip">
+							Give <i>Parents</i> as a Gift</a> &nbsp; | &nbsp; <a href="http://www.parents.com/other/subscription.jsp" class="footerStrip">Subscriber Services</a>
+						<br>
+						&nbsp;
+						<br>
+						<a href="/other/terms.jsp" class="footerStrip">Terms of Use</a> &nbsp; | &nbsp; <a href="/other/privacy.jsp" class="footerStrip">Privacy Policy</a>
+						&nbsp; | &nbsp; <a href="/other/advertise.jsp" class="footerStrip">Advertise With Us</a> &nbsp; | &nbsp; <a href="/submit_form/tell_us.jsp" class="footerStrip">Contact Us</a>
+						<br>
+						&nbsp;
+						<br>
+						© 2004 Gruner + Jahr Publishing. All Rights Reserved.
+						<br>
+						<br>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+<!-- END FOOTER -->
 </td>
-<td width="80">&nbsp;</td>
-<td width="1" bgcolor="#000000"><img src="/images/nopixel.gif" width="1" height="1" border="0" alt=""></td>
-</tr>
-</tbody></table>
-
-<iframe src="http://ad.doubleclick.net/adi/gjparents.com/default;type=richmedia;sz=1x1;tile=4;ord=&lt;%=randomNumber%&gt;?" name="frame1" width="1" height="1" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
-<SCRIPT language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/gjparents.com/default;abr=!ie;type=richmedia;sz=1x1;tile=4;ord=<%=randomNumber%>?">
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://ad.doubleclick.net/jump/gjparents.com/default;abr=!ie;type=richmedia;sz=1x1;tile=4;ord=<%=randomNumber%>?"><IMG SRC="http://ad.doubleclick.net/ad/gjparents.com/default;abr=!ie;type=richmedia;sz=1x1;tile=4;ord=<%=randomNumber%>?" border=0 height="1" width="1"></A>
-</NOSCRIPT>
-</iframe>
-
-
-<!-- /footer -->
-
+			</tr>
+		</tbody></table>
+	
 
 
 
