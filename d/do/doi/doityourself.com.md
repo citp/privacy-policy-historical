@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the doityourself.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206190700id_/http%3A//doityourself.com/services/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doityourself.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603173215id_/http%3A//www.doityourself.com/services/privacypolicy.htm) for the most accurate reproduction.*
 
-# 
+# DoItYourself.com Privacy Statement
 
   
 
@@ -73,13 +73,18 @@ If at any time after registering, you change your mind about receiving the newsl
 
 Finally, although Advice Company has a very strong Privacy Protection policy on our end, and does its utmost to protect privacy of all visitors, we bear no responsibility for anyone else's conduct with respect to material you transmit. As is true with ANY Internet usage and access to ANY Website, if you are using someone else's computer, or someone else has access to your computer, or you are using a corporate or other "network", it may be possible for that "someone else" or the "network" operator to retrieve copies of Email you sent from the computer and/or to trace the places you have been visiting on the Internet.
 
-#### Amendments 
+#### Amendments
 
 We may amend this Privacy Policy on a prospective basis (i.e., for future visits) at any time by posting a revised policy on our Web site. Further, nothing in this Privacy Policy is designed to protect the privacy of visitors whose use of the Company's Website is, in our opinion, or that of our attorneys or affiliates is intended for illegal, improper or abusive purposes, for purposes of marketing or solicitation, or would violate any other terms and conditions relating to use of the Web site.
 
-This Privacy Statement is effective January 4, 2000.  
+This Privacy Statement is effective January 4, 2000.
 
+**[**Don't have time to do it yourself? Click here to receive up to  
+four Free estimates from prescreened and insured contractors.**](http://doityourself.com/handyman/request.htm)**
 
-[](http://forum.doityourself.com/index.php)
+ **
 
-|  | 
+#### Special Offer For DoItYourself.com Users  
+FREE Issue of The Family Handyman Magazine. [Click here for details](http://209.250.68.147/diyforms/readers_digest.htm)
+
+**
