@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paintshoppro.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602190622id_/http%3A//www.jasc.com/privacy.asp%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paintshoppro.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203020644id_/http%3A//www.jasc.com/privacy.asp%3F) for the most accurate reproduction.*
 
 # Jasc Software Privacy Statement
 
@@ -12,7 +12,7 @@ Because we feel your privacy is so important, we are providing this page to desc
 
 Collection of Personal Information 
 
-[Special Information For Members of the EU Community](https://web.archive.org/web/20030602190622id_/http%3A//www.jasc.com/privacy.asp#special)
+[Special Information For Members of the EU Community](https://web.archive.org/web/20031203020644id_/http%3A//www.jasc.com/privacy.asp#special)
 
 Opt-In Methods 
 
