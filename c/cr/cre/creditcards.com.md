@@ -1,162 +1,18 @@
-> *The following text is extracted and transformed from the creditcards.com privacy policy that was archived on 2003-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031009013133id_/http%3A//www.creditcards.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditcards.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611125953id_/http%3A//www.creditcards.com/privacy.htm) for the most accurate reproduction.*
 
-# 
+# Privacy - CreditCards.com
 
-**Privacy Policy**
+## CreditCards.com Privacy Policy
 
-## About Our Privacy Policy
+**CreditCards.com Privacy Statement Introduction:** CreditCards.com has a strong commitment to providing excellent service to all of our customers, including respecting their concerns about privacy. We understand that visitors to our website may have questions about how this website collects and uses information. We have prepared this statement to inform you of the privacy principles that govern CreditCards.com 
 
-Your privacy is important to us, and we would like you to feel comfortable surfing our website. Please read the following privacy policy in its entirety for information on the privacy practices of this website and organization. 
+This statement contains numerous general and technical details about the steps we take to respect your privacy concerns. The bottom line is that meeting your needs and expectations form the foundation of everything we do - including protecting your privacy. This website does not collect personally identifiable information from your computer when you browse the site. This means that, unless you voluntarily and knowingly provide us with personally identifiable information, we will not know your name, your e-mail address, or any other personally identifiable information. Internet Protocol (IP) Address: An IP address is a number that is automatically assigned to your computer when you browse the Internet. When users request a page from our site, our servers log the user's current IP address. We use IP addresses to help diagnose problems. We do not link IP addresses to any personally identifiable information about you. Cookies: Our website uses "cookie" technology. "Cookies" are strings of text that a website may store on a user's computer. Our website uses cookies but only requires them in the online reservation process. Cookies enable our website to keep track of your preferences and activities relating to the website. Our website creates session cookies for each visit in order to facilitate your visit. 
 
-Users should be aware that when they voluntarily disclose personal information such as user name and e-mail address on message boards, that information can be collected and used by others and may result in unsolicited messages from other posters or parties. When you sign-up for services on third party sites to which Creditcards.com, LLC ("CC") provides links, keep in mind you will be interacting with a third party that operates under its own privacy and security policies. In some instances, the Creditcards.com name and logo may appear on these third party sites/areas, however, any information collected there will be done so by the third parties. CC assumes no responsibility for the privacy policies of these sites. 
+**Use of Cookies for Advertising** \- we use third party service providers to serve and host our advertisements. These third parties use persistent cookies to track the number of times our site is accessed and whether the site was accessed from the advertisement. The cookies generated from the advertisements do not contain personally identifiable information and may remain on your hard drive three or more years unless deleted by you. 
 
-As with many other major Web sites, we track how visitors use our online services. This tracking system tells us on which page you entered our Web site on, what pages you visited, which files you downloaded, how long you visited our site, and the domains or addresses of sites you visited immediately before coming to or leaving from our site. We also utilize cookie technology that lets us trace the paths followed by visitors to our site as they move from one page to another. We may maintain log files with individually identifiable information for the purposes of your participation in promotions and prizes, e-mail correspondence, and visits to our affiliated Web sites. Otherwise, the tracking information or cookie statistics are not associated with you as an individual. It is measured only in an aggregate form. Any information you specifically provide CC with in connection with participation in surveys or promotions or via e-mail is deemed to be disclosed without restriction on its use. If you provide CC with your E-mail address, or have done so in the past, we may upon occasion send you E-mail offers. We may use information you have given us to provide a service, ensure proper billing, measure consumer interest in our various services, and inform you about products and services. These offers may be based on information you provided in your initial transaction with us, in surveys, from information that may indicate purchasing preferences and lifestyle, as well as information available from external sources. We also may maintain log files using IP addresses to analyze trends, administer the site, track user movement, and gather broad demographic information for aggregate use. 
+To track the effectiveness of CreditCards.com advertisements on other sites, as well as the effectiveness of our advertising for other sites, CreditCards.com uses pixel tags (also known as "clear gifs", "beacon gifs", "1-by-1 gifs", or "web bugs"). Pixel tags are not visible to the user of the site and consist of a few lines of computer coding. If you are visiting CreditCards.com from an advertisement on another site, the pixel tag references the cookie you received when you clicked on the advertisement. The pixel tag then registers this activity with the third party advertising company to allow us to count the number of times an advertisement is accessed. In addition, we also measure the amount of traffic generated from a particular ad. At no time is personally identifiable information about you or your reservation collected by the third party advertising company, nor is any tracking information generated from the pixel tag allowed to be used by them for any other purpose other than to report web site activity to us or allow us to better target future interactive advertising. Our third party service providers may use pixel tags in CreditCards.com marketing e-mails that help us send the e-mail in a format you can read, to allow us to know which e-mails you act upon and to better target the content of future e-mails. In addition, we track the aggregate number of e-mails read and whether any of the links in the e-mail were accessed. No other information is collected or used from pixel tags. Information We Collect: When we need to collect personally identifiable information from you, we will ask you to voluntarily supply us with the information we need. 
 
-## P3P Compliant Privacy Policy - HTML Version
+**Securing the Transmission and Storage of Information:** All credit card applications listed with CreditCards.com use a Secured Sockets Layer (SSL) line provided you are using a SSL enabled browser such as Microsoft Internet Explorer or Netscape Navigator. This ensures that your information is encrypted as it travels over the Internet. This secure mode is enabled before any such information is transmitted from your computer. You will know you are in secure mode when the padlock or key icon in the lower right-hand or left-hand corner of the computer screen appears in the locked position. You will usually only see this icon only when you are filling out an application. In addition, when accessing a secure server, the first characters of the site address will change from "http" to "https." 
 
-The Creditcards.com P3P compliant privacy policy covers: 
+**CreditCards.com Privacy Statement Changes:** In the future, we may need to change the privacy statement for CreditCards.com. All changes will be made here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone.  
 
-  1. Data Collection on the website under this Policy
-  2. Use of User Cookies by the website under this Policy
-  3. Dispute Resolution in respect of this Privacy Policy
-  4. Additional Information in respect of this Policy
-  5. A P3P compliant Compact Policy Summary for this Policy
-
-We invite you to contact us if you have questions about this policy. You may contact us most efficiently by sending an email to [privacy@creditcards.com](mailto:privacy@creditcards.com). 
-
-## 1\. Data Collection
-
-This policy conforms to a P3P policy standard and contains 4 data groups as its “Statements” under the standard. Our data practices for each information group are explained below:
-
-### 1.1 Site Data
-
-The data in this group has been marked as non-identifiable in this Policy. This means that there is no reasonable way for the site to identify the individual person this data was collected from. We collect the data for use in the analysis of our site operations and performance. 
-
-We and/or our agents may use the data for the following purposes: 
-
-  * Completion and support of the current activity.
-  * Web site and system administration.
-  * Research and development.
-  * Anonymous user analysis.
-  * Anonymous user profiling and decision-making.
-
-
-
-The data collected may include: 
-
-  * Click-stream data
-  * HTTP protocol elements
-  * User's interaction with a page or resource
-  * HTTP cookies
-  * Search terms
-
-
-
-### 1.2 Usertrack Information
-
-The data in this group has been marked as non-identifiable in this Policy. This means that there is no reasonable way for the site to identify the individual person this data was collected from. We collect the data for use in the analysis of our site operations and performance. 
-
-We and/or our agents may use the data for the following purposes: 
-
-  * Completion and support of the current activity.
-  * Web site and system administration.
-  * Research and development.
-  * One-time tailoring.
-  * Anonymous user analysis.
-  * Anonymous user profiling and decision-making.
-
-
-
-The data collected may include: 
-
-  * Click-stream data
-  * HTTP protocol elements
-  * HTTP cookies
-
-
-
-### 1.3 Consumer Contests
-
-We collect information from consumers who may participate in contests and promotions on our site. This information may be collected for fulfillment purposes and also provides for the user to be able to opt-in to various services and/or information lists and to participate in surveys.
-
-The data collected may include: 
-
-  * User's Name
-  * User's Birth Date
-  * User's Gender
-  * Home e-mail address
-  * Online contact information
-
-
-
-At the user's option, we may also collect the following data: 
-
-  * User's Job Title
-  * Demographic data
-  * Preference data
-  * Home mailing address
-
-
-
-We and/or our agents may use data from Consumer Contests for the following purposes: 
-
-  * User analysis. The user must opt-in to this usage.
-  * User profiling and decision-making. The user must opt-in to this usage.
-  * Contacting visitors for marketing of services or products. The user must opt-in to this usage.
-  * Telemarketing. The user must opt-in to this usage.
-
-
-
-In addition, unrelated third parties following different Privacy practices may also receive this information. However, the user must opt-in to this data sharing. 
-
-### 1.4 Business Contests
-
-We collect information from businesses that may participate in contests and promotions on our site. This information may be collected for fulfillment purposes and also provides for the user to be able to opt-in to various services and/or information lists and to participate in surveys. 
-
-The data collected may include: 
-
-  * User's Name
-  * User's Birth Date
-  * User's Business Contact Information
-  * Business information
-
-
-
-At the user's option, we may also collect the following data: 
-
-  * User's Gender
-  * User's Job Title
-
-
-
-We and/or our agents may use data from Consumer Contests for the following purposes: 
-
-  * Contacting visitors for marketing of services or products. The user must opt-in to this usage.
-  * Telemarketing. The user must opt-in to this usage.
-
-
-
-## 2\. Cookies
-
-Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it or not. 
-
-Our site makes use of cookies. Cookies are used for the following purposes: 
-
-  * Site administration
-  * Completing the user's current activity
-  * User targeting
-  * Pseudononymous analysis
-  * Pseudonym-based decision-making
-  * Research and development
-
-
-
-## 3\. Dispute Resolution
-
-If you think we have not followed our privacy policy in some way, or have a privacy related issue which you feel we may be able to resolve, please contact us so we can help you to resolve your concern. We will promptly respond to all inquiries. We may be contacted by email at [privacy@creditcards.com](mailto:privacy@creditcards.com) for this purpose. 
-
-## 4\. Additional Information
-
-For information regarding site usage and third party sites linked to by creditcards.com, please view the [terms of service](http://www.creditcards.com/terms.html). 
-
-This policy is valid for 15 days from the time that it is loaded by a client.
