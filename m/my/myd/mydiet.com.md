@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the mydiet.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202195641id_/http%3A//metabolife.com/contact/default.jsp%3Fid%3D95) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydiet.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610162854id_/http%3A//www.metabolife.com/contact/default.jsp%3Fid%3D95) for the most accurate reproduction.*
 
 # Metabolife
 
-|   
----|---  
-  
-Metabolife's Privacy Policy
-
-Metabolife respects the privacy of every individual who visits our web site and we are strongly committed to protecting their personal information. Please take a moment to read the following policy statement to understand how METABOLIFE collects, uses and safeguards the personal information you provide to us on the web site. This policy may change from time to time, so please check back periodically. 
+Metabolife's Privacy Policy Metabolife respects the privacy of every individual who visits our web site and we are strongly committed to protecting their personal information. Please take a moment to read the following policy statement to understand how METABOLIFE collects, uses and safeguards the personal information you provide to us on the web site. This policy may change from time to time, so please check back periodically. 
 
 GENERAL INFORMATION ABOUT ALL METABOLIFE.COM VISITORS  
 As a visitor to Metabolife's web site, you are anonymous to the company. Like many other commercial web sites, Metabolife may use a standard technology called a "cookie" that measures the number of visitors to the different sections of the web site. Cookies are designed, generally, to collect and store the name of the domain from which you access the Internet (e.g., aol.com, if you are connecting from an American Online account), the date and time you access Metabolife's site, and the Internet address of the web site from which you linked directly to Metabolife's site. Metabolife uses the information collected by cookies to improve its site and make it more useful to visitors. Metabolife's cookies do not collect personal information. 
