@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dictionary.com privacy policy that was archived on 2000-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000607054308id_/http%3A//www.dictionary.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dictionary.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205103900id_/http%3A//www.dictionary.com/help/privacy.html) for the most accurate reproduction.*
 
 # Dictionary.com/Privacy Statement
+
+## Privacy Statement
 
 Lexico, LLC has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Dictionary.com.
 
@@ -47,7 +49,7 @@ This Web site meets the guidelines of TRUSTe's Children's program.
 
 ## Choice/Opt-Out
 
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners _at the point where we request information about the visitor_.
+Our site provides users the opportunity to opt-out of receiving communications from us and our partners **at the point where we request information about the visitor**.
 
 This site gives users the following option for removing their information from our database to not receive future communications or to no longer receive our service: 
 
