@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bigotires.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209125127id_/http%3A//www.bigotires.com/index.asp%3FPG%3D01%26Sub%3D04) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigotires.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603195635id_/http%3A//www.bigotires.com/index.asp%3FPG%3D01%26Sub%3D04) for the most accurate reproduction.*
 
-# BIG O TIRES
+# Big O Tires - Changing the way people purchase tires and automotive services
 
 **Online Privacy Policy**
 
