@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rue21.com privacy policy that was archived on 2001-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010805205803id_/http%3A//rue21.com/pages/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rue21.com privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014094329id_/http%3A//www.rue21.com/pages/privacypolicy.cfm) for the most accurate reproduction.*
 
 # rue 21: we won't pay what they say
 
