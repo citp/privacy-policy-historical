@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the w3schools.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203005521id_/http%3A//www.w3schools.com/about/about_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3schools.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623224911id_/http%3A//www.w3schools.com/about/about_privacy.asp) for the most accurate reproduction.*
 
 # About Privacy
 
-[](https://web.archive.org/web/20031203005521id_/http%3A//www.w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20031203005521id_/http%3A//www.w3schools.com/about/default.asp)
+[](https://web.archive.org/web/20040623224911id_/http%3A//www.w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20040623224911id_/http%3A//www.w3schools.com/about/default.asp)
 
 * * *
 
@@ -13,7 +13,7 @@ The following statements describes the privacy practices for W3Schools:
   * We do not collect any personal information from our users
   * IP addresses are logged for aggregate statistics and diagnosis
   * We only share aggregated statistics with our partners
-  * Security settings protects the misuse of sensitive information
+  * Security settings protect the misuse of sensitive information
   * W3Schools does not use cookies to track any user information
 
 
@@ -58,7 +58,7 @@ For any questions about this privacy statement, please contact:
 
 * * *
 
-[](https://web.archive.org/web/20031203005521id_/http%3A//www.w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20031203005521id_/http%3A//www.w3schools.com/about/default.asp)   
+[](https://web.archive.org/web/20040623224911id_/http%3A//www.w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20040623224911id_/http%3A//www.w3schools.com/about/default.asp)   
 
 
 * * *
@@ -71,26 +71,74 @@ For any questions about this privacy statement, please contact:
 
 If you want to be a Web Master, you will have to host your web site with an ISP (Internet Service Provider).
 
-Maximum ASP is a service provider with a unique web hosting platform designed specifically for serious Microsoft developers. They offer high performance and stability at a good price with a 30-day, money-back guarantee.
+Founded in 1996 in North Carolina, AIT Inc. provides web hosting and ecommerce services to more than 190,000 domains in 107 countries. Shared, dedicated, and colocated hosting plans for both Linux and Windows users are available along with the industry's most lucrative reseller program. AIT has won acclaim as one of the fastest growing technology companies in North America by Inc. Magazine and by Deloitte & Touche.
 
-They have access to all of Microsoft's web technologies, and their support staff is 100% Microsoft-certified.
+AIT Dedicated hosting starts as low as $49.99 per month with No Setup Fee!
 
-[Visit MaximumASP](https://web.archive.org/spotlights_dir.asp?site=maximumasp)
+All plans include: Unlimited Domains, 1000 Gb Data transfer, FREE 800 24/7 Support, with your choice of operating system, Linux or Windows.
 
-* * *
-
-## The Web Design Business Kit
-
-Brendon Sinclair has a unique philosophy that everyone from Freelancers to the huge International Web Design Shops can learn from:
+[Visit AIT](https://web.archive.org/spotlights_dir.asp?site=ait)
 
 * * *
 
-## Hosting Spotlight
+|    | 
+
+## Get Your Diploma!
+
+W3Schools' Online Certification Program is the perfect solution for busy professionals who need to balance work, family, and career building.
+
+The [HTML Certificate](https://web.archive.org/cert/default.asp) is for developers who want to document their knowledge of HTML 4.01, XHTML, and CSS.
+
+The [ASP Certificate](https://web.archive.org/cert/default.asp) is for developers who want to document their knowledge of ASP, SQL, and ADO.  
+  
+---|---|---  
+  
+
+
+* * *
+
+## HTML Utopia: Designing Without Tables Using CSS
+
+| 
+
+Dan Shafer's book is the definitive guide to learning and applying the principles of CSS to your Website.
+
+  * Write faster loading, dramatically smaller pages
+  * Speed up site maintenance by separating the content from the layout
+  * Write Device-independent pages that will work on everything from a PC to an Internet-enabled refrigerator
+  * Write search-engine friendly pages that can actually be understood by search-engine spiders
+  * Write accessible code, which is now a legal requirement in some countries
+
+  
+---|---  
+  
+[ Dowload a Free Sample Now!](http://www.sitepoint.com/launch/3a9053/3/3)
+
+* * *
+
+## Direct FTP - Drag and Drop FTP
+
+[](http://www.coffeecup.com/track.php?id=23) | 
+
+Webmasters love Direct FTP because it is so easy to make changes to a website.
+
+Just drag a file to the Edit window to make the changes, and click save when you are done. Direct FTP saves the changes directly to the website!
+
+Another superb feature is the ability to make a backup ZIP file of a complete website with just one click.
+
+No other FTP client gives you these powerful features and ease of use.
+
+[Read More](http://www.coffeecup.com/track.php?id=23) or [Download for Free](http://www.coffeecup.com/track.php?id=23)  
+  
+---|---  
+  
+
 
 * * *
 
 ## We Help You For Free. You Can Help Us!
 
+  * [Make a small donation](https://web.archive.org/about/about_free.asp)
   * [Tell your newsgroup or mailing list](https://web.archive.org/tellyourgroup.htm)
   * [Link to us from your pages](https://web.archive.org/about/about_linking.asp)
   * [Help us correct errors and broken links](https://web.archive.org/about/about_helpers.asp)
@@ -119,6 +167,6 @@ Does the world know about us? Check out these places:
 
 W3Schools is for training only. We do not warrant the correctness of the content. The risk of using it remains entirely with the user. While using this site, you agree to have read and accepted our [terms of use](https://web.archive.org/about/about_copyright.asp) and [privacy policy](https://web.archive.org/about/about_privacy.asp).
 
-[Copyright 1999-2003](https://web.archive.org/about/about_copyright.asp) by Refsnes Data. All Rights Reserved.
+[Copyright 1999-2004](https://web.archive.org/about/about_copyright.asp) by Refsnes Data. All Rights Reserved.
 
 * * *
