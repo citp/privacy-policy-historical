@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the romantic-lyrics.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202030502id_/http%3A//www.romantic-lyrics.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the romantic-lyrics.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606153827id_/http%3A//www.romantic-lyrics.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Romantic-Lyrics.com, its advertising partners and network affiliates, are committed to protecting the privacy of Internet users. The following statement details our ongoing support for the responsible collection and management of Internet user information. 
 
-**PLEASE NOTE:** This Web site partnered with a reputable company, DoubleClick, to serve the advertisements that you see on the pages of our Web site. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about DoubleClick, cookies, and how to "opt-out", please [**click here**](http://www.doubleclick.net/us/corporate/privacy). 
+**PLEASE NOTE:** Third Party Advertising   
+We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here: <http://www.maxonline.com/privacy_policy/index.php>
 
-Third Party Cookies: In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
+Third Party Cookies   
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. 
 
 **Internet User Information**
 
