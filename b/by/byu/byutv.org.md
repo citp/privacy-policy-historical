@@ -1,30 +1,33 @@
-> *The following text is extracted and transformed from the byutv.org privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202032739id_/http%3A//byutv.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the byutv.org privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604200936id_/http%3A//www.byutv.org/privacy) for the most accurate reproduction.*
 
 # BYU Television | Privacy Policy
 
-|    
+|   
 ---  
+NAVIGATION  
  [About](https://web.archive.org/about/ "Information about BYU Television")  
- [Listings](https://web.archive.org/listings/ "Click to see what's on BYUTV")  
- [Streaming](https://web.archive.org/streaming/ "Watch BYUTV from your computer")  
- [Top Programs](https://web.archive.org/topprograms/ "BYUTV's top ten programs")  
- [Find a Talk](http://byubroadcasting.org/findatalk "Find a Talk in our database")  
- [Devotional Broadcasts](https://web.archive.org/devotionals/ "Devotionals being shown on BYUTV")  
- [Sports](http://byubroadcasting.org/sports/ "Get information about BYU Sports")  
+ [Contact Us](https://web.archive.org/contact/ "Contact BYUTV")  
+ [Program Listings](https://web.archive.org/listings/ "Click to see what's on BYUTV")  
  [Get BYUTV](https://web.archive.org/getbyutv/ "Find out how to get BYUTV")  
- [Contact](https://web.archive.org/contact/ "Contact BYUTV")  
+ [Find a Talk](http://byubroadcasting.org/findatalk "Find a Talk in our database")  
+ [Membership](https://bcssecure.byu.edu/fr/byutvdefault.asp?P=BTV04)  
  [FAQ](https://web.archive.org/faq/ "Frequently Asked Questions about BYUTV")  
-   
+ [Sports](http://byubroadcasting.org/sports/ "Get information about BYU Sports")  
+FEATURED PROGRAMS  
+ [Community Calendar](http://www.byutv.org/community_calendar/)  
+ [Devotional Broadcasts](http://www.byutv.org/devotionals)  
+ [Lectures on Faith](http://byubroadcasting.org/faith)  
+ [Monthly Top Programs](http://www.byutv.org/topprograms/)  
+ADDITIONAL LINKS  
  [BYUBroadcasting.org](http://www.byubroadcasting.org/)  
  [KBYUTV.org](http://www.kbyutv.org/)  
  [KBYUFM.org](http://www.kbyufm.org/)  
  [BYUTV.org](http://www.byutv.org/ "Visit the BYUTV Web Site")  
  [BYURadio.org](http://www.byuradio.org/ "Visit the BYURadio Web Site")  
- [Store](https://bcssecure.byu.edu/store/)  
- [Membership](https://bcssecure.byu.edu/membership/byutvnew.asp)  
+ [BYU Broadcasting Store](https://bcssecure.byu.edu/store/)  
   
 |  |    
-[Print Page ](https://web.archive.org/web/20031202032739id_/http://www.byutv.org/privacy/?print=true) | Send to a Friend    
+[Print Page ](https://web.archive.org/web/20040604200936id_/http://www.byutv.org/privacy/?print=true) | Send to a Friend    
 Privacy Policy   
 
 
