@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fs.fed.us privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210023328id_/http%3A//www.fs.fed.us/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fs.fed.us privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602201641id_/http%3A//www.fs.fed.us/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy for the USDA Forest Service
 
