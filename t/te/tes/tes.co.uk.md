@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tes.co.uk privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602112057id_/http%3A//www.tes.co.uk/site_information/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tes.co.uk privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402014313id_/http%3A//www.tes.co.uk/site_information/privacy_policy.asp) for the most accurate reproduction.*
 
 # Times Educational Supplement - TES
 
@@ -48,7 +48,12 @@ If you do not wish to receive information about our products or services, or the
 |  |   
 |  |  |  |   
 ---|---|---|---  
-|  We will not disclose any information we keep about you to any third parties, except for other companies in the News International group of companies and any suppliers we engage to provide services which involve processing data on our behalf.  |  |   
+|  We will not disclose any information we keep about you to any third parties, except for other companies in the News International group of companies and any suppliers we engage to provide services which involve processing data on our behalf.
+
+**Third Party Privacy Policies**  
+Our website uses ad servers (such as Doubleclick) to serve the advertisments that you see on pages of our website. That partner uses cookies to help target ads to you. To find out more about the use of cookies and the information-gathering practices and opt-out procedures of DoubleClick, please go to <http://www.doubleclick.net/privacy_policy/>
+
+|  |   
 |  |  |   
 |  |   
 | 
