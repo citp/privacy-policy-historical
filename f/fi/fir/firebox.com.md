@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firebox.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604041736id_/http%3A//www.firebox.com/index.html%3Fdir%3Dadmin%26action%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firebox.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606160208id_/http%3A//www.firebox.com/index.html%3Fdir%3Dadmin%26action%3Dprivacy) for the most accurate reproduction.*
 
 # firebox.com - gadgets | games | boys toys - the latest hot stuff
 
@@ -9,7 +9,9 @@ When you place an order we collect your name, e-mail address, mailing address, p
 
 We may use this information to tell you about changes to our website and to let you know about our products and those of other companies we work with. If you do not wish to receive this information, please send us an email at [remove@firebox.com](mailto:remove@firebox.com) at any time. 
 
-We do not sell, trade or rent your personal information to other companies. However, in the future we may wish to share the information we collect about you with trustworthy third parties whose products and services we think may be of interest to you. If you do not want us to do this please send us an email at [privacy@firebox.com](mailto:privacy@firebox.com) at any time. 
+We may share the information we collect about you with trustworthy third parties whose products and services we think may be of interest to you, if you indicate that it is your wish for us to do so when you place an order with us. If you do not want us to do this please send us an email at [privacy@firebox.com](mailto:privacy@firebox.com) at any time. 
+
+If you would NOT like to receive information from third parties then we will not pass on your data to any other third parties but if you are an existing customer we cannot control those who presently have it. However if you join the Mailing Preference Service your name should be removed from responsible direct mail companies lists. An application form can be filled out on-line at [http://www.tpsonline.org.uk/](http://www.tpsonline.org.uk/mpsR/html/Register.asp). 
 
 **What about "cookies"?**  
 "Cookies" are small pieces of information that are stored on your computer's hard drive by your browser. These allow us to store your account information and provide features to make your shopping on our website easier. Most browsers allow the cookie function to be turned off. If you want to know how to do this look at the help menu on your browser. 
