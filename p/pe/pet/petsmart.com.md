@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petsmart.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203044400id_/http%3A//www.petsmart.com/help/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petsmart.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604035932id_/http%3A//www.petsmart.com/inbound%3Fadvert%3Dhp.010117.footprivacy%26redir%3D/help/privacy.shtml) for the most accurate reproduction.*
 
 # PETsMART.com Help & Info
 
