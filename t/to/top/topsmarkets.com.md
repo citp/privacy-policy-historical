@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topsmarkets.com privacy policy that was archived on 2003-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030413065825id_/http%3A//www.topsmarkets.com/About/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topsmarkets.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001160159id_/http%3A//www.topsmarkets.com/About/privacypolicy.html) for the most accurate reproduction.*
 
 # Tops Friendly Markets
 
