@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utpa.edu privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604045215id_/http%3A//www.panam.edu/2000/mainpage.cfm%3Fmainbody%3D/webfiles/privacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utpa.edu privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204101702id_/http%3A//www.panam.edu/2000/mainpage.cfm%3Fmainbody%3D/webfiles/privacynotice) for the most accurate reproduction.*
 
 # UTPA 2000
 
