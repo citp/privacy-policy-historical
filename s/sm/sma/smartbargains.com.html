@@ -568,4 +568,576 @@ COPYRIGHT 1999-2001 COREMETRICS, INC. ALL RIGHTS RESERVED. U.S.PATENT PENDING.--
 <!-- End Footer Nav -->
 
 
-</center></center></body></html>
+</center></center></body></html><html><head>
+		<title>SmartBargains - Privacy/Security</title>
+<script language="javascript" onload="PopUnder();">
+
+// set the date and time that the ba pop under should be displayed.
+// date format Year,Month,Day of the month, hour, Minutes, Seconds, milliseconds
+// months 0-11 hours 0-23
+//	var startdt 	= new Date(2002,04,15,08,00,00,00);
+//	var enddt		= new Date(2002,04,16,23,00,00,00);
+	var showdate	= new Date();
+	var win;
+
+function ClosePopUnder(val)
+{
+	// close pop under and set cookie to not show it again
+	this.close();
+}
+
+function get_cookie()
+{ // gets the value of the cookie name entered
+	return ;
+}
+
+function PopUnder()
+{
+// check if the current date and time falls between the start and end date for the pop under
+// show popunder only if the user has not clicked the No Thanks link
+	var isAOL		= "";
+	var isBAOptIn	= "";
+	var pagechk		= "/privacy.asp";
+	var cs			= "";
+
+	if((get_cookie()!=1) && (isAOL !="aol"))
+	{ 
+		var today	= new Date();
+//		if((startdt.getTime()<today.getTime())&&(enddt.getTime()>today.getTime()))
+//		For Monday 1, Wednesday 3 and Fridays 5
+//		if((showdate.getDay()==1) || (showdate.getDay()==3) || (showdate.getDay()==5))
+//		{
+			var url = "/ba_signup.asp";
+			BAWindow = window.open(url,'SBSignup','width=470,height=340');
+			BAWindow.blur();
+			window.focus();
+//		}
+	}
+	
+	if ((get_cookie()!=1) && (isAOL =="aol") && (isBAOptIn != "1") && (pagechk.indexOf("checkout_confirm.asp")>0))
+	{	
+		var url = "/ba_signup.asp";
+		BAWindow = window.open(url,'SBSignup','width=470,height=340');
+		BAWindow.blur();
+		window.focus();
+	}
+	
+	if((isAOL == "aol")  && (cs != "1") && (pagechk.indexOf("shopping_bag.asp")>0))
+	{	
+		// display cross sell popup for shopping bag page
+		//	var url = "/promo/aol_dotd/aol_cspop.asp"
+		//	win = window.open(url,'Featured_Product','width=485,height=430,resizable=0');
+	}
+}
+
+
+function CloseCrossSell(val)
+{	
+	if ((win) && (win.open) && (!win.closed))
+	{	
+		if(val=="y") {
+			win.close();
+		}
+	}
+}
+
+</script>
+
+
+<script language="javascript">
+<!--//
+	function arPopWin(urlStr,w,h,scrStr) 
+	{
+		thePopup = window.open(urlStr,'SBPopup','width=' + w + ',height=' + h + ',toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=' + scrStr + ',resizable=0');
+	}
+	
+	function SplitName(i)
+	{
+		var searchstring = document.shop_by_brand.kname.options(i).value.split(":")
+		document.shop_by_brand.k.value = searchstring[0];
+		document.shop_by_brand.d.value = searchstring[1];
+		document.shop_by_brand.c.value = searchstring[2];
+		document.shop_by_brand.submit();
+	}
+//-->
+</script>
+
+<link rel="stylesheet" href="/include/sbstyles.css" type="text/css">
+
+</head><body onload="PopUnder();" topmargin="10" leftmargin="10" rightmargin="10" bottommargin="10" marginheight="10" marginwidth="10" bgcolor="#FFFFFF">
+<center>
+
+
+
+	<table width="760" cellspacing="0" cellpadding="0" border="0">
+		<tbody><tr>
+			<td width="1"><img src="/img/spc.gif" width="1" height="1" border="0"></td>
+			<td width="376"><img src="/img/spc.gif" width="376" height="1" border="0"></td>
+			<td width="384"><img src="/img/spc.gif" width="384" height="1" border="0"></td>
+			<td width="50%"><img src="/img/spc.gif" width="1" height="1" border="0"></td>
+		</tr>
+		<tr>
+			<td><img src="/img/spc.gif" width="1" height="1" border="0"></td>
+			<td rowspan="2" valign="bottom"><a href="http://www.smartbargains.com/default.asp"><img src="/img/spc.gif" width="25" height="43" border="0"><img src="/img/Logos/logo.gif" alt="SmartBargains" width="351" height="43" border="0"></a></td>
+			<td align="right"><a href="javascript:arPopWin('/pop_ship_flatrate.asp',565,355,0);"><img height="23" alt="" src="/img/TopNav/bnr_ship.gif" width="360" border="0"></a><br><img height="12" src="/img/spc.gif" width="1" border="0"></td>
+			<td><img src="/img/spc.gif" width="1" height="1" border="0"></td>
+		</tr>
+		<tr>
+			<td><img src="/img/spc.gif" width="1" height="1" border="0"></td>
+			<td valign="bottom" align="right">
+				<table cellspacing="0" cellpadding="0" border="0">
+					<tbody><tr>
+						
+						<td><font class="regfont"><a href="http://www.smartbargains.com/default.asp" class="topnav">Home</a>&nbsp;</font></td>
+						
+						<td bgcolor="#ccccff"><img src="/img/spc.gif" width="1" height="1" border="0"></td>
+						<td><font class="regfont">&nbsp;&nbsp;<a href="http://www.smartbargains.com/shopping_bag.asp" class="topnav">Shopping Cart</a>&nbsp;</font></td>
+						<td bgcolor="#ccccff"><img src="/img/spc.gif" width="1" height="1" border="0"></td>
+						<td><font class="regfont">&nbsp;&nbsp;<a href="http://www.smartbargains.com/questions.asp" class="topnav">Need Help?</a>&nbsp;</font></td>
+						<td bgcolor="#ccccff"><img src="/img/spc.gif" width="1" height="1" border="0"></td>
+						<td><font class="regfont">&nbsp;&nbsp;<a href="http://secure.smartbargains.com/mya_order_history.asp" class="topnav">Order Status</a>&nbsp;</font></td>
+						<td bgcolor="#ccccff"><img src="/img/spc.gif" width="1" height="1" border="0"></td>
+						<td><font class="regfont">&nbsp;&nbsp;<a href="http://secure.smartbargains.com/mya.asp" class="topnav">Your Account</a>&nbsp;</font></td>
+					</tr>
+				</tbody></table>
+			</td>
+			<td><img src="/img/spc.gif" width="1" height="1" border="0"></td>
+		</tr>
+		<tr><td colspan="4" bgcolor="#ccccff"><img src="/img/spc.gif" width="1" height="4" border="0"></td></tr>
+		<tr><td colspan="4" bgcolor="#9999cc"><img src="/img/spc.gif" width="1" height="1" border="0"></td></tr>
+		<tr><td colspan="4" bgcolor="#333399"><img src="/img/spc.gif" width="1" height="1" border="0"></td></tr>
+		<tr><td colspan="4" bgcolor="#000099"><img src="/img/spc.gif" width="1" height="1" border="0"></td></tr>
+		<tr><td colspan="4" bgcolor="#000099">
+			<table width="760" cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr>
+					<td rowspan="2" bgcolor="#000099"><img src="/img/spc.gif" width="1" height="51" border="0"></td>
+					
+					<td rowspan="2">
+						<table width="159" cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr bgcolor="#ccccff">
+							    <td><img src="/img/spc.gif" width="1" height="1" border="0"></td><td><img src="/img/spc.gif" width="106" height="1" border="0"></td><td><img src="/img/spc.gif" width="51" height="1" border="0"></td><td><img src="/img/spc.gif" width="1" height="1" border="0"></td>
+							</tr>
+							<tr>
+								<td rowspan="2" bgcolor="#ccccff"><img src="/img/spc.gif" width="1" height="1" border="0"></td>
+							    <td colspan="2"><a href="http://www.smartbargains.com/shopping_bag.asp"><img src="/img/TopNav/hdr_yourcart.gif" width="157" height="20" border="0"></a></td>
+							    <td rowspan="2" bgcolor="#ccccff"><img src="/img/spc.gif" width="1" height="1" border="0"></td>
+							</tr>
+							<tr>
+							
+								<td height="29" background="/img/TopNav/hdr_cartbkgd2.gif" align="center" colspan="2"><font class="smallfont">No items in cart</font></td>
+							
+							</tr>					
+							<tr><td colspan="4" bgcolor="#ccccff"><img src="/img/spc.gif" width="1" height="1" border="0"></td></tr>
+						</tbody></table>
+					</td>
+					<td rowspan="2" bgcolor="#000099"><img src="/img/spc.gif" width="1" height="1" border="0"></td><td rowspan="2" bgcolor="#3333cc"><img src="/img/spc.gif" width="1" height="1" border="0"></td><td rowspan="2" bgcolor="#333399"><img src="/img/spc.gif" width="1" height="1" border="0"></td>
+					
+						<td bgcolor="#000099" align="center"><a href="http://www.smartbargains.com/new_arrivals.asp"><img src="/img/TopNav/hdr_tab_na_off.gif" alt="New Arrivals" width="149" height="22" border="0"></a><a href="http://www.smartbargains.com/last_chance.asp"><img src="/img/TopNav/hdr_tab_lc_off.gif" alt="Last Chance" width="149" height="22" border="0"></a><a href="http://www.smartbargains.com/bestsellers.asp"><img src="/img/TopNav/hdr_tab_bs_off.gif" alt="Bestsellers" width="149" height="22" border="0"></a><a href="http://www.smartbargains.com/carls_picks.asp"><img src="/img/TopNav/hdr_tab_ceo_off.gif" alt="CEO's Top Picks" width="149" height="22" border="0"></a><br><img src="/img/TopNav/hdr_divider.gif" alt="" width="596" height="2" border="0"></td></tr>
+					
+				<tr>
+					<td bgcolor="#000099" align="center">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<form method="get" action="/search.asp" name="SBSearch"></form>
+								<td><img src="/img/TopNav/hdr_search.gif" width="50" height="12" border="0" alt="Search"></td>
+							    <td><img src="/img/spc.gif" width="5" height="1" border="0"></td>
+							    <td><input type="text" name="k" id="k" size="15" style="width: 120px"></td>
+							    <td><input type="image" src="/img/TopNav/btn_go.gif" alt="Go" border="0" id="image1" name="image1"></td>
+								
+								<td><img src="/img/spc.gif" width="12" height="1" border="0"></td>
+								<td bgcolor="#3333cc"><img src="/img/spc.gif" width="1" height="1" border="0"></td>
+								<td bgcolor="#333399"><img src="/img/spc.gif" width="1" height="1" border="0"></td>
+								<td align="right"><img src="/img/TopNav/hdr_browse.gif" width="57" height="12" border="0" alt="Browse"></td>
+								<form method="get" action="/search.asp" name="shop_by_brand" style="margin-bottom:'0px';"></form>
+							    
+							    <input type="hidden" name="k" id="k" size="15" style="width: 120px">
+							    <input type="hidden" name="d" id="d" size="15" style="width: 120px">
+							    <input type="hidden" name="c" id="c" size="15" style="width: 120px">
+							    
+							    <td><select name="kname" onchange="SplitName(document.shop_by_brand.kname.selectedIndex);">
+								<option value="" selected="">Choose a Brand</option>
+								<option value="Aero:62:0">Aero</option>
+								<option value="Alfi:0:0">Alfi</option>
+								<option value="Tourister:0:0">American Tourister</option>
+								<option value="Fezza:0:0">Andrew Fezza</option>
+								<option value="Klein:9:0">Anne Klein</option>
+								<option value="Anolon:0:0">Anolon</option>
+								<option value="Armani:0:0">Armani</option>
+								<option value="Audiovox:0:0">Audiovox</option>
+								<option value="August Silk:0:0">August Silk</option>
+								<option value="Bissell:0:0">Bissell</option>
+								<option value="Braun:0:0">Braun</option>
+								<option value="Burberry:0:0">Burberry</option>
+								<option value="Calphlon:0:0">Calphlon</option>
+								<option value="Calvin:0:0">Calvin Klein</option>
+								<option value="Canon:0:0">Canon</option>
+								<option value="Casio:2:0">Casio</option>
+								<option value="Celine:0:0">Celine</option>
+								<option value="Chloe:0:0">Chloe</option>
+								<option value="Circulon:0:0">Circulon</option>
+								<option value="Coach:0:0">Coach</option>
+								<option value="Malouf:0:0">Collette Malouf</option>
+								<option value="Cuisinart:0:0">Cuisinart</option>
+								<option value="River:0:0">Dan River</option>
+								<option value="DeLonghi:0:0">DeLonghi</option>
+								<option value="DKNY:0:0">DKNY</option>
+								<option value="Dolce:0:0">Dolce &amp; Gabbana</option>
+								<option value="Elisabeth:0:0">Elisabeth</option>
+								<option value="Tracy:0:0">Ellen Tracy</option>
+								<option value="Emma:0:0">Emma James</option>
+								<option value="Armani:0:0">Emporio Armani</option>
+								<option value="Esposito:0:0">Esposito</option>
+								<option value="Farberware:0:0">Farberware</option>
+								<option value="Fendi:0:0">Fendi</option>
+								<option value="Ferragamo:0:0">Ferragamo</option>
+								<option value="Fieldcrest:0:0">Fieldcrest</option>
+								<option value="Fisher:2:0">Fisher</option>
+								<option value="Foreman:0:0">George Foreman</option>
+								<option value="Giorgio:0:0">Giorgio Armani</option>
+								<option value="Gottex:0:0">Gottex</option>
+								<option value="Gucci:0:0">Gucci</option>
+								<option value="Guess:0:0">Guess</option>
+								<option value="Hamilton:0:0">Hamilton Beach</option>
+								<option value="Hoffritz:0:0">Hoffritz</option>
+								<option value="Packard:0:0">Hewlett Packard</option>
+								<option value="IBM:0:0">IBM</option>
+								<option value="Jansport:0:0">Jansport</option>
+								<option value="Jantzen:0:0">Jantzen</option>
+								<option value="Vaas:9:0">Joan Vaas</option>
+								<option value="Jones:0:0">Jones New York</option>
+								<option value="JVC:0:0">JVC</option>
+								<option value="Kenneth:0:0">Kenneth Cole</option>
+								<option value="Lane:0:0">Kenneth Jay Lane</option>
+								<option value="Krups:0:0">Krups</option>
+								<option value="Ashley:0:0">Laura Ashley</option>
+								<option value="Limoges:0:0">Limoges</option>
+								<option value="Liz Claiborne:0:0">Liz Claiborne</option>
+								<option value="Minolta:0:0">Minolta</option>
+								<option value="Miu:0:0">Miu Miu</option>
+								<option value="Movado:0:0">Movado</option>
+								<option value="Nautica:0:0">Nautica</option>
+								<option value="Nike:0:0">Nike</option>
+								<option value="Olympus:2:0">Olympus</option>
+								<option value="Panasonic:0:0">Panasonic</option>
+								<option value="Harris:0:0">Paul Harris</option>
+								<option value="Perry:0:0">Perry Ellis</option>
+								<option value="Pfaltzgraff:0:0">Pfaltzgraff</option>
+								<option value="Philips:0:0">Philips</option>
+								<option value="Pioneer:0:0">Pioneer</option>
+								<option value="Polaroid:0:0">Polaroid</option>
+								<option value="Polo Ralph Lauren:0:0">Polo Ralph Lauren</option>
+								<option value="Prada:0:0">Prada</option>
+								<option value="RCA:0:0">RCA</option>
+								<option value="Ralph Lauren:0:0">Ralph Lauren</option>
+								<option value="Revman:0:0">Revman</option>
+								<option value="Royal Velvet:0:0">Royal Velvet</option>
+								<option value="Samsonite:0:0">Samsonite</option>
+								<option value="Seiko:0:0">Seiko</option>
+								<option value="Sharp:0:0">Sharp</option>
+								<option value="Siemens:0:0">Siemens</option>
+								<option value="Skagen:0:0">Skagen</option>
+								<option value="Sony:0:0">Sony</option>
+								<option value="Speedo:0:0">Speedo</option>
+								<option value="Surefit:0:0">Surefit</option>
+								<option value="Swiss Army:0:0">Swiss Army</option>
+								<option value="Tahari:0:0">Tahari</option>
+								<option value="Technomarine:0:0">Technomarine</option>
+								<option value="Tracy:0:0">Tracy M</option>
+								<option value="Hilfiger:0:0">Tommy Hilfiger</option>
+								<option value="Toshiba:0:0">Toshiba</option>
+								<option value="TravelPro:0:0">TravelPro</option>
+								<option value="Uniden:0:0">Uniden</option>
+								<option value="Versace:0:0">Versace</option>
+								<option value="Villaware:0:0">VillaWare</option>
+								<option value="Waring:0:0">Waring</option>
+								<option value="Waterford:0:0">Waterford</option>
+								<option value="Zegna:0:0">Zegna</option>
+								</select></td>
+								<td><input type="image" src="/img/TopNav/btn_go.gif" alt="Go" border="0" id="image2" name="image2"></td>
+								
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				<tr bgcolor="#000066">
+					<td width="3"><img src="/img/spc.gif" width="3" height="1" border="0"></td>
+					<td width="157"><img src="/img/spc.gif" width="157" height="1" border="0"></td>
+					<td width="2"><img src="/img/spc.gif" width="2" height="1" border="0"></td>
+					<td width="1"><img src="/img/spc.gif" width="1" height="1" border="0"></td>
+					<td width="1"><img src="/img/spc.gif" width="1" height="1" border="0"></td>
+					<td><img src="/img/spc.gif" width="596" height="1" border="0"></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr><td colspan="4" bgcolor="#000099"><img src="/img/spc.gif" width="1" height="1" border="0"></td></tr>
+	<tr><td colspan="4" bgcolor="#ccccff"><img src="/img/spc.gif" width="1" height="3" border="0"></td></tr>
+	<tr><td colspan="4" bgcolor="#9999ff"><img src="/img/spc.gif" width="1" height="1" border="0"></td></tr>
+</tbody></table><table width="760" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+	<td><img src="/images/spacer.gif" width="160" height="1" border="0" alt=""></td>
+	<td bgcolor="#ccccff"><img src="/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+	<td><img src="/images/spacer.gif" width="5" height="1" border="0" alt=""></td>
+	<td><img src="/images/spacer.gif" width="595" height="8" border="0" alt=""></td>
+</tr>
+<tr>
+	<!-- Begin Col 1 -->
+	<td valign="top">
+    
+    
+    
+<!-- Begin Left Nav -->
+<table width="163" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr><td width="16"><img src="/img/spc.gif" width="16" height="1"></td><td width="147"><font class="bluesubhead" style="letter-spacing:-1px;">Today's Bargains</font><br></td></tr>
+<!-- Begin Departments -->
+ <tr><td><img src="/img/spc.gif" width="16" height="1"></td><td><a href="/dept.asp?deptId=11" class="lnav">                           Accessories</a></td></tr> <tr><td><img src="/img/spc.gif" width="16" height="1"></td><td><a href="/dept.asp?deptId=10" class="lnav">                          Apparel - Men's</a></td></tr> <tr><td><img src="/img/spc.gif" width="16" height="1"></td><td><a href="/dept.asp?deptId=9" class="lnav">                         Apparel - Women's</a></td></tr> <tr><td><img src="/img/spc.gif" width="16" height="1"></td><td><a href="/dept.asp?deptId=3" class="lnav">                        Bed &amp; Bath</a></td></tr> <tr><td><img src="/img/spc.gif" width="16" height="1"></td><td><a href="/dept.asp?deptId=2" class="lnav">                       Electronics</a></td></tr> <tr><td><img src="/img/spc.gif" width="16" height="1"></td><td><a href="/dept.asp?deptId=62" class="lnav">                      Home Decor</a></td></tr> <tr><td><img src="/img/spc.gif" width="16" height="1"></td><td><a href="/dept.asp?deptId=6" class="lnav">                      Jewelry &amp; Watches</a></td></tr> <tr><td><img src="/img/spc.gif" width="16" height="1"></td><td><a href="/dept.asp?deptId=12" class="lnav">                      Kids</a></td></tr> <tr><td><img src="/img/spc.gif" width="16" height="1"></td><td><a href="/dept.asp?deptId=54" class="lnav">                     Kitchen &amp; Dining</a></td></tr> <tr><td><img src="/img/spc.gif" width="16" height="1"></td><td><a href="/dept.asp?deptId=14" class="lnav">                    Luggage</a></td></tr> <tr><td><img src="/img/spc.gif" width="16" height="1"></td><td><a href="/dept.asp?deptId=7" class="lnav">   Recent Markdowns</a></td></tr>
+<!-- End Departments -->
+
+
+<tr><td></td>
+<td>
+<!-- Begin Featured Stores -->
+
+<!-- End Featured Stores -->
+</td>
+</tr>
+<tr>
+<!-- Begin Bargain Alert -->
+<td align="right" colspan="2"><img src="/img/spc.gif" width="1" height="20"><br><a href="https://secure.smartbargains.com/subscriber_new.asp"><img src="/img/LeftNav/ln_ba.gif" width="163" height="57" border="0"></a><br><img src="/img/spc.gif" width="1" height="20"></td>
+<!-- End Bargain Alert  -->
+</tr>
+
+</tbody></table>
+</td><td bgcolor="#ccccff"><img src="/img/spc.gif" height="1" widhth="1"></td>
+
+	
+	<!-- End Col 1 -->
+    <td><img src="images/spacer.gif" width="5" height="1" border="0" alt=""></td>
+	<!-- Begin Col 2 -->
+    <td valign="top">
+	<table width="595" cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr>
+	    <td><img src="images/spacer.gif" width="13" height="1" border="0" alt=""></td>
+	    <td><img src="images/spacer.gif" width="569" height="1" border="0" alt=""></td>
+	    <td><img src="images/spacer.gif" width="13" height="1" border="0" alt=""></td>
+	</tr>
+	<tr>
+	    <td><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+	    <td><font class="bluehead">Smart Policies About Privacy And Security </font></td>
+	    <td><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+	</tr>
+	<tr>
+	    <td><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+	    <td valign="top"><br><font class="regfont">At SmartBargains, we want you to have the best shopping experience possible. And while it is necessary for us to collect certain personal information, we respect and protect your right to privacy. The following policy is designed to answer any questions and concerns you may have regarding your privacy and the security of your information. If you have any additional questions or concerns, please contact us at <a href="mailto:CustomerService@SmartBargains.com">CustomerService@SmartBargains.com</a>.<br><br>
+
+		<font class="bluesubhead">What Information Do We Collect and How?</font><br><br>
+
+		<font class="regbold">Registration Information</font><br>
+		SmartBargains keeps track of information in order to give you a more enjoyable, convenient shopping experience. When you register (log in), you will be asked for your email address and a password so that we can  provide you access to your account in the future. Before completing your first purchase, we will ask for you for your name, phone number, email, billing and shipping addresses. This information, along with your credit card number, is necessary to fulfill your order. Logging in does NOT obligate you in any way to SmartBargains. In addition, we will keep track of past purchases you have made to provide you with a personalized profile of your shopping history. In addition, we may also ask you for information regarding your and your family's shopping preferences and demographics in order for us to better fill your needs. However, all information not necessary to fulfill your order is optional.<br><br>
+
+		<i>Note</i>: It is not necessary to provide us with information to view our site.<br><br>
+
+		<font class="regbold">Non-Edible Cookies</font><br>
+		In revolutionizing the way you shop, SmartBargains uses new technologies to better serve our customer. This includes using "cookies" so you can best experience our site. Cookies are bits of electronic information placed over the internet onto your computer. A cookie assigns a unique tracking number to each computer accessing our site, which enables us to recognize and keep track of each user. Through cookies we can customize our site to your individual preferences in order to create a more personalized, convenient shopping experience. Cookies let us know that you are a prior customer, so that we may tailor information for you and provide certain features you might enjoy. However, we do not store personal information about you or your finances using cookies. Cookies are standard on the internet and utilized by most websites whether you are aware of it or not. However, if you wish, most browsers can be set to prevent cookies or to notify you when one is being placed. Although cookies are not necessary to view our site, SmartBargains recommends their use for the best experience possible.<br><br>
+
+		<font class="regbold">Data collection and reporting service.</font><br>
+		We contract with Coremetrics, a service partner, to provide us with a data collection and reporting service. As a result of your accessing our site, Coremetrics may use cookies on our behalf and may receive information about your browsing and buying activity on this web site. Coremetrics is contractually restricted from using this information in any manner, other than to help us provide you with the products and services available on our site. As a visitor to, or a customer of, this site, you can deactivate Coremetrics' ability to analyze your web browsing and purchasing behavior. You also have the option to continue to benefit from the improved shopping experience enabled by this service, but maintain anonymity. For further information, including how to opt out, consult Coremetrics' privacy policies at: <a href="http://www.coremetrics.com/consumer_opt_out/opt_main.html" target="newWindow">http://www.coremetrics.com/consumer_opt_out/opt_main.html</a><br><br>
+
+		<font class="regbold">Server Logs</font><br>
+		In an effort to make our site as effective and enjoyable as possible, the computers that operate the site will collect certain information each time you visit the site and store these statistics in server logs. These statistics do not identify you personally, but will give us information regarding the type of user who is accessing the site and certain browsing activities of that user. Information collected in this way includes the IP address of the user accessing our site (i.e. the unique I.D. number of the user's computer), the type of browser (Internet Explorer, Netscape, etc.) and operating system (system software) used to access our site, the website the user last visited before linking to our site, how long the user accessed our site in any given session, and the date and time of access. We may make extensive use of these non-personally identifiable aggregated data in order to understand how our site is being used and will share them with advertisers, sponsors, investors, strategic partners, and others in order to develop, promote, and expand our business.<br><br>
+
+		<font class="regbold">Children's Privacy and Parental Controls</font><br>
+		Our site is intended for use by general audiences that are 13 years of age and older. If you are not 13 or older, please do not use our site. Parents should be aware that there are parental control tools available online that you can use to prevent your children from submitting information online without parental permission or from accessing material that is harmful to minors.<br><br>
+
+		<font class="bluesubhead">Special Services We Offer</font><br><br>
+
+		<font class="regbold">Electronic Newsletters, Updates &amp; Reminders</font><br>
+		You never know what you are going to find at SmartBargains. But we do offer an email newsletter in order to give you a heads-up, if you request it. The Bargain Alert newsletter tells customers about upcoming specials, promotions, events and other newsworthy information about the SmartBargains site. Emails are sent only to customers who have chosen to receive them (opted in). At any time, you may stop receiving The Bargain Alert (<a href="/login_inc.asp?target=/subscription_edit.asp?msg=check">opt out</a>) if you desire.<br><br>
+
+		<font class="regbold">Contests and Sweepstakes</font><br>
+		For your enjoyment, SmartBargains occasionally runs contests and sweepstakes. They are completely voluntary and in order to participate we may request certain personal information. The full rules and all information about such contests are clearly posted during the event, including how the information gathered will be used.<br><br>
+
+		<font class="bluesubhead">How You Can Access and Edit Your Registration Information or Remove Yourself From Our Newsletters, Updates &amp; Reminders Lists</font><br><br>
+
+		You are able to review and edit your registration information from our site at any time. If you have already registered with us, <a href="/mya.asp">click here</a> to access your information. Our mailing lists and email notification are available on an opt-in basis. If you would like to opt out of all email communication, click here.<br><br>
+
+		<font class="bluesubhead">With Whom Do We Share Your Information?</font><br><br>
+
+		<font class="regbold">Gordon Brothers</font><br><br>
+		Gordon Brothers Group founded SmartBargains and is our strategic partner and investor. Gordon Brothers is in the business of liquidating retail merchandise. The information that you choose to provide for contacting you (such as your email address, zip code or street address, and your notification preferences) will be shared with Gordon Brothers, who will only use it in accordance with this Privacy Policy. Thus, if you choose to receive electronic newsletters, updates, and reminders from SmartBargains, you also may receive information of interest from Gordon Brothers (for example, notices of close-out and liquidation sales taking place in your area). Opting out of receiving such communications from SmartBargains will also remove you from Gordon Brothers' mailing list.<br><br>
+
+		<font class="regbold">Service Providers</font><br>
+		SmartBargains may use various outside agencies (third party service providers) to make our website operate as smoothly as possible. For example, we may use third parties to host our website, operate various features made available on our website, and assist in fulfilling your orders. Some of these third parties may need access to your information in order to make the services provided through our website work. Information will only be disclosed to these service providers on a need to know basis, and they will only be permitted to use such information for the purpose of providing the particular services provided by such entities in connection with our website.<br><br>
+		
+		We may use third-party advertising companies to serve ads on our site.  These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness.  Any information that these third parties collect via cookies and action tags is completely anonymous.  If you would like more information about this practice and your choices, <a href="http://www.networkadvertising.org/optout_nonppii.asp" target="_blank">click here</a>.<br><br>
+
+
+		<font class="regbold">Strategic Alliances</font><br>
+		From time to time, SmartBargains may enter into strategic alliances to enhance and expand the scope of the services we are able to provide. Some of these strategic alliances may involve operating co-branded websites with a strategic partner. When you see websites co-branded with SmartBargains (meaning it would have both the SmartBargains logo and the logo or trademarks of another company), you should be aware that these sites' privacy policies might vary from ours.  Please consult the privacy policy of the website you are visiting.<br><br>
+
+		<font class="regbold">What if SmartBargains Sells Some or All of its Business or Assets?</font><br><br>
+		In the event of any stock sale, asset sale, merger, or other change in control of SmartBargains' business, if the acquiring entity continues to operate a similar business to that operated by SmartBargains, the new operator will obtain the user information maintained by SmartBargains subject to our Privacy Policy. In the event that the acquiring party will not operate a similar business, or in the event SmartBargains seeks to sell its user information to a business that is different in nature, SmartBargains will notify its users by e-mail and give them an opportunity to opt out of any user information provided to the acquiring entity.<br><br>
+
+		<font class="regbold">Is There Any Other Way That User Information Might Be Disclosed?</font><br>
+		SmartBargains may disclose information in order to comply with a subpoena, court order, administrative or governmental order, or any other requirement of law, or when SmartBargains, in its sole discretion, deems it necessary in order to protect the safety of any person or the public. Other than as described in this Privacy Policy, we will not share or disclose your information to anyone.<br><br>
+
+		<font class="bluesubhead">How We Protect Your Information</font><br><br>
+
+		SmartBargains is committed to protecting the information we receive from you. Our site encrypts your credit card number and other personal information using secure socket layer (SSL) technology to provide for the secure transmission of the information from your PC to our servers. In addition, only those employees who need access to your information in order to perform their duties are allowed such access. Any employee who violates our privacy and/or security policies may be subject to disciplinary action, including possible termination and civil and/or criminal prosecution.<br><br>
+
+		<font class="bluesubhead">Secure Shopping at SmartBargains</font><br><br>
+
+		At SmartBargains, you can shop with confidence. We use SSL and Verisign encryption technology, digital certificates, secure commerce servers, and authentication to ensure that your personal information is secure online.<br><br>
+
+		To further reinforce the security of your online transactions, we offer consumers the SmartBargains Security Guarantee. If you have a credit card that is used primarily for personal, family, or household uses, and if that credit card number is stolen online while you are using SmartBargains, and unauthorized charges are made to that credit card, SmartBargains will reimburse you for the amount of unauthorized charges not covered by your credit card issuer.  If you have a debit or cash machine card that is used primarily for personal, family, or household uses, and if that debit or cash machine card number is stolen online while you are using SmartBargains, and unauthorized charges are made to that debit or cash machine card, SmartBargains will reimburse you for the amount of unauthorized charges not covered by your card issuer, provided, however, that upon learning of the theft or unauthorized charges you promptly notify the card issuer of the theft or unauthorized charges.*<br><br>
+
+		<i>With a guarantee like ours, you can feel free to take full advantage of everything that SmartBargains has to offer!</i><br><br>
+
+		To notify us of unauthorized use and for information on how to receive reimbursement, call us toll free at 1-866-MY-BARGAINS (866-692-2742).  Our customer service department is here to serve you, seven days a week, between 8am and midnight Eastern Time.<br><br>
+
+		*NOTICE TO CONSUMERS REGARDING YOUR LIABILITY FOR UNAUTHORIZED USE OF A CREDIT, DEBIT OR ATM CARD:  You may be liable for unauthorized use of a credit card or unauthorized transfers from your bank accounts through unauthorized use of debit or automatic teller machine ("ATM") cards.  In the case of credit cards, your liability is generally limited to $50 or, if less, the value of money, goods or services obtained before you notify the card issuer of the loss, theft or unauthorized use of your card.  In the case of debit or ATM cards, if you notify the card issuer within two business days your liability is generally limited to $50 or, if less, the amount of unauthorized transfers that occur before you give notice.  If you do not notify the card issuer within two business days, your liability is generally limited to $500 or, if less, the amount of unauthorized transfers that occur more than two business days after the loss, theft or unauthorized use of your card that could have been avoided if you had given notice to the card issuer.  You may be liable for greater amounts if you do not report unauthorized transfers within 60 days after receiving a periodic statement showing those transfers.<br><br>
+
+		<font class="regbold">Typos and Omissions</font><br>
+		While SmartBargains tries very hard to ensure the accuracy of the information we provide, we are not responsible for vendor availability, typographical errors, technical inaccuracies, product pricing errors or omissions. SmartBargains has the right to cancel any orders placed for any product listed at an incorrect price or shown with incorrect information, whether due to typographical error or otherwise and whether or not your order was accepted or your credit card charged. Upon any such cancellation, if your credit card has already been charged for the purchase, SmartBargains will promptly issue a full credit to your account.<br><br>
+
+		<font class="regbold">Changes in Policy</font><br>
+		You acknowledge that this Privacy Policy is part of the terms of service and you agree that using this site signifies your assent to SmartBargains' Privacy Policy. If you do not agree with this Privacy Policy, please do not use our site. SmartBargains reserves the right to change the terms of service, including this Privacy Policy, at any time. We will post any changes so that you are always aware of our policy. In addition, if we change our Privacy Policy, we will notify you by e-mail to the e-mail address you provided us in your registration.<br><br>
+
+		<i>Please note</i>: This Privacy Policy covers our website (www.smartbargains.com), as well as our activities on the co-branded websites (joint websites containing our logo along with another company's) where this Policy is posted. Please check the privacy policy of the website you are visiting since activities of SmartBargains in connection with other co-branded websites may be subject to different privacy policies.<br><br></font></td>
+	    <td><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+	</tr>
+	</tbody></table>
+	</td></tr></tbody></table>
+	<!-- End Col 2 -->
+
+
+<!-- Begin Footer Nav -->
+ 
+<table width=" 760 " cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td colspan="3" bgcolor="#9999ff"><img src="/img/spc.gif" width="1" height="1"></td></tr><tr><td><img src="/img/spc.gif" width="1" height="1"></td><td align="center"><br><font class="regblue"><a href="http://www.smartbargains.com/default.asp" class="small">Homepage</a> | <a href="http://www.smartbargains.com/dept.asp?deptId=11" class="small">Accessories</a> | <a href="http://www.smartbargains.com/dept.asp?deptId=10" class="small">Apparel - Men's</a> | <a href="http://www.smartbargains.com/dept.asp?deptId=9" class="small">Apparel - Women's</a> | <a href="http://www.smartbargains.com/dept.asp?deptId=3" class="small">Bed &amp; Bath</a> | <a href="http://www.smartbargains.com/dept.asp?deptId=2" class="small">Electronics</a> | <a href="http://www.smartbargains.com/dept.asp?deptId=62" class="small">Home Decor</a><br>
+	<a href="http://www.smartbargains.com/dept.asp?deptId=6" class="small">Jewelry &amp; Watches</a> | <a href="http://www.smartbargains.com/dept.asp?deptId=12" class="small">Kids</a> | <a href="http://www.smartbargains.com/dept.asp?deptId=54" class="small">Kitchen &amp; Dining</a> | <a href="http://www.smartbargains.com/dept.asp?deptId=14" class="small">Luggage</a> | <a href="http://www.smartbargains.com/dept.asp?deptId=7" class="small">Recent Markdowns</a> <br><br>
+	<a href="http://www.smartbargains.com/privacy.asp" class="small">SmartBargains Privacy &amp; Security Policy</a><br><br></font></td>
+	<td><img src="/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+</tr>
+<tr>
+	<td width="90"><a href="http://www.bbbonline.org/cks.asp?id=1020321105222429" target="_blank"><img src="/images/footer_BBBPrivacySeal.gif" alt="BBBOnLine Reliability Seal" width="90" height="31" border="0"></a></td>
+	<td align="center" width="580"><a href="https://digitalid.verisign.com/as2/5b4271847bb6cde67184ea5c940a01ea" target="_blank"><img src="/images/footer_Verisign_logo.gif" border="0" width="100" height="42"></a></td>
+	<td align="right" width="90"><a href="http://www.bizrate.com/merchant/reports/index.xpml?mid=27390" target="_blank"><img src="/images/footer_BizRateMedal.gif" alt="BizRate Customer Certified (GOLD) Site" width="90" height="40" align="top" border="0" target="_blank"></a></td>
+</tr>
+<tr>
+	<td colspan="3" align="center"><br><font class="smallblue">© <a href="http://www.smartbargains.com/copyright_text.asp" class="small">2000-2002</a>.  SmartBargains, Inc.  All Rights Reserved.<br>SMARTBARGAINS, THE BARGAIN ALERT, SMARTBARGAINS &amp; Design, and all other design elements<br>contained herein are trademarks of SmartBargains, Inc.</font></td>
+</tr>
+</tbody></table>
+<!-- End Footer Nav -->
+
+
+
+<!--Data Collection JavaScript v.2.5, 06/26/2001
+COPYRIGHT 1999-2001 COREMETRICS, INC. ALL RIGHTS RESERVED. U.S.PATENT PENDING.-->
+<script language="Javascript1.1">
+/* COPYRIGHT (C) 1999-2001 Coremetrics, Inc. All Rights Reserved. 
+   Version 2.5, 06/26/2001 */
+   
+// 11/28/01 LC - Custom code for SmartBargains
+var cm_ClientID="30000122";
+cm_Host="data.coremetrics.com/eluminate?";
+var cm_url=window.location.href;
+if ( (cm_url.indexOf("-www.") > 0) || (cm_url.indexOf("-secure.") > 0) || (cm_url.indexOf("-checkout.") > 0) ) {
+	cm_Host="test.coremetrics.com/eluminate?";
+} else if ( cm_url.indexOf("loadtest=yes") > 0 ) { cm_ClientID="99999999"; }
+var cm_Display="";
+// End custom code for SmartBargains
+
+function CM_BuildTag(tID,pc,fullReq,writeDisp){
+var d=document,n=navigator;
+if(!(cm_Display.indexOf("rf=")+1)){
+rf=document.referrer;
+if((n.appName=="Microsoft Internet Explorer")&&(parseFloat(n.appVersion)<4))
+rf="unavailable";
+else if(rf=="undefined")
+rf="";
+CM_Param("rf",rf);}
+if(!(cm_Display.indexOf("ul=")+1)){
+CM_Param("ul",location.href);}
+cm_Display="pt="+tID+"&ci="+cm_ClientID+"&vn1=e2.5"+cm_Display;
+ts=CM_Cookie("TestSess");
+if(ts!="Yes"){
+document.cookie="TestSess=Yes";
+ts=CM_Cookie("TestSess");}
+tp=CM_Cookie("TestPerm");
+ed=new Date();
+if(tp!="Yes"){
+ed.setHours(ed.getHours()+1);
+d.cookie="TestPerm=Yes;expires="+ed.toGMTString()+";path=/;"
+tp=CM_Cookie("TestPerm");}
+if(pc)
+cm_Display+="&pc=Yes";
+cm_Display+="&ts="+ts+"&tp="+tp;
+CM_Param("rnd",ed.getTime()%10000000);
+pl=location.protocol;
+if(tID=="R"||tID=="O"||tID=="N"||tID=="V")
+pl="https:";
+if((pl!="http:")&(pl!="https:"))
+pl="http:";
+cm_Display=pl+"//"+cm_Host+CM_Encode(cm_Display);
+if(fullReq){
+cm_Display="<img width=\"1\" height=\"1\" src=\""+cm_Display+"\">";
+if(writeDisp){
+d.write(cm_Display);}}
+return cm_Display;}
+
+function CM_NewTag(){cm_Display = "";}
+function CM_Param(v1,v2){cm_Display+="&"+v1+"="+CM_Encode(v2);}
+function CM_Param2(v1,v2,v3){cm_Display+="&"+v1+"="+CM_Encode(v3)+"&"+v2+"="+CM_Encode(v3);}
+
+function CM_Trim(s1){
+var i=0,j=0;
+while((s1.charAt(i)==" ")&&(i!=s1.length))
+i++;
+j=s1.length-1;
+while((s1.charAt(j)==" ")&&(j!=0))
+j--;
+return s1.substring(i,j+1);}
+
+function CM_Encode(s1){
+var t;
+s1=""+s1;
+s1=CM_Trim(s1);
+s1=escape(s1);
+s1=(s1.split("+")).join("%2B");
+return s1;}
+
+function CM_Cookie(n1){
+var arg=n1+"=";
+var alen=arg.length;
+var clen=document.cookie.length;
+var i=0;
+while(i<clen){
+var j=i+alen;
+if(document.cookie.substring(i,j)==arg){
+var es=document.cookie.indexOf(";",j);
+if(es==-1)
+es=document.cookie.length;
+return unescape(document.cookie.substring(j,es));}
+i=document.cookie.indexOf(" ",i)+1;
+if(!i)
+break;}
+return null;}
+</script>
+	<script language="Javascript1.1">
+	<!--
+	CM_NewTag();
+	if ("" != "") {
+		CM_Param("rf", "");
+	}
+	
+    
+	
+	CM_Param2("pn","pi","privacy.asp");
+	CM_Param("se", "");
+	imgReq = CM_BuildTag("C",1,1,1);
+	//-->
+	</script><img width="1" height="1" src="https://data.coremetrics.com/eluminate?pt%3DC%26ci%3D30000122%26vn1%3De2.5%26pn%3Dprivacy.asp%26pi%3Dprivacy.asp%26se%3D%26rf%3D%26ul%3Dhttps%253A//web.archive.org/web/20020802161640id_/http%25253A//www.smartbargains.com/privacy.asp%26pc%3DYes%26ts%3DYes%26tp%3DYes%26rnd%3D1680899">
+<!--End Data Collection-->
+</center></body></html>
