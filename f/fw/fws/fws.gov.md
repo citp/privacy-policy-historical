@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fws.gov privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602213443id_/http%3A//www.fws.gov/help/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fws.gov privacy policy that was archived on 2003-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031217200848id_/http%3A//www.fws.gov/help/policies.html) for the most accurate reproduction.*
 
 # Privacy, Disclaimer, Copyrights and Logo Use
 
@@ -28,8 +28,15 @@ Visit the Department's [**Talk to Us**](http://www.doi.gov/footer/question.htm) 
 **Security Checks**   
 For web site security purposes and to ensure that this service remains available to all users, we employ software programs to monitor network traffic, identify unauthorized attempts to upload or change information, or otherwise cause damage. Unauthorized attempts to upload or change information on this web site are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
 
+**Cookies**  
+When you visit some websites, their webservers generate pieces of information known as cookies. Some cookies collect personal information to recognize your computer in the future. This is not the case at www.fws.gov, where we only use non-persistent cookies or "per-session cookies." These cookies do not collect personal information on users and they are erased as soon as you leave our website.  
+
+
+Per-session cookies serve technical purposes like providing seamless navigation through www.fws.gov. These cookies do not permanently record data and they are not stored on your computer's hard drive. www.fws.gov cookies are stored in memory and are only available during an active browser session. Again, once you close your browser, the cookie disappears.  
+
+
 For Kids!  
-Please don't send us e-mail ** _, Especially if you are under 13_**. Instead, have an adult send the message. Have your parents, teachers and school librarian contact us if you need further assistance. They may send e-mail to **[Contact@fws.gov](mailto:Contact@fws.gov)**
+Please don't send us e-mail ** _, Especially if you are under 13_**. Instead, have an adult send the message. Have your parents, teachers and school librarian **[contact us](http://www.pueblo.gsa.gov/fws/contactus.htm)** if you need further assistance. 
 
 For more information: Check out the Federal Trade Commission's **[KIDZ Privacy](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/kidz.htm)** Web Site.
 
@@ -54,7 +61,7 @@ We will link to external sites that help us perform our mission - "working with 
 Please note: 
 
   1. you are welcome to make a link to any of the Web pages the Service has published on the Internet. **_There is no need to request permission._**
-  2. not all the information on our site is in the public domain. Some images/graphics are licensed for use under the [copyright law](http://lcweb.loc.gov/copyright/), and the **_use of the Service logo is restricted_** to official publications (see below). 
+  2. not all the information on our site is in the public domain. Some images/graphics are licensed for use under the **[copyright law](http://lcweb.loc.gov/copyright/)** , and the **_use of the Service logo is restricted_** to official publications (see below). 
 
 We will identify material we use from sources outside the Service, and request others do the same when using information published by the Service. Credit can be provided by including on the page (or via a link to a credits page) a citation such as:  
 
@@ -79,7 +86,7 @@ There are also restrictions on the use of the images of the [Federal Duck Stamps
 
 * * *
 
-Comments? Questions? Please check our answers to [Frequently Asked Questions](http://faq.fws.gov/) (FAQ's) before you [contact us](mailto:contact@fws.gov) at contact@fws.gov 
+Comments? Questions? Please check our answers to [Frequently Asked Questions](http://faq.fws.gov/) (FAQ's) before you [contact us](http://www.pueblo.gsa.gov/fws/contactus.htm)
 
 * * *
 
