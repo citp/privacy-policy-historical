@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babyage.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604092523id_/http%3A//www.babyage.com/privacy.asp%3Frequestloginid%3D%26requestmemberid%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyage.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202032456id_/http%3A//babyage.com/privacy.asp%3Frequestloginid%3D%26requestmemberid%3D) for the most accurate reproduction.*
 
 # Privacy page at BabyAge.com
 
