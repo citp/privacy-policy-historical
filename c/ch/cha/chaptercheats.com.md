@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chaptercheats.com privacy policy that was archived on 2001-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010614015121id_/http%3A//www.chaptercheats.com/intro/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chaptercheats.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214143424id_/http%3A//www.chaptercheats.com/intro/privacy.htm) for the most accurate reproduction.*
 
 # Untitled Document
 
