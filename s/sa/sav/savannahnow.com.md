@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savannahnow.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202020622id_/http%3A//www.savannahnow.com/copyNOW.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savannahnow.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603070452id_/http%3A//www.savannahnow.com/copyNOW.shtml) for the most accurate reproduction.*
 
 # SavannahNOW | Copyright Notice
 
