@@ -1,26 +1,17 @@
-> *The following text is extracted and transformed from the ymlp.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206040939id_/http%3A//www.ymlp.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ymlp.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605095811id_/http%3A//www.ymlp.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Your Mailinglist Provider
+# Your Mailinglist Provider - Professional yet easy-to-use mailing list hosting
 
-**Privacy Policy**
+**YourMailingListProvider is committed to respecting the privacy of its customers and the privacy of their e-zine subscribers. To this end, the following policy has been established:**
 
-**What information do we collect from our customers?  
-**   
-YourMailinglistProvider collects certain information from it's members when they sign up (like name, email address, website url, subject of the website). This information will only be used for demographic purposes (who is using YMLP? what kind of sites? etc). This information will never be shown or passed to any third party.  
-Members always have access to this information, along with the ability to change it at any time. Members can always choose to delete their account.  
-The activities of members in the control panel are registered to detect possible abuses.
+YourMailingProvider will not share, sell, rent or otherwise disclose the personal information (name, postal address, e-mail address) of the customers without their advance permission, unless otherwise ordered by a court of law. All personal information collected is used solely to contact the customers in regard to their use of this service. 
 
-**What happens to the emailaddresses collected via our site?**
+In the event of a sale, merger, liquidation, dissolution, reorganization or acquisition of YourMailingListProvider, customer information may be transferred together with its business operations. 
 
-These addresses are stored on our database server.  You can download the entire list at any moment.  
-The email adresses are not sold or passed to any third party.  No unsollicited advertisements are sent neither.  
-The owner of the account is the only person that has access to his list: people subscribed to a mailing list can't retrieve information about other people on the same list. 
+Information gathered from control panel usage is logged solely to determine customers' needs related to the YourMailingListProvider service and web design. 
 
-**What do we use cookies for?**
+YourMailingListProvider is not an e-mail list rental service and does not share, rent, sell or otherwise disclose any e-mail addresses or other information that the customers provide or collect regarding their e-zine subscribers. Customers retain complete ownership and control of their subscription lists at all times. 
 
-Cookies are used in the online control panel to authenticate users. We use these cookies only to store your session information, and they can be deleted at any point by clicking the "log out" button. These cookies are only used so that our system knows what your username is, and do not contain any personal information about you. 
+YourMailingListProvider has security measures in place to protect the loss, misuse and alteration of the information under its control. This includes personal information as well as subscription lists. 
 
-**What is our position on unsolicited email (spam)?**
-
-YourMailinglistProvider has a strict anti-spam policy.   
-For more information about this, take a look at our [anti spam policy](https://web.archive.org/web/20031206040939id_/http%3A//www.ymlp.com/antispam.html).
+Credit card payments are handled securely through [PayPal](http://www.paypal.com/). YourMailingListProvider does not have access to the credit card information of its customers. 
