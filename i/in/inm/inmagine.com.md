@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the inmagine.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205030057id_/http%3A//inmagine.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inmagine.com privacy policy that was archived on 2004-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040404181110id_/http%3A//www.inmagine.com/privacy.php) for the most accurate reproduction.*
 
-# Inmagine Royalty Free Photos / Stock Photography
+# Royalty Free Stock Photos / Stock Photography at Inmagine
 
 **Privacy Policy**
 
-**Inmagine™** respects every user's privacy. When you register with Inmagine™, we ask for your name, company, email address, birth date, gender, zip code, occupation, industry, and personal interests. Once you register with **Inmagine™** and sign in to our services, you are not anonymous to us. Inmagine™ uses the information provided to enhance your surfing experience such as lightbox and to contact you about specials and new product. The information we collect may be shared (with your consent upon registration) with our subsidiaries, agents, third party content providers, affiliates, and selected other entities for similar purposes. 
+**Inmagine™** respects every user's privacy. When you register with **Inmagine™** , we ask for your name, company, email address, birth date, gender, zip code, occupation, industry, and personal interests. Once you register with **Inmagine™** and sign in to our services, you are not anonymous to us. **Inmagine™** uses the information provided to enhance your surfing experience such as lightbox and to contact you about specials and new product. The information we collect may be shared (with your consent upon registration) with our subsidiaries for similar purposes.
 
 By using this website, you understand that all information collected from your registration will be collected indefinitely; and may be stored and used in jurisdictions whose privacy laws may be different and less protective than those of your home jurisdiction. **Inmagine™** may use the information collected for a variety of purposes including direct marketing via email and snail mail (unless you select not to receive such information when registering). Inmagine™ may disclose such information to affiliates, subsidiaries, third party and payment processor whose privacy policies and practices may be different from those of Inmagine™, which we assumes no responsibility. We do not intend to collect any information from any person under the age of 18. 
 
