@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bmc.com privacy policy that was archived on 2003-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030609013209id_/http%3A//www.bmc.com/legal/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bmc.com privacy policy that was archived on 2003-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031202023027id_/http%3A//www.bmc.com/legal/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 	<title>BMC Software - B2B solutions for ebusiness systems management</title>
@@ -243,7 +243,18 @@ Copyright 2002 Omniture, Inc. More info available at
 http://www.omniture.com --><script language="JavaScript"><!--
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
-var s_pageName=""
+/*
+  BMC Customization - Done by Rajith Raghu - 06-Aug-2003
+  Changed s_pageName definition
+  Added BMC_Account for Omniture. bmc_area value is 
+  set from footer-including page
+*/
+var bmc_mxacct ="bmc,bmcunitedstates";
+if(typeof  bmc_area =="undefined") var  bmc_area =""; 
+bmc_mxacct = bmc_mxacct  + bmc_area;
+
+//var s_pageName=""
+if (typeof s_pageName=="undefined") var s_pageName=""
 var s_server=""
 var s_channel=""
 var s_pageType=""
@@ -270,18 +281,23 @@ var s_code=' '//--></script>
 <script src="http://www.bmc.com/virtuals/javascripts/matrix_tag.js"></script>
 <script language="JavaScript"><!--
 var s_wd=window,s_tm=new Date;if(s_code!=' '){s_code=s_dc(
-'bmc,bmcunitedstates,bmctest');if(s_code)document.write(s_code)}else
-document.write('<im'+'g src="http://192.168.112.2O7.net/b/ss/bmc,bmcunitedstates,bmctest/1/F.3-fb/s'+s_tm.getTime()+'?[AQB]'
+bmc_mxacct);if(s_code)document.write(s_code)}else
+document.write('<im'+'g src="http://192.168.112.2O7.net/b/ss/' + bmc_mxacct + '/1/F.3-fb/s'+s_tm.getTime()+'?[AQB]'
 +'&pageName='+escape(s_wd.s_pageName?s_wd.s_pageName:(s_wd.pageName?s_wd.pageName:''))
 +'&server='+escape(s_wd.s_server?s_wd.s_server:(s_wd.server?s_wd.server:''))
 +'&ch='+escape(s_wd.s_channel?s_wd.s_channel:(s_wd.channel?s_wd.channel:''))
 +'&[AQE]" height="1" width="1" border="0" />')
-//--></script><img src="http://192.168.112.2O7.net/b/ss/bmc,bmcunitedstates,bmctest/1/F.3-fb/s1580371280209?[AQB]&amp;pageName=&amp;server=&amp;ch=&amp;[AQE]" height="1" width="1" border="0"><script language="JavaScript"><!--
+//--></script><img src="http://192.168.112.2O7.net/b/ss/bmc,bmcunitedstates/1/F.3-fb/s1580371279780?[AQB]&amp;pageName=&amp;server=&amp;ch=&amp;[AQE]" height="1" width="1" border="0"><script language="JavaScript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //--></script><noscript><img
-src="http://192.168.112.2O7.net/b/ss/bmc,bmcunitedstates,bmctest/1/F.3-XELvs"
+src="http://192.168.112.2O7.net/b/ss/bmc,bmcunitedstates/1/F.3-XELvs"
 height="1" width="1" border="0" /></noscript><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: F.3. -->
+
+<!--- Added by Rajith Raghu - 30-Oct-2003 - #1970417 --->
+<script language="JavaScript" src="http://bmcsoftware.5ws.net/cas/esp/script.asp?ID=515f2"></script>
+<!--- End of Added by Rajith Raghu - 30-Oct-2003 - #1970417 --->
+
 
 
 
