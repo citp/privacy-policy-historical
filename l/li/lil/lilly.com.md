@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lilly.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202203030id_/http%3A//www.lilly.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lilly.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606065538id_/http%3A//www.lilly.com/privacy.html) for the most accurate reproduction.*
 
-# Lilly: Privacy
+# Privacy Statement
 
 Eli Lilly and Company respects the privacy of visitors to its websites, as a result, we have developed this website privacy policy. This website privacy policy applies only to the operation of websites that directly link to this policy when you click on "privacy statement" in the website footer. 
 
@@ -37,3 +37,6 @@ Please note that you may continue to receive materials while we are updating our
 We may update this Web site Privacy Policy from time to time. When we do update it, for your convenience, we will make the updated policy available on this page. 
 
 Last Updated: May 17, 2002 
+
+  
+back to the top
