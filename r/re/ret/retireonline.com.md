@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the retireonline.com privacy policy that was archived on 2002-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020409070220id_/http%3A//www.retireonline.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retireonline.com privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014235303id_/http%3A//www.retireonline.com/privacy.htm) for the most accurate reproduction.*
 
-# J.P. Morgan/American Century Retirement Plan Services
+# J. P. Morgan | American Century Retirement Plan Services
 
-It’s a Matter of Privacy — Yours
+Privacy and Security Policy
 
 Trust is the foundation of any important relationship. When you entrust your assets to our care, you entrust us with your financial goals. We take that responsibility seriously at J.P. Morgan|American Century® Retirement Plan Services. We honor your trust by striving to provide excellent service and protect your privacy with integrity. 
 
@@ -14,12 +14,12 @@ Privacy is an integral part of our online services. This Privacy and Security Po
   * How Do We Use the Information We Collect? 
   * How Do We Protect Your Information? 
   * Our Use of Cookies 
-  * Secure Online Account Access
+  * Secure Online Account Access 
   * Web Browser Requirements 
 
-| 
 
-   What Kinds of Information Do We Collect? 
+
+   What Kinds of Information Do We Collect?
 
 |   
   
@@ -66,24 +66,20 @@ To further safeguard your information within J.P. Morgan|American Century, our p
   
 If you conduct business with J.P. Morgan|American Century online, you may notice our use of Internet cookies. Cookies enable our systems to recognize your browser and customize your experience on our Web site and help us better understand how our investors use our Web site.
 
-> What is a cookie?
-> 
-> A cookie is a small piece of alphanumeric information placed on your computer by the Web site you are visiting. It allows the Web site to remember or recognize your computer during subsequent visits. Although Web sites use cookies for different purposes, one important function is to allow a site to personalize your experience. For example, a cookie can be used to designate start pages within a site, or to indicate an area of interest to you on a Web site.
-> 
-> What types of cookies do Web sites put on my computer?
-> 
-> Temporary - Cookies that are stored on your computer only during your browsing session, and are automatically deleted from your computer when you close your browser. No information is collected from your computer.
-> 
-> Persistent - Cookies that are stored on your computer and are not deleted when you close your browser. Permanent cookies retain your preferences for a particular Web site, allowing those preferences to remain for future sessions. No information is collected from your computer.
-> 
-> How does J.P. Morgan|American Century use cookies?
-> 
-> We use cookies to facilitate your use of our Web site. These cookies do not collect or contain any personally identifiable information. Examples of how we use cookies include:
-> 
-> **Where a Cookie is Used  ** | **Cookie Type  ** | **Description**  
-> ---|---|---  
-> On-line Statement Page  | Temporary  | J.P. Morgan|American Century uses temporary cookies on all secure pages. These cookies store a session ID that is not personally identifiable to you, allowing you to move from page to page without having to log in repeatedly.   
-  
+What is a cookie?
+
+A cookie is a small piece of alphanumeric information placed on your computer by the Web site you are visiting. It allows the Web site to remember or recognize your computer during subsequent visits. Although Web sites use cookies for different purposes, one important function is to allow a site to personalize your experience. For example, a cookie can be used to designate start pages within a site, or to indicate an area of interest to you on a Web site.
+
+What types of cookies do Web sites put on my computer?
+
+Temporary - Cookies that are stored on your computer only during your browsing session, and are automatically deleted from your computer when you close your browser. No information is collected from your computer.
+
+Persistent - Cookies that are stored on your computer and are not deleted when you close your browser. Permanent cookies retain your preferences for a particular Web site, allowing those preferences to remain for future sessions. No information is collected from your computer.
+
+How does J.P. Morgan|American Century use cookies?
+
+We use **temporary** cookies to facilitate your use of our Web site. These cookies do not collect or contain any personally identifiable information. 
+
    Secure Online Account Access 
 
 |   
@@ -92,7 +88,7 @@ If you conduct business with J.P. Morgan|American Century online, you may notice
   
 Web Security and You
 
-Protecting your privacy and security is a shared responsibility. We affirm our commitment to safeguard your personal information; however, it is imperative that you protect your Password to prevent unauthorized access to your accounts. For this reason, we strongly suggest that you do not share your Password with anyone. If you do choose to give it to someone, such as a so-called "financial aggregator" that combines information about you from multiple sources over the Internet, you do so at your own risk. We cannot be responsible for any losses you may incur as a result. Registration is the unique User Name and Password combination used to log in to a secure and customized Personal Homepage containing your J.P. Morgan|American Century accounts and other services. Any personal or financial information you provide during the Registration process is kept confidential, as stated in this Privacy and Security Policy.
+Protecting your privacy and security is a shared responsibility. We affirm our commitment to safeguard your personal information; however, it is imperative that you protect your Password to prevent unauthorized access to your accounts. For this reason, we strongly suggest that you do not share your Password with anyone. If you do choose to give it to someone, such as a so-called "financial aggregator" that combines information about you from multiple sources over the Internet, you do so at your own risk. We cannot be responsible for any losses you may incur as a result. Registration is the unique User Name and Password combination used to log in to a secure and customized My Accounts Homepage containing your J.P. Morgan|American Century accounts and other services. Any personal or financial information you provide during the Registration process is kept confidential, as stated in this Privacy and Security Policy.
 
 To help protect your personal information, J.P. Morgan|American Century employs the following security mechanisms when setting up a Registration account.
 
@@ -135,7 +131,8 @@ Before making an upgrade to your company’s proprietary PC, be sure to check wi
 
 | 
 
-**Secure Connection**
+**Secure  
+Connection **
 
 | 
 
@@ -157,7 +154,6 @@ Microsoft Internet Explorer 4.0+  |
 No lock   
   
 America Online (AOL) for Windows 3.0 or higher  | A pop-up screen will be displayed indicating access to a page with encrypted data.   
-  |   |    
   
 To view the encryption certificate, click on the image of the closed lock or the solid key on the bottom bar of your browser window. A small frame displaying site security information will appear. If you use Internet Explorer, click on the word "Subject" to verify the Web site. If you use Netscape, click on the "View Certificate" button to see information on the subject and issuer.
 
