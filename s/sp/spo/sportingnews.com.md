@@ -1,13 +1,16 @@
-> *The following text is extracted and transformed from the sportingnews.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209155311id_/http%3A//www.sportingnews.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportingnews.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602192635id_/http%3A//www.sportingnews.com/privacy.html) for the most accurate reproduction.*
 
 # SportingNews.com
 
   
   
   
-[](http://www.sportingnews.com/RealMedia/ads/click_lx.ads/www.sportingnews.com/privacy.html/18674414/Left1/default/empty.gif/64316564656561353364663462633630)
+|  | [](http://www.sportingnews.com/RealMedia/ads/click_lx.ads/www.sportingnews.com/privacy.html/1969790005/Top/OasDefault/House_top_ROS_468/468x60_dadsday.html/64316564656561643365646261346530?2003.06.02.19.26.34)  
+---|---  
+  
+[](http://www.sportingnews.com/RealMedia/ads/click_lx.ads/www.sportingnews.com/privacy.html/1256465092/Left1/default/empty.gif/64316564656561643365646261346530)
 
-| [**MLB**](https://web.archive.org/baseball)[](https://web.archive.org/baseball/scoreboard/)  
+[**MLB**](https://web.archive.org/baseball)[](https://web.archive.org/baseball/scoreboard/)  
   
 | [ **NBA**](https://web.archive.org/nba)  
   
@@ -24,12 +27,13 @@
   
 ---|---|---|---|---|---|---  
   
-[](http://www.sportingnews.com/RealMedia/ads/click_lx.ads/www.sportingnews.com/privacy.html/1537594659/BottomLeft/default/empty.gif/64316564656561353364663462633630) |   
+[](http://www.sportingnews.com/RealMedia/ads/click_lx.ads/www.sportingnews.com/privacy.html/1201411708/BottomLeft/default/empty.gif/64316564656561643365646261346530)   
 |   
-**BASKETBALL  
-[Ult. Fantasy Hoops](http://fantasygames.sportingnews.com/hoops/fullseason/ultimate/index.html?sourceid=nav_left_ult)  
-[Fantasy Draft Kit](http://ultimate.sportingnews.com/nba/draftkit/promo.html?p_nba_dk02=-1&sourceid=nav_left_ult)  
-[College Hoops Hot 100](http://ultimate.sportingnews.com/cbasketball/hot100/promo.html?sourceid=nav_left_ult)  
+|   
+**BASEBALL  
+[Ult. Fantasy Baseball](http://www.sportingnews.com/r/navult1) Hot Item  
+[Draft & Trade Baseball](http://www.sportingnews.com/r/navult2)  
+[Ult. Fantasy Source](http://www.sportingnews.com/r/navult3)  
   
 ** |   
 |   
@@ -43,11 +47,8 @@
   
 |   
 **FOOTBALL  
-[Ultimate Matchups](http://ultimate.sportingnews.com/nfl/matchups/promo.html?p_nfl_ma02=-1&sourceid=nav_left_ult) reduced  
-[Fantasy Forecast](http://ultimate.sportingnews.com/nfl/forecast/promo.html?p_nfl_wf02=-1&sourceid=nav_left_ult) reduced  
-[Draft Central](http://ultimate.sportingnews.com/nfl/draft/promo.html?sourceid=ult_left_nav)  
-[Ult. Fantasy Football](http://fantasygames.sportingnews.com/football/)  
-[Ultimate College Football Matchups](http://ultimate.sportingnews.com/cfootball/ultimate/promo.html?sourceid=nav_left_ult)  
+[Draft Central](http://www.sportingnews.com/r/navult4)  
+[Season Ticket](http://www.sportingnews.com/r/navult5) NEW!  
   
 ** |   
 |   
@@ -59,9 +60,8 @@
   
   
 |   
-**HOCKEY  
-[Ult. Fantasy Hockey](http://fantasygames.sportingnews.com/hockey/index.html?sourceid=nav_left_ult)  
-[Fantasy Draft Kit](http://ultimate.sportingnews.com/nhl/draftkit/promo.html?sourceid=nav_left_ult)  
+**STOCK CAR  
+[Draft Kit](http://www.sportingnews.com/r/navult6)  
   
 ** |   
 |   
@@ -73,13 +73,13 @@
   
   
   
-|  [](http://www.sportingnews.com/RealMedia/ads/click_lx.ads/www.sportingnews.com/privacy.html/1298321642/Top2/default/empty.gif/64316564656561353364663462633630) |   
+|  [](http://www.sportingnews.com/RealMedia/ads/click_lx.ads/www.sportingnews.com/privacy.html/1111274931/Top2/default/empty.gif/64316564656561643365646261346530) |   
 |    
 Vulcan Sports Media Privacy Policy
 
-_changes as of November 4, 2002 in italics below_
+_changes as of March 18, 2003 in italics below_
 
-Thank you for visiting this Vulcan Sports Media property. _To demonstrate our commitment to protecting your privacy, Vulcan Sports Media had its information collection practices reviewed by TRUSTe and is a licensee of the TRUSTe privacy seal program._ Your privacy is very important to us. As part of the normal operation of our site we collect and, in some cases, disclose information about you. This Privacy Policy describes the information we collect about you and what may happen with that information. We have prepared this Privacy Policy because we believe you should know as much as possible about our practices in order for you to make an informed decision. 
+Thank you for visiting this Vulcan Sports Media property. To demonstrate our commitment to protecting your privacy, Vulcan Sports Media had its information collection practices reviewed by TRUSTe and is a licensee of the TRUSTe privacy seal program. Your privacy is very important to us. As part of the normal operation of our site we collect and, in some cases, disclose information about you. This Privacy Policy describes the information we collect about you and what may happen with that information. We have prepared this Privacy Policy because we believe you should know as much as possible about our practices in order for you to make an informed decision. 
 
 We take appropriate measures and precautions to safeguard information about you and to protect it from loss, misuse or alteration, including without limitation, the requirement of a password to access such information. 
 
@@ -102,7 +102,7 @@ TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 * Other People. At some TSN sites, you will have the ability to submit information about other people. For example, you might submit a person's email address to challenge them to a fantasy game or their name and address to send a gift subscription. The types of personally identifiable information that may be collected about other people may include: name, address and email address. 
 * Tracking. In the course of using the TSN site, TSN may assign random numbers to you for the purpose of anonymously tracking site usage. Information tracked includes, but is not limited to, the URL that you just came from (whether this URL is on the TSN site or not), which URL you go to next (whether this URL is on the TSN site or not), what browser you are using, and your IP address. Many sites automatically collect this information. This information is used for purposes of system administration, diagnostics, site tracking and reporting of aggregate usage information to third parties such as our advertisers and content partners or for research purposes. TSN does not link information automatically collected to information identifying visitors individually.
 * Cookies. TSN employs cookies to recognize visitors and their privileges in order to provide visitors with user specific information, as well as to track site usage. Cookies can also help provide information that is targeted to visitors' interests. Cookies are stored on your browser, not on the TSN site. You are free to decline TSN cookies if your browser permits, although in that case you may be required to reenter your password more frequently during a session. Also, visitors who do not accept cookies may not be able to access certain portions of the TSN site. Cookies used by TSN do not contain personally identifiable information about a visitor, and TSN does not use cookies to obtain such information. Cookies used by TSN are "session cookies," meaning that they can be automatically deleted at the end of a session (technically when the user quits the browser). 
-* Advertisers and Sponsors. TSN's sponsors and advertisers may use cookies within their advertisements or promotions. TSN will likely not have access to these cookies or any information that they may contain. Visitors who want any information about these cookies should contact the sponsors and advertisers directly. Once you click on a sponsor link or advertisement and leave the TSN sites our privacy policy no longer applies. You must read the privacy policy of the individual advertiser to see how your personal information will be handled on their site. There may be times when we use a third-party advertising company to serve ads when you visit our site. This company may use information (not including your name, address, email address or telephone number) about your visits to our and other web sites in order to provide advertisements about goods and services of interest to you. In addition, we may share web site usage information about visitors to our sites with this company for the purpose of managing and targeting advertisements and for market research analysis on our site and other sites. For these purposes, we and our third-party advertising company may note some of the pages you visit on our site through the use of pixel tags (also called clear gifs). In the course of serving advertisements to this site, our third-party advertiser may also place or recognize a unique "cookie" on your computer. If you want to prevent a third-party advertiser from collecting data, currently you may visit each ad network's web site individually and opt-out or visit the NAI gateway opt-out site to opt-out of all network-advertising cookies. This site will also allow you to review the third-party advertising companies. [Click here for info](http://www.networkadvertising.org/optout_nonppii.asp). 
+* Advertisers and Sponsors. TSN's sponsors and advertisers may use cookies within their advertisements or promotions. TSN will likely not have access to these cookies or any information that they may contain. Visitors who want any information about these cookies should contact the sponsors and advertisers directly. Once you click on a sponsor link or advertisement and leave the TSN sites our privacy policy no longer applies. You must read the privacy policy of the individual advertiser to see how your personal information will be handled on their site. There may be times when we use third-party advertising _companies (the "Companies")_ to serve ads when you visit our site. _These Companies_ may use information (not including your name, address, email address or telephone number) about your visits to our and other web sites in order to provide advertisements about goods and services of interest to you. In addition, we may share web site usage information about visitors to our sites with this _these Companies_ for the purpose of managing and targeting advertisements, for market research analysis on our site and other sites _and for tracking a specific activity on our site relating to the marketing efforts of an advertiser_. For these purposes, _the Companies_ may note some of the pages you visit on our site _as well as some of the activities you undertake_ through the use of _Web Beacons_ and pixel tags (also called clear gifs). In the course of serving advertisements to this site, the Companies may also place or recognize a unique "cookie" on your computer. _As is always the case, information collected and used by these Companies will not be tied to a user's personal information and will only be used in the aggregate._ If you want to prevent a third-party advertiser from collecting data, currently you may visit each ad network's web site individually and opt-out or visit the NAI gateway opt-out site to opt-out of all network-advertising cookies. This site will also allow you to review the third party advertising companies. [Click here for info](http://www.networkadvertising.org/optout_nonppii.asp). 
 
   
 **II. What TSN Does With the Information**
@@ -168,4 +168,5 @@ In addition, notwithstanding any other provision of this Privacy Policy, in the 
   
   
 ---|---|---|---|---|---|---  
-[](http://www.sportingnews.com/RealMedia/ads/click_lx.ads/www.sportingnews.com/privacy.html/1216475152/Frame1/default/empty.gif/64316564656561353364663462633630)
+  
+
