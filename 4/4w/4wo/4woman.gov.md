@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4woman.gov privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217221834id_/http%3A//4woman.gov/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4woman.gov privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602204021id_/http%3A//www.4woman.gov/about/privacy.htm) for the most accurate reproduction.*
 
 # NWHIC's Privacy Policy
 
