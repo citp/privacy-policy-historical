@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsearch.gov.au privacy policy that was archived on 2002-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020205110934id_/http%3A//jobsearch.gov.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsearch.gov.au privacy policy that was archived on 2002-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021010034636id_/http%3A//jobsearch.gov.au/privacy.asp) for the most accurate reproduction.*
 
 # Australian Job Search - The largest job site in Australia
 
@@ -12,7 +12,7 @@ No personal information is stored within the Department's cookies. For more info
 
 No attempt is made by the Department to identify users or their browsing activities except, in the unlikely event of an investigation, where a law enforcement agency may exercise a warrant to inspect the Department's logs. This site collects some personally identifiable information, such as your name, address or gender. This information is not displayed on the site and your identity is protected, and the onus is on you to disclose any relevant personal details. Any personal information collected by this site will not be sold or divulged to any third party without your permission. The Department will only record your e-mail address if you send us a message or if you are required to enter an e-mail address to enable you to use the services provided by this site. This information will only be used for the purpose for which you have provided it and will not be added to a mailing list. We will not use your e-mail address for any other purpose and will not disclose it without your consent.
 
-External sites that are linked to or from the Department's Internet site are not under our control and you are advised to review their privacy statement. Users should note there are inherent risks associated with transmission of information via the Internet. Therefore users should make their own assessment of the potential risks to the security of their information when making a decision as to whether or not they should utilise external sites that are linked to or from the Department's Internet site.
+External sites are denoted by this symbol . These sites that are linked to or from the Department’s Internet site are not under our control and you are advised to review their privacy statement. Users should note there are inherent risks associated with transmission of information via the Internet. Therefore users should make their own assessment of the potential risks to the security of their information when making a decision as to whether or not they should utilise external sites that are linked to or from the Department’s Internet site.
 
    
 
