@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the totaltravel.com.au privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014150624id_/http%3A//www.totaltravel.com.au/library/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totaltravel.com.au privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207052414id_/http%3A//www.totaltravel.com/library/legal/privacy) for the most accurate reproduction.*
 
-# privacy policy - Total Travel Guide
+# Privacy policy
 
 We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, discussion lists and opt-in announcement lists owned and operated by Totaltravel.com PTY LTD, Incorporated, (“TOTALTRAVEL.COM PTY LTD”). 
 
