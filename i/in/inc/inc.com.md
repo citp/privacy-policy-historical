@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inc.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010000711id_/http%3A//www.inc.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inc.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205213249id_/http%3A//www.inc.com/about/privacy.html) for the most accurate reproduction.*
 
 # Inc.com | Privacy Statement
 
@@ -42,10 +42,10 @@ If you have questions or comments on this Privacy Statement, please [contact us]
 
 ### Advertisement
 
-### Premier Online Sponsors
-
 ### Subscribe to Inc.
 
 ### Featured Services
+
+### Advertisement
 
 ### Advertisement
