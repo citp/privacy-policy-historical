@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the synovus.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621091324id_/http%3A//www.synovus.com/index.cfm%3Fsubject%3D7%26page%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synovus.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209140554id_/http%3A//www.synovus.com/index.cfm%3Fsubject%3D7%26page%3D3) for the most accurate reproduction.*
 
 # Synovus Financial Corp. - The Synovus customer covenant and privacy policy
 
