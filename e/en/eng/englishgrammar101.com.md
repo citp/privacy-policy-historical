@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the englishgrammar101.com privacy policy that was archived on 2000-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001212033000id_/http%3A//www.englishgrammar101.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the englishgrammar101.com privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613050943id_/http%3A//englishgrammar101.com/privacy.html) for the most accurate reproduction.*
 
 # English Grammar 101
 
