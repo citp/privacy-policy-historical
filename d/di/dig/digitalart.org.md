@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalart.org privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401211548id_/http%3A//digitalart.org/info.privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalart.org privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203005828id_/http%3A//digitalart.org/info.privacy.php) for the most accurate reproduction.*
 
 # digitalart.org - Privacy Statement
 
@@ -10,7 +10,7 @@ The IP addresses of users are logged and used to help diagnose problems with our
 
 Information Volunteered
 
-We collect the e-mail addresses of those who communicate with us via e-mail, user-specific information on what pages users access. We collect information volunteered by users such as the Account Information they provide as a member, the Personal Profile they create, and information involved in purchasing Premium Membership.
+We collect the e-mail addresses of those who communicate with us via e-mail. We collect information volunteered by users such as the Account Information they provide as a member, the Personal Profile they create, and information involved in purchasing Premium Membership.
 
 The information we collect is used to improve the content of our Web site, used to customize the content and/or layout for each individual visitor, used to contact users, and not shared with other organizations for commercial purposes. We do not sell or trade any e-mail addresses that we have collected.
 
@@ -26,7 +26,7 @@ This site contains links to other sites. digitalart.org is not responsible for t
 
 Security
 
-We use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+We use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
 Data Access/Quality
 
