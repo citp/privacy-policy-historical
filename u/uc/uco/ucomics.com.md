@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucomics.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602082223id_/http%3A//www.ucomics.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucomics.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607224901id_/http%3A//www.ucomics.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # Welcome to uComics -- The Best Comic Site In The Universe!
 
@@ -7,7 +7,7 @@
 **uclick Network Privacy Policies**
 
   
- _Last Updated 03/21/2001_ | 
+ _Last Updated 05/28/2002_ | 
 
 uComics.com (uclick, LLC) is a general audience entertainment site dedicated to providing the Internet-using public with the most complete and enjoyable online comic viewing experience. uComics is also concerned about your privacy and we encourage you to read our Privacy Policy to learn all about how we use information about visitors to our Web site(s). 
 
@@ -39,6 +39,18 @@ We also encourage you to read our Children's Privacy Policy - it details how we 
   * Other companies over whom uComics.com and uclick have no control that serve advertisements on our Web sites may also utilize "cookie" technology to send and/or receive information from their computers to your browser and computer. 
   * uComics and uclick will use server logs to track your movement through our Web sites and properties - in addition, we will use this information to customize the user experience or provide registrant continuity between our various Web sites and properties. 
   * We may also use other technologies to verify and track your use of certain services, confirm receipt of certain e-mailed products or to test the integrity of our systems, products and services. 
+
+**Third Party Advertising**
+
+  * The ads appearing on this Web site are delivered to you by our Web advertising partners. Information about your visit to this site, such as the number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about DoubleClick, one of our partners, cookies, and how to "opt-out," you can visit this page, <http://www.doubleclick.net/us/corporate/privacy/privacy/ad-cookie/default.asp>
+
+**Third Party Cookies**
+
+  * In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
+
+**Opt-Out of Advertising**
+
+  * This opt-out feature replaces a network advertiser's unique online preference marketing cookie on your browser with a general opt-out cookie; it does not delete cookies and does not necessarily replace other cookies placed by network advertisers, such as those that are used for aggregate ad reporting or mere ad serving purposes. Such cookies allow network advertisers to rotate ad banners sequentially and track aggregate numbers of impressions. Please see the companies' privacy policies for more details or visit [the NAI web site](http://www.networkadvertising.org/optout_nonppii.asp) for more information. 
 
 **How much control will you have over your account information?**  
 
@@ -85,13 +97,12 @@ This policy, in addition to the uComics and uclick Privacy Policy, covers the us
 
 **Contacting uComics and uclick about Children's Privacy or to Control a child's access**
 
-uclick, LLC  
+uclick  
 Attn: Children's Privacy  
-510 West 5th Street  
-Kansas City, MO 64105
+4520 Main Street  
+Suite 500  
+Kansas City, MO 64111
 
-816-300-6500  
 or [webmaster@ucomics.com](mailto:webmaster@ucomics.com)
 
-|    
-
+| 
