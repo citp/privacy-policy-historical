@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saveonfoods.com privacy policy that was archived on 2002-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021015005018id_/http%3A//www.saveonfoods.com/1/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saveonfoods.com privacy policy that was archived on 2003-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030207034708id_/http%3A//www.saveonfoods.com/1/privacy.htm) for the most accurate reproduction.*
 
 # Save On Foods, Privacy and Security Statement
 
@@ -15,7 +15,7 @@ It is important for us at Save-On-Foods to make you feel as comfortable as possi
 **Contact**    
 During your initial visit to our site, we would ask that you indicate whether you want to receive communications from Save-On-Foods. There is no obligation to receive communications when visiting our site. Occasionally, we may be in touch with you via email, postal mail or telephone to notify you of new services or products available through Save-On-Foods and to ask you about how satisfied you are with Save-On-Foods' products and services.
 
-If you have any questions about our privacy statement, the practices of this site, or dealing with Save-On-Foods, contact us by calling 1.800.242.9229 to voice any concerns to our friendly customer service representatives, or fill in our **[online customer inquiry form](https://web.archive.org/web/20021015005018id_/http%3A//www.saveonfoods.com/1/contact2.htm) **[](https://web.archive.org/web/20021015005018id_/http%3A//www.saveonfoods.com/1/contact2.htm)
+If you have any questions about our privacy statement, the practices of this site, or dealing with Save-On-Foods, contact us by calling 1.800.242.9229 to voice any concerns to our friendly customer service representatives, or fill in our **[online customer inquiry form](https://web.archive.org/web/20030207034708id_/http%3A//www.saveonfoods.com/1/contact2.htm) **[](https://web.archive.org/web/20030207034708id_/http%3A//www.saveonfoods.com/1/contact2.htm)
 
 **Links**    
 This website provides links to other sites. Please be aware that we are not responsible for the privacy practices of any other sites. We encourage our users to be aware when they leave our site to read the privacy policies of each and every website that collects personally identifiable information. This policy statement applies solely to information collected by Save-On-Foods on this site.
