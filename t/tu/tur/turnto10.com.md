@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turnto10.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204102622id_/http%3A//www.turnto10.com/news/1176131/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turnto10.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205020706id_/http%3A//www.turnto10.com/news/1176131/detail.html) for the most accurate reproduction.*
 
 # News Channel 10 - News - Online Privacy Statement
 
@@ -69,8 +69,3 @@ It is important to note that this site contains links to other sites, and that t
 USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE TERMS OF USE AND PRIVACY POLICY. 
 
 We reserve the right to change this policy at any time by posting a revised privacy policy. 
-
-  
-  
-  
-
