@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designersimports.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607175140id_/http%3A//designersimports.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designersimports.com privacy policy that was archived on 2004-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041216103435id_/http%3A//www.designersimports.com/privacy.htm) for the most accurate reproduction.*
 
 # Designers-Imports, Designer clothing Burberry Apparel, Burberry Handbags, Fendi, Prada, Movado, wallets, shoes at discounted prices - designersimports.com
 
