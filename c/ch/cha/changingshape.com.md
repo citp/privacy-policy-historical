@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the changingshape.com privacy policy that was archived on 2003-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031216213620id_/http%3A//www.changingshape.com/information/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the changingshape.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604134135id_/http%3A//www.changingshape.com/information/privacypolicy.asp) for the most accurate reproduction.*
 
 # Changing Shape: Privacy Policy
 
