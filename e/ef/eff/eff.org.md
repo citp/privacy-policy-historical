@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eff.org privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602182546id_/http%3A//eff.org/policy/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eff.org privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204203407id_/http%3A//www.eff.org/policy/privacy.php) for the most accurate reproduction.*
 
 # EFF: Privacy Policy (May 22, 2002)
 
@@ -20,9 +20,11 @@ We do not use "cookies" on this site unless you decide to click on "Remember Me"
 
 ### Membership Privacy Policy
 
-When you join EFF, we collect your name and postal address, and record the date that you joined. The amount and date of donation for your initial membership donation, and any subsequent donation, is recorded for our records. We respect anonymous donations. You may submit voluntarily any other personal information we request, including phone number and email address, which we store with your membership records. 
+EFF will never share or use your personal information for any reason other than to manage your membership or contribution. These records are stored with a third-party grassroots campaign consultant, Carol/Trevelyan Strategy Group (CTSG). Our agreement with CTSG specifies that the records cannot be reproduced (except for back-up copies) and cannot be disclosed to anyone, or used for any purpose, without EFF's prior written consent. EFF will never grant that consent.
 
-We do not retain credit card information but only use it to process your present donation. Credit card numbers for monthly donors are kept in a secure location and processed in a secure online batch once per month. 
+We respect anonymous donations. Please note that your email address is required if you choose to donate using our online form.
+
+We do not retain credit card information. If you choose to have us make automatic monthly withdrawals from your account, we do retain your credit card information for that sole purpose. These credit card numbers are kept in a secure, offline location and are processed in a secure online batch once per month.
 
 ### Action Center Privacy Policy
 
