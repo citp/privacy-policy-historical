@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the stjude.org privacy policy that was archived on 2004-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040605165031id_/http%3A//www.stjude.org/legal/0%2C2621%2C588_3178%2C00.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stjude.org privacy policy that was archived on 2004-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204131900id_/http%3A//www.stjude.org/legal/0%2C2621%2C588_3178%2C00.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -26,7 +26,135 @@
 	<div id="pageHeader">
 	
 	
+		
+		
 
+<script language="javascript">
+<!--
+
+var nMaxVars = 0; //size of name/value arrays
+var sVarLine = "";
+var sName = new Array(); //NameArray
+var sValue = new Array(); //ValueArray
+
+function setCookie(name, value, expires, path, domain, secure) 
+{
+  var curCookie = name + "=" + escape(value) +
+	  ((expires) ? "; expires=" + expires : "") +
+	  ((path) ? "; path=" + path : "") +
+	  ((domain) ? "; domain=" + domain : "") +
+	  ((secure) ? "; secure" : "");
+  document.cookie = curCookie;
+}
+			
+function setSourceCodeCookie(sCallingURL) 
+{
+	//Get the calling URL and parse out variables
+	sCallingURL = String(sCallingURL);
+	
+	if (sCallingURL.length == 0)
+		return;
+		
+	// Check if there are any variables
+	if (sCallingURL.indexOf('?') != -1) 
+	{
+		sVarLine = String(sCallingURL.substring(sCallingURL.indexOf('?') + 1, sCallingURL.length));
+	} 
+	else
+	{
+		// No variables
+		return;
+	}
+	
+	var nPos = 0;
+	var sChar = "";
+	var sWord = "";
+	nMaxVars = 0;
+	
+	// Parse
+	while (nPos < sVarLine.length) 
+	{
+		sChar = sVarLine.substring(nPos, nPos + 1);
+		
+		if (sChar == "=") {
+			sName[nMaxVars] = sWord;
+			sWord = "";
+			
+		} 
+		else if (sChar == "&") 
+		{
+			sValue[nMaxVars] = sWord;
+			sWord = "";
+			nMaxVars++;
+			
+		} 
+		else if (nPos == sVarLine.length - 1) 
+		{
+			sWord += sVarLine.substring(nPos, nPos + 1);
+			sValue[nMaxVars] = sWord;
+			sWord = "";
+			nMaxVars++;
+			
+		} 
+		else 
+		{
+			sWord += sChar;
+		}
+		nPos++;
+	}
+	// we have name and value array
+
+	// look for sourceCode var and set cookie with value
+	for (var i=0; i<nMaxVars; i++) 
+	{
+		if (sName[i] == "sourceCode") 
+		{
+			// set cookie value
+			setCookie("sourceCode", sValue[i], "", "/", "stjude.org")
+			return;
+		}
+	}
+}
+
+setSourceCodeCookie(parent.document.URL);
+-->
+</script>
+
+
+
+		<div id="preamble">
+			<h4>In order for our site to display correctly you will need a newer version of your web browser.</h4>
+			
+			<p>
+			The following browsers support numerous web standards including CSS,
+			XHTML, and the DOM (a universal means of controlling the behavior of
+			web pages):
+			</p>
+
+				<ul>
+				<li><a href="http://www.netscape.com/download">Netscape</a> v7 or higher (all platforms), <a href="http://www.mozilla.org/products/firefox/">Mozilla FireFox</a> (Windows), <a href="http://www.mozilla.org/projects/camino/">Camino</a> (Mac OS X), <a href="http://galeon.sourceforge.net/">Galeon</a> (Linux GNOME Desktop) or other browser stemming from the <a href="http://www.mozilla.org/">Mozilla.org</a> project.</li>
+				
+				<li><a href="http://www.opera.com/">Opera</a> v7 or higher (Windows, Linux)</li>
+				
+				<li><a href="http://www.apple.com/safari/">Apple's Safari</a> (Mac OS X)
+				
+				</li><li><a href="http://www.konqueror.org/">Konqueror</a> (Linux KDE Desktop)</li>  
+				 
+				<li>Microsoft Internet Explorer <a href="http://www.microsoft.com/windows/ie/">v6 or higher (Windows)</a> or <a href="http://www.microsoft.com/mac/products/ie/">v5 or higher (Macintosh)</a></li>
+				
+				</ul>
+
+				
+			<p>
+			<em> Please note that this is not intended be an exhaustive list
+			of browsers that support web standards, nor a test of browser compliance,
+			nor a side-by-side comparison of various manufacturers’ browsers.</em>
+
+			</p>
+
+		</div>
+
+		
 		<div id="logo"><a id="logoImage" href="http://www.stjude.org" title="St. Jude Children's Research Hospital"><span class="alt">St. Jude Children's Research Hospital</span></a></div>
 		<h2><span>Finding Cures. Saving Children.</span></h2>
 		<div id="searchBox">
@@ -267,7 +395,7 @@ Memphis, TN 38105<br>
 		
 
 		<div id="footer">
-			Copyright 2004. St. Jude Children's Research Hospital.&nbsp;&nbsp;
+			© 2004. St. Jude Children's Research Hospital. &nbsp;&nbsp;
 			
 
 
@@ -358,7 +486,7 @@ Memphis, TN 38105<br>
 
 
 
-<a href="/legal/0,2621,588_3177,00.html">Disclaimer / Copyright Statement</a>
+<a href="/legal/0,2621,588_3177,00.html">Disclaimer / Registrations / Copyright Statement</a>
 
 			&nbsp;&nbsp;
 			
@@ -643,11 +771,7 @@ Memphis, TN 38105<br>
 		
 		<div id="extra">
 			<img src="/StJude/CDA/Images/Global/stjude_print_header.gif">
-			<style>
-			<!--
-			#contentWell table {float: left; max-width: 540px;}
-			-->
-			</style>
+			
 		</div>
 		
 	</div>
