@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phonydiploma.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206063027id_/http%3A//www.phonydiploma.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonydiploma.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607071646id_/http%3A//www.phonydiploma.com/privacy.aspx) for the most accurate reproduction.*
 
 # Document Printing Services, LLC
 
@@ -58,7 +58,7 @@ The words "Phony Diplomas" are not shown anywhere on your document, package, pac
   
    
   
-| [Home](http://www.phonydiploma.com/default.aspx)| [My Account](http://www.phonydiploma.com/myaccount.aspx)| [View Cart](http://www.phonydiploma.com/cart.aspx)| [Contact Us](http://www.phonydiploma.com/contact.aspx)| [Help](http://www.phonydiploma.com/help.aspx)| [Customer Service](http://www.phonydiploma.com/custom.aspx?id=8)| [Diploma Styles](http://www.phonydiploma.com/custom.aspx?id=19)| [Disclaimer](http://www.phonydiploma.com/custom.aspx?id=6)| [Order Forms](http://www.phonydiploma.com/custom.aspx?id=23)| [Phony Transcripts](http://www.phonydiploma.com/custom.aspx?id=21)| [Shipping and Packaging](http://www.phonydiploma.com/custom.aspx?id=20)| [Degrees and Majors Available](http://www.phonydiploma.com/custom.aspx?id=27)| [Replica Diplomas](http://www.phonydiploma.com/custom.aspx?id=25)| [What We Don't Do](http://www.phonydiploma.com/custom.aspx?id=26)  
----|---|---|---|---|---|---|---|---|---|---|---|---|---  
+| [Home](http://www.phonydiploma.com/default.aspx)| [My Account](http://www.phonydiploma.com/myaccount.aspx)| [View Cart](http://www.phonydiploma.com/cart.aspx)| [Contact Us](http://www.phonydiploma.com/contact.aspx)| [Help](http://www.phonydiploma.com/help.aspx)| [Customer Service](http://www.phonydiploma.com/custom.aspx?id=8)| [Diploma Styles](http://www.phonydiploma.com/custom.aspx?id=19)| [Disclaimer](http://www.phonydiploma.com/custom.aspx?id=6)| [Order Forms](http://www.phonydiploma.com/custom.aspx?id=23)| [Phony Transcripts](http://www.phonydiploma.com/custom.aspx?id=21)| [Shipping and Packaging](http://www.phonydiploma.com/custom.aspx?id=20)| [Degrees and Majors Available](http://www.phonydiploma.com/custom.aspx?id=27)| [International Orders](http://www.phonydiploma.com/custom.aspx?id=29)| [Replica Diplomas](http://www.phonydiploma.com/custom.aspx?id=25)| [What We Don't Do](http://www.phonydiploma.com/custom.aspx?id=26)  
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 [Privacy Policy](https://web.archive.org/privacy.aspx) | [Terms And Conditions](https://web.archive.org/terms.aspx) | © 2002 - Document Printing Services, LLC
