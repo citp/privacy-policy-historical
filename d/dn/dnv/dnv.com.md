@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnv.com privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212194141id_/http%3A//www.dnv.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnv.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604020303id_/http%3A//www.dnv.com/privacy.asp) for the most accurate reproduction.*
 
 # DNV - Privacy Statement
 
