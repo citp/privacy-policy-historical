@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oregonlive.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211151008id_/http%3A//www.oregonlive.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oregonlive.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621150821id_/http%3A//www.oregonlive.com/privacypolicy) for the most accurate reproduction.*
 
 # OreognLive.com: Privacy Policy
 
@@ -53,7 +53,7 @@ Your Internet Protocol ("IP") address is usually associated with the place from 
 
 If your children disclose information about themselves in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so.
 
-If you're worried about your children's activities or their privacy on our site, we encourage you to e-mail our [Privacy Policy Coordinator](https://web.archive.org/contactus/).
+If you're worried about your children's activities or their privacy on our site, we encourage you to please [click here to contact our Privacy Policy Coordinator](https://web.archive.org/contactus/).
 
 If you have other concerns or questions about any aspect of this policy, you may also e-mail our Privacy Policy Coordinator. We welcome your feedback. You can also send us regular mail at the following address: 
 
@@ -74,8 +74,8 @@ INSIDE
   
 [](https://web.archive.org/sendthispage/sendthispage.ssf) |  |    
   
-[](http://ads7.advance.net/RealMedia/ads/click_lx.ads/www.oregonlive.com/privacypolicy/index.ssf/NQS/554604821/Sponsor1/default/empty.gif/64316564656561353364663735353530)   
-[](http://ads7.advance.net/RealMedia/ads/click_lx.ads/www.oregonlive.com/privacypolicy/index.ssf/NQS/1226589798/Tile1/OREGONLIVE/AV_HOMES_OR04/Premium_copy3_or4.gif/64316564656561353364663735353530)   
+[](http://ads7.advance.net/RealMedia/ads/click_lx.ads/www.oregonlive.com/privacypolicy/index.ssf/NQS/677765607/Sponsor1/default/empty.gif/64316564656561643365663437346530)   
+[](http://ads7.advance.net/RealMedia/ads/click_lx.ads/www.oregonlive.com/privacypolicy/index.ssf/NQS/1311576704/Tile1/OREGONLIVE/AV_PSA_OR08/adc_loc_ghost_120x240.gif/64316564656561643365663437346530)   
   
   
 
