@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bostonmagazine.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408153111id_/http%3A//bostonmagazine.com/content.php%3Fname%3Dprivacy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bostonmagazine.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204212513id_/http%3A//www.bostonmagazine.com/content.php%3Fname%3Dprivacy.txt) for the most accurate reproduction.*
 
 # Boston Magazine Online Home Page
 
@@ -54,4 +54,4 @@ We may post hyperlinks to the Web sites of third party advertisers, service prov
 
 **Children's Online Privacy**
 
-Consistent with the Children's Online Privacy Protection Act ("COPPA"), this Site is not intended for use by anyone under the age of 13. _Boston Magazine_ does not knowingly collect personal information from children through this Site, or any of its Web sites. If you are a parent with concerns about children's privacy issues in conjunction with the use of this Site, please [contact us](https://web.archive.org/web/20020408153111id_/http%3A//bostonmagazine.com/content.php?name=contact.txt). 
+Consistent with the Children's Online Privacy Protection Act ("COPPA"), this Site is not intended for use by anyone under the age of 13. _Boston Magazine_ does not knowingly collect personal information from children through this Site, or any of its Web sites. If you are a parent with concerns about children's privacy issues in conjunction with the use of this Site, please [contact us](https://web.archive.org/web/20021204212513id_/http%3A//www.bostonmagazine.com/content.php?name=contact.txt). 
