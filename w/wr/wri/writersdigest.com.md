@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the writersdigest.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201230920id_/http%3A//www.writersdigest.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writersdigest.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622132118id_/http%3A//writersdigest.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # WritersDigest.com
 
@@ -26,6 +26,6 @@ Writersdigest.com uses cookies to track user traffic patterns, and the "shopping
 
 **Changes to Policy**
 
-Because earning your trust and confidence is so vital to us, we will always be upfront with you about both our procedures for collecting information and our use of that information. If we ever make any changes in either of these procedures, we will immediately describe those changes clearly on this page. If you have any thoughts or comments regarding this policy, please e-mail us at [privacy@fwpubs.com](mailto:privacy@fwpubs.com) and let us know. 
+Because earning your trust and confidence is so vital to us, we will always be upfront with you about both our procedures for collecting information and our use of that information. If we ever make any changes in either of these procedures, we will immediately describe those changes clearly on this page. If you have any thoughts or comments regarding this policy, please [e-mail](http://www.writersdigest.com/contactus.asp) us and let us know. 
 
 * * *
