@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the medhunters.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204103345id_/http%3A//www.medhunters.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medhunters.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307122347id_/http%3A//www.medhunters.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # MedHunters: Privacy Policy - MedHunters
 
-Last updated June 30, 2004 
+Last updated June 30, 2004
 
 * * *
 
@@ -43,7 +43,7 @@ We may also use, disclose and communicate your personal information if required 
 
 Your job application history is retained on our system. You are able to see your job application history for six months, to enable you to see which jobs you have recently applied for. Only you personally and MedHunters employees are able to see your job application history. Should you choose to remove your résumé from our database or close your MyMedHunters account, we will remove your résumé, and MyMedHunters profile information from our externally visible system. Please note that a copy of any information that you have provided may remain in back-up storage for some period of time after your deletion request. This may be the case even though no information about your account remains in our active user databases and is not visible to yourself or to subscribing employers.
 
-Some job postings on the MedHunters Site link directly to the employer¢s web site and require you to enter your information into their system in order to apply. In such cases, you will be providing your résumé directly to the employer and your résumé will be subject to their privacy policy. MedHunters is not responsible for the privacy practices of such employer. 
+Some job postings on the MedHunters Site link directly to the employer�s web site and require you to enter your information into their system in order to apply. In such cases, you will be providing your résumé directly to the employer and your résumé will be subject to their privacy policy. MedHunters is not responsible for the privacy practices of such employer. 
 
 We may also use your contact information to send you emails about updates to the MedHunters Site or new features or services offered by MedHunters or our business partners or to contact you about your opinion of current products and services or potential future products and services. At the time of registering, you have the option to decline to receive such information from MedHunters. 
 
