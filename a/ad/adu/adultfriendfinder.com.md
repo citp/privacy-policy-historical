@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultfriendfinder.com privacy policy that was archived on 2004-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041231033106id_/http%3A//adultfriendfinder.com/go/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultfriendfinder.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207010028id_/http%3A//adultfriendfinder.com/go/page/privacy.html) for the most accurate reproduction.*
 
 # AdultFriendFinder PRIVACY POLICY
 
