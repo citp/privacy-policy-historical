@@ -1,50 +1,48 @@
-> *The following text is extracted and transformed from the friendsreunited.co.uk privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207174049id_/http%3A//www.friendsreunited.co.uk/FriendsReunited.ASP%3FWCI%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendsreunited.co.uk privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610160931id_/http%3A//www.friendsreunited.co.uk/FriendsReunited.ASP%3FWCI%3DPrivacy) for the most accurate reproduction.*
 
 # Friends Reunited - Privacy Policy
 
-[](https://web.archive.org/web/20031207174049id_/http%3A//www.friendsreunited.co.uk/questionnaire1.htm)
+**Success!** "Thanks to   
+Friends Reunited, I have found my daughter who I have not seen since she was 13. She is now 27 and I have discovered that I am a grandfather and my daughter has another on the way. This would have been an impossible task had it not been for   
+Friends Reunited. From the bottom of my heart, thank you. "
 
 Friends Reunited privacy policy 
 
-  
-From the creators of   
+This is a legal document which sets out how FriendsReunited handles data which identifies you. You should read it in conjunction with the [FriendsReunited Terms and Conditions ](http://www.friendsreunited.co.uk/friendsreunited.asp?wci=terms), of which this Privacy Policy forms part. 
+
+At FriendsReunited, we believe strongly in protecting the privacy of our users' personal information. This statement describes the privacy practices we apply for the FriendsReunited Service. As part of that, it also expresses our approach to complying with the data protection laws which apply in the United Kingdom. If we change this Privacy Policy, we will notify you of the changed document in the same way as we notify changes to the [FriendsReunited Terms and Conditions ](http://www.friendsreunited.co.uk/friendsreunited.asp?wci=terms). 
+
+If you have questions or concerns regarding this statement, you should contact FriendsReunited's [customer service department ](http://www.friendsreunited.co.uk/friendsreunited.asp?wci=contactus&email=info&subject=privacy)
+
+**1\. The information we gather and track.**
+
+  * **Information gathered on registration.** When you register for the FriendsReunited Service, you provide your name, your name on leaving school, the year you left school, your email address, and some optional notes about yourself ("Registration Information"). They are available to you, and capable of being changed, through the Your Details page. 
 
 
-This is a legal document which sets out how FriendsReunited handles data which identifies you. You should read it in conjunction with the [FriendsReunited Terms and Conditions](https://web.archive.org/web/20031207174049id_/http%3A//www.friendsreunited.co.uk/friendsreunited.asp?wci=terms), of which this Privacy Policy forms part.
-
-At FriendsReunited, we believe strongly in protecting the privacy of our users’ personal information. This statement describes the privacy practices we apply for the FriendsReunited Service. As part of that, it also expresses our approach to complying with the data protection laws which apply in the United Kingdom. If we change this Privacy Policy, we will notify you of the changed document in the same way as we notify changes to the [FriendsReunited Terms and Conditions](https://web.archive.org/web/20031207174049id_/http%3A//www.friendsreunited.co.uk/friendsreunited.asp?wci=terms).
-
-If you have questions or concerns regarding this statement, you should contact FriendsReunited's [ customer service department](https://web.archive.org/web/20031207174049id_/http%3A//www.friendsreunited.co.uk/friendsreunited.asp?wci=contactus&email=info&subject=privacy)
-
-  1. The information we gather and track.
+  * **Cookies.** We use small files known as "cookies" to enhance users' experience of the FriendsReunited Service as follows: 
 
 
-  * **Information gathered on registration.** When you register for the FriendsReunited Service, you provide your name, your name on leaving school, the year you left school, your email address, and some optional notes about yourself ("Registration Information"). They are available to you, and capable of being changed, through the Your Details page.
-
-
-  * **Cookies.** We use small files known as "cookies" to enhance users’ experience of the FriendsReunited Service as follows:
-
-
-    * To hold Members’ login information, so that your school is displayed when you visit the FriendsReunited Service. This option can be turned off by switching the "Remember Your Password" option to "No" in Your Details.
-    * To facilitate optimal use of the FriendsReunited Service by Members, by means of a temporary "session" cookie. These cookies disappear when the Member’s browser session ends, or if the Member clicks the "logoff" text which appears on the FriendsReunited Service.
-    * Third party cookies are used on some parts of the site. They are used for tracking the success of advertising campaigns. These cookies are normally permanent. Blocking of third party cookies by users will not affect the functionality of the website.  
+    * To hold Members' login information, so that your school is displayed when you visit the FriendsReunited Service. This option can be turned off by switching the "Remember Your Password" option to "No" in Your Details 
+    * To facilitate optimal use of the FriendsReunited Service by Members, by means of a temporary "session" cookie. These cookies disappear when the Member's browser session ends, or if the Member clicks the "logoff" text which appears on the FriendsReunited Service.
+    * In addition we use **RedSheriff** , an independent measurement and research company.  They use cookies and code on the site to gather **non-personal** data regarding the number and frequency of visitors to our site.  Both the cookies and the embedded code provide  **general site and not personal** statistical information about visits to pages on the site, the duration of individual page view, paths taken by visitors through the site and other general information. Friends Reunited uses this type of information to help it improve the services to its members. Further information regarding RedSheriff's privacy statement can be found at [http://www.redsheriff.com/6.0.0.htm ](http://www.redsheriff.com/6.0.0.htm).
+    * Third party cookies are used on some parts of the site. They are used for tracking the success of advertising campaigns. These cookies are normally permanent. Blocking of third party cookies by users will not affect the functionality of the website.   
 
 
 
+  2. **Sharing and use of information**
 
-**2\. Sharing and use of information**
 
   * The over-riding principles we apply are these:
 
 
-    * **We, and (where relevant) our credit card processing agents, will not supply your personal data to a third party for commercial exploitation – thus, you can rest assured that we will not sell the lists of our Members’ email addresses to a third party; and**
+    * **We, and (where relevant) our credit card processing agents, will not supply your personal data to a third party for commercial exploitation - thus, you can rest assured that we will not sell the lists of our Members' email addresses to a third party; and**
     * **the only circumstances in which we will provide any of your personal data to a third party for non-commercial purposes are those contained in this Privacy Policy.**
 
 
-  * **Registration Information.** Once a Member selects a school, some or all of the Registration Information held for that Member, except for the email address, will be available at the listing for that school.
+  * **Registration Information.** Once a Member selects a school, some or all of the Registration Information held for that Member, except for the email address, will be available at the listing for that school. 
 
 
-  * **Email addresses.** We do not directly make your email address available to anyone on any screen of the FriendsReunited Service. The only legitimate way of making contact with a friend found on the FriendsReunited Service is for a Full Member to enter a message which we will send on the Member’s behalf. The email sent will include the sending Full Member’s email address so that the recipient can respond to the sender directly. This means by sending a contact message, the sending Member is disclosing his/her email address. Members may change their email address at any time through Your Details. Members’ personal notes must **not** include their email address. If your email system automatically responds to a contact email, your email address will be revealed.
+  * **Email through the FriendsReunited Service.** We do not directly make your email address available to anyone on any screen of the FriendsReunited Service. The only legitimate way of making contact with a friend found on the FriendsReunited Service is for a Full Member to enter a message which we will send on the Member's behalf. We will notify the addressee Member, using the email address he/she has provided to us, that FriendsReunited is holding an email for him/her, and the Member can collect the email when logged in to the FriendsReunited Service. Members may check and (if required) change the email address we hold for them at any time through Your Details. Members' personal notes must **not** include their email address. Sent and received email may appear in a Member's Inbox on the FriendsReunited Service for an indefinite period - we do not delete it after any specific period. However, this does not mean that we will retain your email forever; there may come a time when we will need to delete some or all of it, for technical or other reasons. In this event, we will endeavour to give you advance warning that we are going to do so.
 
 
   * **Advertising.** The FriendsReunited Service may include interactive advertising for other businesses. We may use, and provide to third parties, anonymised demographic data provided by Members to target this advertising more appropriately.
@@ -53,7 +51,7 @@ If you have questions or concerns regarding this statement, you should contact F
   * **Newsletters.** We have regular and occasional emails, which Members can decide to take or not, according to their preferences. This option is selected through Your Details.
 
 
-  * **Credit Card information.** There has been a lot of publicity about Credit Card security on the Internet so we decided to use Worldpay plc, who operate a secure server, to process our credit card payments. They encrypt Members’ credit or debit card information and authorise payment directly. This means that Members’ credit card details are never revealed to us. Worldpay plc may transfer to, process and hold your credit card information in countries either within or outside the European Economic Area in connection with performing their duties.
+  * **Credit Card information.** There has been a lot of publicity about Credit Card security on the Internet so we decided to use Worldpay plc, who operate a secure server, to process our credit card payments. They encrypt Members' credit or debit card information and authorise payment directly. This means that Members' credit card details are never revealed to us. Worldpay plc may transfer to, process and hold your credit card information in countries either within or outside the European Economic Area in connection with performing their duties.
 
 
   * **Companies in the Friends Reunited group.** We may share data supplied by you (or collected about you) with our subsidiaries and other companies in our group, but only for the purposes described in this policy.
@@ -69,15 +67,15 @@ If you have questions or concerns regarding this statement, you should contact F
 
 
 
-We have security measures in place to protect our customer database and access to this database is restricted internally. However, it remains each Member’s responsibility:
+We have security measures in place to protect our customer database and access to this database is restricted internally. However, it remains each Member's responsibility: 
 
   * to protect against unauthorised access to Your Details;
 
 
-  * to ensure against use by anyone else of the FriendsReunited Service through the machine that Member uses while they are "logged on" to theFriendsReunited Service;
+  * to ensure against use by anyone else of the FriendsReunited Service through the machine that Member uses while they are "logged on" to the FriendsReunited Service;
 
 
-  * to log off or exit from the FriendsReunited Service when not using it; and
+  * to log off or exit from the FriendsReunited Service when not using it; and 
 
 
   * to keep his/her password secret.
@@ -86,26 +84,53 @@ We have security measures in place to protect our customer database and access t
   4. **Opt-out policy**
 
 ****
-  * You may have your registration details removed at any time. To remove yourself please click [here](https://web.archive.org/web/20031207174049id_/http%3A//www.friendsreunited.co.uk/friendsreunited.asp?wci=unregister) and we will remove all Your Details.
+  * You may have your registration details removed at any time. To remove yourself please click [here ](http://www.friendsreunited.co.uk/friendsreunited.asp?wci=unregister) and we will remove all Your Details.
 
 
-  * We provide Members with the opportunity to opt-out of receiving e-mailed Newsletters which they have previously opted to receive. This opt-out can be effected by making appropriate selections at Your Details.
+  * We provide Members with the opportunity to opt-out of receiving e-mailed Newsletters which they have previously opted to receive. This opt-out can be effected by making appropriate selections at Your Details .
 
 
   5. **Disclosure for legal reasons**
 
 
 
-We reserve the right to communicate such of a Member’s personal information as we hold to third parties which seek the disclosure of it, and which make a legally-compliant request for its disclosure.
+We reserve the right to communicate such of a Member's personal information as we hold to third parties which seek the disclosure of it, and which make a legally-compliant request for its disclosure.
 
-**6\. Contacting FriendsReunited**
+  6. **Data Retention Period.**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with FriendsReunited, you can contact us [here](https://web.archive.org/web/20031207174049id_/http%3A//www.friendsreunited.co.uk/FriendsReunited.ASP?WCI=contactus&email=info&subject=Privacy). You can also use this address if you wish to request from FriendsReunited a copy of the personal data we hold about you or a description of that data. Please note that by English law we are entitled to charge you a small sum for providing this information. 
 
-**7\. Links to third party sites**
 
-Our site contains links to other sites. FriendsReunited is not responsible for the privacy practices, or the content, of those web sites.
+We will retain your personal data only as long as is necessary for the purposes to which you consent under the [Friends Reunited Terms and Conditions](http://www.friendsreunited.co.uk/friendsreunited.asp?wci=terms) and this Privacy Policy, or as is required by applicable law, and then we will delete it. 
 
-**8\. Data Protection Information**
+  7. **Contacting FriendsReunited**
 
-You can obtain further information about data protection laws by visiting the Information Commissioner’s website at [www.dataprotection.gov.uk](http://www.dataprotection.gov.uk/). You can search for our Data Protection Notification there, should you so wish.
+
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with FriendsReunited, you can contact us [here ](https://web.archive.org/web/20040610160931id_/http%3A//www.friendsreunited.co.uk/FriendsReunited.ASP?WCI=contactus&email=info&subject=Privacy). You can also use this address if you wish to request from FriendsReunited a copy of the personal data we hold about you or a description of that data. Please note that by English law we are entitled to charge you a small sum for providing this information 
+
+  8. **Links to third party sites**
+
+
+
+Our site contains links to other sites. FriendsReunited is not responsible for the privacy practices, or the content, of those web sites 
+
+  9. **Data Protection Information**
+
+
+
+You can obtain further information about data protection laws by visiting the Information Commissioner's website at [www.dataprotection.gov.uk ](http://www.dataprotection.gov.uk/). You can search for our Data Protection Notification there, should you so wish. 
+
+  
+Start searching for your   
+relations below
+
+**What songs take you back?**  
+Were you into glam, punk, disco, rock or new wave?
+
+  
+Friends Reunited’s ‘
+
+ **The class of…** ' compilations. 19 CDs   
+to choose from - **1970 to 1989**.   
+20 great tracks on each CD.  
+[Click for tracklists](http://www.friendsreunited.co.uk/extras/index.htm)
