@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netsuite.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603022554id_/http%3A//www.netsuite.com/portal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netsuite.com privacy policy that was archived on 2004-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040803050327id_/http%3A//www.netsuite.com/portal/privacy.shtml) for the most accurate reproduction.*
 
 # NetSuite | NetSuite Software | Business Software for Growing and Mid-Sized Companies
 
