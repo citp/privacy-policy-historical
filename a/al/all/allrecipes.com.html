@@ -1,7 +1,68 @@
-<!--The following is the downloaded HTML source of the allrecipes.com privacy policy that was archived on 2002-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021205185329id_/http%3A//allrecipes.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allrecipes.com privacy policy that was archived on 2003-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030602171833id_/http%3A//allrecipes.com/privacy.asp) for the most accurate reproduction.-->
 
-<html><head>
+<html><head><script language="javascript">
+<!--
+function arAdsHandleError() {
+	return true;
+}
+
+window.onerror = arAdsHandleError;
+
+var iMaxRich = 3;
+var numServed = "";
+var iNumServed = parseInt(numServed);
+var doPop = showPopPos();
+
+function arAdsSetRichCookie(value){
+	var exp = new Date();
+	// cookie expires in one day 
+	// 24 hours in a day, 60 minutes in an hour, 60 seconds in a minute, 1000 milliseconds in a second
+	exp.setTime(exp.getTime() + 24 * 60 * 60 * 1000);
+	// fix the bug in Navigator 2.0, Macintosh
+	arAdsFixDate(exp);
+	arAdsSetCookie("richads", value, exp, "/", "allrecipes.com");
+}
+function arAdsFixDate(date) {
+  var base = new Date(0);
+  var skew = base.getTime();
+  if (skew > 0)
+    date.setTime(date.getTime() - skew);
+}
+
+function arAdsSetCookie(name, value, expires, path, domain, secure) {
+  var curCookie = name + "=" + escape(value) +
+      ((expires) ? "; expires=" + expires.toGMTString() : "") +
+      ((path) ? "; path=" + path : "") +
+      ((domain) ? "; domain=" + domain : "") +
+      ((secure) ? "; secure" : "");
+  document.cookie = curCookie;
+}
+
+function showPopPos(){
+	if (window.navigator.cookieEnabled)
+	{
+		if (isNaN(iNumServed)){
+			return true;
+		}else{
+			if (iNumServed < iMaxRich){
+				return true;
+			}else{
+				return false;
+			}
+		}
+	}else{
+		return false;
+	}
+}
+//-->
+</script>
+
+
+
+
+
+
 <meta http-equiv="expires" value="Tue, 23 Jun 1998 01:46:05 GMT">
 <meta name="recipesite" content="allrecipes">
 <meta http-equiv="PICS-Label" content="(PICS-1.1 &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true comment &quot;RSACi North America Server&quot; by &quot;thestaff@allrecipes.com&quot; for &quot;http://allrecipes.com&quot; on &quot;1998.03.04T08:11-0800&quot; r (n 0 s 0 v 0 l 0))"> 
@@ -61,35 +122,83 @@ A:hover { COLOR: #cc0000; TEXT-DECORATION: underline}
 <div align="center">
 
 <table cellspacing="0" cellpadding="0" width="80%" border="0">
-
 <tbody><tr>
-<td align="right" width="100%"><a href="http://clickserve.cc-dt.com/link/click?lid=41000000000467054 target=" _blank"=""><img src="http://clickserve.cc-dt.com/link/banner?lid=41000000000467054" border="0" alt="120x60 Fannie May Logo"></a></td>
-<td>&nbsp;&nbsp;</td>
-<td align="right"><iframe width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://oascentral.allrecipes.com/RealMedia/ads/adstream_sx.ads/allrecipes.com/catchall/118838@x01,x03,x04,x06,x10!x01"></iframe></td>
+<td align="center" colspan="3">
+<script language="JavaScript">
+<!--
+//configuration:
+OAS_url = 'http://ads.allrecipes.com/RealMedia/ads/';
+OAS_fileext = 'cgi';
+OAS_sitepage = 'allrecipes.com';
+OAS_listpos = 'x01,x04';
+if (doPop == true)
+	OAS_listpos += ',x03';
+OAS_query = '';
+OAS_target = '_top';
+//end configuration
+OAS_version = 10;
+OAS_rn = new String(Math.random()); OAS_rns = OAS_rn.substring(2, 11);
+
+
+function OAS_NORMAL(pos){
+	document.write('<A HREF="' + OAS_url + 'click_nx.' + OAS_fileext + '/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>');
+	document.write('<IMG SRC="' + OAS_url + 'adstream_nx.' + OAS_fileext + '/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" BORDER=0></A>');
+}
+//-->
+</script>
+<script language="JavaScript1.1">
+<!--
+OAS_version = 11;
+if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1)
+	OAS_version = 10;
+if (OAS_version >= 11){
+	document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.' + OAS_fileext + '/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"></script>');
+}
+//--&gt; 
+
+<script language="JavaScript">
+<!--
+document.write('');
+function OAS_AD(pos){
+	if (OAS_version >= 11)
+		OAS_RICH(pos);
+	else
+		OAS_NORMAL(pos);
+}
+//-->
+</script>
+
+
+		<script language="JavaScript">
+		<!--
+			OAS_AD('x01');
+		//-->
+		</script><a href="http://ads.allrecipes.com/RealMedia/ads/click_nx.cgi/allrecipes.com/1376935620@x01,x04,x03!x01?" target="_top"><img src="http://ads.allrecipes.com/RealMedia/ads/adstream_nx.cgi/allrecipes.com/1376935620@x01,x04,x03!x01?" border="0"></a>
+		<noscript><A HREF="http://ads.allrecipes.com/RealMedia/ads/click_nx.cgi/allrecipes.com/18463@x01,x04!x01?" TARGET="_top"><IMG SRC="http://ads.allrecipes.com/RealMedia/ads/adstream_nx.cgi/allrecipes.com/18463@x01,x04!x01?" BORDER=0></A>
+		</noscript>
+		</td>
 </tr>
-
-
-
 </tbody></table>
 <a name="top"><font style="FONT-SIZE: 5px;">&nbsp;</font></a><br>
 
 <table cellspacing="0" cellpadding="0" width="80%" border="0">
 <tbody><tr>
-<td valign="top" bgcolor="#ff6600" colspan="2"><a href="http://allrecipes.com/default.asp"><img src="http://emage.allrecipes.com/allrecipes/images/net/allrecipesmainlogo_five.gif" height="98" width="154" alt="Allrecipes Home" border="0"></a></td>
-<td valign="top" colspan="2" bgcolor="#ffcc66" width="100%"><table cellspacing="0" cellpadding="7" width="100%" bgcolor="#ff9900" border="0">
-	<tbody><tr><td width="100%"><font class="V10pt" color="#ffffff"><b><a href="http://myrecipe.allrecipes.com/default.asp" class="mnlink">Recipe&nbsp;Box</a>&nbsp;|<a href="http://allrecipes.com/cb/default.asp" class="mnlink">&nbsp;Cooking&nbsp;Basics</a>&nbsp;|<a href="http://allrecipes.com/directory/default.asp" class="mnlink">&nbsp;Recipe&nbsp;Index</a>&nbsp;|<a href="http://allrecipes.com/shop/default.asp" class="mnlink">&nbsp;Shop</a>&nbsp;|<a href="http://myrecipe.allrecipes.com/coupons/default.asp" class="mnlink">&nbsp;Coupons</a>&nbsp;|<a href="http://cbreviews.allrecipes.com/default.asp" class="mnlink">&nbsp;Cookbooks</a>&nbsp;|&nbsp;<a href="http://allrecipes.com/help/"><img src="http://emage.allrecipes.com/allrecipes/images/net/btns/help_button.gif" width="10" height="12" align="absMiddle" border="0" alt="Help?"></a></b></font><br><img height="1" src="http://emage.allrecipes.com/allrecipes/images/trans.gif" width="440"></td></tr>
+<td valign="top" bgcolor="#ff6600"><a href="http://allrecipes.com/default.asp?lnkid=18"><img src="http://emage.allrecipes.com/allrecipes/images/net/allrecipesmainlogo.gif" height="98" width="154" alt="Allrecipes Home" border="0"></a></td>
+<td valign="top" colspan="2" bgcolor="#ffcc66"><table cellspacing="0" cellpadding="7" width="100%" bgcolor="#ff9900" border="0">
+	<tbody><tr><td nowrap=""><a href="http://premium.allrecipes.com/default.asp?nplsrcid=18&amp;lnkid=19"><img height="15" src="http://emage.allrecipes.com/allrecipes/images/net/nav/nutriplanner_topnav_132x15.gif" width="132" border="0" align="absmiddle" alt="click to enter Nutri-Planner"></a><font class="V10pt" color="#ffffff">&nbsp;|&nbsp;<b><a href="http://myrecipe.allrecipes.com/default.asp?lnkid=20" class="mnlink">Recipe&nbsp;Box</a>&nbsp;|<a href="http://allrecipes.com/directory/default.asp?lnkid=21" class="mnlink">&nbsp;Recipe&nbsp;Index</a>&nbsp;|<a href="http://allrecipes.com/cb/default.asp?lnkid=22" class="mnlink">&nbsp;Cooking&nbsp;Basics</a>&nbsp;|<a href="http://allrecipes.com/shop/default.asp?lnkid=23" class="mnlink">&nbsp;Shop</a>&nbsp;|<a href="http://ecommerce.allrecipes.com/default.asp?lnkid=24" class="mnlink">&nbsp;Cookbooks</a>&nbsp;|<a href="http://myrecipe.allrecipes.com/coupons/default.asp?lnkid=25" class="mnlink">&nbsp;Coupons</a>&nbsp;|&nbsp;<a href="http://allrecipes.com/faq/default.asp?lnkid=26"><img src="http://emage.allrecipes.com/allrecipes/images/net/btns/help_button.gif" width="10" height="12" align="absMiddle" border="0" alt="Help?"></a></b></font><br><img height="1" src="http://emage.allrecipes.com/allrecipes/images/trans.gif" width="578" border="0"></td></tr>
 </tbody></table>
+
 <table cellspacing="0" cellpadding="0" width="100%" border="0">
 <tbody><tr>
 <td rowspan="2">&nbsp;&nbsp;</td>
-<td valign="top" width="100%"><a href="/default.asp"><img src="http://emage.allrecipes.com/allrecipes/images/site/sitenameheader.gif" height="38" width="250" border="0" alt=""></a><br><font class="V10pt" color="#cc0000"><b>Your home for great recipes, meal ideas and cooking advice.</b></font></td>
-<td rowspan="2"><a href="http://ecommerce.allrecipes.com/freeship.asp"><img src="http://emage.allrecipes.com/allrecipes/images/site/titlebarimage_freeship.gif" width="175" height="71" border="0"></a></td>	
+<td valign="top" width="100%"><a href="/default.asp?lnkid=166"><img src="http://emage.allrecipes.com/allrecipes/images/site/sitenameheader.gif" height="38" width="250" border="0" alt=""></a><br><font class="V10pt" color="#cc0000"><b>Your home for great recipes, meal ideas and cooking advice.</b></font></td>
+<td rowspan="2"><img src="http://emage.allrecipes.com/allrecipes/images/site/titlebarimage.gif" width="175" height="71" border="0"></td>	
 </tr>
 </tbody></table>
 </td>
 </tr>
 <tr>
-<td valign="top" bgcolor="#ffcc66" colspan="2">
+<td valign="top" bgcolor="#ffcc66">
 
 
 <table cellspacing="0" cellpadding="0" border="0">
@@ -102,12 +211,10 @@ A:hover { COLOR: #cc0000; TEXT-DECORATION: underline}
 
 <table cellspacing="0" cellpadding="0" width="100%" border="0">
 <tbody><tr>
-<td>
-<b><font class="V10" color="#CC0000">Search Allrecipes</font></b>
-</td>
+<td><b><font class="V10" color="#CC0000">Search Allrecipes</font></b><a href="http://allrecipes.com/faq/56.asp?lnkid=61"><img src="http://emage.allrecipes.com/allrecipes/images/net/btns/help_button_yelloback.gif" width="10" height="12" border="0" vspace="4" hspace="4" align="absmiddle" alt="Click here for search help..."></a></td>
 </tr>
 <tr>
-<form method="get" action="http://search.allrecipes.com/SearchResults.asp"></form><input name="site" type="hidden" value="allrecipes"><input name="allrecipes" type="hidden" value="allrecipes">
+<form method="get" action="http://search.allrecipes.com/SearchResults.asp"></form><input name="lnkid" type="hidden" value="65"><input name="site" type="hidden" value="allrecipes"><input name="allrecipes" type="hidden" value="allrecipes">
 <td valign="top" nowrap="on"><input maxlength="50" name="q1" size="14" value="">&nbsp;<input type="IMAGE" src="http://emage.allrecipes.com/allrecipes/images/net/btns/net_go.gif" height="15" width="15" value="Find it!" border="0" align="absmiddle" hspace="3" title="Search Allrecipes!" name="Search Allrecipes!"></td>
 
 </tr>
@@ -118,11 +225,11 @@ A:hover { COLOR: #cc0000; TEXT-DECORATION: underline}
 <tbody><tr>
 <td><font class="A10" color="#CC0000">Search by:</font></td>
 <td rowspan="2">&nbsp;</td>
-<td><font class="A10"><a class="lslink" href="http://search.allrecipes.com/ingredsearch.asp?site=allrecipes&amp;allrecipes=allrecipes">Ingredient</a></font></td>
+<td><font class="A10"><a class="lslink" href="http://search.allrecipes.com/ingredsearch.asp?site=allrecipes&amp;allrecipes=allrecipes&amp;lnkid=62">Ingredient</a></font></td>
 </tr>
 <tr>
-<td><font class="A10"><a class="lslink" href="http://search.allrecipes.com/subbysearch.asp?site=allrecipes&amp;allrecipes=allrecipes">Submitter</a></font></td>
-<td><font class="A10" color="#CC0000">|&nbsp;&nbsp;<a class="lslink" href="http://search.allrecipes.com/keywordsearch.asp?site=allrecipes&amp;allrecipes=allrecipes">Keyword</a></font></td>
+<td><font class="A10"><a class="lslink" href="http://search.allrecipes.com/subbysearch.asp?site=allrecipes&amp;allrecipes=allrecipes&amp;lnkid=63">Submitter</a></font></td>
+<td><font class="A10" color="#CC0000">|&nbsp;&nbsp;<a class="lslink" href="http://search.allrecipes.com/keywordsearch.asp?site=allrecipes&amp;allrecipes=allrecipes&amp;lnkid=64">Keyword</a></font></td>
 </tr>
 </tbody></table>
 
@@ -130,10 +237,40 @@ A:hover { COLOR: #cc0000; TEXT-DECORATION: underline}
 </tr>
 </tbody></table>
 		
-<div style="border-bottom-width: 2px; border-style: solid; border-color: #FF6600; width: 136; line-height: 10px; border-bottom: 2px solid #FF6600; border-top: 0 solid #ffffff; border-left: 0 solid #ffffff; border-right: 0 solid #ffffff}">&nbsp;</div>
-<font style="FONT-SIZE: 4px">&nbsp;<br></font>
-<a href="http://ecommerce.allrecipes.com/freeship.asp"><img src="http://emage.allrecipes.com/allrecipes/images/net/btns/freeship_books.gif" width="136" height="62" border="0" alt="Buy Our Books!"></a><br>
-<a href="http://myrecipe.allrecipes.com/coupons/default.asp"><img src="http://emage.allrecipes.com/allrecipes/images/net/btns/freecouponsbutton.gif" width="136" height="28" border="0" alt="Get Coupons!"></a>
+
+<div style="BORDER-RIGHT: #ffffff 0px solid; BORDER-TOP: #ffffff 0px solid; BORDER-LEFT: #ffffff 0px solid; WIDTH: 136px; LINE-HEIGHT: 10px; BORDER-BOTTOM: #ff6600 2px solid"></div>
+<font style="FONT-SIZE: 8px">&nbsp;<br></font>
+<a href="http://allrecipes.com/np/default.asp?nplsrcid=5&amp;lnkid=66"><img src="http://emage.allrecipes.com/allrecipes/images/net/nav/nutriplanner_button_137x43.gif" width="137" height="43" alt="click for a free demo" border="0"></a> 
+
+<table cellspacing="5" cellpadding="0" width="120" border="0">
+<tbody><tr> 
+<td colspan="2" valign="top"><font class="V10" color="#CC0000"><b>FREE Demo for...</b></font></td>
+</tr>
+<tr> 
+<td valign="top"><font class="V10pt" color="#ff3300">•</font></td>
+<td valign="top"><font class="V10pt"><a class="lslink" href="http://allrecipes.com/np/diabetes.asp?nplsrcid=1&amp;lnkid=67">Diabetes</a></font></td>
+</tr>
+<tr> 
+<td valign="top"><font class="V10pt" color="#ff3300">•</font></td>
+<td valign="top"><font class="V10pt"><a class="lslink" href="http://allrecipes.com/np/cancer.asp?nplsrcid=2&amp;lnkid=68">Cancer Prevention</a></font></td>
+</tr>
+<tr> 
+<td valign="top"><font class="V10pt" color="#ff3300">•</font></td>
+<td valign="top"><font class="V10pt"><a class="lslink" href="http://allrecipes.com/np/bloodpressure.asp?nplsrcid=4&amp;lnkid=69">High Blood Pressure</a></font></td>
+</tr>
+<tr> 
+<td valign="top"><font class="V10pt" color="#ff3300">•</font></td>
+<td valign="top"><font class="V10pt"><a class="lslink" href="http://allrecipes.com/np/cholesterol.asp?nplsrcid=13&amp;lnkid=70">High Cholesterol</a></font></td>
+</tr>
+<tr> 
+<td valign="top"><font class="V10pt" color="#ff3300">•</font></td>
+<td valign="top"><font class="V10pt"><a class="lslink" href="http://allrecipes.com/np/default.asp?nplsrcid=3&amp;lnkid=71">General Wellness</a></font></td>
+</tr>
+</tbody></table>
+
+<div style="BORDER-RIGHT: #ffffff 0px solid; BORDER-TOP: #ffffff 0px solid; BORDER-LEFT: #ffffff 0px solid; WIDTH: 136px; LINE-HEIGHT: 10px; BORDER-BOTTOM: #ff6600 2px solid"></div>
+<font style="FONT-SIZE: 2px">&nbsp;<br><br>
+
 
 
 <table cellspacing="0" cellpadding="0" width="100%" border="0">
@@ -148,127 +285,127 @@ A:hover { COLOR: #cc0000; TEXT-DECORATION: underline}
 													 
 
 	
-<b><font class="V13"><a class="lslink" href="http://AppetizerRecipe.com/default.asp">Appetizer</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://AppetizerRecipe.com/default.asp?lnkid=27">Appetizer</a></font></b><br>
 		
 
 	
-<b><font class="V13"><a class="lslink" href="http://SoupRecipe.com/default.asp">Soup</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://SoupRecipe.com/default.asp?lnkid=28">Soup</a></font></b><br>
 		
 
 	
-<b><font class="V13"><a class="lslink" href="http://SaladRecipe.com/default.asp">Salad</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://SaladRecipe.com/default.asp?lnkid=29">Salad</a></font></b><br>
 		
 
 	
-<b><font class="V13"><a class="lslink" href="http://MainDishrecipe.com/default.asp">Main Dish</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://MainDishrecipe.com/default.asp?lnkid=30">Main Dish</a></font></b><br>
 		
 
 	
-<b><font class="V13"><a class="lslink" href="http://SideDishrecipe.com/default.asp">Side Dish</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://SideDishrecipe.com/default.asp?lnkid=31">Side Dish</a></font></b><br>
 		
 
 	
-<b><font class="V13"><a class="lslink" href="http://BeverageRecipe.com/default.asp">Beverage</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://BeverageRecipe.com/default.asp?lnkid=32">Beverage</a></font></b><br>
 		
 
 	
-<b><font class="V13"><a class="lslink" href="http://BrunchRecipe.com/default.asp">Brunch</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://BrunchRecipe.com/default.asp?lnkid=33">Brunch</a></font></b><br>
 		
 
 <br>
 
 	
-<b><font class="V13"><a class="lslink" href="http://ChickenRecipe.com/default.asp">Chicken</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://ChickenRecipe.com/default.asp?lnkid=34">Chicken</a></font></b><br>
 		
 
 	
-<b><font class="V13"><a class="lslink" href="http://BeefRecipe.com/default.asp">Beef</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://BeefRecipe.com/default.asp?lnkid=35">Beef</a></font></b><br>
 		
 
 	
-<b><font class="V13"><a class="lslink" href="http://PorkRecipe.com/default.asp">Pork</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://PorkRecipe.com/default.asp?lnkid=36">Pork</a></font></b><br>
 		
 
 	
-<b><font class="V13"><a class="lslink" href="http://SeafoodRecipe.com/default.asp">Seafood</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://SeafoodRecipe.com/default.asp?lnkid=37">Seafood</a></font></b><br>
 		
 
 	
-<b><font class="V13"><a class="lslink" href="http://PastaRecipe.com/default.asp">Pasta</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://PastaRecipe.com/default.asp?lnkid=38">Pasta</a></font></b><br>
 		
 
 	
-<b><font class="V13"><a class="lslink" href="http://VegetarianRecipe.com/default.asp">Vegetarian</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://VegetarianRecipe.com/default.asp?lnkid=39">Vegetarian</a></font></b><br>
 		
 
 <br>
 
 	
-<b><font class="V13"><a class="lslink" href="http://QuickandEasy.Allrecipes.com/default.asp">Quick &amp; Easy</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://QuickandEasy.Allrecipes.com/default.asp?lnkid=40">Quick &amp; Easy</a></font></b><br>
 		
 
 	
-<b><font class="V13"><a class="lslink" href="http://MexicanRecipe.Allrecipes.com/default.asp">Mexican</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://MexicanRecipe.Allrecipes.com/default.asp?lnkid=41">Mexican</a></font></b><br>
 		
 
 	
-<b><font class="V13"><a class="lslink" href="http://BarbequeRecipe.com/default.asp">Barbeque</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://BarbequeRecipe.com/default.asp?lnkid=42">Barbeque</a></font></b><br>
 		
 
 	
-<b><font class="V13"><a class="lslink" href="http://KidRecipe.com/default.asp">Kids</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://KidRecipe.com/default.asp?lnkid=43">Kids</a></font></b><br>
 		
 
 <br>
 
 	
-<b><font class="V13"><a class="lslink" href="http://DessertRecipe.com/default.asp">Dessert</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://DessertRecipe.com/default.asp?lnkid=44">Dessert</a></font></b><br>
 		
 
 	
-<b><font class="V13"><a class="lslink" href="http://CookieRecipe.com/default.asp">Cookie</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://CookieRecipe.com/default.asp?lnkid=45">Cookie</a></font></b><br>
 		
 
 	
-<b><font class="V13"><a class="lslink" href="http://PieRecipe.com/default.asp">Pie</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://PieRecipe.com/default.asp?lnkid=46">Pie</a></font></b><br>
 		
 
 	
-<b><font class="V13"><a class="lslink" href="http://CakeRecipe.com/default.asp">Cake</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://CakeRecipe.com/default.asp?lnkid=47">Cake</a></font></b><br>
 		
 
 	
-<b><font class="V13"><a class="lslink" href="http://BreadRecipe.com/default.asp">Bread</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://BreadRecipe.com/default.asp?lnkid=48">Bread</a></font></b><br>
 		
 
 <br>
 
 	
-<b><font class="V13"><a class="lslink" href="http://HolidayRecipe.com/default.asp">Holiday</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://HolidayRecipe.com/default.asp?lnkid=49">Holiday</a></font></b><br>
 		
 
 	
-<b><font class="V13"><a class="lslink" href="http://ThanksgivingRecipe.com/default.asp">Thanksgiving</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://ThanksgivingRecipe.com/default.asp?lnkid=50">Thanksgiving</a></font></b><br>
 		
 
 	
-<b><font class="V13"><a class="lslink" href="http://ChristmasRecipe.com/default.asp">Christmas</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://ChristmasRecipe.com/default.asp?lnkid=51">Christmas</a></font></b><br>
 		
 
 <br>
 
 	
-<b><font class="V13"><a class="lslink" href="http://BestBrand.Allrecipes.com/default.asp">Best Brands</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://BestBrand.Allrecipes.com/default.asp?lnkid=52">Best Brands</a></font></b><br>
 		
 
-		<font class="V10"><a class="lslink" href="http://hersheys.allrecipes.com/default.asp">Hershey's</a><br></font><font class="V4">&nbsp;<br>
+		<font class="V10"><a class="lslink" href="http://hersheys.allrecipes.com/default.asp?lnkid=53">Hershey's</a></font><br>
 
-		<font class="V10"><a class="lslink" href="http://nestle.allrecipes.com/default.asp">Nestlé</a><br></font><font class="V4">&nbsp;<br>
+		<font class="V10"><a class="lslink" href="http://Bestbrand.allrecipes.com/weightwatchers/default.asp?lnkid=54">Weight Watchers</a></font><br>
 
 <font class="A10">&nbsp;</font><br>	
 		
-<font class="V10"><a class="lslink" href="http://bestbrand.allrecipes.com/">&gt;<b> More...</b></a></font>
-</font></font></td>
+<font class="V10"><a class="lslink" href="http://bestbrand.allrecipes.com/default.asp?lnkid=55">&gt;<b> More...</b></a></font>
+</td>
 </tr>
 	
 	
@@ -276,7 +413,7 @@ A:hover { COLOR: #cc0000; TEXT-DECORATION: underline}
 
 <tr>
 <td>
-<font class="V13"><b><a class="lslink" href="http://ecommerce.allrecipes.com/quicksmart/home.asp">Premium Quick·Smart™</a></b></font><br><font class="V10"><a class="lslink" href="http://clfivestar.allrecipes.com/default.asp">Cooking Light<br>Five-Star</a><br><font class="V4">&nbsp;<br></font><a class="lslink" href="http://cldia.allrecipes.com/default.asp">Delicious Ways to Control Diabetes</a><br><font class="V4">&nbsp;<br></font><a class="lslink" href="http://lowcarb.allrecipes.com/default.asp">Lauri's Low-Carb</a><br><font class="V4">&nbsp;<br></font><a class="lslink" href="http://tohfff.allrecipes.com/default.asp">Taste of Home Fast Family Favorites</a></font><br></td>
+<font class="V13"><b><a class="lslink" href="http://ecommerce.allrecipes.com/quicksmart/home.asp?lnkid=56">Premium Quick·Smart™</a></b></font><br><font class="V10"><a class="lslink" href="http://clfivestar.allrecipes.com/default.asp?lnkid=57">Cooking Light<br>Five-Star</a><br><font class="V4">&nbsp;<br></font><a class="lslink" href="http://cldia.allrecipes.com/default.asp?lnkid=58">Delicious Ways to Control Diabetes</a><br><font class="V4">&nbsp;<br></font><a class="lslink" href="http://lowcarb.allrecipes.com/default.asp?lnkid=59">Lauri's Low-Carb</a><br><font class="V4">&nbsp;<br></font><a class="lslink" href="http://tohfff.allrecipes.com/default.asp?lnkid=60">Taste of Home Fast Family Favorites</a></font><br></td>
 </tr>
 
 
@@ -285,6 +422,7 @@ A:hover { COLOR: #cc0000; TEXT-DECORATION: underline}
 </td>
 </tr>
 </tbody></table>
+
 <table cellspacing="0" cellpadding="0" width="100%" border="0">
 <tbody><tr>
 <td>
@@ -293,17 +431,9 @@ A:hover { COLOR: #cc0000; TEXT-DECORATION: underline}
 <tbody><tr><td valign="top">
 <font class="V10" color="#CC0000"><b>Help</b>
 <font class="V10"><br>
-<a class="lslink" href="http://allrecipes.com/cb/ref/faq.asp">FAQ's</a><br>
-<a class="lslink" href="http://allrecipes.com/help/search.asp">Finding Recipes</a><br>
-<a class="lslink" href="http://myrecipe.allrecipes.com/help/shopping.asp">Shopping List</a><br>
-<p>
-<font class="V10" color="#CC0000"><b>Comments &amp; Questions</b>
-<font class="V10"><br>
-<a class="lslink" href="http://allrecipes.com/press/corpinfo.asp">About Us</a><br>
-<a class="lslink" href="http://allrecipes.com/media/intro.asp">Advertising</a><br>
-<a class="lslink" href="http://allrecipes.com/joincj.asp">Affiliates</a><br>
-<a class="lslink" href="http://allrecipes.com/press/contact.asp">Contact Us</a><br>
-<a class="lslink" href="http://allrecipes.com/press/jobs.asp">Jobs</a><br></font></font></p></font></font></td>
+<a class="lslink" href="http://allrecipes.com/faq/default.asp?lnkid=72">FAQ's</a><br>
+<a class="lslink" href="http://allrecipes.com/faq/56.asp?lnkid=73">Finding Recipes</a><br>
+<a class="lslink" href="http://myrecipe.allrecipes.com/help/shopping.asp?lnkid=74">Shopping List</a><br></font></font></td>
 
 </tr>
 </tbody></table>
@@ -312,7 +442,7 @@ A:hover { COLOR: #cc0000; TEXT-DECORATION: underline}
 </tr>
 </tbody></table>
 
-</td>
+</font></td>
 <td><font class="F10">&nbsp;&nbsp;&nbsp;</font></td>
 </tr>
 <tr>
@@ -730,25 +860,32 @@ Fax: (206) 292-1793</p><p><br>
 <td valign="top">
 
 
-<img height="1" width="1" src="http://emage.allrecipes.com/allrecipes/images/trans.gif" border="0">
-
+<table cellspacing="2" cellpadding="8" border="0">
+<tbody><tr>
+<td>&nbsp;</td>
+</tr>
+</tbody></table>
+<!--
+<IMG height="1" width="1" src="http://emage.allrecipes.com/allrecipes/images/trans.gif" border="0">
+-->
 </td>
+
 </tr>
 <tr>
-<td valign="bottom" bgcolor="#ffcc66" colspan="2"><img height="8" src="http://emage.allrecipes.com/allrecipes/images/net/nav/white_BLcorner_8x8.gif" width="8"></td>
-<td>
+<td valign="bottom" bgcolor="#ffcc66"><img height="8" src="http://emage.allrecipes.com/allrecipes/images/net/nav/white_BLcorner_8x8.gif" width="8" border="0"></td>
+<td colspan="2">
 
-<table cellspacing="0" cellpadding="0" border="0">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tbody><tr>
-<td colspan="2"><img height="1" width="440" src="http://emage.allrecipes.com/allrecipes/images/trans.gif" border="0"><font class="V10pt">&nbsp;</font></td>
+<td width="1%">&nbsp;&nbsp;</td>
+<td height="36"><div class="rule">&nbsp;</div>
+<font style="FONT-SIZE: 2px;">&nbsp;</font><br>
+<font class="V10" color="#333333"><a class="wnlink" href="http://allrecipes.com/press/corpinfo.asp">About Us</a> <font class="wslink">|</font>&nbsp;<a class="wnlink" href="http://allrecipes.com/media/intro.asp">Advertising</a><font class="wslink"> |</font>&nbsp;<a class="wnlink" href="http://allrecipes.com/commissionjunction.asp">Affiliates</a><font class="wslink"> |</font>&nbsp;<a class="wnlink" href="http://allrecipes.com/press/contact.asp">Contact Us</a><font class="wslink"> |</font>&nbsp;<a class="wnlink" href="http://allrecipes.com/press/jobs.asp">Jobs</a></font>
+</td>				
 </tr>
 <tr>
 <td><font class="F10">&nbsp;&nbsp;&nbsp;</font></td>
-<td><font class="V10">ALL RIGHTS RESERVED Copyright 2002 Allrecipes.com &nbsp;&nbsp;&nbsp; Please&nbsp;review&nbsp;our&nbsp;<a href="http://allrecipes.com/legal.asp" class="wnlink">Legal&nbsp;Notice&nbsp;</a>and&nbsp;<a href="http://allrecipes.com/privacy.asp" class="wnlink">Privacy&nbsp;Policy</a>.</font></td>
-</tr>
-<tr>
-
-<td colspan="2"><img height="1" width="1" src="http://emage.allrecipes.com/allrecipes/images/trans.gif" border="0"></td>
+<td><font class="V10">ALL RIGHTS RESERVED Copyright 2003 Allrecipes.com &nbsp;&nbsp;&nbsp; <br>Please&nbsp;review&nbsp;our&nbsp;<a href="http://allrecipes.com/legal.asp" class="wnlink">Legal&nbsp;Notice&nbsp;</a>and&nbsp;<a href="http://allrecipes.com/privacy.asp" class="wnlink">Privacy&nbsp;Policy</a>.</font></td>
 </tr>
 </tbody></table>
 
@@ -757,6 +894,22 @@ Fax: (206) 292-1793</p><p><br>
 </tbody></table>
 
 </div>
-<script language="JavaScript">var specpoprandom = Math.floor(Math.random() * 1000000000); cdate = new Date(); document.write('<iframe src="http://ads.specificpop.com/code?pid=114&gid=17&rid=' + specpoprandom + '&dom=' + cdate.getDate() + '&dow=' + cdate.getDay() + '&hod=' + cdate.getHours() + '" frameborder="0" vspace="0" hspace="0" width="0" height="0" marginwidth="0" marginheight="0" scrolling="no">'); document.write('</iframe>'); </script><iframe src="http://ads.specificpop.com/code?pid=114&amp;gid=17&amp;rid=512415494&amp;dom=31&amp;dow=5&amp;hod=9" frameborder="0" vspace="0" hspace="0" width="0" height="0" marginwidth="0" marginheight="0" scrolling="no"></iframe><noscript><iframe src="http://ads.specificpop.com/code?pid=114&gid=17" frameborder="0" vspace="0" hspace="0" width="0" height="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></noscript>
+
+<script language="javascript">
+<!--
+	if (doPop == true){
+		if (isNaN(iNumServed)){
+			//set cookie to 1 and serve
+			arAdsSetRichCookie(1);
+		}else{
+			//increment iNumServed by one, reset cookie, serve
+			arAdsSetRichCookie(iNumServed + 1);
+		}
+		OAS_AD('x03');
+	}
+//-->
+</script><a href="http://ads.allrecipes.com/RealMedia/ads/click_nx.cgi/allrecipes.com/1376935620@x01,x04,x03!x03?" target="_top"><img src="http://ads.allrecipes.com/RealMedia/ads/adstream_nx.cgi/allrecipes.com/1376935620@x01,x04,x03!x03?" border="0"></a>
+	
+
 
 </body></html>
