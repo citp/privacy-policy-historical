@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pull-ups.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210083356id_/http%3A//www.pull-ups.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pull-ups.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618082231id_/http%3A//www.pull-ups.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-| [](https://web.archive.org/web/20021210083356id_/http%3A//images/spacer35.gif) | This web site is owned and operated by Kimberly-Clark Corporation. Here at Kimberly-Clark, we recognize that many visitors to our site are concerned about the information they provide and how we treat that information. Our Privacy Policy addresses those concerns. We may update the Policy from time to time, so please check in occasionally. Regulations enacted in April 2000 under the U.S. Children's Online Privacy Protection Act give children under 13 years of age greater privacy protection online. Please see our policy under "Children" below. 
+| [](https://web.archive.org/web/20030618082231id_/http%3A//images/spacer35.gif) | This web site is owned and operated by Kimberly-Clark Corporation. Here at Kimberly-Clark, we recognize that many visitors to our site are concerned about the information they provide and how we treat that information. Our Privacy Policy addresses those concerns. We may update the Policy from time to time, so please check in occasionally. Regulations enacted in April 2000 under the U.S. Children's Online Privacy Protection Act give children under 13 years of age greater privacy protection online. Please see our policy under "Children" below. 
 
 Our Policy 
 
