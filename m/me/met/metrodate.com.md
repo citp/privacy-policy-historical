@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the metrodate.com privacy policy that was archived on 2003-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031004164602id_/http%3A//www.metrodate.com/articles/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrodate.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630040725id_/http%3A//www.metrodate.com/articles/privacypolicy.asp) for the most accurate reproduction.*
 
-# Metrodate.com - aboutus
+# aboutus - Metrodate.com
 
-  
 Privacy Statement for Metrodate.com
 
 ## Privacy Statement for Metrodate.com
@@ -53,7 +52,7 @@ We also log various events such as each time a user logs in and performs certain
 
 ## Disclosure of Private Information to Government Authorities
 
-Under various circumstances, it may be Metrodate.com may be necessary for Metrodate.com to disclose private information about our members to government agencies such as law enforcement. In addition, we may report Metrodate users to the authorities in the case of legal wrongdoing, such as attempting to use a stolen credit card. 
+Under various circumstances, it may be necessary for Metrodate.com to disclose private information about our members to government agencies such as law enforcement. In addition, we may report Metrodate users to the authorities in the case of legal wrongdoing, such as attempting to use a stolen credit card. 
 
 ## Security Measures
 
@@ -70,4 +69,5 @@ If you have any questions about this privacy statement or the practices of this 
 Metrodate.com  
 2300 Computer Ave, Box J-52  
 Willow Grove, PA 19090-1742  
-[Click here](https://web.archive.org/asp/help.asp) to contact us online
+[Click here](https://web.archive.org/asp/help.asp) to contact us online  
+
