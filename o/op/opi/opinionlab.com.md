@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opinionlab.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603122548id_/http%3A//opinionlab.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opinionlab.com privacy policy that was archived on 2002-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021102235654id_/http%3A//www.opinionlab.com/privacy.asp) for the most accurate reproduction.*
 
 # OpinionLab: Optimize user experience and track user satisfaction using our OnlineOpinion feedback system
 
