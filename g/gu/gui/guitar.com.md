@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the guitar.com privacy policy that was archived on 2000-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000618190415id_/http%3A//guitar.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitar.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206224800id_/http%3A//www.guitar.com/privacy.asp) for the most accurate reproduction.*
 
 # Guitar.com - Your guitar guide!
 
-**Privacy Statement for Guitar.com**
+**Privacy Statement for Guitar.com** Please also read the 24/7 Media privacy policy at <http://www.247media.com/privacy.html> for relevant advertiser privacy issues.
 
 Guitar.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for Guitar.com. We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information. 
 
