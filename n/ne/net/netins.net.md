@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the netins.net privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618184150id_/http%3A//netins.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netins.net privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202201705id_/http%3A//www.netins.net/privacy.htm) for the most accurate reproduction.*
 
-# netINS, Inc. Privacy Policy - December 2001
+# netINS Privacy Policy
 
 **netINS, Inc. Privacy Policy - December 2001**
 
@@ -10,9 +10,6 @@ This Privacy Policy is a demonstration of our commitment to making the Internet 
 
 **Registration  
 **When registering for service with netINS directly or through one of our Member Independent Telephone Companies (ITCs) we gather certain information of a personal nature. This information could include your Name, Organization, Address, Home Telephone, Work Telephone, Credit Card Information, and Mother’s Maiden Name. We DO NOT share this information with ANY third parties.
-
-**Online Advertisements  
-**The netINS home page displays advertisements that supplement the use of the Looksmart portal tools including the search engine and online resources listed on [http://www.netINS.net](http://netins.net/). Looksmart has it’s own Privacy policy information listed at [http://aboutus.looksmart.com/corp.jhtml?page=privacy](http://aboutus.looksmart.com/corp.jhtml?page=privacy), please review this information for any content provided by Looksmart.
 
 **Email  
 **Your email address is not a commodity to netINS. At no time and for no reason will netINS ever share your email address with any third party. When necessary netINS will send system maintenance notification to your email address to warn you of planned service disruptions. NetINS will not solicit services to you through your email address at any time. 
