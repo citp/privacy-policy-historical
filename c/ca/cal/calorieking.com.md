@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the calorieking.com privacy policy that was archived on 2004-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040202091825id_/http%3A//www.calorieking.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calorieking.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209035246id_/http%3A//www.calorieking.com/privacy) for the most accurate reproduction.*
 
-# CalorieKing.com - Privacy Policy
+# Privacy Policy
 
 [Home](https://web.archive.org/) » Privacy Policy 
 
