@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldsoccershop.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211152519id_/http%3A//www.worldsoccershop.com/more_info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldsoccershop.com privacy policy that was archived on 2003-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030626175245id_/http%3A//www.worldsoccershop.com/more_info/privacy.asp) for the most accurate reproduction.*
 
 # WorldSoccerShop - Official Soccer T-Shirts, Jerseys & Soccer Leisurewear from the WorldSoccerShop.com
 
