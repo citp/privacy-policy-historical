@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casalemedia.com privacy policy that was archived on 2004-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040616184254id_/http%3A//www.casalemedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casalemedia.com privacy policy that was archived on 2004-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041217093233id_/http%3A//casalemedia.com/privacy.html) for the most accurate reproduction.*
 
 # CasaleMedia.com > Our Company > Privacy Policy
 
