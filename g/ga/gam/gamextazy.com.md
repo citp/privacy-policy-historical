@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamextazy.com privacy policy that was archived on 2002-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020608203423id_/http%3A//www.gamextazy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamextazy.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207090617id_/http%3A//www.gamextazy.com/privacy.php) for the most accurate reproduction.*
 
 # FREE DOWNLOADS ARCHIVE - Free games downloads, shareware, freeware and evaluation games
 
