@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebestdesigns.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201181105id_/http%3A//thebestdesigns.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebestdesigns.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609151852id_/http%3A//www.thebestdesigns.com/privacy.shtml) for the most accurate reproduction.*
 
 # thebestdesigns.com - the best of web design - [The Best Designs]
 
@@ -31,4 +31,4 @@ info@thebestdesigns.com
 Effective Date: 05/01/2001 
 
   
-Partner Sites: [AceHosts.com](http://www.acehosts.com/) | [eDezines.com](http://www.edezines.com/) | [AlteredPixel](http://www.alteredpixel.com/)
+Partner Sites: [AceHosts.com](http://www.acehosts.com/) | [eDezines.com](http://www.edezines.com/)
