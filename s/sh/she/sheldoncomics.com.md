@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sheldoncomics.com privacy policy that was archived on 2002-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020624000719id_/http%3A//sheldoncomics.com/uminfo/um_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheldoncomics.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207205947id_/http%3A//www.sheldoncomics.com/uminfo/um_privacy_policy.html) for the most accurate reproduction.*
 
 # Comics.com Privacy Policy
 
