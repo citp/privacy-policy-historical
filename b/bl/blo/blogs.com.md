@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the blogs.com privacy policy that was archived on 2003-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030825213232id_/http%3A//www.blogs.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogs.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605204217id_/http%3A//www.typepad.com/site/privacy.html) for the most accurate reproduction.*
 
-# TypePad
-
-[](http://www.typepad.com/)
-
-TypePad is the simplest and most powerful service for publishing full featured weblogs and photo albums. Your weblog is your place on the Internet to share your ideas, for your friends and family to find out what's new in your life, and for the chance to be part of an influential new medium. Just sign up and you'll be publishing your thoughts on the web in minutes. 
-
-### Six Apart Privacy Policy
+# TypePad: Privacy Policy
 
 ## SIX APART PRIVACY POLICY
 
@@ -94,4 +88,4 @@ Confidentiality and Security
 
 
 
-Copyright © 2003 Six Apart Inc. All rights reserved. 
+Copyright © 2003-2004 Six Apart Inc. All rights reserved. 
