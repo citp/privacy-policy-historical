@@ -1,29 +1,6 @@
-> *The following text is extracted and transformed from the zdnet.com.au privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218000149id_/http%3A//www.zdnet.com.au/services/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zdnet.com.au privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609141436id_/http%3A//www.zdnet.com.au/services/privacy.htm) for the most accurate reproduction.*
 
 # ZDNet Australia: Services
-
-[ ](http://ad.au.doubleclick.net/jump/N733.ZDNet.com/B47699;sz=275x20)
-
-[ ](http://ad.au.doubleclick.net/jump/N733.ZDNet.com/B47699;sz=275x20)
-
-[](http://chkpt.zdnet.com/chkpt/audelldd/http://www.zdnet.com.au/shopping/promos/dell)
-
-[ ](http://ad.au.doubleclick.net/jump/N733.ZDNet.com/B47699;sz=275x20)
-
-[](http://ad.au.doubleclick.net/jump/N733.ZDNet.com/B47699;sz=275x20)
-
-[ ](http://ad.au.doubleclick.net/jump/N733.ZDNet.com/B47699;sz=275x20)
-
-[ ](http://ad.au.doubleclick.net/jump/N733.ZDNet.com/B47699;sz=275x20)
-
-[ ](http://ad.au.doubleclick.net/jump/N733.ZDNet.com/B47699;sz=275x20)
-
-[ ](http://ad.au.doubleclick.net/jump/N733.ZDNet.com/B47699;sz=275x20)
-
-|  |   
----|---  
-|   
-|  |  |  | 
 
 **ZDNet Australia Security & Privacy Statement**
 
@@ -46,13 +23,4 @@ The data we collect from cookies is used only in the aggregate to give us demogr
 
 ZDNet Australia uses reasonable precautions to keep the personal information disclosed to us secure. However, we are not responsible for any breach of security. ZDNet also links to a wide variety of other sites. We are not responsible for their privacy policies or how they treat information about their users.
 
-To return to the Site, please use the "Back" button on your browser.  
-  
----|---|---|---  
-   
-  
----  
-   
-Copyright © 2001 CNET Networks, Inc. All rights reserved. ZDNet is a registered service mark of CNET Networks, Inc. ZDNet Logo is service mark of CNET Networks, Inc.  
-   
-
+To return to the Site, please use the "Back" button on your browser.
