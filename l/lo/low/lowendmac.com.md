@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203042124id_/http%3A//lowendmac.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602204403id_/http%3A//www.lowendmac.com/privacy.html) for the most accurate reproduction.*
 
 # Low End Mac Privacy Policy
 
@@ -27,7 +27,25 @@ We do not use any type of cookies on Low End Mac, although BackBeat Media (which
 
 * * *
 
-Entire [Low End Mac](https://web.archive.org/index.shtml) site copyright ©1997-2003 by [Cobweb Publishing, Inc.](http://cobwebpublishing.com/), unless otherwise noted. All rights reserved.  
+| 
+
+### LowEndMac Reader Specials  
+  
+---  
+  
+[**4 All Memory:**](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/793/clickHTML?ajkey=7C1AD6FED8162D25D1EDEEB000001A1600001A1D00000CEA00001B6AFFFFFF91FFFFFF91FFFFFFFFDFBB0A78) Computer running slow? Speed it up with more RAM memory! We have great Mac memory, guaranteed compatibility, and FREE SHIPPING! Buy RAM at 4AllMemory.com today!
+
+[ **Memory To Go Special:**](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/218/clickHTML?ajkey=58071E01D8162D25D1EDEEB000000A3A000019D400000CEB00001B6AFFFFFF91FFFFFF91FFFFFFFFD6BD64CE) PBook G4/iBook G4: 512mb $101,1GB $349 | G5: 1gb kit $190, 2gb kit $450 | G4 PC133: 512mb $93 256mb $55 | Flat Imac/ Titanium: 512mb $105 | 256mb $55 2.5” DRIVES 40gb $112, 60gb $159 | 3.5” IDE DRIVES 120gb $97, 160gb $115 [$2.00 off shipping when you mention this site by name.](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/218/clickHTML?ajkey=58071E01D8162D25D1EDEEB000000A3A000019D400000CEB00001B6AFFFFFF91FFFFFF91FFFFFFFFD6BD64CE)
+
+[ **Download Typestyler,**](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/943/clickHTML?ajkey=71293275D8162D25D1EDEEB000001BAC00001B2200001A5700001B6AFFFFFF91FFFFFF91FFFFFFFFDCF7F7BF) still the Ultimate Styling Tool for Internet, Print and Video Graphics. Works great in Classic with a Native OS X Version on the way. [Free Tryout: www.typestyler.com](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/943/clickHTML?ajkey=71293275D8162D25D1EDEEB000001BAC00001B2200001A5700001B6AFFFFFF91FFFFFF91FFFFFFFFDCF7F7BF)
+
+ **[PowerMax:](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/466/clickHTML?ajkey=3C9ACBFAD8162D25D1EDEEB000001FA700001EA600001A5800001B6AFFFFFF91FFFFFF91FFFFFFFFCF9B6543)** Get into a 12-inch PowerBook for minimal coin! We're offering the Apple G4/867-MHz 'Mini' PowerBook with 256MB RAM, 40GB hard drive, SuperDrive and built-in 56k modem for just $1288! [Click or call 800-769-9065 today!](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/466/clickHTML?ajkey=3C9ACBFAD8162D25D1EDEEB000001FA700001EA600001A5800001B6AFFFFFF91FFFFFF91FFFFFFFFCF9B6543)
+
+[ **Other World Computing:**](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/449/clickHTML?ajkey=DFDDA1E2D8162D25D1EDEEB00000028000001EC400001EC700001B6AFFFFFF91FFFFFF91FFFFFFFF374B6A3A) Warning!!!! Running on Reserve Power..... Go longer without plugging in With NewerTech PowerBook Batteries providing up to 37.5% MORE Capacity!  
+  
+[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/398/clickHTML?ajkey=3F99E0DCD8162D25D1EDEEB000001EB800001EB40000010D00001B68FFFFFF91FFFFFF91FFFFFFFFCF5BA5BD)
+
+Entire [Low End Mac](https://web.archive.org/index.shtml) site copyright ©1997-2004 by [Cobweb Publishing, Inc.](http://cobwebpublishing.com/), unless otherwise noted. All rights reserved.  
   Advice presented in good faith, but what works for one may not work for all.  
   Please report errors to [the webmaster](mailto:webmaster@lowendmac.com).  
   Email sent may be published at our discretion. Email addresses will not be published unless requested. If you prefer that your message not be published, mark it "not for publication." Letters may be edited for length, context, and to match [house style](https://web.archive.org/styleguide/index.shtml).  
@@ -41,28 +59,25 @@ Entire [Low End Mac](https://web.archive.org/index.shtml) site copyright ©1997-
   
 [](http://leader.linkexchange.com/X1576050/clicklogo)  
 
-| 
 
-[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/903/clickHTML?ajkey=7BDDB05BD8162D33D1EDEEAF000017B0000018D3000003BD00001B6BFFFFFF91FFFFFF91FFFFFFFFDE4A1043)
+[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/574/clickHTML?ajkey=F09810DED8162D25D1EDEEB000001749000018D3000003BD00001B6BFFFFFF91FFFFFF91FFFFFFFF3C9B7726)
 
-[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/821/clickHTML?ajkey=68410A2FD8162D33D1EDEEAF0000195A00001C99000003BE00001B6BFFFFFF91FFFFFF91FFFFFFFFDAADF22D)
+[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/287/clickHTML?ajkey=FDAE7517D8162D25D1EDEEB000001FC900001C99000003BE00001B6BFFFFFF91FFFFFF91FFFFFFFF3FD64407)
 
-[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/212/clickHTML?ajkey=6D514B5DD8162D33D1EDEEAF00001D1A00001BD70000048C00001B6BFFFFFF91FFFFFF91FFFFFFFFDBE99B33)
+[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/224/clickHTML?ajkey=4EF7AD84D8162D25D1EDEEB000001D8500001D8A00001B1C00001B6BFFFFFF91FFFFFF91FFFFFFFFD30006D9)
 
-[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/688/clickHTML?ajkey=843A8CB4D8162D33D1EDEEAF00001D8900001D8A00001B1C00001B6BFFFFFF91FFFFFF91FFFFFFFF21B34E81)
+[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/639/clickHTML?ajkey=D6998D32D8162D25D1EDEEB000001AB300001AA70000048D00001B65FFFFFF91FFFFFF91FFFFFFFF351BDB63)
 
-[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/327/clickHTML?ajkey=C21654FBD8162D33D1EDEEAF00001E3500001DEF00001D1900001B6BFFFFFF91FFFFFF91FFFFFFFF3038467F)
+[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/414/clickHTML?ajkey=2D3B0FDFD8162D25D1EDEEB000001E5000001B1800001D1900001B6BFFFFFF91FFFFFF91FFFFFFFFCBF3218A)
 
-[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/497/clickHTML?ajkey=D090F985D8162D33D1EDEEAF0000161B00001B1800001D8E00001B6BFFFFFF91FFFFFF91FFFFFFFF349958EF)
-
-[**Read LEM ad-free**](https://web.archive.org/subscriptions/index.shtml)
+[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/595/clickHTML?ajkey=FEA3148DD8162D25D1EDEEB000001F3B00001F1800001D8E00001B6BFFFFFF91FFFFFF91000441B4C0EEAF32)
 
 **Mac of the Day**  
- [Macintosh 512K](https://web.archive.org/compact/512k.shtml) **  
+ [Mac II](https://web.archive.org/ii/ii.shtml) **  
 List of the Day**  
- [MacCube](http://www.themacintoshguy.com/lists/MacCube.html) **  
+ [MacVoice](http://www.themacintoshguy.com/lists/MacVoiceFAQ.html) **  
 Book of the Day**  
- [The Mac is Not a Typewriter](http://www.amazon.com/exec/obidos/ASIN/0938151312/lowendmac)  
+ [The Little iMac Book, 2d ed](http://www.amazon.com/exec/obidos/ASIN/0201704463/lowendmac)  
 
 
  **Channels**  
