@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the certainteed.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605190307id_/http%3A//certainteed.com/certainteed/corporate/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the certainteed.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208230626id_/http%3A//certainteed.com/certainteed/corporate/privacy.htm) for the most accurate reproduction.*
 
 # 
 
