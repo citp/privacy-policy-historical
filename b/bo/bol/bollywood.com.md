@@ -1,60 +1,121 @@
-> *The following text is extracted and transformed from the bollywood.com privacy policy that was archived on 2002-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020207012429id_/http%3A//www.bollywood.com/content/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywood.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622020852id_/http%3A//www.yahoo.com/_ylh%3DX3oDMTB1c2ZmZzF2BF9TAzI3MTYxNDkEdGVzdAMwBHRtcGwDbnMtYmV0YQ--/r/pv) for the most accurate reproduction.*
 
-# Bollywood.com Forums - Privacy Notice
+# Yahoo! Privacy
 
-**Privacy Statement & Terms of Service**
+| **More about Yahoo! Privacy**  
+---  
+|  We have detailed reference links describing our privacy practices for a wide range of Yahoo! products and services.   
+[Find them here](https://web.archive.org/privacy/us/all.html).   
+**Assistance**  
+· | [Printer-friendly format](https://web.archive.org/privacy/us/print.html)  
+· | [Help](http://help.yahoo.com/help/us/privacy/)  
+· | [Contact us](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback)  
+· | [Edit Account Information](http://edit.yahoo.com/config/eval_profile?.src=&.done=privacy.yahoo.com/privacy/us/)  
+· | [Marketing Preferences](http://subscribe.yahoo.com/showaccount)  
+**Special Topics**  
+· | [Security at Yahoo!](https://web.archive.org/privacy/us/security/details.html)  
+· | [Cookies](https://web.archive.org/privacy/us/cookies/details.html)  
+· | [Third Party Ad Servers](https://web.archive.org/privacy/us/adservers/details.html)  
+· | [more...](https://web.archive.org/privacy/us/all.html)  
+**Privacy Links**  
+· | [Full Coverage: Privacy](http://fullcoverage.yahoo.com/Full_Coverage/Tech/Internet_Privacy)  
+· | [Yahoo! Category: Privacy](http://dir.yahoo.com/Computers_and_Internet/Internet/Issues/Privacy/)  
+· | [Yahoo! Search: Privacy](http://search.yahoo.com/bin/search?p=privacy)  
+· | [Yahoo! Category: Security](http://dir.yahoo.com/Computers_and_Internet/Security_and_Encryption/)  
+· | [Federal Trade Commission](http://www.ftc.gov/)  
+  
+* * *  
+  
+  | 
 
-**Terms of Service**
+[](https://www.truste.org/ivalidate.php?url=www.yahoo.com) Yahoo! takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
-Registered and New users: Please read this notice before using our site. By using the site, you agree to abide by these [Terms of Service](http://www.bollywood.com/content/tos.html) . Please do not use our site if you do not agree with the [Terms of Service](http://www.bollywood.com/content/tos.html). We reserve the right to modify the Terms of Service at our sole discretion, and by using this site, you agree to be bound by the modifications or updates to the [Terms of Service](http://www.bollywood.com/content/tos.html) .
+**NOTICE:[Click here](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm) for important information about safe surfing from the Federal Trade Commission. **
 
-If you are aged 13 and under, click here for rules applicable to you. 
+**What This Privacy Policy Covers**  
 
-**Privacy Notice**
 
-To keep you informed, we have created this privacy statement that discloses our purposes and methods for online collection and use of information. This statement applies to all information collected through our website and information gathered from any web pages that we host.
+  * This policy covers how Yahoo! treats personal information that Yahoo! collects and receives, including information related to your past use of Yahoo! products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
+  * This policy does not apply to the practices of companies that Yahoo! does not own or control, or to people that Yahoo! does not employ or manage. In addition, certain Yahoo! associated companies such as [Inktomi](http://www.inktomi.com/info/privacy.html), [Overture](http://www.content.overture.com/d/USm/about/company/privacypolicy.jhtml), and [Altavista](http://www.altavista.com/web/legal/privacy) have their own privacy statements which can be viewed by clicking on the links. 
 
-**Types of Information Collected**
+**Information Collection and Use**
 
-Generally, personal information is not collected from visitors to this website. However, in order to access certain special services, personal information is requested; those cases are described in more detail below.
+      **General**  
 
-_Bulletin Board Registration_
 
-Update February 5, 2002: Registration for new users is currently disabled as we are updating software.
+  * Yahoo! collects personal information when you register with Yahoo!, when you use [Yahoo! products or services](https://web.archive.org/privacy/us/all.html), when you visit Yahoo! pages or the pages of certain Yahoo! partners, and when you enter [promotions or sweepstakes](https://web.archive.org/privacy/us/promo/details.html). Yahoo! may combine information about you that we have with information we obtain from business partners or other companies. 
+  * When you register we ask for information such as your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. For some financial products and services we may also ask for your address, Social Security number, and information about your assets. Once you register with Yahoo! and sign in to our services, you are not anonymous to us. 
+  * Yahoo! collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer. 
+  * Yahoo! automatically receives and records information on our server logs from your browser, including your [ IP address](https://web.archive.org/privacy/us/ip/details.html), Yahoo! [ cookie](https://web.archive.org/privacy/us/cookies/details.html) information, and the page you request. 
+  * Yahoo! uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
 
-We require a valid e-mail address for users who want to participate in the forums. This allows us to protect our community from abusive postings and provides a verifiable point of contact should legal questions arise. At any time, you have the ability to keep your e-mail address hidden from other users by selecting that option within your user profile.
+      **Children**  
 
-Also in the forum registration, you have the option of providing some additional information such as occupation, interests, and homepage URL. This information is made available to other bulletin board users to foster a sense of community. If you have any concerns about providing this information, simply leave the fields blank and your registration will still be processed.
 
-_IF YOU ARE 13 YEARS OF AGE OR YOUNGER_ and would like to participate in the Bollywood.com forums, you will need to print the [Parental Consent form](http://www.bollywood.com/cgi-bin/ubb/ubbmisc.cgi?action=showcoppaform) and have your parent or legal guardian sign it, scan it and email it to webmaster@bollywood.com, or mail it to Attn: K. Varshney, PO Box 194, Beverly Hills, CA 90213-0194, prior to posting on the forums.
+  * When a child under age 13 attempts to register with Yahoo!, we ask that he or she have a parent or guardian create a [ Yahoo! Family Account](https://web.archive.org/privacy/us/family/details.html) to obtain parental permission. 
+  * Yahoo! will not contact children under age 13 about special offers or for marketing purposes without a parent's permission. 
+  * Yahoo! does not ask a child under age 13 for more personal information, as a condition of participation, than is reasonably necessary to participate in a given activity or promotion. 
 
-_Cookies_
+**Information Sharing and Disclosure**  
 
-Certain activities on the website involve the use of "cookies" to facilitate your experience. This includes retention of your username and password for the Bollywood.com forums and showing a default Topic View when you visit the forums. You have the option to turn these cookies off at any time by updating your user profile preferences. If your browser doesn’t support cookies, or if you have cookies turned off, these preferences will not be set.
 
-**Disclosure of Personal Information**
+  * Yahoo! does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
+    * We provide the information to trusted partners who work on behalf of or with Yahoo! under confidentiality agreements. These companies may use your personal information to help Yahoo! communicate with you about offers from Yahoo! and our marketing partners. However, these companies do not have any independent right to share this information. 
+    * We have a parent's permission to share the information if the user is a child under age 13. Parents have the option of allowing Yahoo! to collect and use their child's information without consenting to Yahoo! sharing of this information with people and companies who may use this information for their own purposes; 
+    * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; 
+    * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Yahoo!'s terms of use, or as otherwise required by law. 
+    * We transfer information about you if Yahoo! is acquired by or merged with another company. In this event, Yahoo! will notify you before information about you is transferred and becomes subject to a different privacy policy. 
+  * Yahoo! displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, women ages 18-24 from a particular geographic area. 
+    * Yahoo! does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
+    * Yahoo! advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies). 
 
-It’s important to be aware that when you voluntarily provide personal information (e.g., last name, address, phone number) in a posting on the bulletin board, that information is publicly available and may be used by someone in a manner unintended by you. For that reason, we discourage the offering of any personally identifying information within the message board itself. Any information voluntarily given will not be disclosed to third parties commercial or non-commercial. We are not responsible for the linked sites content and you access them at your own risk.
+**Cookies**  
 
-**Privacy for Children Aged 13 and Under**
 
-Our websites are targeted at a general adult audience. As required by law, the participation of younger users below age 13 is only allowed with their parents’ consent. We strongly recommend that users 13 and under refrain from offering any personal information either in their user profile or in the message boards themselves, and we encourage parents to stay involved in the online life of their children.
+  * Yahoo! may set and access Yahoo! [ cookies](https://web.archive.org/privacy/us/cookies/details.html) on your computer. 
+  * Yahoo! lets [ other companies](https://web.archive.org/privacy/us/adservers/details.html) that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Yahoo!'s cookies. 
+  * Yahoo! uses [ web beacons](https://web.archive.org/privacy/us/pixels/details.html) to access Yahoo! cookies inside and outside our network of web sites and in connection with Yahoo! products and services. 
 
-Update February 5, 2002: Registation for new users is currently disabled as we are updating software.
+**Your Ability to Edit and Delete Your Account Information and Preferences**
 
-Please view a copy of the [parental permission form](http://www.bollywood.com/cgi-bin/ubb/ubbmisc.cgi?action=showcoppaform). Prior to a child’s registration on the bulletin board, this form must be printed, signed by the child’s parent or legal guardian and scanned and emailed to webmaster@bollywood.com or a print copy should be mailed to the following address: Attn: K. Varshney, PO Box 194, Beverly Hills, CA 90213-0194, USA.
+      **General**  
 
-We are prohibited from conditioning a child’s participation in an activity on the child’s disclosing more personal information than is reasonably necessary to participate in such activity.
 
-Parents can review and request deletion of their child’s personal information, and can refuse to permit further collection or use of their child’s information. In order to request such a review, to revoke previously offered parental consent, or to express any concerns regarding a child’s privacy on our website, please send a signed written request to:
+  * You can edit your [ Yahoo! Account Information](http://edit.yahoo.com/config/eval_profile?.src=&.intl=us&.done=privacy.yahoo.com/privacy/us), including your [ marketing preferences](http://subscribe.yahoo.com/showaccount), at any time. 
+  * New categories of marketing communications may be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive. 
+  * We reserve the right to send you certain communications relating to the Yahoo! service, such as service announcements, administrative messages and the Yahoo! Newsletter, that are considered part of your Yahoo! account, without offering you the opportunity to opt-out of receiving them. 
+  * You can delete your Yahoo! account by visiting our [ Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [ click here](https://web.archive.org/privacy/us/archives/details.html) to read about information that might possibly remain in our archived records after your account has been deleted. 
 
-Attn: K. Varshney, PO Box 194  
-Beverly Hills, CA 90213-0194. USA.
+      **Children**  
 
-**Changing or Updating Personal Information**
 
-If you would like to update or change your user profile on the Bollywood.com Forums, just click [here](http://www.bollywood.com/forums) and select "USER CP".
+  * Parents can review, edit, and delete information relating to their child's Yahoo! account using tools offered by [Yahoo! Family Accounts](http://family.yahoo.com/). 
+  * If a parent chooses not to allow us to further collect or use a child's information, parents enrolled in Yahoo! Family Accounts can delete their child's account by signing into that child's account and then visiting our [ Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [ click here](https://web.archive.org/privacy/us/archives/details.html) to read about information that might possibly remain in our archived records after your account has been deleted. 
 
-If you have questions regarding your information, you can contact our **Privacy Administrator** at [privacy@bollywood.com](mailto:privacy@bollywood.com).
+**Confidentiality and Security**  
 
-[HOME](http://www.bollywood.com/)
+
+  * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
+  * We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
+  * To learn more about security, including the security steps we have taken and security steps you can take, please read [Security at Yahoo!](http://privacy.yahoo.com/privacy/us/security/details.html). 
+
+**Changes to this Privacy Policy**  
+
+
+  * Yahoo! may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Yahoo! account or by placing a prominent notice on our site. 
+
+**Questions and Suggestions**  
+
+
+  * [Yahoo! is TRUSTe-certified](https://www.truste.org/validate/361). This certification applies to all English-language sites under the Yahoo.com domain. If you feel that your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](http://www.truste.org/users/users_watchdog.html), an independent privacy organization. TRUSTe serves as a liaison with Yahoo! to resolve your concern. 
+  * If you have questions or suggestions, please complete a [feedback form](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback?radio30=radio305) or you can contact us at: 
+
+Yahoo! Inc.  
+Customer Care - Privacy Policy Issues  
+701 First Avenue  
+Sunnyvale, CA 94089  
+(408) 349-5070  
+
+
+
+
