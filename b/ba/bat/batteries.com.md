@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the batteries.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611142144id_/http%3A//www2.batteries.com/info.asp%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batteries.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210143239id_/http%3A//www.batteries.com/info.asp%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Batteries.com for computer laptop, cellular phone, watch, hearing aid, camera battery savings!
 
@@ -80,7 +80,7 @@ If you do not wish to receive any catalog or postcard mailings in the future, yo
 **Security**  
 When you submit personal information on this Web site, we will protect your information both online and offline. When you submit sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - (Secure Socket Layer). While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'. 
 
-We also use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure once we receive it. For example, we store the personal information you provide on computer systems with limited access that are located in secured facilities. batteries.com's employees are trained and kept up-to-date on our security procedures. If you have any questions about the security at our website, you can send an email to [security@batteries.com](https://web.archive.org/web/20040611142144id_/http%3A//www2.batteries.com/security@batteries.com). 
+We also use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure once we receive it. For example, we store the personal information you provide on computer systems with limited access that are located in secured facilities. batteries.com's employees are trained and kept up-to-date on our security procedures. If you have any questions about the security at our website, you can send an email to [security@batteries.com](https://web.archive.org/web/20041210143239id_/http%3A//www.batteries.com/security@batteries.com). 
 
 **Correction/Updating Personal Information:**  
 If you need to correct or update your personal information (such as your email address), or you no longer desires our service you can let us know on our member information page accessible by logging into your My Power account or by emailing our customer support at [info@batteries.com](mailto:info@batteries.com%22). 
