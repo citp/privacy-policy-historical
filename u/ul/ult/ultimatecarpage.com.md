@@ -1,17 +1,20 @@
-> *The following text is extracted and transformed from the ultimatecarpage.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002113448id_/http%3A//www.ultimatecarpage.com/frame.mv%3Ffile%3Dcopyright.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatecarpage.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602212113id_/http%3A//ultimatecarpage.com/frame.mv%3Ffile%3Dcopyright.html) for the most accurate reproduction.*
 
 # Ultimatecarpage.com - Images, Specifications and Information
 
-[Forums:](https://web.archive.org/forums/index.php)  
-[Manufacturer forums](https://web.archive.org/forums/forumdisplay.php?s=&forumid=7)  
-[General automotive](https://web.archive.org/forums/forumdisplay.php?s=&forumid=13)  
-[General forums](https://web.archive.org/forums/forumdisplay.php?s=&forumid=1)  
+[Forums:](http://www.ultimatecarpage.com/forum/index.php)  
+[Manufacturer forums](http://www.ultimatecarpage.com/forum/forumdisplay.php?s=&forumid=7)  
+[General automotive](http://www.ultimatecarpage.com/forum/forumdisplay.php?s=&forumid=13)  
+[General forums](http://www.ultimatecarpage.com/forum/forumdisplay.php?s=&forumid=1)  
 Cars:  
+[In the spotlight](https://web.archive.org/frame.mv?file=spotlight.mv)  
 [Cars by brand](https://web.archive.org/frame.mv?file=brandlist.mv&left=left_cars.mv)  
 [Racing Cars](https://web.archive.org/frame.mv?file=race.mv)  
 [Prototypes](https://web.archive.org/frame.mv?file=list.mv&typesearch=Proto)  
 [Random Car](https://web.archive.org/frame.mv?file=car.mv)  
 Features:  
+[Future events](https://web.archive.org/frame.mv?file=Features/future.html)  
+[Events 2004](https://web.archive.org/frame.mv?file=Features/events2004.html)  
 [Events 2003](https://web.archive.org/frame.mv?file=Features/events2003.html)  
 [Events 2002](https://web.archive.org/frame.mv?file=Features/events.html)  
 [Wallpapers](https://web.archive.org/frame.mv?file=wall.mv)  
@@ -23,7 +26,7 @@ General:
 [Home](https://web.archive.org/)  
 [News](https://web.archive.org/frame.mv?file=news/current.mv)  
 [Links](https://web.archive.org/frame.mv?file=Links.html)  
-[Contact us](https://web.archive.org/forums/forumdisplay.php?s=&forumid=2)   
+Contact us   
 | 
 
 ## Manifest
@@ -44,7 +47,7 @@ No information of our visitors is being collected. The e-mail addresses gathered
 
 ## Third Party Advertising
 
-We use MaxWorldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here <http://www.networkadvertising.org/optout_nonppii.asp>   
+We use MaxWorldwide, BUDS INC and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here <http://www.networkadvertising.org/optout_nonppii.asp>   
 For information on the other's privacy policies click the following links: [Burst! Media](http://www.burstmedia.com/release/privacy.asp) and [Fastclick](http://www.fastclick.com/about/privacy2.html). 
 
 ## Third Party Cookies
