@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utsystem.edu privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601145017id_/http%3A//www.utsystem.edu/oir/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utsystem.edu privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202173613id_/http%3A//www.utsystem.edu/oir/privacy.htm) for the most accurate reproduction.*
 
 # The University of Texas System - Information Resources
 
