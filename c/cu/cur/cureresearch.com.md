@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the cureresearch.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603213044id_/http%3A//www.cureresearch.com/crtop/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cureresearch.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209072656id_/http%3A//cureresearch.com/crtop/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
 As patients ourselves, we understand that health matters are very personal and need to be kept private. Your privacy is important to CureResearch.Com and we are committed to protecting that privacy. This privacy statement discloses the privacy practices for CureResearch.Com. 
+
+**Important note regarding your privacy:** Information submitted to our site in certain emails or feedback forms may be published on our site. We do not guarantee the removal of any personally identifying information you have provided us in any such publication. Furthermore, as our email providers and web sites may be operated by third parties beyond our control, we cannot fully guarantee the security of your private information. The practices described below are our own and do not necessarily apply to third parties. Submit private or personally identifying information in emails or via online forms at your own risk. 
 
 ## Overview
 
@@ -10,6 +12,7 @@ Generally speaking, we do not attempt to gather personal information except as r
 
   * We do not sell or distribute personally identifiable information. We only share aggregate statistical information (if any) with our advertisers, affiliates, or partners. 
   * Personal information such as email addresses or shipping addresses obtained from you through purchases from our [Amazon.com Zshop](http://www.amazon.com/shops/wrongdiagnosis) may be used by us for opt-out newsletters or other marketing purposes. 
+  * Personal information you explicitly submit to use in email or via online feedback forms may be used in various ways, including in some cases the publication of this information directly on our web site. 
   * In many cases we do not even have your personally identifiable information and make no attempt to get it. Ordinary viewing of public CureResearch.Com pages does not log anything other than standard web server logs (e.g. IP address, page viewed, date and time), and we make no attempt to identify you from this information. Credit card details for orders at our [Amazon Zshop](http://www.amazon.com/shops/wrongdiagnosis) are handled by Amazon.com and are not seen by us. For ordinary Amazom.com referral book sales that bypass our Amazon Zshop, we do not gather personal information or credit card details. 
   * CureResearch.Com does not track sessions for ordinary viewing of our site, but may do so to allow entry to protected pages such as membership-only pages or credit card purchased documents. 
   * CureResearch.Com does not use cookies, but our advertisers may. 
@@ -17,6 +20,12 @@ Generally speaking, we do not attempt to gather personal information except as r
 
 
 The following sections discuss these issues in further detail. 
+
+## Submitted Personal Information
+
+Submit your personal information to us at your own risk. In certain cases, you may explicitly submit information that contains private or personally identifying informaion. Typical examples are certain types of emails sent to us or feedback submitted in our online feedback forms such as 'tell your story' areas. This information is collected for the explicit purpose of displaying it on our web site. We do not guarantee the removal of your personal information when we publish it. 
+
+Furthermore, as our email providers and web sites may be operated by third parties beyond our control, we cannot fully guarantee the security of your private information. The practices described below are our own and do not necessarily apply to third parties. Submit private or personally identifying information at your own risk. 
 
 ## Log Files
 
@@ -57,7 +66,7 @@ We encourage our users to be aware when they leave our site and to read the priv
 
 ## Third Party Advertising Services
 
-CureResearch.Com may utilize certain third-party advertising services (e.g. organizations such as DoubleClick) to display advertising for our advertisers. These third-party services may place a cookie on your computer for the purposes of ad tracking and presentation. CureResearch.Com does not share personally identifiable visitor information with its advertising services. 
+CureResearch.Com may utilize certain third-party advertising services (e.g. organizations such as Burst Media, FastClick, Google) to display advertising for our advertisers. These third-party services may place a cookie on your computer for the purposes of ad tracking and presentation. CureResearch.Com does not share personally identifiable visitor information with its advertising services. 
 
 ## Public Forums
 
@@ -65,7 +74,7 @@ CureResearch.Com may provide its users with chat rooms, forums, discussion areas
 
 ## Security
 
-This web site has security measures to protect our users’ information that is under our control. CureResearch.Com employs strict security measures to safeguard online transactions. Personal information is stored on a secured server with strict access controls and is protected by several levels of security technology. However, we do not warrant or represent that any information you submit to CureResearch.Com will be protected against loss, misuse, or alteration by third parties. 
+This web site has security measures to protect our users’ information that is under our control. However, this web site is operated by a small organization without the resources to offer a fully secured web site. CureResearch.Com employs strict security measures to safeguard online credit card transactions. Personal information is protected by several levels of security technology. However, as our email providers and web servers may be operated by third parties beyond our control, we cannot fully guarantee the security of your private information, such as that submitted in email or online feedback forms. We do not warrant or represent that any information you submit to CureResearch.Com will be protected against disclosure, loss, misuse, or alteration by third parties. You agree that any submission of personal information in email or feedback forms is at your own risk. 
 
 ## Notification of Changes
 
@@ -79,18 +88,18 @@ Your use of the site constitutes acceptance of the provisions of this Privacy St
 
 ## Terms of Use
 
-Please read our [_Terms of Use_](https://web.archive.org/web/20040603213044id_/http%3A//www.cureresearch.com/crtop/termsofuse.htm) for other terms and conditions governing your use of the CureResearch.Com Web site. Continued use of our web site constitutes acceptances of these terms and conditions of use. 
+Please read our [_Terms of Use_](https://web.archive.org/web/20041209072656id_/http%3A//cureresearch.com/crtop/termsofuse.htm) for other terms and conditions governing your use of the CureResearch.Com Web site. Continued use of our web site constitutes acceptances of these terms and conditions of use. 
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this Web site, or your interaction with this Web site, contact [privacy@cureresearch.com](mailto:privacy@cureresearch.com). 
+If you have any questions about this privacy statement, the practices of this Web site, or your interaction with this Web site, contact [privacy@cureresearch.com](mailto:privacy@cureresearch.com) or [support@cureresearch.com](mailto:support@cureresearch.com). 
 
-_Privacy Statement version 1.3: Last revised March 6, 2003. Copyright © CureResearch.Com 2003._
-
-* * *
-
-[Printable](https://web.archive.org/web/20040603213044id_/http%3A//www.cureresearch.com/crtop/privacypolicy_printer.htm) | Next: [Advertising Policy](https://web.archive.org/web/20040603213044id_/http%3A//www.cureresearch.com/admin/adpolicy.htm)
+_Privacy Statement version 1.4: Last revised September 2, 2004. Copyright © CureResearch.Com 2003._
 
 * * *
 
-By using this site you agree to our [Terms of Use](https://web.archive.org/web/20040603213044id_/http%3A//www.cureresearch.com/crtop/termsofuse.htm) and [Disclaimers](https://web.archive.org/web/20040603213044id_/http%3A//www.cureresearch.com/crtop/termsofuse.htm#disclaim). Information provided on this site is for informational purposes only; it is not intended as a substitute for advice from your own medical team. The information on this site is not to be used for diagnosing or treating any health concerns you may have - please contact your physician or health care professional for all your medical needs. Please see our [Terms of Use](https://web.archive.org/web/20040603213044id_/http%3A//www.cureresearch.com/crtop/termsofuse.htm) and [Disclaimers](https://web.archive.org/web/20040603213044id_/http%3A//www.cureresearch.com/crtop/termsofuse.htm#disclaim). 
+[Printable](https://web.archive.org/web/20041209072656id_/http%3A//cureresearch.com/crtop/privacypolicy_printer.htm) | Next: [Advertising Policy](https://web.archive.org/web/20041209072656id_/http%3A//cureresearch.com/admin/adpolicy.htm)
+
+* * *
+
+By using this site you agree to our [Terms of Use](https://web.archive.org/web/20041209072656id_/http%3A//cureresearch.com/crtop/termsofuse.htm) and [Disclaimers](https://web.archive.org/web/20041209072656id_/http%3A//cureresearch.com/crtop/termsofuse.htm#disclaim). Information provided on this site is for informational purposes only; it is not intended as a substitute for advice from your own medical team. The information on this site is not to be used for diagnosing or treating any health concerns you may have - please contact your physician or health care professional for all your medical needs. Please see our [Terms of Use](https://web.archive.org/web/20041209072656id_/http%3A//cureresearch.com/crtop/termsofuse.htm) and [Disclaimers](https://web.archive.org/web/20041209072656id_/http%3A//cureresearch.com/crtop/termsofuse.htm#disclaim). 
