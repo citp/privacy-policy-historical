@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noip.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211213618id_/http%3A//www.no-ip.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noip.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601141338id_/http%3A//www.noip.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
