@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the bpubs.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605104524id_/http%3A//www.bpubs.com/policy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bpubs.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204231210id_/http%3A//www.bpubs.com/policy/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
 **Privacy Statement for BPubs.com**
 
 BPubs.com has created this privacy statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.bpubs.com](http://www.bpubs.com/). 
-
-_BPubs.com works with a third party that serves ads to this site. To find out more about how Engage Business Media manages the privacy of information in conjunction with serving ads on this site, please go to<http://www.engage.com/privacy>. _
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. Our site uses cookies to make sure you don't see the same ad repeatedly. 
 
@@ -33,8 +31,8 @@ BPubs.com actively develops our collection of Business Publications. We also acc
 
 > **_Removal Requests_**   
 > **_BPubs.com_**   
-> **_87 - 7501 Cumberland St._**   
-> **_Burnaby, B.C._**   
+> **_8134 Crosby St._**   
+> **_Mission, B.C._**   
 > **_V3N 4Y9_**
 
 **Correct/Update**
@@ -51,6 +49,8 @@ If you have any questions about this privacy statement, the practices of this si
 
 > **_Administration_**   
 > **_BPubs.com_**   
-> **_87 - 7501 Cumberland St._**   
-> **_Burnaby, B.C._**   
+> **_8134 Crosby St._**   
+> **_Mission, B.C._**   
 > **_admin@bpubs.com_**
+
+_* Thanks to our Vancouver Law Firm[Clark, Wilson](http://www.cwilson.com/) for their guidance in drafting this policy._
