@@ -1,0 +1,27 @@
+> *The following text is extracted and transformed from the amctv.com privacy policy that was archived on 2000-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001201221800id_/http%3A//www.amctv.com/aboutamc/policy.html) for the most accurate reproduction.*
+
+# About AMC
+
+This site is owned and operated by American Movie Classics Company ("AMCC") and contains material which is derived in whole or in part from material supplied by AMCC and its affiliates, as well as other sources, and is protected by copyright and trademark laws. You may not modify, copy, reproduce, republish, upload, post, transmit or distribute in any way any material from this site including code and software ("Material"). You may download Material from this site for your personal, non-commercial use only, provided you keep intact all copyright and other proprietary notices. 
+
+Material on this server may include inaccuracies or typographical errors. AMCC has the right to make changes and updates to any information contained within this server without prior notice. 
+
+Your privacy on the Internet is of the utmost importance to us. Because we gather certain types of information about the users of our site, we believe you should fully understand the terms and conditions surrounding the retention and use of that information 
+
+The only information AMCC obtains about individual visitors to this site is information supplied voluntarily by the visitor. This means that you can visit our website without telling us who you are or revealing any information about yourself. To gauge the effectiveness of our website, we do collect some generic information about our visitors. Our web servers automatically recognize a visitor's domain name (such as .com, .edu, etc.), the web page from which a visitor enters our site, which pages a visitor visits on our site, and how much time a visitor spends on each page. This information does not reveal a visitor's identity. We collect and review this information and use it to evaluate and improve the content and functionality of our website. 
+
+AMC does not normally use cookies or other tracking devices in its webpage operations. However, for special events, promotions, sweepstakes or contests, we may use such devices to help our visitors better navigate through AMC's website or an affiliated website. We will disclose to our visitors when and if cookies or tracking devices will be used on the specific webpage, and our privacy statement and/or rules for the special occasion will explain the types of information to be collected by the tracking device and how that information will be used. 
+
+You can choose to provide individually-identifiable information to AMCC in a number of ways through our websites: by ordering a product from us, sending us e-mail, subscribing to the dialog service, registering to receive information or entering a sweepstakes or contest. When visitors supply information about themselves for a specific purpose, AMCC uses the information for that purpose (such as to provide the information the visitor has requested). 
+
+We do not sell or disclose individually-identifiable information obtained on-line about our visitors to anyone outside of AMCC unless you specifically authorize it, it is required by law, or disclosure is necessary to protect the safety of customers, employees or property. If you provide individually-identifiable information to us in the context of an event AMCC sponsors with a co-sponsor, such as a sweepstakes, or if you register on a co-sponsored site, you may also be providing the individually-identifiable information to the co-sponsor. This will be made clear to you when you submit the information and you can decide whether or not to participate. 
+
+AMCC does not send unsolicited e-mail ("spam"). We may use e-mail to respond to visitors' e-mails, to confirm orders placed on-line, and to send information that a visitor has requested. 
+
+To improve the services it can offer you, AMCC may opt to expand its capabilities for obtaining information about users in the future. To ensure that you are aware of developments in this area, AMCC will update this privacy statement. 
+
+AMC Monsterfest 2000
+
+All personal information collected on this site is for the sole purpose of prize distribution and limited internal use. Gender information is optional and the collection of personal information will be used internally by AMC for summarizing information in the aggregate about contest participation. Personal information will not be kept after the promotion without visitor permission. AMC or Universal will not contact visitors other than for prize distribution, unless the visitor has indicated that they want to be contacted by AMC or Universal. AMC and Universal have partnered for this promotion, however, no specific personal information about the visitor will be shared with Universal or any third party without the permission of the visitor. 
+
+Visitors may "opt-out" of providing personal information to be shared with AMC or Universal (or their authorized subsidiaries) for future marketing and/or promotional use beyond the Monsterfest event by removing the checks on the Monsterfest Screamstakes Entry page located below the entry form. Unless you remove the checks, you will have consented to be contacted by AMC about its new website, or you will receive information from Universal Pictures about its horror movies, videos and DVDs. 
