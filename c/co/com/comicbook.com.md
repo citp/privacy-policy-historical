@@ -1,45 +1,61 @@
-> *The following text is extracted and transformed from the comicbook.com privacy policy that was archived on 2000-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001003110210id_/http%3A//anotheruniverse.com/help/au/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicbook.com privacy policy that was archived on 2002-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021229021057id_/http%3A//www.comicbook.com/0/privacy_policy.asp) for the most accurate reproduction.*
 
-# Fandom Shop - Privacy Policy
+# Cinescape - Home - Editorial
 
-**Privacy Policy**
+Mania Entertainment LLC takes your privacy seriously. Please read the following to learn more about our privacy policy. 
 
-Fandom Shop is committed to protecting your privacy. Our Privacy Policy ensures the information we collect is secure and remains confidential. 
+What this Privacy Policy Covers 
 
-_General Principles_
+· This Privacy Policy covers Mania Entertainment`s treatment of personally identifiable information that Mania Entertainment collects when you are on the Mania Entertainment site, and when you use Mania Entertainment`s services. This policy also covers Mania Entertainment`s treatment of any personally identifiable information that Mania Entertainment`s business partners share with Mania Entertainment or that Mania Entertainment may collect on a partner`s site. 
 
-1\. Your privacy is important to us! Fandom Shop collects information from customers when products are ordered. This information includes name, email address, mailing address and credit card information for purchases. This allows Fandom Shop to send products and track orders. We email customers information about store items and sales only when they request it.
+· This policy does not apply to the practices of companies that Mania Entertainment does not own or control, or to people that Mania Entertainment does not employ or manage. 
 
-**Fandom`s special note to parents**  
-Pursuant to the provisions of the Federal Children`s Online Privacy Protection Act (COPPA), we do not collect information from children under thirteen years of age without the consent of a parent legal guardian. Parent (or legal guardians) may provide us with consent to collect such information by e-mail, by facsimile or by posted mail. Parents may request to review information collected from their child, may ask to have that information delted, and may refuse to allow further collection or use of the child`s information. To request such review or to give instructions regarding the information we have collected about a child, parents/legal guardians should [contact us](https://web.archive.org/help/au/contact_us.asp).  
-We encourage parents and guardians to spend time online with their children, to participate in the interactive activities offered online, and for children to consult with their parents before submitting any information to this or any other web site. Although guest under eighteen years of age may be allowed, with their parent`s permission and supervision, to participate in noted contests, if such a guest wins, notification and prizes will be sent to such guest`s parents or guardian. Parents should consider using parental control tools available from online services and software manufacturers to help supervise their children`s online activities. These tools can also prevent children from disclosing their name, address, and other personal information online without parental permission. For additional information about parental control tools, please consult the "Consumer Assistance" page of the [Direct Marketing Association](http://www.the-dma.org/) home page. 
+Information Collection and Use 
 
-2\. Fandom Shop only sends email newsletters to visitors who request those newsletters. Fandom Shop will never send unsolicited email newsletters. Email newsletter subscribers can unsubscribe quickly and easily at any time. You can unsubscribe or change your subscription to any of our email newsletters at any time. Simply visit the Fandom Shop [Subscriptions](http://anotheruniverse1.m0.net/m/u/aui/a.asp) page to modify your subscriptions online. 
+· Mania Entertainment collects personally identifiable information when you register for a Mania Entertainment account, when you use certain Mania Entertainment products and services, when you visit Mania Entertainment pages, and when you enter promotions or sweepstakes. Mania Entertainment may also receive personally identifiable information from our business partners. 
 
-3\. Fandom Shop will occasionally email newsletter subscribers with store specials, sales or announcements regarding products or news of interest. These emails will never go out to visitors or buyers who have not requested newsletters or notices. If you'd like to subscribe, please click [here](http://anotheruniverse1.m0.net/m/u/aui/a.asp). 
+· When you register with Mania Entertainment, we ask for your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. Once you register with Mania Entertainment and sign in to our services, you are not anonymous to us. 
 
-_Security_
+· Mania Entertainment also automatically receives and records information on our server logs from your browser including your IP address, Mania Entertainment cookie information and the page you requested. 
 
-1\. Fandom Shop uses reliable security measures to maintain the confidentiality of personal information entered by online users. Visitors who buy a product or sign up for one of our free newsletters can rest assured their personal information is confidential. Only those Fandom Shop employees with the highest security access can view this information and only for the purposes of communicating with visitors or buyers about their orders, specials or editorial updates. 
+· Mania Entertainment uses information for three general purposes: to customize the advertising and content you see, to fulfill your requests for certain products and services, and to contact you about specials and new products. 
 
-2\. All sensitive credit card and personal information is transmitted using Secure Socket Layer (SSL) technology and then encrypted into AnotherUniverse.com's secure databases so it cannot be read by outside parties. As an additional precaution, Fandom Shop utilizes Verisign's Digital IDs to provide the strongest encryption available for our online customers. You can find out more about Verisign's Digital IDs at www.verisign.com. 
+Information Sharing and Disclosure 
 
-_Use of 'Cookies'_
+· Mania Entertainment will not sell or rent your personally identifiable information to anyone. 
 
-1\. Fandom Shop uses 'cookies,' small text files stored on your computer. Cookies technology makes online shopping possible. Cookies link you to your online shopping cart. Without them, your cart will not function properly. 
+· Mania Entertainment may send personally identifiable information about you to other companies or people when: 
 
-2\. The use of cookies is a standard practice throughout the Internet. Most Web browsers automatically accept cookies and visitors can change the settings on their web browsers to notify them whenever they are sent a 'cookie,' allowing the visitor to refuse or accept it. Visitors do not have to accept a 'cookie' in order to enjoy our site - but our shopping cart will not function properly if cookies are not enabled. Information 
+o We have your consent to share the information; 
 
-_Disclosure_
+o We need to share your information to provide the product or service you have requested; 
 
-1\. Fandom Shop does not sell or rent its email subscribers' names and addresses. Please note that you can have your name removed from our email subscription list at any time simply by visiting our [Subscription Services](http://anotheruniverse1.m0.net/m/u/aui/a.asp) page. 
+o We need to send the information to companies who work on behalf of Mania Entertainment to provide a product or service to you. (Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us.); 
 
-2\. Fandom Shop may provide non-personal statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifying information.Fandom Shop may release account information when we believe that it is reasonably necessary in order to comply with a law or the terms of any user agreements. 
+o We respond to subpoenas, court orders or legal process; or 
 
-_Note to Parents_
+o We find that your actions on our web sites violate the Mania Entertainment Terms of Use or any of our usage guidelines for specific products or services. 
 
-Fandom Shop advises children to consult with their parents before submitting any information to our Web site. We do not sell or rent personal information we may collect about any site users. Removal of Visitor Information Visitors can remove themselves from any of our email lists at any time simply by visiting our [Subscription Services](http://anotheruniverse1.m0.net/m/u/aui/a.asp) page. Third Party Links Fandom Shop may include links to third party Web sites. We choose our links carefully. However, AnotherUniverse.com exercises no control over linked third party sites. These sites have their own privacy policies and practices. Fandom Shop has no responsibility or liability for these policies or practices of linked third party sites. Visitors access third party links at their own risk. Visitor Consent By using Fandom Shop's Web site, visitors consent to the collection and use of information as set forth in the above privacy policy statement. 
+Cookies 
 
-_Feedback_ __
+· Mania Entertainment may set and access Mania Entertainment cookies on your computer. 
 
-Fandom Shop visitors are encouraged to email or call us with any questions regarding our privacy policy or practices. Email [webmaster@anotheruniverse.com](mailto:webmaster@anotheruniverse.com) or call 703-330-3500. 
+· Mania Entertainment allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies` use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Mania Entertainment`s cookies. 
+
+· Mania Entertainment uses web beacons to access our cookies within and outside our network of web sites and in connection with Mania Entertainment products and services. 
+
+Your Ability to Edit and Delete Your Account Information and Preferences 
+
+· Mania Entertainment gives you the ability to edit your Mania Entertainment Account Information and preferences at any time, including whether you want Mania Entertainment to contact you about specials and new products. 
+
+· You may request deletion of your Mania Entertainment account by visiting our Account Deletion page, verifying your password once more and confirming your choice to terminate the account. Please click here to read about what information may possibly remain in our archived records after your account has been deleted. 
+
+Security 
+
+· Your Mania Entertainment Account Information is password-protected for your privacy and security. 
+
+· In certain areas Mania Entertainment uses industry-standard SSL-encryption to protect data transmissions. 
+
+Changes to this Privacy Policy 
+
+· Mania Entertainment may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages. 
