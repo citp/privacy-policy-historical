@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bom.gov.au privacy policy that was archived on 2001-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010615210024id_/http%3A//www.bom.gov.au/other/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bom.gov.au privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205075229id_/http%3A//www.bom.gov.au/other/legal/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy Notice
 
