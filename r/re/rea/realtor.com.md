@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtor.com privacy policy that was archived on 1999-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991118222244id_/http%3A//realtor.com/terms.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtor.com privacy policy that was archived on 2000-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000603160454id_/http%3A//realtor.com/terms.asp) for the most accurate reproduction.*
 
 # REALTOR.COM: Terms of Use
 
