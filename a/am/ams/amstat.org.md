@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amstat.org privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602075854id_/http%3A//www.amstat.org/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amstat.org privacy policy that was archived on 2001-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010815124932id_/http%3A//amstat.org/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for www.amstat.org
 
