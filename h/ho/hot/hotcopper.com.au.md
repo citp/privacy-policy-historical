@@ -1,23 +1,65 @@
-> *The following text is extracted and transformed from the hotcopper.com.au privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605154209id_/http%3A//www.hotcopper.com.au/forum_privacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotcopper.com.au privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209181836id_/http%3A//www.hotcopper.com.au/forum_privacyPolicy.asp) for the most accurate reproduction.*
 
 # HotCopper
 
-|  **TFA Investor Privacy Policy**
+|  **Hotcopper Privacy Policy.**   
+Hotcopper takes your privacy seriously. Please read the following to learn more about our privacy policy. 
 
-TFA understands that privacy is an important aspect of our community. We explicitly ask when we need information that personally identifies you ("Personal Information"). When you visit a TFA Site (or request Services) that requires registration, we will ask you for your name and email address. If you wish to purchase certain premium services and products (like research reports), we will ask you for your credit card number as well as your address, phone number, and email address for notification and billing purposes. We will retain your credit card information in our database, and you will have the opportunity to change or delete the information at any time. The security of your transactions with TFA is very important to us. You will have the option of conducting your transactions through an encrypted, secure server. 
+**What This Privacy Policy Covers**
 
-When you register on a TFA Site, you can feel confident that we will ask you for only the Personal Information we need to serve you. We collect Personal Information only through registration or other voluntary means. We will not sell or license your Personal Information to third parties without your consent. We may, however, sell aggregate information (not individually identifiable information) to our sponsors or advertisers. 
+  * This policy covers how Hotcopper treats personal information that Hotcopper collects and receives, including information related to your past use of Hotcopper products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
 
-If you request access to certain premium content, such as sponsored broker research, we may ask you for additional Personal Information such as age, gender or income. In such cases, we recognize a mutually beneficial information swap: You provide our sponsors with information about yourself (the information filters through us before we send it on to our sponsors), and the sponsor provides you with free research or other premium content. Before we provide any Personal Information to the sponsor whose content you're requesting, you will be asked to review the information, and we will remind you that we will share this information with the sponsor. When you request a product or service that requires additional Personal Information, we will inform you. 
 
-TFA e-mails a number of regular newsletters to registered users. Each newsletter reaches an undisclosed list of recipients. In other words, none of the recipients can see any of the other names or e-mail addresses listed in the "To" field. Among other subjects, TFA newsletters highlight recent discussion topics from our TFA Investor boards, both free and for-purchase research reports, articles with investment ideas, the latest analysis of Internet stocks, and new features on the site, as well as other information designed to give you investment ideas. If you do not wish to receive our newsletters, please reply to them with the word "unsubscribe" in the subject line. 
 
-TFA may also gather and store information about your usage of the Services and provide aggregate statistical information (not including any Personal Information) about TFA's Users to advertisers, potential advertisers, and content providers. If you have any questions about our Privacy Policy, please contact us at privacy@The Financial Arena and we will do our best to answer. Please refer to the Terms of Use for additional information. 
+**Information Collection and Use**
 
-Internet user privacy is of paramount importance to TFA and our advertisers. The success of our business depends upon our ability to maintain the trust of our users. Below is information from DoubleClick (one of TFA's advertising partners) regarding its commitment to protect the privacy of Users and to ensure the integrity of the Internet. 
+**General**
 
-All Users who receive an ad targeted by DoubleClick's technology remain completely anonymous to DoubleClick. In the course of delivering an ad to you, DoubleClick does not collect any personally-identifiable information about you, such as your name, address, phone number or email address. DoubleClick does, however, collect certain non-personally-identifiable information about you, such as the server your computer is logged onto or your browser type (for example, Netscape or Internet Explorer). The information collected by DoubleClick is used for the purpose of targeting ads and measuring ad effectiveness on behalf of DoubleClick's advertisers and Web publishers who specifically request it. 
+  * Hotcopper collects personal information when you register with Hotcopper, when you use Hotcopper or the pages of certain Hotcopper partner's information about you that we have with information we obtain from business partners or other companies. 
+  * When you register we ask for information. Once you register with Hotcopper and sign in to our services, you are not anonymous to us. 
+  * Hotcopper collects information about your activities with us and with some of our business partners. 
+  * Hotcopper automatically receives and records information on our server logs from your browser, including your IP address, Hotcopper cookie information, and the page you request. 
+  * Hotcopper uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
 
-For additional information on the non-personally-identifiable information that is collected by DoubleClick, you can visit http://www.doubleclick.net/company_info/about_doubleclick/privacy/. 
+
+
+**Information Sharing and Disclosure**
+
+  * Hotcopper does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
+    * We will email you information on behalf of our partners however we will never give them your private information. All communication about their products or offers will come from Hotcopper. 
+    * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Hotcopper's terms of use, or as otherwise required by law. 
+    * We transfer information about you if Hotcopper is acquired by or merged with another company. In this event, Hotcopper will notify you before information about you is transferred and becomes subject to a different privacy policy. 
+  * Hotcopper displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria. 
+    * Hotcopper does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
+
+
+
+**Cookies**
+
+  * Hotcopper may set and access Hotcopper cookies on your computer. 
+  * Hotcopper lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Hotcopper's cookies. 
+
+
+
+**Your Ability to Edit and Delete Your Account Information and Preferences**
+
+**General**
+
+  * You can edit your Account Information at any time. 
+  * New categories of marketing communications may be added from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive. 
+  * We reserve the right to send you certain communications relating to the Hotcopper service, such as service announcements and administrative messages. Hotcopper also reserves the right to remove your account if you opt out of receiving advertising material from Hotcopper 
+  * You can delete your Hotcopper account by emailing info@hotcopper.com.au and asking to have your account deleted. 
+
+
+
+**Confidentiality and Security**
+
+  * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
+  * We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
+
+
+
+**Changes to this Privacy Policy**   
+Hotcopper may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Hotcopper account or by placing a prominent notice on our site. 
 
 | 
