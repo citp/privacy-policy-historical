@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tga.gov.au privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206090311id_/http%3A//www.health.gov.au/copyr.htm%2312) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tga.gov.au privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607051943id_/http%3A//www.health.gov.au/copyr.htm%2312) for the most accurate reproduction.*
 
 # Australian Government Department of Health and Ageing - Copyright
 
