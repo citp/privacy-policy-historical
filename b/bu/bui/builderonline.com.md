@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the builderonline.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202025211id_/http%3A//www.builderonline.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the builderonline.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605062017id_/http%3A//www.builderonline.com/about/privacy.asp) for the most accurate reproduction.*
 
 # BUILDER Online: Home Building News, Home Plans, Home Design Ideas and Building Products for Home Builders
 
