@@ -1,19 +1,28 @@
-> *The following text is extracted and transformed from the wholelattelove.com privacy policy that was archived on 2001-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010309104037id_/http%3A//www.wholelattelove.com/forms/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholelattelove.com privacy policy that was archived on 2001-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011215050543id_/http%3A//wholelattelove.com/espresso-machine/privacy.htm) for the most accurate reproduction.*
 
-# Whole Latte Love Policies
+# Espresso Machines from Whole Latte Love
 
-**What this Privacy Policy Covers**   
-This Privacy Policy covers Wholelattelove treatment of personally identifiable information that we collect when you are on the Wholelattelove site. 
+|  | **Whole Latte Love Privacy Policy**  
+  
+This Privacy Policy covers wholelattelove.com's treatment of personally identifiable information that we collect when you are on the wholelattelove.com site.
 
-**INFORMATION COLLECTION AND USE**  
-Wholelattelove collects personally identifiable information when you register for an account and when you use certain products or services. When you register with Wholelattlelove, we ask for your name, home address, email address and credit information Wholelattelove uses this information for two general purposes: to customize the advertising and content you see and to fulfill your requests for certain products and services
+**Information Collection & Use:**  
+Whole Latte Love collects personally identifiable information when you register for an account and when you use certain products or services. When you register with Whole Latte Love, we ask for your name, home address, e-mail address and credit information Whole Latte Love uses this information for two general purposes: to customize the advertising and content you see and to fulfill your requests for certain products and services.
 
-. **  
-INFORMATION SHARING AND DISCLOSURE**   
-Wholelattelove will not sell or rent your personally identifiable information to anyone. Wholelattelove will send personally identifiable information about you to other companies or people when: We have your consent to share the information. We need to share your information to provide the product or service you have requested. We need to send the information to companies who work on behalf of Wholelattelove to provide a product or service to you. (Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us.) We respond to subpoenas, court orders or legal process. 
+**Information Sharing & Disclosure:**  
+Whole Latte Love will not sell or rent your personally identifiable information to anyone. Whole Latte Love will send personally identifiable information about you to other companies or people when: We have your consent to share the information. We need to share your information to provide the product or service you have requested. We need to send the information to companies who work on behalf of Whole Latte Love to provide a product or service to you. (Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us.) We respond to subpoenas, court orders or legal process.
 
-**  
-CHANGES TO POLICY PAGE** Wholelattelove may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages.
+ **Changes to Policy Page:**  
+Whole Latte Love may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages. **Questions & Suggestions:**  
+If you have questions or suggestions complete our survey or send an e-mail to [sales@wholelattelove.com](mailto:sales@wholelattelove.com).  
+  
+back to top of page  
+[](https://web.archive.org/web/20011215050543id_/http%3A//wholelattelove.com/gifts/gift_services.htm)   
+[Home](https://web.archive.org/web/20011215050543id_/http%3A//wholelattelove.com/index.shtml) . [Reviews](http://www.coffee-machine.com/cm/forms/default.asp) . [Research Center ](https://web.archive.org/web/20011215050543id_/http%3A//wholelattelove.com/espresso-machine/research.htm). [Policies](https://web.archive.org/web/20011215050543id_/http%3A//wholelattelove.com/espresso-machine/policies.htm) . [Privacy](https://web.archive.org/web/20011215050543id_/http%3A//wholelattelove.com/espresso-machine/privacy.htm) . [Contact Us](http://www.wholelattelove.com/forms/contact.htm) . [View Basket](http://www.coffee-machine.com/cm/basket.asp)  
+  
+888-411-5282 (JAVA) or 585-924-7170 or FAX 585-924-7362  
+Whole Latte Love 7330 Rt 251, Victor, NY 14564  
+Distribution Centers in Victor, NY & Reno, NV  
+[Copyright © 2001 Whole Latte Love](https://web.archive.org/web/20011215050543id_/http%3A//wholelattelove.com/espresso-machine/copyright.htm). All rights reserved.
 
-**  
-QUESTIONS AND SUGGESTIONS** If you have questions or suggestions complete our survey or send an email to sales@wholelattlove.com.
+[](http://www.espressotop50.com/)
