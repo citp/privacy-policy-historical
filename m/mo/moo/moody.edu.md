@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the moody.edu privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202163540id_/http%3A//www.moody.edu/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moody.edu privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623045455id_/http%3A//www.moody.edu/privacy1.htm) for the most accurate reproduction.*
 
-# Moody Bible Institute
+# MBI - Privacy
+
+### Privacy Policy
 
 The following is a statement of the Moody Bible Institute's (MBI) general policies for the use of visitor information collected through our web sites. Some areas may have specific policies regarding the privacy of user provided information and may contain exceptions to this statement. Consult the statement posted under that areas web page for the appropriate information. 
 
@@ -55,9 +57,9 @@ We use the information you provide about someone else when placing a request onl
 
 We offer gift-subscriptions or co-registrations by which you can request a service or item for another person. Information you provide to us to create an alternate user is only used for that purpose, and it is only disclosed to the person receiving the service/item. 
 
-We use return e-mail addresses to answer the e-mail we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
+We use return e-mail addresses to answer the e-mail we receive. Such addresses are not used for any other purpose and are not shared with outside parties. If you subscribe to an e-mail newsletter or request to be kept on a list for notification of events or information from Moody, such addresses are used for those purposes and are not shared with outside parties. 
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. If you have subsribed to an e-mail newsletter you may log-in to change the settings. If you have problems logging-in or are having problems getting off a list, please contact the [webadmin@moody.edu](mailto:webadmin@moody.edu)
 
 **Our Commitment To Data Security**
 
@@ -75,7 +77,7 @@ Links to third party web sites on the site are provided solely as a convenience 
 
 Should you have other questions or concerns about these privacy policies, send us an e-mail at [webadmin@moody.edu](mailto:webadmin@moody.edu?subject=Privacy%20Statement%20Comment). 
 
-  
+Web Administrator  
 Moody Bible Institute  
 Information Systems  
 820 N. LaSalle Blvd  
