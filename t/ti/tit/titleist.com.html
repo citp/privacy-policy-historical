@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the titleist.com privacy policy that was archived on 2004-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040610172921id_/http%3A//titleist.com/corporate/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the titleist.com privacy policy that was archived on 2004-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204143816id_/http%3A//www.titleist.com/corporate/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Titleist.com</title>
@@ -61,12 +61,11 @@ function fwLoadMenus() {
   
   window.fw_menu_0_4 = new Menu("Headwear", 140, 16,"Verdana, Arial, Helvetica, sans-serif",9,"#000000","#ffffff","#ffffff","#990033");
   fw_menu_0_4.addMenuItem("Overview","location='/headwear/'");
-  fw_menu_0_4.addMenuItem("Fitted Headwear","location='/headwear/details.asp?id=1'");
   fw_menu_0_4.addMenuItem("Adjustable Headwear","location='/headwear/details.asp?id=9'");
-  fw_menu_0_4.addMenuItem("Visors","location='/headwear/details.asp?id=4'");
-  fw_menu_0_4.addMenuItem("Junior Headwear","location='/headwear/details.asp?id=6'");
+  fw_menu_0_4.addMenuItem("Fitted Headwear","location='/headwear/details.asp?id=1'");
+  fw_menu_0_4.addMenuItem("Visors & Sun Headwear","location='/headwear/details.asp?id=4'");
   fw_menu_0_4.addMenuItem("Women's Headwear","location='/headwear/details.asp?id=7'");
-  fw_menu_0_4.addMenuItem("Sun Headwear","location='/headwear/details.asp?id=8'");
+  fw_menu_0_4.addMenuItem("Junior's Headwear","location='/headwear/details.asp?id=6'");
   fw_menu_0_4.hideOnMouseOut=true;
   
   window.fw_menu_0_5 = new Menu("Custom",114,16,"Verdana, Arial, Helvetica, sans-serif",9,"#000000","#ffffff","#ffffff","#990033");
@@ -76,13 +75,14 @@ function fwLoadMenus() {
   fw_menu_0_5.addMenuItem("Bags","location='/custaccessories/details.asp?category=b'");
   fw_menu_0_5.hideOnMouseOut=true;  
 
-  window.fw_menu_0 = new Menu("root",130,16,"Verdana, Arial, Helvetica, sans-serif",9,"#000000","#ffffff","#ffffff","#990033");
+  window.fw_menu_0 = new Menu("root",140,16,"Verdana, Arial, Helvetica, sans-serif",9,"#000000","#ffffff","#ffffff","#990033");
   fw_menu_0.addMenuItem("Overview","location='/accessories.asp'");
   fw_menu_0.addMenuItem(fw_menu_0_1);
   fw_menu_0.addMenuItem("Cart Bags","location='/bags/details.asp?category=c'");
   fw_menu_0.addMenuItem("Stand and Carry Bags","location='/bags/details.asp?category=s'");
-  fw_menu_0.addMenuItem("Travel Gear","location='/travelgear/default.asp'");
-  fw_menu_0.addMenuItem("Accessories","location='/accessories/default.asp'");
+  fw_menu_0.addMenuItem("Classic Travel Gear","location='/travelgear/default.asp'");
+  fw_menu_0.addMenuItem("Sport Travel Gear","location='/travelgear/default.asp?id=2'");
+  fw_menu_0.addMenuItem("Essentials Accessories","location='/accessories/default.asp'");
   fw_menu_0.addMenuItem("Elements Gear","location='/elementsgear/default.asp'");
   fw_menu_0.addMenuItem(fw_menu_0_4);
   fw_menu_0.addMenuItem(fw_menu_0_5);
@@ -104,16 +104,19 @@ function fwLoadMenus() {
   fw_menu_2_1.addMenuItem("Overview","location='/woods/default.asp'");
   fw_menu_2_1.addMenuItem("983K","location='/woods/details.asp?id=3'");
   fw_menu_2_1.addMenuItem("983E","location='/woods/details.asp?id=4'");
+  fw_menu_2_1.addMenuItem("Driver Fitting","location='/clubfitting/default.asp?jumpto=drivers'");
   fw_menu_2_1.hideOnMouseOut=true;
 
   window.fw_menu_3_1 = new Menu("Irons",154,16,"Verdana, Arial, Helvetica, sans-serif",9,"#000000","#ffffff","#ffffff","#990033");
   fw_menu_3_1.addMenuItem("Overview","location='/irons/default.asp'");
   fw_menu_3_1.addMenuItem("Forged 670","location='/irons/details.asp?id=20'");
+  fw_menu_3_1.addMenuItem("Forged 680","location='/irons/details.asp?id=5'");
   fw_menu_3_1.addMenuItem("Forged 690.MB","location='/irons/details.asp?id=4'");
   fw_menu_3_1.addMenuItem("Forged 690.CB","location='/irons/details.asp?id=19'");
   fw_menu_3_1.addMenuItem("Forged Stainless 704.CB","location='/irons/details.asp?id=21'");
   fw_menu_3_1.addMenuItem("Forged Stainless 804.OS","location='/irons/details.asp?id=22'");
-  fw_menu_3_1.addMenuItem("Titleist 731PM","location='/irons/details.asp?id=8'");
+  //fw_menu_3_1.addMenuItem("Titleist 731PM","location='/irons/details.asp?id=8'");
+  fw_menu_3_1.addMenuItem("Iron Fitting","location='/clubfitting/default.asp?jumpto=irons'");
   fw_menu_3_1.hideOnMouseOut=true;
 
 //fw_menu_3_1.addMenuItem("DCI 762B","location='/irons/details.asp?id=7'");
@@ -124,6 +127,7 @@ function fwLoadMenus() {
   fw_menu_4_1.addMenuItem("Chrome","location='/wedges/details.asp?id=3'");
   fw_menu_4_1.addMenuItem("Oil Can","location='/wedges/details.asp?id=2'");
   fw_menu_4_1.addMenuItem("Special Grind","location='/wedges/details.asp?id=5'");
+  fw_menu_4_1.addMenuItem("Wedge Fitting","location='/clubfitting/default.asp?jumpto=wedges'");
   fw_menu_4_1.hideOnMouseOut=true;
 
   window.fw_menu_5_1 = new Menu("Scotty Cameron Putters",114,16,"Verdana, Arial, Helvetica, sans-serif",9,"#000000","#ffffff","#ffffff","#990033");
@@ -137,16 +141,24 @@ function fwLoadMenus() {
   fw_menu_6_1.addMenuItem("Overview","location='/fairways/default.asp'");
   fw_menu_6_1.addMenuItem("980F","location='/fairways/details.asp?id=1'");
   fw_menu_6_1.addMenuItem("980F Strong","location='/fairways/details.asp?id=3'");
+  fw_menu_6_1.addMenuItem("Fairway Fitting","location='/clubfitting/default.asp?jumpto=fairways'");
   fw_menu_6_1.hideOnMouseOut=true;
+
+  window.fw_menu_utility = new Menu("Utility Irons",80,16,"Verdana, Arial, Helvetica, sans-serif",9,"#000000","#ffffff","#ffffff","#990033");
+  //fw_menu_utility.addMenuItem("Overview","location='/fairways/default.asp'");
+  fw_menu_utility.addMenuItem("503.H","location='/utility_irons/details.asp?id=1'");
+  fw_menu_utility.hideOnMouseOut=true;
 
   window.fw_menu_2 = new Menu("root",142,16,"Verdana, Arial, Helvetica, sans-serif",9,"#000000","#ffffff","#ffffff","#990033");
   fw_menu_2.addMenuItem("Overview","location='/clubs.asp'");
   fw_menu_2.addMenuItem(fw_menu_2_1); 
   fw_menu_2.addMenuItem(fw_menu_6_1);
+  fw_menu_2.addMenuItem(fw_menu_utility);
   fw_menu_2.addMenuItem(fw_menu_3_1);
 
   fw_menu_2.addMenuItem(fw_menu_4_1);
   fw_menu_2.addMenuItem(fw_menu_5_1);
+  fw_menu_2.addMenuItem("Club Fitting","location='/clubfitting/default.asp'");
    fw_menu_2.hideOnMouseOut=true;
    fw_menu_2.childMenuIcon="/images/navigation/arrows.gif";
 
@@ -158,6 +170,19 @@ function fwLoadMenus() {
   fw_menu_4.addMenuItem("NATIONWIDE","location='/players/ballPlayers.asp?tour=6'");
   fw_menu_4.addMenuItem("JAPAN PGA","location='/players/ballPlayers.asp?tour=5'");
    fw_menu_4.hideOnMouseOut=true;
+
+   window.fw_menu_int = new Menu("root",131,20,"Verdana, Arial, Helvetica, sans-serif",10,"#000000","#AD0808","#CECECE","#CECECE");		
+	fw_menu_int.addMenuItem("Australia","location='http://titleist.com.au'");
+	fw_menu_int.addMenuItem("Canada","location='http://titleistgolf.ca'");
+	fw_menu_int.addMenuItem("France","location='http://titleist.com.fr'");
+	fw_menu_int.addMenuItem("Germany","location='http://titleist.de'");
+	fw_menu_int.addMenuItem("Japan","location='http://www.titleist.co.jp'");
+	fw_menu_int.addMenuItem("Sweden","location='http://titleist.nu'");
+	fw_menu_int.addMenuItem("UK","location='http://titleist.co.uk'");
+	
+	fw_menu_int.menuBorderTop=0;
+	fw_menu_int.menuItemBorder=0;
+	fw_menu_int.menuLiteBgColor='#CECECE';
 
   fw_menu_4.writeMenus();
 
@@ -186,46 +211,46 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
    </div>
   </div>
 </div>
-<div id="menuLayer1" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; background-color: rgb(119, 119, 119); width: 144px; height: 122px;">
-  <div id="menuLite1" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 120px; width: 142px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg1" style="position: absolute; left: 1px; top: 1px; height: 119px; width: 141px; background-color: rgb(85, 85, 85);">
+<div id="menuLayer1" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; background-color: rgb(119, 119, 119); width: 144px; height: 105px;">
+  <div id="menuLite1" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 103px; width: 142px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg1" style="position: absolute; left: 1px; top: 1px; height: 102px; width: 141px; background-color: rgb(85, 85, 85);">
 <div id="menuItem5" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 140px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText5" style="position:absolute;left:9;top:1;color:#000000;">Overview&nbsp;</div>
-<div id="menuItemHilite5" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Overview&nbsp;</div></div><div id="menuItem6" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 140px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText6" style="position:absolute;left:9;top:1;color:#000000;">Fitted Headwear&nbsp;</div>
-<div id="menuItemHilite6" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Fitted Headwear&nbsp;</div></div><div id="menuItem7" style="position: absolute; left: 0px; top: 34px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 140px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText7" style="position:absolute;left:9;top:1;color:#000000;">Adjustable Headwear&nbsp;</div>
-<div id="menuItemHilite7" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Adjustable Headwear&nbsp;</div></div><div id="menuItem8" style="position: absolute; left: 0px; top: 51px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 140px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText8" style="position:absolute;left:9;top:1;color:#000000;">Visors&nbsp;</div>
-<div id="menuItemHilite8" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Visors&nbsp;</div></div><div id="menuItem9" style="position: absolute; left: 0px; top: 68px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 140px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText9" style="position:absolute;left:9;top:1;color:#000000;">Junior Headwear&nbsp;</div>
-<div id="menuItemHilite9" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Junior Headwear&nbsp;</div></div><div id="menuItem10" style="position: absolute; left: 0px; top: 85px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 140px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText10" style="position:absolute;left:9;top:1;color:#000000;">Women's Headwear&nbsp;</div>
-<div id="menuItemHilite10" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Women's Headwear&nbsp;</div></div><div id="menuItem11" style="position: absolute; left: 0px; top: 102px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 140px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText11" style="position:absolute;left:9;top:1;color:#000000;">Sun Headwear&nbsp;</div>
-<div id="menuItemHilite11" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Sun Headwear&nbsp;</div></div>	  <div id="focusItem1" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+<div id="menuItemHilite5" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Overview&nbsp;</div></div><div id="menuItem6" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 140px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText6" style="position:absolute;left:9;top:1;color:#000000;">Adjustable Headwear&nbsp;</div>
+<div id="menuItemHilite6" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Adjustable Headwear&nbsp;</div></div><div id="menuItem7" style="position: absolute; left: 0px; top: 34px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 140px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText7" style="position:absolute;left:9;top:1;color:#000000;">Fitted Headwear&nbsp;</div>
+<div id="menuItemHilite7" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Fitted Headwear&nbsp;</div></div><div id="menuItem8" style="position: absolute; left: 0px; top: 51px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 140px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText8" style="position:absolute;left:9;top:1;color:#000000;">Visors &amp; Sun Headwear&nbsp;</div>
+<div id="menuItemHilite8" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Visors &amp; Sun Headwear&nbsp;</div></div><div id="menuItem9" style="position: absolute; left: 0px; top: 68px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 140px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText9" style="position:absolute;left:9;top:1;color:#000000;">Women's Headwear&nbsp;</div>
+<div id="menuItemHilite9" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Women's Headwear&nbsp;</div></div><div id="menuItem10" style="position: absolute; left: 0px; top: 85px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 140px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText10" style="position:absolute;left:9;top:1;color:#000000;">Junior's Headwear&nbsp;</div>
+<div id="menuItemHilite10" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Junior's Headwear&nbsp;</div></div>	  <div id="focusItem1" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
    </div>
   </div>
 </div>
 <div id="menuLayer2" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; background-color: rgb(119, 119, 119); width: 118px; height: 71px;">
   <div id="menuLite2" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 69px; width: 116px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
 	 <div id="menuFg2" style="position: absolute; left: 1px; top: 1px; height: 68px; width: 115px; background-color: rgb(85, 85, 85);">
-<div id="menuItem12" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 114px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText12" style="position:absolute;left:9;top:1;color:#000000;">Overview&nbsp;</div>
-<div id="menuItemHilite12" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Overview&nbsp;</div></div><div id="menuItem13" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 114px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText13" style="position:absolute;left:9;top:1;color:#000000;">Gloves &amp; Headwear&nbsp;</div>
-<div id="menuItemHilite13" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Gloves &amp; Headwear&nbsp;</div></div><div id="menuItem14" style="position: absolute; left: 0px; top: 34px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 114px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText14" style="position:absolute;left:9;top:1;color:#000000;">Gear&nbsp;</div>
-<div id="menuItemHilite14" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Gear&nbsp;</div></div><div id="menuItem15" style="position: absolute; left: 0px; top: 51px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 114px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText15" style="position:absolute;left:9;top:1;color:#000000;">Bags&nbsp;</div>
-<div id="menuItemHilite15" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Bags&nbsp;</div></div>	  <div id="focusItem2" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+<div id="menuItem11" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 114px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText11" style="position:absolute;left:9;top:1;color:#000000;">Overview&nbsp;</div>
+<div id="menuItemHilite11" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Overview&nbsp;</div></div><div id="menuItem12" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 114px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText12" style="position:absolute;left:9;top:1;color:#000000;">Gloves &amp; Headwear&nbsp;</div>
+<div id="menuItemHilite12" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Gloves &amp; Headwear&nbsp;</div></div><div id="menuItem13" style="position: absolute; left: 0px; top: 34px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 114px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText13" style="position:absolute;left:9;top:1;color:#000000;">Gear&nbsp;</div>
+<div id="menuItemHilite13" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Gear&nbsp;</div></div><div id="menuItem14" style="position: absolute; left: 0px; top: 51px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 114px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText14" style="position:absolute;left:9;top:1;color:#000000;">Bags&nbsp;</div>
+<div id="menuItemHilite14" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Bags&nbsp;</div></div>	  <div id="focusItem2" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
    </div>
   </div>
 </div>
-<div id="menuLayer3" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; background-color: rgb(119, 119, 119); width: 134px; height: 156px;">
-  <div id="menuLite3" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 154px; width: 132px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg3" style="position: absolute; left: 1px; top: 1px; height: 153px; width: 131px; background-color: rgb(85, 85, 85);">
-<div id="menuItem16" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 130px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText16" style="position:absolute;left:9;top:1;color:#000000;">Overview&nbsp;</div>
-<div id="menuItemHilite16" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Overview&nbsp;</div></div><div id="menuItem17" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 130px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText17" style="position:absolute;left:9;top:1;color:#000000;">Golf Gloves&nbsp;</div>
-<div id="menuItemHilite17" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Golf Gloves&nbsp;</div><div id="childMenu17" style="position: absolute; left: 119px; top: 4px;"><img src="/images/navigation/arrows.gif"></div>
-</div><div id="menuItem18" style="position: absolute; left: 0px; top: 34px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 130px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText18" style="position:absolute;left:9;top:1;color:#000000;">Cart Bags&nbsp;</div>
-<div id="menuItemHilite18" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Cart Bags&nbsp;</div></div><div id="menuItem19" style="position: absolute; left: 0px; top: 51px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 130px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText19" style="position:absolute;left:9;top:1;color:#000000;">Stand and Carry Bags&nbsp;</div>
-<div id="menuItemHilite19" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Stand and Carry Bags&nbsp;</div></div><div id="menuItem20" style="position: absolute; left: 0px; top: 68px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 130px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText20" style="position:absolute;left:9;top:1;color:#000000;">Travel Gear&nbsp;</div>
-<div id="menuItemHilite20" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Travel Gear&nbsp;</div></div><div id="menuItem21" style="position: absolute; left: 0px; top: 85px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 130px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText21" style="position:absolute;left:9;top:1;color:#000000;">Accessories&nbsp;</div>
-<div id="menuItemHilite21" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Accessories&nbsp;</div></div><div id="menuItem22" style="position: absolute; left: 0px; top: 102px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 130px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText22" style="position:absolute;left:9;top:1;color:#000000;">Elements Gear&nbsp;</div>
-<div id="menuItemHilite22" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Elements Gear&nbsp;</div></div><div id="menuItem23" style="position: absolute; left: 0px; top: 119px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 130px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText23" style="position:absolute;left:9;top:1;color:#000000;">Headwear&nbsp;</div>
-<div id="menuItemHilite23" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Headwear&nbsp;</div><div id="childMenu23" style="position: absolute; left: 119px; top: 4px;"><img src="/images/navigation/arrows.gif"></div>
-</div><div id="menuItem24" style="position: absolute; left: 0px; top: 136px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 130px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText24" style="position:absolute;left:9;top:1;color:#000000;">Custom&nbsp;</div>
-<div id="menuItemHilite24" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Custom&nbsp;</div><div id="childMenu24" style="position: absolute; left: 119px; top: 4px;"><img src="/images/navigation/arrows.gif"></div>
+<div id="menuLayer3" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; background-color: rgb(119, 119, 119); width: 144px; height: 173px;">
+  <div id="menuLite3" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 171px; width: 142px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg3" style="position: absolute; left: 1px; top: 1px; height: 170px; width: 141px; background-color: rgb(85, 85, 85);">
+<div id="menuItem15" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 140px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText15" style="position:absolute;left:9;top:1;color:#000000;">Overview&nbsp;</div>
+<div id="menuItemHilite15" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Overview&nbsp;</div></div><div id="menuItem16" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 140px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText16" style="position:absolute;left:9;top:1;color:#000000;">Golf Gloves&nbsp;</div>
+<div id="menuItemHilite16" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Golf Gloves&nbsp;</div><div id="childMenu16" style="position: absolute; left: 129px; top: 4px;"><img src="/images/navigation/arrows.gif"></div>
+</div><div id="menuItem17" style="position: absolute; left: 0px; top: 34px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 140px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText17" style="position:absolute;left:9;top:1;color:#000000;">Cart Bags&nbsp;</div>
+<div id="menuItemHilite17" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Cart Bags&nbsp;</div></div><div id="menuItem18" style="position: absolute; left: 0px; top: 51px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 140px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText18" style="position:absolute;left:9;top:1;color:#000000;">Stand and Carry Bags&nbsp;</div>
+<div id="menuItemHilite18" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Stand and Carry Bags&nbsp;</div></div><div id="menuItem19" style="position: absolute; left: 0px; top: 68px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 140px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText19" style="position:absolute;left:9;top:1;color:#000000;">Classic Travel Gear&nbsp;</div>
+<div id="menuItemHilite19" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Classic Travel Gear&nbsp;</div></div><div id="menuItem20" style="position: absolute; left: 0px; top: 85px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 140px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText20" style="position:absolute;left:9;top:1;color:#000000;">Sport Travel Gear&nbsp;</div>
+<div id="menuItemHilite20" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Sport Travel Gear&nbsp;</div></div><div id="menuItem21" style="position: absolute; left: 0px; top: 102px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 140px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText21" style="position:absolute;left:9;top:1;color:#000000;">Essentials Accessories&nbsp;</div>
+<div id="menuItemHilite21" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Essentials Accessories&nbsp;</div></div><div id="menuItem22" style="position: absolute; left: 0px; top: 119px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 140px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText22" style="position:absolute;left:9;top:1;color:#000000;">Elements Gear&nbsp;</div>
+<div id="menuItemHilite22" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Elements Gear&nbsp;</div></div><div id="menuItem23" style="position: absolute; left: 0px; top: 136px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 140px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText23" style="position:absolute;left:9;top:1;color:#000000;">Headwear&nbsp;</div>
+<div id="menuItemHilite23" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Headwear&nbsp;</div><div id="childMenu23" style="position: absolute; left: 129px; top: 4px;"><img src="/images/navigation/arrows.gif"></div>
+</div><div id="menuItem24" style="position: absolute; left: 0px; top: 153px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 140px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText24" style="position:absolute;left:9;top:1;color:#000000;">Custom&nbsp;</div>
+<div id="menuItemHilite24" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Custom&nbsp;</div><div id="childMenu24" style="position: absolute; left: 129px; top: 4px;"><img src="/images/navigation/arrows.gif"></div>
 </div>	  <div id="focusItem3" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
    </div>
   </div>
@@ -244,92 +269,121 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
    </div>
   </div>
 </div>
-<div id="menuLayer5" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; background-color: rgb(119, 119, 119); width: 118px; height: 54px;">
-  <div id="menuLite5" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 52px; width: 116px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg5" style="position: absolute; left: 1px; top: 1px; height: 51px; width: 115px; background-color: rgb(85, 85, 85);">
+<div id="menuLayer5" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; background-color: rgb(119, 119, 119); width: 118px; height: 71px;">
+  <div id="menuLite5" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 69px; width: 116px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg5" style="position: absolute; left: 1px; top: 1px; height: 68px; width: 115px; background-color: rgb(85, 85, 85);">
 <div id="menuItem32" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 114px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText32" style="position:absolute;left:9;top:1;color:#000000;">Overview&nbsp;</div>
 <div id="menuItemHilite32" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Overview&nbsp;</div></div><div id="menuItem33" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 114px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText33" style="position:absolute;left:9;top:1;color:#000000;">983K&nbsp;</div>
 <div id="menuItemHilite33" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">983K&nbsp;</div></div><div id="menuItem34" style="position: absolute; left: 0px; top: 34px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 114px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText34" style="position:absolute;left:9;top:1;color:#000000;">983E&nbsp;</div>
-<div id="menuItemHilite34" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">983E&nbsp;</div></div>	  <div id="focusItem5" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+<div id="menuItemHilite34" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">983E&nbsp;</div></div><div id="menuItem35" style="position: absolute; left: 0px; top: 51px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 114px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText35" style="position:absolute;left:9;top:1;color:#000000;">Driver Fitting&nbsp;</div>
+<div id="menuItemHilite35" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Driver Fitting&nbsp;</div></div>	  <div id="focusItem5" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
    </div>
   </div>
 </div>
-<div id="menuLayer6" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; background-color: rgb(119, 119, 119); width: 158px; height: 122px;">
-  <div id="menuLite6" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 120px; width: 156px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg6" style="position: absolute; left: 1px; top: 1px; height: 119px; width: 155px; background-color: rgb(85, 85, 85);">
-<div id="menuItem35" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 154px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText35" style="position:absolute;left:9;top:1;color:#000000;">Overview&nbsp;</div>
-<div id="menuItemHilite35" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Overview&nbsp;</div></div><div id="menuItem36" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 154px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText36" style="position:absolute;left:9;top:1;color:#000000;">Forged 670&nbsp;</div>
-<div id="menuItemHilite36" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Forged 670&nbsp;</div></div><div id="menuItem37" style="position: absolute; left: 0px; top: 34px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 154px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText37" style="position:absolute;left:9;top:1;color:#000000;">Forged 690.MB&nbsp;</div>
-<div id="menuItemHilite37" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Forged 690.MB&nbsp;</div></div><div id="menuItem38" style="position: absolute; left: 0px; top: 51px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 154px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText38" style="position:absolute;left:9;top:1;color:#000000;">Forged 690.CB&nbsp;</div>
-<div id="menuItemHilite38" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Forged 690.CB&nbsp;</div></div><div id="menuItem39" style="position: absolute; left: 0px; top: 68px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 154px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText39" style="position:absolute;left:9;top:1;color:#000000;">Forged Stainless 704.CB&nbsp;</div>
-<div id="menuItemHilite39" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Forged Stainless 704.CB&nbsp;</div></div><div id="menuItem40" style="position: absolute; left: 0px; top: 85px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 154px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText40" style="position:absolute;left:9;top:1;color:#000000;">Forged Stainless 804.OS&nbsp;</div>
-<div id="menuItemHilite40" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Forged Stainless 804.OS&nbsp;</div></div><div id="menuItem41" style="position: absolute; left: 0px; top: 102px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 154px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText41" style="position:absolute;left:9;top:1;color:#000000;">Titleist 731PM&nbsp;</div>
-<div id="menuItemHilite41" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Titleist 731PM&nbsp;</div></div>	  <div id="focusItem6" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+<div id="menuLayer6" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; background-color: rgb(119, 119, 119); width: 158px; height: 139px;">
+  <div id="menuLite6" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 137px; width: 156px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg6" style="position: absolute; left: 1px; top: 1px; height: 136px; width: 155px; background-color: rgb(85, 85, 85);">
+<div id="menuItem36" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 154px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText36" style="position:absolute;left:9;top:1;color:#000000;">Overview&nbsp;</div>
+<div id="menuItemHilite36" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Overview&nbsp;</div></div><div id="menuItem37" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 154px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText37" style="position:absolute;left:9;top:1;color:#000000;">Forged 670&nbsp;</div>
+<div id="menuItemHilite37" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Forged 670&nbsp;</div></div><div id="menuItem38" style="position: absolute; left: 0px; top: 34px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 154px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText38" style="position:absolute;left:9;top:1;color:#000000;">Forged 680&nbsp;</div>
+<div id="menuItemHilite38" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Forged 680&nbsp;</div></div><div id="menuItem39" style="position: absolute; left: 0px; top: 51px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 154px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText39" style="position:absolute;left:9;top:1;color:#000000;">Forged 690.MB&nbsp;</div>
+<div id="menuItemHilite39" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Forged 690.MB&nbsp;</div></div><div id="menuItem40" style="position: absolute; left: 0px; top: 68px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 154px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText40" style="position:absolute;left:9;top:1;color:#000000;">Forged 690.CB&nbsp;</div>
+<div id="menuItemHilite40" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Forged 690.CB&nbsp;</div></div><div id="menuItem41" style="position: absolute; left: 0px; top: 85px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 154px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText41" style="position:absolute;left:9;top:1;color:#000000;">Forged Stainless 704.CB&nbsp;</div>
+<div id="menuItemHilite41" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Forged Stainless 704.CB&nbsp;</div></div><div id="menuItem42" style="position: absolute; left: 0px; top: 102px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 154px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText42" style="position:absolute;left:9;top:1;color:#000000;">Forged Stainless 804.OS&nbsp;</div>
+<div id="menuItemHilite42" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Forged Stainless 804.OS&nbsp;</div></div><div id="menuItem43" style="position: absolute; left: 0px; top: 119px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 154px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText43" style="position:absolute;left:9;top:1;color:#000000;">Iron Fitting&nbsp;</div>
+<div id="menuItemHilite43" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Iron Fitting&nbsp;</div></div>	  <div id="focusItem6" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
    </div>
   </div>
 </div>
-<div id="menuLayer7" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; background-color: rgb(119, 119, 119); width: 118px; height: 88px;">
-  <div id="menuLite7" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 86px; width: 116px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg7" style="position: absolute; left: 1px; top: 1px; height: 85px; width: 115px; background-color: rgb(85, 85, 85);">
-<div id="menuItem42" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 114px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText42" style="position:absolute;left:9;top:1;color:#000000;">Overview&nbsp;</div>
-<div id="menuItemHilite42" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Overview&nbsp;</div></div><div id="menuItem43" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 114px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText43" style="position:absolute;left:9;top:1;color:#000000;">Black Nickel&nbsp;</div>
-<div id="menuItemHilite43" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Black Nickel&nbsp;</div></div><div id="menuItem44" style="position: absolute; left: 0px; top: 34px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 114px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText44" style="position:absolute;left:9;top:1;color:#000000;">Chrome&nbsp;</div>
-<div id="menuItemHilite44" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Chrome&nbsp;</div></div><div id="menuItem45" style="position: absolute; left: 0px; top: 51px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 114px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText45" style="position:absolute;left:9;top:1;color:#000000;">Oil Can&nbsp;</div>
-<div id="menuItemHilite45" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Oil Can&nbsp;</div></div><div id="menuItem46" style="position: absolute; left: 0px; top: 68px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 114px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText46" style="position:absolute;left:9;top:1;color:#000000;">Special Grind&nbsp;</div>
-<div id="menuItemHilite46" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Special Grind&nbsp;</div></div>	  <div id="focusItem7" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+<div id="menuLayer7" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; background-color: rgb(119, 119, 119); width: 118px; height: 105px;">
+  <div id="menuLite7" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 103px; width: 116px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg7" style="position: absolute; left: 1px; top: 1px; height: 102px; width: 115px; background-color: rgb(85, 85, 85);">
+<div id="menuItem44" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 114px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText44" style="position:absolute;left:9;top:1;color:#000000;">Overview&nbsp;</div>
+<div id="menuItemHilite44" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Overview&nbsp;</div></div><div id="menuItem45" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 114px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText45" style="position:absolute;left:9;top:1;color:#000000;">Black Nickel&nbsp;</div>
+<div id="menuItemHilite45" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Black Nickel&nbsp;</div></div><div id="menuItem46" style="position: absolute; left: 0px; top: 34px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 114px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText46" style="position:absolute;left:9;top:1;color:#000000;">Chrome&nbsp;</div>
+<div id="menuItemHilite46" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Chrome&nbsp;</div></div><div id="menuItem47" style="position: absolute; left: 0px; top: 51px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 114px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText47" style="position:absolute;left:9;top:1;color:#000000;">Oil Can&nbsp;</div>
+<div id="menuItemHilite47" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Oil Can&nbsp;</div></div><div id="menuItem48" style="position: absolute; left: 0px; top: 68px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 114px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText48" style="position:absolute;left:9;top:1;color:#000000;">Special Grind&nbsp;</div>
+<div id="menuItemHilite48" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Special Grind&nbsp;</div></div><div id="menuItem49" style="position: absolute; left: 0px; top: 85px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 114px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText49" style="position:absolute;left:9;top:1;color:#000000;">Wedge Fitting&nbsp;</div>
+<div id="menuItemHilite49" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Wedge Fitting&nbsp;</div></div>	  <div id="focusItem7" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
    </div>
   </div>
 </div>
 <div id="menuLayer8" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; background-color: rgb(119, 119, 119); width: 118px; height: 88px;">
   <div id="menuLite8" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 86px; width: 116px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
 	 <div id="menuFg8" style="position: absolute; left: 1px; top: 1px; height: 85px; width: 115px; background-color: rgb(85, 85, 85);">
-<div id="menuItem47" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 114px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText47" style="position:absolute;left:9;top:1;color:#000000;">Overview&nbsp;</div>
-<div id="menuItemHilite47" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Overview&nbsp;</div></div><div id="menuItem48" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 114px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText48" style="position:absolute;left:9;top:1;color:#000000;">Studio Stainless&nbsp;</div>
-<div id="menuItemHilite48" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Studio Stainless&nbsp;</div></div><div id="menuItem49" style="position: absolute; left: 0px; top: 34px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 114px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText49" style="position:absolute;left:9;top:1;color:#000000;">Studio Design&nbsp;</div>
-<div id="menuItemHilite49" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Studio Design&nbsp;</div></div><div id="menuItem50" style="position: absolute; left: 0px; top: 51px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 114px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText50" style="position:absolute;left:9;top:1;color:#000000;">Futura&nbsp;</div>
-<div id="menuItemHilite50" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Futura&nbsp;</div></div><div id="menuItem51" style="position: absolute; left: 0px; top: 68px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 114px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText51" style="position:absolute;left:9;top:1;color:#000000;">Red X&nbsp;</div>
-<div id="menuItemHilite51" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Red X&nbsp;</div></div>	  <div id="focusItem8" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+<div id="menuItem50" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 114px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText50" style="position:absolute;left:9;top:1;color:#000000;">Overview&nbsp;</div>
+<div id="menuItemHilite50" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Overview&nbsp;</div></div><div id="menuItem51" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 114px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText51" style="position:absolute;left:9;top:1;color:#000000;">Studio Stainless&nbsp;</div>
+<div id="menuItemHilite51" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Studio Stainless&nbsp;</div></div><div id="menuItem52" style="position: absolute; left: 0px; top: 34px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 114px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText52" style="position:absolute;left:9;top:1;color:#000000;">Studio Design&nbsp;</div>
+<div id="menuItemHilite52" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Studio Design&nbsp;</div></div><div id="menuItem53" style="position: absolute; left: 0px; top: 51px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 114px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText53" style="position:absolute;left:9;top:1;color:#000000;">Futura&nbsp;</div>
+<div id="menuItemHilite53" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Futura&nbsp;</div></div><div id="menuItem54" style="position: absolute; left: 0px; top: 68px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 114px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText54" style="position:absolute;left:9;top:1;color:#000000;">Red X&nbsp;</div>
+<div id="menuItemHilite54" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Red X&nbsp;</div></div>	  <div id="focusItem8" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
    </div>
   </div>
 </div>
-<div id="menuLayer9" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; background-color: rgb(119, 119, 119); width: 118px; height: 54px;">
-  <div id="menuLite9" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 52px; width: 116px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg9" style="position: absolute; left: 1px; top: 1px; height: 51px; width: 115px; background-color: rgb(85, 85, 85);">
-<div id="menuItem52" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 114px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText52" style="position:absolute;left:9;top:1;color:#000000;">Overview&nbsp;</div>
-<div id="menuItemHilite52" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Overview&nbsp;</div></div><div id="menuItem53" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 114px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText53" style="position:absolute;left:9;top:1;color:#000000;">980F&nbsp;</div>
-<div id="menuItemHilite53" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">980F&nbsp;</div></div><div id="menuItem54" style="position: absolute; left: 0px; top: 34px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 114px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText54" style="position:absolute;left:9;top:1;color:#000000;">980F Strong&nbsp;</div>
-<div id="menuItemHilite54" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">980F Strong&nbsp;</div></div>	  <div id="focusItem9" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+<div id="menuLayer9" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; background-color: rgb(119, 119, 119); width: 118px; height: 71px;">
+  <div id="menuLite9" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 69px; width: 116px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg9" style="position: absolute; left: 1px; top: 1px; height: 68px; width: 115px; background-color: rgb(85, 85, 85);">
+<div id="menuItem55" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 114px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText55" style="position:absolute;left:9;top:1;color:#000000;">Overview&nbsp;</div>
+<div id="menuItemHilite55" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Overview&nbsp;</div></div><div id="menuItem56" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 114px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText56" style="position:absolute;left:9;top:1;color:#000000;">980F&nbsp;</div>
+<div id="menuItemHilite56" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">980F&nbsp;</div></div><div id="menuItem57" style="position: absolute; left: 0px; top: 34px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 114px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText57" style="position:absolute;left:9;top:1;color:#000000;">980F Strong&nbsp;</div>
+<div id="menuItemHilite57" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">980F Strong&nbsp;</div></div><div id="menuItem58" style="position: absolute; left: 0px; top: 51px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 114px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText58" style="position:absolute;left:9;top:1;color:#000000;">Fairway Fitting&nbsp;</div>
+<div id="menuItemHilite58" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Fairway Fitting&nbsp;</div></div>	  <div id="focusItem9" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
    </div>
   </div>
 </div>
-<div id="menuLayer10" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; background-color: rgb(119, 119, 119); width: 146px; height: 105px;">
-  <div id="menuLite10" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 103px; width: 144px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg10" style="position: absolute; left: 1px; top: 1px; height: 102px; width: 143px; background-color: rgb(85, 85, 85);">
-<div id="menuItem55" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 142px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText55" style="position:absolute;left:9;top:1;color:#000000;">Overview&nbsp;</div>
-<div id="menuItemHilite55" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Overview&nbsp;</div></div><div id="menuItem56" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 142px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText56" style="position:absolute;left:9;top:1;color:#000000;">Drivers&nbsp;</div>
-<div id="menuItemHilite56" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Drivers&nbsp;</div><div id="childMenu56" style="position: absolute; left: 131px; top: 4px;"><img src="/images/navigation/arrows.gif"></div>
-</div><div id="menuItem57" style="position: absolute; left: 0px; top: 34px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 142px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText57" style="position:absolute;left:9;top:1;color:#000000;">Fairways&nbsp;</div>
-<div id="menuItemHilite57" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Fairways&nbsp;</div><div id="childMenu57" style="position: absolute; left: 131px; top: 4px;"><img src="/images/navigation/arrows.gif"></div>
-</div><div id="menuItem58" style="position: absolute; left: 0px; top: 51px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 142px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText58" style="position:absolute;left:9;top:1;color:#000000;">Irons&nbsp;</div>
-<div id="menuItemHilite58" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Irons&nbsp;</div><div id="childMenu58" style="position: absolute; left: 131px; top: 4px;"><img src="/images/navigation/arrows.gif"></div>
-</div><div id="menuItem59" style="position: absolute; left: 0px; top: 68px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 142px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText59" style="position:absolute;left:9;top:1;color:#000000;">Vokey Design Wedges&nbsp;</div>
-<div id="menuItemHilite59" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Vokey Design Wedges&nbsp;</div><div id="childMenu59" style="position: absolute; left: 131px; top: 4px;"><img src="/images/navigation/arrows.gif"></div>
-</div><div id="menuItem60" style="position: absolute; left: 0px; top: 85px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 142px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText60" style="position:absolute;left:9;top:1;color:#000000;">Scotty Cameron Putters&nbsp;</div>
-<div id="menuItemHilite60" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Scotty Cameron Putters&nbsp;</div><div id="childMenu60" style="position: absolute; left: 131px; top: 4px;"><img src="/images/navigation/arrows.gif"></div>
-</div>	  <div id="focusItem10" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+<div id="menuLayer10" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; background-color: rgb(119, 119, 119); width: 84px; height: 20px;">
+  <div id="menuLite10" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 18px; width: 82px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg10" style="position: absolute; left: 1px; top: 1px; height: 17px; width: 81px; background-color: rgb(85, 85, 85);">
+<div id="menuItem59" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 80px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText59" style="position:absolute;left:9;top:1;color:#000000;">503.H&nbsp;</div>
+<div id="menuItemHilite59" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">503.H&nbsp;</div></div>	  <div id="focusItem10" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
    </div>
   </div>
 </div>
-<div id="menuLayer11" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; background-color: rgb(119, 119, 119); width: 112px; height: 105px;">
-  <div id="menuLite11" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 103px; width: 110px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg11" style="position: absolute; left: 1px; top: 1px; height: 102px; width: 109px; background-color: rgb(85, 85, 85);">
-<div id="menuItem61" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 108px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText61" style="position:absolute;left:9;top:1;color:#000000;">PGA&nbsp;</div>
-<div id="menuItemHilite61" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">PGA&nbsp;</div></div><div id="menuItem62" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 108px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText62" style="position:absolute;left:9;top:1;color:#000000;">LPGA&nbsp;</div>
-<div id="menuItemHilite62" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">LPGA&nbsp;</div></div><div id="menuItem63" style="position: absolute; left: 0px; top: 34px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 108px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText63" style="position:absolute;left:9;top:1;color:#000000;">CHAMPIONS&nbsp;</div>
-<div id="menuItemHilite63" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">CHAMPIONS&nbsp;</div></div><div id="menuItem64" style="position: absolute; left: 0px; top: 51px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 108px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText64" style="position:absolute;left:9;top:1;color:#000000;">PGA EUROPEAN&nbsp;</div>
-<div id="menuItemHilite64" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">PGA EUROPEAN&nbsp;</div></div><div id="menuItem65" style="position: absolute; left: 0px; top: 68px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 108px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText65" style="position:absolute;left:9;top:1;color:#000000;">NATIONWIDE&nbsp;</div>
-<div id="menuItemHilite65" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">NATIONWIDE&nbsp;</div></div><div id="menuItem66" style="position: absolute; left: 0px; top: 85px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 108px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText66" style="position:absolute;left:9;top:1;color:#000000;">JAPAN PGA&nbsp;</div>
-<div id="menuItemHilite66" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">JAPAN PGA&nbsp;</div></div>	  <div id="focusItem11" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+<div id="menuLayer11" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; background-color: rgb(119, 119, 119); width: 146px; height: 139px;">
+  <div id="menuLite11" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 137px; width: 144px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg11" style="position: absolute; left: 1px; top: 1px; height: 136px; width: 143px; background-color: rgb(85, 85, 85);">
+<div id="menuItem60" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 142px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText60" style="position:absolute;left:9;top:1;color:#000000;">Overview&nbsp;</div>
+<div id="menuItemHilite60" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Overview&nbsp;</div></div><div id="menuItem61" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 142px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText61" style="position:absolute;left:9;top:1;color:#000000;">Drivers&nbsp;</div>
+<div id="menuItemHilite61" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Drivers&nbsp;</div><div id="childMenu61" style="position: absolute; left: 131px; top: 4px;"><img src="/images/navigation/arrows.gif"></div>
+</div><div id="menuItem62" style="position: absolute; left: 0px; top: 34px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 142px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText62" style="position:absolute;left:9;top:1;color:#000000;">Fairways&nbsp;</div>
+<div id="menuItemHilite62" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Fairways&nbsp;</div><div id="childMenu62" style="position: absolute; left: 131px; top: 4px;"><img src="/images/navigation/arrows.gif"></div>
+</div><div id="menuItem63" style="position: absolute; left: 0px; top: 51px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 142px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText63" style="position:absolute;left:9;top:1;color:#000000;">Utility Irons&nbsp;</div>
+<div id="menuItemHilite63" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Utility Irons&nbsp;</div><div id="childMenu63" style="position: absolute; left: 131px; top: 4px;"><img src="/images/navigation/arrows.gif"></div>
+</div><div id="menuItem64" style="position: absolute; left: 0px; top: 68px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 142px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText64" style="position:absolute;left:9;top:1;color:#000000;">Irons&nbsp;</div>
+<div id="menuItemHilite64" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Irons&nbsp;</div><div id="childMenu64" style="position: absolute; left: 131px; top: 4px;"><img src="/images/navigation/arrows.gif"></div>
+</div><div id="menuItem65" style="position: absolute; left: 0px; top: 85px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 142px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText65" style="position:absolute;left:9;top:1;color:#000000;">Vokey Design Wedges&nbsp;</div>
+<div id="menuItemHilite65" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Vokey Design Wedges&nbsp;</div><div id="childMenu65" style="position: absolute; left: 131px; top: 4px;"><img src="/images/navigation/arrows.gif"></div>
+</div><div id="menuItem66" style="position: absolute; left: 0px; top: 102px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 142px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText66" style="position:absolute;left:9;top:1;color:#000000;">Scotty Cameron Putters&nbsp;</div>
+<div id="menuItemHilite66" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Scotty Cameron Putters&nbsp;</div><div id="childMenu66" style="position: absolute; left: 131px; top: 4px;"><img src="/images/navigation/arrows.gif"></div>
+</div><div id="menuItem67" style="position: absolute; left: 0px; top: 119px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 142px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText67" style="position:absolute;left:9;top:1;color:#000000;">Club Fitting&nbsp;</div>
+<div id="menuItemHilite67" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">Club Fitting&nbsp;</div></div>	  <div id="focusItem11" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+<div id="menuLayer12" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; background-color: rgb(119, 119, 119); width: 112px; height: 105px;">
+  <div id="menuLite12" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 103px; width: 110px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg12" style="position: absolute; left: 1px; top: 1px; height: 102px; width: 109px; background-color: rgb(85, 85, 85);">
+<div id="menuItem68" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 108px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText68" style="position:absolute;left:9;top:1;color:#000000;">PGA&nbsp;</div>
+<div id="menuItemHilite68" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">PGA&nbsp;</div></div><div id="menuItem69" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 108px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText69" style="position:absolute;left:9;top:1;color:#000000;">LPGA&nbsp;</div>
+<div id="menuItemHilite69" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">LPGA&nbsp;</div></div><div id="menuItem70" style="position: absolute; left: 0px; top: 34px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 108px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText70" style="position:absolute;left:9;top:1;color:#000000;">CHAMPIONS&nbsp;</div>
+<div id="menuItemHilite70" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">CHAMPIONS&nbsp;</div></div><div id="menuItem71" style="position: absolute; left: 0px; top: 51px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 108px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText71" style="position:absolute;left:9;top:1;color:#000000;">PGA EUROPEAN&nbsp;</div>
+<div id="menuItemHilite71" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">PGA EUROPEAN&nbsp;</div></div><div id="menuItem72" style="position: absolute; left: 0px; top: 68px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 108px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText72" style="position:absolute;left:9;top:1;color:#000000;">NATIONWIDE&nbsp;</div>
+<div id="menuItemHilite72" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">NATIONWIDE&nbsp;</div></div><div id="menuItem73" style="position: absolute; left: 0px; top: 85px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; width: 108px; height: 16px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText73" style="position:absolute;left:9;top:1;color:#000000;">JAPAN PGA&nbsp;</div>
+<div id="menuItemHilite73" style="position:absolute;left:9;top:1;top:1;color:#ffffff;visibility:hidden;">JAPAN PGA&nbsp;</div></div>	  <div id="focusItem12" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+<div id="menuLayer13" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; background-color: rgb(119, 119, 119); width: 135px; height: 143px;">
+  <div id="menuLite13" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 141px; width: 133px; background-color: rgb(206, 206, 206);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg13" style="position: absolute; left: 1px; top: 1px; height: 140px; width: 132px; background-color: rgb(85, 85, 85);">
+<div id="menuItem74" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 131px; height: 20px; background-color: rgb(206, 206, 206); visibility: inherit; cursor: pointer;"><div id="menuItemText74" style="position:absolute;left:10;top:1;color:#000000;">Australia&nbsp;</div>
+<div id="menuItemHilite74" style="position:absolute;left:10;top:1;top:1;color:#AD0808;visibility:hidden;">Australia&nbsp;</div></div><div id="menuItem75" style="position: absolute; left: 0px; top: 20px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 131px; height: 20px; background-color: rgb(206, 206, 206); visibility: inherit; cursor: pointer;"><div id="menuItemText75" style="position:absolute;left:10;top:1;color:#000000;">Canada&nbsp;</div>
+<div id="menuItemHilite75" style="position:absolute;left:10;top:1;top:1;color:#AD0808;visibility:hidden;">Canada&nbsp;</div></div><div id="menuItem76" style="position: absolute; left: 0px; top: 40px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 131px; height: 20px; background-color: rgb(206, 206, 206); visibility: inherit; cursor: pointer;"><div id="menuItemText76" style="position:absolute;left:10;top:1;color:#000000;">France&nbsp;</div>
+<div id="menuItemHilite76" style="position:absolute;left:10;top:1;top:1;color:#AD0808;visibility:hidden;">France&nbsp;</div></div><div id="menuItem77" style="position: absolute; left: 0px; top: 60px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 131px; height: 20px; background-color: rgb(206, 206, 206); visibility: inherit; cursor: pointer;"><div id="menuItemText77" style="position:absolute;left:10;top:1;color:#000000;">Germany&nbsp;</div>
+<div id="menuItemHilite77" style="position:absolute;left:10;top:1;top:1;color:#AD0808;visibility:hidden;">Germany&nbsp;</div></div><div id="menuItem78" style="position: absolute; left: 0px; top: 80px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 131px; height: 20px; background-color: rgb(206, 206, 206); visibility: inherit; cursor: pointer;"><div id="menuItemText78" style="position:absolute;left:10;top:1;color:#000000;">Japan&nbsp;</div>
+<div id="menuItemHilite78" style="position:absolute;left:10;top:1;top:1;color:#AD0808;visibility:hidden;">Japan&nbsp;</div></div><div id="menuItem79" style="position: absolute; left: 0px; top: 100px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 131px; height: 20px; background-color: rgb(206, 206, 206); visibility: inherit; cursor: pointer;"><div id="menuItemText79" style="position:absolute;left:10;top:1;color:#000000;">Sweden&nbsp;</div>
+<div id="menuItemHilite79" style="position:absolute;left:10;top:1;top:1;color:#AD0808;visibility:hidden;">Sweden&nbsp;</div></div><div id="menuItem80" style="position: absolute; left: 0px; top: 120px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 131px; height: 20px; background-color: rgb(206, 206, 206); visibility: inherit; cursor: pointer;"><div id="menuItemText80" style="position:absolute;left:10;top:1;color:#000000;">UK&nbsp;</div>
+<div id="menuItemHilite80" style="position:absolute;left:10;top:1;top:1;color:#AD0808;visibility:hidden;">UK&nbsp;</div></div>	  <div id="focusItem13" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
    </div>
   </div>
 </div>
@@ -408,26 +462,53 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
               <tr>
                 <td><img height="18" src="/images/navigation/index_black_arrow.gif" width="18" border="0" name="index_r6_c1"></td>
                 <td><a onmouseover="MM_swapImage('index_r6_c1','','/images/navigation/index_white_arrow.gif',1);" onmouseout="MM_swapImgRestore();" href="/corporate/"><img height="18" src="/images/navigation/index_r6_c3.gif" width="172" border="0" name="index_r6_c3"></a></td></tr>
-		<tr>
-                <td><img height="18" src="/images/navigation/index_black_arrow.gif" width="18" border="0" name="index_r13_c1"></td>
-                <td><a onmouseover="MM_swapImage('index_r13_c1','','/images/navigation/index_white_arrow.gif',1);" onmouseout="MM_swapImgRestore();" href="http://www.titleistgolf.ca"><img height="18" src="/images/navigation/index_flag_ca.gif" width="172" border="0" name="index_flag_ca"></a></td></tr>                  
-              <tr>
-                <td><img height="18" src="/images/navigation/index_black_arrow.gif" width="18" border="0" name="index_r8_c1"></td>
-                <td><a onmouseover="MM_swapImage('index_r8_c1','','/images/navigation/index_white_arrow.gif',1);" onmouseout="MM_swapImgRestore();" href="http://www.titleist.com.fr"><img height="18" src="/images/navigation/index_r8_c3.gif" width="172" border="0" name="index_r8_c3"></a></td></tr>
-              <tr>
-                <td><img height="18" src="/images/navigation/index_black_arrow.gif" width="18" border="0" name="index_r9_c1"></td>
-                <td><a onmouseover="MM_swapImage('index_r9_c1','','/images/navigation/index_white_arrow.gif',1);" onmouseout="MM_swapImgRestore();" href="http://www.titleist.de"><img height="18" src="/images/navigation/index_r9_c3.gif" width="172" border="0" name="index_r9_c3"></a></td></tr>
-              <tr>
-                <td><img height="18" src="/images/navigation/index_black_arrow.gif" width="18" border="0" name="index_r10_c1"></td>
-                <td><a onmouseover="MM_swapImage('index_r10_c1','','/images/navigation/index_white_arrow.gif',1);" onmouseout="MM_swapImgRestore();" href="http://www.titleist.co.jp"><img height="18" src="/images/navigation/index_r10_c3.gif" width="172" border="0" name="index_r10_c3"></a></td></tr>
-              <tr>
-                <td><img height="18" src="/images/navigation/index_black_arrow.gif" width="18" border="0" name="index_r11_c1"></td>
-                <td><a onmouseover="MM_swapImage('index_r11_c1','','/images/navigation/index_white_arrow.gif',1);" onmouseout="MM_swapImgRestore();" href="http://www.titleist.nu"><img height="18" src="/images/navigation/index_r11_c3.gif" width="172" border="0" name="index_r11_c3"></a></td></tr>
-              <tr>
-                <td><img height="18" src="/images/navigation/index_black_arrow.gif" width="18" border="0" name="index_r12_c1"></td>
-                <td><a onmouseover="MM_swapImage('index_r12_c1','','/images/navigation/index_white_arrow.gif',1);" onmouseout="MM_swapImgRestore();" href="http://www.titleist.co.uk"><img height="18" src="/images/navigation/index_r12_c3.gif" width="172" border="0" name="index_r12_c3"></a></td></tr>                
+		<tr background="/images/navigation/nav_spacer.gif">
+                <td background="/images/navigation/nav_spacer.gif" colspan="2" align="right"><img src="/images/navigation/nav_spacer.gif" border="0" name=""></td></tr>
+		<tr bgcolor="#CECECE">
+                <td colspan="2" align="right"><img src="/images/navigation/worldwide_main_but.gif" border="0" name="Titleist" worldwide=""></td></tr>
+              <tr background="/images/navigation/bot_nav_spacer.gif">
+                <td colspan="2" background="/images/navigation/bot_nav_spacer.gif"><div align="center">
+<a href="javascript:;" onmouseover="window.FW_showMenu(window.fw_menu_int,27,251);MM_swapImage('selectsite','','/images/menu_selectsite_f2.gif',1)" onmouseout="hideMenu(false, false);MM_swapImgRestore();"><img src="/images/menu_selectsite.gif" name="selectsite" width="135" height="22" border="0" id="selectsite"></a></div></td></tr>
+		<tr background="/images/navigation/bot_nav_spacer.gif">
+                <td bgcolor="#CECECE"></td>
+				<td background="/images/navigation/bot_nav_spacer2.gif">
+				<table>
+				<tbody><tr bgcolor="#CECECE">
+				<td><img src="/images/spacer.gif" width="5"></td>
+				<td><a href="http://titleist.com.au"><img src="/images/internationalsites/flagAUS.gif" border="0"></a></td>
+	<td><img src="/images/spacer.gif" width="4"></td>
+	<td><a href="http://titleistgolf.ca"><img src="/images/internationalsites/flagCAN.gif" border="0"></a></td>
+	<td><img src="/images/spacer.gif" width="4"></td>
+	<td><a href="http://titleist.com.fr"><img src="/images/internationalsites/flagFR.gif" border="0"></a></td>
+	<td><img src="/images/spacer.gif" width="4"></td>
+	<td><a href="http://titleist.de"><img src="/images/internationalsites/flagGER.gif" border="0"></a></td>
+	<td><img src="/images/spacer.gif" width="4"></td>
+	
+				</tr>
+				<tr>
+				<td><img src="/images/spacer.gif" width="5"></td>
+				<td><a href="http://www.titleist.co.jp"><img src="/images/internationalsites/flagJA.gif" border="0"></a></td>
+	<td><img src="/images/spacer.gif" width="4"></td>
+	<td><a href="http://titleist.nu"><img src="/images/internationalsites/flagSWE.gif" border="0"></a></td>
+	<td><img src="/images/spacer.gif" width="4"></td>
+	<td><a href="http://titleist.co.uk"><img src="/images/internationalsites/flagUK.gif" border="0"></a></td>
+	<td><img src="/images/spacer.gif" width="4"></td>
+	
+				</tr>				
+				</tbody></table>
+				
+				</td>
+		</tr>
+		<tr background="/images/navigation/bot_nav_spacer.gif">
+                <td background="/images/navigation/bot_nav_spacer.gif" colspan="2" align="right"><img src="/images/navigation/bot_nav_spacer.gif" border="0" name=""></td></tr>		            
             </tbody></table></td>
            </tr>
+			<tr>
+	  		<!-- Begin Login Container -->
+	  			<td bgcolor="#e7e7e7" width="190">
+				
+				</td>
+			</tr>
 			<tr>
 	  		<!-- Begin Login Container -->
 	  			<td bgcolor="#e7e7e7" width="190"><table border="0" cellpadding="7" width="100%">
@@ -437,17 +518,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		<tbody><tr>
 			<td>
 			<table border="0" cellpadding="0" cellspacing="0" width="100%">
-			<tbody><tr height="30">	
-				<td width="20">
-				</td>	
-				<td>
-				&nbsp;
-				</td>
-			</tr>
-			<tr>
-				<td colspan="2" background="/images/elements/horiz_rule_drk.gif"><img src="/images/elements/horiz_rule_drk.gif"></td>
-			</tr>
-			<tr>	
+			<tbody><tr>	
 				<td>
 				</td>	
 				<td>&nbsp;</td>
@@ -645,7 +716,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
           </tbody></table></td>
 	    <!-- END VERTICAL NAVIGATION -->	
 	<td width="559" valign="top" align="left">
-     
+
 <table border="0" cellpadding="0" cellspacing="0" width="520">
 <tbody><tr><td><img src="/images/branding/corporate_branding.jpg" border="0"></td></tr>
 <tr><td><img src="/images/navigation/headers/corp_mid_head.jpg" border="0"></td></tr>
