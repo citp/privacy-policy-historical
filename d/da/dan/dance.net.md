@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dance.net privacy policy that was archived on 2002-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021117044725id_/http%3A//www.dance.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dance.net privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602231114id_/http%3A//www.dance.net/privacy.html) for the most accurate reproduction.*
 
-# dance.net - Privacy: Ballet, Jazz, Modern, Hip Hop, Tap, Irish: News, Photos, Chat, Games, Jobs, Events & Forums!
+# dance.net - Privacy: Ballet, Jazz, Modern, Hip Hop, Tap, Irish, Disco, Twirling, Cheer: Photos, Chat, Games, Jobs, Events!
 
 | **Dance.net Privacy Policy**
 
