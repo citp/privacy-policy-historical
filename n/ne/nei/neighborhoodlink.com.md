@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neighborhoodlink.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202193447id_/http%3A//www.neighborhoodlink.com/manager/neighbor/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neighborhoodlink.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604153334id_/http%3A//www.neighborhoodlink.com/manager/neighbor/privacy.html) for the most accurate reproduction.*
 
 # Neighborhood Link - Your Neighborhood's Privacy Practices
 
@@ -14,6 +14,22 @@ Neighborhood Link has created this privacy statement in order to demonstrate our
 It is Neighborhood Link's intention to give you as much control as possible over your personal information. In general, you can visit the Neighborhood Link Web site without telling us who you are or revealing any information about yourself. However, there are places on our Web site when we may need information from you, such as your name, email address, city/state, and zip code. It is our intent to let you know before we collect personal information from you. 
 
 Neighborhood Link will not distribute or sell any of your personal information to third parties. However, your name, username, and email address are available to registered coordinators if you request coordinator access to the site. Only these three pieces of information are shared with them, nothing more. We do release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of Neighborhood Link, our users, or others.
+
+1\. The IP address from which you post may be recorded by Neighborhood Link each time you post a comment or other information on a public area of the site, such as a message board. Neighborhood Link may therefore have the ability to link information about you together with information you may post for public review. 
+
+2\. Neighborhood Link may be required to disclose information about you (see above) in response to subpoenas, warrants, court orders or legal process. 
+
+3\. If Neighborhood Link receives a subpoena or other legal process requesting the disclosure of information about you, we will attempt to notify you before we respond, unless prohibited from doing so by a court order or applicable law. Specifically, 
+
+a. We will attempt to notify you 30 days in advance of our response to such a subpoena or other legal process, or within a deadline set by a court order or applicable law, if that deadline is shorter than 30 days. 
+
+b. We will attempt to notify you of such a subpoena or other legal process by sending a notice by electronic mail to the most recent e-mail address you have provided to us. The notice will include basic information concerning the subpoena, court order, or legal process (i.e., name of lawsuit, case number, place of filing, party issuing subpoena, the court where the subpoena was issued, contact information, deadline by which we plan to comply with the process, etc.). 
+
+4\. If we receive a subpoena for your personal information (such as your identity), you may have the legal right to resist or limit the release of that information in court by filing a motion to quash the subpoena. You may be able to argue, for example, that disclosure of the information would violate your rights to free speech and privacy under the 1st and 4th Amendments of the U.S. Constitution. 
+
+5\. We cannot advise you regarding the law or an appropriate response to a subpoena. Should you wish to oppose a subpoena or other legal process, you should seek legal advice concerning applicable rights and procedures that might be available. 
+
+6\. If we receive a court-filed motion to quash or otherwise limit the subpoena from you or your lawyer, we will not disclose the requested information until we receive an order from the court to do so. 
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. We also can use the IP address to verify the identity of perpetrators of illegal postings. 
 
@@ -45,4 +61,4 @@ If you have any questions or comments about this privacy statement, the practice
 
 [Privacy Statement](http://www.neighborhoodlink.com/manager/neighbor/privacy.html)  
 Neighborhood Link [Terms of Use](http://www.neighborhoodlink.com/manager/neighbor/terms.html)   
-© 1997 - 2000 Neighborhood Link, Inc. 
+© 1997 - 2004 Neighborhood Link, Inc. 
