@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pitch.com privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406025351id_/http%3A//www.pitch.com/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitch.com privacy policy that was archived on 2001-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010815050407id_/http%3A//pitch.com/about/privacy_policy.html) for the most accurate reproduction.*
 
 # PitchWeekly Online -- pitch.com | About
 
