@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sql-server-performance.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622124038id_/http%3A//sql-server-performance.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sql-server-performance.com privacy policy that was archived on 2003-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031004171510id_/http%3A//www.sql-server-performance.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # SQL-Server-Performance.Com Privacy Policy
 
