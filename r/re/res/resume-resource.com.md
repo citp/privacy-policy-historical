@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resume-resource.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606163735id_/http%3A//www.resume-resource.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resume-resource.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010145423id_/http%3A//www.resume-resource.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Resume Resource.com
 
@@ -24,7 +24,9 @@ Names
 Billing Addresses  
 Email addresses  
 Phone numbers  
-Credit/Debit Card Information 
+Credit/Debit Card Information
+
+
 
 
 We also partner with external websites that may provide online services and may choose to collect information.  Information collected by other websites promoted on the Resume-Resource.com website is subject to the privacy policy of such websites.
@@ -51,4 +53,4 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please send an email to  [web@resume-resource.com](mailto:web@resume-resource.com)
+Should you have other questions or concerns about these privacy policies, please send an email to 
