@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dell.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206063428id_/http%3A//www1.us.dell.com/content/topics/global.aspx/policy/en/policy%3Fc%3Dus%26l%3Den%26s%3Dgen%26%7Esection%3D000) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dell.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603091243id_/http%3A//www1.us.dell.com/content/topics/global.aspx/policy/en/policy%3Fc%3Dus%26cs%3D%26l%3Den%26s%3Dgen%26%7Eck%3Dlf%26%7Esection%3D000) for the most accurate reproduction.*
 
 # Dell's Online Policies
 
@@ -92,6 +92,6 @@ You may also click [here](http://support.dell.com/us/en/emaildell/webmaster.asp)
 
 Dell wants to help you keep your personal information accurate
 
-You can request the individual information that Dell has collected by submitting a request [here](https://web.archive.org/content/topics/global.aspx/policy/en/policy?c=us&l=en&s=gen&~section=009). To view or edit the information that has been stored online, please visit the [My Account section](http://membership.dell.com/myaccount/segment/default.asp) of the Dell Web site. 
+You can request the individual information that Dell has collected by submitting a request [here](https://web.archive.org/content/topics/global.aspx/policy/en/policy?c=us&l=en&s=gen&~section=009). To view or edit the information that has been stored online, please visit the [My Account section](http://membership.dell.com/dellportal/signin.aspx?c=us&l=en&s=dhs) of the Dell Web site.
 
 Effective Date: Oct. 11, 2003
