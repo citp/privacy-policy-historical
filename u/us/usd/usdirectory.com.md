@@ -1,0 +1,96 @@
+> *The following text is extracted and transformed from the usdirectory.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307230030id_/http%3A//www.directorybilling.com/privacy.aspx%3Ftbid%3D1) for the most accurate reproduction.*
+
+# DirectoryBilling.com
+
+| |  **WEBSITE AND SERVICES PRIVACY POLICY**
+
+This Website and Services Privacy Policy (this "Privacy Policy"), which is a binding part of the IBIS, LLC, (doing business as and referred to herein as "IBIS") [Terms of Use and End User License Agreement](http://www.websearch.com/legal/terms.aspx?tbid=1) (the "Agreement") explains the types of information IBIS collects through its Services and what IBIS does with it. As you have noted in the Agreement, "Services" means all aspects of IBIS products and services, including IBIS browser toolbar product and service (the "the Service"), the related software, and the information and other services provided by IBIS through its own website, and any other IBIS product or service. 
+
+PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY USING ANY OF IBIS WEBSITE(S) SUCH AS WWW.WEBSEARCH.COM, YOU REPRESENT THAT YOU HAVE READ AND UNDERSTAND THE AGREEMENT, WHICH INCLUDES THIS PRIVACY POLICY, AND YOU AGREE TO BE BOUND BY THE AGREEMENT AND THIS PRIVACY POLICY. 
+
+IBIS has attempted to structure this Privacy Policy in the spirit of conformity with applicable industry standards and practices existing at the time of its posting, including reference to those promoted by the Online Privacy Alliance at www.privacyalliance.org, trust-e at www.etrust.com or www.truste.com, among others. We welcome your feedback on our privacy policy. IBIS provides you information regarding the following areas: 
+
+1\. What information does IBIS collect, and does this include personally identifiable information; 
+
+2\. What does IBIS do with the Information it collects; 
+
+3\. How does IBIS share the information it collects; 
+
+4\. What kind of security measures are in place to protect against the loss, misuse or alteration of information under IBIS control; 
+
+5\. Choice and Correcting/Updating/Deleting/Deactivating Personal Information. 
+
+**_IBIS ARE INTENDED ONLY FOR ADULTS._**   
+IBIS INTENDS ITS SERVICES TO BE USED ONLY BY ADULTS. IBIS EXPRESSLY HAS NO INTEREST IN MARKETING IBIS TO ANYONE UNDER THE AGE OF 13. 
+
+**What information does IBIS collect, and does this include personally identifiable information?**
+
+IBIS SERVICE MAY COLLECT AND STORE INFORMATION ABOUT THE WEB PAGES YOU VIEW, THE DATA YOU ENTER IN ONLINE FORMS AND SEARCH FIELDS, THE "CLICKS" YOU MAKE, THE IP ADDRESS, URL AND COUNTRY OF THE SITES YOU VISIT, YOUR IP ADDRESS, INFORMATION ABOUT YOUR BROWSER AND OPERATING SYSTEM, AND THE PRODUCTS YOU PURCHASE ONLINE WHILE USING THE SERVICE. ALTHOUGH IBIS DOES NOT ATTEMPT TO ANALYZE WEB USAGE DATA TO DETERMINE THE IDENTITY OF ANY IBIS USER, SOME INFORMATION COLLECTED BY THE SERVICE IS PERSONALLY IDENTIFIABLE. IBIS AGGREGATES AND ANALYZES THE INFORMATION IT COLLECTS TO IMPROVE ITS SERVICE AND TO PREPARE REPORTS ABOUT AGGREGATE WEB USAGE AND SHOPPING HABITS. 
+
+If you are visiting the IBIS website (http://www.IBIS.com), we collect the following information: the full Uniform Resource Locator ("URL") of the Web page from which you came to IBIS.com; your Internet Protocol ("IP") address, which may include a domain name; the date and time for each page you view; the name of and information about any advertisement that brought you to the IBIS website; searches you perform, links you click on; and computer and connection information such as browser type and version, operating system, and platform. We also transmit cookies to your computer so we can track the pages of our website that you view and the order in which you view them. 
+
+If you download and install the Service software, we collect any information voluntarily provided by you during the installation and registration process, which can include your e-mail address as well as demographic information such as gender, age, occupation, household income, zip code and country. We also collect the name of and information about any advertisement that brought you to the IBIS download. Demographic information is correlated to Web usage and shopping information collected during your use of the Service, but we do not attempt to determine your identity by analyzing this information. We transmit IBIS cookies to the hard drive of your computer. These cookies enable IBIS servers to recognize and identify your Web browser when you are using the Service. They also enable IBIS to track and store information about your Web usage path and online shopping while using the Service. 
+
+**Personally Identifiable Information**
+
+The URLs we collect through the Service sometimes contain personal information about you. For example, when you enter information on a Web page (e.g., when you complete an online registration form or sign up for a contest), the operator of the website may insert that information into its URL for that or the next page. This information often appears after a question mark ("?") in the URL, although it can appear in other places. This means that your name, your address, your e-mail address, or similar information you might consider private or personally identifiable which you enter into a Web page sometimes becomes part of a URLs that is then transmitted to IBIS and automatically stored in IBIS databases. This can also occur with words, topics, products, or phrases you enter into search engines whether those engines are provided by the Service itself or found elsewhere on the Web while using the Service. IBIS has no control over what information third party websites put into their URLs or where they put it, but any information in each URL is collected and stored by IBIS when you are using the Service. 
+
+We collect information about the products you view or search for on the World Wide Web. This allows us to provide more detailed product and comparative shopping information. The information we collect includes product codes (such as ISBN numbers for books), product names, and other identifiers that appear in both the text and the URLs of Web pages that you view. The product information that IBIS gathers is logged together with your IP address, IBIS cookie number, the names of IBIS business partners that might have additional information about the particular product, and the date and time, in a single data string for each Web page you visit. These strings, which we call "shopping paths," may also contain personally identifiable information. IBIS transmits the product descriptions (without your IBIS cookie number or IP address) to its business partners, who return relevant product information and/or comparison shopping information to the Service for your use. 
+
+If you e-mail IBIS, we may store copies of such e-mail or similar communications between you and IBIS. This can result in the collection of your e-mail address or other personally identifiable information you may have in your e-mail text, addresses, or other fields, as well as the collection of the your IP address, the Internet or other routing of your communication, and the date and time of your communication. We do not attempt to correlate this information to your IBIS cookie number or your usage and shopping paths unless responding to your inquiry requires us to do so. 
+
+Although these information logs may contain personally identifiable information, IBIS does not attempt to correlate cookie numbers, usage paths, shopping paths, or demographic information to your e-mail address and does not attempt to determine the identity of any IBIS user by analyzing this information, except as required by subpoenas, court orders or legal requirements. 
+
+If you submit any information to the IBIS website, the content you submit, the URL that you reviewed, your chosen public nickname, your IBIS cookie number, and a record locator number may be logged together by IBIS. 
+
+All transmissions between you and IBIS, including e-mails, URLs, cookie identification numbers, usage paths, shopping path information, and any personally identifiable information they might contain, pass through many third party machines, operating systems, programs, browsers, Web servers, networks, routers, Ethernet switches, ISPs, proxy servers, intranets, the public telephone systems, or other devices, any of which may create activity logs containing such transmissions. 
+
+The Service and IBIS website provide links to various features, services, and Web pages provided solely by our business partners or other organizations. The links take you to pages provided solely by those entities, although sometimes the pages are co-branded with the IBIS logo. You will be able to tell when another entity is involved with providing features, services, or Web pages, and any information about your interaction with those Web pages, including which pages and advertisements you view and any search terms or other information you enter, will be received by that other business. 
+
+When you click on links to other businesses, those businesses may attach a cookie to your hard drive and may collect information about you. IBIS makes no claims or representations about what those businesses do or do not collect about you. Please review any terms of use and privacy policies of those other businesses to learn about their data collection and data use practices. 
+
+Further, our business partners may post advertisements on pages co-branded with the IBIS logo. Those advertisements are transmitted to your browser directly by the advertiser or the business partner, not by IBIS, and those advertisers may transmit a cookie to your hard drive and may collect information about you. If an advertiser or its ad server has previously placed a cookie on your machine, it may recognize the cookie and learn you have visited our co-branded Web page or used our Service even though you do not click on the advertisement. IBIS makes no claim or representations concerning what such advertisers do or do not collect about you, and refers you to those entities for information about their privacy practices. 
+
+You acknowledge and agree that IBIS is not responsible for any content, advertising, products, or other materials on the websites (whether co-branded with the IBIS logo or not) of or available from other businesses that we do not control. You further acknowledge that IBIS shall not be responsible or liable, directly or indirectly, for any damage or loss caused by or in connection with use of or reliance on any such content, goods or services available on or through any such site or resource. 
+
+**What does IBIS do with the Information it collects?**
+
+If you gave us your e-mail address when you registered, we use it to send you IBIS newsletters, product updates, service-related information, and other offers and information from IBIS or its business partners. IBIS also may contact you by e-mail to respond to your submissions and customer service inquiries. We do not disclose your e-mail address to business partners or to anyone other than employees and agents working for or on behalf of IBIS, except as required by law. We do not use your e-mail address to correlate your identity to your Web usage paths, shopping path information, or purchase information. If you have given us your e-mail address but wish to unsubscribe at any time, please see our section regarding changing your information for instructions on how to do so. 
+
+We use IBIS cookies for such functions as verifying that you are an IBIS user, counting and tracking your IBIS website visits, setting the appearance of the toolbar, helping the toolbar remember which module and tab you were last on and which search feature you used last, remembering the default search engine that you used in our Web search feature, determining the length of time you spent on a Web page, and keeping the nickname you used when you wrote your last Web review. We further use cookies to determine the number of visitors that came to the IBIS website through a particular advertisement. Your IBIS cookie number is also used to create usage and shopping paths and to correlate those with any demographic information you provide, but we do not use your cookies, usage paths, shopping paths, or product purchasing information to attempt to determine your identity. Your cookie also may contain information about the last several websites that you visited. 
+
+We use IP addresses to diagnose problems with our servers and to administer our website. Your IP address also is used by IBIS to gather broad demographic information, such as your general geographic location and Internet Service Provider. IP addresses are further used to help determine the number of IBIS users. This demographic information may also be used by IBIS to analyze aggregate Web usage behavior. 
+
+We use Web usage paths to build the Related Links functionality. We use shopping paths to build the functionality of our product information and comparison shopping features. We use both usage and shopping paths and purchase information for aggregate research and reports. 
+
+FEEDBACK AND OTHER COMMENTS AND STATEMENTS THAT YOU CHOSE TO SUBMIT TO IBIS BY ANY MEANS WHETHER BY E-MAIL TO IBIS CUSTOMER SERVICE, TELEPHONE, LETTER, OR ANY OTHER MEANS SHALL BE CONSIDERED NONCONFIDENTIAL. IBIS IS FREE TO USE SUCH INFORMATION ON AN UNRESTRICTED BASIS. 
+
+**How does IBIS share the information it collects?**
+
+IBIS does not attempt to determine the identity of its users or correlate their e-mail addresses with their Web usage paths or shopping information. Except as described below, IBIS does not intentionally disclose personally identifying information collected from any user to any third party without the user's consent. 
+
+We provide "stripped" usage path information, demographic information, and shopping path information to researchers. They use it to prepare analyses of aggregate Web patterns and trends. Such analyses are used in research and commercial reports provided to third parties. Before providing the usage path information, we "strip" from the URLs a portion of your IP address and the information that appears after the "?," with limited exceptions for certain types of search terms. Before providing the shopping path information to researchers, we strip a portion of your IP address from the data string. 
+
+If you use the search functions provided on either the IBIS website or on the Service software, we transmit your search term and IP address to a search engine. 
+
+We disclose any information we possess in response to subpoenas, court orders, or legal requirements, and such information might be used by the receiving party to determine your identity, your Web usage and online shopping behavior, or other things about you. 
+
+We employ other companies and individuals to perform functions on our behalf, such as technical support services. To perform those functions, it may be necessary for them to obtain access to IBIS databases and servers, which may contain personally identifying information about users. 
+
+**What kind of security measures are in place to protect against the loss, misuse or alteration of information under IBIS control?**
+
+IBIS uses commercially reasonable computer security safeguards to protect its databases and servers against risks of loss, unauthorized access, destruction, misuse, modification, or inadvertent or improper disclosure of data. These risks, however, cannot be completely eliminated and IBIS therefore cannot guarantee complete security. 
+
+IBIS also segregates certain personally identifiable information provided by you. Any e-mail address you chose to provide is stored in a database. Your usage paths are stored on a separate database and server that can be accessed only by a limited number of IBIS employees. Shopping paths are stored in a database separate from usage paths, e-mail addresses, and demographic information. Also, any demographic information you chose to provide is stored, along with your IBIS cookie number and the name of any advertisement that brought you to the IBIS download, in a database separate from e-mail addresses, Web usage path information, and shopping path information. IBIS prohibits its employees from using any of this information to determine your identity. 
+
+If you send us an email, you should know that email is not necessarily secure against interception. So, if your communication includes sensitive information like your bank account, charge card, or social security number, and you prefer not to use one of our secure online complaint forms, contact us by postal mail or telephone rather than email. 
+
+**Choice and Correcting/Updating/Deleting/Deactivating Personal Information**
+
+You may opt out of having your personal information collected by IBIS, used by IBIS for secondary purposes, disclosed to third parties, or used by IBIS to send you promotional materials, by making a request via [Email](mailto:contact@websearch.com). 
+
+If your personally identifiable information changes (such as zip code, phone, email or postal address), or if you no longer desire IBIS, we provide a way to correct, update or delete/deactivate users personally identifiable information. This can usually be done emailing our customer support via [Email](mailto:contact@websearch.com). 
+
+If you choose not to receive IBIS newsletters, offers, and product and service information, simply send your request via [Email](mailto:contact@websearch.com) from the e-mail address where such information is being sent, and state that you no longer want to receive IBIS information and updates.   
+  
+---|---
