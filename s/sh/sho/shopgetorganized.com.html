@@ -1,0 +1,339 @@
+<!--The following is the downloaded HTML source of the shopgetorganized.com privacy policy that was archived on 2003-04-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030411134015id_/http%3A//www.shopgetorganized.com/custserv/privacy.asp) for the most accurate reproduction.-->
+
+<html><head>
+	<title>Welcome to Get Organized - Organizational Products to Simplify Your Life!</title>
+	<link rel="stylesheet" type="text/css" href="/gostyles.css" title="style1">
+<script language="JavaScript">
+function GoToURL(newURL) {
+  //--If the selected file name isn't blank, send it to reader.
+  if (newURL != "") {
+    location.href=newURL
+  }
+}
+
+function newImage(arg) {
+	if (document.images) {
+		rslt = new Image();
+		rslt.src = arg;
+		return rslt;
+	}
+}
+
+function changeImages() {
+	if (document.images && (preloadFlag == true)) {
+		for (var i=0; i<changeImages.arguments.length; i+=2) {
+			document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
+		}
+	}
+}
+
+var preloadFlag = false;
+function preload() {
+	if (document.images) {
+		familyroom_over = newImage("/grafx/familyroom_over.gif");
+		homeoffice_over = newImage("/grafx/homeoffice_over.gif");
+		kitchen_over = newImage("/grafx/kitchen_over.gif");
+		closet_over = newImage("/grafx/closet_over.gif");
+		laundry_over = newImage("/grafx/laundry_over.gif"); 
+		bathroom_over = newImage("/grafx/bathroom_over.gif"); 
+		bedroom_over = newImage("/grafx/bedroom_over.gif"); 
+		outdoors_over = newImage("/grafx/outdoors_over.gif"); 
+		travel_over = newImage("/grafx/travel_over.gif");
+		preloadFlag = true;
+	}
+}
+
+function clearNum() {
+	document.searchbynum.itemNo.value = ""
+}
+
+function clearkeyword() {
+	document.searchbytext.Keyword.value = ""
+}
+
+function clearemail() {
+	document.emailsignup.email.value = ""
+}
+
+function clearemail2() {
+	document.emailsignup2.email.value = ""
+}
+
+function isEmailAddr(email)
+{
+  var result = false
+  var theStr = new String(email)
+  var index = theStr.indexOf("@");
+  if (index > 0)
+  {
+    var pindex = theStr.indexOf(".",index);
+    if ((pindex > index+1) && (theStr.length > pindex+1))
+	result = true;
+  }
+  return result;
+}
+
+function emailVal(theForm)
+{
+
+  if (theForm.email.value == "")
+  {
+    alert("Please enter a complete email address: yourname@yourdomain.com");
+    theForm.email.focus();
+    return (false);
+  }
+
+  if (!isEmailAddr(theForm.email.value))
+  {
+    alert("Please enter a complete email address: yourname@yourdomain.com");
+    theForm.email.focus();
+    return (false);
+  }
+  return (true);
+}
+
+function emailinfo() {
+  alert("Please be sure to include your FULL NAME, ORDER #, ZIP CODE and E-MAIL ADDRESS in all customer service inquiries. Thanks!")
+}
+	
+</script></head>
+
+<body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="preload();">
+<table border="0" cellpadding="0" cellspacing="0" width="780">
+	<tbody><tr>
+		<td align="left" valign="top" colspan="2" bgcolor="#C9C6E1">
+		<!-- Begin Top Nav  -->
+<table cellpadding="0" cellspacing="0" width="780" border="0" bgcolor="#C9C6E1">
+	<tbody><tr>
+		<td align="left" valign="top" rowspan="2"><a href="/default.asp"><img src="/Grafx/GO_logo.gif" alt="" width="390" height="80" border="0"></a></td>
+		<td align="right" valign="top"><img src="/Grafx/phonenum.gif" alt="" width="221" height="31" border="0"></td>
+	</tr>
+	<tr>
+		<td align="right" valign="top"><a href="/cart.asp"><img src="/Grafx/icon_cart.gif" alt="" width="119" height="49" border="0"></a><a href="https://www.shopgetorganized.com/myaccount.asp"><img src="/Grafx/icon_track.gif" alt="" width="102" height="49" border="0"></a><a href="https://www.shopgetorganized.com/myaccount.asp"><img src="/Grafx/icon_access.gif" alt="" width="92" height="49" border="0"></a><a href="/custserv.asp"><img src="/Grafx/icon_custserv.gif" alt="" width="77" height="49" border="0"></a></td>
+	</tr>
+
+</tbody></table>
+
+
+<!-- End Top Nav  -->
+		</td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" colspan="2">
+		<table cellpadding="0" cellspacing="0" width="780" border="0" bgcolor="#ECE1D4">
+	<tbody><tr>
+		<td bgcolor="#ffffff"><img src="Grafx/spacer.gif" alt="" width="135" height="1" border="0"></td>
+		<td bgcolor="#ffffff"><img src="Grafx/spacer.gif" alt="" width="140" height="1" border="0"></td>
+		<td bgcolor="#ffffff"><img src="Grafx/spacer.gif" alt="" width="45" height="1" border="0"></td>
+		<td bgcolor="#ffffff"><img src="Grafx/spacer.gif" alt="" width="140" height="1" border="0"></td>
+		<td bgcolor="#ffffff"><img src="Grafx/spacer.gif" alt="" width="70" height="1" border="0"></td>
+		<td bgcolor="#ffffff"><img src="Grafx/spacer.gif" alt="" width="250" height="1" border="0"></td>
+	</tr>
+	<tr>
+		<td align="center" valign="middle" bgcolor="#C0E2BB"><font class="body"><b>April 11, 2003</b></font></td>
+		<form method="POST" action="prodetail.asp" name="searchbynum"></form>
+		<td valign="bottom"><img src="../Grafx/quickorder.gif" alt="" width="135" height="13" border="0"><br>&nbsp;<input type="text" name="itemNo" size="20" value="enter item number" onclick="return clearNum();"></td>
+		<td valign="bottom"><input type="image" border="0" name="imageField" src="/grafx/go.gif" width="27" height="27"><input type="hidden" name="searchtype" value="1"></td>
+
+		<form method="POST" action="searchrslt.asp" name="searchbytext"></form>
+		<td valign="bottom"><img src="../Grafx/findproduct.gif" alt="" width="135" height="13" border="0"><br>&nbsp;<input type="text" name="Keyword" size="20" value="enter a keyword" onclick="return clearkeyword();"></td>
+		<td valign="bottom"><input type="image" border="0" name="imageField" src="/grafx/go.gif" width="27" height="27"><input type="hidden" name="PageNo" value="1"></td>
+		<td valign="middle" align="right"><font class="body"></font></td>
+	</tr>
+	<tr>
+		<td bgcolor="#C0E2BB"><img src="Grafx/spacer.gif" alt="" width="135" height="1" border="0"></td>
+		<td colspan="5"><img src="Grafx/spacer.gif" alt="" width="645" height="1" border="0"></td>
+	</tr>
+	<tr>
+		<td colspan="6" bgcolor="#ffffff"><img src="Grafx/spacer.gif" alt="" width="781" height="1" border="0"></td>
+	</tr>
+</tbody></table>
+
+
+		</td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" width="135">
+		<table cellpadding="0" cellspacing="0" border="0" width="135" bgcolor="#C0E2BB">
+	<tbody><tr>
+		<td align="left" valign="top"><img src="../Grafx/shopbycategory.gif" alt="" width="135" height="29" border="0"></td>
+	</tr>
+
+	<tr>
+		<td align="left" valign="top"><a href="/category.asp?ID=KI" onmouseover="changeImages('kitchen', '/grafx/kitchen_over.gif'); return true;" onmouseout="changeImages('kitchen', '/grafx/kitchen.gif'); return true;"><img src="/Grafx/kitchen.gif" alt="" width="135" height="30" border="0" name="kitchen"></a></td>
+	</tr>
+
+	<tr>
+		<td align="left" valign="top"><a href="/category.asp?ID=CL" onmouseover="changeImages('closet', '/grafx/closet_over.gif'); return true;" onmouseout="changeImages('closet', '/grafx/closet.gif'); return true;"><img src="/Grafx/closet.gif" alt="" width="135" height="30" border="0" name="closet"></a></td>
+	</tr>
+
+	<tr>
+		<td align="left" valign="top"><a href="/category.asp?ID=HO" onmouseover="changeImages('homeoffice', '/grafx/homeoffice_over.gif'); return true;" onmouseout="changeImages('homeoffice', '/grafx/homeoffice.gif'); return true;"><img src="/Grafx/homeoffice.gif" alt="" width="135" height="30" border="0" name="homeoffice"></a></td>
+	</tr>
+
+	<tr>
+		<td align="left" valign="top"><a href="/category.asp?ID=FR" onmouseover="changeImages('familyroom', '/grafx/familyroom_over.gif'); return true;" onmouseout="changeImages('familyroom', '/grafx/familyroom.gif'); return true;"><img src="/Grafx/familyroom.gif" alt="" width="135" height="30" border="0" name="familyroom"></a></td>
+	</tr>
+
+	<tr>
+		<td align="left" valign="top"><a href="/category.asp?ID=BR" onmouseover="changeImages('bedroom', '/grafx/bedroom_over.gif'); return true;" onmouseout="changeImages('bedroom', '/grafx/bedroom.gif'); return true;"><img src="/Grafx/bedroom.gif" alt="" width="135" height="30" border="0" name="bedroom"></a></td>
+	</tr>
+
+	<tr>
+		<td align="left" valign="top"><a href="/category.asp?ID=BA" onmouseover="changeImages('bathroom', '/grafx/bathroom_over.gif'); return true;" onmouseout="changeImages('bathroom', '/grafx/bathroom.gif'); return true;"><img src="/Grafx/bathroom.gif" alt="" width="135" height="30" border="0" name="bathroom"></a></td>
+	</tr>
+
+	<tr>
+		<td align="left" valign="top"><a href="/category.asp?ID=LA" onmouseover="changeImages('laundry', '/grafx/laundry_over.gif'); return true;" onmouseout="changeImages('laundry', '/grafx/laundry.gif'); return true;"><img src="/Grafx/laundry.gif" alt="" width="135" height="30" border="0" name="laundry"></a></td>
+	</tr>
+
+	<tr>
+		<td align="left" valign="top"><a href="/category.asp?ID=OU" onmouseover="changeImages('outdoors', '/grafx/outdoors_over.gif'); return true;" onmouseout="changeImages('outdoors', '/grafx/outdoors.gif'); return true;"><img src="/Grafx/outdoors.gif" alt="" width="135" height="30" border="0" name="outdoors"></a></td>
+	</tr>
+
+<!--	<tr>
+		<td align="left" valign="top"><a href="/category.asp?ID=TR" onmouseover="changeImages('travel', '/grafx/travel_over.gif'); return true;" onmouseout="changeImages('travel', '/grafx/travel.gif'); return true;"><img src="/Grafx/travel.gif" alt="" width="135" height="30" border="0" name="travel"></a></td>
+	</tr>  -->
+	<tr>
+		<td align="left" valign="top"><a href="/catalog.asp?pg=0"><img src="/Grafx/browse_catalog.gif" alt="" width="135" height="135" border="0"></a></td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" bgcolor="#ffffff"><img src="/Grafx/spacer.gif" alt="" width="135" height="2" border="0"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" border="0" width="135" bgcolor="#ECE1D4">
+	<tbody><tr>
+		<td align="left" valign="top" colspan="2"><img src="/Grafx/spacer.gif" alt="" width="135" height="2" border="0"></td>
+	</tr>
+	<tr>
+		<td align="left" colspan="2" width="135" bgcolor="#ECE1D4"><font class="body"><b>&nbsp;&nbsp;E-mail Sale Sign Up!</b></font><br><font class="small"><b>&nbsp;&nbsp;WHY? <a href="emaildetails.asp" class="link">Click for details</a></b></font></td>
+	</tr>
+	<tr>
+		<form method="POST" action="emailsignup.asp" name="emailsignup" onsubmit="return emailVal(this)"></form><td align="left" valign="bottom" width="135" bgcolor="#ECE1D4">&nbsp;<input type="text" name="email" size="14" value="enter e-mail here" onclick="return clearemail();"></td>
+			<td align="left" valign="middle" width="39"><input type="image" border="0" name="imageField" src="/grafx/go.gif" width="20" height="20"></td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" colspan="2"><img src="/Grafx/spacer.gif" alt="" width="135" height="2" border="0"></td>
+	</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" border="0" width="135" bgcolor="#C0E2BB">
+	<tbody><tr>
+		<td align="left" valign="top" bgcolor="#ffffff"><img src="/Grafx/spacer.gif" alt="" width="135" height="2" border="0"></td>
+	</tr>
+	<tr>
+		<td align="left" valign="top"><img src="../Grafx/visit_other_sites.gif" alt="" width="135" height="28" border="0"></td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" bgcolor="#ffffff"><img src="/Grafx/spacer.gif" alt="" width="135" height="5" border="0"></td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" bgcolor="#ffffff">
+			<a href="http://www.taylorgifts.com" target="_new"><img src="../Grafx/sm_tgred_logo.gif" alt="" width="135" height="40" border="0"></a><p>
+			<a href="http://www.kitchenandmuchmore.com" target="_new"><img src="../Grafx/sm_kmm_logo.gif" alt="" width="135" height="40" border="0"></a></p><p>
+			<a href="http://www.taylorgifts.com/searchrslt_outlet.asp?Keyword=TG50TH" target="_new"><img src="../Grafx/sm_outlet_logo.gif" alt="" width="135" height="40" border="0"></a>
+		</p></td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" bgcolor="#C9C6E1"><img src="/Grafx/spacer.gif" alt="" width="135" height="3" border="0"></td>
+	</tr>
+</tbody></table>
+		</td>
+		<td align="center" valign="top" width="645"><img src="Grafx/spacer.gif" alt="" width="635" height="1" border="0"><br>
+<!-- END STANDARD NAV -->
+
+			<table border="0" cellpadding="10" cellspacing="0" width="620" bgcolor="#ffffff">
+				<tbody><tr>
+					<td align="center" valign="middle" colspan="2"><font class="purple">Customer Service Center</font><br><font class="lgbody">Online Privacy Policy</font></td>
+				</tr>
+				<tr>
+					<td><font class="body">
+
+Get Organized is a subsidiary of Taylor Gifts, Inc. In over 50 years in the Direct Marketing business, we have adhered to the highest standards in assuring our customers' privacy. All information - including customer accounts, transactions, and all correspondence - is handled with the utmost discretion.
+<p>
+The policies below are applicable to www.shopgetorganized.com.  Questions or comments regarding this policy should be directed to:
+</p><p>
+Get Organized, Inc.<br>
+600 Cedar Hollow Road<br>
+Paoli, PA  19301<br>
+E-mail: GOcustomerservice@shopgetorganized.com<br>
+Telephone: (800) 803 9400<br>
+</p><p>
+<b>Collection of Personal Information</b> 
+<br>
+The only personal information collected by Get Organized through our web sites is information that is submitted to us voluntarily and knowingly by site visitors. When you simply browse our site, no personal information is being collected by Get Organized  Our company does collect web site usage information internally to improve the products and services we provide to you. Web site usage information is not personally identifiable information. It describes how our web site is used and navigated, including the number and frequency of visitors to each web page and the length of their stay. Web site usage information also includes the domain names of browsers who visit our web site, time of day the web site was visited, and other non-personally identifiable information.
+</p><p>
+Some functions and services offered through our site require that you provide certain personal information. Personal information includes name, telephone number, postal address, e-mail address, and other information that might personally identify you. When you order a product, enter a contest or sweepstakes, request a catalog, or register for a mailing list, we may need your postal or e-mail address.
+</p><p>
+<b>Receiving Information from Get Organized</b>
+<br>
+When you order online, Get Organized will send you information regarding the status of your order via e-mail. Also it is necessary for you to provide us your phone number when you order a product. We need this to contact you in case we have a question or comment about your order information.
+</p><p>
+When you voluntarily provide us with personal information, such as when you register or place an order, you will see a notice that states unless you opt-out of receiving communications from Get Organized, you will receive additional information from Get Organized. This information includes e-mails or other communication about new products and services available from Get Organized that we believe will be of interest to you. Opt-out means you have deselected the box that says, "Yes, send me updates and specials offers from shopgetorganized.com only." Should you opt-out and choose not to receive such communications from Get Organized, we reserve the right to contact you via e-mail regarding information as it relates to your order only.
+</p><p>
+The personal information you have provided us, and information about your order, may be shared with third parties. This information may be combined with other personally identifiable information (such as demographic information and past purchase information) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. It may also be used by our marketing partners to bring you offers of interest. To learn more about our marketing partner, please click www.plazadirect.com. If you prefer we do not share your name and address with marketing partners, please write to us at the address above, or e-mail GOcustomerservice@shopgetorganized.com
+</p><p>
+If you agreed to receive e-mail from our marketing partners, we will share with them your e-mail address and the information described above, so they can send you offers for products and services that may be of interest to you. We will only share your e-mail address if you have opted in by checking the box on the registration page. Additionally, each e-mail our partners send you will include a description of the simple opt out process to enable you to stop receiving future e-mail.
+</p><p>
+<b>Receiving Third Party Information</b>
+<br>
+One of the many services our company can offer to you when you register or purchase is to notify you by e-mail or other means of communication about new products and services available from trusted third party marketing partners. These notices and offers will be targeted to your individual preferences and tastes. You will not receive these offers from third parties unless you opt-in to do so during registration. Opt-in means you have checked the box that states, "Yes, send me offers from other third party marketing partners targeted to your individual preferences." Once you have opted-in, you can always change your mind and prevent the sending of such communications since each e-mail will provide you with the opportunity to opt-out of receiving future third party e-mails.
+</p><p>
+<b>Online Policy for Individuals 17 Years Old and Under</b>
+<br>
+This site is not directed to children under the age of 13 and no information should be submitted or posted at Get Organized online web sites by individuals 17 years of age or under without their parent's or guardian's permission.
+</p><p>
+We encourage parents to be aware of their children's online activities, and to learn about software that can filter objectionable materials.
+</p><p>
+<b>Searches</b>
+<br>
+Keyword search functions are provided in some areas of Shopgetorganized.com web site as a convenience to our users. We do not collect your name or e-mail address when you use a search feature, nor do we tabulate search terms entered by individuals. We may keep logs of all words searched to help us learn what kinds of information our web site visitors are seeking and to improve our service to visitors. 
+</p><p>
+<b>E-mail Messages</b>
+<br>
+If you send Get Organized an e-mail message, we may retain that message and your e-mail address, as well any response we send you.
+</p><p>
+<b>Hyperlinks to Other Web Sites:</b>
+<br>
+Get Organized web site may include links to web sites of other companies unaffiliated with Get Organized Please note we are unable to review all such sites and take no responsibility for the content of any unaffiliated web site.
+</p><p>
+<b>Cookies and Server Logs</b>
+<br>
+Get Organized, related web hosting providers, and advertisers sometimes utilize "cookie" technology. Cookies are bits of data stored on your local hard drive that contain no personally identifying information but which help enhance your web browsing experience. Not all web browsers accept cookies, and those that do usually provide a preference or setting that allow them to refuse cookies. If your browser does not accept cookies, you may browse our web sites, but you cannot order a product or request a catalog.
+</p><p>
+Server logs capture certain non-personally identifying data, such as the time and date of a web visit, the browser and operating system being used, the IP address or domain name of the user's ISP, and the web URL a user linked from. This information is used in aggregate form to help us plan system enhancements when necessary and to provide content that is compatible with our visitors' web browsing systems. 
+</p><p>
+Shopgetorganized.com may provide aggregate statistics about our customers, traffic patterns and related site information to reputable third parties for statistical analysis. Although the statistics themselves do not include personal information, it is possible they could be linked to this type of information. 
+</p><p>
+Cookies are also used to target advertising and marketing offers to your particularized interests and to avoid showing you duplicate ads. Cookies cannot be used to get data from your hard drive, your e-mail, or any other personal data about you. 
+</p><p>
+<b>Credit Cards </b>
+<br>
+Get Organized uses credit card numbers submitted to us through our web sites for payment purposes only and not for marketing purposes. We utilize industry standard secure encryption technology to reasonably assure the privacy and security of the credit card numbers of every individual who places online orders with us. 
+</p><p>
+<b>Acceptance of Privacy Policy Terms and Conditions </b>
+<br>
+By using this site, you signify your agreement to the terms and conditions of the Privacy Policy. If you do not agree to this policy, please do not use this site. We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at anytime. Please check this page periodically for any changes. Your continued use of Get Organized online following the posting of any changes to these terms shall mean that you have accepted those changes.
+</p><p>
+
+<b>Trademarks </b>
+<br>
+Get Organized is a registered trademark. 
+
+
+</p><p>
+</p></font></td>
+</tr>
+</tbody></table>
+	
+
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" align="center"><font class="small">&nbsp;</font><p><font class="small">© Copyright 2003 - Get Organized!®<br>600 Cedar Hollow Road • Paoli, PA 19301 • 1.800.803.9400</font></p></td>
+	</tr>
+</tbody></table><br><br>
+
+
+
+</body></html>
