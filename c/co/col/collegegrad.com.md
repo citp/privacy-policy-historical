@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the collegegrad.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214171821id_/http%3A//collegegrad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegegrad.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601185800id_/http%3A//collegegrad.com/privacy) for the most accurate reproduction.*
 
 # Collegegrad Internet Privacy Statement
+
+Privacy Information  
+
 
 **Personal Information**   
 At College Grad Job Hunter, you can visit our site without telling us who you are or revealing any information about yourself. There are times, however, when we may request information from you, such as your name and address. It is our intent to let you know before we collect personal information from you on the Internet. Any request for information is purely voluntary. 
@@ -17,7 +20,7 @@ A cookie is an element of data that a Web site can send to your browser, which m
 
 If you have further questions on our Internet Privacy Statement or privacy at our site, you can [contact us online](https://web.archive.org/contact/index.shtml) or you can mail, phone, or fax us at: 
 
-Collegegrad.com, Inc.  
+CollegeGrad.com, Inc.  
 1629 Summit, Suite 200  
 Cedarburg, WI 53012-9399  
 Phone: 262-376-1000  
