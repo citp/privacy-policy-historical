@@ -1,29 +1,21 @@
-> *The following text is extracted and transformed from the alltimefavorites.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205025400id_/http%3A//www.alltimefavorites.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltimefavorites.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204235624id_/http%3A//www.alltimefavorites.com/privacy.htm) for the most accurate reproduction.*
 
-# All Time Favorites Online Privacy Policy
+# All Time Favorites Entertainment & Event Planning Services
 
-**All Time Favorites Online Privacy Policy**
+[**  
+** ](https://web.archive.org/web/20031204235624id_/http%3A//www.alltimefavorites.com/index.html) All Time Favorites respects your privacy and is committed to protecting it at all times.   
+This Internet Privacy Statement explains how we collect, use, and safeguard information on this Web site.
 
-The All Time Favorites (ATF) system is committed to maintaining your confidence and trust, and accordingly maintains the following privacy policy to protect personal information you provide online.
+[ **What information we collect from you and how we use it (click here)**](https://web.archive.org/web/20031204235624id_/http%3A//www.alltimefavorites.com/privacy1.htm)
 
-**Basic Confidentiality Policy**  
-  
-It is ATF policy that **personal information** , such as your name, postal and e-mail address or telephone number, is **private and confidential**. Accordingly, the personal information you provide is stored in a secure location, is accessible _only_ by designated staff, and is used _only_ for the purposes for which you provide the information. _If_ you also indicate on our sites that _you would like to receive information about other ATF programs and services_ , such as publications, networking groups, or memberships, your personal information will be added to appropriate ATF mailing lists. You can indicate your desire when completing a information forms or when you send us e-mail. If at any time you change your mind and would like to add or remove your name from the ATF's mailing list, or correct your personal information, please email us at [MailList@alltimefavorites.com](mailto:MailList@alltimefavorites.com)
+**How we market to you.**     
+We market to you via e-mail, phone and regular mail in the course of our business to provide the products/services related to your requests on our website.  Our marketing to you is personalized, professional, and if at any time you wish to stop any part of our assisting with your event request or serving you as a vendor, please email [support@alltimefavorites.com](mailto:support@alltimefavorites.com)
 
-**No Release of Information to Third Parties**  
-  
-Personal information **will not be released to third parties** _except_ to further the purpose for which you provide the information, such as requesting information from vendors or if release is required by law or is pertinent to judicial or governmental investigations or proceedings. _There are no other circumstances under which we will provide or sell personal information to third parties._
+**How we protect your personal information**  
+When you send payments to us we use the industry standard SSL encryption for receiving credit card numbers and payment information.  That information stays on our web server for about 30 seconds.  No credit card data is stored on our web server in a database for security reasons.  All data is transmitted to our offices behind our firewalls and stored in password protected databases. Only accounting personnel and senior level staff can see your credit card numbers. ALL other staff of a lower security level can only view the last 4 digits of your card #.  Old card data not being used is purged from the system after 1 year.  Credit card information is only used for purchasing products/services through our web site.  
+[  
+](http://www26.americanexpress.com/privatepayments/info_page.jsp)
 
-**No Computer Tracking of Identifiable Information**  
-  
-Our computer is not set up to track, collect or distribute personal information about its visitors. It does recognize the home server of visitors, but not e-mail addresses. For example, we can tell which Internet Service Provider our visitors use, but not the names, addresses or other information about our visitors that would allow us to identify the particular visitors to our sites. This information is used only for internal purposes by ATF technical support staff.
+This Privacy Statement applies only to our United States customers, U.S. visitors to our Web site, and U.S. vendors registered on our site.
 
-Our computer also recognizes what sites you click on during your visit to our website. We cannot identify the visitor or the visitor's address. Site information is used to improve our website and may be used to advise vendors and potential vendors of the numbers of visitors who come to our site from their sites. No personal information is collected.
-
-In addition, our web sites track information about the visits to our web sites. For example, we compile statistics that show the daily number of visitors to our sites, the daily requests we receive for particular files on our web sites, and what countries those requests come from. These aggregated statistics are used internally to better provide services to the public and may also be provided to others, but again, the statistics contain no personal information and cannot be used to gather such information.
-
-Click your browser's "back" button to go back to the prior page.
-
-Thank you.
-
-Further comments on the above policy or ways to improve it can be directed to [privacypolicy@alltimefavorites.com](mailto:privacypolicy@alltimefavorites.com)
+If you have questions about your account [contact us here](https://web.archive.org/web/20031204235624id_/http%3A//www.alltimefavorites.com/contact.htm)
