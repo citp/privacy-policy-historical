@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ird.govt.nz privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207165610id_/http%3A//www.ird.govt.nz/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ird.govt.nz privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605155856id_/http%3A//www.ird.govt.nz/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -25,6 +25,8 @@ In particular:
 
 
 
+Please note that the Online Correspondence Service collects and stores personal information provided during the registration process and details of the correspondence sent and received.
+
 ### We automatically record some non-personal information
 
 We do not attempt to identify users or their browsing activities unless they choose to provide us with personal information.
@@ -34,8 +36,9 @@ If you visit our website to read or download information, we automatically recor
   * the type of browser you use;
   * the type of operating system you use;
   * the date and time you access our site;
-  * the pages you have accessed and the documents downloaded; and
-  * the internet address from which you accessed our site.
+  * the pages you have accessed and the documents downloaded; 
+  * the internet address from which you accessed our site; and
+  * the last site you visited before you accessed any Inland Revenue website.
 
 
 
