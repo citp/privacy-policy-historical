@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlynaturalpet.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205112306id_/http%3A//www.onlynaturalpet.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlynaturalpet.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402015007id_/http%3A//www.onlynaturalpet.com/terms_privacy.asp) for the most accurate reproduction.*
 
-# Only Natural Pet Store - Healthy Products for Your Dog or Cat for Holistic Health
+# Only Natural Pet Store - Dogs Cats Healthy Holistic Supplies Products Food Treats Vitamins Medicine
 
   
 Privacy Policy
@@ -66,7 +66,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20041205112306id_/http%3A//www.onlynaturalpet.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20050402015007id_/http%3A//www.onlynaturalpet.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
