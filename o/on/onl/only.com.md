@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the only.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604030110id_/http%3A//only.com/privacy_page.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the only.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201015349id_/http%3A//www.only.com/privacy_page.html) for the most accurate reproduction.*
 
 # ONLY.COM
 
@@ -20,11 +20,11 @@ Only- sites contain links to other sites and we cannot be responsible for the pr
 
 If you have any questions about this privacy policy or the practices of our sites, please send an email to [privacy@Only.com](mailto:privacy@Only.com)
 
-[**Only-Yellow-Pages.com**](https://web.archive.org/web/20010604030110id_/http%3A//only.com/PR_210501.html)  
-Only.Com launches the World's first Global Yellow Pages(21/05/01)
+[**Only-Yellow-Pages.com**](https://web.archive.org/web/20011201015349id_/http%3A//www.only.com/PR_140601.html)  
+Only.com launches world's first Global Yellow Pages(14/06/01)
 
-[**Guitar Hero's**](https://web.archive.org/web/20010604030110id_/http%3A//only.com/PR_180501.html)  
+[**Guitar Hero's**](https://web.archive.org/web/20011201015349id_/http%3A//www.only.com/PR_180501.html)  
 Only-Music.com Competition Results(18/05/01)
 
-[**Journeys From Hell**](https://web.archive.org/web/20010604030110id_/http%3A//only.com/PR_130301.html)  
+[**Journeys From Hell**](https://web.archive.org/web/20011201015349id_/http%3A//www.only.com/PR_130301.html)  
 Only-Travel.com Press Release(13/03/01)
