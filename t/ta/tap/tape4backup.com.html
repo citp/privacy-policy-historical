@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the tape4backup.com privacy policy that was archived on 2004-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040606023357id_/http%3A//www.tape4backup.com/policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tape4backup.com privacy policy that was archived on 2004-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204120524id_/http%3A//tape4backup.com/policy.html) for the most accurate reproduction.-->
 
 <html><head><script language="javascript"> 
  <!-- 
  if (document.referrer && (document.referrer!='') && window.Image) 
  { 
- (new Image).src="http://redirect1.vip.store.yahoo.com/cgi-bin/referadd?spcl=1&et=40c283c1&catalog=tapesbackup&r=" + escape(document.referrer); }
+ (new Image).src="http://redirect1.vip.store.yahoo.com/cgi-bin/referadd?spcl=1&et=41b1a92a&catalog=tapesbackup&r=" + escape(document.referrer); }
  // --> 
  </script><title>No Name</title>
 
@@ -15,7 +15,7 @@ Policy l About us</title>
   <meta name="GENERATOR" content="Namo WebEditor v5.0(Trial)">
   <meta name="description" content="Inserts a blank document layout with no defined style.">
 </head>
-<body bgcolor="ffffff" link="0000cc" vlink="666666" text="black" alink="red">
+<body bgcolor="ffffff" link="0000cc" text="black" vlink="purple" alink="red">
 <table border="0" bgcolor="#c4d2e3" width="787">
   <tbody>
     <tr>
@@ -115,11 +115,29 @@ function na_open_window(name, url, left, top, width, height, toolbar, menubar, s
   statusbar_str = statusbar ? 'yes' : 'no';
   scrollbar_str = scrollbar ? 'yes' : 'no';
   resizable_str = resizable ? 'yes' : 'no';
+
+  cookie_str = document.cookie;
+  cookie_str.toString();
+
+  pos_start  = cookie_str.indexOf(name);
+  pos_end    = cookie_str.indexOf('=', pos_start);
+
+  cookie_name = cookie_str.substring(pos_start, pos_end);
+
+  pos_start  = cookie_str.indexOf(name);
+  pos_start  = cookie_str.indexOf('=', pos_start);
+  pos_end    = cookie_str.indexOf(';', pos_start);
+  
+  if (pos_end <= 0) pos_end = cookie_str.length;
+  cookie_val = cookie_str.substring(pos_start + 1, pos_end);
+  if (cookie_name == name && cookie_val  == "done")
+    return;
+
   window.open(url, name, 'left='+left+',top='+top+',width='+width+',height='+height+',toolbar='+toolbar_str+',menubar='+menubar_str+',status='+statusbar_str+',scrollbars='+scrollbar_str+',resizable='+resizable_str);
 }
 
-// -->
-</script>
+// --></script>
+
 
 
 
@@ -313,8 +331,7 @@ Accounts</font></strong></p>
                                         </tr>
                                                     <tr>
                                           <td valign="top" bgcolor="#d7e5f7" height="21">
-                                                            <p><script language="JavaScript" src="http://livehelp.salesrep.com/HelpIcon.aspx?sid=1519716"></script>
-<script language="JavaScript" src="http://livehelp.salesrep.com/CustomerSteps.aspx?sid=1519716"></script></p>
+                                             
                                           </td>
                                                     </tr>
                                       </tbody>
@@ -536,7 +553,7 @@ Type</option>
 
 
 
-</td><td><img src="http://us.st1.yimg.com/store1.yimg.com/Img/trans_1x1.gif" height="1" width="26" border="0" alt="pad"></td><td><a href="index.html"><img src="http://store6.yimg.com/I/tapesbackup_1796_0" width="0" height="5" border="0" hspace="0" vspace="0"></a><br><br><table border="0" cellspacing="0" cellpadding="0" width="549"><tbody><tr valign="top"><td width="549"><font size="2" face="verdana"><meta name="generator" content="Namo WebEditor v5.0(Trial)">
+</td><td><img src="http://us.st1.yimg.com/store1.yimg.com/Img/trans_1x1.gif" height="1" width="26" border="0" alt="pad"></td><td><a href="index.html"><img src="http://store1.yimg.com/I/tapesbackup_1820_0" width="0" height="5" border="0" hspace="0" vspace="0"></a><br><br><table border="0" cellspacing="0" cellpadding="0" width="549"><tbody><tr valign="top"><td width="549"><font size="2" face="verdana"><meta name="generator" content="Namo WebEditor v5.0(Trial)">
 <table width="590" bgcolor="#FCF9F9">
 <tbody><tr>
 <td colspan="3" valign="top" width="584"><font face="Helvetica" size="2"><img src="http://lib1.store.vip.sc5.yahoo.com/lib/tapesbackup/privacypolicy.jpg" width="201" height="28" border="0" style="border-color:yellow; border-style:dotted;"></font></td></tr>
@@ -580,4 +597,5 @@ information.</i></font></p></td></tr>
 <td align="right" colspan="2" width="413">
 <p><a href="http://privacy.yahoo.com/privacy/us"><font face="Helvetica" size="2"><img border="0" height="31" src="http://lib1.store.vip.sc5.yahoo.com/lib/tapesbackup/truste.jpg" width="116"></font></a></p></td></tr>
 </tbody></table><br><br></font></td></tr></tbody></table></td></tr></tbody></table>
+
 </body></html>
