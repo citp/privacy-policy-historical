@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gazettextra.com privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212182312id_/http%3A//www.gazettextra.com/terms.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gazettextra.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606223659id_/http%3A//www.gazettextra.com/terms.asp) for the most accurate reproduction.*
 
 # Terms of Use and Privacy Policy| The Janesville Gazette | Janesville, Wisconsin, USA
 
 |  |  |   
 ---|---|---  
-|  |  [](https://web.archive.org/web/20031212182312id_/http%3A//www.gazettextra.com/index-nationalworldnews.asp) |  [](http://www.people2people.com/?connect=janesville) |  [](https://web.archive.org/web/20031212182312id_/http%3A//www.gazettextra.com/subscribe/index.asp) | [ ](https://web.archive.org/web/20031212182312id_/http%3A//www.gazettextra.com/nie/index.asp) |  [](https://web.archive.org/web/20031212182312id_/http%3A//www.gazettextra.com/contactus/index.asp)  
+|  |  [](https://web.archive.org/web/20040606223659id_/http%3A//www.gazettextra.com/index-nationalworldnews.asp) |  [](http://www.people2people.com/?connect=janesville) |  [](https://web.archive.org/web/20040606223659id_/http%3A//www.gazettextra.com/subscribe/index.asp) | [ ](https://web.archive.org/web/20040606223659id_/http%3A//www.gazettextra.com/nie/index.asp) |  [](https://web.archive.org/web/20040606223659id_/http%3A//www.gazettextra.com/contactus/index.asp)  
 ---|---|---|---|---  
 |   
 ---  
@@ -15,17 +15,6 @@ SPECIAL SECTIONS
 FEATURED ADVERTISER  
   
   
-**COMING SUNDAY**  
-  
-Kids share their  
-holiday wish lists  
-with Santa.  
-  
-Pick up the special  
-section in Sunday's  
-Gazette at newsstands  
-everywhere or  
-[start home delivery](https://web.archive.org/web/20031212182312id_/http%3A//www.gazettextra.com/subscribe/index.asp).  
   
 |  |   
 ---|---  
@@ -64,7 +53,7 @@ Personal information you voluntarily provide is used for internal purposes only 
 
 **Special notice to children**
 
-Children should always get parental permission before sending any information about themselves over the Internet -- to us or anyone else. We encourage parents to review and share safety tips with their children using the Internet. [Get information regarding our compliance with the Children's Online Privacy and Protect Act (COPPA)](https://web.archive.org/web/20031212182312id_/http%3A//www.gazettextra.com/amp/coppa.html). 
+Children should always get parental permission before sending any information about themselves over the Internet -- to us or anyone else. We encourage parents to review and share safety tips with their children using the Internet. [Get information regarding our compliance with the Children's Online Privacy and Protect Act (COPPA)](https://web.archive.org/web/20040606223659id_/http%3A//www.gazettextra.com/amp/coppa.html). 
 
 **Notice regarding other online companies**
 
@@ -87,12 +76,12 @@ Manager, Bliss New Media
 |  |   
 ---|---|---|---|---|---  
   
-[Home](https://web.archive.org/web/20031212182312id_/http%3A//www.gazettextra.com/index.asp) | [Business directory](http://www.blissnet.net/botw/index.html) | [Classifieds](http://www.janesvilleclassifieds.com/) | [Contact us](https://web.archive.org/web/20031212182312id_/http%3A//www.gazettextra.com/contactus/index.asp) | [Dining guide](http://www.gazetteextra.com/diningout/main.html) | [Employment](http://www.gazetteextra.com/employment) | [Local/state news](https://web.archive.org/web/20031212182312id_/http%3A//www.gazettextra.com/index-localstatenews.asp)  
-[National/world news](https://web.archive.org/web/20031212182312id_/http%3A//www.gazettextra.com/index-nationalworldnews.asp) | [Newspapers in Education](https://web.archive.org/web/20031212182312id_/http%3A//www.gazettextra.com/nie/index.asp) | [Personal ads](http://www.people2people.com/?connect=janesville) | [Real estate](http://www.janesvillehomefront.com/) | [Subscribe](https://web.archive.org/web/20031212182312id_/http%3A//www.gazettextra.com/subscribe/index.asp)   
+[Home](https://web.archive.org/web/20040606223659id_/http%3A//www.gazettextra.com/index.asp) | [Business directory](http://www.blissnet.net/botw/index.html) | [Classifieds](http://www.janesvilleclassifieds.com/) | [Contact us](https://web.archive.org/web/20040606223659id_/http%3A//www.gazettextra.com/contactus/index.asp) | [Dining guide](http://www.gazetteextra.com/diningout/main.html) | [Employment](http://www.gazetteextra.com/employment) | [Local/state news](https://web.archive.org/web/20040606223659id_/http%3A//www.gazettextra.com/index-localstatenews.asp)  
+[National/world news](https://web.archive.org/web/20040606223659id_/http%3A//www.gazettextra.com/index-nationalworldnews.asp) | [Newspapers in Education](https://web.archive.org/web/20040606223659id_/http%3A//www.gazettextra.com/nie/index.asp) | [Personal ads](http://www.people2people.com/?connect=janesville) | [Real estate](http://www.janesvillehomefront.com/) | [Subscribe](https://web.archive.org/web/20040606223659id_/http%3A//www.gazettextra.com/subscribe/index.asp)   
 Search engine powered by | [](http://www.google.com/)  
 ---|---  
   
-Copyright ©2003 Bliss Communications Inc. All rights reserved.  
-Use of this material and this site are subject to the [GazetteExtra Terms of Use and Privacy Policy](https://web.archive.org/web/20031212182312id_/http%3A//www.gazettextra.com/terms.asp).   
+Copyright ©2004 Bliss Communications Inc. All rights reserved.  
+Use of this material and this site are subject to the [GazetteExtra Terms of Use and Privacy Policy](https://web.archive.org/web/20040606223659id_/http%3A//www.gazettextra.com/terms.asp).   
 Content may not be published, broadcast, re-distributed or re-written.  
 
