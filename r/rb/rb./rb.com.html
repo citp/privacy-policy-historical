@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rb.com privacy policy that was archived on 2002-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021208093540id_/http%3A//www.bentleypublishers.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rb.com privacy policy that was archived on 2003-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030621054903id_/http%3A//www.bentleypublishers.com/privacy.htm) for the most accurate reproduction.-->
 
 <html><head>
 <title>
@@ -16,15 +16,118 @@ BentleyPublishers.com: Privacy Notice
 --></style>
 
 
+
 	<link rel="shortcut icon" href="http://www.bentleypublishers.com/images/favicon.ico">
 
 	<style type="text/css">
+  form.noSpace {
+	margin-bottom:0px;
+}
+
+div.menuBar,
+div.menuBar a.menuButton,
+div.menuBar1,
+div.menuBar1 a.menuButton,
+div.menu,
+div.menu a.menuItem {
+  font-family: Verdana, Geneva, Arial, Helvetica, Sans-Serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: normal;
+  color: #333333;
+}
+
+
+div.menuArea { 
+  background-color:#834096;
+  padding: 5px 10px;
+}
+
+div.menuBar,
+div.menuBar1 {
+  width:165;
+}
+
+div.menu {
+  visibility:hidden;
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 101;
+}
+
+div.menuBar {
+  background-color: #f3f3f3;
+  border: 0px outset #f3f3f3;
+  padding: 0px 0px 0px 0px;
+}
+
+div.menuBar1 {
+  background-color: #eaeaea;
+  border: 0px outset #eaeaea;
+  padding: 0px 0px 0px 0px;
+}
+
+div.menu {
+  background-color: #f3f3f3;
+  border: 1px outset #eaeaea;
+  padding: 0px 0px 0px 0px;
+}
+
+div.menuBar a.menuLink,
+div.menuBar1 a.menuLink {
+  color: #333333;
+  cursor: default;
+  padding: 0px 12px;
+  display: block;
+  white-space: nowrap;
+}
+
+div.menuBar a.menuButton,
+div.menuBar1 a.menuButton,
+div.menu a.menuItem {
+  color: #333333;
+  cursor: default;
+  padding: 0px 12px;
+  display: block;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+div.menuBar a.menuButtonActive,
+div.menuBar a.menuButtonActive:hover,
+div.menuBar a.menuButton:hover,
+div.menuBar1 a.menuButtonActive,
+div.menuBar1 a.menuButtonActive:hover,
+div.menuBar1 a.menuButton:hover,
+div.menu a.menuItem:hover, 
+div.menu a.menuItemHighlight {
+  background-color: #cccccc;
+  color: #333333;
+}
+
+span.menuText {
+  padding: 0px 0px 0px 0px;
+}
+
+span.menuArrow {
+  margin-right: -.75em;
+  padding-left: 10px;
+}
+
+div.menu div.menuSep {
+  border: 1px inset #e0e0e0;
+  margin: 4px 2px;
+}
 	<!--
-	BODY { font-family: Verdana, Geneva, Arial, Helvetica, Sans-Serif; background: white; color: black }
+
+
+	BODY { font-family: Verdana, Geneva, Arial, Helvetica, Sans-Serif; background: white; color: black; margin-top: 0 }
 	TD { font-family: Verdana, Geneva, Arial, Helvetica, Sans-Serif }
 	TD.nav { font-size: 12px; font-family: Verdana, Geneva, Arial, Helvetica, Sans-Serif }
 
 	P.nav { font-size: 12px; font-family: Verdana, Geneva, Arial, Helvetica, Sans-Serif }
+	P.indent15 { font-size: 12px; font-family: Verdana, Geneva, Arial, Helvetica, Sans-Serif; text-indent: 15 }
 
 	A.nav:link { font-size: 12px; font-family: Verdana, Geneva, Arial, Helvetica, Sans-Serif; color: #333333; text-decoration: none }
 	A.nav:visited { font-size: 12px; font-family: Verdana, Geneva, Arial, Helvetica, Sans-Serif; color: #333333; text-decoration: none }
@@ -45,6 +148,11 @@ BentleyPublishers.com: Privacy Notice
 	A.nextprev:visited { font-family: Verdana, Geneva, Arial, Helvetica, Sans-Serif; color: #333333; text-decoration: none }
 	A.nextprev:active { font-family: Verdana, Geneva, Arial, Helvetica, Sans-Serif; color: #999999; text-decoration: none }
 	A.nextprev:hover { font-family: Verdana, Geneva, Arial, Helvetica, Sans-Serif; color:#999999; text-decoration: none; }
+
+	A.header:link { font-family: Verdana, Geneva, Arial, Helvetica, Sans-Serif; color: #ffffff; text-decoration: none; font-size: 10px }
+	A.header:visited { font-family: Verdana, Geneva, Arial, Helvetica, Sans-Serif; color: #ffffff; text-decoration: none; font-size: 10px }
+	A.header:active { font-family: Verdana, Geneva, Arial, Helvetica, Sans-Serif; color: #cccccc; text-decoration: none; font-size: 10px }
+	A.header:hover { font-family: Verdana, Geneva, Arial, Helvetica, Sans-Serif; color:#cccccc; text-decoration: none; font-size: 10px }
 
 	A:link {  font-family: Verdana, Geneva, Arial, Helvetica, Sans-Serif; color: #333333 }
 	A:visited {  font-family: Verdana, Geneva, Arial, Helvetica, Sans-Serif; color: #333333 }
@@ -78,26 +186,547 @@ BentleyPublishers.com: Privacy Notice
 	.maintopic {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14px; font-weight: bold; color: #000000}
 	-->
 	</style>
+<script type="text/javascript">//<![CDATA[
+
+//----------------------------------------------------------------------------
+// Code to determine the browser and version.
+//----------------------------------------------------------------------------
+
+function Browser() {
+  var ua, s, i;
+
+  this.isIE    = false;  // Internet Explorer
+  this.isNS    = false;  // Netscape
+  this.version = null;
+
+  ua = navigator.userAgent;
+
+  s = "MSIE";
+  if ((i = ua.indexOf(s)) >= 0) {
+    this.isIE = true;
+    this.version = parseFloat(ua.substr(i + s.length));
+    return;
+  }
+
+  s = "Netscape6/";
+  if ((i = ua.indexOf(s)) >= 0) {
+    this.isNS = true;
+    this.version = parseFloat(ua.substr(i + s.length));
+    return;
+  }
+
+  // Treat any other "Gecko" browser as NS 6.1.
+
+  s = "Gecko";
+  if ((i = ua.indexOf(s)) >= 0) {
+    this.isNS = true;
+    this.version = 6.1;
+    return;
+  }
+}
+
+var browser = new Browser();
+
+//----------------------------------------------------------------------------
+// Code for handling the menu bar and active button.
+//----------------------------------------------------------------------------
+
+var activeButton = null;
+
+/* [MODIFIED] This code commented out, not needed for activate/deactivate
+   on mouseover.
+
+// Capture mouse clicks on the page so any active button can be
+// deactivated.
+
+if (browser.isIE)
+  document.onmousedown = pageMousedown;
+else
+  document.addEventListener("mousedown", pageMousedown, true);
+
+function pageMousedown(event) {
+  var el;
+
+  // If there is no active button, exit.
+
+  if (activeButton == null)
+    return;
+
+  // Find the element that was clicked on.
+
+  if (browser.isIE)
+    el = window.event.srcElement;
+  else
+    el = (event.target.tagName ? event.target : event.target.parentNode);
+
+  // If the active button was clicked on, exit.
+
+  if (el == activeButton)
+    return;
+
+  // If the element is not part of a menu, reset and clear the active
+  // button.
+
+  if (getContainerWith(el, "DIV", "menu") == null) {
+    resetButton(activeButton);
+    activeButton = null;
+  }
+}
+
+[END MODIFIED] */
+
+function buttonClick(event, menuId) {
+  var button;
+
+  // Get the target button element.
+
+  if (browser.isIE)
+    button = window.event.srcElement;
+  else
+    button = event.currentTarget;
+    
+//  if (button.tagName == "SPAN") return;
+  button = getContainerWith(button, "A", "menuButton");
+
+  // Blur focus from the link to remove that annoying outline.
+
+  button.blur();
+
+  // Associate the named menu to this button if not already done.
+  // Additionally, initialize menu display.
+
+  if (button.menu == null) {
+    button.menu = document.getElementById(menuId);
+    // In case we never defined any menus for the button, return happily and show nothing
+    if (button.menu == null) {
+       return;	
+    }
+    if (button.menu.isInitialized == null)
+      menuInit(button.menu);
+  }
+
+  // [MODIFIED] Added for activate/deactivate on mouseover.
+
+  // Set mouseout event handler for the button, if not already done.
+
+  if (button.onmouseout == null)
+    button.onmouseout = buttonOrMenuMouseout;
+
+  // Exit if this button is the currently active one.
+
+  if (button == activeButton)
+    return false;
+
+  // [END MODIFIED]
+
+  // Reset the currently active button, if any.
+
+  if (activeButton != null)
+    resetButton(activeButton);
+
+  // Activate this button, unless it was the currently active one.
+
+  if (button != activeButton) {
+    depressButton(button);
+    activeButton = button;
+  }
+  else
+    activeButton = null;
+
+
+  return false;
+}
+
+function buttonMouseover(event, menuId) {
+  var button;
+
+  // [MODIFIED] Added for activate/deactivate on mouseover.
+
+  // Activates this button's menu if no other is currently active.
+
+  if (activeButton == null) {
+    buttonClick(event, menuId);
+    return;
+  }
+
+  // [END MODIFIED]
+
+  // Find the target button element.
+
+  if (browser.isIE)
+    button = window.event.srcElement;
+  else
+    button = event.currentTarget;
+
+  // If any other button menu is active, make this one active instead.
+
+  if (activeButton != null && activeButton != button)
+    buttonClick(event, menuId);
+}
+
+function depressButton(button) {
+  var x, y;
+
+  // Update the button's style class to make it look like it's
+  // depressed.
+  button.className += " menuButtonActive";
+
+  // [MODIFIED] Added for activate/deactivate on mouseover.
+  // Set mouseout event handler for the button, if not already done.
+  if (button.onmouseout == null)
+    button.onmouseout = buttonOrMenuMouseout;
+  if (button.menu.onmouseout == null)
+    button.menu.onmouseout = buttonOrMenuMouseout;
+  // [END MODIFIED]
+
+  // Position the associated drop down menu under the button and
+  // show it.
+  x = getPageOffsetLeft(button) + button.offsetWidth;
+  y = getPageOffsetTop(button);
+
+  // For IE, adjust position.
+  if (browser.isIE) {
+    x += button.offsetParent.clientLeft;
+    y += button.offsetParent.clientTop;
+  }
+
+  button.menu.style.left = x + "px";
+  button.menu.style.top  = y + "px";
+  button.menu.style.visibility = "visible";
+}
+
+function resetButton(button) {
+  // Restore the button's style class.
+
+  removeClassName(button, "menuButtonActive");
+
+  // Hide the button's menu, first closing any sub menus.
+
+  if (button.menu != null) {
+    closeSubMenu(button.menu);
+    button.menu.style.visibility = "hidden";
+  }
+}
+
+//----------------------------------------------------------------------------
+// Code to handle the menus and sub menus.
+//----------------------------------------------------------------------------
+
+function menuMouseover(event) {
+  var menu;
+
+  // Find the target menu element.
+
+  if (browser.isIE)
+    menu = getContainerWith(window.event.srcElement, "DIV", "menu");
+  else
+    menu = event.currentTarget;
+
+  // Close any active sub menu.
+
+  if (menu.activeItem != null)
+    closeSubMenu(menu);
+}
+
+function menuItemMouseover(event, menuId) {
+  var item, menu, x, y;
+
+  // Find the target item element and its parent menu element.
+
+  if (browser.isIE)
+    item = getContainerWith(window.event.srcElement, "A", "menuItem");
+  else
+    item = event.currentTarget;
+  menu = getContainerWith(item, "DIV", "menu");
+
+  // Close any active sub menu and mark this one as active.
+
+  if (menu.activeItem != null)
+    closeSubMenu(menu);
+  menu.activeItem = item;
+
+  // Highlight the item element.
+
+  item.className += " menuItemHighlight";
+
+  // Initialize the sub menu, if not already done.
+
+  if (item.subMenu == null) {
+    item.subMenu = document.getElementById(menuId);
+    if (item.subMenu.isInitialized == null)
+      menuInit(item.subMenu);
+  }
+
+  // [MODIFIED] Added for activate/deactivate on mouseover.
+
+  // Set mouseout event handler for the sub menu, if not already done.
+
+  if (item.subMenu.onmouseout == null)
+    item.subMenu.onmouseout = buttonOrMenuMouseout;
+
+  // [END MODIFIED]
+
+  // Get position for submenu based on the menu item.
+
+  x = getPageOffsetLeft(item) + item.offsetWidth;
+  y = getPageOffsetTop(item);
+
+  // Adjust position to fit in view.
+
+  var maxX, maxY;
+
+  if (browser.isNS) {
+    maxX = window.scrollX + window.innerWidth;
+    maxY = window.scrollY + window.innerHeight;
+  }
+  if (browser.isIE) {
+    maxX = Math.max(document.documentElement.scrollLeft, document.body.scrollLeft) +
+      (document.documentElement.clientWidth != 0 ? document.documentElement.clientWidth : document.body.clientWidth);
+    maxY = Math.max(document.documentElement.scrollTop, document.body.scrollTop) +
+      (document.documentElement.clientHeight != 0 ? document.documentElement.clientHeight : document.body.clientHeight);
+  }
+  maxX -= item.subMenu.offsetWidth;
+  maxY -= item.subMenu.offsetHeight;
+
+  if (x > maxX)
+    x = Math.max(0, x - item.offsetWidth - item.subMenu.offsetWidth
+      + (menu.offsetWidth - item.offsetWidth));
+  y = Math.max(0, Math.min(y, maxY));
+
+  // Position and show the sub menu.
+
+  item.subMenu.style.left = x + "px";
+  item.subMenu.style.top  = y + "px";
+  item.subMenu.style.visibility = "visible";
+
+  // Stop the event from bubbling.
+
+  if (browser.isIE)
+    window.event.cancelBubble = true;
+  else
+    event.stopPropagation();
+}
+
+function closeSubMenu(menu) {  
+  if (menu == null || menu.activeItem == null)
+    return;
+
+  // Recursively close any sub menus.
+
+  if (menu.activeItem.subMenu != null) {
+    closeSubMenu(menu.activeItem.subMenu);
+    menu.activeItem.subMenu.style.visibility = "hidden";
+    menu.activeItem.subMenu = null;
+  }
+  removeClassName(menu.activeItem, "menuItemHighlight");
+  menu.activeItem = null;
+}
+
+// [MODIFIED] Added for activate/deactivate on mouseover. Handler for mouseout
+// event on buttons and menus.
+
+function buttonOrMenuMouseout(event) {
+  var el;
+
+  // If there is no active button, exit.
+
+  if (activeButton == null)
+    return;
+
+  // Find the element the mouse is moving to.
+
+  if (browser.isIE)
+    el = window.event.toElement;
+  else if (event.relatedTarget != null)
+      el = (event.relatedTarget.tagName ? event.relatedTarget : event.relatedTarget.parentNode);
+
+  // If the element is not part of a menu, reset the active button.
+
+  if (getContainerWith(el, "DIV", "menu") == null) {
+    resetButton(activeButton);
+    activeButton = null;
+  }
+}
+
+// [END MODIFIED]
+
+//----------------------------------------------------------------------------
+// Code to initialize menus.
+//----------------------------------------------------------------------------
+function menuNameInit(menuName) {
+    if (browser.version < 5) return;
+    menuInit(document.getElementById(menuName));
+}
+
+
+function menuInit(menu) {
+	if (menu==null) return;
+  var itemList, spanList;
+  var textEl, arrowEl;
+  var itemWidth;
+  var w, dw;
+  var i, j;
+
+  // For IE, replace arrow characters.
+  if (browser.isIE) {
+    menu.style.lineHeight = "2.5ex";
+    spanList = menu.getElementsByTagName("SPAN");
+    for (i = 0; i < spanList.length; i++)
+      if (hasClassName(spanList[i], "menuArrow")) {
+        spanList[i].style.fontFamily = "Webdings";
+        spanList[i].firstChild.nodeValue = "4";
+      }
+  }
+
+  // Find the width of a menu item.
+  itemList = menu.getElementsByTagName("A");
+  if (itemList.length > 0) {
+    itemWidth = itemList[0].offsetWidth;
+    
+    // now here is a MAJOR hack -- IE includes 2* the padding values in the itemWidth, so we have to take it out.
+    // And I can't get it to *tell* me the padding value, so it's, well, hardcoded...
+	 if (browser.isIE) {
+	 	if (hasClassName(menu, "menuBar")) {
+		 	itemWidth -= 20;
+		} else {
+//			itemWidth -= 10;
+		}
+	 }
+ 	 //alert("padding: '" + itemList[0].style.font + "'");
+  } else {
+    return;
+  }
+
+  // For items with arrows, add padding to item text to make the
+  // arrows flush right.
+  for (i = 0; i < itemList.length; i++) {
+    spanList = itemList[i].getElementsByTagName("SPAN");
+    textEl  = null;
+    arrowEl = null;
+    for (j = 0; j < spanList.length; j++) {
+      if (hasClassName(spanList[j], "menuText"))
+        textEl = spanList[j];
+      if (hasClassName(spanList[j], "menuArrow")) {
+        arrowEl = spanList[j];
+		  //arrowEl.style.width=arrowEl.offsetWidth;
+       }
+    }
+    if (textEl != null && arrowEl != null) {
+      textEl.style.paddingRight = (itemWidth - (textEl.offsetWidth + arrowEl.offsetWidth)) + "px";
+    }
+//    itemList[i].offsetWidth = itemWidth;
+  }
+
+  // Fix IE hover problem by setting an explicit width on first item of
+  // the menu.
+  if (browser.isIE) {
+    w = itemList[0].offsetWidth;
+    itemList[0].style.width = w + "px";
+    dw = itemList[0].offsetWidth - w;
+    w -= dw;
+    itemList[0].style.width = w + "px";
+  }
+
+  // Mark menu as initialized.
+  menu.isInitialized = true;
+}
+
+//----------------------------------------------------------------------------
+// General utility functions.
+//----------------------------------------------------------------------------
+
+function getContainerWith(node, tagName, className) {
+
+  // Starting with the given node, find the nearest containing element
+  // with the specified tag name and style class.
+  while (node != null) {
+    if (node.tagName != null && node.tagName == tagName && hasClassName(node, className)) {
+      return node;
+    }
+    node = node.parentNode;
+  }
+
+  return node;
+}
+
+function hasClassName(el, name) {
+
+  var i, list;
+
+  // Return true if the given element currently has the given class
+  // name.
+
+  list = el.className.split(" ");
+  for (i = 0; i < list.length; i++)
+    if (list[i] == name)
+      return true;
+
+  return false;
+}
+
+function removeClassName(el, name) {
+
+  var i, curList, newList;
+
+  if (el.className == null)
+    return;
+
+  // Remove the given class name from the element's className property.
+
+  newList = new Array();
+  curList = el.className.split(" ");
+  for (i = 0; i < curList.length; i++)
+    if (curList[i] != name)
+      newList.push(curList[i]);
+  el.className = newList.join(" ");
+}
+
+function getPageOffsetLeft(el) {
+
+  var x;
+
+  // Return the x coordinate of an element relative to the page.
+
+  x = el.offsetLeft;
+  if (el.offsetParent != null)
+    x += getPageOffsetLeft(el.offsetParent);
+
+  return x;
+}
+
+function getPageOffsetTop(el) {
+
+  var y;
+
+  // Return the x coordinate of an element relative to the page.
+
+  y = el.offsetTop;
+  if (el.offsetParent != null)
+    y += getPageOffsetTop(el.offsetParent);
+
+  return y;
+}
+
+//]]></script>
 
 </head>
-<body>
+<body onload="menuNameInit('menuBar'); menuNameInit('techMenuBar')">
 
 <a name="TOP"></a>
 <table cellspacing="0" cellpadding="0" width="100%" border="0">
  <tbody><tr>
-  <td bgcolor="384F93" valign="top"><a href="/index.htm"><img border="0" valign="top" align="left" src="/images/bentley_logo.gif" alt="[B] Bentley Publishers, Information that makes the difference. Established 1950."></a></td>
-  <td bgcolor="384F93" rowspan="2" valign="top" align="right"><img valign="top" align="right" src="/images/head_book_img3.gif" border="0"></td>
+  <td bgcolor="384F93" valign="top"><a href="http://www.bentleypublishers.com/index.htm"><img border="0" width="287" height="63" valign="top" align="left" src="http://www.bentleypublishers.com/images/bentley_logo.gif" alt="[B] Bentley Publishers, Information that makes the difference. Established 1950."></a></td>
+  <td bgcolor="384F93" rowspan="2" valign="top" align="right"><img valign="top" width="404" height="97" align="right" src="http://www.bentleypublishers.com/images/head_book_img3.gif" border="0"></td>
  </tr>
  <tr>
-  <td bgcolor="384F93" valign="top" height="4">
-  	<form action="/dtSearch/dtisapi6.dll" method="post">
+  <td bgcolor="384F93" valign="top" height="15">
+<table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td rowspan="2" valign="top">
+  	<form action="/dtSearch/dtisapi6.dll" method="post" style="margin-bottom:0px; margin-top:0px; margin-right:0px;">
 <font face="Verdana" size="1" color="#000000">
   	<input type="hidden" name="cmd" value="search">
-	<input type="hidden" name="SearchForm" value="e:\rb\advsearch.html">
+	<input type="hidden" name="SearchForm" value="D:\rb\advsearch.html">
 	<input type="hidden" name="OrigSearchForm" value="http://www.bentleypublishers.com/advsearch_form.html">
-	&nbsp;&nbsp;&nbsp;<input type="edit" name="request" size="15" maxlength="200" align="MIDDLE">
-	&nbsp;<input type="submit" value="search">&nbsp;&nbsp;<a href="search.help.html"><font size="1" color="#ffffff">Help</font></a><font size="1" color="#ffffff">&nbsp;-&nbsp;</font><a href="search.feedback.htm"><font size="1" color="#ffffff">Feedback</font></a><!--<a href="advsearch.html"><font size=1 color=#ffffff>Advanced Search</font></a>-->
-	<input type="hidden" name="index" value="E:\rb\search\UserData\BentleyPublishers">
+	<input type="hidden" name="index" value="D:\rb\search\UserData\BentleyPublishers">
 	<input type="hidden" name="userSynonyms" value="Yes">
 	<input type="hidden" name="fuzzy" value="Yes">
 	<input type="hidden" name="fuzziness" value="2">
@@ -106,10 +735,24 @@ BentleyPublishers.com: Privacy Notice
 	<input type="hidden" name="natLang" value="Yes">
 	<input type="hidden" name="maxFiles" value="100">
 	<input type="hidden" name="autoStopLimit" value="5000">
-	<input type="hidden" name="sort" value="Hits">
-</font>
-
+	&nbsp;<input type="edit" name="request" size="15" maxlength="200" align="MIDDLE">
+	&nbsp;<input type="submit" value="go">
+	&nbsp;<input type="hidden" name="sort" value="Hits">
+	</font>
 </form>
+</td>
+<td valign="top" colspan="2">
+<a href="http://www.bentleypublishers.com/jsp/advanced.search.jsp" class="header">Advanced Search</a>
+</td>
+</tr>
+<tr>
+<td valign="top" nowrap="">
+<a href="http://www.bentleypublishers.com/jsp/product.list.jsp" class="header">Find My Car</a>
+<font face="Verdana" size="1" color="#FFFFFF"> | </font>
+</td>
+<td valign="top">
+<a href="http://www.bentleypublishers.com/jsp/shopcart.jsp" class="header"><img src="http://www.bentleypublishers.com/images/cart.w.gif" width="28" height="18" border="0" align="absbottom">View</a>
+</td></tr></tbody></table>
 
   </td>
  </tr>
@@ -117,34 +760,32 @@ BentleyPublishers.com: Privacy Notice
 
 
 
-<a name="top"></a>
-<br>
-
 <table>
 <tbody><tr>
 <!--BeginNoIndex-->
 <!-- ************** NAV ************ -->
 
+
 <td width="160" valign="TOP" align="LEFT">
 
 <table cellpadding="4" cellspacing="2">
 <tbody><tr><td class="nav" width="160" valign="TOP" align="LEFT" bgcolor="F3F3F3">
-&nbsp;<b><a class="nav" href="http://www.bentleypublishers.com">Home</a>&nbsp;</b>
+&nbsp;<b><a class="nav" href="http://www.bentleypublishers.com/index.htm">Home</a></b>
 </td></tr>
 
 <tr><td class="nav" width="160" valign="TOP" align="LEFT" bgcolor="EAEAEA">
 
-&nbsp;<b><a class="nav" href="http://www.bentleypublishers.com/tech">Technical&nbsp;Discussions</a>&nbsp;</b><br>
-&nbsp;&nbsp;&nbsp;<a class="nav" href="http://tech.bentleypublishers.com/~audi/guests">Audi</a>&nbsp;<br>
-&nbsp;&nbsp;&nbsp;<a class="nav" href="http://tech.bentleypublishers.com/~bmw/guests">BMW</a>&nbsp;<br>
-&nbsp;&nbsp;&nbsp;<a class="nav" href="http://tech.bentleypublishers.com/~mercedesbenz/guests">Mercedes-Benz</a>&nbsp;<br>
-&nbsp;&nbsp;&nbsp;<a class="nav" href="http://tech.bentleypublishers.com/~porsche/guests">Porsche</a>&nbsp;<br>
-&nbsp;&nbsp;&nbsp;<a class="nav" href="http://tech.bentleypublishers.com/~vw/guests">Volkswagen</a>&nbsp;<br> 
+&nbsp;<b><a class="nav" href="http://www.bentleypublishers.com/tech">Technical&nbsp;Discussions</a></b><br>
+&nbsp;&nbsp;&nbsp;<a class="nav" href="http://tech.bentleypublishers.com/index.jspa?categoryID=2">Audi</a><br>
+&nbsp;&nbsp;&nbsp;<a class="nav" href="http://tech.bentleypublishers.com/index.jspa?categoryID=3">BMW</a><br>
+&nbsp;&nbsp;&nbsp;<a class="nav" href="http://tech.bentleypublishers.com/index.jspa?categoryID=4">Mercedes-Benz</a><br>
+&nbsp;&nbsp;&nbsp;<a class="nav" href="http://tech.bentleypublishers.com/index.jspa?categoryID=5">Porsche</a><br>
+&nbsp;&nbsp;&nbsp;<a class="nav" href="http://tech.bentleypublishers.com/index.jspa?categoryID=6">Volkswagen</a><br> 
 
 </td></tr>
 <tr><td class="nav" width="160" valign="TOP" align="LEFT" bgcolor="F3F3F3">
 
-&nbsp;<b><a class="nav" href="http://www.bentleypublishers.com/">Store</a></b>
+&nbsp;<b><a class="nav" href="http://www.bentleypublishers.com/index.htm">Store</a></b>
 
 <br>&nbsp;&nbsp;&nbsp;<a class="nav" href="http://www.bentleypublishers.com/browse.htm?subject=1">Alfa Romeo</a>
 <br>&nbsp;&nbsp;&nbsp;<a class="nav" href="http://www.bentleypublishers.com/resource.htm?subject=2">Audi</a>
@@ -179,7 +820,7 @@ BentleyPublishers.com: Privacy Notice
 
 <br>&nbsp;&nbsp;&nbsp;<a class="nav" href="http://www.bentleypublishers.com/resource.htm?subject=25">Fuel Injection</a>
 
-<br>&nbsp;&nbsp;&nbsp;<a class="nav" href="http://www.bentleypublishers.com/resource.htm?subject=24">Engineering/Refer.</a>
+<br>&nbsp;&nbsp;&nbsp;<a class="nav" href="http://www.bentleypublishers.com/resource.htm?subject=24">Engineering/Ref.</a>
 
 <br>&nbsp;&nbsp;&nbsp;<a class="nav" href="http://www.bentleypublishers.com/resource.htm?subject=24">Performance</a>
 
@@ -192,38 +833,34 @@ BentleyPublishers.com: Privacy Notice
 
 <tr><td class="nav" width="160" valign="TOP" align="LEFT" bgcolor="F3F3F3">
 
-
 &nbsp;&nbsp;&nbsp;<a class="nav" href="http://www.bentleypublishers.com/ebahn/ebahn_info.htm">eBahn<font size="-2"><sup>®</sup></font> Software</a>
 
-<br>&nbsp;&nbsp;&nbsp;<a class="nav" href="http://www.bentleypublishers.com/resource.htm?subject=33">Library Fiction</a>
+<br>&nbsp;&nbsp;&nbsp;<a class="nav" href="http://www.bentleypublishers.com/ebahn/support/index.htm">Software Support</a>
 
-<br>&nbsp;&nbsp;&nbsp;<a class="nav" href="http://www.bentleypublishers.com/new.htm" alt="Our most recent products">New Titles</a>
-
-<br>&nbsp;&nbsp;&nbsp;<a class="nav" href="http://www.bentleypublishers.com/browse.htm?index=author">Author Index</a>
 
 </td></tr>
 
-<!--
-<TR><TD CLASS="nav" WIDTH="160" VALIGN=TOP ALIGN=LEFT BGCOLOR="EAEAEA">
+<tr><td class="nav" width="160" valign="TOP" align="LEFT" bgcolor="F3F3F3">
 
-&nbsp;<B>Indexes</B><BR>
-&nbsp;&nbsp;&nbsp;<A  class="nav" href="http://www.bentleypublishers.com/new.htm" ALT="Our most recent products">New Titles</A>&nbsp;<BR>
-&nbsp;&nbsp;&nbsp;<A  class="nav" href="http://www.bentleypublishers.com/browse.htm?index=subject" ALT="Browse our products by Subject">by Subject</A>&nbsp;<BR>
-&nbsp;&nbsp;&nbsp;<A  class="nav" href="http://www.bentleypublishers.com/browse.htm?index=title" ALT="Browse our products alphabetically by Title">by Title</A>&nbsp;<BR>
-  
-</TD></TR>
--->
+&nbsp;&nbsp;&nbsp;<a class="nav" href="http://www.bentleypublishers.com/new.htm" title="Our most recent products">New Titles</a>
+
+<br>&nbsp;&nbsp;&nbsp;<a class="nav" href="http://www.bentleypublishers.com/browse.htm?index=author">Author Index</a>
+
+<br>&nbsp;&nbsp;&nbsp;<a class="nav" href="http://www.bentleypublishers.com/resource.htm?subject=33">Library Fiction</a>
+
+
+</td></tr>
 
 <tr><td class="nav" width="160" valign="TOP" align="LEFT" bgcolor="EAEAEA">
 
 <b>
 &nbsp;<a class="nav" href="http://www.bentleypublishers.com/custserv/index.htm">Customer&nbsp;Service</a><br>
-&nbsp;<a class="nav" href="http://www.bentleypublishers.com/ebahn/support/index.htm">Software Support</a><br>
-&nbsp;<a class="nav" href="http://www.bentleypublishers.com/feedback.htm">Comments/Feedback</a><br>
-&nbsp;<a class="nav" href="http://www.bentleypublishers.com/author.htm?id=7#feedback" alt="Your feedback is welcome">Contact&nbsp;Us/Visit</a>&nbsp;<br>
-&nbsp;<a class="nav" href="http://www.bentleypublishers.com/catalog.htm">Catalogs/Mailing&nbsp;List</a><br>
-&nbsp;<a class="nav" href="http://www.bentleypublishers.com/linkspage.htm">Links</a><br>
-&nbsp;<a class="nav" href="http://www.bentleypublishers.com/author.htm?id=7">About&nbsp;Bentley</a><br>
+<!--&nbsp;<A  class="nav" href="http://www.bentleypublishers.com/feedback.htm">Comments/Feedback</A><BR>-->
+<!--&nbsp;<A  class="nav" href="http://www.bentleypublishers.com/catalog.htm">Catalogs/Mailing&nbsp;List</A><BR>-->
+&nbsp;<a class="nav" href="http://www.bentleypublishers.com/contact.us.htm" alt="Your feedback is welcome">Contact&nbsp;Us/Visit</a><br>
+&nbsp;<a class="nav" href="http://www.bentleypublishers.com/events.htm">Events</a><br>
+&nbsp;<a class="nav" href="http://www.bentleypublishers.com/become.author.htm">Becoming an Author</a><br>
+&nbsp;<a class="nav" href="http://www.bentleypublishers.com/about.bentley.htm">About&nbsp;Bentley</a><br>
 </b>
 
 </td></tr>
@@ -231,7 +868,8 @@ BentleyPublishers.com: Privacy Notice
 
 <b>
 &nbsp;<a class="nav" href="http://www.bentleypublishers.com/jobtoc.htm">Career&nbsp;Opportunities</a>&nbsp;<br>
-&nbsp;<a class="nav" href="http://www.bentleypublishers.com/directions.htm" alt="Directions to our offices">Directions&nbsp;to&nbsp;Bentley</a>&nbsp;<br>
+&nbsp;<a class="nav" href="http://www.bentleypublishers.com/directions.htm" alt="Directions to our offices">Directions&nbsp;to&nbsp;Bentley</a><br>
+&nbsp;<a class="nav" href="http://www.bentleypublishers.com/linkspage.htm">Links</a><br>
 </b>
 
 </td></tr>
@@ -261,9 +899,10 @@ Cambridge,&nbsp;MA&nbsp;02138&nbsp;<br>
 
 <td valign="TOP">
 
-<table border="0" cellspacing="1" cellpadding="2">
+<table border="0" cellspacing="0" cellpadding="2">
 <tbody><tr>
 <td>
+<font size="-1">
 <a name="BentleyPublishers.comPrivacyNotice"></a><b><font face="verdana,arial,helvetica">BentleyPublishers.com Privacy Notice</font></b><br>
 <p>BentleyPublishers.com knows that you care how information about you is used and
 shared, and we appreciate your trust that we will do so carefully and sensibly.
@@ -359,7 +998,7 @@ tell you how to prevent your browser from accepting new cookies, how to have
 the browser notify you when you receive a new cookie, or how to disable cookies
 altogether.</li>
 <li>The Federal Trade Commission provides useful information about online privacy on its own
-Web site, <a href="http://www.ftc.gov/bcp/conline/pubs/online/sitesee.html" target="_new">Site
+Web site, <a href="http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm" target="_new">Site
 Seeing on the Internet</a>. </li> </ul><p></p> 
 
 <p><b>Children</b></p> <p>BentleyPublishers.com does not sell products for purchase by children. We sell
@@ -396,7 +1035,7 @@ login; e-mail address; password; computer and connection information such as
 browser type and version, operating system, and platform; purchase history; the
 full Uniform Resource Locators (URL) clickstream to, through, and from our Web
 site, including date and time; cookie number; products you viewed or searched
-for; and phone number used to call our 800 number. </p> </td>
+for; and phone number used to call our 800 number. </p> </font></td>
 </tr> </tbody></table>
 
 </td>
@@ -408,39 +1047,49 @@ for; and phone number used to call our 800 number. </p> </td>
 <!-- FOOTER -->
 
 <!--BeginNoIndex-->
-<table>
-<tbody><tr><td colspan="2"><hr width="640" noshade="#FFCC00"></td></tr>
+<table width="100%">
+<tbody><tr><td colspan="2"><hr width="100%" size="1" noshade="#FFCC00"></td></tr>
 
 <tr>
 <td class="nav" width="640">
-<font size="-1">
-<center>
+<font size="-2">
+
 
 [<a class="nav" href="#TOP">Top of page</a>]
 [<a class="nav" href="http://www.bentleypublishers.com/index.htm">Return to home page</a>]
-<br>
-[<a class="nav" href="http://www.bentleypublishers.com/new.htm">New titles!</a>]
-[<a class="nav" href="http://www.bentleypublishers.com/browse.htm?index=title">Title index</a>]
-[<a class="nav" href="http://www.bentleypublishers.com/browse.htm?index=subject">Subject index</a>]
-[<a class="nav" href="http://www.bentleypublishers.com/browse.htm?index=author">Author index</a>] 
-<br>
-[<a class="nav" href="http://www.bentleypublishers.com/catalog.htm">Join our Mailing List</a>]
-[<a class="nav" href="http://www.bentleypublishers.com/author.htm?id=7">About Bentley Publishers</a>] 
-[<a class="nav" href="http://www.bentleypublishers.com/jobtoc.htm">Career opportunities</a>]
+[<a class="nav" href="http://www.bentleypublishers.com/new.htm">New titles</a>]
+[<a class="nav" href="http://www.bentleypublishers.com/browse.htm?index=author">Author index</a>]
 [<a class="nav" href="http://www.bentleypublishers.com/linkspage.htm">Related Links</a>]
 <br>
+[<a class="nav" href="http://www.bentleypublishers.com/about.bentley.htm">About Bentley Publishers</a>] 
+[<a class="nav" href="http://www.bentleypublishers.com/catalog.htm">Join our Mailing List</a>]
+[<a class="nav" href="http://www.bentleypublishers.com/jobtoc.htm">Career opportunities</a>]
 
+<br>
+
+
+</font>
+</td>
+</tr>
+</tbody></table>
+
+<table width="100%">
+<tbody><tr><td colspan="2"></td></tr>
+
+<tr>
+<td class="nav" width="640"><font size="-2">
+[<a class="nav" href="http://www.bentleypublishers.com/contact.us.htm" alt="Your feedback is welcome">Contact Us</a>]
+[<a class="nav" href="http://www.bentleypublishers.com/privacy.htm">Privacy Policy</a>]
+[<a class="nav" href="http://www.bentleypublishers.com/directions.htm">Driving directions to our offices</a>] <br>
+Copyright © 2003 Robert Bentley, Inc. All rights reserved.<br>
 Bentley Publishers, a division of Robert Bentley Inc. <br>
 1734 Massachusetts Avenue, Cambridge MA 02138 USA<br>
-Telephone: Toll free 800-423-4595 International 617-547-4170 Fax: 617-876-9235 <hr>
-<a class="nav" href="http://www.bentleypublishers.com/author.htm?id=7#feedback" alt="Your feedback is welcome">Contact Us</a> |
-<a class="nav" href="http://www.bentleypublishers.com/privacy.htm">Privacy Policy</a> | 
-<a class="nav" href="http://www.bentleypublishers.com/directions.htm">Driving directions to our offices</a> <br>
-Copyright © 2002 Robert Bentley, Inc. All rights reserved.<br>
-<font size="-2">Website and Content Management System developed by <a class="nav" href="http://www.infofoundry.com"><font size="-2">The Information Foundry</font></a></font>
+Telephone: Toll free 800-423-4595 International 617-547-4170 Fax: 617-876-9235 </font>
 
-</center>
-</font>
+<br><font size="-2">Website and Content Management System developed by <a class="nav" href="http://www.infofoundry.com"><font size="-2">The Information Foundry</font></a></font>
+
+
+
 </td>
 </tr>
 </tbody></table>
