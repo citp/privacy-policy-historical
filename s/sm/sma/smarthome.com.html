@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the smarthome.com privacy policy that was archived on 2000-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001204065900id_/http%3A//smarthome.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smarthome.com privacy policy that was archived on 2001-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010608032933id_/http%3A//www.smarthome.com/privacy.html) for the most accurate reproduction.-->
 
 <html><head><title> Privacy &amp; Information Use Policy</title>
 <meta name="ROBOTS" content="ALL,FOLLOW">
@@ -23,7 +23,7 @@ document.write ('<link rel="stylesheet" href="style/Smart_Home_Style_Other.css" 
 }
 // -->
 </script><link rel="stylesheet" href="style/Smart_Home_Style_Other.css" type="text/css">
-<!---¤¤ start of header ¤¤--->
+<!--**************   start of header include **************-->
 <script>
 // <!--
 if ((navigator.appName == "Netscape") && (navigator.appVersion > "5.0"))
@@ -37,9 +37,69 @@ else
 }
 // -->
 </script>
+<script language="JAVASCRIPT">
 
+function Get_Cookie(name) {
+    var start = document.cookie.indexOf(name+"=");
+    var len = start+name.length+1;
+    if ((!start) && (name != document.cookie.substring(0,name.length))) return null;
+    if (start == -1) return null;
+    var end = document.cookie.indexOf(";",len);
+    if (end == -1) end = document.cookie.length;
+    return unescape(document.cookie.substring(len,end));
+}
+
+function Set_Cookie(name,value,expires,path,domain,secure) {
+    document.cookie = name + "=" +escape(value) +
+        ( (expires) ? ";expires=" + expires.toGMTString() : "") +
+        ( (path) ? ";path=" + path : "") + 
+        ( (domain) ? ";domain=" + domain : "") +
+        ( (secure) ? ";secure" : "");
+
+}
+
+
+function SelectSearchType()
+{
+var todays_date = new Date();
+var expires_date = new Date(todays_date.getTime() + (1024 * 86400000));
+
+	if(document.inquire.searchtype[0].checked)
+	{
+		document.inquire.action='http://search.smarthome.com/cgi-bin/ts.pl';
+		document.inquire.SearchCommand.name='query';
+		Set_Cookie('Search', 'new', expires_date,'/');
+	}
+	else
+	{
+		document.inquire.action='/cgi-bin/Search.exe?stock';
+		document.inquire.SearchCommand.name='SearchCommand';
+		Set_Cookie('Search', 'classic', expires_date,'/');
+	}
+	return (true);
+}
+
+</script>
 </head>
 <body bgcolor="#ffffff" marginwidth="0" marginheight="0" leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" text="#000000" link="#000000" alink="#000000" vlink="#000000" class="body">
+
+<script language="JAVASCRIPT">
+	if(Get_Cookie('CatReq')==null)
+	{
+		var keyVal = Get_Cookie('Key');
+		if(keyVal!=null)
+		{
+			keyVal = keyVal.substring(0,2);
+			if(keyVal.substring(0,2)=='VC')
+			{
+				var todays_date = new Date();
+				var expires_date = new Date(todays_date.getTime() + (1024 * 86400000));
+				Set_Cookie('CatReq', 'True', expires_date, '/');
+				window.open('http://www.smarthome.com/catreqpopup.asp','','toolbar=no,scrollbars=yes,width=520,height=700');
+			}
+		}
+	}
+</script>
 
 <table border="0" cellpadding="1" cellspacing="0" width="600"><tbody><tr><td>
 
@@ -54,26 +114,38 @@ else
             </td></tr></tbody></table>
 
             <table border="0" cellpadding="0" cellspacing="0" width="300">
-            <tbody><tr valign="middle"><td align="right">
-            <form method="post" action="/cgi-bin/Search.exe?stock" target="_top" name="inquire">
+            <tbody><tr valign="middle"><td align="right" valign="top">
+            <form method="post" action="/cgi-bin/Search.exe?stock" target="_top" onsubmit="return SelectSearchType()" name="inquire">
             <input type="hidden" name="SearchType" value="p">
             <input type="hidden" name="SearchType" value="k">
-            <nobr>
+            <input type="HIDDEN" name="index" value="101771">
+            <input type="HIDDEN" name="opt" value="ALL">
             <script language="javascript1.2" type="text/javascript">
             //<!--
             P = navigator.platform
             N = navigator.appName
             if (navigator.appVersion >= "4.0"){
-            if (P=="MacPPC" && N=="Netscape" || P=="Mac68k" && N=="Netscape"){document.write ('<input type="text" name="SearchCommand" size="25" maxlength="50" class="formfields1">');}
-            else if (P=="MacPPC" && N=="Microsoft Internet Explorer" || P=="Mac68k" && N=="Microsoft Internet Explorer"){document.write ('<input type="text" name="SearchCommand" size="25" maxlength="50" class="formfields1">');}
-            else if (P=="Win32" && N=="Netscape" || P=="Win16" && N=="Netscape"){document.write ('<input type="text" name="SearchCommand" size="20" maxlength="50" class="formfields1">');}
-            else if (P=="Win32" && N=="Microsoft Internet Explorer" || P=="Win16" && N=="Microsoft Internet Explorer"){document.write ('<input type="text" name="SearchCommand" size="30" maxlength="50" class="formfields1">');}
-            else {document.write ('<input type="text" name="SearchCommand" size="20" maxlength="50" class="formfields1">');}}
+            if (P=="MacPPC" && N=="Netscape" || P=="Mac68k" && N=="Netscape"){document.write ('<input type="text" name="SearchCommand" size="15" maxlength="50" class="formfields1">');}
+            else if (P=="MacPPC" && N=="Microsoft Internet Explorer" || P=="Mac68k" && N=="Microsoft Internet Explorer"){document.write ('<input type="text" name="SearchCommand" size="15" maxlength="50" class="formfields1">');}
+            else if (P=="Win32" && N=="Netscape" || P=="Win16" && N=="Netscape"){document.write ('<input type="text" name="SearchCommand" size="10" maxlength="50" class="formfields1">');}
+            else if (P=="Win32" && N=="Microsoft Internet Explorer" || P=="Win16" && N=="Microsoft Internet Explorer"){document.write ('<input type="text" name="SearchCommand" size="20" maxlength="50" class="formfields1">');}
+            else {document.write ('<input type="text" name="SearchCommand" size="10" maxlength="50" class="formfields1">');}}
+            
+            
             // -->
-            </script><input type="text" name="SearchCommand" size="20" maxlength="50" class="formfields1">
-            <input type="image" src="images/searchbutton.gif" align="absmiddle" name="Search" value="Search" border="0" onmouseover="window.status='Search' ; return true" onmouseout="window.status='' ; return true">&nbsp;&nbsp;&nbsp;</nobr>
-            </form>
-            </td><td valign="top">
+            </script><input type="text" name="SearchCommand" size="10" maxlength="50" class="formfields1">
+            </form></td>
+            <td valign="top">
+            <script language="JAVASCRIPT">
+				if(Get_Cookie('Search')=='classic')
+					document.write('<font size="-2"><input type="radio" name="searchtype" value="New">New</font></td><td valign="top"><font size="-2"><input type="radio" name="searchtype" value="classic" checked>Classic</font></td>');
+				else
+					document.write('<font size="-2"><input type="radio" name="searchtype" value="New" checked>New</font></td><td valign="top"><font size="-2"><input type="radio" name="searchtype" value="classic">Classic</font></td>');
+            </script><font size="-2"><input type="radio" name="searchtype" value="New" checked="">New</font></td><td valign="top"><font size="-2"><input type="radio" name="searchtype" value="classic">Classic</font></td>
+            <td>
+            &nbsp;<input type="image" src="images/searchbutton.gif" name="Search" align="absmiddle" value="Search" border="0" onmouseover="window.status='Search' ; return true" onmouseout="window.status='' ; return true">&nbsp;&nbsp;&nbsp;
+            
+            </td><td valign="middle">
 
             <a href="searchinst.html"><img src="images/searchnav02.gif" width="27" height="12" alt="Help" border="0"></a><br>
             <a href="searchengine.html#top"><img src="images/searchnav03.gif" width="59" height="14" alt="Part# list" border="0"><br></a>
@@ -97,61 +169,61 @@ if (document.all){document.write ("<div Style='Position:Absolute;Left:0;Top:40;W
       <table border="0" cellpadding="0" cellspacing="0" width="59">
       <tbody><tr><td>
       <a href="starters.html" onmouseover="Show('menu1b')" onmouseout="Hide('menu1b')">
-      <img src="images/nav01b.gif" width="59" height="59" border="0"></a><br>
+      <img src="images/nav01t.gif" width="59" height="30" border="0"></a><br>
       </td></tr></tbody></table>
 </td><td>
       <table border="0" cellpadding="0" cellspacing="0" width="60">
       <tbody><tr><td>
       <a href="x10pclist.html" onmouseover="Show('menu2b')" onmouseout="Hide('menu2b')">
-      <img src="images/nav02b.gif" width="60" height="59" border="0"></a><br>
+      <img src="images/nav02t.gif" width="60" height="30" border="0"></a><br>
       </td></tr></tbody></table>
 </td><td>
       <table border="0" cellpadding="0" cellspacing="0" width="60">
       <tbody><tr><td>
       <a href="hometheatermap.html" onmouseover="Show('menu3b')" onmouseout="Hide('menu3b')">
-      <img src="images/nav03b.gif" width="60" height="59" border="0"></a><br>
+      <img src="images/nav03t.gif" width="60" height="30" border="0"></a><br>
       </td></tr></tbody></table>
 </td><td>
       <table border="0" cellpadding="0" cellspacing="0" width="60">
       <tbody><tr><td>
       <a href="x10map.html" onmouseover="Show('menu4b')" onmouseout="Hide('menu4b')">
-      <img src="images/nav04b.gif" width="60" height="59" border="0"></a><br>
+      <img src="images/nav04t.gif" width="60" height="30" border="0"></a><br>
       </td></tr></tbody></table>
 </td><td>
       <table border="0" cellpadding="0" cellspacing="0" width="60">
       <tbody><tr><td>
       <a href="gadgets.html" onmouseover="Show('menu5b')" onmouseout="Hide('menu5b')">
-      <img src="images/nav05b.gif" width="60" height="59" border="0"></a><br>
+      <img src="images/nav05t.gif" width="60" height="30" border="0"></a><br>
       </td></tr></tbody></table>
 </td><td>
       <table border="0" cellpadding="0" cellspacing="0" width="60">
       <tbody><tr><td>
       <a href="petcare.html" onmouseover="Show('menu6b')" onmouseout="Hide('menu6b')">
-      <img src="images/nav06b.gif" width="60" height="59" border="0"></a><br>
+      <img src="images/nav06t.gif" width="60" height="30" border="0"></a><br>
       </td></tr></tbody></table>
 </td><td>
       <table border="0" cellpadding="0" cellspacing="0" width="60">
       <tbody><tr><td>
       <a href="phonemap.html" onmouseover="Show('menu7b')" onmouseout="Hide('menu7b')">
-      <img src="images/nav07b.gif" width="60" height="59" border="0"></a><br>
+      <img src="images/nav07t.gif" width="60" height="30" border="0"></a><br>
       </td></tr></tbody></table>
 </td><td>
       <table border="0" cellpadding="0" cellspacing="0" width="60">
       <tbody><tr><td>
       <a href="hvacmap.html" onmouseover="Show('menu8b')" onmouseout="Hide('menu8b')">
-      <img src="images/nav08b.gif" width="60" height="59" border="0"></a><br>
+      <img src="images/nav08t.gif" width="60" height="30" border="0"></a><br>
       </td></tr></tbody></table>
 </td><td>
       <table border="0" cellpadding="0" cellspacing="0" width="60">
       <tbody><tr><td>
       <a href="securmap.html" onmouseover="Show('menu9b')" onmouseout="Hide('menu9b')">
-      <img src="images/nav09b.gif" width="60" height="59" border="0"></a><br>
+      <img src="images/nav09t.gif" width="60" height="30" border="0"></a><br>
       </td></tr></tbody></table>
 </td><td>
       <table border="0" cellpadding="0" cellspacing="0" width="61">
       <tbody><tr><td>
       <a href="wirelist.html" onmouseover="Show('menu10b')" onmouseout="Hide('menu10b')">
-      <img src="images/nav10b.gif" width="61" height="59" border="0"></a><br>
+      <img src="images/nav10t.gif" width="61" height="30" border="0"></a><br>
       </td></tr></tbody></table>
 </td></tr>
 <tr><td colspan="10">
@@ -176,104 +248,118 @@ if (document.all){
 document.write ("</div>");
 }
 // --></script>
-<!---¤¤ end of header ¤¤--->
+<!--****************  end of header include ****************-->
 <script language="javascript1.2" type="text/javascript">
-<!--
+//<!--
 P = navigator.platform
 N = navigator.appName
 if (navigator.appVersion >= "4.0"){
-if (P=="MacPPC" && N=="Netscape" || P=="Mac68k" && N=="Netscape"){
-document.write ("<img src='images/1x1.gif' width='1' height='66' alt='' border=0><br>");
-}
-else if (P=="MacPPC" && N=="Microsoft Internet Explorer" || P=="Mac68k" && N=="Microsoft Internet Explorer"){
-document.write ("<img src='images/1x1.gif' width='1' height='51' alt='' border=0><br>");
-}
-else if (P=="Win32" && N=="Netscape" || P=="Win16" && N=="Netscape"){
-document.write ("<img src='images/1x1.gif' width='1' height='59' alt='' border=0><br>");
-}
-else if (P=="Win32" && N=="Microsoft Internet Explorer" || P=="Win16" && N=="Microsoft Internet Explorer"){
-document.write ("<img src='images/1x1.gif' width='1' height='59' alt='' border=0><br>");
-}
-else {document.write ("<img src='images/1x1.gif' width='1' height='56' alt='' border=0><br>");}
-}
+if (P=="MacPPC" && N=="Netscape" || P=="Mac68k" && N=="Netscape"){document.write ("<img src='images/1x1.gif' width='1' height='35' alt='' border=0><br>");}
+else if (P=="MacPPC" && N=="Microsoft Internet Explorer" || P=="Mac68k" && N=="Microsoft Internet Explorer"){document.write ("<img src='images/1x1.gif' width='1' height='22' alt='' border=0><br>");}
+else if (P=="Win32" && N=="Netscape" || P=="Win16" && N=="Netscape"){document.write ("<img src='images/1x1.gif' width='1' height='30' alt='' border=0><br>");}
+else if (P=="Win32" && N=="Microsoft Internet Explorer" || P=="Win16" && N=="Microsoft Internet Explorer"){document.write ("<img src='images/1x1.gif' width='1' height='30' alt='' border=0><br>");}
+else {document.write ("<img src='images/1x1.gif' width='1' height='25' alt='' border=0><br>");}}
 // -->
-</script><img src="images/1x1.gif" width="1" height="56" alt="" border="0"><br>
+</script><img src="images/1x1.gif" width="1" height="25" alt="" border="0"><br>
 <!---¤¤ start of mid section ¤¤--->
 <table border="0" cellpadding="0" cellspacing="0" width="600">
 <tbody><tr valign="top">
-<td width="100" bgcolor="#cfdcf2">
+<td width="110" bgcolor="#FFFFFF">
+
 <!---¤¤ start of left menu ¤¤--->
-<table border="0" cellpadding="0" cellspacing="0" align="center" width="100" bgcolor="#cfdcf2">
-<tbody><tr valign="top"><td>
-<img src="images/1x1.gif" width="1" height="8" border="0"><br>
-<div align="center">
-
-<a href="gg.html" target="_top"><font size="2" face="Arial,Geneva,Helvetica" color="#000000" class="navhead1"><b><nobr>Cool Gifts <img src="images/nb2.gif" width="30" height="11" border="0"></nobr></b></font></a><br>
-
-<a href="catreq.html" target="_top"><img src="images/sidecatreqimg.gif" width="98" height="20" alt="FREE Catalog" border="0"><br></a>
-<img src="images/1x1.gif" width="1" height="4" border="0"><br>
-<a href="http://auction.smarthome.com/" target="_top"><font size="2" face="Arial,Geneva,Helvetica" color="#000000" class="navhead1"><b><nobr>Auction Site</nobr></b></font></a><br>
-<a href="newest.html" target="_top"><font size="2" face="Arial,Geneva,Helvetica" color="#000000" class="navhead1"><b><nobr>New Products</nobr></b></font></a><br>
-<a href="hotdeals.html" target="_top"><font size="2" face="Arial,Geneva,Helvetica" color="#000000" class="navhead1"><b><nobr>Hot Deals</nobr></b></font></a><br>
-<a href="shell-cgi/guided_tour.pl" target="_top"><font size="2" face="Arial,Geneva,Helvetica" color="#000000" class="navhead1"><b><nobr>Guided Tour</nobr></b></font></a><br>
-<a href="clearance.html" target="_top"><font size="2" face="Arial,Geneva,Helvetica" color="#000000" class="navhead1"><b><nobr>Clearance</nobr></b></font></a><br>
-<img src="images/1x1.gif" width="1" height="8" border="0"><br>
-<a href="shipinfo.html" target="_top" onmouseover="window.status='Shipping Information' ; return true" onmouseout="window.status='' ; return true">
-<font size="2" face="Arial,Geneva,Helvetica" color="#000000" class="navhead1">
-<b>Order <nobr>by 6PM EST</nobr></b><br></font>
-<font size="2" face="Arial,Geneva,Helvetica" color="#FF9E00" class="pop1"><b><nobr>Have it</nobr> <nobr>Tomorrow!</nobr></b><br></font></a>
-<img src="images/1x1.gif" width="1" height="8" border="0"><br>
-<table border="0" cellpadding="0" cellspacing="0" width="100" bgcolor="#adc1e0">
-<tbody><tr><td align="center" height="35">
-<font size="2" face="Arial,Geneva,Helvetica" color="#000000" class="navhead1">
-<b><nobr>Join Smarthome</nobr>
-<nobr>Discount Club</nobr></b><br></font>
+<table cellspacing="0" cellpadding="0" width="110" align="center" bgcolor="#ffffff" border="0">
+        <tbody>
+        <tr valign="top">
+          <td><img height="8" src="images/1x1.gif" alt="spacer" width="1" border="0"><br>
+            <div align="center"><a target="_top" href="catreq.html"><img height="33" alt="FREE Catalog" src="images/freecatalog.gif" width="107" border="0"></a></div><img height="20" src="images/1x1.gif" alt="spacer" width="1" border="0"><br>
+            <div align="left">
+            <table cellspacing="0" cellpadding="2" width="110" border="0">
+              <tbody>
+              <tr>
+                <td><img height="6" hspace="0" src="images/homebullet.gif" alt="bullet" width="6" vspace="10"></td>
+                <td><a target="_top" href="http://www.smarthome.com/shell-cgi/guided_tour.pl"><font class="navhead12" face="Arial,Geneva,Helvetica" color="#000000" size="2"><b><nobr>Guided Tour</nobr></b></font></a></td></tr>
+              <tr>
+                <td><img height="6" hspace="0" src="images/homebullet.gif" alt="bullet" width="6" vspace="10"></td>
+                <td><a target="_top" href="newest.html"><font class="navhead12" face="Arial,Geneva,Helvetica" color="#000000" size="2"><b><nobr>New Products</nobr></b></font></a></td></tr>
+              <tr>
+                <td><img height="6" hspace="0" src="images/homebullet.gif" alt="bullet" width="6" vspace="10"></td>
+                <td><a target="_top" href="hotdeals.html"><font class="navhead12" face="Arial,Geneva,Helvetica" color="#000000" size="2"><b><nobr>Hot Deals</nobr></b></font></a></td></tr>
+              <tr>
+                <td><img height="6" hspace="0" src="images/homebullet.gif" alt="bullet" width="6" vspace="10"></td>
+                <td><a target="_top" href="clearance.asp"><font class="navhead12" face="Arial,Geneva,Helvetica" color="#000000" size="2"><b><nobr>Clearance</nobr></b></font></a></td></tr>
+              <tr>
+                <td><img height="6" hspace="0" src="images/homebullet.gif" alt="bullet" width="6" vspace="10"></td>
+                <td><a target="_top" href="top1.html"><font class="navhead12" face="Arial,Geneva,Helvetica" color="#000000" size="2"><b><nobr>Best of 2001</nobr></b></font></a></td></tr>
+              <tr>
+                <td><img height="6" hspace="0" src="images/homebullet.gif" alt="bullet" width="6" vspace="10"></td>
+                <td><a target="_top" href="gg.html"><font class="navhead12" face="Arial,Geneva,Helvetica" color="#000000" size="2"><b><nobr>Cool 
+                  Gifts</nobr></b></font></a></td></tr>
+              <tr>
+                <td><img height="6" hspace="0" src="images/homebullet.gif" alt="bullet" width="6" vspace="10"></td>
+                <td><a target="_top" href="sitemap.html"><font class="navhead12" face="Arial,Geneva,Helvetica" color="#000000" size="2"><b><nobr>Site Map</nobr></b></font></a></td></tr>
+														<tr>
+                <td><img height="6" hspace="0" src="images/homebullet.gif" alt="bullet" width="6" vspace="10"></td>
+                <td><a target="_top" href="catreq.html"><font class="navhead12" face="Arial,Geneva,Helvetica" color="#000000" size="2"><b><nobr>FREE Catalog</nobr></b></font></a></td></tr>
+</tbody></table></div><br><img height="4" src="images/1x1.gif" alt="spacer" width="1" border="0"><br>
+            <table cellspacing="0" cellpadding="0" width="110" bgcolor="#ffffff" border="0">
+              <tbody>
+              <tr>
+<td align="middle" height="35">
+<font class="navhead10" face="Arial,Geneva,Helvetica" color="#000000" size="2"><b>
+<nobr>SIGN UP FOR</nobr> 
+<nobr>GREAT DEALS!</nobr></b></font>
+<a href="joininfolist.html">
+<font class="navhead11" face="Arial,Geneva,Helvetica" color="#003399" size="2">
+<nobr>click for details</nobr></font></a><br>
 </td></tr></tbody></table>
-<img src="images/1x1.gif" width="1" height="6" border="0"><br>
-<table border="0" cellpadding="0" cellspacing="0" width="100">
-<tbody><tr><td align="center">
-<form action="/cgi-bin/AddToList.exe?..\..\join+thankinfo" method="post" target="_top" name="SmartList" onsubmit="ValidateEmail() ; return false">
-<input type="hidden" name="listname" value="HASEmailList">
-<input type="text" size="8" maxlength="50" name="address" value="Enter Email Here!" class="formfields1"><br>
-<img src="images/1x1.gif" width="1" height="6" border="0"><br>
-<input type="image" src="images/joinbutton.gif" name="Join" value="Join" border="0" onmouseover="window.status='Join' ; return true" onmouseout="window.status='' ; return true"><br></form>
-</td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="100" bgcolor="#adc1e0">
-<tbody><tr><td align="center" height="20">
-<font size="2" face="Arial,Geneva,Helvetica" color="#000000" class="navhead1">
-<b>Ordering</b><br></font>
-</td></tr></tbody></table>
-<img src="images/1x1.gif" width="1" height="6" border="0"><br>
-<table border="0" cellpadding="2" cellspacing="0" width="100">
-<tbody><tr><td>
-<a href="foreign.html" target="_top"><font face="arial,geneva,helvetica" color="#000000" size="2" class="face1">Foreign Orders</font></a><br>
-<img src="images/1x1.gif" width="1" height="5" border="0"><br>
-<a href="http://www.smarthomepro.com/dlrapp.html" target="_top"><font face="arial,geneva,helvetica" color="#000000" size="2" class="face1">Dealer/Reseller<br>
-Information</font></a><br>
-<img src="images/1x1.gif" width="1" height="5" border="0"><br>
-<a href="shipinfo.html" target="_top"><font face="arial,geneva,helvetica" color="#000000" size="2" class="face1">Shipping &amp;<br>
-Handling Info</font></a><br>
-</td></tr></tbody></table>
-<div align="center" onmouseover="window.status='View Shopping Cart' ; return true" onmouseout="window.status='' ; return true">
-<form action="/cgi-bin/shoppingbasket.exe?1+..\..\baskets\smarthome+hasorder+0" method="post" target="_top">
-<input type="image" src="images/cartnav03.gif" name="action" value="View Contents" border="0"><br></form>
-</div>
-<a href="e_mail.html" target="_top"><font size="2" face="Arial,Geneva,Helvetica" color="#000000" class="navhead1"><b><nobr>Contact Us</nobr></b></font></a><br>
-<br>
-<br></div><div align="right">
-<a href="ask_laddie.html" title="Ask Laddie" target="_top"><img src="images/laddies-paw.gif" width="18" height="20" hspace="5" vspace="0" border="0" align="right" title="Laddie's Trademark" alt="Laddie's Trademark"></a>
-<a href="ask_laddie.html" title="Ask Laddie" target="_top"><font size="2" face="Arial,Geneva,Helvetica" color="#000000" class="navhead1"><b><nobr>Ask Laddie</nobr></b></font></a><br>
-<a href="ask_laddie.html" title="Ask Laddie" target="_top"><font size="2" face="Arial,Geneva,Helvetica" color="#000000" class="navhead1"><b><nobr>FAQ</nobr></b></font></a><br>
-</div><br>
+<img height="3" src="images/1x1.gif" alt="spacer" width="1" border="0"><br>
+            <table cellspacing="0" cellpadding="0" width="110" border="0">
+              <tbody>
+              <tr>
+                <td align="middle">
+<form name="SmartList" onsubmit="ValidateEmail() ; return false" action="/cgi-bin/AddToList.exe?..\..\join+thankinfo" method="post" target="_top"><input type="hidden" value="HASEmailList" name="listname"> <input class="formfields10" maxlength="50" size="12" value="Enter Email Here!" name="address" onclick="this.value='';"><br><img height="2" src="images/1x1.gif" alt="spacer" width="1" border="0"><br><input onmouseover="window.status='Join' ; return true" onmouseout="window.status='' ; return true" type="image" src="images/joinbutton.gif" value="Join" border="0" name="Join"><br></form></td></tr></tbody></table><img height="6" src="images/1x1.gif" alt="spacer" width="1" border="0"><br>
+            
+<table cellspacing="0" cellpadding="0" width="110" bgcolor="#ffffff" border="0">
+              <tbody>
+              <tr>
+                <td align="middle" height="80">
+                  <div align="center"><img height="6" src="images/1x1.gif" alt="spacer" width="1" border="0"><a href="ask_laddie.html"><img height="80" alt="Ask Laddie" src="images/askladdie.gif" width="105" align="top" border="0"></a><br><br></div></td></tr></tbody></table>
+            <table cellspacing="0" cellpadding="0" width="110" bgcolor="#ffffff" border="0">
+              <tbody>
+              <tr>
+                <td align="middle" height="86">
+                  <div align="center"><a onmouseover="window.status='Shipping Information' ; return true" onmouseout="window.status='' ; return true" target="_top" href="shipinfo.html"><img height="86" alt="Order By 6pm" src="images/orderby6pm.gif" width="105" align="top" border="0"></a><br><br></div></td></tr></tbody></table><img height="6" src="images/1x1.gif" alt="spacer" width="1" border="0"><br>
+            <table cellspacing="0" cellpadding="2" width="110" border="0">
+              <tbody>
+              <tr>
+                <td><img height="6" hspace="0" src="images/homebullet.gif" alt="bullet" width="6" vspace="4"></td>
+                <td><a target="_top" href="shipinfo.html"><font class="face10" face="arial,geneva,helvetica" color="#000000" size="2">Shipping &amp; Handling Info</font></a></td></tr>
+              <tr>
+                <td><img height="6" hspace="0" src="images/homebullet.gif" alt="bullet" width="6" vspace="4"></td>
+                <td><a target="_top" href="foreign.html"><font class="face10" face="arial,geneva,helvetica" color="#000000" size="2">Foreign 
+                  Orders</font></a></td></tr>
+              <tr>
+                <td><img height="6" hspace="0" src="images/homebullet.gif" alt="bullet" width="6" vspace="4"></td>
+                <td><a target="_top" href="http://www.smarthomepro.com/dlrapp.html"><font class="face10" face="arial,geneva,helvetica" color="#000000" size="2">Dealer/Reseller<br>Information</font></a></td></tr>
+              <tr>
+                <td><img height="6" hspace="0" src="images/homebullet.gif" alt="bullet" width="6" vspace="4"></td>
+                <td><a target="_top" href="returnpolicy.html"><font class="face10" face="arial,geneva,helvetica" color="#000000" size="2">Return Policy</font></a></td></tr></tbody></table>
+            <div onmouseover="window.status='View Shopping Cart' ; return true" onmouseout="window.status='' ; return true" align="center">
+            
+<form action="/cgi-bin/shoppingbasket.exe?1+..\..\baskets\smarthome+hasorder+0" method="post" target="_top"><input type="image" src="images/cartnav01.gif" alt="shopping cart" value="View Contents" border="0" name="action"><br></form></div>
+            
+<div align="center"><a target="_top" href="e_mail.html"><font class="navhead13" face="Arial,Geneva,Helvetica" color="#000000" size="2"><b><nobr>Contact 
+            Us</nobr></b></font></a></div><br><br>
+            
 <div align="center"><a href="http://www.bizrate.com/merchant/reports/index.xpml?mid=26812" target="bizrate.com"><img src="http://medals.bizrate.com/medals/medal_litebg_102x45.gif" alt="BizRate Customer Certified (GOLD) Site" width="102" height="45" align="top" border="0" target="_blank"></a><br>
-
 </div>
 </td></tr></tbody></table>
 <!---¤¤ end of left menu ¤¤--->
-</td><td width="1" bgcolor="#adc1e0"><br></td>
-<td width="499" bgcolor="#ffffff">
+
+</td><td width="1" bgcolor="#adc1e0"><img src="images/1x1.gif" width="1" height="1" hspace="0" vspace="0" border="0"><br></td>
+<td width="489" bgcolor="#ffffff">
 <!---¤¤ start of body ¤¤--->
-<table border="0" cellpadding="5" cellspacing="0" width="100%"><tbody><tr valign="top"><td>
+<table border="0" cellpadding="5" cellspacing="0" width="100%"><tbody><tr valign="top"><td width="488">
 <h3 align="center"><font color="#000000" face="Arial" class="indxheadline">SMARTHOME.COM™  <br>&nbsp;&nbsp;Privacy &amp; Information Use Policy</font></h3><br>
 <font face="Geneva, Verdana, Arial" size="2" color="#000000">
 At SMARTHOME.COM™, we are committed to providing a high quality shopping experience with respect for our customers' security and privacy.  In order for us to conduct business with you, we do collect certain information from you, which we use within the guidelines described in this Policy.  We may change or update this policy periodically, so we invite you to check here frequently.
@@ -322,9 +408,8 @@ If you have additional questions about our Privacy/Information Use Policy, pleas
 <table border="0" cellpadding="0" cellspacing="0" width="600" bgcolor="#ffffff">
 <tbody><tr><td align="center">
 <p class="footer1">
-<a href="privacy.html" class="privacy">Privacy Policy</a> - Copyright © 1995-2000 SMARTHOME.COM™<br>
+<a href="privacy.html" class="privacy">Privacy Policy</a> - Copyright © 1995-2001 SMARTHOME.COM™<br>
 SMARTHOME.COM is trademark of SMARTHOME.COM, INC.<br></p>
 </td></tr></tbody></table>
 <!---¤¤ end of footer include ¤¤--->
-
 </body></html>
