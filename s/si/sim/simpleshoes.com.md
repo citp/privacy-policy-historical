@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpleshoes.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202165209id_/http%3A//www.simpleshoes.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpleshoes.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606120303id_/http%3A//www.simpleshoes.com/Privacy.asp) for the most accurate reproduction.*
 
 # Simple: Help
 
@@ -7,11 +7,11 @@
 
 |    | Related help|    
 ---|---|---  
-   | [faq](https://web.archive.org/web/20031202165209id_/http%3A//www.simpleshoes.com/FAQ.asp)|    
-   | [sizing](https://web.archive.org/web/20031202165209id_/http%3A//www.simpleshoes.com/Sizing.asp)|    
-| [legal](https://web.archive.org/web/20031202165209id_/http%3A//www.simpleshoes.com/Privacy.asp)|    
-   | [site map](https://web.archive.org/web/20031202165209id_/http%3A//www.simpleshoes.com/SiteMap.asp)|    
-   | [contact us](https://web.archive.org/web/20031202165209id_/http%3A//www.simpleshoes.com/ContactUs.asp)|    
+   | [faq](https://web.archive.org/web/20040606120303id_/http%3A//www.simpleshoes.com/FAQ.asp)|    
+   | [sizing](https://web.archive.org/web/20040606120303id_/http%3A//www.simpleshoes.com/Sizing.asp)|    
+| [legal](https://web.archive.org/web/20040606120303id_/http%3A//www.simpleshoes.com/Privacy.asp)|    
+   | [site map](https://web.archive.org/web/20040606120303id_/http%3A//www.simpleshoes.com/SiteMap.asp)|    
+   | [contact us](https://web.archive.org/web/20040606120303id_/http%3A//www.simpleshoes.com/ContactUs.asp)|    
   
   
  
@@ -29,16 +29,16 @@ Even within Simple Shoes, we restrict access to your information to those indivi
 Simple Shoes privacy policy 06/19/2003 
 
   
-|  [  SITE MAP  ](https://web.archive.org/web/20031202165209id_/http%3A//www.simpleshoes.com/SiteMap.asp) |  |  [  PRIVACY  ](https://web.archive.org/web/20031202165209id_/http%3A//www.simpleshoes.com/Privacy.asp) |  |  [  AFFILIATES  ](https://web.archive.org/web/20031202165209id_/http%3A//www.simpleshoes.com/Affiliates.asp)  
+|  [  SITE MAP  ](https://web.archive.org/web/20040606120303id_/http%3A//www.simpleshoes.com/SiteMap.asp) |  |  [  PRIVACY  ](https://web.archive.org/web/20040606120303id_/http%3A//www.simpleshoes.com/Privacy.asp) |  |  [  AFFILIATES  ](https://web.archive.org/web/20040606120303id_/http%3A//www.simpleshoes.com/Affiliates.asp)  
 ---|---|---|---|---  
   
 | 
 
-|  [](https://web.archive.org/web/20031202165209id_/http%3A//www.simpleshoes.com/basket.asp)   
+|  [](https://web.archive.org/web/20040606120303id_/http%3A//www.simpleshoes.com/basket.asp)   
 ---  
-|  [](https://web.archive.org/web/20031202165209id_/http%3A//www.simpleshoes.com/Apparel_Detail.asp?dept_id=4&sku=9687)  
+|  [](https://web.archive.org/web/20040606120303id_/http%3A//www.simpleshoes.com/Apparel_Detail.asp?dept_id=4&sku=2536)  
 ---  
-LATEST PRODUCT - TIMMIE  
-Trying saying this three times fast: Timmie took time to try taking tchotchkes to Tito.  
- **Womens Casual, available in Black, Coffee, Chino**  
+LATEST PRODUCT - NOC  
+Around these parts, we call it the NOC. If you're in the market for a pair of killer clogs these would definitely be the way to go.   
+**Men's Clog, available in Gaucho and Black**  
   SEARCH    
