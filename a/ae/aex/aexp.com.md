@@ -1,105 +1,36 @@
-> *The following text is extracted and transformed from the aexp.com privacy policy that was archived on 2000-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000620191605id_/http%3A//home3.americanexpress.com/corp/consumerinfo/privacy/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aexp.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601205026id_/http%3A//home3.americanexpress.com/corp/consumerinfo/main.asp) for the most accurate reproduction.*
 
-# Customer Internet Privacy Statement
+# American Express Internet Privacy
 
-  
-|  |  [Info for Consumers](https://web.archive.org/corp/consumerinfo/default.asp) |   
----|---|---  
-|  |   
-|  |  [Privacy](https://web.archive.org/corp/consumerinfo/privacy.asp) |   
-|  |  [Advice@American Express](https://web.archive.org/corp/consumerinfo/advice.asp) |   
-|  |  [Tips, Tools &](https://web.archive.org/corp/consumerinfo/tips-info.asp) |   
-|  |     [Information](https://web.archive.org/corp/consumerinfo/tips-info.asp) |   
-|  |  [Consumer FAQs](https://web.archive.org/corp/consumerinfo/consumerfaqs.asp) |   
-|  |  |   
-|  |  Internet Privacy  |   
-|  |     Statement  |   
-|  |  [Privacy Principles](https://web.archive.org/corp/consumerinfo/principles.asp) |   
-|  |  [Protecting Your Privacy](https://web.archive.org/corp/consumerinfo/protecting.asp) |   
-|  |  [About Cookies](https://web.archive.org/corp/consumerinfo/privacy/about_cookies.asp) |   
-  
-  
+| | 
 
+| | 
 
-Protecting your privacy is important to us. We hope the following statement will help you understand how American Express collects, uses and safeguards the personal information you provide to us on our website. 
+|  |    
+| **We know that privacy on the Internet matters to you.**  
+---  
+  |   
+**At American Express, we’re committed to earning your trust by respecting and protecting your privacy at all times.**
 
-  * Security
-  * Information Collection
-  * Information Use
-  * Declining E-mail Offers 
-    * [Set E-mail Preferences](https://web.archive.org/cust_serv/privacy/default.asp) \-- Set, review or change preferences regarding the type E-mail offers you do not want to receive.
-  * Online Wallet
-  * Children 
-  * Company Commitment to Privacy
-  * Linked Internet Sites
+Here’s a brief overview of how American Express gathers, uses and safeguards information about you when you visit us online. For more information on any topic, please click the links in the text below, or click [here](https://web.archive.org/sif/cda/page/0,1641,14272,00.asp) to review our entire Internet Privacy Statement. You may also want to read the [American Express Customer Privacy Principles](https://web.archive.org/sif/cda/page/0,1641,14275,00.asp), which define our company-wide commitment to protecting our customers’ privacy, online and offline. 
 
+**We tell you[what kind of information](https://web.archive.org/sif/cda/page/0,1641,14272,00.asp#INFOCOLLECT) we collect about you and [how we use it](https://web.archive.org/sif/cda/page/0,1641,14272,00.asp#INFOUSE).**
 
+  * We collect and use information about you only to enhance our customer service to you and provide you with information about products and services that we think will interest you.
+  * We post [changes](https://web.archive.org/sif/cda/page/0,1641,14272,00.asp#CHANGES) we make to our Privacy Statement on our Web site.
+  * We may provide information about you to other companies so they can help us provide you with the online products and services that you select
+  * We may provide other companies with certain information about you so they can send you direct mail offers that may be of value to you – unless you [tell us not to](https://web.archive.org/sif/cda/page/0,1641,14272,00.asp#CUSTCHOICE).
+  * We will not give your e-mail address to other companies to market to you.
 
-* * *
+**You have the choice of whether you want to receive marketing offers.**
 
-**Security**
+  * You have the option to opt out from receiving e-mail marketing from us, as well as an easy way to [notify us](https://web.archive.org/sif/cda/page/0,1641,14272,00.asp#EMAILOFFERS) of your opt out choice.
+  * You have the option to opt out from receiving direct mail and telemarketing offers from us. Please call the [customer service telephone number](https://web.archive.org/sif/cda/page/0,1641,681,00.asp) on your account statement to notify us of these opt out choices.
+  * You can call the [customer service telephone number](https://web.archive.org/sif/cda/page/0,1641,681,00.asp) on your account statement to notify us about your opt out choices regarding the information we share with other companies.
 
-When you send confidential personal account data to us on an American Express website, we require that a "secure session" first be established using Secure Socket Layer (SSL), or Secure Electronic Transaction (SET) protocol when that is fully available. For further information about SSL, SET and the safety and confidentiality of personal data transmissions over the Internet, please read our [Security Q&A.](https://web.archive.org/cust_serv/docs/cs_security.shtml)
+**We keep your information secure and confidential.**
 
-**Information Collection**
+  * We take strict [security precautions](https://web.archive.org/sif/cda/page/0,1641,14272,00.asp#SECURITY), such as the use of encryption technology, to protect your personal information.
+  * We require [other companies](https://web.archive.org/sif/cda/page/0,1641,14272,00.asp#OTHER) that help us provide you with our online products and services to keep your personal information secure and confidential
 
-When you **browse** any American Express website, you do so anonymously. Personal information -- including your E-mail address -- is _not_ collected. Some of our websites, however, may request that you **voluntarily** supply us with personal information, including your E-mail address and account number (if you are an American Express Cardmember or InvestDirect user), for purposes such as correspondence, site registration, checking your bill or investments online, making a purchase, or participating in online surveys. 
-
-Like many other commercial websites, the American Express website may utilize a standard technology called a "cookie" to collect information about how our site is used. Please read [About Cookies](https://web.archive.org/corp/consumerinfo/privacy/about_cookies.asp) for more information. 
-
-**Information Use**
-
-If you provide us with your E-mail address, or have done so in the past, we may upon occasion send you E-mail offers. We may use information you have given us to, for example, provide a service, ensure proper billing, measure consumer interest in our various services and inform you about products and services. These offers may be based on information you provided in your initial transaction with us, in surveys, from information that may indicate purchasing preferences and lifestyle, as well as information available from external sources, such as census bureau data. Primarily, these E-mail offers will come from American Express. We may also, upon occasion, share E-mail addresses with certain establishments that accept the American Express Card, or with other well-established companies so that they can send you product and service offers that may be of interest. 
-
-All offers are carefully developed to ensure that they meet our standards. Our goal is to target offers to people who we believe will find them of value. The lists used to send you product and service offers are developed and managed under strict conditions designed to safeguard the security and privacy of customer personal information. For an illustration of the types of offers we may provide with our business partners exclusively to American Express Cardmembers, please view [American Express Special Offers](http://www6.americanexpress.com/specialoffers/). 
-
-Please note that our free E-mail service, [AmExMail](http://www.amexmail.com/), as well as our financial services websites, [American Express Financial Advisors](http://www.americanexpress.com/advisors) and [American Express Financial Direct](http://www.americanexpress.com/direct), _do not_ share E-mail addresses with any company outside of American Express. 
-
-**Declining E-mail Offers**
-
-American Express provides customers with an easy means to decline receiving E-mail offers. 
-
-Although most customers tell us they appreciate receiving notice of these carefully designed opportunities, we recognize the importance of providing you with choices. At any time, you may request to discontinue receiving these offers from us by simply replying to the E-mail and informing us of your preferences. All E-mail offers that you receive from American Express will inform you of how to decline receiving further E-mail offers. Additionally, you may [set E-mail preferences](https://web.archive.org/cust_serv/privacy/default.asp) to notify us of your preferences regarding the type of E-mail offers you do not want to receive, and you may also review and change preferences you have previously set. 
-
-**Online Wallet**
-
-The American Express Online Wallet offers features to facilitate your online shopping experience, and we would like you to be aware of how we protect the information the Wallet stores and uses. 
-
-When you register for an American Express Online Wallet, we request that you supply us with information necessary to complete your online purchases. This information includes your name, telephone number, billing address, E-mail address, and the account number and expiration date of the credit cards you choose to place in the Wallet. You may also voluntarily store additional names and addresses in your Wallet so that you can have online purchases easily shipped to destinations other than your billing address. We will not use these additional names for any marketing purpose and we will not share them. 
-
-The Wallet allows you to store your user id and password information for those Wallet-compatible sites that require it, to provide you with one-click entry into these sites. The user ids and passwords you store in the Wallet are provided only to the web site for which the information is required and are not disclosed by us to any other party. 
-
-Security is an important feature of the Wallet. All of the information you provide to us in connection with the Wallet is stored on an American Express secure server and protected by firewalls. American Express will not access individual information stored in a wallet which relates to non-American Express Card transactions. 
-
-From time to time American Express may use information you have provided to us as well as American Express purchase information to develop customized offers you may find of interest. We provide you with the ability to [set E-mail preferences](https://web.archive.org/cust_serv/privacy/default.asp) should you wish to decline receiving E-mail offers. 
-
-In order to make your Wallet easy to retrieve and use, a software program is installed on your computer when you sign up for a Wallet. This program stores a list of merchant sites that are compatible with the Wallet in a file on your computer's hard drive. As you browse, this program automatically compares the addresses (URLs) of the sites you visit against this list of compatible merchant sites. When you visit a merchant site at which you may use the Wallet, your screen will display a prompt advising you that the Wallet is available for use. If you visit a site which has not been previously identified as Wallet-compatible, the Wallet will request an update from the American Express Wallet server as to whether or not the site now accepts the Wallet and store updated information about that site in the hard drive of your computer. American Express cannot access this information and we cannot link your identity with the URL information that this program updates as you browse. 
-
-When you indicate your wish to complete a purchase from an online merchant using the Wallet, your selected payment and shipping information is transmitted securely to the merchant using the industry-standard Secure Sockets Layer (SSL) protocol. Using the Wallet in connection with Blue from American Express provides an additional level of security by using the Smart Chip in combination with a Smart Card Reader and Personal Identification Number (PIN) code. 
-
-The Wallet collects and stores securely a record of all purchases that you make using your wallet, including the date and amount of purchase, the merchant at which the purchase was made, and the credit card and account number used. Along with this summary of transactions, you will also be able to view purchase receipts if this capability is made available by the merchant. 
-
-When you use the Wallet, your purchase information may be recorded by the merchant as well as the issuer of the card you used to make the purchase. Therefore we recommend that you familiarize yourself with the merchant's and the card issuer's privacy policies, which may differ from those of American Express. 
-
-**Children**
-
-American Express does not knowingly solicit data from children, and we do not knowingly market to children. 
-
-**Company Commitment to Privacy**
-
-In keeping with our long-standing leadership in consumer privacy protection, American Express is actively involved with current industry initiatives to preserve individual privacy rights on the Internet and in all aspects of electronic commerce. 
-
-For additional information about our commitment to protecting the privacy of our customers both online and offline, please read the [American Express Customer Privacy Principles](https://web.archive.org/corp/consumerinfo/principles.asp). The American Express Customer Internet Privacy Statement is currently applicable only to our United States customers and visitors to our website. As we develop websites for international audiences, they will maintain their own additional rules and practices, which are fully consistent with this statement, and which they may modify as needed for particular products and services, or to conform to local laws or customs around the world. If you have any questions about this statement, you can reach us at 1-800-AXP-1234, or you may [send us E-mail. ](https://web.archive.org/cust_serv/about.asp)
-
-If you would like to decline from receiving American Express mail or telemarketing offers in the United States, please call 1-800-528-4800. 
-
-**Linked Internet Sites**
-
-User should be aware that other Internet sites to which User hyperlinks from the Site may contain privacy provisions that differ from the provisions provided herein. American Express is not responsible for such provisions, and expressly disclaims any and all liability related to such provisions.
-
-  
-
-
-* * *
-
-Copyright © 1998 [American Express Company](http://www.americanexpress.com/). All Rights Reserved. Users of this site agree to be bound by the terms of the American Express Web Site Rules and Regulations. View [Web Site Rules and Regulations](https://web.archive.org/shared/copyright/webrules.html) and [trademarks](https://web.archive.org/shared/copyright/trademark.html) and [Privacy Statement](https://web.archive.org/corp/consumerinfo/privacy/privacystatement.asp) of American Express. 
+**You can always[contact us](https://web.archive.org/sif/cda/page/0,1641,14272,00.asp#CONTACT) if you have any questions about our privacy policy or your account.**
