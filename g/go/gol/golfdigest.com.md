@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the golfdigest.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202175653id_/http%3A//www.golfdigest.com/about/index.ssf%3F/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfdigest.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603012838id_/http%3A//www.golfdigest.com/about/index.ssf%3F/about/privacy.html) for the most accurate reproduction.*
 
 # GolfDigest.com | Custom-Fitted For Your Game
 
