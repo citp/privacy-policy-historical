@@ -1,0 +1,625 @@
+<!--The following is the downloaded HTML source of the mashada.com privacy policy that was archived on 2003-04-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030401134502id_/http%3A//www.mashada.com/privacy.php) for the most accurate reproduction.-->
+
+<html><head>
+<title>Welcome To Mashada</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="css/styles.css" type="text/css">
+<script language="JavaScript">
+
+function isEmailAddr(email)
+{
+  var result = false;
+  var theStr = new String(email);
+  var index = theStr.indexOf("@");
+  if (index > 0)
+  {
+    var pindex = theStr.indexOf(".",index);
+    if ((pindex > index+1) && (theStr.length > pindex+1))
+  result = true;
+  }
+
+  return result;
+}
+
+function validRequired(formField,fieldLabel)
+{
+  var result = true;
+  
+  if (formField.value == "")
+  {
+    alert('Please enter a value for the "' + fieldLabel +'" field.');
+    formField.focus();
+    result = false;
+  }
+  
+  return result;
+}
+
+function validEmail(formField,fieldLabel,required)
+{
+  var result = true;
+  
+  if (required && !validRequired(formField,fieldLabel))
+    result = false;
+
+  if (result && ((formField.value.length < 3) || !isEmailAddr(formField.value)) )
+  {
+    alert("Please enter a complete email address in the form: yourname@yourdomain.com");
+    formField.focus();
+    result = false;
+  }
+   
+  return result;
+
+}
+
+
+function validNum(formField,fieldLabel,required)
+{
+  var result = true;
+
+  if (required && !validRequired(formField,fieldLabel))
+    result = false;
+  
+   if (result)
+   {
+     var num = parseInt(formField.value);
+     if (isNaN(num))
+     {
+       alert('Please enter a number for the "' + fieldLabel +'" field.');
+      formField.focus();    
+      result = false;
+    }
+  } 
+  
+  return result;
+}
+
+function validDate(formField,fieldLabel,required)
+{
+  var result = true;
+
+  if (required && !validRequired(formField,fieldLabel))
+    result = false;
+  
+   if (result)
+   {
+     var elems = formField.value.split("/");
+     
+     result = (elems.length == 3); // should be three components
+     
+     if (result)
+     {
+       var month = parseInt(elems[0]);
+        var day = parseInt(elems[1]);
+       var year = parseInt(elems[2]);
+      result = !isNaN(month) && (month > 0) && (month < 13) &&
+            !isNaN(day) && (day > 0) && (day < 32) &&
+            !isNaN(year) && (elems[2].length == 4);
+     }
+     
+      if (!result)
+
+     {
+       alert('Please enter a date in the format MM/DD/YYYY for the "' + fieldLabel +'" field.');
+      formField.focus();    
+    }
+  } 
+  
+  return result;
+}
+
+
+function validateForm1(theForm)
+{
+  // Start ------->
+  if (!validRequired(theForm.smsMessage,"Message"))
+    return false;
+  // <--------- End
+  
+  return true;
+}
+
+
+function validateForm2(theForm)
+{
+  // Start ------->
+ 
+  if (!validRequired(theForm.name,"Name"))
+    return false;
+
+  if (!validEmail(theForm.email,"Email"))
+    return false;
+
+  if (!validRequired(theForm.message,"Message"))
+    return false;
+  // <--------- End
+  
+	return true ;
+}
+
+</script></head>
+
+
+<body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#003366" vlink="#003366" alink="#CC0000">
+<table width="775" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td width="520" bgcolor="#336699"><img src="m_images/header_1.gif" width="520" height="50"></td>
+    <td rowspan="2" bgcolor="#336699" align="center" valign="bottom" width="255"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td align="center"><script language="JavaScript1.1" type="text/javascript">
+<!--
+var bust = Math.floor(1000000*Math.random()+1);
+document.write('<A href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=13&bust=' + bust + '" target="_top">');
+document.write('<IMG src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=13&bust=' + bust + '&keyword=NULL" border="0" width="230" height="33" alt="Click Here!">');
+document.write('</A>');
+//-->
+</script><a href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=13&amp;bust=877636" target="_top"><img src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=13&amp;bust=877636&amp;keyword=NULL" border="0" width="230" height="33" alt="Click Here!"></a><noscript><A href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=13&slot=1" target="_top"><IMG src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=13&slot=1&keyword=NULL" border="0" width="230" height="33" alt="Click Here!"></A></noscript></td>
+        </tr>
+        <tr>
+          <td align="center" valign="bottom"><img src="m_images/50_width.gif" width="50" height="10"></td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+  <tr> 
+    <td width="520" background="m_images/header_bkg.gif">
+      <table width="520" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr valign="bottom"> 
+          <td width="10"><img src="m_images/50_width.gif" width="10" height="10"></td>
+          <td width="80"><a href="index.php"><img src="m_images/home_off.gif" width="80" height="20" border="0" alt="Home"></a></td>
+          <td width="6"><img src="m_images/50_width.gif" width="6" height="10"></td>
+          <td width="80"><a href="forums/index.php"><img src="m_images/tabs_discussions_off.gif" width="80" height="20" border="0" alt="Discussions"></a></td>
+          <td width="6"><img src="m_images/50_width.gif" width="6" height="10"></td>
+          <td width="80"><a href="chat/index.php"><img src="m_images/tabs_chat_off.gif" width="80" height="20" border="0" alt="Chat"></a></td>
+          <td width="6"><img src="m_images/50_width.gif" width="6" height="10"></td>
+          <td width="80"><a href="rugby/"><img src="m_images/tabs_rugby_off.gif" width="80" height="20" border="0" alt="Rugby"></a></td>
+          <td width="6"><img src="m_images/50_width.gif" width="6" height="10"></td>
+          <td width="80"><a href="photos/"><img src="m_images/tabs_photos_off.gif" width="80" height="20" border="0" alt="Directory"></a></td>
+          <td width="6"><img src="m_images/50_width.gif" width="6" height="10"></td>
+          <td width="80"><a href="radio.php"><img src="m_images/tabs_radio_off.gif" width="80" height="20" border="0" alt="Radio"></a></td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+<table width="775" border="0" cellspacing="0" cellpadding="1">
+  <tbody><tr>
+    <td bgcolor="#000000">
+      <table width="100%" border="0" cellspacing="0" cellpadding="3">
+        <form></form>
+          <tbody><tr bgcolor="#C2CBD1" valign="middle"> 
+            <td align="left" width="50%" background="m_images/cellpic1.gif"><font size="2" face="Arial, Helvetica, sans-serif"><img src="m_images/50_width.gif" width="10" height="10"><a href="index.php" class="menu_text">Home</a> 
+              <img src="m_images/arrow_black_small.gif" width="14" height="9"><span class="menu_text">Contact 
+              Us </span></font></td>
+            <td align="right" background="m_images/cellpic1.gif" width="50%"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><span class="menu_text_bold">Search</span></b></font> 
+              <select name="select">
+                <option value="1" selected="">Discussions</option>
+                <option value="2">Directory</option>
+              </select>
+              <input type="text" name="keyword" size="20">
+              <input type="submit" name="Submit" value="GO">
+            </td>
+          </tr>
+        
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+<table width="775" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr valign="top"> 
+    <td width="110" bgcolor="#D0D7DD" align="center"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="2">
+        <tbody><tr bgcolor="#A6B3BB"> 
+          <td width="100%" align="right"><b><font size="2" face="Arial, Helvetica, sans-serif"><a href="forums/index.php?az=login" class="menu_text_bold">Login</a></font></b></td>
+          <td width="20"><b><a href="forums/index.php?az=login"><img src="m_images/login.gif" width="16" height="18" border="0"></a></b></td>
+        </tr>
+        <tr bgcolor="#A6B3BB"> 
+          <td width="100%" align="right"><b><font size="2" face="Arial, Helvetica, sans-serif"><a href="forums/index.php?az=user&amp;saz=inbox" class="menu_text_bold">Inbox</a></font></b></td>
+          <td width="20"><b><a href="forums/index.php?az=user&amp;saz=inbox"><img src="m_images/mesg.gif" width="20" height="16" border="0"></a></b></td>
+        </tr>
+        <tr bgcolor="#A6B3BB"> 
+          <td width="100%" align="right"><b><font size="2" face="Arial, Helvetica, sans-serif"><a href="forums/index.php?az=register" class="menu_text_bold">Register</a></font></b></td>
+          <td width="20"><b><a href="forums/index.php?az=register"><img src="m_images/profile.gif" width="16" height="18" border="0"></a></b></td>
+        </tr>
+      </tbody></table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td bgcolor="#000000"><img src="m_images/50_width.gif" width="50" height="1"></td>
+        </tr>
+      </tbody></table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td align="center"><img src="../m_images/50_width.gif" width="110" height="15"></td>
+        </tr>
+        <tr> 
+          <td align="center"> 
+            <script language="JavaScript1.1" type="text/javascript">
+			<!--
+			var bust = Math.floor(1000000*Math.random()+1);
+			document.write('<IFRAME src="http://www.go-adsfx.com/cgi-bin/fx/banners.fpl?region=12&bust=' + bust + '&keyword=NULL" height="31" width="88" marginwidth="0" marginheight="0" vspace="0" hspace="0" frameborder="0" align="middle" scrolling="no">');
+			document.write('<A href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=12&bust=' + bust + '" target="_top">');
+			document.write('<IMG src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=12&bust=' + bust + '&keyword=NULL" border="0" width="88" height="31" alt="Click Here!">');
+			document.write('</A>');
+			document.write('</IFRAME>');
+			//-->
+			</script><iframe src="http://www.go-adsfx.com/cgi-bin/fx/banners.fpl?region=12&amp;bust=530471&amp;keyword=NULL" height="31" width="88" marginwidth="0" marginheight="0" vspace="0" hspace="0" frameborder="0" align="middle" scrolling="no"><A href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=12&bust=530471" target="_top"><IMG src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=12&bust=530471&keyword=NULL" border="0" width="88" height="31" alt="Click Here!"></A></iframe>
+            <noscript> <IFRAME src="http://www.go-adsfx.com/cgi-bin/fx/banners.fpl?region=12&keyword=NULL" height="31" width="88" marginwidth="0" marginheight="0" vspace="0" hspace="0" frameborder="0" align="middle" scrolling="no"> 
+            <A href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=12&slot=1" target="_top"> 
+            <IMG src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=12&slot=1&keyword=NULL" border="0" width="88" height="31" alt="Click Here!"> 
+            </A> </IFRAME> </noscript> </td>
+        </tr>
+        <tr> 
+          <td align="center"><img src="../m_images/50_width.gif" width="110" height="10"></td>
+        </tr>
+        <tr> 
+          <td align="center"> 
+            <script language="JavaScript1.1" type="text/javascript">
+			<!--
+			var bust = Math.floor(1000000*Math.random()+1);
+			document.write('<IFRAME src="http://www.go-adsfx.com/cgi-bin/fx/banners.fpl?region=12&bust=' + bust + '&keyword=NULL" height="31" width="88" marginwidth="0" marginheight="0" vspace="0" hspace="0" frameborder="0" align="middle" scrolling="no">');
+			document.write('<A href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=12&bust=' + bust + '" target="_top">');
+			document.write('<IMG src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=12&bust=' + bust + '&keyword=NULL" border="0" width="88" height="31" alt="Click Here!">');
+			document.write('</A>');
+			document.write('</IFRAME>');
+			//-->
+			</script><iframe src="http://www.go-adsfx.com/cgi-bin/fx/banners.fpl?region=12&amp;bust=904405&amp;keyword=NULL" height="31" width="88" marginwidth="0" marginheight="0" vspace="0" hspace="0" frameborder="0" align="middle" scrolling="no"><A href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=12&bust=904405" target="_top"><IMG src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=12&bust=904405&keyword=NULL" border="0" width="88" height="31" alt="Click Here!"></A></iframe>
+            <noscript> <IFRAME src="http://www.go-adsfx.com/cgi-bin/fx/banners.fpl?region=12&keyword=NULL" height="31" width="88" marginwidth="0" marginheight="0" vspace="0" hspace="0" frameborder="0" align="middle" scrolling="no"> 
+            <A href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=12&slot=2" target="_top"> 
+            <IMG src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=12&slot=2&keyword=NULL" border="0" width="88" height="31" alt="Click Here!"> 
+            </A> </IFRAME> </noscript> </td>
+        </tr>
+        <tr> 
+          <td align="center"><img src="../m_images/50_width.gif" width="110" height="10"></td>
+        </tr>
+        <tr> 
+          <td align="center"> 
+            <script language="JavaScript1.1" type="text/javascript">
+			<!--
+			var bust = Math.floor(1000000*Math.random()+1);
+			document.write('<IFRAME src="http://www.go-adsfx.com/cgi-bin/fx/banners.fpl?region=12&bust=' + bust + '&keyword=NULL" height="31" width="88" marginwidth="0" marginheight="0" vspace="0" hspace="0" frameborder="0" align="middle" scrolling="no">');
+			document.write('<A href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=12&bust=' + bust + '" target="_top">');
+			document.write('<IMG src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=12&bust=' + bust + '&keyword=NULL" border="0" width="88" height="31" alt="Click Here!">');
+			document.write('</A>');
+			document.write('</IFRAME>');
+			//-->
+			</script><iframe src="http://www.go-adsfx.com/cgi-bin/fx/banners.fpl?region=12&amp;bust=41604&amp;keyword=NULL" height="31" width="88" marginwidth="0" marginheight="0" vspace="0" hspace="0" frameborder="0" align="middle" scrolling="no"><A href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=12&bust=41604" target="_top"><IMG src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=12&bust=41604&keyword=NULL" border="0" width="88" height="31" alt="Click Here!"></A></iframe>
+            <noscript> <IFRAME src="http://www.go-adsfx.com/cgi-bin/fx/banners.fpl?region=12&keyword=NULL" height="31" width="88" marginwidth="0" marginheight="0" vspace="0" hspace="0" frameborder="0" align="middle" scrolling="no"> 
+            <A href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=12&slot=3" target="_top"> 
+            <IMG src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=12&slot=3&keyword=NULL" border="0" width="88" height="31" alt="Click Here!"> 
+            </A> </IFRAME> </noscript> </td>
+        </tr>
+        <tr>
+          <td align="center"><img src="../m_images/50_width.gif" width="110" height="15"></td>
+        </tr>
+      </tbody></table>        <table width="100%" border="0" cellspacing="0" cellpadding="2">
+        <tbody><tr> 
+          <td width="100%" align="right"><b><font size="2" face="Arial, Helvetica, sans-serif"><a href="contact.php" class="menu_text">Contact 
+            Us</a></font></b></td>
+          <td width="20"><b><img src="m_images/arrow_black_small_20.gif" width="20" height="9"></b></td>
+        </tr>
+        <tr> 
+          <td width="100%" align="right"><b><font size="2" face="Arial, Helvetica, sans-serif"><a href="advertise.php" class="menu_text">Advertise</a></font></b></td>
+          <td width="20"><b><img src="m_images/arrow_black_small_20.gif" width="20" height="9"></b></td>
+        </tr>
+        <tr> 
+          <td width="100%" align="right"><b><font size="2" face="Arial, Helvetica, sans-serif"><a href="about.php" class="menu_text">About 
+            Us</a></font></b></td>
+          <td width="20"><b><img src="m_images/arrow_black_small_20.gif" width="20" height="9"></b></td>
+        </tr>
+      </tbody></table>
+    </td>
+    <td width="1" bgcolor="#000000"><img src="m_images/50_width.gif" width="1" height="10"></td>
+    <td width="512">
+      <table width="100%" border="0" cellspacing="0" cellpadding="10">
+        <tbody><tr align="left"> 
+          <td valign="top"> 
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr> 
+                <td><img src="m_images/title_privacy.gif" width="492" height="34" alt="Privacy Policy"></td>
+              </tr>
+              <tr> 
+                <td><img src="m_images/50_width.gif" width="50" height="10"></td>
+              </tr>
+              <tr>
+                <td valign="top"><font face="Arial, Helvetica, sans-serif" size="3"> 
+                  <font size="4" face="Verdana, Arial, Helvetica, sans-serif"> 
+                  <strong>Mashada.com Online Privacy Notice </strong></font> 
+                  </font>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">Thank 
+                    you for visiting Mashada.com site. Your privacy is important 
+                    to us. To better protect your privacy, we provide this notice 
+                    explaining our online information practices and the choices 
+                    you can make about the way your information is collected and 
+                    used at this Mashada.com site. <br>
+                    The Information We Collect</font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">At 
+                    some Mashada.com sites, you can enter contests, vote in 
+                    polls or otherwise express an opinion, or subscribe to one 
+                    of our services. The types of personally identifiable information 
+                    that may be collected at these pages include: name, address, 
+                    e-mail address, telephone number, fax number and information 
+                    about your interests in and use of various products, programs, 
+                    and services.</font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">At 
+                    certain parts of some of our sites, only persons who provide 
+                    us with the requested personally identifiable information 
+                    will be able to order products, programs, and services or 
+                    otherwise participate in the site's activities and offerings.</font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">We 
+                    also may collect certain non-personally identifiable information 
+                    when you visit many of our web pages such as the type of browser 
+                    you are using (e.g., Netscape, Internet Explorer), the type 
+                    of operating system you are using, (e.g., Windows '95 or Mac 
+                    OS) and the domain name of your Internet service provider 
+                    (e.g., America Online, Earthlink).</font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><strong>How 
+                    We Use the Information</strong></font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">We 
+                    may use the information you provide about yourself to fulfill 
+                    your requests for our products, programs, and services, to 
+                    respond to your inquiries about our offerings, and to offer 
+                    you other products, programs or services that we believe may 
+                    be of interest to you.</font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">We 
+                    sometimes use this information to communicate with you, such 
+                    as to notify you when you have won one of our contests or 
+                    when we make changes to our subscriber agreements, to fulfill 
+                    a request by you for an online newsletter, or to contact you 
+                    about your account with us.</font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">We 
+                    use the information that you provide about others to enable 
+                    us to send them your gifts or cards. From time to time, we 
+                    also may use this information to offer our products, programs, 
+                    or services to them.</font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">The 
+                    information we collect in connection with our online forums 
+                    and communities is used to provide an interactive experience. 
+                    We use this information to facilitate participation in these 
+                    online forums and communities and, from time to time, to offer 
+                    you products, programs, or services.</font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">If 
+                    you choose to submit content for publication (e.g., a "letter 
+                    to our editors"), we may publish your screen name and 
+                    other information you have provided to us.</font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">We 
+                    sometimes use the non-personally identifiable information 
+                    that we collect to improve the design and content of our site 
+                    and to enable us to personalize your Internet experience. 
+                    We also may use this information in the aggregate to analyze 
+                    site usage, as well as to offer you products, programs, or 
+                    services.</font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">We 
+                    will disclose information we maintain when required to do 
+                    so by law, for example, in response to a court order or a 
+                    subpoena. We also may disclose such information in response 
+                    to a law enforcement agency's request.</font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">Agents 
+                    and contractors of Mashada.com who have access to personally 
+                    identifiable information are required to protect this information 
+                    in a manner that is consistent with this Privacy Notice by, 
+                    for example, not using the information for any purpose other 
+                    than to carry out the services they are performing for Mashada.com.</font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">Although 
+                    we take appropriate measures to safeguard against unauthorized 
+                    disclosures of information, we cannot assure you that personally 
+                    identifiable information that we collect will never be disclosed 
+                    in a manner that is inconsistent with this Privacy Notice. 
+                    Inadvertent disclosures may result, for example, when third 
+                    parties misrepresent their identities in asking the site for 
+                    access to personally identifiable information about themselves 
+                    for purposes of correcting possible factual errors in the 
+                    data.</font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">If a Mashada.com 
+                    site discloses personally identifiable information to companies 
+                    not owned by Mashada.com who want to market products or services 
+                    to you, it will provide you with an opportunity to opt out 
+                    or block such uses. For instructions on how to opt out from 
+                    such disclosures, please <a href="mailto:info@mashada.com">info@mashada.com</a>.</font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">Mashada.com 
+                    may on occasion combine information we receive online with 
+                    outside records to enhance our ability to market to you those 
+                    products or services that may be of interest to you. If you 
+                    prefer not to receive marketing information from this site, 
+                    <a href="mailto:info@mashada.com">info@mashada.com</a>.</font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">Finally, 
+                    Mashada.com sites will not use or transfer personally 
+                    identifiable information provided to us in ways unrelated 
+                    to the ones described above without also providing you with 
+                    an opportunity to opt out of these unrelated uses.</font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><strong>Collection 
+                    of Information by Third-Party Sites, Advertisers and Sponsors</strong></font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">Some 
+                    of our sites contain links to other sites whose information 
+                    practices may be different than ours. Visitors should consult 
+                    the other sites' privacy notices, as we have no control over 
+                    information that is submitted to, or collected by, these third 
+                    parties.</font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">Mashada.com sites sometimes may offer contests, sweepstakes, or 
+                    promotions that are sponsored by or co-sponsored with identified 
+                    third parties. By virtue of their sponsorship, these third 
+                    parties may obtain personally identifiable information that 
+                    visitors voluntarily submit to participate in the contest, 
+                    sweepstakes, or promotion. Mashada.com has no control 
+                    over the third-party sponsors' use of this information. The 
+                    Mashada.com site will notify you at the time of requesting 
+                    personally identifiable information if third-party sponsors 
+                    will obtain such information.</font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">Mashada.com sites may use reputable third parties to present or 
+                    serve the advertisements that you may see at its web pages 
+                    and to conduct research about the advertisements. Our privacy 
+                    policy does not cover any use of information that such third 
+                    parties may have collected from you or the methods used by 
+                    the third-parties to collect that information (e.g., cookies, 
+                    web beacons and clear gifs). For more information on this 
+                    site's use of such third-parties, please click here.</font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><strong>Cookies</strong></font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">To 
+                    enhance your experience with our sites, many of our web pages 
+                    use "cookies." Cookies are text files we place in 
+                    your computer's browser to store your preferences. Cookies, 
+                    by themselves, do not tell us your e-mail address or other 
+                    personally identifiable information unless you choose to provide 
+                    this information to us by, for example, registering at one 
+                    of our sites. However, once you choose to furnish the site 
+                    with personally identifiable information, this information 
+                    may be linked to the data stored in the cookie.</font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">We 
+                    use cookies to understand site usage and to improve the content 
+                    and offerings on our sites. For example, we may use cookies 
+                    to personalize your experience at our web pages (e.g. to recognize 
+                    you by name when you return to our site), save your password 
+                    in password-protected areas, and enable you to use shopping 
+                    carts on our sites. We also may use cookies to offer you products, 
+                    programs, or services.</font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">We 
+                    may also use small pieces of code called "web beacons" 
+                    or "clear gifs" to collect anonymous and aggregate 
+                    advertising metrics, such as counting page views, promotion 
+                    views, or advertising responses. These "web beacons" 
+                    may be used to deliver cookies that conform to our cookie 
+                    policy.</font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><strong>Our 
+                    Commitment to Security</strong></font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">We 
+                    have put in place appropriate physical, electronic, and managerial 
+                    procedures to safeguard and help prevent unauthorized access, 
+                    maintain data security, and correctly use the information 
+                    we collect online.</font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><strong>How 
+                    You can Access or Correct Information</strong></font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">For instructions 
+                    on how you can access the personally identifiable information 
+                    that this Mashada.com site has collected about you online, 
+                    or how to correct factual errors in such information, <a href="mailto:info@mashada.com">info@mashada.com</a>.</font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">To 
+                    protect your privacy and security, we will take reasonable 
+                    steps to help verify your identity before granting access 
+                    or making corrections.</font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><strong>How 
+                    to Contact Us</strong></font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif">If you 
+                    have any questions or concerns about the Mashada.com online 
+                    policy for this site or its implementation you may contact 
+                    us at <a href="mailto:info@mashada.com">info@mashada.com</a> 
+                    or at the following address:</font></p>
+                  <p><font size="2" face="Arial, Helvetica, sans-serif"><em>Mashada.com<br>
+                    </em></font><font face="Arial, Helvetica, sans-serif" size="3"><font size="2" face="Verdana, Arial, Helvetica, Tahoma"><em>P.O. 
+                    Box 59244<br>
+                    Birmingham, AL. 35209<br>
+                    USA.</em></font></font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+                    </font></p>
+                  <font face="Arial, Helvetica, sans-serif" size="2">&nbsp; </font></td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+        <tr align="left">
+          <td valign="top" align="center">
+            <script language="JavaScript1.1" type="text/javascript">
+<!--
+var bust = Math.floor(1000000*Math.random()+1);
+document.write('<IFRAME src="http://www.go-adsfx.com/cgi-bin/fx/banners.fpl?region=4&bust=' + bust + '&keyword=NULL" height="60" width="468" marginwidth="0" marginheight="0" vspace="0" hspace="0" frameborder="0" align="middle" scrolling="no">');
+document.write('<A href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=4&bust=' + bust + '" target="_top">');
+document.write('<IMG src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=4&bust=' + bust + '&keyword=NULL" border="0" width="468" height="60" alt="Click Here!">');
+document.write('</A>');
+document.write('</IFRAME>');
+//-->
+</script><iframe src="http://www.go-adsfx.com/cgi-bin/fx/banners.fpl?region=4&amp;bust=428639&amp;keyword=NULL" height="60" width="468" marginwidth="0" marginheight="0" vspace="0" hspace="0" frameborder="0" align="middle" scrolling="no"><A href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=4&bust=428639" target="_top"><IMG src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=4&bust=428639&keyword=NULL" border="0" width="468" height="60" alt="Click Here!"></A></iframe>
+<noscript>
+<IFRAME src="http://www.go-adsfx.com/cgi-bin/fx/banners.fpl?region=4&keyword=NULL" height="60" width="468" marginwidth="0" marginheight="0" vspace="0" hspace="0" frameborder="0" align="middle" scrolling="no">
+<A href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=4&slot=1" target="_top">
+<IMG src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=4&slot=1&keyword=NULL" border="0" width="468" height="60" alt="Click Here!">
+</A>
+</IFRAME>
+</noscript>	          </td>
+        </tr>
+      </tbody></table>
+    </td>
+    <td background="m_images/bkg_dots.gif" width="2"><img src="m_images/50_width.gif" width="2" height="400"></td>
+    <td width="150" bgcolor="#E8E8E0" align="center"><img src="m_images/50_width.gif" width="150" height="5"><img src="m_images/ad.gif" width="120" height="10"><img src="m_images/50_width.gif" width="150" height="5"><br>
+      
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td align="center" valign="top">
+		<!-- Banner Spot [1] -->
+		<script language="JavaScript1.1" type="text/javascript">
+		<!--
+		var bust = Math.floor(1000000*Math.random()+1);
+		document.write('<A href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=18&bust=' + bust + '" target="_top">');
+		document.write('<IMG src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=18&bust=' + bust + '&keyword=NULL" border="0" alt="Click Here!">');
+		document.write('</A>');
+		//-->
+		</script><a href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=18&amp;bust=518954" target="_top"><img src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=18&amp;bust=518954&amp;keyword=NULL" border="0" alt="Click Here!"></a>
+		<noscript>
+		<A href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=18&slot=1" target="_top">
+		<IMG src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=18&slot=1&keyword=NULL" border="0" alt="Click Here!">
+		</A>
+		</noscript>
+	</td>
+  </tr>
+  <tr> 
+    <td align="center" valign="top"><img src="../m_images/50_width.gif" width="150" height="10"></td>
+  </tr>
+  <tr> 
+    <td align="center" valign="top">
+		<!-- Banner Spot [2] -->
+		<script language="JavaScript1.1" type="text/javascript">
+		<!--
+		var bust = Math.floor(1000000*Math.random()+1);
+		document.write('<A href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=21&bust=' + bust + '" target="_top">');
+		document.write('<IMG src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=21&bust=' + bust + '&keyword=NULL" border="0" alt="Click Here!">');
+		document.write('</A>');
+		//-->
+		</script><a href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=21&amp;bust=176522" target="_top"><img src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=21&amp;bust=176522&amp;keyword=NULL" border="0" alt="Click Here!"></a>
+		<noscript>
+		<A href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=21&slot=1" target="_top">
+		<IMG src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=21&slot=1&keyword=NULL" border="0" alt="Click Here!">
+		</A>
+		</noscript>
+	</td>
+  </tr>
+  <tr> 
+    <td align="center" valign="top"><img src="../m_images/50_width.gif" width="150" height="10"></td>
+  </tr>
+  <tr> 
+    <td align="center" valign="top"> 
+      <script language="JavaScript1.1" type="text/javascript">
+			<!--
+			var bust = Math.floor(1000000*Math.random()+1);
+			document.write('<A href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=5&bust=' + bust + '" target="_top">');
+			document.write('<IMG src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=5&bust=' + bust + '&keyword=NULL" border="0" alt="Click Here!">');
+			document.write('</A>');
+			//-->
+			</script><a href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=5&amp;bust=500541" target="_top"><img src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=5&amp;bust=500541&amp;keyword=NULL" border="0" alt="Click Here!"></a>
+      <noscript><A href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=5&slot=3" target="_top"><IMG src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=5&slot=3&keyword=NULL" border="0" alt="Click Here!"></A></noscript></td>
+  </tr>
+</tbody></table>
+        </td>
+  </tr>
+</tbody></table>
+<table width="775" border="0" cellspacing="0" cellpadding="1">
+  <tbody><tr> 
+    <td bgcolor="#000000"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="2">
+        <form></form>
+          <tbody><tr bgcolor="#CCCC99" valign="middle"> 
+            <td align="center">&nbsp;</td>
+          </tr>
+        
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+<table width="775" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="center" valign="top"> <font size="1" face="Verdana, Arial, Helvetica, sans-serif">© 
+      1998 - 2003 Mashada.com. All Rights Reserved. Developed By <a href="http://www.kobia.net" target="_blank">Kobia 
+      Interactive</a></font></td>
+  </tr>
+</tbody></table>
+
+
+</body></html>
