@@ -1,0 +1,39 @@
+> *The following text is extracted and transformed from the pscode.com privacy policy that was archived on 2001-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010619025118id_/http%3A//pscode.com/xq/ASP/lngWId.-1/qx/vb/scripts/privacy.htm) for the most accurate reproduction.*
+
+# visual basic, vb, active server pages (ASP),java, javscript,c, c++, c__ , vbscript,active server pages, ASP, vbscript,SQL, database, informix, oracle, SQL Server,Perl, CGI,Delphi, PHP,Free source code for the taking. Over a million lines of programs.
+
+_**For those who view Planet Source Code**_ Internet user privacy and confidentiality is of the utmost importance to Planet Source Code and it's owning company, [ Exhedra Solutions, Inc](http://www.exhedra.com/).. It's reputation and integrity is directly related to how it serves its web customers. 
+
+As a result, Planet Source Code openly volunteers its practices of collecting information, its targeting capabilities, and its use of cookies. If you have any questions pertaining to this privacy policy and its contents, please direct your correspondence to [privacy@exhedra.com](mailto:privacy@exhedra.com). 
+
+_**Normal Viewing Information**_
+
+As you visit the site, Planet Source Code does not acquire or collect any personal information about you. Your name, address, phone number, and email address all remain your private properties. Planet Source Code does, however, collect information which is specific to how you use the site. Planet Source Code servers note details such as the server you are logged onto, the geographic location of the ISP you use, the type of browser you use, and your IP address. This information is obtained solely for the purpose of targeting ads and measuring a given ads effectiveness on behalf of Planet Source Code clients and customers. 
+
+_**The Cookie Principle**_
+
+Planet Source Code uses cookies to improve your Web browsing experience. When you first come to the site, Planet Source Code assigns a unique random number to your computer browser - commonly known as a "cookie."  This cookie is used to maintain your personal settings such as the world that you are browsing in (...so you only have to choose it once at the beginning of the site, and don't have to choose it over and over).  Cookies are not used to store personal information about you.
+
+_**Email addresses and Demographic Information given to Planet Source Code**_
+
+Users who sign up for and use advanced features of Planet Source Code, such as code submission, voting, Code of the Day, and submitting feedback will be asked for additional information including email address and possibly demographic information. BECAUSE WE PROTECT OUR USERS FROM SPAMMERS, Planet Source Code DOES NOT SELL THIS INFORMATION TO EXTERNAL COMPANIES. Email addresses are used purely to verify the user's true identity and prevent fraud, while demographic information is used purely for the purpose of targeting ads and measuring their effectiveness on behalf of Planet Source Code clients and customers. 
+
+_**3rd Party Measurement Services **_   
+Planet Source Code works with several third parties that serve ads to this site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements on this site and other sites about goods and services of interest to you.
+
+Often, they will employ a third-party measurement service other than Planet Source Code for tracking the performance of an ad program. In these instances, Planet Source Code has no control over the information collected by the third party, and may not be held responsible for the actions of the third party measurement service where collected information is concerned. 
+
+To find out more about how Double-click manages the privacy of information in conjunction with serving ads on this site and to know your choices about not having this information used by DoubleClick, please go to 
+
+<http://www.sonar.com/naiprivacy>.This site uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>. 
+
+ If you have questions regarding other third party measurement services and their respective methods of information collection, please contact  [privacy@Planet-Source-Code.com](mailto:privacy@Planet-Source-Code.com). 
+
+**Third Party Cookies**
+
+  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
+
+_**Code of the Day**_
+
+Planet Source Code's Code of the Day works with a third party that hosts our e-mail newsletters and serves ads into this publication. To find out more about how Flycast manages the privacy of information in conjunction with hosting and serving ads into our newsletters, please go to <http://edispatch.flycast.com/privacy>.
