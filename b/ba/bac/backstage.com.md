@@ -1,37 +1,42 @@
-> *The following text is extracted and transformed from the backstage.com privacy policy that was archived on 1998-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19981206185230id_/http%3A//www.backstage.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backstage.com privacy policy that was archived on 2000-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000622033640id_/http%3A//www.backstage.com/mast/privacy.asp) for the most accurate reproduction.*
 
-# Back Stage Privacy Policy
+# BackStage.com
 
-**Privacy Policy Statement: Back Stage/Back Stage West Online**
+**Backstage.com Privacy Policy:**
 
-e-mail: [webmaster@backstage.com](mailto:webmaster@backstage.com)  
-`Last updated: 04/20/98`
+12/10/99   
+Updated 02/03/00
 
-The policies below are applicable to Back Stage/Back Stage West Online (the "Service") produced and maintained by BPI Communications, Inc. ("BPI").
+At BACKSTAGE.COM we take your privacy very seriously. Because of this we want to provide you with explicit information on how we collect, gather, and identify information during your visit to our site. This information may be expanded or be updated as we change or develop our site. For this reason, we recommend that you review this policy from time-to-time to see if anything has changed.
 
-For each visitor to the Service, our web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
+WHAT INFORMATION DO WE COLLECT AND HOW DO WE USE IT? 
 
-BPI collects only the domain name, but not the e-mail address of visitors to the Service, the e-mail addresses of those who communicate with BPI via e-mail, aggregate information on what pages consumers access or visit and information volunteered by the consumer, such as survey information and/or site registrations.
+BACKSTAGE ONLINE collects information on our users in three ways: by voluntary submission through opt-in email and/or surveys; sweepstakes and/or contest entries; and through cookie technology.
 
-The information BPI collects is used for internal review and is then discarded, used to improve the content of the Service, used to notify consumers about updates to the Service, shared with other reputable organizations to help them contact consumers for marketing purposes and used by BPI to contact consumers for marketing purposes.
+The information BACKSTAGE.COM collects is used in a variety of ways: for internal review; to improve the content of the site, thus making your user experience more valuable; and to notify customers about updates to the service.
 
-If you do not want to receive e-mail from BPI in the future, please let BPI know by sending email to BPI at the above address and telling BPI that you do not want to receive e-mail from BPI.
+From time to time we share this information with other reputable organizations for marketing purposes or the information is used by BACKSTAGE ONLINE to contact consumers for its own marketing endeavors. As a valued consumer, we offer you the opportunity to "opt in," or agree to accept these marketing opportunities. If at any time you change your mind and do not want BACKSTAGE ONLINE to share your email address or home address with other companies and/or organizations, or would simply like to be removed from the list, please let us know by emailing us at: [webmaster@backstage.com](mailto:webmaster@BACKSTAGE.com) or by writing us at BPI Communications, Electronic Media, 1515 Broadway, New York, NY 10036-8956.
 
-From time to time, BPI may make the e-mail addresses of those who access the Service available to other reputable organizations whose products or services BPI believes you might find interesting. If you do not want BPI to share your e-mail address with other companies or organizations, please let BPI know by sending email to BPI at the above address and telling BPI that you do not want BPI to share your e-mail address with other companies.
+OPT-IN EMAIL 
 
-From time to time, BPI may make our customer e-mail list available to other reputable organizations whose products or services BPI may think you might find interesting. If you do not want BPI to share your e-mail address with other companies or organizations, please let BPI know by sending email to BPI at the above address.
+BACKSTAGE.COM provides for its users an "optional" email service that allows the user to request-through personal email-specific BACKSTAGE.COM information. At times we may request additional information for the purpose of improving this service or for facilitating the user's online experience. A user may request to be removed (or "opt-out") from this "opt-in" email at anytime by contacting us at: [webmaster@backstage.com.](mailto:webmaster@BACKSTAGE.com)
 
-If you supply BPI with your postal address on-line you will only receive the information for which you provided BPI your address. You may receive mailings from other reputable companies. You can, however, have your name put on our do-not-share list by sending email to BPI at the above address.
+SWEEPSTAKES/CONTESTS 
 
-Please provide BPI with your exact name and address. BPI will be sure your name is removed from the lists BPI share with other organizations.
+From time-to-time BACKSTAGE.COM, along with other reputable companies, provides sweepstakes and other contests for the enjoyment of our users. By participating in the contest or sweepstakes and answering any and all questions, the user understands that BACKSTAGE.COM and/or the involved company(s) may use information obtained for marketing purposes. Children under 18 may not participate in any sweepstakes or contest on BACKSTAGE.COM.
 
-Persons who supply BPI with their telephone numbers on-line may receive telephone contact from BPI with information regarding orders they have placed on-line. Please provide BPI with your correct phone number. BPI will be sure your name is removed from the lists BPI share with other organizations.
+COOKIES 
 
-Users also should be aware that non-personal information and data may be automatically collected through the standard operation of BPI's internet servers or through the use of "cookies." "Cookies" are small text files a web site can use to recognize repeat users, facilitate the user's ongoing access to and use of the site and allow a site to track usage behavior and compile aggregate data that will allow content improvements and targeted advertising. Cookies are not programs that come onto a user's system and damage files. Generally, cookies work by assigning a unique number to the user that has no meaning outside the assigning site. Users should be aware that BPI cannot control the use of cookies or the resulting information by advertisers or third parties hosting data for BPI. If a user does not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the user to deny or accept the cookie feature; however, users should note that cookies may be necessary to provide the user with certain features (e.g., customized delivery of information) available on the BPI Site.
+BACKSTAGE.COM may automatically collect non-personal information and data through the use of "cookies." Cookies are small text files a Web site uses to recognize repeat users, facilitate the user's ongoing access to the site and facilitate the use of the site. "Cookies" also allow a site to track usage behavior and compile site usage information that will allow for the improvement of content and target advertising.
 
-Persons under the age of 18 should receive permission from the parents before supplying name, address, e-mail, phone number or any other personal information to BPI. 
+ABOUT CHILDREN'S PRIVACY 
 
-* * *
+BACKSTAGE.COM is committed to the safety of our children. Children under 18 may not participate in any sweepstakes or contests on BACKSTAGE ONLINE. Also, we encourage children under the age of 18 to ask a parent for permission before providing or sending any information to anyone online.
 
-© 1998 Back Stage, Back Stage West, and [BPI Communications Inc.](http://www.bpicomm.com/) All rights reserved.  
-BPI Electronic Media includes [Billboard](http://www.billboard.com/), [Adweek](http://www.adweek.com/), [Amusement Business](http://www.amusementbusiness.com/), [BPIQ](http://www.bpiq.com/), [Back Stage](http://www.backstage.com/), [The Hollywood Reporter](http://www.hollywoodreporter.com/), [MC](http://www.marketingcomputers.com/), and [Musician](http://www.musicianmag.com/). Sites hosted by [Telescan Inc.](http://www.telescan.com/)
+YOUR CONSENT 
+
+By using our Web site, you consent to the collection and use of this information by BACKSTAGE.COM. Once again, if you do not wish us to share this information with other reputable companies that we think you might be interested in, please let us know by emailing us at emoved (or "opt-out") from this "opt-in" email at anytime by contacting us at: [webmaster@backstage.com.](mailto:webmaster@BACKSTAGE.com)
+
+QUESTIONS? 
+
+We welcome your questions and/or comments. Please send all queries to emoved (or "opt-out") from this "opt-in" email at anytime by contacting us at: [webmaster@backstage.com.](mailto:webmaster@BACKSTAGE.com)
