@@ -1,60 +1,426 @@
-<!--The following is the downloaded HTML source of the mergentonline.com privacy policy that was archived on 2003-04-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030412154300id_/http%3A//www.mergentonline.com/noticesCM.asp%3Fcontentscode%3DPrivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mergentonline.com privacy policy that was archived on 2003-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031204144730id_/http%3A//www.mergentonline.com/noticesCM.asp%3Fcontentscode%3DPrivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+	<meta machinename="2KMOL1">
 	<title>Mergent Online</title>
+
 	<link rel="stylesheet" href="Styles.css" type="text/css">
+
+
 	<link rel="stylesheet" href="Header.css" type="text/css">
-
-<script language="JavaScript" type="text/javascript" src="/scripts/dropbox.js"></script><style type="text/css">
-#dropbox_0_main { z-index:0; position:absolute; left:10; top:10;}
-#dropbox_1_main { z-index:0; position:absolute; left:10; top:10;}
-#dropbox_2_main { z-index:0; position:absolute; left:10; top:10;}
-#dropbox_3_main { z-index:0; position:absolute; left:10; top:10;}
-#dropbox_4_main { z-index:0; position:absolute; left:10; top:10;}
-#dropbox_5_main { z-index:0; position:absolute; left:10; top:10;}
-#dropbox_6_main { z-index:0; position:absolute; left:10; top:10;}
-#dropbox_7_main { z-index:0; position:absolute; left:10; top:10;}
-#dropbox_8_main { z-index:0; position:absolute; left:10; top:10;}
-#dropbox_9_main { z-index:0; position:absolute; left:10; top:10;}
-</style>
-
-
+	<style type="text/css">
+	TD.padding {
+	}
+	</style>
 
 
 <script language="JavaScript" type="text/javascript">
+
+function BrseGetElement(id)
+{
+	var Element;
+
+	if (document.getElementById)
+	{
+	  Element = document.getElementById(id);
+	  if (Element== null && document.getElementByName)
+		  Element = document.getElementByName(id);
+	  if (Element== null && document)
+		  Element = document[id];
+	}
+	else if (document.all)
+	{
+	  Element = document.all[id];
+	}
+
+	return Element;
+}
+
+
+var g_nDropBoxCount= 0;
+var g_arrDropBoxs= new Array();
+var g_arrDropBoxsLst= new Array();
+var g_nMaxDropBox= 10;
+
+// Set the title of the drop box
+function dropbox_settitle( szTitle )
+{
+	// Set member
+	this.szTitleText= szTitle;
+	
+	// Set the html
+}
+
+// Set the bordercolor of the drop box
+function dropbox_setbordercolor( szBorderColor )
+{
+	this.szBroderColor= szBorderColor;
+}
+
+// Set the border text color of the drop box
+function dropbox_setbordertextcolor( szBorderTextColor )
+{
+	this.szBorderTextColor= szBorderTextColor;
+}
+
+// Set the title background color of the drop box
+function dropbox_settitlebgcolor( szTitleBGColor )
+{
+	this.szTitleBGColor= szTitleBGColor;
+}
+
+// Set the contents of the drop box
+function dropbox_setcontents( szContents )
+{
+	this.szContents= new String( "<SPOOFTAGSTART>" + szContents + "<SPOOFTAGEND>" );
+}
+
+// create a unique id for a new drop box
+function dropbox_createid()
+{
+	return "dropbox" + g_nDropBoxCount++ + "";
+}
+
+// default html for blank contents
+function dropbox_getcolapsedhtml()
+{
+	return "<table width=100% height=\"100%\" bgcolor=\"#1c5133\"></table>";
+}
+
+// Move the drop box to a specific screen point
+function dropbox_move( nX, nY )
+{
+	//var varMainCell= eval( "document.all." + this.szID + "main" );
+	var varMainCell = BrseGetElement(this.szID + "main");
+
+	varMainCell.style.left= nX;	
+	varMainCell.style.top= nY;
+
+}
+
+function SetDefault( varObject, varValue )
+{
+	if ( varObject + "" == "undefined" )
+	{
+		varObject= varValue;
+	}
+}
+
+function dropbox_trackright( bTrackRight )
+{
+	this.bTrackRight= bTrackRight;
+	
+	// Resize if needed
+	dropbox_resize();
+}
+
+function BrseGetElementsByName(id)
+{
+	var Element;
+
+	if (document.getElementsByName)
+	{
+	  // browser implements part of W3C DOM HTML
+	  // Gecko, Internet Explorer 5+, Opera 5+
+	  Element = document.getElementsByName(id);
+	}
+	else if (document.all)
+	{
+	  // Internet Explorer 4 or Opera with IE user agent
+	  Element = document.all[id];
+	}
+
+  
+  return Element;
+}
+
+
+function dropbox_setrightoffset( nOffset )
+{
+	this.nRightOffset= nOffset;
+	
+	// Resize if needed
+	dropbox_resize();
+}
+
+function dropbox_fillfromid( szID )
+{
+
+	var elementDropBox = BrseGetElement(szID);
+	if(elementDropBox != null)
+		this.szContents = "<SPOOFTAGSTART>" + elementDropBox.innerHTML + "<SPOOFTAGEND>";
+
+}
+
+function dropbox_alwaysexpanded( bAlwaysExpanded )
+{
+	this.bAlwaysExpanded= bAlwaysExpanded;
+	
+	// Set the expand button
+	if ( bAlwaysExpanded == true )
+	{
+		var elementDropBox = BrseGetElement(this.szID + "expandbox");
+		if(elementDropBox != null)
+			 elementDropBox.innerHTML = "";
+		//var szEvalScript= "document.all." + this.szID + "expandbox.innerHTML='';";
+		//eval( szEvalScript );
+	}
+	
+	if ( bAlwaysExpanded == true )
+	{
+		dropbox_expand( this.szID )
+	}
+	else
+	{
+		dropbox_collapse( this.szID )
+	}
+}
+
+// Create new instance of the drop box
+function dropbox( szTitleText, szInitialContents, szBorderColor, szBorderTextColor, 
+				  szTitleBGColor, nWidth, nHeight, nX, nY )
+{
+	// Set internals members
+	this.szTitleText= szTitleText;
+	this.nWidth= nWidth;
+	this.nHeight= nHeight;
+	this.szBorderColor= szBorderColor;
+	this.szBorderTextColor= szBorderTextColor;
+	this.szTitleBGColor= szTitleBGColor;
+	this.szContents= "<SPOOFTAGSTART>" + szInitialContents + "<SPOOFTAGEND>";
+	this.nX= nX;
+	this.nY= nY;
+	this.bTrackRight= false;
+	this.bAlwaysExpanded= false;
+	this.nRightOffset= 0;
+	
+	// Set methods
+	this.SetTitle= dropbox_settitle;
+	this.SetBorderColor= dropbox_setbordercolor;
+	this.SetBorderTextColor= dropbox_setbordertextcolor;
+	this.SetTitleBGColor= dropbox_settitlebgcolor;
+	this.SetContents= dropbox_setcontents;
+	this.Move= dropbox_move;
+	this.TrackRight= dropbox_trackright;
+	this.AlwaysExpanded= dropbox_alwaysexpanded;
+	this.SetRightOffset= dropbox_setrightoffset;
+	this.FillFromID= dropbox_fillfromid;
+	
+	// Create new internal ID
+	this.szID= dropbox_createid();
+
+	// Set the box in the map
+	g_arrDropBoxs[ this.szID ]= this;
+	g_arrDropBoxsLst[ g_arrDropBoxsLst.length ]= this;
+
+	// Create the div
+	dropbox_writediv( this );
+	
+	// Set the position of the div
+	this.Move( nX, nY );
+	
+	// Set initial contents
+	this.SetContents( szInitialContents );
+}
+
+function dropbox_writediv( varDropBox )
+{
+
+	document.write( "<div id='" + varDropBox.szID + "main' style='position:absolute;' onmouseout='javascript:dropbox_collapse(\"" + varDropBox.szID + "\", event);' >" );
+	document.write( "<table width=" + varDropBox.nWidth + " border=1 onmouseout='javascript:dropbox_collapse(\"" + varDropBox.szID + "\", event);' cellspacing=0 cellpadding=0 width=200 bordercolor='" + varDropBox.szBorderColor + "' bordercolordark='" + varDropBox.szBorderColor + "' bordercolorlight='" + varDropBox.szBorderColor + "' bgcolor='" + varDropBox.szBorderColor + "'>" );
+	document.write( "<tr>" );
+	document.write( "<td valign=\"top\" width=" + varDropBox.nWidth + " bgcolor='#e8ede9'>" );
+	document.write( "<table onmouseout='javascript:dropbox_collapse(\"" + varDropBox.szID + "\", event);' width=100% border=0 cellspacing=0 cellpadding=3 bordercolor='" + varDropBox.szBorderColor + "' bordercolordark='" + varDropBox.szBorderColor + "' bordercolorlight='" + varDropBox.szBorderColor + "'>" );
+	document.write( "<tr>" );
+	document.write( "<td valign=top bgcolor='" + varDropBox.szTitleBGColor + "'>" );
+	document.write( "<b>" + varDropBox.szTitleText + "</b>" );
+	document.write( "</td>" );
+	document.write( "<td valign=top align=right bgcolor='" + varDropBox.szTitleBGColor + "' id='" + varDropBox.szID + "expandbox'>" );
+	document.write( "<a onmouseover=\"javascript:dropbox_expand('" + varDropBox.szID + "')\" href='javascript:dropbox_void();'>Expand</a>" );
+	document.write( "</td>" );
+	document.write( "</tr>" );
+	document.write( "</table>" );
+	document.write( "</td>" );
+	document.write( "</tr>" );
+	document.write( "<tr>" );
+	document.write( "<td valign='top' id='" + varDropBox.szID + "contents'>" );
+	document.write( "<layer id='" + varDropBox.szID + "contents' style='position:relative'>");
+	document.write( "<table width=100% height='100%' bgcolor='" + varDropBox.szBorderColor + "'>" );
+	document.write( "</table>" );
+	document.write( "</layer>" );
+	document.write( "</td>" );
+	document.write( "</tr>" );
+	document.write( "</table>" );
+	document.write( "</div>");
+
+}
+
+function dropbox_expand( szDropBoxID )
+{
+	// Get dropbox object
+	var varDropBox= dropbox_getboxobject( szDropBoxID );
+
+	var varContentsCell= BrseGetElement(szDropBoxID + "contents" );
+	if ( varContentsCell )
+		varContentsCell.innerHTML= "<table bgcolor=white width=\"100%\" height=\"100%\"><tr><td>" + varDropBox.szContents + "</td></tr></table>";
+
+}
+
+function GetScrollTop()
+{
+
+	return document.body.scrollTop;
+
+}
+
+function dropbox_collapse( szDropBoxID, event)
+{
+	// Get dropbox object
+	var varDropBox= dropbox_getboxobject( szDropBoxID );
+	
+	if ( varDropBox.bAlwaysExpanded == true )
+		return;
+
+	// Make sure the mouse is no longer over the menu
+	var varMainCell= BrseGetElement(szDropBoxID + "main");
+	
+	if(typeof(event) != "undefined")
+	{
+		var nMouseX= event.clientX, nMouseY= event.clientY;
+			
+		// Get the current mouse position //Chenged the >= to > and <= to < for Netscape.
+		if ( nMouseX > varMainCell.offsetLeft && nMouseY > varMainCell.offsetTop - GetScrollTop() )
+		{
+			if ( nMouseX < varMainCell.offsetLeft + varMainCell.offsetWidth )
+			{
+				if ( nMouseY < ( varMainCell.offsetTop + varMainCell.offsetHeight ) - GetScrollTop() )
+					return;
+			}
+		}
+	}
+
+
+	// Hide the cell
+	var objItem= BrseGetElement(szDropBoxID + "contents" );
+
+	if ( String( objItem.innerHTML ).indexOf( "<SPOOFTAGSTART>" ) != -1 )
+	{
+		var szHTML= new String( objItem.innerHTML );
+		szHTML= szHTML.substr( szHTML.indexOf( "<SPOOFTAGSTART>" ) );
+		szHTML= szHTML.substr( 0, szHTML.indexOf( "<SPOOFTAGEND>" ) + 13 );
+
+		varDropBox.szContents= new String( szHTML );
+	}
+
+
+	var elementDropboxContents = BrseGetElement(szDropBoxID + "contents");
+	if(elementDropboxContents != null)
+		elementDropboxContents.innerHTML = dropbox_getcolapsedhtml();
+	
+}
+
+function dropbox_getboxobject( szDropBoxID )
+{
+	return g_arrDropBoxs[ szDropBoxID ];
+}
+
+function dropbox_init()
+{
+	document.writeln( '<style type="text/css">' );
+	
+	for ( nDropBox= 0; nDropBox< g_nMaxDropBox; nDropBox++ )
+	{
+		// Write the CCS as absolute for the moment as this can be changed
+		document.writeln( '#dropbox' + nDropBox + 'main { z-index:0; position:absolute; left:10; top:10;}' );
+	}
+	document.writeln( '</style>' );
+}
+
+function dropbox_void()
+{
+}
+
+function dropbox_resize()
+{
+	for ( var nDropBox= 0; nDropBox< g_arrDropBoxsLst.length; nDropBox++ )
+	{
+		var objDropBox= g_arrDropBoxsLst[ nDropBox ];
+		
+		if ( objDropBox.bTrackRight == true )
+		{
+			//var varMainCell= eval( "document.all." + objDropBox.szID + "main" );
+			var varMainCell= BrseGetElement(objDropBox.szID + "main");
+
+			//Position the dropbox relative to a table that has its width set to 100%.
+			//This gets around the problem with the innerWidth property in NS6 that does not exclude the width of the scroll bar.
+			
+			var elementdivHeader = BrseGetElement("tableSpaceDropBox");
+			if(elementdivHeader)
+			{
+				var nLeft = elementdivHeader.offsetLeft + elementdivHeader.offsetWidth - objDropBox.nWidth;
+				varMainCell.style.left= nLeft + "px";
+			}
+			else
+			{			
+				var nWidth = 0;	
+				if (document.body && typeof(document.body.clientWidth) == 'number')
+				{
+					// Gecko 1.0 (Netscape 7) and Internet Explorer 5+
+					nWidth = document.body.clientWidth;
+				}
+				else if (typeof(innerWidth) == 'number')
+				{
+					// Navigator 4.x, Netscape 6.x, CompuServe 7 and Opera
+
+					//In NS the width of the scollbar is included if there is one, it shouldn't be.
+					//Which means that the box does not move over when a scroll bar appears.
+					nWidth = innerWidth - 5; //The 5 is to keep the dropbox on screen even when the scroll bars appear.
+				}
+				var nLeft= nWidth - objDropBox.nWidth - ((typeof(document.body) != "undefined") && (typeof(document.body.rightMargin) != "undefined") ? document.body.rightMargin : 10);
+				
+				if ( objDropBox.nRightOffset > 0 )
+				{
+					nLeft-= objDropBox.nRightOffset; 
+				}				
+
+				if (document.layers)
+					varMainCell.left= nLeft;
+				else
+					varMainCell.style.left= nLeft;
+			}
+		}
+	}
+}
+
+// Init drop box
+dropbox_init();
+
 
 window.name= "mainmergentwindow";
 
 function onsizebody()
 {
-	dropbox_resize();
-}
+	if(document.layers)	{history.go(0)}
 
-function onload_page()
-{
+	dropbox_resize();
+
 }
 
 function onloadbody()
 {
 	//Position the Company Analysis List dropbox relative to the bottom of the header to avoid differences between positioning in IE & NS
-	if(typeof(varDropBox) != "undefined")
-	{
- 		var elementdivHeader = BrseGetElement("tableHeader");
-		var nTop = elementdivHeader.offsetTop + elementdivHeader.offsetHeight;
-		nTop += 5;//Add the margin between the header and the dropbox.
-
-		if(typeof(nTop) != "number" || nTop <= 0)
-			nTop = 90; //Default;
-			
-		var nLeft = elementdivHeader.offsetLeft + elementdivHeader.offsetWidth - 260;
-		varDropBox.Move( nLeft, nTop );
-	}
 	dropbox_resize();
 
+
 	window.focus();
-	onload_page();
+
+	if(typeof(onload_page) != 'undefined')
+	{
+		onload_page();
+	}
 	
 	if(typeof(window_onload) != 'undefined')
 	{
@@ -64,7 +430,6 @@ function onloadbody()
 
 function opencountrypopup( szCountryCode )
 {
-	//var szRef= "http://www.cia.gov/cia/publications/factbook/geos/" + szCountryCode + ".html";
 	var szRef= "CountryProfiles/" + szCountryCode+ ".htm";
 	window.open(szRef,'Country','location=no,resizable=yes,toolbar=no,scrollbars=yes,status=yes,directories=no,menubar=no,width=800,height=520');
 }
@@ -74,64 +439,42 @@ function refreshpage()
 	window.location= "noticesCM.asp?contentscode=Privacy";
 }
 
-var bNavigator= navigator.appName.indexOf( "Netscape" ) != -1;
-
-
 function addtolist( szList, szCompany )
 {
-	if ( bNavigator == true )
-		window.addtolistframe.location= "addtolist.asp?list=" + szList + "&company=" + szCompany;
-	else
-		document.addtolistframe.location= "addtolist.asp?list=" + szList + "&company=" + szCompany;	
+
+	document.addtolistframe.location= "addtolist.asp?list=" + szList + "&company=" + szCompany;	
+
 }
 
 
 function addtolist_epic( szList, szEpic )
 {
-	if ( bNavigator == true )
-		window.addtolistframe.location= "addtolist.asp?list=" + szList + "&epic=" + szEpic;
-	else
-		document.addtolistframe.location= "addtolist.asp?list=" + szList + "&epic=" + szEpic;	
+
+	document.addtolistframe.location= "addtolist.asp?list=" + szList + "&epic=" + szEpic;	
+
 }
 
 function addtocustomreportlist( szPage )
 {
-	if ( bNavigator == true )
-		window.addtolistframe.location= "addtolist.asp?list=" + szList + "&company=" + szCompanyNo;
-	else
-		document.addtolistframe.location= "addtolist.asp?list=" + szList + "&company=" + szCompanyNo;
+
+	document.addtolistframe.location= "addtolist.asp?list=" + szList + "&company=" + szCompanyNo;
+
 }
 
 function addtocustomlist( szPage, varParams, varSourcePath )
 {
-	//varSourcePath= "http://217.10.133.25/compsearch.asp?type=basic";
 	varSourcePath= escape( varSourcePath );
 		
-	if ( bNavigator == true )
-	{
-		
-		window.addtolistframe.location= "addtocustomlist.asp?list=" + szPage + "&params=" + varParams + "&source=" + varSourcePath;
-	}
-	else
-	{
-		document.addtolistframe.location= "addtocustomlist.asp?list=" + szPage + "&params=" + varParams + "&source=" + varSourcePath;
-		//refreshpage();
-	}
+
+	document.addtolistframe.location= "addtocustomlist.asp?list=" + szPage + "&params=" + varParams + "&source=" + varSourcePath;
+
 }
 
 function addcurrentresults(nValue)
 {
-	if ( bNavigator == true )
-	{
-		
-		window.addtolistframe.location= "addresultstolist.asp?list=comparison&val="+nValue;
-	}
-	else
-	{
-		document.addtolistframe.location= "addresultstolist.asp?list=comparison&val="+nValue;
-		//refreshpage();
-	}
-	
+
+	document.addtolistframe.location= "addresultstolist.asp?list=comparison&val="+nValue;
+
 }
 
 function removecommas( szText )
@@ -176,7 +519,20 @@ function EndUserAdminLink(bValidated, nRole)
 	}
 }
 
-</script>
+
+</script><style type="text/css">
+#dropbox0main { z-index:0; position:absolute; left:10; top:10;}
+#dropbox1main { z-index:0; position:absolute; left:10; top:10;}
+#dropbox2main { z-index:0; position:absolute; left:10; top:10;}
+#dropbox3main { z-index:0; position:absolute; left:10; top:10;}
+#dropbox4main { z-index:0; position:absolute; left:10; top:10;}
+#dropbox5main { z-index:0; position:absolute; left:10; top:10;}
+#dropbox6main { z-index:0; position:absolute; left:10; top:10;}
+#dropbox7main { z-index:0; position:absolute; left:10; top:10;}
+#dropbox8main { z-index:0; position:absolute; left:10; top:10;}
+#dropbox9main { z-index:0; position:absolute; left:10; top:10;}
+</style>
+
 </head>
 
 <body onresize="onsizebody()" onload="onloadbody();">
@@ -219,14 +575,13 @@ function EndUserAdminLink(bValidated, nRole)
 </tbody></table>
 
 <iframe name="addtolistframe" id="AddToListFrame" width="0" height="0" frameborder="0"></iframe>
-
-
 <table width="100%" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td>
 <a href="home.asp"><b>Home</b>:</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;<b>Notices</b></td>
 </tr>
 </tbody></table>
+
 
 
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
@@ -319,80 +674,6 @@ and personal data protection policy, please feel free to contact us at <a href="
 		</td>
 	</tr>
 </tbody></table>
-
-<script language="javascript" type="text/javascript">
-
-	function removeSelectedComparisonItems()
-	{
-		var arrCheckBoxes= BrseGetElementsByName("comparisoncheck");
-		var arrDelCompanies= new Array();
-		
-		if ( arrCheckBoxes == null )
-		{
-			alert( "No Companies in list." );
-			return;
-		}
-		
-		if ( arrCheckBoxes.length == null )
-		{
-			if ( arrCheckBoxes.checked == true )
-				arrDelCompanies[ arrDelCompanies.length ]= arrCheckBoxes.company;
-		}
-		else
-		{		
-			for ( var nIndex= 0; nIndex< arrCheckBoxes.length; nIndex++ )
-			{
-				if ( arrCheckBoxes[ nIndex ].checked == true )
-					arrDelCompanies[ arrDelCompanies.length ]= arrCheckBoxes[ nIndex ].getAttribute("company");
-			}
-		}
-		
-		if ( arrDelCompanies.length == 0 )
-		{
-			alert( "No Companies Selected." );
-			return;
-		}
-		
-		// Generate URL
-		var szURL= new String( "removefromlist.asp?list=comparison&companies=" );
-		szURL+= arrDelCompanies.join( "|" );
-
-		if ( bNavigator == true )
-			window.addtolistframe.location= szURL;
-		else
-			document.addtolistframe.location= szURL;	
-	}
-	
-	function opencomparisonpopup()
-	{
-		
-		var arrCheckBoxes= BrseGetElementsByName("comparisoncheck");
-				
-		if ( arrCheckBoxes == null )
-		{
-			alert( "No Companies in list." );
-			return;
-		}
-		
-		var szRef= "comparisonreportpopup.asp";
-		
-		window.open(szRef,'Country','location=no,resizable=yes,toolbar=no,scrollbars=yes,status=yes,directories=no,menubar=no,width=639,height=520');
-	}
-	
-</script>
-<div id="comparisonlist_hidden" style="overflow:auto; position:absolute; left:0px; top:0px; width:0px; height:0px; ">
-	<div style="overflow:auto; height:110px;"><table border="0" width="100%" cellspacing="0" cellpadding="0">
-
-	<tbody><tr><td></td></tr>
-	</tbody></table></div>
-	<hr size="1">
-	<a href="javascript:opencomparisonpopup();">Create Comparison Report</a><br>
-
-	<a href="javascript:alert( 'No Companies in your list.' );">Create Multiple Company Report</a><br>
-	<a href="javascript:removeSelectedComparisonItems();">Delete Selected</a>&nbsp;|&nbsp;
-	<a href="javascript:addtolist('comparison', 'reset');">Clear All</a>
-</div>
-
 
 <table style="visibility:hidden" width="100%" id="tableSpaceDropBox" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td>&nbsp;</td></tr></tbody></table>
 
