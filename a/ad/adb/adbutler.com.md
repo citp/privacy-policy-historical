@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the adbutler.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205052806id_/http%3A//www.sparklit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adbutler.com privacy policy that was archived on 2002-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020618203352id_/http%3A//www.sparklit.com/privacy) for the most accurate reproduction.*
 
 # Sparklit.com - Privacy Policy
 
-| |   
+|  |   
 ---|---  
-[ Member Login](http://www.sparklit.com/commonlogin?)  
+[ Member Login](http://www.sparklit.com/common_admin.spark?)  
+[ Support Request](http://support.sparklit.com/?)  
+[ Agreements &  
+ Policies](http://www.sparklit.com/agreements.spark?)  
 [ Feature Request](http://www.sparklit.com/feature_request.spark?)  
 [ Feedback](http://www.sparklit.com/feedback.spark?)  
-[ Support Request](http://www.sparklit.com/support?)  
 [ Bug Report](http://www.sparklit.com/bug_report.spark?)  
-[ Featured Clients](http://www.sparklit.com/about/clients.spark?)  
-[ Our Network](http://www.sparklit.com/about/our_network?)  
    
   
   
@@ -18,13 +18,12 @@
  CORPORATE INFO  
 |   
 ---|---  
-[ About Us](http://www.sparklit.com/about?)  
-[ Business Dev](http://www.sparklit.com/busdev?)  
+[ About Sparklit](http://www.sparklit.com/about?)  
 [ Contact Us](http://www.sparklit.com/contact?)  
+[ Featured Clients](http://www.sparklit.com/about/clients.spark?)  
+[ Our Network](http://www.sparklit.com/about/our_network?)  
 [ Press Room](http://www.sparklit.com/press?)  
-[ Privacy Policy](http://www.sparklit.com/privacy?)  
-   
-   
+[ Privacy Policy](http://www.sparklit.com/agreements.spark?agreement=privacy&)  
    
   
   
