@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the classesusa.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204220104id_/http%3A//classesusa.com/info/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classesusa.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607231906id_/http%3A//www.classesusa.com/info/privacy.cfm) for the most accurate reproduction.*
 
-# ClassesUSA.com - Privacy Policy
+# Classroom Training and Online Classes from ClassesUSA.com
 
 ClassesUSA.com created this statement in order to assure you that any and all information that we gather about you supports our efforts in providing you with the most fulfilling learning services available. We have taken the proper measures to ensure that your learning experience with us is safe, secure, and enjoyable. 
 
