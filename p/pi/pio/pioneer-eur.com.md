@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pioneer-eur.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205032532id_/http%3A//www.pioneer-eur.com/eur/company.jsp%3Fcategory%3Dcompany/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pioneer-eur.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606054649id_/http%3A//www.pioneer-eur.com/eur/company.jsp%3Fcategory%3Dcompany/privacy) for the most accurate reproduction.*
 
-# Pioneer Europe Company Info
+# Pioneer Europe Privacy Policy
 
   
 The following statement outlines our policy regarding the privacy of the personally identifiable information our customers choose to share with us. We recognize that when you choose to provide us with information about yourself, you trust us to act in a responsible manner.
