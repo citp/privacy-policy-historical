@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the isedb.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601194300id_/http%3A//www.isedb.com/index.php%3Ft%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isedb.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602205249id_/http%3A//isedb.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - ISEDB.com
+# Privacy Policy - The Internet Search Engine Database - ISEDB.com
 
 In general, The Internet Search Engine Database(ISEDB.COM) does not collect, store, use or disclose personally identifying information The instances in which ISEDB does collect and use information are specifically described in this Privacy Policy.   
 ISEDB provides fun, easy to use services, including ISEDB directory (located at WWW.ISEDB.COM). This service may also be located on third party web sites and/or applications. ISEDB values its users and their concerns about privacy.   
@@ -32,4 +32,4 @@ Contact information provided in connection with problems, comments or requests i
 
 Finally, you may choose to provide contact information, other personally identifying information, and demographic information in order to participate in optional surveys or contests, which are run for promotional purposes. ISEDB uses such information to send you information about its products and to notify you if you win the contest. Finally, from time to time, but only with your permission, ISEDB may provide certain of its users' registration information to selected third parties who wish to participate in special promotions offered in conjunction with ISEDB. Users may opt-out of receiving such communications at any time by contacting ISEDB. 
 
-Questions regarding our privacy policies, and for assistance in opting out of our email lists please [contact us ](http://www.isedb.com/index.php?t=contact)
+Questions regarding our privacy policies, and for assistance in opting out of our email lists please [contact us ](https://web.archive.org/contact/)
