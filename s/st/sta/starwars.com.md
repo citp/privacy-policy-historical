@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the starwars.com privacy policy that was archived on 2001-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010330094403id_/http%3A//www.starwars.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starwars.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204200149id_/http%3A//www.starwars.com/site/privacy_policy.html) for the most accurate reproduction.*
 
-# Star Wars: Privacy Policy
+# Star Wars: Site Info | Privacy Policy
 
-  | 
-    
-    
-      
-
-**Online Privacy Policy**
+| 
 
 WELCOME! 
 
@@ -25,7 +20,7 @@ Please discuss this Privacy Policy with your children so that they will better u
 
 Generally, we limit the collection of information to what is known as non-personally identifiable information (such as, first name, age, state or country) and we will not require you to provide more information than is necessary to participate in any of our Web site activities. This information is collected so that visitors can participate in activities (such as, receiving our e-mail newsletter[s], building homepages, saving game designs and scores, participating in our question polls) without giving out unnecessary personal information other than an e-mail address. 
 
-However, in some areas on our Web site personally identifiable information is asked for and collected (for example, online sweepstakes, online promotions and the registered area of this site and you may not be able to access those areas or participate in certain activities without giving the necessary personal information. Where we request additional information from you in connection with a Web site's activity such information may be personal. Whenever we request that you submit such information, we will endeavor to notify you of our intended use of the information, as more specifically discussed below. PLEASE BE AWARE THAT YOU ARE UNDER NO OBLIGATION TO PROVIDE, AND CAN DECLINE TO PROVIDE, ANY REQUESTED INFORMATION AT ANY TIME. HOWEVER, IF YOU DECLINE, YOU MAY NOT BE ABLE TO PARTICIPATE IN CERTAIN ACTIVITIES AT THIS WEB SITE. 
+However, in some areas on our Web site personally identifiable information is asked for and collected (for example, online sweepstakes, online promotions and the registered area of this site) and you may not be able to access those areas or participate in certain activities without giving the necessary personal information. Where we request additional information from you in connection with a Web site's activity such information may be personal. Whenever we request that you submit such information, we will endeavor to notify you of our intended use of the information, as more specifically discussed below. PLEASE BE AWARE THAT YOU ARE UNDER NO OBLIGATION TO PROVIDE, AND CAN DECLINE TO PROVIDE, ANY REQUESTED INFORMATION AT ANY TIME. HOWEVER, IF YOU DECLINE, YOU MAY NOT BE ABLE TO PARTICIPATE IN CERTAIN ACTIVITIES AT THIS WEB SITE. 
 
 The types of information collected at this Web site may include: 
 
@@ -39,7 +34,7 @@ The types of information collected at this Web site may include:
 
 **HOW DO WE USE INFORMATION?:**
 
-**Registration:**
+ **Registration:**
 
 If this Web site has a registration procedure, our Web site's registration form requires users to give us contact information, unique identifiers, and demographic information. All registration information is submitted to us on a voluntary basis. We may also ask registered members to tell us how they found out about us. Once you register, we use customer contact information from the registration form to contact you, to send you information about our company and/or to give you updates on products and/or services. You may register on our Web site and choose not to receive information and updates by unchecking the relevant box on the registration form. IF YOU ARE UNDER 13, GET YOUR PARENT'S OR GUARDIAN'S CONSENT BEFORE YOU PROVIDE ANY INFORMATION. 
 
@@ -103,7 +98,7 @@ We take reasonable precautions to keep your personal information secure. We have
 
 **CHANGES:**
 
-**Our changes:**
+ **Our changes:**
 
 We reserve the right to change or remove this privacy policy at our discretion. If we decide to change our privacy policy we will post those changes here. We encourage you to visit this area frequently to stay informed. We will tell you via e-mail if we make any material changes in how we collect, use or we wish to share your child's information in any manner not previously authorized by you. We will require third parties with whom we have written agreements involving the sharing of personally identifiable information of kids under 13 to agree to protect the privacy of that information in accordance with applicable law. 
 
@@ -125,7 +120,7 @@ The terms of this Privacy Policy apply to all information submitted on this Web 
 
 **CONTACT INFORMATION:**
 
-We hope you have a better understanding of our commitment to protect privacy . If you have any questions or comments about anything in this Privacy Policy, please contact us at the address below. 
+We hope you have a better understanding of our commitment to protect privacy. If you have any questions or comments about anything in this Privacy Policy, please contact us at the address below. 
 
 If you have questions about our Privacy Policy, or wish to correct or delete information that Lucasfilm may have about you or your child, please contact us at the following address: 
 
@@ -137,10 +132,10 @@ Attn: Webmaster
 
 Or [click here](https://web.archive.org/share/feedback/privacy.html) to submit your questions online. 
 
-For additional information about our Web site, please see our [Terms of Use.](https://web.archive.org/web/20010330094403id_/http%3A//www.starwars.com/copyright.html) For the Privacy Policy: Appendix A, [click here.](https://web.archive.org/web/20010330094403id_/http%3A//www.starwars.com/appendix_a.html)
+For additional information about our Web site, please see our [Terms of Use.](https://web.archive.org/site/copyright.html) For the Privacy Policy: Appendix A, [click here.](https://web.archive.org/site/privacy_policy_a.html)
 
 Thanks. Have fun! Back to start of Our Privacy Policy. 
 
-© 2000 Lucasfilm Ltd. and/or its affiliated and related entities. All rights reserved. 
+© 2001 Lucasfilm Ltd. and/or its affiliated and related entities. All rights reserved. 
 
-|  
+| 
