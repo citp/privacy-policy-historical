@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashcardexchange.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605135201id_/http%3A//www.flashcardexchange.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashcardexchange.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205004228id_/http%3A//flashcardexchange.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,10 +8,10 @@ Main Menu:
 [Create Account (free)](https://web.archive.org/new_user.php "Create Account \(free\)")  
 [Directory](https://web.archive.org/directory/1090.html "Directory")  
 [Search](https://web.archive.org/search.php "Search")  
-[Features](https://web.archive.org/features.php "Features")  
-[Quick Start](https://web.archive.org/quick_start.php "Quick Start")  
+[Features](https://web.archive.org/docs/features "Features")  
+[Getting Started](https://web.archive.org/docs/getting_started "Getting Started")  
 [Email this page to a friend](https://web.archive.org/email_a_friend.php "Email this page to a friend")  
-[Contact Us](mailto:support@flashcardexchange.com "Contact Us")  
+[About this Site](https://web.archive.org/docs/about "About this Site")  
 [Help](https://web.archive.org/help.php "Help")
 
 Members: 
@@ -20,7 +20,9 @@ Members:
 [Account Info](https://web.archive.org/account_info.php "Account Info")  
 [Create Flashcards](https://web.archive.org/new_card_set.php "Create Flashcards")  
 [My Card Sets](https://web.archive.org/my_card_sets.php "My Card Sets")  
-[My Cardfiles](https://web.archive.org/my_card_files.php "My Cardfiles")  
+[My Card Files](https://web.archive.org/my_card_files.php "My Card Files")  
+[Change Requests](https://web.archive.org/change_requests.php "Change Requests")  
+[Private Messages](https://web.archive.org/private_messages.php "Private Messages")  
 [Marked Cards](https://web.archive.org/marked_cards.php "Marked Cards")  
 [Favorite Sets](https://web.archive.org/favorites.php "Favorite Sets")  
 [Hot Sync List](https://web.archive.org/hot_sync.php "Hot Sync List")  
