@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fabuloussavings.com privacy policy that was archived on 2003-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031003035820id_/http%3A//www.fabuloussavings.com/cmct/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabuloussavings.com privacy policy that was archived on 2004-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040626205618id_/http%3A//www.fabuloussavings.com/cmct/privacy) for the most accurate reproduction.*
 
 # FabulousSavings.com - Free printable coupons and online discount coupon codes for shops, restaurants, services
 
@@ -51,4 +51,4 @@ Our users are given the opportunity to ‘opt-out’ of having their information
 **How to Contact Us**  
 If you have any question or concerns about FabulousSavings.com policy for this site or its implementation you may contact us via email at: [privacy@fabuloussaving.com](mailto:privacy@fabuloussavings.com)
 
-**[ bookmark this site ] [[tell a friend about this site](http://www.fabuloussavings.com/cmct/tellafriend?id=) ]**
+**[ bookmark this site ] [[tell a friend about this site](https://web.archive.org/web/20040626205618id_/http%3A//www.fabuloussavings.com/cmct/tellafriend?id=) ]**
