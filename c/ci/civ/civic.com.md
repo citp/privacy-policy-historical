@@ -1,36 +1,72 @@
-> *The following text is extracted and transformed from the civic.com privacy policy that was archived on 1999-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19990909143026id_/http%3A//civic.com/services/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the civic.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203085900id_/http%3A//www.civic.com/privacy.asp) for the most accurate reproduction.*
 
-# civic.com Editorial Calendar
+# FCW Government Technology Group -- Privacy Policy
 
-[Copyright, Trademarks, Reprint and Linking Policies](https://web.archive.org/web/19990909143026id_/http%3A//civic.com/services/trademark.html)  
-[Editorial Guidelines](https://web.archive.org/web/19990909143026id_/http%3A//civic.com/services/policies.html)
+|  | 
 
-All e-mail mailing lists maintained by civic.com and its parent company, FCW Government Technology Group, contain the names of people who requested to receive information from us.
+## Information Collection
 
-Currently, e-mail addresses may be used by FCW Government Technology Group to promote FCW and IDG products and services, surveys, and for editorial consultations with users. When a user has given us explicit permission, his/her e-mail address may be rented to outside firms for promotional purposes. We allow users to "opt out" of receiving e-mail from outside firms and/or from FCW Government Technology Group and its sister companies when e-mail information is collected. Users who later decide they want to change their preferences may do so by sending e-mail to [subscriptions@fcw.com](mailto:subscriptions@fcw.com).
+Like all other Web sites, FCW.COM receives IP addresses from all users because this information is automatically reported by a users browser each time a Web page is viewed. Aggregated IP address information is used for various purposes:
 
-While FCW Government Technology Group will seek to require third parties with whom it has agreements to follow appropriate privacy policies, we do not bear any responsibility for any actions or policies of such third parties. 
+* To help diagnose problems with our server  
+* To improve the content and design of FCW.COM  
+* To gather broad demographic information.  
 
-civic.com collects no personally identifying information about individuals except when specifically and knowingly provided by such individuals. In addition, civic.com may place a "cookie" in the browser files of a user's computer. The cookie itself does not contain any personally identifying information although it will enable fcw.com to manage the banner advertisements presented to the user.
 
-The aggregated information we collect is used for the following purposes: 
+FCW.COM collects no personally identifying information about individuals except when specifically and knowingly provided by such individuals (for example, those who sign up for the MY FCW.COM customized features of the site or for our electronic newsletters). 
 
-    * to improve the content and design of the civic.com Web site 
-    * to help advertisers and potential advertisers asses the suitability of the site for their ad campaigns 
-**"Cookies"**  
-"Cookies" are a form of software technology used to collect non-personal information about visitors to any particular site. This type of information includes: type of browser used to access the Internet (i.e. Netscape 3.0, Internet Explorer 4.0), type of operating system (i.e. Windows 95, Macintosh) and the domain of the visitor's Internet service provider. 
+Our site's registration page only requires users to provide their name and email address to sign up. The user's contact information is also used to contact the visitor only when necessary. Users may opt-out of receiving future mailings when they sign up.
 
-The civic.com contracts with DoubleClick to sell and manage the advertisements that you see on the site. The advertisements help us bring you the fcw.com site without charge.
+## Cookies
 
-DoubleClick uses cookies to make sure that you do not see the same advertisements repeatedly and when possible, shows advertising that is relevant to you based on what you have seen previously. Cookies are anonymous. Neither FCW Government Technology Group nor DoubleClick knows the name, e-mail address, phone number, or home address of anybody who visits the fcw.com site or any other site in the DoubleClick Network. 
+FCW.COM may place a cookie in the browser files of a user's computer. The cookie itself does not contain any personally identifying information but enables FCW.COM to manage advertisements presented to users and to customize FCW.COM based on user preferences. All parts of FCW.COM where users are prompted to login or that are customizable require that they accept cookies. Those who do not wish to accept cookies should follow the procedures for disallowing them specified by their particular browser.
 
-The civic.com Web site is maintained by
+The data FCW.COM retains about our users is stored on a secure server. No one outside FCW.COM has access to the data. You can, at any time, access your profile and login information and change it or delete it. Even when you share your cells or pages with people, they cannot see, nor do they have access to your account. They can only view information in those cells you have chosen to share with them.
 
+## DoubleClick
+
+FCW.COM uses DoubleClick to serve online ads. DoubleClick does not use any information gathered from FCW.COM ads to open up a file on a particular user's browsing habits. FCW.COM is not a part of DoubleClick's Abacus Alliance; therefore, pages viewed on FCW.COM do not get entered into the Abacus database. Although DoubleClick does provide FCW with information about ad clickthroughs, it is strictly in the aggregate. FCW tracks how many viewers clicked on particular ads, how many times that ad was viewed, but not the actions of any individual.
+
+## E-mail
+
+All e-mail lists maintained by FCW contain the names of people who have requested to receive products or services from FCW Government Technology Group. Those products and services include Federal Computer Week, civic.com, FCW.COM newsletters, the CIO Summit Series, gBuys and the GovTech Expo.
+
+Currently, e-mail addresses may be used by FCW to promote FCW.COM, Federal Computer Week, civic.com and FCW conferences, events and services. E-mail addresses may also be used for surveys for requalification and for editorial consultations with users. 
+
+Users may choose to opt out of receiving e-mail from FCW or outside firms when they first provide their email information to FCW. In addition, every e-mail message from FCW or from an outside firms contains information on unsubscribing. Users who decide at any time to change their preferences may do so by sending an e-mail to [kristin_follin@fcw.com](mailto:kristin_follin@fcw.com).
+
+The e-mail address collected by FCW may be rented to outside firms for promotional purposes only with the permission of the user. Offers for which the names are rented are screened, and renters are required to target their offers carefully. While FCW seeks to require third parties with whom it has agreements to follow appropriate privacy policies, it does not bear any responsibility for any actions or policies of such third parties.
+
+## Subscribers' Data
+
+Subscribers to Federal Computer Week and civic.com receive their subscriptions based on their answers to identifying demographic information.
+
+The information collected from subscribers is used in the following ways:
+
+  1. to improve the content of FCW products 
+  2. to notify subscribers about requalification and renewal 
+  3. used by us for marketing FCW products and services 
+  4. used by our audit bureau to verify cumulative demographic statistics 
+  5. used by FCW for research surveys 
+  6. used by Editorial for consultation with readers 
+
+
+
+Postal addresses will be used to promote FCW products and services, and may be rented to selected outside firms for promotional purposes. Offers for which the names are rented are screened, and renters are required to target their offers carefully.
+
+## GBuys
+
+FCW's aggregated IT purchasing Web site for the public sector requires user registration for access to certain gBuys functions, including submittal of Deal Requests. FCW uses the registration information to verify buyer eligibility and to communicate current and future gBuys activities. gBuys users who register will be passed a cookie to facilitate the maintenance of a gBuys account. 
+
+Registration information from subscribers to Federal Computer Week and civic.com magazines has been pre-loaded into the GBUYS registration database. That information includes a portion of the demographic information the user submitted on his magazine qualification form.
+
+Once a gBuys user is "in a Deal," FCW will forward the information in the Deal Request (excluding the price) to the responsible. FCW will not publicly release any information on the originator of the Deal Request. FCW may aggregate the results of Deal Requests and post or publish such aggregated information, but individual users will not be identified. 
+
+All remarks, suggestions, materials and ideas (other than the Deal Request) communicated to FCW through gBuys become the property of FCW, and all intellectual property rights therein are transferred to FCW. Users must take responsibility for whatever material they submit, and the individual gBuys users, not FCW, have full responsibility for the message, including its legality, reliability and appropriateness.
+
+The fcw.com Web site is maintained by  
 FCW Government Technology Group  
 3141 Fairview Park Drive  
 Suite 777  
 Falls Church, VA 22042  
 703-876-5100
-
-
-
