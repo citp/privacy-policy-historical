@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the albertsons.com privacy policy that was archived on 2003-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030921081523id_/http%3A//www.albertsons.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the albertsons.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401201944id_/http%3A//www.albertsons.com/privacy.asp) for the most accurate reproduction.*
 
 # Albertsons - Security & Privacy
 
