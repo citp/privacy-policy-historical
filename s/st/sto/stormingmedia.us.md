@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stormingmedia.us privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605200436id_/http%3A//www.stormingmedia.us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stormingmedia.us privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204165201id_/http%3A//www.stormingmedia.us/privacy.html) for the most accurate reproduction.*
 
 # Storming Media - Privacy Policy
 
@@ -30,6 +30,6 @@ At present, Storming Media makes no communications with past customers, except t
 
 We do envision, however, the possibility of sending very infrequent emails to past customers notifying them of major new features of the site. In this eventuality, Storming Media will provide a user-friendly system to opt out of future mailings.
 
-Storming Media may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Storming Media account or by placing a prominent notice on our site. If you have questions or suggestions, please [contact us](https://web.archive.org/web/20040605200436id_/http%3A//www.stormingmedia.us/contactus.html).
+Storming Media may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Storming Media account or by placing a prominent notice on our site. If you have questions or suggestions, please [contact us](https://web.archive.org/web/20041204165201id_/http%3A//www.stormingmedia.us/contactus.html).
 
 If you would like to learn more about safe surfing from the US Federal Trade Commission, click [here](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm).
