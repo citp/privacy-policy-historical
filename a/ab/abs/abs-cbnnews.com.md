@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abs-cbnnews.com privacy policy that was archived on 2000-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000301091758id_/http%3A//www.abs-cbnnews.com/abs/faq.nsf/nfplookup/privacy%2Bpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abs-cbnnews.com privacy policy that was archived on 2000-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001201224300id_/http%3A//www.abs-cbnnews.com/abs/faq.nsf/nfplookup/privacy%2Bpolicy) for the most accurate reproduction.*
 
 # abs-cbnNEWS.com | F.A.Q. - Privacy Policy
 
@@ -28,6 +28,7 @@ ABS-CBN is not responsible for the content or the privacy policies of Web sites 
 The foregoing policies are effective as of November 23, 1998. ABS-CBN reserves the right to change this policy at any time by notifying subscribers of a new privacy statement. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
 |  |  |  |    
+  
   
   
   
