@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americredit.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203222030id_/http%3A//www.americredit.com/Customers/PrivacyOptOut/PrivacyOptOut.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americredit.com privacy policy that was archived on 2004-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040624221804id_/http%3A//www.americredit.com/Customers/PrivacyOptOut/PrivacyOptOut.asp) for the most accurate reproduction.*
 
 # AmeriCredit: Privacy
 
@@ -168,7 +168,7 @@ You have the right to ask us not to share some of the information listed earlier
 
 This opt-out does not allow you to opt-out of disclosures necessary in servicing your account, such as collection activities or reporting your information to credit reporting agencies. If you wish to opt-out of disclosures, you must do so by using one of the following methods:
 
-  * Complete in full the [attached form](https://web.archive.org/web/20031203222030id_/http%3A//www.americredit.com/Customers/PrivacyOptOut/OptOutForm.pdf), and return it to us at: 
+  * Complete in full the [attached form](https://web.archive.org/web/20040624221804id_/http%3A//www.americredit.com/Customers/PrivacyOptOut/OptOutForm.pdf), and return it to us at: 
     * **AmeriCredit Financial Services, Inc.  
 P. O. Box 183621  
 Arlington, Texas 76096-3621**
