@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mi.gov privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009203321id_/http%3A//www.mi.gov/emi/0%2C1303%2C7-102----PP%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mi.gov privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403221919id_/http%3A//www.mi.gov/som/0%2C1607%2C7-192-26914-2088--%2C00.html) for the most accurate reproduction.*
 
-# State of Michigan
+# Michigan Privacy Policy
 
 **Scope**
 
@@ -34,7 +34,7 @@ Michigan will only send personal information about you to others when:
 
   * we have your consent to share the information; or
   * we need to share your information to provide the product or service you have requested; or
-  * we are authorized to do so by law (e.g., to respond to subpoenas, court orders, legal process, or to requests pursuant to a statute requiring or permitting disclosure such as the [Freedom of Information Act. MCL 15.231, et seq.: MSA 4.1801(1) et seq](http://www.michiganlegislature.org/law/mileg.asp?page=getObject&objName=mcl-15-231&userid=).)
+  * we are authorized to do so by law (e.g., to respond to subpoenas, court orders, legal process, or to requests pursuant to a statute requiring or permitting disclosure such as the [Freedom of Information Act. MCL 15.231, et seq.: MSA 4.1801(1) et seq](http://www.michiganlegislature.org/mileg.asp?page=getObject&objName=mcl-Act-442-of-1976&queryid=8156176&highlight=Freedom%20of%20Information).)
 
 _Editing and Deleting Your Account Information_
 
