@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the aopa.org privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606223259id_/http%3A//www.aopa.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aopa.org privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209093059id_/http%3A//www.aopa.org/privacy_policy.html) for the most accurate reproduction.*
 
 # AOPA Online - Privacy Policy Statement
 
-This is the web site of the **Aircraft Owners and Pilots Association**. 
+This is the web site of the **Aircraft Owners and Pilots Association**.  
 
-Our postal address is   
+
+Our postal address is  
 **421 Aviation Way  
 Frederick, MD 21701**
 
-We can be reached via e-mail at [aopahq@aopa.org](mailto:aopahq@aopa.org) or you can reach us by telephone at (301) 695-2000. 
+We can be reached via e-mail at [aopahq@aopa.org](mailto:aopahq@aopa.org) or you can reach us by telephone at (301) 695-2000.
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name (where possible), but not the e-mail address.
 
@@ -16,7 +17,7 @@ We collect the domain name of visitors to our Web page (where possible). We also
 
 The information we collect is used to improve the content of our Web page, and is not shared with other organizations for commercial purposes.
 
-If you supply us with your e-mail address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
+If you supply us with your e-mail address, you may receive periodic messages from AOPA and AOPA's Certified Products and Service providers with information on important legislative activities, your membership status and benefits or upcoming events. AOPA does not trade or sell e-mail addresses. If at any time you do not want to receive e-mails from AOPA, please let us know by e-mailing us at [memberassistance@aopa.org](mailto:memberassistance@aopa.org).
 
 If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by sending us e-mail at the above address.
 
@@ -35,11 +36,3 @@ With respect to ad servers: We do not partner with or have special relationships
 With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
-
-* * *
-
-Top
-
-_Posted on Tuesday, December 21, 1999 11:42:05 AM_
-
-* * *
