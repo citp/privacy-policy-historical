@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the miamidolphins.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203195700id_/http%3A//miamidolphins.com/legal/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miamidolphins.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204204525id_/http%3A//www.miamidolphins.com/legal/privacystatement.asp) for the most accurate reproduction.*
 
-# Official NFL Web Site of the Miami Dolphins -- Legal
+# MiamiDolphins.com
+
+  
+
 
 Your right to privacy is a concern to us. At Miami Dolphins Ltd. on the Internet we are helping you maintain control over your personal data while fostering the growth of a more interactive environment. Below are the guidelines we use for protecting the information you provide during a visit to our Internet site (www.miamidolphins.com). For a summary of our corporate-wide privacy statement, [click here](https://web.archive.org/legal/summary.asp).
 
@@ -64,7 +67,7 @@ Go to top of page.
 
 **Internet Commerce**
 
-The online store at www.miamidolphins.com/proshop is designed to give you control over the privacy of your credit card information, name, address, e-mail and any other information you provide us. We offer the industry standard security measures available through your browser called SSL. If at any time you would like to make a purchase, but would rather give your credit card or purchase order information to a representative over the telephone, you may do so. Simply call 1-800-553-7152.
+The online store at www.miamidolphinsproshop.com is designed to give you control over the privacy of your credit card information, name, address, e-mail and any other information you provide us. We offer the industry standard security measures available through your browser called SSL. If at any time you would like to make a purchase, but would rather give your credit card or purchase order information to a representative over the telephone, you may do so. Simply call 1-800-553-7152.
 
 When you provide your personal information such as name, address, phone number and company name, Miami Dolphins Ltd. will not give or sell this information to any outside company for any use. However, it has always been a Miami Dolphins Ltd. policy to contact customers in the event of a potential problem with your purchase or any normal business communication regarding your purchase.
 
@@ -117,10 +120,7 @@ If you have any further questions regarding our privacy policy you may reach us 
 Marketing Department  
 Miami Dolphins Ltd.  
 7500 SW 30 St.   
-Davie Fl. 33314  
+Davie, FL 33314  
 (954) 452-7000
 
 Go to top of page.
-
-  
-
