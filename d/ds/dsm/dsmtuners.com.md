@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dsmtuners.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604065028id_/http%3A//dsmtuners.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsmtuners.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203025508id_/http%3A//www.dsmtuners.com/privacy.php) for the most accurate reproduction.*
 
 # DSMtuners.com - Mitsubishi Eclipse, Eagle Talon, and Plymouth Laser Performance
 
@@ -14,4 +14,4 @@ The information collected is used for administration purposes and to help improv
 **Use of cookies**  
 We set and access cookies on your computer each time you access our website. These cookies are used to determine whether you have been to our website before, to automatically store your password, and to ensure the efficient use of ad rotation. 
 
-This policy is subject to change, so please check back periodically. Direct all questions regarding this policy to [ webmaster@DSMtuners.com](mailto:webmaster@dsmtuners.com)
+This policy is subject to change, so please check back periodically. Direct all questions regarding this policy to [ the webmaster](https://web.archive.org/contactus.php). 
