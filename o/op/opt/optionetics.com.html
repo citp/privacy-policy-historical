@@ -1,9 +1,11 @@
-<!--The following is the downloaded HTML source of the optionetics.com privacy policy that was archived on 2004-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204112626id_/http%3A//www.optionetics.com/legal.asp%23privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the optionetics.com privacy policy that was archived on 2005-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050403182333id_/http%3A//www.optionetics.com/legal.asp%23privacy) for the most accurate reproduction.-->
 
 <html><head><title>Optionetics
 
 </title>
+
+
 
 <link rel="STYLESHEET" type="text/css" href="/include/stylesheet.css" title="optionetics">
 	
@@ -98,7 +100,7 @@ function isEmpty(f)
   for(var i=0; i< f.length; i++) {
     var e = f.elements[i];
 	if (((e.type == "text") || (e.type == "textarea")) && !e.optional)  {
-	  if ( (e.value == null) || (e.value == "") ) {
+	  if ( (trim(e.value) == null) || (trim(e.value) == "") ) {
 	    empty_fields += "\n         "+e.name;
 		continue;
 	  }
@@ -132,6 +134,29 @@ function open_console(ref_url, name, height, width) {
 	window.open(ref_url, name, 'toolbar=no,height='+height+',width='+width+',directories=no,status=no,scrollbars=no,resize=yes,menubar=no');
 }
 
+function trim(inputString) {
+  // Removes leading and trailing spaces from the passed string. Also removes
+  // consecutive spaces and replaces it with one space. If something besides
+  // a string is passed in (null, custom object, etc.) then return the input.
+  if (typeof inputString != "string") { return inputString; }
+  var retValue = inputString;
+  var ch = retValue.substring(0, 1);
+  while (ch == " ") { // Check for spaces at the beginning of the string
+    retValue = retValue.substring(1, retValue.length);
+    ch = retValue.substring(0, 1);
+  }
+  ch = retValue.substring(retValue.length-1, retValue.length);
+  while (ch == " ") { // Check for spaces at the end of the string
+    retValue = retValue.substring(0, retValue.length-1);
+    ch = retValue.substring(retValue.length-1, retValue.length);
+  }
+  //while (retValue.indexOf("  ") != -1) { // Note that there are two spaces in the string - look for multiple spaces within the string
+  //  retValue = retValue.substring(0, retValue.indexOf("  ")) + retValue.substring(retValue.indexOf("  ")+1, retValue.length); // Again, there are two spaces in each of the strings
+  //}
+  return retValue; // Return the trimmed string back to the user
+} 
+
+
 // -->
 
 </script>
@@ -153,7 +178,7 @@ function open_console(ref_url, name, height, width) {
 				var random = abc.substring(2,abc.length);
 				// -->
 				document.write('<IFRAME SRC="http://ad.doubleclick.net/adi/optionetics.tmus/frontpage;sz=468x60;tile=1;ord='+random+'?" name="frame1" width="468" height="60" frameborder="no" border="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="no">');
-			        </script><iframe src="http://ad.doubleclick.net/adi/optionetics.tmus/frontpage;sz=468x60;tile=1;ord=2865441704930116?" name="frame1" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
+			        </script><iframe src="http://ad.doubleclick.net/adi/optionetics.tmus/frontpage;sz=468x60;tile=1;ord=6905025742395559?" name="frame1" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
                         				
 				<SCRIPT language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/optionetics.tmus/frontpage;abr=!ie;sz=468x60;tile=1;ord='+random+'?">');
 				</SCRIPT>
@@ -442,8 +467,8 @@ function open_console(ref_url, name, height, width) {
     <td height="10"><img src="/images/dot_clear.gif" width="1" height="10" alt="" border="0"></td>
   </tr>
   <tr>
-	<td class="fixedfont"><div align="center">Copyright © 1995-2004 Global Investment Research Corp. All Rights Reserved<br>
-	See our important <a href="/legal.asp">Legal Notices and Disclaimers</a>, <a href="/legal.asp#UK">Hong Kong, UK, Australian and New Zealand Residents</a>, <a href="/legal.asp#privacy">Privacy Policy</a>, <a href="/terms.asp">Terms of Use</a><br> and 
+	<td class="fixedfont"><div align="center">Copyright © 1995-2005 Global Investment Research Corp. All Rights Reserved<br>
+	See our important <a href="/legal.asp">Legal Notices and Disclaimers</a>, <a href="/legal.asp#UK">Hong Kong, UK, Australian and New Zealand Residents</a>, <a href="/legal.asp#privacy">Privacy Policy</a>, <a href="/terms.asp">Using this site means you accept its terms </a><br> and 
 	Chicago Board Options Exchange (CBOE) <a href="http://www.cboe.com/Resources/Intro.asp">Disclosure</a></div></td>
   </tr>
 </tbody></table>
