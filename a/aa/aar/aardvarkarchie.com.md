@@ -1,0 +1,18 @@
+> *The following text is extracted and transformed from the aardvarkarchie.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603213637id_/http%3A//www.aardvarkarchie.com/features/privacy.htm) for the most accurate reproduction.*
+
+# Aardvark Archie's Rude Humor
+
+|  | [](http://www.aardvarkarchie.com/) | **Privacy Policy**  
+---|---  
+Aardvark Archie's Rude Humor (hereafter called AARH), and its advertisers and affiliates are deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information. 
+
+**Consumer Information**   
+During the process of browsing our pages, AARH does not collect any personally identifiable information about you such as name, address, phone number, or e-mail address. However, AARH does obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). The information collected by AARH is used for the purpose of targeting ads and measuring ad effectiveness on behalf of our advertisers. In some cases, you may voluntarily provide personal information in response to a specific form (this form may ask you to fill out a survey or provide personal details). If this does occur, AARH will collect this in our database. This information is used to respond to your request, or to enter your details in a competition. In addition, AARH may combine this information with other users' information and review it in an aggregate form to understand the type of individuals who use a specific type of form or enter our competitions. Personal details will never be passed on to third parties without your consent, except in the case of winning competition entries, where your details will be forwarded to the relevant awarding company only.
+
+**email**  
+We manage an email newsletter, delivering news and site information to all our visitors that have selected to be included in this service. You will not receive this newsletter unless you specifically request to do so in any of the forms on this site. To unsubscribe from our newsletter, you just reply to the original email and type the word; 'unsubscribe' in the subject line.
+
+**Data Collection**  
+AARH, as well as most sites on the Internet, uses "cookies" to enhance your experience on the web. AARH cannot use these cookies to personally identify you in any way. What are cookies and why do we use them? A cookie is a unique number that is provided to you the first time AARH serves you a page. This unique number, which is stored in a cookie file on your computer, helps AARH target ads to you. This cookie can help AARH ensure that we don't serve you the same ad multiple times, and help our advertisers understand what you like and don't like about their offerings so that they can cater better to your needs the next time you are interested in their products or services. While we believe that cookies enhance your Internet experience by limiting the number of times you see the same ad and delivering more relevant content to you, they are not required for AARH to deliver you an ad. If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Please consult your web browser's Help documentation for more information. 
+
+If you have any additional questions about AARH 's dedication to consumer privacy, please contact us at [privacy@aardvarkarchie.com](mailto:privacy@aardvarkarchie.com)
