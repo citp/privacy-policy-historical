@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iherb.com privacy policy that was archived on 2004-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041030041655id_/http%3A//www.iherb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iherb.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305164925id_/http%3A//www.iherb.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,7 +9,7 @@ Effective on 02/18/2004
 **TRUSTe Licensee**  
 iHerb is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site www.iherb.com. Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If you have any questions regarding this privacy statement please do not hesitate in contacting us. Email your questions to [info@iherb.com](mailto:info@iherb.com). If you do not receive acknowledgment of your inquiry or your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the _TRUSTe Watchdog Dispute Resolution Process_ at <http://www.truste.org/watchdog.html>. TRUSTe will serve as a liaison with the Web site to resolve users concerns
+If you have any questions regarding this privacy statement please do not hesitate in contacting us. Email your questions to [info@iherb.com](mailto:info@iherb.com). If you do not receive acknowledgment of your inquiry or your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the _TRUSTe Watchdog Dispute Resolution Process_ at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will serve as a liaison with the Web site to resolve users concerns
 
 **Information Collected and How it is Used**  
 If you opted to register with us you are asked for a login id and a password to establish the registration. Once registered you may input Name, and address to facilitate ordering and reordering from iHerb. However, registration is not required to order from us.
