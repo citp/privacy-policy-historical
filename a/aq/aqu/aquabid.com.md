@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aquabid.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203004752id_/http%3A//aquabid.com/help/helppriv.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquabid.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622190314id_/http%3A//www.aquabid.com/help/helppriv.htm) for the most accurate reproduction.*
 
 # AquaBid.com - Privacy Policy
 
@@ -15,7 +15,7 @@ When you do provide us with personal data, we may use that information in the fo
 
 When you provide your personal information to this auction (such as name, address, phone number, company name, email address, credit card number, or the products you are shopping for or purchasing) **we will not give or sell your individual information to any outside company** for its use in marketing or solicitation. We will maintain the confidentiality of your personal information and **it will be used only to support your customer relationship with** **us**. Additionally, internal practices help protect your privacy by limiting employee access to and use of customer data.
 
-If you have any questions or concerns in this area we are happy to respond personally to you; [e-mail us](https://web.archive.org/web/20031203004752id_/http%3A//aquabid.com/help/ContactUs.htm).
+If you have any questions or concerns in this area we are happy to respond personally to you; [e-mail us](https://web.archive.org/web/20040622190314id_/http%3A//www.aquabid.com/help/ContactUs.htm).
 
 To elaborate: All exchanges between you and us will remain _confidential_ with no personally identifiable information being sold or provided to any third party.
 
@@ -28,7 +28,10 @@ This includes:
 
 
 
-  
+**Legal Requests**
+
+AquaBid.com cooperates with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights, to help protect you and the AquaBid.com community from bad actors. Therefore, in response to a verified request by law enforcement or other government officials relating to a criminal investigation or alleged illegal activity, we can (and you authorize us to) disclose your name, city, state, telephone number, email address, username history, fraud complaints, and bidding and listing history without a subpoena. Without limiting the above, in an effort to respect your privacy and our ability to keep the community free from bad actors, we will not otherwise disclose your personal information to law enforcement or other government officials without a subpoena, court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to: prevent imminent physical harm or financial loss; or report suspected illegal activity.
+
 **Children**
 
 AquaBid.com has no intention of collecting any personal data from individuals under thirteen years of age. Where appropriate, the Company will specifically instruct children not to submit such information on our websites and/or will take reasonable steps to ensure parental consent to such submission.
@@ -43,4 +46,8 @@ In some cases, we may automatically (i.e., not via registration) collect technic
   
 **Information Placed Automatically on Your Computer -- Cookies**
 
-When you view one of our websites, we may store some information on your computer. This information will be in the form of a "Cookie" or similar file and can help us in many ways. For example, Cookies allow us to tailor a website to better match your interests and preferences. With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies or receive a warning before a Cookie is stored. Please refer to your Browser instructions or help screen to learn more about these functions.
+When you view one of our websites, we may store some information on your computer. This information will be in the form of a "Cookie" or similar file and can help us in many ways. For example, Cookies allow us to tailor a website to better match your interests and preferences. With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies or receive a warning before a Cookie is stored. Please refer to your Browser instructions or help screen to learn more about these functions.  
+  
+Copyright © 2000-2004 AquaBid.com All Rights Reserved.  
+Use of this Web site constitutes acceptance of the AquaBid.com [User Agreement](http://www.aquabid.com/help/user.htm) and [Privacy Policy](http://www.aquabid.com/help/helppriv.htm).  
+Site by [ AquaNetwork.com](http://www.aquanetwork.com/)
