@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cornerstone.edu privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610200837id_/http%3A//www.cornerstone.edu/home.nsf/PRV/Privacy%3FOpenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cornerstone.edu privacy policy that was archived on 2002-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021016112007id_/http%3A//www.cornerstone.edu/home.nsf/PRV/Privacy%3FOpenDocument) for the most accurate reproduction.*
 
 # Cornerstone University: Privacy Statement
 
