@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sonomalibrary.org privacy policy that was archived on 2002-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021012091358id_/http%3A//www.sonoma.lib.ca.us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonomalibrary.org privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622064410id_/http%3A//www.sonoma.lib.ca.us/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for the Sonoma County Library Web Pages
 
 ###  Privacy Statement
 
-[ En Español](https://web.archive.org/web/20021012091358id_/http%3A//www.sonoma.lib.ca.us/espprivacy.html)
+[ En Español](https://web.archive.org/web/20030622064410id_/http%3A//www.sonoma.lib.ca.us/espprivacy.html)
 
 Thank you for visiting the Sonoma County Library’s web site. We are committed to preserving the privacy of our visitors and patrons. We do not collect personal information about you just because you visit this site. 
 
