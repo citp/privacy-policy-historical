@@ -1,34 +1,6 @@
-> *The following text is extracted and transformed from the ntis.gov privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205072900id_/http%3A//www.ntis.gov/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntis.gov privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603181859id_/http%3A//www.ntis.gov/about/privacy.htm) for the most accurate reproduction.*
 
 # NTIS Privacy & Security
-
-| 
-
-[](http://www.ntis.gov/about/index.html)  
-  
----  
-  
-**[Agency Overview](http://www.ntis.gov/about/mission.htm)**  
-  
-**[How NTIS can help you](http://www.ntis.gov/about/how_helps.htm)**  
-  
-**[Number of products received annually](http://www.ntis.gov/about/input-by-topic.htm)**  
-  
-**[Contacting Us](http://www.ntis.gov/about/index.html#contact)**  
-  
-**[Events/Exhibits](http://www.ntis.gov/about/exhibits.htm)**  
-  
-**[Privacy/Security](http://www.ntis.gov/about/privacy.htm)**  
-  
-**[Visiting NTIS](http://www.ntis.gov/support/visiting.htm)**  
-  
-[](http://www.ntis.gov/email.htm)
-
-  
-  
-
-
-  | 
 
 ##  Privacy & Security
 
@@ -49,8 +21,6 @@ _NTIS is committed to protecting your privacy and will collect no personal infor
 
 
 
-> This information is aggregated and only used by NTIS to improve our web site. We use it to determine information such as which of our web site pages are accessed the most, what browsers to design for, and what our weekly activity is. NTIS uses WebTrends Live to analyze traffic to this web site. WebTrends Live does not create individual profiles for visitors and does not have a database of individual profiles for each visitor. WebTrends Live only collects aggregate data. For more information about WebTrends Live [privacy policy](http://www.webtrendslive.com/privacy_policy.htm)" 
-
 2\. If you send us an e-mail, we will only use it to respond to your message or to provide you ongoing information if you request it.
 
 3\. If you purchase a product on-line, we collect personal information required to support the purchasing of products, including names, addresses, telephone and fax numbers and e-mail addresses.
@@ -67,8 +37,6 @@ _** "Cookies" are small pieces of information that are stored by your browser on
 * * *
 
 | [Search](http://www.ntis.gov/search.htm) | [Customer support](http://www.ntis.gov/support/index.html) | [Product](http://www.ntis.gov/products/index.html)[s](http://www.ntis.gov/products/index.html) | [About NTIS](http://www.ntis.gov/about/index.html) | [Site index](http://www.ntis.gov/siteindex.htm) | [Home](http://www.ntis.gov/index.html) |  
-| [Services for agencies](http://www.ntis.gov/services/index.html) [](http://www.ntis.gov/support/index.html)| [Review order](http://chaos.fedworld.gov/coin_cartmgr/cartmgr.cgi?action=DISPLAY_CART&template=onow.cart_display.html.txt&error_template=default_error.html.txt&return_url=www.ntis.gov/%22) | [Pickup download ](http://chaos.fedworld.gov/coin_cartmgr/cartmgr.cgi?action=DISPLAY_DOC&template=onow.previous_order_login.html.txt&amp;error_template=onow.default_error.html.txt&return_url=http://www.ntis.gov/) | [Privacy](http://www.ntis.gov/about/privacy.htm) | [Feedback](http://www.ntis.gov/feedback.htm) |
+| [Services for agencies](http://www.ntis.gov/services/index.html) [](http://www.ntis.gov/support/index.html)| [Review order](http://chaos.fedworld.gov/coin_cartmgr/cartmgr.cgi?action=DISPLAY_CART&template=onow.cart_display.html.txt&error_template=default_error.html.txt&return_url=www.ntis.gov/%22) | [Pickup download ](http://chaos.fedworld.gov/coin_cartmgr/cartmgr.cgi?action=DISPLAY_DOC&template=onow.previous_order_login.html.txt&amp;error_template=onow.default_error.html.txt&return_url=http://www.ntis.gov/) | [Privacy statement](http://www.ntis.gov/about/privacy.htm) | [Feedback](http://www.ntis.gov/feedback.htm) |
 
-\- 
-
-10/24/2000
+\- 03/29/2001
