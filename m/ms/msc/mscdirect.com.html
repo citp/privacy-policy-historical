@@ -1,18 +1,19 @@
-<!--The following is the downloaded HTML source of the mscdirect.com privacy policy that was archived on 2000-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001205012500id_/http%3A//www.mscdirect.com/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mscdirect.com privacy policy that was archived on 2001-04-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010408233714id_/http%3A//www.mscdirect.com/privacy.shtml) for the most accurate reproduction.-->
 
 <html><head>
 <title>MSC Industrial Supply Co.</title>
 <link href="/css/content.css" rel="stylesheet" type="text/css">
-<!--KEYVER:120-->
+<script language="javascript1.1" src="/jsparser.js"></script>
 </head>
 
-<body marginwidth="0" marginheight="0" leftmargin="0" topmargin="0" bgcolor="White" link="#FF2905" vlink="#9660AE">
+<body marginwidth="0" marginheight="0" leftmargin="0" topmargin="0" bgcolor="White" link="#FF2905" vlink="#9660AE" onload="loadQueryString();assignValues();">
+
 <script language="javascript">
 <!-- //
 function addLeadingZeros(form){
  // Script for adding leading zeros to MSC Part Number
- if (form.search_cat.options[form.search_cat.selectedIndex].value == 5 && form.Item_Number.value){
+ if (form.search_cat.options[form.search_cat.selectedIndex].value == "5" && form.Item_Number.value){
   while (form.Item_Number.value.length < 8)
  form.Item_Number.value = "0" + form.Item_Number.value;
 
@@ -22,11 +23,11 @@ function addLeadingZeros(form){
 
 function funQuickSearchHeader(objKeySearch)
 {
- if (objKeySearch.search_cat.options[objKeySearch.search_cat.options.selectedIndex].value == 3){
+ if (objKeySearch.search_cat.options[objKeySearch.search_cat.options.selectedIndex].value == "3"){
   objKeySearch.searchmanufpartno.value = objKeySearch.query.value;
   objKeySearch.dispmanufpartno.value = objKeySearch.query.value;
  }else{
-  if ((objKeySearch.search_cat.options[objKeySearch.search_cat.options.selectedIndex].value == 5 || objKeySearch.search_cat.options[objKeySearch.search_cat.options.selectedIndex].value == 9) && objKeySearch.query.value){
+  if ((objKeySearch.search_cat.options[objKeySearch.search_cat.options.selectedIndex].value == "5" || objKeySearch.search_cat.options[objKeySearch.search_cat.options.selectedIndex].value == "9") && objKeySearch.query.value){
    while (objKeySearch.query.value.length < 8)
     objKeySearch.query.value = "0" + objKeySearch.query.value;
    return objKeySearch.query;
@@ -45,7 +46,7 @@ function funQuickSearchHeader(objKeySearch)
  </tr>
  <tr>
   <td colspan="2" bgcolor="000099" align="center" width="130" class="nav">
-<a href="http://www.mscdirect.com/default.htm"><img border="0" src="/images/sb_logo.gif" width="130" height="46" alt="home"></a>
+<a href="http://www.mscdirect.com/mscdirect.process"><img border="0" src="/images/sb_logo.gif" width="130" height="46" alt="home"></a>
   </td>
   <td width="5" bgcolor="#000099">
 <!-- spacing -->
@@ -59,7 +60,8 @@ function funQuickSearchHeader(objKeySearch)
 <table border="0" cellspacing="0" cellpadding="0">
  <tbody><tr>
   <td bgcolor="#000099" nowrap="" class="qo">
-<img border="0" src="/images/quick_search1.gif" width="78" height="60" alt="search by MSC, mfr, competitor or customer part numbers">
+<img border="0" src="/images/quick_search_w_tips.gif" width="78" height="60" alt="search by keyword, MSC, mfr, competitor or customer part numbers" usemap="#searchTips">
+<map name="searchTips"><area shape="rect" coords="10,48,72,60" href="http://www.mscdirect.com/custsupp/searchtips.shtml" alt="search tips"></map>
   </td>
 
   <td bgcolor="#000099" valign="top">
@@ -74,17 +76,13 @@ function funQuickSearchHeader(objKeySearch)
  <input type="hidden" name="QuickFlag" value="1">
  <input type="hidden" name="Merchant_Id" value="1">
  <tbody><tr>
-  <td valign="center">
-<input type="text" name="query" value="" size="17" class="navsrch">
-  </td>
-  <td class="qo" style="vertical-align:middle;">
-<input type="image" border="0" src="/images/hm_go_btn_trim.gif" alt="go">
-  </td>
+  <td valign="center"><input type="text" name="query" maxlength="1500" value="" size="17" class="navsrch"></td>
+  <td class="qo" style="vertical-align:middle;"><input type="image" border="0" src="/images/hm_go_btn_trim.gif" alt="go"></td>
  </tr>
  <tr>
   <td colspan="2">
 <select name="search_cat" style="font-family:arial;font-size:8pt;">
- <option value="9">&lt;select one&gt;</option>
+ <option value="K">Keyword</option>
  <option value="5">MSC Part #</option>
  <option value="3">Manufacturer Part #</option>
  <option value="7">Competitor Part #</option>
@@ -150,10 +148,10 @@ function funQuickSearchHeader(objKeySearch)
       <form method="get" action="http://www.mscdirect.com/PDF.process"></form>
       <tbody><tr>
        <td class="pdfText">
-        <table cellpadding="0" cellspacing="0" border="0">
+        <map name="quotepad"><area shape="rect" coords="12,49,68,62" href="http://www.mscdirect.com/custsupp/reqquote.shtml" alt="special requests, orders and quotations"></map><table cellpadding="0" cellspacing="0" border="0">
          <tbody><tr>
-		<td><img src="/images/bb_search.gif" width="71" height="54" alt="enter a big book page number to see the catalog page"><img src="/images/blank.gif" width="1" border="0"></td>
-
+		<td><img src="/images/bb_search.gif" width="75" height="62" border="0" alt="enter a big book page number to see the catalog page" usemap="#quotepad"><img src="/images/blank.gif" width="1" border="0"></td>
+		
          <td>
            	<img src="/images/blank.gif" height="4" width="1" border="0"><br>
 		<input type="image" border="0" src="/images/hm_go_btn_trim.gif" alt="go">
@@ -242,14 +240,14 @@ document[imgNamea].src = eval(imgNamea + "off.src");
 </script>
 <!-- Navigation buttons along the left -->
   <tr><td bgcolor="#000099" valign="top" width="130" height="100%">
-<a href="http://www.mscdirect.com/browse.shtml" onmouseover="imgOn('img1','img1a')" onmouseout="imgOff('img1','img1a')"><img name="img1a" src="/images/sdbar_1a_off.gif" width="130" height="39" border="0" alt="browse the big book"></a><br>
-<a href="http://www.mscdirect.com/browse.shtml" onmouseover="imgOn('img1','img1a')" onmouseout="imgOff('img1','img1a')"><img name="img1" src="/images/sdbar_1_off.gif" width="130" height="39" border="0" alt="browse the big book"></a><br>
+<a href="http://www.mscdirect.com/browse.process" onmouseover="imgOn('img1','img1a')" onmouseout="imgOff('img1','img1a')"><img name="img1a" src="/images/sdbar_1a_off.gif" width="130" height="39" border="0" alt="browse the big book"></a><br>
+<a href="http://www.mscdirect.com/browse.process" onmouseover="imgOn('img1','img1a')" onmouseout="imgOff('img1','img1a')"><img name="img1" src="/images/sdbar_1_off.gif" width="130" height="39" border="0" alt="browse the big book"></a><br>
 <a href="http://www.mscdirect.com/OMBasketDetail.process?RestartFlow=t&amp;OMAction=BasketDetail" onmouseover="imgOn('img2','img2a')" onmouseout="imgOff('img2','img2a')"><img name="img2a" src="/images/sdbar_2a_off.gif" width="130" height="39" border="0" alt="to order"></a><br>
 <a href="http://www.mscdirect.com/OMBasketDetail.process?RestartFlow=t&amp;OMAction=BasketDetail" onmouseover="imgOn('img2','img2a')" onmouseout="imgOff('img2','img2a')"><img name="img2" src="/images/sdbar_2_off.gif" width="130" height="39" border="0" alt="to order"></a><br>
 <a href="https://www.mscdirect.com/members.process" onmouseover="imgOn('img3','img3a')" onmouseout="imgOff('img3','img3a')"><img name="img3a" src="/images/sdbar_3a_off.gif" width="130" height="39" border="0" alt="my account"></a><br>
 <a href="https://www.mscdirect.com/members.process" onmouseover="imgOn('img3','img3a')" onmouseout="imgOff('img3','img3a')"><img name="img3" src="/images/sdbar_3_off.gif" width="130" height="39" border="0" alt="my account"></a><br>
-<a href="http://www.mscdirect.com/custsupp/custsupp.shtml" onmouseover="imgOn('img4','img4a')" onmouseout="imgOff('img4','img4a')"><img name="img4a" src="/images/sdbar_4a_off.gif" width="130" height="39" border="0" alt="customer support"></a><br>
-<a href="http://www.mscdirect.com/custsupp/custsupp.shtml" onmouseover="imgOn('img4','img4a')" onmouseout="imgOff('img4','img4a')"><img name="img4" src="/images/sdbar_4_off.gif" width="130" height="52" border="0" alt="customer support"></a><br>
+<a href="http://www.mscdirect.com/custsupp/custsupp.tem" onmouseover="imgOn('img4','img4a')" onmouseout="imgOff('img4','img4a')"><img name="img4a" src="/images/sdbar_4a_off.gif" width="130" height="39" border="0" alt="customer support"></a><br>
+<a href="http://www.mscdirect.com/custsupp/custsupp.tem" onmouseover="imgOn('img4','img4a')" onmouseout="imgOff('img4','img4a')"><img name="img4" src="/images/sdbar_4_off.gif" width="130" height="52" border="0" alt="customer support"></a><br>
 <a href="http://www.mscdirect.com/aboutmsc/about.shtml" onmouseover="imgOn('img5','img5a')" onmouseout="imgOff('img5','img5a')"><img name="img5a" src="/images/sdbar_5a_off.gif" width="130" height="39" border="0" alt="about MSC"></a><br>
 <a href="http://www.mscdirect.com/aboutmsc/about.shtml" onmouseover="imgOn('img5','img5a')" onmouseout="imgOff('img5','img5a')"><img name="img5" src="/images/sdbar_5_off.gif" width="130" height="39" border="0" alt="about MSC"></a>
   </td>
@@ -374,13 +372,14 @@ document[imgNamea].src = eval(imgNamea + "off.src");
 <tbody><tr>
 <td class="mandatory" align="center">
 <br>
-<a href="http://www.mscdirect.com/aboutmsc/quickstart.shtml">site tour</a> <img src="/images/bullet1.gif"> <a href="http://www.mscdirect.com/sitemap.shtml">site map</a> <img src="/images/bullet1.gif"> <a href="http://www.mscdirect.com/privacy.shtml">privacy policy</a><br>
-<a href="http://www.mscdirect.com/default.htm">msc home</a>
-<img src="/images/bullet1.gif"> <a href="http://www.mscdirect.com/browse.shtml">browse</a>
+<a href="http://www.mscdirect.com/aboutmsc/quickstart.shtml">site tour</a> <img src="/images/bullet1.gif">
+<a href="http://www.mscdirect.com/sitemap.process">site map</a> <img src="/images/bullet1.gif"> <a href="http://www.mscdirect.com/privacy.shtml">privacy policy</a>  <img src="/images/bullet1.gif"> <a href="http://orders.mscdirect.com/ECS/ECLMOH">overstock</a><br>
+<a href="http://www.mscdirect.com/mscdirect.process">msc home</a>
+<img src="/images/bullet1.gif"> <a href="http://www.mscdirect.com/browse.process">browse</a>
 <img src="/images/bullet1.gif"> <a href="http://www.mscdirect.com/OMBasketDetail.process?RestartFlow=t&amp;OMAction=BasketDetail">to order</a>
 <img src="/images/bullet1.gif"> <a href="https://www.mscdirect.com/members.process">my account</a>
 <img src="/images/bullet1.gif"> <a href="http://www.mscdirect.com/aboutmsc/about.shtml">about msc</a>
-<img src="/images/bullet1.gif"> <a href="http://www.mscdirect.com/custsupp/custsupp.shtml">customer support</a>
+<img src="/images/bullet1.gif"> <a href="http://www.mscdirect.com/custsupp/custsupp.tem">customer support</a>
 <br><br>
 © 2000 MSC Industrial Direct Co., Inc.
 </td>
