@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netrition.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604041817id_/http%3A//www9.netrition.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netrition.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001185907id_/http%3A//www.netrition.com/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement for Netrition, Inc.
 
@@ -7,6 +7,7 @@
 [Ordering Policies](http://www11.netrition.com/policies.html)   
 [Prices](http://www11.netrition.com/prices.html)   
 [Sale Items!](http://www11.netrition.com/specials.html)   
+[Contact Us](http://www11.netrition.com/contact.html)   
 [Redeem Coupon](http://www11.netrition.com/cgi/provide_cert.cgi?display_form=true)   
 |  [Dietary Oils](http://www11.netrition.com/oils_page.html)   
 [Drink Mixes](http://www11.netrition.com/lowfat_mrp_page.html)   
@@ -20,10 +21,10 @@
 [Herbs](http://www11.netrition.com/herbs_page.html)   
 [Minerals](http://www11.netrition.com/minerals_page.html)   
 [Vitamins](http://www11.netrition.com/vitamins_page.html)   
-|  [Contact Us](http://www11.netrition.com/contact.html)   
-[E-Cards](http://www11.netrition.com/cgi/ecards.cgi)   
+|  [E-Cards](http://www11.netrition.com/cgi/ecards.cgi)   
 [Food Nutrients](http://www11.netrition.com/cgi/foods.cgi)   
 [Health News](http://www11.netrition.com/cgi/news.cgi)   
+[HealthNotes](http://www11.netrition.com/cgi/healthnotes.cgi)   
 [Ripped News](http://www11.netrition.com/cgi/magazine_display.cgi)   
 |   
 ---|---|---|---|---|---  
