@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobtrain.co.uk privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001163452id_/http%3A//jobtrain.co.uk/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobtrain.co.uk privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606071134id_/http%3A//jobtrain.co.uk/PrivacyStatement.asp) for the most accurate reproduction.*
 
 # Jobtrain - Privacy Statement
 
