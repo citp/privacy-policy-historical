@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pageresource.com privacy policy that was archived on 2000-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000603071904id_/http%3A//www.pageresource.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pageresource.com privacy policy that was archived on 2000-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001201234700id_/http%3A//www.pageresource.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for PageResource.Com
 
@@ -6,11 +6,13 @@
 
 The Web Design Resource has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: PageResource.Com. 
 
+Be sure to view our **[Children's Privacy Policy](https://web.archive.org/web/20001201234700id_/http%3A//www.pageresource.com/privacych.html)**. 
+
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. 
 
 This site contains links to other sites. **PageResource.Com** is not responsible for the privacy practices or the content of such Web sites. 
 
-Our site uses a [contact form](http://www.pageresource.com/contact.htm) and a [site submission form](https://web.archive.org/zdir/addurl.htm) for customers to request information, return links, and services. In these forms, we collect visitor's contact information (like their email address, site addresses, browser information, and remote host). The customer's contact information is used to get in touch with the visitor when necessary. If a visitor submits a web site for a link review, the site address, title, and description provided may be posted on the appropriate pages. A visitor's e-mail address is not shared with or sold to any third parties. Any browser or remote host information collected in these forms is only used by us to help you with your questions. This individual information is not shared with or sold to any third parties. If you do not want us to know any of the information above, do not submit either form to us. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+Our site uses a [contact form](http://www.pageresource.com/contact.htm) and a [site submission form](https://web.archive.org/zdir/addurl.htm) for customers to request information, return links, and services. In these forms, we collect visitor's contact information (like name, email address, and site addresses). The customer's contact information is used to get in touch with the visitor when necessary. If a visitor submits a web site for a link review, the site address, title, and description provided may be posted on the appropriate pages. A visitor's e-mail address is not shared with or sold to any third parties. Any browser or remote host information collected in these forms is only used by us to help you with your questions. This individual information is not shared with or sold to any third parties. If you do not want us to know any of the information above, do not submit either form to us. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
 Our site also allows you to sign up for a free newsletter. In these forms, we collect visitor's contact information (like their email address). At this time, the list is serverd through [ListBot](http://www.listbot.com/). Your e-mail address is not shared with or sold to any third parties. Only our staff and ListBot have access to the e-mail addresses. 
 
@@ -27,7 +29,10 @@ You can unsubscribe from the newsletter mailing list at any time using one of th
 
 Our occasional online surveys ask visitors for demographic information (like their zip code, age, or income level). Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. We do not share a visitor's individual information. 
 
-We use an outside ad company to display ads on our site. Ads may contain cookies, and appear to be coming from our site, but in reality they are coming from our partners who are serving ads on our site. Our site does not use cookies. We do not have access to any information about you from cookies you might receive while visiting our site. Some customer data is shared with the advertising companies on an aggregate basis. You can view the privacy policies of the advertising companies we use through the links below: 
+We use an outside ad company to display ads on our site. Ads may contain cookies, and appear to be coming from our site, but in reality they are coming from our partners who are serving ads on our site. Our site does not use cookies, except in the discussion forums. We do not have access to any information about you from cookies you might receive while visiting our site. Some customer data is shared with the advertising companies on an aggregate basis. You can view the privacy policies of the advertising companies we use through the links below: 
+
+The Web Design Resource works with a third party that serves ads to this site. To find out more about how About.com manages the privacy information in conjunction with serving ads on this site, please go to:   
+<http://home.about.com/gi/pages/privacy.htm>
 
 The Web Design Resource works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy information in conjunction with serving ads on this site, please go to:   
 <http://www.flycast.com/about_us/about-privacy.html>
