@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviemaker.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602193229id_/http%3A//www.moviemaker.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviemaker.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205004940id_/http%3A//www.moviemaker.com/privacy.html) for the most accurate reproduction.*
 
 # MovieMaker Magazine |
 
