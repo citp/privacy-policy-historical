@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rndsystems.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603065725id_/http%3A//www.rndsystems.com/asp/g_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rndsystems.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209101622id_/http%3A//www.rndsystems.com/asp/g_privacy.asp) for the most accurate reproduction.*
 
 # R & D Systems - QC Program
 
@@ -55,7 +55,7 @@ Copyright ©2002 R&D Systems.
 All rights reserved.  
 Comments or questions?  
 info@rndsystems.com  
-[Privacy Policy](https://web.archive.org/web/20020603065725id_/http%3A//www.rndsystems.com/asp/g_privacy.asp)  
+[Privacy Policy](https://web.archive.org/web/20021209101622id_/http%3A//www.rndsystems.com/asp/g_privacy.asp)  
 [Site Credits](http://www.ruckusinteractive.com/) |  R&D Systems  
 614 McKinley Place NE  
 Minneapolis, MN 55413  
