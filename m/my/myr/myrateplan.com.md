@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myrateplan.com privacy policy that was archived on 2000-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000617172435id_/http%3A//myrateplan.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myrateplan.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206025600id_/http%3A//myrateplan.com/privacy.shtml) for the most accurate reproduction.*
 
 # MyRatePlan.com - Privacy Policy. security,children's guidelines,cookies,IP address,MyRatePlan.com, LLC has created this privacy statement in order to demonstrate our firm commitment to privacy
 
