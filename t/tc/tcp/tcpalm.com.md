@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcpalm.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402015218id_/http%3A//web.tcpalm.com/sitetools/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcpalm.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207143129id_/http%3A//web.tcpalm.com/sitetools/privacy.html) for the most accurate reproduction.*
 
 # TCPalm.com Network Privacy Policy
 
@@ -33,7 +33,7 @@ We do not share personal identifying information with any third party without yo
 
 IV. Accuracy of User Information 
 
-In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to Amy Morris, Online Editor ([amorris@tcpalm.com](mailto:amorris@tcpalm.com)), or you can reach us by telephone at (561) 287-1550. You can also write us at: 
+In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to Nathan Ashby-Kuhlman, Online Editor ([nathan@tcpalm.com](mailto:nathan@tcpalm.com)), or you can reach us by telephone at (772) 692-8997. You can also write us at: 
 
 **The Stuart News/TCPalm.com  
 1939 S. Federal Highway  
