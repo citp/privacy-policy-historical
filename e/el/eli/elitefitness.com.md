@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitefitness.com privacy policy that was archived on 2001-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010408110730id_/http%3A//elitefitness.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitefitness.com privacy policy that was archived on 2002-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020223143655id_/http%3A//www.elitefitness.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for Elite Fitness
 
@@ -51,3 +51,7 @@ This site gives users the following options for changing and modifying informati
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
 Elite Fitness, Inc. 217 West 18th Street PO Box 1264 New York, NY 10113-1264 suggestions@elitefitness.com
+
+[](http://www.elitefitness.com/capro/redirect.cgi/top_banner)
+
+ 
