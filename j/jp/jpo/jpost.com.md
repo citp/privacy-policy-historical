@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jpost.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210095717id_/http%3A//info.jpost.com/2000/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpost.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406082429id_/http%3A//info.jpost.com/2000/PrivacyStatement) for the most accurate reproduction.*
 
-# Israel News : Jerusalem Post Internet Edition
+# Jerusalem Post | Breaking News from Israel, the Middle East and the Jewish World
 
 Privacy Statement for The Jerusalem Post Internet Edition
 
@@ -16,6 +16,12 @@ Our Site uses cookies to verify and insure single voting on our polls as well as
 The Jerusalem Post Internet Edition may perform statistical analyses of user behavior in order to measure interest in the various areas of our site (for product development purposes) and to inform advertisers as to how many consumers have seen or "clicked" their advertising banners. We may also use demographic and preference information to allow advertising banners on our Web site to be targeted, in aggregate, to the readers for whom they are most pertinent. This means that readers may see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the ads. In this statistical analyses and banner advertisement targeting, we will disclose information to third parties only in aggregate form. Personal information about you as an individual subscriber will not be provided to any third party without your consent. 
 
 We use third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. 
+
+**Third Party Advertising**  
+We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.maxonline.com/privacy_policy/index.php).
+
+ **Third Party Cookies**  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
 
 **Sponsors**  
 Promotions and competitions that run on The Jerusalem Post Internet Edition may be sponsored by companies other than The Jerusalem Post Internet Edition or may be co-sponsored by The Jerusalem Post Internet Edition and another company. Some or all data collected during a promotion may be shared with the sponsor. 
