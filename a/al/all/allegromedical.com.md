@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allegromedical.com privacy policy that was archived on 2003-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030610003021id_/http%3A//allegromedical.com/Home/Privacy_Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allegromedical.com privacy policy that was archived on 2003-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031009121111id_/http%3A//www.allegromedical.com/Home/Privacy_Policy.asp) for the most accurate reproduction.*
 
 # Allegro Medical Supplies Inc. - wheelchairs, power scooters, and discount medical supplies. - -
 
@@ -41,7 +41,7 @@ Keeping your personal information confidential is a top priority for all Allegro
   
 * * *
 
-[Home](https://web.archive.org/web/20030610003021id_/http%3A//allegromedical.com/default.asp)  |  [Affiliate Program](https://web.archive.org/web/20030610003021id_/http%3A//allegromedical.com/Affiliate/AffiliateIntro.asp)  |  [Allegro Fans](https://web.archive.org/web/20030610003021id_/http%3A//allegromedical.com/Home/Allegrofans.asp)     
-Contact Us  |  [View Cart](https://web.archive.org/web/20030610003021id_/http%3A//allegromedical.com/Cart/View.asp)  |  [Privacy Policy](https://web.archive.org/web/20030610003021id_/http%3A//allegromedical.com/Home/Privacy_Policy.asp)  |  [Terms of Use](https://web.archive.org/web/20030610003021id_/http%3A//allegromedical.com/Home/Legal.asp)   
-Copyright© 1996-2003 Allegro Medical   
+[Home](https://web.archive.org/web/20031009121111id_/http%3A//www.allegromedical.com/default.asp)  |  [Affiliate Program](https://web.archive.org/web/20031009121111id_/http%3A//www.allegromedical.com/Affiliate/AffiliateIntro.asp)  |  [Allegro Fans](https://web.archive.org/web/20031009121111id_/http%3A//www.allegromedical.com/Home/Allegrofans.asp)     
+Contact Us  |  [View Cart](https://web.archive.org/web/20031009121111id_/http%3A//www.allegromedical.com/Cart/View.asp)  |  [Privacy Policy](https://web.archive.org/web/20031009121111id_/http%3A//www.allegromedical.com/Home/Privacy_Policy.asp)  |  [Terms of Use](https://web.archive.org/web/20031009121111id_/http%3A//www.allegromedical.com/Home/Legal.asp)  |  Returns     
+Copyright© 1996-2003 Allegro Medical Supplies Inc.   
  
