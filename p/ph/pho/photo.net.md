@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the photo.net privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331061534id_/http%3A//www.photo.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photo.net privacy policy that was archived on 2003-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030803113410id_/http%3A//www.photo.net/privacy-policy) for the most accurate reproduction.*
 
 # photo.net Privacy Policy
 
-| **[Community](https://web.archive.org/community)** | **[Gallery](https://web.archive.org/gallery)** | **[Learn](https://web.archive.org/learn/)** | **[Shop](https://web.archive.org/shop/)** | **[Travel](https://web.archive.org/webtravel/)** | **[Editor's Corner](https://web.archive.org/philips_corner)**  
----|---|---|---|---|---|---  
 Your use of the photo.net Web site constitutes your agreement to this privacy policy and consent to the terms herein. Please see the section labeled "Information We Collect and How We Use It" to learn more about our collection and use of user information. 
 
 ###  Introduction 
@@ -32,13 +30,25 @@ If you do not want to provide us with certain User Information then you may opt 
 
 Cookies are small text files that our site can send to your browser for storage on your hard drive. Cookies can make your use of our site easier by saving your status and preferences upon visits to our site. The cookies are refreshed every time you enter the site. Most browsers are initially set to accept cookies, but you may be able to change the settings to refuse cookies or to be alerted when cookies are being sent. We use cookies for two purposes: (1) to enable photo.net to customize information for certain segments of its customer base; and (2) in some instances, to associate you with your User Information. For example, through the use of cookies you may login automatically and thereby save you time. Although rejection of cookies will not interfere with your ability to interact with most of our site, you will need to accept cookies in order to login and use certain interactive Services on the site. 
 
+Many photo.net pages incorporate HTML or Javascript code that will cause your browser to connect to third-party servers to retrieve an advertisement. These servers may send cookies to your browser. photo.net has a direct relationship with a small number of advertising networks, which are third parties in the business of serving advertisements incorporated into the pages of other web sites. While we may have studied the privacy policies of our partners at the time the relationships were established, we don't monitor the policies of our partners, and they may change without our becoming aware of it. Furthermore, advertising networks have relationships with one another and some of the ads may come from parties with whom photo.net has no direct relationiship, and of whom we are not even aware. Accordingly, we cannot assume responsibility for the use made by third parties of information collected about you through these "third-party" cookies. If you are concerned about this, most modern Web browsers allow you to block so-called "third party cookies", and this should not affect your browsing experience on photo.net. Also, many ad networks provide an option to "opt-out". Notwithstanding this, if you object to a third-party cookie being placed on your browser through the use of photo.net, and have specific information that a third-party is making inappropriate use of the cookie, we would appreciate being notified by you. 
+
 ###  Control of Your Password 
 
 Except as specifically permitted by this privacy policy or your User Agreement you may not disclose your photo.net password to any third parties nor share it with any third parties. If you lose control of your photo.net password you may lose control over your Personally Identifiable Information, and you will be responsible for any legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password or, if we provided your password, notify photo.net so that we may issue you a new password. 
 
 ###  Removal or Correction of Personally Identifiable Information 
 
-Upon your request, we may remove your Personally Identifiable Information from our database and correct any errors you identify in such information. If Personally Identifiable Information is removed you will lose access to the parts of the site for which you must provide such Personally Identifiable Information to gain access. After removal, we will only retain copies of such information as are necessary for us to comply with governmental orders, resolve disputes, troubleshoot problems, enforce any agreement you have entered into through our sites and as otherwise reasonably necessary. Any Personally Identifiable Information provided as a part of a transaction on the site represents a record of that business transaction that cannot be altered after the transaction is complete. 
+You may also "Unsubscribe" from the site by following a link from "Your Workspace". This will have the effect of concealing the information that you provided upon registration from users of the site, other than administrators. If you "unsubscribe", you will lose access to the parts of the site for which you must provide such Personally Identifiable Information in order to gain access. 
+
+If your Personally Identifiable Information is edited by you, we will not make any attempt to apply your edit to backup copies that we may have of the information, and in the event that it is necessary for us to restore our database from a backup, it is not impossible that your edit would be lost and the information previous to your edit would be restored. In such an event, we might not be able to determine that this had happened. Your recourse in such a case, having observed it, is to edit the information again. 
+
+If you unsubscribe, the Personally Identifiable Information in your user record won't be displayed to users other that administrators. However, the information may be retained in our database and backup copies thereof, for our records, and as necessary for us to comply with governmental orders, resolve disputes, troubleshoot problems, enforce any agreement you have entered into through our sites and as otherwise deemed reasonably necessary by us. 
+
+Unsubscribing will not result in the deletion of any messages, photos, comments, or other information that you have posted in forums, the gallery or other sections of the site. Furthermore, there are many types of information that you may post on the site which cannot be deleted, editied, or recalled in any way and which which become, indefinitely, a part of the archives of the site, in many cases accessible to other users of the site. 
+
+Examples of transactions which cannot be removed or edited are: forum postings, classified ads, "ezShop" member opinions, comments on articles and other HTML pages, links, surveys and polls, and "neighbor-to-neighbor" postings. We reserve to change the site features related to the editing and deletion of site content, and transactions and content that is editable or deletable when you submit them may not be editable or deletable in the future. If you include Personally Identifiable Information, such as your name, address, email address in such transactions etc, you will not be able to remove or edit it. The site does not provide a service to have staff members or administrators remove such information for You. If You do not wish to have Personally Identifiable Information become part of the archives of the site, either do not include such information with the transactions, or if the transaction requires such information, do not perform the transaction. 
+
+If We ban you from the site without at least 24 hours notice to the email address that you register with us, upon your request We will either delete information that you posted that you would have been able to delete yourself if you had not been banned, or We will temporarily reinstate you for a brief period so that you may delete the information yourself. 
 
 ###  Third Parties 
 
@@ -52,10 +62,8 @@ If photo.net or any of its lines of business is sold, pledged or disposed of as 
 
 ###  How do I Contact photo.net 
 
-If you have any questions regarding this privacy policy you can contact photo.net at 617.386.4298 or email photo.net at business@photo.net. 
+If you have any questions regarding this privacy policy you can contact photo.net by following the Contact Us link on the home page. 
 
 ###  Miscellaneous 
 
-photo.net may from time to time change this privacy policy with or without notice, so please check it regularly for any changes or updates. For future reference, photo.net will make a link to the current privacy policy available to you on your screen when you are on our Web site. Your use of the site constitutes your agreement to this privacy policy and your assent to any modification thereto. [Add a comment](https://web.archive.org/comments/add?page_id=6725) | [Add a link](https://web.archive.org/links/add?page_id=6725)   
-   © 2000, 2001 photo.net, All Rights Reserved. Design by [Ulla Zang](http://www.ullazang.com/).   
-[Feedback](mailto:feedback@photo.net) | [About Us](https://web.archive.org/about-us) | [In the News](https://web.archive.org/in-the-news) | [Site Map](https://web.archive.org/site-map) | [Contact Us](https://web.archive.org/contact-us) | [Terms of Use](https://web.archive.org/terms-of-use) | [Privacy](https://web.archive.org/privacy-policy)
+photo.net may from time to time change this privacy policy with or without notice, so please check it regularly for any changes or updates. For future reference, photo.net will make a link to the current privacy policy available to you on your screen when you are on our Web site. Your use of the site constitutes your agreement to this privacy policy and your assent to any modification thereto. 
