@@ -1,0 +1,726 @@
+<!--The following is the downloaded HTML source of the altafsir.com privacy policy that was archived on 2004-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041208211843id_/http%3A//www.altafsir.com/PrivacyPolicy.asp) for the most accurate reproduction.-->
+
+<html><head>
+<meta http-equiv="Content-Type" content="text/html;CHARSET=windows-1256">
+<meta name="GENERATOR" content="Microsoft Visual Studio 6.0">
+<link rel="stylesheet" type="text/css" href="TafsirCSSV3.CSS">
+<script src="AltafsirLibrary/core.js" type="text/javascript"></script>
+<title>Altafsir.com Privacy Policy - إخلاء مسؤولية</title>
+
+
+
+<script>
+	var TopImage = new Image();
+			
+				TopImage = "url(images/HeadersOfPages/Top_Privacy_Policy.GIF)";
+			
+</script>
+</head>
+<body>
+		<script id="clientEventHandlersJS" language="javascript">
+<!--
+var LinkPath = ""
+//alert(LinkPath);
+
+function checkBrowser()
+{
+	if (document.all) 
+	{
+		//alert("Internet Explorer")
+		return "IE"
+	}
+	else	
+	{
+		//alert("NN")
+		return "NN"
+	}
+}
+
+function OnMouseOver(parag) 
+{
+	//parag.style.cursor = "hand";
+	Dom.getElm(parag).style.color = "yellow";	
+}
+
+function OnMouseOut(parag) 
+{
+	//alert(parag);
+	var paragid = parag; //parag.id;
+	if(get_Pageid == paragid)
+		Dom.getElm(parag).style.color = "yellow";
+	else
+		Dom.getElm(parag).style.color = "white";
+}
+
+function ChangeMenueLanguage()
+{
+	document.langForm.action = 'ConvertUILang.asp';
+	document.langForm.CurrentPage.value  = document.location.href; 
+	document.langForm.submit();
+}
+
+function LogLink()
+{
+	//document.location.href="http://www.altafsir.com/Login.asp"
+	document.location.href = "Login.asp";
+}
+
+function ExitLink()
+{
+	//document.location.href="http://www.altafsir.com/Exit.asp"
+	document.location.href = "Exit.asp";
+}
+
+var flagTajweedMenue;
+
+
+function mainpage1_onclick() 
+{
+	document.location.href = "http://www.altafsir.com/Index.asp"
+	//document.location.href = LinkPath + "home.asp";
+}
+
+function Right_OnClick(pagelink)
+{
+	fbRight_OnClick(pagelink)
+}
+
+function send_feedBack(){
+	var url			= window.location;
+	var Bname		= navigator.appName;
+	var BVesrsion	= navigator.appVersion;
+	var plat		= navigator.platform ;
+	var sysLang		= navigator.systemLanguage;
+	var userLang	= navigator.userLanguage;
+	var cpuClass	= navigator.cpuClass;
+	
+	document.location.href = "ContactUs.asp?url=" + url + "&AppName=" + Bname + "&AppVersion=" + BVesrsion + "&Platform=" + plat + "&SysLang=" + sysLang + "&UserLang=" + userLang + "&cpuClass=" + cpuClass
+}	
+
+function Get_Hint(Item)
+{
+	if (Item.id == "BookMark" || Item.id == "Taf_BookMark" || Item.id == "Quran_BookMark")
+	{
+		Item.style.cursor = "hand";
+		Dom.getElm('Hint').style.visibility = "visible";
+		Dom.getElm('Hint').style.top = parseInt(Item.style.top) + 38;
+		Dom.getElm('Hint').style.left = parseInt(Item.style.left) + 50;   
+		Dom.getElm('Hint').innerHTML= "<font class='TextHelp'><b>حفظ عنوان الصفحة</b></font>" ; 
+	}  
+	else
+		if (Item.id == "Printer" || Item.id =="Taf_Printer" || Item.id == "Quran_Printer")
+		{
+			Item.style.cursor="hand";
+			Dom.getElm('Hint').style.visibility = "visible";
+			Dom.getElm('Hint').style.top = parseInt(Item.style.top) + 38;
+			Dom.getElm('Hint').style.left = parseInt(Item.style.left) + 50;
+			Dom.getElm('Hint').innerHTML = "<font class='TextHelp'><b>طباعة الصفحة</b></font>";
+		}
+	else
+		if (Item.id == "MailToFrieind" || Item.id == "Taf_MailToFrieind" || Item.id == "Quran_MailToFrieind")
+		{
+			Item.style.cursor="hand";
+			Dom.getElm('Hint').style.visibility="visible";
+			Dom.getElm('Hint').style.top=parseInt(Item.style.top)+38;
+			Dom.getElm('Hint').style.left=parseInt(Item.style.left)+50;
+			Dom.getElm('Hint').innerHTML="<font class='TextHelp'><b>أرسل الصفحة الى صديق</b></font>";
+		}
+		else
+		if ( Item.id == "FeedBack" || Item.id == "Taf_FeedBack" || Item.id == "Quran_FeedBack")
+		{
+			Item.style.cursor="hand";
+			Dom.getElm('Hint').style.visibility = "visible";
+			Dom.getElm('Hint').style.top = parseInt(Item.style.top) + 38;
+			Dom.getElm('Hint').style.left = parseInt(Item.style.left) + 50;
+			Dom.getElm('Hint').innerHTML = "<font class='TextHelp'><b>اقتراحات وملاحظات</b></font>";
+		}
+		else
+		if (Item.id == "Help" || Item.id == "Taf_Help" || Item.id == "Quran_Help")
+		{
+			Item.style.cursor="hand";
+			Dom.getElm('Hint').style.visibility="visible";
+			Dom.getElm('Hint').style.top=parseInt(Item.style.top)+38;
+			Dom.getElm('Hint').style.left=parseInt(Item.style.left)+50;
+			Dom.getElm('Hint').innerHTML="<font class='TextHelp'><b>مساعدة</b></font>";
+		}
+		else
+			if (Item.id == "Taf_KeyBrd")
+			{
+				Item.style.cursor="hand";
+				Dom.getElm('Hint').style.visibility="visible";
+				Dom.getElm('Hint').style.top=parseInt(Item.style.top)+38;
+				Dom.getElm('Hint').style.left=parseInt(Item.style.left)+50;
+				Dom.getElm('Hint').innerHTML="<font class='TextHelp'><b>لوحة مفاتيح افتراضية</b></font>";
+			}
+			else
+				if (Item.id == "Quran_Tajweed")
+				{
+					Item.style.cursor="hand";
+					Dom.getElm('Hint').style.visibility="visible";
+					Dom.getElm('Hint').style.top=parseInt(Item.style.top)+38;
+					Dom.getElm('Hint').style.left=parseInt(Item.style.left)+50;
+					//Dom.getElm('Hint').innerHTML="<font class='TextHelp'><b>أحكام التجويد</b></font>";
+					Dom.getElm('Hint').innerHTML="<font class='TextHelp'></font>";
+				}
+				else
+					if (Item.id == "LanguageItem" || Item.id == "Taf_Language" || Item.id == "Quran_Language" )
+					{
+					
+					
+						Item.style.cursor="hand";
+						Dom.getElm('Hint').style.visibility="visible";
+						Dom.getElm('Hint').style.top = parseInt(Item.style.top) + 38;
+						Dom.getElm('Hint').style.width = 150;
+						Dom.getElm('Hint').style.left = parseInt(Item.style.left) + 50;
+						Dom.getElm('Hint').innerHTML="<font class='TextHelp'><b>التحويل إلى الانجليزية</b></font>";
+					}
+}
+
+
+function Remove_Hint()
+{
+	Dom.getElm('Hint').style.visibility ="hidden"; 
+}
+
+//RemoveTajweedMenue()
+function Remove_HintTajweed()
+{
+	Dom.getElm('Hint').style.visibility ="hidden"; 
+	RemoveTajweedMenue()
+}
+
+function BookMark_Page()
+{
+	var url,title;
+	url = window.location;  
+	title = document.title;
+	if (checkBrowser() == "IE")
+		window.external.AddFavorite(url,title)   
+	else
+		alert("Press Ctrl+D to Bookmark this page")
+}
+
+function MailToFriend_Send()
+{
+  	var url			= window.location;
+	document.formURLGlobe.urlFull.value = window.location;
+	var type		= "MailToFriend";
+	//document.formURLGlobe.action = "http://www.altafsir.com/MailToFriend.asp?Type=" + type
+	//document.formURLGlobe.action = LinkPath + "MailToFriend.asp?Type=" + type
+	
+	document.formURLGlobe.action = "MailToFriend.asp?Type=" + type
+	document.formURLGlobe.submit();
+}
+
+function Tajweed_onclick()
+{	
+	if ("" == "0")
+		getTajweedMenue(0)
+	else
+		getTajweedMenue(1)	
+}
+
+function PrintPage() // Print friendly;
+{
+	//alert("Hi");
+	fbPrintPage();
+}
+//-->
+</script>
+<form action="" method="post" id="SendUrlToContactUs" name="SendUrlToContactUs">
+	<input type="hidden" id="UrlTextFeedBack" name="UrlTextFeedBack">
+	<input type="hidden" id="BnameTextFeedBack" name="BnameTextFeedBack">
+	<input type="hidden" id="BVesrsionTextFeedBack" name="BVesrsionTextFeedBack">
+	<input type="hidden" id="platlTextFeedBack" name="platlTextFeedBack">
+	<input type="hidden" id="sysLangTextFeedBack" name="sysLangTextFeedBack">
+	<input type="hidden" id="userLangTextFeedBack" name="userLangTextFeedBack">
+	<input type="hidden" id="cpuClassTextFeedBack" name="cpuClassTextFeedBack">
+</form>
+<!-- Display layer-->
+	<!-- Print page Form -->
+	<form action="" method="POST" id="PrinterForm" name="PrinterForm">
+		<input type="hidden" id="text1" name="text1">
+	</form>
+	
+	<!-- Language Form -->
+	<form action="" method="POST" id="langForm" name="langForm">
+		<input type="Hidden" id="LanguageID" name="LanguageID" value="">	
+		<input type="Hidden" id="CurrentPage" name="CurrentPage">	
+	</form>
+	
+	<!-- Top title opening-->
+	<div id="TopTitle" style="height: 80px; left: 0px; overflow: hidden; position: absolute; top: 0px; width: 664px; background-image: url(&quot;images/HeadersOfPages/Top_Privacy_Policy.GIF&quot;);">&nbsp;
+		<div id="ToolBar" style="HEIGHT: 29px; LEFT: 40px; OVERFLOW: hidden; POSITION: absolute; TOP: 60px; VISIBILITY: hidden; WIDTH: 216px" class="TextHelp">
+			<div style="BACKGROUND-IMAGE: url(http://www.altafsir.com/images/Tool_Bar_Arabic_B.gif); HEIGHT: 16px; OVERFLOW: hidden; POSITION: absolute; WIDTH: 216px" class="TextHelp"></div>
+			<!--DIV style="BACKGROUND-IMAGE: url(images/Tool_Bar_Arabic_B.gif); HEIGHT: 16px; OVERFLOW: hidden; POSITION: absolute; WIDTH: 216px" class='TextHelp'></DIV-->
+			<a href="javascript:BookMark_Page()"><div id="BookMark" style="HEIGHT: 15px; LEFT: 4px; POSITION: absolute; TOP: 0px; WIDTH: 27px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp"></div></a>
+			<a href="javascript:PrintPage()"><div id="Printer" style="HEIGHT: 15px; LEFT: 37px; POSITION: absolute; TOP: 0px; WIDTH: 27px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp"></div></a>
+			<a href="javascript:MailToFriend_Send()"><div id="MailToFrieind" style="HEIGHT: 15px; LEFT: 69px; POSITION: absolute; TOP: 0px; WIDTH: 27px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp"></div></a>
+			<a href="javascript:send_feedBack();javascript:document.SendUrlToContactUs.action =  'ContactUs.asp';javascript:document.SendUrlToContactUs.UrlTextFeedBack.value  = window.location;javascript:document.SendUrlToContactUs.BnameTextFeedBack.value  = navigator.appName;javascript:document.SendUrlToContactUs.BVesrsionTextFeedBack.value  = navigator.appVersion;javascript:document.SendUrlToContactUs.platlTextFeedBack.value  = navigator.platform;javascript:document.SendUrlToContactUs.sysLangTextFeedBack.value  = navigator.systemLanguage;javascript:document.SendUrlToContactUs.userLangTextFeedBack.value  = navigator.userLanguage;javascript:document.SendUrlToContactUs.cpuClassTextFeedBack.value  = navigator.cpuClass;javascript:document.SendUrlToContactUs.submit();"><div id="FeedBack" style="HEIGHT: 15px; LEFT: 102px; POSITION: absolute; TOP: 0px; WIDTH: 27px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" onclick="send_feedBack()" class="TextHelp"></div></a>
+			<div id="Help" style="HEIGHT: 15px; LEFT: 136px; POSITION: absolute; TOP: 0px; WIDTH: 27px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp"></div>
+			<a href="javascript:ChangeMenueLanguage()"><div id="LanguageItem" style="LEFT: 169px; WIDTH: 27px; POSITION: absolute; TOP: 0px; HEIGHT: 15px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp"></div></a>
+		</div> 
+		
+		<!-- menu with printer icon-->
+		<div id="Taf_ToolBar" style="HEIGHT: 29px; LEFT: 45px; OVERFLOW: hidden; POSITION: absolute; TOP: 60px; VISIBILITY: hidden; WIDTH: 249px" class="TextHelp">
+			<div style="BACKGROUND-IMAGE: url(http://www.altafsir.com/images/Tool_Bar_Arabic_A.gif); HEIGHT: 16px; OVERFLOW: hidden; POSITION: absolute; WIDTH: 249px" class="TextHelp"></div>
+			<!--DIV style="BACKGROUND-IMAGE: url(images/Tool_Bar_Arabic_A.gif); HEIGHT: 16px; OVERFLOW: hidden; POSITION: absolute; WIDTH: 249px" class='TextHelp'></DIV-->
+			<a href="javascript:BookMark_Page()"><div id="Taf_BookMark" style="HEIGHT: 15px; LEFT: 4px; POSITION: absolute; TOP: 0px; WIDTH: 27px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp"></div></a>
+			<a href="javascript:PrintPage()"><div id="Taf_Printer" style="HEIGHT: 15px; LEFT: 37px; POSITION: absolute; TOP: 0px; WIDTH: 27px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp"></div></a>
+			<a href="javascript:MailToFriend_Send()"><div id="Taf_MailToFrieind" style="HEIGHT: 15px; LEFT: 69px; POSITION: absolute; TOP: 0px; WIDTH: 27px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp"></div></a>
+			<a href="javascript:send_feedBack();javascript:document.SendUrlToContactUs.action = 'ContactUs.asp';javascript:document.SendUrlToContactUs.UrlTextFeedBack.value  = window.location;javascript:document.SendUrlToContactUs.BnameTextFeedBack.value  = navigator.appName;javascript:document.SendUrlToContactUs.BVesrsionTextFeedBack.value  = navigator.appVersion;javascript:document.SendUrlToContactUs.platlTextFeedBack.value  = navigator.platform;javascript:document.SendUrlToContactUs.sysLangTextFeedBack.value  = navigator.systemLanguage;javascript:document.SendUrlToContactUs.userLangTextFeedBack.value  = navigator.userLanguage;javascript:document.SendUrlToContactUs.cpuClassTextFeedBack.value  = navigator.cpuClass;javascript:document.SendUrlToContactUs.submit();"><div id="Taf_FeedBack" style="HEIGHT: 15px; LEFT: 102px; POSITION: absolute; TOP: 0px; WIDTH: 27px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" onclick="send_feedBack" class="TextHelp"></div></a>
+			<div id="Taf_Help" style="HEIGHT: 15px; LEFT: 136px; POSITION: absolute; TOP: 0px; WIDTH: 27px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp"></div>
+			<a href="javascript:vkbBtn_onclick()"><div id="Taf_KeyBrd" style="HEIGHT: 15px; LEFT: 169px; POSITION: absolute; TOP: 0px; WIDTH: 27px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp"></div></a>
+			<a href="javascript:ChangeMenueLanguage()"><div id="Taf_Language" style="LEFT: 202px; WIDTH: 27px; POSITION: absolute; TOP: 0px; HEIGHT: 15px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp"></div></a>
+		</div> 
+		
+		<!--menue for quran page-->
+		<div id="Quran_ToolBar" style="HEIGHT: 29px; LEFT: 47px; OVERFLOW: hidden; POSITION: absolute; TOP: 60px; VISIBILITY: hidden; WIDTH: 289px" class="TextHelp">
+			<div style="BACKGROUND-IMAGE: url(images/Tool_Bar_Arabic_C.gif); HEIGHT: 16px; OVERFLOW: hidden; POSITION: absolute; WIDTH: 289px" class="TextHelp"></div>
+			<a href="javascript:BookMark_Page()"><div id="Quran_BookMark" style="HEIGHT: 16px; LEFT: 0px; POSITION: absolute; TOP: 0px; WIDTH: 32px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp"></div></a>
+			<a href="javascript:PrintPage()"><div id="Quran_Printer" style="HEIGHT: 16px; LEFT: 33px; POSITION: absolute; TOP: 0px; WIDTH: 32px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp"></div></a>
+			<a href="javascript:MailToFriend_Send()"><div id="Quran_MailToFrieind" style="HEIGHT: 16px; LEFT: 65px; POSITION: absolute; TOP: 0px; WIDTH: 33px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp"></div></a>
+			<a href="javascript:send_feedBack();javascript:document.SendUrlToContactUs.action = 'ContactUs.asp';javascript:document.SendUrlToContactUs.UrlTextFeedBack.value  = window.location;javascript:document.SendUrlToContactUs.BnameTextFeedBack.value  = navigator.appName;javascript:document.SendUrlToContactUs.BVesrsionTextFeedBack.value  = navigator.appVersion;javascript:document.SendUrlToContactUs.platlTextFeedBack.value  = navigator.platform;javascript:document.SendUrlToContactUs.sysLangTextFeedBack.value  = navigator.systemLanguage;javascript:document.SendUrlToContactUs.userLangTextFeedBack.value  = navigator.userLanguage;javascript:document.SendUrlToContactUs.cpuClassTextFeedBack.value  = navigator.cpuClass;javascript:document.SendUrlToContactUs.submit();"><div id="Quran_FeedBack" style="HEIGHT: 16px; LEFT: 98px; POSITION: absolute; TOP: 0px; WIDTH: 33px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" onclick="send_feedBack" class="TextHelp"></div></a>
+			<div id="Quran_Help" style="HEIGHT: 16px; LEFT: 131px; POSITION: absolute; TOP: 0px; WIDTH: 33px" onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp"></div>
+			<!--<a href="javascript:Tajweed_onclick()">--><div id="Quran_Tajweed" style="HEIGHT: 16px; LEFT: 165px;  WIDTH: 73px; POSITION: absolute; TOP: 0px; " onmouseover="javascript:Tajweed_onclick();Dom.getElm('TajweedMenu').style.display='';Dom.getElm('AyatCombo').style.visibility='hidden';" onmouseout="Dom.getElm('AyatCombo').style.visibility='visible';javascript:Dom.getElm('TajweedMenu').style.display='none';" class="TextHelp"></div><!--</a>-->
+			<!--DIV style="BACKGROUND-IMAGE: url(images/Tool_Bar_Arabic_C.gif); HEIGHT: 16px; OVERFLOW: hidden; POSITION: absolute; WIDTH: 289px" class='TextHelp'></DIV-->
+			<!--<a href="javascript:Tajweed_onclick()"><DIV id="Quran_Tajweed" style="HEIGHT: 16px; LEFT: 169px;  WIDTH: 57px; POSITION: absolute; TOP: 0px; " onmouseover="Get_Hint(this)" onmouseout="Remove_HintTajweed()" class='TextHelp'></DIV></a>-->
+			<a href="javascript:ChangeMenueLanguage()"><div id="Quran_Language" style="HEIGHT: 15px; LEFT: 238px; WIDTH: 57px; POSITION: absolute; TOP: 0px; " onmouseover="Get_Hint(this)" onmouseout="Remove_Hint()" class="TextHelp"></div></a>
+		</div> 
+		
+		<!--Layer to show hint-->
+		<div dir="rtl" style="HEIGHT: 18px; POSITION: absolute; VISIBILITY: hidden" id="Hint" class="TextArabic">
+		</div>
+	</div>
+	<!-- Top title closed-->
+	<!--Right Menu begining: HEIGHT: 865px; -->
+	<div id="Arabic" style="background-color: rgb(135, 38, 49); height: 2398px; left: 665px; position: absolute; top: 0px; width: 114px;">
+		<div style="HEIGHT: 91px; LEFT: 20px; POSITION: absolute; TOP: 10px; WIDTH: 67px">
+			<a style="TEXT-DECORATION: none" href="javascript:document.location.href='../index.asp'"><img height="93" src="http://www.altafsir.com/images/approved side 1 arabic 256.GIF" width="66" border="0"></a>
+		</div>
+		<form id="gsaQuranSearchForm" name="gsaQuranSearchForm" method="POST" action="javascript:document.location.href='Quran_Search.asp'">
+			<input type="HIDDEN" id="qsLevel" name="qsLevel" value="1">
+			<input type="HIDDEN" id="qsWord" name="qsWord" value="">
+			<input type="HIDDEN" id="qsKey" name="qsKey" value="5">
+			<input type="HIDDEN" id="qsRadioChecked" name="qsRadioChecked" value="4">
+			<input type="HIDDEN" id="qsSoraNo" name="qsSoraNo" value="0">
+		</form>
+		
+		<form id="gsaTafsirHiddenForm" name="gsaTafsirHiddenForm" method="POST" action="javascript:document.location.href='Tafasir.asp'">
+			<input type="HIDDEN" id="tMadhabName" name="tMadhabName" value="0">
+			<input type="HIDDEN" id="tTafsirName" name="tTafsirName" value="0">
+			<!--INPUT TYPE=HIDDEN id=TafSoraNo name=TafSoraNo value = 1 -->
+			<input type="HIDDEN" id="tSoraNo" name="tSoraNo" value="1">
+			<input type="HIDDEN" id="tAyah" name="tAyah" value="1">
+			<input type="HIDDEN" id="tDisplay" name="tDisplay" value="no">
+			<input type="HIDDEN" id="UserProfile" name="UserProfile" value="">
+		</form>
+		<br><br><br>
+		<br><br><br><br>
+		<div id="ArabicBar" name="ArabicBar" style="HEIGHT: 330px; LEFT: -8px; POSITION: absolute; TOP: 131px; WIDTH: 122px">
+			<table align="left" border="0" cellpadding="0" cellspacing="0" style="HEIGHT: 330px; WIDTH: 117px" width="75%" background="">
+				<tbody><tr>
+					<td height="8"><p>
+						<img align="absMiddle" alt="" height="17" src="http://www.altafsir.com/images/Diamond.gif" width="17">
+						<a id="mainpage1" href="javascript:mainpage1_onclick()" style="FONT-FAMILY: Arial; font-weight:bold" class="arMenuLink" onmouseover="return OnMouseOver(this.id)" onmouseout="return OnMouseOut(this.id)">
+							الصفحة الرئيسية 
+						</a></p>
+					</td>
+				</tr>
+				<tr>
+					<td height="8"><p>
+						<img align="absMiddle" alt="" height="17" src="http://www.altafsir.com/images/Diamond.gif" width="17">
+						<a id="quran1" href="javascript: Right_OnClick('Quran.asp?SoraNo=1&amp;Ayah=1&amp;NewPage=1')" style="FONT-FAMILY: Arial; font-weight:bold" class="arMenuLink" onmouseover="return OnMouseOver(this.id)" onmouseout="return OnMouseOut(this.id)">
+							القرآن الكريم </a>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td height="8"><p>
+						<img align="absMiddle" alt="" height="17" src="http://www.altafsir.com/images/Diamond.gif" width="17">
+						<a id="altafasir1" style="FONT-FAMILY: Arial; font-weight:bold" class="arMenuLink" href="javascript:Right_OnClick('Tafasir')" onmouseover="return OnMouseOver(this.id)" onmouseout="return OnMouseOut(this.id)">
+							التفاسير </a>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td height="8"><p>
+						<img align="absMiddle" alt="" height="17" src="http://www.altafsir.com/images/Diamond.gif" width="17">
+						<a id="Qeraat1" style="FONT-FAMILY: Arial; font-weight:bold" class="arMenuLink" href="javascript:Right_OnClick('Recitations.asp')" onmouseover="return OnMouseOver(this.id)" onmouseout="return OnMouseOut(this.id)"> 
+							القراءات </a>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td height="8"><p>
+						<img align="absMiddle" alt="" height="17" src="http://www.altafsir.com/images/Diamond.gif" width="17">
+						<a id="quranscience1" style="FONT-FAMILY: Arial; font-weight:bold" class="arMenuLink" href="javascript: Right_OnClick('AsbabAlnuzol.asp?SoraName=1&amp;Ayah=0&amp;img=A')" onmouseover="return OnMouseOver(this.id)" onmouseout="return OnMouseOut(this.id)">
+							علوم 	القرآن </a>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td height="8"><p>
+						<img align="absMiddle" alt="" height="17" src="http://www.altafsir.com/images/Diamond.gif" width="17">
+						<a id="translations1" style="FONT-FAMILY: Arial; font-weight:bold" class="arMenuLink" href="javascript: Right_OnClick('Languages.asp')" onmouseover="return OnMouseOver(this.id)" onmouseout="return OnMouseOut(this.id)">
+							تراجم </a>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td height="8"><p>
+						<img align="absMiddle" alt="" height="17" src="http://www.altafsir.com/images/Diamond.gif" width="17">
+						<a id="search1" style="FONT-FAMILY: Arial; font-weight:bold" class="arMenuLink" href="javascript:Right_OnClick('Search')" onmouseover="return OnMouseOver(this.id)" onmouseout="return OnMouseOut(this.id)">
+								بحث وفهارس&nbsp;&nbsp; </a>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td height="8"><p>
+						<img align="absMiddle" alt="" height="17" src="http://www.altafsir.com/images/Diamond.gif" width="17">
+						<a id="registration1" style="FONT-FAMILY: Arial; font-weight:bold" class="arMenuLink" href="javascript: Right_OnClick('RegForm.asp')" onmouseover="return OnMouseOver(this.id)" onmouseout="return OnMouseOut(this.id)">
+							تسجيل </a>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td height="8">
+						 <script id="clientEventHandlersJS" language="javascript">
+							if ((""=="" & ""=="")||(""=="altafsir" & ""=="altafsir"))
+								document.write ("<img align='absMiddle' alt ='' height='17' src='http://www.altafsir.com/images/Diamond.gif' width='17'><a style='FONT-FAMILY: Arial; font-weight:bold' class='arMenuLink' id='LoginArabic' href='javascript:LogLink()' onmouseover='return OnMouseOver(this.id)' OnMouseOut ='return OnMouseOut(this.id)'> دخول</a>")
+							else
+								document.write ("<IMG align=absMiddle alt='' height=17 src='http://www.altafsir.com/images/Diamond.gif' width=17><a style='FONT-FAMILY: Arial; font-weight:bold' class='arMenuLink' id=exit href='javascript: ExitLink()' onmouseover='return OnMouseOver(this.id)' OnMouseOut ='return OnMouseOut(this.id)' > خروج </B></FONT>")
+						</script><img align="absMiddle" alt="" height="17" src="http://www.altafsir.com/images/Diamond.gif" width="17"><a style="FONT-FAMILY: Arial; font-weight:bold" class="arMenuLink" id="LoginArabic" href="javascript:LogLink()" onmouseover="return OnMouseOver(this.id)" onmouseout="return OnMouseOut(this.id)"> دخول</a> 						
+					</td>
+				</tr>
+				<tr>
+					<td height="8"><p>
+						<img align="absMiddle" alt="" height="17" src="http://www.altafsir.com/images/Diamond.gif" width="17">
+						<a id="shopping1" style="FONT-FAMILY: Arial; font-weight:bold" class="arMenuLink">
+							شراء 
+						</a>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td height="8"><p>
+						<img align="absMiddle" alt="" height="17" src="http://www.altafsir.com/images/Diamond.gif" width="17">
+						<a id="forum1" style="FONT-FAMILY: Arial; font-weight:bold" class="arMenuLink" href="javascript: Right_OnClick('Discussion_Forums/ForumLogin.asp')" onmouseover="return OnMouseOver(this.id)" onmouseout="return OnMouseOut(this.id)">
+							حوار </a>
+						</p>
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+		
+		<!--br>
+		
+		<DIV style="HEIGHT: 8px; LEFT: -8px; POSITION: absolute; TOP: 475px; WIDTH: 101px">
+			<SCRIPT ID="clientEventHandlersJS" LANGUAGE="javascript">
+				if ((""=="" & ""=="")||(""=="altafsir" & ""=="altafsir"))
+					document.write ("<img align='absMiddle' alt ='' height='17' src='http://www.altafsir.com/images/Diamond.gif' width='17'><A class=arMenuLink id = LoginArabic href='javascript: LogLink()' style='FONT-FAMILY: Arial; font-weight:bold'> دخول</A></DIV></div>")
+				else
+					document.write ("<IMG align=absMiddle alt='' height=17 src='http://www.altafsir.com/images/Diamond.gif' width=17><A class=arMenuLink color=white id=exit href='javascript:ExitLink()' style='FONT-FAMILY: Arial; font-weight:bold'> خروج </A></DIV></div>")
+			</SCRIPT>			
+		<br-->
+		
+		</div> 
+		<form action="" method="POST" id="formURLGlobe" name="formURLGlobe">
+				<input type="hidden" id="urlFull" name="urlFull">
+		</form>
+		<script language="javascript">
+		<!--
+		function fbRight_OnClick(pagelink)
+		{
+			//alert(pagelink)
+			if (pagelink=='Search')
+			{
+				document.gsaQuranSearchForm.submit();
+			}
+			else
+				if (pagelink == 'Tafasir')
+				{
+					document.gsaTafsirHiddenForm.submit();
+				}
+				else
+					document.location.href = pagelink;
+				}
+		
+		
+		
+		function fbPrintPage() // Print friendly;
+		{
+			try {
+				var printLayer = Dom.getElm("SearchResults").innerHTML;
+				//alert("print out:" + printLayer) 
+				document.PrinterForm.text1.value = printLayer; 
+				if (get_Pageid == "altafasir1")
+				{	var Ayah1 = Dom.getElm('Ayat');
+					var Sora1 = Dom.getElm('SoraName');
+						window.open("printpage.asp?status=Paging&Page=Tafasir&Ayah="+Ayah1.value+"&Sora="+Sora1.value, null , "top=20,left=400,height=600, width=600, status=no, toolbar=no, menubar=no, location=no, scrollbars=yes");
+				}
+					else
+					if(get_Pageid =="Qeraat1")
+						window.open("printpage.asp?status=Paging&Page=Qeraat1&SoraNo="+document.Form1.SoraName.value+"&AyahNo="+document.Form1.Ayat.value+"&RuleID="+document.Form1.Rule.value+"&QareeID="+document.Form1.Reader.value+"&RaweeID="+document.Form1.Narrator.value+"&Word="+document.Form1.rWord.value, null, "top=20,left=400,height=600, width=600, status=no, toolbar=no, menubar=no, location=no, scrollbars=yes");					
+					else
+						window.open("printpage.asp?status=none", null, "top=20,left=400,height=600, width=600, status=no, toolbar=no, menubar=no, location=no, scrollbars=yes");
+			}
+			catch(e)
+			{
+				alert("لا توجد مادة للطباعة");
+			}
+		}
+		//-->
+		</script>
+			<div id="MarginLine" style="position: absolute; top: 0px; height: 2398px;"></div>
+			
+		
+<div id="DispLayer" style="LEFT: 70px; WIDTH: 232px; POSITION: absolute; TOP: 100px;" class="TextEnglish">
+
+<p class="TextEnglish">
+<table style="WIDTH: 500px; HEIGHT: 1770px" cellspacing="1" cellpadding="1" width="500" border="0" class="TextEnglish">
+  <tbody><tr class="TextEnglish"> 
+    <td valign="top" align="middle" class="TextEnglish">
+      	
+      	<font class="TextEnglish"><b>Altafsir.com Privacy Policy</b><br><br></font>
+      	
+    </td>
+  </tr>
+  
+  <tr class="TextEnglish">
+    <td valign="top" align="left" class="TextEnglish">
+    <p class="TextEnglish">This website is owned by the Aal al-Bayt Institute 
+      for Islamic Thought and&nbsp;operated by the Integrated Technology Group 
+      (collectively the "Altafsir Team"). Before you commence using this site 
+      (the "Site") please go over the privacy policy below.
+    </p>
+    </td>
+  </tr>
+  
+  <tr class="TextEnglish">
+    <td class="TextEnglish">
+      <p class="TextEnglish">&nbsp;</p></td>
+  </tr>
+  
+  <tr class="TextEnglish">
+    <td class="TextEnglish">
+   
+  
+      <p class="TextEnglish"><strong>1.</strong> <strong>Information Collection 
+      and Use</strong> </p>
+      <p class="TextEnglish">The Altafsir Team will not sell, share, or rent this information to 
+      others in ways different from what is disclosed in this statement. The 
+      Altafsir Team collects information from our users at several different 
+      points on our website. No individual information about any visitor will be 
+      released to any third party without that visitor’s permission. The 
+      information collected will be used in the aggregate only and is for the 
+      sole internal use of the Altafsir Team. </p>
+      </td></tr>
+  <tr class="TextEnglish">
+    <td class="TextEnglish">
+      <p class="TextEnglish">&nbsp;</p></td></tr>
+  <tr class="TextEnglish">
+    <td class="TextEnglish">
+      <p class="TextEnglish"><strong>2. Registration</strong>  </p>
+      <p class="TextEnglish">  In order to use some features of our website, a user 
+      must first complete the registration form. During registration&nbsp;the user is required 
+      to give&nbsp;his/her contact information (such as name and e-mail address). This 
+      information is used to contact the user about the services on our site for 
+      which they have expressed interest. It is optional for the user to provide 
+      demographic information (such as income level and gender).</p>             
+                 
+                 
+                    
+                   
+             </td></tr>
+  <tr class="TextEnglish">
+    <td class="TextEnglish">
+      <p class="TextEnglish">&nbsp;</p></td></tr>
+  <tr class="TextEnglish">
+    <td class="TextEnglish">
+      <p class="TextEnglish"><strong>3. Cookies</strong> </p>
+      <p class="TextEnglish">A cookie is a piece of data stored on the user’s hard drive 
+      containing information about the user. Usage of a cookie is in no way 
+      linked to any personally identifiable information while on our site. Once 
+      the user closes their browser, the cookie simply terminates. If a user 
+      rejects the cookie, they may still use our site. The only drawback to this 
+      is that the user will be limited in some areas of our site. Cookies can 
+      also enable us to track and target the interests of our users to enhance 
+      the experience on our site. Some of our business partners use cookies on 
+      our site (for example, advertisers). However, we have no access to or 
+      control over these cookies.</p></td></tr>
+  <tr class="TextEnglish">
+    <td class="TextEnglish">
+      <p class="TextEnglish">&nbsp;</p></td></tr>
+  <tr class="TextEnglish">
+    <td class="TextEnglish">
+      <p class="TextEnglish"><strong>4. Logs</strong>  </p>
+      <p class="TextEnglish">We use IP addresses to analyze trends, administer the site, track the 
+      user’s movement, and gather broad demographic information for aggregate 
+      use. IP addresses are not linked to personally identifiable 
+      information.</p></td></tr>
+  <tr class="TextEnglish">
+    <td class="TextEnglish"></td></tr>
+  <tr class="TextEnglish">
+    <td class="TextEnglish">
+      <p class="TextEnglish"><strong>5. Sharing</strong>  </p>
+      <p class="TextEnglish">We will share aggregated demographic information with our partners and 
+      advertisers. This is not linked to any personal information that can 
+      identify any individual person.<br class="TextEnglish"><br class="TextEnglish">
+      We use an outside shipping company to ship orders, and a credit card 
+      processing company to bill users for goods and services. These companies 
+      do not retain, share, store or use personally identifiable information for 
+      any secondary purposes.
+      <br class="TextEnglish"><br class="TextEnglish">We may partner with another party to provide specific services. When 
+      the user signs up for these services, we will share names, or other 
+      contact information that is necessary for the third party to provide these 
+      services. These parties are not allowed to use personally identifiable 
+      information except for the purpose of providing these services.</p> </td></tr>
+  <tr class="TextEnglish">
+    <td class="TextEnglish">
+      <p class="TextEnglish">&nbsp;</p></td></tr>
+  <tr class="TextEnglish">
+    <td class="TextEnglish">
+      <p class="TextEnglish"><strong>6. Links</strong></p>
+      <p class="TextEnglish">   This website may contain links to other sites. Please 
+      be aware that the Altafsir Team is not responsible for the privacy 
+      practices of such other sites. We encourage our users to be aware when they 
+      leave our site and to read the privacy statements of each and every website 
+      that collects personally identifiable information. This privacy 
+      statement applies solely to information collected by this website.</p>
+      <p class="TextEnglish">&nbsp;</p></td></tr>
+  <tr class="TextEnglish">
+    <td class="TextEnglish">
+      <p class="TextEnglish"><strong>7. Referrals</strong></p>
+      <p>If a user elects to use our referral service for 
+      informing a friend about our site, we ask them for the friend’s name and 
+      e-mail address. The Altafsir Team will automatically send the friend a 
+      one-time e-mail inviting them to visit the site. The Altafsir Team stores 
+      this information for the sole purpose of sending this one-time e-mail. The 
+      friend may contact the Altafsir Team at <a href="mailto:altafsir@itgsolutions.com">altafsir@itgsolutions.com</a>            
+                   
+                 
+                  
+                 
+              to 
+      request the removal of this information from our database.</p> </td></tr>
+  <tr class="TextEnglish">
+    <td class="TextEnglish">
+      <p class="TextEnglish">&nbsp;</p></td></tr>
+  <tr class="TextEnglish">
+    <td class="TextEnglish"><p class="TextEnglish"><strong>8. Security</strong></p>
+      <p>This website takes every precaution 
+      to protect our users’ information. When users submit sensitive information 
+      via the website, your information is protected both online and off-line.<br><br> 
+      When our registration/order form asks users to enter sensitive information 
+      (such as credit card number and/or social security number), that 
+      information is encrypted and is protected with the best encryption 
+      software currently available. While on a secure page, such as our order 
+      form, the lock icon on the bottom of Web browsers such as Netscape 
+      Navigator and Microsoft Internet Explorer becomes locked, as opposed to 
+      un-locked, or open, when you are just ‘surfing’.<br><br> All of our users’ 
+      information, not just the sensitive information mentioned above, is 
+      restricted in our offices. Only employees who need the information to 
+      perform a specific job (for example, our billing clerk or a customer 
+      service representative) are granted access to personally identifiable 
+      information. <br><br>If you have 
+      any questions about the security at our website, you can send an e-mail to 
+      <a href="mailto:altafsir@itgsolutions.com">altafsir@itgsolutions.com</a> 
+      . 
+      </p><p class="TextEnglish">&nbsp;</p></td></tr>
+ 
+  <tr class="TextEnglish">
+    <td class="TextEnglish">
+      <p class="TextEnglish">&nbsp;</p></td></tr>
+  <tr class="TextEnglish">
+    <td class="TextEnglish">
+      <p class="TextEnglish"><strong>9. Special Offers</strong>   </p>
+      <p class="TextEnglish">We send all new members a welcoming e-mail to verify password and 
+      username. Established members will occasionally receive information on 
+      products, services, special deals, and a newsletter. Out of respect for 
+      the privacy of our users we present the option to not receive these types 
+      of communications. Please see our choice and unsubscribe option 
+    below.</p></td></tr>
+  <tr class="TextEnglish">
+    <td class="TextEnglish">
+      <p class="TextEnglish">&nbsp;</p></td></tr>
+  <tr class="TextEnglish">
+    <td class="TextEnglish">
+      <p class="TextEnglish"><strong>10. Changing/Updating Personal 
+      Information</strong>   </p>
+      <p>If a user’s 
+      personally identifiable information changes (such as your zip code), or if 
+      a user no longer desires our service, we will endeavor to provide a way to 
+      correct, update or remove that user’s personal data provided to us. This 
+      can usually be done at the member information page or by e-mailing our 
+      customer support at <a href="mailto:altafsir@itgsolutions.com">altafsir@itgsolutions.com</a> 
+      .</p>          
+                     
+                  
+                    
+             </td></tr>
+  <tr class="TextEnglish">
+    <td class="TextEnglish">
+      <p class="TextEnglish">&nbsp;</p></td></tr>
+  <tr class="TextEnglish">
+    <td class="TextEnglish">
+      <p class="TextEnglish"><strong>11. Subscribe/Unsubscribe</strong></p>
+      <p class="TextEnglish">Our users are given the 
+      opportunity to unsubscribe at any time from receiving any e-mail from us. <br><br>
+      Users who no longer wish to receive our newsletter or 
+      promotional materials from our partners may opt-out of receiving these 
+      communications by replying to unsubscribe in the subject line in the 
+      e-mail or e-mail us at <a href="mailto:altafsir@itgsolutions.com">altafsir@itgsolutions.com</a>
+                 
+                
+                     
+      .<br class="TextEnglish"><br class="TextEnglish"> Users of our site are always notified when their 
+      information is being collected by any outside parties. We do this so our 
+      users can make an informed choice as to whether they should proceed with 
+      services that require an outside party, or not.</p>          
+                   
+                   
+              
+   </td></tr>
+  <tr class="TextEnglish">
+    <td class="TextEnglish">
+      <p class="TextEnglish">&nbsp;</p></td></tr>
+  <tr class="TextEnglish">
+    <td class="TextEnglish">
+      <p class="TextEnglish"><strong>12. Notification of Changes</strong></p>
+      <p class="TextEnglish">If we decide to change our 
+      privacy policy, we will post those changes on our homepage so our users 
+      are always aware of what information we collect, how we use it, and under 
+      circumstances, if any, we disclose it. If at any point we decide to use 
+      personally identifiable information in a manner different from that stated 
+      at the time it was collected, we will notify users by way of an e-mail. 
+      Users will have a choice as to whether or not we use their information in 
+      this different manner. We will use information in accordance with the 
+      privacy policy under which the information was collected.
+      </p><p class="TextEnglish"></p>
+      <p class="TextEnglish">
+      <a href="Index.asp" target="_parent">Home</a></p>
+     </td></tr></tbody></table>  </p>
+
+<script>
+	Dom.getElm('TopTitle').style.height = "80px";
+	Dom.getElm('TopTitle').style.backgroundImage = TopImage;
+</script>
+<script language="JavaScript" src="GeneralFooter.js"></script><div id="FooterLayer" dir="ltr" name="FooterLayer" style="border: 0px solid red; left: -15px; width: 516px; position: absolute; height: 105px; text-align: center; top: 2293px;"><table align="center" border="0" cellpadding="0" cellspacing="0" style="HEIGHT: 50px; width:516px"><tbody><tr class="FooterEnglish"><td align="middle" height="12" nowrap="" style="HEIGHT: 12px" valign="bottom" class="FooterEnglish"><hr width="90%" class="FooterEnglish"></td></tr><tr class="FooterEnglish"><td align="middle" valign="top" height="12" style="HEIGHT: 12px" class="FooterEnglish"><a href="http://www.altafsir.com/IntroSrc.asp"><font class="FooterEnglish">About Altafsir</font></a>&nbsp;<font style="COLOR: #0b196b; FONT-FAMILY: Tahoma;  FONT-SIZE: 8pt; FONT-WEIGHT: 100" class="FooterEnglish">|</font> <a href="http://www.altafsir.com/unique_features.asp"><font class="FooterEnglish">Unique Features</font></a>&nbsp;<font style="COLOR: #0b196b; FONT-FAMILY: Tahoma;  FONT-SIZE: 8pt; FONT-WEIGHT: 100" class="FooterEnglish">|</font> <a href="http://www.altafsir.com/AboutFoundation.asp"><font class="FooterEnglish">About the  Institute</font></a>&nbsp;<font style="COLOR: #0b196b; FONT-FAMILY: Tahoma;  FONT-SIZE: 8pt; FONT-WEIGHT: 100" class="FooterEnglish">|</font> <a href="http://www.altafsir.com/AboutITG.asp"><font class="FooterEnglish">About ITG</font></a></td></tr><tr class="FooterEnglish"><td align="middle" height="12" style="HEIGHT: 12px" valign="top" class="FooterEnglish"><a href="http://www.altafsir.com/TafsirTerms.asp"><font class="FooterEnglish">Terms and Conditions</font> </a><font style="COLOR: #0b196b; FONT-FAMILY: Tahoma;  FONT-SIZE: 8pt; FONT-WEIGHT: 100" class="FooterEnglish">|</font><a href="http://www.altafsir.com/PrivacyPolicy.asp"> <font class="FooterEnglish">Privacy  Policy</font></a>&nbsp;<font style="COLOR: #0b196b; FONT-FAMILY: Tahoma;  FONT-SIZE: 8pt; FONT-WEIGHT: 100" class="FooterEnglish">|</font>&nbsp;<a href="mailto:altafsir@itgsolutions.com"><font class="FooterEnglish">Contact Us</font></a>&nbsp;<font style="COLOR: #0b196b; FONT-FAMILY: Tahoma;  FONT-SIZE: 8pt; FONT-WEIGHT: 100" class="FooterEnglish">|</font>&nbsp;<a href="http://www.altafsir.com/ContactUs.asp?url="><font class="FooterEnglish">Feedback </font></a><font style="COLOR: #0b196b; FONT-FAMILY: Tahoma;  FONT-SIZE: 8pt; FONT-WEIGHT: 100" class="FooterEnglish">|</font><font class="FooterEnglish">&nbsp;Help</font></td></tr><tr class="FooterEnglish"> <td align="middle" height="12" style="HEIGHT: 12px" valign="top" class="FooterEnglish"> <font class="FooterEnglish">Copyrights ©  2002&nbsp;</font><font style="COLOR: #0b196b; FONT-FAMILY: Tahoma;  FONT-SIZE: 8pt; FONT-WEIGHT: 100" class="FooterEnglish">Aal al-Bayt Institute for Islamic Thought</font></td></tr><tr class="FooterEnglish"> <td align="middle" height="12" style="HEIGHT: 12px" valign="top" class="FooterEnglish"><font class="FooterEnglish">Developed  and&nbsp;maintained&nbsp;by:</font>&nbsp;<a href="javascript:OpenWin()"><font style="COLOR: #0b196b; FONT-FAMILY: Tahoma;  FONT-SIZE: 8pt; FONT-WEIGHT: 100" class="FooterEnglish">Integrated Technology Group</font></a></td></tr><tr class="FooterEnglish"><td align="center" class="FooterEnglish"><font style="COLOR: #0b196b; FONT-FAMILY: Tahoma;  FONT-SIZE: 8pt; FONT-WEIGHT: 100" class="FooterEnglish">This site is best viewed by 800x600 resolution, <br>using IE 5.5+ or Netscape 7.0+</font></td></tr></tbody></table></div>												
+<script language="javascript">
+	var get_Pageid = "";
+	//Check Browser & Footer
+	if(checkBrowser() == "IE")
+		setFooterTop = -5;
+	else
+		setFooterTop = -15;
+		
+	SetAllHeights();
+	Dom.getElm('FooterLayer').style.left = -15;	
+</script>  
+</div>
+<script language="javascript" src="R_clickh.js"></script>
+
+
+</body></html>
