@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpaaustralia.com.au privacy policy that was archived on 2003-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030408025404id_/http%3A//cpaaustralia.com.au/global/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpaaustralia.com.au privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205054127id_/http%3A//www.cpaaustralia.com.au/global/privacy.asp) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -10,7 +10,7 @@ From 21 December 2001, the Privacy Act 1988 ('the Act') has extended to private 
 ##   
 Scope
 
-This Privacy Statement applies to this website which is operated by CPA Australia under the domain name 192.168.2.15 ('the CPA website'). However this Privacy Statement is subject to any specific provisions about privacy that may be contained in other sections of the CPA website. In the event of any inconsistency between the provisions of this Privacy Statement and such other specific provisions, the latter shall prevail.
+This Privacy Statement applies to this website which is operated by CPA Australia under the domain name www.cpaonline.com.au ('the CPA website'). However this Privacy Statement is subject to any specific provisions about privacy that may be contained in other sections of the CPA website. In the event of any inconsistency between the provisions of this Privacy Statement and such other specific provisions, the latter shall prevail.
 
 ##   
 Commitment
@@ -29,7 +29,7 @@ Personal Information
 ##   
 Collection of personal information
 
-The type of Personal Information that CPA collects about you online, depends on how you use the CPA website. For example, we will collect Personal Information about you if you register with CPA as a member; register with CPA Online to use the PD Online service and/or enrol in online learning; enrol in CPA Program and/or Public Practice Program, order a product; post messages to forums; publish resumes; publish jobs or set up a job alert in Recruitment and Careers; participate in a discussion group; communicate to us via e-mail; or volunteer survey information.
+The type of Personal Information that CPA collects about you online, depends on how you use the CPA website. For example, we will collect Personal Information about you if you register with CPA as a member; register with CPA Online to use the PD Online service or enrol into an event online; enrol in CPA Program and/or Public Practice Program, order a product; post messages to forums; publish resumes; publish jobs or set up a job alert in Recruitment and Careers; participate in a discussion group; communicate to us via e-mail; or volunteer survey information.
 
 Generally speaking, the purpose of collection and the minimum information which you must provide us, will be conveyed to you at the time of collection.  
 
@@ -130,6 +130,6 @@ If you believe that any Personal Information collected about you through this we
 ##   
 Contact details and complaints 
 
-If you feel that this Privacy Statement is not being followed, please contact your [local CPA office](https://web.archive.org/05_about_cpa_aust/5_0_0_3_directory.asp) or the [Privacy Officer](mailto:margaret.pratt@cpaaustralia.com.au). 
+If you feel that this Privacy Statement is not being followed, please contact your [local CPA office](https://web.archive.org/05_about_cpa_aust/5_0_0_3_directory.asp) or the [Privacy Officer](mailto:liz.granger@cpaaustralia.com.au). 
 
 [CPA Online's Privacy policy](https://web.archive.org/global/privacy_policy.asp)
