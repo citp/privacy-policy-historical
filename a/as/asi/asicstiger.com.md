@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asicstiger.com privacy policy that was archived on 2002-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020405135710id_/http%3A//www.asicstiger.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asicstiger.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621123518id_/http%3A//www.asicstiger.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Statement
+# ASICS Privacy Policy
 
 **Privacy/Security Statement for ASICS TIGER**
 
@@ -32,7 +32,8 @@ This site is operated by ASICS TIGER Corporation. No files from this web site ma
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, or the practices of this site contact: [ webmaster@asicstiger.com](mailto:webmaster@asicstiger.com)
+If you have any questions about this privacy statement, or the practices of this site contact: [   
+webmaster@asicstiger.com](mailto:webmaster@asicstiger.com)
 
 For all other questions including consumer inquires, product issues, and company information contact:  
 [consumer@asicstiger.com](mailto:consumer@asicstiger.com)
