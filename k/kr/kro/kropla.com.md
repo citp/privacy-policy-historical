@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kropla.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604134206id_/http%3A//kropla.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kropla.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207175459id_/http%3A//kropla.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,10 +8,6 @@ E-mail addresses voluntarily submitted for update notifications will not be shar
 
 This site features a number of links to external sites.  These are reviewed for appropriate content before the links are established.  However, SMK Enterprises cannot control the visitor information these sites may collect, nor is it responsible for their continued performance or any changes to content.  If you are concerned about privacy on those sites, please review their privacy policy or contact their webmaster.
 
-Need to know more?  Please **[e-mail](mailto:info@travel-advisor-online.com)** with any specific questions you might have.  Thank you.
-
-[**Return to the main page**](https://web.archive.org/web/20030604134206id_/http%3A//kropla.com/index.html)
-
-_http://kropla.com/privacy.htm \-- Updated 27 April 2002_  
-Copyright © 2000-2002 Steve Kropla  
+_http://kropla.com/privacy.htm \-- Updated 30 November 2003_  
+Copyright © 2000-2003 Steve Kropla  
 All rights reserved.
