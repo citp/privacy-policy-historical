@@ -1,153 +1,185 @@
-> *The following text is extracted and transformed from the bluemountain.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604015737id_/http%3A//www4.bluemountain.com/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluemountain.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204001511id_/http%3A//www.bluemountain.com/home/privacy.html) for the most accurate reproduction.*
 
-# Blue Mountain's Customer Information Privacy Policy
-
-|  |  | 
-
-* * *
-
-|  |  | 
-
-**Blue Mountain, part of the Excite@Home family**
+# Blue Mountain Privacy Policy
 
 |   
 ---  
-Part of the reason that Blue Mountain chose to merge with Excite@Home is our shared concern for our users. Blue Mountain has always been committed to protecting the privacy of our users, and Excite@Home is an industry leader in privacy protection. 
-
-We are committed to making your Blue Mountain experience enjoyable and safe. When you send one of our electronic greetings, the information you provide to us is used only to customize your greeting with your name and your recipient's name, and to deliver email notifications to you and your recipient. Unless you expressly opt-in to sharing information with one of our partners on a particular card, the names and email addresses you give us when you send a card are NOT sold, compiled into any type of mailing list, or otherwise used for any type of email solicitation. 
-
-Our integration with Excite@Home will enable us to provide you with enhanced services, such as Address Book and Reminder Service. If you choose to register for any of these services, we will at times need to collect certain information from you. Our data collection policies with regard to these enhanced services allow you to choose how much information you provide to us, and to control how we use that information. Read below to find out more.  
+  **GENERAL MATTERS**  
+ · overview  
+ · scope of policy  
+  **INFORMATION ABOUT YOU**  
+ · gathered from all visitors  
+ · gathered from members  
+  **USES OF PERSONAL INFO**  
+ · privacy of greeting card info  
+ · disclosure exceptions  
+  **CONTROL OF PERSONAL INFO**  
+ · opt-out/changing status  
+ · edit profile  
+  **OTHER MATTERS**  
+ · Protection For Children  
+ · Contests and Promotions  
+ · Sale of Assets  
+ · Data Security  
+ · Changes to the Privacy Policy  
+  **YOUR ONLINE ACTIVITIES**  
+|  **GENERAL MATTERS** |  back to top  
+---|---  
+**Overview**  
+At Blue Mountain, protecting our users' privacy and security is a top priority. For this reason, we have adopted the following policy to advise you of your choices regarding the use of your personal information online. This policy describes what types of information we gather about you, how we use it, under what circumstances we disclose it to third-parties, and your rights to update or correct it.  
+   
+**Scope of Policy**  
+This Policy applies to Blue Mountain, a member of the AmericanGreetings.com ("AG") network of sites. It does not apply to other companies' or organizations' web sites to which we link. You should carefully review the privacy policies of those web sites in order to determine how they treat your personal information.  
+   
+**INFORMATION ABOUT YOU** |  back to top  
+---|---  
+**Information Gathered From All Visitors**  
   
----  
-[](https://www.truste.org/validate/43) Excite@Home, of which Blue Mountain is a member, is a licensee of the TRUSTe Privacy Program. The At Home Corporation owns and operates the Excite@Home Network, which includes the following [Internet domains](http://www.excite.com/privacy_policy/domains.html). This statement discloses the privacy practices of the [www.excite.com](http://www.excite.com/privacy_policy/domains.html) Web site, and also applies to each of the other Web sites within the Excite@Home Network. When you visit a Web site displaying the TRUSTe trustmark, you can expect to be notified of: 
-
-  1. What Personally Identifiable Information of yours is collected
-  2. What organization is collecting the information
-  3. How the information is used
-  4. With whom the information may be shared
-  5. What choices are available to you regarding collection, use, and distribution of the information
-  6. What kind of security procedures are in place to protect against the loss, misuse, or alteration of information under the company's control
-  7. How you can correct any inaccuracies in the information
-
-
-
-Questions regarding this statement should be directed to Excite@Home's [Support Services](http://www.excite.com/feedback/) department. If we have not responded to your inquiry in a timely manner, or your inquiry has not been satisfactorily addressed, please contact [TRUSTe](http://www.truste.org/users/watchdog.html).
-
-To return to the Web Site, please use the "Back" button on your browser.
-
-The Internet is rapidly changing the way all of us communicate and interact with each other. While the Internet allows each of us access to a greater array of information and services than has ever been available, these new online activities do raise new challenges, such as the privacy issues addressed in this policy. Excite@Home is committed to working with public policy organizations, industry groups, and government institutions to understand and address these challenges as they arise. But most importantly, having a relationship with our customers that is founded on trust is not only good manners, it is also good business. Any [feedback](http://www.excite.com/feedback/) you'd like to provide to help us better meet your expectations in this arena is welcomed. 
-
-**Our Commitment to You**
-
-Excite@Home wants to make your online experience satisfying and safe. Our data collection policies allow you to choose how much information to provide to us, and to control how we use that information. Our goal is to provide you with a robust online experience while allowing you to control your privacy.
-
-Excite@Home collects information online primarily to make it easier and more rewarding for you to use our services. Depending on the service you are accessing, you could be asked at various times to provide information such as your name, email address, or information about what you like and do not like. On other occasions such as when we provide items for purchase online, we may request your credit card number to conclude the transaction, or your mailing address to ensure proper delivery. We request this information to provide our strongest value to you - a personalized online experience. Customers who personalize our service come back more often - and it's the customers that visit us often who make us successful - so we do everything we can to make Excite@Home your service with your name on it and to give you just the content you want.
-
-Information collected online is often defined as being either anonymous or personally identifiable: 
-
-  1. **Anonymous Information** refers to information that cannot be tied back to a specific individual. For instance, we may know that 10,000 people visit this Privacy Policy today, but we do not necessarily know their names, where they live, or their date of birth. What we collect from transactions such as this constitutes anonymous information, much like how your hometown's bus service knows how many people take a given route - but doesn't necessarily know who those people are. Many of the individuals who access our services decline to use the personalization features that are available to them, and therefore those individuals are anonymous to us and the data we collect is similarly anonymous information. 
-  2. **Personally Identifiable Information** refers to information that tells us specifically who you are, such as your name, phone number, or postal address. In many cases we need this information to provide the personalized or enhanced service that have requested. Examples of the use of such information would be our award-winning "My Excite Start Page," which uses your mailing address to customize TV schedules, weather reports, and sports scores; our commerce-enabled services, which allow our partners to ship the products you buy to your door; or our free Excite Mail email service, which uses your name as part of a security mechanism to protect your messages from being read by anyone but you. We hope that, like many of our customers, you will find it beneficial to judiciously provide Personally Identifiable Information to Excite@Home so that we may provide more valuable free content and products to you. 
-
-The amount of Personally Identifiable Information that you choose to disclose to Excite@Home is completely up to you. The only way we know something about you personally is if you register for a personalized service or enter one of our Excite@Home Network sweepstakes. In other words, we will know Personally Identifiable Information about you only if you choose to share this type of information with us.   
----  
-**Our Commitment to Your Family**
-
-Like you, we at the Excite@Home Network have children of our own and are concerned about their safety when they use the Internet. We want you and your family to be safe while visiting our Internet sites. That is why we have established the following guidelines for the way we interact with children when they access our services.
-
-Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request Personally Identifiable Information from anyone under the age of 13 without requesting verifiable parental consent. As a TRUSTe Premier Sponsor, we will place a "Children's Seal" on any page directly targeted to children under 13 that requests the disclosure of consumer information, informing those children that parental consent is needed, and we will use a secure and verifiable method for confirmation of such consent.
-
-Additionally, Excite@Home offers levels of protection for minors that are beyond what either TRUSTe or federal law requires. While Excite@Home will not target registration to those under 13 without using the safeguards listed above, we recognize that some minors will utilize the registration products associated with our general release products. If a customer registers with us and their birth date indicates that they are not just under 13, but are in fact any age less than 18, we will:
-
-  1. Never knowingly send a copy of a mass emailing to them, even if they gave us permission to email them during registration.
-  2. Never voluntarily share their customer information with any third party, even if they gave us permission to share their customer information during registration.
-  3. Never list them in any Member Directory in a manner in which their age can be easily identified.
-
-The only exceptions to the above policies regarding data collected from minors will be for bona fide non-profit organizations that offer outreach and support to children. In cases where minors have volunteered information in the context of a cobranded peer counseling or mentoring environment on an Excite@Home Network domain, this information will be shared with that cobranded non-profit organization. An example of such a bona fide non-profit organization would be the outstanding [SHINE](http://shine.excite.com/) organization (Seeking Harmony in Neighborhoods Everywhere) that Excite@Home supports.
-
-In summary, the management and employees of Excite@Home are very proud of our industry-leading steps to safeguard the privacy of all minors online. We're doing what we can to ensure that Personally Identifiable Information regarding registered users under the age of 18 won't leave our company for commercial use; and that someone using our site won't be able to easily look up their age. These protections are a start, but there are some actions we cannot control, and in these areas we need help from the child's parent or guardian as well. For instance, we cannot stop a minor from giving their age in our unmoderated online chat sessions - but parents or guardians can counsel their children against taking such actions. For more information about protecting the privacy and safety of minors online, we recommend that you visit the [Parents and Teachers](http://www.truste.org/education/users_parents_teacher_guide.html) portion of the TRUSTe site, which contains information and links to other resources on this subject.  
-  
-**Can Excite@Home Do Something About Spam?**  
-In the online world, unsolicited junk email is referred to as "Spam." Nearly all of us at one time or another will find Spam in our email inboxes. Sadly, there is no current solution to completely prevent the delivery of Spam although our Excite Mail team is constantly working on solutions that help. Your email address can become available to "Spammers" in any number of ways. You may have entered your email address at a non-Excite@Home Web site where you signed up for a product or service. Or maybe you posted a message to a discussion board and included your email address - from which it can be automatically plucked by disreputable firms. Or, you might have done nothing at all. Unfortunately, some Spammers send massive amounts of email to various Internet domains, including ours and those run by companies such as Yahoo!® or AOL®. These individuals target large lists of probable email names (like "John") and the resultant email address (like "john@excite.com"). While these activities are horribly inefficient, they are a common practice that allow Spammers to get mail out to people who have not provided their names or addresses. Your best bet is simply to delete such email from your inbox if you find any.
-
-Regrettably, all of us are victims of this behavior. Excite@Home does not condone these activities and is active in pursuing solutions, including supporting the development of new laws and regulations to stem email Spamming. Excite@Home is not responsible for this unfortunate activity, and largely cannot stop it from occurring when it originates from domains off of the Excite@Home Network. We can and will, however, take actions against Excite@Home users who utilize any of our email products as the launching pad for Spam directed towards others, whether those prospective Spam recipients be Excite@Home customers or not. Sending Spam from any Excite@Home domain is a serious breach of our [Terms of Service](http://www.excite.com/terms.html) that can lead to immediate closure of the sender's account.
-
-Finally, Excite@Home does occasionally send outbound email communications to our customers - and we hope you never think of it as Spam. To ensure that this is the case, we have strong policies in place that allow our customers to control the delivery of this content, or to prevent it altogether if that is your preference. For information about the controls that we make available to you, please see the information about unsubscribing from Excite@Home outbound emailings shown below.  
-  
----  
-  
-**What Personally Identifiable Information of yours is collected**
-
-As always, we are committed to making your Blue Mountain experience enjoyable and safe. When you send one of our electronic greetings, the information you provide to us is used only to customize your greeting with your name and your recipient's name, and to deliver email notifications to you and your recipient. The names and email addresses you give us when you simply send a card are NOT sold, compiled into any type of mailing list, or otherwise used for any type of email solicitation. 
-
-If you choose to explore Exite@Home-integrated services, such as Address Book, we may at times ask you to submit information such as your name or email address, or to share your interests and hobbies with us. You never have to answer these questions, and you can decline this exchange of information on any site on the Internet - not just ours - at any time. However, if you should choose to withhold requested information, we may not be able to provide you with some of the services dependent upon the collection of this information, such as a personalized stock portfolio, a sweepstakes entry, or the purchase and shipment of products and prizes to people who visit our network.
-
-In order to better serve your needs as a consumer, Blue Mountain may partner with an outside agency to process credit cards and transactions. When partnering with these companies, Blue Mountain may allow them to save your credit card or payment information in the interest of processing the transaction. Our partners are contractually obligated to keep your information in confidence. At no point in time will the data be sold or given to any other party or used in any other way, other than for legitimate customer relations and error correction activities. 
-
-If you are an Excite@Home broadband cable service customer, you are electing to use a paid service that requires you to supply certain information to establish the billing relationship. For instance, your name, address, phone number, and potentially your credit card number must be provided to initiate service. That information is only available to authorized Excite@Home personnel for installing, maintaining, and billing the Excite@Home service.
-
-When you surf the Internet, your Internet browser (such as Netscape Navigator® or Microsoft Internet Explorer) automatically transmits some information to Excite@Home every time you access content on one of our sites, whether accessing it from the Excite@Home cable Internet access service or through another Internet Service Provider (ISP). Examples of such information include the URL of the Web page you were just on (known as the "Refer"), the IP (or Internet Protocol) address of the computer you are using, or the browser version you are using to access our site. All of this information is collected by Excite@Home and is used to help improve our offerings to you. For instance, from this information we determined that few of our customers use older browser versions. Because of this we recently decided to enhance the quality of content available to all of our customers by using the advanced features of HTML that cannot be accessed from those older browser versions. All of the information that is automatically submitted to us by your browser is considered Anonymous Information.
-
-To enable many of the features available within the Excite@Home Network, we will assign "cookies" to your Internet browser (such as Netscape Navigator or Microsoft Internet Explorer). A cookie is a small text file that contains a unique identification number stored on your computer. Cookies by themselves cannot be used to find out the identity of any user. This unique identification number automatically identifies your browser - but not you - to our computers whenever you interact on one of our Internet domains. When you visit our site, a cookie in effect says to our server computers "Hello, I'm browser #655. What do you do just for me?" Every Web page that you access that includes advertising or content served from the Excite@Home Network will have the contents of your cookie reported in our server logs. But only when you agree to provide Personally Identifiable Information directly to an [Excite@Home branded service](http://www.excite.com/privacy_policy/domains.html), such as through registration, will we be able to know anything about you other than the random number that our server computers originally assign to your browser.
-
-There is a lot of confusion about cookies, how they are used, and what they can do. Cookies only contain information that the server computer "knew" in the first place, and can only be read by the serving domain that placed them. For instance, Yahoo! utilizes cookies, but Excite@Home's servers can't read their contents nor can Yahoo!'s servers read ours. Cookies are an essential part of how the Internet works today, and allow server computers to recognize your computer's browser when you return. If you have ever gone to a Web page that automatically provides personalized content without you having to "sign in," such as your own stock portfolio, this is almost certainly being accomplished with a cookie. Since cookies are only text files, they cannot "run" on your computer and have no ability to search your computer for other information, or transmit it to anyone.
-
-Cookies are part of the technology implemented by your Web browser. But don't just take our word for it - read what the companies who wrote the browsers have to say!
-
-For Netscape, please visit: <http://home.netscape.com/security/basics/privacy.html#cookies>
-
-For Microsoft, please visit: <http://www.microsoft.com/insider/internet/articles/security2.htm#cookies>  
-  
----  
-  
-**What organization is collecting the information**
-
-The data you provide in [any Internet domain of the Excite@Home Network](http://www.excite.com/privacy_policy/domains.html), including [http://www.excite.com](http://www.excite.com/), is collected by the At Home Corporation. Excite@Home is a wholly owned-subsidiary of this corporation. [Click here](http://www.home.net/) to find information about the At Home Corporation.
-
-If you are a user of the Excite@Home broadband cable service, you have a second, separate, relationship with your Excite@Home cable partner that is directly providing services to you. These companies receive the information you supply to Excite@Home to create your account, but do not receive subsequent Personally Identifiable Information from us regarding you or your activities online. The cable partners offering you Excite@Home services also have independent policies relating to the protections they employ to safeguard your information. These policies are provided to you by your cable operator when your cable service (or cable Internet service) is installed, and in the United States are sent by law to you annually thereafter, for as long as you remain a customer (practices will vary in other locations according to local law). These various policies are outside of Excite@Home's control and questions you may have regarding them should be made directly to your cable service.  
-  
----  
-  
-**How the information is used**
-
-Our services have been designed to enable Excite@Home to provide personalized content to those customers who wish to receive it. The majority of the services that are provided for free through the Excite@Home Network are the result of advertising revenues. Our ability to provide enhanced services and content to our customers is dependent on our ability to provide venues for our advertising partners that reach specific demographic segments of our customer base. Generally, advertisers have little interest in reaching a specific customer of our services - and as a matter of policy we provide no mechanism for an advertiser to reach you or any other specific customer unless you request that contact. Instead, our advertising partners have the need to reach customers who share common demographic characteristics such as a specific gender or age range. For instance, certain products are more often purchased by men then by women and therefore when advertising those products, in this example the advertiser would prefer to target their messages just to men. The better job Excite@Home does in providing a mechanism for advertisers to reach specific sub-segments of our users, the more revenue we can generate from advertising and that ultimately is what allows you the consumer to get to the wealth of free content that is available on Excite@Home's various services. Importantly, at no time is your Personally Identifiable Information used to determine what advertising you receive nor do we use it to determine what type of advertising any other customer of Excite@Home will receive.
-
-Below is a description of the uses of the information that we collect and how our visitors and advertisers benefit from these action:
-
-  1. We provide personalized content in the form of news, horoscopes, advertisements, weather reports, stock portfolios, movies, television listings, and more to our Members.
-  2. We pay attention to what our customers do and do not use on our service and modify our content appropriately.
-  3. We match the patterns of usage that our consumers exhibit on any Web site where we serve advertising - over 2,000 distinct Internet domains - to create "imputed profiles" about our anonymous customers. The creation of an imputed profile allows the Excite@Home Network to statistically model the demographic characteristics of an otherwise anonymous customer, without ever knowing that anonymous customer's name or any other Personally Identifiable Information about them. These imputed profiles are used to target advertising - primarily banners - to those anonymous customers, both on [Excite@Home Network domains](http://www.excite.com/privacy_policy/domains.html) and any of the other Internet domains where we serve advertising.
-
-Through the use of imputed profiles, Excite@Home can surface advertising to our customers that is more likely to be for products they would want, and sell that advertising in the marketplace for a higher price. This is essential to our ability to provide high quality content to our customers for free. Excite@Home never matches "Who you are" with "Where you've been" on the Internet because we do not use personal data characteristics such as your name, address or phone number to create these imputed profiles but rather use primary demographic characteristics such as your age or gender. Finally, imputed profiles present no privacy risk to our customers because they are worthless to third parties; since any potential third party would be unable to read the cookies that we set on our domains, only Excite@Home can create value from these imputed profiles.
-
-  4. We provide advertisements that support our customers' specific requests for information through keyword searches and editorial content. Do a search on "cars," for instance, and you'll usually see a banner advertisement from an automobile company.
-  5. We develop summary - but not individual - reports for our advertisers. An example of a summary report might be "12,000 people clicked on Advertisement 'X' today, and of those people, 35% had previously indicated they had an interest in sports." Our advertisers, who make it possible for you to use Excite@Home for free, need this information to determine how effective their advertising investments are. We never tell our advertisers who it was that saw or clicked on their advertisements, unless you have specifically told us it is acceptable to do so.
-  6. If you enter a sweepstakes or a contest, we'll use the information you supplied to contact you. We'll probably also congratulate you!
-  7. Through our DeliverE email service, we will send registrants of the Excite@Home Network outbound email communications on information we think they will find useful, including information about new products and services from selected partners. It is our policy to never send messages to Members who have asked us not to do so, either at initial registration or later through an unsubscribe process. In every email from any company or Web site of the Excite@Home Network, we will remind you of your option to change your preferences regarding receipt of future email communications. Please see the information about unsubscribing from Excite@Home outbound emailings shown below for more information.
-  8. Finally, if we believe that Excite@Home property or an individual's safety or security is at risk, we will disclose this information to proper court or law enforcement agencies.
+  * _Aggregate Data:_  
+We gather certain generic information with respect to customers' use of our web site, such as the number of unique visitors, the frequency with which they visit, and the areas on the web site that they favor. These statistics are very much like television ratings that tell the networks how many people tuned in to a program. We only use this type of data in aggregate - that is, we look at the data on a collective basis, in summary form, rather than on an individual basis. This data helps us determine the extent to which our customers use certain parts of our web site, which, in turn, enables us to make it as appealing as possible. We may also provide statistical "ratings" about how our customers collectively use our web site to advertisers, sponsors, and other companies with which we do business ("Business Partners"). We do this so they, too, can understand how often people use their areas of the site in order for them to provide you with the best possible experience. These statistical ratings do not contain any personally identifiable information about you or any of our users. 
 
   
----  
   
-If you are providing us Personally Identifiable Information, it will only be used within the [Excite@Home Network Internet domains](http://www.excite.com/privacy_policy/domains.html) unless you choose to allow third party data sharing (by opting in for such distribution during the registration process). Should you choose to provide your information to third parties, Excite@Home will share aspects of your information with our valued partners. Some of these transactions will include financial payment to Excite@Home for the information provided but are only undertaken with companies whose privacy practices are consistent with the principles established within this policy and with whom Excite@Home believes that a product that truly benefits our customers can be promoted. All of our partners help contribute towards many of the free services available on the Excite@Home Network.
+  * _Cookies:_  
+We use a technology nicknamed "cookies" on our web site. Cookies are pieces of information or data sent to your browser from a web server and stored on your computer's hard drive for record-keeping purposes. We use cookies to make your visit to our web site easier. For example, cookies allow us to recognize you when you re-enter our web site so that you will not have to sign-in each time you visit. Cookies also allow us to count the number of unique and return visitors who use our site. 
 
-Although unlikely, Excite@Home may be required by law enforcement or judicial authorities to provide Personally Identifiable Information the appropriate governmental authorities. If requested by law enforcement or judicial authorities, we will provide this information upon receipt of the appropriate documentation.
+Most browsers are initially set up to accept cookies. If you prefer, you can reset your browser to notify you when you've received a cookie or, alternatively, to refuse to accept cookies. It is important to note that you may not be able to use certain features on our web site if you choose not to accept cookies, such as the address book or reminders . In addition, you will not be able to participate in any of our sweepstakes, contests or monthly drawings. Cookies can also enable us to track and target the interests of our users to enhance their experience on our site. 
 
-Other companies that place advertising on our site may collect information about you when you view or click on their advertising or content through the use of cookies (using the same techniques as described above). Due to the way the Internet technically operates, we cannot control this collection of information - but we can control which companies are allowed to place such advertising on our site. Excite@Home is leading the creation of industry standards of acceptable practice for what is known as "Third party ad serving," and once these standards are established will only accept advertising from third party firms that adhere to those rules of conduct. In the interim, as the consumer you should contact these advertisers or content providers that place information on the Excite@Home Network directly if you have any questions about their use of the information they potentially collect. It should be noted that anyone placing advertising on our Web sites can only collect Anonymous Information about you unless you actively provide Personally Identifiable Information to them.
 
-Information that you provide while using products such as Excite Message Boards and Excite Chat is available for all to see. Discretion should be used in entering Personally Identifiable Information within such forums, as it may be collected by third parties, and this is, for instance, a leading source of unwanted email Spam. The Excite@Home Network does not actively associate the message content entered by our customers in Excite Mail, Excite Message Boards, or Excite Chat products with those customers' registration information. Our server computers will retain this information, however; and it is potentially available for distribution to third parties - most obviously law-enforcement agencies acting under subpoena power, per the terms of this section of our Privacy Policy. We do not use this information to target any advertising to our customers, nor is it ever willingly distributed to any third party, such as an advertiser, except if subpoenaed.
-
-And finally, the Excite@Home Network does not control the information collection and distribution policies on Internet domains other than those [Excite@Home Network Internet domains](http://www.excite.com/privacy_policy/domains.html) that are part of the Excite@Home Network itself. We do, however, encourage our co-branding partners to adopt privacy policies similar to this one and to become licensees of TRUSTe, and we have been relatively successful to date in gaining coverts: Look for the TRUSTe logo wherever you go on the Internet!
-
-**What choices are available to you regarding collection, use, and distribution of the information**
-
-The Excite@Home Network does offer you the ability to control the email communications we make to you. It is our intention to give you as much control over our relationship as possible.
-
-First, as mentioned earlier, the consumer always has the final word on whether Excite@Home - or any Internet company - knows who you are. It is your choice to share Personally Identifiable Information with Excite@Home and we encourage you to consider only sharing information with any site on the Internet if you receive true value in exchange for that information transfer and if you respect the privacy practices of the firm.
-
-If you do choose to share Personally Identifiable Information with Excite@Home, you can control whether we contact you or share the information with third parties, either through declarations you make at the time you share information with us, or through updates to your information in the [Excite@Home Member Services area](http://members.excite.com/private_profile/). Any time information is requested from you on an [Excite@Home Network Internet domain](http://www.excite.com/privacy_policy/domains.html), you should see a TRUSTe logo that links to our Privacy Policy and a clear indication of what your information distribution choices are. Excite@Home will always give you a chance to unsubscribe to any email communication from us - clear directions for doing so will appear in any email message we send to you.
-
-At times, the Excite@Home Network may enter into cobranding arrangements with other companies, and if so, an opt-in question may be present for contact from these firms as well. Their opt-out features are specific to each organization, but you should never receive email from these organizations unless you have indicated that it is acceptable. All email from the Excite@Home Network, or from cobrand partners who gain your permission to send you commercial email, will include an opportunity to opt out of future communications.
-
-The Excite@Home Network does reserve the right to send a one-time registration confirmation email, and infrequent Service Alert messages to its customers to inform them of specific changes that may impact their ability to use a service they have previously signed up for, regardless of email contact opt-in status. An example of a Service Alert message would be notification of the impending closing of an account that is believed to be abandoned. Additionally, Excite@Home reserves the right to send its broadband cable service customers periodic postal mail and/or email regarding administrative topics, for example, changes in pricing or operating policies. And finally, we also reserve the right to contact you if compelled to do so as part of a legal proceeding or if there has been a violation of our [Terms of Service](http://www.excite.com/terms.html). Excite@Home is retaining these rights because in limited cases we feel that we may need the right to contact you as a matter of law or regarding matters which will be important to you. These rights do not allow us to contact you to market a new or existing service if you have asked us not to do so, and issuance of these types of communications are rare.   
   
----
+  
+  * _Third Party Advertiser Cookies:_  
+We also use third-party advertising companies to serve our ads on the Internet. These third-party advertising companies employ cookie and Clear Gif technology (aka 1x1 Pixel .gifs, Web bugs) to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our Web site and other Web sites. This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, the IP address. This information can also be used for online preference marketing purposes. Blue Mountain does not use or have access to this information. 
+
+If you want to prevent a third-party advertiser from setting and/or reading cookies on your computer, currently you may either visit each ad network's web site individually and opt out or visit the web site of the National Advertising Initiative ("NAI") to opt-out of all network advertising cookies. [Click here](http://www.networkadvertising.org/optout_nonppii.asp) for the NAI gateway opt-out site. This site will also allow you to review the third-party advertising companies' privacy policies. 
+
+
+  
+  
+  * _IP Addresses:_  
+We collect and analyze traffic on our web site by keeping track of the IP addresses of our visitors. An IP address is a unique number assigned to your computer when you are using your browser on the Internet. We log this information so that we can monitor things like the number of visitors visiting the web site; however, we do not link your IP address to any personally identifying information. 
+
+  
+  
+  * _When You Send A Greeting:_  
+If you use our web sites to send an online greeting or any other content, we collect your e-mail address and your recipient's e-mail address. This information is necessary to send the content and provide confirmation that it has been received. We may also use your e-mail address to contact you if you have chosen to receive communications from Blue Mountain, AG or its Partners. (See Opt-Out/Changing Your Status, below). 
+
+  
+  
+  * _Personalizing Your Experience on the Web Site:_  
+We try to personalize your experience on our web sites by tracking greetings and other content you have sent and gifts you have purchased in order to shape our recommendations about the greetings, cards, gifts, and other goods and services that might be of interest to you. We also examine customer traffic patterns and web site usage to help us enhance the design and layout of the site and make it easier to navigate. 
+
+From time to time, we may send you surveys or solicit your feedback. We use surveys to gauge user interest in new products and premiums we may offer. We will ask for your feedback on greetings and other site features. We will use the information we gather to improve our sites and provide a more meaningful experience for our users. We may also use the information to alert you to offers and products in which you have expressed an interest. 
+
+
+  
+  
+  * _Subscribing to a Newsletter:_  
+We send to interested users an exclusive Blue Mountain Newsletter, which alerts you to new features, content, and services, premiums available on our web sites. From time to time, we will also send you invitations to enhance your Blue Mountain membership. These communications are sent to you directly by Blue Mountain. We do not share your personally identifiable information with any third parties in connection with the Newsletter. 
+
+You can always decline the Newsletter by un-checking the opt-out box on the "Personalize Your Greeting" pages or registration pages on our site. If you are already receiving the Newsletter and you want to unsubscribe, you can simply follow the "unsubscribe" links at the bottom of each edition. For other ways to unsubscribe, see Opt-Out/Changing Your Status, below. 
+
+
+  
+  
+  * _Offers from Our Business Partners:_  
+Blue Mountain also offers you the opportunity to receive money-saving offers, discounts, and promotions from our Business Partners. These communications may come from Blue Mountain or directly from the Partners themselves. We may also share with them certain demographic, geographic, preference, and other personally identifiable information we have gathered about you. This will help them in directing to you offers that are more likely to be of interest. 
+
+This program is conducted strictly on an opt-in basis. In order to receive the offers, you must affirmatively check the clearly marked box on our "Personalize Your Greeting" pages and registration pages on our site. If you leave the box unchecked, you will not receive any offers. If you do sign up for the program but later change your mind, you are free at any time to opt-out by following the procedures outlined in Opt-Out/Changing Your Status, below. 
+
+
+  
+   
+**Information Gathered From Members**  
+If you elect to become a registered member of Blue Mountain, you will be required to provide us with certain contact information. As a registered free member, you will need to provide your name, e-mail address, zip code, country, gender and e-mail format (this information is subject to change from time to time). Our registration process also allows you to provide us with additional information regarding your preferences and interests. This information, however, is not required for membership and is completely optional on your part. All information requested from you during the registration process is clearly labeled as "required" or "optional," as applicable. 
+
+Additional data may be collected from members based upon certain services the member elects to utilize on our web site. For example, we may track the categories of greetings you send in order to make appropriate recommendations for products or services available on our site or those of our Business Partners. Members may register for the Blue Mountain reminder service, which sends free e-mail alerts to track important dates that you specify. The address book allows members to conveniently store and insert addresses directly into their greetings. By obtaining this information, we can provide our members with specific content and advertising in which they might be interested. None of this information is required to use our service or to become a member; however, the omission of certain types of data will limit the value of becoming a member of Blue Mountain. 
+
+If you register to become a member of Blue Mountain from one of our co-branded sites, such as Excite@Home, Blue Mountain may share your registration information with the co-branded partner. In such instances, the site will be clearly labeled with the branding information of our partner and links to its privacy policy will be conspicuously posted on the site.  
+  
+   
+**USES OF PERSONAL INFORMATION** |  back to top  
+---|---  
+If you have provided us your consent, we will use the information we have collected about you in five ways: 
+
+  1. To send personalized, targeted information that we think our users will find relevant, either from Blue Mountain, AG, or directly from their Business Partners; 
+  2. To include targeted advertising within such messages; 
+  3. To send promotions and coupons based on the user's interests; 
+  4. To contact the user for feedback and surveys; and 
+  5. To send the user other information about Blue Mountain or AG. 
+
+These communications may come via e-mail, postal mail, or telephone.  
+  
+  * _On-Site Advertising_  
+Blue Mountain may also use information about you to target advertising while you are visiting our sites. For example, we may serve ads from toy companies to users searching the Kids Birthday Greeting pages. We may also use geographic or other information we have collected from you to make sure that the ads you see are for goods and services that are actually of interest to you or are available in your area. We may use cookie files to assure that you will not be served the same ads repeatedly. 
+
+  
+  
+  * _Order Fulfillment_  
+From time to time, you may be given the opportunity to order products and services directly on the Blue Mountain sites, the Newsletters, or in other communications you may receive from Blue Mountain. These orders are typically fulfilled by our Business Partners directly. To process your order, Blue Mountain may provide these Partners with your name, street address, e-mail address, phone number, and credit card information. Blue Mountain will limit the types of information shared to the minimum necessary to efficiently process your order. However, in accepting these offers, you become a customer of the Business Partner and therefore subject to its privacy policy. Blue Mountain will alert users whenever a Business Partner will be fulfilling an order for products or services ordered on our site. We encourage you to review these companies' privacy policies and only do business with those who adhere to personal information practices with which you are comfortable. 
+
+  
+   
+**Privacy of Greeting Card Information**  
+_We treat all of our greetings products as private correspondence between the sender and the recipient and will not disclose the contents of any greeting other than to the intended recipient, except under the specific situations outlined in Disclosure Exceptions, below._
+
+This policy applies to all aspects of our greetings, including your personalized messages. Under normal circumstances, we will not monitor or edit the contents of the online greetings you send. On occasion, however, we may need to view your message in connection with the technical processing of your greeting or the maintenance of our network. Also, if you ask one of our customer service representatives to help you send a greeting or to verify that a greeting was sent, that representative will be able to access all information about the card, including the recipient's e-mail address and the message.  
+  
+   
+**Disclosure Exceptions**  
+Notwithstanding the above policies, we reserve the right to disclose your personal information to appropriate third-parties if we are required to do so by law or we believe that such action is necessary: 
+
+  * To comply with legal process such as a search warrant, subpoena or court order; 
+  * To protect the company's rights and property; 
+  * To investigate reports of users sending material using a false e-mail address or users sending harassing, threatening, or abusive messages; 
+  * To protect against misuse or unauthorized use of our web site and/or the Blue Mountain service; or 
+  * During emergencies, such as when we believe someone's physical safety is at risk. 
+
+  
+**YOUR CONTROL OVER YOUR PERSONAL INFORMATION** |  back to top  
+---|---  
+**Opt-Out/Changing Your Status**  
+At any time, you can change choices you have previously made as to the use of your personal information. Every communication Blue Mountain sends you will contain a clearly worded "Opt-Out" or "Unsubscribe" link allowing you to withdraw your permission for future mailings. Alternatively, you can send a blank e-mail to [nomail@mail.americangreetings.com](mailto:nomail@mail.americangreetings.com) and type "Remove" in the subject field. This system is automated and must be contacted from the email address you wish to have removed. Permission changes will be honored as soon as technically feasible, usually about 7-14 days after receipt. They will however not affect any information which you provided to us and which we previously shared with our Business Partners.  
+   
+**Editing Your Profile**  
+If you are a registered member, you have the ability to review and correct your personally identifiable information at any time. Simply log into the "Member Services Page" area of the site and follow the links to "Update Profile."  
+   
+**OTHER MATTERS** |  back to top  
+---|---  
+**Protection For Children - COPPA Compliance**  
+We are committed to protecting the privacy and rights of children online. We believe that children should be able to use the Internet in a safe, productive, and efficient manner and should be afforded the highest protection available with respect to their personal information. To that end, we have made it our policy to not collect any individually identifiable information from users whom we know are under the age of 13. Our registration process blocks the registration of users under 13 years old and will automatically delete all individually identifiable information collected from such users. 
+
+The Children's Online Privacy Protection Act ("COPPA") imposes certain requirements upon web sites and online services that are directed toward children. To learn more about COPPA, visit the Federal Trade Commission [COPPA Web Site](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html).  
+  
+   
+**Contests and Promotions**  
+Occasionally, Blue Mountain may sponsor contests and/or promotions on our sites or in our e-mail products. Participation in such contests is purely voluntary. In order to enter a contest or promotion, you may be asked to provide personally identifiable information. By entering, you agree to all of its terms and conditions, which will be clearly outlined in the rules. Where a contest or promotion is not sponsored by Blue Mountain, the identity of the sponsor will be clearly disclosed in the rules. Neither Blue Mountain nor its affiliates can be responsible for actions or policies of third-party contest sponsors. Users are encouraged to review the relevant privacy policy of the sponsor before entering.  
+   
+**Sale of Assets**  
+In the event that Blue Mountain and/or its affiliates or subsidiaries are ever sold, acquired, merged, liquidated, reorganized, or otherwise transferred, we reserve the right to transfer our user databases together with any personally identifiable information contained therein, to a third-party acquiring Blue Mountain's assets. In the event we do so, we will place a prominent notice of the sale on the homepage of our site, with links to information as to how you can change your privacy preferences.  
+   
+**Data Security**  
+When you place orders for purchased products or access your payment information, we use an advanced encryption technology known as Secure Socket Layer (SSL) to protect the storage and transfer of your data from unauthorized parties. While on a secure page, such as our registration form, a lock or key icon appears on the bottom of your web browser. 
+
+In addition to our online security efforts, we take steps to protect your personal data offline, as well. All of your information, not just the sensitive information mentioned above, is restricted in our offices. Employees are granted access on a need-to-know basis (for example, our billing clerk or a customer service representative). Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Finally, the servers on which we store personally identifiable information are kept in a secure environment, behind a locked cage. 
+
+Blue Mountain's main servers are operated from a dedicated Internet hosting facility with state-of-the-art physical security features, including smoke detection and fire suppression systems, motion sensors, and 24x7 secured access, as well as video camera surveillance and security breach alarms. If you have any questions about the security at our website, you can send an email to [security@ag.com](mailto:security@ag.com).  
+  
+   
+**Changes to the Privacy Policy**  
+Blue Mountain will occasionally update this Privacy Policy in response to changing business circumstances and legal developments. When Blue Mountain posts changes to this Policy, you will see the word "updated" next to the Privacy Policy link on the front page of Blue Mountain sites. If there are material changes to this Policy or in how Blue Mountain uses your personally identifiable information, Blue Mountain will prominently post such changes prior to implementing the change. Blue Mountain encourages you to periodically review this Policy to be informed of how we are protecting your information.  
+   
+**USE COMMON SENSE IN ALL YOUR ONLINE ACTIVITIES** |  back to top  
+---|---  
+Even the best policy can't protect your online privacy and security in all circumstances. Unscrupulous advertisers, hackers, and scam artists are constantly searching the Internet looking for new targets. Your best protection is to understand the limits to privacy on the Internet and use common sense in all of your on-line activities. 
+
+Be aware that e-mail is an inherently insecure form of communication. Remember that third parties are sometimes able to illegally intercept your unencrypted messages, including online greetings. 
+
+Anytime you visit a chat room or post a message to an on-line bulletin board, your e-mail address can be accessed by advertisers looking to compile lists for unsolicited commercial e-mail (also known as spam). Be sure that you only disclose your e-mail address in circumstances in which it is safe to do so. 
+
+Beware of scams in which persons unknown to you request your screen name, password, or credit card information. Make sure you verify the identity of anyone asking for personal information. 
+
+Always monitor your children's on-line activities and educate them as to the rules for safe Internet use. For more information, visit the Internet Education Foundation's [Online Safety Guide for Kids](http://www.getnetwise.org/). 
+
+If you have any questions about the privacy policy, please feel free to contact us at [customerservice@ag.com](mailto:customerservice@ag.com).  
+
