@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sears.ca privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206234020id_/http%3A//www.sears.ca/e/customerservice/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sears.ca privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405163606id_/http%3A//www.sears.ca/e/customerservice/privacy.htm) for the most accurate reproduction.*
 
 # Your Privacy - Sears Canada
 
