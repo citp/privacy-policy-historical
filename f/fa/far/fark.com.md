@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the fark.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401211148id_/http%3A//www.fark.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fark.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203220128id_/http%3A//www.fark.com/privacy.shtml) for the most accurate reproduction.*
 
-# FARK.com
+# FARK.com: Privacy Policy
 
-| 
-
-* * *
-
-**Fark’s Privacy Policy**   
+|  **Fark's Privacy Policy**   
 
 
 **Short Version**  
@@ -30,18 +26,18 @@ Your personal information is used in the following ways:
 
 We will only use your personal information in the ways specified when it was collected. We will not subsequently change the way in which we use your personal information, unless you consent to the new usage. 
 
-**Security measures.**  
+**Security measures**  
 We protect the personal information you share with us. 
 
 Authorized third party agents may also need access to some of your personal information. For example, if we need to ship something to you, we must share your name and address with a shipping company. We only provide third party agents with the minimum amount of information needed to complete the requested service or transaction. We do not otherwise share your personal information with third parties, unless you have granted us permission to do so. 
 
-**Data Retention.**  
+**Data Retention**  
 Fark will not retain your personal information longer than is necessary for the purposes for which it was collected. 
 
-**Linked web sites.**  
+**Linked web sites**  
 We provide links to third party sites. Since we do not control these Web sites, we encourage you to review the privacy policies posted on these (and all) third party sites. 
 
-**Children's privacy.**  
+**Children's privacy**  
 We do not knowingly collect personal information from children under the age of 13. If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems. Fark encourages parents to go online with their kids. Here are a few tips to help make a child's online experience safer: 
 
   * Teach kids never to give personal information, unless supervised by a parent or responsible adult. Includes name, address, phone, school, etc. 
@@ -54,50 +50,15 @@ Check out the [FTC's site](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/ind
 
 We may display advertisements from third parties. Third party ad-serving companies control which ads are shown. These ad-serving companies may use cookies to collect non-personally identifiable information from you. Advertisers use this information to target the ads and measure their impact. 
 
-**Third Party Advertising.**  
+**Third Party Advertising**  
 We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.networkadvertising.org/optout_nonppii.asp). 
 
-**Third Party Cookies.**  
+**Third Party Cookies**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
 
-**Policy updates:**  
+**Policy updates**  
 All updates to this policy will be posted here. Last update: November 17, 2001 
 
 Note: This policy also covers the personal information you provide to Fark Customer Support. 
 
-|  | 
-
-**Sponsors:**  
-  
----  
-[](http://www.tshirtsthatsuck.com/)  
-[](http://www.oddballproducts.com/)  
-[](http://go.fark.com/cgi/fark/go.pl?IDLink=473632&location=http://www.thoseshirts.com)  
-[](http://go.fark.com/cgi/fark/go.pl?IDLink=481481&location=http://www.esnipe.com)  
-  
-|   
----  
-  
-**Upcoming Photoshop Contests (EST):**  
-  
-04/01 04:41PM EST  
-  
-04/01 11:39PM EST  
-  
-04/02 07:27AM EST  
-  
-04/02 04:03PM EST  
-  
-04/03 06:48AM EST  
-  
-04/03 12:49PM EST  
-  
-04/03 08:19PM EST  
-  
-04/04 04:23AM EST  
-  
-04/04 11:37AM EST  
-  
-04/04 07:16PM EST  
-  
-04/05 09:28AM EST
+| 
