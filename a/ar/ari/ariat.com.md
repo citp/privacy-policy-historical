@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ariat.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607203250id_/http%3A//ariat.com/main/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ariat.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204164214id_/http%3A//ariat.com/main/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
