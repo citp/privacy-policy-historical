@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spiegel.com privacy policy that was archived on 2001-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010408050352id_/http%3A//www.spiegel.com/customer/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiegel.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204205059id_/http%3A//www.spiegel.com/customer/privacy.asp) for the most accurate reproduction.*
 
 # Spiegel: About Spiegel
 
@@ -6,7 +6,7 @@ This is the Privacy Policy for Spiegel Catalog, Inc.
 
 Shopping on-line has changed our lives. At Spiegel your trust and satisfaction is of the utmost importance. Because we respect your privacy, we have instituted policies intended to ensure that your personal information is handled in a safe and responsible manner. 
 
-We suggest that you review this Privacy Statement periodically as we may update it from time to time. This policy was last revised on December 21, 2000. 
+We suggest that you review this Privacy Statement periodically as we may update it from time to time. This policy was last revised on June 1, 2001. 
 
 **WHAT INFORMATION DO WE COLLECT?** **  
 ****HOW DO WE USE YOUR INFORMATION?** **  
@@ -44,11 +44,13 @@ When you supply us with personal information on-line to request a catalog or ord
 
 When you supply us with your e-mail address in order to make a purchase, we send you confirmation through e-mail. 
 
-We may send you e-mail with information on new products and services, discounts, special promotions or upcoming events that we offer. If you do not wish to receive such e-mail in the future, please Click Here or, click on the "opt-out" link on any e-mail you receive from us. 
+We may send you e-mail with information on new products and services, discounts, special promotions or upcoming events that we offer. If you do not wish to receive such e-mail in the future, please Click Hereor, click on the "opt-out" link on any e-mail you receive from us. 
 
 We may provide your name and address (but not your e-mail address) to a select group of companies whose products you may find of interest. If you do not want us to share this information with these companies, we can put you on our "do-not-share" list. Please Click Here if you do not want us to share this information. 
 
 In some instances, we use third party vendors to help us in providing our products and services to you. Some of these vendors are given access to some or all of the information you provide to us, including your e-mail address, and may use cookies on our behalf. These vendors are contractually restricted from using your information in any manner, other than in helping us to provide you with the products and services available on our site.
+
+We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.
 
 Return to top.
 
@@ -68,7 +70,7 @@ When you are on our site and are asked for personal information, you are sharing
 
 If you make a purchase from a Merchant Site with a link originating from the Spiegel eMarket site or a Merchant catalog presented by Spiegel, the information you provide to that Merchant, and any other information you give such as your credit card number and contact information, is provided to the Merchant and not to Spiegel. Providing this information to the Merchant enables the transaction to take place. However, you should know that the Merchant may, if you do not advise them to the contrary, share your name and postal and email addresses with third parties, including Spiegel.
 
-Merchants on the Spiegel eMarket site and those Merchants, who send catalogs presented by Spiegel, have separate privacy and data collection practices. We have no control over and therefore no responsibility or liability for these independent policies. For more information regarding Spiegel eMarket Merchants or other Merchants who send catalogs presented by Spiegel and their privacy policies, please see the Merchant’s home page and click on their Information link or review the customer service section of any catalog you may receive from the Merchant. For a complete listing of the Spiegel eMarket Merchants, [Click Here.](http://www.spiegel.com/emarket/merchant.asp)
+Merchants on the Spiegel eMarket site and those Merchants, who send catalogs presented by Spiegel, have separate privacy and data collection practices. We have no control over and therefore no responsibility or liability for these independent policies. For more information regarding Spiegel eMarket Merchants or other Merchants who send catalogs presented by Spiegel and their privacy policies, please see the Merchantās home page and click on their Information link or review the customer service section of any catalog you may receive from the Merchant. For a complete listing of the Spiegel eMarket Merchants, [Click Here.](http://www.spiegel.com/emarket/merchant.asp)
 
 Merchants on the Spiegel eMarket site that have links on our site may collect personally identifiable information about you. The information practices of these Merchants are not covered by the Spiegel privacy statement.
 
@@ -103,7 +105,7 @@ Return to top.
 
 **CHILDREN'S PRIVACY**
 
-Spiegel does not seek to solicit information from anyone under the age of thirteen (a "Kid"). If a Kid submits information to us through any part of our Web site, and we know that the person submitting the information is a Kid, we delete the information as soon as we discover it and do not use it for any purpose, nor do we disclose it to third parties. 
+Spiegel does not seek to solicit information from anyone under the age of thirteen (a "Child"). If a Child submits information to us through any part of our Web site, and we know that the person submitting the information is a Child, we delete the information as soon as we discover it and do not use it for any purpose, nor do we disclose it to third parties. 
 
 Return to top.
 
@@ -132,7 +134,7 @@ To contact us for any reason, including a request to be added to or taken off a 
 
 Special Note: When you contact us, please provide us with your exact name and address as it appears on correspondence you have received from us.
 
-If you feel that this site is not following its stated information privacy policy, you may contact us at the above address(es) or phone number or at [spiegel@spiegel.com](mailto:spiegel@spiegel.com).
+If you feel that this site is not following its stated information privacy policy, you may contact us at the above address(es) or phone number or at [spiegel@spiegel.com](mailto:spiegel@spiegel.com)
 
 We are an active member of the Direct Marketing Association. [Click here](http://www.the-dma.org/consumers/index.html) for additional privacy information from the DMA. 
 
