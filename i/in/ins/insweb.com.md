@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insweb.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606153615id_/http%3A//www.insweb.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insweb.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204045912id_/http%3A//www.insweb.com/privacy.shtml) for the most accurate reproduction.*
 
 # InsWeb: Car Insurance - Auto Insurance - Life Insurance - Health Insurance - Home - Rates and Quotes.
 
@@ -6,7 +6,7 @@
 
 InsWeb Takes Your Privacy Seriously
 
-Last update to policy: August 8, 2003 
+Last update to policy: June 8, 2004 
 * How does InsWeb use my personally identifiable information?
 * How do InsWeb's participating insurance companies use my information?
 * Do you send my information to an insurance company? Do I have control over this?
@@ -103,7 +103,7 @@ In addition to InsWeb e-mailing a quote confirmation and coverage follow-up remi
 
 **_Does InsWeb send e-mails, and can I opt out?_**
 
-    When you save your information at our site you will be given the opportunity to receive further information from InsWeb. Our communications are usually delivered to our customers via e-mail. Your e-mail address may be provided to a trustworthy third party solely for this purpose. Our customers generally find the information helpful. You can choose not to receive this information by: 
+    **Communications**.When you save your information at our site you will be given the opportunity to receive further information from InsWeb. Our communications are usually delivered to our customers via e-mail. Your e-mail address may be provided to a trustworthy third party solely for this purpose. Our customers generally find the information helpful. You can choose not to receive this information by: 
 
   * Responding to the opt-out question when you save your data, 
   * Following the instructions in the e-mail message you receive, 
@@ -113,7 +113,9 @@ In addition to InsWeb e-mailing a quote confirmation and coverage follow-up remi
 
 
 
-If you have completed the quote information page by entering your contact information, you will occasionally receive information from us about your quotes (although you may not have saved your information). 
+If you have completed the quote information page by entering your contact information, you will occasionally receive information from us about your quotes (although you may not have saved your information).
+
+**Advertising.** It is InsWeb's policy only to send email advertising to consumers that have given their consent. If you would like to unsubscribe from receiving future email advertisements from InsWeb, you can either follow the instructions in the advertisement itself, or simply [click here](http://www.insweb.com/unsubscribe.htm). Please note that it will take up to 10 days to process your request. 
 
 **_What do sites that have links from InsWeb do with my information?_**
 
