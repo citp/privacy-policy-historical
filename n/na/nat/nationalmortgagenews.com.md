@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the nationalmortgagenews.com privacy policy that was archived on 2000-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000503065757id_/http%3A//www.nationalmortgagenews.com/nmn/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalmortgagenews.com privacy policy that was archived on 2000-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001211005100id_/http%3A//www.nationalmortgagenews.com/nmn/privacy.htm) for the most accurate reproduction.*
 
 # Thomson Financial Media Privacy Policy
 
 [](https://web.archive.org/index.html)  
-[](https://web.archive.org/web/20000503065757id_/http%3A//www.nationalmortgagenews.com/nmn/plus.htm)  
-[](https://web.archive.org/web/20000503065757id_/http%3A//www.nationalmortgagenews.com/nmn/news1.htm)  
-[](https://web.archive.org/web/20000503065757id_/http%3A//www.nationalmortgagenews.com/nmn/news2.htm)  
-[](https://web.archive.org/web/20000503065757id_/http%3A//www.nationalmortgagenews.com/nmn/news3.htm)  
-[](https://web.archive.org/web/20000503065757id_/http%3A//www.nationalmortgagenews.com/nmn/news4.htm)  
-[](https://web.archive.org/web/20000503065757id_/http%3A//www.nationalmortgagenews.com/nmn/stocks.htm)  
+[](https://web.archive.org/web/20001211005100id_/http%3A//www.nationalmortgagenews.com/nmn/plus.htm)  
+[](https://web.archive.org/web/20001211005100id_/http%3A//www.nationalmortgagenews.com/nmn/news1.htm)  
+[](https://web.archive.org/web/20001211005100id_/http%3A//www.nationalmortgagenews.com/nmn/news2.htm)  
+[](https://web.archive.org/web/20001211005100id_/http%3A//www.nationalmortgagenews.com/nmn/news3.htm)  
+[](https://web.archive.org/web/20001211005100id_/http%3A//www.nationalmortgagenews.com/nmn/news4.htm)  
+[](https://web.archive.org/web/20001211005100id_/http%3A//www.nationalmortgagenews.com/nmn/stocks.htm)  
 [](http://www.mortgagestats.com/)  
-[](https://web.archive.org/web/20000503065757id_/http%3A//www.nationalmortgagenews.com/nmn/features.htm)  
-[](https://web.archive.org/web/20000503065757id_/http%3A//www.nationalmortgagenews.com/nmn/opweb.htm)  
+[](https://web.archive.org/web/20001211005100id_/http%3A//www.nationalmortgagenews.com/nmn/features.htm)  
+[](https://web.archive.org/web/20001211005100id_/http%3A//www.nationalmortgagenews.com/nmn/opweb.htm)  
 [](https://web.archive.org/guide/main.htm)  
 [](https://web.archive.org/classified)  
-[](https://web.archive.org/web/20000503065757id_/http%3A//www.nationalmortgagenews.com/nmn/discuss.htm)  
-[](https://web.archive.org/web/20000503065757id_/http%3A//www.nationalmortgagenews.com/nmn/conf.htm)  
-[](https://web.archive.org/web/20000503065757id_/http%3A//www.nationalmortgagenews.com/nmn/links.htm)
+[](https://web.archive.org/web/20001211005100id_/http%3A//www.nationalmortgagenews.com/nmn/discuss.htm)  
+[](https://web.archive.org/web/20001211005100id_/http%3A//www.nationalmortgagenews.com/nmn/conf.htm)  
+[](https://web.archive.org/web/20001211005100id_/http%3A//www.nationalmortgagenews.com/nmn/links.htm)
 
 |   | 
 
