@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the idexx.com privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406045751id_/http%3A//www.idexx.com/AboutIdexx/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idexx.com privacy policy that was archived on 2001-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010813085443id_/http%3A//idexx.com/AboutIdexx/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Information collected on this Website is used by IDEXX or its affiliates solely for internal purposes, as more fully described in the full text of the IDEXX Privacy Policy below. IDEXX and its affiliates do not provide or sell e-mail addresses or other personal information to other companies.**
 
-This Privacy Policy applies to information derived from a visitor's use of this Internet site (the "Site"). This Site is administered and maintained by IDEXX Laboratories, Inc. ("IDEXX"), located at One IDEXX Drive, Westbrook, Maine 04092, United States of America. Use of this Site is governed by the [Terms of Use](https://web.archive.org/web/20010406045751id_/http%3A//www.idexx.com/AboutIdexx/terms.cfm) and indicates acceptance of such terms. 
+This Privacy Policy applies to information derived from a visitor's use of this Internet site (the "Site"). This Site is administered and maintained by IDEXX Laboratories, Inc. ("IDEXX"), located at One IDEXX Drive, Westbrook, Maine 04092, United States of America. Use of this Site is governed by the [Terms of Use](https://web.archive.org/web/20010813085443id_/http%3A//idexx.com/AboutIdexx/terms.cfm) and indicates acceptance of such terms. 
 
 You may reach IDEXX in the following ways: 
 
