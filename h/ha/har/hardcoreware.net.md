@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardcoreware.net privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603175201id_/http%3A//hardcoreware.net/about.htm%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardcoreware.net privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204164905id_/http%3A//hardcoreware.net/about.htm%23Privacy) for the most accurate reproduction.*
 
 # hardCOREware.Net - Hardware Gaming News for Hardcore Gamers
 
@@ -9,21 +9,20 @@
 
 **Carl Nelson (lowlight) - Editor in Chief**[lowlight@hardcoreware.net](mailto:lowlight@hardcoreware.net)
 
+**[My Current Rig!](http://www.hardcoreware.net/rigs/index.php?&r=119)**
+
 Carl Nelson (lowlight) has been a hardcore gamer from the get-go.  From copying code out of magazines and into his Vic-20 at the age of 5, to starting (and running, of course) several gaming web sites, he has seen just about everything.
 
-Other sites include: [Surreal-News.com](http://www.surreal-news.com/) \- A site devoted to bringing you the latest news regarding Surreal Software, and ALL their titles.  Right now this includes Drakan: Order of the Flame.  You will find the most extensive database of player-created levels on Surreal-News, as well as the official DevBoard, where YOU suggest to Surreal what YOU want to see in games.  Surreal is a true software development company.
+Other sites include: [Surreal-News.com](http://www.surreal-news.com/) \- A site devoted to bringing you the latest news regarding Surreal Software, and ALL their titles.  Right now this includes Drakan: Order of the Flame.  You will find the most extensive database of player-created levels on Surreal-News, as well as the official DevBoard, where YOU suggest to Surreal what YOU want to see in games.
 
  **lowlight's Favorites:**
 
  **Now Playing:**  
-Gran Turismo II (Thanks to [Bleem!Cast!](http://www.bleem.com/))  
-Tropico  
 Colin MacRae II  
-MS Combat Flight Sim II  
 Black & White
 
  **Music:**  
-Daft Punk  
+Daft Punk (All-time favourite)  
 Gigi D'Agostino  
 Frontline Assembly  
 Noise Unit  
@@ -40,7 +39,7 @@ Se7en
 The Green Mile  
 Forrest Gump  
 Trainspotting  
-Saving Private Ryan  
+Saving Private Ryan (All time favourite)  
 The Blair Witch Project  
 Fight Club  
 Excalibur  
@@ -73,20 +72,79 @@ Morgan Freeman
 William H. Macy  
 John Travolta  
 Tom Hanks  
-Edward Norton  
-Nicholas Cage
+Edward Norton
+
+**Bryan Pizzuti** **\- Senior Editor** [ bpizzuti@hardcoreware.net](mailto:bpizzuti@hardcoreware.net)
+
+Despite the fact the Bryan is an IBM employee, we still consider him to be hardcore :)
+
+Name: Bryan Pizzuti  
+Date of Birth: April 1st, 1975  
+Location: Poughkeepsie, NY  
+Marital Status: Single  
+Ocupation: Network Support
+
+**Hobbies** :  
+PC tweaking  
+Linux tweaking  
+Recycling old PCs into something functional  
+Praying for broadband  
+Collecting board games  
+Reading  
+Cooking  
+Being a geek  
+Being PROUD of being a geek!  
+Praying for broadband some more
+
+**Currently installed games** :  
+Anachronox  
+Pac Man: The New Adventures  
+Jagged Alliance 2  
+Fallout Tactics  
+Star Trek Voyager: Elite Force  
+Conquest: Frontier Wars  
+Jane's USAF  
+Tachyon: The Fringe  
+3D Ultra Cool Pool  
+Uplink  
+Empire Earth
+
+**Current book collections** :  
+The Frank Herbert "Dune" series  
+Harry Turtledove's "WorldWar" and "Colonization" series  
+The "Starfist" series  
+The Brian Herbert "Dune, House ____" series  
+Orson Scott Card's "Ender" series
+
+**Current rig (Brag Section)** :
+
+AMD Athlon-C 1.2 GHz  
+256 MB PC-133 SDRAM  
+ECS K7S5A w/ on board LAN  
+Hercules 3D Prophet 4500 Kyro2 64 MB  
+TurtleBeach SantaCruz Sound  
+Toshiba 12x DVD (IDE)  
+Sanyo 12/10/32 BurnProof/RAW CDRW (IDE)  
+WD 7200 RPM 15 GB HDD (IDE)  
+WD 5400 RPM 20 GB HDD (IDE)  
+Apple 20 inch Trinitron monitor  
+Logitech MouseMan Optical  
+Creative WebCam GO  
+Logitech PageScan USB  
+US Robotics PerformancePro 56k modem (pitiful, huh?)  
+Some keyboard or another.
+
+**Computer experience** : Been working with PCs and video games since they were invented. 
 
 **Privacy Statement**
 
 **Information Collection and Use**   
-hardCOREware is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. hardCOREware collects information from our users at several different points on our website.
+hardCOREware is the sole owner of the information collected on this site. We will not sell this information to others in ways different from what is disclosed in this statement. hardCOREware collects information from our users at several different points on our website.
 
 **Cookies**  
 A cookie is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. 
 
 Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
-
-This site, hardCOREware.net, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>.
 
 **Log Files**  
 We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
