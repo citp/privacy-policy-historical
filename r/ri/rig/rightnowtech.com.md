@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rightnowtech.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202031447id_/http%3A//www.rightnow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightnowtech.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611014633id_/http%3A//www.rightnow.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | RightNow Technologies
 
@@ -86,7 +86,7 @@ We send all new Inner Circle members a welcoming email to verify password and us
 
 ### Updating Personal Information and Opting Out:
 
-We encourage our users to update our record of any personal information which changes (such as your zip code). Information can be corrected/updated on any registration form. Users can also opt out of our services by emailing a request to [info@rightnow.com](https://web.archive.org/web/20031202031447id_/http://www.rightnow.com/privacy/info@rightnow.com). Inner Circle information may be updated online at <http://www.rightnow.com/customers/inner.html>.
+We encourage our users to update our record of any personal information which changes (such as your zip code). Information can be corrected/updated on any registration form. Users can also opt out of our services by emailing a request to [info@rightnow.com](https://web.archive.org/web/20040611014633id_/http://www.rightnow.com/privacy/info@rightnow.com). Inner Circle information may be updated online at <http://www.rightnow.com/customers/inner.html>.
 
 ### Changes to Privacy Policy
 
