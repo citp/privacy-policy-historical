@@ -1,0 +1,479 @@
+<!--The following is the downloaded HTML source of the spin.com privacy policy that was archived on 1999-11-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/19991115181206id_/http%3A//spin.com/about/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN"><html><head>
+    <title>Spin | About</title>
+    <meta name="DESCRIPTION" content="About">
+    <meta name="KEYWORDS" content="music,news,article,concerts,musician,artist,current">
+    <meta name="SITE_SECTION" content="About">
+
+
+<style type="text/css">
+ #menubar {position:absolute; left:0; top:257; width:120; height:224; z-index:1; visibility:hidden;}
+</style>
+
+<style type="text/css">
+
+ #staticmenu {position:relative; z-index:1;}
+
+ #menu1 {position:absolute; top:0; z-index:3;}
+ #menu2 {position:absolute; top:13; z-index:3;}
+ #menu3 {position:absolute; top:26; z-index:3;}
+ #menu4 {position:absolute; top:39; z-index:3;}
+ #menu5 {position:absolute; top:52; z-index:3;}
+ #menu6 {position:absolute; top:65; z-index:3;}
+ #menu7 {position:absolute; top:79; z-index:3;}
+
+ #submenu1 {position:absolute; z-index:4; visibility:hidden;}
+ #submenu2 {position:absolute; z-index:4; visibility:hidden;}
+ #submenu3 {position:absolute; z-index:4; visibility:hidden;}
+ #submenu4 {position:absolute; z-index:4; visibility:hidden;}
+ #submenu5 {position:absolute; z-index:4; visibility:hidden;}
+ #submenu6 {position:absolute; z-index:4; visibility:hidden;}
+
+</style>
+
+<script language="JavaScript">
+<!--
+var menuItems = 6;
+var openItem = 0;
+
+var item_heights = new Array(13,13,13,13,13,14,32);
+var popup_heights = new Array(113,113,113,113,113,113);
+
+// Check for the DHTML variables that we need to figure out which object model to use
+// and whether or not DHTML is supported at all. This is easier than trying to parse
+// browser names and provides a more reliable baseline. It could also potentially
+// support compatible browsers that are not one of the standard names.
+
+var dhtml = false;
+var nsDOM = false;
+var ieDOM = false;
+
+if (document.layers) nsDOM = true;
+else if (document.all && document.all[0].style) ieDOM = true;
+dhtml = nsDOM || ieDOM;
+
+if (dhtml) {
+	var menuRef = null;
+	var barRef = null;
+
+	var layerSrc = null;
+}
+
+//
+// Functions to control the popups
+//
+
+function tripPopUp() {
+	var menuNumber = parseInt(this.id.substring(4));
+	showPopUp(menuNumber);
+}
+
+function showPopUp(menuNumber) {
+	var i = 0;
+	var yPos = 0;
+
+	// hide all popups
+	for (i=1; i<=menuItems; i++) {
+		if (nsDOM) document.menubar.document.layers["submenu" + i].visibility = "hidden";
+		else document.all["submenu" + i].style.visibility = "hidden";
+	}
+	// reposition menu items
+	for (i=2; i<=menuItems+1; i++) {
+		var heightRef = item_heights;
+        if (i==menuNumber+1) heightRef = popup_heights;
+        yPos = yPos + heightRef[i-2];
+        if (nsDOM) {
+        	document.menubar.document.layers["menu" + i].top = yPos;
+            if (menuNumber == i) document.menubar.document.layers["submenu" + i].top = yPos;
+        }
+        else {
+			document.all["menu" + i].style.pixelTop = yPos;
+			if (menuNumber == i) document.all["submenu" + i].style.pixelTop = yPos;
+        }
+    }
+	if (menuNumber) {
+		if (nsDOM) {
+			document.menubar.document.layers["submenu" + menuNumber].visibility = "show";
+		}
+		else {
+			document.all["submenu" + menuNumber].style.visibility="visible"; 
+		}
+	}
+}
+
+function showDefault() {
+	showPopUp(openItem);
+}
+
+function ieShowDefault(myEvent) {
+	if (myEvent.toElement &&
+		(myEvent.toElement.id.substring(0,4) != "menu") &&
+		(myEvent.toElement.id.substring(0,7) != "submenu") &&
+		(myEvent.toElement.id.substring(0,2) != "mp")
+		)
+			showDefault();
+}
+
+function hideStatic() {
+	if (document.staticmenu) document.staticmenu.visibility = "hidden";
+}
+
+if (nsDOM) window.onresize = hideStatic;
+
+//-->
+</script>
+
+
+<script language="JavaScript">
+<!--
+openItem = 0;
+ad1Src = '/about/includes/ad1_about.html';
+ad1X = 160;
+ad1Y = 12;
+//-->
+</script>
+
+</head>
+
+<body bgcolor="#C6CFBE" background="/simages/back_dkgreen.gif" text="#000000" link="#000080" vlink="#800080" alink="#A6CAF0" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody><tr valign="top">
+	<td bgcolor="#000000" colspan="2">
+<a href="/"><img src="/simages/spin_com.gif" width="118" height="83" alt="Spin.com" border="0"></a><br>
+	</td>
+	<td bgcolor="#000000" valign="top" align="left">
+<table cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+	<td colspan="3"><img src="/simages/pixel_black.gif" width="10" height="12"><br></td>
+</tr>
+<tr valign="top">
+	<td>
+<script language="JavaScript">
+<!--
+
+if (dhtml) {
+
+	winSys = ( navigator.platform.indexOf('Win') != -1 );
+
+	if (nsDOM) {
+		document.writeln('<IMG SRC="/simages/pixel_transparent.gif" WIDTH="468" HEIGHT="1" ALT="" BORDER=0><BR>');
+		layerSrc = '<LAYER ID="ad1" WIDTH="468" HEIGHT="60" SRC="' + ad1Src +
+			'" VISIBILITY="show" PAGEX="' + ad1X + '" PAGEY="' + ad1Y + '" CLIP="0,0,468,60"></LAYER>';
+		ad1Ref = null;
+	}
+	else {
+		document.writeln('<IFRAME NAME="ad1" WIDTH="468" HEIGHT="60" SCROLLING="no" FRAMEBORDER="no" MARGINHEIGHT="0" MARGINWIDTH="0" SRC="' + ad1Src + '"></IFRAME>');
+		ad1Ref = document.all.ad1;		
+	}
+	
+	document.write('\<!--');
+
+	ad1Timer = setTimeout('rotate_ad();',30000);
+
+	function rotate_ad()
+	{
+
+		if (ieDOM && winSys) {
+			document.frames['ad1'].document.location.reload();
+		}
+		else if (ad1Ref != null) {
+			ad1Ref.src = ad1Src;
+		}
+		clearTimeout (ad1Timer);
+		ad1Timer = setTimeout('rotate_ad();',30000);
+	}
+
+}
+//-->
+</script>
+
+<a href="http://ad.electricvillage.com/vnl_href.html?section=home&amp;id=290&amp;sz=468x60" target="_blank"><img src="http://ad.electricvillage.com/vnl_img.html?section=home&amp;id=290&amp;sz=468x60" border="0" width="468" height="60"></a>
+<script language="JavaScript">
+<!--
+if (dhtml) document.write('--\>');
+//-->
+</script>
+
+	</td>
+	<td><img src="/simages/pixel_black.gif" width="10" height="71"><br></td>
+	<td>
+	</td>
+</tr>
+</tbody></table>
+
+	</td>
+</tr>
+<tr valign="top">
+	<td>
+<img src="/about/simages/head_about.gif" width="145" height="175" alt="About" border="0"><br>
+<span id="staticmenu">
+<a href="/noise/"><img src="/simages/menu_noise.gif" width="145" height="13" alt="Noise" border="0"></a><br>
+<a href="/heavy/index_heavy.html"><img src="/simages/menu_heavy.gif" width="145" height="13" alt="Heavy Rotation" border="0"></a><br>
+<a href="/poplife/index_poplife.html"><img src="/simages/menu_poplife.gif" width="145" height="14" alt="Pop Life" border="0"></a><br>
+<a href="/community/"><img src="/simages/menu_community.gif" width="145" height="13" alt=".Community" border="0"></a><br>
+<a href="/signal/audio/"><img src="/simages/menu_signal.gif" width="145" height="13" alt="Spin Signal" border="0"></a><br>
+<a href="/magazine/index_magazine.html"><img src="/simages/menu_magazine.gif" width="145" height="14" alt="The Magazine" border="0"></a><br>
+<img src="/simages/menu_bottom.gif" width="145" height="32" alt="" border="0">
+</span>
+<br><img src="/simages/pixel_green.gif" width="1" height="100"><br>
+<form action="/search/search.asp" method="POST">
+<img src="/simages/search.gif" width="55" height="11"><br>
+<input type="TEXT" name="SearchString0" size="18"><br>
+<input type="SUBMIT" value="Go">
+</form>
+<div align="left">
+
+<!-- start amazon box -->
+
+<table border="1" cellpadding="0" cellspacing="0">
+<form method="get" action="http://www.amazon.com/exec/obidos/external-search"></form>
+<tbody><tr>
+    <td align="center" bgcolor="#000000">
+<img src="/simages/amazon_logo.gif" width="100" height="30" alt="" border="0"><br>
+    </td>
+</tr>
+<tr>
+    <td bgcolor="#FFFFFF">
+
+<font face="arial,helvetica" size="-2">
+
+Search for...<br>
+<input type="text" name="keyword" size="14" value=""><br>
+<!-- <INPUT TYPE=hidden NAME=tag VALUE=associates_id><br> -->
+
+&nbsp;&nbsp;&nbsp;<input type="radio" name="mode" value="music" checked="">&nbsp;Music<br>
+&nbsp;&nbsp;&nbsp;<input type="radio" name="mode" value="books">&nbsp;Books<br>
+&nbsp;&nbsp;&nbsp;<input type="radio" name="mode" value="video">&nbsp;Video<br>
+</font>
+
+    </td>
+</tr>
+<tr align="center">
+    <td bgcolor="#000000"><font face="arial,helvetica" size="-2">
+<input type="submit" border="0" value="Go" name="Search">
+</font>
+    </td>
+</tr>
+
+</tbody></table>
+
+<!-- end amazon box -->
+
+&nbsp;<br>
+<a href="http://www.onradio.com"><img src="/simages/onradio_logo.gif" width="105" height="91" alt="OnRadio" border="0"></a>
+</div>
+<br>&nbsp;<br>
+	</td>
+	<td colspan="2">
+
+
+<!-- start of content -->
+
+
+<br>
+<table width="600" cellspacing="0" cellpadding="6" border="0">
+<tbody><tr><td background="/simages/back_ltgreen.gif" bgcolor="#E8ECE8">
+<font face="Arial,Helvetica" size="+1"><b>PRIVACY POLICY</b></font>
+<p>
+The policies below are applicable to the Authors of this site which include Vibe/Spin Ventures, LLC, its server OnRadio and other sites on the World Wide Web portion of the Internet operated by OnRadio.
+</p><p>
+We respect your privacy.  Any information you give us is held with the utmost care and security and is only used in the ways that are described in this policy.
+</p><p>
+We collect personally identifying information such as your name, age and e-mail address during registration for certain portions of sites in which guests participate in interactive online activities (e.g., surveys, chat rooms, games, or bulletin boards).  In addition, information is collected should you choose to purchase an item from an online store hosted on our site.  As described below, we may use such information to fulfill prizes, track customer usage of the sites or for promotional and marketing purposes.<br>
+</p><p>
+<b>Policies for Minors</b>
+</p><p> 
+The safety of children online is very important to us. We encourage parents to spend time online with their children and to review the sites accessed by their children. 
+</p><p>
+Children should always ask parents for permission before sending any personal information online.  No information should be submitted to or posted at the our site by any Minor (a guest under 18 years of age), without the consent of their parent or guardian.
+ </p><p>
+Unless otherwise disclosed during collection, we do not provide any personally identifying information of Minors, regardless of its source, to any third party for any purpose whatsoever.  No personally identifying information collected from Minors is used for any marketing or promotional purposes whatsoever. 
+</p><p>
+All registrants receive e-mail confirming their Registration. In addition, when a Minor registers, his/her parent or guardian receives an e-mail alerting them to that Registration and providing instructions on how the parent could delete the Registration if so desired. 
+</p><p>
+Although Minors are allowed to participate in contests, if such a guest wins, notification and prizes are sent to the parents or guardians.<br>
+</p><p>
+<b>Policies for Adult Guests</b>
+</p><p>
+For guests over 18 years of age, we collect personal information in order to provide you with a personalized online experience and to provide our advertisers a way to reach the right audience. We will not use your personal information except as described in this privacy policy or as disclosed at the time of collection of the information.  
+</p><p>
+With the permission of a guest who is 18 years of age or over, information submitted at the time of Registration or submission may be used for marketing and promotional purposes by us and may be shared with companies that have been prescreened by us for these purposes.  The information is also used to better serve our advertisers.  Generally, advertisers tell us the particular audience they want to reach (e.g., women under 30 years old) and we display the ad to guests meeting that criterion. Advertisers are not given access to guests’ personal information.  Finally, we may release specific information if necessary to comply with a valid legal process such as a search warrant, subpoena or court order. 
+</p><p>
+You may opt out of the use of your personal information for direct e-mail promotions or from its inclusion in any e-mail lists provided to other companies.  If you wish to stop receiving e-mail from us or to limit the use of your personal information, you can always unsubscribe yourself from e-mail by updating your Registration information or by notifying us. Just utilize the register feature to make the changes or e-mail the address provided in any such e-mail message.
+ </p><p>
+The name or personal information of any guest on the sites without the guest’s express permission.<br>
+</p><p>
+<b>Chat Rooms &amp; Postings</b>
+</p><p>
+Remember whenever you voluntarily disclose personal information online in chat rooms, message boards or similar posting areas, the information can be reviewed and collected by anyone.  Therefore, do not post any information that you do not want available to the general public. We cannot be responsible for unsolicited communications that arise from your postings.<br>
+</p><p>
+<b>Purchases Through A Store Hosted the Authors</b>
+</p><p>
+If you place an order with a store or service hosted by us, we will collect information from you, including your credit card and contact information, for use by the merchant.  Unless otherwise stated, we do not own the store and all transactions and use of any customer information are the sole responsibility of the merchant.  Be sure to review the merchant’s privacy policy and contact them directly if you have any questions.  They may have privacy terms that differ from the our privacy policy.<br>
+</p><p>
+<b>Use of IP Addresses</b> 
+</p><p>
+An IP address is a number that's automatically assigned to your computer whenever you're surfing the Web. Web servers automatically identify your computer by its IP address. When a guest request pages from our site, our servers log the guest’s IP address.  The IP addresses are collected for the purposes of system administration and to report aggregate information to our advertisers.  We do not link IP addresses to anything personally identifiable.  This means that a guest's session will be logged, but the identity of the guest remains anonymous. <br>
+</p><p>
+<b>Use of Cookies</b> 
+</p><p>
+In cyberspace, cookies are pieces of information that a Web site transfers to an individual's hard drive for record-keeping purposes.
+</p><p>
+Cookies make Web-surfing easier for you by saving your passwords, purchases, and preferences while you're at a site. The use of cookies is an industry standard -- you'll find them at most major Web sites. 
+</p><p>
+By showing how and when guests use the site, cookies help us see which areas are popular and which are not and help in targeting ads based guest interests.  Many improvements and updates to the site are based on such data as total number of visitors and pages viewed.  This information is most easily tracked with cookies.  
+</p><p>
+A cookie lets the computers remember that you've registered, which allows us to speed up your future activities at our sites.  Similarly, the stores hosted by us usually use a cookie to track which products you've chosen to purchase while shopping.  Letting it do the record-keeping saves you the trouble of entering information over and over again.  We never use cookies to retrieve information from your computer that was not originally sent in a cookie. 
+</p><p>
+Advertising networks that serve ads onto our sites may also use cookies. We do not control these cookies, and these cookies are not subject to our policies. The use of advertising cookies sent by third-party servers is standard in the Internet industry. 
+</p><p>
+Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the site, such as the shopping, contest, and game areas, will not function properly if you do so.
+</p><p>
+<b>Your Acceptance of These Terms</b>
+</p><p>
+By using this site, you signify your assent to our Privacy Policy. If you do not agree to this policy, please do not use our sites.
+</p><p>
+We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for changes. Your continued use of the our sites following the posting of changes to these terms will mean you accept those changes. You can send e-mail to us with any further questions at <a href="mailto:info@onradio.com">info@onradio.com</a>. 
+</p></td></tr></tbody></table>
+<!-- end of content -->
+
+
+<br>
+<table cellpadding="0" cellspacing="0" border="0" width="548">
+<tbody><tr><td align="center">
+<font face="Arial,Helvetica" size="-2">
+© 1999 <a href="http://www.onradio.com/" target="_blank">OnRadio.com</a>. All rights reserved.
+<br>
+BY USING THIS SITE YOU AGREE TO THE <a href="/about/terms.html">
+TERMS OF USE</a> AND <a href="/about/privacy.html">PRIVACY POLICY</a>.<br>
+READ MORE <a href="/about/mission.html">ABOUT</a> SPIN AND HOW TO <a href="/magazine/subscriptioninfo/">SUBSCRIBE</a>.
+</font>
+</td></tr>
+</tbody></table>
+
+	</td>
+</tr>
+</tbody></table>
+
+<map name="noiseMap">
+<area shape="rect" id="mpn0" href="/noise/" coords="25,8,73,21">
+<area shape="rect" id="mpn1" href="/noise/news/" coords="31,22,68,32">
+<area shape="rect" id="mpn2" href="/noise/roadraging/" coords="31,32,104,41">
+<area shape="rect" id="mpn3" href="/noise/releases/" coords="33,42,104,51">
+<area shape="rect" id="mpn4" href="/noise/rockontv/" coords="32,52,95,61">
+</map>
+<map name="heavyMap">
+<area shape="rect" id="mph0" href="/heavy/index_heavy.html" coords="27,8,120,21">
+<area shape="rect" id="mph1" href="/heavy/bigrotation/" coords="30,22,109,32">
+<area shape="rect" id="mph2" href="/heavy/dailyrotation/" coords="30,33,111,42">
+<area shape="rect" id="mph3" href="/heavy/nowfeaturing/" coords="29,45,111,52">
+<area shape="rect" id="mph4" href="/heavy/columns/" coords="27,54,83,62">
+<area shape="rect" id="mph5" href="/heavy/live/" coords="29,64,63,73">
+</map>
+<map name="poplifeMap">
+<area shape="rect" id="mpp0" href="/poplife/index_poplife.html" coords="28,8,80,20">
+<area shape="rect" id="mpp1" href="/poplife/gamers/" coords="29,21,87,31">
+<area shape="rect" id="mpp2" href="/poplife/fashion/" coords="27,32,90,41">
+<area shape="rect" id="mpp3" href="/poplife/askmonkey/" coords="28,42,100,51">
+<area shape="rect" id="mpp4" href="/poplife/cinema/" coords="29,53,85,61">
+<area shape="rect" id="mpp5" href="/poplife/print/" coords="28,63,86,70">
+<area shape="rect" id="mpp6" href="/poplife/onsites/" coords="29,73,88,82">
+</map>
+<map name="magazineMap">
+<area shape="rect" id="mpm0" href="/magazine/index_magazine.html" coords="27,7,110,18">
+<area shape="rect" id="mpm1" href="/magazine/index_magazine.html" coords="28, 22, 88, 31">
+<area shape="rect" id="mpm2" href="/magazine/subscriptioninfo/" target="_subscription" coords="28, 32, 116, 43">
+<area shape="rect" id="mpm3" href="/magazine/masthead/" coords="31, 44, 89, 54">
+</map>
+<map name="signalMap">
+<area shape="rect" id="mps0" href="/signal/audio/" coords="27,8,99,19">
+<area shape="rect" id="mps1" href="/signal/audio/" coords="25,23,102,30">
+<area shape="rect" id="mps2" href="/signal/video/" coords="25,33,101,40">
+<area shape="rect" id="mps3" href="/signal/webcasts/" coords="26,43,101,50">
+<area shape="rect" id="mps4" href="/signal/byte/" coords="25,53,102,61">
+</map>
+<map name="communityMap">
+<area shape="rect" id="mpc0" href="/community/" coords="27,7,110,18">
+<area shape="rect" id="mpc1" href="/community/" coords="35,21,89,30">
+<area shape="rect" id="mpc2" href="/community/discussionIdx.asp" coords="35,32,134,40">
+<area shape="rect" id="mpc3" href="/community/emailView.asp" coords="34,41,93,49">
+<area shape="rect" id="mpc4" href="/community/viewProfile.asp" coords="34,51,94,58">
+<area shape="rect" id="mpc5" href="/community/chat.asp" coords="33,60,74,67">
+<area shape="rect" id="mpc6" href="/community/goingepostal/" coords="33,69,123,78">
+<area shape="rect" id="mpc7" href="/community/help/" coords="32,80,74,89">
+</map>
+
+<script language="JavaScript">
+<!--
+
+ if (dhtml) {
+    document.write(
+        '<SPAN ID="menubar" onMouseOut="if (ieDOM) ieShowDefault(event); return true;">' +
+
+        '<SPAN ID="menu1"><IMG ID="menupic1" SRC="/simages/menu_noise.gif" WIDTH=145 HEIGHT=13 ALT="" BORDER="0"><BR></SPAN>' +
+        '<SPAN ID="submenu1"><IMG ID="submenupic1" SRC="/simages/menu_noise_up.gif" WIDTH=145 HEIGHT=113 ALT="" BORDER="0" USEMAP="#noiseMap"><BR></SPAN>' +
+
+        '<SPAN ID="menu2"><IMG ID="menupic2" SRC="/simages/menu_heavy.gif" WIDTH=145 HEIGHT=13 ALT="" BORDER="0"><BR></SPAN>' +
+        '<SPAN ID="submenu2"><IMG ID="submenupic2" SRC="/simages/menu_heavy_up.gif" WIDTH=145 HEIGHT=113 ALT="" BORDER="0" USEMAP="#heavyMap"><BR></SPAN>' +
+
+        '<SPAN ID="menu3"><IMG ID="menupic3" SRC="/simages/menu_poplife.gif" WIDTH=145 HEIGHT=13 ALT="" BORDER="0"><BR></SPAN>' +
+        '<SPAN ID="submenu3"><IMG ID="submenupic3" SRC="/simages/menu_poplife_up.gif" WIDTH=145 HEIGHT=113 ALT="" BORDER="0" USEMAP="#poplifeMap"><BR></SPAN>' +
+
+        '<SPAN ID="menu4"><IMG ID="menupic4" SRC="/simages/menu_community.gif" WIDTH=145 HEIGHT=13 ALT="" BORDER="0"><BR></SPAN>' +
+        '<SPAN ID="submenu4"><IMG ID="submenupic4" SRC="/simages/menu_community_up.gif" WIDTH=145 HEIGHT=113 ALT="" BORDER="0" USEMAP="#communityMap"><BR></SPAN>' +
+
+        '<SPAN ID="menu5"><IMG ID="menupic5" SRC="/simages/menu_signal.gif" WIDTH=145 HEIGHT=13 ALT="" BORDER="0"><BR></SPAN>' +
+        '<SPAN ID="submenu5"><IMG ID="submenupic5" SRC="/simages/menu_signal_up.gif" WIDTH=145 HEIGHT=113 ALT="" BORDER="0" USEMAP="#signalMap"><BR></SPAN>' +
+
+        '<SPAN ID="menu6"><IMG ID="menupic6" SRC="/simages/menu_magazine.gif" WIDTH=145 HEIGHT=14 ALT="" BORDER="0"><BR></SPAN>' +
+        '<SPAN ID="submenu6"><IMG ID="submenupic6" SRC="/simages/menu_magazine_up.gif" WIDTH=145 HEIGHT=113 ALT="" BORDER="0" USEMAP="#magazineMap" USEMAP="#magazineMap"><BR></SPAN>' +
+
+        '<SPAN ID="menu7"><IMG ID="menupic7" SRC="/simages/menu_bottom.gif" WIDTH=145 HEIGHT=32 ALT="" BORDER="0"><BR></SPAN>' +
+        '</SPAN>'
+    );
+
+	if (nsDOM) {
+		menuRef = document.menubar.document.layers;
+		barRef = document.menubar;
+	}
+	else {
+		menuRef = document.all;
+		barRef = document.all.menubar;
+	}
+
+	for (var i=1; i<=menuItems; i++) {
+		menuRef["menu" + i].onmouseover = tripPopUp;
+	}
+
+	menuRef["menu" + (menuItems + 1)].onmouseover = showDefault;
+	showDefault();
+
+	if (nsDOM) {
+		barRef.onmouseout = showDefault;
+		if (document.staticmenu) document.staticmenu.visibility = "hidden";
+		document.menubar.visibility = "show";
+	}
+	else {
+		document.all.staticmenu.style.visibility = "hidden";
+		document.all.menubar.style.visibility="visible"; 
+	}
+
+	if ( nsDOM && (layerSrc != null ) ) {
+		document.writeln(layerSrc);
+		ad1Ref = document.ad1;
+	}
+}
+
+//-->
+</script>
+
+
+
+
+
+
+
+</body></html>
