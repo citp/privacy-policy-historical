@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the investorlinks.com privacy policy that was archived on 2001-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011202132444id_/http%3A//www.investorlinks.com/aboutusprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investorlinks.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605135905id_/http%3A//investorlinks.com/about/aboutusprivacy.htm) for the most accurate reproduction.*
 
-# InvestorLinks - About Us - Privacy Policy
+# InvestorLinks - About Us - Member Services
 
-**Special note to our users:** _This site uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to[http://www.engage.com/privacy](http://www.engage.com/privacy/)._
+InvestorLinks.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website. 
 
 1\. Information InvestorLinks.com gathers and tracks
 
@@ -22,7 +22,7 @@ This site contains links to other sites. InvestorLinks is not responsible for th
 
 Occasionally InvestorLinks.com conducts user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our advertisers and partners. We never share any of this information about specific individuals with any third party. 
 
-Our online surveys ask visitors for financial information (like their houshold income and overall size of their investment portfolio) and demographic information (like their zip code, age, or income level). Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. 
+Our online surveys ask visitors for financial information (like their household income and overall size of their investment portfolio) and demographic information (like their zip code, age, or income level). Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. 
 
 4\. InvestorLinks.com - Public Forums
 
@@ -56,10 +56,4 @@ Users may unsubscribe to any of our electronic newsletters at any time by follow
 
 9\. InvestorLinks.com - Contact
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
-
-InvestorLinks.com Inc.  
-2 Adelaide W, Suite 300  
-Toronto, Ontario M5H 1L6  
-phone (416) 864-9795  
-fax (416) 861-9623 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact at [ info@investorlinks.com](mailto:info@investorlinks.com?subject=Information%20Request%20via%20Website)
