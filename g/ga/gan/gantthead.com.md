@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gantthead.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607070914id_/http%3A//www.gantthead.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gantthead.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207202040id_/http%3A//www.gantthead.com/privacy.cfm) for the most accurate reproduction.*
 
 # gantthead.com Privacy Policy
 
@@ -144,27 +144,4 @@ E-mail: [contactus@gantthead.com](mailto:contactus@gantthead.com).
 Thank you for your support of gantthead.com and its Privacy Policy. 
 
 Last updated June 2, 2000.   
-  
-  
----  
-|  | sponsored announcements and special offers |   
-| 
 
-Using Visual SourceSafe? If you are managing large amounts of code or have more than 15 developers it may be time to consider upgrading to a process-centric software configuration management solution. Download your free research report by Giga Information Group, compliments of MKS, and learn why **["Visual SourceSafe Is Suitable Only for Simple Version Control"](http://www.gantthead.com/clickCount.cfm?ID=217778)**. 
-
-**[Download a FREE Trial](http://www.gantthead.com/clickCount.cfm?ID=218220)** \- **W E B T I M E S H E E T 5.5** a simple intuitive tool to:  
-\- Organize and track activities, resources, time and expenses  
-\- Track Estimates Vs. Actuals  
-\- Track project costs against your budget  
-
-
-**Extended Connectivity for the Enterprise: The BlackBerry Wireless Platform**   
-Evaluating wireless extensions to your enterprise applications? Considering expanding your current wireless email deployment to other enterprise information systems? **[Download free resources from leading thinkers in wireless and technology to assist you.](http://www.gantthead.com/clickCount.cfm?ID=218096)**  
-
-
-|   
----|---|---  
-  
-"Human beings, who are almost unique in having the ability to learn from the experience of others, are also remarkable for their apparent disinclination to do so."  
----  
-\- Douglas Adams
