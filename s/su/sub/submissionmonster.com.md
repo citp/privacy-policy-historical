@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the submissionmonster.com privacy policy that was archived on 2004-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041230094437id_/http%3A//www.submissionmonster.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submissionmonster.com privacy policy that was archived on 2005-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050210035321id_/http%3A//www.submissionmonster.com/privacy.html) for the most accurate reproduction.*
 
 # Submission Monster: Free Search Engine Submission and Website Promotion
 
