@@ -1,90 +1,77 @@
-> *The following text is extracted and transformed from the pro-market.net privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602100733id_/http%3A//www.pro-market.net/webSite2/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pro-market.net privacy policy that was archived on 2005-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050323022235id_/http%3A//www.pro-market.net/privacy.aspx%3Fmiid%3D7) for the most accurate reproduction.*
 
-# AlmondNet - Privacy Policy
+# :: AlmondNet - Privacy Policy ::
 
-Statement
+AlmondNet is a New York-based interactive advertising technology company that has developed a system which enables for the targeting of ads based on any combination of audience attributes (registration, behavioral, demographic, etc.). 
 
-AlmondNet Inc. is deeply committed to the privacy of each and every one of our customers and users. The protection of data is not only important for the integrity of the entire Internet, but is at the core of our business at AlmondNet Inc. In order to validate this commitment, AlmondNet has developed the following privacy policy for http://www.almondnet.com as well as AlmondNet's Pro-Market and Universal Profile Bank (UPB) technologies. If you have any questions regarding these statements, please feel free to contact AlmondNet Inc. directly either by phone or e-mail:
+The ads are presented either by AlmondNet on sites where it buys media or by clients of AlmondNet that use the company’s outsourced system within their own sites. In either case the AlmondNet system does NOT collect personal identifiable information such as name, address, telephone number, social security number or e-mail.
 
-AlmondNet Inc.  
-420 Lexington Avenue  
-Suite 331  
-New York, NY 10017  
-Phone: 1-646-435-1924  
-Fax: 1-646-435-1925  
-E-mail: [info@almondnet.com](https://web.archive.org/web/20010602100733id_/http%3A//www.pro-market.net/webSite2/info@almondnet.com)
+**What does this Privacy Policy Cover?**
 
-AlmondNet Pro-Market and UPB Privacy Policy
+The following Privacy Policy relates to AlmondNet’s usage of its system. This Privacy Policy covers how AlmondNet treats information that it collects and receives. This policy does not apply to the practices of companies that AlmondNet does not own or control or to people that AlmondNet does not employ or manage.  AlmondNet clients’ usage of the company’s outsourced system is subjected to their own privacy policies.
 
-This privacy statement discloses the privacy practices for http://www.almondnet.com and the AlmondNet Pro-Market and Universal Profile Bank (UPB) technologies. AlmondNet Inc. has developed this privacy policy in accords with the relevant sections of the Self-Regulatory Principles For Online Preference Marketing by Network Advertisers which was developed by the **Network Advertising Initiative (NAI)** in July 2000. The **Federal Trade Commission (FTC)** has supported these principles.
+**What kind of information is collected and how is it used ?**
 
-NAI is a group of third party network advertisers who are committed to increasing consumer confidence and contributing to the growth of electronic commerce. The principal business of NAI is to deliver targeted advertising that can be tailored to consumers' declared or predicted characteristics or preferences. The NAI is committed to providing consumers with a clear explanation of what data is collect, how it is used, and why the use of data can benefit consumers' experience online.
+AlmondNet does NOT collect any personal identifiable information such as name, address, telephone number, social security number or e-mail.
 
-To find out more about the NAI, or to read the entire text of the Network Advertising Initiative Self-Regulatory Principles, please visit the NAI web page, or simply click on the following link:
+AlmondNet may collect the following information:
 
-[http://www.networkadvertising.org](http://www.networkadvertising.org/)
+·         The phrase searched by a visitor to a search engine
 
-The Federal Trade Commission enforces a variety of federal antitrust and consumer protection laws and seeks to ensure that the nation's markets function competitively, and are vigorous, efficient, and free of undue restrictions. The Commission also works to enhance the smooth operation of the marketplace by eliminating acts that are unfair or deceptive. To find out more about the FTC, please visit the FTC web page, or simply click on the following link:
+·         The search made by a visitor to a travel site or any other site
 
-[http://www.ftc.gov](http://www.ftc.gov/)
+·         The content viewed by a visitor to a certain section or a certain site
 
-The **"Federal Trade Commission Report on Online Profiling"** can be found in the following link:
+AlmondNet does NOT collect any adult related searches or site visits.
 
-<http://www.ftc.gov/opa/2000/07/onlineprofiling.htm>
+The information is collected ANONYMOUSLY by using anonymous cookies in order to correlate the collected information with a specific computer’s browser, which AlmondNet placed a cookie on.
 
-If you have questions regarding the AlmondNet Inc. privacy policy, you should contact Mike Benedek by e-mail:
+The AlmondNet cookie is a small computer file that can be read only by the AlmondNet system and that informs the AlmondNet system that it has already encountered this computer in the past and that this computer was either used in the last 30 days to search for a certain phrase (such as for ‘car insurance’), product or service or used in the last 30 days to visit a certain section or site. 
 
-[mike@almondnet.com](https://web.archive.org/web/20010602100733id_/http%3A//www.pro-market.net/webSite2/mike@almondnet.com)
+Since AlmondNet does not collect personal identifiable information (such as name, address, telephone or e-mail) it has no way of knowing, which of the hundreds of millions of people that surf the web does this computer belong to. 
 
-What is Pro-Market and the Universal Profile Bank (UPB)?
+The only thing AlmondNet can do – on sites where it has access to ad space – if it happens to encounter a computer it has already encountered in the last 30 days – it can serve that computer an ad relevant to the recent search or content viewed by this computer.
 
-AlmondNet's patent-pending Pro-Market serves as the infrastructure for the AlmondNet solution by allowing advertisements to reach their target audience based on selected attributes chosen by the advertiser. Pro-Market allows advertisers to reach their target audience through precision targeting, with a built in flexibility that allows for real-time budget re-allocation, instantaneous campaign launch and immediate feedback. Pro-Market helps to facilitate an efficient match between buyers and sellers of anonymous profile-based ad space.
+**With whom is the information shared?**
 
-AlmondNet's patent-pending Universal Profile Bank (UPB) supports the Pro-Market technology and further enables advertisers to reach their target audience through the use of anonymous profiles. The Universal Profile Bank builds anonymous visitor profiles with accurate attributes acquired from reliable sources and uses those profiles in order to serve advertisements to web users through Pro-Market technology.
+AlmondNet shares the anonymous collected information with no one.
 
-What information does Pro-Market and the Universal Profile Bank collect?
+AlmondNet may grant advertising companies or ad space owners with access to reports that aggregate information about the ads presented by the AlmondNet system. It should be emphasized that the reports are not and could not be connected to individual users. 
 
-Neither Pro-Market nor the UPB collect or store personally identifiable information, such as one's name, email address or mailing address, from individuals passing through the AlmondNet system. Pro-Market and the UPB, however, do collect certain types of anonymous information, i.e., information that is non-personally identifiable and cannot be associated with any individual. Pro-Market and the UPB collect non-personally identifiable information from visitors in order to build what AlmondNet refers to as web user profiles, which in turn are used to serve targeted advertisements. AlmondNet defines a _web user profile_ as a collection of profile attributes of a web user. AlmondNet defines a _profile attribute_ as a demographic, psychographic or other attribute associated with a web user. The following types of information, in addition to others, may be collected from visitors by the AlmondNet system and stored in the UPB:
+**What kind of security procedures are in place to protect the loss, misuse or alteration of information under AlmondNet control?**
 
-AlmondNet Inc. does not collect or store information that we consider improper, such as: sensitive medical information, information on sexual behavior or sexual orientation, nor social security numbers.
+All information collected by the AlmondNet system is stored in databases that are stored in a secure data center.  Both physical and Internet access is strictly protected and limited.  Access is granted only to those with authorization. The information is stored anonymously, and is therefore not personally identifiable – even by AlmondNet Inc.
 
-AlmondNet Inc. does not merge offline personally identifiable information with the anonymous information that AlmondNet has collected online.
+**How can I opt-out?**
 
-How is the information used?
+ 
 
-AlmondNet Inc. uses the anonymous profile information collected through Pro-Market and the Universal Profile Bank to serve targeted advertisements on sites that are connected to the AlmondNet Inc. infrastructure. AlmondNet collects information for the Universal Profile Bank through the use of cookies. The anonymous information is maintained as long as the web user does not choose to opt-out.
+If you would like to opt-out from viewing ads relevant to recent **non-personally identifiable** searches and site visits you made, please click HERE:
 
-Cookies
+[OPT-OUT](https://web.archive.org/privacy.aspx?miid=7&artid=52)
 
-Cookies are used by thousands of companies, and do not hurt your browser or computer files in any way. A cookie is a line of text that is placed on your computers hard drive. This cookie is then used by the Pro-Market and UPB servers to target your anonymous profile.
+This will place an AlmondNet cookie on your computer that will inform AlmondNet NOT to collect non-personal identifiable information about you or to present you with ads. 
 
-Information collected through Pro-Market and the UPB is used so that advertisers are able to deliver advertisements to a specific anonymous profile. AlmondNet does not transfer any of this information to advertisers, publishers or profile suppliers.
+Please note that if you choose to opt-out, then in the following circumstances you will be required to renew your opt-out choice: 
 
-AlmondNet does not place cookies on your computer from our web site – except for the opt-out, http://www.almondnet.com, but does so through agreements with other web sites where AlmondNet serves advertisements, or sites who have agreed to share information with AlmondNet Inc.
+·         Change of a computer
 
-For more information about Internet explorer cookies and Netscape browser cookies please check the following links to the companies web sites.
+·         Change of a browser
 
-Netscape browser:  
-<http://home.netscape.com/security/basics/privacy.html#cookies>
+·         Deleting the opt-out cookie
 
-Internet Explorer browser:  
-<http://www.microsoft.com/info/cookies.htm>
+**How are changes to the AlmondNet Privacy Policy made ?**
 
-Opt-Out
+AlmondNet publishes its privacy policy on its web site at [www.almondnet.com](https://web.archive.org/). Any material change to AlmondNet’s privacy policy will be prominently noted in the published policy. In addition, you may contact AlmondNet with any question or concern you may have at:
 
-If you would like to opt-out of ever having **non-personally identifiable** information collected about you by AlmondNet Inc., you may check the following box:
+                               AlmondNet, Inc.
 
-I would like to opt out of this anonymous online preference marketing service.
+                               134 Spring Street, Suite 302
 
-This will place a special code on your computer that does not allow AlmondNet to collect any information about you.
+                               New York, NY 10012
 
-Please note that if you choose to opt-out, then in the following circumstances you will be required to renew your opt-out choice:
+                               Tel:  212-219-5070
 
-With Whom Is The Information Shared?
+                               Fax: 212-219-5149
 
-AlmondNet uses the information collected through Pro-Market and the UPB technologies in order to build anonymous web user profiles. These profiles are then used to serve targeted-advertisements to web users. This allows web users to receive personalized content and reduce the number of repetitive advertisements which are seen. AlmondNet reports to its advertisers and publishers using the AlmondNet infrastructure on the anonymous profiles of web surfers that have visited the publishers' web sites and the ads shown to those anonymous profiles. However, this is in no way connected to any personally identifiable information or any individual user and is used to help AlmondNet and our partners serve you better.
-
-What Kind of Security Procedures Are In Place to Protect the Loss,   
-Misuse or Alteration of Information Under AlmondNet Control?
-
-All information collected by AlmondNet through Pro-Market and the Universal Profile Bank, is stored in databases that are stored in a secure data center. Both physical and Internet access is strictly protected and limited. Access is granted only to those with authorization. The information is stored anonymously, and is therefore not personally identifiable – even by AlmondNet Inc. 
+                               E-mail: [info@almondnet.com](mailto:info@almondnet.com)
