@@ -1,37 +1,35 @@
-> *The following text is extracted and transformed from the creonline.com privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012095503id_/http%3A//www.creonline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creonline.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403163325id_/http%3A//www.creonline.com/privacy.html) for the most accurate reproduction.*
 
 # Real Estate Investing Information, Real Estate Investments
 
-** [How-To Articles](https://web.archive.org/web/20041012095503id_/http%3A//www.creonline.com/articles/index.html)  
-[Money Ideas](https://web.archive.org/web/20041012095503id_/http%3A//www.creonline.com/money-ideas/index.html)  
-[Real Estate Financing](https://web.archive.org/web/20041012095503id_/http%3A//www.creonline.com/real-estate-financing/index.html)  
-[Mobile Homes](https://web.archive.org/web/20041012095503id_/http%3A//www.creonline.com/mobile-homes/index.html)  
-[Commercial REI](https://web.archive.org/web/20041012095503id_/http%3A//www.creonline.com/commercial-real-estate/index.html)  
-[Real Estate Law](https://web.archive.org/web/20041012095503id_/http%3A//www.creonline.com/real-estate-law/index.html)  
-[Cash Flow](https://web.archive.org/web/20041012095503id_/http%3A//www.creonline.com/cash-flow/index.html)  
-[Success Stories](https://web.archive.org/web/20041012095503id_/http%3A//www.creonline.com/success-stories/index.html)  
-[Books & Courses](https://web.archive.org/web/20041012095503id_/http%3A//www.creonline.com/catalog/index.html) [Main News Group](https://web.archive.org/web/20041012095503id_/http%3A//www.creonline.com/wwwboard/index.html)  
-[Carleton Sheets](https://web.archive.org/web/20041012095503id_/http%3A//www.creonline.com/wwwboard2/index.html)  
-[Real Estate Financing ](https://web.archive.org/web/20041012095503id_/http%3A//www.creonline.com/real-estate-financing/wwwboard6/index.html) [Mobile Homes](https://web.archive.org/web/20041012095503id_/http%3A//www.creonline.com/mobilehomes/wwwboard4/index.html)  
-[Real Estate Law](https://web.archive.org/web/20041012095503id_/http%3A//www.creonline.com/legal/wwwboard7/index.html)  
-[Commercial REI](https://web.archive.org/web/20041012095503id_/http%3A//www.creonline.com/commercial-real-estate/wwwboard5/index.html)  
-[Cash Flow](https://web.archive.org/web/20041012095503id_/http%3A//www.creonline.com/cashflow/wwwboard3/index.html)  
-[Chat Room](https://web.archive.org/web/20041012095503id_/http%3A//www.creonline.com/chatroom.html) [Real Estate Courses](https://web.archive.org/web/20041012095503id_/http%3A//www.creonline.com/catalog/index.html)  
-[ Real Estate Software](https://web.archive.org/web/20041012095503id_/http%3A//www.creonline.com/catalog/index.html)  
-[ Real Estate Books](https://web.archive.org/web/20041012095503id_/http%3A//www.creonline.com/catalog/index.html) [Product Discounts](https://web.archive.org/web/20041012095503id_/http%3A//www.creonline.com/inside.html)  
-[Free Newsletter](https://web.archive.org/web/20041012095503id_/http%3A//www.creonline.com/inside.html) [Classified Ads](https://web.archive.org/web/20041012095503id_/http%3A//www.creonline.com/classified-ads/index.html)  
-[Legal Forms](https://web.archive.org/web/20041012095503id_/http%3A//www.creonline.com/real-estate-law/legal-forms.html)  
-[Real Estate Clubs](https://web.archive.org/web/20041012095503id_/http%3A//www.creonline.com/real-estate-clubs/index.html)  
-[CRE Convention](https://web.archive.org/web/20041012095503id_/http%3A//www.creonline.com/convention/index.html) [Who We Are](https://web.archive.org/web/20041012095503id_/http%3A//www.creonline.com/who.html)  
-[Contact Us](https://web.archive.org/web/20041012095503id_/http%3A//www.creonline.com/contact.html)  
-[Advertising Rates](https://web.archive.org/web/20041012095503id_/http%3A//www.creonline.com/ad-rates.html)  
-[Your Privacy](https://web.archive.org/web/20041012095503id_/http%3A//www.creonline.com/privacy.html)  
-[Terms of Use](https://web.archive.org/web/20041012095503id_/http%3A//www.creonline.com/terms.html)  
-[Copyright Notice](https://web.archive.org/web/20041012095503id_/http%3A//www.creonline.com/copyright.html)   
-** |  |  |  **Privacy Policy**  
----  
-**Wednesday, February 19, 2020**  
-  
+** [How-To Articles](https://web.archive.org/web/20050403163325id_/http%3A//www.creonline.com/articles/index.html)  
+[Money Ideas](https://web.archive.org/web/20050403163325id_/http%3A//www.creonline.com/money-ideas/index.html)  
+[Real Estate Financing](https://web.archive.org/web/20050403163325id_/http%3A//www.creonline.com/real-estate-financing/index.html)  
+[Mobile Homes](https://web.archive.org/web/20050403163325id_/http%3A//www.creonline.com/mobile-homes/index.html)  
+[Commercial REI](https://web.archive.org/web/20050403163325id_/http%3A//www.creonline.com/commercial-real-estate/index.html)  
+[Real Estate Law](https://web.archive.org/web/20050403163325id_/http%3A//www.creonline.com/real-estate-law/index.html)  
+[Cash Flow](https://web.archive.org/web/20050403163325id_/http%3A//www.creonline.com/cash-flow/index.html)  
+[Success Stories](https://web.archive.org/web/20050403163325id_/http%3A//www.creonline.com/success-stories/index.html)  
+[Books & Courses](https://web.archive.org/web/20050403163325id_/http%3A//www.creonline.com/catalog/index.html) [Main News Group](https://web.archive.org/web/20050403163325id_/http%3A//www.creonline.com/wwwboard/index.html)  
+[Carleton Sheets](https://web.archive.org/web/20050403163325id_/http%3A//www.creonline.com/wwwboard2/index.html)  
+[Real Estate Financing ](https://web.archive.org/web/20050403163325id_/http%3A//www.creonline.com/real-estate-financing/wwwboard6/index.html) [Mobile Homes](https://web.archive.org/web/20050403163325id_/http%3A//www.creonline.com/mobilehomes/wwwboard4/index.html)  
+[Real Estate Law](https://web.archive.org/web/20050403163325id_/http%3A//www.creonline.com/legal/wwwboard7/index.html)  
+[Commercial REI](https://web.archive.org/web/20050403163325id_/http%3A//www.creonline.com/commercial-real-estate/wwwboard5/index.html)  
+[Cash Flow](https://web.archive.org/web/20050403163325id_/http%3A//www.creonline.com/cashflow/wwwboard3/index.html)  
+[Chat Room](https://web.archive.org/web/20050403163325id_/http%3A//www.creonline.com/chatroom.html) [Real Estate Courses](https://web.archive.org/web/20050403163325id_/http%3A//www.creonline.com/catalog/index.html)  
+[ Real Estate Software](https://web.archive.org/web/20050403163325id_/http%3A//www.creonline.com/catalog/index.html)  
+[ Real Estate Books](https://web.archive.org/web/20050403163325id_/http%3A//www.creonline.com/catalog/index.html) [Product Discounts](https://web.archive.org/web/20050403163325id_/http%3A//www.creonline.com/inside.html)  
+[Free Newsletter](https://web.archive.org/web/20050403163325id_/http%3A//www.creonline.com/inside.html) [Classified Ads](https://web.archive.org/web/20050403163325id_/http%3A//www.creonline.com/classified-ads/index.html)  
+[Legal Forms](https://web.archive.org/web/20050403163325id_/http%3A//www.creonline.com/real-estate-law/legal-forms.html)  
+[Real Estate Clubs](https://web.archive.org/web/20050403163325id_/http%3A//www.creonline.com/real-estate-clubs/index.html)  
+[CRE Convention](https://web.archive.org/web/20050403163325id_/http%3A//www.creonline.com/convention/index.html) [Who We Are](https://web.archive.org/web/20050403163325id_/http%3A//www.creonline.com/who.html)  
+[Contact Us](https://web.archive.org/web/20050403163325id_/http%3A//www.creonline.com/contact.html)  
+[Advertising Rates](https://web.archive.org/web/20050403163325id_/http%3A//www.creonline.com/ad-rates.html)  
+[Your Privacy](https://web.archive.org/web/20050403163325id_/http%3A//www.creonline.com/privacy.html)  
+[Terms of Use](https://web.archive.org/web/20050403163325id_/http%3A//www.creonline.com/terms.html)  
+[Copyright Notice](https://web.archive.org/web/20050403163325id_/http%3A//www.creonline.com/copyright.html)   
+** |  | 
+
 Our Commitment To Privacy 
 
 Your privacy is of the utmost importance to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. 
@@ -66,7 +64,7 @@ Should you have other questions or concerns about these privacy policies, please
 
 * * *
 
-|  |   
+|  |  |   
 ---  
 **FREE  
 NEWSLETTER**  
