@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ustr.gov privacy policy that was archived on 2000-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001119150600id_/http%3A//www.ustr.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ustr.gov privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602093353id_/http%3A//www.ustr.gov/privacy.htm) for the most accurate reproduction.*
 
 # USTR - Privacy Statement
 
