@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the record-eagle.com privacy policy that was archived on 2002-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021128190847id_/http%3A//www.record-eagle.com/lib/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the record-eagle.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203032014id_/http%3A//www.record-eagle.com/lib/privacy.htm) for the most accurate reproduction.*
 
 # Traverse City Record-Eagle privacy policy
 
