@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acronymfinder.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604011632id_/http%3A//www.acronymfinder.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acronymfinder.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208091516id_/http%3A//www.acronymfinder.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@
 
 **Information Automatically Logged**
 
-> We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to gather broad demographic information, and to help us verify [terms of use](https://web.archive.org/web/20020604011632id_/http%3A//www.acronymfinder.com/terms.htm) of this site.
+> We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to gather broad demographic information, and to help us verify [terms of use](https://web.archive.org/web/20021208091516id_/http%3A//www.acronymfinder.com/terms.htm) of this site.
 
 **Cookies**
 
@@ -18,10 +18,9 @@
 
 > We use outside companies to manage and display advertisements on our site. These ads may use cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by these ad companies, and we do not have access to this information. Here are their privacy statements.
 >
->> [Advertising.com](http://www.advertising.com/index.html) [Privacy Statement](http://www.advertising.com/privacy/index.html)[  
->  BURST! Media, LLC.](https://www.burstmedia.com/) [Privacy Statement](https://www.burstmedia.com/release/privacy.asp) [  
->  ](http://www.advertising.com/privacy/index.html) [Sonar Network](http://www.sonar.com/content/privacy.htm) [Privacy Statement  
->  ](http://www.sonar.com/content/privacy.htm)[ValueClick](http://valueclick.com/) [Privacy Statement](http://valueclick.com/privacy.html)
+>> [Fastclick](http://www.fastclick.com/) [Privacy Statement](http://www.fastclick.com/about/privacy.html)
+>> 
+>> [ MaxWorldwide](http://www.maxworldwide.com/index.php) [Privacy Statement](http://www.maxworldwide.com/privacy_policy/index.php)
 
 **External Links**
 
@@ -37,9 +36,9 @@
 > 
 > Information you reveal to us in your email will not be revealed, discussed, sold, traded, published, or given to any other entity.
 > 
-> Your name, email address, and/or web address may be placed on our [Contributors](https://web.archive.org/web/20020604011632id_/http%3A//www.acronymfinder.com/contributors.htm) page if we determine you have contributed to our site **and** you wish your information to appear there. You may choose to use a nickname or your real name, and use of your email or web address is purely optional. If you have asked for your name, email or web address to be placed on the Contributors page and later wish it to be removed, simply email us and we will remove it. In other words, you may maintain your privacy if you wish.
+> Your name, email address, and/or web address may be placed on our [Contributors](https://web.archive.org/web/20021208091516id_/http%3A//www.acronymfinder.com/contributors.htm) page if we determine you have contributed to our site **and** you wish your information to appear there. You may choose to use a nickname or your real name, and use of your email or web address is purely optional. If you have asked for your name, email or web address to be placed on the Contributors page and later wish it to be removed, simply email us and we will remove it. In other words, you may maintain your privacy if you wish.
 > 
-> **Any information** you reveal to us could be given to another entity if we believe or suspect you are violating the [terms of use](https://web.archive.org/web/20020604011632id_/http%3A//www.acronymfinder.com/terms.htm) of this site, violating the law, or otherwise misusing this site or its server.
+> **Any information** you reveal to us could be given to another entity if we believe or suspect you are violating the [terms of use](https://web.archive.org/web/20021208091516id_/http%3A//www.acronymfinder.com/terms.htm) of this site, violating the law, or otherwise misusing this site or its server.
 
 **Data Quality/Access**
 
