@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nursingtimes.net privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202180540id_/http%3A//www.nursingtimes.net/help/hapage.asp%3FID%3DPrivacyDoc2001) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nursingtimes.net privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004040553id_/http%3A//www.nursingtimes.net/help/hapage.asp%3FID%3DPrivacyDoc2001) for the most accurate reproduction.*
 
 # Nursing Times Net
 
@@ -31,4 +31,4 @@ In order to protect your privacy, we are registered in accordance with and seek 
 
 **CONTACTING US**
 
-If you have any queries about our privacy policy or any queries about the protection of personal information we hold about you, please contact us at [NT.UserQueries@nursingtimes.net](mailto:NT.UserQueries@nursingtimes.net?subject=Privacy%20Query)
+If you have any queries about our privacy policy or any queries about the protection of personal information we hold about you, please contact us at [NT.UserQueries@emap.com](mailto:NT.UserQueries@emap.com?subject=Privacy%20Query)
