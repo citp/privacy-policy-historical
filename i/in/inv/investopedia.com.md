@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the investopedia.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402051105id_/http%3A//www2.investopedia.com/investopedia/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investopedia.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208183515id_/http%3A//www.investopedia.com/investopedia/privacy.asp) for the most accurate reproduction.*
 
 # Investopedia.com Privacy Statement
+
+[  
+](http://click.investopedia.com/?RC=11030&AI=224)
+
+[](http://click.investopedia.com/?RC=11031&AI=1085)
 
   
 | 
@@ -31,7 +36,7 @@ We maintain a strict "No-Spam" policy that means that we do not intend to sell, 
 **Third-Party Offers**  
 Some advertisers we work with are interested in acquiring leads for their sale force by providing offers that qualify visitors. For example, a brokerage might provide a free book on trading in order to reach and advertise to that audience. (This is known as cost-per-lead advertising (CPL) or co-registration.) 
 
-With third-party offers user data is collected by our webservers and sent to the advertiser who then fulfills the offer. After data is sent to the advertiser we have no way to control how it is used because it has left our system. We always attempt to deal with reputable companies who respect user privacy but we cannot guarantee, or be liable for, any misuse of visitor data as a result of a third-party offer on our site. If you have experienced a problem with one of our advertisers, please [tell us](https://web.archive.org/investopedia/contact.asp?Recipient=concerns&Domain=investopedia.com&Subject=Investopedia%20Contact%20Form).
+With third-party offers user data is collected by our webservers and sent to the advertiser who then fulfills the offer. After data is sent to the advertiser we have no way to control how it is used because it has left our system. We always attempt to deal with reputable companies who respect user privacy but we cannot guarantee, or be liable for, any misuse of visitor data as a result of a third-party offer on our site. If you have experienced a problem with one of our advertisers, please [tell us](https://web.archive.org/contact.aspx?Recipient=concerns&Domain=investopedia.com&Subject=Investopedia%20Contact%20Form).
 
 **Single-pixel Images**  
 Equade and its advertisers may use single-pixel gif images, sometimes referred to as web bugs or web beacons, to count Web page accesses and gather some general statistical information. Equade does not gather personal information through the use of these images. Our advertisers may use single-pixel gifs that can track personal information from cookies that may have been previously placed on a user's computer by an advertiser. 
@@ -60,6 +65,6 @@ Equade Internet
 10080 - Jasper Ave., Suite #605  
 Edmonton, AB, Canada T5J1V9  
 780-421-0555  
-[E-Mail Us](https://web.archive.org/investopedia/contact.asp?Recipient=webmaster&Domain=equade.com&Subject=Investopedia%20Contact%20Form)
+[E-Mail Us](https://web.archive.org/contact.aspx?Recipient=webmaster&Domain=equade.com&Subject=Investopedia%20Contact%20Form)
 
 | 
