@@ -1,0 +1,567 @@
+<!--The following is the downloaded HTML source of the chinafile.com privacy policy that was archived on 2002-04-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020402234843id_/http%3A//www.chinafile.com/saiweng/swpage.nsf/%28Pages%29/Privacy%3Fopendocument) for the most accurate reproduction.-->
+
+<html><!-- Lotus-Domino (Release 5.0.5 - September 22, 2000 on Windows NT/Intel) --><head>
+<meta http-equiv="Set-Cookie" content="cartid=2209-074040; expires=Friday, 3-May-2002 7:40:40 GMT; path=/"><title>SinoFile.net - China Business Matrix - China's premier media monitoring company</title><link rel="stylesheet" href="/saiweng/main.css">
+<meta name="description" content="Daily survey of Chinese news media and selection of top news. SinoFile monitors national and local newspapers, offering online media monitoring and custom media services for China business information.">
+<meta name="keywords" content="China media and press monitoring, media monitoring, press clippings, newspaper selections, news aggregation, press digest, China news reports, Company image analysis, red alert, Online media tracking services, custom media monitoring services, media audits, executive briefing, China pulse, automotive, aviation, telecom, internet, insurance, agriculture, education, household and personal care, pharmaceutical, oil &amp; gas, power, photography, Chinese newspapers, China competitor information and share of voice analysis, Beijing, Guangzhou, Shanghai, Consumer attitudes in China, Chinese industries, China industry press analysis">
+<script language="JavaScript">
+<!-- 
+document._domino_target = "_self";
+function _doClick(v, o, t) {
+  var url="/saiweng/swpage.nsf/(Pages)/Privacy?OpenDocument&Click=" + v;
+  if (o.href != null)
+    o.href = url;
+  else {
+    if (t == null)
+      t = document._domino_target;
+    window.open(url, t);
+  }
+
+}
+// -->
+</script>
+
+<script language="JavaScript">
+<!-- 
+//javascripr code for roll-over staff
+function bigLoader()
+{
+var dir = location.href.substring(0,location.href.lastIndexOf('/')+1);
+var url = location.href.substring(dir.length,location.href.length+1);
+if (url == "") {
+	gowhere = dir + "saiweng/swsite.nsf/z_DefaultPage?readForm";
+} else {
+	gowhere = dir + "z_" + url;
+}
+newurl = gowhere.replace("Law", "CHLaw");
+window.location = newurl;
+}
+
+if (document.images) {
+homesml = new Image(34, 20); homesml.src = '/saiweng/homesml.gif';
+homesmlo = new Image(34, 20); homesmlo.src = '/saiweng/W_homesml.gif';
+searchsml = new Image(38, 20); searchsml.src = '/saiweng/searchsml.gif';
+searchsmlo = new Image(38, 20); searchsmlo.src = '/saiweng/W_searchsml.gif';
+servicesml = new Image(46, 20); servicesml.src = '/saiweng/servicesml.gif';
+servicesmlo = new Image(46, 20); servicesmlo.src = '/saiweng/W_servicesml.gif';
+aboutsml = new Image(46, 20); aboutsml.src = '/saiweng/aboutsml.gif';
+aboutsmlo = new Image(46, 20); aboutsmlo.src = '/saiweng/W_aboutsml.gif';
+sitemapsml = new Image(42, 20); sitemapsml.src = '/saiweng/sitemap125.gif';
+sitemapsmlo = new Image(42, 20); sitemapsmlo.src = '/saiweng/W_sitemap125.gif';
+jobsml = new Image(27, 20); jobsml.src = '/saiweng/jobsml.gif';
+jobsmlo = new Image(27, 20); jobsmlo.src = '/saiweng/W_jobsml.gif';
+
+sinoscanimg = new Image(72, 20); sinoscanimg.src = '/saiweng/sinoscan.gif';
+sinoscanimgo = new Image(72, 20); sinoscanimgo.src = '/saiweng/W_sinoscan.gif';
+sinopolisimg = new Image(73, 20); sinopolisimg.src = '/saiweng/sinopolis.gif';
+sinopolisimgo = new Image(73, 20); sinopolisimgo.src = '/saiweng/W_sinopolis.gif';
+unidoimg = new Image(53, 20); unidoimg.src = '/saiweng/unido.gif';
+unidoimgo = new Image(53, 20); unidoimgo.src = '/saiweng/W_unido.gif';
+sinologimg = new Image(65, 20); sinologimg.src = '/saiweng/sinolog.gif';
+sinologimgo = new Image(65, 20); sinologimgo.src = '/saiweng/W_sinolog.gif';
+}
+
+function di(id,name){
+  if (document.images) {document.images[id].src=eval(name+".src"); }
+}
+
+// function that displays status bar message
+
+function dm(msgStr) {
+  document.returnValue = false;
+  if (document.images) { 
+     window.status = msgStr;
+     document.returnValue = true;
+  }
+}
+var showMsg = navigator.userAgent != "Mozilla/4.0 (compatible; MSIE 4.0; Mac_PowerPC)";
+function dmim(msgStr) {
+  document.returnValue = false;
+  if (showMsg) { 
+    window.status = msgStr;
+    document.returnValue = true;
+  }
+}
+
+
+function showEngDate() {
+        month = new Array(12);
+        month[0]="Jan"; month[1]="Feb"; month[2]="March"; month[3]="April";
+        month[4]="May"; month[5]="June"; month[6]="July"; month[7]="August";
+        month[8]="Sept"; month[9]="Oct"; month[10]="Nov"; month[11]="Dec";
+        d = new Date();
+	    week = new Array(7);
+	   week[0]="Sunday"; week[1]="Monday";week[2]="Tuesday";
+   	   week[3]="Wednesday"; week[4]="Thursday";week[5]="Friday";week[6]="Saturday";	   
+        document.write(week[d.getDay()]+",&nbsp;"+d.getDate() + "&nbsp;" + month[d.getMonth()] + "&nbsp;" + "2001"  + "&nbsp;&nbsp;");
+//        document.write(week[d.getDay()]+",&nbsp;"+d.getDate() + "&nbsp;" + month[d.getMonth()] + "&nbsp;" + d.getYear()  + "&nbsp;&nbsp;");
+}
+
+var cartID;
+function initializepage() {
+   //Look for CartID in cookie first
+   var cookies=document.cookie;
+   cartID = getcartid("cartid", cookies, ";");
+   if (cartID==null) {
+         cartID=randomnum();
+    }
+    //Append CartID to all links on the current page, regardless of whether cookies are enabled or not   
+    setlinks(cartID);    
+ }
+
+function randomnum() {
+      var TodaysDate=new Date();
+      var rn = Math.floor(16000*Math.random()+1)+"-"+TodaysDate.getHours()+TodaysDate.getMinutes()+TodaysDate.getSeconds(); 
+      return rn;
+ }
+
+function setlinks(v) {
+       for (var i = 0; i < document.links.length; i++) {
+              //Use the search property of the link object to append the CartID
+              if ((document.links[i].search.substring(0,15)=="?OpenAgent&UNID")||(document.links[i].href.substring(document.links[i].href.length-13,document.links[i].href.length-9)=="Cart"))
+                 document.links[i].search=document.links[i].search + "&CartID=" +v;
+       }
+ }  
+
+function getcartid(name, inputstring, trunc) {
+        //Simply parses out CartID from either the cookie or URL passed to function
+        inputstring = inputstring + trunc;
+        inputstring = inputstring.toLowerCase();
+        var start=inputstring.indexOf(name + "=");
+        if (start>-1) {
+             start=inputstring.indexOf("=", start)+1
+           }
+        var end = inputstring.indexOf(trunc, start);
+        if (start==-1 || end==-1) {
+              value=null
+           } 
+        else {
+              var value=unescape(inputstring.substring(start,end))
+           }
+        return value;
+ }
+
+function process() {
+var kw = document.forms[0].keyword.value;
+var no = "~";
+if (document.forms[0].keyword.value=="")
+{
+   alert("Please enter the keyword!");
+   return false;    
+}
+if (!(document.forms[0].k1.checked)&&!(document.forms[0].k2.checked)&&!(document.forms[0].k3.checked)&&!(document.forms[0].k4.checked))
+{
+  alert("Please select the search database!");
+  return false;  
+}
+if (document.forms[0].k1.checked)
+   no = no + "k1";
+if (document.forms[0].k2.checked)
+   no = no + "k2";
+if (document.forms[0].k3.checked)
+   no = no + "k3";
+if (document.forms[0].k4.checked)
+   no = no + "k4";
+window.location = "/Saiweng/swsite.nsf/SearchResult?ReadForm&"+kw+no+"";
+return false;
+}
+
+function pageLoader(resource) {
+	if (resource=="vertical") {
+		if (document.forms[0].SectorList[document.forms[0].SectorList.selectedIndex].value!="")
+		window.location='/Saiweng/swsite.nsf/Vertical?ReadForm&'+document.forms[0].SectorList[document.forms[0].SectorList.selectedIndex].value;
+		document.forms[0].SectorList.selectedIndex=0;
+	}
+	else if (resource=="company") {
+		if (document.forms[0].CompanyList[document.forms[0].CompanyList.selectedIndex].text!="- select options -")
+		window.location='/saiweng/swsite.nsf/CompanyList?ReadForm&'+document.forms[0].CompanyList[document.forms[0].CompanyList.selectedIndex].value;
+     	document.forms[0].CompanyList.selectedIndex=0;
+	}	
+	else if (resource=="city") {
+		if (document.forms[0].CityList[document.forms[0].CityList.selectedIndex].text!="- select options -")
+		window.location='/saiweng/swsite.nsf/City?ReadForm&'+document.forms[0].CityList[document.forms[0].CityList.selectedIndex].text;
+		document.forms[0].CityList.selectedIndex=0;
+	}	
+	else {
+	return false;
+	}
+}// javascript code for drop-down menu
+function MM_findObj(n, d) { //v3.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+}
+
+function MM_showHideLayers() { //v3.0
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
+
+function initMouseEvents() {
+	document.onmousemove = mouseMove
+     if(document.ns) document.captureEvents(Event.MOUSEMOVE)
+}
+
+function mouseMove(e) {
+	var x = (document.ns)? e.pageX : event.x+document.body.scrollLeft;
+	var y = (document.ns)? e.pageY : event.y+document.body.scrollTop;
+	if (document.ns && e.target!=document) routeEvent(e);
+	if (Scroll && ScrollTestActive()) return false;
+	else if (Drag && drag.mouseMove(x,y)) return false;
+	else return DynMouseMove(x,y);
+}
+function DynMouseMove(x,y) {
+    if (x<(pageW-275) || (y<92|| y>280)) {
+         MM_showHideLayers('sinoscan','','hide','services','','hide','sinopolis','','hide','unido','','hide');
+     }
+return true;
+}
+Drag = null;
+Scroll = null;
+// -->
+</script>
+</head>
+<body text="000000" bgcolor="FFFFFF" topmargin="0" leftmargin="0" rightmargin="0" marginwidth="0" marginheight="0" link="#cc0000" vlink="#cc0000" alink="#cc0000" onload="initializepage()">
+
+<form onsubmit="return false"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr><td valign="top">
+<!--- top frame goes here --->
+<!--- Top frame code goes here ---><table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr valign="top">
+<td width="225" rowspan="2" heigh="86"><img src="/saiweng/netlogo.gif" border="0"></td>
+<td width="100%"><div align="right"><a href="" onclick="bigLoader();return false;"><img src="/saiweng/chnversion.gif" border="0"></a></div></td>
+</tr>
+<tr valign="center"><td width="100%"><div align="right"><a href="/saiweng/swads.nsf/Get+Link?OpenAgent" target="_blank"><img src="/saiweng/swads.nsf/Get+Image?OpenAgent" border="0"></a><img src="/com/webimage/blank.gif" width="4" height="2"></div></td></tr>
+<tr><td width="100%" colspan="2" height="4" bgcolor="6699CC"><img src="/com/webimage/blank.gif" width="1" height="4"></td></tr>
+<tr><td width="100%" colspan="2" height="1" bgcolor="354F6A"><img src="/com/webimage/blank.gif" width="1" height="1"></td></tr>
+<tr><td width="100%" colspan="2" height="1" bgcolor="807138"><img src="/com/webimage/blank.gif" width="1" height="1"></td></tr>
+<tr valign="top" height="20" bgcolor="#A09788">
+<td width="50%" valign="top" height="20"><a href="/saiweng/swsite.nsf/DefaultPage?ReadForm" onmouseout="di('homesml','homesml');dm(''); return true;" onmouseover="di('homesml','homesmlo');dm('return to SinoFile.net home page'); return true;"><img name="homesml" src="/saiweng/homesml.gif" width="34" height="20" border="0"></a><a href="/saiweng/swpage.nsf/(Pages)/Our_Services?opendocument" onmouseout="di('servicesml','servicesml');dm(''); return true;" onmouseover="di('servicesml','servicesmlo');dm('our services'); return true;"><img name="servicesml" src="/saiweng/servicesml.gif" width="46" height="20" border="0"></a><a href="/saiweng/swpage.nsf/(Pages)/Aboutus?opendocument" target="_top" onmouseout="di('aboutsml','aboutsml');dm(''); return true;" onmouseover="di('aboutsml','aboutsmlo');dm('about SinoFile.net'); return true;"><img name="aboutsml" src="/saiweng/aboutsml.gif" width="46" height="20" border="0"></a><a href="/saiweng/swpage.nsf/(Pages)/Jobs?opendocument" target="_top" onmouseout="di('jobsml','jobsml');dm(''); return true;" onmouseover="di('jobsml','jobsmlo');dm('job opportunities'); return true;"><img name="jobsml" src="/saiweng/jobsml.gif" width="27" height="20" border="0"></a><a href="/saiweng/swpage.nsf/(Pages)/Sitemap?opendocument" target="_top" onmouseout="di('sitemapsml','sitemapsml');dm(''); return true;" onmouseover="di('sitemapsml','sitemapsmlo');dm('site map'); return true;"><img name="sitemapsml" src="/saiweng/sitemap125.gif" width="42" height="20" border="0"></a></td>
+<td width="50%" valign="top" height="20" align="right">
+<!--<span class=smalltextwhite><SCRIPT LANGUAGE="JavaScript">showEngDate()</SCRIPT></span>-->
+<a href="/sinoapp/ammsite.nsf?opendatabase" onmouseout="di('sinoscanimg','sinoscanimg');dm(''); return true;" onmouseover="di('sinoscanimg','sinoscanimgo');MM_showHideLayers('sinoscan','','show','services','','hide','sinopolis','','hide','unido','','hide');return true;"><img name="sinoscanimg" src="/saiweng/sinoscan.gif" width="72" height="20" align="absmiddle" border="0"></a><a href="http://www.sinopolis.com" onmouseout="di('sinopolisimg','sinopolisimg');dm(''); return true;" onmouseover="di('sinopolisimg','sinopolisimgo'); MM_showHideLayers('sinoscan','','hide','services','','hide','sinopolis','','show','unido','','hide');return true;" target="_blank"><img name="sinopolisimg" src="/saiweng/sinopolis.gif" width="73" height="20" align="absmiddle" border="0"></a><a href="/Saiweng/swsite.nsf/Vertical?ReadForm&amp;Law" target="_top" onmouseout="di('sinologimg','sinologimg');dm(''); return true;" onmouseover="di('sinologimg','sinologimgo'); MM_showHideLayers('sinoscan','','hide','services','','hide','sinopolis','','hide','unido','','hide');return true;"><img name="sinologimg" src="/saiweng/sinolog.gif" width="65" height="20" align="absmiddle" border="0"></a>
+<!--<a href="/saiweng/swpage.nsf/(pages)/unido_services?opendocument"  onMouseOut="di('unidoimg','unidoimg');dm(''); return true;" onMouseOver="di('unidoimg','unidoimgo'); MM_showHideLayers('sinoscan','','hide','services','','hide','sinopolis','','hide','unido','','show');return true;"><IMG name="unidoimg" SRC="/saiweng/unido.gif" WIDTH=53 HEIGHT=20  align="absmiddle" BORDER="0"></a>--></td>
+</tr>
+</tbody></table>
+</td></tr>
+<tr><td>
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+	<td width="125" bgcolor="#D8D5CF" valign="top">
+<!--- left frame goes here --->
+<!--- Left frame code goes here --->
+<table width="125" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr><td><a href="/sinoapp/ammsite.nsf/MainFrame?OpenFrameSet"><img src="/saiweng/sinoscan_home.gif" border="0"></a></td></tr>
+<tr><td>
+	<table cellpadding="0" cellspacing="7" border="0">
+	<tbody><tr><td><a href="/sinoapp/ammsite.nsf/SubFrame1?openframeset" class="leftlink">media tracking</a></td></tr>
+	<tr><td><a href="/sinoapp/ammsite.nsf/SubFrame2?openframeset" class="leftlink">sinoscan</a></td></tr>
+	<tr><td><a href="/sinoapp/ammsite.nsf/SubFrame3?openframeset" class="leftlink">executive briefs</a></td></tr>
+	<tr><td><a href="/sinoapp/ammsite.nsf/SubFrame6?openframeset" class="leftlink">china pulse</a></td></tr>
+	<tr><td><a href="/sinoapp/ammsite.nsf/SubFrame4?openframeset" class="leftlink">media audits</a></td></tr>
+	<tr><td><a href="/sinoapp/ammsite.nsf/SubFrame5?openframeset" class="leftlink">custom media</a></td></tr>
+	</tbody></table>
+</td></tr>
+<tr><td><img src="/saiweng/newscenter.gif"></td></tr>
+<tr><td>
+	<table cellpadding="0" cellspacing="7" border="0">
+	<tbody><tr><td><a href="/saiweng/swsite.nsf/PressRelease?ReadForm" class="leftlink">press releases</a></td></tr>
+	<tr><td><a href="/saiweng/swreg.nsf/FreeNews?OpenForm" class="leftlink">free updates</a></td></tr>
+	<tr><td><a href="/Saiweng/swsite.nsf/Seminars?ReadForm" class="leftlink">business almanac</a></td></tr>
+	</tbody></table>	
+</td></tr>
+<tr><td><img src="/saiweng/bizcenter.gif"></td></tr>
+<tr><td>
+	<table cellpadding="0" cellspacing="7" border="0">
+	<tbody><tr><td><a href="/saiweng/swsite.nsf/CityResource?readform" class="leftlink">city resource</a></td></tr>
+	<tr><td><a href="/saiweng/swsite.nsf/CompanyProfile?readform" class="leftlink">company profile</a></td></tr>
+	<tr><td><a href="/saiweng/swpage.nsf/(pages)/project_listing?opendocument" class="leftlink">project listing</a></td></tr>
+	</tbody></table>
+</td></tr>
+<tr><td><img src="/saiweng/search_home.gif"></td></tr>
+<tr><td>
+	<table cellpadding="0" cellspacing="7" border="0">
+	<tbody><tr><td valign="top"><input name="keyword" type="text" maxlength="20" size="9"><img src="/com/webimage/blank.gif" width="3" height="1"><a href="" onclick="process();return false"><img src="/saiweng/go.gif" border="0"></a></td></tr>
+	<tr><td><p class="leftlink">
+	<input type="checkbox" name="k1"><span class="leftlink">news</span><br>
+	<input type="checkbox" name="k2"><span class="leftlink">cities</span><br>
+	<input type="checkbox" name="k3"><span class="leftlink">companies</span><br>
+	<input type="checkbox" name="k4"><span class="leftlink">press releases</span>
+	</p></td></tr>
+	</tbody></table>
+</td></tr>
+<tr><td><a href="http://www.sinopolis.com" target="_blank"><img src="/saiweng/sinopolis125.gif" border="0"></a></td></tr>
+<tr><td>
+	<table cellpadding="0" cellspacing="7" border="0">
+	<tbody><tr><td><a href="http://www.sinopolis.com/EDU/educate.htm" class="leftlink" target="_blank">education</a></td></tr>
+	<tr><td><a href="http://www.sinopolis.com/BUS/business.htm" class="leftlink" target="_blank">business</a></td></tr>
+	<tr><td><a href="http://www.sinopolis.com/TECH/tech.htm" class="leftlink" target="_blank">technology</a></td></tr>
+	<tr><td><a href="http://www.sinopolis.com/ENV/env.htm" class="leftlink" target="_blank">environment</a></td></tr>
+	<tr><td><a href="http://www.sinopolis.com/life/life.htm" class="leftlink" target="_blank">life</a></td></tr>
+	<tr><td><a href="http://www.sinopolis.com/reform/reform.htm" class="leftlink" target="_blank">china reforms</a></td></tr>
+	<tr><td><a href="http://www.sinopolis.com/filex/filex.htm" class="leftlink" target="_blank">file X</a></td></tr>
+	</tbody></table>
+</td></tr>
+</tbody></table>
+	</td>
+	<td width="20"><img src="/com/webimage/blank.gif" width="20" height="1" border="0"></td>
+	<td valign="top">
+		<!--- your code  goes here --->	
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr><td><img src="/com/webimage/blank.gif" height="15" width="1"><br>
+<span class="bigtitle">PRIVACY</span></td></tr>
+<tr><td><img src="/com/webimage/blank.gif" height="6" width="1"></td></tr>
+<tr><td>
+<br>
+<b><font size="2" face="Arial">Your Privacy</font></b><font size="2" face="Arial"><br>
+At SinoFile.net we are committed to protecting your privacy. We use the information collected to process orders and provide a more personalized browsing experience. Please read on for more details about our privacy policy.</font>
+<p><b><font size="2" face="Arial">What about "cookies"?</font></b><font size="2" face="Arial"><br>
+"Cookies" are small pieces of information stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information, but they do enable us to provide features and to store items that help us assist you when you revisit our site. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that. If you choose to not use cookies, some information retrieval may become less convenient, but every effort will be made to get you what you need based on "cookie-less" sessions.</font>
+</p><p><b><font size="2" face="Arial">Will SinoFile.net disclose the information it collects to outside parties?</font></b><font size="2" face="Arial"><br>
+SinoFile.net does not sell, trade, or rent your personal information to others. SinoFile.net may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but These statistics will include no personally identifying information. SinoFile.net may release account information when we believe, in good faith, that such release is reasonably necessary to (i) comply with law, (ii) enforce or apply the terms of any of our user agreements or (iii) protect the rights, property or safety of SinoFile.net, our users, or others.</font>
+</p><p><b><font size="2" face="Arial">In summary</font></b><font size="2" face="Arial"><br>
+We are committed to protecting your privacy. We use the information we collect on the site to make our site better and to enhance your overall experience. We do not sell, trade, or rent your personal information to others.</font>
+</p><p><b><font size="2" face="Arial">Your consent</font></b><font size="2" face="Arial"><br>
+By using our Web site, you consent to the collection and use of this information by SinoFile.net. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.</font>
+</p></td></tr>
+</tbody></table>
+	</td>
+	<td width="20"><img src="/com/webimage/blank.gif" width="20" height="1" border="0"></td>
+	<td width="150" bgcolor="#D8D5CF" valign="top">	
+<!--- right frame goes here --->
+<!--- Right frame code goes here --->
+<table width="150" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr><td><img src="/saiweng/general/gugong113.jpg" width="150" height="113"></td></tr>
+<tr><td><img src="/saiweng/citylocator.gif"></td></tr>
+<tr><td>
+<table cellpadding="0" cellspacing="7" border="0"><tbody><tr><td>
+<select name="CityList" class="SELECT" style="font-family:arial; font-size: 9pt" onchange="pageLoader('city')">
+<option value="">- select options -</option>
+<option>Baiyin</option>
+<option>Baotou</option>
+<option>Changchun</option>
+<option>Duyun</option>
+<option>Deyang</option>
+<option>Fengcheng</option>
+<option>Fushun</option>
+<option>Harbin</option>
+<option>Huangshan</option>
+<option>Jingdezhen</option>
+<option>Leling</option>
+<option>Lianyungang</option>
+<option>Mianyang</option>
+<option>Qinhuangdao</option>
+<option>Shihezi</option>
+<option>Shiyan</option>
+<option>Shizuishan</option>
+<option>Weihai</option>
+<option>Wuhan</option>
+<option>Xiaoshan</option>
+<option>Xishan</option>
+<option>Yanan</option>
+<option>Yantai</option>
+<option>Yingkou</option>
+<option>Yuxi</option>
+</select>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td><img src="/saiweng/companylocator.gif"></td></tr>
+<tr><td>
+<table cellpadding="0" cellspacing="7" border="0"><tbody><tr><td>
+<select name="CompanyList" class="SELECT" style="font-family:arial; font-size: 9pt" onchange="pageLoader('company')">
+<option value="">- select options -</option>
+<option value="Northeast">Northeast China</option>
+<option value="Northwest">Northwest China</option>
+<option value="Northern">Northern China</option>
+<option value="Eastern">Eastern China</option>
+<option value="Southwest">Southwest China</option>
+<option value="Southern">Southern China</option>
+<option value="HKMATW">Hongkong</option>
+<option value="HKMATW">Macao</option>
+<option value="HKMATW">Taiwan</option>
+<option value="Others">Others</option>
+</select>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td><img src="/saiweng/sectorlocator.gif"></td></tr>
+<tr><td>
+<table cellpadding="0" cellspacing="7" border="0"><tbody><tr><td>
+<select name="SectorList" class="SELECT" style="font-family:arial; font-size: 9pt" onchange="pageLoader('vertical')">
+<option value="">- select options -</option>
+<option value="Insurance">Insurance</option>
+<option value="Education">Education</option>
+<!--<Option Value="Law">Policy & Law</Option>-->
+<option value="Power">Power</option>
+<option value="Imaging">Photography</option>
+<option value="Oil">Oil &amp; Gas</option>
+<option value="Personal">Personal Care</option>
+<option value="Personal">Household Care</option>
+<!--<Option Value="Tobacco">Tobacco</Option>-->
+<option value="Pharmaceutical">Pharmaceutical</option>
+<option value="Auto">Automotive</option>
+<option value="Aviation">Aviation</option>
+<option value="Telecom">Telecom</option>
+<option value="Computers">Computer</option>
+<option value="Internet">Internet</option>
+<option value="Agriculture">Agriculture</option>
+</select>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td><img src="/saiweng/sectorspot.gif"><br><br></td></tr>
+<tr><td align="center"><a href="/sinoapp/ammsite.nsf/SubFrame6?openframeset" target="_top"><img src="/saiweng/ad/pulse125.gif" border="0"></a><br><br></td></tr>
+<tr><td>
+
+<form action="http://worldlingo.com/wlservlets/Translate" method="POST" name="" target="_blank">
+<script language="JavaScript">
+var originalPage = "@#ORIGINALPAGE#";
+if (originalPage.indexOf('ORIGINALPAGE')>0) originalPage = window.top.location;
+document.write('<INPUT type="hidden" name="urltext" value="');
+document.write(originalPage);
+document.write('">');
+</script><input type="hidden" name="urltext" value="https://web.archive.org/web/20020402234843id_/http%3A//www.chinafile.com/saiweng/swpage.nsf/%28Pages%29/Privacy%3Fopendocument">
+<table width="80" border="0" cellspacing="0" cellpadding="4" style="background-color:#FFFFFF;border-style:solid;border-width:1;border-color:#000000;" align="center">
+<tbody><tr align="center"> 
+<td height="20"><a href="http://www.worldlingo.com"><img src="/saiweng/general/wl_logo_2_r1_c1.gif" width="27" height="59" alt="Free translations" border="0"></a><a href="http://www.worldlingo.com"><img src="/saiweng/general/wl_logo_2_r1_c2.gif" width="29" height="59" alt="Free web translations" border="0"></a><a href="http://www.worldlingo.com"><img src="/saiweng/general/wl_logo_2_r1_c3.gif" width="23" height="59" alt="WORLDLINGO.COM" border="0"></a></td>
+</tr>
+<tr align="center">
+<td height="20"><a style="href=" http:="" www.worldlingo.com"=""><font face="Arial, Helvetica, sans-serif" size="1">Translate Page</font></a></td>
+</tr>
+<tr align="center"> 
+<td> 
+              <select name="wl_lp" style="font-family:arial; font-size: 9pt">
+                <option value="en-sp" selected="">Spanish</option>
+                <option value="en-fr">French</option>
+                <option value="en-ge">German</option>
+                <option value="en-it">Italian</option>
+                <option value="en-po">Portuguese</option>
+                <option value="en-zh">Chinese</option>
+	<option value="en-jp">Japanese</option>
+	<option value="en-ko">Korean</option>
+              </select>
+</td>
+</tr>
+<tr align="center"> 
+<td><input type="image" border="0" name="Translate5" src="/saiweng/general/wl_translate_2.gif" width="69" height="20" alt="Translate"></td>
+</tr>
+</tbody></table>
+</form>
+</td></tr>
+</tbody></table>
+
+	</td>
+	</tr>
+	<tr><td width="125" bgcolor="#D8D5CF" valign="top">&nbsp;</td>
+	<td width="20">&nbsp;</td>
+	<td>
+<br><br>
+<!--- Footer code goes here --->
+<hr width="100%" size="1" color="#cccccc">
+<center>
+<form method="GET" action="http://www.google.com/custom" target="_blank"><span class="text">Want to know more? Try searching the Internet with Google</span><br>
+<table bgcolor="#FFFFFF" cellspacing="0" border="0">
+<tbody><tr valign="top"><td class="text"><a href="http://www.google.com/search"><img src="/saiweng/googlelogo.gif" width="66" height="30" border="0" alt="Google" align="middle" valign="absmiddle" target="_blank"></a></td>
+<td>
+<input type="text" name="q" size="25" maxlength="255" value="">
+<input type="submit" name="sa" value="Search" class="text">
+<input type="hidden" name="cof" value="AH:center;AWFID:0a9687367144fb36;">
+<input type="hidden" name="domains" value="None"><br>
+<input type="hidden" name="sitesearch" value="">
+</td></tr></tbody></table>
+</form><font size="2" color="000080" face="Arial">      </font></center>
+<hr width="100%" size="1" color="#cccccc">
+<center>
+<span style="font-family:Verdana;font-size:8pt;line-height:12pt;">©1998-2001 SinoFile® Information Services Ltd. All rights reserved. SinoFile is an independent media monitoring company covering Mainland China. <br>
+For more information  contact <a href="mailto:marketing@sinofile.net" style="font-family:Verdana;font-size:8pt">marketing@sinofile.net</a>.<br>
+<a href="/saiweng/swsite.nsf/DefaultPage?readform" target="_top" style="font-family:Verdana;font-size:8pt">Home</a> | 
+<a href="/saiweng/swpage.nsf/(Pages)/Copyright?opendocument" target="_top" style="font-family:Verdana;font-size:8pt">Legal &amp; copyright</a> | 
+<a href="/saiweng/swpage.nsf/(Pages)/Privacy?opendocument" target="_top" style="font-family:Verdana;font-size:8pt">Privacy Policy</a> |  
+<a href="/saiweng/Feedback.nsf/SinofileFeedback?OpenForm&amp;SinoFile.net" target="_top" style="font-family:Verdana;font-size:8pt">Feedback</a><br><br></span>
+</center>
+
+	</td>
+	<td width="20">&nbsp;</td>
+	<td width="150" bgcolor="#D8D5CF" valign="top">&nbsp;</td>
+	</tr>
+	</tbody></table>
+</td></tr>
+</tbody></table>
+<!-- JavaScript and DHML components go here -->
+<div id="sinoscan" style="position:absolute; left:120px; top:112px; width:115px; height:21px; z-index:1; visibility: hidden;">
+	<table cellpadding="1" cellspacing="0" border="0" bgcolor="#333333"><tbody><tr><td>
+	<table cellpadding="2" cellspacing="0" border="0" bgcolor="#FFFFFF">
+	<tbody><tr><td><img src="/com/webimage/blank.gif" width="4" height="1"><a href="/sinoapp/ammsite.nsf/SubFrame1?openframeset" class="leftlink" target="_top">media tracking</a><img src="/com/webimage/blank.gif" width="4" height="1"></td></tr>
+	<tr><td><img src="/com/webimage/blank.gif" width="4" height="1"><a href="/sinoapp/ammsite.nsf/SubFrame2?openframeset" class="leftlink" target="_top">sinoscan</a></td></tr>
+	<tr><td><img src="/com/webimage/blank.gif" width="4" height="1"><a href="/sinoapp/ammsite.nsf/SubFrame3?openframeset" class="leftlink" target="_top">executive briefs</a><img src="/com/webimage/blank.gif" width="4" height="1"></td></tr>
+	<tr><td><img src="/com/webimage/blank.gif" width="4" height="1"><a href="/sinoapp/ammsite.nsf/SubFrame6?openframeset" class="leftlink" target="_top">china pulse</a></td></tr>
+	<tr><td><img src="/com/webimage/blank.gif" width="4" height="1"><a href="/sinoapp/ammsite.nsf/SubFrame4?openframeset" class="leftlink" target="_top">media audits</a></td></tr>
+	<tr><td><img src="/com/webimage/blank.gif" width="4" height="1"><a href="/sinoapp/ammsite.nsf/SubFrame5?openframeset" class="leftlink" target="_top">custom media</a><img src="/com/webimage/blank.gif" width="4" height="1"></td></tr>
+	</tbody></table>
+</td></tr></tbody></table>
+</div>
+<div id="services" style="position:absolute; left:120px; top:112px; width:106px; height:21px; z-index:2; visibility: hidden">
+</div>
+<div id="sinopolis" style="position:absolute; left:120px; top:112px; width:130px; height:21px; z-index:3; visibility: hidden;">
+	<table cellpadding="1" cellspacing="0" border="0" bgcolor="#333333"><tbody><tr><td>
+	<table cellpadding="2" cellspacing="0" border="0" bgcolor="#FFFFFF">
+	<tbody><tr><td><img src="/com/webimage/blank.gif" width="4" height="1"><a href="http://www.sinopolis.com/EDU/educate.htm" class="leftlink" target="_blank">education</a></td></tr>
+	<tr><td><img src="/com/webimage/blank.gif" width="4" height="1"><a href="http://www.sinopolis.com/BUS/business.htm" class="leftlink" target="_blank">business</a></td></tr>
+	<tr><td><img src="/com/webimage/blank.gif" width="4" height="1"><a href="http://www.sinopolis.com/TECH/tech.htm" class="leftlink" target="_blank">technology</a></td></tr>
+	<tr><td><img src="/com/webimage/blank.gif" width="4" height="1"><a href="http://www.sinopolis.com/ENV/env.htm" class="leftlink" target="_blank">environment</a></td></tr>
+	<tr><td><img src="/com/webimage/blank.gif" width="4" height="1"><a href="http://www.sinopolis.com/life/life.htm" class="leftlink" target="_blank">life</a>&nbsp;</td></tr>
+	<tr><td><img src="/com/webimage/blank.gif" width="4" height="1"><a href="http://www.sinopolis.com/reform/reform.htm" class="leftlink" target="_blank">china reforms</a><img src="/com/webimage/blank.gif" width="4" height="1"></td></tr>
+	<tr><td><img src="/com/webimage/blank.gif" width="4" height="1"><a href="http://www.sinopolis.com/filex/filex.htm" class="leftlink" target="_blank">file X</a></td></tr>
+	</tbody></table>
+</td></tr></tbody></table>
+</div>
+<div id="unido" style="position:absolute; left:120px; top:112px; width:105px; height:21px; z-index:4; visibility: hidden">
+	<table cellpadding="1" cellspacing="0" border="0" bgcolor="#333333"><tbody><tr><td>
+	<table cellpadding="2" cellspacing="0" border="0" bgcolor="#FFFFFF">
+	<tbody><tr><td><img src="/com/webimage/blank.gif" width="4" height="1"><a href="/saiweng/swpage.nsf/(pages)/unido_services" class="leftlink" target="_top">services</a></td></tr>
+	<tr><td><img src="/com/webimage/blank.gif" width="4" height="1"><a href="/saiweng/swpage.nsf/(pages)/unido_events" class="leftlink" target="_top">events</a></td></tr>
+	<tr><td><img src="/com/webimage/blank.gif" width="4" height="1"><a href="/saiweng/swpage.nsf/(pages)/unido_publications" class="leftlink" target="_top">publications</a><img src="/com/webimage/blank.gif" width="4" height="1"></td></tr>
+	<tr><td><img src="/com/webimage/blank.gif" width="4" height="1"><a href="/saiweng/swpage.nsf/(pages)/unido_database" class="leftlink" target="_top">database</a></td></tr>
+	<tr><td><img src="/com/webimage/blank.gif" width="4" height="1"><a href="/saiweng/swpage.nsf/(pages)/unido_projects" class="leftlink" target="_top"><span class="leftlink">projects</span></a></td></tr>
+	</tbody></table>
+</td></tr></tbody></table>
+</div>
+
+<script language="javascript">
+ document.ns = navigator.appName == "Netscape"
+ if(document.ns) {
+ pageX=window.pageXOffset;
+ pageW=window.innerWidth;
+ pageY=window.pageYOffset;
+ pageH=window.innerHeight;
+ } else {
+ pageX=window.document.body.scrollLeft;
+ pageW=window.document.body.offsetWidth-8;
+ pageY=window.document.body.scrollTop;
+ pageH=window.document.body.offsetHeight;
+ } 
+ if(document.ns)
+ {
+document.sinoscan.left=pageW-225
+document.sinopolis.left=pageW-155
+document.unido.left=pageW-35
+ }
+ else
+ {
+ sinoscan.style.left=pageW-220
+ sinopolis.style.left=pageW-150
+ unido.style.left=pageW-40
+ }
+document.onmousemove = mouseMove
+if(document.ns) document.captureEvents(Event.MOUSEMOVE)
+</script>
+
+
+<input name="HTTP_COOKIE" type="hidden" value="">
+<input name="Title" type="hidden" value="PRIVACY">
+<input name="City" type="hidden" value="<OPTION>Baiyin</OPTION>, <OPTION>Baotou</OPTION>, <OPTION>Changchun</OPTION>, <OPTION>Duyun</OPTION>, <OPTION>Deyang</OPTION>, <OPTION>Fengcheng</OPTION>, <OPTION>Fushun</OPTION>, <OPTION>Harbin</OPTION>, <OPTION>Huangshan</OPTION>, <OPTION>Jingdezhen</OPTION>, <OPTION>Leling</OPTION>, <OPTION>Lianyungang</OPTION>, <OPTION>Mianyang</OPTION>, <OPTION>Qinhuangdao</OPTION>, <OPTION>Shihezi</OPTION>, <OPTION>Shiyan</OPTION>, <OPTION>Shizuishan</OPTION>, <OPTION>Weihai</OPTION>, <OPTION>Wuhan</OPTION>, <OPTION>Xiaoshan</OPTION>, <OPTION>Xishan</OPTION>, <OPTION>Yanan</OPTION>, <OPTION>Yantai</OPTION>, <OPTION>Yingkou</OPTION>, <OPTION>Yuxi</OPTION>">
+
+
+</form></body></html>
