@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcsworks.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603222520id_/http%3A//www.rcsworks.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcsworks.com privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212125656id_/http%3A//rcsworks.com/company/privacy.htm) for the most accurate reproduction.*
 
 # RCS Privacy Policy
 
