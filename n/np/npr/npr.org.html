@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the npr.org privacy policy that was archived on 2003-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030604022234id_/http%3A//www.npr.org/about/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the npr.org privacy policy that was archived on 2003-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031202222948id_/http%3A//www.npr.org/about/privacypolicy.html) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -16,6 +16,7 @@
 
 
 
+<script type="text/javascript" src="/include/javascript/jsfuncs.js"></script>
 </head>
 
 
@@ -52,6 +53,9 @@ function checkPrograms(queryText)
 						if (queryText=="morning edition") {
 								window.location="http://www.npr.org/programs/morning/index.html";
 						}
+						else if (queryText=="day to day" || queryText=="d2d") {
+								window.location="http://www.npr.org/programs/day/index.html";
+						}
 						else if (queryText=="fresh air" || queryText=="terry gross") {
 								window.location="http://freshair.npr.org";
 						}
@@ -74,6 +78,9 @@ function checkPrograms(queryText)
 						else if (queryText=="performance today") {
 								window.location="http://www.npr.org/programs/pt/index.html";
 						}
+						else if (queryText=="creators at carnegie"){
+								window.location="http://www.npr.org/programs/creators/index.html";
+						}
 						else if (queryText=="weekend edition saturday") {
 								window.location="http://www.npr.org/programs/wesat/index.html";
 						}
@@ -90,10 +97,10 @@ function checkPrograms(queryText)
 								window.location="http://www.npr.org/programs/npc/index.html";
 						}
 						else if (queryText=="national story project") {
-					window.location="http://www.npr.org/programs/watc/storyproject/index.html";
+								window.location="http://www.npr.org/programs/watc/storyproject/index.html";
 						}
 						else if (queryText=="news") {
-							window.location="http://news.npr.org/index.html";
+								window.location="http://news.npr.org/index.html";
 						}
 						else {
 								returnVal=true;
@@ -158,6 +165,8 @@ HEADS UP TO ANYONE ADDING OPTIONS/URLS TO THIS DROP-DOWN SELECT LIST:
 
 <option value="http://www.npr.org/programs/morning/index.html">Morning Edition</option>
 
+<option value="http://www.npr.org/programs/day/index.html">Day to Day</option>
+
 <option value="http://www.npr.org/programs/atc/index.html">All Things Considered</option>
 
 <option value="http://www.npr.org/programs/wesat/index.html">Weekend Edition Saturday</option>
@@ -187,6 +196,8 @@ HEADS UP TO ANYONE ADDING OPTIONS/URLS TO THIS DROP-DOWN SELECT LIST:
 <option value="null">--------------------------</option>
 
 <option value="http://www.npr.org/programs/atc/index.html">All Things Considered</option>
+
+<option value="http://www.npr.org/programs/day/index.html">Day to Day</option>
 
 <option value="http://www.npr.org/audiohelp/hourlynews.html">Hourly News</option>
 
@@ -224,8 +235,6 @@ HEADS UP TO ANYONE ADDING OPTIONS/URLS TO THIS DROP-DOWN SELECT LIST:
 
 <option value="http://www.npr.org/programs/tavis/index.html">The Tavis Smiley Show</option>
 
-<option value="http://www.toddshow.org/?">The Todd Mundt Show</option>
-
 <option value="null"></option>
 
 <option value="null">--------------------------</option>
@@ -235,6 +244,8 @@ HEADS UP TO ANYONE ADDING OPTIONS/URLS TO THIS DROP-DOWN SELECT LIST:
 <option value="null">--------------------------</option>
 
 <option value="http://www.npr.org/programs/asc/index.html">All Songs Considered</option>
+
+<option value="http://www.npr.org/programs/creators/index.html">Creators at Carnegie</option>
 
 <option value="http://www.npr.org/programs/inrehearsal/index.html">In Rehearsal</option>
 
@@ -332,7 +343,7 @@ HEADS UP TO ANYONE ADDING OPTIONS/URLS TO THIS DROP-DOWN SELECT LIST:
 
 <option value="null"></option>
 
-<option value="http://www.npr.org/stations/">Find a local station</option>
+<option value="http://www.npr.org/stations/index.php">Find a local station</option>
 
 <option value="null"></option>
 
@@ -385,7 +396,7 @@ HEADS UP TO ANYONE ADDING OPTIONS/URLS TO THIS DROP-DOWN SELECT LIST:
 				<td align="center" valign="bottom" background=""><p class="topnav"><a class="topnav" href="http://www.npr.org/archives/index.html">audio archives</a></p></td>
 				<td align="center" valign="bottom" background=""><p class="topnav"><a class="topnav" href="http://www.npr.org/transcripts/index.html">transcripts</a></p></td>
 				<td align="center" valign="bottom" background=""><p class="topnav"><a class="topnav" href="http://www.npr.org/yourturn/index.html">discussions</a></p></td>
-				<td align="center" valign="bottom" background=""><p class="topnav"><a class="topnav" href="http://www.npr.org/stations/index.html">find a station</a></p></td>
+				<td align="center" valign="bottom" background=""><p class="topnav"><a class="topnav" href="http://www.npr.org/stations/index.php">find a station</a></p></td>
 				<td align="center" valign="bottom" background=""><p class="topnav"><a class="topnav" href="http://www.npr.org/nprshop_top_nav.html" target="_blank">shop</a></p></td>
 				<td align="center" valign="bottom" background=""><p class="topnav"><a class="topnav" href="http://www.npr.org/about/index.html?loc=topnav">about npr</a></p></td>
 				<td align="center" valign="bottom" background=""><p class="topnav"><a class="topnav" href="http://www.npr.org/contact/index.html">contact npr</a></p></td>
@@ -410,6 +421,7 @@ HEADS UP TO ANYONE ADDING OPTIONS/URLS TO THIS DROP-DOWN SELECT LIST:
 		{
 			pagetype = "index.html";
 		}
+
 </script>
 
 <!-- BEGIN IBM SURFAID CODE -->
@@ -511,20 +523,25 @@ HEADS UP TO ANYONE ADDING OPTIONS/URLS TO THIS DROP-DOWN SELECT LIST:
 				<tr valign="top">
 					<td bgcolor="#ffffff">
 					<div class="leftcontentbucket">
-						<a class="leftcontentlink" href="http://www.npr.org/audiohelp/hourlynews.html">NPR Hourly News</a><br>
-						<a class="leftcontentlinklight" href="http://www.npr.org/realmedia/news2a.ram?loc=left" onclick="sa_onclick(this.href);">RealAudio</a><br>
-						<a class="leftcontentlinklight" href="http://www.npr.org/windowsmedia/newscast.asx" onclick="sa_onclick(this.href);">Windows Media</a>
-						<br>
-						<br>
-						<a class="leftcontentlink" href="http://www.npr.org/audiohelp/progstream.html">NPR Program Stream</a><br>
-						<a class="leftcontentlinklight" href="http://www.npr.org/realmedia/24hour.ram" onclick="sa_onclick(this.href);">RealAudio</a><br>
-						<a class="leftcontentlinklight" href="http://www.npr.org/windowsmedia/programstream.asx" onclick="sa_onclick(this.href);">Windows Media</a>
-						<br>
-						<br>
-						<a class="leftcontentlink" href="http://www.npr.org/atc3.smil" onclick="sa_onclick(this.href);">All Things Considered</a><br><br>
-						<a class="leftcontentlink" href="http://www.npr.org/me3.smil" onclick="sa_onclick(this.href);">Morning Edition</a><br><br>
-						<a class="leftcontentlink" href="http://www.npr.org/totn3.smil" onclick="sa_onclick(this.href);">Talk of the Nation</a><br>
-					</div>
+						<table cellpadding="3" cellspacing="0">
+							<tbody><tr valign="middle">
+								<td>
+									<a href="javascript:getNewsCast()"><img src="http://www.npr.org/images/icon_audio_tiny.gif" alt="Listen" width="13" height="13" border="0" hspace="0" vspace="0"></a></td><td><a class="leftcontentlink" href="javascript:getNewsCast()">NPR Hourly News</a></td></tr>
+							<tr valign="middle">
+								<td>
+									<a href="javascript:getProgramStream()"><img src="http://www.npr.org/images/icon_audio_tiny.gif" alt="Listen" width="13" height="13" border="0" hspace="0" vspace="0"></a></td><td><a class="leftcontentlink" href="javascript:getProgramStream()">NPR Program Stream</a></td></tr>
+							<tr valign="top"><td>&nbsp;</td><td><a class="rightcontentlinklight" href="http://www.npr.org/audiohelp/progstream.html">Schedule</a></td></tr>
+						</tbody></table>
+<!--
+						<a CLASS="leftcontentlink" href="javascript:getLatestShow('ATC');">All Things Considered</a><BR><BR>
+						<a CLASS="leftcontentlink" href="javascript:getLatestShow('ME');">Morning Edition</A><BR><BR>
+						<a CLASS="leftcontentlink" href="javascript:getLatestShow('TOTN');">Talk of the Nation</A><BR><BR>
+						<a CLASS="leftcontentlink" href="javascript:getLatestShow('TAVIS');">The Tavis Smiley Show</a><BR><BR>
+						<a CLASS="leftcontentlink" href="javascript:getLatestShow('FA');">Fresh Air</A><BR><BR>
+						<a CLASS="leftcontentlink" href="javascript:getLatestShow('WESAT');">Weekend Edition Saturday</A><BR><BR>
+						<a CLASS="leftcontentlink" href="javascript:getLatestShow('WESUN');">Weekend Edition Sunday</A><BR><BR>
+						<a CLASS="leftcontentlink" href="javascript:getLatestShow('FOOL');">Motley Fool Radio Show</A><BR>
+-->					</div>
 				</td>
 			</tr>
 
@@ -539,8 +556,34 @@ HEADS UP TO ANYONE ADDING OPTIONS/URLS TO THIS DROP-DOWN SELECT LIST:
 	</tr>
 </tbody></table>
 <br>
+<table border="0" cellpadding="0" cellspacing="0" width="130" align="center">
+	<tbody><tr>
+		<td bgcolor="#333333">
+			<table border="0" cellpadding="4" cellspacing="1" width="130">
+				<tbody><tr valign="top">
+					<td bgcolor="#999999" valign="top"><div class="leftbartitle">NPR Programming</div></td>
+				</tr>
 
-
+				<tr valign="top">
+					<td bgcolor="#ffffff">
+					<div class="leftcontentbucket">
+						<a class="leftcontentlink" href="http://www.npr.org/programs/morning/index.html">Morning Edition</a><br><br>
+						<a class="leftcontentlink" href="http://www.npr.org/programs/atc/index.html">All Things Considered</a><br><br>
+						<a class="leftcontentlink" href="http://www.npr.org/programs/day/index.html">Day to Day</a><br><br>
+						<a class="leftcontentlink" href="http://www.npr.org/programs/totn/index.html">Talk of the Nation</a><br><br>
+						<a class="leftcontentlink" href="http://freshair.npr.org/">Fresh Air</a><br><br>
+						<a class="leftcontentlink" href="http://www.npr.org/programs/tavis/index.html">The Tavis Smiley Show</a><br><br>
+						<a class="leftcontentlink" href="http://www.npr.org/programs/wesat/index.html">Weekend Edition Saturday</a><br><br>
+						<a class="leftcontentlink" href="http://www.npr.org/programs/wesun/index.html">Weekend Edition Sunday</a><br><br>
+						<a class="leftcontentlink" href="http://www.npr.org/programs/fool/index.html">Motley Fool Radio Show</a><br>
+					</div>
+				</td>
+			</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+<br>
 
 
 
@@ -616,66 +659,69 @@ HEADS UP TO ANYONE ADDING OPTIONS/URLS TO THIS DROP-DOWN SELECT LIST:
 
 					<!----begin paste page content---->
  <p class="pagetitle">Privacy Policy<br>
-<span style="font-size:11px;color:#FF0000">Updated February 11, 2003</span></p>
+<span style="font-size:11px;color:#FF0000">Updated June 20, 2003</span></p>
    <p class="text">
 
-At NPR Online, we recognize the importance of privacy to visitors of our Web site. This privacy policy explains what type of information is collected from you when you visit our Web site.
-<br><br>
-NPR collects personally-identifying information from the NPR Web site only if you choose to provide that information to us.
+
+At NPR Online, we recognize the importance of privacy to visitors of our Web site. This privacy policy explains what type of information is collected from you when you visit our Web site and how that information may be used.
 <br><br>
 <b>Gathering of Information</b>
+<br>
+NPR collects personally-identifying information (such as your name, e-mail address, address, telephone number and/or credit card information) from the NPR Web site only if you choose to provide that information to us.
+<br><br>
+NPR asks visitors to provide certain personal information when they register for the NPR Discussions, when they request a transcript and/or audio tape/CD of NPR programs, when they e-mail a page of the NPR Web site to another person, when they make a purchase from the NPR Online Shop, and when they register for contests. NPR also may ask visitors to provide personal information in other limited circumstances specified at the time the information is gathered. Any information that you post when participating in the Discussions becomes public.
 <br><br>
 Like all other Web servers, NPR's Web server automatically creates log files for each visitor who accesses our site. These "access logs" allow us to make our site more useful to our visitors. The access logs do NOT record a visitor's name, address, phone number, credit card numbers, or any other personally-identifying information. Rather, they contain some or all of the following information:
-<br><br>
-• The Internet Protocol Address (IP Address) of the machine which accessed our Web site.
-<br>
-• The date of the visit.
-<br>
-• The time of the visit.
-<br>
-• The path taken through our Web site.
-<br>
-• The browser being used.
-<br>
-• A list of files downloaded or viewed.
-<br>
-• The amount of time spent listening to RealAudio®, Windows Media, or Apple Quicktime files.
-<br>
-• Any errors encountered.
-<br><br>
-NPR asks visitors to provide certain personal information when they register for a contest or the NPR Discussions, when they request a transcript and/or audio tape of NPR programs, and when they make a purchase from the NPR Online Shop. NPR also may ask visitors to provide personal information in other limited circumstances specified at the time the information is gathered.  Any information that you post when participating in the Discussions becomes public. Moreover, by participating in the Discussions, your e-mail address becomes available to any third parties accessing our Web site and as a result, you may receive unsolicited e-mail from such third parties.
-<br><br>
+</p>
+<ul>
+<li>The Internet Protocol Address (IP Address) of the machine which accessed our Web site.</li>
+<li>The date of the visit.</li>
+<li>The time of the visit.</li>
+<li>The path taken through our Web site.</li>
+<li>The browser being used.</li>
+<li>A list of files downloaded or viewed.</li>
+<li>The amount of time spent listening to RealAudio or Windows Media files.</li>
+<li>Any errors encountered.</li>
+</ul>
+<p class="text">
 <b>Cookies</b>
+<br>
+NPR also uses 'cookies' to collect information. A cookie is a string of characters that can be written to a file on the user's hard drive when the user visits a Web site. Only the Web site that set the cookie can read it, and it can only be used as a record keeping device to store information that the site already has. It cannot, for example, be used to read other information from the user's hard drive.
 <br><br>
-NPR also uses co-called 'cookies' to collect information.  A cookie is a string of characters that can be written to a file on the user's hard drive when the user visits a Web site.  Only the Web site that set the cookie can read it, and it can only be used as a record keeping device to store information that the site already has.  It cannot, for example, be used to read other information from the user's hard drive.
-<br><br>
-NPR uses cookies to track users' activity through the site in order to improve the site's architecture and to offer the user interactive features that would not be possible without them, and to recall specific
-information to save the user time during subsequent visits to the site. For example, cookies 
-allow NPR to remember your media player preference. Local station customization, the Discussions, the NPR Online Shop, and other  interactive features also use cookies. If you wish to prevent cookies 
-from being set to your hard drive you may disable them in your 
-browser's preferences.
-
-
+NPR uses cookies to track users' activity through the site in order to improve the site's architecture, to offer the user interactive features that would not be possible without them, and to recall specific information to save the user time during subsequent visits to the site. For example, cookies allow NPR to remember your media player preference. Local station customization, the Discussions, the NPR Online Shop, and other interactive features also use cookies. If you wish to prevent cookies from being set to your hard drive you may disable them in your browser's preferences, although you will no longer be able to access these interactive features.
 <br><br>
 <b>Use of Information</b>
+<br>
+The use of personally-identifying information is limited to the following: responding to user e-mails; fulfillment of transcript and/or audio tape/CD orders; fulfillment of NPR Online Shop orders; contest management; editorial purposes such as contacting users for an online survey; sending communications, including marketing and promotional communications, from NPR or NPR member stations to users who have “opted in” to the receipt of such communications; other internal NPR or NPR member station purposes; and other purposes specified at the time the information is gathered.
 <br><br>
-The information collected by NPR is used for internal NPR or NPR member station purposes.  The use of personal information is limited to the following: contest management, editorial and feedback purposes, fulfillment of transcript and/or audio tape orders, fulfillment of NPR Online Shop orders, NPR's marketing and promotional purposes, or other internal NPR or NPR member station purposes. By providing this information, a visitor may receive an e-mail from NPR or NPR member stations in limited circumstances.
+Any information that you disclose when participating in the Discussions becomes public.  Moreover, by participating in the Discussions, your e-mail address becomes available to any third parties accessing our Web site and as a result, you may receive unsolicited e-mail from such third parties.
 <br><br>
-Information collected by NPR is not distributed to other outside parties, except when a visitor orders a transcript or audio tape through the NPR Web site, makes a purchase at the NPR Online Shop, or otherwise consents to the distribution of such information to an outside party. In that case, relevant information is provided to NPR's outside fulfillment service for the sole purpose of delivering the requested transcript and/or audio tape, or goods purchased from the NPR Online Shop, or is provided to a third party pursuant to a visitor's specific consent.
+Personally-identifying information collected by NPR is not provided to outside parties except NPR member stations, NPR service vendors (such as NPR’s transcript and audio tape/CD fulfillment service, the NPR Online Shop fulfillment service, and NPR’s list manager), and other third parties when the user specifically consents to such distribution.  In these circumstances, the information is provided for the sole purpose of – and only to the extent necessary for -- delivering the requested transcript, audio tape/CD, or goods to the user, delivering communications from NPR or NPR member stations to users who have “opted in” to the receipt of these communications, or serving other internal NPR or NPR member station purposes.
 <br><br>
-Credit card information provided to the NPR Online Shop is protected against unauthorized use by Secure Sockets Layer (SSL) software, which encrypts the information before it is sent.
+NPR also may disclose personal information if required to do so by law or if it believes that such action is necessary to (a) comply with the law or with legal process, (b) protect against misuse or unauthorized use of the NPR Web site, or (c) protect the personal safety or property of NPR Web site users, the public or NPR and its employees.
+<br><br>
+If you do not want your personally-identifying information to be collected or used for any of these purposes, you can simply “opt out” according to the process described below.
+<br><br>
+NPR uses non-identifying aggregate information to analyze use of and better design the NPR Web site and to share with third parties in aggregate form only as appropriate.  For example, we may tell a third party that a certain number of users accessed a particular audio stream on our Web site.  However, we will not disclose any information that could be used to identify those users.
+<br><br>
+<b>Security</b>
+<br>
+NPR has in place what we believe to be appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.  Credit card information provided to the NPR Online Shop is protected against unauthorized use by 128-bit encryption and Secure Sockets Layer (SSL) security features, which scramble your personal information so that only your web browser and our Web site's server can decipher it.
 <br><br>
 <b>Children</b>
+<br>
+Under 13: You must be at least 13 years old in order to register for the Discussions, order NPR tapes/CDs and transcripts, or place an order on the NPR Online Shop. If you are under 13 years of age, please do not send any information about yourself, including your name, address or e-mail address. If we discover that we have collected any personally-identifying information from a child under the age of 13, we will remove that information from our database as soon as possible.
 <br><br>
-<b>Under 13:</b> You must be at least 13 years old in order to register for the Discussions, order NPR tapes and transcripts, or place an order on the NPR Online Shop. If you are under 13 years of age, please do not send any information about yourself, including your name, address or e-mail address. If we discover that we have collected any personally-identifying information from a child under the age of 13, we will remove that information from our database as soon as possible.
+13 -18: Unless otherwise specified, you must be a least 18 years old in order to participate in any online contests. Visitors between the ages of 13 and 18 must obtain permission from their parents or guardians before registering for the Discussions, ordering NPR tapes/CDs or transcripts, placing an order on the NPR Online Shop, or otherwise sending any personally-identifying information.
 <br><br>
-<b>13 -18:</b> Unless otherwise specified, you must be a least 18 years old in order to participate in any online contests.  Visitors between the ages of 13 and 18 must obtain permission from their parents or guardians before registering for the Discussions, ordering NPR tapes or transcripts, placing an order on the NPR Online Shop, or otherwise sending any personally-identifying information.
+<b>Corrections to Personal Data; Opting Out</b>
+<br>
+Please write to <a href="mailto:nprhelp@npr.org">nprhelp@npr.org</a> to a) correct or update any personal information in the NPR database that you state is erroneous, b) opt-out of future communications from NPR or c) request NPR to make reasonable efforts to remove your personal information from the NPR Online database, thereby canceling your Discussions registration.
+The user understands that it may be impossible to delete personal information entirely because of backups and records of deletions.
 <br><br>
-<b>Corrections to Personal Data; Opting Out </b>
-<br><br>
-Please write to nprhelp@npr.org to a)correct or update any personal information in the NPR Online database that you state is erroneous, b)opt-out of future promotional communications from NPR Online or c)request NPR to make reasonable efforts to remove your personal information from the NPR Online database, thereby canceling your Discussions registration. The user understands that it may be impossible to delete personal information entirely because of backups and records of deletions.
-<br><br>
-NPR reserves the right to change this policy. Any changes to this policy will be posted to this page as soon as reasonably possible, so please check this page periodically. Use of the NPR Web site constitutes consent to any policy then in effect.
+<b>Acceptance of Privacy Policy Terms</b>
+<br>
+NPR reserves the right to change this policy. Any changes to this policy will be posted to this page as soon as reasonably possible, so please check this page periodically. Use of the NPR Web site constitutes consent to any policy then in effect.   Please make sure that you read NPR’s Terms of Use to understand additional terms and conditions which apply to the use of our Web site.
 <br><br>
 If you have any questions or comments concerning our privacy policy, please contact us via e-mail at <a href="mailto:nprhelp@npr.org">nprhelp@npr.org</a> or by mail at:
 <br><br>
@@ -685,11 +731,7 @@ Washington, DC 20001-3753
 <br><br>
 <b>Links to other Sites</b>
 <br><br>
-It is important to note that npr.org contains links to other sites that may
-not follow the same privacy policies as npr.org. For instance, clicking on a
-sponsorship notice on npr.org will take you to an entirely different site.
-These sites may use cookies, collect data, and use the data in ways that
-npr.org would not.  NPR is not responsible for the privacy practices or any information or materials on these other sites.
+It is important to note that the NPR Web site contains links to other sites that may not follow the same privacy policies as the NPR Web site. For instance, clicking on a sponsorship notice on npr.org will take you to an entirely different site. These sites may use cookies, collect data, and use the data in ways that npr.org would not. NPR is not responsible for the privacy practices or any information or materials on these other sites.  Please visit these sites if you wish to review their privacy policies.
 <br><br>
 </p>
 
