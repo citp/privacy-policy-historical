@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 0catch.com privacy policy that was archived on 2001-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010610193118id_/http%3A//info.0catch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 0catch.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204191551id_/http%3A//info.0catch.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
