@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the web2mail.com privacy policy that was archived on 2002-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020606233521id_/http%3A//web2mail.com/privacy.php%3Fuser_id%3D%26username%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web2mail.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215174522id_/http%3A//www.web2mail.com/privacy.php%3Fuser_id%3D%26username%3D) for the most accurate reproduction.*
 
 # Web2Mail.com - Privacy policy
 
   
 
 
-[Advertise](https://web.archive.org/web/20020606233521id_/http%3A//web2mail.com/advertise.php?) your  
+[Advertise](https://web.archive.org/web/20021215174522id_/http%3A//www.web2mail.com/advertise.php?) your  
 business here  
 with Web2Mail  
 
@@ -13,7 +13,7 @@ with Web2Mail
 |    |  [](http://www.sitestats.com/) |    |    
 
 
-[Advertise](https://web.archive.org/web/20020606233521id_/http%3A//web2mail.com/advertise.php?) your  
+[Advertise](https://web.archive.org/web/20021215174522id_/http%3A//www.web2mail.com/advertise.php?) your  
 business here  
 with Web2Mail  
 
@@ -53,4 +53,4 @@ If you have any questions or comments about our privacy policy or the data which
 
 * * *
 
-© 2002 Web2Mail Ltd. All rights reserved. Use of this site is subject to the [site terms](https://web.archive.org/web/20020606233521id_/http%3A//web2mail.com/terms.php?user_id=&username=) and [privacy policy](https://web.archive.org/web/20020606233521id_/http%3A//web2mail.com/privacy.php?user_id=&username=).
+© 2002 Web2Mail Ltd. All rights reserved. Use of this site is subject to the [site terms](https://web.archive.org/web/20021215174522id_/http%3A//www.web2mail.com/terms.php?user_id=&username=) and [privacy policy](https://web.archive.org/web/20021215174522id_/http%3A//www.web2mail.com/privacy.php?user_id=&username=).
