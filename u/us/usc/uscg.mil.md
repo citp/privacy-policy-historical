@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uscg.mil privacy policy that was archived on 2004-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040614144714id_/http%3A//www.uscg.mil/disclaim.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscg.mil privacy policy that was archived on 2004-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041226024005id_/http%3A//www.uscg.mil/disclaim.html) for the most accurate reproduction.*
 
 # U.S. Coast Guard Disclaimer
 
