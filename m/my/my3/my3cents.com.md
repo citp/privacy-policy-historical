@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the my3cents.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603023407id_/http%3A//my3cents.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my3cents.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204023001id_/http%3A//my3cents.com/privacy.cgi) for the most accurate reproduction.*
 
 # My3cents.com - Let your voice be heard! Consumer Reviews, Complaints and more...
 
@@ -42,7 +42,10 @@ Users who are interested in learning more about employment opportunities at My3c
 This site contains links to Web sites operated by third parties. My3cents.com is not responsible for the privacy practices or content of such sites. 
 
 **Security**  
-My3cents.com has security measures in place to protect the loss, misuse and alteration of the information under our control. 
+My3cents.com has security measures in place to protect the loss, misuse and alteration of the information under our control. However, perfect security does not exist on the Internet. Also, in theory third parties can intercept Internet transmissions containing your personal data, and we don't control the privacy/security of transmissions to and from the site while in transit. 
+
+**Limits on Our Abilities**  
+Our site is very complicated, so we might inadvertently use or disclose your data in ways inconsistent with this statement. For example, a temporary software glitch could lead to public display of your personal data despite your preferences otherwise. We might also make ad hoc uses of your data in ways not mentioned here. In these anomalous situations, your sole remedy is that we will try to rectify the anomaly as soon as we can. 
 
 **Updating Your Information**  
 If you need to update information about your account or any opinions/letters you have posted on our website, please contact us via email using at [admin@my3cents.com](mailto:admin@my3cents.com)!
