@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bombingscience.com privacy policy that was archived on 2001-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010611213700id_/http%3A//www.bombingscience.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bombingscience.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214150540id_/http%3A//bombingscience.com/privacy.htm) for the most accurate reproduction.*
 
 # Updates
 
