@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the fileheap.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204200329id_/http%3A//www.fileheap.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileheap.com privacy policy that was archived on 2002-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020809200329id_/http%3A//www.fileheap.com/Company/Privacy.html) for the most accurate reproduction.*
 
-# FileHeap! Privacy policy
+# FileHeap! - Legal Info
+
+|  | 
 
 Privacy policy
 
@@ -74,9 +76,6 @@ FileHeap! gathers user information in the following processes:
 > **Third-Party Ad Servers**
 > 
 > Sometimes we use third-party advertising companies to serve ads on our sites. These third-party advertising companies employ cookie technology to measure ad effectiveness. To do so, these companies may use information about your visits to our sites and other Web sites. Unless you are otherwise notified, these advertising companies do not use names, addresses, email addresses, or telephone numbers, and they do not link any online actions or cookies to an identifiable person. Use of their cookies is subject to their own privacy policies. If you would like more information about the privacy policies of the third-party advertisers on FileHeap!'s sites, including information on how to opt out of their cookies, check their sites:
-> 
-> [ValueClick](http://valueclick.com/privacy.html)  
->  [Be Free](http://www.befree.com/privacy.htm)
 
 **Use of the Information**
 
@@ -97,5 +96,3 @@ Users may unsubscribe to any of our electronic newsletters at any time by follow
 Currently, FileHeap! does not offer users a means by which to completely delete personal information established at the time of registration for FileHeap!.
 
 |  | 
-
-[](http://service.bfast.com/bfast/click?bfmid=32410730&siteid=38226985&bfpage=home3)
