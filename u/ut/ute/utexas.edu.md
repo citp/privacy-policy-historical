@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utexas.edu privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203032449id_/http%3A//www.utexas.edu/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utexas.edu privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402065743id_/http%3A//www.utexas.edu/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -66,9 +66,9 @@ Consistent with FERPA, we do not release personal student information, other tha
 
 ### Public Forums 
 
-The University of Texas at Austin makes chat rooms, forums, message boards, and news groups available to its users. The University does not ordinarily log public chat sessions, however, any information that is disclosed in these areas becomes public information and you should therefore exercise caution when deciding to disclose your confidential information in such places.
+The University of Texas at Austin makes som public chat rooms, forums, message boards, and news groups available to its users. The University does not ordinarily log public chat sessions, however, any information that is disclosed in these areas becomes public information and you should therefore exercise caution when deciding to disclose your confidential information in such places.
 
-Academic chat sessions and discussion forums may be logged. However, these educational records are protected from disclosure by FERPA.
+Academic chat sessions and discussion forums, such as those in Blackboard, may be logged. However, these educational records are protected from disclosure by FERPA.
 
 ### Online Surveys 
 
