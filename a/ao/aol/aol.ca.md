@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aol.ca privacy policy that was archived on 2000-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001026042337id_/http%3A//redirect.aol.ca/cgi/redir-complex%3Fsid%3DAOL.ca_Legal_PrivacyPolicy%26url%3Dhttp%3A//www.aol.ca/privacy.adp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aol.ca privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604022841id_/http%3A//www.aol.ca/privacy.adp) for the most accurate reproduction.*
 
 # AOL.CA | Privacy Policy
 
@@ -20,3 +20,6 @@ AOL takes special care to protect the safety and privacy of young people using o
 
 **AOL.CA Privacy Policy Changes**   
 If we decide to change our privacy policy for AOL.CA, we will post those changes here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone.
+
+**Director of Privacy**  
+Please direct all inquiries about our privacy policy for AOL.CA in writing to our designated Director of Privacy, AOL Canada Inc., 55 St. Clair Avenue East, Suite 700, Toronto, Ontario M4V 2Y7 or by fax to (416) 960 6560 or via e-mail: AOLCanadaPrivacy@aol.com. 
