@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kmart.com.au privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207052407id_/http%3A//kmart.com.au/about_kmart/privacy/default.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kmart.com.au privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611161407id_/http%3A//kmart.com.au/about_kmart/privacy/default.htm) for the most accurate reproduction.*
 
 # Kmart Privacy Statement
 
