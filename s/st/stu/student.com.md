@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the student.com privacy policy that was archived on 2000-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000409151948id_/http%3A//www.student.com/feature/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the student.com privacy policy that was archived on 2000-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001201191000id_/http%3A//www.student.com/feature/privacypolicy) for the most accurate reproduction.*
 
 # Student.Com: Members: Student.Com Privacy Policy
+
+**Student.Com Privacy Policy**  
+
+
+Except in the limited circumstances stated below, Student.Com will never intentionally disclose individually identifying information about its members to any third party without that member's permission.
 
 **Where do we gather information from you and what do we do with it?**
 
