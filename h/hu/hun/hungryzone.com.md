@@ -1,0 +1,31 @@
+> *The following text is extracted and transformed from the hungryzone.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205004035id_/http%3A//hungrytime.com/demo_restaurant/catalog/privacy.php) for the most accurate reproduction.*
+
+# HungryTime.com - Order Food For Takeout or Delivery From Your Favorite
+
+**HungryTime.com Privacy Policy**
+
+HungryTime.com is committed to protecting your privacy and to developing technology that ensures you the most rewarding online experience. While you can access most areas of HungryTime.com without providing any personally identifiable information, you are required to provide personally identifiable information to gain access into some areas. This Privacy Policy explains how HungryTime.com collects and uses data. We will notify our members when we make any significant changes to our Privacy Policy that affect the use of any personally identifiable information we collect. HungryTime.com reserves the right to make non-significant changes to our Privacy Policy that will not affect HungryTime.com' use of a member's personally identifiable information without any notification to our members other than posting any such changes in a revised Privacy Policy on HungryTime.com. We encourage you to occasionally review our Privacy Policy to be sure you are familiar with the most current version. The Privacy Policy will include the most recent date that any revisions were made. 
+
+**Collecting Your Personal Information**   
+HungryTime.com will ask you when personally identifiable information is required. Personally identifiable information collected by HungryTime.com includes, but is not limited to, your name, e-mail address, contact information and professional information. HungryTime.com also may require that you create a password to ensure your information cannot be accessed by others. HungryTime.com recommends that you do not share your password with anyone. Please be advised that HungryTime.com periodically archives information for backup purposes. You must be over the age of 13 to use any service that is provided by HungryTime.com. 
+
+**Children's Privacy**  
+Because we care about the safety and privacy of children online, we comply with the Children's Online Privacy Protection Act of 1998 (COPPA). COPPA and its accompanying FTC regulation establish United States federal law that protects the privacy of children using the Internet. We do not knowingly contact or collect personal information from children under 13. Our site is not intended to solicit information of any kind from children under 13. If you are under the age of 13, please ask your parents to help you in using those parts of this Web site, and ask your parents for permission before you send any information about yourself (name, address, etc.) to anyone over the Internet and before making any online purchases. 
+
+It is possible that by fraud or deception we may receive information pertaining to children under 13. If we are notified of this, as soon as we verify the information, we will immediately delete the information from our servers. If you would like to notify us of our receipt of information by children under 13, please do so by emailing us at [support@Hungrytime.com](mailto:support@Hungrytime.com).
+
+**Use of Your Personal Information**  
+HungryTime.com primarily uses your personally identifiable information for the following reasons: To help us create and deliver content that suits your need. To create aggregated portraits of the HungryTime.com audience. These portraits present anonymous statistical demographic information but no personally identifiable information. This aggregated information is used, among other things, to supply market research to help potential advertisers, sponsors, etc. understand the composition of the HungryTime.com audience. To alert you of promotions, special offers, updated information, and other new services from HungryTime.com. The personally identifiable information you provide to HungryTime.com will not be given to third parties without your consent except as stated in the section of this Privacy Policy entitled "Information Sharing Policy". 
+
+**Security of Your Personal Information**  
+HungryTime.com ensures that your personally identifiable information is never shared outside of the company without your permission, except as explained in the section of this Privacy Policy entitled "Information Sharing Policy". Once your information is entered it is stored on password-controlled servers with limited access. 
+
+**Information Sharing Policy**  
+HungryTime.com does not sell or share personally identifiable information with third parties without your consent except in the following circumstances: (i) unless required to do so by applicable law or pursuant to a court or similar order; (ii) as deemed necessary, in HungryTime.com' discretion, to protect and defend the rights and/or property of HungryTime.com and its family of web sites; (iii) in the event that HungryTime.com is required to transfer personally identifiable information to a third party as a result of a sale, merger, assignment, joint venture or other transfer or disposition of entities (including, but not limited to, in connection with any bankruptcy or similar proceedings). Additionally, HungryTime.com reserves the right to allow access to its systems to third parties providing technical services when such access is required in order to provide those services. 
+
+**"Tell a friend" Feature**   
+HungryTime.com offers the ability to "Tell a friend" that they can order online with restaurants using HungryTime.com. When using the this feature you will be asked to provide your name and e-mail address as well as the names and e-mail addresses of those you wish to notify. HungryTime.com does not use the recipient's name or e-mail address for any reason other then to send them your invitation unless such recipient gives us permission to.
+
+**Links to Sponsor and Advertiser Sites**  
+HungryTime.com contains links to sponsor and advertiser websites. We cannot be responsible for the privacy practices or the content of such non-HungryTime.com websites, and we do not control the practices of any of our sponsors or advertisers to whom we are linked.  
+
