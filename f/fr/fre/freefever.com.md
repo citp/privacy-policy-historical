@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the freefever.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208082326id_/http%3A//www.freefever.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freefever.com privacy policy that was archived on 2003-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030627011146id_/http%3A//freefever.com/privacy.html) for the most accurate reproduction.*
 
 # FreeFever / Our Privacy Policy
+
+  
+| 
 
 **Our Privacy Policy**
 
@@ -12,3 +15,6 @@ We use MaxWorldwide and other third-party advertising companies to serve ads whe
 
 **Third Party Cookies**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
+
+|    
+
