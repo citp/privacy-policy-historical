@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hagerty.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202152228id_/http%3A//www.hagerty.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hagerty.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612040530id_/http%3A//www.hagerty.com/privacy.asp) for the most accurate reproduction.*
 
 # || HAGERTY INSURANCE ||
 
