@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the limpbizkit.org privacy policy that was archived on 2000-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000815074543id_/http%3A//www.mophus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limpbizkit.org privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604014901id_/http%3A//www.mophus.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement of The JoeDavison.com Network
 
