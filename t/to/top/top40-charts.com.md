@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the top40-charts.com privacy policy that was archived on 2001-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011203200934id_/http%3A//top40-charts.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top40-charts.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602082906id_/http%3A//top40-charts.com/about/privacy.php) for the most accurate reproduction.*
 
-# Top40-Charts.com - 29 Top 20 & Top 40 Charts from 22 Countries
+# Top40-Charts.com About - 35 Top 20 & Top 40 Music Charts from 24 Countries
 
 TOP40-CHARTS.COM PRIVACY STATEMENT 
 
@@ -62,7 +62,7 @@ This website takes every precaution to protect our users’ information. When us
 
 While we try to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers’ information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage. 
 
-If you have any questions about the security at our website, you can send an email to security@thiswebsite.com. 
+If you have any questions about the security at our website, you can send an email to markg@top40-charts.com. 
 
 **Site and Service Updates**  
 We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone. 
