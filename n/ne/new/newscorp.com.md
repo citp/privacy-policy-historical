@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newscorp.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603123656id_/http%3A//www.newscorp.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newscorp.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203070107id_/http%3A//www.newscorp.com/privacy.html) for the most accurate reproduction.*
 
 # News Corporation: Privacy Policy
 
@@ -25,7 +25,7 @@ The News America Group provides consumers with an opportunity to choose whether 
 USE OF PERSONAL INFORMATION  
 Inside the News America Group, we use personally identifiable information only in a manner consistent with these Privacy Principles. Personally identifiable information is available only to our employees, agents and contractors who have a business reason to have access to such information.
 
-The News America Group uses personally identifiable information to respond to our customers and to make decisions about the goods and services that the News America Group or its business partners provide or hope to provide to consumers. Subject to the exercise of consumer choice, personally identifiable information may be used for different purposes, or shared with our business partners. The News America Group may also be required to disclose personally identifiable information by law or compulsory legal process.
+The News America Group uses personally identifiable information to respond to our customers and to make decisions about the goods and services that the News America Group or its business partners provide or hope to provide to consumers. Subject to the exercise of consumer choice, personally identifiable information may be used for different purposes, or shared with our business partners. A News America Group business entity may disclose PII without providing consumers with a choice in order to protect the rights of the companies within the News America Group or their respective employees, agents and contractors; to protect the safety and security of visitors to web sites operated by News America Group companies; to protect against fraud or for risk management purposes; or to comply with the law or legal process. In addition, if a News America Group entity sells all or part of one of its businesses, makes a sale or transfer of assets or is otherwise involved in a business merger or transfer, PII may be transferred to a third party as part of that transaction.
 
 SECURITY  
 The News America Group uses reasonable administrative, technical, personnel, and physical measures to safeguard personally identifiable information in its possession against loss, theft, and unauthorized use, disclosure or modification.
@@ -41,4 +41,4 @@ Each News America Group company will take appropriate measures to ensure complia
 
 June 30, 2001
 
-* Please see the [ Commentary](https://web.archive.org/web/20020603123656id_/http%3A//www.newscorp.com/commentary.html) further explaining these Principles.
+* Please see the [ Commentary](https://web.archive.org/web/20021203070107id_/http%3A//www.newscorp.com/commentary.html) further explaining these Principles.
