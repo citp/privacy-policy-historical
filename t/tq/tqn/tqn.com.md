@@ -1,138 +1,112 @@
-> *The following text is extracted and transformed from the tqn.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607160121id_/http%3A//www.tqn.com/gi/pages/privacy.htm%3FPM%3D59_1106_T) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tqn.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630181832id_/http%3A//about.com/gi/pages/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
   
-|  About, Inc. will not offer any information about you to any outside company unless we receive your prior consent. 
 
-So that we can provide you with the most efficient and enhanced service, we request information about you. Since your privacy as a participant in About, Inc. communities and on the Internet is a priority to us, we have provided this detailed policy statement about our privacy and information dissemination practices for our network of GuideSitesTM
 
-|    | 
+## ABOUT ONLINE PRIVACY POLICY
 
-[](https://www.truste.org/validate/492) This site is a member of the TRUSTe program and is in compliance withTRUSTe privacy principles.   
-  
----|---|---  
-  
-About, Inc. is a member of the TRUSTe program. This statement discloses the privacy practices for About.com Web site. TRUSTe is an independent, non-profit initiative whose mission is to build users' trust and confidence in the Internet by promoting TRUSTe's principles of fair information practices. Because this site wants to demonstrate its commitment to respecting your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. When you visit a Web site displaying the TRUSTe mark, you can expect to be notified of: 
+About is strongly committed to protecting your privacy and providing a safe online experience for all our users. This Privacy Policy applies to information collected online through About's Web site, which includes all of the About.com Guide-Sites and governs online data collection and usage by About. Please read the complete About Online Privacy Policy below and contact us if you have any questions.
 
-**Privacy Policy Detailed Review...**
+What We Do with Collected Information  
+Use of Cookies  
+Use of Web Beacons  
+Controlling Your Personal Information  
+Security of Your Personal Information  
+Children's Privacy  
+Changes in Corporate Structure  
+Visitors Outside the United States  
+Changes to Our Privacy Policy  
+Contact Information
 
-1.  | Information We Gather or Track  
----|---  
-2.  | What We Do with Collected Information  
-3.  | Who Can Use Collected Information and How  
-4.  | Choosing to Opt-out of Information Collection  
-5.  | Corrections & Updates to Personal Information  
-6.  | Deleting or Deactivating Your Name from Our Database  
-7.  | Children's Privacy  
-8.  | How to Contact About, Inc.  
-  
-Questions regarding this statement should be directed to the About, Inc. site coordinator [registrar@about.com](mailto:registrar@about.com). If the Web site has not responded to your inquiry within seven days or your inquiry has not been satisfactorily addressed, contact [TRUSTe](http://www.truste.org/users/watchdog.html). To return to the Site, please use the "Back" button on your browser. Please be aware that this site contains links to other sites. About is not responsible for the privacy practices or content of such web sites.
+**COLLECTION AND TRACKING OF PERSONAL INFORMATION**
 
-**Information We Gather or Track**
+So that we can provide you with the most efficient and enhanced service, we request information about you. We collect personally identifiable information such as names, email addresses and demographic information such as age, gender and zip code. We also may collect your IP address, browser type, domain name, access times and referring Web site address. This information is collected both during registration on a site or in response to specific requests, for example when signing up for a newsletter, entering a sweepstakes or contest or answering a survey. Information collected at one About Web site will be available within the About family of Web sites.
 
-Information on general usage and any optional personal details you provide to us will be used to provide you with enhanced features such as customized content, access to our bulletin boards, participation in chats and the ability to participate in any of our GuideSiteTM communities. The following are details of the information we collect:
+Sometimes we will give you the opportunity to opt in to offers from third parties not affiliated with About. If you decide to accept these offers, we will provide, with your consent, your information to the third party. However, you should note that this Privacy Policy does not apply to information users consent to give to third parties not affiliated with About. Any information users give to another party is governed by the rules of that party's privacy policy, which may differ from this Privacy Policy. About is not responsible for information given to other parties. Please review their privacy policies prior to providing any information to third parties.
 
-•  | About, Inc. collects data so that we may display personalized content to our visitors. Additionally, usage information may be analyzed so that we can judge our system's performance or execute your customized features.   
----|---  
-•  | Your computer reaches us via an particular IP ( **I** nternet **P** rotocol) address. This can tell us things like what part of the world you're coming from or what service provider you are using, but About.com does not link your IP address to any personally identifiable information about you.   
-•  | Your browser offers so-called "cookies" which -- if you allow their use -- store small amounts of data on your computer about your visit to any of our sites. Cookies assist us in tracking which of our features you like best. And when you re-visit our GuideSitesTM, cookies can enable us to customize our content according to your preferences. However, cookies tell us nothing about you personally unless you specifically give us additional information. The About.com Web site is viewable even if a user disables the cookie function within the Web browser, however some advanced features use cookies to assist in keeping track of your location within the About.com Web site in order to provide navigational trails and similar navigational features. These cookies are not used to personally identify your surfing patterns, and are merely used to provide naviagation links. Disabling your cookies simply means that some of these features will not have custom navigation available to you.   
-•  | Our registration form asks for contact and demographic information used to send news about our products or promotional material from our partners. You will be able to opt-out of receiving any mailings. Demographic information may be used to customize the display of our GuideSitesTM to you by showing content that we think might be of interest or related to your past visits.   
-•  | Surveys may ask for contact information or unique identifying information to increase the value of the results. Contests may require contact information or other demographic/personal information in order to determine your eligibility.   
-•  | Some of the banner ads displayed in our GuideSitesTM are provided by outside companies. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our advertisers and we do not have access to this information. Cookies in and of themselves do not contain any personally identifiable information about you.   
-  
-[Table of Contents]
+**WHAT WE DO WITH COLLECTED INFORMATION**
 
-**What We Do with Collected Information**
+We use personal information so that we may display custom, personalized content to our visitors and send newsletters, emails, features, promotional material, surveys and other updates to our users. A user may, at any time, opt out of receiving such information. We also use collected information to evaluate and administer our service, respond to any problems that may arise and to gauge user trends to determine what part of our services are most popular with users. 
 
-•  | We sometimes use provided information to personalize features of our GuideSitesTM based upon your preferences.   
----|---  
-•  | From time to time we extend various offers through our partner companies. These may include news or additional details on their products and services. Your personal preferences or usage history may result in your being offered special screens or products. These offers would be sent via About and your personal information is not shared with entities outside of About, Inc.   
-•  | We produce aggregate reports for advertisers. For example, we tell advertisers how many people saw or clicked on an ad and additionally, how many people saw or clicked on ads in different portions of our service. Where available, we may offer additional information about viewer characteristics. _However this does **not** include personally identifiable information about you or your online usage patterns_. Our advertisers allow us to provide our service to you. In return, they need to know how to effectively place their ads to potential customers.   
-•  | We'll use your email contact information to provide you with newsletters to which you subscribe, or for similar information we think you may find of interest. However, you can choose to opt out of these mailings. By providing your contact information you will be eligible to acquire user ID's and passwords that will allow you to participate in our discussion features, including chat and bulletin boards.   
-  
-[Table of Contents]
+We may extend offers to users on behalf of our partners about a particular product or service that may be of interest to you, but we will never give out your name or personal information at any time without your permission. As result, although About may receive a fee from our partners for this service, About sends all the offers so that your personal information is never shared with any outside third party.
 
-**Who Can Use Collected Information and How**
+We may, at times, produce reports for advertisers containing aggregate information about our users such as demographic, age and online usage information. This allows us to work more closely with advertisers to provide content and offers that are most relevant to our users. We will never include any personal information of our users in these reports.
 
-•  | As mentioned in our "What We Do With Collected Information" section, we provide our advertisers with aggregate reports on advertising activity.   
----|---  
-•  | Feedback is used both by About, Inc. staff as well as the individual Guides for each of the GuideSitesTM Guides not only link to content from their sites and provide their own original content, but would have available to them any information that you send them directly. Guide use of this information is bound by the principles and practices expressed here...   
-•  | Please be aware that if you voluntarily disclose information online, personal or otherwise, that information can be collected and used by others. For example, using chat, bulletin boards, or your e-mail, if you post personal information online you may receive unsolicited messages from others. About, Inc. will have no means to control this.   
-  
-[Table of Contents]
+We allow users of our Web site to send articles or links by email to other parties who may be interested in them. We do not retain any email addresses (unless you are a member who already has voluntarily provided your email address) of either the sender or recipient of such articles or links after they are sent.
 
-**Choosing to Opt Out of Information Collection**
+We reserve the right to use or disclose any information without notice or consent as needed to satisfy any law, regulation or legal request; to conduct investigations of consumer complaints or possible breaches of law; to protect the integrity of our site and our property; to protect the safety of our visitors or others; to fulfill your requests; or to cooperate in any legal investigation.
 
-•  | We provide visitors the opportunity to opt-out of receiving e-mail from us when we first request registration information from you. 
+You should be aware that if you voluntarily disclose information online (whether through About's services or any other service available online), personal or otherwise, that information can be collected and used by others. For example, if you use chat, forums, bulletin boards, your e-mail or if you post personal information online, you may receive unsolicited messages from others. About has no control over this use of your personal information.
 
-Some personal information is required for registration. However, for specific contests or to enable your participation within our discussion areas, some degree of personal and contact information will be necessary. You can always choose not to receive additional mailings at that time.  
-  
----|---  
-  
-[Table of Contents]
+**USE OF COOKIES**
 
-**Corrections & Updates to Personal Information**
+Your browser offers so-called "cookies" which, if you allow their use, store small amounts of data on your computer when you visit a Web site. Cookies do not contain any personally identifiable information about you and therefore cannot be used to identify you personally. Cookies simply assist us in tracking which of our features you like best. Cookies also enable us to customize our content according to your preferences. You have the ability to accept or decline cookies by modifying your browser and our Web sites are viewable even if you disable the cookie function on your browser. However, if you disable cookies, some advanced and customized features of our site, as well as other Web sites, will not be available to you.
 
-•  | Visitors can change or correct information about themselves via online forms which are part of our registration system. If there is a problem with a change being accepted by our system, you may contact us at the email address: [registrar@about.com](mailto:registrar@about.com)  
----|---  
-  
-[Table of Contents]
+Some of the banner ads displayed in our Web sites are provided by outside companies. These ads contain cookies. While we use cookies in other parts of our Web sites, cookies received with banner ads are collected by our advertisers and we do not have access to this information. We use a reputable third party to serve some or all of the advertisements that are placed within our sites and they may use information (not including personally identifiable information) about your visits to our sites and other sites to assist in serving advertisements to you. If you would like to know more about the information gathering practices and 'opt-out' procedures of our third party ad server, please see <http://www.doubleclick.net/us/corporate/privacy>.
 
-**Deleting or deactivating your name from our database**
+**USE OF WEB BEACONS**
 
-•  | Visitors may un-subscribe from newsletters and opt out of various mailings though our online registration forms. If you have difficulty using these forms, you can send email to [registrar@about.com](mailto:registrar@about.com)  
----|---  
-  
-[Table of Contents]
+Some of our Web pages may contain electronic images known as Web beacons, which are also called single-pixel gifs. These images allow us to count users who have visited those pages and to deliver co-branded services. We also may include Web beacons in promotional e-mail messages or newsletters in order to count how many messages have been opened and acted upon. Web beacons are not used to access your personally identifiable information but they are a technique we use to compile aggregated statistics about our Web site usage. Web beacons collect only a limited set of information including a cookie number, time and date of a page view and a description of the page on which the Web beacon resides. Some of our Web pages may also contain Web beacons placed there by our advertising partners to help us determine the effectiveness of our advertising campaigns.
 
-**Children's Privacy**
+**CONTROLLING YOUR PERSONAL INFORMATION**
 
-This statement discloses the privacy practices for portions of About.com directed at children under 13. About.com will NOT:
+A user may, at any time, change, correct, modify or delete any personal information they may have provided to About by visiting the Member Center located on the About homepage. Users can also unsubscribe from any newsletters or opt out of various promotional emailings at any time by visiting the Newsletters section in the Member Center or clicking on "unsubscribe" links in each of our newsletters or emails.
 
-•  | collect online contact information from a user under 13 without prior verifiable parental consent, which includes an opportunity for the parent to prevent use of the information and participation in the activity. When we do not obtain prior verifiable parental consent, online contact information will be used only to directly respond to the child's request and will not be used to contact the child for other purposes.   
----|---  
-•  | collect personally identifiable offline contact information from users under 13 without prior verifiable parental consent.   
-•  | distribute to third parties any personally identifiable information collected from a child under 13 without prior verifiable parental consent.   
-•  | give the ability to children to send e-mail, create personal web pages, participate in forums or kids chat rooms without prior verifiable parental consent.   
-•  | entice a child under 13 by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in such activity.   
-  
+**SECURITY OF YOUR PERSONAL INFORMATION**
+
+All About employees are made aware of its privacy practices through periodic communications and training. We limit access to private and confidential data only to those employees with a specific need to retrieve this information and we store data on multiple service systems, in controlled, secure environments. To maintain the highest level of security, we conduct internal reviews of our security measures on a regular basis.
+
+**CHILDREN'S PRIVACY**
+
+Some portions of the About Web site may be used by children under the age of 13. About is strongly committed to protecting the safety and privacy of children who visit our Web site.
+
+About has a system in place to effectively screen its users to ensure compliance with this Privacy Policy and the Children's Online Privacy Protection Act of 1998 (COPPA). COPPA and its accompanying regulations establish United States federal law that protects the privacy of children using the Internet.
+
+Our site and services may collect information about children under 13, including e-mail forum participation and chat rooms. Use of such activities requires initial registration by the participant. Children under 13 who wish to register are asked to have a parent or legal guardian do so for them. The parent must provide a credit card number for verification that he/she is an adult. Upon verification, the parent can choose in which activities he or she would like the child to participate. Parents can change the selected activities at any time.
+
+Only after verifying age, do we collect and maintain the name, date of birth and email address of children who register. With proper proof of identification (including name and credit card verification), parents can review their child's personal information, ask to have it deleted and refuse to allow any further collection or use of their child's information.
+
+We use cookies to check the age of registered users who enter chat rooms. We do not permit users under 13 into chat rooms unless their parents have consented to their participation.
+
+About.com includes many topical areas that all users may access. When a parent provides verifiable consent to allow his or her child to use chat and forums and to receive newsletters or other materials where a child may provide personally identifiable information, the child will also have access to those relevant services throughout the About site, including areas that may not be directed toward children. In particular, if you allow your child to participate in chat or forums, your child will have access to all chat and forum areas on About.com. Many chat areas are not monitored and private chat is permitted. Chat areas may contain information or language unsuitable for young children and visitors of all ages may participate. If you authorize your child to participate in these features, we encourage you to monitor their use closely. We also allow guests to participate in chat and forum areas at About.com but use techniques to prevent unregistered children under 13 from participating in areas unsuitable for them. Parents can change these options at any time.
+
+Except as authorized under COPPA, About.com will NOT:
+
+  * collect online contact information from a user under 13 without prior verifiable parental consent, which includes an opportunity for the parent to prevent use of the information and participation in the activity. When we do not obtain prior verifiable parental consent, online contact information will be used only to directly respond to the child's request and will not be used to contact the child for other purposes.
+  * collect personally identifiable offline contact information from users under 13 without prior verifiable parental consent.
+  * distribute to third parties any personally identifiable information collected from children known to be under 13.
+  * give the ability to children to participate in forums or chat rooms without prior verifiable parental consent.
+  * entice a child under 13 by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in such activity.
+
+
+
 We will also place prominent notice wherever personally identifiable information is collected requesting the child to ask a parent for permission to proceed.
 
-The following are details of the information we collect and how we use it:
+If you have any questions regarding the privacy and safety of children on our site, please visit us at <http://home.about.com/gi/pages/pform.htm>.
 
-•  | About, Inc. collects data so that we may display personalized content to our visitors. Additionally, usage information may be analyzed so that we can judge our system's performance or execute your customized features. Your computer reaches us via a particular IP, (InternetProtocol), address. This can tell us things like what part of the world your computer is connecting from. Or what service provider you are using. Your browser offers so-called "cookies" which -- if you or your child allow their use -- store small amounts of data on your computer about your child's visit to any of our sites. Cookies assist us in tracking which of our features your child likes best. And when your child re-visits our GuideSites, cookies can enable us to customize our content according to your child's preferences. However, cookies tell us nothing about your child personally unless you or your child specifically give us additional information. Demographic information may be used to customize the display of our GuideSitesTM to your child by showing content that we think might be of interest or related to the child's past visits.   
----|---  
-•  | Some of the banner ads displayed in our GuideSitesTM are provided by outside companies. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our advertisers and we do not have access to this information. Cookies in and of themselves do not contain any personally identifiable information about your child.   
-•  | The About.com Web site includes many topical areas that all users may access. By giving your verifiable consent to allow your child to use chat, forums, newsletters, and/or any other functionality of the About.com Web site in which your child may provide personally identifiable information, your child will also have access to those relevant functionalities throughout the About.com Web site, including those areas which are not directed toward children. Please monitor your child's use of other areas of the Web site which are not directed toward children.   
-•  | We produce aggregate reports for advertisers. For example, we tell advertisers how many people saw or clicked on an ad and additionally, how many people saw or clicked on ads in different portions of our service. Where available, we may offer additional information about viewer characteristics. However this does not include personally identifiable information or online usage patterns. Our advertisers allow us to provide our service to our users and our members. In return, they need to know how to effectively place their ads to potential customers.   
-•  | We'll use email contact information to provide members with newsletters to which the member subscribed, or for similar information we think the member may find of interest. However, you can choose to discontinue your child's receipt of these mailings.   
-  
-**COPPA**
+**CHANGES IN CORPORATE STRUCTURE**
 
-Because we care about the safety and privacy of children online, we comply with the Children's Online Privacy Protection Act of 1998 (COPPA). COPPA and its accompanying FTC regulation establish United States federal law that protects the privacy of children using the Internet. We offer the following for the protection of children under 13:
+In developing our business, we might sell certain assets or the company, or parts of it, may be sold, merged or otherwise transferred. In such transactions, user information, whether personally identifiable or otherwise, may be one of the transferred assets.
 
-•  | Many About.com activities may collect information about children under 13, including e-mail, personal web pages, forum participation, and kids chat rooms. Use of such activities requires initial registration by the participant. Children under 13 who wish to register are asked to have a parent or legal guardian do so for them. The parent must provide a credit card number for verification that he/she is an adult. Upon verification, the parent can choose which activities he or she would like the child to participate in. The parent can change the selected activities at any time.   
----|---  
-•  | After obtaining parental consent, we collect and maintain the name, date of birth, and email address of children who register. We use this information to contact children for subscription to newsletters and notification of contests. Parents can review their child's personal information, ask to have it deleted and refuse to allow any further collection or use of their child's information. To do so, log on as a member and clicking on the Parental Controls link in their membership profile.   
-•  | We do not distribute to third parties any personally identifiable information collected from children under 13 or from sites that are specifically directed to children under 13.   
-•  | We use a technology called "cookies" to track what pages users visit on our service, as described in the previous section of this document. We also use cookies to check the age of registered users who enter chat rooms in sites located outside of the Kids channel. Users under 13 are not permitted in chat rooms unless their parents have consented to their participation, as above.   
-  
-This site is operated by About.com. We are the only operator that collects or maintains children's personal information through this site. If you have any questions regarding this policy or the safety of kids at About.com, please contact us at: About, Inc., 1440 Broadyway, New York, NY, 10018, call us at (212) 204-4000, or email us at [kidsprivacy@about.com.](mailto:kidsprivacy@about.com)
+**VISITORS OUTSIDE THE UNITED STATES**
 
-[Table of Contents]
+Our Web site and the servers that make this site available worldwide are located in the United States. All matters relating to these sites are governed by the laws of the State of New York in the United States. Any information you provide will be transferred to the United States. By visiting our sites and submitting information, you authorize this transfer.
 
-**How to contact customer service**
+**CHANGES TO OUR PRIVACY POLICY**
 
-If you have any questions about this privacy statement, our practices, or your dealings with About, Inc., you can contact
+We will occasionally update this Privacy Policy as necessary to maintain the highest protection for our users and to comply with a changing environment. We recommend that you check the policy when you visit our site to be sure you are aware of and understand our current policy. If we make material changes to this policy or in how we will use or collect your personally identifiable information, we will prominently post such changes prior to implementing the change. We will not make changes in how we handle previously collected personal information that have retroactive effect unless legally required to do so.
 
-Registration Manager About, Inc. 1440 Broadway 19th Floor New York, NY 10018 [registrar@about.com](http://home.about.com/gi/pages/pform.htm)
+**CONTACT INFORMATION**
 
-[Table of Contents]
+If you have any questions about this Privacy Policy or our privacy practices, please visit us at <http://home.about.com/gi/pages/pform.htm>. 
 
-[User Agreement](https://web.archive.org/web/20010607160121id_/http%3A//www.tqn.com/gi/pages/uagree.htm)
+Or you can contact us by mail at:
 
-Top of Page
+_Customer Care  
+About, Inc.  
+249 West 17th Street  
+New York, NY 10011_
 
-  
-
+Updated April 2003
