@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the godubai.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604012423id_/http%3A//www.godubai.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godubai.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217063021id_/http%3A//godubai.com/privacy.asp) for the most accurate reproduction.*
 
 # Go Dubai:Complete Online Information Guide to Dubai,United Arab Emirates,UAE
 
-|  |  **Privacy Policy**
+|  | 
 
-SIMA International ensures your privacy as you take advantage of the many services we provide on our website. You may now avail of our services, with the complete assurance that your privacy will, at all times, be protected. 
+|  | **Privacy Policy**  
+
+
+Aswaaq.com International ensures your privacy as you take advantage of the many services we provide on our website. You may now avail of our services, with the complete assurance that your privacy will, at all times, be protected. 
 
 Your privacy is vital to us. We function on the following principles to safeguard your privacy: 
 
