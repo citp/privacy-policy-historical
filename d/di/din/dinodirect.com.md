@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dinodirect.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607035104id_/http%3A//www.dinodirect.com/about-privacy---security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dinodirect.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217093234id_/http%3A//dinodirect.com/about-privacy---security.html) for the most accurate reproduction.*
 
 # About Privacy & Security :
 
@@ -11,7 +11,10 @@ As part of our commitment to you, our customers, we have published below our pri
 **_TRUSTe Licensee_**  
 dynadirect.com, Inc. is a licensee of the TRUSTe Privacy Program. This statement discloses the privacy practices for dynadirect.com. When you visit a Web site displaying the TRUSTe trustmark, you can expect to be notified of: What personally identifiable information of yours is collected; What organization is collecting the information; How the information is used; With whom the information may be shared; What choices are available to you regarding collection, use and distribution of the information; What kind of security procedures are in place to protect the loss, misuse or alteration of information under the company's control; and How you can correct any inaccuracies in the information. 
 
-Questions regarding this statement should be directed to the [Webmaster](mailto:dbolinger@dynadirect-inc.com). If the Web site has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact [TRUSTe](http://www.truste.org/users/watchdog.html). 
+Questions regarding this statement should be directed to the [Webmaster](mailto:comments@dynadirect.com). If the Web site has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact [TRUSTe](http://www.truste.org/users/watchdog.html).
+
+**_Notification of Changes_**  
+If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
 
 **_Your Information_**  
 This site uses a secure online order form for customers to purchase products and services. We collect customer contact information, such as Name, Email, Phone Number, and Address, and financial information, such as Credit Card Account Information. Contact information from the order form is only used to process and ship orders to our customers and to get in touch with them when necessary. Financial information collected is used to bill the customer for products and services they have purchased or requested.
@@ -46,7 +49,8 @@ dynadirect.com will not disclose any of our customers personal or financial info
 This Web site contains links to other website and online stores. Please be aware that our privacy policy does not apply to these linked sites. We encourage you to read the posted privacy statement whenever interacting with any website. dynadirect.com takes great care in selecting the companies it does business with, and will not promote or represent companies that do not provide customers with the highest level of service.
 
 **dynadirect.com, Inc.**  
-11832 Fishing Point Dr.  
+11832 Fishing Point Drive  
+Oyster Point Park  
 Suite 200  
 Newport News, VA 23606  
 Toll-Free: (877) 438-3962  
