@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogherald.com privacy policy that was archived on 2004-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041225223722id_/http%3A//www.blogherald.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogherald.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305165921id_/http%3A//www.blogherald.com/privacy) for the most accurate reproduction.*
 
 # The Blog Herald: more blog news more often
 
