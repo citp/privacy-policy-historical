@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneysense.ca privacy policy that was archived on 2001-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010622090433id_/http%3A//www.rogersmagazines.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysense.ca privacy policy that was archived on 2002-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021010053234id_/http%3A//www.rogersmagazines.com/privacy.htm) for the most accurate reproduction.*
 
 # Rogers Media Privacy Policy
 
