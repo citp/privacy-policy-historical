@@ -1,7 +1,17 @@
-> *The following text is extracted and transformed from the eggheadcafe.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017064313id_/http%3A//www.eggheadcafe.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eggheadcafe.com privacy policy that was archived on 2003-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030630103628id_/http%3A//eggheadcafe.com/privacy.asp) for the most accurate reproduction.*
 
 # EggHeadCafe Privacy Policy Statement
 
+  
+  
+
+
+[](https://web.archive.org/videodemo/default.asp)
+
+  
+| 
+
+  
 |  Privacy Statement  
 ---  
 **EggHeadCafe** has created this privacy statement in order to demonstrate our firm commitment to privacy.  The following discloses the information gathering and dissemination practices for this Web site: [eggheadcafe](http://www.eggheadcafe.com/)  
@@ -34,4 +44,10 @@ This site has security measures in place to protect the loss, misuse, and altera
   
   
 Contacting the Web Site  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [info@eggheadcafe.com](mailto:info@eggheadcafe.com).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [info@eggheadcafe.com](mailto:info@eggheadcafe.com).  
+  
+  
+  
+  
+  
+
