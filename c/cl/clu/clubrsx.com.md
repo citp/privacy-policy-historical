@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the clubrsx.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402213624id_/http%3A//corp.clubrsx.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubrsx.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204223910id_/http%3A//corp.clubrsx.com/privacy.html) for the most accurate reproduction.*
 
 # Club RSX | Corporate | Privacy Policy
-
-| Club RSX Privacy Policy  
-
 
 The following states the Club RSX.com policy regarding the privacy rights of visitors to this website. We respect your right to privacy and your desire for a secure online shopping experience. 
 
 Our postal address is:  
-1130 29th Street  
-Suite 103  
-Denver, CO 80205 
+4975 Stilwell Drive  
+Colorado Springs, CO 80920 
 
 We can be reached by telephone at 1-866-CLUB-RSX (1-866-258-2779) 
 
