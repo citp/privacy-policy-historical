@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the officemax.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602184204id_/http%3A//www.officemax.com/max/solutions/custserv/custServTemplate.jsp%3Fbvc%3Dyes%26edOID%3D536952113) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officemax.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205022614id_/http%3A//www.officemax.com/max/solutions/custserv/custServTemplate.jsp%3Fbvc%3Dyes%26edOID%3D536952113) for the most accurate reproduction.*
 
 # OfficeMax.Com - Customer Service
 
-We recognize the sensitive nature of your personal account information. For your protection, all information transmitted by you to us while visiting our Web site is secured using the latest technology in software encryption and security. We use the information collected to process orders and to provide you a personalized shopping experience. We also use information gathered to send promotional material about OfficeMax.com or its partners from time to time. This promotional material is opt-in and users may opt-out of by following the instructions included in the promotional piece. 
+We recognize the sensitive nature of your personal account information. For your protection, all information transmitted by you to us while visiting our Web site is secured using the latest technology in software encryption and security. We use the information collected to process orders and to provide you a personalized shopping experience. We also use information gathered to send promotional material about OfficeMax.com or its partners from time to time. This promotional material is opt-in and users may opt-out of future mailings by following the instructions located within the mailing itself. 
 
 We have created this privacy policy in order to demonstrate our firm commitment to Internet privacy. This policy describes the means by which OfficeMax.com gathers information and how that information is used. The areas covered in this policy are as follows: 
 
@@ -25,7 +25,7 @@ We use registration information (name, shipping address, phone numbers, etc.) to
 
 **Use of cookies**
 
-Our site uses cookies to keep track of how customers are navigating our site and to provide you with personalized content. If you select the auto-login feature on our registration page, we will also use a cookie to remember the login information you gave us so you don't have to enter that information each time you visit our site. Most browsers are initially set to accept cookies. If your browser is set to refuse cookies, you will not be able to order from OfficeMax.com. 
+Our site uses cookies to keep track of how customers are navigating our site and to provide you with personalized content. If you select the auto-login feature on our registration page, we will also use a cookie to remember the login information you gave us so you don't have to enter that information each time you visit our site. Most browsers are initially set to accept cookies. If you prefer, you can set your browser to refuse cookies. You will still be able to order from OfficeMax.com, however you will not be able to use the auto-login feature. 
 
 If you are using a shared machine in a corporate or other environment, you should use caution if selecting the auto-login feature to prevent unauthorized use of your personal information. 
 
@@ -69,7 +69,11 @@ We conduct sweepstakes which ask visitors for contact information (name, email a
 
 OfficeMax.com offers an affiliate program for qualified web sites. Participation is optional and based on OfficeMax.com approval. Application information is used to determine eligibility in the OfficeMax.com affiliate program. Account information of approved affiliates is maintained for the purposes of communication between OfficeMax.com and its affiliates. If an application is denied for any reason OfficeMax.com does not retain account information on the applicant.
 
-**
+****
+
+**Web Analytics**
+
+We send your information to Coremetrics, a company that works on our behalf to provide us with a service that helps us analyze your information. This service allows us to better provide our product or service to you. Coremetrics does not have any right to use the information we provide to them beyond what is necessary to assist us. For more information, including how to opt out, please [click here](http://www.coremetrics.com/info_eluminate2.html). **
 
 If you have additional questions about our privacy policy, please
 
