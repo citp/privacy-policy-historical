@@ -1,7 +1,45 @@
-> *The following text is extracted and transformed from the affiliatetips.com privacy policy that was archived on 2000-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000621223425id_/http%3A//www.affiliatetips.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatetips.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207091100id_/http%3A//affiliatetips.com/privacy.htm) for the most accurate reproduction.*
 
-# affiliate tips - news about affiliate programs and marketing tips
+# Affiliate Tips - Affiliate Marketing Tips And Affiliate Program News
 
+  | 
+
+**FREE Affiliate Tips!**  
+  
+---  
+  
+Don´t miss out! Subscribe to Affiliate Tips quality newsletter and get the free training course "The Ten Basic Principles of How To Make Money With Affiliate Programs" right now (value $29)  
+  
+---  
+  
+---  
+  
+|  | **21 FREE Audio JAM sessions from  
+Declan Dunn
+
+  
+  
+Part Of:  
+Net Profits: How to Win the Internet Game  
+_  
+"Proven Guerilla Tactics Of the $65,000 Affiliate, the $750,000 Super Affiliate, and the $600,000/6 weks. Performance Network."_
+
+**  
+---  
+  
+**  
+** "Declan´s Internet Jam Sessions are way cool. In fact, this is the best free performance marketing training I have ever seen. What I like the most is how Declan explains the key formula of how to make real profits online in such a simple and powerful way. 
+
+If you are serious about winning the internet game then this **FREE audio training system is something you don´t want to miss**. I highly recommend the Internet Jam Sessions. In my humble opinion... **Declan rules!** "
+
+**Ola Edvardsson, Editor**  
+  
+**Get the FREE audio training system NOW!**  
+   
+  
+|    | **  
+Affiliate Tips Privacy Policy   
+**  
 Affiliatetips.com has created this **privacy statement** in order to demonstrate our **firm commitment to privacy**. The following discloses our information gathering and dissemination practices for this website: affiliatetips.com.
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information.
@@ -20,21 +58,20 @@ We run contests on our site in which we ask visitors for contact information (li
 Our site makes or will make chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
 **Security**  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. All our data is backed up daily and can only be accessed by authorized staff at WWW Marketing Ltd.  
-**  
-Choice/Opt-Out**  
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. All our data is backed up daily and can only be accessed by authorized staff at WWW Marketing Ltd.
 
-Affiliatetips   gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. Send an email to **[unsubscribe@affiliatetips.com](mailto:unsubscribe@affiliatetips.com)**.
+**Choice/Opt-Out**  
+Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.   
+Affiliatetips gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. Send an email to [unsubscribe@affiliatetips.com](mailto:unsubscribe@affiliatetips.com).
 
 **Correct/Update**  
 This site gives users the following options for changing and modifying information previously provided.   
-email **[update@affiliatetips.com](mailto:update@affiliatetips.com)**  
+email [update@affiliatetips.com](mailto:update@affiliatetips.com)
 
+**Contacting us regarding our privacy policy**  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
-**Contacting us regarding our privacy policy                                            **If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
-
-**Ola Edvardsson**  
-[**editor@affiliatetips.com**](mailto:editor@affiliatetips.com)
-
-**Copyright 1999-2000. Ola Edvardsson. All rights reserved.**
+Ola Edvardsson  
+[editor@affiliatetips.com](mailto:editor@affiliatetips.com)  
+  
+**Copyright 1999-2000.    Ola Edvardsson . All rights reserved. **
