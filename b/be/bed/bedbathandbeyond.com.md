@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bedbathandbeyond.com privacy policy that was archived on 2001-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010404230614id_/http%3A//www.bedbathandbeyond.com/exitWedMode.asp%3FDST%3DprivPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bedbathandbeyond.com privacy policy that was archived on 2001-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011203183845id_/http%3A//www.bedbathandbeyond.com/rdprivPolicy.asp) for the most accurate reproduction.*
 
 # Bed Bath & Beyond Privacy
 
 ---  
-|  | [](https://web.archive.org/web/20010407005003id_/http://www.bedbathandbeyond.com/default.asp?) | [](https://web.archive.org/web/20010407005003id_/http://www.bedbathandbeyond.com/wedd.asp?) | [](https://web.archive.org/web/20010407005003id_/http://www.bedbathandbeyond.com/services.asp?)  
----|---|---|---  
+|  | [](https://web.archive.org/web/20011211144332id_/http://www.bedbathandbeyond.com/default.asp?) | [](https://web.archive.org/web/20011211144332id_/http://www.bedbathandbeyond.com/wedd.asp?) | [](https://web.archive.org/web/20011211144332id_/http://www.bedbathandbeyond.com/services.asp?) | [](https://web.archive.org/web/20011211144332id_/http://www.bedbathandbeyond.com/entagreat_gifts.asp?)  
+---|---|---|---|---  
 |  |   
 ---  
   |  | **Privacy** |    
@@ -24,11 +24,13 @@ At Bed Bath & Beyond we are committed to protecting the privacy of our customers
 
 Additionally, access to your Personal Information is provided only to our employees and agents who have a need to know such information for the purpose of fulfilling your order and offering our high level of customer service. The computers that store your Personal Information are located in a separate facility which employs the latest in firewall and security technology. 
 
-If you prefer not to disclose your credit card information online, you can always place your order by calling 1-800-GO BEYOND® or visiting one of our many stores. Click [here](https://web.archive.org/web/20010407005003id_/http://www.bedbathandbeyond.com/store_loc.asp?) to locate the store nearest you and receive driving directions. 
+If you prefer not to disclose your credit card information online, you can always place your order by calling 1-800-GO BEYOND® (1-800-462-3966) or visiting one of our many stores. Click [here](https://web.archive.org/web/20011211144332id_/http://www.bedbathandbeyond.com/store_loc.asp?) to locate the store nearest you and receive driving directions. 
 
   
 **Use of Cookies** We use cookies to provide our customers with streamlined ordering and other useful features. Cookies are pieces of information that are stored by your browser on your computer's hard drive. Cookies make Web surfing easier for you by saving your customer identification information while you're at our site. The use of cookies has become an industry standard used by most major Web sites. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that. Please continue to review our privacy policy from time to time so that you are aware of our current policy with respect to cookies.   
   
 **Bridal Registry Information** Please be aware that bridal registry information is treated in a slightly different manner than as outlined above. The main difference between bridal registry users and other users of our Web site is that in the case of bridal registry users, certain information collected is shared with advertisers, but only on an aggregate basis which does not identify any Personal Information which could be linked to you. Additionally, bridal registry users may receive additional e-mail communications from us, such as a registry welcome e-mail, optional bi-weekly and fortnightly e-mails to guests, monthly newsletters to registrants, purchase confirmation e-mail when ordering, and follow-up contact to registrants, 30 days after the wedding. IP addresses (i.e., the Internet number associated with your specific computer) are used to help diagnose problems with our wedding registry computer, to administer our wedding registry portion of our Web site, and to help identify you to your shopping basket. Finally, cookies are used as part of our wedding registry service to save your registry number and password on your computer so that you won't have to enter this information every time you return to your registry.   
   
-**Your Acceptance of these Terms** By using our Web site, you agree to accept the Bed Bath & Beyond privacy policy. Make sure you read this policy carefully, because if you do choose to use our Web site, you automatically agree to this policy. If you do not agree to this policy, please do not use our Web site. We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for changes. Your continued use of our Web site following the posting of changes to these terms will mean you accept those changes. © 1999-2001 Bed Bath & Beyond and its subsidiaries. All rights reserved.
+**Your Acceptance of these Terms** By using our Web site, you agree to accept the Bed Bath & Beyond privacy policy. Make sure you read this policy carefully, because if you do choose to use our Web site, you automatically agree to this policy. If you do not agree to this policy, please do not use our Web site. We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for changes. Your continued use of our Web site following the posting of changes to these terms will mean you accept those changes. 
+
+© 1999-2001 Bed Bath & Beyond and its subsidiaries. All rights reserved.
