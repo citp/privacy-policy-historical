@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chooseyouritem.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604072610id_/http%3A//chooseyouritem.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chooseyouritem.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004123119id_/http%3A//www.chooseyouritem.com/policy.html) for the most accurate reproduction.*
 
 # Classifieds for homes, real estate, autos, classic cars, rvs, business, airplanes, jobs, employment and more.
 
