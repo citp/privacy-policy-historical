@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rosettastone.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203144501id_/http%3A//www.rosettastone.com/home/about_us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rosettastone.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603192309id_/http%3A//www.rosettastone.com/home/about_us/privacy) for the most accurate reproduction.*
 
 # Rosetta Stone Language Software
 
@@ -19,7 +19,7 @@ The Fairfield Language Technologies privacy policy represents a commitment to pr
   
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.   
   
-The types of personal information we collect include all the information entered on the Registration and/or Order Form pages: shipping and billing name and address, email address, phone number and credit card information. We collect this information from you using the Fairfield Language Technologies Store hosting and backend services.   
+The types of personal information we collect include all the information entered on the Registration and/or Order Form pages: shipping and billing name and address, email address, phone number and credit card information. We collect this information from you using the Fairfield Language Technologies Store hosting and backend services.  We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Action Tags and cookies provided by our marketing company on this site. The information we collect helps us learn things like what kinds of customers our site attracts, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy,  [ you can "opt-out" of this web-site analysis tool by **clicking here.** ](http://optout.rs.rpts.net/cgi-bin/rpts/optout.pl)  
   
 We use the information you provide when placing an order to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order or to provide services where the outside party is acting on our behalf and has no independent right to use the information we provide (i.e. a third party shipping or customer support center).  We use aggregate information to better design our website and to share with potential business partners. For example, we may tell a potential partner that X number of individuals visited a certain area on our website, or that Y number of people from a certain zip code purchased certain items, but we would not disclose anything that could be used to identify those individuals.  We may contact you from time to time regarding your order status or about products or specials that we think you may be interested in. If you do not wish to receive these notifications, we will honor your request not to send them to you.  We use return email addresses from your email correspondence to us to answer the email we receive. Such addresses from your correspondence are not used for any other purpose and are not shared with outside parties. Finally, we do not use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without providing you an opportunity to tell us not to allow such unrelated uses.   
   
@@ -38,30 +38,58 @@ If you have other questions or concerns about our privacy policies, please  [ co
 ---  
 |  |   
 ---  
-language catalog  
+[ language catalog ](https://web.archive.org/home/catalog)  
+  
 [ Arabic ](https://web.archive.org/home/catalog?language=ara)  
+  
 [ Chinese ](https://web.archive.org/home/catalog?language=chi)  
+  
 [ Danish ](https://web.archive.org/home/catalog?language=dan)  
+  
 [ Dutch ](https://web.archive.org/home/catalog?language=ned)  
+  
 [ English (UK) ](https://web.archive.org/home/catalog?language=ebr)  
+  
 [ English (US) ](https://web.archive.org/home/catalog?language=eng)  
+  
 [ French ](https://web.archive.org/home/catalog?language=fra)  
+  
 [ German ](https://web.archive.org/home/catalog?language=deu)  
-[ Hindi ](https://web.archive.org/home/catalog?language=hin)  
+  
 [ Hebrew ](https://web.archive.org/home/catalog?language=heb)  
+  
+[ Hindi ](https://web.archive.org/home/catalog?language=hin)  
+  
 [ Indonesian ](https://web.archive.org/home/catalog?language=ind)  
+  
 [ Italian ](https://web.archive.org/home/catalog?language=ita)  
+  
 [ Japanese ](https://web.archive.org/home/catalog?language=jpn)  
+  
 [ Korean ](https://web.archive.org/home/catalog?language=kor)  
+  
 [ Latin ](https://web.archive.org/home/catalog?language=lat)  
+  
+[ Pashto ](https://web.archive.org/home/catalog?language=pas)  
+  
 [ Polish ](https://web.archive.org/home/catalog?language=pol)  
+  
 [ Portuguese (BR) ](https://web.archive.org/home/catalog?language=por)  
+  
 [ Russian ](https://web.archive.org/home/catalog?language=rus)  
+  
 [ Spanish (Latin America) ](https://web.archive.org/home/catalog?language=esp)  
+  
 [ Spanish (Spain) ](https://web.archive.org/home/catalog?language=esc)  
+  
 [ Swahili ](https://web.archive.org/home/catalog?language=kis)  
+  
 [ Swedish ](https://web.archive.org/home/catalog?language=sve)  
+  
 [ Thai ](https://web.archive.org/home/catalog?language=tha)  
+  
 [ Turkish ](https://web.archive.org/home/catalog?language=tur)  
+  
 [ Vietnamese ](https://web.archive.org/home/catalog?language=vie)  
+  
 [ Welsh ](https://web.archive.org/home/catalog?language=cym)
