@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baja.com privacy policy that was archived on 2002-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020806063258id_/http%3A//www.baja.com/pany/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baja.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618194125id_/http%3A//www.baja.com/pany/privacy.htm) for the most accurate reproduction.*
 
 # baja.com / privacy statement
 
