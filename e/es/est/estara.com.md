@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the estara.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611215501id_/http%3A//estara.com/aboutus/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estara.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205184550id_/http%3A//www.estara.com/aboutus/privacy.php) for the most accurate reproduction.*
 
 # eStara, Inc. Privacy Policy
 
@@ -86,6 +86,6 @@ If we decide to change our privacy policy, we will post those changes on our Sit
 **Disclaimer**   
 Though we make every effort to preserve your privacy we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. 
 
-If you have any questions or concerns regarding this statement, you should first contact eStara by emailing at [marketing@estara.com](mailto:marketing@estara.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/users/users_watchdog.php>. TRUSTe will serve as a liaison with the Site to resolve your concerns. However, please understand the TRUSTe program covers only information that is collected through this website, and does not cover information that may be collected through software downloaded from the site. 
+If you have any questions or concerns regarding this statement, you should first contact eStara by emailing at [marketing@estara.com](mailto:marketing@estara.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will serve as a liaison with the Site to resolve your concerns. However, please understand the TRUSTe program covers only information that is collected through this website, and does not cover information that may be collected through software downloaded from the site. 
 
 | 
