@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freesamples.org privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009181630id_/http%3A//www.elibs.com/e/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freesamples.org privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403082500id_/http%3A//www.elibs.com/e/p/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -81,7 +81,7 @@ In addition, there are some things that you can do to help protect the security 
 
 At eLibs, our goal is to help parents ensure that their kids have a safe and fun online experience. PARENTS HAVE THE RIGHT TO CONSENT TO THE COLLECTION AND USE OF THEIR CHILD'S PERSONAL INFORMATION WITHOUT CONSENTING TO THE DISCLOSURE OF THAT INFORMATION TO THIRD PARTIES. In order to allow parents to review any personally-identifiable information collected about their child, have this information deleted, and/or request that there be no further collection or use of their child's information, we have set up a system by which parents can print out a form, execute it accordingly, and then mail or fax the form back to us. In order to receive the form, please click on the following link:  
 [Personal Information Access - Inquiry Form  
-](https://web.archive.org/web/20041009181630id_/http%3A//www.elibs.com/e/p/parentform) Please send this form to the address or fax number provided at the bottom of the form (also set forth below). eLibs takes steps to verify the identity of anyone requesting information about a child and to ensure that the person is in fact the child's parent or legal guardian.
+](https://web.archive.org/web/20050403082500id_/http%3A//www.elibs.com/e/p/parentform) Please send this form to the address or fax number provided at the bottom of the form (also set forth below). eLibs takes steps to verify the identity of anyone requesting information about a child and to ensure that the person is in fact the child's parent or legal guardian.
 
 * * *
 
