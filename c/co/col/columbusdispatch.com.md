@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the columbusdispatch.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605103208id_/http%3A//www.columbusdispatch.com/default.php%3Fstory%3Ddispatch/services/Faq/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the columbusdispatch.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011204643id_/http%3A//www.columbusdispatch.com/default.php%3Fstory%3Ddispatch/services/Faq/privacy.html) for the most accurate reproduction.*
 
 # The Columbus Dispatch -
 
