@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the hottopic.com privacy policy that was archived on 2003-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030630091744id_/http%3A//www.hottopic.com/services/Privacy.asp%3FLS%3D0%26) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hottopic.com privacy policy that was archived on 2003-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031203174915id_/http%3A//www.hottopic.com/services/Privacy.asp%3FLS%3D0%26) for the most accurate reproduction.-->
 
 <html><head><!-- Copyright © 2001 - 2003 hottopic. All Rights Reserved. -->
-<meta name="description" content="Hot Topic, alternative music and culture related apparel and accessories from artists like Marylin Manson, Korn, and Good Charlotte and brands such as West Coast Choppers, Emily The Strange, and Sesame Street.">
-<meta name="keywords" content="Hot Topic, alternative music, rave, club, street, lounge, goth, gothic clothing, gothic, morbid metals, happy bunny, Marilyn Manson, Korn, Tool, Good Charlotte, Misfits, Care Bears, Emily The Strange, Froud, Adult Swim, Sesame Street, Hot Topic, punk, hardcore, metal">
+<meta name="description" content="Hot Topic, alternative music related apparel and accessories.">
+<meta name="keywords" content="Hot Topic, alternative music, rave, club, street, lounge, goth, Slipknot, Korn, Rage Against the Machine, Limp Bizkit, punk, industrial, techno, emo, hardcore, metal">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <title>Hot Topic Privacy Policy</title>
 <style type="text/css">
@@ -97,8 +97,9 @@ function fnSetCookie (name,value,expires,path,domain,secure) {
 
 function CookiePopup(strPageName, strCookieName, intWidth, intHeight) {
 	if (fnGetCookie(strCookieName) != "true") {
-// Commented out just for the prE-view player & Froud. Will update for auto-popup next...
-//		fnSetCookie(strCookieName,"true",null,"/",null,false);
+		if (strCookieName != "Preview") {
+			fnSetCookie(strCookieName,"true",null,"/",null,false);
+		}
 		window.open(strPageName,strCookieName,'width=' + intWidth + ',height=' + intHeight);
 	}
 }
@@ -106,7 +107,7 @@ function CookiePopup(strPageName, strCookieName, intWidth, intHeight) {
 // -->
 </script>
 </head>
-<body bgcolor="black" text="#CCCCCC" link="#BD2132" vlink="#BD2132" alink="#BD2132" topmargin="0" leftmargin="0" marginwidth="0">
+<body bgcolor="black" onload="CookiePopup('/homepage/H_twpromo.html', 'newpromo', 415, 230);" text="#CCCCCC" link="#BD2132" vlink="#BD2132" alink="#BD2132" topmargin="0" leftmargin="0" marginwidth="0">
 
 <div id="allel">
 <table cellpadding="0" cellspacing="0" border="0" width="760">
