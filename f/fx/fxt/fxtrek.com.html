@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fxtrek.com privacy policy that was archived on 2001-10-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011021020202id_/http%3A//fxtrek.com/home/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fxtrek.com privacy policy that was archived on 2002-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021208172608id_/http%3A//www.fxtrek.com/home/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="PICS-Label" content="(PICS-1.1 &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true comment &quot;RSACi North America Server&quot; for &quot;http://www.FXtrek.com&quot; on &quot;1999.10.01T20:23-0800&quot; r (n 0 s 0 v 0 l 0))">
@@ -11,179 +11,242 @@
 <link rel="stylesheet" href="/default.css">
 </head>
 
-<body bgcolor="#04523D" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" alink="#007f65" link="#007f65" vlink="#007f65" onload="MM_preloadImages(
-'/images/bar/en/ca1_on.gif', 
-'/images/bar/en/ca2_on.gif',
-'/images/bar/en/ca3_on.gif',
-'/images/bar/en/ca4_on.gif',
-'/images/bar/en/ca5_on.gif',
-'/images/bar/en/ca6_on.gif')">
+<body bgcolor="#04523D" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" alink="#007f65" link="#007f65" vlink="#007f65" onload="setMenus();" onresize="if (isNS4) nsResizeHandler()">
 
 
       
 <!-- Page Top -->
 
+<!--
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
-  <tbody><tr> 
+  <tr> 
     <td colspan="3" background="/images/common/backgroundUp1.gif"><img src="/images/common/space.gif" width="1" height="8"></td>
   </tr>
   <tr> 
     <td background="/images/common/backgroundUp2.gif"><nobr><img src="/images/common/space.gif" width="20" height="60"><a href="/default.asp"><img src="/images/home/logo.gif" width="193" height="60" border="0"></a></nobr></td>
     <td width="100%" background="/images/common/backgroundUp2.gif">&nbsp;</td>
     
-      <td background="/images/common/backgroundUp2.gif"><nobr><a href="http://adrun.tradetrek.com/banner/adban.asp?kid=640411&amp;bid=39" target="_blank"><img src="http://adrun.tradetrek.com/images/banners/quoteanalysis2.gif" width="468" border="0" height="60"></a><img src="/images/common/space.gif" width="5" height="60"></nobr></td>
+      <td background="/images/common/backgroundUp2.gif"><nobr><a href="http://adrun.tradetrek.com/banner/adban.asp?kid=640411&bid=35" target="_blank"><img src="http://adrun.tradetrek.com/images/banners/468DaytradingCenter.gif" width=468 border=0 height=60></a><img src="/images/common/space.gif" width="5" height="60"></nobr></td>
     
   </tr>
   <tr> 
     <td colspan="3" background="/images/common/backgroundUp3.gif"><img src="/images/common/space.gif" width="1" height="7"></td>
   </tr>
-</tbody></table>
-
+</table>
+-->
 <!-- End Page Top -->
 
 <!-- Horizontal Nav Bar -->
+<!-- Begin  of havbar_eninc.asp -->
 <script language="JavaScript">
 <!--
-var timer = null;
-var intSub;
-var gintNavBarMask = 0;  
-
-  var gintNavBarMask = 0;
-
-  intSub=0;
-
+function submitQuickBar(strAction) {
   
-function ChangeLanguage(){
-var FileName,mbase; 
-mbase = "http://fxdevserver1/fxsnoopy/ch/";
-FileName = mbase + getFile(gintNavBarMask);
-window.location = FileName;
+  document.frmQuickBar.action.value = strAction;
+  document.frmQuickBar.submit();
 }
 
-
-function getGlossary(item) {
-  var glossaryWindow;
-  window.name = "main";
-  glossaryWindow = window.open(item, 'glossary', 'height=460,width=662,status=no,toolbar=no,menubar=no,location=no,resizable=yes');
-}
-
-function MM_swapImgRestore() {
-  var i,x,a=document.MM_sr; 
-  for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+function launchStreamer() {
+  window.open('http://quote.FXtrek.com/streamingserver/streamer/streamer.asp', 'Streamer', 'height=500,width=550,status=no,toolbar=no,menubar=no,location=no,resizable=yes');  
 }
 
 function MM_preloadImages() {
-  var d=document; 
-  if(d.images){ 
-    if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; 
-    for(i=0; i<a.length; i++)
-     if (a[i].indexOf("#")!=0){ 
-       d.MM_p[j]=new Image; 
-       d.MM_p[j++].src=a[i];
-     }
-  }
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() {
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
 }
 
 function MM_findObj(n, d) {
-  var p,i,x;  
-  if(!d) d=document; 
-  if((p=n.indexOf("?"))>0&&parent.frames.length) {
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
     d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; 
-  for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x= MM_findObj(n,d.layers[i].document); 
-  return x;
-} 
-
-function MM_swapImage()
-  {var i,j=0,x,a=MM_swapImage.arguments; 
-   document.MM_sr=new Array; 
-   for(i=0;i<(a.length-2);i+= 3){
-    if((x=MM_findObj(a[i]))!=null)
-    {document.MM_sr[j++]=x; 
-     if(!x.oSrc) x.oSrc=x.src; 
-     x.src=a[i+2];
-    }
-   } 
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
 }
+
+function MM_swapImage() {
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function test() {
+	widthObj = findWidth('wide');
+	if (widthObj < 965 ){
+	document.ad.src = image1.src;
+	}else{
+	document.ad.src = image2.src;
+	}
+}
+
+function findDOM(objectID) {
+  if (isDOM) { return (document.getElementById(objectID)); }
+	else { 
+		if (isIE4) { return (document.all[objectID]); }
+		else {
+		  if (isNS4) { return (document.layers[objectID]); }
+		}
+	}
+}
+
+function findWidth(objectID) {
+	var dom = findDOM(objectID);
+	if (dom.offsetWidth) 
+		return dom.offsetWidth;
+	if (dom.clip.width)
+		return dom.clip.width;
+	return (null);
+}
+
+image1 = new Image();
+image1.src = "/images/home/t0.jpg";
+image2 = new Image();
+image2.src = "/images/home/t1.jpg";
 
 //-->
 </script>
+<script language="JavaScript" src="/menu.js"></script>
+<style type="text/css">
+.ariSmall{
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 8pt;
+    TEXT-DECORATION: none
+}
+#wide{
+	position: absolute;
+	z-index: 0;
+	visibility: hidden;
+}
+.itemBorder {
+	BORDER-RIGHT: #007f65 1px solid; BORDER-TOP: #007f65 1px solid; BORDER-LEFT: #007f65 1px solid; BORDER-BOTTOM: #007f65 1px solid
+}
+.itemText {
+	FONT: bold 12px Arial, Helvetica; COLOR: #007f65; TEXT-DECORATION: none
+}
+.menuText {
+	FONT: bold 12px Arial, Helvetica; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.subMenuText {
+	FONT: bold 12px Arial, Helvetica; COLOR: #000000; TEXT-DECORATION: none
+}
+A.itemText:hover {
+	FONT: bold 12px Arial, Helvetica; COLOR: #BD3E00; TEXT-DECORATION: none
+}
+A.menuText:hover {
+	FONT: bold 12px Arial, Helvetica; COLOR: #ffcc33; TEXT-DECORATION: none
+}
+A.subMenuText:hover {
+	FONT: bold 12px Arial, Helvetica; COLOR: #BD3E00; TEXT-DECORATION: none
+}
+</style>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr bgcolor="#ffcc66"> 
-    <td colspan="20"><img src="/images/common/space.gif" width="1" height="1"></td>
-  </tr>
-  <tr> 
-    <td background="/images/common/logoHomeBackground.gif" width="1024"><img src="/images/common/space.gif" width="1" height="20"></td>
-    
-    
-    <td><nobr><img src="/images/common/logoHome.gif" width="86" height="20" id="IMG2"><img src="/images/common/logoHome_on.gif" width="28" height="20"></nobr></td>
-    
-    <td bgcolor="#007f65"><img src="/images/common/space.gif" width="1" height="20"></td>
-    
-    
-    <td><a href="/login/login.asp" onmouseout="MM_swapImgRestore();setClearMenu(1)" onmouseover="MM_swapImage('ca1','','/images/bar/en/ca1_on.gif',1);showSubNav(1);return true"><img name="ca1" border="0" src="/images/bar/en/ca1_off.gif" width="103" height="20"></a></td>
-    
-    <td bgcolor="#007f65"><img src="/images/common/space.gif" width="1" height="1"></td>
-    
-    
-    <td><a href="/tradepanel/default.asp?symbol=EUR%2FUSD" onmouseout="MM_swapImgRestore();setClearMenu(2)" onmouseover="MM_swapImage('ca2','','/images/bar/en/ca2_on.gif',1);showSubNav(2);return true"><img name="ca2" border="0" src="/images/bar/en/ca2_off.gif" width="118" height="20"></a></td>
-    
-    <td bgcolor="#007f65"><img src="/images/common/space.gif" width="1" height="1"></td>
-    
-    
-    <td><a href="/NN/default.asp?symbol=EUR%2FUSD" onmouseout="MM_swapImgRestore();setClearMenu(3)" onmouseover="MM_swapImage('ca3','','/images/bar/en/ca3_on.gif',1);showSubNav(3);return true"><img name="ca3" border="0" src="/images/bar/en/ca3_off.gif" width="124" height="20"></a></td>
-    
-    <td bgcolor="#007f65"><img src="/images/common/space.gif" width="1" height="1"></td>
-    
-    
-    <td><a href="http://www.efxnow.com/fxtrek/overview_fxtrek.html" onmouseout="MM_swapImgRestore();setClearMenu(4)" onmouseover="MM_swapImage('ca4','','/images/bar/en/ca4_on.gif',1);showSubNav(4);return true"><img name="ca4" border="0" src="/images/bar/en/ca4_off.gif" width="70" height="20"></a></td>
-    
-    <td bgcolor="#007f65"><img src="/images/common/space.gif" width="1" height="1"></td>
-    
-    
-    <td><a href="/universityEN/default.asp" onmouseout="MM_swapImgRestore();setClearMenu(5)" onmouseover="MM_swapImage('ca5','','/images/bar/en/ca5_on.gif',1);showSubNav(5);return true"><img name="ca5" border="0" src="/images/bar/en/ca5_off.gif" width="79" height="20"></a></td>
-    
-    <td bgcolor="#007f65"><img src="/images/common/space.gif" width="1" height="1"></td>
+<script language="JavaScript">
+<!--
+//var Menu = new Array();
+var menu = new Array();
+var defOver = '#ffffff', defBack = '#EAEBD8';
+var defLength = 22;
+menu[0] = new Array();
+menu[0][0] = new Menu(false, '', 125, 76, 20, '#666666', '#000000', '', 'menuText');
 
-    
-    <td><a href="/AboutEN/company.asp" onmouseout="MM_swapImgRestore();setClearMenu(6)" onmouseover="MM_swapImage('ca6','','/images/bar/en/ca6_on.gif',1);showSubNav(6);return true"><img name="ca6" border="0" src="/images/bar/en/ca6_off.gif" width="99" height="20"></a></td>
-    
-    <td bgcolor="#007f65"><img src="/images/common/space.gif" width="1" height="1"></td>
+menu[0][1] = new Item('&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Member Services', '/login/login.asp', 125, 1, 1);
 
-    <td bgcolor="#000000"><nobr><img src="/images/common/space.gif" width="7" height="20"><a href="/defaultCT.asp"><img src="/images/bar/en/chineseBut.gif" width="37" height="20" border="0" id="IMG4"></a><img src="/images/common/space.gif" width="10" height="20"></nobr></td>
-  </tr>
-</tbody></table>
+menu[0][2] = new Item('&nbsp;&nbsp;&nbsp;&nbsp;Products', '/members/signup.asp', 71, 1, 2);
+menu[0][3] = new Item('&nbsp;&nbsp;&nbsp;&nbsp;Forex Trading', '/dealing/overview.asp', 102, 1, 3);
+menu[0][4] = new Item('&nbsp;&nbsp;&nbsp;&nbsp;University', '/universityEN/default.asp', 77, 1, 4);
+menu[0][5] = new Item('&nbsp;&nbsp;&nbsp;&nbsp;About FXtrek', '/aboutEN/company.asp', 95, 1, 5);
+menu[1] = new Array();
+menu[1][0] = new Menu(true, '', 0, 21, 150, defOver, defBack, 'itemBorder', 'itemText');
+
+  menu[1][1] = new Item('&nbsp;&#149;&nbsp;Login', '/login/login.asp', defLength, 0, 0);
+  menu[1][2] = new Item('&nbsp;&#149;&nbsp;Sign Up', '/members/signup.asp', defLength, 0, 0);
+  menu[1][3] = new Item('&nbsp;&#149;&nbsp;Forgot Password', '/login/passForget.asp', defLength, 0, 0);
 
 
-  
-    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr> 
-        <td bgcolor="#eaebd8" width="50%"><img src="/images/common/space.gif" width="1" height="15"></td>
-        <td bgcolor="#eaebd8" width="15%"><nobr><img src="/images/bar/en/label1.gif" width="78" height="15"><img src="/images/common/space.gif" width="50" height="15"></nobr></td>
-        <td bgcolor="#eaebd8" valign="bottom"><img src="/images/common/space.gif" width="10" height="15" name="b1"></td>
-        <td bgcolor="#eaebd8"><b><a href="/livepick/default.asp?" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('b1','','/images/common/ballDark.gif',1)"><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif" size="1">Live&nbsp;Picks</font></a><font face="Verdana, Arial, Helvetica, sans-serif" size="1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></b></td>
-        <td bgcolor="#eaebd8" valign="bottom"><img src="/images/common/space.gif" width="10" height="15" name="b2"></td>
-        <td bgcolor="#eaebd8"><b><a href="/NN/default.asp?" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('b2','','/images/common/ballDark.gif',1)"><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif" size="1">Forecast</font></a><font face="Verdana, Arial, Helvetica, sans-serif" size="1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></b></td>
-        <td bgcolor="#eaebd8" valign="bottom"><img src="/images/common/space.gif" width="10" height="15" name="b3"></td>
-        <td bgcolor="#eaebd8"><b><a href="/regression/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('b3','','/images/common/ballDark.gif',1)"><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif" size="1">Regression&nbsp;Analysis</font></a><font face="Verdana, Arial, Helvetica, sans-serif" size="1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></b></td>
-        <td bgcolor="#eaebd8" valign="bottom"><img src="/images/common/space.gif" width="10" height="15" name="b5"></td>
-        <td bgcolor="#eaebd8"><b><a href="/tradepanel/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('b5','','/images/common/ballDark.gif',1)"><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif" size="1">Chart</font></a><font face="Verdana, Arial, Helvetica, sans-serif" size="1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></b></td>
-        <td bgcolor="#eaebd8" valign="bottom"><img src="/images/common/space.gif" width="10" height="15" name="b6"></td>
-        <td bgcolor="#eaebd8"><b><a href="/LiveComment/default.asp?symbol=EUR%2FUSD" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('b6','','/images/common/ballDark.gif',1)"><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif" size="1">Live&nbsp;Comments</font></a><font face="Verdana, Arial, Helvetica, sans-serif" size="1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></b></td>
-      </tr>
-    </tbody></table>
-  
-  
-  
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+menu[2] = new Array();
+menu[2][0] = new Menu(true, '&gt;&gt;', 0, 21, 150, defOver, defBack, 'itemBorder', 'itemText');
+menu[2][1] = new Item('&nbsp;&#149;&nbsp;FXtrek Desktop', '/members/signup.asp#1', defLength, 0, 0);
+menu[2][2] = new Item('&nbsp;&#149;&nbsp;FXtrek Online', '/members/signup.asp#2', defLength, 0, 6);
+menu[2][3] = new Item('&nbsp;&#149;&nbsp;Forex Trading', '/members/signup.asp#3', defLength, 0, 0);
+menu[3] = new Array();
+menu[3][0] = new Menu(true, '', 0, 21, 170, defOver, defBack, 'itemBorder', 'itemText');
+menu[3][1] = new Item('&nbsp;&#149;&nbsp;Introduction', '/dealing/overview.asp', defLength, 0, 0);
+menu[3][2] = new Item('&nbsp;&#149;&nbsp;Benefits', '/dealing/benefit.asp', defLength, 0, 0);
+menu[3][3] = new Item('&nbsp;&#149;&nbsp;Dealing Guide', '/dealing/handbook.asp', defLength, 0, 0);
+menu[3][4] = new Item('&nbsp;&#149;&nbsp;Download&nbsp;Dealing&nbsp;Software', '/dealing/support.asp', defLength, 0, 0);
+menu[3][5] = new Item('&nbsp;&#149;&nbsp;Mini Account', '/dealing/miniaccount.asp', defLength, 0, 0);
+menu[3][6] = new Item('&nbsp;&#149;&nbsp;Free Demo Account', '/dealing/freeaccount.asp?atype=R', defLength, 0, 0);
+menu[3][7] = new Item('&nbsp;&#149;&nbsp;Open Account', '/dealing/openaccount.asp', defLength, 0, 0);
+menu[4] = new Array();
+menu[4][0] = new Menu(true, '', 0, 21, 150, defOver, defBack, 'itemBorder', 'itemText');
+menu[4][1] = new Item('&nbsp;&#149;&nbsp;Contents', '/universityEN/default.asp', defLength, 0, 0);
+menu[4][2] = new Item('&nbsp;&#149;&nbsp;Introduction', '/universityEN/introduction.asp', defLength, 0, 0);
+menu[4][3] = new Item('&nbsp;&#149;&nbsp;Technical Indicators', '/universityEN/tech_tra/tech_trading_strategy01.asp', defLength, 0, 0);
+menu[4][4] = new Item('&nbsp;&#149;&nbsp;Risk Management', '/universityEN/risk_management.asp', defLength, 0, 0);
+
+menu[5] = new Array();
+menu[5][0] = new Menu(true, '', 0, 21, 150, defOver, defBack, 'itemBorder', 'itemText');
+menu[5][1] = new Item('&nbsp;&#149;&nbsp;FAQ', '/aboutEN/faqs.asp', defLength, 0, 0);
+menu[5][2] = new Item('&nbsp;&#149;&nbsp;Technical FAQ', '/aboutEN/technicalfaqs.asp', defLength, 0, 0);
+menu[5][3] = new Item('&nbsp;&#149;&nbsp;Products', '/Members/signup.asp', defLength, 0, 0);
+menu[5][4] = new Item('&nbsp;&#149;&nbsp;About FXtrek', '/aboutEN/company.asp', defLength, 0, 0);
+//menu[5][5] = new Item('&nbsp;&#149;&nbsp;Press Room', '#', defLength, 0, 0);
+menu[5][5] = new Item('&nbsp;&#149;&nbsp;Contact Us', '/home/contact.asp', defLength, 0, 0);
+menu[6] = new Array();
+menu[6][0] = new Menu(true, '', 151, 0, 120, '#ffffff', '#B0DFD2', 'itemBorder', 'submenuText');
+menu[6][1] = new Item('&nbsp;&nbsp;IntelliChart Online', '/tradePanel/default.asp', 20, 0, 0);
+menu[6][2] = new Item('&nbsp;&nbsp;StreamTrek', '/streamtrek/default.asp', 20, 0, 0);
+
+
+setMenus();
+
+// -->
+</script>
+
+<link href="/default.css" rel="stylesheet">
+
+
+
+
+
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
   <tbody><tr>
-    <td background="/images/common/subMenuBackground1.gif"><img src="/images/common/space.gif" width="1" height="4"></td>
+    <td><a href="/default.asp"><img height="75" src="/images/home/logo.jpg" width="354" border="0"></a></td>
+    <td width="100%" background="/images/home/backgroundUp.gif">&nbsp;</td>
+    <td background="/images/common/backgroundUp.gif"><img height="75" src="/images/home/bubble.jpg" width="388"></td>
+  </tr>
+</tbody></table>
+<div id="wide"> 
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td bgcolor="#eaebd8"><img src="/images/common/space.gif" width="1" height="1"></td>
+		</tr>
+	</tbody></table>
+</div> 
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+  <tbody><tr>
+    <td bgcolor="#ffcc66" colspan="6"><img height="1" src="/images/common/space.gif" width="1"></td>
+  </tr>
+  <tr>
+    <td><img height="20" src="/images/common/logoHomeL.gif" width="124" border="0"></td>
+    <td bgcolor="#007f65"><img height="20" src="/images/common/space.gif" width="476" border="0"></td>
+    <td bgcolor="#000000"><a href="/defaultCT.asp"><img height="20" src="/images/home/chineseBut.gif" width="52" border="0"></a></td>
+    <td bgcolor="#007f65"><img height="20" src="/images/home/space.gif" width="1"></td>
+    <td><img height="20" src="/images/home/logoHome_on.gif" width="30"><img id="IMG2" height="20" src="/images/home/logoHome.gif" width="87"></td>
+    <td width="100%" background="/images/home/logoHomeBackground.gif"><img height="20" src="/images/home/space.gif" width="1"></td>
+  </tr>
+  <tr>
+    <td bgcolor="#ffcc66" colspan="6"><img height="1" src="/images/common/space.gif" width="1"></td>
+  </tr>
+  <tr>
+    <td bgcolor="#000000" colspan="6"><img height="1" src="images/space.gif" width="1"></td>
   </tr>
 </tbody></table>
 
+<!-- end of havbar_eninc.asp -->
 <!-- End Horizontal Nav Bar -->
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -237,8 +300,7 @@ function MM_swapImage()
     <i><b>Voluntary Submissions</b></i><br>
     FXtrek.com’s registration form asks users to voluntarily provide us with contact 
     information such as street address, e-mail, telephone number, as well as demographic 
-    information. The mailing address and credit card numbers are required only for Silver Package and Gold 
-    Package subscribers for credit card processing purposes, and NO secondary correspondences 
+    information. The mailing address and credit card numbers are required only for FXtrek subscribers for credit card processing purposes, and NO secondary correspondences 
     will be sent to them via US mail. We use the information to help us improve our services, 
     to provide you with products and services you have requested, and to inform you about 
     additional products or services that may be of interest to you (see the 
@@ -313,8 +375,7 @@ function MM_swapImage()
 
     </p><p>
     <i><b>Billing and Credit Card Information </b></i><br>
-    The secured servers of AuthorizeNet.com handle the billing transactions for the Silver Package and Gold 
-    Package subscriptions. For more information, please visit its website at 
+    The secured servers of AuthorizeNet.com handle the billing transactions for the FXtrek subscriptions. For more information, please visit its website at 
     <a href="http://www.authorizenet.com">http://www.authorizenet.com</a>.
 
     </p><p>
@@ -410,7 +471,7 @@ function MM_swapImage()
 
 
 
-<layer src="http://ad.doubleclick.net/adl/tradetrek/;sz=1x1;ord=55746827764469150?" width="1" height="1" visibility="hidden" onload="moveToAbsolute(layer1.pageX,layer1.pageY);clip.height=1;clip.width=1; visibility='show';"></layer>
+<!--<LAYER SRC="http://ad.doubleclick.net/adl/tradetrek/;sz=1x1;ord=55746827764469150?" width=1 height=1 visibility="hidden" onLoad="moveToAbsolute(layer1.pageX,layer1.pageY);clip.height=1;clip.width=1; visibility='show';"></LAYER>-->
 
 
 
@@ -423,7 +484,7 @@ function MM_swapImage()
     <td><img src="/images/common/space.gif" width="5" height="52"></td>
     <td width="45%">
 	    <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#B0DFD2"><b>Copyright 
-      © 2001 FXtrek.com</b></font><b><br>
+      © 2001-2002 FXtrek.com</b></font><b><br>
       <a href="/members/disclaimer.asp"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#CCCCCC"><b>Disclaimer</b></font></a></b></div></td>
     
     <!--
