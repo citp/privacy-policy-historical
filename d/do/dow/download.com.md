@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the download.com privacy policy that was archived on 2004-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040627083451id_/http%3A//www.cnet.com/html/aboutcnet/editorial/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the download.com privacy policy that was archived on 2004-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041230105833id_/http%3A//www.cnet.com/html/aboutcnet/editorial/privacy.html) for the most accurate reproduction.*
 
 # Editorial Center - CNET Networks.com
 
@@ -16,6 +16,16 @@ We take your privacy seriously. Because we gather certain types of information a
 Our primary goal in collecting personal information is to provide you with the best and most useful content and services. Because we derive revenue mainly from advertising, collecting information is essential to keeping our services affordable to users.
 
 We collect personally identifiable information when you provide it to us, such as when you register on one of our sites, when you subscribe for a print magazine or an e-mail newsletter or when you register to use certain services. Several of the services that we offer on our sites, such as auctions and message boards, may require registration as a condition of use. Once you register with one of our CNET Networks sites you are no longer anonymous to us. We may also receive information about you from other sources and add it to the information you provided to us.
+
+This personally identifiable information is limited to: 
+
+  1. First and last name
+  2. Address, including street name & city
+  3. Email address
+  4. Telephone number
+  5. Credit card information in the event a user purchases products or services online
+
+
 
 **2\. What is CNET Networks' practice regarding cookies?**  
 Your Internet browser has a feature called "cookies" which stores small amounts of data on your computer about your visit to any of our sites. You do not need to have cookies turned on to visit most of our sites, although active participation in certain areas of our sites may require cookies. Cookies alone tell us nothing about who you are unless you specifically give us personally identifiable information when, in which case we use the information to enhance your services in the ways described below. You may elect not to allow cookies to be collected by adjusting your settings on your browser. 
@@ -49,7 +59,7 @@ We will make your personally identifiable information available to other compani
   * We have your consent to share the information 
   * We have engaged companies to work with us or on our behalf to provide a product or service that you have requested, such as opt-in e-mail announcements 
   * You use co-branded services. When you use a co-branded service within our network of sites you grant us permission to pass your registration information back to that service partner. Their use of your information is subject to their applicable privacy policies. 
-  * We respond to subpoenas, court orders, or legal process; or we believe that your actions violate applicable laws, CNET Networks' [Terms of Use](https://web.archive.org/web/20040627083451id_/http%3A//www.cnet.com/html/aboutcnet/editorial/terms.html) or any usage guidelines for specific products or services, or threaten the rights, property, or safety of our company, our users, or others 
+  * We respond to subpoenas, court orders, or legal process; or we believe that your actions violate applicable laws, CNET Networks' [Terms of Use](https://web.archive.org/web/20041230105833id_/http%3A//www.cnet.com/html/aboutcnet/editorial/terms.html) or any usage guidelines for specific products or services, or threaten the rights, property, or safety of our company, our users, or others 
 
 _Aggregate information_  
 We aggregate personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing, promotional, and other purposes. We do not disclose to these entities any information that could be used to identify you personally.
@@ -67,8 +77,8 @@ We also give users the following options:
   * Opting not to receive our electronic newsletters or those of third parties when registering. Users who opt-in may remove themselves from mailing lists at any time through the subscription management pages or by following the instructions at the end of the e-mail they received from us;
   * Opting not to provide certain personal information when registering for a site, provided, however that you may not be able to utilize certain of our products or services without providing us with certain information.
 
-**6\. How can I update my personally identifiable information?**  
-You can correct or change the information collected during registration for any of our sites. The instructions for doing this can be found in our member services areas. Users may change information at any time and as often as necessary. Users who are experiencing problems with our services or who have questions about how our services work can contact us using e-mail addresses at the bottom of this page. Currently, we do not offer users a means by which to completely delete personal information established at the time of registration.
+**6\. How can I review and update my personally identifiable information?**  
+You can review, correct or change the information collected during registration for any of our sites. The instructions for doing this can be found in our member services areas. Users may change information at any time and as often as necessary. Users who are experiencing problems with our services or who have questions about how our services work can contact us using e-mail addresses at the bottom of this page. Currently, we do not offer users a means by which to completely delete personal information established at the time of registration.
 
 _Places to update personal information on CNET Networks sites_ **7\. How will I know if the privacy policy is changed?**  
 Any modifications to our privacy practices will be reflected first within this area of our network of Web sites. If there is a material change in our privacy practices, we will indicate on our sites that our privacy practices have changed and provide a link to the new privacy statement. If we are going to be using the information collected from users in a manner materially different from that stated at the time of collection we will send affected users written notice by email of the change.
@@ -81,7 +91,7 @@ Questions regarding this privacy statement, or regarding any other aspects of ou
 
 [Click here](http://www.cnet.com/cnetsupport/contact/1,10161,0-3945,00.html) to contact us regarding a privacy issue. Please include the brand you are referring to in your e-mail to us. 
 
-Updated July 2003
+Updated September 2004
 
   
 |  |  | 
