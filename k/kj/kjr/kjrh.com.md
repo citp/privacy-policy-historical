@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kjrh.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202080400id_/http%3A//www.teamtulsa.com/aboutus/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kjrh.com privacy policy that was archived on 2001-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010408221906id_/http%3A//www.teamtulsa.com/help2/privacy.shtml) for the most accurate reproduction.*
 
-# Team Tulsa: News, Weather, Sports, Business, Entertainment and Shopping for Tulsa, Oklahoma
+# Team Tulsa: News Weather Sports Business and Entertainment for Tulsa Oklahoma
 
-**[](http://www.teamtulsa.com/aboutus/aboutteamtulsa/index.shtml)**
+****
 
 The TeamTulsa Privacy Policy  
 **TeamTulsa** is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At TeamTulsa **** we intend to give you as much control as possible over your personal information.
@@ -33,7 +33,7 @@ We do not share personal identifying information with any third party without yo
 
 **IV. Accuracy of User Information**
 
-In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to [doldham@teamtulsa.com](mailto:doldham@teamtulsa.com), or you can reach us by telephone at (918)748-1560. You can also write us at:
+In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to [rmills@teamtulsa.com](mailto:rmills@teamtulsa.com), or you can reach us by telephone at (918)748-1560. You can also write us at:
 
 TeamTulsa  
 3701 S. Peoria Ave.  
@@ -52,4 +52,4 @@ At any time while assessing our site(s), any user while online may "opt-out" of 
 
 **VII. Use of Materials**
 
-The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at rstewart@teamtulsa.com. To link to the full Terms of Use Agreement pertaining to use of our site(s), please [**click here**](http://www.teamtulsa.com/aboutus/user.shtml).
+The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at rstewart@teamtulsa.com. To link to the full Terms of Use Agreement pertaining to use of our site(s), please [**click here**](http://www.teamtulsa.com/help2/user.shtml).
