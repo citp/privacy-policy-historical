@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the candidinfo.com privacy policy that was archived on 2001-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011203184415id_/http%3A//candidinfo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candidinfo.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609133729id_/http%3A//www.candidinfo.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy of Candidinfo an Indian website
+# Privacy Policy of Candidinfo an Indian website - Your Information Powerhouse
 
-**Privacy Statement for www.candidinfo.com**
+#### **Privacy Statement for www.candidinfo.com**
 
 **Candid Infosys** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.candidinfo.com.
 
@@ -18,7 +18,7 @@ Candidinfo's online surveys ask visitors for contact information (like their ema
 
 We run contests on our site in which we ask visitors for contact information (like their email address) and demographic information (like their zip code, age, or income level). We use contact data from our contests to send users information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences.
 
-**Children's Guidelines**
+##### **Children's Guidelines**
 
   1. NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent.
   2. NOT collect personally identifiable offline contact information without prior parental consent.
@@ -37,7 +37,7 @@ This site gives users the following options for removing their information from 
 
 
 
-**Correct/Update**
+#### **Correct/Update**
 
 This site gives users the following options for changing and modifying information previously provided. 
 
@@ -45,9 +45,18 @@ This site gives users the following options for changing and modifying informati
 
 
 
-**Contacting the Web Site**
+#### **Contacting the Web Site**
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
 _Admin:  
-[info@candidinfo.com](mailto:%20info@candidinfo.com)_
+[info@candidinfo.com](mailto:%20info@candidinfo.com)
+
+Postal Address:  
+21, New Mohan Puri  
+Meerut - 250001  
+Uttar Pradesh  
+INDIA  
+Ph: 91-121-645421
+
+_
