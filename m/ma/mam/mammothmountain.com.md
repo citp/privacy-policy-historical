@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mammothmountain.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603214051id_/http%3A//www.mammothmountain.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mammothmountain.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008113721id_/http%3A//mammothmountain.com/privacy.cfm) for the most accurate reproduction.*
 
 # Mammoth Mountain:Privacy Statement
 
@@ -50,7 +50,7 @@ We may ask for an age or birth date when applicable for guest identification and
 
 ## Changing Profile and Opting Out
 
-If you chose to not receive promotional material or special offers from us including but not limited to e-mail, direct mail or telephone, we ask that you tell us by opting out if given the choice or by calling us at 760-934-0745. You have the ability to create a guest profile by [clicking here](https://web.archive.org/web/20030603214051id_/http%3A//www.mammothmountain.com/login/signmeup.cfm) and creating a personal preferences profile. Creating a guest profile enables you to customize your interaction with Mammoth by choosing or changing your preferences, updating your information, opting in or out of direct mail and e-mail communication at any time.
+If you chose to not receive promotional material or special offers from us including but not limited to e-mail, direct mail or telephone, we ask that you tell us by opting out if given the choice or by calling us at 760-934-0745. You have the ability to create a guest profile by [clicking here](https://web.archive.org/web/20031008113721id_/http%3A//mammothmountain.com/login/signmeup.cfm) and creating a personal preferences profile. Creating a guest profile enables you to customize your interaction with Mammoth by choosing or changing your preferences, updating your information, opting in or out of direct mail and e-mail communication at any time.
 
 Please note that in the case of newsletters or mailing lists, you will be able to unsubscribe from these mailings at any time by updating your preferences in your guest profile.
 
