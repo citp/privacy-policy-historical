@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activewin.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610213556id_/http%3A//www.activewin.com/terms/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activewin.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204230425id_/http%3A//www.activewin.com/terms/privacy.shtml) for the most accurate reproduction.*
 
 # ActiveWin: Privacy Policy
 
@@ -164,7 +164,7 @@ Halo (PC)
   
 **Xbox**  
   
-Amped 2  
+Mafia   
   
 Rainbow 6: 3  
   
@@ -176,9 +176,15 @@ Office 2003
   
 **Hardware**  
   
+Logitech's Cordless Optical Mouse for Notebooks   
+  
 Apple iPod  
   
-Logitech Quickcam Pro 4000  
+** Latest Interviews**  
+  
+Steve Ballmer  
+  
+Todd Greenberg  
   
 ** Site News/Info**  
   
