@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newengland.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207220300id_/http%3A//www.yankeemagazine.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newengland.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602200640id_/http%3A//www.yankeemagazine.com/privacy.php) for the most accurate reproduction.*
 
 # Yankee Magazine - Privacy Policy
 
@@ -8,7 +8,7 @@ Yankee Publishing Inc. respects your right to privacy.
 
 We use the information you supply us in different ways. We use your survey responses and feed-back e-mail to help us improve the content and experience offered to our Web users. And we use your contact information to interact with you (if that was your intention). 
 
-We will only save your contact information if you indicate that you would like to be updated on new offerings about our Web site. In this case we will add your name to the subscription list for our e-mail newsletter, which we send out periodically. You can remove your name from this list by following the instructions in the newsletter text. 
+We will save your contact information to occasionally update you on new offerings about our Web site. If you sign up for our newsletter we will add your name to the subscription list for our e-mail newsletter, which we send out bi-monthly. You can remove your name from this list by following the instructions in the newsletter text. 
 
 We use cookies to enhance your visit to our site and for internal reporting. If you are visiting our store, we also use cookies to maintain your order in our shopping cart. 
 
