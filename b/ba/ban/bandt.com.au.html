@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bandt.com.au privacy policy that was archived on 2001-08-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010816115709id_/http%3A//bandt.com.au/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bandt.com.au privacy policy that was archived on 2002-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021207213718id_/http%3A//www.bandt.com.au/privacypolicy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>B&amp;T: Privacy Policy</title>
@@ -122,6 +122,29 @@ if (blnDate==1) {
 //Banners[1][1] = "http://203.6.199.68/ss?click&bandt&39d04c3e";    // banner 2 URL
 
 //-->
+
+var Verified=false;
+function isEmailAddress(sIn) {
+	return (sIn.search(/@\S+\.\w/) > 0)
+}
+function SubmitEmail(type) {
+	if (document.ENEWSREG['emailtoreg'+type].value=="") {
+		alert("You must enter a valid email address first.");
+		document.ENEWSREG['emailtoreg'+type].focus();
+		/*document.ENEWSREG['emailtoreg'+type].focus();*/
+		Verified=false;
+		return;
+	}
+	if (type==1) {document.ENEWSREG.RegType.value="RE";} else {document.ENEWSREG.RegType.value="UN";}
+	Verified=isEmailAddress(document.ENEWSREG['emailtoreg'+type].value)
+	if (Verified) {
+		 OpenWindow=window.open("http://www.bandt.com.au/eNewsletter/EmailLink.asp?txtEmail=" + document.ENEWSREG['emailtoreg'+type].value + "&RegType=" + document.ENEWSREG.RegType.value,"newwin","toolbar=no,location=no,directories=no,menubar=no,scrollbars=yes,resizable=1,width=650,height=250");
+	}else{
+		alert("Invalid email address format!");
+		document.ENEWSREG['emailtoreg'+type].focus();
+	}
+}
+
 </script>
 <link rel="stylesheet" href="/styles/template.css">
 
@@ -130,15 +153,7 @@ if (blnDate==1) {
 
 <body background="images/back_red_04.gif" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" bgcolor="#000066" onload="PreloadImages()">
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">  <tbody><tr valign="top">     <td> <!-- HEADER -->      <table width="100%" border="0" cellspacing="0" cellpadding="0">        <tbody><tr>          <td valign="top">            <img src="/images/head_03.gif"> </td>          <td valign="bottom">            <div align="right"><a href="/clickthrough.asp?redirect=%2Fsupplements%2Easp" target="_self"><img src="/images/ani_bt_01.gif" width="150" height="53" border="0"></a></div>          </td>          <td valign="top" width="10">&nbsp;</td>        </tr>      </tbody></table>      <table width="100%" border="0" cellspacing="0" cellpadding="10">        <tbody><tr>          <td>            <table width="100%" border="0" cellspacing="0" cellpadding="0">              <tbody><tr valign="top"><td colspan="7"><a href="/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image1','','/images/tabs_bt_01_r.gif',1)"><img name="Image1" border="0" src="/images/tabs_bt_01_n.gif" width="49" height="22" alt="B&amp;T Marketing and Media"></a><a href="/elinks.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2','','/images/tabs_bt_02_r.gif',1)"><img name="Image2" border="0" src="/images/tabs_bt_02_n.gif" width="60" height="22" alt="E-links"></a><a href="/jobs.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image3','','/images/tabs_bt_03_r.gif',1)"><img name="Image3" border="0" src="/images/tabs_bt_03_n.gif" width="40" height="22" alt="Jobs, jobs, and more jobs"></a><a href="/publications.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image4','','/images/tabs_bt_04_r.gif',1)"><img name="Image4" border="0" src="/images/tabs_bt_04_n.gif" width="89" height="22" alt="B&amp;T Marketing and Media Publications"></a><a href="/advertisers.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5','','/images/tabs_bt_05_r.gif',1)"><img name="Image5" border="0" src="/images/tabs_bt_05_n.gif" width="82" height="22" alt="Information for Advertisers"></a><a href="/contacts.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image6','','/images/tabs_bt_06_r.gif',1)"><img name="Image6" border="0" src="/images/tabs_bt_06_n.gif" width="69" height="22" alt="The B&amp;T Marketing and Media Group"></a><a href="/about.asp"><img name="Image7" border="0" src="/images/tabs_bt_07_r.gif" width="69" height="22" alt="About Us"></a></td>      </tr>      <tr valign="top">         <td colspan="7" bgcolor="#FFFFFF">           <div align="right"><img src="/images/right_red.gif" width="15" height="15"></div>        </td>      </tr><!-- /HEADER--><!-- LEFT HAND COLUMN -->      <tr valign="top">         <td width="10" bgcolor="#FFFFFF"><img src="/images/clear.gif" width="10" height="15"></td>        <td width="125" bgcolor="#d3d3d3">           <table width="125" border="0" cellspacing="0" cellpadding="0">            <tbody><tr valign="top">              <td><img src="/images/nav_head_sm_07a.gif" width="125" height="30"><table border="0" cellpadding="1" cellspacing="1"><tbody><tr><td align="left"><form name="SEARCHSITE" method="get" action="/search.asp"><input type="hidden" name="action" value="search"><select name="type"><option selected="" value="news">News</option></select><br><input type="text" name="qu" size="10" maxlength="40" value=""><input type="image" alt="GO" border="0" height="24" src="/images/go.gif" width="31"></form></td></tr></tbody></table><p></p>
-	<iframe src="http://ad.au.doubleclick.net/adi/btonline_ADV/;bmcc=redirect_120x60_emarketing;sz=120x60;ord=13375912?" name="frame1" width="120" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
-	<SCRIPT language="JavaScript1.1" SRC="http://ad.au.doubleclick.net/adj/btonline_ADV/;abr=!ie;bmcc=redirect_120x60_emarketing;sz=120x60;ord=13375912?">
-	</SCRIPT>
-	<NOSCRIPT>
-	<A HREF="http://ad.au.doubleclick.net/jump/btonline_ADV/;abr=!ie;bmcc=redirect_120x60_emarketing;sz=120x60;ord=13375912?"><IMG SRC="http://ad.au.doubleclick.net/ad/btonline_ADV/;abr=!ie;bmcc=redirect_120x60_emarketing;sz=120x60;ord=13375912?" border=0 height="60" width="120"></A>
-	</NOSCRIPT>
-	</iframe>
-	<p align="center"><a href="http://ad.au.doubleclick.net/jump/www.bandt.com.au/;sect=resource2;sz=120x60;ord=21:59:48?" target="_new"> <img src="http://ad.au.doubleclick.net/ad/www.bandt.com.au/;sect=resource2;sz=120x60;ord=21:59:48?" border="0" width="120" height="60" alt="find a job!"></a></p><p align="center"><a href="/clickthrough.asp?redirect=%2Fenewsletter%2Easp" target="_self"><img src="images/ads/ad_bt_02.gif" width="115" height="60" border="0"></a></p><p align="center"><a href="/clickthrough.asp?redirect=%2Fsubs%5Fintro%2Easp" target="_self"><img src="images/ads/ad_bt_04.gif" width="115" height="60" border="0"></a></p><p align="center"><a href="/clickthrough.asp?redirect=%2Fsubs%5Fintro%2Easp" target="_self"><img src="../../images/ads/ad_bt_01.gif" width="115" height="60" border="0"></a></p>              </td>            </tr>          </tbody></table>        </td>        <td width="10" bgcolor="#FFFFFF"><img src="/images/clear.gif" width="10" height="15"></td><!-- /LEFT HAND COLUMN --><!-- MIDDLE COLUMN-->        <td width="100%" bgcolor="#FFFFFF">           <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">            <tbody><tr bgcolor="#FFFFFF">              <td>                <div align="center"><a href="/clickthrough.asp?redirect=http%3A%2F%2Fwww%2Eaustraliandoctor%2Ecom%2Eau" target="_blank"><img src="/images/banners/ausdoc-banner.gif" alt="www.australiandoctor.com.au" border="0"></a><br>                <img src="/images/clear.gif" width="15" height="10"></div>              </td>            </tr>          </tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">  <tbody><tr valign="top">     <td> <!-- HEADER -->      <table width="100%" border="0" cellspacing="0" cellpadding="0">        <tbody><tr>          <td valign="top">            <img src="/images/head_03.gif"> </td>          <td valign="bottom">            <div align="right"><a href="/clickthrough.asp?redirect=%2Fsupplements%2Easp" target="_self"><img src="/images/ani_bt_01.gif" width="150" height="53" border="0"></a></div>          </td>          <td valign="top" width="10">&nbsp;</td>        </tr>      </tbody></table>      <table width="100%" border="0" cellspacing="0" cellpadding="10">        <tbody><tr>          <td>            <table width="100%" border="0" cellspacing="0" cellpadding="0">              <tbody><tr valign="top"><td colspan="7"><a href="/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image1','','/images/tabs_bt_01_r.gif',1)"><img name="Image1" border="0" src="/images/tabs_bt_01_n.gif" width="49" height="22" alt="B&amp;T Marketing and Media"></a><a href="/elinks.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2','','/images/tabs_bt_02_r.gif',1)"><img name="Image2" border="0" src="/images/tabs_bt_02_n.gif" width="60" height="22" alt="E-links"></a><a href="/careers.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image3','','/images/tabs_bt_03_r.gif',1)"><img name="Image3" border="0" src="/images/tabs_bt_03_n.gif" width="89" height="22" alt="Careers"></a><a href="/publications.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image4','','/images/tabs_bt_04_r.gif',1)"><img name="Image4" border="0" src="/images/tabs_bt_04_n.gif" width="89" height="22" alt="B&amp;T Marketing and Media Publications"></a><a href="/advertisers.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5','','/images/tabs_bt_05_r.gif',1)"><img name="Image5" border="0" src="/images/tabs_bt_05_n.gif" width="82" height="22" alt="Information for Advertisers"></a><a href="/contacts.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image6','','/images/tabs_bt_06_r.gif',1)"><img name="Image6" border="0" src="/images/tabs_bt_06_n.gif" width="69" height="22" alt="The B&amp;T Marketing and Media Group"></a><a href="/about.asp"><img name="Image7" border="0" src="/images/tabs_bt_07_r.gif" width="69" height="22" alt="About Us"></a><a href="/classifieds.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image8','','/images/tabs_bt_08_r.gif',1)"><img name="Image8" border="0" src="/images/tabs_bt_08_n.gif" width="89" height="22" alt="Classifieds"></a></td>      </tr>      <tr valign="top">         <td colspan="7" bgcolor="#FFFFFF">           <div align="right"><img src="/images/right_red.gif" width="15" height="15"></div>        </td>      </tr><!-- /HEADER--><!-- LEFT HAND COLUMN -->      <tr valign="top">         <td width="10" bgcolor="#FFFFFF"><img src="/images/clear.gif" width="10" height="15"></td>        <td width="125" bgcolor="#d3d3d3">           <table width="125" border="0" cellspacing="0" cellpadding="0">            <tbody><tr valign="top">              <td><img src="/images/nav_head_sm_07a.gif" width="125" height="30"><table border="0" cellpadding="1" cellspacing="1"><tbody><tr><td align="left"><form name="SEARCHSITE" method="get" action="/search.asp"><input type="hidden" name="action" value="search"><select name="type"><option selected="" value="news">News</option></select><br><input type="text" name="qu" size="10" maxlength="40" value=""><input type="image" alt="GO" border="0" height="24" src="/images/go.gif" width="31"></form></td></tr></tbody></table><img src="/images/enews_BandT.gif" width="125" height="22"><br><div align="center"><table border="0" cellpadding="1" cellspacing="1"><tbody><tr><td align="center"><font face="arial" size="1">Enter email to register</font></td></tr><tr><td><form name="ENEWSREG" method="get" onsubmit="SubmitEmail(1);"><input type="hidden" name="RegType" value=""><input type="text" name="emailtoreg1" size="10" maxlength="50"><input type="image" alt="Enter your e-mail here to receive breaking news each day with the free B&amp;T daily e-newsletter" border="0" src="/images/go.gif" id="1" name="1"></form></td></tr></tbody></table><p></p>				<p align="center"><a href="/clickthrough.asp?redirect=http://www.ibcoz.com.au/advertising" target="_new"> <img src="/images/banners/ibcoz_button.gif" border="0" width="120" height="60"></a></p><p>				</p><p align="center"><a href="/clickthrough.asp?redirect=/AstraCFE.pdf" target="_new"> <img src="/images/banners/AstraAnimated.gif" border="0" width="120" height="60"></a></p><p>				</p><p align="center"><a href="/clickthrough.asp?redirect=http://www.corporategift.com.au" target="_new"> <img src="/images/banners/tradeshow_button.gif" border="0" width="120" height="60"></a></p><p>              </p></div></td>            </tr>          </tbody></table>        </td>        <td width="10" bgcolor="#FFFFFF"><img src="/images/clear.gif" width="10" height="15"></td><!-- /LEFT HAND COLUMN --><!-- MIDDLE COLUMN-->        <td width="100%" bgcolor="#FFFFFF">           <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">            <tbody><tr bgcolor="#FFFFFF">              <td>                <div align="center"><a href="/clickthrough.asp?redirect=https://secure.reedbusiness.com.au/414318/lb_BT_Yearbook/BT_Yearbook_AU.htm" target="_new"><img src="/images/banners/bandt_dir_2003_banner.gif" border="0" height="60" width="468"></a><br>                <img src="/images/clear.gif" width="15" height="10"></div>              </td>            </tr>          </tbody></table>
 <!-- cut and paste the line below when international news goes online -->
 <!--		Response.Write("<a href=""/news.asp?type=international""	onMouseOut=""MM_swapImgRestore()"" onMouseOver=""MM_swapImage('Image28','','/images/but_left_sm_bt_01h_r.gif',1)""><img name=""Image28"" border=""0"" src=""/images/but_left_sm_bt_01h_n.gif"" width=""120"" height=""23""></a><br>")-->
 
@@ -146,156 +161,70 @@ if (blnDate==1) {
 <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#CC0000" height="18">
 <tbody><tr>
 	<td valign="middle" align="left" height="18"><font class="pagetitle">&nbsp;&nbsp;Privacy Policy</font></td>
-	<td valign="middle" align="right" height="18"><font class="pagetitle">August 16, 2001&nbsp;&nbsp;</font></td>
+	<td valign="middle" align="right" height="18"><font class="pagetitle">December 8, 2002&nbsp;&nbsp;</font></td>
 </tr>
 </tbody></table>
 
-
-
-<meta http-equiv="Content-Type" content="text/html; charset=unicode">
-<meta content="MSHTML 5.50.4134.600" name="GENERATOR">
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
-  <td colspan="100">
-	<table width="100%" border="0" cellspacing="0" cellpadding="3">
-	<tbody><tr>
-	  <td colspan="100"><font class="space">&nbsp;</font></td>
-	</tr>
-	<tr>
-	  <td colspan="100"><font class="subheading">Reed Business Information Privacy Policy - April 2000</font></td>
-	</tr>
-	<tr>
-	  <td colspan="100"><font class="space">&nbsp;</font></td>
-	</tr>
-	<tr>
-	  <td colspan="100">
-	  <p align="justify"><font class="newsheading">What does this Policy Cover?</font></p><p align="justify">
-	  <font class="defaulttext">This Privacy Policy for<font class="bdefaulttext"> www.bandt.com.au</font>, 
-	  a marketing and media product of Reed Business Information, a division of Reed Elsevier
-	   Inc., applies solely to this particular Web site. Other Reed Business Information affiliated Web sites may have 
-	   different privacy policies and/or practices.
-	  </font></p><p align="justify"><font class="defaulttext">
-	  This Policy guides how we collect, store and use information about customers and prospects, and will be continuously 
-	  assessed against new technologies, business practices and our customers' changing needs. We may change our privacy 
-	  practices from time to time. If we make any changes, we'll update this privacy statement accordingly (the date of 
-	  the most recent change is displayed at the top of this statement).
-	  </font></p>
+  <td>
+		<p><font class="defaulttext">&nbsp;</font></p><font class="defaulttext">
+		<p>Reed Elsevier Australia Pty Limited and its related companies (“the Reed Group”) have a firm commitment to privacy in accordance with the Privacy Amendment (Private Sector) Act 2000, which takes effect in December 2001.</p>
+		<p>This privacy policy covers all personal information that we hold.</p>
+		<p><font class="newsheading">Collection of information</font></p>
+		<p>Whenever we collect personal information from you we will do so in a lawful and fair way. We will also advise you how and where to contact us.</p>
+		<p>If we collect the information from a third party we will take reasonable steps to advise you of that collection promptly.</p>
+		<p>We will tell you why we are collecting the information and the third parties to whom we usually disclose that information.</p>
+		<p>If you do not wish to provide the information we request, we will tell you what impact this will have.</p>
+		<p><font class="newsheading">Disclosing information </font></p>
+		<p>We will only disclose personal information in accordance with the Act. This means that it will be disclosed if:</p>
+		<ul type="square">
+			<li>we told you when collecting it that it would be disclosed for that purpose or for a related purpose that you would reasonably expect;</li>
+			<li>we have your consent;</li>
+			<li>it is part of business assets which we are selling;</li>
+			<li>we are required by law to disclose it; or</li>
+			<li>it is otherwise permitted under the Act</li>
+		</ul>
+		<p><font class="newsheading">Opt Out</font></p>
+		<p>We will provide you with a low cost way of contacting us if you wish to opt out from receiving further marketing offers. </p>
+		<p>In accordance with the Act, direct marketing offers will contain an opportunity to opt out.</p>
+		<p><font class="newsheading">Quality of information </font></p>
+		<p>We will take reasonable steps to ensure that the information that we collect, use and disclose is accurate, complete and up to date.</p>
+		<p><font class="newsheading">Security</font></p>
+		<p>We are committed to protecting your privacy and will take reasonable steps to ensure that the information we collect is protected from loss and misuse and from unauthorised access, modification and disclosure.  </p>
+		<p><font class="newsheading">Access to the information we hold</font></p>
+		<p>You can access your personal information upon request. However, there are occasions when this access may be denied under the exemptions contained in the Act.</p>
+		<p><font class="newsheading">Availability of policy</font></p>
+		<p>This policy is available upon request. It will be reviewed from time to time and any  amendments will be included in the updated policy.</p>
+		<p><font class="newsheading">Privacy inquiries </font></p>
+		<p>If you have any questions about this privacy policy, any privacy related dealings with us or a possible breach of your privacy or would like further information about our information management practices, you can contact:</p>
+		<p>Mary Alice Bannister
+			<br>Reed Elsevier Australia Pty Limited
+			<br>Tower 2, 475 Victoria Avenue or Locked Bag 2001 Chatswood Delivery Centre
+			<br>CHATSWOOD NSW 2067
+			<br>AUSTRALIA</p>
+		<p>Phone 02 9422 2002
+			<br>Fax 02 9422 2682</p>
 
-	  <p align="justify"><font class="newsheading"> Our Use of Cookies</font></p><p align="justify">
-	  <font class="defaulttext">
-	                    
-	      Our Web site uses ad servers to serve the advertisements that you see on pages of our Web 
-	  site. Our web site along with thousands of other web sites uses cookies to enhance your 
-	  web viewing experience.
-	  </font>
-            </p><p align="justify"><font class="defaulttext">Cookies are not programs that come onto a 
-            user's system and damage files. A cookie is a small text file that 
-            includes a unique number. The Ad Server records that records that 
-            number in the cookie file of your computer, and allows us to 
-            remember your browser on a repeat visit. The cookie helps the Ad 
-            Server to serve ads to you that are better tailored to your needs 
-            and interests.</font>
-            </p><p align="justify"><font class="defaulttext">We are committed to giving users the 
-            choice to opt-out of being profiled and receiving targeted 
-            advertising. Users can link to DoubleClick's targeting efforts. 
-            </font>
-
-	  </p><p align="justify"><font class="newsheading">Our Use of Registration Information</font></p><p align="justify">
-	  <font class="defaulttext">Many of our publications are available free of 
-            charge or may be subscribed to at reduced rates because they are 
-            supported by advertisers. Qualification and registration questionnaires and other processes ensure that our 
-	  advertisers reach the appropriate audiences. We may use the information we collect from you individually or aggregated with other 
-	  users' information to improve our publications, to customize these publications, and to notify you about updates, new features and subscription 
-	  information.
-	  </font>
-            </p><p align="justify"><font class="defaulttext">From time to time, companies and 
-            organisations approach us that have a product or service that we 
-            believe may be of interest to you. We may share the information with 
-            these companies in an effort to help you find these resources. In 
-            doing this we always maintain appropriate safeguards to ensure the 
-            security, integrity and privacy of your information.</font>
-            </p><p align="justify"><font class="defaulttext">We offer you the opportunity to "opt out" 
-            of having your individually identifiable information shared with 
-            third-parties that are not affiliated with Reed Business Information 
-            (except for uses specifically requested by you, and legitimate 
-            business uses). </font>
-            </p><p align="justify"><font class="defaulttext">You can simply click on the 'opt out' 
-            tick bosses that appear when registration forms are completed on 
-            this website. Or you can submit in writing third-party opt-out 
-            requests to our Customer Service Manager in one of the following 
-            ways: (please be sure to include your name, company and contact 
-            number in case we need to clarify your details).</font></p>
-
-	  
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	  <br><font class="newsheading">By email:</font>
-	  <br><a href="mailto:customerservice@reedbusiness.com.au">customerservice@reedbusiness.com.au</a>
-
-	  <p align="justify"><font class="newsheading">By mail:</font>
-	  <br><font class="defaulttext">Reed Business Information <br> Attention: Customer Service Manager <br>Locked Bag 2999 <br>Chatswood DC, NSW 2067 </font></p>
-
-	  <p align="justify"><font class="newsheading">By phone:</font>
-	  <br><font class="defaulttext">1-300-360-126 or (612) 9422-2666 </font></p>
-
-	 <p align="justify"><font class="newsheading">By fax:</font>
-	 <br><font class="defaulttext">(612) 9422-2633<br><br>We will update your record as promptly as practical. </font></p>
-	  </td>
-	</tr>
-	<tr>
-  	  <td align="middle" width="100%" colspan="100"><br><a href="#top">Back to top</a></td>
-	</tr>
-	</tbody></table>
-  </td>
+		<p>Email: <a href="mailto:mary-alice.bannister@reed-elsevier.com.au">mary-alice.bannister@reed-elsevier.com.au</a></p>
+  </font></td>
 </tr>
 </tbody></table>
-<!-- FOOTER --><p></p><hr noshade="" width="100%" size="1"><center><table width="100%"><tbody><tr><td width="20%" align="center"><a href="http://ad.au.doubleclick.net/jump/btonline_ADV/;bmcc=redirect_88x31_microbutton;sz=88x31;ord=13375912?" target="_blank"><img src="http://ad.au.doubleclick.net/ad/btonline_ADV/;bmcc=redirect_88x31_microbutton;sz=88x31;ord=13375912?" border="0" width="88" height="31" alt="click here!"></a></td><td width="98%" align="center"><img src="/images/clear.gif" width="88" height="31" border="0"></td></tr></tbody></table><p align="left"><a href="/default.asp">Home</a>&nbsp;|&nbsp;<a href="/news.asp">News</a>&nbsp;|&nbsp;<a href="/articlelist.asp">Archive</a>&nbsp;|&nbsp;<a href="/elinks.asp">e-Links</a>&nbsp;|&nbsp;<a href="/jobs.asp">Jobs</a>&nbsp;|&nbsp;<a href="/publications.asp">Publications</a>&nbsp;|&nbsp;<a href="/advertisers.asp">Advertising</a>&nbsp;|&nbsp;<a href="/contacts.asp">Contact Us</a>&nbsp;|&nbsp;<a href="/about.asp">About Us</a>&nbsp;|&nbsp;<a href="/privacypolicy.asp">Privacy Policy</a></p></center><p align="justify"><font class="defaulttext">Copyright © Reed Business Information. All material on this site is subject to copyright. All rights reserved. No part of this material may be reproduced, translated, transmitted, framed or stored in a retrieval system for public or private use without the written permission of the publisher.</font></p></td><!-- /FOOTER --><td width="10" bgcolor="FFFFFF"> <img src="/images/clear.gif" width="10" height="15"></td><!-- RIGHT HAND COLUMN -->    <td width="125" bgcolor="#fafad2">       <div align="center">        <table width="125" border="0" cellspacing="0" cellpadding="0">          <tbody><tr valign="top">            <td>              <p align="center"><img src="/images/nav_head_sm_01c.gif" width="125" height="30"><br>                <a href="diary.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image11','','/images/but_right_sm_bt_01a_r.gif',1)"><img name="Image11" border="0" src="/images/but_right_sm_bt_01a_n.gif" alt="Diary" width="118" height="23"></a><br>                <a href="/jobs.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image12','','/images/but_right_sm_bt_01b_r.gif',1)"><img name="Image12" border="0" src="/images/but_right_sm_bt_01b_n.gif" alt="Jobs" width="118" height="23"></a><br>                <a href="/feedback.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image13','','/images/but_right_sm_bt_01c_r.gif',1)"><img name="Image13" border="0" src="/images/but_right_sm_bt_01c_n.gif" alt="Feedback" width="118" height="23"></a><br>                <a href="/elinks.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image14','','/images/but_right_sm_bt_01d_r.gif',1)"><img name="Image14" border="0" src="/images/but_right_sm_bt_01d_n.gif" alt="Links" width="118" height="23"></a><br>                <a href="/enewsletter.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image16','','/images/but_right_sm_bt_01f_r.gif',1)"><img name="Image16" border="0" src="/images/but_right_sm_bt_01f_n.gif" alt="eNewsletter" width="118" height="23"></a><br>                <a href="/clickthrough.asp?redirect=http://www.aards.com.au/login.asp" target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image17','','/images/but_right_sm_bt_01g_r.gif',1)"><img name="Image17" border="0" src="/images/but_right_sm_bt_01g_n.gif" alt="Aards" width="118" height="23"></a><br>				</p><p align="center"><a href="http://ad.au.doubleclick.net/jump/btonline_ADV/;bmcc=redirect_125x125;sz=125x125;ord13375912?" target="_blank"><img src="http://ad.au.doubleclick.net/ad/btonline_ADV/;bmcc=redirect_125x125;sz=125x125;ord13375912?" border="0" height="125" width="125"></a>
+<!-- FOOTER --><p></p><hr noshade="" width="100%" size="1"><center><table width="100%"><tbody><tr><td width="50%" align="center"><a href="/clickthrough.asp?redirect=http://www.bandt.com.au/html/vizi_imaging_clickthru.html" target="_blank"><img src="/images/banners/ppmicro1.gif" border="0" width="88" height="31"></a></td><td width="50%" align="center"><a href="/clickthrough.asp?redirect=http://www.bandt.com.au/html/vizi_floor_clickthru.html" target="_blank"><img src="/images/banners/ppmicro2.gif" border="0" width="88" height="31"></a></td></tr></tbody></table><p align="left"><a href="/default.asp">Home</a>&nbsp;|&nbsp;<a href="/news.asp">News</a>&nbsp;|&nbsp;<a href="/articlelist.asp">Archive</a>&nbsp;|&nbsp;<a href="/elinks.asp">e-Links</a>&nbsp;|&nbsp;<a href="/careers.asp">Careers</a>&nbsp;|&nbsp;<a href="/publications.asp">Publications</a>&nbsp;|&nbsp;<a href="/advertisers.asp">Advertising</a>&nbsp;|&nbsp;<a href="/contacts.asp">Contact Us</a>&nbsp;|&nbsp;<a href="/about.asp">About Us</a>&nbsp;|&nbsp;<a href="/privacypolicy.asp">Privacy Policy</a></p></center><p align="justify"><font class="defaulttext">Copyright © Reed Business Information. All material on this site is subject to copyright. All rights reserved. No part of this material may be reproduced, translated, transmitted, framed or stored in a retrieval system for public or private use without the written permission of the publisher.</font></p></td><!-- /FOOTER --><td width="10" bgcolor="FFFFFF"> <img src="/images/clear.gif" width="10" height="15"></td><!-- RIGHT HAND COLUMN -->    <td width="125" bgcolor="#fafad2">       <div align="center">        <table width="125" border="0" cellspacing="0" cellpadding="0">          <tbody><tr valign="top">            <td>              <p align="center"><img src="/images/nav_head_sm_01c.gif" width="125" height="30"><br>                <a href="/diary.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image11','','/images/but_right_sm_bt_01a_r.gif',1)"><img name="Image11" border="0" src="/images/but_right_sm_bt_01a_n.gif" alt="Diary" width="118" height="23"></a><br>                <a href="/careers.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image12','','/images/but_right_sm_bt_01b_r.gif',1)"><img name="Image12" border="0" src="/images/but_right_sm_bt_01b_n.gif" alt="Careers" width="118" height="23"></a><br>                <a href="/feedback.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image13','','/images/but_right_sm_bt_01c_r.gif',1)"><img name="Image13" border="0" src="/images/but_right_sm_bt_01c_n.gif" alt="Feedback" width="118" height="23"></a><br>                <a href="/elinks.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image14','','/images/but_right_sm_bt_01d_r.gif',1)"><img name="Image14" border="0" src="/images/but_right_sm_bt_01d_n.gif" alt="Links" width="118" height="23"></a><br>                <a href="/enewsletter.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image16','','/images/but_right_sm_bt_01f_r.gif',1)"><img name="Image16" border="0" src="/images/but_right_sm_bt_01f_n.gif" alt="eNewsletter" width="118" height="23"></a><br>                <a href="/clickthrough.asp?redirect=http://www.aards.com.au/login.asp" target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image17','','/images/but_right_sm_bt_01g_r.gif',1)"><img name="Image17" border="0" src="/images/but_right_sm_bt_01g_n.gif" alt="Aards" width="118" height="23"></a><br>				</p>		<div align="center"><a href="/clickthrough.asp?redirect=http://www.amevent.com.au/summit/" target="_blank"><img src="/images/banners/amevents_tile.gif" border="0"></a></div><br>		<div align="center"><a href="/clickthrough.asp?redirect=http://www.afaadschool.com.au/" target="_blank"><img src="/images/banners/afa_button.gif" border="0"></a></div>
 <!--cut and paste line below when TVC's Live goes online-->
 <!--Response.Write("                <a href=""/default.asp""	onMouseOut=""MM_swapImgRestore()"" onMouseOver=""MM_swapImage('Image15','','/images/but_right_sm_bt_01e_r.gif',1)""><img name=""Image15"" border=""0"" src=""/images/but_right_sm_bt_01e_n.gif"" alt="""" width=""118"" height=""23""></a><br>")-->
 
-
-
-
-<title></title>
-
-
-
-
-</p><p align="center">
-
-	<img height="30" src="images/nav_head_sm_01d.gif" width="125"><br>
-
+<br><img height="30" src="/images/nav_head_sm_01d.gif" width="125"><br>
 <img height="7" src="/images/clear.gif" width="100"><br>
-</p>
 
-<table border="0" cellpadding="10" cellspacing="0" width="120">
+<table border="0" cellpadding="10" cellspacing="0" width="125">
   <tbody><tr valign="top">
-    <td width="102"><p align="center"><a href="/clickthrough.asp?redirect=/feedback.asp">
-    
-    
-	    <img height="100" src="images/feedsml.gif" width="100" border="0"></a><br>
-	
-    
-    
-    </p><p align="center"><font class="subheading">This Week's Question</font><br>
+    <td><p align="center"><a href="/clickthrough.asp?redirect=/feedback.asp"><img height="100" src="/images/feedsml.gif" width="100" border="0"></a></p>
+    <p align="center"><font class="subheading">This Week's Question</font><br>
     </p>
-      <font class="defaulttext">
-    </font><p align="center"><font class="defaulttext"><b><font size="3" class="bdefaulttext">"</font></b></font><b><font size="3" class="bdefaulttext">When is a logo a no-no?<br>
-    </font></b><font class="defaulttext">Naomi Klein's No Logo warns the end is nigh for brands at the hands of the populace if the current branding frenzy isn't toned down. Is she right and what are the implications for advertisers and marketers if so? Is her anti-brand as bad as our brands?"&nbsp;
-    <br>
-    <br>
-      </font></p><font class="defaulttext">
-    <p align="center"><a href="mailto:larissa.kaye@reedbusiness.com.au?subject=Response to Feedback Question">
-
-    
-		<img height="20" src="images/feedback_01.gif" width="37" border="0"><br>
-	
-
-    </a>&nbsp; <a href="mailto:larissa.kaye@reedbusiness.com.au?subject=Response to Feedback Question">Click
-    Here</a> to send your responses by e-mail or by post to: B&amp;T Weekly, Locked Bag 2999,
-    Chatswood DC, Chatswood NSW 2067.</p></font></td>
+      <p align="center"><font class="bdefaulttext">Do ads make kids fat?<br><font class="defaulttext">The child obesity debate has sparked calls for a ban on advertising food to children. The AFA argues that advertising is not a top influencer of children's eating habits. What do you think? Are advertisers being blamed unfairly for social ills? Or do they need to be more responsible?</font></font></p><font class="bdefaulttext">    <p align="center"><font class="defaulttext"><a href="mailto:rosemary.ryan@reedbusiness.com.au?subject=Response to Feedback Question"><img height="20" src="/images/feedback_01.gif" width="37" border="0">&nbsp; </a> <a href="mailto:rosemary.ryan@reedbusiness.com.au?subject=Response to Feedback Question">Click
+    Here</a> to send your responses by email or by post to: B&amp;T Weekly, Locked Bag 2999,
+    Chatswood DC, Chatswood NSW 2067.</font></p></font></td>
   </tr>
 </tbody></table>
 
