@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kaakateeya.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207200300id_/http%3A//www.kaakateeya.com/cfm/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaakateeya.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603221903id_/http%3A//www.kaakateeya.com/cfm/privacy.cfm) for the most accurate reproduction.*
 
-# Kaakateeya - Largest Indian Matrimonial Collection
+# Kaakateeya.com - Largest Collection of Indian Matrimonials
 
   
 This confirms that kaakateeya.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of: 
