@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the loquax.co.uk privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607165903id_/http%3A//www.loquax.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loquax.co.uk privacy policy that was archived on 2001-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010803231204id_/http%3A//loquax.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # Loquax Privacy Policy
-
-[](http://www.loquax.co.uk/util/clicks.php3?key=373)
 
 |  |  **Privacy Policy covering Loquax**   
 Newcastle upon Tyne, UK   
