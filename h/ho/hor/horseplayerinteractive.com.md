@@ -1,47 +1,160 @@
-> *The following text is extracted and transformed from the horseplayerinteractive.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202231854id_/http%3A//www.woodbineentertainment.com/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horseplayerinteractive.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607050009id_/http%3A//www.woodbineentertainment.com/corporate/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy**
 
-This Privacy Policy was last updated on June 1, 2001. 
+This Privacy Policy was last revised January 19, 2004 
 
-The Woodbine Entertainment Group created this Privacy Policy in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices of the WOODBINE ENTERTAINMENT GROUP and the WOODBINE ENTERTAINMENT GROUP web sites at www.WoodbineEntertainment.com, www.675Bets.com, www.TRN.com/Canada and myweg.com (collectively, the "Site"). 
+Woodbine Entertainment Group ("we" or "our") offers a range of racing, gaming and entertainment products, which are available across North America and worldwide through our various Internet sites.
 
-**Application**  
-BY USING THIS SITE, YOU AGREE TO BE BOUND BY THIS PRIVACY POLICY. IF YOU DO NOT AGREE WITH ANY OF THE TERMS OF THIS PRIVACY POLICY, YOU MUST IMMEDIATELY DISCONTINUE YOUR USE OF THE SITE. 
+We maintain a firm commitment to the privacy of our customers’ Personal Information (defined below under the heading "What is Personal Information?"). The following outlines our commitment to you:
 
-**Collection and Use of Personal Information**  
-The WOODBINE ENTERTAINMENT GROUP owns and operates this Site. The WOODBINE ENTERTAINMENT GROUP does not collect personal information about you except when you provide it to the WOODBINE ENTERTAINMENT GROUP on a voluntary basis. Personal information is collected from you at this Site when you complete a survey, request to be notified or request information, products or services. The personal information collected by the WOODBINE ENTERTAINMENT GROUP includes your name, address, e-mail address, profile data and other demographic information (including your postal code, age, sex or income level). Your contact information is used to contact you when necessary. For example, if you have won a prize associated with one of the WOODBINE ENTERTAINMENT GROUP surveys. It is also used to identify what future products or services you may require. All information remains within the Woodbine Entertainment Group and is not sold to other companies. 
+  * Purpose and Consent: At the time of collection we will explain to you the purpose of collecting your Personal Information and obtain your consent to collect, use and disclose your Personal Information.  
 
-**Contests**  
-From time to time, the WOODBINE ENTERTAINMENT GROUP may run contests on this Site in which participants are asked for contact information (such as their e-mail address) and demographic information (such as their postal code, age, sex or income level). If you participate in any of the WOODBINE ENTERTAINMENT GROUP contests, your contact information will be used to contact you in connection with the contest. 
+  * Limiting Collection: We limit the collection of Personal Information to what is reasonable under the circumstances and your Personal Information will only be used for the purposes for which it is collected.  
 
-**Collection and Use of Non-Personal Information**  
-This information may be shared with advertisers of the WOODBINE ENTERTAINMENT GROUP on an aggregate basis to provide a snapshot of the people who visit this Site. 
+  * Security: Your Personal Information is kept strictly confidential and is not disclosed outside of our operations without your consent, unless required by law.  
 
-**Cookies**  
-A "cookie" is a small piece of data that is sent to your browser from a web server and stored on your computer's hard drive. Cookies do not damage your system or impair its functioning in any way. The WOODBINE ENTERTAINMENT GROUP uses cookies to tailor your experience at this Site, to show you content that you might be interested in, and to display the content according to your preferences. Cookies do not contain any personally identifying information. You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies or to allow your browser to show you when a cookie is sent. 
+  * Access: You have the right to access the Personal Information that we maintain about you and to correct any inaccuracies.  
 
-**Links**  
-This Site contains links to other web sites. You understand and agree that your use of such third party web sites will be governed by the privacy policies of those web sites and not by this Privacy Policy. The WOODBINE ENTERTAINMENT GROUP is not responsible or liable for the privacy practices or the content of such web sites. 
 
-**Public Forums**  
-This Site sometimes makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas will be public information and will not be considered personal information. You should exercise caution when deciding to disclose your personal information to such areas. 
 
-**Security**  
-The WOODBINE ENTERTAINMENT GROUP will maintain security measures in place in order to attempt to protect against the loss, misuse and alteration of the personal information under our control all data is kept on secure database servers kept separately from the webservers, which are all behind a firewall with very restrictive access. Employees of Woodbine Entertainment Group do not have tunnel (vpn) or any access directly to these datastores. All data entry is done via a secure interface that provides no export facility. Please be advised, however, that the Internet and other various networking communication mediums are not secure, unless explicitly specified as such, and may be subject to interception or loss which is beyond the control of the WOODBINE ENTERTAINMENT GROUP. Also be advised that the security, integrity and privacy of any and all information and data exchanged between you and the WOODBINE ENTERTAINMENT GROUP through this Site cannot be guaranteed. 
 
-The WOODBINE ENTERTAINMENT GROUP will not monitor, edit or deliberately disclose the contents of your private communications or files unless required to do so by law or in the good faith belief that such action is necessary to comply with the law, comply with any legal process or protect and defend the rights or property of the WOODBINE ENTERTAINMENT GROUP. 
+We have adopted the 10 principles established by the Canadian Standards Association’s Model Code for the protection of Personal Information. These principles form a part of the Personal Information Protection and Electronic Documents Act (“PIPEDA” or the “Act”) which establishes the rules governing the collection, use and disclosure of Personal Information in Canada. We will periodically review our principles in order to ensure that they remain relevant and current with changing technologies and laws and the evolving needs of our customers and employees.
 
-**Children's Guidelines**  
-This Site is not intended for children. The WOODBINE ENTERTAINMENT GROUP will not knowingly collect information from children. 
+Our 10 Principles 
 
-**Changes to Policy**  
-The WOODBINE ENTERTAINMENT GROUP shall periodically review the appropriateness of this Policy and shall make, at its sole discretion, such changes or modifications as may be necessary. 
+  1. Accountability: We are responsible for maintaining and protecting Personal Information under our control. We have appointed a Chief Privacy Officer to oversee our compliance with the Act and our 10 principles.  
 
-**Access to Information**  
-If you desire access to your own personal information, to correct existing personal information, or to remove your personal information, please contact us using the contact information provided below. If you request removal or deletion of your personal information, you acknowledge that residual information may continue to reside in WOODBINE ENTERTAINMENT GROUP's records and back-ups. 
+  2. Identifying Purposes: We will identify the purposes for which Personal Information is collected, either before or at the time of collection.  
 
-**Contacting the Web Site**  
-If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you can contact the [webmaster](mailto:webmaster@WoodbineEntertainment.com). 
+  3. Consent: We will only collect, use and disclose Personal Information with a customer’s knowledge and consent, except where otherwise required or permitted by law.  
+
+  4. Limiting Collection: We will limit the collection of your Personal Information to only those details that are necessary for the purposes identified.  
+
+  5. Limiting Use, Disclosure and Retention: Your Personal Information will only be used or disclosed for the purposes for which it was collected, unless you have otherwise consented, or where it is required or permitted by law. We will retain your Personal Information only as long as necessary to fulfill the purposes identified.  
+
+  6. Accuracy: We will keep Personal Information that we collect accurate, complete and up-to-date to fulfill the purposes for which it was collected.  
+
+  7. Safeguards: We will protect your Personal Information with security safeguards appropriate to the sensitivity of the information.  
+
+  8. Openness: Specific information about our policies and practices relating to the management of Personal Information will be made available to you upon request.  
+
+  9. Access: At your request, we will inform you of the existence, use and disclosure of your Personal Information and give you access to your Personal Information. You have the right to challenge the accuracy and completeness of your Personal Information and to have it amended as appropriate.  
+
+  10. Challenging Compliance: You may contact us with any questions, complaints or suggestions with respect to the above principles.
+
+
+
+  
+What is Personal Information?  
+Personal Information is broadly defined as information about an identifiable individual, but does not include the name, title, business address, or telephone number of an employee of an organization. Personal Information with personal identifiers removed (removes your identity from the information) is not considered Personal Information.
+
+  
+Personal Information We Collect  
+With your consent, we may collect Personal Information from you in person, either by telephone, by mail, by intercept survey or through the Internet. Typically, we collect and maintain the following:
+
+> Name  
+>  Mailing Address  
+>  Email Address  
+>  Telephone Number  
+>  Date of Birth
+
+It is always your choice as to whether you provide us with your Personal Information. However:
+
+  * Several of our products and services (e.g. telephone account and Internet wagering) are governed by federal and provincial regulations that require specific Personal Information be collected and maintained by us.  
+
+  * Some of our products and services can only be delivered to you if we can collect, use and disclose your Personal Information (e.g. HorsePlayer Rewards program).
+
+
+
+How We Use Your Information  
+Relationships With Our Customers Are Important To Us  
+We want to provide you with our various services on an ongoing and efficient manner to establish a long lasting relationship which will meet your changing needs.
+
+With your permission, we collect Personal Information about you to:
+
+  * Provide you with products, services or information that you request  
+
+  * Assist in identifying your preferences  
+
+  * Provide you with information about upcoming events, promotions and new and improved services  
+
+  * Protect you and us, against error and fraud  
+
+  * Comply with legal requirements
+
+
+
+Your Personal Information may also be used to provide us with business statistics. These statistics do not contain any information which identifies you personally.
+
+You Can Choose Not To Receive Direct Marketing
+
+We may inform you about our events, promotions or services by mail, telephone, e-mail or other means. If you do not wish to receive direct marketing, contact us and tell us that you do not want to be contacted in a particular way. See below for contact details.
+
+Giving Consent  
+Key to protecting the privacy of your Personal Information is consent. We collect, use and disclose your Personal Information only with your consent except where otherwise required by law.
+
+You may decline to provide us with your Personal Information. However, this choice may make it impossible for us to provide you with certain products or services. For example, we cannot set up a telephone wagering account with Internet access without the Personal Information which is required by the Canadian Pari-Mutuel Agency, the agency which regulates pari-mutuel wagering, on behalf of the Ministry of Agriculture (Agriculture Canada.)
+
+  
+Withdrawing Consent  
+You may withdraw your consent at any time, subject to legal or contractual restrictions and reasonable notice. If you wish to withdraw your consent we will inform you of the implications. To withdraw your consent, simply contact us and tell us of the Personal Information which you no longer wish us to collect, use and/or disclose. See below for contact details.
+
+Security and Disclosure of Your Personal Information  
+We recognize your concerns about the security of the Personal Information which you provide to us. Our processes and procedures keep your Personal Information safe and secure. We have different safeguards in place (physical, technological and organizational).
+
+Your Personal Information will not be used or disclosed without your consent, except where required or permitted by law. We will only use and disclose your Personal Information to fulfill the purposes for which it was collected. Other uses of your Personal Information will only be undertaken after we have obtained your additional consent, or as may be required by law. We will only keep your information for as long as needed for the stated purposes.
+
+Your Personal Information will not be sold to any organization for any purpose.
+
+We will not disclose your Personal Information to any third party without your approval, except that we reserve the right to disclose your Personal Information: (a) to any of our affiliates, subsidiaries, third party service providers or advisers that we deems appropriate; (b) if such disclosure is made pursuant to a legal proceeding or as required by law; (c) to another business entity should we plan to merge with, or be acquired by that business entity; or (d) organizations involved in a merger, transfer or sale of our assets or business.
+
+In the event that we disclose your Personal Information as set out of above, we will require third party organizations who have access to your Personal Information to protect and maintain your Personal Information in compliance with the terms and conditions of this Privacy Policy.
+
+  
+Access and Update of Your Personal Information  
+Accessing your Personal Information  
+You may access and verify your Personal Information. At the time of your request we will need specific information to verify your identity before we can provide you with the Personal Information we hold.  
+In some instances, we will not be able to provide you with the Personal Information you request, for instance where that information:
+
+  * Contains references to other persons  
+
+  * Has already been destroyed due to legal requirements or because the information has served its purposes  
+
+  * Cannot be disclosed for legal reasons (e.g. when subject to solicitor-client or litigation privilege)
+
+
+
+If we are unable to provide you with access to your Personal Information, we will explain why and advise you as to any recourse available to you.
+
+Updating your Personal Information  
+We are committed to maintaining the accuracy of your Personal Information. To help us keep your Personal Information up-to-date we encourage you to notify us of inaccuracies or corrections. Timely notification of a change of address or telephone number helps us in providing you with the best possible service. You can contact us via our Web Site @ [www.woodbineentertainment.com](http://www.woodbineentertainment.com/) or telephone our call centre at (416-675-8886).
+
+We reserve the right to amend this Privacy Policy at any time. If we decides to amend this Privacy Policy, we will provide you with notice of such amended terms [by posting on our Web Site]  so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. All amended terms shall be effective immediately upon such notice.
+
+  
+Contact Us  
+If you have any questions, concerns or complaints regarding the privacy of your Personal Information, you may contact us at the address listed below. We will inform you of our complaint procedures and assist you in resolving the situation. If a complaint is found to be justified, appropriate steps will be taken including, if necessary, revisions to our practices and procedures.  
+Please write or e-mail:
+
+> Chief Privacy Officer  
+>  Woodbine Entertainment Group  
+>  P.O. Box 156, 555 Rexdale Blvd  
+>  Toronto, Ontario  
+>  M9W 5L2
+> 
+> [privacy@woodbineentertainment.com](mailto:privacy@woodbineentertainment.com)
+
+____________________________________________________________________  
+For more information on the Woodbine Entertainment Group's commitment to privacy, contact the Woodbine Entertainment Group through our website: [www.WoodbineEntertainment.com](http://www.woodbineentertainment.com/)
+
+For copies of the CSA Model Code for the Protection of Personal Information contact the Canadian Standards Association or visit their Website at [www.csa.ca](http://www.csa.ca/)
+
+For copies of the Personal Information Protection and Electronic Documents Act (PIPEDA) contact the Department of Justice or visit 
+
+[http://laws.justice.gc.ca](http://laws.justice.gc.ca/)  
+
+
+ 
