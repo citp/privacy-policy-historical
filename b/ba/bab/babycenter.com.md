@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the babycenter.com privacy policy that was archived on 2004-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040620172317id_/http%3A//www.babycenter.com/help/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babycenter.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206154215id_/http%3A//www.babycenter.com/help/aboutus/privacy) for the most accurate reproduction.*
 
-# BabyCenter Privacy Policy
+# BabyCenter LLC Privacy Policy
 
 |    
 **Privacy & Security**
@@ -68,7 +68,7 @@ If you have any questions, comments, requests, or concerns related to this Priva
 >  Attention: Chief Privacy Officer  
 >  163 Freelon St.  
 >  San Francisco, CA 94107  
->  privacy@babycenter.com  
+>  [http://www.babycenter.com/contactus](http://www.babycenter.com/contactus/?form=membership)  
 >  **
 
 **Changes to This Privacy Policy**  
