@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the epa.gov privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605051530id_/http%3A//www.epa.gov/epahome/usenotice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epa.gov privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203002432id_/http%3A//www.epa.gov/epahome/usenotice.htm) for the most accurate reproduction.*
 
 # Privacy and Security Notice
+
+|  | 
 
 **About Privacy and Security**
 
@@ -10,7 +12,7 @@
 
   3. When you come to this web site to browse, you do so anonymously. EPA does not collect identifying information about you. We collect only summary information [see below] about the numbers of individuals who visit our web site and what those individuals look at. This government computer system uses industry-standard software to create summary statistics, which are used for such things as assessing what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas. 
 
-  4. Where identifying information is asked of you (to respond to an information request, etc.) that information is used only for responding to your comment or question and is not made available for other purposes. See our [comments notice of use](https://web.archive.org/web/20020605051530id_/http%3A//www.epa.gov/epahome/use.htm). 
+  4. Where identifying information is asked of you (to respond to an information request, etc.) that information is used only for responding to your comment or question and is not made available for other purposes. See our [comments notice of use](https://web.archive.org/web/20021203002432id_/http%3A//www.epa.gov/epahome/use.htm). 
 
   5. For site security purposes and to ensure that this service remains available to all users, this government computer system employs industry-standard methods to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. 
 
@@ -18,7 +20,7 @@
 
   7. Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986. 
 
-  8. If you have any questions or comments about the information presented here, please forward them to us through the address on our [Comments Page](https://web.archive.org/web/20020605051530id_/http%3A//www.epa.gov/epahome/comments.htm). 
+  8. If you have any questions or comments about the information presented here, please forward them to us through the address on our [Comments Page](https://web.archive.org/web/20021203002432id_/http%3A//www.epa.gov/epahome/comments.htm). 
 
 
 
