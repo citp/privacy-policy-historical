@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novelguide.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206081300id_/http%3A//novelguide.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novelguide.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607224401id_/http%3A//www.novelguide.com/privacy_statement.html) for the most accurate reproduction.*
 
 # NovelGuide: Privacy Statement
 
@@ -23,9 +23,8 @@ This site has security measures in place to protect the loss, misuse and alterat
 
  **Ads**
 
-NovelGuide works with a third party that serves ads to this site. To  
-find out more about how they (flycast) manage the privacy of information in conjunction with serving ads on this site, please go to  
-<http://www.flycast.com/about_us/about-privacy.html>.
+NovelGuide works with third parties that serve ads to this site. These   
+companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements on this site and other sites about goods and services of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by doubleclick, click [here](http://www.sonar.com/naiprivacy).
 
  **Children's Guidelines**
 
