@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bruceclay.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008125300id_/http%3A//bruceclay.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bruceclay.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605111029id_/http%3A//bruceclay.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Statement by bruceclay.com
+# bruceclay.com - Privacy Statement
 
 **Our Commitment To Privacy**
 
@@ -49,9 +49,13 @@
 
 * * *
 
-**[Home](http://www.bruceclay.com/)    [Web Design Strategy](https://web.archive.org/web_ia.htm)    [Website Promotion Steps](https://web.archive.org/web_pt.htm)    [Search Engine Optimization Advice](https://web.archive.org/web_rank.htm) **** [Products and Services](https://web.archive.org/web_cs.htm)    [SEOToolSetTM](https://web.archive.org/web_tool.htm)    [Dynamic Site MappingTM](https://web.archive.org/web_dsm.htm)    [LinkMapsTM](https://web.archive.org/web_linkmaps.htm)    [PathMapsTM](https://web.archive.org/web_pathmaps.htm) [PPC Overview](https://web.archive.org/web_ppc.htm)    [PPC Hidden Operating Costs](https://web.archive.org/web_ppc_costs.htm)    [PPC Account Management Services](https://web.archive.org/web_ppctoolset.htm) [SEO Code of Ethics](https://web.archive.org/web_ethics.htm)    [SEO Standards](https://web.archive.org/EmergingStandards.htm)    [Spam Information](https://web.archive.org/EmergingStandards.htm#seospam)    [Why is SEO so hard?](https://web.archive.org/web_emperor.htm) [Server Technical Tips](https://web.archive.org/SEO-tech-tips/techtips.htm)    [Legal/Copyright](https://web.archive.org/web_legl.htm)    [Rates](https://web.archive.org/rates.htm)    [Contact Form](https://web.archive.org/web_quot.htm)    [Colleagues](https://web.archive.org/web_link.htm) ****[SEOToolSet Login& Free Use](https://web.archive.org/clients/)    [Our Sample DSM Pages](https://web.archive.org/dsm/)    [Our Sample LinkMapsTM Pages](https://web.archive.org/LinkMaps/) **
+**NEW:[Search Engine Search Hub](https://web.archive.org/searchhub.htm)** **[Search Engine Optimization Overview](http://www.bruceclay.com/)    [Search Engine Relationship Chart](https://web.archive.org/searchenginerelationshipchart.htm)    [SEO Products and Services](https://web.archive.org/web_cs.htm)    **** [Search Engine Marketing Strategy](https://web.archive.org/web_ia.htm)    [Search Engine Promotion Tactics](https://web.archive.org/web_pt.htm)    [Search Engine Optimization Methodology](https://web.archive.org/web_rank.htm) [SEOToolSetTM](https://web.archive.org/web_tool.htm)    [Dynamic Site MappingTM](https://web.archive.org/web_dsm.htm)    [LinkMapsTM](https://web.archive.org/web_linkmaps.htm)    [PathMapsTM](https://web.archive.org/web_pathmaps.htm)    [Search Engine Optimization Training](https://web.archive.org/web_clas.htm) [Search Engine Optimization Code of Ethics](https://web.archive.org/web_ethics.htm)    [SEO Standards](https://web.archive.org/EmergingStandards.htm)    [Spam Information](https://web.archive.org/EmergingStandards.htm#seospam)    [Why is SEO so hard?](https://web.archive.org/web_emperor.htm) [PPC Overview](https://web.archive.org/web_ppc.htm)    [PPC Hidden Operating Costs](https://web.archive.org/web_ppc_costs.htm)    [PPC Account Management Services](https://web.archive.org/web_ppctoolset.htm) [Server Technical Tips](https://web.archive.org/SEO-tech-tips/techtips.htm)    [Legal/Copyright](https://web.archive.org/web_legl.htm)    [Rates](https://web.archive.org/rates.htm)    [Contact Form](https://web.archive.org/web_quot.htm)    [Colleagues](https://web.archive.org/web_link.htm) ****
 
-**[Signup](https://web.archive.org/BusinessInfo.htm)    [Privacy Statement](https://web.archive.org/privacy.htm)    [Employment](https://web.archive.org/employment.htm)    [About Us / Directions](https://web.archive.org/aboutus.htm) **
+[SEOToolSet Login - Subscribers & Free Use](https://web.archive.org/clients/)   
+
+******
+
+**[Request a Quote](https://web.archive.org/rates.htm#quote)    [Signup](https://web.archive.org/BusinessInfo.htm)    [Privacy Statement](https://web.archive.org/privacy.htm)    [Employment](https://web.archive.org/employment.htm)    [About Us](https://web.archive.org/aboutus.htm)    [Directions](https://web.archive.org/web_directions.htm)    [HOME](https://web.archive.org/) **
 
 **Bruce Clay, LLC** **Internet Business Consultants** **Serving Clients Worldwide** **207 West Los Angeles Avenue, Suite 277, Moorpark, CA 93021** **Voice: 805-517-1900** **Toll Free: 866-517-1900** **Fax: 805-517-1919**
 
@@ -60,9 +64,9 @@
 [](http://www.bruceclay.com/web_ethics.htm)|  **We comply with and support this Code of Ethics.**  
 ---|---  
   
-[ ](http://www.webassured.com/c/Business_Background_Report.cfm?ID=101655)     [](http://www.bbbonline.org/cks.asp?id=10302251236330127)
+[ ](http://www.webassured.com/c/Business_Background_Report.cfm?ID=101655)     [](http://www.bbbonline.org/cks.asp?id=10302251236330127)     [](http://www.sempo.org/)
 
 [ ](http://www.clearinghouse.net/cgi-bin/chadmin/viewitem/Business___Employment/marketing/Internet_marketing?237+) Copyright [© 1996 to 2003 Bruce Clay, LLC. All rights reserved.   
 Copyright registered with United States Copyright Office, The Library of Congress,  
 Number TX 5-001-745 in accordance with title 17, United States Code.   
-Bruce Clay, SEOToolSet, PPCToolSet, Dynamic Site Mapping, LinkMaps, PathMaps, SEM Tribune, Search Engine Relationship Chart, and SERC are Trademarks of Bruce Clay, LLC](https://web.archive.org/web_legl.htm) [PathMapsTM](http://www.bruceclay.com/web_pathmaps.htm) [Search Engine Optimization Tools](http://www.bruceclay.com/web_rank.htm) by [Bruce Clay, LLC](http://www.bruceclay.com/)
+Bruce Clay, SEOToolSet, PPCToolSet, Dynamic Site Mapping, LinkMaps, PathMaps, SEM Tribune, Search Engine Relationship Chart, SE Traffic Vector, and SERC are our Trademarks](https://web.archive.org/web_legl.htm)
