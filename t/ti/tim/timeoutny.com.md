@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the timeoutny.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204145523id_/http%3A//www.timeoutny.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeoutny.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403074819id_/http%3A//www.timeoutny.com/privacy.html) for the most accurate reproduction.*
 
 # Time Out New York []
 
 **Our privacy policy**
 
-_Time Out New York ("TONY")_ has always promised to serve its audience with integrity and honesty. The same is true now that we publish online. _TONY_ has developed this privacy policy to demonstrate our firm commitment to privacy and to disclose our information-gathering and -sharing practices for www.timeoutny.com (the "site"). By visiting the site, you are accepting the practices described in this privacy policy. Our site will develop and evolve over time, and this policy may change to reflect that.
+_Time Out New York ("TONY")_ has always promised to serve its audience with integrity and honesty. The same is true online. _TONY_ has developed this privacy policy to demonstrate our firm commitment to privacy and to disclose our information-gathering and -sharing practices for www.timeoutny.com (the "site"). By visiting the site, you are accepting the practices described in this privacy policy. Our site will develop and evolve over time, and this policy may change to reflect that.
 
 In addition, _Time Out New York_ supports the Consumer WebWatch guidelines to promote credible information practices on the Web. For more information, [click here](http://www.consumerwebwatch.org/bestpractices/index.html).
 
@@ -20,7 +20,7 @@ We collect these kinds of aggregate user information for two main reasons: (1) t
 
 **Cookies and TONY**
 
-_Time Out New York's_ main site at www.timeoutny.com does not use cookies. If you subscribe to the Time Out New York Eating & Drinking site, however, we use cookies to track your usage on our site. This ensures that you are a subscriber, and allows you to roam freely within our subscriber-based site without typing in a password to access each page. We do not track any of your activity as it relates to your individual movements throughout our site, only as an aggregate of data in conjunction with users to our site as a whole. Your movement is not tracked once you leave our site.
+_Time Out New York's_ sites at www.timeoutny.com, www.tonykids.com and eatdrink.timeoutny.com use cookies solely for the purpose of tracking traffic to each site. We do not track nor store the paths of each individual user. If you subscribe to the Time Out New York Eating & Drinking site, we also use cookies to track your membership to the site. This ensures that you are a subscriber, and allows you to roam freely within our subscriber-based site without typing in a password to access each page. We do not track any of your activity as it relates to your individual movements throughout our site, only as an aggregate of data in conjunction with users to our site as a whole. Your movement is not tracked once you leave our site.
 
 **_TONY_ e-mail policy**
 
@@ -30,7 +30,7 @@ If you place an order in our online store, purchase a subscription to Eating & D
 
 If we ever request that you volunteer additional information, such as financial data or age—in an online survey, for example—your response will always be voluntary. In addition, there will always be a box for you to check if you choose to enable us to disclose such information to a third party.
 
-Subscribers to the print edition of _TONY_ may opt to receive a regular e-mail newsletter that contains information we believe to be of value to our users, specifically special discounts and offers selected by our marketing department. These mailings are exclusive to _TONY_ magazine subscribers; visit [www.timeoutny.com/newsletter/](http://www.timeoutny.com/newsletter/) to sign-up for the free list. Such mailings include an invisible image that allows _TONY_ to determine if an e-mail was viewed, in that it calls our server and registers a count. This image is solely for the purpose of providing aggregate data to our advertisers. Individual actions are never tracked, and we do not record whether or not you as an individual read or opened any communication from _TONY._ We respect that your receiving the e-mails is a choice, and you may choose to remove your name from the list at any time by visiting <http://www.timeoutny.com/newsletter/unsubscribe.php>. 
+Online users may opt to receive a regular e-mail newsletter that contains information we believe to be of value to our users, specifically special discounts and offers selected by our marketing department. Visit [www.timeoutny.com/newsletter/](http://www.timeoutny.com/newsletter/) to sign-up for the free list, or view your profile in Eating & Drinking Online. Kids subscribers can sign-up by logging into the site and clicking on the "Subscriber e-newsletter" button. Such mailings include an invisible image that allows _TONY_ to determine if an e-mail was viewed, in that it calls our server and registers a count. This image is solely for the purpose of providing aggregate data to our advertisers. Individual actions are never tracked, and we do not record whether or not you as an individual read or opened any communication from _TONY._ We respect that your receiving the e-mails is a choice, and you may choose to remove your name from the list at any time by visiting <http://www.timeoutny.com/newsletter/unsubscribe.php>, or by following the unsubscribe link at the bottom of the e-mail. 
 
 **Third-party disclosure of personal information**
 
@@ -38,7 +38,7 @@ Subscribers to the print edition of _TONY_ may opt to receive a regular e-mail n
 
 2\. Links to other sites: Our site contains links to other sites that are not under our control, even though some of them may feature the _TONY_ logo through a marketing agreement with us. _TONY_ cannot be held responsible for the privacy policies of other companies. We recommend that you review the privacy policy of any site you visit on the Internet. _TONY_ may receive a commission from member transactions on these partner sites. 
 
-The _TONY_ Personals section is operated by Spring Street Networks. Spring Street Networks's terms of service governs the use of personal information you provide at the Personals site. You may review Spring Street Networks's terms of service at <http://personals.timeoutny.com/accounts/tos.asp>.
+The _TONY_ Personals section is operated by Yahoo! Personals. The Yahoo! terms of service governs the use of personal information you provide at the Personals site. You may review the Yahoo! terms of service at <http://docs.yahoo.com/info/terms/>.
 
 The _TONY_ Hotel reservations listings section is operated by Lodging.com. Lodging.com's privacy policy governs the use of personal information you provide at the Hotel reservations listings site. You may review Lodging.com's privacy policy by [clicking here](http://reservations.lodging.com/servlet/lodging.PersonalAccount?action=static&page=privacy&remote=timeoutny), or by clicking on "Privacy Policy" in the footer of the page.
 
@@ -48,7 +48,7 @@ The _TONY_ restaurant reservations section is operated by OpenTable. OpenTable's
 
 3\. On occasion, _TONY_ sponsors special promotions, sweepstakes and contests that are hosted by partner websites, which may require that your browser accept cookies. 
 
-4\. Magazine subscriptions: _TONY_ subscriptions are managed by Kable News Company Inc. Whether you have subscribed to the magazine via phone, mail or online, your account information can be accessed via Kable's site through links from <http://www.timeoutny.com/subscriptions>. New subscribers link from _TONY_ to Kable to sign up for a subscription via a secure server. In addition, _TONY_ sometimes makes the names and addresses of our magazine subscribers available to carefully screened organizations outside TONY whose products and activities might prove interesting to you. If you do not wish to receive mailings from such organizations, please let us know by writing to us at Time Out New York, P.O. Box 385, Mt. Morris, IL 61054-0385.
+4\. Magazine subscriptions: _TONY_ subscriptions are managed by Kable News Company Inc. Whether you have subscribed to the magazine via phone, mail or online, your account information can be accessed via Kable's site through links from <http://www.timeoutny.com/subscriptions> or <http://www.tonykids.com/help/>. New subscribers link from _TONY_ to Kable to sign up for a subscription via a secure server. In addition, _TONY_ sometimes makes the names and addresses of our magazine subscribers available to carefully screened organizations outside TONY whose products and activities might prove interesting to you. If you do not wish to receive mailings from such organizations, please let us know by writing to us at Time Out New York, P.O. Box 385, Mt. Morris, IL 61054-0385.
 
 5\. Required disclosures: _TONY_ cooperates with all law-enforcement inquiries and reserves the right to disclose personally identifying or aggregate information in connection with a subpoena or other court-sanctioned demand for such information.
 
@@ -70,7 +70,7 @@ Our site is not directed to users under the age of 13. _TONY_ will not knowingly
 
 **_TONY's_** **right to change privacy policy and no impediment on transfer of assets**
 
-This policy is effective as of April 16, 2004. _TONY_ may change this policy at any time. You should periodically revisit our privacy policy to be sure that you are familiar with our current policy. Your use of the site following any modifications to the privacy policy will be conclusively deemed acceptance of the terms of this privacy policy and any changes to the policy. Nothing in this privacy policy is meant to impede _TONY’s_ right or ability to transfer, sell or otherwise dispose of any of its assets.
+This policy is effective as of January 17, 2005. _TONY_ may change this policy at any time. You should periodically revisit our privacy policy to be sure that you are familiar with our current policy. Your use of the site following any modifications to the privacy policy will be conclusively deemed acceptance of the terms of this privacy policy and any changes to the policy. Nothing in this privacy policy is meant to impede _TONY’s_ right or ability to transfer, sell or otherwise dispose of any of its assets.
 
 **Contact us**
 
