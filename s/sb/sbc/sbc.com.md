@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the sbc.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409205126id_/http%3A//www.sbc.com/privacy_policy/0%2C2951%2C1%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbc.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201213556id_/http%3A//www.sbc.com/privacy_policy/0%2C2951%2C1%2C00.html) for the most accurate reproduction.*
 
 # SBC Privacy Policy
 
 **Privacy for Web Visitors.**  
-One can visit our Web site with complete privacy. A Web site visitor can chose to provide customer-specific information by ordering a product or service, sending us e-mail or registering on a company Web site. Any information provided by a Web site visitor is held strictly confidential within the family of SBC companies or its authorized agent and will not be sold to any other organization or business. 
+One can visit our Web site with complete privacy. A Web site visitor can choose to provide customer-specific information by ordering a product or service, sending us e-mail or registering on a company Web site. Any information provided by a Web site visitor is held strictly confidential within the family of SBC companies or its authorized agent and will not be sold to any other organization or business. 
 
 **Privacy for Internet Service Subscribers.**  
 SBC's affiliated Internet companies and services - Ameritech Internet Services, Southwestern Bell Internet Services, Southern New England Internet, Pacific Bell Internet Services, and Nevada Bell Internet Services - collect information from Internet subscribers or users as necessary to provide Internet access service. For example, Web servers automatically recognize an Internet user's domain name (such as .com, .edu, etc.), the Web page from which a visitor enters our site and how much time a visitor spends on a Web page. This information is used - only in the aggregate - to improve our Internet services and sites. 
