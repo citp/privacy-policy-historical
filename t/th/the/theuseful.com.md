@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theuseful.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409095848id_/http%3A//www.theuseful.com/help.htm%3Ftopic%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theuseful.com privacy policy that was archived on 2001-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010803175449id_/http%3A//www.theuseful.com/help.htm%3Ftopic%3Dprivacy) for the most accurate reproduction.*
 
-# TheUseful.com - Shop Smarter - Free Lotto - Cash Prizes!
+# TheUseful.com - Shop Smarter - Web Directory - Cash Prizes!
 
 **Our commitment to your privacy**
 
