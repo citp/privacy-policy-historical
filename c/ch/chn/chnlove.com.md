@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chnlove.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207124705id_/http%3A//chnlove.com/end_files/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chnlove.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605072639id_/http%3A//chnlove.com/end_files/privacy.php) for the most accurate reproduction.*
 
 # Chinese women seeking love, relationship, romance, marriage and more !
 
@@ -43,7 +43,7 @@ No matter which profile status you choose, your profile will not be seen outside
 
   5. **Your Credit Card Details**
 
-If you pay by your credit card online, to protect your privacy we use highly secure order processing provided by third-party billing companies (such as Worldpay, Multicards, and Paypal). Those companies we cooperate with enjoy good reputation and reliability in the field of its kind. With use of the third-party credit card processors, your credit card information is entered using a secure server, and transferred internally using PGP, the most powerful encryption available. Your customer details may not be sold or made available to anyone else and your credit card details are only known by our order processors.
+If you pay by your credit card online, to protect your privacy we use highly secure order processing provided by third-party billing companies (such as Worldpay, 2CheckOut, and Paypal). Those companies we cooperate with enjoy good reputation and reliability in the field of its kind. With use of the third-party credit card processors, your credit card information is entered using a secure server, and transferred internally using PGP, the most powerful encryption available. Your customer details may not be sold or made available to anyone else and your credit card details are only known by our order processors.
 
   6. **EMF Mails with the ladies on this Site**
 
@@ -66,4 +66,4 @@ By using this Site and the Service, you understand that this privacy statement a
 If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can contact us.
 
    
-( Revised August 15, 2003 )
+( Revised Apr 21, 2004 )
