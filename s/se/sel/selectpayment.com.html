@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the selectpayment.com privacy policy that was archived on 2002-10-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021002193249id_/http%3A//www.selectpayment.com/AboutUs/PrivacyPolicy.asp%3FInfo%3D%26context%3D) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the selectpayment.com privacy policy that was archived on 2003-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030618125426id_/http%3A//www.selectpayment.com/AboutUs/PrivacyPolicy.asp%3FInfo%3D%26context%3D) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head><link rel="stylesheet" type="text/css" href="/Stylesheets/SelectPayment.css">
 
@@ -19,6 +19,15 @@ var newWind = null; //--- window handle for child window
 
 function openWindow(theURL,winName,w,h) {
   var sParms = "toolbar=no,Width=" + w + ",Height=" + h + ",directories=no,menubar=no,scrollbars=no"
+  if ((newWind == null) || newWind.closed) {
+    newWind = window.open(theURL,winName,sParms);
+    } else {
+    newWind.focus();  //---The window is already open so bring it in front
+    }
+}
+
+function openWindowScroll(theURL,winName,w,h) {
+  var sParms = "toolbar=no,Width=" + w + ",Height=" + h + ",directories=no,menubar=no,scrollbars=yes"
   if ((newWind == null) || newWind.closed) {
     newWind = window.open(theURL,winName,sParms);
     } else {
@@ -218,7 +227,9 @@ function determineBrowserHeight()
 		
 		<a href="https://secure.selectpayment.com/login.asp"><img src="/images/i_logon.gif" height="67" width="77" border="0"></a><br>
 		
-		<a href="javascript:openWindow('/demo/default.asp','demo',750,420);"><img src="/images/i_demo.gif" height="65" width="64" border="0"></a>
+		<a href="http://www.selectpayment.com/merchants/merchantapplications.asp"><img src="/images/i_apply.gif" height="67" width="65" border="0"></a><br>
+		
+		<a href="javascript:openWindow('http://www.selectpayment.com/demo/default.asp','demo',750,420);"><img src="/images/i_demo.gif" height="67" width="64" border="0"></a>
 	</td>
     <td width="25">&nbsp;</td>
 
@@ -239,7 +250,7 @@ function determineBrowserHeight()
 						<td class="FooterText"><a href="/default.asp">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/AboutUs/ContactUs.asp?Info=&amp;Context=">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/AboutUs/PrivacyPolicy.asp?Info=&amp;context=">Privacy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/AboutUs/FAQ.asp">FAQ</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/SiteMap.asp">Site Map</a></td>
 					</tr>
 					<tr>
-						<td class="FooterText"><a href="/AboutUs/Copyright.asp?Info=&amp;Context="><span class="FooterLink">Copyright 2002 SelectPayment.  All rights reserved.</span></a></td>
+						<td class="FooterText"><a href="/AboutUs/Copyright.asp?Info=&amp;Context="><span class="FooterLink">Copyright 2003 SelectPayment.  All rights reserved.</span></a></td>
 					</tr>
 				</tbody></table>
 			</td>
