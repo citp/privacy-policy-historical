@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trinidadexpress.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603191037id_/http%3A//www.trinidadexpress.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trinidadexpress.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203225209id_/http%3A//www.trinidadexpress.com/privacy.htm) for the most accurate reproduction.*
 
 # Express Market: Search
 
