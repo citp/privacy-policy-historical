@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bid4assets.com privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616171354id_/http%3A//www.bid4assets.com/Help/legal/privacypolicy.cfm%3Fct%3DfooterPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bid4assets.com privacy policy that was archived on 2002-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020207001540id_/http%3A//www.bid4assets.com/Help/legal/privacypolicy.cfm%3Fct%3DfooterPrivacyPolicy) for the most accurate reproduction.*
 
 # Online Auctions: Aircraft, Businesses, Consumer and Commercial Loan Pools, Equipment, Financial, Furniture and Fixtures, Intellectual Property, Inventory, Personal Property, Real Estate, Vehicles, Boats -
 
