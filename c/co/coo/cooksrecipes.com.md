@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cooksrecipes.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604015129id_/http%3A//cooksrecipes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooksrecipes.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203030307id_/http%3A//cooksrecipes.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for CooksRecipes.com
 
@@ -22,13 +22,13 @@
 > 
 >     [**Ashford.com**](http://service.bfast.com/bfast/click?bfmid=12750952&siteid=38707972&bfpage=home)
 >     [**Amazon.com**](http://www.amazon.com/exec/obidos/redirect-home?tag=cooksrecipescom)
->     **[Barnes& Noble.com](http://service.bfast.com/bfast/click?bfmid=2181&sourceid=39243003&categoryid=rn_home)**
+>     [**Barnes & Noble.com**](http://service.bfast.com/bfast/click?bfmid=2181&sourceid=39243003&categoryid=rn_home)
 >     [**Be Free**](http://www.befree.com/)
 >     [**Commission Junction**](http://www.cj.com/)
 >     **[Fastclick.com](http://www.fastclick.com/re.f?7609)**
 >     [**KitchenEtc.com**](http://www.kitchenetc.com/)
->     [**LinenSource.com**](http://www.linensource.com/)
 >     [**"M &M's" Colorworks®**](http://service.bfast.com/bfast/click?bfmid=19698942&siteid=38707972&bfpage=homepage)
+>     [**Nestlé USA Meals.com**](http://www.meals.com/)
 >     [**PETsMART.com**](http://www.petsmart.com/)
 >     [**Shari's Berries®**](http://service.bfast.com/bfast/click?bfmid=6040392&siteid=38181712&bfpage=homepage)
 >     [**The Home Marketplace**](http://www.qksrv.net/click-500065-8234096) ****
