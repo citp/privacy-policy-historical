@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classyauto.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204102403id_/http%3A//www.classyauto.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classyauto.com privacy policy that was archived on 2005-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050303172709id_/http%3A//www.classyauto.com/privacy.php) for the most accurate reproduction.*
 
 # ClassyAuto.com - Muscle Cars For Sale, Classic Cars For Sale, Used Cars, Street Rods, Hot Rods, Customs, Exotic Cars, Trucks, Imports, Antique Cars, Classifieds For Sale By Owner
 
@@ -29,8 +29,8 @@ Only information used for the purpose of placing a classified ad is shared with 
 If you have any questions about this policy please contact us at:
 
 ClassyAuto.com  
-1913 Farnam, Suite A  
-Omaha NE 68102   
+1941 S 42nd St, Suite 104  
+Omaha NE 68105  
 Toll-free at 800-320-9557  
 Fax: 402-341-0264  
 Local Phone: 402-342-1570  
@@ -38,4 +38,4 @@ Local Phone: 402-342-1570
 
 Place your secure, on-line order today!
 
-[](https://web.archive.org/web/20041204102403id_/http%3A//www.classyauto.com/order.php)
+[](https://web.archive.org/web/20050303172709id_/http%3A//www.classyauto.com/order.php)
