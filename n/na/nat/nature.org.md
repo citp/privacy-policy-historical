@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nature.org privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603171818id_/http%3A//nature.org/aboutus/misc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nature.org privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205100838id_/http%3A//nature.org/aboutus/misc) for the most accurate reproduction.*
 
 # About Us :: Legal
 
@@ -44,7 +44,7 @@ In general, when you visit our Web sites and access information you remain anony
 There are occasions when we will ask for additional information. We do this to better understand and respond to your needs, and provide you with services that may be valuable to you. For example, personally identifiable information will be collected in order for you to become a member of The Nature Conservancy online. 
 
 Use of Information  
-Personally identifiable information is made available to other non-profit organizations and occasionally to for-profit organizations unless you request otherwise. Whether or not you choose to share your information will have no impact on your interaction with us. Members may choose a [confidentiality option](https://web.archive.org/web/20020603171818id_/http://nature.org/aboutus/misc/art5099.html) or call Member Service Center Monday through Friday between 9:00 a.m. and 5:00 p.m. EST at (800) 628-6860. We will not provide any of your personal information to other organizations if you elect to keep your record private.
+Personally identifiable information is made available to other non-profit organizations and occasionally to for-profit organizations unless you request otherwise. Whether or not you choose to share your information will have no impact on your interaction with us. Members may choose a [confidentiality option](https://web.archive.org/web/20021205100838id_/http://nature.org/aboutus/misc/art5099.html) or call Member Service Center Monday through Friday between 9:00 a.m. and 5:00 p.m. EST at (800) 628-6860. We will not provide any of your personal information to other organizations if you elect to keep your record private.
 
 Security of Your Credit Card Information  
 We will take appropriate steps to protect your privacy. We will also protect your personal information in storage. For example, if you supply us with your credit card information to become a member or make a donation, we encrypt the card number. Contributions may also be made by printing out the online form and mailing it to
@@ -71,7 +71,7 @@ Use of Cookies
 The Nature Conservancy uses cookies for various reasons. The Nature Conservancy only reads cookies written by our site. It does not use cookies to obtain information on other Web sites that you may visit. We may use cookies to store some history about the parts of our sites that you have visited to help you navigate our site more easily or to alert you to related pages on our site that may interest you. 
 
 How to unsubscribe from Nature News newsletters or our Email List  
-If at any time you wish to stop receiving our electronic newsletter, Nature News, or to be removed from our email list, you can unsubscribe from that list as explained in each message. We do not share email addresses with other organizations. 
+If at any time you wish to stop receiving our electronic newsletter, _Great Places_ , or to be removed from our email list, you can unsubscribe from that list as explained in each message. We do not share email addresses with other organizations. 
 
 Electronic Mail sent to us containing personal information  
 You may decide to send The Nature Conservancy personally identifying information, for example, in a message containing information about your membership. We will only use this information to identify you as a member of The Nature Conservancy and to determine how to respond to the electronic mail. We will not use this information for any purpose other than to resolve the matter identified in the email. 
@@ -93,6 +93,3 @@ The information you provide to us will also be covered by this policy.
 Due to the rapidly evolving technologies on the Internet, we may occasionally update this policy. All revisions will be posted to this site. A revised Privacy Policy will apply only to data collected subsequent to its effective date. 
 
 Last Revised: August 1, 2000
-
-  
-
