@@ -1,186 +1,86 @@
-> *The following text is extracted and transformed from the oklahoman.com privacy policy that was archived on 2001-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011221073721id_/http%3A//www.newsok.com%3Fprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oklahoman.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602114836id_/http%3A//www.newsok.com/%3Fprivacypolicy) for the most accurate reproduction.*
 
 # Welcome to NewsOK.com
 
-[](https://web.archive.org/?main) [  
-](https://web.archive.org/?subscribeonline) |  [Delivery/Services  
-](https://web.archive.org/?subscribeonline) [E-Mail Newsletters  
-](https://web.archive.org/?bnews) [Wireless  
-](http://www.wireok.com/)  
----  
-NewsOK  
+[](https://web.archive.org/?main) | NewsOK  
   
+---  
 [News  
 ](https://web.archive.org/?news)  
+[ Today](https://web.archive.org/?n_local)[ / Norman  
+](https://web.archive.org/?n_norman)  
 [NEWS 9  
 ](https://web.archive.org/?news9)  
 [Weather  
 ](https://web.archive.org/?weather)  
 [Sports  
 ](https://web.archive.org/?sports)  
-[Entertainment  
-](https://web.archive.org/?entertainment)  
 [Business  
 ](https://web.archive.org/?business)  
+[Photos  
+](https://web.archive.org/?photo)  
+[Entertainment  
+](https://web.archive.org/?entertainment)  
 [Lifestyle  
 ](https://web.archive.org/?lifestyle)  
-[NEWS  
-](https://web.archive.org/?news)  
-[City/State  
-](https://web.archive.org/?news)  
-[ Today  
-](https://web.archive.org/?n_local)  
-[ US/World  
-](https://web.archive.org/?news)  
-[ Opinion  
-](https://web.archive.org/?n_opinion)  
 [ Public Records/Obits  
 ](https://web.archive.org/?n_obits)  
-[ Bombing  
-](https://web.archive.org/?cc_bombing)  
-[ Continuing Coverage  
-](https://web.archive.org/?cc_contcoverage)  
-[Photo  
-](https://web.archive.org/?photo)  
-[ More...](https://web.archive.org/?n_morenews)  
-  
-[NEWS 9  
-](https://web.archive.org/?news9)  
-[Video  
-](https://web.archive.org/?news9)  
-[ TV Schedule  
-](http://tv.tribune.com/whatson/home/0,1002,kwtv-10,00.html)  
-[ Local News Network  
-](https://web.archive.org/?localnewsnetwork)  
-[ Radio Affiliates  
-](http://www.newsok.com/?news9radio)  
-[ CrimeTracker  
-](http://www3.kwtv.com/television/)  
-[ Disciplined Doctors  
-](http://db9.newsok.com/DiscDocs/DiscDocsSearch.asp)  
-[ Sex Offenders  
-](http://db9.newsok.com/sexoffenders/sex-offenders-map.htm)  
-[ Today in History  
-](http://wire.ap.org/APpackages/todayinhistory/)  
-[ More...](https://web.archive.org/?news9)  
-  
-[SPORTS  
-](https://web.archive.org/?sports)  
-[Sooners  
-](https://web.archive.org/?s_sooners)  
-[ Cowboys  
-](https://web.archive.org/?s_cowboys)  
-[ High school  
-](https://web.archive.org/?s_highschool)  
-[ Professional  
-](https://web.archive.org/?s_professional)  
-[ RedHawks  
-](https://web.archive.org/?s_hometeams)  
-[ Local scores  
-](https://web.archive.org/?s_localscores)  
-[ More...](https://web.archive.org/?sports)  
-  
-[ENTERTAINMENT  
-](https://web.archive.org/?entertainment)  
-[Movies  
-](http://alliance.zap2it.com/zap2it/code/movies_toolkit/cda/zp_mt_main_template/1,1009,27-1-73125-60,00.html)  
-[ TV  
-](http://tvlistings.zap2it.com/partners/zipcode.asp?partner_id=okl)  
-[ Diner's Digest  
-](http://www.dinersdigest.com/)  
-[ Bricktown  
-](http://www.bricktownokc.com/)  
-[ NEWS9 Schedule  
-](http://tv.tribune.com/whatson/home/0,1002,kwtv-10,00.html)  
-[ More...](https://web.archive.org/?entertainment)  
-  
-[BUSINESS  
-](https://web.archive.org/?business)  
-[Stocks  
-](https://web.archive.org/?business)  
-[ Oklahoma Inc.  
-](https://web.archive.org/?b_okinc)  
-[ Real Estate  
-](https://web.archive.org/?b_realestate)  
-[ Oil & Gas  
-](https://web.archive.org/?b_oilgas)  
-[ More...  
-](https://web.archive.org/?business)  
-[LIFESTYLE  
-](https://web.archive.org/?lifestyle)  
-[Weddings  
-](https://web.archive.org/?l_weddings)  
-[ Recipes  
-](https://web.archive.org/?l_recipes)  
-[ Family Search  
-](https://web.archive.org/?familysearch)  
-[ Pet Project  
-](http://kwtv.newsok.com/news/pet/petproject.htm)  
 [ Health Report  
 ](https://web.archive.org/?healthreport)  
-[ Bible lessons  
-](https://web.archive.org/?l_bible)  
-[ More...  
-](https://web.archive.org/?lifestyle)  
 FEATURES  
   
-[Columnists  
+[ Diner's Digest  
+](http://www.dinersdigest.com/)  
+[ News 9 This Morning  
+](https://web.archive.org/?9_thismorning)  
+[ CrimeTracker  
+](http://www3.kwtv.com/television/)  
+[ OKC Bombing  
+](https://web.archive.org/?cc_bombing)  
+[ May 3 tornadoes  
+](https://web.archive.org/?cc_may3)  
+[ Columnists  
 ](https://web.archive.org/?columnists)  
-[ Prayer  
-](https://web.archive.org/?l_prayer)  
 [ Crossword/Comics  
 ](https://web.archive.org/?e_comics)  
-[ Education  
-](https://web.archive.org/?n_education)  
-[ Youth  
-](https://web.archive.org/?n_youth)  
+[ Event Calendar  
+](http://connectok.newsok.com/calendar/index.shtml)  
+[ Movie times](http://alliance.zap2it.com/zap2it/code/movies_toolkit/cda/zp_mt_main_template/1,1009,27-1-73125-60,00.html)   
+  
+[ Movie reviews  
+](https://web.archive.org/?e_moviereviews)  
+[ TV listings  
+](http://tvlistings.zap2it.com/partners/zipcode.asp?partner_id=okl)  
 [ Nonprofits  
 ](http://connections.connectok.com/)  
-[Get a map  
-](http://www.zip2.com/connectok/scripts/staticpage.dll?ep=9002&GetaMapLink=1&ck=&ccity=Oklahoma+City+Metro&cstate=OK&adrVer=-1&ver=5.1)  
-[Directions  
-](http://www.zip2.com/connectok/scripts/staticpage.dll?ep=8200&sType=street&ck=&ccity=Oklahoma+City+Metro&cstate=OK&adrVer=-1&ver=5.1)  
-[ Flight Schedules  
-](http://www.flyokc.com/webfids/html/display/fids_aa.html)  
-CONTACT US  
-  
-[About The Oklahoman](https://web.archive.org/?abouttheoklahoman)  
-  
-[About News9](https://web.archive.org/?aboutnews9)  
-  
-[About NewsOK](https://web.archive.org/?aboutnewsok)  
-  
-[Oklahoman staff](https://web.archive.org/?oklahomanstaff)  
-  
-[News 9 staff](https://web.archive.org/?news9staff)  
-  
-[News 9 jobs](http://www.oklahomajobsearch.com/cgi-bin/search.cgi?Mode=Single&Profile=69)  
-  
-[NewsOK.com staff  
-](https://web.archive.org/?newsokstaff)  
-[Site Map](https://web.archive.org/?sitemap)  
-  
-ADVERTISING INFO  
+[ Opinion  
+](https://web.archive.org/?n_opinion)  
+[ Prayer  
+](https://web.archive.org/?l_prayer)  
+[ Recipes  
+](https://web.archive.org/?l_recipes)  
+[ Stocks  
+](https://web.archive.org/?business)  
+[ Top 10 E-mailed articles  
+](http://www.newsok.com/cgi-bin/top_email)  
+ADVERTISING  
   
 [Advertising online](http://www.newsok.com/marketing/index.html)  
   
 [Advertising print](http://oklahoman.newsok.com/advertising/index.html)  
   
+[Advertising TV](http://www.newsok.com/?9salesstaff)  
+  
 [Print Classifieds](http://www.newsok.com/cgi-bin/ClassifiedForm.cgi)  
   
 MARKETPLACE  
   
-[Shopping the Metro](http://connectok.newsok.com/shopping)  
-[Townsquare](http://www.searchok.com/townsquare/)  
-[Toast of the Town](http://connectok.newsok.com/toast)  
-[Yellow Pages](http://www.zip2.com/connectok)  
+[Shopping the Metro](https://web.archive.org/?shoppingthemetro)  
+[Toast of the Town](https://web.archive.org/?toastofthetown)  
+[Yellow Pages](http://www.switchboard.com/bin/cgidir.dll?MEM=1306)  
 [SearchOK](http://www.searchok.com/)  
-[Find a business](http://www.zip2.com/connectok)  
-  
-  
-[ ](http://www.askthepros.com/newsok.asp?StationID=Oklahoma+City)  
-  
-|  [](http://ad.doubleclick.net/jump/oklahoman.com/main;sz=468x60;ord=1580390483508?)   
+[Find a business](http://www.switchboard.com/bin/cgidir.dll?MEM=1306)  
+|  [](http://ad.doubleclick.net/jump/oklahoman.com/main;sz=468x60;ord=1580390488329?)   
 
 
 **PRIVACY POLICY OF NEWSOK.COM**
@@ -275,24 +175,15 @@ The foregoing policy is effective Feb. 7, 2001. NewsOK reserves the right to cha
 
 * * *
 
-[Privacy Policy](http://www.newsok.com/?privacypolicy)[ | Site Map](http://www.newsok.com/?sitemap)[ | FAQ's  
-](http://www.newsok.com/?help) © 2001, Produced by NewsOK |  | 
+[Privacy Policy](http://www.newsok.com/?privacypolicy)[ | Site Map](http://www.newsok.com/?sitemap)[ | FAQ's](http://www.newsok.com/?help)[ | Contact Us  
+](http://www.newsok.com/?contactus) © 2002, Produced by NewsOK |  | 
 
-| December - 2001  
+| Events Calendar  
 ---  
-S | M | T | W | T | F | S  
-|  |  |  |  |  | [1](http://connectok.newsok.com/calendar/cgi-bin/display_events.pl?op=getday&month=12&day=1&year=2001)  
-[2](http://connectok.newsok.com/calendar/cgi-bin/display_events.pl?op=getday&month=12&day=2&year=2001) | [3](http://connectok.newsok.com/calendar/cgi-bin/display_events.pl?op=getday&month=12&day=3&year=2001) | [4](http://connectok.newsok.com/calendar/cgi-bin/display_events.pl?op=getday&month=12&day=4&year=2001) | [5](http://connectok.newsok.com/calendar/cgi-bin/display_events.pl?op=getday&month=12&day=5&year=2001) | [6](http://connectok.newsok.com/calendar/cgi-bin/display_events.pl?op=getday&month=12&day=6&year=2001) | [7](http://connectok.newsok.com/calendar/cgi-bin/display_events.pl?op=getday&month=12&day=7&year=2001) | [8  
-](http://connectok.newsok.com/calendar/cgi-bin/display_events.pl?op=getday&month=12&day=8&year=2001)  
-[9](http://connectok.newsok.com/calendar/cgi-bin/display_events.pl?op=getday&month=12&day=9&year=2001) | [10](http://connectok.newsok.com/calendar/cgi-bin/display_events.pl?op=getday&month=12&day=10&year=2001) | [11](http://connectok.newsok.com/calendar/cgi-bin/display_events.pl?op=getday&month=12&day=11&year=2001) | [12](http://connectok.newsok.com/calendar/cgi-bin/display_events.pl?op=getday&month=12&day=12&year=2001) | [13](http://connectok.newsok.com/calendar/cgi-bin/display_events.pl?op=getday&month=12&day=13&year=2001) | [14](http://connectok.newsok.com/calendar/cgi-bin/display_events.pl?op=getday&month=12&day=14&year=2001) | [15  
-](http://connectok.newsok.com/calendar/cgi-bin/display_events.pl?op=getday&month=12&day=15&year=2001)  
-[16](http://connectok.newsok.com/calendar/cgi-bin/display_events.pl?op=getday&month=12&day=16&year=2001) | [17](http://connectok.newsok.com/calendar/cgi-bin/display_events.pl?op=getday&month=12&day=17&year=2001) | [18](http://connectok.newsok.com/calendar/cgi-bin/display_events.pl?op=getday&month=12&day=18&year=2001) | [19](http://connectok.newsok.com/calendar/cgi-bin/display_events.pl?op=getday&month=12&day=19&year=2001) | [20](http://connectok.newsok.com/calendar/cgi-bin/display_events.pl?op=getday&month=12&day=20&year=2001) | [21](http://connectok.newsok.com/calendar/cgi-bin/display_events.pl?op=getday&month=12&day=21&year=2001) | [22  
-](http://connectok.newsok.com/calendar/cgi-bin/display_events.pl?op=getday&month=12&day=22&year=2001)  
-[23](http://connectok.newsok.com/calendar/cgi-bin/display_events.pl?op=getday&month=12&day=23&year=2001) | [24](http://connectok.newsok.com/calendar/cgi-bin/display_events.pl?op=getday&month=12&day=24&year=2001) | [25](http://connectok.newsok.com/calendar/cgi-bin/display_events.pl?op=getday&month=12&day=25&year=2001) | [26](http://connectok.newsok.com/calendar/cgi-bin/display_events.pl?op=getday&month=12&day=26&year=2001) | [27](http://connectok.newsok.com/calendar/cgi-bin/display_events.pl?op=getday&month=12&day=27&year=2001) | [28](http://connectok.newsok.com/calendar/cgi-bin/display_events.pl?op=getday&month=12&day=28&year=2001) | [29](http://connectok.newsok.com/calendar/cgi-bin/display_events.pl?op=getday&month=12&day=29&year=2001)  
-[30](http://connectok.newsok.com/calendar/cgi-bin/display_events.pl?op=getday&month=12&day=30&year=2001) | [31](http://connectok.newsok.com/calendar/cgi-bin/display_events.pl?op=getday&month=12&day=31&year=2001) |  |  |  |  |   
+[June 2002](http://connectok.newsok.com/calendar/index.shtml)  
+  
 [Submit event](http://connectok.newsok.com/calendar/login.html)  
   
----  
 [Overview  
 ](http://connectok.newsok.com/calendar/overview.shtml)  
   
@@ -304,23 +195,15 @@ MARKETPLACE
   
 [Sunday Classifieds](http://www.newsok.com/cgi-bin/showclass?type=sunday)  
   
-[JobsOK](http://www.jobsok.com/)  
-  
-[HomesOK](http://www.homesok.com/)  
-  
-[CarsOK](http://www.carsok.com/)  
-  
 [ShopOK](http://www.shopokmall.com/)  
   
-[Shopping the Metro](http://connectok.newsok.com/shopping)  
+[Shopping the Metro](https://web.archive.org/?shoppingthemetro)  
   
-[TownSquare](http://www.searchok.com/townsquare/)  
+[Toast of the Town](https://web.archive.org/?toastofthetown)  
   
-[Toast of the Town](http://connectok.newsok.com/toast)  
-  
-[Yellow Pages](http://www.zip2.com/connectok)  
+[Yellow Pages](http://www.switchboard.com/bin/cgidir.dll?MEM=1306)  
   
 [SearchOK](http://www.searchok.com/)  
   
-[Find a Business](http://www.zip2.com/connectok)  
+[Find a Business](http://www.switchboard.com/bin/cgidir.dll?MEM=1306)  
 
