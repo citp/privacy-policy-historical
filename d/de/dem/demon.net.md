@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the demon.net privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622083022id_/http%3A//www.demon.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demon.net privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210091112id_/http%3A//www.demon.net/privacypolicy) for the most accurate reproduction.*
 
 # Demon Internet: Privacy Policy
 
@@ -12,7 +12,7 @@ This document outlines our privacy policy relating to usage of THUS websites. Th
 
 Even where allowed by this policy, THUS will not use your personal data in such a way as to breach the Data Protection Act or any other relevant UK legislation.
 
-This policy may change from time to time, without notice. Please see [www.demon.net/privacypolicy](https://web.archive.org/web/20040622083022id_/http://www.demon.net/privacypolicy/index.shtml) for the latest version.
+This policy may change from time to time, without notice. 
 
 ### What information does THUS collect from me when I visit a THUS website?
 
@@ -56,7 +56,9 @@ Generally THUS uses cookies (or similar mechanisms) to track your use of the sit
 
 It is also possible that third parties we use to monitor usage of our websites may make use of cookies to collect more information about the visit, such as the date and time, which pages users visited etc. This information gathered helps us to continually develop our websites to ensure users can easily access the information they require.
 
-A new European Directive (2002/58/EC) will come into force in the UK during 2003. This imposes new rules on the use of cookies and similar mechanisms. We are reviewing our policies to bring them into line with this Directive, and will update this privacy policy accordingly.
+If you do not wish us to use cookies to track your visit to this website, you can turn off cookies in your browser. To do so, please follow the instructions in the help files for your browser.
+
+If you are using Internet Explorer 6, go to Tools, Internet Options and then edit the cookie preferences in the Websites section of the Privacy tab.
 
 ### What if I click on a banner link?
 
