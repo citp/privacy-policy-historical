@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paypal.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603155316id_/http%3A//www.paypal.com/cgi-bin/webscr%3Fcmd%3Dp/gen/privacy-outside) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paypal.com privacy policy that was archived on 2002-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021129192500id_/http%3A//www.paypal.com/cgi-bin/webscr%3Fcmd%3Dp/gen/privacy-outside) for the most accurate reproduction.*
 
 # PayPal - Privacy Policy
 
