@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamaicans.com privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624193138id_/http%3A//www.jamaicans.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamaicans.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203022644id_/http%3A//jamaicans.com/privacy.htm) for the most accurate reproduction.*
 
 # Jamaicans.com Privacy Policy and Disclaimer - Jamaica
 
@@ -23,7 +23,7 @@ Personal information will not be released to third parties except to further the
 Jamaicans.com works with a third party that serves ads to this site.   
 
 
-If you have any additional questions about Jamaicans.com's dedication to consumer privacy, please [contact us](https://web.archive.org/web/20030624193138id_/http%3A//www.jamaicans.com/contact.htm). 
+If you have any additional questions about Jamaicans.com's dedication to consumer privacy, please [contact us](https://web.archive.org/web/20031203022644id_/http%3A//jamaicans.com/contact.htm). 
 
 Jamaicans.com Disclaimer
 
