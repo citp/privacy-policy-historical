@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the work.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204153952id_/http%3A//www.work.com/info/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the work.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403082405id_/http%3A//work.com/privacy.jsp) for the most accurate reproduction.*
 
-# Privacy Policy; Work.com
+# Privacy Policy - Work.com
 
 **Privacy Policy**
 
@@ -79,3 +79,5 @@ Work.com
 2120 Colorado Avenue, 3rd Floor  
 Santa Monica, CA 90404  
 [customerservice@Work.com](mailto:customerservice@Work.com)
+
+|  
