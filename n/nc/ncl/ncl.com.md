@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncl.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603121829id_/http%3A//ncl.com/ncl_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncl.com privacy policy that was archived on 2004-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041031080930id_/http%3A//www.ncl.com/ncl_privacy.htm) for the most accurate reproduction.*
 
 # NCL Privacy Policy
 
