@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the if.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607055035id_/http%3A//www.if.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the if.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208064412id_/http%3A//if.com/info/privacy.asp) for the most accurate reproduction.*
 
 # Intelligent Finance - Privacy policy
 
@@ -60,7 +60,7 @@ Remember that by opting out of receiving marketing information you'll not be tol
 
 Unless you have given us your consent, we'll not provide information about you to companies outside our group to use for their own marketing purposes. We disclose information about our customers only with their consent, or if we are required to do so by law. Sometimes we need to give information to our agents and subcontractors so that they can provide a particular service for us. Sometimes these companies may be located abroad in countries that don't have data protection laws. In these circumstances we always ensure that the information is safe and secure. Your information may also be shared by other members of our group to keep their records up to date and administer your relationship with them.
 
-We're also committed to meeting the standards set by the Banking and Mortgage Code. Leaflets explaining these codes are available from Intelligent Finance. If you'd like to be sent a copy of either leaflet please call us on 0845 609 4343. Occasionally, the Banking and Mortgage Code compliance review bodies audit a sample of our customer records to assess our compliance with the Codes. Whenever this happens, strict confidentiality conditions are always imposed.
+Occasionally, the Banking Code Standards Board who monitor compliance with the Banking Code, audit a sample of our customer records to assess our compliance with the Code. Whenever this happens, strict confidentiality conditions are always imposed.
 
 Under the Data Protection Act you've the right to have access to information we hold about you on our records. The act allows us to charge a fee of £10 for this service. If anything is inaccurate or incorrect, please let us know and we will correct it. 
 
@@ -72,7 +72,7 @@ If you don't want to receive unsolicited mail from other companies, you can prev
 
 For more details about all the Preference Services, please see the Direct Marketing Association's website at: <http://www.dma.org.uk/>
 
-If you apply for an Intelligent Finance credit based product (e.g. mortgage, personal loan, credit card or current account), we'll perform a search with a credit reference agency. The agency will keep a record of the search. After you open a credit based product, we will provide the agency with regular information about how you use it. Other lenders may use this to make decisions on future applications for credit. It may also be used for tracing debtors and to prevent fraud.
+If you apply for an Intelligent Finance credit based product, we'll perform a search with a credit reference agency. The agency will keep a record of the search. After you open a credit based product, we will provide the agency with regular information about how you use it. Other lenders may use this to make decisions on future applications for credit. It may also be used for tracing debtors and to prevent fraud.
 
 When opening jars and plans we may search public records such as the Electoral Roll that are available from Credit Reference Agencies to help us verify your identity.
 
@@ -84,7 +84,7 @@ You've the right to apply to the credit reference agencies for a copy of your cr
 
 We use Equifax plc, whilst other members of the HBOS Group also use Experian Limited. A third credit reference agency (Call Credit) has recently started up in the UK. Their addresses are as follows:
 
-**Equifax plc, PO Box 1140, Bradford, BD1 5US ([www.equifax.co.uk](http://www.equifax.co.uk/ "www.equifax.co.uk"))**
+**Equifax plc, PO Box 1140, Bradford, BD1 5US ([www.uk.equifax.com](http://www.uk.equifax.com/ "www.uk.equifax.com"))**
 
 **Experian Ltd, Consumer Help Service, PO Box 8000 Nottingham, NG1 5GX ([www.experian.co.uk](http://www.experian.co.uk/ " www.experian.co.uk"))**
 
