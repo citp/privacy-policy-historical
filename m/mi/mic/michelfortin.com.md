@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the michelfortin.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203092448id_/http%3A//successdoctor.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michelfortin.com privacy policy that was archived on 2004-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040614223811id_/http%3A//successdoctor.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # The Success Doctor™'s Privacy Policy
 
 | 
+
+[](http://successdoctor.com/forms/quote.htm)
 
 |  |  
 
@@ -52,7 +54,7 @@ _**Dr. Sheldon Nix _,_ The Successful Practice Institute**
 "I hear _**NOTHING**_ but great things about you. (...) Your work is so darn good. I thought you might like to see this testimonial that one of my clients (I referred to you) sent me. Thanks for helping him!"  
 **Ken McCarthy, Amacord.com (Dan Kennedy's Internet 'Guru')**
 
-**[Click for more...](https://web.archive.org/web/20031203092448id_/http%3A//successdoctor.com/testimonials.htm)**  
+**[Click for more...](https://web.archive.org/web/20040614223811id_/http%3A//successdoctor.com/testimonials.htm)**  
   
 ### **The Success Doctor™'s Privacy Policy**
 
@@ -70,7 +72,7 @@ _**Dr. Sheldon Nix _,_ The Successful Practice Institute**
 
 
 
-If you received unsolicited commercial information about this website or its offerings from an unknown third party (i.e., "spam"), report the abuse to me immediately [using this confidential form](https://web.archive.org/web/20031203092448id_/http%3A//successdoctor.com/forms). Appropriate action will be taken.
+If you received unsolicited commercial information about this website or its offerings from an unknown third party (i.e., "spam"), report the abuse to me immediately [using this confidential form](https://web.archive.org/web/20040614223811id_/http%3A//successdoctor.com/forms). Appropriate action will be taken.
 
 Also, not that this site uses several third parties to handle certain business services. Great care was taken in their selection. But if you have received unsolicited email as a result of using these services, please do not hesitate to report it immediately as well. They will be discontinued immediately.
 
@@ -78,10 +80,10 @@ Also, not that this site uses several third parties to handle certain business s
 
 Users are provided with the opportunity to easily opt-out of receiving future communications from Michel Fortin, modify information they've provided, or remove them from Mike's databases. You may do so in the following ways:
 
-  * **Online:** Directly through **[the mailing list](https://web.archive.org/web/20031203092448id_/http%3A//successdoctor.com/ezine/index.htm)** itself.
+  * **Online:** Directly through **[the mailing list](https://web.archive.org/web/20040614223811id_/http%3A//successdoctor.com/ezine/index.htm)** itself.
   * **Email:[removeme@successdoctor.com](mailto:removeme@successdoctor.com?subject=Remove%20Me%20Please "Email to remove your address from the mailing list!") **(use the correct email address at which you receive your mailings for proper removal)
-  * **Mail:** 863 Glasgow Crescent, Ottawa, Ontario K1K-0J5 (Canada)
-  * **Telephone or facsimile:** 613-748-1624
+  * **Mail:** 1561 Demeter Street, Ottawa, Ontario K4A-4Y9 (Canada)
+  * **Telephone or facsimile:** 613-834-6918
 
 
 
@@ -98,7 +100,7 @@ _The Success Doctor_ encourages parents to go online with their kids. Here are a
 
 #### **Questions?**
 
-If you have any questions, comments or concerns about this privacy pledge or about the practices of this website, do not hesitate to **[contact me](https://web.archive.org/web/20031203092448id_/http%3A//successdoctor.com/forms/index.htm)** at any time, in complete confidence, or call me directly at (613) 748-1624.
+If you have any questions, comments or concerns about this privacy pledge or about the practices of this website, do not hesitate to **[contact me](https://web.archive.org/web/20040614223811id_/http%3A//successdoctor.com/forms/index.htm)** at any time, in complete confidence, or call me directly at (613) 834-6918.
 
 > **The Privacy Partnership Pledge:** _"The Internet is an online community that allows unparalleled access to information. And community is built on trust and inherent in that trust is your right to privacy. As such, you deserve to choose what information you want to share, and to know what will happen to that information once you have shared it. This is your right."_
 
