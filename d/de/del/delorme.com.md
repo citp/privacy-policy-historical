@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the delorme.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206171400id_/http%3A//www.delorme.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delorme.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604163922id_/http%3A//www.delorme.com/privacy.htm) for the most accurate reproduction.*
 
 # DeLorme | Privacy Policy
 
@@ -31,17 +31,17 @@ In order to continually improve our Web site, we do study how people use it, and
 **How we use the information we collect  
 **We use required information, as the case may be, to process your order or to register your DeLorme purchases so that we can provide appropriate support. Customer information also contributes to the development of new or improved products or services.
 
-If you provide your e-mail, postal address or phone number, we may use them to communicate with you, but we will not do so [if you don't want us to](https://web.archive.org/web/20001206171400id_/http%3A//www.delorme.com/preferences.htm).
+If you provide your e-mail, postal address or phone number, we may use them to communicate with you, but we will not do so [if you don't want us to](https://web.archive.org/web/20010604163922id_/http%3A//www.delorme.com/preferences.htm).
 
-DeLorme greatly values you as a customer and respects your interest in your personal information. We are not in the practice of selling or renting names or other identifying information to outside parties. Yet, there may be occasional opportunities or needs to share information with carefully selected partners. This may or may not involve their communicating with you. In any case, our partners are not permitted to provide this information to another party. DeLorme considers such relationships only if we truly believe in their benefit to our customers and our products; however [if you do not wish to be included, please let us know](https://web.archive.org/web/20001206171400id_/http%3A//www.delorme.com/preferences.htm).
+DeLorme greatly values you as a customer and respects your interest in your personal information. We are not in the practice of selling or renting names or other identifying information to outside parties. Yet, there may be occasional opportunities or needs to share information with carefully selected partners. This may or may not involve their communicating with you. In any case, our partners are not permitted to provide this information to another party. DeLorme considers such relationships only if we truly believe in their benefit to our customers and our products; however [if you do not wish to be included, please let us know](https://web.archive.org/web/20010604163922id_/http%3A//www.delorme.com/preferences.htm).
 
 **How we use e-mail  
 **DeLorme e-mails your online order confirmation to you. We occasionally send e-mail notices of upgrades, special offers and new product announcements. We may also solicit your input on new products or feedback on existing ones. You may remove your name from our e-mail list at any time by following the "Unsubscribe" instructions at the bottom of any e-mail message from us. You will continue to receive e-mail order confirmations.
 
 **How you can update your preferences  
-**You may update your preferences at any time by filling out our [Preferences form](https://web.archive.org/web/20001206171400id_/http%3A//www.delorme.com/preferences.htm).
+**You may update your preferences at any time by filling out our [Preferences form](https://web.archive.org/web/20010604163922id_/http%3A//www.delorme.com/preferences.htm).
 
 **How to contact us  
 **If your question or concern is specifically about privacy, send e-mail to [privacy@delorme.com](mailto:privacy@delorme.com). 
 
-We welcome your comments and are always glad to answer your questions. See [Contact Us](https://web.archive.org/web/20001206171400id_/http%3A//www.delorme.com/companyinfo/contact.htm).
+We welcome your comments and are always glad to answer your questions. See [Contact Us](https://web.archive.org/web/20010604163922id_/http%3A//www.delorme.com/companyinfo/contact.htm).
