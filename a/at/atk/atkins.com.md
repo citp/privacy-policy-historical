@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atkins.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203041635id_/http%3A//atkins.com/Archive/2001/12/26-526762.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atkins.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609232945id_/http%3A//atkins.com/Archive/2001/12/26-526762.html) for the most accurate reproduction.*
 
 # Atkins Nutritionals: Help: Privacy Policy
 
