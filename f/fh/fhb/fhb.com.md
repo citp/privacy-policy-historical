@@ -1,204 +1,169 @@
-> *The following text is extracted and transformed from the fhb.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205102200id_/http%3A//www.fhb.com/hm_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fhb.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602150210id_/http%3A//www.fhb.com/hm_privacy.htm) for the most accurate reproduction.*
 
 # First Hawaiian Bank
 
-**How First Hawaiian Protects your Privacy  
-First Hawaiian Bank takes seriously our responsibility to protect the privacy of customers' financial information. Confidentiality has been a hallmark of banking for centuries. At First Hawaiian, our employees treat information concerning your accounts in the same responsible, confidential way we want our own financial affairs treated.**
+**How First Hawaiian Protects your Privacy**
 
-This privacy policy explains: 
+  
+First Hawaiian takes seriously our responsibility to protect the privacy and security of individual customers' financial information.
 
-  * How we protect your privacy when you visit this First Hawaiian Bank Website. 
-  * Our Privacy Policy to safeguard information we have about you and your accounts. 
-  * First Hawaiian's prohibition on sale of customer information to outside telemarketers. 
-  * How you can make sure credit reports about you are accurate. 
-  * How to avoid unwanted mail solicitations. 
-  * How you can prevent confidential financial information about you from being used fraudulently by others.
+We want you to understand: 
+
+  * Our Internet Privacy Policy at First Hawaiian. 
+  * What information we collect about you. 
+  * What information we disclose about you and who we disclose this information to. 
+  * How to tell us not to share certain information about you within our corporate family. 
+  * How we safeguard information about you. 
 
 
 
 * * *
 
-**Internet Privacy**
+**Internet Privacy at First Hawaiian**
 
-****
+To protect your personal information online, First Hawaiian goes to great lengths to see that your transactions are confidential and secure. 
 
-**Q. Is my privacy protected if I visit First Hawaiian's Website (www.fhb.com) on the Internet?**  
-A. Yes. If you apply online for First Hawaiian Bank products, the personal information you provide to us is encrypted using Secure Socket Layer (SSL) technology. 
+When you visit First Hawaiian's Website (www.fhb.com) and apply for First Hawaiian Bank products, or enroll in online banking at FHB Online, the personal information you provide to us is encrypted using Secure Sockets Layer (SSL) technology. SSL provides secure communications over the Internet by verifying that the server to which you are connected is the one it claims to be. It also encrypts -- or scrambles -- all transactions between the parties communicating so it's virtually impossible for anyone else to read it. 
 
-Also, for each visitor to our Web page, our Web server automatically recognizes only: 
+Also, when you visit our Website, our Web server automatically recognizes only: 
 
-  * The consumer's Internet Service Provider (for example, America Online), but not your specific e-mail address. For instance, if your e-mail address is _johndoe@hawaii.net,_ only the _hawaii.net_ part of the address is recognized. 
-  * Aggregate information on which pages **** consumers visit, but no information on pages visited by any individual consumer. The aggregate information we collect (for instance, how many "hits" on a particular Web page) is used for internal review to improve the content of our Web page, and is then discarded. 
+  * Your Internet Service Provider (for example, America Online), but not your specific e-mail address. For instance, if your e-mail address is _johndoe@hawaii.net,_ only the _hawaii.net_ part of the address is recognized. 
+  * Aggregate information on which pages consumers visit, but no information on pages visited by any individual consumer. The aggregate information we collect (for instance, how many "hits" on a particular Web page) is used for internal review to improve the content of our Web site, and is then discarded. 
 
 
 
 Here's what we do with information volunteered by the consumer, such as survey information or information requests: 
 
-**E-Mail Address.** If you supply us with your e-mail address online when requesting information about a specific product or service, you will only receive the information that you requested when you provided us your e-mail address. 
+**E-Mail Address. **If you supply us with your e-mail address online when requesting information about a specific product or service, you will only receive the information that you requested when you provided us your e-mail address. 
 
-**FHB Online SM Personal Information:** If you enroll in our FHB OnlineSM service and supply us with personal data (such as e-mail address, birthdate, income range or home ownership information) we may use this data to provide you with personalized information on products, services or special promotions we feel will be of interest to you. However, if you wish to be excluded from receiving such information by e-mail, we'll give you an opportunity to tell us this online. We will respect your wishes not to receive such e-mail.
+**FHB Online SM Personal Information: ** If you enroll in our FHB OnlineSM service and supply us with personal data (such as e-mail address, birth date, income range or home ownership information) we may use this data to provide you with personalized information on products, services or special promotions we feel will be of interest to you. However, if you wish to be excluded from receiving such information by e-mail, we'll give you an opportunity to tell us this online. We will respect your wishes not to receive such e-mail.
 
-**Postal Mail Address.** If you supply us with your postal address online, you will only receive the information for which you provided us your address.
+**Postal Mail Address. ** If you supply us with your postal address online, you will only receive the information for which you provided us your address.
 
-**Telephone Number.** If you supply us with your telephone number online, you may receive telephone contact from us with information regarding inquiries you have placed online.
+**Telephone Number. ** If you supply us with your telephone number online, you may receive telephone contact from us with information regarding inquiries you have made online.
 
-* * *
+**Financial planning tools. ** We have built into fhb.com many planning tools to help you make financial decisions in the privacy of your home. When you use these tools to construct "what-if?" scenarios about mortgages, car loans, etc., we do not capture the personal information you provide on these planning tools.
 
-******First Hawaiian Privacy Policy**
+**FHB Online.** When you bank online with First Hawaiian, we, along with the outside companies we work with to bring this service to you, have access to your information. Information is retained on our system or the system of the appropriate outside company to serve you. 
 
-We recognize the importance you place on your privacy and the confidentiality of your financial information. We want you to be informed of our policies to safeguard your privacy:
+To protect your personal information, we use state-of-the-art Internet technology. We also require that you furnish a User Name and password to access your accounts. You can help maintain the security of your banking information by not sharing your User Name or password with anyone, by changing your password regularly, and by remembering to sign off. 
 
-(1) We do all that we can to make sure that information we have about customers is accurate, and is accessible only by those employees actively engaged in dealing with you or your accounts. 
+**Internal security. ** Security procedures within FHB Online include stringent systems to protect internal account information from outside access and make the structure of the bank's internal networks invisible to outside observers. 
 
-(2) Other than the limited exceptions explained in this privacy policy, we do not share confidential customer information outside the First Hawaiian family of companies. You don't need to request this confidentiality \-- it's our standard practice.
+**Remember to log-off**.  Leaving your computer with your FHB Online account information open, even for a few moments, can be dangerous. Before you leave your computer, please remember to log out of FHB Online by clicking the "log out" button. This ends your session and ensures that the next time you or anyone else tries to enter your account, they have to know your User Name and Password. 
 
-(3) We don't employ outside telemarketing companies to sell First Hawaiian products and services, nor do we sell or give customer information to outside telemarketing companies to use to solicit business from you. 
+**About "cookies."** A cookie is a file sent from a website to a computer that is logged on to the site. This file lets the site recognize if the computer has been there before and what security requirements and browser preferences the computer requires. 
 
-(4) We educate our employees about their responsibility to protect your privacy. 
+To provide better service and a more effective website, we use "cookies" as part of our interaction with your browser. These cookies do not collect personally identifiable information, and we do not combine information collected through cookies with other personal information to determine who you are or your e-mail address. Cookies are commonly used on websites and do not harm your system. 
 
-Here are answers to common questions you may have: 
-
-  
-  
-
-
-**Our Information About You**
-
-**Q. Inside First Hawaiian Bank, how do you control information about my accounts?  
-****A**. First Hawaiian's employees are informed of their responsibility to protect the confidentiality of customer information and are subject to discipline for violating this policy. Only employees actively engaged in the discharge of assigned duties involving customer information are authorized to access that information.
-
-**Q. Why do you have information about me?  
-****A**. We collect and use information about individual customers only: 
+**Protecting your children. ** We do not knowingly solicit data from children under 13, and we do not knowingly market to children. We recognize that protecting children's identities and privacy online is important and that the responsibility to do so rests with both the online industry and with parents. 
 
 **
 
-(1) To open and administer your accounts and provide superior service. 
-
-(2) To help us provide you with additional products or services you might want to know about. Many people have told us they like getting information related to their interests or alerting them to unique products and services.
-
-(3) To help us protect you and First Hawaiian from financial loss. 
-
-In some cases, laws governing financial institutions require us to gather information. For example, federal regulations require that we obtain a Social Security number or Tax Identification Number for many types of accounts. 
-
-We use information about you only in accordance with the principles set out in this Privacy Policy.
+* * *
 
 **
 
-**Q. What can I do if I discover that information First Hawaiian has is inaccurate?  
-****A**. It's in your interest and ours to have accurate, current and complete information concerning you and your accounts. If you believe that we have erroneous information, please contact your First Hawaiian Branch or call (808) 844-4444. We want to correct any inaccuracies right away. 
+**First Hawaiian Privacy Policy**
 
-* * *
+**WHAT INFORMATION WE COLLECT ABOUT YOU.**
 
-******Credit Report Information About You**
+In the course of doing business with you, we collect nonpublic personal information about you. "Nonpublic personal information" is personally identifiable financial information about you. For example, it includes information regarding your account balance, payment history, and overdraft history. 
 
-**Q. Do you use information from consumer credit reports provided from outside the bank?  
-****A**. Yes. It's standard banking industry practice to obtain information from reputable credit information reporting agencies. When we do, you are protected both by our own Privacy Policy and by the Fair Credit Reporting Act, a federal law.
+We collect the information from the following sources: 
 
-We will notify you if we decline any application made by you and if we used a consumer credit report during the processing of your application. 
+* Applications or other forms we receive from you. 
+* Your transactions with us, our affiliates, or others. 
+* Consumer reporting agencies, including credit bureaus. 
 
-We may also use information from credit reports to prescreen prospects for banking products and services. Federal law requires us to notify you whenever such reports have been used to solicit your business. You may request that credit reporting agencies remove your name from lists supplied to us for transactions you do not initiate. 
+**WHAT INFORMATION WE DISCLOSE AND WHO WE DISCLOSE INFORMATION TO.**
 
-**Q. What exactly is on these credit reports?  
-****A**.Your credit report includes personal and financial information such as your account balances and your payment history for credit cards, mortgages or other consumer loans. If you don't make payments on time or miss a payment, your credit report may show that, even if you catch up on your payments later. Late payments and other "negative" information can remain on your credit report for up to 7 years; bankruptcies, for up to 10 years.
+We may disclose all the nonpublic personal information we collect about you as permitted by law. For example, we may disclose nonpublic personal information about you to affiliated members of our corporate family and to nonaffiliated third parties such as:
 
-By law, an individual's credit report can be given to insurance companies, banks and others when needed to transact business with you. There are many uses for credit reports. For instance, those who make loans \-- such as First Hawaiian -- may refer to the reports to verify the credit-worthiness of borrowers.
+* Government entities, in response to subpoenas or to comply with laws or regulations. 
+* When you direct us to do so or consent to the disclosure. 
+* Companies that perform services necessary to process your transactions or maintain your account -- for example, data processing companies or ATM networks. 
+* When needed to protect against fraud, or to collect unpaid debts. 
+* Credit bureaus, which prepare reports on your creditworthiness. 
 
-To examine the status of your credit report:
+**INFORMATION ABOUT FORMER CUSTOMERS.**
 
-  * Call or write each of the major credit bureaus and get a copy of your report. 
-  * If you spot a problem, promptly inform the credit bureau in writing. 
+If you close your account(s) or become an inactive customer, we will continue to adhere to the policies and practices described here. 
 
+**OUR SERVICE PROVIDERS AND JOINT MARKETING ARRANGEMENTS.**
 
+We may disclose your nonpublic personal information to:
 
-The bureau must investigate the disputed entry and correct any errors. It's a good idea to let each of the major bureaus know if you find a problem in one report.
+* Companies that perform services on our behalf, such as marketing. 
+* Other financial institutions with whom we have joint marketing agreements. For example, when you purchase an investment product (such as a mutual fund or annuity), you may be dealing with one of our employees who also works for the company that sells the investment products. When you provide information in connection with your purchase of the investment product, you provide it both to us and to the other company involved in offering these products. 
 
-For a fee, each of the three national credit bureaus will supply you with a copy of your report. However, if you have been denied credit within the past 60 days because of information in your credit report, you are entitled to a free copy of that report.
+Information we can share with our corporate family about you -- unless you **tell us not to.**
 
-Here is how to contact three of the larger national credit bureaus: 
+Companies in First Hawaiian Bank's corporate family include First Hawaiian Bank, First Hawaiian Insurance and other affiliated financial institutions who work with us to provide products and services that may benefit you. We are permitted by law to share information about our experience or transactions with you or your account with members of our corporate family. 
 
-  * Equifax, Inc.   
-P.O. Box 740241   
-Atlanta, GA 30374-0241   
-(800) 997-2493   
-www.equifax.com 
+**Unless you tell us not to , **we may also share with these companies in our corporate family other information about you including:
 
+* Information we obtained from an application you completed, such as your income or marital status; 
+* Information we obtained from a consumer report, such as credit score or credit history; 
+* Information we obtained to verify representations made by you, such as your open lines of credit with other financial institutions; 
+* Information we obtained from a third party regarding its employment, credit, or other relationship with you, such as your employment history. 
 
-  * Trans Union Corporation  
-2 Baldwin Place  
-P.O. Box 1000  
-Chester, PA 19022  
-(800) 888-4213  
-www.tuc.com
+**HOW TO TELL US _NOT_ TO SHARE THIS INFORMATION WITH OUR CORPORATE FAMILY **
 
+If you prefer that we **_not_** share this information with companies in our corporate family, you may direct us not to share this information by filling out an "Opt-Out Request" form, available at any First Hawaiian branch, and mailing it back to the address on the form. 
 
-  * Experian National Consumer Assistance Center  
-P.O. Box 2104  
-Allen, TX 75013-2104   
-(888) 397-3742  
-www.experian.com
+Note: Your direction to us as described in this paragraph covers only certain information about you that we might otherwise share with our corporate family. As explained above, we may continue to share experience or transaction information about you with our corporate family as permitted by law. 
 
+**For joint accountholders:** If you have a joint account, you may direct that your "Opt-Out Request" apply (1) only to yourself or (2) all persons listed on your joint accounts. 
 
+**HOW WE SAFEGUARD INFORMATION.**
 
-**Q. Does First Hawaiian provide credit information to credit reporting agencies?  
-****A**. Yes. In accordance with standard banking industry practice, we share certain information about our customers with reputable credit reporting agencies, so creditors can verify the existence and condition of customers' accounts.
+Within First Hawaiian Bank, access to nonpublic personal information about you is limited to our employees and in some cases to third parties (for example, the service providers described above) as permitted by law. We maintain physical, electronic and procedural safeguards that comply with federal standards to guard your nonpublic personal information.
 
-On occasion, an entity other than a credit-reporting agency -- such as another financial institution or a business -- may ask us for credit information about an individual or business customer. For example, you may be applying for a loan at another bank or establishing a credit relationship with a business. In such **** instances, we will not **** provide information about you unless you have given your prior written authorization.
+**YOUR MEDICAL INFORMATION.**
 
-* * *
+You may sometimes provide medical information to us for a specific financial purpose (for example, to request insurance coverage.) We recognize that, when you do provide such information, it should only be used for the intended purpose. We do not share medical or health information among our family of companies or with third parties except to process transactions or to provide services you have requested or initiated, such as an insurance application. We do not use personal medical information about our customers for marketing purposes or in making credit decisions.
 
-******Use of Information About You Outside First Hawaiian**
+**FREQUENTLY ASKED QUESTIONS.**
 
-**Q. Do you give information about customers to the government?  
-****A** **.** We _only_ disclose customer information to the government: (1) when we are required to do so by laws and regulations, (2) when we are served with a subpoena or court or administrative order, or (3) when a customer authorizes us to do so.
+**Q. ACCURACY**. **How can I make sure that the information you have about me is accurate?  
+A. **If you believe that we have incorrect information, please write or call us at the address or telephone number listed on your account statement. Or you may call 844-4444 (from Oahu) or call toll-free 888-844-4444 (from the Mainland U.S. or Neighbor Islands). From Guam, call (671) 475-7900. From CNMI, call (670) 235-3090.
 
-**Q. What happens if I'm involved in a lawsuit and bank records are subpoenaed?  
-****A** **.** If you are involved in a lawsuit, we will only disclose information about you or your accounts to third-party litigants when we are required to do so.
+**Q. TELEMARKETING. Do you furnish my personal information to outside telemarketers?  
+A. **No. At no time do we use outside telemarketing companies to sell First Hawaiian products and services, nor do we sell or give customer information to outside telemarketing companies to use to solicit business from you.
 
-**Q. Do you give information about me to anyone else outside First Hawaiian's family of companies?  
-****A** **.** Our policy is not to share specific customer information with independent companies for any purpose not connected with financial products and services.
+**Q. CREDIT REPORTS. What information do credit bureaus have about me? How can I make sure it's correct?  
+A. **Your credit report includes personal and financial information such as your account balances and account payment history for credit cards, mortgages or other consumer loans. By law, an individual's credit report can be given to insurance companies, banks and others when needed to transact business with you.
 
-Like most banks, First Hawaiian contracts with outside companies to provide support services such as data processing, check printing, insurance products and statement mailings. These vendors are required to treat such customer information confidentially and use the information only for the specific bank purpose stated. Vendors are prohibited from reusing or selling customer information.
+It's a good idea to check your report periodically to see that the information is accurate and up to date. For a fee, each of the major credit bureaus below will supply you with a copy. However, if you have been denied credit within the past 60 days because of information in your credit report, you are entitled to a free copy.
 
-We also may share account and customer information among the legal entities that comprise the First Hawaiian family of companies. These entities may use the information to help identify additional products or services that you might want to know about.
+Equifax, Inc. (800) 997-2493 [www.equifax.com](http://www.equifax.com/)  
+Trans Union Corp. (800) 888-4213 [www.tuc.com](http://www.tuc.com/)  
+Experian (888) 397-3742 [www.experian.com](http://www.experian.com/)
 
-In connection with a customer's unpaid debts, we may also exchange information with financial institutions and other companies, in accordance with standard banking industry practice, to verify the existence and condition of customers' accounts. We **** do not share specific personal customer information with independent companies for any other purpose without the customer's consent.
+**Special offers from us.**  
+We want you to be able to choose whether to receive information about special offers of products and services from us. For example, you can choose to remove your name from our marketing lists so that you will not receive offers by mail, telephone or e-mail. This may mean you might not receive information of interest to you. (Of course, we will continue to send you routine statements and information concerning your accounts.) You may direct us to remove your name from our marketing lists by writing to:
 
-**Q. May I request that you not send product information to me or share information about me with companies within the First Hawaiian family?  
-**A.The law permits us to share within the First Hawaiian family of companies and with credit reporting agencies information concerning a customer's account history and experiences with First Hawaiian. However, if you wish to be excluded from: (1) offers of products or services by mail, and/or (2) sharing of other information about you within the First Hawaiian family of companies, please write:
-
-**** First Hawaiian Bank  
-Marketing Communications Division  
+Customer Information Manager  
+First Hawaiian Bank  
 P.O. Box 3200  
-Honolulu, HI 96847 
+Honolulu, HI 96847
 
-While this may mean you might not receive product information of interest to you, we will respect anyone's request not to receive such information by mail. (Of course, we will continue to send you routine statements and information concerning your existing accounts.)
+When doing so, please provide your name, address, Social Security number and First Hawaiian Bank account numbers.
 
-* * *
+**PROTECT YOUR GOOD NAME.**
 
-******************Protect Yourself From Fraud**
+You can take steps to secure your personal information and guard against identity theft, one of the fastest-growing kinds of fraud. (Identity theft occurs when criminals steal your financial information and assume your identity -- applying for credit in your name, running up huge bills and generally wrecking your credit history.)
 
-**Q. How can I prevent financial information about me from being used fraudulently?  
-A**. Here are some suggestions: 
+  * **Never** give your Social Security number, credit card or bank account information on the phone unless you initiate the call.
+  * **Don't** print your Social Security number on your checks.
+  * Protect banking personal identification numbers (PINs) and passwords. Don't carry PINs in your wallet! **Never** use your Social Security number as a password. Change your PIN regularly.
+  * Tear up receipts, bank statements and unused credit card offers before throwing them away.
+  * Review account statements regularly for unauthorized charges.
+  * If you suspect your identity has been stolen:  
+1\. Contact First Hawaiian Bank (808-844-4444) immediately so we can start closing accounts and clearing your name.  
+2\. File a police report and call the fraud units of the major credit bureaus: Trans Union (800) 916-8800, Experian (800) 397-3742 and Equifax (800) 525-6285.  
+3\. Report the incident to the toll-free Identity Theft Hotline of the Federal Trade Commission at 1-877-ID THEFT (438-4338). Counselors there can help you resolve problems.  
 
-  * Never give your credit card or bank account number to any unsolicited caller who is unknown to you and seeks to sell you something or offers you a prize.
-  * Check out unfamiliar companies by calling your state consumer protection office (Hawaii Office of Consumer Protection, 808-587-3222) and the Better Business Bureau (Honolulu, 808-536-6956). You can also report suspicious telemarketing calls to the National Fraud Information Center Hotline at (800) 876-7060. The hotline is run by a nonprofit organization.
-  * Memorize your personal identification number (PIN) for ATM transactions and other banking business. Keep it separate from your card. Never use your Social Security number as a password.
-  * Do not put your address, phone number, or other personal information that does not appear on the front of your credit card on a credit card receipt.
 
 
-
-* * *
-
-**Unwanted Mail Solicitations**
-
-**Q . I get too many mail solicitations from all over the country. Is there anything I can do about it?  
-A**. While it's impossible to entirely control who directs mail offers to you, you can take steps to reduce unwanted offers, safeguard your privacy and sit in the information driver's seat.
-
-The information above explains how to contact First Hawaiian to request to be excluded from our mail lists. If you wish to have your name removed from other mailing lists, send a written "do not mail" request with your name, address and Social Security number to:
-
-Mail Preference Service  
-c/o Direct Marketing Association  
-P.O. Box 9008  
-Farmingdale, NY 11735-9008
-
-The Direct Marketing Association will alert its member companies of your wishes. But bear in mind, the DMA informs only its members. Non-members won't be aware of your request.
