@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ansi.org privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203193700id_/http%3A//web.ansi.org/public/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ansi.org privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607131129id_/http%3A//www.ansi.org/public/privacy.html) for the most accurate reproduction.*
 
 # ANSI Online Privacy Statement
 
@@ -12,7 +12,7 @@ Online transactions via the Electronic Standards Store (ESS) utilize a secure se
 
 The Electronic Standards Store (ESS) utilizes a technology called "cookies" to assist returning shoppers. Cookies are small bits of data that web servers store on the user's hard drive. Cookies record information about visits to a particular site, and can only be read back later by the site that created them. Cookies store data such as a log-in ID and password so that the user only has to enter that data once. Cookies make it possible to create a "shopping cart" into which the user can place selections before checking out. With cookies, a user can even log-off half way through a shopping expedition and pick up later at the point where he or she left the transaction. Though ANSI monitors traffic to its web sites and the pages that are visited, neither "cookies" nor data about individual customers are correlated with viewing habits or shopping preferences. 
 
-Contractual agreements between ANSI and a number of its accredited standards developers require ANSI to provide the developer with information concerning customers who have purchased standards developed by that developer. This information is limited to the customer name, organization and contact information. That is the extent to which ANSI provides customer data to third parties. Credit card information is never provided to third parties. 
+Contractual agreements between ANSI and a number of its accredited standards developers require ANSI to provide the developer with information concerning customers who have purchased standards developed by that developer. Therefore, customers using the ESS are advised that their contact information may be shared with an ANSI accredited standards developer. Customer credit card information is never provided to third parties. In addition, ESS customers may advise ANSI that they wish to receive information from third parties that offer similar or related products or services. ANSI makes no claims with respect to the potential use of customer information by its accredited standards developers or other third parties. 
 
 **Policy/Technical Activity-Member/Technical Contact Data**
 
@@ -35,6 +35,6 @@ Members/Constituents who have questions or concerns relative to the disclosure o
 
 **Questions/Comments**
 
-Questions or comments about this privacy statement or our practices may be submitted via e-mail to the web site administrator via [**our Feedback Page**](http://web.ansi.org/public/feedback.asp)
+Questions or comments about this privacy statement or our practices may be submitted via e-mail to the web site administrator via [**our Feedback Page**](http://www.ansi.org/public/feedback.asp)
 
 ANSI Online contains links to other web sites. ANSI makes no claim regarding nor accepts responsibility for the privacy practices or the content of such other web sites to which it may link except in cases where ANSI manages the linked web site in which case the privacy practices for that site will be disclosed thereon. 
