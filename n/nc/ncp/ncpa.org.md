@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncpa.org privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209115116id_/http%3A//ncpa.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncpa.org privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608103423id_/http%3A//ncpa.org/privacy.html) for the most accurate reproduction.*
 
 # National Center for Policy Analysis - Privacy Policy
 
@@ -42,14 +42,14 @@ If you have any questions about this privacy statement, the practices of these s
 
 Rick Smith   
 National Center For Policy Analysis   
-12655 N. Central Expy. - Suite 720   
-Dallas, TX 75243-1739   
+12770 Coit Rd., - Suite 800   
+Dallas, TX 75251-1339   
 [webmaster@ncpa.org](mailto:webmaster@ncpa.org?subject=Question%20About%20NCPA%20Privacy%20Policy)
 
 | 
 
 * * *
 
-12655 N. Central Expy., Suite 720 - Dallas, TX 75243-1739 - 972/386-6272 - Fax 972/386-0924  
+12770 Coit Rd., Suite 800 - Dallas, TX 75251-1339 - 972/386-6272 - Fax 972/386-0924  
 655 15th St. N.W., Suite 375 - Washington, DC 20005 - 202/628-6671 - Fax 202/628-6474  
 Copyright © 2002 National Center for Policy Analysis - All rights reserved.
