@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sun-sentinel.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208180912id_/http%3A//www.sun-sentinel.com/about/site/sfl-privacypolicy.story) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sun-sentinel.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607031825id_/http%3A//www.sun-sentinel.com/about/site/sfl-privacypolicy.story) for the most accurate reproduction.*
 
-# Sun-Sentinel:
+# Sun-Sentinel.com Privacy Policy: South Florida Sun-Sentinel
 
 _Last Updated: July 2003_
 
