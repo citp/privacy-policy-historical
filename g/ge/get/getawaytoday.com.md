@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getawaytoday.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606122303id_/http%3A//getawaytoday.com/index.cfm%3Ffuseaction%3Dhome.privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getawaytoday.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204120609id_/http%3A//www.getawaytoday.com/index.cfm%3Ffuseaction%3Dhome.privacypolicy) for the most accurate reproduction.*
 
 # Get Away Today Family Vacation Packages and Discount Disneyland Vacation Packages
 
@@ -33,5 +33,5 @@ Protecting the privacy of the very young is especially important. For that reaso
 ###  How To Contact Us
 
 Should you have other questions or concerns about these privacy policies,   
-please call us at 1-800-523-6116 or [click here](https://web.archive.org/web/20040606122303id_/http%3A//getawaytoday.com/index.cfm?fuseaction=home.contactus) to send us an e-mail.   
+please call us at 1-800-523-6116 or [click here](https://web.archive.org/web/20041204120609id_/http%3A//www.getawaytoday.com/index.cfm?fuseaction=home.contactus) to send us an e-mail.   
 
