@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the romantic-lyrics.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604021447id_/http%3A//www.romantic-lyrics.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the romantic-lyrics.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206102203id_/http%3A//www.romantic-lyrics.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
 |  **By Song Title**  
 ---  
-**[Lyrics A - E](https://web.archive.org/web/20020604021447id_/http%3A//www.romantic-lyrics.com/lyricsae.shtml)  
-[Lyrics F - J](https://web.archive.org/web/20020604021447id_/http%3A//www.romantic-lyrics.com/lyricsfj.shtml)  
-[Lyrics K - O](https://web.archive.org/web/20020604021447id_/http%3A//www.romantic-lyrics.com/lyricsko.shtml)  
-[Lyrics P - T](https://web.archive.org/web/20020604021447id_/http%3A//www.romantic-lyrics.com/lyricspt.shtml)  
-[Lyrics U - Z](https://web.archive.org/web/20020604021447id_/http%3A//www.romantic-lyrics.com/lyricsuz.shtml)  
+**[Lyrics A - E](https://web.archive.org/web/20021206102203id_/http%3A//www.romantic-lyrics.com/lyricsae.shtml)  
+[Lyrics F - J](https://web.archive.org/web/20021206102203id_/http%3A//www.romantic-lyrics.com/lyricsfj.shtml)  
+[Lyrics K - O](https://web.archive.org/web/20021206102203id_/http%3A//www.romantic-lyrics.com/lyricsko.shtml)  
+[Lyrics P - T](https://web.archive.org/web/20021206102203id_/http%3A//www.romantic-lyrics.com/lyricspt.shtml)  
+[Lyrics U - Z](https://web.archive.org/web/20021206102203id_/http%3A//www.romantic-lyrics.com/lyricsuz.shtml)  
 **  
 **By Author**  
-**[Artist A - E](https://web.archive.org/web/20020604021447id_/http%3A//www.romantic-lyrics.com/artistae.shtml)  
-[Artist F - J](https://web.archive.org/web/20020604021447id_/http%3A//www.romantic-lyrics.com/artistfj.shtml)  
-[Artist K - O](https://web.archive.org/web/20020604021447id_/http%3A//www.romantic-lyrics.com/artistko.shtml)  
-[Artist P - T](https://web.archive.org/web/20020604021447id_/http%3A//www.romantic-lyrics.com/artistpt.shtml)  
-[Artist U - Z](https://web.archive.org/web/20020604021447id_/http%3A//www.romantic-lyrics.com/artistuz.shtml)  
+**[Artist A - E](https://web.archive.org/web/20021206102203id_/http%3A//www.romantic-lyrics.com/artistae.shtml)  
+[Artist F - J](https://web.archive.org/web/20021206102203id_/http%3A//www.romantic-lyrics.com/artistfj.shtml)  
+[Artist K - O](https://web.archive.org/web/20021206102203id_/http%3A//www.romantic-lyrics.com/artistko.shtml)  
+[Artist P - T](https://web.archive.org/web/20021206102203id_/http%3A//www.romantic-lyrics.com/artistpt.shtml)  
+[Artist U - Z](https://web.archive.org/web/20021206102203id_/http%3A//www.romantic-lyrics.com/artistuz.shtml)  
 **  
 **Love Quotes**  
-[**Love and Romantic Quotes**](https://web.archive.org/web/20020604021447id_/http%3A//www.romantic-lyrics.com/lovequotes.shtml)  
+[**Love and Romantic Quotes**](https://web.archive.org/web/20021206102203id_/http%3A//www.romantic-lyrics.com/lovequotes.shtml)  
 **Love Poems**  
-[**Easy Romantic Love Poems**](https://web.archive.org/web/20020604021447id_/http%3A//www.romantic-lyrics.com/lovepoems.shtml)  
+[**Easy Romantic Love Poems**](https://web.archive.org/web/20021206102203id_/http%3A//www.romantic-lyrics.com/lovepoems.shtml)  
   
 **Partner Sites**  
 [**Romantic Tips**](http://www.romantic-tips.com/)  
@@ -28,12 +28,12 @@
 [**Body & Soul Fitness**](http://www.wholefitness.com/)  
 [**Screensavers**](http://www.elitesavers.com/)  
 [**Funny Pictures**](http://www.azfunnypictures.com/)  
+[**Travel Tips**](http://www.alltraveltips.com/)  
 **Submit**  
-[**Send In Your Lyrics Or Poems!**](https://web.archive.org/web/20020604021447id_/http%3A//www.romantic-lyrics.com/submit.shtml)  
+[**Send In Your Lyrics Or Poems!**](https://web.archive.org/web/20021206102203id_/http%3A//www.romantic-lyrics.com/submit.shtml)  
   
-**Your Help**  
-Help Keep Us Online  
-  
+**Need Answers?**  
+[ ](http://ads.websponsors.com/?u=2742&o=3445&c=18927)   
   
   
 Romantic-Lyrics.com, its advertising partners and network affiliates, are committed to protecting the privacy of Internet users. The following statement details our ongoing support for the responsible collection and management of Internet user information. 
@@ -55,4 +55,4 @@ Furthermore, Romantic-Lyrics does not divulge any information regarding the user
 There is only one happiness in life: to love and be loved. 
 
 © Copyright [Romantic-Lyrics.com](http://www.romantic-lyrics.com/) All rights reserved.   
-All lyrics are property and copyright of their owners. All lyrics provided for educational purposes only. 
+All lyrics are property and copyright of their owners. Lyrics provided for educational purposes only. 
