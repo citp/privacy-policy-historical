@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nhtsa.gov privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606192858id_/http%3A//www.nhtsa.dot.gov/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhtsa.gov privacy policy that was archived on 2001-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011020004732id_/http%3A//nhtsa.gov/Privacy.html) for the most accurate reproduction.*
 
 # DOT Privacy Notice
 
@@ -56,5 +56,5 @@ Information presented on this website is considered public information and may b
 
 * * *
 
-update1 [](https://web.archive.org/images/toolbar.map)  
+update1  [](http://www.nhtsa.dot.gov/_vti_bin/shtml.exe/index.asp/map2)   
 [Send mail to the Web Master](mailto:webmaster@nhtsa.dot.gov)
