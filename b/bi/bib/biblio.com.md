@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the biblio.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605184040id_/http%3A//www.biblio.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biblio.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011170219id_/http%3A//www.biblio.com/privacy.php) for the most accurate reproduction.*
 
-# biblio.com - Used Books, Rare Books, Out-of-Print Books, Hard-to-Find Books
+# Biblio: Used Books, Rare Books, Out-of-Print Books, Hard-to-Find Books
 
 **P rivacy Policy**
 
@@ -28,6 +28,7 @@ Traffic information, server logs, and cookies, are not shared with external enti
 
 * * *
 
-[ home](http://www.biblio.com/index.php) | [ search](http://www.biblio.com/search.php) | [ gallery](http://www.biblio.com/gallery.php) | [ cart](http://www.biblio.com/cart.php?full=1) | [ booksellers](http://www.biblio.com/booksellers.php) | [ about](http://www.biblio.com/about.php) | [ privacy](http://www.biblio.com/privacy.php) | [ terms](http://www.biblio.com/terms.php) | [ link to us](http://www.biblio.com/link_to_us.php) | [ contact us](http://www.biblio.com/support_request.php) | [ login](https://www.biblio.com/cgi-bin/login.pl)
+[Home](http://www.biblio.com/) | [Search for Books](http://www.biblio.com/search.php) | [Browse](http://www.biblio.com/catalogs.php) | [Sale on Used Books](http://www.biblio.com/book_sales/book_sales.php) | [Gallery](http://www.biblio.com/gallery.php) | [Book Stores](http://www.biblio.com/booksellers.html) | [About](http://www.biblio.com/about.php) | [Privacy](http://www.biblio.com/privacy.php) | [Terms of Use](http://www.biblio.com/terms.php)    
+[Affiliates](http://www.biblio.com/affiliate_program.php) | [Help](http://www.biblio.com/show_faq.php?main=2) | [Contact Us](http://www.biblio.com/support_request.php) 
 
 **Copyright © 2000-2004, biblio.com, Inc**
