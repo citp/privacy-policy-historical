@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unleash.com privacy policy that was archived on 2000-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000614181613id_/http%3A//www.unleash.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unleash.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211215645id_/http%3A//www.unleash.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for Graphics Unleashed
 
@@ -15,9 +15,9 @@ Our site's guestbook form requires users to give us contact information (like th
 
 This site contains links to other sites. **Graphics Unleashed** is not responsible for the privacy practices or the content of such Web sites. 
 
-We are part of affiliate programs for Amazon.com, Cyberian Outpost, Cutting Edge, Dell and i/us. Information that you provide to companies will not be shared with Unleashed Productions. 
+We are part of affiliate programs for Amazon.com, Cutting Edge, and Dell. Information that you provide to companies will not be shared with Unleashed Productions. 
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders and information about our company to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. Orders placed for Smart Designs products are forwarded to Smart Designs for payment and fulfillment. Unleashed Productions does not store a record of your order information. 
+Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders and information about our company to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. Orders placed for Smart Designs products are forwarded to Smart Designs for payment and fulfillment. 
 
 Our online surveys ask visitors for contact information (like their email address). Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
@@ -29,7 +29,7 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 
 ## Security
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. All of our orders forms and the data they collect are encrypted with SSL security. This provides additional protection to the information you provide. 
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. All of our order forms and the data they collect are encrypted with SSL security. This provides additional protection to the information you provide. 
 
 ## Choice/Opt-Out
 
@@ -48,10 +48,6 @@ This site gives users the following options for changing and modifying informati
 
 
 
-## Advertising
-
-Graphics Unleashed works with a third party that serves ads to this site. To find out more about how About.com manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.about.com/gi/pages/privacy.htm?PM=59_1106_T>. 
-
 ## Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
@@ -64,15 +60,8 @@ Cave Creek, AZ 85327
 webmaster@unleash.com
 
   
-Last Updated February 22, 2000.    
+Last Updated Friday August 10 2001. 
 
-
-#### Search Graphics Unleashed
-
-  
-[[Tips & Tricks](http://www.unleash.com/tipstricks)] [[Training Solutions](http://www.unleash.com/training)] [[Hot Links](http://www.unleash.com/picks)] [[Web Design](http://www.unleash.com/webdesign)]  
-[[About Unleashed](http://www.unleash.com/aboutupi)] [[Graphics Unleashed Home](http://www.unleash.com/)] [[Graphics Unleashed News](http://www.unleash.com/news)]  
-Copyright © 1995-2000 Unleashed Productions, Inc., All Rights Reserved.    
-[](http://www.radiofreecash.com/home.asp?ref=unleashpro) [](http://www.altman.com/seminars) [](http://tracker.clicktrade.com/tracker/tracker.dll?to=%27http://www.cedesign.com/cefx/cefx.html%27&ad=313915.0&lp=321769) [](http://www.alladvantage.com/go.asp?refid=OIN-112) [](https://ads.cybergold.com/do/goldbar?gbrefid=612fd9e2f71eea0c)   
-  
+[](http://www.hemera.com/downloads/downloadstrial.htm)   
+[](http://www.amazon.com/exec/obidos/redirect?tag=graphicsunleashe&path=tg/stores/recs/gift-wizard-refine/-/holiday) [](http://www.altman.com/corelworld.htm) [](http://www.amazon.com/exec/obidos/redirect?tag=graphicsunleashe&path=tg/stores/recs/gift-wizard-refine/-/holiday)   
 
