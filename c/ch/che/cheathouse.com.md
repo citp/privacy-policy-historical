@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the cheathouse.com privacy policy that was archived on 2002-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020914230244id_/http%3A//www.cheathouse.com/page.php%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheathouse.com privacy policy that was archived on 2003-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031124105525id_/http%3A//www.cheathouse.com/page.php%3Fid%3Dprivacy%26PHPSESSID%3Dbea70b87796856e9fbc06610373d9033) for the most accurate reproduction.*
 
-# CheatHouse.com v2 - privacy
+# CheatHouse.com - privacy
 
-|   |  |  |  | 
+|  | | | | 
 
-**OUR PRIVACY POLICY**   
+**OUR PRIVACY POLICY**  
 
 
-**_Do you store my personal information?_ **
+**_Do you store my personal information?_**
 
 Cheathouse.com and its advertisers and affiliates are deeply committed to protecting the privacy of its Internet users.
 
@@ -15,7 +15,7 @@ We will not store any information on our computer systems about a specific user.
 
 We do however, store specific information about users which choose to register as paying members. Nevertheless, the only information gathered is that needed for users to login and access the services they pay for, and to help up get in touch with them. We never keep credit card information in our database.
 
-**_Do you share visitor information with 3rd parties?_ **
+**_Do you share visitor information with 3rd parties?_**
 
 The only information Cheathouse.com may share with any 3rd party is general statistical information concerning the browsing patterns and target audience for specific pages of our site. We do NOT give out specific user information such as e-mails, names and addresses. In fact, we consider such information so precious, we are not willing to part with it for any cost.
 
@@ -25,12 +25,12 @@ You are our customers, and we value your loyalty - we will never wish you to be 
 
 As big supporters of OpenSource software (and frequent visitors to sites such as [Slashdot.org](http://www.slashdot.org/)) you can easily imagine where we stand on this personally. 
 
-_ Last updated: 28.aug.2002 _
+_Last updated: 28.aug.2002_
 
-|   |   
+|  |   
 ---|---|---|---|---  
 |   
-  | 
+ | 
 
   
 
