@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalmssociety.org privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201174920id_/http%3A//www.nationalmssociety.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalmssociety.org privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601234027id_/http%3A//www.nationalmssociety.org/privacy.asp) for the most accurate reproduction.*
 
 # National Multiple Sclerosis Society - Privacy
 
@@ -53,6 +53,6 @@ The National Multiple Sclerosis Society is in compliance with the Privacy Policy
   
 **Copyright Information**
 
-All information on this site is the property of the National MS Society. Copyright © 1995-2002, the National Multiple Sclerosis Society. All rights reserved.
+All information on this site is the property of the National MS Society. Copyright © 1995-2003, the National Multiple Sclerosis Society. All rights reserved.
 
-Current as of October 2002
+Current as of February 2003
