@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muchmusic.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202072113id_/http%3A//www.chumlimited.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muchmusic.com privacy policy that was archived on 2003-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030610002116id_/http%3A//www.chumlimited.com/privacy.asp) for the most accurate reproduction.*
 
 # CHUM Limited | Privacy Statement
 
@@ -82,4 +82,4 @@ We will not knowingly collect or retain any personal information of visitors to 
 7\. What Else You Need to Know About Privacy At CHUM Limited  
 CHUM Limited websites are committed to maintaining and protecting your privacy as a visitor to this website. However, we remind you that the internet is not a secure medium. As such, your privacy cannot be guaranteed when you communicate online or otherwise visit any website. The nature of internet communications means that your communications may be susceptible to data corruption, interception and delays. 
 
-For more information about CHUM Limited's privacy regime or on how to contact the Privacy Officer at CHUM Limited, visit [http://www.chumlimited.com/privacybrochure.asp](https://web.archive.org/web/20021202072113id_/http%3A//www.chumlimited.com/privacybrochure.asp)
+For more information about CHUM Limited's privacy regime or on how to contact the Privacy Officer at CHUM Limited, visit [http://www.chumlimited.com/privacybrochure.asp](https://web.archive.org/web/20030610002116id_/http%3A//www.chumlimited.com/privacybrochure.asp)
