@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scitrav.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607111832id_/http%3A//www.scitrav.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scitrav.com privacy policy that was archived on 2002-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021010093650id_/http%3A//www.scitrav.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Science Traveller International
 
@@ -16,7 +16,7 @@ We only collect personal information you provide **voluntarily** e.g. via a regi
 Our registration or order forms may use a cookie to store a unique, random 16 digit number (i.e. a cookie ID). It contains no passwords or personal information. The ID can enable you to visit member-restricted areas or revisit pages without re-entering registration information. You can set your browser to view the cookie contents before accepting it. 
 
 **Email policy**  
-We do not use, nor do we condone the use of web bugs or unsolicited bulk email. We will not sell or provide any personal information to other companies or individuals, however we may need to provide your delivery address details to third parties that we use for delivering specific services to you. 
+We do not use, nor do we condone the use of unsolicited bulk email (spam). We will not sell or provide any personal information to other companies or individuals, however we may need to provide your delivery address details to third parties that we use for delivering specific services to you. 
 
 We may use your contact details to send you communications that may be of interest to you, either electronically or otherwise. For example, if you register with one of our newsletters, we may use your contact details to provide you with custom information about our products or services. Unsubscribe information is included with each newsletter. 
 
@@ -31,7 +31,9 @@ STI is committed to taking reasonable steps to protect any personal information 
 
 When purchasing or exchanging sensitive information on-line, security is a primary concern. To safeguard information such as credit card details and account passwords, our web site provides encrypted forms (https:// protocol) using VeriSign SSL certification. Our VeriSign certification lets you authenticate our site's identity, and safeguards your order transactions with powerful encryption. 
 
-[ ](http://www.verisign.com/) |  [ ](https://digitalid.verisign.com/as2/678b94b8cea44b5b8112ced94585bf60)  
+We use [LinkPoint](http://www.linkpoint.com/), a leading provider of Internet payment technologies, to verify and process credit cards. All transactions with LinkPoint are heavily encrypted and cannot be read by any third parties. We do NOT keep a copy of your credit card number. 
+
+|  [ ](https://digitalid.verisign.com/as2/37aa44461a6faf4fc0cedb0fe6d57158)  
 ---|---  
   
 **Security**  
@@ -54,7 +56,9 @@ Bendigo, VIC 3552, Australia
 Email: [mail@scitrav.com.au](mailto:mail@scitrav.com.au)  
   
 Don't forget to [visit our Contents Page](http://www.scitrav.com/) for news on other resources and downloads available at our web site.  
-[](http://www.scitrav.com/)  
+[](http://www.scitrav.com/)
+
+[ About Science Traveller International](http://www.scitrav.com/aboutsti.htm)
+
   
-[ About Science Traveller International](http://www.scitrav.com/aboutsti.htm)   
 
