@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jax.org privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603194416id_/http%3A//www.jax.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jax.org privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206053011id_/http%3A//www.jax.org/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Information at The Jackson Laboratory - The Jackson Laboratory
 
