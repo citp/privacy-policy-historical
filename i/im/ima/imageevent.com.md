@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imageevent.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208153842id_/http%3A//imageevent.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imageevent.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603011922id_/http%3A//imageevent.com/privacy.jsp) for the most accurate reproduction.*
 
 # ImageEvent Privacy Policy
 
@@ -64,7 +64,7 @@ We may occasionally request information from users via surveys or contests. Part
 
 Cookies are pieces of information that your browser receives from Web sites and stores on your computer's hard drive. Information in cookies includes preferences you select while visiting a particular Web site. For example, by storing cookies on your hard drive, you'll return to a specific Web site with the same settings you used on a previous visit.
 
-ImageEvent never saves information such as your password or your credit card number on cookies. We do require cookies in order to manage and protect your ImageEvent session. Cookies are used to store your e-mail address (so you don't have to type it in every time you log in) and your name (so you don’t have to write it everytime you add a comment).  If you have cookies turned off, you will not be able to use many features of the ImageEvent service.
+ImageEvent never saves information such as your password or your credit card number on cookies. We do require cookies in order to manage and protect your ImageEvent session. Cookies are used to store your e-mail address (so you don't have to type it in every time you log in) and your name (so you dont have to write it everytime you add a comment).  If you have cookies turned off, you will not be able to use many features of the ImageEvent service.
 
 **Links To Other Sites:**
 
