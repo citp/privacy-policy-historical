@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ansi.org privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607131129id_/http%3A//www.ansi.org/public/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ansi.org privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211182001id_/http%3A//www.ansi.org/public/privacy.html) for the most accurate reproduction.*
 
 # ANSI Online Privacy Statement
 
