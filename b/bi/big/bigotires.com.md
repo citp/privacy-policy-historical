@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bigotires.com privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611014714id_/http%3A//www.bigotires.com/Privacy.asp%3Fsid%3D1%26did%3D907%26zip%3D%26dlr%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigotires.com privacy policy that was archived on 2002-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021212101839id_/http%3A//www.bigotires.com/Privacy.asp%3Fsid%3D1%26did%3D907%26zip%3D%26dlr%3D) for the most accurate reproduction.*
 
 # Big O: Privacy
 
-On-line Privacy Policy
+Online Privacy Policy
 
 Effective September 12, 2000 
 
