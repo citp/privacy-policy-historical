@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aclu.org privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605123128id_/http%3A//www.aclu.org/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aclu.org privacy policy that was archived on 2003-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031228115331id_/http%3A//www.aclu.org/Privacy.cfm) for the most accurate reproduction.*
 
 # American Civil Liberties Union : Privacy Statement
 
@@ -18,7 +18,9 @@ Our servers collect and aggregate user information site-wide, including anonymou
 
 On certain pages such as the ACLU Membership Form, we give users the option of providing us with names, addresses, phone numbers, fax numbers, email addresses, and other personal information, and various other kinds of details. This more personal information is gathered only with users` knowing and active permission and participation. 
 
-The ACLU website does not use any cookies that are automatically written to your computer's hard drive or retained by the ACLU or our vendors. (Our activist tools do allow users to have a cookie written to their hard drives to enable them to more easily take action. For more information about this feature, see the section on "Activist Letters" below.)
+The ACLU website does not use any cookies that are automatically written to your computer's hard drive or retained by the ACLU or our vendors. 
+
+If you wish to have your login stored as a “cookie” on your computer’s memory, select the “remember my login” option when you login to our website.  If you do not select “remember my login”, your information will not be stored on your computer or on our ACLU servers.  If you choose to be remembered, the cookie will be stored on your computer solely for the purpose of automatically logging you into our website.  The use of “remember my login” is totally optional.  It is your choice whether or not to use it.  If you choose to use it, it will not use the cookie for any purpose other than to log you in.  If you choose not to use it, then you will need to reenter your information every time you login.  If you are using a shared or public computer to access our website, we recommend that you do not use “remember my login”, because the cookie would be stored in the shared computer’s memory.  (Our activist tools  also allow users to have a cookie written to their hard drives to enable them to more easily take action. For more information about this feature, see the section on "Activist Letters" below.)
 
 The ACLU website does set "session specific cookies" to help run its interactive online applications, such as the shopping cart. The session specific cookies only exist in your computer's short term memory (RAM) and only exist as long as the session lasts. They expire (disappear from your computer's memory) when the session ends. These cookies will NOT be written to a user's hard drive. Under no circumstance will any information associated with these cookies be retained or used by the ACLU or its vendors after the session is completed.
 
@@ -86,7 +88,7 @@ This site gives users the following options for changing and modifying informati
 **Membership Information  
 ** Please provide your ACLU member ID, if known, your old address, and your new address. 
 
-  * [address change form](https://web.archive.org/forms/change.html)    
+  * [address change form](https://web.archive.org/forms/change.html)      
   * send mail to the following postal address: 
 
 Membership Department   
@@ -95,7 +97,7 @@ New York, NY 10004
 
 **Merchandise and Publications Purchase Information**
 
-  * email [orders@aclu.org](mailto:orders@aclu.org)    
+  * email [orders@aclu.org](mailto:orders@aclu.org)      
   * send mail to the following postal address: 
 
 ACLU Publications  
@@ -116,7 +118,7 @@ Trenton, NJ 08650-4713
 
 **All other ACLU Freedom Network features**
 
-  * visit [ACLU's Feedback pages](http://www.aclu.org/feedback/feedback.cfm)    
+  * visit [ACLU's Feedback pages](http://www.aclu.org/feedback/feedback.cfm)      
   * send mail to the following postal address: 
 
 ACLU Online Programs (Name of Service)  
@@ -181,7 +183,7 @@ New York, NY 10004
 
 **All other ACLU Freedom Network features**
 
-  * visit [ACLU's Feedback pages](http://www.aclu.org/feedback/feedback.cfm)    
+  * visit [ACLU's Feedback pages](http://www.aclu.org/feedback/feedback.cfm)      
   * send mail to the following postal address: 
 
 ACLU Online Programs  
@@ -195,4 +197,4 @@ If you have any questions about this privacy statement, the practices of this si
 
 American Civil Liberties Union125 Broad Street, 18th FloorNew York, NY 10004[ACLU Feedback](http://www.aclu.org/feedback/feedback.cfm)
 
-Last Updated: July 9, 2002
+Last Updated: August 20, 2003
