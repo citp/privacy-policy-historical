@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heartandstroke.ca privacy policy that was archived on 2003-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031210222054id_/http%3A//ww1.heartandstroke.ca/Page.asp%3FPageID%3D417) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartandstroke.ca privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205062913id_/http%3A//ww1.heartandstroke.ca/Page.asp%3FPageID%3D417) for the most accurate reproduction.*
 
 # Heart and Stroke Foundation of Canada
 
@@ -72,7 +72,7 @@ Upon acceptance of these Terms and Conditions, permission is granted for you to 
 
 The contents of the Site include but are not limited to text, graphics, images, logos, buttons, proprietary software icons, compilations (meaning the collection, arrangement and assembly), reading lists, libraries, updates, news, glossary, reviews, health tips, opinions, and other material including any modifications thereto ("Content"), are protected by copyright laws. HSFC will constantly be making changes to the Content contained on this Site in light of new information to serve you better. 
 
-You may reproduce limited excerpts of the data for personal use only, provided that each such copy contains a copyright notice as follows: © 2002 The Heart and Stroke Foundation of Canada. All rights reserved. You may not alter the information in this site in any way without prior written consent of HSFC. 
+You may reproduce limited excerpts of the data for personal use only, provided that each such copy contains a copyright notice as follows: © 2004 The Heart and Stroke Foundation of Canada. All rights reserved. You may not alter the information in this site in any way without prior written consent of HSFC. 
 
 Content is subject to change without notice at the sole editorial discretion of HSFC. If you violate any of these Terms and Conditions, your permission to use the Content automatically terminates and you must immediately destroy any copies you have made of any portion of the Content.   
 
