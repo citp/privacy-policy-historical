@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jt.org privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610021659id_/http%3A//jt.org/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jt.org privacy policy that was archived on 2004-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041213122117id_/http%3A//jt.org/privacy.phtml) for the most accurate reproduction.*
 
 # Welcome to jt.org
 
@@ -86,9 +86,9 @@ The Accountability of JT.ORG's Agents and Business Partners
 
 Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
 
-If you feel that JT.ORG, or any of our agents, representatives or employees, is violating this Privacy Statement, please contact us via e-mail at: privacy@jt.org. or by postal mail at:
+If you feel that JT.ORG, or any of our agents, representatives or employees, is violating this Privacy Statement, please contact us via e-mail or by postal mail at:
 
 JT.ORG   
-PO BOX 77512  
-SAN FRANCISCO, CA 94107  
+23425 N. 39th DR #104-199  
+GLENDALE, AZ 85310  
 USA
