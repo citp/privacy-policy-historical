@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salesheads.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601125408id_/http%3A//www.salesheads.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salesheads.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001211105id_/http%3A//www.salesheads.com/privacy.html) for the most accurate reproduction.*
 
 # SalesHeads.com | Privacy Policy
 
