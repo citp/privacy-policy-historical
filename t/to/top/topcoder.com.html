@@ -1,32 +1,40 @@
-<!--The following is the downloaded HTML source of the topcoder.com privacy policy that was archived on 2002-04-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020402000704id_/http%3A//www.topcoder.com%3Ft%3D%26c%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the topcoder.com privacy policy that was archived on 2002-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021208090927id_/http%3A//www.topcoder.com/%3F%26t%3D%26c%3Dprivacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head><script type="text/javascript">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script type="text/javascript">
 if (document.images) {
-  image1on = new Image();
-  image1on.src = "/i/nav_about_on.gif";
   image2on = new Image();
-  image2on.src = "/i/nav_news_on.gif";
+  image2on.src = "/i/menu_tces_on.gif";
   image3on = new Image();
-  image3on.src = "/i/nav_roundtables_on.gif";
+  image3on.src = "/i/menu_applet2_on.gif";
   image4on = new Image();
-  image4on.src = "/i/nav_stats_on.gif";
+  image4on.src = "/i/menu_tcs_on.gif";
   image5on = new Image();
-  image5on.src = "/i/nav_schedule_on.gif";
+  image5on.src = "/i/menu_rounds_on.gif";
   image6on = new Image();
-  image6on.src = "/i/nav_support_on.gif";    
-  image1off = new Image();
-  image1off.src = "/i/nav_about_off.gif";
+  image6on.src = "/i/menu_dev_on.gif";
+  image7on = new Image();
+  image7on.src = "/i/menu_practice_on.gif";
+  image8on = new Image();
+  image8on.src = "/i/menu_press_on.gif";  
+  image9on = new Image();
+  image9on.src = "/i/menu_support_on.gif";      
   image2off = new Image();
-  image2off.src = "/i/nav_news_off.gif";
+  image2off.src = "/i/menu_tces_off.gif";
   image3off = new Image();
-  image3off.src = "/i/nav_roundtables_off.gif";
+  image3off.src = "/i/menu_applet2_off.gif";
   image4off = new Image();
-  image4off.src = "/i/nav_stats_off.gif";
+  image4off.src = "/i/menu_tcs_off.gif";
   image5off = new Image();
-  image5off.src = "/i/nav_schedule_off.gif";
+  image5off.src = "/i/menu_rounds_off.gif";
   image6off = new Image();
-  image6off.src = "/i/nav_support_off.gif";    
+  image6off.src = "/i/menu_dev_off.gif";
+  image7off = new Image();
+  image7off.src = "/i/menu_practice_off.gif";
+  image8off = new Image();
+  image8off.src = "/i/menu_press_off.gif";  
+  image9off = new Image();
+  image9off.src = "/i/menu_support_off.gif";      
 }
 function changeImages() {
   if (document.images) {
@@ -35,16 +43,35 @@ function changeImages() {
     }
   }
 }
-</script><script language="JavaScript">
-<!--
-function arena() 
+</script><script type="text/javascript">
+  function getGraph(url,wd,ht) {
+    var last=0;
+    var daHt = parseInt(ht) + parseInt('49');
+    var size = "top=2,left=2,width="+wd+",height="+daHt+"status=0";
+    var name="graph";
+    window.open('graphPopup.jsp?'+url+'&width='+wd+'&height='+ht,name,size);
+    return;
+  }
+</script><script type="text/javascript">
+function tcTime()
 {
-  w=window.open("/contest/arena/launch.html","Launch","top=2,left=2,width=300,height=225,status=1");
+  w=window.open("http://www.topcoder.com/contest/time.html?WebLogicSession=PfMMReXtSdnk5gR0flGCIZpyLWoHqQrfCkVWPZjnUMyDk0KBjnI3|-5524876473375628731/-1062728653/6/7030/7030/7031/7031/7030/-1|NONE","Time","top=2,left=2,width=250,height=50,status=1");
   return;
 }
+function arena()
+{
+  w=window.open("http://www.topcoder.com/contest/arena/launch.html?WebLogicSession=PfMMReXtSdnk5gR0flGCIZpyLWoHqQrfCkVWPZjnUMyDk0KBjnI3|-5524876473375628731/-1062728653/6/7030/7030/7031/7031/7030/-1|NONE","Launch","top=2,left=2,width=300,height=225,status=1");
+  return;
+}
+</script><script type="text/javascript">
 function sponsorLink(spons)
 {
   w=window.open(spons,"Sponsor");
+  return;
+}
+function sponsorLinkWindow(spons,nam,top,lef,wid,hei)
+{
+  w=window.open(spons,nam,"top="+top+",left="+lef+",width="+wid+",height="+hei+",resizable=no,toolbar=no,location=no,scrollbars=no,menubar=no,status=no");
   return;
 }
 function goTo(selection)
@@ -54,6 +81,9 @@ function goTo(selection)
   {
     arena();
   }
+
+
+  //quick stats
   else if (sel == "alltimewin")
   {
     window.location = "/stat?c=all_time_wins";
@@ -88,7 +118,7 @@ function goTo(selection)
   }
 
 
-
+  //sponsor 
   else if (sel == "general_charts")
   {
     window.location = "/index?t=about_tc&c=spons_demo_gen";
@@ -149,206 +179,22 @@ function goTo(selection)
   {
     window.location = "/index?t=about_tc&c=spons_report_prof";
   } 
+   
+  
   
 
-  else if (sel == "tourny_index")
-  {
-    window.location = "/index?t=schedule&c=tourny_index";
-  }
-  else if (sel == "tourny_regions")
-  {
-    window.location = "/index?t=schedule&c=tourny_regions";
-  }  
-  else if (sel == "tourny_spons")
-  {
-    window.location = "/index?t=schedule&c=tourny_spons";
-  }  
-  else if (sel == "tourny_rules_conditions")
-  {
-    window.location = "/index?t=schedule&c=tourny_rules_conditions";
-  } 
-  else if (sel == "tourny_rules_onsite")
-  {
-    window.location = "/index?t=schedule&c=tourny_rules_onsite";
-  } 
-  else if (sel == "tourny_rules_prizes")
-  {
-    window.location = "/index?t=schedule&c=tourny_rules_prizes";
-  } 
-  else if (sel == "tourny_rules_scoring")
-  {
-    window.location = "/index?t=schedule&c=tourny_rules_scoring";
-  }  
-  else if (sel == "tourny_rules_structure")
-  {
-    window.location = "/index?t=schedule&c=tourny_rules_structure";
-  } 
-  else if (sel == "tourny_sched")
-  {
-    window.location = "/index?t=schedule&c=tourny_sched";
-  }   
-  else if (sel == "tourny_overview")
-  {
-    window.location = "/index?t=schedule&c=tourny_overview";
-  }    
-  else if (sel == "tourny_rules_about")
-  {
-    window.location = "/index?t=schedule&c=tourny_rules_about";
-  } 
-  else if (sel == "srm_rules")
-  {
-    window.location = "/index?t=schedule&c=srm_rules";
-  }   
-  else if (sel == "srm_tccc")
-  {
-    window.location = "/index?t=schedule&c=srm_tccc";
-  }  
-  else if (sel == "registration")
-  {
-    window.location = "/reg/index.jsp";
-  }
-  else if (sel == "2002sun_tcccrules")
-  {
-    window.location = "/contest/2002sun_tcccrules.pdf";
-  }  
-  
-        
-  else if (sel == "jan_02")
-  {
-    window.location = "/index?t=schedule&c=jan_02";
-  }
-  else if (sel == "feb_02")
-  {  
-    window.location = "/index?t=schedule&c=feb_02";
-  } 
-  else if (sel == "mar_02")
-  {
-    window.location = "/index?t=schedule&c=mar_02";
-  } 
-  else if (sel == "apr_02")
-  {
-    window.location = "/index?t=schedule&c=index";
-  }  
-  else if (sel == "may_02")
-  {
-    window.location = "/index?t=schedule&c=may_02";
-  }  
-  else if (sel == "june_02")
-  {
-    window.location = "/index?t=schedule&c=june_02";
-  }  
-  else if (sel == "july_02")
-  {
-    window.location = "/index?t=schedule&c=july_02";
-  } 
-  else if (sel == "aug_02")
-  {
-    window.location = "/index?t=schedule&c=aug_02";
-  } 
-  else if (sel == "sept_02")
-  {
-    window.location = "/index?t=schedule&c=sept_02";  
-  } 
-
-
-
-  else if (sel == "thisweek")
-  {
-    window.location = "/index?t=statistics&c=coder_of_week";
-  }
-  else if (sel == "nov01week2")
-  {
-    window.location = "/index?t=statistics&c=coder_of_week111201";
-  }   
-  else if (sel == "nov01week3")
-  {
-    window.location = "/index?t=statistics&c=coder_of_week111901";
-  } 
-  else if (sel == "nov01week4")
-  {
-    window.location = "/index?t=statistics&c=coder_of_week112601";
-  }  
-  else if (sel == "dec01week4")
-  {
-    window.location = "/index?t=statistics&c=coder_of_week123101";
-  }  
-  else if (sel == "dec01week3")
-  {
-    window.location = "/index?t=statistics&c=coder_of_week122401";
-  }  
-  else if (sel == "dec01week2")
-  {
-    window.location = "/index?t=statistics&c=coder_of_week121701";
-  } 
-  else if (sel == "dec01week1")
-  {
-    window.location = "/index?t=statistics&c=coder_of_week121001";
-  } 
-  else if (sel == "dec01week5")
-  {
-    window.location = "/index?t=statistics&c=coder_of_week120301";  
-  } 
-  else if (sel == "jan02week2")
-  {
-    window.location = "/index?t=statistics&c=coder_of_week010702";
-  } 
-  else if (sel == "jan02week3")
-  {
-    window.location = "/index?t=statistics&c=coder_of_week011402";
-  } 
-  else if (sel == "jan02week4")
-  {
-    window.location = "/index?t=statistics&c=coder_of_week012102";
-  }
-  else if (sel == "jan02week5")
-  {
-    window.location = "/index?t=statistics&c=coder_of_week012802";
-  } 
-  else if (sel == "feb0402")
-  {
-    window.location = "/index?t=statistics&c=coder_of_week020402";
-  } 
-  else if (sel == "feb1102")
-  {
-    window.location = "/index?t=statistics&c=coder_of_week021102";
-  } 
-  else if (sel == "feb1802")
-  {
-    window.location = "/index?t=statistics&c=coder_of_week021802";
-  }  
-  else if (sel == "feb2502")
-  {
-    window.location = "/index?t=statistics&c=coder_of_week022502";
-  } 
-  else if (sel == "mar0402")
-  {
-    window.location = "/index?t=statistics&c=coder_of_week030402";
-  } 
-  else if (sel == "mar1102")
-  {
-    window.location = "/index?t=statistics&c=coder_of_week031102";
-  } 
-   else if (sel == "mar1802")
-  {
-    window.location = "/index?t=statistics&c=coder_of_week031802";
-  }                        
   else
   {}
 }
-// -->
 </script><title>TopCoder :: Privacy Policy</title><script type="text/javascript">
-if ( window.navigator.userAgent.indexOf("Linux")>-1 ) {
-  // Linux Stylesheets
+if ( window.navigator.appName.indexOf("Netscape")>-1 && window.navigator.appVersion.charAt(0)=='4') {
   document.write('<link type="text/css" rel="stylesheet" href="/css/style_linux.css"/>');
   document.write('<link type="text/css" rel="stylesheet" href="/css/coders_linux.css"/>');
 } else {
-  // NonLinux Stylesheets
   document.write('<link type="text/css" rel="stylesheet" href="/css/style.css"/>');
   document.write('<link type="text/css" rel="stylesheet" href="/css/coders.css"/>');
 }
-    </script><link type="text/css" rel="stylesheet" href="/css/style_linux.css"><link type="text/css" rel="stylesheet" href="/css/coders_linux.css"><meta content="TopCoder is a programming tournament site. All members who compete attain a rating that provides a metric for coding competence and potential. These ratings, coupled with tournament performance, can lead to monetary rewards and employment opportunities." name="description"><meta content="Computer Jobs, Programming, Programming Jobs, Programming Contest, Programming Competition, Online Games, Coding, Information Technology Jobs, Java, C++" name="keywords"></head><body marginwidth="0" leftmargin="0" marginheight="0" topmargin="0" bgcolor="#FFFFFF"><table bgcolor="#000000" cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr><td bgcolor="#000000" width="15"><a name="top"></a><img border="0" height="1" width="15" src="/i/clear.gif"></td><td bgcolor="#000000" width="206"><a href="/?t=index" target="_parent"><img vspace="10" border="0" height="49" width="206" src="/i/logo.gif"></a></td><td bgcolor="#000000" width="20"><img hspace="35" border="0" height="1" width="1" src="/i/clear.gif"></td><td valign="top" align="right" bgcolor="#000000" width="100%"><img border="0" height="1" width="1" src="/i/clear.gif"><br><table align="right" valign="top" cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td background="/i/steel_gray_bg.gif" bgcolor="#43515E" valign="middle"><img border="0" height="17" width="19" alt="" src="/i/top_back_tab.gif"></td><td class="time" background="/i/steel_gray_bg.gif" bgcolor="#43515E" valign="middle"><span class="registerToday">&nbsp;&nbsp;&nbsp;&nbsp;Current Member Count</span>&nbsp;:&nbsp; 11,886</td><td nowrap="0" class="globalNavSmall" align="right" background="/i/steel_gray_bg.gif" width="100%" bgcolor="#43515E" valign="middle"><a class="globalNavSmall" href="/index?t=authentication&amp;c=login" target="_parent">Login</a>
-                &nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;<a class="globalNavSmall" href="/?t=contacts&amp;c=index" target="_parent">Contacts</a>&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;<a class="globalNavSmall" href="/?t=index" target="_parent">Home</a></td><td background="/i/steel_gray_bg.gif" bgcolor="#43515E" width="50"><img vspace="8" border="0" height="1" width="50" src="/i/clear.gif"></td></tr><tr><td bgcolor="#000000" valign="middle"><img border="0" height="1" width="1" src="/i/clear.gif"></td><td nowrap="" align="center" bgcolor="#000000"><img border="0" height="5" width="1" src="/i/clear.gif"><br><a href="/?t=about_tc&amp;c=membr_teams" target="_parent"><img vspace="5" border="0" height="46" width="170" src="/i/teams_banner.gif"></a><a href="/?t=jobs&amp;c=index" target="_parent"><img vspace="5" hspace="5" border="0" height="46" width="170" src="/i/jobs_banner2.gif"></a></td><td align="right" nowrap="" valign="middle" class="time"><br><span class="smallBrackets">[ </span><a class="registerToday" href="/reg/index.jsp" target="_parent">Register Today</a> :
-                    <span class="time"><script type="text/javascript">
+    </script><link type="text/css" rel="stylesheet" href="/css/style.css"><link type="text/css" rel="stylesheet" href="/css/coders.css"><meta content="TopCoder is a programming tournament site. All members who compete attain a rating that provides a metric for coding competence and potential. These ratings, coupled with tournament performance, can lead to monetary rewards and employment opportunities." name="description"><meta content="Computer Jobs, Programming, Programming Jobs, Programming Contest, Programming Competition, Online Games, Coding, Information Technology Jobs, Java, C++" name="keywords"></head><body marginwidth="0" leftmargin="0" marginheight="0" topmargin="0" bgcolor="#FFFFFF"><table bgcolor="#000000" cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr><td nowrap="0" class="time" bgcolor="#333333" valign="middle"><img hspace="5" border="0" height="1" width="1" src="/i/clear.gif"></td><td class="registerToday" nowrap="0" bgcolor="#333333" valign="middle"><span class="time">&nbsp;&nbsp;&nbsp;&nbsp;Current Member Count</span>&nbsp;:&nbsp; 22,112 - <span class="time"><script type="text/javascript">
 var months=new Array(13);
 months[1]="January";
 months[2]="February";
@@ -370,12 +216,21 @@ if (year < 2000)
 year = year + 1900;
 document.write(" " + lmonth + " ");
 document.write(date + ", " + year + " ");
-</script> January 31, 2020 </span><span class="smallBrackets">]</span><br><br></td><td bgcolor="#000000" width="50"><img border="0" height="1" width="50" src="/i/clear.gif"></td></tr></tbody></table></td></tr><tr><td valign="bottom" bgcolor="#000000" colspan="2"><img border="0" height="6" width="187" alt="" src="/i/logo_btm_tab.gif"></td><td align="right" bgcolor="#000000" colspan="2"><a class="registerNav" href="Javascript:arena()" target="_parent"><img border="0" height="17" width="134" alt="Download the Applet" src="/i/label_download_applet.gif"></a><a class="registerNav" href="/index?t=schedule&amp;c=practice_room" target="_parent"><img border="0" height="17" width="141" alt="Visit the Practice Room" src="/i/label_visit_practice_room.gif"></a><img border="0" height="1" width="25" alt="" src="/i/clear.gif"></td></tr></tbody></table><table cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr><td valign="middle" background="/i/steel_gray_bg.gif" height="21" width="15" class="registerNav"><img border="0" height="1" width="15" src="/i/clear.gif"></td><td align="center" valign="middle" background="/i/steel_gray_bg.gif" height="21" width="120" class="registerNav"><img border="0" height="1" width="120" src="/i/clear.gif"><br><a target="_parent" href="/reg/index.jsp" class="registerNav">REGISTRATION</a>&nbsp;&nbsp;&nbsp;&nbsp;</td><td align="right" background="/i/steel_gray_bg.gif" height="21" width="5"><img border="0" height="21" width="21" src="/i/top_bar_left.gif"></td><td nowrap="" valign="middle" bgcolor="#CC0000" background="/i/top_bar_bg.gif" height="21" width="100%" class="globalNav"><img border="0" height="1" width="30" src="/i/clear.gif"><a target="_parent" onmouseout="changeImages('image1', 'image1off')" onmouseover="changeImages('image1', 'image1on')" href="/index?t=about_tc&amp;c=index"><img border="0" height="21" width="104" alt="About TopCoder" src="/i/nav_about_off.gif" name="image1"></a><img border="0" height="21" width="10" alt="" src="/i/clear.gif"><a target="_parent" onmouseout="changeImages('image2', 'image2off')" onmouseover="changeImages('image2', 'image2on')" href="/index?t=news_events&amp;c=index"><img border="0" height="21" width="82" alt="News &amp; Events" src="/i/nav_news_off.gif" name="image2"></a><img border="0" height="21" width="10" alt="" src="/i/clear.gif"><a target="_parent" onmouseout="changeImages('image3', 'image3off')" onmouseover="changeImages('image3', 'image3on')" href="/rtables/index.jsp?WebLogicSession=PKj2KS8XZ1Vd02mi1vV5nrEZP2if32qwDs416cHJy1KCHPgeaTrY|4870402660486520575/-1062728653/6/7030/7030/7031/7031/7030/-1|-4915842749811971120/-1062728652/6/7030/7030/7031/7031/7030/-1"><img border="0" height="21" width="86" alt="Round Tables" src="/i/nav_roundtables_off.gif" name="image3"></a><img border="0" height="21" width="10" alt="" src="/i/clear.gif"><a target="_parent" onmouseout="changeImages('image4', 'image4off')" onmouseover="changeImages('image4', 'image4on')" href="/?t=statistics&amp;c=index"><img border="0" height="21" width="65" alt="Statistics" name="image4" src="/i/nav_stats_off.gif"></a><img border="0" height="21" width="10" alt="" src="/i/clear.gif"><a target="_parent" onmouseout="changeImages('image5', 'image5off')" onmouseover="changeImages('image5', 'image5on')" href="/index?t=schedule&amp;c=index"><img border="0" height="21" width="65" alt="Schedule" name="image5" src="/i/nav_schedule_off.gif"></a><img border="0" height="21" width="10" alt="" src="/i/clear.gif"><a target="_parent" onmouseout="changeImages('image6', 'image6off')" onmouseover="changeImages('image6', 'image6on')" href="/index?t=support&amp;c=index"><img border="0" height="21" width="99" alt="Support/FAQs" name="image6" src="/i/nav_support_off.gif"></a></td></tr></tbody></table><table cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr><td align="right" valign="top" background="/i/steel_gray_bg.gif" width="100%"><img border="0" height="1" width="510" src="/i/clear.gif"></td><td align="right" valign="top" background="/i/steel_gray_bg.gif" width="8"><img border="0" height="8" width="8" src="/i/top_gray_right.gif"></td><td valign="top" bgcolor="#CCCCCC" width="210"><img border="0" height="1" width="210" src="/i/clear.gif"></td></tr></tbody></table><table bgcolor="#CCCCCC" cellspacing="0" cellpadding="0" border="0" height="69%" width="100%"><tbody><tr><td valign="top" bgcolor="#CCCCCC" width="170"><table valign="top" cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td align="right" valign="top" bgcolor="#999999" width="25"><img border="0" height="1" width="25" src="/i/sub_navbox_top_left.gif"><br><img border="0" height="21" width="25" src="/i/sub_navbox_btm_left.gif"></td><td bgcolor="#666666" class="moduleTitle" valign="top" width="100%"><table valign="top" cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td bgcolor="#CCCCCC" valign="top" width="140" colspan="2"><img border="0" height="1" width="140" src="/i/clear.gif"></td></tr><tr><td bgcolor="#333333" class="statTextBig" valign="middle" width="100%">&nbsp;:: please read </td><td align="right" bgcolor="#333333" width="5"><img border="0" height="21" width="5" src="/i/sub_nav_title_right.gif"></td></tr></tbody></table></td></tr></tbody></table><table bgcolor="#43515E" background="/i/steel_gray_bg2.gif" valign="top" cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td background="" colspan="2"><img vspace="2" border="0" height="1" width="1" src="/i/clear.gif"></td><td background="" width="1"><img border="0" height="1" width="1" src="/i/clear.gif"></td></tr><tr><td align="right" class="subNav" background="" valign="top">&nbsp;&nbsp;&nbsp;::&nbsp;&nbsp;</td><td width="100%" class="subNav" background="" height="15" valign="top"><a class="subNav" href="/index?t=&amp;c=privacy">Privacy Policy</a></td><td background="" width="1"><img border="0" height="1" width="1" src="/i/clear.gif"></td></tr><tr><td align="right" class="subNav" background="" valign="top">&nbsp;&nbsp;&nbsp;::&nbsp;&nbsp;</td><td width="100%" class="subNav" background="" height="15" valign="top"><a class="subNav" href="/index?t=&amp;c=terms">Terms, Revisions</a></td><td background="" width="1"><img border="0" height="1" width="1" src="/i/clear.gif"></td></tr><tr><td background="" colspan="2"><img vspace="2" border="0" height="1" width="1" src="/i/clear.gif"></td><td background="" width="1"><img border="0" height="1" width="1" src="/i/clear.gif"></td></tr><tr><td background="/i/steel_gray_bg.gif" align="right" bgcolor="#666666" colspan="3"><img border="0" height="17" width="13" src="/i/sub_navbox_btm_right.gif"></td></tr></tbody></table><img vspace="10" alt="[ TopCoder ]" border="0" height="77" width="160" src="/i/logo_ghosted_bracket.gif"></td><td valign="top" bgcolor="#CCCCCC" width="4"><img border="0" height="8" width="4" src="/i/clear.gif"></td><td valign="top" bgcolor="#CCCCCC" width="100%" class="bodyText"><img border="0" vspace="5" height="1" width="240" src="/i/clear.gif"><br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right" width="11" valign="top"><img border="0" height="26" width="11" src="/i/table_top_left1.gif"></td><td align="left" width="75" bgcolor="#CCCCCC" valign="top"><img border="0" height="26" width="180" src="/i/header_privacy.gif" alt="privacy"></td><td width="100%" bgcolor="#CCCCCC" valign="middle" class="bodyTextBold"><img border="0" height="1" width="240" alt="" src="/i/clear.gif"><br>&nbsp;<span class="bodySubhead">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></td><td align="right" width="10" bgcolor="#CCCCCC" valign="top"><img border="0" height="26" width="10" alt="" src="/i/clear.gif"></td></tr></tbody></table><table width="100%" bgcolor="#FFFFFF" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td width="11" valign="top"><img border="0" height="1" width="11" alt="" src="/i/clear.gif"></td><td width="100%" bgcolor="#FFFFFF" valign="top" colspan="2" class="bodyText"><img border="0" height="1" width="240" alt="" src="/i/clear.gif"><br><br> 
+</script> January 31, 2020 </span><a class="statText" href="Javascript:tcTime()">[Get Time]</a></td><td nowrap="0" class="globalNavSmall" align="right" width="100%" bgcolor="#333333" valign="middle"><a class="globalNavSmall" target="_parent" href="http://www.topcoder.com/?&amp;t=authentication&amp;c=login">
+                      Login
+                    </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+                
+                <a class="globalNavSmall" target="_parent" href="http://www.topcoder.com">
+                  Home
+                </a></td><td bgcolor="#333333" width="15"><img vspace="8" border="0" height="1" width="15" src="/i/clear.gif"></td></tr><tr><td colspan="4" bgcolor="#000000"><img border="0" height="1" width="1" src="/i/clear.gif"></td></tr></tbody></table><table bgcolor="#000000" cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr><td bgcolor="#000000" width="15"><a name="top"></a><img border="0" height="1" width="15" src="/i/clear.gif"></td><td bgcolor="#000000" width="206"><a target="_parent" href="http://www.topcoder.com/?&amp;t=home&amp;c=public_home"><img vspace="13" border="0" height="49" width="206" src="/i/logo.gif"></a></td><td bgcolor="#000000" width="20"><img hspace="15" border="0" height="1" width="1" src="/i/clear.gif"></td><td align="right" nowrap="" valign="bottom" class="time"><table cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr><td><img border="0" height="1" width="1" src="/i/clear.gif"></td><td bgcolor="#000000" width="100%"><img border="0" height="1" width="1" src="/i/clear.gif"></td><td bgcolor="#000000" width="190" valign="bottom" align="right" class="time"><img border="0" height="1" width="190" src="/i/clear.gif"><br></td><td bgcolor="#000000" width="10"><img border="0" height="1" width="10" src="/i/clear.gif"></td></tr><tr><td><img border="0" height="74" width="1" src="/i/clear.gif"></td><td bgcolor="#000000" width="100%"><img border="0" height="74" width="1" src="/i/clear.gif"></td><td bgcolor="#000000" width="190" valign="middle" align="right" class="time">     
+&nbsp;
+                          </td><td bgcolor="#000000" width="10"><img border="0" height="1" width="10" src="/i/clear.gif"></td></tr></tbody></table></td></tr></tbody></table><table bgcolor="#CC0000" cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr><td nowrap="0" background="/i/steel_gray_bg.gif" height="21" width="114" class="registerNav"><a target="_parent" onmouseout="changeImages('image3', 'image3off')" onmouseover="changeImages('image3', 'image3on')" class="registerNav" href="Javascript:arena()"><img border="0" height="21" width="170" alt="Competition Applet" name="image3" src="/i/menu_applet2_off.gif"></a></td><td nowrap="0" bgcolor="#CC0000" background="/i/top_bar_bg.gif" height="21" width="100%" class="globalNav"><a target="_parent" class="registerNav" href="https://www.topcoder.com/reg?WebLogicSession=PfMMReXtSdnk5gR0flGCIZpyLWoHqQrfCkVWPZjnUMyDk0KBjnI3|-5524876473375628731/-1062728653/6/7030/7030/7031/7031/7030/-1|NONE/index.jsp"><img border="0" height="21" width="114" alt="Register" src="/i/menu_reg_off.gif"></a><a target="_parent" onmouseout="changeImages('image2', 'image2off')" onmouseover="changeImages('image2', 'image2on')" href="http://www.topcoder.com/?&amp;t=tces&amp;c=index"><img border="0" height="21" width="187" alt="TCES" name="image2" src="/i/menu_tces_off.gif"></a><a target="_blank" onmouseout="changeImages('image4', 'image4off')" onmouseover="changeImages('image4', 'image4on')" href="http://www.topcodersoftware.com"><img border="0" height="21" width="128" alt="TCS" src="/i/menu_tcs_off.gif" name="image4"></a></td></tr></tbody></table><table bgcolor="#CCCCCC" cellspacing="0" cellpadding="0" border="0" height="69%" width="100%"><tbody><tr><td valign="top" bgcolor="#CCCCCC" width="170"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000" width="170"><tbody><tr><td bgcolor="#000000" valign="top"><img border="0" src="/i/clear.gif" height="1" width="6" alt=""></td><td bgcolor="#000000" class="statTextBig" height="18" valign="middle">Please READ:</td><td bgcolor="#000000" valign="top"><img border="0" src="/i/clear.gif" height="1" width="8" alt=""></td></tr><tr><td bgcolor="#333333" colspan="3" valign="top"><img border="0" src="/i/clear.gif" height="1" width="1" alt=""></td></tr><tr><td bgcolor="#333333" class="statText" valign="top">&nbsp;</td><td bgcolor="#333333" class="statText" height="15" valign="middle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="statText" href="http://www.topcoder.com/?&amp;t=&amp;c=terms">Terms, Revisions</a></td><td bgcolor="#333333" class="statText" valign="top">&nbsp;</td></tr><tr><td bgcolor="#333333" colspan="3" valign="top"><img border="0" src="/i/clear.gif" height="1" width="1" alt=""></td></tr><tr><td bgcolor="#000000" colspan="3" valign="top"><img border="0" src="/i/clear.gif" height="1" width="1" alt=""></td></tr><tr><td bgcolor="#333333" class="statText" valign="top">&nbsp;</td><td background="/i/graybv_lite_bg.gif" bgcolor="#333333" class="statText" height="15" valign="middle">
+              &nbsp;&nbsp;&nbsp;<a class="statText" href="http://www.topcoder.com/?&amp;t=&amp;c=privacy">&nbsp;&nbsp;Privacy Policy</a></td><td bgcolor="#333333" class="statText" valign="top">&nbsp;</td></tr><tr><td bgcolor="#000000" colspan="3" valign="top"><img border="0" src="/i/clear.gif" height="1" width="1" alt=""></td></tr><tr><td bgcolor="#000000" valign="top"><img border="0" src="/i/clear.gif" height="1" width="6" alt=""></td><td bgcolor="#000000" class="statTextBig" height="18" valign="middle">What's INSIDE:</td><td bgcolor="#000000" valign="top"><img border="0" src="/i/clear.gif" height="1" width="8" alt=""></td></tr><tr><td bgcolor="#333333" colspan="3" valign="top"><img border="0" src="/i/clear.gif" height="1" width="1" alt=""></td></tr><tr><td class="statText" valign="top">&nbsp;</td><td class="statText" height="15" valign="middle"><img border="0" src="/i/arrow_white.gif" height="10" width="10" alt="">&nbsp;<a class="statTextBig" href="http://www.topcoder.com/?&amp;t=schedule&amp;c=index">Schedule</a></td><td class="statText" valign="top">&nbsp;</td></tr><tr><td bgcolor="#333333" colspan="3" valign="top"><img border="0" src="/i/clear.gif" height="1" width="1" alt=""></td></tr><tr><td class="statText" valign="top">&nbsp;</td><td class="statText" height="15" valign="middle"><img border="0" src="/i/arrow_white.gif" height="10" width="10" alt="">&nbsp;<a class="statTextBig" href="http://www.topcoder.com/stat?WebLogicSession=PfMMReXtSdnk5gR0flGCIZpyLWoHqQrfCkVWPZjnUMyDk0KBjnI3|-5524876473375628731/-1062728653/6/7030/7030/7031/7031/7030/-1|NONE?&amp;c=round_overview">Statistics</a></td><td class="statText" valign="top">&nbsp;</td></tr><tr><td bgcolor="#333333" colspan="3" valign="top"><img border="0" src="/i/clear.gif" height="1" width="1" alt=""></td></tr><tr><td class="statText" valign="top">&nbsp;</td><td class="statText" height="15" valign="middle"><img border="0" src="/i/arrow_white.gif" height="10" width="10" alt="">&nbsp;<a class="statTextBig" href="http://www.topcoder.com/?&amp;t=features&amp;c=index">Features</a></td><td class="statText" valign="top">&nbsp;</td></tr><tr><td bgcolor="#333333" colspan="3" valign="top"><img border="0" src="/i/clear.gif" height="1" width="1" alt=""></td></tr><tr><td class="statText" valign="top">&nbsp;</td><td class="statText" height="15" valign="middle"><img border="0" src="/i/arrow_white.gif" height="10" width="10" alt="">&nbsp;<a class="statTextBig" href="http://www.topcoder.com/?&amp;t=development&amp;c=index">Development</a></td><td class="statText" valign="top">&nbsp;</td></tr><tr><td bgcolor="#333333" colspan="3" valign="top"><img border="0" src="/i/clear.gif" height="1" width="1" alt=""></td></tr><tr><td class="statText" valign="top">&nbsp;</td><td class="statText" height="15" valign="middle"><img border="0" src="/i/arrow_white.gif" height="10" width="10" alt="">&nbsp;<a class="statTextBig" href="http://www.topcoder.com/?&amp;t=tournaments&amp;c=tourny_index">Tournaments</a></td><td class="statText" valign="top">&nbsp;</td></tr><tr><td bgcolor="#333333" colspan="3" valign="top"><img border="0" src="/i/clear.gif" height="1" width="1" alt=""></td></tr><tr><td class="statText" valign="top">&nbsp;</td><td class="statText" height="15" valign="middle"><img border="0" src="/i/arrow_white.gif" height="10" width="10" alt="">&nbsp;<a class="statTextBig" href="http://www.topcoder.com/rtables/index.jsp?WebLogicSession=PfMMReXtSdnk5gR0flGCIZpyLWoHqQrfCkVWPZjnUMyDk0KBjnI3|-5524876473375628731/-1062728653/6/7030/7030/7031/7031/7030/-1|NONE">Round Tables</a></td><td class="statText" valign="top">&nbsp;</td></tr><tr><td bgcolor="#333333" colspan="3" valign="top"><img border="0" src="/i/clear.gif" height="1" width="1" alt=""></td></tr><tr><td class="statText" valign="top">&nbsp;</td><td class="statText" height="15" valign="middle"><img border="0" src="/i/arrow_white.gif" height="10" width="10" alt="">&nbsp;<a class="statTextBig" href="http://www.topcoder.com/?&amp;t=support&amp;c=index">Support/FAQs</a></td><td class="statText" valign="top">&nbsp;</td></tr><tr><td bgcolor="#333333" colspan="3" valign="top"><img border="0" src="/i/clear.gif" height="1" width="1" alt=""></td></tr><tr><td bgcolor="#000000" valign="top"><img border="0" src="/i/clear.gif" height="1" width="6" alt=""></td><td bgcolor="#000000" class="statTextBig" height="18" valign="middle"><font color="#999999">[TC] Corporate</font></td><td bgcolor="#000000" valign="top"><img border="0" src="/i/clear.gif" height="1" width="8" alt=""></td></tr><tr><td bgcolor="#333333" colspan="3" valign="top"><img border="0" src="/i/clear.gif" height="1" width="1" alt=""></td></tr><tr><td bgcolor="#000000" valign="top"><img border="0" src="/i/clear.gif" height="1" width="6" alt=""></td><td bgcolor="#000000" class="statTextBig" height="15" valign="middle"><img border="0" src="/i/arrow_white.gif" height="10" width="10" alt="">&nbsp;<a class="statTextBig" href="http://www.topcoder.com/?&amp;t=about_tc&amp;c=index">About Us</a></td><td bgcolor="#000000" valign="top"><img border="0" src="/i/clear.gif" height="1" width="8" alt=""></td></tr><tr><td bgcolor="#333333" colspan="3" valign="top"><img border="0" src="/i/clear.gif" height="1" width="1" alt=""></td></tr><tr><td bgcolor="#000000" valign="top"><img border="0" src="/i/clear.gif" height="1" width="6" alt=""></td><td bgcolor="#000000" class="statTextBig" height="15" valign="middle"><img border="0" src="/i/arrow_white.gif" height="10" width="10" alt="">&nbsp;<a class="statTextBig" href="http://www.topcoder.com/?&amp;t=news_events&amp;c=index">Press Room</a></td><td bgcolor="#000000" valign="top"><img border="0" src="/i/clear.gif" height="1" width="8" alt=""></td></tr><tr><td bgcolor="#333333" colspan="3" valign="top"><img border="0" src="/i/clear.gif" height="1" width="1" alt=""></td></tr><tr><td bgcolor="#000000" valign="top"><img border="0" src="/i/clear.gif" height="1" width="6" alt=""></td><td bgcolor="#000000" class="statTextBig" height="15" valign="middle"><img border="0" src="/i/arrow_white.gif" height="10" width="10" alt="">&nbsp;<a class="statTextBig" href="http://www.topcoder.com/?&amp;t=contacts&amp;c=index">Contacts</a></td><td bgcolor="#000000" valign="top"><img border="0" src="/i/clear.gif" height="1" width="8" alt=""></td></tr><tr><td bgcolor="#333333" colspan="3" valign="top"><img border="0" src="/i/clear.gif" height="1" width="1" alt=""></td></tr></tbody></table><table width="170" valign="top" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="middle" height="17" bgcolor="#660000" class="moduleTitle"><img border="0" vspace="3" height="17" width="170" alt="Member Search" src="/i/label_search.gif"></td></tr><tr><td valign="top" bgcolor="#43515E"><table border="0" cellpadding="0" cellspacing="0" width="170" bgcolor="#660000"><tbody><tr><td valign="top" bgcolor="#660000" class="data"><img border="0" height="1" width="6" src="/i/clear.gif"></td><td valign="top" bgcolor="#660000" class="statTextBig"><form method="get" name="simpleSearchForm" action="http://www.topcoder.com"><input value="search" name="t" type="hidden"><input value="simple_search" name="c" type="hidden">
+                          Handle:&nbsp;&nbsp;<input maxlength="15" size="12" name="SearchHandle" type="text" class="dropdown"><br><a href="javascript:void document.simpleSearchForm.submit();" class="statTextBig">&nbsp;Search &gt;&gt;</a><br><a class="statText" href="/?t=search">- Advanced Search</a></form></td><td valign="top" bgcolor="#660000" class="data"><img border="0" height="1" width="4" src="/i/clear.gif"></td></tr><tr><td colspan="3" bgcolor="#660000"><img border="0" height="5" width="1" src="/i/clear.gif"></td></tr></tbody></table></td></tr></tbody></table><img border="0" src="/i/left_nav_btm.gif" height="69" width="170" alt=""><br><br><img border="0" vspace="10" alt="[ TopCoder ]" height="77" width="160" src="/i/logo_ghosted_bracket.gif"></td><td valign="top" bgcolor="#FFFFFF" width="4"><img border="0" height="26" width="4" src="/i/table_top_fill.gif"></td><td valign="top" bgcolor="#FFFFFF" width="100%" class="bodyText"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right" width="11" valign="top"><img border="0" height="26" width="11" src="/i/table_top_leftx.gif"></td><td align="left" width="75" valign="bottom"><img border="0" height="8" width="1" src="/i/clear.gif"><br><img border="0" height="26" width="180" src="/i/header_privacy.gif" alt="privacy"></td><td width="100%" valign="middle" class="bodyTextBold"><img border="0" height="1" width="240" alt="" src="/i/clear.gif"><br>&nbsp;<span class="bodySubhead">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></td><td align="right" width="10" valign="top"><img border="0" height="26" width="10" alt="" src="/i/clear.gif"></td></tr></tbody></table><table width="100%" bgcolor="#FFFFFF" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td width="11" valign="top"><img border="0" height="1" width="11" alt="" src="/i/clear.gif"></td><td width="100%" bgcolor="#FFFFFF" valign="top" colspan="2" class="bodyText"><img border="0" height="1" width="240" alt="" src="/i/clear.gif"><br><br><a class="bodyText" href="/reg/index.jsp">Register</a><br><br>
 Because we value privacy as much as we value programmers, TopCoder is committed to protecting the privacy of our users.  
 We want to provide a safe, secure user experience.  We will use reasonable commercial efforts to ensure that the information 
 you submit to us remains private. Your personal information is immediately transferred from our web server to behind our firewall, where it remains isolated 
-from a direct connection to the Internet. The information that you submit to us is used only for the purposes as set forth herein, as required by law, or when we believe 
-in good faith that disclosure is legally required to protect our rights.  The following reflects our commitment to you.  
+from a direct connection to the Internet.  
 <br><br>
 Our security and Privacy Commitment are periodically reviewed and enhanced as necessary.  However, you should understand that "perfect security" does not exist on the Internet.  
 The information that you submit to us is used only for the purposes as set forth herein, as required by law, or when we believe in good faith that disclosure is legally required 
@@ -403,12 +258,18 @@ Spectators are allowed to view the competition without identifying themselves, b
 during the competition will be available to anyone - spectators, members and sponsors and may be subject to challenge from other members.  Your performance in a competition will 
 allow us to help balance the competition.  It will be recorded to calculate competition rating values and it will be posted on the web site and in the competition area.  Winners' 
 names may also be released to governmental authorities as required by law and to those requesting such information from TopCoder.  At registration, we will ask you to answer questions 
-regarding certain demographic information as it relates to your status as a student or a professional.<br><br>
+regarding certain demographic information as it relates to your status as a student or a professional.
+<br><br>
 As a TopCoder member, you can create a more extensive profile that includes your work and educational experience, as well as your relevant technology skills.  You have the ability to 
-update and change this information at any time and we encourage you to keep it updated.<br><br>
-Only TopCoder sponsors and subscribing employers will have access to view your demographic information, educational and work experience, and contact information.<br><br>
-TopCoder sponsors may contact you proactively based upon your skills, experience and TopCoder success.  TopCoder may decide to utilize a process through which TopCoder members may 
-choose to review online inquiries from interested TopCoder sponsors or subscribing companies before being contacted by those companies.<br><br>
+update and change this information at any time and we encourage you to keep it updated.
+<br><br>
+Only TopCoder sponsors and subscribing employers will have access to view your demographic information, educational and work experience, and contact information.
+<br><br>
+TopCoder sponsors may contact you proactively based upon your skills, experience and TopCoder success.  If you are contacted by a third-party regarding employment opportunities and/or 
+media interest as a result in your participation in TopCoder competitions (including, but not limited to, Single Round Matches and tournaments), you agree to promptly notify TopCoder of such contact. 
+TopCoder may decide to utilize a process through which TopCoder members may 
+choose to review online inquiries from interested TopCoder sponsors or subscribing companies before being contacted by those companies.
+<br><br>
 The personal information you provide must be accurate and complete and all registration details (where applicable) must contain your real name, address and other requested details. 
 You are solely responsible for your personal information and we may take any action with respect to your personal information we deem necessary or appropriate if we believe it may 
 cause us to suffer any loss, liability or commercial damage.<br><br><b>Round Tables</b><br>
@@ -434,7 +295,7 @@ We suggest that you access these sites' online policies regarding their data col
 <br><br><b>Access to Your Information</b><br>
 TopCoder will provide you with a reasonable opportunity to review the information that it has compiled about you, as well as a 
 reasonable opportunity to correct any erroneous information.  To view or correct your information, log in to the TopCoder web site,
-  go to "Update Profile" under the "Member Home" page, or contact us at <a class="bodyText" href="mailto:service@topcoder.com">service@topcoder.com</a>.
+  click on "Update Profile" on your "Member Home" page, or contact us at <a class="bodyText" href="mailto:service@topcoder.com">service@topcoder.com</a>.
 <br><br><b>Privacy Commitment Changes</b><br> 
 If we decide to change our privacy commitment for TopCoder, we will post those changes here so that you will always know what 
 information we gather, how we might use that information, and whether we will disclose it to anyone.  In the event that we make
@@ -444,5 +305,24 @@ please feel free to e-mail us at <a class="bodyText" href="mailto:service@topcod
 <br><br>
  
 Thank you for visiting our site.  We'll keep working hard to earn your loyalty.
-<p><br></p></td><td width="10" valign="top"><img border="0" height="1" width="10" alt="" src="/i/clear.gif"></td></tr><tr><td width="100%" bgcolor="#FFFFFF" valign="top" colspan="4"><img border="0" height="10" width="1" alt="" src="/i/clear.gif"></td></tr><tr><td align="right" width="11" bgcolor="#CCCCCC" valign="top"><img border="0" height="8" width="11" alt="" src="/i/clear.gif"></td><td width="75" valign="top"><img border="0" height="8" width="14" alt="" src="/i/table_mid_left2.gif"></td><td width="100%" bgcolor="#FFFFFF" valign="top"><img border="0" height="1" width="1" alt="" src="/i/clear.gif"></td><td width="10" bgcolor="#CCCCCC" valign="top"><img border="0" height="1" width="1" alt="" src="/i/clear.gif"></td></tr><tr><td bgcolor="#CCCCCC" align="right" width="11" valign="top"><img border="0" height="8" width="11" alt="" src="/i/clear.gif"></td><td width="14" bgcolor="#CCCCCC" valign="top"><img border="0" height="8" width="14" alt="" src="/i/table_btm_left2.gif"></td><td width="100%" bgcolor="#CCCCCC" valign="top"><img border="0" height="1" width="1" alt="" src="/i/clear.gif"></td><td width="10" bgcolor="#CCCCCC" valign="top"><img border="0" height="1" width="1" alt="" src="/i/clear.gif"></td></tr></tbody></table></td><td bgcolor="#CCCCCC" width="4"><img border="0" height="1" width="4" src="/i/clear.gif"></td><td valign="top" bgcolor="#CCCCCC" width="170"><img border="0" height="1" width="170" src="/i/clear.gif"><br><table cellpadding="1" cellspacing="0" border="0" width="100%" background="/i/steel_darkblue_bg.gif" bgcolor="#333333"><tbody><tr><td valign="top"><table cellpadding="1" cellspacing="1" border="0" width="100%"><tbody><tr><td valign="middle" height="17" colspan="7" class="moduleTitle" background="" bgcolor="#333333"><img border="0" height="17" width="166" alt="April Dates" src="/i/module_labels_apr_date.gif"></td></tr><tr bgcolor="#CC6600"><td width="16" align="center" class="moduleTitle" background="/i/orangebv_bg.gif"><font color="#FFFFFF">S</font></td><td width="16" align="center" class="moduleTitle" background="/i/orangebv_bg.gif"><font color="#FFFFFF">M</font></td><td width="16" align="center" class="moduleTitle" background="/i/orangebv_bg.gif"><font color="#FFFFFF">T</font></td><td width="16" align="center" class="moduleTitle" background="/i/orangebv_bg.gif"><font color="#FFFFFF">W</font></td><td width="16" align="center" class="moduleTitle" background="/i/orangebv_bg.gif"><font color="#FFFFFF">T</font></td><td width="16" align="center" class="moduleTitle" background="/i/orangebv_bg.gif"><font color="#FFFFFF">F</font></td><td width="16" align="center" class="moduleTitle" background="/i/orangebv_bg.gif"><font color="#FFFFFF">S</font></td></tr><tr><td align="center" class="smallText" background="" bgcolor="#FFFFFF">&nbsp;</td><td align="center" class="smallText" background="" bgcolor="#666666"><a class="smallFoot" href="/?ContestId=4105&amp;t=schedule&amp;c=srm">1</a></td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">2</td><td align="center" class="smallText" background="" bgcolor="#CCCCCC"><a class="smallText" href="/?ContestId=4110&amp;t=schedule&amp;c=srm">3</a></td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">4</td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">5</td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">6</td></tr><tr><td align="center" class="smallText" background="" bgcolor="#FFFFFF">7</td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">8</td><td align="center" class="smallText" background="" bgcolor="#CCCCCC"><a class="smallText" href="/?ContestId=4115&amp;t=schedule&amp;c=srm">9</a></td><td align="center" class="smallText" background="" bgcolor="#CCCCCC"><a class="smallText" href="/?ContestId=4120&amp;t=schedule&amp;c=srm">10</a></td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">11</td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">12</td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">13</td></tr><tr><td align="center" class="smallText" background="" bgcolor="#FFFFFF">14</td><td align="center" class="smallText" background="" bgcolor="#CCCCCC"><a class="smallText" href="/?ContestId=4125&amp;t=schedule&amp;c=srm">15</a></td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">16</td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">17</td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">18</td><td align="center" class="smallText" background="" bgcolor="#FFCC33"><a class="smallText" href="/?t=schedule&amp;c=tourny_sched">19</a></td><td align="center" class="smallText" background="" bgcolor="#FFCC33"><a class="smallText" href="/?t=schedule&amp;c=tourny_sched">20</a></td></tr><tr><td align="center" class="smallText" background="" bgcolor="#FFFFFF">21</td><td align="center" class="smallText" background="" bgcolor="#CCCCCC"><a class="smallText" href="/?ContestId=4130&amp;t=schedule&amp;c=srm">22</a></td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">23</td><td align="center" class="smallText" background="" bgcolor="#CCCCCC"><a class="smallText" href="/?ContestId=4135&amp;t=schedule&amp;c=srm">24</a></td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">25</td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">26</td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">27</td></tr><tr><td align="center" class="smallText" background="" bgcolor="#FFFFFF">28</td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">29</td><td align="center" class="smallText" background="" bgcolor="#CCCCCC"><a class="smallText" href="/?ContestId=4140&amp;t=schedule&amp;c=srm">30</a></td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">&nbsp;</td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">&nbsp;</td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">&nbsp;</td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">&nbsp;</td></tr></tbody></table></td></tr><tr><td class="smallText" align="right" height="15" background="" bgcolor="#CCCCCC"><span class="smallText">More <a class="smallText" href="/index?t=schedule&amp;c=index">2002 match dates</a></span></td></tr></tbody></table></td><td bgcolor="#CCCCCC" width="25"><img border="0" height="1" width="25" src="/i/clear.gif"></td></tr></tbody></table><table cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr><td width="160" bgcolor="#CCCCCC"><img border="0" height="1" width="160" src="/i/clear.gif"></td><td width="10" bgcolor="#CCCCCC"><img border="0" height="10" width="10" src="/i/clear.gif"></td><td width="100%" bgcolor="#CCCCCC"><img border="0" height="5" width="1" src="/i/clear.gif"><p class="bodyText"><a class="bodyText" href="javascript:history.back()"><img border="0" height="21" width="93" alt="" src="/i/previous.gif"></a></p></td></tr><tr><td width="160" bgcolor="#666666"><img border="0" height="1" width="160" src="/i/clear.gif"></td><td width="10" bgcolor="#666666"><img border="0" height="10" width="10" src="/i/footer_top_angle.gif"></td><td width="100%" bgcolor="#CCCCCC"><img border="0" height="1" width="1" src="/i/clear.gif"></td></tr></tbody></table><table bgcolor="#666666" cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr><td align="left" background="/i/footer_graphic_tile.gif" height="15" colspan="2"><img border="0" height="16" width="710" src="/i/footer_graphic.gif"></td></tr><tr><td background="/i/steel_gray_bg.gif" bgcolor="#666666" valign="top" width="20"><img border="0" height="1" width="20" src="/i/clear.gif"></td><td background="/i/steel_gray_bg.gif" bgcolor="#666666" align="left" valign="top" width="100%"><img border="0" height="5" width="1" src="/i/clear.gif"><br><span class="smallFoot"><a target="_parent" class="smallFoot" href="/reg/index.jsp">register</a>&nbsp;&nbsp;::&nbsp;&nbsp;<a target="_parent" class="smallFoot" href="/?t=about_tc&amp;c=index">about [TC]</a>&nbsp;&nbsp;::&nbsp;&nbsp;<a target="_parent" class="smallFoot" href="/?t=contacts&amp;c=index">contacts</a>&nbsp;&nbsp;::&nbsp;&nbsp;<a target="_parent" class="smallFoot" href="/?t=&amp;c=privacy">privacy</a>&nbsp;&nbsp;::&nbsp;&nbsp;<a target="_parent" class="smallFoot" href="/?t=&amp;c=terms">terms</a>&nbsp;&nbsp;::&nbsp;&nbsp;
-		<a target="_parent" class="smallFoot" href="/?t=home&amp;c=public_home">[TC] home</a></span><br><span class="smallText">Copyright © 2002, TopCoder Inc. All rights reserved.</span><br><br><br></td></tr></tbody></table></body></html>
+		<p><br></p></td><td width="10" valign="top"><img border="0" height="1" width="10" alt="" src="/i/clear.gif"></td></tr><tr><td width="100%" bgcolor="#FFFFFF" valign="top" colspan="4"><img border="0" height="10" width="1" alt="" src="/i/clear.gif"></td></tr><tr><td align="right" width="11" bgcolor="#FFFFFF" valign="top"><img border="0" height="8" width="11" alt="" src="/i/clear.gif"></td><td width="75" valign="top"><img border="0" height="8" width="14" alt="" src="/i/table_mid_left2.gif"></td><td width="100%" bgcolor="#FFFFFF" valign="top"><img border="0" height="1" width="1" alt="" src="/i/clear.gif"></td><td width="10" bgcolor="#FFFFFF" valign="top"><img border="0" height="1" width="1" alt="" src="/i/clear.gif"></td></tr><tr><td bgcolor="#FFFFFF" align="right" width="11" valign="top"><img border="0" height="8" width="11" alt="" src="/i/clear.gif"></td><td width="14" bgcolor="#FFFFFF" valign="top"><img border="0" height="8" width="14" alt="" src="/i/table_btm_left2.gif"></td><td width="100%" bgcolor="#FFFFFF" valign="top"><img border="0" height="1" width="1" alt="" src="/i/clear.gif"></td><td width="10" bgcolor="#FFFFFF" valign="top"><img border="0" height="1" width="1" alt="" src="/i/clear.gif"></td></tr></tbody></table></td><td bgcolor="#FFFFFF" width="4"><img border="0" height="1" width="4" src="/i/clear.gif"></td><td valign="top" bgcolor="#FFFFFF" width="170"><img border="0" height="1" width="170" src="/i/clear.gif"><br><img border="0" src="/i/clear.gif" height="3" width="1" alt=""><br><table cellpadding="0" cellspacing="0" border="0" width="170" bgcolor="#000000"><tbody><tr><td bgcolor="#333333" valign="top"><table cellpadding="0" cellspacing="1" border="0" width="100%"><tbody><tr><td nowrap="0" class="statTextBig" height="18" valign="middle" colspan="7" bgcolor="#333333">&nbsp;&nbsp;&nbsp;Match Dates: DECEMBER</td></tr><tr bgcolor="#CC6600"><td width="16" align="center" class="moduleTitle" background="/i/orangebv_bg.gif"><font color="#FFFFFF">S</font></td><td width="16" align="center" class="moduleTitle" background="/i/orangebv_bg.gif"><font color="#FFFFFF">M</font></td><td width="16" align="center" class="moduleTitle" background="/i/orangebv_bg.gif"><font color="#FFFFFF">T</font></td><td width="16" align="center" class="moduleTitle" background="/i/orangebv_bg.gif"><font color="#FFFFFF">W</font></td><td width="16" align="center" class="moduleTitle" background="/i/orangebv_bg.gif"><font color="#FFFFFF">T</font></td><td width="16" align="center" class="moduleTitle" background="/i/orangebv_bg.gif"><font color="#FFFFFF">F</font></td><td width="16" align="center" class="moduleTitle" background="/i/orangebv_bg.gif"><font color="#FFFFFF">S</font></td></tr><tr><td align="center" class="smallText" background="" bgcolor="#FFFFFF">1</td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">2</td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">3</td><td align="center" class="smallText" background="" bgcolor="#FFFFFF"><a class="smallText" href="/stat?c=round_stats&amp;rd=4400">4</a></td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">5</td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">6</td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">7</td></tr><tr><td align="center" class="smallText" background="" bgcolor="#FFFFFF">8</td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">9</td><td align="center" class="smallText" background="" bgcolor="#666666"><a class="smallFoot" href="/?&amp;RoundId=4405&amp;t=schedule&amp;c=srm">10</a></td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">11</td><td align="center" class="smallText" background="" bgcolor="#CCCCCC"><a class="smallText" href="/?&amp;RoundId=4410&amp;t=schedule&amp;c=srm">12</a></td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">13</td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">14</td></tr><tr><td align="center" class="smallText" background="" bgcolor="#FFFFFF">15</td><td align="center" class="smallText" background="" bgcolor="#CCCCCC"><a class="smallText" href="/?&amp;RoundId=4415&amp;t=schedule&amp;c=srm">16</a></td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">17</td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">18</td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">19</td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">20</td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">21</td></tr><tr><td align="center" class="smallText" background="" bgcolor="#FFFFFF">22</td><td align="center" class="smallText" background="" bgcolor="#CCCCCC"><a class="smallText" href="/?&amp;RoundId=4420&amp;t=schedule&amp;c=srm">23</a></td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">24</td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">25</td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">26</td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">27</td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">28</td></tr><tr><td align="center" class="smallText" background="" bgcolor="#FFFFFF">29</td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">30</td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">31</td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">&nbsp;</td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">&nbsp;</td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">&nbsp;</td><td align="center" class="smallText" background="" bgcolor="#FFFFFF">&nbsp;</td></tr></tbody></table></td></tr><tr><td class="smallFoot" align="right" height="15" background="" bgcolor="#333333"><span class="smallFoot">More 
+                    <a class="smallFoot" href="http://www.topcoder.com/?&amp;t=schedule&amp;c=index">
+                      2002 match dates&nbsp;&nbsp;
+                    </a></span></td></tr></tbody></table></td><td bgcolor="#FFFFFF" width="10"><img border="0" height="1" width="10" src="/i/clear.gif"></td></tr></tbody></table><table cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr><td width="160" bgcolor="#CCCCCC"><img border="0" height="1" width="160" src="/i/clear.gif"></td><td width="10" bgcolor="#CCCCCC"><img border="0" height="10" width="10" src="/i/clear.gif"></td><td align="right" width="100%"><a class="bodyText" href="javascript:history.back()"><img hspace="30" border="0" height="21" width="93" alt="" src="/i/previous.gif"></a></td></tr><tr><td width="160" bgcolor="#666666"><img border="0" height="1" width="160" src="/i/clear.gif"></td><td width="10" bgcolor="#666666"><img border="0" height="10" width="10" src="/i/footer_top_angle.gif"></td><td width="100%"><img border="0" height="1" width="1" src="/i/clear.gif"></td></tr></tbody></table><table bgcolor="#666666" cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr><td align="left" background="/i/footer_graphic_tile.gif" height="15" colspan="2"><img border="0" height="16" width="710" src="/i/footer_graphic.gif"></td></tr><tr><td background="/i/steel_gray_bg.gif" bgcolor="#43515E" valign="top" width="20"><img border="0" height="1" width="20" src="/i/clear.gif"></td><td background="/i/steel_gray_bg.gif" bgcolor="#43515E" align="left" valign="top" width="100%"><img border="0" height="5" width="1" src="/i/clear.gif"><br><span class="smallFoot"><a target="_parent" class="smallFoot" href="https://www.topcoder.com/reg?WebLogicSession=PfMMReXtSdnk5gR0flGCIZpyLWoHqQrfCkVWPZjnUMyDk0KBjnI3|-5524876473375628731/-1062728653/6/7030/7030/7031/7031/7030/-1|NONE/index.jsp">
+          register
+        </a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        <a target="_parent" class="smallFoot" href="http://www.topcoder.com/?&amp;t=about_tc&amp;c=index">
+          about [TC]
+        </a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        <a target="_parent" class="smallFoot" href="http://www.topcoder.com/?&amp;t=contacts&amp;c=index">
+          contacts
+        </a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        <a target="_parent" class="smallFoot" href="http://www.topcoder.com/?&amp;t=&amp;c=privacy">
+          privacy
+        </a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        <a target="_parent" class="smallFoot" href="http://www.topcoder.com/?&amp;t=&amp;c=terms">
+          terms
+        </a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        <a target="_parent" class="smallFoot" href="http://www.topcoder.com">
+          [TC] home
+        </a></span><br><br><span class="smallFoot">Copyright © 2002, TopCoder, Inc. All rights reserved.</span><br><br><br></td></tr></tbody></table></body></html>
