@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keurig.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630101332id_/http%3A//www.keurig.com/two/privacy.asp%3Fmscsid%3DFJXM3JX6BQBP9K85RLKEAT2DDHPQ3GUC) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keurig.com privacy policy that was archived on 2004-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040821155057id_/http%3A//www.keurig.com/privacy.asp%3Fmscsid%3D6NLS9K7XPQRK9HCFNTUGU4DCS9X8CUG3) for the most accurate reproduction.*
 
 # Keurig - Single cup coffee maker – coffee brewer, gourmet coffee, gourmet tea, K-Cups
 
@@ -16,7 +16,7 @@ If you do not set up an automatic monthly delivery, you will have to enter your 
 
 When you do place an order, your address and credit card information is transmitted using industry standard encryption technology called secure socket layers (SSL) which ensures that it is encrypted during transmission. The integrity of our safe shopping technology is verified by Verisign.
 
-You can learn more about our secure shopping policy [here](http://www.keurig.com/two/safeShopping.asp?mscsid=V85GAWAPAUT99K5QFUVQPGEBXEPKFESA).
+You can learn more about our secure shopping policy [here](http://www.keurig.com/safeShopping.asp?mscsid=R47DXJFFBKL88MSJPUL53XBXXXVXFJD8).
 
 ##### No Information Sharing
 
