@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gpf-comics.com privacy policy that was archived on 2002-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021207225816id_/http%3A//www.gpf-comics.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gpf-comics.com privacy policy that was archived on 2003-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030602055505id_/http%3A//www.gpf-comics.com/privacy.html) for the most accurate reproduction.-->
 
 <html><head><title>GPF: Privacy Statement and Ad Info</title>
 <script language="JavaScript">
@@ -48,14 +48,27 @@ var adfvalid = false;
 var replad = "";
 var adbanloc = "";
 var warpalive = true;
+var keenspotup = "www";
 var gavzadid = "gpf";
 //-->
 </script>
-<script language="JAVASCRIPT" src="http://www.keenspot.org/premium-services/getcookie.cgi">
-</script>
+<script language="JAVASCRIPT">
+ <!--
+ document.writeln("<SC"+"RIPT LANGUAGE='JAVASCRIPT' SRC='http://merv.keenspot.com/keenspotupcheck?"+ord+"'></SC"+"RIPT>");
+ //-->
+</script><script language="JAVASCRIPT" src="http://merv.keenspot.com/keenspotupcheck?608387"></script>
+
+<script language="JAVASCRIPT">
+ <!--
+ if (keenspotup == "www") {
+ document.writeln('<SC'+'RIPT LANGUAGE="JAVASCRIPT" SRC="http://www.keenspot.org/premium-services/getcookie.cgi"></SC'+'RIPT>');
+ }
+ //-->
+</script><script language="JAVASCRIPT" src="http://www.keenspot.org/premium-services/getcookie.cgi"></script>
+
  <script language="JAVASCRIPT">
  <!--
-if (adcookie != "") {
+if (adcookie != "" && keenspotup == "www") {
  document.write("<S"+"CRIPT LANGUAGE='JAVASCRIPT' SRC='http://www.keenspot.org/premium-services/decookie.cgi?"+ord+"'></S"+"CRIPT>");
  document.write("<S"+"CRIPT LANGUAGE='JAVASCRIPT' SRC='http://www.keenspot.org/premium/warpcheck.js'></S"+"CRIPT>");
 }
@@ -63,11 +76,11 @@ if (adcookie != "") {
 </script>
  <script language="JAVASCRIPT">
  <!--
-if (!adfvalid) {
- document.write("<S"+"CRIPT LANGUAGE='JAVASCRIPT' SRC='http://ad.keenspace.com/burstfn.js'><\/S"+"CRIPT>");
+if (!adfvalid && keenspotup == "www") {
+ document.write("<S"+"CRIPT LANGUAGE='JAVASCRIPT' SRC='http://gavzad.keenspot.com/burstfn.js'><\/S"+"CRIPT>");
 }
  //-->
-</script><script language="JAVASCRIPT" src="http://ad.keenspace.com/burstfn.js"></script>
+</script><script language="JAVASCRIPT" src="http://gavzad.keenspot.com/burstfn.js"></script>
 <script language="JavaScript">
 <!--
 if (adfvalid != true)  {
@@ -119,31 +132,33 @@ if (adfvalid != true)  {
 }
 //-->
 </script>
-<table border="0" cellspacing="0" cellpadding="2" width="100%" background="" bgcolor="#000073" bordercolor="#000000" height="30" hspace="0" vspace="0">
+<table border="0" cellspacing="0" cellpadding="2" width="100%" background="" bgcolor="#244b94" bordercolor="#000000" height="30" hspace="0" vspace="0">
  <tbody><tr>
    <td align="left" valign="middle">
-     <a href="http://www.keenspot.com"><img src="http://www.gpf-comics.com/images/header-keenspotlogo_gpf.gif" border="0" hspace="0" width="101" height="28"></a>
-   </td><td><script language="javascript"><!--
-if(adfvalid == true) {
- var warpimage = "warpdisabled.gif";
- if(!warpalive) var warpimage = "warpout.gif";
- if(warpenabled && warpalive) var warpimage = "warpengaged.gif";
- document.write('<a href="'+afbanloc+'"><img border=0 src="http://www.keenspot.org/premium/images/'+warpimage+'"></a>');
-} else {
-document.write('&nbsp;');
-}
-//--></script>&nbsp;<noscript>&nbsp;</noscript></td><td align="center" valign="middle">
-   <center><img src="http://www.keenspot.org/header-comiclinkimages/header-trythisspot.gif"><script language="JavaScript">
+     <script language="javascript">
 <!--
-var KeenHeaderPix = new Array("alicecomics.com","ashfieldonline.com","avalonhigh.com","brunothebandit.com","choppingblock.org","clanofthecats.com","crfh.net","cutewendy.com","elflife.com","everythingjake.com","exploitationnow.com","fat-jesus.com","funnyfarmcomics.com","genecatlow.com","gpf-comics.com","greystoneinn.net","houndshome.com","itswalky.com","joeaverage.org","keenspot.com","krazylarry.com","lookwhatibroughthome.com","lostandfoundcomic.com","melonpool.com","mrchuckshow.com","newshounds.com","nukees.com","pentasmal.com","poisonedminds.com","radcomics.com","reallifecomics.com","rpgworldcomic.com","schlockmercenary.com","sinfest.net","soaprope.com","suburbanjungle.com","superosity.com","theclassm.com","ubersoft.net","wanderingones.com","youdamnkid.com");
-randomNum = Math.floor(Math.random() * 40);
-document.write("<a href=http://www.");
-document.write(KeenHeaderPix[randomNum]);
-document.write("><img border=0 src=http://www.keenspot.org/header-comiclinkimages/comiclink-");
-document.write(KeenHeaderPix[randomNum]);
-document.write(".gif></a");
- // -->
-</script><a href="http://www.alicecomics.com"><img border="0" src="http://www.keenspot.org/header-comiclinkimages/comiclink-alicecomics.com.gif"></a></center></td><td align="right" valign="middle">
+if (keenspotup != "false") document.write('<a href="http://'+keenspotup+'.keenspot.com"><img src="http://www.gpf-comics.com/images/header-keenspotlogo_gpf.gif" border="0" hspace="0" width="101" height="28"></a>');
+//-->
+</script><a href="http://www.keenspot.com"><img src="http://www.gpf-comics.com/images/header-keenspotlogo_gpf.gif" border="0" hspace="0" width="101" height="28"></a><noscript>
+<a href="http://www.keenspot.com"><img src="http://www.gpf-comics.com/images/header-keenspotlogo_gpf.gif" border="0" hspace="0" width="101" height="28"></a>
+</noscript>&nbsp;
+   </td><td align="center" valign="middle"><center>
+ <script language="JAVASCRIPT">
+ <!--
+if (adfvalid == true) {
+document.write('<font color="#ffffff">Sponsored by </font><a href="http://gavzad.keenspot.com/cgi-bin/keenad.cgi?0000049;1001;'+gavzadid+'"><font color="#ffffff">Pair Networks</font></a>');
+} else {
+if (keenspotup == "www") {
+document.write('<img border=0 width=120 height=28 src="http://www.keenspot.com/images/bluesponsor.gif">');
+document.write('<S'+'CRIPT SRC="http://gavzad.keenspot.com/adserv49.js?'+gavzadid+';'+ord+'">');
+document.write('</S'+'CRIPT>');
+}
+}
+//-->
+</script><img border="0" width="120" height="28" src="http://www.keenspot.com/images/bluesponsor.gif"><script src="http://gavzad.keenspot.com/adserv49.js?gpf;608387"></script>
+<noscript>
+<img border=0 width=120 height=28 src="http://www.keenspot.com/images/bluesponsor.gif"><a href="http://gavzad.keenspot.com/cgi-bin/keenad.cgi?0000049;1001"><img alt="Pair Networks sponsors your favorite Keenspot webcomics! www.pair.com" border=0 width=240 height=28 src="http://gavzad.keenspot.com/ads/0000049/1001.gif"></a>
+</noscript></center></td><td align="right" valign="middle">
 <table border="0" cellspacing="0" cellpadding="0">
 <script language="Javascript">
 <!--
@@ -162,6 +177,7 @@ document.write(".gif></a");
                 <option value="" selected="">Select a Spot!
 </option><option value="http://www.gpf-comics.com/">GPF
 </option><option value="http://www.genecatlow.com/">Gene Catlow
+</option><option value="http://www.cutewendy.com/">Girly
 </option><option value="http://www.greystoneinn.net/">Greystone Inn
 </option><option value="http://www.ubersoft.net/">Help Desk
 </option><option value="http://www.houndshome.com/">Hound's Home
@@ -177,9 +193,8 @@ document.write(".gif></a");
 </option><option value="http://www.mrchuckshow.com/">Mr. Chuck Show
 </option><option value="http://www.newshounds.com/">Newshounds
 </option><option value="http://www.nukees.com/">Nukees
-</option><option value="http://www.ozyandmillie.org/">Ozy and Millie
+</option><option value="http://www.owliecomics.com/">Owlie
 </option><option value="http://www.rpgworldcomic.com/">RPG World
-</option><option value="http://www.reallifecomics.com/">Real Life
 </option><option value="http://www.poisonedminds.com/">S.S.D.D.
 </option><option value="http://www.schlockmercenary.com/">Schlock Mercenary
 </option><option value="http://www.eightland.com/">Sephen
@@ -190,7 +205,6 @@ document.write(".gif></a");
 </option><option value="http://www.suburbanjungle.com/">Suburban Jungle
 </option><option value="http://www.superosity.com/">Superosity
 </option><option value="http://www.wanderingones.com/">Wandering Ones
-</option><option value="http://www.wendycomic.com/">Wendy
 </option><option value="http://www.youdamnkid.com/">You Damn Kid
 </option><option value="http://www.ashfieldonline.com/">?
 </option><option value="http://www.alicecomics.com/">Alice!
@@ -206,7 +220,6 @@ document.write(".gif></a");
 </option><option value="http://www.errantstory.com/">Errant Story
 </option><option value="http://www.everythingjake.com/">Everything Jake
 </option><option value="http://www.faans.com/">Fans
-</option><option value="http://www.fat-jesus.com/">Fat Jesus
 </option><option value="http://www.funnyfarmcomics.com/">Funny Farm
 
 </option></select><noscript><input type=submit value="Go!"></noscript>
@@ -232,13 +245,18 @@ document.write(".gif></a");
  <!--
 if (adfvalid == true) {
  document.write("<a href='"+afbanloc+"'><img border=0 width=486 height=60 src='"+replad+"'></a>");
-} else {
-document.write('<S'+'CRIPT SRC="http://ad.keenspace.com/adserv10.js?gpf;'+ord+'">');
+} else if (keenspotup == "www") {
+document.write('<S'+'CRIPT SRC="http://gavzad.keenspot.com/adserv10.js?gpf;'+ord+'">');
 document.write('<\/S'+'CRIPT>'); 
 
+} else {
+document.writeln('<iframe SRC="http://www.burstnet.com/cgi-bin/ads/ad8223a.cgi/RETURN-CODE/if/57416/" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" vspace="0" hspace="0" width="468" height="60">');
+document.writeln('<A target="_top" HREF="http://www.burstnet.com/ads/ad8223a-map.cgi/57416"><IMG SRC="http://www.burstnet.com/cgi-bin/ads/ad8223a.cgi/57416" border="0" width="468" height="60" alt="Please support our sponsor.">');
+document.writeln('</a></iframe>');
 }
+
  //-->
- </script><script src="http://ad.keenspace.com/adserv10.js?gpf;410565"></script>
+ </script><script src="http://gavzad.keenspot.com/adserv10.js?gpf;608387"></script>
 
 <noscript><a href="http://www.burstnet.com/ads/ad8223a-map.cgi/ns" target="_top"><img src="http://www.burstnet.com/cgi-bin/ads/ad8223a.cgi/ns" width="468" height="60" border="0" alt="Click Here"></a>
 </noscript>
@@ -255,7 +273,7 @@ document.write('<\/S'+'CRIPT>');
 <font face="Helvetica,Arial" size="-1">
 
 <center>
-<font size="-2">Last updated January 18, 2002</font><p>
+<font size="-2">Last updated April 27, 2003</font><p>
 
 <a href="#privacy">Privacy Statement</a> | 
 <a href="#cookies">Our Policy on and Use of "Cookies"</a><br>
@@ -300,7 +318,7 @@ hands.</p><p><br>
 For the uninitiated, "cookies" are small snippets of text information stored on your 
 hard drive, saved by your browser. Cookies have a multitude of uses, usually helping 
 maintain state information between pages (such as an online shopping cart system, or 
-perhaps a <a href="games/gandalf/">game</a>). Cookies can and have been used by others 
+perhaps a <!--A HREF="games/gandalf/"-->game). Cookies can and have been used by others 
 for malicious purposes; please rest assured that we here at <b>GPF</b> will never use 
 cookies in such a manner.<p>
 
@@ -330,19 +348,30 @@ control over the content of these banner ads, where they may lead, and the conte
 the sites they may lead to. As such, we cannot be held responsible for any offensive 
 or malicious content that may appear on these ads or their feature sites. If you do 
 find any offensive, malicious, or illegal material in such a banner ad, please 
-<a href="mailto:jeff@gpf-comics.com?subject=Bad Advertiser!">send us an e-mail</a> 
+<script language="JavaScript">
+<!-- hide script from old browsers
+var emailstr = "jeff" + String.fromCharCode(64) + "gpf-comics.com";
+document.writeln('<A HREF="mailto:' + emailstr + '">send us an e-mail</A> ');
+//--></script><a href="mailto:jeff@gpf-comics.com">send us an e-mail</a> 
+
+<noscript>send us an e-mail (jeff{AT}gpf-comics.com) </noscript>
 so we can investigate.<p>
 
-There is always the possibility that banner ads may include JavaScript, Java, and/or 
-Flash, or 
-may attempt to set a "cookie." All such code is completely out of our control, and we 
+There is always the possibility that banner ads may include JavaScript, Java, Flash, 
+may attempt to set a "cookie," or even attempt to install "spyware" or other software 
+without your permission. All such code is completely out of our control, and we 
 cannot be held responsible for any such code that may affect your browser in any 
 fashion. (Some banner ads have been known to crash browsers, much to our dismay.) 
 We also cannot be held responsible if one of these advertisers attempts to collect your 
 personal information through a banner ad; we personally find such an act to be 
 unscrupulous and devious, but there's little we can do about it, if it occurs. If you 
 believe your personal information is being spirited away by such an ad, please 
-<a href="mailto:jeff@gpf-comics.com?subject=Bad Advertiser!">send us an e-mail</a> 
+<script language="JavaScript">
+<!-- hide script from old browsers
+document.writeln('<A HREF="mailto:' + emailstr + '">send us an e-mail</A> ');
+//--></script><a href="mailto:jeff@gpf-comics.com">send us an e-mail</a> 
+
+<noscript>send us an e-mail </noscript>
 so we can investigate.</p><p>
 
 There have been, in some cases, advertisers who have displayed ads on our site that 
@@ -371,11 +400,17 @@ Statement</a>
 advertising, and is taking direct advertising contracts. If you are interestined in 
 advertsing on this or other Keenspot sites, feel free to explore the 
 <a href="http://www.keenspot.com/mediakit/">Keenspot Media Kit</a> or 
-<a href="mailto:keenspot@keenspot.com?subject=Advertising Info">contact Keenspot</a> 
+<script language="JavaScript">
+<!-- hide script from old browsers
+var emailstr2 = "keenspot" + String.fromCharCode(64) + "keenspot.com";
+document.writeln('<A HREF="mailto:' + emailstr2 + '?subject=Advertising Info">contact Keenspot</A> ');
+//--></script><a href="mailto:keenspot@keenspot.com?subject=Advertising Info">contact Keenspot</a> 
+
+<noscript>contact Keenspot (keenspot{AT}keenspot.com) </noscript>
 for more information.</p><p>
 
 In addition, Keenspot has now launched 
-<a href="http://www.keenspot.com/premium/">Keenspot PREMIUM</a>, a subscription-based 
+<a href="http://www.keenspot.org/premium/">Keenspot PREMIUM</a>, a subscription-based 
 service that allows you to surf all of Keenspot ad-free for a small fee. In addition, 
 subscriptions allow you to gain access to exclusive content and free original art or 
 comics. We here at <b>GPF</b> heartily endorse Keenspot PREMIUM as a kewl, nifty way 
@@ -389,9 +424,9 @@ Keenspot is now showing DoubleClick ads again as part of a campaign with another
 company. Therefore, the "opt out" link is imperative again. We encourage all readers 
 to "out out" of their tracking system by clicking the link below and following the 
 instructions. Keep in mind that you need to do this for every browser you use, since 
-cookies do not transfer between browser implementations.</i></font><p>
+cookies do not transfer between browser installations.</i></font><p>
 
-Many of you may already be aware that <a href="http://www.sonar.com/">Sonar</a> and 
+Many of you may already be aware that <!--A HREF="http://www.sonar.com/"-->Sonar and 
 its parent company, <a href="http://www.doubleclick.net/">DoubleClick</a>, have been 
 the center of some debate concerning online privacy. To summarize, DoubleClick merged 
 with another company which specialized in maintaining large marketing databases 
@@ -447,12 +482,19 @@ to "opt out" of DoubleClick's tracking system.</a>
 <a href="/behind.html"><font color="#FFFFFF">Behind the Scenes</font></a> | 
 <a href="/awards/"><font color="#FFFFFF">Awards</font></a> | 
 <a href="/gpfnow.html"><font color="#FFFFFF">Link Icons!</font></a> | 
-<b>E-Mail:</b> <i><a href="mailto:jeff@gpf-comics.com"><font color="#FFFFFF">jeff@gpf-comics.com</font></a></i>
+<b>E-Mail:</b> 
+<script language="JavaScript">
+<!-- hide script from old browsers
+var emailstr = "jeff" + String.fromCharCode(64) + "gpf-comics.com";
+document.writeln('<A HREF="mailto:' + emailstr + '"><FONT COLOR="#FFFFFF"><I>' + emailstr + '</I></FONT></A>');
+//--></script><a href="mailto:jeff@gpf-comics.com"><font color="#FFFFFF"><i>jeff@gpf-comics.com</i></font></a>
+
+<noscript><I>jeff{AT}gpf-comics.com</I></noscript>
 </center></font></td></tr></tbody></table></p><p>
 
 
 <font size="-2">© <a href="/copyrite.html">Copyright</a> 
-2002, Jeffrey T. Darlington. All rights reserved.<br>
+2003, Jeffrey T. Darlington. All rights reserved.<br>
 <a href="/privacy.html">Our privacy policy.</a> 
 Hosted by <a href="http://www.keenspot.com/">Keenspot</a></font></p><p>
 
@@ -460,14 +502,18 @@ Hosted by <a href="http://www.keenspot.com/">Keenspot</a></font></p><p>
 
 <script>
 <!--
-if (!adfvalid) {
-document.write('<S'+'CRIPT SRC="http://ad.keenspace.com/adserv11.js?gpf"><\/S'+'CRIPT>');
+if (!adfvalid && keenspotup == "www") {
+document.write('<S'+'CRIPT SRC="http://gavzad.keenspot.com/adserv11.js?gpf"><\/S'+'CRIPT>');
+} else if (keenspotup != "www") {
+document.writeln('<iframe SRC="http://www.burstnet.com/cgi-bin/ads/ba8223b.cgi/RETURN-CODE/if/101730/" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" vspace="0" hspace="0" width="468" height="60">');
+document.writeln('<A target="_top" HREF="http://www.burstnet.com/ads/ba8223b-map.cgi/101730"><IMG SRC="http://www.burstnet.com/cgi-bin/ads/ba8223b.cgi/101730" border="0" width="468" height="60" alt="Please support our sponsor.">');
+document.writeln('</a></iframe>');
 }
-// --></script><script src="http://ad.keenspace.com/adserv11.js?gpf"></script>
+// --></script><script src="http://gavzad.keenspot.com/adserv11.js?gpf"></script>
 <noscript>
-<iframe SRC="http://www.burstnet.com/cgi-bin/ads/ba8223a.cgi/RETURN-CODE/if/865983/" scrolling="no" marginwidth="0" margin
+<iframe SRC="http://www.burstnet.com/cgi-bin/ads/ba8223b.cgi/RETURN-CODE/if/101730/" scrolling="no" marginwidth="0" margin
 height="0" frameborder="0" vspace="0" hspace="0" width="468" height="60">
-<A target="_top" HREF="http://www.burstnet.com/ads/ba8223a-map.cgi/865983"><IMG SRC="http://www.burstnet.com/cgi-bin/ads/ba8223a.cgi/865983" border="0" width="468" height="60" alt="Please support our sponsor.">
+<A target="_top" HREF="http://www.burstnet.com/ads/ba8223b-map.cgi/101730"><IMG SRC="http://www.burstnet.com/cgi-bin/ads/ba8223b.cgi/101730" border="0" width="468" height="60" alt="Please support our sponsor.">
 </a></iframe>
 </noscript>
 
