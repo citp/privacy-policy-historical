@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wfubmc.edu privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604011724id_/http%3A//www.wfubmc.edu/disclaimer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wfubmc.edu privacy policy that was archived on 2001-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011023235309id_/http%3A//wfubmc.edu/disclaimer/privacy.html) for the most accurate reproduction.*
 
 # WFUBMC: Privacy Statement
 
