@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the fertilethoughts.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602115651id_/http%3A//www.fertilethoughts.net/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fertilethoughts.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203003309id_/http%3A//www.fertilethoughts.net/privacystatement.html) for the most accurate reproduction.*
 
 # Fertile Thoughts
 
   
-**FertileThoughts.com** **is an online community site for people who are dealing with family building issues.** ** Our mission is to provide timely, comprehensive, and accessible medical information on infertility treatments and family building matters, and to give people a place to share their experiences with others dealing with similar situations. We are independent of any drug company, HMO, medical practice, or other health care organization in order to ensure unbiased, objective, credible information. We keep the right to choose who will advertise with us, in order to make sure that no harmful or offensive products or services are offered on our site.**
+**FertileThoughts.com** **is an online community site for people who are dealing with family building issues.** ** Our mission is to provide timely, comprehensive, and accessible medical information on infertility treatments, adoption, surrogacy, and any family building matters, and to give people a place to share their experiences with others dealing with similar situations. We are independent of any drug company, HMO, medical practice, or other health care organization in order to ensure unbiased, objective, credible information. We keep the right to choose who will advertise with us, in order to make sure that no harmful or offensive products or services are offered on our site.**
 
 **We respect our users’ privacy by limiting the gathering of personal and identifying information, using this information only to ensure that online activities within FertileThoughts are appropriate, and share this information with affiliates and partners only at the aggregate or anonymous level.**
 
@@ -12,8 +12,8 @@
  **
   1. What is said in one post should not be taken to another post by a different member.
   2. Avoid mentioning your personal information publicly. This includes but not limited to full real names, employment and phone numbers of the employees in their own buildings, address, email addresses, etc. 
-  3. Similarly to the above please don't expose fellow members' personal information in your posts. 
-  4. Please don't discuss other members' personal affairs in your posts. This includes any item from their private life and health condition. After all, you probably wouldn't like someone else discussing your private affairs in public. 
+  3. Similarly to the above please don't expose fellow members' (or any other person's - even if not a member of this site) personal information in your posts. 
+  4. Please don't discuss other members' (or any other person's - even if not a member of this site) personal affairs in your posts. This includes any item from their private life and health condition. Even if you believe they wouldn't mind and/or its for their benefit. After all, you probably wouldn't like someone else discussing your private affairs in public. 
 **
 
 
@@ -35,7 +35,7 @@ Since the subject matter of **FertileThoughts** is of a sensitive nature we have
 
 **Cookies**
 
-**FertileThoughts** uses cookies to save your password so you don't have to re-enter it each time you visit our site. This is done only when you enter one of the sections that require you to have a user name and a password such as the Java chatrooms. In no case are cookies used to track down users for any purpose.
+**FertileThoughts** uses cookies to save your password so you don't have to re-enter it each time you visit our site. This is done only when you enter one of the sections that require you to have a user name and a password such as the Java chatrooms. In no case are cookies used to track down users for any purpose. If you dont like usage of cookies you can easily disable it by going to "my settings". When cookies are not used the forums will be using a method called "session ID" to keep track of you during each visit. Once you leave the site no information is kept on the server or your computer. This may require you to log on manually for each visit.
 
 **Advertisers**
 
@@ -81,13 +81,17 @@ We have business relationships that can be viewed under our [Partners and Affili
 
 **FertileThoughts** gives users the option to change and modify information previously provided.
 
--To edit or change your entry in [Personal Histories](http://fertilethoughts.net/personal-history/index.php3), go to that section, locate your entry and use the "edit" feature.
+\- To edit or change your entry in [Personal Histories](http://fertilethoughts.net/personal-history/index.php3), go to that section, locate your entry and use the "edit" feature.
 
--To change or remove a chat you have scheduled on the [Calendar](http://www.fertilethoughts.net/chat/calendar.html), please write to [Dave@FertileThoughts.com](mailto:dave@fertilethoughts.com).
+\- To change or remove a chat you have scheduled on the [Calendar](http://www.fertilethoughts.net/chat/calendar.html), please write to [Dave@FertileThoughts.com](mailto:dave@fertilethoughts.com). Please write Feedback in the subject line of the email sent otherwise it will not be addresses.
 
--To have your picture removed from the [Picture Album](http://www.fertilethoughts.net/album/pictures/main.htm) , or your entry removed from the [Guest Book](http://www.fertilethoughts.net/infertility/interact/guestbook/index.html) , please write to [Dave@FertileThoughts.com](mailto:dave@fertilethoughts.com).
+\- To have your picture removed from the [Picture Album](http://www.fertilethoughts.net/album/pictures/main.htm), or your entry removed from the [Guest Book](http://www.fertilethoughts.net/infertility/interact/guestbook/index.html), please write to [Dave@FertileThoughts.com](mailto:dave@fertilethoughts.com). Please write Feedback in the subject line of the email sent otherwise it will not be addresses.
 
--To have your [Java Chat Room](http://chat.fertilethoughts.net/) registration removed from our records, please write to our Java programmer at javachat@fertilethoughts.com.
+\- To have your [Java Chat Room](http://www3.fertilethoughts.com/RealChat/index.php?s=) registration removed from our records, please write to [Dave@FertileThoughts.com](mailto:dave@fertilethoughts.com). Please write Feedback in the subject line of the email sent otherwise it will not be addresses.
+
+**Membership Upgrade (Boards Subscription) Billing Information**
+
+**FertileThoughts** does not collect ANY of your financial information (e.g. credit card number etc.). When you submit payment the information is passed in real time to a processing gateway (provided by Authorize.net). We just get a confirmation from them if payment was approved and change your membership status accordingly. Authorize.net is a reputable company who is a leader in the area of online transactions processing. You can learn more about them at their site: [http://www.authorizenet.com](http://www.authorizenet.com/)
 
 **Contacting FertileThoughts**
 
