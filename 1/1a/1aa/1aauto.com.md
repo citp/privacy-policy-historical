@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1aauto.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203063946id_/http%3A//www.1aauto.com/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1aauto.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602231447id_/http%3A//www.1aauto.com/privacy_statement.php) for the most accurate reproduction.*
 
 # Privacy Statement
 
