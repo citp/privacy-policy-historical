@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auctiva.com privacy policy that was archived on 2001-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011101062039id_/http%3A//auctiva.com/home/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctiva.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408032446id_/http%3A//www.auctiva.com/home/privacy.asp) for the most accurate reproduction.*
 
 # Auctiva - Powerful Solutions for Online Sellers!
 
