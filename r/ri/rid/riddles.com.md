@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riddles.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209153730id_/http%3A//www.riddles.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riddles.com privacy policy that was archived on 2003-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030210093405id_/http%3A//www.riddles.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Riddles.com
 
