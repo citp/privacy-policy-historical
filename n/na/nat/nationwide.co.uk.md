@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationwide.co.uk privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205151515id_/http%3A//nationwide.co.uk/about_nationwide/membership_matters/privacy.asp%3Fs%3Dhome) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationwide.co.uk privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404103731id_/http%3A//www.nationwide.co.uk/about_nationwide/membership_matters/privacy.asp%3Fs%3Dhome) for the most accurate reproduction.*
 
 # About Nationwide - Membership Matters - Privacy
 
@@ -60,7 +60,7 @@ _Again no information will be recorded that uniquely identifies you._
 
 You may choose to set your browser to not accept any cookies - click on the link below to see how. Please be aware that in doing this certain websites (excluding Nationwide) may not operate correctly.
 
-Find out more about how Nationwide keeps your account secure in our [Security and Access Centre](https://web.archive.org/Security_and_access/whatyoucando.asp?state=7#cookies).
+Find out more about how Nationwide keeps your account secure in our [Security and Access Centre](https://web.archive.org/security_and_access/security_measures/approach/default.htm).
 
 **Definitions**
 
