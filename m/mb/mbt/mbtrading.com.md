@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the mbtrading.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208183425id_/http%3A//www.mbtrading.com/disc0.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbtrading.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207162824id_/http%3A//www.mbtrading.com/disc0.asp) for the most accurate reproduction.*
 
-# MB Trading | Our Privacy Policy
+# MB Trading -- Direct Access Stocks, Options, and Futures Trading
 
-  
-Our Privacy Policy  
-
-
-**Confidential Treatment of Customer Information**
-
+**Confidential Treatment of Customer Information**  
 **Did You Know** a federal law exists that regulates the collection, use, and safeguarding of your nonpublic personal financial information by banks, securities industry members, insurance companies, and other financial institutions. "Nonpublic personal financial information" is defined as specific information that is not available to the general public.
 
 Before a company can share your nonpublic personal information that you have entrusted with them, they are required to notify you in advance of the sharing arrangement and to give you ample time to opt-out.
@@ -63,6 +58,6 @@ New York, NY 10036-6700
 
 When contacting the DMA, please be sure to include complete information about each name, address, and telephone number that you would like to have excluded from their national contact lists. If you have moved within the past year, you should also include your old address and phone number. This is also true for name changes and the addresses and phone numbers associated with each name.
 
-If you have any questions regarding our privacy policy, please do not hesitate to contact our Customer Service Department at .
+If you have any questions regarding our privacy policy, please do not hesitate to contact our Customer Service Department at (866) 628-3001.
 
 **THIS PRIVACY NOTICE IS PROVIDED TO YOU FOR INFORMATIONAL PURPOSES ONLY. YOU DO NOT NEED TO CALL OR TAKE ANY ACTION IN RESPONSE TO THIS NOTICE. WE RECOMMEND THAT YOU READ AND RETAIN THIS NOTICE FOR YOUR PERSONAL RECORDS.**
