@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncmars.org privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607063748id_/http%3A//www.ncmars.org/priavcy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncmars.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204100817id_/http%3A//www.ncmars.org/priavcy.htm) for the most accurate reproduction.*
 
 # Privacy and Security Notice
 
