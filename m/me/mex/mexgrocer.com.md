@@ -1,36 +1,18 @@
-> *The following text is extracted and transformed from the mexgrocer.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604014449id_/http%3A//www.mexgrocer.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mexgrocer.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204080743id_/http%3A//www.mexgrocer.com/privacy.asp) for the most accurate reproduction.*
 
-# MexGrocer.com - Online grocery shopping store for mexican food, cooking recipes and culture
+# MexGrocer.com online grocery store for mexican food products and mexican recipes
 
 [](http://www.truste.org/validate/10910)
 
 Privacy Policy Overview MexGrocer.com is strongly committed to protecting the privacy of its customers. We have written this privacy policy to inform you of the specific information that we collect from you, how we use this information, and what options you have in sharing this information with us when you visit our site. Protecting your privacy is a significant part of MexGrocer.com's commitment to providing you with a high quality shopping experience.
 
-This confirms that MexGrocer.com is a licensee of the TRUSTe Privacy Program. TRUSTe certifies this website’s online gathering and dissemination of information and privacy practices. TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices.  Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of:
-
-1.    What personally identifiable information of yours or third party personally identifiable information that is collected from you through the web site.
-
-2.  The organization collecting the information.
-
-3.  How the information is used.
-
-4.  With whom the information may be shared.
-
-5.  What choices are available to you regarding collection, use and distribution of the information.
-
-6.  The kind of security procedures that are in place to protect the loss, misuse or alteration of information under MexGrocer’s control.
-
-7.  How you can correct any inaccuracies in the information.
+This confirms that MexGrocer.com is a licensee of the TRUSTe Privacy Program. TRUSTe certifies this website’s online gathering and dissemination of information and privacy practices. TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices.  Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 If you have questions or concerns regarding this statement, you should first contact our Customer Service Department through any method desired at the end of this policy. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/users/users_watchdog_intro.html) directly. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
 Information Collection and Use ** **
 
-MexGrocer.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. MexGrocer.com collects information from our users at several different points on our website. MexGrocer intends to assign to Terra Networks some or all of the personal data collected (i.e. name, email, order information, etc.) from this site ONLY for end-users accessing this site through the [www.terra.com](http://www.terra.com/) portal, to be used in accordance with Terra's [privacy policy](http://www.terra.com/info-en/privacidad.htm). 
-
-3rd Party Ad Servers
-
-MexGrocer.com works with bCentral, a third party to serve ads on our site.  These ads contain cookies. This policy only covers the use of cookies by MexGrocer.com and does not cover the use of cookies by any advertisers. MexGrocer.com does not have control, nor access to the information contained in its advertisers' cookies. To find out more about how bCentral manages the privacy of information in conjunction with serving ads on this site go to www.bCentral.com.
+MexGrocer.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. MexGrocer.com collects information from our users at several different points on our website.
 
 Registration ** **
 
@@ -58,7 +40,7 @@ We use IP addresses to analyze trends, administer the site, track user's movemen
 
 Sharing 
 
-We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
+We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. MexGrocer will share with Univision Online some or all of the personal data collected (i.e. name, email, order information, etc.) from this site ONLY for end-users accessing this site through the [www.Univision.com](http://www.univision.com/) portal, to be used in accordance with Univision's [privacy policy](http://www.univision.com/content/content.jhtml?cid=72057).
 
 We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
 
@@ -86,7 +68,7 @@ If you have any questions about the security at our website, you can send an ema
 
 Supplementation of Information ** **
 
-In order for this website to enhance its ability to tailor the site to an individual's preference, we combine information about the purchasing habits of users with similar information from our partners, to create a personalized user profile. When a user makes a purchase from either of these two companies, the companies collect and share that purchase information with us so we can tailor the site to our users' preferences.
+In order for this website to enhance its ability to tailor the site to an individual's preference, we combine information about the purchasing habits of users with similar information from our partners, to create a personalized user profile. Customers may have the option to answer a simple survey at the end of the ordering process with BizRate.com, this evaluation of our store will serve as a future testimonial recommendation for other customers to review. In accordance with this survey, we recommend our customers to read BizRate.com's Privacy Policy before submitting their feedback.
 
 Special Offers ** **
 
@@ -100,11 +82,11 @@ Choice/Opt-out 
 
 Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address off of our lists.
 
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to “REMOVE” in the subject line in the email sent out or email us at [info@mexgrocer.com](mailto:info@mexgrocer.com) and let us know that you want to opt-out of further newsletter communications. You may also edit your account under the “My Account” tab at the top of the website, login and click to modify your account. There, you will be able to select to not receive the newsletter any more by selecting “NO” in the designated field. 
+Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to “REMOVE” in the subject line in the email sent out or email us at [info@mexgrocer.com](mailto:info@mexgrocer.com) and let us know that you want to opt-out of further newsletter communications. You may also edit your account under the “My Account” tab at the top of the website, login and click to modify your account. There, you will be able to select to not receive the newsletter any more by selecting “NO” in the designated field.
 
 Notification of Changes 
 
-If we decide to change our privacy policy, we will prominently post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+If we decide to change our privacy policy, we will prominently post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
 Our Guarantee
 
@@ -124,14 +106,14 @@ Your **** Feedback
 
 At MexGrocer.com, your privacy is extremely important. If you have any questions about the privacy statement, the practices of this site, or your dealings with MexGrocer, please click Contact Us and let us know or write us by mail at: 
 
-**MexGrocer.com LLC**
+**MexGrocer.com LLC  
+P.O. BOX 2888  
+La Jolla, CA 92038  
+USA
 
-**P.O. BOX 2888 **
+Phone (858)459-0577  
+Email
 
-**La Jolla, CA 92038 USA**
+  **
 
-**Phone (858) 459-0577**
-
-**Fax      (858) 459-0595**
-
-**Email   [info@mexgrocer.com](mailto:info@mexgrocer.com)**
+**[info@mexgrocer.com](mailto:info@mexgrocer.com)**
