@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vusolutions.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618095947id_/http%3A//vusolutions.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vusolutions.com privacy policy that was archived on 2003-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031217190914id_/http%3A//www.vusolutions.com/privacy.htm) for the most accurate reproduction.*
 
-# Our Privacy Policy
+# VFS Privacy Policy
 
 | |  **
 
@@ -16,11 +16,11 @@ At **Vu Financial Solutions, Inc.** , we are strongly committed to protecting th
 
 **Information We Collect:**
 
-Our firm collects "nonpublic personal information" about you from the following sources: 
+Our firm collects "nonpublic personal information" about you from the following sources:
 
-> > • Information we receive from you on applications, documents used in preparing tax returns, or other forms; 
+> > • Information we receive from you on applications, documents used in preparing tax returns, or other forms;
 >> 
->> • Information about your transactions with us or others; and 
+>> • Information about your transactions with us or others; and
 >> 
 >> • Information we receive from third parties, such as a credit bureau.
 
@@ -45,3 +45,5 @@ We restrict access to your personal and account information to those employees a
 **Questions:**
 
 Thank you for the opportunity to serve you. Your relationship and trusts are very important to us. If you have any questions regarding this Notice or other matters, please feel free to contact us at (617) 381-9700 or email us at [privacy@vusolutions.com](mailto:privacy@vusolutions.com)
+
+ 
