@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easterseals.com privacy policy that was archived on 2004-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040620005216id_/http%3A//www.easterseals.com/site/PageServer%3Fpagename%3Dntl_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easterseals.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207223031id_/http%3A//www.easterseals.com/site/PageServer%3Fpagename%3Dntl_privacypolicy) for the most accurate reproduction.*
 
 # Easter Seals: Privacy Policy
 
