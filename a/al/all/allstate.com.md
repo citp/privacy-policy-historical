@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allstate.com privacy policy that was archived on 2001-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011227150245id_/http%3A//www.allstate.com/about/priv.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allstate.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604181949id_/http%3A//www.allstate.com/about/priv.asp) for the most accurate reproduction.*
 
-# Allstate - Privacy Statement
+# Allstate Insurance Company At Allstate.com
 
   | 
 
