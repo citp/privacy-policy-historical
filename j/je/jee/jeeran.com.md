@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the jeeran.com privacy policy that was archived on 2001-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011018140554id_/http%3A//www.jeeran.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeeran.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210033343id_/http%3A//www.jeeran.com/privacy.asp) for the most accurate reproduction.*
 
 # jeeran.com - Privacy Policy
 
-**  
-New Customers: jeeran.com Privacy Policy**
+**New Customers: jeeran.com Privacy Policy**
 
 At jeeran.com we respect and protect your privacy. Our site is a safe environment for anyone who visits and browses jeeran.com's content. As a provider of services, we are also committed to providing you the best possible online service and experience as well as the best products. The purpose of this policy statement is to fully share with you  
 
