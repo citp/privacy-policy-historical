@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fhb.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203005036id_/http%3A//www.fhb.com/hm_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fhb.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607103117id_/http%3A//www.fhb.com/hm_privacy.htm) for the most accurate reproduction.*
 
 # First Hawaiian Bank
 
@@ -62,16 +62,18 @@ To provide better service and a more effective website, we use "cookies" as part
 
 **First Hawaiian Privacy Policy**
 
+**If you apply for, open, or maintain a consumer account with First Hawaiian, the following will also apply:**
+
 **WHAT INFORMATION WE COLLECT ABOUT YOU.**
 
-In the course of doing business with you, we collect nonpublic personal information about you. "Nonpublic personal information" is financial information specifically about you. For example, it includes information regarding your account balance, payment history, and overdraft history.
+In the course of doing business with you, we collect nonpublic personal information about you. "Nonpublic personal information" is financial information specifically about you. For example, it includes information about your account balance, payment history, and overdraft history.
 
 We collect this information from the following sources:
 
   * Applications or other forms we receive from you.
   * Your transactions with us, our affiliates, or others.
   * Consumer reporting agencies, including credit bureaus.
-  * Information from other outside sources relating to their relationship with you -- for example, your employment history or insurance information.
+  * Information from other parties relating to their relationship with you -- for example, your employment history or insurance information.
 
 
 
@@ -90,14 +92,14 @@ We may disclose all the nonpublic personal information we collect about you as p
 
 **INFORMATION ABOUT FORMER CUSTOMERS.**
 
-If you close your account(s) or become an inactive customer, we will continue to adhere to the policies and practices described here.
+If you close your account(s) or become an inactive customer, we will continue to follow the policies and practices described here.
 
 **OUR SERVICE PROVIDERS AND JOINT MARKETING ARRANGEMENTS.**
 
 We may disclose all your nonpublic personal information to:
 
-  * Companies that perform marketing services on our behalf, such as preparing mailings on our marketing materials.
-  * Other financial institutions with whom we have joint marketing agreements. As one example, when you purchase an investment product (such as a mutual fund or annuity), you may be dealing with one of our employees who also works for the company that sells the investment product. When you provide information in connection with your purchase of the investment product, you provide it both to us and to the other company involved in offering that product.
+  * Companies that perform marketing services on our behalf, such as preparing mailings of our marketing materials.
+  * Other financial institutions with whom we have joint marketing agreements. As one example, when you purchase credit-related insurance in connection with a loan, your information may be provided to an insurance company to process your request.
 
 
 
@@ -114,18 +116,18 @@ Companies in First Hawaiian's corporate family include First Hawaiian Bank, Firs
 
 
 
-**HOW TO TELL US _NOT_ TO SHARE THIS INFORMATION WITH OUR CORPORATE FAMILY**
+**HOW TO TELL US _NOT_ TO SHARE THIS INFORMATION WITHIN OUR CORPORATE FAMILY**
 
-If you prefer that we **_not_** share the types of information described in #1 - 4 above with companies in our corporate family, you may direct us not to share this information by filling out an "Opt-Out Request" form, available at any First Hawaiian branch, and mailing it back to the address on the form.
+If you prefer that we **_not_** share the types of information described above in #1 - 4 with companies in our corporate family, you may direct us not to share this information by filling out an "Opt-Out Request" form, available at any First Hawaiian branch, and mailing it back to the address on the form. (The opt-out will apply to all your First Hawaiian accounts.)
 
-Note: Your direction to us as described in this paragraph covers only certain information about you that we might otherwise share with our corporate family. As explained above, we may continue to share experience or transaction information about you with our corporate family as permitted by law.
+Note: Your direction to us as described in this paragraph covers only certain information about you described in #1 - 4 above that we might otherwise share within our corporate family. As explained above, we may continue to share experience or transaction information about you within our corporate family as permitted by law, even if you submit the opt-out request.
 
 **For joint accountholders:** If you have a joint account, you may direct that your "Opt-Out Request" apply (1) only to yourself or (2) to all persons listed on your joint accounts.  
 
 
 **HOW WE SAFEGUARD INFORMATION.**
 
-Within First Hawaiian, access to nonpublic personal information about you is limited to our employees and in some cases to third parties (for example, the service providers described above) as permitted by law. We maintain physical, electronic and procedural safeguards that comply with federal standards to guard your nonpublic personal information.
+Within First Hawaiian, access to nonpublic personal information about you is limited to our employees and in some cases to third parties (for example, the service providers described above) as permitted by law. We maintain physical, electronic and procedural safeguards that comply with federal standards to protect your nonpublic personal information.
 
 **YOUR MEDICAL INFORMATION.**
 
@@ -136,7 +138,7 @@ You may sometimes provide medical information to us for a specific financial pur
 **Q. ACCURACY OF INFORMATION**. **How can I make sure that the information you have about me is accurate?  
 A.** If you believe that we have incorrect information or have reported inaccurate information to a credit bureau, please write or call us at the address or telephone number listed on your account statement. Or you may call 844-4444 (from Oahu) or call toll-free 888-844-4444 (from the Mainland U.S. or Neighbor Islands). From Guam, call (671) 475-7900. From CNMI, call (670) 235-3090.
 
-**Q. TELEMARKETING. Do you furnish my personal information to outside telemarketers?  
+**Q. TELEMARKETING. _(Telephone Marketing)_ Do you give my personal information to outside telemarketing companies?  
 A.** No. At no time do we use outside telemarketing companies to sell First Hawaiian products and services, nor do we sell or give customer information to outside telemarketing companies to use to solicit business from you.
 
 **Q. CREDIT REPORTS. What information do credit bureaus have about me? How can I make sure it's correct?  
@@ -148,23 +150,13 @@ Equifax, Inc. (800) 997-2493 [www.equifax.com](http://www.equifax.com/)
 Trans Union Corp. (800) 916-8800 [www.tuc.com](http://www.tuc.com/)  
 Experian (888) 397-3742 [www.experian.com](http://www.experian.com/)
 
-**Special offers from us.**  
-We want you to be able to choose whether to receive information about special offers of products and services from us. For example, you can choose to remove your name from our marketing lists so that you will not receive offers by mail, telephone or e-mail. This may mean you might not receive information that may be of interest to you. (Of course, we will continue to send you routine statements and information concerning your accounts that may, from time to time, include promotional offers.) You may direct us to remove your name from our marketing lists by writing to:
-
-Customer Information Manager  
-First Hawaiian Bank  
-P.O. Box 3200  
-Honolulu, HI 96847
-
-When doing so, please provide your name, address,  and First Hawaiian account numbers.
-
 **PROTECT YOUR GOOD NAME.**
 
 You can take steps to secure your personal information and guard against identity theft, one of the fastest-growing kinds of fraud. (Identity theft occurs when criminals steal your financial information and assume your identity -- applying for credit in your name, running up huge bills and generally wrecking your credit history.)
 
-  * **Never** give your Social Security number, credit card or bank account information on the phone unless you initiate the call.
+  * **Never** give your Social Security number, credit card or bank account information to anyone on the phone unless you initiate the call.
   * **Don't** print your Social Security number on your checks.
-  * Protect banking personal identification numbers (PINs) and passwords. Don't carry PINs in your wallet or write them on your debit or credit cards! **Never** use as a password your Social Security number or another number (or portion of the number) that can be found in your wallet. Change your PIN regularly.
+  * Protect banking personal identification numbers (PINs) and passwords. Don't carry PINs in your wallet or write them on your debit or credit cards! **Never** use as a password your Social Security number or another number (or portion of a number) that can be found in your wallet. Change your PIN regularly.
   * Tear up receipts, bank statements and unused credit card offers before throwing them away.
   * Review account statements regularly for unauthorized charges.
   * If you suspect your identity has been stolen:  
