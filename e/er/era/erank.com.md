@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the erank.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603070752id_/http%3A//erank.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erank.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211060329id_/http%3A//www.erank.com/policy.htm) for the most accurate reproduction.*
 
 # eRank.com Privacy Policy
 
 ## Privacy Statement for eRank.com Dating Music & Fashion Forums
 
-**eRank.com Dating Music & Fashion Forums **has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [eRank.com Dating Music & Fashion Forums](http://www.erank.com/)
+**eRank.com Dating Music & Fashion Forums **has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [eRank.com](http://www.erank.com/)
 
 #### Information Automatically Logged
 
@@ -12,9 +12,15 @@ We use your IP address to help diagnose problems with our server and to administ
 
 #### Advertisers
 
-We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here ([www.sonar.com/naiprivacy](http://www.sonar.com/naiprivacy)).
+Third Party Advertising
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
+We use Maxworldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone
+
+number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here <[ _http://www.networkadvertising.org/optout_nonppii.asp_](http://www.networkadvertising.org/optout_nonppii.asp)>
+
+Third Party Cookies
+
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
 
 #### Personal Information
 
@@ -24,11 +30,11 @@ Since we do not collect any personal information on this Web site, we do not sha
 
 #### External Links
 
-This site contains links to other sites. **eRank.com Dating Music & Fashion Forums **is not responsible for the privacy practices or the content of such Web sites.
+This site contains links to other sites. **eRank.com** is not responsible for the privacy practices or the content of such Web sites.
 
 #### Special Relationships
 
-This site has special relationships - such as "Powered by" partners, content providers, business partners, cobranded sites - with other sites. **eRank.com Dating Music & Fashion Forums **is not responsible for the privacy practices or the content of such Web sites.
+This site has special relationships - such as "Powered by" partners, content providers, business partners, cobranded sites - with other sites. **eRank.com** is not responsible for the privacy practices or the content of such Web sites.
 
 #### Security
 
@@ -54,5 +60,5 @@ We care about children and understand that they have special privacy needs. Ther
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [click here](https://web.archive.org/web/20020603070752id_/http%3A//erank.com/feedback.htm).  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [click here](https://web.archive.org/web/20021211060329id_/http%3A//www.erank.com/feedback.htm).  
 
