@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the csaa.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610092444id_/http%3A//www.csaa.com/global/privacypolicy/0%2C8060%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csaa.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215225716id_/http%3A//www.csaa.com/global/privacypolicy/0%2C8060%2C%2C00.html) for the most accurate reproduction.*
 
 # AAA : Privacy Policy
 
-**New Privacy Law**  
-Under a new federal law that went into effect in July 2001, companies such as banks and insurers are required to inform you about the personal information they collect and share with others. This notice is given by California State Automobile Association (CSAA), California State Automobile Association Inter-Insurance Bureau and Western United Insurance Company.
+**Privacy Law**  
+Federal law requires banks and insurers to inform consumers about the personal information they collect and share with others. This notice is given under that law by California State Automobile Association (CSAA), California State Automobile Association Inter-Insurance Bureau and Western United Insurance Company.
 
 **What Information We Collect**  
 We collect personal information from you when you apply for Membership, such as your name, address and telephone number. We collect additional information, such as your driving record or information about your home, from you and from others if you apply for insurance. We also collect information on the use of services, such as Emergency Road Service or purchases using Member discounts. In addition, we buy information from other companies to help us understand which products or services would benefit our Members.
