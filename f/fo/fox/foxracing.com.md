@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the foxracing.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211193044id_/http%3A//foxracing.com/pages/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxracing.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603235551id_/http%3A//foxracing.com/pages/privacy_statement.html) for the most accurate reproduction.*
 
 # Fox Racing :: Privacy Statement
 
-**PRIVACY STATEMENT**
+####  privacy statement
 
 Fox Racing, Inc. respects the privacy of every individual who visits our websites. This Privacy Policy outlines the information Fox Racing, Inc. may collect and how we may use that information.
 
