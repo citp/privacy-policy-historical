@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the consumersunion.org privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602190656id_/http%3A//www.consumersunion.org/aboutcu/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumersunion.org privacy policy that was archived on 2004-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041217014359id_/http%3A//www.consumersunion.org/aboutcu/privacy.htm) for the most accurate reproduction.*
 
 # Consumers Union
 
 **  
 Consumers Union Privacy Policy**
 
-Consumers Union does not sell, rent, or share any information provided by you via this web site with any third party, except as detailed below. 
+Consumers Union does not sell or rent any information provided by you via this web site with any third party. No such information is shared with any third party except in limited circumstances to provide products and service to you or in response to a request from law enforcement ( _see here for more details_).
 
 **INFORMATION WE COLLECT AND HOW WE COLLECT IT**
 
