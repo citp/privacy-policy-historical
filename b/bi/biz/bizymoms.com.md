@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizymoms.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209095642id_/http%3A//www.bizymoms.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizymoms.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621124047id_/http%3A//www.bizymoms.com/privacy.html) for the most accurate reproduction.*
 
 # Bizy Moms.com - Our Privacy Policy - The site for work at home information, ideas, and advice.
 
@@ -14,7 +14,7 @@
 [](http://www.bizymoms.com/chapters.html)  
   
 [](http://www.bizymoms.com/lizfolger.html)[](http://www.bizymoms.com/cgi-bin/sgx/shop.cgi?afnum=10000&page=affiliates.html)  
-[](http://www.bizymoms.com/cgi-bin/directory/search/search.pl)  
+[](http://www.bizymoms.com/search.html)  
 [](http://www.bizymoms.com/contact.html)
 
 |  | 
