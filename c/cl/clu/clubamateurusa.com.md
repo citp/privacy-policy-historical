@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clubamateurusa.com privacy policy that was archived on 2003-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031121192905id_/http%3A//www.clubamateurusa.com/preview/home/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubamateurusa.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605031117id_/http%3A//www.clubamateurusa.com/preview/privacy.htm) for the most accurate reproduction.*
 
-# CAUSA Privacy Policy
+# ClubAmateurUSA.com Privacy Policy
 
 **PRIVACY POLICY**
 
