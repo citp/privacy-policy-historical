@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the bbb.org privacy policy that was archived on 1999-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19990428122156id_/http%3A//www.bbb.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbb.org privacy policy that was archived on 2000-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000622093510id_/http%3A//bbb.org/about/privacy.asp) for the most accurate reproduction.*
 
 # Better Business Bureau: Privacy Policy (draft)
-
-[](https://web.archive.org/web/19990428122156id_/http%3A//www.bbb.org/imagemaps/councilsub.map)   
-[](https://web.archive.org/web/19990428122156id_/http%3A//www.bbb.org/search/index.html) [](https://web.archive.org/web/19990428122156id_/http%3A//www.bbb.org/sitemap/index.html) [](https://web.archive.org/web/19990428122156id_/http%3A//www.bbb.org/feedback/index.html)
 
 ##  The Better Business Bureau  
 Online Privacy Policy
@@ -14,7 +11,7 @@ The Better Business Bureau (BBB) system is committed to maintaining your confide
 
 It is BBB policy that **personal information** , such as your name, postal and e-mail address or telephone number, is **private and confidential**. Accordingly, the personal information you provide is stored in a secure location, is accessible _only_ by designated staff, and is used _only_ for the purposes for which you provide the information (such as to reply to your request or to handle your complaint). For example, when you file a complaint about a business online, the personal information you provide will be used to process your complaint.
 
-_If_ you also indicate on our sites that _you would like to receive information about other BBB programs and services_ , such as scam alerts, publications or membership, your personal information will be added to appropriate BBB mailing lists. You can indicate your desire when completing a complaint form or when you send us e-mail. If at any time you change your mind and would like to add or remove your name from the BBB's mailing list, or correct your personal information, please email us at [jpond@cbbb.bbb.org](mailto:jpond@cbbb.bbb.org).
+_If_ you also indicate on our sites that _you would like to receive information about other BBB programs and services_ , such as scam alerts, publications or membership, your personal information will be added to appropriate BBB mailing lists. You can indicate your desire when completing a complaint form or when you send us e-mail. If at any time you change your mind and would like to add or remove your name from the BBB's mailing list, or correct your personal information, please email us at [webwork@mail.bbb.org](mailto:webwork@mail.bbb.org).
 
 ### No Release of Information to Third Parties
 
