@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hr.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202165700id_/http%3A//www.hr.com/Hrcom/General/PrivacyStatement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hr.com privacy policy that was archived on 2001-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010414015037id_/http%3A//www.hr.com/Hrcom/General/PrivacyStatement.cfm) for the most accurate reproduction.*
 
 # HR.com Human Resources Management, Training, Jobs, Information
 
