@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the propay.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603184740id_/http%3A//www.propay.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propay.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203005935id_/http%3A//www.propay.com/privacy.html) for the most accurate reproduction.*
 
-# ProPay : Privacy Policy
+# ProPay: A Better Way To Get Paid!
 
-|  |  |    
-
+| 
 
 [](https://www.truste.org/validate/7674)This confirms that ProPay USA is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this website has agreed to notify you of: 
 
@@ -32,7 +31,7 @@ ProPay may disclose personal information when required by law or in good-faith b
 **Security**  
 ProPay's website takes every precaution to protect your information. When you submit sensitive information via the website, your information is protected both online and off-line.
 
-When the registration form or transaction forms ask you to enter sensitive information (such as credit card number, checking account information, and/or social security number), that information is encrypted and is protected. While on a secure page, such as the registration form or transaction forms, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'. To learn more about ProPay's security, follow this link: [https://digitalid.verisign.com/as2/ee4421171fceb7c24d0cc8756fb4edf8](https://digitalid.verisign.com/as2/457816c883e66e8befe76255407ad5d0)
+When the registration form or transaction forms ask you to enter sensitive information (such as credit card number, checking account information, and/or social security number), that information is encrypted and is protected. While on a secure page, such as the registration form or transaction forms, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'. To learn more about ProPay's security, follow this link: <https://digitalid.verisign.com/as2/457816c883e66e8befe76255407ad5d0>
 
 While ProPay uses VeriSign encryption to protect sensitive information transferred online, they also do everything in their power to protect your information offline. All your information, not just the sensitive information mentioned above, is restricted in ProPay's offices. Only employees who need the information to perform a specific job (ProPay's database administrator and customer service representatives) are granted access to personally identifiable information. Furthermore, all employees are kept up-to-date on ProPay's security and privacy practices. Every quarter, as well as any time new policies are added, ProPay's employees are notified and/or reminded about the importance of privacy, and what they can do to ensure ProPay's customers' information is protected. The servers that store personally identifiable information are kept in a secure environment. 
 
