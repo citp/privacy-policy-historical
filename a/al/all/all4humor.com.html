@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the all4humor.com privacy policy that was archived on 2001-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010608015921id_/http%3A//www.all4humor.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the all4humor.com privacy policy that was archived on 2001-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011202115846id_/http%3A//www.all4humor.com/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
  <title>Privacy Policy - All4Humor.com</title>
@@ -10,84 +10,10 @@ if (window != top) top.location = location;
 //-->
 </script>
 
-<script language="JavaScript">
-<!-- Hide this script from old browsers --
-
-function GetCookie (name) {
- var arg = name + "=";
- var alen = arg.length;
- var clen = document.cookie.length;
- var i = 0;
- while (i < clen) {
-  var j = i + alen;
-  if (document.cookie.substring(i, j) == arg)
-   return getCookieVal (j);
-  i = document.cookie.indexOf(" ", i) + 1;
-  if (i == 0) break;
- }
- return null;
-}
-
-function SetCookie (name, value) {
- var argv = SetCookie.arguments;
- var argc = SetCookie.arguments.length;
- var expires = (argc > 2) ? argv[2] : null;
- var path = (argc > 3) ? argv[3] : null;
- var domain = (argc > 4) ? argv[4] : null;
- var secure = (argc > 5) ? argv[5] : false;
- document.cookie = name + "=" + escape (value) +
- ((expires == null) ? "" : ("; expires=" + expires.toGMTString())) +
- ((path == null) ? "" : ("; path=" + path)) +
- ((domain == null) ? "" : ("; domain=" + domain)) +
- ((secure == true) ? "; secure" : "");
-}
-
-function DeleteCookie (name) {
- var exp = new Date();
- exp.setTime (exp.getTime() - 1);
- // This cookie is history
- var cval = GetCookie (name);
- document.cookie = name + "=" + cval + "; expires=" + exp.toGMTString();
-}
-
-var expDays = 5;
-var exp = new Date();
-exp.setTime(exp.getTime() + (expDays*24*3600*1000));
-
-function DoTheCookieStuff(){
- var count = GetCookie('count')
- if(count == null) {           // als count nog niet bestaat, dan aanmaken en initialiseren op 1
-  SetCookie('count','1')
-  return 1
- }
- if(count == 3) {
-  window.open('http://www.starteasy.com/cgi-bin/topfun/rankem.cgi?id=a4humor','VoteWindow','width=550,height=325,menubar=no,location=no,status=no,scrollbars=yes,toolbar=yes,resizable=yes');
-  var newcount = parseInt(count) + 1;
-  DeleteCookie('count')
-  SetCookie('count',newcount,exp)
-  return count
- }
- else {
-  var newcount = parseInt(count) + 1;
-  DeleteCookie('count')
-  SetCookie('count',newcount,exp)
-  return count
- }
-}
-
-function getCookieVal(offset) {
- var endstr = document.cookie.indexOf (";", offset);
- if (endstr == -1)
-  endstr = document.cookie.length;
- return unescape(document.cookie.substring(offset, endstr));
-}
-// -- End Hiding Here -->
-</script>
-
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 </head>
 
-<body bgcolor="#DFDBCA" text="#000000" link="#000000" vlink="#000000" alink="#990000" onunload="DoTheCookieStuff()">
+<body bgcolor="#DFDBCA" text="#000000" link="#000000" vlink="#000000" alink="#990000">
 <center>
 
 <!-- UPPER PART STARTS HERE //-->
