@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leaguelineup.com privacy policy that was archived on 2001-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010410035317id_/http%3A//leaguelineup.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leaguelineup.com privacy policy that was archived on 2001-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010802024511id_/http%3A//leaguelineup.com/privacy.asp) for the most accurate reproduction.*
 
-# LeagueLineup.com - The Ultimate Resource for Team Sports
+# LeagueLineup.com - The Youth and Amateur Sports Portal
 
   
 **LeagueLineup.com Privacy Policy**
