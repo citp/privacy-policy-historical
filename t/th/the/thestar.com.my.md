@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thestar.com.my privacy policy that was archived on 2003-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031223132549id_/http%3A//thestar.com.my/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestar.com.my privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622080024id_/http%3A//www.thestar.com.my/info/privacy.asp) for the most accurate reproduction.*
 
 # The Star Online: Privacy Statement
 
