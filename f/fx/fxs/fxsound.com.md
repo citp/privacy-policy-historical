@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the fxsound.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205172435id_/http%3A//www.fxsound.com/dfx/pages/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxsound.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606161152id_/http%3A//www.fxsound.com/global/pages/legal/privacy.php%3Fvendor%3D0%26subvendor%3D0%26plus%3D0) for the most accurate reproduction.*
 
-# www.fxsound.com - Privacy Policy
+# www.fxsound.com - FXSOUND Privacy Statement
 
-FXSOUND Privacy Statement
+### FXSOUND Privacy Statement
 
-  
 Maintaining your Internet privacy is of great importance to FXSOUND and Power Technology. To demonstrate our firm commitment to safeguarding your privacy, we have created this overall privacy statement. Please read this privacy statement to understand how your personal information and other information at FXSOUND will be treated as you use our software and browse our Web site.
 
 WE WILL NEVER SHARE YOUR PERSONAL INFORMATION WITHOUT YOUR PERMISSION.
@@ -38,18 +37,17 @@ FXSOUND is the sole owner of the information collected on this site. We use diff
 **CHOICES AVAILABLE REGARDING USE OF INFORMATION**
 
   1. **Opt out of (unsubscribing) from email:** Each email communication that we send to you includes instructions on how to unsubscribe from receiving further email communications. However, we will then be unable to inform you about products you have previously purchased (such as an available upgrade that you are entitled to receive) or to inform you about critical technical service issues relating to a product or service you own.
-  2. **Correcting and updating your information:** If you need to change your name or email address, feel free to contact our customer support team at [dfxhelp@fxsound.com](mailto:dfxhelp@fxsound.com?subject=DFX%20Email%20Change).
+  2. **Correcting and updating your information:** If you need to change your name or email address, feel free to [contact us](http://www.fxsound.com/dfx/pages/forms/dfxSupport.php?vendor=0&subvendor=0&plus=0).
 
 **INFORMATION ABOUT PARTNER AND ADVERTISER WEB SITES**  
 Our Web site may contain links to other Web sites, including through banner ads and other advertising on the site. Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. FXSOUND is not responsible for the content or the privacy policy or practices of any other Web sites or for the actions of the companies responsible for those Web sites. Please review the privacy policies of those Web sites before providing them with any personal information. 
 
 **CONTACT FXSOUND**  
-If you have any questions about this privacy statement, the practices of this Web site, or your dealings with this site, please contact us:
+If you have any questions about this privacy statement, the practices of this Web site, or your dealings with this site, please contact us.
 
-**Email:**  
-[corporate@power-t.com](mailto:corporate@power-t.com?subject=FXSOUND%20Corporate%20Info)
+**Email:** [corporate@power-t.com](mailto:corporate@power-t.com?subject=Fxsound%20Corporate%20Info)
 
-**Address:**  
+**Mailing Address:**  
 Power Technology  
 100 North Hill Drive, Suite 24  
 Brisbane, CA 94005, USA
