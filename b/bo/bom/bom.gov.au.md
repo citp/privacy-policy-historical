@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bom.gov.au privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205075229id_/http%3A//www.bom.gov.au/other/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bom.gov.au privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604054429id_/http%3A//www.bom.gov.au/other/legal/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy Notice
 
-The Bureau of Meteorology has a firm commitment to privacy in accordance with the Guidelines for Federal and ACT Government World Wide Websites issued by the [Australian Privacy Commissioner](http://www.privacy.gov.au/issues/p7_2.html). This statement discloses our information gathering and dissemination practices for this site. 
+The Bureau of Meteorology has a firm commitment to privacy in accordance with the Guidelines for Federal and ACT Government World Wide Websites issued by the [Australian Privacy Commissioner](http://www.privacy.gov.au/internet/web/index.html). This statement discloses our information gathering and dissemination practices for this site. 
 
   * Information logged
   * Electronic mail addresses
@@ -13,7 +13,9 @@ The Bureau of Meteorology has a firm commitment to privacy in accordance with th
 
 
 
-If you are submitting personal information over the internet which you wish to remain private, please note that, while all attempts are made to secure information transmitted to this site, there is a possibility that information you submit could be observed by a third party while in transit.
+If you are submitting personal information over the internet which you wish to remain private, please note that, while all attempts are made to secure information transmitted to this site, users should be aware that there are inherent risks transmitting information across the Internet. If you prefer, you can [contact us by phone or mail](https://web.archive.org/inside/contacts.shtml).
+
+This site does not provide facilities for the secure transmission of information across the Internet. While the risk of anyone intercepting and misusing information transmitted by email is usually very low you should be aware that a determined individual with the right skills may be able to do this.
 
 ### Information logged
 
@@ -32,7 +34,7 @@ No attempt will be made to identify users or their browsing activities, unless d
 
 ### Electronic mail addresses
 
-We will only record your e-mail address if you send us an email message. It will only be used for the purpose for which you provide it, and will not be added to a mailing list unless you request that this be done. We will not disclose it without your consent. 
+We will record your email address if you transmit it to us electronically either in an email message or via a web page form. It will only be used for the purpose for which you provide it, and will not be added to a mailing list unless you request that this be done. We will not disclose it without your consent. 
 
 ### Subscription and Feedback forms
 
@@ -48,6 +50,6 @@ Search terms that you enter when using our search engine are collected, but are 
 
 ### Links to other sites
 
-This site contains links to other sites. The Bureau of Meteorology is not responsible for the privacy practices of these web sites and has no knowledge of whether cookies or other tracking devices are used on linked sites.
+This site contains links to other sites. The Bureau of Meteorology is not responsible for the privacy practices of these web sites and has no knowledge of whether cookies or other tracking devices are used on linked sites. If you have any concerns regarding your privacy you should ensure you are aware of the privacy policies of those sites.
 
 * * *
