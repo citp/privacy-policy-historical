@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the studentloan.org privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616152327id_/http%3A//www.studentloan.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentloan.org privacy policy that was archived on 2001-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011022030530id_/http%3A//www.studentloan.org/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
-[](https://web.archive.org/web/20010616152327id_/http%3A//www.studentloan.org/_vti_bin/shtml.exe/privacy.htm/map)
+[](https://web.archive.org/web/20011022030530id_/http%3A//www.studentloan.org/_vti_bin/shtml.exe/privacy.htm/map)
 
-[](https://web.archive.org/web/20010616152327id_/http%3A//www.studentloan.org/_vti_bin/shtml.exe/privacy.htm/map1)
+[](https://web.archive.org/web/20011022030530id_/http%3A//www.studentloan.org/_vti_bin/shtml.exe/privacy.htm/map1)
 
-[](https://web.archive.org/web/20010616152327id_/http%3A//www.studentloan.org/_vti_bin/shtml.exe/privacy.htm/map2)
+[](https://web.archive.org/web/20011022030530id_/http%3A//www.studentloan.org/_vti_bin/shtml.exe/privacy.htm/map2)
 
-[](https://web.archive.org/web/20010616152327id_/http%3A//www.studentloan.org/_vti_bin/shtml.exe/privacy.htm/map3)
+[](https://web.archive.org/web/20011022030530id_/http%3A//www.studentloan.org/_vti_bin/shtml.exe/privacy.htm/map3)
 
-[](https://web.archive.org/web/20010616152327id_/http%3A//www.studentloan.org/_vti_bin/shtml.exe/privacy.htm/map4)
+[](https://web.archive.org/web/20011022030530id_/http%3A//www.studentloan.org/_vti_bin/shtml.exe/privacy.htm/map4)
 
 | 
 
@@ -93,4 +93,4 @@ _Or, you can reach the loan service manager, by telephone, at 1-800-243-7552.
 
 Iowa Student Loan is committed to preserving the privacy of our customers. We have described the manner in which we collect and use nonpublic personal information. In the event you have concerns, questions or comments about this policy, please contact us at the addresses or telephone number provided above.
 
-Click [HERE](https://web.archive.org/web/20010616152327id_/http%3A//www.studentloan.org/index.html#top) to return to the Iowa Student Loan Liquidity Corporation home page.
+Click [HERE](https://web.archive.org/web/20011022030530id_/http%3A//www.studentloan.org/index.html#top) to return to the Iowa Student Loan Liquidity Corporation home page.
