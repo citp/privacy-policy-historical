@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lead411.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209191104id_/http%3A//www.lead411.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lead411.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605105806id_/http%3A//lead411.com/privacy.html) for the most accurate reproduction.*
 
 # Lead411: Privacy Policy
 
 Lead411 holds the privacy and security of our site visitors and members as one of it its highest priorities. This Privacy Policy clearly explains what infomation is gathered and what happens with that information. 
 
-, mail: 2512 Artesia Blvd Ste 140, Redondo Beach, CA 90278, or by telephone: 310.376.9481. Contact us if any of these privacy policies have been broken. 
+, mail: 1460 Loma Drive, Hermosa Beach, CA 90254, or by telephone: 310.930.5865. Contact us if any of these privacy policies have been broken. 
 
 **What Information is collected?**
 
