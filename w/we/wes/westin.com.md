@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the westin.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622035228id_/http%3A//www.starwood.com/westin/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westin.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204093128id_/http%3A//www.starwood.com/corporate/privacy_policy.html) for the most accurate reproduction.*
 
 # Starwood Hotels & Resorts
 
+|  |  |  | [](https://web.archive.org/)| [](https://web.archive.org/corporate/company_info.html)| [](https://web.archive.org/corporate/news.html)| [](https://web.archive.org/corporate/investor_relations.html)| [](https://web.archive.org/corporate/profile_overview.html)| [](https://web.archive.org/corporate/company_values.html)| | [](https://web.archive.org/corporate/new_star_props.html)| [](https://web.archive.org/corporate/contact_us.html)  
+---|---|---|---|---|---|---|---|---  
 | 
 
-[](http://ad.doubleclick.net/clk;4917898;7727758;o?http://promo.starwood.com/bestrate)
+[](https://web.archive.org/preferredguest/account/newroc_join1.html)
 
-|  |  |   
----  
-|  | 
+|  |  | |  | 
 
 Starwood Hotels Privacy Policy  
   
@@ -295,4 +295,7 @@ Non Starwood Preferred Guest members can contact us by brand below:
 
 [[Terms and Conditions](https://web.archive.org/corporate/terms_conditions.html)]
 
-Back to Top
+Back to Top  
+  
+  
+
