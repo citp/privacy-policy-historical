@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codemasters.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605042825id_/http%3A//www.codemasters.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codemasters.com privacy policy that was archived on 2003-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031011184231id_/http%3A//www.codemasters.com/privacy) for the most accurate reproduction.*
 
 # Codemasters
 
