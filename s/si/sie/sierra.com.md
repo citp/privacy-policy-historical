@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the sierra.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603152848id_/http%3A//sierra.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sierra.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208034742id_/http%3A//www.sierra.com/company/privacy.php) for the most accurate reproduction.*
 
 # Sierra Entertainment Inc. - Privacy Policy
 
-[](http://web.archive.org/)  
+|   
   
-| 
-
 Sierra Entertainment, Inc. and its subsidiary companies ("Sierra") respect the privacy of our on-line visitors and recognize the importance of providing a secure environment for them. We have adopted an On-Line Privacy Policy that guides how we collect, store, and use the information you provide us. This Privacy Policy details how Sierra safeguards the privacy of its on-line visitors. Please note that when you link to other sites from any of the Sierra websites listed below, the Sierra Entertainment Privacy Policy does not apply to, and cannot control the activities on, those other sites. Also, this Privacy Policy may change from time to time, so please check back periodically to ensure that you are aware of any changes.
 
-[](http://www.esrb.org/)This Privacy Statement and the certification seal located to your right confirms that Sierra is a valid licensee and participating member in the Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online. To protect your privacy, we have voluntarily undertaken this initiative and had all of our web sites reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by ESRB Privacy Online. 
+[](http://www.esrb.com/confirm/sierra-confirmation.htm)This Privacy Statement and the certification seal located to your right confirms that Sierra is a valid licensee and participating member in the Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online. To protect your privacy, we have voluntarily undertaken this initiative and had all of our web sites reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by ESRB Privacy Online. 
 
 ESRB Privacy Online is a third-party seal provider whose mission is to protect consumers' online privacy and make the Internet a secure, reliable, and private place to share information and conduct business. ESRB Privacy Online promotes and enforces established principles and guidelines for fair information practices that include requirements of full disclosure, notice, and informed consent. 
 
@@ -116,7 +114,7 @@ By using the Sierra Web sites listed herein, you signify your assent to the Sier
 [](http://gk3.sierra.com/)  
   
 ---|---  
-|  [Home](https://web.archive.org/web/20020603152848id_/http%3A//sierra.com/index.php) | [Community](http://community.sierra.com/) | [Support](https://web.archive.org/web/20020603152848id_/http%3A//sierra.com/support/index.php) | [PR](https://web.archive.org/web/20020603152848id_/http%3A//sierra.com/pr/index.php) | [Site Map](https://web.archive.org/web/20020603152848id_/http%3A//sierra.com/sitehelp/sitemap.php) | [Contact](https://web.archive.org/web/20020603152848id_/http%3A//sierra.com/support/contact.php) | [Privacy](https://web.archive.org/web/20020603152848id_/http%3A//sierra.com/company/privacy.php)  
+|  [Home](https://web.archive.org/web/20021208034742id_/http://www.sierra.com/company/index.php) | [Community](http://community.sierra.com/) | [Support](https://web.archive.org/web/20021208034742id_/http://www.sierra.com/company/support/index.php) | [PR](https://web.archive.org/web/20021208034742id_/http://www.sierra.com/company/pr/index.php) | [Site Map](https://web.archive.org/web/20021208034742id_/http://www.sierra.com/company/sitehelp/sitemap.php) | [Contact](https://web.archive.org/web/20021208034742id_/http://www.sierra.com/company/support/contact.php) | [Privacy](https://web.archive.org/web/20021208034742id_/http://www.sierra.com/company/company/privacy.php)  
 ---  
 Visit other Sierra sites around the world  
 Copyright © 2002 Sierra Entertainment, Inc., 3060 139th Ave SE #500, Bellevue, WA 98005 U.S.A. All rights reserved.  
