@@ -1,7 +1,11 @@
-> *The following text is extracted and transformed from the hud.gov privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604130638id_/http%3A//www.hud.gov/assist/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hud.gov privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217151049id_/http%3A//www.hud.gov/assist/privacy.cfm) for the most accurate reproduction.*
 
 # HUD's Privacy and Security Statement
 
+|  |     
+  
+---|---  
+  
 HUD respects your right to privacy and will protect it when you visit our web site. Here are some things you should know about how we protect your privacy. 
 
 **E-mail**
