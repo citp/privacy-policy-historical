@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchengineoptimising.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203225911id_/http%3A//searchengineoptimising.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchengineoptimising.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606213556id_/http%3A//searchengineoptimising.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # SearchEngineOptimising.com Submission Programs Privacy Policy from Babylon Technologies Ltd
 
@@ -6,7 +6,7 @@ SearchEngineOptimising.com is a trading style of Babylon Technologies Ltd.
 
 Introduction
 
-This statement discloses the privacy practices for Babylon Technologies Ltd ("Babtech"), which owns and operates the following sites on the World Wide Web: [searchengineoptimising.com](http://www.searchengineoptimising.com/), [babtech.co.uk](http://www.babtech.co.uk/), [condomia.co.uk](http://www.condomia.co.uk/) and [condoms-direct.com](http://www.condoms-direct.com/). When signing up for any of our services, you will be asked to provide information about you. This information is collected to ensure that we receive payment for using our services and also so that we can communicate with you when necessary. It is extremely important that you understand that any information that identifies you will never be shared with anyone without your consent. Our privacy statement as set forth below is written so that you can understand exactly what we do and don't do with your information.
+This statement discloses the privacy practices for Babylon Technologies Ltd ("Babtech"), which owns and operates the following sites on the World Wide Web: [searchengineoptimising.com](http://www.searchengineoptimising.com/), [ineedhits.co.uk](http://www.ineedhits.co.uk/), [babtech.co.uk](http://www.babtech.co.uk/), [feelConfident.co.uk](http://www.feelconfident.co.uk/), [condomia.co.uk](http://www.condomia.co.uk/) and [condoms-direct.com](http://www.condoms-direct.com/). When signing up for any of our services, you will be asked to provide information about you. This information is collected to ensure that we receive payment for using our services and also so that we can communicate with you when necessary. It is extremely important that you understand that any information that identifies you will never be shared with anyone without your consent. Our privacy statement as set forth below is written so that you can understand exactly what we do and don't do with your information.
 
 While we will never share information that may be used to identify you, we do expect our policy statement will change as new ways to protect your confidentiality and new uses for information emerge. To that end, we value your comments about our privacy statement and invite you to e-mail us with suggestions and concerns.  
 Overview
@@ -107,7 +107,7 @@ If we decide to change our privacy policy, we will post those changes on our Web
 
 Customer satisfaction
 
-Babtech is committed to quality customer service and satisfaction. We are constantly reviewing our programs, traffic patterns and customer feedback to improve and enhance your experience with Babtech. You can give us your comments by e-mailing us at [support@searchengineoptimising.com](mailto:support@searchengineoptimising.com) or contacting our customer service line at 028 90 227 887.  
+Babtech is committed to quality customer service and satisfaction. We are constantly reviewing our programs, traffic patterns and customer feedback to improve and enhance your experience with Babtech. You can give us your comments by e-mailing us at [support@searchengineoptimising.com](mailto:support@searchengineoptimising.com) or contacting our customer service line at 0845 226 2697  
 
 
 Acceptance of these terms
