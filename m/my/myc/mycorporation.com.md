@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycorporation.com privacy policy that was archived on 2003-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030418070846id_/http%3A//mycorporation.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycorporation.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204010730id_/http%3A//www.mycorporation.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # MyCorporation privacy policy
 
