@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rvtrader.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618015350id_/http%3A//www.rvtrader.com/cgi-bin/classifieds/classifieds.cgi%3Fdb%3Da10_forsale%26website%3D%26language%3D%26session_key%3D%26print_privacy_page%3Don) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rvtrader.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208184828id_/http%3A//www.rvtrader.com/cgi-bin/classifieds/classifieds.cgi%3Fdb%3Da10_forsale%26website%3D%26language%3D%26session_key%3D%26print_privacy_page%3Don) for the most accurate reproduction.*
 
 # For Sale
 
