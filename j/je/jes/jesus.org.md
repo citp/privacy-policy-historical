@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jesus.org privacy policy that was archived on 2002-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021111182801id_/http%3A//www.jesus.org/audiohelp/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jesus.org privacy policy that was archived on 2003-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030629043424id_/http%3A//www.jesus.org/audiohelp/privacypolicy.asp) for the most accurate reproduction.*
 
 # Crosswalk.com
 
@@ -51,8 +51,12 @@ Occasionally, our advertisers will also place cookies on your browser when you c
 Finally, cookies provide us with no information about who you are or where you go on the Internet when you are not at our site. 
 
 Opt-In   
-Crosswalk.com acquires no personal or registration data about our users except what you explicitly and voluntarily provide (ie. opt-in). We reserve the right to use this information specifically for the purposes related to your registration and generally for any necessary future communication regarding your registration or status. Correcting and updating   
-User registration data can be corrected or updated by going to our members services area at http://account.crosswalk.com and updating the appropriate information fields. Delete/Deactivate   
-To delete or deactivate an account, a user must send an email from the original email address that created the account to registrar@crosswalk.com and ask to be removed from our database. Alternatively, a user can simply go to http://account.crosswalk.com and change all information about themselves except their username, effectively eliminating their entry. |    
+Crosswalk.com acquires no personal or registration data about our users except what you explicitly and voluntarily provide (ie. opt-in). We reserve the right to use this information specifically for the purposes related to your registration and generally for any necessary future communication regarding your registration or status. 
+
+As part of your free subscription, from time to time we will deliver messages from our ministry and advertising partners that we believe would be of specific interest to you. If you would prefer not to receive these occasional messages we will discontinue them at your request. 
+
+Correcting and updating   
+User registration data can be corrected or updated by e-mailing our members services at registrar@crosswalk.com. Delete/Deactivate   
+To delete or deactivate an account, a user must send an email from the original email address that created the account to registrar@crosswalk.com and ask to be removed from our database.  |    
   
 
