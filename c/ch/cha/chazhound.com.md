@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chazhound.com privacy policy that was archived on 2003-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031122035949id_/http%3A//www.chazhound.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chazhound.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604014828id_/http%3A//www.chazhound.com/privacy.html) for the most accurate reproduction.*
 
 # Chazhound's Privacy Statement
 
@@ -47,7 +47,7 @@ If you have any questions about this privacy statement, the practices of this si
 
 
      Chazhound makes protecting your privacy a top priority. We want you to feel safe and in total control with your experiences with us. Our goal is to entertain and educate you on everyday life issues. Thank you for your continued support.  
-[Disclosures/Disclaimers](https://web.archive.org/web/20031122035949id_/http%3A//www.chazhound.com/disclosure.html)   
+[Disclosures/Disclaimers](https://web.archive.org/web/20040604014828id_/http%3A//www.chazhound.com/disclosure.html)   
 
 
 Back
