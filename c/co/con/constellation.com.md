@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the constellation.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604195538id_/http%3A//constellation.com/altnavigation/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the constellation.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209143219id_/http%3A//www.constellation.com/altnavigation/privacy.asp) for the most accurate reproduction.*
 
 # Constellation Energy Group
 
