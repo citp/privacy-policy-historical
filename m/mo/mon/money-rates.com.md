@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the money-rates.com privacy policy that was archived on 2003-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031217184433id_/http%3A//www.money-rates.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the money-rates.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611123252id_/http%3A//www.money-rates.com/privacy.htm) for the most accurate reproduction.*
 
 # money-rates.com
 
