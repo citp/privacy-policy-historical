@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cia.gov privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604121857id_/http%3A//www.cia.gov/cia/notices.html%23priv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cia.gov privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601123340id_/http%3A//www.cia.gov/cia/notices.html%23priv) for the most accurate reproduction.*
 
-# Central Intelligence Agency
+# What's New at CIA
 
 The Director of Central Intelligence heads both the U.S. Intelligence Community and the Central Intelligence Agency. As a result of these dual roles, this Web site includes information about both the Intelligence Community (see the [DCI's welcome page](https://web.archive.org/dci/index.html)) and the Central Intelligence Agency . For the purpose of the notices which follow, we will refer to this entire Web site as the Central Intelligence Agency Web site since 'Central Intelligence Agency' is a more widely known name than is 'Director of Central Intelligence.' The notices which follow apply equally to all areas of this Web site.
 
-###  Privacy Notice
+### Privacy Notice
 
 The Central Intelligence Agency is committed to protecting your privacy and will collect no personal information about you unless you choose to provide that information to us.
 
@@ -43,7 +43,7 @@ The Central Intelligence Agency is committed to protecting your privacy and will
 >   * We do not collect your e-mail address for any purpose other than to provide the update notices you have requested.
 >   * We will not share your e-mail address with any third party, other than as described below in our Security notice.
 >   * We do not create individual profiles with the information that you have provided
->   * Under no circumstances will we give your e-mail address to any any private organization, commercial or otherwise.
+>   * Under no circumstances will we give your e-mail address to any private organization, commercial or otherwise.
 >   * If you unsubscribe to the CIA Web Site Update service, your email address will be purged from our mailing list. Periodically, we will validate e-mail addresses; any that are found to be inactive will be purged from our mailing list.
 > 
 
@@ -58,13 +58,15 @@ The Central Intelligence Agency is committed to protecting your privacy and will
 > 
 
 > 
+> If you choose to offer information or assistance to the CIA in the pursuit of its foreign intelligence mission by using our online form, we will make appropriate inquiries to determine the accuracy of your information. In addition, we may share the information you provide with other appropriate entities to enable the CIA to carry out its legally authorized responsibilities. By providing information or assistance to the CIA through our online form, you expressly consent to these uses of the information you provide about yourself.
+> 
 > **Privacy Act Statement:**
 > 
 > **Authorities:** 50 U.S.C. 403-1; 50 U.S.C. 403-3(d); 50 U.S.C. 403a-g.
 > 
-> **Principal Uses:** Information collected via the CIA Web site is used to: 1) process employment applications from individuals who choose to submit their resumes through the CIA's on-line resume form; 2) provide e-mail notifications of substantive updates to the CIA Web site to subscribers who request this service; and 3) provide information in response to comments or questions when a response is requested by the person submitting the comment or question.
+> **Principal Uses:** Information collected via the CIA Web site is used to: 1) process employment applications from individuals who choose to submit their resumes through the CIA's on-line resume form; 2) provide e-mail notifications of substantive updates to the CIA Web site to subscribers who request this service; and 3) provide information in response to comments or questions when a response is requested by the person submitting the comment or question; and 4) assist the CIA in the fulfillment of its foreign intelligence mission.
 > 
-> **Routine Uses:** Information collected via the CIA Web site may be provided to law enforcement agencies as described in our Security notice.
+> **Routine Uses:** Information collected via the CIA Web site may be provided to law enforcement agencies as described in our Security notice, and may be disclosed pursuant to the CIA's "Statement of General Routine Uses" published in the Federal Register.
 
 [Return to top]
 
@@ -157,9 +159,9 @@ We encourage parents and teachers to be involved in children's Internet explorat
 
 ### Accessing Declassified Information 
 
-If you are interested in documents recently declassified by the Central Intelligence Agency, you can access much of this information through the [CIA Electronic Document Release Center ](http://www.foia.ucia.gov/)(Freedom of Information Act) on this Web site. 
+If you are interested in documents recently declassified by the Central Intelligence Agency, you can access much of this information through the [CIA FOIA Electronic Reading Room ](http://www.foia.cia.gov/)(Freedom of Information Act) on this Web site. 
 
-The Electronic Document Release Center offers an Internet-based database containing recently declassified documents on a wide variety of issues. Many of the referenced documents are available for viewing as full text images of the original document. In addition to the Electronic Document Release Center, the Agency's homepage contains a [Related Links](https://web.archive.org/cia/other_links/other.html) section which includes links to the National Archives Records Administration and other sites where declassified documents and satellite photography may be obtained. 
+The FOIA Electronic Reading Room offers an Internet-based database containing recently declassified documents on a wide variety of issues. Many of the referenced documents are available for viewing as full text images of the original document. In addition to the FOIA Electronic Reading Room, the Agency's homepage contains a [Related Links](https://web.archive.org/cia/other_links/other.html) section which includes links to the National Archives Records Administration and other sites where declassified documents and satellite photography may be obtained. 
 
 [Return to top] 
 
@@ -190,7 +192,7 @@ If you have any questions or comments about the information presented here, plea
 **[Directorate of Intelligence](https://web.archive.org/cia/di/index.html)  
 [Directorate of Science & Technology](https://web.archive.org/cia/dst/index.html)  
 [Center for the Study of Intelligence](https://web.archive.org/csi/index.html)  
-[CIA Electronic Document Release Center (FOIA)](http://www.foia.ucia.gov/)  
+[CIA FOIA Electronic Reading Room](http://www.foia.cia.gov/)  
 [CIA's Homepage for Kids](https://web.archive.org/cia/ciakids/index.html)  
 [Office of General Counsel](https://web.archive.org/ogc/index.htm)  
 [Office of Public Affairs](https://web.archive.org/cia/public_affairs/pas.html)
