@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talkcity.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202222700id_/http%3A//www.talkcity.com/csa/privacy.htmpl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkcity.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413083409id_/http%3A//www.talkcity.com/csa/privacy.htmpl) for the most accurate reproduction.*
 
 # Home Pages at Talk City: Your Privacy In Our Community
 
