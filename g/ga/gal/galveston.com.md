@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the galveston.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630081616id_/http%3A//www.galveston.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galveston.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204071524id_/http%3A//www.galveston.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
