@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrdsb.ca privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402123358id_/http%3A//www.wrdsb.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrdsb.ca privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204082212id_/http%3A//www.wrdsb.on.ca/privacy.php) for the most accurate reproduction.*
 
 # Waterloo Region District School Board - Welcome to Kindergarten
 
@@ -26,6 +26,4 @@ Please note that we may revise our policy as the content on our sites continues 
 
 We hope that you enjoy exploring our sites. 
 
-**wrdsb.on.ca** is owned and operated by the Waterloo Region District School Board., 51 Ardelt Ave Kitchener Ontario N2C 2R5. We can be reached by phone at 1-519-570-0003. If you have any questions about our privacy policy or practices, or you wish to amend, update, or verify information on file, or to notify us that you want your information deleted from our files, contact us at this address.   
-  
-This site is best viewed in 800x600 resolution or higher using Internet Explorer 4+/Netscape 4+. [Privacy Policy](https://web.archive.org/web/20040402123358id_/http%3A//www.wrdsb.ca/privacy.php)
+**wrdsb.on.ca** is owned and operated by the Waterloo Region District School Board., 51 Ardelt Ave Kitchener Ontario N2C 2R5. We can be reached by phone at 1-519-570-0003. If you have any questions about our privacy policy or practices, or you wish to amend, update, or verify information on file, or to notify us that you want your information deleted from our files, contact us at this address. 
