@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clevescene.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205023221id_/http%3A//www.clevescene.com/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clevescene.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605182551id_/http%3A//www.clevescene.com/about/privacy_policy.html) for the most accurate reproduction.*
 
-# Cleveland Scene | clevescene.com | About The Alternative Cleveland connection for events, event listings, music reviews, CD reviews, and all of the latest alternative news from the Cleveland area.
+# Cleveland Scene | clevescene.com | About |
 
 ****
 
