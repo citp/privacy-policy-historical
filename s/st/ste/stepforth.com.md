@@ -1,26 +1,32 @@
-> *The following text is extracted and transformed from the stepforth.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603175753id_/http%3A//www.stepforth.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stepforth.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008150051id_/http%3A//www.stepforth.com/privacy.html) for the most accurate reproduction.*
 
-# Search Engine Placement :: StepForth Placement Privacy Policy
-
-| 
+# Privacy Policy :: StepForth Placement Inc.
 
 | 
 
-_"StepForth's promotion services have resulted in a substantial increase in player accounts for Planet Poker."_ Rhonda E., Marketing  
-Planet Poker Internet Cardroom  
-  
----  
-_"VFT has seen a dramatic improvement in web traffic which has increased our customer clientele and flying hours."  
-_  
-Don P., Flight Instructor  
-Victoria Flight Training  
-  
+* * *
+
 Recieve Our Search Engine News Updates!
 
 Enter your email below:
 
-  
-See Our Latest Search Engine [News Here](https://web.archive.org/web/20030603175753id_/http%3A//www.stepforth.com/search-engine-news/index.shtml)!
+_"StepForth Placement's promotion services have resulted in a substantial increase in player accounts for Planet Poker."_ Rhonda E., Marketing  
+Planet Poker Internet Cardroom
+
+_"StepForth Placement delivers a highly personalized level of service. StepForth staff have gone above and beyond my expectations both in levels of customer service and in the results they have achieved for my website. Thank you StepForth."_
+
+Dean Linnell, Realtor  
+Whistler Real Estate
+
+* * *
+
+[](http://www.iimaonline.org/cimbs.html)
+
+Ross Dunn, CEO of StepForth Placement Inc. is a _[Certified Internet Marketing and Business Strategist](http://www.iimaonline.org/cimbs.html)_. 
+
+| 
+
+## StepForth Placement Privacy Policy
 
 StepForth Placement does not collect information about website visitors for the purpose of selling, sharing or otherwise distributing such information. 
 
@@ -51,10 +57,7 @@ The website hosting review is conducted by [WeDoHosting](http://www.wedohosting.
 **Client Folders:  
 **StepForth compiles the following information in hard-copy client folders; contact names, telephone and fax numbers, business and billing address, contact email addresses, type of business, host server access (ftp) information, a record of all communications between StepForth and the client, and all documents, research, website position reports and other documents relating to the promtion of our client's websites. We have two types of client files, ACTIVE and ARCHIVED. Active client files are available to all office staff members. Archived client files are closed, bound and stored in a lockable filing cabinet for a period of two years. **** We do not share any client information with ANY other company.
 
-  
-[Placement Services](https://web.archive.org/web/20030603175753id_/http%3A//www.stepforth.com/search-engine-placement/index.html) | [Results](https://web.archive.org/web/20030603175753id_/http%3A//www.stepforth.com/results/index.html) | [The Company](https://web.archive.org/web/20030603175753id_/http%3A//www.stepforth.com/company/index.html) | [FAQ](https://web.archive.org/web/20030603175753id_/http%3A//www.stepforth.com/faq/index.html)
+Now StepForth and be Found,  
+[Click Here & Choose the Service that is Right For You!](https://web.archive.org/web/20031008150051id_/http%3A//www.stepforth.com/search-engine-placement/index.html)
 
-Contact Us: [info@stepforth.com](mailto:info@stepforth.com) | [Site Map](https://web.archive.org/web/20030603175753id_/http%3A//www.stepforth.com/company/sitemap.htm)
-
-Hosting by [WeDoHosting.com](http://www.wedohosting.com/cgi-bin/affiliates/clickthru.cgi?id=rossdunn)  
-
+| 
