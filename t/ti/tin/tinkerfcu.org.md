@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinkerfcu.org privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401225153id_/http%3A//tinkerfcu.org/Disclaimer/Disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinkerfcu.org privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401214850id_/http%3A//tinkerfcu.org/Disclaimer/Disclaimer.html) for the most accurate reproduction.*
 
 # Disclaimer and Privacy Policy
 
@@ -11,14 +11,14 @@ Member Privacy Policy
   
   
 [Disclaimer and Privacy Statement  
-](https://web.archive.org/web/20030401225153id_/http%3A//tinkerfcu.org/Disclaimer/Disclaimer.html)  
-[](https://web.archive.org/web/20030401225153id_/http%3A//tinkerfcu.org/index.shtml)  
+](https://web.archive.org/web/20040401214850id_/http%3A//tinkerfcu.org/Disclaimer/Disclaimer.html)  
+[](https://web.archive.org/web/20040401214850id_/http%3A//tinkerfcu.org/index.shtml)  
 ****  
 ****_  
 _ Each member account federally insured to $100,000 by the National Credit Union Administration _  
 __  
 _ Copyright ©2002 Tinker Federal Credit Union[  
-](https://web.archive.org/web/20030401225153id_/http%3A//tinkerfcu.org/Disclaimer/Disclaimer.html)
+](https://web.archive.org/web/20040401214850id_/http%3A//tinkerfcu.org/Disclaimer/Disclaimer.html)
 
 | 
 
@@ -160,4 +160,6 @@ Federal law allows us to disclose the information listed above with other financ
 Here is why we may disclose nonpublic personal information about you to other financial institutions with whom we have joint marketing agreements: • | To provide our members with information about additional products and services  
 ---|---  
   
+  
+**Transaction Receipts** ****You understand that certain receipts for transactions may contain nonpublic personal information about your account. If you authorize a person who is not on your account to transact business on your account, you authorize us to provide such person with any information that would be given to you as a result of whatever business they transact on your behalf.  
 
