@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calottery.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602193628id_/http%3A//www.calottery.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calottery.com privacy policy that was archived on 2004-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040804193942id_/http%3A//www.calottery.com/privacy/index.html) for the most accurate reproduction.*
 
 # California Lottery - Privacy Policy
 
