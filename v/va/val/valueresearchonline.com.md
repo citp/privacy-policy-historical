@@ -1,0 +1,27 @@
+> *The following text is extracted and transformed from the valueresearchonline.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207170146id_/http%3A//www.valueresearchonline.com/policy.asp) for the most accurate reproduction.*
+
+# Value Research Online - Privacy Policy
+
+Privacy Policy |   
+---|---  
+  
+Valueresearchonline.com helps you achieve your financial goals better. Not only do we provide you with accurate, trusted and insightful information, we're also committed to protecting your privacy. This Privacy Policy outlines the types of information we gather about you and how we use it.  
+  
+**What Information Do We Collect and How Do We Use It?**  
+When you register at valueresearchonline.com we ask you to complete a registration form. This registration form includes certain personal information, such as your name, address, e-mail address, as well as other demographic information like age, gender and annual income.  
+We use your name, address, and e-mail address to contact you about valueresearchonline.com, to send you information about other products /services we think might be of interest to you. **Value Research does not share your e-mail address with third parties.** The demographic and personal profile information that we collect during the registration/subscription process, such as income, age, and gender, are used only in aggregate. **Value Research does not sell or rent your personally identifiable information to anyone.** Instead, we use this information to create content and functionality that best serves the needs and interests of our users and to improve the quality of the service we provide you.  
+**How Is Portfolio Information Used and Protected?**  
+We understand that your portfolio information is very sensitive, and protecting the privacy of this information is a top priority for us. The contents of your portfolio are kept strictly confidential and are not shared with any third parties.   
+**What About Internet Provider (IP) Addresses and Cookies?**  
+Valueresearchonline.com logs IP addresses and browser types, but we do not link IP addresses to personally identifiable information. This means that, while a user's session is tracked, the identity of that user remains anonymous. We also use these IP addresses to analyze trends, administer the site and gather broad demographic information for aggregate use.  
+Cookies are used for the same reasons. Cookies are small pieces of information stored on your computer's hard drive that help us monitor what sort of content on Valueresearchonline.com you find most interesting. We also use cookies to remember your passwords for you (so that you don't have to keep re-entering them each time you come back to the site). Your privacy and security are not compromised when you accept a cookie from Valueresearchonline.com because we do not use cookies to collect personal information. Please note, however, that advertisers on our site may also serve you their own cookies when you click through to their sites. We do not control, nor do we have access to, any of the information that they may collect.   
+**The Conversations Area**  
+The Conversations area allows users to interact online with a community of investors. Please remember that any information you disclose in the Conversations area, including your user name, will become public information. We encourage you not to blindly believe any information posted to the Conversations area and to do your own research before making any investment decisions. People writing in the Conversations area may not be who they say they are, may not know what they say they know or may not be affiliated with whom they say they are affiliated.   
+The Conversations area is offered for interactions only. We don't claim any responsibility for the content or accuracy of any information posted to this area and for any trading, investment or other decisions made on the basis of this information.   
+**Security**  
+Valueresearchonline.com takes precautions to protect its members' personal information. We use industry-standard on-line security measures, such as encryption and authentication, to protect your credit card information. Please note, however, that no transmission over the Internet can be 100% secure.   
+**How to Control or Change Your Profile Information**  
+You can edit any of the personal information you've provided by visiting the Personal Profile section of the Membership area. Because this information is protected, you will be required to enter your user name and password to make changes.   
+**Changes to the Privacy Policy**  
+If we ever change the Privacy Policy, we will post that information on this page. If there is ever any material change to the information we gather and how it is used, we will notify you via the address we have in your personal profile. We invite you to come back from time to time to review the policy.  
+If you have any questions about Valueresearchonline.com's Privacy Policy, please e-mail us at dhirendra.kumar@valueresearchonline.com 
