@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ab.com privacy policy that was archived on 1999-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991006110541id_/http%3A//www.automation.rockwell.com/copyright/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ab.com privacy policy that was archived on 2000-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000617221814id_/http%3A//www.automation.rockwell.com/copyright/privacy.html) for the most accurate reproduction.*
 
 # Rockwell Automation - Privacy Statement
 
@@ -18,8 +18,8 @@
 > 
 > This site gives you the option to remove your information from our database if you no longer wish to have this information used, as a basis for further contact with you. Please click on the following link to send your e-mail request, [opt-out@ra.rockwell.com](mailto:opt-out@ra.rockwell.com)
 > 
-> **Contact Us  
->  **We use e-mail links, located on the '[contact us](http://www.automation.rockwell.com/contact.html)' page to allow you to contact us directly with any questions or comments you may have. This information is used to respond directly to your questions or comments. This information may be filed and used to help us prioritise our development needs and continuously improve our web sites, to meet your needs. Please check the box on the ‘contact us’ pages if you do not want this information to be shared with third parties.
+> **Contact Us**  
+>  We use e-mail links, located on the '[contact us](http://www.automation.rockwell.com/contact.html)' page to allow you to contact us directly with any questions or comments you may have. This information is used to respond directly to your questions or comments. This information may be filed and used to help us prioritise our development needs and continuously improve our web sites, to meet your needs. Please check the box on the ‘contact us’ page if you want this information shared with authorized third parties.
 > 
 > **Business Relationships  
 >  **In working with our Business Partners, we require strict contractual obligations, which ensure that your information is safeguarded. Rockwell Automation sites contain links to other Web sites. Rockwell Automation is not responsible for the privacy practices, copyright or content of such Web sites.
