@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pbase.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202203342id_/http%3A//www.pbase.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbase.com privacy policy that was archived on 2004-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040616155809id_/http%3A//www.pbase.com/privacy.html) for the most accurate reproduction.*
 
 # Contact PBase
 
