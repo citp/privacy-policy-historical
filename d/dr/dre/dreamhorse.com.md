@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamhorse.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603162452id_/http%3A//www.dreamhorse.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamhorse.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216230302id_/http%3A//dreamhorse.com/policy.htm) for the most accurate reproduction.*
 
 # Dream Horse Classifieds - Privacy Statement
 
@@ -72,4 +72,4 @@ This site gives users the following options for changing and modifying informati
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
 
 
-[Contact Information](https://web.archive.org/web/20010603162452id_/http%3A//www.dreamhorse.com/contact.html)
+[Contact Information](https://web.archive.org/web/20011216230302id_/http%3A//dreamhorse.com/contact.html)
