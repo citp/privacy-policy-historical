@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-tls.co.uk privacy policy that was archived on 2003-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031009045742id_/http%3A//the-tls.co.uk/terms_and_policy/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-tls.co.uk privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613192936id_/http%3A//www1.the-tls.co.uk/terms_and_policy/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Weekly book reviews and literary analysis from the Times Literary Supplement
 
