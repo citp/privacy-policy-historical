@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adc.com privacy policy that was archived on 2003-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030207124245id_/http%3A//www.adc.com/legal/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adc.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609224353id_/http%3A//www.adc.com/legal/privacystatement) for the most accurate reproduction.*
 
-# ADC.com - Privacy Statement
+# Privacy Statement
 
 ADC Telecommunication, Inc.'s (ADC's) policy is to respect and protect the privacy of our users. This policy statement tells you how we collect information from you and how we use it. ADC follows five core principles of privacy protection in the operation of its Web site:
 
