@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dolby.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603183805id_/http%3A//dolby.com/copy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dolby.com privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810114908id_/http%3A//www.dolby.com/copy.html) for the most accurate reproduction.*
 
 # Dolby Laboratories, Inc. website copyright and privacy guidelines
 
