@@ -1,57 +1,587 @@
-<!--The following is the downloaded HTML source of the eglinfcu.org privacy policy that was archived on 2003-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031203000622id_/http%3A//www.eglinfcu.org/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eglinfcu.org privacy policy that was archived on 2004-04-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040407091009id_/http%3A//eglinfcu.org/disclosures.asp%3Fdis%3D14%26nav%3D1) for the most accurate reproduction.-->
 
-<html><head><title>Eglin Federal Credit Union - Privacy Statement</title>
-</head>
+<html><head>
+	<title>Eglin Federal Credit Union</title>
+<!--
+//  SPEED BUMPS FOR LINKS LEAVING EFCU WEBSITE
+-->
+<script language="javascript">
+<!--
+function ShowMenu(URL, WinTitle, WinWidth, WinHeight, WinLeft, WinTop){
+	attr = "resizable=no,width=" + WinWidth + ",height=" + WinHeight + ",screenX=" + WinLeft + ",screenY=" + WinTop + ",left=" + WinLeft + ",top=" + WinTop + "";
+	msgWindow=open(URL, WinTitle, attr);
+	if (msgWindow.opener == null) msgWindow.opener = self;
+}
+//-->
+</script>
 
-<body bgcolor="#FFFFFF">
-<center>
-<table width="600" border="0" cellpadding="10">
-<tbody><tr>
-<td><font size="2" face="Arial, Helvetica">
-<center><b><u>Eglin Federal Credit Union's Commitment to Your Privacy</u></b></center>
+<script language="JavaScript">
+function go(url) {
+    document.form.action = url;
+}
+</script>
+
+<script>
+  function cancelBack()  {
+    if (event.keyCode == 8)  {
+      event.returnValue=false;
+    }
+  }
+</script>
+
+
+<!--
+//  THESE ARE GLOBAL VALIDATION SCRIPTS/FUNCTIONS
+-->
+	<script language="JavaScript">		
+//Letters Only
+		function isAlpha(field){
+			if (field == "") { return false; }
+			if(field.match(/([a-zA-Z]+$)/)) { return true }
+		}
+//Letters or Numbers
+		function isAlphaNum(field){
+		if (field == "") { return false; }
+		if(field.match(/^[a-zA-Z0-9]+$/)) { return true }
+		}			
+//Numbers Only
+		function isNumeric(field){
+		  if (field == "")  { return false }
+		  if(field.match(/(^\d\d*$)/)) { return true }
+		}
+//Zip Code
+		function isZip(field){
+			if (field == "") { return false; }
+			if(field.match(/(^\d{5}$)|(^\d{5}-\d{4}$)/)) { return true }
+		}
+//Phone Number
+		function isPhone(field){
+			if (field == "") { return false; }
+			if(field.match(/^[01]?\s*[\(\.-]?(\d{3})[\)\.-]?\s*(\d{3})[\.-](\d{4})$/)) { return true }
+		}		
+//Email
+		function isEmail(field){
+			if (field == "") { return false; }
+			if(field.match(/\b(^(\S+@).+((\.com)|(\.net)|(\.edu)|(\.mil)|(\.gov)|(\.org)|(\..{2,2}))$)\b/gi)){
+			return true;}
+		}
+//Social Security Number
+		function isSSN(field){
+			if (field == "") { return false; }
+			if(field.match(/^(\d{3})-?\d{2}-?\d{4}$/)) { return true }
+		}
+	</script>
+<!--
+//  THIS SCRIPT REMOVES FORM FILEDS WHEN A RADIO CHOICE IS MADE
+//  USED ON "ACTIVE MILITARY" SECTION OF THE CONSUMER LOAN APP
+-->
+	<script language="JavaScript">
+	function toggleT(_w,_h) {
+	if (document.all) { 
+	if (_h=='s') eval("document.all."+_w+".style.visibility='visible';");
+	if (_h=='h') eval("document.all."+_w+".style.visibility='hidden';");
+	} else {
+	if (_h=='s') eval("document.layers['"+_w+"'].visibility='show';");
+	if (_h=='h') eval("document.layers['"+_w+"'].visibility='hide';");
+	}
+	}
+	</script>
+<!--
+//  THIS SCRIPT LOADS THE POP UP WINDOWS AND 
+//  PULLS THEM IN FRONT OF CURRENT BROWSER WINDOW
+-->
+	<script language="JavaScript"> var javascript_version = 1.0;</script>
+	<script language="JavaScript1.1">  javascript_version = 1.1;</script>
+	<script language="JavaScript">
+		<!--
+		var newwin;
+		function launchwin(winurl,winname,winfeatures) {
+			newwin = window.open(winurl,winname,winfeatures);
+			if(javascript_version > 1.0) {
+		 		setTimeout('newwin.focus();',250);
+			}
+		}
+		-->
+	</script>
+<!--
+//  END OF SCRIPT
+-->
+
+
+<!--
+//  THIS SCRIPT DEALS WITH THE NETSCAPE RESIZE BUG
+//  THIS FIXES DHTML MISCALCULATIONS
+-->
+	<script language="JavaScript">
+		<!--
+		function WM_netscapeCssFix() {
+		  if (document.WM.WM_netscapeCssFix.initWindowWidth != window.innerWidth || document.WM.WM_netscapeCssFix.initWindowHeight != window.innerHeight) {
+		    document.location = document.location;
+		  }
+		}
+
+		function WM_netscapeCssFixCheckIn() {
+		  if ((navigator.appName == 'Netscape') && (parseInt(navigator.appVersion) == 4)) {
+		    if (typeof document.WM == 'undefined'){
+		      document.WM = new Object;
+		    }
+		    if (typeof document.WM.WM_scaleFont == 'undefined') {
+		      document.WM.WM_netscapeCssFix = new Object;
+		      document.WM.WM_netscapeCssFix.initWindowWidth = window.innerWidth;
+		      document.WM.WM_netscapeCssFix.initWindowHeight = window.innerHeight;
+		    }
+		    window.onresize = WM_netscapeCssFix;
+		  }
+		}
+		-->
+	</script>
+<!--
+//  END OF SCRIPT
+-->
+
+
+<!--
+//  THIS SCRIPT ALLOWS FOR DIRECT LINK FROM DROP DOWN MENUS
+-->
+	<script language="JavaScript">
+		<!--
+		function goSelect(daform) {
+		with(daform) {
+		top.window.location=options[selectedIndex].value; }
+		}
+		//-->
+	</script>
+<!--
+// END OF SCRIPT
+-->
+<link rel="stylesheet" href="/CSS/netscape.css" type="text/css">
+<link rel="stylesheet" href="/CSS/ieStyle.css" type="text/css" id="sheet1" disabled="">
+<link rel="stylesheet" href="/CSS/netscape6.css" type="text/css" id="sheet1" disabled="">
+<script language="JavaScript">
+var browser, links;
+browser = navigator.appName;
+if (browser.indexOf("Explorer") >= 0){
+  links = document.all.tags("link");
+  links[0].disabled=true;
+  links[1].disabled=false;
+}
+</script>
+<script language="JavaScript" src="/menu/milonic_src.js" type="text/javascript"></script>	
+<script language="JavaScript">
+if(ns4)_d.write("<scr"+"ipt language=JavaScript src=/menu/mmenuns4.js><\/scr"+"ipt>");		
+  else _d.write("<scr"+"ipt language=JavaScript src=/menu/mmenudom.js><\/scr"+"ipt>"); 
+</script><script language="JavaScript" src="/menu/mmenudom.js"></script><script>function getflta(ap){return _f}</script>
+
+<script language="JavaScript" src="/menu/menu_data.js" type="text/javascript"></script></head><body leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" width="100%" height="100%" bgcolor="#E6E6E6"><div class="mmenu" onmouseout="startClose()" onmouseover="stopClose()" onselectstart="return" _f="" id="menu0" style="padding: 0px; background: rgb(230, 230, 230); border: 1px solid rgb(102, 102, 102); z-index: 999; visibility: visible; position: absolute; top: 126px; left: 187px;"><a ntl="1" id="mmlink0" href="#" onclick="return clickAction(this._itemRef)" onmouseout="_mot=setTimeout('_mOUt(this._itemRef)',99)" onmouseover="return changeStatus(this._itemRef)" style="background:transparent;text-decoration:none;height:1px;width:1px;overflow:hidden;position:absolute;"></a><table border="0" cellpadding="0" cellspacing="0" style="padding:0px" id="tbl0"><tbody><tr><td nowrap="" tabindex="0" id="el0" onmouseover="_popi(0)" style="background:#E6E6E6;padding:4px"></td><td id="sep0" style="padding:0px;width:1px;;background:#666666"><table border="0" cellpadding="0" cellspacing="0" style="padding:0px" width="1"><tbody><tr><td style="padding:0px;"></td></tr></tbody></table></td><td nowrap="" tabindex="1" id="el1" onmouseover="_popi(1)" style="background:#E6E6E6;padding:4px"><a ntl="1" href="http://www.eglinfcu.org/cu.asp?cu=1.1" id="lnk1" style="background:transparent;display:block;color:#000000;font-Family:Verdana, Tahoma, Arial;font-Weight:bold;font-Style:normal;font-Size:10;text-Decoration:none;">About EFCU</a></td><td id="sep1" style="padding:0px;width:1px;;background:#666666"><table border="0" cellpadding="0" cellspacing="0" style="padding:0px" width="1"><tbody><tr><td style="padding:0px;"></td></tr></tbody></table></td><td nowrap="" tabindex="2" id="el2" onmouseover="_popi(2)" style="background:#E6E6E6;padding:4px"><a ntl="1" href="http://www.eglinfcu.org/ps.asp?ps=1.1" id="lnk2" style="background:transparent;display:block;color:#000000;font-Family:Verdana, Tahoma, Arial;font-Weight:bold;font-Style:normal;font-Size:10;text-Decoration:none;">Products/Services</a></td><td id="sep2" style="padding:0px;width:1px;;background:#666666"><table border="0" cellpadding="0" cellspacing="0" style="padding:0px" width="1"><tbody><tr><td style="padding:0px;"></td></tr></tbody></table></td><td nowrap="" tabindex="3" id="el3" onmouseover="_popi(3)" style="background:#E6E6E6;padding:4px"><a ntl="1" href="http://www.eglinfcu.org/rt.asp?rt=1.1" id="lnk3" style="background:transparent;display:block;color:#000000;font-Family:Verdana, Tahoma, Arial;font-Weight:bold;font-Style:normal;font-Size:10;text-Decoration:none;">Rates &amp; Terms</a></td><td id="sep3" style="padding:0px;width:1px;;background:#666666"><table border="0" cellpadding="0" cellspacing="0" style="padding:0px" width="1"><tbody><tr><td style="padding:0px;"></td></tr></tbody></table></td><td nowrap="" tabindex="4" id="el4" onmouseover="_popi(4)" style="background:#E6E6E6;padding:4px"><a ntl="1" href="http://www.eglinfcu.org/app.asp?app=1" id="lnk4" style="background:transparent;display:block;color:#000000;font-Family:Verdana, Tahoma, Arial;font-Weight:bold;font-Style:normal;font-Size:10;text-Decoration:none;">Applications</a></td><td id="sep4" style="padding:0px;width:1px;;background:#666666"><table border="0" cellpadding="0" cellspacing="0" style="padding:0px" width="1"><tbody><tr><td style="padding:0px;"></td></tr></tbody></table></td><td nowrap="" tabindex="5" id="el5" onmouseover="_popi(5)" style="background:#E6E6E6;padding:4px"><a ntl="1" href="http://www.eglinfcu.org/wn.asp?wn=13" id="lnk5" style="background:transparent;display:block;color:#000000;font-Family:Verdana, Tahoma, Arial;font-Weight:bold;font-Style:normal;font-Size:10;text-Decoration:none;">What's New</a></td></tr></tbody></table></div><div class="mmenu" onmouseout="startClose()" onmouseover="stopClose()" onselectstart="return" _f="" id="menu1" style="padding:0px;background:#E6E6E6;border:1px solid #666666;z-index:499;visibility:hidden;position:absolute;top:-_aNpx;"><a ntl="1" id="mmlink1" href="#" onclick="return clickAction(this._itemRef)" onmouseout="_mot=setTimeout('_mOUt(this._itemRef)',99)" onmouseover="return changeStatus(this._itemRef)" style="background:transparent;text-decoration:none;height:1px;width:1px;overflow:hidden;position:absolute;"></a></div><div class="mmenu" onmouseout="startClose()" onmouseover="stopClose()" onselectstart="return" _f="" id="menu2" style="padding:0px;background:#E6E6E6;border:1px solid #666666;z-index:499;visibility:hidden;position:absolute;top:-_aNpx;"><a ntl="1" id="mmlink2" href="#" onclick="return clickAction(this._itemRef)" onmouseout="_mot=setTimeout('_mOUt(this._itemRef)',99)" onmouseover="return changeStatus(this._itemRef)" style="background:transparent;text-decoration:none;height:1px;width:1px;overflow:hidden;position:absolute;"></a></div><div class="mmenu" onmouseout="startClose()" onmouseover="stopClose()" onselectstart="return" _f="" id="menu3" style="padding:0px;background:#E6E6E6;border:1px solid #666666;z-index:499;visibility:hidden;position:absolute;top:-_aNpx;"><a ntl="1" id="mmlink3" href="#" onclick="return clickAction(this._itemRef)" onmouseout="_mot=setTimeout('_mOUt(this._itemRef)',99)" onmouseover="return changeStatus(this._itemRef)" style="background:transparent;text-decoration:none;height:1px;width:1px;overflow:hidden;position:absolute;"></a></div><div class="mmenu" onmouseout="startClose()" onmouseover="stopClose()" onselectstart="return" _f="" id="menu4" style="padding:0px;background:#E6E6E6;border:1px solid #666666;z-index:499;visibility:hidden;position:absolute;top:-_aNpx;"><a ntl="1" id="mmlink4" href="#" onclick="return clickAction(this._itemRef)" onmouseout="_mot=setTimeout('_mOUt(this._itemRef)',99)" onmouseover="return changeStatus(this._itemRef)" style="background:transparent;text-decoration:none;height:1px;width:1px;overflow:hidden;position:absolute;"></a></div>	
+<!--<SCRIPT language=JavaScript src="js/menu_array.js" type=text/javascript></SCRIPT>
+<SCRIPT language=JavaScript src="js/mmenu.js" type=text/javascript></SCRIPT>-->
+
+
+<table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td height="24" bgcolor="#EEEEEE" colspan="4" class="breadcrumb" align="center"><b>Please send comments to <a href="mailto:webmaster@eglinfcu.org" class="bodLink">webmaster@eglinfcu.org.</a></b></td></tr>
+<tr><td height="1" bgcolor="#333333" colspan="4" align="center"><img src="images/spacer.gif" height="1" width="100%" alt="" border="0"></td></tr>
+<tr><td align="center" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#FFFFFF">
+	<tbody><tr>
+		<td width="15" bgcolor="#E2E4E9"><img src="/images/spacer.gif" height="100%" width="15"></td>
+		<td width="12" background="/images/main/home_bg_left.jpg"><img src="/images/spacer.gif" height="100%" width="12"></td>
+		<td align="center" valign="top" width="*">
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" height="100">	
+				<tbody><tr>
+					<td colspan="2" valign="middle" background="/images/newlogo.jpg">
+				<!--</tr>
+					<td><a href="/index1.asp"><img src="/images/logo.gif" border="0" alt></a></td>
+					
+					<td align="right">-->
+						<table border="0" cellpadding="0" cellspacing="0">
+							<tbody><tr>
+								<td rowspan="2" width="100%" height="80" align="left"><a href="/index.asp" border="0"><img src="/images/spacer.gif" width="100%" height="80" border="0" alt=""></a></td>
+								<td valign="top" align="right">
+									<table border="1" cellpadding="3" cellspacing="0" width="195" bgcolor="#EEEEEE">
+										<tbody><tr><td class="breadcrumb" align="center"><a href="/index.asp" class="breadcrumb">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/links.asp?link=2" class="breadcrumb">Sitemap</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/links.asp?link=3" class="breadcrumb">FAQs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/links.asp?link=4" class="breadcrumb">Links</a><br><!--<br><br><a href="/cu.asp?cu=9" class="bodLink"><u>Membership Requirements</u></a>--></td></tr>
+									</tbody></table>
+								</td>
+								<td width="30">&nbsp;</td>
+							</tr>
+							<tr valign="bottom">
+								<td align="right"><a href="https://www.eglinfcu.org/hbhtml/hb.asp?hb=1" border="0"><img src="/images/main/house.gif" border="0" alt="HomeBranch"></a></td>
+								<!--<td align="center" valign="bottom" nowrap><a href="/hb.asp?hb=1" class="tableTitle"><i><b>HomeBranch</b></i></a><a href="/hb.asp?hb=1" class="breadcrumb"><b><br>Online Banking<br>& Bill Payer</b><br></td>
+								<td align="left" valign="middle"><br><img src="/images/main/logInArrow.gif" border="0" alt></td>
+								-->
+								<td width="30">&nbsp;</td>
+							</tr>
+						</tbody></table>
+					</td>
+					<!--	
+						<td><a href="/hb.asp?hb=1"><img src="/images/main/homeBranchArrow.gif" alt border="0"></a>
+						</td>
+					</td>-->				
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>			
+<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#FFFFFF">
+	<tbody><tr>
+		<td width="15" bgcolor="#E2E4E9"><img src="/images/spacer.gif" height="100%" width="15"></td>
+		<td width="12" background="/images/main/home_bg_left.jpg"><img src="/images/spacer.gif" height="100%" width="12"></td>
+		<td align="center" valign="top" width="*">
+			<table width="100%" border="0" cellpadding="0" cellspacing="0">					
+				<!--<tr>
+					<td rowspan="3" bgcolor="#FFFFFF" width="228">&nbsp;</td>
+					<td align="left"><img src="/images/spacer.gif" height="1" width="100%" border="0" alt></td>
+				</tr>-->
+				<tbody><tr>
+					<td width="160" align="left" background="images/main/blueBG.gif"><img src="/images/spacer.gif" width="160" height="1" border="0" alt=""></td>
+					<td align="left" height="23" background="/images/main/navBG.gif" width="100%"><img src="/images/spacer.gif" width="100%" height="23" alt="" border="0"></td></tr>
+				
+				<!--<tr><td align="left" bgcolor="#FFFFFF"><img src="/images/spacer.gif" height="1" width="100%" border="0" alt></td></tr>-->
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#EEEEEE">	
+				<tbody><tr>
+					<td width="160" align="left" background="images/main/blueBG.gif"><img src="/images/spacer.gif" width="160" height="1" border="0" alt=""></td>
+					<td width="1" align="left" bgcolor="#666666"><img src="/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+					<td width="5" align="left"><img src="/images/spacer.gif" width="5" height="1" border="0" alt=""></td>
+					<td align="left" width="100%"><table width="*" cellpadding="0" cellspacing="0" height="20">
+	<tbody><tr>
+		<td valign="middle" align="left" height="20" class="breadCrumb" nowrap="">
+
+		</td>
+	</tr>
+</tbody></table>
+
+   	  </td>
+					<!--<td align="right" nowrap><span class="breadcrumb"><b>Wednesday, April 07, 2004</b>&nbsp;&nbsp;&nbsp;</span></td>-->
+				</tr>
+				<tr>
+					<td width="160" align="left" background="images/main/blueBG.gif"><img src="/images/spacer.gif" width="160" height="1" border="0" alt=""></td>
+					<td width="1" align="left" bgcolor="#666666"><img src="/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+					<td colspan="2" width="100%" height="1" bgcolor="#666666" align="right"><img src="/images/spacer.gif" width="100%" height="1" border="0" alt=""></td>
+				</tr>	
+			</tbody></table>
+			<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#FFFFFF">
+				<tbody><tr>
+					<td valign="top" align="left" height="100%" width="160">
+<table border="0" cellpadding="0" cellspacing="0" height="100%" bgcolor="#C4C5D7" width="160">
+	<tbody><tr valign="top">
+		<td valign="top" align="left" height="100%">
+			<table cellpadding="3" cellspacing="1" border="0" width="160" bgcolor="#FFFFFF" height="100%">
+
+<!------ BEGIN PRODUCTS/SERVICES NAVIGATION ------>
+
+<!------ END PRODUCTS/SERVICES NAVIGATION ------>
+
+<!------ BEGIN RATES & TERMS NAVIGATION ------>
+
+<!------ END RATES & TERMS NAVIGATION ------>
+
+<!------ BEGIN APPLICATIONS NAVIGATION ------>
+
+<!------ END APPLICATIONS NAVIGATION ------>
+
+<!------ BEGIN ABOUT EFCU NAVIGATION ------>
+
+<!------ END ABOUT EFCU NAVIGATION ------>
+
+<!------ BEGIN ADDITIONAL LINKS NAVIGATION ------>
+
+<!------ END ADDITIONAL LINKS NAVIGATION ------>
+
+<!------ BEGIN HOME BRANCH NAVIGATION ------>	
+
+<!------ END HOME BRANCH NAVIGATION ------>	
+	
+<!------ BEGIN BROCHURES NAVIGATION ------>	
+
+<!------ END BROCHURES NAVIGATION ------>
+
+<!------ BEGIN DISCLOSURES NAVIGATION ------>	
+
+  	<tbody><tr bgcolor="#C4C5D7"><td height="15" class="linkcell" onclick="JavaScript:window.location.assign('disclosures.asp?dis=14&amp;nav=1');"><a href="/disclosures.asp?dis=14&amp;nav=1" class="leftNavSm"><b>Privacy Statement</b></a></td></tr>
+	<tr bgcolor="#C4C5D7"><td height="15" class="linkcell" onclick="JavaScript:window.location.assign('disclosures.asp?dis=15&amp;nav=1');"><a href="/disclosures.asp?dis=15&amp;nav=1" class="leftNavSm"><b>Security Information</b></a></td></tr>
+	<tr bgcolor="#C4C5D7"><td height="15" class="linkcell" onclick="JavaScript:window.location.assign('disclosures.asp?dis=1&amp;nav=1');"><a href="/disclosures.asp?dis=1&amp;nav=1" class="leftNavSm"><b>Online Access</b></a></td></tr>	
+	<tr bgcolor="#C4C5D7"><td height="15" class="linkcell" onclick="JavaScript:window.location.assign('disclosures.asp?dis=1.1&amp;nav=2');"><a href="/disclosures.asp?dis=1.1&amp;nav=2" class="leftNavSm"><b>Other Disclosure Info</b></a></td></tr>	
+	
+<!------ END BROCHURES NAVIGATION ------>
+<!------ BEGIN ALWAYS PRESENT EFCU CONTACT INFORMATION ------>
+	<tr>
+		<td valign="bottom" align="center" width="160" bgcolor="#C4C5D7">
+			<table border="0" cellpadding="3" cellspacing="0">
+				<tbody><tr bgcolor="#C4C5D7"><td class="breadcrumb">Eglin Federal Credit Union<br>838 Eglin Parkway NE<br>Fort Walton Beach, FL<br>32547-3935<br></td></tr>
+				<tr bgcolor="#C4C5D7"><td class="breadcrumb"><b>Main Switchboard</b><br>(850) 862-0111<br>1-800-367-6159</td></tr>
+				<tr bgcolor="#C4C5D7"><td class="breadcrumb"><a href="cu.asp?cu=9" class="breadcrumb"><u>Membership Requirements</u></a><br></td></tr>
+			</tbody></table>
+		</td>
+	</tr>
+<!------ END ALWAYS PRESENT EFCU CONTACT INFORMATION ------>
+</tbody></table>
+
+</td>
+<td width="1" bgcolor="#666666" align="left"><img src="/images/spacer.gif" width="1" height="100%" alt="" border="0"></td>
+</tr>
+</tbody></table>
+</td>
+					<td valign="top" align="left">
+					<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#FFFFFF">
+						
+						<tbody><tr><td valign="top" align="left" width="100%" bgcolor="#E2E4E9">
+<table width="100%" cellpadding="0" cellspacing="0" height="35" bgcolor="#E2E4E9">
+	<tbody><tr>
+		<td valign="middle" width="5" align="left"><img src="images/spacer.gif" width="5" border="0" alt=""></td>
+		<!--<td valign="middle" align="left" background="images/pageTitleBG.gif"><img src="images/pageTitleEnd.gif" border="0" alt></td>-->
+		<td valign="middle" height="35" align="left" class="pageTitle" nowrap="">		
+
+	Disclosures
+	
+		</td>
+		<!--
+		<td valign="middle" align="left" background="images/pageTitleBG.gif" width="100%"><img src="images/spacer.gif" border="0" width="100%" height="35" alt></td>
+		<td valign="middle" align="right" background="images/pageTitleBG.gif"><img src="images/pageTitleEnd.gif" border="0" alt></td>
+		
+		<td>
+			<form action="print=1">
+			<input type="hidden" value="" name="cu">
+			<input type="hidden" value="" name="ps">
+			<input type="hidden" value="" name="rt">
+			<input type="hidden" value="" name="app">
+			<input type="hidden" value="" name="link">
+			<input type="hidden" value="" name="wn">
+			<input type="submit" value="Print">
+			</form>
+			<a href="?cu=&ps=&rt=&app=&link=wn=&print=1" target="_new">Print Page</a>
+			</td>-->
+		<td valign="middle" width="5" align="left" bgcolor="#E2E4E9"><img src="images/spacer.gif" width="5" border="0" alt=""></td>
+	</tr>
+</tbody></table>
+</td></tr>
+						<tr><td valign="top" align="left" bgcolor="#666666"><img src="/images/spacer.gif" height="1" width="100%" border="0" alt=""></td></tr>
+						
+						<tr>
+							<td valign="top" width="*" align="left" colspan="2">
+								<br>
+								<table border="0" cellspacing="0" cellpadding="0" width="100%" height="100%">
+									<tbody><tr>
+										
+										<td width="20"><img src="/images/spacer.gif" width="20" alt="" border="0"></td>
+										
+										<td valign="top" align="left" width="100%">
+								
+										
+										
+
+<span class="bodyHeader">Eglin Federal Credit Union's Commitment to Your Privacy</span>
 <br><br>
 We are committed to providing services and products to meet the financial needs and goals of our membership.  Gathering information is fundamental to our ability to do this. Protecting your personal information and using it in a trustworthy manner is a high priority for everyone associated with Eglin Federal Credit Union.
 <br><br>
 As a member you also have a responsibility to safeguard your financial information.  You should protect your personal identification and any access device we provide per your request; immediately report the compromise, loss or theft of those items; and you should carefully review the account statements we send you and report any unauthorized transactions.
 <br><br>
 We are committed to taking reasonable steps to protect the privacy of our members in all areas of our operations. So that you can rely upon the quality of products and services we make available, we stand behind the following privacy policy:
-<br><br>
 <ul>
-<li>	EFCU obeys the letter and spirit of the laws that apply to Credit Union member account information and privacy. 
+EFCU obeys the letter and spirit of the laws that apply to Credit Union member account information and privacy. 
 <br><br>
-</li><li>	We collect and use information only for legitimate business purposes. We collect nonpublic information about you from some or all of the following sources: information we receive from you on applications; information about your transactions with us; and information we receive from a consumer reporting agency.
+We will collect and use information only for legitimate business purposes. We will maintain strong security controls to protect the information in our files and computers.
 <br><br>
-</li><li>	We maintain physical, electronic and procedural safeguards that comply with Federal regulations to protect the information in our files and computers.
+We will allow only employees actively engaged in their assigned duties to have access to your information. Employees are governed by a code of conduct that includes the responsibility to maintain the confidentiality of each member's personal information. 
 <br><br>
-</li><li>	We allow only employees actively engaged in their assigned duties to have access to your information. Employees are governed by a code of conduct that includes the responsibility to maintain the confidentiality of each member's personal information. 
+We will comply with requests to provide information when legally required to do so; upon receipt of your written authorization; for credit reporting; and to prevent fraud. 
 <br><br>
-</li><li>	We comply with requests to provide information when legally required or permitted to do so; upon receipt of your written authorization; for credit reporting; and to prevent fraud. 
+We may share member information with companies that assist us in providing services such as ATM, debit and credit cards; checking accounts; bill paying service; insurance; statement mailing; etc. These business partners will be given only the information they need in order to provide the service.  As part of their contract with us they must agree to protect our members' information by meeting our confidentiality requirements. We will disclose the identity of any third-party contractor upon request.
 <br><br>
-</li><li>	We may share member information with companies that assist us in providing services such as ATM, debit and credit cards; checking accounts; bill paying service; insurance; investments; statement mailing; etc. These business partners will be given only the information they need in order to provide the service.  As part of their contract with us they must agree to protect our members' information by meeting our confidentiality requirements. We disclose the identity of any third-party contractor upon request.
+Any member who does not want to receive information from our business partners who offer products designed to enhance their financial well-being (such as insurance), may <a class="bodLink" href="contact.asp">call or write</a> us requesting that they be excluded from any future offerings.
 <br><br>
-</li><li>	We do not disclose information about former members except as permitted by law.
+</ul>
+This statement updates and replaces any other notices about our privacy policy.
 <br><br>
-</li><li>	Any member who does not want to receive information from our business partners who offer products designed to enhance their financial well-being (such as insurance or investments), may <a href="contact.asp">call or write</a> us requesting that they be excluded from any future offerings.
-</li></ul>
-This statement updates and replaces any other notices about our privacy policy. 
-<br><br>            
-838 Eglin Pkwy NE<br>
-Ft. Walton Beach, FL  32547-3935
+If you have any questions about our commitment to your privacy, please contact our <a class="bodLink" href="mailto:securityandcompliance@eglinfcu.org">security and compliance officer</a>.
 <br><br>
-<a href="http://www.eglinfcu.org">www.eglinfcu.org</a>
-<br><br>
-850-862-0111<br>
-1-800-367-6159<br>
-Member Services Ext. 402 
+<center><a href="disclosures.asp?dis=1.1&amp;nav=2" class="bodLink">Back</a></center><br>
 
 
-<p>
-</p><center><a href="javascript:history.back()">Back</a></center><br>
-</font></td>
-</tr>
-</tbody></table>
-</center>
+<br><br>
+
+																	</td>
+																	<td width="20"><img src="/images/spacer.gif" width="20" alt="" border="0"></td>
+																</tr>
+																<tr><td colspan="3" height="1" bgcolor="#666666"><img src="images/spacer.gif" height="1" width="100%" border="0" alt=""></td></tr>
+																<tr>
+																	<td colspan="3" bgcolor="#E2E4E7" valign="bottom">
+																		<table border="0" cellpadding="0" cellspacing="0" bgcolor="#E2E4E7">
+																		<tbody><tr><td colspan="6" height="5"><img src="images/spacer.gif" height="1" width="100%" border="0" alt=""></td></tr>
+																		<tr>	
+																			<td width="5"><img src="images/spacer.gif" width="5" alt="" border="0"></td>
+																			<td valign="top" align="right" class="leftNavSmOn"><b>About EFCU</b></td>
+																			<td width="5"><img src="images/spacer.gif" width="5" alt="" border="0"></td>
+																			<td width="1" bgcolor="#666666"><img src="images/spacer.gif" width="1" alt="" border="0"></td>
+																			<td width="5"><img src="images/spacer.gif" width="5" alt="" border="0"></td>
+																			<td class="breadcrumb">
+																			<a href="/cu.asp?cu=9&amp;sec=1" class="breadcrumb">Membership</a>&nbsp;-&nbsp;
+																			<a href="/cu.asp?cu=1" class="breadcrumb">Our CU/Financials</a>&nbsp;-&nbsp;
+																			<a href="/cu.asp?cu=3" class="breadcrumb">Locations/Hours</a>&nbsp;-&nbsp;
+																			<a href="/cu.asp?cu=8" class="breadcrumb">ATMs</a>&nbsp;-&nbsp;
+																			<a href="/cu.asp?cu=31" class="breadcrumb">Contact Us</a>&nbsp;-&nbsp;
+																			<a href="/cu.asp?cu=4&amp;off=1&amp;id=1" class="breadcrumb">Officials</a>&nbsp;-&nbsp;
+																			<a href="/cu.asp?cu=5&amp;emp=1" class="breadcrumb">Staff</a>&nbsp;-&nbsp;
+																			<a href="/cu.asp?cu=6" class="breadcrumb">Careers</a>&nbsp;-&nbsp;
+																			<a href="/cu.asp?cu=7" class="breadcrumb">Holidays</a></td>
+																		</tr>
+																		<tr><td colspan="6" height="5"><img src="images/spacer.gif" height="1" width="100%" border="0" alt=""></td></tr>
+																		<tr><td colspan="6" height="1" bgcolor="#FFFFFF"><img src="images/spacer.gif" height="1" width="100%" border="0" alt=""></td></tr>
+																		<tr><td colspan="6" height="5"><img src="images/spacer.gif" height="1" width="100%" border="0" alt=""></td></tr>
+																		<tr>	
+																			<td width="5"><img src="images/spacer.gif" width="5" alt="" border="0"></td>
+																			<td valign="top" align="right" class="leftNavSmOn"><b>Products/Services</b></td>
+																			<td width="5"><img src="images/spacer.gif" width="5" alt="" border="0"></td>
+																			<td width="1" bgcolor="#666666"><img src="images/spacer.gif" width="1" alt="" border="0"></td>
+																			<td width="5"><img src="images/spacer.gif" width="5" alt="" border="0"></td>
+																			<td class="breadcrumb">
+																			<a href="/ps.asp?ps=1" class="breadcrumb">Loans</a>&nbsp;-&nbsp;
+																			<a href="/ps.asp?ps=4" class="breadcrumb">Checking/Savings</a>&nbsp;-&nbsp;
+																			<a href="/ps.asp?ps=9" class="breadcrumb">Electronic</a>&nbsp;-&nbsp;
+																			<a href="/ps.asp?ps=10" class="breadcrumb">Account</a>&nbsp;-&nbsp;
+																			<a href="/ps.asp?ps=13" class="breadcrumb">Fees</a>&nbsp;-&nbsp;
+																			<a href="/ps.asp?ps=14" class="breadcrumb">Insurance</a>&nbsp;-&nbsp;
+																			<a href="/ps.asp?ps=17&amp;mem=1" class="breadcrumb">Member Services</a></td>
+																		</tr>
+																		<tr><td colspan="6" height="5"><img src="images/spacer.gif" height="1" width="100%" border="0" alt=""></td></tr>
+																		<tr><td colspan="6" height="1" bgcolor="#FFFFFF"><img src="images/spacer.gif" height="1" width="100%" border="0" alt=""></td></tr>
+																		<tr><td colspan="6" height="5"><img src="images/spacer.gif" height="1" width="100%" border="0" alt=""></td></tr>
+																		<tr>	
+																			<td width="5"><img src="images/spacer.gif" width="5" alt="" border="0"></td>
+																			<td valign="top" align="right" class="leftNavSmOn"><b>Rates &amp; Terms</b></td>
+																			<td width="5"><img src="images/spacer.gif" width="5" alt="" border="0"></td>
+																			<td width="1" bgcolor="#666666"><img src="images/spacer.gif" width="1" alt="" border="0"></td>
+																			<td width="5"><img src="images/spacer.gif" width="5" alt="" border="0"></td>
+																			<td class="breadcrumb">
+																			<a href="/rt.asp?rt=1" class="breadcrumb">Savings</a>&nbsp;-&nbsp;
+																			<a href="/rt.asp?rt=3&amp;autoID=1" class="breadcrumb">Consumer</a>&nbsp;-&nbsp;
+																			<a href="/rt.asp?rt=13&amp;estate=1" class="breadcrumb">Real Estate</a>&nbsp;-&nbsp;
+																			<a href="/calcHome.asp?rt=19" class="breadcrumb">Calculators/Estimators</a></td>
+																		</tr>
+																		<tr><td colspan="6" height="5"><img src="images/spacer.gif" height="1" width="100%" border="0" alt=""></td></tr>
+																		<tr><td colspan="6" height="1" bgcolor="#FFFFFF"><img src="images/spacer.gif" height="1" width="100%" border="0" alt=""></td></tr>
+																		<tr><td colspan="6" height="5"><img src="images/spacer.gif" height="1" width="100%" border="0" alt=""></td></tr>
+																		<tr>	
+																			<td width="5"><img src="images/spacer.gif" width="5" alt="" border="0"></td>
+																			<td valign="top" align="right" class="leftNavSmOn"><b>Miscellaneous</b></td>
+																			<td width="5"><img src="images/spacer.gif" width="5" alt="" border="0"></td>
+																			<td width="1" bgcolor="#666666"><img src="images/spacer.gif" width="1" alt="" border="0"></td>
+																			<td width="5"><img src="images/spacer.gif" width="5" alt="" border="0"></td>
+																			<td class="breadcrumb">
+																			<a href="/index.asp" class="breadcrumb">Home</a>&nbsp;-&nbsp;
+																			<a href="https://www.eglinfcu.org/hbhtml/hb.asp?hb=1" class="breadcrumb">Online Banking</a>&nbsp;-&nbsp;
+																			<a href="/app.asp?app=1" class="breadcrumb">Applications</a>&nbsp;-&nbsp;
+																			<a href="/wn.asp?wn=1" class="breadcrumb">What's New</a>&nbsp;-&nbsp;
+																			<a href="/links.asp?link=4" class="breadcrumb">Links</a>&nbsp;-&nbsp;
+																			<a href="/links.asp?link=3" class="breadcrumb">FAQs</a>&nbsp;-&nbsp;
+																			<a href="/links.asp?link=2" class="breadcrumb">Site Map</a>&nbsp;-&nbsp;
+																			<a href="/links.asp?link=8" class="breadcrumb">Browser Support</a>&nbsp;-&nbsp;
+																			<a href="/index.html" class="breadcrumb">Old Site</a></td>
+																		</tr>
+																		<tr><td colspan="6" height="5"><img src="images/spacer.gif" height="1" width="100%" border="0" alt=""></td></tr>
+																		</tbody></table>
+																	</td>
+																</tr>																
+															</tbody></table>
+														</td>
+													</tr>
+												</tbody></table>
+											</td>
+										</tr>
+									</tbody></table>
+								</td>
+							</tr>
+						</tbody></table>
+						<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#D7D7D7">
+							<tbody><tr>
+								<td width="15" rowspan="30" bgcolor="#E2E4E9"><img src="/images/spacer.gif" height="100%" width="15"></td>
+								<td width="12" rowspan="30" background="/images/main/home_bg_left.jpg"><img src="/images/spacer.gif" height="100%" width="12"></td>
+							</tr>
+							<tr>
+								<td colspan="3" width="100%" height="1" bgcolor="#666666"><img src="/images/spacer.gif" width="100%" height="1" border="0" alt=""></td></tr>
+							<tr><td colspan="3" align="left" bgcolor="#FFFFFF"><img src="/images/spacer.gif" height="1" width="100%" border="0" alt=""></td></tr>				
+							<!--
+							<tr>
+								<td colspan="3" align="center" valign="middle"  class="breadcrumb" bgcolor="#D7D7D7"><br><a href="/index1.asp" class="breadcrumb">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/hb.asp?hb=1" class="breadcrumb">Online Banking</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/ps.asp?ps=1.1"  class="breadcrumb">Products/Services</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/rt.asp?rt=1.1"  class="breadcrumb">Rates &amp; Terms</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/loanApp.asp?app=1"  class="breadcrumb">Applications</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/cu.asp?cu=1"  class="breadcrumb">About EFCU</a><br><br><a href="//links.asp?link=1"  class="breadcrumb">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/links.asp?link=2"  class="breadcrumb">Sitemap</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/links.asp?link=3"  class="breadcrumb">FAQs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/links.asp?link=4"  class="breadcrumb">Links</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/links.asp?link=8"  class="breadcrumb">Browser Support</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/cu.asp?cu=9"  class="breadcrumb">Membership</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/#" onclick="javascript:launchwin('trainingExample.asp','training','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=550,height=450'); return false;"  class="breadcrumb">Training Test</a><br><br></td>
+							</tr>
+							-->
+							<tr>
+								<td colspan="3" align="center" valign="middle" bgcolor="#D7D7D7" class="breadcrumb">Links to other sites are provided as a convenience to our vistors.<br>The Credit Union is not responsible for the availability, content, or privacy practices of any linked site.</td>
+							</tr>
+							<tr><td colspan="3" align="left" bgcolor="#FFFFFF"><img src="/images/spacer.gif" height="1" width="100%" border="0" alt=""></td></tr>				
+							<tr><td colspan="3" align="left" bgcolor="#666666"><img src="/images/spacer.gif" height="1" width="100%" border="0" alt=""></td></tr>
+							<tr bgcolor="#FFFFFF" height="70">
+								<td align="left" valign="middle">&nbsp;&nbsp;<img src="/images/Equal1.gif" border="0" alt=" Equal Housing Lender"></td>
+								<td align="center" valign="middle" width="*" class="breadcrumb"><a href="/disclosures.asp?dis=14&amp;nav=1" class="bodLink"><b><u>Privacy Statement</u></b></a> / <a href="/disclosures.asp?dis=15&amp;nav=1" class="bodLink"><b><u>Security Information</u></b></a> / <a href="/disclosures.asp?dis=1&amp;nav=1" class="bodLink"><b><u>Online Disclosure</u></b></a><br>Copyright © 1998-2004 Eglin Federal Credit Union.</td>
+								<td align="center" valign="middle"><img src="/images/Equal2.gif" border="0" alt="Your Savings Federally Insured to $100,000 by NCUA, A U.S. Government Agency"></td>
+							</tr>
+						</tbody></table>
+					</td>
+					<td width="12" background="/images/main/home_bg_right.jpg" valign="bottom"><img src="/images/spacer.gif" height="100%" width="12"></td>
+					<td width="3%" bgcolor="#E2E4E9" valign="bottom"><img src="/images/spacer.gif" height="100%"></td>
+				</tr>
+			</tbody></table>
+		
+	
 
 
-</body></html>
+
+
+<!--
+					<td bgcolor="#000033" height="100%" width="1"><img src="/images/spacer.gif" width="1" height="100%" border="0" alt></td>
+					<td width="160" height="100%" valign="top" align="left" bgcolor="#000033">
+						<table border="0" cellpadding="3" cellspacing="0" width="100%">
+							<tr><td class="leftNavSm" align="left"><b>Personal Banking:</b></td></tr>
+							<tr><td class="normalInput" align="left">
+								<select class="normalInput">
+									<option>Home Branch</option>
+									<option>Bill Payer</option>
+									<option>EZCard</option>
+									<option></option>							
+								</select>
+							</td></tr>
+						</table>
+						<hr size="1" width="100%" color="#666666">
+						<table border="0" cellpadding="3" cellspacing="0">
+							<tr><td class="leftNavSm" align="left"><b>Investment Services:</b></td></tr>
+							<tr><td class="normalInput" align="left">
+								
+								<select class="normalInput" id=select1 name=select1>
+									<option value="mutualFund.asp">Members Mutual Funds</option>
+									<option value="iraLimit.asp">IRA Contributions</option>
+									<option value="wealthInfo.asp">Professional Consultation</option>
+									<option value="mortgageProtection.asp">Mortgage Protection</option>
+									<option></option>							
+								</select>
+							</td></tr>
+						</table>						
+						<hr size="1" width="100%" color="#666666">
+						<table border="0" cellpadding="3" cellspacing="0">
+							<tr><td class="leftNavSm" align="left"><b>Quick List:</b></td></tr>
+							<tr><td class="normalInput" align="left">
+								<select class="normalInput" id=select1 name=select1>
+									<option>Auto Rates</option>
+									<option>Mortgage Rates</option>
+									<option>Member Services</option>
+									<option>Consumer Loan</option>
+									<option></option>							
+								</select>
+							</td></tr>
+						</table>
+						<hr size="1" width="100%" color="#666666">
+						<table border="0" cellpadding="3" cellspacing="0">
+							<tr><td class="leftNavSm" align="left"><b>What's New:</b></td></tr>
+							<tr><td class="normalInput" align="left">
+								<select class="normalInput" id=select1 name=select1>
+									<option>Annual Meeting</option>
+									<option>IRA Changes</option>
+									<option>Promotions</option>
+									<option>Free Checking</option>
+									<option>Student Loans</option>
+									<option></option>							
+								</select>
+							</td></tr>
+						</table>
+					</td>
+					<td bgcolor="#000033" height="100%" width="1"><img src="/images/spacer.gif" width="1" height="100%" border="0" alt></td>
+					--></body></html>
