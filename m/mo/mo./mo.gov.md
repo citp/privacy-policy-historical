@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mo.gov privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628072341id_/http%3A//www.missouri.gov/mo/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mo.gov privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002031902id_/http%3A//www.missouri.gov/mo/privacy.htm) for the most accurate reproduction.*
 
 # Missouri State Government Home Page
 
