@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ioldating.co.za privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605113207id_/http%3A//iol.datingbuzz.com/s/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ioldating.co.za privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211004250id_/http%3A//iol.datingbuzz.com/s/help/privacy.php) for the most accurate reproduction.*
 
 # IOL Dating - Privacy Policy
 
