@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promopeddler.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610042842id_/http%3A//www.promopeddler.com/Advertising/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promopeddler.com privacy policy that was archived on 2004-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040725084239id_/http%3A//www.promopeddler.com/Advertising/Privacy.htm) for the most accurate reproduction.*
 
 # TITLE HERE
 
@@ -40,6 +40,4 @@
 |  Search by  
 Product Number  
 -  
----  
-  
-Copyright © 2003 Promopeddler.com Promotional Products All Rights Reserved.
+---
