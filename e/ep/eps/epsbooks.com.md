@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epsbooks.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209085549id_/http%3A//epsbooks.com/dynamic/customer_service/privacy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epsbooks.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606042003id_/http%3A//www.epsbooks.com/dynamic/customer_service/privacy/index.asp) for the most accurate reproduction.*
 
 # Customer Service » Privacy Policy
 
