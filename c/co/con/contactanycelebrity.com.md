@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the contactanycelebrity.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208160535id_/http%3A//contactanycelebrity.com/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contactanycelebrity.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604210540id_/http%3A//www.contactanycelebrity.com/privacy/index.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Celebrity Addresses Online
 
-This is the web site of Contact Any Celebrity at http://contactanycelebrity.com.
+This is the web site of Contact Any Celebrity at [http://contactanycelebrity.com](http://contactanycelebrity.com/).
 
 Our postal address is:
 
@@ -10,7 +10,7 @@ Contact Any Celebrity
 8721 Santa Monica Boulevard, #431  
 Los Angeles, CA 90069-4507
 
-You may [contact us](https://web.archive.org/web/20031208160535id_/http%3A//contactanycelebrity.com/contact/index.htm) or you call us 24x7 toll-free at (888) 267-0204 or (310) 228-3654.
+You may [contact us](https://web.archive.org/web/20040604210540id_/http%3A//www.contactanycelebrity.com/contact/index.htm) or you call us 24x7 toll-free at (866) 4-A-CELEB or (310) 228-3654.
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
@@ -48,6 +48,6 @@ With respect to security: We always use industry-standard encryption technologie
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, state or local chapters of the Better Business Bureau, state or local consumer protection office, or The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at [ http://www.ftc.gov/ftc/complaint.htm](http://www.ftc.gov/ftc/complaint.htm).
 
-**[Click](https://web.archive.org/web/20031208160535id_/http%3A//contactanycelebrity.com/join/index.htm)**[ ** here now to subscribe!**](https://web.archive.org/web/20031208160535id_/http%3A//contactanycelebrity.com/join/index.htm)
+**[Click](https://web.archive.org/web/20040604210540id_/http%3A//www.contactanycelebrity.com/join/index.htm)**[ ** here now to subscribe!**](https://web.archive.org/web/20040604210540id_/http%3A//www.contactanycelebrity.com/join/index.htm)
 
-[Main Page](https://web.archive.org/web/20031208160535id_/http%3A//contactanycelebrity.com/index.htm)
+[Main Page](https://web.archive.org/web/20040604210540id_/http%3A//www.contactanycelebrity.com/index.htm)
