@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abesofmaine.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205010545id_/http%3A//www.abesofmaine.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abesofmaine.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604160637id_/http%3A//www.abesofmaine.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # About Us - abesofmaine.com Cameras and Electronics
 
