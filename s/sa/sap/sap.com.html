@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sap.com privacy policy that was archived on 2001-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011218002301id_/http%3A//sap.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sap.com privacy policy that was archived on 2002-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020604033027id_/http%3A//sap.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <title>SAP - SAP Privacy Statement</title>
@@ -8,6 +8,7 @@
 <link rel="STYLESHEET" type="text/css" href="/global/sapstyle.css">
 <link rel="Bookmark" href="/favicon.ico">
 <link rel="SHORTCUT ICON" href="/favicon.ico">
+<script language="JavaScript1.2" src="/global/client_functions.js" type="text/javascript"></script>
 
 <script language="JavaScript1.2" type="text/javascript">
 <!--
@@ -203,7 +204,7 @@ This site contains links to other sites.  SAP is not responsible for the privacy
   at the point on our site where we request information from you.</p>
 
       <p><b>Unsubscribe to SAP E-Business Flash</b><br>
-If you no longer wish to receive our free newsletter SAP E-Business Flash, you can cancel your subscription to the newsletter at any time. Simply visit the sap.com <a href="javascript:OpenSite640('/mk/get/pfau');">Profile Center</a>.</p>
+If you no longer wish to receive our free newsletter SAP E-Business Flash, you can cancel your subscription to the newsletter at any time. Simply visit the sap.com <a href="javascript:OpenSite640('/mk/get/g-pcentry');">Profile Center</a>.</p>
 
 <p><b>Remove From Registration Database</b><br>
   If you wish to be removed from the SAP web registration database, please e-mail 
@@ -247,8 +248,8 @@ Germany<br>
 			<img src="/global/images/spacer.gif" height="1" width="7" align="LEFT"><img src="/global/images/right_arrow_white.gif" width="16" height="12" alt="See below...">
 
 			<p class="navigation"><img src="/global/images/spacer.gif" height="1" width="13" align="LEFT"><a href="/solutions/" class="navigation" onmouseover="window.status = unescape('Solutions%20Home'); return true;">Solutions Home</a><br>
-<img src="/global/images/spacer.gif" height="1" width="13" align="LEFT"><a href="/solutionmaps/" class="navigation" onmouseover="window.status = unescape('Solution%20Maps'); return true;">Solution Maps</a><br>
-<img src="/global/images/spacer.gif" height="1" width="13" align="LEFT"><a href="/c-business/" class="navigation" onmouseover="window.status = unescape('Collaborative%20Business%20Maps'); return true;">Collaborative Business Maps</a><br>
+<img src="/global/images/spacer.gif" height="1" width="13" align="LEFT"><a href="/solutions/businessmaps/" class="navigation" onmouseover="window.status = unescape('Business%20Maps'); return true;">Business Maps</a><br>
+<img src="/global/images/spacer.gif" height="1" width="13" align="LEFT"><a href="/solutions/calculators.asp" class="navigation" onmouseover="window.status = unescape('SAP%20Value%20Calculators'); return true;">SAP Value Calculators</a><br>
 <img src="/global/images/spacer.gif" height="1" width="13" align="LEFT"><a href="/ides/" class="navigation" onmouseover="window.status = unescape('Internet%20Demo%20and%20Evaluation%20System'); return true;">Internet Demo and Evaluation System</a><br>
 </p>
 			</td>
@@ -285,11 +286,25 @@ Germany<br>
 		<a href="javascript:PrintView()" class="icon-link" onmouseover="window.status='Display a version of this page optimized for printing.'; return true;">Print View<img src="/global/images/icon_go_green.gif" width="17" height="17" align="absmiddle" hspace="6" vspace="2" alt="" border="0"></a>
 		<br>
 		
+	
 			<script language="JavaScript">
 				 function CheckInviteForm(){
 				 	 var url1 =String(location.pathname);
 					 var url2 = String(location.search);
+					 var subsidurl = new Array;
+					 var ownPageSub = new Array;
+					 var form_dest = "/global/scripts/int-invite.asp";	//Default URL for Tell a Friend form
+					 // List of subsidiaries which have own Invite Friend Form page
+					 ownPageSub[0] = "community";
 					 document.invite_pre_frm.contentsURL.value=url1+url2;
+					 subsidurl = url1.split("/");
+					 for(i=0; i < ownPageSub.length; i++){
+						 if(subsidurl[1]== ownPageSub[i]){
+							form_dest = "/" + subsidurl[1] + "/invite.asp";
+							document.invite_pre_frm.subsid.value = subsidurl[1];
+						}
+   					 }
+					document.invite_pre_frm.action = form_dest;
 					document.invite_pre_frm.submit();
 					}
 				 function PrintView(){
@@ -300,7 +315,7 @@ Germany<br>
 							this.location=printURL+"&printview";
 						}
 					}					
-			</script>	
+			</script>
 		
 	</form>
 	</td>
@@ -317,9 +332,9 @@ Questions or comments about the Web site? Contact the <a href="mailto:webmaster@
 
 	<a href="/copyright.asp" class="copyright">
 	
-	© 2001 SAP AG.</a> &nbsp;
+	© 2002 SAP AG.</a> &nbsp;
 	
-	<a href="/privacy.asp" class="copyright">Privacy Statement.</a>
+	<a href="/privacy/" class="copyright">Privacy Statement.</a>
 	<img src="/global/images/spacer.gif" width="259" height="1"></p></td>
 </tr>
 </tbody></table>
@@ -327,7 +342,6 @@ Questions or comments about the Web site? Contact the <a href="mailto:webmaster@
 <!-- end content table Write_Right_Nav_HTML -->
 
 
-<script language="JavaScript1.2" src="/global/client_functions.js" type="text/javascript"></script>
 <script language="JavaScript1.2" src="/global/HM_Loader.js" type="text/javascript"></script><script language="JavaScript1.2" src="/global/hierMenus4.js" type="text/javascript"></script><div id="HM_Menu1" style="position: absolute; visibility: hidden; width: 183px; border-width: 11px; border-color: rgb(200, 227, 255); border-style: solid; z-index: 5000; overflow: hidden; cursor: default; font: 8.5pt Tahoma, Arial, Helvetica, sans-serif; height: 276px; left: 0px; top: 0px;"><div style="position: absolute; visibility: inherit; background-color: rgb(200, 227, 255); color: rgb(51, 51, 51); padding: 3px; border-bottom: 0px solid rgb(172, 174, 167); width: 177px; left: 0px; top: 0px;">Overview</div><div style="position: absolute; visibility: inherit; background-color: rgb(200, 227, 255); color: rgb(51, 51, 51); padding: 3px; border-bottom: 0px solid rgb(172, 174, 167); width: 177px; left: 0px; top: 18px;">Industry Solutions</div><div style="position: absolute; visibility: inherit; background-color: rgb(200, 227, 255); color: rgb(51, 51, 51); padding: 3px; border-bottom: 0px solid rgb(172, 174, 167); width: 177px; left: 0px; top: 36px;">mySAP Enterprise Portals</div><div style="position: absolute; visibility: inherit; background-color: rgb(200, 227, 255); color: rgb(51, 51, 51); padding: 3px; border-bottom: 0px solid rgb(172, 174, 167); width: 177px; left: 0px; top: 54px;">mySAP Supply Chain Mgmt.</div><div style="position: absolute; visibility: inherit; background-color: rgb(200, 227, 255); color: rgb(51, 51, 51); padding: 3px; border-bottom: 0px solid rgb(172, 174, 167); width: 177px; left: 0px; top: 72px;">mySAP Customer Relationship Mgmt.</div><div style="position: absolute; visibility: inherit; background-color: rgb(200, 227, 255); color: rgb(51, 51, 51); padding: 3px; border-bottom: 0px solid rgb(172, 174, 167); width: 177px; left: 0px; top: 102px;">mySAP E-Procurement</div><div style="position: absolute; visibility: inherit; background-color: rgb(200, 227, 255); color: rgb(51, 51, 51); padding: 3px; border-bottom: 0px solid rgb(172, 174, 167); width: 177px; left: 0px; top: 120px;">mySAP Product Lifecycle Mgmt.</div><div style="position: absolute; visibility: inherit; background-color: rgb(200, 227, 255); color: rgb(51, 51, 51); padding: 3px; border-bottom: 0px solid rgb(172, 174, 167); width: 177px; left: 0px; top: 138px;">mySAP Business Intelligence</div><div style="position: absolute; visibility: inherit; background-color: rgb(200, 227, 255); color: rgb(51, 51, 51); padding: 3px; border-bottom: 0px solid rgb(172, 174, 167); width: 177px; left: 0px; top: 156px;">mySAP Financials</div><div style="position: absolute; visibility: inherit; background-color: rgb(200, 227, 255); color: rgb(51, 51, 51); padding: 3px; border-bottom: 0px solid rgb(172, 174, 167); width: 177px; left: 0px; top: 174px;">mySAP Human Resources</div><div style="position: absolute; visibility: inherit; background-color: rgb(200, 227, 255); color: rgb(51, 51, 51); padding: 3px; border-bottom: 0px solid rgb(172, 174, 167); width: 177px; left: 0px; top: 192px;">mySAP Mobile Business</div><div style="position: absolute; visibility: inherit; background-color: rgb(200, 227, 255); color: rgb(51, 51, 51); padding: 3px; border-bottom: 0px solid rgb(172, 174, 167); width: 177px; left: 0px; top: 210px;">mySAP Marketplace by SAPMarkets</div><div style="position: absolute; visibility: inherit; background-color: rgb(200, 227, 255); color: rgb(51, 51, 51); padding: 3px; border-bottom: 0px solid rgb(172, 174, 167); width: 177px; left: 0px; top: 240px;">mySAP Hosted Solutions</div><div style="position: absolute; visibility: inherit; background-color: rgb(200, 227, 255); color: rgb(51, 51, 51); padding: 3px; width: 177px; left: 0px; top: 258px;">mySAP Technology</div></div><div id="HM_Menu2" style="position: absolute; visibility: hidden; width: 183px; border-width: 11px; border-color: rgb(200, 227, 255); border-style: solid; z-index: 5000; overflow: hidden; cursor: default; font: 8.5pt Tahoma, Arial, Helvetica, sans-serif; height: 126px; left: 0px; top: 0px;"><div style="position: absolute; visibility: inherit; background-color: rgb(200, 227, 255); color: rgb(51, 51, 51); padding: 3px; border-bottom: 0px solid rgb(172, 174, 167); width: 177px; left: 0px; top: 0px;">Overview</div><div style="position: absolute; visibility: inherit; background-color: rgb(200, 227, 255); color: rgb(51, 51, 51); padding: 3px; border-bottom: 0px solid rgb(172, 174, 167); width: 177px; left: 0px; top: 18px;">Business Solutions Consulting</div><div style="position: absolute; visibility: inherit; background-color: rgb(200, 227, 255); color: rgb(51, 51, 51); padding: 3px; border-bottom: 0px solid rgb(172, 174, 167); width: 177px; left: 0px; top: 36px;">Solution Operations Services</div><div style="position: absolute; visibility: inherit; background-color: rgb(200, 227, 255); color: rgb(51, 51, 51); padding: 3px; border-bottom: 0px solid rgb(172, 174, 167); width: 177px; left: 0px; top: 54px;">Support Services</div><div style="position: absolute; visibility: inherit; background-color: rgb(200, 227, 255); color: rgb(51, 51, 51); padding: 3px; border-bottom: 0px solid rgb(172, 174, 167); width: 177px; left: 0px; top: 72px;">Services Infrastructure</div><div style="position: absolute; visibility: inherit; background-color: rgb(200, 227, 255); color: rgb(51, 51, 51); padding: 3px; border-bottom: 0px solid rgb(172, 174, 167); width: 177px; left: 0px; top: 90px;">News &amp; Events</div><div style="position: absolute; visibility: inherit; background-color: rgb(200, 227, 255); color: rgb(51, 51, 51); padding: 3px; width: 177px; left: 0px; top: 108px;">Brochures &amp; White Papers</div></div><div id="HM_Menu3" style="position: absolute; visibility: hidden; width: 183px; border-width: 11px; border-color: rgb(200, 227, 255); border-style: solid; z-index: 5000; overflow: hidden; cursor: default; font: 8.5pt Tahoma, Arial, Helvetica, sans-serif; height: 72px; left: 0px; top: 0px;"><div style="position: absolute; visibility: inherit; background-color: rgb(200, 227, 255); color: rgb(51, 51, 51); padding: 3px; border-bottom: 0px solid rgb(172, 174, 167); width: 177px; left: 0px; top: 0px;">Overview</div><div style="position: absolute; visibility: inherit; background-color: rgb(200, 227, 255); color: rgb(51, 51, 51); padding: 3px; border-bottom: 0px solid rgb(172, 174, 167); width: 177px; left: 0px; top: 18px;">E-Learning</div><div style="position: absolute; visibility: inherit; background-color: rgb(200, 227, 255); color: rgb(51, 51, 51); padding: 3px; border-bottom: 0px solid rgb(172, 174, 167); width: 177px; left: 0px; top: 36px;">Standard Classroom Training</div><div style="position: absolute; visibility: inherit; background-color: rgb(200, 227, 255); color: rgb(51, 51, 51); padding: 3px; width: 177px; left: 0px; top: 54px;">SAP Help Portal</div></div><div id="HM_Menu4" style="position: absolute; visibility: hidden; width: 183px; border-width: 11px; border-color: rgb(200, 227, 255); border-style: solid; z-index: 5000; overflow: hidden; cursor: default; font: 8.5pt Tahoma, Arial, Helvetica, sans-serif; height: 108px; left: 0px; top: 0px;"><div style="position: absolute; visibility: inherit; background-color: rgb(200, 227, 255); color: rgb(51, 51, 51); padding: 3px; border-bottom: 0px solid rgb(172, 174, 167); width: 177px; left: 0px; top: 0px;">Overview</div><div style="position: absolute; visibility: inherit; background-color: rgb(200, 227, 255); color: rgb(51, 51, 51); padding: 3px; border-bottom: 0px solid rgb(172, 174, 167); width: 177px; left: 0px; top: 18px;">How to Partner with SAP</div><div style="position: absolute; visibility: inherit; background-color: rgb(200, 227, 255); color: rgb(51, 51, 51); padding: 3px; border-bottom: 0px solid rgb(172, 174, 167); width: 177px; left: 0px; top: 36px;">Apply for Partnership</div><div style="position: absolute; visibility: inherit; background-color: rgb(200, 227, 255); color: rgb(51, 51, 51); padding: 3px; border-bottom: 0px solid rgb(172, 174, 167); width: 177px; left: 0px; top: 54px;">Partner Search</div><div style="position: absolute; visibility: inherit; background-color: rgb(200, 227, 255); color: rgb(51, 51, 51); padding: 3px; border-bottom: 0px solid rgb(172, 174, 167); width: 177px; left: 0px; top: 72px;">Partner Value Net Handbook</div><div style="position: absolute; visibility: inherit; background-color: rgb(200, 227, 255); color: rgb(51, 51, 51); padding: 3px; width: 177px; left: 0px; top: 90px;">News &amp; Events</div></div><div id="HM_Menu5" style="position: absolute; visibility: hidden; width: 183px; border-width: 11px; border-color: rgb(200, 227, 255); border-style: solid; z-index: 5000; overflow: hidden; cursor: default; font: 8.5pt Tahoma, Arial, Helvetica, sans-serif; height: 144px; left: 0px; top: 0px;"><div style="position: absolute; visibility: inherit; background-color: rgb(200, 227, 255); color: rgb(51, 51, 51); padding: 3px; border-bottom: 0px solid rgb(172, 174, 167); width: 177px; left: 0px; top: 0px;">Overview</div><div style="position: absolute; visibility: inherit; background-color: rgb(200, 227, 255); color: rgb(51, 51, 51); padding: 3px; border-bottom: 0px solid rgb(172, 174, 167); width: 177px; left: 0px; top: 18px;">Investor Relations</div><div style="position: absolute; visibility: inherit; background-color: rgb(200, 227, 255); color: rgb(51, 51, 51); padding: 3px; border-bottom: 0px solid rgb(172, 174, 167); width: 177px; left: 0px; top: 36px;">Press Room</div><div style="position: absolute; visibility: inherit; background-color: rgb(200, 227, 255); color: rgb(51, 51, 51); padding: 3px; border-bottom: 0px solid rgb(172, 174, 167); width: 177px; left: 0px; top: 54px;">Events</div><div style="position: absolute; visibility: inherit; background-color: rgb(200, 227, 255); color: rgb(51, 51, 51); padding: 3px; border-bottom: 0px solid rgb(172, 174, 167); width: 177px; left: 0px; top: 72px;">Jobs at SAP</div><div style="position: absolute; visibility: inherit; background-color: rgb(200, 227, 255); color: rgb(51, 51, 51); padding: 3px; border-bottom: 0px solid rgb(172, 174, 167); width: 177px; left: 0px; top: 90px;">SAP Shop</div><div style="position: absolute; visibility: inherit; background-color: rgb(200, 227, 255); color: rgb(51, 51, 51); padding: 3px; border-bottom: 0px solid rgb(172, 174, 167); width: 177px; left: 0px; top: 108px;">Community</div><div style="position: absolute; visibility: inherit; background-color: rgb(200, 227, 255); color: rgb(51, 51, 51); padding: 3px; width: 177px; left: 0px; top: 126px;">My Profile</div></div>
 
 
