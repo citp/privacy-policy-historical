@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the office.com privacy policy that was archived on 2003-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030408023413id_/http%3A//office.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the office.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204210103id_/http%3A//office.com/privacy.asp) for the most accurate reproduction.*
 
 # Office.com - The intranet for small business
 
@@ -33,7 +33,7 @@ We may **use** personally identifiable information in a number of ways:
   * To personalize various aspects of the Site. 
   * To build higher-quality, more useful services, such as by analyzing usage trends, and by measuring demographics and interests regarding specific areas of the Site. 
   * To provide you with prompt and effective customer service. 
-  * To support the operation of the Site (such as billing, account maintenance, and record-keeping), troubleshoot problems, resolve disputes, and enforce our [Terms of Service](https://web.archive.org/web/20030408023413id_/http%3A//office.com/terms.asp). 
+  * To support the operation of the Site (such as billing, account maintenance, and record-keeping), troubleshoot problems, resolve disputes, and enforce our [Terms of Service](https://web.archive.org/web/20031204210103id_/http%3A//office.com/terms.asp). 
   * To send you newsletters, promotional messages, product announcements, and other communications from ODC that we feel may be of interest to you. You may "opt out" of receiving most of these materials, as described below. 
 
 We may **disclose** personally identifiable information about you to Third Parties as follows: 
@@ -44,7 +44,7 @@ We may **disclose** personally identifiable information about you to Third Parti
   * To allow Third Parties to provide Site features and services. We partner with leading companies that bring superior services to the Site, which may appear under the "Office.com" name (such as Office.com Auctions). We only disclose the personal information necessary for the Third Party to provide the services, and they are required to keep the information confidential, and use it only to provide those services. (Some Third-Party services, such as Office.com Auctions, may be part of a larger network \-- auction listings appear on multiple Websites, for example.) 
   * To announce the winners of sweepstakes or promotions, as required by law, and to permit Third-Party prize suppliers to arrange to deliver prizes. 
   * To our contractors and consultants, and our professional advisors (such as our accountants or attorneys). For example, we outsource certain "back end" processes, such as credit card processing. We only disclose the personal information necessary for them to provide their services to you or to us, and only under strict confidentiality restrictions. 
-  * As we believe necessary to: (a) comply with law (including court and governmental orders, and civil subpoenas); (b) enforce or apply our [Terms of Service](https://web.archive.org/web/20030408023413id_/http%3A//office.com/terms.asp). and other agreements; or (c) protect the rights, property, or safety of ODC, our users, or others. This may include exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
+  * As we believe necessary to: (a) comply with law (including court and governmental orders, and civil subpoenas); (b) enforce or apply our [Terms of Service](https://web.archive.org/web/20031204210103id_/http%3A//office.com/terms.asp). and other agreements; or (c) protect the rights, property, or safety of ODC, our users, or others. This may include exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
   * If you partake (or we reasonably suspect that you are partaking) in any illegal or potentially illegal activity. We may disclose personal information even without a subpoena, warrant, or other court order, to the extent we feel is necessary to inform, and cooperate with, law enforcement agencies or other appropriate authorities. 
   * In connection with a sale or transfer of ODC. If ODC or substantially all of its assets are acquired, user information will, most likely, be one of the acquired assets. 
   * In aggregated form, i.e., information about multiple users collectively without identifying any individual user, such as the total number of visitors to the Site in a given week. 
