@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allaboutjazz.com privacy policy that was archived on 2001-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011015114133id_/http%3A//www.allaboutjazz.com/privacy2000.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboutjazz.com privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402071304id_/http%3A//www.allaboutjazz.com/privacy2000.htm) for the most accurate reproduction.*
 
-# Jazz Magazine and Resource | ALL ABOUT JAZZ
+# Jazz Magazine and Resource | ALL ABOUT JAZZ | The Web's Ultimate Guide to Jazz
 
   
 **Vision X Privacy Statement**
@@ -8,7 +8,7 @@
   
 Vision X has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for these Web sites: 
 
-> [http://www.allaboutjazz.com](http://www.allaboutjazz.com/)   
+> [http://www.allaboutjazz.com]()   
 > [http://www.digiday.com](http://www.digiday.com/)   
 > [http://www.screenthemes.com](http://www.screenthemes.com/)   
 > [http://www.visionx.com](http://www.visionx.com/)
