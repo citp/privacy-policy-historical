@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csharpfriends.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604035616id_/http%3A//www.csharpfriends.com/Members/Main/Misc/private.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csharpfriends.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001191637id_/http%3A//www.csharpfriends.com/Members/Main/Misc/private.aspx) for the most accurate reproduction.*
 
 # CSharpFriends - ASP.NET & C# Tutorials
 
@@ -8,6 +8,10 @@
   
 ---  
   
+
+
+[](https://web.archive.org/Members/ad_redirect.aspx?ADID=78)
+
   | 
 
 Your use of the CSharpFriends.com Web site constitutes your agreement to this privacy policy and consent to the terms herein. Please see the section labeled "Information We Collect and How We Use It" to learn more about our collection and use of user information. 
