@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mallofamerica.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203131019id_/http%3A//www.mallofamerica.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mallofamerica.com privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613093010id_/http%3A//www.mallofamerica.com/privacy.aspx) for the most accurate reproduction.*
 
 # Mall of America
 
