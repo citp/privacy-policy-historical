@@ -1,24 +1,28 @@
-> *The following text is extracted and transformed from the digitalpacific.com.au privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203032736id_/http%3A//www.digitalpacific.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalpacific.com.au privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607181622id_/http%3A//digitalpacific.com.au/privacy.php) for the most accurate reproduction.*
 
 # Digital Pacific Web Hosting
 
 |   
 ---  
-**»**   | 
+  | 
 
-[Our clients](https://web.archive.org/web/20031203032736id_/http%3A//www.digitalpacific.com.au/sites.php)  
+[**Web Hosting**](http://www.digitalpacific.com.au/)  
   
 **»**   | 
 
-[Video tutorials](https://web.archive.org/web/20031203032736id_/http%3A//www.digitalpacific.com.au/tutorials.php)  
+[Hosted Sites ](https://web.archive.org/web/20040607181622id_/http%3A//digitalpacific.com.au/sites.php)  
   
 **»**   | 
 
-[Plan features](https://web.archive.org/web/20031203032736id_/http%3A//www.digitalpacific.com.au/hosting.php)  
+[Power Tools ](https://web.archive.org/web/20040607181622id_/http%3A//digitalpacific.com.au/powertools.php)  
   
 **»**   | 
 
-[Support](https://web.archive.org/web/20031203032736id_/http%3A//www.digitalpacific.com.au/support.php)  
+[Plan features](https://web.archive.org/web/20040607181622id_/http%3A//digitalpacific.com.au/hosting.php)  
+  
+**»**   | 
+
+[Support](https://web.archive.org/web/20040607181622id_/http%3A//digitalpacific.com.au/support.php)  
   
 **»**   | 
 
@@ -26,7 +30,7 @@
   
 **»**   | 
 
-[Contact](https://web.archive.org/web/20031203032736id_/http%3A//www.digitalpacific.com.au/contact.php)  
+[Contact](https://web.archive.org/web/20040607181622id_/http%3A//digitalpacific.com.au/contact.php)  
   
   
   
