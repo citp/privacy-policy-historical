@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upmystreet.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206195832id_/http%3A//upmystreet.com/aboutus/rubric/%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upmystreet.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403095051id_/http%3A//www.upmystreet.com/aboutus/rubric/%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # UpMyStreet Small print: Privacy policy
 
@@ -18,7 +18,14 @@ When you create a My UpMyStreet profile you will be asked to submit personal inf
 
 By entering your details in the fields requested, you enable us to provide you with the services you select. Whenever you provide such personal information, we will treat that information in accordance with this policy. 
 
-By creating a My UpMyStreet profile you will be opting in to receive the UpMyStreet monthly newsletter. You can opt-out of receiving the newsletter through the Edit your profile option or by unsubscribing through the newsletter. 
+By creating a My UpMyStreet profile you will be opting in to receive:
+
+  * The UpMyStreet monthly newsletter. You can opt-out of receiving the newsletter through the Edit your profile option or by unsubscribing through the newsletter.
+  * USwitch.com's newsletter. uSwitch.com is UpMyStreet's parent company, and is the UK's leading home services and personal finance comparison and switching service. It's free to use and impartial.  
+[About uSwitch](http://www.uswitch.com/Popups/about_uswitch.asp?ref=)  [uSwitch's privacy and cookie policy](http://www.uswitch.com/Popups/privacy_policy.asp?ref=)  
+You can opt-out of receiving the newsletter by unsubscribing via the newsletter or by contacting [help@uswitch.com](mailto:help@uswitch.com).
+
+
 
 #### How do we use your personal information?
 
