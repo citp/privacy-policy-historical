@@ -1,34 +1,28 @@
-> *The following text is extracted and transformed from the ancientfaces.com privacy policy that was archived on 2001-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010303034021id_/http%3A//www.ancientfaces.com/cgi-bin/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ancientfaces.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618120712id_/http%3A//www.ancientfaces.com/privacy) for the most accurate reproduction.*
 
-# AncientFaces -
+# AncientFaces
 
-This privacy statement provides you with answers to the following questions: 
+AncientFaces Privacy Policy  
+AncientFaces knows that you care about the information you share. We appreciate and value your trust. This Privacy Policy describes how we treat your information. By visiting AncientFaces you are accepting the practices described in this Privacy Policy.
 
-**1\. What personal information does AncientFaces collect? Why?  
-2\. Does AncientFaces share this information with anyone?  
-3\. Can users opt out of having their information shared?  
-4\. How can users update the personal information they have shared with AncientFaces?  
-5\. Can visitor information be removed from AncientFaces? How?  
-**
+**What Personal Information about Visitors does AncientFaces gather?**
 
-1\. What personal information does AncientFaces collect? Why?
+**Information You Give Us:**
 
-When you upload (or add) a photo, recipe, or story to AncientFaces, or add your email address to be notified of updates, AncientFaces asks you for your name and/or email address. This information will allow other visitors to contact you for more information on the item(s) you have added to AncientFaces, as well as allow AncientFaces to notify you of an update. 
+We collect personal information to provide you with an enhanced experience at AncientFaces. Your information is used to customize and improve your visits. Registered users enter basic information about themselves to gain the ability to create user profiles, edit email subscriptions, change any of the material they have added to AncientFaces, and sell in the Marketplace. Under some circumstances we may require additional financial information, such as, but not limited to, if you are registering to sell in the Marketplace. We use your financial information, including credit card information to verify your name, address, and other information, as well as to bill you for use of our services. You may also choose to receive payments via Direct Deposit into your checking account. Basic checking information is needed to credit your account. This information is kept strictly secure and private. We may also collect various pieces of visitor information to track the use of our web site. This information might include the visitor's domain name or IP address, and the visitor's browser and platform type. 
 
-AncientFaces may also collect various pieces of visitor information to track the use of the AncientFaces web site and to improve our visitors' online experience. This information might include the visitor's domain name or IP address, and the visitor's browser and platform type. 
+**Use of cookies:**
 
-2\. Does AncientFaces share this information with anyone?
+AncientFaces uses cookies for two functions: Registered user sessions and for Navigation. When you navigate the site, the button corresponding to the section of the site you're on is highlighted. This is controlled with cookies, but none of this information is used by AncientFaces for any other purpose than highlighting the buttons. The information is erased once you leave the site. When you sign in as a Registered User, a cookie is activated to let our web site know that you are registered. This enables your user functions. Without cookies, we wouldn't be able to tell if you were signed in or not. Does AncientFaces Share the Information it receives?
 
-AncientFaces does not offer, give, or sell personal information given to us by users to a third party without individual user consent. User contact information, including name and email address, is only available to visitors when accompanying the photo, recipe, story, or other material the user has personally submitted or has given us permission to submit on their behalf. 
+AncientFaces never shares any of our visitors' personal information. However, we do post basic contact information of those that submit material on AncientFaces. This information is made available so visitors who are interested in your material can contact you to gain more information. 
 
-3\. Can users opt out of having their information shared?
+**How Secure Is Information About Me?**
 
-In order to particpate and upload any photographs, recipes, and/or stories on AncientFaces, users must include their name and email address. This is required to authenticate ownership and so that visitors can contact the submitters of materials to gain more information. 
+AncientFaces is dedicated to protecting your personal information. AncientFaces uses Secure-Socket Layer (SSL) encryption powered by VeriSign to keep your personal information safe. SSL is an Internet Protocol, which allows for the secure transfer of data. Rather than transferring data between a number of carriers, SSL creates a secure connection between the client (you) and the host (AncientFaces). To ensure your personal information is safe, such as credit card and banking information, we employ SSL as well as several other methods of security. We also validate your credit card information before it is sent for processing so that we can prevent the need for multiple transmissions, and thus prevent the chance that your data is put at risk. 
 
-4\. How can users update the personal information they have shared with AncientFaces?
+**What Information Can I Access?**
 
-Users should email AFC@ancientfaces.com to update or change the personal information they provided upon submitting any material to AncientFaces. Users should provide the names and locations of all materials on AncientFaces that should be changed. 
+AncientFaces gives you access to certain information about you for the limited purpose of viewing and, in certain cases, updating that information. You can find this information in 'Your Account' if you are a Registered user or Seller. Conditions of Use, Notices, and Revisions If you choose to visit AncientFaces, your visit and any disputes over privacy is subject to this Privacy Policy and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at AncientFaces, please send us a thorough description to AFC@ancientfaces.com, and we will try to resolve it. Our business changes constantly and this policy along with the Conditions of Use will also change. 
 
-5\. Can visitor information be removed from AncientFaces? How?
-
-Any user may have their personal information deleted by emailing AFC@ancientfaces.com with a request. In order to delete the user's personal information from AncientFaces, AncientFaces is required to delete all of the material submitted to AncientFaces by the user. 
+Back to top
