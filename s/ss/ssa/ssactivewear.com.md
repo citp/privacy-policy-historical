@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ssactivewear.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204213937id_/http%3A//www.ssactivewear.com/SSActivewearPrivacyNotice.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssactivewear.com privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628143639id_/http%3A//www.ssactivewear.com/SSActivewearPrivacyNotice.cfm%23Session.AddToken%23) for the most accurate reproduction.*
 
 # S&S Activewear Privacy Notice
 
@@ -43,4 +43,4 @@ ssactivewear.com gives you access to your personal account information, with the
 
 **Conditions of Use, Notices, and Revisions**
 
-If you choose to visit ssactivewear.com, your visit and any dispute over privacy is subject to this Notice, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at ssactivewear.com, please send us a thorough description to [info@ssactivewear.com](mailto:lmloden@ssactivewear.com?subject=S&S%20Activewear%20Website%20Privacy%20Policy), and we will try to resolve it. 
+If you choose to visit ssactivewear.com, your visit and any dispute over privacy is subject to this Notice, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at ssactivewear.com, please send us a thorough description to [info@ssactivewear.com](mailto:kmcclelland@ssactivewear.com?subject=S&S%20Activewear%20Website%20Privacy%20Policy), and we will try to resolve it. 
