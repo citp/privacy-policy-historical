@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pcw.co.uk privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208184913id_/http%3A//www.pcw.co.uk/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcw.co.uk privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206131745id_/http%3A//www.pcw.co.uk/about/privacy) for the most accurate reproduction.*
 
-# v7 about vnunet policy
+# PCW - About - Policy
 
 Introduction
 
