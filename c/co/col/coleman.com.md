@@ -1,62 +1,59 @@
-> *The following text is extracted and transformed from the coleman.com privacy policy that was archived on 2001-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011222025117id_/http%3A//www.coleman.com/coleman/ColemanCom/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coleman.com privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611014142id_/http%3A//www.coleman.com/coleman/ColemanCom/Privacy.asp) for the most accurate reproduction.*
 
 # Privacy
 
-| Registered Members  
+| Web Store  
 ---  
-[Virtual Backyard](http://www.coleman.com/coleman/vby.asp)  
-[Getaway Guide](http://www.coleman.com/coleman/gg.asp)  
-   
-New Stuff!  
-[Coleman For Kids Clothing](http://www.coleman.com/coleman/c4kclothes.asp)  
-[Holiday Gift Guide](http://www.coleman.com/coleman/ColemanCom/prod_category_main.asp?SourcePage=prod_list.asp&CategoryID=24000)  
-[Youth Camping Program](http://www.coleman.com/coleman/promotion/youth_camping.asp)  
-[Coleman BackHome](http://www.coleman.com/coleman/backhome/enter.html)  
-[Coleman Exponent™](http://www.coleman.com/coleman//exponent)  
-[Fall/Camo Gear](http://www.coleman.com/coleman/hunting/hunting.asp)  
-   
-Don't Fence Me In  
-[My Idea of Fun](http://www.coleman.com/coleman/ColemanCom/Fun.asp)  
-[Soup to Pine Nuts Advice](http://www.coleman.com/coleman/ColemanCom/Soup2Nuts.asp)  
-   
-Web Store  
-[Close-Outs](http://www.coleman.com/coleman/ColemanCom/prod_category_main.asp?CategoryID=31000)  
-[NASCAR® Gear](http://www.coleman.com/coleman/ColemanCom/prod_category_main.asp?CategoryID=40000)  
+[Close-outs](http://www.coleman.com/coleman/ColemanCom/prod_category_main.asp?CategoryID=31000)  
+[NASCAR®-Licensed Gear](http://www.coleman.com/coleman/ColemanCom/prod_category_main.asp?CategoryID=40000)  
 [Order Parts](http://www.coleman.com/coleman/ColemanSpa/PartsDefault.asp)  
+[Camp Coleman](http://www.coleman.com/coleman/campcoleman/default.asp)  
+[Youth Camping Program](http://www.coleman.com/coleman/promotion/youth_camping.asp)  
+[Accessories](http://www.coleman.com/coleman/colemancom/prod_category_main.asp?SourcePage=prod_list.asp&CategoryID=5000)  
    
 Go Coleman  
 [Our Products](http://www.coleman.com/coleman/ColemanCom/ProdList.asp)  
+[Video Gallery ](http://www.coleman.com/coleman/Colemancom/vg/default.asp)  
 [Gear Finder](http://www.coleman.com/coleman/gearfinder.asp)  
-[Why Buy Coleman?](http://www.coleman.com/coleman/ColemanCom/WhyBuyList.asp)  
-[Youth Camping Program](http://www.coleman.com/coleman/promotion/youth_camping.asp)  
+[Coleman BackHome](http://www.coleman.com/coleman/backhome/enter.html)  
+[Coleman Exponent®](http://www.coleman.com/coleman/exponent)  
+[Coleman for Kids](http://www.coleman.com/coleman/c4k.asp)  
+[Coleman for Kids Clothing](http://www.coleman.com/coleman/c4kclothes.asp)  
+[Fall/Camo Gear ](http://www.coleman.com/coleman/hunting/hunting.asp)  
 [Fix It](http://www.coleman.com/coleman/ColemanCom/warranty.asp)  
 [Warranty Registration](http://www.coleman.com/coleman/warranty)  
-[Camp Coleman](http://www.coleman.com/coleman/campcoleman/default.asp)  
-[Newsroom](http://www.coleman.com/coleman/ColemanCom/NewsRoom.asp)  
+[New for 2002 ](http://www.coleman.com/coleman/ColemanCom/2colprod_subcategory.asp?CategoryID=26000)  
+[**Newsroom**](http://www.coleman.com/coleman/ColemanCom/NewsRoom.asp)  
+[ Contest Winners](http://www.coleman.com/coleman/winners.asp)  
+[Why Buy Coleman?](http://www.coleman.com/coleman/ColemanCom/WhyBuyList.asp)  
    
-Check It Out  
-[Join Our Team](http://www.coleman.com/coleman/careers.asp)  
-[Contest Winners](http://www.coleman.com/coleman/winners.asp)  
-[Coleman for Kids](http://www.coleman.com/coleman/c4k2k/default.asp)  
-[Coleman Centennial](http://www.coleman.com/coleman/centennial)  
+Coleman Promotions  
+[Exponent Photo Contest](http://www.coleman.com/coleman/)  
+[Think Outside Sweepstakes](http://www.coleman.com/coleman/)  
+   
+Don't Fence Me In  
+[My Idea of Fun](http://www.coleman.com/coleman/ColemanCom/Fun.asp)  
+[Virtual Backyard](http://www.coleman.com/coleman/vby/index.html)  
+[Soup to Pine Nuts Advice](http://www.coleman.com/coleman/ColemanCom/Soup2Nuts.asp)  
+[Coleman OUTERnet](http://www.coleman.com/coleman/outernet.asp)  
    
 Crossing Paths  
 [On the Road](http://www.coleman.com/coleman/ColemanCom/OnRoad.asp)  
 [Coleman Partners](http://www.coleman.com/coleman/promos.asp)  
-[NASCAR®](http://www.coleman.com/coleman/ColemanCom/NASCAR.asp)  
-   
-Let's Talk Business  
-[Privacy](http://www.coleman.com/coleman/ColemanCom/Privacy.asp)  
-[Payment Security](http://www.coleman.com/coleman/ColemanCom/PaySecure.asp)  
-[Warranty & Repair](http://www.coleman.com/coleman/ColemanCom/Warr&Repair.asp)  
-[Fuel Safety](http://www.coleman.com/coleman/msds.asp)  
+[Out there with NASCAR®](http://www.coleman.com/coleman/ColemanCom/NASCAR.asp)  
    
 Getting To Know Us  
-[Register Here](http://www.coleman.com/coleman/ColemanCom/regconnector.asp)  
-[Join Our Team](http://www.coleman.com/coleman/careers.asp)  
+[ **Newsroom**](http://www.coleman.com/coleman/ColemanCom/NewsRoom.asp)  
+[ Register Here](http://www.coleman.com/coleman/ColemanCom/Insider.asp)  
+[Join Our Team](http://www.coleman.com/coleman/colemancareers.asp)  
 [Who We Are](http://www.coleman.com/coleman/ColemanCom/WhoWeAre.asp)  
 [Contact Us](http://www.coleman.com/coleman/ColemanCom/DearColeman.asp)  
 [Sister Sites](http://www.coleman.com/coleman/ColemanCom/SisterSites.asp)  
+   
+Let's Talk Business  
+[Privacy](http://www.coleman.com/coleman/ColemanCom/Privacy.asp)  
+[Warranty & Repair](http://www.coleman.com/coleman/ColemanCom/Warr&Repair.asp)  
+[Fuel Safety](http://www.coleman.com/coleman/msds.asp)  
 |  Privacy Policy – The Coleman Company, Inc. and Affiliated entities web sites   
 ---  
    
