@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the essentialtravel.co.uk privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604161146id_/http%3A//insurance.essentialtravel.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essentialtravel.co.uk privacy policy that was archived on 2004-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040805153702id_/http%3A//insurance.essentialtravel.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # Essential Travel Privacy Statement
 
