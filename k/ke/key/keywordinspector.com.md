@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keywordinspector.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208015434id_/http%3A//keywordinspector.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keywordinspector.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207011505id_/http%3A//www.keywordinspector.com/privacy.asp) for the most accurate reproduction.*
 
 # Keyword Inspector - Keywords to improve search engine placement and ranking. Find top internet marketing keywords
 
