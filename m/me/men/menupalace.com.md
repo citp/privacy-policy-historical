@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the menupalace.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204173451id_/http%3A//www.menupalace.com/menupalace/privacystatement/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menupalace.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623103422id_/http%3A//www.menupalace.com/menupalace/privacystatement/privacystatement.asp) for the most accurate reproduction.*
 
 # menupalace.com Corporation Privacy Statement
 
@@ -20,4 +20,6 @@ To that end, menupalace has adopted rigorous standards of privacy and makes the 
 
 **7.** Menupalace will abide by all court orders, valid search warrants and subpoenas. 
 
-**8.** Questions about menupalace's Privacy Statement should be sent to [info@menupalace.com ](mailto:info@menupalace.com)
+**8.** Questions about menupalace.com's Privacy Statement? 
+
+[ _Please click here_](http://www.menupalace.com/menupalace/feedback/feedback.htm)
