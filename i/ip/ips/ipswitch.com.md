@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the ipswitch.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331073348id_/http%3A//ipswitch.com/Company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipswitch.com privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611051441id_/http%3A//www.ipswitch.com/Company/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Ipswitch - Privacy Policy
+
+  
+
 
 **Ipswitch Privacy Policy**
 
@@ -41,7 +44,7 @@ HOW DOES IPSWITCH.COM USE COOKIES?
 
 During ordering, Ipswitch uses VeriSign Digital Certificates for SSL Encryption.
 
-**_Certificate Authority Expired_ \-  **If you experience this dialogue when trying to order, please know this is a Y2K bug in early versions of Netscape and Internet Explorer browsers. We advise you to upgrade to the latest version of Netscape or Internet Explorer so you don't experience this error on Ipswitch or other sites. If you experience the dialog and click "Continue", the SSL connection that secures your transaction with our site is NOT affected.
+**_Certificate Authority Expired_ \- **If you experience this dialogue when trying to order, please know this is a Y2K bug in early versions of Netscape and Internet Explorer browsers. We advise you to upgrade to the latest version of Netscape or Internet Explorer so you don't experience this error on Ipswitch or other sites. If you experience the dialog and click "Continue", the SSL connection that secures your transaction with our site is NOT affected.
 
 * * *
 
