@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the truste.org privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204200455id_/http%3A//www.truste.org/truste_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truste.org privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208181814id_/http%3A//www.truste.org/truste_privacy.html) for the most accurate reproduction.*
 
-# TRUSTe Privacy Statement
+# This privacy statement was last updated on 2/27/01
 
-This privacy statement was last updated on 11/8/01. TRUSTe has created this privacy statement in order to disclose our information gathering and dissemination practices for this Web site, [www.truste.org](http://www.truste.org/).  TRUSTe abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. Upon reading this privacy statement, you will know:
+**TRUSTe has updated its privacy statement on** **8/23/02** **. The following two sections cover new functionality on the TRUSTe web site: Lead Generation and Customer Satisfaction Survey.**
+
+This privacy statement was last updated on 8/23/02. TRUSTe has created this privacy statement in order to disclose our information gathering and dissemination practices for this Web site, [www.truste.org](http://www.truste.org/).  TRUSTe abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. Upon reading this privacy statement, you will know:
 
 1.      What personally identifiable information of yours or third party personally identifiable information is collected from you through the Web site.
 
@@ -12,7 +14,7 @@ This privacy statement was last updated on 11/8/01. TRUSTe has created this priv
 
 4.   With whom the information may be shared. 
 
-5.   What choices are available to you regarding collection, use and distribution of the information. 
+5.   What choices are available to you regarding collection, use and distribution of the information.
 
 6.   The kind of security procedures that are in place to protect the loss, misuse or alteration of information under TRUSTe’s control. 
 
@@ -20,9 +22,9 @@ This privacy statement was last updated on 11/8/01. TRUSTe has created this priv
 
 Questions regarding this statement should be directed to the TRUSTe site coordinator by emailing privacy@truste.org or writing to us at the following address:
 
-1180 Coleman Avenue, Suite 202
+685 Market Street, Suite 560
 
-San Jose, CA 95110
+San Francisco, CA 94104
 
 To return to the TRUSTe home page, please use the "Back" button on your browser.
 
@@ -34,31 +36,51 @@ TRUSTe is the sole owner of the information it gathers on its site.  TRUSTe wil
 
 **  What Information is Collected and How it is Used?**
 
-·       How to Join
+·        How to Join
 
 We collect contact information such as name, mailing address, email address, phone number, and company information such as company name and Web site URL. This information is used to generate an invoice for you to print and submit with the rest of your application materials. 
 
-·       Contact Us
+·        Contact Us
 
 We use email links located on the "contact us" page and other areas of the site to allow you to contact us directly with any questions or comments you may have. We read every message sent in and try to reply promptly to every one. This information is used to respond directly to your questions or comments. We may also file your comments to improve the site and program, or review and discard the information. Your personal information is only shared with third parties with your explicit permission.
 
-·      Submitting a Watchdog Report
+·        Submitting a Watchdog Report
 
 TRUSTe created the Watchdog Dispute Resolution Mechanism to provide you with a mechanism for reporting and resolving privacy violations, misuse of the trustmark, or specific privacy concerns pertaining to a member Web site. We request your name, email address, name of the Web site, URL, and description of the privacy violation. This information is used to look into the alleged violation and bring it to a satisfactory resolution. Certain personally identifiable information like your name and email address may be shared with the member site, but only if you indicate that we have your explicit permission to do this by marking the appropriate boxes. If you do not give us your permission to share your personally identifiable information, then we will not share it with anyone outside of TRUSTe. However, in some cases, this may limit our ability to successfully resolve your complaint. Any contact information a user provides on the Watchdog page is optional and will not be used for any other purpose than to investigate and respond to your report. Aggregate information about Watchdogs is posted on TRUSTe’s Web site on a monthly basis. 
 
-·     Newsroom
+·        Lead Generation Survey 
+
+Individuals may express interest in learning more about TRUSTe’s product offerings through the Lead Generation Survey.  TRUSTe will collect contact information such as name, company name, email address, and phone number.  Demographic data such as job title, state, and products that you are interested in are also collected.  This information will be used to follow up with you on your interests.  We will contact you once regarding our products and subsequent contacts will be based upon the outcome of the initial contact (i.e. follow up to answer additional questions). 
+
+Some TRUSTe products are provided by TRUSTe and a Partner. This Partner may not use your information for any purpose other than to contact you about the product. 
+
+TRUSTe will use the demographic data to learn more about the people and organizations that are interested in TRUSTe’s products to better target our marketing efforts.  We may share aggregated demographic with outside parties to showcase the level of interest in TRUSTe’s products. No personal information will be shared.   
+
+Individuals may also choose to opt-in to receive updates regarding new TRUSTe privacy products or TRUSTe’s monthly newsletter. If you opted-in to receive product updates or the newsletter, TRUSTe will use your email address to send the requested emails.  To unsubscribe from these emails, see the Unsubscribe section below.
+
+·        Customer Satisfaction Survey
+
+Licensees upon completion of the certification or renewal process will be invited to participate in TRUSTe’s Customer Satisfaction Survey.   The survey asks you various questions with regards to your certification and on-going participation in TRUSTe programs. The answers you provide are anonymous unless you choose to provide us with your contact information.  TRUSTe will use survey data to improve its product and service offerings. 
+
+Licensees may join the TRUSTe Member Advisory Panel by providing their email address to TRUSTe.  The TRUSTe Member Advisory Panel is from time to time asked to provide input into new products and/or changes in the services. The email will only be used as part of the Member Advisory Panel.  If you choose to no longer be a part of the panel or need to update your contact information, contact TRUSTe at [unsubscribe@truste.org](mailto:webmaster@truste.org) and indicate what you would no longer like to a part of the Member Advisory Panel.
+
+Licensees may provide contact information in order to help TRUSTe create case studies and testimonials on the effects of good privacy practices. TRUSTe will use this information to follow up with the Licensee on these issues. 
+
+TRUSTe may share aggregated survey data with outside parties to showcase the level of customer satisfaction with TRUSTe’s privacy products.  No personal information will be shared.
+
+·        Newsroom
 
 In the Newsroom, individuals may subscribe to TRUSTe’s monthly email newsletter, TRUSTe’s Press Releases and/or, Watchdog Advisories that provide updates to the Web community about TRUSTe investigations throughout the year. 
 
 Your email address is used to send you these emails. To unsubscribe from the monthly newsletter, press releases, or Watchdog advisories, see the Unsubscribe section below.
 
-·  Join the Privacy Partnership
+·        Join the Privacy Partnership
 
 Leading online companies have come together along with TRUSTe to bring you the Privacy Partnership campaign. Though this grassroots campaign is the result of the efforts of several companies, the information collected is used solely by TRUSTe and is not shared with any of the privacy partners. 
 
 To demonstrate support of the campaign, we ask companies who would like to add their name to our list of supporters for name, email address, company name, and URL. This contact information is used only to contact the supporter in direct regards to changes and updates affecting the campaign. The company name that is given is added to the list of supporters, which is shown on the Web site, and is linked to the URL that is entered.  This information is not used for any other purpose.
 
-·       Logged Files and Cookies
+·        Logged Files and Cookies
 
 The TRUSTe Web site logs IP addresses and browser types for systems administration purposes.  These logs will be analyzed to improve the value of the materials available on the website.  A user’s session will be tracked, but the user will be anonymous. We do not link IP addresses to any personally identifiable information. 
 
@@ -80,21 +102,29 @@ The TRUSTe Web site contains links to other Web sites. We encourage you to visit
 
 To unsubscribe from receiving the TRUSTe Newsletter, Press Releases, or Watchdog Advisories go to <http://www.truste.org/news/index.html> and click on the publication you wish to unsubscribe from.  Then click on the unsubscribe link to send an email to notify us of your unsubscribe request.  Also, an unsubscribe link appears at the end of each email and when you click on it you will be automatically unsubscribed from the mailing. 
 
-To unsubscribe from any of the above publications you may also send an email to [webmaster@truste.org](mailto:webmaster@truste.org) stating the name of the publication from which you wish to be unsubscribed. 
+·        Lead Generation Survey
+
+To unsubscribe from receiving TRUSTe Product Updates send an email to unsubscribe@truste.org.  To unsubscribe from receiving the TRUSTe Newsletter follow the instructions outlined above. 
+
+To unsubscribe from any of the above publications you may also send an email to [unsubscribe@truste.org](mailto:webmaster@truste.org) stating the name of the publication from which you wish to be unsubscribed.
 
 **How to Access and Update User Information**
 
-Reasonable access to personally identifiable information will be provided within 30 days at no cost to the user.  If access cannot be provided within that timeframe, TRUSTe will provide the user a date when the information will be provided.  If for some reason access is denied, TRUSTe will provide an explanation as why access has been denied.
+Reasonable access to personally identifiable information will be provided within 30 days at no cost to the user.  If access cannot be provided within that timeframe, TRUSTe will provide the user a date when the information will be provided.  If for some reason access is denied, TRUSTe will provide an explanation as why access has been denied.
 
 ·        Watchdog Dispute Resolution
 
 If you supplied us with your email within the Watchdog Dispute Resolution area of the site, please return to **[http://www.truste.org/users/user_watchdog.html](http://www.truste.org/watchdog.html) **and resubmit your email address, the name of the web site that was addressed in the original Watchdog document, and what information you would like updated. 
 
-·        Newsroom 
+·          Newsroom 
 
-If you need to update your email address, please contact TRUSTe at [webmaster@truste.org](mailto:webmaster@truste.org). Alternatively, you may unsubsribe from the publication using your old email address and re-subscribing using your new email address.
+If you need to update your email address, please contact TRUSTe at [unsubscribe@truste.org](mailto:webmaster@truste.org). Alternatively, you may unsubsribe from the publication using your old email address and re-subscribing using your new email address.
 
-·        Join the Privacy Partnership
+·        Lead Generation Survey
+
+If you need to update your contact information, please contact TRUSTe at unsubscribe@truste.org.
+
+·          Join the Privacy Partnership
 
 If you need to update your contact information that was entered into the Join the Privacy Partnership form, please contact TRUSTe at [partnership@truste.org](mailto:parntership@truste.org). 
 
@@ -104,11 +134,11 @@ If you need to update your contact information that was entered into the Join th
 
 Licensees’ email address and/or mailing address is used to send TRUSTe’s monthly newsletter, licensee advisories and other administrative notices regarding TRUSTe’s seal programs.   To unsubscribe from receiving the newsletter of the licensee advisories, see the Unsubscribe section below.  Licensees will not be able to opt-out of receiving administrative notices. 
 
-·       Unsubcribe and Update
+      ·     Unsubcribe and Update
 
 To unsubscribe from receiving the monthly newsletter or licensee advisories go to <http://www.truste.org/bus/licensees.html> and click on the unsubscribe link to send an email to notify us of your unsubscribe request.  Also, an unsubscribe link appears at the end of each email and when you click on it you will be automatically unsubscribed from the mailing. 
 
-If you need to update your email address, please contact TRUSTe at [webmaster@truste.org](mailto:webmaster@truste.org).  Licensees also may contact their Account Manager to update their contact information.
+If you need to update your email address, please contact TRUSTe at [unsubscribe@truste.org](mailto:webmaster@truste.org).  Licensees also may contact their Account Manager to update their contact information.
 
 **Security**
 
