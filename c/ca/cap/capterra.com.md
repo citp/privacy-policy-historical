@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capterra.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008201456id_/http%3A//www.capterra.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capterra.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604201348id_/http%3A//www.capterra.com/privacy) for the most accurate reproduction.*
 
 # Capterra - Privacy Policy
 
