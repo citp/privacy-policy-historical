@@ -1,14 +1,48 @@
-> *The following text is extracted and transformed from the frontpagewebmaster.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604115003id_/http%3A//www.outfront.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontpagewebmaster.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204032959id_/http%3A//www.outfront.net/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
-   OutFront servers are  
-   collocated at  
+**Sponsors**
+
+[Web Hosting](http://www.browsehosts.com/)  
+Browsehosts.com, a leading web hosting directory, enables you to choose your next web host easily. Over 900 of the highest quality hosts are listed, visit today!
+
+[Advertise Here](http://www.outfrontnow.com/)  
+Place your text ad on almost every page of OutFront.
+
+[Hire Indian Programmers](http://www.allquickfix.com/)  
+ASP, .NET, PHP, Database Programming - Programmers for 1 Day, Week and Monthly contract for your Website, Application development and Database Programming.
+
+[Spooky Login](http://www.outfront.net/spooky/login.htm)  
+ASP User Management to protect your valuable content.
+
+[Shopping Cart Software](http://www.ecommercetemplates.com/)  
+Ecommerce software integrated into Frontpage, Dreamweaver and Golive templates. No monthly fees and available in ASP and PHP versions.
+
+[Web Directory  
+Add URL](http://www.webatlas.org/)  
+Add your site to WebAtlas today. Get 5 links for the price of one.
+
+[FrontPage Templates](http://www.thetemplatestore.com/)  
+We also have a wide selection of Dreamweaver and Golive templates, webmaster tools and Swish and Flash.
+
+[Internet Marketing Company](http://www.webuildpages.com/)  
+We Build Pages offers internet marketing services and website design.
+
+[FrontPage CMS](http://contentseed.com/)  
+Let your customers control their content with just a browser. A great feature to offer your clients. Try it FREE.
+
+[Web Directory](http://www.uncoverthenet.com/)  
+Can your customers find you? Submit your site today.
+
+   **[FrontPage Hosting](https://web.archive.org/web/20041204032959id_/http%3A//www.outfront.net/hosting/outfront_hosting.asp)**  
+  OutFront servers are  
+  collocated at  
 [ ](http://www.appliedi.net/)
 
 | 
 
-##  Privacy
+##  **** Privacy
 
 Thomas Brunt's OutFront has created this privacy statement in order to demonstrate OutFront's firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web sites: Thomas Brunt's OutFront, The OutFront Forums, and frontpagecommerce.com. ****
 
@@ -19,7 +53,7 @@ Thomas Brunt's OutFront has created this privacy statement in order to demonstra
 **Our servers (as most) track IP addresses and referring pages to help with site maintenance and improvements.  This data is viewed only as anonymous statistics to show the busiest times of the day or week, pages with errors and how effective our advertising has been.  This information is not used for any other purpose.  
  
   3. **Personal Information collected - Mailing List  
-**You have two opportunities to be included on our free mailing list.  This list is used to notify of product updates, Web site changes or news of interest to FrontPage webmasters.  As with all information collected at OutFront, it is for our use only.  To be included on this list you can sign up directly on our [ home page](https://web.archive.org/web/20040604115003id_/http%3A//www.outfront.net/index.htm).  
+**You have two opportunities to be included on our free mailing list.  This list is used to notify of product updates, Web site changes or news of interest to FrontPage webmasters.  As with all information collected at OutFront, it is for our use only.  To be included on this list you can sign up directly on our [ home page](https://web.archive.org/web/20041204032959id_/http%3A//www.outfront.net/index.asp).  
  
   4. **Personal Information Collected - Order Forms  
 **With the exception of credit card info, we store the information from your order form to allow us to verify sales to suppliers, to track consulting issues, or refer to a previous order to help provide some customer service.  You may elect to have your information completely removed from this system by e-mailing us at [ thomas@thomasbrunt.com](mailto:thomas@thomasbrunt.com) with your request.   
@@ -28,6 +62,6 @@ Thomas Brunt's OutFront has created this privacy statement in order to demonstra
 This site may on occasion provide links to other sites for your convenience or additional information.  Thomas Brunt's OutFront.net is not responsible for any content or practices of these sites.  
  
   6. **Information Correction or Removal  
-**If you wish to correct, update or remove any information about you that may be in our records, please send us e-mail [ thomas@thomasbrunt.com](mailto:thomas@thomasbrunt.com) with the details of your request at.  If you wish to contact us further, please find complete contact information on our [contact page](https://web.archive.org/web/20040604115003id_/http%3A//www.outfront.net/contact_us.htm). 
+**If you wish to correct, update or remove any information about you that may be in our records, please send us e-mail [ thomas@thomasbrunt.com](mailto:thomas@thomasbrunt.com) with the details of your request at.  If you wish to contact us further, please find complete contact information on our [contact page](https://web.archive.org/web/20041204032959id_/http%3A//www.outfront.net/contact_us.htm). 
 
 
