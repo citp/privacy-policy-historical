@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the target.com.au privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618103015id_/http%3A//www.target.com.au/html/privacy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the target.com.au privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810123042id_/http%3A//www.target.com.au/html/privacy/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
-|  | [](https://web.archive.org/web/20030618103015id_/http%3A//www.target.com.au/html/homepage/home.htm) |  |  |  |   
+|  | [](https://web.archive.org/web/20030810123042id_/http%3A//www.target.com.au/html/homepage/home.htm) |  |  |  |   
 ---|---|---  
 | Target's Privacy Statement  
 |   
@@ -48,12 +48,12 @@ We collect information for a number of reasons including to:
   
 We collect information in a number of ways including:  
   
-|  | When you register your details with us to receive our weekly [Newsletter](https://web.archive.org/web/20030618103015id_/http%3A//www.target.com.au/html/newsletter/newsletter.htm) or give us the information  
+|  | When you register your details with us to receive our weekly [Newsletter](https://web.archive.org/web/20030810123042id_/http%3A//www.target.com.au/html/newsletter/newsletter.htm) or give us the information  
 ---|---  
 | When you order goods or services, particularly when those products are delivered  
 | When you use our lay-by service  
 | When you open an account with us  
-| When you shop in our stores and use your [Fly Buys](https://web.archive.org/web/20030618103015id_/http%3A//www.target.com.au/html/flybuy/flybuys.htm) or your [Coles Myer Card®](https://web.archive.org/web/20030618103015id_/http%3A//www.target.com.au/html/cmcard/cmcard.htm)  
+| When you shop in our stores and use your [Fly Buys](https://web.archive.org/web/20030810123042id_/http%3A//www.target.com.au/html/flybuy/flybuys.htm) or your [Coles Myer Card®](https://web.archive.org/web/20030810123042id_/http%3A//www.target.com.au/html/cmcard/cmcard.htm)  
 | Sometimes, we may add to your personal information additional information from external sources. This is mainly done to verify the accuracy of the information we have and, again, to personalise and improve our service  
    
 Who we share your information with  
