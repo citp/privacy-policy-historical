@@ -1,19 +1,40 @@
-> *The following text is extracted and transformed from the ucertify.com privacy policy that was archived on 2003-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030413054956id_/http%3A//ucertify.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucertify.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008195336id_/http%3A//www.ucertify.com/privacy.htm) for the most accurate reproduction.*
 
 # Security Statement
 
-| **Questions? Call...**  
+|  | Questions? Call...  
 ---  
+**1 (408) 850 4916**  
+8:00 AM to 5:00 PM Monday-Friday PST  
+Information For  
   
-**1 (408) 850 4916  
-**8:00 AM to 5:00 PM Monday-Friday PST  
+  * Volume Discount & Small Business
+  * [Training Institutes](https://web.archive.org/web/20031008195336id_/http%3A//www.ucertify.com/training.htm)
+  * [Corporations Authors & Publishers](https://web.archive.org/web/20031008195336id_/http%3A//www.ucertify.com/corporations.htm)
+  * [Website Owners](https://web.archive.org/web/20031008195336id_/http%3A//www.ucertify.com/publishers.htm)
+
   
-**Information For**  
-**Save Big!**  
-**Savings in Email!**  
-**Fact Sheet**  
+Save Big!  
   
-|  |  **Privacy Policy**  
+  * [Hot deals](https://web.archive.org/web/20031008195336id_/http%3A//www.ucertify.com/hotdeals.htm)
+  * [PrepKit Collections](https://web.archive.org/web/20031008195336id_/http%3A//www.ucertify.com/collections.htm)
+  * [Create a collection](https://web.archive.org/web/20031008195336id_/http%3A//www.ucertify.com/createacollection.htm)
+
+  
+Savings in Email!  
+  
+  * [Create your profile](http://www.ucertify.com/online/action.mv?act=re)
+  * [Tell your friends](https://web.archive.org/web/20031008195336id_/http%3A//www.ucertify.com/tellafriend.htm)
+
+  
+Fact Sheet  
+  
+  * [What makes our products great](https://web.archive.org/web/20031008195336id_/http%3A//www.ucertify.com/ourproducts.htm)
+  * [ Money Back Guarantee](https://web.archive.org/web/20031008195336id_/http%3A//www.ucertify.com/guarantee.htm)
+
+  
+   
+|  **Privacy Policy**  
 ---  
 ** ** **Our Commitment:**  
   
@@ -44,9 +65,8 @@ Any material changes in the way uCertify uses personal information will be descr
    
 **You might find these useful:**  
   
-[Refund Policy](https://web.archive.org/web/20030413054956id_/http%3A//ucertify.com/refund.htm)  
-[Legal Policy](https://web.archive.org/web/20030413054956id_/http%3A//ucertify.com/legal.htm)  
-[License](https://web.archive.org/web/20030413054956id_/http%3A//ucertify.com/license.htm) **  
+[Refund Policy](https://web.archive.org/web/20031008195336id_/http%3A//www.ucertify.com/refund.htm)  
+[Legal Policy](https://web.archive.org/web/20031008195336id_/http%3A//www.ucertify.com/legal.htm)  
+[License](https://web.archive.org/web/20031008195336id_/http%3A//www.ucertify.com/license.htm) **  
 **  
-   
  
