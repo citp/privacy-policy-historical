@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weather.gov privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604020812id_/http%3A//weather.gov/notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weather.gov privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205010426id_/http%3A//www.weather.gov/notice.html) for the most accurate reproduction.*
 
 # NOAA - National Weather Service - Privacy Notice
 
