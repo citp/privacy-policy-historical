@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the accenture.com privacy policy that was archived on 2003-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031204225459id_/http%3A//www.accenture.com/xd/xd.asp%3Fit%3Denweb%26xd%3Dprivacy%5Cprivacy.xml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the accenture.com privacy policy that was archived on 2004-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041207011716id_/http%3A//www.accenture.com/xd/xd.asp%3Fit%3Denweb%26xd%3Dprivacy%5Cprivacy.xml) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="title" content="Accenture Privacy Statement"><meta name="keywords" content="Privacy Statement"><meta name="abstract" content="Accenture's Privacy
-  Statement."><meta name="language" content="english"><meta name="revision_date" content="Friday, 12-Jul-02 12:10:02 GMT"><meta name="site_name" content="Help"><meta name="short_title" content="Help"><meta name="dtitle" content=""><title>Accenture Privacy Statement</title><script>
+<meta name="title" content="Accenture Privacy Policy"><meta name="keywords" content="Privacy Statement"><meta name="abstract" content="Accenture's Privacy
+  Policy."><meta name="language" content="english"><meta name="revision_date" content="Thursday, 12-Aug-04 16:44:15 GMT"><meta name="site_name" content="help"><meta name="short_title" content=""><meta name="dtitle" content=""><meta name="hb" content="true"><title>Accenture Privacy Policy</title><script>
 function getCookieVal(offset) 
 {
 	var endstr = document.cookie.indexOf (";", offset);
@@ -31,6 +31,8 @@ function GetCookie(name)
 	
 	return null;
 }
+
+
 function generate(x, y) 
 {
 	var range = y-x+1;
@@ -80,7 +82,7 @@ var noSpaceURL = document.title + "~" + tmpURL;
 if (thisCookie != null)
 {
 	cookie_array = thisCookie.split("!");
-	for (i=0; i < 4; i++)
+	for (i=0; i < 5; i++)
 	{	 
 			if (noSpaceURL == cookie_array[i]) 
 			{	
@@ -98,7 +100,7 @@ if (flag == 1)
 {
 	for (i = 0; i < cookie_array.length ; i++)
 	{
-		if (i < 3)
+		if (i < 4)
 		{
 			cookie_string = cookie_string + cookie_array[i] + "!" ;
 		}
@@ -113,7 +115,7 @@ if (flag == 2)
 	{
 		if (j != intmatch)
 		{	
-			if (j < 4)
+			if (j < 5)
 			{
 				cookie_string = cookie_string + cookie_array[j] + "!" ;
 			}
@@ -157,42 +159,7 @@ function MM_findObj(n, d) { //v4.01
   for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
   if(!x && d.getElementById) x=d.getElementById(n); return x;
 }
-
-function P7_autoLayers() { //v1.2 by PVII
- var g,b,k,f,args=P7_autoLayers.arguments;
- var a = parseInt(args[0]);if(isNaN(a))a=0;
- if(!document.p7setc) {p7c=new Array();document.p7setc=true;
-  for (var u=0;u<10;u++) {p7c[u] = new Array();}}
- for(k=0; k<p7c[a].length; k++) {
-  if((g=MM_findObj(p7c[a][k]))!=null) {
-   b=(document.layers)?g:g.style;b.visibility="hidden";}}
- for(k=1; k<args.length; k++) {
-  if((g=MM_findObj(args[k])) != null) {
-   b=(document.layers)?g:g.style;b.visibility="visible";f=false;
-   for(j=0;j<p7c[a].length;j++) {
-    if(args[k]==p7c[a][j]) {f=true;}}
-  if(!f) {p7c[a][p7c[a].length++]=args[k];}}}
-}
-
-function pviiStyle(obj, new_style) {
-    obj.className = new_style;
-}
-
-function P7_N4hideIt(e) { //v1.2 by PVII
- var b=e.target;
- if(b.p7N4hide==true) {b.visibility="hidden";}
-}
-
-function P7_N4autoHide() { //v1.2 by PVII
- if(!document.layers)return;
- var args=P7_N4autoHide.arguments;
- p7N4 = new Array();
- for (var k=0;k<(args.length);k++) {
-   if ((g=MM_findObj(args[k]))!=null) {
-    g.captureEvents(Event.MOUSEOUT);
-    g.onmouseout = P7_N4hideIt;
-    g.p7N4hide=true;}}
-}		
+	
 
 
 
@@ -266,154 +233,667 @@ function setShortTitle()
 
 
 
-</script></head><body bgcolor="#ffffff" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" onload="clicker()" onresize="bodload()"><table width="740" border="0" cellspacing="0" cellpadding="0"><tbody><tr><!--googleoff: all--><script language="javascript">
-var sitename = "Help"
+</script><!--BEGIN WEBSIDESTORY CODE v9.1.1 (11up) --><!--COPYRIGHT 1997-2003 WEBSIDESTORY, INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479 B1. Privacy notice at: http://websidestory.com/privacy--><script language="javascript" id="_hbc">
+function getParams() {
+	var idx = document.URL.indexOf('?');
+	var params = new Array();
+	if (idx != -1) {
+		var pairs = document.URL.toLowerCase().substring(idx+1, document.URL.length).split('&');
+		for (var i=0; i<pairs.length; i++) {
+			nameVal = pairs[i].split('=');
+			params[nameVal[0]] = nameVal[1];
+   		}
+	}
+	return params;
+}
+
+var params = getParams();
+
+var s = new String(unescape(params["xd"]));
+
+do {
+	s = s.replace("\\", "/");
+} while (s.indexOf("\\") > 0);
+var j = 0;
+var k = 0;
+
+do {
+	k = j;
+	j = s.indexOf("/", j+1);
+} while (j != -1)
+
+var t = s.substr(0, k);
+var tmp_it = new String(unescape(params["it"]));
+var tmp_mlc = "/" + tmp_it + "/" + t;
+var tmp_pn = s.substring(s.lastIndexOf("/") + 1, s.length);
+
+//Override for search page.
+var search_idx = document.URL.indexOf('search.aspx');
+if (search_idx != -1)
+{
+	tmp_pn = 'search.aspx';
+	tmp_mlc = '/search';
+}
+
+//Campaign handling
+var c_camp_str = new String(unescape(params["c"]));
+var n_camp_str = new String(unescape(params["n"]));
+var t_camp_str = new String(unescape(params["t"]));
+
+// Define the campaign type to place at the beginning of the campaign name
+var c_camp_type = "OTC";
+
+switch (t_camp_str.toLowerCase())
+{
+	case "email": 
+		c_camp_type = "EMC";
+	break;
+	case "aff": 
+		c_camp_type = "AFC";
+	break;
+	case "ad": 
+		c_camp_type = "BAC";
+	break;
+	default : c_camp_type = t_camp_str.toUpperCase();
+}
+
+if (c_camp_str == 'undefined')
+{
+	c_camp_str = "";
+}
+else
+{
+	c_camp_str =  c_camp_type + '-' + c_camp_str.toLowerCase();
+}
+
+if (n_camp_str == 'undefined')
+{
+	n_camp_str = "";
+}
+else
+{
+	n_camp_str = n_camp_str.toLowerCase();
+}
+
+var _acct="DM53111729ZA57EN3;DM540228H9AS57EN3;DM540228IHAM57EN3";	//account number(s)
+var _pn = tmp_pn.toLowerCase(); //page name(s)
+var _mlc= tmp_mlc.toLowerCase(); //"CONTENT+CATEGORY"; //multi-level content category
+var _seg=""; // visitor segmentation
+var _cmp=""; // campaign id
+var _gp="";  // campaign goal
+var _cmpn="";// campaign id in query
+var _gpn=""; // campaign goal in query
+var _fnl=""; // funnels
+var _pec=""; // error codes
+var _fv="";  // form validation function name
+var _dcmp = c_camp_str; // dynamic campaign
+var _dcmpn="";//dynamic campaign in query
+var _hra = n_camp_str; // response attribute
+var _hcn=""; // conversion
+var _hcv=""; // conversion value
+var _hlt=""; // lead tracking
+var _hla=""; // lead attribute
+var _hqsr="";// response attribute in referrer query
+var _hqsp="";// response attribute in query
+var _hc1=""; // custom 1
+var _hc2=""; // custom 2
+var _hc3=""; // custom 3
+var _hc4=""; // custom 4
+var _lt="none";  // link tracking
+var _ci="";  // customer id
+var _cp="null"; // campaign
+var _cpd=""; // campaign domain
+var _pndef="title"; //default page name
+var _ctdef="full"; //default content category
+var _dlf="n"; //download filter
+var _elf="n"; //exit link filter
+var _dft="n"; // download file tracker variable, set to y to use the name reference
+var _hrf=""; // custom referrer. use valid url or param name
+var _epg="n"; //event page identifier
+var _vpc="090101r";
+var _gn="ehg-accenture.hitbox.com",_mn="we72"; //gateway & machine name
+
+</script><script language="javascript1.1" defer="" src="/js/hbe-11up.js"></script><script language="javascript">if(navigator.appName!='Netscape'&&parseInt(navigator.appVersion)==4)document.write("<\!"+"--")</script><noscript><img src="http://ehg-accenture.hitbox.com/HG?hc=we72&amp;cd=1&amp;hv=6&amp;ce=u&amp;hb=DM53111729ZA57EN3&amp;n=SCRIPT&amp;vcon=/NOSCRIPT&amp;seg=&amp;cmp=&amp;gp=&amp;fnl=&amp;pec=&amp;dcmp=&amp;ra=&amp;gn=&amp;cv=&amp;ld=&amp;la=&amp;c1=&amp;c2=&amp;c3=&amp;c4=&amp;vpc=090101rn" border="0" width="1" height="1"></noscript><!--//- ->--><!--END WEBSIDESTORY CODE--><script language="javascript">
+	
+	
+	function fillInStateDropdown(objFormName)
+			{	
+			
+			if (objFormName.region_name != null)
+			{
+				var usaArray=new Array(52);
+				usaArray[0]=new Option("Select your State/Province","0");
+				usaArray[1]=new Option("Alabama","AL");
+				usaArray[2]=new Option("Alaska","AK");
+				usaArray[3]=new Option("Arizona","AZ");
+				usaArray[4]=new Option("Arkansas", "AR");
+				usaArray[5]=new Option("California", "CA");
+				usaArray[6]=new Option("Colorado", "CO");
+				usaArray[7]=new Option("Connecticut", "CT");
+				usaArray[8]=new Option("D.C.", "DC");
+				usaArray[9]=new Option("Delaware", "DL");
+				usaArray[10]=new Option("Florida", "FL");
+				usaArray[11]=new Option("Georgia", "GA");
+				usaArray[12]=new Option("Hawaii","HI");
+				usaArray[13]=new Option("Idaho","ID");
+				usaArray[14]=new Option("Illinois", "IL");
+				usaArray[15]=new Option("Indiana", "IN");
+				usaArray[16]=new Option("Iowa", "IA");
+				usaArray[17]=new Option("Kansas", "KS");
+				usaArray[18]=new Option("Kentucky", "KY");
+				usaArray[19]=new Option("Louisiana", "LA");
+				usaArray[20]=new Option("Maine", "ME");
+				usaArray[21]=new Option("Maryland", "MD");
+				usaArray[22]=new Option("Massachusetts","MA");
+				usaArray[23]=new Option("Michigan","MI");
+				usaArray[24]=new Option("Minnesota","MN");
+				usaArray[25]=new Option("Mississippi","MS");
+				usaArray[26]=new Option("Missouri", "MO");
+				usaArray[27]=new Option("Montana", "MT");
+				usaArray[28]=new Option("Nebraska", "NE");
+				usaArray[29]=new Option("Nevada", "NV");
+				usaArray[30]=new Option("New Hampshire", "NH");
+				usaArray[31]=new Option("New Jersey", "NJ");
+				usaArray[32]=new Option("New Mexico", "NM");
+				usaArray[33]=new Option("New York", "NY");
+				usaArray[34]=new Option("North Carolina", "NC");
+				usaArray[35]=new Option("North Dakota","ND");
+				usaArray[36]=new Option("Ohio","OH");
+				usaArray[37]=new Option("Oklahoma", "OK");
+				usaArray[38]=new Option("Oregon", "OR");
+				usaArray[39]=new Option("Pennsylvania", "PA");
+				usaArray[40]=new Option("Rhode Island", "RI");
+				usaArray[41]=new Option("South Carolina", "SC");
+				usaArray[42]=new Option("South Dakota", "SD");
+				usaArray[43]=new Option("Tennessee", "TN");
+				usaArray[44]=new Option("Texas", "TX");
+				usaArray[45]=new Option("Utah", "UT");
+				usaArray[46]=new Option("Vermont", "VT");
+				usaArray[47]=new Option("Virginia", "VA");
+				usaArray[48]=new Option("Washington", "WA");
+				usaArray[49]=new Option("West Virginia", "WV");
+				usaArray[50]=new Option("Wisconsin", "WI");
+				usaArray[51]=new Option("Wyoming", "WY");
+				
+
+				var canArray=new Array(14);
+				canArray[0]=new Option("Select your State/Province","0");
+				canArray[1]=new Option("Alberta", "Alberta");
+				canArray[2]=new Option("British Columbia", "British_Columbia");
+				canArray[3]=new Option("Manitoba","Manitoba");
+				canArray[4]=new Option("New Brunswick","New_Brunswick");
+				canArray[5]=new Option("Newfoundland", "Newfoundland");
+				canArray[6]=new Option("Northwest Territories", "Northwest_Territories");
+				canArray[7]=new Option("Nova Scotia", "Nova_Scotia");
+				canArray[8]=new Option("Nunavut", "Nunavut");
+				canArray[9]=new Option("Ontario", "Ontario");
+				canArray[10]=new Option("Prince Edward Island", "Prince_Edward_Island");
+				canArray[11]=new Option("Quebec", "Quebec");
+				canArray[12]=new Option("Saskatchewan", "Saskatchewan");
+				canArray[13]=new Option("Yukon", "Yukon");
+
+				
+				var ausArray=new Array(9);
+				ausArray[0]=new Option("Select your State/Province","0");
+				ausArray[1]=new Option("Australian Capital Territory", "Australian_Capital_Territory");
+				ausArray[2]=new Option("New South Wales","New_South_Wales");
+				ausArray[3]=new Option("Northern Territory", "Northwest_Territories");
+				ausArray[4]=new Option("Queensland", "Queensland");
+				ausArray[5]=new Option("South Australia", "South_Australia");
+				ausArray[6]=new Option("Tasmania", "Tasmania");
+				ausArray[7]=new Option("Victoria", "Victoria");
+				ausArray[8]=new Option("Western Australia", "Western_Australia");
+				
+			
+				var strCountry = objFormName.country_name.options[objFormName.country_name.selectedIndex].value;
+				
+				if (strCountry == "US")
+				{
+			
+					setNull(objFormName.region_name);
+					for (i=0;i< usaArray.length;i++)
+					{			
+						objFormName.region_name.options[i]=new Option(usaArray[i].text,usaArray[i].value);
+						if(objFormName.selected_region != null)
+						{
+						if(objFormName.region_name.options[i].value == objFormName.selected_region.value)
+						{
+							objFormName.region_name.options[i].selected = "-1"
+						}
+						}
+					}			
+				}
+				else 
+				{
+					if (strCountry == "CA")
+					{
+						
+						setNull(objFormName.region_name);
+						for(i=0;i<canArray.length;i++)
+						{
+			
+							objFormName.region_name.options[i]=new Option(canArray[i].text,canArray[i].value);
+							if(objFormName.selected_region!=null)
+							{
+							if(objFormName.region_name.options[i].value == objFormName.selected_region.value)
+							{
+								objFormName.region_name.options[i].selected = "-1"
+							}
+							}
+						}
+					}
+					else
+					{
+						if (strCountry == "AU")
+						{
+						
+							setNull(objFormName.region_name);
+							for(i=0;i<ausArray.length;i++)
+							{
+			
+								objFormName.region_name.options[i]=new Option(ausArray[i].text,ausArray[i].value);
+								
+								if(objFormName.selected_region!=null)
+								{
+								if(objFormName.region_name.options[i].value == objFormName.selected_region.value)
+								{
+									objFormName.region_name.options[i].selected = "-1"
+								}
+								}
+							}
+						}
+						else
+						{
+						
+							setNull(objFormName.region_name);
+							objFormName.region_name.options[0]=new Option("Select your State/Province","0");
+							objFormName.region_name.options[1]=new Option("Not Applicable","n/a");
+							objFormName.region_name.options[1].selected = "yes";
+						}
+					}
+				}
+			}
+				
+			}
+
+
+function setNull(dropdown)
+{
+	for (m=dropdown.options.length-1;m>=0;m--)
+	{
+		dropdown.options[m]=null;
+	}
+}		
+
+</script><script language="javascript">
+	
+function newWindow(sURL, nWidth, nHeight)
+{
+    nLeft = (screen.width - nWidth) / 2;
+    nTop = (screen.height - nHeight) / 2;
+
+    sFlags = "'toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=no,resizable=no,copyhistory=yes,width=";
+
+    sFlags = sFlags + nWidth + ",height=" + nHeight + ",top=" + nTop + ",left=" + nLeft + "'";
+    MyWindow = window.open(sURL,"MyWin",sFlags);
+}
+
+function LaunchEvent(sEvent)
+{
+//    alert(sEvent);
+      sBrowser = navigator.appName;
+
+      bIE = 0;
+      if (sBrowser.indexOf("Microsoft") >= 0)
+            bIE = 1;
+ 
+      if (screen.width == 800)
+      {
+            if (bIE)
+            {
+                  nWidth = 787;
+                  nHeight = 525;
+            }
+            else
+            {
+                  nWidth = 787;
+                  nHeight = 560;
+            }
+       }
+      else
+      {
+            if (bIE)
+            {
+                  nWidth = 1000;
+                  nHeight = 693;
+            }
+            else
+            {
+                  nWidth = 1000;
+                  nHeight = 728;
+            }
+      }
+ 
+      newWindow(sEvent, nWidth, nHeight);
+}
+		</script><script type="text/javascript" language="JavaScript">
+		
+		function getBreadCookieVal(offset){
+			var endstr = document.cookie.indexOf (";", offset);
+			if (endstr == -1)
+			endstr = document.cookie.length;
+			return document.cookie.substring(offset, endstr);
+		}
+				
+		function GetBreadCookie(name){
+			var arg = name + "=";
+			var alen = arg.length;
+			var clen = document.cookie.length;
+			var i = 0;
+			
+			while (i < clen){
+				var j = i + alen;
+				if (document.cookie.substring(i, j) == arg)
+				return getBreadCookieVal(j);
+				i = document.cookie.indexOf(" ", i) + 1;
+				if (i == 0) break; 
+			}
+			
+			return null;
+		}
+		
+		//define variables
+		var urlsplit_ary = document.location.href.split("=");
+		var urlsplit = urlsplit_ary[1] + "=" + urlsplit_ary[2];
+		var urlsplit_regex = urlsplit;
+		var xslt_accepted = false;
+
+		if (urlsplit.match("\/","i") != null){ // if URL contains /, convert to \
+			var regex = new RegExp("\/","g");
+			urlsplit_regex = urlsplit.replace(regex,"\\");
+			urlsplit = urlsplit_regex;
+		}
+		
+		var regex = new RegExp("\\\\","g");
+		urlsplit_regex = urlsplit_regex.replace(regex,"\\\\");
+		
+		function breadstatus(){ //check status of cookies/variables
+			window.alert(
+				"JAVASCRIPT VALUES:\n\n" +
+				"urlsplit = " + urlsplit + "\n" +
+				"stylesheet_used = " + stylesheet_used + "\n" +
+				"xslt_accepted = " + xslt_accepted + "\n" +
+				"number of pages in cookie = " + GetBreadCookie("breadcookies").match(/!/ig).length + "\n\n" +
+				"COOKIE VALUE:\n\n" + 
+				"breadcookies = " + GetBreadCookie("breadcookies"));
+		}
+		
+		function breadcrumbs(){
+			
+			// reset cookie to nothing if on an enweb or non-enweb location homepage
+			if (foreignweblocationhome == true || enweblocationhome  == true){
+				document.cookie = "breadcookies=" + "";
+			}			
+			
+			// if current page appears in cookie, delete it and everything AFTER it
+			if (GetBreadCookie("breadcookies") != null && GetBreadCookie("breadcookies").match(/!/ig).length >= 2 && GetBreadCookie("breadcookies").match(urlsplit_regex,"i") != null){
+				var firstchar = GetBreadCookie("breadcookies").indexOf(escape(document.title)) - 1;
+				/*
+				window.alert("deleting part of cookie! \n" + 
+					"to begin with, cookie is: \n\n" +  GetBreadCookie("breadcookies") + "\n\n" +
+					"now deleting, starting at character position: " + firstchar + "\n" +
+					"at which, the character is: " + GetBreadCookie("breadcookies").charAt(firstchar) + "\n" +
+					"and the new cookie string will be: \n\n"  + GetBreadCookie("breadcookies").substring(0,firstchar)
+					);
+				*/
+				document.cookie = "breadcookies=" + GetBreadCookie("breadcookies").substring(0,firstchar);
+			}	
+			
+			// append cookie if it does not contain page url already, and is one of the nav page XSLTs is used
+			if ( (GetBreadCookie("breadcookies") == null || GetBreadCookie("breadcookies").match(urlsplit_regex,"i") == null) && xslt_accepted == true ){
+				// replacing the line: SetBreadCookie(escape(document.title),urlsplit);
+				if (GetBreadCookie("breadcookies") == null){
+					document.cookie = "breadcookies=" + "!" + escape(document.title) + "~" + urlsplit;
+				}
+				else {
+					document.cookie = "breadcookies=" + GetBreadCookie("breadcookies") + "!" + escape(document.title) + "~" + urlsplit;
+				}
+			}
+			
+			// if there are 3 or more pages in the breadcrumb, delete the first one
+			if (GetBreadCookie("breadcookies") != null && GetBreadCookie("breadcookies").match(/!/ig).length >= 3){
+				// string to be deleted = GetBreadCookie("breadcookies").substring(0,GetBreadCookie("breadcookies").indexOf("!",1))
+				// string to be saved = GetBreadCookie("breadcookies").substring(GetBreadCookie("breadcookies").indexOf("!",1),GetBreadCookie("breadcookies").length)
+				document.cookie = "breadcookies=" + GetBreadCookie("breadcookies").substring(GetBreadCookie("breadcookies").indexOf("!",1),GetBreadCookie("breadcookies").length);
+			}
+						
+			//breadstatus();
+			//window.alert(document.cookie);
+		}
+		
+		</script></head><body bgcolor="#ffffff" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" onload="clicker();breadcrumbs();" onresize="bodload()"><script language="javascript">
+			//String Manipulation to get the filename
+				var PageLoc=document.location.href;
+				var intFeature=PageLoc.indexOf('feature=eat');
+				var countryCode=PageLoc.substring(PageLoc.indexOf('?')+4,PageLoc.indexOf('?')+6).toLowerCase();
+				PageLoc=PageLoc.substring(PageLoc.indexOf('?')+13,PageLoc.length).toLowerCase();
+			//Trim features on the filename
+				if (PageLoc.indexOf("&") >= 0)
+					PageLoc=PageLoc.substring(0,PageLoc.indexOf("\&"));
+			//Trim Preloader on the filename
+				var PageLoc_array=PageLoc.split("");
+				if (PageLoc_array[0]=="_")
+					PageLoc=PageLoc.substring(5,PageLoc.length);
+			//Concatenate country code and the filename
+				PageLoc=countryCode+"\\"+PageLoc;
+			</script><script for="window" event="onload" language="javascript">
+				if ((PageLoc=="en\\subscriptions/learningcon_true_conf.xml") ||(PageLoc=="en\\subscriptions\\learningcon_true_conf.xml") ||
+					(PageLoc=="en\\subscriptions/ideas_true_conf.xml") ||(PageLoc=="en\\subscriptions\\ideas_true_conf.xml") ||
+					(PageLoc=="en\\subscriptions/insnews_true_conf.xml") ||(PageLoc=="en\\subscriptions\\insnews_true_conf.xml") ||
+					(PageLoc=="en\\formconv/fsi_thankyou.xml") ||(PageLoc=="en\\formconv\\fsi_thankyou.xml") ||
+					(PageLoc=="en\\industries/financial/fsi_thepoint_form_res.xml") ||(PageLoc=="en\\industries\\financial\\fsi_thepoint_form_res.xml") ||
+					((PageLoc=="en\\site_true_conf.xml")  && (intFeature > 0) ) ||
+					(PageLoc=="en\\subscriptions/email_true_conf.xml") ||(PageLoc=="en\\subscriptions\\email_true_conf.xml")) {
+						ypos=((screen.height)/2)-193;
+						xpos=((screen.width)/2)-170;
+						features = "screenY=" + ypos + ",screenX=" + xpos + ",top=" + ypos + ",left=" + xpos + ",height=385,width=340,toolbar=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=no";
+						window.open('xd.asp?it=enweb\&xd=subscriptions/popup_not_spam.xml','NotSpam',features); 
+				}
+			</script><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><!--googleoff: all--><script language="javascript">
+var sitename = "help"
 var onbutton
 
 
-//topnav images
-//top level
-m1 = new Image();  	
-m1.src = "/txtimg/en/topnav/home_off.gif"
-m1a = new Image();  	
-m1a.src = "/txtimg/en/topnav/home2_over.gif"
-m2 = new Image();  	
-m2.src = "/txtimg/en/topnav/about_off.gif"
-m2a = new Image();  	
-m2a.src = "/txtimg/en/topnav/about2_over.gif"
-m2b = new Image();  	
-m2b.src = "/txtimg/en/topnav/about2_over.gif"
-m3 = new Image();  	
-m3.src = "/txtimg/en/topnav/help_off.gif"
-m3a = new Image();  	
-m3a.src = "/txtimg/en/topnav/help_over.gif"
-m3b = new Image();  	
-m3b.src = "/txtimg/en/topnav/help_over.gif"
-m4 = new Image();  	
-m4.src = "/txtimg/en/topnav/contact_off.gif"
-m4a = new Image();  	
-m4a.src = "/txtimg/en/topnav/contact2_over.gif"
-m4b = new Image();  	
-m4b.src = "/txtimg/en/topnav/contact2_over.gif"
-//second row
-m5 = new Image();  	
-m5.src = "/txtimg/en/topnav/industries2_off.gif"
-m5a = new Image();  	
-m5a.src = "/txtimg/en/topnav/industries2_over.gif"
-m5b = new Image();  	
-m5b.src = "/txtimg/en/topnav/industries2_over.gif"
+var isDHTML = 0;
+var isID = 0;
+var isAll = 0;
+var isLayers = 0;
+
+if (document.getElementById) {
+	isID = 1;
+	isDHTML = 1;
+} else {
+	if (document.all) {
+		isAll = 1;
+		isDHTML = 1;
+	} else {
+		browserVersion = parseInt(navigator.appVersion);
+		if ((navigator.appName.indexOf('Netscape') != -1) && (browserVersion == 4)) {
+			isLayers = 1;
+			isDHTML = 1;
+		}
+	}
+}
+
+function findDOM(objectID,withStyle) {
+	if(withStyle == 1) {
+		if(isID) {
+			return(document.getElementById(objectID).style) ;
+		} else {
+		if(isAll) {
+			return(document.all[objectID].style);
+		} else {
+		if(isLayers) {
+			return(document.layers[objectID]);
+		}
+	};}
+	
+	} else {
+	
+	if(isID) {
+		return(document.getElementById(objectID));
+	} else {
+	if(isAll) {
+		return(document.all[objectID]);
+	} else {
+	if(isLayers) {
+		return(document.layers[objectID]);
+	}
+	};}}
+}
+
+function resetStyle(objectID,intCounter) {
+    if(isAll || isID) {
+	 for (i=1;i< (intCounter +1);i++)
+		{
+       		domStyle = findDOM(objectID + i,0); domStyle.className = 'sortableMenuBar';
+		}
+    }
+}
+
+function changeStyle(objectID, propertyName, propertyValue){
+    if(isAll || isID) {
+        domStyle = findDOM(objectID,1);
+        domStyle[propertyName] = propertyValue;
+    }
+}
+
+function changeProperty(objectID, propertyName, propertyValue){
+    if(isAll || isID) {
+        domStyle = findDOM(objectID,0);
+        domStyle[propertyName] = propertyValue;
+    }
+}
+
+
+//PROPERTY CHANGE FUNCTIONS
+function openMenu(objectID) {
+        if(isAll || isID) {
+                domStyle = findDOM(objectID,1);
+                domStyle.visibility = 'visible';
+        }
+}
+
+function closeMenu(objectID) {
+        if(isAll || isID) {
+                domStyle = findDOM(objectID,1);
+                domStyle.visibility = 'hidden';
+        }
+}
+
+function hideObject(objectID) {
+        if(isAll || isID) {
+                domStyle = findDOM(objectID,1);
+                domStyle.display = 'none';
+        }
+}
+
+function revealObject(objectID) {
+        if(isAll || isID) {
+                domStyle = findDOM(objectID,1);
+                domStyle.display = 'block';
+        }
+}
+
+// RANDOM BANNER
+
+var random_text = new Array();
+var random_color = new Array();
+
+// Set the number of text strings to zero to start
+var number = 0;
+
+// Incremental list of all possible text
+random_text[number++] = "chess";
+random_text[number++] = "needle";
+random_text[number++] = "chip";
+random_text[number++] = "wires";
+random_text[number++] = "tape";
+random_text[number++] = "abacus";
+random_text[number++] = "run";
+random_text[number++] = "cycle";
+random_text[number++] = "row";
+random_text[number++] = "bfly";
+
+// Incremental list of all possible color codes
+number = 0;
+random_color[number++] = "999900";
+random_color[number++] = "009999";
+random_color[number++] = "0099cc";
+random_color[number++] = "663333";
+random_color[number++] = "cc9966";
+random_color[number++] = "336699";
+random_color[number++] = "669999";
+random_color[number++] = "666633";
+random_color[number++] = "990033";
+random_color[number++] = "ff6600";
+
+var random_text_number = Math.floor(Math.random() * number);
+var random_color_number = Math.floor(Math.random() * number);
+
+function random_img(){
+	if (document.all){
+		document.images["bannerimg"].src = "/pic/r1/banner/" + random_text[random_text_number] + "_" + random_color[random_color_number] + ".jpg";
+		document.images["bannertxt"].src = "/pic/r1/banner/" + random_text[random_text_number] + "_" + random_color[random_color_number] + ".gif";
+		}
+	else {
+		document.getElementById("bannerimg").setAttribute("src", "/pic/r1/banner/" + random_text[random_text_number] + "_" + random_color[random_color_number] + ".jpg");
+		document.getElementById("bannertxt").setAttribute("src", "/pic/r1/banner/" + random_text[random_text_number] + "_" + random_color[random_color_number] + ".gif");
+		}
+	}
+
+
 m6 = new Image();  	
-m6.src = "/txtimg/en/topnav/services2_off.gif"
+m6.src = "/pic/r1/nav_divider.gif"
 m6a = new Image();  	
-m6a.src = "/txtimg/en/topnav/services2_over.gif"
+m6a.src = "/pic/r1/nav_divider_on.gif"
 m6b = new Image();  	
-m6b.src = "/txtimg/en/topnav/services2_over.gif"
+m6b.src = "/pic/r1/nav_divider_on.gif"
+
+m7 = new Image();  	
+m7.src = "/pic/r1/nav_divider.gif"
+m7a = new Image();  	
+m7a.src = "/pic/r1/nav_divider_on.gif"
+m7b = new Image();  	
+m7b.src = "/pic/r1/nav_divider_on.gif"
 
 m8 = new Image();  	
-m8.src = "/txtimg/en/topnav/research2_off.gif"
+m8.src = "/pic/r1/nav_divider.gif"
 m8a = new Image();  	
-m8a.src = "/txtimg/en/topnav/research2_over.gif"
+m8a.src = "/pic/r1/nav_divider_on.gif"
 m8b = new Image();  	
-m8b.src = "/txtimg/en/topnav/research2_over.gif"
+m8b.src = "/pic/r1/nav_divider_on.gif"
+
 m9 = new Image();  	
-m9.src = "/txtimg/en/topnav/casestudies2_off.gif"
+m9.src = "/pic/r1/nav_divider.gif"
 m9a = new Image();  	
-m9a.src = "/txtimg/en/topnav/casestudies2_over.gif"
+m9a.src = "/pic/r1/nav_divider_on.gif"
 m9b = new Image();  	
-m9b.src = "/txtimg/en/topnav/casestudies2_over.gif"
+m9b.src = "/pic/r1/nav_divider_on.gif"
+
 m10 = new Image();  	
-m10.src = "/txtimg/en/topnav/careers2_off.gif"
+m10.src = "/pic/r1/nav_divider.gif"
 m10a = new Image();  	
-m10a.src = "/txtimg/en/topnav/careers2_over.gif"
+m10a.src = "/pic/r1/nav_divider_on.gif"
 m10b = new Image();  	
-m10b.src = "/txtimg/en/topnav/careers2_over.gif"
+m10b.src = "/pic/r1/nav_divider_on.gif"
+
 m11 = new Image();  	
-m11.src = "/txtimg/en/topnav/events2_off.gif"
+m11.src = "/pic/r1/nav_divider.gif"
 m11a = new Image();  	
-m11a.src = "/txtimg/en/topnav/events2_over.gif"
+m11a.src = "/pic/r1/nav_divider_on.gif"
 m11b = new Image();  	
-m11b.src = "/txtimg/en/topnav/events2_over.gif"
-m12 = new Image();  	
-m12.src = "/txtimg/en/topnav/locations3_off.gif"
-m12a = new Image();  	
-m12a.src = "/txtimg/en/topnav/locations3_over.gif"
-m12b = new Image();  	
-m12b.src = "/txtimg/en/topnav/locations3_over.gif"
-m13 = new Image();  	
-m13.src = "/txtimg/en/topnav/newsroom3_off.gif"
-m13a = new Image();  	
-m13a.src = "/txtimg/en/topnav/newsroom3_over.gif"
-m13b = new Image();  	
-m13b.src = "/txtimg/en/topnav/newsroom3_over.gif"
-m14 = new Image();  	
-m14.src = "/txtimg/en/topnav/inv_off.gif"
-m14a = new Image();  	
-m14a.src = "/txtimg/en/topnav/inv2_over.gif"
-m14b = new Image();  	
-m14b.src = "/txtimg/en/topnav/inv2_over.gif"
-
-		<!--Note: New DD arrow code-->
-		m15 = new Image();  	
-		m15.src = "/pic/common/arrow_off.gif"
-		m15a = new Image();  	
-		m15a.src = "/pic/common/arrow_on.gif"
-		m15b = new Image();  	
-		m15b.src = "/pic/common/arrow_on.gif"
-		m16 = new Image();  	
-		m16.src = "/pic/common/arrow_off.gif"
-		m16a = new Image();  	
-		m16a.src = "/pic/common/arrow_on.gif"
-		m16b = new Image();  	
-		m16b.src = "/pic/common/arrow_on.gif"
-		m17 = new Image();  	
-		m17.src = "/pic/common/arrow_off.gif"
-		m17a = new Image();  	
-		m17a.src = "/pic/common/arrow_on.gif"
-		m17b = new Image();  	
-		m17b.src = "/pic/common/arrow_on.gif"
-		
-function clicker() {
-onbutton = "dd";
-if (sitename.toLowerCase()== "industries") {
-	changeImages3('cavnar5','m5b');
-	onbutton = "cavnar5";
-	}
-else if (sitename.toLowerCase()== "services") {
-	changeImages3('cavnar6','m6b');
-	onbutton = "cavnar6"; }
-
-else if (sitename.toLowerCase()== "research & insights") {
-	changeImages3('cavnar8','m8b');
-	onbutton = "cavnar8"; }
-else if (sitename.toLowerCase()== "case studies") {
-	changeImages3('cavnar9','m9b');
-	onbutton = "cavnar9"; }
-else if (sitename.toLowerCase()== "careers") {
-	changeImages3('cavnar10','m10b');
-	onbutton = "cavnar10"; }
-else if (sitename.toLowerCase()== "about accenture") {
-	changeImages3('cavnar2','m2b');
-	onbutton = "cavnar2"; }
-else if (sitename.toLowerCase()== "events") {
-	changeImages3('cavnar11','m11b');
-	onbutton = "cavnar11"; }
-else if (sitename.toLowerCase()== "locations") {
-	changeImages3('cavnar12','m12b');
-	onbutton = "cavnar12"; }
-else if (sitename.toLowerCase()== "newsroom") {
-	changeImages3('cavnar13','m13b');
-	onbutton = "cavnar13"; }
-else if (sitename.toLowerCase()== "help") {
-	changeImages3('cavnar3','m3b');
-	onbutton = "cavnar3"; }
-else if (sitename.toLowerCase()== "contact us") {
-	changeImages3('cavnar4','m4b');
-	onbutton = "cavnar4"; }
-else if (sitename.toLowerCase()== "investor relations") {
-	changeImages3('cavnar14','m14b');
-	onbutton = "cavnar14"; }
-
-}
+m11b.src = "/pic/r1/nav_divider_on.gif"
 
 function changeImages3() {
   if (document.images) {
@@ -423,61 +903,90 @@ function changeImages3() {
     }
   }
 }
-		
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
+
+</script><script language="javascript">
+		m1 = new Image();  	
+		m1.src = "/pic/r1/nav_home.gif"
+		m1a = new Image();  	
+		m1a.src = "/pic/r1/nav_home_on.gif"
+		m1b = new Image();  	
+		m1b.src = "/pic/r1/nav_home_on.gif"
+		</script><script language="javascript">
+
+//topnav images
+//top level
+
+m2 = new Image();  	
+m2.src = "/pic/r1/nav_services.gif"
+m2a = new Image();  	
+m2a.src = "/pic/r1/nav_services_on.gif"
+m2b = new Image();  	
+m2b.src = "/pic/r1/nav_services_on.gif"
+
+m3 = new Image();  	
+m3.src = "/pic/r1/nav_research.gif"
+m3a = new Image();  	
+m3a.src = "/pic/r1/nav_research_on.gif"
+m3b = new Image();  	
+m3b.src = "/pic/r1/nav_research_on.gif"
+
+m4 = new Image();  	
+m4.src = "/pic/r1/nav_about.gif"
+m4a = new Image();  	
+m4a.src = "/pic/r1/nav_about_on.gif"
+m4b = new Image();  	
+m4b.src = "/pic/r1/nav_about_on.gif"
+
+m5 = new Image();  	
+m5.src = "/pic/r1/nav_careers.gif"
+m5a = new Image();  	
+m5a.src = "/pic/r1/nav_careers_on.gif"
+m5b = new Image();  	
+m5b.src = "/pic/r1/nav_careers_on.gif"
+
+</script><script language="Javascript">
+function clicker() {
+onbutton = "dd";
+if (sitename.toLowerCase()== "home") {
+	changeImages3('cavnar1','m1b','canvar6','m6b','canvar7','m7b');
+	onbutton = "cavnar1"; }
+else if (sitename.toLowerCase()== "industries") {
+	changeImages3('cavnar2','m2b','canvar7','m7b','canvar8','m8b');
+	onbutton = "cavnar2"; }
+else if (sitename.toLowerCase()== "services") {
+	changeImages3('cavnar2','m2b','canvar7','m7b','canvar8','m8b');
+	onbutton = "cavnar2"; }
+else if (sitename.toLowerCase()== "research & insights") {
+	changeImages3('cavnar3','m3b','canvar8','m8b','canvar9','m9b');
+	onbutton = "cavnar3"; }
+else if (sitename.toLowerCase()== "case studies") {
+	changeImages3('cavnar2','m2b','canvar7','m7b','canvar8','m8b');
+	onbutton = "cavnar2"; }
+else if (sitename.toLowerCase()== "careers") {
+	changeImages3('cavnar10','m10b');
+	onbutton = "cavnar10"; }
+else if (sitename.toLowerCase()== "about accenture") {
+	changeImages3('cavnar4','m4b','canvar9','m9b','canvar10','m10b');
+	onbutton = "cavnar4"; }
+else if (sitename.toLowerCase()== "events") {
+	changeImages3('cavnar4','m4b','canvar9','m9b','canvar10','m10b');
+	onbutton = "cavnar4"; }
+else if (sitename.toLowerCase()== "locations") {
+	changeImages3('cavnar4','m4b','canvar9','m9b','canvar10','m10b');
+	onbutton = "cavnar4"; }
+else if (sitename.toLowerCase()== "newsroom") {
+	changeImages3('cavnar4','m4b','canvar9','m9b','canvar10','m10b');
+	onbutton = "cavnar4"; }
+else if (sitename.toLowerCase()== "help") {
+	changeImages3('cavnar4','m4b','canvar9','m9b','canvar10','m10b');
+	onbutton = "cavnar4"; }
+else if (sitename.toLowerCase()== "contact us") {
+	}
+else if (sitename.toLowerCase()== "investor relations") {
+	changeImages3('cavnar4','m4b','canvar9','m9b','canvar10','m10b');
+	onbutton = "cavnar4"; }
 }
-
-function P7_autoLayers() { //v1.2 by PVII
-if (!document.layers)
-{
-
- var g,b,k,f,args=P7_autoLayers.arguments;
- var a = parseInt(args[0]);if(isNaN(a))a=0;
- if(!document.p7setc) {p7c=new Array();document.p7setc=true;
-  for (var u=0;u<10;u++) {p7c[u] = new Array();}}
- for(k=0; k<p7c[a].length; k++) {
-  if((g=MM_findObj(p7c[a][k]))!=null) {
-   b=(document.layers)?g:g.style;b.visibility="hidden";}}
- for(k=1; k<args.length; k++) {
-  if((g=MM_findObj(args[k])) != null) {
-   b=(document.layers)?g:g.style;b.visibility="visible";f=false;
-   for(j=0;j<p7c[a].length;j++) {
-    if(args[k]==p7c[a][j]) {f=true;}}
-  if(!f) {p7c[a][p7c[a].length++]=args[k];}}}
-
-}
-}
-
-function pviiStyle(obj, new_style) {
-    obj.className = new_style;
-}
-
-function P7_N4hideIt(e) { //v1.2 by PVII
- var b=e.target;
- if(b.p7N4hide==true) {b.visibility="hidden";}
-}
-
-function P7_N4autoHide() { //v1.2 by PVII
- if(!document.layers)return;
- var args=P7_N4autoHide.arguments;
- p7N4 = new Array();
- for (var k=0;k<(args.length);k++) {
-   if ((g=MM_findObj(args[k]))!=null) {
-    g.captureEvents(Event.MOUSEOUT);
-    g.onmouseout = P7_N4hideIt;
-    g.p7N4hide=true;}}
-}		
-
-</script><td colspan="3"><a href="navskip" alt="Skip to Section Navigation"></a><a href="navskip2" alt="Skip to Main Content"></a><table border="0" cellpadding="0" cellspacing="0" width="740" bgcolor="#006699"><tbody><tr><td rowspan="3"><a href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=index.xml"><img src="/pic/common/logo_blue.gif" width="164" height="60" alt="Accenture Home" border="0"></a></td><td rowspan="3" background="/pic/common/white.gif"><img src="/pic/common/clear.gif" width="1" height="61" alt="" border="0"></td><td colspan="3"><img src="/pic/common/clear.gif" width="3" height="24" alt="" border="0"><a onmouseover="changeImages3('cavnar12','m12a'); changeImages3('cavnar17','m17a');P7_autoLayers(0,'layerLocations')" onmouseout="changeImages3('cavnar12','m12');changeImages3('cavnar17','m17')" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=locations\location_home.xml"><img name="cavnar12" src="/txtimg/en/topnav/locations3_off.gif" width="56" height="24" alt="Locations" border="0"><script language="javascript"> 
-		if (document.layers) { document.write('<img name="cavnar17" src="/pic/common/clear.gif" border="0" width="1" height="13" alt="">'); }  else { document.write('<img name="cavnar17" src="/pic/common/arrow_off.gif" border="0" width="9" height="13" alt="">');}
-	</script><img name="cavnar17" src="/pic/common/arrow_off.gif" border="0" width="9" height="13" alt=""></a><a onmouseover="changeImages3('cavnar2','m2a');P7_autoLayers(0)" onmouseout="changeImages3('cavnar2','m2')" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=aboutus\about_home.xml"><img name="cavnar2" src="/txtimg/en/topnav/about_off.gif" width="92" height="24" alt="About Us" border="0"></a><a onmouseover="changeImages3('cavnar14','m14a');P7_autoLayers(0)" onmouseout="changeImages3('cavnar14','m14')" href="http://investor.accenture.com"><img name="cavnar14" src="/txtimg/en/topnav/inv_off.gif" width="100" height="24" alt="Investor Relations" border="0"></a><a onmouseover="changeImages3('cavnar3','m3a');P7_autoLayers(0)" onmouseout="changeImages3('cavnar3','m3')" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=help\help_home.xml"><img name="cavnar3" src="https://web.archive.org/txtimg/en/topnav/help_over.gif" width="37" height="24" alt="Help" border="0"></a><a onmouseover="changeImages3('cavnar4','m4a');P7_autoLayers(0)" onmouseout="changeImages3('cavnar4','m4')" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=contactus\global_contact.xml"><img name="cavnar4" src="/txtimg/en/topnav/contact_off.gif" width="60" height="24" alt="Contact Us" border="0"></a></td></tr><tr><td colspan="3" background="/pic/common/white.gif" height="1"><img src="/pic/common/clear.gif" width="575" height="1" alt="" border="0"></td></tr><tr><td colspan="3"><img src="/pic/common/clear.gif" width="3" height="26" alt="" border="0"><a onmouseover="changeImages3('cavnar5','m5a');changeImages3('cavnar15','m15a');P7_autoLayers(0,'layerIndustries')" onmouseout="changeImages3('cavnar5','m5');changeImages3('cavnar15','m15')" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=industries\industries_home.xml"><img name="cavnar5" src="/txtimg/en/topnav/industries2_off.gif" width="63" height="26" alt="Industries" border="0"><script language="javascript"> if (document.layers) { document.write('<img name="cavnar15" src="/pic/common/clear.gif" border="0" width="1" height="13" alt="">'); } else { document.write('<img name="cavnar15" src="/pic/common/arrow_off.gif" border="0" width="9" height="13" alt="">'); } </script><img name="cavnar15" src="/pic/common/arrow_off.gif" border="0" width="9" height="13" alt=""></a><img src="/pic/common/clear.gif" width="9" height="26" alt="" border="0"><a onmouseover="changeImages3('cavnar6','m6a');changeImages3('cavnar16','m16a');P7_autoLayers(0,'layerServices')" onmouseout="changeImages3('cavnar6','m6'); changeImages3('cavnar16','m16')" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=services\services_home.xml"><img name="cavnar6" src="/txtimg/en/topnav/services2_off.gif" width="54" height="26" alt="Services" border="0"><script language="javascript"> if (document.layers) { document.write('<img name="cavnar16" src="/pic/common/clear.gif" border="0" width="1" height="13" alt="">'); } else { document.write('<img name="cavnar16" src="/pic/common/arrow_off.gif" border="0" width="9" height="13" alt="">'); } </script><img name="cavnar16" src="/pic/common/arrow_off.gif" border="0" width="9" height="13" alt=""></a><img src="/pic/common/clear.gif" width="10" height="26" alt="" border="0"><a onmouseover="changeImages3('cavnar8','m8a'); P7_autoLayers(0)" onmouseout="changeImages3('cavnar8','m8')" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=ideas\ideas_home.xml"><img name="cavnar8" src="/txtimg/en/topnav/research2_off.gif" width="120" height="26" alt="Research &amp; Insights" border="0"></a><img src="/pic/common/clear.gif" width="10" height="26" alt="" border="0"><a onmouseover="changeImages3('cavnar9','m9a'); P7_autoLayers(0)" onmouseout="changeImages3('cavnar9','m9')" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=clients\clients_home.xml"><img name="cavnar9" src="/txtimg/en/topnav/casestudies2_off.gif" width="79" height="26" alt="Case Studies" border="0"></a><img src="/pic/common/clear.gif" width="10" height="26" alt="" border="0"><a onmouseover="changeImages3('cavnar10','m10a'); P7_autoLayers(0)" onmouseout="changeImages3('cavnar10','m10')" href="http://careers3.accenture.com"><img name="cavnar10" src="/txtimg/en/topnav/careers2_off.gif" width="50" height="26" alt="Careers" border="0"></a><img src="/pic/common/clear.gif" width="10" height="26" alt="" border="0"><a onmouseover="changeImages3('cavnar11','m11a'); P7_autoLayers(0)" onmouseout="changeImages3('cavnar11','m11')" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=events\events_home.xml"><img name="cavnar11" src="/txtimg/en/topnav/events2_off.gif" width="47" height="26" alt="Events" border="0"></a><img src="/pic/common/clear.gif" width="10" height="26" alt="" border="0"><a onmouseover="changeImages3('cavnar13','m13a'); P7_autoLayers(0)" onmouseout="changeImages3('cavnar13','m13')" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=_dyn\newsroomhome.xml"><img name="cavnar13" src="/txtimg/en/topnav/newsroom3_off.gif" width="69" height="26" alt="Newsroom" border="0"></a></td></tr></tbody></table></td><script>
-clicker();
-</script><!--googleon: all--></tr><tr height="2"><td><img src="/pic/common/clear.gif" width="164" height="2" border="0"></td><td colspan="2"><img src="/pic/common/clear.gif" width="1" height="2" border="0"></td></tr><tr><td colspan="3"><script>
+</script><td colspan="3"><table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#ffffff"><tbody><tr><td width="500" valign="top"><img id="bannertxt" name="bannertxt" width="500" height="94" alt="" border="0" usemap="#logomap"><map name="logomap"><area alt="Accenture" shape="rect" coords="19,41,169,85" href="/xd/xd.asp?it=enweb&amp;xd=index.xml"></map></td><td width="280"><img id="bannerimg" name="bannerimg" width="280" height="94" border="0" usemap="#hpbmap"><map name="hpbmap"><area alt="High performance starts here" shape="rect" coords="22,73,187,85" href="/xd/xd.asp?it=enweb&amp;xd=services\hpb\hpb_home.xml"></map></td><td><img onload="random_img();" src="/pic/common/clear.gif" width="1" height="1" alt="" border="0"></td><td width="100%"><div style="position:absolute; left:521px; top:4px; width:155px; z-index:1;"><script>
 		function setSearchParams()
 		{
 			if (document.search.search_select.value == "main_locations")
@@ -503,216 +1012,53 @@ clicker();
 				document.search.search_location_text.value = document.search.slocation_temp.value;
 			}
 		}
-	</script><script>
-		z1 = new Image();  	
-			z1.src = "/pic/common/blue_square.gif"
-		z2 = new Image();  	
-			z2.src = "/pic/common/blue_square_o.gif"
-			
-		
-		function changeImages2() {
-		  if (document.images) {
-		    for (var i=0; i<changeImages2.arguments.length; i+=2) {
-		      document[changeImages2.arguments[i]].src = eval(changeImages2.arguments[i+1] + ".src");
-		    }
-		  }
-		}
-		
-		</script><table border="0" cellspacing="0" cellpadding="0" width="740"><tbody><tr valign="middle"><td align="left"><img src="/pic/common/clear.gif" width="15" height="1" border="0" alt=""></td><td width="497" class="red" valign="top"><img src="/pic/common/clear.gif" width="15" height="4" border="0" alt=""><br><a onmouseover="changeImages2('rs','z2')" onmouseout="changeImages2('rs','z1')" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=help\help_home.xml"><img name="rs" src="/pic/common/blue_square.gif" width="7" height="7" border="0"></a>
-			&nbsp;&nbsp;<a class="searchlink" onmouseover="changeImages2('rs','z2')" onmouseout="changeImages2('rs','z1')" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=help\help_home.xml">Help</a></td><form onsubmit="setSearchParams()" name="search" method="get" action="http://search.accenture.com/search/search.aspx"></form><td align="right" valign="middle"><input type="hidden" name="filter" value="0"><input type="hidden" name="getfields" value="abstract"><input type="hidden" name="ie" value="utf8"><input type="hidden" name="output" value="xml_no_dtd"><input type="hidden" name="client" value="accenture"><input type="hidden" name="lr" value=""><input type="hidden" name="proxystylesheet" value=""><input type="hidden" name="oe" value="utf8"><input type="hidden" name="proxycustom" value=""><input type="hidden" name="site" value="accenture"><input type="hidden" name="search_in" value=""><input type="hidden" name="search_main" value=""><input type="hidden" name="search_location_text" value=" Help "><input type="hidden" name="slocation_temp" value=" Help "><input type="hidden" name="restrict" value=""><input type="text" name="q" size="25" maxlength="255" label="Enter parameters to search for"></td><td align="right" valign="middle"><input type="hidden" name="search_select" value="main"></td><td><img src="/pic/common/clear.gif" width="2" height="1" border="0" alt=""></td><td align="right" valign="middle"><input type="image" name="go" value="submit" src="/pic/topnav/level4/search_button.gif" alt="Click to begin Search" border="0"></td></tr></tbody></table></td></tr><tr valign="top"><td></td><td colspan="2"><img src="/pic/common/clear.gif" width="1" height="2" border="0" align="top"></td></tr><tr valign="top"><td align="left" onmouseover="P7_autoLayers(0)"><!--googleoff: all--><table width="165" border="0" cellspacing="5" cellpadding="0"><tbody><tr valign="top"><td align="left"><img src="/pic/common/clear.gif" width="5" height="1" border="0"></td><td align="left"><a onmouseover="javascript:changeimages('IDAJVH2I','/pic/common/blue_square_o.gif');" onmouseout="javascript:changeimages('IDAJVH2I','/pic/common/blue_square.gif');" class="leftnav" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=help\help_faq.xml"><img src="/pic/common/blue_square.gif" name="IDAJVH2I" width="7" height="7" border="0" hspace="0" vspace="4"></a></td><td align="left"><a onmouseover="javascript:changeimages('IDAJVH2I','/pic/common/blue_square_o.gif');" onmouseout="javascript:changeimages('IDAJVH2I','/pic/common/blue_square.gif');" class="leftnav" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=help\help_faq.xml">General Questions</a></td><td align="left"><img src="/pic/common/clear.gif" width="10" height="1" border="0"></td></tr><tr valign="top"><td align="left"><img src="/pic/common/clear.gif" width="5" height="1" border="0"></td><td align="left"><img src="/pic/common/red_square.gif" name="IDANVH2I" width="7" height="7" border="0" hspace="0" vspace="4"></td><td align="left"><span class="red">Privacy Policy</span></td><td align="left"><img src="/pic/common/clear.gif" width="10" height="1" border="0"></td></tr><tr valign="top"><td align="left"><img src="/pic/common/clear.gif" width="5" height="1" border="0"></td><td align="left"><a onmouseover="javascript:changeimages('IDARVH2I','/pic/common/blue_square_o.gif');" onmouseout="javascript:changeimages('IDARVH2I','/pic/common/blue_square.gif');" class="leftnav" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=help\help_sitemap.xml"><img src="/pic/common/blue_square.gif" name="IDARVH2I" width="7" height="7" border="0" hspace="0" vspace="4"></a></td><td align="left"><a onmouseover="javascript:changeimages('IDARVH2I','/pic/common/blue_square_o.gif');" onmouseout="javascript:changeimages('IDARVH2I','/pic/common/blue_square.gif');" class="leftnav" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=help\help_sitemap.xml">Site Map</a></td><td align="left"><img src="/pic/common/clear.gif" width="10" height="1" border="0"></td></tr><tr valign="top"><td align="left"><img src="/pic/common/clear.gif" width="5" height="1" border="0"></td><td align="left"><a onmouseover="javascript:changeimages('IDAVVH2I','/pic/common/blue_square_o.gif');" onmouseout="javascript:changeimages('IDAVVH2I','/pic/common/blue_square.gif');" class="leftnav" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=help\help_tech.xml"><img src="/pic/common/blue_square.gif" name="IDAVVH2I" width="7" height="7" border="0" hspace="0" vspace="4"></a></td><td align="left"><a onmouseover="javascript:changeimages('IDAVVH2I','/pic/common/blue_square_o.gif');" onmouseout="javascript:changeimages('IDAVVH2I','/pic/common/blue_square.gif');" class="leftnav" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=help\help_tech.xml">Technical Questions</a></td><td align="left"><img src="/pic/common/clear.gif" width="10" height="1" border="0"></td></tr><tr valign="top"><td align="left"><img src="/pic/common/clear.gif" width="5" height="1" border="0"></td><td align="left"><a onmouseover="javascript:changeimages('IDAZVH2I','/pic/common/blue_square_o.gif');" onmouseout="javascript:changeimages('IDAZVH2I','/pic/common/blue_square.gif');" class="leftnav" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=legal\legal.xml"><img src="/pic/common/blue_square.gif" name="IDAZVH2I" width="7" height="7" border="0" hspace="0" vspace="4"></a></td><td align="left"><a onmouseover="javascript:changeimages('IDAZVH2I','/pic/common/blue_square_o.gif');" onmouseout="javascript:changeimages('IDAZVH2I','/pic/common/blue_square.gif');" class="leftnav" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=legal\legal.xml">Terms of Use</a></td><td align="left"><img src="/pic/common/clear.gif" width="10" height="1" border="0"></td></tr><tr></tr><tr></tr><tr><td></td><td colspan="2"><br><img src="/pic/common/purple.gif" width="132" height="2" alt="" border="0"><font color="black"><b><br><script>
-			 	
-			
-			 url_array = tmpURL.split("}");
-			 if (url_array[1] == "esWeb&xd")
-			 {
-			 	document.write("Últimas páginas" + '<img src="/pic/common/white.gif" width="1" height="2">' + "visitadas");
-			 }
-			 else if (url_array[1] == "esweb&xd")
-			 {
-			 	document.write("Últimas páginas" + '<img src="/pic/common/white.gif" width="1" height="2">' + "visitadas");
-			 }
-			 else if (url_array[1] == "arWeb&xd")
-			 {
-			
-				document.write("Páginas recientemente" + '<img src="/pic/common/white.gif" width="1" height="4">' + "visitadas");
-			 }
-			 else if (url_array[1] == "arweb&xd")
-			 {
-			
-				document.write("Páginas recientemente" + '<img src="/pic/common/white.gif" width="1" height="4">' + "visitadas");
-			 }
-
-
- else if (url_array[1] == "deWeb&xd")
-			 {
-			
-				document.write("Diese Seiten haben Sie zuletzt aufgerufen");
-			 }
-
-
-
- else if (url_array[1] == "deweb&xd")
-			 {
-			
-				document.write("Diese Seiten haben Sie zuletzt aufgerufen");
-			 }
-
-
-
-
-
-
-			 else if (url_array[1] == "itWeb&xd")
-			 {
-			 	document.write(" Pagine viste precedentemente");
-			 }
-			 else if (url_array[1] == "itweb&xd")
-			 {
-			 	document.write(" Pagine viste precedentemente");
-			 }
-			 else if (url_array[1] == "frWeb&xd")
-			 {
-			 	
-			 	document.write(" Dernières pages vues");
-			 }
-			 else if (url_array[1] == "frweb&xd")
-			 {
-			 	
-			 	document.write(" Dernières pages vues");
-			 }
-			 else if (url_array[1] == "slweb&xd")
-			 {
-			 	document.write("Posledné navštívené stránky");
-			 }
-			 else if (url_array[1] == "slWeb&xd")
-			 {
-			 	document.write("Posledné navštívené stránky");
-			 }
-			 else if (url_array[1] == "csweb&xd")
-			 {
-			 	document.write("Poslední navštívené stránky");
-			 }
-			 else if (url_array[1] == "csWeb&xd")
-			 {
-			 	document.write("Poslední navštívené stránky");
-			 }
-			 else if (url_array[1] == "huweb&xd")
-			 {
-			 	document.write("Legutóbb megnézett oldalak");
-			 }
-			 else if (url_array[1] == "huWeb&xd")
-			 {
-			 	document.write("Legutóbb megnézett oldalak");
-			 }
-			 else if (url_array[1] == "daWeb&xd")
-			 {
-			 	document.write("Sidst besøgte sider");
-			 }
- 			 else if (url_array[1] == "daweb&xd")
-			 {
-			 	document.write("Sidst besøgte sider");
-			 }
-			 else if (url_array[1] == "svweb&xd")
-			 {
-			 	document.write("Senast besökta sidor");
-			 }
-			 else if (url_array[1] == "svWeb&xd")
-			 {
-			 	document.write("Senast besökta sidor");
-			 }
-			 else if (url_array[1] == "noWeb&xd")
-			 {
-			 	document.write("Siste besøkte sider");
-			 }
-			 else if (url_array[1] == "noweb&xd")
-			 {
-			 	document.write("Siste besøkte sider");
-			 }
-			 else if (url_array[1] == "ruWeb&xd")
-			 {
-			 	document.write("Последние просмотренные страницы");
-			 }
-			 else if (url_array[1] == "ruweb&xd")
-			 {
-			 	document.write("Последние просмотренные страницы");
-			 }
-
-			 else if (url_array[1] == "mxWeb&xd")
-			 {
-			 	document.write("Paginas Vistas Recientemente");
-			 }
-			 else if (url_array[1] == "mxweb&xd")
-			 {
-			 	document.write("Paginas Vistas Recientemente");
-			 }
-
- 			else if (url_array[1] == "cnweb&xd")
-			 {
-			 	document.write("您最近浏览的页面");
-			 }
-
-
- else if (url_array[1] == "tuWeb&xd")
-			 {
-			 	document.write("En son görüntülenen sayfalar");
-			 }
-			 else if (url_array[1] == "tuweb&xd")
-			 {
-			 	document.write("En son görüntülenen sayfalar");
-			 }
-
-
-			// else if (url_array[1] == "neWeb&xd")
-			 //{
-			 	//document.write("Laatst bezochte pagina's");
-			 //}
-			 else 
-			 {
-				document.write("Recently Viewed Pages");
-			 }
-			</script>Recently Viewed Pages</b></font><br><br><script>
-if (thisCookie != null) 
-{ 	
-		for (i=0; i < 4; i++)
-		{	 
-			DrawLink(cookie_array[i]);
-			if (noSpaceURL == cookie_array[i]) 
-			{	
-				 flag = 2;
-				 intmatch = i; 
-			}
-		}
-} 
-//else 
-//{ 	
-	//document.cookie = "rva=" + title_url; 
-	
-//} 
-
-thisCookie = ""; 
-flag = 0;
-i = 0;
-intmatch = 0;
-cookie_array = "";
-cookie_string = "";
-title_url =  "";
-quick = "";
-</script></td></tr></tbody></table><!--googleon: all--></td><td onmouseover="P7_autoLayers(0)"><script>// used for email friend
+	</script><table border="0" cellspacing="0" cellpadding="0"><tbody><tr valign="middle"><form onsubmit="setSearchParams()" name="search" method="get" action="http://search.accenture.com/search/search.aspx"></form><td align="right" valign="middle"><input type="hidden" name="filter" value="0"><input type="hidden" name="getfields" value="abstract"><input type="hidden" name="ie" value="utf8"><input type="hidden" name="output" value="xml_no_dtd"><input type="hidden" name="client" value="accenture"><input type="hidden" name="lr" value=""><input type="hidden" name="proxystylesheet" value=""><input type="hidden" name="oe" value="utf8"><input type="hidden" name="proxycustom" value=""><input type="hidden" name="site" value="accenture"><input type="hidden" name="search_in" value=""><input type="hidden" name="search_main" value=""><input type="hidden" name="search_location_text" value=""><input type="hidden" name="slocation_temp" value=""><input type="hidden" name="restrict" value=""><input type="text" name="q" onfocus="this.value='';" style="height:20px; width:180px; font-size:11px;" maxlength="255" label="Enter parameters to search for" value="Search accenture.com"></td><td align="right" valign="middle"><input type="hidden" name="search_select" value="main"></td><td><img src="/pic/common/clear.gif" width="2" height="1" border="0" alt=""></td><td align="right" valign="middle"><input type="submit" name="go" style="cursor:hand; border-width:1px; border-color:#666666; height:20px; font-size:11px; color:#ffffff; background-color:#666666;" value="Search"></td></tr></tbody></table></div></td></tr><tr bgcolor="#ffffff"><td valign="top" colspan="4"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="20"><img src="/pic/common/clear.gif" width="20" height="1" alt="" border="0"></td><td width="100%"><img src="/pic/r1/signature.gif" width="148" height="24" hspace="0" alt="High performance. Delivered." border="0" align="left"><img src="/pic/common/clear.gif" width="1" height="5" alt="" border="0"><br><img src="/pic/common/clear.gif" width="40" height="1" alt="" border="0"><img name="canvar6" src="/pic/r1/nav_divider.gif" width="1" height="20" alt="" border="0"><a onmouseover="changeImages3('cavnar1','m1a','canvar6','m6a','canvar7','m7a')" onmouseout="changeImages3('cavnar1','m1','canvar6','m6','canvar7','m7')" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=index.xml"><img name="cavnar1" src="/pic/r1/nav_home.gif" width="48" height="20" alt="Home" border="0"></a><img name="canvar7" src="/pic/r1/nav_divider.gif" width="1" height="20" alt="" border="0"><a onmouseover="changeImages3('cavnar2','m2a','canvar7','m7a','canvar8','m8a')" onmouseout="changeImages3('cavnar2','m2','canvar7','m7','canvar8','m8')" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=services\services_home.xml"><img name="cavnar2" src="/pic/r1/nav_services.gif" width="61" height="20" alt="Services" border="0"></a><img name="canvar8" src="/pic/r1/nav_divider.gif" width="1" height="20" alt="" border="0"><a onmouseover="changeImages3('cavnar3','m3a','canvar8','m8a','canvar9','m9a')" onmouseout="changeImages3('cavnar3','m3','canvar8','m8')" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=ideas\ideas_home.xml"><img name="cavnar3" src="/pic/r1/nav_research.gif" width="127" height="20" alt="Research &amp; Insights" border="0"></a><img name="canvar9" src="https://web.archive.org/pic/r1/nav_divider_on.gif" width="1" height="20" alt="" border="0"><a onmouseover="changeImages3('cavnar4','m4a','canvar9','m9a','canvar10','m10a')" onmouseout="changeImages3('cavnar4','m4')" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=aboutus\about_home.xml"><img name="cavnar4" src="https://web.archive.org/pic/r1/nav_about_on.gif" width="116" height="20" alt="About Accenture" border="0"></a><img name="canvar10" src="https://web.archive.org/pic/r1/nav_divider_on.gif" width="1" height="20" alt="" border="0"><a onmouseover="changeImages3('cavnar5','m5a','canvar10','m10a','canvar11','m11a')" onmouseout="changeImages3('cavnar5','m5','canvar11','m11')" href="http://careers3.accenture.com"><img name="cavnar5" src="/pic/r1/nav_careers.gif" width="57" height="20" alt="Careers" border="0"></a><img name="canvar11" src="/pic/r1/nav_divider.gif" width="1" height="20" alt="" border="0"></td></tr></tbody></table></td><td width="100%"></td></tr><tr bgcolor="#ffffff"><td colspan="5"><img src="/pic/common/clear.gif" width="1" alt="" height="25" border="0"></td></tr></tbody></table></td><script language="javascript">
+clicker();
+</script><!--googleon: all--></tr><tr valign="top"><td colspan="3" valign="top"><table width="780" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="20" valign="top"><img src="/pic/common/clear.gif" width="20" alt="" height="1" border="0"></td><td width="760" valign="top"><script>// used for email friend
 			var url=window.location;
 			var encode=escape(url);
-	</script><table border="0" width="575" cellspacing="0" cellpadding="0" align="left"><tbody><tr><td colspan="3" valign="top" align="right"><a href="javascript:popWindow(document.location + '&amp;xt=print.xslt','560','760','')"><!--googleoff: all--><img src="/pic/common/print.gif" border="0" width="77" height="18" alt="Printer-Friendly Version"><!--googleon: all--></a><!--googleoff: all--><a href="javascript:popWindow('/xd/xd.asp?it=enweb&amp;xd=_gen/email_this.xml','560','760','')"><img src="/pic/common/email.gif" border="0" width="79" height="18" alt="E-mail this link to a friend"></a><!--googleon: all--><br><img src="/pic/common/line.gif" border="0" width="156" height="5" alt=""><br><img src="/pic/common/clear.gif" border="0" width="156" height="8" alt=""></td></tr><tr><td valign="top"><h1>Accenture Privacy Statement</h1><!--googleoff: all--><!--googleon: all--><h2 class="grey"></h2><p><span class="bod"><strong>Your privacy on accenture.com</strong><br>This website is administered by Accenture. The primary purpose of
+</script><table border="0" width="760" cellspacing="0" cellpadding="0" align="left"><tbody><tr><td valign="top"><script type="text/javascript" language="JavaScript">
+		
+		var stylesheet_used = "layout_5.xslt";
+		stylesheet_used = stylesheet_used.replace(/ /gi,""); //trim spaces from XSLT stylesheet
+		
+		var accepted_stylesheet = (stylesheet_used == "r1_level3-r.xslt" || stylesheet_used == "r1_level3-r-short.xslt" || stylesheet_used == "r1_level3-2col.xslt" || stylesheet_used == "r1_level2.xslt");
+		var foreignweblocationhome = ("enweb" != "enweb" && stylesheet_used == "r1_levelloca.xslt");
+		var enweblocationhome = ("enweb" == "enweb" && stylesheet_used == "r1_levelloca.xslt" && (urlsplit.indexOf("=locations") != null) );
+		if (accepted_stylesheet == true){
+			xslt_accepted = true;
+		}
+		
+		</script><a href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=&#10;&#9;&#9;&#9;&#9;&#9;index.xml" class="elevenb">Global Home</a><img src="/pic/r1/arrow_breadcrumb.gif" hspace="4"><script type="text/javascript" language="JavaScript">
+				
+				if (GetBreadCookie("breadcookies") != null){
+					
+					var breadcrumb_ary = GetBreadCookie("breadcookies").split("!");
+					
+					for (i=1;i<=breadcrumb_ary.length-1;i++){ // build and output middle of breadcrumb trail
+						if ( breadcrumb_ary[i].split("~")[1] != urlsplit ){ // don't output if on actual page
+							var breadlink = '<a href="http://www.accenture.com/xd/xd.asp?it=';
+							breadlink += unescape(breadcrumb_ary[i].split("~")[1]);
+							breadlink += '" class="elevenb">';
+							breadlink += unescape(breadcrumb_ary[i].split("~")[0]) + '</a>';
+							document.write(breadlink);
+							document.write('<img src="/pic/r1/arrow_breadcrumb.gif" hspace="4"/>');
+						}
+					}
+				}
+				</script><span class="eleven">Accenture Privacy Policy</span><br><br><a name="navskip2"></a><h1>Accenture Privacy Policy</h1><h2></h2><br><p><strong>Your privacy on accenture.com</strong><br>This website is administered by Accenture. The primary purpose of
 		  accenture.com is to be a dynamic resource and business tool to help you create
 		  your future. We want you to feel secure when visiting our site and are
 		  committed to maintaining your privacy when doing so. 
-		</span></p><p><span class="bod"> The following provides an overview of how we protect your
+		</p><p> The following provides an overview of how we protect your
 		  privacy during your visit. 
-		</span></p><p><span class="bod"><strong>What information do we gather?</strong><br>Information on accenture.com is gathered in two ways: (1) indirectly (for
+		</p><p><strong>What information do we gather?</strong><br>Information on accenture.com is gathered in two ways: (1) indirectly (for
 		  example, through our site's technology); and (2) directly (for example, when
 		  you provide information on various pages of accenture.com). 
-		</span></p><p><span class="bod"> One example of information we collect indirectly is
+		</p><p> One example of information we collect indirectly is
 		  through our Internet access logs. When you access accenture.com, your Internet
 		  address is automatically collected and is placed in our Internet access logs. 
-		</span></p><p><span class="bod"> We collect information directly from you in a number of
+		</p><p> We collect information directly from you in a number of
 		  ways, some of which we describe in this Privacy Statement. One way is through
 		  the use of cookies. Cookies are small files of information which save and
 		  retrieve information about your visit to accenture.com—for example, how you
@@ -721,18 +1067,18 @@ quick = "";
 		  are uncomfortable regarding cookies use, please keep in mind you can disable
 		  cookies on your computer by changing the settings in preferences or options
 		  menu in your browser.) 
-		</span></p><p><span class="bod"> We also collect information when you voluntarily submit
+		</p><p> We also collect information when you voluntarily submit
 		  it to us. Throughout our site, we provide the opportunity to register for an
 		  event or conference, order a white paper, or participate in an online survey.
 		  When we collect this type of information, we will notify you as to why we are
 		  asking for information and how this information will be used. It is completely
 		  up to you whether or not you want to provide it. 
-		</span></p><p><span class="bod"><strong> How do we use this information?</strong><br>We analyze it to determine what is most effective about our site, to help
+		</p><p><strong> How do we use this information?</strong><br>We analyze it to determine what is most effective about our site, to help
 		  us identify ways to improve it, and eventually, to determine how we can tailor
 		  accenture.com to make it more effective. We may also use data for other
 		  purposes, which we would describe to you at the point we collect the
 		  information. 
-		</span></p><p><span class="bod"><strong>Will we share this with outside
+		</p><p><strong>Will we share this with outside
 		  parties?</strong><br>As a global organization, data we collect may be
 		  transferred internationally throughout Accenture's worldwide organization. We
 		  will not sell individual information and will share it only with our advisors.
@@ -741,7 +1087,7 @@ quick = "";
 		  information. But again, before you submit any information, we will notify you
 		  as to why we are asking for specific information and it is completely up to you
 		  whether or not you want to provide it. 
-		</span></p><p><span class="bod"><strong>What about sensitive personal data?</strong><br>We do not generally seek to collect sensitive personal data through this
+		</p><p><strong>What about sensitive personal data?</strong><br>We do not generally seek to collect sensitive personal data through this
 		  site. If we do seek to collect such data, we will ask you to consent to our
 		  proposed uses of the data. We may also collect some sensitive personal data
 		  incidentally. By providing us with unsolicited sensitive personal data, you
@@ -756,22 +1102,147 @@ quick = "";
 		  a trade union or profession or trade association, physical or mental health,
 		  genetic code, addictions, sexual life, property matters or criminal record
 		  (including information about suspected criminal activities). 
-		</span></p><p><span class="bod"><strong>Do we give you access to your
+		</p><p><strong>Do we give you access to your
 		  information?</strong><br>You are entitled to know whether we hold
 		  information about you and, if we do, to have access to that information and
-		  require it to be corrected if it is inaccurate. You can do this by contacting
-		  us via our webmaster at <a href="javascript:popWindow('http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=_gen^mailto.xml&amp;alias=webmaster@accenture.com','600','700','');" title="Opens pop-up window">webmaster@accenture.com</a>. 
-		</span></p><p><span class="bod"><strong>What about data security?</strong><br>We take
+		  require it to be corrected if it is inaccurate. You can do this by
+		  <a href="javascript:popWindow('http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=_gen^mailto.xml&amp;alias=accenture.direct@accenture.com','600','700','');" title="Opens pop-up window">sending us an e-mail</a>. 
+		</p><p><strong>What about data security?</strong><br>We take
 		  appropriate steps to maintain the security of your data on accenture.com. You
 		  should understand that the open nature of the Internet is such that data may
 		  flow over networks without security measures and may be accessed and used by
 		  people other than those for whom the data is intended. 
-		</span></p><p><span class="bod"> That's it in a nutshell. The short of it is—we are
+		</p><p> That's it in a nutshell. The short of it is—we are
 		  interested in maintaining your privacy and creating a valuable resource for you
-		  to use. If you have any questions now or during your visit, please contact us
-		  via our webmaster at <a href="javascript:popWindow('http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=_gen^mailto.xml&amp;alias=webmaster@accenture.com','600','700','');" title="Opens pop-up window">webmaster@accenture.com</a>. 
-		</span></p><p><span class="bod"><table style="display:none"><tbody><tr><td><a href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=privacy\privacy.xml"></a></td></tr></tbody></table><a href="javascript:doBookmark('http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=privacy\\privacy.xml#top')">To Top</a></span></p></td><td width="15"><img src="/pic/common/clear.gif" width="15" height="1" border="0" alt="" align="left"></td><td valign="top" width="137"><p><span class="bod"></span></p></td></tr></tbody></table></td></tr><tr><td></td><!--googleoff: all--><td align="right" valign="middle" class="copyright"><span class="copyright"><br>©1996-2003 Accenture All Rights Reserved&nbsp;&nbsp;<a class="legal" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=legal\legal.xml">Terms of Use</a>&nbsp;&nbsp;<a class="legal" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=privacy\privacy.xml">Privacy Statement</a>
-			&nbsp;&nbsp;&nbsp;&nbsp;</span><br>&nbsp;
-		</td><!--googleon: all--></tr></tbody></table><!--googleoff: all--><div id="layerIndustries" style="position:absolute; left:165px; top:61px; width:155px; z-index:2; visibility: hidden"><table width="155" border="0" bgcolor="#006699" cellspacing="0" cellpadding="0"></table><table width="155" border="0" bgcolor="#006699" cellspacing="0" cellpadding="2"><tbody><tr><td onmouseover="pviiStyle(this,'menucellover3'); P7_autoLayers(0, 'layerIndustries')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=industries\products\airline\air_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Airline<img src="/pic/common/clear.gif" width="117" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3'); P7_autoLayers(0, 'layerIndustries')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=industries\products\automotive\auto_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Automotive<img src="/pic/common/clear.gif" width="93" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=industries\financial\banking\bank_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Banking<img src="/pic/common/clear.gif" width="109" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=industries\financial\capital\capmark_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Capital Markets<img src="/pic/common/clear.gif" width="74" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3'); P7_autoLayers(0, 'layerIndustries')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=industries\resources\chemical\chem_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Chemicals<img src="/pic/common/clear.gif" width="98" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3'); P7_autoLayers(0, 'layerIndustries')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=industries\communications\communications\commu_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Communications<img src="/pic/common/clear.gif" width="69" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3'); P7_autoLayers(0, 'layerIndustries')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=industries\products\cgs\cgs_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Consumer Goods &amp; Services<img src="/pic/common/clear.gif" width="7" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3'); P7_autoLayers(0, 'layerIndustries')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=industries\communications\high-tech\elec_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Electronics &amp; High Tech<img src="/pic/common/clear.gif" width="33" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3'); P7_autoLayers(0, 'layerIndustries')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=industries\resources\energy\energy_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Energy<img src="/pic/common/clear.gif" width="113" height="10" border="0"></a></td></tr><tr><td valign="middle" onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onmouseover="P7_autoLayers(0,'layerFS','layerIndustries')" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=industries\financial\financial_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Financial Services
-<img src="/pic/common/clear.gif" width="56" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3'); P7_autoLayers(0, 'layerIndustries')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=industries\resources\naturalresources\forest\forest_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Forest Products<img src="/pic/common/clear.gif" width="70" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3'); P7_autoLayers(0, 'layerIndustries')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=industries\products\freight\freight_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Freight &amp; Logistics<img src="/pic/common/clear.gif" width="58" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3'); P7_autoLayers(0, 'layerIndustries')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=industries\government\gov_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Government<img src="/pic/common/clear.gif" width="88" height="10" border="0"></a></td></tr><tr><td valign="middle" onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onmouseover="P7_autoLayers(0,'layerHLS','layerIndustries')" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=industries\hls\hls_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Health &amp; Life Sciences
-<img src="/pic/common/clear.gif" width="20" height="10" border="0"><img src="/pic/common/arrowrite.gif" border="0" width="9" height="9" alt=""></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3'); P7_autoLayers(0, 'layerIndustries')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=industries\products\industrial\indu_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Industrial Equipment<img src="/pic/common/clear.gif" width="52" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=industries\financial\insurance\insu_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Insurance<img src="/pic/common/clear.gif" width="99" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3'); P7_autoLayers(0, 'layerIndustries')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=industries\communications\media\media_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Media &amp; Entertainment<img src="/pic/common/clear.gif" width="41" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3'); P7_autoLayers(0, 'layerIndustries')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=industries\hls\medical\medical_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Medical Products<img src="/pic/common/clear.gif" width="41" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3'); P7_autoLayers(0, 'layerIndustries')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=industries\resources\metal\meta_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Metals &amp; Mining<img src="/pic/common/clear.gif" width="73" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3'); P7_autoLayers(0, 'layerIndustries')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=industries\hls\pharma\pharma_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Pharmaceuticals<img src="/pic/common/clear.gif" width="41" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3'); P7_autoLayers(0, 'layerIndustries')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=industries\products\rail\rail_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Rail<img src="/pic/common/clear.gif" width="130" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3'); P7_autoLayers(0, 'layerIndustries')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=industries\products\retail\retail_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Retail<img src="/pic/common/clear.gif" width="121" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3'); P7_autoLayers(0, 'layerIndustries')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=industries\products\travel\travel_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Travel Services<img src="/pic/common/clear.gif" width="71" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3'); P7_autoLayers(0, 'layerIndustries')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=industries\resources\utilities\utilities_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Utilities<img src="/pic/common/clear.gif" width="114" height="10" border="0"></a></td></tr></tbody></table></div><div id="layerServices" style="position:absolute; left:244px; top:61px; width:195px; z-index:4; visibility: hidden"><table width="195" border="0" bgcolor="#006699" cellspacing="0" cellpadding="0"></table><table width="195" border="0" bgcolor="#006699" cellspacing="0" cellpadding="2"><tbody><tr><td onmouseover="pviiStyle(this,'menucellover3'); P7_autoLayers(0, 'layerServices')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=services\afs\afs_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Accenture Finance Solutions<img src="/pic/common/clear.gif" width="45" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3'); P7_autoLayers(0, 'layerServices')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=services\hp\hp_hrservices.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Accenture HR Services<img src="/pic/common/clear.gif" width="70" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3'); P7_autoLayers(0, 'layerServices')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=services\learn\learn_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Accenture Learning<img src="/pic/common/clear.gif" width="88" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3'); P7_autoLayers(0, 'layerServices')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=services\technology\tech_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Accenture Technology Labs<img src="/pic/common/clear.gif" width="47" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3'); P7_autoLayers(0, 'layerServices')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=services\business\business_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Business Intelligence<img src="/pic/common/clear.gif" width="83" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3'); P7_autoLayers(0, 'layerServices')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=services\crm\crm_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Customer Relationship Management<img src="/pic/common/clear.gif" width="13" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3'); P7_autoLayers(0, 'layerServices')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=services\integration\integration_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Enterprise Integration<img src="/pic/common/clear.gif" width="82" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3'); P7_autoLayers(0, 'layerServices')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=services\enterprise\enterprise_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Enterprise Solutions<img src="/pic/common/clear.gif" width="88" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onmouseover="P7_autoLayers(0,'layerFPM','layerServices')" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=services\finance\fpm_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Finance &amp; Performance Management<img src="/pic/common/clear.gif" width="7" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onmouseover="P7_autoLayers(0,'layerHP','layerServices')" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=services\hp\hp_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Human Performance<img src="/pic/common/clear.gif" width="86" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3'); P7_autoLayers(0, 'layerServices')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=services\microsoft\mso_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Microsoft Solutions<img src="/pic/common/clear.gif" width="92" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3'); P7_autoLayers(0, 'layerServices')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=services\mobile\mobile_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Mobile Solutions<img src="/pic/common/clear.gif" width="107" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3'); P7_autoLayers(0, 'layerServices')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=services\bpm\bpm_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Outsourcing<img src="/pic/common/clear.gif" width="125" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3'); P7_autoLayers(0, 'layerServices')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=services\secsol\secsol_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Security Solutions<img src="/pic/common/clear.gif" width="97" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3'); P7_autoLayers(0, 'layerServices')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=services\sba\sba_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Strategy &amp; Business Architecture<img src="/pic/common/clear.gif" width="22" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=services\scm\scm_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Supply Chain Management<img src="/pic/common/clear.gif" width="57" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=services\technical\technical_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Technical Architectures<img src="/pic/common/clear.gif" width="69" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=services\web\web_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Web Services<img src="/pic/common/clear.gif" width="116" height="10" border="0"></a></td></tr></tbody></table></div><div id="layerHLS" style="position:absolute; left:323px; top:295px; width:110px; z-index:8; visibility: hidden"><table width="110" border="0" bgcolor="#006699" cellspacing="0" cellpadding="2"><tbody><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=industries\hls\healthplans\healthplans_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Health Plans<img src="/pic/common/clear.gif" width="30" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=industries\hls\government\government_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Government<img src="/pic/common/clear.gif" width="30" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=industries\hls\medical\medical_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Medical Products<img src="/pic/common/clear.gif" width="7" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=industries\hls\pharma\pharma_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Pharmaceuticals<img src="/pic/common/clear.gif" width="10" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=industries\hls\provider\provider_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Providers<img src="/pic/common/clear.gif" width="42" height="10" border="0"></a></td></tr></tbody></table></div><div id="layerLocations" style="position:absolute; left:165px; top:29px; width:100px; z-index:6; visibility: hidden"><table width="107" border="0" bgcolor="#006699" cellspacing="0" cellpadding="0"></table><table width="107" border="0" bgcolor="#006699" cellspacing="0" cellpadding="2"><tbody><tr><td valign="middle" onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onmouseover="P7_autoLayers(0,'layerLocAC','layerLocations')" onfocus="if(this.blur)this.blur()" href="#"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Locations A-C<img src="/pic/common/clear.gif" width="15" height="10" border="0"><img src="/pic/common/arrowrite.gif" border="0" width="9" height="9" alt=""></a></td></tr><tr><td valign="middle" onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onmouseover="P7_autoLayers(0,'layerLocDH','layerLocations')" onfocus="if(this.blur)this.blur()" href="#"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Locations D-H<img src="/pic/common/clear.gif" width="16" height="10" border="0"><img src="/pic/common/arrowrite.gif" border="0" width="9" height="9" alt=""></a></td></tr><tr><td valign="middle" onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onmouseover="P7_autoLayers(0,'layerLocIM','layerLocations')" onfocus="if(this.blur)this.blur()" href="#"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Locations I-M<img src="/pic/common/clear.gif" width="20" height="10" border="0"><img src="/pic/common/arrowrite.gif" border="0" width="9" height="9" alt=""></a></td></tr><tr><td valign="middle" onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onmouseover="P7_autoLayers(0,'layerLocNQ','layerLocations')" onfocus="if(this.blur)this.blur()" href="#"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Locations N-Q<img src="/pic/common/clear.gif" width="15" height="10" border="0"><img src="/pic/common/arrowrite.gif" border="0" width="9" height="9" alt=""></a></td></tr><tr><td valign="middle" onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onmouseover="P7_autoLayers(0,'layerLocRS','layerLocations')" onfocus="if(this.blur)this.blur()" href="#"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Locations R-S<img src="/pic/common/clear.gif" width="16" height="10" border="0"><img src="/pic/common/arrowrite.gif" border="0" width="9" height="9" alt=""></a></td></tr><tr><td valign="middle" onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onmouseover="P7_autoLayers(0,'layerLocTZ','layerLocations')" onfocus="if(this.blur)this.blur()" href="#"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Locations T-Z<img src="/pic/common/clear.gif" width="17" height="10" border="0"><img src="/pic/common/arrowrite.gif" border="0" width="9" height="9" alt=""></a></td></tr></tbody></table></div><div id="layerLocAC" style="position:absolute; left:272px; top:29px; width:100px; z-index:7; visibility: hidden"><table width="97" border="0" bgcolor="#006699" cellspacing="0" cellpadding="2"><tbody><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=locations\argentina\loca_argentina.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Argentina<img src="/pic/common/clear.gif" width="35" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=auweb&amp;xd=locations\australia\australia_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Australia<img src="/pic/common/clear.gif" width="38" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.at"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Austria<img src="/pic/common/clear.gif" width="48" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=locations\belgium\loca_belgium.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Belgium<img src="/pic/common/clear.gif" width="45" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=locations\bermuda\bermuda_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Bermuda<img src="/pic/common/clear.gif" width="45" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=locations\brazil\loca_brazil.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Brazil<img src="/pic/common/clear.gif" width="58" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://accenture.ca"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Canada<img src="/pic/common/clear.gif" width="45" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=locations\chile\loca_chile.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Chile<img src="/pic/common/clear.gif" width="62" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=cnweb&amp;xd=locations\china\china_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">China<img src="/pic/common/clear.gif" width="58" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=locations\colombia\loca_colombia.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Colombia<img src="/pic/common/clear.gif" width="40" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=locations\czechrepublic\czech_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Czech Republic<img src="/pic/common/clear.gif" width="10" height="10" border="0"></a></td></tr></tbody></table></div><div id="layerLocDH" style="position:absolute; left:272px; top:47px; width:95px; z-index:7; visibility: hidden"><table width="95" border="0" bgcolor="#006699" cellspacing="0" cellpadding="2"><tbody><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=daweb&amp;xd=locations\denmark\denmark_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Denmark<img src="/pic/common/clear.gif" width="40" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.fi/"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Finland<img src="/pic/common/clear.gif" width="49" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.fr"><img src="/pic/common/clear.gif" width="7" height="10" border="0">France<img src="/pic/common/clear.gif" width="49" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.de"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Germany<img src="/pic/common/clear.gif" width="40" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=locations\greece\loca_greece.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Greece<img src="/pic/common/clear.gif" width="45" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=locations\hongkong\hkong_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Hong Kong SAR<img src="/pic/common/clear.gif" width="3" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=locations\hungary\hungary_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Hungary<img src="/pic/common/clear.gif" width="40" height="10" border="0"></a></td></tr></tbody></table></div><div id="layerLocIM" style="position:absolute; left:272px; top:65px; width:90px; z-index:7; visibility: hidden"><table width="90" border="0" bgcolor="#006699" cellspacing="0" cellpadding="2"><tbody><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=locations\india\loca_india.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">India<img src="/pic/common/clear.gif" width="55" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=locations\indonesia\indo_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Indonesia<img src="/pic/common/clear.gif" width="29" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=irweb&amp;xd=locations\ireland\ireland_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Ireland<img src="/pic/common/clear.gif" width="46" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=locations\israel\israel_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Israel<img src="/pic/common/clear.gif" width="46" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=itweb&amp;xd=locations\italy\italy_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Italy<img src="/pic/common/clear.gif" width="55" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=jpweb&amp;xd=locations\japan\index.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Japan<img src="/pic/common/clear.gif" width="48" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=locations\korea\korea_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Korea<img src="/pic/common/clear.gif" width="48" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=locations\luxembourg\loca_luxembourg.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Luxembourg<img src="/pic/common/clear.gif" width="18" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=locations\malaysia\malay_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Malaysia<img src="/pic/common/clear.gif" width="33" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=mxweb&amp;xd=locations\mexico\mexico_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Mexico<img src="/pic/common/clear.gif" width="45" height="10" border="0"></a></td></tr></tbody></table></div><div id="layerLocNQ" style="position:absolute; left:272px; top:83px; width:90px; z-index:7; visibility: hidden"><table width="90" border="0" bgcolor="#006699" cellspacing="0" cellpadding="2"><tbody><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=nlweb&amp;xd=locations\nederland\nederland_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Netherlands<img src="/pic/common/clear.gif" width="20" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=locations\nigeria\nigeria_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Nigeria<img src="/pic/common/clear.gif" width="43" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=noweb&amp;xd=locations\norway\norway_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Norway<img src="/pic/common/clear.gif" width="36" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=locations\philippines\loca_philippines.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Philippines<img src="/pic/common/clear.gif" width="25" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=locations\poland\loca_poland.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Poland<img src="/pic/common/clear.gif" width="45" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=locations\portugal\loca_portugal.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Portugal<img src="/pic/common/clear.gif" width="35" height="10" border="0"></a></td></tr></tbody></table></div><div id="layerLocRS" style="position:absolute; left:272px; top:101px; width:97px; z-index:7; visibility: hidden"><table width="97" border="0" bgcolor="#006699" cellspacing="0" cellpadding="2"><tbody><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=ruweb&amp;xd=locations\russia\loca_russia_l.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Russia<img src="/pic/common/clear.gif" width="48" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=locations\saudiarabia\loca_saudiarabia.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Saudi Arabia<img src="/pic/common/clear.gif" width="21" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=locations\singapore\singa_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Singapore<img src="/pic/common/clear.gif" width="34" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=locations\slovakrepublic\slovak_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Slovak Republic<img src="/pic/common/clear.gif" width="10" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=afweb&amp;xd=locations\southafrica\southafrica_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">South Africa<img src="/pic/common/clear.gif" width="21" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=esweb&amp;xd=locations\spain\espana_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Spain<img src="/pic/common/clear.gif" width="55" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=svweb&amp;xd=locations\sweden\index.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Sweden<img src="/pic/common/clear.gif" width="40" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.ch"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Switzerland<img src="/pic/common/clear.gif" width="25" height="10" border="0"></a></td></tr></tbody></table></div><div id="layerLocTZ" style="position:absolute; left:272px; top:119px; width:130px; z-index:7; visibility: hidden"><table width="130" border="0" bgcolor="#006699" cellspacing="0" cellpadding="2"><tbody><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=locations\taiwan\taiwan_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Taiwan<img src="/pic/common/clear.gif" width="80" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=locations\thailand\loca_thailand.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Thailand<img src="/pic/common/clear.gif" width="74" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=tuweb&amp;xd=locations\turkey\loca_turkey.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Turkey<img src="/pic/common/clear.gif" width="80" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=locations\uae\loca_uae.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">United Arab Emirates<img src="/pic/common/clear.gif" width="15" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=ukweb&amp;xd=locations\ukingdom\uk_home.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">United Kingdom<img src="/pic/common/clear.gif" width="41" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=locations\unitedstates\loca_usa.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">United States<img src="/pic/common/clear.gif" width="51" height="10" border="0"></a></td></tr><tr><td onmouseover="pviiStyle(this,'menucellover3')" onmouseout="pviiStyle(this,'menucelloff3')"><a class="menulink" onfocus="if(this.blur)this.blur()" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=locations\venezuela\loca_venezuela.xml"><img src="/pic/common/clear.gif" width="7" height="10" border="0">Venezuela<img src="/pic/common/clear.gif" width="64" height="10" border="0"></a></td></tr></tbody></table></div><!--googleon: all--></body></html>
+		  to use. If you have any questions now or during your visit, please
+		  <a href="javascript:popWindow('http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=_gen^mailto.xml&amp;alias=accenture.direct@accenture.com','600','700','');" title="Opens pop-up window">contact us</a>. 
+		</p><p><!--googleoff: all--><a href="#top"><img src="/pic/r1/arrow_up.gif" alt="" border="0"><b>To Top</b></a><!--googleon: all--></p></td><td width="50"><img src="/pic/common/clear.gif" width="50" height="1" border="0" alt=""></td><td width="177" valign="top"><!--googleoff: all--><script language="javascript"> 
+			var templocationPath = document.location.href;
+				if (templocationPath.indexOf('#') >= 0){
+					var sharpIndex = templocationPath.indexOf('#');
+					var locationPath = templocationPath.substring(0, sharpIndex);
+				}
+				else {
+				var locationPath = templocationPath;
+				}
+		</script>
+		
+		&nbsp; &nbsp;<a href="javascript:popWindow(locationPath + '&amp;xt=print.xslt','560','760','')"><!--googleoff: all--><img src="/pic/r1/print_en.gif" border="0" alt="Print Article"><!--googleon: all--></a><br><img src="/pic/common/clear.gif" width="1" height="5" alt="" border="0"><br>
+		&nbsp; &nbsp;<!--googleoff: all--><a href="javascript:popWindow('/xd/xd.asp?it=enweb&amp;xd=_gen/email_this.xml','560','760','')"><img src="/pic/r1/email_en.gif" border="0" alt="E-mail to a Colleague"></a><!--googleon: all--><br><img src="/pic/common/clear.gif" width="1" height="15" alt="" border="0"><br><table border="0" cellpadding="0" cellspacing="0" height="100%"><tbody><tr><td width="1" background="/pic/r1/right_dots.gif"><img src="/pic/common/clear.gif" width="1" height="1" alt="" border="0"></td><td valign="top" width="100%"><table border="0" cellpadding="4" cellspacing="0" width="100%"><tbody><tr><td class="righthead"><img src="/pic/common/clear.gif" width="5" height="1" alt="" border="0">How may we help you?</td></tr></tbody></table><img src="/pic/common/clear.gif" width="176" height="1" alt="" border="0"><table border="0" cellpadding="1" cellspacing="0" width="100%"><tbody><tr><td valign="top" colspan="2"><img src="/pic/common/clear.gif" width="1" height="5" alt="" border="0"></td></tr><tr><td valign="top"><img src="/pic/common/clear.gif" width="9" height="1" alt="" border="0"><img src="/pic/r1/arrow_grey.gif" width="5" height="9" vspace="3" alt="" border="0"><img src="/pic/common/clear.gif" width="3" height="1" alt="" border="0"></td><td width="100%" class="grey"><a class="greylink" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=contactus\global_contact.xml">Contact Us</a><br><img src="/pic/common/clear.gif" width="1" height="4" alt="" border="0"><br>To discuss how we can help your organization, call 1 (312) 737-8842 or <a href="javascript:popWindow('http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=_gen^mailto.xml&amp;alias=accenture.direct@accenture.com','600','700','');">send us an e-mail</a><br><img src="/pic/common/clear.gif" width="1" height="4" alt="" border="0"></td></tr><tr><td valign="top"><img src="/pic/common/clear.gif" width="9" height="1" alt="" border="0"><img src="/pic/r1/arrow_grey.gif" width="5" height="9" vspace="3" alt="" border="0"><img src="/pic/common/clear.gif" width="3" height="1" alt="" border="0"></td><td width="100%" class="grey"><a class="greylink" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=new_personalize.xml">Your Content</a></td></tr><tr><td valign="top"><img src="/pic/common/clear.gif" width="9" height="1" alt="" border="0"><img src="/pic/r1/arrow_grey.gif" width="5" height="9" vspace="3" alt="" border="0"><img src="/pic/common/clear.gif" width="3" height="1" alt="" border="0"></td><td width="100%" class="grey"><a class="greylink" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=_fcn\fe_request_services.xml">Request for Services</a></td></tr><tr><td valign="top"><img src="/pic/common/clear.gif" width="9" height="1" alt="" border="0"><img src="/pic/r1/arrow_grey.gif" width="5" height="9" vspace="3" alt="" border="0"><img src="/pic/common/clear.gif" width="3" height="1" alt="" border="0"></td><td width="100%" class="grey"><a class="greylink" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=_dyn/subscriptions.xml&amp;feature=int">E-mail Alerts &amp; Newsletters</a></td></tr><tr><td valign="top" colspan="2"><img src="/pic/common/clear.gif" width="1" height="5" alt="" border="0"></td></tr></tbody></table><img src="/pic/common/clear.gif" width="1" height="15" alt="" border="0"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="9"></td><td class="righthead"><script>
+		// TO CORRECT RECENTLY VIEWED PAGES AND GET THE VALUE OF it= ANYWHERE FROM THE LINK
+
+			var itLOC = tmpURL.indexOf('it}') + 3
+			var itVAL = tmpURL.substring(itLOC,itLOC + 5)
+			itVAL=itVAL.toLowerCase();
+			
+			
+			if (itVAL == "esweb")
+             {
+                document.write("Últimas páginas visitadas");
+             }
+			else if (itVAL == "arweb")
+			 {
+				document.write("Páginas recientemente" + '<img src="/pic/common/white.gif" width="1" height="4">' + "visitadas");
+			 }
+			else if (itVAL == "deweb")
+			 {
+				document.write("Diese Seiten haben Sie zuletzt aufgerufen");
+			 }
+			else if (itVAL == "itweb")
+			 {
+			 	document.write(" Pagine viste precedentemente");
+			 }
+			else if (itVAL == "frweb")
+			 {
+			 	document.write(" Dernières pages vues");
+			 }
+			else if (itVAL == "slweb")
+			 {
+			 	document.write("Posledné navštívené stránky");
+			 }
+			 else if (itVAL == "csweb")
+			 {
+			 	document.write("Poslední navštívené stránky");
+			 }
+			 else if (itVAL == "huweb")
+			 {
+			 	document.write("Legutóbb megnézett oldalak");
+			 }
+ 			 else if (itVAL == "daweb")
+			 {
+			 	document.write("Sidst besøgte sider");
+			 }
+			 else if (itVAL == "svweb")
+			 {
+			 	document.write("Senast besökta sidor");
+			 }
+			 else if (itVAL == "noweb")
+			 {
+			 	document.write("Siste besøkte sider");
+			 }
+			 else if (itVAL == "ruweb")
+			 {
+			 	document.write("Последние просмотренные страницы");
+			 }
+			 else if (itVAL == "mxweb")
+			 {
+			 	document.write("Paginas Vistas Recientemente");
+			 }
+ 			else if (itVAL == "cnweb")
+			 {
+			 	document.write("您最近浏览的页面");
+			 }
+			 else if (itVAL == "tuweb")
+			 {
+			 	document.write("En son görüntülenen sayfalar");
+			 }
+			 else if (itVAL == "fiweb")
+			 {
+			 	document.write("Viimeksi katsotut sivut");
+			 }
+			 else 
+			 {
+				document.write("Recently Viewed Pages");
+			 }
+		</script>Recently Viewed Pages</td></tr></tbody></table><img src="/pic/common/clear.gif" width="1" height="5" alt="" border="0"><table border="0" cellpadding="2" cellspacing="0" width="100%"><tbody><tr><td width="3"><img src="/pic/common/clear.gif" width="3" height="1" alt="" border="0"></td><td width="100%" class="grey"><script>
+		if (thisCookie != null) 
+		{ 	
+			for (i=0; i < 4; i++)
+			{	 
+			DrawLink(cookie_array[i]);
+			if (noSpaceURL == cookie_array[i]) 
+			{	
+				 flag = 2;
+				 intmatch = i; 
+			}
+		}
+		} 
+
+		thisCookie = ""; 
+		flag = 0;
+		i = 0;
+		intmatch = 0;
+		cookie_array = "";
+		cookie_string = "";
+		title_url =  "";
+		quick = "";
+		</script><script type="text/javascript" language="JavaScript">
+		
+		// SCRIPTS FOR BREADCRUMB TRAIL
+		
+		function SetBreadCookie(x, y){
+			if (document.cookie.match("breadcookies=") == null){ // if cookie not set yet, just append breadcookies
+				document.cookie = "breadcookies=" + "!" + x + "~" + y;
+				}
+			else { // if sub-cookie already set, add new value
+				document.cookie = "breadcookies=" + GetCookie("breadcookies") + "!" + x + "~" + y;
+				}
+			}
+		// END SCRIPTS FOR BREADCRUMB TRAIL
+		
+		</script></td></tr></tbody></table></td></tr></tbody></table><!--googleon: all--></td></tr></tbody></table></td></tr><tr><td width="20" valign="top"><img src="/pic/common/clear.gif" width="20" alt="" height="1" border="0"></td><!--googleoff: all--><td colspan="5"><span class="eleven"><br><br><b>Privacy Policy</b>
+		&nbsp;&nbsp;&nbsp;<a class="elevenb" href="http://www.accenture.com/xd/xd.asp?it=enweb&amp;xd=legal\legal.xml">Terms of Use</a>
+
+		&nbsp;&nbsp;&nbsp;
+		©1996-2004 Accenture All Rights Reserved</span><br>&nbsp;
+		</td><!--googleon: all--></tr></tbody></table></td></tr></tbody></table></body></html>
