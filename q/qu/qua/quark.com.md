@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quark.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204125411id_/http%3A//www.quark.com/about/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quark.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305234133id_/http%3A//www.quark.com/about/legal/privacy.html) for the most accurate reproduction.*
 
 # Quark: About Quark - Privacy Policy
 
@@ -52,7 +52,7 @@ Upon request, Quark will provide you with a readable copy of your Personal Infor
 #### Quark maintains its website at its Denver headquarters:
 
   * Quark, Inc.  
-1800 Grant Street  
+1800 Grant St., #800  
 Denver, Colorado 80203  
 
 
