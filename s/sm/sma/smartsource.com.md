@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smartsource.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202024916id_/http%3A//www.smartsource.com/aboutus/msprivacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsource.com privacy policy that was archived on 2004-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040614202107id_/http%3A//rt2.smartsource.com/aboutus/privacy.aspx) for the most accurate reproduction.*
 
-# Grocery coupons, health coupons and household coupons from SmartSource.com. Exclusive coupons you can print or receive in the mail, redeemable nationwide. Recipes, money and timesaving ideas and homekeeping and wellness advice.
+# SmartSource: Grocery Coupons
 
 |  |  | 
 
@@ -12,7 +12,7 @@ From time to time SmartSource may revise this Privacy Policy to reflect changes 
 |  | 
 
 **_COLLECTION: COLLECTION OF PERSONALLY IDENTIFIABLE INFORMATION ("PII") BY SMARTSOURCE_**  
-_General_. SmartSource collects personally identifiable information ("PII" -- that is, information such as your full name, email address, mailing address, demographic data and preferential data) in order to respond to your requests for offers and information about products and services you are interested in. When we collect PII from you it is because you are voluntarily submitting the information to us so that we can respond to your requests. On those occasions when we obtain PII from a third party, we use only reputable sources of such information.
+_General_. SmartSource collects personally identifiable information ("PII" \-- that is, information such as your full name, email address, mailing address, demographic data and preferential data) in order to respond to your requests for offers and information about products and services you are interested in. When we collect PII from you it is because you are voluntarily submitting the information to us so that we can respond to your requests. On those occasions when we obtain PII from a third party, we use only reputable sources of such information.
 
 PII you submit in connection with the SmartSource Internet Coupons service is currently collected on our behalf by our business partners, planet U and Coupons, Inc., who share this information with us. . For information on how PII information is gathered and used for our "Printable" offers, please refer to the Coupons, Inc. Privacy Policy http://www.coupons.com/privacy.asp. Both of these links can be accessed on the "Get Coupons" registration page or the Frequently Asked Questions page. For information on how PII information is gathered and used for "Mail To Home" offers, please refer to the planet U "U-pons Privacy Policy," http://www.planetu.com/apages/privacy.html 
 
@@ -21,7 +21,7 @@ SmartSource does not knowingly collect PII from children under the age of 13.
 _Cookies_. Cookies are small bits of information that the Internet site operated by SmartSource places on the hard drive of your computer. Cookies remember information about your activities on our site and enable Smartsource to make your visits to our site more enjoyable. For example, cookies can store your password for easy logon to a site you have previously visited, can save your preferences for a personalized home page or can track the items you have placed in your "shopping cart" during a visit to our online store. The cookie itself does not contain PII. 
 
 We use third-party advertising companies to serve ads when you visit the SmartSource web site. In the course of serving ads to this site, our third-party ad servers may place or recognize a unique cookie on your browser, and may use information (not including your name, address, email address or telephone number) about your visits to the SmartSource web site and other sites to provide ads to you on this site and other sites about goods and services that may be of interest to you. If you would like more information about the information collection practices of the third-party advertising companies that place ads on our web site, and about your choices about not having this information used by these companies, click here:   
-http://www.doubleclick.net/naiprivacy   
+<http://www.maxonline.com/privacy_policy/index.php>   
 You can program your computer to warn you each time a cookie is being sent or to refuse cookies completely.   
   
 |  |    
@@ -72,7 +72,7 @@ SmartSource uses reasonable administrative, technical, personnel and physical me
 
 **_ACCESS:_** _HOW TO ACCESS, CORRECT OR DELETE YOUR PII_
 
-Whenever possible, SmartSource will permit you to review the PII we have collected from you, to correct any PII that is incorrect and to instruct us to make your PII inactive in our files. If you want to do any of these things, click on the "Personal Profile" link on the Get Coupons page. On your Personal Profile Page, you can modify any of your PII elements and opt out of further communication from SmartSource.com. Additionally, you can send an email message to [webmaster@smartsource.com](mailto:webmaster@smartsource.com) with your name, mailing address, and email address to specify what actions you would like to be taken with respect to your PII. Please note that we will not be able to delete your historical usage information from our aggregate files.  
+Whenever possible, SmartSource will permit you to review the PII we have collected from you, to correct any PII that is incorrect and to instruct us to make your PII inactive in our files. If you want to do any of these things, click on the "Personal Profile" link on the Get Coupons page. On your Personal Profile Page, you can modify any of your PII elements and opt out of further communication from SmartSource.com. Additionally, you can send an email message to [ webmaster@smartsource.com](mailto:webmaster@smartsource.com) with your name, mailing address, and email address to specify what actions you would like to be taken with respect to your PII. Please note that we will not be able to delete your historical usage information from our aggregate files.  
   
 |  |    
 |  | 
