@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hobowars.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609083116id_/http%3A//www.hobowars.com/index.php%3Fcmd%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobowars.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204171648id_/http%3A//www.hobowars.com/index.php%3Fcmd%3Dprivacy) for the most accurate reproduction.*
 
-# HoboWars.com - The best free online game!
+# HoboWars - The best free online game!
 
 The following refers to all services provided HoboWars (HBW). 
 
