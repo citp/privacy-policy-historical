@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fivebelow.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605092631id_/http%3A//fivebelow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fivebelow.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406021333id_/http%3A//www.fivebelow.com/privacy.html) for the most accurate reproduction.*
 
 # Five Below Privacy Policy
 
@@ -71,7 +71,7 @@ Parents and legal guardians may have their child's information removed from our 
 >  215.546.7909  
 >  215.546.8099 (fax) 
 > 
-> [Click here](mailto:help@fivebelow.com) to email us
+> [Click here](mailto:wantinfo@fivebelow.com) to email us
 
   
-This Privacy Policy is effective as of October 15, 2003.
+This Privacy Policy is effective as of October 15, 2005.
