@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findgift.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203024758id_/http%3A//www.findgift.com/Services/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findgift.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602014158id_/http%3A//www.findgift.com/Services/Privacy-Policy) for the most accurate reproduction.*
 
 # FindGift.com Privacy Policy
 
@@ -56,3 +56,10 @@ If you choose to visit FindGift.com, your visit and any dispute over privacy is 
 
 
 | 
+
+|  My Registry Links  [Edit](http://www.findgift.com/cgi-local/Member.cgi?m=RegistryLinks)  
+---  
+  
+Link to the gift registries of your family and friends. 
+
+To use this feature [Login](http://www.findgift.com/Members/Login/) or [Register](http://www.findgift.com/Members/Sign-Up/)
