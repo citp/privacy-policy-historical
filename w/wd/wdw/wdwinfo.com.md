@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wdwinfo.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621133640id_/http%3A//www.wdwinfo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wdwinfo.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204230002id_/http%3A//www.wdwinfo.com/privacy.htm) for the most accurate reproduction.*
 
 # Disney World Information - Privacy Policy
 
-**Privacy Policy:**
+**Privacy Policy**
 
 It is important that our site visitors understand that any information you provide to us during the course of your visit to our site is NEVER sold or provided to any third party for any reason.  The information collected is used ONLY for it's intended purpose.
 
