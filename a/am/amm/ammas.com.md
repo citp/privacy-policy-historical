@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ammas.com privacy policy that was archived on 2004-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040625114047id_/http%3A//www.ammas.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ammas.com privacy policy that was archived on 2004-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041215191113id_/http%3A//www.ammas.com/ar/home.cfm%3Fr%3Dpri%26bid%3D0) for the most accurate reproduction.*
 
-# Ammas.com -- Welcome Home
+# Ammas.com -- A New World of Knowledge
 
-## The Online Privacy Policy of [Ammas.com](http://www.ammas.com/)
+## The Online Privacy Policy of [Ask Agent™](http://www.askagent.com/)
 
 We believe that it is in our best interest and yours to protect your privacy.
 
@@ -18,6 +18,6 @@ Queries and responses cannot be removed from the system once they are entered. H
 
 Any e-commerce transaction through our site will take place through secure servers, utilizing encryption technology to safeguard all transactions (credit card/online purchases) from unauthorized viewing, using standard SSL encryption, or the equivalent, with a certificate from VeriSign or its equivalent. Credit card numbers will be used only for payment processing and will not be retained on our system in any format, for any reason. 
 
-Any cookies used in our web development will not track individual information and cookies from Ammas.com can only be read by Ammas.com. If you are still uncomfortable with the transfer of cookies between our system and yours, we recommend that you disable the cookies function in your browser. Our intent in using cookies is simply to improve the quality of your web experience by preventing you from entering information over and over again.
+Any cookies used in our web development will not track individual information and cookies from Ask Agent™ can only be read by Ask Agent™. If you are still uncomfortable with the transfer of cookies between our system and yours, we recommend that you disable the cookies function in your browser. Our intent in using cookies is simply to improve the quality of your web experience by preventing you from entering information over and over again.
 
-These measures, along with our belief that it is up to the individual to determine who receives and what may be done with their personal information, insure that any information submitted on our site will be kept confidential. If you have any questions or concerns regarding this matter, please [contact us](mailto:info@Ammas.com). 
+These measures, along with our belief that it is up to the individual to determine who receives and what may be done with their personal information, insure that any information submitted on our site will be kept confidential. If you have any questions or concerns regarding this matter, please [contact us](mailto:info@ammas.com). 
