@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolcomputing.com privacy policy that was archived on 2001-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011024011249id_/http%3A//coolcomputing.com/faq.php%3Fmyfaq%3Dyes%26id_cat%3D1%26categories%3DPrivacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolcomputing.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604233933id_/http%3A//www.coolcomputing.com/faq.php%3Fmyfaq%3Dyes%26id_cat%3D1%26categories%3DPrivacy%2BPolicy) for the most accurate reproduction.*
 
 # CoolComputing
 
