@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nerc.ac.uk privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209093124id_/http%3A//www.nerc.ac.uk/misc/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nerc.ac.uk privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204073655id_/http%3A//www.nerc.ac.uk/misc/privacy.shtml) for the most accurate reproduction.*
 
 # Natural Environment Research Council: Website privacy policy
 
