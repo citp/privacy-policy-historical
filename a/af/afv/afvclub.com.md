@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the afvclub.com privacy policy that was archived on 2001-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010614051001id_/http%3A//afvclub.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afvclub.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408120812id_/http%3A//www.afvclub.com/privacy.asp) for the most accurate reproduction.*
 
-# 
+# Armed Forces Vacation Club
 
 At AFVCLUB.com, we are committed to protecting your privacy. We use the Information we collect about you to process transactions and to provide a more personalized experience. Please read on for more details about our privacy policy. 
 
