@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the bigfix.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603113212id_/http%3A//www.bigfix.com/website/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigfix.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402094759id_/http%3A//www.bigfix.com/website/about/privacy.html) for the most accurate reproduction.*
 
 # BigFix, Inc. - Fix it before it fails.
 
    
-[](https://web.archive.org/web/20020603113212id_/http%3A//www.bigfix.com/website/about/company.html)  
-[](https://web.archive.org/web/20020603113212id_/http%3A//www.bigfix.com/website/about/vision.html)  
-[](https://web.archive.org/web/20020603113212id_/http%3A//www.bigfix.com/website/about/management.html)  
-[](https://web.archive.org/web/20020603113212id_/http%3A//www.bigfix.com/website/about/investor_relations.html)  
-[](https://web.archive.org/web/20020603113212id_/http%3A//www.bigfix.com/website/about/news.html)  
-[](https://web.archive.org/web/20020603113212id_/http%3A//www.bigfix.com/website/about/careers.html)  
-[](https://web.archive.org/web/20020603113212id_/http%3A//www.bigfix.com/website/about/contact.html)  
-[](https://web.archive.org/web/20020603113212id_/http%3A//www.bigfix.com/website/about/privacy.html)  
-[](https://web.archive.org/web/20020603113212id_/http%3A//www.bigfix.com/website/about/legal.html) |  
+[](https://web.archive.org/web/20021216004704id_/http%3A//www.bigfix.com/website/about/company.html)  
+[](https://web.archive.org/web/20021216004704id_/http%3A//www.bigfix.com/website/about/vision.html)  
+[](https://web.archive.org/web/20021216004704id_/http%3A//www.bigfix.com/website/about/management.html)  
+[](https://web.archive.org/web/20021216004704id_/http%3A//www.bigfix.com/website/about/investor_relations.html)  
+[](https://web.archive.org/web/20021216004704id_/http%3A//www.bigfix.com/website/about/news.html)  
+[](https://web.archive.org/web/20021216004704id_/http%3A//www.bigfix.com/website/about/careers.html)  
+[](https://web.archive.org/web/20021216004704id_/http%3A//www.bigfix.com/website/about/contact.html)  
+[](https://web.archive.org/web/20021216004704id_/http%3A//www.bigfix.com/website/about/privacy.html)  
+[](https://web.archive.org/web/20021216004704id_/http%3A//www.bigfix.com/website/about/legal.html) |  
 
 The BigFix® technology suite has been designed to preserve your privacy and security at all times. By never sending any information about you or your computer away from your computer, BigFix, Inc. ensures that your private information stays private. The following policy spells out our general commitment to privacy, and covers all our products and our web site. 
 
