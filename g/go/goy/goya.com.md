@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goya.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205112323id_/http%3A//www.goya.com/english/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goya.com privacy policy that was archived on 2004-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040617053043id_/http%3A//www.goya.com/english/privacy.html) for the most accurate reproduction.*
 
 # Goya Foods - Privacy Policy
 
