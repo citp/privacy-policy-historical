@@ -1,24 +1,22 @@
-> *The following text is extracted and transformed from the astrazeneca.com privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802071014id_/http%3A//www.astrazeneca.com/topnav1/s_privacy/c_privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrazeneca.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622063216id_/http%3A//astrazeneca.com/topnav1/s_privacy/c_privacy/index.html) for the most accurate reproduction.*
 
-# - PRIVACY POLICY
+# AstraZeneca International - Privacy statement
 
   
   
-  
-  
+Privacy statement  
 
 
-  * Description of the information we collect
-  * How we use your information
-  * Opting out of further communications from us
-  * How we protect your information
-  * Use of cookies
-  * Agents and service providers
-  * Children
-  * Improper conduct
-  * Access and corrections
-  * How to contact us
-
+Description of the information we collect  
+How we use your information  
+Opting out of further communications from us  
+How we protect your information  
+Use of cookies  
+Agents and service providers  
+Children  
+Improper conduct  
+Access and corrections  
+How to contact us  
 
 
 This international website is provided by AstraZeneca. We take very seriously the privacy of our website users and the security of their personal information. For the purposes of data protection law, AstraZeneca UK Limited is the company that controls the processing of your personal data. 
@@ -58,7 +56,7 @@ We may use the information we gather and/or receive about you to investigate and
 
 Under European data protection law, you have a right to request access to personal data which are held about you upon payment of a small fee. 
 
-You also have a right to require any inaccuracies in your information to be corrected free of charge. [You can ask us to modify your details by sending an e-mail to [infomaster@astrazeneca.com](mailto:infomaster@astrazeneca.com)
+You also have a right to require any inaccuracies in your information to be corrected free of charge. You can ask us to modify your details by sending an e-mail to [infomaster@astrazeneca.com](mailto:infomaster@astrazeneca.com)
 
 Please state your name, username and registration details (if any) clearly on all communications.
 
@@ -66,6 +64,5 @@ We welcome feedback and questions on this privacy policy. If for any reason you 
 
 References to "AstraZeneca", "Group", "we", "us" and "our" are references to AstraZeneca PLC and its affiliates.
 
-  
   
 
