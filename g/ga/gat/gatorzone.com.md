@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gatorzone.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207172343id_/http%3A//www.gatorzone.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatorzone.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610140734id_/http%3A//www.gatorzone.com/privacy.php) for the most accurate reproduction.*
 
 # University of Florida Athletics ***Gatorzone.com***
 
