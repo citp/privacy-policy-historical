@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the countryinns.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603083924id_/http%3A//www.countryinns.com/customerservice/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countryinns.com privacy policy that was archived on 2004-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040803034328id_/http%3A//www.countryinns.com/customerservice/privacy.jsp) for the most accurate reproduction.*
 
-# Welcome to Country Inns & Suites - Your Privacy Rights
+# Country Inns & Suites By Carlson - Your Privacy Rights
 
 **Privacy Philosophy**  
 We want to make your experience online satisfying and safe. We want to provide you with the means to control your privacy and give you a way to voice questions or concerns you may have. 
