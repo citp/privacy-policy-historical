@@ -1,0 +1,749 @@
+<!--The following is the downloaded HTML source of the invesco.com privacy policy that was archived on 2001-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011215013044id_/http%3A//www.invescofunds.com/Help/PrivacyPolicy.asp) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+	<meta name="keywords" content="INVESCO, INVESCO Funds Group, INVESCO Trust Company, Mutual Fund Company, Financial Company, Mutual Funds, Retirement, Retire, Investing, Saving, IRA, Roth IRA, 401k, 403b, Education IRA, UGMA/UTMA, Your Account, Women and Investing, Advisors, Brokers, Financial Advisors, Calculators, Open a Mutual Fund Online, Open an account online">
+	<title>INVESCO Funds: Contact Us, Forms, Site Map, Search and Trouble Shooting</title>
+	 <link rel="stylesheet" type="text/css" href="/global/Include/style.css">
+		
+<script language="javascript">
+	<!-- 
+	name = "InvescoMain";
+	//-->
+</script></head>
+
+
+
+	<body marginwidth="0" marginheight="0" leftmargin="0" topmargin="0" vlink="#FF9900" alink="#CC6600" link="#CC6600" bgcolor="#666666">
+<script>
+<!--
+function validateLogin()
+	{
+		var strError = "";
+		var strErrorHeader = "Your were unable to login because:" + '\n' + '\n';
+		var strInvalidSSN = "Invalid Log In ID:" + '\n' + "Log In ID must be between 6 and 15 characters." + '\n' + '\n';
+		var strInvalidPW = "Your password must be between 6 and 15 characters in length. " + '\n' + "Please remember that passwords are case sensitive.";
+		var strPassword = document.frmMain.txtPassword.value;
+			
+		// Strip dashes and check length
+		document.frmMain.txtLogIn.value = replace(document.frmMain.txtLogIn.value,"-","");
+		if (document.frmMain.txtLogIn.value.length > 15 || document.frmMain.txtLogIn.value.length < 6 )
+			strError = strError + strInvalidSSN;		
+
+		// Password validation				
+		if (strPassword.length > 15 || strPassword.length < 6)
+			strError = strError + strInvalidPW;
+			
+		if (strError.length > 0) {
+			alert (strErrorHeader + strError);
+			return(false);
+		}
+		return(true);
+	}
+function replace(stringToModify, stringToSearchFor, replaceWithThisString) 
+{    
+	//Drop in Javascript 1.0 replacement of a 1.2 method
+	
+	//Return original string if stringToModify or stringToSearchFor are zero length
+    if ((stringToModify.length == 0) || (stringToSearchFor.length == 0)) 
+		return stringToModify;
+
+	//Get position where stringToSearchFor is at
+    var intIndex = stringToModify.indexOf(stringToSearchFor);
+    if ((!intIndex) && (stringToSearchFor != stringToModify.substring(0,stringToSearchFor.length))) 
+		return stringToModify;
+    if (intIndex == -1) 
+		return stringToModify;
+
+	//Create new string
+    var strNewString = stringToModify.substring(0, intIndex) + replaceWithThisString;
+
+	//A great chance to use recursion! Look at rest of stringToModify
+    if (intIndex + stringToSearchFor.length < stringToModify.length)
+        strNewString += replace(stringToModify.substring(intIndex + stringToSearchFor.length, stringToModify.length), stringToSearchFor, replaceWithThisString);
+
+	//All done
+    return strNewString;
+}
+//-->
+</script>
+<script>
+<!--
+function OpenPopUp(stringPage, stringWindow, stringType) 
+{    
+	var opt_toolbar		= 0;		//	nav button bar
+	var opt_location	= 0;		//	location (URL) bar
+	var opt_directories	= 0;		//	links bar
+	var opt_status		= 0;		//	status bar (bottom of browser win)
+	var opt_menubar		= 0;		//	browser menus
+	var opt_scrollbars	= 1;		//	allow scroll bars
+	var opt_resizeable	= 1;		//	allow resize
+	var opt_width;					//	width to open browser in
+	var opt_height;					//	height to open browser in
+	var opt_set_top		= false;	//	do we want to set the vertical position of the browser?
+	var opt_top;					//	vertical position of the browser (0 = aligned w/ top of screen)
+	var opt_features;				//	variable used to collect all features for window.open call
+	
+    if (stringType == "standard") 
+    {
+		opt_width	= 557;
+		opt_height	= 350;
+    }
+   
+    if (stringType == "external") 
+    {
+		opt_toolbar		= 1;
+		opt_location	= 1;
+		opt_directories	= 1;
+		opt_status		= 1;
+		opt_menubar		= 1;
+		opt_width		= 640;
+		opt_height		= 480;
+    }
+    
+    if (stringType == "mini") 
+    {
+		opt_width	= 340;
+		opt_height	= 190;
+    }
+   
+    if (stringType == "guides") 
+    {
+		opt_scrollbars	= 0;
+		opt_resizeable	= 0;
+		opt_width		= 660;
+		opt_height		= 570;
+    }
+   
+    if (stringType == "media") 
+    {
+		opt_toolbar		= 1;
+		opt_location	= 1;
+		opt_directories	= 1;
+		opt_status		= 1;
+		opt_menubar		= 1;
+		opt_width		= 800;
+		opt_height		= 600;
+    }
+   
+    if (stringType == "video") 
+    {
+		opt_resizeable	= 0;
+		opt_width		= 670;
+		opt_height		= 420;
+    }
+
+    if (stringType == "taxform") 
+    {
+		opt_menubar		= 1;
+		opt_width		= 795;
+		opt_height		= 660;
+    }
+
+    if (stringType == "appform") 
+    {
+		opt_toolbar		= 1;
+		opt_resizeable	= 0;
+		opt_width		= 653;	// 622 (content area) + 1 (left edge line) + 10 (right shadow) + 20 (spacing around the page)
+		opt_height		= screen.availHeight - 105;
+		opt_set_top		= true
+		opt_top			= 10
+    }
+
+    if (stringType == "sitetour") 
+    {
+		opt_scrollbars	= 0;
+		opt_resizeable	= 0;
+		opt_width		= 660;
+		opt_height		= 470;
+    }
+
+	//
+	//	Build the complete feature string
+	//
+	opt_features =	"toolbar="		+ opt_toolbar +
+					",location="	+ opt_location +
+					",directories="	+ opt_directories +
+					",status="		+ opt_status +
+					",menubar="		+ opt_menubar +
+					",scrollbars="	+ opt_scrollbars +
+					",resizable="	+ opt_resizeable +
+					",width="		+ opt_width +
+					",height="		+ opt_height;
+	if (opt_set_top)
+	{
+		opt_features = opt_features + ",top=" + opt_top;
+	}
+
+	//alert(opt_features)
+	window.open(stringPage, stringWindow, opt_features);
+}
+//-->
+</script>
+
+
+<a name="TOP"></a>
+<br>
+   <table width="748" cellspacing="0" cellpadding="0" border="0" align="center">
+			<tbody><tr><td width="737" height="1" valign="top" bgcolor="#000000" colspan="3"><img height="1" width="737" src="/Graphics/spacer.gif" border="0"></td></tr>
+			<tr>
+				<td width="1" valign="top" bgcolor="#000000"><img width="1" src="/Graphics/spacer.gif" border="0"></td>
+				<td width="737" valign="top" align="center">
+				<table cellspacing="0" cellpadding="0" border="0" width="100%">
+					<tbody><tr><td colspan="5" width="737" valign="top">
+								<table cellspacing="0" cellpadding="0" border="0" width="100%">
+									<tbody><tr><td width="100%" valign="top">
+										<table cellspacing="0" cellpadding="0" border="0" width="100%">	
+											<tbody><tr><td width="290" valign="top"><font size="1"><a href="http://www.invescofunds.com"><img src="/Graphics/INVESCOFunds_url.gif" width="290" height="100" alt="Home" border="0"></a></font></td><td width="155"><font size="1"><a href="http://www.invescofunds.com/Retirement/TradvsRoth.asp"><img src="/Graphics/Promo_Help.gif" width="155" height="100" alt="Info" border="0"></a></font></td>
+											
+												<td width="283" height="100" align="left" valign="top" bgcolor="white">
+																<table border="0" width="100%" cellspacing="0" cellpadding="0" height="100">
+						<form id="frmMain" name="frmMain" action="https://www.invescofunds.com/sscripts/NP/LoginValidate.asp" method="post" onsubmit="return validateLogin()"></form>
+						<tbody><tr><td valign="top" background="" width="283" height="30" align="center">
+										<table border="0" width="100%" height="30" cellspacing="0" cellpadding="0">
+												<tbody><tr><td height="8"><font size="1"><img width="1" height="8" src="/Graphics/spacer.gif" border="0"></font></td></tr>
+												<tr>
+													<td align="center" nowrap="" class="TopNavAccountTxt" valign="center"><font size="1" face="Verdana" color="#CC6600">
+														<a href="https://www.invescofunds.com/Sscripts/np/InvestOnlineToday.asp" onmouseout="this.style.textDecoration='none'" onmouseover="this.style.textDecoration='underline'" class="TopNavAccountTxt" style="text-decoration: 'none'">Open An Account</a> | 
+														<a href="https://www.invescofunds.com/sscripts/np/Registration.asp" onmouseout="this.style.textDecoration='none'" onmouseover="this.style.textDecoration='underline'" class="TopNavAccountTxt" style="text-decoration: 'none'">Register</a> |
+														<a href="/help/PrivacyPolicy.asp?#TECH" onmouseout="this.style.textDecoration='none'" onmouseover="this.style.textDecoration='underline'" class="TopNavAccountTxt" style="text-decoration: 'none'">Security Questions</a>
+													</font></td>
+												</tr>
+									</tbody></table>
+							  </td>
+						</tr>
+						<tr><td width="100%" height="1"><img width="100%" height="1" src="/graphics/Rule_Content_Horz.gif" alt="" border="0"></td></tr>
+						<tr><td width="283" height="2"><img width="283" height="2" src="/graphics/spacer.gif" alt="" border="0"></td></tr>
+												
+						<tr><td valign="top" background="" width="283" height="26">
+										<table border="0" width="100%" cellspacing="0" cellpadding="0">
+												<tbody><tr>
+													<td width="19"><img width="19" height="1" src="/Graphics/spacer.gif" border="0"></td>
+													<td width="30" class="LoginGoTonew" valign="bottom"><font size="1">go to</font></td>
+													<td width="5"><img width="5" height="1" src="/Graphics/spacer.gif" border="0"></td>
+													<td width="123" class="LoginYourAccountneww"><font face="Arial"><a href="https://www.invescofunds.com/sscripts/np/login.asp" onmouseout="this.style.textDecoration='none'" onmouseover="this.style.textDecoration='underline'" class="LoginYourAccountneww" style="text-decoration: 'none'"><b>Your Account</b></a></font>	</td>
+													<td width="106"><img width="106" height="1" src="/Graphics/spacer.gif" border="0"></td>
+												</tr>
+										</tbody></table>
+								</td>
+						</tr>
+												
+						<tr><td valign="top" background="" width="283" height="16">
+										<table border="0" width="100%" cellspacing="0" cellpadding="0">
+												<tbody><tr>
+													<td width="7"><img width="7" height="1" src="/Graphics/spacer.gif" border="0"></td>
+													<td width="45" class="LoginOrEnterYournn" valign="bottom"><font size="1">or Enter</font></td>
+													<td width="6"><img width="6" height="1" src="/Graphics/spacer.gif" border="0"></td>
+													<td width="66" class="LoginOrEnterYournn" valign="bottom"><font size="1">Log In ID</font></td>
+													<td width="18"><img width="18" height="1" src="/Graphics/spacer.gif" border="0"></td>
+													<td width="62" class="LoginOrEnterYournn" valign="bottom"><font size="1">Password</font></td>
+													<td width="79"><img width="79" height="1" src="/Graphics/spacer.gif" border="0"></td>
+												</tr>
+										</tbody></table>
+								</td>
+						</tr>
+
+						<tr><td valign="top" background="" width="283" height="25">
+									<table border="0" width="100%" cellspacing="0" cellpadding="0">
+											<tbody><tr>
+												<td width="58"><img width="58" height="1" src="/Graphics/spacer.gif" border="0"></td>
+												<td width="82" valign="top"><font size="1"> <input type="password" id="txtLogIn" name="txtLogIn" style="height:18; width:75" maxlength="15" size="8"></font></td>
+												<td width="82" valign="top"><font size="1"><input type="password" id="txtPassword" name="txtPassword" style="height:18; width:75" maxlength="15" size="8"></font></td>
+												<td width="61" valign="top" align="left"><font size="1"><input type="image" src="/Graphics/Button_Login.gif" border="0" id="image1" name="image1"></font></td>
+											</tr>
+									</tbody></table>
+							</td>
+					</tr>
+		
+	</tbody></table>
+
+																	
+												</td>
+											
+												<td width="9" height="100" align="left" valign="top"><img width="9" height="100" src="/Graphics/Graphic_RuleBar.gif" border="0"></td>
+											
+											</tr>
+										</tbody></table>
+									</td></tr>
+									
+									
+									<tr><td width="100%" height="1" valign="middle" bgcolor="#000000" background=""><img width="100%" height="1" src="/Graphics/spacer.gif" border="0"></td></tr>				
+										<tr><td width="100%" align="left">
+											<table cellspacing="0" cellpadding="0" border="0" width="100%" align="left">				
+												<tbody><tr>
+													<td height="20" width="128"><font size="1"><img src="/Graphics/Graphic_PhoneNumber.gif" width="128" height="30" alt="Your Account" border="0"></font></td>
+													
+														<td width="92" class="TopNavUns" align="center" height="20"><font size="1"><a href="http://www.invescofunds.com/Cached/PricesPer/DailyPrices.asp" style="text-decoration: 'none'" onmouseout="this.style.textDecoration='none'" onmouseover="this.style.textDecoration='underline'" class="TopNavUns">Prices &amp; <br>Performance</a></font></td>
+													
+														<td width="70" class="TopNavUns" align="center" height="20"><font size="1"><a href="http://www.invescofunds.com/cached/FundInfo/FundList.asp" style="text-decoration: 'none'" onmouseout="this.style.textDecoration='none'" onmouseover="this.style.textDecoration='underline'" class="TopNavUns">Fund<br>Center</a></font></td>
+													
+														<td width="85" class="TopNavUns" align="center" height="20"><font size="1"><a href="http://www.invescofunds.com/Retirement/RetirementCenter.asp" onmouseout="this.style.textDecoration='none'" onmouseover="this.style.textDecoration='underline'" class="TopNavUns">Retirement<br>Center</a></font></td>
+													
+														<td width="70" class="TopNavUns" align="center" height="20"><font size="1"><a href="http://www.invescofunds.com/mv/default.asp" onmouseout="this.style.textDecoration='none'" onmouseover="this.style.textDecoration='underline'" class="TopNavUns">Market<br>View</a></font></td>
+													
+														<td width="83" class="TopNavUns" align="center" height="20"><font size="1"><a href="http://www.invescofunds.com/LearningCenter/LearningCenter.asp" onmouseout="this.style.textDecoration='none'" onmouseover="this.style.textDecoration='underline'" class="TopNavUns">Learning<br>Center</a></font></td>
+													
+														<td width="78" class="TopNavUns" align="center" height="20"><font size="1"><a href="http://www.invescofunds.com/CollegePlanning/CollegePlanning.asp" onmouseout="this.style.textDecoration='none'" onmouseover="this.style.textDecoration='underline'" class="TopNavUns">College<br>Planning</a></font></td>
+													
+														<td width="80" class="TopNavUns" align="center" height="20"><font size="1"><a href="http://www.invescofunds.com/InvestorSvc/InvestorSvc.asp" onmouseout="this.style.textDecoration='none'" onmouseover="this.style.textDecoration='underline'" class="TopNavUns">Investor<br>Services</a></font></td>
+													
+													
+													<td width="51" class="TopNavUns" align="center" height="20"><font size="1"><a href="http://www.invescofunds.com" onmouseout="this.style.textDecoration='none'" onmouseover="this.style.textDecoration='underline'" class="TopNavUns"><br>Home</a></font></td>
+														
+											</tr>
+											</tbody></table>
+										</td></tr>
+									</tbody></table>
+						</td></tr>
+
+
+
+<script language="javaScript">
+<!--
+	//
+	//	Globals -- necessary for the VBScript block to work properly
+	//
+	var flash2Installed		= false;		// boolean. true if flash 2 is installed
+	var flash3Installed		= false;		// boolean. true if flash 3 is installed
+	var flash4Installed		= false;		// boolean. true if flash 4 is installed
+	var flash5Installed		= false;		// boolean. true if flash 5 is installed
+	 
+	var flashDetectIsIE		= (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;		// true if we're on ie
+	var flashDetectIsWin	= (navigator.appVersion.indexOf("Windows") != -1) ? true : false;	// true if we're on windows
+
+	//
+	//	On IE/Windows, use a little VBScript to check for installed flash versions
+	//
+	if(flashDetectIsIE && flashDetectIsWin)
+	{
+		document.write('<SCR' + 'IPT LANGUAGE=VBScript\> \n');
+		document.write('on error resume next \n');
+		document.write('flash2Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.2"))) \n');
+		document.write('flash3Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.3"))) \n');
+		document.write('flash4Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.4"))) \n');
+		document.write('flash5Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.5"))) \n');	
+		document.write('</SCR' + 'IPT\> \n');
+	}
+	 
+	//
+	//	checkForFlash
+	//
+	//	Returns a true/false indicator whether the required version of flash is installed.
+	//
+	//	Args:
+	//			requireVersion	-- the version of Flash we need
+	//
+	//	Returns:
+	//			true	-- at least the minimum required version is available
+	//			false	-- the minimum required version is NOT available
+	//
+	//	Usage example:
+	//
+	//			//  Check for flash 5
+	//			if (checkForFlash( 5 ))
+	//			{
+	//				//	Flash 5 available
+	//			}
+	//			else
+	//			{
+	//				//	Flash 5 is NOT available
+	//			}
+	//
+	function checkForFlash( requiredVersion )
+	{	
+		var detectedVersion = 0;	// version the user really has
+		var maxVersion		= 5;	// highest version we detect for
+		//
+		//	Check for the navigator plugins object
+		//
+		if (navigator.plugins)
+		{
+			if (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"])
+			{
+				//
+				//	Flash 2+ is installed
+				//
+
+				//
+				//	set references to flash 2 and the plugin description
+				//
+				var isVersion2			= navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
+				var flashDescription	= navigator.plugins["Shockwave Flash" + isVersion2].description;
+				
+				//
+				//	a flash plugin-description looks like this: Shockwave Flash 4.0 r5
+				//	so we can get the major version by grabbing the character before the period
+				//
+				var flashVersion = parseInt(flashDescription.charAt(flashDescription.indexOf(".") - 1));
+
+				//
+				//	we know the version, now set appropriate version flags
+				//
+				flash2Installed = flashVersion == 2;		
+				flash3Installed = flashVersion == 3;
+				flash4Installed = flashVersion == 4;
+				flash5Installed = flashVersion == 5;
+			}
+		}
+		
+		//
+		//	Loop through all versions, and set detectedVersion to highest detected version
+		//
+		for (var i = 2; i <= maxVersion; i++)
+		{	
+			if (eval("flash" + i + "Installed") == true) detectedVersion = i;
+		}
+		
+		//
+		//	WebTV -- assume version 2
+		//
+		if(navigator.userAgent.indexOf("WebTV") != -1) detectedVersion = 2;	
+		
+		// debug
+		//alert("version detected: " + detectedVersion);
+
+		//
+		//	If user has a new enough version... set the flash version variable to true
+		//
+		if (detectedVersion >= requiredVersion)
+		{
+			return true;
+		}
+		else
+		{
+			return false;
+		}
+	}
+	
+//-->
+</script>
+
+<script language="JavaScript">
+<!--
+function openSiteTour()
+{
+	if (checkForFlash( 4 ))
+	{
+		OpenPopUp("/sitetour/SiteTour.asp", "flashTour", "standard");
+	}
+	else
+	{
+		OpenPopUp("/sitetour/SiteTour_NoFlash.asp", "flashTour", "standard");
+	}
+}
+//-->
+</script>
+
+
+	<tr class="Dtl">
+		<td class="SideNavTxt" width="10"><table width="10"><tbody><tr><td></td></tr></tbody></table></td>
+		<td class="SideNavTxt" width="118" align="left" valign="top">
+			<table cellpadding="0" cellspacing="0" border="0" width="118" valign="bottom">
+			<tbody><tr><td class="SideNavTxt" align="center" colspan="2" height="15" valign="bottom"><font size="1"><a href="http://www.invescofunds.com/help/contactus.asp" style="text-decoration: 'none'" onmouseout="this.style.textDecoration='none'" onmouseover="this.style.textDecoration='underline'" class="SideNavTxt">Contact Us</a></font></td><td class="SideNavTxt"></td></tr>
+			<tr><td class="SideNavTxt" align="center" colspan="2" height="10"><font size="1"><a href="http://www.invescofunds.com/help/PrivacyPolicy.asp" style="text-decoration: 'none'" onmouseout="this.style.textDecoration='none'" onmouseover="this.style.textDecoration='underline'" class="SideNavTxt">Privacy Policy</a></font></td><td class="SideNavTxt"></td></tr>
+			<tr><td width="16"><table cellpadding="0" cellspacing="0" width="16"><tbody><tr><td></td></tr></tbody></table></td><td width="92" class="SideNavTxt" height="25"></td><td width="10"></td></tr>
+				<!-- Sub Nav Bar -->
+
+					
+						<tr>
+							</tr><tr><td height="15" colspan="2"><img src="/Graphics/Rule_SideNav.gif" width="108" height="1" alt="" border="0"></td><td><img src="/Graphics/Rule_SideNav.gif" width="10" height="1" alt="" border="0"></td></tr>
+							<tr><td colspan="3">
+								<table cellpadding="0" cellspacing="0">
+									<tbody><tr><td width="2"></td><td align="left" colspan="2" width="116"><a href="/Help/FindIt.asp" style="text-decoration: 'none'" onmouseout="this.style.textDecoration='none'" onmouseover="this.style.textDecoration='underline'" class="SideNavUns">Find It</a></td></tr>
+								</tbody></table>
+							</td>
+						</tr>
+								
+										<tr><td height="15" colspan="2"><img src="/Graphics/Rule_SideNav.gif" width="108" height="1" alt="" border="0"></td><td><img src="/Graphics/Rule_SideNav.gif" width="10" height="1" alt="" border="0"></td></tr>
+								
+						<tr>
+							<td colspan="3">
+								<table cellpadding="0" cellspacing="0">
+									<tbody><tr><td width="2"></td><td align="left" colspan="2" width="116"><a href="/Help/SolveIt.asp" style="text-decoration: 'none'" onmouseout="this.style.textDecoration='none'" onmouseover="this.style.textDecoration='underline'" class="SideNavUns">Solve It</a></td></tr>
+								</tbody></table>
+							</td>
+						</tr>
+							
+							<tr><td colspan="3" height="10"></td></tr>
+							<tr><td background="/Graphics/Tile_SideNavMain.gif" align="left" colspan="2" height="2"><font size="1"><table cellpadding="0" cellspacing="0"><tbody><tr><td></td></tr></tbody></table></font></td><td background="/Graphics/Tile_SideNavMain.gif" height="2"><font size="1"><table cellpadding="0" cellspacing="0"><tbody><tr><td></td></tr></tbody></table></font></td></tr>
+							<tr><td background="/Graphics/Tile_SideNavMain.gif" align="left" colspan="2"><a href="/Help/PrivacyPolicy.asp" class="SideNavSel"><font class="SideNavSel">&nbsp;Privacy Policy</font></a></td><td background="/Graphics/Tile_SideNavMain.gif"><table background="/Graphics/Tile_SideNavMain.gif"><tbody><tr><td></td></tr></tbody></table></td></tr>
+							<tr><td background="/Graphics/Tile_SideNavMain.gif" align="left" colspan="2" height="2"><font size="1"><table cellpadding="0" cellspacing="0"><tbody><tr><td></td></tr></tbody></table></font></td><td background="/Graphics/Tile_SideNavMain.gif" height="2"><font size="1"><table cellpadding="0" cellspacing="0"><tbody><tr><td></td></tr></tbody></table></font></td></tr>
+							<tr><td height="8"><img width="1" height="8" src="/Graphics/spacer.gif" border="0"></td></tr>
+					
+						<tr>
+							<td colspan="3">
+								<table cellpadding="0" cellspacing="0">
+									<tbody><tr><td width="2"></td><td align="left" colspan="2" width="116"><a href="/Help/TermsofUse.asp" style="text-decoration: 'none'" onmouseout="this.style.textDecoration='none'" onmouseover="this.style.textDecoration='underline'" class="SideNavUns">Terms of Use</a></td></tr>
+								</tbody></table>
+							</td>
+						</tr>
+								
+										<tr><td height="15" colspan="2"><img src="/Graphics/Rule_SideNav.gif" width="108" height="1" alt="" border="0"></td><td><img src="/Graphics/Rule_SideNav.gif" width="10" height="1" alt="" border="0"></td></tr>
+								
+						<tr>
+							<td colspan="3">
+								<table cellpadding="0" cellspacing="0">
+									<tbody><tr><td width="2"></td><td align="left" colspan="2" width="116"><a href="/Help/Tools.asp" style="text-decoration: 'none'" onmouseout="this.style.textDecoration='none'" onmouseover="this.style.textDecoration='underline'" class="SideNavUns">Tools</a></td></tr>
+								</tbody></table>
+							</td>
+						</tr>
+								
+										<tr><td height="15" colspan="2"><img src="/Graphics/Rule_SideNav.gif" width="108" height="1" alt="" border="0"></td><td><img src="/Graphics/Rule_SideNav.gif" width="10" height="1" alt="" border="0"></td></tr>
+								
+
+							
+				
+					<tr><td colspan="3" height="40"></td></tr>
+
+			</tbody></table>
+
+	       </td>
+		
+		<td width="10" background="">
+			<table width="10"><tbody><tr><td></td></tr></tbody></table>
+		</td>
+		<td width="589" align="left" valign="top" border="0" background="">
+			<font size="1">
+		<table border="0" cellspacing="0" cellpadding="0" width="589">
+	<tbody><tr><td height="10"></td></tr>
+	<tr>
+		<td width="390" valign="bottom" class="Title" colspan="2"><font size="2">INVESCO Funds Privacy Policy</font></td>
+		<td width="1" height="50"><img src="/Graphics/Rule_Divisional_Vert.gif" width="1" height="50" alt="" border="0"></td>
+		<td width="198" height="50" colspan="2" valign="bottom" class="Title" align="right"><font size="2"></font></td>
+	</tr>
+	
+	<tr>
+		<td width="390" valign="bottom" colspan="2"><img src="/Graphics/Rule_Divisional_Horz.gif" width="390" height="1" alt="" border="0"></td>
+		<td width="1" valign="bottom"><img src="/Graphics/Rule_Divisional_Horz.gif" width="1" height="1" alt="" border="0"></td>
+		<td width="198" valign="bottom" colspan="2"><img src="/Graphics/Rule_Divisional_Horz.gif" width="198" height="1" alt="" border="0"></td>
+	</tr>
+	<tr>
+		<td width="390" height="10" colspan="2"></td>
+		<td width="1" height="10"><img src="/Graphics/Rule_Divisional_Vert.gif" width="1" height="10" alt="" border="0"></td>
+		<td width="198" colspan="2" height="10"></td>
+	</tr>
+	<tr>
+		<td width="380" valign="top">	
+
+<script language="JavaScript" type="text/javascript">
+function test(){
+	ccc = "https://www.pwcbetterweb.com/betterweb/sealarchive/certificate.cfm"; 
+	turl=document.location.href;
+	ddd = ccc + "?" + "myurl=" + turl;
+	window.onerror = null;
+    nw = window.open(ddd,"popup","scrollbars=yes,location=no,width=650,height=500,left=1,top=1");
+	}
+</script>
+<!-- Begin Content -->
+<a name="TOP"></a>
+<table border="0" cellspacing="0" cellpadding="0" width="380">
+	<!-- begin content -->
+	<tbody><tr>
+		<td class="Dtl" colspan="2"><p><font size="2">INVESCO Funds is committed to protecting your personal and financial data. We collect non-public information about you from applications and other forms you complete, as well as transactions that we perform on your behalf, for your accounts. This information allows us to provide service for your accounts and provide you with information when you request it.</font></p></td>
+	</tr>
+	<tr>
+		<td valign="middle" colspan="2" height="20"></td>
+	</tr>
+ 	<tr>
+		<td class="Dtl" colspan="2"><p><font size="2">We do not sell your personal information to outside companies for purposes of selling their products and services to you. As permitted by law, we may share all of this information with our affiliates, as well as with third parties who perform marketing services on our behalf, or with whom we have joint marketing agreements, such as your own broker-dealer, fulfillment vendors, market researchers, customer survey companies and technology developers. We also provide this information to third parties who assist us in maintaining your accounts with us, or who process transactions for your accounts.</font></p></td>
+	</tr>
+	<tr>
+		<td valign="middle" colspan="2" height="20"></td>
+	</tr>
+ 	<tr>
+		<td class="Dtl" colspan="2"><p><font size="2">We restrict access to your non-public personal information to those employees who need to know that information to provide service for your accounts. Furthermore, we maintain physical, electronic and procedural safeguards that comply with federal standards to guard your non-public personal information.</font></p></td>
+	</tr>
+	<tr>
+		<td valign="middle" colspan="2" height="20"></td>
+	</tr>
+ 	<tr>
+		<td class="Dtl" colspan="2"><p><font size="2">Additional information specific to our Web site, invescofunds.com, is detailed below.</font></p></td>
+	</tr>
+<!-- end content -->
+	<tr>
+		<td valign="middle" colspan="2" height="10"></td>
+	</tr>
+	<tr>
+		<td align="right" valign="middle" colspan="2"><a href="#TOP"><img src="/graphics/Button_BackToTheTop.gif" width="67" height="32" alt="" border="0"></a></td>
+	</tr>
+	<tr>
+		<td valign="middle" colspan="2" height="40"><img src="/graphics/Rule_Content_Horz.gif" width="376" height="1" alt="" border="0"></td>
+	</tr>
+	<!-- begin content -->	
+	<tr>
+		<td class="SubTitle" colspan="2"><font size="2">Special Privacy Considerations</font></td>
+	</tr>
+ 	<tr>
+		<td class="Dtl" colspan="2"><p><font size="2">INVESCO's general privacy policies apply to invescofunds.com. Here is some additional information that applies to invescofunds.com.</font></p></td>
+	</tr>
+	<tr>
+		<td valign="middle" colspan="2" height="20"></td>
+	</tr>
+ 	<tr>
+		<td class="Dtl" colspan="2"><p><font size="2">Invescofunds.com utilizes a cookie for all customers who visit our site.  If you wish to visit the different businesses within AMVESCAP, you may access them through the About INVESCO section of our site, or by entering their respective URL.</font></p></td>
+	</tr>
+	<tr>
+		<td valign="middle" colspan="2" height="20"></td>
+	</tr>
+ 	<tr>
+		<td class="Dtl" colspan="2"><p><font size="2">When you complete an online application form, we collect demographic and personal bank account details about you in order to set up your account.  Your session ID is collected and stored in a cookie that expires after each user session, or after 20 minutes of inactivity. Bank information is encrypted for this session and is stored only on our server, not in a cookie. When you complete a transaction online, this information is collected and stored in a cookie that also expires.</font></p></td>
+	</tr>
+	<tr>
+		<td valign="middle" colspan="2" height="20"></td>
+	</tr>
+ 	<tr>
+		<td class="Dtl" colspan="2"><p><font size="2">Areas of our site contain links to other Web sites that we hope will be of value to you. Depending upon the configuration of your browser, utilizing such links may provide those other Web sites with personal information about you, including the fact that you have visited invescofunds.com. Please note that INVESCO and invescofunds.com do not have any control over content or privacy practices of these sites. We urge you to review the privacy policies of these sites before providing personal information, and, if you have concerns, consider reconfiguring your browser so that cookies are not permitted.</font></p></td>
+	</tr>
+<!-- end content -->
+	<tr>
+		<td valign="middle" colspan="2" height="10"></td>
+	</tr>
+	<tr>
+		<td align="right" valign="middle" colspan="2"><a href="#TOP"><img src="/graphics/Button_BackToTheTop.gif" width="67" height="32" alt="" border="0"></a></td>
+	</tr>
+	<tr>
+		<td valign="middle" colspan="2" height="40"><img src="/graphics/Rule_Content_Horz.gif" width="376" height="1" alt="" border="0"></td>
+	</tr>
+	<!-- begin content -->
+	<tr>
+		<td class="SubTitle" colspan="2"><p><font size="2"><a name="TECH"></a>Technical Information</font></p></td>
+	</tr>
+ 	<tr>
+		<td class="Dtl" colspan="2"><p><font size="2">Whenever you submit personal identifiable or financially identifiable information through invescofunds.com, you will be doing so through a secure server.</font></p></td>
+	</tr>
+	<tr>
+		<td valign="middle" colspan="2" height="20"></td>
+	</tr>
+ 	<tr>
+		<td class="Dtl" colspan="2"><p><font size="2">This secure server software encrypts your personal information. When you press the secure login button, your information is encrypted and sent, via Secure Socket Layering (SSL), to invescofunds.com. This encryption process occurs even though the page where the login ID and password are entered is not SSL encrypted. Once our secure server receives your encrypted personal information, it is translated back into its original form and verified. All information collected is stored on our internal databases/servers, which are physically secure and inaccessible from the Internet.</font></p></td>
+	</tr>
+	<tr>
+		<td valign="middle" colspan="2" height="20"></td>
+	</tr>
+ 	<tr>
+		<td class="Dtl" colspan="2"><p><font size="2">Invescofunds.com only allows secure browser access to the secure areas of our site. The browser's "secure mode" is in place only when it is needed — when you are submitting an application, using our Contact Us page, or if you are in Your Account. You will be able to tell you are in a secure mode when your browser displays a special icon on the lower bar of your browser window. Specifically:</font></p></td>
+	</tr>
+	<tr>
+		<td valign="middle" colspan="2" height="10"></td>
+	</tr>
+	<tr>
+		<td valign="baseline" width="20"><img src="/graphics/Bullet_Main.gif" width="20" height="15" alt="" border="0"></td>
+		<td class="Dtl" width="352"><p><font size="2">In Netscape 4.x and higher and Microsoft Internet Explorer, you will see a picture of a closed lock.</font></p></td>
+	</tr>
+	<tr>
+		<td valign="middle" colspan="2" height="10"></td>
+	</tr>
+	<tr>
+		<td valign="baseline" width="20"><img src="/graphics/Bullet_Main.gif" width="20" height="15" alt="" border="0"></td>
+		<td class="Dtl" width="352"><p><font size="2">The Web site address will start with "https" instead of "http."</font></p></td>
+	</tr>
+	<tr>
+		<td valign="middle" colspan="2" height="20"></td>
+	</tr>
+ 	<tr>
+		<td class="Dtl" colspan="2"><p><font size="2">Every secure page on invescofunds.com has been verified with a digital certificate issued by Secure Server Certification Authority.  This is shown via the "site certificate" that is displayed on all secure pages. To view this certificate, click on the image of the closed lock on the bottom bar of your browser window. A small frame displaying site security information will pop up.</font></p></td>
+	</tr>
+<!-- end content -->
+	<tr>
+		<td valign="middle" height="10" colspan="2"></td>
+	</tr>
+	<tr>
+		<td align="right" valign="middle" colspan="2"><a href="#TOP"><img src="/graphics/Button_BackToTheTop.gif" width="67" height="32" alt="" border="0"></a></td>
+	</tr>
+</tbody></table>
+		</td>
+	
+	<td width="10"><img width="10" src="/Graphics/spacer.gif" border="0"></td>
+	<td width="1" valign="center" background="/Graphics/Rule_Divisional_Vert.gif"><img width="1" src="/Graphics/spacer.gif" border="0"></td>
+	<td width="10"><img width="10" src="/Graphics/spacer.gif" border="0"></td>
+	<td width="188" valign="top">
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="188">
+	<tbody><tr>
+		<td class="SubTitle" colspan="2"><font size="2">Questions?</font></td>
+	</tr>
+ 	<tr>
+		<td class="Dtl" colspan="2"><p><font size="2">If you have any questions or concerns, please contact us. If you send us e-mail or use our <a href="javascript:OpenPopUp('https://www.invescofunds.com/Sscripts/contactus.asp','ContactUs','appform')">Contact Us</a> form, we will respond to your e-mail within two business days.</font></p></td>
+	</tr>
+	<tr>
+		<td valign="middle" colspan="2" height="20"></td>
+	</tr>
+	<tr>
+		<td class="SubTitle"><img src="/graphics/Brand_KnowServDisciChoi.gif" width="188" height="396" alt="" border="0"></td>
+	</tr>
+</tbody></table>
+
+</td>
+</tr>
+</tbody></table>		
+
+<!-- end content -->
+
+			<table width="100%" cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr><td height="10"></td></tr>
+				<tr class="BottomNavUns">
+				
+					<td width="120" height="15" class="BottomNavUns" align="center"><font size="1"><a href="http://www.invescofunds.com/AboutINVESCO/AboutINVESCO.asp" style="text-decoration: 'none'" onmouseout="this.style.textDecoration='none'" onmouseover="this.style.textDecoration='underline'" class="bottomnavitem">About INVESCO</a></font></td>
+				
+					<td width="85" height="15" class="BottomNavUns" align="center"><font size="1"><a href="http://www.invescofunds.com/InvestorSvc/Forms.asp?BNAV=TRUE" style="text-decoration: 'none'" onmouseout="this.style.textDecoration='none'" onmouseover="this.style.textDecoration='underline'" class="bottomnavitem">Forms</a></font></td>
+				
+					<td width="85" height="15" class="BottomNavSel" align="center"><font size="1"><a href="http://www.invescofunds.com/Help/Help.asp" style="text-decoration: 'none'" class="bottomnavitem">Help</a></font></td>
+				
+					<td width="100" height="15" class="BottomNavUns" align="center"><font size="1"><a href="http://www.invescofunds.com/Help/HelpSearch.asp" style="text-decoration: 'none'" onmouseout="this.style.textDecoration='none'" onmouseover="this.style.textDecoration='underline'" class="bottomnavitem">Search</a></font></td>
+				
+					<td width="99" height="15" class="BottomNavUns" align="center"><font size="1"><a href="http://www.invescofunds.com/Help/SiteMap.asp" style="text-decoration: 'none'" onmouseout="this.style.textDecoration='none'" onmouseover="this.style.textDecoration='underline'" class="bottomnavitem">Site Map</a></font></td>
+				
+					<td width="100" height="15" class="BottomNavUns" align="center"><font size="1"><a href="http://www.invescofunds.com/TaxCenter/taxcenter.asp" style="text-decoration: 'none'" onmouseout="this.style.textDecoration='none'" onmouseover="this.style.textDecoration='underline'" class="bottomnavitem">Tax Center</a></font></td>
+				
+				</tr>
+			
+			<tr><td height="10"></td></tr>
+		</tbody></table>
+	
+	
+		<table width="100%" cellspacing="0" cellpadding="0" border="0">	
+			<tbody><tr><td height="10" colspan="2"></td></tr>
+			<tr>
+				<td width="183"><a href="http://www.invescofunds.com"><img src="/graphics/Logo_Include.gif" width="128" height="34" alt="" border="0"></a></td>
+				
+						<td align="right" width="406">
+							
+										<a href="PrivacyPolicy.asp?nonav=true"><img src="/Graphics/Button_PrintableVersion.gif" width="67" height="32" alt="Printable Version" align="right" border="0"></a>
+								
+						</td>
+					
+			</tr>
+			<tr>
+				<td align="left" width="589" colspan="2"><font size="1"><font size="-3">©</font>Copyright INVESCO Funds Group, Inc. INVESCO Distributors, Inc.<sup><font size="-3">SM</font></sup>, Distributor</font>	</td>
+				
+				</tr>
+			<tr><td height="10" colspan="2"></td></tr>
+		
+			<tr>
+				<td align="left" width="589" colspan="2">
+					<font size="1">For more complete information, including management fees, general and fund-specific investment risks, and expenses, call INVESCO Funds at 800.675.1705 or write INVESCO Funds Group, Inc., P.O. Box 173706, Denver, CO 80217 for a <a href="http://www.invescofunds.com/cached/FundInfo/ProList.asp">prospectus</a>. Read it carefully before you invest or send money. <a href="http://www.invescofunds.com/Help/TermsofUse.asp">Terms of Use</a></font></td>
+			</tr>
+		
+			<tr><td height="10" colspan="2"></td></tr>
+		</tbody></table>
+	
+	
+	</font></td>
+
+		
+				<td width="10"><table width="10" cellspacing="0" cellpadding="0"><tbody><tr><td></td></tr></tbody></table></td>
+		
+	
+	</tr>
+	<tr><td class="bottomborder" colspan="5" height="15" width="737"><table cellspacing="0" cellpadding="0"><tbody><tr><td></td></tr></tbody></table></td></tr>
+
+</tbody></table>
+</td>
+<td class="bottomborder" width="10"><table width="10"><tbody><tr><td></td></tr></tbody></table></td>
+</tr>	  
+</tbody></table>
+
+
+
+</body></html>
