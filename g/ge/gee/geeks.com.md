@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geeks.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605165734id_/http%3A//www.geeks.com/aboutus.asp%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geeks.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208163805id_/http%3A//www.geeks.com/aboutus.asp%23privacy) for the most accurate reproduction.*
 
 # Computer Geeks-About Us
 
@@ -57,7 +57,7 @@ Computer Geeks is committed to protecting the privacy of our Visitors and Custom
 
 Computer Geeks believes that our online 
 
-[**Visitors**](https://web.archive.org/web/20020605165734id_/http%3A//www.geeks.com/aboutus.asp#visitors) and [**Customers**](https://web.archive.org/web/20020605165734id_/http%3A//www.geeks.com/aboutus.asp#customers) need to be provided clear and prominent notice regarding what personal information is being collected about them, how it will be used, whether or not it will be disclosed, and if so, to whom.   
+[**Visitors**](https://web.archive.org/web/20021208163805id_/http%3A//www.geeks.com/aboutus.asp#visitors) and [**Customers**](https://web.archive.org/web/20021208163805id_/http%3A//www.geeks.com/aboutus.asp#customers) need to be provided clear and prominent notice regarding what personal information is being collected about them, how it will be used, whether or not it will be disclosed, and if so, to whom.   
 
 
 Many entities have examined the issue of privacy and developed guidelines for establishing reasonable policies. We believe that by addressing these issues, we will fulfill the goals of fair information use supported by the U.S. government and a variety of industry groups:[www.truste.org](http://www.truste.org/)  
@@ -66,7 +66,7 @@ Many entities have examined the issue of privacy and developed guidelines for es
 [www.ftc.gov](http://www.ftc.gov/)  
 [www.the-dma.org](http://www.the-dma.org/)
 
-[**The Glossary of Terms**](https://web.archive.org/web/20020605165734id_/http%3A//www.geeks.com/aboutus.asp#GlossaryofTerms) at the end of this Policy defines words with specific meaning as used in these guidelines.
+[**The Glossary of Terms**](https://web.archive.org/web/20021208163805id_/http%3A//www.geeks.com/aboutus.asp#GlossaryofTerms) at the end of this Policy defines words with specific meaning as used in these guidelines.
 
 **_Privacy Guidelines:_**
 
@@ -76,7 +76,7 @@ We do not use any navigational data about where individuals come from, leave to,
 While we may collect online navigational data about where you go on our Web site, we will not use such information at the individually identifiable level. We may use navigational data in aggregate or compiled statistical form.   
 
 
-We may use Web browser "[ **cookies**](https://web.archive.org/web/20020605165734id_/http%3A//www.geeks.com/aboutus.asp#cookies)" to track progress through our Web site, but the cookies will not be used to collect or store individually identifiable information nor be linked to other information that allows us to identify an individual. However, we may use cookies with individual identifiers to support visitor enhancements such as AOL member authentication, site personalization, or eCommerce features (like your shopping cart.)  
+We may use Web browser "[ **cookies**](https://web.archive.org/web/20021208163805id_/http%3A//www.geeks.com/aboutus.asp#cookies)" to track progress through our Web site, but the cookies will not be used to collect or store individually identifiable information nor be linked to other information that allows us to identify an individual. However, we may use cookies with individual identifiers to support visitor enhancements such as AOL member authentication, site personalization, or eCommerce features (like your shopping cart.)  
 
 
 **Information Sharing/Disclosure.**
