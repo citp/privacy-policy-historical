@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reed.co.uk privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604181905id_/http%3A//www.reed.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reed.co.uk privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207214719id_/http%3A//www.reed.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # reed.co.uk : Privacy Policy
 
@@ -30,13 +30,15 @@ Any policy changes, either due to business reasons or future changes in legislat
 [click here](https://web.archive.org/cgi-bin/externalLink.asp?Link=http://www.cookiecentral.com). 
 
 **How do you remove your name from the database?**   
-If you wish to remove your name from our database, please fill in the e-mail form at the bottom of this page with the word 'unsubscribe' and we will remove your information from our database as soon as possible.
+Under the Employment Agencies Act, reed.co.uk is obliged to hold your data for 12 months after it was last used. After 12 months of non-usage we will contact you and ask you if you want to keep your details on our database. If you do not indicate by signing in to reed.co.uk that you wish your details to be retained on our database, we will archive your account.
 
 * * *
 
 #### Terminology
 
 **Aggregate** \- this is when all data is collected and processed as a total to enable us to look at such information as demographic and geographic trends, so that we can try to produce a better service in the future. 
+
+**Archiving** \- this is the process where candidate users are asked if they want their personal data to remain on the reed.co.uk database. If a user does not indicate that they wish their details to be retained, their record is deleted from the database. This means that the candidate will not be able to sign in to reed.co.uk and also means that their details will not be accessible by any recruiters using reed.co.uk. Please note this process is carried out in accordance with the Employment Agencies Act and the Data Protection Act. 
 
 **Data** \- information which is being processed by equipment operating automatically in response to instructions given for that purpose, is recorded with the intention that it should be processed by means of such equipment, is recorded as part of a relevant filing system or with the intention that it should form part of a relevant filing system or forms part of an accessible record. 
 
