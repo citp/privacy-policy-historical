@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the projo.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610113126id_/http%3A//www.projo.com/cgi-bin/include.pl/registration/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projo.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208133251id_/http%3A//www.projo.com/cgi-bin/include.pl/registration/privacy.htm) for the most accurate reproduction.*
 
 # projo.com | Providence, R.I.
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.projo.com/home/1357729236/Left/default/empty.gif/7a2f4868343134303543454142724731?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.projo.com/home/1418504456/Left/default/empty.gif/7a2f486a615634303544494141336e37?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.projo.com/home/855877291/Left1/default/empty.gif/7a2f4868343134303543454142724731?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.projo.com/home/2106439252/Left1/default/empty.gif/7a2f486a615634303544494141336e37?x)
 
 | 
 
@@ -98,7 +98,7 @@ You may access all of the Personal Information that we collect from you online a
 
 You may also at any time choose to change or delete your profile from our database using this procedure. You should know that if you choose to delete your profile, certain areas of our Site may no longer be accessible to you.
 
-1\. Enter (or click) [http://signin.projo.com](http://signin.projo.com/) in your browser.
+1\. Enter (or click) <http://www.projo.com/sharedcontent/registration/membercenter.jsp> in your browser.
 
 2\. Sign in by entering your e-mail address and password. Your account information will then be displayed.
 
@@ -120,16 +120,12 @@ This Privacy Policy is effective as of March 2, 2004. Belo Interactive reserves 
 
 | 
 
-[](https://web.archive.org/classifieds/)
+##### adcenter
+
+##### shop & subscribe
 
 Advertising 
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.projo.com/home/2093280274/Position1/default/empty.gif/7a2f4868343134303543454142724731?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.projo.com/home/2027435543/Position1/default/empty.gif/7a2f486a615634303544494141336e37?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.projo.com/home/350304762/Position2/default/empty.gif/7a2f4868343134303543454142724731?x)
-
-[]()
-
-[](https://web.archive.org/print2net)
-
-Search display ads and weekly inserts from The Providence Journal
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.projo.com/home/2021207198/Position2/default/empty.gif/7a2f486a615634303544494141336e37?x)
