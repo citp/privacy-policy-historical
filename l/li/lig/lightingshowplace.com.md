@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightingshowplace.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205214729id_/http%3A//www.lightingshowplace.com/lsp_ppolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightingshowplace.com privacy policy that was archived on 2004-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040416011837id_/http%3A//www.lightingshowplace.com/lsp_ppolicy.htm) for the most accurate reproduction.*
 
 # LightingShowplace - privacy notice
 
