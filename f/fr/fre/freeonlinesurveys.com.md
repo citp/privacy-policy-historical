@@ -1,18 +1,17 @@
-> *The following text is extracted and transformed from the freeonlinesurveys.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331014020id_/http%3A//www.freeonlinesurveys.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeonlinesurveys.com privacy policy that was archived on 2001-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011029214829id_/http%3A//freeonlinesurveys.com/privacy.asp) for the most accurate reproduction.*
 
 # Free Online Surveys
 
-Privacy Policy Statement  
+**Privacy Policy Statement**  
 This is the web site of [FreeOnlineSurveys.com](http://freeonlinesurveys.com/). 
 
 Our postal address is   
-3 Welbeck Avenue  
-Plymouth, UK  
+1 Fairbourne Rd,  
+St. Austell, Cornwall, UK  
 We can be reached via e-mail at customercare.fos@ProblemFree.co.uk  
-or you can reach us by telephone at 07880 554267
+or you can reach us by telephone at 07092 0345 00
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
-
+  
 We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
 
 The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site.
@@ -21,17 +20,17 @@ With respect to cookies: We use cookies to store visitors preferences, record se
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
+Your e-mail addresses and other information collected at registration will never be distributed to any other company or person.
 
-From time to time, we make our customer</i> e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
+**IMPORTANT: All information collected using our service (including any responses to your surveys) belongs solely to you.  This information will not be passed to another company or person.  E-mail addresses that are collected in response to your surveys will never be used for marketing, sales or any other reason.  ** **In short your data is completely confidential!**
 
-If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
-
+If you supply us with your postal address on-line you will only receive the information for which you provided us your address.  
   
 Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.  
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations   
+  
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
-BurstMedia.com  
+MSN bCentral
+
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.  
 Customers may prevent their information from being used for purposes other than those for which it was originally collected by calling us at the number provided above.
 
