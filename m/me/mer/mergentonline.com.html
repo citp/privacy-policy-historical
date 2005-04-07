@@ -1,19 +1,16 @@
-<!--The following is the downloaded HTML source of the mergentonline.com privacy policy that was archived on 2004-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204055629id_/http%3A//www.mergentonline.com/noticesCM.asp%3Fcontentscode%3DPrivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mergentonline.com privacy policy that was archived on 2005-04-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050407171016id_/http%3A//www.mergentonline.com/noticesCM.asp%3Fcontentscode%3DPrivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
-	<meta machinename="2K3MOL01">
+	<meta machinename="2K3MOL3">
 	<title>Mergent Online</title>
-
-	<link rel="stylesheet" href="Styles.css" type="text/css">
-
-
-	<link rel="stylesheet" href="Header.css" type="text/css">
-
-<script language="JavaScript" type="text/javascript">
-
+	<link type="text/css" rel="stylesheet" href="header.css">
+	<script type="text/javascript" language="javascript" src="scripts/global.js"></script>
+	<link type="text/css" rel="stylesheet" href="styles.css">
+	<script type="text/javascript" language="javascript" src="scripts/dropbox.js"></script>
+<script type="text/javascript" language="javascript">
 
 function BrseGetElement(id)
 {
@@ -60,262 +57,6 @@ function BrseGetElementsByName(id)
 }
 
 
-function ShowWaitDlg()
-{
-	var wndBusy = window.open('', 'please_wait_dlg', 'resizable=no,titlebar=no,toolbar=no,scrollbars=no,status=no,menubar=no,width=180,height=142,left=400,top=300');
-	wndBusy.location.href = "pleasewait.html";
-	wndBusy.focus();
-}
-
-function TrimString(sInString)
-{
-	sInString = sInString.replace(/\s*$/, "");	// strip leading
-	return sInString.replace(/^\s*/, "");		// strip trailing
-}
-
-
-
-var g_nDropBoxCount= 0;
-var g_arrDropBoxs= new Array();
-var g_arrDropBoxsLst= new Array();
-var g_nMaxDropBox= 10;
-
-// Set the title of the drop box
-function dropbox_settitle( szTitle )
-{
-	// Set member
-	this.szTitleText= szTitle;
-}
-
-// Set the titlecolour of the drop box
-function dropbox_settitlecolour( szTitleColour )
-{
-	this.szTitleColour= szTitleColour;
-}
-
-// Set the title background color of the drop box
-function dropbox_settitlebgcolor( szTitleBGColor )
-{
-	this.szTitleBGColor= szTitleBGColor;
-}
-
-// Set the contents of the drop box
-function dropbox_setcontents( szContents )
-{
-	this.szContents= new String(szContents);
-}
-
-// create a unique id for a new drop box
-function dropbox_createid()
-{
-	return "dropbox" + g_nDropBoxCount++ + "";
-}
-
-function SetDefault( varObject, varValue )
-{
-	if ( varObject + "" == "undefined" )
-	{
-		varObject= varValue;
-	}
-}
-
-function dropbox_trackright( bTrackRight )
-{
-}
-
-function dropbox_setrightoffset( nOffset )
-{
-}
-
-function dropbox_fillfromid( szID )
-{
-
-	var elementDropBox = BrseGetElement(szID);
-	if(elementDropBox != null)
-		this.szContents = elementDropBox.innerHTML;	
-
-	var oContents = BrseGetElement(this.szID + "contents");
-	oContents.innerHTML = this.szContents;
-}
-
-function dropbox_alwaysexpanded( bAlwaysExpanded )
-{
-	this.bAlwaysExpanded= bAlwaysExpanded;
-	
-	// Set the expand button
-	if (bAlwaysExpanded)
-	{
-		var elementDropBox = BrseGetElement(this.szID + "expandbox");
-		if(elementDropBox != null)
-			 elementDropBox.innerHTML = "";
-	}
-	
-	if (bAlwaysExpanded)
-		dropbox_expand( this.szID )
-	else
-		dropbox_collapse( this.szID )
-}
-
-// Create new instance of the drop box
-function dropbox( szTitleText, szInitialContents, szBorderColor, szTitleColour, 
-				  szTitleBGColor, nWidth, nHeight, nX, nY )
-{
-	// Set internals members
-	this.szTitleText= szTitleText;
-	this.nWidth= nWidth;
-	this.nHeight= nHeight;
-	this.szBorderColor= szBorderColor;	
-	this.szTitleBGColor= szTitleBGColor;
-	this.szTitleColour = szTitleColour;
-	this.szContents= szInitialContents;
-	this.nX= nX;
-	this.nY= nY;
-	this.bTrackRight= false;
-	this.bAlwaysExpanded= false;
-	this.nRightOffset= 0;
-	
-	// Set methods
-	this.SetTitle = dropbox_settitle;
-	this.SetTitleBGColor = dropbox_settitlebgcolor;
-	this.setTitleColour = dropbox_settitlecolour;
-	this.TrackRight = dropbox_trackright;
-	this.SetRightOffset = dropbox_setrightoffset;
-	
-	this.SetContents= dropbox_setcontents;
-	this.AlwaysExpanded= dropbox_alwaysexpanded;
-	this.FillFromID= dropbox_fillfromid;
-	
-	// Create new internal ID
-	this.szID= dropbox_createid();
-	
-	// Set the box in the map
-	g_arrDropBoxs[ this.szID ]= this;
-	g_arrDropBoxsLst[ g_arrDropBoxsLst.length ]= this;
-	
-	// Set initial contents
-	this.SetContents( szInitialContents );
-	
-	// Create the div
-	dropbox_writediv( this );
-	dropbox_writeenddivs( this );
-	
-	dropbox_collapse( this.szID );
-}
-
-function dropbox_writediv( varDropBox )
-{
-	document.write( "<div id='" + varDropBox.szID + "main' style='position:absolute; z-index:0; top:" + varDropBox.nY + "px; right:20px;' onmouseout='javascript:dropbox_collapse(\"" + varDropBox.szID + "\", event);' >" );
-	
-	document.write( "<table width=" + varDropBox.nWidth + " onmouseout='javascript:dropbox_collapse(\"" + varDropBox.szID + "\", event);' cellspacing=0 cellpadding=0 width=200 class=borderedTableDropDown>" );
-	document.write( "<tr>" );
-	document.write( "<td valign=\"top\" width=" + varDropBox.nWidth + ">" );
-	
-		document.write( "<table onmouseout='javascript:dropbox_collapse(\"" + varDropBox.szID + "\", event);' width=100% border=0 cellspacing=0 cellpadding=3>" );
-		document.write( "<tr>" );
-		document.write( "<td valign=top bgcolor='" + varDropBox.szTitleBGColor + "'>" );
-		document.write( "<img src='/images/magnif_small.gif' border=0>");
-		document.write( "</td>" );	
-		document.write( "<td valign=top bgcolor='" + varDropBox.szTitleBGColor + "'>" );
-		document.write( "<span style='color:" + varDropBox.szTitleColour + "'><b>" + varDropBox.szTitleText + "</b></span>" );
-		document.write( "</td>" );
-		document.write( "<td valign=top align=right bgcolor='" + varDropBox.szTitleBGColor + "' id='" + varDropBox.szID + "expandbox'>" );
-		document.write( "<a onmouseover=\"javascript:dropbox_expand('" + varDropBox.szID + "')\" href='javascript:dropbox_void();'>(expand)</a>" );
-		document.write( "</td>" );
-		document.write( "</tr>" );
-		document.write( "</table>" );
-	
-	document.write( "</td>" );
-	document.write( "</tr>" );
-	
-	// this is needed as the border of the table is dropped
-	//  which creates a gap at the top causing a 'sunken-in' effect
-	document.write( "<tr id='" + varDropBox.szID + "_spacer_row" + "' bgcolor=#BDC3BD><td height=2 width=100%></td>" );
-	document.write( "</tr>" );
-	
-	document.write( "<tr id='" + varDropBox.szID + "_row" + "'>" );
-	document.write( "<td bgcolor=white valign='top' id='" + varDropBox.szID + "contents'>" );
-	
-	// write the main contents of the drop down
-	document.write("<table bgcolor=white width=\"100%\" height=\"100%\"><tr><td>");
-	document.write(varDropBox.szContents);
-	document.write("</td></tr></table>");
-	
-	document.write( "</td>" );
-	document.write( "</tr>" );
-	document.write( "</table>" );
-				
-	document.write( "</div>");
-}
-
-function dropbox_writeenddivs(varDropBox)
-{
-	var nLeftEdgeOffset = varDropBox.nWidth + 10 + 10;
-	var nRightEdgeOffset = 10;
-	
-	document.write( "<div style='position:absolute; background-image: url(/images/dropdown_left.gif); z-index:0; top:" + varDropBox.nY + "px; height: 26px; width: 13px; right:" + nLeftEdgeOffset + "px;' onmouseout='javascript:dropbox_collapse(\"" + varDropBox.szID + "\", event);' ></div>" );	
-	document.write( "<div style='position:absolute; background-image: url(/images/dropdown_right.gif); z-index:0; top:" + varDropBox.nY + "px; height: 26px; width: 13px; right:" + nRightEdgeOffset + "px;' onmouseout='javascript:dropbox_collapse(\"" + varDropBox.szID + "\", event);' ></div>" );
-}
-
-function dropbox_expand( szDropBoxID )
-{
-	var oContentsRow = BrseGetElement(szDropBoxID + "_row");
-	oContentsRow.style.display= "";
-	
-	var oSpacerRow = BrseGetElement(szDropBoxID + "_spacer_row");
-	oSpacerRow.style.display= "";
-}
-
-function GetScrollTop()
-{
-
-	return document.body.scrollTop;
-
-}
-
-function dropbox_collapse( szDropBoxID, event)
-{
-	// Get dropbox object
-	var varDropBox= dropbox_getboxobject( szDropBoxID );
-	
-	if (varDropBox.bAlwaysExpanded)
-		return;
-
-	// Make sure the mouse is no longer over the menu
-	var varMainCell= BrseGetElement(szDropBoxID + "main");
-	
-	if(typeof(event) != "undefined")
-	{
-		var nMouseX= event.clientX, nMouseY= event.clientY;
-			
-		// Get the current mouse position //Chenged the >= to > and <= to < for Netscape.
-		if ( nMouseX > varMainCell.offsetLeft && nMouseY > varMainCell.offsetTop - GetScrollTop() )
-		{
-			if ( nMouseX < varMainCell.offsetLeft + varMainCell.offsetWidth )
-			{
-				if ( nMouseY < ( varMainCell.offsetTop + varMainCell.offsetHeight ) - GetScrollTop() )
-					return;
-			}
-		}
-	}
-	
-	var oContentsRow = BrseGetElement(szDropBoxID + "_row");
-	oContentsRow.style.display= "none";
-	
-	var oSpacerRow = BrseGetElement(szDropBoxID + "_spacer_row");
-	oSpacerRow.style.display= "none";
-}
-
-function dropbox_getboxobject( szDropBoxID )
-{
-	return g_arrDropBoxs[ szDropBoxID ];
-}
-
-function dropbox_void()
-{
-}
-
-
-
 window.name= "mainmergentwindow";
 
 function onsizebody()
@@ -339,12 +80,6 @@ function onloadbody()
 	}
 	
 
-}
-
-function opencountrypopup( szCountryCode )
-{
-	var szRef= "CountryProfiles/" + szCountryCode+ ".htm";
-	window.open(szRef,'Country','location=no,resizable=yes,toolbar=no,scrollbars=yes,status=yes,directories=no,menubar=no,width=800,height=520');
 }
 
 function refreshpage()
@@ -379,94 +114,31 @@ function addtocustomlist( szPage, varParams, varSourcePath )
 //	document.addtolistframe.location= "addtocustomlist.asp?list=" + szPage + "&params=" + varParams + "&source=" + varSourcePath;
 }
 
-function addcurrentresults(nValue)
-{
-
-	window.addtolistframe.location= "addresultstolist.asp?list=comparison&val="+nValue;
-
-//	document.addtolistframe.location= "addresultstolist.asp?list=comparison&val="+nValue;
-}
-
-function removecommas( szText )
-{
-	// Remove the ' from the text
-	var nStart= szText.search(",");
-	while (nStart!= -1)
-	{
-		var re = new RegExp('\,', '') ;
-		szText= szText.replace(re, '') ;
-		nStart= szText.search(",");
-	}
-	
-	return szText;
-}
-
-function EndUserAdminLink(bValidated, nRole)
-{
-	//Three cases:
-	//They are not logged in. - Bring up the logon box.
-	//They are logged in but not as an account administrator. - Warn the User and then jump to the loggon box.
-	//They are logged in as an account administrator. - go to the page.
-
-	if(bValidated)
-	{
-		if (nRole == 2)
-		{
-			window.location = "/AdminProjectTracking.asp";
-		}
-		else
-		{
-			var bConfirm = confirm("You must be logged on as an End-User Administrator to access the administration area. Do you want to re-logon?");
-			if(bConfirm == true)
-			{
-				window.location = "/Home.asp?Login=Yes";
-			}
-		}
-	}
-	else
-	{
-		window.location = "/Home.asp?Login=Yes";
-	}
-}
-
 
 </script>
 </head>
 
 <body onresize="onsizebody()" onload="onloadbody();">
 
-<table class="banner" id="tableHeader">
-  <tbody><tr> 
-    <td valign="top">
-    
-	<div class="DateAndTime">
-		<script language="JavaScript" type="text/javascript">var nDate= new Date(); document.write( nDate.toLocaleString() );</script>2/19/2020, 5:10:52 PM
+<div id="banner">
+	<div id="dateandtime">
+		<script language="JavaScript" type="text/javascript">var nDate= new Date(); document.write( nDate.toLocaleString() );</script>2/19/2020, 5:10:55 PM
 	</div>
-	
-	<div class="BannerMenu">	
-		<a class="TextPos3" href="JavaScript: EndUserAdminLink(false, undefined );" title="">Administration</a><font color="#ffffff">&nbsp;&nbsp;|&nbsp;&nbsp;</font>
-		
-		<a class="TextPos3" href="noticesCM.asp?contentscode=contact">Contact Us</a><font color="#ffffff"> &nbsp;&nbsp;|&nbsp;&nbsp; </font>
-		<a class="TextPos3" href="javascript:void window.open('Help/HelpIndex.htm','','resizable=yes,toolbar=no,top=100,left=100,scrollbars=yes,status=no,menubar=no,width=600,height=400');">Help</a>
-				
+	<div id="bannermenu">	
+		<a href="JavaScript:EndUserAdminLink(false, undefined );" title="">Administration</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="noticesCM.asp?contentscode=contact">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="javascript:void window.open('Help/HelpIndex.htm','','resizable=yes,toolbar=no,top=100,left=100,scrollbars=yes,status=no,menubar=no,width=600,height=400');">Help</a>		
 	</div>
-	<div class="MergentLogo">
-		<a href="http://www.mergent.com" target="_blank">
-			<img src="/images/Small_Logo.gif" border="0">
-		</a>
+	<div id="mergentlogo">
+		<a href="http://www.mergent.com" target="_blank"><img src="/images/Small_Logo.gif"></a>
 	</div>
-	
-	</td>
-  </tr>
-</tbody></table>
+</div>
 
 <iframe name="addtolistframe" id="AddToListFrame" width="0" height="0" frameborder="0"></iframe>
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td height="20" valign="middle">
-<b>Notices</b></td>
-</tr>
-</tbody></table>
+
+<div id="backlinks">
+<span class="currentpage">Notices</span>
+</div>
 
 
 
@@ -546,34 +218,17 @@ and personal data protection policy, please feel free to contact us at <a href="
    
 
 
-<table cellpadding="0" cellspacing="0" border="0" width="100%" height="18">
-	<tbody><tr>
-		<td width="5" background="../images/footer_left.gif"></td>
-		<td bgcolor="#6B696B" color="#FFFFFF" valign="middle">
-
-			&nbsp;&nbsp;
-			<a class="Footer" href="noticesCM.asp?contentscode=copyright">
-			Copyright © 2003 Mergent</a>
-			&nbsp;&nbsp;|&nbsp;&nbsp;
-			<a class="Footer" href="noticesCM.asp?contentscode=Privacy">Privacy Policy</a>
-			&nbsp;&nbsp;|&nbsp;&nbsp;
-			<a class="Footer" href="noticesCM.asp?contentscode=SLA">Service Level</a>
-			&nbsp;&nbsp;|&nbsp;&nbsp;
-			<a class="Footer" href="Feedback.asp">Feedback</a>			
-			
-			<!--
-			&nbsp;&nbsp;|&nbsp;&nbsp;
-			<a href="/noticesCM.asp?contentscode=Privacy&showcharts=true"><font size='1' color='#FFFFFF'>Show Charts</font></a>&nbsp;&nbsp;|&nbsp;&nbsp;
-			<a href="/noticesCM.asp?contentscode=Privacy&showcharts=false"><font size='1' color='#FFFFFF'>Hide Charts</font></a>
-			-->
-		</td>
-		<td width="5" background="../images/footer_right.gif"></td>
-	</tr>
-</tbody></table>
-
-<table style="visibility:hidden" width="100%" id="tableSpaceDropBox" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td>&nbsp;</td></tr></tbody></table>
-
-
+<div id="footerbar">
+	<div id="leftedge"></div>
+	<div id="rightedge"></div>
+	<a href="noticesCM.asp?contentscode=copyright">Copyright © 2005 Mergent</a>
+	&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="noticesCM.asp?contentscode=Privacy">Privacy Policy</a>
+	&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="noticesCM.asp?contentscode=SLA">Service Level</a>
+	&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="Feedback.asp">Feedback</a>	
+</div>
 
 
 </body></html>
