@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the internationalwomensday.com privacy policy that was archived on 2002-08-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020804110107id_/http%3A//www.internationalwomensday.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the internationalwomensday.com privacy policy that was archived on 2005-04-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050407171544id_/http%3A//www.internationalwomensday.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>International Women's Day</title>
@@ -62,56 +62,104 @@ function MM_nbGroup(event, grpName) { //v3.0
   <tbody><tr>
     <td valign="top">
 	<!--<body onLoad="MM_preloadImages('/images3/about/menu_new/bt_home2.gif','/images3/about/menu_new/bt_aboutiwd2.gif','/images3/about/menu_new/bt_20022.gif','/images3/about/menu_new/bt_addevent2.gif','/images3/about/menu_new/bt_organisations2.gif','/images3/about/menu_new/bt_linktous2.gif','/images3/about/menu_new/bt_contact2.gif')">-->
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_nbGroup(event, grpName) { //v6.0
+  var i,img,nbArr,args=MM_nbGroup.arguments;
+  if (event == "init" && args.length > 2) {
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+      nbArr[nbArr.length] = img;
+      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+        if (!img.MM_up) img.MM_up = img.src;
+        img.src = img.MM_dn = args[i+1];
+        nbArr[nbArr.length] = img;
+    } }
+  } else if (event == "over") {
+    document.MM_nbOver = nbArr = new Array();
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : ((args[i+1])? args[i+1] : img.MM_up);
+      nbArr[nbArr.length] = img;
+    }
+  } else if (event == "out" ) {
+    for (i=0; i < document.MM_nbOver.length; i++) {
+      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+  } else if (event == "down") {
+    nbArr = document[grpName];
+    if (nbArr)
+      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+    document[grpName] = nbArr = new Array();
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = img.MM_dn = (args[i+1])? args[i+1] : img.MM_up;
+      nbArr[nbArr.length] = img;
+  } }
+}
+//-->
+</script>
+
+
 <table width="726" border="0" cellspacing="0" cellpadding="0" align="center">
   <tbody><tr> 
-    <td><img src="/images3/transparent.gif" width="1" height="12"></td>
+    <td><img src="../images3/transparent.gif" width="1" height="12"></td>
   </tr>
 </tbody></table>
 <table width="726" border="0" cellspacing="0" cellpadding="0" align="center">
   <tbody><tr> 
-    <td background="/images3/about/top_bg.gif"> 
-      <table width="726" border="0" cellspacing="0" cellpadding="0" background="/images3/transparent.gif">
+    <td style="background-image: url(../images3/about/top_bg.gif); background-repeat: no-repeat">
+      <table width="726" border="0" cellspacing="0" cellpadding="0" background="../images3/transparent.gif" style="border-top: 0px">
         <tbody><tr> 
-          <td><img src="/images3/transparent.gif" width="1" height="9"></td>
-        </tr>
-        <tr> 
-          <td> 
-            <table width="726" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr> 
-                <td width="30"><img src="/images3/transparent.gif" width="15" height="1"></td>
-                <td width="79"><a href="/default.asp" onclick="MM_nbGroup('down','group1','bt_home','/images3/about/menu_new/bt_home2.gif',1)" onmouseover="MM_nbGroup('over','bt_home','/images3/about/menu_new/bt_home2.gif','/images3/about/menu_new/bt_home2.gif',1)" onmouseout="MM_nbGroup('out')"><img src="/images3/about/menu_new/bt_home.gif" width="55" height="15" alt="home" name="bt_home" border="0" onload=""></a></td>
-                <td width="121"><a href="/about.asp" onclick="MM_nbGroup('down','group1','bt_aboutiwd','/images3/about/menu_new/bt_aboutiwd2.gif',1)" onmouseover="MM_nbGroup('over','bt_aboutiwd','/images3/about/menu_new/bt_aboutiwd2.gif','/images3/about/menu_new/bt_aboutiwd2.gif',1)" onmouseout="MM_nbGroup('out')"><img src="/images3/about/menu_new/bt_aboutiwd.gif" width="95" height="15" name="bt_aboutiwd" border="0" onload="" alt="about IWD"></a></td>
-                <td width="121"><a href="../events/" onclick="MM_nbGroup('down','group1','bt_iwdcon','/images3/about/menu_new/bt_20022.gif',1)" onmouseover="MM_nbGroup('over','bt_iwdcon','/images3/about/menu_new/bt_20022.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="/images3/about/menu_new/bt_2002.gif" width="127" height="15" alt="2002 IWD events" name="bt_iwdcon" border="0" onload=""></a></td>
-                <td width="102"><a href="../login/add_event.asp" onclick="MM_nbGroup('down','group1','bt_ukevent','/images3/about/menu_new/bt_addevent2.gif',1)" onmouseover="MM_nbGroup('over','bt_ukevent','/images3/about/menu_new/bt_addevent2.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="/images3/about/menu_new/bt_addevent.gif" width="100" height="15" alt="add event" name="bt_ukevent" border="0" onload=""></a></td>
-                <td width="121"><a href="/organisations.asp" onclick="MM_nbGroup('down','group1','bt_allevents','/images3/about/menu_new/bt_organisations2.gif',1)" onmouseover="MM_nbGroup('over','bt_allevents','/images3/about/menu_new/bt_organisations2.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="/images3/about/menu_new/bt_organisations.gif" width="123" height="15" alt="organisations" name="bt_allevents" border="0" onload=""></a></td>
-                <td width="87"><a href="/link.asp" onclick="MM_nbGroup('down','group1','bt_sponsors','/images3/about/menu_new/bt_linktous2.gif',1)" onmouseover="MM_nbGroup('over','bt_sponsors','/images3/about/menu_new/bt_linktous2.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="/images3/about/menu_new/bt_linktous2.gif" width="95" height="15" alt="link to us" name="bt_sponsors" border="0" onload=""></a></td>
-                <td width="100"><a href="/contact.asp" onclick="MM_nbGroup('down','group1','bt_contact','/images3/about/menu_new/bt_contact2.gif',1)" onmouseover="MM_nbGroup('over','bt_contact','/images3/about/menu_new/bt_contact2.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="/images3/about/menu_new/bt_contact.gif" width="85" height="15" alt="contact" name="bt_contact" border="0" onload=""></a></td>
-                <td width="17">&nbsp;</td>
-              </tr>
-              <tr> 
-                <td width="30"><img src="/images3/transparent.gif" width="1" height="6"></td>
-                <td width="79"></td>
-                <td width="121"></td>
-                <td width="121"></td>
-                <td width="102"></td>
-                <td width="121"></td>
-                <td width="87"></td>
-                <td width="100"></td>
-                <td width="17"></td>
+          <td>
+            <table width="726" border="0" cellspacing="0" cellpadding="0" height="30">
+            <tbody><tr> 
+                
+              <td width="30" height="17">&nbsp;</td>
+                
+              <td width="79" height="17" align="center"> <a href="/default.asp" onclick="MM_nbGroup('down','group1','bt_home','/images3/home_up.gif',1)" onmouseover="MM_nbGroup('over','bt_home','/images3/home_up.gif','/images3/about/menu_new/bt_home2.gif',1)" onmouseout="MM_nbGroup('out')"> 
+                <img src="/images3/home_down.gif" alt="home" name="bt_home" width="49" height="15" border="0" onload=""></a> 
+              </td>
+                
+              <td width="121" height="17" align="center"> <a href="/about.asp" onclick="MM_nbGroup('down','group1','bt_aboutiwd','/images3/about_up.gif',1)" onmouseover="MM_nbGroup('over','bt_aboutiwd','/images3/about_up.gif','/images3/about_up.gif',1)" onmouseout="MM_nbGroup('out')"> 
+                <img src="/images3/about_down.gif" alt="about IWD" name="bt_aboutiwd" width="78" height="15" border="0" onload=""></a> 
+              </td>
+                
+              <td width="121" height="17" align="center"> <a href="/events" onclick="MM_nbGroup('down','group1','bt_ukevent1','/images3/events_down.gif',1)" onmouseover="MM_nbGroup('over','bt_ukevent1','/images3/events_up.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="/images3/events_down.gif" alt="2004 iwd events" name="bt_ukevent1" width="102" height="15" border="0" onload=""></a> 
+              </td>
+                
+              <td width="102" height="17" align="center"> <a href="../login/add_event.asp" onclick="MM_nbGroup('down','group1','bt_ukevent','/images3/add_up.gif',1)" onmouseover="MM_nbGroup('over','bt_ukevent','/images3/add_up.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="/images3/add_down.gif" alt="add event" name="bt_ukevent" width="75" height="15" border="0" onload=""></a></td>
+                
+              <td width="121" height="17" align="center"> <a href="/organisations.asp" onclick="MM_nbGroup('down','group1','bt_allevents','/images3/org_down.gif',1)" onmouseover="MM_nbGroup('over','bt_allevents','/images3/org_down.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="/images3/org_up.gif" alt="organisations" name="bt_allevents" width="102" height="15" border="0" onload=""></a> 
+              </td>
+                
+              <td width="87" height="17" align="center"> <a href="/link.asp" onclick="MM_nbGroup('down','group1','bt_sponsors','/images3/link_up.gif',1)" onmouseover="MM_nbGroup('over','bt_sponsors','/images3/link_up.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="/images3/link_down.gif" alt="link to us" name="bt_sponsors" width="74" height="15" border="0" onload=""></a></td>
+                
+              <td width="100" height="17" align="center"> <a href="/contact.asp" onclick="MM_nbGroup('down','group1','bt_contact','/images3/contact_up.gif',1)" onmouseover="MM_nbGroup('over','bt_contact','/images3/contact_up.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="/images3/contact_down.gif" alt="contact" name="bt_contact" width="67" height="15" border="0" onload=""></a></td>
+                <td width="17" height="17">&nbsp;</td>
               </tr>
             </tbody></table>
-          </td>
-        </tr>
-        <tr> 
-          <td></td>
-        </tr>
-      </tbody></table>
-    </td>
+         </td>
   </tr>
   <tr> 
-    <td><img src="/images3/about/topmontage.jpg" width="726" height="62" alt="IWD"></td>
+        <td><a href="http://www.iwd.auroravoice.com"><img src="/images3/topmontage.jpg" width="726" height="62" alt="IWD" border="0"></a></td>
   </tr>
 </tbody></table>
+    
       <table width="726" border="0" cellspacing="0" cellpadding="0" align="center" background="images3/transparent.gif">
         <tbody><tr> 
           <td valign="top" background="images3/about/bgtop.gif"> 
@@ -125,7 +173,7 @@ function MM_nbGroup(event, grpName) { //v3.0
                 <td class="body" height="321" valign="top"> 
                   <font size="2"><b><font face="Arial" color="#009999" size="2"><span style="text-transform: uppercase">Privacy
                   Policy<br>
-                  &nbsp;</span></font></b><font face="Arial" color="#FFFFFF"><br>
+                  &nbsp;</span></font></b><font color="#FFFFFF"><font face="Arial"><br>
                   We take the privacy of our users
         seriously. We are committed to the privacy of your customer information
         and use strict security standards to safeguard it. We collect only
@@ -160,10 +208,9 @@ function MM_nbGroup(event, grpName) { //v3.0
         clearly specifying your name and the email address you submitted when using
                   our IWD services.<br>
                   &nbsp;<br>
-                  This IWD service is provided free of charge by Stonesby
-                  Consulting Limited - a company committed to the advancement of
+                  This IWD service is provided free of charge by Aurora GCM Limited - a company committed to the advancement of
                   women globally.</font><font face="Arial" color="#000000" size="1"><br>
-                  </font>&nbsp; </font>
+                  </font>&nbsp;</font> </font>
                                   </td>
               </tr>
             </tbody></table>
@@ -171,26 +218,84 @@ function MM_nbGroup(event, grpName) { //v3.0
         </tr>
       </tbody></table>
 	  <!--<body onLoad="MM_preloadImages('/images3/about/menu_new/bt_ft_home2.gif','/images3/about/menu_new/bt_ft_about2.gif','/images3/about/menu_new/bt_ft_20022.gif','/images3/about/menu_new/bt_ft_addevent2.gif','/images3/about/menu_new/bt_ft_organisations2.gif','/images3/about/menu_new/bt_ft_link2.gif','/images3/about/menu_new/bt_ft_contact2.gif')">-->
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_nbGroup(event, grpName) { //v6.0
+  var i,img,nbArr,args=MM_nbGroup.arguments;
+  if (event == "init" && args.length > 2) {
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+      nbArr[nbArr.length] = img;
+      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+        if (!img.MM_up) img.MM_up = img.src;
+        img.src = img.MM_dn = args[i+1];
+        nbArr[nbArr.length] = img;
+    } }
+  } else if (event == "over") {
+    document.MM_nbOver = nbArr = new Array();
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : ((args[i+1])? args[i+1] : img.MM_up);
+      nbArr[nbArr.length] = img;
+    }
+  } else if (event == "out" ) {
+    for (i=0; i < document.MM_nbOver.length; i++) {
+      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+  } else if (event == "down") {
+    nbArr = document[grpName];
+    if (nbArr)
+      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+    document[grpName] = nbArr = new Array();
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = img.MM_dn = (args[i+1])? args[i+1] : img.MM_up;
+      nbArr[nbArr.length] = img;
+  } }
+}
+//-->
+</script>
+
+
 <table width="726" border="0" cellspacing="0" cellpadding="0" align="center">
   <tbody><tr> 
     <td background="/images3/about/bottombg.gif"> 
-      <table width="726" border="0" cellspacing="0" cellpadding="0" background="/images3/transparent.gif">
+      <table width="726" border="0" cellspacing="0" cellpadding="0" background="../images3/transparent.gif">
         <tbody><tr> 
           <td><img src="/images3/transparent.gif" width="1" height="7"></td>
         </tr>
         <tr> 
           <td> 
             <table border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr> 
-                <td width="30"><img src="/images3/transparent.gif" width="15" height="1"></td>
-                <td width="79"><a href="/default.asp" onclick="MM_nbGroup('down','group1','bt_home2','/images3/about/menu_new/bt_home2.gif',1)" onmouseover="MM_nbGroup('over','bt_home2','/images3/about/menu_new/bt_home2.gif','/images3/about/menu_new/bt_home2.gif',1)" onmouseout="MM_nbGroup('out')"><img src="/images3/about/menu_new/bt_home.gif" width="55" height="15" alt="home" name="bt_home2" border="0" onload=""></a></td>
-                <td width="121"><a href="/about.asp" onclick="MM_nbGroup('down','group1','bt_aboutiwd2','/images3/about/menu_new/bt_aboutiwd2.gif',1)" onmouseover="MM_nbGroup('over','bt_aboutiwd2','/images3/about/menu_new/bt_aboutiwd2.gif','/images3/about/menu_new/bt_aboutiwd2.gif',1)" onmouseout="MM_nbGroup('out')"><img src="/images3/about/menu_new/bt_aboutiwd.gif" width="95" height="15" name="bt_aboutiwd2" border="0" onload="" alt="about IWD"></a></td>
-                <td width="121"><a href="../events/" onclick="MM_nbGroup('down','group1','bt_iwdcon2','/images3/about/menu_new/bt_20022.gif',1)" onmouseover="MM_nbGroup('over','bt_iwdcon2','/images3/about/menu_new/bt_20022.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="/images3/about/menu_new/bt_2002.gif" width="127" height="15" alt="2002 IWD events" name="bt_iwdcon2" border="0" onload=""></a></td>
-                <td width="102"><a href="../login/add_event.asp" onclick="MM_nbGroup('down','group1','bt_ukevent2','/images3/about/menu_new/bt_addevent2.gif',1)" onmouseover="MM_nbGroup('over','bt_ukevent2','/images3/about/menu_new/bt_addevent2.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="/images3/about/menu_new/bt_addevent.gif" width="100" height="15" alt="add event" name="bt_ukevent2" border="0" onload=""></a></td>
-                <td width="121"><a href="/organisations.asp" onclick="MM_nbGroup('down','group1','bt_allevents2','/images3/about/menu_new/bt_organisations2.gif',1)" onmouseover="MM_nbGroup('over','bt_allevents2','/images3/about/menu_new/bt_organisations2.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="/images3/about/menu_new/bt_organisations.gif" width="123" height="15" alt="organisations" name="bt_allevents2" border="0" onload=""></a></td>
-                <td width="87"><a href="/link.asp" onclick="MM_nbGroup('down','group1','bt_sponsors2','/images3/about/menu_new/bt_linktous2.gif',1)" onmouseover="MM_nbGroup('over','bt_sponsors2','/images3/about/menu_new/bt_linktous2.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="/images3/about/menu_new/bt_linktous2.gif" width="95" height="15" alt="link to us" name="bt_sponsors2" border="0" onload=""></a></td>
-                <td width="100"><a href="/contact.asp" onclick="MM_nbGroup('down','group1','bt_contact2','/images3/about/menu_new/bt_contact2.gif',1)" onmouseover="MM_nbGroup('over','bt_contact2','/images3/about/menu_new/bt_contact2.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="/images3/about/menu_new/bt_contact.gif" width="85" height="15" alt="contact" name="bt_contact2" border="0" onload=""></a></td>
-                <td width="17">&nbsp;</td>
+              <tbody><tr align="center"> 
+                <td width="30">&nbsp;</td>
+                <td width="79" height="17"> <a href="/default.asp" onclick="MM_nbGroup('down','group1','bt_home2','/images3/home_up.gif',1)" onmouseover="MM_nbGroup('over','bt_home2','/images3/home_up.gif','/images3/about/menu_new/bt_home2.gif',1)" onmouseout="MM_nbGroup('out')"> 
+                  <img src="/images3/home_down.gif" alt="home" name="bt_home2" border="0" onload=""></a> 
+                </td>
+                <td width="121" height="17"> <a href="/about.asp" onclick="MM_nbGroup('down','group1','bt_aboutiwd2','/images3/about_up.gif',1)" onmouseover="MM_nbGroup('over','bt_aboutiwd2','/images3/about_up.gif','/images3/about_up.gif',1)" onmouseout="MM_nbGroup('out')"> 
+                  <img src="/images3/about_down.gif" name="bt_aboutiwd2" border="0" onload="" alt="about IWD"></a> 
+                </td>
+                <td width="121" height="17"> <a href="/events" onclick="MM_nbGroup('down','group1','bt_ukevent3','/images3/events_down.gif',1)" onmouseover="MM_nbGroup('over','bt_ukevent3','/images3/events_up.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="/images3/events_down.gif" alt="2004 iwd events" name="bt_ukevent3" width="102" height="15" border="0" onload=""></a></td>
+                <td width="102" height="17"> <a href="../login/add_event.asp" onclick="MM_nbGroup('down','group1','bt_ukevent2','/images3/add_up.gif',1)" onmouseover="MM_nbGroup('over','bt_ukevent2','/images3/add_up.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="/images3/add_down.gif" alt="add event" name="bt_ukevent2" border="0" onload=""></a></td>
+                <td width="121" height="17"> <a href="/organisations.asp" onclick="MM_nbGroup('down','group1','bt_allevents2','/images3/org_down.gif',1)" onmouseover="MM_nbGroup('over','bt_allevents2','/images3/org_down.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="/images3/org_up.gif" alt="organisations" name="bt_allevents2" border="0" onload=""></a> 
+                </td>
+                <td width="87" height="17"> <a href="/link.asp" onclick="MM_nbGroup('down','group1','bt_sponsors2','/images3/link_up.gif',1)" onmouseover="MM_nbGroup('over','bt_sponsors2','/images3/link_up.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="/images3/link_down.gif" alt="link to us" name="bt_sponsors2" border="0" onload=""></a></td>
+                <td width="100" height="17" align="center"><a href="/contact.asp" onclick="MM_nbGroup('down','group1','bt_contact2','/images3/contact_up.gif',1)" onmouseover="MM_nbGroup('over','bt_contact2','/images3/contact_up.gif','',1)" onmouseout="MM_nbGroup('out')"><img src="/images3/contact_down.gif" alt="contact" name="bt_contact2" border="0" onload=""></a></td>
+                <td width="30">&nbsp;</td>
               </tr>
             </tbody></table>
           </td>
@@ -204,21 +309,17 @@ function MM_nbGroup(event, grpName) { //v3.0
 </tbody></table>
 <table width="726" border="0" cellspacing="0" cellpadding="0" align="center" height="20">
   <tbody><tr> 
-    <td background="/images3/bottom_bgband2.gif" valign="top"> 
-      <table width="726" border="0" cellspacing="0" cellpadding="0" background="/images3/transparent.gif">
+    <td background="../images3/bottom_bgband2.gif" valign="top"> 
+      <table width="726" border="0" cellspacing="0" cellpadding="0" background="../images3/transparent.gif">
         <tbody><tr> 
           <td width="17"><img src="../images3/transparent.gif" width="17" height="10"></td>
           <td colspan="4"> 
-            <table border="0" cellspacing="0" cellpadding="0" height="16" width="98%">
+            <table border="0" cellspacing="0" cellpadding="0" height="14" width="691">
               <tbody><tr> 
-                <td><font color="#a869ee" size="1" face="Arial">Service by <a href="http://www.stonesby.com" style="color: #a869ee; font-family: Arial; font-size: 1em">Stonesby 
-                  Consulting</a></font></td>
-                <td align="center"><font color="#a869ee" size="1" face="Arial"><a href="/privacy.asp" style="color: #A869EE; font-family: Verdana; font-size: 1em">Privacy</a></font></td>
-                <td align="right"><font color="#a869ee" size="1" face="Arial"><a href="/terms.asp" style="color: #A869EE; font-family: Arial; font-size: 1em">Terms 
-                  &amp; conditions</a></font></td>
-                <td align="right"><font color="#a869ee" size="1" face="Arial">&nbsp;&nbsp;&nbsp;&nbsp;Website 
-                  by <b><a href="http://www.zebedeecreations.com" target="_blank" style="color: #a869ee; font-family: Arial; font-size: 1em">Zebedee 
-                  Creations</a></b></font></td>
+                <td width="377" height="14">&nbsp;</td>
+                <td align="right" width="140"><b><font size="1" color="#581080" face="Verdana"><a href="../privacy.asp" target="_top" style="color: #581080; font-family: Arial; font-size: 8pt; font-weight: bold">Privacy</a></font></b></td>
+                <td align="right" width="157"><b><font size="1" color="#581080" face="Verdana">&nbsp;<a href="../terms.asp" style="color: #581080; font-family: Arial; font-size: 8pt; font-weight: bold">Terms &amp; conditions</a></font></b></td>
+                <td align="right" width="9"></td>
               </tr>
             </tbody></table>
           </td>
@@ -237,4 +338,4 @@ function MM_nbGroup(event, grpName) { //v3.0
 </tbody></table>
 
 
-</body></html>
+</td></tr></tbody></table></body></html>
