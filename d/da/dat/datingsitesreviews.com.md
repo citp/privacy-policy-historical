@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the datingsitesreviews.com privacy policy that was archived on 2004-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041119121515id_/http%3A//www.datingsitesreviews.com/index.php%3Ftopic%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingsitesreviews.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407173607id_/http%3A//www.datingsitesreviews.com/index.php%3Ftopic%3DPrivacyPolicy) for the most accurate reproduction.*
 
-# Dating Sites Reviews - Help us find which site is best for you.
+# Dating Sites Reviews - Privacy Policy
 
 [](http://www.datingsitesreviews.com/index.php?topic=PrivacyPolicy)Dating Sites Reviews has created this privacy statement in order to demonstrate our commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
