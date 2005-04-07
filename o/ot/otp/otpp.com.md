@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the otpp.com privacy policy that was archived on 2004-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041225211013id_/http%3A//www.otpp.com/web/website.nsf/web/PrivacyCode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otpp.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407222934id_/http%3A//www.otpp.com/web/website.nsf/web/PrivacyCode) for the most accurate reproduction.*
 
 # OTPP: Privacy Code
 
