@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mergentonline.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204055629id_/http%3A//www.mergentonline.com/noticesCM.asp%3Fcontentscode%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mergentonline.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407171016id_/http%3A//www.mergentonline.com/noticesCM.asp%3Fcontentscode%3DPrivacy) for the most accurate reproduction.*
 
 # Mergent Online
+
+Notices
 
 Privacy Policy
 
