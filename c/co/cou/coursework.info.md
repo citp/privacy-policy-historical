@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coursework.info privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207000741id_/http%3A//coursework.info/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coursework.info privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407172255id_/http%3A//www.coursework.info/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
