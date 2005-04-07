@@ -1,74 +1,198 @@
-<!--The following is the downloaded HTML source of the visitflorida.com privacy policy that was archived on 2004-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041208145700id_/http%3A//www.visitflorida.com/tools/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the visitflorida.com privacy policy that was archived on 2005-04-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050407173045id_/http%3A//www.visitflorida.com/cms/index.php/id%3D622) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN"><html><head>
-<link rel="SHORTCUT ICON" href="/favicon.ico">
-<title>Privacy Policy</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+	<title>Privacy Policy</title>
+	
 <meta name="keywords" content="Florida information, Florida vacation, Florida travel, Florida travel information, Florida accommodations, Florida attractions, Florida lodging, Florida beaches, Florida recreation, Florida activities, Florida tourism information">
 <meta name="description" content="The official consumer web site of the state of Florida. Florida information including Florida vacation, Florida travel, Florida travel information, Florida accommodations, Florida attractions, Florida lodging, Florida beaches, Florida recreation, Florida activities, and Florida tourism information.">
-<link href="/includes/flausaMain.css" rel="stylesheet" type="text/css">
+	<meta name="revisit-after" content="30 days">
+	<meta name="MSSmartTagsPreventParsing" content="true">
+	<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+	<meta http-equiv="pragma" content="no-cache">
+	
+	<link rel="shortcut icon" href="/favicon.ico">
+	<link rel="stylesheet" media="print" href="/js_css/print.css" type="text/css">
+	<link rel="stylesheet" media="screen" href="/js_css/flausaMain.css" type="text/css">	
 
- 
+<link rel="stylesheet" media="screen" href="/js_css/yellow.css" type="text/css">
+	<script type="text/javascript" language="javascript" src="/js_css/flausa.js"></script>
+	<script type="text/javascript" language="javascript">
+	<!--
+		var newWin = null; 
+		var xOffset = 30;
+		var yOffset = -5;
 
-<script type="text/javascript" language="JavaScript">
-<!--
-var isNav = (document.layers) ? 1:0;
-if (isNav) {
-   daWidth = innerWidth;
-   daHeight = innerHeight;
-}
-function fixDaBug() {
-   if (isNav) {
-		if (innerWidth != daWidth || innerHeight != daHeight){
-		  location.reload();
+		function popup(strURL, strType, strHeight, strWidth) 
+		{ 
+			if (newWin != null && !newWin.closed)	
+			{
+				newWin.close();
+			}
+			
+			var strOptions=""; 
+			
+			if (strType=="console")
+			{
+				strOptions="resizable,height="+strHeight+",width="+strWidth;
+			}
+			
+			if (strType=="fixed")
+			{
+				strOptions="status,height="+strHeight+",width="+strWidth;
+			} 
+			
+			if (strType=="elastic")
+			{
+				strOptions="toolbar,menubar,scrollbars,"+"resizable,location,height="+strHeight+",width="+strWidth;
+			} 
+			
+			newWin = window.open(strURL, 'newWin', strOptions);	newWin.focus();
+		} 
+		
+		function popwindow(pageSource)
+		{
+			leWindow = window.open(pageSource, 'popwindow', 'toolbar=yes,width=550,height=550,status=yes,resize=yes,resizable=yes,scrollbars=yes,location=1,menubar=yes,x=10,y=20,left=10,top=20'); 
+			leWindow.focus();
+		} 
+		
+		function cmsZoom(pageSource, pageName, theHeight, theWidth)
+		{
+			showScrollbars = '';
+			leWindow = window.open(pageSource, pageName, 'width='+theWidth+',height='+theHeight+','+showScrollbars+'resizable'); 
+			leWindow.resizeTo(theWidth,theHeight);
+			leWindow.focus();
 		}
-	}
-}
-//-->
-</script>
-
-<script language="JavaScript">
-<!-- 
-window.name = "main";
-function GenericNewWindow(pageSource)
-{
-	leWindow = window.open(pageSource, 'GenericNewWindow', 'toolbar=yes,width=650,height=550,status=0,left=50,top=50,scrollbars=1,resizable=1,menubar=1'); 
-	leWindow.focus();
-} 
-function helpFrameA(pageSource) //optional-> height, width
-{
-	var height;
-	var width;
-
-	height = (arguments[1]) ? arguments[1] : 400;
-	width = (arguments[2]) ? arguments[2] : 500;
-
-	leWindow = window.open(pageSource, 'HelpWindow', 'toolbar=no,left=100,top=100,width='+width+',height='+height+',status=0,scrollbars=0,resizable=1,menubar=0'); 
-	leWindow.resizeTo(width,height);
-	leWindow.focus();
-} 
-function changeImages() {
-	if (document.images) {
-		for (var i=0; i<changeImages.arguments.length; i+=2) {
-			document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
+		
+		function getStyleObject(objectId) 
+		{
+			if(document.getElementById && document.getElementById(objectId))
+			{
+				return document.getElementById(objectId).style;
+			} 
+			else if (document.all && document.all(objectId))
+			{
+				return document.all(objectId).style;
+			} 
+			else if (document.layers && document.layers[objectId])
+			{
+				return document.layers[objectId];
+			} 
+			else
+			{
+				return false;
+			}
 		}
-	}
-}
-function popwindow(pageSource)
-{
-	leWindow = window.open(pageSource, 'MapInterface', 'toolbar=no,width=765,height=550,status=no,resize=no,resizable=no,menubar=no,x=10,y=20,left=10,top=20'); 
-	leWindow.focus();
-}  
-// -->
-</script>
-	<!------ OAS SETUP begin ------>
+		
+		function changeObjectVisibility(objectId, newVisibility) 
+		{
+			var styleObject = getStyleObject(objectId);
+			if(styleObject)
+			{
+				styleObject.visibility = newVisibility;
+				return true;
+			} 
+			else
+			{
+				return false;
+			}
+		} 
+		
+		function moveObject(objectId, newXCoordinate, newYCoordinate) 
+		{
+			var styleObject = getStyleObject(objectId);
+			
+			if(styleObject)
+			{
+				styleObject.left = newXCoordinate;styleObject.top = newYCoordinate;
+				return true;
+			} 
+			else
+			{
+				return false;
+			}
+		}
+		
+		function showPopup (targetObjectId, eventObj) 
+		{
+			if(eventObj) 												
+			{
+				hideCurrentPopup();
+				eventObj.cancelBubble = true;
+				var newXCoordinate = (eventObj.pageX)?eventObj.pageX + xOffset:eventObj.x + xOffset + ((document.body.scrollLeft)?document.body.scrollLeft:0);
+				var newYCoordinate = (eventObj.pageY)?eventObj.pageY + yOffset:eventObj.y + yOffset + ((document.body.scrollTop)?document.body.scrollTop:0);
+				moveObject(targetObjectId, newXCoordinate, newYCoordinate);
+				
+				if(changeObjectVisibility(targetObjectId, 'visible')) 	
+				{
+					window.currentlyVisiblePopup = targetObjectId;
+					return true;
+				} 
+				else 
+				{
+					return false;
+				}
+			}
+			else 
+			{
+				return false;
+			}
+		}
+		
+		function hideCurrentPopup()
+		{
+			if(window.currentlyVisiblePopup)
+			{
+				changeObjectVisibility(window.currentlyVisiblePopup, 'hidden');
+				window.currentlyVisiblePopup = false;
+			}
+		}
+		
+		window.onload = initializeHacks;
+		document.onclick = hideCurrentPopup;
+		
+		function initializeHacks() 
+		{
+			if ((navigator.appVersion.indexOf('MSIE 5') != -1) && (navigator.platform.indexOf('Mac') != -1) && getStyleObject('blankDiv'))
+			{
+				window.onresize = explorerMacResizeFix;
+			}
+			
+			resizeBlankDiv();
+			createFakeEventObj();
+		}
+		
+		function createFakeEventObj()
+		{
+			if(!window.event)
+			{
+				window.event = false;
+			}
+		}
+		
+		function resizeBlankDiv()
+		{
+			if ((navigator.appVersion.indexOf('MSIE 5') != -1) && (navigator.platform.indexOf('Mac') != -1) && getStyleObject('blankDiv'))
+			{
+				getStyleObject('blankDiv').width = document.body.clientWidth - 20;
+				getStyleObject('blankDiv').height = document.body.clientHeight - 20;
+			}
+		}
+		
+		function explorerMacResizeFix ()
+		{
+			location.reload(false);
+		}
+	-->
+	</script>
+	
+<!------ OAS SETUP begin ------>
 <script language="JavaScript">
 <!--
 //configuration
 OAS_url = 'http://oascentral.flausa.com/RealMedia/ads/';
-OAS_sitepage = 'www.flausa.com/too_ivf';
-OAS_listpos = 'Top,Right1,Right2';
+OAS_sitepage = 'www.VISITFLORIDA.com/pln_ivf';
+OAS_listpos = 'Top1,Right';
 OAS_query = '';
 OAS_target = '_top';
 //end of configuration
@@ -89,7 +213,7 @@ if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexO
 if (OAS_version >= 11)
   document.write('<SCRIPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');
 //-->
-</script><script language="JavaScript1.1" src="http://oascentral.flausa.com/RealMedia/ads/adstream_mjx.ads/www.flausa.com/too_ivf/1058929840@Top,Right1,Right2?"></script>
+</script><script language="JavaScript1.1" src="http://oascentral.flausa.com/RealMedia/ads/adstream_mjx.ads/www.VISITFLORIDA.com/pln_ivf/1391751628@Top1,Right?"></script>
 <script language="JavaScript">
 <!--
 document.write('');
@@ -101,543 +225,308 @@ function OAS_AD(pos) {
 }
 //-->
 </script>
-<!------ OAS SETUP end ------>
-</head>
-<body onresize="fixDaBug()" bgcolor="66CCFF" leftmargin="0" rightmargin="0" topmargin="0" bottommargin="0" marginheight="0" marginwidth="0">
+<!------ OAS SETUP end ------> 
+	</head>
+	<body>
+
+
+	<table id="adbannerBack" width="100%" border="0" cellpadding="5" cellspacing="0">
+		<tbody><tr>
+			<td>
 <script language="JavaScript">
 <!--
-	var netscape = (document.layers) ? 1 : 0;
-	var ie = (document.all) ? 1 : 0;
-	
-	var timeouts = new Array(4);
-	timeouts["interests"] = null;
-	timeouts["destinations"] = null;
-	timeouts["tools"] = null;
-	timeouts["quickbar"] = null;
-	
-	var arrow_toggle = new Array(3);
-	arrow_toggle["interests"] = 'up';
-	arrow_toggle["destinations"] = 'up';
-	arrow_toggle["tools"] = 'up';
-	
-	timeout = 400;
-		
-	if (netscape) {
-		var visible = 'show';
-		var hidden = 'hide';
-	} else if (ie) {
-		var visible = 'visible';
-		var hidden = 'hidden';
-	} 
-	
-	if (document.images) {
-		interests_over = new Image(82,26); interests_over.src = "/images/shell/b_interests_over.gif";
-		destinations_over = new Image(82,26); destinations_over.src = "/images/shell/b_destinations_over.gif";
-		tools_over = new Image(82,26); tools_over.src = "/images/shell/b_tools_over.gif";
-		interests_arrow_over = new Image(18,26); interests_arrow_over.src = "/images/shell/b_interests_arrow_over.gif";
-		destinations_arrow_over = new Image(18,26); destinations_arrow_over.src = "/images/shell/b_destinations_arrow_over.gif";
-		tools_arrow_over = new Image(18,26); tools_arrow_over.src = "/images/shell/b_tools_arrow_over.gif";
-		quickbar_over = new Image(22,52); quickbar_over.src = "/images/shell/b_quickbar_over.gif";
-		quickbar_out_over = new Image(22,52); quickbar_out_over.src = "/images/shell/b_quickbar_out_over_new.gif";
-	}
-		
-		
-	function cancelTimeout(section, timeoutArray) {
-				if (timeoutArray[section] != null) {
-			window.clearTimeout(timeoutArray[section]);
-			timeoutArray[section] = null;
-		}
-			}
-	
-	/******************************************************************************************/
-	/******************************************************************************************/
-	/*********************************                     ************************************/
-	/*********************************    Sub Menu JS      ************************************/
-	/*********************************                     ************************************/
-	/******************************************************************************************/
-	/******************************************************************************************/
-		
-	function collapseMenu(section, timeoutArray) {
-				if(section != 'welcome'){ //if added because welcome button has no pulldown menu - DTD 12/17/2001
-			var menu = 'div_' + section;
-			if (netscape) {
-				var submenu = document.layers[menu];
-			} else if (ie) {
-				var submenu = document.all(menu).style;
-			}
-			submenu.visibility = hidden;
-			
-			timeoutArray[section] = null;
-			arrow_toggle[section] = 'up';
-		}
-				}
-	
-	function collapseTimeout(section, timeoutArray, time) {
-				var code = 'collapseMenu(\'' + section + '\', timeouts)';
-		timeoutArray[section] = window.setTimeout(code, time);
-			}
-	
-	function expandMenu(section, timeoutArray) {
-				var menu = 'div_' + section;
-		
-				cancelTimeout(section, timeoutArray);
-		
-		if (netscape) {
-			var submenu = document.layers[menu];
-		} else if (ie) {
-			var submenu = document.all(menu).style;
-		}
-		submenu.visibility = visible;
-			}
-	
-	//optional 4th parameter set to true if this is for an arrow
-	function changeButtonOver(menu, timeoutArray, time) {
-				
-		if(arguments[3]){
-			var imgSrc = '/images/shell/b_' + menu + '_arrow_over' + '.gif';
-			var newMenu = menu + '_arrow';
-			document.images[newMenu].src = imgSrc;
-		} else {
-			var imgSrc = '/images/shell/b_' + menu + '_over' + '.gif';
-			document.images[menu].src = imgSrc;
-		}		
-		
-				cancelTimeout(menu, timeoutArray);
-			}
-	
-	//optional 4th parameter set to true if this is for an arrow
-	function changeButtonUp(menu, timeoutArray, time) {
-				
-		if(arguments[3]){
-			var imgSrc = '/images/shell/b_' + menu + '_arrow_up' + '.gif';
-			var newMenu = menu + '_arrow';
-			document.images[newMenu].src = imgSrc;
-		} else {
-			var imgSrc = '/images/shell/b_' + menu + '_up' + '.gif';
-			document.images[menu].src = imgSrc;
-		}
-		
-				collapseTimeout(menu, timeoutArray, time);
-			}
-	
-	//optional 4th parameter set to true if this is for an arrow
-	function changeButtonDown(menu, timeoutArray, time) {
-				
-		if(arguments[3]){
-			var imgSrc = '/images/shell/b_' + menu + '_arrow_down' + '.gif';
-			var newMenu = menu + '_arrow';
-			document.images[newMenu].src = imgSrc;
-		} else {
-			var imgSrc = '/images/shell/b_' + menu + '_down' + '.gif';
-			document.images[menu].src = imgSrc;
-		}
-		
-		document.images[menu].src = imgSrc;
-			}
-	
-	function clickArrowHelper(section, timeoutArray, stateArray) {	
-		if (stateArray[section] == 'up') {
-			expandMenu(section, timeoutArray);
-			stateArray[section] = 'down';
-		} else {
-			collapseMenu(section, timeoutArray);
-			stateArray[section] = 'up';
-		}
-	}
-	
-	/******************************************************************************************/
-	/******************************************************************************************/
-	/*********************************                     ************************************/
-	/*********************************   Quick Bar JS      ************************************/
-	/*********************************                     ************************************/
-	/******************************************************************************************/
-	/******************************************************************************************/
-
-	
-	function changeQButton(div_name, button_name, state) {
-		var imgSrc = '/images/shell/b_quickbar_' + state + '.gif';
-		
-		if (netscape) {
-			document.layers[div_name].document.images[button_name].src = imgSrc;
-		} else if (ie) {
-			document.images[button_name].src = imgSrc;
-		}
-	}
-	
-	function expandQuickbar(section, timeoutArray) {
-		var divBar = "div_quickbar";
-		var divBut = "div_quickbar_button";
-		
-		cancelTimeout(section, timeoutArray);
-		
-		if (netscape) {
-			var bar = document.layers[divBar];
-			var button = document.layers[divBut];
-		} else if (ie) {
-			var bar = document.all(divBar).style;
-			var button = document.all(divBut).style;
-		}
-		bar.visibility = visible;
-		button.visibility = hidden;
-	}
-	
-	function collapseQuickbar(section, timeoutArray) {
-		var divBar = "div_quickbar";
-		var divBut = "div_quickbar_button";
-				
-		if (netscape) {
-			var bar = document.layers[divBar];
-			var button = document.layers[divBut];
-		} else if (ie) {
-			var bar = document.all(divBar).style;
-			var button = document.all(divBut).style;
-		}
-		bar.visibility = hidden;
-		button.visibility = visible;
-		
-		timeoutArray[section] = null;
-	}
-	
-	function collapseQuickbarTimeout(section, timeoutArray, time) {
-		var code = 'collapseQuickbar(\'' + section + '\', timeouts)';
-		
-		timeoutArray[section] = window.setTimeout(code, time);
-	}
-
-//  stop hiding -->
-</script>
-
-<div id="div_quickbar_button" style="POSITION: absolute; Z-INDEX: 10; LEFT: 749px; TOP: 92px;">
-	<a target="_top" href="javascript:void(0);" onclick="expandQuickbar('quickbar', timeouts);" onmouseover="changeQButton('div_quickbar_button', 'quickbutton', 'over'); window.status='Click the arrow for the Quick Links'; return true;" onmouseout="changeQButton('div_quickbar_button', 'quickbutton', 'new'); window.status=''; return true;"><img name="quickbutton" src="/images/shell/b_quickbar_new.gif" border="0" alt=""></a>
-</div>
-
-<div id="div_quickbar" style="POSITION: absolute; Z-INDEX: 11; LEFT: 467px; TOP: 92px; visibility: hidden;">
-	<table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>
-	<td><a href="javascript:void(0);" onclick="collapseQuickbar('quickbar', timeouts);" onmouseover="changeQButton('div_quickbar', 'quickbar_button', 'out_over_new');expandQuickbar('quickbar', timeouts); window.status='Click the arrow to close the Quick Links'; return true;" onmouseout="changeQButton('div_quickbar', 'quickbar_button', 'out_new');collapseQuickbarTimeout('quickbar', timeouts, timeout); window.status=''; return true;"><img name="quickbar_button" src="/images/shell/b_quickbar_out_new.gif" border="0" alt=""></a></td>
-	<td><a href="/tools/worldres/" onmouseover="expandQuickbar('quickbar', timeouts);" onmouseout="collapseQuickbarTimeout('quickbar', timeouts, timeout);"><img src="/images/shell/b_quickbar_01.gif" border="0" alt=""></a></td>
-	<td><a href="/tools/travelnow/index.php?cars=1" onmouseover="expandQuickbar('quickbar', timeouts);" onmouseout="collapseQuickbarTimeout('quickbar', timeouts, timeout);"><img src="/images/shell/b_quickbar_02.gif" border="0" alt=""></a></td>
-	<td><a href="/tools/travelnow/index.php?flights=1" onmouseover="expandQuickbar('quickbar', timeouts);" onmouseout="collapseQuickbarTimeout('quickbar', timeouts, timeout);"><img src="/images/shell/b_quickbar_03.gif" border="0" alt=""></a></td>
-	<td><a href="/tools/search.php" onmouseover="expandQuickbar('quickbar', timeouts);" onmouseout="collapseQuickbarTimeout('quickbar', timeouts, timeout);"><img src="/images/shell/b_quickbar_04.gif" border="0" alt=""></a></td>
-	<td><a href="javascript:void(0);" onmouseover="expandQuickbar('quickbar', timeouts);" onmouseout="collapseQuickbarTimeout('quickbar', timeouts, timeout);"><img src="/images/shell/b_quickbar_roller.gif" border="0" alt=""></a></td>
-	</tr>
-	</tbody></table>
-</div>
-
-<div id="div_quickbar_test" style="POSITION: absolute; Z-INDEX: 10; LEFT: 746px; TOP: 150px;">
-	<img src="/images/shell/dec_quicklink.gif" border="0" alt="">
-</div>	<table width="780" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr>			<td width="137"><img src="/images/transparent_dot.gif" hspace="0" vspace="0" border="0" width="137" height="1"></td>
-			<td width="6"><img src="/images/transparent_dot.gif" hspace="0" vspace="0" width="6" height="1"></td>
-			<td width="47"><img src="/images/transparent_dot.gif" hspace="0" vspace="0" width="47" height="1"></td>
-			<td width="153"><img src="/images/transparent_dot.gif" hspace="0" vspace="0" width="153" height="1"></td>
-			<td width="260"><img src="/images/transparent_dot.gif" hspace="0" vspace="0" width="260" height="1"></td>
-			<td width="6"><img src="/images/transparent_dot.gif" hspace="0" vspace="0" width="6" height="1"></td>
-			<td width="55"><img src="/images/transparent_dot.gif" hspace="0" vspace="0" width="55" height="1"></td>
-			<td width="75"><img src="/images/transparent_dot.gif" hspace="0" vspace="0" width="75" height="1"></td>
-			<td width="6"><img src="/images/transparent_dot.gif" hspace="0" vspace="0" width="6" height="1"></td>
-			<td width="1"><img src="/images/transparent_dot.gif" hspace="0" vspace="0" width="1" height="1"></td>
-			<td width="30"><img src="/images/transparent_dot.gif" hspace="0" vspace="0" width="30" height="1"></td>
-			<td width="2"><img src="/images/transparent_dot.gif" hspace="0" vspace="0" width="2" height="1"></td>
-			<td width="2"><img src="/images/transparent_dot.gif" hspace="0" vspace="0" width="2" height="1"></td>
-		</tr>
-		<tr bgcolor="#66CCFF">			<td width="137" valign="bottom"><a href="/index.php"><!--htdig_noindex--><img src="/images/shell/logo_top.gif" alt="VisitFlorida Home" hspace="0" vspace="0" border="0" width="137" height="26"><!--/htdig_noindex--></a></td>
-			<td width="53" colspan="2" valign="bottom"><img src="/images/shell/dec_starfishtop.gif" hspace="0" vspace="0" border="0" width="53" height="26"></td>
-			<td width="153" colspan="1" align="center" valign="center">&nbsp;</td>
-			<td width="433" colspan="7" valign="center" align="right"><!--htdig_noindex--><img src="/images/shell/dec_official_message.gif" width="327" height="26" alt="The Official travel planning Web Site for the state of Florida" border="0"><!--/htdig_noindex--></td>
-			<td width="4" colspan="2" valign="bottom"><img src="/images/transparent_dot.gif" hspace="0" vspace="0" width="4" height="26"></td>
-		</tr>
-<form name="jumptoForm" action="/tools/jumpto_action.php" method="get"></form>
-		<tr>			<td width="137" rowspan="4"><a href="/index.php"><!--htdig_noindex--><img src="/images/shell/logo_mid.gif" alt="VisitFlorida" border="0" width="137" height="56"><!--/htdig_noindex--></a></td>
-			<td width="609" colspan="9" bgcolor="000000"><img src="/images/transparent_dot.gif" width="609" height="2"></td>
-			<td width="34" colspan="3" rowspan="2"><input type="image" src="/images/shell/b_go-corner_up.gif" alt="GO!" border="0" width="34" height="28"></td>
-		</tr>
-		<tr>
-			<td width="206" rowspan="3" colspan="3" bgcolor="FFCC00"><img src="/images/shell/dec_explorearrow.gif" border="0" width="206" height="54"></td>
-			<td width="403" colspan="6" bgcolor="FFCC00" align="right"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="right"><!--htdig_noindex--><img src="/images/shell/dec_jumpto-search.gif" border="0" height="26" width="104" alt="Jump To"><!--/htdig_noindex--></td><td align="left"><input class="dec_text" type="text" height="20" name="jumpto" value="" size="24"></td></tr></tbody></table></td>
-		</tr>
-
-		<tr>
-			<td width="403" colspan="6" bgcolor="000000"><img src="/images/transparent_dot.gif" width="403" height="1"></td>
-			<td width="34" colspan="3" rowspan="2"><a href="#" onclick="helpFrameA('/help/help_frame.php')"><!--htdig_noindex--><img src="/images/shell/b_help-corner_up.gif" alt="Help!" border="0" width="34" height="28"><!--/htdig_noindex--></a></td>
-		</tr>
-		<tr>
-			<td width="137" colspan="6" bgcolor="FF9900" align="left"><table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>
-		<td><a href="/index.php" target="_top" onmouseover="changeButtonOver('welcome', timeouts, timeout)" onmouseout="changeButtonUp('welcome', timeouts, timeout)"><img name="welcome" src="/images/shell/b_welcome_up.gif" width="100" height="26" hspace="0" vspace="0" border="0" alt=""></a></td>
-		<td><a href="/interests/index.php" target="_top" onmouseover="changeButtonOver('interests', timeouts, timeout)" onmouseout="changeButtonUp('interests', timeouts, timeout)"><img name="interests" src="/images/shell/b_interests_up.gif" width="82" height="26" hspace="0" vspace="0" border="0" alt=""></a></td>
-		<td><a href="javascript:void(0);" onclick="clickArrowHelper('interests', timeouts, arrow_toggle);" onmouseover="changeButtonOver('interests', timeouts, timeout, true); window.status='Click the arrow for a menu'; return true;" onmouseout="changeButtonUp('interests', timeouts, timeout, true); window.status=''; return true;"><img name="interests_arrow" src="/images/shell/b_interests_arrow_up.gif" width="18" height="26" border="0" alt=""></a></td>
-		<td><a href="/destinations/index.php" target="_top" onmouseover="changeButtonOver('destinations', timeouts, timeout)" onmouseout="changeButtonUp('destinations', timeouts, timeout)"><img name="destinations" src="/images/shell/b_destinations_up.gif" width="82" height="26" hspace="0" vspace="0" border="0" alt=""></a></td>
-		<td><a href="javascript:void(0);" onclick="clickArrowHelper('destinations', timeouts, arrow_toggle);" onmouseover="changeButtonOver('destinations', timeouts, timeout, true); window.status='Click the arrow for a menu'; return true;" onmouseout="changeButtonUp('destinations', timeouts, timeout, true); window.status=''; return true;"><img name="destinations_arrow" src="/images/shell/b_destinations_arrow_up.gif" width="18" height="26" border="0" alt=""></a></td>
-		<td><a href="/tools/index.php" target="_top" onmouseover="changeButtonDown('tools', timeouts, timeout)" onmouseout="changeButtonDown('tools', timeouts, timeout)"><img name="tools" src="/images/shell/b_tools_down.gif" width="82" height="26" hspace="0" vspace="0" border="0" alt=""></a></td>
-		<td><a href="javascript:void(0);" onclick="clickArrowHelper('tools', timeouts, arrow_toggle);" onmouseover="changeButtonOver('tools', timeouts, timeout, true); window.status='Click the arrow for a menu'; return true;" onmouseout="changeButtonUp('tools', timeouts, timeout, true); window.status=''; return true;"><img name="tools_arrow" src="/images/shell/b_tools_arrow_up.gif" width="18" height="26" border="0" alt=""></a></td>
-	</tr>
-</tbody></table>
-
-<div id="div_interests" style="POSITION: absolute; Z-INDEX: 11; LEFT: 455px; TOP: 77px; visibility: hidden;">
-	<table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr><td><a href="javascript:void(0);" target="_top" onmouseover="expandMenu('interests', timeouts);" onmouseout="collapseTimeout('interests', timeouts, timeout)"><img src="/images/shell/menus/interests_head.gif" border="0"></a></td></tr>
-	<tr><td><a href="/interests/attractions/" target="_top" onmouseover="expandMenu('interests', timeouts);" onmouseout="collapseTimeout('interests', timeouts, timeout)"><img src="/images/shell/menus/interests_01.gif" border="0"></a></td></tr>
-	<tr><td><a href="/interests/beaches/" target="_top" onmouseover="expandMenu('interests', timeouts);" onmouseout="collapseTimeout('interests', timeouts, timeout)"><img src="/images/shell/menus/interests_02.gif" border="0"></a></td></tr>
-	<tr><td><a href="/interests/dining/" target="_top" onmouseover="expandMenu('interests', timeouts);" onmouseout="collapseTimeout('interests', timeouts, timeout)"><img src="/images/shell/menus/interests_03.gif" border="0"></a></td></tr>
-	<tr><td><a href="/interests/divesnorkel/" target="_top" onmouseover="expandMenu('interests', timeouts);" onmouseout="collapseTimeout('interests', timeouts, timeout)"><img src="/images/shell/menus/interests_04.gif" border="0"></a></td></tr>
-	<tr><td><a href="/interests/tours/" target="_top" onmouseover="expandMenu('interests', timeouts);" onmouseout="collapseTimeout('interests', timeouts, timeout)"><img src="/images/shell/menus/interests_05.gif" border="0"></a></td></tr>
-	<tr><td><a href="/interests/events/" target="_top" onmouseover="expandMenu('interests', timeouts);" onmouseout="collapseTimeout('interests', timeouts, timeout)"><img src="/images/shell/menus/interests_06.gif" border="0"></a></td></tr>
-	<tr><td><a href="/interests/family/" target="_top" onmouseover="expandMenu('interests', timeouts);" onmouseout="collapseTimeout('interests', timeouts, timeout)"><img src="/images/shell/menus/interests_07.gif" border="0"></a></td></tr>
-	<tr><td><a href="/interests/fishing/" target="_top" onmouseover="expandMenu('interests', timeouts);" onmouseout="collapseTimeout('interests', timeouts, timeout)"><img src="/images/shell/menus/interests_08.gif" border="0"></a></td></tr>
-	<tr><td><a href="/interests/spas/" target="_top" onmouseover="expandMenu('interests', timeouts);" onmouseout="collapseTimeout('interests', timeouts, timeout)"><img src="/images/shell/menus/interests_09.gif" border="0"></a></td></tr>
-	<tr><td><a href="/interests/golf/" target="_top" onmouseover="expandMenu('interests', timeouts);" onmouseout="collapseTimeout('interests', timeouts, timeout)"><img src="/images/shell/menus/interests_10.gif" border="0"></a></td></tr>
-	<tr><td><a href="/interests/history.php" target="_top" onmouseover="expandMenu('interests', timeouts);" onmouseout="collapseTimeout('interests', timeouts, timeout)"><img src="/images/shell/menus/interests_11.gif" border="0"></a></td></tr>
-	<tr><td><a href="/interests/outdoor.php" target="_top" onmouseover="expandMenu('interests', timeouts);" onmouseout="collapseTimeout('interests', timeouts, timeout)"><img src="/images/shell/menus/interests_12.gif" border="0"></a></td></tr>
-	<tr><td><a href="/interests/romance/" target="_top" onmouseover="expandMenu('interests', timeouts);" onmouseout="collapseTimeout('interests', timeouts, timeout)"><img src="/images/shell/menus/interests_13.gif" border="0"></a></td></tr>
-	<tr><td><a href="/interests/shopping/" target="_top" onmouseover="expandMenu('interests', timeouts);" onmouseout="collapseTimeout('interests', timeouts, timeout)"><img src="/images/shell/menus/interests_14.gif" border="0"></a></td></tr>
-	<tr><td><a href="javascript:void(0);" target="_top" onmouseover="expandMenu('interests', timeouts);" onmouseout="collapseTimeout('interests', timeouts, timeout)"><img src="/images/shell/menus/interests_tail.gif" border="0"></a></td></tr>
-	</tbody></table>
-</div>
-
-<div id="div_destinations" style="POSITION: absolute; Z-INDEX: 11; LEFT: 555px; TOP: 77px; visibility: hidden;">
-	<table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr><td><a href="javascript:void(0);" target="_top" onmouseover="expandMenu('destinations', timeouts);" onmouseout="collapseTimeout('destinations', timeouts, timeout)"><img src="/images/shell/menus/destinations_head.gif" border="0"></a></td></tr>
-	<tr><td><a href="/destinations/" target="_top" onmouseover="expandMenu('destinations', timeouts);" onmouseout="collapseTimeout('destinations', timeouts, timeout)"><img src="/images/shell/menus/destinations_01.gif" border="0"></a></td></tr>
-	<tr><td><a href="/destinations/cities.php" target="_top" onmouseover="expandMenu('destinations', timeouts);" onmouseout="collapseTimeout('destinations', timeouts, timeout)"><img src="/images/shell/menus/destinations_02.gif" border="0"></a></td></tr>
-	<tr><td><a href="/destinations/areas.php" target="_top" onmouseover="expandMenu('destinations', timeouts);" onmouseout="collapseTimeout('destinations', timeouts, timeout)"><img src="/images/shell/menus/destinations_03.gif" border="0"></a></td></tr>
-	<tr><td><a href="/destinations/gettinghere.php" target="_top" onmouseover="expandMenu('destinations', timeouts);" onmouseout="collapseTimeout('destinations', timeouts, timeout)"><img src="/images/shell/menus/destinations_04.gif" border="0"></a></td></tr>
-	<tr><td><a href="javascript:void(0);" target="_top" onmouseover="expandMenu('destinations', timeouts);" onmouseout="collapseTimeout('destinations', timeouts, timeout)"><img src="/images/shell/menus/destinations_tail.gif" border="0"></a></td></tr>
-	</tbody></table>
-</div>
-
-<div id="div_tools" style="POSITION: absolute; Z-INDEX: 11; LEFT: 655px; TOP: 77px; visibility: hidden;">
-	<table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr><td><a href="javascript:void(0);" target="_top" onmouseover="expandMenu('tools', timeouts);" onmouseout="collapseTimeout('tools', timeouts, timeout)"><img src="/images/shell/menus/tools_head.gif" border="0"></a></td></tr>
-	<tr><td><a href="/tools/reservations.php" target="_top" onmouseover="expandMenu('tools', timeouts);" onmouseout="collapseTimeout('tools', timeouts, timeout)"><img src="/images/shell/menus/tools_01.gif" border="0"></a></td></tr>
-	<tr><td><a href="/tools/flausa.php" target="_top" onmouseover="expandMenu('tools', timeouts);" onmouseout="collapseTimeout('tools', timeouts, timeout)"><img src="/images/shell/menus/tools_11.gif" border="0"></a></td></tr>
-	<tr><td><a href="/tools/advertising/" target="_top" onmouseover="expandMenu('tools', timeouts);" onmouseout="collapseTimeout('tools', timeouts, timeout)"><img src="/images/shell/menus/tools_10.gif" border="0"></a></td></tr>
-	<tr><td><a href="/tools/feedback.php" target="_top" onmouseover="expandMenu('tools', timeouts);" onmouseout="collapseTimeout('tools', timeouts, timeout)"><img src="/images/shell/menus/tools_07.gif" border="0"></a></td></tr>
-	<tr><td><a href="/tools/funstuff.php" target="_top" onmouseover="expandMenu('tools', timeouts);" onmouseout="collapseTimeout('tools', timeouts, timeout)"><img src="/images/shell/menus/tools_09.gif" border="0"></a></td></tr>
-	<tr><td><a href="/tools/hotdeals/" target="_top" onmouseover="expandMenu('tools', timeouts);" onmouseout="collapseTimeout('tools', timeouts, timeout)"><img src="/images/shell/menus/tools_12.gif" border="0"></a></td></tr>
-	<tr><td><a href="/tools/jumpto.php" target="_top" onmouseover="expandMenu('tools', timeouts);" onmouseout="collapseTimeout('tools', timeouts, timeout)"><img src="/images/shell/menus/tools_04.gif" border="0"></a></td></tr>
-	<tr><td><a href="/tools/myflausa/mytrip/" target="_top" onmouseover="expandMenu('tools', timeouts);" onmouseout="collapseTimeout('tools', timeouts, timeout)"><img src="/images/shell/menus/tools_06.gif" border="0"></a></td></tr>
-	<tr><td><a href="/tools/sitemap.php" target="_top" onmouseover="expandMenu('tools', timeouts);" onmouseout="collapseTimeout('tools', timeouts, timeout)"><img src="/images/shell/menus/tools_02.gif" border="0"></a></td></tr>
-	<tr><td><a href="/tools/search.php" target="_top" onmouseover="expandMenu('tools', timeouts);" onmouseout="collapseTimeout('tools', timeouts, timeout)"><img src="/images/shell/menus/tools_03.gif" border="0"></a></td></tr>
-	<tr><td><a href="/tools/guide/" target="_top" onmouseover="expandMenu('tools', timeouts);" onmouseout="collapseTimeout('tools', timeouts, timeout)"><img src="/images/shell/menus/tools_08.gif" border="0"></a></td></tr>
-	<tr><td><a href="/tools/visitors/" target="_top" onmouseover="expandMenu('tools', timeouts);" onmouseout="collapseTimeout('tools', timeouts, timeout)"><img src="/images/shell/menus/tools_13.gif" border="0"></a></td></tr>
-	<tr><td><a href="javascript:void(0);" target="_top" onmouseover="expandMenu('tools', timeouts);" onmouseout="collapseTimeout('tools', timeouts, timeout)"><img src="/images/shell/menus/tools_tail.gif" border="0"></a></td></tr>
-	</tbody></table>
-</div>
-</td>
-		</tr>
-		<tr>			<td width="137"><a href="/index.php"><!--htdig_noindex--><img src="/images/shell/logo_lower_Tools.gif" alt="VisitFlorida" border="0" width="137" height="70"><!--/htdig_noindex--></a></td>
-			<td width="608" colspan="8" bgcolor="FFFFFF"><img src="/images/shell/headers/h_tol_tools.gif" width="608" height="70"></td>
-			<td width="1" bgcolor="000000"><img src="/images/transparent_dot.gif" width="1" height="1"></td>
-			<td width="30" bgcolor="FF9900"><img src="/images/transparent_dot.gif" width="30" height="1"></td>
-			<td width="2" bgcolor="000000"><img src="/images/transparent_dot.gif" width="2" height="1"></td>
-			<td width="2" bgcolor="0099CC"><img src="/images/transparent_dot.gif" width="2" height="1"></td>
-		</tr>
-		<tr>			<td width="137" bgcolor="ffccff"><img src="/images/transparent_dot.gif" width="137" height="1"></td>
-			<td width="6" bgcolor="FFFFFF"><img src="/images/transparent_dot.gif" width="6" height="1"></td>
-			<td width="608" colspan="6" bgcolor="FFFFFF"><p><span class="linkedpath"><nobr><!--htdig_noindex-->»&nbsp;<!--/htdig_noindex--><a href="/index.php"><!--htdig_noindex-->FLAUSA Home<!--/htdig_noindex--></a></nobr> <nobr><!--htdig_noindex-->»&nbsp;<!--/htdig_noindex--><a href="/tools/index.php"><!--htdig_noindex-->Tools<!--/htdig_noindex--></a></nobr> <nobr><!--htdig_noindex-->»&nbsp;Privacy Policy<!--/htdig_noindex--></nobr> </span><br>&nbsp;</p></td>
-			<td width="6" bgcolor="FFFFFF"><img src="/images/transparent_dot.gif" width="6" height="1"></td>
-			<td width="1" bgcolor="000000"><img src="/images/transparent_dot.gif" width="1" height="1"></td>
-			<td width="30" bgcolor="FF9900"><img src="/images/transparent_dot.gif" width="30" height="1"></td>
-			<td width="2" bgcolor="000000"><img src="/images/transparent_dot.gif" width="2" height="1"></td>
-			<td width="2" bgcolor="0099CC"><img src="/images/transparent_dot.gif" width="2" height="1"></td>
-		</tr>
-		<tr>			<td width="137" align="center" valign="top" rowspan="2" bgcolor="ffccff"><script language="JavaScript">
-<!-- 
-function popwindow(pageSource)
-{
-	leWindow = window.open(pageSource, 'MapInterface', 'toolbar=no,width=765,height=550,status=no,resize=no,resizable=no,menubar=no,x=10,y=20,left=10,top=20'); 
-	leWindow.focus();
-} 
-// -->
-</script>
-<a href="javascript:popwindow('/emap/pvp0.php')"><img src="/images/mytrip/module_sunny_tools.gif" border="0" alt=""></a><p>
-
-<!--htdig_noindex-->
-<br>
-<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td>
-			<img src="/images/modules/spacer.gif" width="2" height="1"></td>
-		<td>
-			<img src="/images/modules/spacer.gif" width="2" height="1"></td>
-		<td>
-			<img src="/images/modules/spacer.gif" width="4" height="1"></td>
-		<td>
-			<img src="/images/modules/spacer.gif" width="12" height="1"></td>
-		<td>
-			<img src="/images/modules/spacer.gif" width="26" height="1"></td>
-		<td>
-			<img src="/images/modules/spacer.gif" width="5" height="1"></td>
-		<td>
-			<img src="/images/modules/spacer.gif" width="61" height="1"></td>
-		<td>
-			<img src="/images/modules/spacer.gif" width="12" height="1"></td>
-		<td>
-			<img src="/images/modules/spacer.gif" width="4" height="1"></td>
-		<td>
-			<img src="/images/modules/spacer.gif" width="2" height="1"></td>
-	</tr>
-		<tr>
-		<td colspan="5" rowspan="5">
-			<img src="/images/modules/icon_0_3_hue.gif" "="" alt="" width="46" height="46"></td>
-		<td>
-			<img src="/images/modules/spacer.gif" width="5" height="7"></td>
-		<td colspan="4">
-			<img src="/images/modules/spacer.gif" width="79" height="7"></td>
-	</tr>
-	<tr>
-		<td bgcolor="#990099">
-			<img src="/images/modules/spacer.gif" width="5" height="2"></td>
-		<td colspan="4" rowspan="3">
-			<img src="/images/modules/title_0_3_hue.gif" alt="myTrip" width="79" height="36"></td>
-	</tr>
-	<tr>
-		<td bgcolor="#ff66ff">
-			<img src="/images/modules/spacer.gif" width="5" height="32"></td>
-	</tr>
-	<tr>
-		<td bgcolor="#990099">
-			<img src="/images/modules/spacer.gif" width="5" height="2"></td>
-	</tr>
-	<tr>
-		<td colspan="4" bgcolor="#ffffff">
-			<img src="/images/modules/spacer.gif" width="82" height="3"></td>
-		<td rowspan="2" bgcolor="#990099">
-			<img src="/images/modules/spacer.gif" width="2" height="3"></td>
-	</tr>
-	<tr>
-		<td>
-			<img src="/images/modules/spacer.gif" width="2" height="1"></td>
-		<td bgcolor="#990099">
-			<img src="/images/modules/spacer.gif" width="2" height="1"></td>
-		<td bgcolor="#ffffff">
-			<img src="/images/modules/spacer.gif" width="4" height="1"></td>
-		<td width="116" colspan="5" bgcolor="#ffffff" class="module">
-		Use myTrip to create a travel plan. <b><a href="/tools/myflausa/index.php">Register now.</a></b>			
-		</td>
-		<td bgcolor="#ffffff">
-			<img src="/images/modules/spacer.gif" width="4" height="1"></td>
-	</tr>
-	<tr><td colspan="10"><img src="/images/modules/footer_3_hue.gif" width="130" height="18" alt=""></td></tr>
-</tbody></table>
-	
-<!--/htdig_noindex-->
-&nbsp;</p></td>
-			<td width="472" valign="top" rowspan="2" colspan="5" bgcolor="FFFFFF" align="right">
-								<script language="JavaScript">
-<!--
-	OAS_AD('Top');
+	OAS_AD('Top1');
 //-->
 </script>
-<br>
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-						<td width="6" valign="top" bgcolor="FFFFFF"><img src="/images/transparent_dot.gif" width="6" height="1"></td>
-						<td width="460" valign="top" bgcolor="FFFFFF">
-						<span class="body">
-<p>
-<b>I. About VISIT FLORIDA and Privacy</b><br>
-VISIT FLORIDA is the Official Tourism Marketing Corporation for the State of Florida.
-</p><p>
-VISITFLORIDA.com is the official website of VISIT FLORIDA.</p><p>
-</p><p>
-Our postal address is:<br>
-661 E. Jefferson Street<br>
-Suite 300<br>
-Tallahassee, FL 32301
-</p><p>
-We can be reached via e-mail at <a href="mailto:info@VISITFLORIDA.org">info@VISITFLORIDA.org</a>
-</p><p>
-<b>About Privacy</b><br>
-Your privacy is important to VISIT FLORIDA and we will treat any of your information with care.  
-</p><p>
-Our Privacy Statement lets you know how we handle personally identifiable information you share with us through our digital and printed communication vehicles. 
-</p><p>
-<b>II. Privacy Statement ("Privacy Statement")</b><br>
-<b>Scope</b><br>
-This Privacy Statement explains how we collect and handle personally identifiable information you share with VISIT FLORIDA through our website, electronic magazine and promotional emails.  It also describes our use of cookies and other tracking devices.  It provides instruction regarding links to other websites, security of the information you provide and potential changes to the Privacy Statement.  It provides contact information for questions and instructions for un-subscribing.
-</p><p>
-<b>Personal Information Collection</b><br>
-You may use our websites, digital newsletters and other forms of internet-based communications  to learn about VISIT FLORIDA products and services without disclosing any personal information beyond what you provided when requesting authorized VISIT FLORIDA publications, both digital or printed.  We may ask you to provide us with personal information, for example, to access or use certain features or if you request additional information from VISIT FLORIDA Partners. Information that may be requested by VISIT FLORIDA includes: contact information, such as name, address, email address, and telephone number; demographic information, such as household information, age group, etc. and information about your travel interests. 
-</p><p>
-<b>Personal Information Uses</b><br>
-Personal information that you voluntarily offer may be used to reply to your requests, to update and improve content on our website or electronic magazine, or to assist with marketing research. Such information includes but is not limited to survey responses, site registrations and information preferences, normally related to potential vacations in Florida.  This information is used to tailor communications to you, either by authorized VISIT FLORIDA communications entities, such as COF, or VISIT FLORIDA Partner organizations that are suited to your provided information/preferences.  Note:  VISIT FLORIDA Partner organizations, as referenced here, would include hospitality businesses or organizations in Florida which are also paid members of the VISIT FLORIDA Partner organization.  
-</p><p>With respect to sharing personal information with authorized, membership Partners: We sometimes offer information or services on behalf of Partners within a solicitation.  We endeavor to make clear and apparent when corporate partner offers are combined with COF offers.  In such cases, the information you provide is shared with our Partners and is subject to use within that company's privacy policy.  Note: VISIT FLORIDA Partners, as referenced here, would include companies wishing to offer products or services to Florida visitors, but not necessarily Florida-based companies.  Examples could include financial, lodging or transportation firms.  
- </p><p>
-VISIT FLORIDA will not share your personal information with non-Partners for their independent use without your permission.  
-</p><p>
-We may disclose your personal information as required by law, in conjunction with a government inquiry, or in litigation or dispute resolution.
-</p><p>
-<b>Cookies and Other Tracking Devices</b><br>
-We may use cookies and other tracking devices on our websites to allow us to measure site activity in aggregate, not on the individual level. This in turn allows us to provide a better user experience.  Only information you voluntarily provide is stored in your customer file.  
-</p><p>
-You can choose to refuse cookies - simply refer to your browser Help instructions to learn more about how to manage their use.
-</p><p>
-<b>Links to Outside Websites</b><br>
-This site may contain links to third party sites not controlled by VISIT FLORIDA, which therefore are not covered by this privacy statement, such as those belonging to VISIT FLORIDA Partners and Sponsors. We recommend that you check the privacy statement of other sites you visit before providing any personal information.
-</p><p>
-<b>Security of Information</b><br>
-VISIT FLORIDA recognizes the importance of safeguarding personal information in our possession from theft, inappropriate use, or improper distribution. It should, however, be recognized that no company can perfectly protect personal information.
-</p><p>
-<b>Privacy Inquiries</b><br>
-If you have concerns or questions regarding VISIT FLORIDA's consumer privacy practices, please forward them to <a href="mailto:privacy@VISITFLORIDA.org">privacy@VISITFLORIDA.org</a>
-</p><p>
-<b>To Unsubscribe</b><br>
-We do not want to send you information you do not want to receive.  If you no longer want us to contact you, please <a href="www.visitflorida.com/dialogue/unsubscribe.php">click here</a> to be removed from our mailing list. 
-</p><p>
-<b>Changes to Privacy Statement</b><br>
-VISIT FLORIDA retains the right to change this Privacy Statement. For your benefit, we will post changes to this page in a timely manner.
-</p><p>
-<b>Florida Hot Vacation Deals</b>
-</p><p><span class="bodySm">The offers provided on this(ese) page(s) are the sole responsibility of the vendors making the offers.  VISIT FLORIDA makes no representation as to the accuracy or reliability of the offers being made, or of the values represented herein.  Consumers wishing to take advantage of these offers are urged to use diligence in doing so and to understand that they do so at their own risk.  </span></p><p>
-This statement is effective as of 11/07/2003.
+			
+			</td>
+		</tr>
+	</tbody></table>
 
-						</p></span></td>
-						<td width="6" bgcolor="FFFFFF" valign="top"><img src="/images/shell/dec_dottedline.gif" width="5" height="290"></td>
+<!-- ************************************************** -->
+	<table id="top" width="100%" border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+	<form name="jumptoForm" action="/tools/search/search_results.php" method="get"></form>
+			<td class="dec_text">
+				<table border="0" cellspacing="1" cellpadding="0">
+					<tbody><tr>
+						<td>&nbsp;</td>
+						<td valign="middle">
+							<input class="dec_text" type="text" name="jumpto" value="search site" size="24" onfocus="this.select(value='')">
+						</td>
+						<td align="left" valign="middle"><input type="image" src="/images/shell/b_go.gif" alt="GO!"></td>
 					</tr>
 				</tbody></table>
 			</td>
-			<td width="130" colspan="2" rowspan="2" bgcolor="FFFFFF" align="center" valign="top"><center>
-			<p></p></center></td>
-			<td width="6" rowspan="2" bgcolor="FFFFFF"><img src="/images/transparent_dot.gif" width="6" height="1"></td>
-			<td width="1" rowspan="2" bgcolor="000000"><img src="/images/transparent_dot.gif" width="1" height="1"></td>
-			<td width="30" bgcolor="FF9900" valign="top"><img src="/images/transparent_dot.gif" width="30" height="1"></td>
-			<td width="2" rowspan="2" bgcolor="000000"><img src="/images/transparent_dot.gif" width="2" height="1"></td>
-			<td width="2" rowspan="2" bgcolor="0099CC"><img src="/images/transparent_dot.gif" width="2" height="1"></td>
+			<td nowrap="nowrap" align="right" valign="middle">
+				<table border="0" cellspacing="1" cellpadding="0">
+					<tbody><tr>
+						<td valign="middle">
+							<a href="/planning/travel_cart"><img src="/images/shell/icon_travel_guide.gif" alt="Cart" border="0"></a>
+						</td>
+						<td valign="middle">
+							THERE ARE <i>0</i> ITEMS IN <b><a title="What's This?" class="hoverlink" href="/planning/travel_cart">YOUR CUSTOM TRAVEL GUIDE</a></b>
+						</td>
+						<td>&nbsp;</td>
+					</tr>
+				</tbody></table>
+			</td>
 		</tr>
+	
 		<tr>
-			<td width="30" bgcolor="FF9900" valign="bottom"><img src="/images/shell/dec_starfish.gif" width="30" height="149" border="0"></td>
-		</tr>
-		<tr>
-			<td width="137" bgcolor="ffccff"><img src="/images/transparent_dot.gif" width="137" height="1"></td>
-			<td width="206" colspan="3" align="left" bgcolor="FFFFFF"><img src="/images/shell/dec_roundcorner_Tools.gif" width="10" height="14"></td>
-			<td width="260" bgcolor="FFFFFF"><img src="/images/transparent_dot.gif" width="260" height="1"></td>
-			<td width="6" bgcolor="FFFFFF"><img src="/images/transparent_dot.gif" width="6" height="1"></td>
-			<td width="130" colspan="2" bgcolor="FFFFFF"><img src="/images/transparent_dot.gif" width="130" height="1"></td>
-			<td width="6" bgcolor="FFFFFF"><img src="/images/transparent_dot.gif" width="6" height="1"></td>
-			<td width="35" rowspan="4" colspan="4" bgcolor="FF9900"><a href="#top"><img src="/images/shell/b_goup-corner_up.gif" border="0" height="32" width="35"></a></td>
-		</tr>
-		<tr>
-			<td width="137" bgcolor="ffccff"><img src="/images/transparent_dot.gif" width="137" height="1"></td>
-			<td width="6" bgcolor="ffccff"><img src="/images/transparent_dot.gif" width="6" height="14"></td>
-			<td width="596" colspan="6" bgcolor="ffccff"><span class="bottom"><a href="#" class="bottom" onclick="helpFrameA('/help/help_frame.php')">Help!</a> | <a href="/index.php" class="bottom">Home</a> | <a href="/interests/index.php" class="bottom">Interests</a> | <a href="/destinations/index.php" class="bottom">Destinations</a> | <a href="/tools/index.php" class="bottom">Tools</a></span></td>
-			<td width="6" bgcolor="ffccff"><img src="/images/transparent_dot.gif" width="6" height="1"></td>
-		</tr>
-		<tr>
-			<td colspan="9" width="745" bgcolor="000000"><img src="/images/transparent_dot.gif" width="745" height="2"></td>
-		</tr>
-		<tr>
-			<td colspan="9" width="745" bgcolor="0099CC"><img src="/images/transparent_dot.gif" width="745" height="2"></td>
+			<td colspan="2" width="100%"><img src="/images/dot_transparent.gif" border="0" height="1" width="784"></td>
 		</tr>
 	</tbody></table>
-	<div class="t_legal">
-		<font face="arial">VISIT FLORIDA™</font> is the Official Tourism Marketing Corporation for the State of Florida.<br>
-		All material © 2001-2004 by <font face="arial">VISIT FLORIDA™</font>. All rights reserved. <a href="/tools/sitemap.php"><font color="#0099CC">.</font></a><br>
-		Reproduction in whole or in part is prohibited without the written permission of the publisher.<br>
-		<a class="footer" href="/tools/privacy.php">Privacy policy.</a><br>
-		Please report problems to <a class="footer" href="mailto:webmaster.flausa@milesmediagroup.com">webmaster.flausa@milesmediagroup.com</a>.<br>
-		December 08, 2004		 - http://www.visitflorida.com/tools/privacy.php	</div>
+
+<!-- ************************************************** -->
+	<table id="header_interior" width="100%" border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td width="670" valign="top">
+				<script language="javascript">
+				<!--
+					var UseFlash = 0;
+					
+					if (navigator.userAgent.indexOf("Mac") != -1 &&  navigator.appVersion.indexOf("MSIE")!=-1 ) //force mac/ie to use flash.period.
+					{
+						UseFlash = 1;	
+					}
+					
+					if (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"] ) 
+					{
+						var plugin = navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin;
+						if (plugin && parseInt(plugin.description.substring(plugin.description.indexOf(".")-1))>=4)
+						UseFlash = 1;
+					} 
+					else if (navigator.appName && navigator.appName.indexOf("Microsoft") != -1 && navigator.userAgent.indexOf("Windows") != -1 && navigator.userAgent.indexOf("Windows 3.1") == -1)
+					{
+						UseFlash = 1;
+					}
+					
+					if (document.cookie && (document.cookie.indexOf("FlashRenderOption=P") >= 0))
+					{
+						UseFlash = 1;
+					} 
+					else if (document.cookie && (document.cookie.indexOf("FlashRenderOption=I") >= 0))
+					{
+						UseFlash = 0;
+					}
+					
+					if (UseFlash) 
+					{
+						document.write('<object width="670" height="225" type="application/x-shockwave-flash" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0">');	
+						document.write('<param name="movie" value="/flash/yellow_interior.swf" /><param name="FlashVars" value="color=yellow" /><param name="wmode" value="transparent" /><param name="menu" value="false" />');
+						document.write('<embed src="/flash/yellow_interior.swf" width="670" height="225" FlashVars="color=yellow" type="application/x-shockwave-flash" menu="false">');
+						document.write('</embed></object>');
+					} 
+					else if (!(navigator.appName && navigator.appName.indexOf("Netscape")>=0 && navigator.appVersion.indexOf("2.")>=0)) 
+					{
+document.write('<img src="/images/shell/yellow_header_interior_alt.jpg" width="670" height="225" usemap="#nav" border="0">');					}
+				//--></script><img src="/images/shell/yellow_header_interior_alt.jpg" width="670" height="225" usemap="#nav" border="0">
+				
+				<noscript>
+					<img src="/images/shell/yellow_header_alt.jpg" width="670" height="225" usemap="#nav" border="0">
+				</noscript>
+					
+				<script language="javascript">
+				<!--
+				function SetCookieType(ctype)//set the cookie for the media type
+				{
+					var nextyear = new Date();nextyear.setFullYear(nextyear.getFullYear() + 10);
+					document.cookie='FlashRenderOption='+ctype+'; expires='+nextyear.toGMTString()+'; path=/;'
+					if (navigator.appName.indexOf("Microsoft") != -1)
+					{
+						parent.history.go(0);
+					}
+					else if (navigator.userAgent.indexOf("Mozilla/2") != -1)
+					{
+						parent.location = parent.location;
+					}
+					else
+					{
+						parent.location.reload();
+					}
+				}
+				//-->
+				</script>
+			</td>
+			<td>&nbsp;</td>
+			<td width="110" class="alignRight">
+				<img src="/images/shell/yellow_header_interior_logo.jpg" width="110" height="225" alt="VISIT FLORIDA" border="0">
+			</td>
+		</tr>
+	</tbody></table>	
+
+<!-- ************************************************** -->
+
+	<table id="content" width="100%" border="0" cellpadding="5" cellspacing="0">
+		<tbody><tr>
+			<td valign="top" width="160">
+				<img src="/images/dot_transparent.gif" width="5" height="1" alt="" border="0"><br>
 	
+<!--htdig_noindex-->		<img src="/images/dot_transparent.gif" border="0" height="1" width="160">
+		<br>
+		<div id="travelCartInfo">
+			<img src="/images/shell/t_travelguide.igf.gif" border="0" alt="">
+			<br>
+			<small>
+				<p>You currently have <i>0</i> items in your custom travel guide.</p>
+				<p>Click to <a href="/planning/travel_cart/">view your items</a>.</p>
+				<br>
+				Save the information in your cart, <a href="/tools/register/">login</a> or <a href="/tools/register/">register</a> now.
+			</small>
+		</div>
+<!--/htdig_noindex-->	</td>
+	<td width="100%" valign="top">
+<b><!--htdig_noindex-->You are here:<!--/htdig_noindex--></b>&nbsp;&nbsp;<a href="/"><!--htdig_noindex-->Home<!--/htdig_noindex--></a><!--htdig_noindex-->&nbsp;/ <!--/htdig_noindex--><a href="/cms/index.php/id=617"><!--htdig_noindex-->Tools<!--/htdig_noindex--></a><!--htdig_noindex-->&nbsp;/ <!--/htdig_noindex--><!--htdig_noindex-->Privacy Policy<!--/htdig_noindex--><br><br>
+		<img src="/images/dot_transparent.gif" border="0" height="1" width="604"><br>
+<div style="float:right;margin-left:1cm"><script language="JavaScript">
+<!--
+	OAS_AD('Right');
+//-->
+</script>
+</div><div align="left"><span class="cmsHeading">Privacy Policy</span><br></div><br><span class="cmsBody"><b>I. About <span class="VisitFloridaFont1">VISIT FLORIDA</span> and Privacy</b><br>
+<span class="VisitFloridaFont1">VISIT FLORIDA</span> is the Official Tourism Marketing Corporation for the State of Florida.<br>
+<br>
+<span class="VisitFloridaFont1">VISITFLORIDA.com</span> is the official website of <span class="VisitFloridaFont1">VISIT FLORIDA</span>.<br>
+<br>
+Our postal address is:<br>
+661 E. Jefferson Street<br>
+Suite 300<br>
+Tallahassee, FL 32301<br>
+<br>
+We can be reached via e-mail at <a href="mailto:info@VISITFLORIDA.org">info@<span class="VisitFloridaFont1">VISITFLORIDA.org</span></a><br>
+<br>
+<b>About Privacy</b><br>
+Your privacy is important to <span class="VisitFloridaFont1">VISIT FLORIDA</span> and we will treat any of your information with care.  <br>
+<br>
+Our Privacy Statement lets you know how we handle personally identifiable information you share with us through our digital and printed communication vehicles. <br>
+<br>
+<b>II. Privacy Statement ("Privacy Statement")</b><br>
+<b>Scope</b><br>
+This Privacy Statement explains how we collect and handle personally identifiable information you share with <span class="VisitFloridaFont1">VISIT FLORIDA</span> through our website, electronic magazine and promotional emails.  It also describes our use of cookies and other tracking devices.  It provides instruction regarding links to other websites, security of the information you provide and potential changes to the Privacy Statement.  It provides contact information for questions and instructions for un-subscribing.<br>
+<br>
+<b>Personal Information Collection</b><br>
+You may use our websites, digital newsletters and other forms of internet-based communications  to learn about <span class="VisitFloridaFont1">VISIT FLORIDA</span> products and services without disclosing any personal information beyond what you provided when requesting authorized <span class="VisitFloridaFont1">VISIT FLORIDA</span> publications, both digital or printed.  We may ask you to provide us with personal information, for example, to access or use certain features or if you request additional information from <span class="VisitFloridaFont1">VISIT FLORIDA</span> Partners. Information that may be requested by <span class="VisitFloridaFont1">VISIT FLORIDA</span> includes: contact information, such as name, address, email address, and telephone number; demographic information, such as household information, age group, etc. and information about your travel interests. <br>
+<br>
+<b>Personal Information Uses</b><br>
+Personal information that you voluntarily offer may be used to reply to your requests, to update and improve content on our website or electronic magazine, or to assist with marketing research. Such information includes but is not limited to survey responses, site registrations and information preferences, normally related to potential vacations in Florida.  This information is used to tailor communications to you, either by authorized <span class="VisitFloridaFont1">VISIT FLORIDA</span> communications entities, such as COF, or <span class="VisitFloridaFont1">VISIT FLORIDA</span> Partner organizations that are suited to your provided information/preferences.  Note:  <span class="VisitFloridaFont1">VISIT FLORIDA</span> Partner organizations, as referenced here, would include hospitality businesses or organizations in Florida which are also paid members of the <span class="VisitFloridaFont1">VISIT FLORIDA</span> Partner organization.  <br>
+With respect to sharing personal information with authorized, membership Partners: We sometimes offer information or services on behalf of Partners within a solicitation.  We endeavor to make clear and apparent when corporate partner offers are combined with COF offers.  In such cases, the information you provide is shared with our Partners and is subject to use within that company's privacy policy.  Note: <span class="VisitFloridaFont1">VISIT FLORIDA</span> Partners, as referenced here, would include companies wishing to offer products or services to Florida visitors, but not necessarily Florida-based companies.  Examples could include financial, lodging or transportation firms.  <br>
+ <br>
+<span class="VisitFloridaFont1">VISIT FLORIDA</span> will not share your personal information with non-Partners for their independent use without your permission.  <br>
+<br>
+We may disclose your personal information as required by law, in conjunction with a government inquiry, or in litigation or dispute resolution.<br>
+<br>
+<b>Cookies and Other Tracking Devices</b><br>
+We may use cookies and other tracking devices on our websites to allow us to measure site activity in aggregate, not on the individual level. This in turn allows us to provide a better user experience.  Only information you voluntarily provide is stored in your customer file.  <br>
+<br>
+You can choose to refuse cookies - simply refer to your browser Help instructions to learn more about how to manage their use.<br>
+<br>
+<b>Links to Outside Websites</b><br>
+This site may contain links to third party sites not controlled by <span class="VisitFloridaFont1">VISIT FLORIDA</span>, which therefore are not covered by this privacy statement, such as those belonging to <span class="VisitFloridaFont1">VISIT FLORIDA</span> Partners and Sponsors. We recommend that you check the privacy statement of other sites you visit before providing any personal information.<br>
+<br>
+<b>Security of Information</b><br>
+<span class="VisitFloridaFont1">VISIT FLORIDA</span> recognizes the importance of safeguarding personal information in our possession from theft, inappropriate use, or improper distribution. It should, however, be recognized that no company can perfectly protect personal information.<br>
+<br>
+<b>Privacy Inquiries</b><br>
+If you have concerns or questions regarding <span class="VisitFloridaFont1">VISIT FLORIDA's</span> consumer privacy practices, please forward them to <a href="mailto:privacy@VISITFLORIDA.org">privacy@<span class="VisitFloridaFont1">VISITFLORIDA</span>.org</a><br>
+<br>
+<b>To Unsubscribe</b><br>
+We do not want to send you information you do not want to receive.  If you no longer want us to contact you, please <a href="/dialogue/unsubscribe.php">click here</a> to be removed from our mailing list. <br>
+<br>
+<b>Changes to Privacy Statement</b><br>
+<span class="VisitFloridaFont1">VISIT FLORIDA</span> retains the right to change this Privacy Statement. For your benefit, we will post changes to this page in a timely manner.<br>
+<br>
+<b>Florida Hot Vacation Deals</b><br>
+<span class="bodySm">The offers provided on this(ese) page(s) are the sole responsibility of the vendors making the offers.  <span class="VisitFloridaFont1">VISIT FLORIDA</span> makes no representation as to the accuracy or reliability of the offers being made, or of the values represented herein.  Consumers wishing to take advantage of these offers are urged to use diligence in doing so and to understand that they do so at their own risk. </span><br>
+<br>
+<b>DoubleClick</b><br>
+This site uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address.  For more information about DoubleClick, including information about how to opt out of these technologies, go <a href="http://www.doubleclick.net/us/corporate/privacy">here</a>.<br>
+<br>
+This statement is effective as of 11/07/2003.<br>
+</span>&nbsp;
+</td>
+</tr>
+</tbody></table>
+
+<!-- ************************************************** -->
+
+<table id="footer" width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td width="500"><img src="/images/shell/yellow_footer_left.jpg" width="350" height="40"></td>	
+<td>&nbsp;</td>		
+<td width="290"><img src="/images/shell/yellow_footer_right.jpg" width="290" height="40"></td>	
+</tr>
+</tbody></table>	
+
+<!-- ************************************************** -->
+
+<table id="legal" width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td>
+	<a href="/tools/advertising/">Advertising Information</a> | <a href="/cms/index.php/id=1560">Travel Professionals</a> | <a href="/credits.php">Photo Credits</a> | <a href="/tools/feedback/">Feedback</a> | <a href="/tools/feedback/faq.php">FAQ</a> | <a href="/tools/search/">Site Search</a> | <a href="/tools/sitemap.php">Site Map</a> | <a href="/cms/index.php/id=623">About <span class="VisitFloridaFont1">VISIT FLORIDA™</span></a><br>
+	<span class="VisitFloridaFont1">VISIT FLORIDA™</span> is the Official Florida Tourism Industry Marketing Corporation.<br>
+	All material© 2001-2005 by <span class="VisitFloridaFont1">VISIT FLORIDA™</span>, All rights reserved. Reproduction in whole or in part 
+	is prohibited without the written permission of the publisher.<br>
+	<a href="/cms/index.php/id=622">Privacy Policy</a><br>
+	Please report problems to <a href="/tools/feedback/">webmaster</a>. 
+
+</td>	
+</tr>
+</tbody></table>	
+	<map name="nav">
+		<area shape="rect" coords="40,265,140,285" href="/index.php" title="home" alt="home">
+		<area shape="circle" coords="79,235, 8" href="/color_setting.php?color=green" title="green" alt="green">
+		<area shape="circle" coords="65,238, 8" href="/color_setting.php?color=blue" title="blue" alt="blue">
+		<area shape="circle" coords="51,242, 8" href="/color_setting.php?color=purple" title="purple" alt="purple">
+		<area shape="circle" coords="37,246, 8" href="/color_setting.php?color=red" title="red" alt="red">
+		<area shape="circle" coords="24,250, 8" href="/color_setting.php?color=orange" title="orange" alt="orange">
+		<area shape="circle" coords="10,254, 8" href="/color_setting.php?color=yellow" title="yellow" alt="yellow">
+		<area shape="rect" coords="430,65,530,285" href="/deals/index.php" title="deal finder" alt="deal finder">
+		<area shape="rect" coords="350,65,430,285" href="/planning/index.php" title="planning" alt="planning">
+		<area shape="rect" coords="250,65,350,285" href="/destinations/index.php" title="destinations" alt="destinations">
+		<area shape="rect" coords="140,65,240,285" href="/experience/index.php" title="experiences" alt="experiences">
+		<area shape="rect" coords="40,65,140,215" href="/index.php" title="home" alt="home">
+	</map>
+
+<!-- *** Hostname:  *** -->
+
+
+			
+<!--*************************************************************
+	Details of profile session:
+	
+
+		Begin segment: "Document" {
+			Begin segment: "Config" {
+				Segment :"Path vars" 0
+				Segment :"Define variables" 0
+				Segment :"Override" 0
+				Segment :"db_mysql object" 0
+				Segment :"Location includes" 0
+				Segment :"Doc data" 0.007
+				Segment :"Ad stuff" 0
+				Segment :"Travel manager" 0
+				Segment :"Colors of Florida" 0
+			} 0.009
+			Begin segment: "Header" {
+				Segment :"Header stuff" 0
+				Segment :"Navigation" 0
+				Segment :"Ads" 0
+				Segment :"Travel Cart" 0
+				Segment :"Breadcrumbs" 0.001
+				Segment :"Stuff to decide whether to show ads and headlines" 0
+				Segment :"Display cms doc" 0.161
+			} 0.164
+			Begin segment: "Everything after the header" {
+				Segment :"Post header" 0
+			} 0
+		} 0.173
+			
+	Complete time = 0.173	
+**************************************************************-->
+
+
+
+
 
 </body></html>
