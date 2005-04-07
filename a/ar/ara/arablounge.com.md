@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arablounge.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206234426id_/http%3A//arablounge.com/personals/privacy.cfm%3FsiteIDD%3D45) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arablounge.com privacy policy that was archived on 2005-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050408015217id_/http%3A//arablounge.com/personals/privacy.cfm%3FsiteIDD%3D45) for the most accurate reproduction.*
 
 # ArabLounge.com - Safe Online Dating and Friendship Site for Arab Men and Women
 
@@ -6,7 +6,7 @@ World Singles has created this Privacy Statement (Policy) in order to demonstrat
 
 This Privacy Statement applies to all World Singles sites, including this one.
 
-This Site(s) is owned and operated by World Singles. World Singles may be reached at (301) 294-0131, or by clicking [here](https://web.archive.org/web/20041206234426id_/http%3A//arablounge.com/personals/contact.cfm?siteIDD=45) . The following policies apply to this Site(s) and all other Affiliate/Partner websites.
+This Site(s) is owned and operated by World Singles. World Singles may be reached at (301) 294-0131, or by clicking [here](https://web.archive.org/web/20050408015217id_/http%3A//arablounge.com/personals/contact.cfm?siteIDD=45) . The following policies apply to this Site(s) and all other Affiliate/Partner websites.
 
 **ABOUT WORLD SINGLES**
 
@@ -50,7 +50,7 @@ World Singles reserves the right to change or update at any time its Privacy Pol
 ArabLounge.com provides members the following options for modifying information previously submitted. 
 
   1. Members may change their credit card, password and other information by going to View/Edit Profile page. 
-  2. Send email via the [contact form](https://web.archive.org/web/20041206234426id_/http%3A//arablounge.com/personals/contact.cfm?siteIDD=45) on the site.
+  2. Send email via the [contact form](https://web.archive.org/web/20050408015217id_/http%3A//arablounge.com/personals/contact.cfm?siteIDD=45) on the site.
   3. You can send mail to the following postal address: 
 
 ArabLounge.com / World Singles  
