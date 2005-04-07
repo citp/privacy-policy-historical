@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanartreview.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207103405id_/http%3A//www.fanartreview.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanartreview.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407170852id_/http%3A//www.fanartreview.com/privacy.jsp) for the most accurate reproduction.*
 
 # fanArtReview.com - post art, art reviews, review art, art contests, art site, paint
 
@@ -60,4 +60,4 @@ To protect your privacy and security, we will take reasonable steps to help veri
 
 ###  How to Contact Us 
 
-If you have any questions or concerns about the online policy for this site or its implementation you may contact us at [info@fanartreview.com](https://web.archive.org/web/20041207103405id_/http%3A//www.fanartreview.com/formcontactfanstory.jsp). 
+If you have any questions or concerns about the online policy for this site or its implementation you may contact us at [info@fanartreview.com](https://web.archive.org/web/20050407170852id_/http%3A//www.fanartreview.com/formcontactfanstory.jsp). 
