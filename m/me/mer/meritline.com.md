@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meritline.com privacy policy that was archived on 2003-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030619031546id_/http%3A//www.meritline.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meritline.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407031627id_/http%3A//www.meritline.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Meritline.com
 
@@ -104,5 +104,5 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 Attn: Customer Service  
 Meritline.com  
-16666 East Johnson Dr.  
-City of Industry, CA 91745
+18961 East Arenth Ave.  
+City of Industry, CA 91748
