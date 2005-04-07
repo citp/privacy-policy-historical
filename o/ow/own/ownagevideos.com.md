@@ -1,0 +1,17 @@
+> *The following text is extracted and transformed from the ownagevideos.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407062321id_/http%3A//www.ownagevideos.com/page.php%3Fid%3D63) for the most accurate reproduction.*
+
+# Ownage Videos - funny/extreme videos, games, flash games, flash videos,owned,celebs,college fun,cars - Privacy Policy
+
+[Legal](https://web.archive.org/web/20050407062321id_/http%3A//www.ownagevideos.com/list.php?c=legal&PHPSESSID=f6287ea6d515964022e567b25a172bce) > Privacy Policy 
+
+OwnageVideos.com Privacy Policy 
+
+Your privacy is important to OwnageVideos.com. All information collected through your use of OwnageVideos.com's site is intended to be used as a means to better serve OwnageVideos.com's current and future customers. OwnageVideos.com will not sell, distribute or disseminate any personal information collected about you through your use of this site to any unaffiliated third party without your prior consent, unless such disclosure is required by law or is necessary to protect our services, enforce any terms of service, or to prevent a violation of OwnageVideos.com's or someone else's rights. OwnageVideos.com reserves the right to exchange your personal information with other companies and organizations for the purposes of collection activities, fraud protection, credit risk reduction or for any other reason necessary to carry out the purpose of this website. 
+
+While visiting this website, OwnageVideos.com's computer servers may gather non-personal information (“cookies”) for the purposes of statistical and market research. A cookie has been described as a piece of data stored on your computer containing information about you. The information obtained from your cookies will be used for the purposes of updating and improving this website. Such information may include, without limitation, the type of browser you are using, the domain name you came from, and other non-personal information. 
+
+Throughout this website there are links to external sites not under the control of OwnageVideos.com. Therefore, OwnageVideos.com is not responsible for the content, use or misuse, or privacy policy of any such linked site not controlled by OwnageVideos.com. OwnageVideos.com provides these links solely for your convenience and OwnageVideos.com reserves the right to cancel or discontinue any link at any time. No third party is authorized to directly link to the OwnageVideos.com website without the prior written authorization from OwnageVideos.com. 
+
+OwnageVideos.com may require personal information in order to sign up for services from OwnageVideos.com, or to manage your current account. Any such information will be used exclusively by OwnageVideos.com, our employees, suppliers, agents and any applicable third party service providers required to set up your service or needed to respond to your requests. 
+
+Your use of the OwnageVideos.com website signifies your acceptance of this Privacy Policy. If you do not accept the terms of this Privacy Policy, please do not use the OwnageVideos.com web site. This Privacy Policy may be changed from time-to-time without notice. Any such changes will be posted to this web site and will be available for your review. Any continued use of this web site after a change has occurred will constitute your acceptance of such change. 
