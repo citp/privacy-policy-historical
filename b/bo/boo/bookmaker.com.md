@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bookmaker.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010142335id_/http%3A//bookmaker.com/InfoCenter/rules_reg/sportsbook_betting_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmaker.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407132754id_/http%3A//www.bookmaker.com/Information_Pages/content/sportsbook_regulations/secure_gaming_expierence.asp) for the most accurate reproduction.*
 
-# Online Sports Betting & Internet Casino at Bookmaker.com - Privacy Policy
+# Bet on Sports and Online Casino at Bookmaker.com.com - Privacy Policy
 
 **Bookmaker.com** will always strive to provide an accountable and secure gaming and banking experience.
 
