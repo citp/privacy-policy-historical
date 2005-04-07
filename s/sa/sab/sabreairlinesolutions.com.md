@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sabreairlinesolutions.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206225008id_/http%3A//www.sabreairlinesolutions.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sabreairlinesolutions.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407032258id_/http%3A//www.sabreairlinesolutions.com/privacy.htm) for the most accurate reproduction.*
 
 # Sabre Airline Solutions
 
