@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 10-strike.com privacy policy that was archived on 2004-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041020003411id_/http%3A//10-strike.com/10.php%3Fcat%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 10-strike.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407115843id_/http%3A//www.10-strike.com/10.php%3Fcat%3Dprivacy) for the most accurate reproduction.*
 
 # 10-Strike Software - MP3-Scanner, Log-Analyzer, FTPrint
 
