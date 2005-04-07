@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reflexive.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208005044id_/http%3A//www.reflexive.com/index.php%3FPAGE%3DPrivacy_Policy%26CID%3D4381%26LIMIT%3D%26FLEXSTATE%3Dhome) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reflexive.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407172506id_/http%3A//www.reflexive.com/index.php%3FPAGE%3DPrivacy_Policy) for the most accurate reproduction.*
 
 # Untitled
 
