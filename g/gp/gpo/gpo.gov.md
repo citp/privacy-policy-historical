@@ -1,50 +1,32 @@
-> *The following text is extracted and transformed from the gpo.gov privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401223839id_/http%3A//www.access.gpo.gov/su_docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpo.gov privacy policy that was archived on 2005-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050408054446id_/http%3A//www.gpo.gov/legal.htm) for the most accurate reproduction.*
 
-# Privacy and Security Notice
+# GPO - Legal Information
 
-[](http://www.access.gpo.gov/su_docs/index.html)  
-[](http://www.access.gpo.gov/su_docs/legislative.html)  
-[](http://www.access.gpo.gov/su_docs/executive.html)  
-[](http://www.access.gpo.gov/su_docs/judicial.html)  
-[](http://www.access.gpo.gov/su_docs/regulatory.html)  
-[](http://www.access.gpo.gov/su_docs/admin.html)
+The concept of online privacy includes the right to decide what personal information you choose to submit online, and how that information will be used, if at all. To protect user privacy, GPO follows Office of Management and Budget (OMB) recommendations and other suggestions regarding Internet privacy policy for Federal Government Web sites. In doing so, we strive to make users aware of the kinds of information we collect from them, explaining why we collect that information, how we use it, and whether it will be shared with others. 
 
-|  | ****
+**Information Collected Automatically**  
+When users surf the GPO Web site or hosted Federal Web sites, GPO collects the following data for statistical purposes only: 
 
-****[Home](http://www.access.gpo.gov/su_docs/index.html) | **Privacy** | [Site Search](http://www.access.gpo.gov/su_docs/search.html) | [Help](http://www.access.gpo.gov/su_docs/help.html) | [Comments](http://www.access.gpo.gov/su_docs/amail001.shtml?/privacy.html)  
-[Site Contents](http://www.access.gpo.gov/su_docs/alphabet.html) | [What's New](http://www.access.gpo.gov/su_docs/newnote.html) | [Online Bookstore](http://bookstore.gpo.gov/index.html) | [Finding Aids](http://www.access.gpo.gov/su_docs/tools.html) | [Library Services](http://www.access.gpo.gov/su_docs/fdlp/libpro.html)
-
-This World Wide Web (WWW) site is provided as a public service by the U.S Government Printing Office (GPO). We believe that a significant part of this service is the assurance of user privacy and security. To protect user privacy, we adhere to the following:
-
-  * For statistical purposes, GPO collects the following data: the IP address from which users access our Web site, the date and time of their visits, the URLs of the pages that they view as well as WAIS searches and retrievals [_(See example)_](http://www.access.gpo.gov/su_docs/privexample.html). We use the aggregate statistics to make improvements to _GPO Access_ , not to identify individual users or their searches.
+  * the IP address from which users access our Web site; 
+  * the date and time of their visits; 
+  * the URLs of the pages that they view; 
+  * WAIS searches and retrievals, including search terms. 
 
 
 
-  * GPO does not enable cookies¹ to monitor usage or to gather users’ personal information; however, "session cookies" are used to aid in the selection of items on the U.S. Government Online Bookstore. To take full advantage of the shopping cart features on the U.S. Government Online Bookstore, users must have session cookies enabled on their browser. Session cookies disappear from the user's computer when an Internet session ends.
+We use these statistics to make improvements to GPO.gov, not to identify individual users or their searches. We do not enable **cookies** to monitor usage or to gather users’ personal information.
 
+**Information Collected via Correspondence with GPO**  
+Personal information submitted by a user in comments or questions via phone, fax, or e-mail is not distributed to parties outside of GPO. Identifying information, such as name, e-mail address, and phone or fax number, is used only for responding to users' comments or questions, and is not made available for other purposes.
 
-  * Personal information submitted by a user in a comment or question via phone, fax, or e-mail is not distributed to parties outside of GPO.
+**Definition**
 
-
-  * Using commercial software for security, GPO ensures that only authorized personnel view credit card numbers that are submitted through the _GPO Access_ Online Bookstore.
-
-
-  * Personal information that is supplied by a user when submitting an order via _GPO Access_ , phone, fax, or e-mail is used for fulfilling that order. This information may be used to notify customers of new products that may be of interest to them. GPO only provides names and addresses, upon request, to the publishing agency of the specific product purchased.
-
-
-  * Where identifying information is asked, it is used only for responding to users’ comments or questions and is not made available for other purposes.
-
-
-  * To assist users in finding official Government information, we provide links to other Web sites. Once users have left _GPO Access_ and entered another site, they are subject to the privacy policy of that site.
-
-
-  * Information presented on _GPO Access_ is considered public information and may be distributed or copied unless otherwise specified.
+  * **Cookies** : Cookies are small pieces of information that Web servers or pages store on a user’s hard drive. There are two types of cookies: session cookies and persistent cookies. Both types of cookies allow Internet servers to "remember" specific information about a user. Web sites use them primarily to personalize their sites for individual users, to keep track of orders when users purchase products, and to target advertising toward users based on the information that they access. However, session cookies will "remember" that information for only as long as you explore a Web site during one "session", or visit to the Web site. Session cookies will not "remember" information about you when you return to the site for subsequent visits. However, persistent cookies will "remember" this information for more than one session. OMB has decided that persistent cookies should not be allowed on Government Web sites, except in "the most unusual of circumstances." GPO currently follows this recommendation. 
 
 
 
-¹ A cookie is a small piece of information that Web servers or pages store on a user’s hard drive. Cookies allow Internet servers to "remember" specific information about a user. Web sites use them primarily to personalize their sites for individual users, to keep track of orders when users purchase products, and to target advertising toward users based on the information that they access.
+## Security
 
-* * *
+Site security is the concept of monitoring network traffic to identify unauthorized attempts to upload or change information on GPO's servers. 
 
-A service of the Superintendent of Documents, [U.S. Government Printing Office](http://www.gpo.gov/index.html).  
-Questions or comments: [gpoaccess@gpo.gov](http://www.access.gpo.gov/su_docs/amail001.shtml?privacy.html).
+In the case that suspicious activity of this sort arises, a user's personal information may be tracked to identify a possible threat. This is the only reason that GPO will ever collect personal information and/or monitor user activity without asking permission or giving prior notice.
