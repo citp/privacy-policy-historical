@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comics-toons.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205062855id_/http%3A//comics-toons.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comics-toons.com privacy policy that was archived on 2005-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050408060821id_/http%3A//www.comics-toons.com/privacy.html) for the most accurate reproduction.*
 
 # Comics-Toons.com - Toons Porn, Comics Sex, Toons Comics Porn... Best uncensored cartoons and comics archive!
 
