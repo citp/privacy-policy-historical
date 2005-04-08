@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highline.edu privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204145054id_/http%3A//www.highline.edu/home/policy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highline.edu privacy policy that was archived on 2005-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050408070902id_/http%3A//www.highline.edu/home/policy/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Highline Community College
 
@@ -101,7 +101,7 @@ If personal information is requested on the Web site or volunteered by the user,
 
 If you believe that your personal information is being used for a purpose other than what was intended when submitted, you may contact the Public Records Officer as shown in the Contact Information section of this statement.
 
-Users are cautioned that the collection of personal information requested from or volunteered by children online or by e-mail will be treated the same as information given by an adult, and may be subject to public access.
+Highline Community College web site is a general audience site and we do not knowingly collect any personal information from children. Users are cautioned that the collection of personal information requested from or volunteered by children online or by e-mail will be treated the same as information given by an adult, and may be subject to public access.
 
 Top of page
 
@@ -215,7 +215,7 @@ In addition to the previously identified laws and regulations, the following app
 
   * [RCW 42.17.310](http://search.leg.wa.gov/pub/textsearch/ViewRoot.asp?Action=Html&Item=15&X=815105327&p=1) (l) exempts the following from public inspection and copying: (l) Any library record, the primary purpose of which is to maintain control of library materials, or to gain access to information, which discloses or could be used to disclose the identity of a library user.
     * For the purposes of this regulation, Highline’s workstation and network logs that collect and retain information concerning information resources accessed shall be considered library records.
-  * Highline Community College Library  [Policy on the Privacy of Library Records](http://flightline.highline.ctc.edu/libraryadmin/a_policies/privacy.html).
+  * Highline Community College Library  [Policy on the Privacy of Library Records](http://flightline.highline.edu/libraryadmin/a_policies/privacy.html).
   * 50 U.S.C. 1861 et seq.. Under the Foreign Intelligence Surveillance Act, ("FISA"), the FBI may obtain an ex parte (without a formal hearing) court order allowing access to the records of library patrons.
 
 
@@ -263,6 +263,8 @@ Top of page
 The Highline Community College Web site has many links to other Web sites. These include links to Web sites operated by other government agencies, nonprofit organizations and private businesses. When you link to another site, you are no longer on the Highline Community College Web site and this Privacy Notice will not apply. When you link to another Web site, you are subject to the privacy policy of that new site.
 
 Neither the State of Washington, nor any agency, officer, or employee of the State of Washington warrants the accuracy, reliability or timeliness of any information published by this system, nor endorses any content, viewpoints, products, or services linked from this system, and shall not be held liable for any losses caused by reliance on the accuracy, reliability or timeliness of such information. Portions of such information may be incorrect or not current. Any person or entity that relies on any information obtained from this system does so at their own risk.
+
+Highline Community College reserves the right to revise and update this Privacy Notice at any time by posting such revised Privacy Notice at the Highline Community College home page.
 
 Top of page
 
