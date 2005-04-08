@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benefits.gov privacy policy that was archived on 2004-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041222231557id_/http%3A//www.benefits.gov/govbenefits/privacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benefits.gov privacy policy that was archived on 2005-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050408070722id_/http%3A//www.benefits.gov/govbenefits/privacy.jhtml) for the most accurate reproduction.*
 
 # GovBenefits.gov - Privacy and Security Statement
 
@@ -12,13 +12,13 @@ The above information is used by software programs on our website to create summ
 
 If you send an email containing personal, identifying information:
 
-We remove all personal, identifying information from any email correspondence before responding and we do not store any personal, identifying information about you. If you wish to file a request under FOIA, instructions are provided at: [http://www.dol.gov/dol/foia/main.htm](https://web.archive.org/govbenefits/externalLink.jhtml?url=http://www.dol.gov/dol/foia/main.htm "This link opens the http://www.dol.gov/dol/foia/main.htm website in a new browser window")
+We remove all personal, identifying information from any email correspondence before responding and we do not store any personal, identifying information about you. If you wish to file a request under FOIA, instructions are provided at: [http://www.dol.gov/dol/foia/main.htm](https://web.archive.org/govbenefits/externalLink.jhtml?url=http://www.dol.gov/dol/foia/main.htm "This link opens the http://www.dol.gov/dol/foia/main.htm website in a new browser window").
 
 If you link to other sites:
 
 Our website has many links to other sites. When you link to any of these sites, you are no longer on our site and are subject to the privacy policy of the new site.
 
-Cookie Use Notice:
+Cookie Use Notice
 
 On a limited number of our Web pages, we employ "cookies" to provide better service to our customers. We do not use cookies to collect any personal, identifying information from users or to track user activities beyond our website. We do not maintain copies of cookies on our website after you leave our website.
 
