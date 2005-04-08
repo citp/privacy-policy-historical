@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outerspace-software.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208124414id_/http%3A//www.outerspace-software.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outerspace-software.com privacy policy that was archived on 2005-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050408085050id_/http%3A//www.outerspace-software.com/privacy.html) for the most accurate reproduction.*
 
 # Outerspace Software: Realtime 3D Video Titling and VJ Effects - Privacy Policy
 
@@ -26,5 +26,6 @@ We use the "confirmed opt-in" method for collecting e-mail addresses for our mai
 
 ### Contact Information
 
-If you have any questions about this privacy policy please send an e-mail to:  
-[michiel@outerspace-software.com](mailto:michiel@outerspace-software.com)
+If you have any questions about this privacy policy please send an e-mail to:
+
+[info@outerspace-software.com](mailto:info@outerspace-software.com)
