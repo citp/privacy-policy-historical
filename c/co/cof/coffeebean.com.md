@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coffeebean.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204074441id_/http%3A//www.coffeebean.com/00_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coffeebean.com privacy policy that was archived on 2005-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050408084510id_/http%3A//www.coffeebean.com/00_privacy.asp) for the most accurate reproduction.*
 
 # Coffee Bean: Privacy Statement
 
@@ -24,5 +24,5 @@ Positive Identification - coffeebean.com is registered with site identification 
 
 With this technology, the identity of our site is automatically confirmed behind the scenes prior to the transmission of any customer information required to complete and online order. 
 
-  
+Privacy for Children Under ThirteenChildren under the age of thirteen (13) are not permitted through our website to (i) purchase any products or services offered by The Coffee Bean & Tea Leaf® or (ii) sign up for the Coffee Bean / PINK Card, newsletters, catalogs or other offered publications or services. If you are under the age of thirteen (13), an adult must purchase such products or sign up for the offered products, publication or services. _ **In order to respect the privacy of children under the age of thirteen (13), we ask that these children do not provide any personal information to or through our website.**_  
 
