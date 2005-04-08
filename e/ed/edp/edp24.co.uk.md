@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edp24.co.uk privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206234325id_/http%3A//www.edp24.co.uk/asp/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edp24.co.uk privacy policy that was archived on 2005-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050408060321id_/http%3A//www.edp24.co.uk/asp/Privacy.asp) for the most accurate reproduction.*
 
 # EDP24
 
