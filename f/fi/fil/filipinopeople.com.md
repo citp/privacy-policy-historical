@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filipinopeople.com privacy policy that was archived on 2004-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041224180157id_/http%3A//filipinopeople.com/company/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filipinopeople.com privacy policy that was archived on 2005-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050408054927id_/http%3A//www.filipinopeople.com/company/policy.htm) for the most accurate reproduction.*
 
 # FilipinoPeople.com - Filipino Online Community - Sharing and Preserving Filipino Culture
 
@@ -30,4 +30,4 @@ FilipinoPeople.com reserves the right to disclose to third parties information a
 
 | 
 
-[](http://filipinopeople.com/cgi-bin/click.cgi?id=108299712818980&zone=108299879519389&1103911006)
+[](http://filipinopeople.com/cgi-bin/click.cgi?id=108299712818980&zone=108299879519389&1112939690)
