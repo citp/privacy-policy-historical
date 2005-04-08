@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the berkshireeagle.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209022107id_/http%3A//extras.berkshireeagle.com/NeBe/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berkshireeagle.com privacy policy that was archived on 2005-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050408104930id_/http%3A//extras.berkshireeagle.com/nebe/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - New England Newspapers Inc.
 
