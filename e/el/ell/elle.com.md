@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elle.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206214007id_/http%3A//aboutus.hfnm.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elle.com privacy policy that was archived on 2005-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050409003350id_/http%3A//aboutus.hfnm.com/Privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,6 +13,9 @@ By visiting this site, you agree to the terms of this policy as they may be amen
 
 **Purpose**  
 Your privacy is a serious matter to HFM U.S. In order to make your visits to our sites as worthwhile as possible, we collect certain information from your computer each time you visit us and sometimes we ask you for personal information. This privacy statement explains what personal information is collected on HFM U.S. Web sites, including this one, how the information is used, and with whom we may share such information. Please take a few minutes to read our privacy policy so that you understand how we treat your personal information. 
+
+**Right to Opt Out**  
+You have the right to “opt-out” of certain HFM U.S. uses of your Personal Information. At the time you are requested to provide Personal Information on this Site, you may have the opportunity to elect to, or not to, receive e-mail offers from HFM U.S. or have your Personal Information shared with other companies. You may also make this request by sending an e-mail to [privacy@hfnm.com](mailto:privacy@hfnm.com). In this e-mail please say whether you would like to opt-out of receiving e-mail offers from HFM U.S. and/or having your Personal Information shared with other companies. You may also opt-out of HFM U.S. e-mails by clicking on a link within the email replying back to an e-mail you receive. Please understand that if you opt-out of receiving e-mails from HFM U.S., we may still contact you by e-mail in connection with your account with us or to provide you with important information about HFM U.S. or this Site. Also, a request to have us stop sharing your Personal Information with other companies will only apply as of the date of the request, and HFM U.S. will not be responsible for any communications that you may receive from companies that received your Personal Information prior to such request. In these cases, please contact that company directly. 
 
 **Attention Kids**  
 If you are under the age of 13 (12 or younger), you may not provide any information about yourself to this Site. While you may view content on the Site, you may not register with the Site, enter any of our sweepstakes or contests, or participate in any of our chat rooms, bulletin boards or other activities that would let you enter information about yourself. If we learn that you have provided information about yourself to this Site, we will delete such information.
@@ -63,9 +66,6 @@ If you provide information to HFM U.S. in connection with a sweepstakes, contest
 
 HFM U.S. reserves the right to analyze user behavior as a measure of interest in and use of the HFM U.S. Web sites and HFM U.S. e-mails. HFM U.S. may disclose such analyses to advertisers or other third parties in the form of aggregate data, such as overall patterns or demographic reports that do not describe or identify any individual user.
 
-**Right to Opt Out**  
-You have the right to “opt-out” of certain HFM U.S. uses of your Personal Information. At the time you are requested to provide Personal Information on this Site, you may have the opportunity to elect to, or not to, receive e-mail offers from HFM U.S. or have your Personal Information shared with other companies. You may also make this request by sending an e-mail to [privacy@hfnm.com](mailto:privacy@hfnm.com). In this e-mail please say whether you would like to opt-out of receiving e-mail offers from HFM U.S. and/or having your Personal Information shared with other companies. You may also opt-out of HFM U.S. e-mails by clicking on a link within the email replying back to an e-mail you receive. Please understand that if you opt-out of receiving e-mails from HFM U.S., we may still contact you by e-mail in connection with your account with us or to provide you with important information about HFM U.S. or this Site. Also, a request to have us stop sharing your Personal Information with other companies will only apply as of the date of the request, and HFM U.S. will not be responsible for any communications that you may receive from companies that received your Personal Information prior to such request. In these cases, please contact that company directly. 
-
 **E-mail**  
 If you contact HFM U.S. by e-mail, you should be aware that e-mail transmission might not be secure. A third party could view information you send by e-mail in transit. HFM U.S. will have no liability for disclosure of your information due to errors or unauthorized acts of third parties during transmission.
 
@@ -101,5 +101,5 @@ New York, NY 10019
 Phone: 212-767-5322  
 **[privacy@hfnm.com](mailto:privacy@hfnm.com)**
 
-**Effective Date: November 03, 2004**  
+**Effective Date: February 07, 2005**  
 
