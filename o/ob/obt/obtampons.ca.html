@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the obtampons.ca privacy policy that was archived on 2004-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204174005id_/http%3A//www.obtampons.ca/en/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the obtampons.ca privacy policy that was archived on 2005-04-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050409103149id_/http%3A//www.obtampons.ca/en/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html lang="en"><head>
 		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
@@ -47,6 +47,16 @@ function changeImages() {
 			if (img) {img.src = changeImages.arguments[i+1];}
 		}
 	}
+}
+
+// open a popup window centred on the page
+function popup(page, w, h)
+{
+	var l = (screen.width - w) / 2;
+	var t = (screen.height - h) / 2;
+	var props = "left="+l+",top="+t+",height="+h+",width="+w+",scrollbars=0,status=1";
+	popupWin = open(page,"popupWin",props);
+	popupWin.focus();	
 }
 
 // --></script>
@@ -120,7 +130,7 @@ function preloadImages() {
 														<tr height="17">
 															<td height="17" background="images/spacer.gif"><img src="images/spacer.gif" alt="" height="1" width="9" border="0"></td>
 															<td width="9" height="17" background="images/spacer.gif"><img src="images/bullet-pink.gif" alt="bullet" height="15" width="7" border="0"></td>
-															<td width="194" height="17" background="images/spacer.gif"><span class="navText"><a href="javascript:popup('discretion/english2.html', 630, 385);">
+															<td width="194" height="17" background="images/spacer.gif"><span class="navText"><a href="#" onclick="popup('discretion/english2.html', 630, 385);">
 																compare for yourself</a></span>
 															</td>
 														</tr>														
@@ -201,19 +211,6 @@ function preloadImages() {
 														</tr>
 													</tbody></table>
 												</td>
-											</tr>
-											
-											<tr height="22">
-												<td width="1" height="22" background="images/spacer.gif"><img src="images/spacer.gif" alt="" height="1" width="1" border="0"></td>
-												 
-														<td height="22" background="images/spacer.gif"><a onmouseover="changeImages( /*CMP*/'bkgd_nav_pink4',/*URL*/'images/bkgd-nav-green.gif');return true" onmouseout="changeImages( /*CMP*/'bkgd_nav_pink4',/*URL*/'images/bkgd-nav-green-off.gif');return true" href="tryob.asp"><img src="images/bkgd-nav-green-off.gif" alt="free sample" name="bkgd_nav_pink4" height="22" width="229" border="0"></a></td>
-													
-											</tr>
-											<tr height="22">
-												<td width="1" height="22" background="images/spacer.gif"><img src="images/spacer.gif" alt="" height="1" width="1" border="0"></td>
-												 
-														<td height="22" background="images/spacer.gif"><a onmouseover="changeImages( /*CMP*/'bkgd_nav_pink5',/*URL*/'images/bkgd-nav-purple.gif');return true" onmouseout="changeImages( /*CMP*/'bkgd_nav_pink5',/*URL*/'images/bkgd-nav-purple-off.gif');return true" href="enter.asp"><img src="images/bkgd-nav-purple-off.gif" alt="enter to win" name="bkgd_nav_pink5" height="22" width="229" border="0"></a></td>
-																								
 											</tr>
 											
 											<tr height="23">
@@ -341,17 +338,6 @@ function preloadImages() {
 												</td>
 											</tr>
 
-		<tr height="11">
-			<td width="20" height="11" background="images/spacer.gif"></td>
-			<td width="246" height="11"></td>
-			<td align="right" valign="bottom" height="11"><a href="tryob.asp"><img src="images/feature-corner-top.gif" alt="Introducing o.b. (R) Silk Ease(TM)" height="11" width="206" border="0"></a></td>
-		</tr>			
-		<tr height="92">
-			<td width="20" height="92" background="images/spacer.gif"></td>
-			<td width="246" height="92"></td>
-			<td align="right" valign="bottom"><a href="tryob.asp"><img src="../images/forms/feature-corner-trysilke.gif" alt="Introducing o.b. (R) Silk Ease(TM)" border="0"></a></td>
-		</tr>
-	
 										</tbody></table>
 									</td>
 								</tr>
@@ -372,9 +358,9 @@ function preloadImages() {
 												<tr>
 													<td>
 														<div align="right">
-															<p><span class="smalltext">© Johnson &amp; Johnson Inc. 2003-2004<br>
+															<p><span class="smalltext">© Johnson &amp; Johnson Inc. 2003-2005<br>
 															This site is published by Johnson &amp; Johnson Inc., which is solely responsible for its content. <br>
-															It is intended for visitors from Canada only. Last Updated: April 27, 2004</span></p>
+															It is intended for visitors from Canada only. Last Updated: March 31, 2005</span></p>
 															<p><span class="smalltext"><a title="Legal Notice" href="legal.asp">legal notice</a>&nbsp; • &nbsp;<a title="Privacy Policy" href="privacy.asp">privacy policy</a>&nbsp; • &nbsp;<a title="Contact Us" href="questions-contact.asp">contact us</a>&nbsp; • &nbsp;<a title="Français" href="../fr/privacy.asp">français</a></span></p>
 														</div>
 													</td>
