@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budgettruck.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208192927id_/http%3A//www.budgettruck.com/custserv/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgettruck.com privacy policy that was archived on 2005-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050409080257id_/http%3A//www.budgettruck.com/custserv/privacy.asp) for the most accurate reproduction.*
 
 # Budget Truck Rental: Customer Service
 
@@ -44,7 +44,7 @@ We at Budget Truck recognize the importance of protecting your personally identi
 
 The purpose of this Privacy Policy is to tell you how Budget Truck strives to better serve you by keeping you informed of promotions, products and services, while, at the same time, safeguarding your PII. Our intent is to bring you offers and discounts that we believe are relevant to your interests offered by and through Cendant business units and affiliates (including, for purposes of this Privacy Policy, our franchise system affiliates) and other non-affiliated companies with whom we have business relationships. 
 
-This Privacy Policy is incorporated into, and part of, the [Terms of Use](https://web.archive.org/web/20041208192927id_/http%3A//www.budgettruck.com/custserv/termsofuse.asp), which govern Budget Truck’s web site at www.budgettruck.com (the “Site”). 
+This Privacy Policy is incorporated into, and part of, the [Terms of Use](https://web.archive.org/web/20050409080257id_/http%3A//www.budgettruck.com/custserv/termsofuse.asp), which govern Budget Truck’s web site at www.budgettruck.com (the “Site”). 
 
 **What Personally Identifiable Information Budget Truck Collects and How it is Collected**
 
