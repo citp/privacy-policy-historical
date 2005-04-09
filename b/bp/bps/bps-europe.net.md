@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the bps-europe.net privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009181627id_/http%3A//www.bps-europe.net/bps/bps_portal.nsf/%28%24Web%29/PrivPolicy%3FOpenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bps-europe.net privacy policy that was archived on 2005-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050409030359id_/http%3A//www.bps-europe.net/bps/bps_portal.nsf/%28%24Web%29/PrivPolicy%3FOpenDocument) for the most accurate reproduction.*
 
-# TEN-Telecom BPS
+# BPS Europe
 
 Business plans are sensitive issues that must be well protected. All BPS consultants adhere to a strict code of conduct and have signed a confidentiality statement.  
 
 
   
-**TEN-Telecom BPS and DATA PROTECTION**
+**BPS and DATA PROTECTION**
 
-TEN-Telecom BPS is committed to the following policies which protect your privacy and comply with current international Data Protection laws and regulations in respect of personal data. We will only obtain personal data from you for specified and lawful purposes and any personal data obtained will be processed fairly and lawfully with regard to these principles: 
+BPS is committed to the following policies which protect your privacy and comply with current international Data Protection laws and regulations in respect of personal data. We will only obtain personal data from you for specified and lawful purposes and any personal data obtained will be processed fairly and lawfully with regard to these principles: 
 
 | a.| 
 
@@ -17,19 +17,19 @@ Disclosure to third parties - we do not disclose personal information to third p
 ---|---  
 b.| 
 
-Use of personal data – we collect personal data for use in the normal course of our business. We may use your contact details that you provide to us to inform you of relevant opportunities, developments and events, unless you decide to opt out. We do not provide your details to third parties for any marketing or promotional purposes, except where you have given your explicit consent. We will only process the individual data which you provide to us for the intended purpose. We will take all reasonable steps to ensure that the data held is adequate, relevant and not excessive for such purposes.   
+Use of personal data – we collect personal data for use in the normal course of our business. We may use your contact details that you provide to us to inform you of relevant opportunities, developments and events, unless you decide to opt out. We do not provide your details to third parties for any marketing or promotional purposes, except where you have given your explicit consent. We will only process the individual data which you provide to us for the intended purpose. We will take all reasonable steps to ensure that the data held is adequate, relevant and not excessive for such purposes.  
   
 c.| 
 
-Information sharing – we may need to share personal information with other companies within the TEN-Telecom BPS Group. This may include companies, offices or data centres outside the European Economic Area. All these Group companies follow the same Data Protection policy and maintain the same levels of confidentiality and security.   
+Information sharing – we may need to share personal information with other companies within the BPS Group. This may include companies, offices or data centres outside the European Economic Area. All these Group companies follow the same Data Protection policy and maintain the same levels of confidentiality and security.  
   
 d.| 
 
-Security – we take all reasonable steps to protect the confidentiality and security of your personal information.   
+Security – we take all reasonable steps to protect the confidentiality and security of your personal information.  
   
 e.| 
 
-Accuracy – we take all reasonable steps to keep your personal information accurate and, where necessary, up to date.   
+Accuracy – we take all reasonable steps to keep your personal information accurate and, where necessary, up to date.  
   
 f.| 
 
@@ -55,12 +55,12 @@ When performing consulting work, the signatories will use any information acquir
 
 **Article 3**
 
-When entering or considering to enter into a business relationship with a third party in relation to the BPS Project, the signatories respect their role as service providers to the project and act accordingly. Each signatory engages to brief the Project Co-ordinator in the event of any potential or manifest conflict of interest.  
+When entering or considering to enter into a business relationship with a third party in relation to the BPS Project, the signatories respect their role as service providers to the project and act accordingly. Each signatory engages to brief SystemConsult Theis & Partner GmbH in D – 72555 Metzingen in the event of any potential or manifest conflict of interest.  
 
 
 **Article 4**
 
-Where appropriate, the signatories inform the Project Co-ordinator well in advance of all changes in the persons working on the project or about alterations in their affiliation to other companies.  
+Where appropriate, the signatories inform SystemConsult Theis & Partner GmbH in D – 72555 Metzingen well in advance of all changes in the persons working on the project or about alterations in their affiliation to other companies.  
 
 
 **Article 5**
@@ -70,11 +70,11 @@ The signatories respond to queries within two working days.
 
 **Article 6**
 
-All personnel put on this Project must respect this Code of Conduct and the signatories provide evidence to the Project Co-ordinator that they have taken the necessary measures in this context.
+All personnel put on this Project must respect this Code of Conduct and the signatories provide evidence to SystemConsult Theis & Partner GmbH in D – 72555 Metzingen that they have taken the necessary measures in this context.
 
 **Confidentiality Statement**
 
-As a BPS consultant, I may gain information via my consultation activity considered to be confidential by those consulted and by the TEN-Telecom project team, which is therefore not to be disclosed towards any third person. 
+As a BPS consultant, I may gain information via my consultation activity considered to be confidential by those consulted and by the Project Team, which is therefore not to be disclosed towards any third person.
 
 I will only use information acquired when consulting on individual business plans in this particular context, treat it confidentially, and not make it available to third persons in a way that those might be able to identify the source. 
 
