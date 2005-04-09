@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exploreminnesota.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009203414id_/http%3A//www.exploreminnesota.com/go/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exploreminnesota.com privacy policy that was archived on 2005-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050409084902id_/http%3A//www.exploreminnesota.com/go/privacy_policy) for the most accurate reproduction.*
 
 # Explore Minnesota: Minnesota's travel and vacation planning service
 
