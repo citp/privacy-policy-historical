@@ -1,12 +1,22 @@
-> *The following text is extracted and transformed from the newyorker.com privacy policy that was archived on 2004-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041230092703id_/http%3A//newyorker.com/site/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorker.com privacy policy that was archived on 2005-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050409234821id_/http%3A//newyorker.com/services/privacypolicy.html) for the most accurate reproduction.*
 
-# CondéNet and Condé Nast Magazines: NewYorker.com Privacy Policy
+# CondéNet and Condé Nast Magazines: NewYorker: Privacy Policy
 
-|  |  |  Last Revised June 27, 2002
+|    
+|   
+|  |   
+|  |   
+|  |   
+|  |  |   
+---  
+  
+Privacy Policy
+
+Last Revised June 27, 2002
 
 Kids and parents click here! 
 
-In addition to reviewing this privacy policy, please read our [User Agreement](https://web.archive.org/site/useragreement/useragreement.html). Your use of NewYorker.com constitutes agreement to its terms and conditions.
+In addition to reviewing this privacy policy, please read our [User Agreement](http://www.newyorker.com/services/useragreement.html). Your use of NewYorker.com constitutes agreement to its terms and conditions.
 
 NewYorker.com is produced by CondéNet, Inc. This policy does not cover information collected on sites linked to from NewYorker.com.
 
@@ -37,7 +47,7 @@ NewYorker.com generally collects personally identifying information with your sp
 
 NewYorker.com uses this information to provide you with the service you have requested. If you subscribe to any of our magazines, we may use your e-mail address to send you a confirmation notice and your mailing address to send you your magazine. Similarly, if you enter an online sweepstakes, we will use this information to notify you if you are a winner. We may also use the information to communicate with you about new features, products or services, or to improve the services that we offer by tailoring them to your needs.
 
-NewYorker.com does not sell our users' e-mail addresses. However, unless otherwise specified, we may share e-mail address and sell or share all other information with our affiliates and with carefully selected companies who we think can offer you services and products of interest to you. If you do not wish to have your information shared, write to us at [privacy@condenet.com](mailto:privacy@condenet.com). If you do not wish to receive communications from us, simply follow the unsubscribe instructions contained within the e-mail. If you've registered on any part of NewYorker.com, you may also change or update your member preferences or information within any section of the site where you have signed up, registered or created any type of account.
+NewYorker.com does not sell our users' e-mail addresses. However, unless otherwise specified, we may share e-mail address and sell or share all other information with our affiliates and with carefully selected companies who we think can offer you services and products of interest to you.. If you do not wish to have your information shared, write to us at [privacy@condenet.com](mailto:privacy@condenet.com). If you do not wish to receive communications from us, simply follow the unsubscribe instructions contained within the e-mail. If you've registered on any part of NewYorker.com, you may also change or update your member preferences or information within any section of the site where you have signed up, registered or created any type of account.
 
 We also allow access to our database by third parties that provide us with services, such as technical maintenance or forums software, but only for the purpose of and to the extent necessary to provide those services. And if you choose to purchase items through features on our site, we may forward your information to third parties for services such as credit card processing and order fulfillment. There are also times when you provide information about yourself to us in areas of the site that are managed or participated in by third parties, such as our featured merchant partners. In such cases, the information may be used by us and by such third party(ies), each pursuant to its own policies. We may also provide your information to our advertisers, so that they can serve ads to you that meet your needs or match your interests. While NewYorker.com will seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it is provided, NewYorker.com does not bear any responsibility for any actions or policies of third parties. There may also be occasion when we are legally required to provide access to our database in order to cooperate with police investigations or other legal proceedings. In those instances, the information is provided only for that purpose.  
  
@@ -76,4 +86,4 @@ NewYorker.com
 New York, NY 10036
 
 
-| 
+
