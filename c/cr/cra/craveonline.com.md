@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craveonline.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206094016id_/http%3A//www.craveonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craveonline.com privacy policy that was archived on 2005-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050410084345id_/http%3A//www.craveonline.com/privacy) for the most accurate reproduction.*
 
 # Crave Privacy Policy
 
@@ -103,4 +103,4 @@ This Web site contains links to other Web sites. Crave Online Media is not respo
 
 **For More Information**
 
-For more information about Crave, please contact us at [info@craveonline.com](mailto:info@craveonline.com). 
+For more information about Crave, please contact us at [info@craveonline.com](mailto:info@craveonline.com).
