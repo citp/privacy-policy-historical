@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickenloans.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208165920id_/http%3A//www.quickenloans.com/about/security_privacy.html%3Flid%3D53) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickenloans.com privacy policy that was archived on 2005-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050410084239id_/http%3A//www.quickenloans.com/about/security_privacy.html) for the most accurate reproduction.*
 
 # Security and Privacy - Quicken Loans
 
@@ -27,7 +27,7 @@ America's Home Loan Experts
 
 ##### Our Security & Privacy Pledge
 
-[](https://www.truste.org/validate/8262)At Quicken Loans, we have dedicated ourselves to revolutionizing the home loan process and helping individuals use their home financing options as a tool to manage their financial lives. In that effort, we respect and protect the privacy of those who visit or use our Web site. When we collect information from you, we want you to know how it is used. To demonstrate our commitment to fair information practices, we have adopted leading industry privacy guidelines. Quicken Loans is a member of the [TRUSTe](http://www.truste.com/) Privacy Program.
+[](https://www.truste.org/about/member_list.php#Q)At Quicken Loans, we have dedicated ourselves to revolutionizing the home loan process and helping individuals use their home financing options as a tool to manage their financial lives. In that effort, we respect and protect the privacy of those who visit or use our Web site. When we collect information from you, we want you to know how it is used. To demonstrate our commitment to fair information practices, we have adopted leading industry privacy guidelines. Quicken Loans is a member of the [TRUSTe](http://www.truste.com/) Privacy Program.
 
 Quicken Loans does not share your personal information with outside companies for their promotional use.
 
@@ -130,19 +130,19 @@ Top of Page
 
 ##### WE GIVE YOU CHOICES ABOUT HOW THE PERSONALLY IDENTIFIABLE INFORMATION THAT YOU PROVIDE TO US MAY BE USED.
 
-We give you the opportunity to control the use of your personal information for purposes other than to fulfill your request or as is required to process, close and subsequently service your loan. For example, on occasion we may use your contact information to send you promotional communications about Quicken Loans products. If you do not wish to receive such communications, you may specify your contact preferences during the information collection process or you may call toll-free (888) 565-2488 or send an e-mail to [optout@QuickenLoans.com](mailto:optout@QuickenLoans.com), or [click here](https://www.quickenloans.com/about/security_privacy/set_your_contact_preferences.html).
+We give you the opportunity to control the use of your personal information for purposes other than to fulfill your request or as is required to process, close and subsequently service your loan. For example, on occasion we may use your contact information to send you promotional communications about Quicken Loans products. If you do not wish to receive such communications, you may specify your contact preferences during the information collection process or you may call toll-free (800) 863-4332 or send an e-mail to [optout@QuickenLoans.com](mailto:optout@QuickenLoans.com), or [click here](https://www.quickenloans.com/about/security_privacy/set_your_contact_preferences.html).
 
 Top of Page
 
 ##### WE PROVIDE YOU THE OPPORTUNITY TO UPDATE OR CORRECT YOUR PERSONALLY IDENTIFIABLE INFORMATION.
 
-We provide you the opportunity to update or correct the contact and loan application information that you have provided to us. You may review and update information stored in your application online until you submit your application. Once you have submitted your application, you may only change the information by directly contacting our mortgage hotline at (888) 565-2488 or e-mailing us at [support@QuickenLoans.com](mailto:help@quickenloans.com). 
+We provide you the opportunity to update or correct the contact and loan application information that you have provided to us. You may review and update information stored in your application online until you submit your application. Once you have submitted your application, you may only change the information by directly contacting our mortgage hotline at (800) 863-4332 or e-mailing us at [optout@QuickenLoans.com](mailto:optout@QuickenLoans.com). 
 
 Top of Page
 
 ##### WE PROVIDE VARIOUS WAYS FOR YOU TO CONTACT US ABOUT OUR INFORMATION PRACTICES AND OTHER ASPECTS OF PRIVACY.
 
-Questions regarding the Quicken Loans Web site's privacy statement, our online privacy policy, our information practices or other aspects of privacy on our Web sites, should be directed to us by e-mail to [support@QuickenLoans.com](mailto:support@QuickenLoans.com) or by writing to us at Quicken Loans, Inc, Attn: Customer Service, 20555 Victor Parkway, Livonia, MI 48152. You may call our mortgage hotline at (888) 565-2488.
+Questions regarding the Quicken Loans Web site's privacy statement, our online privacy policy, our information practices or other aspects of privacy on our Web sites, should be directed to us by e-mail to [optout@QuickenLoans.com](mailto:optout@QuickenLoans.com) or by writing to us at Quicken Loans, Inc, Attn: Customer Service, 20555 Victor Parkway, Livonia, MI 48152. You may call our mortgage hotline at (800) 863-4332.
 
 If we have not responded to your inquiry, or if your inquiry has not been satisfactorily addressed, please contact [TRUSTe](http://www.truste.com/).
 
