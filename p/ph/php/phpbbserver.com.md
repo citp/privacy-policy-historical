@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phpbbserver.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204123700id_/http%3A//www.phpbbserver.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpbbserver.com privacy policy that was archived on 2005-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050410223207id_/http%3A//www.phpbbserver.com/privacy.html) for the most accurate reproduction.*
 
 # phpbbserver.com - Provides Free Forum Service
 
