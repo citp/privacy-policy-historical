@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poemhunter.com privacy policy that was archived on 2004-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041027010351id_/http%3A//www.poemhunter.com/PoemHunter/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poemhunter.com privacy policy that was archived on 2005-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050410181727id_/http%3A//poemhunter.com/PoemHunter/privacy) for the most accurate reproduction.*
 
 # PoemHunter.Com - Thousands of poems and poets..
 
@@ -11,7 +11,7 @@ PoemHunter.Com, takes certain information from its members at various parts of t
 
 **Registration  
 **   
-Although our site does not require a password in general, the members have to register in order to view some of the pages (such as MyPoemList) and to participate in certain activities. Members become our "registered members" by using the member registration page.
+Although our site does not require a password in general, the members have to register in order to view some of the pages (such as MyFavoritePoems) and to participate in certain activities. Members become our "registered members" by using the member registration page.
 
 When one of our members registers, we only ask for Name, Surname, E-mail address and Country information. The password of the member is generated automatically by the system and sent to his/her e-mail address. The member, by entering the password sent to his/her e-mail in the Member Login box on the main page (and on certain other pages), enters the system. When the member enters the system for the first time, we require the information of City, Date of Birth and Sex. Once this information is entered, the process of "member registration" is completed.
 
@@ -37,7 +37,7 @@ We do not have any partner organizations or partner web sites with which we shar
 
 **Cookies  
 **   
-We use cookies in our site to enable the users to perform certain procedures (for example to form a MyPoemList and to later view it).
+We use cookies in our site to enable the users to perform certain procedures (for example to form a MyFavoritePoems and to later view it).
 
 A cookie is an information notice recorded on the visitor's computer. 
 
