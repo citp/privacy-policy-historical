@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compassfx.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207220014id_/http%3A//www.compassfx.com/global/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compassfx.com privacy policy that was archived on 2005-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050410024743id_/http%3A//www.compassfx.com/global/privacy.html) for the most accurate reproduction.*
 
 # Compass Forex - Foreign Exchange Trading || Privacy Statement
 
