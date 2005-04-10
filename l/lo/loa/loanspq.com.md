@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the loanspq.com privacy policy that was archived on 2004-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040202081258id_/http%3A//www.loanspq.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loanspq.com privacy policy that was archived on 2005-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050410041616id_/http%3A//www.loanspq.com/privacy.asp) for the most accurate reproduction.*
 
-# LoansPQ
+# LoansPQ by MeridianLink
 
 PRIVACY  
 MeridianLink values your right and your customers' right to privacy. We are committed to keeping personal identifying and company identifying information safe, secure and confidential. The information we request from you will be used strictly for the purposes of processing your request and contacting you for corrections that may be needed to process your request. Only by law do we disclose your information. 
