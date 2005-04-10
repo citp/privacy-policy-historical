@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the u.tv privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206014654id_/http%3A//u.tv/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the u.tv privacy policy that was archived on 2005-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050410065359id_/http%3A//u.tv/privacypolicy.asp) for the most accurate reproduction.*
 
 # ::: u.tv :::
 
