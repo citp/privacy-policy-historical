@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the metafaq.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011074300id_/http%3A//www.transversal.com/html/global/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metafaq.com privacy policy that was archived on 2005-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050411162752id_/http%3A//transversal.com/html/legal/privacy.php) for the most accurate reproduction.*
 
-# Transversal Corporation - web-based customer support and information sharing solutions
+# Transversal Corporation - Web Self Service & Knowledge Management
 
 This statement sets out Transversal's policy in relation to holding and using information which it may obtain from you in the course of your use of this website. For the purpose of the Data Protection Act 1998 Transversal is the data controller.
 
