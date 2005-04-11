@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smud.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204110634id_/http%3A//www.smud.org/legal/general.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smud.org privacy policy that was archived on 2005-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050411073943id_/http%3A//www.smud.org/legal/general.html) for the most accurate reproduction.*
 
 # Sacramento Municipal Utility District | Privacy Statement
 
@@ -123,14 +123,14 @@ Scott Mackey
 Sacramento Municipal Utility District  
 P.O. Box 15830 MS-B401  
 Sacramento, CA 95852-1830   
-916-732-5135  
+916-732-6577  
 [smackey@smud.org](mailto:smackey@smud.org)
 
 Identity of the requesting parent will be verified by SMUD using your account number by e-mail, phone call, or written letter.
 
 Cookies may be used for remembering user input on interactive pages, such as games.
 
-SMUD [Children's Online Privacy Policy](https://web.archive.org/web/20041204110634id_/http%3A//www.smud.org/legal/children.html).
+SMUD [Children's Online Privacy Policy](https://web.archive.org/web/20050411073943id_/http%3A//www.smud.org/legal/children.html).
 
 ### Security statement
 
@@ -160,7 +160,7 @@ Scott Mackey
 Sacramento Municipal Utility District  
 P.O. Box 15830 MS-B401  
 Sacramento, CA 95852-1830   
-916-732-5135  
+916-732-6577  
 [smackey@smud.org](mailto:smackey@smud.org)
 
 ### Policy updates
