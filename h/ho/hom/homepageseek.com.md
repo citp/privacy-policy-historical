@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homepageseek.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204191234id_/http%3A//www.homepageseek.com/about.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homepageseek.com privacy policy that was archived on 2005-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050412012518id_/http%3A//www.homepageseek.com/about.htm) for the most accurate reproduction.*
 
 # Homepageseek Privacy Statement
 
@@ -16,9 +16,9 @@ This site contains links to other sites. **HomepageSeek** is not responsible for
 
 HomepageSeek Electronics, HomepageSeek Gifts, and HomepageSeek Sporting Goods uses an order form for customers to request information, products, and services. VStore.com is the fulfillment center and they collect visitor's contact information (like their e-mail address). Users may view their policies at: 
 
-   1.   [Privacy](http://www.vstore.com/privacy.html)
+   1.   [Privacy](http://vstore.vstoremarket.com/helppopup.htm?tab=policies&file=help_safe_shop.jsp)
 
-   2.   [Security](http://www.vstore.com/guarantee.html)
+   2.   [Security](http://vstore.vstoremarket.com/helppopup.htm?tab=policies&file=help_safe_shop.jsp)
 
 ## Security
 
