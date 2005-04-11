@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thewiseagent.com privacy policy that was archived on 2004-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041015051914id_/http%3A//www.thewiseagent.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewiseagent.com privacy policy that was archived on 2005-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050411034621id_/http%3A//www.thewiseagent.com/privacy.asp) for the most accurate reproduction.*
 
 # Real Estate Marketing - Contact Management - Transaction Management - The Wise Agent
 
-© 2004 The Wise Agent L.L.C.
+© 2005 The Wise Agent L.L.C.
 
 At **The Wise Agent** , privacy and security are paramount: We are committed to protecting your individual privacy and your information; and we are committed to keeping our network secure from outside infiltration.
 
