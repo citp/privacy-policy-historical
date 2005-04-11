@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartparenting.com.ph privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205174638id_/http%3A//www.smartparenting.com.ph/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartparenting.com.ph privacy policy that was archived on 2005-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050411020723id_/http%3A//www.smartparenting.com.ph/about/privacy) for the most accurate reproduction.*
 
 # FemaleNetwork.com | My life. My community.
 
@@ -37,13 +37,6 @@ FemaleNetwork.com facilitates Research Groups and Surveys for sponsors. These se
 Research groups are administered to a select set of members—you will only be part of a research group if you accept the invitation to participate. You are under no obligation to participate. If you do not wish to be invited to research groups, simply decline the email invitation or indicate in your Member Profile that you do not wish to receive such invitations. Sponsors will be authorized to access Research Group Reports that may contain the following: research group profile (total number of participants, date joined, and demographics); discussion transcript/s; survey tabulation with individual responses; and contest winners. They will have no access to your personal information unless you specify your interest in receiving information from the sponsor. 
 
 Surveys are open to all interested FemaleNetwork.com members. Sponsors will be authorized to access Survey Reports that may contain the following: survey group profile (total number of participants, date joined, and demographics); and survey tabulation with individual responses. They will have no access to your personal information unless you specify your interest in receiving information from the sponsor. 
-
-[](http://www.smartparenting.com.ph/about/privacy/#TOP)
-
-**Teens on FemaleNetwork.com**  
-FemaleNetwork.com is the home of Candymag.com, a website for teen girls. We take special precautions in protecting the privacy of our young readers. While we expect parents to talk to their children about staying safe on the Internet and to provide constant guidance, we also take active steps to educate and protect our young members. We provide informative feature articles on the subject of online safety and set up strict rules for their online community. We never censor discussion on GIRLTalk or in the chatrooms; however, we do monitor them closely for offensive, abusive, and threatening messages. We also provide "hotlines" (by telephone, fax, Web and email) that are dedicated to assisting and guiding our young members. 
-
-(Are you a teen? [Read "CyberSafety](http://www.candymag.com/aboutus/cybersafety.php)," a primer on protecting yourself on the Internet.) 
 
 [](http://www.smartparenting.com.ph/about/privacy/#TOP)
 
