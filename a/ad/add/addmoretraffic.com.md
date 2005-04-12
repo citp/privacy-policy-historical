@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addmoretraffic.com privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012070744id_/http%3A//www.ready4traffic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addmoretraffic.com privacy policy that was archived on 2005-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050412042639id_/http%3A//www.ready4traffic.com/privacy.php) for the most accurate reproduction.*
 
 # Ready4Traffic.com - Increased Website Traffic - Targeted Visitors for Your Website
 
