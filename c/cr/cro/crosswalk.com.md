@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crosswalk.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208154725id_/http%3A//www.crosswalk.com/audiohelp/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crosswalk.com privacy policy that was archived on 2005-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050412143650id_/http%3A//www.crosswalk.com/audiohelp/privacypolicy.asp) for the most accurate reproduction.*
 
 # Crosswalk.com
 
