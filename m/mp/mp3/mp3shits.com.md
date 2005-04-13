@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp3shits.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204181655id_/http%3A//www.mp3shits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3shits.com privacy policy that was archived on 2005-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050413075356id_/http%3A//www.mp3shits.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policies @ MP3sHits.com
 
