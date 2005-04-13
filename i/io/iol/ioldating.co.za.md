@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ioldating.co.za privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211004250id_/http%3A//iol.datingbuzz.com/s/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ioldating.co.za privacy policy that was archived on 2005-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050413101109id_/http%3A//iol.datingbuzz.com/s/help/privacy.php) for the most accurate reproduction.*
 
-# IOL Dating - Privacy Policy
+# DatingBuzz - Privacy Policy
 
 For us, privacy is what it's all about. Sure we've got great technology, technically superior software and so on, but what really counts is our ability to provide our members with a safe, secure and private environment.
 
