@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bellaonline.com privacy policy that was archived on 2004-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041230124927id_/http%3A//www.bellaonline.com/misc/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellaonline.com privacy policy that was archived on 2005-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050414004340id_/http%3A//www.bellaonline.com/misc/privacy.asp) for the most accurate reproduction.*
 
 # All About BellaOnline - The Voice of Women
 
@@ -17,9 +17,9 @@ This statement discloses the privacy practices for BellaOnline.com ("Website"). 
 
 
 
-Questions regarding this statement should be directed to BellaOnline.com by sending an email to [info@bellaonline.com](mailto:info@bellaonline.com) and writing "Privacy Policy" in the subject line.
+Questions regarding this statement should be directed to BellaOnline.com by sending an email to [webmaster@bellaonline.com](mailto:webmaster@bellaonline.com) and writing "Privacy Policy" in the subject line.
 
-This Privacy Policy is incorporated into and subject to the terms of our [Terms of Use Agreement](https://web.archive.org/web/20041230124927id_/http%3A//www.bellaonline.com/misc/terms.asp). Pursuant to the Terms of Use, this Privacy Policy is subject to modification at any time. You are responsible to review the Privacy Policy before using the site or providing any information.
+This Privacy Policy is incorporated into and subject to the terms of our [Terms of Use Agreement](https://web.archive.org/web/20050414004340id_/http%3A//www.bellaonline.com/misc/terms.asp). Pursuant to the Terms of Use, this Privacy Policy is subject to modification at any time. You are responsible to review the Privacy Policy before using the site or providing any information.
 
 How We Collect Information 
 
@@ -50,7 +50,9 @@ Except as described below or otherwise indicated, we do not sell your personally
 
 We produce aggregate reports for advertisers. For example, we tell advertisers how many people saw or clicked on an ad and additionally, how many people saw or clicked on ads in different portions of our service. Where available, we may offer additional information about viewer characteristics. _However this does **not** include personally identifiable information about you or your online usage patterns._ Our advertisers allow us to provide our service to you. In return, they need to know how to effectively place their ads to potential customers. 
 
-We use your email contact information to provide you with newsletters to which you subscribe. The newsletter you subscribe to will be the ONLY thing sent to you. You can choose to opt out of these newsletter mailings at any time. A separate account may be created to use our bulletin boards. The email address there will only be used to send you your bulletin board password if it is lost, or to send important updates about bulletin board functionality. 
+We use your email contact information to provide you with newsletters to which you subscribe. The newsletter you subscribe to will be the ONLY thing sent to you. You can choose to opt out of these newsletter mailings at any time. We never use our membership lists to send spam or advertising emails of any kind.
+
+A separate account may be created to use our bulletin boards. The email address there will only be used to send you your bulletin board password if it is lost, or to send important updates about bulletin board functionality. Again, we never use any of our membership lists to send any sort of spam or advertising. They solely send out the information for which the member signed up for.
 
 If you enter our on line sweepstakes, we may share or sell your personally identifiable information with the sponsor of that sweepstakes. We do so with the understanding that that sponsor will only use your information to contact you with further information on their products, and will give you an easy method of opting out of further contacts.
 
