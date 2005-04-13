@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the giftrocket.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210083619id_/http%3A//www.giftrocket.com/cgi-bin/ISStore/main%3FDP%3Dprivacypolicy%26RO%3Djrin1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftrocket.com privacy policy that was archived on 2005-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050413062345id_/http%3A//www.giftrocket.com/cgi-bin/ISStore/main%3FDP%3Dprivacypolicy%26RO%3Djrin1) for the most accurate reproduction.*
 
-# http://www.hitrocket.com/in.php?id=jrin1
+# giftrocket
 
-|   
 ---  
 **Our Privacy Notice**  
 We understand the importance of privacy for our customers. We appreciate your trust all information we collect will be used carefully and sensibly. This notice describes our privacy policy. By visiting this site you are accepting the practices described in this Privacy Notice.   
