@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fisher-price.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205002633id_/http%3A//www.fisher-price.com/us/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fisher-price.com privacy policy that was archived on 2005-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050414074820id_/http%3A//www.fisher-price.com/us/privacy.asp) for the most accurate reproduction.*
 
 # Welcome to Fisher-Price.com!
 
@@ -15,7 +15,7 @@ Fisher-Price, Mattel, and all members of the Mattel family of companies are very
 
 **Online Ordering Information**
 
-The Fisher-Price E-store offers Fisher-Price products available for purchase online. Customers must be over age 18 with a valid credit card.. When you place an order for product online from the Fisher-Price internet store or request a catalog online, we collect information associated with the transaction. This information includes your name, mailing address, products ordered, and credit card information. We ask for this information so that we may fulfill the order or catalog request. We and our agents and affiliates use Secure Sockets Layer (SSL) technology to protect credit card data during transmission, and adopt careful internal procedures to safeguard this information in our systems. 
+The Fisher-Price E-store offers Fisher-Price products available for purchase online. Customers must be over age 18 with a valid credit card. When you place an order for product online from the Fisher-Price internet store or request a catalog online, we collect information associated with the transaction. This information includes your name, mailing address, products ordered, and credit card information. We ask for this information so that we may fulfill the order or catalog request. We and our agents and affiliates use Secure Sockets Layer (SSL) technology to protect credit card data during transmission, and adopt careful internal procedures to safeguard this information in our systems. 
 
 You have the option of registering certain information for future orders while completing your online order. For those who choose to register, we will capture your login name, password, name and mailing address, alternate ship-to addresses, and credit card information. When a registered person returns to the site to place subsequent orders, they can identify themselves with login name and password. 
 
@@ -29,6 +29,8 @@ When you request a catalog or place an order online, we add your name and addres
 > Middleton, WI 53562-0978 
 
 If you have recently moved, or are planning a move in the near future, you should let us know of the change of address and we'll be sure to update our records. For all mailing questions and changes, please call 1-800-747-8697, or send the information to Fisher-Price at the address shown above. 
+
+We occasionally share name and street address information from our print catalog mailing list with carefully selected companies whose offers you may be interested in. However, customers’ telephone number(s), e-mail address(es) or credit card information are never shared. You may instruct us not to use your information at any time by e-mailing us at [fisher-pricestore@fisher-price.com](mailto:fisher-pricestore@fisher-price.com) or call 1-800-747-8697 or send the mailing label from the catalog to: Fisher-Price, Inc., Attn: MOP Dept., P.O. Box 620978, Middleton, WI 53562-0978. 
 
 **Other Information We Collect Online**
 
@@ -46,5 +48,5 @@ You always have the right to request that contact information regarding you or y
 
 We reserve the right to change this policy at any time by posting it on our web site. 
 
-© 2004 Mattel, Inc. All Rights Reserved.  
-Updated May 24, 2002
+© 2005 Mattel, Inc. All Rights Reserved.  
+Updated March 8th, 2005
