@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wlu.ca privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204050745id_/http%3A//www.wlu.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wlu.ca privacy policy that was archived on 2005-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050414080804id_/http%3A//www.wlu.ca/privacy.php) for the most accurate reproduction.*
 
 # Wilfrid Laurier University - University Secretariat - University Policies - 10. Records Management - 10.1 Information Availability and Privacy Protection
 
