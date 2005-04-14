@@ -1,19 +1,19 @@
-<!--The following is the downloaded HTML source of the rockclimbing.com privacy policy that was archived on 2004-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041216090719id_/http%3A//www.rockclimbing.com/site/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rockclimbing.com privacy policy that was archived on 2005-04-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050414075946id_/http%3A//www.rockclimbing.com/site/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
 <!-- RSS feeds for Mozilla and the like -->
-<link rel="alternate" type="application/rss+xml" title="Photos" href="http://www.rockclimbing.com/rss/photos/index.rss">
-<link rel="alternate" type="application/rss+xml" title="Access Alerts" href="http://www.rockclimbing.com/rss/access/index.rss">
-<link rel="alternate" type="application/rss+xml" title="World News" href="http://www.rockclimbing.com/rss/world/index.rss">
-<link rel="alternate" type="application/rss+xml" title="Forum Posts" href="http://www.rockclimbing.com/rss/messages/index.rss">
-<!-- <link rel="alternate" type="application/rss+xml" title="Gear Reviews" href="http://www.rockclimbing.com/rss/gear/index.php" /> -->
-<!-- <link rel="alternate" type="application/rss+xml" title="Feature Articles" href="http://www.rockclimbing.com/rss/articles/index.php" /> -->
+<link rel="alternate" type="application/rdf+xml" title="Photos" href="http://my.rsscache.com/rss.rockclimbing.com/rss/photos/index.rss">
+<link rel="alternate" type="application/rdf+xml" title="Access Alerts" href="http://my.rsscache.com/rss.rockclimbing.com/rss/access/index.rss">
+<link rel="alternate" type="application/rdf+xml" title="World News" href="http://my.rsscache.com/rss.rockclimbing.com/rss/world/index.rss">
+<link rel="alternate" type="application/rdf+xml" title="Forum Posts" href="http://my.rsscache.com/rss.rockclimbing.com/rss/messages/index.rss">
+<!-- <link rel="alternate" type="application/rdf+xml" title="Upcoming Events" href="http://my.rsscache.com/www.rockclimbing.com/rss/events/index.php" /> -->
+<!-- <link rel="alternate" type="application/rdf+xml" title="Gear Reviews" href="http://my.rsscache.com/www.rockclimbing.com/rss/gear/index.php" /> -->
+<!-- <link rel="alternate" type="application/rdf+xml" title="Feature Articles" href="http://my.rsscache.com/www.rockclimbing.com/rss/articles/index.php" /> -->
 <!-- end of RSS feed assortment -->
 
 <!-- drag in assorted JavaScript -->
-<script language="JavaScript" type="text/javascript" src="/js/formtool.js"></script>
 <script language="JavaScript" type="text/javascript" src="/js/submitonce.js"></script>
 <script language="JavaScript" type="text/javascript" src="/js/rollover.js"></script>
 <script language="JavaScript" type="text/javascript" src="/js/toggle.js"></script><style type="text/css">.toggle{display:none;}</style>
@@ -97,20 +97,21 @@
             
 <!-- search widget -->
 <script type="text/javascript" language="JavaScript">
+
 function submitSearchWidget(widget) { 
 
   var search_urls = new Array();
-  search_urls[0] = "/search/";
-  search_urls[1] = "/forums/newsearch.php";
+  search_urls[0] = "/search/index.php?action=search";
+  search_urls[1] = "/forums/newsearch.php?action=search";
   search_urls[2] = "/routes/search.php?show=geodb";
   search_urls[3] = "/routes/search.php?show=areas";
   search_urls[4] = "/routes/search.php?show=routes";
   search_urls[5] = "/articles/?action=search";
-  search_urls[6] = "/events/?action=search";
+  search_urls[6] = "/forums/newsearch.php?mode=2&event=1";
   search_urls[7] = "/photos.php?SortBy=Rank&Direction=DESC&Period=ALL&Status=ANY&Criteria=73d22a3a5ce959c7c64366a63c56203d&TotalResults=0&UsePeriod=0";
   search_urls[8] = "/gear/index.php?c=0";
-  search_urls[9] = "/forums/pmsearch/";
-  search_urls[10] = "/users/list.php";
+  search_urls[9] = "/forums/privmsgs.php?action=search";
+  search_urls[10] = "/users/list.php?action=search";
   widget.action = search_urls[widget.target.value];
 
   var str = widget.q.value;
@@ -139,13 +140,14 @@ function submitSearchWidget(widget) {
 </script>
 
 <!-- search widget form -->
-<form name="search_widget" onsubmit="return submitSearchWidget(this)" action="/site/privacy/index.php" method="POST">
+<form name="search_widget" onsubmit="return submitSearchWidget(this)" action="/forums/newsearch.php" method="POST">
 
-Search 
+<a id="adv_search_link" name="adv_search_link" href="/forums/newsearch.php?mode=2" title="Click here to do an advanced search">Search</a>
   <small>
     <select name="target">
       <option label="forum threads" value="1">forum threads</option>
 <option label="submitted articles" value="5">submitted articles</option>
+<option label="upcoming events" value="6">upcoming events</option>
 <option label="submitted photos" value="7">submitted photos</option>
 <option label="gear reviews" value="8">gear reviews</option>
 
@@ -169,9 +171,20 @@ for
 <tbody><tr>
 <td width="250" valign="top"><a href="/"><img src="/images/logo.gif" width="225" height="91" border="0" alt="Rockclimbing.com Logo"></a></td>
 <td width="500" align="center" valign="middle">
-		  <!-- Banner Ad -->
-    	<a href="http://ads.rockclimbing.com/adclick.php?bannerid=242&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.rockclimbing.com%2Fgear%2F" target="_blank"><img src="http://photos.rockclimbing.com/ads//crowbar-animate.gif" width="468" height="60" alt="" title="" border="0"></a><div id="beacon_242" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://ads.rockclimbing.com/adlog.php?bannerid=242&amp;clientid=147&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=ba42a75f159cd00a18ad3326f7297439" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><br> 
-	    </td>
+	
+	  <!-- Banner Ad -->
+           
+          <iframe src="/ads/adframe.php?what=468x60" width="468" height="60" scrolling="no" framespacing="0" frameborder="no">
+      <script language="JavaScript"
+              src="/ads/adjs.php?what=468x60"></script>
+      <noscript>
+       <a href="/ads/adclick.php"
+         ><img src="/ads/adview.php?what=468x60"></a>
+      </noscript>
+      </iframe>
+        
+    
+</td>
 </tr>
 </tbody></table>
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
@@ -188,7 +201,7 @@ for
 <tbody><tr>
 	<td colspan="2" class="login_cell" align="center">
 
-	<form method="POST" action="/forums/login.php">
+	<form name="login_form" method="POST" action="/forums/login.php">
 		 <input type="hidden" name="redirect" value="/site/privacy/">
 		 <table border="0" bgcolor="#FFFFFF">
 		 <tbody><tr>
@@ -196,9 +209,15 @@ for
 		 <table border="0" cellspacing="2" cellpadding="3">
 		 <tbody><tr bgcolor="#CCCCFF"><td>
 		   <font size="2">
-			 <b>Username:</b><br><input type="text" name="username" size="10"><br>
-			 <b>Password:</b><br><input type="password" name="password" size="10"><br>
-			 <center><input type="submit" name="login" value="Login" size="2"></center>
+			 <b>Username:</b><br>
+       <input type="text" name="username" size="10"><br>
+			 <b>Password:</b><br>
+       <input type="password" name="password" size="10"><br>
+       <input type="checkbox" name="autologin">
+	     <span class="small_text">auto-login</span><br>
+			 <center>
+       <input type="submit" name="login" value="Log in" size="2">
+       </center>
 		   </font>
 		 </td></tr>
 		 </tbody></table>
@@ -270,9 +289,10 @@ for
   <tr>
     <td colspan="2" bgcolor="#FFFFFF">
 
-		
-    	<a href="http://ads.rockclimbing.com/adclick.php?bannerid=255&amp;zoneid=0&amp;source=&amp;dest=http%3A%2F%2Fwww.clarkcolor.com%2Fb036_2_0504" target="_blank"><img src="http://photos.rockclimbing.com/ads//120x600_rock.gif" width="120" height="600" alt="" title="" border="0"></a><div id="beacon_255" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://ads.rockclimbing.com/adlog.php?bannerid=255&amp;clientid=162&amp;zoneid=0&amp;source=&amp;block=0&amp;capping=0&amp;cb=6fe63b73dff2d454af4e7eae53d67fa0" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>
-  
+    	
+  	
+        <iframe src="/ads/google.html" width="120" height="600" scrolling="no" framespacing="0" frameborder="no"></iframe>
+    
     </td>
   </tr>
   
@@ -312,10 +332,10 @@ for
 <div class="medium_text">
 	<form action="/site/privacy/index.php" method="GET">
 	
-	<span style="font-size: x-small;">Viewed 1573 times. Last Updated on Mon Mar 01, 2004 11:11 pm 
+	<span style="font-size: x-small;">Viewed 2850 times. Last Updated on Mon Mar 01, 2004 11:11 pm 
 	
 		
-	 by <a href="/users/list.php?UserID=trevor">trevor</a> 	</span>
+	 by <a href="/users/list.php?UserID=trevor" title="View trevor's public profile">trevor</a> 	</span>
 	
 		
 	
