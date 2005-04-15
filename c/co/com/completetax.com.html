@@ -1,0 +1,868 @@
+<!--The following is the downloaded HTML source of the completetax.com privacy policy that was archived on 2005-04-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050415075331id_/http%3A//www.completetax.com/privacy.asp) for the most accurate reproduction.-->
+
+<html><head><style>
+.itemBorder {z-index: 99; border: 1px solid 1; border-color: #FFFFFF;}
+.itemText {z-index: 99; text-decoration: none; color: #FFFFFF; font: Bold 12px Arial, Helvetica }
+.itemText A {z-index: 99; text-decoration: none; color: #FFFFFF; font: Bold 12px Arial, Helvetica }
+
+.homeBorder { border: 1px solid #FFFFFF; }
+.noBorder { border: 0px solid #FFFFFF; }
+
+.crazyBorder {z-index: 99; border: 2px outset #BAD2E8; }
+.crazyText {z-index: 99; text-decoration: none; color: #FFFFFF; font: Bold 11px Arial, Helvetica }
+.crazyText A {z-index: 99; text-decoration: none; color: #FFFFFF; font: Bold 11px Arial, Helvetica }
+
+.titlebar {color: #FFFFFF; font: Bold 18px Arial, Helvetica, sans-serif; background-color: #6699CC;}
+.title {color: #6699CC;background-color: #FFFFFF; font: Bold 26px Arial, Helvetica;}
+.titlebar2 {color: #FFFFFF; background-color: #6699CC; font: Bold 13px Arial, Helvetica;}
+.startback {background-color: #BAD2E8;}
+.faqsearch {color: #FFFFFF; background-color: #1D5186;text-align:center;}
+.loginbar { color: #000000; background-color: #BAD2E8;text-align:center;}
+.loginbuttoncell { color: #FFFFFF; background-image: url(images/style0/tab_back_trans.gif);background-color: #1D5186; text-decoration: none; line-height: 20px; font: Bold 12px Arial, Helvetica }
+.loginbutton { color: #FFFFFF; text-decoration: none; line-height: 20px; font: Bold 12px Arial, Helvetica }
+.loginbutton A { color: #FFFFFF;}
+.loginbutton A:visited { color: #FFFFFF;}
+.bottomnav3 {font: 12px Arial, Helvetica;}
+.bottomnav3 A {text-decoration: underline;font: 12px Arial, Helvetica; color:#114477;}
+.bottomnav2 {font: 11px Arial, Helvetica;}
+.bottomnav2 A {text-decoration: underline;font: 11px Arial, Helvetica; color:#114477;}
+.bottomnav1 {font: 9px Arial, Helvetica;}
+.bottomnav1 A {text-decoration: underline;font: 9px Arial, Helvetica; color:#114477;}
+.menutable{border-style: solid;  border-width: 1;  border-color: #BAD2E8; text-align: center;}
+.homelist {UL list-style-image: url(http://www.internet-taxprep.com/images/style0/bullet.gif);}
+.squarelist {UL list-style-image: url(http://www.internet-taxprep.com/images/style0/bullet.gif);MARGIN-LEFT: 20px;}
+
+.employeeText {text-decoration: none; color: #FFFFFF; font: Bold 13px Arial, Helvetica }
+.employeeText A {text-decoration: none; color: #FFFFFF; font: Bold 13px Arial, Helvetica }
+
+</style>
+
+  
+    <title>
+      Online federal and state tax preparation.
+    </title>
+    <meta http-equiv="Content-Type" content="text/html; CHARSET=iso-8859-1">
+    <script type="text/javascript" language="JavaScript" src="funs.js">
+</script>
+    <script type="text/javascript" language="JavaScript" src="include/searchfun_root.js">
+</script>
+<script language="JavaScript">
+<!-- // Hide -->
+
+
+// *** CROSS-BROWSER COMPATIBILITY ***
+var isAOL = (navigator.userAgent.toLowerCase().indexOf("aol") != -1);
+//isAOL = true;
+var isDOM = (document.getElementById ? true : false); 
+var isIE4 = ((document.all && !isDOM) ? true : false);
+var isNS4 = (document.layers ? true : false);
+var isDyn = (isDOM || isIE4 || isNS4);
+var isOpera = (navigator.userAgent.toLowerCase().indexOf("opera") != -1);
+var projector_on = new String("True");
+
+function getRef(id)
+{
+ return (isDOM ? document.getElementById(id) :
+  (isIE4 ? document.all[id] : document.layers[id]));
+}
+
+function getSty(id)
+{
+ return (isNS4 ? getRef(id) : getRef(id).style);
+} 
+
+
+// *** MOUSEOVER/OUT CONTROL FUNCTIONS ***
+
+// Hide timeout.
+var popTimer = 0;
+// Arrays holding highlighted menu items.
+var litNow = new Array();
+
+function popOver(menuNum, itemNum)
+{
+ clearTimeout(popTimer);
+
+ // Hide all other menus & dim old highlighted items, still showing this menu.
+ hideAllBut(menuNum);
+
+ // Get tree of parent menu items and light them up - global variable!
+ litNow = getTree(menuNum, itemNum);
+ changeCol(true);
+
+ // Get target menu to show - if it's nonzero, position & show it.
+ targetNum = menu[menuNum][itemNum].target;
+ if (targetNum > 0)
+ {
+  // Get current menu position - menu position plus item position in menu.
+  thisX = parseInt(menu[menuNum][0].ref.left) + parseInt(menu[menuNum][itemNum].ref.left);
+  thisY = parseInt(menu[menuNum][0].ref.top) + parseInt(menu[menuNum][itemNum].ref.top);
+
+  // Add those to the target's offset to set the target's position, show it.
+  with (menu[targetNum][0].ref)
+  {
+   left = thisX + menu[targetNum][0].x;
+   top = thisY + menu[targetNum][0].y;
+   visibility = 'visible';
+  }
+ }
+}
+
+function popOut(menuNum, itemNum)
+{
+ // If it's a root menu item that doesn't trigger a popout, hide now, else set timeout
+ // to hide all menus in 1/2 sec... remember, another mouseover clears the timeout.
+ if ((menuNum == 0) && !menu[menuNum][itemNum].target) hideAllBut(0);
+ else popTimer = setTimeout('hideAllBut(0)', 500);
+}
+
+function popClick(menuNum, itemNum)
+{
+ with (menu[menuNum][itemNum])
+ {
+  switch (type)
+  {
+   // A JavaScript function? Eval() it and break out of switch.
+   case 'js:': { eval(href); break }
+   // Otherwise, point to the window if nothing else and navigate.
+   case '': type = 'window';
+   default: if (href) eval(type + '.location.href = "' + href + '"');
+  }
+ }
+
+ // Whatever happens, hide the menus when clicked.
+ hideAllBut(0);
+}
+
+
+function getTree(menuNum, itemNum)
+{
+ // Array index is the menu number. The contents are null (if that menu is not a parent)
+ // or the item number in that menu that is an ancestor (to light it up).
+ itemArray = new Array(menu.length);
+
+ while(1)
+ {
+  itemArray[menuNum] = itemNum;
+  // If we've reached the top of the hierarchy, return.
+  if (menuNum == 0) break;
+  itemNum = menu[menuNum][0].parentItem;
+  menuNum = menu[menuNum][0].parentMenu;
+ }
+ return itemArray;
+}
+
+// Pass an array and a boolean to specify colour change, true = over colour.
+// N.B: Uses global litNow array which contains items in hierarchy.
+function changeCol(isOver)
+{
+ // Cycle through array searching for items to change.
+ for (count = 0; count < litNow.length; count++)
+ {
+  // If item number is present, change its colour.
+  if (litNow[count])
+  {
+   // Nest two WITH's, the last being more specific to allow item hover colours.
+   with (menu[count][0]) with (menu[count][litNow[count]])
+   {
+    newCol = isOver ? overCol : backCol;
+
+    // Change the colours of the div/layer background.
+    if (isNS4) ref.bgColor = newCol;
+    else ref.backgroundColor = newCol;
+   }
+  }
+ }
+}
+
+function hideAllBut(menuNum)
+{
+ // Get array of parent menus (item numbers irrelevant, just pass '1').
+ var keepMenus = getTree(menuNum, 1);
+
+ // ...and work through it, hiding menus that are not its ancestors/itself.
+ for (count = 0; count < menu.length; count++)
+  if (!keepMenus[count] && menu[count]) menu[count][0].ref.visibility = 'hidden';
+
+ // Dim all the items in litNow array.
+ changeCol(false);
+}
+
+
+// *** MENU ARRAY CONSTRUCTION FUNCTIONS ***
+
+// This is incredibly, incredibly cool. Really. It takes an array of data and names and
+// assigns the values to a specified object - used to slim down the constructors here.
+function addProps(obj, data, names, addNull)
+{
+ for (i = 0; i < names.length; i++)
+  if(i < data.length || addNull) obj[names[i]] = data[i];
+}
+
+// Use above function to add our list of arguments to the menu array.
+function Menu()
+{
+ var names = ['isVert', 'popInd', 'x','y', 'width', 'pad', 'overCol', 'backCol',
+  'borderClass', 'textClass',      'parentMenu', 'parentItem', 'ref'];
+ addProps(this, arguments, names, true);
+}
+
+function Item()
+{
+ var names = ['text', 'href', 'type', 'length', 'spacing', 'target',    'ref'];
+ addProps(this, arguments, names, true);
+}
+
+
+function writeMenus()
+{
+ if (!isDyn) return;
+
+ for (currMenu = 0; currMenu < menu.length; currMenu++)
+ if (menu[currMenu]) with (menu[currMenu][0])
+ {
+
+  var str = '', itemX = 0, itemY = 0;
+
+  if (isNS4) pad++;
+
+  for (currItem = 1; currItem < menu[currMenu].length; currItem++) with (menu[currMenu][currItem])
+  {
+   var itemID = 'menu' + currMenu + 'item' + currItem;
+
+   var shrink = (borderClass && isDOM && !document.all ? 2 : 0)
+   var w = (isVert ? width : length) - shrink;
+   var h = (isVert ? length : width) - shrink;
+
+   if (isDOM || isIE4)
+   {
+    str += '<div id="' + itemID + '" style="position: absolute; left: ' + itemX +
+     '; top: ' + itemY + '; width: ' + w + '; height: ' + h + '; visibility: inherit; ';
+    if (backCol) str += 'background: ' + backCol;
+    str += '" ';
+   }
+   if (isNS4)
+   {
+    str += '<layer z-index=10 id="' + itemID + '" left="' + itemX + '" top="' + itemY + '" width="' + 
+     w + '" height="' + h + '" visibility="inherit" ';
+    if (backCol) str += 'bgcolor="' + backCol + '" ';
+   }
+   if (borderClass) str += 'class="' + borderClass + '" ';
+   
+   str += 'onMouseOver="popOver(' + currMenu + ',' + currItem + ')" onMouseOut="popOut(' +
+     currMenu + ',' + currItem + ')" onClick="popClick(' + currMenu + ',' + currItem + ')">';
+
+
+   if (target > 0)
+   {
+    // Set target's parents to this menu item.
+    menu[target][0].parentMenu = currMenu;
+    menu[target][0].parentItem = currItem;
+
+    if (popInd)
+    {
+     if (isNS4) str += '<layer class="' + textClass + '" left="'+ (w - 15) + '" top="' +
+      pad + '">' + popInd + '</layer>';
+     else str += '<div class="' + textClass + '" style="position: absolute; left: ' + (w - 15) +
+      '; top: ' + pad + '">' + popInd + '</div>';
+    }
+   }
+
+   if (isNS4) str += (borderClass ? '<spacer type="block" width="' + (w - 8) + '" height="' +
+    (h - 8) + '">' : '') +
+    '<layer left="' + pad + '" top="' + pad + '" width="' + (w - (2 * pad)) + '" height="' +
+    (h - (2 * pad)) + '"><a class="' + textClass + '" href="#" ' +
+    'onClick="popClick(' + currMenu + ',' + currItem + '); return false" ' +
+    'onMouseOver="status=\'\'; return true;">' + text + '</a></layer>';
+
+
+   else str += '<div class="' + textClass + '" style="position: absolute; left: ' + pad +
+    '; top: ' + pad + '; width: ' + (w - (2 * pad)) + '; height: ' + (h - (2 * pad)) +
+    '">' + text + '</div>';
+
+
+   str += (isNS4 ? '</layer>' : '</div>');
+
+   if (isVert) itemY += length + spacing - 1;
+   else itemX += length + spacing - 1;
+
+  // End loop through items and with([menu[currMenu][currItem]).
+  }
+  if (document.all)
+  {
+   document.body.insertAdjacentHTML('AfterBegin', '<div id="menu' + currMenu + 'div" ' +
+    'style="position: absolute; width: 3; height: 3; visibility: hidden; z-index: 1000">' +
+     str + '</div>');
+   ref = getSty('menu' + currMenu + 'div');
+  }
+  else if (isDOM)
+  {
+   var newDiv = document.createElement('div');
+   document.body.appendChild(newDiv);
+   newDiv.innerHTML = str;
+   ref = newDiv.style;
+    
+   ref.position = 'absolute';
+   ref.visibility = 'hidden';
+  }
+  else if (isNS4)
+  {
+   ref = new Layer(0);
+   ref.document.write(str);
+   ref.document.close();
+  }
+
+  ref.left = x;
+  ref.top = y;
+  if (!isNS4) ref.cursor = (document.all ? 'hand' : 'pointer');
+  if (!document.all) ref.zIndex = 1000;
+  for (currItem = 1; currItem < menu[currMenu].length; currItem++)
+  {
+   itemName = 'menu' + currMenu + 'item' + currItem;
+   if (isDOM || isIE4) menu[currMenu][currItem].ref = getSty(itemName);
+   if (isNS4)
+   {
+    menu[currMenu][currItem].ref = ref.document[itemName];
+    with (ref.document[itemName])
+    {
+     document.captureEvents(Event.CLICK);
+     document.onclick = new Function('popClick(' + currMenu + ', ' + currItem + ')');
+    }
+   }
+  }
+ }
+ menu[0][0].ref.visibility = 'visible';
+}
+
+var menu = new Array();
+
+var defOver = '#6699CC', defBack = '#1D5186';
+
+var defLen = 22;
+var defLength = defLen;
+var twolineLength = 34;
+var strAMSflag = 0 + "";
+
+menu[0] = new Array();
+if (strAMSflag == "0"){
+  if (is_gecko || is_opera || is_mac){
+  menu[0][0] = new Menu(false, '', 2, 73, 20, 1, defOver, defBack, '', 'itemText');
+  }else{
+  menu[0][0] = new Menu(false, '', 2, 95, 20, 1, defOver, defBack, '', 'itemText');
+  }
+}else{
+  menu[0][0] = new Menu(false, '', 2, 7, 20, 1, defOver, defBack, '', 'itemText');
+}
+
+menu[0][1] = new Item('Home&nbsp;|', 'home.asp', '', 44, 0, 0);
+menu[0][2] = new Item('Prepare Your Return&nbsp;|', 'new_return.asp', '', 138, -12, 1);
+menu[0][3] = new Item('Electronic Filing&nbsp;|', 'efile.asp', '', 112, -14, 2);
+menu[0][4] = new Item('Tax Services&nbsp;|', 'ral.asp', '', 94, -11, 3);
+menu[0][5] = new Item('Tools &amp; Resources&nbsp;|', 'tools.asp', '', 128, -11, 8);
+menu[0][6] = new Item('Help', 'help.asp', '', 35, 0, 4);
+
+
+// Return menu.
+menu[1] = new Array();
+menu[1][0] = new Menu(true, '<IMG SRC="images/right_arrow.gif" ALIGN="middle" WIDTH="7" HEIGHT="10" BORDER="0">', 0, 21, 170, 1, defOver, defBack, 'itemBorder', 'itemText');
+menu[1][1] = new Item('Start a New 2004 Return', 'new_return.asp', '', defLength, 0, 5);
+menu[1][2] = new Item('Continue Your 2004 Return', 'JavaScript:go_taxes02(3)', 'js:', defLength, 0, 0);
+menu[1][3] = new Item('Check the Status of Your<BR>Electronically Filed Return', 'JavaScript:go_taxes02(4)', 'js:', twolineLength, 0, 0);
+menu[1][4] = new Item('Print Prior Year \(2003\) Return', 'print_return.asp', '', defLength, 0, 0);
+
+//E-file Menu
+menu[2] = new Array();
+menu[2][0] = new Menu(true, '<IMG SRC="images/right_arrow.gif" WIDTH="7" HEIGHT="10" BORDER="0">', 0, 21, 135, 1, defOver, defBack, 'itemBorder', 'itemText');
+menu[2][1] = new Item('About IRS E-filing', 'efile.asp', '', defLength, 0, 0);
+menu[2][2] = new Item('E-filing FAQs', 'faqs/elf_faq.asp', '', defLength, 0, 0);
+menu[2][3] = new Item('Check the Status of<BR>Your E-filed Return', 'JavaScript:go_taxes02(4)', 'js:', twolineLength, 15, 0);
+
+var dffr = 1 + "";
+// Tax Services menu.
+menu[3] = new Array();
+menu[3][0] = new Menu(true, '', 0, 21, 175, 1, defOver, defBack, 'itemBorder', 'itemText');
+menu[3][1] = new Item('Quick Refund Status', 'refundsnow.asp', '', defLength, 0, 0);
+menu[3][2] = new Item('How to Get a Quicker Refund', 'ral.asp', '', defLength, 0, 0);
+menu[3][3] = new Item('Paying Taxes by Credit Card', 'ccpay.asp', '', defLength, 0, 0);
+
+if (dffr == "1"){
+menu[3][4] = new Item('Deduct Fee From Refund', 'dffr.asp', '', defLength, 0, 0);
+menu[3][5] = new Item('Tax FAQs', 'faqs/taxes_faq.asp', '', defLength, 0, 0);
+menu[3][6] = new Item('Print Prior Year \(2003\) Return', 'print_return.asp', '', defLength, 0, 0);
+  if (projector_on == "True")
+    menu[3][7] = new Item('&nbsp;Tax Projector', 'tax_projector.asp', '', defLength, 0, 0);
+}else{
+menu[3][4] = new Item('Tax FAQs', 'faqs/taxes_faq.asp', '', defLength, 0, 0);
+menu[3][5] = new Item('Print Prior Year \(2003\) Return', 'print_return.asp', '', defLength, 0, 0);
+  if (projector_on == "True")
+    menu[3][6] = new Item('&nbsp;Tax Projector', 'tax_projector.asp', '', defLength, 0, 0);
+}
+
+
+var livealert = 'Live Support will open here!';
+// Help menu
+menu[4] = new Array();
+menu[4][0] = new Menu(true, '<IMG SRC="images/right_arrow.gif" WIDTH="7" HEIGHT="10" BORDER="0">', 0, 21, 155, 1, defOver, defBack, 'itemBorder', 'itemText');
+menu[4][1] = new Item('FAQs', 'help.asp', '', defLength, 0, 6);
+menu[4][2] = new Item('Federal Forms Supported', 'fedforms.asp', '', defLength, 0, 0);
+menu[4][3] = new Item('State Forms Supported', 'stateforms.asp', '', defLength, 0, 0);
+menu[4][4] = new Item('State Tax Information', 'stateinfo.asp', '', defLength, 0, 0);
+menu[4][5] = new Item('Contact Us', 'supportrequest.asp', '', defLength, 0, 0);
+if (isAOL)
+  menu[4][6] = new Item('AOL Information', 'JavaScript:openAWindow("aol_information.asp","AOLHELP",650,550,0).focus()', 'js:', defLength, 0, 0);
+
+// New Return popout
+menu[5] = new Array();
+menu[5][0] = new Menu(true, '', 169, 0, 150, 1, defOver, defBack, 'itemBorder', 'itemText');
+menu[5][1] = new Item('First&nbsp;Time&nbsp;User', 'license.asp', '', defLength, 0, 0);
+menu[5][2] = new Item('Returning&nbsp;From&nbsp;Last&nbsp;Year', 'license_proforma.asp', '', defLength, 0, 0);
+
+// FAQ Browse popout
+menu[6] = new Array();
+menu[6][0] = new Menu(true, '', 154, 0, 130, 1, defOver, defBack, 'itemBorder', 'itemText');
+menu[6][1] = new Item('Top 10 FAQs', 'help.asp', '', defLength, 0, 0);
+menu[6][2] = new Item('View All Topics', 'faqs/faq_browse.asp', '', defLength, 0, 0);
+menu[6][3] = new Item('General Information', 'faqs/general_faq.asp', '', defLength, 0, 0);
+menu[6][4] = new Item('Electronic Filing', 'faqs/elf_faq.asp', '', defLength, 0, 0);
+menu[6][5] = new Item('Internet Issues', 'faqs/internet_faq.asp', '', defLength, 0, 0);
+menu[6][6] = new Item('Taxes', 'faqs/taxes_faq.asp', '', defLength, 0, 0);
+menu[6][7] = new Item('Billing', 'faqs/billing_faq.asp', '', defLength, 0, 0);
+menu[6][8] = new Item('Printing', 'faqs/printing_faq.asp', '', defLength, 0, 0);
+menu[6][9] = new Item('E-mail', 'faqs/browse.asp?browsestring=internet_email&category=Internet&searchstring=e-mail', '', defLength, 0, 0);
+
+// Support Request popout
+menu[7] = new Array();
+menu[7][0] = new Menu(true, '<IMG SRC="images/right_arrow.gif" WIDTH="7" HEIGHT="10" BORDER="0">', 154, 0, 130, 1, defOver, defBack, 'itemBorder', 'itemText');
+menu[7][1] = new Item('Submit an Inquiry', 'supportrequest.asp', '', defLength, 0, 0);
+menu[7][2] = new Item('About CCH', 'aboutcch.asp', '', defLength, 0, 0);
+
+//Tools Menu
+menu[8] = new Array();
+menu[8][0] = new Menu(true, '<IMG SRC="images/right_arrow.gif" WIDTH="7" HEIGHT="10" BORDER="0">', 0, 21, 130, 1, defOver, defBack, 'itemBorder', 'itemText');
+menu[8][1] = new Item('Tax Resources', 'tools.asp', '', defLength, 0, 0);
+menu[8][2] = new Item('What\'s New', 'new.asp', '', defLength, 0, 0);
+menu[8][3] = new Item('Calculators', 'calc.asp', '', defLength, 0, 0);
+
+// Tax Guide popout
+menu[9] = new Array();
+menu[9][0] = new Menu(true, '', 129, 0, 175, 1, defOver, defBack, 'itemBorder', 'itemText');
+menu[9][1] = new Item('About Tax Guide', 'tools.asp', '', defLength, 0, 0);
+menu[9][2] = new Item('Tax Guide 2005', 'taxguide/taxGuideTOC.asp', '', defLength, 0, 0);
+menu[9][3] = new Item('Forms, Tables &amp; Worksheets', 'taxguide/tools/taxtools.asp', '', defLength, 0, 0);
+menu[9][4] = new Item('Tax Calendar', 'taxguide/calendar/taxcalendar.asp', '', defLength, 0, 0);
+menu[9][5] = new Item('Tax News', 'taxguide/news/taxnews.asp', '', defLength, 0, 0);
+menu[9][6] = new Item('Tax Glossary', 'taxguide/glossary/glossary.asp', '', defLength, 0, 0);
+
+// Calculators popout
+if (!isNS4 || is_nets7 || !isOpera){
+menu[10] = new Array();
+menu[10][0] = new Menu(true, '', 129, 0, 130, 1, defOver, defBack, 'itemBorder', 'itemText');
+menu[10][1] = new Item('All Calculators', 'tvcalc.asp?tmplt=usertool.htm&cstm=completetax', '', defLength, 0, 0);
+menu[10][2] = new Item('Home Financing', 'tvcalc.asp?tmplt=homesuite.htm&Cstm=completetax', '', defLength, 0, 0);
+menu[10][3] = new Item('Personal Financing', 'tvcalc.asp?tmplt=persfin.htm&Cstm=completetax', '', defLength, 0, 0);
+menu[10][4] = new Item('Investment', 'tvcalc.asp?tmplt=investsuite.htm&Cstm=completetax', '', defLength, 0, 0);
+menu[10][5] = new Item('Retirement', 'tvcalc.asp?tmplt=retsuite.htm&Cstm=completetax', '', defLength, 0, 0);
+menu[10][6] = new Item('Lease', 'tvcalc.asp?tmplt=leasesuite.htm&Cstm=completetax', '', defLength, 0, 0);
+}else{
+menu[10] = new Array();
+menu[10][0] = new Menu(true, '', 129, 0, 130, 1, defOver, defBack, 'itemBorder', 'itemText');
+menu[10][1] = new Item('All Calculators', 'go_tvcalc(1)', 'js:', defLength, 0, 0);
+menu[10][2] = new Item('Home Financing', 'go_tvcalc(2)', 'js:', defLength, 0, 0);
+menu[10][3] = new Item('Personal Financing', 'go_tvcalc(3)', 'js:', defLength, 0, 0);
+menu[10][4] = new Item('Investment', 'go_tvcalc(4)', 'js:', defLength, 0, 0);
+menu[10][5] = new Item('Retirement', 'go_tvcalc(5)', 'js:', defLength, 0, 0);
+menu[10][6] = new Item('Lease', 'go_tvcalc(6)', 'js:', defLength, 0, 0);
+}
+
+
+//window.onload = writeMenus;
+window.onresize = resizeHandler;
+
+
+var popOldWidth = window.innerWidth;
+function resizeHandler()
+{
+ // If no menus have been created, nothing to do here...
+ if (!menu[0][0].ref) return;
+ 
+ if (isNS4 && popOldWidth != window.innerWidth) location.reload()
+
+ //positionMenu();
+}
+
+
+function colItem()
+{
+
+ var names = ['text', 'href', 'type', 'length', 'spacing', 'overCol', 'backCol', 'target', 'ref'];
+ addProps(this, arguments, names, true);
+}
+
+// End Hide -->
+
+</script>
+<script type="text/javascript" language="JavaScript">
+var junkstring
+   // Stylesheet selector
+   if ((navigator.appVersion.indexOf("Mac") != -1)) {
+      if(navigator.appName == "Netscape") {
+         document.write("<LINK REL=stylesheet HREF=\"styles/style-mac-netscape.css\" TYPE=\"text/css\">"); 
+      } else {
+	     document.write("<LINK REL=stylesheet HREF=\"styles/style-mac-ie.css\" TYPE=\"text/css\">");  
+	  }
+   } else {
+      if(navigator.appName == "Netscape") {
+         document.write("<LINK REL=stylesheet HREF=\"styles/style-win-netscape.css\" TYPE=\"text/css\">"); 
+      } else {
+	     document.write("<LINK REL=stylesheet HREF=\"styles/style-win-ie.css\" TYPE=\"text/css\">");  
+	  }
+   }
+
+function check_frames(){
+  if (document.location == top.document.location)
+    window.close();
+}
+
+// -->
+</script><link rel="stylesheet" href="styles/style-win-netscape.css" type="text/css">
+<style type="text/css">
+.li {
+    font-family: Arial, Helvetica, sans-serif;
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 12px;
+    MARGIN-BOTTOM: 5px;
+    PADDING-BOTTOM: 5px;
+    LINE-HEIGHT: 2em;
+}
+</style>
+  </head>
+
+  <body bgcolor="#FFFFFF" onload="writeMenus();" onresize="if (isNS4) nsResizeHandler()" marginheight="0" marginwidth="0" leftmargin="0" topmargin="0">
+<table width="780" cellpadding="0" cellspacing="0" border="0">
+      <tbody><tr>
+        <td height="63" align="left" valign="top">
+          <img src="images/void.gif" width="2" height="1" alt="" border="0"><a href="home.asp"><img src="images/ct_logo2.gif" width="256" height="63" alt="" border="0"></a>
+        </td>
+        <td align="right" valign="bottom">
+          <form name="search" action="JavaScript:dosearch()" method="GET">
+          <table width="260" cellpadding="0" cellspacing="0" border="0">
+            <tbody><tr>
+              <td colspan="3" align="right">
+                <a href="http://www.gainskeeper.com/completetax/main.htm" target="_new"><img name="gainskeeper" src="images/gainskeeper.gif" width="165" height="35" border="0" alt="GainsKeeper Compatible"></a>
+              </td>
+            </tr>
+            <tr>
+              <td align="bottom">
+                <img src="images/faq_search_but.gif" width="68" height="30" alt="FAQ search" align="middle" border="0">
+              </td>
+              <td>
+                <input type="text" size="14" maxlength="30" value="" class="searchinput" name="searchfor">
+              </td>
+              <td align="bottom">
+                <a href="JavaScript:dosearch()"><img src="images/topNav_go_but.gif" alt="go" align="top" border="0" width="57" height="30" name="gobutton" onmouseover="this.src='images/topNav_go_but2.gif'" onmouseout="this.src='images/topNav_go_but.gif'"></a>
+              </td>
+            </tr>
+          </tbody></table>
+          </form>
+        </td>
+      </tr>
+</tbody></table>
+<table width="780" cellpadding="0" cellspacing="0" border="0">
+  <tbody><tr>
+    <td width="780" valign="top" colspan="3">
+      <img src="images/tab_back.gif" width="780" height="32" alt="" border="0">
+    </td>
+  </tr> 
+  <tr>
+    <td width="10">
+       <img src="images/void.gif" height="1" width="10" border="0" alt="">
+    </td>
+    <td valign="top" width="580">
+    <!-- BEGIN CONTENT -->
+      <table width="520" cellpadding="0" cellspacing="0" border="0">
+        <tbody><tr>
+          <td colspan="2" align="left" valign="top" class="titlebar" height="24">
+           <span class="titlebar" style="font-size: 15px;">&nbsp;2005 CCH TAX AND ACCOUNTING - COMPLETETAX PRIVACY POLICY</span>
+          </td>
+        </tr>
+        <tr>
+          <td height="10">
+            &nbsp;
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            <span class="title3">Our Commitment to Privacy</span> 
+            <br>
+            <p>We are committed to keeping your information private and recognize the importance all customers place on the privacy and confidentiality of their information. While new technologies allow us to more efficiently serve our clients, we are committed to maintaining the rigorous privacy standards that are synonymous with our established and trusted name.</p>
+            <p>By participating in the Council of Better Business Bureau's BBBOnLine® Privacy Program we have made a commitment to meet the program's strict requirements regarding how we treat your information and have it verified by BBBOnLine®. Further information about this program is available at <a href="http://www.bbbonline.org" target="_new">http://www.bbbonline.org</a>.</p>
+            <p>In keeping with our privacy policy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available throughout our web site as well as on our tax screens within the tax program.</p>
+            <p>&nbsp;</p>
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            <span class="title3">Covered Web Sites</span> 
+            <br>
+            <p>The privacy policy described herein is applicable to this entire web site, including all areas where financial information is gathered and income tax data is input, printed and/or transmitted. It does not apply to any other online services, or to any other web sites published and/or maintained by us.</p>
+            <p>This privacy notice covers all the online information practices of www.completetax.com.  Other sites maintained by CCH Tax and Accounting, such as tax.cchgroup.com and tax.cchgroup.com/pfx/products/CompleteTaxPro/ operate under their own privacy and security policies.</p>
+            <p>Third party web sites such as www.tvalue.com, www.cj.com, www.refundsnow.com and www.officialpayments.com operate under their own privacy and security policies.</p>
+            <p>&nbsp;</p>
+          </td>
+        </tr>
+         <tr valign="top">
+          <td>
+            <span class="title3">Our Commitment to Data Security </span> 
+            <br>
+            <p>To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.</p>
+            <p>&nbsp;</p>
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            <span class="title3">Internal Controls</span> 
+            <br>
+            <p>When collecting, storing and retrieving your personal data, extensive internal controls are maintained throughout the process to ensure security and confidentiality.</p>
+            <p>Our Internet-based systems are protected behind firewalls, and all mission critical servers are deployed in a cluster environment to provide an even greater level of security and protection against system failure. All data is maintained and backed-up on a regular schedule to provide adequate redundancy and ensure that the integrity of information is never jeopardized.</p> 
+            <p>Our employees are subject to strict guidelines regarding confidentiality, and internal access to customer data is restricted to highly trained personnel on an "as-needed" basis. Information you provide to us is used strictly for lawful purposes and is never shared with federal, state or other taxing authorities without your consent, except as required by law.</p>
+            <p>&nbsp;</p>
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            <span class="title3">Transmitting Information</span> 
+            <br>
+            <p>When transmitting information between you and our server, as well as when communicating with the Internal Revenue Service (IRS) for electronic filing, data security is handled through a protocol called Secure Sockets Layer (SSL). SSL is an established and mature Internet security standard with two dominant features: web server authentication and data encryption.</p>
+           <ul>
+            <li>
+              <span class="title3">Data Encryption</span> 
+              <br>
+              <p>Data encryption is the process of transforming legible information into a complex arrangement of illegible information.  SSL uses a private/public key combination to encrypt data when it is sent and to decrypt data when it is received. SSL encrypts data using a mathematical formula, also referred to as a "key."</p> 
+              <p>Encryption strength is measured by the length of the key used to encrypt the data; the longer the key, the more effective the encryption. Using the SSL protocol, data transmission between you and our web server is performed at a standard level of encryption strength.</p> 
+            </li>
+            <li>
+              <span class="title3">Web Server Authentication</span> 
+              <br>
+              <p>An SSL certificate is issued to ensure authentic and accurate identification of a secured web server. This translates into a digital ID, an electronic fingerprint, which is included in the key used to encrypt the data. Only our web server, in this case, is able to decrypt the data that you transmit because it is the intended (and digitally certified) secured web server for this data transmission.</p>
+            </li>
+           </ul><br>
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            <span class="title3">The Information We Collect</span> <br>
+            <p>This notice applies to all information collected or submitted on our web site. In addition to tax return information, we collect the following credit card and personal information:
+            </p><ul>
+              Cardholder's Name<br>
+              Credit Card Type<br>
+              Credit Card Number<br>
+              Expiration Date<br>
+              Cardholder's Billing Address<br>
+              Daytime Phone Number<br>
+              E-mail Address<br>
+              Employer's or Relative's Phone Number<br>
+            </ul>
+            <p>The credit card information is used to process your transaction.  This information is not made available to anyone else.  If you choose to apply for a refund anticipation loan, (Quick Refund) we will request your Employer's or Relative's Phone Number and pass that information to our Quick Refund partner for processing of the loan.</p>
+            <p>We also collect the following information for use in answering your inquiries for support when you submit an email requesting our assistance:
+            </p><ul>
+              Your name<br>
+              User ID<br>
+              E-mail Address<br>
+              Operating System<br>
+              Browser Type<br>
+              Connection type/speed<br>
+            </ul>
+            <p>None of the information from our "Tell a Friend" page is saved.</p>
+            <p>&nbsp;</p>
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            <span class="title3">The Way We Use Information </span> 
+            <br>
+            <p>As previously stated, the tax return information that we collect is used strictly for lawful purposes and is never shared with federal, state or other taxing authorities without your consent, except as required by law.  If you choose to electronically file your return, we will transmit your tax return to the appropriate federal and state taxing authorities.</p>
+            <p>The IRS requires us to provide the Internet Protocol (IP) address of the computer from which the return originated, as well as the e-mail address of the person who electronically filed the return. This information is sent to the IRS at the time you choose to submit your return to the IRS for electronic filing.</p>
+            <p>In order to electronically file your return, we must share your submitted tax information with the appropriate tax authorities in order to complete your request.  You can control whether or not you wish your tax information shared for this purpose by deciding whether or not to complete the tax returns forms, which are all clearly labeled.</p>
+            <p>The above listed credit card information that we collect will be used strictly for order processing and billing purposes, and will not be shared with any other party. When appropriate, bank account or credit card information is also passed to our bank, for processing purposes, if you choose to use our Quick Refund (ARD), Credit Card Payment of Balance Due or Deduct Fee From Refund options.  You will enter this information during the routine course of a purchase. In the event that our Internet Service staff should need to research and resolve any status or billing issues associated with an order, the information will only be accessed by authorized personnel.</p>
+            <p>Our Basic Service entitles you to notification via e-mail of filing deadlines, estimate reminders, tax law changes, as well as tax planning and financial information that may affect your tax return. In order for us to provide you with the Basic Service, it is required that you provide us with your e-mail address and consent to our limited review of your tax return information with our proprietary software program to determine whether your tax return information would trigger such notifications.</p>
+            <p>In addition to our Basic Service, we may send to you, via your e-mail address, information and promotional messages about other products and services that we think may be of interest to you.</p>
+            <p>Personally identifiable information is only shared as indicated in this document.  Any sharing of such information is subject to the opt-out option as discussed in the paragraph below.</p>
+            <p>&nbsp;</p>
+          </td>
+        </tr> 
+        <tr valign="top">
+          <td>
+            <span class="title3">Consent to Use Information</span> 
+            <br>
+            <p>Your use of this service means that you consent to our limited access and review of your tax return information necessary to provide you with the Basic Service described above.</p>
+            <p>If you wish to opt-out of receiving such information and promotional messages, you may check the box relating to promotional messages located in the User Agreement.  The User Agreement is displayed when you start a new return.  You can update this option at any time from the User Agreement link, which can be accessed on each page where income tax data is entered.  To opt-in or opt-out, click on the User Agreement on any page inside the program, and then go to Section 10, Information Disclosure.  There you can click on the check box that states, "Check this box if you do not want to receive our promotional information as indicated above."</p>
+            <p>Declining to receive e-mail promotional messages will not affect our ability to deliver our Basic Service to you.</p>
+            <p>&nbsp;</p>
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            <span class="title3">Third Party Services </span> 
+            <br>
+            <p>For the purpose of providing you with additional information or services, our web site may also provide links or references to our other web sites or to third party web sites of online information providers, advertisers, and other business partners. When offering partner services the partner who will be receiving your information will be clearly identified.</p>
+            <p>We are not responsible for information gathered by third party web sites. You should review any third party site's privacy policy for details regarding their policies concerning information they gather. Any time you are preparing to navigate to a site that is not covered by this privacy notice, we will indicate at the bottom of the page that you are leaving our site.</p>
+            
+            <p>Through our partnership with Refunds Now®, you may apply for a Quick Refund (ARD).  When you apply for a refund anticipation loan, you authorize us to disclose your relevant personal and tax return information to Refunds Now.  Your indication within the program that you wish to apply for a Quick Refund serves as your authorization.  Information is only sent to Refunds Now after your return has been e-filed. When you select the option within our program for a Quick Refund, once your return has qualified for electronic filing we share your name, address, social security number, phone number and other tax related information necessary for Republic Bank to provide the requested service.  Republic Bank uses the personally identifiable information for the purpose of providing your Quick Refund. You may visit the site at <a href="https://www.refundsnow.com/privacy_policy.asp" target="_new">www.refundsnow.com</a> to view their privacy policy.</p>
+            
+            <p>Through our partnership with Official Payments Corporation<span style="vertical-align:text-top;font-size:11px;">®</span>, you may request to pay your balance due via credit or debit card.  When you make this request, you authorize us to disclose your relevant credit card and tax return information to Official Payments Corporation.  When you select the option within our program to pay your balance due via credit or debit card, and your return has qualified for electronic filing, we then share your name, address, social security number, phone number and other tax related information necessary for Official Payments Corporation to provide the requested service.  In addition, you will be asked to disclose your card information to Official Payments.  Official Payments uses the personally identifiable information for the purpose of providing the payment of your tax via credit or debit card as requested.  You may visit the site at <a href="http://www.officialpayments.com/cch.jsp" target="_new">www.officialpayments.com</a> to view their privacy policy.</p>
+            <p>Information entered into the Tax Calculators (through Time Value Software) is used solely to provide you with estimates of various tax situations.  The information used in these calculations is not saved.  You may visit the site at <a href="http://www.tvalue.com" target="_new">www.tvalue.com</a>.</p>
+            <p>Through our partnership with Tax9er, you may request to file an extension form electronically.  Tax9er uses personally identifiable information for the purpose of electronically filing your extension as requested. In addition, you will be asked to disclose your credit card information to Tax9er to pay for their service. You may visit the site at <a href="http://www.tax9er.com/amigo/affiliates/3106" target="_new">www.tax9er.com</a> to view their privacy policy by clicking their "About Tax9er" link.</p>
+            <p>&nbsp;</p>
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            <span class="title3">Co-Branded Sites</span> 
+            <br>
+            <p>In certain instances we license our content, technology, software applications, hosting services and support services to partners under a co-brand arrangement. Our co-branded sites will display both the CompleteTax logo and our partner's identification. We provide these co-branded licensees full information regarding our privacy policy and require that the licensee abide by this policy as a part of our contractual terms.</p>
+            <p>Your name and e-mail address will be available to our co-brand partner so that they may send information and promotional messages about other products and services that may be of interest to you.</p> 
+            <p>If you wish to opt-out of receiving such information and promotional messages, you may check the box relating to promotional messages located in the User Agreement.  The User Agreement is displayed when you start a new return.  You can update this option at any time from the User Agreement link, which can be accessed on each page where income tax data is entered. Even if you initially chose to receive promotional messages you may opt out by re-entering your return and clicking on the User Agreement at the bottom of any screen.  Simply check the box in section 10 of the User Agreement.  If you choose to opt-out, your name and e-mail address will not be made available to our co-brand partner.  Declining to receive e-mail promotional messages will not affect our ability to deliver our Basic Service to you.</p>
+            <p>&nbsp;</p>
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            <span class="title3">Retrieving Your Information</span> 
+            <br>
+            <p>Our Internet tax service is available for beginning, completing and e-filing your return from approximately mid-January through mid-October of each tax year.  To view your return information, you may use your User ID and Password to access a free summary report and/or pay a fee to print, view, and electronically file your actual return. Once you have paid, you may continue to access or modify your tax return as often as needed during this time.</p>
+            <p>From mid-October through mid-December you can still complete and mail your return to the appropriate filing authorities if you began it prior to mid-October.  Simply click on the "Continue Your 2004 Return" selection on the "Prepare Your Return" menu.</p>
+            <p>After paying for your return, the financial information used to make your payment (e.g. credit card number), as well as the record of your payment, will not be retrievable by you.</p>
+            <p>&nbsp;</p>
+          </td>
+        </tr>
+        <tr valign="top">
+          <td>
+            <span class="title3">How to Contact Us</span> 
+            <br>
+            <p>Should you have other questions or concerns about this privacy policy, please submit your questions using our <a href="supportrequest.asp">Customer Support</a> link or one of the methods below.</p>
+            <p>CCH Tax and Accounting<br>
+               Online Tax Group - MS 28<br>
+               21250 Hawthorne Boulevard<br>
+               Torrance, CA 90503<br>
+               Email: <a href="mailto:info@completetax.com">info@completetax.com</a><br>
+            </p><br>
+          </td>
+        </tr>
+        <tr>
+          <td height="30" colspan="2" align="middle">
+            <form id="form1" name="form1">
+              <input class="button" type="button" onclick="history.back()" value=" Back " id="button1" name="button1">
+            </form>
+          </td>
+        </tr> 
+      </tbody></table>
+    <!-- END CONTENT -->
+    </td>
+    <td width="160" valign="top">
+          <!-- Begin right bar-->
+            <script>
+             if (is_ie)
+               document.write("<table WIDTH='190' CELLPADDING='0' CELLSPACING='0' BORDER='0'>");
+             else
+               document.write("<table WIDTH='170' CELLPADDING='0' CELLSPACING='3' BORDER='0'>");
+            </script><table width="170" cellpadding="0" cellspacing="3" border="0">
+              <tbody><tr>
+                <td align="center" class="titlebar2" valign="center" height="50">
+                  <span class="titlebar2">CompleteTax<br>Technical Support</span>
+                </td>
+              </tr>
+              <tr>
+                <td>
+            <script>
+             if (is_ie)
+              document.write("<ul CLASS='squarelist' STYLE='LIST-STYLE-IMAGE: url(images/style0/bullet.gif);MARGIN-LEFT:20px;'><BR>");
+             else
+              document.write("<ul CLASS='squarelist' STYLE='LIST-STYLE-IMAGE: url(images/style0/bullet.gif);'><BR>");
+            </script><ul class="squarelist" style="LIST-STYLE-IMAGE: url(images/style0/bullet.gif);"><br>            
+                    <li>Check out our Frequently Asked Questions (FAQs) to find the answers to all your CompleteTax questions.  FAQs are accessible from the <b><i>FAQ Search</i></b> field above, the question categories in the <b><i>Help</i></b> menu, or in the <b><i>Resource Center</i></b> section of the tax program.<br><br>
+                    </li><li>If you need immediate assistance, access our <b>Live Chat</b> directly from inside the CompleteTax program.  You’ll be connected directly to our support professionals, and a small fee will apply.  <br><br>
+                    </li><li>E-mail support is also available via our <b>Submit a Question</b> page.  Just choose Contact Us from the <i>Help</i> menu.<br><br>
+                    </li><li>A useful <a href="taxguide/taxguideTOC.asp" style="color: blue; font: 12px Arial, Helvetica, sans-serif; text-decoration: underline;">Tax Guide</a> provides tax tips and straightforward answers to your tax questions. <br><br>
+                  </li></ul>
+                </td>
+              </tr>
+            </tbody></table>
+          <!--End right bar -->
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="images/void.gif" height="1" width="10" border="0" alt="">
+    </td>
+    <td colspan="2" width="770" height="1" valign="top"><br><img src="images/blackpixel.gif" width="760" height="1" alt="" border="0"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><br><br>
+<!-- BEGIN FOOTER -->
+<table width="770" cellpadding="0" cellspacing="0" border="0">
+  <tbody><tr>
+    <td align="center">
+      <span class="bottomnav3" style="font: 12px Arial, Helvetica;"><a name="bottomhome" href="home.asp" style="text-decoration: underline;font: 12px Arial, Helvetica; color:#114477;">Home</a> | <a href="new_return.asp" style="text-decoration: underline;font: 12px Arial, Helvetica; color:#114477;">Prepare Your Return</a> | <a href="JavaScript:go_taxes02(4)" style="text-decoration: underline;font: 12px Arial, Helvetica; color:#114477;">E-file Status</a> | <a href="efile.asp" style="text-decoration: underline;font: 12px Arial, Helvetica; color:#114477;">Electronic Filing</a> | <a href="help.asp" style="text-decoration: underline;font: 12px Arial, Helvetica; color:#114477;">Help</a> | <a href="TaxTips.asp" style="text-decoration: underline;font: 12px Arial, Helvetica; color:#114477;">Tax Tips Newsletter</a> | <a href="CT_system_requirements.asp" style="text-decoration: underline;font: 12px Arial, Helvetica; color:#114477;">System Requirements</a> | <a href="privacy.asp" style="text-decoration: underline;font: 12px Arial, Helvetica; color:#114477;">Privacy Policy</a></span>
+      <br>
+    </td>
+  </tr>
+
+    <tr>
+      <td align="center">
+        <span class="bottomnav2"><a href="aboutcch.asp" style="text-decoration: underline;font: 12px Arial, Helvetica; color:#114477;">About CCH</a> | <a href="supportrequest.asp" style="text-decoration: underline;font: 12px Arial, Helvetica; color:#114477;">Contact Us</a> | <a href="friend.asp" style="text-decoration: underline;font: 12px Arial, Helvetica; color:#114477;">Tell a Friend</a> | <a href="affiliate.asp" style="text-decoration: underline;font: 12px Arial, Helvetica; color:#114477;">Partner/Affiliate Opportunities</a> | <a href="sitemap.asp" style="text-decoration: underline;font: 12px Arial, Helvetica; color:#114477;">Site Map</a></span><br>
+      </td>
+    </tr>
+
+  <tr>
+    <td align="center">
+      <span class="bottomnav1" style="font: 10px Arial, Helvetica;"><a href="copyright.asp" style="text-decoration: underline;font: 10px Arial, Helvetica; color:#114477;">© Copyright 2005, CCH Tax and Accounting. All Rights Reserved.</a><br>A WoltersKluwer Company</span>
+      <br><br>
+    </td>
+  </tr>
+
+
+  <tr>
+    <td align="center">
+      <a href="javascript:Pcertify();"><img src="images/BBOSealpri.gif" alt="BBBOnLine Privacy Seal" width="50" height="77" border="0"></a>
+      <img src="images/void.gif" width="20" height="1" border="0" alt="">
+      <a href="javascript:popUp('https://digitalid.verisign.com/as2/c9cbab465ca72b40789c54532377594b')"><img src="images/seal_secureSite.gif" width="59" height="66" border="0" alt="Verisign Secure Site"></a>
+    </td>
+  </tr>
+
+</tbody></table>
+<!-- END FOOTER -->
+    </td>
+  </tr>
+</tbody></table>
+
+<!-- ClickTrax web tools statistics hit counter code -->
+<script language="javascript">
+var data,nhp,ntz,rf,sr;nhp='http';
+rf=document.referrer;sr=document.location.search;
+if(top.document.location==document.referrer
+|| (document.referrer == '' && top.document.location != ''))
+{rf=top.document.referrer;sr=top.document.location.search}
+ntz=new Date();if((location.href.substr(0,6)=='https:') || 
+(location.href.substr(0,6)=='HTTPS:'))nhp='https'; 
+data='&an='+escape(navigator.appName)+ '&ck='+document.cookie.length+
+'&rf='+escape(rf)+ '&sl='+escape(navigator.systemLanguage)+
+'&av='+escape(navigator.appVersion)+ '&l='+escape(navigator.language)+
+'&pf='+escape(navigator.platform)+ '&pg='+escape(location.pathname);
+if(navigator.appVersion.substring(0,1)>'3') {data=data+'&cd='+
+screen.colorDepth+'&rs='+escape(screen.width+ ' x '+screen.height)+
+'&tz='+ntz.getTimezoneOffset()+'&je='+ navigator.javaEnabled()};
+document.write('<img border=0 hspace=0 '+
+ 'vspace=0 width=1 height=1 src="'+nhp+'://loc1.hitsprocessor.com/'+
+ 'statistics.asp?v=1&s=24&pl=1&acct=completetax'+data+'">');</script><img border="0" hspace="0" vspace="0" width="1" height="1" src="https://loc1.hitsprocessor.com/statistics.asp?v=1&amp;s=24&amp;pl=1&amp;acct=completetax&amp;an=Netscape&amp;ck=101&amp;rf=&amp;sl=undefined&amp;av=5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20HeadlessChrome/69.0.3494.0%20Safari/537.36&amp;l=en-US&amp;pf=Linux%20x86_64&amp;pg=/web/20050415075331id_/http%253A//www.completetax.com/privacy.asp&amp;cd=24&amp;rs=800%20x%20600&amp;tz=0&amp;je=false">
+<script language="javascript1.2">document.write('<');
+document.write('!--  ');</script><!--  <noscript>
+<img border=0 hspace=0 vspace=0 width=1 height=1 
+src="http://loc1.hitsprocessor.com/stats-ns.asp?acct=completetax&v=1&pl=1&s=
+24">
+</noscript><!--//-->
+<!-- End ClickTrax statistics web tools hit counter code -->
+
+
+
+<div style="position: absolute; visibility: visible; left: 2px; top: 73px; cursor: pointer; z-index: 1000;"><div id="menu0item1" style="position: absolute; left: 0; top: 0; width: 44; height: 20; visibility: inherit; background: #1D5186" onmouseover="popOver(0,1)" onmouseout="popOut(0,1)" onclick="popClick(0,1)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 42; height: 18">Home&nbsp;|</div></div><div id="menu0item2" style="position: absolute; left: 43; top: 0; width: 138; height: 20; visibility: inherit; background: #1D5186" onmouseover="popOver(0,2)" onmouseout="popOut(0,2)" onclick="popClick(0,2)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 136; height: 18">Prepare Your Return&nbsp;|</div></div><div id="menu0item3" style="position: absolute; left: 168; top: 0; width: 112; height: 20; visibility: inherit; background: #1D5186" onmouseover="popOver(0,3)" onmouseout="popOut(0,3)" onclick="popClick(0,3)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 110; height: 18">Electronic Filing&nbsp;|</div></div><div id="menu0item4" style="position: absolute; left: 265; top: 0; width: 94; height: 20; visibility: inherit; background: #1D5186" onmouseover="popOver(0,4)" onmouseout="popOut(0,4)" onclick="popClick(0,4)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 92; height: 18">Tax Services&nbsp;|</div></div><div id="menu0item5" style="position: absolute; left: 347; top: 0; width: 128; height: 20; visibility: inherit; background: #1D5186" onmouseover="popOver(0,5)" onmouseout="popOut(0,5)" onclick="popClick(0,5)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 126; height: 18">Tools &amp; Resources&nbsp;|</div></div><div id="menu0item6" style="position: absolute; left: 463; top: 0; width: 35; height: 20; visibility: inherit; background: #1D5186" onmouseover="popOver(0,6)" onmouseout="popOut(0,6)" onclick="popClick(0,6)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 33; height: 18">Help</div></div></div><div style="position: absolute; visibility: hidden; left: 0px; top: 21px; cursor: pointer; z-index: 1000;"><div id="menu1item1" style="position: absolute; left: 0; top: 0; width: 168; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(1,1)" onmouseout="popOut(1,1)" onclick="popClick(1,1)"><div class="itemText" style="position: absolute; left: 153; top: 1"><img src="images/right_arrow.gif" align="middle" width="7" height="10" border="0"></div><div class="itemText" style="position: absolute; left: 1; top: 1; width: 166; height: 18">Start a New 2004 Return</div></div><div id="menu1item2" style="position: absolute; left: 0; top: 21; width: 168; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(1,2)" onmouseout="popOut(1,2)" onclick="popClick(1,2)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 166; height: 18">Continue Your 2004 Return</div></div><div id="menu1item3" style="position: absolute; left: 0; top: 42; width: 168; height: 32; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(1,3)" onmouseout="popOut(1,3)" onclick="popClick(1,3)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 166; height: 30">Check the Status of Your<br>Electronically Filed Return</div></div><div id="menu1item4" style="position: absolute; left: 0; top: 75; width: 168; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(1,4)" onmouseout="popOut(1,4)" onclick="popClick(1,4)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 166; height: 18">Print Prior Year (2003) Return</div></div></div><div style="position: absolute; visibility: hidden; left: 0px; top: 21px; cursor: pointer; z-index: 1000;"><div id="menu2item1" style="position: absolute; left: 0; top: 0; width: 133; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(2,1)" onmouseout="popOut(2,1)" onclick="popClick(2,1)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 131; height: 18">About IRS E-filing</div></div><div id="menu2item2" style="position: absolute; left: 0; top: 21; width: 133; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(2,2)" onmouseout="popOut(2,2)" onclick="popClick(2,2)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 131; height: 18">E-filing FAQs</div></div><div id="menu2item3" style="position: absolute; left: 0; top: 42; width: 133; height: 32; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(2,3)" onmouseout="popOut(2,3)" onclick="popClick(2,3)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 131; height: 30">Check the Status of<br>Your E-filed Return</div></div></div><div style="position: absolute; visibility: hidden; left: 0px; top: 21px; cursor: pointer; z-index: 1000;"><div id="menu3item1" style="position: absolute; left: 0; top: 0; width: 173; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(3,1)" onmouseout="popOut(3,1)" onclick="popClick(3,1)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 171; height: 18">Quick Refund Status</div></div><div id="menu3item2" style="position: absolute; left: 0; top: 21; width: 173; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(3,2)" onmouseout="popOut(3,2)" onclick="popClick(3,2)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 171; height: 18">How to Get a Quicker Refund</div></div><div id="menu3item3" style="position: absolute; left: 0; top: 42; width: 173; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(3,3)" onmouseout="popOut(3,3)" onclick="popClick(3,3)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 171; height: 18">Paying Taxes by Credit Card</div></div><div id="menu3item4" style="position: absolute; left: 0; top: 63; width: 173; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(3,4)" onmouseout="popOut(3,4)" onclick="popClick(3,4)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 171; height: 18">Deduct Fee From Refund</div></div><div id="menu3item5" style="position: absolute; left: 0; top: 84; width: 173; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(3,5)" onmouseout="popOut(3,5)" onclick="popClick(3,5)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 171; height: 18">Tax FAQs</div></div><div id="menu3item6" style="position: absolute; left: 0; top: 105; width: 173; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(3,6)" onmouseout="popOut(3,6)" onclick="popClick(3,6)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 171; height: 18">Print Prior Year (2003) Return</div></div><div id="menu3item7" style="position: absolute; left: 0; top: 126; width: 173; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(3,7)" onmouseout="popOut(3,7)" onclick="popClick(3,7)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 171; height: 18">&nbsp;Tax Projector</div></div></div><div style="position: absolute; visibility: hidden; left: 0px; top: 21px; cursor: pointer; z-index: 1000;"><div id="menu4item1" style="position: absolute; left: 0; top: 0; width: 153; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(4,1)" onmouseout="popOut(4,1)" onclick="popClick(4,1)"><div class="itemText" style="position: absolute; left: 138; top: 1"><img src="images/right_arrow.gif" width="7" height="10" border="0"></div><div class="itemText" style="position: absolute; left: 1; top: 1; width: 151; height: 18">FAQs</div></div><div id="menu4item2" style="position: absolute; left: 0; top: 21; width: 153; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(4,2)" onmouseout="popOut(4,2)" onclick="popClick(4,2)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 151; height: 18">Federal Forms Supported</div></div><div id="menu4item3" style="position: absolute; left: 0; top: 42; width: 153; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(4,3)" onmouseout="popOut(4,3)" onclick="popClick(4,3)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 151; height: 18">State Forms Supported</div></div><div id="menu4item4" style="position: absolute; left: 0; top: 63; width: 153; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(4,4)" onmouseout="popOut(4,4)" onclick="popClick(4,4)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 151; height: 18">State Tax Information</div></div><div id="menu4item5" style="position: absolute; left: 0; top: 84; width: 153; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(4,5)" onmouseout="popOut(4,5)" onclick="popClick(4,5)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 151; height: 18">Contact Us</div></div></div><div style="position: absolute; visibility: hidden; left: 169px; top: 0px; cursor: pointer; z-index: 1000;"><div id="menu5item1" style="position: absolute; left: 0; top: 0; width: 148; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(5,1)" onmouseout="popOut(5,1)" onclick="popClick(5,1)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 146; height: 18">First&nbsp;Time&nbsp;User</div></div><div id="menu5item2" style="position: absolute; left: 0; top: 21; width: 148; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(5,2)" onmouseout="popOut(5,2)" onclick="popClick(5,2)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 146; height: 18">Returning&nbsp;From&nbsp;Last&nbsp;Year</div></div></div><div style="position: absolute; visibility: hidden; left: 154px; top: 0px; cursor: pointer; z-index: 1000;"><div id="menu6item1" style="position: absolute; left: 0; top: 0; width: 128; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(6,1)" onmouseout="popOut(6,1)" onclick="popClick(6,1)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 126; height: 18">Top 10 FAQs</div></div><div id="menu6item2" style="position: absolute; left: 0; top: 21; width: 128; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(6,2)" onmouseout="popOut(6,2)" onclick="popClick(6,2)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 126; height: 18">View All Topics</div></div><div id="menu6item3" style="position: absolute; left: 0; top: 42; width: 128; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(6,3)" onmouseout="popOut(6,3)" onclick="popClick(6,3)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 126; height: 18">General Information</div></div><div id="menu6item4" style="position: absolute; left: 0; top: 63; width: 128; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(6,4)" onmouseout="popOut(6,4)" onclick="popClick(6,4)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 126; height: 18">Electronic Filing</div></div><div id="menu6item5" style="position: absolute; left: 0; top: 84; width: 128; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(6,5)" onmouseout="popOut(6,5)" onclick="popClick(6,5)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 126; height: 18">Internet Issues</div></div><div id="menu6item6" style="position: absolute; left: 0; top: 105; width: 128; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(6,6)" onmouseout="popOut(6,6)" onclick="popClick(6,6)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 126; height: 18">Taxes</div></div><div id="menu6item7" style="position: absolute; left: 0; top: 126; width: 128; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(6,7)" onmouseout="popOut(6,7)" onclick="popClick(6,7)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 126; height: 18">Billing</div></div><div id="menu6item8" style="position: absolute; left: 0; top: 147; width: 128; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(6,8)" onmouseout="popOut(6,8)" onclick="popClick(6,8)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 126; height: 18">Printing</div></div><div id="menu6item9" style="position: absolute; left: 0; top: 168; width: 128; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(6,9)" onmouseout="popOut(6,9)" onclick="popClick(6,9)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 126; height: 18">E-mail</div></div></div><div style="position: absolute; visibility: hidden; left: 154px; top: 0px; cursor: pointer; z-index: 1000;"><div id="menu7item1" style="position: absolute; left: 0; top: 0; width: 128; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(7,1)" onmouseout="popOut(7,1)" onclick="popClick(7,1)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 126; height: 18">Submit an Inquiry</div></div><div id="menu7item2" style="position: absolute; left: 0; top: 21; width: 128; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(7,2)" onmouseout="popOut(7,2)" onclick="popClick(7,2)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 126; height: 18">About CCH</div></div></div><div style="position: absolute; visibility: hidden; left: 0px; top: 21px; cursor: pointer; z-index: 1000;"><div id="menu8item1" style="position: absolute; left: 0; top: 0; width: 128; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(8,1)" onmouseout="popOut(8,1)" onclick="popClick(8,1)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 126; height: 18">Tax Resources</div></div><div id="menu8item2" style="position: absolute; left: 0; top: 21; width: 128; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(8,2)" onmouseout="popOut(8,2)" onclick="popClick(8,2)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 126; height: 18">What's New</div></div><div id="menu8item3" style="position: absolute; left: 0; top: 42; width: 128; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(8,3)" onmouseout="popOut(8,3)" onclick="popClick(8,3)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 126; height: 18">Calculators</div></div></div><div style="position: absolute; visibility: hidden; left: 129px; top: 0px; cursor: pointer; z-index: 1000;"><div id="menu9item1" style="position: absolute; left: 0; top: 0; width: 173; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(9,1)" onmouseout="popOut(9,1)" onclick="popClick(9,1)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 171; height: 18">About Tax Guide</div></div><div id="menu9item2" style="position: absolute; left: 0; top: 21; width: 173; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(9,2)" onmouseout="popOut(9,2)" onclick="popClick(9,2)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 171; height: 18">Tax Guide 2005</div></div><div id="menu9item3" style="position: absolute; left: 0; top: 42; width: 173; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(9,3)" onmouseout="popOut(9,3)" onclick="popClick(9,3)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 171; height: 18">Forms, Tables &amp; Worksheets</div></div><div id="menu9item4" style="position: absolute; left: 0; top: 63; width: 173; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(9,4)" onmouseout="popOut(9,4)" onclick="popClick(9,4)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 171; height: 18">Tax Calendar</div></div><div id="menu9item5" style="position: absolute; left: 0; top: 84; width: 173; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(9,5)" onmouseout="popOut(9,5)" onclick="popClick(9,5)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 171; height: 18">Tax News</div></div><div id="menu9item6" style="position: absolute; left: 0; top: 105; width: 173; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(9,6)" onmouseout="popOut(9,6)" onclick="popClick(9,6)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 171; height: 18">Tax Glossary</div></div></div><div style="position: absolute; visibility: hidden; left: 129px; top: 0px; cursor: pointer; z-index: 1000;"><div id="menu10item1" style="position: absolute; left: 0; top: 0; width: 128; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(10,1)" onmouseout="popOut(10,1)" onclick="popClick(10,1)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 126; height: 18">All Calculators</div></div><div id="menu10item2" style="position: absolute; left: 0; top: 21; width: 128; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(10,2)" onmouseout="popOut(10,2)" onclick="popClick(10,2)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 126; height: 18">Home Financing</div></div><div id="menu10item3" style="position: absolute; left: 0; top: 42; width: 128; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(10,3)" onmouseout="popOut(10,3)" onclick="popClick(10,3)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 126; height: 18">Personal Financing</div></div><div id="menu10item4" style="position: absolute; left: 0; top: 63; width: 128; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(10,4)" onmouseout="popOut(10,4)" onclick="popClick(10,4)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 126; height: 18">Investment</div></div><div id="menu10item5" style="position: absolute; left: 0; top: 84; width: 128; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(10,5)" onmouseout="popOut(10,5)" onclick="popClick(10,5)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 126; height: 18">Retirement</div></div><div id="menu10item6" style="position: absolute; left: 0; top: 105; width: 128; height: 20; visibility: inherit; background: #1D5186" class="itemBorder" onmouseover="popOver(10,6)" onmouseout="popOut(10,6)" onclick="popClick(10,6)"><div class="itemText" style="position: absolute; left: 1; top: 1; width: 126; height: 18">Lease</div></div></div></body></html>
