@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the xbox.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619214908id_/http%3A//www.xbox.com/en-us/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xbox.com privacy policy that was archived on 2005-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050415044257id_/http%3A//www.xbox.com/en-us/privacystatement.htm) for the most accurate reproduction.*
 
 # Xbox.com :: privacystatement
 
 _Last updated: August 2003_
 
-[](http://www.truste.org/)
+[](http://www.truste.org/ivalidate.php?url=www.xbox.com)
 
 The Xbox.com Web site is operated by the Microsoft Corporation. The Xbox.com Web site provides information about the Xbox gaming system and also serves as an extension of the Xbox Live subscription service for users of the Xbox console.  But you do not have to be an Xbox Live subscriber to access and use most parts of the Xbox.com Web site.
 
