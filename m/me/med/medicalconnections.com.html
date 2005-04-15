@@ -1,0 +1,133 @@
+<!--The following is the downloaded HTML source of the medicalconnections.com privacy policy that was archived on 2005-04-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050415134452id_/http%3A//www.medicalconnections.com/mc/info/privacypolicy_main.html) for the most accurate reproduction.-->
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"><meta name="author" content="Copyright 2003 Medical Connections Inc., Design www.vizantia.com, Development www.mifors.com"><meta name="keywords" content="Privacy Statement"><meta name="description" content="Privacy Statement"><link rel="stylesheet" href="/style/ie.css" media="screen"><link rel="stylesheet" type="text/css" href="/script/style.css"><link rel="stylesheet" type="text/css" href="/script/main.css"><link href="/script/menu.css" type="text/css" rel="stylesheet"><title>
+   Medical Connections Inc. 
+      - Privacy Statement</title><script language="JavaScript" src="/js/menu.js"></script><script language="javascript" src="/js/select2menu.js"></script><script language="JavaScript">
+
+function OpenW(url){
+ var w;
+ if(url.indexOf('/')) w = window.open('/mc/'+url,"MedicalConnections","height=600,width=800,scrollbars=yes,resizable=yes");
+ else w = window.open(url,"MedicalConnections","height=600,width=800,scrollbars=yes,resizable=yes");
+ w.focus();
+}
+
+function Openw(url){
+ var x=(screen.width/2)-300; var y=(screen.height/2)-300;
+ var w; 
+ if(url.indexOf('/')) w=window.open('/mc/'+url,"MedicalConnections","height=600,width=600,left="+x+",top="+y+",scrollbars=yes,resizable=yes");
+ else w=window.open(url,"MedicalConnections","height=600,width=600,left="+x+",top="+y+",scrollbars=yes,resizable=yes");
+ w.focus();
+}
+
+function hlpwalias(obj) {
+wnd=window.open('/mc/en-hint/atom-atrhint?walias='+obj,null,'height=400,width=500,status=yes,toolbar=no,menubar=no,location=no,resizable=no,scrollbars=yes');
+wnd.focus();
+}
+
+
+function getCookie(Name) {   
+  var search = Name + "="   
+  if (document.cookie.length > 0) { 
+    offset = document.cookie.indexOf(search)       
+    if (offset != -1) { 
+      offset += search.length         
+      end = document.cookie.indexOf(";", offset);
+      if (end == -1) end = document.cookie.length         
+      return unescape(document.cookie.substring(offset, end))      
+   }    
+  }
+  return null;
+}
+
+function setCookie(Name,value) {   
+  var data=escape(value);
+  var search = Name + "="   
+  document.cookie=search+data;
+}
+
+function contact_users(){
+  var users=getCookie('sel_users');
+  if(users==null) {
+     alert('Select People to Contact');
+     return;
+  }
+  window.location.href='/mc/candidate-massmail?state=2&users='+users;
+  return;
+}
+
+function toggle_user(id) {   
+  var res="";
+  var find=false;
+
+  if(getCookie("sel_users")){
+   var users=getCookie("sel_users").split("-");
+   for(i=0;i < users.length; i++){
+    if(users[i]!=id) {
+       if(res!="") res+="-";  
+       res+=users[i];
+       continue;
+    }
+    find=true;
+   }
+  }
+  if(!find){
+    if(res!="") res+="-";  
+    res+=""+id;
+  }
+  setCookie("sel_users",res);  
+}
+
+function show_selections() {   
+
+  if(getCookie("sel_users")){
+   var users=getCookie("sel_users").split("-");
+   for(i=0;i < users.length; i++){
+    name="sel_"+users[i];
+    el=document.getElementById(name);
+    if(el){
+        el.checked=true;
+    }
+   }
+  }
+}
+
+function drop_selections() {   
+  setCookie("sel_users","");
+}
+
+</script></head><body background="" bgcolor="#FFFFFF" text="#666666" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+    <table border="0" cellpadding="0" cellspacing="0" width="780" height="103"><tbody><tr height="80"><td width="435" style="padding: 5px 0 5 38px" valign="top"><img src="/image/logotype.gif" width="259" height="68" border="0"></td><td valign="top"><table border="0" cellpadding="0" cellspacing="0" height="80"><tbody><tr><td class="MemberConnection" width="19"><img src="/image/mntbk.gif" width="19" height="32" border="0" hspace="0"></td><td height="32" class="MemberConnection" valign="bottom"><img src="/image/memberconnection.gif" width="140" height="9" border="0" hspace="9" vspace="4"></td></tr><tr><td>&nbsp;</td><td><table border="0" cellpadding="0" cellspacing="0" width="100%" class="Login" height="46"><form method="POST" action="/mc/access/flogin/noform/1/func/candidate-gohome" enctype="multipart/form-data"></form><tbody><tr><td width="75"><b>username</b></td><td width="80"><input type="text" name="nick" value="" maxlength="20" size="10"></td><td width="50">&nbsp;</td><td rowspan="2" class="num800" align="right" valign="bottom"><table border="0" cellpadding="0" cellspacing="0" width="125"><tbody><tr><td><img src="/image/px.gif" width="1" height="1" border="0"></td><td class="num800text">call us toll free</td></tr><tr bgcolor="003366"><td><img src="/image/800num-con.gif" width="12" height="21" border="0"></td><td class="num800">1.800.681.2056</td></tr></tbody></table></td></tr><tr><td><b>password</b></td><td><input type="password" name="passwd" value="" maxlength="20" size="10"></td><td><input type="image" src="/image/ucgob.gif"></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr><td colspan="2"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr bgcolor="336699"><td colspan="21"><img src="/image/px.gif" width="1" height="3" border="0"></td></tr><tr><td bgcolor="FFFFFF" colspan="3"><img src="/image/px.gif" width="1" height="1" border="0"></td><td bgcolor="336699" colspan="17"><img src="/image/px.gif" width="1" height="1" border="0"></td></tr><tr bgcolor="336699"><td width="153" bgcolor="FFFFFF"><img src="/image/px.gif" height="1" border="0"></td><td width="12" bgcolor="FFFFFF" valign="top"><img src="/image/home1levelmenu-1.gif" width="12" height="21" border="0"></td><td width="35" class="Level1menuBox"><a href="/" onmouseover="hA()">home</a></td><td width="13" valign="top"><img src="/image/home1levelmenu-3.gif" width="13" height="21" border="0"></td><td width="3"><img src="/image/px.gif" width="3" height="21" border="0"></td><td width="60" nowrap="" class="Level1menuBox" id="m1l1c" onmouseover="showMe('1');"><a href="/mc/info/job_search.html" onclick="showMe('1');">job search</a></td><td width="1"><img src="/image/sep1levelmenu.gif" width="1" height="21" border="0"></td><td width="60" nowrap="" class="Level1menuBox" id="m1l2c" onmouseover="showMe('2')"><a href="/mc/info/clients_main.html">employers</a></td><td width="1"><img src="/image/sep1levelmenu.gif" width="1" height="21" border="0"></td><td width="60" nowrap="" class="Level1menuBox" id="m1l3c" onmouseover="showMe('3')"><a href="/mc/info/corporate_main.html">corporate</a></td><td width="1"><img src="/image/sep1levelmenu.gif" width="1" height="21" border="0"></td><td width="60" nowrap="" class="Level1menuBox" id="m1l4c" onmouseover="showMe('4')"><a href="/mc/info/contact_main.html" class="">contact us</a></td><td width="1"><img src="/image/sep1levelmenu.gif" width="1" height="21" border="0"></td><td width="40" nowrap="" class="Level1menuBox" id="m1l5c" onmouseover="showMe('5')"><a href="/mc/info/issue02.html" class="">news</a></td><td width="1"><img src="/image/sep1levelmenu.gif" width="1" height="21" border="0"></td><td width="40" nowrap="" class="Level1menuBox" id="m1l6c" onmouseover="showMe('6')"><a href="/mc/info/events_main.html" class="">events</a></td><td width="1"><img src="/image/sep1levelmenu.gif" width="1" height="21" border="0"></td><td width="40" nowrap="" class="Level1menuBox" id="m1l7c" onmouseover="showMe('7')">resources</td><td width="1"><img src="/image/sep1levelmenu.gif" width="1" height="21" border="0"></td><td nowrap="" class="Level1menuBox" id="m1l8c" onmouseover="showMe('8')"><a href="/mc/info/international_main.html" class="">international</a></td></tr></tbody></table></td></tr><tr><td colspan="2" height="21"><img src="/image/px.gif" width="1" height="22" border="0" hspace="110" name="menu_area"></td></tr></tbody></table><script language="JavaScript">document.write('<div id="m1l1" style="top:'+getOffsetTop(document.menu_area)+'px;">');</script><table border="0" cellpadding="0" cellspacing="0" height="20" class="Level2menuBox" width="482"><tbody><tr><td align="left" style="padding-left:5px;"><a href="/mc/info/job_search.html" class="">pronto connect™</a></td><td nowrap=""><a href="/mc/info/c_qsearch.html" class="">quick search</a></td><td nowrap=""><a href="/mc/info/jobapp_reg.html" class="">job application</a></td><td nowrap=""><a href="/mc/info/coming_to_usa.html" class="">coming to USA</a></td><td nowrap=""><a href="/mc/info/tl_cand_main.html" class="">resources</a></td><td nowrap="">&nbsp;</td></tr></tbody></table><script language="JavaScript">document.write('<div id="m1l2" style="top:'+getOffsetTop(document.menu_area)+'px;">');</script><table border="0" cellpadding="0" cellspacing="0" height="20" class="Level2menuBox" width="409"><tbody><tr><td align="left" style="padding-left:5px;"><a href="/mc/info/clients_main.html" class="">services</a></td><td nowrap=""><a href="/mc/info/clients_pr_c_main.html" class="">pronto connect™</a></td><td nowrap=""><a href="/mc/info/together_we_care.html" class="">together we care™</a></td><td nowrap=""><a href="/mc/info/e_order.html" class="">client order form</a></td></tr></tbody></table><script language="JavaScript">document.write('<div id="m1l3" style="top:'+getOffsetTop(document.menu_area)+'px;">');</script><table border="0" cellpadding="0" cellspacing="0" height="20" class="Level2menuBox" width="286"><tbody><tr><td nowrap="" align="left" style="padding-left:7px;"><a href="/mc/info/corporate_main.html" class="">about us</a></td><td nowrap=""><a href="/mc/info/invest_main.html" class="">investor relations</a></td><td nowrap=""><a href="/mc/info/work4us.html" class="">careers at MC</a></td><td>&nbsp;</td></tr></tbody></table><div id="m1l4"></div><script language="JavaScript">document.write('<div id="m1l5" style="top:'+getOffsetTop(document.menu_area)+'px;">');</script><div id="m1l6"></div><script language="JavaScript">document.write('<div id="m1l7" style="top:'+getOffsetTop(document.menu_area)+'px;">');</script><table border="0" cellpadding="0" cellspacing="0" height="20" class="Level2menuBox" width="290"><tbody><tr><td nowrap="" align="left" style="padding-left:10px;"><a href="/mc/info/tl_cand_main.html" class="">for candidates</a></td><td nowrap=""><a href="/mc/info/res_clients.html" class="">for clients</a></td><td nowrap=""><a href="/mc/info/uc.html" class="">white nights cafè™</a></td></tr></tbody></table><div id="m1l8"></div><table width="780" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><div class="MIFblkpos0">
+            <img src="/res_en/0_image_396_1.jpg" width="780" height="50" border="0"><br>
+        </div></td></tr></tbody></table><table width="780" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="142" bgcolor="E9F1EB"><img src="image/px.gif" width="1" height="1" border="0" alt=""></td><td valign="top" class="l2maintext2"><div class="MIFblkpos0">
+            <h1 align="left">Medicalconnections.us Privacy Statement</h1>
+        </div><div class="MIFblkpos0">
+            <p align="left" class="normal"></p><p>Medical Connections is committed to protecting your privacy. You can visit most pages on our site without giving us any information about yourself. But sometimes we do need information to provide services that you request. This privacy statement explains data collection and use in those situations. This privacy statement only applies to Medicalconnections.us; it does not apply to other online or offline Medical Connections sites. </p>
+<h3>Collection of your Personal Information</h3>
+<p>We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally, this information is requested when you are registering before entering a contest, ordering e-mail newsletters, signing up for an event or training, or when purchasing and/or registering for a Medical Connections produce to service. Personal information collected by Medicalconnections.us often is limited to e-mail address, language, country or location, but may include other information when needed to provide a service you requested. </p>
+<h3>Use of your Personal Information</h3>
+<p>We use your personal information for the following purposes: </p>
+<ul>
+<li>To ensure our site is relevant to your needs. 
+</li><li>To deliver services, such as newsletters, events, training or software that you request. 
+</li><li>To help us create and publish content most relevant to you. 
+</li><li>To alert you to product upgrades, special offers, updated information and other new services from Medical Connections, if you so request. 
+</li><li>To allow you access to limited-entry areas of our site as appropriate. </li></ul>
+<p>We will merge site-visitation data with anonymous demographic information for research purposes, and we may use this information in aggregate to provide more relevant content. In some limited-entry sections of Medicalconnections.us, with your approval, we will combine site-visitation data with your personal information in order to provide you with personalized content. If you decline permission, we will not provide you the personalized service and won't merge your personal information with site-visitation data. </p>
+<p>Medical Connections may disclose your personal information if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Medical Connections or the site; (b) protect and defend the rights or property of Medical Connections, or (c) act in urgent circumstances to protect the personal safety of Medical Connections employees, users of Medical Connections products or services, or members of the public. </p><p></p>
+        </div><div class="MIFblkpos0">
+            <p align="left" class="normal"></p><h3>Control of your Personal Information</h3>
+<p>When you register, or otherwise give us personal information, Medicalconnections.us will not share that information with third parties without your permission, other than for the limited exceptions already listed. It will only be used for the purposes stated above. </p>
+<h3>Security of your Personal Information</h3>
+<p>Medicalconnections.us is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure. For example, we store the personal information you provide in computer servers with limited access that are located in controlled facilities. When we transmit sensitive information (such as a credit card number) over the internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol. </p>
+<h3>Use of Cookies</h3>
+<p>When someone visits the site, a cookie is placed on the customer's machine (if the customer accepts cookies) or is read if the customer has visited the site previously. One use of cookies is to assist in the collection of the site visitation statistics described above. </p>
+<p>We also use cookies to collect information on which newsletter links are clicked by customers. This information is used to ensure we are sending information customers want to read. It is collected in aggregate form and never linked with your personal information. 
+</p><h3>Enforcement of this Privacy Statement</h3>
+<p>If you have questions regarding this statement, you should first contact Medicalconnections.us by e-mail. </p>
+<h3>Changes to this Statement</h3>
+<p>Medicalconnections.us will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this statement, Medicalconnections.us will notify you by placing prominent notice on the Web site. <br></p><p></p>
+        </div></td><td width="171" bgcolor="EFF7FF"><img src="image/px.gif" width="1" height="1" border="0" alt=""></td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" width="780"><tbody><tr><td><img src="/image/px.gif" width="1" height="36" border="0" alt=""></td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" height="21" width="780"><tbody><tr bgcolor="999999"><td width="48" onmouseover="thisSetBg(this,'666666')" onmouseout="thisSetBg(this,'999999')" class="MainNavigation"><a href="/" class="">home</a></td><td width="1"><img src="/image/sep1levelmenu.gif" width="1" height="21" border="0"></td><td width="95" onmouseover="thisSetBg(this,'666666')" onmouseout="thisSetBg(this,'999999')" class="MainNavigation"><a href="/mc/info/privacypolicy_main.html" class="">privacy policy</a></td><td width="1"><img src="/image/sep1levelmenu.gif" width="1" height="21" border="0"></td><td width="92" onmouseover="thisSetBg(this,'666666')" onmouseout="thisSetBg(this,'999999')" class="MainNavigation"><a href="/mc/info/termsofuse_main.html" class="">terms of use</a></td><td width="1"><img src="/image/sep1levelmenu.gif" width="1" height="21" border="0"></td><td width="73" onmouseover="thisSetBg(this,'666666')" onmouseout="thisSetBg(this,'999999')" class="MainNavigation"><a href="/mc/info/contact_main.html" class="">contact us</a></td><td width="14"><img src="/image/copy-con.gif" width="14" height="21" border="0"></td><td class="MainNavigationCopy" width="425" nowrap="">© Copyright 2003 Medical Connections Inc., All Rights Reserved.</td></tr></tbody></table>
+  
+
+</body></html>
