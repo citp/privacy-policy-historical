@@ -1,9 +1,27 @@
-> *The following text is extracted and transformed from the motherjones.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207030555id_/http%3A//www.motherjones.com/about/admin/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motherjones.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418012352id_/http%3A//www.motherjones.com/about/admin/privacy.html) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
+[](https://secure.ga3.org/03/donate_now)
+
+* * *
+
 | 
 
+| 
+
+[](http://www.motherjones.com/news/feature/2004/11/10_403.html) [Justice DeLayed](http://www.motherjones.com/news/feature/2004/11/10_403.html)  
+**From the Archives**  
+Tom DeLay has spun one of Washington's most powerful fundraising networks. But now a series of state and federal investigations could unravel it all.   
+  
+---  
+  
+\----Advertisements----  
+  
+|   
+  
+\----Advertisements----  
+  
 The following policy is applicable to: 
 
 Foundation For National Progress  
@@ -60,7 +78,3 @@ If you believe our site is not adhering to the privacy policy outlined above, pl
 
   
 
-
-* * *
-
-* * *
