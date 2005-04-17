@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the meetup.com privacy policy that was archived on 2004-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041213085011id_/http%3A//www.meetup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetup.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418012319id_/http%3A//www.meetup.com/privacy) for the most accurate reproduction.*
 
-# Meetup.com › Privacy policy
+# Meetup Privacy Policy Statement - Meetup.com
 
 Protecting your privacy is a serious matter and doing so is very important to us. Please read this privacy policy statement (the "Policy") to learn more about our privacy policy. This Policy describes the information we collect from you and what may happen to that information, and only applies to such information. This Policy applies to all sites under the meetup.com domain.
 
-## Information Collection
+### Information Collection
 
 We collect the following information about you and your use of our Website, platform and service (together, our "Platform") in order to create a better, more personalized experience for you:
 
@@ -19,7 +19,7 @@ For our users convenience, we use "cookies" to allow you to enter your password 
 
 Also, if you post messages in message areas (including the personal introduction section of each topic group) on our website, send us personal correspondence, or if other users or third parties send us correspondence about your activities or postings on our website, we may collect such information and include it in your profile. Your profile is not accessible to other users or third parties other than Meetup personnel.
 
-## Use of Information
+### Use of Information
 
 We use the information we collect about you (including your personally identifiable information) to create a better, more personalized experience for you based on your individual usage habits, improve our marketing and promotional efforts, analyze site usage, improve our content and product offerings, and customize our site's content, layout and Services. These uses improve our site and allow us to better customize it to meet your needs. We also use the information we collect about you to resolve disputes, troubleshoot problems, and enforce our Terms of Service Agreement.
 
@@ -29,7 +29,7 @@ We may use your information to contact you and deliver information to you that, 
 
 We may use for promotional, sales or any use that we consider appropriate your correspondence with us or photographs submitted for publication on our website, be it via email, postings on our website, or feedback via the user polls. We will not link any of this correspondence or photographs to your personally identifiable information.
 
-## Disclosure of Your Information
+### Disclosure of Your Information
 
 Opt-in requirement. WITHOUT YOUR AFFIRMATIVE CONSENT (ON A CASE-BY-CASE BASIS), WE DO NOT SELL, RENT OR OTHERWISE SHARE YOUR PERSONALLY IDENTIFIABLE INFORMATION WITH OTHER THIRD PARTIES, UNLESS OTHERWISE REQUIRED AS DESCRIBED BELOW UNDER "REQUIRED DISCLOSURES". INSTEAD, TO THE EXTENT WE SHARE INFORMATION WITH OUR PARTNERS AND ADVERTISERS, WE SHARE ONLY AGGREGATED INFORMATION THAT IS NOT LINKED TO YOUR PERSONALLY IDENTIFIABLE INFORMATION. Aggregated information that we may share with our marketing partners includes, but is not limited to, information showing the relative popularity of one Meetup venue over another (for example, the number of individuals present at a Meetup).
 
@@ -37,7 +37,7 @@ You should understand that information you provide through the registration proc
 
 Required disclosures. Though we make every effort to preserve user privacy, we may need to disclose your personal information when required by law or if we have a good-faith belief that such action is necessary to (a) comply with a current judicial proceeding, a court order or legal process served on our website, (b) enforce this Policy or the Terms of Service Agreement, (c) respond to claims that your Personal Information violates the rights of third parties; or (d) protect the rights, property or personal safety of Meetup, its users and the public. You authorize us to disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us or you to legal liability.
 
-## Communications from Us
+### Communications from Us
 
 You will occasionally receive the following types of communication from us in the normal course of our providing you our Services:
 
@@ -49,17 +49,17 @@ You will occasionally receive the following types of communication from us in th
 
 The PRIMARY purpose of any communication from us will be announcements or information regarding your Meetup membership, and may also contain paid promotional messages from Meetup advertisers. At no time will the PRIMARY purpose of a Meetup communication be of a paid promotional nature.
 
-## Communications with the Meetup Group Organizer
+### Communications with the Meetup Group Organizer
 
 You may receive communication from your Meetup Group organizer (an "Organizer") in the normal course of utilizing our Platform. By joining a Meetup group, you agree to receive this communication from the Organizer, who will not be provided with your email address by us, but will communicate with you through our Platform. If you are an Organizer, you agree to receive messages from individual members of your Meetup group.
 
-## Reviewing, Updating, Deleting and Deactivating Personal Information
+### Reviewing, Updating, Deleting and Deactivating Personal Information
 
 After registration for our Platform and for specific topic groups, we provide a way to update your personally identifiable information. Upon your request, we will deactivate your account and remove your personally identifiable information from our active databases. To make this request, email [privacy@meetup.com](mailto:privacy@meetup.com). Upon our receipt of your request, we will deactivate your account and remove your personally identifiable information as soon as reasonably possible in accordance with our deactivation policy and applicable law.
 
 Nonetheless, we will retain in our files information you may have requested us to remove if, in our discretion, retention of the information is necessary to resolve disputes, troubleshoot problems or to enforce the Terms of Service Agreement. Furthermore, your information is never completely removed from our databases due to technical and legal constraints (for example, we will not remove your information from our back up storage).
 
-## Notification of Changes
+### Notification of Changes
 
 If we decide to change this Policy, we will post those changes on http://www.meetup.com/privacy or post a notice of the changes to this Policy on the homepage (<http://www.meetup.com/>) and other places we deem appropriate, so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy statement under which the information was collected.
 
@@ -69,11 +69,11 @@ If the change to this Policy would change how your personally identifiable infor
 
 Any other change to this Policy (i.e., if it does not change how we treat your personally identifiable information) will become are effective after we provide you with at least thirty (30) days notice of the changes and provide notice of the changes as described above. You must notify us within this 30 day period if you do not agree to the changes to the Policy and wish to deactivate your account as provided under Section 5.
 
-## Dispute Resolution
+### Dispute Resolution
 
 Any dispute, claim or controversy arising out of or relating to this Policy or previous privacy policy statements shall be resolved through negotiation, mediation and arbitration as provided under our Terms of Service Agreement.
 
-## Contact Information
+### Contact Information
 
 If users have any questions or suggestions regarding this Policy, please contact the Secretary of Meetup using postal mail or email, as follows:
 
