@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehow.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204150348id_/http%3A//www.ehow.com/privacy/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehow.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418011204id_/http%3A//www.ehow.com/privacy/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
