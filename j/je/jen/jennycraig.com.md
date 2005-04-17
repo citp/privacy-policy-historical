@@ -1,17 +1,8 @@
-> *The following text is extracted and transformed from the jennycraig.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208122835id_/http%3A//www.jennycraig.com/corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jennycraig.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418010334id_/http%3A//www.jennycraig.com/corporate/privacy.asp) for the most accurate reproduction.*
 
 # Jenny Craig Corporate: Privacy Policy
 
-  | 
-
-[](https://web.archive.org/account/login.asp?fp=myjenny/index.asp)  
-[](https://web.archive.org/programs)  
-[](https://web.archive.org/success)  
-[](https://web.archive.org/recipes)  
-[](https://web.archive.org/shop)  
-
-
-|  | 
+|   | 
 
 **GENERAL**  
 Many of the ways in which you interact with the Jenny Craig Web site (the "Site") allow us to learn about you. We collect and store statistics and other information about the online activities of our visitors on an aggregated (collective) basis. For example, we track the number of people who view each page to learn which features are the most popular. In most instances, we do not obtain personally identifiable information about you. 
@@ -45,4 +36,5 @@ Please note that if you provide any information on your own to parties who provi
 
 Revised July 1, 2004
 
-|  
+|    
+---|---|---
