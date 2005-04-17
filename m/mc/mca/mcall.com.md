@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcall.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209092001id_/http%3A//www.mcall.com/services/newspaper/all-privacypolicy.htmlstory) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcall.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418012730id_/http%3A//www.mcall.com/services/newspaper/all-privacypolicy.htmlstory) for the most accurate reproduction.*
 
 # mcall.com - Privacy Policy
 
@@ -14,7 +14,7 @@ Like most Web sites, mcall.com also collects information automatically and throu
 **What we do with the information we collect.**  
 We will use your information only as permitted by law. Aggregated Information (information that does not personally identify you) may be used in many ways. As one example, we may combine information about your usage patterns with similar information obtained from other users to learn which pages are visited most or what features are most attractive. Aggregated Information may occasionally be shared with our advertisers and business partners, but cannot be used to contact you individually. 
 
-We also collect information to enhance your visit and deliver more individualized content and advertising. For example, we may use Personally Identifiable Information collected on MCALL.com to communicate with you regarding our [Terms of Service](https://web.archive.org/services/newspaper/all-termsofservice.htmlstory) and privacy policy, products and services offered by mcall.com and other Tribune Company affiliates and partners, administration of sweepstakes and contests, processing e-commerce transactions and other topics we think you might find of interest. We reserve the right to share this information with other Tribune Company business units and affiliates, including for example our affiliated newspapers and entities in which Tribune Company has an ownership interest (collectively, "Affiliates"). This policy does not apply to any Affiliate's use of such information. 
+We also collect information to enhance your visit and deliver more individualized content and advertising. For example, we may use Personally Identifiable Information collected on MCALL.com to communicate with you regarding our [Terms of Service](https://web.archive.org/services/newspaper/all-termsofservice,0,5268714.htmlstory) and privacy policy, products and services offered by mcall.com and other Tribune Company affiliates and partners, administration of sweepstakes and contests, processing e-commerce transactions and other topics we think you might find of interest. We reserve the right to share this information with other Tribune Company business units and affiliates, including for example our affiliated newspapers and entities in which Tribune Company has an ownership interest (collectively, "Affiliates"). This policy does not apply to any Affiliate's use of such information. 
 
 Personally Identifiable Information collected by mcall.com may also be used for other purposes including but not limited to site administration and troubleshooting. Certain third parties who provide technical support for the operation of our site (our Web hosting service and our newsletter provider, for example) may access such information. 
 
@@ -41,7 +41,7 @@ c/o Shelly Salak
 General Manager  
 101 North Sixth Street  
 Allentown, PA 18105  
-Email: shelly.salak@mcall.com 
+Email: [**shelly.salak@mcall.com**](mailto:shelly.salak@mcall.com)
 
 **Changes to this policy.**  
 mcall.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
@@ -51,6 +51,6 @@ This policy and the use of this Site are governed by Illinois law. Any claim rel
 
 In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall control. 
 
-Copyright © 2004, [The Morning Call](http://www.mcall.com/)
+Copyright © 2005, [The Morning Call](http://www.mcall.com/)
 
-**> > Right to your doorstep! - [Click here to subscribe to The Morning Call](http://www.mcall.com/services/newspaper/all-custservsubscribe.customform)** |  | 
+**> > Right to your doorstep! - [Click here to subscribe to The Morning Call](https://web.archive.org/services/newspaper/all-custservsubscribe,0,3467145.customform?coll=all-story-bottom-promo)** |  | 
