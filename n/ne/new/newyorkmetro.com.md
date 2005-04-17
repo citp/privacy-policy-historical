@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newyorkmetro.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208061710id_/http%3A//www.newyorkmetro.com/nym/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorkmetro.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418012933id_/http%3A//www.newyorkmetro.com/nym/privacy.htm) for the most accurate reproduction.*
 
 # New York Metro Privacy Policy
 
@@ -15,7 +15,7 @@
 [](https://web.archive.org/nym/aboutnymag.htm)  
 [](https://web.archive.org/nym/contactnymag.htm)  
 [](https://secure.palmcoastd.com/pcd/document?ikey=03921IBU5)  
-[](https://store.primediamags.com/service/newyorkmetro)  
+[](https://secure.palmcoastd.com/pcd/eServ?iServ=MDM5MjEyNDE2NiZpVHlwZT1NQUlO)  
 [](https://web.archive.org/nym/mediakit.htm)  
    
    
@@ -34,7 +34,7 @@ Cookies and Tracking Devices
 How to Add, Delete or Change Information  
 Our Security Procedures   
 Children's Privacy Policy  
-[Terms of Usage Agreement](https://web.archive.org/web/20041208061710id_/http%3A//www.newyorkmetro.com/nym/terms.htm)
+[Terms of Usage Agreement](https://web.archive.org/web/20050418012933id_/http%3A//www.newyorkmetro.com/nym/terms.htm)
 
 Safeguarding your privacy is very important to us. We take seriously the collection of any personally identifiable information and personal contact information ("personal information") from our visitors and are committed to protecting each visitor's privacy in accordance with these policies. We use the term "visitors" to include registered members of our website communities and any other person that accesses our websites at any point for any amount of time, unless designated otherwise. Please carefully review our information collection practices and privacy protections below. 
 
@@ -46,7 +46,7 @@ New York Metro, LLC
 11 Penn Plaza, 2nd Floor  
 New York, NY 10001  
 Attention: Help Desk  
-[Submit a Comment](https://web.archive.org/web/20041208061710id_/http%3A//www.newyorkmetro.com/nym/contactus.htm)
+[Submit a Comment](https://web.archive.org/web/20050418012933id_/http%3A//www.newyorkmetro.com/nym/contactus.htm)
 
 ******II. Website Membership and Participation Eligibility**
 
