@@ -1,38 +1,43 @@
-> *The following text is extracted and transformed from the onecall.com privacy policy that was archived on 2004-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040805131609id_/http%3A//www.onecall.com/Policies.mpt%3FPos%3D134) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onecall.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418023036id_/http%3A//www.onecall.com/Policies.mpt%3FPos%3D134%26L_TK%3D5_5_0_263_0_0_0_0_0_0) for the most accurate reproduction.*
 
 # OneCall: Privacy Policy
 
-Privacy Policy
+**Privacy Policy**
 
-**OneCall / Huppins has created this privacy statement in order to demonstrate our firm commitment to privacy.**
+We at OneCall, the online retail and mail-order division of Huppin’s Hi-Fi, Photo, & Video, Inc., have created this privacy policy to describe our information gathering and dissemination practices with respect to information we collect through any of our websites.  This privacy policy does not govern our use of any information you provide to us when you call us, write to us, or communicate with us in any manner other than through our websites.  This privacy policy is effective as of October 25, 2004.  Because the Internet is global, information about you that we collect or that you submit may be transferred to, processed in, and held in countries (including the United States) other than the one in which you reside.  **By using our website(s), you explicitly consent to such use of your information and agree to the terms of this privacy policy.**
 
-The following discloses our information gathering and dissemination practices for this website: www.onecall.com. Our site uses cookies to keep track of your shopping cart. Only our online ordering requires users to give us contact information (like their name and email address).
+**Changes**
 
-OneCall will NEVER sell or share ANY of your personal information to ANY third party, ever.
+We may update this privacy policy from time to time.  If under any such update we make any material change to the way in which we treat your personal information, we will inform you of such change via e‑mail or by posting a notice on relevant areas of our website.  Any updated version of this privacy policy will be effective as of the date set forth therein.
 
-This site contains links to other helpful web sites. Although **OneCall** is not responsible for the privacy practices or the content of any of the web sites we link to, OneCall does **NOT** , and will **NOT** pass **ANY** of your information to these sites. We do not like SPAM e-mail either! :)
+**Information You Choose to Submit**
 
-Security
+You can visit our website without telling us who you are or revealing any personal information about yourself.  If, however, you wish to make a purchase from our website, you are required to register with our website and, in connection with such registration, provide your full name, e‑mail address, billing address (and, if different, the address to which you would like your order shipped), phone number, and credit card information (unless you are paying by check or money order).  We use such information to fulfill your order and to contact you from time to time about us, our websites, and our products and services.  We will also use any information you provide to us about someone other than you (e.g., the names and addresses of recipients of items you have ordered) in the same manner that we use your personal information. ****
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
+**Information We Automatically Collect**
 
-Choice/Opt-Out
+We automatically collect certain information to help us understand how visitors use our website.  For example, each time you visit our website we automatically collect your IP address, browser and computer type, access time, the webpage from which you came, and the webpage(s) that you access during your visit.  We also use cookies (which are small amounts of data sent from a web server to your browser that are stored on your computer’s hard drive) to keep track of your shopping cart, to validate your identity, to tailor our website to meet your personal interests, and to improve the quality of our website.  In addition, third parties who place advertisements on our website may also collect information through cookies to ensure that their advertising systems and technologies work properly and to allow them to track responses to their advertisements.  Cookies set by these third parties are governed by the privacy policies of those third parties.  Generally, you can set your browser not to accept cookies or to notify you if you are sent a cookie, giving you the opportunity to choose whether or not to accept the cookie.  Please note that if you do set your browser not to accept cookies, we will be unable to maintain your shopping cart and you will not be able to complete an on-line purchase. ****
 
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service: 
+**Our Information Sharing Practices**
 
-  1. You can manage your preferences by [editing your profile](https://web.archive.org/web/20040805131609id_/http%3A//www.onecall.com/EmailProfile.mpt?MIActive=1)
-  2. You can send us an e-mail 
-  3. You can send United States Postal mail to the following postal address: OneCall, Attn: Webmaster, P.O. Box 13069, Spokane, WA 99213
-  4. You can call the following telephone number: 1.800.340.4770
+**_Service Providers._**   From time to time, we may enter into relationships with third parties who provide services to us (e.g., credit card processing services, shipping services, or data management and storage services).  In those circumstances, we disclose information about you that is necessary for such service providers to perform those services.
 
-Correct/Update
+**_Third-Party Marketers._**   In addition, from time to time we may (a) share your name, postal address, and purchase history with third parties so they may contact you regarding goods or services in which you may be interested, and (b) combine information we receive from third parties with information we have collected about you or that you have submitted to make our future marketing efforts more efficient.  If you would like us not to disclose your personal information to third parties for the third parties’ direct marketing purposes, please contact us as noted below in “Choice/Opt-Out.”
 
-This site gives users the following options for changing and modifying information previously provided.
+**_Other Disclosure Scenarios._**   Notwithstanding anything in this privacy policy to the contrary, we reserve the right, unless limited by applicable law, to share any information we have collected about you or that you have submitted: (1) in response to subpoenas, court orders, or legal process, or to establish, protect, or exercise our legal rights or defend against legal claims; (2) if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, fraud, or situations involving potential threats to the safety of any person; (3) if we believe it is necessary to investigate, prevent, or take action regarding situations that involve significant abuse of our website infrastructure or the Internet in general (such as voluminous spamming, denial of service attacks, or attempts to compromise the security of information); (4) to our parent company, subsidiaries, joint ventures, or other companies under common control with us (in which case we will require such entities to honor this privacy policy); and (5) if we are acquired by or merged with another entity.
 
-  1. e-mail OneCall
-  2. send United States Postal mail to the following postal address: OneCall, Attn: Webmaster, P.O. Box 13069, Spokane, WA 99213
-  3. call the following telephone number: 1.800.340.4770
+**Choice/Opt-Out**
 
-Contacting the Web Site
+We offer you the opportunity to (1) choose not to receive communications from us, and (2) request that we not share your information with third parties.  If you would like to take advantage of either (or both) of those opportunities, please _contact us_ (please clearly state what information you would like modified or deleted), by writing to us at OneCall, Attn: Webmaster, P.O. Box 13069, Spokane, WA 99213, or by calling us at 1.800.663.5255.  Please note that sometimes these requests may take up to ten business days to process and that we are not responsible for removing information about you from the database of any third party with which we shared your personal information prior to processing your request.  Even if you do take advantage of these opportunities, we reserve the right to send you administrative messages relating to our website(s) (e.g., about changes to this privacy policy), to contact you regarding orders you have placed (e.g., order confirmations and shipment tracking information), and to share your information with our service providers. ****
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact via United States Postal Service: OneCall, Attn: Webmaster, P.O. Box 13069, Spokane, WA 99213 Or send us an e-mail.
+**Accessing, Correcting, and Deleting Your Information**
+
+If you would like to modify or delete from our database any personal information you previously submitted to us, please let us know by accessing and updating your profile on our site, by _contacting us_ (please clearly state what information you would like modified or deleted), by writing to us at OneCall, Attn: Webmaster, P.O. Box 13069, Spokane, WA 99213, or by calling us at 1.800.663.5255.  Please note that sometimes these requests may take up to ten business days to process, that any information about you that we have copied may remain in back-up storage for some period of time after your request, and that if you delete certain information (e.g., your billing address or credit card number) you may not be able to purchase products in the future without re-submitting such information.  Also, please note that we will maintain information about you in our database whenever we are required to do so by law.
+
+**Security**
+
+We have implemented reasonable security measures to protect your personal information.  Unfortunately, however, no data transmission over the Internet can be guaranteed to be 100% secure.  As a result, while we strive to protect your personal information, we cannot guarantee its security.  We urge you to keep your password in a secure place, not to divulge it to anyone, and to sign off of our website and close your browser when you have finished visiting our website.
+
+**Questions**
+
+If you have any questions about this privacy policy, please feel free to _contact us_.
