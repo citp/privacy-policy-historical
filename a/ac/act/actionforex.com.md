@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the actionforex.com privacy policy that was archived on 2004-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041213013105id_/http%3A//www.actionforex.com/general_information/about_us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actionforex.com privacy policy that was archived on 2005-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050419001623id_/http%3A//www.actionforex.com/general_information/about_us/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - ActionForex.com - Empowering the individual forex traders - Forex portal with currency news, fx online trading, analysis/forecast, currency trading signals/startegies, fx chart, investment books, forum, directory, software, tutorial, newsletter, managed accounts information etc.
+# Privacy Policy - ActionForex.com - Forex Portal Currency News FX Forecast Forex Technical Analysis Report Currency Fundamental Analysis Report FX Trading Recommendation Forex Signal Currency Education FX Books Forex Demo Currency Trading FX Directory Forex Tutorial Currency Course FX Training Forex Newsletter Currency Chart RSS EUR/USD GBP/USD USD/CHF USD/JPY
 
 **Privacy Policy**  
 ActionForex.com respects each individual's right to privacy. We value our relationship with you, and we take pride in maintaining loyalty and respect with each individual client by providing you with security. The provisions of this notice apply to former members as well as our current members.
