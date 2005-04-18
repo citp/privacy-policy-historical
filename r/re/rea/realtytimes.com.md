@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the realtytimes.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207065713id_/http%3A//realtytimes.com/rtcpages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtytimes.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418044950id_/http%3A//realtytimes.com/rtcpages/privacy.htm) for the most accurate reproduction.*
 
 # Realty Times - Real Estate News and Advice
 
 Realty Times has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: realtytimes.com. 
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. We use cookies to deliver content specific to your interests and to keep session information for the Realty Times Interactive area. 
+We use your IP address to help diagnose problems with our server, and to administer our Web site. We use cookies to customize the user experience and to keep session information for the Realty Times Control Panel. 
 
 Our site's subscription forms require users to give us contact information (like their name and e-mail address). Subcription forms for our for-fee products and services also collect financial information (like account or credit card numbers). Financial information that is collected is used only to bill the user for products and services. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
@@ -44,5 +44,5 @@ If you have any questions about this privacy statement, the practices of this si
 
 Jody Lane Realty Times 5949 Sherry Lane Suite 1250 Dallas, TX 75225 [jlane@realtytimes.com](mailto:jlane@realtytimes.com "Send E-mail to Jody Lane")
 
-Copyright © 2004 [Realty Times](http://realtytimes.com/rtcpages/contactus4.htm)®. All Rights Reserved.   
+Copyright © 2005 [Realty Times](http://realtytimes.com/rtcpages/contactus4.htm)®. All Rights Reserved.   
 
