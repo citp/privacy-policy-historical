@@ -1,9 +1,12 @@
-> *The following text is extracted and transformed from the media-match.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210140647id_/http%3A//www.media-match.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the media-match.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418144224id_/http%3A//www.media-match.com/privacy.php) for the most accurate reproduction.*
 
 # media-match
 
-|  |   
+|  
 
+[](http://www.media-match.com/welcome.php)
+
+|  |  
 
 Privacy Policy
 
@@ -22,10 +25,20 @@ Address : Interbase USA, 714 Nth La Brea, Los Angeles, CA 90038
 
 Registered users of the media-match site who choose to opt out will have their details remove from all media-match lists and access correspondingly terminated.
 
-We will update the specific records related to your request as promptly as practical. Note, however, that you may receive additional communications from third parties after you submit your request while we process the request. Additionally, your information may exist in multiple lists within the company and our technology limits the processing of opt out requests to the specific list source. We will continuously assess our responsiveness to opt out requests against new technologies, business practices and our customers' needs. 
+We will update the specific records related to your request as promptly as practical. Note, however, that you may receive additional communications from third parties after you submit your request while we process the request. Additionally, your information may exist in multiple lists within the company and our technology limits the processing of opt out requests to the specific list source. We will continuously assess our responsiveness to opt out requests against new technologies, business practices and our customers' needs.  
 
 If you have any difficulties using this site please [contact us](mailto:info@media-match.com) on 323 932 7885
 
 A part of the [interbase usa](http://www.interbaseusa.com/) network, all use subject to [Terms](http://www.media-match.com/disclaimer.php). [Privacy Policy](http://www.media-match.com/privacy.php).  
-| [film & tv](http://www.media-match.com/) | [music](http://www.music-jobs.com/) | [journalism](http://www.journalistusa.com/) | [marketing](http://www.marketing-match.com/) | [photography](http://www.photography-match.com/) | [interactive entertainment](http://www.games-match.com/) |  
+| [film & tv](http://www.media-match.com/) | [music](http://www.music-jobs.com/) | [journalism](http://www.journalistusa.com/) | [marketing](http://www.marketing-match.com/) | [photography](http://www.photography-match.com/) | [interactive entertainment](http://www.games-match.com/) |
 
+|  |  
+
+[](http://us.castingcallpro.com/index.php?affid=1112)
+
+[](http://www.beonscreen.com/banners_in.asp?bannerID=1)
+
+[](http://us.music-jobs.com/index.php?affid=1112)
+
+|   
+---|---|---|---|---|---|---
