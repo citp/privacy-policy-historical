@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tbs.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204051403id_/http%3A//tbs.com/general/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tbs.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418063922id_/http%3A//www.tbs.com/general/privacy) for the most accurate reproduction.*
 
 # tbs.com - tbs privacy policy
 
 Time Warner Online Privacy Notice
 
-Thank you for visiting TBSsuperstation.com, a Time Warner site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Time Warner site. Click here for a list of the Time Warner businesses whose sites are governed by this Privacy Notice. 
+Thank you for visiting TBS.com, a Time Warner site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Time Warner site. Click here for a list of the Time Warner businesses whose sites are governed by this Privacy Notice. 
 
 * * *
 
@@ -101,7 +101,7 @@ The Privacy Notice posted on this site was updated on or about May 27, 2004.
 This Privacy Notice applies to general audience sites on the World Wide Web operated by Turner Broadcasting System, Inc. at the following addresses: 
 
 [www.turner.com](http://www.turner.com/)   
-[www.TBSsuperstation.com](http://www.tbssuperstation.com/)   
+[www.tbs.com](http://www.tbs.com/)   
 [www.tbs17.com](http://www.tbs17.com/)   
 [www.tnt.tv](http://www.tnt.tv/)   
 [www.TurnerSouth.com ](http://www.turnersouth.com/)  
@@ -152,7 +152,7 @@ back to top
   
 You may send an e-mail or letter to the following e-mail or street address requesting access to or correction of the personally identifiable information that this site has collected about you online. For verification purposes, please include your first name, last name, and e-mail address. 
 
-Privacy Manager - TBS Superstation  
+Privacy Manager - TBS.com  
 TEG Online  
 1050 Techwood Drive NW  
 Atlanta, GA 30318 
@@ -161,4 +161,4 @@ e-mail: [privacy.tbssuperstation@turner.com](mailto:privacy.tbssuperstation@turn
 
 back to top
 
-(c) 2003 TBS Superstation, Inc. A Time Warner Company. All Rights Reserved. 
+(c) 2005 TBS Superstation, Inc. A Time Warner Company. All Rights Reserved. 
