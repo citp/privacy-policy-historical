@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faucet.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204215159id_/http%3A//www.faucet.com/cgi-bin/static.pl%3FS%3DprivacyNotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faucet.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418030919id_/http%3A//www.faucet.com/decor/static.pl%3FS%3DprivacyNotice) for the most accurate reproduction.*
 
 # Faucet.com - Privacy Notice
 
@@ -13,4 +13,4 @@ If you wish to subscribe to our newsletters, we ask for information such as name
 
 If you have any questions about our privacy policies, or experience problems with our web sites, please feel free to 
 
-[_contact us_](https://web.archive.org/cgi-bin/static.pl?S=contact).  Thank you for choosing Decorative Product Source Inc. to help decorate and improve your home. 
+[_contact us_](https://web.archive.org/decor/static.pl?S=contact).  Thank you for choosing Decorative Product Source Inc. to help decorate and improve your home. 
