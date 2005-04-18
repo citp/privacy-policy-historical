@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silive.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204013707id_/http%3A//www.silive.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silive.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418061709id_/http%3A//www.silive.com/privacypolicy) for the most accurate reproduction.*
 
 # SILive.com: Privacy Policy
 
@@ -63,7 +63,7 @@ Privacy Policy Coordinator
 5th Floor  
 Jersey City, NJ 07306 
 
-|  | [](http://ads4.udc.advance.net/RealMedia/ads/click_lx.ads/www.silive.com/showcase/sliding.ssf/NQS/445406335/SponsorRight/default/empty.gif/64316564656562303431623131346230)   
+|  |    
   
 INSIDE  
 [**About Us**](https://web.archive.org/aboutus/)  
@@ -72,8 +72,13 @@ INSIDE
   
 [](https://web.archive.org/sendthispage/sendthispage.ssf) |  |    
   
-[](http://ads4.udc.advance.net/RealMedia/ads/click_lx.ads/www.silive.com/privacypolicy/index.ssf/NQS/1865000567/Sponsor1/default/empty.gif/64316564656562303431623131346230)   
-[](http://ads4.udc.advance.net/RealMedia/ads/click_lx.ads/www.silive.com/privacypolicy/index.ssf/NQS/1763013049/Tile1/SILIVE/MK_BLJOBS_ST02/SI_BC3_190x90.gif/64316564656562303431623131346230)   
+  
+  
+| **FROM OUR SPONSORS**  
+---  
+>>    
+>>    
+>>   
   
   
 
