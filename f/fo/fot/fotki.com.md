@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fotki.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207235530id_/http%3A//help.fotki.com/331) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fotki.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418032047id_/http%3A//help.fotki.com/privacy) for the most accurate reproduction.*
 
 # Help | Fotki.com
 
-21\. Privacy Policy
+2\. Privacy Policy
 
 By accessing or using the Fotki.com site, you agree to our Privacy Policy, as outlined below. If you do not agree to these terms, please do not access or use this site. Fotki reserves the right to change the Privacy Policy from time to time. Your use of this site will be subject to the most current version of the Privacy Policy at the time of such use.
 
@@ -30,11 +30,11 @@ If you have any questions about this privacy policy, the practices of this site,
 
 **Terms of Services**
 
-[Our Terms of Service can be found here](http://help.fotki.com/330/).
+[Our Terms of Service can be found here](http://help.fotki.com/terms/).
 
 
 
 
 * * *
 
-Written on 2003-09-17 18:32:29 and updated on 2004-09-15 05:55:45.
+Written on 2003-09-17 18:32:29 and updated on 2005-02-26 02:58:43.
