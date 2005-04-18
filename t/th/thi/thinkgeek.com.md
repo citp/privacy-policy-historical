@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkgeek.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204035053id_/http%3A//www.thinkgeek.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkgeek.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418054631id_/http%3A//www.thinkgeek.com/privacy.shtml) for the most accurate reproduction.*
 
 # ThinkGeek :: ThinkGeek :: Privacy Policy
 
@@ -18,11 +18,15 @@ Our site uses an order form for customers to request products and services. We c
 
 Our [feedback page](https://web.archive.org/feedback.shtml) asks visitors for demographic information (age). Demographic and profile data (favorite programming language, favorite operating system, etc.) is also collected. We use this data internally to help identify our customer's interests. We will not distribute this information to anyone. 
 
-## Choice/Opt-In
+## Choice/Opt-Out
 
-  1. A checkbox to opt-in ThinkGeek mailing lists is provided when you first enter contact information. 
-  2. You can also send email to [webmaster@thinkgeek.com](mailto:webmaster@thinkgeek.com)
-  3. Or you may call the following telephone number: (703) 293-6299
+When you first enter your contact information, you may select if you would like to receive our emails and/or snail mail. 
+
+You may be removed from our email or snail mail list at anytime, by doing one of the following: 
+
+  1. If you have an account, edit your preferences in your [Account Info](https://www.thinkgeek.com/brain/account/finger.cgi). 
+  2. If you do not have an account, send an email to webmaster@thinkgeek.com. 
+  3. Call the following telephone number: (703) 293-6299. 
 
 
 
