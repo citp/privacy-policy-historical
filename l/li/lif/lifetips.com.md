@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifetips.com privacy policy that was archived on 2004-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041214135705id_/http%3A//www.lifetips.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifetips.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418155550id_/http%3A//www.lifetips.com/Privacy.asp) for the most accurate reproduction.*
 
 # lifetips.com - Privacy Statement
 
@@ -40,5 +40,4 @@ LifeTips.com
 197 8th Street  
 Suite 719  
 Charlestown Ma 02129  
-617-886-9001  
-
+617-886-9001
