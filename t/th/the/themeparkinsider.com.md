@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themeparkinsider.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207211559id_/http%3A//themeparkinsider.com/news/response.cfm%3FID%3D1676) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themeparkinsider.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418062104id_/http%3A//www.themeparkinsider.com/news/response.cfm%3FID%3D1676) for the most accurate reproduction.*
 
 # Protecting Your Privacy on Theme Park Insider
 
@@ -40,7 +40,7 @@ Thank you for using Theme Park Insider, and thank you for your support of indepe
   
 
 
-[ThemeParkInsider.com](http://www.themeparkinsider.com/)™, the site, content and services ©Copyright 1999-2004 [Robert Niles](http://www.robertniles.com/robert/). [Privacy statement](http://www.themeparkinsider.com/news/response.cfm?ID=1676)  
+[ThemeParkInsider.com](http://www.themeparkinsider.com/)™, the site, content and services ©Copyright 1999-2005 [Robert Niles](http://www.robertniles.com/robert/). [Privacy statement](http://www.themeparkinsider.com/news/response.cfm?ID=1676)  
 Questions? Comments? Corrections? [E-mail the editor](https://web.archive.org/parks/email.cfm)!
 
 These pages are in no way affiliated with nor endorsed by Busch Entertainment, Cedar Fair, Legoland, NBC Universal, Paramount Parks, Tussaud's Group, Six Flags, the Walt Disney Company or any other theme park company. Images and any text trademarks are included here solely for the purpose of eliciting [fair use comment and criticism](http://cyber.law.harvard.edu/metaschool/Fisher/integrity/Links/Cases/newkids.html) from the public.
