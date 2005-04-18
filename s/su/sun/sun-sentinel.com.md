@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the sun-sentinel.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208124339id_/http%3A//www.sun-sentinel.com/about/site/sfl-privacypolicy.story) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sun-sentinel.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418055310id_/http%3A//www.sun-sentinel.com/about/site/sfl-privacypolicy.story) for the most accurate reproduction.*
 
 # Sun-Sentinel.com Privacy Policy: South Florida Sun-Sentinel
+
+|  |  |  |    
+**Sun-Sentinel.com Privacy Policy**
 
 _Last Updated: July 2003_
 
@@ -16,7 +19,7 @@ Like most Web sites, Sun-Sentinel.com also collects information automatically an
 
 We will use your information only as permitted by law. Aggregated Information (information that does not personally identify you) may be used in many ways. As one example, we may combine information about your usage patterns with similar information obtained from other users to learn which pages are visited most or what features are most attractive. Aggregated Information may occasionally be shared with our advertisers and business partners, but cannot be used to contact you individually.
 
-We also collect information to enhance your visit and deliver more individualized content and advertising. For example, we may use Personally Identifiable Information collected on Sun-Sentinel.com to communicate with you regarding our [Terms of Service](http://www.sun-sentinel.com/about/site/sfla-copyright.htmlstory) and privacy policy, products and services offered by Sun-Sentinel.com and other Tribune Company affiliates and partners, administration of sweepstakes and contests, processing e-commerce transactions and other topics we think you might find of interest. We reserve the right to share this information with other Tribune Company business units and affiliates, including for example our affiliated newspapers and entities in which Tribune Company has an ownership interest (collectively, "Affiliates"). This policy does not apply to any Affiliate's use of such information.
+We also collect information to enhance your visit and deliver more individualized content and advertising. For example, we may use Personally Identifiable Information collected on Sun-Sentinel.com to communicate with you regarding our [Terms of Service](https://web.archive.org/about/site/sfla-copyright,0,6598663.story) and privacy policy, products and services offered by Sun-Sentinel.com and other Tribune Company affiliates and partners, administration of sweepstakes and contests, processing e-commerce transactions and other topics we think you might find of interest. We reserve the right to share this information with other Tribune Company business units and affiliates, including for example our affiliated newspapers and entities in which Tribune Company has an ownership interest (collectively, "Affiliates"). This policy does not apply to any Affiliate's use of such information.
 
 Personally Identifiable Information collected by Sun-Sentinel.com may also be used for other purposes including but not limited to site administration and troubleshooting. Certain third parties who provide technical support for the operation of our site (our Web hosting service and our newsletter provider, for example) may access such information.
 
@@ -57,3 +60,22 @@ Sun-Sentinel.com reserves the right to change this policy at any time. Please ch
 This policy and the use of this Site are governed by Illinois law. Any claim related to the Site or this policy shall be brought in a federal or state court in Chicago, Illinois, within one year after the claim arises. You agree no such claim may be brought as a class action. Users of Sun-Sentinel.com consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. Sun-Sentinel.com is controlled, operated and administered entirely within the United States. If you are located outside the United States, please note the information you provide to us will be transferred to the United States. You hereby consent to this transfer.
 
 In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall control. 
+
+  
+[](https://web.archive.org/services/sfl-halfoffpromo,0,2498669.teaser?coll=sfla-story-shirttail)  
+---|---  
+|  |  [](http://adserver.trb.com/event.ng/Type=click&FlightID=511616&AdID=158252&Custom=consumernetwork&TargetID=6698&Segments=82,85,165,246,530,582,673,692,755,793,1480,1553,1600,1652,1857,1929,2167,2436,2571,2819,3356,3391,3539,3753,3907,4079,4376,4709,4948,5020,5041,6764,6787,7030,51082,51257,51538,51665,52005,52249,52574&Targets=3795,168,8000,512,51314,3031,4975,2287,2812,52921,53413,6585,6698&Values=34,46,51,63,77,81,93,100,110,131,150,287,289,301,328,333,356,388,392,591,1016,1093,1136,1171,1606,1617,1648,1656,1837,1839,1887,1939,1978,1987,2281,2283,2353,2748&RawValues=USERAGENTID%2Cia_archiver&Redirect=http:%2F%2Fwww.sun-sentinel.com%2Fshopping%2Fsfl-couponfront.htmlstory)
+
+* * *  
+  
+---  
+[](http://adserver.trb.com/event.ng/Type=click&FlightID=495965&AdID=156923&Custom=ansca&TargetID=3031&Segments=82,85,165,246,530,582,673,692,755,763,812,1480,1553,1600,1652,1857,1929,2167,2436,2571,2819,3356,3391,3539,3753,3907,4079,4376,4709,4948,5020,5041,6764,6787,7030,51082,51257,51538,51665,52006,52249,52574&Targets=3795,168,8000,512,51314,3031,4972,2287,2812,52921,53413,6585,6698&Values=34,46,51,63,77,81,93,100,110,131,150,287,289,301,328,334,356,388,392,591,1016,1093,1136,1171,1606,1617,1648,1656,1837,1839,1887,1939,1978,1987,2281,2283,2353,2748&RawValues=USERAGENTID%2Cia_archiver&Redirect=http:%2F%2Fwww.anscahomes.com) [](http://adserver.trb.com/event.ng/Type=click&FlightID=495965&AdID=156923&Custom=ansca&TargetID=3031&Segments=82,85,165,246,530,582,673,692,755,763,812,1480,1553,1600,1652,1857,1929,2167,2436,2571,2819,3356,3391,3539,3753,3907,4079,4376,4709,4948,5020,5041,6764,6787,7030,51082,51257,51538,51665,52006,52249,52574&Targets=3795,168,8000,512,51314,3031,4972,2287,2812,52921,53413,6585,6698&Values=34,46,51,63,77,81,93,100,110,131,150,287,289,301,328,334,356,388,392,591,1016,1093,1136,1171,1606,1617,1648,1656,1837,1839,1887,1939,1978,1987,2281,2283,2353,2748&RawValues=USERAGENTID%2Cia_archiver&Redirect=http:%2F%2Fwww.anscahomes.com)
+
+* * *  
+  
+[](http://adserver.trb.com/event.ng/Type=click&FlightID=71209&AdID=126591&Custom=101ban&TargetID=6698&Segments=82,85,165,246,530,582,673,692,699,755,812,1480,1553,1600,1652,1857,1929,2167,2436,2571,2819,3173,3356,3391,3539,3753,3907,4079,4376,4709,4948,5020,5041,6764,6787,7030,51082,51256,51257,51538,51665,52249,52574&Targets=3795,168,8000,512,51314,3031,3656,2287,2812,52921,53413,6585,6698&Values=34,46,51,63,77,81,93,100,110,131,150,287,289,301,328,335,356,388,392,591,1016,1093,1136,1171,1606,1617,1648,1656,1837,1839,1887,1939,1978,1987,2281,2283,2353,2748&RawValues=USERAGENTID%2Cia_archiver&Redirect=$CLICK_URL$) [](http://adserver.trb.com/event.ng/Type=click&FlightID=71209&AdID=126591&Custom=101ban&TargetID=6698&Segments=82,85,165,246,530,582,673,692,699,755,812,1480,1553,1600,1652,1857,1929,2167,2436,2571,2819,3173,3356,3391,3539,3753,3907,4079,4376,4709,4948,5020,5041,6764,6787,7030,51082,51256,51257,51538,51665,52249,52574&Targets=3795,168,8000,512,51314,3031,3656,2287,2812,52921,53413,6585,6698&Values=34,46,51,63,77,81,93,100,110,131,150,287,289,301,328,335,356,388,392,591,1016,1093,1136,1171,1606,1617,1648,1656,1837,1839,1887,1939,1978,1987,2281,2283,2353,2748&RawValues=USERAGENTID%2Cia_archiver&Redirect=$CLICK_URL$)
+
+* * *  
+  
+  
+
