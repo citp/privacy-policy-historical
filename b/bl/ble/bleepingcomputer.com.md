@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bleepingcomputer.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209195328id_/http%3A//www.bleepingcomputer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleepingcomputer.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418042549id_/http%3A//www.bleepingcomputer.com/privacy.php) for the most accurate reproduction.*
 
-# Bleeping Computer: Computer Resources for the Novice User
+# Bleeping Computer: Computer Help for the Beginning Computer User
 
 **Updated March 15, 2004**
 
