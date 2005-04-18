@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitepoint.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208235831id_/http%3A//www.sitepoint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitepoint.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418051642id_/http%3A//www.sitepoint.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
