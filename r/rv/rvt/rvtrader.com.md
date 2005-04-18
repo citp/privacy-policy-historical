@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rvtrader.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209050323id_/http%3A//www.rvtrader.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rvtrader.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418053755id_/http%3A//www.rvtrader.com/privacy.php) for the most accurate reproduction.*
 
-# RV Trader: New & used motorhomes, buy/sell at RVTrader.com Classifieds
+# Privacy Agreement
 
 ## RVTrader.com Privacy Policy Statement
 
