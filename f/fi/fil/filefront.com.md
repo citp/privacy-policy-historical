@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filefront.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205043142id_/http%3A//privacy.legal.filefront.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filefront.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418032512id_/http%3A//privacy.legal.filefront.com) for the most accurate reproduction.*
 
 # FileFront - The Most Gaming Files on the Web
 
