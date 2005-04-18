@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the friendsreunited.co.uk privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010224348id_/http%3A//www.friendsreunited.co.uk/FriendsReunited.ASP%3FWCI%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendsreunited.co.uk privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418024222id_/http%3A//www.friendsreunited.co.uk/FriendsReunited.ASP%3FWCI%3DPrivacy) for the most accurate reproduction.*
 
 # Friends Reunited - Privacy Policy
 
@@ -100,7 +100,7 @@ We will retain your personal data only as long as is necessary for the purposes 
 
 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with FriendsReunited, you can contact us [here ](https://web.archive.org/web/20041010224348id_/http%3A//www.friendsreunited.co.uk/FriendsReunited.ASP?WCI=contactus&email=info&subject=Privacy). You can also use this address if you wish to request from FriendsReunited a copy of the personal data we hold about you or a description of that data. Please note that by English law we are entitled to charge you a small sum for providing this information 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with FriendsReunited, you can contact us [here ](https://web.archive.org/web/20050418024222id_/http%3A//www.friendsreunited.co.uk/FriendsReunited.ASP?WCI=contactus&email=info&subject=Privacy). You can also use this address if you wish to request from FriendsReunited a copy of the personal data we hold about you or a description of that data. Please note that by English law we are entitled to charge you a small sum for providing this information 
 
   8. **Links to third party sites**
 
