@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the britishcouncil.org privacy policy that was archived on 2004-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041207033900id_/http%3A//www.britishcouncil.org/home/home-privacy-policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the britishcouncil.org privacy policy that was archived on 2005-04-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050418044616id_/http%3A//www.britishcouncil.org/home-privacy-policy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <base href="http://www.britishcouncil.org/">
@@ -74,11 +74,133 @@
 
 
 
+<script language="javascript">
 
-<!-- Page name: home-privacy-policy.htm -->
-<!-- isLive=YES -->
-<noscript><IMG WIDTH="0" HEIGHT="0" SRC="http://britishcouncil.mtk1.com/perl/mtk.pl?js=0"></noscript>
-<script src="http://britishcouncil.mtk1.com/js/mtk.js"></script>
+usrAgent = navigator.userAgent;
+
+bName = (usrAgent.indexOf("Opera") > -1 ? "Opera" : navigator.appName);
+
+            
+
+if (bName == "Microsoft Internet Explorer") {
+
+            pos = usrAgent.indexOf("MSIE");
+
+            bVer = usrAgent.substring(pos + 5);
+
+            pos = bVer.indexOf(';');
+
+            bVer = parseFloat(bVer.substring(0,pos));
+
+            bName = "ie";
+
+} else if (bName == "Netscape") {
+
+            if (usrAgent.indexOf("Netscape6") > -1) {
+
+                        pos = usrAgent.indexOf("Netscape6");
+
+                        bVer = usrAgent.substring(pos + 10);
+
+                        bVer = parseFloat(bVer.substring(0,pos));
+
+                        bName = "ns";
+
+            } else {
+
+                        bVer = usrAgent.substring(8);
+
+                        pos = bVer.indexOf(' ');
+
+                        bVer = parseFloat(bVer.substring(0,pos));
+
+                        bName = "ns";
+
+            }
+
+} else if (bName == "Opera") {
+
+                        pos = usrAgent.indexOf("Opera");
+
+            bVer = usrAgent.substring(pos + 6);
+
+            pos = bVer.indexOf(' ');
+
+            bVer = parseFloat(bVer.substring(0,pos));
+
+            bName = "op";
+
+} else {
+
+            bName = "na";
+
+            bVer = "na";
+
+}
+
+ 
+
+platform = navigator.platform;
+
+if (platform.indexOf("Win") > -1) {
+
+            platform = "win";
+
+}
+
+else if (platform.indexOf("Mac") > -1) {
+
+            platform = "mac";
+
+}
+
+else {
+
+            platform = "na";
+
+}
+
+function executeTest() {
+
+            document.write("<b>Browser:</b> " + bName + "<br>\n");
+
+            document.write("<b>Version:</b> " + bVer + "<br>\n");
+
+            document.write("<b>Platform:</b> " + platform + "<br>\n");
+
+            document.write("<b>UsrAgent:</b> " + usrAgent + "<br>\n");
+
+}
+
+</script>
+
+<script language="javascript">
+
+<!--
+
+var fName;
+
+document.write("<link rel=\"stylesheet\" href=\"");
+
+ 
+
+if (bName == "ns" && platform == "mac") fName="css-mac_ns.css";
+
+else if (platform == "mac") fName="css-mac_ie.css";
+
+else if (bName == "ns" && platform == "win") fName="css-win_ns.css";
+
+else if (platform == "win") fName="css-win_ie.css";
+
+else { fName="css-mac_ns.css" }
+
+ 
+
+document.write(fName + "\" type=\"text/css\">");
+
+//-->
+
+</script><link rel="stylesheet" href="css-mac_ns.css" type="text/css">
 
 </head> 
 <body bgcolor="#ffffff" bottommargin="0" leftmargin="0" onresize="if(ns4up)document.location.reload();" rightmargin="0" topmargin="0" marginheight="0" marginwidth="0">
@@ -90,7 +212,7 @@ initNavigation();
 populateMenu();
 // -->
 </script>
-<table cellspacing="0" cellpadding="0" border="0" width="770">
+<noscript><IMG WIDTH="0" HEIGHT="0" SRC="http://britishcouncil.mtk1.com/perl/mtk.pl?js=0"></noscript><table cellspacing="0" cellpadding="0" border="0" width="770">
 	<tbody><tr bgcolor="#00A1E5">
 		<td width="100%" height="52">
 			<table cellspacing="0" cellpadding="0" border="0" width="100%" bgcolor="#00A1E5">	
@@ -125,13 +247,11 @@ populateMenu();
 		<td align="right" valign="middle"><img src="spacer.gif" border="0" width="5"></td>			
 		<td align="right" valign="middle"><input type="text" name="txtQueryString" id="txtQueryString" size="15" maxlength="1000" value="search our site" onfocus="this.value=&quot;&quot;" onblur="if(this.value==&quot;&quot;){this.value=&quot;search our site&quot;}"></td>
 		<td align="right" valign="middle"><img src="spacer.gif" border="0" width="5"></td>
-		<td align="right" valign="middle"><input type="image" src="go_palette09.gif" border="0" alt="Search the British Council web site"></td>	
-		<td align="right" valign="middle"><img src="spacer.gif" border="0" width="5"></td>
-		<td align="right" valign="middle"><a href="home-privacy-policy.htm?printout=1" target="_blank"><img src="print_palette09.gif" width="22" height="22" alt="Printer-friendly page" border="0"></a></td>
-		<td align="right" valign="middle"><img src="spacer.gif" border="0" width="5"></td>
-		<td align="right" valign="middle">
-
-<script language="JavaScript">
+		<td align="right" valign="bottom"><input type="image" src="go_palette09.gif" border="0" alt="Search the British Council web site"></td>	
+		<td align="right" valign="bottom"><img src="spacer.gif" border="0" width="5"></td>
+		<td align="right" valign="bottom"><a href="home-privacy-policy.htm?printout=1" target="_blank"><img src="print_palette09.gif" border="0"></a></td>
+		<td align="right" valign="bottom"><img src="spacer.gif" border="0" width="5"></td>
+		<td align="right" valign="bottom"><script language="JavaScript">
 	<!-- Begin
 
 	function isPPC() {
@@ -146,9 +266,13 @@ populateMenu();
 	}
 
 	// End -->
-</script><a href="mailto:?body=This URL may be of interest to you. It is called Privacy policy - British Council. You can view this page at: https://web.archive.org/web/20041207033900id_/http%3A//www.britishcouncil.org/home/home-privacy-policy.htm"><img src="mail_palette09.gif" border="0" alt="email this page"></a></td>
-		<td align="right" valign="middle"><img src="spacer.gif" border="0" width="2" height="5"></td>
-	
+</script><a href="mailto:?body=This URL may be of interest to you. It is called Privacy policy - British Council. You can view this page at: https://web.archive.org/web/20050418044616id_/http%3A//www.britishcouncil.org/home-privacy-policy.htm"><img src="mail_palette09.gif" border="0" alt="email this page"></a></td>
+		<td align="right" valign="bottom"><img src="spacer.gif" border="0" width="2" height="5"></td>
+		<script language="javascript">
+			if (platform == "win" && bName == "ie") {
+				document.write('</form>');
+		}
+		</script>	
 	</tr>
 </tbody></table></form></td>						
 				</tr>
@@ -156,13 +280,28 @@ populateMenu();
 		</td>
 	</tr>
 	<tr>
-		<td valign="top" width="100%" bgcolor="#99CDFF"><img src="spacer.gif" border="0" width="760" height="21"></td>
-	</tr>
+	<td valign="top" width="100%" bgcolor="#99CDFF"><img src="spacer.gif" border="0" width="759" height="20"></td>
+</tr>
 	<tr>
 		<td valign="top" width="100%" bgcolor="#00A1E5"><img src="spacer.gif" border="0" width="760" height="1"></td>
 	</tr>
-</tbody></table>
+	<!-- START: TRACKING CODE -->
 
+<input type="hidden" name="pg" value="http://www.britishcouncil.org/home-privacy-policy">
+<input type="hidden" name="language" value="">
+<input type="hidden" name="country-dept" value="27652">
+<input type="hidden" name="pagename" value="home-privacy-policy">
+
+<!-- isLive=YES -->
+
+<script src="http://britishcouncil.mtk1.com/js/mtk.js"></script>
+<!-- END: TRACKING CODE -->
+</tbody></table>
+<script language="javascript">
+	if (platform == "mac" || bName == "ns") {
+		document.write('</form>');
+	}
+</script>
 <!-- START: CONTENT TEMPLATE --> 
 
 <link rel="STYLESHEET" type="TEXT/CSS" href="palette/palette-9-scheme-3.css">
@@ -170,7 +309,7 @@ populateMenu();
 
 
 <!------ TEMPLATE= <b>ct-ltr-text-only</b> ------>
-<!------ LAST UPDATED= <b>06.12.2004 11:23:42</b> ------>
+<!------ LAST UPDATED= <b>14.04.2005 17:24:37</b> ------>
 <table cellspacing="0" cellpadding="0" border="0" width="770">
 <tbody><tr>
 	<td bgcolor="#FFFFFF"></td>
@@ -401,19 +540,21 @@ populateMenu();
 </tbody></table>
 <table cellpadding="0" cellspacing="0" border="0" width="770">
 <tbody><tr>
-	<td width="11" rowspan="3"><img src="spacer.gif" width="11" height="1"></td>
-	<td align="center"><img src="global-common-738x1-grey-dotted-line.gif" width="748" height="1" border="0"></td>
-	<td width="11" rowspan="3"><img src="spacer.gif" width="11" height="1"></td>
+	<td width="11" rowspan="2"><img src="spacer.gif" width="11" height="1"></td>
+	<td align="center" width="748"><img src="global-common-748x1-grey-dotted-line.gif" width="748" height="1" border="0"></td>
+	<td width="11" rowspan="2"><img src="spacer.gif" width="11" height="1"></td>
 </tr>
 <tr>
-	<td align="center" colspan="3"><img src="spacer.gif" border="0" width="1" height="8" alt=""></td>
+	<td align="center" colspan="4"><img src="spacer.gif" border="0" width="1" height="8" alt=""></td>
 </tr>
 </tbody></table>
 <table cellpadding="0" cellspacing="0" border="0" width="770">
 <tbody><tr>
-	<td class="footertext" valign="middle" align="right">We are registered in England as a charity. <a href="home-privacy-policy.htm" target="_blank">Our privacy statement</a>. <a href="http://foi.britishcouncil.org" target="_blank">Our Freedom of Information Publications Scheme</a>.</td>
+	<td width="11"><img src="spacer.gif" width="11" height="1"></td>
+	<td class="footertext" valign="middle" align="left">We are registered in England as a charity. Our <a href="home-privacy-policy.htm" target="_blank">privacy</a> and <a href="home-copyright-policy.htm" target="_blank">copyright</a> 
+statements.<br><a href="http://foi.britishcouncil.org" target="_blank">Our Freedom of Information Publications Scheme</a>.</td>
 	<td class="footertext" valign="middle" align="left"><img src="spacer.gif" width="10" height="1" border="0" alt=" "></td>
-	<td class="footertext" valign="middle" align="left"><a href="http://www.browsealoud.com/downloads.asp?dl=bl" target="_blank"><img src="structure-browsealoud.gif" width="79" height="23" alt="Download Browsealoud" border="0"></a></td>
+	<td class="footertext" valign="middle" align="right"><a href="http://www.browsealoud.com/downloads.asp?dl=bl" target="_blank"><img src="structure-browsealoud.gif" width="79" height="23" alt="Download Browsealoud" border="0"></a></td>
 </tr>
 </tbody></table>
 <table cellspacing="0" cellpadding="0" border="0" width="100%">
