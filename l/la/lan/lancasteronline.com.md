@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lancasteronline.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207011200id_/http%3A//www.lancasteronline.com/pages/lnp/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lancasteronline.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418023555id_/http%3A//www.lancasteronline.com/pages/lnp/privacy.htm) for the most accurate reproduction.*
 
 # Lancaster Online.com: Your Lancaster County News Source
 
