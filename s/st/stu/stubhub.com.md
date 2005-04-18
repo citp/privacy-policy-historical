@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the stubhub.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204035114id_/http%3A//www.stubhub.com%3FgSec%3Dhelp%26gAct%3Dgeneral%26helpSec%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stubhub.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418051759id_/http%3A//www.stubhub.com%3FgSec%3Dhelp%26gAct%3Dgeneral%26helpSec%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Sports tickets, concert, theater, & exclusive event tickets
 
   
-| | 
+|  | 
 
-[Home](https://web.archive.org/? "Home")  Help |  General Help  |  [Buyer's Handbook](https://web.archive.org/?gSec=help&gAct=buyers_handbook "Have questions about how to buy tickets or sell tickets? Click here for our buyer's handbook.") |  [Seller's Handbook](https://web.archive.org/?gSec=help&gAct=sellers_handbook "Have questions about how to buy tickets or sell tickets? Click here for our seller's handbook.") |  [Affiliate Program](https://web.archive.org/?gSec=help&gAct=affiliate "Have questions about how to buy tickets or sell tickets? Click here for our affiliate program.") |  [Other Help](https://web.archive.org/?gSec=help&gAct=other "Have questions about how to buy tickets or sell tickets? Click here for our other help.")  
----|---|---|---|---  
+[Home](https://web.archive.org/? "Home")  Help |  General Help  |  [Buyer's Handbook](https://web.archive.org/?gSec=help&gAct=buyers_handbook "Have questions about how to buy tickets or sell tickets? Click here for our buyer's handbook.") |  [Seller's Handbook](https://web.archive.org/?gSec=help&gAct=sellers_handbook "Have questions about how to buy tickets or sell tickets? Click here for our seller's handbook.") |  [Affiliate Program](https://web.archive.org/?gSec=help&gAct=affiliate "Have questions about how to buy tickets or sell tickets? Click here for our affiliate program.") |  [Corporate](https://web.archive.org/?gSec=help&gAct=corporate "Have questions about how to buy tickets or sell tickets? Click here for our corporate.") |  [Other Help](https://web.archive.org/?gSec=help&gAct=other "Have questions about how to buy tickets or sell tickets? Click here for our other help.")  
+---|---|---|---|---|---  
   
 [Contact Us](https://web.archive.org/?gSec=help&gAct=general&helpSec=contact_us "Contact Us") |  [About Us](https://web.archive.org/?gSec=help&gAct=general&helpSec=about_us "About Us") |  Privacy Policy  |  [User Agreement](https://web.archive.org/?gSec=help&gAct=general&helpSec=user_agreement "User Agreement")  
 ---|---|---|---  
