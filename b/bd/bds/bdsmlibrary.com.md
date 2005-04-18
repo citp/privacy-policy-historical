@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bdsmlibrary.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206045423id_/http%3A//www.bdsmlibrary.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdsmlibrary.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418045112id_/http%3A//www.bdsmlibrary.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
