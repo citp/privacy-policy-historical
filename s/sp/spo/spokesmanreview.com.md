@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spokesmanreview.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207052346id_/http%3A//www.spokesmanreview.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spokesmanreview.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418045848id_/http%3A//www.spokesmanreview.com/help/privacy.asp) for the most accurate reproduction.*
 
 # SpokesmanReview.com -- Privacy policy
 
@@ -35,5 +35,5 @@ If at any time you believe The Spokesman-Review.com has not adhered to these pri
 The Spokesman-Review.com is maintained by _The Spokesman-Review_ and owned by Cowles Publishing Company, 999 West Riverside Avenue, Spokane, WA 99201. 
 
 Spokane, Wash., Coeur d'Alene, Idaho and the Inland Northwest  
-©Copyright 2004, The Spokesman-Review  
+©Copyright 2005, The Spokesman-Review  
 
