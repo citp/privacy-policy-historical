@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capcom.com privacy policy that was archived on 2004-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041214014011id_/http%3A//www.capcom.com/legal.xpml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capcom.com privacy policy that was archived on 2005-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050419024248id_/http%3A//www.capcom.com/legal.xpml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,7 +42,7 @@ Whenever you visit a website that displays the ESRB Privacy Online certification
 
 This Privacy Policy currently applies to the following website operated by Capcom: 
 
-[www.capcom.com/games_main.xpml](http://www.capcom.com/games_main.xpml)
+[ www.capcom.com/games_main.xpml](http://www.capcom.com/games_main.xpml)
 
 In addition, Capcom may own several other domain names that point to the website listed above.  From time to time, we may add new sites and will take reasonable steps to update the list. 
 
@@ -110,4 +110,4 @@ You can also contact ESRB Privacy Online directly at [www.esrb.org](http://www.e
 
 _By using a website operated by Capcom_ _USA_ _,_ _you signify your assent to Capcom_ _USA_ _'s Online Privacy Policy.   If you do not agree to this Privacy Policy, please do not use this site.  We reserve the right to make changes to this Privacy Policy.  Please check back from time to time to ensure that you aware of these changes.  Your continued use of this site will signify your acceptance of these changes.  If we make a material change to this Privacy Policy, we will notify you by posting the change on this website or in this Privacy Policy, and if necessary, give you additional choices regarding such change._
 
-Updated 5/17/04
+Updated 3/28/05
