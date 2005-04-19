@@ -1,45 +1,33 @@
-> *The following text is extracted and transformed from the incentaclick.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009190259id_/http%3A//incentaclick.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incentaclick.com privacy policy that was archived on 2005-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050420001830id_/http%3A//www.incentaclick.com/privacy.php) for the most accurate reproduction.*
 
-# The Leadhound Network
+# Incent-a-Click
 
-### Privacy Policy
+**Incent A Click** is committed to earning your trust and confidence. To better protect privacy, we provide this notice explaining our online technology and information collection practices. 
 
-IncentAClick has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: http://www.incentaclick.com 
+We endeavor to safeguard and protect our Users' information. The privacy of your personal information is very important to us. The servers that we store personally identifiable information in are kept in a secure physical environment. **Incent A Click** has security measures in place to protect the loss, misuse, and alteration of personal information under our control. Please be advised that, although we take reasonable technological precaution available to protect your data, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, **Incent A Click** cannot warrant that your information will be absolutely secure. Any transmission of data at or through our Websites is at your own risk. However, access to your information is strictly limited, and not accessible to the public. Our employees are dedicated to ensuring the security and privacy of all Incent A Click user information. Users under eighteen (18) years of age are not allowed to participate promotions offered by **Incent A Click**. No information should be submitted to, or posted at, any **Incent A Click** website property by visitors under eighteen (18) years of age without the prior consent of their parent or guardian. Notwithstanding the foregoing, children thirteen (13) years of age and younger are not permitted to access the Website and we do not knowingly collect personal information from such children. We encourage parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children.
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. 
+The personal information that is collected on the **Incent A Click** website is only used to contact you in regards to inquires made by you at the time of your request. Personal information is not stored nor distributed in any other manner. If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
 
-Our site uses cookies to make sure you don't see the same ad repeatedly, and to track leads. 
+Advertisers using the **Incent A Click** Network may collect personally identifiable information explicitly provided by consumers for purposes including the purchase of goods and services, order shipment, and sweepstakes entry. Personally identifiable information collected by Advertisers using the **Incent A Click** Network is subject to the privacy policies of the individual advertisers.
 
-Our site's registration form requires users to give us contact information, unique identifiers, The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used for other purposes. Unique identifiers (such as social security numbers) are collected for use as account numbers in our record system. 
+**Incent A Click** may employ "cookies" to help customize your access to the Website. A cookie is a piece of data stored on your hard drive containing information about you. Cookies have many benefits to enhance your experience at our Website. For instance, by setting a cookie on our Website, a User would not have to log in a password more than once, thereby saving time while on our Website. Even in the case where a User rejects a cookie, they may still use our Website. The only drawback to this is that the User will be limited in what he/she can access in some areas on our Website, much like visitor-level access
 
-This site contains links to other sites. **http://www.incentaclick.com** is not responsible for the privacy practices or the content of such Web sites. 
+We occasionally use cookies to anonymously track and target the interests of our Users to further enhance the experience on our Website or for advertising tracking purposes. To find out more about cookies, please visit <http://www.cookiecentral.com/c_concept.htm>.
 
-**Security  
-**This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Your account is protected by a unique user name, and password.
+Advertisements delivered by Incent A Click may let you gain access to other sites. The linked sites are not under the control of **Incent A Click**. **Incent A Click** does not assume any responsibility or liability for the actions, products, services and content of linked sites. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
 
-**Choice/Opt-Out  
-**Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
+**Incent A Click** reserves the right to release current or past User information in the event that **Incent A Click** believes that the User is using, or has used, Services of **Incent A Click** in violation of the terms and conditions, to commit unlawful acts, if the information is subpoenaed, if Incent A Click is sold or acquired, or when **Incent A Click** deems it necessary or appropriate including, without limitation, sharing your e-mail address with other third-parties for suppression purposes in compliance with the CAN-SPAM Act of 2003, as amended from time to time, and Federal Trade Commission enabling regulations. 
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
+In addition, by registering at the Website, you agree that such act constitutes an inquiry and/or application for purposes of the Amended Telemarketing Sales Rule (16 CFR §310 et seq.), as amended from time to time (the “Rule”). Notwithstanding that your telephone number may be listed at the Federal Trade Commission’s Do-Not-Call List, we retain the right to contact you via telemarketing in accordance with the Rule. 
 
-  * You can Editing your account details
+All Publishers who are approved by the **Incent A Click** Network must comply with the Federal Can-Spam Public Law 108-107 of 2003 (the "Can-Spam Act")
 
+**Incent A Click** does not endorse, nor is **Incent A Click** responsible for the accuracy of, the privacy policies and/or terms and conditions of each of the advertisers and/or third parties accessible through the **Incent A Click** website. The entities which advertise and/or place banner ads on the **Incent A Click** website properties are independent third parties and not affiliated with **Incent A Click**.
 
+By using this site, including, without limitation, signing up for offers and/or continuing to receive information from **Incent A Click** , you agree to the **Incent A Click** Privacy Policy. We reserve the right, at our discretion, to change, modify, add, and/or remove portions of this Privacy Policy at any time. All Privacy Policy changes will take effect immediately upon their posting on the **Incent A Click** website. Please check this page periodically for changes. Your continued use of the **Incent A Click** website or acceptance of our emails following the posting of changes to these terms will mean that you accept these changes and agree to continue receiving emails from us. If you have any questions about this Privacy Policy, please contact us by at
 
-Correct/Update
+**Incent A Click Media Group LLC**  
+Sunroad Corporate Centre  
+4445 Eastgate Mall, 2nd Floor  
+San Diego, 92121 USA   
 
-This site gives users the following options for changing and modifying information previously provided. 
-
-  * You can Log into the members area and edit your information
-
-
-
-**Contacting the Web Site**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
-
-Mike  
-Incent a Click  
-Street adr.  
-Toronto, ON 12345[  
-support@zerohosting.com](mailto:support@zerohosting.com) 
