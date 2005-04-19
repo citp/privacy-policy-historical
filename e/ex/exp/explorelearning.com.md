@@ -1,23 +1,23 @@
-> *The following text is extracted and transformed from the explorelearning.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209233454id_/http%3A//www.explorelearning.com/index.cfm%3Fmethod%3DController.dspPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explorelearning.com privacy policy that was archived on 2005-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050419052216id_/http%3A//www.explorelearning.com/index.cfm%3Fmethod%3DController.dspPrivacy%26CFID%3D1003843%26CFTOKEN%3D16307344) for the most accurate reproduction.*
 
 # Privacy Policy | ExploreLearning
 
-This privacy policy covers the site http://www.explorelearning.com. Because we want to demonstrate our commitment to our users’ privacy, we disclose the following information. 
+We are committed to our users’ privacy. This privacy policy covers the site http://www.explorelearning.com and contains the following information: 
 
-  1. What personally identifiable information ExploreLearning collects. 
-  2. What personally identifiable information third parties collect through the Web site. 
-  3. What organization collects the information. 
+  1. The personally identifiable information (PIN) ExploreLearning collects. 
+  2. The PIN that third parties collect through the ExploreLearning web site. 
+  3. The name(s) of organization(s) collecting the information. 
   4. How ExploreLearning uses the information. 
-  5. With whom ExploreLearning may share user information. 
-  6. What choices are available to users regarding collection, use and distribution of the information. 
-  7. What types of security procedures are in place to protect the loss, misuse or alteration of information under ExploreLearning control. 
-  8. How users can correct any inaccuracies in the information. 
+  5. Entities with whom ExploreLearning may share PIN. 
+  6. The choices available to users regarding collection, use and distribution of PIN. 
+  7. The security procedures in place to protect the loss, misuse or alteration of PIN under ExploreLearning control. 
+  8. Ways that users can correct any inaccuracies in their PIN. 
 
 
 
 ## Information Collection and Use 
 
-ExploreLearning is the sole owner of the infomation collected on our web site. ExploreLearning collects information at several different points on our Web site. 
+ExploreLearning collects information at several different points on the ExploreLearning web site and is the sole owner of all infomation that is collected. 
 
 We generally use the aggregate data we collect to evaluate the extent to which the ExploreLearning websites continue to be useful and relevant to our members and the general public. For example, we may perform statistical analyses of the collective characteristics and behavior of our members and visitors, to measure overall user demographics and interests regarding specific areas of the ExploreLearning domain and to analyze how and where to use our resources. A user must provide the clickstream information (internet protocol address, internet service provider, platform type, date/time stamp, operating system), http protocol information (last uri requested and browser type), interaction information (browser interaction such as when the mouse moves over an image), navigation and click-stream data (passive activity such as pages visited), unique identifiers (login id or other id), interactive data (account activity and searches performed), navigation and click-stream data (passive activity such as pages visited), online contact information (email address), unique identifiers (login id or other id), search terms (search text), transaction information (account transactions), user's name, user's login information, user's employer, organization department user is employed, user's job title, business/organization name and department/division of business/organization. It is optional for the user to provide User's Name, User's Login Information, User's Employer, Organization Department User is Employed, User's Job Title, Business/Organization Name and Department/Division of Business/Organization. We encourage users to provide optional information so we can provide a more personalized experience on our site. The reason we use this information is to complete the current transaction, contact by email or regular mail, enhance our site and product offerings, maintain and secure our site and understand (in aggregate) interests of website visitors. We retain this information as stated by our business practices. When users have data collected for the purpose of contacting by email or regular mail, they are given the opportunity to opt-out of information collected (Please see our Choice and Opt-out section). 
 
@@ -57,9 +57,12 @@ Aggregate information is not shared with any third parties.
 
 ## Choice/Opt-out 
 
-Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for information. 
+When our web site originates email, our users are given the opportunity to 'opt-out' of these communications by one of 2 methods:
 
-When our web site originates email, users can opt-out of these communications by replying to unsubscribe in the subject line in the email or by emailing us at [info@explorelearning.com](mailto:info@explorelearning.com). 
+  1. following the unsubscribe link located near the bottom of every email they receive, or
+  2. by emailing us at [support@explorelearning.com](mailto:support@explorelearning.com?subject=SUPPORT%20--%20Privacy%20Policy "send an email") from the email address they wish to be unsubscribed. 
+
+
 
 ## Data Security 
 
@@ -95,10 +98,10 @@ P.O. Box 2185
 Charlottesville, VA 22902   
 USA 
 
-E-mail: [info@explorelearning.com](mailto:info@explorelearning.com)
+E-mail: [support@explorelearning.com](mailto:support@explorelearning.com?subject=SUPPORT%20--%20Privacy%20Policy "send an email")
 
 Phone: 434-293-7043 
 
 ## Resolving Privacy Policy Disputes
 
-If you think we have not followed our privacy policy in some way, please contact us at [support@explorelearning](mailto:support@explorelearning "We will attempt to resolve the dispute.") for resolution. 
+If you think we have not followed our privacy policy in some way, please contact us at for resolution. 
