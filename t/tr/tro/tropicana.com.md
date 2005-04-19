@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tropicana.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207213226id_/http%3A//www.tropicana.com/index.asp%3FID%3D126) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tropicana.com privacy policy that was archived on 2005-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050419075844id_/http%3A//www.tropicana.com/index.asp%3FID%3D126) for the most accurate reproduction.*
 
 # Tropicana.com
 
@@ -56,7 +56,7 @@ We may release your Personal Information if required to do so by law, or by sear
 **Manage Your Personal Information; Unsubscribe**  
 You are ultimately in control of the Personal Information that we collect and use. We want to keep your data complete, up to date and accurate. Tropicana provides its users with the following options to manage their Personal Information that is in reasonably retrievable form in our database: 
 
-  * Send us an email: Go to the [Contact Us](https://web.archive.org/web/20041207213226id_/http%3A//www.tropicana.com/index.asp?ID=113) page of the web site and send us an email. Be sure to include your name, username and clear instructions regarding any change to your Personal Information or if you would like us to unsubscribe you from our database.   
+  * Send us an email: Go to the [Contact Us](https://web.archive.org/web/20050419075844id_/http%3A//www.tropicana.com/index.asp?ID=113) page of the web site and send us an email. Be sure to include your name, username and clear instructions regarding any change to your Personal Information or if you would like us to unsubscribe you from our database.   
 
   * Send us mail or call us: Send us your request via the mail. Be sure to include your name, username and clear instructions regarding any change to your Personal Information or if you would like us to unsubscribe you from our database. Send to: Tropicana Products, Inc., P. O. Box 049003, Chicago, IL 60604-9003, or call us at 1(800) 237-7799. 
 
