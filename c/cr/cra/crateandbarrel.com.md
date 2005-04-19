@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crateandbarrel.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210161215id_/http%3A//www.crateandbarrel.com/assistance/privacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crateandbarrel.com privacy policy that was archived on 2005-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050419080717id_/http%3A//www.crateandbarrel.com/assistance/privacyPolicy.asp) for the most accurate reproduction.*
 
 # Crate and Barrel: Assistance
 
