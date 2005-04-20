@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the king5.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204102554id_/http%3A//www.king5.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the king5.com privacy policy that was archived on 2005-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050420153335id_/http%3A//www.king5.com/registration/privacy.html) for the most accurate reproduction.*
 
 # KING5.com | News for Seattle, Washington | Privacy Policy
 
@@ -129,6 +129,6 @@ This text is invisible on the page, but this text is affected by the invisible i
 
 | 
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.king5.com/news/aboutus/506505586/Position4/default/empty.gif/7a2f4868396c347a7a4a5141417a556c?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.king5.com/news/aboutus/2050846132/Position4/default/empty.gif/7a2f4868396c347936444d4141533334?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.king5.com/news/aboutus/493548770/Position5/default/empty.gif/7a2f4868396c347a7a4a5141417a556c?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.king5.com/news/aboutus/1326479925/Position5/default/empty.gif/7a2f4868396c347936444d4141533334?x)
