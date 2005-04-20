@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalmagic.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205231556id_/http%3A//www.globalmagic.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalmagic.com privacy policy that was archived on 2005-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050420160055id_/http%3A//www.globalmagic.com/privacy.html) for the most accurate reproduction.*
 
 # GLOBALMAGIC INTERNET SOLUTIONS
 
