@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlive.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204074909id_/http%3A//www.mlive.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlive.com privacy policy that was archived on 2005-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050420234036id_/http%3A//www.mlive.com/privacypolicy) for the most accurate reproduction.*
 
 # MLive.com: Privacy Policy
 
@@ -70,7 +70,9 @@ Ann Arbor, MI 48104
   
 [](https://web.archive.org/sendthispage/sendthispage.ssf) |  |    
   
-[](http://ads9.udc.advance.net/RealMedia/ads/click_lx.ads/www.mlive.com/privacypolicy/index.ssf/NQS/1467306555/SkyScraper/MICHIGANLIVE/MI_BESTGOLF03/bestgolf04_190x120.gif/64316564656562303431623136626530)  
+  
+| **FROM OUR ADVERTISERS**  
+---  
   
   
 
