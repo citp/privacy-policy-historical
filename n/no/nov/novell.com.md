@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novell.com privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223205825id_/http%3A//www.novell.com/company/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novell.com privacy policy that was archived on 2005-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050420074122id_/http%3A//www.novell.com/company/policies/privacy) for the most accurate reproduction.*
 
 # NOVELL: Privacy Policy
 
@@ -9,7 +9,7 @@ Effective on: 11 Aug 2004
 
 We at Novell value the relationship we have with our customers and web site visitors, and are committed to responsible information handling practices. We take the privacy of our customers very seriously and want you to feel comfortable whenever you visit our web sites, access our online services, or participate in our online offerings. Although our web sites have unique services and offerings, they share a similar privacy philosophy. Therefore, we drafted this corporate online privacy policy to represent Novell's general privacy approach to the information practices of our web sites. In addition to this privacy policy, you can find specific web site privacy statements that provide more detailed information about the web site data handling practices-see links below:
 
-  * [novell.com privacy statement](https://web.archive.org/web/20041223205825id_/http://www.novell.com/company/policies/privacy/privacy_statement.html)
+  * [novell.com privacy statement](https://web.archive.org/web/20050420074122id_/http://www.novell.com/company/policies/privacy/privacy_statement.html)
   * [digitalme privacy statement](http://www.digitalme.com/Privacy_Information/Privacy_Policy/)
   * [myrealbox.com privacy statement](http://www.myrealbox.com/)
 
