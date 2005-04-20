@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icicilombard.com privacy policy that was archived on 2004-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041215104212id_/http%3A//www.icicilombard.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icicilombard.com privacy policy that was archived on 2005-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050420082003id_/http%3A//www.icicilombard.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # ICICI Lombard - Privacy Policy
 
@@ -8,7 +8,7 @@
   
 |  |    | 
 
-This statement is effective as on: 3rd November 2004
+This statement is effective as on: 6th November 2004
 
 |  [](http://www.truste.org/ivalidate.php?url=www.icicilombard.com&sealid=101)  
 ---|---  
