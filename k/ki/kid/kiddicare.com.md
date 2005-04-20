@@ -1,49 +1,42 @@
-> *The following text is extracted and transformed from the kiddicare.com privacy policy that was archived on 2001-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011021101249id_/http%3A//kiddicare.com/Kiddicare_privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiddicare.com privacy policy that was archived on 2005-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050420030226id_/http%3A//www.kiddicare.com/page/security) for the most accurate reproduction.*
 
-# Kiddicare Superstore -Kiddicare.com Privacy Statement
+# Kiddicare - Security and Privacy
 
-Getting in touch...
+### Privacy & Security @kiddicare.com
 
-If you would like to contact us:
+Kiddicare.com is committed to protecting your privacy. We will only use information given at the time of ordering or when making an enquiry by whatever means is collected lawfully and in accordance with the Data Protection Act 1998. 
 
-Phone  
-[ 01733 579175](https://web.archive.org/web/20011021101249id_/http%3A//kiddicare.com/instore/storeinfo.htm)
+We do not pass your personal information onto third parties.
 
-Ordering Online  
-Your order information will be processed using high security shopping trolley software.
+We use the personal data that you directly provide to administer your Kiddicare.com account, to supply you with the products you chose and to maintain records. By buying products online you consent to the collection and processing of your personal data.
 
-|  | 
+All transactions that you initiate with Kiddicare.com on this web site are confidential. Your name will not be added to any third party mailing lists.
 
-Privacy Statement  
-**kiddicare.com is committed to safeguarding your privacy online.**  
-  
----  
-  
-**  
-**   
-**_What personal information does kiddicare.com collect from me?_** During Product Purchase, kiddicare.com asks you for, your name, telephone number, fax number, email address, address, how long have you lived at your address, special delivery instructions, How did you locate our site?, Have you found our site easy to use?, For Security, Please Give Your Mothers Maiden Name, Enter Last 3 Number's Printed On Signature Strip. Some of this information is a mandatory requirement during Purchase the more additional information you volunteer, the better we are able to improve our website. 
+We collect information about you for two main reasons: 
 
-In addition, we may keep copies of information you submit when you send email feedback to the site, ask a question, or report a problem. If you contact Kiddicare.com in writing we may keep a record of that correspondence. 
+  * To process your online order. 
+  * To provide you with the most efficient possible service. 
 
-_**What are cookies and how does kiddicare.com use them?**   
-_
 
-When making a purchase your browser may alert you to the fact that a cookie is being sent to your PC,  Cookies are used only to keep track of the contents of your shopping cart once you have selected an item.
 
-  
-_**How does kiddicare.com use my information?** _
+The information collected will be used to personally keep in touch and let you know of any offers, sales or promotions that Kiddicare.com are carrying out (if you have selected to receive these emails/newsletters via the my account feature).
 
-kiddicare.com only uses information given to  dispatch your chosen goods and improve our website.
+### Conditions of Use
 
-_**Does kiddicare.com share my information with any other parties?**_
+Kiddicare.com may revise these terms and conditions at any. Users should check these terms and conditions periodically. Entering the web site will constitute your acceptance of these terms and conditions, including recent changes, whether or not you chose to review these changes.
 
-Any information collected about you via the Kiddicare.com web site will only ever be used within kiddicare.com we never sell, rent, or give away information to third parties. kiddicare.com may also disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) kiddicare.com rights or property, or anyone else that could be harmed by such activities. In addition, kiddicare.com may disclose user information when we believe in good faith that the law requires it.
+### Cookies
 
-_**Just a note on the Privacy Statement Secpay our real time Payment Processing of Card Transactions**_
+"Cookies" are small encrypted data files (containing references to user information supplied by the user and stored on our servers) that may write to a user's computer hard drive upon accessing a web site. Kiddicare.com use cookies to enhance a user's shopping experience. 
 
-|  SECPay, in its capacity as processor of transactions on behalf of their many merchants, may from time to time be required to store personal information regarding individuals and organisations as part of the service that it provides to its customers (the merchants). SECPay will not use this information for any purpose, other that for which it was intended i.e. the securing and processing of card transactions, and will not be deliberately passed to any third party not having a predetermined interest in this information. All employees of SECPay have undertaken a confidentiality agreement which precludes the disclosure of personal information to third parties.
+Cookies are used to keep track of a user's shopping cart status and movement through the site. Kiddicare.com also employs persistent cookies to save a user's credit card information upon their request. This will be done automatically unless you check the box where it says 'Please do not save payment details for my next order more information' at Part 4 of the Checkout. We recommend using this option on a public computer system. Most web browsers automatically accept cookies, but if you do not want to accept a cookie, you can set your browser to deny it.
 
-All card details are always stored in encrypted format and never held in clear format on any storage mechanisms on the company computer systems.  
-  
----  
-  |  
+### Trademarks / Copyrights / Restrictions
+
+This Web site and all materials on it, including, but not limited to, images, video clips are the sole property of kiddicare.com and are protected from unauthorised copying and dissemination by copyrights law, trademark law. You may not reproduce, republish, upload, post, transmit, or distribute in any way whatsoever any materials from www.kiddicare.com, or any other web site owned or operated by Kiddicare group of companies without the prior written permission of kiddicare.com. 
+
+### Website Security
+
+When you register details with us, make an order or access account details, we use a secure server. Any data you give us is encrypted using a 'Secure Socket Layer' (SSL) session. SSL is an industry standard and is one of the best ways to ensure Internet messages are not intercepted. 
+
+When using a secure connection a small padlock will be displayed in the bottom right hand corner of your browser. Please look for the padlock when you are transferring any of your personal details over the internet. 
