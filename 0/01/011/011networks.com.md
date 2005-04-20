@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 011networks.com privacy policy that was archived on 2004-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041216093840id_/http%3A//www.011networks.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 011networks.com privacy policy that was archived on 2005-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050420103127id_/http%3A//www.011networks.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -66,4 +66,4 @@ Pacific, MO  63036
 
 Copyright 2004 - 011 Networks  
 
-**[Home](https://web.archive.org/web/20041216093840id_/http%3A//www.011networks.com/index.htm)**
+**[Home](https://web.archive.org/web/20050420103127id_/http%3A//www.011networks.com/index.htm)**
