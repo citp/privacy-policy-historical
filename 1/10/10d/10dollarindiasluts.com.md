@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 10dollarindiasluts.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209221135id_/http%3A//www.10dollarindiasluts.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 10dollarindiasluts.com privacy policy that was archived on 2005-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050420052420id_/http%3A//www.10dollarindiasluts.com/privacypolicy.html) for the most accurate reproduction.*
 
-# 10 Dollar Indian Sluts
+# 10 Dollar India Sluts - Join these indian paysite for only 10 bucks a month, and get over 25 Gb of Movies.
 
 **Our Commitment To Privacy:**
 
