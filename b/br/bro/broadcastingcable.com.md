@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadcastingcable.com privacy policy that was archived on 2004-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041014011700id_/http%3A//www.broadcastingcable.com/index.asp%3Flayout%3Dcontentinfodetail%26articleid%3DCA319082) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadcastingcable.com privacy policy that was archived on 2005-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050421073720id_/http%3A//www.broadcastingcable.com/index.asp%3Flayout%3Dcontentinfodetail%26articleid%3DCA319082) for the most accurate reproduction.*
 
 # Broadcasting & Cable: The Business of Television
 
