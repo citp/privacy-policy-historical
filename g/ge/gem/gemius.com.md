@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gemius.com privacy policy that was archived on 2004-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040919152942id_/http%3A//www.gemius.com/English/sub.php%3Fid%3Dpolityka) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemius.com privacy policy that was archived on 2005-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050421130033id_/http%3A//www.gemius.com/English/sub.php%3Fid%3Dpolityka) for the most accurate reproduction.*
 
 # Gemius SA - Leader in Online Research
 
@@ -8,7 +8,7 @@ Gemius S.A. is aware and dedicated to protecting the privacy of Internet users v
 
   1. Gemius S.A. does **not** collect any personal or personally-identifiable data about Internet users without that user's explicit permission. Name, gender, age, address, etc. all remain anonymous. Technical data is gathered about the user's computer, but this only includes: operating system, browser type, screen resolution and geographic location on the basis of IP address. 
   2. Gemius S.A. does **not** integrate data gathered during research with any external databases containing personally-identifiable data. 
-  3. Gemius S.A. assigns cookies to Internet users visiting client web sites. These cookies are used to differentiate between individual Internet users and to differentiate between new and returning users. Cookies contain an encrypted identifier. 
+  3. Researches conducted by Gemius make use of the cookie technology. The cookie contains only a randomly generated set of characters. Thanks to the cookie mechanism it is possible to: identify the web browsers used by internet users, differentiate the first-time and returning visitors (cookies), group subsequent page views into a visit, rank operating systems etc. If you do not agree to identify traffic from your browser - [click here](http://optout.hit.gemius.pl/removeEN.php). 
 
 
 
