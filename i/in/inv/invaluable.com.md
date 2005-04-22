@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invaluable.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206213856id_/http%3A//www.invaluable.com/about/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invaluable.com privacy policy that was archived on 2005-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050422061321id_/http%3A//www.invaluable.com/about/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Invaluable > About Invaluable > Privacy Policy
 
@@ -14,7 +14,7 @@ At Invaluable, we believe strongly in protecting consumer privacy. This statemen
 
 
 
-If you have questions or concerns regarding this statement, you should contact Invaluable's customer service department at [register@invaluable.com](mailto:register@invaluable.com). 
+If you have questions or concerns regarding this statement, you should contact Invaluable's customer service department at [customer.services@invaluable.com](mailto:customer.services@invaluable.com). 
 
 #### 1\. What information do we gather and track, and what do we do with it? 
 
@@ -88,8 +88,8 @@ Invaluable provides you with the opportunity to opt-out of receiving communicati
 
 Invaluable provides the following options for telling us about your preferences, for example that you do not want to receive email from us: 
 
-  * You can email us at [register@invaluable.com](mailto:register@invaluable.com)
-  * You can send a letter to us at the following postal address: Invaluable Ltd., Mill Court, Furrlongs, Newport, Isle of Wight, PO30 2AA , United Kingdom. 
+  * You can email us at [customer.services@invaluable.com](mailto:customer.services@invaluable.com)
+  * You can send a letter to us at the following postal address: Invaluable Ltd, Ground Floor, 34 Medina Road, Cowes, Isle of Wight, PO31 7DA, United Kingdom. 
   * You can call the following telephone number: +44 0800 018 0209, or +44 01983 826 000 or fax us at +44 01983 826 206. 
 
 
@@ -100,9 +100,9 @@ Removal requests will be made within 10 working days of the request.
 
 Invaluable provides the following options for changing and updating information you have previously provided to us: 
 
-  * You can email us at [register@invaluable.com](mailto:register@invaluable.com)
-  * You can send a letter to us at the following postal address: Invaluable Ltd., Mill Court, Furrlongs, Newport, Isle of Wight, England PO30 2AA 
-  * You can call us on the following telephone number: +44 0800 018 0209, or +44 01983 826 000 or fax us at +44 01983 826 206.
+  * You can email us at [customer.services@invaluable.com](mailto:customer.services@invaluable.com)
+  * You can send a letter to us at the following postal address: Invaluable Ltd, Ground Floor, 34 Medina Road, Cowes, Isle of Wight, PO31 7DA, United Kingdom. 
+  * You can call us on the following telephone number: 0800 376 8592, or 00 44 01983 281155 or fax us at 00 44 1983 284648.
 
 
 
@@ -112,7 +112,7 @@ Change requests will be made within 10 working days of your request.
 
 This web site is operated by Invaluable Group Limited a company registered in England and Wales (registered number 2374256) whose registered office is at: Invaluable Ltd., The Mews, 1a Birkenhead Street, London, WC1H 8BA.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with Invaluable, you can contact Invaluable by email at [register@invaluable.com](mailto:register@invaluable.com) or write to us at Invaluable Ltd., Mill Court, Furrlongs, Newport, Isle of Wight, PO30 2AA, United Kingdom. You may also use this address if you wish to request from Invaluable a copy of the personal data we hold about you or a description of that data. Please note that by English law we are entitled to charge you a small sum for providing this information. 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with Invaluable, you can contact Invaluable by email at [customer.services@invaluable.com](mailto:customer.services@invaluable.com) or write to us at Invaluable Ltd., Ground Floor, 34 Medina Road, Cowes, Isle of Wight, PO31 7DA, United Kingdom. You may also use this address if you wish to request from Invaluable a copy of the personal data we hold about you or a description of that data. Please note that by English law we are entitled to charge you a small sum for providing this information. 
 
 #### 8\. Data Protection Act Registration
 
