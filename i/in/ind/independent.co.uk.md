@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the independent.co.uk privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208085033id_/http%3A//www.independent.co.uk/story.jsp%3Fstory%3D55090) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independent.co.uk privacy policy that was archived on 2005-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050422203401id_/http%3A//www.independent.co.uk/story.jsp%3Fstory%3D55090) for the most accurate reproduction.*
 
 # Independent
 
   
 |   | 
-
-Privacy Policy
 
 Please read this carefully
 
@@ -15,7 +13,7 @@ Before using the Website (that is, any site operated by **Independent News & Med
 
 **The basic principles**
 
-By accessing and using the Website you are agreeing to be legally bound by the [**Terms of Use**](https://web.archive.org/web/20041208085033id_/http%3A//www.independent.co.uk/story.jsp?story=55087) and this Privacy Policy. You should therefore also read the Terms of Use before using the Website. 
+By accessing and using the Website you are agreeing to be legally bound by the [**Terms of Use**](https://web.archive.org/web/20050422203401id_/http%3A//www.independent.co.uk/story.jsp?story=55087) and this Privacy Policy. You should therefore also read the Terms of Use before using the Website. 
 
 ID is determined to protect your privacy. It is very important to us that you should be able to use and enjoy the Website without having to compromise your privacy unacceptably. 
 
@@ -79,3 +77,6 @@ If you want further information, or wish to communicate with us about this Priva
 |   | 
 
 31 January 2020 04:54
+
+|   
+---
