@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the chicagotribune.com privacy policy that was archived on 2004-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041231020807id_/http%3A//www.chicagotribune.com/services/site/chi-privacy.story) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagotribune.com privacy policy that was archived on 2005-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050422235240id_/http%3A//www.chicagotribune.com/services/site/chi-privacy%2C0%2C4121982.story) for the most accurate reproduction.*
 
 # Chicago Tribune | Privacy policy
-
-|    
-[chicagotribune.com](https://web.archive.org/) >> [Services](https://web.archive.org/services) Privacy policy  
-Last updated July 2003
 
 Chicagotribune.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. Please note this policy applies only to information collected by chicagotribune.com online and does not impact information collected or used by chicagotribune.com or its affiliates through other means.
 
@@ -59,11 +55,3 @@ Chicagotribune.com reserves the right to change this policy at any time. Please 
 This policy and the use of this Site are governed by Illinois law. Any claim related to the Site or this policy shall be brought in a federal or state court in Chicago, Illinois, within one year after the claim arises. You agree no such claim may be brought as a class action. Users of Chicagotribune.com consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. Chicagotribune.com is controlled, operated and administered entirely within the United States. If you are located outside the United States, please note the information you provide to us will be transferred to the United States. You hereby consent to this transfer.
 
 In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall control. 
-
-Copyright © 2004, [Chicago Tribune](https://web.archive.org/)
-
-  
-  
-  
-|   
----|---|---
