@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the iht.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206194849id_/http%3A//iht.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iht.com privacy policy that was archived on 2005-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050422175740id_/http%3A//www.iht.com/info/privacy.html) for the most accurate reproduction.*
 
-# IHT: Privacy Statement
-
-  
-  | 
+# International Herald Tribune > Privacy & Cookies
 
 The International Herald Tribune takes your online privacy very seriously. Therefore, unless you explicitly state otherwise, or we explicitly state otherwise, any data that we collect as a result of your use of the site remains confidential.
 
@@ -12,8 +9,6 @@ Why do we collect ANY data on our users? Like many web sites, we collect non-per
   * to analyze our traffic patterns
   * to target advertisements
   * to personalize our service for individuals or groups of users
-
-
 
 In this statement, we let you know all of the ways that we collect data on our users, and how we use that data. If you have any questions or concerns, please e-mail us at [webhelp@iht.com](mailto:webhelp@iht.com).
 
@@ -39,7 +34,7 @@ Please note that, as with most other major sites, sometimes ads being viewed on 
 
 For more information about DoubleClick's use of cookies, and to "opt-out" of its cookies, visit [http://www.privacychoices.org](http://www.privacychoices.org/)
 
-**Newsletters**
+|  |  |  |  **Newsletters**
 
 If a user wishes to subscribe to any of our newsletters, we ask for some basic demographic information. We use this information to learn more about what kind of person is using our site, and we share that information-again, only in the aggregate-with our advertisers, partners and potential partners. In the future, we may use the demographic information that we gather to send you iht.com content that may be of special interest to you; for example, to our subscribers in Japan, we may let you know about special features we have on the subject of Japan.
 
@@ -66,5 +61,3 @@ For those iht.com users who have registered for any of our special services, we 
 **Links**
 
 This web site contains links to other sites. Please be aware that the IHT is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this site. 
-
-|   | 
