@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the topix.net privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207031203id_/http%3A//www.topix.net/topix/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topix.net privacy policy that was archived on 2005-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050422174019id_/http%3A//www.topix.net/topix/privacy) for the most accurate reproduction.*
 
 # Topix.net's Privacy Policy
 
 | 
 
+  * [All Channels](https://web.archive.org/dir)
   * [Front Page](https://web.archive.org/)
   * [Local4](https://web.archive.org/city/list)
     * [Find your City](https://web.archive.org/city/list)
     * [Chicago, IL](https://web.archive.org/city/chicago-il)
     * [Atlanta, GA](https://web.archive.org/city/atlanta-ga)
     * [Palo Alto, CA](https://web.archive.org/city/palo-alto-ca)
-  * [Autos](https://web.archive.org/autos)
   * [Health](https://web.archive.org/health)
   * [Gadgets](https://web.archive.org/gadgets)
   * [Business](https://web.archive.org/business)
@@ -21,6 +21,15 @@
   * [Sci/Tech](https://web.archive.org/tech)
   * [Sports](https://web.archive.org/sports)
   * [Offbeat](https://web.archive.org/news/weird)
+  * [Recent Pages4](https://web.archive.org/music)
+    * [RECENT PAGES MAIN](https://web.archive.org/music)
+    * [Music](https://web.archive.org/music)
+    * [Sports](https://web.archive.org/sports)
+    * [Entertainment](https://web.archive.org/entertainment)
+    * [Business News](https://web.archive.org/business)
+    * [Life](https://web.archive.org/life)
+    * [World News](https://web.archive.org/world)
+    * [Health](https://web.archive.org/health)
 
 |  | 
 
@@ -54,4 +63,4 @@ By using the Topix.net Services and our web site, you consent to the collection 
 
 Feel free to contact us any time and we'll answer any additional questions you may have. Our email address is [help@Topix.net.](mailto:help@Topix.net)
 
-elapsed time: 0.003 seconds
+elapsed time: 0.002 seconds
