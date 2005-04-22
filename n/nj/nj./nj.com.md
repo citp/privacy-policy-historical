@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nj.com privacy policy that was archived on 2004-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041230092604id_/http%3A//www.nj.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nj.com privacy policy that was archived on 2005-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050423003942id_/http%3A//www.nj.com/privacypolicy) for the most accurate reproduction.*
 
 # NJ.com: Privacy Policy
 
@@ -64,7 +64,7 @@ Privacy Policy Coordinator
 Jersey City, NJ 07306 
 
 |  |    
-[](http://ads2.udc.advance.net/RealMedia/ads/click_lx.ads/www.nj.com/privacypolicy/index.ssf/NQS/2142420691/SponsorRight/default/empty.gif/64316564656562353431643363396130)   
+  
 INSIDE  
 [**About Us**](https://web.archive.org/aboutus/)  
 » [Media Kit](https://web.archive.org/mediakit/)  
@@ -74,6 +74,6 @@ INSIDE
 [](https://web.archive.org/sendthispage/sendthispage.ssf) |  |    
   
   
-[](http://ads2.udc.advance.net/RealMedia/ads/click_lx.ads/www.nj.com/privacypolicy/index.ssf/NQS/1153714375/Tile1/NJONLINE/MK_TACTJOBS_NJ02/copy5.gif/64316564656562353431643363396130)   
+[](http://ads8.udc.advance.net/RealMedia/ads/click_lx.ads/www.nj.com/privacypolicy/index.ssf/NQS/2031577106/Tile1/NJONLINE/NJO_CAREERS18/InHealthcare_PT2.gif/63666631653164323432363939353130)   
   
 
