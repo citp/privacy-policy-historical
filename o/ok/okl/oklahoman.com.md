@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the oklahoman.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206180026id_/http%3A//newsok.com/more/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oklahoman.com privacy policy that was archived on 2005-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050422224149id_/http%3A//www.newsok.com/more/privacypolicy) for the most accurate reproduction.*
 
 # NewsOK.com | Powered by The Oklahoman and NEWS 9
 
 HOMESJOBSCARSNEWSPAPER ADS
 
-|   
----  
-  
-| 
+| | 
 
 PRIVACY POLICY OF NEWSOK.COMNewsOK is committed to providing visitors with a powerful, useful and appropriate on-line experience, while at the same time protecting users from unexpected use of personally identifiable information. Like other web publishers, we collect information from users in order to deliver more effective content and advertising, but only within the limits specified in this policy.
 
