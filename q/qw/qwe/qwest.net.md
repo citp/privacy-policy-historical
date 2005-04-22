@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qwest.net privacy policy that was archived on 2004-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041107010029id_/http%3A//www.qwest.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qwest.net privacy policy that was archived on 2005-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050422033635id_/http%3A//www.qwest.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Qwest | Legal Notices
 
@@ -122,3 +122,5 @@ Qwest places banner ads on others' web sites. When we do this, we collect non-pe
 * * *
 
 To improve the services it can offer you, Qwest may opt to expand its capabilities for obtaining information about users in the future. Qwest will update this privacy policy continually to ensure that you are aware of developments in this area.
+
+Should you have any questions or comments relating to this Privacy Policy or Qwest privacy practices, please contact Qwest at [Privacy@qwest.com](mailto:privacy@qwest.com?subject=Privacy%20Email).
