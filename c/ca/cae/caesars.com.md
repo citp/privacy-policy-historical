@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the caesars.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208032643id_/http%3A//www.caesars.com/Corporate/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caesars.com privacy policy that was archived on 2005-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050422080220id_/http%3A//www.caesars.com/Corporate/PrivacyPolicy) for the most accurate reproduction.*
 
 # Caesars Entertainment
 
 **I. INTRODUCTION  
 ** Caesars Entertainment, Inc. and all of our subsidiaries, affiliates, casinos and resorts (collectively, "Caesars Entertainment") have an unwavering commitment to providing outstanding products and services to visitors to our web sites. This Privacy Policy explains our practices for the following sites: Bally's Las Vegas, Paris Las Vegas, Flamingo Las Vegas, Caesars Palace, Reno Hilton, Caesars Tahoe, Flamingo Laughlin, Bally's New Orleans, Grand Casino Gulfport, Grand Casino Biloxi, Grand Casino Tunica, Bally's Tunica, Sheraton Tunica, Caesars Indiana, Bally's Atlantic City, Caesars Atlantic City, Atlantic City Hilton, Claridge Casino Hotel, and Caesars Entertainment, Inc. (collectively, the "Sites").
 
-Caesars Entertainment owns, manages or has an interest in 28 gaming properties operating under the Bally's, Caesars, Paris, Flamingo, Grand and Hilton brand names in the United States with a total of approximately 2 million square feet of gaming space, 29,000 hotel rooms and approximately 55,000 employees worldwide. Caesars Entertainment also manages other gaming properties outside the United States
+Caesars Entertainment owns, manages or has an interest in 27 gaming properties operating under the Bally's, Caesars, Paris, Flamingo, Grand and Hilton brand names in the United States with a total of approximately 2 million square feet of gaming space, 26,000 hotel rooms and approximately 50,000 employees worldwide. Caesars Entertainment also manages other gaming properties outside the United States
 
  **II. THIS PRIVACY POLICY IS LIMITED TO INFORMATION COLLECTED ON CAESARS ENTERTAINMENT SITES  
 ** This Privacy Policy only applies to information Caesars Entertainment collects online through the Sites. Please note that, while reference may be made to information collected offline, this Privacy Policy is not a comprehensive statement of how information collected offline is obtained or used.
