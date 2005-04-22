@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freddiemac.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009153201id_/http%3A//www.freddiemac.com/terms/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freddiemac.com privacy policy that was archived on 2005-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050422032713id_/http%3A//www.freddiemac.com/terms/privacy.htm) for the most accurate reproduction.*
 
 # Freddie Mac Terms and Conditions: Privacy Policy
 
@@ -39,6 +39,8 @@ We reserve the right to revise or change this policy in the future. Any changes 
 
 ## **How to Reach Us**
 
-If you have a question about the way that your information is used or about Freddie Mac's information practices with respect to this site, please [contact us](https://web.archive.org/corporate/about/contactus.htm).
+If you have a question about the way that your information is used or about Freddie Mac's information practices with respect to this site, please [contact us](http://www.freddiemac.com/corporate/about/contactus.htm).
 
 Effective date: July 1, 2004
+
+Terms and Conditions Continued: [Linking Policy](https://web.archive.org/web/20050422032713id_/http%3A//www.freddiemac.com/terms/linking.htm)
