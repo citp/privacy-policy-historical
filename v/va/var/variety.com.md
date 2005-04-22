@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the variety.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208225217id_/http%3A//www.variety.com/index.asp%3Flayout%3Dabout_privacy_layout) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the variety.com privacy policy that was archived on 2005-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050423003147id_/http%3A//www.variety.com/index.asp%3Flayout%3Dabout_privacy_layout) for the most accurate reproduction.*
 
 # Variety.com - About Variety Privacy Policy
 
