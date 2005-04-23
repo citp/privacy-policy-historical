@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the shareup.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210143640id_/http%3A//www.shareup.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareup.com privacy policy that was archived on 2005-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050424000013id_/http%3A//www.shareup.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Shareup Networks
 
-**Below is information regarding Shareup Networks commitment to protect the privacy of users and to ensure the integrity of the Internet.**
+**Below is information regarding Shareup Networks commitment to protect the privacy of users and to ensure the integrity of the Internet.  
+(This Privacy Policy was last revised on January 12, 2005.)**
 
 * * *
 
@@ -12,9 +13,9 @@ In the course of delivering this site to you, Shareup Networks does NOT collect 
 
 You can send email requesting help and your email will NOT be shared in any way with any third party(ies), and will only be used to send replies to you.
 
-When purchasing product form us, additional information is needed to fill your order. Any information provided will NOT be sold or given to any third party(ies) in any way, and will only be used for sending the Registration Information and the Free upgrade to you via email.
+When purchasing product form vendors (via our website), additional information is needed to fill your order. Any information provided will NOT be sold or given to any third party(ies) in any way, and will only be used for sending the Registration Information and the Free upgrade to you via email.
 
-In order to further protect your personal information, all order forms are run on a secure server, utilizing powerful encryption technology to safeguard all transactions (credit card/online purchases) from unauthorized viewing. It is used standard SSL(Security Socket Layer) encryption, with a certificate from VeriSign.
+In order to further protect your personal information, all order forms are run on a secure server handled by RegNow, utilizing powerful encryption technology to safeguard all transactions (credit card/online purchases) from unauthorized viewing. It is used standard SSL(Security Socket Layer) encryption, with a certificate from VeriSign.
 
 If you have any questions or concerns regarding this matter, please feel free to [contact us](https://web.archive.org/about.html).
 
