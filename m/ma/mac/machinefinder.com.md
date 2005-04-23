@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the machinefinder.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208182511id_/http%3A//www.deere.com/en_US/deerecom/privacy_legal/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the machinefinder.com privacy policy that was archived on 2005-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050423215214id_/http%3A//www.deere.com/en_US/deerecom/privacy_legal/privacypolicy.html) for the most accurate reproduction.*
 
 # John Deere - Privacy and Legal : John Deere
 
-|  | | |  |    
+|  |  | | |  |    
   
 | **Scope Summary**  
 This statement applies to John Deere and the [http://www.JohnDeere.com](http://www.deere.com/) Web site. Differences in state or national laws require that we operate under specific policies in certain countries and lines of business, such as financial services provided by John Deere Credit. Please refer to the links at the left for the policies that most closely apply to your situation. |   | 
