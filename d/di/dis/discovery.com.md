@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the discovery.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207013756id_/http%3A//www.discovery.com/utilities/about/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discovery.com privacy policy that was archived on 2005-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050423141922id_/http%3A//corporate.discovery.com/utilities/about/privacypolicy.html) for the most accurate reproduction.*
 
-# Discovery.com :: Privacy Policy
+# DCI | Privacy Policy
+
+  
+
 
 Discovery.com respects your privacy, and we want you to understand the ways in which we do and don't use the information that you transmit when you visit our Web site. This statement discloses the privacy practices for all United States-based Discovery.com Web sites, including Discovery Kids and the Students area of Discovery School. Our web site is intended for users in the United States. This statement does not pertain to our practices in the retail stores, catalog or in other parts of Discovery Communications, Inc. or its subsidiaries and affiliates.
 
@@ -42,7 +45,7 @@ _Cookies and Non-Personally Identifiable Information_
 
 To help make our sites more responsive to the needs of our visitors, we invoke a standard feature found in browser software, called a "cookie", to assign each visitor a unique, random number, a sort of anonymous user ID that resides on your computer. The cookie doesn't actually identify the visitor, just the computer that a visitor uses to access our site. A cookie can't read data off your hard drive. We do not link cookie data with personally identifiable information, nor do we store kid's personal information in our cookies. You can disable cookies at any time by changing the preferences in your browser.
 
-Also, please note that our advertisers or third-party ad servers may assign their own cookies to your browser, a process that we don't control. For more about third-party ad servers, [click here.](http://www.networkadvertising.org/optout_nonppii.asp)
+Also, please note that our advertisers or third-party ad servers may assign their own cookies to your browser, a process that we don't control. For more about third-party ad servers, click here. 
 
 Finally, Discovery keeps records of certain non-personally identifiable information such as the number of hits a Web page receives, IP address, and other aggregate data. We do not link this aggregate data with any personal information. Third parties that help us administer our Web sites may have access to this non-personally identifiable, aggregate data, as may our third-party ad servers. However, these third parties are bound to keep this information confidential. 
 
@@ -80,7 +83,7 @@ _Non-Personally Identifiable Information_
 _Cookies_  
 To help make our sites more responsive to the needs of our visitors, we invoke a standard feature found in browser software, called a "cookie", to assign each visitor a unique, random number, a sort of anonymous user ID that resides on your computer. The cookie doesn't actually identify the visitor, just the computer that a visitor uses to access our site. Unless you voluntarily identify yourself (through registration, for example), we won't know who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply. A cookie can't read data off your hard drive. Our advertisers may also assign their own cookies to your browser, a process that we don't control. 
 
-We use cookies to help us tailor our site to your needs, to deliver a better, more personalized service. In addition, we may use cookies to track the pages on our sites visited by our users. We can build a better site if we know which pages our users are visiting and how often. Of course, you can set your browser not to accept cookies, but if you do, you may not be able to take advantage of the personalized features enjoyed by other visitors to our sites. Also, please note that our advertisers or third-party ad servers may assign their own cookies to your browser, a process that we don't control. For more about third-party ad servers, [click here.](http://www.networkadvertising.org/optout_nonppii.asp)
+We use cookies to help us tailor our site to your needs, to deliver a better, more personalized service. In addition, we may use cookies to track the pages on our sites visited by our users. We can build a better site if we know which pages our users are visiting and how often. Of course, you can set your browser not to accept cookies, but if you do, you may not be able to take advantage of the personalized features enjoyed by other visitors to our sites. For more about third-party ad servers, click here. 
 
 _IP Addresses_  
 Our Web servers automatically collect limited information about your computer's connection to the Internet, including your IP address, when you visit our sites. (Your IP address is a number that lets computers attached to the Internet know where to send you data - such as the Web pages you view.) Your IP address does not identify you personally. We use this information to deliver our Web pages to you upon request, to tailor our sites to the interests of our users and to measure traffic within our sites. 
@@ -120,3 +123,5 @@ All information gathered on any Discovery.com Web site is encrypted or protected
 **A Final Note:** The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes here. Of course, our use of information gathered while the current policy is in effect will always be consistent with the current policy, even if we change that policy later. Thanks for making the Discovery.com family of Web sites a part of your discoveries online! 
 
 _Last updated: October 30, 2003_
+
+|  | 
