@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classzone.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206225740id_/http%3A//www.hmco.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classzone.com privacy policy that was archived on 2005-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050423183531id_/http%3A//www.hmco.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Houghton Mifflin Privacy Policy
 
@@ -22,13 +22,13 @@ Involvement of parents: In accordance with the provisions of the Children's Onli
 
 How to get in touch with Houghton Mifflin: The following list has the names, addresses, and phone numbers of the individuals operating websites for the various divisions and subsidiaries of Houghton Mifflin Company.
 
-Division: Corporate IT  
-Name: Chris Hogg  
-Title: Director, Web Services  
+Division: Corporate  
+Name: Collin Earnst  
+Title: Vice President, Corporate Communications  
 Address: 222 Berkeley Street, 5th Floor  
 Boston, MA 02116-3764  
-Telephone Number: 617-351-3699  
-E-mail Address: [chris_hogg@hmco.com](mailto:chris_hogg@hmco.com)
+Telephone Number: 617-351-5020  
+E-mail Address: [collin_earnst@hmco.com](mailto:collin_earnst@hmco.com)
 
 Division: School  
 Name: Richard Lena  
@@ -40,7 +40,7 @@ E-mail Address: [richard_lena@hmco.com](mailto:richard_lena@hmco.com)
 
 Division: McDougal Littell  
 Name: Ann Marie McNamara  
-Title: Vice President, Director of Marketing and Technology  
+Title: Director of Internet Technologies  
 Address: 909 Davis Street  
 Evanston, IL 60201  
 Telephone Number: 847-869-2300 ext. 3929  
