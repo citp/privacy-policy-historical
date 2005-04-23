@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netiq.com privacy policy that was archived on 2004-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041214090932id_/http%3A//www.netiq.com/about_netIQ/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netiq.com privacy policy that was archived on 2005-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050423212210id_/http%3A//www.netiq.com/about_netIQ/privacypolicy.asp) for the most accurate reproduction.*
 
 # NetIQ: Privacy Policy
 
@@ -10,7 +10,7 @@ NetIQ is committed to maintaining the trust and confidence of our customers and 
 
 Personal information means any information that may be used to identify you, such as, your name, title, phone number, email address, or mailing address.
 
-In general, you can browse our web site without giving us any personal information. We use our own product, [WebTrends 7 On Demand](https://web.archive.org/webtrends/products/webtrends/ondemand.asp), to analyze traffic to this web site in order to understand our customer's and visitor's needs and to continually improve our site for them. WebTrends 7 On Demand collects only anonymous, aggregate statistics. For example, we do not tie a specific visit to a specific IP address. For more information, see [Privacy Statement for Visitors to Sites Tracked by WebTrends 7 On Demand](https://reports.webtrends.com/privacypolicy.asp#PSFV).
+In general, you can browse our web site without giving us any personal information. We use our own product, [WebTrends 7 On Demand](https://web.archive.org/webtrends/products/webtrends/ondemand.asp), to analyze traffic to this web site in order to understand our customer's and visitor's needs and to continually improve our site for them. WebTrends 7 On Demand collects only anonymous, aggregate statistics. For example, we do not tie a specific visit to a specific IP address. For more information, see [Privacy Statement for Visitors to Sites Tracked by WebTrends 7 On Demand](https://ondemand.webtrends.com/privacypolicy.asp#PSFV).
 
 If you want to subscribe to one of our newsletters, we ask you to simply provide your business email address. In that case, we use your email address only in connection with providing you the newsletter and for no other purpose.
 
@@ -60,7 +60,7 @@ If you have set up a myNetIQ account, you may change your preferences at any tim
 
 
 
-If you do not have a myNetIQ account or you are having trouble unsubscribing your email address, you may unsubscribe from NetIQ marketing email communications and newsletters at any time by completing our [unsubscribe request form](https://web.archive.org/mynetiq/unsubscribeform.asp) online.
+If you do not have a myNetIQ account or you are having trouble unsubscribing your email address, you may unsubscribe from NetIQ marketing email communications and newsletters at any time by completing our [unsubscribe request form](https://web.archive.org/mynetiq/unsubscribe.asp) online.
 
 Unsubscribing From User Forums and Product Notifications
 
