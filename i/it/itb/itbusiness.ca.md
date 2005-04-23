@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itbusiness.ca privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206234313id_/http%3A//www.itbusiness.ca/index.asp%3Flayid%3D76) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itbusiness.ca privacy policy that was archived on 2005-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050423025522id_/http%3A//www.itbusiness.ca/index.asp%3Flayid%3D76) for the most accurate reproduction.*
 
 # ITBusiness.ca
 
