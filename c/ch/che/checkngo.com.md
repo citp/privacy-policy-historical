@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkngo.com privacy policy that was archived on 2004-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041016100410id_/http%3A//www.checkngo.com/forms/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkngo.com privacy policy that was archived on 2005-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050424213621id_/http%3A//www.checkngo.com/forms/privacy.pdf) for the most accurate reproduction.*
 
 # 
 
