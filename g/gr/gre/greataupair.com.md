@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greataupair.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206124224id_/http%3A//www.greataupair.com/support.cfm/topic/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greataupair.com privacy policy that was archived on 2005-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050424082543id_/http%3A//www.greataupair.com/support.cfm/topic/privacy) for the most accurate reproduction.*
 
-# GreatAupair Support - Privacy & Security Policy
+# Au Pair Agency - Nanny Agency - GreatAupair Support - Privacy & Security Policy
 
 |   
 |  |   
@@ -28,9 +28,9 @@ We collect information from guests and members during the registration and payme
 Search engines may index publicly available information from your profile that is searchable by anyone on the Internet. Search engines do not have access to any Personal Contact Information contained within the fields of a profile which are available only to paid members of the GreatAupair service. Personal Contact Information is defined as an email address, phone number or physical street address. 
 
 Uses of Personal Contact Information  
-The Personal Contact Information you provide in your profile is made available on the GreatAupair web site only to paid members; either families or aupairs/nannies who are claiming to seek a working relationship with you. No representations or warranties are made regarding the legitimacy of the claims of those who have paid for membership to access your Personal Contact Information. 
+The Personal Contact Information you provide in your online profile is made available on GreatAuPair and InteliMark’s Childcare Network Affiliate web sites only to paid members; either families or aupairs/nannies who are claiming to seek a working relationship with you as a result of your online registration. No representations or warranties are made regarding the legitimacy of the claims of those who have paid for membership to access your Personal Contact Information. You are urged to validate the identity of anyone who contacts you and utilize the background check resources available to you through GreatAupair and the Childcare Network before making any commitments or arrangements. 
 
-As a registered guest or paid member of GreatAupair, you may view, modify or delete your Personal Contact Information at will. 
+As a registered guest or paid member of GreatAupair or any Childcare Network Affiliate, you may view, modify or delete your Personal Contact Information at will. 
 
 The information you provide during registration may also be used to enable us to process, validate and verify services or membership purchases. We may also provide advertisers with aggregate - never individual - information about our member base and usage patterns. We may also use aggregated information to develop new features and services to better meet member needs. 
 
