@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capital.edu privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209053815id_/http%3A//www.capital.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capital.edu privacy policy that was archived on 2005-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050424081555id_/http%3A//www.capital.edu/privacy.html) for the most accurate reproduction.*
 
 # Web Site Privacy Information - Capital University, Columbus Ohio
 
