@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeadvice.com privacy policy that was archived on 2004-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041229130550id_/http%3A//law.freeadvice.com/resources/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeadvice.com privacy policy that was archived on 2005-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050425075731id_/http%3A//law.freeadvice.com/resources/privacypolicy.htm) for the most accurate reproduction.*
 
 # FreeAdvice.com's Privacy Policy
 
@@ -8,7 +8,7 @@ FreeAdvice, recognized as the Number 1 Legal Website for consumers and small bus
 
 Please read this Privacy Policy so that you can understand how we seek to enforce our firm commitment to privacy. Questions regarding this statement should be directed to the Officer named below by emailing [admin@adviceco.com](mailto:admin@adviceco.com)
 
-We invite you to explore FreeAdvice.com and its affiliated Websites, including [www.AttorneyPages.com](http://www.attorneypages.com/) and [www.ExpertPages.com](http://www.expertpages.com/) and [www.DoItYourself.com](http://www.doityourself.com/).
+We invite you to explore FreeAdvice.com and its affiliated Websites, including [www.AttorneyPages.com](http://freeadvice.com/site_frames/template_fa_frames.php?web=http://www.attorneypages.com/) and [www.ExpertPages.com](http://freeadvice.com/site_frames/template_fa_frames.php?web=http://www.expertpages.com/) and [www.DoItYourself.com](http://freeadvice.com/site_frames/template_fa_frames.php?web=http://www.doityourself.com/).
 
 ### Information this Site Gathers / Tracks 
 
@@ -46,7 +46,7 @@ FreeAdvice displays advertising on the Web site and we also work with several un
 
 To find out more about their practices, how these sites have told us they manage the privacy of information in conjunction with serving ads on our site, and to know your choices about not having this information used by such companies, please go to:
 
-<http://www.sonar.com/content/privacy.htm> and <http://www.flycast.com/about_us/about-privacy.html> and <http://www.l90.com/external_site/privacy_policy.html> 
+[http://www.sonar.com/content/privacy.htm](http://freeadvice.com/site_frames/template_fa_frames.php?web=http://www.sonar.com/content/privacy.htm) and <http://www.flycast.com/about_us/about-privacy.html> and <http://www.l90.com/external_site/privacy_policy.html> 
 
 ### Public Forums
 
