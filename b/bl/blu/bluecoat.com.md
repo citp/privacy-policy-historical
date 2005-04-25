@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluecoat.com privacy policy that was archived on 2004-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040921101638id_/http%3A//www.bluecoat.com/downloads/corporate/BCS_privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluecoat.com privacy policy that was archived on 2005-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050425103532id_/http%3A//www.bluecoat.com/downloads/corporate/BCS_privacy.pdf) for the most accurate reproduction.*
 
 # 
 
