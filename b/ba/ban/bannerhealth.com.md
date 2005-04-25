@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the bannerhealth.com privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212124016id_/http%3A//www.bannerhealth.com/_About/Privacy%2BStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bannerhealth.com privacy policy that was archived on 2005-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050425025016id_/http%3A//www.bannerhealth.com/_About/Privacy%2BStatement.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
 |  |    
-
+[About](https://web.archive.org/web/20050425025016id_/http%3A//www.bannerhealth.com/_About/default.asp) > Privacy Statement
 
 ### Effective Date: 07/30/2004
 
 This privacy statement describes and applies to the information we collect from you when you visit the Banner Health website, how we use that information, and under what circumstances we disclose it. It will also give you more information about how to manage the personal information that you provide to us through this site. This statement applies only to information you provide to us online while visiting or using our site. It does not apply to information we have obtained or may obtain offline through other traditional means.
 
-Banner also maintains a separate Notice of Privacy Practices, as required by law, that applies to protected health information that it collects from individuals. You may view that [statement](https://web.archive.org/web/20041212124016id_/http%3A//www.bannerhealth.com/patients+and+visitors/privacy+practices.asp "Privacy practices statement in English and Spanish") in English or Spanish.  
+Banner also maintains a separate Notice of Privacy Practices, as required by law, that applies to protected health information that it collects from individuals. You may view that [statement](https://web.archive.org/web/20050425025016id_/http%3A//www.bannerhealth.com/patients+and+visitors/privacy+practices.asp "Privacy practices statement in English and Spanish") in English or Spanish.  
 
 
 #### 1\. The information we collect.
@@ -39,7 +39,7 @@ Banner uses a third party to host its Brand Central Store.  If you purchase mer
 
 If you make donations, your information is provided to one or more of the following 501(c)(3) organizations: Banner Health Foundation; McKee Medical Center Foundation; North Colorado Medical Center Foundation; East Morgan County Hospital Foundation; and/or Sterling Regional MedCenter Foundation.
 
-We do not require you to provide any personal medical information about yourself to us online, and we ask that you do not share personal medical information through the Site, especially information that you wish to keep confidential. Information you provide through our web site is not protected under confidentiality laws that protect physician-patient communications.  Please carefully select what you choose to disclose. In addition, while Banner attempts to prevent unauthorized access to our Web site files, such access may occur. Personal medical information that Banner receives in any manner is subject to separate privacy practices. Our [statement](https://web.archive.org/web/20041212124016id_/http%3A//www.bannerhealth.com/patients+and+visitors/privacy+practices.asp "Medical records privacy practice statement") regarding the treatment of such information can be read in English or Spanish.
+We do not require you to provide any personal medical information about yourself to us online, and we ask that you do not share personal medical information through the Site, especially information that you wish to keep confidential. Information you provide through our web site is not protected under confidentiality laws that protect physician-patient communications.  Please carefully select what you choose to disclose. In addition, while Banner attempts to prevent unauthorized access to our Web site files, such access may occur. Personal medical information that Banner receives in any manner is subject to separate privacy practices. Our [statement](https://web.archive.org/web/20050425025016id_/http%3A//www.bannerhealth.com/patients+and+visitors/privacy+practices.asp "Medical records privacy practice statement") regarding the treatment of such information can be read in English or Spanish.
 
 Personal Information about Children.
 
@@ -96,7 +96,7 @@ This privacy statement was last modified on July 30, 2004. If we change our Priv
 
 #### 8\. Questions, comments and contact information.
 
-If you have any questions or comments concerning our privacy policy, please contact us through our [online form](https://web.archive.org/web/20041212124016id_/http%3A//www.bannerhealth.com/_contact+us/_feedback.asp "Online form for questions and comments").   
+If you have any questions or comments concerning our privacy policy, please contact us through our [online form](https://web.archive.org/web/20050425025016id_/http%3A//www.bannerhealth.com/_contact+us/_feedback.asp "Online form for questions and comments").   
 
 
   
