@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the workingmother.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622141006id_/http%3A//www.workingmother.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workingmother.com privacy policy that was archived on 2005-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050425083443id_/http%3A//www.workingmother.com/privacy.shtml) for the most accurate reproduction.*
 
-# WorkingMother
+# Working Mother Media: Working Mother Magazine
 
-  
+Events Calendar  
 
 
 Working Mother Media, Inc. and its affiliated companies (collectively, "Working Mother Media," "We," "Us") provide a variety of e-commerce and other online services ("Services") through its Web sites located at, including but not limited to <http://www.workingmother.com/> (the "Sites").
@@ -11,7 +11,7 @@ Working Mother Media is committed to safeguarding your privacy on the Internet. 
 
 The Services are not directed toward children (minors under thirteen years of age). Working Mother Media does not knowingly collect personally identifiable information from children.
 
-Please note that when you subscribe through the Sites to a magazine published by Working Mother Media, this Privacy Policy will not apply with respect to any information provided by you in connection with your subscription, and occasionally Working Mother Media makes its subscriber mailing lists available to third parties. If you prefer not to receive these mailings, please write to: Working Mother Media, Circulation Dept., 260 Madison Avenue, 3rd Floor, New York, NY 10016, or send an email to circulation@workingmother.com
+Please note that when you subscribe through the Sites to a magazine published by Working Mother Media, this Privacy Policy will not apply with respect to any information provided by you in connection with your subscription, and occasionally Working Mother Media makes its subscriber mailing lists available to third parties. If you prefer not to receive these mailings, please write to: Working Mother Media, Circulation Dept., 60 East 42nd Street, 27th Floor, New York, NY 10165, or send an email to [ privacy@workingmother.com](mailto:privacy@workingmother.com)
 
 If you have any questions regarding this Privacy Policy, please email Us at [privacy@workingmother.com](mailto:privacy@workingmother.com) and type "Privacy Policy" in the subject line.
 
