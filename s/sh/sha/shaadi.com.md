@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shaadi.com privacy policy that was archived on 2004-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041230203601id_/http%3A//www.shaadi.com/shaadi_info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shaadi.com privacy policy that was archived on 2005-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050426074204id_/http%3A//www.shaadi.com/shaadi_info/privacy.php) for the most accurate reproduction.*
 
 # Shaadi.com Matrimonials - The No.1 Matrimonial Services Provider - Privacy Policy
 
