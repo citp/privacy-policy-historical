@@ -1,15 +1,8 @@
-> *The following text is extracted and transformed from the dnece.com privacy policy that was archived on 2004-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041214063238id_/http%3A//dnece.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnece.com privacy policy that was archived on 2005-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050426224452id_/http%3A//www.dnece.com/privacy.php) for the most accurate reproduction.*
 
-# DynamicNursingEducation
-
-  
-| 
-
-| 
+# DynamicNursingEducation - Privacy Policy
 
 Privacy Statement  
-  
----  
   
 Dynamic nursing Education wants to establish trusting relationships based on respect for personal identity and information. We hope to demonstrate our commitment to our users’ privacy by disclosing our information practices here.   
   
