@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abnamro.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204005949id_/http%3A//www.abnamro.com/Com/disclaimer/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abnamro.com privacy policy that was archived on 2005-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050427232345id_/http%3A//www.abnamro.com/com/disclaimer/privacy.jsp) for the most accurate reproduction.*
 
 # ABN AMRO Privacy Statement
 
