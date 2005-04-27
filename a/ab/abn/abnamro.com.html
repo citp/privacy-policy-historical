@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the abnamro.com privacy policy that was archived on 2003-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031204005949id_/http%3A//www.abnamro.com/Com/disclaimer/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the abnamro.com privacy policy that was archived on 2005-04-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050427232345id_/http%3A//www.abnamro.com/com/disclaimer/privacy.jsp) for the most accurate reproduction.-->
 
 <html><head><meta http-equiv="Expires" content="0">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
@@ -12,11 +12,10 @@
 	<meta name="copyright" content="ABN AMRO">
 	<title>ABN AMRO Privacy Statement</title>
 	<meta name="description" content="">
+	<meta name="aakeywords" content="">
 
-<script language="JavaScript" src="/com/javascript/getDate.js"></script>
-<script language="JavaScript" src="/com/javascript/styleSheet.js"></script>
-      <script type="text/javascript" src="/com/javascript/xmlnav.js"></script>
-      <link rel="stylesheet" type="text/css" href="/com/styles/xmlnavcc_IE.css">
+<script language="JavaScript" src="/com/javascript/getdate.js"></script>
+<script language="JavaScript" src="/com/javascript/stylesheet.js"></script><link rel="stylesheet" type="text/css" href="/stylesheet/abnamrocc_ns.css">
 
 </head>
 <body background="/images/home_page/bg_gray_green.gif" bgcolor="#FDF2CC" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" class="normal">
@@ -30,13 +29,33 @@
 <noscript>
 	<img src="http://nl.sitestat.com/abn-amro/abnamro/s?dotcom.com.disclaimer.privacy" width=1 height=1>
 </noscript>
+
 <table width="780" height="54" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
 	<td width="160" height="54" bgcolor="#004C4D" align="LEFT" valign="TOP">
-		<a href="/com/homepage.asp"><img src="/Images/top_nav/AA_logo_bggreen.gif" width="159" height="47" border="0"></a><br>
+		<a href="/com/homepage.jsp"><img src="/images/top_nav/aa_logo_bggreen.gif" width="159" height="47" border="0"></a><br>
 	</td>
-	<form name="searchForm" action="/Com/search/searchrespond.asp" method="GET"></form>
-		<td width="310" height="54" bgcolor="#004C4D" align="RIGHT" valign="TOP">
+
+	<script language="JavaScript" type="text/JavaScript">
+	function onClickSearch()
+	{
+	 	if(document.searchForm.keyword.value == null || document.searchForm.keyword.value == "")
+	  	{
+	     	document.searchForm.action ="/com/search/searcherror.jsp";
+	     	document.searchForm.submit();
+	     	return false;
+	    }
+	  else
+	  	{
+	  		document.searchForm.action ="/com/search/searchresults.jsp";
+	     	document.searchForm.submit();
+	     	return false;
+	    }
+	}
+	</script>
+
+	<form name="searchForm" action="/com/search/searchresults.jsp" method="GET" onsubmit="onClickSearch()"></form>
+	<td width="310" height="54" bgcolor="#004C4D" align="RIGHT" valign="TOP">
 			<img src="/images/shim.gif" width="1" height="10" border="0"><br>
 			<input type="text" name="keyword" style="width: 100px;">
 		</td>
@@ -46,83 +65,68 @@
 	</td>
 	<td width="185" height="54" bgcolor="#004C4D" align="LEFT" valign="TOP">
 		<img src="/images/shim.gif" width="1" height="15" border="0"><br>
-		<a href="javascript:document.forms['searchForm'].submit()" class="tools">Search</a><br>
+
+		<a href="javascript:onClickSearch()" class="tools">Search</a><br>
+
 		<img src="/images/shim.gif" width="1" height="2" border="0"><br>
-		<a href="/Com/search/search.asp" class="toolsSmall">Advanced Search</a>
+		<a href="/com/search/search.jsp" class="toolsSmall">Advanced Search</a>
 	</td>
 	<td width="110" height="54" bgcolor="#004C4D" align="RIGHT" valign="MIDDLE">
-		<a href="/Com/homepage.asp" class="tools">Home</a><br>
-		<a href="/Com/contact/contact.asp" class="tools">Contact</a><br>
-		<a href="/Com/sitemap/sitemap.asp" class="tools">Site map</a><br>
+		<a href="/com/homepage.jsp" class="tools">Home</a><br>
+		<a href="/com/contact/contact.jsp" class="tools">Contact</a><br>
+		<a href="/com/sitemap/sitemap.jsp" class="tools">Site map</a><br>
 	</td>
 	<td width="10" height="54" bgcolor="#004C4D" align="RIGHT" valign="MIDDLE">
 		<img src="/images/shim.gif" width="10" height="1" border="0">
 	</td>
 </tr>
 </tbody></table>
-<table width="780" height="91%" style="height:89.6%" border="0" cellspacing="0" cellpadding="0">
+
+
+<table id="mainTable" width="780" height="91%" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
-	<td width="152" height="100%" class="NavBg2Nor" align="LEFT" valign="TOP">
-		<table border="0" cellpadding="0" cellspacing="0" width="152">
+	<td width="152" class="NavBg2Nor" align="LEFT" valign="TOP">
+	<script type="text/javascript" src="/com/javascript/xmlnav.js"></script><table width="152" cellspacing="0" cellpadding="0" border="0">
 <tbody><tr>
-<td width="8" class="NavBg1Nor" height="14"><img width="8" height="14" alt="" src="/images/side_nav/blank.gif"></td>
-<td width="132" class="NavBg1Nor" height="14"><img width="132" height="14" alt="" src="/images/side_nav/blank.gif"></td>
-<td width="12" class="NavBg1Nor" height="14"><img width="12" height="14" alt="" src="/images/side_nav/blank.gif"></td>
+<td width="8" class="NavBg1Nor" height="14"><img width="8" height="14" alt="" src="/images/side_nav/blank.gif"></td><td width="132" class="NavBg1Nor" height="14"><img width="132" height="14" alt="" src="/images/side_nav/blank.gif"></td><td width="12" class="NavBg1Nor" height="14"><img width="12" height="14" alt="" src="/images/side_nav/blank.gif"></td>
 </tr>
 <tr>
-<td class="NavBg1Nor" width="8"><img width="8" height="1" alt="" src="/images/side_nav/blank.gif"></td>
-<td class="NavBg1" width="132" valign="top"><a class="MenuText" href="/com/ps/productsandservices.asp" onmouseover="activeMenuOption('/images/side_nav/','2')" onmouseout="inactiveMenuOption('/images/side_nav/','2')" target="_self">Products &amp; Services</a></td>
-<td class="NavBg1Nor" width="12" valign="middle" align="right"><img width="12" height="16" alt="" src="/images/side_nav/blank.gif" name="item2"></td>
+<td width="8" class="NavBg1Nor"><img width="8" height="1" alt="" src="/images/side_nav/blank.gif"></td><td width="132" valign="top" class="NavBg1"><a class="MenuText" href="/com/ps/productsandservices.jsp" onmouseover="activeMenuOption('/images/side_nav/','2')" onmouseout="inactiveMenuOption('/images/side_nav/','2')" target="_self">Products &amp; Services</a></td><td width="12" valign="middle" class="NavBg1Nor" align="right"><img width="12" height="16" alt="" src="/images/side_nav/blank.gif" name="item2"></td>
 </tr>
 <tr>
-<td class="NavBg1Nor" width="8"><img width="8" height="1" alt="" src="/images/side_nav/blank.gif"></td>
-<td class="NavBg1" width="132" valign="top"><a class="MenuText" href="http://www.abnamro.com/investorrelations/" onmouseover="activeMenuOption('/images/side_nav/','3')" onmouseout="inactiveMenuOption('/images/side_nav/','3')" target="_self">Investor Relations</a></td>
-<td class="NavBg1Nor" width="12" valign="middle" align="right"><img width="12" height="16" alt="" src="/images/side_nav/blank.gif" name="item3"></td>
+<td width="8" class="NavBg1Nor"><img width="8" height="1" alt="" src="/images/side_nav/blank.gif"></td><td width="132" valign="top" class="NavBg1"><a class="MenuText" href="/com/career/home.jsp" onmouseover="activeMenuOption('/images/side_nav/','3')" onmouseout="inactiveMenuOption('/images/side_nav/','3')" target="_self">Careers</a></td><td width="12" valign="middle" class="NavBg1Nor" align="right"><img width="12" height="16" alt="" src="/images/side_nav/blank.gif" name="item3"></td>
 </tr>
 <tr>
-<td class="NavBg1Nor" width="8"><img width="8" height="1" alt="" src="/images/side_nav/blank.gif"></td>
-<td class="NavBg1" width="132" valign="top"><a class="MenuText" href="/pressroom/pressroom.asp" onmouseover="activeMenuOption('/images/side_nav/','4')" onmouseout="inactiveMenuOption('/images/side_nav/','4')" target="_self">Press Room</a></td>
-<td class="NavBg1Nor" width="12" valign="middle" align="right"><img width="12" height="16" alt="" src="/images/side_nav/blank.gif" name="item4"></td>
+<td width="8" class="NavBg1Nor"><img width="8" height="1" alt="" src="/images/side_nav/blank.gif"></td><td width="132" valign="top" class="NavBg1"><a class="MenuText" href="/pressroom/pressroom.jsp" onmouseover="activeMenuOption('/images/side_nav/','4')" onmouseout="inactiveMenuOption('/images/side_nav/','4')" target="_self">Press Room</a></td><td width="12" valign="middle" class="NavBg1Nor" align="right"><img width="12" height="16" alt="" src="/images/side_nav/blank.gif" name="item4"></td>
 </tr>
 <tr>
-<td class="NavBg1Nor" width="8"><img width="8" height="1" alt="" src="/images/side_nav/blank.gif"></td>
-<td class="NavBg1" width="132" valign="top"><a class="MenuText" href="/com/about/about.asp" onmouseover="activeMenuOption('/images/side_nav/','5')" onmouseout="inactiveMenuOption('/images/side_nav/','5')" target="_self">About ABN AMRO</a></td>
-<td class="NavBg1Nor" width="12" valign="middle" align="right"><img width="12" height="16" alt="" src="/images/side_nav/blank.gif" name="item5"></td>
+<td width="8" class="NavBg1Nor"><img width="8" height="1" alt="" src="/images/side_nav/blank.gif"></td><td width="132" valign="top" class="NavBg1"><a class="MenuText" href="/com/ir/ir.jsp" onmouseover="activeMenuOption('/images/side_nav/','5')" onmouseout="inactiveMenuOption('/images/side_nav/','5')" target="_self">Investor Relations</a></td><td width="12" valign="middle" class="NavBg1Nor" align="right"><img width="12" height="16" alt="" src="/images/side_nav/blank.gif" name="item5"></td>
 </tr>
 <tr>
-<td class="NavBg1Nor" width="8"><img width="8" height="1" alt="" src="/images/side_nav/blank.gif"></td>
-<td class="NavBg1" width="132" valign="top"><a class="MenuText" href="/com/careers/jobs.asp" onmouseover="activeMenuOption('/images/side_nav/','6')" onmouseout="inactiveMenuOption('/images/side_nav/','6')" target="_self">Careers</a></td>
-<td class="NavBg1Nor" width="12" valign="middle" align="right"><img width="12" height="16" alt="" src="/images/side_nav/blank.gif" name="item6"></td>
+<td width="8" class="NavBg1Nor"><img width="8" height="1" alt="" src="/images/side_nav/blank.gif"></td><td width="132" valign="top" class="NavBg1"><a class="MenuText" href="/com/about/about.jsp" onmouseover="activeMenuOption('/images/side_nav/','6')" onmouseout="inactiveMenuOption('/images/side_nav/','6')" target="_self">About ABN AMRO</a></td><td width="12" valign="middle" class="NavBg1Nor" align="right"><img width="12" height="16" alt="" src="/images/side_nav/blank.gif" name="item6"></td>
 </tr>
 <tr>
-<td width="8" class="NavBg1Nor" height="18"><img width="8" height="18" alt="" src="/images/side_nav/blank.gif"></td>
-<td width="132" class="NavBg1Nor" height="18"><img width="132" height="18" alt="" src="/images/side_nav/blank.gif"></td>
-<td width="12" class="NavBg1Nor" height="18"><img width="12" height="18" alt="" src="/images/side_nav/blank.gif"></td>
+<td width="8" class="NavBg1Nor"><img width="8" height="1" alt="" src="/images/side_nav/blank.gif"></td><td width="132" valign="top" class="NavBg1"><a class="MenuText" href="/com/ir/corp_gov.jsp" onmouseover="activeMenuOption('/images/side_nav/','7')" onmouseout="inactiveMenuOption('/images/side_nav/','7')" target="_self">Corporate Governance</a></td><td width="12" valign="middle" class="NavBg1Nor" align="right"><img width="12" height="16" alt="" src="/images/side_nav/blank.gif" name="item7"></td>
 </tr>
 <tr>
-<td width="8" class="NavBg2Nor" height="1"><img width="8" height="1" alt="" src="/images/side_nav/blank.gif"></td>
-<td width="132" class="NavBg2Nor" height="1"><img width="132" height="1" alt="" src="/images/side_nav/blank.gif"></td>
-<td width="12" class="NavBg2Nor" height="1"><img width="12" height="1" alt="" src="/images/side_nav/blank.gif"></td>
+<td width="8" class="NavBg1Nor" height="18"><img width="8" height="18" alt="" src="/images/side_nav/blank.gif"></td><td width="132" class="NavBg1Nor" height="18"><img width="132" height="18" alt="" src="/images/side_nav/blank.gif"></td><td width="12" class="NavBg1Nor" height="18"><img width="12" height="18" alt="" src="/images/side_nav/blank.gif"></td>
 </tr>
 <tr>
-<td width="8" class="NavBg1Nor" height="6"><img width="8" height="6" alt="" src="/images/side_nav/blank.gif"></td>
-<td width="132" class="NavBg1Nor" height="6"><img width="132" height="6" alt="" src="/images/side_nav/blank.gif"></td>
-<td width="12" class="NavBg1Nor" height="6"><img width="12" height="6" alt="" src="/images/side_nav/blank.gif"></td>
+<td width="8" class="NavBg2Nor" height="1"><img width="8" height="1" alt="" src="/images/side_nav/blank.gif"></td><td width="132" class="NavBg2Nor" height="1"><img width="132" height="1" alt="" src="/images/side_nav/blank.gif"></td><td width="12" class="NavBg2Nor" height="1"><img width="12" height="1" alt="" src="/images/side_nav/blank.gif"></td>
 </tr>
 <tr>
-<td width="8" class="NavBg2Nor" height="6"><img width="8" height="6" alt="" src="/images/side_nav/blank.gif"></td>
-<td width="132" class="NavBg2Nor" height="6"><img width="132" height="6" alt="" src="/images/side_nav/blank.gif"></td>
-<td width="12" class="NavBg2Nor" height="6"><img width="12" height="6" alt="" src="/images/side_nav/blank.gif"></td>
+<td width="8" class="NavBg1Nor" height="6"><img width="8" height="6" alt="" src="/images/side_nav/blank.gif"></td><td width="132" class="NavBg1Nor" height="6"><img width="132" height="6" alt="" src="/images/side_nav/blank.gif"></td><td width="12" class="NavBg1Nor" height="6"><img width="12" height="6" alt="" src="/images/side_nav/blank.gif"></td>
 </tr>
 <tr>
-<td width="8" class="NavBg2Nor" height="6"><img width="8" height="6" alt="" src="/images/side_nav/blank.gif"></td>
-<td width="132" class="NavBg2Nor" height="6"><img width="132" height="6" alt="" src="/images/side_nav/blank.gif"></td>
-<td width="12" class="NavBg2Nor" height="6"><img width="12" height="6" alt="" src="/images/side_nav/blank.gif"></td>
+<td width="8" class="NavBg2Nor" height="6"><img width="8" height="6" alt="" src="/images/side_nav/blank.gif"></td><td width="132" class="NavBg2Nor" height="6"><img width="132" height="6" alt="" src="/images/side_nav/blank.gif"></td><td width="12" class="NavBg2Nor" height="6"><img width="12" height="6" alt="" src="/images/side_nav/blank.gif"></td>
+</tr>
+<tr>
+<td width="8" class="NavBg2Nor" height="6"><img width="8" height="6" alt="" src="/images/side_nav/blank.gif"></td><td width="132" class="NavBg2Nor" height="6"><img width="132" height="6" alt="" src="/images/side_nav/blank.gif"></td><td width="12" class="NavBg2Nor" height="6"><img width="12" height="6" alt="" src="/images/side_nav/blank.gif"></td>
 </tr>
 </tbody></table>
 
 	</td>
-	<td width="628" height="94%" style="height:100%" bgcolor="#FFFFFF" align="LEFT" valign="TOP">
+	<td width="628" bgcolor="#FFFFFF" align="LEFT" valign="TOP">
 		<table width="628" border="0" height="46" cellpadding="0" cellspacing="0" bgcolor="#009286">
 			<tbody><tr>
 				<td width="12" height="38" bgcolor="#009286"><img src="/images/shim.gif" width="12" height="1" border="0"></td>
@@ -133,7 +137,7 @@
 				<td colspan="3" height="8" width="628" bgcolor="#009286"><img src="/images/shim.gif" width="1" height="8" border="0"></td>
 			</tr>
 		</tbody></table>
-		<table width="628" border="0" bgcolor="#FFFFFF" cellpadding="0" cellspacing="0" valign="top" height="100%">
+		<table width="628" border="0" bgcolor="#FFFFFF" cellpadding="0" cellspacing="0" valign="top">
 			<tbody><tr>
 				<td width="12"><img src="/images/shim.gif" width="12" height="1" border="0"></td>
 				<td valign="TOP" align="LEFT" width="604"><br>
@@ -164,7 +168,7 @@ The Netherlands<br>
 <b>Amendments</b><br>
 ABN&nbsp;AMRO reserves the right to modify sections of this Privacy Statement at any time. Please check this statement from time to time for any changes.<br><br></p>
 					 <div class="normalB"></div>
-					<div class="normal"><a href="" target=""></a><br></div>
+					<div class="normal"><br></div>
 					<br>
 				</td>
 				<td width="12" align="right"><img src="/images/shim.gif" width="12" height="1" border="0" align="right"></td>
@@ -175,8 +179,8 @@ ABN&nbsp;AMRO reserves the right to modify sections of this Privacy Statement at
 </tbody></table>
 <table width="780" border="0" cellpadding="0" cellspacing="0" height="40" style="height:40px">
 	<tbody><tr>
-		<td width="152" class="NavBg2Nor" align="LEFT" valign="TOP" height="100%">&nbsp;</td>
-		<td valign="top" width="628" bgcolor="#FFFFFF" height="100%"><table width="628" border="0" cellpadding="0" cellspacing="0" valign="bottom"><tbody><tr><td width="12"><img src="/images/shim.gif" width="12" height="1" border="0"></td><td valign="BOTTOM" align="LEFT" height="100%" width="604"><div class="disclaimer">Please read our <a href="/com/disclaimer/disclaimer.asp" class="disclaimer">disclaimer</a> and <a href="/Com/disclaimer/privacy.asp" class="disclaimer">Privacy Statement</a>.<br>Copyright © 1998-2003 <a href="/com/disclaimer/imprint.asp" class="disclaimer">ABN AMRO Bank N.V.</a><br>All rights reserved.</div></td><td width="12"><img src="/images/shim.gif" width="12" height="1" border="0"></td></tr></tbody></table></td>
+		<td width="152" class="NavBg2Nor" align="LEFT" valign="TOP">&nbsp;</td>
+		<td valign="top" width="628" bgcolor="#FFFFFF"><table width="628" border="0" cellpadding="0" cellspacing="0" valign="bottom"><tbody><tr><td width="12"><img src="/images/shim.gif" width="12" height="1" border="0"></td><td valign="BOTTOM" align="LEFT" width="604"><div class="disclaimer"><a href="/com/disclaimer/disclaimer.jsp" class="disclaimer">Disclaimer</a> | <a href="/com/disclaimer/privacy.jsp" class="disclaimer">Privacy Statement</a> | <a href="/com/disclaimer/security.jsp" class="disclaimer">Security</a><br>Copyright © 1998-2005 <a href="/com/disclaimer/imprint.jsp" class="disclaimer">ABN&nbsp;AMRO&nbsp;Bank&nbsp;N.V.</a><br>All rights reserved.</div></td><td width="12"><img src="/images/shim.gif" width="12" height="1" border="0"></td></tr></tbody></table></td>
 	</tr>
 </tbody></table>
 
