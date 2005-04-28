@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sourceforge.net privacy policy that was archived on 2004-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041030083019id_/http%3A//sourceforge.net/docman/display_doc.php%3Fdocid%3D6049%26group_id%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourceforge.net privacy policy that was archived on 2005-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050428083847id_/http%3A//sourceforge.net/docman/display_doc.php%3Fdocid%3D6049%26group_id%3D1) for the most accurate reproduction.*
 
 # SourceForge.net: H02. Privacy Policy (en)
 
