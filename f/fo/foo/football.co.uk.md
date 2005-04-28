@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the football.co.uk privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207040840id_/http%3A//www.football.co.uk/home/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the football.co.uk privacy policy that was archived on 2005-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050428085330id_/http%3A//www.football.co.uk/home/privacy_policy.shtml) for the most accurate reproduction.*
 
 # England Football News, Results, Fixtures and Fantasy Football UK
-
-|    
-
-
-  
-|  | 
 
 ## Privacy Policy
 
@@ -30,39 +24,3 @@
 
 Thank you for reading our legal section and thank you for choosing Football.co.uk as your reliable source of sports news and views on the Internet. If you have any questions about anything contained in this site, or about your dealings with this site, you can contact Customer Service at Rivals Digital Media, 151 Freston Road, London W10 6TH, United Kingdom or e-mail us on [customerservice@rivalsdm.com](mailto:customerservice@rivalsdm.com).   
 
-
-|  | 
-
-**Top Scorers in Prem to December 4, 2004**
-
-1\. Henry, Arsenal, 13 
-
-2. Johnson, Palace, 9
-
-3\. Pires, Arsenal, 9 
-
-3\. Baros, Liverpool, 7
-
-5\. Bellamy, Toon, 7
-
-5\. Reyes, Arsenal, 6
-
-5\. Anelka, Man City, 6  
-
-5.  JFH, 'Boro, 6  
-
-5\. Yakubu, Pompey, 6 
-
-5\. Pederson, Bolton, 6 
-
-5\. Gudjohnsen, Chelsea,  6
-
-5.  Cole, Fulham, 6 
-
-[All the top scorers for all competitions...](http://stats.football.co.uk/dom/ENG/PR/leadsc.html)
-
-  
-  
-  
-  
-|  |  | 
