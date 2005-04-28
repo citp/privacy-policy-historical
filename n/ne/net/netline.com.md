@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netline.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205003324id_/http%3A//www.netline.com/About/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netline.com privacy policy that was archived on 2005-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050428075310id_/http%3A//www.netline.com/About/privacy.html) for the most accurate reproduction.*
 
 # NetLine Corporation - About NetLine - Privacy Policy
 
