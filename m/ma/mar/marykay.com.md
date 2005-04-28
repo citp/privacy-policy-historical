@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marykay.com privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211001828id_/http%3A//marykay.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marykay.com privacy policy that was archived on 2005-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050428031219id_/http%3A//www.marykay.com/privacy.asp) for the most accurate reproduction.*
 
 # Mary Kay Inc. Online Privacy Pledge
 
@@ -62,7 +62,7 @@ Mary Kay Inc. respects the online privacy of all online visitors. By using the W
 We use e-mail links on this page to allow you to contact us directly with any questions or comments you may have and try to reply promptly. We use this information to respond to your questions and may record your comments to improve our customer service. If you have any questions about the Mary Kay Inc. Online Privacy Statement, please e-mail us at [privacy@marykayinc.com](mailto:privacy@marykayinc.com).  
   
   |    
-  | ©2004 Mary Kay Inc. All rights reserved.   
+  | ©2005 Mary Kay Inc. All rights reserved.   
 No portion may be reproduced without written permission of Mary Kay Inc.  
 Click here to contact the [Webmaster.](mailto:webmaster@marykayinc.com)  
   | [En español](https://web.archive.org/privacy_span.asp)
