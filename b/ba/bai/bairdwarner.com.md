@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bairdwarner.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205104111id_/http%3A//www.bairdwarner.com/content/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bairdwarner.com privacy policy that was archived on 2005-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050428082255id_/http%3A//www.bairdwarner.com/content/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Baird & Warner PRIVACY POLICY
 
