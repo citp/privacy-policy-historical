@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logisticsjobsite.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011062800id_/http%3A//logisticsjobsite.com/MKT/Content/JS/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logisticsjobsite.com privacy policy that was archived on 2005-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050428050800id_/http%3A//www.logisticsjobsite.com/MKT/Content/JS/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # Logistics Jobsite - Search Jobs and Resumes in Transportation/Logistics
 
