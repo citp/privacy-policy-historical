@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solium.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011000845id_/http%3A//solium.com/html/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solium.com privacy policy that was archived on 2005-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050428073320id_/http%3A//www.solium.com/html/privacy_policy.html) for the most accurate reproduction.*
 
 # Solium Capital Inc. | Privacy Policy
 
@@ -44,5 +44,5 @@ Solium's Ten Privacy Protection Principles
   
   |   
    
-COPYRIGHT © 2004 SOLIUM CAPITAL INC. ALL RIGHTS RESERVED. [](https://web.archive.org/html/privacy_policy.html)  
+COPYRIGHT © 2005 SOLIUM CAPITAL INC. ALL RIGHTS RESERVED. [](https://web.archive.org/html/privacy_policy.html)  
 |  | 
