@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotrussianbrides.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205163618id_/http%3A//hotrussianbrides.com/pub/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotrussianbrides.com privacy policy that was archived on 2005-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050429133209id_/http%3A//hotrussianbrides.com/pub/privacy.asp) for the most accurate reproduction.*
 
-# Hot Russian Brides - Our Privacy Policy
+# Our Privacy Policy
 
 The following privacy policy (the “Privacy Statement”) is posted by Romantic Tours, Inc. as the owner and operator of this web site under the trademark [**HotRussianBrides.com**](http://www.hotrussianbrides.com/). Romantic Tours, Inc. has a strong commitment to providing excellent service to its customers, while respecting their concerns about privacy and security. This statement contains general and technical details about the steps we take to protect you and your information. 
 
@@ -30,7 +30,7 @@ Log Files  **
 Like most standard web site servers, we use log files. These log files include information such as Internet protocol (IP) addresses, Internet browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and the number of clicks, to analyze trends, administer the web site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. 
 
 **Communication from the Web Site  **  
-Members will receive a notification message at their personal email address when new messages appear in their [**HotRussianBrides.com**](http://www.hotrussianbrides.com/) mailbox. They can customize this convenience to get a notification once a day, once a week, or for every new email they receive. To tailor this service, members need only click on “Web Site Preferences” located in the right-hand column of their Account page. On occasion, we may send members promotional messages or announcements that are strictly service related. Members may not opt out of these communications.  
+Members will receive a notification message at their personal email address when new messages appear in their [**HotRussianBrides.com**](http://www.hotrussianbrides.com/) mailbox. They can customize this convenience to get a notification once a day, once a week, for every new email they receive, or not at all. To tailor this service, members need only click on “Web Site Preferences” located in the right-hand column of their Account page. On occasion, we may send members promotional messages or announcements that are strictly service related. Members may not opt out of these communications.  
 
 **Sharing  **  
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our web site. 
@@ -38,7 +38,7 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
 **Links  **  
 This web site contains links to other web sites. Please be aware that Romantic Tours, Inc. is not responsible for the privacy practices of such other web sites. This privacy statement applies solely to information collected by this web site.   
   
-3\. SecuritY:
+3\. Security:
 
 This web site takes every precaution to protect our users' information. When users submit sensitive information via the web site, their information is protected both online and offline. When our registration/order process asks users to provide sensitive information (i.e., credit card number) that information is encrypted and protected with encryption software – VeriSign®. 
 
