@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realestatematchmaker.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204101017id_/http%3A//www.realestatematchmaker.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realestatematchmaker.com privacy policy that was archived on 2005-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050430071946id_/http%3A//www.realestatematchmaker.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy realestatematchmaker.com
 
