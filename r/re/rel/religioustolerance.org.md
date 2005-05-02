@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the religioustolerance.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204085938id_/http%3A//www.religioustolerance.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the religioustolerance.org privacy policy that was archived on 2005-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050502064915id_/http%3A//www.religioustolerance.org/privacy.htm) for the most accurate reproduction.*
 
 # OCRT Privacy statement
 
@@ -16,7 +16,7 @@ Surveys have indicated that almost all users of the Internet are concerned about
 
 The _Ontario Consultants on Religious Tolerance_ has created this privacy statement in order to demonstrate our firm commitment to our readers' privacy. The following discloses our information gathering and dissemination practices for this website: **ReligiousTolerance.org**. We have also added some material on our site's contents and external links. 
 
-If you have any concerns, please [Email us.](mailto:ocrt2@religioustolerance.org?subject=PRIVACY)
+If you have any concerns, please [Email us.](mailto:ocrt4@religioustolerance.org?subject=PRIVACY)
 
 ### Information that we can access:
 
@@ -28,7 +28,7 @@ If you have any concerns, please [Email us.](mailto:ocrt2@religioustolerance.org
 
 The only information that we share is on our web site for all to see:
 
-**Click below to Visit one of our Sponsors:**
+**Click below to visit one of our sponsors:**
 
 ### External links from our web site:
 
@@ -42,7 +42,7 @@ About one out of every thousand E-mails contains a thought provoking theological
 
 ### Child visitors:
 
-A [poll of our readers](https://web.archive.org/web/20041204085938id_/http%3A//www.religioustolerance.org/poll_dat.htm) has indicated that 0.2% are under 13 years of age. The _Children's Online Privacy Protection Act_ became effective in the U.S. on 2000-APR-21. **2** It requires compliance from commercial web sites which:
+A [poll of our readers](https://web.archive.org/web/20050502064915id_/http%3A//www.religioustolerance.org/poll_dat.htm) has indicated that 0.2% are under 13 years of age. The _Children's Online Privacy Protection Act_ became effective in the U.S. on 2000-APR-21. **2** It requires compliance from commercial web sites which:
 
 We do not believe that our site qualifies under either of these criteria.
 
@@ -62,7 +62,7 @@ PO Box 27026
 Kingston ON, Canada  
 K7M 8A3
 
-Email: [ocrt2@religioustolerance.org](mailto:ocrt2@religioustolerance.org)
+Email: [ocrt4@religioustolerance.org](mailto:ocrt4@religioustolerance.org)
 
 Fax: 613.547.9015 
 
@@ -79,4 +79,4 @@ Voice: 416.238.1302. Our office is staffed at irregular times. We are in the Eas
 Latest update: 2003-JUN-16  
 Author: B.A. Robinson**
 
-#### [ ](https://web.archive.org/web/20041204085938id_/http%3A//www.religioustolerance.org/welcome.htm#new) [ ](https://web.archive.org/web/20041204085938id_/http%3A//www.religioustolerance.org/search.htm) [ ](https://web.archive.org/web/20041204085938id_/http%3A//www.religioustolerance.org/toc.htm) [ ](https://web.archive.org/web/20041204085938id_/http%3A//www.religioustolerance.org/mail.htm) [ ](https://web.archive.org/web/20041204085938id_/http%3A//www.religioustolerance.org/help.htm) 
+#### [ ](https://web.archive.org/web/20050502064915id_/http%3A//www.religioustolerance.org/index.htm#new) [ ](https://web.archive.org/web/20050502064915id_/http%3A//www.religioustolerance.org/search.htm) [ ](https://web.archive.org/web/20050502064915id_/http%3A//www.religioustolerance.org/toc.htm) [ ](https://web.archive.org/web/20050502064915id_/http%3A//www.religioustolerance.org/mail.htm) [ ](https://web.archive.org/web/20050502064915id_/http%3A//www.religioustolerance.org/help.htm) 
