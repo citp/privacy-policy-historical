@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neutrogena.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210195157id_/http%3A//www.neutrogena.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neutrogena.com privacy policy that was archived on 2005-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050502210924id_/http%3A//www.neutrogena.com/Privacy.asp) for the most accurate reproduction.*
 
 # Neutrogena: privacy notice
 
@@ -66,7 +66,7 @@ This site may contain links or references to other Web sites. Please be aware th
 
 ### Other Terms
 
-Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20041210195157id_/http%3A//www.neutrogena.com/Legal.asp). 
+Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20050502210924id_/http%3A//www.neutrogena.com/Legal.asp). 
 
 ### How to Contact Us
 
@@ -79,6 +79,10 @@ If you have any questions, comments, or concerns about this Privacy Policy or th
 >  310-642-1150   
 >  [ntgweb@neuus.jnj.com](mailto:ntgweb@neuus.jnj.com)**
 
+### Safe Harbor Privacy Policy 
+
+Neutrogena Corporation has certified to the [Safe Harbor Agreement](https://web.archive.org/web/20050502210924id_/http%3A//www.neutrogena.com/safeharbor.asp) with respect to personal data for clinical operations from countries in the European Union. 
+
 ### Changes to This Privacy Policy
 
-If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on 10/23/2000. 
+If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on 12/29/2004. 
