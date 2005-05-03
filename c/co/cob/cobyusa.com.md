@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cobyusa.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602225440id_/https%3A//www.cobyusa.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cobyusa.com privacy policy that was archived on 2005-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050503210219id_/http%3A//www.cobyusa.com/privacy.htm) for the most accurate reproduction.*
 
-# Coby Online-Terms and Conditions
-
-**Privacy Policy**
+# COBY Online
 
 Your privacy is important to COBY. This statement discloses the information practices for COBY's Websites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared. 
 
