@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esc13.net privacy policy that was archived on 2004-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041013024054id_/http%3A//www.esc13.net/webprivacypolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esc13.net privacy policy that was archived on 2005-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050504130614id_/http%3A//www.esc13.net/webprivacypolicy.pdf) for the most accurate reproduction.*
 
 # Region XIII Education Service Center Website Privacy Statement
 
