@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nwcn.com privacy policy that was archived on 2004-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041213232759id_/http%3A//www.nwcn.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwcn.com privacy policy that was archived on 2005-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050505234913id_/http%3A//www.nwcn.com/registration/privacy.html) for the most accurate reproduction.*
 
 # NWCN.com | News for NW Cable News | Terms of Service
 
@@ -6,9 +6,9 @@
 
 [](https://web.archive.org/about/onnwcn.html)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.nwcn.com/aboutus/174224585/Left/default/empty.gif/7a2f4868346c343066594d4144705a68?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.nwcn.com/aboutus/1972192013/Left/default/empty.gif/7a2f486f655634306659554141594d38?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.nwcn.com/aboutus/988224251/Left1/default/empty.gif/7a2f4868346c343066594d4144705a68?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.nwcn.com/aboutus/1821581838/Left1/default/empty.gif/7a2f486f655634306659554141594d38?x)
 
 [](http://www.nwsource.com/)
 
@@ -130,6 +130,6 @@ This text is invisible on the page, but this text is affected by the invisible i
 
 | 
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.nwcn.com/aboutus/321090010/Position4/default/empty.gif/7a2f4868346c343066594d4144705a68?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.nwcn.com/aboutus/401340243/Position4/default/empty.gif/7a2f486f655634306659554141594d38?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.nwcn.com/aboutus/1907707043/Position5/default/empty.gif/7a2f4868346c343066594d4144705a68?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.nwcn.com/aboutus/782316774/Position5/default/empty.gif/7a2f486f655634306659554141594d38?x)
