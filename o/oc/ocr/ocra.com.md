@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ocra.com privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223163054id_/http%3A//www.ocra.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocra.com privacy policy that was archived on 2005-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050507014134id_/http%3A//www.ocra.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy & Use of this Website :: OCRA
 
@@ -15,7 +15,9 @@ Last Updated: 5th October 2004
 » Keeping your Personal Information secure  
 » Access to and accuracy of your Personal Information  
 » Sharing or disclosing Personal Information  
-» Distribution of Personal Information outside the EEA  
+» Distribution of Personal Information outside the EEA
+
+  
 » Changes to Our Privacy Policy  
 » Contacting Us
 
@@ -39,11 +41,7 @@ This Privacy Policy ceases to apply when persons contract with us and become our
 ### External Review of this Privacy Policy
 
   
-By participating in the Council of Better Business Bureau's BBBOnLine Privacy Programme we have made a commitment to meet the programme's strict requirements regarding how we treat any information you may submit to us through www.ocra.com and have had our privacy policy and related procedures verified by BBBOnLine. Further information about The BBBOnLine Privacy Programme is available at [www.bbbonline.org](http://www.bbbonline.org/). 
-
-Certain Members of OCRA Worldwide, such as OCRA (Mauritius) Limited, OCRA (Luxembourg) S.A. and Madeira Management Companhia Limitada, operate their own web sites and their privacy and security policies and websites have not being verified by BBBOnLine. 
-
-Additionally and in order to enhance the protection of your privacy and our compliance with this Privacy Policy, OCRA (Isle of Man) Limited has become a licensee of the TRUSTe Privacy Program and we have agreed to disclose our information practices and to have our practices reviewed for compliance by TRUSTe. TRUSTe is an independent, non-profit organisation whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. By displaying the TRUSTe trustmark, OCRA Worldwide has agreed to notify you of: 
+In order to enhance the protection of your privacy and our compliance with this Privacy Policy, OCRA (Isle of Man) Limited has become a licensee of the TRUSTe Privacy Program and we have agreed to disclose our information practices and to have our practices reviewed for compliance by TRUSTe. TRUSTe is an independent, non-profit organisation whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. By displaying the TRUSTe trustmark, OCRA Worldwide has agreed to notify you of: 
 
   * What personally identifiable information of yours is collected by OCRA Worldwide. 
   * The organisation collecting the information. 
@@ -129,7 +127,5 @@ Grosvenor Court
 Tower Street  
 Ramsey, Isle of Man IM8 1JA  
 British Isles 
-
-[](http://www.bbbonline.org/cks.asp?id=2030801105833193)
 
 [](https://www.truste.org/ivalidate.php?url=www.ocra.com)
