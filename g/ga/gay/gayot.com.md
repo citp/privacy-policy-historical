@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gayot.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204020348id_/http%3A//www.gayot.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gayot.com privacy policy that was archived on 2005-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050507012201id_/http%3A//www.gayot.com/aboutus/privacy.html) for the most accurate reproduction.*
 
 # Gayot.com: About Us
 
@@ -32,7 +32,13 @@ Note that Gayot will not send you any unsolicited information, including email, 
 Personal information collected by Gayot is stored and maintained in secure operating environments that are not available to the public. Gayot does not sell or rent member information to anyone, although as discussed under the section on "Personal Information Utilization," certain demographic information is made available to other sites or advertisers on an aggregated basis. When we ask you for personal information, you are sharing that information with Gayot alone, unless it is specifically stated otherwise. We do not share personal information with any third parties unless we have belief that such action is necessary to: either conform to legal requirements, protect the rights of Gayot, or enforce the Gayot Terms of Service. Please be aware that Gayot advertisers or websites that have links on our site may collect personally identifiable information about you when you access their site or use their services. As stated below, the information practices of third-party websites are not covered by this privacy statement. 
 
 **Third Party Web Sites**   
-Gayot links to third-party websites. These linked sites are not under the control of Gayot and are not affiliated with Gayot. Gayot cannot be responsible for the contents of any linked site or the contents of any link contained in a linked site. 
+Gayot links to third-party websites. These linked sites are not under the control of Gayot and are not affiliated with Gayot. Gayot cannot be responsible for the contents of any linked site or the contents of any link contained in a linked site.
+
+**Third Party Advertising**  
+We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.maxonline.com/privacy_policy/index.php).
+
+**Third Party Cookies**  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. 
 
 **WebTrends Live  
 **WebTrends Live is used to analyze traffic to this web site. WebTrends Live does not create individual profiles for visitors. Unlike some tracking services WebTrends Live does not have a database of individual profiles for each visitor. WebTrends Live only collects aggregate data. For more information about WebTrends Live privacy policy, please [click here](http://www.webtrendslive.com/wtl_system/privacy_policy.htm).  
@@ -58,4 +64,6 @@ Cyberlingot, Inc.
 Los Angeles, CA 90010  
 USA  
 Tel.: 323.965.3529   
-Fax: 323.936.2883 
+Fax: 323.936.2883  
+  
+
