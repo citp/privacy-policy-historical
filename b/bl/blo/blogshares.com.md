@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogshares.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204012003id_/http%3A//www.blogshares.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogshares.com privacy policy that was archived on 2005-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050507105227id_/http%3A//www.blogshares.com/privacy.html) for the most accurate reproduction.*
 
 # BlogShares - Terms of Service
 
