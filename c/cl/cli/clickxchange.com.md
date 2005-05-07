@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickxchange.com privacy policy that was archived on 2004-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041231091343id_/http%3A//clickxchange.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickxchange.com privacy policy that was archived on 2005-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050507103201id_/http%3A//clickxchange.com/privacy.phtml) for the most accurate reproduction.*
 
 # Create or join an affiliate program with clickXchange.com
 
