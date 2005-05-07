@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myoffers.co.uk privacy policy that was archived on 2004-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041213042126id_/http%3A//www.myoffers.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myoffers.co.uk privacy policy that was archived on 2005-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050507100802id_/http%3A//www.myoffers.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # Win prizes online with MyOffers :: The UK's Leading Prize Draw Site
 
