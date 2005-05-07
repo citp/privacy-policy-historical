@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the codeproject.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207013531id_/http%3A//www.codeproject.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeproject.com privacy policy that was archived on 2005-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050507084251id_/http%3A//www.codeproject.com/info/privacy.asp) for the most accurate reproduction.*
 
-# The Code Project - CodeProject Privacy Policy - Free Source Code and Tutorials
+# The Code Project - Privacy Policy - Free Source Code and Tutorials
 
   
 
-
-CodeProject Privacy Policy
 
 Last updated: Tuesday 15th April, 2003
 
@@ -61,7 +59,12 @@ We may occasionally update this privacy statement. When we do, we will also revi
 
 **Contact Information**
 
-If you have questions about our privacy statement or our use of your information, or if you need help changing your personal information, please contact us by sending e-mail to [webmaster@codeproject.com](mailto:webmaster@codeproject.com). 
+If you have questions about our privacy statement or our use of your information, or if you need help changing your personal information, please contact us by sending e-mail to [webmaster@codeproject.com](mailto:webmaster@codeproject.com) or contacting us at: 
+
+> The Code Project   
+>  500-250 Ferrand Drive  
+>  Toronto Ontario, M3C 3G8  
+>  ph: 416-642-1998 
 
   
 
