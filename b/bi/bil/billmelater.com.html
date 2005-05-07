@@ -1,0 +1,627 @@
+<!--The following is the downloaded HTML source of the billmelater.com privacy policy that was archived on 2005-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050507151620id_/http%3A//www.bill-me-later.com/wss/help/privacy.do) for the most accurate reproduction.-->
+
+<html><!-- START head --><head>
+    
+    
+        
+        
+    
+
+
+
+<title>Bill Me Later</title>
+
+    <meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+    <link href="/wss/css/bml-main.css" rel="stylesheet">
+    <style type="text/css">
+/* <![CDATA[ */ 
+@import "/wss/css/bml-main.css";
+/*  ]]> */
+	</style>
+    <script src="/wss/js/common.js" language="JavaScript"></script>
+    
+    
+    <script src="/wss/js/billpay/menu_src.js" language="JavaScript"></script>	
+    <script language="JavaScript">
+		if(ns4) _d.write("<script src=/wss/js/billpay/mmenuns4.js language=\"JavaScript\"><\/script>");		
+		  else  _d.write("<script src=/wss/js/billpay/mmenudom.js language=\"JavaScript\"><\/script>"); 
+	</script><script src="/wss/js/billpay/mmenudom.js" language="JavaScript"></script><script>function $9(ap){return _f}</script> 
+    
+
+
+
+
+<script language="JavaScript">
+
+// Set all Menu Properties in this file
+
+// HELP with Menu Properties can be found at http://milonic.com/itemproperties.php
+
+_menuCloseDelay=200           // The time delay for menus to remain visible on mouse out
+_menuOpenDelay=50            // The time delay before menus open on mouse over
+_followSpeed=5                // Follow scrolling speed
+_followRate=40                // Follow scrolling Rate
+_subOffsetTop=7              // Sub menu top offset
+_subOffsetLeft=2        // Sub menu left offset
+_scrollAmount=3               // Only needed for Netscape 4.x
+_scrollDelay=20               // Only needed for Netcsape 4.x
+
+
+with(menuStyle=new mm_style()){
+onbgcolor="#000099"; 
+oncolor="#FEFFB9";
+offbgcolor="#000099";
+offcolor="#FFFFFF";
+separatorcolor="#000099";
+separatorsize="52";
+padding=3;
+fontsize="11px";
+fontstyle="normal";
+fontweight="bold";
+fontfamily="Arial, Verdana";
+pagecolor="#FEFFB9"; // font color if current page
+}
+
+with(menuStyle2=new mm_style()){
+onbgcolor="#99CCFF"; 
+oncolor="#C96D41";
+offbgcolor="#99CCFF";
+offcolor="#000077";
+separatorcolor="#FFFFFF";
+separatorsize="1";
+padding=3;
+fontsize="11px";
+fontstyle="normal";
+fontweight="normal";
+fontfamily="Arial, Verdana";
+subimage="/wss/images/bml/arrow_off.gif";
+onsubimage="/wss/images/bml/arrow_on.gif";
+itemwidth=105;
+pagecolor="#C96D41"; // font color if current page
+}
+
+with(menuStyle3=new mm_style()){
+onbgcolor="#CDE6FF"; 
+oncolor="#C96D41";
+offbgcolor="#CDE6FF";
+offcolor="#000077";
+separatorcolor="#FFFFFF";
+separatorsize="1";
+padding=3;
+fontsize="11px";
+fontstyle="normal";
+fontweight="normal";
+fontfamily="Arial, Verdana";
+pagecolor="#C96D41"; // font color if current page
+}
+
+
+with(milonic=new menuname("Main Menu")){
+style=menuStyle;
+top=64;
+left=135;
+alwaysvisible=1;
+orientation="horizontal";
+aI("text=Home;url=/wss/index.do;status=Bill Me Later Home;");
+aI("text=About Bill Me Later&reg;;url=/wss/help/aboutus.do;showmenu=ABOUT;status=About Bill Me Later;");
+aI("text=Manage Account;showmenu=MANAGE;status=Manage Account;");
+aI("text=Where to Shop;url=/wss/merchants/index.do;status=Where to Shop;");
+aI("text=Login;url=/wss/security/login.do;status=Login;");
+}
+
+// 'About Bill Me Later' Sub-Menu
+
+with(milonic=new menuname("ABOUT")){
+style=menuStyle2;
+overflow="scroll";
+aI("text=FAQs;url=/wss/help/faqs.do;status=Frequently Asked Questions;");
+}
+
+
+// 'Manage Account' Sub-Menu
+
+with(milonic=new menuname("MANAGE")){
+style=menuStyle2;
+overflow="scroll";
+aI("text=View Activity;url=/wss/account/activity.do;showmenu=VIEW;status=View Activity;");
+aI("text=Pay Online;url=/wss/singlesignon/proxy.do?action=MakePayment;showmenu=PAY;status=Pay Online;");
+aI("text=Update Account;showmenu=UPDATE;status=Update Account;");
+}
+
+// 'Manage Account > View Activity' Sub-Menu
+with(milonic=new menuname("VIEW")){
+style=menuStyle3;
+overflow="scroll";
+aI("text=Account Summary;url=/wss/singlesignon/proxy.do?action=AcctSummary;status=Account Summary;");
+aI("text=Current Activity;url=/wss/account/activity.do;status=Current Activity;");
+aI("text=Statements;url=/wss/singlesignon/proxy.do?action=StatementList;status=Statements;");
+}
+
+// 'Manage Account > Pay Online' Sub-Menu
+
+with(milonic=new menuname("PAY")){
+style=menuStyle3;
+overflow="scroll";
+aI("text=Make a Payment;url=/wss/singlesignon/proxy.do?action=MakePayment;status=Make a Payment;");
+aI("text=View Payment History;url=/wss/singlesignon/proxy.do?action=PaymentHistory;status=View Payment History;");
+aI("text=ePay Settings;url=/wss/singlesignon/proxy.do?action=FundingList;status=Add/Change Funding;");
+aI("text=View ePay Terms;url=/wss/singlesignon/proxy.do?action=ViewTerms;status=View ePay Terms;"); 
+}
+
+// 'Manage Account > Update Account' Sub-Menu
+
+with(milonic=new menuname("UPDATE")){
+style=menuStyle3;
+overflow="scroll";
+aI("text=Change Password;url=/wss/profile/updatepassword.do;status=Change Password;");
+aI("text=Change Personal Info;url=/wss/profile/updateinfo.do;status=Change Personal Info;");
+aI("text=Change Q&amp;A;url=/wss/profile/updateqanda.do;status=Change Q&A;");
+aI("text=Statement Preferences;url=/wss/profile/statementprefs.do;status=Statement Preferences;");
+}
+
+
+drawMenus();
+</script></head><body bgcolor="#ffffff" topmargin="0" marginheight="0" leftmargin="0" marginwidth="0" onload="MM_preloadImages('/wss/images/bml/convenience.gif','/wss/images/bml/flexibility.gif','/wss/images/bml/security.gif','/wss/images/bml/why_on.gif','/wss/images/bml/myaccount_on.gif','/wss/images/bml/about_on.gif','/wss/images/bml/sn_accountc_on.gif','/wss/images/bml/accountactivity_on.gif','/wss/images/bml/acctprofile_on.gif','/wss/images/bml/paststatements_on.gif','/wss/images/bml/login_on.gif','/wss/images/bml/home_on.gif','/wss/images/bml/become_on.gif','/wss/images/bml/home_on.jpg','/wss/images/bml/about_on.jpg','/wss/images/bml/account_on.jpg','/wss/images/bml/update_on.jpg','/wss/images/bml/login_on.jpg','/wss/images/bml/logout_on.jpg');"><div class="mmenu" onmouseout="$I()" onmouseover="$J()" onselectstart="return" _f="" id="menu0" style="padding: 0px; background: rgb(0, 0, 153); z-index: 999; visibility: visible; position: absolute; top: 64px; left: 135px;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="padding:0px" id="tbl0"><tbody><tr><td nowrap="" id="el0" onmouseover="h$(0)" style=";padding:3px;background:#000099;"><a name="mM1" href="/wss/index.do" id="lnk0" style="border:none;;width:100%;background:transparent;display:block;color:#FFFFFF;font-Family:Arial, Verdana;font-Weight:bold;font-Style:normal;font-Size:11px;text-Decoration:none;">Home</a></td><td id="sep0" style="padding:0px;width:52px;;background:#000099"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="padding:0px" width="52"><tbody><tr><td style="padding:0px;"></td></tr></tbody></table></td><td nowrap="" id="el1" onmouseover="h$(1)" style=";padding:3px;background:#000099;"><a name="mM1" href="/wss/help/aboutus.do" id="lnk1" style="border:none;;width:100%;background:transparent;display:block;color:#FFFFFF;font-Family:Arial, Verdana;font-Weight:bold;font-Style:normal;font-Size:11px;text-Decoration:none;">About Bill Me Later®</a></td><td id="sep1" style="padding:0px;width:52px;;background:#000099"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="padding:0px" width="52"><tbody><tr><td style="padding:0px;"></td></tr></tbody></table></td><td nowrap="" id="el2" onmouseover="h$(2)" style=";padding:3px;background:#000099;"><div onclick="$K(2)" name="mM1" href="undefined" id="lnk2" style="border:none;;width:100%;background:transparent;display:block;color:#FFFFFF;font-Family:Arial, Verdana;font-Weight:bold;font-Style:normal;font-Size:11px;text-Decoration:none;">Manage Account</div></td><td id="sep2" style="padding:0px;width:52px;;background:#000099"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="padding:0px" width="52"><tbody><tr><td style="padding:0px;"></td></tr></tbody></table></td><td nowrap="" id="el3" onmouseover="h$(3)" style=";padding:3px;background:#000099;"><a name="mM1" href="/wss/merchants/index.do" id="lnk3" style="border:none;;width:100%;background:transparent;display:block;color:#FFFFFF;font-Family:Arial, Verdana;font-Weight:bold;font-Style:normal;font-Size:11px;text-Decoration:none;">Where to Shop</a></td><td id="sep3" style="padding:0px;width:52px;;background:#000099"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="padding:0px" width="52"><tbody><tr><td style="padding:0px;"></td></tr></tbody></table></td><td nowrap="" id="el4" onmouseover="h$(4)" style=";padding:3px;background:#000099;"><a name="mM1" href="/wss/security/login.do" id="lnk4" style="border:none;;width:100%;background:transparent;display:block;color:#FFFFFF;font-Family:Arial, Verdana;font-Weight:bold;font-Style:normal;font-Size:11px;text-Decoration:none;">Login</a></td></tr></tbody></table> <a name="mM1" id="mmlink0" href="#" onclick="return $K(this._itemRef)" onmouseout="_mot=setTimeout('k$(this._itemRef)',99)" onmouseover="return $L(this._itemRef)" style="line-height:normal;background:transparent;text-decoration:none;height:1px;width:1px;overflow:hidden;position:absolute;"></a></div><div class="mmenu" onmouseout="$I()" onmouseover="$J()" onselectstart="return" _f="" id="menu1" style="padding:0px;background:#99CCFF;z-index:499;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenu" onmouseout="$I()" onmouseover="$J()" onselectstart="return" _f="" id="menu2" style="padding:0px;background:#99CCFF;z-index:499;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenu" onmouseout="$I()" onmouseover="$J()" onselectstart="return" _f="" id="menu3" style="padding:0px;background:#CDE6FF;z-index:499;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenu" onmouseout="$I()" onmouseover="$J()" onselectstart="return" _f="" id="menu4" style="padding:0px;background:#CDE6FF;z-index:499;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenu" onmouseout="$I()" onmouseover="$J()" onselectstart="return" _f="" id="menu5" style="padding:0px;background:#CDE6FF;z-index:499;visibility:hidden;position:absolute;top:-999px;;"></div>
+
+	
+	
+
+
+<!-- END head -->
+
+<!-- START body-start -->
+
+
+
+
+<!-- END body-start -->
+
+<!-- START global-header -->
+
+
+
+
+<table cellspacing="0" cellpadding="0" width="775" border="0">
+  <tbody>
+    <tr>
+      <td width="197" rowspan="2"><a href="/wss/index.do"><img src="/wss/images/bml/BML_logo2.gif" height="63" width="197" border="0"></a></td>
+      <td rowspan="2" valign="bottom"><b><img src="/wss/images/bml/buyfast_flat.gif" height="63" width="378"></b></td>
+      <td valign="bottom"><img src="/wss/images/bml/spacer.gif" height="35" width="180"></td>
+    </tr>
+    <tr>
+      <td align="right"><a href="/wss/help/index.do" class="ahead">Help</a>&nbsp;&nbsp;&nbsp;<a href="/wss/help/sitemap.do" class="ahead">Site Map</a>&nbsp;&nbsp;&nbsp;<a href="/wss/help/contact.do" class="ahead">Contact Us</a>&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+
+<table width="775" border="0" cellpadding="0" cellspacing="0" bgcolor="#000099">
+  <tbody><tr>
+    <td height="21" align="center" class="fineprint"><!-- This bar is here as a placeholder only --></td>
+  </tr>
+</tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" width="775">
+    <tbody><tr>
+        <td valign="top">
+            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+<!-- END global-header -->
+
+
+
+
+
+<!-- START body -->
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+		
+
+        <tbody><tr>
+          <td>
+            <table border="0" cellpadding="0" cellspacing="0">
+              <tbody><tr>
+                <td><img src="/wss/images/spacer.gif" height="5" width="60" border="0"></td>
+                <td><img src="/wss/images/bml/h_privacys.gif" height="37" width="405" border="0" alt="Personal Profile"></td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table border="0" cellpadding="0" cellspacing="0">
+              <tbody><tr>
+                <td valign="top"><img src="/wss/images/spacer.gif" height="1" width="60" border="0"></td>
+                <td valign="top"></td>
+              </tr>
+            </tbody></table>
+<table border="0" cellpadding="5" cellspacing="0">
+              <tbody><tr>
+                <td></td>
+                <td valign="top" width="7"><img src="/wss/images/spacer.gif" height="5" width="7" border="0"></td>
+                <td class="text">
+                  <br>                 
+                  <p>As the Internet and information technology enable us to expand our services, we are committed to maintaining the trust customers have placed in us for protecting the privacy and security of information we have about you.</p>
+                  <table border="0" cellpadding="2" cellspacing="0">
+                    <tbody><tr>
+                      <td class="text"><b>What we do for you:</b></td>
+                      <td>&nbsp;</td>
+                      <td class="text"><a href="#privacy">Chase Privacy Policy for Bill Me Later® Accounts</a></td>
+                    </tr>
+                    <tr>
+                      <td>&nbsp;</td>
+                      <td>&nbsp;</td>
+                      <td class="text"><a href="#consumer">Our Online Consumer Information Practices</a></td>
+                    </tr>
+                    <tr>
+                      <td class="text">&nbsp;</td>
+                      <td>&nbsp;</td>
+                      <td class="text">&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td class="text"><b>What you can do:</b></td>
+                      <td>&nbsp;</td>
+                      <td class="text"><a href="#security">Online Security Tips for You</a></td>
+                    </tr>
+                  </tbody></table>                  </td>
+              </tr>
+
+              <tr>
+                <td>&nbsp;</td>
+                <td colspan="2"><a name="privacy"></a>
+                  <br>                
+                <hr></td>
+              </tr>
+              <tr>
+                <td><img src="/wss/images/spacer.gif" height="13" width="70" border="0"></td>
+                <td colspan="2">
+                  <table cellspacing="0" cellpadding="0" border="0">
+                    <tbody><tr>
+                      <td height="5" colspan="3" bgcolor="White"><img src="/wss/images/spacer.gif" height="5" width="1" border="0"></td>
+                      <td height="100%" rowspan="3" valign="bottom" nowrap="" class="orangetitle01"><img src="/wss/images/spacer.gif" width="4" border="0">&nbsp;Privacy Policy</td>
+                    </tr>
+                    <tr>
+                      <td height="1" colspan="3" bgcolor="#008ac6"><img src="/wss/images/spacer.gif" height="1" width="1" border="0"></td>				
+                    </tr>
+                    <tr>
+                      <td height="10" bgcolor="#008ac6"><img src="/wss/images/spacer.gif" height="1" width="1" border="0"></td>
+                      <td height="10"><img src="/wss/images/spacer.gif" height="10" width="10" border="0"></td>
+                      <td height="10" bgcolor="#008ac6"><img src="/wss/images/spacer.gif" height="1" width="1" border="0"></td>
+                    </tr>
+                    <tr>
+                      <td bgcolor="#008ac6" colspan="4"><img src="/wss/images/spacer.gif" height="1" width="1" border="0"></td>				
+                    </tr>
+                  </tbody></table>
+                </td>
+              </tr>
+
+              <tr>
+                <td></td>
+                <td valign="top" width="7"><img src="/wss/images/spacer.gif" height="5" width="7" border="0"></td>
+                <td class="text"> <p>This Policy explains what Chase Manhattan Bank USA, N. A., ("Chase") does to keep information about you private and secure. We want you to know how we manage that information to serve you. This Policy covers only your Bill Me Later Account relationship with Chase. Please read this Policy carefully; if you have another customer relationship with Chase, the Policy governing that relationship may be different. </p>
+                  <p><b>Q. What information do you have about me?<br>
+                    <br> 
+                </b>A. To provide services and to help meet your needs, we collect information about you from various sources.</p>
+                  <ul class="text">
+                    <li>We get information from your requests for our products or services. For example, we get information about you, such as your name, address, phone number, and email address, from a merchant when you request to make a purchase using Bill Me Later for the first time.<br>
+                      <br> 
+                    </li>
+                    <li>We get information about your transactions with us and with others. For example, we have your account balance information.<br>
+                      <br> 
+                    </li>
+                    <li>We get information, such as your credit history, from credit bureaus. </li>
+                  </ul>
+                <p> <b>Q. How do you safeguard information about me?<br>
+                  <br>
+                </b>A. We take a number of steps to protect the privacy of information about you. Here are some examples: </p>
+                <ul class="text">
+                  <li>We keep information under physical, electronic and procedural controls that comply with or exceed governmental standards.<br>
+                    <br>
+                  </li>
+                  <li> We authorize our employees, agents and contractors to get information about you only when they need it to do their work for us.<br>
+                    <br> 
+                  </li>
+                  <li>We require companies working for us to protect information. They agree to use it only to provide the services we ask them to perform for us. </li>
+                  </ul>
+                <p> <b>Q. Is information about me shared within your family of companies? <br>
+                  <br>
+                </b>A. Yes, but only certain types of information. We do not share the following types of information within our family of companies:</p>
+                <ul class="text">
+                  <li> Information from your applications to be used to determine your eligibility, such as your income.<br>
+                    <br>
+                  </li>
+                  <li> Information from credit reports, such as your credit history.<br>
+                    <br>
+                  </li>
+                  <li>Information from sources used to verify information you provide us, such as outstanding loans or employment history.</li>
+                  </ul>
+                <p> We may share other types of information within our family. For example, we may share name and address, information about transactions or balances with us, as well as survey results. </p>
+                <p> <b>Q. Is information about me shared with service providers and financial companies?<br> 
+                <br>
+                </b>A. Yes, as permitted by law. We may share information about you with outside companies that work for us. These may include firms that assist in marketing our products. We may also share information about you with outside financial companies that have joint marketing agreements with us. These arrangements give you the opportunity to receive additional products or services. </p>
+                <p> <b>Q. Is information about me shared with non-financial companies outside your family of companies? </b><br>
+                  <br>
+A. No, unless you specifically authorize us to share information in connection with a particular transaction, product or service.</p>
+                <p> <b>Q. Is information about me shared in any other ways?<br>
+                </b>                  <b><br>
+                </b>A. Yes. We may also share information about you in other ways, as required or permitted by law. Here are some examples of ways that we share information.</p>
+                <ul class="text">
+                  <li> To protect against fraud.</li>
+                  <li>To respond to a subpoena. </li>
+                  <li>To service your account. </li>
+                  <li>With your consent. </li>
+                  </ul>                
+                <p> <b>Q. How do you tell me about your Policy? </b><br>
+                  <br>
+A. We give you our Policy to you when you open a new account. We also send it to current customers yearly. We may change our Policy. We will send you a new policy if we broaden our information sharing practices about you.</p>
+                <p> <b>Special Notice for Vermont Residents.<br>
+                </b><br>
+  If we disclose information about you to other financial institutions with which we have joint marketing agreements, we will only disclose your name, contact information and information about your transactions.</p>
+                <p><b>Special Notice for California Residents. </b><br>
+                  <br>
+In order to comply with California law, the following applies if your account has a California mailing address: </p>                
+                <ul class="text">
+                  <li>We will not share information about you within, or with financial companies outside, our family of companies unless we first provide you with further privacy choices or unless otherwise permitted by law.
+</li>
+                  </ul>                
+                <p><b>Q. Who is covered by this Policy?<br> 
+                </b><br>
+A. This Policy covers the Chase Manhattan Bank USA, National Association. </p>
+                <p><b>Q. Which of my account relationships with Chase are covered by this Policy? </b></p>                
+                <p>A. Only your Bill Me Later Account relationship with Chase is covered by this Policy. </p>
+                <p>This Policy applies to our current and former consumer customers. Separate policies may apply to your other relationships with Chase. Separate policies may apply to customers of certain businesses, such as Private Banking or Insurance. In addition, customers in certain states may also receive policies that apply to them. The privacy policies posted on our web sites apply when you use those sites.</p>
+                </td>
+              </tr>
+
+			  <tr>
+			    <td colspan="3">&nbsp;</td>
+  </tr>
+			  <tr>
+			    <td colspan="3"><a name="consumer"></a>
+                  <a href="#top" class="breadcrumb">Back to Top</a> <hr> </td>
+			  </tr>
+
+			  <tr>
+                <td><img src="/wss/images/spacer.gif" height="13" width="70" border="0"></td>
+                <td colspan="2">
+                  <table cellspacing="0" cellpadding="0" border="0">
+                    <tbody><tr>
+                      <td height="5" colspan="3" bgcolor="White"><img src="/wss/images/spacer.gif" height="5" width="1" border="0"></td>
+                      <td height="100%" rowspan="3" valign="bottom" nowrap="" class="orangetitle01"><img src="/wss/images/spacer.gif" width="4" border="0">&nbsp;Online Consumer Information Practices</td>
+                    </tr>
+                    <tr>
+                      <td height="1" colspan="3" bgcolor="#008ac6"><img src="/wss/images/spacer.gif" height="1" width="1" border="0"></td>				
+                    </tr>
+                    <tr>
+                      <td height="10" bgcolor="#008ac6"><img src="/wss/images/spacer.gif" height="1" width="1" border="0"></td>
+                      <td height="10"><img src="/wss/images/spacer.gif" height="10" width="10" border="0"></td>
+                      <td height="10" bgcolor="#008ac6"><img src="/wss/images/spacer.gif" height="1" width="1" border="0"></td>
+                    </tr>
+                    <tr>
+                      <td bgcolor="#008ac6" colspan="4"><img src="/wss/images/spacer.gif" height="1" width="1" border="0"></td>				
+                    </tr>
+                  </tbody></table>
+                </td>
+              </tr>
+
+			  <tr>
+                <td></td>
+                <td valign="top" width="7"><img src="/wss/images/spacer.gif" height="5" width="7" border="0"></td>
+                <td valign="top" class="text">  <p>Chase is committed to your privacy and security online. We want to satisfy you and provide a superior online experience while respecting your privacy. </p>
+                <p><b>Visiting Our Web Site</b><br>
+                  <br>
+You can browse our site anonymously without identifying yourself during your visit. We will obtain information that personally identifies you when you specifically choose to provide it. <br>
+<br>
+For example, during your visits to our web sites, you may request information, contact us, apply for Chase products or services or conduct transactions online. You will then need to give us certain personal information just as you would if you were communicating with us in person, by mail or by telephone. Be assured that we maintain electronic security safeguards to help protect personal information about you that we obtain via the Internet. </p>
+                <p>By providing information about yourself and your preferences, you can enhance your online experience with us. And, we will be able to better service your requests and/or inquiries.</p>
+                <p> <b>How We Collect Information Online </b><br>
+                  <br>
+When you visit our site we may ask you to "sign-in," complete a survey, or answer simple questions. These may include questions such as where you live, your e-mail address and your interest in receiving e-mail from Chase on new products and services. We collect this information so that we can determine what kinds of products and services are of most interest to you. </p>
+                <blockquote class="text">
+                  <p><b>Online Tracking</b> <br>
+                    <br>
+                    We may track activity and transactions on an individually identifiable basis if you apply for or use a Chase product or service online. We may use identification information we collect in order to protect against actual or potential fraud. In order to constantly improve our web site and better serve our customers online, Chase may use various tracking methods (such as cookies and other technologies, etc.) to gather information about site visitors' browsing activities.</p>
+                  <p> <b>Cookies</b> <br>
+                    <br>
+"Cookies" are small amounts of data that a web site can send to a web browser on a visitor's computer. The cookie is stored on a visitor's computer. A cookie may enable the site holder to track how a visitor navigates through its site and the areas in which they show interest. This is similar to a traffic report: it tracks trends and behaviors, but does not identify individuals. Information gathered may include date and time of visits, pages viewed, time spent at the site, and the site visited just before and just after the Chase site. </p>
+                  <p><b>Types of Cookies <br>
+                    <br>
+                  </b>Cookies can be set to expire: </p>
+                  <ul class="text">
+                  <li>on a specified date </li>
+                  <li> after a specific period of time </li>
+                  <li>when a transaction has been completed </li>
+                  <li>or when a user turns off his/her browser. </li>
+                  </ul>                
+                <p>                  A cookie that is erased from memory when a visitor's browser closes is called a "session" cookie. Cookies that expire based on a time set by the Web server are called "persistent" cookies. <br>
+                  <br>
+                  Persistent cookies may be used in some cases, for example, to recognize when a visitor returns to a web site. The web browser will send the cookie information from the initial visit back to the web site. This is useful to the visitor if he or she has established a password at a particular web site and wants to be identified by that site to perform a function or transaction. <br>
+                  <br>
+                To browse anonymously, you may set your browser to disable cookies or delete cookies. See Refusing Cookies below. Please note that disabling cookies for some services will impact ability to use that service. </p> 
+                <p> <b>Refusing Cookies on Chase Web sites </b><br><br>
+Customers may choose not to accept cookies. Your web browser may alert and permit you to refuse cookies. When you receive an alert, you may choose at that time to refuse that cookie. If the use of cookies is a concern to you, then please make sure your browser has this capability, and that you set your browser to alert you accordingly. Newer browser versions allow you to be alerted or to automatically refuse cookies. You may need to download a more current version of your web browser from your service provider in order to obtain this option. The Bill Me Later websites require the acceptance of cookies to function properly. </p>
+                <p><b>Online Advertising <br>
+                  <br>
+                </b>Chase uses cookies to evaluate our web site and to track advertising leads and campaigns from banner Ads, opt in e-mails and through third party ad services. Chase may hire companies such as third party ad services to track and report performance of advertising and marketing campaigns to and from Chase and third party web sites. We permit certain of these companies to set cookies and use related technology, such as tracking pixels. <br>
+                  <br>
+    These tracking pixels (also known as action tags, web beacons, or transparent GIF files) and other similar tracking technologies may be used to collect and store information about user visits, such as the user's anonymous cookie ID, page visits and duration, and the specific ad or link(s) that the user clicked on to visit the site. No personally identifiable information is stored on these cookies or web pixels. This user activity information is reported to us in aggregate and is anonymous. We use this information in aggregate to understand, for example, the effectiveness of our advertising and marketing. </p>
+                </blockquote>                
+                <p><b>E-mail Communications<br>
+                  <br>
+                </b>If you choose to send us an e-mail message, we may retain the content of the e-mail, your e-mail address, and our response in order to service your needs. <br>
+                  <br>
+If you agree to receive e-mail offers or e-mail messages from Chase, we may use the data that you provide to send you e-mail offers that may be of special interest to you. If you unsubscribe from these e-mail messages, you will not receive these messages from Chase via e-mail. See <i>E-mail Opt Out </i> below for more details. <br>
+<br>
+Please note that some Chase services including the Bill Me Later website require a valid e-mail address in order to register and/or continue use of the service. You will receive e-mail alerts or notification messages from these programs unless you un-enroll from these services. </p>
+                <blockquote class="text">
+                  <p> <b>E-mail Opt Out </b><br>
+                    <br>
+  If you no longer wish to receive e-mail offers or solicitations from Chase, you may unsubscribe by following the instructions in the original e-mail you received. The instructions are generally located at the bottom of the e-mail. If you receive e-mails from third parties or program partners on behalf of Chase, please be sure to unsubscribe through the instructions in the e-mail or contact these third parties directly. <br>
+  <br>
+  If you opt out of e-mail solicitations, Chase reserves the right to contact you via e-mail to service and maintain your account relationship. For example, we may notify you about fraudulent activity on your account, respond to any customer inquiries or requests, or alert you to web site changes or outages. <br>
+  <br>
+  <b>E-mail Tips </b><br>
+  <br>
+  Do not provide your e-mail address to third party web sites without reading the privacy and security policies and terms and conditions of these sites to ensure you understand the circumstances in which your e-mail address will be used. <br>
+  <br>
+  If you suspect suspicious or fraudulent activity related to your account(s), please let your account provider know right away. You should also contact your Internet Service Provider so they may block suspicious messages from your e-mail inbox. To learn more about how to control and manage your incoming e-mails, please refer to your Internet Service Providers' online resources. You may also visit the Federal Trade Commission's web site on spam at <a href="http://www.ftc.gov/spam" target="_blank">http://www.ftc.gov/spam</a>. </p>
+                </blockquote>
+                <p><b>Links to Third Party Sites<br>
+                  <br>
+                </b>Chase is not responsible for the information practices employed by sites linked to or from our web site. In most cases, links to non-Chase web sites are provided solely as pointers to information on topics that may be useful to the users of the Chase web site. Since third party web sites may have different privacy policies and/or security standards governing their sites, we advise you to review the privacy policies and terms and conditions of these sites prior to providing any personal information.</p>
+                <p><b>Children's Online Privacy </b><br>
+                  <br>
+Protecting children on the Internet is very important to us. For that reason, Chase does not intentionally collect information at our web sites from those we actually know are under 13, and no part of our web site is intended to attract anyone under 13. Parents can be proactive and limit web site access to their children by installing filtering software. </p>
+                Children's access to the Internet can permit them to visit inappropriate web sites and be exposed to unnecessary risks. The Children's Online Privacy Protection Act (COPPA) protects children under the age of 13 from the online collection of personal information. Learn more about COPPA at the Federal Trade Commission's web site for children's privacy at <a href="http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html" target="_blank">http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html</a> and by viewing the following link on <a href="http://www.ftc.gov/bcp/conline/pubs/online/kidsprivacy.pdf" target="_blank">How to Protect Kids' Privacy Online</a>.</td>
+              </tr>
+			  <tr>
+			    <td></td>
+			    <td valign="top">&nbsp;</td>
+			    <td valign="top" class="text">&nbsp;</td>
+  </tr>
+			  <tr>
+                <td colspan="3"><a name="security" id="security"></a> <a href="#top" class="breadcrumb">Back to Top</a> <hr></td>
+  </tr>
+
+			  <tr>
+                <td><img src="/wss/images/spacer.gif" height="13" width="70" border="0"></td>
+                <td colspan="2">
+                  <table cellspacing="0" cellpadding="0" border="0">
+                    <tbody><tr>
+                      <td height="5" colspan="3" bgcolor="White"><img src="/wss/images/spacer.gif" height="5" width="1" border="0"></td>
+                      <td height="100%" rowspan="3" valign="bottom" nowrap="" class="orangetitle01">
+                       <img src="/wss/images/spacer.gif" width="4" border="0">&nbsp;Online Security Tips for You</td>
+                    </tr>
+                    <tr>
+                      <td height="1" colspan="3" bgcolor="#008ac6"><img src="/wss/images/spacer.gif" height="1" width="1" border="0"></td>				
+                    </tr>
+                    <tr>
+                      <td height="10" bgcolor="#008ac6"><img src="/wss/images/spacer.gif" height="1" width="1" border="0"></td>
+                      <td height="10"><img src="/wss/images/spacer.gif" height="10" width="10" border="0"></td>
+                      <td height="10" bgcolor="#008ac6"><img src="/wss/images/spacer.gif" height="1" width="1" border="0"></td>
+                    </tr>
+                    <tr>
+                      <td bgcolor="#008ac6" colspan="4"><img src="/wss/images/spacer.gif" height="1" width="1" border="0"></td>				
+                    </tr>
+                  </tbody></table>
+                </td>
+              </tr>
+          <tr>
+                <td></td>
+                <td valign="top" width="7"><img src="/wss/images/spacer.gif" height="5" width="7" border="0"></td>
+                <td valign="top" class="text">
+                  <p><b><br>
+                  Today's Computing Environment <br>
+                  <br>
+                  </b>Many companies, including Chase, are taking advantage of the enormous potential offered by public networks such as the Internet by making more and more of their products and services available "on-line". Chase uses a variety of technologies and techniques to secure its products and services. You can also enhance security and help control risks when using your personal computer or when conducting business on-line. Here are some of the steps you can take. </p>
+                  <p><b> Online Security Guidance </b></p>
+            <blockquote class="text">
+              <p><b>PC Security </b></p>
+              <ul class="text">
+                <li>Control physical access to your personal computer (PC); that is, do what you can to prevent unauthorized persons from using your PC. <br>
+                  <br>
+                </li>
+                <li>If you are using your PC and need to walk away from it for any reason, log off or lock your workstation. <br>
+                  <br>
+                </li>
+                <li>Select passwords that would be difficult for others to guess and change them frequently. <br>
+                  <br>
+                </li>
+                <li>Do not give your passwords to anyone. Do not save passwords on your web site or leave written notes with your password near your PC.<br>
+                  <br>
+                </li>
+
+                <li>Report suspicious activity you notice relating to your PC or use of your PC to the appropriate parties and do so as quickly as possible. If you notice suspicious activity relating to account, promptly <a href="/wss/email/index.do">email us</a> or call us at 1-866-528-3733.</li>
+              </ul>
+              <p><b>Virus Management </b></p>
+              <ul class="text">
+                <li> Install virus management software on your PC and use it regularly.<br>
+                  <br>
+                </li>
+                <li>Keep it up to date (i.e., latest signature files, product upgrades).<br>
+                  <br>
+                </li>
+                <li>Be cautious when downloading and running programs or Java or ActiveX applets as they may contain unsecure data which cannot be filtered, for example, using firewall or anti-virus software.<br>
+                  <br>
+                </li>
+                <li>Use extreme caution when opening Email received from unknown sources and pay special attention to any attachments. Do not launch or open an attachment from an unknown source. When in doubt . . . delete it without opening it. </li>
+              </ul>
+              <p><b>PC Software </b></p>
+              <ul class="text">
+                <li> Understand and use the security features provided by your PC software, such as those included in many operating systems, browsers and word processing systems.<br>
+                  <br>
+                </li>
+                <li>Ensure that your browser uses the strongest encryption available and be aware of the level of encryption used when you connect to various sites and applications. For example, the Bill Me Later website currently requires the use of 128-bit encryption. <br>
+                  <br>
+                </li>
+                <li>Use only software from reliable vendors. <br>
+                  <br>
+                </li>
+                <li>Stay abreast of the latest release and patch levels of the PC software you use. </li>
+              </ul>
+            </blockquote>            <p> <b>Encryption/Browser Check</b> <br>
+              <br>
+Encryption is the scrambling of data into a code that is unreadable to anyone who does not have the key that deciphers it. Only you and Chase have the key to unlock your code. With Bill Me Later, all your account information is protected by 128-bit encryption to maintain the privacy and confidentiality of your data. To take advantage of strong encryption technology, you will need to obtain a secure browser, one that supports 128-bit encryption. </p>
+            <p> <b>Links to Third Party Web Sites</b><br>
+              <br>
+Chase is not responsible for the information practices employed by sites linked to or from our web site. In most cases, links to non-Chase web sites are provided solely as pointers to information on topics that may be useful to the users of the Chase web site. Third party web sites may have different privacy policies and/or security standards governing their sites. </p>
+            <p> <b>E-mail Tips</b> <br>
+              <br>
+Do not provide your e-mail address to third party web sites without reading the privacy and security policies and terms and conditions of these sites to ensure you understand the circumstances in which your e-mail address will be used. <br>
+<br>
+If you suspect suspicious or fraudulent activity related to your Chase account(s), please let us know right away. You should also contact your Internet Service Provider so they may block suspect companies from your e-mail inbox. To learn more about how to control and manage your incoming e-mails, please refer to your Internet Service Provider's online resources. </p>
+            <p> <b>Children Visiting Our Web Site</b> <br>
+              <br>
+Our web site is directed at customers and potential customers, most of whom are adults. However, children may access our web site and provide information. For example, they may request information concerning our products and services and apply for certain products and services such as student loans. Should children access our web site, we are confident that parents will not judge any of the information provided as objectionable for viewing by their children. Parents can avail themselves of various software packages that are available to prevent their children from accessing web sites which they deem to be inappropriate. Parents can choose to utilize this and other methods to limit the web sites which their children have access. </p>            </td>
+  </tr>
+          <tr>
+            <td></td>
+            <td valign="top">&nbsp;</td>
+            <td valign="top" class="text">&nbsp;</td>
+          </tr>
+          <tr>
+            <td colspan="3"><a href="#top" class="breadcrumb">Back to Top</a></td>
+          </tr>
+
+            </tbody></table>          </td>
+        </tr>
+      </tbody></table>
+    </td>
+    <td width="155" valign="top" align="right"><br></td>
+  </tr>
+</tbody></table>
+
+
+
+<!-- END body -->
+
+
+
+<table width="775" height="40" border="0" cellpadding="0" cellspacing="0" bgcolor="#CDE6FF">
+  <tbody><tr>
+    <td align="center" nowrap=""><p><a href="/wss/index.do" class="afoot">HOME</a>&nbsp;&nbsp;&nbsp;<a href="/wss/help/aboutus.do" class="afoot">ABOUT BILL ME LATER®</a>&nbsp;&nbsp;&nbsp;<a href="/wss/merchants/index.do" class="afoot">WHERE TO SHOP</a>&nbsp;&nbsp;&nbsp;
+    <a href="/wss/security/login.do" class="afoot">LOGIN</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/wss/help/privacy.do" class="afoot">PRIVACY &amp; SECURITY</a>&nbsp;&nbsp;&nbsp;<a href="/wss/help/termsofuse.do" class="afoot">TERMS OF USE</a><br>    
+        </p>    </td>
+  </tr>
+  <tr>
+    <td align="center" nowrap="" class="fineprint">Bill Me Later® is offered through Chase Manhattan Bank USA, N.A.
+    &nbsp;&nbsp;&nbsp; Copyright ©2004-2005&nbsp;    <a href="http://www.i4commerce.com"><u>I4 Commerce, Inc.</u></a>
+    &nbsp;&nbsp;&nbsp;All rights reserved.</td>
+
+  </tr>
+</tbody></table>
+
+<!-- END global-footer -->
+
+
+
+
+</body></html>
