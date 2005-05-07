@@ -1,9 +1,20 @@
-> *The following text is extracted and transformed from the cnb.com privacy policy that was archived on 2002-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020407171443id_/http%3A//cnb.com/infocenter/terms/privstat.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnb.com privacy policy that was archived on 2005-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050507184154id_/http%3A//www.cnb.com/infocenter/terms/privstat.htm) for the most accurate reproduction.*
 
-# City National Bank: Information Center - Terms and Conditions - Privacy Statement
+# City National Bank: About Us - Terms and Conditions - Privacy Statement
 
-**CITY NATIONAL CORPORATION  
-STATEMENT OF PRIVACY PRINCIPLES**
+  
+|  |   
+---|---  
+| [Contact Us ](https://web.archive.org/infocenter/contact/index.htm)  
+| [Branch & Office Locator](http://clients.mapquest.com/citynational/mqinterconnect?link=cnb1find)  
+| [Career Center ](https://web.archive.org/infocenter/careers/index.shtml)  
+| [Company Overview [PDF]](https://web.archive.org/infocenter/pdf/backgrounder.pdf)  
+| [Latest News Releases](http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=cyn&script=400)  
+| [Media Kit](https://web.archive.org/infocenter/mediakit/index.htm)  
+  
+
+
+CITY NATIONAL CORPORATION STATEMENT OF PRIVACY PRINCIPLES
 
 At City National Corporation and its family of companies, including City National Bank, City National Investments, and City National Securities, Inc., we know our clients expect and rely upon us to maintain the confidentiality and privacy of all the information about them in our possession and control. Maintaining the trust and confidence of our clients is our highest priority. We are, and always have been, committed to maintain the confidentiality of client information.
 
@@ -24,8 +35,7 @@ Sixth, except as stated above, we limit our disclosure of nonpublic personal inf
   1. When requested to do so by the client;
   2. When necessary, in our opinion, to effect, administer, or enforce a client initiated transaction;
   3. When made in accordance with standard banking industry practice to a reputable consumer reporting agency;
-  4. When required or permitted to do so by law or regulation, including authorized requests from government agencies and if we are the victim of fraud or otherwise suffer loss caused by the unlawful act of the client.  
-
+  4. When required or permitted to do so by law or regulation, including authorized requests from government agencies and if we are the victim of fraud or otherwise suffer loss caused by the unlawful act of the client. 
 
 
 
