@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoax-slayer.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204075800id_/http%3A//www.hoax-slayer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoax-slayer.com privacy policy that was archived on 2005-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050507034917id_/http%3A//www.hoax-slayer.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
