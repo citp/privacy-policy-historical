@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cfsan.fda.gov privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205011832id_/http%3A//www.fda.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfsan.fda.gov privacy policy that was archived on 2005-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050507180533id_/http%3A//www.fda.gov/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for the FDA Website
 
@@ -6,6 +6,7 @@
 Links to Other Sites  
 Web Site Content  
 Information Quality  
+Linking To or Copying Information On the FDA Website  
 Pop-Up Advertisements  
 Intrusion Detection  
 Contact Information
@@ -127,6 +128,18 @@ FDA is dedicated to:
 **Note:** In keeping with this commitment and in accordance with Public Law 106-554 and Office of Management and Budget requirements, HHS and FDA have developed information quality guidelines establishing quality assurance policies, standards, and processes. 
 
 The HHS guidelines are available at <http://www.hhs.gov/infoquality/>. The FDA guidelines are at <http://www.hhs.gov/infoquality/fda.html>.
+
+back to top
+
+## **Linking To or Copying Information On the FDA Website**
+
+Unless otherwise noted, the contents of the FDA Website (www.fda.gov)--both text and graphics--are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.
+
+People are also free to link to any URL on FDA's site. FDA's preference is that people link to the material on the FDA site (rather than copying it to their personal Websites) because the Agency continuously updates the information on the Website as better information becomes available. A person copying documents to another Website, instead of linking to them, would then have to monitor the original documents to know when these documents were updated by FDA or else risk giving bad or incorrect advice to visitors to their Website. Providing consumers or health professionals with advice that is not fully up-to-date can lead to serious public health consequences. Providing industry advice that is not fully up-to-date can lead to companies being out of compliance with regulatory requirements.
+
+If a person, nonetheless, decides to copy content or images, FDA strongly recommends that the copied item lists the date that the material was copied and provides a link back to its source on the FDA Website. Users can then see for themselves if the copied material has been updated or changed.
+
+FDA appreciates being informed about the use of Website materials. Contact FDA, HFI-50, Rockville, MD 20857 or e-mail [webmail@oc.fda.gov](mailto:webmail@oc.fda.gov).
 
 back to top
 
