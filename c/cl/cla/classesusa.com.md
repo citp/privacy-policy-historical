@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classesusa.com privacy policy that was archived on 2004-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040624163116id_/http%3A//www.classesusa.com/info/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classesusa.com privacy policy that was archived on 2005-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050507133003id_/http%3A//www.classesusa.com/info/privacy.html) for the most accurate reproduction.*
 
 # Classes USA - Privacy Policy
 
@@ -21,7 +21,7 @@ Information about our users, such as site traffic patterns and site usage, is co
 
 To the extent that we use third party advertisers or contact lists to personalize your learning experience, including future recommendations and promotions that may be of special interest to you, they may adhere to their own privacy customs and policies. ClassesUSA.com does not control the privacy policies of third parties and/or their opt-out lists. We encourage you to ask questions before you disclose your personal information to others.
 
-Back to top  
+[Back to top](https://web.archive.org/web/20050507133003id_/http%3A//www.classesusa.com/info/privacy.html#top)  
 
 
 **  
@@ -31,33 +31,26 @@ When you enroll for a class with us, we share your information with our Class Pr
 
 We may provide your information as required by law or legal process; to protect and defend the rights of ClassesUSA, the ClassesUSA.com site or the users and, under circumstances we believe reasonably necessary to protect the personal safety of users of ClassesUSA, this site or the public.
 
-Back to top  
+[Back to top](https://web.archive.org/web/20050507133003id_/http%3A//www.classesusa.com/info/privacy.html#top)  
 
 
 **  
 Links to External Sites**  
 Our site may contain links to other sites on the Internet that are not under our control. ClassesUSA is not responsible for the privacy practices or the content of such Web sites.
 
-Back to top  
+[Back to top](https://web.archive.org/web/20050507133003id_/http%3A//www.classesusa.com/info/privacy.html#top)  
 **  
   
 Cookies**  
 A cookie is a small piece of information that many Web sites use to help make shopping online easier. The information is stored on your computer's hard drive. It lets you visit, search, and sign-up on our site and return several days later without having to reenter the information. Most Web browsers automatically accept cookies. Browsers usually provide the option to disable this feature.
 
-Back to top
+[Back to top](https://web.archive.org/web/20050507133003id_/http%3A//www.classesusa.com/info/privacy.html#top)
 
 **  
 Security**  
 Our site has security measures in place to protect the loss, misuse and alteration of the information under our control. All information is stored on a secure server that is not accessible through the Internet.
 
-Back to top  
-
-
-**  
-Safe Shopping Policy**  
-Because your credit card security is a high priority, we have taken numerous steps to ensure that your payment information is processed confidentially, accurately and securely. ClassesUSA.com uses Secure Socket Layers (SSL), an encryption technology that protects your credit card information. SSL encrypts all ordering information (name, address, credit card number) so no one can read it as it travels over the Internet.
-
-Back to top  
+[Back to top](https://web.archive.org/web/20050507133003id_/http%3A//www.classesusa.com/info/privacy.html#top)  
 
 
 **  
@@ -70,15 +63,15 @@ ClassesUSA.com cannot prohibit minors from visiting this site. ClassesUSA.com mu
 
 Each time you purchase a product at ClassesUSA.com or provide information about yourself or your family, you are representing to ClassesUSA that you are 18 years or older.
 
-Back to top  
+[Back to top](https://web.archive.org/web/20050507133003id_/http%3A//www.classesusa.com/info/privacy.html#top)  
 
 
 **  
 Choice/Opt-Out**  
 We offer you the opportunity to opt-out of receiving communications from us at the point where we request the information. 
 
-Back to top
+[Back to top](https://web.archive.org/web/20050507133003id_/http%3A//www.classesusa.com/info/privacy.html#top)
 
-We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here](http://www.networkadvertising.org/optout_nonppii.asp).
+We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here](https://web.archive.org/web/20050507133003id_/http%3A//www.classesusa.com/info/contactus.html).
 
-Back to top
+[Back to top](https://web.archive.org/web/20050507133003id_/http%3A//www.classesusa.com/info/privacy.html#top)
