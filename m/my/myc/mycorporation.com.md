@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mycorporation.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207145518id_/http%3A//www.mycorporation.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycorporation.com privacy policy that was archived on 2005-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050507172053id_/http%3A//www.mycorporation.com/legal/privacy.htm) for the most accurate reproduction.*
 
-# MyCorporation Legal Disclaimer - Affiliate Program Agreement
+# MyCorporation Legal Disclaimer - Affiliate Program Agreement - Incorporate at MyCorporation.com
 
 PRIVACY POLICY
 
@@ -28,11 +28,11 @@ To preserve customer's anonymity and to assure the quality of customer communica
 
 STATUS PAGE
 
-Information relating to the status of an order, including only the corporate name and status of the requested service will be displayed on a "status page" of the mycorporation.com site.
+Information relating to the status of an order, including only the corporate name and status of the requested service will be displayed on a "status page" of the mycorporation.com site. 
 
 DISCLOSURE TO OUTSIDE PARTIES
 
-Aggregate statistics about our customers, sales, traffic patterns and related site information may be provided to reputable third parties, but these statistics contain no personally identifying information. However, MYCORP may release client account information when we believe, in good faith, that such release is reasonably necessary to comply with law, prevent fraud, enforce or apply the terms of any of our user agreements or to otherwise protect the rights, property or safety of MYCORP, our customers or other third parties.
+Aggregate statistics about our customers, sales, traffic patterns and related site information may be provided to reputable third parties, but these statistics contain no personally identifying information. However, MYCORP may release client account information when we believe, in good faith, that such release is reasonably necessary to comply with law, prevent fraud, enforce or apply the terms of any of our user agreements or to otherwise protect the rights, property or safety of MYCORP, our customers or other third parties. 
 
 COOKIES
 
@@ -46,7 +46,7 @@ CHANGES TO SITE
 
 If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it.
 
-EFFECTIVE DATE This Privacy Policy is effective this 1st day of August, 2004. To view the privacy policy current before this date [click here.](https://web.archive.org/legal/privacy_old.htm)
+EFFECTIVE DATE This Privacy Policy is effective this 1st day of August, 2004. 
 
 * * *
 
@@ -56,5 +56,5 @@ My Corporation Business Services, Inc.
 30141 Agoura Road, Suite 205  
 Agoura Hills, California 91301  
 Toll-Free: 1.888.692.6771   
-Direct/Intnt'l: 818.879.9079  
+Direct/Int'l: 818.879.9079  
 FAX: 818.879.8005 
