@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digiguide.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204113724id_/http%3A//www.digiguide.com/general/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digiguide.com privacy policy that was archived on 2005-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050507181526id_/http%3A//www.digiguide.com/general/privacy.shtml) for the most accurate reproduction.*
 
 # DigiGuide: The Best TV Guide - Privacy Statement
 
@@ -42,7 +42,7 @@ We store two types of information about customers: information customers provide
 
 #### Online account system
 
-Visitors to the DigiGuide Online Account System are required to register their details to continue. This information is to assist you in managing your usage and subscription of our products. Certain items of information are requested and stored, like the card holder's address, so that purchasing a subscription is quick and easy. All the information is stored securely. The information is used by support, accounts and technical staff to assist you in any questions or problems you may have with using or purchasing our products. 
+Visitors to the DigiGuide Online Account System are required to register their details to continue. This information is to assist you in managing your usage and subscription of our products. Certain items of information are requested and stored, like the card holder's address, so that purchasing a subscription is quick and easy. All the information is stored securely. The information is used by support, accounts and technical staff to assist you in any questions or problems you may have with using or purchasing our products.
 
 #### Online helpdesk
 
@@ -65,16 +65,3 @@ If you've set your browser to warn you before accepting cookies, you will receiv
 ### Questions
 
 If you have any questions regarding our privacy statement, we are only too happy to answer them. In this regard, please contact [privacy@gipsymedia.com](mailto:privacy@gipsymedia.com).
-
-  
-
-
-* * *
-
-[Copyright ©1999-2004 GipsyMedia Ltd](http://www.digiguide.com/general/copyright.shtml). All rights reserved.  
-[Site Map](http://www.digiguide.com/general/sitemap.shtml) | [About Us](http://www.digiguide.com/general/aboutus) | [Privacy Statement](http://www.digiguide.com/general/privacy.shtml) | [Terms and Conditions](http://www.digiguide.com/general/termsoverview.shtml)
-
-Reproduction of material from this web site without prior written permission is strictly prohibited. All contributions to this site are copyright GipsyMedia Limited.
-
-  
-
