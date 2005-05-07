@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikereg.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204074435id_/http%3A//www.bikereg.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikereg.com privacy policy that was archived on 2005-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050507133936id_/http%3A//www.bikereg.com/privacy.asp) for the most accurate reproduction.*
 
 # BikeReg.com - online cycling event registration
 
@@ -51,5 +51,5 @@ BikeReg.com
 51 Summer Street  
 Northampton, MA 01060  
 info@BikeReg.com  
-(413) 585-1685 
+(413) 303-9286 
 
