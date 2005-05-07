@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the verizonwireless.com privacy policy that was archived on 2004-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041229145202id_/http%3A//www.verizonwireless.com/b2c/footer/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verizonwireless.com privacy policy that was archived on 2005-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050507105748id_/http%3A//www.verizonwireless.com/b2c/footer/privacy.jsp) for the most accurate reproduction.*
 
 # Verizon Wireless Privacy Statement
 
 [ ](http://www.truste.org/ivalidate.php?url=www.verizonwireless.com)
 
-Effective Date: This policy was last updated on 06/14/2004.
+Effective Date: This policy was last updated on 02/14/2005.
 
 Verizon Wireless strives to maintain high standards for the protection of privacy over the Internet. The purpose of this statement is to explain to our visitors the type of information Verizon Wireless obtains about visitors to our websites, how we gather it, how we use it, how long we retain it, and how visitors can restrict the use or disclosure of personally identifiable information.
 
@@ -66,11 +66,9 @@ Verizon Wireless will provide 30 days notice on our web site of any material cha
 
 ### Contacting us
 
-For inquiries regarding our privacy statement, contact us. Or send your comments to:
+For inquiries regarding our privacy statement, [contact us](http://www.verizonwireless.com/b2c/vzwfly?go=/ContactUsControllerServlet&item=_FAQ_TOPIC&navigationLinkOptions=GLOBAL_HEADER). Or send your comments to:
 
-Content Manager, S4162  
+Legal Counsel, S3054  
 Verizon Wireless  
 30 Independence Boulevard  
 Warren, NJ 07059
-
-Verizon Wireless endorses the Verizon Communications, Inc. Privacy Statement. They state our commitment to and define our policy on safeguarding customer privacy on their website. Read the [Verizon Communications Privacy Policy](http://www22.verizon.com/privacy/?loc=HH "Verizon Communications Privacy Policy").
