@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myhosting.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204014908id_/http%3A//myhosting.com/Policy/privacypolicy1.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhosting.com privacy policy that was archived on 2005-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050507131908id_/http%3A//myhosting.com/Policy/privacypolicy1.asp) for the most accurate reproduction.*
 
 # myhosting.com Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **Version 1.2 - January, 2004**
 
-This Privacy Policy (the “Policy”) governs all aspects of how myhosting® collects, uses, maintains and discloses personal information from all users ("Users") of all Services (“Services”) offered by myhosting.com. myhosting.com complies with the requirements of the Canadian Personal Information Protection and Electronic Documents Act (“PIPEDA”).
+This Privacy Policy (the “Policy”) governs all aspects of how myhosting.com collects, uses, maintains and discloses personal information from all users ("Users") of all Services (“Services”) offered by myhosting.com. myhosting.com complies with the requirements of the Canadian Personal Information Protection and Electronic Documents Act (“PIPEDA”).
 
 **myhosting.com values the privacy of their customers.**  
 The privacy of Users has been very important to myhosting.com since its foundation in 1997. myhosting.com is committed to protecting the confidentially of all information entrusted to it by Users. All content contained on the myhosting.com website is intended only for people 18 years of age and over and myhosting.com does not knowingly collect or use Personal Information from anyone under the age of 18.
