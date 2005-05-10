@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stevespanglerscience.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204153841id_/http%3A//www.stevespanglerscience.com/security.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stevespanglerscience.com privacy policy that was archived on 2005-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050511012326id_/http%3A//www.stevespanglerscience.com/security.php) for the most accurate reproduction.*
 
 # Privacy and Security Policies - Steve Spangler Science
 
@@ -12,7 +12,7 @@ Steve Spangler Science is strongly committed to protecting your privacy and the 
 **How does Steve Spangler Science protect customer information?**   
 When you place an order with Steve Spangler Science through the web site, your information is transmitted over a secure server. Your online transactions with Steve Spangler Science automatically take place on a secure server. All information is encrypted before it is transmitted using SSL technology. Once your credit card is processed we do not retain your credit card number, an added measure of security for your credit information. 
 
-**[](https://digitalid.verisign.com/as2/936f0783619ec7dd7c0118f0fa67dc97) What information is being collected?**   
+**What information is being collected?**   
 When you browse the Steve Spangler Science web site you do so anonymously. When you order we need to know your name, email address, mailing address, credit card number and expiry date. This allows us to process and fulfill your order and to notify you of your order status. 
 
 We do not collect personal or business information on Steve Spangler Science visitors unless it is voluntarily provided. Steve Spangler Science, to gain a better understanding of products and the services our customers are interested in, may use any information collected from you with your permission. We use this information to help us serve you better.
