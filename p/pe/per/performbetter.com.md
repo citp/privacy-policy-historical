@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the performbetter.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610234342id_/http%3A//www.performbetter.com/catalog/matriarch/switch.asp_Q_PageID_E_41) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the performbetter.com privacy policy that was archived on 2005-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050510082312id_/http%3A//www.performbetter.com/catalog/matriarch/switch.asp_Q_PageID_E_41) for the most accurate reproduction.*
 
 # Perform Better: on-line catalog of plyometric, strength training, speed training, weight lifting and functional training equipment.
 
-|  |   |   
+  |    
 MF Athletic Privacy Statement, Policies and Procedures
 
  **PRIVACY STATEMENT**  
@@ -26,5 +26,4 @@ In the event a product is listed at an incorrect price or with incorrect informa
  **COPYRIGHT**  
 All content included on this site, such as text, graphics, logos, button icons, images, video clips, and data compilations is the property of M-F Athletic Co., Inc. or its content suppliers and protected by United States and international copyright laws. The compilation of all content on this site is the exclusive property of M-F Athletic Co., Inc. and protected by U.S. and international copyright laws. All software used on the site is the sole property of MF Athletic Company or those supplying the software.
 
-|   
----|---|---|---
+| 
