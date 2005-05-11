@@ -1,27 +1,61 @@
-> *The following text is extracted and transformed from the cbn.com privacy policy that was archived on 2000-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001018165501id_/http%3A//cbn.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbn.com privacy policy that was archived on 2005-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050511185201id_/https%3A//www.cbn.com/giving/privacy_notice.asp) for the most accurate reproduction.*
 
-# Privacy Statement
+# CBN.com Christian Broadcasting Network
 
-**CBNnow.com** , the Web site of **The Christian Broadcasting Network** , produced this privacy statement in order to demonstrate CBN’s firm commitment to privacy. The following discloses information concerning gathering and dissemination practices for this website: CBNnow.com.
+## CBN.com Privacy Notice
 
-**
+CBN.com realizes you are concerned about how information you give us is used and shared. This notice describes our privacy policy. By visiting CBN.com, you are accepting the practices described in this Privacy Notice.
 
-CBNnow never shares personal information about anyone with anyone outside of The Christian Broadcasting Network. CBNnow has a strict privacy policy of not sharing any personal information about anyone who has given CBNnow his/her personal data, such as name, address, and phone number.
+**What Personal Information About Customers Does CBN.com Gather?**  
+The information we gather from customers helps us personalize and improve your experience at CBN.com. Here are the types of information we obtain.
 
-**
+**Information You Give Us:**   
+We receive and store any information you enter on our Web site or give us in any other way. You may choose not to provide certain information, but then you may not be able to take advantage of many of our features. We use the information you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, matching your partner information with your community profile, and communicating with you.
 
-CBNnow uses the visitor’s IP address to help diagnose problems with its server, and to administer its Web site. The visitor’s IP address is also used to gather broad demographic information.
+**What About Cookies?**  
+Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your Community log in. Without Cookies you will not be able to log in. Cookies also allow information to be retained between visits. If you click the “remember me” option, it will set a log in Cookie to automatically log you in every time you visit the site.
 
-CBNnow utilizes cookies to keep track of the visitor’s shopping cart and for other purposes.
+**Does CBN.com Share the Information It Receives?**  
+Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries CBN.com, Inc. controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice.
 
-This site contains links to other sites. CBNnow is not responsible for the privacy practices or the content of such Web sites.
+  * **Agents:** We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, and processing credit card payments. They have access to personal information needed to perform their functions, but may not use it for other purposes.
+  * **Promotional Offers:** Sometimes we send offers to selected groups of CBN.com users. 
+  * **Protection of CBN.com and Others:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property, or safety of CBN.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice. 
 
-**CBNnow uses an order form** for customers to request information, products, and services. CBNnow collects visitor's contact information (such as email address), financial information (such as account or credit card numbers), and demographic information (such as zip code and age). Contact information from the order form is used to send orders and promotional material from CBNnow to CBN’s partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings (see the choice/opt-out section below). Demographic and profile data is also collected at CBNnow.com. This information is shared with advertisers on an aggregate basis.
 
-**CBNnow online surveys ask visitors** for contact information (such as email address), financial information (such as account or credit card numbers), and demographic information (such as zip code, age, or income level). CBNnow uses contact data from surveys to send the user promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary.
 
-Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at CBNnow.com. This information is shared with advertisers on an aggregate basis.
+**How Secure Is Information About Me?**
 
-**CBNnow occasionally features contests on CBNnow.com** in which CBNnow ask visitors for contact information, such as email address, and demographic information, such as zip code and age. CBNnow uses contact data from its contests to send users promotional material from some of CBN’s partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings (see the choice/opt-out section below).
+  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. You can [view our security certificate here](https://digitalid.verisign.com/as2/1d9a1f5dbdde5afd22b0fe191ec7de64).
+  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer and don’t use the “Remember Me” option.
 
-**CBNnow works with a third party that serves ads to this site.** To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>.
+
+
+**Which Information Can I Access?**  
+CBN.com gives you access to a broad range of information about your account and your interactions with CBN.com for the limited purpose of viewing and, in certain cases, updating that information.
+
+**What Choices Do I Have?**
+
+  * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of CBN.com features.
+  * You can add or update certain information on pages such as those listed in the "Which Information Can I Access?" section above.
+
+
+
+**Children**  
+CBN.com does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use CBN.com only with the involvement of a parent or guardian.
+
+**Conditions of Use, Notices, and Revisions**  
+If you choose to visit CBN.com, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of Washington. If you have any concern about privacy at CBN.com, please send us a thorough description to [partners@CBN.com](mailto:partners@CBN.com), and we will try to resolve it.
+
+Our business changes constantly, and our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
+
+**Information You Give Us**  
+You provide most such information when you register, buy, post, participate in a contest or questionnaire, or communicate with us. For example, you provide information when place an order through CBN.com; provide information in Your Account (and you might have more than one if you have used more than one e-mail address when registering with us); communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form. As a result of those actions, you might supply us with such information as your name, address, and phone numbers; credit card information; people to whom purchases have been shipped, including addresses and phone number; e-mail addresses; content of reviews and e-mails to us; and financial information.
+
+**Automatic Information**  
+Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type and version, operating system, and platform; the full Uniform Resource Locator (URL) clickstream to, through, and from our Web site, including date and time; cookie number; products you viewed or searched for; and the phone number you used to call. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
+
+**Information You Can Access**  
+Examples of information you can access easily at CBN.com include up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password); payment settings (including credit card information); e-mail notification settings including Alerts and newsletters.
+
+The Christian Broadcasting Network, Inc. © 2005 
