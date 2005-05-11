@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voiceshot.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206233628id_/http%3A//www.voiceshot.com/public/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voiceshot.com privacy policy that was archived on 2005-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050512014119id_/http%3A//www.voiceshot.com/public/privacy.asp) for the most accurate reproduction.*
 
 # Privacy
 
