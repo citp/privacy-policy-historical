@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eligiblegreeks.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205224023id_/http%3A//eligiblegreeks.com/personals/privacy.cfm%3FsiteIDD%3D41) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eligiblegreeks.com privacy policy that was archived on 2005-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050511074812id_/http%3A//eligiblegreeks.com/personals/privacy.cfm%3FsiteIDD%3D41) for the most accurate reproduction.*
 
 # Eligible Greeks - Safe Online Dating Site for Greek Men and Women
 
@@ -6,7 +6,7 @@ World Singles has created this Privacy Statement (Policy) in order to demonstrat
 
 This Privacy Statement applies to all World Singles sites, including this one.
 
-This Site(s) is owned and operated by World Singles. World Singles may be reached at (301) 294-0131, or by clicking [here](https://web.archive.org/web/20041205224023id_/http%3A//eligiblegreeks.com/personals/contact.cfm?siteIDD=41) . The following policies apply to this Site(s) and all other Affiliate/Partner websites.
+This Site(s) is owned and operated by World Singles. World Singles may be reached at (301) 294-0131, or by clicking [here](https://web.archive.org/web/20050511074812id_/http%3A//eligiblegreeks.com/personals/contact.cfm?siteIDD=41) . The following policies apply to this Site(s) and all other Affiliate/Partner websites.
 
 **ABOUT WORLD SINGLES**
 
@@ -50,7 +50,7 @@ World Singles reserves the right to change or update at any time its Privacy Pol
 EligibleGreeks.com provides members the following options for modifying information previously submitted. 
 
   1. Members may change their credit card, password and other information by going to View/Edit Profile page. 
-  2. Send email via the [contact form](https://web.archive.org/web/20041205224023id_/http%3A//eligiblegreeks.com/personals/contact.cfm?siteIDD=41) on the site.
+  2. Send email via the [contact form](https://web.archive.org/web/20050511074812id_/http%3A//eligiblegreeks.com/personals/contact.cfm?siteIDD=41) on the site.
   3. You can send mail to the following postal address: 
 
 Eligible Greeks / World Singles  
