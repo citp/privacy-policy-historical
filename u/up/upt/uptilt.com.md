@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uptilt.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206155346id_/http%3A//uptilt.com/corp/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uptilt.com privacy policy that was archived on 2005-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050512082557id_/http%3A//www.uptilt.com/corp/company/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - CRM Software solutions Privacy Policy
 
