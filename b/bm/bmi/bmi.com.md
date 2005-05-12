@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmi.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206152226id_/http%3A//www.bmi.com/about/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmi.com privacy policy that was archived on 2005-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050512090823id_/http%3A//bmi.com/about/legal/privacy.asp) for the most accurate reproduction.*
 
 # Web Policies
 
