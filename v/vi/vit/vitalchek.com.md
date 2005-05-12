@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitalchek.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205012101id_/http%3A//www.vitalchek.com/_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitalchek.com privacy policy that was archived on 2005-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050512021749id_/http%3A//www.vitalchek.com/_privacy.asp) for the most accurate reproduction.*
 
 # VitalChek's Privacy Policy
 
@@ -56,17 +56,13 @@ We use the information to:  |
   
 ---|---  
 **Data Security Is The Benchmark of Public Trust**  
-To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put into place appropriate physical, electronic and management procedures. These procedures safeguard and secure the information we collect online and include the latest in encryption technology and firewall protection. The VeriSign symbol on our website identifies the type of security software protection we employ to safeguard the privacy of all information transmitted to and from our site. **Our Commitment To Children's Privacy**  
+To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put into place appropriate physical, electronic and management procedures. These procedures safeguard and secure the information we collect online and include the latest in encryption technology and firewall protection. The Entrust symbol on our website identifies the type of security software protection we employ to safeguard the privacy of all information transmitted to and from our site. **Our Commitment To Children's Privacy**  
 Protecting the privacy of the very young is especially important. For this reason, we collect only information about children's date of birth and full name, and we only accept this information from the parents, grandparents or legal guardians of the child. Only persons over 18 can apply for a certified vital record, so anyone under 18 must apply through their parents or legal guardians. **How You Can Access Or Correct Your Information**  
 You can access to review or correct your account information by clicking the appropriate link on our site under Customer Service and choosing one of the following options: Sign onto your account, Create a new account, or Update your account. **Our Affiliations and Memberships That Strengthen Our Right To Public Trust**  
-VitalChek is a member of good standing with, and sits on the Corporate Board of Directors for the National Association For Public Health Statistics and Information Systems (NAPHSIS). We also enjoy active membership in the International Association Of Credit Card Investigators (IACCI). We continue to employ the services of several former State Registrars, who provide invaluable assistance in our efforts to promote and protect the public trust. **How To Contact Us**  
+VitalChek is a member of good standing with, and sits on the Corporate Board of Directors for the National Association For Public Health Statistics and Information Systems (NAPHSIS). We also enjoy active membership in the International Association of Credit Card Investigators (IACCI). We continue to employ the services of several former State Registrars, who provide invaluable assistance in our efforts to promote and protect the public trust. **Policy Changes**  
+We may revise this online privacy policy from time to time. If we make any material changes, we will notify you by posting a prominent announcement on the web site. If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. **How To Contact Us**  
 If you would like to know more about the integrity and scope of our privacy policies, or if you have any question regarding procedures, please visit us at [vitalchek-solutions.custhelp.com](http://vitalchek-solutions.custhelp.com/). 
 
 * * *
 
-| []() | []() |   
----|---|---|---  
-  
-* * *
-
-**© VitalChek Network, Inc.   All Rights Reserved** (B25)
+**© 2005 ChoicePoint Asset Company** (25) 
