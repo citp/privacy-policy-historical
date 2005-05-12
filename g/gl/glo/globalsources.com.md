@@ -1,9 +1,12 @@
-> *The following text is extracted and transformed from the globalsources.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208063839id_/http%3A//www.globalsources.com/HELP/PRIVACY.HTM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalsources.com privacy policy that was archived on 2005-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050512085148id_/http%3A//www.globalsources.com/HELP/PRIVACY.HTM) for the most accurate reproduction.*
 
-# Global Sources - FAQ - Privacy Policy
+# Global Sources - Help & FAQ - Privacy Policy
 
-| **Collection of information**   
-When you visit our website, we do not collect personally identifiable information about you, except when you specifically and knowingly provide it. For instance, while many areas of our website are free to all users, we do require registration for some services such as Product Alert. If you decide to register for these services, or if you request information from us, you will be asked to provide certain information and details, including your name, company, title, country and e-mail address. The information you provide helps us create customized content like Product Alert. You will receive information only for the products that interest you. To see how this works, view a [sample](https://web.archive.org/HELP/GSOLHELP/REGHELP.HTM#TR3) of Product Alert in html format or text format. 
+[](http://www.globalsources.com/)
+
+  
+**Privacy Policy** **Collection of information**   
+When you visit our website, we do not collect personally identifiable information about you, except when you specifically and knowingly provide it. For instance, while many areas of our website are free to all users, we do require registration for some services such as Product Alert. If you decide to register for these services, or if you request information from us, you will be asked to provide certain information and details, including your name, company, title, country and e-mail address. The information you provide helps us create customized content like Product Alert. You will receive information only for the products that interest you. To see how this works, view a sample of Product Alert in html format or text format. 
 
 Our system also logs some basic and generic information about your computer, including its: 
 
@@ -15,21 +18,34 @@ Our system also logs some basic and generic information about your computer, inc
 
 We use this information about your computer to perform routine web site maintenance and to generate various aggregate reports for internal analysis, research and monitoring purposes, and to help us develop and enhance our web site and services for our users. 
 
-|  | **Global Sources respects your privacy**   
+**Global Sources respects your privacy**   
 We will not sell, trade or rent personally identifiable information about our users to other parties, without our users' consent. 
 
 We do, however, share certain aggregate information about our users with advertisers, i.e. XX% of site visitors is from North America. This enables us to constantly build a large database of products and suppliers, giving you wider sourcing options. 
 
 We also reserve the right to disclose user information in special cases. For example, when we have reason to believe that such disclosure is necessary to identify, contact or bring legal action against someone who may be infringing (or threatening to infringe) or who may otherwise be causing injury to or interference with (either intentionally or unintentionally), our title, rights, interests or property, or those of other web site users, or of anyone else who could be harmed by such activities. We also reserve the right to disclose, without notice to you, personal information in response to a subpoena or other judicial order or when we believe in good faith that such disclosure is required by any law, regulation or listing requirement, or by any stock/securities exchange, governmental or regulatory authority. 
 
-|  | **Use of information**   
+**Use of information**   
 We may use the information you provide to respond to your requests for additional information, to contact you, if necessary, to service your account or for other administrative purposes. We may also access your information to resolve disputes, to troubleshoot problems, to enforce agreements between us, or for marketing purposes. In addition, for certain transactions, our system may use your transaction details to automate and to streamline your transaction by checking for electronic data compliance, providing reporting features, and transferring data from previous forms to those of the current transaction. 
 
 We may also use the information you provide for certain mailing initiatives. For example, you may sometimes receive an invitation to answer surveys or try out new products and services from Global Sources. Your feedback helps us develop new products and services based on your needs. 
 
 You always have a choice about receiving mailings, surveys or information about products and services from us. Each e-mail you receive has an "Unsubscribe" option. As a registered member, you can also advise us which types of e-mail you wish to receive by updating your [Notifications](https://login.globalsources.com/sso/gsol/pex/en/balat/jsp/user/notifications.jsp) page. 
 
-|  | **Important Notice:** Although we adhere to industry standard practices to protect your personal information and confidential data, we cannot ensure that such information and data will never be disclosed in ways not otherwise described in this Privacy Policy. 
+**Information relating to community members**   
+For those services which require registration, you will be asked to provide certain personal and business information. Upon registration, you will be enrolled as a member of our global community network. As a community member, you have the right to opt-out of being listed in our membership directory, which only other members and our relevant partners will be able to access. 
+
+**Corrections of inaccuracies**   
+We are committed to providing reasonable and practical access to you to identify and to correct any inaccuracies in or to update the information you may provide. Our users who have provided information on our web site can contact our Customer Services Department at [service@globalsources.com](mailto:service@globalsources.com) or use the relevant automated updating system (where applicable) to make corrections or updates. 
+
+**Co-branded and alliance relationships**   
+We have established relationships with other parties on the Internet to offer you the benefit of other products and services which we ourselves do not offer. We offer you access to these other parties either through the use of hyperlinks to their sites from our site, or through offering "co-branded" sites in which both ourselves and these other parties share the same URL, domain name or pages within a domain name on the Internet. Generally, we do not own the co-branded and alliance parties and we do not control how they use any information you supply them. It is therefore important that you understand their privacy policy and/or terms of use if you visit and use their sites. 
+
+**Third party service providers**   
+You may notice that some services available through our website are "Powered by" or "Provided by" other third party content or technology service providers. We contract with these third party providers to help us provide you with better value and service. To fully access and use such services, you may sometimes be required to register for them or to otherwise provide certain information and data. In order to provide you with the services in question, such information and data may have to be made available to the third party provider, who may then process or update such information and data and transmit them back to us. We are highly selective in choosing these third party providers, and they are allowed to use your information and data only for the purpose of and in connection with providing the services which we have contracted with them to provide. 
+
+**Important Notice:**   
+Although we adhere to industry standard practices to protect your personal information and confidential data, we cannot ensure that such information and data will never be disclosed in ways not otherwise described in this Privacy Policy. 
 
 **COOKIES**
 
@@ -51,7 +67,7 @@ Two types of cookies are used on our website:
 
 **How and why we use cookies on our website and what information we collect**
 
-**Session Cookies:** | •  | To allow you to access stored information within a registration process.  
+**Session Cookies:** •  | To allow you to access stored information within a registration process.  
 ---|---  
 •  | To allow you to carry information across pages of our website and avoid you having to re-enter information. For example, to help automatically fill in your inquiry or other forms with your contact and other applicable details.  
 •  | To save or record your user ID and/or password (at your option), so that you do not have to repeatedly log-in when you visit our website.  
