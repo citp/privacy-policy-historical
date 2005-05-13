@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cgi.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208145812id_/http%3A//www.cgi.com/web/en/global_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgi.com privacy policy that was archived on 2005-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050513223313id_/http%3A//www.cgi.com/web/en/global_privacy.htm) for the most accurate reproduction.*
 
-# CGI - Global privacy and data protection policy
+# CGI — Global privacy and data protection policy
 
   | 
 
