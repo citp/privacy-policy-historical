@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shutterpoint.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603004943id_/http%3A//www.shutterpoint.com/Home-Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shutterpoint.com privacy policy that was archived on 2005-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050514005253id_/http%3A//www.shutterpoint.com/Home-Privacy.cfm) for the most accurate reproduction.*
 
-# ShutterPoint.com - Privacy Policy
+# ShutterPoint Photography - Privacy Policy
 
   
 ShutterPoint.com is committed to maintaining the privacy of information that you provide to us when using our website. This Privacy Policy describes what information we gather, how we use it, and how our members can correct or change it.
@@ -28,7 +28,7 @@ We do not share, sell or rent information about individual users with any third 
 At any time after registration, members can change all information they provided (with the exception of the username) by visiting the My Information page under the My Account area of our website.   
 Cookies are small files that our site places on the hard drive of your computer to enable us to customize your experience and achieve some of the site's functionality. While on our website, usage of a cookie is in no way linked to any personally identifiable information. Cookies are the very common mechanism used by major sites on the Internet. Visitors may also receive cookies from third parties, including advertisers, but ShutterPoint.com cannot have any control of the content of these cookies. Please note that should you choose to refuse cookies on this website, some of its functionality will be forfeited and some portions of the site may become unusable. 
 
-We use your IP address to analyze trends, administer the site and help determine problems with the servers. We may also automatically log IP addresses to track a user's session, ratings, comments and purchases. IP addresses themselves are not linked to personally identifiable information.   
+We use your IP address to analyze trends, administer the site and help determine problems with the servers. We may also automatically log IP addresses to track a user's session, ratings, comments and purchases. IP addresses themselves are not linked to personally identifiable information, however they may be linked to a member's account records.   
 
 
 We may occasionally conduct online surveys to better target our offering to our audience.  We may share any demographic data collected during these surveys with our partners, but only in the form of aggregated information.  We will not share any information about specific individuals gathered during a survey with third parties. Please remember that your participation is optional and helps us improve our services.   
