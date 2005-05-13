@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheetahmail.com privacy policy that was archived on 2004-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041213092841id_/http%3A//www.cheetahmail.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheetahmail.com privacy policy that was archived on 2005-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050513213342id_/http%3A//www.cheetahmail.com/privacy/privacy.html) for the most accurate reproduction.*
 
 # CheetahMail: Privacy
 
