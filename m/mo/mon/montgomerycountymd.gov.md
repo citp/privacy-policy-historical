@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the montgomerycountymd.gov privacy policy that was archived on 2004-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041221030233id_/http%3A//www.montgomerycountymd.gov/mcgtmpl.asp%3Furl%3D/content/mcginfo/siteFiles/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the montgomerycountymd.gov privacy policy that was archived on 2005-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050513110118id_/http%3A//www.montgomerycountymd.gov/mcgtmpl.asp%3Furl%3D/content/mcginfo/siteFiles/privacy.asp) for the most accurate reproduction.*
 
 # Welcome to the Montgomery County Maryland Website
 
