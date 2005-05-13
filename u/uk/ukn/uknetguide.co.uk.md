@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the uknetguide.co.uk privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401214259id_/http%3A//www.uknetguide.co.uk/netguide/Info/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uknetguide.co.uk privacy policy that was archived on 2005-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050513212836id_/http%3A//www.uknetguide.co.uk/Info/Privacy.asp) for the most accurate reproduction.*
 
-# UK Net Guide: Privacy Policy
+# UK Net Guide - your online guide to the best of the web: Privacy Policy
 
-**INTRODUCTION**  
+[ ](https://web.archive.org/)
+
+**INTRODUCTION**
+
 UK Net Guide ([http://www.uknetguide.co.uk](http://www.uknetguide.co.uk/)) is owned and operated by Crystal Guides, a limited company registered in England. 
 
 UK Net Guide considers Internet user privacy and data protection to be of paramount importance. Crystal Guides Ltd complies with the Data Protection Act 1998 in relation to all processing of personal data supplied to us by users and other personal data in our possession for any reason. We have registered with and notified the Data Protection Commissioner of our practice affecting personal data. 
@@ -39,3 +42,7 @@ The UK Net Guide network contains links to other sites not affiliated with the U
 We suggest that you practise reasonable discretion with any site when providing site operators/owners with personal information. It should also be noted that whenever you post personal information in publicly accessible places, such as chat rooms or message boards, this information becomes available to anyone with access to the Internet. Therefore, we recommend that you refrain from posting any information that you do not want seen in these public areas. You should feel free to contact any site that requests personal information from you if you have any questions regarding its policies. 
 
 [Back to Homepage](https://web.archive.org/default.asp)
+
+Answerbank's Popular Threads
+
+Answerbank's Popular Categories
