@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aiuniv.edu privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210001848id_/http%3A//www.aiuniv.edu/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiuniv.edu privacy policy that was archived on 2005-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050514074522id_/http%3A//www.aiuniv.edu/privacy.asp) for the most accurate reproduction.*
 
 # American InterContinental University can lead you to an exciting future.
 
@@ -30,7 +30,7 @@ The Sites have security measures in place to protect against the loss, misuse an
 
 **Links to other web Sites**
 
-The Sites contain links to other web sites that are not owned or operated by American InterContinental University.  American InterContinental University is not responsible for the privacy policies or practices of third parties or the content or security of such web sites. (See the Disclaimers section in our **[legal terms and conditions](https://web.archive.org/web/20041210001848id_/http%3A//www.aiuniv.edu/legalterms.asp)** ). 
+The Sites contain links to other web sites that are not owned or operated by American InterContinental University.  American InterContinental University is not responsible for the privacy policies or practices of third parties or the content or security of such web sites. (See the Disclaimers section in our **[legal terms and conditions](https://web.archive.org/web/20050514074522id_/http%3A//www.aiuniv.edu/legalterms.asp)** ). 
 
 **Contact Us**
 
