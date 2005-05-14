@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cwcwebdev.net privacy policy that was archived on 2004-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040520140518id_/http%3A//cwcwebdevclub.survivalring.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cwcwebdev.net privacy policy that was archived on 2005-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050514105849id_/http%3A//www.cwcwebdev.net/privacy.htm) for the most accurate reproduction.*
 
 # CWC Web Development Club - Privacy Statement
 
