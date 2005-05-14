@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nysaves.org privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205124809id_/http%3A//im.upromise.com/ny/images/pdf/privacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nysaves.org privacy policy that was archived on 2005-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050514233608id_/http%3A//uiicdn.upromise.com/ny/images/pdf/privacyPolicy.pdf) for the most accurate reproduction.*
 
 # Privacy Notices
 
