@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the bunnyherolabs.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207014137id_/http%3A//bunnyherolabs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bunnyherolabs.com privacy policy that was archived on 2005-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050515015133id_/http%3A//bunnyherolabs.com/privacy.php) for the most accurate reproduction.*
 
 # privacy policy - bunnyhero labs
 
-2004-04-11
+2005-02-05
 
 This is the web site of bunnyhero labs.
 
 Our postal address is:  
-110 Cumberland St Suite 168  
-Toronto, Ontario, M5R 3V5  
+976 Dovercourt Road  
+Toronto, Ontario, M6H 2X5  
 
 
 We can be reached via e-mail at [wayne@bunnyherolabs.com](mailto:wayne@bunnyherolabs.com)   
@@ -17,9 +17,9 @@ or you can reach us by telephone at 416 856 5996
 
 For each visitor to our Web page, our Web server automatically recognizes only the visitor's domain name, but not the e-mail address (where possible).
 
-We collect only the domain name, but not the e-mail address of visitors to our Web page; the e-mail addresses of those who communicate with us via e-mail; aggregate information on what pages visitors access or visit; information volunteered by the visitor, such as survey information and/or site registrations.
+We collect only the domain name, but not the e-mail address of visitors to our Web page; the e-mail addresses of those who communicate with us via e-mail; aggregate information on what pages visitors access or visit; information volunteered by the visitor, such as survey information and/or site registrations; e-mail addresses of those who send and receive e-cards on the e-cards section of the site.
 
-The information we collect is used to improve the content of our Web page, not shared with other organizations for commercial purposes.
+The information we collect is used to improve the content of our Web page, to assist with providing tech support for visitors, to facilitate e-card delivery and to assist in e-card pickups, not shared with other organizations for commercial purposes.
 
 With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart, or their login status in an online game. We also use cookies to record whether or not you have voted in an online poll.
 
@@ -47,7 +47,9 @@ If you feel that this site is not following its stated information policy, you m
 
 Privacy Policy version history: 
 
-  * 2004-04-11: more detail in "cookies" section, covering polls and games
-  * 2004-04-07: [initial version](https://web.archive.org/web/20041207014137id_/http%3A//bunnyherolabs.com/privacyarchive/privacy20040407.php)
+  * 2005-02-05: added information about e-card information use
+  * 2005-01-08: [updated mailing address](https://web.archive.org/web/20050515015133id_/http%3A//bunnyherolabs.com/privacyarchive/privacy20050108.php)
+  * 2004-04-11: [more detail in "cookies" section, covering polls and games](https://web.archive.org/web/20050515015133id_/http%3A//bunnyherolabs.com/privacyarchive/privacy20040411.php)
+  * 2004-04-07: [initial version](https://web.archive.org/web/20050515015133id_/http%3A//bunnyherolabs.com/privacyarchive/privacy20040407.php)
 
 
