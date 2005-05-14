@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the computerarts.co.uk privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207142242id_/http%3A//www.futurenet.com/futureonline/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computerarts.co.uk privacy policy that was archived on 2005-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050514080713id_/http%3A//www.futurenet.com/futureonline/privacy.asp) for the most accurate reproduction.*
 
 # FutureNet - Privacy Policy
 
