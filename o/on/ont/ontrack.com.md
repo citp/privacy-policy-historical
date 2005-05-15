@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ontrack.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209233900id_/http%3A//www.ontrack.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ontrack.com privacy policy that was archived on 2005-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050516003727id_/http%3A//www.ontrack.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,6 +12,7 @@ This Privacy Policy will explain the following regarding our collection of infor
 
 **The information we collect.**
 
+  * Information that is needed to respond to your request for our services.
   * Whenever you shop our online store, at the time of check-out, we obtain the information we need from you to complete your transaction. To process your order, we require you to supply us with your correct billing, shipping and contact information. The transfer of this information is secure and cannot be received or read by others. 
   * We also allow you to register to receive periodic email correspondence from us through our "Newsletter Center." The information we collect for this purpose is your name and email address. 
   * When you "Ask a Question" through our online support center, we obtain the information we need from you to answer your questions appropriately. To be able to effectively respond to your inquiry, we require you to supply us with your name and email address.
