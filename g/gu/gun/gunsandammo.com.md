@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gunsandammo.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208225050id_/http%3A//www.gunbroker.com/user/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunsandammo.com privacy policy that was archived on 2005-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050515234743id_/http%3A//gunbroker.com/User/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # GunBroker.com Privacy Policy
 
@@ -48,11 +48,9 @@ This site sends three types of email communications: 1.) notifications related t
 
 If you are a registered buyer or seller on this auction site we may send you certain notices, such as notices of a substantial change in the policies and/or operation of our site. These notices are sent extremely infrequently and cannot be opted out of other than by closing your account with us.
 
-2.) Saved Search notifications are generated at your request to inform you when items matching certain search criteria have been listed on the auction site. There are removal instructions at the bottom of every such notification message. You can delete your saved searches to stop receiving the notifications by going to [My Auctions](https://web.archive.org/auction/MyAuctions.asp) then clicking [Saved Searches](https://web.archive.org/auction/MyAuctions.asp?Tab=5). Removal instruction appear on that page.
+2.) Saved Search notifications are generated at your request to inform you when items matching certain search criteria have been listed on the auction site. There are removal instructions at the bottom of every such notification message. You can delete your saved searches to stop receiving the notifications by going to [My Auctions](https://web.archive.org/Auction/MyAuctions.asp) then clicking [Saved Searches](https://web.archive.org/Auction/MyAuctions.asp?Tab=5). Removal instruction appear on that page.
 
-3.) Opt-in newsletters and promotional email messages are mailing lists that you choose to subscribe to during auction registration or by using various opt-in pages or forms on this site. All such lists are 100% opt-in; in other words you will never receive any newsletter or promotional email from this site unless you have specifically elected to be on the applicable email list. You may opt out of these mailings at any time and we have made it very easy to do so. To opt out of future newsletter or promotional email [click here](http://mail.gunbroker.com/members.asp) and follow the instructions on the subsequent pages.
-
-You can access the OptIn / OptOut pages at any time by clicking [For Buyers](https://web.archive.org/user/ToolsForBuyers.asp) or [For Sellers](https://web.archive.org/user/ToolsForSellers.asp) from the top of any auction site page, then clicking [OptIn Mail and Newsletter Preferences](https://web.archive.org/user/OptInMailManagement.asp)  
+3.) Opt-in newsletters and promotional email messages are mailing lists that you choose to subscribe to during auction registration or by using various opt-in pages or forms on this site. All such lists are 100% opt-in; in other words you will never receive any newsletter or promotional email from this site unless you have specifically elected to be on the applicable email list. You may opt out of these mailings at any time and we have made it very easy to do so. To opt out of future newsletter or promotional email [click here](https://web.archive.org/Auction/MyAccount/ViewEmailManagement.asp) and follow the instructions on the subsequent pages.  
   
 ###   
 Contacting Us  
@@ -66,4 +64,4 @@ Atlanta, GA 31126
 
 or 
 
-email: [support@gunbroker.com](mailto:support@gunbroker.com)
+You can [Contact Customer Support](https://web.archive.org/Support)
