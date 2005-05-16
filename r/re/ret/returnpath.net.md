@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the returnpath.net privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012020617id_/http%3A//www.returnpath.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the returnpath.net privacy policy that was archived on 2005-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050516081804id_/http%3A//www.returnpath.net/privacypolicy.php) for the most accurate reproduction.*
 
 # Return Path - Changed Your Email? Keep Your Contacts!
 
@@ -11,7 +11,7 @@ RETURN PATH PRIVACY STATEMENT**
   
 ---  
   
-**[](https://www.truste.org/ivalidate.php?url=www.returnpath.net)**  
+**[](http://www.truste.org/ivalidate.php?url=www.returnpath.net&sealid=101)**  
   
 We know that your privacy is important to you. At Return Path, we're committed to helping you manage and protect it. We take privacy very seriously, and have taken many steps to help safeguard the personal information we collect from you at this Web site.
 
