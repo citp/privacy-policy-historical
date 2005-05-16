@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drscholls.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205014308id_/http%3A//www.drscholls.com/info.aspx%3Finfoid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drscholls.com privacy policy that was archived on 2005-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050516082304id_/http%3A//www.drscholls.com/info.aspx%3Finfoid%3D2) for the most accurate reproduction.*
 
 # Dr Scholl's
 
@@ -24,6 +24,8 @@ We collect this information to better understand your needs and ways in which we
 
 Except as otherwise stated, we may use your information to improve the content of our site, to customize the site to your preferences, to communicate information to you (if you have requested it), for our marketing and research purposes, and for the purposes specified in this Privacy Policy. 
 
+**_Any information collected from you on this web site may be used for marketing purposes._**
+
 If you provide personally identifiable information to this site, we may combine such information with other actively collected information unless we specify otherwise at the point of collection. 
 
 We may disclose your personally identifiable information to other Schering-Plough affiliates that agree to treat it in accordance with this Privacy Policy. In addition, we may disclose your personally identifiable information to third parties, but only 
@@ -48,4 +50,4 @@ Schering-Plough HealthCare Products does not intend this site for child audience
 **Your consent**   
 By using our websites or clicking on our advertisements or promotions, you consent to the collection and use of non-personally identifiable information by Schering-Plough HealthCare Products. Any change to our privacy policy will be posted on this page so that you are always aware of the information collected and its intended use. 
 
-This Privacy Policy was last updated on September 15, 2004. 
+This Privacy Policy was last updated on January 10, 2005. 
