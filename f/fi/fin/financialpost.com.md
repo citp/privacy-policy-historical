@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financialpost.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206232659id_/http%3A//www.canwestglobal.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialpost.com privacy policy that was archived on 2005-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050518004822id_/http%3A//www.canwestglobal.com/privacy.html) for the most accurate reproduction.*
 
 # CanWest Global - Privacy Statement
 
@@ -19,7 +19,7 @@ The CanWest Privacy Policy is modeled after the _Canadian Standards Association 
 
 The CanWest Companies referred to in this Privacy Statement and governed by the CanWest Privacy Policy include CanWest Global Communications Corp., CanWest Media Inc., our broadcast companies, our newspaper companies, CanWest Media Sales Limited and CanWest Interactive Inc. A complete list of the CanWest Companies governed by the CanWest Privacy Policy is included at the end of this Privacy Statement. 
 
-Any time you do business with a CanWest Company, or with anyone acting as an agent on our behalf, you are protected by the rights and safeguards contained in the CanWest Privacy Policy. ([Click here](https://web.archive.org/web/20041206232659id_/http%3A//www.canwestglobal.com/pdf/PrivacyPolicy-FINAL.pdf) to download the full CanWest Privacy Policy in pdf format) 
+Any time you do business with a CanWest Company, or with anyone acting as an agent on our behalf, you are protected by the rights and safeguards contained in the CanWest Privacy Policy. ([Click here](https://web.archive.org/web/20050518004822id_/http%3A//www.canwestglobal.com/pdf/PrivacyPolicy-FINAL.pdf) to download the full CanWest Privacy Policy in pdf format) 
 
 **WHAT IS PERSONAL INFORMATION?**
 
@@ -83,7 +83,7 @@ If you are not satisfied with the response from your local Privacy Compliance Of
 
 **TEN PRINCIPLES OF FAIR INFORMATION PRACTICES**
 
-**PRINCIPLE 1 - ACCOUNTABILITY** Each CanWest Company is responsible for the personal information under its control and shall designate one or more individuals who shall be accountable for the companyÕs compliance with the procedures and principles set out in the CanWest Privacy Policy. 
+**PRINCIPLE 1 - ACCOUNTABILITY** Each CanWest Company is responsible for the personal information under its control and shall designate one or more individuals who shall be accountable for the company's compliance with the procedures and principles set out in the CanWest Privacy Policy. 
 
 **PRINCIPLE 2 - IDENTIFYING PURPOSE** Each CanWest Company will identify the purpose for which personal information is collected at or before the time the information is collected. The purposes for which information is collected, used or disclosed by a Canwest Company must be those that a reasonable person would consider are appropriate in the circumstances. 
 
