@@ -1,37 +1,58 @@
-> *The following text is extracted and transformed from the bloomingdales.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204032253id_/http%3A//www.bloomingdales.com/service/policies/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloomingdales.com privacy policy that was archived on 2005-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050517075501id_/http%3A//www.bloomingdales.com/service/policies/privacy.jsp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Bloomingdale's - Privacy Policy
 
-|  |   
----  
-|   
-  
+|  | | | |   
+---|---|---|---  
+[](http://www.bloomingdales.com/customerservice/index.jsp)  
+| | [](http://www.bloomingdales.com/customerservice/new.jsp)|   
+| | [](http://www.bloomingdales.com/myinfo/index.ognc)|   
+| | [](https://www.bloomingdales.com/myinfo/status/index.ognc)|   
+| | [](http://www.bloomingdales.com/customerservice/shipandreturns.jsp)|   
+| | [](http://www.bloomingdales.com/redirect.jsp?http://help.bloomingdales.com/contact/)|   
+| | [](http://www.bloomingdales.com/service/credit/index.ognc)|   
+| | [](http://www.bloomingdales.com/media/about/index.jsp)|   
+| | [](http://www.bloomingdales.com/about/shopping/index.jsp)|   
+| | [](http://www.bloomingdales.com/customerservice/policies.jsp)|   
+| | [Legal Notice](http://www.bloomingdales.com/service/policies/legal.jsp)|   
+| | [Pricing Policy](http://www.bloomingdales.com/customerservice/pricing.jsp)|   
+| | [Security Policy](http://www.bloomingdales.com/service/policies/security.jsp)|   
+| | [Privacy Policy](http://www.bloomingdales.com/service/policies/privacy.jsp)|   
+| | [California Privacy Rights](http://www.bloomingdales.com/service/policies/california.jsp)|   
+| | [Fraud Alert](http://www.bloomingdales.com/service/policies/fraud.jsp)|   
 | 
 
-At Bloomingdale's, we respect our customers and understand that you are concerned about privacy, so we've instituted policies intended to ensure that your personal information is handled safely and responsibly. We also have posted this privacy policy to let you know what kind of information we collect, how it is handled, with whom it may be shared, what choices you have regarding our use of your information and how you may access some of the data you provide to us.
+|   
+---  
+[Customer Service](https://web.archive.org/customerservice/index.jsp) > [Our Policies](https://web.archive.org/customerservice/policies.jsp) > **Privacy Policy**  
+  
+  
+  
+---  
+  
+At Bloomingdale's, we respect our customers and understand that you are concerned about privacy, so we've instituted policies intended to ensure that your personal information is handled safely and responsibly. We also have posted this privacy policy to let you know what kind of information we collect, how it is handled, with whom it may be shared, what choices you have regarding our use of your information and how you may access some of the data you provide to us. 
 
-As we continue to develop our web site and take advantage of technologies to improve the services we provide, this policy likely will change. We therefore encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. This policy last was updated on January 8, 2004.
+As we continue to develop our web site and take advantage of technologies to improve the services we provide, this policy likely will change. We therefore encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. This policy last was updated on January 8, 2004. 
 
-If you have any questions about this policy you can [click here](https://web.archive.org/customerservice/index.jsp), contact us by phone at 1-888-529-2254 or write to:
+If you have any questions about this policy you can [click here](http://www.bloomingdales.com/customerservice/index.jsp), contact us by phone at 1-888-529-2254 or write to:
 
 Bloomingdale's Customer Service  
 P.O. Box 8215  
 Mason, OH 45040  
 
 
-If you have any questions regarding your credit account(s) with Bloomingdale's.[Click Here](https://web.archive.org/service/credit/index.ognc) for more information.  
-  
----  
-| 1| what information do we collect?  
+If you have any questions regarding your credit account(s) with Bloomingdale's.[Click Here](http://www.bloomingdales.com/service/credit/index.ognc) for more information.
+
+|  | 1| What information do we collect?  
 ---|---  
-2| what are cookies and do we use them?  
-3| how do we use your information?  
-4| do we share your information?  
-5| what choices do I have regarding your use of my information?  
-6| is my information secure?  
-7| can I access my information?  
-8| what about information about children?  
-9| we want you to trust us  
+2| What are cookies and do we use them?  
+3| How do we use your information?  
+4| Do we share your information?  
+5| What choices do I have regarding your use of my information?  
+6| Is my information secure?  
+7| Can I access my information?  
+8| What about information about children?  
+9| We want you to trust us  
   
 
 
@@ -112,9 +133,9 @@ Online your choices are:
 
 If you do not want to receive e-mail from bloomingdales.com or do not want us to share your e-mail address and related personal information with unrelated third parties for marketing purposes, please follow the steps outlined below to submit a request electronically:
 
-  * If you do not want to receive email, please use the [Contact Us](https://web.archive.org/service/contact/index.jsp) Form and select the subject line "CUSTOMER SERVICE" from the drop down menu. In the message area, please type "UNSUBSCRIBE FROM EMAIL", along with the email address you want unsubscribed. (Please note that every time we send you an email, we will give you the option to unsubscribe from our e-mail list, so you'll be able to stop our e-mails at any time).
-  * If you do not wish your e-mail address and related personal information to be shared with unrelated third parties for marketing purposes, please use the same [Contact Us](https://web.archive.org/service/contact/index.jsp) form and select the subject line "CUSTOMER SERVICE" from the drop down menu. In the message area, please type "KEEP PRIVATE", along with your name and email address.
-  * If you wish both steps to be taken, please use the [Contact Us](https://web.archive.org/service/contact/index.jsp) form. Follow the same step as above, but type in the message area, "NO EMAIL/KEEP PRIVATE", along with your name and email address.
+  * If you do not want to receive email, please use the [Contact Us](http://www.bloomingdales.com/service/contact/index.jsp) Form and select the subject line "CUSTOMER SERVICE" from the drop down menu. In the message area, please type "UNSUBSCRIBE FROM EMAIL", along with the email address you want unsubscribed. (Please note that every time we send you an email, we will give you the option to unsubscribe from our e-mail list, so you'll be able to stop our e-mails at any time).
+  * If you do not wish your e-mail address and related personal information to be shared with unrelated third parties for marketing purposes, please use the same [Contact Us](http://www.bloomingdales.com/service/contact/index.jsp) form and select the subject line "CUSTOMER SERVICE" from the drop down menu. In the message area, please type "KEEP PRIVATE", along with your name and email address.
+  * If you wish both steps to be taken, please use the [Contact Us](http://www.bloomingdales.com/service/contact/index.jsp) form. Follow the same step as above, but type in the message area, "NO EMAIL/KEEP PRIVATE", along with your name and email address.
 
 
 
@@ -170,4 +191,4 @@ If this policy changes, Bloomingdale's will revise this portion of its privacy p
   
 
 
-Your confidence in the bloomingdales.com shopping experience is our highest priority. If you have any concerns about privacy and security that have not been answered in the above policy, please [contact us](https://web.archive.org/service/contact/index.jsp) and we'll do our best to answer your questions and put your mind at ease
+Your confidence in the bloomingdales.com shopping experience is our highest priority. If you have any concerns about privacy and security that have not been answered in the above policy, please [contact us](http://www.bloomingdales.com/service/contact/index.jsp) and we'll do our best to answer your questions and put your mind at ease
