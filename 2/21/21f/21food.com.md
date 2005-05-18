@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 21food.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210214526id_/http%3A//www.21food.com/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 21food.com privacy policy that was archived on 2005-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050518233133id_/http%3A//www.21food.com/info/privacy.htm) for the most accurate reproduction.*
 
-# E-index
+# Privacy - 21food.com
 
 Your privacy on the Internet is important to us. Because we gather certain types of information about the users of 21food's network of sites and services, we believe you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it. 
 
