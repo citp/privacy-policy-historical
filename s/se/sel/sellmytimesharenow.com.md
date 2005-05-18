@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sellmytimesharenow.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209071831id_/http%3A//www.sellmytimesharenow.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellmytimesharenow.com privacy policy that was archived on 2005-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050518075258id_/http%3A//www.sellmytimesharenow.com/privacy.php) for the most accurate reproduction.*
 
 # timeshare resales and rentals, buy and sell timeshare fast and easy
 
@@ -52,6 +52,9 @@ We also permit other companies that show advertisements on some of our pages to 
 ** Should you have any questions, concerns or comments, please email us at   
 [info@SellMyTimeShareNOW.com](mailto:info@sellmytimesharenow.com)
 
+**Sell My Timeshare Now is your[timeshares](https://web.archive.org/web/20050518075258id_/http%3A//www.sellmytimesharenow.com/index.php) and [timeshare resales](https://web.archive.org/web/20050518075258id_/http%3A//www.sellmytimesharenow.com/index.php) specialist. We are the quick, safe, and hassle-free way to buy, rent or sell [timeshare](https://web.archive.org/web/20050518075258id_/http%3A//www.sellmytimesharenow.com/index.php)!**
+
+  
 |  |   
 ---  
 | | FEATURED ADS|   
@@ -60,59 +63,58 @@ We also permit other companies that show advertisements on some of our pages to 
   
 
 
-[Westgate Vacation Villas  
-$17,500 (NEG)(sale)  
-](https://web.archive.org/web/20041209071831id_/http%3A//www.sellmytimesharenow.com/details.php?idadd=30422)
+[Oyster Bay Beach Resort  
+$9,000(sale)  
+](https://web.archive.org/web/20050518075258id_/http%3A//www.sellmytimesharenow.com/details.php?idadd=57845)
 
-[Flagship Resort, The  
-$14,500 - WEEK #47 IN ATLANTIC CITY !!!(sale)  
-](https://web.archive.org/web/20041209071831id_/http%3A//www.sellmytimesharenow.com/details.php?idadd=29705)  
+[Grandview at Las Vegas  
+$950 NEG ***SUMMERTIME IN VEGAS***(rent)  
+](https://web.archive.org/web/20050518075258id_/http%3A//www.sellmytimesharenow.com/details.php?idadd=57814)  
   
   
   
 
 
-[Shell Vacations Club - Multi-Destination  
-$14,000 NEGOTIABLE ***WITH 3,750 SVC POINTS!!!(sale)  
-](https://web.archive.org/web/20041209071831id_/http%3A//www.sellmytimesharenow.com/details.php?idadd=29444)
+[Breezy Point Timeshare  
+$4,999 ***SPRINGTIME ON PELICAN LAKE***(sale)  
+](https://web.archive.org/web/20050518075258id_/http%3A//www.sellmytimesharenow.com/details.php?idadd=57778)
 
-[Cliffs at Peace Canyon, The  
-PRICE JUST DROPPED TO $11,900 (NEG) - LAS VEGAS !!! OWNER SAYS(sale)  
-](https://web.archive.org/web/20041209071831id_/http%3A//www.sellmytimesharenow.com/details.php?idadd=28626)  
+[Grandview at Las Vegas  
+$11,495 **THREE WEEKS WITH PURCHASE**(sale)  
+](https://web.archive.org/web/20050518075258id_/http%3A//www.sellmytimesharenow.com/details.php?idadd=57459)  
   
   
   
 
 
-[Royal Sunset  
-$1,000 - FLOATING WEEK !(rent)  
-JUST REDUCED! PRESIDENTIAL SUITE - $16,000!!(sale)  
-](https://web.archive.org/web/20041209071831id_/http%3A//www.sellmytimesharenow.com/details.php?idadd=27868)
+[Silverleaf's Ozark Mountain Resort  
+$10,000 (NEG)(sale)  
+](https://web.archive.org/web/20050518075258id_/http%3A//www.sellmytimesharenow.com/details.php?idadd=57029)
 
-[Plaza Resort Club  
-$8,500 (NEG) - FAMILY-ORIENTED RESORT IN RENO!!!(sale)  
-](https://web.archive.org/web/20041209071831id_/http%3A//www.sellmytimesharenow.com/details.php?idadd=27841)  
+[Fairmont Vacation Villas at Hillside  
+$6,800 ***GOLFERS PARADISE VALLEY***(sale)  
+](https://web.archive.org/web/20050518075258id_/http%3A//www.sellmytimesharenow.com/details.php?idadd=56995)  
   
   
   
 
 
-[Shell Vacations Club at Kauai Coast Resort at the Beachboy  
-JUST REDUCED TO $8,500 INCLUDES 3,500 POINTS!!!(sale)  
-](https://web.archive.org/web/20041209071831id_/http%3A//www.sellmytimesharenow.com/details.php?idadd=27427)
+[Grand Mayan Riviera Maya  
+Grand Master Suite: $1,995/wk, Grand Suite: $1,395/wk, Grand Master Room: $795/wk(rent)  
+](https://web.archive.org/web/20050518075258id_/http%3A//www.sellmytimesharenow.com/details.php?idadd=56699)
 
-[Westgate Towers  
-PRICE JUST REDUCED TO $12,500 (NEG) - OWN A LITTLE PIECE OF MAGIC !!!(sale)  
-](https://web.archive.org/web/20041209071831id_/http%3A//www.sellmytimesharenow.com/details.php?idadd=27040)  
+[Grand Mayan Puerto Penasco  
+Grand Master Suite: $1,995/wk, Grand Suite: $1,395/wk, Grand Master Room: $795/wk(rent)  
+](https://web.archive.org/web/20050518075258id_/http%3A//www.sellmytimesharenow.com/details.php?idadd=56693)  
   
   
   
 
 
-[Fairfield Smoky Mountains  
-PRICE DRASTICALLY REDUCED!! NOW ONLY $7,995!! OWNER WANTS TO SELL BEFORE END OF THE YEAR!(sale)  
-](https://web.archive.org/web/20041209071831id_/http%3A//www.sellmytimesharenow.com/details.php?idadd=27018)
+[Grand Mayan Nuevo Vallarta  
+Grand Master Suite: $1,995/wk, Grand Suite: $1,395/wk, Grand Master Room: $795/wk(rent)  
+](https://web.archive.org/web/20050518075258id_/http%3A//www.sellmytimesharenow.com/details.php?idadd=56692)
 
-[Hilton Grand Vacations Club at SeaWorld International Center  
-REDUCED TO $8,800 - OUTSTANDING VACATION CLUB DEAL !!!(sale)  
-](https://web.archive.org/web/20041209071831id_/http%3A//www.sellmytimesharenow.com/details.php?idadd=26914)
+[Oak 'n Spruce Resort  
+$4,500(sale)  
+](https://web.archive.org/web/20050518075258id_/http%3A//www.sellmytimesharenow.com/details.php?idadd=56676)
