@@ -1,43 +1,57 @@
-> *The following text is extracted and transformed from the n-gage.com privacy policy that was archived on 2003-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030607060330id_/http%3A//www.n-gage.com/n-gage/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the n-gage.com privacy policy that was archived on 2005-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050518084804id_/http%3A//www.n-gage.com/en-R1/privacy_policy) for the most accurate reproduction.*
 
-# Nokia N-Gage
+# Nokia N-Gage | Privacy Policy
 
-Privacy Policy of "www.n-gage.com" (this "Site")
+(Version 2004-4; posted and effective as of June 8, 2004) 
 
-This Privacy Policy is applicable to this Site and not necessarily to other Nokia sites on the World Wide Web pages. When leaving this Site, please read the privacy policy applicable to the site you are visiting. If you do not agree with this Privacy Policy, please do not use this Site.
+This Privacy Policy is applicable to any site, and the services provided therein, operated by Nokia Corporation, its subsidiaries or affiliates ("Nokia") from which you have accessed this Privacy Policy (the "Site"). By accessing and using the Site, you expressly agree to the terms of this Privacy Policy. 
 
-By accessing and using this Site, you hereby agree to the terms of this Privacy Policy.
+Such Site(s) include www.n-gage.com, arena.n-gage.com, mobile.n-gage.com, and support.n-gage.com. This Privacy Policy is applicable to the Site(s) and not necessarily to other Nokia sites. When leaving any Site(s), please read the privacy policy applicable to the site you are thereafter visiting. 
 
-Non-Personal Information Collected Automatically
+**If you do not agree with this Privacy Policy, please do not use the Site(s).**
 
-Nokia is committed to the protection of the privacy of its web site visitors. Please note that we may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third parties, but these statistics will include no personally identifying information.
+ **Visitor Identification ("Cookies") and Non-Personal Information**
 
-Personal Information
+Nokia or its third-party designees may place information on your computer to allow Nokia to collect certain data. This information is commonly known as "cookies". The cookies used by Nokia or its third-party designees on the Site(s) are session-specific and are cancelled and expire when you leave the Site(s) and are not stored on your computer. The data collected through cookies does not, in any way, identify you personally or your computer. The information collected is collected for technical and maintenance purposes only. 
 
-In the future, in order to respond to your questions, fulfill your requests or manage interactive customer programs, it may be necessary to ask for personal information such as your name, address, e-mail address and telephone number. We may use this information to respond to your requests, or to contact you via mail, e-mail or phone to inform you of new products, services or promotions we may offer. If you place an order for a product, request a service or submit content to this site, we may need to contact you for additional information required to process or fulfill your order and/or request. However, unless compelled by applicable legislation, we will not provide this information to a third party without your permission, except as necessary to process your order, fulfill your requests or manage interactive customer programs. You also hereby grant to Nokia the right to exchange any information provided by you between Nokia's affiliates for the purposes mentioned before. 
+Please note that Nokia may provide aggregate statistics about our customers, sales, traffic patterns, and related Site information to reputable third parties, but these statistics will not include any personally identifying information. 
 
-In addition to the personal information that you may provide us, this Site may use technology that lets us collect certain technical information like your Internet protocol address, your computer's operating system, your browser type, traffic patterns and the address of any referring Web sites. 
+**Personal Information Collected**
 
-Security
+Nokia is committed to the protection of privacy of the Site(s) visitors. Nokia stores personal information that you may provide to Nokia, or that Nokia may receive in connection with the Site(s) and the services provided therein. Such information may include, among other information, your name, address, e-mail address and telephone number, and information about your responses to the Site(s), campaigns and other activities, as well as about your contacts with the customer care line or activities relating to after-market (repair) services ("Personal Information"). 
 
-Please note that while there are always risks associated with providing personal data, whether in person, by phone or over the Internet, and no system of technology is completely safe, "tamper" or "hacker-proof", Nokia has endeavored to take appropriate measures to prevent and minimize risks of unauthorized access to, improper use and the inaccuracy of your personal information. For example, we use encryption technology when collecting or transferring sensitive data such as credit card information. 
+No information may be submitted to Nokia via the Site(s) by persons under the age of 16 or who are minors under their applicable local legislation. In the event you are of the age of 16 but a minor in your country, you will need consent from your parent(s) or other legal guardian(s) before submitting any information to Nokia via the Site(s). 
 
-Accuracy of collected data
+**Purposes for which Personal Information is Collected**
 
-Nokia will on its own initiative, or at your request, replenish, rectify or erase any incomplete, inaccurate or outdated personal data retained by Nokia in connection with the operation of this Site. 
+Nokia collects Personal Information for the purposes of provision, development and personalization of the Site(s) and any other Nokia sites, services and/or products, research and demographics, statistics and customer care. Specifically, Nokia collects Personal Information for the purposes of personal communication with you in order to respond to your questions, and fulfill your requests. And, in the event you have so consented, to contact you for direct marketing purposes via mail, e-mail or phone to conduct market research, and to inform you of and get your feedback on upcoming products, services and/or promotions. 
 
-Visitor identification
+**Information Storage and Processing**
 
-From time to time, information may be placed on your computer to allow us to identify you. This information is commonly known as "cookies". By showing how and when our visitors use this Site, this information can help us to continue to improve our Site. We will only use cookies to view information on your hard drive that was put there by a cookie from this Site. The use of cookies is an industry standard and many web sites use them. Cookies are stored on your computer and not on this Site. If you do not wish to receive cookies, or want to be notified of when they are placed, you may set your web browser to do so, if your browser so permits.
+The Personal Information relating to the Site(s) will be stored, processed and used in accordance with applicable data protection regulations by Nokia Corporation, P.O. Box 100, FIN-00045 Nokia Group, Finland. The Personal Information is stored by Nokia either on servers in Finland or in the United States. Nokia may consolidate the consumer databases. 
 
-Minors
+You expressly accept and give your unambiguous consent that your Personal Information gained in connection with your use of the Site(s), with respect to the Site(s), may be transferred across international borders to server locations supporting the Site(s) (including but not limited to transfers from those locations back to the country of your registration) for operating and developing the Site(s), including transfers to Nokia subcontractors or agents, as mentioned below who perform tasks related to the Site(s), or for the purposes of storing the data in the relevant database, which may be located in Finland or in the United States. 
 
-No information may be submitted to Nokia by persons under the age of 18 without the consent of a parent or legal guardian, nor may persons under the age of 18 make purchases or other legal acts on this Site without such consent, unless permitted by applicable legislation.
+You expressly accept and give your unambiguous consent that Nokia, Nokia Careline service providers, Nokia "Service Points" and other Nokia subcontractors or agents in the below listed countries performing support and other thereto related tasks, may have access to your Personal Information that is needed for completing the task in question. These entities operating in these functions have accepted appropriate confidentiality obligations when processing your Personal Information. 
 
-Changes
+Nokia, Nokia Careline service providers, Nokia "Service Points" or other Nokia subcontractors in the following countries may have access to your Personal Information for the above mentioned purposes: Belgium, Finland, Germany, Hungary, India, Italy, Malaysia, Spain, United Kingdom and the United States. 
 
-We may change this Privacy Policy, or change, modify or withdraw access to this Site, or the content of these pages at any time with or without notice. 
+Nokia reserves the right at its sole discretion to amend the above list of countries from which access to Personal Information may be provided. Nokia will inform relevant data protection authorities of any such amendments and Nokia will inform you of any such amendments by amending this Privacy Policy accordingly and you unambiguously consent to any such amendments. 
 
-Copyright © Nokia Corporation 2003. All rights reserved. 
+Your Personal Information will not be revealed to any third parties without your prior consent, except as otherwise provided above in this Privacy Policy. 
 
-<< Back
+**Security, Review and Accuracy of Personal Information**
+
+Please note that while there are always risks associated with providing Personal Information, whether in person, by phone or over the Internet or any other media or terminal, and no system of technology is completely safe, "tamper" or "hacker-proof", Nokia has endeavored to take appropriate measures to prevent and minimize risks of unauthorized access to, improper use and the inaccuracy of your Personal Information. 
+
+You have the right, once a year without any cost and thereafter subject to compensation of reasonable costs of Nokia, to review any and all of your Personal Information stored by Nokia. Further, you have the right, at any time, to ask Nokia to remove some or all of your Personal Information and to prohibit Nokia or its third-party designees from using any Personal Information submitted by or collected from you. 
+
+Nokia will on its own initiative, or at your request, replenish, rectify or erase any in-complete, inaccurate or outdated Personal Information retained by Nokia in connection with the operation of the Site(s). To exercise these rights with respect to your Personal Information please contact [support@n-gage.com]. 
+
+**Service Specific Terms**
+
+Nokia may have separate terms for different services, in which the service specific terms and conditions are set forth (including data protection). Please review and accept such service specific terms and conditions prior to any use to ensure that you are at all time aware of your rights and obligations. 
+
+**Modification of the Privacy Policy**
+
+Nokia reserves the right to change or modify at any time without prior notice this Privacy Policy. Nokia will notify you of such change or modification by posting an updated version of this Privacy Policy. You are responsible for regularly reviewing this Privacy Policy. Continued use of the Site(s) shall constitute your consent to such changes.
