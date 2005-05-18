@@ -1,8 +1,63 @@
-> *The following text is extracted and transformed from the gamefly.com privacy policy that was archived on 2004-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041231015401id_/http%3A//www.gamefly.com/help/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamefly.com privacy policy that was archived on 2005-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050518080242id_/http%3A//www.gamefly.com/help/privacypolicy.asp) for the most accurate reproduction.*
 
 # Video Game Rentals : Rent or Buy PlayStation 2 / PS2, Xbox, GameCube, GBA Games
 
-| |    
+|   
+|   
+---  
+| **By Console**  
+  
+  
+| 
+* | [PlayStation 2](http://www.gamefly.com/ps2/?fcTrack=Generic%20Page? "Playstation 2 / PS2")|   
+| 
+* | [Xbox](http://www.gamefly.com/xbox/?fcTrack=Generic%20Page? "Xbox / X Box")|   
+| 
+* | [GameCube](http://www.gamefly.com/gamecube/?fcTrack=Generic%20Page? "GameCube / Game Cube")|   
+| 
+* | [Game Boy Adv](http://www.gamefly.com/gba/?fcTrack=Generic%20Page? "Game Boy / Game Boy Advance")|   
+| 
+* | [DS](http://www.gamefly.com/ds/?fcTrack=Generic%20Page? "Nintendo DS/ DS")|   
+| 
+* | [PSP](http://www.gamefly.com/psp/?fcTrack=Generic%20Page? "PSP")|   
+---  
+|    
+  
+  
+  
+  
+---  
+| **Buy Pre-Played Games**  
+  
+  
+| 
+* | [PlayStation 2](http://www.gamefly.com/store/?fcTrack=Generic%20Page?Buy%20Games%20Module&stp=3 "PlayStation 2 / PS2 Games")  
+| 
+* | [Xbox](http://www.gamefly.com/store/?fcTrack=Generic%20Page?Buy%20Games%20Module&stp=4 "Xbox / X box Games")  
+| 
+* | [GameCube](http://www.gamefly.com/store/?fcTrack=Generic%20Page?Buy%20Games%20Module&stp=5 "GameCube / Game Cube Games")  
+| 
+* | [Game Boy Adv](http://www.gamefly.com/store/?fcTrack=Generic%20Page?Buy%20Games%20Module&stp=6 "Game Boy / Game Boy Advance Games")  
+---  
+| **Gift Certificates**  
+  
+  
+| 
+* | [Buy](http://www.gamefly.com/giftcert/giftbuy.asp)  
+| 
+* | [Redeem](http://www.gamefly.com/giftcert/redeem.asp)  
+---  
+| **FREE Rentals**  
+  
+  
+| 
+* | [Tell a Friend](http://www.gamefly.com/promos/referform.asp)  
+  
+
+
+[](https://www.esrb.org/confirm/gamefly-confirmation.htm)
+
+|    
 GameFly respects the privacy rights of our online visitors and is committed to protecting the personal information collected about you. To further this commitment, we have adopted this Online Privacy Policy ("Privacy Policy") to guide how we collect, store, and use the information you provide us online. 
 
 This Privacy Statement and the certification seal located on this page confirm that GameFly is a valid licensee and participating subscriber in the [Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online](http://www.esrb.org/privacy.asp). To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by ESRB Privacy Online. 
@@ -123,8 +178,10 @@ You are solely responsible for safeguarding your GameFly e-mail login and passwo
 
 **How do I ask a question or file a complaint? (Contact Information)**
 
-If you have any questions, complaints, or comments regarding this Privacy Policy or our information collection practices, please contact [support@gamefly.com](https://web.archive.org/help/contactus.asp) or call 1-888-986-6400. 
+If you have any questions, complaints, or comments regarding this Privacy Policy or our information collection practices, please contact [support@gamefly.com](https://web.archive.org/help/contactus.asp). 
 
 For complaints, you can also contact ESRB Privacy Online directly at [www.esrb.org](http://www.esrb.org/) or by regular mail at 317 Madison Avenue, 22nd Floor, New York, NY 10017. 
 
 This Privacy Policy was last updated on May 18, 2004. 
+
+| 
