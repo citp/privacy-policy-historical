@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the parachat.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208023907id_/http%3A//www.parachat.com/help/index.php%3F%26aktion%3Dhilfe) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parachat.com privacy policy that was archived on 2005-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050519074943id_/http%3A//www.parachat.com/helpdesk/privacypolicy.php) for the most accurate reproduction.*
 
-# ParaChat FAQ
+# ParaChat Support Center
 
 ### **ParaChat Privacy Policy**
 
@@ -55,7 +55,7 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 **Editing and Deleting Your Product and/or Account Information**
 
-To edit and/or delete your product and/or account information that has already been provided by you to ParaChat Group, including whether you want ParaChat Group to contact you about specials and new products, please contact our [support team](mailto:support@parachat.com?subject=) for instructions. You may also follow the instructions for editing and/or deleting product and/or account information that were provided to you when your service was initiated, or for mailing list addition or deletion using the instructions that are included in a mailing list email that you may have received.
+To edit and/or delete your product and/or account information that has already been provided by you to ParaChat Group, including whether you want ParaChat Group to contact you about specials and new products, please contact our Support Team for instructions. You may also follow the instructions for editing and/or deleting product and/or account information that were provided to you when your service was initiated, or for mailing list addition or deletion using the instructions that are included in a mailing list email that you may have received.
 
 **Security**
 
@@ -73,4 +73,4 @@ ParaChat Group may amend this policy from time to time without notice. Please re
 
 **Questions or Suggestions**
 
-If you have any questions or suggestions, please contact our [support team](mailto:support@parachat.com?subject=). 
+If you have any questions or suggestions, please contact our Support Team. 
