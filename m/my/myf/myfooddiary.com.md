@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfooddiary.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209023229id_/http%3A//www.myfooddiary.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfooddiary.com privacy policy that was archived on 2005-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050519030013id_/http%3A//www.myfooddiary.com/privacy.asp) for the most accurate reproduction.*
 
 # My Food Diary :: Privacy Policy
 
@@ -62,7 +62,7 @@ We use third-party tracking services that use cookies to track non-personally id
 
 A cookie is a small text file that is stored on a user's computer for record-keeping purposes.  We use both session ID cookies and persistent cookies.
 
-We use session cookies to make it easier for you to navigate our site.  A session ID cookie expires when you close you browser or when you have been inactive for 20 minutes or longer.  If you reject session cookies, you will not be able to use the members' section of our site.
+We use session cookies to make it easier for you to navigate our site.  A session ID cookie expires when you close your browser or when you have been inactive for 20 minutes or longer.  If you reject session cookies, you will not be able to use the members' section of our site.
 
 Persistent cookies remain on your hard drive for an extended period of time.  If you select the "remember me" option when logging into our members' section, a persistent cookie will be used to allow you to bypass the log in process in the future.  We also use persistent cookies to help us track how new members find our site.  You can remove persistent cookies by following directions provided in your Internet browser's "help" file.
 
