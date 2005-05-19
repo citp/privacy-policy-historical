@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hollandamerica.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204203423id_/http%3A//hollandamerica.com/policies/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollandamerica.com privacy policy that was archived on 2005-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050520010331id_/http%3A//hollandamerica.com/policies/privacy.do) for the most accurate reproduction.*
 
-# Holland America Line Inc. - Privacy Policy
+# Privacy Policy - Holland America Line Inc.
 
 privacy policy
 
