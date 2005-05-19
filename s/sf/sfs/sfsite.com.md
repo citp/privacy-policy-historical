@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfsite.com privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223125944id_/http%3A//www.gorillanation.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfsite.com privacy policy that was archived on 2005-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050519074849id_/http%3A//www.gorillanation.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -7,9 +7,9 @@ TO PRIVACY
 GNM is firmly committed to protecting the privacy of Internet users and fostering consumer confidence in the Internet, Internet advertising and direct marketing. We invite all users to contact us at [legal@gorillanation.com](mailto:legal@gorillanation.com) with any questions or concerns.
 
 • **What GNM Does**   
-Gorilla Nation Media operates the following interrelated business lines; more information on each may be found at www.gorillanation.com:
+Gorilla Nation™ operates the following interrelated business lines; more information on each may be found at www.gorillanation.com:
 
-Gorilla Nation Media represents Web sites for which it sells and serves online advertisements on behalf of advertiser clients.
+Gorilla Nation™ represents Web sites for which it sells and serves online advertisements on behalf of advertiser clients.
 
 • **GNM Promotions** \- GNM's Promotions division develops customized online promotions campaigns such as sweepstakes and other incentive-style marketing campaigns. 
 
@@ -19,7 +19,7 @@ Gorilla Nation Media represents Web sites for which it sells and serves online a
 
 **How GNM's Products and Services Enhance User Privacy and Protect the Property of Advertisers and Web Publishers**
 
-Gorilla Nation Media serves ads to its partner Web sites. The cookies that are employed across our represented websites serve a quantitative function and are not designed to collect and store data profiles on users. They are used to:
+Gorilla Nation™ serves ads to its partner Web sites. The cookies that are employed across our represented websites serve a quantitative function and are not designed to collect and store data profiles on users. They are used to:
 
 • Report to GNM's advertiser and Web site clients the estimated total reach of an ad campaign;  
 • Report the frequency with which an ad was shown to a user, and other measurement statistics;  
@@ -27,19 +27,19 @@ Gorilla Nation Media serves ads to its partner Web sites. The cookies that are e
 • Deliver a series of advertisements in the proper sequence; and  
 • Limit the number of times a browser is delivered the same advertisement.
 
-Unlike other global ad serving companies, Gorilla Nation Media does not use any of the data collected via cookies for purposes other than those described above. Gorilla Nation Media does not merge personally identifiable information with non-personally identifiable information, and does not otherwise parse, sort, gather, or aggregate user data for use elsewhere. Non-PII is collected by Gorilla Nation Media through session cookies that terminate when the browser is closed.
+Unlike other global ad serving companies, Gorilla Nation™ does not use any of the data collected via cookies for purposes other than those described above. Gorilla Nation Media does not merge personally identifiable information with non-personally identifiable information, and does not otherwise parse, sort, gather, or aggregate user data for use elsewhere. Non-PII is collected by Gorilla Nation™ through session cookies that terminate when the browser is closed.
 
-Gorilla Nation Media thus has no reason to offer users the choice to "opt-out" of anything that pertains to Network served ads.
+Gorilla Nation Media™ thus has no reason to offer users the choice to "opt-out" of anything that pertains to Network served ads.
 
 **What User Information Is Collected  
 by Email and Promotions**  
-Gorilla Nation Media collects two types personally identifiable information only through its Email and Promotions business lines.
+Gorilla Nation™ collects two types personally identifiable information only through its Email and Promotions business lines.
 
 **Personally Identifiable Information ("PII")**   
 PII is personal information classified as personal to the online consumer, such as name, address, phone number and email address. PII also includes other personal information such as birth-date, zip code, gender, or lifestyle information.
 
-• GNM's Email and Promotions divisions collect PII on an opt-in basis only. Gorilla Nation Media will not collect any PII unless that user voluntarily provides it to GNM. If you do not want your personal information collected online, please do not submit it to surveys, promotions, sweepstakes, or subscriptions.  
-•PII is collected by Gorilla Nation Media when online users respond to a survey and provide it, when they register for an email newsletter, register for a product or service online, or enter a sweepstakes promoted by GNM, its subsidiaries or its partners. Selected partners of Gorilla Nation Media will share information with Gorilla Nation Media about only their online consumers who have consented to the sharing of their information with third parties.
+• GNM's Email and Promotions divisions collect PII on an opt-in basis only. Gorilla Nation™ will not collect any PII unless that user voluntarily provides it to GNM. If you do not want your personal information collected online, please do not submit it to surveys, promotions, sweepstakes, or subscriptions.  
+•PII is collected by Gorilla Nation™ when online users respond to a survey and provide it, when they register for an email newsletter, register for a product or service online, or enter a sweepstakes promoted by GNM, its subsidiaries or its partners. Selected partners of Gorilla Nation Media™ will share information with Gorilla Nation Media about only their online consumers who have consented to the sharing of their information with third parties.
 
 Furthermore, each individual in the GNM Email database has answered positively to an "opt in" question, or they have voluntarily filled out an Internet survey card to receive email solicitation about products of interest. Gorilla Nation Media and its partners communicate with these users frequently to verify their "opt in" status. Gorilla Nation Media also provides users with an explicit opportunity to opt-out every time an email promotion is sent.
 
