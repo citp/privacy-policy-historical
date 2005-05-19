@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the good-tutorials.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204080743id_/http%3A//www.good-tutorials.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the good-tutorials.com privacy policy that was archived on 2005-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050519083942id_/http%3A//www.good-tutorials.com/privacy.php) for the most accurate reproduction.*
 
 # Good-Tutorials.com - Privacy Policy
 
-5372 Photoshop Tutorials 
+7379 Adobe Photoshop Tutorials 
 
 ## Privacy Policy
 
