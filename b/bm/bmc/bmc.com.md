@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmc.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210092531id_/http%3A//www.bmc.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmc.com privacy policy that was archived on 2005-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050519084034id_/http%3A//www.bmc.com/legal/privacy.html) for the most accurate reproduction.*
 
 # BMC Software
 
@@ -32,7 +32,8 @@ Unless otherwise stated in another, more specific policy on the web pages you ar
 BMC Software does not rent or sell customer lists to other companies. Instead, we use information collected via the web site in the following ways: 
 
   * For information you provide directly, such as ordering information or e-mail messages, we use the information to respond to your orders and requests.
-  * For some registration and use data, we may direct you to particular web pages, customize the web pages you see, or otherwise increase the relevance of the information you access through the web site.
+  * For information you provide through email communications, including actions or clicks from hyperlinks and subscriptions, we use the information to customize future email communications and web pages in accordance with communication preferences you have established with BMC Software. 
+  * For some registration, email and use data, we may direct you to particular web pages, customize the web pages you see, or otherwise increase the relevance of the information you access through the web site.
   * For information about web pages visited, page hits per week, and the like, we use this information internally to improve the design of our web pages.
   * BMC Software may use third-party storage or service-provider companies to perform some functions including the processing of data. Such companies are under a duty of confidentiality to BMC Software.
 
@@ -57,3 +58,5 @@ You can update your contact information by e-mailing [privacy@bmc.com](mailto:pr
 ### Revisions and Contact Information
 
 We constantly update the features of our web site to better serve you and all our customers, so this policy may also be revised from time to time. BMC Software may modify this policy without advance notice and any modifications are effective when they are posted here. By using our web site, you indicate your understanding and acceptance of the terms of the policy posted at the time of your use. If you have any questions, please contact us by sending an e-mail message to [privacy@bmc.com](mailto:privacy@bmc.com) with the subject line heading of "Privacy Policy Request". 
+
+Last Modified: January 14, 2005 
