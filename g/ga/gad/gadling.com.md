@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gadling.com privacy policy that was archived on 2004-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041230084149id_/http%3A//www.weblogsinc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadling.com privacy policy that was archived on 2005-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050520004056id_/http%3A//www.weblogsinc.com/privacy) for the most accurate reproduction.*
 
-# Weblogs, Inc. Home Page - www.weblogsinc.com
+# Weblogs, Inc. Home Page - www.weblogsinc.com _
 
 ## Weblogs, Inc. Privacy Statement
 
