@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bluenile.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204011632id_/http%3A//www.bluenile.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluenile.com privacy policy that was archived on 2005-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050519234146id_/http%3A//www.bluenile.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-| | | | | | | [](https://web.archive.org/web/20041204011632id_/http%3A//www.bluenile.com/shipping.asp)  **Free shipping on every order & extended returns through Jan. 15, 2005.**  
+| | | | | | | [](https://web.archive.org/shipping.asp)  **Free FedEx® & 30-day returns.** Order before 3 PM EST for same-day shipping.   
 ---|---  
-| |  Blue Nile will occasionally update its privacy statement to reflect company and customer feedback. When Blue Nile posts changes to this statement, you will see the word "Updated" next to the Privacy Policy link on the Blue Nile home page. Blue Nile encourages you to periodically review this page to be informed of how we are protecting your information. If you have questions or concerns about policy changes, you should first contact the Blue Nile customer service department at service@bluenile.com or 800-242-2728. 
+| |  Blue Nile will occasionally update its privacy statement to reflect company and customer feedback. When Blue Nile posts changes to this statement, you will see the word "Updated" next to the Privacy Policy link on the Blue Nile home page. Blue Nile encourages you to periodically review this page to be informed of how we are protecting your information. If you have questions or concerns about policy changes, you should first contact the Blue Nile customer service department at [service@bluenile.com](mailto:service@bluenile.com) or 800-242-2728. 
 
 ## 
 
@@ -56,11 +56,11 @@ Using a Blue Nile form, you can also refer a friend to the Blue Nile Web site.
 Blue Nile occasionally requests information from our users and customers via surveys. Participation in these surveys is completely voluntary, and all participants have a choice whether or not to disclose information. The requested information typically includes the customer's first name, as well as information relating to the customer's experience at Blue Nile, or their opinions on products they have purchased. Survey information will be used internally to monitor or improve this site, and after attaining user permission, may be posted on the site to provide information about our products to other users. Users' personally identifiable information is not shared with third parties unless Blue Nile gives prior notice and choice. 
 
 **Opt-Out Policy**   
-To opt out of receiving communications from Blue Nile, just select "unsubscribe" on our [subscription status page](https://web.archive.org/web/20041204011632id_/http%3A//www.bluenile.com/subscription.asp) and enter the requested information. Or you can make your request in person by contacting a diamond and jewelry consultant at 800-242-2728 or by e-mail at service@bluenile.com. 
+To opt out of receiving communications from Blue Nile, just select "unsubscribe" on our [subscription status page](https://web.archive.org/web/20050519234146id_/http%3A//www.bluenile.com/subscription.asp) and enter the requested information. Or you can make your request in person by contacting a diamond and jewelry consultant at 800-242-2728 or by e-mail at [service@bluenile.com](mailto:service@bluenile.com). 
 
 ## 
 
-If the personal information Blue Nile has gathered from you changes or you no longer desire our service, we will gladly correct, update, or remove any personal data you have previously provided to us. To request a change or removal of your personal information, send an e-mail to service@bluenile.com or contact one of our diamond and jewelry consultants at 800-242-2728. 
+If the personal information Blue Nile has gathered from you changes or you no longer desire our service, we will gladly correct, update, or remove any personal data you have previously provided to us. To request a change or removal of your personal information, send an e-mail to [service@bluenile.com](mailto:service@bluenile.com) or contact one of our diamond and jewelry consultants at 800-242-2728. 
 
 ## 
 
@@ -86,7 +86,7 @@ Blue Nile collects your IP address, which cannot be used to identify you person
 To provide the best customer service possible, Blue Nile provides multiple methods for customers to ask questions and provide feedback. 
 
 **Contact Us**   
-Via the "Contact Us" link, Blue Nile allows customers to e-mail service@bluenile.com. This provides direct contact to a Blue Nile diamond and jewelry consultant, who reads each e-mail and tries to promptly answer your questions. Blue Nile may also file your comments to improve the site and program or review and discard the information. You may also send us your comments about the Blue Nile Web site or the shopping experience in general, as we always appreciate feedback. 
+Via the "Contact Us" link, Blue Nile allows customers to e-mail [service@bluenile.com](mailto:service@bluenile.com). This provides direct contact to a Blue Nile diamond and jewelry consultant, who reads each e-mail and tries to promptly answer your questions. Blue Nile may also file your comments to improve the site and program or review and discard the information. You may also send us your comments about the Blue Nile Web site or the shopping experience in general, as we always appreciate feedback. 
 
 ## 
 
@@ -96,7 +96,7 @@ If a third party obtains your personal information from a purchase made with Blu
 
 The only time Blue Nile will disclose personal information is when required to by law or with the good-faith belief that such action is necessary in order to conform to the law. 
 
-If you have questions about this privacy statement, please contact the Blue Nile customer service department at service@bluenile.com or at 800-242-2728. 
+If you have questions about this privacy statement, please contact the Blue Nile customer service department at [service@bluenile.com](mailto:service@bluenile.com) or at 800-242-2728. 
 
 * Blue Nile will cover this liability if the unauthorized use resulted through no fault of yours from purchases made on Blue Nile's secure server. In the event of unauthorized use of your credit card, you must notify your credit card company in accordance with its reporting rules and procedures. 
 
