@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neimanmarcus.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208163706id_/http%3A//www.neimanmarcus.com/store/service/nmSecurity.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neimanmarcus.com privacy policy that was archived on 2005-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050520002413id_/http%3A//www.neimanmarcus.com/store/service/nmSecurity.jhtml) for the most accurate reproduction.*
 
 # Neiman Marcus Online
 
@@ -29,7 +29,7 @@ As we continue to develop our Web site and take advantage of advances in technol
 
 If you have a Neiman Marcus credit card, a separate privacy policy describes collection, use, and protection of information about you and your account. To obtain a copy of our credit card privacy policy: 
 
-  * Click to [review NM Credit Card policy](https://web.archive.org/store/service/nmShoppingOnline.jhtml;jsessionid=3ZJZSID4HLZGCCQAAJVB5RYKAABG0H4X#nmccuse) online
+  * Click to [review NM Credit Card policy](https://web.archive.org/store/service/nmShoppingOnline.jhtml;jsessionid=GKW3UZQX4OQYGCQAAJTB5MYKAABGOH4X#nmccuse) online
   * Call 1.800.685.6695
   * Write:  
 Neiman Marcus  
@@ -61,11 +61,13 @@ We use the information we collect for various purposes, including:
   * to improve our merchandise selections, customer service, and overall shopping experience 
 
 **Others with whom we share your information**   
-The Neiman Marcus Group: We may share the information we collect with our corporate affiliates, including the Chef's and Horchow catalogs and Web sites. 
+The Neiman Marcus Group: We may share the information we collect with our corporate affiliates, including the Horchow catalog and Web site. 
 
 Service providers: We provide information to outside companies that help us bring you the products and services we offer. For example, we may work with an outside company to manage a database of customer information or assist us in distributing e-mails. 
 
 Other companies: We may provide your information to carefully selected outside companies when we believe their products or services may be of interest to you. 
+
+Business Transitions: We may transfer or share a copy of personal information about you in the event that The Neiman Marcus Group, Neiman Marcus Direct, NeimanMarcus.com, or one of its properties, affiliates or subsidiaries, goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets. You will be notified via email or prominent notice on our web site prior to a change of ownership or control of your personal information, if your personal information will be used contrary to this policy. However, nothing in this Privacy Policy is intended to interfere with the ability of The Neiman Marcus Group, Neiman Marcus Direct or NeimanMarcus.com to transfer all or part of its business and/or assets to an affiliate or independent third party at any time, for any purpose, without any limitation whatsoever. The Neiman Marcus Group, Neiman Marcus Direct, or NeimanMarcus.com specifically reserves the right to transfer or share a copy of personally identifiable information collected from its websites to the buyer of that portion of its business relating to that information. 
 
 **Your choices regarding use of the information we collect**   
 If you do not want us to share information about you with any company or organization outside The Neiman Marcus Group: 
