@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the strangecosmos.com privacy policy that was archived on 2004-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041207004934id_/http%3A//www.strangecosmos.com/static/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the strangecosmos.com privacy policy that was archived on 2005-05-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050519073728id_/http%3A//www.strangecosmos.com/static/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -8,6 +8,9 @@
 
 <link href="/style.css" rel="stylesheet" type="text/css">
 <title>Privacy Policy</title>
+<!-- BEGIN: AdSolution-Tag 4.2: Global-Code [PLACE IN HTML-HEAD-AREA!] -->
+<script type="text/javascript" language="javascript" src="http://a.as-eu.falkag.net/dat/dlv/aslmain.js"></script>
+<!-- END: AdSolution-Tag 4.2: Global-Code -->
 </head>
 <body leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0">
 
@@ -49,15 +52,17 @@
   <!--
   <td nowrap="true" class="linkNavigation"> \ </td>
   <td nowrap="true"><a href="/content/animations.html" class="linkNavigation">Animations</a></td>
-  -->
   <td nowrap="true" class="linkNavigation"> \ </td>
   <td nowrap="true"><a href="http://www.flycell.com/strangecosmos/" class="linkNavigation" target="_blank">Ringtones</a></td>
+  -->
   <td nowrap="true" class="linkNavigation"> \ </td>
   <td nowrap="true"><a href="/static/submit_content.html" class="linkNavigation">Submit a Joke or Picture</a></td>
   <td nowrap="true" class="linkNavigation"> \ </td>
   <td nowrap="true"><a href="/static/sign_up.html" class="linkNavigation">Sign Up</a></td>
   <td nowrap="true" class="linkNavigation"> \ </td>
   <td nowrap="true"><a href="/static/sign_up_friend.html" class="linkNavigation">Sign Up Friends</a></td>
+  <td nowrap="true" class="linkNavigation"> \ </td>
+  <td nowrap="true"><a href="/static/faq.html" class="linkNavigation">FAQ</a></td>
   <td nowrap="true" class="linkNavigation"> \ </td>
   <td nowrap="true"><a href="/static/contact_us.html" class="linkNavigation">Contact Us</a></td>
   <td nowrap="true" class="linkNavigation"> \ </td>
@@ -79,13 +84,13 @@
 <table border="0" cellpadding="2" cellspacing="0" width="100%">
  <tbody><tr>
   <td align="center" bgcolor="#3266CC" class="moduleTitle">
-   Site Search
+   Search
   </td>
  </tr>
  <tr>
   <td class="moduleItem">
 
-    <form method="get" action="/scaction/search">
+    <form method="get" action="/scaction/search" onsubmit="return validateSearchForm()" name="searchForm">
     <input type="text" size="15" name="keywords" value="">
     <input name="c" type="submit" value="GO!"><br>
     Search Type: <select name="content_type_id">
@@ -95,7 +100,23 @@
     </select>
     <input type="hidden" name="site_id" value="1">
     </form>
-   
+
+    <script language="JavaScript">
+      function validateSearchForm() {
+        var s = document.searchForm.keywords.value;
+        if(TrimString(s)=='') {
+          alert('Please enter keywords before performing a search');
+          return false;
+        }
+        return true;
+      }
+
+      function TrimString(sInString) {
+        sInString = sInString.replace( /^\s+/g, "" );
+        return sInString.replace( /\s+$/g, "" );
+      }
+    </script>
+
   </td>
  </tr>
 </tbody></table>
@@ -115,31 +136,31 @@
 
    <tr>
     <td class="moduleitem">
-      <a href="/content/item/104284.html" class="moduleItem">You May Be a High-Tech Redneck if..........</a>
+      <a href="/content/item/107511.html" class="moduleItem">Friday the 13th! - Bad Luck Day or Not?</a>
     </td>
    </tr>
 
    <tr>
     <td class="moduleitem">
-      <a href="/content/item/104346.html" class="moduleItem">Strange Laws Around The World</a>
+      <a href="/content/item/107713.html" class="moduleItem">Combat for Dummies - Actual Advice &amp; Instructions!</a>
     </td>
    </tr>
 
    <tr>
     <td class="moduleitem">
-      <a href="/content/item/104360.html" class="moduleItem">When Did They Take Out, "So Help Me God?"</a>
+      <a href="/content/item/107507.html" class="moduleItem">Kids Say The Darndest Things!</a>
     </td>
    </tr>
 
    <tr>
     <td class="moduleitem">
-      <a href="/content/item/104363.html" class="moduleItem">Morons In French Security End Hiding Explosives in Luggage</a>
+      <a href="/content/item/107508.html" class="moduleItem">Arkansas Deputies Storm Wrong Home, Cop's Home</a>
     </td>
    </tr>
 
    <tr>
     <td class="moduleitem">
-      <a href="/content/item/104238.html" class="moduleItem">Strange Survey - Are You Normal?</a>
+      <a href="/content/item/107512.html" class="moduleItem">May 13 - Famous Births and Deaths</a>
     </td>
    </tr>
 
@@ -170,13 +191,13 @@ width=180 height=150 border=1></a></noscript>
 
    <tr>
     <td class="moduleitem">
-      <a href="/content/category/1_1.html" class="moduleItem">* MEN - Macho &amp; Otherwise</a>
+      <a href="/content/category/9_1.html" class="moduleItem">* COOL - Airplanes - Unique - Strange - Neat Stuff</a>
     </td>
    </tr>
 
    <tr>
     <td class="moduleitem">
-      <a href="/content/category/5_1.html" class="moduleItem">* PETS - Animals - Dogs - Cats - Cute &amp; Ugly!</a>
+      <a href="/content/category/14_1.html" class="moduleItem">OFFICE - Co-Workers - Computers - Bosses</a>
     </td>
    </tr>
 
@@ -188,13 +209,13 @@ width=180 height=150 border=1></a></noscript>
 
    <tr>
     <td class="moduleitem">
-      <a href="/content/category/3_1.html" class="moduleItem">* SPORTS  Related Pixs and Events</a>
+      <a href="/content/category/31_1.html" class="moduleItem">* STRANGE PEOPLE - Scary &amp; Just Plain Dumb!</a>
     </td>
    </tr>
 
    <tr>
     <td class="moduleitem">
-      <a href="/content/category/72_1.html" class="moduleItem">*A - DEMOCRAT  PREZ CANDIDATE SEN. JOHN KERRY - TERESA</a>
+      <a href="/content/category/36_1.html" class="moduleItem">* MILITARY - 9-11-01 - Funny - Patriotic - Pixs</a>
     </td>
    </tr>
 
@@ -206,52 +227,64 @@ width=180 height=150 border=1></a></noscript>
 <!-- strange survey -->
 <script language="JavaScript">
 function viewResults() {
-  window.location = "/scaction/vote?id=100073";
+  window.location = "/scaction/vote?id=100117";
 }
 </script>
-<form method="post" action="/scaction/vote">
-<input type="hidden" name="id" value="100073">
+<form method="get" action="/scaction/vote">
+<input type="hidden" name="id" value="100117">
 <table border="0" cellpadding="4" cellspacing="0" width="100%">
  <tbody><tr>
-	<td align="center" bgcolor="#3266CC" class="moduleTitle">
-	 Strange Survey
-	</td>
+  <td align="center" bgcolor="#3266CC" class="moduleTitle">
+   Strange Survey
+  </td>
  </tr>
  <tr>
-	<td class="moduleItem" align="center">
-	 WHAT DO YOU THINK ABOUT SOME HIGH SCHOOL CHOIRS NOT BEING ABLE TO SING TRADITIONAL CHRISTMAS CAROLS? 
-	</td>
+  <td class="moduleItem" align="center">
+   WHAT ARE YOUR THOUGHTS ABOUT THE PROBLEMS WITH BORDER SECURITY?
+  </td>
  </tr>
  
-		 <tr>
-			<td class="moduleItem">
-			 <input name="choice" type="radio" value="GREAT - WE CAN'T HAVE CHRIST INVOLVED WITH CHRISTMAS">&nbsp;GREAT - WE CAN'T HAVE CHRIST INVOLVED WITH CHRISTMAS
-			</td>
-		 </tr>
+     <tr>
+      <td class="moduleItem">
+       <input name="choice" type="radio" value="I DON'T WORRY ABOUT IT AT ALL">&nbsp;I DON'T WORRY ABOUT IT AT ALL
+      </td>
+     </tr>
 
-		 <tr>
-			<td class="moduleItem">
-			 <input name="choice" type="radio" value="IT DOESN'T MATTER ONE WAY OR THE OTHER">&nbsp;IT DOESN'T MATTER ONE WAY OR THE OTHER
-			</td>
-		 </tr>
+     <tr>
+      <td class="moduleItem">
+       <input name="choice" type="radio" value="IT'S A SERIOUS PROBLEM - BEEF UP THE BORDER PATROL NOW!">&nbsp;IT'S A SERIOUS PROBLEM - BEEF UP THE BORDER PATROL NOW!
+      </td>
+     </tr>
 
-		 <tr>
-			<td class="moduleItem">
-			 <input name="choice" type="radio" value="IT'S OKAY - I CERTAINLY WOULDN'T WANT TO OFFEND ANYONE">&nbsp;IT'S OKAY - I CERTAINLY WOULDN'T WANT TO OFFEND ANYONE
-			</td>
-		 </tr>
+     <tr>
+      <td class="moduleItem">
+       <input name="choice" type="radio" value="IT'S NO BIG DEAL - IT'S ALWAYS BEEN A PROBLEM">&nbsp;IT'S NO BIG DEAL - IT'S ALWAYS BEEN A PROBLEM
+      </td>
+     </tr>
 
-		 <tr>
-			<td class="moduleItem">
-			 <input name="choice" type="radio" value="IT'S STUPID - TIS THE REASON FOR THE SEASON!">&nbsp;IT'S STUPID - TIS THE REASON FOR THE SEASON!
-			</td>
-		 </tr>
+     <tr>
+      <td class="moduleItem">
+       <input name="choice" type="radio" value="IT'S WORSE THAN PEOPLE THINK - TERRORISTS CAN JUST WALK IN">&nbsp;IT'S WORSE THAN PEOPLE THINK - TERRORISTS CAN JUST WALK IN
+      </td>
+     </tr>
 
-		 <tr>
-			<td class="moduleItem">
-			 <input name="choice" type="radio" value="SCHOOL BOARDS ARE BECOMING PC MORONS">&nbsp;SCHOOL BOARDS ARE BECOMING PC MORONS
-			</td>
-		 </tr>
+     <tr>
+      <td class="moduleItem">
+       <input name="choice" type="radio" value="THE BUSH ADMINISTRATION IS WORKING ON IT ">&nbsp;THE BUSH ADMINISTRATION IS WORKING ON IT 
+      </td>
+     </tr>
+
+     <tr>
+      <td class="moduleItem">
+       <input name="choice" type="radio" value="THE CANADIAN BORDER IS JUST AS BAD AS THE MEXICAN BORDER">&nbsp;THE CANADIAN BORDER IS JUST AS BAD AS THE MEXICAN BORDER
+      </td>
+     </tr>
+
+     <tr>
+      <td class="moduleItem">
+       <input name="choice" type="radio" value="WE SHOULD HAVE MORE CITIZEN VOLUNTEERS HELPING OUT">&nbsp;WE SHOULD HAVE MORE CITIZEN VOLUNTEERS HELPING OUT
+      </td>
+     </tr>
 
  <tr>
   <td align="center"><input type="submit" value="Vote!">&nbsp;<input type="button" value="View Results" onclick="viewResults();"></td>
@@ -261,14 +294,14 @@ function viewResults() {
  </tr>
 </tbody></table>
 </form>
-    
+
     <!--
     <br/> -->
     <!-- spread firefox -->
     <!--
     <a href="http://www.spreadfirefox.com/?q=affiliates&amp;id=7580&amp;t=59"><img width="180" height="60" border="0" alt="Get Firefox!" title="Get Firefox!" src="http://www.spreadfirefox.com/community/images/affiliates/Buttons/180x60/safer.gif"/></a>
     -->
-    
+
   </td>
   <td width="60%" valign="top">
   <!-- end header -->
@@ -353,35 +386,20 @@ function viewResults() {
   <br><br>
 
   <div align="center">
-<div align="center" width="300" height="250">
+  <div align="center" width="300" height="250">
+
 <!-- FASTCLICK.COM 300x250 MEDIUM RECTANGLE CODE for strangecosmos.com -->
 <script language="javascript" src="http://media.fastclick.net/w/get.media?sid=6708&amp;m=6&amp;tp=8&amp;d=j&amp;t=n"></script>
 <noscript><a href="http://media.fastclick.net/w/click.here?sid=6708&m=6&c=1" target="_blank">
 <img src="http://media.fastclick.net/w/get.media?sid=6708&m=6&tp=8&d=s&c=1"
 width=300 height=250 border=1></a></noscript>
-<!-- FASTCLICK.COM 300x250 MEDIUM RECTANGLE CODE for strangecosmos.com -->
-</div></div>
+<!-- FASTCLICK.COM 300x250 MEDIUM RECTANGLE CODE for strangecosmos.com --></div>
+
+  </div>
 
 <!--begin footer -->
   </div></div></td>
   <td width="20%" align="center" valign="top">
-
-  <!-- myway search -->
-  <div align="center" style="width:120px;">
-<script>
-		fiSearchFormMaxObj=new Object();
-		fiSearchFormMaxObj.type=1;
-		fiSearchFormMaxObj.clrBdr='#808080';
-		fiSearchFormMaxObj.clrBg='#FFFFFF';
-		fiSearchFormMaxObj.clrTtlTxt='#000000';
-		fiSearchFormMaxObj.clrTagTxt='#000000';
-		fiSearchFormMaxObj.width='120';
-		fiSearchFormMaxObj.noBorder=true;
-</script>
-<script>fiSearchFormMaxSetId='AX006452';</script>
-<script src="http://bfc.myway.com/search/fiSearchMax.js"></script>
-</div>
-  <br>
 
   <!-- strange family -->
   
@@ -393,8 +411,11 @@ width=300 height=250 border=1></a></noscript>
  </tr>
    <tr>
     <td>
-     
+
     <ul>
+     <li class="moduleItem">
+      <a href="http://www.strangepersons.com" class="moduleItem">StrangePersons.com</a>
+    </li>
      <li class="moduleItem">
       <a href="http://www.strangedangers.com" class="moduleItem">StrangeDangers.com</a>
     </li>
@@ -420,7 +441,7 @@ width=300 height=250 border=1></a></noscript>
       <a href="http://www.strangecosmos.com" class="moduleItem">StrangeCosmos.com</a>
     </li>
     </ul>
-    
+
     </td>
    </tr>
 </tbody></table>
@@ -429,10 +450,10 @@ width=300 height=250 border=1></a></noscript>
 
   <!-- text links -->
   
-<div align="center" class="newstitleyellowcentury" style="width:160px;">
-<a href="http://www.strangedangers.com/" class="newstitleyellowcentury">What Do You Fear Most?
-StrangeDangers.com
-Disasters - Bad Weather</a>
+<div align="center" class="newstitleyellowgeorgia" style="width:160px;">
+<a href="http://www.strangepersons.com/" class="newstitleyellowgeorgia">JUST BORN!
+StrangePersons.com
+Bizarre - Crazy - Wild!</a>
 </div>
   <br>
 
@@ -450,6 +471,7 @@ width=160 height=600 border=1></a></noscript>
   <br><br>
   <div style="width:160px;">
   <script language="JavaScript" src="/scaction/static/rad.js"></script><a href="https://web.archive.org/web/20041010051857/http://www.tkqlhce.com/click-1290383-10356755"><img src="https://web.archive.org/web/20041010051857/http://www.lduhtrp.net/image-1290383-10356755" border="0"></a>
+  
    &nbsp;
    </div>
   </td>
@@ -465,31 +487,37 @@ width=160 height=600 border=1></a></noscript>
 
 <table border="0" cellpadding="4" cellspacing="4" align="center" width="60%">
  <tbody><tr>
-  <td align="center" width="25%">
+  <td align="center" width="20%">
    <a href="http://www.strangecosmos.com" class="link">StrangeCosmos.com</a>
   </td>
-  <td align="center" width="25%">
+  <td align="center" width="20%">
    <a href="http://www.strangevehicles.com" class="link">StrangeVehicles.com</a>
   </td>
-  <td align="center" width="25%">
+  <td align="center" width="20%">
    <a href="http://www.strangezoo.com" class="link">StrangeZoo.com</a>
   </td>
-  <td align="center" width="25%">
+  <td align="center" width="20%">
    <a href="http://www.strangepolitics.com" class="link">StrangePolitics.com</a>
+  </td>
+  <td align="center" width="20%">
+   <a href="http://www.strangepersons.com" class="link">StrangePersons.com</a>
   </td>
  </tr>
  <tr>
-  <td align="center" width="25%">
+  <td align="center" width="20%">
    <a href="http://www.strangesports.com" class="link">StrangeSports.com</a>
   </td>
-  <td align="center" width="25%">
+  <td align="center" width="20%">
     <a href="http://www.strangecelebrities.com" class="link">StrangeCelebrities.com</a>
   </td>
-  <td align="center" width="25%">
+  <td align="center" width="20%">
    <a href="http://www.strangemilitary.com" class="link">StrangeMilitary.com</a>
   </td>
-  <td align="center" width="25%">
+  <td align="center" width="20%">
    <a href="http://www.strangedangers.com" class="link">StrangeDangers.com</a>
+  </td>
+  <td align="center" width="20%">
+   &nbsp;
   </td>
  </tr>
 </tbody></table>
@@ -524,6 +552,9 @@ dc.write('<scr'+'ipt language="javascript" src="http://media.fastclick.net');
 dc.write('/w/get.media?sid=6708&tm=12&m=4&c='+mjo+'"></scr'+'ipt>');}} // -->
 </script>
 <!-- FASTCLICK.COM InVue CODE v1.1 for strangecosmos.com -->
+
+<script language="javascript" src="/include/awstats_misc_tracker.js"></script><img src="/include/awstats_misc_tracker.js?screen=800x600&amp;win=1366x3154&amp;cdi=24&amp;java=false&amp;shk=n&amp;fla=n&amp;rp=n&amp;mov=n&amp;wma=n&amp;pdf=n&amp;uid=awsuser_id1580364489009r8190&amp;sid=awssession_id1580364489009r8190" height="0" width="0" border="0">
+<noscript><img src="/include/awstats_misc_tracker.js?nojs=y" height=0 width=0 border=0 style="display: none"></noscript>
 
 
 
