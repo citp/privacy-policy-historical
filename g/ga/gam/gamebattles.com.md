@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamebattles.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207005206id_/http%3A//corp.gamebattles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamebattles.com privacy policy that was archived on 2005-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050520083418id_/http%3A//corp.gamebattles.com/privacy.php) for the most accurate reproduction.*
 
-# = GameBattles.com =
+# GameBattles.com
 
 **Our Approach to Privacy.** GameBattles respects your privacy. Our staff, contractors and others who help us operate our web sites follow this policy on privacy and fair information practices for online activities of GameBattles, Inc.
 
@@ -20,7 +20,7 @@ Please keep in mind that whenever you voluntarily disclose personal information 
 
 **Changes to this Policy**
 
-This Privacy Policy will always be available to users on this page for you to read. We will update this privacy and fair information practices policy to reflect new features, services and options, as well as any other changes with regard to the use of personal information. Users will be notified by a notice on the GameBattles Site of any sGameBattlesificant update to our Privacy Policy. By registering as a member of an GameBattles Site, you agree to accept this Privacy Policy and are aware that our policy may change over time. Continued use of the GameBattles Sites or other GameBattles services will sGameBattlesify that you agree to these changes. 
+This Privacy Policy will always be available to users on this page for you to read. We will update this privacy and fair information practices policy to reflect new features, services and options, as well as any other changes with regard to the use of personal information. Users will be notified by a notice on the GameBattles Site of any significant update to our Privacy Policy. By registering as a member of an GameBattles Site, you agree to accept this Privacy Policy and are aware that our policy may change over time. Continued use of the GameBattles Sites or other GameBattles services will signify that you agree to these changes. 
 
 **About Children**
 
