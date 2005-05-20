@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xfire.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210024016id_/http%3A//www.xfire.com/xf/modules.php%3Fname%3DXFire%26file%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xfire.com privacy policy that was archived on 2005-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050520050654id_/http%3A//www.xfire.com/xf/modules.php%3Fname%3DXFire%26file%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Xfire - gaming simplified
 
