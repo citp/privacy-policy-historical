@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the travelzoo.com privacy policy that was archived on 2004-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041218030008id_/http%3A//www.travelzoo.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelzoo.com privacy policy that was archived on 2005-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050520045727id_/http%3A//www.travelzoo.com/Privacy.htm) for the most accurate reproduction.*
 
 # Travelzoo - Privacy Statement
 
-Since 1998, Travelzoo Inc. has been a member of the TRUSTe program. This statement discloses the privacy practices of Travelzoo Inc. ("Travelzoo"). The statement is effective as of March 10, 2004 and applies to Travelzoo’s Web sites (including [www.travelzoo.com](http://www.travelzoo.com/) ), e-mail products and e-mail newsletters (collectively referred to as "Media Products") . 
+Since 1998, Travelzoo Inc. has been a member of the TRUSTe program. This statement discloses the privacy practices of Travelzoo Inc. ("Travelzoo"). The statement is effective as of March 10, 2004 and applies to Travelzoo’s Web sites (including [www.travelzoo.com](http://www.travelzoo.com/)), e-mail products and e-mail newsletters (collectively referred to as "Media Products") . 
 
 ### TRUSTe Certified
 
-[](http://www.truste.org/ivalidate.php?url=www.travelzoo.com&sealid=101)TRUSTe is an independent, non-profit initiative whose mission is to build users' trust and confidence in the Internet by promoting TRUSTe's principles of fair information practices. Because this site wants to demonstrate its commitment to respecting your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. When you visit a Web site displaying the TRUSTe mark, you can expect to be notified of: 
+[ ](http://www.truste.org/ivalidate.php?url=www.travelzoo.com&sealid=101)TRUSTe is an independent, non-profit initiative whose mission is to build users' trust and confidence in the Internet by promoting TRUSTe's principles of fair information practices. Because this site wants to demonstrate its commitment to respecting your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. When you visit a Web site displaying the TRUSTe mark, you can expect to be notified of: 
 
   1. What personally identifiable information is collected 
   2. How the information is used 
@@ -14,7 +14,7 @@ Since 1998, Travelzoo Inc. has been a member of the TRUSTe program. This stateme
 
 
 
-Questions regarding this statement should be directed to the Travelzoo [ site coordinator](http://www.travelzoo.com/help/Suggestions.htm). If the Web site has not responded to your inquiry within seven days or your inquiry has not been satisfactorily addressed, contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php) ([www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php)).
+Questions regarding this statement should be directed to the Travelzoo [ site coordinator](http://www.travelzoo.com/help/Suggestions.asp?s=p). If the Web site has not responded to your inquiry within seven days or your inquiry has not been satisfactorily addressed, contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php) ([www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php)).
 
 ### Travelzoo's Privacy Practices 
 
