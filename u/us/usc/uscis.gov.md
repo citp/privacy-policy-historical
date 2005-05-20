@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the uscis.gov privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204170858id_/http%3A//uscis.gov/graphics/privnote.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscis.gov privacy policy that was archived on 2005-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050521003250id_/http%3A//uscis.gov/graphics/privnote.htm) for the most accurate reproduction.*
 
-# Privacy, Security, and General Notice
+# USCIS: Privacy and Legal Disclaimers
+
+  
+| 
 
 Thank you for visiting our Website and reviewing our privacy and security notice and legal disclaimers. We remind you that if you link to a site outside of the Department of Homeland Security, you are subject to the policies of the new site.
+
+[USCIS Web Publication Schedule](https://web.archive.org/graphics/aboutus/inventory.htm)
 
 **Privacy**
 
