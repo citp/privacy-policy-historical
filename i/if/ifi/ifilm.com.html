@@ -1,16 +1,171 @@
-<!--The following is the downloaded HTML source of the ifilm.com privacy policy that was archived on 2004-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040606030557id_/http%3A//www.ifilm.com/about/privacy_policy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ifilm.com privacy policy that was archived on 2005-05-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050520073622id_/http%3A//www.ifilm.com/about/privacy_policy.jsp) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+ <link rel="alternate" type="application/rss+xml" title="IFILM NOW" href="http://www.ifilm.com/ifilmrss.xml">
+
+
+
 	
 
 
 <title>IFILM
 
+	
+	
+	
+	
  		
+ 			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+ 			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
 				- About
 			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
  	
+ 	
+	
+	
+			
+	
+	
+			
+	
+	
+			
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+ 	
+	
+	
+ 
 	</title>
 
 	
@@ -21,9 +176,7 @@
 	 
 	<link rel="shortcut icon" href="/favicon.ico">
 
-	
-
-<link rel="stylesheet" href="/global.css?color1=034BB7&amp;color2=104088&amp;shade1=FFFFEF&amp;shade2=DCE6F5&amp;shadetop=023480&amp;level1=home&amp;cch=&amp;margin=" type="text/css"> 
+	<link rel="stylesheet" href="/global.css?color1=034BB7&amp;color2=104088&amp;shade1=FFFFEF&amp;shade2=DCE6F5&amp;shadetop=023480&amp;level1=home&amp;sctn=about&amp;cch=&amp;margin=" type="text/css"> 
 
 	
 		
@@ -35,7 +188,7 @@ Ads_debug=0;
 <script type="text/javascript" language="javascript" src="http://a.as-us.falkag.net/dat/dlv/aslsubs111.js"></script>
 		
 	
-	 <script language="JavaScript" src="/global.js"></script>
+	<script language="JavaScript" src="/global.js"></script>
 	
 	
 		<script language="JavaScript">window.name = "IFILMMain";</script>
@@ -44,8 +197,11 @@ Ads_debug=0;
 </head>
 
 
+	
 		<body border="0" leftmargin="5" marginwidth="5" topmargin="-1" marginheight="-1">
 	
+	
+
 
 <div id="divDescription" class="clDescriptionCont">
 <!--Empty div-->
@@ -54,6 +210,7 @@ Ads_debug=0;
 <!--Empty div-->
 </div>
 
+	
 		<script language="javascript"><!--
 Ads_kid=0;Ads_bid=0;Ads_xl=1;Ads_yl=1;Ads_xp='';Ads_yp='';Ads_opt=0;Ads_wrd='';Ads_prf='';Ads_par='';Ads_cnturl='';Ads_sec=0;
 // --></script>
@@ -82,6 +239,8 @@ if (typeof geolocation3 == "undefined") {
 }
 </script>		
 		
+		
+	
 
 
 
@@ -95,11 +254,15 @@ if (getIFILMChip("ifilm_session","r1") == null || getIFILMChip("ifilm_session","
 
 <script language="JavaScript">
 <!--
+var sitepage = true;
 if (getIFILMChip("ifilm_session","r1") == null || getIFILMChip("ifilm_session","r1") != "") {
 	if (is_win && is_ie) {
-		document.write('<object id="RealPlayer" classid="CLSID:CFCDAA03-8BE4-11CF-B84B-0020AFBBCCFA" width="1" height="1"></object>');
+		document.write('<object id="RealPlayer" classid="CLSID:CFCDAA03-8BE4-11CF-B84B-0020AFBBCCFA" width="0" height="0"></object>');
+	} else if (is_mac && is_safari) {
+		// audio/x-pn-realaudio-plugin causes error window on safari - do not include
+	}
 	} else {
-		document.write('<embed name="RealPlayer" type="audio/x-pn-realaudio-plugin" width="1" height="1" controls="ImageWindow" console="one" nolabels="true" nologo="true">');
+		document.write('<embed name="RealPlayer" type="audio/x-pn-realaudio-plugin" width="0" height="0" controls="ImageWindow" console="one" nolabels="true" nologo="true">');
 	}
 }	
 //-->
@@ -114,12 +277,14 @@ if(pageClass == null) {
 	setIFILMChip("ifilm_session","pageClass",pgClass,"","/");
 } else {
 	var newClass = parseInt (pageClass) + 1;
-	if (newClass > 9) {
+	if (newClass > 9) 
+    {
 		newClass = 0;
 	}
 	setIFILMChip("ifilm_session","pageClass",newClass,"","/");
 	//document.write (newClass+" increment");
 	pgClass = newClass;
+    
 }
 	// Set adSessionId for Ad Targeting
 var adSessionId = getIFILMChip("ifilm_session","ifilm_big_ad");
@@ -129,6 +294,10 @@ if (adSessionId == "yes" || adSessionId == null) {
 </script>
 
  <script type="text/javascript" language="JavaScript" src="/ad.js"></script>
+
+
+
+
 <!-- div functions -->
 
 <script language="JavaScript" src="/global/includes/js/div_utilities.js"></script>
@@ -192,18 +361,37 @@ window.onload = init;
 
 
 
+ 
 
 	
 
 
 
 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 		
 	
 
 
 
-<table bgcolor="#034BB7" width="740" cellpadding="0" cellspacing="0" border="0">
+
+<table bgcolor="#023480" width="740" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
 	<td width="740">
 	
@@ -211,7 +399,7 @@ window.onload = init;
 <script language="JavaScript">
 	function validate()
 	{
-		if (document.nsForm.query.value == "" || document.nsForm.query.value.length < 1) { alert("Please enter a keyword."); return false; }
+		if (document.nsForm.search.value == "" || document.nsForm.search.value.length < 1) { alert("Please enter a keyword."); return false; }
 		return true;
 	}
 
@@ -222,25 +410,14 @@ window.onload = init;
 	function focusQuery()  { document.nsForm.query.focus(); }
 </script>
 
-<script language="JavaScript" src="/global/jscriptfuncs.js"></script>
+<script language="JavaScript" src="/global/jscriptfuncs.js;jsessionid=afykChF7dKa_"></script>
 
 	<table width="740" cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr>
-		<td width="5" class="shadetop"></td>
-		<td width="500" height="16" class="shadetop">
-		<a href="http://vgn.ifilm.com/ifilm/filmmaker/login/1,4061,,00.html">Send In Film/Video</a> |
-		<a href="javascript:launchPref();">Video Preferences</a> |
-		<a href="http://www.ifilm.com/newsletter/signup">Get Newsletter</a>	
-		
-		</td>
-		<td width="230" align="right" class="shadetop">
-			<a href="http://www.ifilm.com/ii_install">Activate Instant IFILM</a> | 
-			<a href="http://www.ifilm.com/help/">Help</a>
-		</td>
-		<td width="5" class="shadetop"></td>
+		<td width="740" height="3" class="shadetop"></td>
 	</tr>
 	</tbody></table>
-	<table width="740" cellpadding="0" cellspacing="0" border="0">
+	<table class="shadetop" width="740" cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr>
 		<form method="POST" name="nsForm" onsubmit="return setSearchAction();"></form>
 		<input type="hidden" name="function" value="search">
@@ -248,98 +425,153 @@ window.onload = init;
 		<td width="6"></td>
 		<td width="140" class="searchifilm">
 		Search IFILM.com<br>
-		<input class="formfield" size="8" style="WIDTH: 70px;" name="search" maxlength="30" type="text" value="" onfocus="this.select()"> <input class="formbtn" type="submit" value="Search">
+		<input class="formfield" size="8" style="WIDTH: 100px;" name="search" maxlength="30" type="text" value="" onfocus="this.select()"> <input class="formbtn" type="submit" value="Go">
 		</td>
 		
-		<td width="382"><a href="/"><img src="http://dyn.ifilm.com/image/i/2/logo/ifilm_logo_10.gif" width="382" height="51" alt="IFILM.com" border="0"></a></td>
-		<form name="frmShowtimesHome" method="GET" action="http://vgn.ifilm.com/ifilm/showtimes/show_update/1,5001,,00.html" onsubmit="return frmShowtimesHomeSubmit();" style="margins: 0px; padding: 0px"></form>
-		<input type="Hidden" name="fid" value="">
-		<input type="Hidden" name="nShowtimeTracking" value="">
+		<td width="382">
+		<a href="/"><img src="http://dyn.ifilm.com/image/i/2/logo/ifilm_logo_10.gif" width="382" height="51" alt="IFILM.com" border="0"></a></td>
 		<td width="203" class="searchifilm" align="right">
-		Get Showtimes<br>
-		<script language="javascript">
+			
 
-		document.write('<input class=formfield size="10" style="WIDTH: 70px;" name="txtZip" maxlength="10" type="text"');
-		if (is_mac || is_moz || is_gecko) {
-		document.write(' value=" Enter Zip" ');
-		} else {
-		document.write(' value=" Enter Zip" ');
-		}
-		document.write('onfocus="this.select()"/>'); 
 
-		</script><input class="formfield" size="10" style="WIDTH: 70px;" name="txtZip" maxlength="10" type="text" <input="" value="Go">
+
+<form name="zipCodeForm" method="post" action="/control/showtimes/findtheatresbyzip;jsessionid=afykChF7dKa_" id="zipCodeForm">
+<input type="hidden" name="ifilmId" value="">
+<span class="searchifilm">Get Showtimes</span><br>
+<input type="text" name="zipCode" maxlength="25" size="10" value=" Enter Zip" onfocus="this.select();" class="formfield">
+<input type="submit" value="Go" class="formbtn">		
+</form>
+
 		</td>
 		
-		<td width="5"></td>
+		
+		<td width="5">
+		</td>
+
+		
 		
 	</tr>
-	</tbody></table>
+	</tbody></table> 
 	
-		
+
+<map name="globalNav">
+	<area shape="rect" coords="4,2,62,22" href="http://www.ifilm.com/viralvideo">
+	<area shape="rect" coords="64,2,124,24" href="http://www.ifilm.com/movies">
+	<area shape="rect" coords="126,2,186,24" href="http://www.ifilm.com/actionsports">
+	<area shape="rect" coords="186,2,272,24" href="http://www.ifilm.com/uncensored">
+	<area shape="rect" coords="274,2,334,24" href="http://www.ifilm.com/musicvideos">
+	<area shape="rect" coords="336,2,394,24" href="http://www.ifilm.com/shorts">
+	<area shape="rect" coords="394,2,450,24" href="http://www.ifilm.com/videogames">
+	<area shape="rect" coords="452,2,510,24" href="http://www.ifilm.com/top100">
+	<area shape="rect" coords="512,2,602,24" href="http://www.ifilm.com/collections">
+	<area shape="rect" coords="604,2,670,24" href="http://www.ifilm.com/instantifilm">
+	<area shape="rect" coords="672,2,736,24" href="http://vgn.ifilm.com/ifilm/filmmaker/login/1,4061,,00.html">
+</map>
+<div class="itemspace"></div>
+<img src="http://dyn.ifilm.com/image/i/2/nav/nav_specialfeatures.gif" width="740" height="25" alt="IFILM Nav" border="0" usemap="#globalNav"><br>
+
+	
+	
+	
 
 <!-- top ad row -->
 
 
 <table width="740" cellpadding="0" cellspacing="0" border="0">
 	
-		<tbody><tr>
+		
+		
+		
+		<tbody><tr bgcolor="023480">
 			<td align="center">
 			<div class="textpad">
+				
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
 				
 
 
 	
-			<!-- ifilm.com / 728x90 Superbanner (Generic) -->
-			<script language="JavaScript" type="text/javascript">
-			Ads_kid=0;Ads_bid=0;Ads_xl=0;Ads_yl=0;Ads_xp='';Ads_yp='';Ads_opt=0;Ads_wrd='';Ads_prf='cch=;pg=;filmid=;collid=;cr=;tabtype=;level1=redirect;level2=confirm_mature;level3=;refsite=;pgclass=' + top.pgClass + ';adSessionId=' + top.adSessionId + ';';Ads_par='';Ads_cnturl='';Ads_sec=0;Ads_channels='generic';
-			</script>
-			<script type="text/javascript" language="javascript" src="http://a.as-us.falkag.net/dat/cjf/00/02/26/68.js"></script>
+		
+		
+		
 			
-	
+				
+		
+		
+				
+		
+			<!-- ifilm.com / 728x90 Superbanner (Special Features) -->
+			<script language="JavaScript" type="text/javascript">
+			Ads_kid=0;Ads_bid=0;Ads_xl=0;Ads_yl=0;Ads_xp='';Ads_yp='';Ads_opt=0;Ads_wrd='';Ads_prf='cch=;pg=privacy_policy;filmid=;collid=;cr=;tabtype=;genre=;genre2=;level1=home;level2=index;level3=;refsite=;pgclass=' + top.pgClass + ';adsessionid=' + top.adSessionId + ';';Ads_par='';Ads_cnturl='';Ads_sec=0;Ads_channels='specialfeatures';
+			</script>
+			<script type="text/javascript" language="javascript" src="http://a.as-us.falkag.net/dat/cjf/00/02/26/81.js"></script>
+				
+		
+		
 
 
 			</div></td> 
 		</tr>
 		
+	
 	</tbody></table>	
-		
+	
 	
 
-<table width="740" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-	<td width="740">
-	<map name="mainNav">
-		<area shape="rect" coords="6,6,67,31" href="http://www.ifilm.com/">
-		<area shape="rect" coords="73,3,141,30" href="http://www.ifilm.com/movies">
-		<area shape="rect" coords="145,3,201,30" href="http://www.ifilm.com/shorts">
-		<area shape="rect" coords="205,3,275,30" href="http://www.ifilm.com/top100">
-		<area shape="rect" coords="279,3,336,30" href="http://www.ifilm.com/viralvideo">
-		<area shape="rect" coords="340,3,445,30" href="http://www.ifilm.com/uncensored">
-		<area shape="rect" coords="449,3,514,30" href="http://www.ifilm.com/musicvideos">
-		<area shape="rect" coords="518,3,585,30" href="http://www.ifilm.com/videogames">
-		<area shape="rect" coords="589,3,645,30" href="http://www.ifilm.com/ifilmplus">
-		<area shape="rect" coords="649,3,732,30" href="http://www.ifilm.com/specialfeatures">
-	</map>
-	<img src="http://dyn.ifilm.com/image/i/2/global/nav.gif" width="740" height="34" alt="IFILM Navigation" border="0" usemap="#mainNav"></td>
-</tr>
-</tbody></table> 
+<iframe id="submitClodForm" class="clod" name="submitClodForm" width="100%" height="26" src="/global/topbar/clod/subscribe.jsp" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0"></iframe>
+
+	
 	</td>
 </tr>
 </tbody></table>
 
 
 
-		
-		<div class="modspace"></div>
-	 
-
 	
+	
+	
+	
+	
+	
+	
+		
+		
+		
+			<div class="modspace"></div>
+		
+	
+ 
 
 
 <div class="pagearea"> 
  
 
 
+	
+		
+			
+		
+	
+		
+			
+			
+	
+	
+	
+	
+	
+	
+	
 		
 			
 	
@@ -568,12 +800,32 @@ window.onload = init;
 		</td><td width="10">&nbsp;</td><td width="250px">
 	
 
-<script>
-if (is_mac && is_ie) { document.write('<div id="250x250_1Ad" style="position:relative; width:250px; height:1px;">'); }
-else { document.write('<div id="250x250_1Ad" style="position:relative; width:250px; height:1px; visibility:hidden; overflow:hidden;">'); }
-</script>
-	<div id="250x250_1AdImg">
-		<iframe width="250" height="250" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" src="/ads/includes/ad_frame.jsp?frameId=250x250_1AdImg&amp;divId=250x250_1Ad&amp;adText=250x250_1&amp;adWidth=250&amp;adHeight=250&amp;cch=&amp;pg=privacy_policy&amp;ifilmid=&amp;collid=&amp;level1=home&amp;level2=index&amp;level3=&amp;refsite=&amp;cntRating=&amp;tabType=&amp;channel=specialfeatures"></iframe>
+
+
+
+
+
+	
+
+
+
+	<div class="adv250x250">
+	
+		
+		
+			
+				
+		
+			
+		
+			<!-- ifilm.com / 250x250 (Special Features - top right) -->
+			<script language="JavaScript" type="text/javascript">
+			Ads_kid=0;Ads_bid=0;Ads_xl=250;Ads_yl=250;Ads_xp='';Ads_yp='';Ads_opt=0;Ads_wrd='';Ads_prf='cch=;pg=privacy_policy;filmid=;collid=;cr=;tabtype=;genre=;genre2=;level1=home;level2=index;level3=;refsite=;pgclass=' + top.pgClass + ';adsessionid=' + top.adSessionId + ';';Ads_par='';Ads_cnturl='';Ads_sec=0;Ads_channels='specialfeatures';
+			</script>
+			<script type="text/javascript" language="javascript" src="http://a.as-us.falkag.net/dat/cjf/00/02/26/82.js"></script>
+				
+		
+		
 	</div>
 		
 	<div class="modspace"></div><about_right></about_right></td></tr></tbody></table>
@@ -588,10 +840,25 @@ else { document.write('<div id="250x250_1Ad" style="position:relative; width:250
 
 
 
+
+	
+	
+	
+	
+	
+	
+	
 		
 		
 		
 	
+	
+	
+	
+	
+	
+	
+
 
 
 
@@ -602,37 +869,38 @@ else { document.write('<div id="250x250_1Ad" style="position:relative; width:250
 	<td width="740" class="footer" align="center">
 		<div class="height1">
 		
-		<a class="footer" href="http://www.ifilm.com/movies">Movies</a> |
-		<a class="footer" href="http://www.ifilm.com/shorts">Short Films</a> |
-		<a class="footer" href="http://www.ifilm.com/top100">Top 100</a> |
 		<a class="footer" href="http://www.ifilm.com/viralvideo">Viral Video</a> |
+		<a class="footer" href="http://www.ifilm.com/movies">Movies</a> |
+		<a class="footer" href="http://www.ifilm.com/actionsports">Action Sports</a> |
 		<a class="footer" href="http://www.ifilm.com/uncensored">Uncensored</a> |
 		<a class="footer" href="http://www.ifilm.com/musicvideos">Music Videos</a> |
-		<a class="footer" href="http://www.ifilm.com/videogames">Video Games</a> |
-		<a class="footer" href="http://www.ifilm.com/ifilmplus">Plus</a> |
-		<a class="footer" href="http://www.ifilm.com/specialfeatures">Special Features</a> 
-		
+		<a class="footer" href="http://www.ifilm.com/shorts">Shorts</a> |
+		<a class="footer" href="http://www.ifilm.com/videogames">Video Games</a>
 		<br>
-		<a class="footer2" href="http://www.real.com/realoneplayer.html?src=ifilm">Download the RealPlayer</a>
+		<a class="footer" href="http://www.ifilm.com/top100">Top 100</a> |
+		<a class="footer" href="http://www.ifilm.com/specialfeatures">Collections</a> |
+		<a class="footer" href="http://www.ifilm.com/instantifilm">Instant IFILM</a> |
+		<a class="footer" href="http://vgn.ifilm.com/ifilm/filmmaker/login/1,4061,,00.html">Submit Film</a> |
 		
 		<br>
 		
 		
 			<a class="footer2" href="http://www.ifilm.com/">IFILM Home</a> &nbsp;
-				
-		<a class="footer2" href="http://vgn.ifilm.com/ifilm/filmmaker/login/1,4061,,00.html">Send In Film/Video</a> &nbsp;
-		<a class="footer2" href="javascript:launchPref();">Video Preferences</a> &nbsp;
+		 &nbsp;
+		<a class="footer2" href="javascript:changePrefs('privacy_policy','default','ifilm');">Video Preferences</a> &nbsp;
+		<a class="footer2" href="http://www.ifilm.com/newsletter/signup">Get the IFILM Newsletter</a> &nbsp;
 		<a class="footer2" href="http://www.ifilm.com/help/">Help</a>
 		
 		<br>
 		
 		<a class="footer2" href="http://www.ifilm.com/about/">About IFILM</a> &nbsp;
+		<a class="footer2" href="mailto:press@ifilm.com">Press Inquiries</a> &nbsp;
 		<a class="footer2" href="http://www.ifilm.com/about/advertise.jsp">Advertise with IFILM</a> &nbsp;
 		<a class="footer2" href="http://www.ifilm.com/about/jobs.jsp">Jobs</a> &nbsp;
+		<a class="footer2" href="http://www.ifilm.com/about/news/">IFILM in the News</a> &nbsp;
 		<a class="footer2" href="http://www.ifilm.com/about/contactus.jsp">Contact Us</a> &nbsp;
 		<a class="footer2" href="http://www.ifilm.com/about/privacy_policy.jsp">Privacy Policy</a> &nbsp;
-		<a class="footer2" href="http://www.hcdonline.com/">Hollywood Creative Directory</a> 
-		 &nbsp;
+		
 		<a class="footer2" href="http://www.ifilm.com/about/terms_of_use.jsp">Terms of Service</a> 
 		<div class="modspace"></div>
 	</div></td>
@@ -641,6 +909,18 @@ else { document.write('<div id="250x250_1Ad" style="position:relative; width:250
 </div>
 
 
+	<table class="tblayout">
+	<tbody><tr>
+		<td width="740" class="footer2" align="center">
+		<div class="textpad">
+		
+		Use of this site signifies your acceptance of the <a class="footer2" href="http://www.ifilm.com/about/privacy_policy.jsp">Privacy Policy</a> and <a class="footer2" href="http://www.ifilm.com/about/terms_of_use.jsp">Terms of Use</a>.<br>
+		Copyright © 2005 IFILM Corp. All rights reserved.
+		</div>
+		</td>
+	</tr>
+	</tbody></table>
+
 
 
 
@@ -649,12 +929,24 @@ else { document.write('<div id="250x250_1Ad" style="position:relative; width:250
 
 
 	
+		
+		
+		
+			
+				
+			
+		
+			
+					
+		
 			<!-- ifilm.com / 1x1 Popup (Special Features) -->
 			<script language="JavaScript" type="text/javascript">
-			Ads_kid=0;Ads_bid=0;Ads_xl=0;Ads_yl=0;Ads_xp='';Ads_yp='';Ads_opt=0;Ads_wrd='';Ads_prf='cch=;pg=player;filmid=;collid=;cr=;tabtype=;level1=home;level2=index;level3=;refsite=;pgclass=' + top.pgClass + ';adSessionId=' + top.adSessionId + ';';Ads_par='';Ads_cnturl='';Ads_sec=0;Ads_channels='specialfeatures';
+			Ads_kid=0;Ads_bid=0;Ads_xl=0;Ads_yl=0;Ads_xp='';Ads_yp='';Ads_opt=0;Ads_wrd='';Ads_prf='cch=;pg=privacy_policy;filmid=;collid=;cr=;tabtype=;genre=;genre2=;level1=home;level2=index;level3=;refsite=;pgclass=' + top.pgClass + ';adsessionid=' + top.adSessionId + ';';Ads_par='';Ads_cnturl='';Ads_sec=0;Ads_channels='specialfeatures';
 			</script>
 			<script type="text/javascript" language="javascript" src="http://a.as-us.falkag.net/dat/cjf/00/02/27/74.js"></script>
-			
+				
+		
+	
 	
 
 
@@ -671,54 +963,99 @@ else { document.write('<div id="250x250_1Ad" style="position:relative; width:250
 
 
 
+	
+		
+		
+	
+	
+
+
+
+
 
 	
 <noscript><img src="http://wvw.ifilm.com/spacer.gif?event=28~ifilm~6~~100~generic~105~help-about" border=0 height=1 width=1></noscript>
 <script language="javascript"><!--
-tagProt = "http";
-if (document.location.protocol.indexOf('https') > -1) {  
-	tagProt = "https"; 
-}
+
+
+
+var RDRID = -1;
+tagProt = "http"; if (document.location.protocol.indexOf('https') > -1) {  tagProt = "https"; } 
+
 if (document.referrer.indexOf("/ads/asl/") == -1 && window.location.search.indexOf("htv=12") == -1) {
-	var ES = "28~ifilm~100~generic~105~help-about";
+	var ES = "28~ifilm~5~" + escape(document.title) + "~100~generic~105~help-about";
 } else { 
-	var ES = "12~" + escape(self.document.location) + "~28~ifilm~100~generic~105~help-about";
+	var ES = "12~" + escape(self.document.location) + "~5~" + escape(document.title) + "~28~ifilm~100~generic~105~help-about";
 }
-//alert("var ES = " + ES);
-var RN = 0;
+
+
+
 var e5 = document.URL.toLowerCase();
-RN=Math.floor(Math.random()*10000);
+
+var CB=""; CB=Math.floor(Math.random()*10000);CB="CBRND=" + CB + "&";
+if (document.h_xes_ao && document.h_xes_ao.x_nocb && document.h_xes_ao.x_nocb.value=="1") { CB="";}
+
 var TR = document.referrer.toLowerCase();
 DI = e5.indexOf("//");
-if (DI != -1)
+if (DI != -1 )
 {  chkDom = e5.substring (DI + 2);
    DI = chkDom.indexOf ("/");
    if (DI != -1) { chkDom = chkDom.substring(0,DI) }
    var TR = document.referrer.toLowerCase();
-   if (TR != "" && ((TR.indexOf (chkDom) == -1) || (TR.indexOf (chkDom) > 15)))
+   if (TR != "" && ((TR.indexOf (chkDom) == -1) || (TR.indexOf (chkDom)> 15)))
    {   TR = escape (TR); SI = TR.indexOf ("/");
    while (SI  >= 0)
    {  st = TR.substring (0,SI); en = TR.substring (SI+1);
       TR = st + "%2F" + en; SI = TR.indexOf ("/"); }
-   ES = "2~" + TR + "~" + ES; } }
+   ES = "2~" + TR + "~" + ES; } } 
 
-if (window.RegExp) 
-{   if (e5.match(/(http|https)\:\/\/www\./) == null)
+ES="7~" + screen.width + "x" + screen.height + "~" + ES;
+
+if (document.h_xes_ao && document.h_xes_ao.x_ao)
+{ ES = document.h_xes_ao.x_ao.value + ES;}
+
+function hsce (eID,eStr) { tStr = eStr; aC = 1;
+  while (tStr.length > 0 && tStr.indexOf ("~") >= 0) { i = tStr.indexOf("~");
+  if (i && (aC % 2)) {tEv = tStr.substring (0,i); if (tEv == eID) {return 1; } } 
+  tStr = tStr.substring (i+1); aC++; } return 0; }
+
+if (! hsce ("5",ES))
+{ if (! hsce ("53",ES))
+{  DI = e5.indexOf("//");
+   EU = e5.substring (DI+2);
+   DI = EU.indexOf("/");
+   if (DI == -1) { EU = "Home"; }
+   else { EU = EU.substring (DI+1);
+   DI = EU.indexOf ("?");
+   if (DI != -1) { EU=EU.substring (0,DI); } }
+   if ( EU == "" ) { EU = "Home"; }
+   ES = "53~" + escape(EU) + "~" + ES; }
+if (window.RegExp) {   if (e5.match(/(http|https)\:\/\/www\./) == null)
    { e5 = e5.replace (/(http|https)\:\/\//,"$1://www."); }
    if (e5.match (/(http|https)\:\/\/.*\/.*/) == null)
    { e5 = e5 + "/"; } } 
-else 
-{   if (e5.indexOf("http://www.") == -1)
+else {   if (e5.indexOf("http://www.") == -1)
    {   e5 = "http://www." + e5.substring(7);  }
    if (e5.indexOf("/",8) == -1)
    {   e5 = e5 + "/";  } }
-ES = "5~" + escape (e5) + "~" + ES;
-ES="7~" + screen.width + "x" + screen.height + "~" + ES;
-if (document.h_xes_ao && document.h_xes_ao.x_ao)
-{ ES = document.h_xes_ao.x_ao.value + ES;}
-if (ES != "") {  ES = "&event=" + ES; }
-document.write ("<img name='hs_pix_es' src='" + tagProt + "://wvw.ifilm.com/spacer.gif?random=" + RN + ES + "' border=0 height=1 width=1>");
-//--></script><img name="hs_pix_es" src="https://wvw.ifilm.com/spacer.gif?random=7915&amp;event=7~800x600~5~https%3A//www.web.archive.org/web/20040606030557id_/http%253a//www.ifilm.com/about/privacy_policy.jsp~28~ifilm~100~generic~105~help-about" border="0" height="1" width="1">
+   DI = e5.indexOf ("?");
+   if (DI != -1) { e5=e5.substring (0,DI);}
+ES= ES + "5~" + escape (e5) + "~"; }
+
+if (ES != "" && RDRID == -1)
+{  ES = "spacer.gif?" + CB + "event=" + ES; }
+else if (ES != "" && RDRID != -1)
+{  ES = RDRID + ".rdr?" + ES }
+
+document.write ("<img name='hs_pix_es' src='" + tagProt + "://wvw.ifilm.com/" + ES + "' border=0 height=1 width=1>");
+//alert ("Main tag: <img name='hs_pix_es' src='" + tagProt + "://wvw.ifilm.com/" + ES + "' border=0 height=1 width=1>"); 
+//alert(" - r-frame param");
+//--></script><img name="hs_pix_es" src="https://wvw.ifilm.com/spacer.gif?CBRND=2333&amp;event=7~800x600~28~ifilm~5~IFILM%20-%20About~100~generic~105~help-about" border="0" height="1" width="1">
+
+
+	<div id="harvestSiteTracking" style="visibility:hidden">
+	<iframe id="harvestRealFrame" name="harvestRealFrame" scrolling="no" width="1" height="1" frameborder="0"></iframe> 
+	</div>
 
 
 
@@ -726,8 +1063,6 @@ document.write ("<img name='hs_pix_es' src='" + tagProt + "://wvw.ifilm.com/spac
 
 
 
-
-
-<!-- end display content -->
+ 
 
 </div></body></html>
