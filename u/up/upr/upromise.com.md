@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upromise.com privacy policy that was archived on 2004-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040804182023id_/http%3A//www.upromise.com/corp/privacy.html%3Fcx%3Df) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upromise.com privacy policy that was archived on 2005-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050522001637id_/http%3A//www.upromise.com/corp/privacy.html) for the most accurate reproduction.*
 
 # Upromise - Privacy Statement and Principles
 
@@ -104,7 +104,7 @@ If there is a change of control in Upromise's business (whether by merger, sale,
 **What is TRUSTe and why is it so important?**  
 Upromise is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. TRUSTe has agreed to review the practices of [www.upromise.com](http://www.upromise.com/) because this website wants to demonstrate its commitment to your privacy. Please note that the TRUSTe program does not cover the privacy practices of Upromise, Inc. affiliates. Please also note that the TRUSTe program covers only information that is collected through this website, and does not cover information that may be collected through software downloaded from the site. 
 
-If you have questions or concerns regarding this statement, you should first contact Upromise (see below). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then [contact TRUSTe](http://www.truste.org/users/users_watchdog.html). TRUSTe will then serve as a liaison with Upromise to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact Upromise (see below). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then [contact TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with Upromise to resolve your concerns. 
 
 **How do I contact Upromise about this Privacy Statement?**  
 If you have any questions about this privacy statement, our information-handling practices, or other aspects of privacy at Upromise, please [contact us](https://web.archive.org/nspage?su=8105) by email or at Upromise, Inc., Customer Care - Privacy Policy Issues, 117 Kendrick Street, Needham, MA 02494. 
