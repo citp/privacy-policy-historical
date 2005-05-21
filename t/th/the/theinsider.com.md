@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theinsider.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204180904id_/http%3A//www.theinsider.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinsider.com privacy policy that was archived on 2005-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050521081343id_/http%3A//www.theinsider.com/privacy.htm) for the most accurate reproduction.*
 
-# Insider Travel Network: insider travel and sightseeing guides
+# Insider Travel Network: insider travel and sightseeing guides for New York City, Boston, Hawaii, Philadelphia, San Francisco and Bermuda
 
 **Privacy Statement for The Insider Travel Network**
 
@@ -77,3 +77,5 @@ This site gives users the following options for changing and modifying informati
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
 [webmaster@TheInsider.com ](mailto:webmaster@TheInsider.com)
+
+**Site Directory:**
