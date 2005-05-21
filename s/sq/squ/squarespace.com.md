@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squarespace.com privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211183021id_/http%3A//www.squarespace.com/do/display/external/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squarespace.com privacy policy that was archived on 2005-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050522002247id_/http%3A//www.squarespace.com/do/display/external/PrivacyPolicy) for the most accurate reproduction.*
 
 # Squarespace - Privacy Policy
 
