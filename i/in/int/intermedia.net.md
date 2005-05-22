@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intermedia.net privacy policy that was archived on 2004-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041224015537id_/http%3A//intermedia.net/legal/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intermedia.net privacy policy that was archived on 2005-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050522020648id_/http%3A//www.intermedia.net/legal/privacy_statement) for the most accurate reproduction.*
 
 # Intermedia.NET - Legal: Legal & Policies
 
@@ -58,14 +58,14 @@ If you wish to terminate your account or opt-out of receiving communications fro
 If you have any questions about this privacy statement, the privacy practices of our web sites, or your dealings with Intermedia.NET's web sites, you may contact:
 
 Intermedia.NET Legal  
-150 Mathilda Place, Suite 104  
-Sunnyvale, California 94086  
+156 W 56th Street, suite 1601  
+New York, NY 10019  
 [privacy@intermedia.net](mailto:privacy@intermedia.net)
 
 **Updates to Privacy Policy**
 
 Intermedia.NET, Inc. reserves the right to change these policies at any time. Any changes to the privacy policy will be posted at the web sites.
 
-Copyright © Intermedia.NET, Inc. 2001. All Rights Reserved.
+Copyright © Intermedia.NET, Inc. 1995 - 2005. All Rights Reserved.
 
 Users of this site agree to be bound by the Intermedia.NET Service Agreement, Service Level Agreement, and acceptable use policies.
