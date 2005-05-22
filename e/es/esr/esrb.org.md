@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the esrb.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204015538id_/http%3A//www.esrb.org/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esrb.org privacy policy that was archived on 2005-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050522235900id_/http%3A//www.esrb.org/privacy_statement.asp) for the most accurate reproduction.*
 
 # ESRB - Privacy Statement
 
   
-[](https://web.archive.org/web/20041204015538id_/http%3A//www.esrb.org/index.asp)  
-[](https://web.archive.org/web/20041204015538id_/http%3A//www.esrb.org/esrbratings.asp)  
-[](https://web.archive.org/web/20041204015538id_/http%3A//www.esrb.org/privacy.asp)  
-[](https://web.archive.org/web/20041204015538id_/http%3A//www.esrb.org/arc.asp)  
-[](https://web.archive.org/web/20041204015538id_/http%3A//www.esrb.org/about.asp)  
-[](https://web.archive.org/web/20041204015538id_/http%3A//www.esrb.org/publisher/index.asp)  
-[](https://web.archive.org/web/20041204015538id_/http%3A//www.esrb.org/retailer/index.asp)  
+[](https://web.archive.org/web/20050522235900id_/http%3A//www.esrb.org/index.asp)  
+[](https://web.archive.org/web/20050522235900id_/http%3A//www.esrb.org/esrbratings.asp)  
+[](https://web.archive.org/web/20050522235900id_/http%3A//www.esrb.org/privacy.asp)  
+[](https://web.archive.org/web/20050522235900id_/http%3A//www.esrb.org/arc.asp)  
+[](https://web.archive.org/web/20050522235900id_/http%3A//www.esrb.org/about.asp)  
+[](https://web.archive.org/web/20050522235900id_/http%3A//www.esrb.org/publisher/index.asp)  
+[](https://web.archive.org/web/20050522235900id_/http%3A//www.esrb.org/retailer/index.asp)  
 [](https://web.archive.org/consumer_online_hotline.asp)  
 |  |  |   
 ---|---|---  
@@ -88,7 +88,10 @@ Retailers who wish to have access to the retailer portion of our website or rece
   *  **General Information Contained in Email**  
 ESRB's website provides a number of links through which an online visitor can e-mail us. ESRB collects personal information contained in the e-mail for the purpose of responding to a consumer's questions and/or comments.
   *  **Resume Submissions**  
-From time to time, we may post on our website job openings at the ESRB and provide an e-mail address to which interested applicants can submit their resume. Although we can assure you that any personal information contained in a resume will be used solely for its intended purpose (i.e., to evaluate the applicant’s qualifications), such information is not subject to this Privacy Policy. 
+From time to time, we may post on our website job openings at the ESRB and provide an e-mail address to which interested applicants can submit their resume. Although we can assure you that any personal information contained in a resume will be used solely for its intended purpose (i.e., to evaluate the applicant’s qualifications), such information is not subject to this Privacy Policy.
+  *  **ESRB Linking Notification Policy**  
+Websites interested in linking to the ESRB website have the option of formally notifying us through our automated process. The [Linking Notification Form](http://www.esrb.com/linking_request.asp) collects contact name, email address, company name, and website URL.  
+
 
   
 
@@ -151,7 +154,7 @@ Back to Top
 
 Can I choose how my personal information is used?
 
-If you wish to opt-out from receiving our newsletter or any other communication, please contact us, at any time, via e-mail at [privacyinfo@esrb.org](https://web.archive.org/web/20041204015538id_/http%3A//www.esrb.org/privacy_statement_email.asp?subType=0), or by regular mail at ESRB, 845 Third Avenue, 14th Floor, New York, New York 10022. We will be happy to honor your request.
+If you wish to opt-out from receiving our newsletter or any other communication, please contact us, at any time, via e-mail at [privacyinfo@esrb.org](https://web.archive.org/web/20050522235900id_/http%3A//www.esrb.org/privacy_statement_email.asp?subType=0), or by regular mail at ESRB, 317 Madison Avenue, 22nd Floor, New York, New York 10017. We will be happy to honor your request.
 
 Back to Top
 
@@ -160,7 +163,7 @@ Back to Top
 
 How can I access my personal information?
 
-If you wish to review, update, or delete any personal information that we may have collected about you, please contact us via e-mail at [privacyinfo@esrb.org](https://web.archive.org/web/20041204015538id_/http%3A//www.esrb.org/privacy_statement_email.asp?subType=1), or by regular mail at ESRB, 845 Third Avenue, 14th Floor, New York, New York 10022.
+If you wish to review, update, or delete any personal information that we may have collected about you, please contact us via e-mail at [privacyinfo@esrb.org](https://web.archive.org/web/20050522235900id_/http%3A//www.esrb.org/privacy_statement_email.asp?subType=1), or by regular mail at ESRB, 317 Madison Avenue, 22nd Floor, New York, New York 10017.
 
 Back to Top
 
@@ -178,7 +181,7 @@ Back to Top
 
 How do I ask a question or file a complaint?
 
-If you have any questions, complaints or comments regarding our privacy policy or practices, please contact us via email at [privacyinfo@esrb.org](https://web.archive.org/web/20041204015538id_/http%3A//www.esrb.org/privacy_statement_email.asp?subType=2), or by regular mail at:
+If you have any questions, complaints or comments regarding our privacy policy or practices, please contact us via email at [privacyinfo@esrb.org](https://web.archive.org/web/20050522235900id_/http%3A//www.esrb.org/privacy_statement_email.asp?subType=2), or by regular mail at:
 
 ESRB  
 317 Madison Avenue 22nd Fl  
