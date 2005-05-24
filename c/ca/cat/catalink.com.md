@@ -1,6 +1,25 @@
-> *The following text is extracted and transformed from the catalink.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204171535id_/http%3A//www.catalink.com/privacy_policy2.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catalink.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525005143id_/http%3A//www.catalink.com/privacy_policy2.php) for the most accurate reproduction.*
 
 # Catalogues & Brochures Available Free at Catalink - Catalogs Mail Order Holiday Travel
+
+  
+**Catalink Privacy Policy**
+
+Catalink (UK) Ltd is registered under the Data Protection Act and as such, as a member of the Catalink Network, we are committed to respecting your privacy. Please read the following information which outlines our privacy policy. 
+
+**Cookies**  
+To make ordering catalogues as simple and convenient as possible for our members, cookies are used to store your personal information. Please note, however, these can only be used if you yourself choose to turn them on during your login process.
+
+**The Information Catalink Stores**  
+Catalink stores the following information about its members:
+
+  * Your Ip address
+  * Time of your visit
+  * Pages Visited
+  * Registration information
+  * Any other information submitted via our forms or by direct contact
+
+
 
 This information is used to maximise the efficiency of the catalogue requesting and product ordering process to ensure that the duration of your visit to the Catalink Network can be spent gathering information rather than giving it. In addition we use the information you have provided to keep you informed of new events, products and other topical items of interest from our portal activities.
 
@@ -14,12 +33,12 @@ To ensure that catalogue merchants represented on the Catalink Network are able 
 
 If you are a member of Catalink and specifically do not wish to receive such information you may advise us now by logging into your account and returning to this page, where you will be given full instructions. 
 
-**Your Membership:**  
+**Your Membership**  
 Your membership of the Catalink Network is highly valued not only as you represent a potential customer for our catalogue merchants who seek to serve you but also because of your valid opinions as a consumer. We hope you enjoy the Catalink experience and find useful catalogues for yourself and your family. 
 
 We would most respectively urge you to be discriminate when selecting catalogues and request only those of genuine interest. Catalogues although most willingly distributed to you free of charge, are expensive to produce and deliver. If you are in doubt as to the suitability of any catalogue the Catalink Network provides a quick link directly through to the relative website. By staying within the Catalink window, you can easily resume your catalogue search within the Catalink portal again. 
 
-We are constantly updating the Catalink portal with new and innovative catalogues, so please visit us regularly. We constantly aim to improve the features of the Catalink Network and if you have any comments or suggestions to make, please contact us at [members@catalink.net](mailto:members@catalink.net). 
+We are constantly updating the Catalink portal with new and innovative catalogues, so please visit us regularly. We constantly aim to improve the features of the Catalink Network and if you have any comments or suggestions to make, please complete our [contact us form](http://www.catalink.com/contact_us.php). 
 
 **Security**  
-Catalink uses a Thawte Signed Server Certificate for all Credit Card transaction, ensuring the highest possible encryption for a UK-based company. Please note, we do NOT store your credit card information, it is securely transmitted directly to the Catalogue Merchant. 
+Catalink uses a 128-bit Thawte Signed Server Certificate for all Credit Card transaction, ensuring the highest possible encryption for a UK-based company. Please note, we do NOT store your credit card information, it is securely transmitted directly to the Catalogue Merchant. 
