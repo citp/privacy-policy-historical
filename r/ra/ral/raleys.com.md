@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raleys.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204021852id_/http%3A//www.raleys.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raleys.com privacy policy that was archived on 2005-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050524074225id_/http%3A//www.raleys.com/privacy.jsp) for the most accurate reproduction.*
 
 # Welcome to Raley's and Bel Air
 
@@ -33,7 +33,7 @@ After you submit a completed job application, you may receive a communication ac
 
 _Prescription Refills_
 
-If you request a refill of your prescription on-line, we require that you provide certain personally identifying information, including your last name, birth date, and prescription number. This information is necessary to process your refill. This personally identifying information is subject to the terms and conditions of our pharmacy’s Privacy Notice, which is available on the Web-Fill web page, [or you can link directly to it here.](https://www2.raleys.com/phrmrefl.htm)
+If you request a refill of your prescription on-line, we require that you provide certain personally identifying information, including your last name, birth date, and prescription number. This information is necessary to process your refill. This personally identifying information is subject to the terms and conditions of our pharmacy’s Privacy Notice, which is available on the Web-Fill web page, [or you can link directly to it here.](https://edit.raleys.com/pharmacy/onlnsvcs/privacy2.htm)
 
 _Surveys_
 
