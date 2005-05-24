@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rogers.com privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211112345id_/http%3A//rogers.com/english/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rogers.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525001518id_/http%3A//www.rogers.com/english/privacy.html) for the most accurate reproduction.*
 
 # Rogers.com | Privacy Policy
 
