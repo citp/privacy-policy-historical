@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lids.com privacy policy that was archived on 2004-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041231032933id_/http%3A//www.lids.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lids.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525122804id_/http%3A//www.lids.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Lids.com: Lids Online has an extensive selection of hats, apparel and accessories for your favorite teams
 
@@ -14,12 +14,14 @@
 | [NHL](http://www.lids.com/sid/NHL)  
 | [RACING](http://www.lids.com/sid/MOTOR)  
 | [BRANDS](http://www.lids.com/sid/BRANDED)  
+| [POP CULTURE](http://www.lids.com/sid/POP)  
 | [HELMETS](http://www.lids.com/helmet.html)  
 | [APPAREL](http://www.lids.com/apparel.html)  
 | [WOMEN](http://www.lids.com/women.html)  
 | [KIDS](http://www.lids.com/kids.html)  
 | [ACCESSORIES](http://www.lids.com/sid/ACCESS)  
 | [CLEARANCE SALE](http://www.lids.com/clearance.html)  
+| [POWER RANKINGS](http://www.lids.com/power_rankings.html)  
   
 |  |   
 ---|---|---  
@@ -30,6 +32,7 @@
   |   
   |   
   |   
+[](http://www.lidscyo.com/trafficlink.html)  
 |    
 |  | 
 
@@ -133,4 +136,4 @@ LIDS, HATWORLD and THE HAT ZONE are concerned with the protection and privacy of
 |    
 CUSTOMER CARE DEPARTMENT: Open 24 hours a day, 7 days a week. Call us toll-free at 1-888-564-HATS(4287)  
   
-© 2004, LIDS. All Rights Reserved.
+© 2005 LIDS, Genesco. All Rights Reserved.
