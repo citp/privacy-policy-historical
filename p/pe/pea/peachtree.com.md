@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the peachtree.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208131152id_/http%3A//smallbusiness.bestsoftware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peachtree.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525080937id_/http%3A//smallbusiness.bestsoftware.com/privacy) for the most accurate reproduction.*
 
-# Best Software Small Business Division - Legal Notices
+# Legal Notices - Privacy Statement - Best Software SB, Inc.
 
 At Best Software SB, Inc. ("Best Software Small Business Division"), user privacy is important to us. We want you to feel confident visiting Best Software Small Business Division Web sites and using our products. This Privacy Statement outlines the privacy practices regarding information collected by Best Software Small Business Division at this Web site and other Best Software Small Business Division Web sites that link to this Privacy Statement (the "Sites") and will tell you, as of the "Last Revised" date set forth at the end of this Privacy Statement, what information Best Software Small Business Division collects at the Sites, how we use that information, what choices you have concerning how such information is used and how we protect your information. We encourage you to read our Privacy Statement so that you will understand both our commitment to you and your privacy and how you can participate in that commitment.
 
@@ -97,8 +97,3 @@ Users located outside the United States who submit Business Information to Best 
 ##  [Back to Top] Changes to this Privacy Statement
 
 Best Software Small Business Division may change this Privacy Statement at any time by posting revisions to the Sites and you will be notified of any such changes by notice on the Sites. Your use of the Sites constitutes acceptance of the provisions of this Privacy Statement and your continued usage after such changes are posted constitutes acceptance of each revised Privacy Statement. Prior to making any decision that would result in Best Software Small Business Division using your information in a manner materially different from that stated at the time it was collected, Best Software Small Business Division will notify you by mail or email and you will have a choice as to whether we use your information in this different manner.
-
-Last revised June, 2004
-
-© 2004 Best Software Small Business Division. All rights reserved.  
-All trademarks and copyrights are the property of their respective holders. Please report issues to the Webmaster.
