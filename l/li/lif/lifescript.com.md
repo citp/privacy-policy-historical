@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifescript.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209001827id_/http%3A//www.lifescript.com/www/PrivacyPolicy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifescript.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525124231id_/http%3A//www.lifescript.com/www/PrivacyPolicy/index.asp) for the most accurate reproduction.*
 
 # :: LifeScript - Privacy Policy ::
 
