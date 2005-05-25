@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lxer.com privacy policy that was archived on 2004-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041222221717id_/http%3A//lxer.com/module/pages/v/4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lxer.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525053938id_/http%3A//lxer.com/module/pages/v/4) for the most accurate reproduction.*
 
 # LXer: Privacy Policy
 
@@ -27,9 +27,10 @@ But only for login, and not for any other use.
 
 | We require cookies only for the login of the system, and some navigational aids (bread-crumbs). They are not used for tracking, but are used to identify you, as a member, to our server and to assist with your navigation. Without cookies, it would be impossible for us to have logins and member accounts, rendering the site largely useless. This is the use for which cookies were invented in the first place.  
   
-[](https://web.archive.org/)
+[](https://web.archive.org/) [](http://www.2x.com/)  
+[Developers](http://www.2x.com/) of [terminal server](http://www.2x.com/terminalserver/terminal-server.htm) for Linux and [thin client](http://www.2x.com/thinclientserver/thin-client.htm) OS & server.
 
-LXer is read by over 4,000 individuals daily, and is an excellent place for you to publish your ideas, thoughts, reviews, complaints, etc.  Do you have something to say to the Linux community? 
+LXer is read by over 7,000 individuals daily, and is an excellent place for you to publish your ideas, thoughts, reviews, complaints, etc.  Do you have something to say to the Linux community? 
 
 [Publish it here](https://web.archive.org/module/newswire/stories/add.php). 
 
@@ -37,39 +38,44 @@ If you don't have an account yet, visit the [registration page](https://web.arch
 
 If you already have an account, you may login here: 
 
+**[DaniWeb IT Community](http://www.daniweb.com/)**  
+programming, web development and tech [forums](http://www.daniweb.com/techtalkforums/), [blogs](http://www.daniweb.com/blogs/), [code snippets](http://www.daniweb.com/code/), [tutorials](http://www.daniweb.com/tutorials/), [irc chat network](http://www.daniweb.com/chat/), and [link directory](http://www.daniweb.com/directory/)
+
 Enter your search terms below:  
 
 
+I've looked high and low for those fun Tux penguin plush dolls, and I see that Cheap Bytes is selling them.  Fun fun!  Click the penguin for more info.[](http://cart.cheapbytes.com/cgi-bin/cart/1000010003.html)
+
 [](https://web.archive.org/module/newswire/headlines.rss)
 
-| [Site review: LinuxVirgins.com](https://web.archive.org/module/newswire/view/28603/index.html)  
- _Dec 22, 2004 11:35 AM_  
-[0 threads and 0 posts](https://web.archive.org/module/newswire/view/28603/index.html#threadlist)  
+| [Gluecode Founder Officially Launches Open Source Investment Firm](https://web.archive.org/module/newswire/view/36890/index.html)  
+ _May 25, 2005 12:33 AM_  
+[0 threads and 0 posts](https://web.archive.org/module/newswire/view/36890/index.html#threadlist)  
 ---  
-[2004: The year in Linux](https://web.archive.org/module/newswire/view/28605/index.html)  
- _Dec 22, 2004 10:55 AM_  
-[0 threads and 0 posts](https://web.archive.org/module/newswire/view/28605/index.html#threadlist)  
-[Microsoft gets one over open source](https://web.archive.org/module/newswire/view/28609/index.html)  
- _Dec 22, 2004 10:40 AM_  
-[0 threads and 0 posts](https://web.archive.org/module/newswire/view/28609/index.html#threadlist)  
-[DoCoMo invests $3m in Linux company](https://web.archive.org/module/newswire/view/28611/index.html)  
- _Dec 22, 2004 10:18 AM_  
-[0 threads and 0 posts](https://web.archive.org/module/newswire/view/28611/index.html#threadlist)  
-[OSDir.com Weekly Screenshots for Dec 21, 2004](https://web.archive.org/module/newswire/view/28584/index.html)  
- _Dec 22, 2004 10:05 AM_  
-[0 threads and 0 posts](https://web.archive.org/module/newswire/view/28584/index.html#threadlist)  
-[Project to manage open source complexity](https://web.archive.org/module/newswire/view/28591/index.html)  
- _Dec 22, 2004 9:14 AM_  
-[0 threads and 0 posts](https://web.archive.org/module/newswire/view/28591/index.html#threadlist)  
-[Paul Ferris: The GNU/Linux desktop-adoption drive of 2005](https://web.archive.org/module/newswire/view/28597/index.html)  
- _Dec 22, 2004 7:33 AM_  
-[0 threads and 0 posts](https://web.archive.org/module/newswire/view/28597/index.html#threadlist)  
-[LWN: James Barry Corbet 1936 - 2004](https://web.archive.org/module/newswire/view/28580/index.html)  
- _Dec 22, 2004 7:23 AM_  
-[0 threads and 0 posts](https://web.archive.org/module/newswire/view/28580/index.html#threadlist)  
-[Debian Weekly News - December 21st, 2004](https://web.archive.org/module/newswire/view/28608/index.html)  
- _Dec 22, 2004 7:19 AM_  
-[0 threads and 0 posts](https://web.archive.org/module/newswire/view/28608/index.html#threadlist)  
-[Novell Linux Desktop 9 screenshot tour](https://web.archive.org/module/newswire/view/28504/index.html)  
- _Dec 21, 2004 10:05 PM_  
-[0 threads and 0 posts](https://web.archive.org/module/newswire/view/28504/index.html#threadlist)
+[FSF works on 'fully free' OpenOffice](https://web.archive.org/module/newswire/view/36958/index.html)  
+ _May 24, 2005 11:49 PM_  
+[0 threads and 0 posts](https://web.archive.org/module/newswire/view/36958/index.html#threadlist)  
+[Linux in the Data Center](https://web.archive.org/module/newswire/view/36894/index.html)  
+ _May 24, 2005 11:06 PM_  
+[0 threads and 0 posts](https://web.archive.org/module/newswire/view/36894/index.html#threadlist)  
+[Securing apache and php](https://web.archive.org/module/newswire/view/36904/index.html)  
+ _May 24, 2005 10:23 PM_  
+[0 threads and 0 posts](https://web.archive.org/module/newswire/view/36904/index.html#threadlist)  
+[Red Hat and IBM Reportedly Get Closer](https://web.archive.org/module/newswire/view/36921/index.html)  
+ _May 24, 2005 9:40 PM_  
+[0 threads and 0 posts](https://web.archive.org/module/newswire/view/36921/index.html#threadlist)  
+[OASIS Approves OpenOffice 2.0 File Format](https://web.archive.org/module/newswire/view/36907/index.html)  
+ _May 24, 2005 8:57 PM_  
+[0 threads and 0 posts](https://web.archive.org/module/newswire/view/36907/index.html#threadlist)  
+[Open Source Commercialization Redux](https://web.archive.org/module/newswire/view/36924/index.html)  
+ _May 24, 2005 8:14 PM_  
+[0 threads and 0 posts](https://web.archive.org/module/newswire/view/36924/index.html#threadlist)  
+[Linux sales help Oracle database catch IBM, Gartner finds](https://web.archive.org/module/newswire/view/36963/index.html)  
+ _May 24, 2005 7:31 PM_  
+[0 threads and 0 posts](https://web.archive.org/module/newswire/view/36963/index.html#threadlist)  
+[Open source bridges customer info gap](https://web.archive.org/module/newswire/view/36891/index.html)  
+ _May 24, 2005 6:48 PM_  
+[0 threads and 0 posts](https://web.archive.org/module/newswire/view/36891/index.html#threadlist)  
+[Wind River Liberates the code](https://web.archive.org/module/newswire/view/36903/index.html)  
+ _May 24, 2005 6:04 PM_  
+[0 threads and 0 posts](https://web.archive.org/module/newswire/view/36903/index.html#threadlist)
