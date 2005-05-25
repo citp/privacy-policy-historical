@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lockergnome.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208160805id_/http%3A//www.lockergnome.com/about/privacy-policy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lockergnome.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525170723id_/http%3A//www.lockergnome.com/about/privacy-policy.phtml) for the most accurate reproduction.*
 
 # Lockergnome's Privacy Policy - Your Top Technology Resource
 
@@ -68,4 +68,4 @@ Lockergnome
 Encino, CA 91316-3516   
 1.888.472.0483 
 
-**Convert Vinyl LPs and Cassettes to CD or MP3!** Records and cassettes deteriorate over time. Many recordings have never been re-released on CD. [Learn how to convert records and cassettes to CD, MP3, or WMA](http://go.lockergnome.com/501) using this definitive guide. Your PC and home stereo are the only hardware required! Walk through each step, first connecting your PC and stereo using only one cable and following [step-by-step instructions](http://go.lockergnome.com/501) to get perfect recordings of your favorite songs. [Start preserving your music](http://go.lockergnome.com/501) investment today! 
+Mega Monty: Mix a roulette wheel with a slot machine and a little bit of draw poker and what do you get? BoxerJam's Mega Monty, a high-energy game of skill, strategy, and of course, luck. Climb through more and more challenging levels as you search for the winning score in a quest for "cash" and points. Mega Monty: the casinos never had it so good! But where's the Rat Pack when you need 'em? [Screenshot] [Download Shareware]... [[Click Here to Download](http://windows.fileoftheday.com/archives/games_mega_monty.html)] 
