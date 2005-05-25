@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the live2support.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204114759id_/http%3A//www.live2support.com/privacyls.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the live2support.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525063939id_/http%3A//www.live2support.com/privacyls.php) for the most accurate reproduction.*
 
 # Live2Support - live help, live chat, live support solution
 
