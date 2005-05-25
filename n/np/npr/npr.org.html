@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the npr.org privacy policy that was archived on 2004-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041209185840id_/http%3A//www.npr.org/about/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the npr.org privacy policy that was archived on 2005-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050525213947id_/http%3A//www.npr.org/about/privacypolicy.html) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -39,262 +39,519 @@
 
 
 <noindex>
+
 <div id="header">
+
 	<script type="text/javascript">
+
 	if (window != top)
+
 		{
+
 			top.location.href = location.href;
+
 		}
 
+
+
 function checkPrograms(queryText)
+
 	{
+
 		return true;
+
+
 
 		// Hardcoded return true added by Joanne Garlow on 10/21/2004 per bugzilla #309
 
+
+
 		returnVal=false; //unless changed later in the function
+
 		queryText=queryText.toLowerCase();
 
+
+
 		if (queryText=="morning edition")
+
 		{
+
 				window.location="http://www.npr.org/programs/morning/";
+
 		}
+
 		else if (queryText=="day to day" || queryText=="d2d")
+
 				{
+
 						window.location="http://www.npr.org/programs/day/";
+
 				}
+
 		else if (queryText=="fresh air" || queryText=="terry gross")
+
 		{
+
 				window.location="http://freshair.npr.org";
+
 		}
-		else if (queryText=="tavis smiley" || queryText=="tavis smiley show" || queryText=="the tavis smiley show" || queryText=="tavis")
+
+		else if (queryText=="news notes")
+
 		{
-				window.location="http://www.npr.org/programs/tavis/";
+
+				window.location="http://www.npr.org/programs/newsnotes/";
+
 		}
+
 		else if (queryText=="all things considered")
+
 		{
+
 				window.location="http://www.npr.org/programs/atc/";
+
 		}
+
 		else if (queryText=="talk of the nation" || queryText=="totn")
+
 		{
+
 				window.location="http://www.npr.org/programs/totn/";
+
 		}
+
 		else if (queryText=="car talk")
+
 		{
+
 				newWindow=window.open("http://www.cartalk.com/","CarTalk","scrollbars=yes,width=640,height=480");
+
 				if (((navigator.appName=="Netscape") && ((navigator.appVersion).charAt(0) > 2)))
+
 						{
+
 								newWindow.focus()
+
 						}
+
 		}
+
 		else if (queryText=="performance today")
+
 		{
+
 				window.location="http://www.npr.org/programs/pt/";
+
 		}
+
 		else if (queryText=="weekend edition saturday")
+
 		{
+
 				window.location="http://www.npr.org/programs/wesat/";
+
 		}
+
 		else if (queryText=="weekend edition sunday")
+
 		{
+
 				window.location="http://www.npr.org/programs/wesun/";
+
 		}
+
 		else if (queryText=="science friday")
+
 		{
+
 				window.location="http://www.npr.org/programs/scifri/";
+
 		}
+
 		else if (queryText=="weekend all things considered")
+
 		{
+
 				window.location="http://www.npr.org/programs/atc/";
+
 		}
+
 		else if (queryText=="national press club")
+
 		{
+
 				window.location="http://www.npr.org/programs/npc/";
+
 		}
+
 		else if (queryText=="national story project")
+
 		{
+
 			window.location="http://www.npr.org/programs/watc/storyproject/";
+
 		}
+
 		else if (queryText=="news")
+
 		{
+
 			window.location="http://news.npr.org/";
+
 		}
+
 		else if (queryText == "wait wait" || queryText == "wait wait don't tell me")
+
 		{
+
 				window.location="http://www.npr.org/programs/waitwait/";
+
 		}
+
 		else if (queryText == "motley fool")
+
 		{
+
 				window.location="http://www.npr.org/programs/fool/";
+
 		}
+
 		else if (queryText == "radio expeditions")
+
 		{
+
 				window.location="http://www.npr.org/programs/re/";
+
 		}
+
 		else if (queryText == "marketplace" || queryText == "market place")
+
 		{
+
 			window.location="http://www.npr.org/programs/day/marketplace/";
+
 		}
+
 		else if (queryText=="business")
+
 		{
+
 			window.location="http://business.npr.org/";
+
 		}
+
 		else if (queryText=="health" || queryText=="science")
+
 		{
+
 			window.location="http://science.npr.org/";
+
 		}
+
 		else if (queryText=="arts")
+
 		{
+
 			window.location="http://arts.npr.org/";
+
 		}
+
 		else if (queryText=="iraq")
+
 		{
+
 			window.location="http://iraq.npr.org/";
+
 		}
+
 		else if (queryText=="politics")
+
 		{
+
 			window.location="http://politics.npr.org/";
+
 		}
+
 		else if (queryText=="people")
+
 		{
+
 			window.location="http://people.npr.org/";
+
 		}
+
 		else if (queryText=="books")
+
 		{
+
 			window.location="http://books.npr.org/";
+
 		}
+
 		else if (queryText=="music")
+
 		{
+
 			window.location="http://music.npr.org/";
+
 		}
+
 		else if (queryText=="diversions")
+
 		{
+
 			window.location="http://diversions.npr.org/";
+
 		}
+
 		else if (queryText=="opinion")
+
 		{
+
 			window.location="http://opinion.npr.org/";
+
 		}
+
 		else {
+
 				returnVal=true;
+
 		}
+
 		return(returnVal);
 
+
+
 	}
+
 		function searchFields(queryText)
+
 			{
+
 				if (queryText.value=="Enter Keywords")
+
 					{
+
 						queryText.value="";
+
 					}
+
 				else if (queryText.value=="")
+
 					{
+
 						queryText.value="Enter Keywords";
+
 					}
+
 			}
+
+
 
 		function changeLocation(selVal) {
+
 			if(selVal != "null"){
+
 				if(selVal.indexOf('?') != -1){
+
 					selVal = selVal.slice(0,-1);
+
 					var newWindow = window.open(selVal, '', 'scrollbars,resizable,toolbar,status,menubar,location');
+
 				} else {
+
 					window.location.href = selVal;
+
 				}
+
 			}
+
 		}
 
+
+
 	</script>
+
+
 
 	<div id="skipnav"><a href="#content">Skip Navigation</a></div>
 
+
+
 	<a href="/"><img src="/images/logo_npr.gif" alt="NPR Home Page" height="47" width="140" id="logo"></a>
 
+
+
 	<div id="searchcontainer">
+
 		<div id="selectprograms">
+
 			<form name="frmPrograms" id="frmPrograms" method="post" action="http://discover.npr.org/redirect/redirect.jhtml">
+
 			<!--
+
 			HEADS UP TO ANYONE ADDING OPTIONS/URLS TO THIS DROP-DOWN SELECT LIST:
+
 				To open the page in a new window add a ? to the end of the url.  Otherwise, the page will open in the existing window.
+
 			-->
+
 				<select name="selPrograms" id="selPrograms" onchange="changeLocation(document.frmPrograms.selPrograms.options[document.frmPrograms.selPrograms.selectedIndex].value)">
+
 					<option value="null" selected="selected">Programs and Schedules</option>
+
 					<option value="null"></option>
+
 					<option value="/programs/">All Programs A-Z</option>
+
 					<option value="/about/schedules/">All Schedules</option>
+
 					<option value="null"></option>
+
 					<option value="null">MOST VISITED PROGRAMS</option>
+
 					<option value="/programs/asc/">All Songs Considered</option>
+
 					<option value="/programs/atc/">All Things Considered</option>
+
 					<option value="http://www.cartalk.com?">Car Talk</option>
+
 					<option value="/programs/day/">Day to Day</option>
-					<option value="http://www.wamu.org/dr/?">The Diane Rehm Show</option>
+
+					<option value="http://www.wamu.org/programs/dr/">The Diane Rehm Show</option>
+
 					<option value="http://freshair.npr.org/">Fresh Air with Terry Gross</option>
+
 					<option value="/programs/morning/">Morning Edition</option>
+
 					<option value="/programs/fool/">The Motley Fool Radio Show</option>
+
+					<option value="/programs/newsnotes/">News &amp; Notes with Ed Gordon</option>
+
 					<option value="http://www.wnyc.org/onthemedia/">On the Media</option>
+
 					<option value="/programs/pt/">Performance Today</option>
+
 					<option value="/programs/totn/">Talk of the Nation</option>
-					<option value="/programs/tavis/">The Tavis Smiley Show</option>
+
 					<option value="/programs/waitwait/">Wait Wait... Don't Tell Me!</option>
+
 					<option value="/programs/wesat/">Weekend Edition Saturday</option>
+
 					<option value="/programs/wesun/">Weekend Edition Sunday</option>
+
 					<option value="null"></option>
+
 					<option value="/about/schedules/">SCHEDULES</option>
+
 					<option value="/stations/index.php">NPR Stations' Schedules</option>
+
 					<option value="/audiohelp/progstream.html">NPR.org Program Stream</option>
+
 					<option value="/worldwide/">NPR Worldwide</option>
+
 					<option value="/about/sirius.html">NPR on Sirius Satellite Radio</option>
+
 					<option value="null"></option>
+
 				</select>
+
 				<input type="button" value="select" class="button" id="btnSelect" onclick="if (document.frmPrograms.selPrograms.options[document.frmPrograms.selPrograms.selectedIndex].value=='null') document.frmPrograms.selPrograms.options.selectedIndex=0;">
+
 			</form>
+
 		</div>
+
+
 
 		<div id="searchtext">
+
 			<form method="get" action="http://search.npr.org/search97cgi/s97_cgi" name="searchForm" onsubmit="return checkPrograms(document.searchForm.cleanQuery.value);">
+
 					<p>
+
 						<input type="text" name="cleanQuery" id="cleanQuery" value="">
+
 						<input type="button" value="search" class="button" id="btnSearch" onclick="if(checkPrograms(document.searchForm.cleanQuery.value)){this.form.submit();}">
+
 						<input type="hidden" name="ResultTemplate" value="allow_re_sort.hts">
+
 						<input type="hidden" name="SortSpec" value="Date Desc Score Desc">
+
 						<input type="hidden" name="ViewTemplate" value="docview.hts">
+
 						<input type="hidden" name="collection" value="ALL02">
+
 						<input type="hidden" name="Action" value="FilterSearch">
+
 						<input type="hidden" name="filter" value="topic_filter.NEW.hts">
+
 						<input type="hidden" name="QueryText" value="">
+
 					</p>
+
 			</form>
+
 		</div>
+
 	</div>
 
+
+
 	<ul id="nav">
-		<li><a href="http://search.npr.org/search97cgi/s97_cgi?ResultTemplate=allow_re_sort.hts&amp;newQuery=1">archives</a></li>
+
+		<li><a href="/templates/archives/rundown_archive_hub.php">archives</a></li>
+
 		<li><a href="/transcripts/">transcripts</a></li>
+
 		<li><a href="/yourturn/">discussions</a></li>
+
 		<li><a href="/stations/">stations</a></li>
+
 		<li><a href="http://shop.npr.org">npr shop</a></li>
+
 		<li><a href="/about/">about npr</a></li>
+
 		<li><a href="/help/"><img class="topnavhelp" src="/chrome/icon_help.gif" width="13" height="11" border="0">help</a></li>
+
 	</ul>
 
+
+
 	<script type="text/javascript">
+
 		url = window.location.href;
+
 		httpFind = url.indexOf("://");
+
 		periodFind = url.indexOf(".", httpFind + 3)
+
 		web_dir = url.substring(httpFind + 3, periodFind);
 
+
+
 		if (web_dir == "search")
+
 			{
+
 				pagetype = "title";
+
 			}
+
 		else
+
 			{
+
 				pagetype = "index.html";
+
 			}
+
 	</script>
+
 </div>
+
 </noindex>
+
 
 
 
@@ -380,106 +637,109 @@ function checkPrograms(queryText)
 		<noindex>
 <div id="topics">
 	<ul>
-		<li class="topic1">
-			<a href="/templates/topics/topic.php?topicId=1">News</a>
+		<li class="topic1001">
+			<a href="/templates/topics/topic.php?topicId=1001">News</a>
 			<ul>
-				<li><a href="/templates/topics/topic.php?topicId=3">Nation</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=4">World</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=9">Middle East</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=10">Iraq</a></li>
+				<li><a href="/templates/topics/topic.php?topicId=1003">Nation</a></li>
+				<li><a href="/templates/topics/topic.php?topicId=1004">World</a></li>
+				<li><a href="/templates/topics/topic.php?topicId=1009">Middle East</a></li>
+				<li><a href="/templates/topics/topic.php?topicId=1010">Iraq</a></li>
 			</ul>
 		</li>
-		<li class="topic12">
-			<a href="/templates/topics/topic.php?topicId=12">Politics &amp; Society</a>
+		<li class="topic1012">
+			<a href="/templates/topics/topic.php?topicId=1012">Politics &amp; Society</a>
 			<ul>
-				<li><a href="/templates/topics/topic.php?topicId=77">The Second Term</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=73">Convention</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=13">Education</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=70">Legal Affairs</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=14">Politics</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=15">Race</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=16">Religion</a></li>
+				<li><a href="/templates/topics/topic.php?topicId=1083">Social Security</a></li>
+				<li><a href="/templates/topics/topic.php?topicId=1013">Education</a></li>
+				<li><a href="/templates/topics/topic.php?topicId=1070">Legal Affairs</a></li>
+				<li><a href="/templates/topics/topic.php?topicId=1014">Politics</a></li>
+				<li><a href="/templates/topics/topic.php?topicId=1015">Race</a></li>
+				<li><a href="/templates/topics/topic.php?topicId=1016">Religion</a></li>
 			</ul>
 		</li>
-		<li class="topic6">
-			<a href="/templates/topics/topic.php?topicId=6">Business</a>
+		<li class="topic1006">
+			<a href="/templates/topics/topic.php?topicId=1006">Business</a>
 			<ul>
-				<li><a href="/templates/topics/topic.php?topicId=17">Economy</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=18">Your Money</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=19">Technology</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=20">Media</a></li>
+				<li><a href="/templates/topics/topic.php?topicId=1017">Economy</a></li>
+				<li><a href="/templates/topics/topic.php?topicId=1018">Your Money</a></li>
+				<li><a href="/templates/topics/topic.php?topicId=1019">Technology</a></li>
+				<li><a href="/templates/topics/topic.php?topicId=1020">Media</a></li>
 			</ul>
 		</li>
-		<li class="topic21">
-			<a href="/templates/topics/topic.php?topicId=21">People &amp; Places</a>
+		<li class="topic1021">
+			<a href="/templates/topics/topic.php?topicId=1021">People &amp; Places</a>
 			<ul>
-				<li><a href="/templates/topics/topic.php?topicId=22">Interviews</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=62">Remembrances</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=23">Radio Expeditions</a></li>
+				<li><a href="/templates/topics/topic.php?topicId=1022">Interviews</a></li>
+				<li><a href="/templates/topics/topic.php?topicId=1062">Remembrances</a></li>
+				<li><a href="/templates/topics/topic.php?topicId=1023">Radio Expeditions</a></li>
 			</ul>
 		</li>
-		<li class="topic7">
-			<a href="/templates/topics/topic.php?topicId=7">Health &amp; Science</a>
+		<li class="topic1007">
+			<a href="/templates/topics/topic.php?topicId=1007">Health &amp; Science</a>
 			<ul>
-				<li><a href="/templates/topics/topic.php?topicId=25">Environment</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=26">Space</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=27">Health Care</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=30">Children's Health</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=31">Global Health</a></li>
+				<li><a href="/templates/topics/topic.php?topicId=1025">Environment</a></li>
+				<li><a href="/templates/topics/topic.php?topicId=1026">Space</a></li>
+				<li><a href="/templates/topics/topic.php?topicId=1027">Health Care</a></li>
+				<li><a href="/templates/topics/topic.php?topicId=1030">Children's Health</a></li>
+				<li><a href="/templates/topics/topic.php?topicId=1031">Global Health</a></li>
 			</ul>
 		</li>
-		<li class="topic32">
-			<a href="/templates/topics/topic.php?topicId=32">Books</a>
+		<li class="topic1032">
+			<a href="/templates/topics/topic.php?topicId=1032">Books</a>
 			<ul>
-				<li><a href="/templates/topics/topic.php?topicId=33">Authors</a></li>
-				<!--<li><a href="/topics/complex_topic.php?topicId=50,32&topicParentId=32">Book Reviews</a></li>-->
-				<li><a href="/templates/topics/topic.php?topicId=35">Fiction</a></li>
-				<!--<li><a href="/templates/topics/topic.php?topicId=36">Non-fiction</a></li>-->
-				<!--<li><a href="/templates/topics/topic.php?topicId=37">Poetry</a></li>-->
-				<!--<li><a href="/templates/topics/topic.php?topicId=38">Children's Books</a></li>-->
+				<li><a href="/templates/topics/topic.php?topicId=1033">Authors</a></li>
+				<!--<li><a href="/topics/complex_topic.php?topicId=1050,32&topicParentId=32">Book Reviews</a></li>-->
+				<li><a href="/templates/topics/topic.php?topicId=1035">Fiction</a></li>
+				<!--<li><a href="/templates/topics/topic.php?topicId=1036">Non-fiction</a></li>-->
+				<!--<li><a href="/templates/topics/topic.php?topicId=1037">Poetry</a></li>-->
+				<!--<li><a href="/templates/topics/topic.php?topicId=1038">Children's Books</a></li>-->
 			</ul>
 		</li>
-		<li class="topic39">
-			<a href="/templates/topics/topic.php?topicId=39">Music</a>
+		<li class="topic1039">
+			<a href="/templates/topics/topic.php?topicId=1039">Music</a>
 			<ul>
-				<li><a href="/templates/topics/topic.php?topicId=40">Live at NPR</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=41">Classical Music</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=42">Jazz</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=43">Pop Music</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=44">World Music</a></li>
+				<li><a href="/templates/topics/topic.php?topicId=1040">Live at NPR</a></li>
+				<li><a href="/templates/topics/topic.php?topicId=1041">Classical Music</a></li>
+				<li><a href="/templates/topics/topic.php?topicId=1042">Jazz</a></li>
+				<li><a href="/templates/topics/topic.php?topicId=1043">Pop Music</a></li>
+				<li><a href="/templates/topics/topic.php?topicId=1044">World Music</a></li>
 			</ul>
 		</li>
-		<li class="topic8">
-			<a href="/templates/topics/topic.php?topicId=8">Arts &amp; Culture</a>
+		<li class="topic1008">
+			<a href="/templates/topics/topic.php?topicId=1008">Arts &amp; Culture</a>
 			<ul>
-				<li><a href="/templates/topics/topic.php?topicId=45">Movies</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=46">Performing Arts</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=47">Visual Arts</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=48">Pop Culture</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=49">Digital Culture</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=50">Reviews</a></li>
+				<li><a href="/templates/topics/topic.php?topicId=1045">Movies</a></li>
+				<li><a href="/templates/topics/topic.php?topicId=1046">Performing Arts</a></li>
+				<li><a href="/templates/topics/topic.php?topicId=1047">Visual Arts</a></li>
+				<li><a href="/templates/topics/topic.php?topicId=1048">Pop Culture</a></li>
+				<li><a href="/templates/topics/topic.php?topicId=1049">Digital Culture</a></li>
+				<li><a href="/templates/topics/topic.php?topicId=1050">Reviews</a></li>
 			</ul>
 		</li>
-		<li class="topic51">
-			<a href="/templates/topics/topic.php?topicId=51">Diversions</a>
+		<li class="topic1051">
+			<a href="/templates/topics/topic.php?topicId=1051">Diversions</a>
 			<ul>
-				<li><a href="/templates/topics/topic.php?topicId=65">Holidays</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=52">Fun &amp; Games</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=53">Food</a></li>
-				<!--<li><a href="/templates/topics/topic.php?topicId=54">Gardening</a></li>-->
-				<li><a href="/templates/topics/topic.php?topicId=55">Sports</a></li>
-				<!--<li><a href="/templates/topics/topic.php?topicId=56">Driveway Moments</a></li>-->
+				<li><a href="/templates/topics/topic.php?topicId=1052">Fun &amp; Games</a></li>
+				<li><a href="/templates/topics/topic.php?topicId=1053">Food</a></li>
+				<!--<li><a href="/templates/topics/topic.php?topicId=1054">Gardening</a></li>-->
+				<li><a href="/templates/topics/topic.php?topicId=1055">Sports</a></li>
+				<!--<li><a href="/templates/topics/topic.php?topicId=1056">Driveway Moments</a></li>-->
 			</ul>
 		</li>
-		<li class="topic57">
-			<a href="/templates/topics/topic.php?topicId=57">Opinion</a>
+		<li class="topic1057">
+			<a href="/templates/topics/topic.php?topicId=1057">Opinion</a>
 			<ul><!--
-				<li><a href="/templates/topics/topic.php?topicId=58">Columns</a></li>-->
-				<li><a href="/templates/topics/topic.php?topicId=59">Analysis</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=60">Commentary</a></li>
-				<!--<li><a href="/templates/topics/topic.php?topicId=61">Listeners</a></li>-->
+				<li><a href="/templates/topics/topic.php?topicId=1058">Columns</a></li>-->
+				<li><a href="/templates/topics/topic.php?topicId=1059">Analysis</a></li>
+				<li><a href="/templates/topics/topic.php?topicId=1060">Commentary</a></li>
+				<!--<li><a href="/templates/topics/topic.php?topicId=1061">Listeners</a></li>-->
 			</ul>
 		</li>
+	</ul>
+</div>
+<div id="npranywhere">
+	<ul>
+		<li><a href="/rss/index.html" class="iconlink xml">NPR via RSS</a></li>
 	</ul>
 </div>
 <div id="programs">
@@ -489,7 +749,7 @@ function checkPrograms(queryText)
 		<li><a href="/programs/day/">Day to Day</a></li>
 		<li><a href="/programs/totn/">Talk of the Nation</a></li>
 		<li><a href="http://freshair.npr.org/">Fresh Air</a></li>
-		<li><a href="/programs/tavis/">Tavis Smiley Show</a></li>
+		<li><a href="/programs/newsnotes/">News &amp; Notes with Ed Gordon</a></li>
 		<li><a href="/programs/wesat/">Weekend Edition Saturday</a></li>
 		<li><a href="/programs/wesun/">Weekend Edition Sunday</a></li>
 		<li><a href="/programs/waitwait/">Wait Wait...Don't Tell Me!</a></li>
@@ -509,17 +769,13 @@ function checkPrograms(queryText)
 <div id="housekeeping">
 	<ul>
 		<li><a href="/help/audio/">Audio Help</a></li>
-		<li><a href="/contact/">Contact NPR</a></li>
+		<li><a href="/contact/">Contact Us</a></li>
+		<li><a href="/everywhere/">NPR Everywhere</a></li>
 		<li><a href="/about/place/corpsupport/">Sponsor NPR</a></li>
 		<li><a href="/about/press/">Press Room</a></li>
-		<li><a href="/about/pitch/">Submit Story Ideas</a></li>
+		<li><a href="/about/pitch/">Submit Ideas</a></li>
 		<li><a href="/corrections/">Corrections</a></li>
 		<li><a href="/features/columns/column.php?columnId=2781901">Ombudsman</a></li>
-	</ul>
-</div>
-<div id="npranywhere">
-	<ul>
-		<li><a href="/rss/index.html" class="iconlink xml"><strong>Get NPR Headlines via RSS</strong></a></li>
 	</ul>
 </div>
 </noindex>
@@ -597,80 +853,86 @@ function checkPrograms(queryText)
 
 
 					<!----begin paste page content---->
+					
+					
+					
+					
  <p class="pagetitle">Privacy Policy<br>
-<span style="font-size:11px;color:#FF0000">Updated June 20, 2003</span></p>
+<span style="font-size:11px;color:#FF0000">Effective Date February 10, 2005</span></p>
    <p class="text">
 
 
-At NPR Online, we recognize the importance of privacy to visitors of our Web site. This privacy policy explains what type of information is collected from you when you visit our Web site and how that information may be used.
+At NPR Online, we recognize the importance of privacy to visitors of our Web site. This privacy policy explains what type of information is collected from you when you visit our Web site and how that information may be used. 
+
 <br><br>
 <b>Gathering of Information</b>
 <br>
-NPR collects personally-identifying information (such as your name, e-mail address, address, telephone number and/or credit card information) from the NPR Web site only if you choose to provide that information to us.
+NPR collects personally-identifying information (such as your name, e-mail address, address, telephone number and/or credit card information) from the NPR Web site only if you choose to provide that information to us. 
 <br><br>
-NPR asks visitors to provide certain personal information when they register for the NPR Discussions, when they request a transcript and/or audio CD of NPR programs, when they e-mail a page of the NPR Web site to another person, when they make a purchase from the NPR Online Shop, and when they register for contests. NPR also may ask visitors to provide personal information in other limited circumstances specified at the time the information is gathered. Any information that you post when participating in the Discussions becomes public.
+NPR asks visitors to provide certain personal information when they register for the NPR Discussions or Chat Forums, when they request a transcript and/or audio CD of NPR programs, when they e-mail a page of the NPR Web site to another person, when they make a purchase from the NPR Online Shop, and when they register for any online contests. NPR also may ask visitors to provide personal information in other limited circumstances specified at the time the information is gathered. Any information that you post when participating in the NPR Discussions or Chat Forums becomes public. 
 <br><br>
-Like all other Web servers, NPR's Web server automatically creates log files for each visitor who accesses our site. These "access logs" allow us to make our site more useful to our visitors. The access logs do NOT record a visitor's name, address, phone number, credit card numbers, or any other personally-identifying information. Rather, they contain some or all of the following information:
+Like all other Web servers, NPR's Web server automatically creates log files for each visitor who accesses our site. These "access logs" allow us to make our site more useful to our visitors. The access logs do NOT record a visitor's name, address, phone number, credit card numbers, or any other personally-identifying information. Rather, they contain some or all of the following information: 
 </p>
 <ul>
-<li>The Internet Protocol Address (IP Address) of the machine which accessed our Web site.</li>
+<li>The Internet Protocol Address (IP Address) of the machine which accessed our Web site.</li> 
 <li>The date of the visit.</li>
 <li>The time of the visit.</li>
-<li>The path taken through our Web site.</li>
-<li>The browser being used.</li>
-<li>A list of files downloaded or viewed.</li>
-<li>The amount of time spent listening to RealAudio or Windows Media files.</li>
+<li>The path taken through our Web site.</li> 
+<li>The browser being used.</li> 
+<li>A list of files downloaded or viewed.</li> 
+<li>The amount of time spent listening to RealAudio or Windows Media files.</li> 
 <li>Any errors encountered.</li>
 </ul>
 <p class="text">
 <b>Cookies</b>
 <br>
-NPR also uses 'cookies' to collect information. A cookie is a string of characters that can be written to a file on the user's hard drive when the user visits a Web site. Only the Web site that set the cookie can read it, and it can only be used as a record keeping device to store information that the site already has. It cannot, for example, be used to read other information from the user's hard drive.
+NPR also uses 'cookies' to collect information. A cookie is a string of characters that can be written to a file on the user's hard drive when the user visits a Web site. Only the Web site that set the cookie can read it, and it can only be used as a record keeping device to store information that the site already has. It cannot, for example, be used to read other information from the user's hard drive. 
 <br><br>
-NPR uses cookies to track users' activity through the site in order to improve the site's architecture, to offer the user interactive features that would not be possible without them, and to recall specific information to save the user time during subsequent visits to the site. For example, cookies allow NPR to remember your media player preference. Local station customization, the Discussions, the NPR Online Shop, and other interactive features also use cookies. If you wish to prevent cookies from being set to your hard drive you may disable them in your browser's preferences, although you will no longer be able to access these interactive features.
+NPR uses cookies to track users' activity through the site in order to improve the site's architecture, to offer the user interactive features that would not be possible without them, and to recall specific information to save the user time during subsequent visits to the site. For example, cookies allow NPR to remember your media player (e.g., Real Audio or Windows Media) preference. Local station customization, NPR Discussions and Chat Forums, the NPR Online Shop, and other interactive features also use cookies. Our sponsorship service vendors, which serve sponsorship messages onto our site, and vendors that measure the use of NPR.org, may also use their own cookies. If you wish to prevent certain or all cookies from being set to your hard drive you may disable them in your browser's preferences, although your browser might then be unable to accommodate certain functionalities on NPR.org.
 <br><br>
 <b>Use of Information</b>
 <br>
-The use of personally-identifying information is limited to the following: responding to user e-mails; fulfillment of transcript and/or audio CD orders; fulfillment of NPR Online Shop orders; contest management; editorial purposes such as contacting users for an online survey; sending communications, including marketing and promotional communications, from NPR or NPR member stations to users who have “opted in” to the receipt of such communications; other internal NPR or NPR member station purposes; and other purposes specified at the time the information is gathered.
+The use of personally-identifying information is limited to the following: responding to user e-mails; listing name and location (city, state and/or country) information provided by users when publishing user e-mails or other submissions; fulfillment of transcript and/or audio CD orders; fulfillment of NPR Online Shop orders; contest management; editorial purposes such as contacting users for an online survey; sending communications, including marketing and promotional communications, from NPR or NPR member stations to users who have 'opted in' to the receipt of such communications; other internal NPR or NPR member station purposes; and other purposes specified at the time the information is gathered. 
 <br><br>
-Any information that you disclose when participating in the Discussions becomes public.  Moreover, by participating in the Discussions, your e-mail address becomes available to any third parties accessing our Web site and as a result, you may receive unsolicited e-mail from such third parties.
+Any information that you disclose when participating in the NPR Discussions or Chat Forums becomes public. Moreover, by participating in the NPR Discussions and Chat Forums, the e-mail address you provide for such purpose becomes available to any third parties accessing our Web site and as a result, you may receive unsolicited e-mail from such third parties. 
 <br><br>
-Personally-identifying information collected by NPR is not provided to outside parties except NPR member stations, NPR service vendors (such as NPR’s transcript and audio CD fulfillment service, the NPR Online Shop fulfillment service, and NPR’s list manager), and other third parties when the user specifically consents to such distribution.  In these circumstances, the information is provided for the sole purpose of – and only to the extent necessary for -- delivering the requested transcript, audio CD, or goods to the user, delivering communications from NPR or NPR member stations to users who have “opted in” to the receipt of these communications, or serving other internal NPR or NPR member station purposes.
+In addition, if you send an e-mail, story idea, essay and/or other submission ("Submission") to NPR through our Web site, we may print that Submission, or an excerpt from it, on the NPR Web site, read it on air, or otherwise publish it in any other medium, together with your name and location (city, state and/or country) if you provide that information to us.  
 <br><br>
-NPR also may disclose personal information if required to do so by law or if it believes that such action is necessary to (a) comply with the law or with legal process, (b) protect against misuse or unauthorized use of the NPR Web site, or (c) protect the personal safety or property of NPR Web site users, the public or NPR and its employees.
+Personally-identifying information collected by NPR is not provided to outside parties except NPR member stations, NPR service vendors (such as NPR's transcript and audio CD fulfillment service, the NPR Online Shop fulfillment service, and NPR's email list manager), and other third parties when the user specifically consents to such distribution. In these circumstances, the information is provided for the sole purpose of -- and only to the extent necessary for -- delivering the requested transcript, audio CD, or goods to the user, delivering communications from NPR or NPR member stations to users who have 'opted in' to the receipt of these communications, or serving other internal NPR or NPR member station purposes. 
 <br><br>
-If you do not want your personally-identifying information to be collected or used for any of these purposes, you can simply “opt out” according to the process described below.
+NPR also may disclose personal information if required to do so by law or if it believes that such action is necessary to (a) comply with the law or with legal process, (b) protect against misuse or unauthorized use of the NPR Web site, or (c) protect the personal safety or property of NPR Web site users, the public or NPR and its employees. 
 <br><br>
-NPR uses non-identifying aggregate information to analyze use of and better design the NPR Web site and to share with third parties in aggregate form only as appropriate.  For example, we may tell a third party that a certain number of users accessed a particular audio stream on our Web site.  However, we will not disclose any information that could be used to identify those users.
+If you do not want your personally-identifying information to be collected or used for any of these purposes, you can simply 'opt out' according to the process described below. 
+<br><br>
+NPR uses non-identifying aggregate information to analyze use of and better design the NPR Web site and to share with third parties in aggregate form only as appropriate. For example, we may tell a third party that a certain number of users accessed a particular audio stream on our Web site. However, we will not disclose any information that could be used to identify those users. 
 <br><br>
 <b>Security</b>
 <br>
-NPR has in place what we believe to be appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.  Credit card information provided to the NPR Online Shop is protected against unauthorized use by 128-bit encryption and Secure Sockets Layer (SSL) security features, which scramble your personal information so that only your web browser and our Web site's server can decipher it.
+NPR has in place what we believe to be appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Credit card information provided to the NPR Online Shop is protected against unauthorized use by 128-bit encryption and Secure Sockets Layer (SSL) security features, which scramble your personal information so that only your web browser and our Web site's server can decipher it. 
 <br><br>
 <b>Children</b>
 <br>
-Under 13: You must be at least 13 years old in order to register for the Discussions, order NPR CDs and transcripts, or place an order on the NPR Online Shop. If you are under 13 years of age, please do not send any information about yourself, including your name, address or e-mail address. If we discover that we have collected any personally-identifying information from a child under the age of 13, we will remove that information from our database as soon as possible.
+Under 13: You must be at least 13 years old in order to register for the Discussions, order NPR CDs and transcripts, or place an order on the NPR Online Shop. If you are under 13 years of age, please do not send any information about yourself, including your name, address or e-mail address. If we discover that we have collected any personally-identifying information from a child under the age of 13, we will remove that information from our database as soon as possible. 
 <br><br>
-13 -18: Unless otherwise specified, you must be a least 18 years old in order to participate in any online contests. Visitors between the ages of 13 and 18 must obtain permission from their parents or guardians before registering for the Discussions, ordering NPR CDs or transcripts, placing an order on the NPR Online Shop, or otherwise sending any personally-identifying information.
-<br><br>
+13-18: Unless otherwise specified, you must be at least 18 years old in order to participate in any online contests. Visitors between the ages of 13 and 18 must obtain permission from their parents or guardians before registering for the Discussions, ordering NPR CDs or transcripts, placing an order on the NPR Online Shop, or otherwise sending any personally-identifying information. 
+ <br><br>
 <b>Corrections to Personal Data; Opting Out</b>
 <br>
-Please contact <a href="/contact/onlinehelp.html">NPR Online Help</a> to a) correct or update any personal information in the NPR database that you state is erroneous, b) opt-out of future communications from NPR or c) request NPR to make reasonable efforts to remove your personal information from the NPR Online database, thereby canceling your Discussions registration.
-The user understands that it may be impossible to delete personal information entirely because of backups and records of deletions.
+Please <a href="/contact/">Contact Us</a> to a) correct or update any personal information in the NPR database that you state is erroneous, b) opt-out of future communications from NPR or c) request NPR to make reasonable efforts to remove your personal information from the NPR Online database, thereby canceling your NPR Discussions registration. The user understands that it may be impossible to delete personal information entirely because of backups and records of deletions. 
 <br><br>
 <b>Acceptance of Privacy Policy Terms</b>
 <br>
-NPR reserves the right to change this policy. Any changes to this policy will be posted to this page as soon as reasonably possible, so please check this page periodically. Use of the NPR Web site constitutes consent to any policy then in effect.   Please make sure that you read NPR’s Terms of Use to understand additional terms and conditions which apply to the use of our Web site.
+NPR reserves the right to change this policy. Any changes to this policy will be posted to this page as soon as reasonably possible, so please check this page periodically. Use of the NPR Web site constitutes consent to any policy then in effect. Please make sure that you read NPR's Terms of Use to understand additional terms and conditions which apply to the use of our Web site. 
 <br><br>
-If you have any questions or comments concerning our privacy policy, please contact us via e-mail from <a href="/contact/onlinehelp.html">NPR Online Help</a> or by mail at:
+If you have any questions or comments concerning our privacy policy, please <a href="/contact/">Contact Us</a> via e-mail or send a letter to:
 <br><br>
 National Public Radio, Inc.<br>
 635 Massachusetts Avenue, N.W.<br>
 Washington, DC 20001-3753
 <br><br>
 <b>Links to other Sites</b>
-<br><br>
-It is important to note that the NPR Web site contains links to other sites that may not follow the same privacy policies as the NPR Web site. For instance, clicking on a sponsorship notice on npr.org will take you to an entirely different site. These sites may use cookies, collect data, and use the data in ways that npr.org would not. NPR is not responsible for the privacy practices or any information or materials on these other sites.  Please visit these sites if you wish to review their privacy policies.
+<br>
+It is important to note that the NPR Web site contains links to other sites that may not follow the same privacy policies as the NPR Web site. For instance, clicking on a sponsorship notice on npr.org will take you to an entirely different site. These sites may use cookies, collect data, and use the data in ways that npr.org would not. NPR is not responsible for the privacy practices or any information or materials on these other sites. Please visit these sites if you wish to review their privacy policies. 
 <br><br>
 </p>
 
