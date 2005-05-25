@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the limos.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204031617id_/http%3A//www.limos.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limos.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525105057id_/http%3A//www.limos.com/info_PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # * Limousine Service & Limo Rentals at Limos.com!
 
@@ -9,22 +9,22 @@
 _  
 _ "Since we opened our business, we've done 8503 trips; 1204 resulted from Limos.Com. Our revenue that has resulted from Limos.com is a total of $308,548.00"   
 Abrianna Limousine, IL  
-__[Book more limo jobs!](https://web.archive.org/web/20041204031617id_/http%3A//www.limos.com/join_home.asp)
+__[Book more limo jobs!](https://web.archive.org/web/20050525105057id_/http%3A//www.limos.com/join_home.asp)
 
 _  
 _ Own a website?  Offer your users limousine service and earn big commissions!  
-__[Limo affiliate program!](https://web.archive.org/web/20041204031617id_/http%3A//www.limos.com/aff_join.asp)
+__[Limo affiliate program!](https://web.archive.org/web/20050525105057id_/http%3A//www.limos.com/aff_join.asp)
 
-[](http://www.limoforsale.com/)
+[](http://www.limelitelimo.com/site/car_category_menu.php?h=usedcar)
 
 [](http://www.mtgparts.com/)
 
 [](http://www.jwdlimosales.com/)
 
-Copyright 1997-2004  
+Copyright 1997-2005  
 Viperion Corporation, Phoenix AZ  
-[Index](https://web.archive.org/web/20041204031617id_/http%3A//www.limos.com/index.html) ~ [Legal](https://web.archive.org/web/20041204031617id_/http%3A//www.limos.com/info_TermsofService.asp) ~ [Privacy](https://web.archive.org/web/20041204031617id_/http%3A//www.limos.com/info_privacypolicy.asp)  
-192 users onboard!   
+[Limo](http://www.limos.com/limo_rental_directory.html) ~ [Legal](https://web.archive.org/web/20050525105057id_/http%3A//www.limos.com/info_TermsofService.asp) ~ [Privacy](https://web.archive.org/web/20050525105057id_/http%3A//www.limos.com/info_privacypolicy.asp)  
+79 users onboard!   
   
    
 |   |   
