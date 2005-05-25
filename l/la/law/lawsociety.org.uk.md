@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawsociety.org.uk privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209013534id_/http%3A//www.lawsociety.org.uk/privacystatement.law) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawsociety.org.uk privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525053957id_/http%3A//www.lawsociety.org.uk/privacystatement.law) for the most accurate reproduction.*
 
 # Law Society of England and Wales - Privacy statement
 
