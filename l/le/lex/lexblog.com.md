@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lexblog.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206105857id_/http%3A//www.lexblog.com/legal-35-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexblog.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525102709id_/http%3A//www.lexblog.com/legal-35-privacy-policy.html) for the most accurate reproduction.*
 
-# LexBlog :: Lawyer Blogs for Law Firm MarketingLawyer Values Blog Customers
+# Law Blogs By LexBlog :: Privacy Policy
 
 lexBlog, Inc. values the privacy of our customers, vendors, suppliers and  
 any individuals with whom we do business. Any of the following personal information that may be made available to lexBlog when browsing or navigating our Web site shall be kept confidential:  
