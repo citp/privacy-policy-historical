@@ -1,8 +1,63 @@
-> *The following text is extracted and transformed from the livedaily.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204040225id_/http%3A//livedaily.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livedaily.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525110119id_/http%3A//www.livedaily.com/privacy.html) for the most accurate reproduction.*
 
 # liveDaily
 
+|  |  |  |   
+---|---|---  
+Search |   
 |  |   
+---  
+liveDaily Ticket Report |   
+  
+
+
+Our daily preview of what's going onsale at Ticketmaster.
+
+[more>](http://www.livedaily.com/onsale/)  
+
+
+|   
+[](https://web.archive.org/onsale/) |   
+|   
+| [The Rolling Stones](https://web.archive.org/onsale/archive/1081-1.html)  
+|   
+| [Tom Jones](https://web.archive.org/onsale/archive/1081-2.html)  
+|   
+| [Lynyrd Skynyrd](https://web.archive.org/onsale/archive/1081-3.html)  
+|   
+| [Moody Blues](https://web.archive.org/onsale/archive/1081-4.html)  
+|   
+| [Rascal Flatts](https://web.archive.org/onsale/archive/1081-5.html)  
+|   
+| [Blues Brothers](https://web.archive.org/onsale/archive/1081-6.html)  
+|   
+| [Duran Duran](https://web.archive.org/onsale/archive/1081-7.html)  
+|   
+| [Gipsy Kings](https://web.archive.org/onsale/archive/1081-8.html)  
+|   
+| [Engelbert Humperdinck](https://web.archive.org/onsale/archive/1081-9.html)  
+|   
+| [Oasis](https://web.archive.org/onsale/archive/1081-10.html)  
+|   
+| [Hootie and the Blowfish](https://web.archive.org/onsale/archive/1081-11.html)  
+|   
+| [Coldplay](https://web.archive.org/onsale/archive/1081-12.html)  
+|   
+| [Kelly Clarkson](https://web.archive.org/onsale/archive/1081-13.html)  
+|   
+| [Anne Murray](https://web.archive.org/onsale/archive/1081-14.html)  
+|   
+| [Jewel](https://web.archive.org/onsale/archive/1081-15.html)  
+|   
+| [see more](http://www.livedaily.com/onsale/)  
+|   
+|   
+|  |  |   
+  
+  
+|   
+---|---  
+|  |  |   
 ---  
 Privacy Policy  
 | **liveDaily Privacy Policy**  
@@ -50,4 +105,15 @@ liveDaily.com, c/o Legal Department
 8800 West Sunset Boulevard  
 West Hollywood, CA 90069  
   
-|  | 
+|  |   
+  
+[FAQ](https://web.archive.org/faq.html) | [liveDaily newsletter](http://www.livedaily.com/newsletter/) | [ticketAlert](https://web.archive.org/faq.html) | [Contact Us](http://www.livedaily.com/mail/staff/0.html) | [Advertise With Us](http://www.livedaily.com/mail/staff/0.html)  
+[Privacy Policy](https://web.archive.org/privacy.html) | [Content Syndication](http://www.livedaily.com/rss/)
+
+© 1998 - 2004 Ticketmaster. All rights reserved.   
+  
+partner sites:  [Citysearch](http://www.citysearch.com/)  [ClassicVacations.com](http://www.classicvacations.com/)  [CondoSaver.com](http://www.condosaver.com/)    
+[Entertainment.com](http://www.entertainment.com/)  [Evite](http://www.evite.com/)  [Expedia](http://www.expedia.com/)  [Gifts.com](http://www.gifts.com/)  [Hotels.com](http://www.hotels.com/)  [Hotwire](http://www.hotwire.com/)  [HSN ](http://www.hsn.com/)  [  
+ImprovementsCatalog.com](http://www.improvementscatalog.com/)  [LendingTree](http://www.lendingtree.com/)  [Match.com](http://www.match.com/)  [RealEstate.com](http://www.realestate.com/)    
+[ReserveAmerica](http://www.reserveamerica.com/)  [Ticketmaster](http://www.ticketmaster.com/)  [TicketWeb](http://www.ticketweb.com/)   [TripAdvisor](http://www.tripadvisor.com/)  [liveDaily Weblog](http://talk.livedaily.com/blog/)  
+
