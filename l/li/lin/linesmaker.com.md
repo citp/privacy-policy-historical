@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linesmaker.com privacy policy that was archived on 2004-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041229205922id_/http%3A//linesmaker.com/support/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linesmaker.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525095738id_/http%3A//linesmaker.com/support/privacy.htm) for the most accurate reproduction.*
 
-# LinesMaker.com: Get your lines and make your bet.
+# LinesMaker.com: Protecting your privacy.
 
   
 LinesMaker is 100% committed to protecting your privacy. The following discloses the information we gather and why. Equally important, we disclose what we will NOT do with information gathered. 
