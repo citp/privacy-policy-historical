@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the lightreading.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207052304id_/http%3A//www.lightreading.com/document.asp%3Fdoc_id%3D4503) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightreading.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525190344id_/http%3A//www.lightreading.com/document.asp%3Fdoc_id%3D4503) for the most accurate reproduction.*
 
 # Light Reading - Networking the Telecom Industry
 
-[](https://web.archive.org/) |  |    
-
-
-* * *
-
+|  |  | [](https://web.archive.org/) |   
+---|---  
+|   
+---  
+  
 **Light Reading, Inc.** ("Light Reading") is committed to your privacy. We created this privacy policy ("Privacy Policy") to inform you of our information gathering and dissemination practices for [www.lightreading.com](http://www.lightreading.com/), [www.byteandswitch.com](http://www.byteandswitch.com/), [www.unstrung.com](http://www.unstrung.com/), and [www.boardwatch.com](http://www.boardwatch.com/) (collectively known as the "Site"). You can generally visit our Sites without revealing any personal information about yourself. However, when you engage in certain activities on the Sites, such as registering to subscribe to one of the Light Reading newsletters or to participate on the message boards, we may ask you to provide certain information that is personally identifiable.
 
 **Acquisition of Information**  
@@ -35,22 +35,47 @@ Because Light Reading cannot predict, control or be responsible for information 
 Light Reading uses good faith efforts to limit our employees’ access to your personally identifiable information to the amount reasonably required to provide prompt, high quality service.
 
 **Update Your Profile**  
-Please help us to provide you with the highest quality and most efficient service by ensuring that your registration profile is current and complete. To edit your profile, visit our [User Preferences](https://web.archive.org/web/20041207052304id_/http%3A//www.lightreading.com/register/user_lists.asp) page.
+Please help us to provide you with the highest quality and most efficient service by ensuring that your registration profile is current and complete. To edit your profile, visit our [User Preferences](https://web.archive.org/web/20050525190344id_/http%3A//www.lightreading.com/register/user_lists.asp) page.
 
-Due to the Internet’s rapidly evolving nature, Light Reading may need to update this Privacy Policy from time to time. If so, Light Reading will post its updated policy at [www.lightreading.com](https://web.archive.org/web/20041207052304id_/http%3A//www.lightreading.com/document.asp?doc_id=4503). Light Reading encourages you to review this Privacy Policy regularly for any changes.
+Due to the Internet’s rapidly evolving nature, Light Reading may need to update this Privacy Policy from time to time. If so, Light Reading will post its updated policy at [www.lightreading.com](https://web.archive.org/web/20050525190344id_/http%3A//www.lightreading.com/document.asp?doc_id=4503). Light Reading encourages you to review this Privacy Policy regularly for any changes.
 
 **Questions?**  
-If you have any questions or suggestions about our privacy or security policies, please feel free to contact us at [support@lightreading.com](mailto:support@lightreading.com).
-
-* * *
-
-|   |  |  |   
+If you have any questions or suggestions about our privacy or security policies, please feel free to contact us at [support@lightreading.com](mailto:support@lightreading.com).  
   
-  
-  
-  
-  
-[](http://www.next-gendatacenterforum.com/)   
-[](https://web.archive.org/webinars.asp)   
-[](https://web.archive.org/lru/default.asp)   
-[](https://web.archive.org/document.asp?doc_id=24110)
+|  |  |  |   
+---  
+MAY 25, 2005  
+| [](https://web.archive.org/feedback/) |  | [](https://web.archive.org/login.asp) |  | [](mailto:support@lightreading.com)  
+---|---|---|---|---  
+[](https://web.archive.org/webinars.asp)  
+[](https://web.archive.org/live/)  
+[](http://www.heavyreading.com/)  
+[](https://web.archive.org/library.asp?show_type=wp&view_type=browse)  
+[](https://web.archive.org/library.asp?show_type=cs&view_type=browse)  
+[](https://web.archive.org/proddir/)  
+[](https://web.archive.org/blogs.asp)  
+[](https://web.archive.org/register.asp)  
+[](http://www.lightreading.com/ad_redirect.asp?ad_version=2&ad_id=3794&ad_url=http%3A%2F%2Fwww%2Elightreading%2Ecom%2Fsupercomm)  
+[](http://www.lightreading.com/ad_redirect.asp?ad_version=2&ad_id=3796&ad_url=http%3A%2F%2Fwww%2Elightreading%2Ecom%2Flive%2Fdefault%2Easp%3Fsurvey%5Fid%3D109)  
+|   
+---  
+|  |  |   
+---  
+DATE: Monday, June 06, 2005  
+LOCATION: Intercontinental Hotel, Chicago  
+EVENT: Service Delivery Platforms 2005  
+[MORE INFO](https://web.archive.org/live/event_information.asp?survey_id=109)  
+DATE: Tuesday, June 28, 2005  
+LOCATION: Vinopolis, London  
+EVENT: The Future of Carrier-Class Ethernet - London  
+[MORE INFO](https://web.archive.org/live/event_information.asp?survey_id=103)  
+DATE: Thursday, June 30, 2005  
+LOCATION: Hotel Fira Palace, Barcelona  
+EVENT: The Future of Carrier-Class Ethernet - Barcelona  
+[MORE INFO](https://web.archive.org/live/event_information.asp?survey_id=104)  
+DATE: Wednesday, September 07, 2005  
+LOCATION: Olympia Conference Centre, London  
+EVENT: The Future of Telecom - Europe 2005  
+[MORE INFO](https://web.archive.org/live/event_information.asp?survey_id=101)  
+[MORE EVENTS](https://web.archive.org/live/)  
+| 
