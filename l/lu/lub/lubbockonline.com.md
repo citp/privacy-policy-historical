@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lubbockonline.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207032831id_/http%3A//lubbockonline.com/housekeeping/about_us.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lubbockonline.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525135133id_/http%3A//lubbockonline.com/housekeeping/about_us.shtml) for the most accurate reproduction.*
 
 # LubbockOnline.com
 
@@ -86,12 +86,11 @@ Contacting LubbockOnline.com
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
-_Bob Barth  
-Director, Online Services  
+_Webmaster  
 The Lubbock Avalanche-Journal  
 710 Ave. J  
-Lubbock, Texas 79401  
-[bob.barth@lubbockonline.com](mailto:bob.barth@lubbockonline.com)_
+Lubbock, Texas 79401_  
+[webmaster@lubbockonline.com](mailto:webmaster@lubbockonline.com)
 
 * * *
 
