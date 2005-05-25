@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lizclaiborne.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009233915id_/http%3A//www.lizclaiborne.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lizclaiborne.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525114147id_/http%3A//www.lizclaiborne.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
 
-# liz claiborne Helpdesk
+# Liz Claiborne Helpdesk
 
 [](https://web.archive.org/helpdesk/index.jsp) **Privacy Policy**
 
