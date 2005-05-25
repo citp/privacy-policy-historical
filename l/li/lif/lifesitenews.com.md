@@ -1,22 +1,10 @@
-> *The following text is extracted and transformed from the lifesitenews.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204095238id_/http%3A//www.lifesite.net/aboutlifesite/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifesitenews.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525084036id_/http%3A//www.lifesite.net/aboutlifesite/privacy.html) for the most accurate reproduction.*
 
 # LifeSite - Your Life, Family and Culture Outpost
 
-|  | [](http://www.lifesite.net/) |   
----|---|---  
-  |  |    
-  |  |    
-| 
-
-  * [Dec Interim Plus - Christmas ](http://www.theinterim.com/interimplus/2004/Dec04Interimplus.pdf)
-  * [Abortion Methods ](http://www.campaignlifecoalition.com/abortion_types/index.html)
-  * [CLC December National News ](http://www.campaignlifecoalition.com/national_news/2004/news_1204.html)
-
-|   
-  
   * [Crisis Pregnancy Support](http://www.lifesite.net/gethelp/pregnancysupport/)
 
-
+| 
 
 LifeSite.Net has drafted this document, which details how we gather and disseminate information, in an effort to demonstrate our strong commitment to online privacy. Please contact us if you have any questions about our privacy policy. 
 
@@ -58,102 +46,64 @@ If you have any additional questions or concerns about our privacy policy, pleas
 ### Breaking News
 
 Last Updated  
-Sat Dec 4, 12:13 AM ET
+2005-05-24 08:18:05 ET
 
-[Another Senator Calls for a Koffi Break at UN ](http://www.cnsnews.com//ViewNation.asp?Page=\\Nation\\archive\\200412\\NAT20041203c.html)
+[AFA ends Disney boycott ](http://www.afa.net/disney/default.asp)
 
-[Whistler touted as gay-friendly resort ](http://www.canada.com/vancouver/story.html?id=c948d6a9-b9fa-4f1a-833e-787961b28c13)
+[Group Says, 'You Can't be Catholic And be Pro-Abortion' ](http://www.family.org/cforum/fnif/news/a0036631.cfm)
 
-["Merry Christmas" to stay on Denver city hall ](http://www.denverpost.com/Stories/0,1413,36~53~2572427,00.html)
+[Concerned Mass. Parents Mobilizing to Battle Homosexual Agenda in Schools ](http://headlines.agapepress.org/archive/5/afa/242005d.asp)
 
-[Principal Apologizes for Satire on Political Correctness Against Prayer ](http://www.newsmax.com/archives/ic/2004/12/3/100549.shtml)
+[Shocking News: U.S. Court of Appeals Upholds the Law ](http://www.cwfa.org/articles/8211/LEGAL/freedom/index.htm)
 
-[Pro-Life Dems Seek Better Seat at Table ](http://www.foxnews.com/story/0,2933,140347,00.html)
+[What the ‘Average Joe’ Can Do About Porn…and Why ](http://www.cwfa.org/articles/8210/LEGAL/pornography/index.htm)
 
-[Big Biotech's Voracious Appetite ](http://www.weeklystandard.com/Content/Public/Articles/000/000/004/927njvqm.asp)
+[Nuclear Option May Still Be Invoked, Frist Says ](http://www.cnsnews.com//ViewPolitics.asp?Page=\\Politics\\archive\\200505\\POL20050524b.html)
 
-[Noxious Nitschke: Euthanasia advocates work to make suicide easy ](http://www.nationalreview.com/smithw/smith200411150826.asp)
+[Senate Deal Tells Bush to Consult Before Nominating ](http://www.cnsnews.com//ViewNation.asp?Page=\\Nation\\archive\\200505\\NAT20050524b.html)
 
-[Russia, China, Britain Rally to Back Annan ](http://www.newsmax.com/archives/articles/2004/12/3/103238.shtml)
+[Filibuster agreement: A Standard that Must Be Followed ](http://www.frc.org/get.cfm?i=PR05E09)
 
-[Bush stands by 'gays' in military policy ](http://www.worldnetdaily.com/news/article.asp?ARTICLE_ID=41741)
+[Child Population Dwindles in San Francisco ](http://news.yahoo.com/s/ap/20050524/ap_on_re_us/disappearing_kids_1)
 
-[Liberal professors routinely harass conservative students ](http://www.opinionjournal.com/taste/?id=110005976)
+[Pennsylvania Supreme Court Considering Case on Sperm Donors' Responsibility to Future Offspring ](http://www.post-gazette.com/pg/05140/507736.stm)
 
-[Today's female stars reveal 59% of their bodies to media flashbulbs - up from only 7% in the 1970s ](http://www.canada.com/national/nationalpost/news/story.html?id=7d32b2ac-9020-44ed-b827-bbcdc037150c)
+[Radio Shock Jock Holds Abortion 'Contest' ](http://www.catholic.org/featured/headline.php?ID=2181)
 
-[NY School Bus Driver Fired Over Stem Cell Talk ](http://www.reuters.com/newsArticle.jhtml?type=scienceNews&storyID=6983360)
+[Investigation into case of abandoned Toronto newborn stalled by holiday ](http://story.news.yahoo.com/s/cpress/20050523/ca_pr_on_na/tto_found_baby)
 
-[NPR Reporter Says Christians Should 'Burn' ](http://www.family.org/cforum/fnif/news/a0034773.cfm)
+[Governor Bush was in daily contact with lawmakers over Schiavo, e-mails show ](http://www.palmbeachpost.com/state/content/state/epaper/2005/05/24/a9a_schiavo_0524.html)
 
-[A California congressman's report criticizing teaching kids to be abstain from sex is hardly a surprise to family advocates ](http://www.family.org/cforum/fnif/news/a0034775.cfm)
+[Anti-Christian Bigot Made Department Head at Prestigious Brooklyn College ](http://www.nydailynews.com/front/story/312245p-266952c.html)
 
-[60 Minutes Report on Christian Rock ](http://www.cbsnews.com/stories/2004/12/01/60II/main658590.shtml)
+[Conservative Fury Greets 'Centrist Deal' on Filibusters ](http://www.cnsnews.com/ViewNation.asp?Page=/Nation/archive/200505/NAT20050524a.html)
 
-[Dwindling Freemasons hope to attract new blood ](http://www.usatoday.com/life/2004-11-30-freemasons_x.htm)
+[Worse than Belinda ](http://www.canoe.ca/NewsStand/Columnists/Calgary/Ezra_Levant/2005/05/23/1052244.html)
 
-[Eggs 'Fertilised' Without Sperm ](http://news.bbc.co.uk/2/hi/health/4061477.stm)
+[Vatican: No plans for Investigation of Legionaries of Christ founder ](http://www.myrtlebeachonline.com/mld/myrtlebeachonline/news/world/11717549.htm)
 
-[The more you study Alfred Kinsey, the more you realize that he was not a scientist but the Marquis de Sade with a research team ](http://www.mensnewsdaily.com/archive/c-e/duke/2004/duke120204.htm)
+[Annan out, Bill Clinton in at U.N.? ](http://www.newsmax.com/archives/ic/2005/5/23/134605.shtml)
 
-[Bizarre mendatory mental health screening program to make Illinois act like Big Brother ](http://www.newstarget.com/002574.html)
+[Pope may visit Canada in 2008 ](http://www.canada.com/national/nationalpost/news/story.html?id=11f843dc-2c86-4fc1-a028-79b413d5980f)
 
-[NARAL Leader May Have Exaggerated Abortion Feud With Church ](http://www.cnsnews.com/ViewCulture.asp?Page=%5CCulture%5Carchive%5C200412%5C)
+[Oregon Senate Approves Bill That Would Allow Abortion Causing Morning After Pill To Be Sold Without Doctor's Prescription ](http://www.gazettetimes.com/articles/2005/05/18/news/oregon/wedsta03.txt)
 
-[NARAL Leader May Have Exaggerated Abortion Feud With Church ](https://web.archive.org/web/20041204095238id_/http%3A//www.lifesite.net/aboutlifesite/CUL20041203a.html)
+[California Requiring Abortion Parental Notification on Next Ballot ](http://www.sacbee.com/content/politics/story/12905960p-13754473c.html)
 
-[Conservatives Hit Waxman for Report Blasting Abstinence-Only Sex Ed ](http://www.cnsnews.com/ViewNation.asp?Page=%5CNation%5Carchive%5C200412%5CNA)
+[Texas House Approves Bill Requiring Parental Consent, Restricting Access to Third-Trimester Abortion ](http://www.chron.com/cs/CDA/ssistory.mpl/metropolitan/3184969)
 
-[Conservatives Hit Waxman for Report Blasting Abstinence-Only Sex Ed ](https://web.archive.org/web/20041204095238id_/http%3A//www.lifesite.net/aboutlifesite/T20041202c.html)
+[Survey finds almost two-thirds of women have had a one-night stand, but nearly all of them regret it ](http://news.scotsman.com/uk.cfm?id=536422005)
 
-[Methodist Jury Convicts Lesbian Minister ](http://apnews.myway.com/article/20041202/D86NN7RO1.html)
+[No Repercussions For St Paul-Minneapolis Parish That Allowed Homosexual Activists Communion ](http://www.365gay.com/newscon05/05/051705minnRC.htm)
 
-[AP abortion poll misleads respondents ](http://www.worldnetdaily.com/news/article.asp?ARTICLE_ID=41739)
+[Maltese population strongly agrees that abortion is merely murdering the innocent ](http://www.di-ve.com/dive/portal/portal.jhtml?id=183268&pid=1)
 
-[U.N. Rejects Call for Annan's Resignation ](http://hosted.ap.org/dynamic/stories/U/UN_ANNAN_UNDER_FIRE?SITE=DCTMS&SECTION=HOME)
+[Kansas woman severely brain-injured after an accident in 2002 has begun speaking - to the amazement of her doctor ](http://wnd.com/news/article.asp?ARTICLE_ID=44244)
 
-[No decrease in U.S. HIV cases in last ten years ](http://www.cnn.com/2004/HEALTH/conditions/12/02/hiv.infections.ap/index.html)
+[Michigan Senate Approves Bills That Would Prohibit Public Funding for Embryonic Stem Cell Research, Human Cloning ](http://www.freep.com/news/statewire/sw115710_20050512.htm)
 
-[Macy's stores boycotted for replacing 'Christmas' ](http://www.worldnetdaily.com/news/article.asp?ARTICLE_ID=41700)
+[Oklahoma House Approves Bill That Would Require Abortion Informed Consent, Parental Notification ](http://newsok.com/article/1498744/?template=news/main)
 
-[Kofi Annan Circles the Wagons ](http://www.newsmax.com/archives/articles/2004/12/2/132527.shtml)
+[Oregon House Approves Bill Establishing Criminal Charges for Harming Fetus During Attack on Pregnant Woman ](http://www.katu.com/news/story.asp?ID=77111)
 
-[Bishops Again Postpone Statement on Catholics in Public Life ](http://www.ncregister.com/current/1128lead3.htm)
-
-[Meteorologist Likens Fear of Global Warming to 'Religious Belief' ](http://www.cnsnews.com//ViewCulture.asp?Page=\\Culture\\archive\\200412\\CUL20041202a.html)
-
-[There Is NO Man-Made Global Warming ](http://www.cnsnews.com//ViewCommentary.asp?Page=\\Commentary\\archive\\200412\\COM20041202d.html)
-
-[Microsoft sues 7 more alleged spammers ](http://news.com.com/Microsoft+sues+more+alleged+spammers/2100-7348_3-5474585.html?tag=nefd.top)
-
-[Senate Subcommittee Hears Experts on Pornography Toxicity ](http://www.cwfa.org/articles/6946/LEGAL/pornography/index.htm)
-
-[Mental health warning for cannabis users ](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2004/12/02/npot02.xml&sSheet=/news/2004/12/02/ixnewstop.html)
-
-[Census Bureau shows Americans Getting Married Later in life ](http://www.foxnews.com/story/0,2933,140220,00.html)
-
-[Legal Group Launches Nat'l Campaign to End Filibustering in Senate ](http://www.worldnetdaily.com/news/article.asp?ARTICLE_ID=41720)
-
-[Denver Not Allowing Christian Religious Groups or Symbols in Annual Christmas Parade ](http://www.worldnetdaily.com/news/article.asp?ARTICLE_ID=41724)
-
-[Conservative Women's Group Gets U.S. Federal Money to Combat Sex Trafficking ](http://www.cnsnews.com//ViewCulture.asp?Page=\\Culture\\archive\\200412\\CUL20041201b.html)
-
-[Europe's Population to fall 100 Million in 50 years ](http://www.timesonline.co.uk/article/0,,3-1381238,00.html)
-
-[Senator Wants UN Secretary-General Kofi Annan to Step Down ](http://www.cnsnews.com//ViewPolitics.asp?Page=\\Politics\\archive\\200412\\POL20041201a.html)
-
-[Abortion Film Sweeps British Film Awards ](http://au.news.yahoo.com/041201/11/rzhx.html)
-
-[Social issues divide Canadians, Americans: poll ](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/1101852076952_97261276?hub=Canada)
-
-[Mother carrying 'designer baby' ](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/4050989.stm)
-
-[Sharon Osbourne reveals that she had an abortion as a teenager: ](http://www.newkerala.com/news-daily/news/features.php?action=fullnews&id=44850)
-
-[Woman's Corpse Stolen in Animal Rights Protest ](http://www.timesonline.co.uk/article/0,,2-1382578,00.html)
-
-[HIV, AIDS Cases Rise Among U.S. Gay, Bisexual Men ](http://reuters.myway.com/article/20041201/2004-12-01T184723Z_01_N01173960_RTRIDST_0_NEWS-AIDS-CASES-DC.html)
-
-[Cannabis raises risk of psychosis ](http://news.bbc.co.uk/2/hi/health/4052963.stm)
-
-[Bioethics Journal Charges Lancet, Scientific Community with Cancer Cover Up ](http://www.abortionbreastcancer.com/start/)
+[Michigan Boy Charged With Felony for Helping Girlfriend End Pregnancy Cannot Use Girl's Consent as Defense ](http://www.freep.com/news/locmac/bat13e_20050513.htm)
