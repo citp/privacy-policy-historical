@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lfpress.ca privacy policy that was archived on 2004-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041223174219id_/http%3A//www.lfpress.com/cgi-bin/publish.pl%3Fs%3Daboutus%26h%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lfpress.ca privacy policy that was archived on 2005-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050525110427id_/http%3A//www.lfpress.com/cgi-bin/publish.pl%3Fs%3Daboutus%26h%3Dprivacy) for the most accurate reproduction.-->
 
 <html><head>
 <title>London Free Press: About Us</title>
@@ -27,54 +27,63 @@
 </head>
 
 <body bgcolor="ffffff" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr> 
-<form name="guidecanoe"></form>
-      <td width="305" height="24" bgcolor="#000000"><img src="/images/lfpress_2003/canoe_net2.gif" width="305" height="14" border="0" usemap="#canoe_net2.gif" alt="Canoe.ca: Canadian Online Explorer"></td>
-      <td width="233" align="right" bgcolor="#000000">
- <select name="navigator" class="dropdown" onchange="window.location=document.guidecanoe.navigator.options[document.guidecanoe.navigator.selectedIndex].value">
- <option selected="" value="javascript:void(0)">Inside CANOE.CA 
-</option><option value="http://slam.canoe.ca">SLAM! Sports</option>
-<option value="http://jam.canoe.ca/Jam/">Jam! Showbiz</option>
-<option value="http://cnews.canoe.ca/">CNEWS</option>
-<option value="http://allpop.canoe.ca">AllPop</option>
-<option value="http://money.canoe.ca">Canoe Money</option>
-<option value="http://chealth.canoe.ca">C-Health</option>
-<option value="http://lifewise.canoe.ca/">Lifewise</option>
-<option value="http://www.canoe.ca/HomeGarden/">Home &amp; Garden</option>
-<option value="http://autonet.ca/">AUTONET.CA</option>
-<option value="http://www.canoe.ca/PlanetSun/home.html">Newsstand</option>
-<option value="http://travel.canoe.ca/">Travel</option>
-<option value="http://www.canoe.qc.ca/">En Français </option>
-<option value="javascript:void(0)">------------</option>
-<option value="http://adfarm.mediaplex.com/ad/ck/706-4357-6868-48?canoe=dropdowntext">Search eBay.ca</option>
-<option value="http://www.canoe.ca/CanoeMail/home.html">Free E-Mail</option>
-<option value="http://www.canoe.ca/Paramount/shop_transition_ad.html">Shop.canoe.ca</option>
-<option value="http://www.canoe.ca/CareerConnection/">CareerConnection</option>
-<option value="http://www.classifiedextra.com/">Classified Extra</option>
-<option value="http://canoe.matchcontact.com">Match Contact</option>
-<option value="http://www.obituariestoday.com/">Obituaries Today</option>
-<option value="javascript:void(0)">------------</option>
-<option value="http://ekwest.restaurant.ca/canoe/index_resto_en.as">Restaurants</option>
-<option value="http://www.hotelier.ca/canoe/index_hotel_en.asp">Hotels</option>
-<option value="http://weather.canoe.ca/">Weather</option>
-<option value="http://www.canoe.ca/Jackpot/home.html">Lotteries</option>
-<option value="http://www.canoe.ca/Crossword/home.html">Crossword</option>
-<option value="http://www.canoe.ca/SportsTicker/home.html">Scoreboard</option>
-<option value="http://cnews.canoe.ca/CNEWS/Canada/">News Ticker</option>
-<option value="http://www.canoe.ca/CPSportsTicker/home.html">Sports Ticker</option>
-<option value="http://tvlistings4.zap2it.com/partners/index.asp?partner_id=097">TV Listings</option>
-<option value="http://www.canoe.ca/JamMovieListings/home.html">Movie Listings</option>
-<option value="http://www.canoe.ca/Clive/home.html">CLIVE Concerts</option>
-<option value="http://money.canoe.ca/PersonalFinance/MutualFunds/">Mutual Funds</option>
-<option value="http://cgi.money.canoe.ca/search_a_symbol/index.html">Stocks</option>
-<option value="http://www.canoe.ca/Help/feedback.html">Feedback</option>
-<option value="http://www.canoe.ca/Help/index.html">Index</option>
-</select>
-</td>      
-      <td width="100%" height="24" align="center" bgcolor="#000000"><img src="/images/lfpress_2003/spc.gif" width="62" height="14" border="0"></td>
+<script>
+function qParam(seek) {
+	var CanoeDest = 'http://search.canoe.ca/search';
+    var GooDest = 'http://google.canoe.com/canoe_en/index.asp';
 
-</tr></tbody></table>
+	seek.q.value = "";
+	if ((document.seek.ou[1].checked) || (document.seek.ou[0].checked))
+	{
+		seek.q.value = seek.query.value;
+	}
+
+	var url = CanoeDest;
+	if(document.seek.ou[0].checked) {
+		url = CanoeDest;
+	}
+	else if(document.seek.ou[1].checked) {
+		url = GooDest;
+	}
+	var url = url + "?lang=" + escape(seek.lang.value) + "&range=" + escape(seek.range.value) + "&operator=" + escape(seek.operator.value) + "&p=" + escape(seek.p.value) + "&s=" + escape(seek.s.value) + "&q=" + escape(seek.q.value) + "&ad=" + escape(seek.ad.value) + "&client=" + escape(seek.client.value) + "&ie=" + escape(seek.ie.value) + "&oe=" + escape(seek.oe.value) + "&output=" + escape(seek.output.value) + "&ip=" + escape(seek.ip.value) + "&userid=" + escape(seek.userid.value) + "&start=" + escape(seek.start.value) + "&num=" + escape(seek.num.value) + "&lr=" + escape(seek.lr.value) + "&query=" + escape(seek.query.value);
+
+	document.location = url;
+}
+</script>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr bgcolor="#000000"> 
+		
+      	<td width="305" height="24" bgcolor="#000000"><img src="http://www.canoe.ca/lfpress_2003Images/canoe_net2.gif" width="305" height="21" border="0" usemap="#canoe_net2.gif"></td>
+	    <td width="20"><form method="post" name="seek" action="javascript:qParam(document.seek)">&nbsp;</form></td>
+		<td width="51"><img src="http://www.canoe.ca/NewHomeImages/search.gif" width="45" height="21" border="0" hspace="3"></td>
+		<td valign="middle"><input type="text" name="query" size="10" style="width: 80px; height:19px;"></td>
+		<td width="8" valign="top"><input type="radio" name="ou" value="C" style="color:white; vertical-align:top"></td>
+		<td valign="middle" width="26"><img src="http://www.canoe.ca/CanoeGlobalnav/canoe_search.gif" height="21" width="26" border="0"></td>
+		<td width="8" valign="top"><input type="radio" name="ou" value="G" checked="checked" style="color:white; vertical-align:top"></td>
+		<td valign="middle" width="29"><img src="http://www.canoe.ca/CanoeGlobalnav/google_search.gif" height="21" width="29" border="0"></td>
+		<td width="41" align="center"><input type="image" hspace="3" name="submit" src="http://www.canoe.ca/NewHomeImages/go2.gif" width="35" height="21" border="0" alt="Search" align="bottom"></td>
+		<td bgcolor="#000000" width="20"><input type="hidden" name="lang" value="en">
+	<input type="hidden" name="range" value="0-19">
+	<input type="hidden" name="operator" value="and">
+	<input type="hidden" name="p" value="0">
+	<input type="hidden" name="s" value="20">
+	<input type="hidden" name="q" value="">
+	<input type="hidden" name="ad" value="w5n2">
+	<input type="hidden" name="client" value="netgraphe">
+	<input type="hidden" name="ie" value="latin1">
+	<input type="hidden" name="oe" value="latin1">
+	<input type="hidden" name="output" value="xml_no_dtd">
+	<input type="hidden" name="ip" value="">
+	<input type="hidden" name="userid" value="netgraphe">
+	<input type="hidden" name="start" value="0">
+	<input type="hidden" name="num" value="20">
+	<input type="hidden" name="lr" value=""></td>
+			<td valign="middle" align="right" bgcolor="#000000" width="355"><form name="guidecanoe"><script language="JavaScript1.2" src="http://www.canoe.ca/Canoe/Includes/options.js"></script></form></td>
+			<td valign="middle" bgcolor="#000000" width="7">&nbsp;</td>
+
+	</tr>
+</tbody></table>
+
 <div align="center">
 <img src="/images/lfpress_2003/spc.gif" width="770" height="10" border="0">
   <table border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" width="765">
@@ -113,7 +122,9 @@
                         <td bgcolor="#CCCCFF" align="center" valign="top" width="140"> 
                         <img src="/images/lfpress_2003/spc.gif" width="130" height="10" border="0"><br> 
                           <img src="/images/lfpress_2003/spc.gif" width="140" height="10" border="0"><br clear="all">
-<a href="/cgi-bin/adtrack.pl?s=Internal&amp;d=subscribe&amp;o=&amp;url=/cgi-bin/publish.pl?s=customerservice&amp;h=subscribe" class="article"><img src="/images/lfpress_2003/subscribe.jpg" alt="Subscribe to the London Free Press" width="130" height="45" border="0"></a><br clear="all">
+		<a href="/cgi-bin/adtrack.pl?s=Internal&amp;d=call_LFP&amp;o=&amp;url=http://www.worldline.ca/london/" class="article"><img src="/images/lfpress_2003/promo/call_logo.jpg" alt="Call LFP" width="130" height="102" border="0"></a><br clear="all">
+<img src="/images/lfpress_2003/spc.gif" width="140" height="10" border="0"><br clear="all">
+		<a href="/cgi-bin/adtrack.pl?s=Internal&amp;d=subscribe&amp;o=&amp;url=/cgi-bin/publish.pl?s=customerservice&amp;h=subscribe" class="article"><img src="/images/lfpress_2003/subscribe.jpg" alt="Subscribe to the London Free Press" width="130" height="45" border="0"></a><br clear="all">
 <img src="/images/lfpress_2003/spc.gif" width="140" height="10" border="0"><br clear="all">
                           <table width="100%" border="0" cellspacing="0" cellpadding="4">
                             <tbody><tr>
@@ -359,15 +370,17 @@ END Form Area
                         </div></td>      
                         <td bgcolor="#CCCCFF" valign="top" align="center" width="140"> 
  <img src="/images/lfpress_2003/spc.gif" width="140" height="10" border="0"><br clear="all">
-<a href="/cgi-bin/adtrack.pl?s=Button&amp;d=beverly&amp;o=&amp;url=http://www.beverleyhillshome.com   " class="article"><img src="/images/lfpress_2003/promo/bev_hills.gif" alt="Beverly Hills Homes" width="135" height="50" border="0"></a><br clear="all">
+		<a href="/cgi-bin/adtrack.pl?s=Button&amp;d=canadale&amp;o=55041d4r&amp;url=http://www.lfpress.com/canadale" class="article"><img src="/canadale/images/canadale_button.jpg" alt="See this weeks features at Canadales" width="135" height="50" border="0"></a><br clear="all">
 <img src="/images/lfpress_2003/spc.gif" width="140" height="10" border="0"><br clear="all">
-<a href="/cgi-bin/adtrack.pl?s=Button&amp;d=mdg.ca&amp;o=&amp;url=http://www.mdg.ca" class="article"><img src="/images/lfpress_2003/promo/mdglogo.jpg" alt="MDG Computers" width="135" height="50" border="0"></a><br clear="all">
+		<a href="/cgi-bin/adtrack.pl?s=Button&amp;d=lrhs5&amp;o=&amp;url=http://londonregionhomesales.com/homeeval.asp" class="article"><img src="/images/lfpress_2003/promo/terry5.gif" alt="Online Home Evaluations" width="135" height="55" border="0"></a><br clear="all">
 <img src="/images/lfpress_2003/spc.gif" width="140" height="10" border="0"><br clear="all">
-<a href="/cgi-bin/adtrack.pl?s=Button&amp;d=lrhs1.com&amp;o=&amp;url=http://www.londonregionhomesales.com" class="article"><img src="/images/lfpress_2003/promo/terryg1.gif" alt="www.londonregionhomesales.com" width="135" height="57" border="0"></a><br clear="all">
+		<a href="/cgi-bin/adtrack.pl?s=Button&amp;d=mdg.ca&amp;o=&amp;url=http://www.mdg.ca" class="article"><img src="/images/lfpress_2003/promo/mdglogo.jpg" alt="MDG Computers" width="135" height="50" border="0"></a><br clear="all">
 <img src="/images/lfpress_2003/spc.gif" width="140" height="10" border="0"><br clear="all">
-<a href="/cgi-bin/adtrack.pl?s=Button&amp;d=lrhs2.com&amp;o=&amp;url=http://www.londonregionhomesales.com/gold_distress.asp" class="article"><img src="/images/lfpress_2003/promo/9G034DO3.gif" alt="Distress Sales/Bank Foreclosures" width="130" height="70" border="0"></a><br clear="all">
+		<a href="/cgi-bin/adtrack.pl?s=Button&amp;d=lrhs2.com&amp;o=&amp;url=http://www.londonregionhomesales.com/gold_distress.asp" class="article"><img src="/images/lfpress_2003/promo/9G034DO3.gif" alt="Distress Sales/Bank Foreclosures" width="130" height="80" border="0"></a><br clear="all">
 <img src="/images/lfpress_2003/spc.gif" width="140" height="10" border="0"><br clear="all">
-<a href="/cgi-bin/adtrack.pl?s=Button&amp;d=disbrowe&amp;o=&amp;url=http://www.disbrowe.com" class="article"><img src="/images/lfpress_2003/promo/Disbrowe2.jpg" alt="Disbrowe Pontiac Buick Cadillac GMC" width="135" height="50" border="0"></a><br clear="all">
+		<a href="/cgi-bin/adtrack.pl?s=Button&amp;d=beverly&amp;o=&amp;url=http://www.beverleyhillshome.com   " class="article"><img src="/images/lfpress_2003/promo/bev_hills.gif" alt="Beverly Hills Homes" width="135" height="50" border="0"></a><br clear="all">
+<img src="/images/lfpress_2003/spc.gif" width="140" height="10" border="0"><br clear="all">
+		<a href="/cgi-bin/adtrack.pl?s=Button&amp;d=lrhs1.com&amp;o=&amp;url=http://www.londonregionhomesales.com" class="article"><img src="/images/lfpress_2003/promo/terryg1.gif" alt="www.londonregionhomesales.com" width="135" height="70" border="0"></a><br clear="all">
 <img src="/images/lfpress_2003/spc.gif" width="140" height="10" border="0"><br clear="all">
   <img src="/images/lfpress_2003/spc.gif" width="130" height="10" border="0"><br> 
 
@@ -382,25 +395,27 @@ END Form Area
 
  <img src="/images/lfpress_2003/spc.gif" width="130" height="10" border="0"><br>                              
  <img src="/images/lfpress_2003/spc.gif" width="140" height="10" border="0"><br clear="all">
-<a href="/cgi-bin/adtrack.pl?s=Internal&amp;d=aseller&amp;o=&amp;url=http://www.lfpress.ca/wheels" class="article"><img src="/images/lfpress_2003/promo/auto_seller.jpg" alt="Auto  Seller" width="130" height="76" border="0"></a><br clear="all">
+		<a href="/cgi-bin/adtrack.pl?s=Internal&amp;d=churches&amp;o=&amp;url=http://www.lfpress.ca/cgi-bin/adsonline.cgi?d=classifieds&amp;x=churches " class="article"><img src="/images/lfpress_2003/church/church_button.jpg" alt="Places of Worship" width="135" height="53" border="0"></a><br clear="all">
 <img src="/images/lfpress_2003/spc.gif" width="140" height="10" border="0"><br clear="all">
-<a href="/cgi-bin/adtrack.pl?s=Internal&amp;d=amarket&amp;o=&amp;url=http://www.lfpress.ca/londonthisweek/automarket.html" class="article"><img src="/images/lfpress_2003/promo/automarket_button.gif" alt="London this Week Auto Market" width="135" height="65" border="0"></a><br clear="all">
+		<a href="/cgi-bin/adtrack.pl?s=Internal&amp;d=aseller&amp;o=&amp;url=http://www.lfpress.ca/wheels" class="article"><img src="/images/lfpress_2003/promo/auto_seller.jpg" alt="Auto  Seller" width="130" height="76" border="0"></a><br clear="all">
 <img src="/images/lfpress_2003/spc.gif" width="140" height="10" border="0"><br clear="all">
-<a href="/cgi-bin/adtrack.pl?s=Internal&amp;d=hotjobs&amp;o=&amp;url=http://www.lfpress.ca/cgi-bin/adsonline.cgi?s=hotjobs&amp;s_category=3024&amp;report=yes" class="article"><img src="/images/lfpress_2003/promo/hjbutton.jpg" alt="Hot Jobs" width="135" height="50" border="0"></a><br clear="all">
+		<a href="/cgi-bin/adtrack.pl?s=Internal&amp;d=contests&amp;o=&amp;url=/cgi-bin/contest.pl" class="article"><img src="/images/lfpress_2003/promo/contest.jpg" alt="CONTEST:  What will you win?" width="130" height="45" border="0"></a><br clear="all">
 <img src="/images/lfpress_2003/spc.gif" width="140" height="10" border="0"><br clear="all">
-<a href="/cgi-bin/adtrack.pl?s=Internal&amp;d=ticket&amp;o=&amp;url=http://www.lfpress.ca/ticket" class="article"><img src="/images/lfpress_2003/ticket/ticket.gif" alt="Thursday Ticket" width="135" height="55" border="0"></a><br clear="all">
+		<a href="/cgi-bin/adtrack.pl?s=Internal&amp;d=amarket&amp;o=&amp;url=http://www.lfpress.ca/londonthisweek/automarket.html" class="article"><img src="/images/lfpress_2003/promo/automarket_button.gif" alt="London this Week Auto Market" width="135" height="65" border="0"></a><br clear="all">
 <img src="/images/lfpress_2003/spc.gif" width="140" height="10" border="0"><br clear="all">
-<a href="/cgi-bin/adtrack.pl?s=Internal&amp;d=contests&amp;o=&amp;url=/cgi-bin/contest.pl" class="article"><img src="/images/lfpress_2003/promo/contest.jpg" alt="CONTEST:  What will you win?" width="130" height="45" border="0"></a><br clear="all">
+		<a href="http://www.lfpress.com/makingwaves/" class="article"><img src="/images/lfpress_2003/makingwaves/makingwavesbutton.jpg" alt="" width="135" height="55" border="0"></a><br clear="all">
 <img src="/images/lfpress_2003/spc.gif" width="140" height="10" border="0"><br clear="all">
-<a href="/cgi-bin/adtrack.pl?s=Internal&amp;d=movies&amp;o=&amp;url=http://jam.canoe.ca/JamMovieListings/home.html" class="article"><img src="/images/lfpress_2003/promo/movies_button.gif" alt="Movie Listings on Jam!" width="130" height="49" border="0"></a><br clear="all">
+		<a href="/cgi-bin/adtrack.pl?s=Internal&amp;d=hotjobs&amp;o=&amp;url=http://www.lfpress.ca/cgi-bin/adsonline.cgi?s=hotjobs&amp;s_category=3024&amp;report=yes" class="article"><img src="/images/lfpress_2003/promo/hjbutton.jpg" alt="Hot Jobs" width="135" height="50" border="0"></a><br clear="all">
 <img src="/images/lfpress_2003/spc.gif" width="140" height="10" border="0"><br clear="all">
-<a href="/cgi-bin/adtrack.pl?s=Internal&amp;d=careers&amp;o=&amp;url=http://www.lfpress.ca/careers" class="article"><img src="/images/lfpress_2003/promo/careers.gif" alt="Career connection" width="130" height="42" border="0"></a><br clear="all">
+		<a href="/cgi-bin/adtrack.pl?s=Internal&amp;d=movies&amp;o=&amp;url=http://jam.canoe.ca/Movies/Listings/" class="article"><img src="/images/lfpress_2003/promo/movies_button.gif" alt="Movie Listings on Jam!" width="130" height="49" border="0"></a><br clear="all">
 <img src="/images/lfpress_2003/spc.gif" width="140" height="10" border="0"><br clear="all">
-<a href="/cgi-bin/adtrack.pl?s=Internal&amp;d=homes&amp;o=&amp;url=http://www.lfpress.ca/homes" class="article"><img src="/images/lfpress_2003/promo/homes.gif" alt="Homes" width="130" height="50" border="0"></a><br clear="all">
+		<a href="/cgi-bin/adtrack.pl?s=Internal&amp;d=careers&amp;o=&amp;url=http://www.lfpress.ca/careers" class="article"><img src="/images/lfpress_2003/promo/careers.gif" alt="Career connection" width="130" height="42" border="0"></a><br clear="all">
 <img src="/images/lfpress_2003/spc.gif" width="140" height="10" border="0"><br clear="all">
-<a href="/cgi-bin/adtrack.pl?s=Internal&amp;d=psaver&amp;o=&amp;url=http://www.londonpennysaver.com" class="article"><img src="/images/lfpress_2003/promo/LPSbutton.jpg" alt="London Pennysaver" width="130" height="45" border="0"></a><br clear="all">
+		<a href="/cgi-bin/adtrack.pl?s=Internal&amp;d=homes&amp;o=&amp;url=http://www.lfpress.ca/homes" class="article"><img src="/images/lfpress_2003/promo/homes.gif" alt="Homes" width="130" height="50" border="0"></a><br clear="all">
 <img src="/images/lfpress_2003/spc.gif" width="140" height="10" border="0"><br clear="all">
-<a href="/cgi-bin/adtrack.pl?s=Internal&amp;d=ltw&amp;o=&amp;url=http://www.lfpress.ca/londonthisweek" class="article"><img src="/images/lfpress_2003/home/this_week.gif" alt="London This Week" width="125" height="60" border="0"></a><br clear="all">
+		<a href="/cgi-bin/adtrack.pl?s=Internal&amp;d=psaver&amp;o=&amp;url=http://www.londonpennysaver.com" class="article"><img src="/images/lfpress_2003/promo/LPSbutton.jpg" alt="London Pennysaver" width="130" height="45" border="0"></a><br clear="all">
+<img src="/images/lfpress_2003/spc.gif" width="140" height="10" border="0"><br clear="all">
+		<a href="/cgi-bin/adtrack.pl?s=Internal&amp;d=ltw&amp;o=&amp;url=http://www.lfpress.ca/londonthisweek" class="article"><img src="/images/lfpress_2003/home/this_week.gif" alt="London This Week" width="125" height="60" border="0"></a><br clear="all">
 <img src="/images/lfpress_2003/spc.gif" width="140" height="10" border="0"><br clear="all">
   
    <img src="/images/lfpress_2003/spc.gif" width="130" height="10" border="0"><br>                              
