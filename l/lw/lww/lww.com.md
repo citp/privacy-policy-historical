@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lww.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204165547id_/http%3A//www.lww.com/static/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lww.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525124218id_/http%3A//www.lww.com/static/html/privacy.html) for the most accurate reproduction.*
 
 # Lippincott Williams & Wilkins Privacy Policy & Statement, permission marketing
 
@@ -21,11 +21,11 @@ LWW.com gathers **personal information** from customers in two places: registrat
 
 If you register on LWW.com, you will also be prompted to sign up for **LWW.com Updates** , which include the _LWW.com Insider_ and _LWW.com Essentials_ e-newsletters. If you sign up for LWW.com Updates, we will ask you if you can receive HTML e-mail messages, if you are a faculty member and where you teach. You will be able to select the specialties you wish to receive Updates in as well as the _Essentials_ e-newsletters that best fit your profession or work setting. 
 
-LWW.com Updates are sent from "Lippincott Williams & Wilkins" [ **lww@lippincott.rsc02.com** ]. Replies to LWW.com Updates are received at [ **orders@lww.com** ]. This information may help you in your efforts to filter out spam while allowing legitimate e-mail to get through. 
+LWW.com Updates are sent from "Lippincott Williams & Wilkins" [ **orders@lww.com** ]. This information may help you in your efforts to filter out spam while allowing legitimate e-mail to get through. 
 
 LWW.com gives you options for removing your information from our database in order to discontinue receiving future communications or service. To do this: 
 
-  * Go to the [Opt-out form](https://web.archive.org/e-news/unsubscribeform.html)
+  * Go to the [Opt-out form](https://web.archive.org/unsubscribe)
   * Enter your email address (if it isn't already there)
   * Click on the unsubscribe button
 
@@ -53,11 +53,10 @@ LWW.com often contains **links** to other web sites. Lippincott Williams & Wilki
 
 LWW.com has **security** measures in place to protect the loss, misuse and alteration of the information under our control. 
 
-Sincerely,
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact: 
 
-_Marc Bouchard  
-Associate Director, Internet Sales & Marketing  
+_Privacy Policy - Internet Marketing Group_  
 Lippincott Williams & Wilkins  
-_
+351 West Camden Street  
+Baltimore, MD 21201  
 
-__
