@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the lilypie.com privacy policy that was archived on 2004-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041213001540id_/http%3A//lilypie.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lilypie.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525190243id_/http%3A//lilypie.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Lilypie : Privacy Policy
 
 |   |  | [](https://web.archive.org/index.html) |   
-[Home](https://web.archive.org/index.html "home page")| [Create Baby days](https://web.archive.org/create_baby_days.php "Customise your free baby ticker")| [Baby Wishlist](https://web.archive.org/web/20041213001540id_/http%3A//lilypie.com/wishlist.php "Baby Gift Registry")| [Newsletter](https://web.archive.org/mailing_list.php "Join free Lilypie mailing list")
+[Home](https://web.archive.org/index.html "home page")| [Create Baby days](https://web.archive.org/create_baby_days.php "Customise your free baby ticker")| [Baby Wishlist](https://web.archive.org/web/20050525190243id_/http%3A//lilypie.com/wishlist.php "Baby Gift Registry")| [Newsletter](https://web.archive.org/mailing_list.php "Join free Lilypie mailing list")
 
 [Help](https://web.archive.org/FAQ_0.html "Answers to Frequently Asked Questions")| [Contact](https://web.archive.org/contact.php "Send email to Amanda Crichton")  
   
@@ -50,7 +50,7 @@ If you sign up for the free newsletter, we will send you newsletters periodicall
 If you contact Lilypie.com by e-mail or letter, we may keep a record of your correspondence or comments. If you report a problem with our site, we may collect such information in a file specific to you. If you contact us through our feedback area to send you a reply. 
 
 **Cookies**  
-We use cookies in the operation of password protected areas of our website.
+We use cookies in the operation of password protected areas of our website. On the ticker pages you may optional select 'Remember my details' this creates a cookie to remember the options you selected so that you don't have to re-enter them next time you visit the site.
 
 TOP
 
@@ -66,7 +66,7 @@ Newsletter: You may "opt-out," or unsubscribe from our newsletter by following t
 TOP
 
   5. **Lilypie.com use of cookies.**  
-Lilypie.com Cookies: When you use password or keyword protected areas of our site we will store cookies on your computer in order to facilitate and customize your use of our site. A cookie is a small data text file, which a Web site stores on your computer's hard drive (if your Web browser permits) that can later be retrieved to identify you to Lilypie.com. Our cookies store randomly assigned user identification numbers, IDs, and the date of your last visit. You will be unable to use password protected areas on our site without your browser being set to accept cookies. 
+Lilypie.com Cookies: When you use password or keyword protected areas of our site we will store cookies on your computer in order to facilitate and customize your use of our site. Cookies may also be optionaly used to remember the options you chose when creating a Lilypie ticker. A cookie is a small data text file, which a Web site stores on your computer's hard drive (if your Web browser permits) that can later be retrieved to identify you to Lilypie.com. Our cookies store randomly assigned user identification numbers, IDs, and the date of your last visit. You will be unable to use password protected areas on our site without your browser being set to accept cookies. 
 
 TOP
 
