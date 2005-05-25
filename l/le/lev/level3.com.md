@@ -1,22 +1,12 @@
-> *The following text is extracted and transformed from the level3.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205013433id_/http%3A//www.level3.com/762.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the level3.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525095854id_/http%3A//www.level3.com/762.html) for the most accurate reproduction.*
 
 # Level 3 Communications, Inc. - Privacy Policy
 
   |  |        **Privacy Policy**  
 ---  
   
-|  | [ Service Brochures](https://web.archive.org/web/20041205013433id_/http%3A//www.level3.com/549.html)  
----|---  
-| [ Support](https://web.archive.org/web/20041205013433id_/http%3A//www.level3.com/550.html)  
-| [ Corporate](https://web.archive.org/web/20041205013433id_/http%3A//www.level3.com/553.html)  
-| [ Investors](https://web.archive.org/web/20041205013433id_/http%3A//www.level3.com/554.html)  
-| [ Careers](https://web.archive.org/web/20041205013433id_/http%3A//www.level3.com/555.html)  
-| [ Site Map](https://web.archive.org/web/20041205013433id_/http%3A//www.level3.com/654.html)  
-| [ Privacy Policy](https://web.archive.org/web/20041205013433id_/http%3A//www.level3.com/762.html)  
-| [ Acceptable Use Policy](https://web.archive.org/web/20041205013433id_/http%3A//www.level3.com/764.html)  
-| [ Designation of Agent](https://web.archive.org/web/20041205013433id_/http%3A//www.level3.com/770.html)  
-| [ Legal Conditions, Terms of Use, and Tariffs](https://web.archive.org/web/20041205013433id_/http%3A//www.level3.com/774.html)  
-  
+| 
+
   
 |  |  | **Level 3 Online Privacy Policy**     
 ---  
@@ -95,8 +85,7 @@ Level 3
 
 affiliates and business partners, including those in the U.S. and/or any other countries, protect your personal information consistent with our Online Privacy Policy.
 
-Level 3 works with third parties to research certain usage and activities on our Web site on our behalf. Some third parties utilize Web beacons to conduct this research. Information collected through Web beacons helps us to identify user demographics and usage patterns to improve our measurements, reporting, and the effectiveness of our marketing efforts. Information recorded through Web beacons is aggregated and then shared with Level 3. No personally identifiable information about you is shared by these third parties with Level 3 as a result of this research. If you prefer not to participate in the Web beacon research on the Level 3 Web site, please visit each of the third party's Web site individually in order to opt out. Currently, Level 3 has relationships with the following companies (click to visit their site) :   
-[Yahoo!](http://privacy.yahoo.com/privacy/us/pixels/details.html)
+Level 3 works with third parties to research certain usage and activities on our Web site on our behalf. Some third parties utilize Web beacons to conduct this research. Information collected through Web beacons helps us to identify user demographics and usage patterns to improve our measurements, reporting, and the effectiveness of our marketing efforts. Information recorded through Web beacons is aggregated and then shared with Level 3. No personally identifiable information about you is shared by these third parties with Level 3 as a result of this research. If you prefer not to participate in the Web beacon research on the Level 3 Web site, please visit each of the third party's Web site individually in order to opt out. 
 
 **Our Commitment To Data Security:**
 
@@ -157,7 +146,6 @@ Level 3
 's Online Privacy Policy, please contact us.  
   
 ---  
-  
   
   
   
