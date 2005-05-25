@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the landandfarm.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601110750id_/http%3A//www.landandfarm.com/lf/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landandfarm.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525210443id_/http%3A//www.landandfarm.com/lf/about/privacy.asp) for the most accurate reproduction.*
 
-# Land, Farms, Timber, Rural Property for Sale or Lease. Global Land Auction Listings.
+# LandAndFarm.com - Land for sale, Farms for sale, Rural Property for sale
 
 **LandAndFarm.com Privacy Statement**
 
@@ -28,7 +28,7 @@ LandAndFarm.com uses cookies for security. To register or log into LandAndFarm, 
   
 **Disclosure**
 
-LandAndFarm.com openly volunteers its practices of collecting information, its targeting capabilities, and its use of cookies. If you have any questions pertaining to this privacy policy and its contents, please direct your correspondence to [webmaster@LandAndFarm.com](mailto:webmaster@LandAndFarm.com).  
+LandAndFarm.com openly volunteers its practices of collecting information, its targeting capabilities, and its use of cookies. If you have any questions pertaining to this privacy policy and its contents, please direct your correspondence to [the Webmaster](http://www.landandfarm.com/lf/asp/lf_contact.asp).  
 
 
 Click here to return to the page you just left 
