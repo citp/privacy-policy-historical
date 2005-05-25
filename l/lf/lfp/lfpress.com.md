@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lfpress.com privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223174219id_/http%3A//www.lfpress.com/cgi-bin/publish.pl%3Fs%3Daboutus%26h%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lfpress.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525110427id_/http%3A//www.lfpress.com/cgi-bin/publish.pl%3Fs%3Daboutus%26h%3Dprivacy) for the most accurate reproduction.*
 
 # London Free Press: About Us
 
