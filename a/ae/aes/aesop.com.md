@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aesop.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204003334id_/http%3A//www.aesop.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aesop.com privacy policy that was archived on 2005-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050526201640id_/http%3A//www.aesop.com/privacy.html) for the most accurate reproduction.*
 
 # Aesop.com - Privacy Policy
 
