@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyam.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602221707id_/http%3A//moneyam.com/tandc/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyam.com privacy policy that was archived on 2005-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050526083801id_/http%3A//www.moneyam.com/tandc/privacypolicy.php) for the most accurate reproduction.*
 
 # MoneyAM -
 
