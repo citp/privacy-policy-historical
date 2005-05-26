@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the actblue.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204072518id_/http%3A//actblue.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actblue.com privacy policy that was archived on 2005-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050526182619id_/http%3A//actblue.com/privacy) for the most accurate reproduction.*
 
-# ActBlue - Privacy Policy
+# ActBlue
+
+## Privacy Policy
 
 This privacy policy describes how we use your personal information. 
 
@@ -15,7 +17,7 @@ When you contribute to candidates and committees on ActBlue, we are required to 
 Additionally, when you contribute **you may choose to share your phone number and e-mail address with campaigns**. 
 
   * Credit Card Information   
-We securely transmit your credit card information to the payment processor, and do not store this information on our servers. We also request your phone number when you contribute so that we can reach you should further verification of your credit card information be required. 
+We securely transmit your credit card information to the payment processor, and do not store this information unless you have specifically requested a recurring contribution. We also request your phone number when you contribute so that we can reach you should further verification of your credit card information be required. 
   * Reports to fundraising page authors  
 Authors of fundraising pages receive reports about donations made through the web pages they create. These reports include the dates, amounts, and recipients of these contributions. When you contribute to a user-created fundraising page, you may choose to share your name and contact information with the page author. If you choose not to do so, the author's report will list the donation as anonymous. (Your name will still be included in ActBlue's FEC reports as described above.) 
   * Use of third party vendors  
@@ -23,6 +25,6 @@ Credit card transaction processing on ActBlue.com is provided by [Tranvia](http:
 
 
 
-Other than as described above, we will not use your personal information nor release it to any other party without your permission, unless we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, violations of our [terms of use](http://actblue.com/fineprint), or as otherwise required by law. 
+Other than as described above, we will not use your personal information nor release it to any other party without your permission, unless we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, violations of our [terms of use](https://web.archive.org/c/fineprint), or as otherwise required by law. 
 
-Questions? [Contact us](http://actblue.com/contact). 
+Questions? [Contact us](https://web.archive.org/c/contact). 
