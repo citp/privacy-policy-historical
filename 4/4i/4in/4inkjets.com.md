@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4inkjets.com privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211183255id_/http%3A//4inkjets.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4inkjets.com privacy policy that was archived on 2005-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050526020407id_/http%3A//4inkjets.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -12,6 +12,8 @@
  [Compaq](http://www.4inkjets.com/compaq.html)   
  [Dell](http://www.4inkjets.com/dell.html)   
  [Epson](http://www.4inkjets.com/epson.html)   
+ [Konica-Minolta](http://www.4inkjets.com/konicaminolta.html)   
+ [Kyocera-Mita](http://www.4inkjets.com/kyoceramita.html)   
  [Lexmark](http://www.4inkjets.com/lexmarkibm.html)   
  [Hewlett Packard](http://www.4inkjets.com/hewlettpackard1.html)   
  [IBM](http://www.4inkjets.com/ibm.html)   
@@ -25,16 +27,16 @@
  [Toshiba](http://www.4inkjets.com/toscomtoncar.html)   
  [Xerox](http://www.4inkjets.com/xerox.html)   
  [i-Stick Pen Drives](http://www.4inkjets.com/insticisusbf.html)   
- [Flash Memory](http://www.4inkjets.com/digmemcomfla.html)   
- [Burners/Software](http://www.4inkjets.com/dvanddvbuand.html)
+ [Flash Memory](http://www.4inkjets.com/digmemcomfla.html)
 
   
  [Driver Downloads](http://4inkjets.com/lintoprincom.html)   
- [Refill Instructions](http://4inkjets.com/refin.html)
+ [Refill Instructions](http://4inkjets.com/refin.html)   
+ [Save with Refill Kits](http://4inkjets.com/saupto75offu.html)  
+ [Save with Generics](http://4inkjets.com/saupto80usco.html)
 
   
  [Customer Service](http://www.4inkjets.com/cuse.html)   
- [Affiliate Program](http://4inkjets.com/afprog.html)   
  [About Us](http://4inkjets.com/info.html)   
  [Your Privacy](http://4inkjets.com/privacy.html)   
  [Shipping Info](http://4inkjets.com/cuse.html)   
@@ -42,7 +44,7 @@
  [Tell A Friend!](http://4inkjets.com/tellfriend.html)   
  [Returns](http://4inkjets.com/4ininkprodre.html)
 
-| | [](https://web.archive.org/web/20041211183255id_/http%3A//4inkjets.com/index.html)
+| | [](https://web.archive.org/web/20050526020407id_/http%3A//4inkjets.com/index.html)
 
 Privacy Statement |  | **4Inkjets! : Privacy Notice**  
 Effective **12/01/1999 - Current**
@@ -120,19 +122,25 @@ Should you have other questions or concerns about these privacy policies, please
 | | |  [](https://www.scanalert.com/RatingVerify?ref=www.4inkjets.com)  
   
 [  
-Refurbished Inkjet Cartridge To Replace HP C6578AN, C6578A, C6578D ](https://web.archive.org/web/20041211183255id_/http%3A//4inkjets.com/hewpachpc6571.html)  
-Regular price: $21.99Sale price: **$18.99, 5/$90.00**  
+Refurbished Inkjet Cartridge To Replace HP C6578AN, C6578A, C6578D ](https://web.archive.org/web/20050526020407id_/http%3A//4inkjets.com/hewpachpc6571.html)  
+Regular price: $21.99Sale price: **$17.95, 5/$80.00**  
 [  
-Refurbished Inkjet Cartridge To Replace Hewlett Packard HP C6657AN, C6657A #57 ](https://web.archive.org/web/20041211183255id_/http%3A//4inkjets.com/reincatorehe.html)  
-Regular price: $26.99Sale price: **$22.99, 5/$100.00**  
+Refurbished Inkjet Cartridge To Replace Hewlett Packard HP C6657AN, C6657A #57 ](https://web.archive.org/web/20050526020407id_/http%3A//4inkjets.com/reincatorehe.html)  
+Regular price: $26.99Sale price: **$20.99, 5/$100.00**  
 [  
-Refurbished Inkjet Cartridge To Replace HP 51645A #45](https://web.archive.org/web/20041211183255id_/http%3A//4inkjets.com/hewpac51645a.html)  
-Regular price: $15.95Sale price: **$12.95, 5/$55.00, 10/$100.00**  
+Refurbished Inkjet Cartridge To Replace HP 51645A #45](https://web.archive.org/web/20050526020407id_/http%3A//4inkjets.com/hewpac51645a.html)  
+Regular price: $15.95Sale price: **$10.95, 5/$50.00, 10/$90.00**  
 [  
-Epson C62, CX3200 T040120 (T040) Black Compatible Ink Cartridge](https://web.archive.org/web/20041211183255id_/http%3A//4inkjets.com/epc62t0blacc.html)  
+Epson C62, CX3200 T040120 (T040) Black Compatible Ink Cartridge](https://web.archive.org/web/20050526020407id_/http%3A//4inkjets.com/epc62t0blacc.html)  
 Regular price: $7.95Sale price: **$6.95, 5/$30.00**  
 [  
-Refurbished Inkjet Cartridge To Replace Hewlett Packard HP C6656AN, #56 ](https://web.archive.org/web/20041211183255id_/http%3A//4inkjets.com/rehepahpc6c6.html)  
-Regular price: $17.95Sale price: **$14.95, 5/$70.00**  
+Refurbished Inkjet Cartridge To Replace Hewlett Packard HP C6656AN, #56 ](https://web.archive.org/web/20050526020407id_/http%3A//4inkjets.com/rehepahpc6c6.html)  
+Regular price: $17.95Sale price: **$14.95, 5/$65.00**  
+[  
+Remanufactured Ink Cartridge to Replace HP 95 - Hewlett Packard C8766WN Color Inkjet Cartridge](https://web.archive.org/web/20050526020407id_/http%3A//4inkjets.com/reinkcatoreh1.html)  
+Regular price: $24.99Sale price: **$22.99**  
   
 
+
+**Subscribe  
+**Join Our Coupon Newsletter
