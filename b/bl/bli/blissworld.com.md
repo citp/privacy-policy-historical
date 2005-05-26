@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blissworld.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204015325id_/http%3A//www.blissworld.com/cs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blissworld.com privacy policy that was archived on 2005-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050526121012id_/http%3A//www.blissworld.com/cs/privacy) for the most accurate reproduction.*
 
 # bliss > customer serbliss
 
@@ -24,7 +24,7 @@ There may be times (such as when you purchase or order a product, subscribe to s
 
 Your e-mail information is not shared with other organizations for commercial purposes. We do not partner with or have special relationships with any ad server companies. We use the personally identifiable information you provide for internal purposes, such as confirming and tracking your order, subscription or registration, analyzing tends and statistics, informing you of our new products, services and offers, and providing you with information from and about Bliss brands. To serve you better, we may combine information you give us online, in our spas or through our catalogs.
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at 888-243-8825, contacting us online at [http://www.blissworld.com/cs/request/](https://web.archive.org/cs/request/), writing to us at BlissWorld.com, 50 Washington Street, Brooklyn, NY 11201 Attention: Customer service, or faxing us at 212-931-6376. 
+If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at 888-243-8825, contacting us online at [http://www.blissworld.com/cs/request/](https://web.archive.org/cs/request/), writing to us at BlissWorld.com, 75 Varick Street, New York, NY 10013 Attention: Customer service, or faxing us at 212-931-6376. 
 
 Occasionally, we make our mailing list available to carefully selected companies whose products and services maybe of interest to our customers. If you do not wish to receive such mailings, you can, have your name put on our do-not-share list by calling us at the number provided above, writing to us at the above address, or faxing us at 212-931-6376. Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations. Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
 
@@ -42,9 +42,9 @@ Fax: 212-931-6376
 
 Mail:  
 BlissWorld.com   
-50 Washington Street  
-7th Floor   
-Brooklyn, NY 11201  
+75 Varick Street  
+10th Floor  
+New York, NY 10013  
 Attention: Customer Service
 
 **Cookies**
@@ -63,6 +63,8 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 **Your Feedback**
 
-To help us improve our privacy policy and practice, please give us your feedback. You may email us or write to us at Blissworld.com, 50 Washington Street, 7th Floor, Brooklyn, NY 11201, Attention: Direct Marketing Dept.  
+To help us improve our privacy policy and practice, please give us your feedback. You may email us or write to us at Blissworld.com, 75 Varick Street, New York, NY 10013, Attention: Direct Marketing Dept.
+
+_Privacy statement updated December 20, 2004_  
   
 ---|---
