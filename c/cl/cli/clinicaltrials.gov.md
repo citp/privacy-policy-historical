@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clinicaltrials.gov privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207140712id_/http%3A//www.nlm.nih.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clinicaltrials.gov privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527010803id_/http%3A//www.nlm.nih.gov/privacy.html) for the most accurate reproduction.*
 
 # NLM Privacy Policy
 
@@ -10,7 +10,7 @@ Of the information we learn about you from your visit to NLM Web sites, we store
 
 ### Cookies
 
-A "cookie" is a small file that a Web site transfers to your computer's hard disk allowing our server to "remember" specific information about your session. While visiting certain NLM sites you may occasionally encounter a Web page that employs cookies to make it easier to use the dynamic features of these Web pages. The cookie and the information about your session will be destroyed automatically shortly after you close your browser-it is not permanently stored on your computer. You can set your browser to disable cookies or prompt you before a cookie is accepted. If you do not want to receive cookies, you will still be able to use the NLM sites, but will be unable to use cookie-dependent features.
+A "cookie" is a small file that a Web site transfers to your computer's hard disk allowing our server to "remember" specific information about your session. While visiting certain NLM sites you may occasionally encounter a Web page that employs cookies to make it easier to use the dynamic features of these Web pages. The cookie and the information about your session will be destroyed automatically shortly after you close your browser-it is not permanently stored on your computer. You can set your browser to disable cookies or prompt you before a cookie is accepted. If you do not want to receive cookies, you will still be able to use the NLM sites, but will be unable to use cookie-dependent features. In [exceptional circumstances](https://web.archive.org/web/20050527010803id_/http%3A//www.nlm.nih.gov/cookies.html) persistent cookies may be employed, but they are never used for tracking users' queries or navigation through the site.
 
 ### Personally Provided Information
 
@@ -18,13 +18,13 @@ If you choose to provide us with personal information by sending an email, or by
 
 ### Links to Other Sites
 
-Some NLM Web sites, such as MEDLINEplus, provide links to other Internet sites that provide health information. Once you link to another site, you are subject to the privacy policy of the new site.
+Some NLM Web sites, such as MedlinePlus, provide links to other Internet sites that provide health information. Once you link to another site, you are subject to the privacy policy of the new site.
 
 ### Security
 
 The U.S. Government maintains this site. For site security purposes and to ensure that this service remains available to all users, we use software programs to monitor traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Causing damage to federal computer systems is a violation of U.S. law and is subject to criminal prosecution in federal court. In the event of authorized law enforcement investigations, and pursuant to any required legal process, information from these sources may be used to help identify an individual.
 
-**Last updated:** 06 May 2004  
+**Last updated:** 28 March 2005  
 **First published:** 01 January 1993  
 [ **Metadata**](http://www.nlm.nih.gov/cgi/viewMeta.pl?url=http://www.nlm.nih.gov/privacy.html&description=full)| [**Permanence level**](https://web.archive.org/permlevels.html) **:** Permanent: Stable Content  
 
