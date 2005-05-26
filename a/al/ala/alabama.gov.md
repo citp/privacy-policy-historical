@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the alabama.gov privacy policy that was archived on 2004-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041220194943id_/http%3A//www.alabama.gov/utility/privacystatement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alabama.gov privacy policy that was archived on 2005-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050526171226id_/http%3A//www.alabama.gov/utility/privacystatement.php) for the most accurate reproduction.*
 
-# alabama.gov
+# alabama.gov : The Official Website of the State of Alabama : Privacy Statement
 
-Privacy Statement
+Click on a region to access local information. 
+
+Still need help? Click here to talk to an alabama.gov representative.  
+[](http://server.iad.liveperson.net/hc/42550049/?cmd=file&file=visitorWantsToChat&site=42550049&byhref=1&imageUrl=http://www.alabama.gov/images)
+
+[](http://www.fitzgerald-museum.org/)   
+Click image to learn about Alabama's destinations. 
 
 alabama.gov site may use cookies to carry user information from one page to another. An example is a search criterion. This information is not stored on our server but on your workstation. We do not track this information on our server. The cookies we use are set to expire at the end of your browser session. This means that when you close your browser they are deleted. 
 
@@ -10,11 +16,11 @@ Our server does track statistical information (through the use of server logs) t
 
 We collect and store only the following information about your visit:
 
-> ****the name of the domain from which you access the Internet;
-> 
-> ****the date and time you access our site;
-> 
-> ****and the Internet address of the website from which you linked directly to our site.
+  * the name of the domain from which you access the Internet;
+  * the date and time you access our site;
+  * and the Internet address of the website from which you linked directly to our site.
+
+
 
 We use the information we collect to measure the number of visitors to the different sections of our site, and to help us make our site more useful to visitors.
 
