@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audio4fun.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207212033id_/http%3A//www.audio4fun.com/adlines.php%3Fid%3D111) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audio4fun.com privacy policy that was archived on 2005-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050526200550id_/http%3A//www.audio4fun.com/privacy.htm) for the most accurate reproduction.*
 
 # Microphone voice changer: alter microphone voice input to favorite singer's voice - Privacy
 
@@ -24,7 +24,7 @@ through an email to us.
   
 **** | 
 
-Presently, when you will place an order, you will be transferred to one of our online retailers - **[DigiBuy](http://www.digibuy.com/cgi-bin/privacy.html)** or **[Shareit](http://www.element5.com/privacy.html?sessionid=15322548&random=4d4bed3aaeb323fb43a9424e764a6be4)** or **[Regnow](http://www.regnow.com/privacy.html) ** or **[ DigitalCanle](http://www.digitalcandle.com/privacy.html)** \- to provide your name, email address, mailing address, credit number, and expiration date. Particularly, you will provide the "Protection Number" - which can be found on our product’s demo version in "About" or "Readme". This is for generating a Serial Number that you will need to convert the demo  version into the Full version.  
+Presently, when you will place an order, you will be transferred to one of our online retailers - **[Plimus](http://www.plimus.com/jsp/privacy.htm)** or **[Shareit](http://www.element5.com/privacy.html?sessionid=15322548&random=4d4bed3aaeb323fb43a9424e764a6be4)** or **[Regsoft](http://www.regsoft.com/terms.shtml) ** or **[ DigitalCanle](http://www.digitalcandle.com/privacy.html)** \- to provide your name, email address, mailing address, credit number, and expiration date. Particularly, you will provide the "Protection Number" - which can be found on our product’s demo version in "About" or "Readme". This is for generating a Serial Number that you will need to convert the demo  version into the Full version.  
   
 **** | 
 
