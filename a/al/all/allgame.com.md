@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allgame.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204105114id_/http%3A//www.allgame.com/com/amg/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allgame.com privacy policy that was archived on 2005-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050526180926id_/http%3A//www.allgame.com/com/amg/privacy.html) for the most accurate reproduction.*
 
-# All Media Guide Privacy Policy
+# 
 
 At AMG we are committed to protecting your privacy. Users do not have to register or disclose any personal information in order to gain access to any feature of the All Music Guide ([www.allmusic.com](http://www.allmusic.com/)), the All Movie Guide ([www.allmovie.com](http://www.allmovie.com/)), or the All Game Guide ([www.allgame.com](http://www.allgame.com/)). We are dedicated to keeping your experience with All Media Guide secure, enjoyable and easy. The following discloses our information gathering and disclosure practices. 
 
