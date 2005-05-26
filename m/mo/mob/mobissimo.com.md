@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobissimo.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205152959id_/http%3A//travel.mobissimo.com/travel/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobissimo.com privacy policy that was archived on 2005-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050526073901id_/http%3A//www1.mobissimo.com/travel/privacy_policy.php) for the most accurate reproduction.*
 
 # Mobissimo Travel | Privacy policy
 
