@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123weddingcards.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206223804id_/http%3A//www.123weddingcards.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123weddingcards.com privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527211017id_/http%3A//www.123weddingcards.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # 123weddingCards : Privacy Policy of 123WeddingCards.com
 
@@ -19,8 +19,8 @@ The **[123WeddingCards.com](http://www.123weddingcards.com/)** maintains several
    
 Our site facilitates buying samples. Cost of samples (including shipping) is fully adjustable in later bulk order. Printing services provided at additional cost.   
 ---  
-90% of the orders printed and shipped within 1 working day after proof finalization. 3 to 5 days delivery worldwide.   
-For more information please contact us at [info@123WeddingCards.com](mailto:info@123WeddingCards.com) or call us at our 24 Hrs. help line number _+91 98290 67113.  
+Urgent printing facility available on request. 3 to 5 days delivery worldwide.   
+For more information please contact us at [info@123WeddingCards.com](mailto:info@123WeddingCards.com) or call us at _+91 94140 69511.  
  _  
   
 We accept :
@@ -38,7 +38,7 @@ Our Couriers :
 |   
 ---|---|---|---|---|---|---|---|---|---|---  
   
-©2001-2004 Charu Overseas. All rights reserved  
+©2001-2005 Charu Overseas. All rights reserved  
   
 ---  
 ...a [ GetCyberhome](http://www.getcyberhome.com/) creation
