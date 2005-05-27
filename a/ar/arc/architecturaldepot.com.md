@@ -1,20 +1,7 @@
-> *The following text is extracted and transformed from the architecturaldepot.com privacy policy that was archived on 2004-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040905113048id_/http%3A//www.architecturaldepot.com/Merchant2/merchant.mvc%3FScreen%3DPRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architecturaldepot.com privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527112554id_/http%3A//www.architecturaldepot.com/Merchant2/merchant.mvc%3FScreen%3DPRIVACY) for the most accurate reproduction.*
 
 # ArchitecturalDepot.com We Protect Your Privacy
 
-| [](https://www.architecturaldepot.com/Merchant2/merchant.mvc?Session_ID=310d5df12515c89fcfcbe60d7ab19e2a&Screen=CTGY&Category_Code=tin-ceiling-tiles) | 
-
-[](https://www.architecturaldepot.com/Merchant2/merchant.mvc?Session_ID=310d5df12515c89fcfcbe60d7ab19e2a&Screen=SFNT)
-
-|       [](https://www.architecturaldepot.com/Merchant2/merchant.mvc?Session_ID=310d5df12515c89fcfcbe60d7ab19e2a&Screen=BASK)  | [](https://www.architecturaldepot.com/Merchant2/merchant.mvc?Session_ID=310d5df12515c89fcfcbe60d7ab19e2a&Screen=LOGN)  | [](http://www.architecturaldepot.com/Merchant2/merchant.mvc?Screen=CTGY&Category_Code=help) |   
----|---|---|---  
-  
-[](https://www.architecturaldepot.com/Merchant2/merchant.mvc?Session_ID=310d5df12515c89fcfcbe60d7ab19e2a&merchant.mvc?&Screen=SFNT)[](http://www.architecturaldepot.com/Merchant2/merchant.mvc?Screen=CTGY&Category_Code=ceiling-and-walls)[](http://www.architecturaldepot.com/Merchant2/merchant.mvc?Screen=CTGY&Category_Code=door-and-window)[](http://www.architecturaldepot.com/Merchant2/merchant.mvc?Screen=CTGY&Category_Code=wood-products)[](http://www.architecturaldepot.com/Merchant2/merchant.mvc?Screen=CTGY&Category_Code=for-the-interior)[](http://www.architecturaldepot.com/Merchant2/merchant.mvc?Screen=CTGY&Category_Code=for-the-exterior)
-
-|   
-  
-**Browse:**  
-  
 **We Protect Your Privacy  
 **  
 At ArchitecturalDepot.com, we are committed to protecting your privacy. We use the information we collect about you to process your order and to provide a more personalized shopping experience. Please read on for more details about our privacy policy.
