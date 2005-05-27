@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the thestreet.com privacy policy that was archived on 2004-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041230072905id_/http%3A//www.thestreet.com/tsc/commerce/privacy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestreet.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528012411id_/http%3A//www.thestreet.com/tsc/commerce/privacy/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
   
 |   
 **TheStreet.com, Inc. Privacy Policy**  
-**Last revised: January 22, 2004**
+**Last revised: April 25, 2005**
 
 TheStreet.com, Inc. shares your concern about the protection of your personal information online. This is our policy regarding the privacy of information we collect on our web sites. We have recently revised our policy. Please take some time to review the new version below. This Privacy Policy includes examples of the types of personal information we collect and the kinds of companies with whom we share such information. These examples are illustrative and should not be considered a complete inventory of our information collection, use and sharing practices. We will comply with applicable state laws that may restrict the types of information we may disclose about you or require us to provide you with additional notices.  | **Information Gathered and Tracked by TheStreet.com, Inc.**  
 ---  
@@ -17,7 +17,7 @@ TheStreet.com, Inc. gathers two types of data about users: (a) personal informat
 TheStreet.com collects personal information in several places on our web sites, which are set forth generally below. We will always provide a secure area of our sites for you to enter your information, but if you prefer, you may talk offline to a customer service representative and provide the required information over the telephone or via email. 
 
   * **Membership**  
-Currently, we do not require users to become members of TheStreet.com in order to have access to the free commentary, analysis and news available on our flagship site, _www.thestreet.com_. However, if you'd like to receive one or more of our free email newsletters, gain access select commentary articles from _RealMoney_ and daily archives of Jim Cramer's radio program, or use our _MyStockWatch_ service to filter content from _TheStreet.com_ , we require you to register [here](https://secure2.thestreet.com/cap/prm.do?PID=PRFR-0003&OID=000842) to become a member. In order to register, you'll have to supply us with your email and postal addresses, choose a unique User Name and password, and provide us with some additional information about you (the reason for your visit to TheStreet.com, what kind of investor you are, etc.). 
+Currently, we do not require users to become members of TheStreet.com in order to have access to the free commentary, analysis and news available on our flagship site, _www.thestreet.com_. However, if you'd like to receive one or more of our free email newsletters, gain access select commentary articles from _RealMoney_ and daily archives of Jim Cramer's radio program, or use our _MyStockWatch_ service to filter content from _TheStreet.com_ , we require you to register [here](https://secure2.thestreet.com/cap/prm.do?PID=PRFR-0003&OID=000842) to become a member. In order to register, you'll have to supply us with your email and postal addresses, choose a unique User Name and password, and provide us with some additional information about you (the reason for your visit to TheStreet.com, what kind of investor you are, etc.). Additionally, you will be required to verify your email address by clicking on the activation link in the Welcome Letter that will be sent to you upon your submission of a completed registration form. 
   * **Premium Services**  
 If you'd like access to one or more of our premium subscription-based services, you first must [register](https://secure2.thestreet.com/cap/prm.do?PID=PRFR-0003&OID=000842) as a member of TheStreet.com as described above, and then you'll have to pick a unique User Name and password. Then, on the subscription registration page for the premium service you are interested in, you'll need to supply us with the information specified to activate your free trial or paid subscription. 
   * **Real-Time Portfolio Tracker**  
