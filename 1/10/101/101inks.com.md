@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 101inks.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208030008id_/http%3A//www.101inks.com/privacy1.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 101inks.com privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527125259id_/http%3A//www.101inks.com/privacy1.asp) for the most accurate reproduction.*
 
-# 101inks
+# 101inks.com - sells remanufactured and generic brands of Canon Epson Lexmark HP ink cartridges, printer ink jet cartridge, printer ink refill kits, copier toners and laser toner cartridges.
 
 **  Why we collect information ?**  
 Customizing the experience
