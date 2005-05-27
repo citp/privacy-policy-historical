@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allaboutdance.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208021338id_/http%3A//www.allaboutdance.com/Merchant2/merchant.mvc%3FScreen%3DPRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboutdance.com privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527201015id_/http%3A//www.allaboutdance.com/Merchant2/merchant.mvc%3FScreen%3DPRIVACY) for the most accurate reproduction.*
 
 # Privacy Information
 
@@ -15,7 +15,7 @@
 > 
 > When you place an order online or browse the web site, your personal information and credit card information are encrypted using SSL encryption technology before being sent over the Internet, making it virtually impossible for your information to be stolen or intercepted while being transferred to AllAboutDance.com. Click the Thawte logo below to view and authenticate our secure certificate:
 > 
-> [ ](https://www.thawte.com/cgi/server/certdetails.exe?code=USBROA29) **Cookies**
+> [ ](https://www.thawte.com/cgi/server/certdetails.exe?code=USBROA29-3) **Cookies**
 > 
 > To personalize your experience at AllAboutDance.com, we use a feature on your Internet browser called a cookie. Cookies are small files that your Web browser places on your computer's hard drive. We use cookies to let us know that you are a prior customer and to retrieve certain information previously provided by you to AllAboutDance.com, so that you do not need to re-enter this information every time you shop at the site. Cookies also let us know how you found us (e.g., through a particular web site or advertisement).
 > 
