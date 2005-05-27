@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the financialchat.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002064744id_/http%3A//www.financialchat.com/about/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialchat.com privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527031933id_/http%3A//www.financialchat.com/about/privacy_policy.asp) for the most accurate reproduction.*
 
-# Financial Chat Privacy Policy
+# Financial Chat
 
 **Privacy Policy**
 
@@ -31,8 +31,8 @@ In response to concerns about protecting children's privacy online, Congress ena
 Questions regarding children's privacy should be directed to: 
 
 Financial Chat, Inc.  
-207 Main Street Suite 6  
-Nashua, NH 03060  
+27 Emerson Lane   
+Hollis, NH 03049  
 
 
 Disclosure  
