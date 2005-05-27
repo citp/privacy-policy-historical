@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the auctionsoftwarereview.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208110649id_/http%3A//www.auctionsoftwarereview.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctionsoftwarereview.com privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527115542id_/http%3A//www.auctionsoftwarereview.com/privacy.asp) for the most accurate reproduction.*
 
-# Auction Software Review - Privacy Policy
+# Privacy Policy at The Auction Software Review
 
-| 
-
-## What this Privacy Policy Covers
+## Privacy Policy
 
 This Privacy Policy covers The Auction Software Review's treatment of personally identifiable information that is collected when you are on the site.
 
@@ -19,7 +17,7 @@ This Privacy Policy covers The Auction Software Review's treatment of personally
 
 ## Information Sharing and Disclosure
 
-> The Auction Software Review will not sell, rent or otherwise disclose your personally identifiable information to anyone, unless required by law. 
+The Auction Software Review will not sell, rent or otherwise disclose your personally identifiable information to anyone, unless required by law. 
 
 ## Cookies
 
@@ -31,7 +29,7 @@ This Privacy Policy covers The Auction Software Review's treatment of personally
 ## Editing and Deleting Your Member Information
 
   * You may edit your member information at any time by going to the Profile page
-  * You may request deletion of your member details by [sending an email](https://web.archive.org/web/20041208110649id_/http%3A//www.auctionsoftwarereview.com/email.asp?subject=memberdelete) quoting the email address you registered with
+  * You may request deletion of your member details by [sending an email](https://web.archive.org/web/20050527115542id_/http%3A//www.auctionsoftwarereview.com/email.asp?subject=memberdelete) quoting the email address you registered with
 
 
 
@@ -45,6 +43,4 @@ This Privacy Policy covers The Auction Software Review's treatment of personally
 
 ## Changes to this Privacy Policy
 
-> The Auction Software Review may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our home page. 
-
-| 
+The Auction Software Review may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our home page. 
