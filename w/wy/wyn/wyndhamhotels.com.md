@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wyndhamhotels.com privacy policy that was archived on 2004-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041020002917id_/http%3A//www.wyndham.com/infocontent/privacystatement/info.wnt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyndhamhotels.com privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527082854id_/http%3A//www.wyndham.com/privacystatement/info.wnt) for the most accurate reproduction.*
 
 # Wyndham Hotels & Resorts - Privacy Policy
 
@@ -42,7 +42,7 @@ We use personally identifiable information supplied by you ONLY as follows:
   
 **You may "opt out" at any time.**
 
-You may notify Wyndham at any time that you no longer wish to receive Marketing opportunities. You may do so by writing to Wyndham at Wyndham International, Inc., 1950 Stemmons Freeway Suite 6001, Dallas, Texas 75207, Attention: Marketing/eCommerce Dept: Email Removal. Or you may telephone Wyndham at 1-866-850-3070 , or email [ ebusiness@wyndham.com](mailto:ebusiness@wyndham.com) with a request to " remove."   
+You may notify Wyndham at any time that you no longer wish to receive Marketing opportunities. You may do so by writing to Wyndham at Wyndham International, Inc., 1950 Stemmons Freeway Suite 6001, Dallas, Texas 75207, Attention: Marketing/eCommerce Dept: Email Removal. Or you may telephone Wyndham at 1-866-850-3070 , or email [ customerservice@wyndham.com](mailto:customerservice@wyndham.com) with a request to " remove."   
   
 **We limit third party access to personally identifiable information.**
 
@@ -72,6 +72,12 @@ Like most companies, we (or third party organizations that we engage) use "cooki
 Wyndham uses transparent GIF files (called "pixels") to help manage online advertising. Ordinarily an advertising management partner, such as DoubleClick or Blue Streak, provides the pixels. These files enable the advertising partner to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. 
 
 The information that we collect and share using cookies and pixels is anonymous and not personally identifiable by Wyndham or the advertising partner. It does not contain your name, address, telephone number, or email address.   
+  
+**Traffic or Clickstream Data**
+
+Data about traffic and usage are not personally identifying or identifiable, and are not supplemented or combined with personally identifying or identifiable information. Wyndham may share information it collects with certain selected third parties, but only in aggregated, anonymous form, without any personally identifiable information. Wyndham provides the aggregated data to third parties for analysis of use of the site. (For example, we may tell an advertiser that a certain number of people visited a certain area on our Web site, or searched Web sites for the term "hotel.") Wyndham collects some information regarding use of the Services by observing browser functions and the files (pages) that users access. For example, Wyndham's servers collect information about the site from which a user entered to enable Wyndham to calculate and pay its affiliates, information about the most frequently searched terms to help our advertisers provide the most relevant search results, information about usage to check for fraudulent behavior or other abnormalities, and to ensure that our Services are technically superior. Wyndham, either itself or with contracted third party service providers, uses the information (in aggregate form, without any personally identifiable information) to improve the Services. 
+
+Third party advertising companies under contract with Wyndham may also employ technology that is used to measure the effectiveness of ads. Any such information is anonymous, without any personally identifiable information. The advertisers may use this anonymous information about users' visits to this and other sites to provide advertisements about goods and services of potential interest. No personally identifiable information is collected during this process. The information is anonymous and does not link online actions to an identifiable person. If you would like more information and want to explore the option of not having this information collected by third-party advertisers, [click here](http://www.networkadvertising.org/).   
   
 **Changes in the privacy policy.**
 
