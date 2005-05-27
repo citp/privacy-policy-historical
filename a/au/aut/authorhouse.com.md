@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the authorhouse.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208012029id_/http%3A//www.authorhouse.com/Terms_Policies/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authorhouse.com privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527080317id_/http%3A//www.authorhouse.com/Terms_Policies/PrivacyPolicy.asp) for the most accurate reproduction.*
 
-# Writing the book was hard. Publishing it doesn't have to be. Call toll-free 888/519-5121
+# AuthorHouse Privacy Policy
 
 Privacy is one of the hottest issues today, on or off the Internet. **AuthorHouse™** is aware of these concerns and wants you to feel as comfortable shopping at our site as you do at your local bookstore. Our privacy policy, as detailed below, answers questions you may have about access, security, and control of personal information. It also describes how the information will be used and whether it will be provided to third parties. 
 
@@ -34,7 +34,7 @@ If you feel more comfortable doing so, you may place your book order over the te
 COOKIES   
 When you visit a website, information may be stored in a file known as a "cookie." This file is stored on your computer and is used for future reference. If you revisit a website, the cookie allows that website to identify you as a returning guest and tailor your shopping experience to you. 
 
-AuthorHouse's cookies do not contain any personally identifiable information. We use them in two places. The first is when a user places an order. We use cookies to fill in their name and email address in the form where appropriate (this is known as "auto-fill.") The second is when a customer uses the [Contact Us](https://web.archive.org/web/20041208012029id_/http%3A//www.authorhouse.com/ContactUs/) page. Again, we use cookies for auto-filling the form.
+AuthorHouse's cookies do not contain any personally identifiable information. We use them in two places. The first is when a user places an order. We use cookies to fill in their name and email address in the form where appropriate (this is known as "auto-fill.") The second is when a customer uses the [Contact Us](http://www.authorhouse.com/ContactUs/) page. Again, we use cookies for auto-filling the form.
 
 Most web browsers will allow you to erase cookies from your computer hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. Please refer to your web browser's help file to learn more about these functions. 
 
@@ -52,4 +52,4 @@ YOUR CONSENT AND NOTIFICATION OF CHANGES
 By using AuthorHouse website, you consent to the collection of personally identifiable information and the collection and use of non-personally identifiable information. If our privacy policy changes, we will post those changes on this page so that you are always aware of access, security, control of personal information, how information will be used, and whether it will be provided to third parties. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users through email. AuthorHouse users will always have a choice if we use their information in a different manner. AuthorHouse will use information in accordance with the privacy policy under which the information was collected. 
 
 TELL US WHAT YOU THINK   
-AuthorHouse welcomes your questions and comments about privacy. Please email us using the[ 'Contact Us'](https://web.archive.org/ContactUs/index.asp) page. 
+AuthorHouse welcomes your questions and comments about privacy. Please email us using the[ 'Contact Us'](http://www.authorhouse.com/ContactUs/) page. 
