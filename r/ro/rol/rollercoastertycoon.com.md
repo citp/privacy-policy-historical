@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the rollercoastertycoon.com privacy policy that was archived on 2004-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040705031531id_/http%3A//atari.com/us/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollercoastertycoon.com privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527040100id_/http%3A//atari.com/us/privacy_policy.php) for the most accurate reproduction.*
 
-# Atari
+# Atari - US - Privacy
+
+| 
 
 _Privacy Policy Effective as of 07/01/2004_
 
@@ -30,7 +32,7 @@ Because the website you are currently visiting displays the ESRB Privacy Online 
 The website you are currently visiting is operated by Atari, Inc. located at   
 417 Fifth Avenue, New York, NY 10016. This Privacy Policy currently applies to the following website(s) operated by Atari (collectively referred to as "Atari Websites" or "our Websites"):  
 www.atari.com  
-www.atari-support.com  
+www.atarisupport.com  
 www.gameregister.com  
 www.rollercoastertycoon.com  
 www.funkidsgames.com  
@@ -48,6 +50,7 @@ http://driver.gtgames.com/
 http://www.driver2.com/  
 http://www.dandheroes.com/  
 http://www.enterthematrixgame.com/  
+http://www.games.com/  
 http://www.godzillamonster.com/  
 http://www.gosplashdown.com/  
 http://www.grandprixgames.com/  
@@ -93,21 +96,15 @@ This Privacy Policy reflects the law of the United States. In France, the collec
 **What types of information does Atari collect?**  
 In order to give you the best experience on our Websites, Atari may collect information about you, but only if you voluntarily provide it to us. Typically, we may ask you to submit personal and/or demographic information in connection with any one of the following features or services. 
 
-  * Website registration   
-
-  * Game-specific registration  
-
-  * Newsletter subscription  
-
-  * Community forum  
-
+  * Online contact information 
+  * Website registration 
+  * Game-specific registration
+  * Newsletter subscription
+  * Community forum
   * Online Store
-  * Technical support  
-
-  * Contests, sweepstakes, and other promotions  
-
-  * Polls, surveys, or questionnaires  
-
+  * Technical support
+  * Contests, sweepstakes, and other promotions
+  * Polls, surveys, or questionnaires
   * Other features such as e-cards, wish lists, and tell-a-friend
 
 
@@ -190,13 +187,11 @@ Attn: Customer Database
 
 For complaints, you can also contact ESRB Privacy Online directly at www.esrb.org or by regular mail at:
 
-ESRB Privacy Online  
-845 Third Avenue  
-New York, NY 10022
+Entertainment Software Rating Board  
+317 Madison Avenue, 22nd Floor  
+New York, NY 10017
 
-This Privacy Policy was last updated on July 1, 2004.  
+This Privacy Policy was last updated on January 31, 2005.  
 
-
-[Printable version](https://web.archive.org/us/privacy_policy.htm?PHPSESSID=641ca1bfa233fda55be030957853f6d6)
 
 | 
