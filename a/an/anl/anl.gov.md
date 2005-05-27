@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anl.gov privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204231733id_/http%3A//www.anl.gov/notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anl.gov privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527223430id_/http%3A//www.anl.gov/notice.html) for the most accurate reproduction.*
 
 # Security and Privacy Notice
 
