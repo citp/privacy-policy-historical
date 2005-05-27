@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the americarx.com privacy policy that was archived on 2004-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041025014906id_/http%3A//www.americarx.com/index.asp%3FPageAction%3DCustom%26ID%3D26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americarx.com privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527085315id_/http%3A//www.americarx.com/index.asp%3FPageAction%3DCustom%26ID%3D26) for the most accurate reproduction.*
 
-# americarx.com - Online Pharmacy
+# Privacy Policy
 
 **_Information We Collect_**  
 We recognize your right to confidentiality and are committed to protecting your privacy. We use the information that we collect on our site to provide you with a superior shopping experience. And also to Inform you about products, services, and promotions whenever we feel it is neccessary. We always respect your Privacy and time. ** _Your Account Details_**  
