@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anb.com.sa privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204051420id_/http%3A//www.anb.com.sa/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anb.com.sa privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527213036id_/http%3A//www.anb.com.sa/privacy.asp) for the most accurate reproduction.*
 
 # Welcome Arab National Bank Website
 
