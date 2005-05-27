@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the astrocenter.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621092307id_/http%3A//www1.astrocenter.com/AstroWeb.dll%3Fm%3FAf%3D0%26De%3DPri%26TU%3D0%26TP%3D0%26VS%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrocenter.com privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527101130id_/http%3A//www.astrocenter.com/us/Privacy.aspx%3FAf%3D0%26VS%3D) for the most accurate reproduction.*
 
-# Astrocenter.com
+# Astrocenter.com - Privacy Policy, Astrology, Tarot, Psychics, Free Horoscopes, Free Tarot Readings, Free Psychic Readings
 
-  | 
-
-Astrocenter.com, Inc. ("we" or "Astrocenter") has created this privacy policy to demonstrate our commitment to privacy. We realize the importance of feeling safe online and want you to feel comfortable using our personalized services and exchanging information on our web site. We are committed to protecting your personal information and will take reasonable steps to see that this privacy policy is followed within our company. This statement below outlines the privacy practices for Astrocenter.com and is incorporated into and subject to the terms and conditions of our [Terms of Service](http://www2.astrocenter.com/AstroWeb.dll?m?Af=0&De=Tm&TU=0&TP=0&VS=). 
+   
+**Astrocenter Privacy Policy** | previous page   
+  
+   
+   
+  
+Astrocenter.com, Inc. ("we" or "Astrocenter") has created this privacy policy to demonstrate our commitment to privacy. We realize the importance of feeling safe online and want you to feel comfortable using our personalized services and exchanging information on our web site. We are committed to protecting your personal information and will take reasonable steps to see that this privacy policy is followed within our company. This statement below outlines the privacy practices for Astrocenter.com and is incorporated into and subject to the terms and conditions of our Terms of Service. 
 
 **I. INFORMATION COLLECTED**  
 In order to provide you with personalized services and features we ask you to register and establish your personal profile. During the registration process we will ask you for information such as your name, gender, birth information, e-mail address, password, place of residence, zip code, etc. This information is used to calculate an accurate horoscope or biorhythm and to provide you with the best possible personalized service. Your e-mail address together with a password is used to secure your profile and to make our personalized e-mail services available to you. We collect non-personally identifiable information about you in a number of ways, including tracking your activities on our site through your IP address or most-recently-visited URL. However, we do not collect any personally identifiable information about you unless you voluntarily submit such information to us, by using our products and services or by filling out a form or survey. 
@@ -32,17 +36,14 @@ Our web site contains links to other web sites. Astrocenter is not responsible f
 **VII. CORRECT/UPDATE**  
 You can change and update the personal information you previously provided. This may be done through the following method: 
 
-1\. Visit Astrocenter.com and log in to your personalized Home Page  
-2\. Click on the "Edit Your Profile" link  
-3\. Change the relevant information  
+    1\. Visit Astrocenter.com and log in to your personalized Home Page  
+    2\. Click on the "Edit" link  
+    3\. Change the relevant information
 
-
-Unfortunately, to the extent that such information is also stored in other databases, we cannot always ensure that such corrections or deletions will reach the other databases. We will use all reasonable efforts to ensure that your information is removed from our records. The "Send it to a friend" option authorizes us to send an e-mail to your friends. Your friends will not receive any other e-mail from Astrocenter as a result of such option. If you have chosen to receive your Daily or Weekly Horoscope by e-mail, you can at any time cancel this by clicking on the link "You are receiving AstroMail" on your personalized Home Page, and selecting the option "Unsubscribe". 
+Unfortunately, to the extent that such information is also stored in other databases, we cannot always ensure that such corrections or deletions will reach the other databases. We will use all reasonable efforts to ensure that your information is removed from our records. If you have chosen to receive your Daily or Weekly Horoscope by e-mail, you can at any time cancel this by clicking on the link "You are receiving AstroMail" on your personalized Home Page, and selecting the option "Unsubscribe". 
 
 **VIII. DELETE PROFILE**  
-You can delete your profile at any time by clicking on the link [delete@astrocenter.com](mailto:delete@astrocenter.com.). 
+You can delete your profile at any time by clicking on the "delete profile" link. 
 
 **IX. CONTACTING US**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact us at [privacy@astrocenter.com](mailto:privacy@astrocenter.com). 
-
-|  
