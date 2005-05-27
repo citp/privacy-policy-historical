@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afa.net privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204000354id_/http%3A//www.afa.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afa.net privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528011636id_/http%3A//www.afa.net/privacy.asp) for the most accurate reproduction.*
 
 # AFA - American Family Association - Privacy Statement
 
@@ -27,7 +27,7 @@ AFA does not knowingly collect or solicit Personally Identifiable Information fr
 We can be reached by contacting: 
 
 American Family Association  
-107 Parkgate Dr.  
+P.O. Drawer 2440   
 Tupelo, MS 38803
 
   
