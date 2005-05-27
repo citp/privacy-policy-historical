@@ -1,42 +1,12 @@
-> *The following text is extracted and transformed from the 123inkjets.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209060633id_/http%3A//www.123inkjets.com/content.html%3Fshow%3Dprivacy%26frm%3Dbnav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123inkjets.com privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527190941id_/http%3A//www.123inkjets.com/cs/policies_privacy.html) for the most accurate reproduction.*
 
-# 123inkjets.com - General Information
+# 123inkjets.com - Printer Ink, Toner & More
 
-Company Information  
-  **»** [About Us](https://web.archive.org/web/20041209060633id_/http%3A//www.123inkjets.com/content.html?show=aboutus)  
-  **»** [Affiliate Program](https://web.archive.org/web/20041209060633id_/http%3A//www.123inkjets.com/content.html?show=affiliates)  
-  **»** [Contact Us](https://web.archive.org/web/20041209060633id_/http%3A//www.123inkjets.com/content.html?show=contact)
+This Privacy Policy discloses the privacy practices for 123inkjets.com website and various related services (together referred to as the **site** ). **As the provider of this, we are committed to protecting your privacy online. In a nutshell our privacy policy states that we will never rent, sell or lease your email address to anyone without your permission. So, please read the information below to learn the following regarding your use of this site.**
 
-Shipping Info  
-  **»** [Methods and Costs](https://web.archive.org/web/20041209060633id_/http%3A//www.123inkjets.com/content.html?show=shipping)  
-  **»** [E-mails About Your Order](https://web.archive.org/web/20041209060633id_/http%3A//www.123inkjets.com/content.html?show=emails)  
+123inkjets.com has partnered with third parties to offer our customers and Site visitors a variety of products and services. Other than as set forth herein, we will not sell or lease your email address to third party advertisers to solicit you directly. However 123inkjets.com may share Personally Identifiable Information (but never your email address) with our marketing partners in order for them to offer you additional products and services that 123inkjets.com believes may be of interest to you. Although we only work with third parties whom we believe to be reputable, our marketing partners may have different privacy policies and practices than 123inkjets.com. We encourage you to review our marketing partners' privacy policies to further understand their procedures for collecting, using and disclosing your information. We are not responsible for the privacy practices of our marketing partners or any other third parties. If you decide that you would like to discontinue receiving promotional materials from these or any third parties, please contact them directly.
 
-
-Guarantees & Policies  
-  **»** [One-Year Product Guarantee](https://web.archive.org/web/20041209060633id_/http%3A//www.123inkjets.com/content.html?show=guarantee)  
-  **»** [Easy Returns & Exchanges](https://web.archive.org/web/20041209060633id_/http%3A//www.123inkjets.com/content.html?show=returns)  
-  **»** [Privacy Policy](https://web.archive.org/web/20041209060633id_/http%3A//www.123inkjets.com/content.html?show=privacy)  
-  **»** [Terms & Conditions](https://web.archive.org/web/20041209060633id_/http%3A//www.123inkjets.com/content.html?show=terms)  
-
-
-About Your Order  
-  **»** [About Cookies](https://web.archive.org/web/20041209060633id_/http%3A//www.123inkjets.com/content.html?show=cookies)  
-  **»** [Frequently Asked Questions](https://web.archive.org/web/20041209060633id_/http%3A//www.123inkjets.com/content.html?show=faq)  
-  **»** [Fast & Easy Return Instructions](https://web.archive.org/web/20041209060633id_/http%3A//www.123inkjets.com/content.html?show=rinstructions)  
-
-
-Payment & Inquiries  
-  **»** [Check Ticket Status](https://web.archive.org/web/20041209060633id_/http%3A//www.123inkjets.com/content.html?show=noacc-tkt)  
-  **»** [Check Orders By Mail](https://web.archive.org/web/20041209060633id_/http%3A//www.123inkjets.com/content.html?show=checkorders)  
-  **»** [Fax Orders](https://web.archive.org/web/20041209060633id_/http%3A//www.123inkjets.com/content.html?show=faxorders)  
-  **»** [Purchase Orders](https://web.archive.org/web/20041209060633id_/http%3A//www.123inkjets.com/scontent.html?show=pos)  
-  **»** [Sales Tax](https://web.archive.org/web/20041209060633id_/http%3A//www.123inkjets.com/content.html?show=salestax)  
-  **»** [Payment Options](https://web.archive.org/web/20041209060633id_/http%3A//www.123inkjets.com/content.html?show=poptions)  
-
-
-|  
-
-This Privacy Policy discloses the privacy practices for 123inkjets.com website and various related services (together referred to as the **site** ). **As the provider of this, we are committed to protecting your privacy online. In a nutshell our privacy policy states that we will never rent, sell or lease your information to anyone else. So, please read the information below to learn the following regarding your use of this site.**
+Should you wish to change your preferences regarding the information that you receive from 123inkjets.com or its affiliates, or would prefer that we not share your Personally Identifiable Information with our marketing partners, please refer to the paragraph below entitled " **4\. Updating and Correcting Information** " Please note that we are not responsible for retracting your Personally Identifiable Information from any third parties with whom we have shared your information pursuant to the terms and conditions of this Policy. 
 
 You acknowledge that this Privacy Policy is part of our Site Terms of Use, and by accessing or using our site, you agree to be bound by all of its terms and conditions. If you do not agree to these terms, please do not access or use this site. 
 
@@ -52,49 +22,49 @@ Non-Personally Identifiable Information: This refers to information that does no
 
 **2\. Collection Methods and Use of Information**
 
-We do not collect any Personally Identifiable Information about you unless you voluntarily provide it to us. You provide certain Personally Identifiable Information to us when you (a) register for our services and register your email address with us; (b) enter sweepstakes or contests sponsored by us or one of our partners; (c) sign up for special offers from selected third parties; (d) send email messages, submit forms or transmit other information by telephone or letter; or (e) submit your credit card or other payment information when ordering and purchasing products and services on our site. We may also collect information from you at other points on our site that state that such information is being collected. 
+We do not collect any Personally Identifiable Information about you unless you voluntarily provide it to us. You provide certain Personally Identifiable Information to us when you (a) register for our services and register your email address with us; (b) enter sweepstakes or contests sponsored by us or one of our partners; (c) sign up for special offers from selected third parties; (d) send email messages, submit forms or transmit other information by telephone or letter; or (e) submit your credit card or other payment information when ordering and purchasing products and services on our site. We may also collect information from you at other points on our site that state that such information is being collected.
 
-In addition, we may also collect, or our third party ad server and/or content server may collect, certain Non- Personally Identifiable Information. This information is ultimately stored in the form of store categories, and, in some cases, specific URLs. We use your IP address to diagnose problems with our servers, software, to administer our site and to gather demographic information. Our third party ad servers will also provide us with summary, but not individual, reports that will tell us how many ads were presented and clicked upon at out site. 
+In addition, we may also collect, or our third party ad server and/or content server may collect, certain Non- Personally Identifiable Information. This information is ultimately stored in the form of store categories, and, in some cases, specific URLs. We use your IP address to diagnose problems with our servers, software, to administer our site and to gather demographic information. Our third party ad servers will also provide us with summary, but not individual, reports that will tell us how many ads were presented and clicked upon at out site.
 
-We will primarily use your Personally Identifiable Information to provide our services to you, as required by our agreements with you. We will also use Personally Identifiable Information to enhance the operation of our site, fill orders, improve our marketing and promotional efforts, statistically analyze site use, improve our product and service offerings, and customize our site's content, layout, and services. We may use Personally Identifiable Information to deliver information to you and to contact you regarding administrative notices. We may also use Personally Identifiable Information to resolve disputes, troubleshoot problems and enforce our agreements with you, including our Site Terms of Use, Sales Terms and Conditions, and this Private Policy. 
+We will primarily use your Personally Identifiable Information to provide our services to you, as required by our agreements with you. We will also use Personally Identifiable Information to enhance the operation of our site, fill orders, improve our internal and marketing partner's promotional efforts, statistically analyze site use, improve our product and service offerings, and customize our site's content, layout, and services. We may use Personally Identifiable Information to deliver information to you and to contact you regarding administrative notices. We may also use Personally Identifiable Information to resolve disputes, troubleshoot problems and enforce our agreements with you, including our Site Terms of Use, Sales Terms and Conditions, and this Private Policy. 
 
 **3\. Release of Information**
 
-We do not sell, trade, or rent your Personally Identifiable Information to others. We do provide some of our services through contractual arrangements with affiliates, services providers, partners and other third parties. We (and our service partners) use your Personally Identifiable Information to operate our sites and to deliver their services. For example, we must release your credit card information to the card-issuing bank to confirm payment for products and services purchased on this site; release your address information to the delivery service to deliver products that you ordered; and provide order information to third parties that help us provide customer service. 
+We provide some of our services through contractual arrangements with affiliates, services providers, partners and other third parties. We (and our service partners) use your Personally Identifiable Information to operate our sites and to deliver their services. For example, we must release your credit card information to the card-issuing bank to confirm payment for products and services purchased on this site; release your address information to the delivery service to deliver products that you ordered; and provide your address information to third parties that mail catalogs and other physical promotions; and provide order information to third parties that help us provide customer service.
 
-We will encourage our service partners to adopt and post privacy policies. However, the use of your Personally Identifiable Information by our service partners is governed by the privacy policies of those service partners, and is not subject to our control. 
+We will encourage our service partners to adopt and post privacy policies. However, the use of your Personally Identifiable Information by our service partners is governed by the privacy policies of those service partners, and is not subject to our control.
 
-Occasionally we may be required by law enforcement or judicial authorities to provide Personally Identifiable Information to the appropriate governmental authorities. We will disclose Personally Identifiable Information upon receipt of a court order, subpoena, or to cooperate with a law enforcement investigation. We fully cooperate with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful. 
+Occasionally we may be required by law enforcement or judicial authorities to provide Personally Identifiable Information to the appropriate governmental authorities. We will disclose Personally Identifiable Information upon receipt of a court order, subpoena, or to cooperate with a law enforcement investigation. We fully cooperate with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful.
 
 We may also provide Non-Personally Identifiable Information about our customers' sales, traffic patterns, and related site information to third party advertisers, but these statistics do not include any Personally Identifiable Information. 
 
 **4\. Updating and Correcting Information**
 
-We believe you should have the ability to access and edit the Personally Identifiable Information that you have provided to us. You may change any of your Personally Identifiable Information in your account online at any time by linking to your account in accordance with instructions posted elsewhere on this site. You may also access and correct your personal information and privacy preferences by writing us at: 
+We believe you should have the ability to access and edit the Personally Identifiable Information that you have provided to us. You may change any of your Personally Identifiable Information in your account online at any time by linking to your account in accordance with instructions posted elsewhere on this site. If you prefer, you may also request in writing that we no longer share Personally Identifiable Information with our marketing partners. Once we receive such request, your information will be updated within 7 business days. You may also access and correct your personal information and privacy preferences by writing us at:
 
 123inkjets.com  
-25 E. Easy Street   
+25 E. Easy Street  
 Simi Valley, CA 93065
 
 Please include your name, address, and/or email address when you contact us. 
 
-We encourage you to promptly update your Personally Identifiable Information if it changes. You may ask to have the information on your account deleted or removed; however, because we keep track of past transactions, you cannot delete information associated with past transactions on this site. In addition, it may be impossible to completely delete your information without some residual information because of backups. 
+We encourage you to promptly update your Personally Identifiable Information if it changes. You may ask to have the information on your account deleted or removed; however, because we keep track of past transactions, you cannot delete information associated with past transactions on this site. In addition, it may be impossible to completely delete your information without some residual information because of backups.
 
 **5\. User Choices on Collection and Use of Information**
 
-We may, from time to time, send you email regarding our products and services. In addition, if you indicated upon registration that you are interested in receiving offers or information from us and our partners. Only we (or agents working on behalf of [~ name of us and under confidentiality agreements) will send you these promotional offers and only if you indicated that you do not object to these offers. If you do not want to receive such mailings, simply tell us when you give us your personal information. Or, at any time you can edit your account information to no longer receive such offers and mailings. 
+We may, from time to time, send you email regarding our products and services. Or, at any time you can update your account information to no longer receive such emailings. See Section 4 above.
 
-You also have choices with respect to cookies, as described below. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies some parts of our site may not work properly in your case. 
+You also have choices with respect to cookies, as described below. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies some parts of our site may not work properly in your case.
 
 **6\. Security of Information**
 
 At our site you can be assured that your Personally Identifiable Information is secure, consistent with current industry standards. The importance of security for all Personally Identifiable Information associated with our user is of utmost concern to us. Your Personally Identifiable Information is protected in several ways. Access by you to your Personally Identifiable Information is available through a password and unique customer ID selected by you. This password is encrypted. We recommend that you do not divulge your password to anyone. In addition, your Personally Identifiable Information resides on a secure server that only selected key personnel and contractors have access to via password. We encrypt your Personally Identifiable Information and thereby prevent unauthorized parties from viewing such information when it is transmitted to us.
 
-Personal information that you provide that is not Personally Identifiable Information also resides on a secure server and is only accessible via password. Since this information is not accessible from outside our company you will not be asked to select a password in order to view or modify such information. 
+Personal information that you provide that is not Personally Identifiable Information also resides on a secure server and is only accessible via password. Since this information is not accessible from outside our company you will not be asked to select a password in order to view or modify such information.
 
-In order to most efficiently serve you, credit card transactions and order fulfillment are handled by established third party banking, processing agents and distribution institutions. They receive the information needed to verify and authorize your card or other payment information and to process and ship your order. 
+In order to most efficiently serve you, credit card transactions and order fulfillment are handled by established third party banking, processing agents and distribution institutions. They receive the information needed to verify and authorize your card or other payment information and to process and ship your order.
 
-Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your Personally Identifiable Information, you acknowledge that: (a) there are security and privacy limitations of the Internet which are beyond our control; (b) the security, integrity and privacy of any and all information and data exchanged between you and us through this site cannot be guaranteed; and (c) any such information and data may be illegally viewed or tampered with in transit by a third party. 
+Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your Personally Identifiable Information, you acknowledge that: (a) there are security and privacy limitations of the Internet which are beyond our control; (b) the security, integrity and privacy of any and all information and data exchanged between you and us through this site cannot be guaranteed; and (c) any such information and data may be illegally viewed or tampered with in transit by a third party.
 
 **7\. Cookies**
 
@@ -116,7 +86,7 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 123inkjets.com  
 Attn: Privacy Compliance Officer   
-25 E. Easy Street   
+25 E. Easy Street  
 Simi Valley, CA 93065
 
-You may also contact us by email at [privacy@inkjetorder.com](mailto:privacy@inkjetorder.com). 
+You may also contact us by email at [privacy@123inkjets.com](mailto:privacy@123inkjets.com). 
