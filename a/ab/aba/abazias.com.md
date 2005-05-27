@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the abazias.com privacy policy that was archived on 2004-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041104022516id_/http%3A//www.abazias.com/terms/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abazias.com privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527105609id_/http%3A//www.abazias.com/terms/privacy.asp) for the most accurate reproduction.*
 
 # Abazias.com Terms of Service
 
 At Abazias, we are 100% committed to your privacy and the security of the information you provide to us during your visit to our site. We encourage you to review our policies below to ensure your privacy and comfort while visiting and ordering at our web site. 
 
-If you believe that Abazias.com s in breach of our privacy policy, please contact us via email at [support@abazias.com](mailto:support@abazias.com) or call us at 1.800.603.9940. 
+If you believe that Abazias.com is in breach of our privacy policy, please contact us via email at [support@abazias.com](mailto:support@abazias.com) or call us at 1.800.603.9940. 
 
 **Collecting personal information**
 
@@ -28,7 +28,7 @@ During our checkout process, we employ several methods to protect you against on
   
 ---  
   
-|  |  | [](http://www.bbbonline.org/cks.asp?id=101081710343818692) | [](http://www.diamond.info/)  
----|---|---|---|---  
+  |  |  |  | [](http://www.bbbonline.org/cks.asp?id=101081710343818692) |    
+---|---|---|---|---|---  
   
 
