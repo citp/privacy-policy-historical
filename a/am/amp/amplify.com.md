@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amplify.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207191425id_/http%3A//www.amplify.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amplify.com privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527085545id_/http%3A//www.amplify.com/privacy.asp) for the most accurate reproduction.*
 
 # Amplify - Privacy Policy
 
@@ -87,4 +87,4 @@ System Requirements
 **2.** Microsoft Internet Explorer Version 5.5 or later  
   
   
-[](https://web.archive.org/web/20041207191425id_/http%3A//www.amplify.com/download.asp)
+[](https://web.archive.org/web/20050527085545id_/http%3A//www.amplify.com/download.asp)
