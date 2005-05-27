@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cfainstitute.org privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207043735id_/http%3A//www.cfainstitute.org/support/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfainstitute.org privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528011642id_/http%3A//www.cfainstitute.org/support/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -47,7 +47,7 @@ These organizations include, but are not limited to:
 
 
 
-By becoming a Member of CFA Institute or a candidate in the CFA Program you also allow CFA Institute to release your personal information to individuals and entities which order the Membership Directory. By becoming a Member of CFA Institute or a candidate in the CFA Program, you have consented to the release of information related to your candidacy or membership to your employer and certain government agencies. If you apply to become a member or are a member of CFA Institute Member Societies, you have consented to the release of information related to your membership to the Member Society to which you applied.
+By becoming a Member of CFA Institute or a candidate in the CFA Program, you have consented to the release of information related to your candidacy or membership to your employer and certain government agencies. If you apply to become a member or are a member of CFA Institute Member Societies, you have consented to the release of information related to your membership to the Member Society to which you applied.
 
 **USER NAME AND PASSWORD**
 
