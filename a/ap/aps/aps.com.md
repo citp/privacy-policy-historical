@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aps.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204080958id_/http%3A//www.aps.com/general_info/privacy/privacypolicy_1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aps.com privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527125459id_/http%3A//www.aps.com/general_info/privacy/privacypolicy_1.html) for the most accurate reproduction.*
 
 # APS :: Privacy Policy
 
@@ -39,4 +39,4 @@ APS reserves the right to change this policy at any time and encourages you to p
 
 If you feel that this site is not following its stated information policy, you may contact us at the above address or phone number. 
 
-The [Terms of Use](https://web.archive.org/web/20041204080958id_/http%3A//www.aps.com/general_info/privacy/privacypolicy_3.html) provide further information governing your use of aps.com.
+The [Terms of Use](https://web.archive.org/web/20050527125459id_/http%3A//www.aps.com/general_info/privacy/privacypolicy_3.html) provide further information governing your use of aps.com.
