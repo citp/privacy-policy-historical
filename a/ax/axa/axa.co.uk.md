@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axa.co.uk privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012172147id_/http%3A//www.axa.co.uk/security_privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axa.co.uk privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527124515id_/http%3A//www.axa.co.uk/security_privacy/index.html) for the most accurate reproduction.*
 
 # security and privacy - privacy statement
 
@@ -6,11 +6,11 @@
 
 Any personal information you supply to AXA UK via this website will be treated in accordance with the Data Protection Act 1998. If you provide personal information via this website you will be told what the information you provide will be used for before the information is submitted to AXA UK.
 
-AXA UK maintains a list of visitors who have contacted us through the contact form on the website‚ recording only that information optionally supplied by the visitor. This will include name‚ email address‚ and the subject matter of the query. In addition‚ a visitor has the option of supplying a telephone number‚ policy number‚ and preferred contact time.
+AXA UK maintains a list of visitors who have contacted us through the contact form on the website‚ recording only that information voluntarily supplied by the visitor. This will include name‚ email address‚ and the subject matter of the query. In addition‚ a visitor has the option of supplying a telephone number‚ policy number‚ and preferred contact time.
 
 The feedback messages sent to us are retained so that we can respond to queries received‚ keep track of any site feedback‚ and also to ensure we comply with legislation.
 
-This information is held indefinitely.
+This information is held as long as is reasonably necessary.
 
 The information is not used for any other purpose. It may be passed to other parts of the AXA Group‚ or it's Agents in the process of dealing with any queries‚ but will not be passed to external 3rd parties‚ or used for any marketing purposes.
 
