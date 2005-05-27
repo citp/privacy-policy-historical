@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alloy.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204122753id_/http%3A//alloy.com/home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alloy.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528012427id_/http%3A//www.alloy.com/home/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Statement - Alloy
 
