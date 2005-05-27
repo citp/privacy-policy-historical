@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ada.org privacy policy that was archived on 2004-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041217053707id_/http%3A//www.ada.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ada.org privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527233057id_/http%3A//www.ada.org/privacy.asp) for the most accurate reproduction.*
 
 # ADA.org: Privacy Policy
 
@@ -7,7 +7,7 @@
   * How We May Use Information We Collect 
   * Your Rights 
   * Children’s Privacy 
-  * More About Our Privacy Practices 
+  * More About Our Privacy Practices (Updated 03/14/05)
   * Changes, Comments and Questions 
 
 
@@ -73,7 +73,9 @@ Return to Top
 
 **More About Our Privacy Practices**
 
-With respect to other web sites and servers: ADA.org contains links to other web sites. We have no control over and take no responsibility for the privacy practices or content of those sites. We do not partner with or have special relationships with any ad server companies. 
+With respect to other web sites and servers: ADA.org contains links to other web sites. We have no control over and take no responsibility for the privacy practices or content of those sites. 
+
+The ADA does not partner with or have special relationships with ad server companies. However, we are running an advertising campaign pertaining to Direct Reimbursement on outside Web sites that link to ADA.org. The ADA utilizes transparent 1x1 pixel GIF files, provided by DoubleClick to help manage this online advertising. The information collected is anonymous and not personally identifiable. For more information about DoubleClick, including information about how to opt out of these technologies, go to http://www.doubleclick.net/us/corporate/privacy/.
 
 With respect to security: We use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. When users choose to make payments via credit cards, we submit the information needed to obtain payment to the appropriate clearinghouses. We do not store or reuse this credit card information, unless you have given your authorization for us to do so.
 
