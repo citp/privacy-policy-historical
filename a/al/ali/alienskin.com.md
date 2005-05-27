@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alienskin.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205000600id_/http%3A//www.alienskin.com/about_us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alienskin.com privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527193003id_/http%3A//www.alienskin.com/about_us/privacy.html) for the most accurate reproduction.*
 
 # Message From Alien Skin
 
