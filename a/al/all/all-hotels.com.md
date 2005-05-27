@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the all-hotels.com privacy policy that was archived on 2004-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041120030219id_/http%3A//www.all-hotels.com/about_us/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-hotels.com privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527201432id_/http%3A//www.all-hotels.com/about_us/privacy.htm) for the most accurate reproduction.*
 
 # help and info - faq menu page
 
@@ -56,9 +56,7 @@ Sanderson House
 35 Water Street, Leith   
 Edinburgh   
 SCOTLAND, UK   
-EH6 6SU   
-Tel: 44-131-625-1070   
-Fax: 44-131-625-1066 
+EH6 6SU 
 
 **Changes to our Privacy Policy**  
 This policy may be revised over time as new features are added to the web site. We will post those changes prominently so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. Please check this site for information about revisions to our privacy policy. 
