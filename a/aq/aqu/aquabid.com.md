@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the aquabid.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207002928id_/http%3A//www.aquabid.com/faq/index.php%3Fa%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquabid.com privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527221618id_/http%3A//www.aquabid.com/faq/index.php%3Fa%3D1) for the most accurate reproduction.*
 
-# AquaBid.com - FAQ
+# Knowledge Base
 
   
 Privacy Policy
 
-**General**  
+General
+
 AquaBid.com respects the privacy of every individual who visits our websites. This Privacy Policy outlines the information AquaBid.com may collect and how we may use that information.
 
-**  
-Personal Data**
+Personal Data
 
 AquaBid.com will not collect any personally identifiable information about you (e.g., your name, address, telephone number or email address ("personal data")) through our websites unless you have provided it to us voluntarily. If you do not want your personal data collected, please do not submit it to us.
 
@@ -19,31 +19,33 @@ When you provide your personal information to this auction (such as name, addres
 
 If you have any questions or concerns in this area we are happy to respond personally to you; e-mail us.
 
-To elaborate: All exchanges between you and us will remain confidential with no personally identifiable information being sold or provided to any third party. 
+To elaborate: All exchanges between you and us will remain confidential with no personally identifiable information being sold or provided to any third party.
 
-This includes: 
+This includes:
 
-IP addresses and other information (browser, platform, referral URL etc.) contained in web server logs   
-E-mail addresses contained in messages sent to us.   
-Credit card or other financial information.   
-Names, addresses, telephone numbers, etc.   
-Legal Requests
+* IP addresses and other information (browser, platform, referral URL etc.) contained in web server logs  
+* E-mail addresses contained in messages sent to us.  
+* Credit card or other financial information.  
+* Names, addresses, telephone numbers, etc.
 
-AquaBid.com cooperates with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights, to help protect you and the AquaBid.com community from bad actors. Therefore, in response to a verified request by law enforcement or other government officials relating to a criminal investigation or alleged illegal activity, we can (and you authorize us to) disclose your name, city, state, telephone number, email address, username history, fraud complaints, and bidding and listing history without a subpoena. Without limiting the above, in an effort to respect your privacy and our ability to keep the community free from bad actors, we will not otherwise disclose your personal information to law enforcement or other government officials without a subpoena, court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to: prevent imminent physical harm or financial loss; or report suspected illegal activity.
-
-**Children**
+Children
 
 AquaBid.com has no intention of collecting any personal data from individuals under thirteen years of age. Where appropriate, the Company will specifically instruct children not to submit such information on our websites and/or will take reasonable steps to ensure parental consent to such submission.
 
 Parents should be aware that AquaBid.com's Privacy Policy will govern our use of personal data, but that information which is voluntarily given by children -- or others -- in chat sessions, email exchanges, bulletin boards or the like may be used by other parties to generate unsolicited mail. AquaBid.com encourages all parents to instruct their children in the safe and responsible use of their personal data while using the Internet.
 
-**Additional Information Collected Automatically**
+Additional Information Collected Automatically
 
 In some cases, we may automatically (i.e., not via registration) collect technical information when you connect to our site that is not personally identifiable. Examples of this type of information include the type of Internet Browser you are using, the type of computer operating system you are using and the domain name of the website from which you linked to our site.
 
-**Information Placed Automatically on Your Computer -- Cookies**
+Information Placed Automatically on Your Computer -- Cookies
 
 When you view one of our websites, we may store some information on your computer. This information will be in the form of a "Cookie" or similar file and can help us in many ways. For example, Cookies allow us to tailor a website to better match your interests and preferences. With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies or receive a warning before a Cookie is stored. Please refer to your Browser instructions or help screen to learn more about these functions.
+
+**Third Party Advertising** We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.maxonline.com/privacy_policy/index.php).
+
+ **Third Party Cookies**  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
 
 Related Articles 
 
