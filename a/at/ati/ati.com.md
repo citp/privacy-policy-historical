@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ati.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206233711id_/http%3A//ati.com/companyinfo/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ati.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528050804id_/http%3A//ati.com/companyinfo/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -56,19 +56,19 @@ ATI will disclose your personal information, without notice, only if required to
 **Control of your Personal Information**  
 You may unsubscribe from emails and promotional offers by clicking the unsubscribe link at the bottom of any email sent to you by ATI, or by changing your preference on your ATI Communication Preference Center Profile. 
 
-If your email address has changed and you would like to continue to receive the ATI.com newsletter(s), you will need update your profile with your new email address. 
+If your email address has changed and you would like to continue to receive the ati.com newsletter(s), you will need update your profile with your new email address. 
 
-ATI.com may, if you choose to receive them, send out periodic emails informing you of technical service issues, information about account issues, or news about changes or updates to the site. As long as you maintain an ATI.com account, you can choose to opt-in or opt-out of these emails.
+ATI.com may, if you choose to receive them, send out periodic emails informing you of technical service issues, information about account issues, or news about changes or updates to the site. As long as you maintain an ati.com account, you can choose to opt-in or opt-out of these emails.
 
 **Security of your Personal Information  
 ** ATI Technologies Inc. is committed to protecting the security of your personal information. We use a variety of advanced security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on secured computer servers that are located in controlled facilities. Additionally, when we transmit sensitive personal information (such as a credit card number) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
-A password is required to access your ATI.com or your ShopATI.com account. It is your responsibility to keep your password confidential. Do not share this information with anyone. If you are sharing a computer with anyone you should always choose to log out before leaving your ATI.com account to protect access to your information from subsequent users.
+A password is required to access your ati.com or your ShopATI.com account. It is your responsibility to keep your password confidential. Do not share this information with anyone. If you are sharing a computer with anyone you should always choose to log out before leaving your ati.com account to protect access to your information from subsequent users.
 
 **Use of Cookies  
 ** This Web site uses cookies to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-One of the primary purposes of cookies is to tell the web server that you have returned to a specific page, so that when you visit the site again, the experience will be personalized. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to set your computer to accept cookies, you may also choose to be logged into the ATI.com site automatically. You may also select a country of your choice as your default home page. This selection is stored in a cookie. 
+One of the primary purposes of cookies is to tell the web server that you have returned to a specific page, so that when you visit the site again, the experience will be personalized. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to set your computer to accept cookies, you may also choose to be logged into the ati.com site automatically. You may also select a country of your choice as your default home page. This selection is stored in a cookie. 
 
 **Parental Consent  
 **In order for children under 13 years old to participate in online activities that require registration, we require prior written permission from a parent or guardian (opt-in). A parental consent form is available at <http://www.ati.com/companyinfo/legal/consent.html>. This form must be signed by the child's parent or guardian and returned to 
@@ -89,7 +89,6 @@ Once we have obtained parental consent, we only ask the child for information th
 **Enforcement of this Statement  
 ** If you have questions regarding this Statement, you should first contact [privacy@ati.com](mailto:privacy@ati.com). In most cases we respond to your inquiries within a 24-hour time period. 
 
-**Changes to this Statement  
-** ATI.com will occasionally update this Privacy Statement. When we do, we will also revise the "last updated" date at the top of the Privacy Statement. For material changes to this Statement, ATI will notify you by placing prominent notice on the Web site. We encourage you to periodically review this Privacy Statement to be informed of how ATI Technologies Inc. is helping to protect your information.
+**Changes to this Statement ati.com** will occasionally update this Privacy Statement. When we do, we will also revise the "last updated" date at the top of the Privacy Statement. For material changes to this Statement, ATI will notify you by placing prominent notice on the Web site. We encourage you to periodically review this Privacy Statement to be informed of how ATI Technologies Inc. is helping to protect your information.
 
 |  
