@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ldonline.org privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210093627id_/http%3A//www.ldonline.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ldonline.org privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528074324id_/http%3A//www.ldonline.org/privacy_policy.html) for the most accurate reproduction.*
 
 # LD Online Privacy Policy
 
@@ -85,8 +85,3 @@ Arlington, Va 22206
 **10\. Acceptance of the LD OnLine Privacy Policy**
 
 By using this site, you signify your agreement to the terms and conditions of this LD OnLine Privacy Policy. If you do not agree to these terms and conditions, please do not use this site. 
-
-[ ](http://www.ldonline.org/ld_indepth/resource-guide.html)
-
-  
-
