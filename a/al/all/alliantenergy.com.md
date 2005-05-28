@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the alliantenergy.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208225208id_/http%3A//www.alliantenergy.com/stellent/groups/public/documents/pub/blaze_000067.hcsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alliantenergy.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528192903id_/http%3A//www.alliantenergy.com/stellent/groups/public/documents/pub/blaze_000067.hcsp) for the most accurate reproduction.*
 
 # Privacy
-
-**Privacy Policy**
 
 At Alliant Energy, we are committed to protecting your privacy. **We do not sell, rent or otherwise distribute user information to outside organizations**. 
 
@@ -19,9 +17,3 @@ We may occasionally use the information to contact you via postal mail or e-mail
 _[customercare@alliantenergy.com](mailto:customercare@alliantenergy.com)_
 
 . 
-
-|   
-  
----|---  
-  
-Questions?
