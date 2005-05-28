@@ -1,807 +1,1918 @@
-<!--The following is the downloaded HTML source of the 10tv.com privacy policy that was archived on 2002-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020610202151id_/http%3A//www.10tv.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 10tv.com privacy policy that was archived on 2005-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050528161843id_/http%3A//www.10tv.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.-->
 
-<html><head><title>WBNS-10TV - Columbus, Ohio</title>
-</head><body bgcolor="#ffffff" topmargin="0" marginheight="0" marginwidth="0" leftmargin="0" background="/images/line_bg.gif"> <!--oncontextmenu="return false" ondragstart="return false" onselectstart="return false"-->
-<script language="JavaScript" type="text/javascript">
-	is_ns4up = (document.layers)? true:false;
-	is_ie4up = (document.all)? true:false;
-	var onLayer = null;
-
-	function showLayer(menu) {
-	        if (onLayer != null) {
-		        if (is_ns4up) {
-		        	//eval('document.'+onLayer+'.visibility = "hide"');
-		        }
-		        else if (is_ie4up) {
-		        	eval(onLayer+'.style.visibility = "hidden"');
-		        }	        	
-		}
-	        
-	        if (is_ns4up) {
-	        	//eval('document.'+menu+'.visibility = "show"');
-	        	//onLayer = menu;
-	        }
-	        else if (is_ie4up) {
-	        	eval(menu+'.style.visibility = "visible"');
-	        	onLayer = menu;
-	        }
-	}
-	function hideLayer(menu) {
-	        if (is_ns4up) {
-	        	//eval('document.'+menu+'.visibility = "hide"');
-	        }
-	        else if (is_ie4up) {
-	        	eval(menu+'.style.visibility = "hidden"');
-	        }
+<html><head>
+<meta http-equiv="Content-Type" content="text/html">
+<title>WBNS-10TV Columbus, Ohio: This Web Site’s Privacy Policy</title></head><body marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" rightmargin="0" link="#0000CC" alink="#000084" vlink="#CC0000" bgcolor="#FFFFFF" background="/images/static/gfx/bg_right.gif" onload="ScrollFormTo(theAnchor);"><wn version="Container_B" base="IIS18"></wn><script language="Javascript1.1"><!-- 
+//***** Video Functions ******
+function displayVideoHelp(p_os)
+{
+	self.name = "WBNSCONTENT"; 
+	
+	if (p_os == 'mac-noPlugin') {
+		var videoHelp = window.open('/global/Story.asp?s=2918340&displayHelp=true', 'CONTENT');
+	} else {
+		var videoHelp = window.open('/global/story.asp?s=1343812&displayHelp=true&displayHelp=true', 'CONTENT');
 	}
 	
-	function clearLayer() {
-	        	
-	        if (onLayer != null) {
-	        	if (is_ns4up) {
-	        		//eval('document.'+onLayer+'.visibility = "hide"');
-	        	}
-	        	else if (is_ie4up) {
-	        		eval(onLayer+'.style.visibility = "hidden"');
-	        	}
-	        }
-	}
-</script>
-
-<script language="javascript">
-<!--
-function PopUp(url,w,h) {
-var dim = eval('"width=' + w + ',height=' + h + '"');
-Npop = window.open(url,'pop',dim);
+	videoHelp.focus();
+	window.name = "CONTENT";
 }
-// -->
-</script>
 
-<script language="JavaScript" src="http://www.cbsnews.com/common/js/vlaunch_flat.js"> 
-<!--
-vlaunch = no_externals;
-// -->
-</script>
+// For browsers who support Javascript 1.1, ex. IE4
+// Must be placed above the VideoFunctions.js script tag
+function playVideoClip () { displayVideoHelp();}
+function playVideoClips () { displayVideoHelp();}
+//function checkLaunchVideo() {}
 
-<style type="text/css"> 
-A.content  { font-family: arial, helvetica, sans serif; text-decoration:none; }
-A.content:link { text-decoration: none; color: #000000 }
-A.content:visited { text-decoration: none; color: #000000 }
-A.content:hover { text-decoration: underline; color: #0000ff }
+function checkAllBoxes( strState, formID )
+{
+	var objForm = eval ('document.' + formID);
 
-A.bluecontent  { font-family: arial, helvetica, sans serif; text-decoration:none; }
-A.bluecontent:link { text-decoration: none; color: #ffffff }
-A.bluecontent:visited { text-decoration: none; color: #ffffff }
-A.bluecontent:hover { text-decoration: underline; color: #FF0000 }
+	if (strState == 'false')
+	{
+		objForm.reset();
 
-A.menus  { font-family: verdana, arial, helvetica, sans serif; text-decoration:none; font-size:10px; font-weight:bold;}
-A.menus:link { text-decoration: none; color: #ffffff }
-A.menus:visited { text-decoration: none; color: #ffffff }
-A.menus:hover { text-decoration: none; color: #FF0000; }
+	} else {
+		for (i=0; i<objForm.length; i++)
+		{
+			if (objForm.elements[i].type == "checkbox" )
+				objForm.elements[i].checked = true;
+		}
+	}
+}
+//--></script><script language="Javascript1.3" src="/global/tools/video/VideoFunctions.js?ver=2"></script><script language="JavaScript1.1"><!-- 
 
-A.submenus  { font-family: verdana, arial, helvetica, sans serif; text-decoration:none; font-size:10px; font-weight:bold;}
-A.submenus:link { text-decoration: none; color: #ffffff }
-A.submenus:visited { text-decoration: none; color: #ffffff }
-A.submenus:hover { text-decoration: none; color: #ffffff; }
+			// HTML Nav Rollover functions
+			
+			var agt=navigator.userAgent.toLowerCase();			
+			var bsr = navigator.appName;		
+			var ver = parseInt(navigator.appVersion);
+			var is_mac = (agt.indexOf("mac")!=-1);
+			var is_major = parseInt(navigator.appVersion);
+			var is_ie = ((agt.indexOf("msie") != -1) && (agt.indexOf("opera") == -1));
+			var is_ie3 = (is_ie && (is_major < 4));
+			var is_ie4 = (is_ie && (is_major == 4) && (agt.indexOf("msie 5")==-1) && (agt.indexOf("msie 6")==-1));
+			var is_safari = (agt.indexOf("safari")!=-1);
+				
+			var ns6;
+			if (bsr == "Netscape" && ver >= 5){
+				ns6 = true;
+			}
 
-#newsMenu  { POSITION:absolute; TOP:121; LEFT:98; VISIBILITY:hidden; z-index:1 }
-#weatherMenu  { POSITION:absolute; TOP:121; LEFT:141; VISIBILITY:hidden; z-index:2 }
-#trafficMenu  { POSITION:absolute; TOP:121; LEFT:205; VISIBILITY:hidden; z-index:2 }
-#sportsMenu  { POSITION:absolute; TOP:121; LEFT:264; VISIBILITY:hidden; z-index:3 }
-#consumerMenu  { POSITION:absolute; TOP:121; LEFT:318; VISIBILITY:hidden; z-index:4 }
-#healthMenu  { POSITION:absolute; TOP:121; LEFT:407; VISIBILITY:hidden; z-index:5 }
-#moneyMenu  { POSITION:absolute; TOP:121; LEFT:463; VISIBILITY:hidden; z-index:6 }
-#communityMenu  { POSITION:absolute; TOP:121; LEFT:547; VISIBILITY:hidden; z-index:7 }
-#wbnsMenu  { POSITION:absolute; TOP:121; LEFT:626; VISIBILITY:hidden; z-index:8 }
-#searchBox  { POSITION:absolute; TOP:276; LEFT:30; VISIBILITY:hidden; z-index:9 }
-#headDate  { POSITION:absolute; TOP:80; LEFT:290; VISIBILITY:visible; z-index:10 }
+			function mClk(src) {
+				if(event.srcElement.tagName=='TD'){src.children.tags('A')[0].click();}
+			}
+			function mOvrS(src) {
+				src.style.cursor = 'hand'; src.children.tags('A')[0].style.textDecoration = 'underline';
+			}
+			function mOutS(src) {
+				src.style.cursor = 'default'; src.children.tags('A')[0].style.textDecoration = 'none';
+			}
+
+			
+			var currenturl;
+			var currenturl_nav = "";
+			var currenturl_pagetype = "";
+
+			var currenturl_args = new Object();
+
+			var currenturl_query = document.location.search;
+
+			var currenturl_pairs1 = currenturl_query.split("?");
+
+			if (currenturl_pairs1 != "") {
+
+				var currenturl_pairs = currenturl_pairs1[1].split("&");
+
+				for(var i = 0; i < currenturl_pairs.length; i++) {
+					var currenturl_pos = currenturl_pairs[i].indexOf('=');
+					if (currenturl_pos == -1) continue;
+					var currenturl_argname = currenturl_pairs[i].substring(0,currenturl_pos);
+					var currenturl_value = currenturl_pairs[i].substring(currenturl_pos+1);
+					currenturl_args[currenturl_argname.toLowerCase()] = unescape(currenturl_value);
+				}
+
+
+				var currenturl_pagetype;
+				var currenturl_nav;
+
+				if (currenturl_args["c"] != null || currenturl_args["C"] != null) {
+
+					currenturl_pagetype = "?c=" + currenturl_args["c"];
+
+				}
+				else if (currenturl_args["s"] != null || currenturl_args["S"] != null) {
+
+					currenturl_pagetype = "?s=" + currenturl_args["s"];
+
+				}
+				else if (currenturl_args["l"] != null || currenturl_args["L"] != null) {
+
+					currenturl_pagetype = "?l=" + currenturl_args["l"];
+
+				}
+				else {
+
+					currenturl_pagetype = "";
+
+				}
+
+				if (currenturl_args["nav"]) {
+
+					currenturl_nav =  "&nav=" + currenturl_args["nav"];
+
+				}
+				else {
+
+					currenturl_nav = "";
+				}
+
+			}
+
+
+			if (currenturl_pagetype == "?s=8945") {
+			
+				currenturl = "http://" + document.location.hostname;
+			
+			}
+			
+			else {
+			
+			currenturl = "http://" + document.location.hostname + document.location.pathname + currenturl_pagetype + currenturl_nav;
+
+			}
+			
+			
+
+		  
+
+			function mOvr(src,clrOver,aclrOver) {
+				
+				
+				if ((src.className == "l1off") || (src.className == "l1on")) {
+								
+					src.style.cursor = 'hand';
+
+					src.style.backgroundColor = clrOver;
+
+					src.children.tags('A')[0].style.color = aclrOver;
+
+					src.children.tags('A')[0].style.textDecoration = 'underline';
+				
+				
+				}
+				
+				else {
+						
+						if (ns6) {
+						
+						var ns6src1 = src + ":" + 1;
+						var ns6src2 = src + ":" + 2; 
+						var ns6src3 = src + ":" + 3;
+						
+						var ns6navbtn1 = document.getElementById(ns6src1);				
+						ns6navbtn1.style.backgroundColor = clrOver; 
+						
+						var ns6navbtn2 = document.getElementById(ns6src2);				
+						ns6navbtn2.style.backgroundColor = clrOver; 
+						var ns6navbtn2txt = ns6navbtn2.getElementsByTagName("A");
+						ns6navbtn2txt[0].style.color = aclrOver;
+						ns6navbtn2txt[0].style.textDecoration = 'underline';
+												
+						var ns6navbtn3 = document.getElementById(ns6src3);				
+						ns6navbtn3.style.backgroundColor = clrOver; 
+
+						}
+						else {
+						
+						var newsrc
+						var i;
+						for (i=1; i <= 3; i++) {
+
+							newsrc = src + ":" + i;
+						
+							document.all[newsrc].style.cursor = 'hand';
+						
+							document.all[newsrc].style.backgroundColor = clrOver;
+
+
+							if (document.all[newsrc].children.tags('A').length != 0) {
+								document.all[newsrc].children.tags('A')[0].style.color = aclrOver;
+								document.all[newsrc].children.tags('A')[0].style.textDecoration = 'underline';
+							}
+						}
+					
+					}
+
+				}
+			}
+
+
+
+			function mOut(src,clrIn,aclrIn) {
+			
+				
+				if ((src.className == "l1off") || (src.className == "l1on")) {
+					
+					src.style.cursor = 'hand';
+
+					src.style.backgroundColor = clrIn;
+
+					src.children.tags('A')[0].style.color = aclrIn;
+
+					src.children.tags('A')[0].style.textDecoration = 'none';
+
+
+				}
+								
+				else {
+
+					if (ns6) {
+					
+					var ns6src1 = src + ":" + 1;
+					var ns6src2 = src + ":" + 2; 
+					var ns6src3 = src + ":" + 3;
+					
+					var ns6navbtn1 = document.getElementById(ns6src1);				
+					ns6navbtn1.style.backgroundColor = clrIn; 
+					
+					var ns6navbtn2 = document.getElementById(ns6src2);				
+					ns6navbtn2.style.backgroundColor = clrIn; 
+					var ns6navbtn2txt = ns6navbtn2.getElementsByTagName("A");
+					ns6navbtn2txt[0].style.color = aclrIn;
+					ns6navbtn2txt[0].style.textDecoration = 'none';
+											
+					var ns6navbtn3 = document.getElementById(ns6src3);				
+					ns6navbtn3.style.backgroundColor = clrIn; 
+
+					}
+					else {
+		
+					var newsrc
+					var i;
+						for (i=1; i <= 3; i++) {
+						
+						newsrc = src + ":" + i;
+	
+						document.all[newsrc].style.cursor = 'default';
+
+						document.all[newsrc].style.backgroundColor = clrIn;
+
+							if (document.all[newsrc].children.tags('A').length != 0) {
+								document.all[newsrc].children.tags('A')[0].style.color = aclrIn;
+								document.all[newsrc].children.tags('A')[0].style.textDecoration = 'none';
+							}
+						}
+					}
+					
+				}
+				
+			}
+			
+			function mOvrN(src,aclrOver) {
+				if (ns6){
+					src.style.color = aclrOver;}
+			}
+			function mOutN(src,aclrIn) {
+				if (ns6){
+					src.style.color = aclrIn;}
+			}
+
+		
+
+	function goTo () {
+		var url = window.document.formNav.menuNews.options[document.formNav.menuNews.selectedIndex].value;
+		self.location = url;
+	}
+
+	  
+	var g_ContID="18990";
+	var g_AdTag="Inside";
+	var g_AffName = "WBNS";
+	var g_ContType = "S";
+	var g_BaseURL = "www.10tv.com";
+	var g_SDCURL = "http://wtnj.worldnow.com/dcs.gif";
+
+
+	window.name = "CONTENT";
+
+	var URLPOS = 0, NAMEPOS = 1, PROPERTYPOS = 2;
+
+	function OpenWin(props)
+	{
+		var lsProperties, myWin, lsURLPrefix;
+
+		if ( props.split )
+			lsProperties = props.split( "|" );
+		else
+			lsProperties = OldBrowserSplit( props, "|" );
+
+		if ( lsProperties[URLPOS] != null )
+		{
+			if ( lsProperties[NAMEPOS] == null )
+				lsProperties[NAMEPOS] = "";
+
+			if ( lsProperties[PROPERTYPOS] == null )
+				lsProperties[PROPERTYPOS] = "";
+
+			lsURLPrefix = ""
+			if ( lsProperties[URLPOS].substring( 0, 4 ) != "http" )
+			{
+				if (lsProperties[URLPOS].substring( 0, 1 ) != "/" )
+					lsURLPrefix = "http://";
+			}
+
+			myWin = window.open( lsURLPrefix + lsProperties[URLPOS], lsProperties[NAMEPOS], lsProperties[PROPERTYPOS] );
+		}
+	}
+
+	function OldBrowserSplit( OrigStr, tok )
+		{
+			var it = new Array();
+			var counter = 0, cur = 0, prev = 0;
+			var str = OrigStr;
+
+			cur = str.indexOf( tok, prev );
+			while ( cur != -1 )
+			{
+				it[counter] = str.substring( prev, cur );
+				counter += 1;
+				str = str.substring(cur+1);
+				prev = 0;
+				cur = str.indexOf( tok );
+			}
+			it[counter] = str.substring(prev);
+			return it;
+	}
+
+
+	// check advanced search box
+	function doit()
+	{
+		if ( document.SearchForm.qu.value.length < 4 )
+		{
+			alert("You must enter a phrase to search for with at least 4 characters!");
+			return false;
+		}
+	}
+
+  
+function refreshAds() {
+
+var saf_iframe;
+
+	if (is_safari == true) {
+	
+		var frames;
+	
+		frames = document.getElementsByTagName("iframe");
+	
+		var adUBound;
+	
+		adUBound = frames.length;
+	
+		var adifrmcnt;
+		
+		adifrmcnt = adarray.length;
+	
+	
+		for (var i = 0; i < adUBound; i++) {
+
+			for (var n = 1; n < adifrmcnt; n++) {
+				if (frames[i].id == adarray[n]) {
+
+					frames[i].height = 0;
+
+					frames[i].width = 0;
+
+				}
+
+			}
+	
+		}
+	
+	
+	}
+
+
+
+	else if ((bsr != "Netscape") || (ns6)) {
+
+		if (ns6) {
+
+			var ns6Iframe = document.getElementById("iframeads");	
+
+			var refIframe = ns6Iframe.src;
+
+		}
+
+		else {
+
+			var refIframe = document.all.iframeads.src;
+
+		}
+
+		var adIframe = window.frames["iframeads"]; 			
+
+		var adUBound = adarray.length;
+		
+	
+		for (i=1; i <=adUBound; i++) {
+
+		var iframename = adarray[i];
+		var adformname = "adform" + i;
+
+
+			if (window.frames[iframename]) {
+
+				if (ns6 && is_safari == false) {
+	
+				//alert(adIframe.document.forms[iframename].elements[0].value);
+
+				//alert(window.frames[iframename].document.body.innerHTML);
+
+				var bd = new String(adIframe.document.forms[iframename].elements[0].value);
+
+				var brsrc = bd.search(/WN\snoad\S\SYes/gi);
+
+				//alert(brsrc);
+
+					if (brsrc == -1) {
+
+					var wrapperid = "wrapper_" + iframename;
+					var wrapper = document.getElementById(wrapperid);
+
+						if (wrapper) {
+
+						wrapper.style.display = "";
+
+						}
+
+						window.frames[iframename].document.open();
+
+						window.frames[iframename].document.write(adIframe.document.forms[iframename].elements[0].value);
+
+						window.frames[iframename].document.close();
+
+					}
+
+					else {
+
+						var adiframe = document.getElementById(iframename);
+
+						adiframe.height = 0;
+						adiframe.width = 0;
+
+					}
+
+				}
+
+				else {
+
+				window.frames[iframename].document.body.innerHTML = adIframe.document.forms[iframename].elements[0].value;
+
+				}
+
+			}
+
+
+
+		}
+  
+
+	}
+
+
+}
+
+function checkad(p_adID) {
+//alert(p_adID);
+
+var wrapperid = "wrapper_" + p_adID; 
+var wrapper = document.getElementById(wrapperid);
+
+ 	if (bsr == "Netscape" && parseInt(ver) >= 5) {
+
+		var bd = new String(window.frames[p_adID].document.getElementById("AdHolder").innerHTML);
+
+		var brsrc = bd.search(/WN\snoad\S\SYes/gi);
+
+		var adiframe = document.getElementById(p_adID);
+
+		if (brsrc != -1) {
+
+			adiframe.height = 0;
+			adiframe.width = 0;
+		}
+		else {
+		
+			if (wrapper) {
+				//alert(wrapper);
+
+				if (p_adID == "wnsz_42") {
+
+					call_abpos('wnsz_42')
+
+				}
+				else {
+
+					if (p_adID == "wnsz_41") {
+					wrapper.style.width = "758px";
+					}
+					wrapper.style.display = "";
+
+				}
+			}
+
+				
+		
+			adiframe.style.visibility = "visible";
+
+		}
+  			
+ 	}
+	else if (bsr == "Netscape" && parseInt(ver) < 5 ) { } //Sniff out Netscape 4.x browser and not return anything
+	else {
+
+
+ 		var iebd = new String(window.frames[p_adID].document.all.AdHolder.innerHTML);
+
+		var iebdck = iebd.search(/WN\snoad.*Yes/g);
+
+		//alert(iebdck);
+
+		if ((iebdck != -1)||(iebd=="")) {
+
+				document.all[p_adID].style.display = "none";
+
+				//alert('closing down');
+
+  		}
+  		else {
+
+			
+			if (wrapper) {
+				//alert(p_adID);
+				
+				if (p_adID == "wnsz_42") {
+					
+					call_abpos('wnsz_42')
+				
+				}
+				else {
+				
+					wrapper.style.display = "";
+				
+				}
+			}
+			
+			document.all[p_adID].style.visibility = "visible";
+  			
+
+
+  		}
+	}
+}
+
+var adcnt = 0;
+var randadno = Math.random();
+var targetadtag = "Inside";
+var coreadcall = "/global/ad.asp?type=core&adtargwindow=Ad.TargetFrame.NewWin" + "&rnd=" + Math.round(Math.random() * 100000) + 1;
+var adarray = new Array();
+
+function coreAdsCreate (sz,owner, splitpct) {
+
+adcnt++;
+
+coreadcall += "&sz" + adcnt + "=" + sz  + "&cls" + adcnt + "=" + targetadtag + "&src" + adcnt + "=" + owner + "&frm" + adcnt + "=" + sz + "&spct" + adcnt + "=" + splitpct;
+
+adarray[adcnt] = sz;
+
+}
+
+
+
+function wxSwap (id1, id2)	{
+
+	if (id2 == 'wximg') {
+
+			if (ns6){
+			
+			ns6wxid1 = document.getElementById(id1);
+			ns6wximg = document.getElementById(id2);
+			
+				if (ns6wxid1.style.display == 'none') {
+					ns6wxid1.style.display = '';
+					ns6wximg.src = '/images/static/gfx/wx_btn_on.gif';
+				}
+				else {
+					ns6wxid1.style.display = 'none';
+					ns6wximg.src = '/images/static/gfx/wx_btn_off.gif';
+				}		
+			}
+			else {
+	
+	
+				if (document.all[id1].style.display == 'none') {
+					document.all[id1].style.display = '';
+					document.all[id2].src = '/images/static/gfx/wx_btn_on.gif';
+				} 
+				else {
+				
+					if (document.all[id1] && document.all[id2]) {
+				
+					document.all[id1].style.display = 'none';
+					document.all[id2].src = '/images/static/gfx/wx_btn_off.gif';
+					
+					}
+				}	   
+				
+			}	
+	} 
+	else {
+			if (ns6){
+				ns6id1 = document.getElementById(id1);
+				ns6id1.style.display = 'none';
+
+				ns6id2 = document.getElementById(id2);
+				ns6id2.style.display = '';
+			}
+			else {
+				document.all[id1].style.display = 'none';	
+				document.all[id2].style.display = '';
+			}
+	}
+
+}
+
+  
+
+function GetCookie (name)
+{
+	if (document.cookie.length>0)
+	{
+		var arg = name + "=";
+		var alen = arg.length;
+		var clen = document.cookie.length;
+		var i = 0;
+
+		while (i < clen)
+		{
+			var j = i + alen;
+
+			if (document.cookie.substring(i, j) == arg) return getCookieVal (j);
+
+			i = document.cookie.indexOf(" ", i) + 1;
+			if (i == 0) break; 
+		}
+		return null;
+	}
+}
+
+// getCookieVal: function to return the decoded value of a cookie
+function getCookieVal (offset)
+{
+	var endstr = document.cookie.indexOf (";", offset);
+
+	if (endstr == -1) endstr = document.cookie.length;
+
+	return unescape(document.cookie.substring(offset, endstr));
+}
+
+
+function setCookie (name,value,expires,path,domain,secure)
+{
+	if (document.cookie.length>0)
+	{
+		document.cookie = name + "=" + escape (value) +
+			((expires) ? "; expires=" + expires.toGMTString() : "") +
+			((path) ? "; path=" + path : "") +
+			((domain) ? "; domain=" + domain : "") +
+			((secure) ? "; secure" : "");
+	}
+}
+
+function delCookie (name,path,domain) {
+  if (GetCookie(name)) {
+  	alert("deleting cookie = " + GetCookie(name));
+    document.cookie = name + "=" +
+    ((path == null) ? "" : "; path=" + path) +
+    ((domain == null) ? "" : "; domain=" + domain) +
+    "; expires=Thu, 01-Jan-1970 00:00:01 GMT";
+  }
+}
+
+var multiple_entries_cookie_val;
+var multiple_entries_update = false;
+var multiple_entries = unescape(GetCookie("multipleentries"));
+var multiple_entries_exp = new Date();
+multiple_entries_exp.setDate("1");
+multiple_entries_exp.setMonth("0");
+multiple_entries_exp.setYear("2010");
+multiple_entries_exp.setHours("0");
+multiple_entries_exp.setMinutes("0");
+
+var complete_cookie_delete = false;
+var complete_cookie = GetCookie("completeditems");
+
+var profile = GetCookie("FirstName");
+if (profile != null) {
+	profile = profile.replace(/(\+)/g, " ");
+}
+else {
+	
+	var profile_complete = GetCookie("EmailAddress");
+	if (profile_complete != null) {
+		var profile_index = profile_complete.indexOf("@");
+
+		profile = profile_complete.substring(0,profile_index);
+
+	}
+}
+
+var reglinkno = "104054";
+var memcenter = "<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=1 WIDTH='100%'>";
+
+function popProfile() {
+
+var loginmsg = "Log Out";
+var acctmsg = "Manage Account";
+
+var membercenterloc = "3";
+var style_align = "";
+if (ns6) {
+style_align = "float: left;";
+}
+
+
+var memcenter_title_style = "#000000";
+var memcenter_links_style = "#1E2CC3";
+
+
+if ((!is_mac) && (!is_ie3) && (!is_ie4) && (bsr != "Netscape" || ns6)) {
+
+	if (profile == null) {
+
+		acctmsg = "Create Account";
+		loginmsg = "Log In";	
+
+		if (membercenterloc == 2 || membercenterloc == 4) {
+			
+			memcenter += "<TR><TD><NOBR><FONT SIZE='1' COLOR='" + memcenter_title_style + "'><B>&nbsp;MEMBER CENTER</B></FONT></NOBR></TD><TD><NOBR><FONT STYLE='font-size: 9px; COLOR:" + memcenter_links_style + "'>| <A HREF='/global/link.asp?L=" + reglinkno + "&amp;function=manageprofile&amp;mode=create" + "&amp;referrer=" + escape(currenturl) + "'><FONT COLOR='" + memcenter_links_style + "'>" + acctmsg + "</FONT></A></NOBR></TD><TD WIDTH='90%'><FONT STYLE='font-size: 9px; COLOR:" + memcenter_links_style + "'>| <NOBR><A HREF='/global/link.asp?L=" + reglinkno + "&amp;function=manageprofile&amp;mode=login" + "&amp;referrer=" + escape(currenturl) + "'><FONT COLOR='" + memcenter_links_style + "'>" + loginmsg + "</FONT></A></NOBR></TD></TR>"
+		}
+		else {
+			memcenter += "<TR><TD><NOBR><FONT SIZE='1' COLOR='" + memcenter_title_style + "'><B>MEMBER CENTER</B></FONT></NOBR></TD></TR>";
+			memcenter += "<TR><TD HEIGHT='12'><FONT STYLE='font-size: 9px; line-height: 12px'><LI STYLE='list-style-type: square;color:" + memcenter_links_style + ";" + style_align + "'/><A HREF='/global/link.asp?L=" + reglinkno + "&amp;function=manageprofile&amp;mode=create" + "&amp;referrer=" + escape(currenturl) + "'><FONT COLOR='" + memcenter_links_style + "'>" + acctmsg + "</FONT></A></FONT></TD></TR><TR><TD><FONT STYLE='font-size: 9px; line-height: 12px'><LI STYLE='list-style-type: square;color:" + memcenter_links_style + ";" + style_align + "'/><A HREF='/global/link.asp?L=" + reglinkno + "&amp;function=manageprofile&amp;mode=login" + "&amp;referrer=" + escape(currenturl) + "'>" + "<FONT COLOR='" + memcenter_links_style + "'>" + loginmsg + "</FONT></A></FONT></TD></TR>";
+		}
+
+	}
+
+	else {
+
+		if (membercenterloc == 2 || membercenterloc == 4) {
+			memcenter += "<TR><TD><NOBR><FONT SIZE='1' COLOR='" + memcenter_title_style + "'><B>&nbsp;Welcome, " + profile + "!</B></FONT></NOBR></TD>";
+			memcenter += "<TD><NOBR><FONT STYLE='font-size: 9px; COLOR:" + memcenter_links_style + "'>| <A HREF='/global/link.asp?L=" + reglinkno + "&amp;function=manageprofile" + "&amp;referrer=" + escape(currenturl) + "'><FONT COLOR='" + memcenter_links_style + "'>" + acctmsg + "</FONT></A>&nbsp;</FONT></NOBR></TD><TD WIDTH='90%'><NOBR><FONT STYLE='font-size: 9px; COLOR:" + memcenter_links_style + "'>| <A HREF='/global/pm/registration.asp?function=logout" + "&amp;referrer=" + escape(currenturl) + "'><FONT COLOR='" + memcenter_links_style + "'>" + loginmsg + "</FONT></A>&nbsp;</FONT></NOBR></TD></TR>";		
+		
+		}
+		else {
+			memcenter += "<TR><TD><FONT SIZE='1' COLOR='" + memcenter_title_style + "'><B>Welcome, " + profile + "!</B></FONT></TD></TR>";
+			memcenter += "<TR><TD><FONT STYLE='font-size: 9px; line-height: 12px'><LI STYLE='list-style-type: square;color:" + memcenter_links_style + ";" + style_align + "'/><A HREF='/global/link.asp?L=" + reglinkno + "&amp;function=manageprofile" + "&amp;referrer=" + escape(currenturl) + "'><FONT COLOR='" + memcenter_links_style +"'>" + acctmsg + "</FONT></A></FONT></TD></TR><TR><TD><FONT STYLE='font-size: 9px; line-height: 12px'><LI STYLE='list-style-type: square;color:" + memcenter_links_style + ";" + style_align + "'/><A HREF='/global/pm/registration.asp?function=logout" + "&amp;referrer=" + escape(currenturl) + "'><FONT COLOR='" + memcenter_links_style + "'>" + loginmsg + "</FONT></A></FONT></TD></TR>";
+		}
+
+	}
+	
+		memcenter += "</TABLE>";
+
+		if (bsr != "Netscape") {
+			memcenterdiv = document.all.membercenter;
+		}
+		else {
+			memcenterdiv = document.getElementById("membercenter");
+		}
+		
+		if (is_safari == true) {
+		
+
+			document.write(memcenter);
+				
+		
+		}
+		else {
+		
+		window.setTimeout("memcenterdiv.innerHTML = memcenter;", 500);
+		
+		}
+
+	}
+
+}
+
+
+
+function quickFormPost(frm,reqflds,customvals,dest) {
+
+				
+
+	qform = eval('document.' + frm);
+		
+	qform.SubmitBtn.disabled =  true;
+	
+	document.body.style.cursor = 'wait';
+
+	var qfrmcnt = qform.elements.length
+
+	
+
+	if (quickFormValidate(frm,reqflds) == true) {
+	
+
+		for (q=0; q<qfrmcnt; q++) {
+
+			var qelem = qform.elements[q].name;
+
+			var qelemval = qform.elements[q].value;
+			
+
+			if (qform.elements[q].type == "textarea") {
+
+				var txtlen = qform.elements[q].value.length;
+				
+				var txtmxlen = qform.elements[q].getAttribute("maxlength");
+				
+
+				if (txtlen > txtmxlen) {
+					
+					qf_errmsg = "Text entered in this field is " + txtlen + " chars long. The maximum amount allowed is " + txtmxlen + "." ;
+					
+					alert(qf_errmsg);
+					var textarea_alert = document.getElementById(qform.name + qelem);
+
+
+					if (textarea_alert != null) {
+						
+						textarea_alert.color = "#CC0000";
+					}
+					return false;
+				}
+			}
+
+
+		
+		
+			if (dest == '0') {
+
+			var undscrint = qelem.indexOf('_');
+
+				if (undscrint == 0) {
+
+					qform.elements[q].name = qelem.substr(1);
+					
+
+				}
+
+			}
+			
+			if (qform.submittedfields != null && qform.elements[q].type != "hidden" && qform.elements[q].type != "submit") {
+						
+				var prev_flds = qform.submittedfields.value.split("|");
+				
+				
+				var prev_flds_len = prev_flds.length - 2;
+				
+				
+				var prev_fld_str = prev_flds[prev_flds_len];
+				
+				
+				if (qform.elements[q].name != prev_fld_str) {
+				
+				qform.submittedfields.value += qform.elements[q].name + "|";
+				
+				
+				}
+			}
+			
+			
+
+		}	
+	
+	
+	
+		
+		genformPost(qform, qfrmcnt, customvals);
+		return false;
+
+	}
+	else {
+		alert(qf_errmsg);
+		qform.SubmitBtn.disabled = false;
+		document.body.style.cursor = 'auto';
+		return false;
+	}
+
+
+
+}
+
+
+function genformPost(qform, qfrmcnt, customvals) {
+
+	gen_frm = document.gen_form_post;
+
+
+	for (i=0; i < qfrmcnt; i++) {
+	
+	var new_frm_fld = "";
+	
+	if ((qform.elements[i].name == "LoginEmailAddress") || (qform.elements[i].type == "checkbox" && qform.elements[i].checked) || (qform.elements[i].type == "radio" && qform.elements[i].checked) || qform.elements[i].type == "select-one") {
+			
+		new_frm_fld = "<INPUT TYPE='HIDDEN' NAME='" + qform.elements[i].name + "' VALUE='" + qform.elements[i].value + "'/>";
+	
+	
+	}
+	else if (qform.elements[i].type != "checkbox" && qform.elements[i].type != "radio") {
+
+		new_frm_fld = "<INPUT TYPE='HIDDEN' NAME='" + qform.elements[i].name + "' VALUE='" + escape(qform.elements[i].value) + "'/>";
+	
+	}
+	
+
+	gen_frm.innerHTML += new_frm_fld;
+	
+	}
+
+
+	gen_frm.method = "POST";
+	gen_frm.action = customvals;
+	gen_frm.submit();
+
+}
+
+
+
+var qf_errmsg;
+var err_flds = new Array();
+
+function quickFormValidate(frm,reqflds) {
+
+qf_errmsg = "";
+
+if (err_flds) {
+
+for (p=0; p < err_flds.length; p++) {
+
+	var err_alert = document.getElementById(frm + "_" + err_flds[p]);
+	
+	if (err_alert != null) {
+		err_alert.color = "#000000";
+	}
+
+}
+
+
+}
+
+err_flds = new Array();
+
+qform = eval('document.' + frm);
+
+reqfldcnt = reqflds.length;
+
+
+		for (k=0; k < reqfldcnt; k++) {
+
+		var fld = eval('document.' + frm + '.' + reqflds[k][0]);
+
+			if (reqflds[k].length <= 1) {
+
+
+				if (fld != null) {
+
+					var fldstr = fld.name;
+
+
+					if (fldstr.indexOf('_') == 0) {
+
+						fldstr = fld.name.substr(1);
+
+					}					
+
+				
+					if (fld.value == '') {
+
+						qf_errmsg = "Please fill in all required fields. Thank you.";
+						
+						if (bsr == "Microsoft Internet Explorer" && ver == 4) {
+
+						err_flds[err_flds.length] = fldstr;
+
+
+						}
+						else {
+
+						err_flds.push(fldstr);
+						
+						}
+					}
+					
+					
+					else if (fld.value != '' && fld.name == 'LoginEmailAddress') {
+					
+						var EmailPattern = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+					
+						var email_input = qform.elements["LoginEmailAddress"].value;			
+											
+						var is_valid_email = email_input.match(EmailPattern);
+					
+					
+						if (is_valid_email == null) {
+					
+							if (bsr == "Microsoft Internet Explorer" && ver == 4) {
+							
+							err_flds[err_flds.length] = "LoginEmailAddress";
+							}
+							else {
+							err_flds.push("LoginEmailAddress");
+							
+							}
+							qf_errmsg = "Please enter a valid Email Address";
+							break;
+					
+						}
+					
+					}
+					
+					else if (fld.value != '' && fld.name == '_ZipCode') {
+
+						var ZipCodePattern = /^\d{5}(-?\d{4})?$/;
+
+						var zip_input = qform.elements["_ZipCode"].value;
+
+						var is_valid_zip = zip_input.match(ZipCodePattern);
+						
+							if (is_valid_zip == null) {
+
+								
+								if (bsr == "Microsoft Internet Explorer" && ver == 4) {
+								err_flds[err_flds.length] = "ZipCode";
+								}
+								else {
+								err_flds.push("ZipCode");
+								}
+								qf_errmsg = "Please enter a valid Zip Code";
+								break;
+
+							}
+							
+
+
+					}
+					else if (fld.value != '' && fld.type == "textarea") {
+
+						var txtlen = fld.value.length;
+
+						var txtmxlen = fld.getAttribute("MAXLENGTH");
+						
+						if (txtlen > txtmxlen) {
+							
+							if (bsr == "Microsoft Internet Explorer" && ver == 4) {
+							err_flds[err_flds.length] = fldstr;
+							}
+							else {
+							err_flds.push(fldstr);
+							}
+							qf_errmsg = "Text entered in this field is " + txtlen + " chars long. The maximum amount allowed is " + txtmxlen + "." ;
+							break;
+						}
+					}
+
+				}
+			}
+
+
+			else {
+
+
+				reqchbxname = reqflds[k][0];
+
+				if (reqchbxname.indexOf('_') == 0) {
+
+				reqchbxname = reqflds[k][0].substr(1);
+
+				}
+
+				var checkbx_valid = false;
+														
+				var chkbxslen = reqflds[k].length - 1;
+
+				for (m=1; m <= chkbxslen; m++) {
+
+
+					var fldchk = eval('document.' + frm + '.' + reqflds[k][m]);
+
+
+					if ((fldchk.type == "checkbox" || fldchk.type == "radio") && (fldchk.checked)) {
+
+						checkbx_valid = true;
+
+
+					}
+				}
+				
+				if (checkbx_valid == false) {
+				
+					if (bsr == "Microsoft Internet Explorer" && ver == 4) {
+						err_flds[err_flds.length] = reqchbxname;
+					}
+					else {
+						err_flds.push(reqchbxname);
+					}
+					
+					qf_errmsg = "Please fill in all required fields. Thank you.";
+				
+				}
+
+			}
+
+
+
+		
+
+	}
+
+var err_len = err_flds.length;
+
+
+for (u=0; u < err_len; u++) {
+
+	var err_alert = document.getElementById(frm + "_" + err_flds[u]);
+	
+	if (err_alert != null) {
+		err_alert.color = "#CC0000";
+	}
+
+}
+
+if (err_len > 0) {
+
+var is_valid = false;
+
+}
+else {
+
+is_valid = true;
+
+}
+
+return is_valid;
+
+}
+
+
+
+
+function quickSignupValidate(frm) {
+
+qs_err_msg = "Please select an email";
+is_valid = false;
+
+qsform = eval('document.' + frm) ;
+
+qsformcnt = qsform.elements.length;
+
+for (v=0; v < qsformcnt; v++) {
+
+	if (qsform.elements[v].type == "checkbox" && qsform.elements[v].checked) {
+
+		is_valid = true;
+		break;
+	}
+
+}
+
+
+if (is_valid == false) {
+	alert(qs_err_msg);
+}
+
+return is_valid;
+
+}
+
+var theAnchor = "";
+function ScrollFormTo(theAnchor) {
+
+
+	if (theAnchor != "") {
+
+
+		var y = 0;
+
+		var anchors = document.anchors;
+
+
+		for (i=0; i < anchors.length; i++) {
+	
+
+				if (anchors[i].name == theAnchor) {
+				
+
+				  	if (bsr == "Netscape" && ver <= 5) {
+						
+						y = document.anchors[i].y;
+
+
+					 }
+
+					  else {
+						  y = document.anchors[i].offsetTop;
+
+					 }
+
+				 window.scrollTo( 0, y );
+
+
+				}
+
+		}
+
+
+	}
+
+}
+
+var abpos_origHeight;
+var abpos_loopcnt = 0;
+var abpos_int;
+
+
+function call_abpos(p_adID) {
+
+//alert('call_abpos fired');
+
+			if (abpos_origHeight != 0)
+			{
+
+				wn_adpos(p_adID);
+				window.clearTimeout(abpos_int);
+
+			}
+			else
+			{
+
+				if (abpos_loopcnt <= 150)
+				{
+
+					abpos_int = window.setTimeout('call_abpos(p_adID);', 100);
+					loopcnt++;
+
+				}
+				else
+				{
+
+					window.clearTimeout(abpos_int);
+				}
+
+			}
+
+
+
+}
+
+
+
+function wn_adpos (p_adID) {
+var ad_px_left;
+var ad_col4_left;
+
+var tk_buffer;
+var nv1_buffer;
+var nv2_buffer;
+var wx_buffer;
+var ad_buffer;
+
+ tk_buffer = 0;nv1_buffer = 21;nv2_buffer = 0;wx_buffer = 0; 
+
+ad_buffer = tk_buffer + nv1_buffer + nv2_buffer + wx_buffer;
+
+
+if (bsr == "Netscape" && ver < 5)
+
+{
+
+
+   	abpos_origHeight = window.innerHeight;
+   	abpos_origWidth = window.innerWidth;
+
+	document.ad_text.top = document.ad_px.y - 10;
+	document.ad.top = document.ad_px.y + 2;
+
+	document.wrapper.height = abpos_origHeight;
+
+
+}
+
+else {
+
+
+
+	var wrapper = document.getElementById("wrapper_wnsz_42");
+
+	var ad_text = document.getElementById("ad_text_wnsz_42");
+
+	var ad_div = document.getElementById("ad_wnsz_42");
+
+	var ad_iframe = document.getElementById(p_adID);
+
+
+	if (bsr == "Netscape" && ver >= 5) {
+
+
+		abpos_origHeight = document.bt_px.y;
+		
+ 
+		ad_left = document.col4_px.x + 135;
+		 
+
+
+	
+		wrapper.style.height = abpos_origHeight + 80;
+		wrapper.style.left = ad_left;
+
+		if (document.wn_cat_hdr) {
+
+			ad_text.style.top = document.wn_cat_hdr.y + document.wn_cat_hdr.height - 20;
+			ad_div.style.top = document.wn_cat_hdr.y + document.wn_cat_hdr.height;
+		}
+		else {
+
+		ad_text.style.top = document.banner_px.y - (ad_buffer + 20);
+		ad_div.style.top = document.banner_px.y - (ad_buffer + 2);
+		
+		}
+		
+		ad_text.style.left = ad_left;
+		ad_div.style.left = ad_left;
+		
+
+	}
+	else {
+	
+		abpos_origHeight = document.body.scrollHeight;
+
+		bt_px_bottom = document.all.bt_px.getBoundingClientRect().bottom;
+
+ 
+		ad_left = document.all.col4_px.getBoundingClientRect().right + 5;
+		 
+		
+		if (bt_px_bottom) {
+		wrapper.style.height = bt_px_bottom + 5;
+		}
+		else{
+		wrapper.style.height = abpos_origHeight;
+		}
+		
+		wrapper.style.left = ad_left;
+
+		if (document.all.wn_cat_hdr) {
+			ad_text.style.top = document.all.wn_cat_hdr.getBoundingClientRect().bottom - 20;
+			ad_div.style.top = document.all.wn_cat_hdr.getBoundingClientRect().bottom;
+		}
+		else {
+			ad_text.style.top = document.all.banner_px.getBoundingClientRect().bottom - (ad_buffer + 20);
+			ad_div.style.top = document.all.banner_px.getBoundingClientRect().bottom - ad_buffer;
+		}
+		
+		ad_text.style.left = ad_left;
+		ad_div.style.left = ad_left;
+
+
+
+	}
+
+
+	wrapper.style.visibility = "visible";
+
+	ad_text.style.visibility = "visible";
+
+	ad_div.style.visibility = "visible";
+
+
+}
+
+
+}
+
+
+function getLEDate(led) {
+
+   var months = new Array(13);
+   months[0]  = "Jan";
+   months[1]  = "Feb";
+   months[2]  = "March";
+   months[3]  = "April";
+   months[4]  = "May";
+   months[5]  = "June";
+   months[6]  = "July";
+   months[7]  = "Aug";
+   months[8]  = "Sep";
+   months[9]  = "Oct";
+   months[10] = "Nov";
+   months[11] = "Dec";
+
+   var newdate 	   = new Date(led);
+   var monthnumber = newdate.getMonth();
+   var monthname   = months[monthnumber];
+   var monthday    = newdate.getDate();
+   var year        = newdate.getYear();
+   if(year < 2000) { year = year + 1900; }
+
+   var hour   = newdate.getHours();
+   var minute = newdate.getMinutes();
+
+   var rightNow = new Date();
+   var date1 = new Date(rightNow.getFullYear(), 0, 1, 0, 0, 0, 0);
+   var date2 = new Date(rightNow.getFullYear(), 6, 1, 0, 0, 0, 0);
+   var temp = date1.toGMTString();
+   var date3 = new Date(temp.substring(0, temp.lastIndexOf(" ")-1));
+   var temp = date2.toGMTString();
+   var date4 = new Date(temp.substring(0, temp.lastIndexOf(" ")-1));
+   var hoursDiffStdTime = (date1 - date3) / (1000 * 60 * 60);
+   var hoursDiffDaylightTime = (date2 - date4) / (1000 * 60 * 60);
+   if (hoursDiffDaylightTime != hoursDiffStdTime) {
+      //alert("Time zone is GMT " + hoursDiffStdTime + ".\nDaylight Saving Time is observed here.");
+      hour = hour - 1;
+   } else {
+     //alert("Time zone is GMT " + hoursDiffStdTime + ".\nDaylight Saving Time is NOT observed here.");
+   }
+
+
+   var ap = "AM";
+   if (hour   > 11) { ap = "PM";             }
+   if (hour   > 12) { hour = hour - 12;      }
+   if (hour   == 0) { hour = 12;             }
+   if (hour   < 10) { hour   = "0" + hour;   }
+   if (minute < 10) { minute = "0" + minute; }
+
+
+   var tzone;
+
+   if (newdate.toString().indexOf('EST') != '-1') {tzone = 'EST';}
+   else if (newdate.toString().indexOf('CST') != '-1') {tzone = 'CST';}
+   else if (newdate.toString().indexOf('MST') != '-1') {tzone = 'MST';}
+   else if (newdate.toString().indexOf('PST') != '-1') {tzone = 'PST';}
+
+
+
+
+   var timeString = hour + ':' + minute + " " + ap;
+   if (tzone != null) {timeString += " " + tzone;}
+
+   var dateString = monthname + ' ' + monthday + ', ' + year + ',' + ' ' + timeString;
+
+   return dateString;
+
+
+}
+
+
+
+
+
+//--></script><style>
+
+FONT {
+	font-family:Arial, Helvetica, Verdana
+}
+
+FONT.a {
+	text-decoration:underline;
+}
+
+FONT.sectiontitle {
+	
+	font-size:10px;
+	color:#000000;
+}
+
+TD.l1off{
+	padding-left:2px;
+	background-color:#000000;
+}
+
+TD.l1on{
+	padding-left:2px;
+	background-color:#0033CC;
+}
+
+A.l1off{
+	padding-left:2px;
+	color:#FFFFFF;
+	font-family:Arial, Helvetica, Verdana;
+	font-weight:700;
+	font-size:11px;
+	text-decoration:none;
+}
+
+A.l1on{
+	padding-left:2px;
+	color:#FFFFFF;
+	font-family:Arial, Helvetica, Verdana;
+	font-weight:700;
+	font-size:11px;
+	text-decoration:none;
+}
+
+TD.l2{
+	padding-left:3px;
+	background-color:#3366FF;
+}
+
+A.l2{
+	padding-left:3px;
+	color:#FFFFFF;
+	font-family:Arial, Helvetica, Verdana;
+	font-weight:400;
+	font-size:10px;
+	text-decoration:none;
+}
+
+TD.l3a{
+	padding-left:4px;
+	background-color:#3366FF;
+}
+
+FONT.l3a{
+	padding-left:4px;
+	color:#FFFFFF;
+	font-family:Arial, Helvetica, Verdana;
+	font-weight:400;
+	font-size:10px;
+	text-decoration:none;
+}
+
+TD.l3b{
+	padding-left:2px;
+	background-color:#3366FF;
+}
+
+A.l3b{
+	padding-left:2px;
+	color:#FFFFFF;
+	font-family:Arial, Helvetica, Verdana;
+	font-weight:400;
+	font-size:10px;
+	text-decoration:none;
+}
+
+FONT.bn{
+	color:#000000;
+	font-family:Arial, Helvetica, Verdana;
+	font-size:11px;
+	text-decoration:underline;
+}
+
+FONT.bnl{
+	color:#000000;
+	font-family:Arial, Helvetica, Verdana;
+	font-size:11px;
+	text-decoration:none;
+}
+
+TABLE.ctdbr {
+	background-color:#FFFFFF;
+	
+}
+
+
+
+
+TD.ctdcrn {
+	background-color:#FFFFFF;
+	padding-left:0px;
+	padding-right:0px;
+}
+
+
+
+TD.ctdbtn {
+	background-color:;
+	
+}
+
+
+A.ctdoff {
+	color:#FFFFFF;
+	font-family:Verdana;
+	font-size:10px;
+	font-weight:700;
+	text-decoration:none;
+}
+
+DIV.ads {
+	margin: 5px;
+
+}
+
+IMG.video {
+
+	vertical-align: middle;
+
+}
+
+TEXTAREA.qform {
+	font-family:Arial, Helvetica, Verdana; 
+}
+
+
+
+DIV.wrapper_wnsz_41 {background-color: #FFFFFF;border-color: #999999; border-style: solid; border-bottom-width: 0px; border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; width: 760; height: 92; vertical-align: bottom; margin: 0px; display: none;}
+
+DIV.wrapper_wnsz_42 {position: absolute; top: 0px; left: 762px; background-color: #081C63;border-color: #7B9EFF; border-style: solid; border-bottom-width: 0px; border-left-width: 1px; border-right-width: 1px; border-top-width: 0px; width: 165; height: 600; vertical-align: bottom; margin: 0px; visibility: hidden;}
+
+DIV.ad_text_wnsz_42 {position: absolute; top: 0px; left: 762px; background-color: #081C63;border-color: #7B9EFF; border-style: solid; border-bottom-width: 0px; border-left-width: 1px; border-right-width: 1px; border-top-width: 0px; width: 165; height:600; alignment: center; vertical-align: bottom; margin: 0px; visibility: hidden;}
+
+DIV.ad_wnsz_42 {position: absolute; top: 0px; left: 762px; background-color: #081C63;border-color: #7B9EFF; border-style: solid; border-bottom-width: 1px; border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; width: 165; height:610; alignment: center; vertical-align: middle; margin: 0px; visibility: hidden;}
+
 </style>
 
-
-<font face="arial, helvetica" size="2">
-<meta name="description" content="10TV.COM offers the most comprehensive local website for Columbus and Central Ohio including news, weather, sports, consumer information, live radar, live towercams and much more.">
-<meta name="keywords" content="wbns, wbns tv, wbns-10tv, wbns10tv, 10tv, wbns10, w-b-n-s, columbus, consumer 10, dispatch broadcast, dispatch broadcast group, angela pace, dave kaylor, andrea cambern, jerry revish">
-<meta name="Author" content="Jason Pheister">
-<meta name="resource-type" content="document">
-<meta http-equiv="Refresh" content="900">
-<meta http-equiv="Expire" content="now">
-<meta http-equiv="Pragma" content="no-cache">
-<link rel="SHORTCUT ICON" href="favicon.ico">
-<a name="pagetop">
-<table width="750" cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr>
-		<td bgcolor="#FF3333">
-			<table width="100%" cellspacing="1" cellpadding="2" border="0">
-				<tbody><tr>
-					<td bgcolor="#000066" width="187">
-						<font face="arial, helvetica" size="1" color="#ffffff">
-						<center>
-						<b><a href="/partners/wheels.php" class="menus">FIND A CAR</a></b>
-					</center></font></td>
-					<td bgcolor="#000066" width="187">
-						<font face="arial, helvetica" size="1" color="#ffffff">
-						<center>
-						<b><a href="/partners/yellowpages.php" class="menus">YELLOW PAGES</a></b>
-					</center></font></td>
-					<td bgcolor="#000066" width="187">
-						<font face="arial, helvetica" size="1" color="#ffffff">
-						<center>
-						<b><a href="http://www.employmentwizard.com/default.cfm?pid=104&amp;uu=70015529692866/" class="menus">FIND A JOB</a></b>
-					</center></font></td>
-					<td bgcolor="#000066" width="187">
-						<font face="arial, helvetica" size="1" color="#ffffff">
-						<center>
-						<b><a href="http://www.10tv.com/partners/cityscene.php" class="menus">CITY SCENE</a></b>
-					</center></font></td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
+<!--728x90 Leaderboard Ad-->
+<div id="wrapper_wnsz_41" name="wrapper_wnsz_41" style="background-color: #FFFFFF;border-color: #999999; border-style: solid; border-bottom-width: 1px; border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; width: 760; height: 100; vertical-align: bottom; margin: 0px; display: none;"><img src="/images/static/gfx/adtext_vert.gif" border="0" hspace="0" vspace="0" align="LEFT" style="margin-top: 5px"><center><iframe id="wnsz_41" name="wnsz_41" width="728" height="90" allowtransparency="true" style="VISIBILITY: hidden; margin-top: 5px" frameborder="0" border="1" marginwidth="0" marginheight="0" scrolling="no"><SCRIPT LANGUAGE='JavaScript1.1'>if (document.layers) {document.write('<SCR' + 'IPT language=JavaScript1.1 SRC=/Global/ad.asp?type=single&cls1=Inside&src1=nat&spct1=100&sz1=wnsz_41&callType=script></SCR\\' + \\'IPT>\\'); document.close();}</SCRIPT></iframe><script language="JavaScript1.1">coreAdsCreate('wnsz_41', 'nat', '100');</script></center>
+</div>
+<table border="0" bordercolor="#FF0000" cellspacing="0" cellpadding="0" height="100%" width="760">
+<tbody><tr valign="TOP"><!--LEFT COLUMN -->
+<td rowspan="3" width="130" id="col1" bgcolor="#000000">
+<table border="0" width="100%" cellpadding="0" cellspacing="0" background="/images/static/gfx/pxl_trans.gif">
+<tbody><tr><td><img width="130" border="0" src="/images/static/hdr/hdr_branding_130x170.jpg"></td></tr>
+<tr>
+<td><img width="130" src="/images/static/gfx/nav_top.gif"></td>
+</tr>
+<tr>
+<td valign="TOP" bgcolor="#0033CC"><!-- NAVIGATION MENU -->
+<table border="0" width="100%" cellpadding="0" cellspacing="1">
+<tbody><tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#0033CC','#FFFFFF');" onmouseout="mOut(this,'#000000','#FFFFFF');"><a class="l1off" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#FFFFFF');" href="/Global/category.asp?C=49358&amp;nav=LUER">Home</a></td></tr>
+<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#0033CC','#FFFFFF');" onmouseout="mOut(this,'#000000','#FFFFFF');"><a class="l1off" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#FFFFFF');" href="/Global/category.asp?C=49361&amp;nav=LUES">News</a></td></tr>
+<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#0033CC','#FFFFFF');" onmouseout="mOut(this,'#000000','#FFFFFF');"><a class="l1off" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#FFFFFF');" href="/Global/category.asp?C=49359&amp;nav=LUET">Doppler 10 Weather</a></td></tr>
+<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#0033CC','#FFFFFF');" onmouseout="mOut(this,'#000000','#FFFFFF');"><a class="l1off" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#FFFFFF');" href="/Global/category.asp?C=49362&amp;nav=LUEU">Sports</a></td></tr>
+<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#0033CC','#FFFFFF');" onmouseout="mOut(this,'#000000','#FFFFFF');"><a class="l1off" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#FFFFFF');" href="/Global/category.asp?C=59516&amp;nav=Snbd">Video</a></td></tr>
+<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#0033CC','#FFFFFF');" onmouseout="mOut(this,'#000000','#FFFFFF');"><a class="l1off" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#FFFFFF');" href="/Global/link.asp?L=119095&amp;nav=XSaw">Featured Links</a></td></tr>
+<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#0033CC','#FFFFFF');" onmouseout="mOut(this,'#000000','#FFFFFF');"><a class="l1off" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#FFFFFF');" href="/Global/category.asp?C=51723&amp;nav=XSb3">10TV Special Reports</a></td></tr>
+<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#0033CC','#FFFFFF');" onmouseout="mOut(this,'#000000','#FFFFFF');"><a class="l1off" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#FFFFFF');" href="/Global/category.asp?C=50249&amp;nav=LUEZ">Business &amp; Consumer</a></td></tr>
+<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#0033CC','#FFFFFF');" onmouseout="mOut(this,'#000000','#FFFFFF');"><a class="l1off" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#FFFFFF');" href="/Global/category.asp?C=50250&amp;nav=LUEV">Health &amp; Fitness</a></td></tr>
+<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#0033CC','#FFFFFF');" onmouseout="mOut(this,'#000000','#FFFFFF');"><a class="l1off" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#FFFFFF');" href="/Global/category.asp?C=49363&amp;nav=LUEd">Show You Care</a></td></tr>
+<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#0033CC','#FFFFFF');" onmouseout="mOut(this,'#000000','#FFFFFF');"><a class="l1off" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#FFFFFF');" href="/Global/category.asp?C=50253&amp;nav=LsK0">Lifestyles</a></td></tr>
+<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#0033CC','#FFFFFF');" onmouseout="mOut(this,'#000000','#FFFFFF');"><a class="l1off" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#FFFFFF');" href="javascript:OpenWin('http://inthegarden.10tv.com||height=,width=,location=yes,resizable=yes,scrollbars=no,toolbar=yes');">In the Garden</a></td></tr>
+<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#0033CC','#FFFFFF');" onmouseout="mOut(this,'#000000','#FFFFFF');"><a class="l1off" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#FFFFFF');" href="/Global/category.asp?C=64216&amp;nav=YMf7">Real Estate</a></td></tr>
+<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#0033CC','#FFFFFF');" onmouseout="mOut(this,'#000000','#FFFFFF');"><a class="l1off" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#FFFFFF');" href="/Global/category.asp?C=51863&amp;nav=XOV3">At Home &amp; Recipes</a></td></tr>
+<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#0033CC','#FFFFFF');" onmouseout="mOut(this,'#000000','#FFFFFF');"><a class="l1off" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#FFFFFF');" href="/Global/category.asp?C=51310&amp;nav=Ls2p">CityScene</a></td></tr>
+<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#0033CC','#FFFFFF');" onmouseout="mOut(this,'#000000','#FFFFFF');"><a class="l1off" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#FFFFFF');" href="/Global/category.asp?C=61673&amp;nav=XSdN">Pairing Pets and Parents</a></td></tr>
+<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#0033CC','#FFFFFF');" onmouseout="mOut(this,'#000000','#FFFFFF');"><a class="l1off" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#FFFFFF');" href="/Global/category.asp?C=51378&amp;nav=LtGe">Programming</a></td></tr>
+<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#0033CC','#FFFFFF');" onmouseout="mOut(this,'#000000','#FFFFFF');"><a class="l1off" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#FFFFFF');" href="javascript:OpenWin('http://www.CBS.com/||height=,width=,location=yes,resizable=yes,scrollbars=yes,toolbar=yes');">CBS</a></td></tr>
+<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#0033CC','#FFFFFF');" onmouseout="mOut(this,'#000000','#FFFFFF');"><a class="l1off" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#FFFFFF');" href="/Global/category.asp?C=52549&amp;nav=XSdh">Contact Us</a></td></tr>
+<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#0033CC','#FFFFFF');" onmouseout="mOut(this,'#000000','#FFFFFF');"><a class="l1off" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#FFFFFF');" href="/Global/category.asp?C=50252&amp;nav=LUEe">About WBNS-TV</a></td></tr>
+<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#0033CC','#FFFFFF');" onmouseout="mOut(this,'#000000','#FFFFFF');"><a class="l1off" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#FFFFFF');" href="/Global/category.asp?C=63265&amp;nav=XSdi">Classifieds</a></td></tr>
+<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#0033CC','#FFFFFF');" onmouseout="mOut(this,'#000000','#FFFFFF');"><a class="l1off" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#FFFFFF');" href="/Global/category.asp?C=53485&amp;nav=Yq3D">Contests</a></td></tr>
+<tr><td class="l1off" onclick="mClk(this);" onmouseover="mOvr(this,'#0033CC','#FFFFFF');" onmouseout="mOut(this,'#000000','#FFFFFF');"><a class="l1off" onmouseover="mOvrN(this,'#FFFFFF');" onmouseout="mOutN(this,'#FFFFFF');" href="/Global/story.asp?S=2978214&amp;nav=XSdv">WBNS-10TV RSS Feed</a></td></tr>
 </tbody></table>
+</td>
+</tr>
+<tr>
+<td><img width="130" src="/images/static/gfx/nav_bot.gif"></td>
+</tr>
+</tbody></table><!--SEARCH-->
+<table border="0" cellspacing="1" cellpadding="0" width="125" align="CENTER" background="/images/static/gfx/pxl_trans.gif">
+<tbody><tr><td></td></tr>
+<tr>
+<td bgcolor="#09199D">
+<table border="0" cellspacing="1" cellpadding="0" width="100%">
+<tbody><tr>
+<td valign="TOP" width="100%">
+<table border="0" cellspacing="0" cellpadding="3" width="100%" bgcolor="#09199D">
+<tbody><tr><form action="/Global/SearchResults.asp" method="GET" name="SimpleSearchForm"></form>
+<td><img width="80" height="15" border="0" align="MIDDLE" src="/images/static/gfx/search2.gif"><br><table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody><tr><td><input type="Text" name="qu" size="12" maxlength="30" style="font-size:10px;"></td><td><input type="IMAGE" width="26" height="20" border="0" src="/images/static/btn/btn_go2.gif"></td></tr></tbody></table></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr><td></td></tr>
+</tbody></table><!--AD 120x240A --><!--ADS 120x240A Local-->
+<center><iframe id="wnsz_23" name="wnsz_23" width="120" height="240" allowtransparency="true" style="VISIBILITY: hidden" frameborder="0" border="1" marginwidth="0" marginheight="0" scrolling="no"><SCRIPT LANGUAGE='JavaScript1.1'>if (document.layers) {document.write('<SCR' + 'IPT language=JavaScript1.1 SRC=/Global/ad.asp?type=single&cls1=Inside&src1=loc&spct1=100&sz1=wnsz_23&callType=script></SCR\\' + \\'IPT>\\'); document.close();}</SCRIPT></iframe><script language="JavaScript1.1">coreAdsCreate('wnsz_23', 'loc', '100');</script></center><!-- COL 1A POLL --><!-- Subsection Navigation --><!--ADS 120x60--><br><div align="CENTER"><iframe id="wnsz_26" name="wnsz_26" width="120" height="60" allowtransparency="true" style="VISIBILITY: hidden" frameborder="0" border="1" marginwidth="0" marginheight="0" scrolling="no"><SCRIPT LANGUAGE='JavaScript1.1'>if (document.layers) {document.write('<SCR' + 'IPT language=JavaScript1.1 SRC=/Global/ad.asp?type=single&cls1=Inside&src1=loc&spct1=100&sz1=wnsz_26&callType=script></SCR\\' + \\'IPT>\\'); document.close();}</SCRIPT></iframe><script language="JavaScript1.1">coreAdsCreate('wnsz_26', 'loc', '100');</script></div><br><div align="CENTER"><iframe id="wnsz_28" name="wnsz_28" width="120" height="60" allowtransparency="true" style="VISIBILITY: hidden" frameborder="0" border="1" marginwidth="0" marginheight="0" scrolling="no"><SCRIPT LANGUAGE='JavaScript1.1'>if (document.layers) {document.write('<SCR' + 'IPT language=JavaScript1.1 SRC=/Global/ad.asp?type=single&cls1=Inside&src1=loc&spct1=100&sz1=wnsz_28&callType=script></SCR\\' + \\'IPT>\\'); document.close();}</SCRIPT></iframe><script language="JavaScript1.1">coreAdsCreate('wnsz_28', 'loc', '100');</script></div>
+</td><!-- END OF LEFT COLUMN --><!-- CENTER COLUMN -->
+<td valign="TOP" id="col2/3" width="630">
+<table border="0" bordercolor="#ff0000" width="100%" cellpadding="0" cellspacing="0" height="100%">
+<tbody><tr>
+<td bgcolor="#000000" colspan="2"><img name="wn_cat_hdr" id="wn_cat_hdr" src="/images/static/hdr/category_hdr.jpg"></td>
+</tr>
+<tr><!-- NATIONAL CHANNELS -->
+<td colspan="2" bgcolor="#000000">
+<table cellpadding="0" cellspacing="1" border="0" bordercolor="#CC0000" width="630">
+<tbody><tr>
+<td width="100%" bgcolor="#000000"><!---->
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody><tr>
+<td valign="TOP">
+<table cellspacing="0" border="0" width="100%" cellpadding="2">
+<tbody><tr><td>
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody><tr>
+<td width="100%" align="left"><nobr><font style="FONT-SIZE:11px;COLOR:#FFFFFF;">&nbsp;May 28, 2005</font></nobr></td>
+<td></td>
+</tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr><!-- PAGE CONTENT -->
+<td valign="TOP" height="100%" width="500" bgcolor="#091544">
+<table cellpadding="1" cellspacing="0" border="0" width="100%">
+<tbody><tr>
+<td width="1" valign="TOP"><img id="banner_px" name="banner_px" src="/images/static/gfx/pxl_trans.gif" width="1" height="1" border="0"></td>
+<td>
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody><tr>
+<td colspan="2" align="CENTER">
+<table cellpadding="0" cellspacing="1" border="0" width="100%">
+<tbody><tr>
+<td align="CENTER"><iframe id="wnsz_1" name="wnsz_1" width="468" height="60" allowtransparency="true" style="VISIBILITY: hidden" frameborder="0" border="1" marginwidth="0" marginheight="0" scrolling="no"><SCRIPT LANGUAGE='JavaScript1.1'>if (document.layers) {document.write('<SCR' + 'IPT language=JavaScript1.1 SRC=/Global/ad.asp?type=single&cls1=Inside&src1=loc&spct1=100&sz1=wnsz_1&callType=script></SCR\\' + \\'IPT>\\'); document.close();}</SCRIPT></iframe><script language="JavaScript1.1">coreAdsCreate('wnsz_1', 'loc', '100');</script></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table><!--AD SpH490x25--><iframe id="wnsz_22" name="wnsz_22" width="490" height="25" allowtransparency="true" style="VISIBILITY: hidden" frameborder="0" border="1" marginwidth="0" marginheight="0" scrolling="no"><SCRIPT LANGUAGE='JavaScript1.1'>if (document.layers) {document.write('<SCR' + 'IPT language=JavaScript1.1 SRC=/Global/ad.asp?type=single&cls1=Inside&src1=loc&spct1=100&sz1=wnsz_22&callType=script></SCR\\' + \\'IPT>\\'); document.close();}</SCRIPT></iframe><script language="JavaScript1.1">coreAdsCreate('wnsz_22', 'loc', '100');</script><table cellpadding="0" cellspacing="1" border="0" width="100%">
+<tbody><tr><td><!-- COL 2A WEATHER/POLL-->
+</td></tr>
+</tbody></table><!-- DISPLAY STORY-->
+<table border="0" cellspacing="1" cellpadding="0" width="100%"><tbody><tr><td></td></tr>
+<tr>
+<td bgcolor="#FFFFFF">
+<table border="0" cellspacing="1" cellpadding="0" width="100%">
+<tbody><tr>
+<td valign="TOP" width="100%">
+<table border="0" cellspacing="0" cellpadding="5" width="100%" bgcolor="#FFFFFF">
+<tbody><tr>
+<td valign="TOP">
+<font style="FONT-FAMILY:Arial, Helvetica, Verdana;FONT-SIZE:20px;COLOR:#1E2CC3;"><b>This Web Site’s Privacy Policy</b></font><br clear="ALL"><table cellspacing="0" cellpadding="2" border="0" width="470">
+<tbody><tr><td width="20" align="CENTER"><a href="javascript: var headline = escape(&quot;This Web Site%E2%80%99s Privacy Policy&quot;); OpenWin( '/Global/Create_Email_Story.asp?s=18990&amp;Headline=' + headline +  '||width=635,height=400,toolbar=no,scrollbars=no')"><img width="18" height="17" border="0" align="baseline" src="/global/images/icon_email.gif"></a></td><td width="105"><nobr><a href="javascript: var headline = escape(&quot;This Web Site%E2%80%99s Privacy Policy&quot;); OpenWin( '/Global/Create_Email_Story.asp?s=18990&amp;Headline=' + headline +  '||width=635,height=400,toolbar=no,scrollbars=no')"><font class="a" style="FONT-SIZE:11px;COLOR:#000000;">Email to a Friend</font></a></nobr></td><td width="20" align="CENTER"><a href="/global/story.asp?s=18990&amp;ClientType=Print"><img width="18" height="17" border="0" align="baseline" src="/global/images/icon_printer.gif"></a></td><td width="140"><nobr><a href="/global/story.asp?s=18990&amp;ClientType=Printable"><font class="a" style="FONT-SIZE:11px;COLOR:#000000;">
+									Printer Friendly Version
+									</font></a></nobr></td>
+<td width="185">&nbsp;</td>
+</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="3" border="0" width="180" bgcolor="#FFFFFF" name="D20" align="LEFT"></table>
+<font size="2" color="#000000"><br><span style="COLOR: black">This Web Site (the "Web site")   provides a variety of online services, from interactive entertainment   to electronic commerce via its relationship with Gannaway Web Holdings, LLC   d/b/a WorldNow ("WorldNow"). WorldNow is the host of this&nbsp;Web site. Because the   success of this Web site is dependent on building and maintaining goodwill   with our customers, this Web site and WorldNow (hereinafter collectively   referred to as "we" or “us” or "our") are committed to implementing measures   designed to protect the privacy of those using our services. Moreover, we see it   as our responsibility to set examples and help establish the standards for   privacy on the Internet.<o:p></o:p></span>  <p><span style="COLOR: black">Although we respect the privacy of all those who   visit the Web site and use our online services, we do collect information from   our Web site's members and visitors. This Privacy Policy governs your   interaction with the Web site, and your registration for and use of this   station's online services. Except as set forth within this Privacy Policy and   this Web Site's Terms of Service and/or other published guidelines, we do not   release personally identifiable information about this Web site's members and   visitors without their permission.<o:p></o:p></span></p>  <p><span style="COLOR: black">Please note that we review these privacy practices   from time to time, and that these practices are therefore subject to change. We   ask that you periodically review this page to ensure continuing familiarity with   the most current version of this Web site's Privacy Policy. To contact us about   privacy issues, to report a violation of this Web site's Privacy Policy, or to   raise any other issue regarding the Web site, please e-mail us at </span><span style="COLOR: blue"><a href="mailto:Info@WorldNow.com">Info@WorldNow.com</a></span><span style="COLOR: black">.<o:p></o:p></span></p>  <p><b style="mso-bidi-font-weight: normal"><span style="COLOR: black">The   information we gather<o:p></o:p></span></b></p>  <p><span style="COLOR: black">We gather two types of information about this Web   site's users:<o:p></o:p></span></p>  <p><span style="COLOR: black">(1) <b style="mso-bidi-font-weight: normal">Non-personally identifiable   information:</b> When visitors come to the Web site, we collect and aggregate   information indicating, among other things, which pages were visited, the order   in which they were visited, and which hyperlinks were "clicked." Collecting such   information involves the logging of IP addresses, operating system and browser   software used by each visitor to the Web site. Although such information is not   personally identifiable, we can determine from the IP address a visitor's   Internet Service Provider and the geographic location of his or her point of   connectivity.<o:p></o:p></span></p>  <p><span style="COLOR: black">The non-personally identifiable information we   collect helps us diagnose problems with our server, administer the Web site,   identify the most popular areas of the Web site, and determine the effectiveness   of our promotional activities. In addition, we may disclose some of this   information to advertisers to inform them of the number of people who have seen   and/or clicked through their advertisements.<o:p></o:p></span></p>  <p><span style="COLOR: black">For the same purposes, we use "cookies"---that is,   small text files placed on your computer's hard drive---to help us determine the   type of content and sites to which you link, the length of time you spend at any   particular area of the Web site, and your usage of our services offered via the   Web site. Cookies also tell us which advertising you have seen on the Web   site.<span style="mso-spacerun: yes">&nbsp; At certain times, we may   use&nbsp; </span>   outside advertising   companies to display advertisements on the Web site that may contain cookies   ("banner ads"). These banner ads collect information stored by the advertising   company and we do not have access to this information.<o:p></o:p></span></p>  <p><span style="COLOR: black"> Essentially, cookies are your identification   cards for our computers, or servers, that placed them there. Cookies are only read   by the server that placed them, and are unable to execute any code or   virus. Cookies allow us to serve you better and more efficiently, and to   personalize your experience at the Web site. Nevertheless, you are able to control how   and whether cookies will be accepted by your web browser. For more information   on how to do so, please refer to the documentation accompanying your   browser.<o:p></o:p></span></p>  <p><span style="COLOR: black">(2) <b style="mso-bidi-font-weight: normal">Personally identifiable information:</b>            In certain areas of the Web site,   such as online surveys and contests, the Web site   may require that you provide&nbsp;personally identifiable information (including, for example, zip   code, age, income, and e-mail address, and when applicable, credit card information).   WorldNow, as host of the Web site, has access to this information. In addition,   when registering to set up an account to use certain services of the Web site   such as e-mail, chat rooms, and forums, or to receive   certain newsletters or specifically targeted information ("Services"), we do require that you provide&nbsp;a   valid e-mail address.<o:p></o:p></span></p>  <p><span style="COLOR: black">We do not knowingly collect personally   identifiable information from children (defined herein as minors younger than 13   years of age) without obtaining parental consent. Before registering for an   account to use the Services of the Web site, we ask that all minors have their   parents read our Privacy Policy. Before and during the registration process, we   encourage all minors to include a parent or guardian in the   process.<o:p></o:p></span></p>  <p><span style="COLOR: black">We do not control the acts of this Web site's members   or visitors. All members and visitors should be aware that, when they disclose   personally identifiable information in a bulletin board, chat room, guestbook,   or other forum, the information may be collected and used by others to   send that person unsolicited e-mail from other parties outside this Web site   or WorldNow. In the event that you encounter any user on this Web site who is   improperly collecting or using information about you or other users, please   contact </span><span style="COLOR: blue"><a href="mailto:Info@WorldNow.com">Info@WorldNow.com</a></span><span style="COLOR: black">.<o:p></o:p></span></p>  <p><b style="mso-bidi-font-weight: normal"><span style="COLOR: black">How we use   (and do not use) the information we gather<o:p></o:p></span></b></p>  <p><span style="COLOR: black"> Please take some time to familiarize yourself   with the different ways we use the information that we gather. Keep in mind   that, while we encourage all third parties involved---including affiliates and   advertisers---to adhere to our policies regarding the privacy of this Web site's   visitors and members and to otherwise handle personal information in a   responsible manner, we cannot and do not assume any responsibility for any   actions or omissions of third parties, including the manner in which they use   information received either from us or independently. Nevertheless, in the event   you encounter any third party associated with, or who claims association with us   who you feel is improperly collecting or using information about you, please   contact </span><span style="COLOR: blue"><a href="mailto:Info@WorldNow.com">Info@WorldNow.com</a></span><span style="COLOR: black">; we will be happy to forward your message to the third   party.<o:p></o:p></span></p>  <p><span style="COLOR: black">(1) <b style="mso-bidi-font-weight: normal">How we   use (and do not use) non-personally identifiable information:</b> We use   non-personally identifiable information in aggregate form to build higher   quality, more useful online services by performing statistical analyses of the   collective characteristics and behavior of the Web site's members and visitors,   and by measuring demographics and interests regarding specific areas of the Web   site. We provide statistical information based on this data to advertisers,   affiliates, and other current and potential business partners. We also use the   aggregate data to inform these third parties as to the number of people who have   seen and clicked on links to their web sites.<o:p></o:p></span></p>  <p><span style="COLOR: black">The Web site may contain links to other Internet   web sites, including co-branded or other affiliated sites that may or may not be   owned or operated by us. Unless otherwise explicitly stated, we are not   responsible for the privacy practices or the content of such web sites,   including such sites' use of any information (such as IP number, browser type,   or operating system) collected when visitors to the web site click through links   to those sites. Even though such information might not identify you personally,   we strongly encourage you to become familiar with the privacy practices of those   sites.<o:p></o:p></span></p>  <p><span style="COLOR: black">(2) <b style="mso-bidi-font-weight: normal">How we   use (and do not use) personally identifiable information:</b>        We provide notice to potential registrants of this   Web site whose personally identifiable information will be collected during the   registration process. Such notice is provided simultaneously with your registration   with this website; moreover, this Privacy Policy itself serves as notice that   such information is collected under those circumstances. You may not "opt in"&nbsp;to   the registration process if you wish to have access to Services, and you may choose to   "opt in"&nbsp;to receiving promotional materials from us and/or our affiliates,   advertisers, or other business partners. If you&nbsp;"opt in" to receiving such promotional   materials, we reserve the right to release any personally identifiable   registration information regarding you to third parties who provide goods or   services that we believe may be of interest to you. We will not release your   credit card information to third parties unless necessary to complete a   transaction between you and such a third party. If you decide that you would   like to discontinue receiving promotional information from such third parties,   please contact those third parties directly, or contact us at </span><span style="COLOR: blue"><a href="mailto:Info@WorldNow.com">Info@WorldNow.com</a></span><span style="COLOR: black">.<o:p></o:p></span></p>  <p><span style="COLOR: black"> We limit our own e-mail contact and   solicitations to those customers who have "opted in" to receiving such communications.   The solicitations are limited in that they, among other things, will clearly   indicate the originator of the e-mail and provide the customer with a method of   "opting out" of receiving future communications of a similar   nature.<o:p></o:p></span></p>  <p><span style="COLOR: black">   In addition, we sometimes use   demographic data to decide which advertisements and sponsor messages to show   to which members. As an example, if Sponsor XYZ wishes to display their   advertising only to female members of this Web site, we use member registration   data to ensure that Sponsor XYZ's ads are displayed only to female   members.<o:p></o:p></span></p>  <p><span style="COLOR: black">Finally, we may use individual members' data to   "pre-populate" forms, which are displayed for the purpose of collecting   individual data by us and/or our sponsors. In no case does pre-populating a form   transfer any data to any advertiser or third party. Only if the member   voluntarily requests that such data be transferred will any transfer take   place---for example, if/when a member clicks a "submit form" button or other   button.<o:p></o:p></span></p>  <p><span style="COLOR: black">We reserve the right to release any and all   information contained within our access logs concerning any visitor or member   when that visitor or member is in violation of our Terms of Service or other   published guidelines, or partakes (or is reasonably suspected of partaking) in   any illegal activity, even without a subpoena, warrant, or other court order,   and to release such information in response to discovery requests, or in   response to any circumstance which we, in our sole discretion, deem an   emergency. We cooperate with law enforcement agencies in identifying those who   may be using our servers or services for illegal activities. We also reserve the   right to report any suspected illegal activity to law enforcement for   investigation or prosecution.<o:p></o:p></span></p>  <p><span style="COLOR: black">If and when we sponsor promotions or sweepstakes,   or third parties sponsor promotions or sweepstakes in conjunction with us,   either we or the third party will post relevant privacy information in the   official rules and/or registration area for the promotion or sweepstakes. That   privacy information, to the extent it conflicts with this Privacy Policy, will   govern that particular promotion or sweepstakes.<o:p></o:p></span></p>  <p><b style="mso-bidi-font-weight: normal"><span style="COLOR: black">Security<o:p></o:p></span></b></p>  <p><span style="COLOR: black">All information gathered on the Web site is stored   within a WorldNow controlled database accessible only to us to protect the loss,   misuse, or alteration of the information under our control. However, as   effective as any security measure implemented by us may be, no security system   is impenetrable. We cannot guarantee the security of our database, nor can we   guarantee that information you supply will not be intercepted while being   transmitted to us over the Internet. Questions regarding this Privacy Policy   should be directed to us at </span><span style="COLOR: blue"><a href="mailto:Info@WorldNow.com">Info@WorldNow.com</a></span><span style="COLOR: black">.<o:p></o:p></span></p>  <p><b style="mso-bidi-font-weight: normal"><span style="COLOR: black">Changing/deleting personal   information<o:p></o:p></span></b></p>  <p><span style="COLOR: black">If you would like to have your personally   identifiable information changed or removed from our database, please contact us   at </span><span style="COLOR: blue"><a href="mailto:Info@WorldNow.com">Info@WorldNow.com</a></span><span style="COLOR: black">, and we will use reasonable efforts to comply with your   request. Keep in mind, however, that there will be residual information that   will remain within our databases, access logs, and other records, which may or   may not contain such personally identifiable information. The residual   information will not be used for commercial purposes; however we reserve the   right, from time to time, to recontact former customers or users of this Web   site.<o:p></o:p></span></p>  <p><b style="mso-bidi-font-weight: normal"><span style="COLOR: black">Third-Party Ad Serving<o:p></o:p></span></b></p>  <p><span style="COLOR: black">We use third-party advertising companies to serve   ads when you visit this Web site.<span style="mso-spacerun: yes">&nbsp;   </span>These companies may use information (not including your name, address or   telephone number) about your visits to this and other web sites in order to   provide advertisements about goods and services of interest to you.<span style="mso-spacerun: yes">&nbsp; </span>If you would like more information about   this practice and to know you choices about not having this information used by   these companies, please contact us at </span><span style="COLOR: blue"><a href="mailto:Info@WorldNow.com">Info@WorldNow.com</a>, <font color="#000000">or click here</font>  <a href="http://www.networkadvertising.org/optout_nonppii.asp">http://www.networkadvertising.org/optout_nonppii.asp</a>.</span></p>  <p><b style="mso-bidi-font-weight: normal"><span style="COLOR: black">Questions?<o:p></o:p></span></b></p>  <p><span style="COLOR: black">Questions regarding this Privacy Policy should be   directed to us at </span><span style="COLOR: blue"><a href="mailto:Info@WorldNow.com">Info@WorldNow.com</a></span><span style="COLOR: black">.</span></p>  <p><span style="COLOR: black"><em>Effective date: July 1,   2004</em></span></p></font><br><img border="0" src="http://static.worldnow.com/worldnow/global/images/sharedcnt/branding_4.gif"></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table><!--DISPLAY SEARCH RESULTS -->
+</td>
+<td width="1"></td>
+</tr>
+</tbody></table>
+<table border="0" cellspacing="0" cellpadding="1" width="100%">
+<tbody><tr>
+<td width="1"> </td>
+</tr>
+</tbody></table>
+</td><!--COl 4-->
+<td width="130" valign="TOP" height="100%" id="col4" bgcolor="#0E1F62">
+<table cellpadding="0" cellspacing="1" border="0" width="100%" bgcolor="#000000">
+<tbody><tr>
+<td bgcolor="#FFFFFF">
+<div id="membercenter" width="100%"></div><script language="JavaScript1.1">popProfile();</script><table border="0" cellpadding="0" cellspacing="1" width="100%"><tbody><tr><td><nobr><font size="1" color="#000000"><b>MEMBER CENTER</b></font></nobr></td></tr><tr><td height="12"><font style="font-size: 9px; line-height: 12px"></font><li style="list-style-type: square;color:#1E2CC3;float: left;"><font style="font-size: 9px; line-height: 12px"><a href="/global/link.asp?L=104054&amp;function=manageprofile&amp;mode=create&amp;referrer=http%3A//web.archive.org/web/20050528161843id_/http%253A//www.10tv.com/global/story.asp%253Fs%253D18990"><font color="#1E2CC3">Create Account</font></a></font></li></td></tr><tr><td><font style="font-size: 9px; line-height: 12px"></font><li style="list-style-type: square;color:#1E2CC3;float: left;"><font style="font-size: 9px; line-height: 12px"><a href="/global/link.asp?L=104054&amp;function=manageprofile&amp;mode=login&amp;referrer=http%3A//web.archive.org/web/20050528161843id_/http%253A//www.10tv.com/global/story.asp%253Fs%253D18990"><font color="#1E2CC3">Log In</font></a></font></li></td></tr></tbody></table></td>
+</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="1" border="0" width="100%" height="100%" bgcolor="#7B9DFF"><!-- DISPLAY EMPLOYMENT CLASSIFIEDS SPONSORS -->
+<tbody><tr>
+<td valign="TOP" bgcolor="#0E1F62">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody><tr>
+<td bgcolor="#0E1F62">
+<table border="0" cellspacing="0" cellpadding="2" width="100%" bgcolor="#0E1F62">
+<tbody><tr>
+<td>
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tbody><tr>
+<td valign="top" width="100%">
+<font size="2" color="#FFFFFF"> <iframe src=" http://www2.10tv.com/Global/PromoBox.php " width="120" height="275" frameborder="0" marginheight="0" marginwidth="1" scrolling="no"></iframe></font><br></td>
+</tr>
+</tbody></table><!--AD 120x600 National-->
+<center><iframe id="wnsz_14" name="wnsz_14" width="120" height="600" allowtransparency="true" style="VISIBILITY: hidden" frameborder="0" border="1" marginwidth="0" marginheight="0" scrolling="no"><SCRIPT LANGUAGE='JavaScript1.1'>if (document.layers) {document.write('<SCR' + 'IPT language=JavaScript1.1 SRC=/Global/ad.asp?type=single&cls1=Inside&src1=nat&spct1=100&sz1=wnsz_14&callType=script></SCR\\' + \\'IPT>\\'); document.close();}</SCRIPT></iframe><script language="JavaScript1.1">coreAdsCreate('wnsz_14', 'nat', '100');</script></center>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td valign="TOP" bgcolor="#0E1F62" height="95%">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody><tr>
+<td bgcolor="#0E1F62">
+<table border="0" cellspacing="0" cellpadding="2" width="100%" bgcolor="#0E1F62">
+<tbody><tr>
+<td>
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tbody><tr>
+<td valign="top" width="100%">
+<font size="2" color="#FFFFFF">   <iframe src=" http://www2.10tv.com/Global/features/AdFeatures/adfeature_list.php " scrolling="none" frameborder="0" border="0" width="125" height="650" align="center" marginwidth="1" marginheight="1">       </iframe>     </font><br></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table><img name="col4_px" id="col4_px" width="130" height="1" border="0" src="/images/static/gfx/pxl_trans.gif"></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" border="0" width="760">
+<tbody><tr>
+<td bgcolor="#000000">
+<table cellpadding="1" cellspacing="1" border="0" bordercolor="#CC0000" width="100%">
+<tbody><tr>
+<td align="CENTER" valign="BOTTOM" bgcolor="#E3E0DB">
+<table border="0" align="CENTER" bordercolor="#FF0000" cellspacing="5" cellpadding="0">
+<tbody><tr><td><a href="http://www.worldnow.com" target="_blank"><img name="bt_px" id="bt_px" border="0" src="/images/static/gfx/wn_powerby.gif"></a></td>
+<td><font style="FONT-SIZE:11px;COLOR:#000000;">All content © Copyright 2004 - 2005, WorldNow and WBNS-TV, Inc. All Rights Reserved.<br>For more information on this site, please read our <a href="/global/story.asp?s=18990">Privacy Policy</a> and <a href="/global/story.asp?s=18991">Terms of Service</a>. It is the policy of <a href="http://dispatchbroadcast.com/publicfile.php">The Dispatch Broadcast Group</a> to provide equal employment opportunity to all qualified individuals without regard to their race, color, religion, national origin, age, sex, marital status, disability, military status, citizenship or any other legally-protected status in accordance with applicable local, state and federal law. <a href="http://www.dispatchbroadcast.com/careers.php">Jobs at WBNS</a> <a href="http://www.dispatchbroadcast.com/WBNS_publicfile.htm" target="NEW">EEO Public File Report</a>.</font></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<div style="position: absolute; left: 0; top: 0;"><iframe id="wnsz_16" name="wnsz_16" width="1" height="1" allowtransparency="true" style="VISIBILITY: hidden" frameborder="0" border="1" marginwidth="0" marginheight="0" scrolling="no"></iframe><script language="JavaScript1.1">coreAdsCreate('wnsz_16', 'loc', '100');</script></div>
+<div style="position: absolute; left: 0; top: 0;"><iframe id="wnsz_17" name="wnsz_17" width="1" height="1" allowtransparency="true" style="VISIBILITY: hidden" frameborder="0" border="1" marginwidth="0" marginheight="0" scrolling="no"></iframe><script language="JavaScript1.1">coreAdsCreate('wnsz_17', 'nat', '100');</script></div>
+<div id="wrapper_wnsz_42" name="wrapper_wnsz_42" class="wrapper_wnsz_42"></div>
+<div id="ad_text_wnsz_42" name="ad_text_wnsz_42" class="ad_text_wnsz_42" align="CENTER"><img src="/images/static/gfx/adtext_horiz.gif" border="0"></div>
+<div id="ad_wnsz_42" name="ad_wnsz_42" class="ad_wnsz_42" align="CENTER">
+<center><iframe id="wnsz_42" name="wnsz_42" width="160" height="600" allowtransparency="true" style="VISIBILITY; margin-top: 5px: hidden" frameborder="0" border="1" marginwidth="0" marginheight="0" scrolling="no"><SCRIPT LANGUAGE='JavaScript1.1'>if (document.layers) {document.write('<SCR' + 'IPT language=JavaScript1.1 SRC=/Global/ad.asp?type=single&cls1=Inside&src1=nat&spct1=100&sz1=wnsz_42&callType=script></SCR\\' + \\'IPT>\\'); document.close();}</SCRIPT></iframe><script language="JavaScript1.1">coreAdsCreate('wnsz_42', 'nat', '100');</script></center>
+</div>
+<div style="position: absolute; top: 0px; left: 0px;">
+<iframe id="iframeads" name="iframeads" style="VISIBILITY: hidden" width="0" height="0" src="/global/ad.asp?type=core&amp;adtargwindow=Ad.TargetFrame.NewWin&amp;rnd=285311&amp;sz1=wnsz_41&amp;cls1=Inside&amp;src1=nat&amp;frm1=wnsz_41&amp;spct1=100&amp;sz2=wnsz_23&amp;cls2=Inside&amp;src2=loc&amp;frm2=wnsz_23&amp;spct2=100&amp;sz3=wnsz_26&amp;cls3=Inside&amp;src3=loc&amp;frm3=wnsz_26&amp;spct3=100&amp;sz4=wnsz_28&amp;cls4=Inside&amp;src4=loc&amp;frm4=wnsz_28&amp;spct4=100&amp;sz5=wnsz_1&amp;cls5=Inside&amp;src5=loc&amp;frm5=wnsz_1&amp;spct5=100&amp;sz6=wnsz_22&amp;cls6=Inside&amp;src6=loc&amp;frm6=wnsz_22&amp;spct6=100&amp;sz7=wnsz_14&amp;cls7=Inside&amp;src7=nat&amp;frm7=wnsz_14&amp;spct7=100&amp;sz8=wnsz_16&amp;cls8=Inside&amp;src8=loc&amp;frm8=wnsz_16&amp;spct8=100&amp;sz9=wnsz_17&amp;cls9=Inside&amp;src9=nat&amp;frm9=wnsz_17&amp;spct9=100&amp;sz10=wnsz_42&amp;cls10=Inside&amp;src10=nat&amp;frm10=wnsz_42&amp;spct10=100"></iframe>
+</div><script language="JavaScript1.1"> 
 
-<table width="750" cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr>
-		<td valign="bottom"><img src="/images/10tvcom_head.jpg"></td>
-	</tr>
-	<tr>
-		<td height="1" bgcolor="#FF3333">
+if (bsr != "Netscape" || ns6) {
+
+	if (bsr != "Netscape") {
+		var coreadsiframe = document.all.iframeads;
+	}
+	else {
+		var coreadsiframe = document.getElementById("iframeads");
+	}
+	
+	coreadsiframe.src = coreadcall;
+	//alert('core ad call = ' + document.all.iframeads.src);
+	//document.write(coreadsiframe.src);
+
+	var complete_cookie_exp = new Date();
+	complete_cookie_exp.setYear("1970");
+	
+
+	if (complete_cookie != null && complete_cookie_delete == true) {
+							
+		setCookie("completeditems", "0", complete_cookie_exp, "/");
+
+	}
+	if (multiple_entries_cookie_val != null && multiple_entries_update == true) {
+
+		//multiple_entries += "_repeat";
+
+		//setCookie("multipleentries", multiple_entries_cookie_val, multiple_entries_exp,"/");
 		
-		</td>
-	</tr><tr>
+	}
 	
-	</tr><tr>
-		<td height="20" bgcolor="#000000">
-			<center>
-			<font face="arial, helvetica" size="1" color="#ffffff">
-			<b>
-			<a href="/" class="menus" onmouseover="clearLayer();"> HOME </a>|
-			<a href="/news/newshome.php" class="menus" onmouseover="showLayer('newsMenu');"> NEWS </a>|
-			<a href="/weather/forecast.php" class="menus" onmouseover="showLayer('weatherMenu');"> WEATHER </a>|
-			<a href="/traffic/thisweek.php" class="menus" onmouseover="showLayer('trafficMenu');"> TRAFFIC </a>|
-			<a href="/sports/sportshome.php" class="menus" onmouseover="showLayer('sportsMenu');"> SPORTS </a>|
-			<a href="/consumer10/consumerhome.php" class="menus" onmouseover="showLayer('consumerMenu');"> CONSUMER 10 </a>|
-			<a href="/health/healthhome.php" class="menus" onmouseover="showLayer('healthMenu');"> HEALTH </a>|
-			<a href="/money/businessnews.php" class="menus" onmouseover="showLayer('moneyMenu');"> YOUR MONEY </a>|
-			<a href="/community/commhome.php" class="menus" onmouseover="showLayer('communityMenu');"> COMMUNITY </a></b>|
-			<a href="/wbnstv/wbnstvhome.php" class="menus" onmouseover="showLayer('wbnsMenu');"> WBNS-TV </a>
-			<img src="/images/tpx.gif" width="5" height="5">
-		
-		</font></center></td>
-	</tr>
-	<tr>
-		<td height="20" bgcolor="#000066">
-			<center>
-			<font face="verdana,arial,helvetica" size="1" color="#6699CC"><b>ColumbusNOW:
-			<a href="http://www.columbusnow.com/?tp=10&amp;sc=All&amp;rg=&amp;wn=n7&amp;en=&amp;section=entertainment&amp;sb=en&amp;story=search&amp;rs=0&amp;wizard=event&amp;imageField.x=7&amp;imageField.y=16" class="menus" target="new">MOVIE SHOWTIMES</a> <img src="/images/bulletRED.jpg" border="0" height="3" vspace="2" hspace="1">
-			<a href="http://www.columbusnow.com/?tp=30&amp;sc=All&amp;rg=&amp;wn=n7&amp;en=&amp;section=entertainment&amp;sb=en&amp;story=search&amp;rs=0&amp;wizard=event&amp;imageField.x=6&amp;imageField.y=16" class="menus" target="new">CONCERTS</a> <img src="/images/bulletRED.jpg" border="0" height="3" vspace="2" hspace="1">
-			<a href="http://www.columbusnow.com/?cid=&amp;rg=&amp;rtn=&amp;section=entertainment&amp;story=res_search&amp;rs=0&amp;wizard=restaurant&amp;imageField.x=17&amp;imageField.y=13" class="menus" target="new">RESTAURANT GUIDE</a> <img src="/images/bulletRED.jpg" border="0" height="3" vspace="2" hspace="1">
-			<a href="/partners/yellowpages.php" class="menus">MAPS &amp; DIRECTIONS</a></b>
-			<img src="/images/tpx.gif" width="5" height="5">
-		</font></center></td>
-	</tr>
-</tbody></table>
+	//alert("multi entry cookie val after setcookie = " + GetCookie("multipleentries"));
 
-
-<table width="750" cellspacing="0" cellpadding="0" border="0">	
-	<tbody><tr bgcolor="#ffffff">
-		<td valign="top" width="190" bgcolor="#ffffff">
-			<font face="verdana, arial, helvetica" size="1" color="#000000">
-			
-<script language="JavaScript1.2">
-//Sidemenu highlight script
-function changeto(onColor) {
-	source=event.srcElement
+}	
 	
-	if (source.tagName=="TR"||source.tagName=="TABLE")
-		return
-	while(source.tagName!="TD")
-		source=source.parentElement
-	if (source.style.backgroundColor!=onColor&&source.id!="ignore")
-		source.style.backgroundColor=onColor
-}
-
-function changeback(offColor) {
-	if (event.fromElement.contains(event.toElement)||source.contains(event.toElement)||source.id=="ignore")
-		return
-	if (event.toElement!=source)
-		source.style.backgroundColor=offColor
-}
-</script>
-<table width="100%" cellspacing="0" cellpadding="4" border="1" bgcolor="#000066" bordercolor="#666666">
-	<tbody><tr>
-		<td onmouseout="changeback('000066')" onmouseover="changeto('0000BE')" align="right">
-			<font face="verdana, arial, helvetica" size="1" color="#ffffff">
-			<a href="javascript:history.back();" class="submenus">
-			<b>« Previous Page</b></a>
-		</font></td>
-	</tr>
-	<tr>
-		<td bgcolor="#000000">
-			<font face="verdana, arial, helvetica" size="2" color="#ffffff">
-			<b>WBNS-TV</b>
-		</font></td>
-	</tr>
-	<tr>
-		<td onmouseout="changeback('000066')" onmouseover="changeto('0000BE')">
-			<font face="verdana, arial, helvetica" size="1" color="#ffffff">
-			<a href="/wbnstv/stationhistory.php" class="submenus">
-			<b>Station History</b></a>
-		</font></td>
-	</tr>
-	<tr>
-		<td onmouseout="changeback('000066')" onmouseover="changeto('0000BE')">
-			<font face="verdana, arial, helvetica" size="1" color="#ffffff">
-			<a href="http://www.clicktv.com/index.asp?CID=A6O" class="submenus">
-			<b>WBNS-10TV Program Schedule</b></a>
-		</font></td>
-	</tr>
-	<tr>
-		<td onmouseout="changeback('000066')" onmouseover="changeto('0000BE')">
-			<font face="verdana, arial, helvetica" size="1" color="#ffffff">
-			<a href="http://www.clicktv.com/index.asp?CID=A75" class="submenus">
-			<b>WBNS-DT21 Program Schedule </b></a>
-		</font></td>
-	</tr>
-	<tr>
-		<td onmouseout="changeback('000066')" onmouseover="changeto('0000BE')">
-			<font face="verdana, arial, helvetica" size="1" color="#ffffff">
-			<a href="/wbnstv/stationcontacts.php" class="submenus">
-			<b>Station Contacts</b></a>
-		</font></td>
-	</tr>
-
-	<tr>
-		<td onmouseout="changeback('000066')" onmouseover="changeto('0000BE')">
-			<font face="verdana, arial, helvetica" size="1" color="#ffffff">
-			<a href="/wbnstv/sales.php" class="submenus">
-			<b>Sales Information</b></a>
-		</font></td>
-	</tr>
-	<tr>
-		<td onmouseout="changeback('000066')" onmouseover="changeto('0000BE')">
-			<font face="verdana, arial, helvetica" size="1" color="#ffffff">
-			<a href="/wbnstv/satellite.php" class="submenus">
-			<b>Satellite Home Viewing</b></a>
-		</font></td>
-	</tr>
-	<tr>
-		<td onmouseout="changeback('000066')" onmouseover="changeto('0000BE')">
-			<font face="verdana, arial, helvetica" size="1" color="#ffffff">
-			<a href="/wbnstv/hdtv.php" class="submenus">
-			<b>HDTV Information</b></a>
-		</font></td>
-	</tr>
-	<tr>
-		<td onmouseout="changeback('000066')" onmouseover="changeto('0000BE')">
-			<font face="verdana, arial, helvetica" size="1" color="#ffffff">
-			<a href="http://www.dispatchbroadcast.com/careers.shtml" class="submenus" target="new">
-			<b>WBNS-TV Employment</b></a>
-		</font></td>
-	</tr>
-	<tr>
-		<td onmouseout="changeback('000066')" onmouseover="changeto('0000BE')">
-			<font face="verdana, arial, helvetica" size="1" color="#ffffff">
-			<a href="http://www.dispatchbroadcast.com/publicfile.shtml" class="submenus" target="new">
-			<b>WBNS-TV Public File</b></a>
-		</font></td>
-	</tr>
-	<tr>
-		<td onmouseout="changeback('000066')" onmouseover="changeto('0000BE')">
-			<font face="verdana, arial, helvetica" size="1" color="#ffffff">
-			<a href="/wbnstv/wbnstvhome.php" class="submenus">
-			<b>WBNS-TV Information</b></a>
-		</font></td>
-	</tr>
-	<tr>
-		<td onmouseout="changeback('000066')" onmouseover="changeto('0000BE')">
-			<font face="verdana, arial, helvetica" size="1" color="#ffffff">
-			<a href="http://www.dispatchbroadcast.com" class="submenus" target="new">
-			<b>Dispatch Broadcast Group</b></a>
-		</font></td>
-	</tr>
-	<tr>
-		<td onmouseout="changeback('000066')" onmouseover="changeto('0000BE')">
-			<font face="verdana, arial, helvetica" size="1" color="#ffffff">
-			<a href="/news/newsteam.php" class="submenus">
-			<b>Personalities</b></a>
-		</font></td>
-	</tr>
-</tbody></table>
-			<table width="100%" cellspacing="0" cellpadding="4" border="1" bgcolor="#000066" bordercolor="#666666"> 
-	<tbody><tr>
-		<td bgcolor="#000066">
-		
-		
-	
+ </script><script language="JavaScript" src="/global/tools/wn-sdc/wnsdc_tag.js"></script><noscript><IMG BORDER='0' NAME='DCSIMG' HEIGHT='1' WIDTH='1' SRC='http://wtnj.worldnow.com/dcs.gif?&WT.sp=WBNS&dcsuri=/nojavascript&dcssip=www.10tv.com&WT.js=No'></noscript>
 
 
-
-<!-- Javascript to defeat browser caching and improve click-through reliability -->
-<script language="JavaScript">
- <!--  
-function random() {     
-        randomseed = (randomseed * randoma + randomc) % randomm;
-        return randomseed / randomm;
-        }
-        var randomm = 714025;
-        var randoma = 4096;
-        var randomc = 150889;
-        randomseed = Date.parse(new Date());
-   randomNumber = random() + "";
-   
-   var not_ns2 = false;
-   if ((navigator.appVersion.indexOf ("2.0") == -1)
-        || (navigator.appName.indexOf("Netscape") == -1)) {
-    not_ns2 = true;
-  }
-  var page =window.location.hostname + window.location.pathname;
-  var oasurl ="http://adsrv.dispatch.com/RealMedia/ads/";
-  var imageurl = oasurl + "adstream_nx.ads/" + page + "/1";
-  var clickurl = oasurl + "click_nx.ads/" + page + "/1";
-
-        function oas_ad(pos,width,height) {
-    var rand = randomNumber.substring(2,11);
-    document.write ('<A HREF="' + clickurl + rand + '@' + pos +'" target=_top>');
-    if ( width && height ) {
-        document.write ('<IMG SRC="' + imageurl + rand + '@' + pos +'"' + ' WIDTH=' + width + ' HEIGHT=' + height + ' BORDER=1></A>');
-        }
-        else {
-                document.write ('<IMG SRC="' + imageurl + rand + '@' + pos + '" BORDER=1></A>');
-        }
-        }// -->
-
-</script>
-
-
-
-<!-- The code below calls the TOP AD -->
-<!-- Here is the Open AdStream code for the Top position  -->    
-<script language="JavaScript">
-
-<!--
-if (not_ns2) { 
-        oas_ad('Left1',175,80);
-}
-// -->
-
-</script><a href="http://adsrv.dispatch.com/RealMedia/ads/click_nx.ads/web.archive.org/web/20020610202151id_/http%3A//www.10tv.com/privacypolicy.php/1351757991@Left1" target="_top"><img src="http://adsrv.dispatch.com/RealMedia/ads/adstream_nx.ads/web.archive.org/web/20020610202151id_/http%3A//www.10tv.com/privacypolicy.php/1351757991@Left1" width="175" height="80" border="1"></a>
-      <noscript> <a HREF="http://adsrv.dispatch.com/RealMedia/ads/click_nx.ads/www.wbns10tv.com@Left1">
-		<img SRC="http://adsrv.dispatch.com/RealMedia/ads/adstream_nx.ads/www.wbns10tv.com@Left1" BORDER="1"></a>
-      </noscript> 
-
-<!-- End of code for Top position -->
-
-		</td>
-	</tr>
-</tbody></table>
-<center>
-<br>
-<br>
-
-<!-- Javascript to defeat browser caching and improve click-through reliability -->
-<script language="JavaScript">
- <!--  
-function random() {     
-        randomseed = (randomseed * randoma + randomc) % randomm;
-        return randomseed / randomm;
-        }
-        var randomm = 714025;
-        var randoma = 4096;
-        var randomc = 150889;
-        randomseed = Date.parse(new Date());
-   randomNumber = random() + "";
-   
-   var not_ns2 = false;
-   if ((navigator.appVersion.indexOf ("2.0") == -1)
-        || (navigator.appName.indexOf("Netscape") == -1)) {
-    not_ns2 = true;
-  }
-  var page =window.location.hostname + window.location.pathname;
-  var oasurl ="http://adsrv.dispatch.com/RealMedia/ads/";
-  var imageurl = oasurl + "adstream_nx.ads/" + page + "/1";
-  var clickurl = oasurl + "click_nx.ads/" + page + "/1";
-
-        function oas_ad(pos,width,height) {
-    var rand = randomNumber.substring(2,11);
-    document.write ('<A HREF="' + clickurl + rand + '@' + pos +'" target=_top>');
-    if ( width && height ) {
-        document.write ('<IMG SRC="' + imageurl + rand + '@' + pos +'"' + ' WIDTH=' + width + ' HEIGHT=' + height + ' BORDER=1></A>');
-        }
-        else {
-                document.write ('<IMG SRC="' + imageurl + rand + '@' + pos + '" BORDER=1></A>');
-        }
-        }// -->
-
-</script>
-
-
-
-<!-- The code below calls the TOP AD -->
-<!-- Here is the Open AdStream code for the Top position  -->    
-<script language="JavaScript">
-
-<!--
-if (not_ns2) { 
-        oas_ad('Left');
-}
-// -->
-
-</script><a href="http://adsrv.dispatch.com/RealMedia/ads/click_nx.ads/web.archive.org/web/20020610202151id_/http%3A//www.10tv.com/privacypolicy.php/1351757991@Left" target="_top"><img src="http://adsrv.dispatch.com/RealMedia/ads/adstream_nx.ads/web.archive.org/web/20020610202151id_/http%3A//www.10tv.com/privacypolicy.php/1351757991@Left" border="1"></a>
-      <noscript> <a HREF="http://adsrv.dispatch.com/RealMedia/ads/click_nx.ads/www.wbns10tv.com@Left">
-		<img SRC="http://adsrv.dispatch.com/RealMedia/ads/adstream_nx.ads/www.wbns10tv.com@Left" BORDER="1"></a>
-      </noscript> 
-
-<!-- End of code for Top position -->
-
-
-</center>			<p>
-			</p><center>
-		</center></font></td>
-		<td valign="top" bgcolor="#ffffff">
-			
-<!-- Sub page 468 banner add code -->
-<center>
-<br>
-<!-- Javascript to defeat browser caching and improve click-through reliability -->
-<script language="JavaScript">
- <!--  
-function random() {     
-        randomseed = (randomseed * randoma + randomc) % randomm;
-        return randomseed / randomm;
-        }
-        var randomm = 714025;
-        var randoma = 4096;
-        var randomc = 150889;
-        randomseed = Date.parse(new Date());
-   randomNumber = random() + "";
-   
-   var not_ns2 = false;
-   if ((navigator.appVersion.indexOf ("2.0") == -1)
-        || (navigator.appName.indexOf("Netscape") == -1)) {
-    not_ns2 = true;
-  }
-
-  var page =window.location.hostname + window.location.pathname;
-  var oasurl ="http://adsrv.dispatch.com/RealMedia/ads/";
-  var imageurl = oasurl + "adstream_nx.ads/" + page + "/1";
-  var clickurl = oasurl + "click_nx.ads/" + page + "/1";
-
-        function oas_ad(pos,width,height) {
-    var rand = randomNumber.substring(2,11);
-    document.write ('<A HREF="' + clickurl + rand + '@' + pos +'" target=_top>');
-    if ( width && height ) {
-        document.write ('<IMG SRC="' + imageurl + rand + '@' + pos +'"' + ' WIDTH=' + width + ' HEIGHT=' + height + ' BORDER=1></A>');
-        }
-        else {
-                document.write ('<IMG SRC="' + imageurl + rand + '@' + pos + '" BORDER=1></A>');
-        }
-        }// -->
-
-</script>
-
-
-
-
-<!-- The code below calls the TOP AD -->
-<!-- Here is the Open AdStream code for the Top position  -->    
-<script language="JavaScript">
-
-<!--
-if (not_ns2) { 
-        oas_ad('Top',468,60);
-}
-// -->
-
-</script><a href="http://adsrv.dispatch.com/RealMedia/ads/click_nx.ads/web.archive.org/web/20020610202151id_/http%3A//www.10tv.com/privacypolicy.php/1351757991@Top" target="_top"><img src="http://adsrv.dispatch.com/RealMedia/ads/adstream_nx.ads/web.archive.org/web/20020610202151id_/http%3A//www.10tv.com/privacypolicy.php/1351757991@Top" width="468" height="60" border="1"></a>
-      <noscript> <a HREF="http://adsrv.dispatch.com/RealMedia/ads/click_nx.ads/www.wbns10tv.com@Top" TARGET="_TOP">
-		<img SRC="http://adsrv.dispatch.com/RealMedia/ads/adstream_nx.ads/www.wbns10tv.com@Top" BORDER="1" WIDTH="468" HEIGHT="60" TARGET="_TOP"></a>
-      </noscript> 
-<!-- End of code for Top position -->
-
-
-<br><br>
-</center>			<table width="560" cellspacing="0" cellpadding="5" border="0">
-				<tbody><tr>
-					<td width="5">
-						&nbsp;
-					</td>
-					<td width="100%" height="100%" cellpadding="3" valign="top" bgcolor="#ffffff">
-						<font face="verdana, arial, helvetica" size="1" color="#000000">
-						<b>WBNS-TV, Inc.</b> <hr noshade="" size="1">
-<font face="Arial,helvetica">
-<h2>WBNS-TV, Inc. Privacy Policy</h2></font>
-
-<font face="Arial,helvetica" size="2">
-<p>WBNS-TV, Inc. respects the privacy of visitors to our
-Web site. We do not resell, trade or share any information provided by
-our visitors with any other entity. All information, other than
-information intended for publication, is confidential. Following is a
-list of types of information that may be recorded on our site and the
-purposes for which the information is used:</p>
-
-<ol>
-
-<li><b>Cookies:</b> WBNS-TV, Inc. sets cookies to track unique
-viewings of advertisements. This helps us determine, for example,
-whether an ad has been viewed 10 times by one person or 
-one time by 10 different people. No user information is saved or
-tracked as part of this effort. At other times we
-may set other cookies for different purposes on our Web site. If so,
-we will update this information to advise our visitors about the use
-of those cookies. Other sites that we link to from our pages may set
-their own cookies. WBNS-TV, Inc. has no control over these cookies, and
-we suggest you contact the site in question if you have concerns. 
-
-    It should be noted that cookies <b>cannot</b> in any event contain
-information other than that which you voluntarily provide. We cannot
-use cookies to directly determine any private information about
-you.</li><p></p>
-
-<!--
-<li><b>Guestbook:</b> We save guestbook entries as useful feedback from
-our visitors. We do not publish or share any information from the
-guestbook without consent of the author. All entries in the
-guestbook are voluntary. Because of the volume of entries, we cannot
-guarantee a response to any individual guestbook entry.</li>
--->
-
-<li><b>Electronic mail to staff members and departments:</b> Staff
-members have broad discretion as to the handling of mail sent to their
-individual accounts. The company does not have a policy of tracking or
-recording such correspondence, except by the specific request of the
-staff member in cases such as harassment. Electronic mail sent to
-departments within WBNS-TV, Inc., such as the News Department,
-is handled at the department's discretion. WBNS-TV, Inc. does not have
-a policy of sharing contents of e-mail with any other entities. 
-However, we reserve the right to disclose such correspondence as
-necessary to protect the company's legal interests.</li><p></p>
-
-<li><b>Standard Web server log files:</b> All accesses to our Web
-servers are recorded by software standard to our Web server platform.
-Machine IP address, file accessed and time of access are recorded.
-This information is  used only for system load and
-activity accounting. No user-based tracking records are kept.</li>
-<p></p>
-
-
-					</ol></font></font></td>
-				</tr>
-			</tbody></table><p>
-			<!-- End headlines table -->
-
-		</p></td>
-	</tr>
-</tbody></table>
-<!-- ------------------ START Footer Table ------------------ -->
-<table width="750" cellspacing="0" cellpadding="5" border="0" bgcolor="#000000">
-	<tbody><tr height="20">
-		<td bgcolor="#000000" valign="middle">
-			<font face="verdana, arial, helvetica" size="1" color="#ffffff">
-			 
-			<b>Copyright 1995-2002 WBNS-TV, Inc. - A <a href="http://www.dispatchbroadcast.com" class="menus">Dispatch Broadcast Group</a> Station </b> 
-		</font></td>
-		<td bgcolor="#000000" valign="middle" align="right">
-			<font face="arial, helvetica" size="1" color="#ffffff">
-			<a href="/default.php" class="menus">HOME</a> | <a href="/privacypolicy.php" class="menus">PRIVACY POLICY</a> | <a href="#pagetop" class="menus">BACK TO TOP</a>
-		</font></td>
-	</tr>
-	
-</tbody></table>
-	
-
-<!-- ------------------ END Footer Table ------------------ -->
-<div class="menus" id="newsMenu" style="position:absolute;width:120;z-index:9;background-color:#ffffff;padding-top:1;padding-left:1;padding-bottom:1;padding-right:1;">
-	<table width="120" cellspacing="0" cellpadding="3" border="0">
-		<tbody><tr>
-			<td valign="top" bgcolor="#000066">		
-				<font face="arial, helvetica" size="1"><font color="000000">
-				<b>
-				<a href="/news/local.php" class="menus" onmouseover="showLayer('newsMenu');" onmouseout="clearLayer();">Local News</a><br>
-				<!--<a href="/news/terrorism/index.php" class="menus" onMouseOver="showLayer('newsMenu');" onMouseOut="clearLayer();">Amer. Strikes Back</a><br>-->
-				<a href="/news/election2002/default.php" class="menus" onmouseover="showLayer('newsMenu');" onmouseout="clearLayer();">Election 2002</a><br>
-				<a href="/news/specials.php" class="menus" onmouseover="showLayer('newsMenu');" onmouseout="clearLayer();">Special Reports</a><br>
-				<a href="/news/paid.php" class="menus" onmouseover="showLayer('newsMenu');" onmouseout="clearLayer();">You Paid For It</a><br>
-				<a href="/news/ohio.php" class="menus" onmouseover="showLayer('newsMenu');" onmouseout="clearLayer();">Ohio News</a><br>				
-				<a href="/news/national.php" class="menus" onmouseover="showLayer('newsMenu');" onmouseout="clearLayer();">National News</a><br>
-				<a href="/news/world.php" class="menus" onmouseover="showLayer('newsMenu');" onmouseout="clearLayer();">World News</a><br>
-				<a href="/partners/cityscene.php" class="menus" onmouseover="showLayer('newsMenu');" onmouseout="clearLayer();">10TV City Scene</a><br>				
-				<a href="/news/connectedhome.php" class="menus" onmouseover="showLayer('newsMenu');" onmouseout="clearLayer();">Stay Connected</a><br>
-				<!-- <a href="/news/internet.php" class="menus" onMouseOver="showLayer('newsMenu');" onMouseOut="clearLayer();">Internet News</a><br>-->
-				<a href="/news/technology.php" class="menus" onmouseover="showLayer('newsMenu');" onmouseout="clearLayer();">Technology News</a><br>
-				<a href="/news/connectingwithkids.php" class="menus" onmouseover="showLayer('newsMenu');" onmouseout="clearLayer();">Connecting w/ Kids</a><br>
-				<a href="/news/athome.php" class="menus" onmouseover="showLayer('newsMenu');" onmouseout="clearLayer();">At Home with 10TV</a><br>
-				<a href="/news/capitolsquare.php" class="menus" onmouseover="showLayer('newsMenu');" onmouseout="clearLayer();">Capitol Square</a><br>
-				<a href="/news/entertainment.php" class="menus" onmouseover="showLayer('newsMenu');" onmouseout="clearLayer();">Entertainment</a><br>
-				<a href="/news/links.php" class="menus" onmouseover="showLayer('newsMenu');" onmouseout="clearLayer();">Featured Links</a><br>
-				<a href="/news/chopper10.php" class="menus" onmouseover="showLayer('newsMenu');" onmouseout="clearLayer();">Chopper 10</a><br>
-				<!-- a href="/news/lottery.php" class="menus" onMouseOver="showLayer('newsMenu');" onMouseOut="clearLayer();">Lottery Results</a><br-->
-				<a href="http://www.ohiolottery.com" class="menus" onmouseover="showLayer('newsMenu');" onmouseout="clearLayer();" target="new">Lottery Results</a><br>
-				<a href="/news/newsteam.php" class="menus" onmouseover="showLayer('newsMenu');" onmouseout="clearLayer();">10TV News Team</a><br>
-			</b></font></font></td>
-		</tr>
-	</tbody></table>
-</div>
-
-<div class="menus" id="weatherMenu" style="position:absolute;width:145;background-color:#ffffff;padding-top:1;padding-left:1;padding-bottom:1;padding-right:1;z-index:2;">
-	<table width="145" cellspacing="0" cellpadding="3" border="0">
-		<tbody><tr>
-			<td valign="top" bgcolor="#000066">
-				<font face="arial, helvetica" size="1"><font color="000000">
-				<b>
-				<a href="/weather/forecast.php" class="menus" onmouseover="showLayer('weatherMenu');" onmouseout="clearLayer();">Today's Forecast</a><br>
-				<a href="/weather/pinpoint/index.php" class="menus" onmouseover="showLayer('weatherMenu');" onmouseout="clearLayer();">Pinpoint Weather</a><br>
-				<a href="/weather/radar.php" class="menus" onmouseover="showLayer('weatherMenu');" onmouseout="clearLayer();">Dual Doppler Radar</a><br>
-				<a href="/weather/skyview.php" class="menus" onmouseover="showLayer('weatherMenu');" onmouseout="clearLayer();">10TV SkyView</a><br>
-				<a href="/weather/alerts.php" class="menus" onmouseover="showLayer('weatherMenu');" onmouseout="clearLayer();">Weather Alerts</a><br>
-				<a href="/weather/currents.php" class="menus" onmouseover="showLayer('weatherMenu');" onmouseout="clearLayer();">Current Conditions</a><br>
-				<a href="/weather/roadconditions.php" class="menus" onmouseover="showLayer('weatherMenu');" onmouseout="clearLayer();">Road Conditions</a><br>				
-				<a href="/weather/mikehome.php" class="menus" onmouseover="showLayer('weatherMenu');" onmouseout="clearLayer();">Mike's Column</a><br>
-				<a href="/weather/weatherwarn.php" class="menus" onmouseover="showLayer('weatherMenu');" onmouseout="clearLayer();">WeatherWarn</a><br>				
-				<!-- <a href="/weather/guide.php" class="menus" onMouseOver="showLayer('weatherMenu');" onMouseOut="clearLayer();">Severe Weather Guide</a><br> -->
-				<a href="/weather/tools.php" class="menus" onmouseover="showLayer('weatherMenu');" onmouseout="clearLayer();">Weather Tools</a><br>				
-				<a href="/weather/windchill.php" class="menus" onmouseover="showLayer('weatherMenu');" onmouseout="clearLayer();">Windchill Chart</a><br>
-				<!--<a href="/weather/eminfo.php" class="menus" onMouseOver="showLayer('weatherMenu');" onMouseOut="clearLayer();">Emergency Information</a><br>-->
-				<a href="/weather/schoolclosings.php" class="menus" onmouseover="showLayer('weatherMenu');" onmouseout="clearLayer();">School Closings</a><br>
-				<a href="/weather/team.php" class="menus" onmouseover="showLayer('weatherMenu');" onmouseout="clearLayer();">Doppler 10 Team</a><br>
-			</b></font></font></td>
-		</tr>
-	</tbody></table>
-</div>
-
-<div class="menus" id="trafficMenu" style="position:absolute;width:145;background-color:#ffffff;padding-top:1;padding-left:1;padding-bottom:1;padding-right:1;z-index:2;">
-	<table width="145" cellspacing="0" cellpadding="3" border="0">
-		<tbody><tr>
-			<td valign="top" bgcolor="#000066">
-				<font face="arial, helvetica" size="1"><font color="000000">
-				<b>
-				<a href="/traffic/thisweek.php" class="menus" onmouseover="showLayer('trafficMenu');" onmouseout="clearLayer();">This Week's Projects</a><br>
-				<a href="/traffic/cameras.php" class="menus" onmouseover="showLayer('trafficMenu');" onmouseout="clearLayer();">Traffic Cameras</a><br>
-				<a href="/traffic/northeast.php" class="menus" onmouseover="showLayer('trafficMenu');" onmouseout="clearLayer();">Northeast Projects</a><br>
-				<a href="/traffic/northwest.php" class="menus" onmouseover="showLayer('trafficMenu');" onmouseout="clearLayer();">Northwest Projects</a><br>
-				<a href="/traffic/downtown.php" class="menus" onmouseover="showLayer('trafficMenu');" onmouseout="clearLayer();">Downtown Projects</a><br>
-				<a href="/traffic/southeast.php" class="menus" onmouseover="showLayer('trafficMenu');" onmouseout="clearLayer();">Southeast Projects</a><br>
-				<a href="/traffic/southwest.php" class="menus" onmouseover="showLayer('trafficMenu');" onmouseout="clearLayer();">Southwest Projects</a><br>
-				<a href="/traffic/i70.php" class="menus" onmouseover="showLayer('trafficMenu');" onmouseout="clearLayer();">I-70 Projects</a><br>
-				<a href="/traffic/i71.php" class="menus" onmouseover="showLayer('trafficMenu');" onmouseout="clearLayer();">I-71 Projects</a><br>
-				<a href="/traffic/270.php" class="menus" onmouseover="showLayer('trafficMenu');" onmouseout="clearLayer();">I-270 Projects</a><br>
-				<a href="/traffic/315.php" class="menus" onmouseover="showLayer('trafficMenu');" onmouseout="clearLayer();">SR315 Projects</a><br>
-			</b></font></font></td>
-		</tr>
-	</tbody></table>
-</div>
-
-
-<div class="menus" id="sportsMenu" style="position:absolute;width:130;background-color:#ffffff;padding-top:1;padding-left:1;padding-bottom:1;padding-right:1;z-index:3;">
-	<table width="130" cellspacing="0" cellpadding="3" border="0">
-		<tbody><tr>
-			<td valign="top" bgcolor="#000066">
-				<font face="arial, helvetica" size="1"><font color="000000">
-				<b>
-				<a href="/sports/sportshome.php" class="menus" onmouseover="showLayer('sportsMenu');" onmouseout="clearLayer();">Local Sports</a><br>
-				<a href="http://cbs.sportsline.com/" class="menus" target="new" onmouseover="showLayer('sportsMenu');" onmouseout="clearLayer();">National Sports</a><br>
-				<!--<a href="/sports/firstandten.php" class="menus" onMouseOver="showLayer('sportsMenu');" onMouseOut="clearLayer();">First and 10</a><br>-->
-				<a href="http://www.sportsline.com/" class="menus" target="new" onmouseover="showLayer('sportsMenu');" onmouseout="clearLayer();">Latest Scores</a><br>
-				<a href="/sports/walltowall.php" class="menus" onmouseover="showLayer('sportsMenu');" onmouseout="clearLayer();">Wall to Wall Sports</a><br>
-				<a href="http://cbs.sportsline.com/" target="new" class="menus" onmouseover="showLayer('sportsMenu');" onmouseout="clearLayer();">CBS Sportsline</a><br>
-				<!--<a href="/sports/firstand10.php" class="menus" onMouseOver="showLayer('sportsMenu');" onMouseOut="clearLayer();">First and 10</a><br> -->
-				<a href="/sports/links.php" class="menus" onmouseover="showLayer('sportsMenu');" onmouseout="clearLayer();">Sports Links</a><br>
-				<a href="/sports/team.php" class="menus" onmouseover="showLayer('sportsMenu');" onmouseout="clearLayer();">10TV Sports Team</a><br>
-			</b></font></font></td>
-		</tr>
-	</tbody></table>
-</div>
-
-<div class="menus" id="consumerMenu" style="position:absolute;width:135;background-color:#ffffff;padding-top:1;padding-left:1;padding-bottom:1;padding-right:1;z-index:4;">
-	<table width="135" cellspacing="0" cellpadding="3" border="0">
-		<tbody><tr>
-			<td valign="top" bgcolor="#000066">		
-				<font face="arial, helvetica" size="1"><font color="000000">
-				<b>
-				<a href="/consumer10/consumerhome.php" class="menus" onmouseover="showLayer('consumerMenu');" onmouseout="clearLayer();">Feature Reports</a><br>
-				<a href="/consumer10/consumerhome.php#archive" class="menus" onmouseover="showLayer('consumerMenu');" onmouseout="clearLayer();">Report Archive</a><br>
-				<a href="/consumer10/consumerhome.php#recall" class="menus" onmouseover="showLayer('consumerMenu');" onmouseout="clearLayer();">Recall Roundup</a><br>
-				<a href="/consumer10/airfares.php#archive" class="menus" onmouseover="showLayer('consumerMenu');" onmouseout="clearLayer();">Travel Deals</a><br>
-				<a href="http://wbns.findlaw.com/" class="menus" onmouseover="showLayer('consumerMenu');" onmouseout="clearLayer();">Find Law Information</a><br>
-				<a href="/consumer10/consumerhome.php#links" class="menus" onmouseover="showLayer('consumerMenu');" onmouseout="clearLayer();">Links</a><br>
-			</b></font></font></td>
-		</tr>
-	</tbody></table>
-</div>
-
-<div class="menus" id="healthMenu" style="position:absolute;width:140;background-color:#ffffff;padding-top:1;padding-left:1;padding-bottom:1;padding-right:1;z-index:5;">
-	<table width="140" cellspacing="0" cellpadding="3" border="0">
-		<tbody><tr>
-			<td valign="top" bgcolor="#000066">
-				<font face="verdana, arial, helvetica" size="1"><font color="000000">
-				<b>
-				<a href="/health/healthnews.php" class="menus" onmouseover="showLayer('healthMenu');" onmouseout="clearLayer();">HealthSource News</a><br>
-				<a href="/health/commit/C2BF/home.php" class="menus" onmouseover="showLayer('healthMenu');" onmouseout="clearLayer();">Commit to be Fit</a><br>
-				<a href="/health/healthheadlines.php" class="menus" onmouseover="showLayer('healthMenu');" onmouseout="clearLayer();">Health Headlines</a><br>
-				<a href="/health/weekreports.php" class="menus" onmouseover="showLayer('healthMenu');" onmouseout="clearLayer();">Daily Reports</a><br>
-				<a href="/health/recipe.php" class="menus" onmouseover="showLayer('healthMenu');" onmouseout="clearLayer();">Recipe of the Week</a><br>
-				<!--<a href="/health/magazine.php" class="menus" onMouseOver="showLayer('healthMenu');" onMouseOut="clearLayer();">HealthSource Magazine</a><br>-->
-			</b></font></font></td>
-		</tr>
-	</tbody></table>
-</div>
-
-<div class="menus" id="moneyMenu" style="position:absolute;width:130;background-color:#ffffff;padding-top:1;padding-left:1;padding-bottom:1;padding-right:1;z-index:6;">
-	<table width="130" cellspacing="0" cellpadding="3" border="0">
-		<tbody><tr>
-			<td valign="top" bgcolor="#000066">
-				<font face="verdana, arial, helvetica" size="1"><font color="000000">
-				<b>
-				<a href="/money/businessnews.php" class="menus" onmouseover="showLayer('moneyMenu');" onmouseout="clearLayer();">Top Business News</a><br>
-				<a href="/money/stocklookup.php" class="menus" onmouseover="showLayer('moneyMenu');" onmouseout="clearLayer();">Latest Numbers</a><br>
-				<a href="/money/localstocks.php" class="menus" onmouseover="showLayer('moneyMenu');" onmouseout="clearLayer();">Local Stocks</a><br>
-				<a href="http://cbs.marketwatch.com/tools/marketsummary/default.asp?siteid=mktw" class="menus" target="new" onmouseover="showLayer('moneyMenu');" onmouseout="clearLayer();">Market Overview</a><br>
-				<a href="/news/connectedhome.php" class="menus" onmouseover="showLayer('moneyMenu');" onmouseout="clearLayer();">Stay Connected</a><br>
-				<a href="/news/technology.php" class="menus" onmouseover="showLayer('moneyMenu');" onmouseout="clearLayer();">Technology News</a><br>
-			</b></font></font></td>
-		</tr>
-	</tbody></table>
-</div>
-
-<div class="menus" id="communityMenu" style="position:absolute;width:130;background-color:#ffffff;padding-top:1;padding-left:1;padding-bottom:1;padding-right:1;z-index:7;">
-	<table width="130" cellspacing="0" cellpadding="3" border="0">
-		<tbody><tr>
-			<td valign="top" bgcolor="#000066">
-				<font face="verdana, arial, helvetica" size="1"><font color="000000">
-				<b>
-				<a href="/community/communityfax.php" class="menus" onmouseover="showLayer('communityMenu');" onmouseout="clearLayer();">Community Fax</a><br>
-				<a href="/community/showyoucare.php" class="menus" onmouseover="showLayer('communityMenu');" onmouseout="clearLayer();">Show You Care</a><br>
-				<a href="/community/communitylinks.php" class="menus" onmouseover="showLayer('communityMenu');" onmouseout="clearLayer();">Community Links</a><br>
-			</b></font></font></td>
-		</tr>
-	</tbody></table>
-</div>
-
-<div class="menus" id="wbnsMenu" style="position:absolute;width:130;background-color:#ffffff;padding-top:1;padding-left:1;padding-bottom:1;padding-right:1;z-index:8;">
-	<table width="130" cellspacing="0" cellpadding="3" border="0">
-		<tbody><tr>
-			<td valign="top" bgcolor="#000066">
-				<font face="verdana, arial, helvetica" size="1"><font color="000000">
-				<b>
-				<a href="http://tvlistings1.zap2it.com/one/grid.asp?one_partner_id=A6O" class="menus" onmouseover="showLayer('wbnsMenu');" onmouseout="clearLayer();">10TV Program Sched.</a><br>
-				<a href="http://tvlistings1.zap2it.com/one/grid.asp?one_partner_id=A75" class="menus" onmouseover="showLayer('wbnsMenu');" onmouseout="clearLayer();">DT21 Program Sched.</a><br>
-				<a href="/wbnstv/stationcontacts.php" class="menus" onmouseover="showLayer('wbnsMenu');" onmouseout="clearLayer();">Station Contacts</a><br>
-				<a href="/wbnstv/sales.php" class="menus" onmouseover="showLayer('wbnsMenu');" onmouseout="clearLayer();">Sales Information</a><br>
-				<a href="/wbnstv/satellite.php" class="menus" onmouseover="showLayer('wbnsMenu');" onmouseout="clearLayer();">Satellite Viewing</a><br>
-				<a href="/wbnstv/accessdtv.php" class="menus" onmouseover="showLayer('wbnsMenu');" onmouseout="clearLayer();">AccessDTV on PCs</a><br>
-				<a href="/wbnstv/hdtv.php" class="menus" onmouseover="showLayer('wbnsMenu');" onmouseout="clearLayer();">HDTV Information</a><br>
-				<a href="/wbnstv/stationhistory.php" class="menus" onmouseover="showLayer('wbnsMenu');" onmouseout="clearLayer();">Station History</a><br>
-				<a href="http://www.dispatchbroadcast.com/careers.shtml" class="menus" onmouseover="showLayer('wbnsMenu');" onmouseout="clearLayer();">Employment</a><br>
-				<a href="http://www.dispatchbroadcast.com/publicfile.shtml" class="menus" onmouseover="showLayer('wbnsMenu');" onmouseout="clearLayer();">Public File</a><br>
-				<a href="/wbnstv/wbnstvhome.php" class="menus" onmouseover="showLayer('wbnsMenu');" onmouseout="clearLayer();">Station Information</a><br>
-				<a href="http://www.dispatchbroadcast.com" class="menus" onmouseover="showLayer('wbnsMenu');" onmouseout="clearLayer();">Dispatch Broadcast</a><br>
-				<a href="/news/newsteam.php" class="menus" onmouseover="showLayer('wbnsMenu');" onmouseout="clearLayer();">Personalities</a><br>
-			</b></font></font></td>
-		</tr>
-	</tbody></table>
-</div>
-
-<!--
-<div class="menus" ID="searchBox" STYLE="position:absolute;width:250;padding-top:1;padding-left:1;padding-bottom:1;padding-right:1;z-index:9;">
-	<form method="post" action="gosearch.php">
-	<table width="250" cellspacing="0" cellpadding="0" border="0">
-		<tr>
-			<td align="right"><img src="images/roundleft.gif"></td>
-			<td valign="top" bgcolor="#000066">
-				<font face="verdana, arial, helvetica" size="2"><font color="#ffffff">
-				<b>Search 10TV.com</b><br>
-				<input type="text" name="userSearch" size="16"> <input type="submit" value="Search"><br>
-				<font size="1"><a href="javascript:clearLayer();"><font color="#ffffff">CLOSE SEARCH</a><br>&nbsp;
-			</td>
-			<td><a href="javascript:clearLayer();"><img src="images/roundright.gif" border="0"></a></td>
-		</tr>
-	</table>
-	</form>
-</div>
--->
-<div id="headDate">
-	<font face="arial, helvetica" size="1" color="#ffffff">
-	MONDAY, JUNE 10, 2002 - <font face="verdana,arial, helvetica" size="1" color="#ffffff"><b>87°</b></font>
-	
-</font></div><font face="arial, helvetica" size="1" color="#ffffff">
-</font></a></font></body></html>
+<!-- !@NaJX@U@RAW5@KI~I9D9YDT;XDU}B07)}*:'40((65:'~/9rTHD{FPQCHOQDI9DJGMIGI?F=eg \@*[:V}X}H9D{T}O}B7[}VQMIB7V8Q@Fn r6(4o#%gju33IIDI9DCS~ICc}L;V99(}77CS~ICc}L;V9D{W@ZMIMF33NaJX@U@RAW5 -->
+</body></html>
