@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americasbest.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209074057id_/http%3A//www.americasbest.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americasbest.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528130926id_/http%3A//www.americasbest.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,8 +6,7 @@ AmericasBest Industries, Inc. is committed to protecting the privacy of our user
 
 What information does AmericasBest.com collect from me?
 
-AmericasBest.com collects information in different ways from our network of web sites.   
-Some personal information is gathered when you register. During registration, AmericasBest.com asks for your name, email address, and other personal information. All information submitted, including resumes, is voluntary. Wherever AmericasBest.com collects personal information we make an effort to include a link to this Privacy Policy on that page. 
+AmericasBest.com collects information in different ways from our network of web sites. Some personal information is gathered when you register. During registration, AmericasBest.com asks for your name, email address, and other personal information. All information submitted, including resumes, is voluntary. Wherever AmericasBest.com collects personal information we make an effort to include a link to this Privacy Policy on that page. 
 
 How does AmericasBest.com use my information? 
 
