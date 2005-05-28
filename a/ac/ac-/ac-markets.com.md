@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ac-markets.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205165037id_/http%3A//www.ac-markets.com/EN/ressources.privacy_notice.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ac-markets.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528071951id_/http%3A//www.ac-markets.com/EN/ressources.privacy_notice.asp) for the most accurate reproduction.*
 
 # Web privacy notice - Advanced currency markets - forex trading
 
