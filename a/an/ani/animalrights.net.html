@@ -1,307 +1,106 @@
-<!--The following is the downloaded HTML source of the animalrights.net privacy policy that was archived on 2000-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001207021500id_/http%3A//www.animalrights.net/privacy_statement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the animalrights.net privacy policy that was archived on 2005-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050528091325id_/http%3A//animalrights.net/about/privacy_statement.html) for the most accurate reproduction.-->
 
-<html><head>
-		<title>Privacy Statement for Animal Rights.Net</title>
-		<link rel="stylesheet" type="text/css" href="http://www.animalrights.net/winter.css">
-
-		
-<script type="text/javascript" language="JavaScript">
-<!--// hide from older browsers
-
-function editEvent( eventId, aDate, what ) {
-	var NS = ( document.layers ) ? 1 : 0;
-	var IE = ( document.all ) ? 1 : 0;
-	var url = String( window.location.pathname );
-	var ix = url.indexOf( '$' );
-	if ( ix > 0 ) { url = url.slice( 0, ix ) };
-	if ( url[ url.length - 1 ] != "/" ) { url = url + "/"; }
-	url = url + "event_" + what + "$event=" + eventId + "&date=" + aDate;
-	var winwidth = 600;
-	var winheight = 400;
-	if (NS) {
-		var newWin = window.open( url,"Edit_Event","toolbar=0,directories=0,menubar=1,location=0,scrollbars=0,status=1,resizable=1,width=" + winwidth +",height=" + winheight + "\"" );
-		}
-	else if (IE) {
-		var newWin = window.open( "","Edit_Event","toolbar=0,directories=0,menubar=1,location=0,scrollbars=0,status=1,resizable=1,width=" + winwidth +",height=" + winheight + "\"" );
-		newWin.document.write( "<META HTTP-EQUIV='refresh' CONTENT='0; URL=" + url + "'>" );
-		newWin.document.write( " " );
-		newWin.document.close( );
-		}
-}
-function setStatus( eventId, what ) {
-	if ( !eventId ) {
-		window.status = "Click to add an event";
-		}
-	else {
-		window.status = "Click to " + what + " the event " + eventId;
-		}
-	return true;
-}
-function clearStatus( ) {
-	window.status = "";
-	return true;
-}
-
-
-// end hiding-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta name="generator" content="HTML Tidy for Mac OS, see www.w3.org">
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta http-equiv="imagetoolbar" content="no">
+<script type="text/javascript" src="http://media-carnell.macrobyte.net/animalrights/js/sorttable.js">
+</script>
+<script type="text/javascript" src="http://media-carnell.macrobyte.net/animalrights/js/blockquotesNS.js">
+</script>
+<script type="text/javascript" src="http://media-carnell.macrobyte.net/animalrights/js/nicetitles.js">
 </script>
 
-<script type="text/javascript" language="JavaScript">
-<!--// hide from older browsers
+<link rel="stylesheet" type="text/css" href="http://media-carnell.macrobyte.net/animalrights/css/AR2004-2.css">
 
-var IE = (document.all) ? 1 : 0;
-var NS = (document.layers) ? 1 : 0;
-
-function switchPanels( block1, block2, block3 ) {
-	if ( IE ) {
-		block1.style.visibility = 'visible';
-		block2.style.visibility = 'hidden';
-		block3.style.visibility = 'hidden';
-		}
-	else  {
-		block1.visibility = 'visible';
-		block2.visibility = 'hidden';
-		block3.visibility = 'hidden';
-		}
-	return false;
-	}
-
-function collectData( adrMasterForm, adrForm ) {
-	var obj, i, type, objName, selectVal;
-	var adrMasterObj;
-	for ( i = 0; i < adrForm.elements.length; i++ ) { 
-		selectVal = "";
-		obj = adrForm.elements[ i ];
-		type = obj.type;
-		objName = obj.name;
-		if ( adrMasterForm[ objName ] ) {
-			switch( type ) {
-				case "radio" :
-				case "checkbox" :
-					if ( obj.checked ) {
-						adrMasterObj = adrMasterForm[ objName ];
-						adrMasterObj.value = obj.value;
-						}
-					else {
-						continue;
-						}
-					break;
-				case "select-one" :
-				case "select-multiple" :
-					with ( obj ) { 
-						for ( var lc = 0; lc < length; lc++ ) {
-							if ( options[ lc ].selected ) {
-								if ( selectVal != "" ) { selectVal = selectVal + "&" }
-								selectVal = selectVal + options[ lc ].value
-								}
-							}
-						}
-					adrMasterObj = adrMasterForm[ objName ];
-					adrMasterObj.value = selectVal;
-					break;
-				case "submit" :
-					continue;
-				default :
-					adrMasterObj = adrMasterForm[ objName ];
-					adrMasterObj.value = obj.value;
-				}
-			}
-		else {
-			continue;
-			}
-		}
-	}
-
-function submitit( submitValue ) {
-	if ( !submitValue ) { return false; } // exit immediately when submitting masterform
-	var adrMasterForm = (IE) ? document.all.masterform : document.eventDlogSubpanel.document.forms.masterform;
-	adrMasterForm.submitBtn.value = submitValue;
-	if ( submitValue == "Delete Event" ) {
-		if ( window.confirm( "Delete this event and all its possible instances?\nThis cannot be undone." ) ) {
-			adrMasterForm.submit( );
-			}
-		return false;
-		}
-	var adrForm = (IE) ? document.all.panel1 : document.eventDlogEventPanel.document.forms[0];
-	collectData( adrMasterForm, adrForm )
-	adrForm = (IE) ? document.all.panel2 : document.eventDlogRepeatPanel.document.forms[0];
-	collectData( adrMasterForm, adrForm )
-	adrForm = (IE) ? document.all.panel3 : document.eventDlogAlertsPanel.document.forms[0];
-	collectData( adrMasterForm, adrForm );
-	adrMasterForm.submit();
-	return false;
-	}
+<title>AR.net &gt;&gt; Privacy Statement for Animal Rights.Net</title>
 
 
-// end hiding-->
-</script>
+</head>
 
-		</head>
-	<body alink="#FF0000" bgcolor="#FFFFFF" link="#0000FF" text="#000000" vlink="#840084">
-<center><!-- BEGIN SIMPLE BURST! CODE --> 
-<a href="http://www.burstnet.com/ads/ad5729a-map.cgi">
-<img src="http://www.burstnet.com/cgi-bin/ads/ad5729a.cgi" border="0" width="468" height="60"></a></center>
-<!-- END BURST CODE --> 
-<center><a href="advertise.html"><font size="-1">Advertise 
-        on this site</font></a><p></p></center><br><br> 
-	<table width="98%">
-		<tbody><tr>
-			<td width="10%" align="center" valign="top" id="leftcolumn">
-				<table id="memberLinkTable" cellspacing="0" cellpadding="2" border="0" width="90%">
-	<tbody><tr>
-		<td class="memberLinkHeaderCell"><span class="memberLinkHeaderText">Members</span></td>
-	</tr>
-	<tr>
-		<td class="memberLinkCell"><span class="memberLinkText">
-			Welcome!<br>
-			<a href="http://www.animalrights.net/signup">Sign Up</a><br>
-			Your Account<br>
-			Preferences<br>
-			<a href="http://www.animalrights.net/logon">Logon</a>
-		</span></td>
-	</tr>
-</tbody></table>
-				<br>
-<table width="90%" border="0" cellpadding="2" cellspacing="0" class="navbarTable">
-<tbody><tr>
-<td class="navbarHeaderCell">
-<span class="navbarHeaderText">Navigation</span></td>
-</tr>
-<tr>
-<td valign="middle" class="navbarCell"><span class="navbarText">
-	<a href="http://www.animalrights.net/">Home</a>
-<br><br>
-<a href="http://www.animalrights.net/search">Search</a><br><br>
-<a href="http://www.animalrights.net/FAQ/">FAQ</a><br><br>
-<a href="http://www.animarights.net/signup">Signup</a><br><br>
-<a href="http://www.animalrights.net/bookstore/">Bookstore</a><br><br>
-<a href="http://www.animalrights.net/links.html">Links</a>
-<br><br> 
-<a href="http://www.animalrights.net/527">Help</a>
-<hr>
-<p></p><center><b>Members</b></center><p></p>
-<a href="http://www.animalrights.net/logon">Logon</a>
-<br><br>
-<a href="http://www.animalrights.net/logoff">Logoff</a>
-<br><br>
-<a href="http://www.animalrights.net/privacy_statement.html">Privacy Statement</a>
-<hr>
-<p></p><center><b>Discussion</b></center><p></p>
-<a href="http://www.animalrights.net/recent_messages">Recent Messages</a>
-<br><br>
-<a href="http://www.animalrights.net/__NewThread__">Post New Message</a>
-<br><br>
-<a href="http://www.animalrights.net/topics">List All Topics</a>
-<br><br>
-</span>
-</td>
-</tr>
-</tbody></table>
 
-		<form method="GET" action="/search">
-<table cellspacing="0" cellpadding="3" border="0" width="90%">
-	<tbody><tr>
-	<td align="center" class="searchFieldHeaderCell"><span class="searchFieldHeaderText">Search</span></td>
-	</tr>
-	<tr>
-	<td align="center" class="searchFieldCell">
-	<input type="text" name="body" size="20" maxlength="800" value="">
-	<input type="hidden" name="limit" value="15">
-	<input type="hidden" name="__simpleQuery" value="true">
-	</td>
-	</tr>
-	<tr>
-	<td align="center" class="searchFieldCell"><input type="submit" value="Search"></td>
-	</tr>
-</tbody></table>
-</form>
+<body>
 
-				<br>
-				
-				<br>
-				<a href="http://www.free-conversant.com/signup/"><img src="http://www.macrobyteresources.com/images/conversant_badge.gif" height="55" width="120" border="0" alt="Site Managed with Conversant"></a>
-				<br><br>
-				</td>
-			<td width="10%">&nbsp;</td><!--spacer-->
-			<td width="80%" align="left" valign="top">
-				<p></p><center><b><font size="+2">Privacy Statement for Animal Rights.Net</font></b></center><p></p>
-<p>By Brian Carnell</p>
-<p><font size="-1">Sunday, May 14, 2000</font></p>
-<div class="messageBodyText">
-<p>      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Carnell.Com has created this privacy 
-      statement in order to demonstrate our firm commitment to privacy. The following 
-      discloses our information gathering and dissemination practices for this 
-      website: <b>AnimalRights.Net</b>. 
-      </p> 
-      <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We use your IP address to help 
-        diagnose problems with our server, and to administer our Web site. We 
-        use cookies on our discussion forums and in the online polls to deliver 
-        content specific to your interests, to save your password so you don't 
-        have to re-enter it each time you visit our site, and for other purposes. 
-      </p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our site's discussion forum 
-        registration form gives users the option of giving us contact information 
-        (such as their name and email address). The customer's contact information 
-        is used to contact the visitor when necessary. Users may opt-out of receiving 
-        future mailings; see the choice/opt-out section below. 
-      </p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This site contains links to 
-        other sites. <b>AnimalRights.Net</b> is not responsible for the privacy 
-        practices or the content of such Web sites. 
-      </p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We occasionally run contests 
-        on our site in which we ask visitors for contact information (such as 
-        their email address). The customer's contact information is used only 
-        to contact the visitor with results of the specific contest. No data gathered 
-        from such contests will be used for any further promotional uses. 
-      </p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We use an outside ad company 
-        to display ads on our site. These ads may contain cookies. While we use 
-        cookies in other parts of our Web site, cookies received with banner ads 
-        are collected by our ad company, and we do not have access to this information. 
-      </p><p> 
-      </p><h2>Public Forums</h2>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This site makes chat rooms, forums, 
-      message boards, and/or news groups available to its users. Please remember 
-      that any information that is disclosed in these areas becomes public information 
-      and you should exercise caution when deciding to disclose your personal 
-      information. 
-      <p> 
-      </p><p> 
-      </p><h2>Security</h2>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This site has security measures 
-      in place to protect the loss, misuse and alteration of the information under 
-      our control. 
-      <p> 
-      </p><h2>Choice/Opt-Out</h2>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our site provides users the opportunity 
-      to opt-out of receiving communications from us at the point where we request 
-      information about the visitor. 
-      <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This site gives users the following 
-        options for removing their information from our database to not receive 
-        future communications or to no longer receive our service. 
-      </p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you are receiving communications 
-        from this site and would like to opt yout, you should send email to <a href="mailto:brian@carnell.com"></a><a href="mailto:brian@carnell.com">brian@carnell.com</a> 
-      </p><h2>Correct/Update</h2>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In order to change and/or modify 
-      information previously provided please email <a href="mailto:brian@carnell.com"></a><a href="mailto:brian@carnell.com">brian@carnell.com</a> 
-      <h2>Contacting the Web Site</h2>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you have any questions about 
-      this privacy statement, the practices of this site, or your dealings with 
-      this Web site, you can contact 
-      <p> Brian Carnell<br>
-        <a href="http://www.carnell.com/">Carnell.Com<br>
-        </a> <a href="mailto:brian@carnell.com"></a><a href="mailto:brian@carnell.com">brian@carnell.com</a> 
-      
-</p></div>
-<p><a href="http://www.animalrights.net/12/reply">Reply to this Article</a> (Replies: None.)</p>
-<br>
-				<br><br>
+<div id="branding">
+		<a href="/" title="Return to Animalrights.net home"><img src="http://media-carnell.macrobyte.net/animalrights/images/agefilmarn.jpg" title="Animalrights.net" border="0" width="400" height="100" alt="Animalrights.net logo" id="branding-logo">
+		</a>
+<a href="#content" id="skipper">[skip navigation]</a><form id="query" method="get" action="http://www.animalrights.net/search.html">
+<input type="hidden" name="limit" value="10"><input type="text" name="body" id="body" value="" size="30" maxlength="100"><input type="submit" value="Search" id="submit"></form>
+	</div>
+		<ul id="nav-main" class="navlist">
+<li><a href="http://www.animalrights.net/" title="Animalrights.net Home Page" id="t-home">Home</a></li>
+<li><a href="http://www.animalrights.net/archives/" title="Published Article Archives" id="t-archives">Archives</a></li>
+<li><a href="http://www.animalrights.net/discussion/" title="Discussion Forum" id="t-discussion">Discussion</a></li>
+<li><a href="http://www.animalrights.net/store/" title="Books we recommend" id="t-store">Bookstore</a></li>
+               </ul>
+<ul id="nav-breadcrumbs" class="navlist"><li><a href="http://www.animalrights.net/" title="Animalrights.net home page">Home</a></li>&nbsp;&gt;&gt;&nbsp;<li><a href="http://www.animalrights.net/about/index.html">About This Site</a></li>&nbsp;&gt;&gt;&nbsp;<li>Privacy Statement for Animal Rights.Net</li>
+</ul>
+<h1>Privacy Statement for Animal Rights.Net</h1>
 
-				<center>
-					<br><br><hr size="1" noshade="">
-					<font size="-1">© Copyright 1998-2000 by <a href="http://brian.carnell.com/">Brian Carnell</a>. All rights reserved.</font> 
-					</center>
-				</td>
-			</tr>
-		</tbody></table>
-	
+<div id="content">
 
+
+
+<p>Carnell.Com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: <b>AnimalRights.Net</b>.</p>
+
+<p>We use your IP address to help diagnose problems with our server, and to administer our Web site. We use cookies on our discussion forums and in the online polls to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes. </p>
+
+<p>Our site's discussion forum registration form gives users the option of giving us contact information (such as their name and email address). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. </p>
+
+<p>This site contains links to other sites. <b>AnimalRights.Net</b> is not responsible for the privacy practices or the content of such Web sites. </p>
+
+<p>We occasionally run contests on our site in which we ask visitors for contact information (such as their email address). The customer's contact information is used only to contact the visitor with results of the specific contest. No data gathered from such contests will be used for any further promotional uses. </p>
+
+<p>We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.</p>
+
+<h2>Public Forums</h2>
+
+<p>This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. </p>
+
+<h2>Security</h2>
+
+<p>This site has security measures in place to protect the loss, misuse and alteration of the information under our control.</p>
+
+<h2>Choice/Opt-Out</h2> <p>Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor.</p>
+
+<p>This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.</p>
+
+<p>If you are receiving communications from this site and would like to opt yout, you should send email to <a href="mailto:brian@carnell.com"></a><a href="mailto:brian@carnell.com">brian@carnell.com</a>       </p><h2>Correct/Update</h2> <p>In order to change and/or modify information previously provided please email <a href="mailto:brian@carnell.com"></a><a href="mailto:brian@carnell.com">brian@carnell.com</a></p>
+
+<h2>Contacting the Web Site</h2> <p>If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Brian Carnell<br> <a href="http://www.carnell.com/">Carnell.Com<br> </a><br><a href="mailto:brian@carnell.com"></a><a href="mailto:brian@carnell.com">brian@carnell.com</a></p>
+
+
+
+
+
+
+</div>
+
+	<ul id="nav-supplemental" class="navlist">
+<li> © 1995-2005 Brian Carnell, All Rights Reserved</li>
+<li>Discussion forum posts © their author</li>
+<li><a href="http://www.animalrights.net/about/syndication.html" title="Read this site in your news aggregator">Syndicate this site</a></li>
+<li><a href="http://www.animalrights.net/about/contact.html" title="How to contact the publisher">Contact</a></li>
+<li><a href="http://animalrights.net/about/privacy_statement.html" title="What information we gather and how we protect it">Privacy Statement</a></li>
+</ul>
+
+
+
+
+
+
+<!-- Begin Template: FULLTHREAD TRACKBACK AUTODISCOVERY READONLY -->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+<rdf:Description
+    rdf:about="http://www.animalrights.net/about/privacy_statement.html"
+    dc:identifier="http://www.animalrights.net/about/privacy_statement.html"
+    dc:title="Privacy Statement for Animal Rights.Net"
+    trackback:ping="http://www.animalrights.net/12/trackback?path=about/privacy_statement.html" />
+</rdf:RDF>
+-->
+<!-- End Template: FULLTHREAD TRACKBACK AUTODISCOVERY READONLY -->
 </body></html>
