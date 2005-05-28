@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the al.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204072042id_/http%3A//www.al.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the al.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528103253id_/http%3A//www.al.com/privacypolicy) for the most accurate reproduction.*
 
 # al.com: Privacy Policy
 
@@ -71,7 +71,7 @@ INSIDE
   
 [](https://web.archive.org/sendthispage/sendthispage.ssf) |  |    
   
-[](http://ads1.udc.advance.net/RealMedia/ads/click_lx.ads/www.al.com/privacypolicy/index.ssf/NQS/217422377/Tile1/ALABAMALIVE/MK_AUTOS_AL02/al-classified190x240_C3.jpg/64316564656562303431623136353430)   
-[](http://ads1.udc.advance.net/RealMedia/ads/click_lx.ads/www.al.com/privacypolicy/index.ssf/NQS/966352196/Tile2/ALABAMALIVE/MK_B2BEMP_AL02/2B2B_190x90.gif/64316564656562303431623136353430)   
+  
+  
   
 
