@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbarizona.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206130445id_/http%3A//www.nbarizona.com/AboutNBA/PrivacyStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbarizona.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528075510id_/http%3A//www.nbarizona.com/AboutNBA/PrivacyStatement.htm) for the most accurate reproduction.*
 
 # About NBA
 
@@ -58,7 +58,7 @@ During the normal course of doing business we will continue to share Experience 
 
 National Bank Customer Service Representatives are available to receive your privacy choices on National Bank’s specially dedicated **toll-free line at 1-866-299-3342 between 8:00 a.m. and 6:00 p.m. (Mountain Time) Monday through Saturday.** Our Customer Service Representatives will verify your identity, enter your choices in National Bank’s do-not-call/share/ direct mail list and will ensure that your choices are honored with regard to all your information, including the addresses and telephone numbers in our file. 
 
-If you have already talked with one of our Customer Service Representatives and explained your choices, you do not need to take any further action . We will continue to honor your choices. If you have not already contacted our Customer Service Representatives or if you want to change your choices, please call as detailed above or indicate your choices on our [Privacy Choice Form](https://web.archive.org/web/20041206130445id_/http%3A//www.nbarizona.com/AboutNBA/PrivacyChoiceForm.htm) and returning the completed form to: 
+If you have already talked with one of our Customer Service Representatives and explained your choices, you do not need to take any further action . We will continue to honor your choices. If you have not already contacted our Customer Service Representatives or if you want to change your choices, please call as detailed above or indicate your choices on our [Privacy Choice Form](https://web.archive.org/web/20050528075510id_/http%3A//www.nbarizona.com/AboutNBA/PrivacyChoiceForm.htm) and returning the completed form to: 
 
 My Privacy Choices   
 P.O. Box 26127   
@@ -66,6 +66,6 @@ Salt Lake City UT 84126-0127
 
 Please do not send the form to your local branch or office. 
 
-[Privacy Choice Form](https://web.archive.org/web/20041206130445id_/http%3A//www.nbarizona.com/AboutNBA/PrivacyChoiceForm.htm)
+[Privacy Choice Form](https://web.archive.org/web/20050528075510id_/http%3A//www.nbarizona.com/AboutNBA/PrivacyChoiceForm.htm)
 
 05/2004 
