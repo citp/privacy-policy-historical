@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aaa-calif.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010030201id_/http%3A//www.aaa-calif.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaa-calif.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528123212id_/http%3A//www.aaa-calif.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Notice - Automobile Club of Southern California
 
