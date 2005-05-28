@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alldatasheet.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206220952id_/http%3A//www.alldatasheet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alldatasheet.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528062254id_/http%3A//www.alldatasheet.com/privacy.html) for the most accurate reproduction.*
 
 # ::: ALLDATASHEET - Datasheet search site for Electronic Components and Semiconductors, integrated circuits, diodes, triacs, and other semiconductors.
 
