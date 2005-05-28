@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azfamily.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204022250id_/http%3A//www.azfamily.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azfamily.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528021412id_/http%3A//www.azfamily.com/registration/privacy.html) for the most accurate reproduction.*
 
 # azfamily.com | News for Phoenix, Arizona | Privacy Policy
 
@@ -123,8 +123,8 @@ This text is invisible on the page, but this text is affected by the invisible i
 
 Advertising 
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.azfamily.com/aboutus/1197375284/Position1/default/empty.gif/7a2f486f655634304d4c774141684753?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.azfamily.com/aboutus/2059926157/Position1/default/empty.gif/7a2f486a6156347956306f4142344e71?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.azfamily.com/aboutus/1570775224/Position4/default/empty.gif/7a2f486f655634304d4c774141684753?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.azfamily.com/aboutus/1239755148/Position4/default/empty.gif/7a2f486a6156347956306f4142344e71?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.azfamily.com/aboutus/1069972880/Position5/default/empty.gif/7a2f486f655634304d4c774141684753?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.azfamily.com/aboutus/1006378157/Position5/default/empty.gif/7a2f486a6156347956306f4142344e71?x)
