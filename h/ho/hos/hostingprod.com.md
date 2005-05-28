@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostingprod.com privacy policy that was archived on 2004-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041213183209id_/http%3A//privacy.yahoo.com/privacy/us/geo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostingprod.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528022833id_/http%3A//privacy.yahoo.com/privacy/us/geo) for the most accurate reproduction.*
 
 # Yahoo! Privacy
 
@@ -51,7 +51,7 @@
 
   * Yahoo! may set and access Yahoo! [ cookies](https://web.archive.org/privacy/us/cookies/details.html) on your computer. 
   * Yahoo! lets [ other companies](https://web.archive.org/privacy/us/adservers/details.html) that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Yahoo!'s cookies. 
-  * Yahoo! uses [ web beacons](https://web.archive.org/privacy/us/pixels/details.html) to access Yahoo! cookies inside and outside our network of web sites and in connection with Yahoo! products and services. 
+  * Yahoo! uses [ web beacons](https://web.archive.org/privacy/us/beacons/details.html) to access Yahoo! cookies inside and outside our network of web sites and in connection with Yahoo! products and services. 
 
 **Your Ability to Edit and Delete Your Account Information and Preferences**
 
@@ -84,7 +84,7 @@
 **Questions and Suggestions**  
 
 
-  * [Yahoo! is TRUSTe-certified](https://www.truste.org/validate/361). This certification applies to all English-language sites under the Yahoo.com domain. If you feel that your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php), an independent privacy organization. TRUSTe serves as a liaison with Yahoo! to resolve your concern. 
+  * [Yahoo! is TRUSTe-certified](https://www.truste.org/ivalidate.php?url=www.yahoo.com). This certification applies to all English-language sites under the Yahoo.com domain. If you feel that your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php), an independent privacy organization. TRUSTe serves as a liaison with Yahoo! to resolve your concern. 
   * If you have questions or suggestions, please complete a [feedback form](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback?radio30=radio305) or you can contact us at: 
 
 Yahoo! Inc.  
