@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aaasouth.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208144346id_/http%3A//www.aaasouth.com/main_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaasouth.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528113816id_/http%3A//www.aaasouth.com/main_privacy.asp) for the most accurate reproduction.*
 
 # AAA Auto Club South-Privacy Policy
 
