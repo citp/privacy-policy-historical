@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auntminnie.com privacy policy that was archived on 2004-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041224065519id_/http%3A//auntminnie.com/index.asp%3FSec%3Dabt%26Sub%3Dfaq%26Pag%3Ddis%26ItemId%3D52788) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auntminnie.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528122415id_/http%3A//www.auntminnie.com/index.asp%3FSec%3Dabt%26Sub%3Dfaq%26Pag%3Ddis%26ItemId%3D52788) for the most accurate reproduction.*
 
 # Radiology, FAQ
 
@@ -51,3 +51,5 @@ Security
 We use industry-standard efforts to safeguard the confidentiality of your personally identifiable information, such as firewalls and SSL technology. These are the same technologies that many websites use to safeguard credit card information and other personal information. However, that said, "perfect security" does not exist on the Internet (or anywhere, for that matter.)
 
 In order to use SSL security technology, we require that you have either Netscape Navigator version 3.0 or later OR Microsoft Internet Explorer version 3.0 or later.
+
+Last updated ai 5/18/2005 9:24:43 AM
