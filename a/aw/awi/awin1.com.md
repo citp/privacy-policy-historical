@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awin1.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204112527id_/http%3A//affiliatewindow.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awin1.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528092615id_/http%3A//www.affiliatewindow.com/privacy.php) for the most accurate reproduction.*
 
 # Affiliate Network - Affiliate Window Ltd
 
@@ -21,11 +21,10 @@ If you have registered to receive e-mail communications from us and later change
 
 You can send mail to the following address:  
 Affiliate Window Ltd  
-Office 5C2, Juniper House  
-Seager Building  
-Brookmill Rd  
+279 - 283 Greenwich High Road  
 London  
-SE8 4JT
+SE10 8NL  
+United Kingdom
 
 **Correct/Update**  
 If you would like to verify the data we have received from you or to make corrections to it, you may contact us directly at the e-mail and mail addresses provided above.
