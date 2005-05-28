@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ascential.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204114914id_/http%3A//www.ascential.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ascential.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528072737id_/http%3A//www.ascential.com/company/privacy.html) for the most accurate reproduction.*
 
 # Enterprise Data Integration - Privacy Policy - Ascential
 
@@ -55,7 +55,7 @@ This Web site contains links to other sites. Please be aware that Ascential is n
 
 ### Surveys & Contests
 
-From time-to-time our site requests information from users in connection with surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose the information requested. Information requested may include personally identifiable information, such as name, mailing address and email address, as well as demographic information, such as zip code. It may also include other personal identifiable information. The information may also be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site, or collection of information relative to our [customers](https://web.archive.org/customers) or market. 
+From time-to-time our site requests information from users in connection with surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose the information requested. Information requested may include personally identifiable information, such as name, mailing address and email address, as well as demographic information, such as zip code. It may also include other personal identifiable information. The information may also be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site, or collection of information relative to our customers or market. 
 
 ### Direct Marketing
 
@@ -71,6 +71,6 @@ If you have any questions about the security at our Web site, you can send an em
 
 This Privacy Policy will be updated from time to time. Ascential's updated privacy statement is posted on this Web site, within a reasonable period of time, so our users are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
-[Return to Terms and Conditions](https://web.archive.org/web/20041204114914id_/http%3A//www.ascential.com/company/legal.html)
+[Return to Terms and Conditions](https://web.archive.org/web/20050528072737id_/http%3A//www.ascential.com/company/legal.html)
 
 For more information call 1-800-966-9875 or [contact us](https://web.archive.org/company/contact_form.html)
