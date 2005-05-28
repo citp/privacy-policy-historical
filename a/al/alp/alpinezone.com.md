@@ -1,14 +1,98 @@
-> *The following text is extracted and transformed from the alpinezone.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207205337id_/http%3A//www.alpinezone.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpinezone.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528232149id_/http%3A//www.alpinezone.com/privacy.htm) for the most accurate reproduction.*
 
 # AlpineZone.com Privacy Policy
 
-| | 
+|    
+| 
+
+**[ Latest Headlines](http://news.alpinezone.com/)**  
+  
+---  
+ [Mount Sunapee Wins Sales and Marketing Award at Industry National Convention](http://news.alpinezone.com/4441/) \- May 27, 2005 - 3:42 PM  
+  
+ [Gore, Whiteface Win Accolades at National Ski Areas Association Meeting](http://news.alpinezone.com/4440/) \- May 27, 2005 - 9:54 AM  
+  
+ [Sunday River Takes the "AlpineZone Ski Area Challenge"](http://news.alpinezone.com/4432/) \- May 26, 2005 - 2:58 PM  
+  
+ [The Ultimate Mountain Challenge at Jay Peak, July 29-31](http://news.alpinezone.com/4431/) \- May 26, 2005 - 2:55 PM  
+  
+ [N.H. Travel Council Presents Sustainable Business Award to Cranmore Mountain Resort](http://news.alpinezone.com/4423/) \- May 25, 2005 - 3:08 PM  
+  
+ [Adirondack Mountain Club Presents: The Mountains as Metaphor](http://news.alpinezone.com/4417/) \- May 24, 2005 - 2:32 PM  
+  
+ [Eastern Mountain Sports Supports National Trails Day(R) Grassroots Events](http://news.alpinezone.com/4416/) \- May 24, 2005 - 2:25 PM  
+  
+ [Wildcat Mountain's 2nd Annual 100K Day Raises $8,500 for Make-a-Wish Foundation](http://news.alpinezone.com/4409/) \- May 23, 2005 - 3:06 PM  
+  
+ ['Groundbreaking' Developments Announced at Seven Springs Mountain Resort](http://news.alpinezone.com/4393/) \- May 21, 2005 - 2:28 PM  
+  
+ [National Trails Day Activities in New Hampshire](http://news.alpinezone.com/4392/) \- May 21, 2005 - 2:25 PM  
+  
+  
+  
+**[ Recent Discussions](http://forums.alpinezone.com/)**  
+  
+---  
+ [Guess the ski area](http://forums.alpinezone.com/viewtopic.php?p=34227#34227)  
+   May 28, 2005 - 6:43 PM  
+   by [cps27](http://forums.alpinezone.com/profile.php?mode=viewprofile&u=441)  
+  
+ [Bush asked to explai...](http://forums.alpinezone.com/viewtopic.php?p=34225#34225)  
+   May 28, 2005 - 3:42 PM  
+   by [pedxing](http://forums.alpinezone.com/profile.php?mode=viewprofile&u=14)  
+  
+ [Discovery Channel's ...](http://forums.alpinezone.com/viewtopic.php?p=34224#34224)  
+   May 28, 2005 - 12:25 PM  
+   by [Charlie Schuessler](http://forums.alpinezone.com/profile.php?mode=viewprofile&u=215)  
+  
+ [Immigrant mother of ...](http://forums.alpinezone.com/viewtopic.php?p=34223#34223)  
+   May 28, 2005 - 10:14 AM  
+   by [riverc0il](http://forums.alpinezone.com/profile.php?mode=viewprofile&u=5)  
+  
+ [Another woman on the...](http://forums.alpinezone.com/viewtopic.php?p=34222#34222)  
+   May 28, 2005 - 9:59 AM  
+   by [teachski](http://forums.alpinezone.com/profile.php?mode=viewprofile&u=410)  
+  
+ [WTB Rosemont Ski Boo...](http://forums.alpinezone.com/viewtopic.php?p=34221#34221)  
+   May 28, 2005 - 9:12 AM  
+   by [skitales](http://forums.alpinezone.com/profile.php?mode=viewprofile&u=1475)  
+  
+ [I can't deny it any ...](http://forums.alpinezone.com/viewtopic.php?p=34217#34217)  
+   May 28, 2005 - 12:06 AM  
+   by [skibumtress](http://forums.alpinezone.com/profile.php?mode=viewprofile&u=1465)  
+  
+ [Welch Dickey Loop 5...](http://forums.alpinezone.com/viewtopic.php?p=34211#34211)  
+   May 27, 2005 - 8:36 PM  
+   by [MtnMagic](http://forums.alpinezone.com/profile.php?mode=viewprofile&u=204)  
+  
+ [Lowering the Drinkin...](http://forums.alpinezone.com/viewtopic.php?p=34210#34210)  
+   May 27, 2005 - 5:35 PM  
+   by [noreaster](http://forums.alpinezone.com/profile.php?mode=viewprofile&u=450)  
+  
+ [FYI - our website on...](http://forums.alpinezone.com/viewtopic.php?p=34209#34209)  
+   May 27, 2005 - 5:01 PM  
+   by [awf170](http://forums.alpinezone.com/profile.php?mode=viewprofile&u=1175)  
+  
+  
+  
+** E-Newsletter**  
+  
+---  
+  
+Giveaways, deals, special information!  
+**Subscribe Now:**  
+  
+Subscribe  
+Unsubscribe  
+  
+* * *
 
   
-[Home](http://www.alpinezone.com/)  > **AlpineZone.com Privacy Policy**
+   
+| 
 
   
-
+[Home](http://www.alpinezone.com/)  > ** AlpineZone.com Privacy Policy**
 
 **Introduction:**  
 We are committed to protecting your privacy at AlpineZone.com. We will not collect any personal information from you that you do not volunteer, and we are the sole owner of all information collected on this site. We do not sell, share, or rent this information to others in any way that we have not mentioned in this statement. For more information, please click one of the links below:
