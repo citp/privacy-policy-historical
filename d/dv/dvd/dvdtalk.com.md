@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvdtalk.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204071202id_/http%3A//www.dvdtalk.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvdtalk.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528084340id_/http%3A//www.dvdtalk.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for DVD Talk/ Kleinman.com Inc.
 
@@ -92,7 +92,7 @@ We useand other third-party advertising companies to serve ads when you visit ou
 
 ## Third Party Advertising
 
-We use MaxWorldwide, Fast Click, Tribal Fusion and Gorilla Nation and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please[Click here](http://www.networkadvertising.org/optout_nonppii.asp)
+We use Tribal Fusion and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please[Click here](http://www.networkadvertising.org/optout_nonppii.asp)
 
 ## Third Party Cookies 
 
@@ -116,4 +116,12 @@ This site gives users the following options for changing and modifying informati
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Geoffrey Kleinman Kleinman.com Inc. 8872 SW 82nd Ave Portland, OR 97223 talk@dvdtalk.com | 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Geoffrey Kleinman Kleinman.com Inc. 8872 SW 82nd Ave Portland, OR 97223 talk@dvdtalk.com
+
+Columns
+
+[](http://www.dvdtalk.com/dvdsavant/spec.html) [](http://www.dvdtalk.com/cineschlock/index.html) [](http://www.dvdtalk.com/silentdvd/index.html) [](http://www.dvdtalk.com/eggs/) [](http://www.dvdtalk.com/adult/index.html) [](http://www.dvdtalkradio.com/)
+
+  
+|    
+
