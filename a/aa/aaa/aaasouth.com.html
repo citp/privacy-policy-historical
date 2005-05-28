@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the aaasouth.com privacy policy that was archived on 2004-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041208144346id_/http%3A//www.aaasouth.com/main_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aaasouth.com privacy policy that was archived on 2005-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050528113816id_/http%3A//www.aaasouth.com/main_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 		<title>AAA Auto Club South-Privacy Policy</title>
@@ -13,30 +13,6 @@
 				<td width="740" align="left" valign="top">
         <script language="javascript" src="/incs/funcsglobal.js"></script>
         <script language="javascript">
-                function open911window(strhtmpath){
-                        var w = 500, h = 501;
-                        if (document.all || document.layers){
-                                w = screen.availWidth;
-                                h = screen.availHeight;
-                        }
-                        var popW = 500, popH = 501;
-                        var leftPos = 30, topPos = 0;
-                        var strOptions = 'width=' + popW + ',height=' + popH + ',top=' + topPos + ',left=' + leftPos + ' ,resizable=no,maximizable=no, minimizable=nosizable=no,status=no,toolbar=no,menubar=no,scrollbars=yes,location=no';
-                        window.open(strhtmpath, '_blank',strOptions)
-                }
-                function ValidHdrForm(){
-                        if (!ValidLength('SubLogin', 'UserName', 4)){
-                                alert('User ID must be at least 4 characters.');
-                                document.SubLogin.UserName.focus();
-                                return false;
-                        }
-                        if (!ValidLength('SubLogin', 'Password', 4)){
-                                alert('Please enter a valid password.');
-                                document.SubLogin.Password.focus();
-                                return false;
-                        }
-                        return true;
-                }
                 function ValidLength(sFormName, sFieldName, iMinLength){
                         var oField = eval('document.' + sFormName + '.' + sFieldName);
                         if (oField.value.length < iMinLength){
@@ -44,37 +20,29 @@
                         }
                         return true;
                 }
-                function ChkLogin(){
-                        if (document.login.username.value == ""){
-                                alert('Please enter User ID before attempting to log in.');
-                                document.login.username.focus();
-                                return false;
-                        }
-                        if (document.login.password.value == ""){
-                                alert('Please enter a password before attempting to log in.');
-                                document.login.password.focus();
-                                return false;
-                        }
-                        return true;
-                }
-                function CheckLogin(sFormName){
-                        if (sFormName=='login'){
-                                if (document.login.UserName.value=='SelectUserID'){
+                function ChkLogin(sFormName){
+                        var cField = eval('document.' + sFormName + '.GetPasswordFrom');
+                        var uField = eval('document.' + sFormName + '.UserName');
+                        var pField = eval('document.' + sFormName + '.Password');
+                        if (cField.value=='Cookie'){
+                                if (uField.value=='SelectUserID'){
                                         alert('Please select a User ID before attempting to log in.');
-                                        document.login.UserName.focus();
+                                        uField.focus();
                                         return false;
                                 }
-                                return true;            
-                        }
-                        if (document.SubLogin.UserName.value=='SelectUserID'){
-                                alert('Please select a User ID before attempting to log in.');
-                                document.SubLogin.UserName.focus();
-                                return false;
+                        }else{
+                                if (!ValidLength(sFormName, 'UserName', 4)){
+                                        alert('Please enter a valid User ID before attempting to log in.');
+                                        uField.focus();
+                                        return false;
+                                }
+                                if (!ValidLength(sFormName, 'Password', 4)){
+                                        alert('Please enter a valid Password before attempting to log in.');
+                                        pField.focus();
+                                        return false;
+                                }
                         }
                         return true;
-                }
-                function openwindow(sURL){
-                        window.open(sURL,"","height=450,left=20,width=750,top=20,status=yes,toolbar=yes,menubar=no,scrollbars=yes,location=no");
                 }
                     
         </script>
@@ -96,7 +64,7 @@
                                                                 <tbody><tr>
                                                                         <td width="250" height="58" align="center" valign="middle">
                                                                                 <!-- begin banner -->
-                                                                                <a href="http://www.aaasouth.com/banners/redir_by_channel.asp?url=http://www.aaasouth.com/holiday_gift_ideas.asp&amp;image=/banners/images/holiday_gift_ideas.gif"><img src="/banners/images/holiday_gift_ideas.gif" alt="Great Holiday Gift Ideas" width="250" height="45" border="0"></a>
+                                                                                
                                                                                 <!-- end banner -->
                                                                         </td>
                                                                 </tr>
@@ -107,8 +75,8 @@
                                                 <td width="328" height="37" align="center" valign="middle" bgcolor="#ffffff">
                                                         <table cellpadding="0" cellspacing="0" border="0" width="328" height="37">
                                                                 <tbody><tr>
-                                                                        <!--initial login screen-->
-                                                                        <form name="SubLogin" action="https://www.aaasouth.com/web_profile.asp?redirect=N&amp;needlogin=Y&amp;loginreturn=Y&amp;prev_page=/main_privacy.asp&amp;nextpage=/main_privacy.asp" method="post" onsubmit="return ValidHdrForm();"></form><input type="hidden" name="GetPasswordFrom" value="User">
+                                                                        <!--quick login section-->
+                                                                        <form name="SubLogin" action="https://www.aaasouth.com/web_profile.asp?redirect=N&amp;needlogin=Y&amp;loginreturn=Y&amp;prev_page=/main_privacy.asp&amp;nextpage=/main_privacy.asp" method="post" onsubmit="return ChkLogin('SubLogin');"></form><input type="hidden" name="GetPasswordFrom" value="User">
                                                                                         <input type="hidden" name="action" value="login">
                                                                                         <input type="hidden" name="profiletype" value="t1">
                                                                                         
@@ -142,52 +110,47 @@
                                         <!-- begin Nav Bar -->
                                         <tr>
                                                 <td colspan="5" width="740" height="26">
-                                                        <table border="0" cellpadding="0" cellspacing="0" bgcolor="#175A9D" height="26" width="740">
-        <tbody><tr>
-                <td align="left" valign="middle" height="26">
-                        <table border="0" cellpadding="0" cellspacing="0" height="18">
-                                <tbody><tr>
-                                        <td class="headertext">&nbsp;</td>
-                                        <td align="center" valign="middle" bgcolor="#E5F2FF" height="18" class="headertext">
-                                                &nbsp;<a href="http://www.aaasouth.com/home.asp" class="selectedChannel">Home</a>&nbsp;
-                                        </td>
-                                        <td class="headertext">&nbsp;|&nbsp;</td>
-                                        <td align="center" valign="middle" height="18" class="headertext">
-                                                &nbsp;<a href="http://www.aaasouth.com/main_join.asp" class="channelLink">Membership</a>&nbsp;
-                                        </td>
-                                        <td class="headertext">&nbsp;|&nbsp;</td>
-                                        <td align="center" valign="middle" height="18" class="headertext">
-                                                &nbsp;<a href="http://www.aaasouth.com/travel.asp" class="channelLink">Travel</a>&nbsp;
-                                        </td>
-                                        <td class="headertext">&nbsp;|&nbsp;</td>
-                                        <td align="center" valign="middle" height="18" class="headertext">
-                                                &nbsp;<a href="http://www.aaasouth.com/auto.asp" class="channelLink">Automotive</a>&nbsp;
-                                        </td>
-                                        <td class="headertext">&nbsp;|&nbsp;</td>
-                                        <td align="center" valign="middle" height="18" class="headertext">
-                                                &nbsp;<a href="http://www.aaasouth.com/insurance.asp" class="channelLink">Insurance</a>&nbsp;
-                                        </td>
-                                        <td class="headertext">&nbsp;|&nbsp;</td>
-                                        <td align="center" valign="middle" height="18" class="headertext">
-                                                &nbsp;<a href="http://www.aaasouth.com/finance.asp" class="channelLink">Financial</a>&nbsp;
-                                        </td>
-                                        <td class="headertext">&nbsp;|&nbsp;</td>
-                                        <td align="center" valign="middle" height="18" class="headertext">
-                                                &nbsp;<a href="http://www.aaasouth.com/savings.asp" class="channelLink">Savings</a>&nbsp;
-                                        </td>
-                                        <td class="headertext">&nbsp;|&nbsp;</td>
-                                        <td align="center" valign="middle" height="18" class="headertext">
-                                                &nbsp;<a href="http://www.aaasouth.com/news_tips.asp" class="channelLink">News &amp; Safety</a>&nbsp;
-                                        </td>
-                                </tr>
-                        </tbody></table>
-                </td>
-                <!--<td align="right" valign="middle" class="headertext" height="26">
-                        
-                                                <a href="https://www.aaasouth.com/web_profile.asp?redirect=N&amp;NewUser=Y&amp;needlogin=Y&amp;nextpage=/main_privacy.asp" class="navBarLink" >New User</a>&nbsp;&nbsp;
-                                                <br>
-                </td>-->
-        </tr>
+                                                        <table border="0" cellpadding="0" cellspacing="0" bgcolor="#04447C" height="26" width="740">
+	<tbody><tr>
+		<td align="left" valign="middle" height="26">
+			<table border="0" cellpadding="0" cellspacing="0" height="18">
+				<tbody><tr>
+					<td class="headertext">&nbsp;</td>
+					<td align="center" valign="middle" bgcolor="#E5F2FF" height="18" class="headertext">
+						&nbsp;<a href="http://www.aaasouth.com/home.asp" class="selectedChannel">Home</a>&nbsp;
+					</td>
+					<td class="headertext">&nbsp;|&nbsp;</td>
+					<td align="center" valign="middle" height="18" class="headertext">
+						&nbsp;<a href="http://www.aaasouth.com/main_join.asp" class="channelLink">Membership</a>&nbsp;
+					</td>
+					<td class="headertext">&nbsp;|&nbsp;</td>
+					<td align="center" valign="middle" height="18" class="headertext">
+						&nbsp;<a href="http://www.aaasouth.com/travel.asp" class="channelLink">Travel</a>&nbsp;
+					</td>
+					<td class="headertext">&nbsp;|&nbsp;</td>
+					<td align="center" valign="middle" height="18" class="headertext">
+						&nbsp;<a href="http://www.aaasouth.com/auto.asp" class="channelLink">Automotive</a>&nbsp;
+					</td>
+					<td class="headertext">&nbsp;|&nbsp;</td>
+					<td align="center" valign="middle" height="18" class="headertext">
+						&nbsp;<a href="http://www.aaasouth.com/insurance.asp" class="channelLink">Insurance</a>&nbsp;
+					</td>
+					<td class="headertext">&nbsp;|&nbsp;</td>
+					<td align="center" valign="middle" height="18" class="headertext">
+						&nbsp;<a href="http://www.aaasouth.com/finance.asp" class="channelLink">Financial</a>&nbsp;
+					</td>
+					<td class="headertext">&nbsp;|&nbsp;</td>
+					<td align="center" valign="middle" height="18" class="headertext">
+						&nbsp;<a href="http://www.aaasouth.com/savings.asp" class="channelLink">Savings</a>&nbsp;
+					</td>
+					<td class="headertext">&nbsp;|&nbsp;</td>
+					<td align="center" valign="middle" height="18" class="headertext">
+						&nbsp;<a href="http://www.aaasouth.com/news_tips.asp" class="channelLink">News &amp; Safety</a>&nbsp;
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
 </tbody></table>
                                                 </td>
                                         </tr>
@@ -258,17 +221,30 @@
 					<!-- Return to Template -->
 				</td>
 			</tr>
-			<tr><td width="740" align="left" valign="top"><table border="0" align="left" cellpadding="0" cellspacing="0" width="740">
+			<tr><td width="740" align="left" valign="top">
+<table border="0" align="left" cellpadding="0" cellspacing="0" width="740">
         <tbody><tr><td width="740" height="15"><img src="/images/pixel_white.gif" height="15" border="0"></td></tr>
         <tr>
                 <td width="740">
                         <table border="0" width="740" cellpadding="0" cellspacing="0" align="left">
                                 <tbody><tr>
-                                        <td bgcolor="#175A9D" valign="middle" height="24" class="headertext">
-                                                &nbsp;&nbsp;<a href="http://www.aaasouth.com/main_terms.asp" target="_parent" class="navBarLink">Terms &amp; Conditions of Use</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.aaasouth.com/main_privacy.asp" target="_parent" class="navBarLink">Privacy Policy</a>
+                                        <td bgcolor="#04447C" valign="middle" height="24" class="headertext">
+                                                &nbsp;&nbsp;<a href="http://www.aaasouth.com/main_terms.asp" target="_parent" class="navBarLink">
+                                                
+                                                Terms &amp; Conditions of Use
+                                                </a>&nbsp;&nbsp;|&nbsp;&nbsp;
+                                                <a href="http://www.aaasouth.com/main_privacy.asp" target="_parent" class="navBarLink">
+                                                
+                                                Privacy Policy
+                                                
+                                                </a>
                                         </td>
-                                        <td bgcolor="#175A9D" align="right" valign="middle" height="24" class="headertext">
-                                                <a href="#PageTop" class="navBarLink">Back to Top</a>&nbsp;&nbsp;
+                                        <td bgcolor="#04447C" align="right" valign="middle" height="24" class="headertext">
+                                                <a href="#PageTop" class="navBarLink">
+                                                
+                                                Back to Top
+                                                
+                                                </a>&nbsp;&nbsp;
                                         </td>
                                 </tr>
                         </tbody></table>
@@ -281,18 +257,20 @@
                                         <td width="100">
                                                 <a href="https://digitalid.verisign.com/as2/7b6b973079d791351a6c8e46d02bc5f9" target="_blank"><img src="/images/new/verisign_logo.gif" width="84" height="37" border="0" alt=""></a>
                                         </td>
-                                        <td width="640" class="link2">
-                                                Serving AAA Members in Florida, Georgia, the western two-thirds of Tennessee and Puerto Rico.&nbsp;
-                                                (Services noted by &nbsp;<font color="#BB0026"><b>^^</b></font> are unavailable in Puerto Rico.)&nbsp;
+                                        <td width="640" class="Link2">
                                                 
-                                                If you reside outside these areas please visit <a href="http://www.aaa.com/stop" class="MainChannelLink1">www.aaa.com</a>.
-                                                
+                                                        Serving AAA Members in Florida, Georgia, the western two-thirds of Tennessee and Puerto Rico.&nbsp;
+                                                        (Services noted by &nbsp;<font color="#BB0026"><b>^^</b></font> are unavailable in Puerto Rico.)&nbsp;
+                                                        
+                                                        If you reside outside these areas please visit <a href="http://www.aaa.com/stop">www.aaa.com</a>.
+                                                        
                                         </td>
                                 </tr>
                         </tbody></table>
                 </td>
         </tr>
-</tbody></table></td></tr>
+</tbody></table>
+</td></tr>
 		</tbody></table>
 	
 </body></html>
