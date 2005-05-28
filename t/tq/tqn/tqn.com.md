@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the tqn.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630181832id_/http%3A//about.com/gi/pages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tqn.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528051355id_/http%3A//about.com/gi/pages/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
-
-  
-
 
 ## ABOUT ONLINE PRIVACY POLICY
 
@@ -44,11 +41,13 @@ You should be aware that if you voluntarily disclose information online (whether
 
 Your browser offers so-called "cookies" which, if you allow their use, store small amounts of data on your computer when you visit a Web site. Cookies do not contain any personally identifiable information about you and therefore cannot be used to identify you personally. Cookies simply assist us in tracking which of our features you like best. Cookies also enable us to customize our content according to your preferences. You have the ability to accept or decline cookies by modifying your browser and our Web sites are viewable even if you disable the cookie function on your browser. However, if you disable cookies, some advanced and customized features of our site, as well as other Web sites, will not be available to you.
 
+We may also place a cookie on your browser so that this and other Web Sites owned by The New York Times Company will recognize you as a unique, anonymous user. This will enable us to make sure that you do not see the same ad over and over, to sequence ads in a series, and to measure more accurately the number of unique visitors across the network of New York Times Company Web sites.
+
 Some of the banner ads displayed in our Web sites are provided by outside companies. These ads contain cookies. While we use cookies in other parts of our Web sites, cookies received with banner ads are collected by our advertisers and we do not have access to this information. We use a reputable third party to serve some or all of the advertisements that are placed within our sites and they may use information (not including personally identifiable information) about your visits to our sites and other sites to assist in serving advertisements to you. If you would like to know more about the information gathering practices and 'opt-out' procedures of our third party ad server, please see <http://www.doubleclick.net/us/corporate/privacy>.
 
 **USE OF WEB BEACONS**
 
-Some of our Web pages may contain electronic images known as Web beacons, which are also called single-pixel gifs. These images allow us to count users who have visited those pages and to deliver co-branded services. We also may include Web beacons in promotional e-mail messages or newsletters in order to count how many messages have been opened and acted upon. Web beacons are not used to access your personally identifiable information but they are a technique we use to compile aggregated statistics about our Web site usage. Web beacons collect only a limited set of information including a cookie number, time and date of a page view and a description of the page on which the Web beacon resides. Some of our Web pages may also contain Web beacons placed there by our advertising partners to help us determine the effectiveness of our advertising campaigns.
+Some of our Web pages may contain electronic images known as Web beacons, which are also called single-pixel gifs. These images allow us to count users who have visited those pages and to deliver co-branded services. We also may include Web beacons in promotional e-mail messages or newsletters in order to count how many messages have been opened and acted upon. Web beacons are not used to access your personally identifiable information but they are a technique we use to compile aggregated statistics about our Web site usage. Web beacons collect only a limited set of information including a cookie number, time and date of a page view, originating IP address, and a description of the page on which the Web beacon resides. Some of our Web pages may also contain Web beacons placed there by our advertising partners to help us determine the effectiveness of our advertising campaigns.
 
 **CONTROLLING YOUR PERSONAL INFORMATION**
 
@@ -56,7 +55,7 @@ A user may, at any time, change, correct, modify or delete any personal informat
 
 **SECURITY OF YOUR PERSONAL INFORMATION**
 
-All About employees are made aware of its privacy practices through periodic communications and training. We limit access to private and confidential data only to those employees with a specific need to retrieve this information and we store data on multiple service systems, in controlled, secure environments. To maintain the highest level of security, we conduct internal reviews of our security measures on a regular basis.
+About employees are made aware of its privacy practices through periodic communications and training. We limit access to private and confidential data only to those employees with a specific need to retrieve this information and we store data on multiple service systems, in controlled, secure environments. To maintain our level of security, we conduct both internal reviews and external audits of our security measures and procedures on a regular basis.
 
 **CHILDREN'S PRIVACY**
 
@@ -66,9 +65,9 @@ About has a system in place to effectively screen its users to ensure compliance
 
 Our site and services may collect information about children under 13, including e-mail forum participation and chat rooms. Use of such activities requires initial registration by the participant. Children under 13 who wish to register are asked to have a parent or legal guardian do so for them. The parent must provide a credit card number for verification that he/she is an adult. Upon verification, the parent can choose in which activities he or she would like the child to participate. Parents can change the selected activities at any time.
 
-Only after verifying age, do we collect and maintain the name, date of birth and email address of children who register. With proper proof of identification (including name and credit card verification), parents can review their child's personal information, ask to have it deleted and refuse to allow any further collection or use of their child's information.
+Only after verifying age in accordance with Federal standards, do we collect and maintain the name, date of birth and email address of children who register. With proper proof of identification (including name and credit card verification), parents can review their child's personal information, ask to have it deleted and refuse to allow any further collection or use of their child's information.
 
-We use cookies to check the age of registered users who enter chat rooms. We do not permit users under 13 into chat rooms unless their parents have consented to their participation.
+We use cookies to check the age of registered users who enter chat rooms. We do not knowingly permit users under 13 into chat rooms unless their parents have consented to their participation.
 
 About.com includes many topical areas that all users may access. When a parent provides verifiable consent to allow his or her child to use chat and forums and to receive newsletters or other materials where a child may provide personally identifiable information, the child will also have access to those relevant services throughout the About site, including areas that may not be directed toward children. In particular, if you allow your child to participate in chat or forums, your child will have access to all chat and forum areas on About.com. Many chat areas are not monitored and private chat is permitted. Chat areas may contain information or language unsuitable for young children and visitors of all ages may participate. If you authorize your child to participate in these features, we encourage you to monitor their use closely. We also allow guests to participate in chat and forum areas at About.com but use techniques to prevent unregistered children under 13 from participating in areas unsuitable for them. Parents can change these options at any time.
 
