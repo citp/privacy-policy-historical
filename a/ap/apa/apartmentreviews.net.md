@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the apartmentreviews.net privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011205400id_/http%3A//www.apartmentreviews.net/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartmentreviews.net privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528062958id_/http%3A//www.apartmentreviews.net/privacy-policy.htm) for the most accurate reproduction.*
 
-# Apartment Ratings and Apartment Reviews For Apartment Rentals
+# Apartment Reviews and Ratings by Renters
 
 **Our Commitment**
 
@@ -40,7 +40,4 @@ ApartmentReviews.net may contain links to other external Web sites. We are not r
 
 **Contacting us: Questions, Comments, Concerns**
 
-The team at ApartmentReviews.net will be happy to address any concerns about inaccuracies in this statement regarding information you share with us and how we use it. Please email us at [CustomerService@apartmentreviews.net](mailto:CustomerService@apartmentreviews.net). 
-
-  
-
+The team at ApartmentReviews.net will be happy to address any concerns about inaccuracies in this statement regarding information you share with us and how we use it. Please email us at [info@apartmentreviews.net](mailto:info@apartmentreviews.net). 
