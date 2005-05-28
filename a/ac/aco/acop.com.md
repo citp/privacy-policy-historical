@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acop.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207024744id_/http%3A//www.acop.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acop.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528052758id_/http%3A//www.acop.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # American Consumer Opinion - Privacy Policy
 
@@ -63,7 +63,7 @@ American Consumer Opinion® and [www.acop.com](http://www.acop.com/) are owned a
   * [ Council of American Survey Research Organizations (CASRO)](http://www.casro.org/codeofstandards.cfm)
   * [ Council for Marketing and Opinion Research (CMOR)](http://www.cmor.org/)
   * [ Marketing Research Association(MRA)](http://www.mra-net.org/for_consumer/index.cfm)
-  * [ World Association of Research Professionals (ESOMAR)](http://www.esomar.nl/guidelines.p/internet_guidelines.htm)
+  * [ World Association of Research Professionals (ESOMAR)](http://www.esomar.org/)
 
 
 
