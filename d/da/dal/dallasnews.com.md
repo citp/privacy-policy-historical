@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dallasnews.com privacy policy that was archived on 2004-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041230094442id_/http%3A//www.dallasnews.com/registration/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dallasnews.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528084825id_/http%3A//www.dallasnews.com/registration/privacy) for the most accurate reproduction.*
 
 # DallasNews.com | News for Dallas, Texas | Privacy Policy
 
@@ -114,11 +114,11 @@ This text is invisible on the page, but this text is affected by the invisible i
 
 Advertising 
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.dallasnews.com/aboutus/760591406/Position1/default/empty.gif/7a2f486a615634306156344143747578?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.dallasnews.com/aboutus/876772819/Position1/default/empty.gif/7a2f486f65463430615749414254686b?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.dallasnews.com/aboutus/1820479709/Position4/default/empty.gif/7a2f486a615634306156344143747578?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.dallasnews.com/aboutus/86360737/Position4/default/empty.gif/7a2f486f65463430615749414254686b?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.dallasnews.com/aboutus/6224623/Position5/default/empty.gif/7a2f486a615634306156344143747578?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.dallasnews.com/aboutus/545150979/Position5/default/empty.gif/7a2f486f65463430615749414254686b?x)
 
 ##### adcenter
 
