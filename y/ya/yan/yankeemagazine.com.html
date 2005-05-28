@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yankeemagazine.com privacy policy that was archived on 2004-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204130438id_/http%3A//www.yankeemagazine.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yankeemagazine.com privacy policy that was archived on 2005-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050528090204id_/http%3A//www.yankeemagazine.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head><script src="http://www.yankeemagazine.com/__utm.js"></script>
 
@@ -17,14 +17,114 @@
 .itemText   { text-decoration: none; color: #FFFFFF; font: 12px Arial, Helvetica; font-weight : bold; }
 .itemHover  { text-decoration: none; color: #000000; font: 12px Arial, Helvetica; font-weight : bold; }
 .itemBorder { border: 1px solid black }
+.hidden {  display: none; }
+/* Commented Backslash Hack
+ hides rule from IE5-Mac \*/
+.hidden { display:inline; position:absolute; left:0px; top:-500px; width:1px; height:1px; overflow:hidden; }
+/* End IE5-Mac hack */
 -->
 </style>
+<script language="JavaScript">
+<!--
+function processTelephoneLink(suffix,masternumber,listingnumber,sourcenumber,typenumber) {
+	var rtnval = true;
+	if(showThisObject('phoneNumberValue'+suffix)) {
+		rtnval = false;
+		hideObject('phoneNumberLink'+suffix);
+		showThisObject('phoneNumberLabel'+suffix);
+		logClick(masternumber, listingnumber, sourcenumber, typenumber);
+	}
+	return rtnval;
+}
+
+function getObject(objectID) {
+   if (document.all)
+   {
+	  var obj = document.all[objectID];
+   }
+   else if (document.getElementById)
+   {
+	  var obj = document.getElementById(objectID);
+   }
+	return obj;
+}
+
+function getObjectStyle(name)
+{
+  if (document.getElementById)
+  {
+    return document.getElementById(name).style;
+  }
+  else if (document.all)
+  {
+    return document.all[name].style;
+  }
+  else if (document.layers)
+  {
+    return document.layers[name];
+  }
+  else return false;
+}
+
+function hideObject(objectID) {
+	var obj = getObject(objectID);
+	var rtnval = false;
+	if (obj != null) {
+		obj.style.display = "none";
+		rtnval = true;
+	}
+	return rtnval;
+}
+
+function showThisObject(objectID) {
+	var obj = getObject(objectID);
+	var rtnval = false;
+	if (obj != null) {
+		obj.style.display = "inline";
+		obj.style.position = "static";
+		obj.style.width = "auto";
+		obj.style.height = "auto";
+		obj.style.overflow = "visible";
+		rtnval = true;
+	}
+	return rtnval;
+}
+
+function logClick(masternumber, listingnumber, sourcenumber, typenumber) {
+
+   var img = new Image();
+   var d = new Date();
+   
+   var LogURL = "http://www.yankeemagazine.com/travel/search/logclick.php?masternumber=" + masternumber + "&listingnumber=" + listingnumber + "&sourcenumber=" + sourcenumber + "&typenumber=" + typenumber + "&LOC=" + d.getMilliseconds();
+   img.src = LogURL;
+}
+
+function closead() {
+	var x = getObjectStyle("SubAd");	
+	x.visibility = 'hidden';
+}
+
+-->
+</script>			
+
 </head>
 <body bgcolor="#FFFFFF" link="#990000" alink="#990000" vlink="#990000" text="#000000" marginheight="10" marginwidth="0" leftmargin="0" topmargin="10">
 
-<table width="734" cellpadding="0" cellspacing="0" border="0" align="CENTER"><tbody><tr><td><a href="http://www.ypi.com/redirectad.php?pagenumber=7&amp;adnumber=195&amp;target=www.franconianotch.org" target="_blank"><img src="http://www.ypi.com/advertising/195.gif" alt="Stay and ski NH. Click to learn more!" width="468" height="60" border="1"></a></td><td><img src="/ui/spacers/1by1.gif" width="6" height="1" alt=""></td><td><a href="http://www.ypi.com/redirectad.php?pagenumber=7&amp;adnumber=198&amp;target=yankee.k-online.biz%2F%3FinMed%3DU-4E02%26loadItem%3DOF05CEGC" target="_blank"><img src="http://www.ypi.com/advertising/198.gif" alt="What's new in the online store? Click to learn more!" width="250" height="60" border="1"></a></td></tr></tbody></table><img src="/ui/spacers/1by1.gif" width="1" height="6" alt=""><br><table width="734" border="0" cellpadding="0" cellspacing="0" align="center">
+			<div id="SubAd" style="z-index:10; position:absolute; height:340; width:450; top:180; left:240; border:10px solid #003399;">
+				<table width="450" cellpadding="0" cellspacing="0" border="0">
+					<tbody><tr bgcolor="#ffffff">
+						<td align="right"><a href="javascript:closead();"><img src="/ui/graphics/closead.png" width="50" height="15" alt="Close" border="0"></a></td>
+					</tr>
+					<tr>
+						<td><a href="http://www.ypi.com/redirectad.php?pagenumber=7&amp;adnumber=232&amp;target=http%3A%2F%2Fwww.yankeemagazine.com%2Fgo%2Fwindowshadeym2" target="_blank"><img src="http://www.ypi.com/advertising/232.gif" alt="Try 2 issues free!" width="450" height="310" border="0"></a></td>					</tr>
+					<tr bgcolor="#ffffff">
+						<td align="right"><a href="javascript:closead();"><img src="/ui/graphics/closead.png" width="50" height="15" alt="Close" border="0"></a></td>
+					</tr>
+				</tbody></table>
+			</div>
+			<table width="734" cellpadding="0" cellspacing="0" border="0" align="CENTER"><tbody><tr><td><a href="http://www.ypi.com/redirectad.php?pagenumber=7&amp;adnumber=228&amp;target=www.funonli.com" target="_blank"><img src="http://www.ypi.com/advertising/228.gif" alt="Click to learn more about Long Island!" width="468" height="60" border="1"></a></td><td><img src="/ui/spacers/1by1.gif" width="6" height="1" alt=""></td><td><a href="http://www.ypi.com/redirectad.php?pagenumber=7&amp;adnumber=225&amp;target=www.yankeemagazine.com%2Fgo%2Fymv05.mini" target="_blank"><img src="http://www.ypi.com/advertising/225.gif" alt="Discover New England. Click to learn more!" width="250" height="60" border="1"></a></td></tr></tbody></table><img src="/ui/spacers/1by1.gif" width="1" height="6" alt=""><br><table width="734" border="0" cellpadding="0" cellspacing="0" align="center">
 	<tbody><tr>
-		<td valign="middle" align="center"><a href="http://www.yankeemagazine.com/index.php"><img src="/ui/scheme/brown/logos/yankee.logo.gif" alt="Yankee Magazine" width="454" height="85" border="0" align="bottom"></a></td>		<td valign="middle" align="center"><a href="https://www.kable.com/pub/ynke/gift2in1wo.asp?src=U84402"><img src="/ui/scheme/brown/covers/offer4.2for1.version3.280.gif" alt="Yankee 2 for 1 offer. Click now!" width="280" height="85" border="0" align="bottom"></a></td>
+		<td valign="middle" align="center"><a href="http://www.yankeemagazine.com/index.php"><img src="/ui/scheme/brown/logos/yankee.logo.gif" alt="Yankee Magazine" width="454" height="85" border="0" align="bottom"></a></td>		<td valign="middle" align="center"><a href="https://www.kable.com/pub/ynke/subtrial.asp?src=U35T02"><img src="/ui/scheme/brown/covers/header.2freeissues.0405.gif" alt="Yankee 2 free Issue offer. Click now!" width="280" height="85" border="0" align="bottom"></a></td>
 	</tr>
 </tbody></table>
 <center>
@@ -106,23 +206,29 @@ On the Web at: <a href="http://www.YankeeMagazine.com/">www.YankeeMagazine.com,<
 	<tbody><tr>
 
 		<td valign="top">
+			<table border="0" cellpadding="0" cellspacing="0" bgcolor="#cccc99">
+	<tbody><tr>
+		<form action="/search/index.php" name="KeywordSearchForm"></form>
+		<td>
+			<input name="words" type="text" size="20" maxlength="30" value="Search the Site" onfocus="KeywordSearchForm.words.value=''"> <input type="submit" value="Go"><br>
+		</td>
+		
+	</tr>
+</tbody></table>
 
-			<!-- logged in alert box -->
-			
+
+			<hr>
+
 <table width="220" bgcolor="#FFFFFF" cellpadding="3" cellspacing="0" border="1">
-<tbody><tr>
-<td valign="top">
-<a href="http://www.yankeemagazine.com/store/index.php"><img src="http://www.yankeemagazine.com/ui/scheme/brown/graphictext/head.shop.wht.gif" alt="Shop the Yankee Store" width="206" height="15" vspace="2" border="0" align="bottom"></a>
-
-			<br>
-
-<center>
-<a href="http://store.yankeemagazine.com/?inMed=UC4P0M"><img src="http://www.yankeemagazine.com/ui/graphics/freeshipping.mp.120104.gif" alt="Free shipping on all orders!" width="220" height="180" hspace="0" vspace="2" border="0" align="bottom"></a>
-</center>
-
+<tbody><tr><td valign="top" align="center">
+<a href="http://store.yankeemagazine.com/?loadItem=03405030"><img src="http://www.yankeemagazine.com/ui/graphics/tg05.marketpanel.0505.mod.gif" alt="" width="220" height="186" hspace="0" vspace="0" border="0" align="bottom"></a>
+<br>
+<a href="http://store.yankeemagazine.com"><img src="http://www.yankeemagazine.com/ui/graphics/button.visittheyankeestore.gif" alt="Visit the Store!" width="150" height="15" hspace="0" vspace="4" border="0" align="bottom"></a>
 </td></tr></tbody></table>
 
 			<hr>
+			
+			<center><table cellpadding="0" cellspacing="0" border="0" bgcolor="#cccc99"><tbody><tr align="center"><td align="center"><a href="http://www.yankeemagazine.com/travel/search/onelisting.php?number=18722&amp;clicktypenumber=22"><img src="/travel/search/photos/weethumbnails/admweaverinn1.newportri.jpg" width="85" height="64" alt="Picture" border="1"></a><br><img src="/1by1.gif" width="1" height="3"><br><a href="http://www.yankeemagazine.com/travel/search/onelisting.php?number=18722&amp;clicktypenumber=22"><font face="arial,helvetica,sans-serif" size="1"><b>Admiral Weaver Inn</b><br><i>Newport, RI</i></font></a></td><td align="center" width="85"><a href="http://www.yankeemagazine.com/bnbmarketing"><img src="http://www.yankeemagazine.com/ui/scheme/brown/graphictext/head.findtheinnspotsbutton2.gif" alt="" width="100" height="82" border="0" align="bottom"></a></td></tr></tbody></table></center>			<hr>
 
 			<a href="http://www.yankeemagazine.com/service/advertising/index.php"><img src="http://www.yankeemagazine.com/ui/scheme/brown/graphictext/head.specialoffers.gif" alt="Special Offers" width="126" height="15" vspace="2" border="0" align="bottom"></a>
 
@@ -137,6 +243,19 @@ On the Web at: <a href="http://www.YankeeMagazine.com/">www.YankeeMagazine.com,<
 			<br>
 
 			<img src="http://www.yankeemagazine.com/ui/spacers/1x1.666600.gif" width="7" height="7" hspace="4" vspace="0" border="0" align="bottom"><a href="http://www.yankeemagazine.com/travel/insidernews.php"><font size="-1">Get Insider Travel Offers!</font></a>
+
+
+			<hr>
+
+			<a href="http://www.yankeemagazine.com/go/ymv05.mp"><img src="http://www.yankeemagazine.com/ui/scheme/brown/graphictext/head.yankeevacations.gif" alt="Yankee Vacations" width="166" height="15" vspace="2" border="0" align="bottom"></a>
+
+			<br>
+
+			<img src="http://www.yankeemagazine.com/ui/spacers/1x1.666600.gif" width="7" height="7" hspace="4" vspace="0" border="0" align="bottom"><a href="http://www.yankeemagazine.com/go/ymv05.mp"><font size="-1">7 Days on the Scenic Maine Coast</font></a>
+
+			<br>
+
+			<img src="http://www.yankeemagazine.com/ui/spacers/1x1.666600.gif" width="7" height="7" hspace="4" vspace="0" border="0" align="bottom"><a href="http://www.yankeemagazine.com/go/ymv05.mp"><font size="-1">8 Days of Autumn in New England</font></a>
 
 
 			<hr>
@@ -157,24 +276,6 @@ On the Web at: <a href="http://www.YankeeMagazine.com/">www.YankeeMagazine.com,<
 					</td>
 				</tr>
 			</tbody></table>
-				
-			
-			<hr>
-
-			<!-- search form -->
-			<table border="0" cellpadding="0" cellspacing="0" bgcolor="#cccc99">
-	<tbody><tr>
-		<form action="/search/index.php"></form>
-		<td>
-			<a href="/search/index.php"><img src="http://www.yankeemagazine.com/ui/scheme/brown/graphictext/head.sitesearch.gif" alt="Search the Site" width="138" height="15" vspace="2" border="0" align="bottom"></a><br>
-			<input name="words" type="text" size="20" maxlength="30"> <input type="submit" value="Go"><br>
-			<img src="http://www.yankeemagazine.com/ui/spacers/1by1.gif" width="1" height="5"><br>
-			<font size="-1"><a href="/search/index.php">More Options</a> / <a href="/search/siteindex.php">Site Index</a></font><br>
-		</td>
-		
-	</tr>
-</tbody></table>
-
 		</td>
 	</tr>
 </tbody></table>
@@ -186,9 +287,10 @@ On the Web at: <a href="http://www.YankeeMagazine.com/">www.YankeeMagazine.com,<
 <table width="230" border="0" cellspacing="0" cellpadding="0" align="center">
 	<tbody><tr>
 		<td align="center">
-			<a href="http://www.yankeemagazine.com/weather/forecast/index.php"><img src="http://www.yankeemagazine.com/ui/scheme/brown/graphictext/head.4dayweather.gif" alt="4-Day Weather Forecast" width="230" height="15" border="0"></a><br>
-			<img src="http://www.yankeemagazine.com/ui/spacers/1by1.gif" width="1" height="6" alt=""><br>			<font size="2"><b><a href="/weather/forecast/index.php">Weather conditions and forecast<br>for any location in the U.S. or Canada</a><br></b>
-			<img src="http://www.yankeemagazine.com/ui/spacers/1by1.gif" width="1" height="6" alt=""><br>
+								<a href="http://www.yankeemagazine.com/weather/forecast/index.php"><img src="http://www.yankeemagazine.com/ui/scheme/brown/graphictext/head.4dayweather.gif" alt="4-Day Weather Forecast" width="230" height="15" border="0"></a><br>
+					<img src="http://www.yankeemagazine.com/ui/spacers/1by1.gif" width="1" height="6" alt=""><br>
+							<font size="2"><b><a href="/weather/forecast/index.php">Weather conditions and forecast for any location in the U.S. or Canada</a><br></b>
+			<img src="http://www.yankeemagazine.com/ui/spacers/1by1.gif" width="1" height="3" alt=""><br>
 		</font></td>
 	</tr>
 	<tr>
@@ -201,11 +303,11 @@ On the Web at: <a href="http://www.YankeeMagazine.com/">www.YankeeMagazine.com,<
 				<tbody><tr align="center">
 					<td width="25%" align="center"><font size="1" face="ARIAL,HELVETICA,SANS-SERIF"><b>Saturday</b></font></td><td width="25%" align="center"><font size="1" face="ARIAL,HELVETICA,SANS-SERIF"><b>Sunday</b></font></td><td width="25%" align="center"><font size="1" face="ARIAL,HELVETICA,SANS-SERIF"><b>Monday</b></font></td><td width="25%" align="center"><font size="1" face="ARIAL,HELVETICA,SANS-SERIF"><b>Tuesday</b></font></td>				 </tr>
 				 <tr align="center">
-				 <td width="25%" align="center"><img src="http://www.yankeemagazine.com/ui/weathericons/65.jpg" height="52" width="52" alt="" border="0"></td><td width="25%" align="center"><img src="http://www.yankeemagazine.com/ui/weathericons/66.jpg" height="52" width="52" alt="" border="0"></td><td width="25%" align="center"><img src="http://www.yankeemagazine.com/ui/weathericons/74.jpg" height="52" width="52" alt="" border="0"></td><td width="25%" align="center"><img src="http://www.yankeemagazine.com/ui/weathericons/82.jpg" height="52" width="52" alt="" border="0"></td>				 </tr>
+				 <td width="25%" align="center"><img src="http://www.yankeemagazine.com/ui/weathericons/87.jpg" height="52" width="52" alt="" border="0"></td><td width="25%" align="center"><img src="http://www.yankeemagazine.com/ui/weathericons/66.jpg" height="52" width="52" alt="" border="0"></td><td width="25%" align="center"><img src="http://www.yankeemagazine.com/ui/weathericons/66.jpg" height="52" width="52" alt="" border="0"></td><td width="25%" align="center"><img src="http://www.yankeemagazine.com/ui/weathericons/87.jpg" height="52" width="52" alt="" border="0"></td>				 </tr>
 				 <tr align="center" valign="top">
-				 <td width="25%" align="center"><font size="1" color="#FF0000">Hi 42° F</font></td><td width="25%" align="center"><font size="1" color="#FF0000">Hi 51° F</font></td><td width="25%" align="center"><font size="1" color="#FF0000">Hi 43° F</font></td><td width="25%" align="center"><font size="1" color="#FF0000">Hi 50° F</font></td>				 </tr>
+				 <td width="25%" align="center"><font size="1" color="#FF0000">Hi N/A</font></td><td width="25%" align="center"><font size="1" color="#FF0000">Hi 72° F</font></td><td width="25%" align="center"><font size="1" color="#FF0000">Hi 69° F</font></td><td width="25%" align="center"><font size="1" color="#FF0000">Hi 65° F</font></td>				 </tr>
 				 <tr align="center" valign="top">
-				 <td width="25%" align="center"><font size="1" color="#0000FF">Lo 37° F</font></td><td width="25%" align="center"><font size="1" color="#0000FF">Lo 33° F</font></td><td width="25%" align="center"><font size="1" color="#0000FF">Lo 35° F</font></td><td width="25%" align="center"><font size="1" color="#0000FF">Lo 39° F</font></td>				 </tr>
+				 <td width="25%" align="center"><font size="1" color="#0000FF">Lo 54° F</font></td><td width="25%" align="center"><font size="1" color="#0000FF">Lo 56° F</font></td><td width="25%" align="center"><font size="1" color="#0000FF">Lo 50° F</font></td><td width="25%" align="center"><font size="1" color="#0000FF">Lo 50° F</font></td>				 </tr>
 			</tbody></table>
 		</td>
 	</tr>
@@ -214,8 +316,8 @@ On the Web at: <a href="http://www.YankeeMagazine.com/">www.YankeeMagazine.com,<
 			<font size="-1">
 			
 
-			<b>Conditions</b> at BOSTON as of 8:00 a.m. (ET):
-			 temperature 32°&nbsp;F; windchill 24°&nbsp;F; relative humidity 61%; wind, west 10 mph; pressure 30.01 inches; visibility 10 miles; ceiling 5,500 feet; broken clouds.</font><br>		</td>
+			<b>Conditions</b> at BOSTON as of 4:00 a.m. (ET):
+			 temperature 56°&nbsp;F; windchill 56°&nbsp;F; relative humidity 90%; wind, west 5 mph; pressure 29.76 inches; visibility 10 miles; ceiling unlimited; clear.</font><br>		</td>
 	</tr>
 </tbody></table>
 		</td>
@@ -227,12 +329,13 @@ On the Web at: <a href="http://www.YankeeMagazine.com/">www.YankeeMagazine.com,<
 <td align="center">
 <img src="/ui/spacers/1by1black.gif" width="734" height="1" hspace="0" vspace="4" border="0" align="bottom">
 <p style="font-size: 8pt;">
-YankeeMagazine.com information comes from the editors of Yankee Publishing, with the exception of directory information, which comes from advertisers. No advertising considerations are made when selecting and recommending any establishment, except where noted. <b>Rates and event dates are subject to change.</b> We strongly advise that you call first to confirm before setting out on your trip. Concerned about information you submit via e-mail? <a href="http://www.yankeemagazine.com/privacy.php">Privacy Policy</a> | <a href="http://www.yankeemagazine.com/service/contactus.php">Contact Us</a> | <a href="http://www.yankeemagazine.com/service/linkback/index.php">Link to Us</a>
+YankeeMagazine.com information comes from the editors of Yankee Publishing, with the exception of directory information, which comes from advertisers. No advertising considerations are made when selecting and recommending any establishment, except where noted. <b>Rates and event dates are subject to change.</b> We strongly advise that you call first to confirm before setting out on your trip. Concerned about information you submit via e-mail?<br>
+<a href="http://www.yankeemagazine.com/privacy.php">Privacy Policy</a> | <a href="http://www.yankeemagazine.com/service/contactus.php">Contact Us</a> | <a href="http://www.yankeemagazine.com/search/siteindex.php">Site Index</a> | <a href="http://www.ypi.com/work/">Employment</a> | <a href="http://www.yankeemagazine.com/service/linkback/index.php">Link to Us</a>
 <br>
 <br>
 Yankee Publishing Inc., P.O. Box 520, Dublin, NH 03444, Phone 603-563-8111
 <br>
-<b>Copyright ©2004, Yankee Publishing Inc. All Rights Reserved.</b>
+<b>Copyright ©2005, Yankee Publishing Inc. All Rights Reserved.</b>
 <br>
 Interactive services developed and maintained by <a href="http://www.reinvented.info" target="_BLANK">Reinvented Inc.</a>
 
