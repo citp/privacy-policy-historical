@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the acehardware.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009233413id_/http%3A//www.acehardware.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acehardware.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528172948id_/http%3A//www.acehardware.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooterlink_privacy_txt) for the most accurate reproduction.*
 
 # Ace Helpdesk
 
-|  | [](https://web.archive.org/helpdesk/index.jsp) **Our Privacy Policy**
+**Our Privacy Policy**
 
-GSI Commerce Solutions, Inc. (“GSI”) operates this Web site, acehardware.com, pursuant to agreements with Ace Hardware Corporation (“Ace Hardware”). Both GSI and Ace Hardware (“we” or “us”) recognize that you care how information about you is used and shared. We have created this Privacy Policy to inform you of our information collection, use and sharing practices for this Web site. 
+GSI Commerce Solutions, Inc. ("GSI") operates this Web site, acehardware.com, pursuant to agreements with Ace Hardware Corporation ("Ace Hardware"). Both GSI and Ace Hardware ("we" or "us") recognize that you care how information about you is used and shared. We have created this Privacy Policy to inform you of our information collection, use and sharing practices for this Web site. 
 
 Please be advised that the practices described in this Privacy Policy apply only to information gathered through this Web site and, where applicable, through our Customer Service Department in connection with this Web site, and do not necessarily reflect our practices with respect to information gathered through other Web sites that we operate or through other off-line means. 
 
@@ -16,7 +16,7 @@ We collect and store information that you enter into this Web site or that you p
 
 We collect and store certain other information automatically whenever you interact with this Web site. For example, we collect your IP address, browser information and reference site domain name every time you visit this Web site. We also collect information regarding customer traffic patterns and site usage. This information is used to analyze and improve this Web site and to provide our customers with a fulfilling shopping experience. 
 
-Also, like many Web sites, we use “cookies”, which are files stored on your computer’s hard drive by your browser. Cookies help us to identify account holders and to optimize their shopping experience. Cookies also allow us to hold selections in a shopping cart when a user leaves this Web site without checking out. Most browsers accept cookies automatically but allow you to disable them. We recommend that you leave cookies “turned on” so that we can offer you a better shopping experience on this Web site. 
+Also, like many Web sites, we use "cookies", which are files stored on your computer's hard drive by your browser. Cookies help us to identify account holders and to optimize their shopping experience. Cookies also allow us to hold selections in a shopping cart when a user leaves this Web site without checking out. Most browsers accept cookies automatically but allow you to disable them. We recommend that you leave cookies "turned on" so that we can offer you a better shopping experience on this Web site. 
 
 We also may collect and store information about you that we receive from other sources, to enable us to update and correct the information contained in our database and to provide product recommendations and special offers that we think will interest you. 
 
@@ -44,11 +44,11 @@ We use various security measures, including Secure Socket Layer (SSL) encryption
 
 **_How Can I Access, Correct and Update Personal Information?_**
 
-You can access, correct and update certain personal information that you have provided to us by clicking on “Manage Your Account” within the Help Desk area of this Web site. 
+You can access, correct and update certain personal information that you have provided to us by clicking on "Manage Your Account" within the Help Desk area of this Web site. 
 
 **_Can I Indicate Whether or Not I Want To Receive Promotional Communications?_**
 
-There are several ways in which you can tell us whether or not you want to receive promotional communications from us. When you set up an account, or click on “Manage Your Account” within the Help Desk area, or place an order, you will have an opportunity to make or change your selections in this regard. You also will have an opportunity to change these selections by clicking on an “unsubscribe” hyperlink contained in promotional emails we send you. 
+There are several ways in which you can tell us whether or not you want to receive promotional communications from us. When you set up an account, or click on "Manage Your Account" within the Help Desk area, or place an order, you will have an opportunity to make or change your selections in this regard. You also will have an opportunity to change these selections by clicking on an "unsubscribe" hyperlink contained in promotional emails we send you. 
 
 **_What Happens When I Link To or From Another Web Site?_**
 
