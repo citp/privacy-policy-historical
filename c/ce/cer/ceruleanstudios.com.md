@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the ceruleanstudios.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204235828id_/http%3A//www.ceruleanstudios.com/misc/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceruleanstudios.com privacy policy that was archived on 2005-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050530002901id_/http%3A//www.ceruleanstudios.com/privacy) for the most accurate reproduction.*
 
 # Cerulean Studios -> Privacy Policy
 
 This is the web site of Cerulean Studios.  
-We can be reached via e-mail at [the Contact page.](https://web.archive.org/contact/)
+We can be reached via e-mail at [the Support page.](https://web.archive.org/support/)
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
