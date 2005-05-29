@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nascar.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204233551id_/http%3A//www.nascar.com/guides/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nascar.com privacy policy that was archived on 2005-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050530005654id_/http%3A//www.nascar.com/guides/about/privacy.html) for the most accurate reproduction.*
 
 # NASCAR.COM : privacy policy
 
@@ -91,8 +91,6 @@ Third Party Ad Servers
 Access to personal information
 
 If you created a password-protected account within our site go back to that portion of the site to review the information you provided.
-
-You may send an e-mail to the following e-mail address requesting access to or correction of your personally identifiable information. For verification purposes please include your first name, last name, e-mail address and the password you use for said service, if any. email: [privacy.nascar@turner.com](mailto:privacy.nascar@turner.com).
 
 What is the NAI? 
 
