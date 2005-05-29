@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the architecturaldesigns.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204115943id_/http%3A//www.architecturaldesigns.com/about/priva.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architecturaldesigns.com privacy policy that was archived on 2005-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050529114537id_/http%3A//www.architecturaldesigns.com/about/priva.asp) for the most accurate reproduction.*
 
 # House Plans & Home Designs from Architectural Designs - Privacy Policy
 
