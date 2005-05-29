@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chicagobears.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207002735id_/http%3A//www.chicagobears.com/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagobears.com privacy policy that was archived on 2005-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050529080621id_/http%3A//www.chicagobears.com/about/privacy.jsp) for the most accurate reproduction.*
 
 # Chicago Bears
 
