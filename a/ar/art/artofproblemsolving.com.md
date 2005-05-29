@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artofproblemsolving.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204111553id_/http%3A//www.artofproblemsolving.com/Legal/AoPS_L_Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artofproblemsolving.com privacy policy that was archived on 2005-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050529063419id_/http%3A//www.artofproblemsolving.com/Legal/AoPS_L_Privacy.php) for the most accurate reproduction.*
 
 # the Art of Problem Solving Privacy Policy
 
@@ -10,7 +10,7 @@ Your email address is used for us to send messages to you. We do so to confirm y
 
 We also use your email address to assist in administering our web site and to help enforce our conduct rules (for example, people who post offensive messages in the forum can be banned). Our forum system uses cookies to store information on your local computer to improve your viewing pleasure. We do not belong to any groups that track internet users.
 
-This site has forums (message boards) and chat rooms available to its members. Please remember that any information that is disclosed in these areas is published publically, thus becoming public domain information. You should NOT disclose any personal information, such as your real name, address, telephone number, email address, etc. Your user name is the only identity that you need to have, and that is how people should know you on the Internet.
+This site has forums (message boards) and chat rooms available to its members. Please remember that any information that is disclosed in these areas is published publicly. You should NOT disclose any personal information, such as your real name, address, telephone number, email address, etc. Your user name is the only identity that you need to have, and that is how people should know you on the Internet.
 
 We caution children that they should not divulge their personal information and require that they agree to this before entering our forums or classes. Our classes and forums are moderated, and, while our moderators cannot prevent children from divulging personal information, we strongly discourage such divulgence.
 
