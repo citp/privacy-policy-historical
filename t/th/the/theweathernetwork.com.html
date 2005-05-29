@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the theweathernetwork.com privacy policy that was archived on 2004-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041224053934id_/http%3A//www.theweathernetwork.com/inter/help/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theweathernetwork.com privacy policy that was archived on 2005-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050529075437id_/http%3A//www.theweathernetwork.com/inter/help/privacy.htm) for the most accurate reproduction.-->
 
 <html><head>
 <title>The Weather Network · Help · About TWN</title>
@@ -49,41 +49,79 @@ if (year1 < 1000) year1 +=1900;
 // -->
 </script>
 <!-- HEADER -->
-<script language="JavaScript1.2" src="/common/scripts/headerTWN.js"></script><table border="0" cellpadding="0" cellspacing="0" width="100%">	<tbody><tr>		<td colspan="6" class="Header"><table border="0" cellpadding="0" cellspacing="0" width="100%">	<tbody><tr>		<td background="" bgcolor="#000066" width="210" align="left" colspan="2"><img src="/common/images/spacer.gif" width="210" height="17" border="0"></td>		<td background="" valign="top"><img src="/common/images/spacer.gif" width="78" height="17" name="menu0" id="menu0" onmouseover="showMenu(event)" onmouseout="hideMenu(event)"></td>		<td background="" valign="top"><img src="/common/images/spacer.gif" width="102" height="17" name="menu1" id="menu1" onmouseover="showMenu(event)" onmouseout="hideMenu(event)"></td>		<td background="" valign="top"><img src="/common/images/spacer.gif" width="100" height="17" name="menu2" id="menu2" onmouseover="showMenu(event)" onmouseout="hideMenu(event)"></td>		<td background="" valign="top"><img src="/common/images/spacer.gif" width="76" height="17" name="menu3" id="menu3" onmouseover="showMenu(event)" onmouseout="hideMenu(event)"></td>		<td background="" valign="top"><img src="/common/images/spacer.gif" width="98" height="17" name="menu4" id="menu4" onmouseover="showMenu(event)" onmouseout="hideMenu(event)"></td>		<td background="" width="100%"><img src="/common/images/spacer.gif" height="17" width="100%"></td>	</tr>	<tr>		<td colspan="2" background=""><a href="/index.htm"><img src="/common/images/spacer.gif" width="210" height="51" border="0" alt="The Weather Network"></a></td>		<td colspan="6" background=""><form name="searchform" action="/common/scripts/search.htm" method="POST"></form></td>	</tr>	<tr>		<td background="" rowspan="2" width="92"><img src="/common/images/spacer.gif" width="92" height="20"></td>		<td background="" rowspan="2"><input type="text" name="recherche" size="10" value="enter city" class="searchbox" onclick="CheckCity();"></td>		<td background="" rowspan="2" valign="top" colspan="5"><a href="/weather/cities/indexcan.htm"><img src="/common/images/spacer.gif" width="133" height="18" border="0"></a><a href="/weather/cities/indexusa.htm"><img src="/common/images/spacer.gif" width="109" height="18" border="0"></a><a href="/weather/cities/indexintl.htm"><img src="/common/images/spacer.gif" width="162" height="18" border="0"></a></td>	</tr></tbody></table>		</td>	</tr></tbody></table>
-<script language="JavaScript1.2" src="/common/scripts/plp.js"></script><script type="text/javascript" src="/common/ssidata/profiles/XXXXXXXX.js"></script>
-<table>
-	<tbody><tr><td>
+<!--<script>function er_loaded(){er_parentLoaded=true;};window.onload=er_loaded;</script>-->
+
+<script>
+// List of sponsored areas for Expandable BOX to work. Adding areas will PREVENT showing of Expandable Box.
+if ((area == "attractions") ||(area == "golf") || (area == "hwyfx") || (area == "gardening") || (area == "pollen") || (area == "park") || (area == "wxhome")|| (area == "schoolday")){
+var sponsorship = "yes";
+}
+else {
+var sponsorship = "no";
+}
+</script>
+
 		<script>
 		if ((area == "hwycond") && (sector=="AB")) {
 			Adtype = "hwyfilter";
 			client = "";
+			document.write('<table><tr><td>');
 			document.write('<iframe src="/common/includes/a'+'ds.htm?type='+Adtype+'/pageid='+PageID+'/width=0/height=0/client='+client+'/area='+area+'/sector='+sector+'/cityName='+cityName+'" noresize scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width = 0 height = 0>');
 			document.write('<a href="http://a'+'ds.weather.ca/accipiter/a'+'dclick/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ='+Adtype+'/client='+client+'/SECTOR='+sector+'/CITY='+cityName+'?" target="_top">');
 			document.write('<img src="http://a'+'ds.weather.ca/accipiter/nserver/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ='+Adtype+'/client='+client+'/SECTOR='+sector+'/CITY='+cityName+'?" BORDER="0" HEIGHT="0" WIDTH="0"></a>');
 			document.write('</iframe>');
+			document.write('</td></tr></table>');
 		}
 		</script>
-	</td></tr>
-</tbody></table>
+<div align="right"><script>
+	if ((document.referrer != '') && (area != 'home') && (sponsorship != "yes"))
+ 	{
+ 	document.write('<SCR'+'IPT SRC="http://a'+'ds.weather.ca/jserver/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ=TRANS_VOKEN/SECTOR='+sector+'/CITY='+cityName+'/precip=/acc_random='+BannerNum+'?" LANGUAGE="JavaScript1.1"></SCR'+'IPT>');
+				}
+</script></div>
+
+		
+<!--	live ad server: a'+'ds.weather.ca
+	test server :	216.123.177.212
+-->
+
+
+
 <table border="0" cellpadding="cellspacing" =="" 0="" bgcolor="#DAE0EC" width="100%">
 	<tbody><tr>
 		<td>
 <center>
 <script>
-	Adtype = "banner";
+	Adtype = "728x90";
 	setWidth = 728;
 	setHeight = 90;
 
-	if ((area == "can") || (area == "intl") || (area == "vac") || (area == "home") || (area == "bugs")|| (area == "hwyfx")) {
+	// To Allow 728X90 to show, add an area - 728X90 will ONLY be shown to specified areas.
+	if ((area == "ski") || (area == "snow") ||(area == "can") || (area == "intl") || (area == "climate") || (area == "vac") || (area == "home") || (area == "bugs") || (area == "hwycond") || (area == "usa") || (area == "floods") || (area == "radar")) {
 		d.write('<SCR'+'IPT SRC="http://a'+'ds.weather.ca/jserver/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ=728X90/SECTOR='+sector+'/CITY='+cityName+'/acc_random=' + BannerNum + '?" LANGUAGE="JavaScript1.1">');
 		d.write('</SCR'+'IPT>');
-	} 
-</script>
 
+	} 
+
+	if (area == "schoolday") {
+		d.write('<SCR'+'IPT SRC="http://a'+'ds.weather.ca/jserver/SITE=twn/pageid=/AREA='+area+'/AAMSZ=728X90_SCHOOLDAY/SECTOR='+sector+'/CITY='+cityName+'/acc_random=' + BannerNum + '?" LANGUAGE="JavaScript1.1">');
+		d.write('</SCR'+'IPT>');
+
+	} 
+
+</script>
 </center>
 		</td>
+		
 	</tr>
 </tbody></table>
+
+
+<script>var codePlace_golf=codePlace;</script>
+<script language="JavaScript1.2" src="/common/scripts/headerTWN.js"></script><table border="0" cellpadding="0" cellspacing="0" width="100%">	<tbody><tr>		<td colspan="6" class="Header"><table border="0" cellpadding="0" cellspacing="0" width="100%">	<tbody><tr>		<td background="" bgcolor="#000066" width="210" align="left" colspan="2"><img src="/common/images/spacer.gif" width="210" height="17" border="0"></td>		<td background="" valign="top"><img src="/common/images/spacer.gif" width="78" height="17" name="menu0" id="menu0" onmouseover="showMenu(event)" onmouseout="hideMenu(event)"></td>		<td background="" valign="top"><img src="/common/images/spacer.gif" width="102" height="17" name="menu1" id="menu1" onmouseover="showMenu(event)" onmouseout="hideMenu(event)"></td>		<td background="" valign="top"><img src="/common/images/spacer.gif" width="100" height="17" name="menu2" id="menu2" onmouseover="showMenu(event)" onmouseout="hideMenu(event)"></td>		<td background="" valign="top"><img src="/common/images/spacer.gif" width="76" height="17" name="menu3" id="menu3" onmouseover="showMenu(event)" onmouseout="hideMenu(event)"></td>		<td background="" valign="top"><img src="/common/images/spacer.gif" width="98" height="17" name="menu4" id="menu4" onmouseover="showMenu(event)" onmouseout="hideMenu(event)"></td>		<td background="" width="100%"><img src="/common/images/spacer.gif" height="17" width="100%"></td>	</tr>	<tr>		<td colspan="2" background=""><a href="/index.htm"><img src="/common/images/spacer.gif" width="210" height="51" border="0" alt="The Weather Network"></a></td>		<td colspan="6" background=""><form name="searchform" action="/common/scripts/search.htm" method="POST"></form></td>	</tr>	<tr>		<td background="" rowspan="2" width="92"><img src="/common/images/spacer.gif" width="92" height="20"></td>		<td background="" rowspan="2"><input type="text" name="recherche" size="10" value="enter city" class="searchbox" onclick="CheckCity();"></td>		<td background="" rowspan="2" valign="top" colspan="5"><a href="/weather/cities/indexcan.htm"><img src="/common/images/spacer.gif" width="133" height="18" border="0"></a><a href="/weather/cities/indexusa.htm"><img src="/common/images/spacer.gif" width="109" height="18" border="0"></a><a href="/weather/cities/indexintl.htm"><img src="/common/images/spacer.gif" width="162" height="18" border="0"></a></td>	</tr></tbody></table>		</td>	</tr></tbody></table>
+<script language="JavaScript1.2" src="/common/scripts/plp.js"></script><script type="text/javascript" src="/common/ssidata/profiles/XXXXXXXX.js"></script>
+
+
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
 	<!-- Section "SUBTITLE" (right under Masthead) -->
 	<tbody><tr>
@@ -134,19 +172,18 @@ if (year1 < 1000) year1 +=1900;
 	setWidth = 468;
 	setHeight = 60;
 	client = "";
-	if ((area == "vac") || (area == "gardening") || (area == "golf") || (area == "can")) {
+	
+	// To Allow 468X60 to show, add an area - 468X60 will ONLY be shown to specified areas.
+	if ((area == "vac") || (area == "floods") || (area == "can") || (area == "home") || (area == "ros") || (area == "marine")) {
 		d.write('<SCR'+'IPT SRC="http://a'+'ds.weather.ca/jserver/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ=468X60/SECTOR='+sector+'/CITY='+cityName+'/acc_random=' + BannerNum + '?" LANGUAGE="JavaScript1.1">');
 		d.write('</SCR'+'IPT>');
-	} else if ( area != "ski" && area != "snow") {
-		if (area == "floods") {
-			client = "sponsor";
 		}
-		document.write('<iframe src="/common/includes/a'+'ds.htm?type='+Adtype+'/pageid='+PageID+'/width=468/height=60/client='+client+'/area='+area+'/sector='+sector+'/cityName='+cityName+'" noresize scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width = "468" height = "60">');
-		document.write('<a href="http://a'+'ds.weather.ca/accipiter/a'+'dclick/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ=468X60/client='+client+'/SECTOR='+sector+'/CITY='+cityName+'?" target="_top">');
-		document.write('<img src="http://a'+'ds.weather.ca/accipiter/nserver/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ=468X60/client='+client+'/SECTOR='+sector+'/CITY='+cityName+'?" BORDER="0" HEIGHT="60" WIDTH="468"></a>');
-		document.write('</iframe>');
-	}
-</script><iframe src="/common/includes/ads.htm?type=banner/pageid=762049/width=468/height=60/client=/area=ros/sector=nil/cityName=nil" noresize="" scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width="468" height="60"><a href="http://ads.weather.ca/accipiter/adclick/SITE=twn/pageid=762049/AREA=ros/AAMSZ=468X60/client=/SECTOR=nil/CITY=nil?" target="_top"><img src="http://ads.weather.ca/accipiter/nserver/SITE=twn/pageid=762049/AREA=ros/AAMSZ=468X60/client=/SECTOR=nil/CITY=nil?" BORDER="0" HEIGHT="60" WIDTH="468"></a></iframe>
+		
+	if (area == "golf") {
+		d.write('<SCR'+'IPT SRC="http://a'+'ds.weather.ca/jserver/SITE=twn/AREA='+area+'/AAMSZ=KNET/SECTOR='+sector+'/CITY='+cityName+'/acc_random=' + BannerNum + '?" LANGUAGE="JavaScript1.1">');
+		d.write('</SCR'+'IPT>');
+		}		
+</script><script src="http://ads.weather.ca/jserver/SITE=twn/pageid=247429/AREA=ros/AAMSZ=468X60/SECTOR=nil/CITY=nil/acc_random=159294?" language="JavaScript1.1"></script>
 </td></tr>
 				<tr><td><table border="0" cellpadding="0" cellspacing="0" width="100%">
 	<tbody><tr>
@@ -273,6 +310,11 @@ if (year1 < 1000) year1 +=1900;
 </tbody></table>
 </td></tr>
 				<script>
+if (area== "pollen" && codePlace=="XXXXXXXX"){
+	document.write('<tr><td align=center><table><tr><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>');
+	document.write('<sup>*</sup> Registered trademark of Schering Canada Inc.');
+	document.write('</td></tr></table></td></tr>');
+}
 if ( area == "hwycond" && sector == "AB") {
 	document.write('<tr><td><table><tr><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>');
 	document.write('Alberta highway condition information courtesy of <a href=http://www.ama.ab.ca target=_blank>Alberta Motor Association</a>.');
@@ -280,12 +322,95 @@ if ( area == "hwycond" && sector == "AB") {
 	document.write('</td></tr></table></td></tr>');
 }
 </script>
+
+<tr><td align="center"><img src="/common/images/spacer.gif" width="30" height="75"><br>
+<!-- Hotel and Flight OT CODE START -->
+<script language="JavaScript" type="text/javascript">
+if (area=="can" || area == "usa" || area == "intl") {
+	d.write('<table width="470" bgcolor="#F2F7FA" cellpadding="0" cellspacing="0"><tr><td width="470">');
+	d.write('<div id="OTH_C" style="position:absolute;top:0;left:0;z-index:100"></div><form name="flightSearchform2" method=get onSubmit="return OTH_t(this.form);" action="http://www.onetime.com/hotels" target=_blank style="margin:0"><input type=hidden name="sid" value="101">');	
+	//<!--
+
+	OTH_CL='OTH_C';OTH_CO=null;OTH_CF=null;OTH_CD=new Date();OTH_CSD=new Date();OTH_MS=new Array('JANUARY','FEBRUARY','MARCH','APRIL','MAY','JUNE','JULY','AUGUST','SEPTEMBER','OCTOBER','NOVEMBER','DECEMBER');
+	function OTH_x(o){if(document.layers)return o.left;return o.offsetLeft+(o.offsetParent?OTH_x(o.offsetParent):0);}
+	function OTH_y(o){if(document.layers)return o.top;return o.offsetTop+(o.offsetParent?OTH_y(o.offsetParent):0);}
+	function OTH_w(o){if(document.layers)return o.clip.width;return o.offsetWidth;}
+	function OTH_h(o){if(document.layers)return o.clip.height;return o.offsetHeight;}
+	function OTH_m(o,x,y){if(document.layers)o.moveToAbsolute(x,y);else if(o.style.left&&(!o.style.pixelLeft)){o.style.left=x+'px';o.style.top=y+'px';}else{o.style.pixelLeft=x;o.style.pixelTop=y;}}
+	function OTH_i(o,x,y,dx1,dy1,dx2,dy2){var l=OTH_x(o);var t=OTH_y(o);return((x-(dx1?dx1:0)>=l)&&(y-(dy1?dy1:0)>=t)&&(x-(dx2?dx2:0)<l+OTH_w(o))&&(y-(dy2?dy2:0)<t+OTH_h(o)));}
+	//function OTH_o(a){var o=(document.getElementById?document.getElementById(OTH_CL):(document.all?document.all[OTH_CL]:document[OTH_CL]));var n=(OTH_CO==null);if(OTH_CF&&(a==OTH_CF))return false;if(!n){if(document.layers)OTH_CO.visibility='hide';else OTH_CO.style.visibility='hidden';}OTH_CO=o;OTH_CF=a;var d;if(a.name=='inDate'){d=new Date();d.setDate(d.getDate()+14);OTH_CSD=new Date();}else{d=new Date(OTH_CD.getFullYear(),OTH_CD.getMonth(),OTH_CD.getDate());d.setDate(d.getDate()+1);OTH_CSD=d;}OTH_r(d.getMonth()+1,d.getFullYear());OTH_m(o,OTH_x(a)-2,OTH_y(a)-OTH_h(o)-2);if(document.layers)o.visibility='show';else o.style.visibility='visible';if(n){if(document.layers)document.captureEvents(Event.MOUSEDOWN);else document.onmousedown=OTH_v;}}
+	function OTH_o(a){var o=(document.getElementById?document.getElementById(OTH_CL):(document.all?document.all[OTH_CL]:document[OTH_CL]));var n=(OTH_CO==null);if(OTH_CF&&(a==OTH_CF))return false;if(!n){if(document.layers)OTH_CO.visibility='hide';else OTH_CO.style.visibility='hidden';}OTH_CO=o;OTH_CF=a;var d;if(a.name=='inDate'){d=new Date();d.setDate(d.getDate()+14);OTH_CSD=new Date();}else{d=new Date(OTH_CD.getFullYear(),OTH_CD.getMonth(),OTH_CD.getDate());d.setDate(d.getDate()+1);OTH_CSD=d;}OTH_r(d.getMonth()+1,d.getFullYear());OTH_m(o,OTH_x(a)+((OTH_w(a)-OTH_w(o))/2),OTH_y(a)-OTH_h(o)-2);if(document.layers)o.visibility='show';else o.style.visibility='visible';if(n){if(document.layers)document.captureEvents(Event.MOUSEDOWN);else document.onmousedown=OTH_v;}}
+	function OTH_v(e){if(OTH_CO==null)return;var x=(document.all?event.clientX+document.body.scrollLeft:e.pageX);var y=(document.all?event.clientY+document.body.scrollTop:e.pageY);if(!(OTH_i(OTH_CF,x,y,0,0,4,0)||OTH_i(OTH_CO,x,y)))OTH_c();}
+	function OTH_s(y,m,d){if(OTH_CO==null)return;OTH_CF.value=(m<10?'0':'')+m+'/'+(d<10?'0':'')+d+'/'+y;if(OTH_CF.name=='inDate')OTH_CD=new Date(y,m-1,d);OTH_c();}
+	function OTH_c(){if(document.layers)OTH_CO.visibility='hide';else OTH_CO.style.visibility='hidden';if(OTH_CO!=null){if(document.layers)document.releaseEvents(Event.MOUSEDOWN);else document.onmousedown=null;}OTH_CO=null;OTH_CF=null;}
+	function OTH_r(m,y){if(OTH_CO==null)return;var t_y=OTH_CSD.getFullYear();var t_m=OTH_CSD.getMonth()+1;var t_d=OTH_CSD.getDate();var d=new Date(y,m-1,1);var max=(m==2?28+((y%4==0)&&((y%100!=0)||(y%400==0))?1:0):30+(m<8?1-((m-1)%2):(m-1)%2));var html='<table border=0 cellpadding=1 cellspacing=0 bgcolor="#003366"><tr><td><table border=0 cellpadding=3 cellspacing=1 width=150><tr bgcolor="#003366"><td align=center><a href="javascript:void(0)" onclick="OTH_r(';html+=(m>1?m-1:12)+',' +(m>1?y:y-1)+')"><img src="http://www.onetime.com/images/a_left.gif" width=8 height=8 border=0></a></td><td colspan=5 align=center style="font:bold 11px sans-serif;color:white">';html+=OTH_MS[m-1]+' '+y+'</td><td align=center><a href="javascript:void(0)" onclick="OTH_r('+(m<12?m+1:1)+','+(m<12?y:y+1)+')"><img src="http://www.onetime.com/images/a_right.gif" width=8 height=8 border=0></a></td></tr><tr bgcolor="#e1e1e1">';html+='<td align=center style="font:10px sans-serif">S</td><td align=center style="font:10px sans-serif">M</td><td align=center style="font:10px sans-serif">T</td><td align=center style="font:10px sans-serif">W</td><td align=center style="font:10px sans-serif">T</td><td align=center style="font:10px sans-serif">F</td><td align=center style="font:10px sans-serif">S</td></tr>';var offset=d.getDay()+1;var count=1,i,a;for (i=1;i<=max;i++){if(count==1)html+='<tr bgcolor=white>';if((i==1)&&(offset>1)){html+='<td colspan='+(offset-1)+' bgcolor="#e1e1e1" style="font-size:9px">&nbsp;</td>';count=offset;}a=((y>t_y)||((y==t_y)&&((m>t_m)||((m==t_m)&&(i>=t_d)))));html+='<td align=center style="font:'+(a?'bold 10px sans-serif"><a href="javascript:void(0)" onclick="OTH_s('+y+','+m+','+i+')">':'10px sans-serif;color:gray">')+i+(a?'</a>':'')+'</td>';if((i==max)&&(count<7)){html+='<td colspan='+(7-count)+' bgcolor="#e1e1e1" style="font-size:9px">&nbsp;</td>';count=7;}count++;if(count>7){count=1;html+='</tr>';}}html+='</table></td></tr></table>';if(document.layers){OTH_CO.document.open('text/html');OTH_CO.document.write(html);OTH_CO.document.close();}else OTH_CO.innerHTML=html;}
+	function OTH_d(d,n){if(!d.value){alert('Please add a valid '+n+'.');return false;}var e1,e2;if((e1=d.value.match(/^(1[0-2]|0?[1-9])\/(3[01]|[12][0-9]|0?[1-9])\/((20)?[0-9]{2})$/))||(e2=d.value.match(/^(3[01]|[12][0-9]|0?[1-9])\.\s*(1[0-2]|0?[1-9])\.\s*((20)?[0-9]{2})$/))){var d,m,y;if(e1){d=Number(e1[2]);m=Number(e1[1]);y=Number(e1[3]);}else{d=Number(e2[1]);m=Number(e2[2]);y=Number(e2[3]);}y=(y<2000?y+2000:y);if(d>(m==2?28+((y%4==0)&&((y%100!=0)||(y%400==0))?1:0):30+(m<8?1-((m-1)%2):(m-1)%2))){alert('The '+n+' does not seem to be a valid date.');return false;}d.value=(m<10?'0':'')+m+'/'+(d<10?'0':'')+d+'/'+y;}else{alert('The '+n+' does not seem to be a valid date.\nPlease provide a date in either the format\n"mm/dd/yyyy" or "dd. mm. yyyy".');return false;}return true;}
+	function OTH_t(f){if(f.city&&(!f.city.value)){alert('Please provide a city name\nfor your hotel search.');return false;}if(!OTH_d(f.inDate,'Check-In Date'))return false;if(!OTH_d(f.outDate,'Check-Out Date'))return false;var d1=f.inDate.value.match(/^(1[0-2]|0[1-9])\/(3[01]|[12][0-9]|0[1-9])\/(20[0-9]{2})$/);var d2=f.outDate.value.match(/^(1[0-2]|0[1-9])\/(3[01]|[12][0-9]|0[1-9])\/(20[0-9]{2})$/);if((d2[3]<d1[3])||((d2[3]==d1[3])&&((d2[1]<d1[1])||((d2[1]==d1[1])&&(d2[2]<=d1[2]))))){alert('The Check-Out Date must be AFTER the Check-In Date.\nPlease correct and try again.');return false;}return true;}
+	// -->
+
+	d.write('<table bgcolor="#F2F7FA" width="470" cellpadding="0" cellspacing="0"><tr height="19"><td width="220" align="right" valign="top"><img src="/common/images/flightSearch.gif" width="220" height="19"><br></td><td width="100%" bgcolor="#CCE0EB" align="left" valign="top">&nbsp;<a href="http://www.oneTime.com" class="flightSearchText">by oneTime.com</a></td></tr><tr><td colspan="2" width="100%" align="right" valign="top"><img src="/common/images/spacer.gif" width="220" height="5"><br></td></tr></table>');
+
+	d.write('<table bgcolor="#F2F7FA" width="470" cellpadding="0" cellspacing="0" border="0"><tr><td width="25%" align="left" valign="top"><span class="flightSearchText">City:</span></td><td width="23%" align="left" valign="top"><span class="flightSearchText">Check-in Date:</span></td><td width="25%" align="left" valign="top"><span class="flightSearchText">Check-out Date:</span></td><td width="10%" align="left" valign="top"><span class="flightSearchText">Guests:</span></td><td width="17%" align="left" valign="top"></td></tr><tr><td width="25%" align="middle" valign="top"><input style="font:9px sans-serif" type=text name="city" size=16></td><td width="23%" align="middle" valign="top"><input style="font:9px sans-serif" size=12 onfocus="if(this.value==\'mm/dd/yyyy\')this.value=\'\';OTH_o(this)" onblur="if(this.value==\'\')this.value=\'mm/dd/yyyy\'" type=text value="mm/dd/yyyy" name="inDate"></td><td width="25%" align="middle" valign="top"><input style="font:9px sans-serif" size=12 onfocus="if(this.value==\'mm/dd/yyyy\')this.value=\'\';OTH_o(this)" onblur="if(this.value==\'\')this.value=\'mm/dd/yyyy\'" type=text value="mm/dd/yyyy" name="outDate"></td><td width="10%" align="middle" valign="top"><select style="font:9px sans-serif" name="guests"><option>1</option><option>2</option><option>3</option><option>4</option></select></td><td width="17%" align="middle" valign="top"><input type="image" src="/common/images/flightSearchButton.gif" onclick="return OTH_t(this.form); document.flightSearchform2.submit;"></td></tr><tr><td colspan="5" width="100%" align="right" valign="top"><img src="/common/images/spacer.gif" width="220" height="10"><br></td></tr></table>');
+	d.write('</form>');
+	d.write('	<!-- OT CODE END -->');
+
+
+	
+	d.write('<div id="OTF_C" style="position:absolute;top:0;left:0;z-index:100"></div><form name="flightSearchform1" method=get action="http://www.onetime.com/flights" target=_blank style="margin:0"><input type=hidden name="sid" value="104">');
+	//<!--
+		OTF_CL='OTF_C';OTF_CO=null;OTF_CF=null;OTF_CD=new Date();OTF_CSD=new Date();OTF_MS=new Array('JANUARY','FEBRUARY','MARCH','APRIL','MAY','JUNE','JULY','AUGUST','SEPTEMBER','OCTOBER','NOVEMBER','DECEMBER');
+			function OTF_x(o){if(document.layers)return o.left;return o.offsetLeft+(o.offsetParent?OTF_x(o.offsetParent):0);}
+			function OTF_y(o){if(document.layers)return o.top;return o.offsetTop+(o.offsetParent?OTF_y(o.offsetParent):0);}
+			function OTF_w(o){if(document.layers)return o.clip.width;return o.offsetWidth;}
+			function OTF_h(o){if(document.layers)return o.clip.height;return o.offsetHeight;}
+			function OTF_m(o,x,y){if(document.layers)o.moveToAbsolute(x,y);else if(o.style.left&&(!o.style.pixelLeft)){o.style.left=x+'px';o.style.top=y+'px';}else{o.style.pixelLeft=x;o.style.pixelTop=y;}}
+			function OTF_i(o,x,y,dx1,dy1,dx2,dy2){var l=OTF_x(o);var t=OTF_y(o);return ((x-(dx1?dx1:0)>=l)&&(y-(dy1?dy1:0)>=t)&&(x-(dx2?dx2:0)<l+OTF_w(o))&&(y-(dy2?dy2:0)<t+OTF_h(o)));}
+			//function OTF_o(a){var o=(document.getElementById?document.getElementById(OTF_CL):(document.all?document.all[OTF_CL]:document[OTF_CL]));var n=(OTF_CO==null);if(OTF_CF&&(a==OTF_CF))return false;if(!n){if(document.layers)OTF_CO.visibility='hide';else OTF_CO.style.visibility='hidden';}OTF_CO=o;OTF_CF=a;var d;if(a.name=='departureDate'){d=new Date();d.setDate(d.getDate()+14);OTF_CSD=new Date();}else{d=new Date(OTF_CD.getFullYear(),OTF_CD.getMonth(),OTF_CD.getDate());d.setDate(d.getDate()+1);OTF_CSD=d;}OTF_r(d.getMonth()+1,d.getFullYear());OTF_m(o,OTF_x(a)-2,OTF_y(a)-OTF_h(o)-2);if(document.layers)o.visibility='show';else o.style.visibility='visible';if(n){if(document.layers)document.captureEvents(Event.MOUSEDOWN);else document.onmousedown=OTF_v;}} 
+			function OTF_o(a){var o=(document.getElementById?document.getElementById(OTF_CL):(document.all?document.all[OTF_CL]:document[OTF_CL]));var n=(OTF_CO==null);if(OTF_CF&&(a==OTF_CF))return false;if(!n){if(document.layers)OTF_CO.visibility='hide';else OTF_CO.style.visibility='hidden';}OTF_CO=o;OTF_CF=a;var d;if(a.name=='departureDate'){d=new Date();d.setDate(d.getDate()+14);OTF_CSD=new Date();}else{d=new Date(OTF_CD.getFullYear(),OTF_CD.getMonth(),OTF_CD.getDate());d.setDate(d.getDate()+1);OTF_CSD=d;}OTF_r(d.getMonth()+1,d.getFullYear());OTF_m(o,OTF_x(a)+((OTF_w(a)-OTF_w(o))/2),OTF_y(a)-OTF_h(o)-2);if(document.layers)o.visibility='show';else o.style.visibility='visible';if(n){if(document.layers)document.captureEvents(Event.MOUSEDOWN);else document.onmousedown=OTF_v;}}
+
+			function OTF_v(e){if(OTF_CO==null)return;var x=(document.all?event.clientX+document.body.scrollLeft:e.pageX);var y=(document.all?event.clientY+document.body.scrollTop:e.pageY);if(!(OTF_i(OTF_CF,x,y,0,0,4,0)||OTF_i(OTF_CO,x,y)))OTF_c();}
+			function OTF_s(y,m,d){if(OTF_CO==null)return;OTF_CF.value=(m<10?'0':'')+m+'/'+(d<10?'0':'')+d+'/'+y;if(OTF_CF.name=='departureDate')OTF_CD=new Date(y,m-1,d);OTF_c();}
+			function OTF_c(){if(document.layers)OTF_CO.visibility='hide';else OTF_CO.style.visibility='hidden';if(OTF_CO!=null){if(document.layers)document.releaseEvents(Event.MOUSEDOWN);else document.onmousedown=null;}OTF_CO=null;OTF_CF=null;}
+			function OTF_r(m,y){if(OTF_CO==null)return;var t_y=OTF_CSD.getFullYear();var t_m=OTF_CSD.getMonth()+1;var t_d=OTF_CSD.getDate();var d=new Date(y,m-1,1);var max=(m==2?28+((y%4==0)&&((y%100!=0)||(y%400==0))?1:0):30+(m<8?1-((m-1)%2):(m-1)%2));var html='<table border=0 cellpadding=1 cellspacing=0 bgcolor="#003366"><tr><td><table border=0 cellpadding=3 cellspacing=1 width=150><tr bgcolor="#003366"><td align=center><a href="javascript:void(0)" onclick="OTF_r(';html+=(m>1?m-1:12)+',' +(m>1?y:y-1)+')"><img src="http://www.onetime.com/images/a_left.gif" width=8 height=8 border=0></a></td><td colspan=5 align=center style="font:bold 11px sans-serif;color:white">';html+=OTF_MS[m-1]+' '+y+'</td><td align=center><a href="javascript:void(0)" onclick="OTF_r('+(m<12?m+1:1)+','+(m<12?y:y+1)+')"><img src="http://www.onetime.com/images/a_right.gif" width=8 height=8 border=0></a></td></tr><tr bgcolor="#e1e1e1">';html+='<td align=center style="font:10px sans-serif">S</td><td align=center style="font:10px sans-serif">M</td><td align=center style="font:10px sans-serif">T</td><td align=center style="font:10px sans-serif">W</td><td align=center style="font:10px sans-serif">T</td><td align=center style="font:10px sans-serif">F</td><td align=center style="font:10px sans-serif">S</td></tr>';var offset=d.getDay()+1;var count=1,i,a;for (i=1;i<=max;i++){if(count==1)html+='<tr bgcolor=white>';if((i==1)&&(offset>1)){html+='<td colspan='+(offset-1)+' bgcolor="#e1e1e1"><font size=1>&nbsp;</td>';count=offset;}a=((y>t_y)||((y==t_y)&&((m>t_m)||((m==t_m)&&(i>=t_d)))));html+='<td align=center style="font:'+(a?'bold 10px sans-serif"><a href="javascript:void(0)" onclick="OTF_s('+y+','+m+','+i+')">':'10px sans-serif;color:gray">')+i+(a?'</a>':'')+'</td>';if((i==max)&&(count<7)){html+='<td colspan='+(7-count)+' bgcolor="#e1e1e1"><font size=1>&nbsp;</td>';count=7;}count++;if(count>7){count=1;html+='</tr>';}}html+='</table></td></tr></table>';if(document.layers){OTF_CO.document.open('text/html');OTF_CO.document.write(html);OTF_CO.document.close();}else OTF_CO.innerHTML=html;}
+			function OTF_d(d,n){if(!d.value){alert('Please add a valid '+n+'.');return false;}var e1,e2;if((e1=d.value.match(/^(1[0-2]|0?[1-9])\/(3[01]|[12][0-9]|0?[1-9])\/((20)?[0-9]{2})$/))||(e2=d.value.match(/^(3[01]|[12][0-9]|0?[1-9])\.\s*(1[0-2]|0?[1-9])\.\s*((20)?[0-9]{2})$/))){var d,m,y;if(e1){d=Number(e1[2]);m=Number(e1[1]);y=Number(e1[3]);}else {d=Number(e2[1]);m=Number(e2[2]);y=Number(e2[3]);}y=(y<2000?y+2000:y);if(d>(m==2?28+((y%4==0)&&((y%100!=0)||(y%400==0))?1:0):30+(m<8?1-((m-1)%2):(m-1)%2))){alert('The '+n+' does not seem to be a valid date.');return false;}d.value=(m<10?'0':'')+m+'/'+(d<10?'0':'')+d+'/'+y;}else{alert('The '+n+' does not seem to be a valid date.\nPlease provide a date in either the format\n"mm/dd/yyyy" or "dd. mm. yyyy".');return false;}return true;}
+			function OTF_t(f){if((f.from&&(!f.from.value))||(f.to&&(!f.to.value))){alert('Please provide city names or airport codes\nfor your flight search.');return false;}if(!OTF_d(f.departureDate,'Departure Date'))return false;if(!OTF_d(f.returnDate,'Return Date'))return false;var d1=f.departureDate.value.match(/^(1[0-2]|0[1-9])\/(3[01]|[12][0-9]|0[1-9])\/(20[0-9]{2})$/);var d2=f.returnDate.value.match(/^(1[0-2]|0[1-9])\/(3[01]|[12][0-9]|0[1-9])\/(20[0-9]{2})$/);if((d2[3]<d1[3])||((d2[3]==d1[3])&&((d2[1]<d1[1])||((d2[1]==d1[1])&&(d2[2]<d1[2]))))){alert('The Return Date must be ON OR AFTER the Departure Date.\nPlease correct and try again.');return false;}return true;}
+			// -->
+
+			d.write('<table bgcolor="#F2F7FA" width="470" cellpadding="0" cellspacing="0" bgcolor="><tr><td colspan="2"><img src="/common/images/spacer.gif" width="10" height="5"><br></td></tr><tr height="19"><td width="221" align="right" valign="top"><img src="/common/images/wxNetworkFlighSearch.gif" width="221" height="19"><br></td><td bgcolor="#ffffff" width="100%" align="left" valign="top"><a href="http://www.oneTime.com" class="flightSearchText">by oneTime.com</a></td></tr></table>');
+			d.write('<table bgcolor="#F2F7FA" width="470" cellpadding="0" cellspacing="0"><tr><td colspan="6"><img src="/common/images/spacer.gif" width="10" height="5"><br></td></tr><tr><td width="8%" align="left" valign="top"><span class="flightSearchText">From:</span></td><td width="8%" align="left" valign="top"><span class="flightSearchText">To:</span></td><td colspan="2" width="53%" align="middle" valign="top"><span class="flightSearchText">Departure Date:</span></td><td width="10%" align="left" valign="top"><span class="flightSearchText">Passengers:</span></td><td width="17%" align="left" valign="top"><br></td></tr><tr><td width="8%" align="middle" valign="top"><input type=text name="from" style="font:9px sans-serif" size=6></td><td width="8%" align="middle" valign="top"><input type=text name="to" style="font:9px sans-serif" size=6></td><td colspan="2" width="53%" align="middle" valign="top"><input type=text name="departureDate" value="mm/dd/yyyy" size=6 onfocus="if(value==\'mm/dd/yyyy\')value=\'\';OTF_o(this)" onblur="if(value==\'\')value=\'mm/dd/yyyy\'" style="font:9px sans-serif">&nbsp;<select name="departureTime" style="font:9px sans-serif"><option value="0">Anytime</option><option value="-1">Morning</option><option value="-2">Afternoon</option><option value="-3">Evening</option><option value="24">Midnight</option><option value="1">01:00 AM</option><option value="2">02:00 AM</option><option value="3">03:00 AM</option><option value="4">04:00 AM</option><option value="5">05:00 AM</option><option value="6">06:00 AM</option><option value="7">07:00 AM</option><option value="8">08:00 AM</option><option value="9">09:00 AM</option><option value="10">10:00 AM</option><option value="11">11:00 AM</option><option value="12">Noon</option><option value="13">01:00 PM</option><option value="14">02:00 PM</option><option value="15">03:00 PM</option><option value="16">04:00 PM</option><option value="17">05:00 PM</option><option value="18">06:00 PM</option><option value="19">07:00 PM</option><option value="20">08:00 PM</option><option value="21">09:00 PM</option><option value="22">10:00 PM</option><option value="23">11:00 PM</option></select></td><td width="10%" align="middle" valign="top"><select name="passengers" style="font:9px sans-serif"><option>1</option><option>2</option><option>3</option><option>4</option></select>  </td><td width="17%" align="middle" valign="top"><input type="image" src="/common/images/flightSearchButton.gif" onclick="return OTF_t(this.form); document.flightSearchform1.submit()"></td></tr><tr><td colspan="6"><img src="/common/images/spacer.gif" width="10" height="5"><br></td></tr><tr><td width="8%" align="left" valign="top"></td><td width="8%" align="left" valign="top"></td><td colspan="2" width="53%" align="middle" valign="top"><span class="flightSearchText">Arrival Date:</span></td><td width="10%" align="left" valign="top"><span class="flightSearchText"></span></td><td width="17%" align="left" valign="top"><br></td></tr><tr><td width="8%" align="left" valign="top"></td><td width="8%" align="left" valign="top"></td><td colspan="2" width="53%" align="middle" valign="top"><input type=text name="returnDate" value="mm/dd/yyyy" size=6 onfocus="if(value==\'mm/dd/yyyy\')value=\'\';OTF_o(this)" onblur="if(value==\'\')value=\'mm/dd/yyyy\'" style="font:9px sans-serif">&nbsp;<select name="returnTime" style="font:9px sans-serif"><option value="0">Anytime</option><option value="-1">Morning</option><option value="-2">Afternoon</option><option value="-3">Evening</option><option value="24">Midnight</option><option value="1">01:00 AM</option><option value="2">02:00 AM</option><option value="3">03:00 AM</option><option value="4">04:00 AM</option><option value="5">05:00 AM</option><option value="6">06:00 AM</option><option value="7">07:00 AM</option><option value="8">08:00 AM</option><option value="9">09:00 AM</option><option value="10">10:00 AM</option><option value="11">11:00 AM</option><option value="12">Noon</option><option value="13">01:00 PM</option><option value="14">02:00 PM</option><option value="15">03:00 PM</option><option value="16">04:00 PM</option><option value="17">05:00 PM</option><option value="18">06:00 PM</option><option value="19">07:00 PM</option><option value="20">08:00 PM</option><option value="21">09:00 PM</option><option value="22">10:00 PM</option><option value="23">11:00 PM</option></select></td><td width="10%" align="left" valign="top"><span class="flightSearchText"></span></td><td width="17%" align="left" valign="top"><br></td></tr></table>');
+			d.write('</td></tr></table>');
+			d.write('</form>');
+
+	}
+</script>
+<img src="/common/images/spacer.gif" width="30" height="75"><br></td></tr>
 <tr><td align="center">
 <p><br>
 <script>
 	var showBannerPercentage = 50;
 
-	if (area != "floods" && area != "ski" && area != "snow") {
+	if ((sponsorship != "yes") && (area != "about")) {
+		Adtype = "banner";
+		client = "";
+
+		if (Math.round(Math.random()*100) <= showBannerPercentage) {
+		d.write('<SCR'+'IPT SRC="http://a'+'ds.weather.ca/jserver/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ=468X60B/SECTOR='+sector+'/CITY='+cityName+'/acc_random=' + BannerNum + '?" LANGUAGE="JavaScript1.1">');
+		d.write('</SCR'+'IPT>');
+		//document.write('<iframe src="/common/includes/a'+'ds.htm?type='+Adtype+'/pageid='+PageID+'/width=468/height=60B/client='+client+'/area='+area+'/sector='+sector+'/cityName='+cityName+'" noresize scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width = "468" height = "60">');
+		//document.write('<a href="http://a'+'ds.weather.ca/accipiter/a'+'dclick/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ=468X60B/client='+client+'/SECTOR='+sector+'/CITY='+cityName+'?" target="_top">');
+		//document.write('<img src="http://a'+'ds.weather.ca/accipiter/nserver/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ=468X60B/client='+client+'/SECTOR='+sector+'/CITY='+cityName+'?" BORDER="0" HEIGHT="60" WIDTH="468"></a>');
+		//document.write('</iframe>');
+		}		
+	}
+	
+</script><script src="http://ads.weather.ca/jserver/SITE=twn/pageid=247429/AREA=ros/AAMSZ=468X60B/SECTOR=nil/CITY=nil/acc_random=159294?" language="JavaScript1.1"></script>
+</p></td></tr>
+<tr><td align="center">
+<p><br>
+<script>
+	var showBannerPercentage = 70;
+
+	if ((area != "tcam")) {
 		Adtype = "banner";
 		client = "";
 
@@ -296,8 +421,7 @@ if ( area == "hwycond" && sector == "AB") {
 			document.write('</iframe>');
 		}		
 	}
-	
-</script>
+</script><iframe src="/common/includes/ads.htm?type=banner/pageid=247429/width=468/height=60B/client=/area=ros/sector=nil/cityName=nil" noresize="" scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width="468" height="60"><a href="http://ads.weather.ca/accipiter/adclick/SITE=twn/pageid=247429/AREA=ros/AAMSZ=468X60B/client=/SECTOR=nil/CITY=nil?" target="_top"><img src="http://ads.weather.ca/accipiter/nserver/SITE=twn/pageid=247429/AREA=ros/AAMSZ=468X60B/client=/SECTOR=nil/CITY=nil?" BORDER="0" HEIGHT="60" WIDTH="468"></a></iframe>
 </p></td></tr>
 
 			</tbody></table> 
@@ -306,22 +430,34 @@ if ( area == "hwycond" && sector == "AB") {
 		<!-- Right CONTENT (Ads + Local NavBar & other stuff) -->
 		<td width="300" align="right" valign="top">
 			<!-- This version remove parameters to plp.js -->
+<script>
+// Switch that variable to "false" to bypass the call to the server-side perl script
+var enableDynamicNavigation = true;
+</script>
 <script>buildMenu=true;</script>
 <script type="text/javascript" src="/common/scripts/features.js"></script>
 <script type="text/javascript" src="/common/scripts/rightContent.js"></script>
 <script type="text/javascript" src="/common/scripts/buildingmenu.js"></script>
 
 <table border="0" cellpadding="0" cellspacing="0">
+
 	<tbody><tr>
-		<td colspan="3" bgcolor="#DBDFEB" width="100%" height="1"><img src="/common/images/spacer.gif" width="300" height="1"></td>
-	</tr>
-	<tr>
 		<td>
 			<table border="0" cellpadding="0" cellspacing="0" bgcolor="#326896" width="300">
-				<tbody><tr><td>
+				<tbody><tr><td align="top">
+		<table border="0" cellpadding="0" cellspacing="0" bgcolor="#000066" width="300">	
+		<tbody><tr><td align="top">
+		<script>				
+		if (sponsorship != "yes"){
+		d.write('<SCR'+'IPT SRC="http://a'+'ds.weather.ca/jserver/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ=BOX_EXPANDABLE/SECTOR='+sector+'/CITY='+cityName+'/acc_random=' + BannerNum + '?" LANGUAGE="JavaScript1.1">');
+		d.write('</SCR'+'IPT>');
+		}
+		</script><script src="http://ads.weather.ca/jserver/SITE=twn/pageid=247429/AREA=ros/AAMSZ=BOX_EXPANDABLE/SECTOR=nil/CITY=nil/acc_random=159294?" language="JavaScript1.1"></script>
+		</td></tr></tbody></table>
+		
 <script type="text/javascript" src="/common/scripts/checkingtype.js"></script>
 </td><td colspan="2" bgcolor="#000066"><center>
-<iframe src="/common/includes/ads.htm?type=box/pageid=762049/width=300/height=250/client=/area=ros/sector=nil/cityName=nil" noresize="" scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width="300" height="250"><a href="http://ads.weather.ca/accipiter/adclick/SITE=twn/pageid=762049/AREA=ros/AAMSZ=300X250/SECTOR=nil/CITY=nil?" target="_top"><img src="http://ads.weather.ca/accipiter/nserver/SITE=twn/pageid=762049/AREA=ros/AAMSZ=300X250/SECTOR=nil/CITY=nil?" BORDER="0" HEIGHT="250" WIDTH="300"></a></iframe><br>
+<iframe src="/common/includes/ads.htm?type=box/pageid=247429/width=300/height=250/client=/area=ros/sector=nil/cityName=nil" noresize="" scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width="300" height="250"><a href="http://ads.weather.ca/accipiter/adclick/SITE=twn/pageid=247429/AREA=ros/AAMSZ=300X250/SECTOR=nil/CITY=nil?" target="_top"><img src="http://ads.weather.ca/accipiter/nserver/SITE=twn/pageid=247429/AREA=ros/AAMSZ=300X250/SECTOR=nil/CITY=nil?" BORDER="0" HEIGHT="250" WIDTH="300"></a></iframe><br>
 </center></td>
 </tr>
 <tr><td bgcolor="#000066" class="RightHandTitle" colspan="2" height="26"><font face="verdana" size="2" color="#ffcc33"><b>QUICK LINKS</b><br></font></td></tr>
@@ -387,7 +523,7 @@ if ( area == "hwycond" && sector == "AB") {
 
 </td>
 
-<td valign="top"><iframe src="/common/includes/ads.htm?type=tower/pageid=762049/width=120/height=600/client=/area=ros/sector=nil/cityName=nil" noresize="" scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width="120" height="600"><a href="http://ads.weather.ca/accipiter/adclick/SITE=twn/pageid=762049/AREA=ros/AAMSZ=120X600/SECTOR=nil/CITY=nil?" target="_top"><img src="http://ads.weather.ca/accipiter/nserver/SITE=twn/pageid=762049/AREA=ros/AAMSZ=120X600/SECTOR=nil/CITY=nil?" BORDER="0" HEIGHT="600" WIDTH="120"></a></iframe><br>
+<td valign="top"><iframe src="/common/includes/ads.htm?type=tower/pageid=247429/width=120/height=600/client=/area=ros/sector=nil/cityName=nil" noresize="" scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width="120" height="600"><a href="http://ads.weather.ca/accipiter/adclick/SITE=twn/pageid=247429/AREA=ros/AAMSZ=120X600/SECTOR=nil/CITY=nil?" target="_top"><img src="http://ads.weather.ca/accipiter/nserver/SITE=twn/pageid=247429/AREA=ros/AAMSZ=120X600/SECTOR=nil/CITY=nil?" BORDER="0" HEIGHT="600" WIDTH="120"></a></iframe><br>
 </td>
 </tr>
 
@@ -410,14 +546,14 @@ if ( area == "hwycond" && sector == "AB") {
 		<td width="300"><img src="/common/images/spacer.gif" width="300" height="1">
 		<center>
 		<script>
-			if ((area != "floods") || (area != "ski") || (area != "snow")) {
+			if ((area != "floods") && (area != "pollen") && (area != "gardening")) {
 				d.write('<');
 				d.write('SCRIPT SRC="http://a'+'ds.weather.ca/jserver/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ=VOKEN/SECTOR='+sector+'/CITY='+cityName+'/acc_random=' + BannerNum + '?" LANGUAGE="JavaScript1.1">');
 				d.write('</');
 				d.write('script>');
 			}
 
-		</script><script src="http://ads.weather.ca/jserver/SITE=twn/pageid=762049/AREA=ros/AAMSZ=VOKEN/SECTOR=nil/CITY=nil/acc_random=12614?" language="JavaScript1.1"></script>
+		</script><script src="http://ads.weather.ca/jserver/SITE=twn/pageid=247429/AREA=ros/AAMSZ=VOKEN/SECTOR=nil/CITY=nil/acc_random=159294?" language="JavaScript1.1"></script>
 		</center>
 		</td>
 	</tr>
