@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the aplus.net privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208013105id_/http%3A//www.aplus.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aplus.net privacy policy that was archived on 2005-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050530011757id_/http%3A//www.aplus.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
+
+| 
 
 Privacy Statement
 
@@ -39,4 +41,6 @@ San Diego, CA. 92121
 
 [](http://www.aplus.net/en/static/docs/Privacy.pdf) | Click here to download a PDF version of this document.  
 ---|---  
-_Note: Adobe Reader is required to view this file. If you do not have this plugin, please download Adobe Reader[ _here_](http://www.adobe.com/products/acrobat/readstep.html)._
+_Note: Adobe Reader is required to view this file. If you do not have this plugin, please download Adobe Reader[ _here_](http://www.adobe.com/products/acrobat/readstep.html)._  
+|   
+---
