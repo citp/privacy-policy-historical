@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1second.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208034318id_/http%3A//www.1second.com/ppc-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1second.com privacy policy that was archived on 2005-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050529112827id_/http%3A//www.1second.com/ppc-privacy.htm) for the most accurate reproduction.*
 
 # 1second.com and 1America Mall Privacy Policy
 
