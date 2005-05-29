@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the jibjab.com privacy policy that was archived on 2004-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041231093911id_/http%3A//www.jibjab.com/thislandprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jibjab.com privacy policy that was archived on 2005-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050529020759id_/http%3A//www.jibjab.com/privacy.asp) for the most accurate reproduction.*
 
 # JibJab.com
+
+| 
+
+**Privacy Policy**
 
 At JibJab Media Inc. ("JibJab"), we respect your right to privacy and we understand that visitors to JibJab Sites need to control the uses of their personal information. The privacy policy below details the measures taken by JibJab to protect your privacy in connection with your use of [www.JibJab.com](http://www.jibjab.com/) and other sites owned and operated by JibJab ("JibJab Sites").  JibJab does not intend to collect any personal information from children under 13 unless JibJab believes such collection to be permitted by law; please read below for JibJab's policy with respect to children under 13. 
 
@@ -58,7 +62,7 @@ _What else should I know about my privacy?_
 
 Security. JibJab has security measures in place to protect the loss, misuse and alteration of the information under our control. These include a firewall to prevent unauthorized access to our systems and maintenance of registration information in a separate database. Although we will exercise reasonable care in providing secure transmission of information between your computer and our servers, we cannot ensure or warrant the security of any information transmitted to us over the Internet and we accept no liability for any unintentional disclosure. We will protect the transmission of credit card information through industry standard, SSL (secure socket layer) encryption. 
 
-Chat Rooms and Other Public Areas. JibJab may offer chat, user reviews, multi-player games, bulletin board, or other public functions and any posting by you is considered public information available to other users. Any posting is governed by JibJab's [Terms of Service](https://web.archive.org/web/20041231093911id_/http%3A//www.jibjab.com/thislandterms.htm). You should take care to not use personal information in your screen name or other information that might be publicly available to other users.
+Chat Rooms and Other Public Areas. JibJab may offer chat, user reviews, multi-player games, bulletin board, or other public functions and any posting by you is considered public information available to other users. Any posting is governed by JibJab's [Terms of Service](https://web.archive.org/web/20050529020759id_/http%3A//www.jibjab.com/thislandterms.htm). You should take care to not use personal information in your screen name or other information that might be publicly available to other users.
 
 Tell a Friend. If a user elects to use our referral service for informing a friend about our site or particular features or content, we ask them for the friend's name and email address. JibJab will automatically send the friend a one-time email inviting them to visit a JibJab Site. JibJab stores this information for the sole purpose of sending this one-time email. 
 
@@ -74,11 +78,11 @@ You can e-mail JibJab at [inquire@JibJab.com](mailto:inquire@JibJab.com) or you 
 
 JibJab Media Inc.  
 Attn: JibJab Privacy  
-1739 Berkeley Street, Suite 110A  
+P.O. Box 5356  
 Santa Monica, CA 90404  USA
 
 _Acceptance of Privacy Statement._ __
 
-Your use of the JibJab Sites, including any dispute concerning privacy, is subject to this Privacy Statement and JibJab's Terms and Conditions of Use. [By using the JibJab Sites, you are accepting the practices set out in this Privacy Statement and those Terms and Conditions of Use](https://web.archive.org/web/20041231093911id_/http%3A//www.jibjab.com/thislandterms.htm). We reserve the right to modify this Privacy Statement at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the statement has been modified since you last reviewed it. Your continued use of any portion of the JibJab Sites following posting of the updated Privacy Statement will constitute your acceptance of the changes.
+Your use of the JibJab Sites, including any dispute concerning privacy, is subject to this Privacy Statement and JibJab's Terms and Conditions of Use. [By using the JibJab Sites, you are accepting the practices set out in this Privacy Statement and those Terms and Conditions of Use](https://web.archive.org/web/20050529020759id_/http%3A//www.jibjab.com/thislandterms.htm). We reserve the right to modify this Privacy Statement at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the statement has been modified since you last reviewed it. Your continued use of any portion of the JibJab Sites following posting of the updated Privacy Statement will constitute your acceptance of the changes.
 
 Updated as of July 6, 2004
