@@ -1,0 +1,15 @@
+> *The following text is extracted and transformed from the nickhotel.com privacy policy that was archived on 2005-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050530074203id_/http%3A//www.nickhotel.com/privacy_policy.jsp) for the most accurate reproduction.*
+
+# Nick Hotel - Privacy Policy
+
+**What information do we collect, and how is it used?**
+
+We collect only the personal information that you supply to us voluntarily. When you inquire, reserve or request a brochure, map or e-mail updates, you may be asked to supply personal information that includes, but is not limited to, name, mailing address, telephone number or e-mail address. We may also request information such as arrival and departure dates and other similar or related information that will help to better judge your needs. 
+
+Nickhotel.com provides kids the opportunity to send electronic postcards featuring Nickelodeon characters to family or friends. We may ask for a first name, but we do not require kids to submit personally identifiable information about themselves in order to send an electronic postcard or for nickhotel.com to send email messages to family or friends. We do, however, ask kids to submit the email address of the recipient of such electronic postcards . 
+
+We use information we collect about you to process your reservation or request, respond to your inquiries, contact you about your reservation or other matters relating to your visit, send you information we believe will be of interest, complete and respond to employment applications you submit on-line, and generally understand how we can better serve you. 
+
+|  **Will Nickelodeon Family Suites by Holiday Inn disclose any information collected to outside parties?**
+
+We do not sell, trade, or rent your personal information to others. If this policy were to change in the future, we will change this posted policy and give you the option to remove your personal information. We may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third parties, but these statistics will not include any personally identifiable information. 
