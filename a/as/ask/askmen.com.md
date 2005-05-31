@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the askmen.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010035310id_/http%3A//www.askmen.com/mediakit/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askmen.com privacy policy that was archived on 2005-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050531205126id_/http%3A//www.askmen.com/mediakit/privacy.html) for the most accurate reproduction.*
 
 # AskMen.com - Privacy Policy
 
 ## AskMen.com Privacy Statement
+
+(Effective as of January 2005)
 
 Thank you for visiting AskMen.com. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this site. The AskMen.com web site is governed by this Privacy Notice. 
 
@@ -10,9 +12,11 @@ Thank you for visiting AskMen.com. Your privacy is important to us. To better pr
 
 At our site, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services. 
 
+Recipients of AskMen.com newsletters or other possible e-mail submissions may change the status of their subscription(s) and/or personal information at any time via an e-mail request to [newsletterquestion@askmen.com](mailto:newsletterquestion@askmen.com) or via the unsubscribe link at the bottom of every newsletter AskMen.com sends. Recipients can also resubscribe under a new e-mail address any time at <http://www.askmen.com/newsletter/sign_up/index.html> or via the e-mail address above. In the event of material changes to AskMen.com's e-mail practices, users will receive notification via e-mail and/or a notice on the site. 
+
 At our site, you can submit information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card and, if you order a gift online and want it sent to the recipient, you might submit the recipient's name and address. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address, and telephone number. 
 
-We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows '95 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink). 
+We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows '95 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink).
 
 ### How We Use the Information
 
@@ -44,12 +48,32 @@ Some of our sites contain links to other sites whose information practices may b
 
 AskMen.com sites sometimes may offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the contest, sweepstakes, or promotion. AskMen.com has no control over the third-party sponsors' use of this information. The AskMen.com site will notify you at the time of requesting personally identifiable information if third-party sponsors will obtain such information. 
 
+"We use third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.sonar.com/content/privacy.htm)" 
+
+**Third Party Advertising: Maxworldwide - Privacy Policy**  
+This site, AskMen.com, Maxworldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies [please click here](http://www.maxonline.com/privacy_policy/index.php). 
+
+Third Party Cookies  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+
+### Cookies
+
 To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. 
 
-We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services. 
+We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services.
 
 ### Our Commitment to Security
 
 We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. 
 
 ### How to Contact Us
+
+If you have any questions or concerns about the AskMen.com online policy for this site or its implementation you may contact us at [](mailto:privacy@askmen.com)[privacy@askmen.com](mailto:privacy@askmen.com). 
+
+AskMen.com  
+4200 St. Laurent, suite 709  
+Montreal, Quebec, Canada  
+H2W 2R2  
+   
+  
+
