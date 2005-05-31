@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topica.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204074354id_/http%3A//topica.com/privacy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topica.com privacy policy that was archived on 2005-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050531082954id_/http%3A//www.topica.com/privacy/privacy_policy.html) for the most accurate reproduction.*
 
 # Topica: Privacy
 
@@ -15,7 +15,7 @@ Questions regarding this statement should be directed to our [Privacy and Standa
 This policy effective as of July 7, 2004.
 
 What information does Topica collect?  
-You don't need to provide any information in order to browse the Topica directory, use the search functionality to find an email newsletter or discussion group, or view the archives of lists that the list publisher has chosen to make public. A public list is one whose archives are readable not only by subscribers, but by any visitor to the Topica site – whether registered or not. On all public lists viewable through the Topica Web site, the email addresses of participants are partially obscured so they are not obtainable by unauthorized visitors. A private list is one whose archives are only accessible to registered Topica users who are subscribed to that list. On both public and private lists, subscribers of any given list have access to one another's email addresses. It is the list owner's choice as to whether a list is public or private. 
+You don’t need to provide any information in order to browse the Topica directory, use the search functionality to find an email newsletter or discussion group, or view the archives of lists that the list publisher has chosen to make public. A public list is one whose archives are readable not only by subscribers, but by any visitor to the Topica site – whether registered or not. On all public lists viewable through the Topica Web site, the email addresses of participants are partially obscured so they are not obtainable by unauthorized visitors. A private list is one whose archives are only accessible to registered Topica users who are subscribed to that list. On both public and private lists, subscribers of any given list have access to one another’s email addresses. It is the list owner’s choice as to whether a list is public or private. 
 
 If you choose to start a list at Topica or subscribe to one, we will ask you to register. During registration, we ask you to provide the following information: name, email address, zip code, birth date, gender and country. 
 
@@ -45,7 +45,7 @@ Persistent cookies are used if you choose to enable the auto-login feature. Thes
 Session cookies help us keep track of when a person is logged in. Once a user is logged in, session cookies allow us to personalize information on our Web site for them, as well as keep track of lists to which they have subscription privileges.
 
 How can I change or delete information about me stored at Topica?  
-As a registered Topica user, you have easy access to your information, along with the ability to change it. And, you can always choose to unsubscribe from any list you've signed up to at Topica. 
+As a registered Topica user, you have easy access to your information, along with the ability to change it. And, you can always choose to unsubscribe from any list you’ve signed up to at Topica. 
 
 To change personal information: Log in to your "My Topica" account ([http:/lists.topica.com/my/](http://lists.topica.com/my/)). From the Preferences menu on the left, click the Password and User Profile link. Make any changes you like to your user profile, and save them when you are done. 
 
@@ -56,7 +56,7 @@ To terminate your Topica service: You may terminate all of your Topica subscript
 How can I unsubscribe from email lists at Topica?  
 There are three ways to unsubscribe from Topica lists. 
 
-  1. Use the Easy Unsubscribe link that appears at the bottom of every message you receive from a Topica list. Clicking the link takes you to an unsubscribe page at the Topica site, where you're asked to confirm that you want to unsubscribe. Click the confirmation link, and you are unsubscribed.
+  1. Use the Easy Unsubscribe link that appears at the bottom of every message you receive from a Topica list. Clicking the link takes you to an unsubscribe page at the Topica site, where you’re asked to confirm that you want to unsubscribe. Click the confirmation link, and you are unsubscribed.
   2. Use your "My Topica" account to unsubscribe. Log in to your "My Topica" account ([http:/lists.topica.com/my/](http://lists.topica.com/my/)). Look for the column called "Delivery Method," located to the right of the names of the lists you are subscribed to. Using the drop-down menu in the "Delivery Method" column, highlight "Unsubscribe," then go to the bottom of the page and click the "Save Changes" button.
   3. Send an email message to [listname]-unsubscribe@topica.com, where [listname] is replaced by the actual name of the list. For instance, if you were subscribed to a list called CarClub, you could remove yourself from the list by sending a message to the following address: CarClub-unsubscribe@topica.com
 
@@ -69,7 +69,7 @@ Third Party Partners
 We use third parties for the specific services below. These third parties are prohibited from using your personally identifiable information for any other purpose. 
 
 **SalesForce.com**  
-Topica works with SalesForce.com to organize requests for Sales contacts. If you request that a member of our Sales team contact you, we send your contact and other information to our account at SalesForce.com. SalesForce.com is an application service provider that many companies use to organize call-back requests, etc. They are prohibited from using your personally identifiable information for any other purpose. SalesForce.com participates in the TrustE Privacy Seal program. To learn more about SalesForce.com's privacy policies: 
+Topica works with SalesForce.com to organize requests for Sales contacts. If you request that a member of our Sales team contact you, we send your contact and other information to our account at SalesForce.com. SalesForce.com is an application service provider that many companies use to organize call-back requests, etc. They are prohibited from using your personally identifiable information for any other purpose. SalesForce.com participates in the TrustE Privacy Seal program. To learn more about SalesForce.com’s privacy policies: 
 
   * [SalesForce.com Frequently Asked Questions](http://www.salesforce.com/us/products/faq.jsp)
   * [SalesForce.com Privacy Policy](http://www.salesforce.com/us/statements.jsp?file=privacy&src=web&edition=)
@@ -79,8 +79,13 @@ Topica works with SalesForce.com to organize requests for Sales contacts. If you
 **Aptimus, Inc.**  
 Topica works with Aptimus to provide back-end processing services for our Top Offers mailing list. If you have signed up for the Top Offers newletter, we will transmit your e-mail address and certain other personal data such as name and gender to Aptimus to better deliver our Newsletter. Aptimus is prohibited from using this information for any other purpose. 
 
+Separately from this process, Topica also partners with Aptimus to offer Aptimus-sponsored third-party co-registration offers. These offers are labeled as being through Aptimus. Subscribers can choose whether to opt in to the various offers. If a subscriber elects to participate in such an offer, the information they supply through that opt-in process is forwarded to the third-party whose offer(s) the subscriber opts into and to Aptimus for their use. See [Aptimus’s Privacy Policy](http://www.aptimus.com/privacy.shtml). 
+
+**Adteractive**  
+Topica partners with Adteractive to offer Adteractive-sponsored third-party co-registration offers. These offers are labeled as being through Adteractive. Subscribers can choose whether to opt in to the various offers. If a subscriber elects to participate in such an offer, the information they supply through that opt-in process is forwarded to the third-party whose offer(s) the subscriber opts into and to Adteractive for their use. 
+
 **Verisign**  
-Topica uses Verisign to process credit card payments. If you pay for your Topica account by credit card, we send your credit card information to our Verisign account. Verisign is one of the most well-known companies doing credit card processing. Verisign is a licensee of the TRUSTe Privacy Program. [More about Verisign's privacy policies](http://www.verisign.com/truste/index.html?sl=071202). 
+Topica uses Verisign to process credit card payments. If you pay for your Topica account by credit card, we send your credit card information to our Verisign account. Verisign is one of the most well-known companies doing credit card processing. Verisign is a licensee of the TRUSTe Privacy Program. [More about Verisign’s privacy policies](http://www.verisign.com/truste/index.html?sl=071202). 
 
 Security Policy  
 The security of your personal information is important to us. Our web site protects sensitive information such as your login and credit card information using Internet industry standard encryption protocols to encrypt the information in transit.
