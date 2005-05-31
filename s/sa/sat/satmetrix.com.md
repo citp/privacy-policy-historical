@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the satmetrix.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209232711id_/http%3A//www.satmetrix.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satmetrix.com privacy policy that was archived on 2005-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050601010410id_/http%3A//www.satmetrix.com/privacy.html) for the most accurate reproduction.*
 
 # Satmetrix Systems' Press Release
 
@@ -46,7 +46,7 @@ In addition to the data we process on behalf of our Clients, Satmetrix also proc
 
 **1.** COLLECTION AND USE OF BUSINESS CONTACT DATA
 
-The individuals who represent Satmetrix's Clients or potential Clients ("Business Contacts") may voluntarily provide their contact information and related data (collectively "Business Contact Data") to Satmetrix by various means, including telephone, email, postal mail, the "contact us" or "download" page on the Satmetrix site, or other means. The Business Contact Data submitted to Satmetrix is used to communicate with and provide services for Clients and potential Clients. Satmetrix corrects or updates Business Contact Data when a request by the applicable Business Contact is emailed to [privacy@satmetrix.com](mailto:privacy@satmetrix.com) or mailed to Satmetrix Systems, Inc.; 100 View Street, Suite 200; Mountain View, CA 94041 USA. 
+The individuals who represent Satmetrix's Clients or potential Clients ("Business Contacts") may voluntarily provide their contact information and related data (collectively "Business Contact Data") to Satmetrix by various means, including telephone, email, postal mail, the "contact us" or "download" page on the Satmetrix site, or other means.The Business Contact Data submitted to Satmetrix is used to communicate with and provide services for Clients and potential Clients. Satmetrix corrects or updates Business Contact Data when a request by the applicable Business Contact is requested. To send a request please fill out the [privacy form](https://web.archive.org/web/20050601010410id_/http%3A//www.satmetrix.com/Customer-Experience-Management-Satmetrix-About-Feedback.html) or mail to Satmetrix Systems, Inc.; 950 Tower Lane, Suite 500, Foster City, CA 94404 USA. 
 
 When a Business Contact accesses reports through Satmetrix's servers, or otherwise uses the Satmetrix site, our servers may place persistent cookies on the Business Contact's computer in order to keep track of the Business Contact's personalized settings. 
 
@@ -75,11 +75,9 @@ If another company acquires Satmetrix or substantially all of its assets, that c
 
 **3.** QUESTIONS
 
-Questions, comments, or complaints about this Privacy Statement or Satmetrix's data practices may be emailed to [privacy@satmetrix.com](mailto:privacy@satmetrix.com) or mailed to Satmetrix Systems, Inc.; 100 View Street, Suite 200; Mountain View, CA 94041 USA. 
+Questions, comments, or complaints about this Privacy Statement or Satmetrix's data practices please fill out the [privacy form](https://web.archive.org/web/20050601010410id_/http%3A//www.satmetrix.com/Customer-Experience-Management-Satmetrix-About-Feedback.html) or mailed to Satmetrix Systems, Inc.; 950 Tower Lane, Suite 500, Foster City, CA 94404 USA. 
 
 Any questions, comments, or complaints about the data practices (including without limitation compliance with the data privacy principles of notice, choice, onward transfer, access, security, data integrity, or enforcement) of a Satmetrix Client for whom Satmetrix processes data, should be directed to that Client. 
-
-We participate in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of our participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If a complaint communicated to Satmetrix (as provided above) has not been satisfactorily addressed within a reasonable amount of time, the complaining party should contact TRUSTe by Internet at http://www.truste.org/users/watchdog.html, fax at 408-494-4960, or mail at WatchDog Complaints, TRUSTe, 1180 Coleman Ave, Suite 202, San Jose, CA, USA 95110. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see at http://www.truste.org/users/watchdog.html or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. TRUSTe will serve as a liaison with Satmetrix to resolve complaints. 
 
 **4.** **Notification of Changes**
 
