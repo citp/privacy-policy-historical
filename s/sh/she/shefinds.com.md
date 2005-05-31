@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shefinds.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204012338id_/http%3A//shefinds.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shefinds.com privacy policy that was archived on 2005-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050531215124id_/http%3A//www.shefinds.com/policy.html) for the most accurate reproduction.*
 
 # SheFinds.com
 
