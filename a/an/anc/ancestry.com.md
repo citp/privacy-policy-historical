@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ancestry.com privacy policy that was archived on 2004-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041229211730id_/http%3A//www.ancestry.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ancestry.com privacy policy that was archived on 2005-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050602004029id_/http%3A//www.ancestry.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # Ancestry.com - Privacy Statement
 
