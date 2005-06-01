@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adbrite.com privacy policy that was archived on 2004-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041218012514id_/http%3A//www.adbrite.com/mb/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adbrite.com privacy policy that was archived on 2005-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050602013008id_/http%3A//www.adbrite.com/mb/privacy.php) for the most accurate reproduction.*
 
 # AdBrite - The Internet's Ad Marketplace
 
