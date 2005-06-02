@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afreego.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204180403id_/http%3A//www.afreego.com/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afreego.com privacy policy that was archived on 2005-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050603012623id_/http%3A//www.afreego.com/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,4 +25,4 @@ This site contains links to other sites.  _**aFreeGo.com**_ is not responsible 
 
 By using our Web site, you consent to the collection and use of your personal information by **_aFreeGo.com_** as outlined in this Privacy Policy. 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [support@aFreeGo.com](mailto:support@aFreeGo.com). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/Feedback.php). 
