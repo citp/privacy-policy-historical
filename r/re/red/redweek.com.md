@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the redweek.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204015042id_/http%3A//www.redweek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redweek.com privacy policy that was archived on 2005-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050602032155id_/http%3A//www.redweek.com/privacy) for the most accurate reproduction.*
 
-# RedWeek.com - Privacy Policy
+# Privacy Policy - RedWeek.com
+
+[](http://www.redweek.com/join/guest?event=nav_reg_ctr)   
+[Register for free](http://www.redweek.com/join/guest?event=nav_reg_ctr)
 
 |  Version 1 (Posted March 8, 2003) 
 
@@ -33,4 +36,6 @@ We may need to make changes to our information practices or alter the functional
 
 
 
-If you have any questions, please [contact us](https://web.archive.org/contact_us). 
+If you have any questions, please [contact us](https://web.archive.org/contact_us).   
+  
+---|---
