@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cramster.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606103158id_/http%3A//www.cramster.com/cramster_privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cramster.com privacy policy that was archived on 2005-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050603014531id_/http%3A//www.cramster.com/cramster_privacy_policy.asp) for the most accurate reproduction.*
 
 # Algebra Homework Solutions Algebra Math Physics Answer help
 
