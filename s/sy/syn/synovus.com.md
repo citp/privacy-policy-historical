@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the synovus.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206230757id_/http%3A//synovus.com/index.cfm%3FcatID%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synovus.com privacy policy that was archived on 2005-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050603083838id_/http%3A//www.synovus.com/index.cfm%3FcatID%3Dprivacy) for the most accurate reproduction.*
 
 # Synovus Financial Corp
 
@@ -197,4 +197,4 @@ Synovus Insurance Services of West Georgia, Inc. (Carrollton, GA)
 Synovus Mortgage Corp.  
 Synovus Securities, Inc.
 
-* Some products and services offered by these companies may be subject to separate privacy policies. This policy will apply to your relationships with these companies unless you are notified otherwise. 
+* Some products and services offered by these companies may be subject to separate privacy policies. This policy will apply to your relationships with these companies unless you are notified otherwise.
