@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cybersource.com privacy policy that was archived on 2004-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041231053429id_/http%3A//www.cybersource.com/privacy.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cybersource.com privacy policy that was archived on 2005-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050603090227id_/http%3A//www.cybersource.com/privacy.xml) for the most accurate reproduction.*
 
 # 
 
