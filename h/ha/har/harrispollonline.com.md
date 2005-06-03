@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the harrispollonline.com privacy policy that was archived on 2004-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041229093931id_/http%3A//www.harrispollonline.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrispollonline.com privacy policy that was archived on 2005-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050603024718id_/http%3A//www.harrispollonline.com/privacy.asp) for the most accurate reproduction.*
 
 # Harris Poll Online - Privacy Policy
 
   
 |  |  | 
 
-**[](https://www.truste.org/validate/14080)**  
+**[](http://www.truste.org/ivalidate.php?url=www.harrispollonline.com&sealid=102)**  
   
 ---|---  
   
