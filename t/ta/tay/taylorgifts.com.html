@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the taylorgifts.com privacy policy that was archived on 2004-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041223234144id_/http%3A//www.taylorgifts.com/custserv/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the taylorgifts.com privacy policy that was archived on 2005-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050604083335id_/http%3A//www.taylorgifts.com/custserv/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 	<title>Welcome to Taylor Gifts - Diet, Exercise, As Seen On TV, Novelty, Home Decor, and More!</title>
@@ -96,6 +96,38 @@ function emailVal(theForm)
 function emailinfo() {
   alert("Please be sure to include your FULL NAME, ORDER #, ZIP CODE and E-MAIL ADDRESS in all customer service inquiries. Thanks!")
 }
+
+function Validator()
+{
+
+
+	if (check() == false) {
+		return false;
+	}
+}
+
+
+
+function check(f) {
+
+	if (document.emailafriend.sender.value == "") {
+    		 	alert("Please supply your email address.");
+     		 	return false;
+ 	}
+			
+	if (document.emailafriend.receiver.value == "") {
+    		 	alert("Please supply the recipient's email address.");
+     		 	return false;
+ 	}
+
+	if (document.emailafriend.message.value == "") {
+    		 	alert("Please supply a message.");
+     		 	return false;
+ 	}
+
+    return true;
+}
+
 	   
 </script>
 </head>
@@ -137,7 +169,7 @@ function emailinfo() {
 			</tbody></table>
 		</td>
 		<td bgcolor="#ffffff" width="63"><font color="#FFFFFF">. </font></td>
-		<td align="right" bgcolor="#ffffff" width="156" valign="middle"><a href="http://www.taylorgifts.com/prodetail.asp?itemNo=12292"><img src="/Grafx/tile_80percentoff_jan.jpg" width="160" height="60" border="0" align="right" alt="80% Off!"></a></td>
+		<td align="right" bgcolor="#ffffff" width="156" valign="middle"><a href="http://www.taylorgifts.com/prodetail.asp?itemNo=16178B"><img src="/Grafx/tile_90_off.jpg" width="150" height="56" border="0" align="right" alt="90% Off!"></a></td>
 	</tr>
 	<tr> 
 		<td align="center" bgcolor="#0C8FC0" width="180"><font class="bgwhite">Call 
@@ -147,7 +179,7 @@ function emailinfo() {
 				<font class="bgwhite">100% GUARANTEED SATISFACTION</font>
 			</center>
 		</td>
-		<td align="right" bgcolor="#0C8FC0" colspan="2"><font class="white">December 23, 2004&nbsp;&nbsp;</font></td>
+		<td align="right" bgcolor="#0C8FC0" colspan="2"><font class="white">June 4, 2005&nbsp;&nbsp;</font></td>
 	</tr>
 </tbody></table>
 <!-- End Top Nav  -->
@@ -162,6 +194,8 @@ function emailinfo() {
 	<tr>
 		<td align="left" valign="top" width="180">
 		
+
+
 <table cellpadding="3" cellspacing="0" border="0" width="175" bgcolor="#0C8FC0">
 	<tbody><tr>
 <td>
@@ -170,16 +204,18 @@ function emailinfo() {
 		<td align="left" valign="top" colspan="2"><font class="bigLtBlue">SEARCH</font></td>
 	</tr>
 	<tr>
-		<form method="POST" action="prodetail.asp" name="searchbynum"></form><td align="left" valign="bottom" width="135"><img src="../Grafx/quickorder.gif" alt="" width="135" height="13" border="0"><br>&nbsp;<input type="text" name="itemNo" size="18" value="enter item number" onclick="return clearNum();"></td>
+		<form method="POST" action="prodetail.asp" name="searchbynum"></form><td align="left" valign="bottom" width="135"><img src="/Grafx/quickorder.gif" alt="" width="135" height="13" border="0">
+<input type="text" name="itemNo" size="18" value="enter item number" onclick="return clearNum();"></td>
 			<td align="left" valign="bottom" width="39">
 							<input type="image" border="0" name="imageField" src="/grafx/goNew.gif" width="27" height="27">
 							<input type="hidden" name="searchtype" value="1"></td>
 	</tr>
 	<tr>
-		<form method="POST" action="searchrslt.asp" name="searchbytext"></form><td align="left" valign="bottom"><img src="/Grafx/findproduct.gif" alt="" width="135" height="13" border="0"><br>&nbsp;<input type="text" name="Keyword" size="18" value="enter a keyword" onclick="return clearkeyword();"></td>
+		<form method="POST" action="searchrslt.asp" name="searchbytext"></form><td align="left" valign="bottom"><img src="/Grafx/findproduct.gif" alt="" width="135" height="13" border="0">
+<input type="text" name="Keyword" size="18" value="enter a keyword" onclick="return clearkeyword();"></td>
 			<td align="left" valign="bottom">
 							<input type="image" border="0" name="imageField" src="/grafx/goNew.gif" width="27" height="27">
-							<input type="hidden" name="PageNo" value="1"></td>
+							<input type="hidden" name="PageNo" value="1"><input type="hidden" name="stype" value="ALL"></td>
 	</tr>
 	<tr>
 		<td align="left" valign="top" colspan="2"><img src="/Grafx/spacer.gif" alt="" width="174" height="5" border="0"></td>
@@ -188,6 +224,10 @@ function emailinfo() {
 			<table cellpadding="1" cellspacing="0" border="0" width="174" bgcolor="#ffffff">
 				<tbody><tr> 
 					<td align="left" valign="top" bgcolor="#0C8FC0"><img src="/Grafx/departmentsNew.gif" alt="" width="174" height="30" border="0"></td>
+				</tr>
+				
+				<tr> 
+					<td align="left" valign="top"><a href="/category.asp?ID=OL" onmouseover="changeImages('outdoor', '/grafx/outdoor_over.gif'); return true;" onmouseout="changeImages('outdoor', '/grafx/outdoor.gif'); return true;"><img src="/Grafx/outdoor.gif" alt="Outdoor Living" width="170" height="35" border="0" name="outdoor"></a></td>
 				</tr>
 				
 				<tr> 
@@ -211,10 +251,6 @@ function emailinfo() {
 				</tr>
 				
 				<tr> 
-					<td align="left" valign="top"><a href="/category.asp?ID=OL" onmouseover="changeImages('outdoor', '/grafx/outdoor_over.gif'); return true;" onmouseout="changeImages('outdoor', '/grafx/outdoor.gif'); return true;"><img src="/Grafx/outdoor.gif" alt="Outdoor Living" width="170" height="35" border="0" name="outdoor"></a></td>
-				</tr>
-				
-				<tr> 
 					<td align="left" valign="top"><a href="/category.asp?ID=KM" onmouseover="changeImages('kitchen', '/grafx/kitchen_over.gif'); return true;" onmouseout="changeImages('kitchen', '/grafx/kitchen.gif'); return true;"><img src="/Grafx/kitchen.gif" alt="Kitchen &amp; Much More" width="170" height="35" border="0" name="kitchen"></a></td>
 				</tr>
 				
@@ -222,6 +258,15 @@ function emailinfo() {
 					<td align="left" valign="top"><a href="/category.asp?ID=TA" onmouseover="changeImages('travel', '/grafx/travel_over.gif'); return true;" onmouseout="changeImages('travel', '/grafx/travel.gif'); return true;"><img src="/Grafx/travel.gif" alt="Travel &amp; Automotive" width="170" height="35" border="0" name="travel"></a></td>
 				</tr>
 				
+				<tr> 
+					<td align="left" valign="top" bgcolor="#0C8FC0"><img src="/Grafx/browseNew.gif" alt="" width="174" height="30" border="0"></td>
+				</tr>
+				<tr> 
+					<td align="center" valign="top"><a href="/catalog.asp?pg=0"><img src="/Grafx/spacer.gif" alt="" width="174" height="5" border="0"></a></td>
+				</tr>
+				<tr> 
+					<td align="center" valign="top"><a href="/catalog.asp?pg=0"><img src="../Grafx/browse_catalog_j.jpg" alt="" width="133" height="168" border="0"></a></td>
+				</tr>
 				<tr> 
 					<td align="left" valign="top" colspan="2"><img src="/Grafx/spacer.gif" alt="" width="174" height="5" border="0"></td>
 				</tr>
@@ -234,7 +279,11 @@ function emailinfo() {
 		<td align="left" valign="top" colspan="2"><img src="/Grafx/spacer.gif" alt="" width="174" height="5" border="0"></td>
 	</tr>
 	<tr>
-		<form method="POST" action="emailsignup.asp" name="emailsignup" onsubmit="return emailVal(this)"></form><td align="left" valign="bottom" width="135"><font class="small"><b>&nbsp;&nbsp;WHY? <a href="emaildetails.asp" class="red">Click for details</a></b></font><br>&nbsp;<input type="text" name="email" size="18" value="enter e-mail here" onclick="return clearemail();"></td>
+		<form method="POST" action="emailsignup.asp" name="emailsignup" onsubmit="return emailVal(this)"></form>
+						<td align="left" valign="bottom" width="135"><font class="small"><b>&nbsp;&nbsp;WHY? 
+							<a href="emaildetails.asp" class="red">Click 
+							for details</a></b></font>
+<input type="text" name="email" size="18" value="enter e-mail here" onclick="return clearemail();"></td>
 			<td align="left" valign="bottom" width="39">
 							<input type="image" border="0" name="imageField" src="/grafx/goNew.gif" width="27" height="27">
 						</td>
@@ -252,12 +301,15 @@ function emailinfo() {
 	</tr>
 	<tr>
 					<td align="CENTER" valign="top" bgcolor="#ffffff"> 
-						<p><a href="http://www.taylorgifts.com/searchrslt_outlet.asp?src=TGOUTLE2&amp;Keyword=TG50TH"><img src="/Grafx/outlet_logo.gif" alt="TG OUTLET LOGO" width="165" height="50" border="0"></a><br>
+						<p> <a href="http://www.taylorgifts.com/default_outlet.asp"><img src="/Grafx/outlet_logo.gif" alt="TG OUTLET LOGO" width="165" height="50" border="0"></a> 
+							<!-- <a href="default_outlet.asp?src=TGOUTS05&Keyword=TGOUTLET05"><img src="/Grafx/outlet_logo.gif" alt="TG OUTLET LOGO" width="165" height="50" border="0"></a>  -->
+							<br>
 							<a href="http://www.shopgetorganized.com" target="_new"><img src="../Grafx/go_logo.gif" alt="GO LOGO" width="165" height="50" border="0"></a><br>
-							<a href="http://www.kitchenandmuchmore.com" target="_new"><img src="../Grafx/kmm_logo.gif" alt="KMM LOGO" width="165" height="50" border="0"></a><br>
+							<a href="http://www.kitchenandmuchmore.com" target="_new"><img src="../Grafx/kmm_logo.gif" alt="KMM LOGO" width="165" height="50" border="0"></a> --&gt;
+<br>
 						</p>
 						<p><font face="Arial, Helvetica, sans-serif"><b><font size="1">FOR 
-							52 YEARS<br>
+							53 YEARS<br>
 							WE'VE GUARANTEED <br>
 							SATISFACTION</font></b><font size="1"><br>
 							<br>
@@ -274,6 +326,9 @@ function emailinfo() {
 </td>
 </tr>
 </tbody></table>
+
+
+
 		</td>
 		<td align="center" valign="top" width="580">
 		<!-- body area  -->
@@ -369,7 +424,7 @@ Taylor Gifts is a registered trademark.
 <table border="0" cellpadding="0" cellspacing="0" width="760">
 	<tbody><tr>
 		<td colspan="2" align="center"><font class="small">
-			</font><p><font class="small">© Copyright 2004 - Taylor Gifts®<br>
+			</font><p><font class="small">© Copyright 2005 - Taylor Gifts®<br>
 				600 Cedar Hollow Road • Paoli, PA 19301 • 1.800.829.1133
 			</font></p></td>
 	</tr>
