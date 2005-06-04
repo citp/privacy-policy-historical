@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whiteflowerfarm.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209090848id_/http%3A//www.whiteflowerfarm.com/security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whiteflowerfarm.com privacy policy that was archived on 2005-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050604083631id_/http%3A//www.whiteflowerfarm.com/security.html) for the most accurate reproduction.*
 
-# White Flower Farm: The premier American mail-order source for plants, bulbs, and gardening supplies.
+# White Flower Farm: Online Privacy & Security
 
   
 **Your Privacy**
