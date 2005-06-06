@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fcc.gov privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210090644id_/http%3A//www.fcc.gov/webpolicies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fcc.gov privacy policy that was archived on 2005-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050607004432id_/http%3A//www.fcc.gov/webpolicies.html) for the most accurate reproduction.*
 
 # FCC Web Site Policies, Privacy Statement and Notices
 
@@ -7,7 +7,7 @@ FCC Web Site Policies
 
 Customer Service Standards 
 
-You will always be treated with courtesy and can expect these [Standards of Customer Service](https://web.archive.org/web/20041210090644id_/http%3A//www.fcc.gov/css.html) when interacting with us.
+You will always be treated with courtesy and can expect these [Standards of Customer Service](https://web.archive.org/web/20050607004432id_/http%3A//www.fcc.gov/css.html) when interacting with us.
 
   
 
@@ -35,6 +35,13 @@ The FCC makes every effort to insure that the information on this website is acc
   
 
 
+Paperwork Reduction Act & FCC Information Collections 
+
+The FCC collects many different kinds of information from the public. The Paperwork Reduction Act of 1995 (44 U.S.C. Part 35) requires the Commission, as well as other federal agencies, to get Office of Management and Budget (OMB) approval before collecting most kinds of information. The FCC currently has over 500 approved information collections. Once OMB approves a collection the FCC must ask OMB to renew its approval at least once every three years for as long as the collection is needed. These renewals are known as extensions. The Commission must also request OMB approval whenever it makes a significant change to a collection. Read more about [FCC Information Collections and the Paperwork Reduction Act](http://www.fcc.gov/omd/pra/).
+
+  
+
+
 The Federal Communications Commission provides this Internet site as a public service. We do not obtain personally identifying information about you when you visit this site unless you choose to provide such information to us.
 
 The FCC posts a Privacy Act notice at those places on this site where the Commission needs to collect any individually identifiable information for use by the FCC.
@@ -49,6 +56,18 @@ The FCC provides numerous online software programs that support the Universal Li
 
 
 You are entering an official United States Government System, which may be used only for authorized purposes. Unauthorized modification of any information on this system may result in criminal prosecution. The Government may monitor or audit the usage of this system, and all persons are hereby notified that use of this system constitutes consent to such monitoring and auditing.
+
+  
+
+
+E-Authentication focuses on confirming a person’s identity, based on the reliability of his or her credential. Confidence in the security of information exchanged over the Internet plays a vital role in E-Government. E-Authentication helps to enable trust in online exchanges between entities and government. The FCC conducted an assessment of its web-based systems. The results of the 2004 E-Authentication assessment are summarized and may be obtained by request via email: [E-Authentication@fcc.gov](mailto:E-Authentication@fcc.gov)
+
+  
+
+
+Website Inventory, Priorities & Schedules 
+
+The FCC maintains an inventory of FCC website content and associated on-line publication schedules and priorities, as required by Section 207(f)(2) of the E-Government Act of 2002. See our complete [Website Inventory, Priorities & Schedules page](http://www.fcc.gov/webinventory/) for more information.
 
   
 
