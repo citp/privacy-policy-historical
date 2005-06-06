@@ -1,15 +1,30 @@
-> *The following text is extracted and transformed from the 2dplay.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203161848id_/http%3A//www.2dplay.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2dplay.com privacy policy that was archived on 2005-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050606235029id_/http%3A//www.freeonlinegames.com/pages/privacypolicy.html) for the most accurate reproduction.*
 
-# 2DPlay.com - Privacy Policy.
+# Free Online Games .com
 
-  
-**2DPlay.com Privacy problem:**  
+**INTRODUCTION:**   
+We want our users to always be aware of any information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
+**INFORMATION COLLECTION AND USE**   
+We respect each site visitor's right to personal privacy. To that end, we collect and use information throughout our website only as disclosed in this Privacy Policy. This statement applies solely to information collected on this website. For each visitor to our website, our web server automatically recognizes no information regarding the domain or e-mail address.
 
-"We at 2DPlay.com will only ever ask you to signup for our mailing list so that we can update you on any new games that we add onto the site. But if you wish ever to no longer have your name in our records you have the option of using the same form you used to join to delete your self from our records." 
+**The information we collect is:**
 
-"At no point in time will we force you or is it necessary for you to join our mailing list in order to enjoy our services. Joining is upto you and is your choice alone, On joining you will get an automatic email to let you know that you have been added." 
+* used to improve the content of our Web page. 
+* used to notify visitors about updates to our Web site. 
+* never shared with other organizations for commercial purposes. 
 
-"We will never sell your personal information i.e. Your email that we have collected. All information gathered by us is held strictly confidential and only used by us for our own purposes, i.e. updating you on any new games that we publish on our site." 
+Registration is not required to enter our site. However, subscription to certain services may require a user to complete a registration form. During registration a user must give certain contact information, but we never sell or give away this information. It is only gathered to contact the user about services on our site for which s/he has expressed interest. It is optional for the user to provide demographic information (income level, gender, etc.), and unique identifiers (username, password, etc.). Giving additional information helps provide a more personalized experience on our site, but is not required. 
 
-"If you have any further question regarding this matter, please do not hesitate to contact us at the following email [Privacy@2DPlay.com](mailto:Privacy@2DPlay.com)) 
+We publish a newsletter, and we never sell or share our subscribers' email or mailing addresses. We operate online surveys, and we never sell or share our subscribers' email addresses 
+
+We do show advertisement to our users, which is handled by [FastClick](http://www.fastclick.com/), [CasaleMedia.com](http://www.casalemedia.com/) & [ValueClick.com](http://www.valueclick.com/). So any such concerns with our advertising, should be directed them respectfully. 
+
+**NOTIFICATION OF CHANGES**   
+If we decide to change our privacy policy, we will post those changes to this privacy statement. 
+
+**CONFLICT RESOLUTION**   
+We are committed to resolving disputes within 24-48 hours. If problems arise, users may contact via our contact form. 
+
+**CONTACT INFORMATION**   
+If site users have any questions or suggestions regarding our privacy policy, please contact us via our [contact page](http://www.freeonlinegames.com/contact.html).
