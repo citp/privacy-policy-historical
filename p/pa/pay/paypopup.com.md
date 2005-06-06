@@ -1,16 +1,19 @@
-> *The following text is extracted and transformed from the paypopup.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205001124id_/http%3A//paypopup.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paypopup.com privacy policy that was archived on 2005-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050606082900id_/http%3A//www.paypopup.com/privacy.php) for the most accurate reproduction.*
 
-# paypopup.com
+# Targeted Internet Advertising
 
-|  [](https://web.archive.org/web/20041205001124id_/http%3A//paypopup.com/sitemap.htm) |  [](https://web.archive.org/web/20041205001124id_/http%3A//paypopup.com/index.php) |  [](https://web.archive.org/web/20041205001124id_/http%3A//paypopup.com/targeted-internet-advertising.php) |  [](https://web.archive.org/web/20041205001124id_/http%3A//paypopup.com/popunder_affiliate_program.php) |  [](https://web.archive.org/web/20041205001124id_/http%3A//paypopup.com/contactus.php) |  [](https://web.archive.org/web/20041205001124id_/http%3A//paypopup.com/aboutus.php) |    
----|---|---|---|---|---|---  
-  |  |  Privacy Policy   
+  |  |   
 ---  
-|   
-  
-Your **Personal Information**
+| [Home](https://web.archive.org/web/20050606082900id_/http%3A//www.paypopup.com/index.php) | [Advertisers](https://web.archive.org/web/20050606082900id_/http%3A//www.paypopup.com/advertisers.php) | [Publishers](https://web.archive.org/web/20050606082900id_/http%3A//www.paypopup.com/webmasters_affiliate_program.php) | [Resellers](https://web.archive.org/web/20050606082900id_/http%3A//www.paypopup.com/traffic_resellers.php) | [Technology](https://web.archive.org/web/20050606082900id_/http%3A//www.paypopup.com/advertising_technology.php) | [Company](https://web.archive.org/web/20050606082900id_/http%3A//www.paypopup.com/company.php)  
+---|---|---|---|---|---  
+|  | 
 
-|    
+|  | Privacy  
+---|---  
+  
+|   
+Your **Personal Information** |    
+---|---  
 At paypopup.com (PayPopUp) we are committed to protecting your privacy. Any information we collect, such as email addresses, is submitted at the visitor's will. We do not and will not share any personal information with any third parties unless by governmental order. 
 
 We have NO access to any information collected by our Payment Services providers and you may direct further inquiries here:   
@@ -43,5 +46,5 @@ This site contains links to other sites. PayPopUp is not responsible for the pri
   |    
 Contacting the Web Site  |    
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [ webmaster@paypopup.com](mailto:webmaster@paypopup.com)  
-   
+  
  
