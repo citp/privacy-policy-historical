@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the labour.org.uk privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208054910id_/http%3A//www.labour.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labour.org.uk privacy policy that was archived on 2005-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050606224040id_/http%3A//www.labour.org.uk/privacy) for the most accurate reproduction.*
 
-# The Labour Party: Britain is working. Don't let the Tories wreck it again: Privacy statement
+# Privacy statement: The Labour Party, Britain forward, not back
 
 **IP addresses and log file data**  
 The Labour Party site does not automatically capture or store personal information, other than logging the user's IP Address or the location of your computer or network on the Internet, for systems administration and troubleshooting purposes. (If you are connected to the Internet you have an IP address, for example an IP address might read "154.198.99.9"). We also use IP addresses in the aggregate to track which pages people visit in order to improve the quality of the site. 
@@ -13,7 +13,7 @@ In each case we will only use the information about you for the purpose for whic
 **Site registration and email service (to receive Labour eNews)  
 ** When you register onto the site or subscribe for Labour eNews we ask you for contact information (such as your name and e-mail address), geographic information (such as your postcode and constituency), and other details about you and your interests. This is used to help us provide you with information to match your interests. We may also use it to alert you of campaigns you may be interested in and events happening in your area. 
 
-You can remove your name at any time from our e-mail subscription list by visiting our unsubscribe page. If you are registered onto the site, you can edit your registration and enews subscription details at any time through your personal on-line form. If you have not registered on the site and you wish to change your contact email address you need to unsubscribe from our mailing list and sign up again using your new information. If you are registered on the site as a member and you use the site to change your registration details (eg. address or email address) this information may also be used to update your membership record on the Party’s membership database to ensure it is up-to-date and accurate. 
+**You can remove your name at any time from our e-mail subscription list by visiting our[unsubscribe page](https://web.archive.org/web/20050606224040id_/https://www.labour.org.uk/privacy/index.php?id=unsubscribe)**. If you are registered onto the site, you can edit your registration and enews subscription details at any time through your personal on-line form. If you have not registered on the site and you wish to change your contact email address you need to unsubscribe from our mailing list and sign up again using your new information. If you are registered on the site as a member and you use the site to change your registration details (eg. address or email address) this information may also be used to update your membership record on the Party’s membership database to ensure it is up-to-date and accurate. 
 
 **Joining the Party and renewing your membership online  
 ** We collect the required information in order to check you meet the conditions of and help you fulfil the opportunities provided by membership of the Labour Party. At your option, we ask for additional information such as gender, date of birth and trade union membership to help us provide a better membership service to you. 
@@ -59,6 +59,4 @@ Labour Party
 London  
 SW1H 9HP                                                                    
 
-We will continue to evaluate our efforts to protect your information and will update our privacy policy whenever necessary 
-
-<typohead type="5">Back to the top</typohead>
+We will continue to evaluate our efforts to protect your information and will update our privacy policy whenever necessary.
