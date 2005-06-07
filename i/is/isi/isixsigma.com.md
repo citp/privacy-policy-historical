@@ -1,8 +1,50 @@
-> *The following text is extracted and transformed from the isixsigma.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204024758id_/http%3A//www.isixsigma.com/uagree/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isixsigma.com privacy policy that was archived on 2005-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050607074040id_/http%3A//www.isixsigma.com/uagree/privacy.asp) for the most accurate reproduction.*
 
 # iSixSigma Privacy Policy
 
-|  |   
+|   **iSixSigma Magazine    
+  [Try an Issue Free](https://www.isixsigma.com/magazine/subscribe.asp?ref=nav)  
+  [Learn More](http://www.isixsigma-magazine.com/)**  
+---  
+  **Free Newsletters!     
+  [ **Sign Up Now!**](http://www.isixsigma.com/newsletter/)  
+  [Manage Subscriptions](http://www.isixsigma.com/newsletter/manage.asp) **  
+  [ **ISSSP Info**](http://www.isixsigma.com/isssphp_nav)  
+  [Join Now](http://www.isixsigma.com/issspjoin_nav)  
+  [Leadership Conference](http://www.isixsigma.com/ntE)  
+  
+  [ **New To Six Sigma?**](http://www.isixsigma.com/library/content/six-sigma-newbie.asp)  
+  [ **Six Sigma Q &A**](http://www.isixsigma.com/library/content/c010204a.asp)  
+  [ **Cert. Practice Test**](http://www.isixsigma.com/exam/)  
+  [ **The Cox-Box**](http://www.isixsigma.com/cox-box/)  
+  **Channels**    
+  [ **Europe**](http://europe.isixsigma.com/)  
+  [ **Financial Services**](http://finance.isixsigma.com/)  
+  [ **Healthcare**](http://healthcare.isixsigma.com/)  
+  [ **Software / IT**](http://software.isixsigma.com/)  
+  **Quality Directory**    
+  [ **Best Practices**](http://www.isixsigma.com/bp/)  
+  [ **Certifications/Awards**](http://www.isixsigma.com/ca/)  
+  [ **Consultants**](http://www.isixsigma.com/co/)  
+  [ **Culture Evolution**](http://www.isixsigma.com/ce/)  
+  [ **Methodologies**](http://www.isixsigma.com/me/)  
+  [ **News & Events**](http://www.isixsigma.com/ne/)  
+  [ **Organizations**](http://www.isixsigma.com/or/)  
+  [ **Statistics & Analysis**](http://www.isixsigma.com/st/)  
+  [ **Tools & Templates**](http://www.isixsigma.com/tt/)  
+  [ **Voice of the Customer**](http://www.isixsigma.com/vc/)  
+  **Quick Access**    
+  [ **Help**](http://www.isixsigma.com/help/)  
+  [ **Search**](http://www.isixsigma.com/search/)  
+  [ **Advertise Here**](http://www.isixsigma.com/adsales/)  
+  [ **Article Archives**](http://www.isixsigma.com/spotlight/)  
+  [ **Newsletter Archives**](http://www.isixsigma.com/newsletter/archive/)  
+  **User Feedback**    
+  Please suggest site  
+  improvements.  
+   
+  [ [larger form](http://www.isixsigma.com/suggestion/default.asp) ]  
+|   
 
 
 |  |   
@@ -19,7 +61,7 @@ This Privacy Policy covers iSixSigma's treatment of personally identifiable info
  **Information Collection and Use**  
 iSixSigma collects personally identifiable information when you use certain iSixSigma products or services, when you register for an iSixSigma account, when you subscribe to an iSixSigma newsletter, when you visit iSixSigma site pages, and when you enter promotions or sweepstakes. iSixSigma may also receive personally identifiable information from our business partners.
 
-iSixSigma also automatically receives and records information on our server logs from your browser including your IP address, iSixSigma cookie information and the page you requested. iSixSigma uses information for three general purposes: to customize the advertising and content you see, to fulfill your requests for certain products and services, and to contact you about specials and new products.
+iSixSigma also automatically receives and records information on our server logs from your browser including your IP address, iSixSigma-specific cookie information, browser information and the page you requested. iSixSigma uses information for three general purposes: to customize the advertising and content you see, to fulfill your requests for certain products and services, and to prevent abuse of our systems.
 
  **Information Sharing and Disclosure**  
 iSixSigma will not sell or rent your personally identifiable information to anyone. iSixSigma will send personally identifiable information about you to other companies or people when:
@@ -33,10 +75,10 @@ iSixSigma will not sell or rent your personally identifiable information to anyo
 
 
  **Cookies**  
-iSixSigma may set and access iSixSigma cookies on your computer. iSixSigma allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to iSixSigma's cookies. If you would like to learn more about cookies, please visit [Cookie Central](http://www.isixsigma.com/offsite.asp?A=Fr&Url=http://www.cookiecentral.com/content.phtml?area=2&id=1). If you would like to remove the iSixSigma cookies stored on your computer that identify your name and email address and make it easier for you to post to the discussion forum, [click here](https://web.archive.org/web/20041204024758id_/http%3A//www.isixsigma.com/newsletter/expire.asp).
+iSixSigma may set and access iSixSigma cookies on your computer. iSixSigma allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to iSixSigma's cookies. If you would like to learn more about cookies, please visit [Cookie Central](http://www.isixsigma.com/offsite.asp?A=Fr&Url=http://www.cookiecentral.com/content.phtml?area=2&id=1). If you would like to remove the iSixSigma cookies stored on your computer that identify your name and email address and make it easier for you to post to the discussion forum, [click here](https://web.archive.org/web/20050607074040id_/http%3A//www.isixsigma.com/newsletter/expire.asp).
 
  **Your Ability to Edit and Delete Your Account Information**  
-iSixSigma gives you the ability to edit your iSixSigma Account Information and preferences at any time. You may request deletion of your iSixSigma account by notifying iSixSigma using our [contact form](https://web.archive.org/web/20041204024758id_/http%3A//www.isixsigma.com/contact/default.asp?ToDo=contact&o=oi). All account inquiries will be verified via return email.
+iSixSigma gives you the ability to edit your iSixSigma Account Information and preferences at any time. You may request deletion of your iSixSigma account by notifying iSixSigma using our [contact form](https://web.archive.org/web/20050607074040id_/http%3A//www.isixsigma.com/contact/default.asp?ToDo=contact&o=oi). All account inquiries will be verified via return email.
 
  **Security**  
 Your iSixSigma Account Information is protected for your privacy and security.
@@ -45,7 +87,7 @@ Your iSixSigma Account Information is protected for your privacy and security.
 iSixSigma may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages. 
 
 **Questions or Suggestions**  
-If you have questions or suggestions complete our [feedback form](https://web.archive.org/web/20041204024758id_/http%3A//www.isixsigma.com/contact/default.asp?ToDo=contact&o=oi).
+If you have questions or suggestions complete our [feedback form](https://web.archive.org/web/20050607074040id_/http%3A//www.isixsigma.com/contact/default.asp?ToDo=contact&o=oi).
 
   
 [**"The Bottom Line" Links**](http://www.isixsigma.com/adsales/ad-opps.asp#bottomline)  
@@ -78,25 +120,8 @@ Juran Institute, Inc.
 Six Sigma Success  
 Starts Here
 
-| At Juran Institute, we continue to build upon the tradition of excellence  
-established by our founder, Dr. Joseph M. Juran. For nearly a quarter of a  
-century, beginning with our first client, Motorola, Juran Institute has led  
-the way in enabling organizations to achieve sustainable breakthrough results  
-by implementing innovative technologies such as Six Sigma.  
----|---  
-  
-| **SixNet Intelligence System**
-
-* * *
-
- **from Six Sigma Qualtec**  
-| 
-
-Satisfied with your Performance Improvement Tracking Software?
-
-Complete our survey to enter a drawing for a **free digital camera.**  
-Financial Reporting, Project Tracking, Knowledge Management, On-Line Support.  
-  
+| For nearly a quarter of a century, beginning with our first client, Motorola,  
+ **Juran Institute has led the way** in enabling organizations to achieve sustainable breakthrough results by implementing innovative technologies such as Six Sigma.  
 ---|---  
   
 | 
@@ -109,41 +134,75 @@ Design for Six Sigma Experts
 
 Leaders in Thinking for six sigma consulting, training and coaching.
 
-::: We wrote The Book - Implementing Six Sigma, 2nd ed ::: [Learn More>](http://www.isixsigma.com/ads/redirect.asp?id=1941&r=)  
+::: We wrote The Book - Implementing Six Sigma, 2nd ed ::: [Learn More>](http://www.isixsigma.com/r.asp?id=2339&r=http://www.isixsigma.com/uagree/privacy.asp)  
   
 ---|---  
   
+| VILLANOVA  
+UNIVERSITY |   |   | Become a Leader.  
+  
+Earn your Six Sigma Green Belt or Black Belt Certificate Online!  
+Gain Valuable Skills to Enhance Your Career in Just 8 Weeks! |   |   | **START NOW**  
+---|---|---|---|---|---|---  
+  
 | 
 
- iGrafx® 
+   Your one-stop shop . . .
 
-|  | 
+  SIGMAPRO
 
- **
+   USA u Mexico u United Kingdom u India u Germany 
 
-Try iGrafx® Process™ 2003 for Six Sigma free! Download a free whitepaper.
+|  |  | 
 
-**
+Service
 
-Identify evaluate and deliver high-impact Six Sigma  
-projects sooner & with more certainty.  
+| 
+
+Industrial  
   
 ---|---|---  
   
-| 
-
-SBTI
-
-Sigma Breakthrough Technologies, Inc.
+Six Sigma 
 
 | 
 
-e-Learning Yellow Belt: Six Sigma & Lean.  
-Public Green/Black Belt Courses.  
- **Results.** By The Numbers. **Guaranteed.**  
+þ
+
+| 
+
+þ  
   
+Design for Six Sigma 
+
+| 
+
+þ
+
+| 
+
+þ  
+  
+Lean for Six Sigma 
+
+| 
+
+þ
+
+| 
+
+þ  
+  
+| 
+
+M O T O R O L A   
+U N I V E R S I T Y
+
+|  Learn from the most experienced  
+practitioners of Six Sigma in the world  
+Public Training & Certification  
+**Click here to take a free Six Sigma Lesson**  
 ---|---  
-  
 | 
 
 PIVOTAL RESOURCES
@@ -162,30 +221,43 @@ San Francisco, Chicago, Dallas, New York and Miami
   
 | 
 
-Global Directions in Six Sigma
+AIR ACADEMY ASSOCIATES
+
+UNIVERSITY
 
 | 
 
-Leaders in Six Sigma, Design for Six Sigma and LEAN Six Sigma Training
+Improve Your Personal & Business ROI
 
-SigmaPro maximizes client value in its certification programs through best in class public and on-site   
-training at affordable prices. Take advantage of these certification opportunities today. ****_Learn more_ ****  
+More Courses - Industry Expert Instructors
+
+Call 800-748-1277 Now to Learn More!  
   
 ---|---  
   
-|    |   |    |   | 
+| 
 
-The LEADING Project Management Solution   
-for Six Sigma – and Beyond.TM
+**THE UNIVERSITY OF TEXAS**
 
-  |    | 
+**AT AUSTIN**
 
-POWERSTEERING ®
+| 
 
-S O F T W A R E, I N C.   
-www.powersteeringsoftware.com 
+**Two Weeks.  One Project.  Black Belt Certification. **
 
-|     
----|---|---|---|---|---|---|---  
+**July 11-15, 2005 and August 15-19, 2005**  
   
-|  [iSixSigma Print Magazine](https://web.archive.org/magazine/default.asp?ref=adisside)
+---|---  
+  
+| **UNIVERSITY OF MICHIGAN** |   | **Black Belt •** Manufacturing or Transactional Service Focus |    
+---|---|---|---  
+  
+**Six Sigma Certification Training** ****
+
+| **Green Belt •** Manufacturing or Transactional Service Focus  
+  
+**Online: Anytime, Anywhere Format**
+
+| **Green Belt •** **NEW** Healthcare (LIVE) ...... ..[More Info…](http://cpd.engin.umich.edu/programs/index-certificate.html)  
+  
+| 
