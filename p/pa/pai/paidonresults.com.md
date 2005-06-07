@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paidonresults.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204082816id_/http%3A//paidonresults.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paidonresults.com privacy policy that was archived on 2005-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050608000859id_/http%3A//www.paidonresults.com/privacy.html) for the most accurate reproduction.*
 
 # Paid On Results - Privacy Statement
 
