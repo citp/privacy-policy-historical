@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netzero.net privacy policy that was archived on 2004-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041229181823id_/http%3A//www.netzero.net/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netzero.net privacy policy that was archived on 2005-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050608001148id_/http%3A//www.netzero.net/legal/privacy.html) for the most accurate reproduction.*
 
 # NetZero - Privacy and Security- Free Dial Up Internet Service - High Speed ISP - Net Zero Internet Provider - Netzero.com
 
@@ -37,10 +37,10 @@ If you have a question about the information below, please contact NetZero at:
 
  Attn: Compliance Officer- Legal Department  
  NetZero, Inc.  
- 2555 Townsgate Road  
- Westlake Village, CA 91361-2650  
- (805)418-2000  
- [privacy@netzero.net](mailto:privacy@netzero.net)
+ 21301 Burbank Blvd  
+ Woodland Hills, CA 91367  
+ (818)287-3000  
+ [privacy@netzero.com](mailto:privacy@netzero.com)
 
 * * *
 
@@ -154,7 +154,7 @@ Back to list
 
  **A note about the privacy of children aged 13 to 18**.
 
-We collect, use, and disclose information about children aged 13 to 18 in the same manner as we do for adults. NetZero believes that it's especially important to protect children's privacy online and encourages parents and guardians to spend time online with their children to participate and monitor their Internet activity. If you are under 18, we recommend you get your parent's permission before disclosing any information about yourself to anyone on the Internet. We do not filter advertisements or other content that children may receive, and they could receive content and materials from the Internet and/or advertising that are inappropriate for children. We provide a listing of third party services that offer parental control software that is located at: [www.netzero.net/support/info/safety.html.](https://web.archive.org/web/20041229181823id_/http%3A//www.netzero.net/legal/www.netzero.net/support/info/safety.html)
+We collect, use, and disclose information about children aged 13 to 18 in the same manner as we do for adults. NetZero believes that it's especially important to protect children's privacy online and encourages parents and guardians to spend time online with their children to participate and monitor their Internet activity. If you are under 18, we recommend you get your parent's permission before disclosing any information about yourself to anyone on the Internet. We do not filter advertisements or other content that children may receive, and they could receive content and materials from the Internet and/or advertising that are inappropriate for children. We provide a listing of third party services that offer parental control software that is located at: [www.netzero.com/support/info/safety.html.](https://web.archive.org/web/20050608001148id_/http%3A//www.netzero.net/legal/www.netzero.com/support/info/safety.html)
 
 Back to list
 
@@ -163,20 +163,20 @@ Back to list
 
  **A Special Notice to parents of children under 13**.
 
-In compliance with the Children's Online Privacy Protection Act and fair information practices, we will not knowingly allow children under the age of 13 to become subscribers to the NetZero free Internet access service without parental consent. As part of the registration process for the NetZero service we collect personal and other information. We do not knowingly disclose children's personal information to third parties. We have designed a [Parental Consent Form](http://www.netzero.net/legal/printable_parental.html) to allow parents to easily provide their consent. 
+In compliance with the Children's Online Privacy Protection Act and fair information practices, we will not knowingly allow children under the age of 13 to become subscribers to the NetZero free Internet access service without parental consent. As part of the registration process for the NetZero service we collect personal and other information. We do not knowingly disclose children's personal information to third parties. We have designed a [Parental Consent Form](http://www.netzero.com/legal/printable_parental.html) to allow parents to easily provide their consent. 
 
 In order to make an informed decision about giving parental consent we provide notice of our information practices with regard to children below: 
 
     1. The name, address, telephone number and email address of the operator of this online service is:
 
-NetZero, Inc. - 2555 Townsgate Road, Westlake Village, CA 91361 - (805)418-2000 - [parental_consent@netzero.net](mailto:parental_consent@netzero.net)
+NetZero, Inc. - 21301 Burbank Blvd, Woodland Hills, CA 91367 - (818)287-3000 - [parental_consent@netzero.com](mailto:parental_consent@netzero.com)
 
     2. We collect a variety of information on our Service including, without limitation, personal information such as first and last name, e-mail address, birthday, telephone number and member ID name and non-personal demographic information such as gender, education level, occupation, income, interests and information relating to a various topics such as cars and pets. Most of this information is collected through the profile our subscribers fill out when they register or when they respond to questions of NetZero or its sponsors. We also passively collect data regarding the websites our subscribers visit and the functionality of our subscribers' computers. 
     3. We use the information to uniquely identify each subscriber to our service and to research our subscribers' demographics, interests and behavior. This enables us to design and market our service, to tailor advertising to specific users, to perform data analysis for marketing and computer research, and to perform administrative functions. We also use the information to respond to the duly authorized information requests of governmental authorities. We use information about computer functionality to allow us to deliver compatible technologies and services to our subscribers. 
     4. We do not disclose the personal information of our child subscribers to third parties
     5. The Children's Online Privacy Protection Act prohibits all operators (including NetZero) from conditioning a child's participation in an Internet activity on the disclosure of more personal information than is reasonably necessary to participate in the activity. 
-    6. The parent of a child subscriber can review and have deleted their child's personal information and refuse to permit further collection or use of their child's information by accessing their child's NetZero Personal Profile information. Log on to the Service with the child's Member ID and Password. Click once on the NetZero logo on the ZeroPort. Then choose the Profile menu item. To retrieve your child's NetZero Personal Profile, you must enter your child's password and click the Retrieve button, you can only change the Profile of the Member ID that is shown. You are now at the Profile. By using the Back and Next buttons, you can navigate your way through the questions and change the necessary items. Once you are done, press the Submit button to leave or the Exit button to cancel your corrections. You may terminate your child's account at any time by submitting a request to NetZero via e-mail to [cancellation@netzero.net](mailto:cancellation@netzero.net).
-    7. This Special Notice is effective as of April 21, 2000 and is not effective prior to such date. This Special Notice only relates to children under the age of 13 and is not applicable in any respect to children 13 or over. In the event we make any changes to any of the information set forth in this Notice, we will promptly revise this Notice accordingly and make it available in our Privacy Statement located at [http://www.netzero.net](http://www.netzero.net/)
+    6. The parent of a child subscriber can review and have deleted their child's personal information and refuse to permit further collection or use of their child's information by accessing their child's NetZero Personal Profile information. Log on to the Service with the child's Member ID and Password. Click once on the NetZero logo on the ZeroPort. Then choose the Profile menu item. To retrieve your child's NetZero Personal Profile, you must enter your child's password and click the Retrieve button, you can only change the Profile of the Member ID that is shown. You are now at the Profile. By using the Back and Next buttons, you can navigate your way through the questions and change the necessary items. Once you are done, press the Submit button to leave or the Exit button to cancel your corrections. You may terminate your child's account at any time by submitting a request to NetZero via e-mail to [cancellation@netzero.com](mailto:cancellation@netzero.com).
+    7. This Special Notice is effective as of April 21, 2000 and is not effective prior to such date. This Special Notice only relates to children under the age of 13 and is not applicable in any respect to children 13 or over. In the event we make any changes to any of the information set forth in this Notice, we will promptly revise this Notice accordingly and make it available in our Privacy Statement located at [http://www.netzero.com](http://www.netzero.com/)
 
 Back to list
 
@@ -185,7 +185,7 @@ Back to list
 
  **Use of Cookies**.
 
-NetZero uses a feature of your Web browser called ?cookies? to automate certain aspects of our Site and Services. Cookies are very small files that are stored on your computer and that enable us to recognize your computer each time you return to our Site or use our Service. By using cookies, NetZero can keep track of your preferences, what you have already seen on our Site and what you haven't, and any personalization you've done, without requiring you to enter a password every time you come back. NetZero uses any information gathered using our cookies in compliance with this Privacy Statement.
+NetZero uses a feature of your Web browser called 'cookies' to automate certain aspects of our Site and Services. Cookies are very small files that are stored on your computer and that enable us to recognize your computer each time you return to our Site or use our Service. By using cookies, NetZero can keep track of your preferences, what you have already seen on our Site and what you haven't, and any personalization you've done, without requiring you to enter a password every time you come back. NetZero uses any information gathered using our cookies in compliance with this Privacy Statement.
 
 Third parties, including advertisers with whom NetZero may have a relationship, may also set cookies. Such third parties are responsible for placing and using such cookies and may collect information about you through such cookies; NetZero does not have access to such cookies, control the use of such cookies nor control over the privacy policy of such parties. 
 
