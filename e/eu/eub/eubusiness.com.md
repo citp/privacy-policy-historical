@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the eubusiness.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204025640id_/http%3A//www.eubusiness.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eubusiness.com privacy policy that was archived on 2005-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050608122946id_/http%3A//www.eubusiness.com/privacy) for the most accurate reproduction.*
 
 # EUbusiness - Privacy
+
+| 
 
 Privacy Statement
 
@@ -29,13 +31,16 @@ In order to receive our email alerts, users have to complete a registration form
 We request information from users on our order forms. Users have to provide contact information (such as name and delivery address) and financial information (such as credit card number and expiry date). This information is used for billing purposes and to fulfill customer orders. If we have trouble processing an order, this contact information is used to get in touch with the user.
 
 **Cookies**  
-A cookie is a small text file written to a user’s hard drive that contains the User ID. The cookies do not contain any personal information about users. The use of cookies is now widespread. The reason we use cookies is to save our users time on the site (so that users do not have to log in with a password more than once); and also so that we can personalise a user's experience of the site. If a user sets up his browser to reject the cookie, he or she may still use the site although functionality will be impaired.
+A cookie is a small text file written to a user's hard drive that contains the User ID. The cookies do not contain any personal information about users. The use of cookies is now widespread. The reason we use cookies is to save our users time on the site (so that users do not have to log in with a password more than once); and also so that we can personalise a user's experience of the site. If a user sets up his browser to reject the cookie, he or she may still use the site although functionality will be impaired.
 
 **Advertising**  
-EUbusiness works with a third party that serves ads to this site. To find out more about how Engage Business Media manages the privacy of information in conjunction with serving ads on this site, please go to: http://www.engage.com/privacy/ . 
+EUbusiness runs advertising for a wide variety of organisations. These adverts are served from our own advertising server, Falk AdSolution, as well as from third-party ad servers managed by the advertiser. Recent third-party ad servers include Vibrant Media. These ad servers may attempt to set cookies (see above) on your computer. All these sites stress that information gathered through these cookies is used purely for the purpose of ad delivery, recording and segmentation. They do not use information gathered through their cookies for their own use, and they do not collect any personally identifiable information.
 
-**Log Files**  
-We use IP addresses to analyse trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use.
+[**Falk AdSolution Privacy Policy**](http://www.falkag.net/page.php?Id=58)  
+[**Vibrant Media Privacy Policy**](http://www.vibrantmedia.com/site/privacy.html)
+
+ **Log Files**  
+We use IP addresses to analyse trends, administer the site, track user's movement, and gather broad demographic information for aggregate use.
 
 **Links**  
 This web site contains links to other sites. Please be aware that EUbusiness is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of these third party sites. This privacy statement applies solely to information collected by this Web site.
@@ -47,7 +52,7 @@ If a user wishes to subscribe to our newswires, we ask for contact information s
 From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose any information requested. Information requested may include contact information (such as name and delivery address), and demographic information (such as postcode, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the functionality of the site.
 
 **Security**  
-This website takes every precaution to protect our users’ information. When users submit sensitive information via the website, your information is protected both online and off-line.
+This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line.
 
 When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, as will be the case for most of the time that a user is browsing the web.
 
@@ -58,3 +63,5 @@ If a user’s personally identifiable information changes (such as your postcode
 
 **Notification of Changes**  
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+
+| 
