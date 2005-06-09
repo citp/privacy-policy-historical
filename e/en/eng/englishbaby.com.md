@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the englishbaby.com privacy policy that was archived on 2004-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041224003635id_/http%3A//englishbaby.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the englishbaby.com privacy policy that was archived on 2005-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050609083842id_/http%3A//www.englishbaby.com/privacy.htm) for the most accurate reproduction.*
 
 # English, baby! - Services for English Language Programs
 
@@ -111,7 +111,7 @@ Below is a summary of the situations in which English, baby! might share informa
 **Co-Branding**  
 Some of our services, such as English, baby! email, are offered in conjunction with partner companies. In order to provide these services, English, baby! may choose to share some of you user data (e.g., user name and email address).   
 **Content Partners**  
-Some English, baby! content is “sponsored by” or “presented by” other companies. English, baby! typically shares market research data (how the sponsorship performed, names of contest winners, etc.) collected on the site or via email surveys with these partners. This information is aggregate and not linked to specific users.   
+Some English, baby! content is �sponsored by� or �presented by� other companies. English, baby! typically shares market research data (how the sponsorship performed, names of contest winners, etc.) collected on the site or via email surveys with these partners. This information is aggregate and not linked to specific users.   
 **Partner Sponsorships**  
 Partners may sponsor promotions, contests and sweepstakes that require you to reveal details such as your name, address or phone number. Always check their privacy policy before revealing information about yourself. If you don't want these sponsors to have your personal information, you can choose to not participate. 
 
