@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flightline.co.uk privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208124527id_/http%3A//www.flightline.co.uk/help/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightline.co.uk privacy policy that was archived on 2005-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050609090931id_/http%3A//www.flightline.co.uk/help/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy of flightline.co.uk
 
@@ -40,5 +40,5 @@ For any other information email [webmaster](mailto:webmaster@flightline.co.uk)
 
 **Please note calls may be recorded.**  
 Flightline Essex Limited, Flightline House, 32-38 Milton Road, Westcliff-on-Sea, Essex, UK, SS0 7JE Tel: 0800 541 541  
-© Copyright 1996-2004 Flightline Essex Limited. All Rights Reserved. E&OE.  
+© Copyright 1996-2005 Flightline Essex Limited. All Rights Reserved. E&OE.  
 [XHTML](http://validator.w3.org/check?uri=referer), [CSS](http://jigsaw.w3.org/css-validator/validator?uri=http://www.flightline.co.uk), [WAI-AAA](http://www.w3.org/WAI/WCAG1AAA-Conformance "Explanation of Level Triple-A Conformance"), [508](http://www.contentquality.com/mynewtester/cynthia.exe?Url1=http://www.flightline.co.uk)
