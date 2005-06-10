@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ebgames.com privacy policy that was archived on 2004-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041206231056id_/http%3A//ebgames.com/ebx/help/privacy/privacyStatement.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ebgames.com privacy policy that was archived on 2005-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050610021009id_/http%3A//www.ebgames.com/ebx/help/privacy/privacyStatement.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>EBgames.com - Electronics Boutique</title>
@@ -21,7 +21,8 @@ return (true);
 }
 
 function popupWindow(w_url,w_width,w_height) {
-openWindow = window.open(w_url,"win","toolbar=0,location=0,scrollbars=1,directories=0,status=1,menubar=1,width=" + w_width + ",height=" + w_height);
+openWindow = window.open(w_url,"win"+w_height,"toolbar=0,location=0,scrollbars=1,directories=0,status=1,menubar=1,width=" + w_width + ",height=" + w_height);
+openWindow.focus();
 }
 
 
@@ -31,7 +32,11 @@ function resetDrop(){
 function gotoPage(theForm){
 	selInd = theForm.selField.selectedIndex;
 	goURL = theForm.selField.options[selInd].value;
-	top.location.href = "/ebx/categories/products/deptpage.asp?typ=p&web_dept="+goURL;
+	if (goURL == "*"){
+		top.location.href = "/ebx/categories/homepages/preowned/";
+	}else{
+		top.location.href = "/ebx/categories/products/deptpage.asp?typ=p&nav=p&web_dept="+goURL;
+	}
 }
 
 
@@ -56,9 +61,9 @@ function preloadHideMenu(theevent){
 </script>
 
 </head><body bgcolor="#FFFFFF" leftmargin="5" topmargin="0" marginwidth="5" marginheight="0" onload="resetDrop();"><map name="servicesNavMap">
-<area shape="rect" alt="Your shopping cart" coords="296,0,339,25" href="http://www.ebgames.com/ebx/cart/basket.asp?mscsid=6E43J4LHASXJ9JD28SDAMCNKV3KV06VD" target="_top">
+<area shape="rect" alt="Your shopping cart" coords="296,0,339,25" href="http://www.ebgames.com/ebx/cart/basket.asp?mscsid=4ENV8GNQWW998KVCHWS21KQBR1QB67F3" target="_top">
 <area shape="rect" alt="Your Wish List" coords="230,0,294,25" href="http://www.ebgames.com/ebx/myaccount/wishlist/wishlist.asp" target="_top">
-<area shape="rect" alt="Your account information" coords="162,0,228,25" href="https://www.ebgames.com/ebx/cart/billing.asp?source=myaccount&amp;mscsid=6E43J4LHASXJ9JD28SDAMCNKV3KV06VD" target="_top">
+<area shape="rect" alt="Your account information" coords="162,0,228,25" href="https://www.ebgames.com/ebx/cart/billing.asp?source=myaccount&amp;mscsid=4ENV8GNQWW998KVCHWS21KQBR1QB67F3" target="_top">
 <area shape="rect" alt="Check the status of an order" coords="104,0,160,25" href="https://www.ebgames.com/ebx/myaccount/orderstatus/default.asp" target="_top">
 <area shape="rect" alt="Store Locator" coords="27,0,102,25" href="#" onclick="window.open('http://clients.mapquest.com/eb/mqlocator?link=find','win','toolbar=1,location=0,scrollbars=1,directories=0,status=0,menubar=0,width=640,height=500');return true;">
 <area shape="rect" alt="Go to the help desk" coords="0,0,25,25" href="http://www.ebgames.com/ebx/help/default.asp" target="_top">
@@ -107,52 +112,31 @@ function atOnce()
 
 <table width="770" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-		<td rowspan="2">
-			<a href="http://www.ebgames.com/ebx/default.asp" target="_top"><img src="/ebx_assets/tabs/2004-11-17-NintendoDS/LogoTop.gif" width="210" height="47" border="0" alt=""></a></td>
-		
-		<td rowspan="2" valign="TOP" width="220" height="47">
-		<img src="/ebx_assets/tabs/2004-11-17-NintendoDS/TopMiddle.gif" width="220" height="47" border="0"></td>
 		<td>
-			<img src="/ebx_assets/tabs/2004-11-17-NintendoDS/Services.gif" width="340" height="26" border="0" usemap="#servicesNavMap"></td>
-	</tr>
+			<a href="http://www.ebgames.com/ebx/default.asp" target="_top"><img src="/ebx_assets/tabs/2005-04-20-Refresh/logo.gif" width="224" height="51" alt="" border="0"></a></td>
+		<td>
+			<img src="/ebx_assets/tabs/2005-04-20-Refresh/SiteRefresh-top_02.gif" width="202" height="51" alt=""></td>
+		<td>
+
+<table width="344" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td colspan="3">
+			<img src="/ebx_assets/tabs/2005-04-20-Refresh/Services.gif" width="344" height="27" alt="" usemap="#servicesNavMap" border="0"></td>
+	<form name="preownedForm"></form></tr>
 	<tr>
-		<td align="RIGHT">
-			<img src="/ebx_assets/tabs/2004-11-17-NintendoDS/UnderServices.gif" width="340" height="21" border="0"></td>
-	</tr>
-</tbody></table><table width="770" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td valign="top">
-			<a href="http://www.ebgames.com/ebx/default.asp" target="_top"><img src="/ebx_assets/tabs/2004-11-17-NintendoDS/LogoBottom.gif" width="210" height="13" border="0"></a></td>
 		<td>
-			<a href="http://www.ebgames.com/ebx/categories/homepages/playstation2/default.asp" target="_top"><img src="/ebx_assets/tabs/2004-11-17-NintendoDS/PlayStation2.gif" width="110" height="21" border="0" alt="PlayStation 2"></a></td>
+			<img src="/ebx_assets/spacer.gif" width="131" height="24" alt=""></td>
 		<td>
-			<a href="http://www.ebgames.com/ebx/categories/homepages/xbox/default.asp" target="_top"><img src="/ebx_assets/tabs/2004-11-17-NintendoDS/Xbox.gif" width="110" height="21" border="0" alt="Xbox"></a></td>
-		<td>
-			<a href="http://www.ebgames.com/ebx/categories/homepages/gamecube/default.asp" target="_top"><img src="/ebx_assets/tabs/2004-11-17-NintendoDS/GameCube.gif" width="110" height="21" border="0" alt="GameCube"></a></td>
-		<td>
-			<a href="http://www.ebgames.com/ebx/categories/homepages/gameboy/default.asp" target="_top"><img src="/ebx_assets/tabs/2004-11-17-NintendoDS/GameBoy.gif" width="110" height="21" border="0" alt="Game Boy"></a></td>
-		<td>
-			<a href="http://www.ebgames.com/ebx/categories/homepages/nintendods/default.asp" target="_top"><img src="/ebx_assets/tabs/2004-11-17-NintendoDS/NintendoDS.gif" width="120" height="21" border="0" alt="Nintendo DS"></a></td>
-	</tr>
-</tbody></table><table width="770" border="0" cellpadding="0" cellspacing="0">
-	<form name="preownedForm"></form>
-	<tbody><tr>
-		<td width="110">
-			<a href="http://www.ebgames.com/ebx/default.asp" target="_top"><img src="/ebx_assets/tabs/2004-11-17-NintendoDS/Welcome.gif" width="110" height="26" border="0" alt="Welcome"></a></td>
-		<td width="110" background="/ebx_assets/tabs/2004-11-17-NintendoDS/TabBackOffRight2.gif">
-			<a href="http://www.ebgames.com/ebx/categories/homepages/pcgames/default.asp" target="_top"><img src="/ebx_assets/tabs/2004-11-17-NintendoDS/PCGames.gif" width="110" height="26" border="0" alt="PC Games"></a></td>
-		<td width="110" background="/ebx_assets/tabs/2004-11-17-NintendoDS/TabBackOff.gif">
-			<a href="http://www.ebgames.com/ebx/categories/homepages/playstation/default.asp" target="_top"><img src="/ebx_assets/tabs/2004-11-17-NintendoDS/PlayStation.gif" width="110" height="26" border="0" alt="PlayStation"></a></td>
-		<td width="110" background="/ebx_assets/tabs/2004-11-17-NintendoDS/TabBackOff.gif">
-			<a href="http://www.ebgames.com/ebx/categories/homepages/actionfigures/default.asp" target="_top"><img src="/ebx_assets/tabs/2004-11-17-NintendoDS/ActionFigures.gif" width="110" height="26" border="0" alt="Action Figures"></a></td>
-		<td width="157" background="/ebx_assets/tabs/2004-11-17-NintendoDS/TabBackOff.gif">
-			<a href="http://www.ebgames.com/ebx/categories/homepages/preowned/default.asp" target="_top"><img src="/ebx_assets/tabs/2004-11-17-NintendoDS/Preowned1.gif" width="157" height="26" border="0" alt="Pre-Played"></a></td>
-		<td width="173" background="/ebx_assets/tabs/2004-11-17-NintendoDS/Preowned2.gif"><select name="selField" style="width: 130px;font-size: 9px;" onchange="gotoPage(this.form)">
+			<a href="/ebx/categories/homepages/preowned/"><img src="/ebx_assets/tabs/2005-04-20-Refresh/Preplayed-toptitle.gif" width="77" height="24" alt="Pre-Played Home" border="0"></a></td>
+		<td background="/ebx_assets/tabs/2005-04-20-Refresh/PrePlayedBackground.gif" width="136" height="24">
+
+
+<select name="selField" style="width: 130px;font-size: 9px;" onchange="gotoPage(this.form)">
 	<option selected="" value="#">Choose a Platform...</option>
+	<option value="*">Pre-Played Home</option>
 	<option value="PlayStation%202">PlayStation 2</option>
 	<option value="Xbox">Xbox</option>
 	<option value="GameCube">GameCube</option>
-	<option value="PC%20Games">PC Games</option>
 	<option value="GB%20Advance">Game Boy Advance</option>
 	<option value="GameBoy%20Color">Game Boy Color</option>
 	<option value="GB%20Classic">Game Boy</option>
@@ -165,6 +149,32 @@ function atOnce()
 	<option value="dvd">DVD Movies</option>
 </select></td>
 	</tr>
+</tbody></table></td>
+	</tr>
+</tbody></table>
+<table width="770" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td>
+			<a href="http://www.ebgames.com/ebx/default.asp" target="_top"><img src="/ebx_assets/tabs/2005-04-20-Refresh/Welcome.gif" width="71" height="42" alt="" border="0"></a></td>
+		<td>
+			<a href="http://www.ebgames.com/ebx/categories/homepages/playstation2/default.asp" target="_top"><img src="/ebx_assets/tabs/2005-04-20-Refresh/PlayStation2.gif" width="100" height="42" alt="" border="0"></a></td>
+		<td>
+			<a href="http://www.ebgames.com/ebx/categories/homepages/psp/default.asp" target="_top"><img src="/ebx_assets/tabs/2005-04-20-Refresh/PSP.gif" width="41" height="42" alt="" border="0"></a></td>
+		<td>
+			<a href="http://www.ebgames.com/ebx/categories/homepages/xbox/default.asp" target="_top"></a><a href="http://www.ebgames.com/ebx/categories/homepages/xbox/default.asp" target="_top"><img src="/ebx_assets/tabs/2005-04-20-Refresh/Xbox.gif" width="51" height="42" alt="" border="0"></a></td>
+		<td>
+			<a href="http://www.ebgames.com/ebx/categories/homepages/pcgames/default.asp" target="_top"><img src="/ebx_assets/tabs/2005-04-20-Refresh/PCGames.gif" width="79" height="42" alt="" border="0"></a></td>
+		<td>
+			<a href="http://www.ebgames.com/ebx/categories/homepages/gamecube/default.asp" target="_top"><img src="/ebx_assets/tabs/2005-04-20-Refresh/GameCube.gif" width="83" height="42" alt="" border="0"></a></td>
+		<td>
+			<a href="http://www.ebgames.com/ebx/categories/homepages/nintendods/default.asp" target="_top"><img src="/ebx_assets/tabs/2005-04-20-Refresh/NintendoDS.gif" width="98" height="42" alt="" border="0"></a></td>
+		<td>
+			<a href="http://www.ebgames.com/ebx/categories/homepages/gameboy/default.asp" target="_top"><img src="/ebx_assets/tabs/2005-04-20-Refresh/GameBoy.gif" width="81" height="42" alt="" border="0"></a></td>
+		<td>
+			<a href="http://www.ebgames.com/ebx/categories/homepages/nokia/default.asp" target="_top"><img src="/ebx_assets/tabs/2005-04-20-Refresh/NGage.gif" width="68" height="42" alt="" border="0"></a></td>
+		<td>
+			<a href="http://www.ebgames.com/ebx/product/giftcard.asp" target="_top"><img src="/ebx_assets/tabs/2005-04-20-Refresh/GiftCard.gif" width="98" height="42" alt="" border="0"></a></td>
+	</tr>
 </tbody></table>
 
 
@@ -174,7 +184,7 @@ function atOnce()
 
 <img src="/ebx_assets/spacer.gif" width="16" height="1" border="0">
 </td>
-<td width="136" rowspan="2" bgcolor="#FFFFFF" valign="TOP" background="/ebx_assets/sidebar/coop-background.gif">
+<td width="136" rowspan="2" bgcolor="#FFFFFF" valign="TOP">
 
 
 
@@ -184,34 +194,46 @@ function atOnce()
 
 
 <!--Inserted HTML code from MSASv1.0-->
-<a href="http://www.ebgames.com/ebx/adredir.asp?ciid=3889&amp;url=http://www.ebgames.com/ebx/product/giftcard.asp" target="_top"><img src="/ebx/ads/banners/GiftCard-c.jpg" width="120" height="160" border="0" alt="Need a gift... get an EBGames Gift Card"></a><br>
+<a href="http://www.ebgames.com/ebx/adredir.asp?ciid=4162&amp;url=http://www.ebgames.com/ebx/product/giftcard.asp" target="_top"><img src="/ebx/ads/banners/GiftCard-c.jpg" width="120" height="160" border="0" alt="Need a gift... get an EBGames Gift Card"></a>
+<br>
 
 <img src="/ebx_assets/spacer-grey.gif" alt="" width="136" height="1" vspace="5"><br>
 
+
 <!--Inserted HTML code from MSASv1.0-->
-<a href="http://www.ebgames.com/ebx/adredir.asp?ciid=3893&amp;url=/ebx/categories/homepages/preowned/default.asp" target="_top"><img src="/ebx/ads/banners/PrePlayed-c-Guaranteed.gif" width="120" height="160" border="0" alt="Buy Pre-Played Games!"></a><br>
+<a href="http://www.ebgames.com/ebx/adredir.asp?ciid=4163&amp;url=/ebx/categories/homepages/preowned/default.asp" target="_top"><img src="/ebx/ads/banners/PrePlayed-c-Guaranteed.gif" width="120" height="160" border="0" alt="Buy Pre-Played Games!"></a>
+<br>
 
 <img src="/ebx_assets/spacer-grey.gif" alt="" width="136" height="1" vspace="5"><br>
 
+
 <!--Inserted HTML code from MSASv1.0-->
-<a href="http://www.ebgames.com/ebx/adredir.asp?ciid=3894&amp;url=http://www.ebgames.com/ebx/groups/easport/" target="_top"><img src="/ebx/ads/banners/ROS-ban-EASports.gif" width="120" height="160" border="0" alt="EA Sports"></a><br>
+<a href="http://www.ebgames.com/ebx/adredir.asp?ciid=4164&amp;url=/ebx/ads/shops/instore-pickup/" target="_top"><img src="/ebx/ads/banners/InStorePickup-c.jpg" width="120" height="160" border="0" alt="PRE-ORDER ONLINE AND PICKUP IN STORE!"></a>
+<br>
 
 <img src="/ebx_assets/spacer-grey.gif" alt="" width="136" height="1" vspace="5"><br>
 
+
 <!--Inserted HTML code from MSASv1.0-->
-<a href="http://www.ebgames.com/ebx/adredir.asp?ciid=3895&amp;url=http://www.ebgames.com/ebx/ads/promos/mmo/default.asp" target="_top"><img src="/ebx/ads/banners/ROS-c-MMO.gif" width="120" height="160" border="0" alt="MMO Games"></a><br>
+<a href="http://www.ebgames.com/ebx/adredir.asp?ciid=4165&amp;url=/ebx/help/esrb/default.asp" target="_top"><img src="/ebx/ads/banners/ESRB-ROS.jpg" width="120" height="160" border="0" alt="Click Here to find out more on ESRB ratings!"></a>
+<br>
 
 <img src="/ebx_assets/spacer-grey.gif" alt="" width="136" height="1" vspace="5"><br>
 
+
 <!--Inserted HTML code from MSASv1.0-->
-<a href="http://www.ebgames.com/ebx/adredir.asp?ciid=3896&amp;url=http://www.ebgames.com/ebx/ads/promos/alienware/" target="_top"><img src="/ebx/ads/banners/ROS-Alienware.jpg" width="120" height="160" border="0" alt="Alienware!"></a><br>
+<a href="http://www.ebgames.com/ebx/adredir.asp?ciid=4166&amp;url=http://www.ebgames.com/ebx/ads/promos/alienware/" target="_top"><img src="/ebx/ads/banners/ROS-Alienware.jpg" width="120" height="160" border="0" alt="Alienware!"></a>
+<br>
 
 <img src="/ebx_assets/spacer-grey.gif" alt="" width="136" height="1" vspace="5"><br>
 
-<!--Inserted HTML code from MSASv1.0-->
-<a href="http://www.ebgames.com/ebx/adredir.asp?ciid=3897&amp;url=/ebx/groups/muppets/default.asp" target="_top"><img src="/ebx/ads/banners/Muppets-ROS.jpg" width="120" height="160" border="0" alt="Muppets Shop!"></a>
 
-<img src="/ebx_assets/spacer.gif" width="138" height="1" border="0"></td>
+<!--Inserted HTML code from MSASv1.0-->
+<a href="http://www.ebgames.com/ebx/adredir.asp?ciid=4167&amp;url=http://www.ebgames.com/ebx/ads/promos/mmo/default.asp" target="_top"><img src="/ebx/ads/banners/ROS-c-MMO.gif" width="120" height="160" border="0" alt="MMO Games"></a>
+<br>
+
+<img src="/ebx_assets/spacer.gif" alt="" width="1" height="5" vspace="5"><br>
+<img src="/ebx_assets/spacer-grey.gif" alt="" width="136" height="1"></td>
 	</tr>
 </tbody></table>
 	
@@ -238,10 +260,10 @@ function atOnce()
 o = "<IMG SRC=\"/ebx_assets/spacer.gif\" WIDTH=";
 p = "><TD BACKGROUND=\"/ebx_assets/sidebar/SideBar-";
 function sbtop(img,css){
-	document.write("<TR><TD WIDTH=6><IMG SRC=\"/ebx_assets/sidebar/TitleBar-Left.gif\" WIDTH=6 HEIGHT=21></TD><TD WIDTH=128><IMG SRC=\"/ebx_assets/sidebar/"+img+"\" WIDTH=128 HEIGHT=21></TD><TD WIDTH=6><IMG SRC=\"/ebx_assets/sidebar/TitleBar-Right.gif\" WIDTH=6 HEIGHT=21></TD></TR><TR"+p+"Left.gif\">"+o+"6 HEIGHT=1></TD><TD BGCOLOR=#E5E5E5>"+o+"128 HEIGHT=6></TD"+p+"Right.gif\">"+o+"6 HEIGHT=1></TD></TR><TR"+p+"Left.gif\">"+o+"6 HEIGHT=1></TD><TD BGCOLOR=#E5E5E5 CLASS=\""+css+"\">");
+	document.write("<TR><TD WIDTH=6><IMG SRC=\"/ebx_assets/sidebar/TitleBar-Left2.gif\" WIDTH=6 HEIGHT=31></TD><TD WIDTH=128><IMG SRC=\"/ebx_assets/sidebar/"+img+"\" WIDTH=128 HEIGHT=31></TD><TD WIDTH=6><IMG SRC=\"/ebx_assets/sidebar/TitleBar-Right2.gif\" WIDTH=6 HEIGHT=31></TD></TR><TR"+p+"Left2.gif\">"+o+"6 HEIGHT=1></TD><TD BGCOLOR=#F8F8F8>"+o+"128 HEIGHT=6></TD"+p+"Right2.gif\">"+o+"6 HEIGHT=1></TD></TR><TR"+p+"Left2.gif\">"+o+"6 HEIGHT=1></TD><TD BGCOLOR=#F8F8F8 CLASS=\""+css+"\">");
 }
 function sbbtm(){
-	document.write("</TD"+p+"Right.gif\">"+o+"6 HEIGHT=1></TD></TR><TR"+p+"Left.gif\">"+o+"6 HEIGHT=1></TD><TD BGCOLOR=#E5E5E5>"+o+"128 HEIGHT=6></TD"+p+"Right.gif\">"+o+"6 HEIGHT=1></TD></TR><TR><TD BGCOLOR=#000000>"+o+"6 HEIGHT=1></TD><TD BGCOLOR=#000000>"+o+"128 HEIGHT=1></TD><TD BGCOLOR=#000000>"+o+"6 HEIGHT=1></TD></TR>");
+	document.write("</TD"+p+"Right2.gif\">"+o+"6 HEIGHT=1></TD></TR><TR"+p+"Left2.gif\">"+o+"6 HEIGHT=1></TD><TD BGCOLOR=#F8F8F8>"+o+"128 HEIGHT=6></TD"+p+"Right2.gif\">"+o+"6 HEIGHT=1></TD></TR><TR><TD BGCOLOR=#91A5BF>"+o+"6 HEIGHT=1></TD><TD BGCOLOR=#91A5BF>"+o+"128 HEIGHT=1></TD><TD BGCOLOR=#91A5BF>"+o+"6 HEIGHT=1></TD></TR>");
 }
 </script>
 
@@ -250,55 +272,182 @@ function sbbtm(){
 
 <table width="140" border="0" cellpadding="0" cellspacing="0">
 <form method="POST" name="srchFrm" target="_top" onsubmit="Javascript:return search(this);"></form>
-<input type="HIDDEN" name="shopper_id" value="6E43J4LHASXJ9JD28SDAMCNKV3KV06VD">
-<script language="JavaScript">sbtop("TitleBar-ProductSearch.gif","sidebar_sm");</script><tbody><tr><td width="6"><img src="/ebx_assets/sidebar/TitleBar-Left.gif" width="6" height="21"></td><td width="128"><img src="/ebx_assets/sidebar/TitleBar-ProductSearch.gif" width="128" height="21"></td><td width="6"><img src="/ebx_assets/sidebar/TitleBar-Right.gif" width="6" height="21"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#E5E5E5"><img src="/ebx_assets/spacer.gif" width="128" height="6"></td><td background="/ebx_assets/sidebar/SideBar-Right.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#E5E5E5" class="sidebar_sm">
+<input type="HIDDEN" name="shopper_id" value="4ENV8GNQWW998KVCHWS21KQBR1QB67F3">
+<script language="JavaScript">sbtop("TitleBar-ProductSearch2.gif","sidebar_sm");</script><tbody><tr><td width="6"><img src="/ebx_assets/sidebar/TitleBar-Left2.gif" width="6" height="31"></td><td width="128"><img src="/ebx_assets/sidebar/TitleBar-ProductSearch2.gif" width="128" height="31"></td><td width="6"><img src="/ebx_assets/sidebar/TitleBar-Right2.gif" width="6" height="31"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#F8F8F8"><img src="/ebx_assets/spacer.gif" width="128" height="6"></td><td background="/ebx_assets/sidebar/SideBar-Right2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#F8F8F8" class="sidebar_sm">
 
 <input type="text" size="12" maxlength="100" name="searchword">&nbsp;<input type="submit" name="submit1" value="Go">
 
 
 <input type="hidden" name="web_dept" value="">
-<script language="JavaScript">sbbtm();</script></td><td background="/ebx_assets/sidebar/SideBar-Right.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#E5E5E5"><img src="/ebx_assets/spacer.gif" width="128" height="6"></td><td background="/ebx_assets/sidebar/SideBar-Right.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td bgcolor="#000000"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#000000"><img src="/ebx_assets/spacer.gif" width="128" height="1"></td><td bgcolor="#000000"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr>
+<script language="JavaScript">sbbtm();</script></td><td background="/ebx_assets/sidebar/SideBar-Right2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#F8F8F8"><img src="/ebx_assets/spacer.gif" width="128" height="6"></td><td background="/ebx_assets/sidebar/SideBar-Right2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td bgcolor="#91A5BF"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#91A5BF"><img src="/ebx_assets/spacer.gif" width="128" height="1"></td><td bgcolor="#91A5BF"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr>
 
 </tbody></table>
 
-&nbsp;
+<br>
 
 <table width="140" border="0" cellpadding="0" cellspacing="0">
 
-<script language="JavaScript">sbtop("TitleBar-Platforms.gif","sidebar_lg");</script><tbody><tr><td width="6"><img src="/ebx_assets/sidebar/TitleBar-Left.gif" width="6" height="21"></td><td width="128"><img src="/ebx_assets/sidebar/TitleBar-Platforms.gif" width="128" height="21"></td><td width="6"><img src="/ebx_assets/sidebar/TitleBar-Right.gif" width="6" height="21"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#E5E5E5"><img src="/ebx_assets/spacer.gif" width="128" height="6"></td><td background="/ebx_assets/sidebar/SideBar-Right.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#E5E5E5" class="sidebar_lg">
-		<a href="http://www.ebgames.com/ebx/categories/homepages/playstation2/" target="_top">PlayStation 2</a><br>
+<script language="JavaScript">sbtop("TitleBar-Platforms2.gif","sidebar_lg");</script><tbody><tr><td width="6"><img src="/ebx_assets/sidebar/TitleBar-Left2.gif" width="6" height="31"></td><td width="128"><img src="/ebx_assets/sidebar/TitleBar-Platforms2.gif" width="128" height="31"></td><td width="6"><img src="/ebx_assets/sidebar/TitleBar-Right2.gif" width="6" height="31"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#F8F8F8"><img src="/ebx_assets/spacer.gif" width="128" height="6"></td><td background="/ebx_assets/sidebar/SideBar-Right2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#F8F8F8" class="sidebar_lg">
+		<a href="http://www.ebgames.com/ebx/categories/homepages/playstation2/" target="_top">PlayStation 2</a>
+		
+		<br>
 	
-		<a href="http://www.ebgames.com/ebx/categories/homepages/pcgames/" target="_top">PC Games</a><br>
+		<a href="http://www.ebgames.com/ebx/categories/homepages/psp/" target="_top">PSP</a>
+		
+		<br>
 	
-		<a href="http://www.ebgames.com/ebx/categories/homepages/xbox/" target="_top">Xbox</a><br>
+		<a href="http://www.ebgames.com/ebx/categories/homepages/xbox/" target="_top">Xbox</a>
+		
+		<br>
 	
-		<a href="http://www.ebgames.com/ebx/categories/homepages/preowned/" target="_top">Pre-Played</a><br>
+		<a href="http://www.ebgames.com/ebx/categories/homepages/pcgames/" target="_top">PC Games</a>
+		
+		<br>
 	
-		<a href="http://www.ebgames.com/ebx/categories/homepages/gamecube/" target="_top">GameCube</a><br>
+		<a href="http://www.ebgames.com/ebx/categories/homepages/gamecube/" target="_top">GameCube</a>
+		
+		<br>
 	
-		<a href="http://www.ebgames.com/ebx/groups/psp/" target="_top">PSP</a><br>
+		<a href="http://www.ebgames.com/ebx/categories/homepages/nintendods/" target="_top">Nintendo DS</a>
+		
+		<br>
 	
-		<a href="http://www.ebgames.com/ebx/categories/homepages/nintendods/" target="_top">Nintendo DS</a><br>
+		<a href="http://www.ebgames.com/ebx/categories/homepages/gameboy/" target="_top">Game Boy</a>
+		
+		<br>
 	
-		<a href="http://www.ebgames.com/ebx/categories/homepages/gameboy/" target="_top">Game Boy</a><br>
+		<a href="http://www.ebgames.com/ebx/categories/homepages/nokia/" target="_top">N-Gage</a>
+		
+		<br>
 	
-		<a href="http://www.ebgames.com/ebx/categories/homepages/playstation/" target="_top">PlayStation</a><br>
+		<a href="http://www.ebgames.com/ebx/categories/homepages/actionfigures/" target="_top">Action Figures</a>
+		
+		<br>
 	
-		<a href="http://www.ebgames.com/ebx/categories/homepages/actionfigures/" target="_top">Action Figures</a><br>
+		<a href="http://www.ebgames.com/ebx/categories/products/deptpage.asp?web_dept=dvd" target="_top">DVD Movies</a>
+		
+		<br>
 	
-		<a href="http://www.ebgames.com/ebx/categories/homepages/movies/" target="_top">DVD Movies</a><br>
-	
-		<a href="http://www.ebgames.com/ebx/categories/homepages/pchardware/" target="_top">PC Gear</a><br>
-	
-		<a href="http://www.ebgames.com/ebx/categories/homepages/nokia/" target="_top">N-Gage</a><br>
-	<script language="JavaScript">sbbtm();</script></td><td background="/ebx_assets/sidebar/SideBar-Right.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#E5E5E5"><img src="/ebx_assets/spacer.gif" width="128" height="6"></td><td background="/ebx_assets/sidebar/SideBar-Right.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td bgcolor="#000000"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#000000"><img src="/ebx_assets/spacer.gif" width="128" height="1"></td><td bgcolor="#000000"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr>
+		<a href="http://www.ebgames.com/ebx/categories/homepages/preowned/" target="_top">Pre-Played</a>
+		<script language="javascript">
+<!--
+
+/*-------------------------------------------
+Copyright Notice
+--------------------------------------------*/
+
+   DQM_Notice = "DHTML QuickMenu, Copyright (c) - 2001, OpenCube Inc. - www.opencube.com"
+   
+
+
+/*-------------------------------------------
+Required menu Settings
+--------------------------------------------*/
+
+   DQM_sub_menu_width = 130
+   limit_multiple_users = true	
+  
+   DQM_urltarget = "_self"
+   
+   DQM_onload_statement = ""
+   DQM_codebase = "/ebx/include/"
+
+   DQM_border_color = "#000000"
+   
+   DQM_menu_bgcolor = "#CCCCCC"
+   DQM_hl_bgcolor = "#6699CC"
+
+   DQM_sub_xy = "0,0"
+   DQM_border_width = 1
+   DQM_divider_height = 0
+
+   /*---IE5-MAC Offset Fix - The following two
+   -----parameters correct a position reporting
+   -----bug in IE5 on the Mac platform. Adjust
+   -----the offsets below untill the first level
+   -----sub menus pop up in the correct location.*/
+   
+   DQM_ie5mac_offset_X = 0 // default is 10
+   DQM_ie5mac_offset_Y = 0 // default is 12
+
+
+/*-------------------------------------------
+Required font Settings
+--------------------------------------------*/
+   
+
+   DQM_textcolor = "#333333"
+   DQM_fontfamily = "Verdana"
+   DQM_fontsize = 9
+   DQM_fontsize_ie4 = 7
+   DQM_textdecoration = "normal"
+   DQM_fontweight = "normal"
+   DQM_fontstyle = "normal"
+   DQM_hl_textcolor = "#000000"
+   DQM_hl_textdecoration = "normal"
+
+   DQM_margin_top = 1
+   DQM_margin_bottom = 1
+   DQM_margin_left = 5
+
+/*---------------------------------------------
+Menu Item Settings
+-----------------------------------------------*/
+
+// *************** MENU more platforms ******************
+DQM_sub_xy0 = "-10,-100"
+DQM_sub_menu_width0 = 120
+DQM_rollover_image0 = "/ebx_assets/sidebar/nav-arrow.gif"
+DQM_rollover_wh0 = "48,10"
+DQM_icon_image0 = "/ebx_assets/sidebar/nav-arrow.gif"
+DQM_icon_rollover0 = "/ebx_assets/sidebar/nav-arrow.gif"
+DQM_icon_image_wh0 = "13,8"
+
+DQM_url0_0="/ebx/categories/homepages/preowned/default.asp";
+DQM_subdesc0_0="Pre-Played Home";
+DQM_url0_1="/ebx/categories/products/deptpage.asp?typ=p&nav=p&web_dept=PlayStation%202";
+DQM_subdesc0_1="PlayStation 2";
+DQM_url0_2="/ebx/categories/products/deptpage.asp?typ=p&nav=p&web_dept=Xbox";
+DQM_subdesc0_2="Xbox";
+DQM_url0_3="/ebx/categories/products/deptpage.asp?typ=p&nav=p&web_dept=GameCube";
+DQM_subdesc0_3="GameCube";
+DQM_url0_4="/ebx/categories/products/deptpage.asp?typ=p&nav=p&web_dept=PC%20Games";
+DQM_subdesc0_4="PC Games";
+DQM_url0_5="/ebx/categories/products/deptpage.asp?typ=p&nav=p&web_dept=GB%20Advance";
+DQM_subdesc0_5="Game Boy Advance";
+DQM_url0_6="/ebx/categories/products/deptpage.asp?typ=p&nav=p&web_dept=GameBoy%20Color";
+DQM_subdesc0_6="Game Boy Color";
+DQM_url0_7="/ebx/categories/products/deptpage.asp?typ=p&nav=p&web_dept=GB%20Classic";
+DQM_subdesc0_7="Game Boy";
+DQM_url0_8="/ebx/categories/products/deptpage.asp?typ=p&nav=p&web_dept=PlayStation";
+DQM_subdesc0_8="PlayStation";
+DQM_url0_9="/ebx/categories/products/deptpage.asp?typ=p&nav=p&web_dept=Dreamcast&banna=dreamcast";
+DQM_subdesc0_9="Dreamcast";
+DQM_url0_10="/ebx/categories/products/deptpage.asp?typ=p&nav=p&web_dept=Nintendo%2064&banna=n64";
+DQM_subdesc0_10="Nintendo 64";
+DQM_url0_11="/ebx/categories/products/deptpage.asp?typ=p&nav=p&web_dept=NES&banna=nes";
+DQM_subdesc0_11="NES";
+DQM_url0_12="/ebx/categories/products/deptpage.asp?typ=p&nav=p&web_dept=Sega%20Genesis&banna=genesis";
+DQM_subdesc0_12="Sega Genesis";
+DQM_url0_13="/ebx/categories/products/deptpage.asp?typ=p&nav=p&web_dept=Super%20Nintendo&banna=snes";
+DQM_subdesc0_13="Super Nintendo";
+DQM_url0_14="/ebx/categories/products/deptpage.asp?typ=p&nav=p&web_dept=dvd";
+DQM_subdesc0_14="DVD Movies";
+
+//-->
+</script>
+
+		<img src="/ebx_assets/sidebar/nav-arrow.gif" width="48" height="10" border="0" name="menu0" id="menu0" onmouseover="preloadShowMenu(event)" onmouseout="preloadHideMenu(event)">
+		
+		<br>
+	<script language="JavaScript">sbbtm();</script></td><td background="/ebx_assets/sidebar/SideBar-Right2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#F8F8F8"><img src="/ebx_assets/spacer.gif" width="128" height="6"></td><td background="/ebx_assets/sidebar/SideBar-Right2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td bgcolor="#91A5BF"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#91A5BF"><img src="/ebx_assets/spacer.gif" width="128" height="1"></td><td bgcolor="#91A5BF"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr>
 </tbody></table>
 
 
 
 <br>
 <table width="140" border="0" cellpadding="0" cellspacing="0">
-<script language="JavaScript">sbtop("TitleBar-GiftCard.gif","sidebar_lg");</script><tbody><tr><td width="6"><img src="/ebx_assets/sidebar/TitleBar-Left.gif" width="6" height="21"></td><td width="128"><img src="/ebx_assets/sidebar/TitleBar-GiftCard.gif" width="128" height="21"></td><td width="6"><img src="/ebx_assets/sidebar/TitleBar-Right.gif" width="6" height="21"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#E5E5E5"><img src="/ebx_assets/spacer.gif" width="128" height="6"></td><td background="/ebx_assets/sidebar/SideBar-Right.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#E5E5E5" class="sidebar_lg">
+<script language="JavaScript">sbtop("TitleBar-GiftCard2.gif","sidebar_lg");</script><tbody><tr><td width="6"><img src="/ebx_assets/sidebar/TitleBar-Left2.gif" width="6" height="31"></td><td width="128"><img src="/ebx_assets/sidebar/TitleBar-GiftCard2.gif" width="128" height="31"></td><td width="6"><img src="/ebx_assets/sidebar/TitleBar-Right2.gif" width="6" height="31"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#F8F8F8"><img src="/ebx_assets/spacer.gif" width="128" height="6"></td><td background="/ebx_assets/sidebar/SideBar-Right2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#F8F8F8" class="sidebar_lg">
 
 
 <a href="http://www.ebgames.com/ebx/product/giftcard.asp" target="_top">Buy Gift Card</a><br>
@@ -310,7 +459,7 @@ function sbbtm(){
 -->
 
 
-<script language="JavaScript">sbbtm();</script></td><td background="/ebx_assets/sidebar/SideBar-Right.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#E5E5E5"><img src="/ebx_assets/spacer.gif" width="128" height="6"></td><td background="/ebx_assets/sidebar/SideBar-Right.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td bgcolor="#000000"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#000000"><img src="/ebx_assets/spacer.gif" width="128" height="1"></td><td bgcolor="#000000"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr>
+<script language="JavaScript">sbbtm();</script></td><td background="/ebx_assets/sidebar/SideBar-Right2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#F8F8F8"><img src="/ebx_assets/spacer.gif" width="128" height="6"></td><td background="/ebx_assets/sidebar/SideBar-Right2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td bgcolor="#91A5BF"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#91A5BF"><img src="/ebx_assets/spacer.gif" width="128" height="1"></td><td bgcolor="#91A5BF"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr>
 </tbody></table>
 
 
@@ -318,43 +467,45 @@ function sbbtm(){
 
 
 <table width="140" border="0" cellpadding="0" cellspacing="0">
-<script language="JavaScript">sbtop("TitleBar-Classics.gif","sidebar_lg");</script><tbody><tr><td width="6"><img src="/ebx_assets/sidebar/TitleBar-Left.gif" width="6" height="21"></td><td width="128"><img src="/ebx_assets/sidebar/TitleBar-Classics.gif" width="128" height="21"></td><td width="6"><img src="/ebx_assets/sidebar/TitleBar-Right.gif" width="6" height="21"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#E5E5E5"><img src="/ebx_assets/spacer.gif" width="128" height="6"></td><td background="/ebx_assets/sidebar/SideBar-Right.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#E5E5E5" class="sidebar_lg">
+<script language="JavaScript">sbtop("TitleBar-Classics2.gif","sidebar_lg");</script><tbody><tr><td width="6"><img src="/ebx_assets/sidebar/TitleBar-Left2.gif" width="6" height="31"></td><td width="128"><img src="/ebx_assets/sidebar/TitleBar-Classics2.gif" width="128" height="31"></td><td width="6"><img src="/ebx_assets/sidebar/TitleBar-Right2.gif" width="6" height="31"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#F8F8F8"><img src="/ebx_assets/spacer.gif" width="128" height="6"></td><td background="/ebx_assets/sidebar/SideBar-Right2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#F8F8F8" class="sidebar_lg">
+	<a href="http://www.ebgames.com/ebx/categories/products/deptpage.asp?web_dept=playstation" target="_top">PlayStation</a><br>
+
 	<a href="http://www.ebgames.com/ebx/categories/products/deptpage.asp?web_dept=dreamcast&amp;banna=dreamcast" target="_top">Dreamcast</a><br>
 
 	<a href="http://www.ebgames.com/ebx/categories/products/deptpage.asp?web_dept=nintendo+64&amp;banna=n64" target="_top">Nintendo 64</a><br>
 
-	<a href="http://www.ebgames.com/ebx/categories/products/deptpage.asp?web_dept=GB%20Classic&amp;banna=gb" target="_top">GB Classic</a><br>
+	<a href="http://www.ebgames.com/ebx/categories/products/deptpage.asp?web_dept=GB%20Classic&amp;nav=p&amp;banna=gb" target="_top">GB Classic</a><br>
 
 	<a href="http://www.ebgames.com/ebx/categories/products/deptpage.asp?web_dept=Super+Nintendo&amp;typ=p&amp;nav=p&amp;banna=snes" target="_top">Super Nintendo</a><br>
 
 	<a href="http://www.ebgames.com/ebx/categories/products/deptpage.asp?web_dept=Sega+Genesis&amp;typ=p&amp;nav=p&amp;banna=genesis" target="_top">Sega Genesis</a><br>
 
 	<a href="http://www.ebgames.com/ebx/categories/products/deptpage.asp?web_dept=NES&amp;typ=p&amp;nav=p&amp;banna=nes" target="_top">Nintendo (NES)</a><br>
-<script language="JavaScript">sbbtm();</script></td><td background="/ebx_assets/sidebar/SideBar-Right.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#E5E5E5"><img src="/ebx_assets/spacer.gif" width="128" height="6"></td><td background="/ebx_assets/sidebar/SideBar-Right.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td bgcolor="#000000"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#000000"><img src="/ebx_assets/spacer.gif" width="128" height="1"></td><td bgcolor="#000000"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr>
+<script language="JavaScript">sbbtm();</script></td><td background="/ebx_assets/sidebar/SideBar-Right2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#F8F8F8"><img src="/ebx_assets/spacer.gif" width="128" height="6"></td><td background="/ebx_assets/sidebar/SideBar-Right2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td bgcolor="#91A5BF"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#91A5BF"><img src="/ebx_assets/spacer.gif" width="128" height="1"></td><td bgcolor="#91A5BF"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr>
 </tbody></table>
 
 &nbsp;
 
 <table width="140" border="0" cellpadding="0" cellspacing="0">
-<script language="JavaScript">sbtop("TitleBar-SpecialtyShops.gif","sidebar_lg");</script><tbody><tr><td width="6"><img src="/ebx_assets/sidebar/TitleBar-Left.gif" width="6" height="21"></td><td width="128"><img src="/ebx_assets/sidebar/TitleBar-SpecialtyShops.gif" width="128" height="21"></td><td width="6"><img src="/ebx_assets/sidebar/TitleBar-Right.gif" width="6" height="21"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#E5E5E5"><img src="/ebx_assets/spacer.gif" width="128" height="6"></td><td background="/ebx_assets/sidebar/SideBar-Right.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#E5E5E5" class="sidebar_lg">
+<script language="JavaScript">sbtop("TitleBar-SpecialtyShops2.gif","sidebar_lg");</script><tbody><tr><td width="6"><img src="/ebx_assets/sidebar/TitleBar-Left2.gif" width="6" height="31"></td><td width="128"><img src="/ebx_assets/sidebar/TitleBar-SpecialtyShops2.gif" width="128" height="31"></td><td width="6"><img src="/ebx_assets/sidebar/TitleBar-Right2.gif" width="6" height="31"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#F8F8F8"><img src="/ebx_assets/spacer.gif" width="128" height="6"></td><td background="/ebx_assets/sidebar/SideBar-Right2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#F8F8F8" class="sidebar_lg">
 
 
 <a href="http://www.ebgames.com/ebx/ads/promos/alienware/" target="_top">Alienware Systems</a><br>
 
-<a href="http://www.ebgames.com/ebx/groups/xboxLive/" target="_top">Xbox Live Games</a><br>
+<a href="http://www.ebgames.com/ebx/groups/subdept/xbx-xboxlive/" target="_top">Xbox Live Games</a><br>
 
-<a href="http://www.ebgames.com/ebx/groups/psonline/" target="_top">PS2 Online Games</a><br>
+<a href="http://www.ebgames.com/ebx/groups/subdept/ps2-onlinegames/" target="_top">PS2 Online Games</a><br>
 
 <a href="http://www.ebgames.com/ebx/ads/promos/mmo/default.asp" target="_top">MMO Games</a><br>
 
-<a href="https://www.ebgames.com/ebx/cart/comments.asp?rnd=0.1325037" target="_top">Weekly Giveaway</a><br>
+<a href="https://www.ebgames.com/ebx/cart/comments.asp?rnd=0.6746332" target="_top">Weekly Giveaway</a><br>
 <!--
 
 [[A HREF="[[%= UnSecureServerName %]]/ebx/ads/shops/e-Reader/default.asp" TARGET="_top"]]Nintendo e-Reader[[/A]][[BR]]
 -->
 
 
-<script language="JavaScript">sbbtm();</script></td><td background="/ebx_assets/sidebar/SideBar-Right.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#E5E5E5"><img src="/ebx_assets/spacer.gif" width="128" height="6"></td><td background="/ebx_assets/sidebar/SideBar-Right.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td bgcolor="#000000"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#000000"><img src="/ebx_assets/spacer.gif" width="128" height="1"></td><td bgcolor="#000000"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr>
+<script language="JavaScript">sbbtm();</script></td><td background="/ebx_assets/sidebar/SideBar-Right2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#F8F8F8"><img src="/ebx_assets/spacer.gif" width="128" height="6"></td><td background="/ebx_assets/sidebar/SideBar-Right2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td bgcolor="#91A5BF"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#91A5BF"><img src="/ebx_assets/spacer.gif" width="128" height="1"></td><td bgcolor="#91A5BF"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr>
 </tbody></table>
 
 
@@ -368,7 +519,7 @@ function sbbtm(){
 
 
 <table width="140" border="0" cellpadding="0" cellspacing="0">
-<script language="JavaScript">sbtop("TitleBar-Stores.gif","sidebar_lg");</script><tbody><tr><td width="6"><img src="/ebx_assets/sidebar/TitleBar-Left.gif" width="6" height="21"></td><td width="128"><img src="/ebx_assets/sidebar/TitleBar-Stores.gif" width="128" height="21"></td><td width="6"><img src="/ebx_assets/sidebar/TitleBar-Right.gif" width="6" height="21"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#E5E5E5"><img src="/ebx_assets/spacer.gif" width="128" height="6"></td><td background="/ebx_assets/sidebar/SideBar-Right.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#E5E5E5" class="sidebar_lg">
+<script language="JavaScript">sbtop("TitleBar-Stores2.gif","sidebar_lg");</script><tbody><tr><td width="6"><img src="/ebx_assets/sidebar/TitleBar-Left2.gif" width="6" height="31"></td><td width="128"><img src="/ebx_assets/sidebar/TitleBar-Stores2.gif" width="128" height="31"></td><td width="6"><img src="/ebx_assets/sidebar/TitleBar-Right2.gif" width="6" height="31"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#F8F8F8"><img src="/ebx_assets/spacer.gif" width="128" height="6"></td><td background="/ebx_assets/sidebar/SideBar-Right2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#F8F8F8" class="sidebar_lg">
 
 <!-- <A HREF="#" onClick="popupWindow('http://www.ebgames.com/ebx/storelocator/default.asp',640,450);">Store Locator</A><BR> -->
 <a href="#" onclick="window.open('http://clients.mapquest.com/eb/mqlocator?link=find','win','toolbar=1,location=0,scrollbars=1,directories=0,status=0,menubar=0,width=640,height=500');return true;">Store Locator</a><br>
@@ -382,7 +533,7 @@ function sbbtm(){
 
 
 
-<script language="JavaScript">sbbtm();</script></td><td background="/ebx_assets/sidebar/SideBar-Right.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#E5E5E5"><img src="/ebx_assets/spacer.gif" width="128" height="6"></td><td background="/ebx_assets/sidebar/SideBar-Right.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td bgcolor="#000000"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#000000"><img src="/ebx_assets/spacer.gif" width="128" height="1"></td><td bgcolor="#000000"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr>
+<script language="JavaScript">sbbtm();</script></td><td background="/ebx_assets/sidebar/SideBar-Right2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#F8F8F8"><img src="/ebx_assets/spacer.gif" width="128" height="6"></td><td background="/ebx_assets/sidebar/SideBar-Right2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td bgcolor="#91A5BF"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#91A5BF"><img src="/ebx_assets/spacer.gif" width="128" height="1"></td><td bgcolor="#91A5BF"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr>
 </tbody></table>
 
 
@@ -394,7 +545,7 @@ function sbbtm(){
 
 
 <table width="140" border="0" cellpadding="0" cellspacing="0">
-<script language="JavaScript">sbtop("TitleBar-Corporate.gif","sidebar_lg");</script><tbody><tr><td width="6"><img src="/ebx_assets/sidebar/TitleBar-Left.gif" width="6" height="21"></td><td width="128"><img src="/ebx_assets/sidebar/TitleBar-Corporate.gif" width="128" height="21"></td><td width="6"><img src="/ebx_assets/sidebar/TitleBar-Right.gif" width="6" height="21"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#E5E5E5"><img src="/ebx_assets/spacer.gif" width="128" height="6"></td><td background="/ebx_assets/sidebar/SideBar-Right.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#E5E5E5" class="sidebar_lg">
+<script language="JavaScript">sbtop("TitleBar-Corporate2.gif","sidebar_lg");</script><tbody><tr><td width="6"><img src="/ebx_assets/sidebar/TitleBar-Left2.gif" width="6" height="31"></td><td width="128"><img src="/ebx_assets/sidebar/TitleBar-Corporate2.gif" width="128" height="31"></td><td width="6"><img src="/ebx_assets/sidebar/TitleBar-Right2.gif" width="6" height="31"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#F8F8F8"><img src="/ebx_assets/spacer.gif" width="128" height="6"></td><td background="/ebx_assets/sidebar/SideBar-Right2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#F8F8F8" class="sidebar_lg">
 
 <a href="http://www.ebholdings.com/" target="_top">Corporate Site</a><br>
 
@@ -402,7 +553,7 @@ function sbbtm(){
 
 <a href="http://www.ebgames.com/ebx/help/contactus/corporate.asp" target="_top">Contact Us</a><br>
 
-<script language="JavaScript">sbbtm();</script></td><td background="/ebx_assets/sidebar/SideBar-Right.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#E5E5E5"><img src="/ebx_assets/spacer.gif" width="128" height="6"></td><td background="/ebx_assets/sidebar/SideBar-Right.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td bgcolor="#000000"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#000000"><img src="/ebx_assets/spacer.gif" width="128" height="1"></td><td bgcolor="#000000"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr>
+<script language="JavaScript">sbbtm();</script></td><td background="/ebx_assets/sidebar/SideBar-Right2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td background="/ebx_assets/sidebar/SideBar-Left2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#F8F8F8"><img src="/ebx_assets/spacer.gif" width="128" height="6"></td><td background="/ebx_assets/sidebar/SideBar-Right2.gif"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr><tr><td bgcolor="#91A5BF"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td><td bgcolor="#91A5BF"><img src="/ebx_assets/spacer.gif" width="128" height="1"></td><td bgcolor="#91A5BF"><img src="/ebx_assets/spacer.gif" width="6" height="1"></td></tr>
 </tbody></table><br>
 
 
@@ -415,8 +566,10 @@ function sbbtm(){
 
 
 <!--<img src="/ebx_assets/sidebar/BizRateLogo-Award.gif" alt="BizRate Customer Certified (GOLD) Site" width=110 height=40 ALIGN="top" border=0><BR>-->
-<a href="javascript:popupWindow('https://digitalid.verisign.com/as2/a6d50bf89c765c5a7a14193169474c83', 680, 662)"><img src="/ebx_assets/sidebar/verisign-logo.gif" alt="Jaq" width="108" height="64" border="0"></a>
+<!--<a HREF="javascript:popupWindow('https://digitalid.verisign.com/as2/a6d50bf89c765c5a7a14193169474c83', 680, 662)"><IMG SRC="/ebx_assets/sidebar/verisign-logo.gif" ALT="Crash" WIDTH=108 HEIGHT=64 BORDER=0></a>-->
 
+<script src="https://seal.verisign.com/getseal?host_name=www.ebgames.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=YES&amp;lang=en"></script>
+<font size="1" color="#ffffff">Crash</font>
 
 </center> 
 
@@ -636,13 +789,7 @@ Terms and Conditions of Use may be found by clicking
 
 <div id="embolden">Still Have a Question?</div>
 <br>
-If you didn't find what you needed here, feel free to call our Customer Service center at 1-877-432-9675 to speak with a Customer Service Representative.  If you prefer, <a href="JavaScript:atOnce();">contact us by e-mail</a>. Hours of operation: Open 7 days a week, 8:00 am to midnight EST. 
-
-
-<!-- <B>In observance of the July 4th holiday the Customer Service Center will close early at 9:00 p.m. EST on July 4, 2004.</B> -->
-
-<!-- <B> The Customer Service Center will be closed in observance of the Thanksgiving Holiday on Thursday, November 25, 2004.  We will resume our regular hours on Friday, November 26, 2004. </B> -->
-<br><br>
+If you didn't find what you needed here, feel free to call our Customer Service center at 1-877-432-9675 to speak with a Customer Service Representative.  If you prefer, <a href="JavaScript:atOnce();">contact us by e-mail</a>. Hours of operation: Open 7 days a week, 8:00 am to midnight EST. <br><br>
 
 <a href="../default.asp">Back to Main Menu</a>
 
@@ -660,13 +807,15 @@ If you didn't find what you needed here, feel free to call our Customer Service 
 
 <center>
 <br><br>
-<span class="std_sm">Copyright © 1996-2004 Electronics Boutique of America Inc. All rights reserved.<br> <a href="http://www.ebgames.com/ebx/help/copyright.asp" target="_top">Conditions of Use</a>. <a href="http://www.ebgames.com/ebx/help/privacy/privacyStatement.asp" target="_top">Privacy Statement</a>.<br>
+<span class="std_sm">Copyright © 1996-2005 Electronics Boutique of America Inc. All rights reserved.<br> <a href="http://www.ebgames.com/ebx/help/copyright.asp" target="_top">Conditions of Use</a>. <a href="http://www.ebgames.com/ebx/help/privacy/privacyStatement.asp" target="_top">Privacy Statement</a>.<br>
 All prices appearing on this site are in U.S. dollars.<p>
 For information on joining our Affiliates Program, <a href="http://www.ebgames.com/ebx/ads/affiliates/default.asp" target="_top">click here</a>.
 
 </p></span></center>
 
 &nbsp;<br>&nbsp;<br>&nbsp;<br>
+ 
+	<script language="JavaScript1.2" src="/ebx/include/i_dqm_script.js"></script><script language="JavaScript1.2" src="/ebx/include/i_dqm_ns6.js"></script>
 
 
 
