@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebgames.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206231056id_/http%3A//ebgames.com/ebx/help/privacy/privacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebgames.com privacy policy that was archived on 2005-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050610021009id_/http%3A//www.ebgames.com/ebx/help/privacy/privacyStatement.asp) for the most accurate reproduction.*
 
 # EBgames.com - Electronics Boutique
 
@@ -114,4 +114,4 @@ Still Have a Question?
   
 If you didn't find what you needed here, feel free to call our Customer Service center at 1-877-432-9675 to speak with a Customer Service Representative. If you prefer, [contact us by e-mail](javascript:atOnce\(\);). Hours of operation: Open 7 days a week, 8:00 am to midnight EST. 
 
-[Back to Main Menu](https://web.archive.org/web/20041206231056id_/http%3A//ebgames.com/ebx/help/default.asp)
+[Back to Main Menu](https://web.archive.org/web/20050610021009id_/http%3A//www.ebgames.com/ebx/help/default.asp)
