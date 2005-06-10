@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geico.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204050357id_/http%3A//www.geico.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geico.com privacy policy that was archived on 2005-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050610083338id_/http%3A//geico.com/privacy.htm) for the most accurate reproduction.*
 
 # GEICO Insurance Privacy Policy
 
@@ -12,19 +12,19 @@ We may collect non-public personally identifiable information ("Information") as
 
 **Information We Obtain From You**
 
-Information you provide to us during the quoting and/or application process, such as your name, address, phone number, e-mail address, social security number, driver’s license number, or date of birth;
+Information you provide to us during the quoting and/or application process, such as your name, address, phone number, e-mail address, social security number, driver’s license number, or date of birth. If you have provided us with your e-mail address, GEICO may use your e-mail address from time-to-time to communicate new services, special offers, and to confirm completion of transactions. If you do not wish to be contacted by e-mail for non-policy related communications, please provide your name and, if you are a policyholder, your policy number when selecting the following e-mail link:  **[unsubscribe@geico.com](mailto:unsubscribe@geico.com)** .
 
 **Information About Transactions**
 
-Information about your transactions and experiences with us and others, such as your balance, payment history, when you have a claim, or coverage and vehicle changes;
+Information about your transactions and experiences with us and others, such as your balance, payment history, when you have a claim, or coverage and vehicle changes.
 
 **Information From Third Parties**
 
-Information obtained from consumer reporting agencies, which provide us with motor vehicle reports, claim reports and/or consumer credit information where permitted by law.
+Information obtained from consumer reporting agencies, which provide us with motor vehicle reports, claim reports and/or consumer credit information where permitted by law. When you have asked for a rate quotation, GEICO may request credit information in accordance with applicable state law. GEICO employees will not have access to the details of your credit information. When GEICO does request credit information, the inquiry will be reflected in your personal credit file maintained by credit reporting agencies. If you commit to purchase an auto policy with GEICO, you give us permission to confirm your motor vehicle record and claims history.
 
 ### THE INFORMATION WE DISCLOSE
 
-Information about our customers or former customers will only be disclosed as permitted or required by law. Information about our former customers will be safeguarded to the same extent as Information about our current policyholders. Information about you which has been collected, is maintained in your policy and/or claims records. We use this Information to process and service your policy and settle claims or with your consent or as directed by you. We may also disclose it to persons or organizations as necessary to perform transactions you request or authorize.
+Information about our customers or former customers will only be disclosed as permitted or required by law. Information about our former customers will be safeguarded to the same extent as Information about our current policyholders. Information about you which has been collected is maintained in your policy and/or claims records. We use this Information to process and service your policy and settle claims or with your consent or as directed by you. We may also disclose it to persons or organizations as necessary to perform transactions you request or authorize.
 
 **Example:** We must exchange information about you with our agents, investigators, appraisers, attorneys and other persons who are or will become involved in processing your application and servicing your policy or any claims you may make.
 
@@ -49,19 +49,22 @@ We may also share your Information for other permitted purposes, including:
 
 We restrict access to nonpublic personally identifiable information about you to those employees whom we have determined need to know that information to provide products or services to you. We maintain strict physical, electronic and procedural safeguards designed to protect your Information from unauthorized access by third parties. In addition, all GEICO employees sign and are bound by a Confidentiality and Non-Disclosure Policy.
 
+**Your Security is Important**
+
+Please see our [ Internet Security Policy](https://web.archive.org/security.htm) for further information on how we protect your information on the Internet.
+
+  
+
+
 ### ADDITIONAL INFORMATION FOR OUR WEB SITE USERS
 
 GEICO collects information in three categories when you visit our Web site. GEICO stores information collected by general browsing, when you request a quotation, and when you request policyholder service transactions in a secure environment behind our firewall.
 
 When you are browsing the Web site for general information, browsing patterns are stored in our database for review. GEICO reviews customer web browsing patterns to enable us to enhance pages of particular interest to you.
 
-When you complete a request for an on-line auto policy quote, information is collected to help us offer you proper coverage. Your information is also used to determine if you qualify for any of our many discounts. If you have recently completed an on-line auto policy quotation, your name will remain in our quotation system database for 90 days. If you have shown interest in obtaining a quote in the past you may receive a courtesy reminder when your current policy approaches the renewal date. When you have asked for a rate quotation, GEICO may request credit information in accordance with applicable state law. GEICO employees will not have access to the details of your credit information. When GEICO does request credit information, the inquiry will be reflected in your personal credit file maintained by credit reporting agencies. If you commit to purchase an auto policy with GEICO, you give us permission to confirm your motor vehicle record and claims history.
-
-If you are using a security-enabled web browser such as Microsoft Internet Explorer 3.0 or better, or Netscape Navigator 3.0 or better, the information you send to us is encrypted. To access policy documents or bills electronically, you will need to use a security-enabled web browser, with 128-bit encryption installed, such as Microsoft Internet Explorer 4.0 or better, Netscape Navigator 4.07 or better, or other similarly enabled browser. We use an industry standard Secure Socket Layer to allow for encryption of sensitive personal information such as name, address, credit card or bank account information you have been requested to provide on-line.
+When you complete a request for an on-line auto policy quote, information is collected to help us offer you proper coverage. Your information is also used to determine if you qualify for any of our many discounts. If you have recently completed an on-line auto policy quotation, your session data will remain in our quotation system database for 90 days. If you have shown interest in obtaining a quote in the past you may receive a courtesy reminder when your current policy approaches the renewal date.
 
 GEICO may place a small text file called a "cookie", on your computer’s hard-drive to identify you when you return to our web site. No personal information is stored in the cookie.
-
-If you have provided us with your e-mail address, GEICO may use your e-mail address from time-to-time to communicate new services, special offers, and to confirm completion of transactions, unless you request that we not communicate with you by e-mail. If you do not wish to be contacted by e-mail for non-policy related communications, please provide your name and, if you are a policyholder, your policy number when selecting the following e-mail link:  **[unsubscribe@geico.com](mailto:unsubscribe@geico.com)** .
 
 This website provides some links to third-party websites that are not owned by GEICO. GEICO has no control over their privacy practices and assumes no responsibility in connection with your use of their websites. We recommend that you check the privacy policy of any website before you provide any personally identifiable information.
 
@@ -84,6 +87,5 @@ This Privacy Policy applies to all of the following GEICO companies:
   * GEICO Indemnity Company
   * GEICO Casualty Company
   * Criterion Insurance Agency, Inc.
-  * Safe Driver Motor Club
 
 
