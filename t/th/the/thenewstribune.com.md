@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thenewstribune.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206064837id_/http%3A//www.thenewstribune.com/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenewstribune.com privacy policy that was archived on 2005-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050610074659id_/http%3A//www.thenewstribune.com/aboutus/privacy) for the most accurate reproduction.*
 
-# TheNewsTribune.com | Tacoma, WA | Privacy policy
+# Privacy policy | TheNewsTribune.com | Tacoma, WA
 
 **Privacy Policy**  
 Effective Date: January 28, 2004.
