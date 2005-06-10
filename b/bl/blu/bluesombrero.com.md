@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bluesombrero.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209224158id_/http%3A//bluesombrero.com/Default.aspx%3Ftabid%3D1%26def%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluesombrero.com privacy policy that was archived on 2005-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050610084214id_/http%3A//www.bluesombrero.com/Default.aspx%3Ftabid%3D1%26def%3DPrivacy) for the most accurate reproduction.*
 
-# Blue Sombrero, LLC. > Home ( DNN 2.1.2 )
+# Blue Sombrero, LLC. > Home ( Blue Sombrero 6.7 )
 
  
 
