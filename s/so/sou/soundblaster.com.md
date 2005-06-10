@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the soundblaster.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204045206id_/http%3A//www.soundblaster.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundblaster.com privacy policy that was archived on 2005-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050611014952id_/http%3A//www.soundblaster.com/legal/privacy.asp) for the most accurate reproduction.*
 
-# Soundblaster.com -- Privacy Policy
+# SoundBlaster.com - Purest Audio. Richest Sound
 
 **CREATIVE'S ONLINE PRIVACY POLICY**  
-Last Revised June 17, 2003
+Last revised March 18, 2005
 
 **Overview**
 
@@ -46,7 +46,7 @@ As a visitor to our Site, you can engage in many activities without providing an
   * Cookies  
 Cookies are text files that store some information on your computer's hard drive and allow our systems to recognize your browser. Cookies collect information like IP addresses, operating systems and browser software, but they do not collect any personal information. Cookies let you customize your experience at our Site.
 
-We also use cookies to record anonymous information pertaining to particular web pages viewed, which helps us in analyzing trends, tracking user's movement, and gathering broad demographic information for aggregate use. In this effort, we also use measurement technology from RedSheriff, an independent measurement and market research company. To find out more about RedSheriff, their technology, and their privacy policy, please visit [www.redsheriff.com](http://www.redsheriff.com/). 
+We also use cookies to record anonymous information pertaining to particular web pages viewed, which helps us in analysing trends, tracking user's movement, and gathering broad demographic information for aggregate use. In this effort, we may also use measurement technologies from our business partners to assist us in gathering and analysing that data. 
 
 
   
