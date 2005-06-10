@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingvox.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207052321id_/http%3A//www.marketingvox.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingvox.com privacy policy that was archived on 2005-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050610080925id_/http%3A//www.marketingvox.com/about/privacy.php) for the most accurate reproduction.*
 
 # About · MarketingVOX|INFO
 
@@ -47,13 +47,3 @@ We have put security measures in place to protect the loss, misuse and alteratio
 Personally Identifiable Information provided to Watershed Publishing is subject to disclosure pursuant to judicial or other government subpoenas, warrants or orders. We make every effort possible to preserve user privacy and anonymity; however, we may need to disclose personal information when required by law wherein such action is necessary to comply with judicial proceedings, court orders or legal processes served on our Website. 
 
 \-- Watershed Publishing, September 2004 
-
-| 
-
-Advertisement
-
-Advertisement
-
-Talent Zoo can help. Part job board, part magazine, and part recruiting firm, Talent Zoo makes people and companies more successful.
-
-From our award wining job board -filled with the best media, advertising, and marketing jobs on the planet - to hundreds of insightful and entertaining articles, to our salary monitor. [Visit TalentZoo.com](http://www.marketingvox.com/utilities/phpAdsNew/adclick.php?bannerid=225&zoneid=28&source=&dest=http%3A%2F%2Fwww.talentzoo.com%2Fdefault.media2.asp%3Freferrer%3D685169+&ismap=) once, and you'll see why the best marketers and media professionals are on TalentZoo.com.
