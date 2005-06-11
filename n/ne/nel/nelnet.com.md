@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nelnet.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206222842id_/http%3A//www.nelnet.net/Shared_Includes/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nelnet.com privacy policy that was archived on 2005-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050611232204id_/http%3A//www.nelnet.net/Shared_Includes/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -46,7 +46,7 @@ Why we collect information | What we collect | How we use information | Security
 
 This policy explains the collection and use practices of the Nelnet Companies  regarding consumer information, including how and what we share with our related companies.  Nelnet does not share your personal information outside the Nelnet Companies except in the limited situations described below and we will never sell or provide your personal information to third parties for their own use. This policy is our standard regarding collection, use, retention, and security of nonpublic personal information. Even if you pay off your loan(s), we will continue to adhere to the privacy policies and practices described in this notice. 
 
-You can [direct us](https://web.archive.org/web/20041206222842id_/http%3A//www.nelnet.net/Shared_Includes/privacy.pdf) not to share “non-transactional” information with our affiliated Nelnet Companies.  This policy applies to you if you have received a financial product or service from one of the Nelnet Companies. The typical example of this is if a Nelnet company made, or purchased and now owns, your student loan. This policy also applies to our former customers. **Please note that if Nelnet services, but does not own, your student loan, your lender’s privacy policy applies instead**. In those cases, Nelnet complies with the privacy policies of our lender clients. The information in this policy applies to individuals only, and we may change the policies from time to time. The effective date of this policy is July 1, 2004. 
+You can [direct us](https://web.archive.org/web/20050611232204id_/http%3A//www.nelnet.net/Shared_Includes/privacy.pdf) not to share “non-transactional” information with our affiliated Nelnet Companies.  This policy applies to you if you have received a financial product or service from one of the Nelnet Companies. The typical example of this is if a Nelnet company made, or purchased and now owns, your student loan. This policy also applies to our former customers. **Please note that if Nelnet services, but does not own, your student loan, your lender’s privacy policy applies instead**. In those cases, Nelnet complies with the privacy policies of our lender clients. The information in this policy applies to individuals only, and we may change the policies from time to time. The effective date of this policy is July 1, 2004. 
 
 You can take additional steps to protect your privacy by keeping passwords and PIN’s confidential, never disclosing personal information to unknown callers, and ensuring your Internet use is secured and protected from unauthorized access or use.
 
@@ -82,7 +82,7 @@ This could also include non-transactional information about you, such as informa
 
 In either case, Nelnet will only use the information for reasons necessary to these functions. 
 
-Except to the extent required to provide a service you have requested, you can [direct us](https://web.archive.org/web/20041206222842id_/http%3A//www.nelnet.net/Shared_Includes/privacy.pdf) not to share the “non-transactional” type information, even within the Nelnet Companies.
+Except to the extent required to provide a service you have requested, you can [direct us](https://web.archive.org/web/20050611232204id_/http%3A//www.nelnet.net/Shared_Includes/privacy.pdf) not to share the “non-transactional” type information, even within the Nelnet Companies.
 
 _Outside the Nelnet Companies_
 
@@ -138,7 +138,9 @@ MELMAC, Inc.
   
 Nelnet Mentor LLC  
   
-SLAAA Acquisition Corporation  
+National Education Loan of New England, Inc.  
+  
+BST Holdings, Inc.  
   
 **Other helpful information**
 
