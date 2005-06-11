@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the firstbanknigeria.com privacy policy that was archived on 2004-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040405053947id_/http%3A//www.firstbanknigeria.com/resources/rc_privpolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstbanknigeria.com privacy policy that was archived on 2005-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050611073644id_/http%3A//firstbanknigeria.com/resources/r_ppolicy.asp) for the most accurate reproduction.*
 
-# First Bank Resource Centre --- P r i v a c y P o l i c y
+# :::: First Bank of Nigeria Plc - Resources - Privacy Policy ::::
 
-What this Privacy Policy Covers:
+**What this Privacy Policy Covers:**
 
 This Privacy Policy covers First Bank of Nigeria Plc's treatment of personally identifiable information that you submit through First Bank of Nigeria Plc web site, and the use of First Bank of Nigeria Plc's on-line/website services and contents (which on-line/website services and contents are hereinafter jointly called "the Service"). This policy does not apply to the practices of companies or subsidiaries that are affiliated to First Bank of Nigeria Plc. All subsidiaries have separate Privacy Policies. 
 
-Privacy Policy:
+** Privacy Policy:** ****
 
-Information Collection & Use
+**Information Collection & Use**
 
 When you complete any form on First Bank of Nigeria Plc website, it is normal that we ask for such information as your name, e-mail address, birth date, gender, occupation, industry, and personal interests. Once you fill the form on our website and submit the form, you are not anonymous to us anymore.
 
-Information Sharing & Disclosure
+**Information Sharing & Disclosure**
 
 First Bank of Nigeria Plc will not sell or rent your personally identifiable information to anyone. First Bank of Nigeria Plc may send personally identifiable information about you to other companies or people when:
 
@@ -27,10 +27,12 @@ The customers shall not disclose to any other person, in any manner whatsoever, 
 
 First Bank of Nigeria Plc will limit the collection and use of customer information only on a need-to-know basis to deliver better service to the customers. First Bank of Nigeria Plc may use and share the information provided by the customers with its Affiliates for providing services and any service-related activities such as collecting subscription fees for such services, and notifying or contacting the customers regarding any problem with, or the expiration of, such services. In this regard, it may be necessary to disclose the customer's information to the Affiliates of First Bank of Nigeria Plc who will be required to agree to use the information obtained from First Bank of Nigeria Plc only for these purposes.
 
-Changes to this Privacy Policy
+**Changes to this Privacy Policy**
 
 First Bank of Nigeria Plc may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent notice on our website.
 
-Questions or Suggestions
+**Questions or Suggestions**
 
-If you have questions or suggestions complete a "[contact us](https://web.archive.org/web/20040405053947id_/http%3A//www.firstbanknigeria.com/resources/rc_contactus.htm)" form.
+If you have questions or suggestions complete a "[contact us](file:///C:/Documents%20and%20Settings/adefunke.ajala.HO-SSD401/My%20Documents/My%20Webs/fbn/resources/rc_contactus.htm)" form.
+
+ 
