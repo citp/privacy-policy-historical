@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapesttextbooks.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209083817id_/http%3A//www.cheapesttextbooks.com/%3Fprivacy%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapesttextbooks.com privacy policy that was archived on 2005-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050611085423id_/http%3A//www.cheapesttextbooks.com/%3Fprivacy%3D1) for the most accurate reproduction.*
 
 # College Textbook at CheapestTextbooks.com: Cheap Used College Books, Used Textbooks For Sale, Finance Textbooks, Nursing Textbooks
 
