@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the needscripts.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210033006id_/http%3A//www.info.needscripts.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the needscripts.com privacy policy that was archived on 2005-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050612003502id_/http%3A//www.info.needscripts.com/about/privacy.php) for the most accurate reproduction.*
 
-# Scripts Directory :: PHP, ASP.NET, CGI/Perl, Flash, XML, Java Script!
+# Need Scripts: Web Development Resource: ASP, Flash, Java, JavaScripts, Perl, PHP, Visual Basics, XML, and more!
 
 **Need Scripts Statement of Privacy**
 
