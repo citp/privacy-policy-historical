@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the svb.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206194404id_/http%3A//www.svb.com/corp/legal.asp%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the svb.com privacy policy that was archived on 2005-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050611075954id_/http%3A//www.svb.com/corp/legal.asp%3Fprivacy) for the most accurate reproduction.*
 
 # Silicon Valley Bank :: Legal Notices
 
@@ -34,7 +34,7 @@ SVB Securities, a non-bank affiliate of Silicon Valley Bank, Member NASD, SIPC. 
 
 SVB Asset Management is a registered investment advisor and non-bank affiliate of Silicon Valley Bank established in 2002. SVB Asset Management manages short-term, fixed income investments for primarily U.S.-based corporate clients. Investment products offered through SVB Asset Management are not insured by the FDIC or any other federal government agency. They are not deposits of or guaranteed by Silicon Valley Bank, or any bank affiliate, and may lose value.
 
-SVB Alliant is a wholly owned broker-dealer subsidiary of Silicon Valley Bancshares. SVB Alliant's services are not Bank products or services. The services of SVB Alliant are not guaranteed by the Bank and are not FDIC-insured.
+SVB Alliant is a wholly owned broker-dealer subsidiary of SVB Financial Group. SVB Alliant's services are not Bank products or services. The services of SVB Alliant are not guaranteed by the Bank and are not FDIC-insured.
 
 Investments recommended by Woodside Asset Management are not guaranteed by Silicon Valley Bank, are not insured by the FDIC, and may lose value. 
 
