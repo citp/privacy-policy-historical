@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the insureme.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205001938id_/http%3A//insureme.com/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insureme.com privacy policy that was archived on 2005-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050612005502id_/http%3A//www.insureme.com/PrivacyStatement.asp) for the most accurate reproduction.*
 
 # InsureMe.com :: Fast, Free Insurance Quotes
 
 This is the privacy policy ("Privacy Policy") for the InsureMe.com :: Fast, Free Insurance Quotes Web site (the "Site"). This Privacy Policy sets forth our policies regarding the collection, use and disclosure of certain information relating to your use of the Site. Your use of this Site signifies your understanding and acceptance of the terms of this Privacy Policy. 
 
-This Privacy Policy is incorporated into, and part of, the [Terms and Conditions](https://web.archive.org/web/20041205001938id_/http%3A//insureme.com/SiteTerms.asp?L=&Refby=), which govern your use of the Site in general.
+This Privacy Policy is incorporated into, and part of, the [Terms and Conditions](https://web.archive.org/web/20050612005502id_/http%3A//www.insureme.com/SiteTerms.asp?L=&Refby=), which govern your use of the Site in general.
 
 **Age Requirement for Use of Site:** This Site is not intended for use by persons under the age of 18 years old. You must be 18 years old or older to provide any personal information to the Site, or to us through the Site.
 
@@ -36,9 +36,9 @@ Third parties (including, but not limited to, software vendors, advertisers and 
 
   2. **Usage and Sharing:**
 
-We use information collected on and through this Site for a variety of purposes in the course of business and as otherwise set forth herein. For example, such information may be used to process your applications to receive insurance quotations or to send you information about our and our affiliates' products and services and other information and materials that may be of interest to you. This information may also be used to evaluate what portions of the Site are more popular than others, determine where visitors came from, where they go, and how long they stay on a particular page, or the Site in general. We may match information collected from you through different means or at different times, and use such information along with information obtained from other sources, including third parties. 
+We use information collected on and through this Site for a variety of purposes in the course of business and as otherwise set forth herein. For example, such information may be used to process your applications to receive quotations or to send you information about our and our affiliates' products and services and other information and materials that may be of interest to you. This information may also be used to evaluate what portions of the Site are more popular than others, determine where visitors came from, where they go, and how long they stay on a particular page, or the Site in general. We may match information collected from you through different means or at different times, and use such information along with information obtained from other sources, including third parties. 
 
-Application Data will be forwarded to insurance agents, brokers and/or companies who may contact you with your quote by email, telephone, postal mail or other forms of communication. We are not responsible, and shall not be liable, if an agent, broker or company to whom we forward your Application Data violates our Privacy Policy or their own privacy policy, if any. 
+Application Data will be forwarded to insurance agents, discount program representatives, brokers and/or companies who may contact you with your quote by email, telephone, postal mail or other forms of communication. We are not responsible, and shall not be liable, if an agent, broker, discount program representative or company to whom we forward your Application Data violates our Privacy Policy or their own privacy policy, if any. 
 
 We may disclose your personal information to companies that perform technology or marketing services for us for their use in performing such services. We may transfer, sell or assign aggregate, non-personally identifiable information about Site usage to third parties. We may transfer, sell or assign personal information to third parties as a result of a sale of all or substantially all of our assets relating to this portion of our business or in connection with a merger, consolidation, change in control, reorganization or liquidation. We also reserve the right to disclose any information concerning you if required by law or to protect or defend our rights or the rights or well-being of our users or if you are involved (or are reasonably suspected to be involved) in any illegal activity, even without a subpoena, warrant or court order. 
 
@@ -54,7 +54,7 @@ The application form on the Site form supports encryption to help protect the se
 
 By providing any personal information to this Site, you fully understand and unambiguously consent to the transfer of such personal information to, and the collection and processing of such personal information in, the United States and other countries or territories. 
 
-By submitting this information you are authorizing Brokers, Agents and/or Insurance Professionals in the InsureMe network to contact you directly with quotes via telephone, fax, and email, regardless of the presence of your phone number(s) on any local or national no-call list. 
+By submitting this information you are authorizing Brokers, Agents, discount program representatives and/or Insurance Professionals in the InsureMe network to contact you directly with quotes via telephone, fax, and email, regardless of the presence of your phone number(s) on any local or national no-call list. 
 
   6. **Links:**
 
