@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sciencedaily.com privacy policy that was archived on 2004-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041206195706id_/http%3A//www.sciencedaily.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sciencedaily.com privacy policy that was archived on 2005-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050611081349id_/http%3A//www.sciencedaily.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 	<title>ScienceDaily: Our Privacy Policy</title>
@@ -31,7 +31,9 @@
 			}
 		}
 	}
-	if (window.attachEvent) window.attachEvent("onload", sfHover);
+	if (window.attachEvent){
+		window.attachEvent("onload",sfHover);
+	}
 	toggle = function() {
 		if (readCookie('menutoggle')) {
 			displayValue = readCookie('menutoggle');
@@ -42,7 +44,25 @@
 			document.getElementById('menutoggle').style.display = displayValue;
 		}
 	}
-	if (window.attachEvent) window.attachEvent("onload", toggle);
+	if (window.addEventListener){
+		window.addEventListener("load",toggle,false);
+	} else if (window.attachEvent){
+		window.attachEvent("onload",toggle);
+	}
+	invisiblehyphen = function () {
+		for (i=0; i<=(document.links.length-1); i++) {
+			if (document.links[i].innerHTML) {
+				linktext = document.links[i].innerHTML;
+				if ((linktext.indexOf("<") == -1) && (linktext.indexOf("Show/Hide") == -1))
+					document.links[i].innerHTML = linktext.replace(new RegExp("/", "gi"), "/&#8203;");
+			}
+		}
+	}
+	if (window.addEventListener){
+		window.addEventListener("load",invisiblehyphen,false);
+	} else if (window.attachEvent){
+		window.attachEvent("onload",invisiblehyphen);
+	}
 	//-->
 	</script><base href="http://www.sciencedaily.com">
 	<script language="JavaScript" src="/scripts/functions.js" type="text/javascript"></script>
@@ -57,7 +77,7 @@
 	</noscript>
 </head>
 
-<body bgcolor="#ffffff" leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0" onload="search.keyword.focus();">
+<body bgcolor="#ffffff" leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0">
 
 <script language="JavaScript" src="/scripts/changestyle.js" type="text/javascript"></script>
 
@@ -76,12 +96,10 @@
 <!-- BEGIN RICH-MEDIA BURST! CODE -->
 <script language="JavaScript">
 rnum=Math.round(Math.random() * 100000);
-
-document.write('<scr'+'ipt src="http://www.burstnet.com/cgi-bin/ads/ad10548a.cgi/v=2.0S/sz=468x60A|728x90A/'+rnum+'/NI/RETURN-CODE/JS/"></scr'+'ipt>');
-
-</script><script src="http://www.burstnet.com/cgi-bin/ads/ad10548a.cgi/v=2.0S/sz=468x60A|728x90A/6886/NI/RETURN-CODE/JS/"></script>
-<noscript><a href="http://www.burstnet.com/ads/ad10548a-map.cgi/ns/v=2.0S/sz=468x60A|728x90A/" target="_top">
-<img src="http://www.burstnet.com/cgi-bin/ads/ad10548a.cgi/ns/v=2.0S/sz=468x60A|728x90A/" border="0" alt="Click Here"></a>
+document.write('<scr'+'ipt src="http://ads.addesktop.com/cgi-bin/ads/ad10548a.cgi/v=2.0D/sz=468X60A|728X90A/kw=KEYWORD/'+rnum+'/RETURN-CODE/JS/"></scr'+'ipt>');
+</script><script src="http://ads.addesktop.com/cgi-bin/ads/ad10548a.cgi/v=2.0D/sz=468X60A|728X90A/kw=KEYWORD/44402/RETURN-CODE/JS/"></script>
+<noscript><a href="http://ads.addesktop.com/ads/ad10548a-map.cgi/ns/v=2.0D/sz=468X60A|728X90A/kw=KEYWORD/" target="_top">
+<img src="http://ads.addesktop.com/cgi-bin/ads/ad10548a.cgi/ns/v=2.0D/sz=468X60A|728X90A/kw=KEYWORD/" border="0" alt="Click Here"></a>
 </noscript>
 <!-- END BURST CODE -->
 
@@ -99,20 +117,20 @@ document.write('<scr'+'ipt src="http://www.burstnet.com/cgi-bin/ads/ad10548a.cgi
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
-		<td width="7" bgcolor="#6699cc"><img src="/images/spacer.gif" height="1" width="7"></td>
-		<td width="100%" bgcolor="#6699cc"><img src="/images/spacer.gif" height="1" width="545"></td>
+		<td width="100" bgcolor="#6699cc"><img src="/images/spacer.gif" height="1" width="100"></td>
+		<td width="100%" bgcolor="#6699cc"><img src="/images/spacer.gif" height="1" width="706"></td>
 		<td width="190" bgcolor="#000099"><img src="/images/spacer.gif" height="1" width="190"></td>
 	</tr>
 	<tr>
-		<td width="7" bgcolor="#6699cc"><table border="0" cellspacing="7" cellpadding="2"><tbody><tr><td bgcolor="#cc0000" class="menutoggle"><div class="menutoggle"><a href="#" class="menutoggle" title="Hide/show menu" onclick="javascript:menuToggle('menutoggle');">menu</a></div></td></tr></tbody></table></td>
+		<td width="100" bgcolor="#6699cc"><table border="0" cellspacing="7" cellpadding="2"><tbody><tr><td bgcolor="#cc0000" class="menutoggle"><div class="menutoggle"><a href="#" class="menutoggle" title="Hide/show menu" onclick="javascript:menuToggle('menutoggle');">Show/Hide Menu</a></div></td></tr></tbody></table></td>
 		<td width="100%" bgcolor="#6699cc">
 			<div id="staticbar"><table border="0" cellspacing="4" cellpadding="4">
 				<tbody><tr>
-					<td align="center" width="130" bgcolor="#000066"><div id="button"><a href="/">Latest News</a></div></td>
-					<td align="center" width="130" bgcolor="#000066"><div id="button"><a href="/directory">Browse Topics</a></div></td>
-					<td align="center" width="130" bgcolor="#000066"><div id="button"><a href="/encyclopedia">Encyclopedia</a></div></td>
-
-					<td align="center" width="130" bgcolor="#000066"><div id="button"><a href="/shop">Science Shop</a></div></td>
+					<td align="center" width="135" bgcolor="#000066"><div id="button"><a href="/">Latest News</a></div></td>
+					<td align="center" width="135" bgcolor="#000066"><div id="button"><a href="/directory">Browse Topics</a></div></td>
+					<td align="center" width="135" bgcolor="#000066"><div id="button"><a href="/encyclopedia">Encyclopedia</a></div></td>
+					<td align="center" width="135" bgcolor="#000066"><div id="button"><a href="/health">Health Center</a></div></td>
+					<td align="center" width="135" bgcolor="#000066"><div id="button"><a href="/shop">Amazon Store</a></div></td>
 				</tr>
 			</tbody></table></div>
 			<ul id="nav">
@@ -121,7 +139,7 @@ document.write('<scr'+'ipt src="http://www.burstnet.com/cgi-bin/ads/ad10548a.cgi
           			<ul id="menu1" class="menu">
 						<li><a href="/"><strong>Front Page</strong></a></li>
 
-						<li><a href="/topix/">&gt; Breaking News</a></li>
+						<li><a href="/upi/">&gt; Breaking News</a></li>
 						<li><a href="/news/summaries.htm">&gt; Today's Digest</a></li>
 						<li><a href="/news/headlines.htm">&gt; Week in Review</a></li>
 						<li><a href="/subscribe/updates.htm">&gt; Email Updates</a></li>
@@ -140,8 +158,8 @@ document.write('<scr'+'ipt src="http://www.burstnet.com/cgi-bin/ads/ad10548a.cgi
           			</ul>
         		</li>
         		<li class="menubar">
-          			<a href="#" class="starter" accesskey="1">Browse Topics</a>
-          			<ul id="menu1" class="menu">
+          			<a href="#" class="starter" accesskey="2">Browse Topics</a>
+          			<ul id="menu2" class="menu">
 						<li><a href="/directory/Science"><strong>Science</strong></a></li>
 
 						<li><a href="/directory/Science/Astronomy">&gt; Astronomy</a></li>
@@ -171,8 +189,8 @@ document.write('<scr'+'ipt src="http://www.burstnet.com/cgi-bin/ads/ad10548a.cgi
           			</ul>
         		</li>
         		<li class="menubar">
-          			<a href="#" class="starter" accesskey="2">Encyclopedia</a>
-          			<ul id="menu2" class="menu">
+          			<a href="#" class="starter" accesskey="3">Encyclopedia</a>
+          			<ul id="menu3" class="menu">
 						<li><a href="/encyclopedia/agriculture">&gt; Agriculture</a></li>
 						<li><a href="/encyclopedia/anthropology">&gt; Anthropology</a></li>
 
@@ -197,8 +215,182 @@ document.write('<scr'+'ipt src="http://www.burstnet.com/cgi-bin/ads/ad10548a.cgi
           			</ul>
         		</li>
         		<li class="menubar">
-          			<a href="#" class="starter" accesskey="3">Science Shop</a>
-          			<ul id="menu3" class="menu">
+          			<a href="/health/" class="starter" accesskey="4">Health Center</a>
+          			<ul id="menu4" class="menu">
+					<li><a href="/health/"><strong>General Health</strong></a></li>
+					<li><a href="/health/news/">&gt; News</a></li>
+					<li><a href="/health/topics/">&gt; Topics</a></li>
+					<li><a href="/health/features/">&gt; Features</a></li>
+					<li><a href="/health/webcasts/">&gt; Webcasts</a></li>
+					<li><a href="http://sciencedaily.healthology.com"><strong>Consumer Topics</strong></a></li>
+					<li><a href="#">&gt; A - B</a>
+					<ul>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=adhd_comprehend">&gt; ADD &amp; ADHD</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=allergy">&gt; Allergy</a></li>
+	
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=alt_medicine">&gt; Alternative Medicine</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=alzheimer">&gt; Alzheimer's Disease</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=arthritis">&gt; Arthritis</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=asthma">&gt; Asthma</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=bodyaches">&gt; Body Aches &amp; Pains</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=breast_cancer">&gt; Breast Cancer</a></li>
+	
+					</ul>
+					</li>
+					<li><a href="#">&gt; C - D</a>
+					<ul>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=cancer">&gt; Cancer Awareness</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=cardio">&gt; Cardio Health</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=elderly">&gt; Caregiving</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=children">&gt; Children's Health</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=colon_cancer">&gt; Colon Cancer</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=contraception">&gt; Contraception</a></li>
+	
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=copd">&gt; COPD/​Emphysema</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=dental_health">&gt; Dental Health</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=diabetes">&gt; Diabetes</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=beyond_dieting">&gt; Diet &amp; Weight Loss</a></li>
+					</ul>
+					</li>
+					<li><a href="#">&gt; E - G</a>
+					<ul>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=glands_hormones">&gt; Endocrine Disorders</a></li>
+	
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=epilepsy">&gt; Epilepsy</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=erectile_dysfunction">&gt; Erectile Dysfunction</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=eyecare">&gt; Eye Care</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=fertility">&gt; Fertility</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=fitness">&gt; Fitness</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=gi">&gt; Gastrointestinal Health</a></li>
+	
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=gyno">&gt; Gynecologic Health</a></li>
+					</ul>
+					</li>
+					<li><a href="#">&gt; H - K</a>
+					<ul>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=hairloss">&gt; Hair Loss</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=headache">&gt; Headache</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=healthcare">&gt; Healthcare Today</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=healthyaging">&gt; Healthy Aging</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=heartburn">&gt; Heartburn</a></li>
+	
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=hiv">&gt; HIV and AIDS</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=infectiousdiseases">&gt; Infectious Diseases</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=kidney_health">&gt; Kidney Health</a></li>
+					</ul>
+					</li>
+					<li><a href="#">&gt; L - O</a>
+					<ul>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=leukemia">&gt; Leukemia</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=liver_disease">&gt; Liver Health</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=lungcancer">&gt; Lung Cancer</a></li>
+	
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=lymphoma_overview">&gt; Lymphoma</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=men">&gt; Men's Health</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=mentalhealth">&gt; Mental Health</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=m_sclerosis">&gt; Multiple Sclerosis</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=nutrition">&gt; Nutrition</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=osteoporosis">&gt; Osteoporosis</a></li>
+	
+					</ul>
+					</li>
+					<li><a href="#">&gt; P - S</a>
+					<ul>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=parkinsons_disease">&gt; Parkinson's Disease</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=pregnancy">&gt; Pregnancy &amp; Childbirth</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=prostate">&gt; Prostate Health</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=psoriasis">&gt; Psoriasis</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=sexual_health">&gt; Sexual Health</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=skinhealth">&gt; Skin Health</a></li>
+	
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=sleep_disorders">&gt; Sleep Disorders</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=stroke">&gt; Stroke</a></li>
+					</ul>
+					</li>
+					<li><a href="#">&gt; T - Z</a>
+					<ul>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=teenhealth">&gt; Teen Health</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=thyroid">&gt; Thyroid Health</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=urologic_health">&gt; Urologic Health</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=vascular">&gt; Vascular Disease</a></li>
+	
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=women">&gt; Women's Health</a></li>
+						<li><a href="http://sciencedaily.healthology.com/focus_index.asp?f=working_well">&gt; Workplace Health</a></li>
+					</ul>
+					</li>
+					<li><a href="http://sciencedaily.mediwire.com"><strong>Professional Topics</strong></a></li>
+					<li><a href="#">&gt; A - D</a>
+					<ul>
+						<li><a href="http://sciencedaily.mediwire.com/allergy_immunology ">&gt; Allergy &amp; Immunology</a></li>
+						
+						<li><a href="http://sciencedaily.mediwire.com/healthcare_business">&gt; Business: Healthcare</a></li>
+						<li><a href="http://sciencedaily.mediwire.com/cardiology">&gt; Cardiology</a></li>
+						<li><a href="http://sciencedaily.mediwire.com/pharmacology">&gt; Clinical Pharmacology</a></li>
+						<li><a href="http://sciencedaily.mediwire.com/cosmetic_surgery">&gt; Cosmetic Surgery</a></li>
+						<li><a href="http://sciencedaily.mediwire.com/dermatology">&gt; Dermatology</a></li>
+					</ul>
+					</li>
+					<li><a href="#">&gt; E - I</a>
+					<ul>
+						<li><a href="http://sciencedaily.mediwire.com/emergency_medicine">&gt; Emergency Medicine</a></li>
+						
+						<li><a href="http://sciencedaily.mediwire.com/endocrinology">&gt; Endocrinology</a></li>
+						<li><a href="http://sciencedaily.mediwire.com/diabetes">&gt; &nbsp; - Diabetes</a></li>
+						<li><a href="http://sciencedaily.mediwire.com/family_practice">&gt; Family Practice</a></li>
+						<li><a href="http://sciencedaily.mediwire.com/gastroenterology">&gt; Gastroenterology</a></li>
+						<li><a href="http://sciencedaily.mediwire.com/geriatrics">&gt; Geriatrics</a></li>
+						<li><a href="http://sciencedaily.mediwire.com/infectious_disease">&gt; Infectious Disease</a></li>
+						
+						<li><a href="http://sciencedaily.mediwire.com/HIV_AIDS">&gt; &nbsp; - HIV/​AIDS</a></li>
+						<li><a href="http://sciencedaily.mediwire.com/internal_medicine">&gt; Internal Medicine</a></li>
+					</ul>
+					</li>
+					<li><a href="#">&gt; M - O</a>
+					<ul>
+						<li><a href="http://sciencedaily.mediwire.com/managed_care">&gt; Managed Care</a></li>
+						<li><a href="http://sciencedaily.mediwire.com/neurology">&gt; Neurology</a></li>
+						<li><a href="http://sciencedaily.mediwire.com/nursing">&gt; Nursing</a></li>
+						<li><a href="http://sciencedaily.mediwire.com/obstetrics">&gt; Ob/​Gyn</a></li>
+						
+						<li><a href="http://sciencedaily.mediwire.com/cancer">&gt; Oncology</a></li>
+						<li><a href="http://sciencedaily.mediwire.com/ophthalmology">&gt; Ophthalmology</a></li>
+						<li><a href="http://sciencedaily.mediwire.com/orthopedics">&gt; Orthopedics</a></li>
+					</ul>
+					</li>
+					<li><a href="#">&gt; P - Ph</a>
+					<ul>
+						<li><a href="http://sciencedaily.mediwire.com/pediatrics">&gt; Pediatrics</a></li>
+						<li><a href="http://sciencedaily.mediwire.com/pharmaceutical_marketing">&gt; Pharma Marketing</a></li>
+						<li><a href="http://sciencedaily.mediwire.com/pharmaceutical_sales">&gt; &nbsp; - Pharma Sales</a></li>
+						
+						<li><a href="http://sciencedaily.mediwire.com/pharmaceutical_technology">&gt; Pharma Science/​Tech</a></li>
+						<li><a href="http://sciencedaily.mediwire.com/clinical_trials">&gt; &nbsp; - Clinical Trials Mgmt</a></li>
+						<li><a href="http://sciencedaily.mediwire.com/drug_discovery">&gt; &nbsp; - Drug Discovery</a></li>
+						<li><a href="http://sciencedaily.mediwire.com/drug_development">&gt; &nbsp; - Drug Dev't &amp; Mfg</a></li>
+						
+						<li><a href="http://sciencedaily.mediwire.com/analytical_chemistry">&gt; &nbsp; - Analytical Chem</a></li>
+						<li><a href="http://sciencedaily.mediwire.com/pharmacy">&gt; Pharmacy</a></li>
+					</ul>
+					</li>
+					<li><a href="#">&gt; Ps - Z</a>
+					<ul>
+						<li><a href="http://sciencedaily.mediwire.com/psychiatry">&gt; Psychiatry</a></li>
+						<li><a href="http://sciencedaily.mediwire.com/pulmonology">&gt; Pulmonology</a></li>
+						<li><a href="http://sciencedaily.mediwire.com/radiology">&gt; Radiology</a></li>
+						<li><a href="http://sciencedaily.mediwire.com/medical_students">&gt; Residents/​Students</a></li>
+						
+						<li><a href="http://sciencedaily.mediwire.com/rheumatology">&gt; Rheumatology</a></li>
+						<li><a href="http://sciencedaily.mediwire.com/surgery">&gt; Surgery</a></li>
+						<li><a href="http://sciencedaily.mediwire.com/urology">&gt; Urology</a></li>
+	
+					</ul>
+					</li>
+          			</ul>
+
+        		</li>
+        		<li class="menubar">
+          			<a href="#" class="starter" accesskey="5">Amazon Store</a>
+          			<ul id="menu5" class="menu">
 						<li><a href="/shop/books/"><strong>Books ...</strong></a></li>
 						<li><a href="/shop/books/75">&gt; Science</a></li>
 
@@ -250,7 +442,7 @@ document.write('<scr'+'ipt src="http://www.burstnet.com/cgi-bin/ads/ad10548a.cgi
 
 	<div class="menuheader"><a href="/">Front Page</a></div>
 	
-	<div>&gt; <a href="/topix/">Breaking News</a></div>
+	<div>&gt; <a href="/upi/">Breaking News</a></div>
 	<div>&gt; <a href="/news/summaries.htm">Today's Digest</a></div>
 	<div>&gt; <a href="/news/headlines.htm">Week in Review</a></div>
 	<div>&gt; <a href="/subscribe/updates.htm">Email Updates</a></div>
@@ -400,6 +592,25 @@ document.write('<scr'+'ipt src="http://www.burstnet.com/cgi-bin/ads/ad10548a.cgi
 				<tbody><tr>
 					<td valign="top" width="100%" bgcolor="#ffffff">
 
+			<table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td align="center">
+<!-- BEGIN RICH-MEDIA BURST! CODE -->
+<script language="JavaScript">
+rnum=Math.round(Math.random() * 100000);
+document.write('<scr'+'ipt src="http://ads.addesktop.com/cgi-bin/ads/ad10548e.cgi/v=2.0D/sz=468X60A/kw=KEYWORD/'+rnum+'/RETURN-CODE/JS/"></scr'+'ipt>');
+</script><script src="http://ads.addesktop.com/cgi-bin/ads/ad10548e.cgi/v=2.0D/sz=468X60A/kw=KEYWORD/49057/RETURN-CODE/JS/"></script>
+<noscript><a href="http://ads.addesktop.com/ads/ad10548e-map.cgi/ns/v=2.0D/sz=468X60A/kw=KEYWORD/" target="_top">
+<img src="http://ads.addesktop.com/cgi-bin/ads/ad10548e.cgi/ns/v=2.0D/sz=468X60A/kw=KEYWORD/" border="0" alt="Click Here"></a>
+</noscript>
+<!-- END BURST CODE -->
+					</td>
+				</tr>
+				<tr>
+					<td><img src="/images/spacer.gif" width="600" height="10" alt=""></td>
+				</tr>
+			</tbody></table>
+					
 			<h2>Our Privacy Policy</h2>
 			
 			<!-- BODY BEGIN --><p>Most web sites collect some sort of information about their visitors in order to gather statistics about how many visitors they get each month, what are the most and least popular pages on the web site, where there may be problems in serving certain pages to visitors, etc. In an effort to answer questions such as these, Science<i>Daily</i> also collects certain basic information about its visitors. </p><p>Please note, however, that Science<i>Daily</i> has no interest in personally identifying its users. This would be practically quite difficult, and quite an unnecessary task to accomplish anyway. The only thing that Science<i>Daily</i> is interested in is the overall statistics of its readership. Cumulative figures that provide a picture of visitor traffic to our site are vital in our efforts to attract advertisers--upon whose support the site depends--and to monitor how well our web server is keeping up with our ever-increasing readership. </p><p>So what information does Science<i>Daily</i> collect about its visitors? Each time someone visits the site, our web server logs a number of details--if they are available--including the IP address of the visitor's computer and/or Internet service provider, the domain name and country of origin of that computer, its operating system, and the type of web browser being used.</p><p>In addition to the statistics that our own web server collects, the third-party advertising agencies that we work with may also collect certain information through the use of banner ads. </p><p><b>Third Party Advertising</b></p><p>We use MaxWorldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click <a href="http://www.maxonline.com/privacy_policy/index.php">here</a>.</p><p><b>Third Party Cookies</b></p><p>In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.</p><p>If you wish not to have Science<i>Daily</i> keep any records of your visit to our site, even though it is our policy not to personally identify individual users but only to gather overall cumulative information about our visitors, then we suggest that you use an anonymous web browsing service such as <a href="http://www.anonymizer.com/">Anonymizer.com</a>. Such services typically hide all information about particular users from web sites, which log visits from the anonymizing service instead of the users' own computers. </p><p>If you have any questions about our privacy policy, please contact Dan Hogan, editor of Science<i>Daily</i>, at <a href="mailto:editor@sciencedaily.com">editor@sciencedaily.com</a>.</p><p></p><!-- BODY END -->
@@ -511,6 +722,7 @@ document.write('<scr'+'ipt src="http://www.burstnet.com/cgi-bin/ads/ad10548a.cgi
 		<option value="2002">2002</option>
 		<option value="2003">2003</option>
 		<option value="2004">2004</option>
+		<option value="2005">2005</option>
 	</select> <span class="searchtext"><strong>to</strong></span> <select name="dates">
 		<option value="1995">1995</option>
 		<option value="1996">1996</option>
@@ -521,8 +733,8 @@ document.write('<scr'+'ipt src="http://www.burstnet.com/cgi-bin/ads/ad10548a.cgi
 		<option value="2001">2001</option>
 		<option value="2002">2002</option>
 		<option value="2003">2003</option>
-		<option value="2004" selected="">2004</option>
-	</select></td>
+		<option value="2004">2004</option>
+		<option value="2005" selected="">2005</option>	</select></td>
 					</tr>
 					<tr>
 						<td align="right"><div class="searchtext"><strong>sort:</strong></div></td>
@@ -660,10 +872,10 @@ document.write('<scr'+'ipt src="http://www.burstnet.com/cgi-bin/ads/ad10548a.cgi
 <!-- BEGIN RICH-MEDIA BURST! CODE -->
 <script language="JavaScript">
 rnum=Math.round(Math.random() * 100000);
-document.write('<scr'+'ipt src="http://www.burstnet.com/cgi-bin/ads/sk10548a.cgi/v=2.0S/sz=120x600A|160x600A/'+rnum+'/RETURN-CODE/JS/"></scr'+'ipt>');
-</script><script src="http://www.burstnet.com/cgi-bin/ads/sk10548a.cgi/v=2.0S/sz=120x600A|160x600A/18693/RETURN-CODE/JS/"></script>
-<noscript><a href="http://www.burstnet.com/ads/sk10548a-map.cgi/ns/v=2.0S/sz=120x600A|160x600A/" target="_top">
-<img src="http://www.burstnet.com/cgi-bin/ads/sk10548a.cgi/ns/v=2.0S/sz=120x600A|160x600A/" border="0" alt="Click Here"></a>
+document.write('<scr'+'ipt src="http://ads.addesktop.com/cgi-bin/ads/ad10548a.cgi/v=2.0D/sz=120X600A|160X600A/kw=KEYWORD/'+rnum+'/RETURN-CODE/JS/"></scr'+'ipt>');
+</script><script src="http://ads.addesktop.com/cgi-bin/ads/ad10548a.cgi/v=2.0D/sz=120X600A|160X600A/kw=KEYWORD/99929/RETURN-CODE/JS/"></script>
+<noscript><a href="http://ads.addesktop.com/ads/ad10548a-map.cgi/ns/v=2.0D/sz=120X600A|160X600A/kw=KEYWORD/" target="_top">
+<img src="http://ads.addesktop.com/cgi-bin/ads/ad10548a.cgi/ns/v=2.0D/sz=120X600A|160X600A/kw=KEYWORD/" border="0" alt="Click Here"></a>
 </noscript>
 <!-- END BURST CODE -->
 
@@ -674,10 +886,31 @@ document.write('<scr'+'ipt src="http://www.burstnet.com/cgi-bin/ads/sk10548a.cgi
 			<table width="190" border="0" cellspacing="0" cellpadding="15" bgcolor="#000066">
 				<tbody><tr>
 					<td valign="top" align="center" bgcolor="#000066">
-<!-- SKYSCRAPER AD 2 -->
+<!-- BEGIN RICH-MEDIA BURST! CODE -->
+<script language="JavaScript">
+rnum=Math.round(Math.random() * 100000);
+document.write('<scr'+'ipt src="http://ads.addesktop.com/cgi-bin/ads/ad10548e.cgi/v=2.0D/sz=120X600A|160X600A/kw=KEYWORD/'+rnum+'/RETURN-CODE/JS/"></scr'+'ipt>');
+</script><script src="http://ads.addesktop.com/cgi-bin/ads/ad10548e.cgi/v=2.0D/sz=120X600A|160X600A/kw=KEYWORD/24532/RETURN-CODE/JS/"></script>
+<noscript><a href="http://ads.addesktop.com/ads/ad10548e-map.cgi/ns/v=2.0D/sz=120X600A|160X600A/kw=KEYWORD/" target="_top">
+<img src="http://ads.addesktop.com/cgi-bin/ads/ad10548e.cgi/ns/v=2.0D/sz=120X600A|160X600A/kw=KEYWORD/" border="0" alt="Click Here"></a>
+</noscript>
+<!-- END BURST CODE -->
 					</td>
 				</tr>
 			</tbody></table>
+
+			<table width="190" cellpadding="10" cellspacing="10" border="0" bgcolor="#6699cc">
+				<tbody><tr>
+					<td align="center" bgcolor="#000099">
+						<div class="browser"><strong><a href="/survey.html" class="survey">We want to<br>
+						hear from you!</a></strong><a href="/survey.html" class="survey"><br>
+						 Take our quick<br>
+						 readership survey.</a></div>
+					</td>
+				</tr>
+			</tbody></table>
+			
+			<p>&nbsp;</p>
 
 		</td>
 	</tr>
@@ -687,7 +920,7 @@ document.write('<scr'+'ipt src="http://www.burstnet.com/cgi-bin/ads/sk10548a.cgi
 		<td width="100%" bgcolor="#000066">
 			<table width="100%" border="0" cellspacing="20" cellpadding="0">
 				<tbody><tr>
-					<td align="center" valign="top"><span class="footer"><em>———————&nbsp;&nbsp; <a href="/copyright.htm" class="footer">Copyright © 1995-2004</a> Science<em>Daily</em> LLC &nbsp;&nbsp;|&nbsp;&nbsp; Contact: <a href="mailto:editor@sciencedaily.com" class="footer">editor@sciencedaily.com</a> &nbsp;&nbsp;———————</em></span></td>
+					<td align="center" valign="top"><span class="footer"><em>———————&nbsp;&nbsp; <a href="/copyright.htm" class="footer">Copyright © 1995-2005</a> Science<em>Daily</em> LLC &nbsp;&nbsp;|&nbsp;&nbsp; Contact: <a href="mailto:editor@sciencedaily.com" class="footer">editor@sciencedaily.com</a> &nbsp;&nbsp;———————</em></span></td>
 
 				</tr>
 			</tbody></table>
