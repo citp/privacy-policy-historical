@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the sciencedaily.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206195706id_/http%3A//www.sciencedaily.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencedaily.com privacy policy that was archived on 2005-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050611081349id_/http%3A//www.sciencedaily.com/privacy.htm) for the most accurate reproduction.*
 
 # ScienceDaily: Our Privacy Policy
 
+---  
+  
 Most web sites collect some sort of information about their visitors in order to gather statistics about how many visitors they get each month, what are the most and least popular pages on the web site, where there may be problems in serving certain pages to visitors, etc. In an effort to answer questions such as these, Science _Daily_ also collects certain basic information about its visitors. 
 
 Please note, however, that Science _Daily_ has no interest in personally identifying its users. This would be practically quite difficult, and quite an unnecessary task to accomplish anyway. The only thing that Science _Daily_ is interested in is the overall statistics of its readership. Cumulative figures that provide a picture of visitor traffic to our site are vital in our efforts to attract advertisers--upon whose support the site depends--and to monitor how well our web server is keeping up with our ever-increasing readership. 
