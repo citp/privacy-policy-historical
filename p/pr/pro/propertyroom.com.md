@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the propertyroom.com privacy policy that was archived on 2003-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031009052156id_/http%3A//propertyroom.com/Scripts/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyroom.com privacy policy that was archived on 2005-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050611082013id_/http%3A//www.propertyroom.com/cgi-bin/ncommerce3/ExecMacro/static/privacy.d2w/report%3Fwl%3D31895249) for the most accurate reproduction.*
 
-# Privacy Policy
+# propertyroom.com Privacy policy
 
-  
-**STEALITBACK.com ONLINE PRIVACY POLICY STATEMENT**
+The statement below outlines in detail the privacy practices for StealitBack.com, and addresses the following questions: 
 
-The statement below outlines in detail the privacy practices for StealitBack.com, and addresses the following questions:   
 1) What personal information of yours is collected   
 2) Who is collecting your information   
 3) How the information is used   
@@ -51,7 +49,7 @@ Most browsers are set to accept cookies. If you prefer, you may set your browser
 You may occasionally get cookies from our advertisers. StealitBack does not control these cookies, and they are not subject to StealitBack’s privacy policy. 
 
 **VI. Your Choices Regarding the Information** (top)   
-If you indicated when registering that you are interested in receiving offers or information from StealitBack.com, we may occasionally send you information regarding our products and services. If you no longer wish to receive such information, you may do so by editing your [StealitBack account](https://web.archive.org/scripts/myaccount.asp) information. 
+If you indicated when registering that you are interested in receiving offers or information from StealitBack.com, we may occasionally send you information regarding our products and services. If you no longer wish to receive such information, you may do so by editing your [StealitBack account](https://web.archive.org/cgi-bin/ncommerce3/Welcome?merchant_rn=31895249) information. 
 
 You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies, you will be unable to use those StealItBack.com services that require registration.   
 
