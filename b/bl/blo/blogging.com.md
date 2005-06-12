@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blogging.com privacy policy that was archived on 2004-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041213191608id_/http%3A//www.blogging.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogging.com privacy policy that was archived on 2005-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050612024435id_/http%3A//www.blogging.com/about/privacy.html) for the most accurate reproduction.*
 
-# Blogging.com: Empty Your Head
+# Blogging.com
 
 This Privacy and Security Policy governs the manner in which **Blogging.com** , collects, uses, maintains and discloses information collected from users of this Web site (each, a "User" ).
 
