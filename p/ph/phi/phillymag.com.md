@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phillymag.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204175009id_/http%3A//www.phillymag.com/content.php%3Fname%3Dprivacy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phillymag.com privacy policy that was archived on 2005-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050612085026id_/http%3A//www.phillymag.com/content.php%3Fname%3Dprivacy.txt) for the most accurate reproduction.*
 
 # www.phillymag.com Home Page
 
