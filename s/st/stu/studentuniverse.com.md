@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studentuniverse.com privacy policy that was archived on 2004-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041214084430id_/http%3A//www.studentuniverse.com/aboutus/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentuniverse.com privacy policy that was archived on 2005-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050612084601id_/http%3A//www.studentuniverse.com/aboutus/privacy.jsp) for the most accurate reproduction.*
 
 # Cheap Tickets and Student Travel Airfare Deals
 
@@ -30,6 +30,16 @@
 | 
 
 [careers](http://www.studentuniverse.com/aboutus/careers.jsp)
+
+|   
+| 
+
+[affiliate program](http://affiliate.studentuniverse.com/affsignup.php)
+
+|   
+| 
+
+[campus ambassador](http://www.studentuniverse.com/aboutus/ambassador.jsp)
 
 |   
 | 
