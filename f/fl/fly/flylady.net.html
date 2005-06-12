@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the flylady.net privacy policy that was archived on 2004-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204122259id_/http%3A//flylady.net/pages/Privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flylady.net privacy policy that was archived on 2005-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050613001610id_/http%3A//flylady.net/pages/Privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
@@ -12,11 +12,105 @@
 
 	<link rel="stylesheet" type="text/css" href="/css/main.css">
 	<link rel="SHORTCUT ICON" href="http://www.flylady.net/images/flylady.ico">
+<style type="text/css">
 
+#dhtmltooltip{
+position: absolute;
+width: 150px;
+border: 2px solid black;
+padding: 2px;
+background-color: lightyellow;
+visibility: hidden;
+z-index: 100;
+/*Remove below line to remove shadow. Below line should always appear last within this CSS*/
+filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135);
+}
+
+</style>
 
 	</head>
 
 	<body bgcolor="#ffffff" leftmargin="0" marginwidth="0" topmargin="0" marginheight="0">
+	<div id="dhtmltooltip"></div>
+
+	<script type="text/javascript">
+
+	/***********************************************
+	* Cool DHTML tooltip script- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+	* This notice MUST stay intact for legal use
+	* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+	***********************************************/
+
+	var offsetxpoint=-60 //Customize x offset of tooltip
+	var offsetypoint=20 //Customize y offset of tooltip
+	var ie=document.all
+	var ns6=document.getElementById && !document.all
+	var enabletip=false
+	if (ie||ns6)
+	var tipobj=document.all? document.all["dhtmltooltip"] : document.getElementById? document.getElementById("dhtmltooltip") : ""
+
+	function ietruebody(){
+	return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+	}
+
+	function ddrivetip(thetext, thecolor, thewidth){
+	if (ns6||ie){
+	if (typeof thewidth!="undefined") tipobj.style.width=thewidth+"px"
+	if (typeof thecolor!="undefined" && thecolor!="") tipobj.style.backgroundColor=thecolor
+	tipobj.innerHTML=thetext
+	enabletip=true
+	return false
+	}
+	}
+
+	function positiontip(e){
+	if (enabletip){
+	var curX=(ns6)?e.pageX : event.x+ietruebody().scrollLeft;
+	var curY=(ns6)?e.pageY : event.y+ietruebody().scrollTop;
+	//Find out how close the mouse is to the corner of the window
+	var rightedge=ie&&!window.opera? ietruebody().clientWidth-event.clientX-offsetxpoint : window.innerWidth-e.clientX-offsetxpoint-20
+	var bottomedge=ie&&!window.opera? ietruebody().clientHeight-event.clientY-offsetypoint : window.innerHeight-e.clientY-offsetypoint-20
+
+	var leftedge=(offsetxpoint<0)? offsetxpoint*(-1) : -1000
+
+	//if the horizontal distance isnt enough to accomodate the width of the context menu
+	if (rightedge<tipobj.offsetWidth)
+	//move the horizontal position of the menu to the left by its width
+	tipobj.style.left=ie? ietruebody().scrollLeft+event.clientX-tipobj.offsetWidth+"px" : window.pageXOffset+e.clientX-tipobj.offsetWidth+"px"
+	else if (curX<leftedge)
+	tipobj.style.left="5px"
+	else
+	//position the horizontal position of the menu where the mouse is positioned
+	tipobj.style.left=curX+offsetxpoint+"px"
+
+	//same concept with the vertical position
+	if (bottomedge<tipobj.offsetHeight)
+	tipobj.style.top=ie? ietruebody().scrollTop+event.clientY-tipobj.offsetHeight-offsetypoint+"px" : window.pageYOffset+e.clientY-tipobj.offsetHeight-offsetypoint+"px"
+	else
+	tipobj.style.top=curY+offsetypoint+"px"
+	tipobj.style.visibility="visible"
+	}
+	}
+
+	function hideddrivetip(){
+	if (ns6||ie){
+	enabletip=false
+	tipobj.style.visibility="hidden"
+	tipobj.style.left="-1000px"
+	tipobj.style.backgroundColor=''
+	tipobj.style.width=''
+	}
+	}
+
+	document.onmousemove=positiontip
+
+</script>
+
+	
+
+	
+
+
 		<table cellpadding="0" width="100%" border="0" cellspacing="0">
 			<tbody><tr>
 				<td>
@@ -63,21 +157,42 @@
 
 								<table border="0" cellpadding="0" cellspacing="0" width="100%">
 								<tbody><tr><td width="10"></td><td>
-									<br><b>
-									<a href="/index.asp">Home</a><br>
-									<a href="/pages/WhyFly.asp">Why FLY?</a><br>
-									<a href="/pages/FLYingLessons.asp">FLYing Lessons</a><br>
-									<a href="/pages/cjmain.asp">Control Journal</a><br>
-									<a href="/pages/FlightPlan.asp">FLY Zone</a><br>
-									<a href="/pages/TimeFLYs.asp">Time FLYs when...</a><br>
-									<a href="/pages/FLYFaq.asp">FLY FAQ</a><br>
-									<a href="/pages/FlyLibrary.asp">FLY Library</a><br>
-									<a href="/pages/FoodForThought1.asp">Food For Thought</a><br>
-									<a href="/pages/SHEShop.asp">SHE Shop</a><br>
-									<a href="/join.asp">Join FlyLady now!</a><br>
-									<a href="/pages/TableOfContents.asp">Table of Contents</a><br>
-									<a href="/pages/askflylady1.asp">Ask FlyLady</a><br>
-									<a href="/pages/FlyShop.asp"><img src="/images/FlyShop_menu.jpg" border="0"></a><br>
+									<br>
+									<b>
+<div class="fixedfont"><p><b>
+            <a href="/pages/FlyShop.asp" onmouseover="ddrivetip('<b>The FlyShop</b><br>This is FlyLady\'s Tool Box full of useful tools available for you to purchase.', '#ceacc6')" ;="" onmouseout="hideddrivetip()"><img src="/images/FlyShop_menu3.jpg" border="0"></a>
+ <br>
+            <a href="/index.asp" onmouseover="ddrivetip('<b>Welcome to FlyLady\'s home on the web!</b><br> Are you ready to FLY?', '#ceacc6')" ;="" onmouseout="hideddrivetip()">Home</a>
+ <br>
+            <a href="/pages/WhyFly.asp" onmouseover="ddrivetip('<b>Why FLY?</b><br>Learn more about FlyLady\'s free mentoring list!', '#ceacc6')" ;="" onmouseout="hideddrivetip()">Why FLY?</a>
+ <br>
+            <a href="/pages/FLYingLessons.asp" onmouseover="ddrivetip('<b>FLYing Lessons</b><br>Great info for beginning FLYers', '#ceacc6')" ;="" onmouseout="hideddrivetip()">FLYing Lessons</a>
+ <br>
+            <a href="/pages/cjmain.asp" onmouseover="ddrivetip('<b>Control Journal</b><br>Learn how to create your very own Control Journal; an operations manual for your home.', '#ceacc6')" ;="" onmouseout="hideddrivetip()">Control Journal</a>
+ <br>
+            <a href="/pages/FlightPlan.asp" onmouseover="ddrivetip('<b>FLY Zone</b><br>This is what we\'re working on this week', '#ceacc6')" ;="" onmouseout="hideddrivetip()">FLY Zone</a>
+ <br>
+            <a href="/pages/TimeFLYs.asp" onmouseover="ddrivetip('<b>Time FLYs when</b><br>Poems and Testimonials contributed by flybabies', '#ceacc6')" ;="" onmouseout="hideddrivetip()">Time FLYs when...</a>
+ <br>
+            <a href="/pages/FLYFaq.asp" onmouseover="ddrivetip('<b>FLY FAQ</b><br>Click here for a list of the most frequently asked questions.', '#ceacc6')" ;="" onmouseout="hideddrivetip()">FLY FAQ</a>
+ <br>
+            <a href="/pages/FlyLibrary.asp" onmouseover="ddrivetip('<b>FLY Library</b><br>FlyLady and the FLY Crew\'s Recommended Reading List', '#ceacc6')" ;="" onmouseout="hideddrivetip()">FLY Library</a>
+ <br>
+            <a href="/pages/FoodForThought1.asp" onmouseover="ddrivetip('<b>Food for Thought</b><br>Recipes, articles, kitchen tips and much more.', '#ceacc6')" ;="" onmouseout="hideddrivetip()">Food for Thought</a>
+ <br>
+            <a href="/pages/SHEShop.asp" onmouseover="ddrivetip('<b>SHE Shop</b><br>Pam Young and Peggy Jones\' SHE merchandise ordering page', '#ceacc6')" ;="" onmouseout="hideddrivetip()">SHE Shop</a>
+ <br>
+            <a href="/join.asp" onmouseover="ddrivetip('<b>Join FlyLady Now!!</b><br>Join our cyber family today!', '#ceacc6')" ;="" onmouseout="hideddrivetip()">Join FlyLady Now!</a>
+ <br>
+            <a href="/pages/TableOfContents.asp" onmouseover="ddrivetip('<b>Table of Contents</b><br>Site map with links to previously featured info', '#ceacc6')" ;="" onmouseout="hideddrivetip()">Table of Contents</a>
+ <br>
+            <a href="/pages/askflylady1.asp" onmouseover="ddrivetip('<b>Ask FlyLady</b><br>FlyLady answers questions submitted by members', '#ceacc6')" ;="" onmouseout="hideddrivetip()">Ask FlyLady</a>
+ <br>
+ <a href="/pages/FlyShop.asp" onmouseover="ddrivetip('<b>The FlyShop</b><br>This is FlyLady\'s Tool Box full of useful tools available for you to purchase.', '#ceacc6')" ;="" onmouseout="hideddrivetip()">The FlyShop</a>
+ </b></p>
+
+</div>
+
 									<!-- <a href="/pages/Tellafriend.asp">Tell a Friend!!</a><br> -->
 									</b>
 
@@ -217,10 +332,10 @@ COMPLY WITH THE ENTIRE PRIVACY POLICY.</p>
 							</b>
 							<br><br>
 							<font color="#802050"><i>FlyLady.net "This is FlyLady's List that has grown by leaps and bounds..."<br>
-							Copyright 2001 - 2004 FlyLady and Company, Inc.<br></i></font>
+							Copyright 2001 - 2005 FlyLady and Company, Inc.<br></i></font>
 							
 							</font>
-
+<img src="/images/osxserverbadge.gif">
 							</div>
 							</td>
 						</tr>
@@ -229,5 +344,6 @@ COMPLY WITH THE ENTIRE PRIVACY POLICY.</p>
 			</tr>
 		</tbody></table>
 	
+
 
 </body></html>
