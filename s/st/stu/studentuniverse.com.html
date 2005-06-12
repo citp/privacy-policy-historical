@@ -1,13 +1,15 @@
-<!--The following is the downloaded HTML source of the studentuniverse.com privacy policy that was archived on 2004-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041214084430id_/http%3A//www.studentuniverse.com/aboutus/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the studentuniverse.com privacy policy that was archived on 2005-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050612084601id_/http%3A//www.studentuniverse.com/aboutus/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 	<title>Cheap Tickets and Student Travel Airfare Deals</title>
-<meta name="Description" content="Online student travel agent with cheap tickets. Travel discounts and airfare deals for students only. Book air, rail, hostel and travel insurance.">
+<meta name="Description" content="Online student travel agent with cheap tickets. Student travel discounts and student airfare deals. Book airline tickets, rail tickets, hostel rooms and travel insurance.">
 <meta name="Keywords" content="Student Travel, Cheap Ticket, Cheap Tickets, Cheap Airfare, Cheap Airfares, Air Travel, Travel Deal, Travel Deals, Cheap Airline Ticket, Student Airfare, Student Airfares, Hostels, Study Abroad, Travel Abroad, Student Discount, Student Discounts, Airline Discount, Airline Discounts, Plane Ticket, Plane Tickets, Rail Pass, Discount Airline Ticket, Discount Airline Tickets, Travel Insurance"> 
 <meta http-equiv="Expires" content="Wed, 26 Feb 1997 08:21:57 GMT">
 <meta http-equiv="Pragma" content="no-store">
 <meta http-equiv="Cache-Control" content="no-store">
+
+
 
 
 <script language="JavaScript">
@@ -24,7 +26,10 @@ if (parent.frames.length != 0 && parent.frames.partner) {
 
 
 
+
+
 <script language="Javascript" src="/common/javascript/javascript.js"></script>
+
 
 
 
@@ -82,35 +87,7 @@ navigator.appVersion)==4)document.write("<\!"+"--")</script><noscript>
 
 
 
-
-
-
-
-<script language="JavaScript">
-<!-- 
-browser_version= parseInt(navigator.appVersion);
-browser_type = navigator.appName;
-platform = navigator.platform;
-platform_slice=platform.slice(0, 3);
-
-stylesheetURL = "<link rel='stylesheet' href='/css/";
-if (browser_type == "Microsoft Internet Explorer" && (browser_version >= 4)) 
-	stylesheetURL += "iestyle.css";
-else if (browser_type == "Netscape" && (platform_slice == "Mac") && (browser_version != 5)) 
-	stylesheetURL += "macstyle.css";
-else if (browser_type == "Netscape" && (browser_version >= 4)) 
-	stylesheetURL += "nsstyle.css";
-else
-	stylesheetURL += "iestyle.css";
-stylesheetURL += "' type='text/css'>";
-document.write(stylesheetURL);
-
-//-->
-</script><link rel="stylesheet" href="/css/nsstyle.css" type="text/css">
-
-
-
-
+<link rel="stylesheet" href="/css/iestyle.css" type="text/css">
 
 <script language="JavaScript">
 <!--
@@ -120,11 +97,6 @@ enterButtonEnabled = true;
 document.onkeypress = searchOrLogin;
 partnerCode = 'studentuniverse';
 loginLink = 'https://www.studentuniverse.com/register';
-
-//-->
-</script>
-<script language="JavaScript">
-<!--
 
 // Set Netscape up to run the "captureMousePosition" function whenever
 // the mouse is moved. For Internet Explorer and Netscape 6, you can capture
@@ -143,21 +115,20 @@ yMousePos = 0; // Vertical position of the mouse on the screen
 xMousePosMax = 0; // Width of the page
 yMousePosMax = 0; // Height of the page
 
-//-->
-</script>
-
-<script language="Javascript">
 partnerCode = 'studentuniverse';
 
 
 
 
 
-<!-- Begin cached content "dynamicJavascript" - updated on Mon Dec 13 13:58:13 EST 2004 -->
-function icelandBuyNow() {
-url = 'https://www.travelandplay.com/studentuniverse/orders.asp?source=' + partnerCode;
-window.location = url;
-}
+
+
+
+
+
+
+<!-- Begin cached content "dynamicJavascript" - updated on Wed Jun 08 10:18:20 EDT 2005 -->
+
 function bookHostel() {
 url = 'http://reservations.bookhostels.com/' + partnerCode + '.com/';
 window.location = url;
@@ -170,7 +141,7 @@ function redirectToStudentCity() {
 repCode = 'SUDIRECT';
 if (partnerCode == 'orbitz') repCode = 'SUORBITZ';
 url = 'http://www.studentcity.com/index.cgi?RepCode=' + repCode;
-window.location = url;
+window.open(url);
 }
 function redirectToRailKey() {
 url = 'http://railpass.directtrack.com/z/128/1000101';
@@ -184,13 +155,30 @@ function populateReturnDate() {
 	}
 }
 setTimeout("populateReturnDate()",10000);
-if (top.frames.length != 0 && parent.frames.insurance && document.location.href.indexOf('/includes/templates/partnerTemplate.jsp?partner=worldtravelcenter&templateSegment=top') >= 0 ) {
-  top.document.location.href = 'http://www.worldtravelcenter.com/eng/cobrands/student_u/cobrandindex.cfm?affiliate=student_u';
+function monitorFields() {
+	if (document.form1 != null && document.form1.universityLocationID != null && document.form1.universityLocationID.options != null && document.form1.universityLocationID.options.length > 1 
+	 && document.form1.universityLocationID.selectedIndex == 0
+	 && document.form1.universityID.options[document.form1.universityID.options.selectedIndex].value == '-1') {
+    	resetUniv();
+	}
 }
+function checkJoinLink() {
+	if ( document.register && document.register.action == 'https://www.studentuniverse.com/register/save' ) {
+		document.register.action = 'https://www.studentuniverse.com/register/new'
+	}
+}
+setTimeout('checkJoinLink()', 500);
+
+
 <!-- End cached content "dynamicJavascript" -->
 
 
+
+
+//-->
 </script>
+
+
 
 <!-- additionalStyles -->
 
@@ -215,9 +203,11 @@ if (top.frames.length != 0 && parent.frames.insurance && document.location.href.
 
 
 
+
 <table border="0" cellspacing="0" cellpadding="0" align="center" width="765">
 <tbody><tr>
-    <td colspan="2"><img src="http://images.studentuniverse.com/images/clear.gif" width="1" height="15" border="0"><br><img src="http://images.studentuniverse.com/images/clear.gif" width="1" height="10" border="0"><a name="&amp;lid=Logo_Home" href="http://www.studentuniverse.com/" target="_top"><img src="http://images.studentuniverse.com/images/navigation/logo.gif" width="178" height="19" alt="StudentUniverse: Cheap Tickets and Student Travel Deals" border="0"></a><br><img src="http://images.studentuniverse.com/images/clear.gif" width="1" height="16" border="0"><br></td>
+    <td><img src="http://images.studentuniverse.com/images/clear.gif" width="1" height="15" border="0"><br><img src="http://images.studentuniverse.com/images/clear.gif" width="1" height="10" border="0"><a name="&amp;lid=Logo_Home" href="http://www.studentuniverse.com/" target="_top"><img src="http://images.studentuniverse.com/images/navigation/logo.gif" width="178" height="19" alt="StudentUniverse.com - Cheap Tickets and College Student Travel Deals" border="0"></a><br><img src="http://images.studentuniverse.com/images/clear.gif" width="1" height="16" border="0"><br></td>
+	<td align="right">&nbsp;</td>
     <td colspan="2" class="oldbodytxt"><img src="http://images.studentuniverse.com/images/clear.gif" width="1" height="10" border="0"><br>
 
 
@@ -304,9 +294,9 @@ if (top.frames.length != 0 && parent.frames.insurance && document.location.href.
 <td>
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
-	<td height="21"><a name="&amp;lid=Tabs_TravelGuides" href="/travel_guides/"><img src="http://images.studentuniverse.com/images/tabs/tab_left.gif" width="7" height="21" alt="Guides" border="0"></a></td>
-	<td height="21" background="http://images.studentuniverse.com/images/tabs/tab_bg.gif" align="center"><a name="&amp;lid=Tabs_TravelGuides" href="/travel_guides/" style="font-family:Verdana; font-weight:bold; font-size: 10px; text-decoration:none; color:#333333"><span style="font-family:Verdana; font-weight:bold; font-size: 10px; text-decoration:none; color:#333333">&nbsp;Guides&nbsp;</span></a></td>
-	<td height="21"><a name="&amp;lid=Tabs_TravelGuides" href="/travel_guides/"><img src="http://images.studentuniverse.com/images/tabs/tab_right.gif" width="7" height="21" alt="Guides" border="0"></a></td>
+	<td height="21"><a name="&amp;lid=Tabs_Forums" href="http://forums.studentuniverse.com/"><img src="http://images.studentuniverse.com/images/tabs/tab_left.gif" width="7" height="21" alt="Forums" border="0"></a></td>
+	<td height="21" background="http://images.studentuniverse.com/images/tabs/tab_bg.gif" align="center"><a name="&amp;lid=Tabs_Forums" href="http://forums.studentuniverse.com/" style="font-family:Verdana; font-weight:bold; font-size: 10px; text-decoration:none; color:#333333"><span style="font-family:Verdana; font-weight:bold; font-size: 10px; text-decoration:none; color:#333333">&nbsp;Forums&nbsp;</span></a></td>
+	<td height="21"><a name="&amp;lid=Tabs_Forums" href="http://forums.studentuniverse.com/"><img src="http://images.studentuniverse.com/images/tabs/tab_right.gif" width="7" height="21" alt="Forums" border="0"></a></td>
 </tr>
 </tbody></table>
 </td><td><img src="http://images.studentuniverse.com/images/clear.gif" width="2" height="1" border="0"></td>
@@ -330,9 +320,9 @@ if (top.frames.length != 0 && parent.frames.insurance && document.location.href.
 <td>
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
-	<td height="21"><a name="&amp;lid=Tabs_Insurance" href="http://www.worldtravelcenter.com/eng/cobrands/student_u/cobrandindex.cfm?affiliate=student_u"><img src="http://images.studentuniverse.com/images/tabs/tab_left.gif" width="7" height="21" alt="Insurance" border="0"></a></td>
-	<td height="21" background="http://images.studentuniverse.com/images/tabs/tab_bg.gif" align="center"><a name="&amp;lid=Tabs_Insurance" href="http://www.worldtravelcenter.com/eng/cobrands/student_u/cobrandindex.cfm?affiliate=student_u" style="font-family:Verdana; font-weight:bold; font-size: 10px; text-decoration:none; color:#333333"><span style="font-family:Verdana; font-weight:bold; font-size: 10px; text-decoration:none; color:#333333">&nbsp;Insurance&nbsp;</span></a></td>
-	<td height="21"><a name="&amp;lid=Tabs_Insurance" href="http://www.worldtravelcenter.com/eng/cobrands/student_u/cobrandindex.cfm?affiliate=student_u"><img src="http://images.studentuniverse.com/images/tabs/tab_right.gif" width="7" height="21" alt="Insurance" border="0"></a></td>
+	<td height="21"><a name="&amp;lid=Tabs_Insurance" href="http://www.travelinsurancecenter.com/eng/cobrands/student_u/cobrandindex.cfm?affiliate=student_u&amp;student_u_noFrame=1"><img src="http://images.studentuniverse.com/images/tabs/tab_left.gif" width="7" height="21" alt="Insurance" border="0"></a></td>
+	<td height="21" background="http://images.studentuniverse.com/images/tabs/tab_bg.gif" align="center"><a name="&amp;lid=Tabs_Insurance" href="http://www.travelinsurancecenter.com/eng/cobrands/student_u/cobrandindex.cfm?affiliate=student_u&amp;student_u_noFrame=1" style="font-family:Verdana; font-weight:bold; font-size: 10px; text-decoration:none; color:#333333"><span style="font-family:Verdana; font-weight:bold; font-size: 10px; text-decoration:none; color:#333333">&nbsp;Insurance&nbsp;</span></a></td>
+	<td height="21"><a name="&amp;lid=Tabs_Insurance" href="http://www.travelinsurancecenter.com/eng/cobrands/student_u/cobrandindex.cfm?affiliate=student_u&amp;student_u_noFrame=1"><img src="http://images.studentuniverse.com/images/tabs/tab_right.gif" width="7" height="21" alt="Insurance" border="0"></a></td>
 </tr>
 </tbody></table>
 </td><td><img src="http://images.studentuniverse.com/images/clear.gif" width="2" height="1" border="0"></td>
@@ -370,15 +360,16 @@ if (top.frames.length != 0 && parent.frames.insurance && document.location.href.
 
 
 
+
 <table border="0" cellspacing="0" cellpadding="0">
 
 
 <tbody><tr>
-    <td><a name="&amp;lid=My_Cart" href="http://www.studentuniverse.com/shoppingcart" target="_top" class="loginlinks">My&nbsp;Cart</a></td>
+    <td><a name="&amp;lid=My_Cart" href="https://www.studentuniverse.com/shoppingcart" target="_top" class="loginlinks">My&nbsp;Cart</a></td>
 	<td><img src="http://images.studentuniverse.com/images/clear.gif" width="4" height="1" border="0"></td>
 	<td bgcolor="000000"><img src="http://images.studentuniverse.com/images/clear.gif" width="1" height="1" border="0"></td>
 	<td><img src="http://images.studentuniverse.com/images/clear.gif" width="4" height="1" border="0"></td>
-	<td><a name="&amp;lid=Sign_In" href="javascript:login( )" target="_top" class="loginlinks">Sign&nbsp;in</a></td>
+	<td><a name="&amp;lid=Sign_In" href="https://www.studentuniverse.com/register" target="_top" class="loginlinks">Sign&nbsp;in</a></td>
 	<td><img src="http://images.studentuniverse.com/images/clear.gif" width="4" height="1" border="0"></td>
 	<td bgcolor="000000"><img src="http://images.studentuniverse.com/images/clear.gif" width="1" height="1" border="0"></td>
 	<td><img src="http://images.studentuniverse.com/images/clear.gif" width="4" height="1" border="0"></td>
@@ -391,7 +382,8 @@ if (top.frames.length != 0 && parent.frames.insurance && document.location.href.
 <tr>
     <td colspan="9"><img src="http://images.studentuniverse.com/images/clear.gif" width="1" height="5" border="0"></td>
 </tr>
-</tbody></table></td>
+</tbody></table>
+</td>
 </tr>
 </tbody></table>
 </td></tr></tbody></table>
@@ -431,7 +423,7 @@ window.location = site;
 	<option value="http://www.studentuniverse.com/">Home</option>
 	<option value="http://www.studentuniverse.com/fly">Buy Airline Tickets</option>
 	<option value="http://www.studentuniverse.com/grouptravelrequest">Group Travel</option>
-	<option value="http://www.studentuniverse.com/travel_guides/">Travel Guides</option> 
+	<option value="http://forums.studentuniverse.com/">Forums</option>
 	<option value="http://www.studentuniverse.com/aboutus/contactUs.jsp">Contact Us</option>
 	<option value="http://www.studentuniverse.com/aboutus/siteIndex.jsp">Site Index</option>
 </select>
@@ -441,7 +433,9 @@ window.location = site;
 <img src="http://images.studentuniverse.com/images/clear.gif" width="1" height="20" border="0">
 		
 <!-- left navigation for about us -->
-<table border="0" cellspacing="0" cellpadding="0" width="148"><tbody><tr><td colspan="3"><a href="http://www.studentuniverse.com/aboutus/"><img src="http://images.studentuniverse.com/images/navbars/about_top.gif" width="148" height="27" alt="About Student Universe" border="0"></a></td></tr><tr><td height="2" colspan="3"><img src="http://images.studentuniverse.com/images/navbars/sheading.gif" width="148" height="2" alt="About Student Universe" border="0"></td></tr><tr><td width="2"><img src="http://images.studentuniverse.com/images/clear.gif" width="2" height="1" border="0"></td><td width="145" bgcolor="#999999" height="17" valign="middle"><img src="http://images.studentuniverse.com/images/clear.gif" width="145" height="1" border="0"><br><div style="padding-left: 5pt" id="subnavshead">&gt;&nbsp;<a href="http://www.studentuniverse.com/aboutus/contactUs.jsp" id="subnavshead">TALK TO US</a></div></td><td width="1" bgcolor="#000000"><img src="http://images.studentuniverse.com/images/clear.gif" width="1" height="1" border="0"></td></tr><tr><td height="2" colspan="3"><img src="http://images.studentuniverse.com/images/navbars/sheading.gif" width="148" height="2" alt="About Student Universe" border="0"></td></tr><tr><td width="2"><img src="http://images.studentuniverse.com/images/clear.gif" width="2" height="1" border="0"></td><td width="145" bgcolor="#999999" height="17" valign="middle"><img src="http://images.studentuniverse.com/images/clear.gif" width="145" height="1" border="0"><br><div style="padding-left: 5pt" id="subnavshead">&gt;&nbsp;<a href="http://www.studentuniverse.com/aboutus/background.jsp" id="subnavshead">COMPANY INFO</a></div></td><td width="1" bgcolor="#000000"><img src="http://images.studentuniverse.com/images/clear.gif" width="1" height="1" border="0"></td></tr><tr><td height="2" colspan="3"><img src="http://images.studentuniverse.com/images/navbars/sheading.gif" width="148" height="2" alt="About Student Universe" border="0"></td></tr><tr><td width="2"><img src="http://images.studentuniverse.com/images/clear.gif" width="2" height="1" border="0"></td><td width="145" bgcolor="#999999" height="17" valign="middle"><div style="padding-left: 5pt" id="subnavshead"><a href="http://www.studentuniverse.com/aboutus/background.jsp" id="subnavshead">company background</a></div></td><td width="1" bgcolor="#000000"><img src="http://images.studentuniverse.com/images/clear.gif" width="1" height="1" border="0"></td></tr><tr><td height="2" colspan="3"><img src="http://images.studentuniverse.com/images/navbars/sheading.gif" width="148" height="2" alt="About Student Universe" border="0"></td></tr><tr><td width="2"><img src="http://images.studentuniverse.com/images/clear.gif" width="2" height="1" border="0"></td><td width="145" bgcolor="#999999" height="17" valign="middle"><div style="padding-left: 5pt" id="subnavshead"><a href="http://www.studentuniverse.com/aboutus/partners.jsp" id="subnavshead">partners</a></div></td><td width="1" bgcolor="#000000"><img src="http://images.studentuniverse.com/images/clear.gif" width="1" height="1" border="0"></td></tr><tr><td height="2" colspan="3"><img src="http://images.studentuniverse.com/images/navbars/sheading.gif" width="148" height="2" alt="About Student Universe" border="0"></td></tr><tr><td width="2"><img src="http://images.studentuniverse.com/images/clear.gif" width="2" height="1" border="0"></td><td width="145" bgcolor="#999999" height="17" valign="middle"><div style="padding-left: 5pt" id="subnavshead"><a href="http://www.studentuniverse.com/aboutus/careers.jsp" id="subnavshead">careers</a></div></td><td width="1" bgcolor="#000000"><img src="http://images.studentuniverse.com/images/clear.gif" width="1" height="1" border="0"></td></tr><tr><td height="2" colspan="3"><img src="http://images.studentuniverse.com/images/navbars/sheading.gif" width="148" height="2" alt="About Student Universe" border="0"></td></tr><tr><td width="2"><img src="http://images.studentuniverse.com/images/clear.gif" width="2" height="1" border="0"></td><td width="145" bgcolor="#999999" height="17" valign="middle"><div style="padding-left: 5pt" id="subnavshead"><a href="http://www.studentuniverse.com/aboutus/privacy.jsp" id="subnavshead">privacy policy</a></div></td><td width="1" bgcolor="#000000"><img src="http://images.studentuniverse.com/images/clear.gif" width="1" height="1" border="0"></td></tr><tr><td height="2" colspan="3"><img src="http://images.studentuniverse.com/images/navbars/sheading.gif" width="148" height="2" alt="About Student Universe" border="0"></td></tr><tr><td width="2"><img src="http://images.studentuniverse.com/images/clear.gif" width="2" height="1" border="0"></td><td width="145" bgcolor="#999999" height="17" valign="middle"><div style="padding-left: 5pt" id="subnavshead"><a href="http://www.studentuniverse.com/aboutus/terms.jsp" id="subnavshead">terms of use</a></div></td><td width="1" bgcolor="#000000"><img src="http://images.studentuniverse.com/images/clear.gif" width="1" height="1" border="0"></td></tr><tr><td height="2" colspan="3"><img src="http://images.studentuniverse.com/images/navbars/sheading.gif" width="148" height="2" alt="About Student Universe" border="0"></td></tr><tr><td width="2"><img src="http://images.studentuniverse.com/images/clear.gif" width="2" height="1" border="0"></td><td width="145" bgcolor="#999999" height="34" valign="middle"><div style="padding-left: 5pt" id="subnavshead"><a href="http://www.studentuniverse.com/aboutus/registered.jsp" id="subnavshead">registered seller of travel</a></div></td><td width="1" bgcolor="#000000"><img src="http://images.studentuniverse.com/images/clear.gif" width="1" height="1" border="0"></td></tr><tr><td height="2" colspan="3"><img src="http://images.studentuniverse.com/images/navbars/sheading.gif" width="148" height="2" alt="About Student Universe" border="0"></td></tr><tr><td width="2"><img src="http://images.studentuniverse.com/images/clear.gif" width="2" height="1" border="0"></td><td width="145" bgcolor="#999999" height="17" valign="middle"><div style="padding-left: 5pt" id="subnavshead">&gt;&nbsp;<a href="http://www.studentuniverse.com/aboutus/siteIndex.jsp" id="subnavshead">SITE INDEX</a></div></td><td width="1" bgcolor="#000000"><img src="http://images.studentuniverse.com/images/clear.gif" width="1" height="1" border="0"></td></tr><tr><td colspan="3"><img src="http://images.studentuniverse.com/images/navbars/bottom.gif" width="147" height="12" alt="About Student Universe" border="0"></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="148"><tbody><tr><td colspan="3"><a href="http://www.studentuniverse.com/aboutus/"><img src="http://images.studentuniverse.com/images/navbars/about_top.gif" width="148" height="27" alt="About Student Universe" border="0"></a></td></tr><tr><td height="2" colspan="3"><img src="http://images.studentuniverse.com/images/navbars/sheading.gif" width="148" height="2" alt="About Student Universe" border="0"></td></tr><tr><td width="2"><img src="http://images.studentuniverse.com/images/clear.gif" width="2" height="1" border="0"></td><td width="145" bgcolor="#999999" height="17" valign="middle"><img src="http://images.studentuniverse.com/images/clear.gif" width="145" height="1" border="0"><br><div style="padding-left: 5pt" id="subnavshead">&gt;&nbsp;<a href="http://www.studentuniverse.com/aboutus/contactUs.jsp" id="subnavshead">TALK TO US</a></div></td><td width="1" bgcolor="#000000"><img src="http://images.studentuniverse.com/images/clear.gif" width="1" height="1" border="0"></td></tr><tr><td height="2" colspan="3"><img src="http://images.studentuniverse.com/images/navbars/sheading.gif" width="148" height="2" alt="About Student Universe" border="0"></td></tr><tr><td width="2"><img src="http://images.studentuniverse.com/images/clear.gif" width="2" height="1" border="0"></td><td width="145" bgcolor="#999999" height="17" valign="middle"><img src="http://images.studentuniverse.com/images/clear.gif" width="145" height="1" border="0"><br><div style="padding-left: 5pt" id="subnavshead">&gt;&nbsp;<a href="http://www.studentuniverse.com/aboutus/background.jsp" id="subnavshead">COMPANY INFO</a></div></td><td width="1" bgcolor="#000000"><img src="http://images.studentuniverse.com/images/clear.gif" width="1" height="1" border="0"></td></tr><tr><td height="2" colspan="3"><img src="http://images.studentuniverse.com/images/navbars/sheading.gif" width="148" height="2" alt="About Student Universe" border="0"></td></tr><tr><td width="2"><img src="http://images.studentuniverse.com/images/clear.gif" width="2" height="1" border="0"></td><td width="145" bgcolor="#999999" height="17" valign="middle"><div style="padding-left: 5pt" id="subnavshead"><a href="http://www.studentuniverse.com/aboutus/background.jsp" id="subnavshead">company background</a></div></td><td width="1" bgcolor="#000000"><img src="http://images.studentuniverse.com/images/clear.gif" width="1" height="1" border="0"></td></tr><tr><td height="2" colspan="3"><img src="http://images.studentuniverse.com/images/navbars/sheading.gif" width="148" height="2" alt="About Student Universe" border="0"></td></tr><tr><td width="2"><img src="http://images.studentuniverse.com/images/clear.gif" width="2" height="1" border="0"></td><td width="145" bgcolor="#999999" height="17" valign="middle"><div style="padding-left: 5pt" id="subnavshead"><a href="http://www.studentuniverse.com/aboutus/partners.jsp" id="subnavshead">partners</a></div></td><td width="1" bgcolor="#000000"><img src="http://images.studentuniverse.com/images/clear.gif" width="1" height="1" border="0"></td></tr><tr><td height="2" colspan="3"><img src="http://images.studentuniverse.com/images/navbars/sheading.gif" width="148" height="2" alt="About Student Universe" border="0"></td></tr><tr><td width="2"><img src="http://images.studentuniverse.com/images/clear.gif" width="2" height="1" border="0"></td><td width="145" bgcolor="#999999" height="17" valign="middle"><div style="padding-left: 5pt" id="subnavshead"><a href="http://www.studentuniverse.com/aboutus/careers.jsp" id="subnavshead">careers</a></div></td><td width="1" bgcolor="#000000"><img src="http://images.studentuniverse.com/images/clear.gif" width="1" height="1" border="0"></td></tr><tr><td height="2" colspan="3"><img src="http://images.studentuniverse.com/images/navbars/sheading.gif" width="148" height="2" alt="About Student Universe" border="0"></td></tr><tr><td width="2"><img src="http://images.studentuniverse.com/images/clear.gif" width="2" height="1" border="0"></td><td width="145" bgcolor="#999999" height="17" valign="middle"><div style="padding-left: 5pt" id="subnavshead"><a href="http://affiliate.studentuniverse.com/affsignup.php" id="subnavshead">affiliate program</a></div></td><td width="1" bgcolor="#000000"><img src="http://images.studentuniverse.com/images/clear.gif" width="1" height="1" border="0"></td></tr><tr><td height="2" colspan="3"><img src="http://images.studentuniverse.com/images/navbars/sheading.gif" width="148" height="2" alt="About Student Universe" border="0"></td></tr><tr><td width="2"><img src="http://images.studentuniverse.com/images/clear.gif" width="2" height="1" border="0"></td><td width="145" bgcolor="#999999" height="17" valign="middle"><div style="padding-left: 5pt" id="subnavshead"><a href="http://www.studentuniverse.com/aboutus/ambassador.jsp" id="subnavshead">campus ambassador</a></div></td><td width="1" bgcolor="#000000"><img src="http://images.studentuniverse.com/images/clear.gif" width="1" height="1" border="0"></td></tr><tr><td height="2" colspan="3"><img src="http://images.studentuniverse.com/images/navbars/sheading.gif" width="148" height="2" alt="About Student Universe" border="0"></td></tr>
+
+<tr><td width="2"><img src="http://images.studentuniverse.com/images/clear.gif" width="2" height="1" border="0"></td><td width="145" bgcolor="#999999" height="17" valign="middle"><div style="padding-left: 5pt" id="subnavshead"><a href="http://www.studentuniverse.com/aboutus/privacy.jsp" id="subnavshead">privacy policy</a></div></td><td width="1" bgcolor="#000000"><img src="http://images.studentuniverse.com/images/clear.gif" width="1" height="1" border="0"></td></tr><tr><td height="2" colspan="3"><img src="http://images.studentuniverse.com/images/navbars/sheading.gif" width="148" height="2" alt="About Student Universe" border="0"></td></tr><tr><td width="2"><img src="http://images.studentuniverse.com/images/clear.gif" width="2" height="1" border="0"></td><td width="145" bgcolor="#999999" height="17" valign="middle"><div style="padding-left: 5pt" id="subnavshead"><a href="http://www.studentuniverse.com/aboutus/terms.jsp" id="subnavshead">terms of use</a></div></td><td width="1" bgcolor="#000000"><img src="http://images.studentuniverse.com/images/clear.gif" width="1" height="1" border="0"></td></tr><tr><td height="2" colspan="3"><img src="http://images.studentuniverse.com/images/navbars/sheading.gif" width="148" height="2" alt="About Student Universe" border="0"></td></tr><tr><td width="2"><img src="http://images.studentuniverse.com/images/clear.gif" width="2" height="1" border="0"></td><td width="145" bgcolor="#999999" height="34" valign="middle"><div style="padding-left: 5pt" id="subnavshead"><a href="http://www.studentuniverse.com/aboutus/registered.jsp" id="subnavshead">registered seller of travel</a></div></td><td width="1" bgcolor="#000000"><img src="http://images.studentuniverse.com/images/clear.gif" width="1" height="1" border="0"></td></tr><tr><td height="2" colspan="3"><img src="http://images.studentuniverse.com/images/navbars/sheading.gif" width="148" height="2" alt="About Student Universe" border="0"></td></tr><tr><td width="2"><img src="http://images.studentuniverse.com/images/clear.gif" width="2" height="1" border="0"></td><td width="145" bgcolor="#999999" height="17" valign="middle"><div style="padding-left: 5pt" id="subnavshead">&gt;&nbsp;<a href="http://www.studentuniverse.com/aboutus/siteIndex.jsp" id="subnavshead">SITE INDEX</a></div></td><td width="1" bgcolor="#000000"><img src="http://images.studentuniverse.com/images/clear.gif" width="1" height="1" border="0"></td></tr><tr><td colspan="3"><img src="http://images.studentuniverse.com/images/navbars/bottom.gif" width="147" height="12" alt="About Student Universe" border="0"></td></tr></tbody></table>
 <!-- /left navigation for about us -->	
 
 	<img src="http://images.studentuniverse.com/images/clear.gif" width="1" height="20" border="0">
@@ -461,13 +455,9 @@ window.location = site;
 
 
 
-<!-- travel guides promotional box -->
-<div align="center">
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td>
-<a href="http://www.studentuniverse.com/travel_guides/"><img src="http://images.studentuniverse.com/images/promos/destinations/destinationl.gif" width="68" height="45" alt="Explore our Student Universe Travel Guides" border="0" hspace="2"></a></td><td><a href="http://www.studentuniverse.com/travel_guides/"><img src="http://images.studentuniverse.com/images/promos/destinations/destinationr.gif" width="59" height="38" alt="Explore our Student Universe Travel Guides" border="0" hspace="2"></a>
-</td></tr></tbody></table>
-</div>
-<!-- /travel guides promotional box -->
+<!-- travel forums promotional box -->
+<table border="0" cellspacing="0" cellpadding="0" width="138">	<tbody><tr>	    <td colspan="3"><img border="0" alt="." width="138" src="http://images.studentuniverse.com/images/bkgrds/suSpecialTop.gif" height="7"></td>	</tr>	<tr>	    <td bgcolor="E7E7E7" width="1"><img border="0" width="1" src="http://images.studentuniverse.com/images/clear.gif" height="1"></td>		<td bgcolor="FFFFFF" width="136" class="oldbodytxt" align="center"><img border="0" width="136" src="http://images.studentuniverse.com/images/clear.gif" height="1"><br><a href="http://forums.studentuniverse.com" target="_new" name="&amp;lid=promo_forum"><img border="0" alt="Share your experiences in our Travel Forum" width="126" src="http://images.studentuniverse.com/promos/travel_forum_promo.gif" height="79"></a></td>		<td bgcolor="E7E7E7" width="1"><img border="0" width="1" src="http://images.studentuniverse.com/images/clear.gif" height="1"></td>	</tr>	<tr>	    <td colspan="3"><img border="0" alt="." width="138" src="http://images.studentuniverse.com/images/bkgrds/suSpecialBottom.gif" height="7"></td>	</tr>	</tbody></table>
+<!-- /travel forums promotional box -->
 
 <div class="homefinedots" align="center"><br>......................................</div>
 <br clear="all">
@@ -595,11 +585,21 @@ defaultEmailText = 'Enter your email';
 
 
 
-<!-- Begin cached content "newsletterFooterText" - updated on Mon Dec 13 13:57:01 EST 2004 -->
-Get our DealAlerts and enter to win an iPod® :
+
+
+
+
+
+
+<!-- Begin cached content "newsletterFooterText" - updated on Wed Jun 08 10:18:20 EDT 2005 -->
+
+Get our DealAlerts and be the first to know :
+
+
 <!-- End cached content "newsletterFooterText" -->
 
-</span></td><td>&nbsp;<input type="text" name="email" value="Enter your email" onfocus="if(this.value==defaultEmailText)this.value=''; disableEnterButton()" onblur="if(this.value=='')this.value=defaultEmailText;" class="formfield-sm"></td><td>&nbsp;<a name="&amp;lid=Newsletter_Signup" href="javascript:document.newsletter.submit()" onclick="if(document.newsletter.email.value==defaultEmailText)document.newsletter.email.value=''; return true"><input type="image" src="http://images.studentuniverse.com/images/promos/newsletter_signup_go.gif" height="14" width="19" alt="Sign up and we'll let you know about great deals on cheap airline tickets"></a></td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font: 11px Verdana, Arial, Helvetica, sans-serif; color:3F5FA0; font-weight:bold">Tell Your Friends:</span> <a name="&amp;lid=Tell_Your_Friends" href="/aboutus/tellAFriend" class="small" style="color:black;">Send them our deals!</a></td></tr></tbody></table></td>
+
+</span></td><td>&nbsp;<input type="text" name="email" value="Enter your email" onfocus="if(this.value==defaultEmailText)this.value=''; disableEnterButton()" onblur="if(this.value=='')this.value=defaultEmailText;" class="formfield-sm"></td><td>&nbsp;<a name="&amp;lid=Newsletter_Signup" href="javascript:document.newsletter.submit()" onclick="if(document.newsletter.email.value==defaultEmailText)document.newsletter.email.value=''; return true"><img src="http://images.studentuniverse.com/images/promos/newsletter_signup_go.gif" width="19" height="14" alt="Sign up and be the first to hear about our student travel discount deals" border="0"></a></td></tr></tbody></table></td>
 </tr>
 <tr>
     <td></td>
@@ -608,13 +608,34 @@ Get our DealAlerts and enter to win an iPod® :
 <tr>
 	<td align="center" class="small">
 	
-<a name="&amp;lid=Footer_Home" href="http://www.studentuniverse.com/" class="footer">home</a> | <a name="&amp;lid=Footer_Fly" href="http://www.studentuniverse.com/fly" class="footer">flights</a> | <a name="&amp;lid=Footer_Rail" href="http://railpass.directtrack.com/z/128/1000101" class="footer">rail</a> | <a name="&amp;lid=Footer_Hostels" href="http://www.studentuniverse.com/hostels/" class="footer">hostels</a> | <a name="&amp;lid=Footer_Tours" href="http://www.studentuniverse.com/tours/" class="footer">trips</a> | <a name="&amp;lid=Footer_TravelGuides" href="http://www.studentuniverse.com/travel_guides/" class="footer">travel guides</a> | <a name="&amp;lid=Footer_Tools" href="http://www.studentuniverse.com/tools/" class="footer">tools</a> | <a name="&amp;lid=Footer_Insurance" href="http://www.studentuniverse.com/insurance/" class="footer">insurance</a> | <a name="&amp;lid=Footer_Study" href="http://www.studentuniverse.com/studyabroad/" class="footer">study</a> | <a name="&amp;lid=Footer_AboutUs" href="http://www.studentuniverse.com/aboutus/" class="footer">about us</a> | <a name="&amp;lid=Footer_Groups" href="http://www.studentuniverse.com/grouptravelrequest" class="footer">group travel</a> | <a name="&amp;lid=Footer_MyCart" href="http://www.studentuniverse.com/shoppingcart" class="footer">my cart</a> | <a name="&amp;lid=Footer_SiteIndex" href="http://www.studentuniverse.com/aboutus/siteIndex.jsp" class="footer">site index</a>
+<a name="&amp;lid=Footer_Home" href="http://www.studentuniverse.com/" class="footer">home</a> | <a name="&amp;lid=Footer_Fly" href="http://www.studentuniverse.com/fly" class="footer">flights</a> | <a name="&amp;lid=Footer_Forums" href="http://forums.studentuniverse.com/" class="footer">forums</a> | <a name="&amp;lid=Footer_AboutUs" href="http://www.studentuniverse.com/aboutus/" class="footer">about us</a> | <a name="&amp;lid=Footer_Groups" href="http://affiliate.studentuniverse.com/affsignup.php" class="footer">affiliate program</a> | <a name="&amp;lid=Footer_Groups" href="http://www.studentuniverse.com/grouptravelrequest" class="footer">group travel</a> | <a name="&amp;lid=Footer_MyCart" href="https://www.studentuniverse.com/shoppingcart" class="footer">my cart</a> | <a name="&amp;lid=Footer_SiteIndex" href="http://www.studentuniverse.com/aboutus/siteIndex.jsp" class="footer">site index</a>
 
 
 
 
 <br>
-<span class="content-sm">Copyright © 1999-2004 StudentUniverse.com<sup><font size="-2">TM</font></sup>. All rights reserved.</span> <a name="&amp;lid=Footer_TermsOfUse" href="http://www.studentuniverse.com/aboutus/terms.jsp" class="footer">terms of use</a> | <a name="&amp;lid=Footer_PrivacyPolicy" href="http://www.studentuniverse.com/aboutus/privacy.jsp" class="footer">privacy policy</a> | <a name="&amp;lid=Footer_LegalStuff" href="javascript:popupWindow('/aboutus/legal_stuff_popup.jsp',500,450,'resizable')" class="footer">our fares: the legal stuff</a>
+<span class="content-sm">
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Begin cached content "copyright" - updated on Wed Jun 08 10:18:20 EDT 2005 -->
+
+Copyright © 1999-2005 StudentUniverse.com<sup><font size="-2">TM</font></sup>. All rights reserved.
+
+
+<!-- End cached content "copyright" -->
+
+
+</span> <a name="&amp;lid=Footer_TermsOfUse" href="http://www.studentuniverse.com/aboutus/terms.jsp" class="footer">terms of use</a> | <a name="&amp;lid=Footer_PrivacyPolicy" href="http://www.studentuniverse.com/aboutus/privacy.jsp" class="footer">privacy policy</a> | <a name="&amp;lid=Footer_LegalStuff" href="javascript:popupWindow('/aboutus/legal_stuff_popup.jsp',500,450,'resizable')" class="footer">our fares: the legal stuff</a>
 
 </td>
 </tr>
@@ -633,11 +654,11 @@ Get our DealAlerts and enter to win an iPod® :
 
 <!-- Debug Output
 Client ip address: 209.237.238.181
-JSession ID: 56n8wrrge45c0
+JSession ID: 4pbt967jlj5p
 Requested session id: null
-Page written: Tue Dec 14 03:43:58 EST 2004
+Page written: Sun Jun 12 04:46:00 EDT 2005
 Server name: www.studentuniverse.com
-Local host address (last octet): .26
+Local host address (last octet): .22
 X-Proxied-By: null
 Scheme: http
 -->
@@ -650,6 +671,7 @@ Scheme: http
 This is to avoid a "contains insecure and secure items" warning on secure pages - wigginsd -->
 <iframe src="/common/tools/blank.html" name="hiddenFrame" width="0" height="0">
 </div>
+
 
 
 
