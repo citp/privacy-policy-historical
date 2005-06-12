@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the ldssingles.com privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211093707id_/http%3A//www.ldssingles.com/PrivacyPolicy.singles) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ldssingles.com privacy policy that was archived on 2005-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050612081101id_/http%3A//www.ldssingles.com/PrivacyPolicy.singles) for the most accurate reproduction.*
 
-# LDS Singles Online® - Online LDS Dating Personals for LDS Singles - Dec 11, 2004
+# LDS Singles Online® - Online LDS Dating Personals for LDS Singles - Jun 12, 2005
 
-|  |  |  |  |   LdsSingles.com Privacy Policy  
+| 
+
+|  |  |  |   LdsSingles.com Privacy Policy  
 ---|---  
   | 
 
