@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minyanville.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205073909id_/http%3A//www.minyanville.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minyanville.com privacy policy that was archived on 2005-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050612081543id_/http%3A//www.minyanville.com/company/privacy.htm) for the most accurate reproduction.*
 
 # Minyanville : Company : Privacy Statement
 
@@ -10,7 +10,7 @@ Minyanville.com is committed to safeguarding your privacy online. Please read th
 
  **Personal Information**
 
-Minyanville.com collects personally identifying information from two categories of Minyanville.com Web site users. Personal information about paying subscribers is collected. In addition, we may ask you for additional information when you register for a contest or survey or to receive a newsletter. You always have the option not to provide the additional information we request. If you choose not to provide the additional information we request, you can still visit most of the Minyanville.com Web site, but you may be unable to access certain options and services. 
+Minyanville.com collects personally identifying information from two categories of Minyanville.com Web site users. Personal information about paying subscribers is collected as well as from non-paying subscribers (for example, students are free with an .edu address). In addition, we may ask you for additional information when you register for a contest or survey or to receive a newsletter. You always have the option not to provide the additional information we request. If you choose not to provide the additional information we request, you can still visit most of the Minyanville.com Web site, but you may be unable to access certain options and services. 
 
 **Cookies**
 
@@ -40,7 +40,7 @@ Please be aware that advertisers or Web sites that have links on our site may co
 
 This statement may change from time to time, so please check back periodically. 
 
-© 2004Minyanville Publishing and Multimedia, Inc. All Rights Reserved. 
+© 2005 Minyanville Publishing and Multimedia, LLC. All Rights Reserved. 
 
 **DEFINITIONS** : 
 
