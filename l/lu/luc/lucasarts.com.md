@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lucasarts.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204063131id_/http%3A//lucasarts.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lucasarts.com privacy policy that was archived on 2005-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050613234011id_/http%3A//www.lucasarts.com/legal/privacy) for the most accurate reproduction.*
 
 # LucasArts | Privacy Policy
 
@@ -96,7 +96,7 @@ San Rafael, CA 94912
 Attn: Webmaster 
 
 You can also contact ESRB Privacy Online directly at:  
-[www.esrb.org](https://web.archive.org/web/20041204063131id_/http://www.lucasarts.com/legal/privacy/www.esrb.org)  
+[www.esrb.org](https://web.archive.org/web/20050613234011id_/http://www.lucasarts.com/legal/privacy/www.esrb.org)  
 or by regular mail at:  
 317 Madison Avenue, 22nd Floor  
 New York, NY 10017. 
@@ -109,7 +109,7 @@ Back to start of Our Privacy Policy.
 
 We also participate in the BBBOnline Privacy Program. See [www.bbbonline.com](http://www.bbbonline.org/cks.asp?id=30012011473813365)
 
-© 2004 Lucasfilm Ltd. and/or its affiliated and related entities. All rights reserved. 
+© 2005 Lucasfilm Ltd. and/or its affiliated and related entities. All rights reserved. 
 
 Effective Date: 12/23/02 
 
