@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the arkansas.gov privacy policy that was archived on 2004-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041220195545id_/http%3A//www.arkansas.gov/ina_policy.php%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arkansas.gov privacy policy that was archived on 2005-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050613045605id_/http%3A//www.arkansas.gov/ina_policy.php%23Privacy) for the most accurate reproduction.*
 
 # Arkansas.gov | Accessibility, Privacy, Security Policies
 
-|   
 ---  
   
 | 
