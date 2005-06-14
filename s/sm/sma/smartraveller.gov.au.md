@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartraveller.gov.au privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204102718id_/http%3A//www.dfat.gov.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartraveller.gov.au privacy policy that was archived on 2005-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050614070420id_/http%3A//www.dfat.gov.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy - The Department - Australian Department of Foreign Affairs and Trade
 
@@ -29,7 +29,7 @@ Passport forms are secured using 40 or 128 bit certificates depending on your br
 
 ## Cookies
 
-A cookie is a small file that is sent to your web browser from a web server and stored on your computer's hard drive. Cookies are used on two of our sub-sites: [https://www.gradrec.dfat.gov.au](https://www.gradrec.dfat.gov.au/) and [http://www.tradewatch.dfat.gov.au](http://www.tradewatch.dfat.gov.au/). A cookie is set when you enter the site and is only valid during the session.
+A cookie is a small file that is sent to your web browser from a web server and stored on your computer's hard drive. Cookies are used on two of our sub-sites: [https://www.gradrec.dfat.gov.au](https://www.gradrec.dfat.gov.au/). A cookie is set when you enter the site and is only valid during the session.
 
 The staff who operate these websites are subject to the [_Commonwealth Privacy Act 1988_](http://www.austlii.edu.au/au/legis/cth/consol_act/pa1988108/).
 
