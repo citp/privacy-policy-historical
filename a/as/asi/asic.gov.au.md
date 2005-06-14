@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asic.gov.au privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613090317id_/http%3A//www.asic.gov.au/asic/asic.nsf/HeadingPagesDisplay/Privacy%3FOpenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asic.gov.au privacy policy that was archived on 2005-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050614070515id_/http%3A//www.asic.gov.au/asic/asic.nsf/byheadline/Privacy%3FopenDocument) for the most accurate reproduction.*
 
 # Privacy - Australian Securities and Investments Commission
 
@@ -56,7 +56,7 @@ From time to time, we may wish to carry out a voluntary survey for feedback. Bef
 
   * contact the ASIC Administrative Law Co-ordinator in the regional office of your State or Territory   
   * visit the Privacy Commissioner's website at [www.privacy.gov.au](http://www.privacy.gov.au/)   
-  * contact the Privacy Commissioner's Hotline on 1800 023 985.
+  * contact the Privacy Commissioner's Hotline on 1300 363 992.
 
 Read our privacy statements for the [Australian Financial Services Licence Applications](https://web.archive.org/asic/asic_polprac.nsf/byheadline/Privacy+statement+for+AFS+licence?openDocument) and the [Australian financial services eLicensing portals](https://web.archive.org/asic/asic_polprac.nsf/byheadline/Privacy+statement+for+afs+licensing++portals?openDocument).
 
