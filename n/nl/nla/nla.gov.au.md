@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nla.gov.au privacy policy that was archived on 2004-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041228071621id_/http%3A//www.nla.gov.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nla.gov.au privacy policy that was archived on 2005-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050614071629id_/http%3A//www.nla.gov.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -21,9 +21,9 @@ When you look at this web site, we make a record of your visit and log the follo
 
 
 
-No attempt will be made to identify individual users or their browsing activities except, in the unlikely event of an investigation, where a law enforcement agency may exercise a warrant to inspect the Library's logs. 
+No attempt will be made to identify individual users or their browsing activities except in the event that it is reasonably necessary for the enforcement of criminal law. In the case of the latter, we will comply with the Privacy Principles of the _Privacy Act 1988_ (Cth) regarding the limits and protocols associated with disclosure of personal information.
 
-Some sites use "cookies" to track a particular user's access to a site. Cookies are not used on this site to gather personal information about users except when they are used within a specific web-based application for session management purposes.
+Some sites use "cookies" to track a particular user's access to a site. Cookies are not used on this site to gather personal information about users except when they are used within specific web-based applications, such as our online surveys, where they are used for session management purposes only.
 
 ## Recording your e-mail address
 
