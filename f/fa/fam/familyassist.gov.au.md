@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familyassist.gov.au privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209001210id_/http%3A//www.familyassist.gov.au/internet/fao/fao1.nsf/content/about_us-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyassist.gov.au privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615014720id_/http%3A//www.familyassist.gov.au/internet/FAO/fao1.nsf/content/about_us-privacy.htm) for the most accurate reproduction.*
 
 # Family Assistance Office | Your privacy
 
