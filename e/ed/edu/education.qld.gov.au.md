@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the education.qld.gov.au privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204181706id_/http%3A//education.qld.gov.au/home/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education.qld.gov.au privacy policy that was archived on 2005-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050614071728id_/http%3A//education.qld.gov.au/home/privacy.html) for the most accurate reproduction.*
 
 # Education Queensland
 
@@ -8,7 +8,7 @@ Thank you for visiting the Education Queensland entry point (education.qld.gov.a
 
 Education Queensland is committed to protecting user privacy. We understand and appreciate that visitors and users of this web site are concerned about their privacy and the confidentiality and security of any information that they may provide.
 
-The Education Queensland website makes some use of data that directly or indirectly identifies users. We take great care with practices that affect personal privacy. Education Queensland officers who manage information on our website are bound by [Information Standard 42: Information Privacy](http://www.iie.qld.gov.au/comminfo/guidelines.html#Current) and the departmental "[Code of Conduct](https://web.archive.org/corporate/doem/humanres/hr-07001/hr-07001.htm)".
+The Education Queensland website makes some use of data that directly or indirectly identifies users. We take great care with practices that affect personal privacy. Education Queensland officers who manage information on our website are bound by [Information Standard 42: Information Privacy](http://www.governmentict.qld.gov.au/02_infostand/standards.htm) and the departmental "[Code of Conduct](https://web.archive.org/corporate/doem/humanres/hr-07001/hr-07001.html)".
 
 ## Cookies
 
@@ -62,7 +62,7 @@ If you want to obtain access to certain areas of the Education Queensland websit
 
 ## Obtaining Access to Personal Information 
 
-Any member of the public who requires access or amendment to personal information held by the Department of Education may apply under the [Freedom of Information Act 1992](https://web.archive.org/corporate/doem/legalleg/ll-07000/sections/preface_.htm). 
+Any member of the public who requires access or amendment to personal information held by the Department of Education may apply under the [Freedom of Information Act 1992](https://web.archive.org/corporate/doem/legalleg/ll-07000/sections/preface_.html). 
 
 ## Email and Feedback Information 
 
