@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the acu.edu.au privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603012408id_/http%3A//www.acu.edu.au/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acu.edu.au privacy policy that was archived on 2005-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050614071218id_/http%3A//www.acu.edu.au/privacy_policy.cfm) for the most accurate reproduction.*
 
-# ACU National Website
+# Privacy Policy - ACU National Website
 
-ACU National is committed to ensuring the privacy of all information it collects. Information supplied to the University will only be used for the administrative and educational purposes of this institution.  
+ACU National is committed to ensuring the privacy of all information it collects. Information supplied to the University will only be used for the administrative and educational purposes of this institution.
+
 Australian Catholic University is a registered company and therefore, like other companies operating in Australia, it is bound by the National Privacy Principles as set out in the Privacy Amendment (Private Sector) Act 2000. In keeping with this legislation, this Privacy Statement sets out the University's practice in the collection, use and disclosure of personal information.
 
-**Information Collected**
+**Information collected**
 
 The University collects a substantial volume of personal information concerning staff, students and other persons. This information is only collected where necessary. Legitimate reasons for collecting personal information include administrative need, legislative requirements or research investigations.
 
@@ -62,9 +63,12 @@ The University has links with other education institutions throughout the world,
 Some of the information collected by the University is classed as sensitive information. This would include information on disabilities, racial or ethnic origin, religious beliefs or criminal background. Sensitive information is only collected to satisfy legislative requirements or to meet special needs.
 
 **Contact**  
-For further information about this privacy statement or the practices of the University, please contact:  
-John Cameron,  
-Executive Director,  
-University Services,  
-Telephone: (02) 9739 2912  
-email: [j.Cameron@vcy.acu.edu.au](mailto:j.Cameron@vcy.acu.edu.au)
+For further information about this privacy statement or the practices of the University, please contact:
+
+  * John Cameron  
+Executive Director, University Services  
+Tel 02-9739 2912  
+Email [j.Cameron@vcy.acu.edu.au](mailto:j.Cameron@vcy.acu.edu.au)
+
+
+
