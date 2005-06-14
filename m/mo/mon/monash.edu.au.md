@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monash.edu.au privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208175437id_/http%3A//monash.edu.au/legals/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monash.edu.au privacy policy that was archived on 2005-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050614070302id_/http%3A//www.monash.edu.au/legals/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement (Monash University)
 
@@ -9,6 +9,8 @@ Monash University is subject to the **Information Privacy Act 2000 (Victoria)**.
 ### Information automatically logged
 
 The University may make a record of your visit and log any of the following information for statistical and business purposes- the user's address, the user's domain name, IP address, the date and time of the visit, the pages accessed and documents downloaded, the previous site visited and the type of browser used. Identification of the user may also be requested and logged.
+
+Information about your visit to a University website may also be logged by Nielsen//Netratings Pty Ltd to provide the University with de-identified statistical analysis about users' online experiences and trends.
 
 If you are not a Monash student or a University staff member and you send us a message, the University will record your e-mail address.
 
