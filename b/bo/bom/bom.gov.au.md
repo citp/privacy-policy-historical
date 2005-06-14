@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bom.gov.au privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204170116id_/http%3A//www.bom.gov.au/other/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bom.gov.au privacy policy that was archived on 2005-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050614072318id_/http%3A//www.bom.gov.au/other/privacy.shtml) for the most accurate reproduction.*
 
 # Bureau of Meteorology - Privacy Statement
 
@@ -8,7 +8,7 @@ This page explains the type of information that is collected by the Bureau of Me
 
 Privacy Officer (EXL)  
 Bureau of Meteorology  
-GPO Box 1289K  
+GPO Box 1289  
 Melbourne Vic 3001  
 Australia  
 
