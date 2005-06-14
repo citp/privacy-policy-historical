@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the needle.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204013359id_/http%3A//czplatinum.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the needle.com privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615010414id_/http%3A//www.czplatinum.com/privacy.asp) for the most accurate reproduction.*
 
 # Cubic Zirconia, cz jewelry by czplatinum.com
 
@@ -28,7 +28,7 @@ Other Information We Collect
   * Feedback Form
 
 \- Should you contact us through our feedback form, we require your name and email address only to send you a reply.  
-\- If you use the form to send comments about your shopping experience at Czplatinum , we may include the comment with your name in our [Customer Testimonials](https://web.archive.org/web/20041204013359id_/http%3A//czplatinum.com/testimonial.asp) section.
+\- If you use the form to send comments about your shopping experience at Czplatinum , we may include the comment with your name in our [Customer Testimonials](https://web.archive.org/web/20050615010414id_/http%3A//www.czplatinum.com/testimonial.asp) section.
 
   * Email Newsletter," "Email Special Offers" and "Catalog" Sign-up Features
 
@@ -62,4 +62,4 @@ If you created an account and would like to delete your account, please send an 
 
 
 
-[HOME](https://web.archive.org/web/20041204013359id_/http%3A//czplatinum.com/default.asp)
+[HOME](https://web.archive.org/web/20050615010414id_/http%3A//www.czplatinum.com/default.asp)
