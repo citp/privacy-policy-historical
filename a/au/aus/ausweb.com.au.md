@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ausweb.com.au privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212040112id_/http%3A//www.ausweb.com.au/Privacy_Statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ausweb.com.au privacy policy that was archived on 2005-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050614095352id_/http%3A//ausweb.com.au/html/Privacy_Statement.htm) for the most accurate reproduction.*
 
-# Australian Web hosting | AusWeb | Affordable Domain Names| Privacy Statement
+# Australian Web hosting - AUSWEB
 
-AusWeb Privacy Statement
+**AusWeb Privacy Statement**
 
 AusWeb regards its clients' information with utmost respect and care. We believe it is important that our clients should have an expectation that the information they provide to AusWeb is held in confidence and is used for internal business only. 
 
