@@ -1,7 +1,19 @@
-> *The following text is extracted and transformed from the unsw.edu.au privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204101810id_/http%3A//www.unsw.edu.au/gen/pad/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unsw.edu.au privacy policy that was archived on 2005-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050614070505id_/http%3A//www.unsw.edu.au/gen/pad/privacy.html) for the most accurate reproduction.*
 
 # UNSW: The University of New South Wales - Sydney Australia
 
+  | 
+
+### Privacy Statement
+
+  
+  
+---|---  
+  | 
+
+The purpose of this statement is to let users of this web site know what information is collected about them when they visit this site, how this information is used and if it is disclosed.
+
+Information collected.  
 The information collected during each visit is aggregated with similar logged information and published in reports in order for UNSW to identify patterns of usage of the site. This will assist us in improving the Service of the UNSW site and the services offered on it.
 
 UNSW will not disclose or publish information that identifies individual machines, or potentially identifies sub-groupings of addresses, without consent or otherwise in accordance with the New South Wales [ Privacy and Personal Information Protection Act 1988.](http://www.austlii.edu.au/au/legis/nsw/consol_act/papipa1998464/)
@@ -30,4 +42,15 @@ UNSW provides feedback facilities on the UNSW site to allow users to provide inp
 Access to information within the Department.  
 UNSW captures this information on its own computers. Access to the raw data is restricted to a limited number of officers in UNSW for the purpose of analysis and to report on the success of UNSW in meeting UNSW's communication and access objectives. The officers who can access this data are the members of the Division of Information Services Team of the University of New South Wales. If you would like to access information held about you by UNSW please contact PAD.  
 Due to the developing nature of privacy principles for online communication, this policy may be modified or expanded in light of new developments or issues that may arise from time to time. The amended policy will be posted to this site and will operate from the time it is posted.   
+
+
+|   
+  | 
+
+[ Privacy Policy](https://web.archive.org/gen/pad/privacy.html) [ Copyright and Disclaimer](https://web.archive.org/gen/pad/copyright.html) [ Accessibility](https://web.archive.org/gen/ced/accessibility.html) [ Site Feedback](https://web.archive.org/webfeedback.html) [ Sitemap](https://web.archive.org/sitemap.html)  
+  
+  | 
+
+UNSW Sydney NSW 2052 Australia   
+Authorised by Marketing Services Manager   
 
