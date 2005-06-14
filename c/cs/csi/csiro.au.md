@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csiro.au privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208091426id_/http%3A//csiro.au/index.asp%3Ftype%3DaboutCSIRO%26xml%3Dprivacy%26stylesheet%3Dgeneric) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csiro.au privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615003231id_/http%3A//www.csiro.au/index.asp%3Ftype%3DaboutCSIRO%26xml%3Dprivacy%26stylesheet%3Dgeneric) for the most accurate reproduction.*
 
 # CSIRO - CSIRO Privacy Statement
 
