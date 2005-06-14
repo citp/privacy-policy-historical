@@ -1,110 +1,117 @@
-> *The following text is extracted and transformed from the autobytel.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206234030id_/http%3A//autobytel.com/content/home/help/index.cfm/action/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autobytel.com privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615000815id_/http%3A//autobytel.com/content/home/help/index.cfm/action/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Autobytel
+# Privacy Policy
 
-AUTOBYTEL.COM CONSUMER PRIVACY AND SECURITY POLICY
+**AUTOBYTEL CONSUMER PRIVACY AND SECURITY POLICY**
 
-[](https://web.archive.org/system/fnc_logjump.cfm/log/general/partner/truste/linkpage/privacyPolicy_ABTL_validate) Autobytel.com understands your concern with privacy and the use of your personal information. Whether you submit a purchase request for a vehicle or simply browse through our Web site, we assure you that we are committed to protecting your personal privacy. 
+**Date Last Revised: 05/03/2005**
 
-Autobytel.com inc. is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for http://www.autobytel.com. If you have questions or concerns regarding this statement, you should first contact our Consumer Privacy Advocate by e-mail at [ABTPrivacy@autobytel.com](mailto:abtprivacy@autobytel.com) or directly at : 888-422-8999, Ext. 1387. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then [contact TRUSTe](https://web.archive.org/system/fnc_logjump.cfm?id=4;ABTL&log=general&partner=truste&linkpage=privacy_watchdogABTL). TRUSTe will then serve as a liaison with us to resolve your concerns. 
+Autobytel Inc. ("Autobytel") understands your concern with privacy and the use of your personal information. Whether you submit a purchase request for a vehicle or simply browse through our website, we assure you that we are committed to protecting your personal privacy. 
 
-Information Autobytel.com Collects 
+[](https://web.archive.org/system/fnc_logjump.cfm/log/general/partner/truste/linkpage/privacyPolicy_ABTL_validate)
 
-Autobytel.com collects e-mail addresses of consumers who communicate with us via e-mail. Information on web pages visited and other information volunteered by consumers such as survey information and/or site registrations are also collected. Information collected for purchase requests includes name, address, and phone numbers, e-mail address and specific vehicle information.   
-Collected information is used to improve the content of our Web site, customize the content and/or layout of our Web site for individual users, notification of updates to our Web site and is also used to contact consumers for marketing purposes. Purchase request information is used to route requests to our accredited dealers, manufacturers and fulfillment partners, and to contact consumers regarding vehicle purchases. This information may be shared with other reputable organizations only if the consumer gives permission. 
+Autobytel Inc. is a licensee of the TRUSTe Web Privacy Seal Program. This privacy and security policy discloses the privacy practices for http://www.autobytel.com. If you have questions or concerns regarding this policy, you should first contact our Consumer Privacy Advocate by e-mail at ABTPrivacy@autobytel.com or directly at: 888-422-8999, Ext. 8903. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then [contact TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
-Who Owns Purchase Request Data? 
+**1\. Information Autobytel Collects**
 
-Purchase Request information, including your name, e-mail address, home address and vehicle information, becomes the property of Autobytel.com once it is received in our database. This information is passed on to our accredited dealers, manufacturers and fulfillment partners for completion of the sale pursuant to contractual rights granted by Autobytel.com. Once our accredited dealer receives this information, it becomes the property of the dealership in addition to Autobytel.com. Our accredited dealers use this information to process your purchase request and provide valuable services. Any request to opt out of future dealer communications must be made directly to the dealer. 
+Autobytel collects email addresses of consumers who communicate with us or through our authorized vendors via e-mail. We also collect information on web pages visited and other information that is provided by consumers either on our site or in response to e-mail communications from us. We also collect information provided to us by consumers in purchase requests submitted through our site or our authorized vendors' sites ("Purchase Request Information"). Purchase Request Information typically includes name, address, and phone numbers, e-mail address and specific vehicle information. In addition, consumers who express a desire to apply for vehicle financing provide us with and authorize us or our affiliate web sites to obtain from third parties necessary financial information such as credit reports ("Finance Information"). We do not provide financing, but instead transmit those requests to third-party vendors for consideration. 
 
-Personalization
+All information provided by consumers in any of the above-listed ways or otherwise becomes the property of Autobytel once received by us and may be used and disclosed as permitted in this Policy. 
 
-Autobytel.com offers its users the advantage of personalization on our Web site by using cookies. (see Cookies) You will see this personalization in the "My Garage" area, in the saving of favorite vehicle information in "My Wishlist" and used vehicle searches. Personalization in the "My Garage" area creates an individual experience for users by displaying the user's name and current vehicle information.   
-If you use our used vehicle searches, our Web site will remember your login name. Our used car page will remember previous vehicle searches you have made. Web site personalization provides our customers with a more convenient online experience and is at no given time used to track information or retrieve data from your hard drive. 
+**Framed Sections of Our Site**
 
-Cookies
+Autobytel maintains relationships with outside service providers for some of the products and services offered through our site. Certain of these service providers are found on our Finance, Insurance, Warranty, or other pages. The information these providers make available may be presented in a "framed" format, where the Autobytel border will surround the pages served by the service providers, or by directly linking the user to the vendors' sites. In either case, the service provider is prominently identified. Please be aware that any information you provide on those framed pages is provided directly to those service providers and is subject to their security and privacy policies. We encourage you to read the privacy policies of these outside service providers because their privacy practices may differ from ours. 
 
-Autobytel.com offers consumers the convenience of online personalization by using cookies. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser. When this information is stored on your hard drive, our system is able to recognize your browser and in turn customize web page content for you. (See Personalization) 
+**Browsing on our Website**
 
-Cookies cannot be used to retrieve data from your hard drive, obtain your e-mail address or obtain sensitive information about you. When a cookie is set, your browser will check it for length, an expiration date, and where it originated. Only Autobytel.com can access the cookies that we set. 
+If you browse through our site without entering any personal data, we will gather and store certain information about your visit. This information does not identify you personally and cannot be linked back to you unless you decide at some point to identify yourself. 
 
-Autobytel.com allows our ad service company to set cookies as well. These cookies can "recognize" a consumer by a Unique identifier assigned at the time of the first visit, and may be used to measure site and page visits and browser version number. These cookies can not obtain private information like name, e-mail or other personal information, and are not shared with Autobytel.com. 
+If you are only browsing, we collect the following information: IP address, the type of browser and operating system used to access our site, the date and time you access our site, the pages you visit (click-through), and if you linked to our Web site from another Web site, the address of that Web site, as well as additional information related to your visit. 
 
-We use a third party tracking service who sets cookies on our site to track visits, page views and click stream behavior. The third party tracking service reports this data to use in aggregate so we can better understand our users and to improve our site. This information is not tied to any individual user. 
+**2\. How We Use Your Personal Information**
 
-If you prefer not to accept cookies, most browsers will explain how to disable cookies under the help portion of the toolbar or notify you when you receive a new cookie. However, if you choose to disallow cookies on your hard drive, our Web site will not be able to provide personalization services. 
+Collected information is used to improve the content of our website, customize the content or layout of our website for individual users, provide services requested, notify users of updates to the site and, subject to the limitations set forth below, to develop new products and services and to contact consumers for marketing purposes. 
 
-Shared information 
+**Personalization**
 
-Occasionally, when Autobytel.com does not have an accredited dealership available to assist our consumers we may forward your request information to a dealer at Autoweb.com or CarSmart.com, two other well-known online automotive referral services operated by Autobytel Inc. You will be notified that your information is forwarded at the time you submit your purchase request. At that time you will become subject to the security and privacy policies that are posted on those Web sites at [www.autoweb.com](http://www.autoweb.com/), or [www.CarSmart.com](http://www.carsmart.com/). If you have further questions about the Autoweb.com Privacy Policy you may contact Autoweb.com Customer Service at [ConsumerCare@autoweb.com](mailto:ConsumerCare@autoweb.com). For CarSmart.com please contact CarSmart customer service at [custserv@carsmart.com](mailto:custserv@carsmart.com). Other than as just described, Autobytel.com will not sell or rent your name, address or e-mail address to any third party without your permission. However, in situations where required by law, Autobytel.com may share this information in cooperation with law enforcement authorities. 
+Autobytel offers its users the advantage of personalization on our website by using cookies. (See Cookies below.) Personalized services are offered in designated areas of our website to users who register with us. Examples of personalization include providing information when prompted for services, the saving of favorite vehicle information in "My Garage," the recordation of used vehicle searches for easy updates, and the provision of service reminders and recall information for those users who request these options. 
 
-Outside Providers of Service 
+Autobytel may track consumer interest in goods and services marketed to users who are members of the on-site personalization area. This information is used solely by Autobytel and its affiliated companies for business purposes. 
 
-Autobytel.com partners with outside service providers for some of the products and services offered. Certain of such partnerships are found on our Finance, Insurance and Warranty pages. The information these partners provide will be presented in a "framed" format, where the Autobytel.com border will surround the pages served by the partner. 
+**Purchase Request Information and Finance Information**
 
-Although Autobytel.com makes every attempt to work only with credible service provider partners, please be aware that you will be subject to these outside partners' security and privacy policies once you leave our Web site. We encourage you to read the privacy policies of these outside service providers, because their privacy practices may differ from ours. 
+Purchase Request Information is used to transmit to third parties requests for products or services and to contact consumers regarding vehicle purchases. Similarly, Finance Information is used to transmit to third parties requests for vehicle financing. Typically, in either case the information is transmitted to dealers, manufacturers, lenders or fulfillment entities, as applicable, who may be in a position to respond to your request. 
 
-What Autobytel.com Tracks 
+Occasionally, in the case of Purchase Request Information or Finance Information, when Autobytel does not have a dealership available to assist you, we may forward your request information to a dealer at another automotive referral service. You will be notified that your information is being forwarded at the time you submit your purchase request. Any Purchase Request Information or Finance Information forwarded in this way becomes subject to the security and privacy policies that are posted on the websites of those referral services. 
 
-Autobytel.com tracks vehicle information entered into "My Garage" to provide service reminders and recall information, purchase request information and click-through information for e-mail sent to consumers. Purchase request data such as name, address and specific vehicle information is also tracked only for internal business and statistical purposes. 
+Similarly, Purchase Request or Finance Information transmitted to a dealer, manufacturer, lender or fulfillment entity becomes the property of that dealer, manufacturer, lender or fulfillment entity, in addition to Autobytel. The information is used to process your purchase request or financing application and to provide you with information about goods and services. Any request to opt out of future dealer, lender, manufacturer or other third-party communications must be made directly to that third party. 
 
-Autobytel.com may track consumer interest in goods and services marketed to users who are members of the on-site personalization area. This information is used solely by Autobytel.com for business purposes. 
+**Other Uses**
 
-Browsing on our Web site 
+We also share your personal information with our affiliated companies in order to identify products or services in which you may have interest, to improve our user experience and generally to engage in market research and for other internal business purposes. We also may aggregate your personal information with others' information and prepare reports on site usage, purchase history or other factors for sale or distribution to others. Those reports are aggregated and include no personally identifying information. Finally, we may use your personal information to send you email or postal communications regarding products or services offered by us or by third parties with whom we have relationships in which we think you may be interested. 
 
-If you browse through our Web site without entering any personal data, we will gather and store certain information about your visit. This information does not identify you personally and cannot be linked back to you unless you decide at some point to identify yourself. 
+**Special Sections of Our Site**
 
-If you are only browsing, we collect the following information: IP address, the type of browser and operating system used to access our site, the date and time you access our site, the pages you visit (click-through), and if you linked to our Web site from another Web site, the address of that Web site. 
+Autobytel offers forums on its site. Any information you disclose in these forums is available to all Autobytel registered members and may increase the risk of receiving "spam" or unsolicited email from other parties. Be careful and use discretion when disclosing information online. 
 
-Privacy 
-
-Any personal, identifiable information you submit to Autobytel.com will only be used with your permission. When submitting a purchase request on our Web site, you will be given the opportunity to choose which forms of communication you do or do not wish to receive from us by selecting check boxes. If you do not uncheck a box, consent is assumed to opt your e-mail address into the individual communication or service. (See E-mail Options) These options include service notifications and offers, newsletters, product offers from affiliate vendors that may be of interest to you and postal mail offers that may be of interest to you. Autobytel.com and its accredited dealers will use phone numbers to contact customers regarding a purchase request for a vehicle. Additionally, phone numbers may be used to conduct customer surveys regarding individual experiences with Autobytel.com-accredited dealers. Phone numbers are not sold to any third party. 
-
-You always have the option of removing yourself from further e-mail contact. If at any time you choose to opt out of any offers, you can click on the remove link at the bottom of the e-mail offer. Or to opt yourself out of further contact email Customer Service at [ConsumerCare@autobytel.com](mailto:consumercare@autobytel.com) with the word "Remove" in the subject line and we will remove you from e-mail and postal mail offerings within 5 business days. 
-
-You may also make other corrections and updates to your personal information by contacting [ConsumerCare@autobytel.com](mailto:consumercare@autobytel.com), or by accessing your settings in the "My Garage" personalized portion of our Web site by clicking on Log In on our Home Page. If you are already a member of "My Garage", you will be offered "My Settings" where you can make any adjustments you wish in your personally identifiable information, and e-mail settings. If you are not already a member of "My Garage", you will be invited to become a member and create your personal information and e-mail settings. 
-
-If you choose to submit a Consumer Review of a Vehicle, you will be able to request that your name, e-mail address and a list of cars in your household be shown. If you do not give that permission, your personal information will not be displayed. 
+If you choose to submit a Consumer Review of a Vehicle, you will be able to request that your name, email address and a list of cars in your household be shown. If you do not give that permission, your personal information will not be displayed. 
 
 If you contact Consumer Care utilizing the live help Chat function, your questions or information will not be collected or shared with other parties, unless directed by you. 
 
-If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via e-mail. You will have a choice as to whether or not to allow us to use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases we will also e-mail users who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
+**3\. Third Parties That May Receive Your Personal Information**
 
-Autobyel.com offers forums on its site. Please note that disclosing personally identifiable information online through Chat Rooms, Forums, and Message Boards makes the information submitted public, even though the forum is limited to registered members. Such disclosure may increase the chance of you receiving "spam" or unsolicited email. Be careful and use discretion when disclosing information online. 
+In addition to our own internal uses of your information, we may provide your personal information to non-affiliated third parties under one of several circumstances: 
 
-Security
-
-Autobytel.com understands the importance of security for our consumers. We use the latest SSL (Secure Socket Layer) encryption technology to protect personal data such as credit card information and finance or insurance application information during transmission. This allows your personal information to be submitted in a secure environment while reaching the intended parties. 
-
-An SSL-capable web browser is needed to support this encryption technology. Netscape Navigator 4.6 or higher or Microsoft's Internet Explorer 4.01 or higher will support SSL technology. To verify that you are on a secure web page in Netscape Navigator, right-click while your cursor is on the form (not the border) and select "view Frame information" in Netscape Navigator. 
-
-To view security certificates in Internet Explorer, click Internet Options on the View menu in the browser and then the Content tab. In the Certificates area, click the Personal, Sites, and Publishers buttons to view the current certificates. 
-
-Other browsers may say "properties" or "page info". If the page is named https (Hyper Text Transfer Protocol Secure) instead of http, it is secure. 
-
-Credit Card Data 
-
-Autobytel.com uses the latest SSL (Secure Socket Layer) technology to protect your credit card information during transfer. (See Security) We do not release this information to any outside source. SSL is the Internet standard for secure transactions and is supported by Netscape Navigator 4.6 or higher and Microsoft Explorer 4.01 and higher. 
-
-If you have any questions regarding your credit card data and how it is used, please contact our Consumer Privacy Advocate at 888-422-8999, Ext. 1387 or e-mail at [ABTPrivacy@autobytel.com](mailto:abtprivacy@autobytel.com). 
-
-E-Mail Options
-
-If you choose to opt in to all our offers, you can expect to receive various auto-related service and product e-mail from time to time. We understand that our customers may wish to be selective in opting out of specific offerings of products and services while retaining other services of interest. For those customers we provide the following options to choose which product and service offerings they receive: 
-
-Log in to edit email options.  
+  * To provide you with services or products that you have requested (such as, for example, transmittal of Purchase Request Information to dealers, manufacturers, fulfillment third-parties and other automotive referral services, or transmittal of Finance Information to potential lenders); 
+  * To our advertiser clients solely to assess the effectiveness of ad campaigns we have provided for them; 
+  * To contractors or service providers who may provide services or perform functions on our behalf, in which case those service providers may use your information only for the purposes provided and not disclose it to any third party except upon our direction; 
+  * To enforce our rights or as required by law or order of a court or government agency; and 
+  * On occasion, unless you opt-out (as described below), to other third parties who may wish to send you e-mails or postal communications regarding services or products that you may find of interest. 
 
 
-(Forgot your Zip? [Click here](https://web.archive.org/content/own/garage/index.cfm?id=4;ABTL&action=UpdateEmail&LoginStep=getzip)) 
 
-If you experience any difficulties in accessing this link or have any other questions or concerns regarding privacy, security, opting-out of e-mail offers or understanding how your e-mail address is being used, please contact our Consumer Privacy Advocate at 888-422-8999, Ext. 1387 or e-mail at [ABTPrivacy@autobytel.com](mailto:abtprivacy@autobytel.com). 
+**4\. Your Right To Opt Out of Communications From Us and Others**
 
-Contact Information 
+You always have the option of removing yourself from further marketing contact from us. If at any time you choose to opt out of any category of email, you can click on the remove link at the bottom of the e-mail. Alternatively, you may email Customer Service at consumercare@autobytel.com with the word "Remove" in the subject line and we will remove you from all further email and postal mail marketing communication within 5 business days. You may also opt-out at any time by [clicking here](https://web.archive.org/content/home/index.cfm?action=updateProfile)
 
-If you have any questions, concerns or suggestions regarding our privacy and security policies, please contact our Consumer Privacy Advocate directly at 888-422-8999, Ext. 1387 or e-mail at [ABTPrivacy@autobytel.com](mailto:abtprivacy@autobytel.com). All issues will be handled in a timely manner. 
+In addition, those consumers who submit a purchase request or financing request to us are given the opportunity at the time they provide their information to decide what types of offerings of products or services they wish to receive or to opt-out. You may update those preferences at any time by clicking here. 
 
-For any other issues, please contact our customer service department at [ConsumerCare@autobytel.com](mailto:consumercare@autobytel.com). Our mailing address is: 18872 MacArthur Boulevard, Irvine, CA 92612-1400 
+In each case, even if you decide not to receive offers or other product or service information, Autobytel and its member dealers may use a phone number or email address that you have provided to contact you regarding your purchase request for a vehicle. Additionally, phone numbers may be used to conduct customer surveys regarding individual experiences with Autobytel-accredited dealers. Phone numbers are made available only to Autobytel, its affiliates and member dealers, lenders or manufacturers who receive your purchase request. 
 
-For the Autobytel.com Usage Terms and Conditions please [click here](https://web.archive.org/content/home/help/index.cfm?id4;ABTL&action=terms). 
+The submission of a purchase or financing request itself is permission for us to submit your Purchase Request Information or Finance Information (as applicable) to the third parties necessary to fulfill your request. 
 
-Effective Date: July 23, 2003 
+**5\. Security**
+
+Autobytel understands the importance of security for our consumers. We use SSL (Secure Socket Layer) encryption technology to protect personal data such as credit card information and finance or insurance application information during transmission, and maintain other commercially reasonable precautions to protect information that we store or retain. 
+
+**6\. Corrections or Changes to Your Personal Information**
+
+You may also make corrections and updates to your personal information by contacting consumercare@autobytel.com, or by accessing your settings in the "My Garage" personalized portion of our Web site by clicking on Log In on our Home Page. If you are already a member of "My Garage", you will be offered "My Settings" where you can make any adjustments you wish in your personally identifiable information, and email settings. If you are not already a member of "My Garage", you will be invited to become a member and create your personal information and email settings. 
+
+**7\. Cookies and Web Beacons**
+
+Autobytel offers consumers the convenience of online personalization by using cookies. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser. When this information is stored on your hard drive, our system is able to recognize your browser and in turn customize web page content for you. (See Personalization) 
+
+Cookies cannot be used to retrieve data from your hard drive, obtain your email address or obtain sensitive information about you. When a cookie is set, your browser will check it for length, an expiration date, and where it originated. Only Autobytel can access the cookies that we set. 
+
+Autobytel allows our ad service company to set cookies as well. These cookies can "recognize" a consumer by a Unique identifier assigned at the time of the first visit, and may be used to measure site and page visits and browser version number, and browsing activity. This information may be used to better serve and provide advertising content on future visits and web pages viewed during your browser sessions on our websites. These cookies cannot obtain private information like name, e-mail or other personal information, and are not shared with Autobytel. 
+
+We use a third party tracking service who sets cookies on our site to track visits, page views and click stream behavior. The third party tracking service reports this data to us in aggregate so we can better understand our users and to improve our site. This information is not tied to any individual user. 
+
+If you prefer not to accept cookies, most browsers will explain how to disable cookies under the help portion of the toolbar or notify you when you receive a new cookie. However, if you choose to disallow cookies on your hard drive, our Web site will not be able to provide personalization services. 
+
+We also place "web beacons" on the website on behalf of third parties. A web beacon is a small, transparent image placed at various sections of our site to monitor user traffic. The web beacon records the number of click-throughs to the page where it resides and collects users' IP addresses, time the page was viewed, type of browser used, and existence of cookies from a previous visit. However, the data collected by our web beacons are used only in aggregated form, with no associated identifying information, and Autobytel does not tie IP addresses to individual users or disclose the IP addresses to any non-affiliated third party. Information collected by web beacons is used only by Autobytel, its affiliates and authorized vendors. If you do not wish such information to be collected, you can choose to deactivate cookies on your browser. 
+
+**8\. Changes or Revisions to This Policy**
+
+If we are going to use your personally identifying information in a manner different from that stated in our privacy policy at the time of collection, we will notify you via email. You will have a choice as to whether or not to allow us to use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our website notifying users of the change. In some cases we will also e-mail users who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
+
+In the event Autobytel or its assets are acquired, such as through merger, acquisition or similar event, resulting in a change in ultimate control over customers' personal information (other than through an internal corporate reorganization or similar transaction), customers will be notified promptly of such change. We will make reasonable efforts to ensure that the acquirer of our customers' personal information respects the provisions of this privacy policy, although this may not be possible in certain legal settings (such as bankruptcy). 
+
+**9\. Questions or Concerns?**
+
+If you have any questions or concerns regarding privacy, security, opting-out of e-mail offers or understanding how your personal information is being used, please contact our Consumer Privacy Advocate at 888-422-8999, Ext. 8903 or e-mail at ABTPrivacy@autobytel.com. If you do not receive acknowledgment of your inquiry in a prompt fashion or within 10 days, or your inquiry has not been satisfactorily addressed, you may [contact TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns. 
+
+For any other issues, please contact our customer service department at consumercare@autobytel.com. Our mailing address is: 18872 MacArthur Boulevard, Irvine, CA 92612-1400. 
+
+For the Autobytel Usage Terms and Conditions please [click here](https://web.archive.org/content/home/help/index.cfm/action/terms). 
