@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the labsafety.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204235330id_/http%3A//www.labsafety.com/aboutus/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labsafety.com privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615004046id_/http%3A//www.labsafety.com/aboutus/privacy.htm) for the most accurate reproduction.*
 
 # Lab Safety Supply - Privacy Statement
 
@@ -27,7 +27,7 @@ _Navigation_
 Knowing how customers use our site...tracking their movement through the site...helps us improve site design and usefulness. As a result, labsafety.com does use IP addresses to analyze trends, administer the site, track user's movement and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
 
 _Sharing_  
-You can also be sure that Lab Safety Supply does not sell customer information to other direct marketers. 
+We occasionally make our mailing list available to companies whose products or services might interest you. If you prefer to have your name withheld, please call us at 1-800-356-0783.
 
 _Removing Personal Information_  
 You can cancel any of this information at any time. If you wish to be removed from our catalog mailing list or e-mail list, just call 1-800-356-0783 or e-mail us at [custsvc@labsafety.com](mailto:custsvc@labsafety.com). If you want to opt-out of an online newsletter, follow the simple instructions included at the end of each issue. Because mailing lists are prepared ahead of each promotion, your name may already be scheduled to receive one or two more promotions.
