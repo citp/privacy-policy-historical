@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the hardrock.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206234844id_/http%3A//www.hardrock.com/corporate/policy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardrock.com privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615084934id_/http%3A//www.hardrock.com/corporate/policy/privacy.asp) for the most accurate reproduction.*
 
 # Hard Rock Information
+
+  
+|  [Privacy Policy](https://web.archive.org/web/20050615084934id_/http%3A//www.hardrock.com/corporate/policy/privacy.asp)   
+[Terms of Use](https://web.archive.org/web/20050615084934id_/http%3A//www.hardrock.com/corporate/policy/terms.asp)   
+  
+| 
 
 **Information Collection and Use**   
 Hard Rock Cafe is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Hard Rock Cafe collects information from our users at several different points on our website. 
@@ -52,9 +58,28 @@ If a user's personally identifiable information changes (such as your zip code),
 Hard Rock Cafe takes special care to protect the safety and privacy of children. Our web sites are general audience sites. We do not permit anyone under the age of 13 to register with us. We also do not send email correspondence to anyone who tells us that they are under the age of 13. Children under the age of 13 should always ask their parents or guardians for permission before providing any personal information to anyone online. We urge parents and guardians to participate in their children's online activities and use parental control or other web filtering technology to supervise children's access to the web. 
 
 **Choice/Opt-out**   
-Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address off of our lists.   
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at support@hardrock.com   
+Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address off of our lists.  
+Users who no longer wish to receive our e-mail newsletter or promotional materials from our partners may opt-out simply by clicking the unsubscribe link at the bottom of the e-mail. You may also unsubscribe at any time by e-mailing [customer_care@hardrock.com](mailto:customer_care@hardrock.com) . Type UNSUBSCRIBE in the subject line. We will update your records as soon as possible, but no later than 30 days from your request.  
 Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. 
 
 **Notification of Changes**   
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we would notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+
+**YOUR CALIFORNIA PRIVACY RIGHTS / NOTICE FOR CALIFORNIA RESIDENTS**  
+California residents who have provided personal information to Hard Rock may obtain information regarding Hard Rock's disclosures, if any, of personal information to 3rd parties for 3rd party direct marketing purposes. Requests must be submitted to the following address: Hard Rock Cafe International (USA), Inc., 6100 Old Park Lane, Orlando, FL 32835. Attn.: California Privacy. Within 30 days of receiving such a request, we will provide a California Privacy Disclosure, which will include a list of certain categories of personal information disclosed during the preceding calendar year to 3rd parties for their direct marketing purposes, along with the names and addresses of the 3rd parties. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified in this paragraph.   
+
+
+|   
+|  [](https://web.archive.org/corporate/)  
+  
+[](https://web.archive.org/corporate/mission/)  
+[](https://web.archive.org/corporate/management/)  
+[](https://web.archive.org/corporate/history/)  
+[](https://web.archive.org/corporate/press/default.aspx)  
+[](https://web.archive.org/corporate/careers/)  
+[](https://web.archive.org/corporate/faq/)  
+[](https://web.archive.org/corporate/community/)  
+[](https://web.archive.org/corporate/logos/)  
+[](https://web.archive.org/corporate/contactus/)  
+[](https://web.archive.org/rock202/)  
+
