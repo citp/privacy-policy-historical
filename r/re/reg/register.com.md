@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the register.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204033226id_/http%3A//www.register.com/privacy-notice/index.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the register.com privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615074007id_/http%3A//www.register.com/privacy-notice/index.cgi) for the most accurate reproduction.*
 
 # Register.com, Inc. - REGISTER.COM PRIVACY NOTICE
 
 _last updated July 12, 2004_  
-_for previous Privacy Notice[click here](http://www.register.com//privacy-notice/archive_2004-10-10.cgi?1|4023108056|CO1)_
+_for previous Privacy Notice[click here](http://www.register.com//privacy-notice/archive_2004-10-10.cgi?1|4142764720|CO1)_
 
   
 REGISTER.COM PRIVACY NOTICE
 
-Register.com knows that you care how information about you is used and shared, and we appreciate your expectation that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting the Register.com Web site (the "Site") or by otherwise interacting with Register.com, you agree to accept the practices described in this Privacy Notice. This Privacy Notice is subject to Register.com's [Services Agreement](http://www.register.com//service-agreement.cgi?1|4023108056|CO1), including, without limitation, Sections 8(d) and 17. For questions on the Privacy Notice please [click here](http://support.register.com/cgi-bin/register.cfg/php/enduser/std_adp.php?p_faqid=563). 
+Register.com knows that you care how information about you is used and shared, and we appreciate your expectation that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting the Register.com Web site (the "Site") or by otherwise interacting with Register.com, you agree to accept the practices described in this Privacy Notice. This Privacy Notice is subject to Register.com's [Services Agreement](http://www.register.com//service-agreement.cgi?1|4142764720|CO1), including, without limitation, Sections 8(d) and 17. For questions on the Privacy Notice please [click here](http://support.register.com/cgi-bin/register.cfg/php/enduser/std_adp.php?p_faqid=563). 
 
 **What Information Does Register.com Collect?**  
 We receive and store any information you enter on our Site or give us in any other way, such as via telephone, electronic mail or online form. For example, this information may be collected when you register a domain name or when you contact us for customer support. Here are the types of information we gather from visitors to Register.com: 
@@ -51,7 +51,7 @@ From time to time, Register.com may use your personal information to contact you
 We work to protect the security of your financial information during transmission by using Secure Sockets Layer ("SSL") software, which encrypts the information you input on the Site. Additionally, we reveal only the last five digits of your credit card numbers when confirming an order. Of course, we must transmit the entire credit card number to the appropriate credit card company during order processing. You can further help to ensure your security by taking a few simple precautions. For instance, it is important to protect against unauthorized access to your Register.com username and password and to your computer. Be sure to sign off when finished using a shared computer. We will take reasonable care to protect your personal information once it is transferred to us, but it is ultimately your responsibility to prevent the disclosure of your personal information outside of Register.com, as well as any disclosure on the Register.com Site which is due to your error. 
 
 **What Information Can I Access?**  
-Register.com gives you the ability to access your contact information for the limited purpose of viewing and, in certain cases, updating that information. To view or change this information, Register.com customers may [click here](http://www.register.com//my-account/index.cgi?1|4023108056|CO1) or login to [Manage My Account](http://www.register.com//my-account/index.cgi?1|4023108056|CO1). Past customers may view this information by emailing their request to Customer Service or by calling (800) 899-9724. Please note, however, that no financial information will be provided over the phone, and in no event will such information be provided without verification. 
+Register.com gives you the ability to access your contact information for the limited purpose of viewing and, in certain cases, updating that information. To view or change this information, Register.com customers may [click here](http://www.register.com//my-account/index.cgi?1|4142764720|CO1) or login to [Manage My Account](http://www.register.com//my-account/index.cgi?1|4142764720|CO1). Past customers may view this information by emailing their request to Customer Service or by calling (800) 899-9724. Please note, however, that no financial information will be provided over the phone, and in no event will such information be provided without verification. 
 
 When you update your information, we may keep a copy of the prior version for our records. 
 
