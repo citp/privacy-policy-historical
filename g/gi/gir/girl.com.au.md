@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the girl.com.au privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210153621id_/http%3A//www.girl.com.au/privacypol.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girl.com.au privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615140150id_/http%3A//www.girl.com.au/privacypol.htm) for the most accurate reproduction.*
 
 # Privacy Policy/Terms of Use
-
-[](http://adserver.trellian.com/adclick.php?bannerid=94&zoneid=3&source=%2Fcontactus%2Fprivacypol&dest=http%3A%2F%2Fmembers.commissionmonster.com%2Fz%2F67027%2F65)
-
-|  |   
-
 
 **Copyright**
 
@@ -25,15 +20,21 @@ Girl.com.au is committed to protecting your privacy. Information collected about
 
 **Contests**
 
-When you enter a contest or other promotional feature, we may request both your email and postal addresses. We will notify winners by email where possible and shall post prizes out within a fortnight of notifying winners. If there are unforseen issues with collection of prizes from sponsors, then Girl.com.au will forward prizes to winners as soon as possible. Please note that sponsors do not post prizes overseas therefore all Girl.com.au competitions are restricted to Australian residents only.
+When you enter a contest or other promotional feature, we may request both your email and postal addresses. Winners are published in our bi-weekly newsletter and prizes shall be posted out within a 30 of notifying winners. If there are unforseen issues with collection of prizes from sponsors, then Girl.com.au will forward prizes to winners as soon as possible. Competitions are open to anyone with the exception of movie tickets and dvd (zone defined for US - otherwise AU only) and some local promotions may be limited to states within Australia.
 
-Winners drawn are at the discretion of Girl.com.au. The decision is final and not negotiable. Competitions are not open to Girl.com.au staff, relatives or friends of staff.
+Winners drawn are at the discretion of Girl.com.au. The decision is final and not negotiable. Competitions are not open to Girl.com.au staff or relatives of staff.
 
-To read more detailed Contests Terms & Conditions [CLICK HERE](https://web.archive.org/web/20041210153621id_/http%3A//www.girl.com.au/compstermsconditions.htm)
+To read more detailed Contests Terms & Conditions [CLICK HERE](https://web.archive.org/web/20050615140150id_/http%3A//www.girl.com.au/compstermsconditions.htm)
 
 **What happens to information & content collected by Girl.com.au?**
 
-Girl.com.au does not trade, sell, or rent your personal information to third party vendors, whether it be sales, traffic patterns, and related site information. Any information disclosed from statistics is general and in no way discloses personal identification details. By submitting content to Girl.com.au, you grant us the non-exclusive right to reproduce, modify and distribute it as we see fit in any medium and for any purpose in any form, media, or technology now known or later developed. You also permit any other visitor or user to access, display, and print such content for personal use. You vouch that any materials you submit does not plagiarise, violate or infringe upon the right of any third party, including copyright, trademark or proprietary rights. If non-original content is posted by you or included in your content, you must obtain permission from the content owner and attribute it.
+Girl.com.au does not trade, sell, or rent your personal information to third party vendors, whether it be sales, traffic patterns, and related site information. Any information disclosed from statistics is general and in no way discloses personal identification details. 
+
+Occassionally the information collected could be used to notify you of important functionality changes to the Girl.com.au website, email system and/or offer you genuine opportunities to enter fabulous competitions and the option to read important articles that concern all girls.
+
+Ecommerce, shopping and telephone related services ordered via this site and associated 3rd party providers, information collected may be used for marketing purposes of similar, related and other products and services.
+
+By submitting content to Girl.com.au, you grant us the non-exclusive right to reproduce, modify and distribute it as we see fit in any medium and for any purpose in any form, media, or technology now known or later developed. You also permit any other visitor or user to access, display, and print such content for personal use. You vouch that any materials you submit does not plagiarise, violate or infringe upon the right of any third party, including copyright, trademark or proprietary rights. If non-original content is posted by you or included in your content, you must obtain permission from the content owner and attribute it.
 
 **Rules for Submissions and Messages**
 
