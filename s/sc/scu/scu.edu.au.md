@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scu.edu.au privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209072034id_/http%3A//www.scu.edu.au/wwwadmin/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scu.edu.au privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615113008id_/http%3A//www.scu.edu.au/wwwadmin/privacy/index.html) for the most accurate reproduction.*
 
 # SCU - Privacy Statement
 
