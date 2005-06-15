@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the maplesoft.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204070900id_/http%3A//www.maplesoft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maplesoft.com privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615232502id_/http%3A//www.maplesoft.com/privacy) for the most accurate reproduction.*
 
-# Our Position on Privacy and Data Protection :: Maplesoft
+# Our Position on Privacy and Data Protection - Maplesoft
 
 Our Position on Privacy and Data Protection
 
@@ -19,19 +19,35 @@ The Maplesoft web sites use "cookies" to record basic information entered on som
 The default setting on most web browsers is to accept cookies. You can change this setting to refuse any cookie, or to be prompted when a cookie is being sent. Please note, however, that some areas of the Maplesoft web site will not function properly if you refuse cookies.
 
 **Privacy Policy**  
-Maplesoft recognizes that appropriate protection and management of personal data is critical. We have adopted the following privacy principles for the protection of Web site visitor’s and customer’s personal data (personal data is defined as any information relating to an identified or identifiable individual).
+Maplesoft recognizes that appropriate protection and management of personal data is critical. We have adopted the following privacy principles for the protection of Web site visitor’s and customer’s personal data (personal data is defined as any information relating to an identified or identifiable individual). 
 
-1\. Maplesoft will provide Web site visitors and customers with easily understood information about its policies regarding the collection, use and disclosure of personal data.
+  1. Maplesoft will provide Web site visitors and customers with easily understood information about its policies regarding the collection, use and disclosure of personal data. 
+  2. Maplesoft will limit the collection and use of personal data to that which is needed for valid business purposes to comply with local law, and any such data will be obtained only by lawful and fair means. 
+  3. Maplesoft will strive to maintain the accuracy of personal data held, including establishing mechanisms allowing Web site visitors and customers to have the opportunity to review and correct their personal data. 
+  4. Maplesoft will not release personal data to third parties, unless:  
 
-2\. Maplesoft will limit the collection and use of personal data to that which is needed for valid business purposes to comply with local law, and any such data will be obtained only by lawful and fair means.
+    * The customer requests it. 
+    * The data is provided to help complete a customer-initiated transaction. 
+    * The disclosure is required by law. 
+    * The customer has been informed about the possibility of such disclosure and has agreed to it. 
+    * The customer has purchased a MapleConnect third party product. For these purchases, customer contact information will be provided to the third party product developer in order for them to fulfill their support and service obligations to the user. 
 
-3\. Maplesoft will strive to maintain the accuracy of personal data held, including establishing mechanisms allowing Web site visitors and customers to have the opportunity to review and correct their personal data.
 
-4\. Maplesoft will not release personal data to third parties, unless 
 
-**  
-Safeguarding Security**  
-Maplesoft will take appropriate steps to ensure that personal data is protected from unauthorized access and disclosure, including limited access to such data only to those employees with a business need to know. Maplesoft will apply these principles regardless of the specific technologies employed for data collection and use.
+**Commercial E-mail Communications**  
+Maplesoft operates multiple commercial e-mail lists that interested parties can opt-in or opt-out of at any time from the [e-mail management area](https://web.archive.org/subscribers/subscription_list.aspx) of Maplesoft.com. If you are a member of Maplesoft.com, you can also manage your preferences from within the [Member Center](https://web.archive.org/Members/member_center_main.aspx). The personal information required to subscribe to each list varies. 
+
+From time to time, Maplesoft may create new commercial mailing lists and may pre-populate these lists from existing user information contained within our databases. You may be added to an intial list of subscribers for a new list unless you have added your name to the _global unsubscription_ list. 
+
+If you would prefer to never receive commercial e-mails from Maplesoft, you have the option to remove yourself from all present and future e-mail lists by using the global unsubscription process, which can be accessed by [clicking here](https://web.archive.org/subscribers/global_unsubscribe.aspx). You may still subscribe to any Maplesoft e-mail offering after globally opting-out, and by doing so you will be removed from the global unsubscription list. 
+
+E-mail messages verifying opt-in and opt-out requests are automatically sent to the recipient after each transaction. 
+
+**Non-Commercial E-mail Communications**  
+Maplesoft periodically sends non-commercial information and technical updates to customers and that these communications cannot be opted-out of. 
+
+**Safeguarding Security**  
+Maplesoft will take appropriate steps to ensure that personal data is protected from unauthorized access and disclosure, including limited access to such data only to those employees with a business need to know. Maplesoft will apply these principles regardless of the specific technologies employed for data collection and use. 
 
 **Contact Information**  
 If you have questions concerning this privacy policy please contact [privacy@maplesoft.com.](mailto:privacy@maplesoft.com)
