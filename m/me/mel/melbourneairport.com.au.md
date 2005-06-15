@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the melbourneairport.com.au privacy policy that was archived on 2003-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031007231620id_/http%3A//www.melbourneairport.com.au/disclaimer.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melbourneairport.com.au privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615115341id_/http%3A//www.melbourneairport.com.au/disclaimer.asp) for the most accurate reproduction.*
 
 # Melbourne Airport
 
