@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 2dayfm.com.au privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204132838id_/http%3A//www.2dayfm.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2dayfm.com.au privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615084152id_/http%3A//www.2dayfm.com.au/privacy.php) for the most accurate reproduction.*
 
-# 2DayFM's The Judith Lucy Show
+# "The Kyle and Jackie O Show" on 2DayFM
 
   
 This Privacy Policy applies to the collection of Personal Information by or on behalf of Austereo Pty Ltd, Consolidated Broadcasting System (WA) Pty Ltd, Perth FM Radio Pty Ltd and all other members of the Austereo Pty Ltd group of companies (“Austereo”). 
