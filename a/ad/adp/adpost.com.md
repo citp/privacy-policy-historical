@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adpost.com privacy policy that was archived on 2004-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040202131049id_/http%3A//www.adpost.com/us/%3Fdb%3D%26website%3D%26language%3D%26session_key%3D%26print_privacy_page%3Don) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adpost.com privacy policy that was archived on 2005-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050616010059id_/http%3A//www.adpost.com/us/%3Fdb%3D%26website%3D%26language%3D%26session_key%3D%26print_privacy_page%3Don) for the most accurate reproduction.*
 
-# USA Classifieds @ Adpost.com Classifieds > USA > USA Classifieds,free
+# Classifieds @ Adpost.com Classifieds > USA > Classifieds,free
 
-|  |  Find |  |  in |  |   
+|  Find |  |  in |  |   
 ---|---|---|---|---  
   
 ## Adpost.com Classifieds Privacy Policy Statement
@@ -139,9 +139,3 @@ Please also view our advertising agency's privacy statement [here](http://www.ad
 Back to Top
 
 * * *
-
-[Terms of Use](http://www.adpost.com/us/?db=&website=&language=&session_key=&print_terms_page=on) | [Privacy Statement](http://www.adpost.com/us/?db=&website=&language=&session_key=&print_privacy_page=on) | [Testimonials](http://www.adpost.com/us/testimonials/?db=&website=&language=&session_key=)  
- _USA Classifieds_  
-Content copyright © 2003 [Adpost.com USA Classifieds](http://www.adpost.com/)  
-All rights reserved. Please [click here](http://www.adpost.com/us/support/?cat=&db=;website=;language=;s=) to contact the Support Team.  
-Adpost.com, 230 Park Avenue, Suite 864, New York, NY 10169, USA. Ref# 6107061. Fax: +1.2122952153
