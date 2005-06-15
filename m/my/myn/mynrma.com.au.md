@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mynrma.com.au privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205002034id_/http%3A//www.mynrma.com.au/member_centre_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynrma.com.au privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615195724id_/http%3A//www.mynrma.com.au/member_centre_privacy.asp) for the most accurate reproduction.*
 
-# MyNRMA - Privacy
+# MyNRMA - Privacy - About Us - MyNRMA
 
 This statement is effective from 1 January 2004
 
-  * [Click here for Q & A's relating to use of our website.](https://web.archive.org/web/20041205002034id_/http%3A//www.mynrma.com.au/member_centre_privacy.asp#qa)
+  * [Click here for Q & A's relating to use of our website.](https://web.archive.org/web/20050615195724id_/http%3A//www.mynrma.com.au/member_centre_privacy.asp#qa)
 
 
 
@@ -80,7 +80,7 @@ To better protect your privacy, we impose strict requirements of security and co
 
 We will take reasonable steps to make sure that the personal information we collect, use or disclose is accurate, complete and up to date. If your personal details change, such as your address or phone number, please contact us on 132 132 to update your details so we can still provide you with our services.
 
-[Following a request (PDF 419KB/1 page)](https://web.archive.org/web/20041205002034id_/http%3A//www.mynrma.com.au/files/1/personal_information_request.pdf), we will provide you with a copy of any personal information which we hold about you in accordance with our obligations under the Privacy Act. We may charge a fee for retrieving this information, in which case we will inform you of the fee in advance of providing the information.
+[Following a request (PDF 419KB/1 page)](https://web.archive.org/web/20050615195724id_/http%3A//www.mynrma.com.au/files/1/personal_information_request.pdf), we will provide you with a copy of any personal information which we hold about you in accordance with our obligations under the Privacy Act. We may charge a fee for retrieving this information, in which case we will inform you of the fee in advance of providing the information.
 
 We undertake to promptly acknowledge and investigate any complaint about the way we manage personal information.
 
