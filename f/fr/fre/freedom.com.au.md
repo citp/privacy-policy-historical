@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedom.com.au privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208072555id_/http%3A//freedom.com.au/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedom.com.au privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615134538id_/http%3A//www.freedom.com.au/privacy/privacy.asp) for the most accurate reproduction.*
 
 # Privacy < Freedom Furniture
 
@@ -24,15 +24,15 @@ Freedom collects limited personal information such as title, name, contact detai
 
 Other information we may collect
 
-For statistical purposes we collect a= nonymous information on web site activity (such as top pages viewed, the number of pages viewed, the number of sessions, most popular session times). We use this data to evaluate our web site performance and to improve the conte= nt we display to you. 
+For statistical purposes we collect anonymous information on web site activity (such as top pages viewed, the number of pages viewed, the number of sessions, most popular session times). We use this data to evaluate our web site performance and to improve the content we display to you. 
 
 To evaluate the effectiveness of our online advertising, we may use third parties to collect statistical data. No personal information is collected on these occasions. 
 
 Use of cookies
 
-Freedom uses tracking technologies su= ch as cookies to recognise your browser each time it visits our site, and to track which pages you visit whilst on our site. We use this inform= ation to optimize our site and create a better online experience for you. 
+Freedom uses tracking technologies such as cookies to recognise your browser each time it visits our site, and to track which pages you visit whilst on our site. We use this information to optimize our site and create a better online experience for you. 
 
-Cookies are pieces of information tha= t a web site transfers to a computer's hard disk for record keeping purposes. Most web browsers are set to accept tracking technologies such as cookies. These tracking technologies do not themselves personally identify users, although they do identify a user's browser. However, if you do not wish to receive any cookies, you may set your browser to refuse them. 
+Cookies are pieces of information that a web site transfers to a computer's hard disk for record keeping purposes. Most web browsers are set to accept tracking technologies such as cookies. These tracking technologies do not themselves personally identify users, although they do identify a user's browser. However, if you do not wish to receive any cookies, you may set your browser to refuse them. 
 
 How we use your information
 
@@ -71,7 +71,7 @@ Should you wish to access your personal information, please contact our Privacy 
 
 Opt-out
 
-If, for any reason, you would like to be removed from our mailing lists, please complete the [opt-out form](https://web.archive.org/web/20041208072555id_/http%3A//freedom.com.au/privacy/opt_out_form.asp) here. The opt-out form is also available from any of our stores or from the Privacy Officer.
+If, for any reason, you would like to be removed from our mailing lists, please complete the [opt-out form](https://web.archive.org/web/20050615134538id_/http%3A//www.freedom.com.au/privacy/opt_out_form.asp) here. The opt-out form is also available from any of our stores or from the Privacy Officer.
 
 Security
 
