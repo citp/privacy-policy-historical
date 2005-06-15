@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the education.vic.gov.au privacy policy that was archived on 2004-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041025193404id_/http%3A//www.education.vic.gov.au/CH/Generic/AllUsers/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education.vic.gov.au privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615120527id_/http%3A//www.education.vic.gov.au/CH/Generic/AllUsers/privacy.asp) for the most accurate reproduction.*
 
 # Victorian Education Channel: All Users:- Privacy Statement
 
