@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the sparknotes.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204111259id_/http%3A//www.sparknotes.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparknotes.com privacy policy that was archived on 2005-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050616005003id_/http%3A//www.sparknotes.com/legal/privacy.html) for the most accurate reproduction.*
 
-# SparkNotes.com Privacy Policy
-
-Privacy Policy
+# SparkNotes: Privacy and Security Policies
 
 This privacy policy covers what information we collect from you when you visit or register for the SparkNotes.com site, how we use it, and under what circumstances we disclose it. By using the SparkNotes.com site, you agree with the terms and conditions of this privacy policy and Terms of Use. 
-
-1\. The Information We Collect
 
 When you use our site, we receive and collect certain information. The information that we receive and collect depends on what you do when you visit SparkNotes.com. 
 
@@ -26,9 +22,6 @@ In the following instances, however, we do need you to actively submit your User
 
 e. _Creating a SparkNotes.com Account or Completing an Order._ You can register with SparkNotes.com to view the literature we have made available online, to post to or read message boards, or to order SparkNotes products or services. To use all features of the SparkNotes.com website, you will need to create a password-protected account with us. In doing so, we require that you provide us with all of the following information for your User Profile: your name, email address, billing address, and credit card information. When setting up the account, we ask you to create a password. When you want to make a purchase or change your stored User Profile, we approve your access by verifying your email address with your password.
 
-2\. How We Use and Share Your User Profile  
-
-
 Occasionally, SparkNotes.com uses your User Profile to market products and services. We sometimes use User Profiles to collect aggregate data about the demographics of our users. You can prevent us from using your information for this purpose at any time by setting your browser to reject cookies.Occasionally, SparkNotes.com uses your User Profile to market products and services. We sometimes use User Profiles to collect aggregate data about the demographics of our users. You can prevent us from using your information for this purpose at any time by setting your browser to reject cookies.
 
 SparkNotes.com shares your User Profile that we collect as follows: 
@@ -43,9 +36,6 @@ Trustworthy Third Parties. From time to time, on limited bases, we share with tr
 
 Law Enforcement Investigations. SparkNotes.com may release your User Profile when we believe, in our good judgment, that such release is reasonably necessary to comply with law, enforce or apply the terms of any of our policies or user agreements, or to protect the rights, property, or safety of SparkNotes.com, our users, or others. 
 
-3\. Communications from SparkNotes.com  
-
-
 As a customer, you may receive the following communications from the SparkNotes.com: 
 
 Communications related to transaction and account maintenance activities. These communications include without limitation: order confirmations; order update notices; order problem notices; and notices regarding material changes to site policies and account management procedures. 
@@ -54,56 +44,29 @@ Communications containing information about SparkNotes.com and its partners prod
 
 Newsletter Communications. You may sign up for free email newsletters from SparkNotes.com. To unsubscribe from a newsletter you can select the link at the bottom of any newsletter. 
 
-4\. Underage Users  
-
-
 Our products and services are marketed for purchase with the consent of adults or by adults. 
 
 From time to time, parents and guardians allow their children under the age of 18 to browse our site and to post to SparkNotes Message Boards. SparkNotes.com highly values these posts. To protect the privacy of any user of our site who is under the age of 13, we do not permit them to post any contact information. 
 
-5\. Linking to Third-Party Websites  
-
-
 When you click on links and banners on our site that take you to third-party web sites, you will be subject to the third parties' privacy policies. While we support the protection of privacy on the Internet, SparkNotes.com cannot be responsible for the actions of any third-party web sites. We encourage you to read the posted privacy statement of any and every site you visit, whether you are linking from our site or browsing on your own. 
-
-6\. Changes to Privacy Policy  
-
 
 This privacy policy was last changed on February 6, 2003. SparkNotes.com reserves the right to modify or amend this policy at any time by posting the revised privacy policy on our site. The changes will only affect the information we collect after the effective date of the change to our privacy policy unless we clearly express otherwise. 
 
-7\. Questions or Comments  
 If you have any questions regarding our privacy policy, please email us at [privacy@sparknotes.com](mailto:privacy@sparknotes.com). For all other inquiries, please use  this form. 
-
-Security Policy
-
-1\. Protecting your information  
-
 
 The User Profile you provide -- including your credit card information -- to establish an account with us and to make purchases from us is secured using Secure Sockets Layer (SSL) encryption technology. We use this SSL technology to prevent such information from being intercepted and read as it is transmitted over the Internet. The encrypted data goes to a secure site where your information is stored on restricted-access computers located at restricted-access sites. 
 
-2\. Password security  
-
-
 To further secure your User Profile, we require you to create a customer password when you establish an account with us. We encourage you to use a password that is not easily guessed (i.e., don't use your name or street name). Keep your password secret; do not share it with anyone. The only way you can place an order with us online is by entering both your registered email address and password. 
 
-If you forget your password, you can go to [ www.sparknotes.com/membership/contact.html](http://www.sparknotes.com/membership/contact.html) and request a new password. If you want to change your password or other account information, you can also do so at [ www.sparknotes.com/membership/contact.html](http://www.sparknotes.com/membership/contact.html). 
+If you forget your password, you can go to [ www.sparknotes.com/contact/](http://www.sparknotes.com/contact/) and request a new password. If you want to change your password or other account information, you can also do so at [ www.sparknotes.com/contact/](http://www.sparknotes.com/contact/). 
 
-3\. Remember to sign out   
-
-
-To further prevent unauthorized access to your account, remember that, after you sign in, you should sign out once you have (i) completed your transaction, (i) completed managing your account, or (iii) decided to step away from your computer. Anyone who accesses your computer after you have signed in but before you have signed out can access your account. This is especially true if you have Express Checkout enabled on your account. 
-
-4\. Safe Shopping Guarantee   
-
+To further prevent unauthorized access to your account, remember that, after you log in, you should log out once you have (i) completed your transaction, (i) completed managing your account, or (iii) decided to step away from your computer. Anyone who accesses your computer after you have signed in but before you have logged out can access your account. This is especially true if you have Express Checkout enabled on your account. 
 
 Under federal law, a credit card issuer cannot make you liable for charges in excess of $50.00 that result from the unauthorized use of your credit card. There are similar federal laws that relate to debit cards. Exceptions do apply, and you will have to comply with the rules of your credit card or debit card issuer, so please contact your card issuer for further details. 
 
 If a credit card or debit card issuer assesses you a fee because of the unauthorized use of your credit card or debit card on our site, SparkNotes.com will reimburse you for such amount up to $50.00. Please contact our Customer Service for details. 
 
-5\. Changes to security  
+This security policy was last changed on July 24, 2003. SparkNotes.com reserves the right to modify or amend this policy at any time by posting the revised security policy on our site. The changes will only affect the information we collect after the effective date of the change to our security policy unless we clearly express otherwise.
 
-
-This security policy was last changed on July 24, 2003. SparkNotes.com reserves the right to modify or amend this policy at any time by posting the revised security policy on our site. The changes will only affect the information we collect after the effective date of the change to our security policy unless we clearly express otherwise. 
-
-[return to SparkNotes.com](https://web.archive.org/)     [read our Terms and Conditions](http://www.sparknotes.com/legal/terms.html)   
-
+Email us  
+[Read our Terms and Conditions](http://www.sparknotes.com/legal/)
