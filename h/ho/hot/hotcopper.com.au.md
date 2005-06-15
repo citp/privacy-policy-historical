@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotcopper.com.au privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209181836id_/http%3A//www.hotcopper.com.au/forum_privacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotcopper.com.au privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615163140id_/http%3A//www.hotcopper.com.au/forum_privacyPolicy.asp) for the most accurate reproduction.*
 
 # HotCopper
 
@@ -29,6 +29,7 @@ Hotcopper takes your privacy seriously. Please read the following to learn more 
     * We will email you information on behalf of our partners however we will never give them your private information. All communication about their products or offers will come from Hotcopper. 
     * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Hotcopper's terms of use, or as otherwise required by law. 
     * We transfer information about you if Hotcopper is acquired by or merged with another company. In this event, Hotcopper will notify you before information about you is transferred and becomes subject to a different privacy policy. 
+  * Hotcopper will be displaying your partial IP Address (first or last 6 numbers) and your user name, Hotcopper does not consider this partial information to be a disclosure of your private information however we knowledge this information in our Privacy Policy. Should you not wish this information to be displayed you should seek professional technical advice.
   * Hotcopper displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria. 
     * Hotcopper does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
 
