@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarter.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206175538id_/http%3A//www.smarter.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarter.com privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615085724id_/http%3A//www.smarter.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Thank you for your interest in Smarter
 
@@ -13,4 +13,6 @@ Mezi Media
 103 E. Lemon Ave., Suite 200  
 Monrovia, CA 91016
 
-E-Mail: [privacy@MeziMedia.com](mailto:privacy@mezimedia.com)
+E-Mail: 
+
+[privacy@MeziMedia.com](mailto:privacy@mezimedia.com)
