@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colonialfirststate.com.au privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209014400id_/http%3A//www.colonialfirststate.com.au/misc/privacy.asp%3FsPageHeading%3DPri) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colonialfirststate.com.au privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615195100id_/http%3A//www.colonialfirststate.com.au/misc/privacy.asp%3FsPageHeading%3DPri) for the most accurate reproduction.*
 
 # Colonial First State
 
