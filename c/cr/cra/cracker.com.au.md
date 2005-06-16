@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cracker.com.au privacy policy that was archived on 2004-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041217185637id_/http%3A//cracker.com.au/static/Help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cracker.com.au privacy policy that was archived on 2005-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050616053723id_/http%3A//cracker.com.au/static/Help/privacy.aspx) for the most accurate reproduction.*
 
-# Cracker Privacy Policy
+# Cracker Classifieds - Australia's free classified community
 
 This policy sets out how Cracker uses your personal information and explains:
 
@@ -17,11 +17,11 @@ This policy sets out how Cracker uses your personal information and explains:
 
 The Cracker business name and website is an online property of Fairfax Digital Limited, Fairfax Digital Australia & New Zealand Pty Limited.
 
-This policy applies to cracker.com.au and explains how Cracker uses personal information collected through the Cracker website. 
+This policy applies to cracker.com.au and explains how Cracker uses personal information collected through the 'Site'. 
 
-Cracker is bound by the National Privacy Principles contained in the Commonwealth Privacy Act, except for its activities carried on in the course of journalism. Cracker is exempt from complying with the Privacy Act in relation to its journalism activities. Cracker has publicly committed to complying with the Australian Press Council Privacy Standards for the use of personal information in the course of journalism. 
+Cracker is bound by the National Privacy Principles contained in the Commonwealth Privacy Act, except for its activities carried on in the course of journalism which are exempt. Cracker has publicly committed to complying with the Australian Press Council Privacy Standards for the use of personal information in the course of journalism. 
 
-Cracker may, from time to time, review and update this privacy policy statement to take account of new laws and technology and changes to Cracker's operations. All personal information held by Cracker will be governed by Cracker's most recent policy, posted on the Cracker website. 
+Cracker may, from time to time, review and update this privacy policy statement to take account of new laws and technology and changes to Cracker's operations. All personal information held by Cracker will be governed by Cracker's most recent policy, posted on the Site. 
 
 ### What kind of personal information Cracker collects and how it is collected
 
@@ -50,7 +50,7 @@ Cracker generally uses personal information to:
 
 
 
-In most cases where Cracker asks you to provide information about yourself, if you do not provide Cracker with that information, Cracker will not be able to provide you with the requested product or service. 
+If you do not provide Cracker with that information, Cracker will not be able to provide you with the requested product or service. 
 
 ### Disclosure
 
@@ -60,7 +60,6 @@ Cracker may also provide your information to:
 
   * third parties engaged by Cracker to perform functions on its behalf, such as processing credit card information, mailouts, debt collection, marketing, research and advertising;
   * third parties authorised by you to receive information held by Fairfax;
-  * NGA.NET Pty Ltd but only for the purpose of NGA.NET hosting job applications and resumes that you submit via the MyCareer site.
 
 
 
@@ -75,8 +74,6 @@ The Cracker Network contains features where you are invited to send personal inf
 Cracker may use and disclose Sensitive Information only for the purpose for which it was provided or a directly related secondary purpose or as allowed by law unless you have agreed otherwise. 
 
 ### Management and security of personal information
-
-Cracker has appointed a Privacy Officer to oversee Cracker's management of personal information in accordance with this policy and the Commonwealth Privacy Act. 
 
 Cracker protects the personal information Cracker holds from misuse, loss, unauthorised access, modification or disclosure by various means including firewalls, pass word access, secure servers and encryption of credit card transactions. 
 
