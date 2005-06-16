@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyeglasses.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207030810id_/http%3A//www.eyeglasses.com/information/about/privacy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeglasses.com privacy policy that was archived on 2005-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050617003858id_/http%3A//www.eyeglasses.com/information/about/privacy.page) for the most accurate reproduction.*
 
 # About eyeglasses.com
 
@@ -6,7 +6,7 @@ This confirms that Eyeglasses.com, Inc. is a licensee of the TRUSTe Privacy Prog
 
 TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of: 
 
-If you have questions or concerns regarding this statement, you should first contact the Eyeglasses.com, Inc.'s Privacy Protection Group by sending email to [privacy@eyeglasses.com](mailto:privacy@eyeglasses.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe [www.truste.org](http://www.truste.org/). TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact the Eyeglasses.com, Inc.'s Privacy Protection Group by sending email to [privacy@eyeglasses.com](mailto:privacy@eyeglasses.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe [www.truste.org](http://truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
 Eyeglasses.com, Inc., the owner of this website, has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.eyeglasses.com. 
 
@@ -26,6 +26,8 @@ A cookie lets the computers remember that you've registered, which allows us to 
 
 Eyeglasses.com, Inc. never uses cookies to retrieve information from your computer that was not originally sent in a cookie. Eyeglasses.com, Inc. does not use information transferred through cookies for any promotional or marketing purposes, nor is that information shared with any third parties whatsoever. Eyeglasses.com, Inc. does not use cookies to identify specific individuals, except in such cases as online shopping (see above). 
 
+From time to time third party providers will utilize cookies through our site. This is done in an effort to increase our service and experience. It is never done to gain any information for use beyond your use of our site. 
+
 Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the site, such as the shopping area, will not function properly if you do so. 
 
 **Links to other sites**   
@@ -36,13 +38,13 @@ We collect several kinds of information from customers and Associates. All of th
 **   
 All of the information we collect we use to enhance and improve a customer's shopping experience, to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. 
 
-We do not share any of your information with third parties without your permission. During the registration process, you may grant permission for us to share your contact and profile information with third parties or sponsors, generally companies which sell consumer products and services about which our users may be interested. The option for granting this permission is clearly marked on the registration pages. We may also provide you with opportunities at other times to receive information about additional products and services, but we will never share your information with third parties unless you grant us permission to do so. If you grant us permission to share your information with third parties, and then change your mind, you may revoke your permission by entering the "My Details" area and changing the appropriate areas. 
+We will not sell, transmit, hypothecate, give, lend, move, or share your email address to any other person or company. Never, never, never. 
 
 Because we want our users to feel completely comfortable using the Eyeglasses.com, Inc. services, we provide you with various opportunities to control how the information you provide to us is used. This site gives users the following options to cancel our service and not receive future communications from us, direct that we not share their information with third parties (in cases where users previously granted us permission to share such information - we do not share users' personal information with third parties without their permission), have us remove their information from our database, and change their profile information. 
 
 To request that we not share your personal information with third parties (in cases where you previously granted us permission to share such information - we do not share your personal information with third parties without your permission), or to have all your personal information removed from our database, you can send an e-mail to [never@eyeglasses.com](mailto:never@eyeglasses.com). The request will be honored as soon as we receive it, but does not affect any information which you provided to us and which we shared with third parties prior to our receipt of such request. 
 
-If you would like to change any of your profile information in our database, you can do so by entering the [your account](https://web.archive.org/mydetails/mydetails.page)[](https://web.archive.org/web/20041207030810id_/http%3A//www.eyeglasses.com/information/about/account.page) area in the website, and following the directions. This will automatically change the information contained in our database. 
+If you would like to change any of your profile information in our database, you can do so by entering the [your account](https://web.archive.org/mydetails/mydetails.page) area in the website, and following the directions. This will automatically change the information contained in our database. 
 
 We provide reports to a limited number of companies with which we do business. These reports include aggregate information about our users. The information in these reports will not identify you individually. The outside companies who receive these reports will not be able to contact you from the information contained in the reports. We will not provide individual information to these companies without your permission. 
 
@@ -60,6 +62,9 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 **When we contact customers**   
 In addition to the communications described below in "Choice/Opt-Out" we send email to customers to 1) confirm that we have received an order, and 2) confirm that we have shipped their order. If the item is backordered, we will send an email explaining the problem, provide an estimated ship date, and ask if the customer would like to cancel or change the order. 
+
+**Legal Disclaimer**   
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site. 
 
 **Choice opt/out**   
 Our site provides users the opportunity to opt-out of receiving communications from us and our partners. If you do not want further communications from us and are unsure whether your information has been removed from our database, you can access your personal account information in [your account](https://web.archive.org/mydetails/mydetails.page) and uncheck the notification boxes. We will be sure that you will not receive future communications or no longer receive our services. 
