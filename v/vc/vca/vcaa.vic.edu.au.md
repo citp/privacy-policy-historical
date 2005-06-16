@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vcaa.vic.edu.au privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204061001id_/http%3A//www.vcaa.vic.edu.au/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcaa.vic.edu.au privacy policy that was archived on 2005-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050616074850id_/http%3A//www.vcaa.vic.edu.au/vcaa/footer/privacy.html) for the most accurate reproduction.*
 
-# Website Privacy Statement | VCAA
+# Privacy Statement | VCAA
 
 The Victorian Curriculum and Assessment Authority (VCAA) is a statutory authority established under the _Victorian Curriculum and Assessment Authority Act 2000_. All personal information collected by the VCAA is handled in accordance with the _Information Privacy Act 2000_. 
 
@@ -8,7 +8,7 @@ If required, personal information is collected from you via this website only wi
 
 Generally, the VCAA collects information for online surveys and purchasing of VCAA services. When your personal information is collected online, details of the reason for collection and its usage are available on the relevant web page itself. 
 
-In addition, your visit to this website is logged by web analyst RedSheriff ([www.redsheriff.com](http://www.redsheriff.com/)) for statistical purposes only, by using a web beacon to record: 
+In addition, your visit to this website is logged by web analyst Nielsen//NetRatings ([www.netratings.com/](http://www.netratings.com/) ) for statistical purposes only, by using a web beacon to record: 
 
   * user server addresses and domains 
   * the times and dates the site was visited 
@@ -27,11 +27,24 @@ This website can link you to other websites. You will need to access these other
 
 You have the right to request access to information held about you by the VCAA and its correction if inaccurate. In some circumstances access will need to be sought under the _Freedom of Information Act 1982_. 
 
-If you have concerns about privacy issues in relation to this website, please contact the VCAA Information Services on (03) 9651 4328. Correspondence concerning access to your personal information should be addressed to the Manager, Corporate Governance, VCAA, 41 St Andrews Place, East Melbourne , Victoria 3002 or via email to: [privacy.vcaa@edumail.vic.gov.au ](mailto:privacy.vcaa@edumail.vic.gov.au). 
+If you have concerns about privacy issues in relation to this website, please contact: 
 
-## Related Information
+**VCAA Information Services**   
+**Telephone:** (03) 9651 4328. 
 
-  * [Privacy Policy](https://web.archive.org/web/20041204061001id_/http%3A//www.vcaa.vic.edu.au/aboutus/policies/privacypolicy.html)
-  * [Privacy Notice for Students ](https://web.archive.org/web/20041204061001id_/http%3A//www.vcaa.vic.edu.au/aboutus/policies/privacystudent.html)
+Correspondence concerning access to your personal information should be addressed to: 
+
+**Manager, Corporate Governance**   
+Victorian Curriculum and Assessment Authority  
+41 St Andrews Place  
+East Melbourne  
+Victoria 3002 
+
+**Email:** privacy.vcaa@edumail.vic.gov.au. 
+
+###  Related Information
+
+  * [Privacy Policy](https://web.archive.org/aboutus/policies/privacypolicy.html)
+  * [Privacy Notice for Students](https://web.archive.org/aboutus/policies/privacystudent.html)
 
 
