@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelclub.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205100139id_/http%3A//www.hotelclub.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelclub.com privacy policy that was archived on 2005-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050617012605id_/http%3A//www.hotelclub.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,4 +38,4 @@ This policy may be revised from time to time, as new features are added to the s
   
 ---  
 HotelClub is a trademark of Flairview Travel Pty Ltd  
-© 2000-2004 HotelClub. **[Discount Hotels](http://www.hotelclub.net/hotel.reservations/)**.
+© 2000-2005 HotelClub. **[Discount Hotels](http://www.hotelclub.net/hotel.reservations/)**.
