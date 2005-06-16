@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ljhooker.com.au privacy policy that was archived on 2004-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041208162903id_/http%3A//www.ljhooker.com.au/content/content_one.php%3Fsect_id%3D7%26cat_id%3D7) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ljhooker.com.au privacy policy that was archived on 2005-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050616233913id_/http%3A//www.ljhooker.com.au/content/content_one.php%3Fsect_id%3D7%26cat_id%3D7) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Real Estate - Australia - Residential, Commercial Property - L.J. Hooker</title>
@@ -31,7 +31,24 @@
 </head>
 
 <body stats="1" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" bgcolor="#FFFFFF" onload="">
-
+<script language="JavaScript">
+<!--
+function launchCourse() {
+	var w=400;
+	var h=462;
+	var sw=screen.width;
+	if (navigator.appName == "Microsoft Internet Explorer") {
+  		var sh=screen.availheight;
+	} else {
+  		var sh=screen.height;
+	}
+	var xpos=(sw-w)/2;
+	var ypos=(sh-h)/2;
+	var props='left='+xpos+',screenX='+xpos+',top='+ypos+',screenY='+ypos+',width='+w+',innerWidth='+w+',height='+h+',innerHeight='+h+',toolbar=no,directories=no,menubar=no,status=no,resizable=no,location=no,scrollbars=0';
+	window.open('http://www.ljhooker.com/testdrive/lj_hooker_test_drive.htm','ljHookerTestDrive',props).focus();
+}
+//-->
+</script>
 <a name="top">
 <table width="760" border="0" cellspacing="0" cellpadding="0" align="center">
   <tbody><tr height="25"> 
@@ -54,35 +71,36 @@
       <table width="100%" border="0" cellspacing="1" cellpadding="2" bgcolor="#000000">
         <tbody><tr bgcolor="#FFFFFF" align="center"> 
           <td bgcolor="#ff0000"> 
-            <p><a href="/index.php?b=1102523357" class="tmenuon">Home</a></p>
+            <p><a href="/" class="tmenuon">Home</a></p>
             </td>
           <td> 
-            <p><a href="/content/content.php?cat_id=1&amp;a=1102523357" class="tmenu">About Us</a></p>
+            <p><a href="/content/content.php?cat_id=1" class="tmenu">About Us</a></p>
             </td>
           <td> 
-            <p><a href="/content/content.php?cat_id=2&amp;a=1102523357" class="tmenu">Buy</a></p>
+            <p><a href="/content/content.php?cat_id=2" class="tmenu">Buy</a></p>
             </td>
           <td> 
-            <p><a href="/content/content.php?cat_id=3&amp;a=1102523357" class="tmenu">Rent</a></p>
+            <p><a href="/content/content.php?cat_id=3" class="tmenu">Rent</a></p>
             </td>
           <td> 
-            <p><a href="/content/content.php?cat_id=4&amp;a=1102523357" class="tmenu">Sell</a></p>
+            <p><a href="/content/content.php?cat_id=4" class="tmenu">Sell</a></p>
             </td>
           <td> 
-            <p><a href="/content/content.php?cat_id=5&amp;a=1102523357" class="tmenu">Commercial</a></p>
+            <p><a href="/content/content.php?cat_id=5" class="tmenu">Commercial</a></p>
             </td>
           <td> 
-            <p><a href="/content/content.php?cat_id=6&amp;a=1102523357" class="tmenu">Finance</a></p>
+            <p><a href="/content/content.php?cat_id=6" class="tmenu">Finance</a></p>
             </td>
           <td> 
-            <p><a href="/locality/locality_main.php?a=1102523357" class="tmenu">Locality
+            <p><a href="/locality/locality_main.php" class="tmenu">Locality
               Guide</a></p>
             </td>
+			<td> 
+				            <p><a href="/agent/find_agent_main.php" class="tmenu">Find an Agent</a></p>
+			             </td>
+        
           <td> 
-            <p><a href="/agent/find_agent_main.php?a=1102523357" class="tmenu">Find an Agent</a></p>
-            </td>
-          <td> 
-            <p><a href="/contact.php?a=1102523357" class="tmenu">Contact</a></p>
+            <p><a href="/contact.php" class="tmenu">Contact</a></p>
             </td>
         </tr>
       </tbody></table>
@@ -149,10 +167,7 @@
 		if(error){
 			alert("Please type in suburb, postcode or PropertyID");
 			return false;	
-		} else {
-			document.suburbform.a.value = Math.random()*theDate.getTime();
-			return true;
-		}
+		} 
 	}
 	
 </script>
@@ -163,8 +178,7 @@
       </td>
     </tr>
    <form action="/quicksearch.php" method="get" name="suburbform" onsubmit="return checkquicksearchform();"></form>
-     <input type="hidden" name="a" value="">
-	<tr> 
+    <tr> 
       <td bgcolor="#eeeeee" align="center"> 
         <p>Enter the Property ID, Suburb or Postcode<br>
 
@@ -172,7 +186,7 @@
 			<input type="checkbox" name="surround" value="1" checked=""> Include Surrounding Suburbs<br>
 			<input type="hidden" name="searchtype" value="nv">
 			<input type="hidden" name="quick" value="1">
-			<input type="hidden" name="id" value="00">
+			<input type="hidden" name="id" value="00"><input type="hidden" name="in" value="">
 			<input type="submit" value="Show Results" class="button"></p>
                    
       </td>
