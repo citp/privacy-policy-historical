@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the converga.com.au privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204142545id_/http%3A//www.converga.com.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the converga.com.au privacy policy that was archived on 2005-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050616043555id_/http%3A//www.converga.com.au/privacy.htm) for the most accurate reproduction.*
 
-# Converga Information Management
+# Privacy
 
 Converga Respects Your Privacy 
 
@@ -19,7 +19,7 @@ Converga collects the following information regarding visitors to our website: d
 Converga does make individual identifying information available to its business partners, for marketing purposes. Converga also uses such information to contact people for marketing purposes.
 
 **2\. Choice/Consent**  
-You have the choice to opt out of having individual identifying information provided in the registration process used for any purpose unrelated to the purpose for which the information was provided to us. Access to certainparts of Converga's web pages require a login and password. The use of those web pages, and the information downloadable from those sites, may be governed by a written agreement between you and/or your employer and Converga. Your individual identifying information may be retained by Converga to verify compliance with the agreement.
+You have the choice to opt out of having individual identifying information provided in the registration process used for any purpose unrelated to the purpose for which the information was provided to us. Access to certain parts of Converga's web pages require a login and password. The use of those web pages, and the information downloadable from those sites, may be governed by a written agreement between you and/or your employer and Converga. Your individual identifying information may be retained by Converga to verify compliance with the agreement.
 
 **3\. Data Security**  
 Converga is committed to taking reasonable steps to protect the individual identifying information that you provide to us.
@@ -29,6 +29,4 @@ A cookie is a small data file that certain web sites write to your hard drive wh
 
 Some parts of Converga use cookies to track user traffic patterns. We do this in order to determine the usefulness of Converga information to our users and to see how effective our navigational structure is in helping users reach that information. Converga does not correlate this information with data about individual users, nor does it share this information or sell it to any third party. 
 
-If you prefer not to receive cookies on Converga, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser. You do not need to have cookies turned on to use any area of Converga.
-
-© Copyright Converga 2003
+If you prefer not to receive cookies on Converga, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser. You do not need to have cookies turned on to use any area of the Converga web site.
