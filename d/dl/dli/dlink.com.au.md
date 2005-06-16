@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the dlink.com.au privacy policy that was archived on 2004-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041229232233id_/http%3A//www.dlink.com.au/Default.aspx%3FArticleID%3D1058) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dlink.com.au privacy policy that was archived on 2005-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050617002952id_/http%3A//www.dlink.com.au/Default.aspx%3FArticleID%3D1058) for the most accurate reproduction.*
 
 # D-Link Australia & New Zealand - Online Privacy Policy
 
-|  |   
+|   
 ---  
 |  |  |   
 ---  
-| 
+  
+|  | 
 
 * * *
 
@@ -73,17 +74,24 @@ More information about Privacy law and the National Privacy Principles is availa
   
 ---  
 |   
+  
 |   | 
 
 * * *
 
-  
-D-Link Australia Pty Ltd: Tel: +61 (02) 8899 1800: Fax: +61 (02) 8899 1868: Address: 1 Giffnock Ave, North Ryde, NSW, 2113  
-D-Link is a registered trademark of D-Link Corporation. Specifications are subject to change without prior notice.  
-All other company or product names mentioned herein are trademarks or registered trademarks of their respective companies.  
-© 2004 D-Link Australia. All rights reserved.
+This site requires Macromedia Flash Player 6 or above. [Click here to download](http://www.macromedia.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash).
 
-[Content Management and Software Development  by Elcom Technology  
-](http://www.elcom.com.au/) **  | **[Terms of Use](http://www.dlink.com.au/Default.aspx?ArticleID=1059) | [Privacy Policy](http://www.dlink.com.au/Default.aspx?ArticleID=1058) |  
+  
+ **D-Link Australia Pty. Ltd.**  
+ **Tel: +61 (02) 8899 1800:  Fax: +61 (02) 8899 1868  
+1 Giffnock Ave, North Ryde, NSW, 2113  
+**D-Link is a registered trademark of D-Link Corporation.  
+Specifications are subject to change without prior notice.  
+All other company or product names mentioned herein are trademarks  
+or registered trademarks of their respective companies.  
+© 2005 D-Link Australia. All rights reserved.
+
+[Content Management and Software Development by Elcom Technology  
+](http://www.elcom.com.au/) **|**[Terms of Use](http://www.dlink.com.au//Default.aspx?ArticleID=1059) | [Privacy Policy](http://www.dlink.com.au//Default.aspx?ArticleID=1058)  
   
 ---|---
