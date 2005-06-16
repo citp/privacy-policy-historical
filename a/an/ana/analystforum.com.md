@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the analystforum.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205082311id_/http%3A//www.analystforum.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the analystforum.com privacy policy that was archived on 2005-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050616074043id_/http%3A//www.analystforum.com/privacy.shtml) for the most accurate reproduction.*
 
 # CFA Exam Discussion at AnalystForum for Chartered Financial Analyst candidates
 
 **AnalystForum's Privacy Policy:**   
 AnalystForum's policy is to respect and protect the privacy of our users. This policy statement tells you how we collect information from you and how we use it. Using the Internet should be a fun experience and we want to help you make it so.
 
-The information you provide AnalystForum will not be disclosed to third parties without your consent. AnalystForum may disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) AnalystForum's rights or property, or anyone else that could be harmed by such activities. analystforum.com may disclose user information when we believe in good faith that the law requires it.
+The information you provide AnalystForum will not be disclosed to third parties without your consent. AnalystForum may disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) AnalystForum's rights or property, or anyone else that could be harmed by such activities. AnalystForum may disclose user information when we believe in good faith that the law requires it.
 
-analystforum.com shares aggregate information about our users with advertisers, business partners, sponsors and other third parties. For example, we will say AnalystForum's audience is x percent females and y percent males. This data is used to customize AnalystForum's content and advertising to deliver a better experience for our users.
+AnalystForum shares aggregate information about our users with advertisers, business partners, sponsors and other third parties. For example, we will say AnalystForum's audience is X percent females and Y percent males. This data is used to customize AnalystForum's content and advertising to deliver a better experience for our users.
 
-There are cases where analystforum.com may ask you for personal information such as your name, email address, and birth date. For example, we request personal information when you register for our forums account, for online shopping, or auctions. analystforum.com needs to collect this information for fulfilling prizes, tracking/verifying compliance with analystforum.com's policies as well as federal, state and local laws and/or for editorial and feedback solicitation purposes.
+There are cases where AnalystForum may ask you for personal information. For example, we request personal information when you register for a forums account or a promotional contest. We need to collect this information for fulfilling prizes, tracking/verifying compliance with AnalystForum's policies as well as federal, state and local laws and/or for editorial and feedback solicitation purposes.
 
-In case you change your mind or some personal information may change (such as your zip code), we will endeavor to provide a way to correct, update or remove the personal data you give us. You can do this at the member information page or by contacting Customer Service at [customerservice@analystforum.com](mailto:customerservice@analystforum.com).
+In case you change your mind or some personal information may change (such as your zip code), we will endeavor to provide a way to correct, update or remove the personal data you give us. You can do this at the member information page or by [contacting us](https://web.archive.org/contact.php).
 
 **Use of IP Addresses:**   
 An IP address is a number that's automatically assigned to your computer whenever you're surfing the Web. Web servers -- the big computers that "serve up" Web pages -- automatically identify your computer by its IP address.
@@ -25,10 +25,10 @@ AnalystForum puts control over communications directed to you where it belongs..
 
   * We send e-mail newsletters only to users who ask to receive them. 
   * Once you are on the list -- you can easily get off. Each e-mail newsletter you receive has your address stamped on it, along with simple instructions on how to immediately unsubscribe that address from our newsletter list. 
-  * We will never make your name or address available to any other companies or agencies.
+  * We will never make your name or address available to any other companies or agencies without your permission.
 
 **Links to Other Sites:**   
-Users should be aware that when you are on analystforum.com, you could be directed to other sites that are beyond our control. There are links to other sites from AnalystForum pages that take you outside our service. For example, if you "click" on a banner advertisement or a listing in the Test Preparation Directory, the "click" takes you off the AnalystForum site. This includes links from advertisers, sponsors and partners. These other sites may send their own cookies to users, collect data or solicit personal information.
+Users should be aware that when you are on AnalystForum, you could be directed to other sites that are beyond our control. There are links to other sites from AnalystForum pages that take you outside our service. For example, if you "click" on a banner advertisement or a listing in the Test Preparation Directory, the "click" takes you off the AnalystForum site. This includes links from advertisers, sponsors and partners. These other sites may send their own cookies to users, collect data or solicit personal information.
 
 Please keep in mind that whenever you give out personal information online \--- for example, via message boards or chat --- that information can be collected and used by people you don't know. While AnalystForum strives to protect its user's personal information and privacy, we cannot guarantee the security of any information you disclose online and you do so at your own risk.
 
