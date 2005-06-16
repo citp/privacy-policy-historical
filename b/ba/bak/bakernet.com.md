@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bakernet.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204203811id_/http%3A//www.bakernet.com/BakerNet/Firm%2BProfile/Legal%2BInformation.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakernet.com privacy policy that was archived on 2005-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050616073739id_/http%3A//www.bakernet.com/BakerNet/Firm%2BProfile/Legal%2BInformation.htm) for the most accurate reproduction.*
 
 # Baker & McKenzie || Firm Profile || Legal Information
 
@@ -25,7 +25,7 @@ Back to Top
 
 **Copyright and Reproduction Notice**
 
-Copyright © 2004, Baker & McKenzie. All rights reserved. 
+Copyright © 2005, Baker & McKenzie. All rights reserved. 
 
 Reproduction of part or all of the contents in any form of the Baker & McKenzie Web sites is prohibited other than for individual use only and may not be recopied and shared with a third party. The permission to recopy by an individual does not allow for incorporation of material or any part of it in any work or publication, whether in hard copy, electronic, or any other form.
 
