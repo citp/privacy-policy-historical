@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the savingsloans.com.au privacy policy that was archived on 2004-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204125818id_/http%3A//www.savingsloans.com.au/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the savingsloans.com.au privacy policy that was archived on 2005-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050616233640id_/http%3A//www.savingsloans.com.au/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Savings &amp; Loans Credit Union - Privacy</title>
@@ -46,7 +46,7 @@ function openSite2() { //v1.0
 }
 
 function openSite3(myurl) {
-  RemoteWin = open('https://bne084p.server-secure.com/vs17801_secure/onlineforms/'+myurl, "_blank", 'toolbar=0,location=0,directories=0,status=1,menubar=0,scrollbars=1,resizeable=0,width=500,height=500')
+  RemoteWin = open('https://wic021p.server-secure.com/vs17801_secure/onlineforms/'+myurl, "_blank", 'toolbar=0,location=0,directories=0,status=1,menubar=0,scrollbars=1,resizeable=0,width=500,height=500')
 }
 
 function openSite9() { //v1.0
@@ -239,75 +239,41 @@ MM_reloadPage(true);
   var layertimeout = ""
 
 
+
+
 //-- ----------------------------------------------- --
 
 function showLayer(myLayer, myEvent) {
   if (opnLayer != "") {
-      hideLayer(opnLayer, myEvent, false)
-  	  clearTimeout(layertimeout)
+    if (opnLayer.visibility == "show") { 
+      hideLayer(opnLayer, myEvent, false) 
+    }
   }
-  document.getElementById(myLayer).style.visibility = "visible"
-  opnLayer=myLayer
-  layertimeout=setTimeout("timeoutLayer()",5000)
-}
-
-function timeoutLayer(){
-	 document.getElementById(opnLayer).style.visibility = "hidden"
-	 MM_showHideLayers('FlashBanner','','show');
-  	 clearTimeout(layertimeout)
+ document.layers[myLayer].visibility = "show"
+  opnLayer = myLayer
 }
 
 
-function hideLayer(myLayer, myEvent, inLayer) {
-  var myTop = parseInt(document.getElementById(myLayer).style.top)
-  var myLeft = parseInt(document.getElementById(myLayer).style.left)
-  var myHeight = parseInt(document.getElementById(myLayer).style.height)
-  var myWidth = parseInt(document.getElementById(myLayer).style.width)
-  clearTimeout(layertimeout)
 
 
-  if (navigator.appName == "Netscape"){
-	  if (inLayer) {
-		 if ((myEvent.pageX < myLeft) || (myEvent.pageX > (myLeft + myWidth)) || (myEvent.pageY < myTop) || (myEvent.pageY > (myTop + myHeight))) {
-		  	document.getElementById(myLayer).style.visibility = "hidden"
-			MM_showHideLayers('FlashBanner','','show');
-		 }else{
-			layertimeout=setTimeout("timeoutLayer()",3000)
-		 }
-	  }else {
-  		 document.getElementById(myLayer).style.visibility = "hidden"
-		 MM_showHideLayers('FlashBanner','','show');
-  	  }
-  }else{
- 	 var myTop = parseInt(myTop) - document.body.scrollTop
- 	 if (inLayer) {
- 	   if ((event.clientX < myLeft) || (event.clientX > (myLeft + myWidth)) || (event.clientY < myTop) || (event.clientY > (myTop + myHeight))) {
-		 document.getElementById(myLayer).style.visibility = "hidden"
-	     MM_showHideLayers('FlashBanner','','show');
-	   }else{
-			layertimeout=setTimeout("timeoutLayer()",3000)
-		 }
-  	 } else {
-	   document.getElementById(myLayer).style.visibility = "hidden"
-	   MM_showHideLayers('FlashBanner','','show');
-	 }
+//-- ----------------------------------------------- --
+
+function hideLayer (myLayer, myEvent, inLayer) {
+  var myTop = parseInt(myLayer.top)
+  var myLeft = parseInt(myLayer.left)
+  var myHeight = parseInt(myLayer.clip.height)
+  var myWidth = parseInt(myLayer.clip.width)
+  if (inLayer) {
+    if ((myEvent.pageX < myLeft) || (myEvent.pageX > (myLeft + myWidth)) || (myEvent.pageY < myTop) || (myEvent.pageY > (myTop + myHeight))) {
+      myLayer.visibility = "hidden"
+	  MM_showHideLayers('FlashBanner','','show');
+      if(myLayer.name.substring(0, 3) == "tlb") { myLayer.left = 0 }
+    }
+  } else {
+    myLayer.visibility = "hidden"
+	MM_showHideLayers('FlashBanner','','show');
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -321,7 +287,7 @@ function hideLayer(myLayer, myEvent, inLayer) {
 function killLayer(){
  if (opnLayer){
 		
-		  	document.getElementById(opnLayer).style.visibility = "hidden"  
+  			document.layers[opnLayer].visibility= "hidden"
 		
 		window.status=''
  	    MM_showHideLayers('FlashBanner','','show');
@@ -382,7 +348,7 @@ function MM_showHideLayers() { //v3.0
 
 <!-- layer_insurance --> 
  
-	<div id="layer_insurance" onmouseout="hideLayer('layer_insurance', event, true);" style="position:absolute; visibility:hidden; z-index:3; width:150px; left:274px; top:61; height:240px"> 
+    <layer id="layer_insurance" onmouseout="hideLayer(this, event, true);" z-index="3" width="165px" left="274px" top="61" height="240px" visibility="hide"> 
  
 
   <table border="0" cellspacing="0" cellpadding="0" width="140"> <tbody><tr align="left"> <td> <table width="140" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> 
@@ -405,23 +371,24 @@ function MM_showHideLayers() { //v3.0
 
 				<tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="ins_home.asp" class="submenu">Home 
                     &amp; Contents</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="ins_mort.asp" class="submenu">Mortgage 
-                    Repayment</a></td> </tr><tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="ins_cred.asp" class="submenu">Credit Card
                     Repayment</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="ins_plcraft.asp" class="submenu">Pleasure 
                     Craft</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="ins_caravan.asp" class="submenu">Caravan</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="ins_landlord.asp" class="submenu">Landlord 
-                    Protection</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="ins_bus.asp" class="submenu">Business</a></td> </tr>  <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="ins_calc.asp" class="submenu">Calculators</a></td> </tr></tbody></table> </td> 
+                    Protection</a></td> </tr> <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="ins_bus.asp" class="submenu">Business</a></td> </tr> 
+                    <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="ins_travel.asp" class="submenu">Travel</a></td> </tr> 
+                     <tr> <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="ins_calc.asp" class="submenu">Calculators</a></td> </tr></tbody></table> </td> 
             <td width="10" bgcolor="#000000"> <img src="images/spacer.gif" width="3" height="1"></td> 
           </tr> </tbody></table> </td> </tr> <tr> <td> <table width="140" border="0" cellspacing="0" cellpadding="0"> <tbody><tr valign="top"> <td width="6"><img src="images/drop_bot_left.gif" width="6" height="8"></td> 
             <td bgcolor="#FFD77C" width="126" background="images/drop_bottom.gif"><img src="images/drop_bottom.gif" width="126" height="8"></td> 
             <td width="10"><img src="images/drop_bot_right.gif" width="5" height="8"></td> 
           </tr> </tbody></table> </td> </tr> </tbody></table>  
 
-</div>
+</layer>
 
 
 
 <!-- layer_aboutus -->
-
-	<div id="layer_aboutus" onmouseout="hideLayer('layer_aboutus', event, true)" style="position:absolute; visibility:hidden; z-index:3; width:150px; left:20px; top:61; height:235px"> 
+ 
+    <layer id="layer_aboutus" onmouseout="hideLayer(this, event, true);" z-index="3" width="150px" left="20px" top="61" height="235px" visibility="hide"> 
  
 
   <table border="0" cellspacing="0" cellpadding="0" width="312">
@@ -480,14 +447,14 @@ function MM_showHideLayers() { //v3.0
             <td width="18"><img src="images/drop_bot_right.gif" width="5" height="8"></td> 
           </tr> </tbody></table> </td> </tr> </tbody></table>  
 
-</div>
+</layer>
 
 
 
 
 <!-- layer_loans -->
-
-	<div id="layer_loans" onmouseout="hideLayer('layer_loans', event, true)" style="position:absolute; visibility:hidden; z-index:3; width:149px; left:86px; top:61; height:215px"> 
+ 
+    <layer id="layer_loans" onmouseout="hideLayer(this, event, true);" z-index="3" width="149px" left="86px" top="61" height="215px" visibility="hide"> 
  
 
   <table border="0" cellspacing="0" cellpadding="0" width="138">
@@ -513,13 +480,13 @@ function MM_showHideLayers() { //v3.0
             <td width="10"><img src="images/drop_bot_right.gif" width="5" height="8"></td> 
           </tr> </tbody></table> </td> </tr> </tbody></table>  
 
-</div>
+</layer>
 
 
 
 <!-- layer_investments -->
-
-	<div id="layer_investments" onmouseout="hideLayer('layer_investments', event, true)" style="position:absolute; visibility:hidden; z-index:3; width:149px; left:137px; top:61; height:150px"> 
+ 
+    <layer id="layer_investments" onmouseout="hideLayer(this, event, true);" z-index="3" width="149px" left="137px" top="61" height="150px" visibility="hide"> 
  
 
  <table border="0" cellspacing="0" cellpadding="0" width="147"> <tbody><tr align="right"> <td> <table width="149" border="0" cellspacing="0" cellpadding="0"> <tbody><tr> 
@@ -538,13 +505,13 @@ function MM_showHideLayers() { //v3.0
             <td width="21" align="left"><img src="images/drop_bot_right.gif" width="5" height="8"></td> 
           </tr> </tbody></table> </td> </tr> </tbody></table>  
 
-</div>
+</layer>
 
 
 
 <!-- layer_planning -->
-
-	<div id="layer_planning" onmouseout="hideLayer('layer_planning', event, true)" style="position:absolute; visibility:hidden; z-index:3; width:185px; left:349px; top:61; height:175px"> 
+ 
+    <layer id="layer_planning" onmouseout="hideLayer(this, event, true);" z-index="3" width="185px" left="349px" top="61" height="175px" visibility="hide"> 
  
 
   <table border="0" cellspacing="0" cellpadding="0" width="169">
@@ -599,14 +566,13 @@ function MM_showHideLayers() { //v3.0
             <td width="14"><img src="images/drop_bot_right.gif" width="5" height="8"></td> 
           </tr> </tbody></table> </td> </tr> </tbody></table>
 
-</div>
+</layer>
 
 
 
 <!-- layer_memberBenefits -->
-
-	<div id="layer_visa" onmouseout="hideLayer('layer_visa', event, true)" style="position:absolute; visibility:hidden; z-index:3; width:100px; left:535px; top:61; height:147px"> 
-
+<layer id="layer_visa" onmouseout="hideLayer(this, event, true);" z-index="3" width="100px" left="535px" top="61" height="147px" visibility="hide"> 
+  
   <table border="0" cellspacing="0" cellpadding="0" width="119">
     <tbody><tr align="right"> 
       <td align="left"> 
@@ -631,17 +597,17 @@ function MM_showHideLayers() { //v3.0
                   <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="mb_overview.asp" class="submenu">Introduction</a></td>
                 </tr>
 				<tr> 
-                  <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="mb_specials.asp" class="submenu">Special 
-                    Offers</a></td>
+                  <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="travel_mem.asp" class="submenu">Travel</a></td>
+                </tr>
+                <tr> 
+                  <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="mb_internode.asp" class="submenu">Internet Access</a></td>
                 </tr>
                 <tr> 
                   <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="mb_wineclub.asp" class="submenu">Wine Club</a></td>
                 </tr>
-                <tr> 
-                  <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="travel_mem.asp" class="submenu">Travel</a></td>
-                </tr>
-                 <tr> 
-                  <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="mb_internode.asp" class="submenu">Internet Access</a></td>
+				<tr> 
+                  <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="mb_specials.asp" class="submenu">Special 
+                    Offers</a></td>
                 </tr>
                 <tr> 
                   <td class="menu" onmouseover="this.className='menuover'" onmouseout="this.className='menu'"><a href="mb_competitions.asp" class="submenu">Competitions</a></td>
@@ -665,12 +631,11 @@ function MM_showHideLayers() { //v3.0
       </td>
     </tr>
   </tbody></table>
-  
-</div>
+  </layer>
 
 <!-- layer_business -->
-<div id="layer_business" onmouseout="hideLayer('layer_business', event, true)" style="position:absolute; visibility:hidden; z-index:3; width:145px; left:468px; top:61; height:155px"> 
-
+<layer id="layer_business" onmouseout="hideLayer(this, event, true);" z-index="3" width="145px" left="468px" top="61" height="155px" visibility="hide"> 
+  
   <table border="0" cellspacing="0" cellpadding="0" width="139">
     <tbody><tr align="left"> 
       <td> 
@@ -730,12 +695,10 @@ function MM_showHideLayers() { //v3.0
       </td>
     </tr>
   </tbody></table>
-  
-</div>
+  </layer>
 
 <!-- layer_QuestionsAndAnswers -->
-<div id="layer_travel" onmouseout="hideLayer('layer_travel', event, true)" style="position:absolute; visibility:hidden; z-index:3; width:125px; left:644px; top:61; height:155px"> 
-
+<layer id="layer_travel" onmouseout="hideLayer(this, event, true);" z-index="3" width="125px" left="644px" top="61" height="20px" visibility="hide">
   <table border="0" cellspacing="0" cellpadding="0" width="119">
     <tbody><tr align="right"> 
       <td align="left"><table width="119" border="0" cellspacing="0" cellpadding="0">
@@ -785,9 +748,7 @@ function MM_showHideLayers() { //v3.0
   </tbody></table>
   <p>
     
-  </p>
-  </div>
-</nosrch>
+
 <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#DBDBDB">
   <tbody><tr> 
     <td>&nbsp; </td>
@@ -1283,8 +1244,8 @@ function scroll() {
 
 //  End -->
 </script>
-
-<div id="rightbar" style="position: absolute; z-index: 1; width: 120px; left: 35px; top: 162px; visibility: visible;"> 
+ 
+<layer id="rightbar" width="120" z-index="1" visibility="hide" style="top: 162px; left: 35px; visibility: visible;"> 
 
 
   <table width="100%" cellpadding="0" cellspacing="0" border="0">
@@ -1306,8 +1267,8 @@ function scroll() {
       </td>
 	</tr>
 	  </tbody></table>
-
-	</div>
+ 
+	</layer>        
           </td>
           <td width="30"></td>
           
@@ -1320,8 +1281,8 @@ function scroll() {
 <td width="37" background="images/line_top_rhs.gif" valign="bottom" align="left"><img src="images/line_bot_curve.gif" width="35" height="57"></td>
         </tr>
       </tbody></table>
-      <p>&nbsp;</p>
-    </td>
+      </p><p>&nbsp;</p>
+    </layer></nosrch></td>
   </tr>
   <tr>
     <td valign="bottom"> 
