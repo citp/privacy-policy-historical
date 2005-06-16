@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the velonews.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204220333id_/http%3A//velonews.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the velonews.com privacy policy that was archived on 2005-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050616021518id_/http%3A//www.velonews.com/privacy.html) for the most accurate reproduction.*
 
 # Inside Communications Privacy Policy
 
@@ -37,11 +37,11 @@ Subscribers or applicants who do not want their names used in any of the above w
 1830 North 55th St.  
 Boulder, CO 80301-2730
 
-Or click [here](mailto:vn-subs@7dogs.com) to email us your request.
+Or click [here](mailto:vn-subs@insideinc.com) to email us your request.
 
 This Privacy Policy may be modified from time to time; notice of changes will appear on this page, so check back often. Any such changes will be prospective, never retroactive. 
 
-If you have concerns or questions about any aspect of this policy, please email our Privacy Policy Coordinator at [privacy@7dogs.com](mailto:privacy@7dogs.com). We welcome your feedback. You can also send us regular mail at the following address: 
+If you have concerns or questions about any aspect of this policy, please email our Privacy Policy Coordinator at [privacy@insideinc.com](mailto:privacy@insideinc.com). We welcome your feedback. You can also send us regular mail at the following address: 
 
 **Inside Communications, Inc**  
 Attn: Privacy Policy Coordinator  
