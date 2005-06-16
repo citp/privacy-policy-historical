@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickbetter.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209220401id_/http%3A//www.trafficschooltogo.com/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickbetter.com privacy policy that was archived on 2005-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050616062957id_/http%3A//www.trafficschooltogo.com/privacystatement.htm) for the most accurate reproduction.*
 
 # Traffic School To Go on the Internet
 
@@ -27,7 +27,7 @@ We do...
 
 ## Correct/Update
 
-This site gives users the option of changing and modifying information previously provided. Simply go to your Student Control panel at the bottom of any page once you are registered. If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
+This site gives users the option of changing and modifying information previously provided. These changes are conducted in a secure environment. If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
 ###  CLOSE THIS WINDOW  
 TO RETURN TO THE PROGRAM
