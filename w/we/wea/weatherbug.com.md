@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weatherbug.com privacy policy that was archived on 2004-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041215035800id_/http%3A//weatherbug.com/aws/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weatherbug.com privacy policy that was archived on 2005-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050616031228id_/http%3A//www.weatherbug.com/aws/privacyPolicy.html) for the most accurate reproduction.*
 
 # WeatherBug® - Your Weather Just Got Better™
 
@@ -24,7 +24,7 @@ This statement discloses the privacy practices of the [www.weatherbug.com](http:
 
 AWS is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.weatherbug.com and www.aws.com. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-Questions regarding this statement should be directed, via e-mail, to [privacy@weatherbugsupport.com](mailto:privacy@weatherbugsupport.com) If we have not responded to your inquiry in a timely manner, or your inquiry has not been satisfactorily addressed, please contact us at 1-800-544-4429. [2-5 Metropolitan Court, Gaithersburg, MD 20878.] If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the website to resolve your concerns. To return to the WeatherBug home page, please use the "Back" button on your browser. 
+Questions regarding this statement should be directed, via e-mail, to [privacy@weatherbugsupport.com](mailto:privacy@weatherbugsupport.com) If we have not responded to your inquiry in a timely manner, or your inquiry has not been satisfactorily addressed, please contact us at 1-800-544-4429. [ 12410 Milestone Center Drive, Suite 300, Germantown, Maryland 20876.] If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the website to resolve your concerns. To return to the WeatherBug home page, please use the "Back" button on your browser. 
 
 TRUSTe certification covers only information that is collected through the Web pages hosted on [www.weatherbug.com](http://www.weatherbug.com/) and [www.aws.com](http://www.aws.com/). . 
 
