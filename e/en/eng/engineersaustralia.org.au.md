@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the engineersaustralia.org.au privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208014658id_/http%3A//www.engineersaustralia.org.au/about_us/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engineersaustralia.org.au privacy policy that was archived on 2005-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050616085133id_/http%3A//www.engineersaustralia.org.au/about_us/privacy_policy.html) for the most accurate reproduction.*
 
-# IEAust - Privacy Policy
+# Engineers Australia - Privacy Policy
 
 ### Privacy Policy
 
