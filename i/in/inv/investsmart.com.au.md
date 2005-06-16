@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the investsmart.com.au privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204211355id_/http%3A//www.investsmart.com.au/terms_of_use/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investsmart.com.au privacy policy that was archived on 2005-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050616081438id_/http%3A//investsmart.com.au/terms_of_use/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # InvestSMART.com.au - Privacy Policy
 
-**InvestSMART is committed to safeguarding your privacy online.**
+InvestSMART is committed to safeguarding your privacy online!
 
 InvestSMART Financial Services Pty Ltd (InvestSMART) has created this privacy statement in order to demonstrate our firm commitment to privacy. We value your trust, and aim to help you manage and build wealth over a long period. The protection of your personal information is a vital part of this relationship. It is supported by our I.T. systems and experience of keeping personal information confidential. The following discloses our information gathering and dissemination practices for this website: www.InvestSMART.com.au
 
@@ -20,7 +20,7 @@ Access to the database containing personal information is restricted to InvestSM
 
 InvestSMART reserves the right to change this policy at any time by publishing on its website the existence of a new privacy statement. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
-**Choice/Opt-Out**
+Choice/Opt-Out
 
 Our site provides users the opportunity to opt-out of receiving communications.
 
@@ -31,4 +31,4 @@ This site gives users the following options for removing their information from 
 **3.**   You can call the following telephone number: 1300 880 160 (International Calls: +61 2 8966 9511)   
 **4.**   You can log onto the site and remove or update your personal details on the [My Details](https://web.archive.org/my_investsmart/my_details.asp) page. 
 
-**Contact Details**
+Contact Details
