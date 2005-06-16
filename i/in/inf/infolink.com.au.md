@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the infolink.com.au privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209065035id_/http%3A//www.infolink.com.au/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infolink.com.au privacy policy that was archived on 2005-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050616081345id_/http%3A//www.infolink.com.au/privacypolicy.asp) for the most accurate reproduction.*
 
-# www.infolink.com.au : Privacy Policy
+# Infolink Australia : Privacy Policy
 
 Reed Elsevier Australia Pty Limited and its related companies (“the Reed Group”) have a firm commitment to privacy in accordance with the Privacy Amendment (Private Sector) Act 2000, which takes effect in December 2001. 
 
