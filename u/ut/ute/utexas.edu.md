@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utexas.edu privacy policy that was archived on 2004-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041123084835id_/http%3A//www.utexas.edu/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utexas.edu privacy policy that was archived on 2005-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050616031303id_/http%3A//www.utexas.edu/policies/privacy) for the most accurate reproduction.*
 
 # Web Privacy Policy
 
