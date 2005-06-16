@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankwest.com.au privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207212000id_/http%3A//www.bankwest.com.au/newsroom/Legal_Notices/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankwest.com.au privacy policy that was archived on 2005-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050616092044id_/http%3A//www.bankwest.com.au/newsroom/Legal_Notices/Privacy_Policy) for the most accurate reproduction.*
 
 # BankWest - Privacy Policy
 
@@ -87,7 +87,7 @@ Subject to what is permitted by law, the types of third parties we may disclose 
 
   * credit reporting agencies; 
 
-  * our agents, contractors and external advisers whom we engage from time to time to carry out, or advise on, our functions and activities; 
+  * our agents, contractors, external advisers and external identification verification agencies whom we engage from time to time to carry out, or advise on, our functions and activities; 
 
   * your agents and contractors, including your finance broker, builder and settlement agent and your legal or financial adviser; 
 
@@ -174,7 +174,7 @@ If we do not resolve your complaint to your satisfaction, you may apply to the F
 
 ### Changes to this Privacy Policy
 
-This statement sets out our current Privacy Policy. It replaces any of our other Privacy Policies or website Privacy Policy to date. 
+This statement sets out our Privacy Policy. It replaces any of our other Privacy Policies or website Privacy Policies to date. 
 
 Please note that this Privacy Policy may change from time to time. Our current Privacy Policy is available from our website, www.bankwest.com.au or at any BankWest Customer Service Centre or by telephoning our Customer Help Centre on 13 17 18.
 
@@ -183,7 +183,7 @@ We encourage you to periodically review our Privacy Policy for any changes.
 ### Our Internet Website
 
 This Privacy Policy applies to any website operated by us under the domain name www.bankwest.com.au  
-("the BankWest Website"), the website operated on our behalf by Pinpoint Pty Ltd ACN 002 693 656 under the domain name bankwestextra.rewardscard.com.au ("the Rewards Website") and any other website operated on our behalf which we authorise to provide a link to this Privacy Policy. 
+("the BankWest Website"), the website operated on our behalf by Pinpoint Pty Ltd ACN 002 693 656 under the domain name bankwestextra.rewardscard.com.au ("the Rewards Website") and any other website operated by us or on our behalf which we authorise to provide a link to this Privacy Policy. 
 
 When you use a link from the BankWest Website, or from any other website to which this Privacy Policy applies, to the websites of third parties, those websites are not subject to our privacy standards. Those third parties are responsible for informing you of their own privacy policies.
 
