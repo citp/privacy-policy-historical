@@ -1,9 +1,24 @@
-<!--The following is the downloaded HTML source of the sfmoma.org privacy policy that was archived on 2004-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204100157id_/http%3A//www.sfmoma.org/info/about_privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sfmoma.org privacy policy that was archived on 2005-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050616072912id_/http%3A//www.sfmoma.org/info/about_privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>SFMOMA | Info | Privacy Policy</title>
+<!-- Include For No Spam JavaScript Email Function //-->
+<!--This file includes the no spam JavaScript email function -->
 
+<script type="text/javascript">
+<!--
+
+<!-- Email Function //-->
+function DisplayMail(Server, Login, Display){
+	if ((Display.length == 0) || (Display.indexOf('@')+1)) {
+	document.write("<a href=" + "'mai" + "lto:" + Login + "@" + Server + "'>" + Login + "@" + Server + "</a>"); }
+	else  {
+	document.write("<a href=" + "'mai" + "lto:" + Login + "@" + Server + "'>" + Display + "</a>"); }
+}
+
+//-->
+</script>
 
 <link rel="stylesheet" href="../styles/globalstyle.css">
 
@@ -130,7 +145,7 @@ MM_reloadPage(true);
               The third parties' practices in connection with the ordering, processing, 
               and delivery of products are subject to their own privacy policies. 
               You should consult the privacy policies for the MuseumStore at <a href="http://privacy.yahoo.com/" target="_blank">Yahoo! 
-              Store</a>, online ticket sales at <a href="http://www.ticketweb.com/privacy.html" target="_blank">TicketWeb</a>, 
+              Store</a>, online ticket sales at <a href="http://www.museumtix.com/help/privacy.asp?pvt=" target="_blank">MuseumTix/Ticketmaster</a>, 
               and online employment applications at <a href="http://sfmoma.snaphire.com/" target="_blank">SnapHire</a> 
               to ascertain the uses of the personal information submitted to these 
               third parties. <br>
@@ -173,7 +188,7 @@ MM_reloadPage(true);
               SFMOMA<br>
               151 Third Street<br>
               San Francisco, CA 94103</span> </p>
-            <p>Email: <a href="mailto:copyright@sfmoma.org">copyright@sfmoma.org</a><br>
+            <p>Email: <script language="javascript">DisplayMail('sfmoma.org', 'copyright', '');</script><a href="mailto:copyright@sfmoma.org">copyright@sfmoma.org</a><br>
             </p>
 
           </td>
@@ -913,7 +928,7 @@ document.writeln('<div id=searchbutton style=;><a href="javascript:SearchSubmit(
   <tr> 
     <td height="30">&nbsp;</td>
     <td height="30"><br>
-      <span class="globalcopyright">Copyright © 2004 San Francisco Museum of Modern Art</span></td>
+      <span class="globalcopyright">Copyright © 2005 San Francisco Museum of Modern Art</span></td>
     <td height="30">&nbsp;</td>
   </tr>
   <tr> 
