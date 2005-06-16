@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iselect.com.au privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208031832id_/http%3A//www.iselect.com.au/health_insurance_privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iselect.com.au privacy policy that was archived on 2005-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050616172041id_/http%3A//www.iselect.com.au/health_insurance_privacy_statement.htm) for the most accurate reproduction.*
 
 # iSelect Privacy Statement for health insurance advice
 
@@ -24,6 +24,6 @@ Only authorised persons employed by iSelect will have access to your personal in
 
 iSelect will not disclose or sell any personally identifiable information received through our web site, e-mail, call centre, fax and mail. We will only disclose specific information if required by law. 
 
-iSelect has requested that its participating [health insurers](https://web.archive.org/web/20041208031832id_/http%3A//www.iselect.com.au/health_insurance_funds_participating.htm) ensure client data is kept in strict confidence by maintaining appropriate privacy procedures. iSelect is not responsible, nor can we guarantee use of information required by the health insurance funds for the purposes of membership application or potential membership validation where members have not joined directly through iSelect. iSelect will not disclose individual client data regarding health insurance preferences to health insurers unless required as part of the normal membership application or validation process. 
+iSelect has requested that its participating [health insurers](https://web.archive.org/web/20050616172041id_/http%3A//www.iselect.com.au/health_insurance_funds_participating.htm) ensure client data is kept in strict confidence by maintaining appropriate privacy procedures. iSelect is not responsible, nor can we guarantee use of information required by the health insurance funds for the purposes of membership application or potential membership validation where members have not joined directly through iSelect. iSelect will not disclose individual client data regarding health insurance preferences to health insurers unless required as part of the normal membership application or validation process. 
 
 We may use the information we collect from you in aggregate to help us analyse the quality of our service and help design better health insurance products for our clients. 
