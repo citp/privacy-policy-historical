@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ipaustralia.gov.au privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204155044id_/http%3A//www.ipaustralia.gov.au/about/site_privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipaustralia.gov.au privacy policy that was archived on 2005-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050616103410id_/http%3A//www.ipaustralia.gov.au/about/site_privacy.shtml) for the most accurate reproduction.*
 
 # IP Australia : About IP Australia > About this Site > Privacy Policy
 
-[Home](https://web.archive.org/web/20041204155044id_/http%3A//www.ipaustralia.gov.au/index.shtml) [About IP Australia](https://web.archive.org/web/20041204155044id_/http%3A//www.ipaustralia.gov.au/about/index.shtml) [About this site](https://web.archive.org/web/20041204155044id_/http%3A//www.ipaustralia.gov.au/about/index.shtml) Privacy Policy  
+[Home](https://web.archive.org/web/20050616103410id_/http%3A//www.ipaustralia.gov.au/index.shtml) [About IP Australia](https://web.archive.org/web/20050616103410id_/http%3A//www.ipaustralia.gov.au/about/index.shtml) [About this site](https://web.archive.org/web/20050616103410id_/http%3A//www.ipaustralia.gov.au/about/index.shtml) Privacy Policy  
   
  
 
@@ -42,6 +42,6 @@ The information required for the completion of IP Australia's electronic filing 
 
 
   
-© Commonwealth of Australia, 2004  
-[Site Search](https://web.archive.org/about/site_search.shtml) | [Site Map](https://web.archive.org/about/site_map.shtml) | [Contact Us](https://web.archive.org/resources/contacts.shtml) | [Give us your feedback](https://web.archive.org/about/site_feedback.shtml) | [Customer Service Charter](https://web.archive.org/about/charter_index.shtml)  
+© Commonwealth of Australia, 2005  
+[Site Search](https://web.archive.org/about/site_search.shtml) | [Site Map](https://web.archive.org/about/site_map.shtml) | [Contact Us](https://web.archive.org/resources/contacts.shtml) | [Give us your feedback](https://web.archive.org/about/feedback.shtml) | [Customer Service Charter](https://web.archive.org/about/charter_index.shtml)  
 [Disclaimer](https://web.archive.org/about/site_disclaimer.shtml) | [Privacy Policy](https://web.archive.org/about/site_privacy.shtml) | [Text Only Website](https://web.archive.org/textindex.shtml) | [About this Site](https://web.archive.org/about/site.shtml)
