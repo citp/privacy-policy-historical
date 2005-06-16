@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxtel.com.au privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204034639id_/http%3A//foxtel.com.au/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxtel.com.au privacy policy that was archived on 2005-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050616095657id_/http%3A//www.foxtel.com.au/privacystatement.htm) for the most accurate reproduction.*
 
 # Foxtel
 
@@ -67,3 +67,5 @@ The Privacy Act allows us to give a credit reporting agency certain personal inf
  **If we report your default to a credit reporting agency your credit rating may be affected and you may have difficulty obtaining credit in the future.**
 
 The section on Payments in [FOXTEL’s Residential Digital Subscription Agreement](https://web.archive.org/digital_terms.htm) tells you more about when we will be a credit provider to you.
+
+You can contact us by writing to us at PO Box 612, Moonee Ponds, Victoria, 3039 or contacting us on 131999.
