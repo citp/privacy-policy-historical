@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the melbourne.vic.gov.au privacy policy that was archived on 2004-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040701200920id_/http%3A//www.melbourne.vic.gov.au/index.cfm%3Fcategoryid%3D4%26contentfile%3Dinfopage.cfm%26topicID%3D62%26infopageid%3D404) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melbourne.vic.gov.au privacy policy that was archived on 2005-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050616075107id_/http%3A//www.melbourne.vic.gov.au/info.cfm%3Fpg%3D665) for the most accurate reproduction.*
 
 # City of Melbourne
 
@@ -45,4 +45,5 @@ If you wish to alter any personal information you have supplied to Council whils
 
 Please contact the Council’s Privacy Officer on 9658 9173 if you have any other enquires concerning Councils privacy procedures.
 
-[ **Council's Privacy Policy statement**](http://www.melbourne.vic.gov.au/upload/PrivacyPolicyStatement.pdf)
+  [Council's Privacy Policy Statement](https://web.archive.org/rsrc/PDFs/Governance/PrivacyPolicyStatement.pdf)  
+
