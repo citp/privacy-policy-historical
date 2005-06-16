@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ngv.vic.gov.au privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010024841id_/http%3A//www.ngv.vic.gov.au/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ngv.vic.gov.au privacy policy that was archived on 2005-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050616071434id_/http%3A//www.ngv.vic.gov.au/policies/privacy.html) for the most accurate reproduction.*
 
 # Policies: Privacy
 
@@ -79,6 +79,10 @@ Turning off the browser's cookies will prevent Web beacons from tracking the use
 
 This website privacy statement does not extend beyond the NGV website. When linking to other sites you should familiarise yourself with their website privacy statements. 
 
+## How to contact NGV to enquire about a website privacy issue 
+
+If you wish to enquire about the use of your personal information contact [privacy@ngv.vic.gov.au](mailto:privacy@ngv.vic.gov.au)
+
 ## How to gain access to your personal information. 
 
 NGV will provide you with access to personal information acquired or presented about you on the NGV website for the purpose of verification and correction. Victoria's Information Privacy Act requires you to use the processes established by the Freedom of Information Act 1982 to access personal information.  
@@ -87,4 +91,4 @@ NGV will provide you with access to personal information acquired or presented a
 
 Freedom of information requests should be made in writing, describing the documents requested. An application fee of $20 is required and other charges may apply to Freedom of Information requests. Charges other than the application fee may be waived if the request is a routine request or for access to a document related to the applicant's personal affairs. The application fee can be reduced or waived if the applicant would be caused hardship because he/she had to pay the fee.  
 
-Requests should be forwarded to the Chief Operating Officer, NGV PO Box 7259, Melbourne Vic 3002. 
+Requests should be forwarded to the Chief Operating Officer, NGV PO Box 7259, Melbourne VIC 8004 AUSTRALIA. 
