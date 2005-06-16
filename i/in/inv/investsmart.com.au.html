@@ -1,10 +1,7 @@
-<!--The following is the downloaded HTML source of the investsmart.com.au privacy policy that was archived on 2004-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204211355id_/http%3A//www.investsmart.com.au/terms_of_use/PrivacyPolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the investsmart.com.au privacy policy that was archived on 2005-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050616081438id_/http%3A//investsmart.com.au/terms_of_use/PrivacyPolicy.asp) for the most accurate reproduction.-->
 
-<html><head>
-<title>InvestSMART.com.au - Privacy Policy</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<script language="JavaScript">
+<html><head><script language="JavaScript">
 <!--
 function checkEmail(fieldName, emailStr, blnAllowBlank) {
 	if ((emailStr == "" || emailStr == null) && blnAllowBlank)
@@ -51,7 +48,9 @@ function checkEmail(fieldName, emailStr, blnAllowBlank) {
 	return true;
 }
 //  End -->
-</script><script language="JavaScript">
+</script>
+
+<script language="JavaScript">
 <!--
 function checkDecimals(fieldName, fieldValue, decimals) {
 
@@ -89,7 +88,9 @@ function checkDecimals(fieldName, fieldValue, decimals) {
 	return true;
 }
 //  End -->
-</script><script language="JavaScript">
+</script>
+
+<script language="JavaScript">
 <!--
 	function checkLength(varName, varValue, varMaxLength) {
 		if (varValue.length > varMaxLength) {
@@ -101,14 +102,226 @@ function checkDecimals(fieldName, fieldValue, decimals) {
 		return true;
 	}
 // -->
-</script></head>
+</script>
 
 
 
+<script language="JavaScript">
+<!--
+function PopupWindow2 (PopURL, PopName, PopWidth, PopHeight) {
+
+  NewWindow = window.open(PopURL, PopName, "width=" + PopWidth + ",height=" + PopHeight + ",status=no,toolbar=no,location=no,scrollbars=no,resizable=no,titlebar=no");
+  if (!((navigator.appName == "Microsoft Internet Explorer") && (navigator.appVersion.substring(0, 3) < "3")))
+  {
+    NewWindow.focus();
+  }
+}
+-->
+</script>
+
+<style type="text/css">
+
+/* These are the style specifications for the menu layers.
+   Set width to get more browsers corporation  */
+
+table.menuTable{
+  font-size:11px;
+  font-family:Arial,Verdana,Helvetica;
+  background-color:#FFCC00;
+  color:#000066;
+  BORDER-TOP   : #000066 1px solid;
+  BORDER-LEFT  : #000066 1px solid;
+  BORDER-RIGHT : #000066 1px solid;
+}
+
+table.menuTable td{
+  font-size:11px;
+  font-family:Arial,Verdana,Helvetica;
+  color:#000066;
+  BORDER-BOTTOM : #000066 1px solid;
+}
+
+
+div.menu  {
+  position:absolute;
+  visibility:hidden;
+  width:120px;
+  left:0;
+  top:0;
+  z-index:500;
+}
+
+</style>
+<script src="/includes/dw_viewport.js" type="text/javascript"></script>
+<script type="text/javascript">
+/*************************************************************************
+  This code is from Dynamic Web Coding at http://www.dyn-web.com/
+  Copyright 2003 by Sharon Paine
+  See Terms of Use at http://www.dyn-web.com/bus/terms.html
+  regarding conditions under which you may use this code.
+  This notice must be retained in the code as is!
+*************************************************************************/
+
+var menuSharesFunds = {
+  timer: null,
+  activeMenuID: null,
+  offX: 5,   // horizontal offset
+  offY: 2,   // vertical offset
+  show: function(itemCode, itemType, blnWatchList, e) {
+
+  var myDiv
+  // Shares Menu
+  if (itemType == 1)
+    {
+    id = "menuShares";
+    var WatchSharesRow = document.getElementById("menuSharesRow1");
+    if (!blnWatchList)
+       {
+       WatchSharesRow.style.display="none";
+       }
+    else
+       {
+       WatchSharesRow.style.display="";
+       }
+
+
+    myDiv= document.getElementById('menuSharesCell01');
+    myDiv.innerHTML = "<img src=\"/images/home/padlock.gif\" align=\"absmiddle\" width=\"12\" height=\"15\" border=\"0\">&nbsp;<a href=\"javascript: PopupWindow2('/my_watchlist/PopupAdd.asp?ItemType=1&ItemCode=" + itemCode + "', '_blank', 400, 150)\">Add to My Watchlist</a>"
+    myDiv= document.getElementById('menuSharesCell02');
+    myDiv.innerHTML = "<img src=\"/images/home/padlock.gif\" align=\"absmiddle\" width=\"12\" height=\"15\" border=\"0\">&nbsp;<a href=\"/company_profile/summary/default.asp?SecId=" + itemCode + "\" target=\"_blank\">Company Profile</a>"
+    myDiv= document.getElementById('menuSharesCell03');
+    myDiv.innerHTML = "&nbsp;<a href=\"javascript: PopupWindow('http://www.bourseinvestor.com/Cobrands/IS/pages/default.asp?asxcode=" + itemCode + "&siteid=is', '_blank', 676, 700)\">Prices and Charts</a>"
+    myDiv= document.getElementById('menuSharesCell04');
+    myDiv.innerHTML = "<img src=\"/images/home/padlock.gif\" align=\"absmiddle\" width=\"12\" height=\"15\" border=\"0\">&nbsp;<a href=\"/company_profile/consensus/default.asp?section=4&SecId=" + itemCode + "\" target=\"_blank\">Broker Consensus</a>"
+    myDiv= document.getElementById('menuSharesCell05');
+    myDiv.innerHTML = "<img src=\"/images/home/padlock.gif\" align=\"absmiddle\" width=\"12\" height=\"15\" border=\"0\">&nbsp;<a href=\"/company_profile/consensus/default.asp?section=5&SecId=" + itemCode + "\" target=\"_blank\">ASX Announcements</a>"
+    }
+  // Funds Menu
+  if (itemType == 2)
+    {
+    id = "menuFunds";
+    var WatchFundsRow = document.getElementById("menuFundsRow1");
+    if (!blnWatchList)
+       {
+       WatchFundsRow.style.display="none";
+       }
+    else
+       {
+       WatchFundsRow.style.display="";
+       }
+
+
+    myDiv= document.getElementById('menuFundsCell01');
+    myDiv.innerHTML = "<img src=\"/images/home/padlock.gif\" align=\"absmiddle\" width=\"12\" height=\"15\" border=\"0\">&nbsp;<a href=\"javascript: PopupWindow2('/my_watchlist/PopupAdd.asp?ItemType=2&ItemCode=" + itemCode + "', '_blank', 400, 150)\">Add to My Watchlist</a>"
+    myDiv= document.getElementById('menuFundsCell02');
+    myDiv.innerHTML = "<img src=\"/images/home/padlock.gif\" align=\"absmiddle\" width=\"12\" height=\"15\" border=\"0\">&nbsp;<a href=\"/funds/FundDetails.asp?APIRCode=" + itemCode + "\" target=\"_blank\">Fund Profile</a>"
+    }
 
 
 
-        <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#336699" vlink="#336699" alink="#336699" text="#000066">
+  var mnu = document.getElementById? document.getElementById(id): null;
+  if (!mnu) return;
+  this.activeMenuID = id;
+  if ( mnu.onmouseout == null ) mnu.onmouseout = this.mouseoutCheck;
+  if ( mnu.onmouseover == null ) mnu.onmouseover = this.clearTimer;
+  viewport.getAll();
+  this.position(mnu,e);
+  },
+
+  hide: function() {
+    this.clearTimer();
+    if (this.activeMenuID && document.getElementById)
+      this.timer = setTimeout("document.getElementById('"+menuSharesFunds.activeMenuID+"').style.visibility = 'hidden'", 200);
+  },
+
+  position: function(mnu, e) {
+    var x = e.pageX? e.pageX: e.clientX + viewport.scrollX;
+    var y = e.pageY? e.pageY: e.clientY + viewport.scrollY;
+
+    if ( x + mnu.offsetWidth + this.offX > viewport.width + viewport.scrollX )
+      x = x - mnu.offsetWidth - this.offX;
+    else x = x + this.offX;
+
+    if ( y + mnu.offsetHeight + this.offY > viewport.height + viewport.scrollY )
+      y = ( y - mnu.offsetHeight - this.offY > viewport.scrollY )? y - mnu.offsetHeight - this.offY : viewport.height + viewport.scrollY - mnu.offsetHeight;
+    else y = y + this.offY;
+
+    mnu.style.left = x + "px"; mnu.style.top = y + "px";
+    this.timer = setTimeout("document.getElementById('" + menuSharesFunds.activeMenuID + "').style.visibility = 'visible'", 400);
+  },
+
+  mouseoutCheck: function(e) {
+    e = e? e: window.event;
+    // is element moused into contained by menu? or is it menu (ul or li or a to menu div)?
+    var mnu = document.getElementById(menuSharesFunds.activeMenuID);
+    var toEl = e.relatedTarget? e.relatedTarget: e.toElement;
+    if ( mnu != toEl && !menuSharesFunds.contained(toEl, mnu) ) menuSharesFunds.hide();
+  },
+
+  // returns true of oNode is contained by oCont (container)
+  contained: function(oNode, oCont) {
+    if (!oNode) return; // in case alt-tab away while hovering (prevent error)
+    while ( oNode = oNode.parentNode )
+      if ( oNode == oCont ) return true;
+    return false;
+  },
+
+  clearTimer: function() {
+    if (menuSharesFunds.timer) clearTimeout(menuSharesFunds.timer);
+  }
+
+}
+</script>
+
+<!-- Shares popup Menu Layer  -->
+</head><body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#336699" vlink="#336699" alink="#336699" text="#000000"><div id="menuShares" class="menu">
+  <table width="100%" border="0" class="menuTable" cellpadding="3" cellspacing="0">
+    <tbody><tr id="menuSharesRow1"><td valign="middle" nowrap="" id="menuSharesCell01"></td></tr>
+    <tr id="menuSharesRow2"><td valign="middle" nowrap="" id="menuSharesCell02"></td></tr>
+    <tr id="menuSharesRow3"><td valign="middle" nowrap="" id="menuSharesCell03"></td></tr>
+    <tr id="menuSharesRow4"><td valign="middle" nowrap="" id="menuSharesCell04"></td></tr>
+    <tr id="menuSharesRow5"><td valign="middle" nowrap="" id="menuSharesCell05"></td></tr>
+  </tbody></table>
+</div>
+
+
+<!-- Funds popup Menu Layer  -->
+<div id="menuFunds" class="menu">
+  <table width="100%" border="0" class="menuTable" cellpadding="3" cellspacing="0">
+    <tbody><tr id="menuFundsRow1"><td valign="middle" nowrap="" id="menuFundsCell01"></td></tr>
+    <tr id="menuFundsRow2"><td valign="middle" nowrap="" id="menuFundsCell02"></td></tr>
+  </tbody></table>
+</div>
+
+
+<script language="javascript" type="text/javascript">
+<!--
+//*****************************************************
+function hideShow(id)
+  {
+  var el=document.getElementById(id);
+  if(el.style.display!="none")
+    {
+    el.style.display="none";
+    }
+  else
+    {
+    el.style.display="";
+    }
+  }
+  -->
+</script>
+
+
+
+<title>InvestSMART.com.au - Privacy Policy</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+
+<link rel="stylesheet" href="/style/investsmart_IE.css" type="text/css">
+
+
+        
    
 
 <a name="top">
@@ -136,7 +349,7 @@ function MM_showHideLayers() { //v6.0
 <!--
 function NewsletterPopup(){
 // Function to popup a new window for Newsletter Registration
-NewWindow = window.open("/registration/CasualMembershipPopup.asp","register","toolbar=no,width=555,height=580,screenY=30,screenX=30,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=no");
+NewWindow = window.open("/membership/popup.asp","register","toolbar=no,width=555,height=580,screenY=30,screenX=30,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=no");
 
 // Don't Do the Focus in IE 3
 if (!((navigator.appName == "Microsoft Internet Explorer") && (navigator.appVersion.substring(0, 3) < "3")))
@@ -151,14 +364,14 @@ if (!((navigator.appName == "Microsoft Internet Explorer") && (navigator.appVers
 <script language="JavaScript">
 <!--
 // *** LOAD CASCADING STYLE SHEETS ***
-if (navigator.appName.indexOf("Microsoft") != -1){
-document.write('<link rel="stylesheet" href="/style/investsmart_IE.css" type="text/css">')
-}
-else{
-document.write('<link rel="stylesheet" href="/style/investsmart_NS.css" type="text/css">')
-}
+//if (navigator.appName.indexOf("Microsoft") != -1){
+//document.write('<link rel="stylesheet" href="/style/investsmart_IE.css" type="text/css">')
+//}
+//else{
+//document.write('<link rel="stylesheet" href="/style/investsmart_NS.css" type="text/css">')
+//}
 //-->
-</script><link rel="stylesheet" href="/style/investsmart_NS.css" type="text/css">
+</script>
 
 <script language="JavaScript">
 <!--
@@ -210,8 +423,8 @@ function SearchBlur(field)
         <tbody><tr>
           <td width="252" align="left" valign="top"><img src="/images/home/investsmart_title.gif" width="252" height="80" alt="InvestSMART Financial Services Pty Ltd" border="0"></td>
           <td align="right" valign="middle">
-          <!-- OM Stratum  -->
-<a href="/funds/FundsInFocus.asp?Fund=OM_STRATUM"><img src="/banner_ads/OM_Stratum_Banner_1.gif" border="0" alt="OM Stratum"></a><img src="/images/common/blank.gif" width="5" height="1" border="0">
+          <!-- Equinox 6 -->
+<a href="/distributions/default.asp?id=98"><img src="/banner_ads/Equinox_6_Banner.gif" border="0" alt="Equinox 6"></a><img src="/images/common/blank.gif" width="5" height="1" border="0">
           </td>
         </tr>
       </tbody></table>
@@ -232,7 +445,7 @@ function SearchBlur(field)
                 <td width="100%" align="left" valign="top"><a href="/home/default.asp"><b class="leftNav">Home</b></a><br><img src="/images/home/dotted_line.gif" width="135" height="4" border="0"></td>
               </tr>
               <tr>
-                <td width="100%" align="left" valign="top"><a href="/registration/CasualMembership.asp"><b class="leftNav">Email Newsletter</b></a><br><img src="/images/home/dotted_line.gif" width="135" height="4" border="0"></td>
+                <td width="100%" align="left" valign="top"><a href="/membership/"><b class="leftNav">Email Newsletter</b></a><br><img src="/images/home/dotted_line.gif" width="135" height="4" border="0"></td>
               </tr>
               <tr>
                 <td width="100%" align="left" valign="top"><a href="/my_investsmart/"><b class="leftNav">My InvestSMART</b></a><br><img src="/images/home/dotted_line.gif" width="135" height="4" border="0"></td>
@@ -265,8 +478,8 @@ function SearchBlur(field)
       
             <br>
             <center>
-            <!-- NARHEX -->
-<a href="/shares/CompaniesInFocus.asp?Company=NARHEX"><img src="/banner_ads/Narhex_Tower.gif" border="0" alt="Narhex"></a>
+            <a href="/funds/FundsInFocus.asp?Fund=AMP_CHINA_2"><img src="/banner_ads/AMP_China_2_Tower.gif" border="0" alt="AMP China 2"></a>
+
 
             </center>
           </td>
@@ -313,7 +526,7 @@ function SearchBlur(field)
           }
         //-->
         </script>
-        <form method="post" action="/registration/CasualMembership.asp" name="QuickRegoTop" onsubmit="return QuickNewsletterSubmit(this);"></form>
+        <form method="post" action="/membership/default.asp" name="QuickRegoTop" onsubmit="return QuickNewsletterSubmit(this);"></form>
         <input type="hidden" name="salutation_id" value="1">
         <input type="hidden" name="first_name" value="">
         <input type="hidden" name="last_name" value="">
@@ -329,7 +542,7 @@ function SearchBlur(field)
         <input type="hidden" name="age_id" value="1">
         <input type="hidden" name="how_found_id" value="177">
         <input type="hidden" name="friends_email" value="">
-        <td height="20" align="left" valign="middle" class="topBar" nowrap=""><img src="/images/common/blank.gif" width="5" height="1" border="0">&nbsp;|&nbsp;<a href="/login/default.asp" class="navLink">Login</a>&nbsp;|&nbsp;<a href="/registration/CasualMembership.asp" class="navLink">FREE Membership</a>&nbsp;|&nbsp;&nbsp;</td>
+        <td height="20" align="left" valign="middle" class="topBar" nowrap=""><img src="/images/common/blank.gif" width="5" height="1" border="0">&nbsp;|&nbsp;<a href="/login/default.asp" class="navLink">Login</a>&nbsp;|&nbsp;<a href="/membership/" class="navLink">FREE Membership</a>&nbsp;|&nbsp;&nbsp;</td>
         <td height="20" align="left" valign="middle" class="topBar" nowrap=""><input type="text" name="primary_email" value="Enter Email for FREE Newsletter" size="27" maxlength="100" onclick="QuickNewsletterFocus(this);" onblur="QuickNewsletterBlur(this);">&nbsp;&nbsp;</td>
         <td width="98%" height="20" align="left" valign="middle" class="topBar" nowrap=""><input type="image" src="/images/home/search_go_button.gif" border="0" vspace="0" hspace="0"></td>
         
@@ -349,20 +562,27 @@ function SearchBlur(field)
 
 
 <!-- Header Ends -->
-
-
-<table width="100%" border="0" cellspacing="2" cellpadding="0">
+<table width="100%" border="0" cellspacing="2" cellpadding="0" class="headerBar">
   <tbody><tr>
-    <td width="21" height="21" align="center" valign="middle" class="headerBar"><img src="/images/lego_arrow.gif" width="21" height="21" border="0"></td>
-    <td width="100%" valign="middle" class="headerBar"><img src="/images/header_terms_of_use.gif" height="21" border="0" alt="Terms of Use" title="Managed Funds" align="absmiddle"></td>
+    <td width="21" align="center" valign="middle"><img src="/images/lego_arrow.gif" width="21" height="21" border="0"></td>
+    <td width="100%" valign="middle">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td class="plain" align="left" valign="middle" width="100%"><span class="PageHeading">Privacy Policy</span></td>
+          <td class="plain" align="right" valign="middle" nowrap=""><img src="/images/PageLinksSeparator.gif" align="absmiddle" width="15"><a href="/terms_of_use/PrivacyPolicy.asp?function=print&amp;" target="_blank" title="Displays a 'print-friendly' version of this page. Once displayed, print the page via your browser's normal print function.">Print</a><img src="/images/PageLinksSeparator.gif" align="absmiddle" width="15"><a href="/terms_of_use/PrivacyPolicy.asp" title="InvestSMART is committed to safeguarding your privacy online. Click here to view InvestSMART's Privacy Policy.">Privacy&nbsp;Policy</a><img src="/images/PageLinksSeparator.gif" align="absmiddle" width="15"><a href="mailto:admin@investsmart.com.au?subject=Feedback" title="We always welcome feedback. Please take the time to let us know of any suggestions, problems or general comments.">Feedback</a><img src="/images/blank.gif" align="absmiddle" width="10"></td>
+        </tr>
+      </tbody></table>
+    </td>
   </tr>
 </tbody></table>
+
+
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
     <td>
       <table width="100%" border="0" cellspacing="0" height="20" class="PageLinks">
         <tbody><tr>
-          <td width="10"><img src="/images/spacer.gif" width="10"></td>
+          <td width="10"><img src="/images/blank.gif" width="10"></td>
           <td bgcolor="#FFFFFF" nowrap="Yes"><a href="/terms_of_use/TermsAndConditions.asp" class="subitem">Terms&nbsp;&amp;&nbsp;Conditions&nbsp;of&nbsp;Use</a></td>
           <td bgcolor="#FFFFFF" width="15" class="subitem"><img src="/images/PageLinksSeparator.gif" width="15"></td>
           <td bgcolor="#FFFFFF" nowrap="Yes"><a href="/terms_of_use/PrivacyPolicy.asp" class="subitem_selected">Privacy Policy</a></td>
@@ -371,14 +591,7 @@ function SearchBlur(field)
           <td bgcolor="#FFFFFF" width="15" class="subitem"><img src="/images/PageLinksSeparator.gif" width="15"></td>
           <td bgcolor="#FFFFFF" nowrap="Yes"><a href="/terms_of_use/DisputeResolution.asp" class="subitem">Dispute Resolution</a></td>
           <td bgcolor="#FFFFFF" width="15" class="subitem"><img src="/images/PageLinksSeparator.gif" width="15"></td>
-
-          <td width="100%"><img src="/images/spacer.gif" width="10"></td>
-
-          <td bgcolor="#FFFFFF" width="15" class="subitem"><img src="/images/PageLinksSeparator.gif" width="15"></td>
-          <td bgcolor="#FFFFFF"><a href="/terms_of_use/PrivacyPolicy.asp?function=print&amp;" target="_blank" class="subitem">Print</a></td>
-          <td bgcolor="#FFFFFF" width="15" class="subitem"><img src="/images/PageLinksSeparator.gif" width="15"></td>
-          <td bgcolor="#FFFFFF"><a href="mailto:admin@investsmart.com.au?subject=Feedback" class="subitem">Feedback</a></td>
-          <td width="10"><img src="/images/spacer.gif" width="10"></td>
+          <td width="100%"><img src="/images/blank.gif" width="10"></td>
         </tr>
       </tbody></table>
     </td>
@@ -390,9 +603,8 @@ function SearchBlur(field)
 <table border="0" width="85%">
   <tbody><tr>
     <td align="left">
-      <p align="justify">
-      <b>InvestSMART is committed to safeguarding your privacy online.</b>
-      </p><p align="justify">InvestSMART Financial Services Pty Ltd (InvestSMART) has created this privacy statement in order to demonstrate our firm commitment to privacy. We value your trust, and aim to help you manage and build wealth over a long period. The protection of your personal information is a vital part of this relationship. It is supported by our I.T. systems and experience of keeping personal information confidential. The following discloses our information gathering and dissemination practices for this website: www.InvestSMART.com.au</p>
+      <p align="justify" class="heading">InvestSMART is committed to safeguarding your privacy online!</p>
+      <p align="justify">InvestSMART Financial Services Pty Ltd (InvestSMART) has created this privacy statement in order to demonstrate our firm commitment to privacy. We value your trust, and aim to help you manage and build wealth over a long period. The protection of your personal information is a vital part of this relationship. It is supported by our I.T. systems and experience of keeping personal information confidential. The following discloses our information gathering and dissemination practices for this website: www.InvestSMART.com.au</p>
       <p align="justify">InvestSMART will collect personal information about you to provide you with the products and services you request as well as information on other products and services offered by us. Such personally identifiable information may be collected from the registration process for subscription or services and in connection with content submissions such as in the 'Portfolio Manager', product requests or downloads, suggestions and transactional areas.</p>
       <p align="justify">Upon request, InvestSMART will allow you to "opt out" of further promotional contacts at any time.  However, notwithstanding any “opt out” of promotional information by you, InvestSMART reserves the right to contact you regarding your account status, changes to your subscriber agreement and other matters relevant to the underlying service and/or the information collected.</p>
       <p align="justify">InvestSMART reserves the right to perform statistical analyses of user behaviour and characteristics in order to measure interest in and use of the various areas of the site and to inform advertisers of such information as well as the number of users that have been exposed to or clicked on their advertising banners. InvestSMART will provide only aggregated data from these analyses to third parties.</p>
@@ -401,7 +613,7 @@ function SearchBlur(field)
       <p align="justify">Access to the database containing personal information is restricted to InvestSMART staff members with direct responsibility for customer service or management of the website. Authorised staff members are not allowed to pass on information about members to non-authorised staff without the express permission of the managing director.</p>
       <p align="justify">InvestSMART reserves the right to change this policy at any time by publishing on its website the existence of a new privacy statement. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.</p>
 
-      <p align="justify"><b>Choice/Opt-Out</b></p>
+      <p align="justify" class="heading">Choice/Opt-Out</p>
       <p align="justify">Our site provides users the opportunity to opt-out of receiving communications.</p>
 
       <p align="justify">This site gives users the following options for removing their information from our database:</p>
@@ -417,7 +629,7 @@ function SearchBlur(field)
       </p>
 
 <p align="justify">
-<a name="contact_us"><b>Contact Details</b></a>
+<a name="contact_us" class="heading">Contact Details</a>
 </p>
 <table border="0" width="70%">
 <tbody><tr>
@@ -521,7 +733,7 @@ function SearchBlur(field)
     <td width="100%" height="25" align="left" valign="top" class="darkBlue">
       <table width="100%" border="0">
         <tbody><tr>
-          <td width="50%" valign="top" align="left" nowrap="" class="copyright">© Copyright 1999-2004 InvestSMART Financial Services Pty Ltd<br>Australian Financial Services Licensee : AFSL # <a href="http://www.search.asic.gov.au/cgi-bin/gfs010c?LICNO=226435&amp;FORMID=licenceeroles&amp;ORIGIN=flb" target="_blank" class="copyrightLink">226435</a><br>ABN <a href="http://www.search.asic.gov.au/cgi-bin/gns030c?acn=089_038_531&amp;juris=9&amp;hdtext=ACN&amp;srchsrc=1" target="_blank" class="copyrightLink">70 089 038 531</a></td>
+          <td width="50%" valign="top" align="left" nowrap="" class="copyright">© Copyright 1999-2005&nbsp;InvestSMART Financial Services Pty Ltd<br>Australian Financial Services Licensee : AFSL # <a href="http://www.search.asic.gov.au/cgi-bin/gfs010c?LICNO=226435&amp;FORMID=licenceeroles&amp;ORIGIN=flb" target="_blank" class="copyrightLink">226435</a><br>ABN <a href="http://www.search.asic.gov.au/cgi-bin/gns030c?acn=089_038_531&amp;juris=9&amp;hdtext=ACN&amp;srchsrc=1" target="_blank" class="copyrightLink">70 089 038 531</a></td>
           <td width="50%" valign="top" align="right" nowrap="" class="copyright"><a href="/terms_of_use/TermsAndConditions.asp" class="copyrightLink">Terms &amp; Conditions of use</a> | <a href="/terms_of_use/PrivacyPolicy.asp" class="copyrightLink">Privacy Policy</a></td>
         </tr>
       </tbody></table>
