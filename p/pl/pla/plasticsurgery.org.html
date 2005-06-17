@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the plasticsurgery.org privacy policy that was archived on 2004-11-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041117083233id_/http%3A//www.plasticsurgery.org/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the plasticsurgery.org privacy policy that was archived on 2005-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050617180911id_/http%3A//www.plasticsurgery.org/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html xmlns:v="urn:schemas-microsoft-com:vml"><head>
 <title>Privacy</title>
@@ -16,233 +16,30 @@ var jsSiteID = 1;
 var jsSubSiteID = 1;
 var kurrentPageID = 1852;
 // -->
-</script><script language="JavaScript" src="/commonspot/nw-lame.js"></script>
+</script><script language="JavaScript" src="/commonspot/nw-netscape.js"></script>
 <link rel="stylesheet" href="/style/print.css" type="text/css" media="print">
 <script language="javascript" src="/templates/flash.js"></script>
+
+<style type="text/css">
+.commonspotmenu { padding-top:7;padding-left:0;padding-bottom:7;text-align:left;position:absolute;z-index:9;background-color:#C6C6C6; }
+.commonspotmenu a { background-color:#C6C6C6; }
+.commonspotmenu a:link {  background-color:#C6C6C6; }
+.commonspotmenu a:visited { background-color:#C6C6C6; }
+.commonspotmenu a:hover { background-color:#C6C6C6; }
+</style>
+
+<script language="JavaScript"> <!--
+
+var gShowKeywords = 0;
+var gHaveKeywords = 0;
+
+var js_userID=0;
+
+// -->
+</script>
+<!-- -->
 </head>
-<body lang="en" class="CS_Document"><a name="__topdoc__"></a><script language="JavaScript"><!--
-// always-include-ie.js  Copyright 1998-2003 PaperThin, Inc. All rights reserved.
-bName = navigator.appName;
-bVer = parseInt(navigator.appVersion);
-var bCanRollover=0
-if ((bName == "Netscape" && bVer >= 3) ||
-(bName == "Microsoft Internet Explorer" && bVer >= 4))
-bCanRollover=1;
-function ImageSet(imgID,newTarget)
-{
-if (bCanRollover)
-document[imgID].src=newTarget;
-}
-function clearStatus()
-{
-window.status = "";
-}
-function setStatbar(statbar)
-{
-var strStatbar=unescape(statbar);
-window.status=strStatbar;
-}
-function onLoadComplete()
-{
-if( menus_included == 1 )
-document.onmouseover = document_mouseover;	// defined in menu_ie.js
-}
-function HandleLink(parentID,link)
-{
-// links are in one of the following formats:
-// 		cpe_60_0,CP___PAGEID=100
-// 		CPNEWWIN:WindowName^params@CP___
-// 			CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2.cfm,1
-if( jsPageAuthorMode == 0 )
-{
-windowname = "";
-windowparams = "";
-// "CPNEWWIN:" & NewWindowName & "^" & params & "@" & linkStruct.LinkURL;
-pos = link.indexOf("CPNEWWIN:");
-if (pos != -1)
-{
-pos1 = link.indexOf ("^");
-windowname = link.substring (pos+9, pos1);
-pos2 = link.indexOf ("@");
-windowparams = link.substring (pos1 + 1, pos2);
-link = link.substring (pos2 + 1, link.length);
-}
-if (link.indexOf ("CP___") != -1)
-{
-if (windowname == "")
-window.location = jsDlgLoader + "?url=/commonspot/utilities/handle-link.cfm&thelink=" + link;
-else
-{
-urltoopen = jsDlgLoader + "?url=/commonspot/utilities/handle-link.cfm&thelink=" + link;
-windowparams = FormatWindowParams(windowparams);
-window.open (urltoopen, windowname, windowparams);
-}
-}
-else
-{
-if (windowname == "")
-window.location = link;
-else
-{
-windowparams = FormatWindowParams(windowparams);
-window.open (link, windowname, windowparams);
-}
-}
-}
-else if( jsSessionPreviewON == 1 )
-{
-previewLink(link);
-}
-else
-{
-if( document.all[parentID] )
-document.all[parentID].click();
-}
-}
-function doWindowOpen(href,name,params)
-{
-window.open (href, name, params);
-}
-// 	CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2.cfm,1
-function FormatWindowParams(windowparams)
-{
-if( windowparams.indexOf(":loc=") != -1 || windowparams.indexOf(":ww=") != -1 || windowparams.indexOf(":hh=") != -1 ||
-windowparams.indexOf(":left=") != -1 || windowparams.indexOf(":top=") != -1 )
-{
-windowparams = substringReplace(windowparams,':left=',',left=');
-windowparams = substringReplace(windowparams,'left=','left=');
-windowparams = substringReplace(windowparams,':ww=',',width=');
-windowparams = substringReplace(windowparams,'ww=','width=');
-windowparams = substringReplace(windowparams,':hh=',',height=');
-windowparams = substringReplace(windowparams,'hh=','height=');
-windowparams = substringReplace(windowparams,':loc=',',location=');
-windowparams = substringReplace(windowparams,'loc=','location=');
-windowparams = substringReplace(windowparams,':dir=',',directories=');
-windowparams = substringReplace(windowparams,'dir=','directories=');
-windowparams = substringReplace(windowparams,':tb=',',toolbar=');
-windowparams = substringReplace(windowparams,'tb=','toolbar=');
-windowparams = substringReplace(windowparams,':stat=',',status=');
-windowparams = substringReplace(windowparams,':mb=',',menubar=');
-windowparams = substringReplace(windowparams,':sb=',',scrollbars=');
-windowparams = substringReplace(windowparams,':rs=',',resizable=');
-}
-return windowparams;
-}
-function substringReplace(source,pattern,replacement)
-{
-var pos = 0;
-var target="";
-while ((pos = source.indexOf(pattern)) != (-1))
-{
-target = target + source.substring(0,pos) + replacement;
-source = source.substring(pos+pattern.length);
-pos = source.indexOf(pattern);
-}
-return (target + source);
-}
-// handle scheduled element links
-function show_sched_element(eid)
-{
-evalCol = String(self.element_collection);
-dispFlag = false;
-ua = navigator.userAgent.toLowerCase();
-if (bName == "Netscape" || ua.indexOf('aol') >= 0)
-{
-// cloned from always-include-ns.js
-tmp = "";
-if  (evalCol != 'undefined')
-{
-str = self.location.search;
-for(i=0;i<self.element_collection.length;i++)
-{
-sp = 'sched_elements_' + self.element_collection[i].id;
-if  (self.element_collection[i].id == eid)
-{
-dispFlag = true;
-if  (str == '')
-{
-tmp = "?forceElement=" + eid;
-self.location.search = tmp;
-}
-else
-{
-qArray = str.split("&");
-forceExists = false;
-for(i=0; i < qArray.length; i++)
-{
-el = qArray[i];
-qel = el.split('=');
-if  (qel.length == 1)
-qel[1] = '';
-if  (qel[0] == 'forceElement' || qel[0] == '?forceElement')
-{
-forceExists = true;
-qel[1] = eid;
-}
-qArray[i] = qel;
-}
-// reassemble
-searchStr = '';
-for (i=0; i < qArray.length; i++)
-{
-if  (i == 0)
-searchStr = qArray[i][0] + '=' + qArray[i][1];
-else
-searchStr = searchStr + '&' + qArray[i][0] + '=' + qArray[i][1];
-}
-if  (!forceExists)
-searchStr = searchStr + '&forceElement=' + eid;
-tmp = searchStr;
-self.location.search = searchStr;
-break;
-}
-}
-}
-}
-if  (!dispFlag)
-alert("You do not have access to the requested element.")
-}
-else
-{
-if ( evalCol != 'undefined' )
-{
-for(i=0;i<self.element_collection.length;i++)
-{
-sp = 'sched_elements_' + self.element_collection[i].id;
-obj = document.all.item(sp);
-//alert(sp);
-if ( self.element_collection[i].id == eid && obj != null)
-{
-dispFlag = true;
-if ( obj.length >= 0 )
-{
-for(z=0;z<obj.length;z++)
-{
-obj(z).style.display = 'block';
-}
-}
-else
-document.all(sp).style.display = 'block';
-}
-else if ( obj != null )
-{
-if ( obj.length >= 0 )
-{
-for(z=0;z<obj.length;z++)
-{
-obj(z).style.display = 'none';
-}
-}
-else
-document.all(sp).style.display = 'none';
-}
-}
-}
-if ( !dispFlag )
-alert("You do not have access to the requested element.")
-}
-}
-// --></script>
+<body onload="onLoadFinished();" lang="en" class="CS_Document"><a name="__topdoc__"></a><script language="JavaScript" src="/commonspot/ns-resize.js"></script><script language="JavaScript" src="/commonspot/pagemode/always-include-ns.js"></script>
 <script language="JavaScript"> <!--
 function glblLinkHandler(lobj, attr, val)
 {
@@ -406,7 +203,7 @@ If you have voluntarily provided personally identifiable information, ASPS may, 
 <span class="CS_Element_LinkBar"><div class="footer"><span class="CS_LinkBar_Item"><a href="/contact.cfm" onmouseover=" setStatbar('/contact.cfm');  return true;" onmouseout=" setStatbar('');  return true;" class="CS_LinkBar_Item">Contact Us</a></span><span class="CS_LinkBar_Separator">&nbsp;|&nbsp;</span><span class="CS_LinkBar_Item"><a href="/privacy.cfm" onmouseover=" setStatbar('/privacy.cfm');  return true;" onmouseout=" setStatbar('');  return true;" class="CS_LinkBar_Item">Privacy</a></span><span class="CS_LinkBar_Separator">&nbsp;|&nbsp;</span><span class="CS_LinkBar_Item"><a href="/disclaimer.cfm" onmouseover=" setStatbar('/disclaimer.cfm');  return true;" onmouseout=" setStatbar('');  return true;" class="CS_LinkBar_Item">Disclaimer</a></span></div></span>
 </td>
 <td class="footer"><span class="CS_Element_Textblock"><div id="1852-1091"><span class="CS_Element_Textblock"><span class="CS_Generic_Text"><span class="CS_Textblock_Text"><div class="footer">Surgeon Referral Service 1.888.4 PLASTIC</div></span></span></span></div></span></td>
-<td class="footer" align="right"><span class="CS_Element_Textblock"><div id="1852-1092"><span class="CS_Element_Textblock"><span class="CS_Generic_Text"><span class="CS_Textblock_Text"><div class="footer"><div align="right">All Materials 2004 ASPS/PSEF&nbsp;</div></div></span></span></span></div></span></td>
+<td class="footer" align="right"><span class="CS_Element_Textblock"><div id="1852-1092"><span class="CS_Element_Textblock"><span class="CS_Generic_Text"><span class="CS_Textblock_Text"><div class="footer"><div align="right">All Materials 2005 ASPS/PSEF&nbsp;</div></div></span></span></span></div></span></td>
 </tr>
 </tbody></table>
 </td></tr>
