@@ -1,110 +1,130 @@
-> *The following text is extracted and transformed from the vicroads.vic.gov.au privacy policy that was archived on 2004-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040804100209id_/http%3A//www.vicroads.vic.gov.au/vrne/vrninte.nsf/docandvp/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vicroads.vic.gov.au privacy policy that was archived on 2005-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050618005305id_/http%3A//www.vicroads.vic.gov.au/vrne/vrnav.nsf/alltitle/Privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
-| 
+|  |  | 
 
-**Privacy Statement**  
+ 
+
+****VicRoads Website Privacy Statement** **
+
+**This statement sets out our policy in relation to your privacy and our website services.**
+
+VicRoads is committed to protecting your privacy. Any personal information collected, handled, stored or disclosed about you through our on-line services shall be managed in accordance with the Road Safety Act 1986, Information Privacy Act 2000 and the Health Records Act 2001.Personal information means information or an opinion that is recorded about an individual whose identify is apparent, or can reasonably be ascertained, from the information or opinion.
+
+**Anonymity**
+
+You can access our website without disclosing your personal information. However, certain functions within our website, such as change of address, feedback or the ordering of material from the on-line bookshop may require the disclosure of personal information.
+
+**Collection and use of Personal information**
+
+We only collect and record personal information that is provided directly to us that is necessary for us to perform our functions or activities. Personal information is collected for example in the following situations:   
 
 
-|  | 
+  * when you send us an email;   
 
-**Privacy Statement**  
+  * when you use our on-line services, such as completing a form electronically or paying fees online;  
 
+  * when you register as a site user;  
+
+  * when you provide feedback. 
 
   
-VicRoads is committed to protecting your privacy. We are required by law to protect personal, health and other confidential information such as information relating to your driver licence and vehicle registration. 
+**When you send us an e-mail** Your e-mail address will be recorded and used solely for the purpose for which you have provided it. It will not be disclosed, added to a mailing list or used for any other purpose without your consent. 
 
-**VicRoads Website privacy statement**
+**When you use our on-line services, such as completing a form electronically or paying fees on-line.**
+
+Our on-line services are managed by a service provider. Our service provider may access the personal information entered in these forms in order to process electronic transactions or to resolve a technical problem. 
+
+**When you register as a site user**
+
+If you register as a user of the following on-line services:   
+
+
+  * [Vehicle Securities Register](https://web.archive.org/web/20050618005305id_/http%3A//www.vicroads.vic.gov.au/vrne/vrnav.nsf/LinkView/3C91754096CB5630CA256F1E0083C87B3CA95D21C995085BCA256F2A00225664)
+  * [Written-off Register](https://web.archive.org/web/20050618005305id_/http%3A//www.vicroads.vic.gov.au/vrne/vrnav.nsf/LinkView/3C91754096CB5630CA256F1E0083C87B3CA95D21C995085BCA256F2A00225664)
+  * [Vehicle Registration – Dealer on-line](https://web.archive.org/web/20050618005305id_/http%3A//www.vicroads.vic.gov.au/vrne/vrnav.nsf/LinkView/3C91754096CB5630CA256F1E0083C87B3CA95D21C995085BCA256F2A00225664)
+  * [Vehicle Information Package](https://web.archive.org/web/20050618005305id_/http%3A//www.vicroads.vic.gov.au/vrne/vrnav.nsf/LinkView/7852503EC13CEC21CA256F1F00160CFA3CA95D21C995085BCA256F2A00225664)
+  * [Driver and Licence Status](https://web.archive.org/web/20050618005305id_/http%3A//www.vicroads.vic.gov.au/vrne/vrnav.nsf/LinkView/31A9CC05C88077F4CA256F1F000CEF0B3CA95D21C995085BCA256F2A00225664)
+  * [Fleet Registration Scheme](https://web.archive.org/web/20050618005305id_/http%3A//www.vicroads.vic.gov.au/vrne/vrnav.nsf/LinkView/4FD102ACF9166397CA256F1F00078A573CA95D21C995085BCA256F2A00225664)
 
   
-VicRoads is committed to protecting your privacy. We are required by law to protect personal and confidential information such as information relating to your driver licence and vehicle registration. This statement sets out our website privacy policy and deals with matters specifically relating to website and electronic transmission privacy issues.Whenever we collect, handle, store, use or disclose information about you at our website, we aim to comply with all legal requirements that apply to privacy, particularly the Information Privacy Act 2000.In this Policy, 'personal information' means information or an opinion (including information in a database) about an individual whose identity is apparent or can reasonably be ascertained.Our website may contain links to other websites. We are not responsible for the privacy practices or the content of any sites linked to our website.
+you can download the relevant **User Application Form** from the on-line services page **above** , complete, sign and forward as directed. The form outlines the user responsibility, authorisation and the meaning of confidentiality. To protect your own privacy, all passwords are to be kept confidential, and must not be displayed, shared or written down.
+
+**Technical Information**
+
+We collect technical information through the usage of click stream data for statistical purposes. Cookies are used to understand site usage and usability, but, we do not use web beacons.  
+
+
+  * **Click stream data**
+
+When you visit our on-line services, VicRoads makes a record of your visit. The following information, referred to as 'click stream data' in computer language, is logged by our server:   
+
+
+  * your server address;   
+
+  * your top level domain name (for example, .com, .gov, .au, .uk, etc);   
+
+  * the date and time you visited our website or completed the on-line transaction;   
+
+  * the pages you accessed and documents you downloaded;   
+
+  * the type of browser you are using; and   
+
+  * the address of the referring site (that is, the previous site you visited).  
+
+
+All of this information is collected for statistical purposes to enable us to assess the number of visitors to the different sections of our site, determine what information is most and least used and help us make our site more useful to visitors. We do not actively seek to identify you. However, in the unlikely event of an investigation, a law enforcement agency may exercise a warrant to inspect our server's logs.  
+
+
+  * **Use of Cookies**
+
+When you visit our site, our server may generate a cookie. A cookie is a small piece of information (a text file) that a web server can place temporarily on your hard drive or web browser. It is used by your browser to identify the pages that you have visited on our site.   
+A cookie is uniquely yours and can only be read by the server that gave it to you.   
+
+
+  * **Why are Cookies used?**
+
+We use cookies to understand site usage and to improve the content and usability of our sites. We do not use cookies to collect personal information. Cookies, alone, do not reveal your e-mail address or other personal information. You choose to provide this information by, for example, registering at our site. The information you provide may be linked to the data stored in the cookie.  
+
+
+  * **Use of Web Beacons**
+
+Our site does not currently use Web Beacons.   
+
+
+  * **What is a Web Beacon?**
+
+A web beacon is an often-transparent graphic image that is placed on a site (or in an e-mail) and when used in combination with cookies, can monitor the behaviour of the user visiting the site (or sending the e-mail). The type of information collected might include the Internet Protocol address of the computer that retrieved the image, the time the web beacon was viewed and for how long, the type of browser that retrieved the image and previously set cookie values.
+
+_Web beacons are also known as Web bugs, pixel tags or clear GIFs._
 
 **Security of electronic transmissions**
 
-VicRoads has implemented comprehensive technology and security measures and policies to protect personal information you may transmit to our website. However, while VicRoads makes all attempts to secure the information you may transmit to this site, the nature of electronic transmissions is such that there is a possibility that a third party may observe this information whilst it is in transit.VicRoads gives you the option of providing this information by other means. You may, for example, provide the relevant information by telephone or by paper mail.
+We take reasonable steps to secure the information transmitted to our on-line services. However, the nature of electronic transmissions is such that there is the possibility that a third party may observe this information whilst it is in transit. You may prefer to provide information by telephone or paper mail or in person.
 
-**Information logged**
+**External Links**
 
-When you visit our website, our server makes a record of your visit. The following information, referred to as 'click stream data' in computer language, is logged by our server:
+When accessing external links provided on our site, it is recommended that you read the site-owners’ privacy statement before disclosing your personal information. We do not accept responsibility for inappropriate use, collection, storage or disclosure of your personal information outside of our site. 
 
-  * · your server address;
-  * · your top level domain name (for example, .com, .gov, .au, .uk, etc);
-  * · the date and time you visited our website;
-  * · the pages you accessed and documents you downloaded;
-  * · the type of browser you are using; and
-  * · the address of the referring site (that is, the previous site you visited).
+**Access and correction**
 
-  
-All of this information is collected for statistical purposes which enables us to assess the number of visitors to the different sections of our site, determine what information is most and least used and help us make our site more useful to visitors. We do not make any attempt to identify you or your browsing activities. However, in the unlikely event of an investigation, a law enforcement agency may exercise a warrant to inspect our server's logs.
-
-**Cookies**
-
-When you visit our website, our server generates one cookie which is used for having your browser remember the pages you have visited on our website.   
-  
-A cookie is a small piece of information (a text file) which a web server can place temporarily on your hard drive or web browser. A cookie is uniquely yours and can only be read by the server that gave it to you. The purpose of a cookie is to tell the server that you returned to that web page or website.We use cookies to understand site usage and to improve the content and useability of our sites. We do not use cookies to collect personal information. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at our site. However, once you choose to provide the site with personally identifiable information, this information may be linked to the data stored in the cookie.
-
-**E-mail - collection of personal information**
-
-We only record personal information that you provide directly to us. Generally, we only collect personal information about you in the following situations:
-
-  * · you register as a site user;
-  * · you send us an email;
-  * · you use our online services, such as completing a form electronically or paying fees online.
-
-  
-We will only record your e-mail address if you send us an e-mail message. Your e-mail address will be used only for the purpose for which you have provided. We will not add your e-mail address to a mailing list, unless you have provided your consent for us to do so. We will not use your e-mail address for any other purpose and will not disclose it without your consent.We will ask you when we need you to provide further personal information for any reason. Generally, we will only collect further personal information that is related to the services that you ask us to provide to you.We may collect search terms that you enter when searching our site, but these are not associated with any other information that we collect. We use these search terms to ascertain what people are looking for at our site, and to improve the services that we provide.
-
- **VicRoads General Privacy Statement**
-
-  
-VicRoads is committed to protecting your privacy. We are required by law to protect personal, health and other confidential information such as information relating to your driver licence and vehicle registration. 
-
-This statement summarises VicRoads policies for the management of personal, health and other confidential information.
-
-  * We cannot collect, use or disclose information of a personal nature, health information or information that is commercially sensitive, except to the extent set out in the Road Safety Act 1986, the Information Privacy Act 2000, and the Health Records Act 2001. Our staff are trained in their obligations under these Acts. 
-  * We will only collect information about you, that is necessary for us to perform our functions. We will always try to do so in a fair, lawful and non-intrusive way. Wherever possible, we will collect information directly from you rather than from third parties. We will do our best to tell you if we collect information about you from a third party.
-  * When we collect information from you we will tell you why we are collecting it, any law that requires it to be collected, the organisations or type of organisations to whom we would usually disclose it, the consequences for you if the information is not provided to us and will inform you of your rights to have access to the information. 
-  * We are prohibited from using or disclosing personal or commercially sensitive information obtained under the Road Safety Act, such as driver licence or vehicle registration information, except for purposes permitted by the Act. We are also prohibited from using or disclosing health information except in limited circumstances set out in the Health Records Act.
-
-  
-For example, we are allowed to use information about you:
-
-– for the purposes of driver licensing and vehicle registration
-
-– for law enforcement purposes, including legal proceedings, prosecutions, investigations and enforcement of judgements and court orders (the information may also be disclosed to appropriate organisations or personnel for the same reasons)
-
-– for public safety purposes.
-
-Other examples of permitted use include disclosure of the information to:
-
-– other State government or Territory road or traffic authorities for the purposes of exchanging vehicle and driver information
-
-– the manufacturer or supplier of vehicles in connection with vehicle safety recalls
-
-– the Transport Accident Commission
-
-  * Aside from where the law specifically allows us to use or disclose personal or health information, we will not do so, without your consent, for purposes which are unrelated to the purposes for which we collected the information.
-  * We do everything we can to make sure that the information we hold about you is accurate, complete and up to date. We are required under the Public Records Act to hold some records for extended periods. We will not keep information longer than we need to. From time to time we check our databases to ensure that the information we hold is accurate and up to date.
-  * Access to our computer systems is controlled and monitored. Our staff and authorised external users only have access to systems that their duties require. We have comprehensive auditing procedures to prevent and detect fraud. 
-  * Our computer systems uniquely identify individual users to ensure that access is appropriately authorised. Transactions involving information of a personal nature that can be audited are traceable to an individual VicRoads officer. 
-  * Our Internet privacy policy is contained on our website privacy statement located at www.vicroads.vic.gov.au
-  * An individual or organisation (such as an enforcement agency), seeking access to personal, health and other confidential information held by VicRoads has to sign a confidentiality agreement. When entering into an agreement, the recipient agrees that the information will only be used and disclosed in accordance with the terms and conditions outlined in the agreement. However, if you authorise us in writing to release the personal information to another individual or organisation, then a confidentiality agreement is not required. 
-  * If you ask us, we will generally give you access to information we hold about you. However, there are some exceptions to this. For example, we do not have to give you access to personal information we hold about you where doing so would pose a serious and imminent threat to life or health, would unreasonably impact on the privacy of others or where the information would otherwise be exempt from disclosure by law. We do not have to give you access to health information that is supplied to us in confidence in some circumstances.
-  * We may from time to time transfer personal, health or other confidential information about you to organisations in other States and Territories. We are permitted to exchange registration and licensing information with other State and Territory road authorities, and for some other purposes that are set out in the Road Safety Act. In other cases, we will only do this where you consent, where we believe that the recipient organisation is subject to binding privacy obligations that are substantially similar to the ones under which we operate, or where it is in your interests for us to do so.
-  * We thoroughly investigate any suspected infringements of privacy. Our anti-fraud unit develops fraud prevention strategies to identify procedural and systems weaknesses and develops and delivers anti-fraud and corruption awareness programs. Disciplinary action is taken in cases where investigations of suspected infringements of privacy are proven. 
-
-  
 If you:
 
-  * want to have access to personal or health information we hold about you
-  * want to know more about what sort of information we hold, for what purposes and how we deal with that information
-  * have concerns that we may have infringed your privacy rights, you should contact: 
+  * want to have access to the personal information (if any) that we hold about you;  
+
+  * want to know more about what sort of information we hold, for what purposes and how we deal with that information; or  
+
+  * have concerns about your privacy rights, please contact us.
+
+
+
+**How to Contact Us**
 
 The Information Privacy Co-ordinator  
 Level 5, 60 Denmark Street  
-Kew Victoria 3101  
-Tel: 13 11 71
+Kew, Victoria 3101  
+Telephone: 13 11 71To access our **General Privacy Policy** please access this document via the attached .pdf file below -  
   
-If you would like to download a copy of our Privacy brochure click on the attached icon [](https://web.archive.org/vrne/vrninte.nsf/3fc0ae634a52fcf44a256b03000e479b/cb4cde3d9acc2466ca256e590006e354/$FILE/privacy5.pdf)   
-Last updated on 16/03/2004   | 
+[](https://web.archive.org/vrne/vrnav.nsf/61485ddb792d19f94a256c4300825724/e5d2d5388755d939ca256f7300078c43/$FILE/privacy5.pdf)(.pdf 37Kb) [](https://web.archive.org/CA256EC8001F455F/\(CopyrightsbyKey\)/6A4E4BDB6BCED8F4CA256E9E00216997)   
+Last updated on 23/12/2004 | 
