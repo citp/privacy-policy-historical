@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plasticsurgery.org privacy policy that was archived on 2004-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041117083233id_/http%3A//www.plasticsurgery.org/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plasticsurgery.org privacy policy that was archived on 2005-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050617180911id_/http%3A//www.plasticsurgery.org/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy
 
