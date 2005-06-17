@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrodate.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204103842id_/http%3A//www.metrodate.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrodate.com privacy policy that was archived on 2005-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050617202401id_/http%3A//www.metrodate.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Statement for Metrodate.com
 
@@ -74,6 +74,6 @@ Willow Grove, PA 19090-1742
 [Click here](https://web.archive.org/asp/help.asp) to contact us online  
 
 
-Copyright 1998 - 2004   
+Copyright 1998 - 2005   
 Metrodate.com  
 
