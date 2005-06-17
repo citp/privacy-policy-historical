@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carsales.com.au privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208070405id_/http%3A//carsales.com.au/pls/carsales/%21cs_content.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsales.com.au privacy policy that was archived on 2005-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050618004744id_/http%3A//www.carsales.com.au/pls/carsales/%21cs_content.privacy) for the most accurate reproduction.*
 
 # Privacy Policy : carsales.com.au
 
@@ -54,15 +54,8 @@ All information received from browsers is stored in a secure (see security) form
 
 If you send us an email we will use your personal information to respond to your request. 
 
-**SMS Advertising messages**  
-carsales.com.au may send you an SMS message to advertise our services. How did we obtain your mobile phone number? We send messages to mobile phone numbers that are copied from classified advertisements which were most likely published in newspapers or magazines. The advertising messages that we send are for services directly related to your advertisement. 
-
+**SMS Messages**  
 We do not purchase or sell lists of mobile phone numbers. 
-
-**Opting out from SMS messages**  
-If you have received an SMS message from us, you can opt out by replying to the message. Each SMS message contains instructions about how to opt out. When you reply to our message, we receive your reply as an email and will opt you out from further SMS messages upon receipt. If you opt out from our SMS messages we will not send another message to your mobile number unless you give us approval to do so. 
-
-We believe that our processes comply with the strict requirements of Australian Privacy and Anti Spam legislation. 
 
 **Can I access my personal information that I have previously given to carsales.com.au Limited?**  
 Yes you can. You can request access to all of your personal information held in the secure carsales.com.au Ltd. database. We endeavour to ensure your information is true and correct at all times. Upon request, we can make adjustments and update your details to reflect correct data. 
@@ -83,15 +76,13 @@ Location: | Level 2, 810 Whitehorse Road, Box Hill VIC 3128
 Postal Address:    | PO Box 643, Box Hill VIC 3128  
 Phone: | +61 (03) 8803 3000 (Business Hours EST)  
 Contact: | Patricia Chalmers  
-Email: | [Click](https://web.archive.org/web/20041208070405id_/http%3A//carsales.com.au/pls/carsales/!cs_content.contact) on the "contact us" link at the bottom of this page  
+Email: | [Click](https://web.archive.org/web/20050618004744id_/http%3A//www.carsales.com.au/pls/carsales/!cs_content.contact) on the "contact us" link at the bottom of this page  
   
 We will try our best to answer any queries as quickly as possible.
 
 1 | "OPT OUT" is the description of a link on an email which when clicked enables the customer to request that their data no longer be included for this use.  
 ---|---  
   
-*carsales.com.au Ltd operates websites including [www.carsales.com.au](http://www.carsales.com.au/), [www.bikesales.com.au](http://www.bikesales.com.au/), [www.quicksales.com.au](http://www.quicksales.com.au/), 
-
-[www.autogate.com.au](http://www.autogate.com.au/) and pages on other websites that may publish our content. 
+*carsales.com.au Ltd operates websites including [www.carsales.com.au](http://www.carsales.com.au/), [www.bikesales.com.au](http://www.bikesales.com.au/), [www.quicksales.com.au](http://www.quicksales.com.au/), [www.uniquecarsales.com.au](http://www.uniquecarsales.com.au/), [www.autogate.com.au](http://www.autogate.com.au/) and pages on other websites that may publish our content. 
 
 **Return to Top**
