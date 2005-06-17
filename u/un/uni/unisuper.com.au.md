@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unisuper.com.au privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402105140id_/http%3A//unisuper.com.au/AboutUniSuper/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unisuper.com.au privacy policy that was archived on 2005-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050617232040id_/http%3A//www.unisuper.com.au/AboutUniSuper/privacy.cfm) for the most accurate reproduction.*
 
-# UniSuper - Privacy
+# Privacy Statement
 
 Personal Information Privacy Policy
 
