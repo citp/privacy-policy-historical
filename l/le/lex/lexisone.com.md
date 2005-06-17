@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the lexisone.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208001300id_/http%3A//www.lexisnexis.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexisone.com privacy policy that was archived on 2005-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050617120931id_/http%3A//www.lexisnexis.com/terms/privacy) for the most accurate reproduction.*
 
 # LexisNexis Privacy Notice
 
-|   
-  
----  
   
 **Effective July 21, 2004  
 **
@@ -83,9 +80,9 @@ You can request a copy of the personally-identifiable information that LNG has c
 
 **How to Contact Us**
 
-If you would like to contact us for any reason regarding our privacy practices, please write or e-mail us at the following address:
+If you would like to contact us for any reason regarding our privacy practices, please write us at the following address:
 
-Sophie Olt, Privacy Information Manager, c/o LexisNexis Group, P.O. Box 933 Dayton, OH 45401, or at 1-800-831-2578. 
+Privacy Information Manager, c/o LexisNexis, P.O. Box 933 Dayton, OH 45401, or call us at 1-800-831-2578. 
 
 << Back to top  
 
