@@ -1,16 +1,15 @@
-> *The following text is extracted and transformed from the traditionalhome.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204083501id_/http%3A//www.traditionalhome.com/html/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traditionalhome.com privacy policy that was archived on 2005-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050617083122id_/http%3A//www.traditionalhome.com/html/privacypolicy.htm) for the most accurate reproduction.*
 
 # Traditional Home Magazine®
 
   
-|  [ ](https://web.archive.org/web/20041204083501id_/http%3A//www.traditionalhome.com/html/inthisissue.htm)  
+  
+| [ ](https://web.archive.org/web/20050617083122id_/http%3A//www.traditionalhome.com/html/inthisissue.htm)  
 ---  
-[ ](https://web.archive.org/web/20041204083501id_/http%3A//www.traditionalhome.com/html/ppp.htm)  
+[ ](https://web.archive.org/web/20050617083122id_/http%3A//www.traditionalhome.com/html/ppp.htm)  
 [ ](https://secure.bhg.com/bhg/store/checkout/partner/?promoCode=I201PDF11&site=bhg)  
 [ ](http://www.traditionalhome.com/mediakit/)  
-[ ](http://www.interiors.org/designerservice/)  
-[ ](https://web.archive.org/web/20041204083501id_/http%3A//www.traditionalhome.com/html/weardated.htm)  
-[](https://web.archive.org/web/20041204083501id_/http%3A//www.traditionalhome.com/html/recipesNov.htm)  
+[ ](https://web.archive.org/web/20050617083122id_/http%3A//www.traditionalhome.com/html/dyson.htm)  
 |  |  |     
 
 
