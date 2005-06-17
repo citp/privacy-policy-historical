@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the nexis.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203085300id_/http%3A//www.lexisnexis.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexis.com privacy policy that was archived on 2005-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050617120931id_/http%3A//www.lexisnexis.com/terms/privacy) for the most accurate reproduction.*
 
 # LexisNexis Privacy Notice
 
   
-**Effective December 15, 2000  
+**Effective July 21, 2004  
 **
 
 **Our Commitment To Privacy**
@@ -50,7 +50,7 @@ In each of the instances above, we typically ask for your name, e-mail address, 
 **How We Use Information:  
 LNG only uses your personal information for specific purposes.  
 **  
-The personal information you provide to us when using our Web Site, such as your name, postal or e-mail address or telephone number will be kept confidential and used to support your customer relationship with LNG, and to notify you of special offers, updated information and new products and services from LNG, or offers from third parties that we think may be of interest to you. Agents or contractors of LNG who are given access to your personal information will be required to keep the information confidential and not use it for any other purpose than to carry out the services they are performing for LNG.
+The personal information you provide to us when using our Web Site, such as your name, postal or e-mail address or telephone number will be kept confidential and used to support your customer relationship with LNG, and to notify you of special offers, updated information and new products and services from LNG, offers from third parties that we think may be of interest to you, or used by LNG or third parties for the purpose of conducting market research or surveys on behalf of LNG. Agents or contractors of LNG who are given access to your personal information will be required to keep the information confidential and not use it for any other purpose than to carry out the services they are performing for LNG.
 
 LNG may enhance or merge your information collected at its Web Site with data from third parties for purposes of marketing products or services to you.
 
@@ -80,9 +80,9 @@ You can request a copy of the personally-identifiable information that LNG has c
 
 **How to Contact Us**
 
-If you would like to contact us for any reason regarding our privacy practices, please write or e-mail us at the following address:
+If you would like to contact us for any reason regarding our privacy practices, please write us at the following address:
 
-Sophie Olt, Privacy Information Manager, c/o LexisNexis Group, P.O. Box 933 Dayton, OH 45401, or at [ Privacy.Information.Mgr@lexisnexis.com](mailto:Privacy.Information.Mgr@lexisnexis.com). 
+Privacy Information Manager, c/o LexisNexis, P.O. Box 933 Dayton, OH 45401, or call us at 1-800-831-2578. 
 
 << Back to top  
 
