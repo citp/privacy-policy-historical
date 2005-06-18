@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anz.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208131143id_/http%3A//anz.com/australia/support/general/Privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anz.com privacy policy that was archived on 2005-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050618075342id_/http%3A//anz.com/australia/support/general/Privacystatement.asp) for the most accurate reproduction.*
 
 # ANZ Web Site Privacy and Security Statement
 
@@ -52,39 +52,40 @@ Where you access a Third Party website from the ANZ website, cookie information,
 
 Third Party websites should contain their own privacy statements and those third parties are responsible for their own privacy practices. 
 
-ANZ uses Doubleclick International Asia BV to deliver its online advertising where ANZ banner advertisements are placed on Third Party websites ("Advertising Company"). 
+ANZ uses Doubleclick International Asia BV to deliver its online advertising where ANZ banner advertisements are placed on Third Party websites ('Advertising Company'). 
 
-When you view an ANZ advertisement on a Third Party website, the Advertising Company uses "cookies" and in some cases "web beacons" to collect information such as: 
+When you view an ANZ advertisement on a Third Party website, the advertising company uses 'cookies' and in some cases 'web beacons' to collect information such as: 
 
-  * the server your computer is logged onto; 
-  * your browser type; and 
-  * the date and time of your visit, 
+  * The server your computer is logged onto. 
+  * Your browser type. 
+  * The date and time of your visit.
+  * The performance of their marketing efforts.
 
 
 
-and to track the performance of their marketing efforts. When you access the ANZ website after viewing an ANZ advertisement on a Third Party website, the Advertising Company collects information on how you utilise the ANZ website (eg which pages you view) and whether you complete an online application. 
+When you access the ANZ website after viewing an ANZ advertisement on a Third Party website, the advertising company collects information on how you utilise the ANZ website (eg which pages you view) and whether you complete an online application. 
 
 In addition, ANZ also uses the following companies to collect information on how you utilise the ANZ website: 
 
-  * RedSheriff Limited 
-  * Memetrics Pty Ltd 
+  * Nielsen//NetRatings 
+  * Memetrics Pty Ltd
 
 
 
-("Tracking Companies"). These Tracking Companies also use cookies to collect information similar to that collected by the Advertising Company. 
+('tracking companies'). These tracking companies also use cookies to collect information similar to that collected by the advertising company. 
 
-The Advertising Company and Tracking Companies ("Companies") use that information to perform statistical analyses of aggregate user behaviour, but those analyses are not based on personal information. ANZ uses those analyses to measure advertising effectiveness and relative consumer interest in the various areas of the ANZ website. As a general rule, no personal information is collected by the Companies in this process. If, however, any personal information is incorporated in information that the Companies automatically collect, these Companies are required under their arrangements with ANZ to maintain the privacy and confidentiality of that personal information. 
+The advertising company and tracking companies ('companies') use that information to perform statistical analyses of aggregate user behaviour, but those analyses are not based on personal information. ANZ uses those analyses to measure advertising effectiveness and relative consumer interest in the various areas of the ANZ website. As a general rule, no personal information is collected by the Companies in this process. If, however, any automatically collected, these companies are required under their arrangements with ANZ to maintain the privacy and confidentiality of that personal information. 
 
 We may disclose the information collected by a Company, in an aggregate form only, to third parties including advertisers or potential advertisers. 
 
-You can opt-out of DoubleClick cookies. This opt-out is applicable to DoubleClick tracking your current browser throughout DoubleClick’s network of websites, including the ANZ website. 
+You can opt-out of DoubleClick cookies. This opt-out is applicable to DoubleClick tracking your current browser throughout DoubleClick's network of websites, including the ANZ website. 
 
-You can find out further information in relation to RedSheriff, the RedSheriff auditing system, and RedSheriff’s privacy policy by visiting the RedSheriff website. 
+Find out more about Nielsen//NetRatings. 
 
 You can access the Privacy Statements from the Companies here: 
 
-  * RedSheriff 
-  * Memetrics 
+  * Nielsen//NetRatings 
+  * Memetrics
 
 
 
@@ -97,7 +98,7 @@ ANZ uses cookies for two different purposes. We allocate a cookie to each Intern
   * to allocate an ANZ identification number to your Internet browser (but we cannot identify you from this number); 
   * to determine if you have previously visited the ANZ website; 
   * to identify pages you have accessed and Third Party websites you have accessed; and 
-  * for security purposes. 
+  * for security purposes.
 
 
 
@@ -109,7 +110,7 @@ ANZ also uses cookies for secure services (that is, an area where you are requir
 
   * ANZ Internet Banking; 
   * _runningmybusiness_ ; 
-  * Online applications; 
+  * Online applications;
 
 
 
