@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the luhs.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204042021id_/http%3A//www.luhs.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luhs.org privacy policy that was archived on 2005-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050618082240id_/http%3A//www.luhs.org/privacy.htm) for the most accurate reproduction.*
 
 # Loyola Univ. Health Sys. - Privacy Policy
 
 | 
 
-[](https://web.archive.org/web/20041204042021id_/http%3A//www.luhs.org/index.cfm)
+[](https://web.archive.org/web/20050618082240id_/http%3A//www.luhs.org/index.cfm)
 
 |   
 ---|---  
 | 
 
-You are here: [Home](https://web.archive.org/web/20041204042021id_/http%3A//www.luhs.org/index.cfm) > Privacy Policy 
+You are here: [Home](https://web.archive.org/web/20050618082240id_/http%3A//www.luhs.org/index.cfm) > Privacy Policy 
 
 **Privacy Policy**
 
@@ -99,18 +99,18 @@ luhsweb@lumc.edu
 
 
 
-Please see our [Terms and Conditions](https://web.archive.org/web/20041204042021id_/http%3A//www.luhs.org/terms.htm) for other information governing your use of the LUHS web sites.  
+Please see our [Terms and Conditions](https://web.archive.org/web/20050618082240id_/http%3A//www.luhs.org/terms.htm) for other information governing your use of the LUHS web sites.  
   
 ---  
   
 www.luhs.org - Maywood, IL  
-Last reviewed: Mar. 30, 2004  
+Last reviewed: Jan. 5, 2005  
   
 | 
 
-[Home](http://www.luhs.org/index.cfm) | [Children's Hospital](http://www.lumc.edu/rmch/) | [Jobs/Volunteer](http://www.luhs.org/jobs) | [E-mail and Phone](http://www.luhs.org/contact.cfm) | [News Room](http://www.lumc.edu/templates/luhs/newsrelease/reportentry.cfm) | [Site Map](https://web.archive.org/web/20041204042021id_/http%3A//www.luhs.org/sitemap.htm)  
-[myLoyola](http://www.myloyola.luhs.org/) | [Loyola University](http://www.luc.edu/) | [Contact Us](https://web.archive.org/web/20041204042021id_/http%3A//www.luhs.org/comments.htm) | [About this Site](https://web.archive.org/web/20041204042021id_/http%3A//www.luhs.org/about/site_manage.htm) | [loyola.wired](http://www.luhs.org/internal)
+[Home](http://www.luhs.org/index.cfm) | [Children's Hospital](http://www.lumc.edu/rmch/) | [Jobs/Volunteer](http://www.luhs.org/jobs) | [E-mail and Phone](http://www.luhs.org/contact.cfm) | [News Room](http://www.lumc.edu/templates/luhs/newsrelease/reportentry.cfm) | [Site Map](https://web.archive.org/web/20050618082240id_/http%3A//www.luhs.org/sitemap.htm)  
+[myLoyola](http://www.myloyola.luhs.org/) | [Loyola University](http://www.luc.edu/) | [Contact Us](https://web.archive.org/web/20050618082240id_/http%3A//www.luhs.org/comments.htm) | [About this Site](https://web.archive.org/web/20050618082240id_/http%3A//www.luhs.org/about/site_manage.htm) | [loyola.wired](http://www.luhs.org/internal)
 
-[©1995-2004 Loyola University Health System. All rights reserved. ](http://www.luhs.org/terms.htm#disclaimer)  
-[Disclaimer](https://web.archive.org/web/20041204042021id_/http%3A//www.luhs.org/terms.htm#disclaimer) | [Terms and conditions](https://web.archive.org/web/20041204042021id_/http%3A//www.luhs.org/terms.htm) | [Privacy Policy](https://web.archive.org/web/20041204042021id_/http%3A//www.luhs.org/privacy.htm)   
+[©1995-2005 Loyola University Health System. All rights reserved. ](http://www.luhs.org/terms.htm#disclaimer)  
+[Disclaimer](https://web.archive.org/web/20050618082240id_/http%3A//www.luhs.org/terms.htm#disclaimer) | [Terms and conditions](https://web.archive.org/web/20050618082240id_/http%3A//www.luhs.org/terms.htm) | [Privacy Policy](https://web.archive.org/web/20050618082240id_/http%3A//www.luhs.org/privacy.htm)   
 
