@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alz.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204101221id_/http%3A//www.alz.org/aboutsite.asp%23sapp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alz.org privacy policy that was archived on 2005-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050618081220id_/http%3A//www.alz.org/aboutsite.asp%23sapp) for the most accurate reproduction.*
 
 # About This Site
 
@@ -49,12 +49,11 @@ Back to top
 
 Linking policy
 
-Web site managers should request permission to link to the Alzheimer’s Association Web site by writing to [weblink@alz.org](mailto:weblink@alz.org). 
+When linking to the Alzheimer’s Association Web site, Web managers should be aware that the Alzheimer’s Association brandmark and sub-brandmarks are not available for posting or replication on third party Web sites without a formal legal or financial agreement with the Association. 
 
-The Alzheimer’s Association reserves the right to determine sites to which it will link. Due to the volume of requests submitted and Alzheimer’s Association policies, requests for reciprocal links are limited.
+The Alzheimer’s Association is not responsible for information or advice provided by others, including those we link to from this site.
 
-The Alzheimer’s Association is not responsible for information or advice provided by others, including those we link to from this site.  
-
+Please direct any questions to [weblink@alz.org](mailto:weblink@alz.org).
 
 Back to top
 
@@ -156,9 +155,9 @@ _(Photo courtesy of ONEgeneration Day Care)_
 
   * [Home page (Researcher with Slide)](https://web.archive.org/overview.asp)
 
-  * [About Us > Leadership and Strategy](https://web.archive.org/AboutUs/Leadership/overview.asp)
+  * [About Us > Leadership and Strategy](https://web.archive.org/aboutus/overview.asp)
 
-  * [Care Partners > Day-to-Day Care](https://web.archive.org/Care/daytodaycare.asp)
+  * [Caregivers > Day-to-Day Care](https://web.archive.org/Care/daytodaycare.asp)
 
   * [Research > Reason to Hope](https://web.archive.org/Research/overview.asp)
 
