@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the petro-canada.ca privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223181314id_/http%3A//www.petro-canada.ca/eng/misc/5588.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petro-canada.ca privacy policy that was archived on 2005-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050618080049id_/http%3A//www.petro-canada.ca/eng/misc/5588.htm) for the most accurate reproduction.*
 
-# Petro-Canada - Privacy Policy
+# Petro-Canada Privacy Policy
 
   |  |    
   |  | [Home](https://web.archive.org/index.htm) » Privacy Policy  
 ---  
 |     
 ---  
+   
    
   
 | Petro-Canada Privacy Policy  
