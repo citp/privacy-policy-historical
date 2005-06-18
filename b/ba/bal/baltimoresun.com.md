@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baltimoresun.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208221907id_/http%3A//www.baltimoresun.com/about/bal-sunspot-privacy.htmlstory) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baltimoresun.com privacy policy that was archived on 2005-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050619014414id_/http%3A//www.baltimoresun.com/about/bal-sunspot-privacy%2C0%2C6752642.htmlstory) for the most accurate reproduction.*
 
 # baltimoresun.com - Privacy Policy
 
@@ -16,7 +16,7 @@ How we collect and store information depends on the page you are visiting, the a
 
 We will use your information only as permitted by law. Aggregated Information (information that does not personally identify you) may be used in many ways. As one example, we may combine information about your usage patterns with similar information obtained from other users to learn which pages are visited most or what features are most attractive. Aggregated Information may occasionally be shared with our advertisers and business partners, but cannot be used to contact you individually.
 
-We also collect information to enhance your visit and deliver more individualized content and advertising. For example, we may use Personally Identifiable Information collected on baltimoresun.com to communicate with you regarding our [Terms of Service](https://web.archive.org/about/bal-sunspot-agreement.htmlstory) and privacy policy, products and services offered by baltimoresun.com and other Tribune Company affiliates and partners, administration of sweepstakes and contests, processing e-commerce transactions and other topics we think you might find of interest. We reserve the right to share this information with other Tribune Company business units and affiliates, including for example our affiliated newspapers and entities in which Tribune Company has an ownership interest (collectively, "Affiliates"). This policy does not apply to any Affiliate's use of such information.
+We also collect information to enhance your visit and deliver more individualized content and advertising. For example, we may use Personally Identifiable Information collected on baltimoresun.com to communicate with you regarding our [Terms of Service](https://web.archive.org/about/bal-sunspot-agreement,0,1121220.htmlstory) and privacy policy, products and services offered by baltimoresun.com and other Tribune Company affiliates and partners, administration of sweepstakes and contests, processing e-commerce transactions and other topics we think you might find of interest. We reserve the right to share this information with other Tribune Company business units and affiliates, including for example our affiliated newspapers and entities in which Tribune Company has an ownership interest (collectively, "Affiliates"). This policy does not apply to any Affiliate's use of such information.
 
 Personally Identifiable Information collected by baltimoresun.com may also be used for other purposes including but not limited to site administration and troubleshooting. Certain third parties who provide technical support for the operation of our site (our Web hosting service and our newsletter provider, for example) may access such information.
 
@@ -68,4 +68,8 @@ In the event case of any conflict between the terms of this policy and the terms
   
 
 
-Enter to win tickets to movies, concerts, festivals, sporting events and more. This month's featured contest: Baltimore Blast tickets. Learn more about events sponsored by The Baltimore Sun and baltimoresun.com, including the Health & Fitness Expo. This month's featured section: Holiday Gift Guide. Purchase press plates of _Sun_ front pages and logo merchandise. 
+[](http://www.baltimoresun.com/extras/contests)  
+Enter to win tickets to movies, concerts, festivals, sporting events and more. [](https://web.archive.org/services/newspaper/events)  
+Learn more about events sponsored by The Baltimore Sun and baltimoresun.com, including Baltimore's best darn yard sale. [](https://web.archive.org/extras/ads/special_sections)  
+This month's featured section: Unisun. [](http://www.uniquespecialtiesstores.com/Merchant2/merchant.mv?Screen=SFNT&Store_Code=SS)  
+Purchase press plates of _Sun_ front pages and logo merchandise. 
