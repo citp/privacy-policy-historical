@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grist.org privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206064133id_/http%3A//www.grist.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grist.org privacy policy that was archived on 2005-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050618084047id_/http%3A//www.grist.org/about/privacy) for the most accurate reproduction.*
 
 # Grist Magazine | Privacy Policy
 
@@ -121,8 +121,8 @@ Sign up for **free environmental news** by email.
 
 New in Grist ...
 
-[Coal Position](https://web.archive.org/news/muck/2004/12/03/little-coal/index.html), in Muckraker. "Clean coal" might do some good, if the Bush admin. would fund it.
+[Just Breathe](https://web.archive.org/news/counter/2005/06/17/latino/index.html), in Counter Culture. Facts and figures on air quality and Latino health in the U.S.
 
-[Swimming With Parks](https://web.archive.org/comments/interactivist/2004/11/29/parks/index1.html), in InterActivist. Ocean conservationist John Emory Parks tells you how to help the planet.
+[City City Bang Bang](https://web.archive.org/news/maindish/2005/06/15/little-nickels/index.html), by Amanda Griscom Little. An interview with Seattle Mayor Greg Nickels on his pro-Kyoto cities initiative.
 
-[Urine Trouble](https://web.archive.org/advice/ask/2004/12/02/umbra-catpee/index.html), in Ask Umbra. With a cat-pee-covered comforter and an aversion to dry cleaning, what to do?
+[Shore Losers](https://web.archive.org/comments/soapbox/2005/06/15/kay-coastal/index.html), by Jane Holtz Kay. U.S. leaders and citizens shouldn't turn their backs on impending coastal chaos.
