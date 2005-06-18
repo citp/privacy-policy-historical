@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gardeners.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011204301id_/http%3A//www.gardeners.com/CustomerService/privacy.asp%3FcmLA%3DBottomNavNew%7CPrivacyNew) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardeners.com privacy policy that was archived on 2005-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050618084300id_/http%3A//www.gardeners.com/CustomerService/privacy.asp) for the most accurate reproduction.*
 
-# Gardener's Supply Company: /customerservice/privacy.asp
+# /customerservice/privacy.asp, Gardener's Supply Company
 
 At Gardener’s Supply we recognize and respect the importance of maintaining your privacy and keeping your online order secure. This Privacy Policy and Security Statement describes why we gather customer and site visitor information, what information we collect, how we collect it and how we use the information as well as how we keep your order secure. This Privacy Policy and Security Statement is part of our [Terms of Use](https://web.archive.org/CustomerService/termsOfUse.asp), which governs your use of gardeners.com. By using gardeners.com you agree to this Privacy Policy and Security Statement and Terms of Use. 
 
@@ -25,6 +25,10 @@ Gardener’s Supply Company
 Burlington, VT 05401  
 Attn: Data Entry  
 Fax. 1-800-551-6712
+
+Third Party Cookies
+
+Gardener's Supply Company has contracted with Omniture Inc. ("Omniture"), to track and analyze website usage and volume satistical information from our visitors and customers. All data collected by Omniture on our behalf is owned and used soley by us to administer and constantly improve the quality of our website. To accomplish this, Omniture uses cookie technology to help track summarized visitor behavior. These cookies will be listed under the domain 207.net. For Omniture's privacy policy, please visit [www.omniture.com/policy.html](http://www.omniture.com/policy.html). You can opt-out of Omniture tracking or chose to opt in anonymously by visiting [www.omniture.com/privacy/optout.html](http://www.omniture.com/privacy/optout.html).
 
 How do we use the information we collect about you? 
 
