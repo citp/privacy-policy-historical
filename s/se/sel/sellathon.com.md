@@ -1,14 +1,21 @@
-> *The following text is extracted and transformed from the sellathon.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204204500id_/http%3A//www.sellathon.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellathon.com privacy policy that was archived on 2005-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050618030415id_/http%3A//sellathon.com/pp.html) for the most accurate reproduction.*
 
-# Sellathon™ Privacy Policy
+# Sellathon ™
 
+|  |   
+|  |  |   
+---  
+  
 Sellathon™ is committed to protecting your privacy. 
 
 Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
 
-We collect information about you for 3 reasons: firstly, to process your order; second, to provide you with the best possible service when using our products and services; and third, to ensure that you are only one with access to your auction statistics.
+Below you'll find specific information regarding the manner in which we collect and store information.  
+  
+  
+**Purpose:**
 
-Below you'll find specific information regarding the manner in which we collect and store information.
+We collect information about you for 3 reasons: firstly, to process your order; second, to provide you with the best possible service when using our products and services; and third, to ensure that you are only one with access to your auction statistics.
 
 **Registering:**
 
@@ -45,3 +52,6 @@ We may disclose personal information when required by law or in the good-faith b
 **Notice of New Services and Changes:**
 
 Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. As our customer, you will be given the opportunity to notify us of your desire not to receive these offers by sending a request to the email address that will appear at the bottom of such emails, specifically for that purpose.
+
+  
+
