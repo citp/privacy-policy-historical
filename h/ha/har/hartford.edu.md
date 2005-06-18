@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hartford.edu privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204120654id_/http%3A//www.hartford.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hartford.edu privacy policy that was archived on 2005-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050618083405id_/http%3A//www.hartford.edu/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Web Privacy Policy | University of Hartford
 
-**COMMITMENT TO YOUR PRIVACY**
+**Commitment to Your Privacy**
 
 This site is owned and operated by the University of Hartford. Your privacy on the Internet is of the utmost importance to us. At the University of Hartford, we want to make your online experience as satisfying and safe as possible.
 
@@ -13,7 +13,7 @@ Under no circumstances does the University of Hartford divulge any information a
 
 
 
-**INFORMATION THE UNIVERSITY OF HARTFORD GATHERS AND TRACKS**
+**Information the University of Hartford Gathers and Tracks**
 
 University of Hartford gathers two types of information about visitors:
 
@@ -64,7 +64,7 @@ You can refuse cookies by turning them off in your browser. If you've set your b
 
 
 
-**USE OF INFORMATION**
+**Use of Information**
 
 The University of Hartford uses any information voluntarily given by our visitors to enhance their experience in our network of sites, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our visitors.
 
@@ -77,21 +77,21 @@ The University of Hartford creates aggregate reports on user demographics and tr
 
 
 
-**SHARING OF THE INFORMATION**
+**Sharing of the Information**
 
 The University of Hartford uses the above-described information to tailor our content to suit your needs. We will not share information about individual visitors with any third party, except to comply with applicable law or valid legal process or to protect the personal safety of our visitors or the public.
 
 
 
 
-**SECURITY**
+**Security**
 
 The University of Hartford operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers.
 
 
 
 
-**OPT-OUT POLICY**
+**Opt-Out Policy**
 
 We give visitors opt-out options wherever necessary and practical. Such choices include:
 
@@ -103,7 +103,7 @@ We give visitors opt-out options wherever necessary and practical. Such choices 
 
 
 
-**YOUR CONSENT**
+**Your Consent**
 
 By using this site, you consent to the collection and use of this information by the University of Hartford. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
