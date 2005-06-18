@@ -1,62 +1,61 @@
-> *The following text is extracted and transformed from the yachtworld.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210131822id_/http%3A//yachtworld.com/globalnav/privacy.html.en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yachtworld.com privacy policy that was archived on 2005-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050618084728id_/http%3A//yachtworld.com/globalnav/privacy.cgi.en) for the most accurate reproduction.*
 
 # YachtWorld.com
 
-The YachtWorld.com Web site ("Web site") is owned and operated by boats.com, Inc. ("Boats"). The following privacy statement describes the practices of Boats with respect to the collection, maintenance and disclosure of information on the Web site. If you have any questions about this privacy statement, please contact [cs@yachtworld.com](mailto:cs@yachtworld.com) for more information.
+**YachtWorld.com Privacy Statement (Revised October 2004)**
 
-**Information Collected**   
-This Web site offers services to marine professional individuals such as vessel brokers and dealers who want either to sell boats, as well as to site visitors who want to buy boats. Our membership program is created for marine professional individuals. To participate in the membership program a member, on his/her own behalf or on behalf of his/her company, is required to submit certain information about the company and personal information about the contact person within the company. The personal information required is a contact name, and postal and e-mail addresses. The provision of this personal information is not optional and by not submitting the requested information we will not be able to provide members with the services they wish to obtain on the Web site.
+The YachtWorld.com Web site ("Web site") is owned and operated by Trader Publishing Company ("Trader", "YachtWorld.com", "We", "us", "our"). This Web site offers services to (i) marine professionals such as vessel brokers and dealers (and their employees) that have signed a service agreement ("Member"), and (ii) a consumer or an individual who visits the Web site but is not a Member of the Web site ("Site Visitor"). 
 
-To list a boat to find a broker, site visitors must complete the requested forms. By virtue of these forms we collect a limited amount of personal information such as: (i) name, and (ii) postal and e-mail addresses. The provision of this personal information is not optional and by not submitting the requested information we will not be able to provide site visitors with the services they wish to obtain on this Web site. Through the requested forms we also solicit the provision of non-personal information about boats and other details.
+**The following privacy statement describes the practices of the Web site with respect to the collection, maintenance and disclosure of information received from Site Visitors only. THIS PRIVACY STATEMENT DOES NOT APPLY TO MEMBERS, WHO BY DEFINITION, USE THIS SITE FOR BUSINESS PURPOSES. This privacy statement also does not apply to the off-line collection of information by YachtWorld.com.**
 
-To improve services and the quality of the Web site as well as our site visitors' experience on the Web site, we conduct surveys and contests among site visitors that request the provision of personal information such as name and e-mail address as well as non-personal information regarding the site visitor's experience on the Web site. Participation in the surveys and contests and the corresponding submission of personal information is optional. 
+If you have any questions about this privacy statement, please contact [policies@yachtworld.com](mailto:policies@yachtworld.com) for more information. 
 
-To keep site visitors informed with respect to new listings of boats on the Web site we offer the Personal Boat Shopper feature, which is an e-mailing list service. In order to provide this e-mailing list service we collect e-mail addresses from site visitors who want to participate in the Personal Boat Shopper. The provision of information in the form of e-mail is not optional if a site visitor chooses to participate in the e-mailing list service.
+**Information Collected:**
 
-To apply for a job with us a site visitor might send a resume for our consideration. We collect information provided in the resume.
+> YachtWorld.com is the sole owner of the information collected on this site. YachtWorld.com collects information at several different points on this Web site as discussed below: 
+> 
+> **Personal Boat Shopper:** To keep Site Visitors informed with respect to new listings of boats on the Web site we offer the Personal Boat Shopper feature, which is an e-mailing list service. In order to provide this e-mailing list service we collect e-mail addresses from Site Visitors who want to participate in the Personal Boat Shopper. The provision of information in the form of e-mail is not optional if a Site Visitor chooses to participate in the e-mailing list service. 
+> 
+> **Sell Your Boat:** In lieu of selecting a broker to list their boat for sale, Site Visitors selling a boat and desiring to attract the attention of an interested broker can provide some basic information about the boat they are selling for subsequent viewing by Members in the Members-only site, www.boatwizard.com. To list a boat to attract a Member, Site Visitors must complete the requested forms. By virtue of these forms we collect a limited amount of personal information such as: (i) name, and (ii) postal and e-mail addresses. The provision of this personal information is not optional and by not submitting the requested information, Site Visitors will not be able to attempt to post their information through this Web site. Through the requested forms we also solicit non-personal information about the boat the Site Visitor desires to sell. 
+> 
+> **Surveys and Contests:** To improve services and the quality of the Web site as well as our Site Visitors' experience on the Web site, we conduct surveys and contests among Site Visitors that request the provision of personal information such as name and e-mail address as well as non-personal information regarding the Site Visitor's experience on the Web site. Participation in the surveys and contests and the corresponding submission of personal information is optional. 
+> 
+> **Job Applications:** To apply for a job with us, Site Visitors may send a resume for our consideration. We collect information provided in the resume. 
+> 
+> **Emails to a YachtWorld.com Member:** Site Visitors may communicate directly with a Member from the Member's YachtWorld.com website. The Member may custom build an email form requesting specific information from the inquiring Site Visitor, including but not limited to name, email, phone, address, and other information including boat of interest, boat owned and any other pertinent information. The Member may designate this information as required or optional. we may keep a copy of these communications for systems management, tracking and reporting purposes, we have no control over what is done with the information collected by the Member through the Member's website. 
+> 
+> **Boating Yellow Pages:** Site Visitors may desire information from companies who have listings in the YachtWorld.com Boating Yellow Pages. We may keep a copy of these communications. We have no control over what is done with the information collected by the company with a listing in the Boating Yellow Pages, as volunteered by the Site Visitor. 
+> 
+> **Web logs:** We collect non-personal information such as an IP address, the web address of the page viewed, the referring page address, and the browser information of Site Visitors in order to count page views on our site for traffic information purposes. 
+> 
+> **Cookies:** We use cookies, which are small text files that are stored on the Site Visitors computer, to gather and keep track of information related to Site Visitors, to recognize Site Visitors when they visit our Web site, to personalize their experience and generally to serve Site Visitors better. For example a Site Visitors address or ZIP code information entered through one of our forms, can tell us what region-specific advertising the Site Visitor should see on our site. Cookies also help us review site traffic patterns and improve the site. 
+> 
+> **Web Beacons:** We set a web beacon (a single-pixel invisible image) on web pages and some of our HTML-formatted emails. We may use web beacons for a number of purposes, such as to count visitors to our web pages, to monitor how our Site Visitors navigate our site, or to count how many newsletters or emails we sent were actually opened. Additionally, third parties that serve ads or content on this Web site or within our emails may use web beacons. We do not have control over web beacons used by these third parties. 
+> 
+> **Email to YachtWorld.com Staff:** When Site Visitors send an email to a department or staff person, the email may or may not be saved for future reference, and may or may not be forwarded to third parties. 
 
-**Use of  
-Personal Information Collected**   
-Personal information collected on the Web site is used primarily for the purposes it is requested. For example, contact information such as name, e-mail and postal addresses of a prospective member is used to inform him/her whether his/her application for membership has been approved, or whether a broker contacts a site visitor who listed a vessel in search of an interested broker, or to provide the site visitor with the Personal Boat Shopper messages. 
+**Disclosure of Personal Information Collected:**
 
-We use non-personal information such as aggregate demographic data and information about our members' companies and boats to analyze and develop our marketing strategy and to determine how site visitors found out about us, our site visitors' interests regarding our services and how to further improve the Web site based upon these data.
+> In order to use this site you do not need to provide any personal information, but where you do volunteer to provide personal information, we may disclose the following information to affiliated third parties such as other web sites owned and operated by YachtWorld.com and to nonaffiliated third parties such as marketing companies, vessel brokers, vessel dealers and builders. The disclosed information may include data entered through one of our forms, through cookies, web beacons and web logs such as a Site Visitors name, address, email address, other contact information, boat information, boat category, engine information, boat accessories and options and information about the Site Visitors transactions and experiences with companies related to YachtWorld.com. 
+> 
+> We use non-personal information such as aggregate demographic data and information about our boats to analyze and develop our marketing strategy and to determine how Site Visitors found out about us, our Site Visitors' interests regarding our services and how to further improve the Web site based upon these data. 
+> 
+> We may employ third parties to perform functions on our behalf. Examples of these functions include, without limitation, sending emails or other communications on our behalf or providing promotional or marketing assistance. These third parties may have access to our Site Visitors' personal information in order to provide these services to us or on our behalf. 
+> 
+> We may disclose personal information about our Site Visitors when legally required to do so, at the request of governmental authorities, or to verify or enforce compliance with the policies governing the Web site and applicable laws. We may also disclose Site Visitors' personal information where we believe disclosure is necessary to limit our legal liability or to protect the safety or enforce the rights of our Site Visitors. 
+> 
+> We may sell, transfer or otherwise disclose Site Visitors' information in connection with a corporate merger, consolidation, the sale of substantially all assets, or other fundamental corporate change. 
 
-We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the requirements of the law or comply with a legal process served on the Web site. 
+**Partners:** Some of our partners offer services on the Web site. To provide services, our partners collect personal information from Site Visitors. We exercise great care in choosing our partners but we neither control nor are we responsible for our partners' information collection practices. Site Visitors should view our partner's privacy statement to make an informed decision whether to provide personal information. 
 
-**Partners**   
-Some of our partners offer services on the Web site. To provide services our partners collect personal information from site visitors. We exercise great care in choosing our partners but we neither control nor are we responsible for our partners' information collection practices. Every time our partners request the provision of information, site visitors will be notified that a different privacy policy applies, and site visitors will be granted an opportunity to review our partner's privacy policy to make an informed decision whether to provide personal information.
+**Correcting/Updating Personal Information:** If a Site Visitor's personal information changes, we have provided a way to correct, update or remove personal information. Site Visitors can have their personal information updated, changed or removed by contacting a customer service representative at [cs@yachtworld.com](mailto:cs@yachtworld.com). 
 
-_continued next column_ |  _continued from previous column_
+**Links to Other Web Sites:** The Web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of other sites that we link to. We encourage Site Visitors to be alert when they leave the Web site and to review the privacy statements of each and every Web site that they visit before disclosing personal information. 
 
-**Correcting/Updating  
-Personal Information**   
-If a site visitor or member's personal information changes, or if a member no longer desires our service, we have provided a way to correct, update or remove personal information. Site visitors or members can have their personal information updated, changed or removed by contacting a customer service representative at [cs@yachtworld.com](mailto:cs@yachtworld.com).
+**Security:** Please note that we do not guarantee the security of any personal information you transmit to us and you do so at your own risk. If you have any questions about the security at the Web site, you can send an e-mail message to [policies@yachtworld.com](mailto:policies@yachtworld.com). 
 
-**Forums**   
-Forums are very popular informative discussion opportunities for our site visitors, and for our members, a members-only discussion opportunity. Please note, however, any information a forum visitor posts in a forum session becomes public information. Exercise caution when you decide to disclose personal information in forum sessions because all site visitors will have access to this information. Members are also advised to exercise caution when deciding to disclose personal information in the members-only forum, because all members will have access to this information.
+**Children's Use of Web site:** We do not knowingly acknowledge or accept orders, registrations or requests for any goods or services from persons under the age of 13. If it comes to our attention that a request has come from a person under the age of 13, we will not respond to such a request. Instead we will delete any information provided by that child. 
 
-**Cookies**   
-We use cookies, which are small text files that are stored on the site visitor's computer, to gather and keep track of information related to the site visitor.  Cookies also help us review the Web site traffic patterns and improve our Web site. Although many Web site browsers are set to accept cookies, a site visitor can set his/her Web browser to reject cookies, but this may prevent the site visitor from using some of the convenience features of the Web site. Non-personal information collected through cookies is in no way linked to any personally identifiable information.
+**Notification of Changes:** It is the Site Visitors responsibility to follow our privacy link, so Site Visitors are always aware of our current practices. There will always be a link to our privacy statement on our home page so that Site Visitors are always aware of our current information collection, maintenance and disclosure practices. Each update is noted with the last updated date. If our privacy practices change in way that would allow us to use non-public personal information in a manner not previously allowed by the terms of our privacy statement, Site Visitors will have an opportunity to choose whether to let us use their non-public personal information in the newly proposed manner. 
 
-**Log Files**   
-We use IP addresses to analyze trends, administer the site, track site visitors' movements, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
-
-**Links to Other Web Sites**   
-The Web site contains links to other sites. Please be aware that Boats is not responsible for the privacy practices of such other sites. We encourage site visitors to be alert when they leave the Web site and to review the privacy statements of each and every Web site that they visit before disclosing personal information. This privacy statement applies solely to information collected on this Web site. 
-
-If you have any questions about the security at the Web site, you can send an e-mail message to [cs@yachtworld.com](mailto:cs@yachtworld.com). 
-
-**Children's Use of Web site**   
-The YachtWorld.com site is suitable for viewing by all members of your family. In fact, we know that some site visitors call on the talents of young people to assist in searching for a boat to buy. This section also includes certain guidelines from the Children's Online Privacy Protection Act of 1998.
-
-For the protection and privacy of children, we seriously discourage unsupervised persons under the age of 13 from posting messages to any forum on YachtWorld.com. Further, we encourage parental guidelines that match ours with respect to our forums. This guideline protects children and their privacy.
-
-We do not knowingly acknowledge or accept orders, registrations or requests for any goods or services from persons under the age of 13. If it comes to our attention that a request has come from a person under the age of 13, we will not respond to such a request. Instead we will automatically delete any information provided by a person who acknowledges being less than 13 years of age.
-
-**Notification of Changes**   
-It is your responsibility to follow our privacy link, so you are always aware of our current practices. Anyone can follow the privacy link on any page on our site, so that site visitors and members are always aware of our current information collection, maintenance and disclosure practices. Each update is noted with the last updated date. If at any point we decide to use personal information in a manner different from that stated at the time it was collected, we will notify site visitors and members by way of an e-mail message. Site visitors will have an option whether to let us use their information in a different manner. 
-
-**Copyright**   
-Copyright ©2000 boats.com, Inc. All rights reserved. 
-
-Last Updated: September 13, 2000
+**Copyright:** Copyright ©2004 Trader Publishing Company. All rights reserved. 
