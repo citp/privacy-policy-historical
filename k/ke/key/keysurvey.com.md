@@ -1,30 +1,35 @@
-> *The following text is extracted and transformed from the keysurvey.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204221058id_/http%3A//www.keysurvey.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keysurvey.com privacy policy that was archived on 2005-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050618235440id_/http%3A//www.keysurvey.com/privacy) for the most accurate reproduction.*
 
 # Key Survey Privacy Policy
 
 Overview
 
   
-Key Survey is the official trademark of Survey Software Services Inc. Your use of this site is governed by Key Survey “Terms of Use” and this “Privacy Policy”. The purpose of this Privacy Policy is to disclose what information we collect, how information you may provide to Key Survey is used by the company, and how such information is both protected and made available on this Web site.
+Key Survey is the official trademark of Survey Software Services Inc. Your use of www.keysurvey.com site is governed by Key Survey's “Terms of Use” and this “Privacy Policy.” The purpose of this Privacy Policy is to disclose what information we collect, how the information you may provide to Key Survey is used by the company, and how such information is both protected and made available on our Web site.
 
-This privacy policy may change from time to time, so you are encouraged to check this page regularly. We will inform our users of the material changes to privacy policy by including this information into our regular Update notifications. Key Survey will operate this Web site according to the Privacy Policy that is posted at the time.
+This privacy policy may change from time to time, so you are encouraged to check the page regularly. We will inform our users of the material changes to privacy policy by including this information into our regular Update notifications. Key Survey will operate this Web site according to the Privacy Policy that is posted at the time.
 
 TABLE OF CONTENTS
 
   
 
 
-Information we collect when you register
+Information we Collect When you Register
 
   
 Survey Software Services Inc. collects your Name, Company name, Phone, Email address and Password you create for yourself when you register with Key Survey.
 
-Information we collect when you purchase
+Information we Collect When you Purchase
 
   
 Survey Software Services Inc. collects your First Name, Middle Name, Last Name, Phone, E-mail, Company, Address, and CC information when you purchase.
 
-Miscellaneous information
+Descriptive References
+
+  
+Survey Software Services Inc. is authorized to make descriptive references to Client’s name and URL on Key Survey publicly accessible Web site and collateral promotional materials. All references to Client's name and URL will inure the benefit of Client.
+
+Miscellaneous Information
 
   
 Survey Software Services Inc. retains all records of your orders, surveys and reports you have completed, and other miscellaneous account information for you. This has been done solely for information and benefit of Key Survey users. This data is not accessible to anyone and any company outside Survey Software Services Inc. besides you, the User.
@@ -36,10 +41,10 @@ When you publish your survey on the Key Survey server, we will provide you with 
 
 Survey Software Services Inc. will not attempt to read your survey results at any time unless explicitly instructed to do so by you. We do not own the contents of the data for your survey. Key Survey will only have access to your surveys for purposes of backup and troubleshooting. When Survey Software Services Inc. receives your survey results, we will store them in a secure location. We will only allow your survey results to be downloaded directly into your desktop software. Survey Software Services Inc. has extensive security measures in place to protect your results while stored on our servers and we will prosecute any attempt to access this information without authorization.
 
-Web-server log and Cookies
+Web-Server Log and Cookies
 
   
-Survey Software Services Inc. collects information about the areas and pages of Key Survey website you visit. We also collect information such as your operating system, browser version and the size of your screen. We analyze this data to determine what is of interest to our customers as a group, and thereby improve our website. This information is collected in the form of the usual web server logs and cookies. Key Survey also collects this information to make the website viewable and useful for the majority of our clients.
+Survey Software Services Inc. collects information about the areas and pages of the Key Survey website you visit. We also collect information such as your operating system, browser version and the size of your screen. We analyze this data to determine what is of interest to our customers as a group, and thereby improve our website. This information is collected in the form of the usual web server logs and cookies. Key Survey also collects this information to make the website viewable and useful for the majority of our clients.
 
 Our website utilizes a non-persistent cookie to track your session with our web site. This is an encrypted number generated when you visit any site that supports sessions. This is a session cookie. It helps Key Survey track your sessions and store persistent information to make your visit to our site smoother. This cookie is saved permanently at your PC. This data does not contain any secure information (just an encrypted string). Additionally, we set a cookie when you log in to make further logging to our system a little easier. At no time are cookies used to track where you have been either before or after your visit to our website. No other website can access any information about you from the cookies we may store on your local computer. We do not share cookies, as well as any type of information, with any other companies.
 
@@ -56,7 +61,7 @@ Survey Software Services Inc. does not target its web site to children, and we w
 Access to your information
 
   
-You have the right to access and correct your personal information at any time. To review, update or make changes to your personal information collected during the registration, simply click on My Account/Profile, while in Member Area of Key Survey.
+You have the right to access and correct your personal information at any time. To review, update or make changes to your personal information collected during the registration, simply click on My Account/Profile, while in the Member Area of Key Survey.
 
 If for some reason you cannot access your information on the web page, please contact us at 
 
@@ -74,7 +79,7 @@ Due to specific nature of research data, any information collected and processed
 Credit Card Information Protection
 
   
-Whenever you place an order with Key Survey, you do so over a secure connection utilizing Secure Sockets Layer (SSL). This ensures that your personal information is not at risk. Additionally, we store your credit card information in a secure location in an encrypted format, which can be accessed only by authorized personnel. When you register with us or login to our website, you can use a secure connection, ensuring that no one can steal your username and password, and use that to access any other information about you. All transactions are executed with VeriSign technology, a Web-based transaction management tool.
+Whenever you place an order with Key Survey, you do so over a secure connection utilizing Secure Sockets Layer (SSL). This ensures that your personal information is not at risk. Additionally, we store your credit card information in a secure location in an encrypted format, which can be accessed only by authorized personnel. When you register with us or log in to our website, you can use a secure connection, ensuring that no one can steal your username and password, and use that to access any other information about you. All transactions are executed with VeriSign technology, a Web-based transaction management tool.
 
 Email Non-disclosure
 
@@ -87,7 +92,7 @@ Anti SPAM Policy
 
   
 The information we collect is never sold, rented out, leased, traded, swapped, marketed, exchanged, bartered, distributed, or disclosed in any way.  
-Key Survey and its users take upon to never initiate any SPAM emailing.  
+Key Survey and its users agree to never initiate any SPAM emailing.  
 Key Survey anti-spam policy falls in compliance with US CAN-SPAM Act of 2003 S. 877
 
 Third Party Web Sites
@@ -98,7 +103,7 @@ Key Survey website may contain links to Internet sites and services that are mai
 Contact Us
 
   
-If you have any questions or comments about our Privacy Policy, please contact us as [_support@keysurvey.com_](mailto:support@keysurvey.com).  
+If you have any questions or comments about our Privacy Policy, please contact us at [_support@keysurvey.com_](mailto:support@keysurvey.com).  
 You can also send your request by mail: 
 
 **Survey Software Services Inc.  
