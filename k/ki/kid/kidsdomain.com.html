@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kidsdomain.com privacy policy that was archived on 2004-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204125458id_/http%3A//www.kaboose.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kidsdomain.com privacy policy that was archived on 2005-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050618073649id_/http%3A//www.kaboose.com/privacypolicy.html) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -352,18 +352,6 @@ li.three {
 <!--
 
 	// preload network bar images for mouseover effect
-	img_nb_1 = new Image(); img_nb_1.src = "http://www.kaboose.com/images/networkbar/kn_nav_brds_on.gif";
-	img_nb_2 = new Image(); img_nb_2.src = "http://www.kaboose.com/images/networkbar/kn_nav_chat_on.gif";
-	img_nb_3 = new Image(); img_nb_3.src = "http://www.kaboose.com/images/networkbar/kn_nav_fs_on.gif";
-	img_nb_4 = new Image(); img_nb_4.src = "http://www.kaboose.com/images/networkbar/kn_nav_kb_on.gif";
-	img_nb_5 = new Image(); img_nb_5.src = "http://www.kaboose.com/images/networkbar/kn_nav_kd_on.gif";
-	img_nb_6 = new Image(); img_nb_6.src = "http://www.kaboose.com/images/networkbar/kn_nav_login_on.gif";
-	img_nb_7 = new Image(); img_nb_7.src = "http://www.kaboose.com/images/networkbar/kn_nav_logout_on.gif";
-	img_nb_8 = new Image(); img_nb_8.src = "http://www.kaboose.com/images/networkbar/kn_nav_mail_on.gif";
-	img_nb_9 = new Image(); img_nb_9.src = "http://www.kaboose.com/images/networkbar/kn_nav_set_on.gif";
-	img_nb_10 = new Image(); img_nb_10.src = "http://www.kaboose.com/images/networkbar/kn_nav_sign_on.gif";
-	img_nb_11 = new Image(); img_nb_11.src = "http://www.kaboose.com/images/networkbar/kn_nav_zk_on.gif";
-
 
 	function nb_mouseover(img_name,img_src)
 	{
@@ -383,6 +371,35 @@ li.three {
 	function openGameWindow(gameURL)
 	{
 	        var newWin = window.open(gameURL, "Funschool", "width=760, height=520, toolbar=no, location=no, status=yes, menubar=no, scrollbars=yes, resizable=yes");
+	}
+
+	function searchFocus()
+	{
+		// If the search form and search criteria field exist, give focus to the search criteria field.
+
+		var searchformTest = document.searchform || "";
+		if (searchformTest)
+		{	var searchcriteriaTest = document.searchform.searchcriteria || "";
+			if (searchcriteriaTest)
+			{	document.searchform.searchcriteria.focus();
+			}
+		}
+	}
+
+	function searchToggle(nIdx)
+	{	
+		if (nIdx == 0)
+		{	// Search the Web
+			document.getElementById('searchbtn0').src = 'http://www.kaboose.com/images/header_btn_web_on.gif';
+			document.getElementById('searchbtn1').src = 'http://www.kaboose.com/images/header_btn_kb_off.gif';
+			document.getElementById('searchurl').value = '';
+		}
+		else
+		{	// Search Kaboose
+			document.getElementById('searchbtn0').src = 'http://www.kaboose.com/images/header_btn_web_off.gif';
+			document.getElementById('searchbtn1').src = 'http://www.kaboose.com/images/header_btn_kb_on.gif';
+			document.getElementById('searchurl').value = 'kaboose.com,funschool.com,zeeks.com,kidsdomain.com,birthdayinabox.com';
+		}
 	}
 
 // -->
@@ -407,11 +424,11 @@ er_loaded(){er_parentLoaded=true;};window.onload=er_loaded;</script>
 	<td valign="top"><!--
 		--><table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tbody><tr>
-	<td class="tableHeaderBackground">
-
-<a href="http://www.kaboose.com"><img alt="The Kaboose Network" border="0" height="72" hspace="15" src="http://www.kaboose.com/corporate/images/kaboose/logo_kaboosenetwork.gif" vspace="8" width="162"></a>	<img alt="" height="90" src="http://www.kaboose.com/corporate/images/kaboose/header_img.jpg" width="543">
-
-	</td>
+	<td class="tableHeaderBackground"><!--
+		--><a href="http://www.kaboose.com"><img style="margin:0px 0px 15px 15px;" src="http://www.kaboose.com/corporate/images/kaboose/logo_kaboosenetwork.gif" width="162" height="54" alt="Kaboose" border="0"></a><!--
+		--><img src="http://www.kaboose.com/corporate/images/kaboose/spacer.gif" width="20" height="91" alt=""><!--
+		--><img src="http://www.kaboose.com/corporate/images/kaboose/header_img.jpg" width="543" height="90" alt=""><!--
+	--></td>
 </tr>
 <tr><td><table cellpadding="0" cellspacing="0" bgcolor="#f2f2f2" width="100%"><tbody><tr><td valign="top"></td><td bgcolor="#ffffff" class="tblGap">&nbsp;</td><td bgcolor="#ffffff" valign="top"><br>
 	<img alt="Privacy Policy" border="0" height="26" src="http://www.kaboose.com/corporate/images/titles/tl_privacy_policy.gif" width="389"><br><br>
@@ -529,13 +546,13 @@ To contact Kaboose by e-mail please <a href="JavaScript:openContactUs();">click 
 					<a href="http://www.funschool.com/" class="fontFooter">Funschool</a>&nbsp;&nbsp;&nbsp;
 					<a href="http://www.zeeks.com/" class="fontFooter">Zeeks</a>&nbsp;&nbsp;&nbsp;
 					<a href="http://www.kidsdomain.com/" class="fontFooter">Kids Domain</a>&nbsp;&nbsp;&nbsp;
-					<a href="http://www.kaboose.com/privacypolicy.html" class="fontFooter">Privacy Policy</a>&nbsp;&nbsp;&nbsp;
+					<a href="http://www.kaboose.com/privacypolicy.html" class="fontFooter" style="color:#000000;">Privacy Policy</a>&nbsp;&nbsp;&nbsp;
 					<a href="http://www.kaboose.com/termsofuse.html" class="fontFooter">Terms of Use</a>&nbsp;&nbsp;&nbsp;
 					<a href="JavaScript:openContactUs();" class="fontFooter">Contact Us</a>
 				</td>
 			</tr>
 			<tr>
-				<td class="fontFinePrint" align="center">Copyright © 2004 Kaboose Inc. Kaboose, Zeeks, Funschool and Kids Domain are trademarks of Kaboose Inc. All Rights Reserved.</td>
+				<td class="fontFinePrint" align="center">Copyright © 2005 Kaboose Inc. Kaboose, Zeeks, Funschool and Kids Domain are trademarks of Kaboose Inc. All Rights Reserved.</td>
 			</tr>
 			</tbody></table>
 
