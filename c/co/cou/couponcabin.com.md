@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponcabin.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204052231id_/http%3A//www.couponcabin.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponcabin.com privacy policy that was archived on 2005-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050619011937id_/http%3A//www.couponcabin.com/privacy.htm) for the most accurate reproduction.*
 
 # CouponCabin Privacy Policy
 
