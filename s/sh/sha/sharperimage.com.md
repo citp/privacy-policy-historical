@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharperimage.com privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012082246id_/http%3A//www.sharperimage.com/us/en/cust_help/cserv_newcustomers_securityandprivacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharperimage.com privacy policy that was archived on 2005-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050619083010id_/http%3A//www.sharperimage.com/us/en/cust_help/cserv_newcustomers_securityandprivacy.jhtml) for the most accurate reproduction.*
 
 # The Sharper Image - Privacy & Security
 
@@ -15,7 +15,6 @@
        · Email List  
        · Unsubscribe to Email  
        · "Cookie" Use  
-       · To Contact Us  
        · Access/Correction
 
 This is the Website of Sharper Image Corporation  
@@ -78,9 +77,9 @@ We electronically verify each order with the credit company, returning an order 
 
 **Mailing Lists** (top)
 
-> We occasionally share our customer postal mailing lists with select companies that might interest you. If you prefer that we not share your name, please [click here](mailto:removesharing@sharperimage.com) to send us an email to be removed from the list. 
+> We occasionally share our customer postal mailing lists with select companies that might interest you. If you prefer that we not share your name, please [click here](mailto:care@web.sharperimage.com) to send us an email to be removed from the list. 
 > 
-> Additionally, if you do not want to receive our catalog, please [click here](mailto:removesharing@sharperimage.com) to send us an email to be removed from the list. 
+> Additionally, if you do not want to receive our catalog, please [click here](mailto:care@web.sharperimage.com) to send us an email to be removed from the list. 
 > 
 > When emailing to be removed from a list, please include the following information in the email:  
 >  -FIRST AND LAST NAME  
@@ -111,15 +110,6 @@ We electronically verify each order with the credit company, returning an order 
 **"Cookie" Use** (top)
 
 > "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information, but they do enable us to provide features such as welcoming you back to our site using your name and storing items in your shopping cart between visits. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that. Even without a cookie, you can still use most of the features in our store, including placing items in your shopping cart and purchasing them. 
-
-**To Contact Us** (top)
-
-> To change an order: [changes@web.sharperimage.com](mailto:changes@web.sharperimage.com).  
->  Regarding a product issue: [products@web.sharperimage.com](mailto:products@web.sharperimage.com).  
->  With comments and suggestions: [suggestions@web.sharperimage.com](mailto:suggestions@web.sharperimage.com).  
->  With auction related questions: [care@auction.sharperimage.com](mailto:care@auction.sharperimage.com).  
->  Questions and comments about the Website: [care@web.sharperimage.com](mailto:care@web.sharperimage.com).  
->  Sharper Image policies: [policies@web.sharperimage.com](mailto:policies@web.sharperimage.com). 
 
 **Access/Correction** (top)
 
