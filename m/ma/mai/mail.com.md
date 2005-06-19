@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mail.com privacy policy that was archived on 2004-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041229174234id_/http%3A//mail01.mail.com/templates/common/us/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mail.com privacy policy that was archived on 2005-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050619024330id_/http%3A//mail01.mail.com/templates/common/us/privacypolicy.htm) for the most accurate reproduction.*
 
 # mail.com
 
@@ -97,4 +97,4 @@ If you have questions or concerns regarding this statement, you should first con
 If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.  
 
 
-© Copyright 2004 mail.com Corp. All rights reserved.
+© Copyright 2005 mail.com Corp. All rights reserved.
