@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the mothernature.com privacy policy that was archived on 2004-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041229110142id_/http%3A//www.mothernature.com/Help_Desk/index.cfm/type/privacy_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mothernature.com privacy policy that was archived on 2005-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050619022240id_/http%3A//www.mothernature.com/Help_Desk/index.cfm/type/privacy_security) for the most accurate reproduction.*
 
 # MotherNature's Healthy Living Help Desk
 
 | 
 
-### Your Shopping Cart
+Free Catalog
 
-_Order $49.00  
-for FREE Shipping!_
-
-  
+[](https://web.archive.org/Help_Desk/pages/index.cfm/page/CatalogRequest/irfr/www2)   
+MotherNature.com's Summer Catalog Is Here! [Click Here](https://web.archive.org/Help_Desk/pages/index.cfm/page/CatalogRequest/irfr/www2) to Get Your Free Copy Today.  
 
 
-### Newsletter Sign Up
+Newsletter Sign Up
 
 Weekly health news, sale announcements and coupons!
 
