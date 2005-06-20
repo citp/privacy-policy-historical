@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dealslist.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204063107id_/http%3A//www.dealslist.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealslist.com privacy policy that was archived on 2005-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050620082712id_/http%3A//www.dealslist.com/privacy.php) for the most accurate reproduction.*
 
-# Dealslist - Cheapest computer and best digital cameras deals
+# 
 
 This site is owned and operated by L&L Consulting, LLC. The material included herein, including site design, text, graphics, and the selection and arrangement thereof are copyrighted © by L&L Consulting, LLC. All Rights Reserved.  
 
