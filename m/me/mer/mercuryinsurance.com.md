@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mercuryinsurance.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210090200id_/http%3A//www.mercuryinsurance.com/FreeQuoteYahoo/BeaconPrivSt.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercuryinsurance.com privacy policy that was archived on 2005-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050620073451id_/http%3A//www.mercuryinsurance.com/FreeQuoteYahoo/BeaconPrivSt.asp) for the most accurate reproduction.*
 
-# Mercury Insurance Group - "Savings. Service. Security."
+# Mercury Insurance Services
 
 Mercury General Insurance works with Yahoo! to research certain usage and activities on our web site on our behalf. Yahoo! uses web beacons to conduct this research. The information collected through these web beacons is used to find out more about our users, including user demographics and usage patterns, for more accurate reporting and to improve the effectiveness of our marketing. Information recorded through the use of these web beacons is aggregated and then shared with us. No personally identifiable information about you is shared by Yahoo! with Mercury General Insurance as a result of this research. If you prefer that Yahoo! not record information by means of these web beacons on the Mercury General Insurance web site, please visit [Yahoo!](http://privacy.yahoo.com/privacy/us/pixels/details.html) in order to opt out.
 
