@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibm.com privacy policy that was archived on 2004-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041230162725id_/http%3A//www.ibm.com/privacy/us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibm.com privacy policy that was archived on 2005-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050620075633id_/http%3A//www.ibm.com/privacy/us) for the most accurate reproduction.*
 
 # IBM Privacy - United States
 
@@ -63,7 +63,7 @@ Questions about this statement or about IBM's handling of your information may b
 
 Privacy, IBM   
 1133 Westchester Ave.  
-White Plains, NY 10604  
+White Plains, NY 10604 USA  
   
   
 
