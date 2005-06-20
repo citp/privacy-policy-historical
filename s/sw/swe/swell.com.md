@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the swell.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605165401id_/http%3A//www.swell.com/support/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swell.com privacy policy that was archived on 2005-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050620214233id_/http%3A//www.swell.com/support/privacy.aspx) for the most accurate reproduction.*
 
 # Swell.com - Surf Shop: Your shop for surf wear, surf gear and all your surfing needs!
 
 | [](http://www.swell.com/default.aspx) |   
 ---|---  
-[](http://www.swell.com/department.aspx?loc=19852) [](http://www.swell.com/department.aspx?loc=19853) [](http://www.swell.com/department.aspx?loc=19854) [](http://www.swell.com/department.aspx?loc=19855) [](http://www.swell.com/department.aspx?loc=19856) [](http://www.swell.com/department.aspx?loc=19857) [](http://www.swell.com/department.aspx?loc=19858) [](http://www.swell.com/department.aspx?loc=19859) [](http://www.swell.com/department.aspx?loc=33546) [](http://www.swell.com/department.aspx?loc=19860)  
+| [](http://www.swell.com/department.aspx?loc=19852) | [](http://www.swell.com/department.aspx?loc=19853) | [](http://www.swell.com/department.aspx?loc=50213) | [](http://www.swell.com/department.aspx?loc=19854) | [](http://www.swell.com/department.aspx?loc=19855) | [](http://www.swell.com/department.aspx?loc=19856) | [](http://www.swell.com/department.aspx?loc=19857) | [](http://www.swell.com/department.aspx?loc=19858) | [](http://www.swell.com/department.aspx?loc=19859) | [](http://www.swell.com/department.aspx?loc=33546) | [](http://www.swell.com/department.aspx?loc=19860)  
+---|---|---|---|---|---|---|---|---|---|---  
+|  |   
+---|---  
 |  |  |  |  Privacy Policy  
 ---  
 At Swell, your privacy is a top priority. Please read our privacy policy details.   
