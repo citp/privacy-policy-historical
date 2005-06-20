@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviefone.com privacy policy that was archived on 2004-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041231081132id_/http%3A//www.aol.com/info/privacy.adp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviefone.com privacy policy that was archived on 2005-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050620080808id_/http%3A//www.aol.com/info/privacy.adp) for the most accurate reproduction.*
 
 # AOL.com: Privacy Policy
 
