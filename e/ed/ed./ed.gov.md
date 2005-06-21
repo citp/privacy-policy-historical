@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ed.gov privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209093952id_/http%3A//www.ed.gov/notices/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ed.gov privacy policy that was archived on 2005-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050621203025id_/http%3A//www.ed.gov/notices/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
