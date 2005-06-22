@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinnaclesports.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205053142id_/http%3A//pinnaclesports.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinnaclesports.com privacy policy that was archived on 2005-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050622020826id_/http%3A//pinnaclesports.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Pinnacle Sports
 
@@ -14,9 +14,8 @@ Your privacy is of the utmost importance to Pinnacle. We feel that you have a ri
   5. What choices are available to you regarding the use and distribution of your information
   6. How you can change or correct your information
   7. How and why we use cookies
-  8. Our policy regarding spam
-  9. Our use of links to other sites
-  10. Possible changes in this policy
+  8. Our use of links to other sites
+  9. Possible changes in this policy
 
 
 
@@ -59,7 +58,7 @@ When a visitor registers as a client of Pinnacle Sports:
 
   * We require a postal address so that we can send payments by courier or standard mail. When making payments by bank transfer or credit card charge-back, we provide to the bank or credit card company the information necessary to send payment. 
 
-  * We require an email address to send our clients their unique username and password. We also use email to notify our clients of changes in service and, with the client’s approval, to send promotional information. 
+  * We require an email address to send our clients their unique username and password. We also use email to notify our clients of changes in service and, with the client's approval, to send promotional information. 
 
   * We request the age of our clients in order to ensure that they are of age to legally place bets in our jurisdiction. 
 
@@ -68,21 +67,21 @@ When a visitor registers as a client of Pinnacle Sports:
 
 ## Who else has access to the information we collect?
 
-Pinnacle treats all of our clients’ personal information as confidential, and will not disclose it or use it except as explained in this statement or as required by law. 
+Pinnacle treats all of our clients' personal information as confidential, and will not disclose it or use it except as explained in this statement or as required by law. 
 
 Pinnacle Sports is the sole owner of the personal information we collect from our clients; we do not share it with any third party. We will not give, trade or sell this information to any organization or business, or to any individual not employed by Pinnacle. 
 
-If a client provides personal information during an interaction with our customer service areas (for example, an email address or telephone number), we will use it only for the purpose of customer service. We will not sell a client’s phone number to telemarketers or anyone else. 
+If a client provides personal information during an interaction with our customer service areas (for example, an email address or telephone number), we will use it only for the purpose of customer service. We will not sell a client's phone number to telemarketers or anyone else. 
 
 Pinnacle Sports is licensed and sanctioned by the Governments of Curacao and the Netherlands Antilles. Pinnacle will not release information about our clients to any government. 
 
 ## What security measures are used to protect the integrity of your information?
 
-The Pinnacle Sports Web site takes every precaution to protect our client’s information. When clients submit sensitive information via the site, their information is protected both online and off-line. 
+The Pinnacle Sports Web site takes every precaution to protect our client's information. When clients submit sensitive information via the site, their information is protected both online and off-line. 
 
 When our registration form asks clients to enter sensitive information (such as credit card numbers), such information is encoded using SSL, the most powerful system available for Internet security and encryption. For information about SSL, visit this Web site: <http://support.microsoft.com/default.aspx?scid=kb;EN-US;q245152>
 
-In addition to using SSL encryption to protect sensitive online transactions, we also do everything possible to protect our client’s information off-line. All of our clients’ personal information, not just the sensitive information mentioned above, is restricted in our offices. Only those employees who need it to perform a specific job (for example, our customer service representatives) are granted access to personally identifiable information. 
+In addition to using SSL encryption to protect sensitive online transactions, we also do everything possible to protect our client's information off-line. All of our clients’ personal information, not just the sensitive information mentioned above, is restricted in our offices. Only those employees who need it to perform a specific job (for example, our customer service representatives) are granted access to personally identifiable information. 
 
 Finally, all computers on which we store personally identifiable information are kept in a secure environment. Pinnacle uses the best available hardware and software technologies to block any unauthorized entry into our systems. 
 
@@ -106,11 +105,11 @@ The personal data associated with accounts that have been terminated are destroy
 
 Many Web users are concerned and possibly confused about the use of "cookies" on the Internet. A cookie is a small text file that is transferred from a web site to the hard drive of your computer. We use cookies to store a coded ID number, which identifies your browser to our server and allows us to track your activities while you visit Pinnacle's Web site. 
 
-Since cookies are only text files, they cannot "run" on your computer and have no ability to search your computer for other information, or actively transmit data to anyone else. Since our cookie file is in a coded form, only Pinnacle’s Web server can read the cookie that it places on your hard drive. A cookie can't read data off your hard disk or read cookie files created by other sites. 
+Since cookies are only text files, they cannot "run" on your computer and have no ability to search your computer for other information, or actively transmit data to anyone else. Since our cookie file is in a coded form, only Pinnacle's Web server can read the cookie that it places on your hard drive. A cookie can't read data off your hard disk or read cookie files created by other sites. 
 
 Pinnacle's Web site uses cookies and URL tracking codes to measure the effectiveness of our advertising and our Web site, not to monitor the activities of individual customers. Pinnacle Sports does not disclose to advertisers any information about individual customers. 
 
-You can set your browser to automatically refuse all cookies or else to notify you any time a cookie is sent, so you can accept or reject it as you prefer. If you reject the cookie from Pinnacle’s Web site you can still use the site, but you may be limited in accessing or using certain areas. 
+You can set your browser to automatically refuse all cookies or else to notify you any time a cookie is sent, so you can accept or reject it as you prefer. If you reject the cookie from Pinnacle's Web site you can still use the site, but you may be limited in accessing or using certain areas. 
 
 For more information about cookies, go to these web sites: 
 
@@ -121,7 +120,7 @@ For more information about cookies, go to these web sites:
 
 ## Links to other Web sites
 
-The Pinnacle Web site may contain links to other sites; we are not responsible for the practices of such other sites. This privacy statement applies solely to information collected by Pinnacle’s Web site. We encourage our clients and visitors to be alert when they leave our site and to read the privacy statement of any Web site that collects personally identifiable information. 
+The Pinnacle Web site may contain links to other sites; we are not responsible for the practices of such other sites. This privacy statement applies solely to information collected by Pinnacle's Web site. We encourage our clients and visitors to be alert when they leave our site and to read the privacy statement of any Web site that collects personally identifiable information. 
 
 ## Notification of Changes
 
