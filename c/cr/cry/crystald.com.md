@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the crystald.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010183913id_/http%3A//www.eidosinteractive.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crystald.com privacy policy that was archived on 2005-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050622034611id_/http%3A//www.eidosinteractive.com/privacy.html) for the most accurate reproduction.*
 
 # EidosInteractive.com
 
-| [](https://web.archive.org/web/20041010183913id_/http%3A//www.eidosinteractive.com/whatsnew.html)  
+| [](https://web.archive.org/web/20050622034611id_/http%3A//www.eidosinteractive.com/whatsnew.html)  
 ---  
 |  |   
 | 
 
-[Get On Da Mic - In Stores Now & New Web Updates](http://www.getondamic.com/main.html)
+[New Tomb Raider: Legend E3 Trailer. View it now!!](http://www.eidosinteractive.com/downloads/search.html?gmid=158)
 
-[ShellShock: Nam '67 In Stores Now. Check out the website updates.](http://www.eidosinteractive.com/gss/legacy/shellshock/main.html)
+[Check out the new Imperial Glory Trailer](http://www.eidosinteractive.com/downloads/search.html?gmid=150)
 
-[The Official Get On Da Mic Site is LIVE!](http://www.getondamic.com/main.html)
+[The new Tomb Raider: Legend website is live. Check it out now!!](http://www.tombraider.com/)
 
-[New ShellShock Trailer. Check it out here!](http://www.eidosinteractive.com/downloads/search.html?gmid=147)
+[Check out some of the action in the new 25 to Life trailer…guns are blazing!!!](http://www.eidosinteractive.com/downloads/search.html?gmid=151)
 
-[New Backyard Wrestling 2 Trailer. View it now!](http://www.eidosinteractive.com/downloads/search.html?gmid=148)
+[Check out the new LEGO: Star Wars official launch trailer!](http://www.eidosinteractive.com/downloads/search.html?gmid=156)
 
 |   
 |  |   
@@ -32,7 +32,7 @@ click here
 |  |   
 | 
 
-[Go here](https://web.archive.org/web/20041010183913id_/http%3A//www.eidosinteractive.com/forums/index.html) to talk about the games! 
+[Go here](https://web.archive.org/web/20050622034611id_/http%3A//www.eidosinteractive.com/forums/index.html) to talk about the games! 
 
 |   
 |  |   
@@ -199,8 +199,8 @@ San Francisco, CA 94107
 [webmaster@eidos.com](mailto:webmaster@eidos.com)  
 (415) 547-1200
 
-For complaints, you can also contact ESRB Privacy Online directly at [ www.esrb.org](http://www.esrb.com/) or by regular mail at 845 Third Avenue, New York, NY 10022.  
-This Privacy Policy was last updated on **September 16, 2003.**
+For complaints, you can also contact ESRB Privacy Online directly at [ www.esrb.org](http://www.esrb.com/) or by regular mail at 317 Madison Avenue, 22nd Floor, New York, NY 10017.  
+This Privacy Policy was last updated on **December 23, 2004.**
 
  ****  
 ---|---|---|---
