@@ -1,14 +1,21 @@
-> *The following text is extracted and transformed from the nfl.com privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012064746id_/http%3A//www.nfl.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfl.com privacy policy that was archived on 2005-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050622080113id_/http%3A//www.nfl.com/help/privacy) for the most accurate reproduction.*
 
 # NFL.com - Privacy Policy
 
-[](http://www.nflshop.com/home/default.cfm?SID=7126)
+|  Search  
+---  
+ NFL.comThe Web  
+|  |  |   
+  
+[](http://www.nflshop.com/nfl/index.jsp?SID=7126&pageId=nflHomePage)
 
 [](http://www.jointheteam.com/)
 
-|  |  |  |   |   
+[](https://www.applyonlinenow.com/USapp/Ctl/redirect?CV_sourceCode=K190&CV_MC=A000001QTA)
+
+|  |  |   |   
 ---|---|---  
-[Play football Privacy Policy](http://www.playfootball.com/site/privacy.html) **·** [NFL Shop Privacy Policy](http://www.nflshop.com/content/help_privacy.cfm) **PRIVACY POLICY**  
+[Play Football Privacy Policy](http://www.playfootball.com/site/privacy.html) **·** [NFL Shop Privacy Policy](http://www.nflshop.com/content/help_privacy.cfm) **PRIVACY POLICY**  
 Effective Date: Aug. 16, 2001 
 
 This privacy policy is applicable to the Website[s] accessible at universal resource locators NFL.com and Superbowl.com (collectively the "Site"), which is operated pursuant to a strategic relationship among National Football League Enterprises, L.P. on behalf of the National Football League, SportsLine.com, Inc., America Online, Inc., and CBS Broadcasting, Inc. (collectively, the "NFL PARTNERS", "we", "our", or "us"). **Note:[Click here](https://web.archive.org/help/prior) if you disclosed personally identifiable information via the the NFL.com and/or Superbowl.com Web sites (individually or collectively, as applicable, the "NFL Sites") prior to Aug. 16, 2001.** This privacy policy shall be prominently published on the Site. The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. 
@@ -115,7 +122,7 @@ The Site is a general audience site. We do not currently collect any personal in
 By using this Site, you signify your agreement to the terms of our privacy policy. If we decide to change or update this privacy policy, we will give you notice of the changes made so you can be aware of such revised privacy policy. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by way of an email or some other means. Your continued use of the Site shall constitute your acceptance of such revised privacy policy. 
 
 **CORRECTING/UPDATING PERSONAL INFORMATION**  
-If your personally identifiable information changes (such as your zip code), or if you no longer desire to access our Site, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by making changes to your profile, by using an opt out message in an email, or by emailing Member Services at [nflprivacy@nfl.sportsline.com](mailto:nflprivacy@nfl.sportsline.com). Please [click here](http://newsletter.nfl.com/profile/) to make any changes to your profile and/or opt out of the NFL.com Newsletter. To opt out of Fantasy emails, simply respond to [remove@commissioner.com](mailto:remove@commissioner.com). To edit your fantasy E-Report settings, go to your team, league or pool web site and select Options, then E-Reports. 
+If your personally identifiable information changes (such as your zip code), or if you no longer desire to access our Site, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by making changes to your profile, by using an opt out message in an email, or by emailing Member Services at [nflprivacy@nfl.sportsline.com](mailto:nflprivacy@nfl.sportsline.com). Please [click here](http://www.nfl.com/nflnewsletter) to make any changes to your profile and/or opt out of the NFL.com Newsletter. To edit your fantasy E-Report settings, go to your team, league or pool web site and select Options, then E-Reports. 
 
 If you have any questions about this privacy policy or the privacy practices of this Site, contact [nflprivacy@nfl.sportsline.com](mailto:nflprivacy@nfl.sportsline.com)
 
