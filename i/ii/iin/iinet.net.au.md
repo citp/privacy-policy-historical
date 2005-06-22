@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iinet.net.au privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209012841id_/http%3A//iinet.net.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iinet.net.au privacy policy that was archived on 2005-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050622100843id_/http%3A//iinet.net.au/privacy) for the most accurate reproduction.*
 
 # ii - privacy policy
 
