@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the platts.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204120821id_/http%3A//www.platts.com/Privacy%2520Notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the platts.com privacy policy that was archived on 2005-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050623014647id_/http%3A//www.platts.com/Privacy%2520Notice) for the most accurate reproduction.*
 
 # Platts
 
-Privacy
+| [](https://web.archive.org/)| [](https://web.archive.org/Oil/Resources/)| [](https://web.archive.org/Electric%20Power/Resources/)| [](https://web.archive.org/Natural%20Gas/Resources/)| [](https://web.archive.org/Coal/Resources/)| [](https://web.archive.org/Nuclear/Resources/)| [](https://web.archive.org/Petrochemicals/Resources/)| [](https://web.archive.org/Metals/Resources/)  
+---|---|---|---|---|---|---|---  
+  
+| | 
+
+|  Privacy
 
 |   
 ---  
@@ -20,7 +25,11 @@ _Disable Cookies_
 
 button should be checked. 
 
-Occasionally, and subject to applicable laws, Platts also makes our customers’ names and e-mail addresses and other similar contact information available to other businesses within The McGraw-Hill Companies, as well as to other reputable information companies, so that they can inform you about other products and services that may interest you. If at any time you would like your name removed from lists that are shared for these purposes, simply click the easy-to-use External Distribution Opt-Out button at the bottom of this screen for prompt removal of your name.   
+Occasionally, and subject to applicable laws, Platts also makes our customers’ names and e-mail addresses and other similar contact information available to other businesses within The McGraw-Hill Companies, as well as to other reputable information companies, so that they can inform you about other products and services that may interest you. If at any time you would like your name removed from lists that are shared for these purposes, simply click the easy-to-use External Distribution Opt-Out button at the bottom of this screen for prompt removal of your name. 
+
+**Sharing Platts.com site information and your colleague's email address**
+
+Throughout the site we offer you the chance to send a colleague an article or a note telling them about the site. Feel free to take advantage of these opportunities knowing that we will protect your colleague's privacy. We will only use your colleague's email address in order to send the message you asked us to send. We do not hold this information in any database for any subsequent use by Platts.  
   
 | 
 
@@ -49,15 +58,15 @@ From time to time, we may also share your information with outside vendors who w
 
 For more information about The McGraw-Hill Companies' Customer Privacy Policy, visit our Web site at <http://www.mcgraw-hill.com/privacy.html>.  
   
-[Printer-friendly format](https://web.archive.org/web/20041204120821id_/http://www.platts.com/Privacy%20Notice/?S=printer&)
+[Printer-friendly format](https://web.archive.org/web/20050623014647id_/http://www.platts.com/Privacy%20Notice/?S=printer&)
 
 [Contact Us](https://web.archive.org/Contact%20Us/)     [Client Services](https://web.archive.org/Client%20Services/)     [Help](https://web.archive.org/Help/)[
 
 For Advertisers
 
-](https://web.archive.org/For%20Advertisers/index.html)      [Privacy Notice](https://web.archive.org/Privacy%20Notice/)      [Terms & Conditions](https://web.archive.org/Terms%20&%20Conditions/)
+](https://web.archive.org/For%20Advertisers/index.html)     [Privacy Notice](https://web.archive.org/Privacy%20Notice/)     [Terms & Conditions](https://web.archive.org/Terms%20&%20Conditions/)
 
-Copyright © 2004 - Platts, All Rights Reserved  
+Copyright © 2005 - Platts, All Rights Reserved  
 
 
 | 
