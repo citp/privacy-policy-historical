@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the wheatgrasskits.com privacy policy that was archived on 2004-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041218045338id_/http%3A//www.wheatgrasskits.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wheatgrasskits.com privacy policy that was archived on 2005-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050622074841id_/http%3A//www.wheatgrasskits.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # WheatgrassKits.com Privacy Policy
 
- 
-
-Wheatgrasskits.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Wheatgrasskits.com.
+ Wheatgrasskits.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Wheatgrasskits.com.
 
 Wheatgrasskits.com does not sell nor distribute information collected to third parties. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
 
@@ -35,7 +33,7 @@ Contacting the Web Site
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
 Wheatgrasskits.com  
-558 N. 800 E.  
-Mapleton, Utah 84664  
+64 West 600 North #2  
+Springville, UT 84663  
 webmaster@wheatgrasskits.com  
-Fax: 1-801-373-4095
+
