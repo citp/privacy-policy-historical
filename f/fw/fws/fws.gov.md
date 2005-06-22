@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fws.gov privacy policy that was archived on 2004-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041216081221id_/http%3A//www.fws.gov/help/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fws.gov privacy policy that was archived on 2005-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050622073745id_/http%3A//www.fws.gov/help/policies.html) for the most accurate reproduction.*
 
 # Privacy, Disclaimer, Copyrights and Logo Use
 
@@ -29,7 +29,7 @@ Visit the Department's [**Talk to Us**](http://www.doi.gov/footer/question.htm) 
 For web site security purposes and to ensure that this service remains available to all users, we employ software programs to monitor network traffic, identify unauthorized attempts to upload or change information, or otherwise cause damage. Unauthorized attempts to upload or change information on this web site are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
 
 **Cookies**  
-When you visit some websites, their webservers generate pieces of information known as cookies. Some cookies collect personal information to recognize your computer in the future. This is not the case at www.fws.gov, where we only use non-persistent cookies or "per-session cookies." These cookies do not collect personal information on users and they are erased as soon as you leave our website.  
+When you visit some Web sites, their web servers generate pieces of information known as cookies. Some cookies collect personal information to recognize your computer in the future. This is not the case at www.fws.gov, where we only use non-persistent cookies or "per-session cookies." These cookies do not collect personal information on users and they are erased as soon as you leave our Web site.  
 
 
 Per-session cookies serve technical purposes like providing seamless navigation through www.fws.gov. These cookies do not permanently record data and they are not stored on your computer's hard drive. www.fws.gov cookies are stored in memory and are only available during an active browser session. Again, once you close your browser, the cookie disappears.  
@@ -60,33 +60,33 @@ We will link to external sites that help us perform our mission - "working with 
 
 Please note: 
 
-  1. you are welcome to make a link to any of the Web pages the Service has published on the Internet. **_There is no need to request permission._**
-  2. not all the information on our site is in the public domain. Some images/graphics are licensed for use under the **[copyright law](http://lcweb.loc.gov/copyright/)** , and the **_use of the Service logo is restricted_** to official publications (see below). 
+  1. You are welcome to make a link to any of the Web pages the Service has published on the Internet. **_There is no need to request permission._**
+  2. Not all the information on our site is in the public domain. Some images/graphics are licensed for use under the **[copyright law](http://lcweb.loc.gov/copyright/)** , and the **_use of the Service logo is restricted_** to official publications (see below). 
 
 We will identify material we use from sources outside the Service, and request others do the same when using information published by the Service. Credit can be provided by including on the page (or via a link to a credits page) a citation such as:  
 
 
      Credit: _U. S. Fish and Wildlife Service_  
 
-    _U. S. Fish and Wildlife Service/photo by Robert Shallenberger_ (if the artist is known)  
+    _Photo by Robert Shallenberger/U.S. Fish and Wildlife Service_ or _USFWS photo_ (if the photographer is known)  
 
-    _USFWS/Elkins, WV_ (if originating office but not the artist is known)
+    _USFWS/Elkins, WV_ (if originating office but not the photographer is known)
 
 * * *
 
 **RESTRICTIONS ON USING THE SERVICE LOGO**
 
-The Service logo is our official "trademark" and not available for general use. Please use [alternative images if you need a graphic](http://www.fws.gov/help/altlogo.html). 
+The Service logo is our official "trademark." Its use is reserved for official publications or other products of the U.S. Fish and Wildlife Service. Use of the Service logo without prior written approval is prohibited. Restrictions on use of the Service logo were published in the Federal Register on February 13, 1984 (Vol. 49, No. 30, page 5387), and [18 USC 701](http://www.law.cornell.edu/uscode/18/701.shtml) provides for enforcement.
 
-Use of the Service logo is reserved for official publications, electronic or paper. Restrictions on use of the Service logo were published in the Federal Register on February 13, 1984 (Vol. 49, No. 30, page 5387), and [18 USC 701](http://www.law.cornell.edu/uscode/18/701.shtml) provides for enforcement. 
+Please use [alternative images if you need a graphic](http://www.fws.gov/help/altlogo.html). 
 
-There are procedures for obtaining approval for the use of the official Service logo on a joint publication with the Service, including electronic publications. Contact [Mitch Snow](mailto:Mitch_Snow@fws.gov) in the Washington Office - External Affairs at (202) 208-5634 for assistance. 
+There are procedures for obtaining approval for the use of the official Service logo on a joint publication with the Service, including electronic publications such as Web sites. Contact [Mitch Snow](mailto:Mitch_Snow@fws.gov) in the External Affairs office at (202) 208-5634 for assistance. 
 
-There are also restrictions on the use of the images of the [Federal Duck Stamps](http://duckstamps.fws.gov/Licenseindex.html) and the [Federal Aid in Wildlife Restoration and Federal Aid in Sport Fish Restoration symbols](http://federalaid.fws.gov/info/falogos.html), and on the "[blue goose](http://policy.fws.gov/library/99fr33904a.html)" image used to identify wildlife refuges. 
+The restrictions described above apply also to the use of the images of the [Federal Duck Stamps](http://duckstamps.fws.gov/Licenseindex.html) and the [Federal Aid in Wildlife Restoration and Federal Aid in Sport Fish Restoration symbols](http://federalaid.fws.gov/info/falogos.html), and the "[blue goose](http://policy.fws.gov/library/99fr33904a.html)" image used to identify wildlife refuges. 
 
 * * *
 
-Comments? Questions? Please check our answers to [Frequently Asked Questions](http://faq.fws.gov/) (FAQ's) before you [contact us](http://www.pueblo.gsa.gov/fws/contactus.htm)
+Comments? Questions? Please check our answers to [Frequently Asked Questions](http://faq.fws.gov/) (FAQ's) before you [contact us](http://www.pueblo.gsa.gov/fws/contactus.htm) . 
 
 * * *
 
