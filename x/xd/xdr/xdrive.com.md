@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the xdrive.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208002951id_/http%3A//www.xdrive.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xdrive.com privacy policy that was archived on 2005-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050622084131id_/http%3A//www.xdrive.com/privacy.jsp) for the most accurate reproduction.*
 
-# Xdrive | Secure Online Storage
-
-Effective on: 08/13/04
-
-Xdrive is committed to protecting your online privacy. The following policy explains how your personal information will be treated when you register for an Xdrive account. If we are going to use customers’ personally identifiable information in a manner different from that stated at the time of collection we will notify customers by posting a notice on our Web site for 30 days.
+# Xdrive : Secure Online Storage
 
 Xdrive, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site www.xdrive.com. Because this Web site wants to demonstrate its commitment to our users’ privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
