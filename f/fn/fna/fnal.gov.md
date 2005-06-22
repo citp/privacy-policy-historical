@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fnal.gov privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204184112id_/http%3A//www.fnal.gov/pub/disclaim.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fnal.gov privacy policy that was archived on 2005-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050622084501id_/http%3A//www.fnal.gov/pub/disclaim.html) for the most accurate reproduction.*
 
 # Fermilab Disclaimer
 
