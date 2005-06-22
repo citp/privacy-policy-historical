@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thinkspain.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204200136id_/http%3A//www.thinkspain.com/info/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkspain.com privacy policy that was archived on 2005-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050622083105id_/http%3A//www.thinkspain.com/info/privacypolicy.asp) for the most accurate reproduction.*
 
 # Thinkspain - Privacy Policy
 
-|  |  | Saturday, December 4, 2004 - 21:03 (CEST) |  |  [](https://web.archive.org/search/advancedsearch.asp)  
+|  |  | Wednesday, June 22, 2005 - 10:35 (CEST) |  |  [](https://web.archive.org/search/advancedsearch.asp)  
 ---|---|---  
 |  |  |   
 ---  
