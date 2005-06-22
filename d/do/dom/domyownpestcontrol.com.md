@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the domyownpestcontrol.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209002325id_/http%3A//www.domyownpestcontrol.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domyownpestcontrol.com privacy policy that was archived on 2005-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050801082803id_/http%3A//www.domyownpestcontrol.com/privacy.php%3FosCsid%3D) for the most accurate reproduction.*
 
-# Do My Own Pest Control
+# DoMyOwnPestControl.com: Your Source for Pest Control Products, Pest Control Information, Ant Bait, Maxforce, Talstar, Termidor
 
 Because your privacy is important to us, we have created the following Privacy and Security Policy to let you know what information we collect when you visit our web site, [DoMyOwnPestControl.com](http://www.domyownpestcontrol.com/?osCsid=), why we collect it, and how it is used. This Privacy and Security Policy also addresses our data security practices, the options you have to access and control any personally identifiable information you provide to us, and other matters. We may periodically make changes to this Privacy and Security Policy which will be included on this page. It is your responsibility to review this Privacy and Security Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. 
 
