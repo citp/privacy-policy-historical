@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the esellerate.net privacy policy that was archived on 2004-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041216092219id_/http%3A//www.esellerate.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esellerate.net privacy policy that was archived on 2005-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050623085223id_/http%3A//www.esellerate.net/privacy.asp) for the most accurate reproduction.*
 
 # eSellerate - Privacy Policy
 
 **eSellerate's Online Privacy Policy**  
-_Last revision date: January 29, 2004_
+_Last revision date: April 21, 2005_
 
-[](https://www.truste.org/validate/11866)eSellerate, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of: 
+[](http://www.truste.org/ivalidate.php?url=www.esellerate.net&sealid=101)eSellerate, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of: 
 
   1. What personally identifiable information of yours or third party personally identifiable information that is collected from you through the web site 
   2. The organization collecting the information 
@@ -25,7 +25,7 @@ If you have questions or concerns regarding this statement, you should first con
 
 
 
-If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/watchdog.html>. TRUSTe will then serve as a liaison with the web site to resolve your concerns. 
+If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the web site to resolve your concerns. 
 
 **About this statement**  
 This statement describes the privacy policy for the eSellerate web site. By accessing this site, you agree to the terms of the eSellerate Online Privacy Policy, as outlined below. If we are going to use your personally identifiable information in a manner different from that stated at the time of collection, we will notify you via e-mail. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice we will also e-mail users who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
@@ -59,7 +59,11 @@ First, eSellerate takes several security measures to protect all collected infor
 While making every effort to preserve user privacy, eSellerate may need to disclose personal information when required by law or in the good faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on the eSellerate web site. 
 
 **Use of cookies**  
-To access the eSellerate web site, the visitor's browser must be set to allow cookies. eSellerate uses cookies to identify the visitor during that visit to the site. Cookies are used on a per-session basis only, and are not stored on the visitor's computer. Depending on the browser, the visitor may be able to use separate security settings for per-session cookies and cookies that are stored. 
+_For publishers, payees, affiliates and portals:_  
+To access the eSellerate web site, the visitor's browser must be set to allow cookies. eSellerate uses cookies to identify the visitor during that visit to the site. Cookies are used on a per-session basis only, and are not stored on the visitor's computer. Depending on the browser, the visitor may be able to use separate security settings for per-session cookies and cookies that are stored. eSellerate does not link the information we store in cookies to any personally identifiable information visitors submit while on our site. 
+
+_For publishers' customers:_  
+To purchase through an eSellerate web store, the visitor's browser does not need to allow cookies. However, should the browser be set to allow cookies, eSellerate uses cookies to identify the visitor during that purchase session. Cookies that identify the visitor are used on a per-session basis only, and are not stored on the visitor's computer. eSellerate also uses cookies to track sales results for its affiliate program. Cookies that track affiliate sales are stored on the visitor's computer for future use. eSellerate does not link the information we store in cookies to any personally identifiable information visitors submit during a purchase session. 
 
 **Use of log files**  
 eSellerate automatically logs the following information about visitors to this web site: IP addresses, browser type, domain names, access times and the number of hits to specific pages within the site. This information is used to administer the site and to evaluate its usability. This information is not used to create any type of personal profiles for the visitors. 
@@ -97,7 +101,7 @@ eSellerate does not control how our publishers use their customers' personally i
 > 
 > After making any modifications, they should click Save Changes. 
 
-_Last revision date: January 29, 2004_
+_Last revision date: April 21, 2005_
 
   **eSellerate's Product Activation Privacy Policy**
 
