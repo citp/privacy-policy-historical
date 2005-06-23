@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the ge.com privacy policy that was archived on 2004-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041214022819id_/http%3A//www.ge.com/en/ge/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ge.com privacy policy that was archived on 2005-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050624010121id_/http%3A//www.ge.com/en/ge/privacy.htm) for the most accurate reproduction.*
 
 # General Electric : Privacy Policy
 
-##### Information Collected
+#### Information Collected
 
 In general, you can visit this Web site without telling us who you are or revealing any information about yourself. Our web servers collect the domain names, not the e-mail addresses, of visitors. Our web servers also seek (as many Web sites do) to place a "cookie" (a small data file) on your computer's hard drive which allows the server to determine the computer when it visits again, in order to track statistical information about navigation to and throughout certain areas of our site, and to GE promotions on other sites. This cookie is not used to obtain your name or any personal data, and the information that is tracked is used only for internal purposes, such as to improve site navigation and to measure the effectiveness of our promotional placements, and is not shared with anyone other than GE affiliates and contractors who assist GE in these efforts and are bound to confidentiality. However, if you prefer not to accept cookies, you can set your browser to reject them or to alert you before one is placed.
 
 In addition, there are portions of this Web site where we may need to collect personal information from you for a specific purpose, such as to provide you with certain information you request. The information collected from you may include your name, address, telephone, fax number, or e-mail address. For electronic access to annual reports and proxy statements, we collect your tax identification number to verify your shareholder status. For our supplier diversity site, we necessarily collect information about gender and ethnicity, such as whether your business is female-owned.
 
+We use a third-party technology to place our advertisements on other Web sites. This technology will install a small "cookie" file on your computer when you view our ad. These cookies will not contain any information that personally identifies you (such as your name or e-mail address) but they will contain a randomly generated number that is unique to your browser and can be recognized by a "Web beacon" (transparent GIF file) on our site if you click through to our site from one of our ads. This allows us to keep track of how many unique visitors we have to our site and from what ads they entered, so that we can measure the effectiveness of our ads and ad placements. The privacy policies of the Web sites on which we advertise, and through which the cookies are installed should inform you about the cookie, and you may of course set your browser to reject cookies. To learn more about the third-party ad-serving technology that we use, cookies, and how to "opt-out," please [click here](https://web.archive.org/r/r?http://www.doubleclick.com/us/corporate/privacy). 
+
 This Web site is not intended for persons under 13 years of age. We do not knowingly solicit or collect personal information from or about children, and we do not knowingly market our products or services to children.
 
 Return to top
 
-##### Use of Collected Information
+#### Use of Collected Information
 
 Domain name information that we collect is not used to personally identify you and instead is aggregated to measure the number of visits, average time spent on the site, pages viewed, etc. We use this information to measure the use of our site and to improve the content of our site.
 
@@ -24,24 +26,24 @@ If you register with one of GE's business units online, they may use this inform
 
 Return to top
 
-##### Links to Other Sites
+#### Links to Other Sites
 
 GE's Web site may contain links to other sites such as GE distributors and sales affiliates. While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content, security, or privacy practices employed by other sites.
 
-##### Security of Collected Information
+#### Security of Collected Information
 
 We maintain strict physical, electronic, and administrative safeguards to protect your personal information from unauthorized or inappropriate access. We restrict access to information about you to those GE workers who need to know the information to respond to your inquiry or request. Workers who misuse personal information are subject to disciplinary action.
 
-##### Access to Collected Information
+#### Access to Collected Information
 
 You may review and update the information that you provide to us through this Web site by contacting us as described below.
 
-##### Contacting Us
+#### Contacting Us
 
 If you have any questions about this privacy policy, please use the [Contact Us](https://web.archive.org/en/ge/contact.htm) page. We welcome your questions and suggestions about our privacy policy.
 
-##### Changes to this Policy
+#### Changes to this Policy
 
-Please check this privacy policy periodically to inform yourself of any changes. Although we reserve the right to modify or supplement this privacy policy, we will provide notice to you on this Web site of any major changes for at least 30 days following the change. 
+Please check this privacy policy periodically to inform yourself of any changes. Although we reserve the right to modify or supplement this privacy policy, we will provide notice to you on this Web site of any major changes for at least 30 days following the change.
 
 Return to top
