@@ -1,25 +1,108 @@
-> *The following text is extracted and transformed from the calibex.com privacy policy that was archived on 2004-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041229044038id_/http%3A//www.calibex.com/serv/calibex1/buyer/help/calibexPrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calibex.com privacy policy that was archived on 2005-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050623030730id_/http%3A//www.calibex.com/serv/calibex1/buyer/help/calibexPrivacyPolicy.jsp) for the most accurate reproduction.*
 
-# Calibex Privacy Policy
+# Calibex: Help [Privacy Policy]
 
-Calibex respects your privacy and we want you to be confident in sharing your information with us. We've written the following statement to disclose any of the information we gather while you are using our site.
+[ ](https://www.truste.org/ivalidate.php?url=www.nextag.com)
 
-  * We do not share any identifiable information with any third party at any point in your relationship with us as a valuable customer without your permission. 
+NexTag, Inc. ("NexTag") operates the websites, [www.nextag.com](http://www.nextag.com/), [www.calibex.com](http://www.calibex.com/), [www.techpricesonline.com](http://www.techpricesonline.com/), as well as other affiliated websites, all of which are comparison-shopping site with related services (the "Websites"). NexTag respects your privacy and we want you to be confident in sharing your information with us. This Privacy Policy Statement is designed to inform you of the types of information we collect from our customers, how we use that information, and the circumstances under which we will share it with third parties. 
+
+NexTag, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This Privacy Policy Statement covers the Websites. Because Nextag wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+
+This is a new privacy policy statement, effective as of the date listed above. Even if you read and/or agreed to a prior policy statement, you need to review this updated version. This document is merely a disclosure of our current practices. It is not a contract and does not create any legal rights or obligations for any party. We reserve the right to revise this Privacy Policy Statement as any time and at our discretion. 
+
+**Notification of Changes**
+
+If we decide to change our Privacy Policy Statement, we will post those changes to this Privacy Policy Statement, the homepage of the Websites, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via either email or by posting a notice on the Websites for 30 days. 
+
+**Choice/Opt-Out**
+
+We understand you may not want to receive email from us or from our partners and advertisers. You can choose to opt-out of receiving email communications from us or our partners and advertisers by selecting to opt out if and when you register on our Websites, by following the unsubscribe instructions in the email communication or by contacting the partner or advertiser directly. 
+
+To opt out of receiving all other NexTag mailings after you have registered, send an email to: privacy@nextag.com or click the unsubscribe link contained within the email that you receive. Please note that opting out will prevent you from receiving email from NexTag regarding updates and improvements to the Websites or offers and promotions we may be offering. 
+
+In some cases we request that you submit personal information in order to forward this information to our partners that have products or services in which you have indicated an interest. In the event you agree to submit such information and authorize us to share this information with our partners (e.g., Lenders or car dealers), we no longer have control over the use of such information and your rights regarding such use will be governed by the policies of our partners. 
+
+**Accessing and Changing your Personal Information**
+
+For registered users, you can review your personal identifiable information by logging in with your email and password and then clicking on the "My Account" link located at the top right of each page. After accessing your My Account page, click the links under the General Account Information section to make changes as necessary. 
+
+Please note: Though we store encrypted credit card information for transactional purposes, we do not display it for review as part of your online account information. If you would like to review this or any further information offline, please feel free to [contact us.](https://web.archive.org/web/20050623030730id_/http%3A//www.calibex.com/serv/calibex1/about/contact_us.jsp)
+
+**Confidentiality and Security**
+
+We restrict access to your nonpublic personal information to those NexTag employees and agents who need to know that information to provide services to our users 
+
+We maintain physical, electronic and procedural safeguards that comply with federal standards to guard your nonpublic personal information. Further, we employ Secure Socket Layer technology in transmitting certain sensitive information (e.g. credit card or personally identifiable information) from you to us and from us to our partners. 
+
+**Personal Information**
+
+Users have the option of providing various types of personal information to make the best use of our Websites. Providing personal information is voluntary. This section describes what we collect, how we use it, and with whom we share it. We only disclose information in compliance with applicable laws. By providing this information, you agree to its use consistent with this policy. 
+
+> **Zip Code Only:** On our comparison shopping sites, you have the choice of providing your zip code. We use your zip code to compute total price including the cost of shipping and sales tax. We do not share this information with third parties. 
+> 
+> **E-mail Address Only:** If you wish to register for either Price Alerts (through our Watch List feature) or our Buyer's Alert Newsletter, we require that you provide us with your email address. We do not share these e-mail addresses with third parties. 
+> 
+> **Basic Contact Info:** When a visitor decides to become a registered user, we ask for some basic contact information, such as username, zip code, and email address. We use this basic contact information to facilitate the use of certain features of our Websites (e.g., total price and submission of seller reviews) and to send the user information about our company. We also use email addresses to communicate occasional offers from our partners and advertisers. We do not share this basic contact information with third parties. 
+> 
+> **Complete Contact Info:** When a user wishes to be contacted by a merchant, such as an auto dealer in their local area, we collect full name, e-mail address, and phone number. NexTag forwards this personal information on to appropriate merchants. 
+> 
+> When a registered user decides to become a seller, we collect complete contact information, i.e., full name, address, e-mail address, and phone number, as well as credit card number and expiration date. We use this information to validate the seller's identity and to bill the seller for services provided by NexTag and approved in advance by the seller. All credit card information is encrypted. With the exception of our credit card processing service, we will not share your credit card information with third parties without your approval. The credit card processing company may retain, share, store or use personally identifiable information for their internal purposes. 
+> 
+> **Service User Information:** When a user wants to receive information about, mortgages, real estate services, personal finance, or insurance, NexTag requests that Service Users complete a questionnaire, which includes personal financial and contact information ("Service User Information"). Service User Information enables NexTag to provide Service Users with information about requested services. We do not provide a means of updating Service User Information. Any updates should be provided directly to the Service Providers that contact the Service User. 
+> 
+> In the questionnaire, we obtain consent from a Service User to disclose Service User Information to Service Providers, such as participating banks, mortgage brokers, loan brokers and financial institutions (collectively, "Lenders"), as well as real estate brokers, insurance companies, and insurance agents. In the questionnaire, we state that we cannot provide our services without such consent. When a Service User provides consent, we will disclose Service User Information only authorized and permitted by applicable laws. By providing consent, the Service User authorizes us to disclose Service User Information to Lenders and/or other Service Providers and is expressly consenting to be contacted by Lenders and/or other Service Providers, including by phone and email (and such consent is effective even if the Service User is registered on any federal, state, trade association, or corporate Do-Not-Call Registry). 
+> 
+> NexTag does not have control over the use of Service User Information by the Lenders and other Service Providers, however. The Service User's rights regarding such use will be governed by the policies of the Lenders or other Service Providers with whom the information is shared. After the Service User has left our Websites, we continue to treat Service User Information as confidential and do not disclose it to third parties other than as authorized by the Service User and explained in our Privacy Policy. 
+> 
+> **Use of Personal Information**
+> 
+> In addition to the uses described above, we may use your personal information: 
+> 
+>   * To forward to merchants that offer the products or service a user is interested in.
+>   * To contact a user in response to a customer service question from the user or to resolve a dispute between users.
+>   * To process credit card payments approved in advance by a user.
+>   * To allow a user to send an email to another user who is listing an item for sale on our site.
+>   * To share information about the Site if the user opts in to receive such communications.
+>   * To distribute occasional promotional material from our partners and advertisers if the user opts in to receive such communications.
+>   * To assist law enforcement or other governmental agencies investigating cases of possible illegal activities by third parties.
+> 
 
 
+**Aggregate Information**
 
-We collect certain technical information to insure that our site is working properly. For example, when you are browsing, we use your IP address to help diagnose problems with our servers, and to help administer our Web site.
+NexTag may share aggregated activity or statistical information with partners, advertisers or others, but that information that does not contain personally identifiable information. We collect certain information through the Web site experience and activities, cookies, log files, clear gifs, and/or third parties to create a profile of our users. A profile is stored information that we keep on individual users that detail their viewing preferences, activities and interactions with NexTag. Consequently, collected information is tied to the user's personally identifiable information to provide offers and improve the content of the site for the user. This profile is used to tailor a user's visit to our Web site and to direct pertinent marketing promotions and communications to them. 
 
-Your IP address is also used at times to help identify you as you browse and to gather broad technical and demographic information on who uses our site. We may provide third parties with statistics about our users, traffic patterns and related site information. This data is collected from millions of user visits to our site each month and does not contain any personally identifiable information. 
+> **Cookies**
+> 
+> A cookie is a piece of data tied to information about the user and stored on the user's computer. We use both session cookies, which terminate when a user closes his browser, and persistent cookies, which remain on the user's computer until manually deleted. 
+> 
+> Cookies are used to help make your use of our Websites more enjoyable. NexTag creates these cookie files on your hard drive through your browser and uses them to save information on your NexTag username, zip code and Website preferences so you can avoid re-entry of this information each time you visit our Websites. Cookies also help us to deliver content specific to your interests. You may decline our cookies if your web browser software permits, although this may prevent you from accessing certain features on our Websites. 
+> 
+> **NexTag does not and cannot use cookies to retrieve personal information about you from your computer.**
+> 
+> **Log Files**
+> 
+> Like most standard website servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the Web site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. We use your IP address at times to help identify you as you browse and to gather broad technical and demographic information on who uses our Websites. We may provide third parties with statistics about our users, traffic patterns and related Website information. This data is collected from millions of user visits to our Websites each month and does not contain any personally identifiable information. 
+> 
+> **Clear Gifs** (Web Beacons/Web Bugs)
+> 
+> We employ and/or our third party advertisers employ a software technology called clear gifs (also known as Web Beacons or Web Bugs). They help us better manage content on our site by informing us what content and which campaigns are effective. Clear gifs are tiny graphics, about the size of a period at the end of a sentence, with a unique identifier. Clear gifs are similar in function to cookies and are used to track the online movements of Web users. 
+> 
+> **Third Party Advertising**
+> 
+> Third parties displaying advertisements on our Websites may also use cookies or clear gifs. NexTag does not control the use of cookies and clear gifs by third parties. The use of cookies and clear gifs by these companies is subject to their own privacy policies, which you may review by visiting their websites. Any information that these third parties collect via cookies and clear gifs is completely anonymous. If you would like more information about this practice and your choices, [click here](http://www.networkadvertising.org/optout_nonppii.asp). Currently, NexTag has relationships with the following third party advertising networks, [Doubleclick, Inc](http://www.doubleclick.com/us/). and [WebConnect, Inc](http://www.worldata.com/). 
+> 
+> In addition, NexTag and its advertisers use may clear gifs in HTML-based emails. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns by showing how may emails have been opened by the recipients. If users would like to opt-out of these emails, please see the Choice/Opt-out section. 
 
-Cookies are used to help make your use of our site more enjoyable. Calibex creates these cookie files on your hard drive through your browser and uses them to save information on your zip code and site preferences so you can avoid re-entry of this information each time you visit our site. Cookies also help us to deliver content specific to your interests. 
+**Contact Us**
 
-**Calibex does not and cannot use cookies to retrieve personal information about you from your computer.**
+If you have any questions about this Privacy Policy, the practices of this Site, or your use of the Site, please contact us at: 
 
-The information we may request from you is outlined below.
+> NexTag, Inc.  
+>  1300 South El Camino Real  
+>  Suite 600  
+>  San Mateo, CA 94402   
+>  usersupport@nextag.com   
+> 
 
-> **Zip Code:** In order to use the total price functionality on our site, (i.e. finding out total price including the cost of shipping and sales tax) we ask you for your zip code. 
-
-We take reasonable precautions to maintain the security of the personal information you provide to our site and to only share this information with third parties that agree to honor our privacy policy. 
-
-**Our site contains links to other Web sites. Calibex is not responsible for the privacy practices or the content of such Web sites.**
+If you do not receive acknowledgment of your inquiry or your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will serve as a liaison with Nextag to resolve users concerns. 
