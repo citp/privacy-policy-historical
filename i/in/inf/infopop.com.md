@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infopop.com privacy policy that was archived on 2004-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041215095427id_/http%3A//infopop.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infopop.com privacy policy that was archived on 2005-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050623232037id_/http%3A//www.infopop.com/privacy.php) for the most accurate reproduction.*
 
 # Infopop - Privacy Policy
 
@@ -19,8 +19,8 @@ If you have any questions about this Privacy Statement or other questions about 
 **Via Mail:**  
 Infopop Corporation  
 Privacy Contact: Infopop Privacy Administrator   
-112 Fifth Avenue North   
-Seattle, WA 98109 
+2401 4th Avenue, Suite 500  
+Seattle, WA 98121 USA
 
 **Online:**  
 [https://www.infopop.com/q/q.php?action=pool_query&num=41](https://www.infopop.com/q/q.php?action=pool_query&num=41)
