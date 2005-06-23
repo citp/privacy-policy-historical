@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the motorcities.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210122310id_/http%3A//www.motorcities.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorcities.com privacy policy that was archived on 2005-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050623080557id_/http%3A//www.motorcities.com/privacypolicy.html) for the most accurate reproduction.*
 
-# MotorCities.com -- Gallery of car wallpaper, car videos, car sounds, car photos, car photographs, car wallpaper, automobile wallpaper, automobile videos, automobile sounds, automobile photos, automobile photographs, automobile wallpaper, auto wallpaper, auto videos, auto sounds, auto photos, auto photographs, auto wallpaper, wallpaper of cars, wallpaper of automobiles, wallpaper of autos.
+# Car Pictures
 
 Any personal information you share with MotorCities will be kept strictly confidential. Further, your email address will never be shared with any other person or organization.
 
