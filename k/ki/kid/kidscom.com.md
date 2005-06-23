@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kidscom.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208063131id_/http%3A//www.kidscom.com/info/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidscom.com privacy policy that was archived on 2005-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050624015941id_/http%3A//www.kidscom.com/info/privacy_policy.html) for the most accurate reproduction.*
 
 # KidsCom - Privacy Policy
 
 **KidsCom.com Privacy Policy**
 
-For more than seven years, KidsCom.com has been striving to create safe, educational and entertaining electronic playgrounds for kids 4 to 15. In that time, kids, parents and teachers from more than 120 countries around the world have joined us. Our mission is to give kids a voice to the world and to each other around the world through a variety of engaging activities. 
+For more than ten(10) years, KidsCom.com has been striving to create safe, educational and entertaining electronic playgrounds for kids 4 to 15. In that time, kids, parents and teachers from more than 120 countries around the world have joined us. Our mission is to give kids a voice to the world and to each other around the world through a variety of engaging activities. 
 
 Anyone can play on KidsCom.com. It is free and KidsCom.com Club registration is not required. Some areas of the site, however, are reserved for registered KidsCom.com Club Kids who have obtained their parent's permission. 
 
