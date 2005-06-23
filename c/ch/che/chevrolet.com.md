@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chevrolet.com privacy policy that was archived on 2004-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041230190021id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chevrolet.com privacy policy that was archived on 2005-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050623125843id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.*
 
 # GM - Privacy Policy
 
@@ -44,7 +44,7 @@ Most pages on gm.com are covered by this privacy statement. The Education pages 
 _Other GM websites_  
 To provide services, some GM websites may request additional information. Please click on the links listed below to view the supplemental privacy information that should be read together with this Privacy Statement. 
 
-Certain other GM websites and services have their own privacy statements that can be viewed on their sites. These include [Saab.com](http://www.saab.com/), [GM Card](http://www.gmcardmemberservices.com/), [OnStar](http://www.onstar.com/), the Education pages of [GMability](http://www.gm.com/company/gmability/edu_k-12/), and the GMAC family of businesses ([GMACFS.com](http://www.gmacfs.com/), [GMACrelocation.com](http://www.gmacglobalrelocation.com/), [GMACMortgage.com](http://www.gmacmortgage.com/), [GMACBC.com](http://www.gmacbc.com/), [GMACCM.com](http://www.gmaccm.com/), [GMACinsurance.com](http://www.gmacinsurance.com/), [GMACrealestate.com](http://www.gmacrealestate.com/), [GMACpolicy.com](http://www.gmacpolicy.com/), [GMACre.com](http://www.gmacre.com/), [GMACbank.com](http://www.gmacbank.com/)).
+Certain other GM websites and services have their own privacy statements that can be viewed on their sites. These include [Saab.com](http://www.saab.com/), [GM Card](http://www.gmcardmemberservices.com/), [OnStar](http://www.onstar.com/), the Education pages of [GMability](http://www.gm.com/company/gmability/edu_k-12/), and the GMAC family of businesses ([GMACFS.com](http://www.gmacfs.com/), [GMACrelocation.com](http://www.gmacglobalrelocation.com/), [GMACMortgage.com](http://www.gmacmortgage.com/), [GMACCF.com](http://www.gmaccf.com/), [GMACCM.com](http://www.gmaccm.com/), [GMACinsurance.com](http://www.gmacinsurance.com/), [GMACrealestate.com](http://www.gmacrealestate.com/), [GMACpolicy.com](http://www.gmacpolicy.com/), [GMACre.com](http://www.gmacre.com/), [GMACbank.com](http://www.gmacbank.com/)).
 
 **Personal Information Collection**  
 You may use GM's websites to learn about our products and services without disclosing any personal information. We may ask you to provide us with personal information, for example, to access certain customized features, such as requesting product information. Information that may be requested on GM websites includes: contact information, such as name, address, email address, and telephone number; vehicle information including vehicle identification number (VIN); demographic information, such as household information, age group, or purchase plans; or non-vehicle GM product usage/ownership information, such as GM Card or OnStar.
@@ -77,7 +77,7 @@ If you have concerns or questions regarding GM's consumer privacy practices, ple
 **Changes**  
 We retain the right to change this Privacy Statement. We will post changes to this page in a timely manner.
 
-This statement is effective as of 01/01/2005.
+This statement is effective as of 01/10/2005.
 
 **Supplemental Privacy Information**  
 This information supplements the information provided in the GM Privacy Statement for U.S. Consumers.
@@ -106,7 +106,7 @@ ___[Saturn](http://www.saturn.com/)_ |  
 
 __Correcting Your Information__ \- You may correct the contact information (name, address, phone number, and e-mail address) you provide on the Saturn Web site by using [My Profile](http://www.saturn.com/mysaturn/).
 
-__Privacy Inquiries__ \- If you have a question or concern about the privacy practices of the Saturn.com Web site, please contact us by sending an e-mail from the [Contact Us](http://www.saturn.com/talk_to_us/e-mail_saturn/) page or by writing to us at: Saturn Privacy, 100 Saturn Parkway, MD 371-999-S24, Spring Hill, TN 37174.  
+__Privacy Inquiries__ \- If you have a question or concern about the privacy practices of the Saturn.com Web site, please contact us by sending an e-mail from the [Contact Us](http://www.saturn.com/saturn/contactus/index.jsp) page or by writing to us at: Saturn Privacy, 100 Saturn Parkway, MD 371-999-S24, Spring Hill, TN 37174.  
   
 **III. _Your California Privacy Rights_  
      2004 Disclosure**
@@ -142,15 +142,9 @@ Maryland Heights, MO 63043
 
 GMAC Insurance  
 Specialty Markets & Products  
-GM Motor Club, Inc.   
+GM Motor Club, Inc./GM Protection Plan  
 P.O. Box 3580  
 Southfield, MI 48037-3580
-
-GMAC Insurance  
-Specialty Markets & Products  
-General Motors Protection Plan  
-P.O. Box 37508  
-Detroit, MI 48237-9968
 
 GMAC Mortgage Corporation  
 100 Witmer Road  
