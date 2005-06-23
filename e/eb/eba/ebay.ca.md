@@ -1,18 +1,15 @@
-> *The following text is extracted and transformed from the ebay.ca privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208051658id_/http%3A//pages.ebay.ca/help/community/png-priv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.ca privacy policy that was archived on 2005-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050623123427id_/http%3A//pages.ebay.ca/help/community/png-priv.html) for the most accurate reproduction.*
 
 # eBay Canada: Help : Policies and Guidelines : Privacy Policies
 
 eBay Privacy Policy 
 
-|  Your privacy is very important to us. We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. Please read this privacy policy to learn more about the ways in which we use and protect your personal information. We want you to fully understand our privacy practices and therefore, in addition to this Privacy Policy, we have created [Privacy Central](http://pages.ebay.ca/help/privacycentral1.html) to help you fully evaluate our practices and answer your privacy questions. 
+Your privacy is very important to us. We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. Please read this privacy policy to learn more about the ways in which we use and protect your personal information. We want you to fully understand our privacy practices and therefore, in addition to this Privacy Policy, we have created [Privacy Central](http://pages.ebay.ca/help/privacycentral1.html) to help you fully evaluate our practices and answer your privacy questions. 
 
 If you have additional questions, you may send email to [privacy@ebay.ca](mailto:privacy@ebay.ca). 
 
 To view a more user friendly description of our Privacy Policy and to answer questions regarding this policy, please go to our Privacy Central web pages at <http://pages.ebay.ca/help/privacycentral1.html>. Your questions may also be answered by using our webform located at: <http://pages.ebay.ca/help/welcome/customer-support.html>. 
 
-|  [ ](https://www.truste.org/validate/398)  
----|---  
-  
 Overview
 
 The privacy practices of this statement apply to our services available under the domain and sub-domains of [www.ebay.ca](http://www.ebay.ca/) (including [www.stores.ebay.ca](http://www.stores.ebay.ca/)) and apply generally to our parent, subsidiaries and joint venture websites whose specific privacy policies are available from our Privacy Central pages. By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree, please to not use or access our Site. 
