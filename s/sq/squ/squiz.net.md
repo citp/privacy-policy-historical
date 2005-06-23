@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squiz.net privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204121811id_/http%3A//www.squiz.net/%3Fp%3D461) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squiz.net privacy policy that was archived on 2005-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050623234921id_/http%3A//www.squiz.net/%3Fp%3D461) for the most accurate reproduction.*
 
 # Squiz - Privacy
 
