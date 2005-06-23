@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the franchisegator.com privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212015521id_/http%3A//franchisegator.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchisegator.com privacy policy that was archived on 2005-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050623234359id_/http%3A//www.franchisegator.com/privacy.html) for the most accurate reproduction.*
 
 # Franchise and Business Opportunities for Entrepreneurs
 
