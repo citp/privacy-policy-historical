@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gopetition.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204063531id_/http%3A//gopetition.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gopetition.com privacy policy that was archived on 2005-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050623153901id_/http%3A//gopetition.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement / Start a Petition / How to Write a Petition / How to Start a Petition
 
 **Understanding**  
 Gopetition.com recognises that your privacy is very important to you and that you have a right to control your personal information. We know that providing personal information is an act of trust and we take that seriously. Petition signature information you provide us is not displayed anywhere publicly on the site, unlike other online petition hosting services. This means that your email address cannot be taken from our site and added to bulk mailing lists. The only people who have access to your personal information are the Gopetition.com staff and the author of the particular petition/s you have signed. 
@@ -25,4 +25,8 @@ Gopetition.com will endeavour to take all reasonable steps to keep secure any in
 
   
 We use some cookies to remember who you are, this saves you typing in the same information repeatedly. You do not have to use cookies to use Gopetition.com  
+  
+ **Important Links  
+  
+** Please click on the following links for further information:[How to write a petition](http://www.gopetition.com.au/howtowriteapetition.php)[About Us](http://www.gopetition.com.au/aboutus.php)[Contact Us](http://www.gopetition.com.au/contactus.php)[How to start a petition](http://www.gopetition.com.au/create.php)  
 
