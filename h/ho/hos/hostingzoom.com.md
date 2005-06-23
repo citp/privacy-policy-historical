@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hostingzoom.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207001402id_/http%3A//www.hostingzoom.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostingzoom.com privacy policy that was archived on 2005-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050624003303id_/http%3A//www.hostingzoom.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Hosting Zoom - Privacy Policy
 
   | 
 
-[](http://www.truste.org/ivalidate.php?url=www.hostingzoom.com)
+[](http://www.truste.org/ivalidate.php?url=www.hostingzoom.com&sealid=101)
 
 By submitting an online order form, or by using Hosting Zoom’s service, Customer hereby agrees to the following Privacy Policy. Customer agrees that it shall comply with and require its end users to comply with this Privacy Policy, Hosting Zoom’s Terms of Service (TOS), Hosting Zoom’s Acceptable Use Policy (AUP), and Hosting Zoom’s No-Spam Policy (NSP). In this document, the word “Agreement,” with a capital “A,” refers to the TOS, the AUP, the NSP, and the Privacy Policy collectively.
 
