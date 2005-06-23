@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the thefacebook.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210225033id_/http%3A//www.thefacebook.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefacebook.com privacy policy that was archived on 2005-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050624002804id_/http%3A//www.thefacebook.com/policy.php) for the most accurate reproduction.*
 
 # Thefacebook | Privacy Policy
 
 |  |   
-  
+---|---  
+|  | 
+
 Thefacebook Privacy Policy
 
 [ Privacy Policy ]
@@ -81,7 +83,7 @@ Thefacebook users may modify or remove any of their personal information at any 
    
 
 
-Thefacebook accounts are password-protected. This web site takes every precaution to protect our users' information. Passwords are stored in hashed form in our database, and different sections of users' profiles are stored in different parts of our database to separate access to all of the information and make it more difficult to piece everything together. If you have any questions about the security of our web site, please [contact us](https://web.archive.org/web/20041210225033id_/http%3A//www.thefacebook.com/contact.php).   
+Thefacebook accounts are password-protected. This web site takes every precaution to protect our users' information. Passwords are stored in hashed form in our database, and different sections of users' profiles are stored in different parts of our database to separate access to all of the information and make it more difficult to piece everything together. If you have any questions about the security of our web site, please [contact us](https://web.archive.org/web/20050624002804id_/http%3A//www.thefacebook.com/contact.php).   
  
 
 Changes in Our Privacy Policy
@@ -95,14 +97,15 @@ We reserve the right to change our privacy policy at any time. If we do this, we
    
 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, please [contact us](https://web.archive.org/web/20041210225033id_/http%3A//www.thefacebook.com/contact.php).   
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, please [contact us](https://web.archive.org/web/20050624002804id_/http%3A//www.thefacebook.com/contact.php).   
    
   
 ---|---  
   
-[about](https://web.archive.org/web/20041210225033id_/http%3A//www.thefacebook.com/about.php)   [contact](https://web.archive.org/web/20041210225033id_/http%3A//www.thefacebook.com/contact.php)   [jobs](https://web.archive.org/web/20041210225033id_/http%3A//www.thefacebook.com/jobs.php)   [announce](http://www.thefacebook.com/announce.php)   [advertise](http://www.thefacebook.com/media.php)   [terms](https://web.archive.org/web/20041210225033id_/http%3A//www.thefacebook.com/terms.php)   [privacy](https://web.archive.org/web/20041210225033id_/http%3A//www.thefacebook.com/policy.php)   
+[about](https://web.archive.org/web/20050624002804id_/http%3A//www.thefacebook.com/about.php)   [contact](https://web.archive.org/web/20050624002804id_/http%3A//www.thefacebook.com/contact.php)   [jobs](https://web.archive.org/web/20050624002804id_/http%3A//www.thefacebook.com/jobs.php)   [announce](http://www.thefacebook.com/announce.php)   [advertise](http://www.thefacebook.com/media.php)   [terms](https://web.archive.org/web/20050624002804id_/http%3A//www.thefacebook.com/terms.php)   [privacy](https://web.archive.org/web/20050624002804id_/http%3A//www.thefacebook.com/policy.php)        
 a Mark Zuckerberg production   
-Thefacebook © 2004 
+Thefacebook © 2005   
+
 
   
 
