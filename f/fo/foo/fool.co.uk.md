@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fool.co.uk privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210140801id_/http%3A//www.fool.co.uk/Community/Register/PrivacyStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fool.co.uk privacy policy that was archived on 2005-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050624001946id_/http%3A//www.fool.co.uk/Community/Register/PrivacyStatement.htm) for the most accurate reproduction.*
 
 # The Motley Fool UK: Privacy and Cookie Statement
 
@@ -76,7 +76,7 @@ The Motley Fool is committed to protecting your personal information. All inform
 
 **Direct Mailings**
 
-If you register with The Motley Fool or sign up for or buy any of our products or services, we will send you information about our various products and services, or other products and services we feel may interest you. Only The Motley Fool will send you these notices. If you do not want to receive such offers and mailings, you can let us know on our [Email Unsubscribe page](http://www.fool.co.uk/community/freemail/emailenter.htm), or via email to [UK Privacy](mailto:ukprivacy@fool.co.uk) or send snail mail to: Privacy at The Motley Fool, 3-8 Carburton Street, London W1W 5AJ. We'll remove your name from our lists as soon as we can. Another way is to simply to click the [unsubscribe link](http://www.fool.co.uk/community/freemail/emailenter.htm) found in our email messages.
+If you register with The Motley Fool or sign up for or buy any of our products or services, we will send you information about our various products and services, or other products and services we feel may interest you. Only The Motley Fool will send you these notices. If you do not want to receive such offers and mailings, you can let us know on our [Email Unsubscribe page](http://www.fool.co.uk/community/freemail/emailenter.htm), or via email to [UK Privacy](mailto:ukprivacy@fool.co.uk) or send snail mail to: Privacy at The Motley Fool, 2nd Floor, Lasenby House, 32 Kingly Street, London W1B 5QQ. We'll remove your name from our lists as soon as we can. Another way is to simply to click the [unsubscribe link](http://www.fool.co.uk/community/freemail/emailenter.htm) found in our email messages.
 
 **Deactivating Your Account or Editing Your Information**
 
@@ -97,10 +97,10 @@ The Fool may amend this Privacy and Cookie Statement from time to time. If we ma
   
 
 
-[](http://click.fool.com/15482/41024/127/http%3A%2F%2Fsummitmedia.cc-eu.co.uk%2Flink%2Fclick%3Flid%3D41000000001114821)
+[](http://click.fool.com/16062/46986/127/http%3A%2F%2Fwww.joincreditexpert.com%2Ffreecreditreport%2F%3Fsc%3D404300%26bcd%3Dmfoolgoodc23460ostri)
 
   
 |  |    
 
 
-[](http://click.fool.com/15169/41003/1718/http%3A%2F%2Fuk.sitestat.com%2Flandg%2Flandg%2Fs%3Fcarat.life.motleyfool_skyscraper%26ns_type%3Dclickin)
+[](http://click.fool.com/16411/47097/1718/https%3A%2F%2Facctcentre.msdwcard.com%2Fservlet%2FProcessAdvertisement%3Fid%3D5583029)
