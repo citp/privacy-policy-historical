@@ -1,986 +1,798 @@
-<!--The following is the downloaded HTML source of the news.com.au privacy policy that was archived on 2004-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041209193804id_/http%3A//www.news.com.au/common/privacy/0%2C4841%2C%2C00.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the news.com.au privacy policy that was archived on 2005-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050624091145id_/http%3A//www.news.com.au/privacy) for the most accurate reproduction.-->
 
 <html><head>
-<title>News Interactive Privacy</title>
-<meta name="keywords" content="news, News Interactive, News Limited, breaking news, latest news, headlines, media, local, international, worldwide, daily, weekly, Australia, newspapers online, mastheads, The Australian, Daily Telegraph, The Courier Mail, Herald Sun, The Mercury, The Advertiser, Sunday Times, classifieds,  employment, cars, property, real estate, business, investment, sports, technology, I.T., entertainment, finance, weather, community, News Interactive, News Limited, News Corporation">
-<meta name="description" content="Welcome to news.com.au, where you will find daily news from the News Limited mastheads across Australia.  Access the portfolio of News Interactive sites and get the latest news on technology, employment, real estate, sport, classifieds, motoring, community, entertainment and weather. Receive a daily email of the nation's news headlines to keep you informed of the breaking news.">  
-	 <script language="Javascript">
+	<title>NEWS.com.au | Privacy Policy</title>
+
+<meta http-equiv="Refresh" content="0480">
+<meta name="ROBOTS" content="NOARCHIVE">
+<meta name="keywords" content="news, News Interactive, News Limited, business, finance, dollar, rates, stockmarket, breaking news, latest news, headlines, media, local, international, worldwide, daily, weekly, Australia, newspapers online, mastheads, The Australian, Daily Telegraph, The Courier Mail, Herald Sun, The Mercury, The Advertiser, Sunday Times,  technology, I.T., entertainment, weather, community, News Interactive, News Limited, News Corporation">
+<meta name="description" content="The latest from across Australia and the world, drawing on the resources of News Limited's 100 newspapers, 3000 journalists and a dedicated online team.  Features top stories, breaking news and the latest national, world, business, entertainment, technology, audio and sports reports.  NEWS.com.au is updated as news breaks.">
+<link rel="shortcut icon" href="http://network.news.com.au/favicon.ico" type="image/x-icon"> 
+<link rel="icon" href="http://network.news.com.au/favicon.ico" type="image/x-icon"> 
+	<link rel="stylesheet" type="text/css" href="/css/news_global/0,10113,,00.css">
+<link rel="stylesheet" type="text/css" href="/css/news_subset/0,10143,,00.css">
+<link rel="stylesheet" type="text/css" href="/css/news_otherpages/0,10194,,00.css">
+
+<script language="JavaScript" type="text/javascript">
 <!--
-//roll overs
-if (document.images) {
-  mouseOverImg = new Image();
-  mouseOverImg.src = "/images/lnav/mouse_over.gif";
-  normalImg = new Image();
-  normalImg.src = "/images/lnav/mouse_out.gif";
-}
-
-function mouseOver(m) {
-  menuItem = "menu" + m;
-  if (document.images) {
-    document[menuItem].src = mouseOverImg.src;
-  }
-}
-
-function mouseOut(m) {
-  menuItem = "menu" + m;
-  if (document.images) {
-    document[menuItem].src = normalImg.src;
-  }
-}
-
-// new rollovers
-function arrowOver(theId) {
-document.all[theId].style.visibility='visible';
-}
-
-function arrowOut(theId) {
-document.all[theId].style.visibility='hidden';
-}
-
-//end roll overs
-
-
- 
-function goThere(menu) {
-   var url2go = menu.options[menu.selectedIndex].value;
-   if ( url2go == "http://www.news.com.au") {
-   location= "http://www.news.com.au";
-   } else if (url2go == "") {
-   ;
-   } else {
-   window.open(url2go,'url2go');
-   }   
-} 
-
-function fnGo() {   
-   document.frmFastSearch.action="http://www.careerone.com.au/CareerOne/CallSearch";   
-   document.frmFastSearch.method = "GET"   
-   document.frmFastSearch.target = "blank";
-   document.frmFastSearch.submit(); 
-}
-
-function windowOpener(theURL,winName,features) {
-  window.open(theURL,winName,features);
-}
-
-function openWin(theURL,features) {
-  window.open(theURL,features);
-}
-
-function validBrowser() {
-	brow_Ver = parseFloat(navigator.appVersion); 
-	if (navigator.appName == "Microsoft Internet Explorer" && 
-		navigator.userAgent.indexOf("IE 5") > -1 && 
-		navigator.platform.indexOf("Win16") == -1)
-	{
-		return 1;
-	}
-	return 0;
-}
-function setHomePage() { 
-	if (validBrowser()) {
-	 	homePage.setHomePage("http://news.com.au");
-		return false;	
-	}
-} 
-
-function selectSearchOn(form,radioIdx,startDay,startORend){
-	if (form.searchOn[radioIdx].checked == false) {
-		form.searchOn[radioIdx].checked = true;
-	}
-}
-
-
-	// start search form check 
-	var oneMinute = 60 * 1000
-	var oneHour = oneMinute * 60
-	var oneDay = oneHour * 24
-	var oneWeek = oneDay * 7
-	var oneMonth = oneDay * 30
-    var	today = new Date();
-	
-	function checkDate(theForm,startDay,startMonth,startYear,endDay,endMonth,endYear) {
-		if (theForm.searchTerm.value == "") {
-		alert("Please enter a keyword.");
-		theForm.searchTerm.focus();
-		theForm.searchTerm.select();
-		return false;
-		}
-		todaysDate = today.getTime();
-		// know the input start date
-		sDate = new Date(startYear,startMonth,startDay);
-		startDate = sDate.getTime();
-		// know the input end date
-		eDate = new Date(endYear,endMonth,endDay);
-		endDate = eDate.getTime();
-		// check start date is not more than 0 days future and 3 months past
-		if (startDate > todaysDate) {
-		alert("Start Date cannot be in the Future !");
-		return false;
-		}
-		if ((todaysDate-startDate) > (oneDay*92)) {
-		alert("Search is restricted to material published in the last 3 months only.");
-		return false;
-		}
-		if (startDate > endDate) { 
-		alert("The start date must be earlier than the end date.");
-		return false;
-		}
-	return true;		
-	}
-	
-	// end search form check 
-
-//-->
+var currentPage = "ninews_privacy";
+-->
 </script>
-
-<script language="Javascript">
-<!--
-// Cookie functions
-function getCookieVal(offset) {
-var endstr = document.cookie.indexOf (";", offset);
-if (endstr == -1)
-endstr = document.cookie.length;
-return unescape(document.cookie.substring(offset, endstr));
-}
-
-function FixCookieDate(date) {
-var base = new Date(0);
-var skew = base.getTime();
-if (skew > 0) 
-	date.setTime (date.getTime() - skew);
-}
-
-function GetCookie(name) {
-var arg = name + "=";
-var alen = arg.length;
-var clen = document.cookie.length;
-var i=0;
-while (i < clen) {	
-	var j = i + alen;
-	if (document.cookie.substring(i, j) == arg)
-	return getCookieVal (j);
-	i = document.cookie.indexOf(" ", i) + 1;
-	if (i == 0) break;
-	}
-return null;
-}
-
-function SetCookie(name,value,expires,path,domain,secure) {
-document.cookie = name + "=" + escape (value) +
-((expires) ? "; expires=" + expires.toGMTString() : "") +
-((path) ? "; path=" + path : "") +
-((domain) ? "; domain=" + domain : "") +
-((secure) ? "; secure" : "");
-}
-// end cookies
-//-->
-</script>
-
-<script language="Javascript">
-<!--
-// odds for Ninnbar flash
-var randomN=Math.floor(Math.random()*3); // 1 in 4 odds
-
-// Flash Detect IE4+ Win32 only
-
-var flashVersion = 0;
-function getFlashVersion() {
-var agent = navigator.userAgent.toLowerCase();
-if (agent.indexOf("msie") != -1 && agent.indexOf("opera")==-1 && parseInt(navigator.appVersion) >= 4 && agent.indexOf("win")!=-1 && agent.indexOf("16bit")==-1) {
-document.write('<scr' + 'ipt language="VBScript"> \n');
-document.write('on error resume next \n');
-document.write('dim obFlash \n');
-document.write('set obFlash = CreateObject("ShockwaveFlash.ShockwaveFlash.7") \n');
-document.write('if IsObject(obFlash) then \n');
-document.write('flashVersion = 7 \n');
-document.write('else set obFlash = CreateObject("ShockwaveFlash.ShockwaveFlash.6") end if \n');
-document.write('if flashVersion < 7 and IsObject(obFlash) then \n');
-document.write('flashVersion = 6 \n');
-document.write('else set obFlash = CreateObject("ShockwaveFlash.ShockwaveFlash.5") end if \n');
-document.write('if flashVersion < 6 and IsObject(obFlash) then \n');
-document.write('flashVersion = 5 \n');
-document.write('else set obFlash = CreateObject("ShockwaveFlash.ShockwaveFlash.4") end if \n');
-document.write('if flashVersion < 5 and IsObject(obFlash) then \n');
-document.write('flashVersion = 4 \n');
-document.write('else set obFlash = CreateObject("ShockwaveFlash.ShockwaveFlash.3") end if \n');
-document.write('if flashVersion < 4 and IsObject(obFlash) then \n');
-document.write('flashVersion = 3 \n');
-document.write('end if');
-document.write('</scr' + 'ipt> \n');
-}
-else { flashVersion = 1; // all other cases left alone
-	}
-}	
-
-getFlashVersion();
-
-// end Flash detect
-//-->
-</script>
-
-<script language="JavaScript">
-<!--
-// Flash object(s)
-// 1.
-var flashNinnbar1 = '<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">'
-+ '<tr><td align="LEFT" bgcolor="#FFFFFF">'
-+ '<table cellpadding="0" cellspacing="0" border="0" width="760" bgcolor="#ffffff">'
-+ '<tr bgcolor="#FFFFFF">'
-+ '<td width="760" bgcolor="#ffffff">'
-+ '<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"' 
-+ 'width="760" height="27"'
-+ 'codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,0,0" name=ninnbarf>'
-+ '<param name="movie" value="http://www.news.com.au/common/ninnbar_carsguide.swf">'
-+ '<param name="quality" value="high">'
-+ '<PARAM NAME=menu VALUE=false>'
-+ '<param name="bgcolor" value="#FFFFFF">'
-+ '<embed src="http://www.news.com.au/common/ninnbar_carsguide.swf"'
-+ 'width="760" height="27" autostart="false" quality="high" menu=false bgcolor="#FFFFFF"'
-+ 'TYPE="application/x-shockwave-flash"'
-+ 'PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"'
-+ 'name=ninnbarf></EMBED></object>'
-+ '</td></tr></table></td></tr></table>';
-
-// etrade stock price form code
-	function displayProductSearch() {
-	newwindow = window.open('https://www.etradeaustralia.com.au/Application/ProductSearch/ProductSearch.asp','ProductSearch','dependent=no,height=350px,width=320px,scrollbars,resizable=yes,alwaysRaised=yes')
-	}
-	
-	function doQuote() {
-	var strURL
-	var strSymbol = escape(window.document.frmStockQuote.Code.value )
-	var strExchange = window.document.frmStockQuote.Exchange[document.frmStockQuote.Exchange.selectedIndex].value
-	var strType = window.document.frmStockQuote.Type[document.frmStockQuote.Type.selectedIndex].value
-	
-	strURL = "https://www.etradeaustralia.com.au/Products/StockCentre/StockCentre.asp?DisplayAs=Quotes&Code=" + strSymbol + "&Exchange=" + strExchange + "&Type=" + strType ;
-	document.frmStockQuote.URL.value = strURL
-	return true;
-
-
-	}
-
-//-->
-</script> 
-<style type="text/css" title="STYLESHEET">
-A:active {
-	COLOR: #ffffff; 
-    TEXT-DECORATION: none; 
-    FONT-FAMILY: Arial, Helvetica, Verdana; 
-    FONT-WEIGHT: bold;
-}
-A:hover {	
-	COLOR: #9d2126; 
-    TEXT-DECORATION: none; 
-    FONT-FAMILY: Arial, Helvetica, Verdana; 
-    FONT-WEIGHT: bold;
-}
-A:link {
-	COLOR: #9d2126; 
-    TEXT-DECORATION: none; 
-    FONT-FAMILY: Arial, Helvetica, Verdana; 
-    FONT-WEIGHT: bold;
-}
-A:visited {
-	COLOR: #9d2126; 
-    TEXT-DECORATION: none; 
-    FONT-FAMILY: Arial, Helvetica, Verdana; 
-    FONT-WEIGHT: bold;
-}
-
-.blackheading {
-        COLOR: #000000;
-        TEXT-DECORATION: none; 
-        FONT-FAMILY: Arial, Helvetica, Verdana;
-        FONT-SIZE: 18px; 
-        FONT-STYLE: normal; 
-        FONT-VARIANT: normal; 
-        FONT-WEIGHT: bold; 
-
-}
-
-.redsmltext {
-        COLOR: #9d2126;
-        TEXT-DECORATION: none; 
-        FONT-FAMILY: Arial, Helvetica, Verdana;
-        FONT-SIZE: 10px; 
-        FONT-STYLE: normal; 
-        FONT-VARIANT: normal; 
-        FONT-WEIGHT: normal; 
-
-}
-
-.redmedtext {
-        COLOR: #9d2126;
-        TEXT-DECORATION: none; 
-        FONT-FAMILY: Arial, Helvetica, Verdana;
-        FONT-SIZE: 12px; 
-
-        font-weight : normal;
-}
-
-.redsmltextbold {
-        COLOR: #9d2126;
-        TEXT-DECORATION: none; 
-        FONT-FAMILY: verdana, Arial, Helvetica;
-        FONT-SIZE: 11px; 
-        FONT-STYLE: normal; 
-        FONT-VARIANT: normal; 
-        FONT-WEIGHT: bold; 
-
-}
-
-.whitesmltext {
-        COLOR: #ffffff;
-        TEXT-DECORATION: none; 
-        FONT-FAMILY: Arial, Helvetica, Verdana;
-        FONT-SIZE: 10px; 
-        FONT-STYLE: normal; 
-        FONT-VARIANT: normal; 
-        FONT-WEIGHT: normal; 
-
-}
-.whitesmltextbold {
-        COLOR: #ffffff; 
-        TEXT-DECORATION: none;
-        FONT-FAMILY: verdana,Arial, Helvetica, Verdana; 
-        FONT-SIZE: 10px; 
-        FONT-STYLE: normal; 
-        FONT-VARIANT: normal; 
-        FONT-WEIGHT: bold;
-     }
-     .whitemedtext {
-        COLOR: #ffffff;
-        TEXT-DECORATION: none; 
-        FONT-FAMILY: Arial, Helvetica, Verdana;
-        FONT-SIZE: 12px; 
-        FONT-STYLE: normal; 
-        FONT-VARIANT: normal; 
-        FONT-WEIGHT: normal; 
-
-}
-.whitemedtextbold {
-        COLOR: #ffffff;
-        TEXT-DECORATION: none; 
-        FONT-FAMILY: Arial, Helvetica, Verdana;
-        FONT-SIZE: 12px; 
-        FONT-STYLE: normal; 
-        FONT-VARIANT: normal; 
-        FONT-WEIGHT: bold; 
-
-}
-
-
-.blacksmltextie {
-        COLOR: #000000;
-        TEXT-DECORATION: none; 
-        FONT-FAMILY:  Arial, Helvetica, Verdana;
-        FONT-SIZE: 13px; 
-
-}
-.blacksmltext {
-        COLOR: #000000;
-        TEXT-DECORATION: none; 
-        FONT-FAMILY:  Arial, Helvetica, Verdana;
-        FONT-SIZE: 11px; 
-
-}
-
-.blackverysmltext {
-        COLOR: #000000;
-        TEXT-DECORATION: none; 
-        FONT-FAMILY: Arial, Helvetica, Verdana;
-        FONT-SIZE: 10px; 
-
-}
-
-.lnavtext {
-        COLOR: #ffffff;
-        TEXT-DECORATION: none; 
-        FONT-FAMILY: Arial, Helvetica, Verdana;
-        FONT-SIZE: 10px; 
-        FONT-STYLE: normal; 
-        FONT-VARIANT: normal; 
-        FONT-WEIGHT: normal; 
-
-}
-
-
-.blacksmltextbold {
-        COLOR: #000000;
-        TEXT-DECORATION: none; 
-        FONT-FAMILY: Verdana, Helvetica, Arial;
-        FONT-SIZE: 10px; 
-        FONT-STYLE: normal; 
-        FONT-VARIANT: normal; 
-        FONT-WEIGHT: bold; 
-
-}
-body {
-        COLOR: #000000;
-        TEXT-DECORATION: none; 
-        FONT-FAMILY: Arial, Helvetica, Verdana;
-        FONT-SIZE: 12px; 
-        FONT-STYLE: normal; 
-        FONT-VARIANT: normal; 
-        FONT-WEIGHT: normal; 
-}
-.bodytext {
-        COLOR: #000000;
-        TEXT-DECORATION: none; 
-        FONT-FAMILY: Arial, Helvetica, Verdana;
-        FONT-SIZE: 12px; 
-        FONT-STYLE: normal; 
-        FONT-VARIANT: normal; 
-        FONT-WEIGHT: normal; 
-}
-.yellowtextbold {
-        COLOR: #ffff00;
-        TEXT-DECORATION: none; 
-        FONT-FAMILY: verdana,Arial, Helvetica, Verdana;
-        FONT-SIZE: 11px; 
-        FONT-STYLE: normal; 
-        FONT-VARIANT: normal; 
-        FONT-WEIGHT: bold; 
-}
-
-.purpletextbold {
-        COLOR: #4D117B;
-        TEXT-DECORATION: none; 
-        FONT-FAMILY: verdana,Arial, Helvetica, Verdana;
-        FONT-SIZE: 11px; 
-        FONT-STYLE: normal; 
-        FONT-VARIANT: normal; 
-        FONT-WEIGHT: bold; 
-}
-
-.darkbluetextbold {
-        COLOR: #002c52;
-        TEXT-DECORATION: none; 
-        FONT-FAMILY: verdana,Arial, Helvetica, Verdana;
-        FONT-SIZE: 10px; 
-        FONT-STYLE: normal; 
-        FONT-VARIANT: normal; 
-        FONT-WEIGHT: bold; 
-}
-
-.navdarkbluetextbold {
-        COLOR: #076f8f;
-        TEXT-DECORATION: none; 
-        FONT-FAMILY: Verdana,Arial, Helvetica;
-        FONT-SIZE: 10px; 
-        FONT-STYLE: normal; 
-        FONT-VARIANT: normal; 
-        FONT-WEIGHT: bold; 
-}
-
-
-.aquabold {
-        COLOR: #076f8f;
-        TEXT-DECORATION: none; 
-        FONT-FAMILY: Arial, Helvetica, Verdana;
-        FONT-SIZE: 12px; 
-        FONT-STYLE: normal; 
-        FONT-VARIANT: normal; 
-        FONT-WEIGHT: bold; 
-}
-
-.footer {
-        COLOR: #076f8f;
-        TEXT-DECORATION: none; 
-        FONT-FAMILY: verdana,Arial, Helvetica, Verdana;
-        FONT-SIZE: 11px; 
-        FONT-STYLE: normal; 
-        FONT-VARIANT: normal; 
-        FONT-WEIGHT: normal; 
-}
-.bodytextbold {
-        COLOR: #000000; 
-        TEXT-DECORATION: none;
-        FONT-FAMILY: Arial, Helvetica, Verdana; 
-        FONT-SIZE: 12px; 
-        FONT-STYLE: normal; 
-        FONT-VARIANT: normal; 
-        FONT-WEIGHT: bold;
-     }
-
-     .bigredheading {
-        COLOR: #9d2126; 
-        TEXT-DECORATION: none;
-        FONT-FAMILY: Arial, Helvetica, Verdana; 
-        FONT-SIZE: 20px; 
-        FONT-STYLE: normal; 
-        FONT-VARIANT: normal; 
-        FONT-WEIGHT: bold;
-     }
-     .mediumredheading {
-        COLOR: #9d2126; 
-        TEXT-DECORATION: none;
-        FONT-FAMILY: Arial, Helvetica, Verdana; 
-        FONT-SIZE: 12px; 
-        FONT-STYLE: normal; 
-        FONT-VARIANT: normal; 
-        FONT-WEIGHT: bold;
-     }
-	 
-      .mediumredheading14 {
-        COLOR: #9d2126; 
-        TEXT-DECORATION: none;
-        FONT-FAMILY: Arial, Helvetica, Verdana; 
-        FONT-SIZE: 15px; 
-        FONT-STYLE: normal; 
-        FONT-VARIANT: normal; 
-        FONT-WEIGHT: bold;
-     }
-
-     .bigyellowheading {
-        COLOR: #ffff00; 
-        TEXT-DECORATION: none;
-        FONT-FAMILY: Arial, Helvetica, Verdana; 
-        FONT-SIZE: 20px; 
-        FONT-STYLE: normal; 
-        FONT-VARIANT: normal; 
-        FONT-WEIGHT: bold;
-     }
-	 
-	  .mediumyellowheading {
-        COLOR: #ffff00; 
-        TEXT-DECORATION: none;
-        FONT-FAMILY: Arial, Helvetica, Verdana; 
-        FONT-SIZE: 12px; 
-        FONT-STYLE: normal; 
-        FONT-VARIANT: normal; 
-        FONT-WEIGHT: bold;
-     }		
-div.lnav {
-FONT-FAMILY: Arial; COLOR: #ffffff; FONT-SIZE: 12px; TEXT-DECORATION: none;
-background-image: url(http://www.news.com.au/images/leftnav_bg_cell.gif);
-background-repeat: no-repeat;
-background-position: 0px 0px;
-padding: 3px 0px 0px 0px;
-margin: 0px 0px 0px 0px;
-line-height: 14px;
-text-align: right;
-width: 123px;
-height: 20px;
-}
-
-div.lnav a:link {COLOR: #ffffff; font-weight:normal;}
-div.lnav a:visited {COLOR: #ffffff; font-weight:normal;}
-
-div.lnavhead {
-FONT-FAMILY: Arial; COLOR: #ffffff; FONT-SIZE: 12px;
-background: #000000;
-padding: 3px 0px 0px 0px;
-line-height: 14px;
-text-align: right;
-width: 123px;
-height: 20px;
-}
-
-td.lnav {
-background:#134F7B;
-}
-
-img.lnav {
-visibility : hidden;
-vertical-align: middle;
-margin: 0px 2px 0px 1px;
-}		
-
-	 
-	 </style>
-
-		</head>
-<body background="/images/home_back_50.gif" leftmargin="0" marginwidth="0" marginheight="0" topmargin="0">
-
-<style type="text/css">
-a.ninnbar{font-family:arial; font-weight:bold; font-size:11px; text-decoration:none; color:#000000;}
-a.ninnbar:visited{color:#000000;font-weight:bold}
-a.ninnbar:active{color:#000000;font-weight:bold}
-a.ninnbar:hover{color:#000000;font-weight:bold}
-</style>
-
-<script language="JavaScript">
-<!-- 
-
-if ((flashVersion>=5) && (randomN==0)) {
-document.write(flashNinnbar1);
-} 
-
-else {
-document.writeln('<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">\
-<tr><td align="LEFT" bgcolor="#FFFFFF">\
-<table cellpadding="0" cellspacing="0" border="0" width="760" bgcolor="#ffffff">\
-<tr bgcolor="#FFFFFF">\
-<td width="120" bgcolor="#ffffff"><img src="http://central.news.com.au/ninnbar/images/ni_logo.gif" width="120" height="24" alt="News Interactive" border="0" vspace="1"></td>\
-<td width="628">\
-<table border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" width="628">\
-<tr><td colspan="23" width="627" height="2"></td><td width=1 rowspan=3></td></tr>\
-<tr><td width=1 bgcolor="#FFFFFF"></td><td bgcolor="#959595" width=40 height=1></td>\
-<td rowspan=2 width=6><img src=http://central.news.com.au/ninnbar/images/tab_corner.gif width=6 height=18 border=0></td>\
-<td bgcolor="#959595" width=60></td>\
-<td rowspan=2 width=6><img src=http://central.news.com.au/ninnbar/images/tab_corner.gif width=6 height=18 border=0></td>\
-<td bgcolor="#959595" width=30></td>\
-<td rowspan=2 width=6><img src=http://central.news.com.au/ninnbar/images/tab_corner.gif width=6 height=18 border=0></td>\
-<td bgcolor="#959595" width=68></td>\
-<td rowspan=2 width=6><img src=http://central.news.com.au/ninnbar/images/tab_corner.gif width=6 height=18 border=0></td>\
-<td bgcolor="#959595" width=70></td>\
-<td rowspan=2 width=6><img src=http://central.news.com.au/ninnbar/images/tab_corner.gif width=6 height=18 border=0></td>\
-<td bgcolor="#959595" width=44></td>\
-<td rowspan=2 width=6><img src=http://central.news.com.au/ninnbar/images/tab_corner.gif width=6 height=18 border=0></td>\
-<td bgcolor="#959595" width=43></td>\
-<td rowspan=2 width=6><img src=http://central.news.com.au/ninnbar/images/tab_corner.gif width=6 height=18 border=0></td>\
-<td bgcolor="#959595" width=69></td>\
-<td rowspan=2 width=6><img src=http://central.news.com.au/ninnbar/images/tab_corner.gif width=6 height=18 border=0></td>\
-<td bgcolor="#959595" width=34></td>\
-<td rowspan=2 width=6><img src=http://central.news.com.au/ninnbar/images/tab_corner.gif width=6 height=18 border=0></td>\
-<td bgcolor="#959595" width=36></td>\
-<td rowspan=2 width=6><img src=http://central.news.com.au/ninnbar/images/tab_corner.gif width=6 height=18 border=0></td>\
-<td bgcolor="#959595" width=65></td>\
-<td rowspan=2 width=6><img src=http://central.news.com.au/ninnbar/images/tab_corner.gif width=6 height=18 border=0></td>\</tr>\
-<tr align=center bgcolor="#EEEEEE"><td width=1 bgcolor="#353535"></td>\
-<td onMouseover=this.style.background="#C8D1D7" onMouseout=this.style.background="#EEEEEE"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_news" target="_top" class="ninnbar">News</a></td>\
-<td onMouseover=this.style.background="#C8D1D7" onMouseout=this.style.background="#EEEEEE"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_money" target="_top" class="ninnbar">Business</a></td>\
-<td onMouseover=this.style.background="#C8D1D7" onMouseout=this.style.background="#EEEEEE"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_it" target="_top" class="ninnbar">&nbsp;IT</a></td>\
-<td onMouseover=this.style.background="#C8D1D7" onMouseout=this.style.background="#EEEEEE"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_fox" target="_top" class="ninnbar"><nobr>Fox Sports</nobr></a></td>\
-<td onMouseover=this.style.background="#C8D1D7" onMouseout=this.style.background="#EEEEEE"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_class" target="_top" class="ninnbar">Classifieds</a></td>\
-<td onMouseover=this.style.background="#C8D1D7" onMouseout=this.style.background="#EEEEEE"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_personals" target="_self" class="ninnbar">Dating</a></td>\
-<td onMouseover=this.style.background="#C8D1D7" onMouseout=this.style.background="#EEEEEE"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_travel2" target="_top" class="ninnbar">Travel</a></td>\
-<td onMouseover=this.style.background="#C8D1D7" onMouseout=this.style.background="#EEEEEE"><a href="http://www.realestate.com.au" target="_top" class="ninnbar"><nobr>Real Estate</nobr></a></td>\
-<td onMouseover=this.style.background="#C8D1D7" onMouseout=this.style.background="#EEEEEE"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_jobs" target="_top" class="ninnbar">Jobs</a></td>\
-<td onMouseover=this.style.background="#C8D1D7" onMouseout=this.style.background="#EEEEEE"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=NI_motoring" target="_top" class="ninnbar">Cars</a></td>\
-<td onMouseover=this.style.background="#C8D1D7" onMouseout=this.style.background="#EEEEEE"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_homesite" target="_top" class="ninnbar">homesite</a></td></tr></table></td>\
-<td align=right>&nbsp;</td></tr>\
-<tr bgcolor="#FFFFFF"><td height="1" width="120" bgcolor="#959595"></td><td height="1" bgcolor="#959595"></td><td height="1" bgcolor="#959595"></td></tr></table></td></tr></table>');
-}
-
-
-//-->
-</script><table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"><tbody><tr><td align="LEFT" bgcolor="#FFFFFF"><table cellpadding="0" cellspacing="0" border="0" width="760" bgcolor="#ffffff"><tbody><tr bgcolor="#FFFFFF"><td width="120" bgcolor="#ffffff"><img src="http://central.news.com.au/ninnbar/images/ni_logo.gif" width="120" height="24" alt="News Interactive" border="0" vspace="1"></td><td width="628"><table border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" width="628"><tbody><tr><td colspan="23" width="627" height="2"></td><td width="1" rowspan="3"></td></tr><tr><td width="1" bgcolor="#FFFFFF"></td><td bgcolor="#959595" width="40" height="1"></td><td rowspan="2" width="6"><img src="http://central.news.com.au/ninnbar/images/tab_corner.gif" width="6" height="18" border="0"></td><td bgcolor="#959595" width="60"></td><td rowspan="2" width="6"><img src="http://central.news.com.au/ninnbar/images/tab_corner.gif" width="6" height="18" border="0"></td><td bgcolor="#959595" width="30"></td><td rowspan="2" width="6"><img src="http://central.news.com.au/ninnbar/images/tab_corner.gif" width="6" height="18" border="0"></td><td bgcolor="#959595" width="68"></td><td rowspan="2" width="6"><img src="http://central.news.com.au/ninnbar/images/tab_corner.gif" width="6" height="18" border="0"></td><td bgcolor="#959595" width="70"></td><td rowspan="2" width="6"><img src="http://central.news.com.au/ninnbar/images/tab_corner.gif" width="6" height="18" border="0"></td><td bgcolor="#959595" width="44"></td><td rowspan="2" width="6"><img src="http://central.news.com.au/ninnbar/images/tab_corner.gif" width="6" height="18" border="0"></td><td bgcolor="#959595" width="43"></td><td rowspan="2" width="6"><img src="http://central.news.com.au/ninnbar/images/tab_corner.gif" width="6" height="18" border="0"></td><td bgcolor="#959595" width="69"></td><td rowspan="2" width="6"><img src="http://central.news.com.au/ninnbar/images/tab_corner.gif" width="6" height="18" border="0"></td><td bgcolor="#959595" width="34"></td><td rowspan="2" width="6"><img src="http://central.news.com.au/ninnbar/images/tab_corner.gif" width="6" height="18" border="0"></td><td bgcolor="#959595" width="36"></td><td rowspan="2" width="6"><img src="http://central.news.com.au/ninnbar/images/tab_corner.gif" width="6" height="18" border="0"></td><td bgcolor="#959595" width="65"></td><td rowspan="2" width="6"><img src="http://central.news.com.au/ninnbar/images/tab_corner.gif" width="6" height="18" border="0"></td></tr><tr align="center" bgcolor="#EEEEEE"><td width="1" bgcolor="#353535"></td><td onmouseover="this.style.background=&quot;#C8D1D7&quot;" onmouseout="this.style.background=&quot;#EEEEEE&quot;"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_news" target="_top" class="ninnbar">News</a></td><td onmouseover="this.style.background=&quot;#C8D1D7&quot;" onmouseout="this.style.background=&quot;#EEEEEE&quot;"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_money" target="_top" class="ninnbar">Business</a></td><td onmouseover="this.style.background=&quot;#C8D1D7&quot;" onmouseout="this.style.background=&quot;#EEEEEE&quot;"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_it" target="_top" class="ninnbar">&nbsp;IT</a></td><td onmouseover="this.style.background=&quot;#C8D1D7&quot;" onmouseout="this.style.background=&quot;#EEEEEE&quot;"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_fox" target="_top" class="ninnbar"><nobr>Fox Sports</nobr></a></td><td onmouseover="this.style.background=&quot;#C8D1D7&quot;" onmouseout="this.style.background=&quot;#EEEEEE&quot;"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_class" target="_top" class="ninnbar">Classifieds</a></td><td onmouseover="this.style.background=&quot;#C8D1D7&quot;" onmouseout="this.style.background=&quot;#EEEEEE&quot;"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_personals" target="_self" class="ninnbar">Dating</a></td><td onmouseover="this.style.background=&quot;#C8D1D7&quot;" onmouseout="this.style.background=&quot;#EEEEEE&quot;"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_travel2" target="_top" class="ninnbar">Travel</a></td><td onmouseover="this.style.background=&quot;#C8D1D7&quot;" onmouseout="this.style.background=&quot;#EEEEEE&quot;"><a href="http://www.realestate.com.au" target="_top" class="ninnbar"><nobr>Real Estate</nobr></a></td><td onmouseover="this.style.background=&quot;#C8D1D7&quot;" onmouseout="this.style.background=&quot;#EEEEEE&quot;"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_jobs" target="_top" class="ninnbar">Jobs</a></td><td onmouseover="this.style.background=&quot;#C8D1D7&quot;" onmouseout="this.style.background=&quot;#EEEEEE&quot;"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=NI_motoring" target="_top" class="ninnbar">Cars</a></td><td onmouseover="this.style.background=&quot;#C8D1D7&quot;" onmouseout="this.style.background=&quot;#EEEEEE&quot;"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_homesite" target="_top" class="ninnbar">homesite</a></td></tr></tbody></table></td><td align="right">&nbsp;</td></tr><tr bgcolor="#FFFFFF"><td height="1" width="120" bgcolor="#959595"></td><td height="1" bgcolor="#959595"></td><td height="1" bgcolor="#959595"></td></tr></tbody></table></td></tr></tbody></table>
-
-	<script language="JavaScript">
-<!--
-function emptySearch(){
-document.webSearch.q.value = ""
-	}
-
-//-->
-</script>
-<table width="760" cellpadding="0" cellspacing="0" border="0" bgcolor="#000033" style="margin-top:4px;margin-bottom:4px;">
-<tbody><tr>
-    <td height="37"><a href="http://www.news.com.au/"><img src="http://www.news.com.au/images/logo_news2001.gif" width="335" height="37" alt="NEWS.com.au" border="0"></a></td>
-	<td height="37" align="right">
-	 
-
-	 
-	
-	
-
-
+<script language="JavaScript" type="text/javascript" src="/js/news_subset/0,10193,,00.js"></script>
    
-	
+</head>
 
-   
-	
-			<span class="bodytext"><a href="http://www.news.com.au/common/story_page/0,4057,11643151%255E421,00.html"><b><font color="#98DFEA">Male laptop users in danger of deleting their sperm</font></b></a><b><font color="#98DFEA">&nbsp;</font></b><br>
-<a href="javascript:void(0)" onclick="window.open('http://www.news.com.au/popups/xmas2004/otherside1.html','','toolbar=no,location=no,scrolling=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=500,height=340')"><font color="#98DFEA"><b>Weird and wacky Chrissie gifts |</b></font></a><font color="#98DFEA"><b>&nbsp;</b></font>
+<body onresize="doResize()" onload="doOnLoad()" class="topAd90">
 
-<a href="http://adserver.news.com.au/html.ng/site=news&amp;section=foxtel" target="_new"><b><font color="#98DFEA">FOXTEL - $0 Install ends soon<font size="1">[AD]</font></font></b></a><b><font color="#98DFEA">&nbsp;</font></b></span><br>  </td>
-	
-	   </tr>
-</tbody></table><table width="20" height="3" cellpadding="0" cellspacing="0" border="0" align="left" bgcolor="#ffffff">
-  <tbody><tr>
-    <td width="20" height="3"><spacer type="block" width="20" height="3"></spacer></td>
-  </tr>
-</tbody></table>
+<!-- page container -->
+<div id="pageContainer" style="width: 921px;">
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td valign="top" width="123" align="left" background="/images/lnav/bg_grid_blue.gif">	
-		
-			  <script language="javascript">
-<!--
-
-ieVer=5;
-if (navigator.appVersion.indexOf("MSIE")!=-1){
-temp=navigator.appVersion.split("MSIE")
-ieVer=parseFloat(temp[1])
-}
-
-function arrowOver(theId) {
-if (ieVer>=5) {
-document.getElementById(theId).style.visibility='visible';
-}
-}
-
-function arrowOut(theId) {
-if (ieVer>=5) {
-document.getElementById(theId).style.visibility='hidden';
-}
-}
-
-//-->
-</script>
-<!-- left nav -->
-<div class="lnavhead"><div style="margin-right:10px;font-family:verdana;font-size:10px"><nobr><b>September 23, 2004</b></nobr></div></div>
-<div class="lnav"><a href="http://www.news.com.au" onmouseover="arrowOver('nh')" onmouseout="arrowOut('nh')" target="_top">News Home</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="nh" class="lnav"></div>
-<div class="lnav"><a href="/common/storylib/0,4810,BreakingNews%255EBREAKING%2520NEWS%255ETEXT%255Enews,00.html" onmouseover="arrowOver('bn')" onmouseout="arrowOut('bn')">Breaking News</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="bn" class="lnav"></div>
-
-<div class="lnav"><a href="http://www.news.com.au/election2004/" onmouseover="arrowOver('el')" onmouseout="arrowOut('el')" target="_top"><b>Election 2004</b></a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="el" class="lnav"></div>
-
-<div class="lnav"><a href="/stateindex" onmouseover="arrowOver('sn')" onmouseout="arrowOut('sn')" target="_top">State News</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="sn" class="lnav"></div>
-<div class="lnav"><a href="/common/indexlib/0,4823,National%255ENATIONAL%2520NEWS%255ETEXT%255Enews45,00.html" onmouseover="arrowOver('nn')" onmouseout="arrowOut('nn')" target="_top">The Nation</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="nn" class="lnav"></div>
-<div class="lnav"><a href="/common/indexlib/0,4823,World%255EWORLD%2520NEWS%255ETEXT%255Enews45,00.html" onmouseover="arrowOver('wn')" onmouseout="arrowOut('wn')" target="_top">The World</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="wn" class="lnav"></div>
-<div class="lnav"><a href="/common/indexlib/0,4823,hotspots%255ETHE%2520OTHER%2520SIDE%255ETEXT%255Enews45,00.html" onmouseover="arrowOver('tos')" onmouseout="arrowOut('tos')" target="_top">The Other Side</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="tos" class="lnav"></div>
-
-<div class="lnav"><a href="javascript:void(0)" onclick="window.open('http://news.com.au/newsaudio/popup/index/0,8218,news,00.html','audio','scrollbars=no,width=490,height=378,top=100,left=200')" onmouseover="arrowOver('an')" onmouseout="arrowOut('an')">Audio News</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="an" class="lnav"></div>
-<div class="lnav"><a href="/mm/" onmouseover="arrowOver('mm')" onmouseout="arrowOut('mm')" target="_top">Multimedia</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="mm" class="lnav"></div>
-<div class="lnav"><a href="/cartoonslib/0,4835,cartoon%255Enews45,00.html" onmouseover="arrowOver('cart')" onmouseout="arrowOut('cart')" target="_top">Cartoons</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="cart" class="lnav"></div>
-
-<div class="lnav"></div>
-
-<div class="lnavhead"><div style="margin-right:14px;">Other Sections</div></div>
-<div class="lnav"><a href="http://finance.news.com.au" onmouseover="arrowOver('fin')" onmouseout="arrowOut('fin')" target="_top">Business</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="fin" class="lnav"></div>
-<div class="lnav"><a href="/technology" onmouseover="arrowOver('tech')" onmouseout="arrowOut('tech')" target="_top">Technology</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="tech" class="lnav"></div>
-<div class="lnav"><a href="http://entertainment.news.com.au" onmouseover="arrowOver('enter')" onmouseout="arrowOut('enter')" target="_top">Entertainment</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="enter" class="lnav"></div>
-
-<div class="lnav"><a href="http://travel.news.com.au" onmouseover="arrowOver('travel')" onmouseout="arrowOut('travel')" target="_top">Travel</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="travel" class="lnav"></div>
-
-<div class="lnav"><a href="http://www.news.com.au/bodyandsoul/" onmouseover="arrowOver('body')" onmouseout="arrowOut('body')" target="_top">body+soul</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="body" class="lnav"></div>
-
-<div class="lnav"><a href="http://newsinteractive.match.com/match/mt.cfm?pg=channel&amp;tcid=201083" onmouseover="arrowOver('dating')" onmouseout="arrowOut('dating')" target="_top">Dating</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="dating" class="lnav"></div>
-
-<div class="lnav"><a href="http://www.news.com.au/people" onmouseover="arrowOver('ppl')" onmouseout="arrowOut('ppl')" target="_top">People</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="ppl" class="lnav"></div>
-<div class="lnav"><a href="http://news.com.au/horoscopes/" onmouseover="arrowOver('horo')" onmouseout="arrowOut('horo')" target="_top">Horoscopes</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="horo" class="lnav"></div>
-<div class="lnav"><a href="/newstrivia/" onmouseover="arrowOver('trivia')" onmouseout="arrowOut('trivia')" target="_top">Trivia Quiz</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="trivia" class="lnav"></div>
-<div class="lnav"><a href="http://foxsports.news.com.au" onmouseover="arrowOver('sport')" onmouseout="arrowOut('sport')" target="_top">Sport</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="sport" class="lnav"></div>
-<div class="lnav"><a href="http://weather.news.com.au" onmouseover="arrowOver('weath')" onmouseout="arrowOut('weath')" target="_top">Weather</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="weath" class="lnav"></div>
-<div class="lnav"></div>
-
-<div class="lnav"><a href="http://search.news.com.au" onmouseover="arrowOver('search')" onmouseout="arrowOut('search')" target="_top">Search</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="search" class="lnav"></div>
-<div class="lnav"><a href="http://classifieds.news.com.au" onmouseover="arrowOver('class')" onmouseout="arrowOut('class')" target="_top">Classifieds</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="class" class="lnav"></div>
-
-
-<div class="lnav"><a href="http://www.realestate.com.au" onmouseover="arrowOver('real')" onmouseout="arrowOut('real')" target="_top">Real Estate</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="real" class="lnav"></div>
-<div class="lnav"><a href="http://www.homesite.com.au" onmouseover="arrowOver('homesite')" onmouseout="arrowOut('homesite')" target="_top">homesite</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="homesite" class="lnav"></div>
-<div class="lnav"><a href="http://www.careerone.com.au" onmouseover="arrowOver('career')" onmouseout="arrowOut('career')" target="_top">Careers</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="career" class="lnav"></div>
-<div class="lnav"><a href="http://newsmotoring.news.com.au/news" onmouseover="arrowOver('cars')" onmouseout="arrowOut('cars')" target="_top">Cars</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="cars" class="lnav"></div>
-<div class="lnav"></div>
-
-
-<div class="lnav"><a href="/alerts/" onmouseover="arrowOver('desk')" onmouseout="arrowOut('desk')" target="_top">Desktop Alerts</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="desk" class="lnav"></div>
-<div class="lnav"><a href="/newspulse" onmouseover="arrowOver('newsby')" onmouseout="arrowOut('newsby')" target="_top">Email Edition</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="newsby" class="lnav"></div>
-
-<div class="lnav"><a href="/help/wireless/" onmouseover="arrowOver('wire')" onmouseout="arrowOut('wire')" target="_top">Wireless Edition</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="wire" class="lnav"></div>
-<div class="lnav"><a href="javascript:void(0);" onclick="window.open('http://newsticker.news.com.au/headliner.html','popupHeadliner','toolbar=no,location=no,scrolling=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=270,height=392')" onmouseover="arrowOver('newsticker')" onmouseout="arrowOut('newsticker')" target="_top">News Tracker</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="newsticker" class="lnav"></div>
-<div class="lnav"></div>
-
-<div class="lnav"><a href="http://tipping.foxsports.news.com.au/"><img src="http://www.news.com.au/images/foxtipping.gif" width="120" height="60" border="0"></a></div>
-
-<div class="lnav"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=maingame" target="_blank"><img src="/images/ads/3logo120x60.gif" width="120" height="60" alt="" border="0" vspace="3"></a></div>
-
-
-<div class="lnav"></div>
-
-
-<div class="lnavhead"><div style="margin-right:14px;">Our Newspapers</div></div>
-<div class="lnav"><a href="http://theaustralian.news.com.au" onmouseover="arrowOver('theaus')" onmouseout="arrowOut('theaus')" target="_blank">The Australian</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="theaus" class="lnav"></div>
-<div class="lnav"><a href="http://heraldsun.news.com.au" onmouseover="arrowOver('herald')" onmouseout="arrowOut('herald')" target="_blank">Herald Sun</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="herald" class="lnav"></div>
-<div class="lnav"><a href="http://www.dailytelegraph.news.com.au" onmouseover="arrowOver('tele')" onmouseout="arrowOut('tele')" target="_blank">Daily Telegraph</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="tele" class="lnav"></div>
-<div class="lnav"><a href="http://www.couriermail.news.com.au" onmouseover="arrowOver('courier')" onmouseout="arrowOut('courier')" target="_blank">The Courier-Mail</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="courier" class="lnav"></div>
-<div class="lnav"><a href="http://www.theadvertiser.news.com.au" onmouseover="arrowOver('thead')" onmouseout="arrowOut('thead')" target="_blank">The Advertiser</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="thead" class="lnav"></div>
-<div class="lnav"><a href="http://www.themercury.com.au" onmouseover="arrowOver('mercury')" onmouseout="arrowOut('mercury')" target="_blank">The Mercury</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="mercury" class="lnav"></div>
-<div class="lnav"><a href="http://www.ntnews.news.com.au" onmouseover="arrowOver('ntnews')" onmouseout="arrowOut('ntnews')" target="_blank">NT News</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="ntnews" class="lnav"></div>
-<div class="lnav"><a href="http://www.sundaytimes.news.com.au" onmouseover="arrowOver('suntimes')" onmouseout="arrowOut('suntimes')" target="_blank">Sunday Times</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="suntimes" class="lnav"></div>
-<div class="lnav"><a href="http://news.com.au/common/our_sites/" onmouseover="arrowOver('more')" onmouseout="arrowOut('more')" target="_top">More. . .</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="more" class="lnav"></div>
-<div class="lnav"></div>
-<div class="lnav"><a href="/feedback" onmouseover="arrowOver('feed')" onmouseout="arrowOut('feed')" target="_top">Feedback</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="feed" class="lnav"></div>
-<div class="lnav"><a href="/help" onmouseover="arrowOver('help')" onmouseout="arrowOut('help')" target="_top">Help</a><img src="/images/lnav_arrow.gif" width="12" height="9" border="0" id="help" class="lnav"></div>
-<div class="lnav"></div>
-<br>
-<!-- newstext -->
-<table cellpadding="0" cellspacing="0" width="123" border="0" bgcolor="#ffffff" style="border:1px solid black;">
-<tbody><tr>
-	<td bgcolor="#ff0000" style="border-bottom:1px solid black"><a href="javascript:void(0)" onclick="windowOpener('http://www.newstext.com.au','terms','toolbar=no,location=no,scrolling=auto,directories=no,status=no,menubar=yes,scrollbars=yes,resizable=yes,width=810,height=530')"><img src="http://www.news.com.au/images/newstext.gif" width="120" height="17" border="0" alt="newstext.com.au"></a></td>
-</tr>
-<tr>
-	<td align="right" style="padding:2px 4px 2px 2px"><p class="blacksmltext">Search our online library – more than 150 papers archived.
-	<br><a href="javascript:windowOpener('http://www.newstext.com.au','terms','toolbar=no,location=no,scrolling=auto,directories=no,status=no,menubar=yes,scrollbars=yes,resizable=yes,width=810,height=530')">
-	<img src="http://www.news.com.au/images/button_go.gif" width="23" height="20" border="0"></a></p></td>
-</tr>
-</tbody></table>
-<!-- end news text -->
-
-<!-- ad -->
-
-<a href="#" onclick="javascript:window.open('http://headlinefeeds.news.com.au?siteid=1','headlinefeeds','toolbar=no,location=no,scrolling=auto,directories=no,status=no,menubar=yes,scrollbars=yes,resizable=no,width=495,height=550')"><img src="http://news.com.au/images/ads/promobutton_newsgeneral.gif" border="0" width="120" height="60" style="margin:10px 0px 0px 2px" alt="Ad"></a>
-<!--end left nav --> <br>
-<img src="/images/blank.gif" width="123" height="1">
-<br>
-</td>
-<td width="20"><spacer type="block" width="20" height="1"></spacer></td>
-<td valign="top" width="585" align="left"><br>
-	<div align="left">
-	<b><font face="Verdana, arial,helvetica,sans serif" size="3">
-	<a href="javascript:history.back()">back</a>
-	</font></b>
+  <!-- ninnbar -->
+<div id="ninnbar">
+	<div id="nnNews"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_news">NEWS.com.au</a></div>
+	<div id="nnFox"><a href="http://foxsports.news.com.au/">FOX SPORTS</a></div>
+	<div id="nnClassifieds"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_class">CLASSIFIEDS</a></div>
+	<div id="nnNewspapers"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=ni_newspapers">NEWSPAPERS</a></div>
+	<div id="nnSearch">
+		<div id="nnSearchText">Search</div>
+		<form action="http://searchresults.news.com.au/servlet/Search" name="searchheader" method="post" class="searchForm">
+		<div id="nnSearchInput"><input type="text" name="queryterm" value="" class="searchText"></div>
+		<div id="nnSearchRadioSite"><input type="radio" name="searchoption" value="yes" class="searchRadio" checked="">Site</div> 
+		<div id="nnSearchRadioWeb"><input type="radio" name="searchoption" value="no" class="searchRadio">Web</div> 
+		<div id="nnSearchGo"><input type="submit" value="Go" class="searchGo" onmouseover="this.style.background='#ffffff'" onmouseout="this.style.background='#F1F1F1'"></div> 
+		<input type="hidden" name="site" value="ninews">
+		</form>
 	</div>
-	<br>
-	<img src="/images/blank.gif" height="10" width="1" border="0"><br>
-	<br>
-    <span class="blackheading">Privacy Statement</span>
+</div>
 
-<span class="bodytext">
-<p>News Interactive (<b><i>News</i></b>) recognises the importance of protecting the privacy of personally 
-identifiable information collected about our customers.  For the purposes of this Privacy Statement, the word 
-<i>customers</i> includes visitors to our web sites, subscribers to and users of our services, purchasers of our products and 
-advertising customers. 
+<!-- // ninnbar -->
 
-</p><p>We are bound by the National Privacy Principles in the <i>Privacy Act 1988</i> (Cth) in relation to the handling of 
-personal information.  Where appropriate we will handle personal information relying on the media exemption (but complying 
-with the Australian Press Council Privacy Standards), related bodies corporate exemption and the employee exemption in the Privacy Act.
+<!-- header -->
 
-
-</p><p><b><i>Personal Information</i></b>
-
-</p><p>We collect personal information when we provide our services to you.  Generally we will tell you why we are 
-collecting information when we collect it and how we plan to use it or these things will be obvious when we collect 
-the information.
-
-</p><p>We usually collect personal information directly from you although sometimes we may use agents or service providers to do this for us. 
-We may also acquire lists from other sources, both from other companies and from other public documents.
-
-</p><p><b><i>Use of Information</i></b>
-
-</p><p>We usually collect personal information such as your name, address, telephone number, and in some instances, your 
-financial details.  When you are online, we collect information regarding the pages within our network which you visit 
-and what you click on.  As a general rule we do not collect sensitive information.  However, if we do, it will usually 
-be for the purposes of providing our goods or services and if the law requires us to, we will seek your consent to 
-collect it.  
-
-</p><p>We use your information to provide our services to you, to fulfil administrative functions associated with these 
-services, for example billing, to enter into contracts with you or third parties and for marketing and client 
-relationship purposes.
-
-</p><p>We may share your information with other companies which are related to News Limited, within Australia.  We or they may also use your personally identifiable information to assist us in improving our products 
-and services and any of us might be in touch to let you know about goods, services, or promotions which may interest 
-you. 
-
-</p><p><b><i>Use by Third Parties</i></b>
-
-</p><p>News may disclose your information to its service providers and contractors from time to time to help us to provide and market our goods and services to you.  We may also share your information with third parties who provide prizes for competitions or reader offers.  If we do this we generally require these parties to protect your information in the same way we do.  
-
-</p><p><b><i>Use of Aggregate Data</i></b>
-
-</p><p>We may collect certain non-personal information to optimise our goods and services including our Web pages for your 
-computer (e.g., the identity of your Internet browser, the type of operating system you use, your IP address and the 
-domain name of your Internet service provider).  We may use such non-personal information for internal purposes, 
-including but not limited to improving the content of our sites. 
-
-</p><p>News may use personally identifiable information in aggregate form to improve our goods and services including our 
-Web sites and make them more responsive to the needs of our customers.  This statistical compilation and analysis of 
-information may also be used by News or provided to others as a summary report for marketing, advertising or research 
-purposes. 
-
-</p><p><b><i>Security</i></b>
-
-</p><p>News strives to ensure the security, integrity and privacy of personally identifiable information of our customers.  
-We use a variety of physical and electronic security measures including restricting physical access to our offices and 
-firewalls and secure databases to keep personal information secure from misuse, loss or unauthorised use or 
-disclosure.
-
-</p><p>Unfortunately, no data transmission over the Internet can be guaranteed to be totally secure. 
-
-</p><p><b><i>Access to Personal Information</i></b>
-
-</p><p>You have a right to access most personal information we hold about you and if we deny access in some circumstances 
-we will tell you why.  
-
-</p><p>To request access, please contact our privacy office as set out at the end of this document.  
-
-</p><p><b><i>Public Information</i></b>
-
-</p><p>Any information posted on bulletin boards and/or communicated in chat areas becomes public information.  While News 
-strives to protect and respect your privacy, we cannot guarantee the security of any information you disclose in a 
-chat room or bulletin board. 
-
-</p><p><b><i>Cookies</i></b>
-
-</p><p>Cookies are data that a Web site transfers to an individual's hard drive for record-keeping purposes.  Cookies can 
-facilitate a user's ongoing access to and use of a site.  They allow us to track usage patterns and to compile data 
-that can help us improve our content and target advertising.  If you do not want information collected through the use 
-of Cookies, there is a simple procedure in most browsers that allows you to deny or accept the Cookie feature.  But 
-you should note that Cookies may be necessary to provide you with features such as merchandise transactions or 
-registered services. 
+	 <!-- header -->
+<div id="pageHeader" style="width: 921px;">
+    <div id="headerLogo"><a href="http://www.news.com.au/"><img src="http://network.news.com.au/images/header_news_logo.gif" width="425" height="51" alt="NEWS.com.au - breaking news 24/7" border="0"></a></div>
+	<!--div id="headerPromo"-->
+        <div id="headerPromo">
+  <p><a href="http://escape.news.com.au/index/0,9138,38176,00.html?from=ni_header"><b>Escape</b>: Spa indulgence </a></p>
+  <p><a href="http://www.homesite.com.au/finance/tips_and_guides/magic_your_mortgage_away?from=ni_header"><b>homesite</b>: 
+    Magic your mortgage away
 
 
-</p><p><b><i>Online Links to Third Party and Co-Branded Sites</i></b>
+</a><br>
+  </p>
+  </div> <!--/div-->
+	<div id="headerAd" style="left: 789px;">
+		<table width="120" border="0" cellspacing="0" cellpadding="0" class="headerAdTable">
+		<tbody><tr>
+			<td>
+	<!-- AdSpace site=news&section=networkbutton&tab=homepage&adsize=120x60&pagepos=1--><script language="JavaScript1.1" src="http://adserver.news.com.au/js.ng/site=news&amp;section=networkbutton&amp;tab=homepage&amp;adsize=120x60&amp;pagepos=1"></script><noscript><A HREF="http://adserver.news.com.au/click.ng/Params.richmedia=yes&site=news&section=networkbutton&tab=homepage&adsize=120x60&pagepos=1"><IMG SRC="http://adserver.news.com.au/image.ng/Params.richmedia=yes&site=news&section=networkbutton&tab=homepage&adsize=120x60&pagepos=1"></A></noscript><!-- /AdSpace -->
+		</td>
+		</tr>	
+		</tbody></table>
+	</div>	
+</div>
+<!-- // header -->
+<!-- // header -->
 
-</p><p>News may establish relationships with business partners that allow visitors to our Internet sites to link directly 
-to sites operated by these partners.  Some of these sites may be "co-branded" with our logo; however, these sites may 
-not be operated or maintained by or on our behalf.  These sites may collect personal information from you that may be 
-shared with us.  This Privacy Statement will apply to any personal information we obtain in this manner. 
+<!-- left nav -->
+<div id="leftnavPrimary" style="height: 1464px;">
+    <!-- news -->
+    <a href="http://www.news.com.au/?from=ninews_leftnav" class="primaryOpen">News</a>
+    <div class="leftnavIndent">
+        <div class="leftnavSecondary">
+            <a href="http://www.news.com.au/breakingnews/?from=ninews_leftnav">Breaking News</a>
+        	<a href="http://www.news.com.au/nation/?from=ninews_leftnav">The Nation</a>
+            <a href="http://www.news.com.au/world/?from=ninews_leftnav">The World</a>
+            <a href="http://www.news.com.au/otherside/?from=ninews_leftnav">The Other Side</a>
+			<a href="http://www.news.com.au/cartoons/?from=ninews_leftnav">Cartoons</a>
+            <a href="http://www.news.com.au/multimedia/?from=ninews_leftnav">Multimedia</a>
+            
+            
+        </div>
+    </div>
+   	<a href="http://foxsports.news.com.au/?from=ninews_leftnav" class="primaryClosed">Fox Sports</a>
+    <a href="http://australianit.news.com.au/?from=ninews_leftnav" class="primaryClosed">Australian IT</a>
+	<a href="http://finance.news.com.au/?from=ninews_leftnav" class="primaryClosed">Business</a>
+	<a href="http://entertainment.news.com.au/?from=ninews_leftnav" class="primaryClosed">Entertainment</a>
+	<a href="http://travel.news.com.au/?from=ninews_leftnav" class="primaryClosed">Escape</a>
+	<a href="http://theweather.news.com.au/?from=ninews_leftnav" class="primaryClosed">Weather</a>
+    <div class="spacer" style="width:50px;height:10px">&nbsp;</div>
+    <!-- // news -->
+	
+     <!-- classifieds -->
+    <a href="http://classifieds.news.com.au/?from=ninews_leftnav" class="primaryOpen">Classifieds</a>
+    <div class="leftnavIndent">
+        <div class="leftnavSecondary">
+            <a href="http://www.careerone.com.au/?from=ninews_leftnav"><b>Jobs:</b><br>CareerOne</a>
+        	<a href="http://carsguide.news.com.au/?from=ninews_leftnav"><b>Cars:</b><br>CARSguide</a>
+        	<a href="http://www.realestate.com.au/?from=ninews_leftnav"><b>Property:</b><br>realestate.com.au</a>
+            <a href="http://www.homesite.com.au/?from=ninews_leftnav"><b>House<em class="plus">+</em>Homes:</b><br>homesite</a>
+            <a href="http://newsinteractive.match.com/match/mt.cfm?pg=home&amp;tcid=235605from=ninews_leftnav"><b>Dating:</b><br>Match.com</a>
+            <a href="http://classifieds.news.com.au/?from=ninews_leftnav"><b>More:</b><br>General Classifieds</a>
+            <a href="#" onclick="window.open('http://placeanad.news.com.au/servlet/jsp/placeanad.jsp?from=ninews_leftnav','','toolbar=no,location=no,scrolling=yes,directories=no,status=no,menubar=no,scrollbars=yes,resizable=no,width=480,height=480');return false"><b>Place an Ad</b></a>
+        </div>
+    </div>
+    <div class="spacer" style="width:50px;height:10px">&nbsp;</div>
+    <!-- // classifieds -->
+	
+    <!-- archives -->
+    <a href="http://www.newstext.com.au/?from=ninews_leftnav" target="_blank" class="primaryOpen">Archives</a>
+    <div class="leftnavIndent">
+        <div class="leftnavSecondary">
+            <a href="http://www.newstext.com.au/?from=ninews_leftnav" target="_blank">Find a Story</a>
+        	<a href="http://www.newsphotos.com.au/?from=ninews_leftnav" target="_blank">Find an Image</a>
+        </div>
+    </div>
+    <div class="spacer" style="width:50px;height:10px">&nbsp;</div>
+    <!-- // archives -->
+	
+    <!-- editions -->
+    <a href="http://www.news.com.au/newsdelivery/?from=ninews_leftnav" class="primaryOpen">Editions</a>
+    <div class="leftnavIndent">
+        <div class="leftnavSecondary">
+            <a href="http://www.news.com.au/newspulse/?from=ninews_leftnav">Email Newsletters</a>
+        	<a href="http://www.news.com.au/help/wireless/?from=ninews_leftnav">Wireless</a>
+            <a href="http://www.news.com.au/alerts/?from=ninews_leftnav">Desktop Alerts</a>
+			<a href="#" onclick="window.open('http://headlinefeeds.news.com.au?siteid=1','','toolbar=no,location=no,scrolling=auto,directories=no,status=no,menubar=yes,scrollbars=no,resizable=no,width=520,height=580');return false;">News Feeds</a>
+        </div>
+    </div>
+    <div class="spacer" style="width:50px;height:10px">&nbsp;</div>
+	<!-- // editions -->
+	
+    <!-- Newspapers -->
+    <a href="http://www.news.com.au/newspapers/" class="primaryOpen">Newspapers</a>
+    <div class="leftnavIndent">
+        <div class="leftnavSecondary">
+            <a href="http://www.theaustralian.news.com.au/?from=ninews_leftnav">The Australian</a>
+        	<a href="http://www.couriermail.news.com.au/?from=ninews_leftnav">The Courier-Mail</a>
+			<a href="http://www.dailytelegraph.news.com.au/index.jsp?from=ninews_leftnav">Daily Telegraph</a>
+			<a href="http://www.heraldsun.news.com.au/?from=ninews_leftnav">Herald Sun</a>
+            <a href="http://www.theadvertiser.news.com.au/?from=ninews_leftnav">The Advertiser</a>
+			<a href="http://www.sundaytimes.news.com.au/?from=ninews_leftnav">Sunday Times</a>
+			<a href="http://www.themercury.news.com.au/?from=ninews_leftnav">The Mercury</a>
+			<a href="http://www.ntnews.news.com.au/?from=ninews_leftnav">NT News</a>
+        </div>
+    </div>
+	<!-- // Newspapers -->
+	
+	<div class="spacer" style="width:50px;height:10px">&nbsp;</div>
+	
+	
+<div class="leftnavHelp">
+        <div class="leftnavSecondary">	
+	        <a href="http://www.news.com.au/help/?from=ninews_leftnav"><img src="http://network.news.com.au/images/icon_help.gif" alt="">Help</a>
+	        <a href="http://www.news.com.au/feedback/?from=ninews_leftnav">Contact Us</a>
+	    </div>
+	</div>
+	
+	<div class="spacer" style="width:50px;height:10px">&nbsp;</div>
 
-</p><p>News is not responsible for the content or practices of Web sites operated by third parties that are linked to our 
-sites.  These links are meant for the user's convenience only.  Links to third party sites do not constitute 
-sponsorship, endorsement or approval by News of the content, policies or practices of those third party sites.  Once 
-you have left our site via such a link, you should check the applicable privacy policy of the third party site. 
+	<div id="leftnavAd">
+		<!-- AdSpace site=news&section=imagelink&adsize=120x20&pagepos=1-->
+		<script language="JavaScript1.1" src="http://adserver.news.com.au/js.ng/site=news&amp;section=imagelink&amp;adsize=120x20&amp;pagepos=1">
+		</script>
+		<noscript>
+		<A HREF="http://adserver.news.com.au/click.ng/Params.richmedia=yes&site=news&section=imagelink&adsize=120x20&pagepos=1">
+		<IMG SRC="http://adserver.news.com.au/image.ng/Params.richmedia=yes&site=news&section=imagelink&adsize=120x20&pagepos=1">
+		</A>
+		</noscript>
+		<!-- /AdSpace -->
+	</div> </div><!-- // left nav -->
 
-</p><p><b><i>What else you should know about privacy on the Internet</i></b>
 
-</p><p>Remember to close your browser when you have finished your user session.  This is to ensure that others cannot 
-access your personal information and correspondence if you share a computer with someone else or are using a computer 
-in a public place like a library or Internet café.  You as an individual are responsible for the security of and 
-access to your own computer.
+<!-- middle content -->
+<div id="middleContent" class="aboutNewComAu" style="width: 634px;">
+	<!-- date & tools -->
+	<div id="breadcrumb"><a href="/">News Home</a> | <b>Privacy Policy</b></div>
+    <!--
+	<div id="tools"><img src="images/strap_tools.gif" width="138" height="15" alt="Story tools" border="0" /></div>
+    -->
+	<!-- // date & tools -->
+    
+	<div id="middleContentGutter" style="width: 573px; margin-left: 33px;">   
+  
+    <h1>Privacy Policy</h1>
+    
+	<p>News Interactive (News) recognises the importance of protecting the privacy of personally identifiable information 
+	collected about our customers. For the purposes of this Privacy Statement, the word customers includes visitors to our 
+	web sites, subscribers to and users of our services, purchasers of our products and advertising customers.</p>
 
-</p><p>Whenever you voluntarily disclose personal information over the Internet that this information can be collected and 
-used by others.  In short, if you post personal information in publicly accessible online forums, you may receive 
-unsolicited messages from other parties in return.  Ultimately, you are solely responsible for maintaining the secrecy 
-of your username and passwords and any account information.  Please be careful and responsible whenever you are using 
-the Internet.
+    <p>We are bound by the National Privacy Principles in the Privacy Act 1988 (Cth) in relation to the handling of personal 
+	information. Where appropriate we will handle personal information relying on the media exemption (but complying with the 
+	Australian Press Council Privacy Standards), related bodies corporate exemption and the employee exemption in the Privacy Act.</p>
 
-</p><p><b><i>For further information</i></b>
+    <h2>Personal Information</h2>
+    <p>We collect personal information when we provide our services to you. Generally we will tell you why we are collecting 
+	information when we collect it and how we plan to use it or these things will be obvious when we collect the information.</p>
+    <p>We usually collect personal information directly from you although sometimes we may use agents or service providers 
+	to do this for us. We may also acquire lists from other sources, both from other companies and from other public documents.</p>
 
-</p><p>Please contact our Privacy Officer to ask for access to your information or if you have a complaint concerning your 
-information privacy or if you would like more information about our approach to privacy. 
+    <h2>Use of Information</h2>
+    <p>We usually collect personal information such as your name, address, telephone number, and in some instances, your 
+	financial details. When you are online, we collect information regarding the pages within our network which you 
+	visit and what you click on. As a general rule we do not collect sensitive information. However, if we do, it will 
+	usually be for the purposes of providing our goods or services and if the law requires us to, we will seek your consent 
+	to collect it.</p>
+    <p>We use your information to provide our services to you, to fulfil administrative functions associated with 
+	these services, for example billing, to enter into contracts with you or third parties and for marketing 
+	and client relationship purposes. Where your personal information is contained within an advertisement which we publish for you, we may also use your information for publication of that same advertisement in other media, in accordance with the terms and conditions of the initial publication. </p>
+    <p>We may share your information with other companies which are related to News Limited, within Australia. 
+	We or they may also use your personally identifiable information to assist us in improving our products 
+	and services and any of us might be in touch to let you know about goods, services, or promotions which 
+	may interest you.</p>
 
-</p><p>Privacy Officer
-<br>News Interactive
-<br><a href="mailto:privacy@news.com.au">privacy@news.com.au</a>
-<br>02 9288 3000
-<br>Level 3
-<br>2 Holt Street
-<br>Surry Hills 2010
+    <h2>Use by Third Parties</h2>
+    <p>News may disclose your information to its service providers and contractors from time to time to 
+	help us to provide and market our goods and services to you. We may also share your information with 
+	third parties who provide prizes for competitions or reader offers. If we do this we generally require these 
+	parties to protect your information in the same way we do.</p>
 
+    <h2>Use of Aggregate Data</h2>
+    <p>We may collect certain non-personal information to optimise our goods and services including our Web pages 
+	for your computer (e.g., the identity of your Internet browser, the type of operating system you use, your IP address 
+	and the domain name of your Internet service provider). We may use such non-personal information for internal purposes, 
+	including but not limited to improving the content of our sites.</p>
+    <p>News may use personally identifiable information in aggregate form to improve our goods and services including our 
+	Web sites and make them more responsive to the needs of our customers. This statistical compilation and analysis of information 
+	may also be used by News or provided to others as a summary report for marketing, advertising or research purposes.</p>
+
+    <h2>Security</h2>
+    <p>News strives to ensure the security, integrity and privacy of personally identifiable information of our customers. 
+	We use a variety of physical and electronic security measures including restricting physical access to our offices and 
+	firewalls and secure databases to keep personal information secure from misuse, loss or unauthorised use or disclosure.
+    </p><p>Unfortunately, no data transmission over the Internet can be guaranteed to be totally secure.</p>
+
+    <h2>Access to Personal Information</h2>
+    <p>You have a right to access most personal information we hold about you and if we deny access in some circumstances 
+	we will tell you why.</p>
+    <p>To request access, please contact our privacy officer as set out at the end of this document.</p>
+
+    <h2>Public Information</h2>
+    <p>Any information posted on bulletin boards and/or communicated in chat areas becomes public information. 
+	While News strives to protect and respect your privacy, we cannot guarantee the security of any information you 
+	disclose in a chat room or bulletin board.</p>
+
+    <h2>Cookies</h2>
+    <p>Cookies are data that a Web site transfers to an individual's hard drive for record-keeping purposes. 
+	Cookies can facilitate a user's ongoing access to and use of a site. They allow us to track usage patterns and 
+	to compile data that can help us improve our content and target advertising. If you do not want information 
+	collected through the use of Cookies, there is a simple procedure in most browsers that allows you to deny or 
+	accept the Cookie feature. But you should note that Cookies may be necessary to provide you with features such as 
+	merchandise transactions or registered services.</p>
+
+    <h2>Online Links to Third Party and Co-Branded Sites</h2>
+    <p>News may establish relationships with business partners that allow visitors to our Internet sites to link directly 
+	to sites operated by these partners. Some of these sites may be "co-branded" with our logo; however, these sites may not 
+	be operated or maintained by or on our behalf. These sites may collect personal information from you that may be shared with 
+	us. This Privacy Statement will apply to any personal information we obtain in this manner.</p>
+    <p>News is not responsible for the content or practices of Web sites operated by third parties that are linked to our sites. 
+	These links are meant for the user's convenience only. Links to third party sites do not constitute sponsorship, endorsement or 
+	approval by News of the content, policies or practices of those third party sites. Once you have left our site via such a link, 
+	you should check the applicable privacy policy of the third party site.</p>
+
+    <h2>What else you should know about privacy on the Internet</h2>
+    <p>Remember to close your browser when you have finished your user session. This is to ensure that others cannot access your 
+	personal information and correspondence if you share a computer with someone else or are using a computer in a public place 
+	like a library or Internet caf?. You as an individual are responsible for the security of and access to your own computer.</p>
+    <p>Whenever you voluntarily disclose personal information over the Internet that this information can be collected and used by 
+	others. In short, if you post personal information in publicly accessible online forums, you may receive unsolicited messages 
+	from other parties in return. Ultimately, you are solely responsible for maintaining the secrecy of your username and passwords 
+	and any account information. Please be careful and responsible whenever you are using the Internet.</p>
+
+    <h2>For further information</h2>
+    <p>Please contact our Privacy Officer to ask for access to your information or if you have a complaint concerning your information 
+	privacy or if you would like more information about our approach to privacy.</p>
+
+    <p>Privacy Officer<br>
+    News Interactive<br>
+	Contact us through <a href="/feedback/">this online form</a><br>
+    02 9288 3000<br>
+    Level 3<br>
+    2 Holt Street<br>
+    Surry Hills 2010<br>
+	</p>
+
+    <div class="line10 left">&nbsp;</div>
+	
+	</div> <!-- // middleContentGutter -->
+   
+</div>
+<!-- // middle content -->
+
+<!-- right nav -->
+
+		 
+<div id="rightnav">
+
+	 
+	<!-- weather box -->
+	<div id="weather">
+		<div id="weatherStrap"><div class="whitePixel">&nbsp;</div>Weather</div>
+		<div id="weatherBox">
+			<div id="weatherData">
+				<div id="weatherCity">Hobart</div><div id="weatherHiLow">2C - 11C</div>
+				<div class="spacerClear"></div>
+				<img src="http://network.news.com.au/images/weather/mostly_sunny.gif" width="20" height="20" alt="" title="" class="wIcon" id="weatherIcon" style="margin-top: 2px">
+				<div id="weatherForecast">Fine.</div>
+			</div>
+			<script type="text/javascript" language="JavaScript">
+			<!--
+			// State, Icon, forecast, hi, low
+			
+			wAdelaide = new Array("Adelaide","http://network.news.com.au/images/weather/fog_then_sunny.gif","Early fog, then fine.","16C","7C");
+			 
+			wBrisbane = new Array("Brisbane","http://network.news.com.au/images/weather/mostly_sunny.gif","Fine, cool","19C","6C");
+			 
+			wCairns = new Array("Cairns","http://network.news.com.au/images/weather/mostly_sunny.gif","Fine","25C","18C");
+			 
+			wCanberra = new Array("Canberra","http://network.news.com.au/images/weather/clearing_shower.gif","Mostly fine.","11C","0C");
+			 
+			wCoolangatta = new Array("Coolangatta","http://network.news.com.au/images/weather/mostly_sunny.gif","Fine, cool","19C","6C");
+			 
+			wDarwin = new Array("Darwin","http://network.news.com.au/images/weather/sunny.gif","Sunny","31C","19C");
+			 
+			wHobart = new Array("Hobart","http://network.news.com.au/images/weather/mostly_sunny.gif","Fine.","11C","2C");
+			 
+			wMelbourne = new Array("Melbourne","http://network.news.com.au/images/weather/fog_then_sunny.gif","Morning fog patches then fine.","15C","7C");
+			 
+			wNewcastle = new Array("Newcastle","http://network.news.com.au/images/weather/showers.gif","Showers","16C","7C");
+			 
+			wPerth = new Array("Perth","http://network.news.com.au/images/weather/showers.gif","A few showers with moderate W or SW winds","17C","7C");
+			 
+			wSydney = new Array("Sydney","http://network.news.com.au/images/weather/showers.gif","Few showers","16C","10C");
+			 
+			wTownsville = new Array("Townsville","http://network.news.com.au/images/weather/sunny.gif","Dry and sunny","24C","11C");
+			  wStates = new Array("wAdelaide","wBrisbane","wCairns","wCanberra","wCoolangatta","wDarwin","wHobart","wMelbourne","wNewcastle","wPerth","wSydney","wTownsville");
+            -->
+            </script>
+			<form name="weatherDrop" class="weatherForm" action="">
+				<select name="weatherCity" onchange="setWeather(this)">
+					<option value="more" selected="">More cities</option>
+					
+					<option value="Adelaide">Adelaide</option>
+					
+					<option value="Brisbane">Brisbane</option>
+					
+					<option value="Cairns">Cairns</option>
+					
+					<option value="Canberra">Canberra</option>
+					
+					<option value="Coolangatta">Coolangatta</option>
+					
+					<option value="Darwin">Darwin</option>
+					
+					<option value="Hobart">Hobart</option>
+					
+					<option value="Melbourne">Melbourne</option>
+					
+					<option value="Newcastle">Newcastle</option>
+					
+					<option value="Perth">Perth</option>
+					
+					<option value="Sydney">Sydney</option>
+					
+					<option value="Townsville">Townsville</option>
+					 </select>
+			</form>
+			<div style="margin:2px 0px 0px 67px"><a href="http://theweather.news.com.au" class="orange">More Weather</a></div>
+		</div>
+	</div>
+	<!-- // weather -->
+	 <!-- 2nd ad -->
+	<div style="margin-bottom:5px;">
+	 
+		  
+	<!-- AdSpace site=news&section=leave&adsize=139x30&pagepos=1--><script language="JavaScript1.1" src="http://adserver.news.com.au/js.ng/site=news&amp;section=leave&amp;adsize=139x30&amp;pagepos=1"></script><noscript><A HREF="http://adserver.news.com.au/click.ng/Params.richmedia=yes&site=news&section=leave&adsize=139x30&pagepos=1"><IMG SRC="http://adserver.news.com.au/image.ng/Params.richmedia=yes&site=news&section=leave&adsize=139x30&pagepos=1"></A></noscript><!-- /AdSpace -->
+		 </div>
+	<!-- // ad box -->
+	
+	<!-- classifieds box -->
+
+	<div id="classifiedsBox">
+        <div id="topNav">
+    		<a href="#" id="jobsTab" onclick="show_div('jobs'); return false;" onmouseover="this.style.backgroundColor='#1871a6';" onmouseout="this.style.backgroundColor='#bababa';">Jobs</a>
+    		<a href="#" id="carsTab" onclick="show_div('cars'); return false;" onmouseover="this.style.backgroundColor='#1871a6';" onmouseout="this.style.backgroundColor='#bababa';">Cars</a>
+    		<a href="#" id="matchTab" onclick="show_div('match'); return false;" onmouseover="this.style.backgroundColor='#1871a6';" onmouseout="this.style.backgroundColor='#bababa';">Dating</a>
+    	</div>
+
+    	
+    	<!-- start active tab divs -->
+    	<div id="jobsActive" style="display: none;">Jobs</div>
+    	<div id="carsActive" style="display: block;">Cars</div>
+    	<div id="matchActive" style="display: none;">Dating</div>
+    	<!-- end active tab divs -->
+    	
+    	<!-- start toggle section divs -->
+		<!-- new c1 module -->
+		<style type="text/css">
 		
-</p><div align="left">
-<p><b><a href="javascript:history.back()">back</a>
-</b>
-</p></div>
+		div.classiContent select {
+		    font-size: 10px;
+			font-family: Tahoma, sans-serif;
+		    color: #000000;
+		    width: 117px;
+		    height: 17px;
+		    margin: 8px 0 0 0;
+		}
 
-</span>
-</td>
-</tr>
+		div.classiContent input.classifieds_input {
+			font-size: 10px;
+			width:116px;
+			margin: 8px 0 0 0;
+		}
+		</style>
+		<script language="javascript">
+		<!--
+		
+		function validateC1(thef) {
+			if (thef.q.value=="Keywords") {
+				thef.q.value = "";
+			}
+			if (thef.qCity.value=="City or suburb") {
+				thef.qCity.value = "";
+			}	
+		}
+		
+		
+		//-->
+		</script>		
+    	<div id="jobs" style="display: none;">
+    		<div class="classiContent">
+    			<form action="http://careerone.careercast.com/js.php" method="get" name="jobSearch" target="_blank" style="margin-bottom:40px" onsubmit="return validateC1(this)">
+				<input type="hidden" name="view" value="1">
+				<input type="hidden" name="lookid" value="careerone">
+				<input type="hidden" name="qMatch" value="all">
+				<input type="hidden" name="qField" value="Title">
+				<input type="hidden" name="qSort" value="smart">				
+				<input type="TEXT" name="q" size="9" style="" value="Keywords" class="classifieds_input" onclick="this.value=''">								
+				<input name="qCity" type="text" id="location1" value="City or suburb" class="classifieds_input" onclick="this.value=''">
+				<select name="qState" id="LOCATION_ID">
+					<option value="">State</option>
+					<option value="ACT">ACT</option>				
+					<option value="NSW">NSW</option>
+					<option value="NT">NT</option>
+					<option value="QLD">QLD</option>								
+					<option value="SA">SA</option>
+					<option value="TAS">TAS</option>								
+					<option value="VIC">VIC</option>
+					<option value="WA">WA</option>
+				</select>	
+				<input type="hidden" name="qCountry" value="Australia">		
+				<input type="hidden" name="pp" value="10">					
+				<input type="submit" value="Go" class="buttonGo" id="jobsGo" onmouseover="this.style.background='#ffffff'" onmouseout="this.style.background='#F1F1F1'"> 
+				</form>
+    		</div>
+    	</div>
+    	<div id="cars" style="display: block;">
+    		<div class="classiContent">
+    			<form target="_blank" name="QuickSearchForm" action="http://search.carsguide.news.com.au/news/search_used_xt.jsp" method="post" onsubmit="return ValidateForm(this);">
+				
+				<select name="search_type" id="search_type" onchange="ChangeType(this.form)">
+					<option value="1" selected="">Dealer Cars</option>
+					<option value="2">Classified Ads</option>
+					<option value="3">New Cars</option>
+				</select>
+				
+				<select name="make_id" id="make_id">
+				
+				<option value="ALFA ROMEO">ALFA ROMEO</option>
+				<option value="ASIA MOTORS">ASIA MOTORS</option>
+				<option value="ASTON MARTIN">ASTON MARTIN</option>
+				<option value="ATKINSON">ATKINSON</option>
+				<option value="AUDI">AUDI</option>
+				<option value="BENTLEY">BENTLEY</option>
+				<option value="BMW">BMW</option>
+				<option value="CADILLAC">CADILLAC</option>
+				<option value="CHEVROLET">CHEVROLET</option>
+				<option value="CHRYSLER">CHRYSLER</option>
+				<option value="CITROEN">CITROEN</option>
+				<option value="DAEWOO">DAEWOO</option>
+				<option value="DAIHATSU">DAIHATSU</option>
+				<option value="DAIMLER">DAIMLER</option>
+				<option value="EUNOS">EUNOS</option>
+				<option value="FERRARI">FERRARI</option>
+				<option value="FIAT">FIAT</option>
+				<option value="FORD">FORD</option>
+				<option value="FREIGHTLINER">FREIGHTLINER</option>
+				<option value="HINO">HINO</option>
+				<option value="HOLDEN">HOLDEN</option>
+				<option value="HONDA">HONDA</option>
+				<option value="HSV">HSV</option>
+				<option value="HYUNDAI">HYUNDAI</option>
+				<option value="INTERNATIONAL">INTERNATIONAL</option>
+				<option value="ISUZU">ISUZU</option>
+				<option value="IVECO">IVECO</option>
+				<option value="JAGUAR">JAGUAR</option>
+				<option value="JEEP">JEEP</option>
+				<option value="KENWORTH">KENWORTH</option>
+				<option value="KIA">KIA</option>
+				<option value="LADA">LADA</option>
+				<option value="LAMBORGHINI">LAMBORGHINI</option>
+				<option value="LANCIA">LANCIA</option>
+				<option value="LANDROVER">LANDROVER</option>
+				<option value="LEXUS">LEXUS</option>
+				<option value="LEYLAND">LEYLAND</option>
+				<option value="LOTUS">LOTUS</option>
+				<option value="M.G.">M.G.</option>
+				<option value="MACK">MACK</option>
+				<option value="MASERATI">MASERATI</option>
+				<option value="MAZDA">MAZDA</option>
+				<option value="MERCEDES">MERCEDES</option>
+				<option value="MINI">MINI</option>
+				<option value="MITSUBISHI">MITSUBISHI</option>
+				<option value="MORGAN">MORGAN</option>
+				<option value="NISSAN">NISSAN</option>
+				<option value="OKA">OKA</option>
+				<option value="PEUGEOT">PEUGEOT</option>
+				<option value="PONTIAC">PONTIAC</option>
+				<option value="PORSCHE">PORSCHE</option>
+				<option value="PROTON">PROTON</option>
+				<option value="RENAULT">RENAULT</option>
+				<option value="ROLLS ROYCE">ROLLS ROYCE</option>
+				<option value="ROVER">ROVER</option>
+				<option value="SAAB">SAAB</option>
+				<option value="SCANIA">SCANIA</option>
+				<option value="SEAT">SEAT</option>
+				<option value="SSANGYONG">SSANGYONG</option>
+				<option value="SUBARU">SUBARU</option>
+				<option value="SUZUKI">SUZUKI</option>
+				<option value="TATA">TATA</option>
+				<option value="TOYOTA">TOYOTA</option>
+				<option value="TRIUMPH">TRIUMPH</option>
+				<option value="TVR">TVR</option>
+				<option value="VOLKSWAGEN">VOLKSWAGEN</option>
+				<option value="VOLVO">VOLVO</option>						
+									
+				<option value="Choose Make">Choose Make</option><option value="ALFA ROMEO">ALFA ROMEO</option><option value="ASIA MOTORS">ASIA MOTORS</option><option value="ASTON MARTIN">ASTON MARTIN</option><option value="ATKINSON">ATKINSON</option><option value="AUDI">AUDI</option><option value="BENTLEY">BENTLEY</option><option value="BMW">BMW</option><option value="CADILLAC">CADILLAC</option><option value="CHEVROLET">CHEVROLET</option><option value="CHRYSLER">CHRYSLER</option><option value="CITROEN">CITROEN</option><option value="DAEWOO">DAEWOO</option><option value="DAIHATSU">DAIHATSU</option><option value="DAIMLER">DAIMLER</option><option value="EUNOS">EUNOS</option><option value="FERRARI">FERRARI</option><option value="FIAT">FIAT</option><option value="FORD">FORD</option><option value="FREIGHTLINER">FREIGHTLINER</option><option value="HINO">HINO</option><option value="HOLDEN">HOLDEN</option><option value="HONDA">HONDA</option><option value="HSV">HSV</option><option value="HYUNDAI">HYUNDAI</option><option value="INTERNATIONAL">INTERNATIONAL</option><option value="ISUZU">ISUZU</option><option value="IVECO">IVECO</option><option value="JAGUAR">JAGUAR</option><option value="JEEP">JEEP</option><option value="KENWORTH">KENWORTH</option><option value="KIA">KIA</option><option value="LADA">LADA</option><option value="LAMBORGHINI">LAMBORGHINI</option><option value="LANCIA">LANCIA</option><option value="LANDROVER">LANDROVER</option><option value="LEXUS">LEXUS</option><option value="LEYLAND">LEYLAND</option><option value="LOTUS">LOTUS</option><option value="M.G.">M.G.</option><option value="MACK">MACK</option><option value="MASERATI">MASERATI</option><option value="MAZDA">MAZDA</option><option value="MERCEDES">MERCEDES</option><option value="MINI">MINI</option><option value="MITSUBISHI">MITSUBISHI</option><option value="MORGAN">MORGAN</option><option value="NISSAN">NISSAN</option><option value="OKA">OKA</option><option value="PEUGEOT">PEUGEOT</option><option value="PONTIAC">PONTIAC</option><option value="PORSCHE">PORSCHE</option><option value="PROTON">PROTON</option><option value="RENAULT">RENAULT</option><option value="ROLLS ROYCE">ROLLS ROYCE</option><option value="ROVER">ROVER</option><option value="SAAB">SAAB</option><option value="SCANIA">SCANIA</option><option value="SEAT">SEAT</option><option value="SSANGYONG">SSANGYONG</option><option value="SUBARU">SUBARU</option><option value="SUZUKI">SUZUKI</option><option value="TATA">TATA</option><option value="TOYOTA">TOYOTA</option><option value="TRIUMPH">TRIUMPH</option><option value="TVR">TVR</option><option value="VOLKSWAGEN">VOLKSWAGEN</option><option value="VOLVO">VOLVO</option></select>
+				
+				<select name="region_id" id="region_id">
+					<option value="Any Location" selected="">Any Location</option>
+					<option value="NSW">NSW</option>
+					<option value="QLD">QLD</option>
+					<option value="SA">SA</option>
+					<option value="VIC">VIC</option>
+					<option value="WA">WA</option>
+				</select>
+								
+				<select name="year_from" id="year_from">
+					
+					<option value="1980">1980</option>
+					<option value="1981">1981</option>
+					<option value="1982">1982</option>
+					<option value="1983">1983</option>
+					<option value="1984">1984</option>
+					<option value="1985">1985</option>
+					<option value="1986">1986</option>
+					<option value="1987">1987</option>
+					<option value="1988">1988</option>
+					<option value="1989">1989</option>
+					<option value="1990">1990</option>
+					<option value="1991">1991</option>
+					<option value="1992">1992</option>
+					<option value="1993">1993</option>
+					<option value="1994">1994</option>
+					<option value="1995">1995</option>
+					<option value="1996">1996</option>
+					<option value="1997">1997</option>
+					<option value="1998">1998</option>
+					<option value="1999">1999</option>
+					<option value="2000">2000</option>
+					<option value="2001">2001</option>
+					<option value="2002">2002</option>
+					<option value="2003">2003</option>
+					<option value="2004">2004</option>
+				<option value="Any Year">Any Year</option><option value="1980">1980</option><option value="1981">1981</option><option value="1982">1982</option><option value="1983">1983</option><option value="1984">1984</option><option value="1985">1985</option><option value="1986">1986</option><option value="1987">1987</option><option value="1988">1988</option><option value="1989">1989</option><option value="1990">1990</option><option value="1991">1991</option><option value="1992">1992</option><option value="1993">1993</option><option value="1994">1994</option><option value="1995">1995</option><option value="1996">1996</option><option value="1997">1997</option><option value="1998">1998</option><option value="1999">1999</option><option value="2000">2000</option><option value="2001">2001</option><option value="2002">2002</option><option value="2003">2003</option><option value="2004">2004</option></select>
+				
+				<!-- <select name="price_range" id="price_range">
+					<option value="" selected>loading...</option>
+				
+				</select> -->
+					
+				<input type="hidden" name="page" value="1">							
+				<input type="hidden" name="order_by" value="A">							
+				<input type="hidden" name="sort_type" value="1">							
+				<input type="hidden" name="body_id" value="Any Body">					
+				<input type="submit" value="Go" class="buttonGo" id="carsGo" onmouseover="this.style.background='#ffffff'" onmouseout="this.style.background='#F1F1F1'"> 
+				</form>
+				<br>
+    		</div>
+    	</div>
+    	<div id="match" style="display: none;"> 
+    		<div class="classiContent">
+    			<form target="_top" method="post" action="http://newsinteractive.match.com/match/mt.cfm?pg=search&amp;type=easy&amp;tcid=200996" name="qsform">
+				<input type="hidden" value="search" name="searchaction">
+				I am a
+				<select name="s_quick_gender_match" style="width:60px"> 
+					<option value="f">Female</option>
+					<option value="m">Male</option>         
+				</select> 
+				seeking a
+				<select name="s_quick_gender_match" style="width:60px"> 
+					<option value="m">Male</option>
+					<option value="f">Female</option>
+				</select>
+				<p style="margin-top:8px">
+				between the ages of
+				<select name="s_age_from" id="s_age_from" style="width:40px">
+					
+					<option value="25">25</option>
+					<option value="30">30</option>
+					<option value="35">35</option>
+					<option value="40">40</option>
+					<option value="45">45</option>
+					<option value="50">50</option>
+					<option value="55">55</option>
+					<option value="60">60</option>
+					<option value="70">70</option>
+					<option value="80">80</option>
+	
+				<option value=""></option><option value="18">18</option><option value="25">25</option><option value="30">30</option><option value="35">35</option><option value="40">40</option><option value="45">45</option><option value="50">50</option><option value="55">55</option><option value="60">60</option><option value="70">70</option><option value="80">80</option></select>
+				and 
+				<select name="s_age_to" id="s_age_to" style="width:40px">
+					
+					<option value="25" selected="">25</option>
+					<option value="30">30</option>
+					<option value="35">35</option>
+					<option value="40">40</option>
+					<option value="45">45</option>
+					<option value="50">50</option>
+					<option value="55">55</option>
+					<option value="60">60</option>
+					<option value="70">70</option>
+					<option value="80">80</option>
+				<option value=""></option><option value="18">18</option><option value="25">25</option><option value="30">30</option><option value="35">35</option><option value="40">40</option><option value="45">45</option><option value="50">50</option><option value="55">55</option><option value="60">60</option><option value="70">70</option><option value="80">80</option><option value="99">99</option></select><br>	
+                <select name="s_country_id" id="s_country_id">
+				
+				<option value="US">United States</option>
+				<option value="C3">England</option>
+				<option value="CA">Canada</option>
+				<option value="RU">Russia</option>
+				<option value="ES">Spain</option>
+				<option value="FR">France</option>
+				<option value="DE">Germany</option>
+				
+               <option value="AU">Australia</option><option value="US">United States</option><option value="C3">England</option><option value="CA">Canada</option><option value="RU">Russia</option><option value="ES">Spain</option><option value="FR">France</option><option value="DE">Germany</option></select>	
+				Photos only <input name="s_photo" type="checkbox" value="yes" checked=""><br>									
+				<input type="submit" value="Go" class="buttonGo" id="matchGo" onmouseover="this.style.background='#ffffff'" onmouseout="this.style.background='#F1F1F1'">
+    			</p></form>
+				<br>
 
-<tr>
-<td></td>
-<td width="20"><img src="/images/blank.gif" width="20" height="1"></td>
-<td align="center">
-	<table width="100%" border="0">
-<tbody><tr>
-    <td align="left" width="110" valign="top"><a href="http://www.advertising.ni.com.au"><span class="footer">Advertise with us</span></a></td>
-	<td align="right" width="125" valign="top"><span class="footer" style="color:#000000">© News Limited</span></td>
-    <td align="right" width="105" valign="top"><a href="http://www.news.com.au/terms"><span class="footer">Terms</span></a></td>
-    <td align="right" width="110" valign="top"><a href="http://www.news.com.au/common/privacy/0,4841,,00.html"><span class="footer">Privacy</span></a></td>
-</tr>
-<tr>
-    <td colspan="4" align="left"><a href="http://www.ni.com.au" target="top"><img src="http://www.news.com.au/images/footer/ni.gif" alt="News Interactive" border="0" width="215" height="15" hspace="95"></a></td>
-</tr>
-</tbody></table></td>
-</tr>
-</tbody></table>
+    		</div>
+    		<!-- end toggle section divs -->
+    	</div>	
+	</div>
+	
+	<script>randomDiv()</script> <!-- choose new tab after each refresh -->
+	
+	<!-- // classifieds box -->
+
+	
+   	<!-- ad box -->
+	  
+	<!-- AdSpace site=news&section=leave&adsize=139x30&pagepos=1--><script language="JavaScript1.1" src="http://adserver.news.com.au/js.ng/site=news&amp;section=leave&amp;adsize=139x30&amp;pagepos=1"></script><noscript><A HREF="http://adserver.news.com.au/click.ng/Params.richmedia=yes&site=news&section=leave&adsize=139x30&pagepos=1"><IMG SRC="http://adserver.news.com.au/image.ng/Params.richmedia=yes&site=news&section=leave&adsize=139x30&pagepos=1"></A></noscript><!-- /AdSpace -->
+		 <!-- // ad box -->
+	
+	<!-- promo box -->
+	
+	<div class="smallPromoBox">
+        <div class="boxEBorder">
+            <div align="center"><a href="http://carsguide.news.com.au/news/sell?from=rhn" class="image"><img src="http://network.news.com.au/image/0,10114,5014886,00.gif" width="129" height="65" alt="" border="0"></a></div>
+            <div class="boxEText">
+                <b>Offer extended</b><br>
+                Sell your car for FREE, until August 31 <a href="http://carsguide.news.com.au/news/sell?from=rhn" class="orange">More</a>
+			</div>
+        </div>
+    </div> <!-- // promo box -->
+	
+	 <script language="Javascript">
+		 
+
+				var thesundaymail = new Array("http://www.thesundaymail.news.com.au/?from=ni_cover","http://www.thecouriermail.news.com.au/extras/subscribe/index.html?from=ni_cover","http://network.news.com.au/image/0,10114,5018814,00.jpg");
+ 
+
+				var couriermail = new Array("http://www.couriermail.news.com.au/?from=ni_cover","http://thecouriermail.com.au/extras/subscribe/index.html?from=ni_cover","http://network.news.com.au/image/0,10114,5020245,00.jpg");
+ 
+
+
+				var advertiser = new Array("http://www.theadvertiser.news.com.au/?from=ni_cover","http://www.theadvertiser.news.com.au/common/subscribeform/?from=ni_cover","http://network.news.com.au/image/0,10114,5020252,00.jpg");
+ 
+
+
+				var heraldsun = new Array("http://www.heraldsun.news.com.au/?from=ni_cover","http://www.heraldsun.news.com.au/common/subscribeform/?from=ni_cover","http://network.news.com.au/image/0,10114,5020247,00.jpg");
+ 
+
+				var ntnews = new Array("http://www.ntnews.news.com.au/?from=ni_cover","http://www.ntnews.news.com.au/common/subscribeform/?from=ni_cover","http://network.news.com.au/image/0,10114,5020266,00.jpg");
+ 
+
+				var mercury = new Array("http://www.themercury.news.com.au/?from=ni_cover","http://www.themercury.news.com.au/common/subscribeform/?from=ni_cover","http://network.news.com.au/image/0,10114,5020248,00.jpg");
+ 
+
+				var dailytelegraph = new Array("http://dailytelegraph.news.com.au/index.jsp?from=ni_cover","http://dailytelegraph.news.com.au/homedelivery/index.htm?from=ni_cover","http://images.news.com.au/thedailytelegraph/3333996_dtm24jun05st001-126.jpg");
+  
+		metaPaper = new Array(thesundaymail,couriermail,advertiser,heraldsun,ntnews,mercury,dailytelegraph);
+		 </script>
+	
+	<!-- mastheads box -->
+	<div class="smallPromoBox" id="rightnavPapers">
+		<div class="boxEborder">
+			Today's Newspapers
+	        <form class="searchform" id="papersDrop" name="papersDrop" action="">
+	            <select name="papersDropSelect" onchange="loadPaperImage(this)">
+				 
+					<option value="0">Sunday Mail (QLD)</option>
+					 
+					<option value="1">The Courier-Mail</option>
+					 
+					<option value="2">The Advertiser</option>
+					 
+					<option value="3">Herald Sun</option>
+					 
+					<option value="4">NT News</option>
+					 
+					<option value="5">The Mercury</option>
+					 
+					<option value="6">The Daily Telegraph</option>
+					  </select>
+	        </form>
+			<a href="#" onclick="papersLink('site');return false" id="paperImageLink"><img src="http://network.news.com.au/image/0,10114,5020247,00.jpg" width="126" alt="Newspaper" border="0" name="paperPlace"></a>
+			<a href="#" onclick="papersLink('delivery');return false">Home Delivery</a> | <a href="#" onclick="papersLink('site');return false">Website</a>  
+		</div>
+	</div>
+	<!-- // mastheads box -->	
+    
+	
+
+	<!-- horoscopes -->
+	 <div class="smallRightBox" id="horoscopes">
+		<div class="smallBoxHeader"><a href="http://entertainment.news.com.au/horoscopes">Horoscopes</a></div>
+        <div class="boxEborder">
+			<a href="http://entertainment.news.com.au/horoscopes" class="h2">Cancer<br>Jun 22 - Jul 22</a>
+            <div id="starSign"><img src="http://network.news.com.au/images/horoscopes/icon_cancer.gif" width="37" height="40" alt="Cancer" border="0"></div>
+             
+With the full Moon passing just now Cancer you may feel a little washed out and need a little time t... <a href="http://entertainment.news.com.au/horoscopes" class="orange">More</a>
+			 <div class="spacerClear"></div>
+        </div>
+    </div>
+    <!-- // horoscopes -->	
+	  <!-- promo box -->
+	
+	<div class="smallPromoBox">
+        <div class="boxEBorder">
+            <div align="center"><a href="http://jobs.careerone.com.au/js.php?lookid=careerone&amp;q=lookidcareeronefj" class="image"><img src="http://network.news.com.au/image/0,10114,5019262,00.jpg" width="129" height="65" alt="" border="0"></a></div>
+            <div class="boxEText">
+                <b>Need a career change?</b><br>
+                Check out today's featured jobs <a href="http://jobs.careerone.com.au/js.php?lookid=careerone&amp;q=lookidcareeronefj" class="orange">More</a>
+			</div>
+        </div>
+    </div> <!-- // promo box -->
+
+	 
+
+	<!-- promo box -->
+	
+	<div class="smallPromoBox">
+        <div class="boxEBorder">
+            <div align="center"><a href="javascript:window.open('http://finance.news.com.au/media?from=rhn','','width=710,height=430,scrollbars=yes,resizable=yes'); void(0);" class="image"><img src="http://network.news.com.au/image/0,10114,5019916,00.gif" width="129" height="65" alt="" border="0"></a></div>
+            <div class="boxEText">
+                <b>NEWS.com.au/business</b><br>
+                New tools to help you grow your wealth <a href="javascript:window.open('http://finance.news.com.au/media?from=rhn','','width=710,height=430,scrollbars=yes,resizable=yes'); void(0);" class="orange">More</a>
+			</div>
+        </div>
+    </div> <!-- // promo box -->
+	
+	 </div>
+<!-- // right nav -->
+
+<!-- footer -->
+<div class="spacerClear"></div>
+
+<div id="footer">
+    <a href="http://www.news.com.au/help/">Help</a> | <a href="http://www.news.com.au/feedback/">Contact Us</a> | <a href="http://www.careerone.com.au/jobs/job-search/news">Jobs at News</a> | <a href="http://www.news.com.au/terms/">Terms &amp; Conditions</a> | <a href="http://www.news.com.au/privacy">Privacy Policy</a>
+    <div id="copyright">Copyright 2005 News Limited. All times AEST (GMT + 10).</div>
+</div>
+
 <!-- START RedMeasure V4 - Java v1.1  Revision: 1.8 -->
 <!-- COPYRIGHT 2000 Red Sheriff Limited -->
 <script language="JavaScript"><!--
@@ -1013,6 +825,37 @@ document.write("<COMMENT>");
 <img src="http://server-au.imrworldwide.com/cgi-bin/count?cid=au_newscorp_0" width=1 height=1>
 </noscript>
 </comment>
-<!-- END RedMeasure V4 --> 
+<!-- END RedMeasure V4 -->
 
-</body></html>
+<!-- Start DI Tracking Code for HEAD section-->
+<script language="JavaScript1.2">
+var refr=escape(document.referrer); /* get the http referer and encode it */
+var dom=location.hostname; /* get the host domain */
+var stURL="http://au.track.decideinteractive.com/n/16184/16186/www.news.com.au/e0dce9fe002503000000000600000000034ccf0c0000000000000000000000000000000100/i/c?0&1pixgif&referer="
++ refr;
+if (refr && refr.search(dom) == -1) /* if the referrer is external preload the image request */
+{
+imageTR = new Image();
+imageTR.src = stURL;
+}
+</script>
+<!-- End DI Tracking Code -->
+<!-- AdSpace site=news&section=ros&adsize=1x1&pagepos=1 -->
+<script language="JavaScript1.1" src="http://adserver.news.com.au/js.ng/site=news&amp;section=ros&amp;adsize=1x1&amp;pagepos=1">
+</script>
+<noscript>
+<A HREF="http://adserver.news.com.au/click.ng/Params.richmedia=yes&site=news&section=ros&adsize=1x1&pagepos=1">
+<IMG SRC="http://adserver.news.com.au/image.ng/Params.richmedia=yes&site=news&section=ros&adsize=1x1&pagepos=1">
+</A>
+</noscript>
+<!-- /AdSpace -->
+<!-- // footer -->
+
+</div>
+<!-- // page container -->
+
+<div id="promo120x20">
+	</div>
+
+
+<script type="text/javascript" src="https://web.archive.org/web/20050328074535/http://www.news.com.au/js/news_rpdropdowns/0,10347,,00.js"></script></body></html>
