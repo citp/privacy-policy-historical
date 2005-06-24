@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gao.gov privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209044004id_/http%3A//www.gao.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gao.gov privacy policy that was archived on 2005-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050624173544id_/http%3A//www.gao.gov/privacy.html) for the most accurate reproduction.*
 
 # GAO: GAO Privacy and Security Notification
 
