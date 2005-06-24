@@ -1,24 +1,10 @@
-> *The following text is extracted and transformed from the discountwatchstore.com privacy policy that was archived on 2004-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040812020740id_/http%3A//www.discountwatchstore.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountwatchstore.com privacy policy that was archived on 2005-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050625005815id_/http%3A//www.discountwatchstore.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  
-
-
 ### We are commited to your privacy!
 
-Your privacy is important, so we'd like to explain what information we collect when you visit this web site, why we collect it and how it is used. This Policy is governed by our Terms of Service.  
-
-
-### Special note about children
-
-This Site is not intended for children, especially kids under 13. Children may use this Site only with the direct supervision of their parent.  
-
-
-### What information do we collect from you? Why?
-
-If we collect personal contact information (as described below), you may later access and modify it, and remove it from our system. You may choose simply not to provide personal contact information by opting-out at the point of collection.
-
+Your privacy is important, so we'd like to explain what information we collect when you visit this web site, why we collect it and how it is used. We want to inform you that we utilize a secure check out to better protect your sensitive information. This Policy is governed by our Terms of Service.  
 When you use our Site, we may request your name, street address, telephone number or other "real world" contact information.
 
 This information does not inherently reveal and will not be linked to you personally. We use this information to complete and support the immediate activity requested, and to comply with any requirements of law. This information may be disclosed only to our staff and to our immediate agents.
@@ -54,7 +40,7 @@ Data management requests are administered in an orderly manner to the extent fea
 
 By using our Site, you agree to this Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. Our Terms of Service take precedence over any conflicting Policy provision. We may change our Policy by posting a new version on our Site.
 
-**Legal Disclaimer**
+ **Legal Disclaimer**
 
-This Site operates AS-IS and AS-AVAILABLE, without liability of any kind. We are not responsible for events beyond our direct control. This Policy is governed by CT law, excluding conflicts of law principles. Any legal actions against us must be commenced in CT within one year after the claim arose, or be barred.  
+This Site operates AS-IS and AS-AVAILABLE, without liability of any kind. We are not responsible for events beyond our direct control. This Policy is governed by Connecticut law, excluding conflicts of law principles. Any legal actions against us must be commenced in Connecticut within one year after the claim arose, or be barred.  
 
