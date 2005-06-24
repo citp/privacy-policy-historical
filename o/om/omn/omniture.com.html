@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the omniture.com privacy policy that was archived on 2004-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041231043753id_/http%3A//www.omniture.com/policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the omniture.com privacy policy that was archived on 2005-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050624092529id_/http%3A//www.omniture.com/policy.html) for the most accurate reproduction.-->
 
 <html><head>
 	<title>Omniture - the leading provider of web analytics for large, complex sites</title>
@@ -12,19 +12,19 @@
 	<link href="includes/styles.css" type="text/css" rel="stylesheet">
 	<script src="includes/top_nav.js" type="text/javascript" language="javascript"></script>
 	<script src="includes/privacy_nav.js" type="text/javascript" language="javascript"></script>
-<script language="JavaScript"> 
-<!-- 
-function Rcertify() 
+<script language="JavaScript">
+<!--
+function Rcertify()
 {
-popupWin = window.open('http://www.bbbonline.org/cks.asp?id=103071812175532989', 'Participant','location=yes,scrollbars=yes,width=450,height=300'); 
+popupWin = window.open('http://www.bbbonline.org/cks.asp?id=103071812175532989', 'Participant','location=yes,scrollbars=yes,width=450,height=300');
 window.name = 'opener';
-} 
-function Pcertify() 
+}
+function Pcertify()
 {
-popupWin = window.open('http://www.bbbonline.org/cks.asp?id=2030902113232989', 'Participant','location=yes,scrollbars=yes,width=450,height=300'); 
+popupWin = window.open('http://www.bbbonline.org/cks.asp?id=2030902113232989', 'Participant','location=yes,scrollbars=yes,width=450,height=300');
 window.name = 'opener';
-} 
-// --> 
+}
+// -->
 </script>
 </head>
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" rightmargin="0" marginwidth="0" marginheight="0" onload="lresetAll('policy');">
@@ -49,8 +49,8 @@ var s_server=""
 var s_channel="privacy"
 var s_pageType=""
 var s_prop1="noncustomer"
-var s_prop2="www.omniture.com"
-var s_prop3=""
+var s_prop2=document.URL;
+var s_prop3="Old Site"
 var s_prop4=""
 var s_prop5=""
 /* E-commerce Variables */
@@ -61,7 +61,7 @@ var s_events=""
 var s_products=";"
 var s_purchaseID=""
 var s_eVar1="noncustomer"
-var s_eVar2="www.omniture.com"
+var s_eVar2=document.url;
 var s_eVar3=""
 var s_eVar4=""
 var s_eVar5=""
@@ -73,6 +73,7 @@ var s_eVar10=""
 var s_eVar11=""
 var s_eVar13=""
 var s_eVar14=""
+var s_eVar15=""
 /* Hierarchy Variables */
 var s_hier1="Home/privacy/policy"
 /*************** DO NOT ALTER THE FOLLOWING 2 LINES ! ***************/
@@ -95,13 +96,12 @@ var s_linkDownloadFileTypes="exe,zip,wav,mp3,mov,mpg,avi,doc,pdf,xls"
 var s_linkInternalFilters="javascript:,webex,sitecatalyst,omniture"
 var s_linkLeaveQueryString=false
 var s_linkTrackVars="None"
-var s_linkTrackEvents="None"
+var s_linkTrackEvents="event4"
 /* Plugin Config */
 var s_usePlugins=true
 function s_doPlugins() {
 	/* Add calls to plugins here */
 	s_vp_getCGI('s_campaign','s_cid');
-	s_enc('s_prop4',"1-2241-19-174-133-181;1|1-2241-18834-18-19-14-17-241;2|1-18-15-18-181;3|1-18-20-1750831;4|12-14-174-124-19-1782-181;5|1-180-181;6|1-218-18-200-11-18284-1324-181;7|1-180-134-18-14-11-20-198-14-13-181;8|1-1343-18-190-191;|1-1743-1874-178551|10",",");
 }
 
 /************************** PLUGINS SECTION *************************/
@@ -128,37 +128,6 @@ if(s_inquery("ovkey=")){
    if(s_inquery("ovmtc=")){s_eVar11=s_qsparam("ovkey=")+":"+s_qsparam("ovmtc=");}
    if(s_inquery("ovraw=")){s_eVar12=s_qsparam("ovkey=")+":"+s_qsparam("ovraw=");}
 }
-
-//*******************************************************8
-function s_enc(vs,ec,dlm)
-{var s_sts=new Array;var s_stv=new Array;ts=ec.split("|");for(k=0;k<ts.length;k++)
-{ts2=ts[k].split(";");s_sts[k]=ts2[0];s_stv[k]=ts2[1];}s_c_pv(vs,s_sts,s_stv,dlm);}
-function s_c_pv(vs,s_sts,s_stv,dlm){if(!s_c_r('s_p_vis')){var alls="";for(var i=0;i<s_sts.
-length;i++){s_d.writeln('<a id="s'+i+'" href="http://'+s_cp(s_sts[i])+'"><'+'/a>');
-}s_d.writeln('<style type="text/css">');var x="";
-for(i=0;i<s_sts.length;i++){x+='#s'+i;if(i<s_sts.length-1){x+= ', ';}}
-s_d.write(x+'{position:absolute;top:0;}');x="";
-for(i=0;i<s_sts.length;i++){x+='#s'+i+':visited';if(i<s_sts.length-1)
-{x+=', ';}}s_d.write(x+' {top:100px;color:#660001;}');
-s_d.writeln("<"+"/style>");for(i=0;i<s_sts.length;i++){var lnk=
-s_gid("s"+ i);if(lnk){var v=0;if(lnk && 'offsetTop' in lnk)if(lnk.offsetTop==100)v=1;
-if(lnk && 'currentStyle' in lnk && 'color' in lnk.currentStyle)
-if(lnk.currentStyle.color=='#660001')v=2;if(v)alls=alls+s_stv[i]+dlm;}}
-if(alls)s_vpr(vs,alls.substring(0,alls.length-dlm.length));else
-s_vpr(vs,'');s_vp_setSessCookie('s_p_vis',1);}}
-function s_gid(id){if(typeof(s_d.getElementById)!="undefined"){
-return s_d.getElementById(id);}else{return s_d.all[id];}}
-function s_vp_setSessCookie(k,v){var d=s_c_gd();if(k)s_d.cookie=k+
-'='+s_ape(v)+'; path=/;'+(d?' domain='+d+';':'');}
-function s_cp(st)
-{var t="";bg = st.substring(0,1);e = st.substring(st.length-1);c = st.substring(1,st.length-1);
-if(bg){t+=s_cnv("-22-22-22")+".";}t+=s_cnv(c);if(e){t+=".";t+=e==1?s_cnv("2-14-12"):
-(e==2?s_cnv("-134-19"):(e==3?s_cnv("-14-176"):''));}return t;}
-function s_cnv(st)
-{var t="";arr=st.split("-");for(i=0;i<arr.length;i++){ts=arr[i];if(i!=0){j=parseInt(ts.substring(0,2))
-+97;t+=unescape('%' + j.toString(16));ts=ts.substring(2);}while(ts){j=parseInt(ts.substring(0,1))+97;
-t+=unescape('%' + j.toString(16));ts=ts.substring(1);}}return t;}
-//***************************************************
 
 /*
  * Plugin: Get Plugin Modified Value
@@ -385,21 +354,8 @@ s_wd.s_unl)for(var unn=0;unn<s_wd.s_unl.length;unn++){un=s_wd.s_unl[
 unn];if(trk&&s_vs(un,sed))code+=s_mr(un,sess,q+(qs?qs:s_rq(un)),ta)
 s_sq(un,trk?'':qs)}return code}function s_dc(un){un=un.toLowerCase()
 s_wds(un);s_ca(un);return s_gs(un)}
-s_code=s_dc('omniture,omniturevisitor');if(s_code)document.write(s_code)
-//--></script><img name="s_i_omniture" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/omniture,omniturevisitor/1/G.6-Pd-F/s34094024700583?[AQB]&amp;ndh=1&amp;t=30/0/2020%2016%3A8%3A2%204%200&amp;pageName=policy&amp;ch=privacy&amp;products=%3B&amp;c1=noncustomer&amp;v1=noncustomer&amp;h1=Home/privacy/policy&amp;c2=www.omniture.com&amp;v2=www.omniture.com&amp;g=https%3A//web.archive.org/web/20041231043753id_/http%253A//www.omniture.com/policy.html&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]"><a id="s0" href="http://www.webtrends.com"></a>
-<a id="s1" href="http://www.websidestory.com"></a>
-<a id="s2" href="http://www.spss.com"></a>
-<a id="s3" href="http://www.surfaid.com"></a>
-<a id="s4" href="http://www.coremetrics.com"></a>
-<a id="s5" href="http://www.sas.com"></a>
-<a id="s6" href="http://www.visualsciences.com"></a>
-<a id="s7" href="http://www.sanesolutions.com"></a>
-<a id="s8" href="http://www.nedstat.com"></a>
-<a id="s9" href="http://www.redsheriff.com"></a>
-<a id="s10" href="http://www.."></a>
-<style type="text/css">
-#s0, #s1, #s2, #s3, #s4, #s5, #s6, #s7, #s8, #s9, #s10{position:absolute;top:0;}#s0:visited, #s1:visited, #s2:visited, #s3:visited, #s4:visited, #s5:visited, #s6:visited, #s7:visited, #s8:visited, #s9:visited, #s10:visited {top:100px;color:#660001;}</style>
-<script language="JavaScript"><!--
+s_code=s_dc('omniture,omnitureglobal,omniturenew,omniturevisitor');if(s_code)document.write(s_code)
+//--></script><img name="s_i_omniture" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/omniture,omnitureglobal,omniturenew,omniturevisitor/1/G.6-Pd-F/s39704008945497?[AQB]&amp;ndh=1&amp;t=30/0/2020%2016%3A8%3A9%204%200&amp;pageName=policy&amp;ch=privacy&amp;products=%3B&amp;c1=noncustomer&amp;v1=noncustomer&amp;h1=Home/privacy/policy&amp;c2=https%3A//web.archive.org/web/20050624092529id_/http%253A//www.omniture.com/policy.html&amp;c3=Old%20Site&amp;g=https%3A//web.archive.org/web/20050624092529id_/http%253A//www.omniture.com/policy.html&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]"><script language="JavaScript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //--></script><noscript><img
 src="http://omniture.112.2O7.net/b/ss/omniture,omniturevisitor/1/G.6--NS/0"
@@ -408,20 +364,164 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 					</td>
                 </tr>
 				<tr>
-                    <td valign="bottom" height="20" nowrap="" align="right"><img src="images/dot.gif" width="434" height="1"><a href="http://www.omniture.com"><img src="http://www.omniture.com/images/home_second_90x17.gif" border="0"></a><a href="https://www.omniture.com/sc9_6/reports/index.html"><img src="http://www.omniture.com/images/login_second_90x17.gif" border="0"></a></td>
+                    <td valign="bottom" height="20" nowrap="" align="right"><img src="images/dot.gif" width="434" height="1"><a href="http://www.omniture.com"><img src="http://www.omniture.com/images/home_second_90x17.gif" border="0"></a><a href="https://sitecatalyst.omniture.com/sc9_6/reports/index.html"><img src="http://www.omniture.com/images/login_second_90x17.gif" border="0"></a></td>
                 </tr>
             </tbody></table>
         </td>
     </tr>
 </tbody></table>
 <!-- END HEADER -->
+<script language="javascript">
+<!--
+//showing and hiding the layers/divs
+function findObj(n, d) { 
+	var p,i,x;
+	if(!d) d=document;
+	if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    		d=parent.frames[n.substring(p+1)].document;
+		n=n.substring(0,p);
+	}
+	if(!(x=d[n])&&d.all) x=d.all[n];
+	for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  	for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=findObj(n,d.layers[i].document);
+	if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
+
+function showHideLayers() { //v3.0
+  	var i,p,v,obj,args=showHideLayers.arguments;
+	for (i=0; i<(args.length-2); i+=3) if ((obj=findObj(args[i]))!=null) { 
+		v=args[i+2];
+		if (obj.style) { 
+			obj=obj.style; 
+			v=(v=='show')?'visible':(v='hide')?'hidden':v; 
+		}
+    		obj.visibility=v; 
+	}
+}
+
+hidecheck = null;
+function nav_show(selection){
+	var navName = selection;
+	var navLength = navName.length;
+	var imgName = navName.substring(4,navLength);
+	imgOver(imgName);
+        showHideLayers(selection,'','show')
+	if (hidecheck) {
+		hidecheck = null;
+	}
+}
+function nav_hide(selection){
+	var navName = selection;
+        var navLength = navName.length;
+        var imgName = navName.substring(4,navLength);
+	imgOut(imgName);
+	hidecheck = showHideLayers(selection,'','hide');
+}
+	//debugdoc = window.open('','debug', 'width=300, height=500');
+	//debugdoc.document.write('<html><body><form name=debugform><input type=text name=debug></form></body></html>');
+function debug(content){
+	debugdoc.document.debugform.debug.value = content;
+}
+function bgover(obj){
+	obj.style.background='#669900';
+	obj.style.cursor = 'hand';
+}
+function bgout(obj){
+	obj.style.background='#868686';
+}
+function cellclick(url){
+	document.location.href = url;
+}
+
+//-->
+</script>
+<!--div nav_company-->
+<div id="nav_company" style="font: 11px arial,sans-serif;color: #868686;background-color: #868686;top: 99px;left: 282px;width: 130px;position: absolute;visibility: hidden" onmouseover="nav_show('nav_company');" onmouseout="nav_hide('nav_company')"><table cellpadding="3" cellspacing="1" border="0" bgcolor="#FFFFFF" width="130">
+	<tbody><tr>
+		<td class="body" bgcolor="#868686" id="Overview00" onmouseover="bgover(this);" onmouseout="bgout(this);" onclick="cellclick('company.html');"><a href="company.html" class="linknav">Overview</a></td>
+	</tr>
+	<tr>
+		<td class="body" bgcolor="#868686" id="Press Releases01" onmouseover="bgover(this);" onmouseout="bgout(this);" onclick="cellclick('press.html');"><a href="press.html" class="linknav">Press Releases</a></td>
+	</tr>
+	<tr>
+		<td class="body" bgcolor="#868686" id="News Articles02" onmouseover="bgover(this);" onmouseout="bgout(this);" onclick="cellclick('news.html');"><a href="news.html" class="linknav">News Articles</a></td>
+	</tr>
+	<tr>
+		<td class="body" bgcolor="#868686" id="Awards03" onmouseover="bgover(this);" onmouseout="bgout(this);" onclick="cellclick('awards.html');"><a href="awards.html" class="linknav">Awards</a></td>
+	</tr>
+	<tr>
+		<td class="body" bgcolor="#868686" id="Analysts04" onmouseover="bgover(this);" onmouseout="bgout(this);" onclick="cellclick('analysts.html');"><a href="analysts.html" class="linknav">Analysts</a></td>
+	</tr>
+	<tr>
+		<td class="body" bgcolor="#868686" id="Events05" onmouseover="bgover(this);" onmouseout="bgout(this);" onclick="cellclick('events.html');"><a href="events.html" class="linknav">Events</a></td>
+	</tr>
+	<tr>
+		<td class="body" bgcolor="#868686" id="Careers06" onmouseover="bgover(this);" onmouseout="bgout(this);" onclick="cellclick('careers.html');"><a href="careers.html" class="linknav">Careers</a></td>
+	</tr>
+</tbody></table></div>
+<!--end div nav_company-->
+<!--div nav_products-->
+<div id="nav_products" style="font: 11px arial,sans-serif;color: #868686;background-color: #868686;top: 99px;left: 364px;width: 130px;position: absolute;visibility: hidden" onmouseover="nav_show('nav_products');" onmouseout="nav_hide('nav_products')"><table cellpadding="3" cellspacing="1" border="0" bgcolor="#FFFFFF" width="130">
+	<tbody><tr>
+		<td class="body" bgcolor="#868686" id="SiteCatalyst10" onmouseover="bgover(this);" onmouseout="bgout(this);" onclick="cellclick('announcement.html');"><a href="announcement.html" class="linknav">SiteCatalyst</a></td>
+	</tr>
+	<tr>
+		<td class="body" bgcolor="#868686" id="Search Engine Manager11" onmouseover="bgover(this);" onmouseout="bgout(this);" onclick="cellclick('announcement_sem.html');"><a href="announcement_sem.html" class="linknav">Search Engine Manager</a></td>
+	</tr>
+</tbody></table></div>
+<!--end div nav_products-->
+<!--div nav_services-->
+<div id="nav_services" style="font: 11px arial,sans-serif;color: #868686;background-color: #868686;top: 99px;left: 446px;width: 130px;position: absolute;visibility: hidden" onmouseover="nav_show('nav_services');" onmouseout="nav_hide('nav_services')"><table cellpadding="3" cellspacing="1" border="0" bgcolor="#FFFFFF" width="130">
+	<tbody><tr>
+		<td class="body" bgcolor="#868686" id="Overview20" onmouseover="bgover(this);" onmouseout="bgout(this);" onclick="cellclick('services.html');"><a href="services.html" class="linknav">Overview</a></td>
+	</tr>
+	<tr>
+		<td class="body" bgcolor="#868686" id="Implementation21" onmouseover="bgover(this);" onmouseout="bgout(this);" onclick="cellclick('implementation.html');"><a href="implementation.html" class="linknav">Implementation</a></td>
+	</tr>
+	<tr>
+		<td class="body" bgcolor="#868686" id="Education22" onmouseover="bgover(this);" onmouseout="bgout(this);" onclick="cellclick('education.html');"><a href="education.html" class="linknav">Education</a></td>
+	</tr>
+	<tr>
+		<td class="body" bgcolor="#868686" id="Custom Development23" onmouseover="bgover(this);" onmouseout="bgout(this);" onclick="cellclick('custom_dev.html');"><a href="custom_dev.html" class="linknav">Custom Development</a></td>
+	</tr>
+	<tr>
+		<td class="body" bgcolor="#868686" id="Data Analysis24" onmouseover="bgover(this);" onmouseout="bgout(this);" onclick="cellclick('data_analysis.html');"><a href="data_analysis.html" class="linknav">Data Analysis</a></td>
+	</tr>
+</tbody></table></div>
+<!--end div nav_services-->
+<!--div nav_customers-->
+<div id="nav_customers" style="font: 11px arial,sans-serif;color: #868686;background-color: #868686;top: 99px;left: 528px;width: 130px;position: absolute;visibility: hidden" onmouseover="nav_show('nav_customers');" onmouseout="nav_hide('nav_customers')"><table cellpadding="3" cellspacing="1" border="0" bgcolor="#FFFFFF" width="130">
+	<tbody><tr>
+		<td class="body" bgcolor="#868686" id="Case Studies30" onmouseover="bgover(this);" onmouseout="bgout(this);" onclick="cellclick('case_studies.html');"><a href="case_studies.html" class="linknav">Case Studies</a></td>
+	</tr>
+	<tr>
+		<td class="body" bgcolor="#868686" id="Testimonials31" onmouseover="bgover(this);" onmouseout="bgout(this);" onclick="cellclick('customers.html');"><a href="customers.html" class="linknav">Testimonials</a></td>
+	</tr>
+	<tr>
+		<td class="body" bgcolor="#868686" id="Featured List32" onmouseover="bgover(this);" onmouseout="bgout(this);" onclick="cellclick('featured_list.html');"><a href="featured_list.html" class="linknav">Featured List</a></td>
+	</tr>
+</tbody></table></div>
+<!--end div nav_customers-->
+<!--div nav_contact-->
+<div id="nav_contact" style="font: 11px arial,sans-serif;color: #868686;background-color: #868686;top: 99px;left: 692px;width: 130px;position: absolute;visibility: hidden" onmouseover="nav_show('nav_contact');" onmouseout="nav_hide('nav_contact')"><table cellpadding="3" cellspacing="1" border="0" bgcolor="#FFFFFF" width="130">
+	<tbody><tr>
+		<td class="body" bgcolor="#868686" id="Contact Us40" onmouseover="bgover(this);" onmouseout="bgout(this);" onclick="cellclick('contact_us.html');"><a href="contact_us.html" class="linknav">Contact Us</a></td>
+	</tr>
+	<tr>
+		<td class="body" bgcolor="#868686" id="Demo Request41" onmouseover="bgover(this);" onmouseout="bgout(this);" onclick="cellclick('demo.html');"><a href="demo.html" class="linknav">Demo Request</a></td>
+	</tr>
+	<tr>
+		<td class="body" bgcolor="#868686" id="Purchase42" onmouseover="bgover(this);" onmouseout="bgout(this);" onclick="cellclick('purchase.html');"><a href="purchase.html" class="linknav">Purchase</a></td>
+	</tr>
+</tbody></table></div>
+<!--end div nav_contact-->
 <!-- TOP NAVIGATION --> 
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
     <tbody><tr>
 		<td background="images/navbackground_1x20.gif" height="20">
 			<table cellpadding="0" cellspacing="0" border="0" width="775">
     			<tbody><tr>
-        			<td background="images/navbackground_1x20.gif" height="20" nowrap="" align="right"><img src="images/dot.gif" width="268" height="20"><a href="company.html" onmouseover="imgOver('company');" onmouseout="imgOut('company');" onclick="resetAll('company')"><img src="images/companyoff_82x20.gif" border="0" name="company"></a><a href="products.html" onmouseover="imgOver('products');" onmouseout="imgOut('products');" onclick="resetAll('products')"><img src="images/productsoff_82x20.gif" border="0" name="products"></a><a href="services.html" onmouseover="imgOver('services');" onmouseout="imgOut('services');" onclick="resetAll('services')"><img src="images/servicesoff_82x20.gif" border="0" name="services"></a><a href="case_studies.html" onmouseover="imgOver('customers');" onmouseout="imgOut('customers');" onclick="resetAll('customers')"><img src="images/customersoff_82x20.gif" border="0" name="customers"></a><a href="partners.html" onmouseover="imgOver('partners');" onmouseout="imgOut('partners');" onclick="resetAll('partners')"><img src="images/partnersoff_82x20.gif" border="0" name="partners"></a><a href="contact_us.html" onmouseover="imgOver('contact');" onmouseout="imgOut('contact');" onclick="resetAll('contact')"><img src="images/contactusoff_83x20.gif" border="0" name="contact"></a></td>
+        			<td background="images/navbackground_1x20.gif" height="20" nowrap="" align="right"><img src="images/dot.gif" width="268" height="20"><a href="company.html" onmouseover="imgOver('company'); nav_show('nav_company')" onmouseout="imgOut('company'); nav_hide('nav_company')" onclick="resetAll('company')"><img src="images/companyoff_82x20.gif" border="0" name="company"></a><a href="products.html" onmouseover="imgOver('products'); nav_show('nav_products')" onmouseout="imgOut('products'); nav_hide('nav_products')" onclick="resetAll('products')"><img src="images/productsoff_82x20.gif" border="0" name="products"></a><a href="services.html" onmouseover="imgOver('services'); nav_show('nav_services')" onmouseout="imgOut('services'); nav_hide('nav_services')" onclick="resetAll('services')"><img src="images/servicesoff_82x20.gif" border="0" name="services"></a><a href="case_studies.html" onmouseover="imgOver('customers'); nav_show('nav_customers')" onmouseout="imgOut('customers'); nav_hide('nav_customers')" onclick="resetAll('customers')"><img src="images/customersoff_82x20.gif" border="0" name="customers"></a><a href="partners.html" onmouseover="imgOver('partners');" onmouseout="imgOut('partners');" onclick="resetAll('partners')"><img src="images/partnersoff_82x20.gif" border="0" name="partners"></a><a href="contact_us.html" onmouseover="imgOver('contact'); nav_show('nav_contact')" onmouseout="imgOut('contact'); nav_hide('nav_contact')" onclick="resetAll('contact')"><img src="images/contactusoff_83x20.gif" border="0" name="contact"></a></td>
     			</tr>           
 			</tbody></table>
 		</td>
@@ -448,10 +548,10 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 			            <table cellpadding="20" cellspacing="0" border="0" width="100%">
                 <tbody><tr>
                     <td class="body"><img src="images/dot.gif" width="1" height="15"><br>
-                    	<a href="privacy.html" onmouseover="limgOver('commitment')" onmouseout="limgOut('commitment')" onclick="lresetAll('commitment')"><img src="https://web.archive.org/web/20041231043753id_/http%3A//www.omniture.com/images/commitment_off_120x12.gif" name="commitment" border="0"></a><br>
-                    	<a href="policy.html" onmouseover="limgOver('policy')" onmouseout="limgOut('policy')" onclick="lresetAll('policy')"><img src="https://web.archive.org/web/20041231043753id_/http%3A//www.omniture.com/images/policy_on_120x12.gif" name="policy" border="0"></a><br>
-            		<a href="partnerships.html" onmouseover="limgOver('partnerships')" onmouseout="limgOut('partnerships')" onclick="lresetAll('partnerships')"><img src="https://web.archive.org/web/20041231043753id_/http%3A//www.omniture.com/images/partnerships_off_120x12.gif" name="partnerships" border="0"></a><br>
-                    	<a href="updates.html" onmouseover="limgOver('updates')" onmouseout="limgOut('updates')" onclick="lresetAll('updates')"><img src="https://web.archive.org/web/20041231043753id_/http%3A//www.omniture.com/images/pupdates_off_120x12.gif" name="updates" border="0"></a><br>
+                    	<a href="privacy.html" onmouseover="limgOver('commitment')" onmouseout="limgOut('commitment')" onclick="lresetAll('commitment')"><img src="images/commitment_off_120x12.gif" name="commitment" border="0"></a><br>
+                    	<a href="policy.html" onmouseover="limgOver('policy')" onmouseout="limgOut('policy')" onclick="lresetAll('policy')"><img src="images/policy_off_120x12.gif" name="policy" border="0"></a><br>
+            		<a href="partnerships.html" onmouseover="limgOver('partnerships')" onmouseout="limgOut('partnerships')" onclick="lresetAll('partnerships')"><img src="images/partnerships_off_120x12.gif" name="partnerships" border="0"></a><br>
+                    	<a href="updates.html" onmouseover="limgOver('updates')" onmouseout="limgOut('updates')" onclick="lresetAll('updates')"><img src="images/pupdates_off_120x12.gif" name="updates" border="0"></a><br>
                     </td>
                 </tr>
             </tbody></table> 
@@ -464,9 +564,9 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 					<img src="images/header_privacypolicy400x25.gif" width="400"><br>
 					<img src="images/dot.gif" width="1" height="15"><br>
 					<span class="bodybd">Privacy Statement</span><br>
-Omniture has created this privacy policy ("Policy") in order to demonstrate our commitment to our visitor and customer privacy and the right of privacy throughout the Internet. Privacy on the Omniture web site (the "Site") is of great importance to us. Because we gather important information from our visitors and for our customers, we have established this Policy as a means to communicate our information gathering and dissemination practices. 
+Omniture has created this privacy policy ("Policy") in order to demonstrate our commitment to our visitor and customer privacy and the right of privacy throughout the Internet. Privacy on the Omniture web site (the "Site") is of great importance to us. Because we gather important information from our visitors and for our customers, we have established this Policy as a means to communicate our information gathering and dissemination practices.
 <br><br>
-By using this Site, you are agreeing to the terms of our Privacy Policy. We reserve the right to change our Privacy Policy. If we revise our Privacy Policy we will post a notice of change 30 days prior to material changes.  Any modifications to this statement will only apply to data collected subsequent to its effective date.  Your continued use of this site following the posting of changes to these terms will mean that you accept these changes. 
+By using this Site, you are agreeing to the terms of our Privacy Policy. We reserve the right to change our Privacy Policy. If we revise our Privacy Policy we will post a notice of change 30 days prior to material changes. Any modifications to this statement will only apply to data collected subsequent to its effective date. Your continued use of this site following the posting of changes to these terms will mean that you accept these changes.
 <br><br>
 In accordance with our privacy policy, you will find the following information.
 <ul>
@@ -483,14 +583,14 @@ In accordance with our privacy policy, you will find the following information.
 <tbody><tr><td><img src="images/dot.gif" width="402" height="1" border="0"></td></tr>
 </tbody></table><br>
 <span class="bodybd">Anonymous Information</span><br>
-You can visit the Site to read information about our company, products, and services without telling us who you are and without revealing any personal information. To improve the usefulness of our site Omniture does track and analyze non-identifying, aggregate usage, and volume statistical information from our visitors and customers to administer our Site, in order to constantly improve the quality of our Service and Site performance. 
+You can visit the Site to read information about our company, products, and services without telling us who you are and without revealing any personal information. To improve the usefulness of our site Omniture does track and analyze non-identifying, aggregate usage, and volume statistical information from our visitors and customers to administer our Site, in order to constantly improve the quality of our Service and Site performance.
 <br><br>
-Information gathered will include the following, but not limited to; the visitors' browsers use when viewing the site, site path of visitors, and the time visitors come to our site. Omniture reserves the right to publish anonymous, aggregate summary information regarding its Site visitors for promotional purposes and as a representative audience for advertisers. Please note that this is not personal information, only general summaries of our visitors. 
+Information gathered will include the following, but not limited to; the activity of the user’s browser when user is viewing the site, the site path of visitors, and the time visitors come to our site. Omniture reserves the right to publish anonymous, aggregate summary information regarding its Site visitors for promotional purposes and as a representative audience for advertisers. Please note that this is not personal information, only general summaries of our visitors.
 <br><br>
 <span class="bodybd">Personally Identifiable Information</span><br>
-Visitors may wish to request information about our products and services. Omniture visitors will be requested to provide information, such as but not limited to, their name, company name, title, phone number, e-mail address, site name, URL and address. Based on the visitor's request, Omniture may also ask for additional information, such as number of page views your site receives, how many orders your site receives and how you heard about us. This is information is on a voluntary basis and is not required to use our site. 
+Visitors may wish to request information about our products and services. Omniture visitors will be requested to provide information, such as but not limited to, their name, company name, title, phone number, e-mail address, site name, URL and address. Based on the visitor's request, Omniture may also ask for additional information, such as number of page views your site receives, how many orders your site receives and how you heard about us. This is information is on a voluntary basis and is not required to use our site.
 <br><br>
-Omniture uses the information that we collect on the Site to contact visitors to further discuss their interest in our company, the Services that we provide, and to send information regarding our company or partners, such as marketing promotions and events, and to improve the services we provide you. The information is collected and stored in a manner appropriate to the nature of the data and is used to fulfill your request and is never provided to any third party for their use. Omniture uses secured server areas and advanced firewall technology to minimize the risk of individually identifiable information being compromised. Omniture also takes every effort to ensure that the information users provide is correct and up to date.  Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
+Omniture uses the information that we collect on the Site to contact visitors to further discuss their interest in our company, the Services that we provide, and to send information regarding our company or partners, such as marketing promotions and events, and to improve the services we provide you. The information is collected and stored in a manner appropriate to the nature of the data and is used to fulfill your request and is never provided to any third party for their use. Omniture uses secured server areas and advanced firewall technology to minimize the risk of individually identifiable information being compromised. Omniture also takes every effort to ensure that the information users provide is correct and up to date. Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
 <br>
 <table cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="right"><a href="#top" class="linkgreen">Back to top</a> <a href="#top"><img src="images/arrow_backtotop11x11.gif" border="0" align="absmiddle"></a></td></tr></tbody></table>
 <br>
@@ -499,17 +599,17 @@ Omniture uses the information that we collect on the Site to contact visitors to
 <tbody><tr><td><img src="images/dot.gif" width="402" height="1" border="0"></td></tr>
 </tbody></table><br>
 <span class="bodybd">What Are Cookies</span><br>
-Cookies are files that web browsers place on a visitors computer hard drive and are used to allow a more enjoyable visit with easier use of site and to more accurately track visitor behaviors to our site. Cookies come in two flavors: session and persistent-based. Session cookies exist only during an online session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you've closed your browser or turned off your computer. Cookies do not identify you personally. They merely recognize your browser, unless you choose to identify yourself voluntarily.  You may choose to identify yourself for any one of the following reasons: asking the browser to remember your username and password, by responding to a promotional offer, when personalizing a web page or requesting more information on a product or service, otherwise you remain as an anonymous web site visitor.
+Cookies are files that web browsers place on a visitor’s computer hard drive and are used to allow a more enjoyable visit with easier use of site and to more accurately track visitor behavior to our site. Cookies come in two flavors: session and persistent-based. Session cookies exist only during an online session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you've closed your browser or turned off your computer. Cookies do not identify you personally. They merely recognize your browser, unless you choose to identify yourself voluntarily. You may choose to identify yourself for any one of the following reasons: asking the browser to remember your username and password, by responding to a promotional offer, when personalizing a web page or requesting more information on a product or service, otherwise you remain as an anonymous web site visitor.
 <br><br>
 <span class="bodybd">How We Use Cookies</span><br>
 When you interact with the Omniture web site, we strive to make that experience easy and meaningful. When you come to our Site, our web server uses cookies to improve our visitors' interaction with our site. All Omniture cookies are P3P compliant.
 <br><br>
-Omniture uses session cookies to track web visitor behavior and to allow our customers to immediately save the username and password as well as personal settings on specific pages. This allows Omniture to process your saved login information and quickly log you into the product. Session cookies also help us make sure you are who you say you are after you've logged in. 
+Omniture uses session cookies to track web visitor behavior and to allow our customers to immediately save the username and password as well as personal settings on specific pages. This allows Omniture to process your saved login information and quickly log you into the product. Session cookies also help us make sure you are who you say you are after you've logged in.
 <br><br>
-Omniture uses persistent cookies, that only Omniture can read and use, to identify the fact that you are an Omniture customer or a prior Omniture web site visitor (whatever the case may be). We are especially careful about the security and confidentiality of the information stored in persistent cookies. Users who disable their web browsers' ability to accept cookies will still be able to browse our web site, however they may loose some of the functionality provided by the use of persistent cookies.  When examining your cookies you may notice a cookie being set by the domain 2O7.net.  The 2O7.net domain is the primary domain Omniture uses to track visitor behavior to both our own web site and that of our customers.   
+Omniture uses persistent cookies, that only Omniture can read and use, to identify the fact that you are an Omniture customer or a prior Omniture web site visitor (whatever the case may be). We are especially careful about the security and confidentiality of the information stored in persistent cookies. Users who disable their web browsers' ability to accept cookies will still be able to browse our web site, however they may loose some of the functionality provided by the use of persistent cookies. When examining your cookies you may notice a cookie being set by the domain 2O7.net. The 2O7.net domain is the primary domain Omniture uses to track visitor behavior to both our own web site and that of our customers.
 <br><br>
 <span class="bodybd">What are Clear Gifs?</span><br>
-Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users.  The main difference between the two is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence.  Clear gifs are not tied to users' personally identifiable information.
+Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. The main difference between the two is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Clear gifs are not tied to users' personally identifiable information.
 <br><br>
 <span class="bodybd">How We Use Clear Gifs</span><br>
 To help us improve visitor experience and manage site content, we utilize clear gifs (a.k.a Web Beacons) to track visitor behavior.
@@ -527,7 +627,7 @@ Our Site has security measures in place to help protect against the loss, misuse
 <table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#868686">
 <tbody><tr><td><img src="images/dot.gif" width="402" height="1" border="0"></td></tr>
 </tbody></table><br>
-The Site contains links to other web sites. Omniture is not responsible for the privacy practices or the content of these other web sites. Customers and visitors will need to check the policy statement of these others web sites to understand their policies. Customers and visitors who access a linked site may be disclosing their private information. It is the responsibility of the user to keep such information private and confidential.
+The Site contains links to other web sites. Omniture is not responsible for the privacy practices or the content of these other web sites. Customers and visitors will need to check the policy statement of these other web sites to understand their policies. Customers and visitors who access a linked site may be disclosing their private information. It is the responsibility of the user to keep such information private and confidential.
 <br>
 <table cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="right"><a href="#top" class="linkgreen">Back to top</a> <a href="#top"><img src="images/arrow_backtotop11x11.gif" border="0" align="absmiddle"></a></td></tr></tbody></table>
 <br>
@@ -536,13 +636,13 @@ The Site contains links to other web sites. Omniture is not responsible for the 
 <tbody><tr><td><img src="images/dot.gif" width="402" height="1" border="0"></td></tr>
 </tbody></table><br>
 <span class="bodybd">Opt-Out Policy:</span><br>
-Omniture offers its visitors and customers a means to choose how we may use information provided. If, at any time after registering for information or ordering Services, you change your mind about receiving information from us or about sharing your information with third parties, send us a request specifying your new choice. Simply send your request to optout@omniture.com or <a href="http://www.omniture.com/privacy/optout.html" onclick="window.open('http://www.omniture.com/privacy/optout.html','optout','titlebar=no,menubar=no,toolbar=no,scrollbars=no,resizable=yes,location=no,width=412,height=331,top=50,left=50');return false;" class="linkgreen">Click Here To Opt-Out Now</a>.
+Omniture offers its visitors and customers a means to choose how we may use information provided. If, at any time after registering for information or ordering Services, you change your mind about receiving information from us or about sharing your information with third parties, send us a request specifying your new choice. Simply <a href="http://www.omniture.com/privacy/optout.html" onclick="window.open('http://www.omniture.com/privacy/optout.html','optout','titlebar=no,menubar=no,toolbar=no,scrollbars=no,resizable=yes,location=no,width=412,height=331,top=50,left=50');return false;" class="linkgreen">Click Here To Opt-Out Now</a>.
 <br><br>
 <span class="bodybd">Updating Your Information:</span><br>
 We provide all visitors to the Site options for reviewing, changing, and modifying personally identifiable information previously provided. To update your organization's profile, user profiles, billing information or to discontinue the Service, email update@omniture.com.
 <br><br>
 <span class="bodybd">Contact Us:</span><br>
-If users have questions, concerns or suggestions regarding our Privacy Policy, they should first contact our Privacy Department by e-mail at privacy@omniture.com.  If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (http://www.truste.org/watchdog.html). TRUSTe will serve as a liaison with the Web site to resolve users concerns.
+If users have questions, concerns or suggestions regarding our Privacy Policy, they should first contact our Privacy Department by e-mail at privacy@omniture.com. If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (http://www.truste.org/watchdog.html). TRUSTe will serve as a liaison with the Web site to resolve users concerns.
 <br><br>
 We may also be reached at the contact information on our Contact Us page.
 <br><br>
@@ -553,16 +653,12 @@ We may also be reached at the contact information on our Contact Us page.
 <tbody><tr><td><img src="images/dot.gif" width="402" height="1" border="0"></td></tr>
 </tbody></table><br>
 <span class="bodybd">Our Customers:</span><br>
-Omniture is an Application Service Provider (ASP) that provides a web site tracking and analysis service, called SiteCatalyst, to client web sites. Customers of the Service will be using Omniture to host web data and information ("Data"). Any Data obtained by Omniture from the Customer Site is and will be the propriety and confidential information of Customer, and Omniture will not disclose such information to any third party. Omniture will not review, share, distribute, print, or reference any such Data except as requested by the Customer or as may be required by law. Individual records may at times be viewed or accessed only for the purpose of resolving a problem, support issue, billing, or as may be required by law. Customers are responsible for maintaining the confidentiality and security of their usernames and passwords to log into their account.
+Omniture is an Application Service Provider (ASP) that provides a web site tracking and analysis service, called SiteCatalyst, to client web sites. Customers of the Service will be using Omniture to host web data and information ("Data"). Any Data obtained by Omniture from the Customer Site is and will be Customer property and will be treated by Omniture as proprietary and confidential information, and, as such, Omniture will not disclose such information to any third party. Omniture will not review, share, distribute, print, or reference any such Data except as requested by the Customer or as may be required by law. Individual records may at times be viewed or accessed only for the purpose of resolving a problem, support issue, billing, or as may be required by law. Customers are responsible for maintaining the confidentiality and security of their usernames and passwords to log into their account.
 <br><br>
 <span class="bodybd">Recommended Clause for Customer's Privacy Statements:</span><br>
-Omniture recommends that contracted customers using the Service add a statement or clause to their privacy policy identifying that they are using a third party to track visitor behavior to their site.  An example of a statement is found below.  
+Omniture recommends that contracted customers using the Service add a statement or clause to their privacy policy identifying that they are using a third party to track visitor behavior to their site. An example of a statement is found below.
 <br><br>
-(Please change "Company Name" to your correct company name in your privacy statement).
-<br><br>
-"&lt;Company Name&gt; is currently using and has contracted with a Omniture, a third party, to track and analyze non-personally identifiable usage and volume statistical information from our visitors and customers to administer our web site in order to constantly improve the web site quality. All data collected by Omniture on behalf of &lt;Company Name&gt; is owned and used by &lt;Company Name&gt;. &lt;Company Name&gt; reserves the right to publish non-personally identifiable, summary information regarding its web site visitors for promotional purposes and as a representative audience for advertisers. Please note that this is not personal information, only general summaries of the activities of our visitors and customers."
-<br><br>
-Omniture uses cookies to help track visitor behavior and sets cookies in behalf of &lt;Company Name&gt; which will be listed under the domain 2O7.net.  For more information about Omniture's privacy policy go to www.omniture.com.
+We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Web beacons and cookies provided by our marketing company on this site. The type of information we collect includes _______[TO BE FILLED IN BY CUSTOMER, e.g., the product codes and prices for merchandise that visitors purchase, the pages visited, etc.]. By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can "opt-out" of this website analysis tool by clicking here [LINK to opt out page referenced earlier in document above].
 <br><br>
 <table cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="right"><a href="#top" class="linkgreen">Back to top</a> <a href="#top"><img src="images/arrow_backtotop11x11.gif" border="0" align="absmiddle"></a></td></tr></tbody></table>
 <br>
@@ -570,11 +666,11 @@ Omniture uses cookies to help track visitor behavior and sets cookies in behalf 
 <table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#868686">
 <tbody><tr><td><img src="images/dot.gif" width="402" height="1" border="0"></td></tr>
 </tbody></table><br>
- Omniture is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices.  This privacy statement covers the site [www.Omniture.com].  Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.  
+ Omniture is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site [www.Omniture.com]. Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 <br><br>
 <a href="https://www.truste.org/ivalidate.php?url=www.omniture.com" target="_new"><img src="images/clickseal1.gif" border="0"></a>
 <br><br>
-Omniture is compliant with the BBB<i>OnLine</i>(R) Privacy standards and is fully authorized to display the BBB<i>OnLine</i> Privacy Seal. By participating in the Council of Better Business Bureau's BBB<i>OnLine</i> Privacy Program we have made a commitment to meet the programs' strict requirements regarding how we treat your information and have it verified by BBB<i>OnLine</i>. Businesses that qualify for the BBB<i>OnLine</i> Privacy Seal are demonstrate the care and respect they have for the treatment of personal data. Further information about this program is available at <a href="http://www.bbbonline.com/" class="linkgreen">http://www.bbbonline.org</a>.
+Omniture is compliant with the BBB<i>OnLine</i>(R) Privacy standards and is fully authorized to display the BBB<i>OnLine</i> Privacy Seal. By participating in the Council of Better Business Bureau's BBB<i>OnLine</i> Privacy Program we have made a commitment to meet the programs' strict requirements regarding how we treat your information and have it verified by BBB<i>OnLine</i>. Businesses that qualify for the BBB<i>OnLine</i> Privacy Seal are demonstrating the care and respect they have for the treatment of personal data. Further information about this program is available at <a href="http://www.bbbonline.com/" class="linkgreen">http://www.bbbonline.org</a>.
 <br><br>
 <a href="" onclick="Pcertify();return false;"><img src="images/privacyseal.gif" alt="BBBOnLine Privacy Seal" width="90" height="31" border="0"></a><br><br>
 <a href="" onclick="Rcertify();return false;"><img src="images/reliabilityseal.gif" alt="BBBOnLine Reliability Seal" width="90" height="32" border="0"></a>
@@ -692,8 +788,8 @@ function privacy_popup(){
             <table cellpadding="10" cellspacing="0" border="0" width="775">
                 <tbody><tr>
 			<td align="center"><a href="http://www.omniture.com/privacy.html"><img src="http://www.omniture.com/images/finalmark2.gif" border="0"></a></td>
-                    <td class="body" height="20">Copyright 1996-2004, Omniture Inc. All rights reserved.<br>
-<span class="bodyblack">Corporate: 801.722.7000&nbsp;&nbsp;|&nbsp;&nbsp;Sales: 877.722.7088&nbsp;&nbsp;|&nbsp;&nbsp;EMEA Sales: +44.845.226.1125</span>
+                    <td class="body" height="20">Copyright 1996-2005, Omniture Inc. All rights reserved.<br>
+<span class="bodyblack">Corporate: 801.722.7000&nbsp;&nbsp;|&nbsp;&nbsp;Sales: 877.722.7088&nbsp;&nbsp;|&nbsp;&nbsp;EMEA Sales: +44.845.226.1205</span>
 <br>
 Omniture and SiteCatalyst are trademarks of Omniture, Inc
 <br>
