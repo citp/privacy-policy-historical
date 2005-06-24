@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hktdc.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204170626id_/http%3A//www.tdctrade.com/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hktdc.com privacy policy that was archived on 2005-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050624102046id_/http%3A//www.tdctrade.com/privacy/index.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement TDC (tdctrade.com)
 
@@ -65,8 +65,15 @@ Cookies are commonly used to facilitate transmission and to provide more useful 
 
 You may set your browser to reject cookies, or tell you when a cookie is being sent.
 
-Cookies are necessary for some features of the website to work, e.g., to maintain continuity during a session. If they are not accepted, those features may not work properly.  
+Cookies are necessary for some features of the website to work, e.g., to maintain continuity during a session. If they are not accepted, those features may not work properly.
+
+| 4.1 | 
+
+We use an email delivery and marketing company to send emails that you have agreed to receive. Pixels tags and cookies are used in those emails and at our website to help us measure the effectiveness of our advertising and how visitors use our web site. For more information about the technology used to deliver our emails, or how to set your browser to reject cookies, please click here:   
+<[http://www.doubleclick.net/us/corporate/privacy/privacy/email/default.asp?asp_object_1=&](http://www.doubleclick.net/us/corporate/privacy/privacy/email/default.asp?asp_object_1=&%5D)>  
   
+---|---  
+4.2  | We use a third-party advertising company to serve ads when you visit our Web site. This company may use information (not including your name, address, email address or telephone number) about your visit to this Web site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. If you would like more information about this practice and to know your choices about not having this information used by this company, please click here: <<http://www.doubleclick.net/us/corporate/privacy>>  
 **5.** | **Security**
 
 Personal data stored electronically are password-protected. Encryption technology is used on our secured web areas. Our computer systems are placed in restricted areas. We only permit authorized employees to access personal data. These employees are trained on our privacy policies.  
