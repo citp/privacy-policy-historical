@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hsn.com privacy policy that was archived on 2004-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040707080626id_/http%3A//www.hsn.com/cs/privacy_policy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsn.com privacy policy that was archived on 2005-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050624061727id_/http%3A//www.hsn.com/cs/privacy_policy/default.aspx) for the most accurate reproduction.*
 
-# HSN.com - Customer Service
+# Privacy Policy - HSN
 
 |  | 
 
@@ -134,7 +134,7 @@ Return to Top
   
 How do we protect our customers' information?
 
-[hsn.com](https://web.archive.org/default.aspx) is committed to online data security. Although total security does not exist on the Internet, we take reasonable steps to work towards assuring the secure transmission and storage of your information. We utilize industry standard efforts, such as firewalls, Secure Socket Layers and encryption software, to protect the transmission of information between your PC and our servers. We store information relating to our customers on servers that are kept in a highly secure environment. While we use Secure Socket Layer encryption to protect sensitive information online, we also seek to protect your information offline by only allowing certain authorized employees to access your information. 
+[hsn.com](https://web.archive.org/default.aspx) is committed to online data security. Although total security does not exist on the Internet, we take reasonable steps to work towards assuring the secure storage of your information. We utilize industry standard efforts, such as firewalls, Secure Socket Layers and encryption software, to protect the transmission of information between your PC and our servers. We store information relating to our customers on servers that are kept in a secure environment. While we use Secure Socket Layer encryption to protect sensitive information online, we also seek to protect your information offline by only allowing certain authorized employees to access your information. 
 
 Our site contains links to other sites. HSNi and hsn.com are not responsible for the privacy practices of these other sites. We encourage you to be aware when you leave our site, and to read the privacy statements of each web site that collects personally identifiable information. Some linked sites are co-branded with our trademarks and those of our business partners. They may have the look and feel of hsn.com, but the URL in your browser window will indicate that you are visiting a different site. This statement of HSNi and hsn.com’s privacy practices applies only to information collected by hsn.com. 
 
