@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholesalepages.co.uk privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208204512id_/http%3A//www.wholesalepages.co.uk/privacy/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesalepages.co.uk privacy policy that was archived on 2005-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050624074303id_/http%3A//www.wholesalepages.co.uk/privacy/privacy.php) for the most accurate reproduction.*
 
 # UK Wholesale - UK Wholesalers Directory: Privacy Policy
 
@@ -40,6 +40,6 @@ The Company may hold personal data relating to the transactions you enter with u
 
 [Top]
 
-In this electronic era, when personal information can easily be obtained through various sources, Whoelsale Pages appreciates the sensitivity of any private information that you disclose to us. It is our intention to treat your account information with the highest level of care. 
+In this electronic era, when personal information can easily be obtained through various sources, Wholesale Pages appreciates the sensitivity of any private information that you disclose to us. It is our intention to treat your account information with the highest level of care. 
 
 [Top]
