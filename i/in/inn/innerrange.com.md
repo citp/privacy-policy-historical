@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innerrange.com privacy policy that was archived on 2004-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040403235552id_/http%3A//www.innerrange.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innerrange.com privacy policy that was archived on 2005-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050625183845id_/http%3A//www.innerrange.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,23 +11,23 @@ Inner Range
 
 [**
   * Types of information we collect
-**](https://web.archive.org/web/20040403235552id_/http%3A//www.innerrange.com/privacy.cfm#types) [**
+**](https://web.archive.org/web/20050625183845id_/http%3A//www.innerrange.com/privacy.cfm#types) [**
   * How we collect information
-**](https://web.archive.org/web/20040403235552id_/http%3A//www.innerrange.com/privacy.cfm#howcollect) [**
+**](https://web.archive.org/web/20050625183845id_/http%3A//www.innerrange.com/privacy.cfm#howcollect) [**
   * How we use your personal information
-**](https://web.archive.org/web/20040403235552id_/http%3A//www.innerrange.com/privacy.cfm#howused) [**
+**](https://web.archive.org/web/20050625183845id_/http%3A//www.innerrange.com/privacy.cfm#howused) [**
   * Disclosure of personal information to third parties
-**](https://web.archive.org/web/20040403235552id_/http%3A//www.innerrange.com/privacy.cfm#disclosed) [**
+**](https://web.archive.org/web/20050625183845id_/http%3A//www.innerrange.com/privacy.cfm#disclosed) [**
   * Access to and correction of information we hold about you
-**](https://web.archive.org/web/20040403235552id_/http%3A//www.innerrange.com/privacy.cfm#access) [**
+**](https://web.archive.org/web/20050625183845id_/http%3A//www.innerrange.com/privacy.cfm#access) [**
   * Keeping your personal information up-to-date
-**](https://web.archive.org/web/20040403235552id_/http%3A//www.innerrange.com/privacy.cfm#uptodate) [**
+**](https://web.archive.org/web/20050625183845id_/http%3A//www.innerrange.com/privacy.cfm#uptodate) [**
   * Resolving your concerns
-**](https://web.archive.org/web/20040403235552id_/http%3A//www.innerrange.com/privacy.cfm#concerns) [**
+**](https://web.archive.org/web/20050625183845id_/http%3A//www.innerrange.com/privacy.cfm#concerns) [**
   * Changes to this Privacy Policy
-**](https://web.archive.org/web/20040403235552id_/http%3A//www.innerrange.com/privacy.cfm#changes) [**
+**](https://web.archive.org/web/20050625183845id_/http%3A//www.innerrange.com/privacy.cfm#changes) [**
   * Our contact details
-**](https://web.archive.org/web/20040403235552id_/http%3A//www.innerrange.com/privacy.cfm#contact) 
+**](https://web.archive.org/web/20050625183845id_/http%3A//www.innerrange.com/privacy.cfm#contact) 
 
 
 This Privacy Statement explains in general terms how Inner Range Pty Ltd and its related companies (collectively referred to as "we", "us" and "Inner Range" protect the privacy of your personal information under the National Privacy Principles. It will apply to any personal information you provide to us: 
@@ -122,9 +122,9 @@ We may amend this Privacy Statement as our business requirements or the law chan
 ### Our contact details - all enquiries.
 
   * Inner Range Pty Ltd
-  * 24 Laser Drive
-  * Rowville
-  * Victoria 3178
+  * 1 Millennium Court
+  * Knoxfield
+  * Victoria 3180
   * Australia
   * Tel: +61 3 9753 3488
   * Fax: +61 3 9753 3499
@@ -132,9 +132,9 @@ We may amend this Privacy Statement as our business requirements or the law chan
 
 
 
-[**Return to top of page**](https://web.archive.org/web/20040403235552id_/http%3A//www.innerrange.com/privacy.cfm#top)
+[**Return to top of page**](https://web.archive.org/web/20050625183845id_/http%3A//www.innerrange.com/privacy.cfm#top)
 
-[Privacy Policy](https://web.archive.org/web/20040403235552id_/http%3A//www.innerrange.com/privacy.cfm)        [Webmaster](mailto:webmaster@innerrange.com)
+[Privacy Policy](http://www.innerrange.com/privacy.cfm)        [Webmaster](mailto:webmaster@innerrange.com)
 
   
 
