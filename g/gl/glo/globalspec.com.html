@@ -1,10 +1,9 @@
-<!--The following is the downloaded HTML source of the globalspec.com privacy policy that was archived on 2004-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041210203234id_/http%3A//www.globalspec.com/Help/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the globalspec.com privacy policy that was archived on 2005-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050625083742id_/http%3A//www.globalspec.com/Help/Privacy) for the most accurate reproduction.-->
 
 <html><head><title>GlobalSpec - Privacy Policy</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<link rel="stylesheet" type="text/css" href="http://www.globalspec.com/css/stylesheet.css">
-			
+	<link rel="stylesheet" type="text/css" href="http://www.globalspec.com/css/stylesheet.css">
+		
 		<script language="javascript">
 		
 		<!-- // remove frames (ie6 cookie issue)
@@ -41,7 +40,7 @@
 	<script language="JavaScript" src="/js/WrapperFunctions_Normal.js"></script>
 <script language="JavaScript" src="/js/WrapperFunctions_Common.js"></script>
 <script language="JavaScript" src="/js/GS_strings.js"></script>
-</head>
+ </head>
 
 <body bgcolor="#ffffff">
 
@@ -54,8 +53,6 @@
 
 
 	
-
-	
 	<td colspan="3" align="center" valign="top" width="100%">
 		<br>&nbsp;
 		
@@ -66,7 +63,6 @@
 	
 	
 	
-
 </tr>
 
 
@@ -121,7 +117,7 @@ function DoSearchBoxSubmit() {
 			case "SearchEnginePartNumbers": gotoURL = "http://search.globalspec.com/Search?query=" + escape(searchterm) + "&show=partnumbers"; break;
 			case "SearchEngineCompanySites":	gotoURL = "http://search.globalspec.com/Search?query=" + escape(searchterm) + "&show=companysites"; break;
 			case "SearchEngineAppNotes":	gotoURL = "http://search.globalspec.com/Search?query=" + escape(searchterm) + "&show=appnotes"; break;
-			case "SearchEnginePatents":		gotoURL = "http://search.globalspec.com/Search?query=" + escape(searchterm) + "&show=patents"; break;
+			case "SearchEnginePatents":		searchterm = searchterm + buildExtraPatentSearchTerms(); gotoURL = "http://search.globalspec.com/Search?query=" + escape(searchterm) + "&show=patents"; break;
 			case "SearchEngineStandards":	gotoURL = "http://search.globalspec.com/Search?query=" + escape(searchterm) + "&show=standards"; break;
 			case "SearchEngineMaterials":	gotoURL = "http://search.globalspec.com/Search?query=" + escape(searchterm) + "&show=materials"; break;
 			default: gotoURL = "http://www.globalspec.com/ProductFinder/FindProducts?query=" + escape(searchterm);
@@ -139,6 +135,18 @@ function DoSearchBoxSubmit() {
 	}
 }
 
+function buildExtraPatentSearchTerms() {
+	var extraStuff = "";
+	if (document.FindIn.patentauthor && (document.FindIn.patentauthor.value != "-")) {
+		extraStuff = extraStuff + " patentauthor:" + document.FindIn.patentauthor.value;
+	}
+	return extraStuff;
+}
+
+function searchDropDownChange() {
+
+}
+
 
 function searchModeKeyDown(evt) {
 	evt = (evt) ? evt : event;
@@ -153,14 +161,9 @@ function searchModeKeyDown(evt) {
 </script>
 
 
-
-
-
-
-
-
 <table cellpadding="0" cellspacing="0" border="0" align="center">
-	<tbody><tr><form name="FindIn" method="get" onsubmit="DoSearchBoxSubmit(); return false;"></form>
+	<form name="FindIn" method="get" onsubmit="DoSearchBoxSubmit(); return false;"></form>
+	<tbody><tr>
 		<td align="center">
 			<table cellpadding="0" cellspacing="0" border="0" align="center">
 				<tbody><tr>
@@ -179,24 +182,42 @@ function searchModeKeyDown(evt) {
 					</td>
 					<td align="left" valign="center" nowrap="">
 						
-						<select name="SearchMode" onkeydown="return searchModeKeyDown(event)"><option value="Products" selected="">Products &amp; Manufacturers</option><option value="Services">Service Providers</option><option value="Suppliers">A Company by Name</option><option value="SearchEngineTotal">== THE ENGINEERING WEB ==</option><option value="SearchEngineTotal">All Sites</option><option value="SearchEngineAppNotes">Application Notes</option><option value="SearchEngineMaterials">Material Properties</option><option value="SearchEnginePartNumbers">Search By Part Number (Beta)</option><option value="SearchEnginePatents">Patents</option><option value="SearchEngineStandards">Standards</option><option value="SearchEngineCompanySites">Supplier Web Sites</option></select><img src="/pix/dot.gif" width="1" height="1" hspace="1">						
+						<select name="SearchMode" onchange="searchDropDownChange()" onkeydown="return searchModeKeyDown(event)" onkeyup="return searchDropDownChange(event)">
+<option value="Products" selected="">Products &amp; Suppliers</option>
+<option value="Services">Service Providers</option>
+<option value="Suppliers">A Company by Name</option>
+<option value="SearchEngineTotal">== THE ENGINEERING WEB ==</option>
+<option value="SearchEngineTotal">All Sites</option>
+<option value="SearchEngineAppNotes">Application Notes</option>
+<option value="SearchEngineMaterials">Material Properties</option>
+<option value="SearchEnginePartNumbers">Search By Part Number (Beta)</option>
+<option value="SearchEnginePatents">Patents</option>
+<option value="SearchEngineStandards">Standards</option>
+<option value="SearchEngineCompanySites">Supplier Web Sites</option>
+</select>
 						
+						<img src="/pix/dot.gif" width="1" height="1" hspace="1">
 					</td>												
 					
 				</tr>
+
+				
+				
+				
 			</tbody></table>
 		</td>
+		
+		
 		<td>
 			<img src="/pix/dot.gif" width="1" height="1" vspace="8"><br>
 			<img src="/pix/dot.gif" width="1" height="1" hspace="2">
 		
 			<input type="image" src="/pix/buttons/HeaderGo_Out.gif" alt="Search now!" border="0" onclick="DoSearchBoxSubmit(); return false;" onmouseover="this.src='/pix/buttons/HeaderGo_Over.gif'" onmouseout="this.src='/pix/buttons/HeaderGo_Out.gif'" onmousedown="this.src='/pix/buttons/HeaderGo_Down.gif'">
+		
 		</td>
-		
-		
-		
 	</tr>
-</tbody></table>	
+	
+</tbody></table>
 		
 		</td>
 	</tr>
@@ -207,22 +228,23 @@ function searchModeKeyDown(evt) {
 	</tbody></table>
 	</td></tr>
 
-</tbody></table>
+</tbody></table> 
+	<p class="headerGold">GlobalSpec Privacy Policy</p>
 
-<p class="headerGold">GlobalSpec Privacy Policy</p>
 <div class="content">
-We at GlobalSpec have one primary goal: to help the engineering community quickly find products and components that meet their specifications. This is a free service that we are proud to be able to offer and which is the largest of its kind. The suppliers on this site contract with GlobalSpec to be here and need to be able to correlate the correspondence they receive from you with your visit to the site in order to measure site effectiveness. For this reason we ask you for user information. We understand the reluctance users on the Web have about providing user information (we share the concern) so we have instituted the following PRIVACY POLICY to address the issue: 
+GlobalSpec has one primary goal: to help the engineering and technical community quickly find products and services meeting their specifications. We're proud to offer this free service which is the largest of its kind.  We understand the reluctance Web users have about providing user information, so we have instituted the following PRIVACY POLICY to address this issue: 
 </div>
 <blockquote>
 <span class="boldcontent">GLOBALSPEC PRIVACY POLICY</span>
 <ol>
-<li><span class="content">Except as set forth herein, your contact information (name, phone number, and e-mail address) will not be shared with anyone other than the suppliers from whom you have asked for contact information (including, but not limited to, phone/fax, Web site, or email), or product information (including, but not limited to, specifications or RFQs).  Strategic partners provide some of the services offered on GlobalSpec.  Some of these services require additional registration.  When this occurs, GlobalSpec will transfer your registration information to the relevant service provider.  You will always have the ability to accept or decline the transfer of that information.</span>
-</li><li><span class="content">Profile information (search activity, end-user company information, etc.) may be used to generate aggregate reports and market research. </span>
-</li><li><span class="content">All personal data has been entered solely by respective end-users. </span>
-</li><li><span class="content">GlobalSpec mail communications are only accessible by designated recipients, except that GlobalSpec, Inc personnel involved in maintenance of the web site may have access to email communications.</span>
-</li><li><span class="content">You can modify your user information by visiting www.globalspec.com/myglobalspec and clicking on Edit My Profile. </span>
-</li><li><span class="content">You may have your personal information removed from the system by contacting webmaster@globalspec.com. </span>
-</li><li><span class="content">GlobalSpec, Inc will not sell lists of its users and/or contact information to any third party without having first elicited individual permission from included end-users to do so. </span>
+<li><span class="content">Except as set forth herein, your contact information (name, phone number, mail and e-mail address) will not be used by anyone other than GlobalSpec and the suppliers you have viewed (including, but not limited to, phone/fax, Web site, supplier profile or e-mail) or product information (including, but not limited to, specifications, product announcements or RFQs).</span>
+</li><li><span class="content">Strategic partners provide some of the services offered on GlobalSpec. Some of these services require additional registration. When this occurs, GlobalSpec will transfer your registration information to the relevant service provider. You will have the ability to accept or decline the transfer of that information.</span>
+</li><li><span class="content">Profile information (search activity, end-user company information, etc.) may be used to generate aggregate reports and market research.</span>
+</li><li><span class="content">All personal data has been entered solely by respective end-users.</span>
+</li><li><span class="content">GlobalSpec mail communications are only accessible by designated recipients, except that GlobalSpec, Inc. personnel involved in management and maintenance may have access to e-mail communications.</span>
+</li><li><span class="content">You can modify your user information by visiting <a href="http://www.globalspec.com/myglobalspec">http://www.globalspec.com/myglobalspec</a>.</span>
+</li><li><span class="content">You may have your personal information removed from the system by contacting <a href="mailto:webmaster@globalspec.com?subject=Remove personal information">webmaster@globalspec.com</a>.</span>
+</li><li><span class="content">GlobalSpec, Inc. will not sell lists of its users and/or contact information to any third party without having first elicited individual permission from included end-users to do so.</span>
 </li><li><span class="content">GlobalSpec may transfer your contact information to a purchaser of the entire business, and/or it may be shared with any companies that merge with GlobalSpec or that GlobalSpec purchases.</span>
 
 
@@ -234,20 +256,16 @@ We at GlobalSpec have one primary goal: to help the engineering community quickl
 <p>
 
 
-	
-	
-		
 </p><p>
 </p><div align="center" class="footerText"> 
 
 	
 	<br>
 	<hr width="90%">
-	<hr width="90%">
 	
-		
-
-		 
+	
+		<hr width="90%">
+	 
 			<table>
 				<tbody><tr>
 					<td align="left" colspan="2">
@@ -274,9 +292,8 @@ We at GlobalSpec have one primary goal: to help the engineering community quickl
 		  	 	</tr>
 			</tbody></table>
 		
-	
 
-	©1999-2004 GlobalSpec.&nbsp; All rights reserved.&nbsp; GlobalSpec, the GlobalSpec logo and SpecSearch are registered trademarks of GlobalSpec, Inc.&nbsp; 
+	©1999-2005 GlobalSpec.&nbsp; All rights reserved.&nbsp; GlobalSpec, the GlobalSpec logo and SpecSearch are registered trademarks of GlobalSpec, Inc.&nbsp; 
 	<br>
 	The Engineering Search Engine, The Engineering Web, The Engineering Toolbar and DesignInfo are service marks of GlobalSpec, Inc.
 	<br>
@@ -290,20 +307,12 @@ We at GlobalSpec have one primary goal: to help the engineering community quickl
     <a href="http://www.globalspec.com/SiteMap/Directory/"><img border="0" src="/pix/dot.gif"></a> 
 	<a href="http://search.globalspec.com/Search/WebSearch"><img border="0" src="/pix/dot.gif"></a> 
 	
- 
+	
+	 
 
 </div>
 
 	
 	
-	
-	
-	
-	
-	
-	
-	
-	
-
 
 </body></html>
