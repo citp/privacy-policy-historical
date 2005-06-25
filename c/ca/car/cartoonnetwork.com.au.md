@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartoonnetwork.com.au privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204110440id_/http%3A//www.cartoonnetwork.com.au/asp/parents/parent.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoonnetwork.com.au privacy policy that was archived on 2005-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050626014231id_/http%3A//www.cartoonnetwork.com.au/asp/parents/parent.asp) for the most accurate reproduction.*
 
 # Cartoon Network - Parents Pages
 
@@ -6,7 +6,7 @@ PRIVACY POLICY
 
 Cartoon Network is fully committed to providing a fun, entertaining and safe web site for people of all ages. Because we want our audience to feel comfortable exploring the content offered on _CartoonNetwork.com.au_ , this Online Privacy Policy outlines and clarifies how we collect and use information online, our advertising policies and the safeguards we recommend to ensure a fun and safe web experience. As new technology and online standards evolve, we may modify these policies to better address your concerns. 
 
-_CartoonNetwork.com.au_ considers that it currently complies with the Australian Privacy Act 1988 (as amended by the Privacy Amendment (Private Sector) Act 2000). More information on privacy can be found at [www.privacy.gov.au](http://www.privacy.gov.au/). If you have any concerns or questions about this Online Privacy Policy, please email us at [parent.info@turner.com](mailto:parent.info@turner.com) or write to us at Level 37, 100 Miller Street, North Sydney, NSW 2060, Australia. 
+_CartoonNetwork.com.au_ considers that it currently complies with the Australian Privacy Act 1988 (as amended by the Privacy Amendment (Private Sector) Act 2000). More information on privacy can be found at [www.privacy.gov.au](http://www.privacy.gov.au/). If you have any concerns or questions about this Online Privacy Policy, please email us at [parent.info@turner.com](mailto:parent.info@turner.com) or write to us at Level 6, 107 Pitt St, Sydney 2000. 
 
 **Data Collection**
 
@@ -35,3 +35,5 @@ At _CartoonNetwork.com.au_ , we use cookies to help make your experience better 
 **Safeguards - Monitor Your Child's Internet Usage**
 
 As we have taken special precautions to aid in the safety of your child's World Wide Web experience, we ask parents to monitor closely the Internet activities of their children and become educated on the various Internet and software tools available so as to ensure that their child has a fun and satisfying on-line experience. 
+
+© 2002 Turner Entertainment Networks Asia, Inc. 
