@@ -1,59 +1,60 @@
-> *The following text is extracted and transformed from the wkbw.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208085322id_/http%3A//www.wkbw.com/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wkbw.com privacy policy that was archived on 2005-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050625084021id_/http%3A//www.granitetv.com/web_privacy/privacy.pdf) for the most accurate reproduction.*
 
-# WKBW.com: Privacy
+# This web site is operated by Granite Broadcasting Corporation (GBC). The following outlines the privacy policy for all GBC web sites. IP Addresses Our sites log IP addresses for systems administration purposes. IP addresses are logged to track a user's session, providing GBC with an idea of which parts of our site users are visiting. We do not link IP addresses to anything personally identifiable. This means that a user's session will be tracked, but the user will be anonymous. Cookies GBC uses a feature of your browser to set a "cookie" on your computer. This allows us to measure and report aggregate information to advertisers such as the number of people who see their ad (reach) and the number of times people see their ad (frequency). Cookies may also be used to customize or simplify your use of certain features of our site. Cookies by themselves, cannot be used to find out the identity of any user. GBC will only store information provided voluntarily, but this information is not personally identifiable. If for some reason you would rather not take advantage of the benefits made possible with cookies, most browsers allow you to reject cookies or to choose which cookies to accept. However some features of our site may not work as intended if the cookie is blocked. Email Address Some portions of our web site, such as contests or newsletters, will require that your enter an email address. GBC may occasionally send a promotional email to you to promote a new service or contest on our site. You will always be given the option to be removed from future mailings. Some features and contests on our web sites may be managed by third party vendors. GBC makes every effort to ensure that those vendors adhere to our privacy policy. GBC and its vendors will not share or sell email lists to any third parties, unless specifically stated otherwise on the sign-up form or contest rules.
 
-WKBW.com Privacy Policy  
-WKBW has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this web site: www.WKBW.com.
+This web site is operated by Granite Broadcasting Corporation (GBC). The following
+outlines the privacy policy for all GBC web sites.
+IP Addresses
+Our sites log IP addresses for systems administration purposes. IP addresses are logged
+to track a user's session, providing GBC with an idea of which parts of our site users are
+visiting. We do not link IP addresses to anything personally identifiable. This means
+that a user's session will be tracked, but the user will be anonymous.
+Cookies
+GBC uses a feature of your browser to set a "cookie" on your computer. This allows us
+to measure and report aggregate information to advertisers such as the number of people
+who see their ad (reach) and the number of times people see their ad (frequency). Cookies
+may also be used to customize or simplify your use of certain features of our site.
+Cookies by themselves, cannot be used to find out the identity of any user. GBC will
+only store information provided voluntarily, but this information is not personally
+identifiable. If for some reason you would rather not take advantage of the benefits made
+possible with cookies, most browsers allow you to reject cookies or to choose which
+cookies to accept. However some features of our site may not work as intended if the
+cookie is blocked.
+Email Address
+Some portions of our web site, such as contests or newsletters, will require that your enter
+an email address. GBC may occasionally send a promotional email to you to promote a
+new service or contest on our site. You will always be given the option to be removed
+from future mailings. Some features and contests on our web sites may be managed by
+third party vendors. GBC makes every effort to ensure that those vendors adhere to our
+privacy policy. GBC and its vendors will not share or sell email lists to any third parties,
+unless specifically stated otherwise on the sign-up form or contest rules.
+To be removed from future mailings visit the web page
+http://www.granitetv.com/web_privacy/remove.asp
+Other Information
+Some portions of our web site may ask for other personal information such as address or
+phone number. This information is only used to contact you if necessary, for example if
+you have won a prize, or for aggregate demographics such as zip codes. GBC and its
+vendors will not share or sell this information to any third parties, unless specifically
+stated otherwise on the sign-up form or contest rules.
+Links
+This site contains links to other web sites. GBC is not responsible for the privacy
+practices or the content of such web sites.
+Public Forums
+This site may make chat rooms and message boards available to its users. Please
+remember that any information that is disclosed in these areas becomes public
 
-**Use of IP Addresses**  
-WKBW's web site logs IP addresses for systems administration purposes. IP addresses are logged to track a user's session, providing WKBW with an idea of which parts of our site users are visiting. We do not link IP addresses to anything personally identifiable. This means that a user's session will be tracked, but the user will be anonymous.
 
-**Use of "cookies"**  
-WKBW uses a feature of your browser to set a "cookie" on your computer. This allows us to measure and report aggregate information to advertisers such as the number of people who see their ad (reach) and the number of times people see their ad (frequency).
-
-Cookies by themselves, cannot be used to find out the identity of any user. WKBW will only store information provided voluntarily, but this information is not personally identifiable. If for some reason you would rather not take advantage of the benefits made possible with cookies, most browsers allow you to reject cookies or to choose which cookies to accept.
-
-**Use of User Information**  
-It is WKBW's policy to allow our users to provide as much or as little personal information to us as they feel comfortable doing. As a customer of WKBW you:
-
-  1. Control what personally identifiable information is collected  
-
-  2. Control what WKBW can do with the information  
-
-  3. Have a guarantee of privacy  
-
-
-We hope that, like many of our users, you will want to provide information about yourself to WKBW because it will make our web site more valuable to you. If you are comfortable providing us with information about yourself, enhanced services are available to you that are impossible for us to offer to anonymous users. An example of such enhanced services would be our newsletter and news bulletin service.
-
-WKBW gathers information about our users that allow us to offer compelling and easily accessible online content in a manner that provides personal privacy protection as well. The type of information we collect is solely informational (like name, address) and demographic (like age, gender). 
-
-  * Occasionally we ask you to provide us information such as your name, email address or what your interests and hobbies are. You never have to answer these questions, although this may limit what services we can offer you. For instance, we will not be able to contact you if you win one of our contests if we do not have an email or home address.
-  * Demographic information (like zip code, age) and profile data collected is only shared with advertisers on an aggregate basis. Personally identifiable information is not shared with third parties.
-  * We use contact data from our contests to send users promotional material only if they have agreed to be contacted at a future date.
-
-This site contains links to other sites. WKBW is not responsible for the privacy practices or the content of such Web sites.
-
-**Public Forums**  
-This site makes chat rooms and message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
-
-**Security**  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
-
-**Third Party Relationships**  
-WKBW has third party content relationships with the following companies: Popmail.com provides our E News Notifier service. They are collecting data on our behalf and adhere to our privacy policy.
-
-**Modify Information/Opt-Out**  
-At any time, users may modify information provided or remove themselves from the database or e-mail distribution list. 
-
-  * Users of our Email News Notification service can modify information provided at any time by going to the E-News [sign-up page](http://www.enewsnotifier.com/wwwroot/wkbw/) and entering the "Modify Sign-Up" area. Users may remove themselves by going to "Modify Sign-Up" and clicking on "Discontinue Service."
-
-Our site also provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
-
-The following options are available for removing contact information provided for an online contest.
-
-Send deactivation request via the [Contact WKBW Page](https://web.archive.org/contact/contact.asp?dept=web)  
-or mail to  
-WKBW.com Webmaster  
-Granite Broadcasting  
-7 Broadcast Plaza  
-Buffalo, NY 14202
+information and you should exercise caution when deciding to disclose your personal
+information. GBC reserves the right to remove any postings for any reason and to block
+any user from posting for any reason.
+Children’s Privacy
+Areas of our site that collect personal information require that a person be at least 13
+years of age to sign up. Some areas specifically intended for children may require that a
+parent/guardian sign a release form. GBC strongly urges adults to closely monitor
+children’s use of this site and the internet in general. If you believe your child has given
+us personal information they should not have, contact us to have them removed from our
+list. To remove an address from future mailings visit the web page
+http://www.granitetv.com/web_privacy/remove.asp
+--Granite Broadcasting Internet Department
+  internet@granitetv.com
+  rev. 3/1/05
