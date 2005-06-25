@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drjays.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207002948id_/http%3A//drjays.com/display/cs_privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drjays.com privacy policy that was archived on 2005-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050625145219id_/http%3A//www.drjays.com/display/cs_privacypolicy.html) for the most accurate reproduction.*
 
 # DrJays.com Urban Clothing: Akademiks, Ecko, Enyce, Sean John, Baby Phat, J.Lo, Southpole
 
