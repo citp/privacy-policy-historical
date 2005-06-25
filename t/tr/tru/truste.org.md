@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truste.org privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223132720id_/http%3A//www.truste.org/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truste.org privacy policy that was archived on 2005-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050625020041id_/http%3A//www.truste.org/privacy_statement.php) for the most accurate reproduction.*
 
 # TRUSTe - Make Privacy Your Choice
 
