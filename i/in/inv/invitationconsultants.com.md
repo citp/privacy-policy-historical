@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the invitationconsultants.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204194946id_/http%3A//www.invitationconsultants.com/dprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invitationconsultants.com privacy policy that was archived on 2005-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050625084535id_/http%3A//www.invitationconsultants.com/dprivacy.asp) for the most accurate reproduction.*
 
 # Invitation Consultants - Special Occasion Collection
 
-[Back to Main Customer Service Page](https://web.archive.org/web/20041204194946id_/http%3A//www.invitationconsultants.com/oinfo.asp)
+[Back to Main Customer Service Page](https://web.archive.org/web/20050625084535id_/http%3A//www.invitationconsultants.com/oinfo.asp)
 
 [](https://www.truste.org/ivalidate.php?url=www.invitationconsultants.com)Invitation Consultants, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [www.invitationconsultants.com](http://www.invitation/). Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
@@ -97,7 +97,7 @@ We reserve the right to modify this privacy statement at any time, so please rev
 If you have any questions or suggestions regarding our privacy policy, please contact us at:
 
 Invitation Consultants, Inc.  
-8196 Woodland Center Boulevard  
+8176 Woodland Center Boulevard  
 Tampa, FL 33614
 
 Tel 813-879-3748  
@@ -105,4 +105,4 @@ Fax 813-879-4478
 
 [CustomerService@invitationconsultants.com](mailto:CustomerService@invitationconsultants.com)
 
-[Back to Main Customer Service Page](https://web.archive.org/web/20041204194946id_/http%3A//www.invitationconsultants.com/oinfo.asp)
+[Back to Main Customer Service Page](https://web.archive.org/web/20050625084535id_/http%3A//www.invitationconsultants.com/oinfo.asp)
