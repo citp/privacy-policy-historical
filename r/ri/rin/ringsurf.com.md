@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ringsurf.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204093508id_/http%3A//www.ringsurf.com/netring%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ringsurf.com privacy policy that was archived on 2005-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050626073811id_/http%3A//www.ringsurf.com/netring%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # RingSurf: Privacy
 
