@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gateway.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207034544id_/http%3A//gateway.com/meta_refresh/global/ftr_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gateway.com privacy policy that was archived on 2005-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050627013021id_/http%3A//www.gateway.com/about/legal/security.shtml) for the most accurate reproduction.*
 
 # Gateway Computers - Privacy & Data Security
 
@@ -14,15 +14,13 @@ There are times when we may ask our customers for personal information such as y
 
 Gateway also collects purchasing information, including credit card numbers and information used to provide requested services, such as order fulfillment. Information collected with our “E-mail this Page to a Friend” Web feature is used one time for that purpose only. 
 
-When you choose to give personal information to us over the Internet that we or our business partners may request, we will do our best to inform you how we will use the information. Information collected by using our online financing option is held in confidence by Gateway and our third party vendors. If you accept a financing offer, you are then considered a customer of the vendor, who may market to you consistent with their policies. 
-
 When we ask for personal information for any reason, we will provide a link to this policy statement to make our intentions clear. 
 
 ## Personal Information Privacy
 
 Gateway will take all appropriate steps to keep your personal information confidential, including limiting access to customer information databases, communicating this policy statement to all Gateway employees and establishing and enforcing penalties for violating this statement. Additionally, Gateway annually certifies itself to the U.S. Department of Commerce Safe Harbor program and ensures its adherence to the Safe Harbor’s standards for privacy protection. 
 
-Gateway will not sell, rent or give away customer information to other companies for use in selling others' products or services. When we do contract with another company to market or advertise products or services for us, we will insist on binding agreements from those companies protecting our customer information. We will vigorously enforce all privacy agreements we have with other companies. However, when you receive services directly from a third party, such as a shipping company or internet service provider, your personal information is treated in accordance with that service provider's privacy policy even though you may have purchased the services through Gateway. 
+Gateway will not sell, rent or give away customer information to other companies for use in selling others' products or services. When we do contract with another company to market or advertise products or services for us, we will insist on binding agreements from those companies protecting our customer information. We will vigorously enforce all privacy agreements we have with other companies. However, when you receive services directly from a third party, such as a shipping company, financing provider or internet service provider, your personal information is treated in accordance with that service provider's privacy policy even though you may have purchased the services through Gateway. 
 
 We gather personal information from our customers so we can better develop our relationship with those customers. Occasionally, we seek customer comments on our products and services. These comments allow us to determine which products and services our customers should be made aware of based on their specific needs. 
 
@@ -32,7 +30,7 @@ Our Website shares usage information about site visitors with reputable third-pa
 
 Gateway is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site www.gateway.com. Because we want to demonstrate Gateway’s commitment to our users’ privacy related to the Website, we have agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If users have questions or concerns regarding this statement, they should first contact the Webmaster by clicking on the link, or call 1-800-846-2000. If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/watchdog.html "TRUSTe Watchdog program"). TRUSTe will serve as a liaison with the Website to resolve users concerns. 
+If users have questions or concerns regarding this statement, they should call 1-800-846-2000. If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/watchdog.html "TRUSTe Watchdog program"). TRUSTe will serve as a liaison with the Website to resolve users concerns. 
 
 The TRUSTe program covers only information that is collected through this Website, and does not cover information that may be collected through software downloaded from the site. 
 
@@ -44,7 +42,7 @@ If we decide to substantively change our privacy policy, we will post those chan
 
 We currently use the Secure Sockets Layer (SSL) protocol to safeguard your information, including your credit card number, during online transactions. None of the tens of thousands of people, who have made purchases through Gateway's Website using SSL, have reported to us fraudulent use of their credit card as a result of their online order. We believe SSL to be a very safe encryption method, but we are always looking for even more secure encryption methods to safeguard information sent online. Our server will run detection software to help ensure you are using a secure browser and your information is secure when you check out. If our browser determines you are not using a secure browser, a message will appear at checkout. 
 
-For more information on SSL technology, [please click here](http://www.gateway.com/about/legal/ssl.shtml "Info about SSL technology"). 
+For more information on SSL technology, [please click here](https://web.archive.org/about/legal/ssl.shtml "Info about SSL technology"). 
 
 To protect your information once your transaction is complete, Gateway stores your information on an off-line server stored securely behind our firewall. There is no external access to this information and its internal access is strictly monitored. 
 
@@ -56,8 +54,8 @@ Gateway helps ensure your protection by offering a safe shopping guarantee. Unde
 
 ## Cookies
 
-Gateway currently uses “cookies” on our site. Our cookies tag each visitor's browser with a random, unique number. The cookie simply assigns a number and does not disclose any personal information about the person using the browser. By noting where these uniquely numbered browsers go on our site, we can study traffic patterns and improve our site. To learn more about cookies, [click here](http://www.gateway.com/about/legal/cookies.shtml "Learn about cookies"). 
+Gateway currently uses “cookies” on our site. Our cookies tag each visitor's browser with a random, unique number. The cookie simply assigns a number and does not disclose any personal information about the person using the browser. By noting where these uniquely numbered browsers go on our site, we can study traffic patterns and improve our site. To learn more about cookies, [click here](https://web.archive.org/about/legal/cookies.shtml "Learn about cookies"). 
 
 ## Contact Us
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with Gateway, please contact the [Webmaster](http://www.gateway.com/cgi-bin/mailtoforms.pl?mailinfo=webmaster:webmaster@gateway.com "Contact Webmaster"). If you wish to update or correct the personal information you provided to Gateway, please call 800-846-2000. To add your name to any of the Gateway “Do Not Call”, “Do Not E-mail” or “Do Not Mail” lists for marketing communications, please visit our [Communication Preferences](http://www.gateway.com/about/dnc/index.asp?type=all "Communication Preferences") page. 
+If you wish to update or correct the personal information you provided to Gateway, please call 800-846-2000. To add your name to any of the Gateway “Do Not Call”, “Do Not E-mail” or “Do Not Mail” lists for marketing communications, please visit our [Communication Preferences](https://web.archive.org/about/dnc/index.asp?type=all "Communication Preferences") page. 
