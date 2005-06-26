@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the amazon.com privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211005559id_/http%3A//www.amazon.com/exec/obidos/tg/browse/-/468496) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazon.com privacy policy that was archived on 2005-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050626081005id_/http%3A//www.amazon.com/exec/obidos/tg/browse/-/468496) for the most accurate reproduction.*
 
-# Amazon.com: Help / Privacy & Security / Privacy Notice
+# Amazon.com Help: Privacy Notice
 
 **Amazon.com Privacy Notice**
 
@@ -100,8 +100,12 @@ Examples of information we receive from other sources include updated delivery a
 
 **Information You Can Access**
 
-Examples of information you can access easily at Amazon.com include up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password, communications preferences, address book, and 1-Click settings); payment settings (including credit card information and gift certificate, gift card, and check balances); e-mail notification settings (including Alerts, Available to Order notifications, Delivers, New for You, Share the Love, Special Occasion Reminders, Weekly Movie Showtimes, and newsletters); recommendations (including recent product view history, prior order history, and Favorites); shopping lists and gift registries (including Wish Lists and Baby and Wedding Registries); Auctions, zShops, and Marketplace seller accounts; and your About You area (including your product Reviews, Requests, and Recommendations, Listmania lists, "So You'd Like to…" guides, personal profile, favorite people, and Amazon Friends). 
+Examples of information you can access easily at Amazon.com include up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password, communications preferences, address book, and 1-Click settings); payment settings (including credit card information and gift certificate, gift card, and check balances); e-mail notification settings (including Alerts, Available to Order notifications, Delivers, New for You, Special Occasion Reminders, Weekly Movie Showtimes, and newsletters); recommendations (including recent product view history, prior order history, and Favorites); shopping lists and gift registries (including Wish Lists and Baby and Wedding Registries); Auctions, zShops, and Marketplace seller accounts; and your About You area (including your product Reviews, Requests, and Recommendations, Listmania lists, "So You'd Like to…" guides, personal profile, favorite people, and Amazon Friends). 
 
 **Co-branded and Joint Offerings**
 
-Examples of businesses with which we offer joint or co-branded products and other offerings include Toysrus.com, Babiesrus.com, Imaginarium.com, Target, Circuit City, Borders, Waldenbooks, AT&T Wireless, Sprint, T-Mobile, CarsDirect.com, Hotwire, drugstore.com, The Vacation Store, Ofoto.com, Office Depot, J&R, Virginmega.com, Nordstrom, Eddie Bauer, and other apparel stores.
+Examples of businesses with which we offer joint or co-branded products and other offerings include Toysrus.com, Babiesrus.com, Imaginarium.com, Target, Borders, Waldenbooks, AT&T Wireless, Sprint, T-Mobile, CarsDirect.com, Hotwire, drugstore.com, The Vacation Store, Ofoto.com, Office Depot, J&R, Virginmega.com, Nordstrom, Eddie Bauer, and other apparel stores.
+
+|    |    
+  
+
