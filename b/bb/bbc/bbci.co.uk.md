@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbci.co.uk privacy policy that was archived on 2004-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041231081025id_/http%3A//www.bbc.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbci.co.uk privacy policy that was archived on 2005-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050626075931id_/http%3A//www.bbc.co.uk/privacy) for the most accurate reproduction.*
 
 # BBC - Privacy & Cookies Policy
 
@@ -32,9 +32,7 @@ During the course of any visit to bbc.co.uk, the pages you see, along with a sho
 
 Information supplied by cookies can help us to provide you with a better online user experience and assist us to analyse the profile of our visitors. For example: if on a previous visit you went to our education pages, we might find this out from your cookie and highlight educational information on your second and subsequent visits.
 
-RedSheriff, an independent measurement and research company, gathers non-personal information regarding the visitors to our website on our behalf using cookies, log file data and code which is embedded on our website. The BBC uses this type of information, as with that obtained from other cookies used on the site, to help it improve the services to its users.
-
-If you wish to reject RedSheriff's cookie, you can use the process set out below in point 7. To disable the embedded code, you will need to send requests directly to privacy@redsheriff.com. Further information regarding RedSheriff's privacy statement can be found at [http://www.redsheriff.com/us/content/privacy_1.html](http://www.redsheriff.com/6.0.0.htm).
+Nielsen//Netratings, an independent measurement and research company, gathers non-personal information regarding the visitors to our website on our behalf using cookies, log file data and code which is embedded on our website. The BBC uses this type of information, as with that obtained from other cookies used on the site, to help it improve the services to its users. If you wish to reject Nielsen//Netratings' cookie, you can use the process set out below in point 7. To Totally Opt-Out of Nielsen//Netratings collecting any data regarding your interaction on bbc.co.uk, use the Opt-Out in their Privacy and Cookie Policy at [http://www.netratings.com/privacy.jsp?section=leg_scs](https://web.archive.org/go/web/20050626075931id_/http://www.bbc.co.uk/privacy/ext/_auto/-/http://www.netratings.com/privacy.jsp?section=leg_scs).
 
 ## 3. What is a cookie?
 
@@ -44,7 +42,7 @@ Many sites do this whenever a user visits their website in order to track online
 
 Cookies record information about your online preferences. Users have the opportunity to set their computers to accept all cookies, to notify them when a cookie is issued, or not to receive cookies at any time. The last of these, of course, means that certain personalised services cannot then be provided to that user user and accordingly you may not be able to take full advantage of all of the bbc.co.uk features. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.
 
-If you have set your computer to reject cookies you can still browse bbc.co.uk anonymously until such time as you wish to register for bbc.co.uk services. For further information on cookies please visit [www.aboutcookies.org](http://www.aboutcookies.org/).
+If you have set your computer to reject cookies you can still browse bbc.co.uk anonymously until such time as you wish to register for bbc.co.uk services. For further information on cookies please visit [www.aboutcookies.org](https://web.archive.org/go/web/20050626075931id_/http://www.bbc.co.uk/privacy/ext/_auto/-/http://www.aboutcookies.org/).
 
 ## 4. Use and storage of your personal information
 
@@ -170,9 +168,7 @@ BBC-H2-User cookie | Used for user authentication for the bbc.co.uk messageboard
 rmRpDetectReal cookie | Used to store a preference to prevent 'You don't have Real player installed …' alerts coming up if you really don't want to install it and don't want to be pestered with requests to do so.  
 *votename* cookie | Some voting systems on bbc.co.uk may set a cookie to discourage voters voting more than once. In each case the cookie's name will reflect the vote in question.  
   
-We regularly monitor this website and will update this list of cookies when necessary. 
-
-British Broadcasting Corporation © 2001-2004  
+We regularly monitor this website and will update this list of cookies when necessary.British Broadcasting Corporation © 2001-2004  
 Broadcasting House,  
 Portland Place,  
 London,  
