@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sydneyoperahouse.com privacy policy that was archived on 2004-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041213085212id_/http%3A//www.sydneyoperahouse.com/sections/home/customer_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sydneyoperahouse.com privacy policy that was archived on 2005-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050626083852id_/http%3A//www.sydneyoperahouse.com/sections/home/customer_privacy) for the most accurate reproduction.*
 
 # Sydney Opera House
 
