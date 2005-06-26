@@ -1,150 +1,70 @@
-> *The following text is extracted and transformed from the usgs.gov privacy policy that was archived on 2004-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041230053037id_/http%3A//www.usgs.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usgs.gov privacy policy that was archived on 2005-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050626075853id_/http%3A//www.usgs.gov/privacy.html) for the most accurate reproduction.*
 
 # USGS Privacy Policy and Disclaimers
 
-[](http://www.usgs.gov/) |  |  [ ](https://web.archive.org/) | [USGS Home](http://www.usgs.gov/)  
----  
-[Contact USGS](https://web.archive.org/ask/)  
-[Site Map](https://web.archive.org/sitemap.html)  
   
-[Advanced Search](http://search.usgs.gov/?col=&ht=0&qp=&qs=&qc=&pw=100%25&ws=1&la=en&si=0&ql=a&nh=25&lk=1&rf=0&tt=0)  
-  
-[](https://web.archive.org/125/)  
-[](https://web.archive.org/about_us.html)[](https://web.archive.org/science.html)[](https://web.archive.org/pubprod/)[](https://web.archive.org/education/)[](https://web.archive.org/newsroom/)  
----  
-  
-The following statements and disclaimers apply to all web sites managed by the U.S. Geological Survey (USGS) unless otherwise noted. 
 
-* * *
 
-## Privacy
+The information on these pages is provided to assist you in finding information that will help you understand the [Privacy Act](http://www.usdoj.gov/04foia/privstat.htm) (Public Law 5 U.S.C. § 552a, as amended), as it relates to privacy policies of the U.S. Geological Survey, a bureau of the Department of the Interior. See [DOI Privacy Policy](http://www.doi.gov/privacy.html).
 
-The USGS web site which referred you to this document conforms to the general U.S. Department of Interior policy on privacy as outlined in the [DOI Privacy Statement](http://www.doi.gov/footer/privacy.html) and as detailed below. 
+### How We Handle the Information We Gather When You Visit Our Web Site
 
-### How we handle the information we gather when you visit our web site-
+The type of information that we receive from your visit to our Web sites depends upon what you do when visiting our sites. We use this information to measure the number of visitors to the different sections of our sites and to help us make our sites more useful to visitors.
 
-#### Web server activity logs
+Child Privacy \- The USGS values the privacy and protection of children in the use of its Web sites. We adhere to the privacy policies stated below in dealing with children 13 years and younger and for all visitors to USGS Web sites. (for more information see “[Children's Online Privacy Protection Act of 1998](http://www.ftc.gov/ogc/coppa1.htm).”
 
-Like most web servers on the Internet, our servers collect and store all of the information that your web browser sends when it requests a web page, including:
+It is the policy of the USGS that we will not obtain personal identifying information about you when you visit our Web sites, unless you choose to provide the information to us (for example, through a questionnaire in which you willingly provide such information, or in which you are requesting a publication or other information to be transmitted to you by the USGS).
 
-  * the name, domain, and numerical internet address of the "host" computer (typically a computer belonging to your Internet Service Provider and not your personal computer) from which you access the Internet; 
+Identification for Law Enforcement or Unauthorized Use \- The only time that we will attempt to identify individual users or to share any information we receive with any parties outside of the USGS is (1) in the course of officially authorized law enforcement investigations or (2) in the event of a suspected attempt to deliberately circumvent our system’s security with the intent to gain unauthorized access or to do physical damage (for example, an attack by hackers). In the latter case, information collected about a suspected intruder may be shared with the USGS Information Technology Security Manager (see Contact information below).
+
+Web Server Activity \- Like most Web servers on the Internet, USGS servers collect and store within Web access logs all of the information that your Web browser sends when it requests a Web page, including:
+
+  * the name, domain, and numerical internet address of the host computer (typically a computer belonging to your Internet Service Provider and not your personal computer) from which you access the Internet; 
   * the date and time you accessed our site; 
-  * the Internet address of the web page that you came from; 
+  * the Internet address of the Web page that you came from; 
   * the page you requested from our site and the number of characters sent to your computer; and 
-  * the information your web browser software sends as its so-called "User Agent," which typically identifies the browser software and may also indicate the operating system and type of CPU used in your personal computer. 
+  * the information your Web browser software sends as its so-called “User Agent,” which typically identifies the browser software and may also indicate the operating system used in your personal computer and the type of computer. 
 
 
 
-It is impossible to determine the actual identity of an individual user from this information.
+It is impossible to determine the actual identity of an individual user from this information. The logs are periodically summarized and analyzed to study site usage over time and to perform other studies to help us improve the site's organization, performance, and usefulness. Monthly extracts of the log files are archived and stored offline at our discretion for an indefinite period of time. Some statistical summaries derived from these data may be retained online or offline at our discretion for an indefinite period of time.
 
-The logs are periodically summarized and analyzed in order to study site usage over time and to perform other studies to help us improve the site's organization, performance, and usefulness.
+Cookies \- Some applications may save a “cookie” on your computer's hard disk to provide a temporary history of actions taken. A common example is the tracking of items placed in an online “shopping basket.” We do not retain any record of “cookies” beyond what is necessary for running the application.
 
-#### Electronic mail
+E-Mail or Web Forms \- When you send us personal identifying information by contacting us via e-mail (that is, in a message containing a question or comment) or by filling out a form that e-mails us this information, we use it to respond to your requests. We may forward your e-mail or information to other Government employees or contract personnel who are better able to answer your questions.
 
-When you send us personal identifying information via e-mail (that is, in a message containing a question or comment, or by filling out a form that e-mails us this information), we use it to respond to your requests. We may forward your e-mail to other Government employees or contract personnel who are better able to answer your questions. We do not retain or distribute lists of e-mail addresses to any parties outside of the USGS except as necessary to conduct official U.S. Government business. In no event, do we distribute lists of e-mail addresses to non-Government entities.
+We do not retain or distribute lists of e-mail addresses to any parties outside the USGS, except as necessary to conduct official U.S. Government business, and we do not distribute lists of e-mail addresses to non-Government entities. Information collected via e-mail or Web form will be retained at our discretion in a readable form for as long as necessary to complete our response. The e-mail or information may be retained in an archival form as required by Federal laws and regulations governing the retention of historical records of Government agencies. For more information, please refer to the [National Archives and Records Administration's Records Management Program](http://www.nara.gov/records/).
 
-#### File transfer protocol (FTP)
+File Transfer Protocol (FTP) \- Many USGS sites using the file transfer protocol may also store your e-mail address if your Web browser is configured to provide it. By default, most Web browser software does not send your e-mail address; this option is configured through your browser preferences. 
 
-Many USGS sites using the file transfer protocol may also store your e-mail address if your web browser is configured to provide it. By default most web browser software does not send your e-mail address; this option is configured through your browser preferences. In Netscape Navigator, for example, this option must be set by you through the Advanced preferences category by the item labeled, "Send email address as anonymous FTP password."
+Online Surveys \- When you voluntarily provide us with personal information as part of an online survey, we use it to perform various quantitative and qualitative analyses to improve customer service and satisfaction. We may forward the information collected to other Government employees or contract personnel to perform the actual analysis. You are under no obligation to participate in such surveys. Non-participation will not inhibit your use of our Web site in any way. If you provided the information to us in error, you may request its removal at any time. Information collected via online surveys may be retained at our discretion for an indefinite period of time. 
 
-#### Online surveys
+Ordering Products Online \- When you voluntarily provide us with personal information such as name, shipping and billing address, and credit card number when ordering products online, we use the information to fulfill your order. We may forward the information collected to other Government employees or contract personnel or to other computer systems (such as secure electronic commerce servers) to complete the requested transaction.
 
-When you voluntarily provide us with personal information as part of an online survey, we use it to perform various quantitative and qualitative analyses to improve customer service and satisfaction. We may forward the information collected to other Government employees or contract personnel to perform the actual analysis. You are under no obligation to participate in such surveys. Non-participation will not inhibit your use of our web site in any way. If you provided the information to us in error, you may request its removal at any time.
+### Site Security
 
-#### Ordering products
+To provide site security and to ensure that this service remains available to all users, our Government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information or otherwise cause damage. Unauthorized attempts to upload information or change information on this Web site are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act. Information may also be used for authorized law enforcement investigations. For more information, see the section entitled, “Identification for Law Enforcement or Unauthorized Use.”
 
-When you voluntarily provide us with personal information such as name, shipping and billing address, and credit card number when ordering products online, we use the information to fulfill your order. We may forward the information collected to other Government employees or contract personnel or to other computer systems (such as secure electronic commerce servers) to complete the requested transaction.
+### Policy
 
-#### Marketing information
+For relevant USGS policy on privacy, refer to the Survey Manual chapter entitled, “[Privacy Act - General](http://www.usgs.gov/usgs-manual/313/319-1.html).”
 
-We may collect information from you, with your permission, that will allow us to provide various customer services, such as promotional materials and product availability notices. We may forward the information collected to other Government employees or contract personnel to provide specific marketing services. We will remove such information at your request.
+For relevant USGS policy on information technology security, refer to the Survey Manual chapters entitled, “[Control of the Registration and Deletion of Computer User Identifications (User ID's)](http://www.usgs.gov/usgs-manual/600/600-2.html)” and “[Automated Information Systems Security - General Requirements](http://www.usgs.gov/usgs-manual/600/600-5.html).”
 
-#### Collection and release of gathered information 
+### Contact
 
-We want to make it clear that we will not obtain personal identifying information about you when you visit our web sites, unless you choose to provide such information to us. Except in the course of officially authorized law enforcement investigations, or in the event of a suspected attempt to deliberately circumvent our system's security with the intent to gain unauthorized access or to do physical damage (for example, an attack by hackers), we do not attempt to identify individual users or share any information we receive with any parties outside of the USGS. In the latter case, collected information associated with a suspected intruder might be shared through the USGS's Bureau Information Resources Security Administrator with an incident response service such as the [CERT® Coordination Center](http://www.cert.org/).
+If you have questions on USGS privacy or information technology security, contact:
 
-#### Retention of collected information 
-
-**Cookies** \- Some applications may save a "cookie" on your computer's hard disk to provide a temporary history of actions taken. A common example is the tracking of items placed in an online "shopping basket." We do not retain any record of "cookies" beyond what is necessary for running the application.
-
-**Web server activity logs** \- Monthly extracts of the log files are archived and stored off-line at our discretion for an indefinite period of time. Some statistical summaries derived from these data may be retained online or off-line at our discretion for an indefinite period of time.
-
-**E-mail** \- Information collected via e-mail will be retained at our discretion in a directly readable form for as long as necessary to complete our response. The e-mail itself may be retained in an archival form as required by Federal laws and regulations governing the retention of historical records of government agencies. For more information, please refer to the National Archives and Records Administration's [Records Management Program](http://www.nara.gov/records/).
-
-**Online surveys** \- Information collected via online surveys may be maintained at our discretion for an indefinite period of time.
-
-**Marketing information** \- Such information may be maintained at our discretion for an indefinite period of time.
-
-[ Go to Top of Page ]
-
-* * *
-
-## Links to Non-USGS Sites
-
-Links and pointers to non-USGS sites are provided for information only and do not constitute endorsement, express or implied, by the USGS, U.S. Department of the Interior (USDOI), or U.S. Government, of the referenced organizations, their suitability, content, products, or services, whether they are governmental, educational, or commercial.
-
-* * *
-
-## Non-Endorsement of Commercial and Other Non-USGS Products and Services
-
-Hypertext links and other references to non-USGS products and services are provided for information only and do not constitute endorsement or warranty, express or implied, by the USGS, USDOI, or U.S. Government, as to their suitability, content, usefulness, functioning, completeness, or accuracy.
-
-* * *
-
-## USGS Public-Domain Software
-
-Links are provided to public-domain software developed by or for the USGS. Although these programs have been used by the USGS, no warranty, expressed or implied, is made by the USGS as to the accuracy and functioning of the programs and related program material, nor shall the fact of distribution constitute any such warranty, and no responsibility is assumed by the USGS in connection therewith.
-
-[ Go to Top of Page ]
-
-* * *
-
-## Content Accuracy, Completeness, and Usability of USGS Data and Information
-
-We make every effort to provide and maintain accurate, complete, usable, and timely information on our web sites. However, some USGS data and information accessed through these pages may, of necessity, be preliminary in nature and presented prior to final review and approval by the Director of the USGS. These data and information are provided with the understanding that they are not guaranteed to be correct or complete. Users are cautioned to consider carefully the provisional nature of these data and information before using them for decisions that concern personal or public safety or the conduct of business that involves substantial monetary or operational consequences. Conclusions drawn from, or actions undertaken on the basis of, such data and information are the sole responsibility of the user.
-
-* * *
-
-## Copyrights and Trademarks
-
-USGS-authored or produced data and information are in the public domain. While the content of most USGS web pages is in the public domain, not all the information on our site is in the public domain. Some images/graphics are used by USGS with permission. For other uses, you may need to obtain permission from the copyright holder under the [copyright law](http://lcweb.loc.gov/copyright/).
-
-You are welcome to make a link to any of the Web pages USGS has published on the Internet. There is no need to request permission.
-
-The USGS identifier is trademarked and must be used in accordance with the rules outlined at [Visual Identity System](http://www.usgs.gov/visual-id/). Information on who may use the USGS identifier and how to obtain a copy of it is available at [ Use of the Trademarked USGS Identifier by Outside Organizations](http://www.usgs.gov/visual-id/outside_use.html).
-
-We will identify material we use from sources outside of USGS, and request others do the same when using information published by USGS. Credit can be provided by including on the page (or via a link to a credits page) a citation such as:
-
-Credit: U. S. Geological Survey   
-U. S. Geological Survey/photo by Jane Doe (if the artist is known)  
-USGS/Ft. Collins, CO (if originating office but not the artist is known)  
-
-
-* * *
-
-## Liability
-
-Neither the U.S. Government nor any agency thereof, nor any of their employees, contractors, or subcontractors, make any warranty, express or implied, nor assume any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed, nor represent that its use would not infringe on privately owned rights.
-
-[ Go to Top of Page ]
-
-* * *
-
-## Freedom of Information
-
-The USGS maintains a [Freedom of Information Act (FOIA) Electronic Reading Room](http://www.usgs.gov/foia/) on the web that provides information on how to request USGS records and also provides links to [Laws and Regulations governing USGS Activities](http://www.usgs.gov/laws/index.html) and other information about the FOIA.
-
-[USGS FOIA Officer](mailto:jcordyac@usgs.gov)  
+[USGS Privacy Officer](mailto:privacy@usgs.gov)  
 Mail Stop 807  
 National Center  
-Reston, VA 20192  
+USGS  
+Reston, VA 20192
 
+[USGS Information Technology Security Manager](mailto:gs-i-hq_is_federal@usgs.gov)  
+Mail Stop 802  
+National Center  
+USGS  
+Reston, VA 20192
 
 * * *
-
-## To Contact Us
-
-If you have questions concerning the use of USGS materials, contact the [ Office of Communications](mailto:kwood@usgs.gov,gwendt@usgs.gov).
-
-  
-
