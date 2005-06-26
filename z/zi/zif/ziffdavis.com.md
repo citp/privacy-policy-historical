@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ziffdavis.com privacy policy that was archived on 2004-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041215032016id_/http%3A//www.ziffdavis.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziffdavis.com privacy policy that was archived on 2005-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050626025232id_/http%3A//www.ziffdavis.com/about/privacy) for the most accurate reproduction.*
 
 # Ziff Davis Media : Privacy Policy
 
@@ -45,7 +45,7 @@ We make email and postal lists of our customers available on a rental, i.e., tem
   * If you are a registered user of Ziff Davis eSeminars, please send email with your preference request to[ eSeminars@ziffdavis.com](mailto:eSeminars@ziffdavis.com). Please see below for details on eSeminars's privacy policies. 
   * If you are a registered attendee of DigitalLife or other Ziff Davis Media Events, please send email with your preference request to [event_marketing@ziffdavis.com](mailto:event_marketing@ziffdavis.com). Please see below for details on Ziff Davis Media Event privacy policies. 
   * If you've registered to attend a Ziff Davis Media face-to-face event and prefer this information not be shared, please send email with your preference request to [events@ziffdavis.com](mailto:events@ziffdavis.com).
-  * If you are a registered user of the Ziff Davis Internet Web Buyer's Guide and prefer this information not be shared, please [click here](http://www.webbuyersguide.com/company/companymenu.asp) or send email with your preference request to [WebBuyersGuide@ziffdavis.com](mailto:WebBuyersGuide@ziffdavis.com).
+  * If you are a registered user of the Ziff Davis Web Buyer's Guide and prefer this information not be shared, please [click here](http://www.webbuyersguide.com/company/companymenu.asp) or send email with your preference request to [WebBuyersGuide@ziffdavis.com](mailto:WebBuyersGuide@ziffdavis.com).
   * If you are a registered member of a Connexus Media site (including PDFZone, Publish and GraphicsIQ), please send email to [privacy@internetbiz.net](mailto:privacy@internetbiz.net).
   * If you are a registered member of the DeviceForge sites (including LinuxDevices.com, DesktopLinux.com, WindowsforDevices.com and Deviceforge.com) and prefer your information not be shared, please send email with your preference request to [privacy@deviceforge.com](mailto:privacy@deviceforge.com)
 
@@ -105,9 +105,9 @@ Ziff Davis Media Events, such as DigitalLife, are produced for a variety of comp
 
 If you have any questions, please contact [event_marketing@ziffdavis.com](mailto:event_marketing@ziffdavis.com).
 
-###### Ziff Davis Internet Web Buyer's Guide
+###### Ziff Davis Web Buyer's Guide
 
-The Ziff Davis Internet Web Buyer's Guide hosts sponsored product listings for a variety of companies (Sponsors). If you view one or more product listings supplied by a Web Buyer's Guide Sponsor, all data collected during Web Buyer's Guide registration and/or Ziff Davis Internet Web site registration will be shared with the Sponsor. When shared, this data is governed by the individual Sponsor's privacy policy and may be used by the Sponsor for follow-up purposes. Similarly, Ziff Davis Media will have the same access to this data as the Sponsors, and this Privacy Policy continues to govern how Ziff Davis Media uses the data. For details on how Sponsors use the information you provide, please contact the Sponsor directly.
+The Ziff Davis Web Buyer's Guide hosts sponsored product listings for a variety of companies (Sponsors). If you view one or more product listings supplied by a Web Buyer's Guide Sponsor, all data collected during Web Buyer's Guide registration and/or Ziff Davis Internet Web site registration will be shared with the Sponsor. When shared, this data is governed by the individual Sponsor's privacy policy and may be used by the Sponsor for follow-up purposes. Similarly, Ziff Davis Media will have the same access to this data as the Sponsors, and this Privacy Policy continues to govern how Ziff Davis Media uses the data. For details on how Sponsors use the information you provide, please contact the Sponsor directly.
 
 If you have any questions, please contact [WebBuyersGuide@ZiffDavis.com](mailto:WebBuyersGuide@ZiffDavis.com).
 
