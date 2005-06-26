@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysite.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207024629id_/http%3A//www.mysite.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysite.com privacy policy that was archived on 2005-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050627001227id_/http%3A//www.mysite.com/legal/privacy.html) for the most accurate reproduction.*
 
 # mySite.com Terms and Conditions- Low-cost email address - 1GB email storage - Block spam - Web & POP3 email access - Get your name as your email address
 
