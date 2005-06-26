@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jcp.org privacy policy that was archived on 2004-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041229162937id_/http%3A//www.sun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcp.org privacy policy that was archived on 2005-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050626074250id_/http%3A//www.sun.com/privacy) for the most accurate reproduction.*
 
 # Sun Microsystems - Sun Online Privacy Policy
 
-As of May 22, 2001, Sun Microsystems updated its Privacy Policy to give you a better understanding of our Privacy Policy and Practice. If you have any questions, please contact [privacy@sun.com](mailto:privacy@sun.com). 
+As of January 1, 2005, Sun Microsystems updated its Privacy Policy to include information on the privacy rights of the citizens of the State of California. 
 
    
    
@@ -123,5 +123,14 @@ By using this Web site, you consent to the terms of our Online Privacy Policy an
 
 Back to top
 
-v.2.0  
-May 22, 2001 
+   
+
+
+##### Your California Privacy Rights
+
+For information on Your California Privacy Rights, see [California Notice of Information-Sharing Disclosure](https://web.archive.org/privacy/cal.html). 
+
+Back to top
+
+v.2.5  
+January 1, 2005 
