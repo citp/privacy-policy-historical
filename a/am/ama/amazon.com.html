@@ -1,12 +1,9 @@
-<!--The following is the downloaded HTML source of the amazon.com privacy policy that was archived on 2004-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041211005559id_/http%3A//www.amazon.com/exec/obidos/tg/browse/-/468496) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the amazon.com privacy policy that was archived on 2005-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050626081005id_/http%3A//www.amazon.com/exec/obidos/tg/browse/-/468496) for the most accurate reproduction.-->
 
 <html><head>
 <title>
-Amazon.com: Help
-/
-Privacy &amp; Security
-/
+Amazon.com Help:
 Privacy Notice
 </title>
 <style type="text/css"><!-- .serif { font-family: times,serif; font-size: small; }
@@ -42,6 +39,8 @@ A.horizontal-advanced-websearch:hover {text-decoration: underline}
 .half { font-size: .5em; }
 .list div { margin-bottom: 0.25em; text-decoration: none; }
 .hr-center { margin: 15px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: dotted; border-right-style: none; border-bottom-style: none; border-left-style: none; border-top-color: #999999; border-right-color: #999999; border-bottom-color: #999999; border-left-color: #999999; }
+.divider { border-top: 1px dashed #cc9; }
+.big { font-family: verdana,arial,helvetica,sans-serif; font-size: ; }
 --></style>
 </head>
 <body bgcolor="#FFFFFF" link="#003399" alink="#FF9933" vlink="#996633" topmargin="0" text="#000000">
@@ -59,7 +58,7 @@ A.horizontal-advanced-websearch:hover {text-decoration: underline}
 <table width="100%" border="0" cellspacing="0" cellpadding="0" vspace="0">
 <tbody><tr>
 <td width="25%" rowspan="2" valign="bottom">
-<span class="small">
+<div class="small">
 <script language="Javascript1.1" type="text/javascript">
 <!--
 function PopWinA(url,name,options){
@@ -69,12 +68,12 @@ ContextWindow.focus();
 }
 //-->
 </script>
-<map name="promo_beta_image_map">
-<area shape="rect" coords="0,0,137,56" href="http://www.amazon.com/gp/browse.html?node=3760911">
-<area shape="rect" coords="0,56,130,75" href="/exec/obidos/subst/misc/beauty-beta-launch-pop-up.html/?ref=gw_br_bt">
+<map name="sg_beta_image_map">
+<area shape="rect" coords="31,60,124,74" href="/exec/obidos/subst/misc/sporting-goods-beta-launch-no-link-pop-up.html/?ref=gw_br_sg">
+<area shape="rect" coords="1,1,130,75" href="http://www.amazon.com/gp/browse.html?node=3375251">
 </map>
-<img src="http://g-images.amazon.com/images/G/01/beauty/beauty-segway-lipstick3.gif" width="130" height="75" border="0" usemap="#promo_beta_image_map" align="absbottom">
-</span>
+<img src="http://g-images.amazon.com/images/G/01/stores/sporting-goods/nav/sports-golf-segway-lg.gif" width="130" height="75" border="0" usemap="#sg_beta_image_map" align="absbottom">
+</div>
 </td>
 <td align="left" valign="bottom"> <a href="/exec/obidos/subst/home/home.html/"><img src="http://g-images.amazon.com/images/G/01/associates/navbar2000/logo-no-border(1).gif" width="148" height="43" alt="" border="0"></a>
 </td>
@@ -84,14 +83,64 @@ ContextWindow.focus();
 </tbody></table>
 </td>
 <td align="right" rowspan="2" width="25%">
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="bottom" align="center">
-<a href="http://www.amazon.com/exec/obidos/tg/stores/static/-/goldbox/index"><img src="http://g-images.amazon.com/images/G/01/goldbox/gb_sparkle_033103.gif" width="80" height="45" border="0"></a></td></tr>
-<tr><td valign="top" align="center"><font size="1" face="verdana,sans-serif" color="#CC6600"><nobr><b>Your Gold Box</b></nobr></font></td></tr></tbody></table>
+<div class="small">
+<script language="javascript">
+xs_is_ns = 0;
+xs_is_ie = 0;
+xs_bname = navigator.appName;
+xs_bver = navigator.appVersion;
+xs_bcode = navigator.appCodeName;
+var xs_bver_obidos = "";
+xs_bplat = navigator.platform;
+var xs_showContent = 0;
+var xs_content_timeout;
+var xs_content_location;
+if (xs_bver_obidos >= 4) {
+xs_show();
+}
+function xs_show() {
+if ((xs_bplat.indexOf("MacPPC") != -1) && (xs_bver.indexOf("MSIE") != -1) && ( xs_bver.indexOf("5.0") != -1 )) {
+xs_is_ie = 1;
+xs_showContent = 1;
+} if ((xs_bplat.indexOf("MacPPC") != -1) && ( (xs_bver.indexOf("Netscape") != -1) || (xs_bver.indexOf("Gecko") != -1) || (xs_bcode.indexOf("Mozilla") != -1) ) && ( xs_bver.indexOf("5.0") != -1 )) {
+xs_is_ns = 1;
+xs_showContent = 1;
+} if (xs_bplat.indexOf("Win32") != -1 ) {
+if ( ( xs_bver.indexOf("MSIE") > 0 ) && ( xs_bver_obidos >= 4 ) ) {
+xs_is_ie = 1;
+xs_showContent = 1;
+}
+if ( ( xs_bname.indexOf("Netscape") != -1 ) && ( xs_bver_obidos >= 5 ) ) {
+xs_is_ns = 1;
+xs_showContent = 1;
+}
+} }
+function xs_toggle_pop(action){
+if (xs_is_ie == 1) {
+if (action == 1) { clearTimeout(xs_content_timeout);
+xs_content_location = document.body.clientWidth - 200; document.all['xs_pop_content'].style.left = xs_content_location; document.all['xs_pop_content'].style.visibility = 'visible';
+}
+if (action == 0) { xs_content_timeout = setTimeout("document.all['xs_pop_content'].style.visibility = 'hidden';",2000);
+}
+}
+if (xs_is_ns == 1) {
+if (action == 1) { clearTimeout(xs_content_timeout);
+xs_content_location = document.body.clientWidth - 200; document.getElementById('xs_pop_content').style.left = xs_content_location; document.getElementById('xs_pop_content').style.visibility = 'visible';
+}
+if (action == 0) {
+xs_content_timeout = setTimeout("document.getElementById('xs_pop_content').style.visibility ='hidden';",2000);
+}
+}
+}
+</script>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>
+<a href="http://www.amazon.com/exec/obidos/tg/zg/-/03/ce"><img src="http://g-images.amazon.com/images/G/01/gifts/zg_rt1_mw_ce_bu.gif" width="80" height="75" border="0"></a></td></tr></tbody></table>
+</div>
 </td>
 </tr>
 <tr valign="bottom">
 <td align="right"><nobr>
-<a href="/exec/obidos/subst/home/home.html/ref%3Dtab%5Fgw%5Fgw%5F1/"><img src="http://g-images.amazon.com/images/G/01/marketing/holiday-2001/welcome_red.gif" width="60" height="26" border="0" id="tb_gateway"></a><a href="/exec/obidos/tg/stores/your/store-home/-/0/ref%3Dpd%5Fysl%5Fgw%5Ffu%5F2/"><img src="http://g-images.amazon.com/images/G/01/nav/personalized/tabs/yourstore-unrec-off-sliced.gif" width="47" height="26" border="0"></a><a href="/exec/obidos/tg/browse/-/283155/ref%3Dtab%5Fgw%5Fb%5F3/"><img src="http://g-images.amazon.com/images/G/01/nav/personalized/tabs/books-off-sliced.gif" width="39" height="26" border="0" id="tb_books"></a></nobr></td><td colspan="2"><nobr><a href="/exec/obidos/tg/browse/-/1036592/ref%3Dtab%5Fgw%5Fap%5F4/"><img src="http://g-images.amazon.com/images/G/01/apparel/apparel-coat-tab_btm.gif" width="70" height="26" border="0"></a><a href="/exec/obidos/tg/browse/-/172282/ref%3Dtab%5Fgw%5Fe%5F5/"><img src="http://g-images.amazon.com/images/G/01/nav/personalized/tabs/electronics-off-sliced.gif" width="74" height="26" border="0" id="tb_electronics"></a><a href="/exec/obidos/tg/browse/-/171280/ref%3Dtab%5Fgw%5Ft%5F6/"><img src="http://g-images.amazon.com/images/G/01/nav/personalized/tabs/toys-off-sliced.gif" width="47" height="26" border="0" id="tb_toys"></a><a href="/exec/obidos/tg/browse/-/130/ref%3Dtab%5Fgw%5Fd%5F7/"><img src="http://g-images.amazon.com/images/G/01/nav/personalized/tabs/dvd-off-sliced.gif" width="35" height="26" border="0" id="tb_dvd"></a><a href="/exec/obidos/tg/browse/-/404272/ref%3Dtab%5Fgw%5Fv%5F8/"><img src="http://g-images.amazon.com/images/G/01/nav/personalized/tabs/video-off-sliced.gif" width="43" height="26" border="0" id="tb_video"></a><a href="http://www.amazon.com/exec/obidos/subst/home/all-stores.html/ref%3Dtab_gw_storesdirectory/"><img src="http://g-images.amazon.com/images/G/01/nav/personalized/tabs/see-more-off-sliced.gif" width="70" height="26" border="0"></a></nobr></td>
+<a href="/exec/obidos/subst/home/home.html/ref%3Dtab%5Fgw%5Fgw%5F1/"><img src="http://g-images.amazon.com/images/G/01/nav/personalized/tabs/welcome-on-whole.gif" width="60" height="26" border="0" alt="" title="" id="tb_gateway"></a><a href="/exec/obidos/tg/stores/your/store-home/-/0/ref%3Dpd%5Fysl%5Fgw%5Ffu%5F2/"><img src="http://g-images.amazon.com/images/G/01/nav/personalized/tabs/yourstore-unrec-off-sliced.gif" width="47" height="26" border="0" alt="Your Store" title="Your Store"></a><a href="/exec/obidos/tg/browse/-/283155/ref%3Dtab%5Fgw%5Fb%5F3/"><img src="http://g-images.amazon.com/images/G/01/nav/personalized/tabs/books-off-sliced.gif" width="39" height="26" border="0" alt="Books" title="Books" id="tb_books"></a></nobr></td><td colspan="2"><nobr><a href="/exec/obidos/tg/browse/-/1036592/ref%3Dtab%5Fgw%5Fap%5F4/"><img src="http://g-images.amazon.com/images/G/01/apparel/apparel-coat-tab_btm.gif" width="70" height="26" border="0" title="Apparel &amp; Accessories" alt="Apparel &amp; Accessories"></a><a href="/exec/obidos/tg/browse/-/172282/ref%3Dtab%5Fgw%5Fe%5F5/"><img src="http://g-images.amazon.com/images/G/01/nav/personalized/tabs/electronics-off-sliced.gif" width="74" height="26" border="0" alt="Electronics" title="Electronics" id="tb_electronics"></a><a href="/exec/obidos/tg/browse/-/171280/ref%3Dtab%5Fgw%5Ft%5F6/"><img src="http://g-images.amazon.com/images/G/01/nav/personalized/tabs/toys-off-sliced.gif" width="47" height="26" border="0" alt="Toys &amp; Games" title="Toys &amp; Games" id="tb_toys"></a><a href="/exec/obidos/tg/browse/-/5174/ref%3Dtab%5Fgw%5Fm%5F7/"><img src="http://g-images.amazon.com/images/G/01/nav/personalized/tabs/music-off-sliced.gif" width="39" height="26" border="0" alt="Music" title="Music" id="tb_music"></a><a href="/exec/obidos/tg/browse/-/468642/ref%3Dtab%5Fgw%5Fvg%5F8/"><img src="http://g-images.amazon.com/images/G/01/nav/personalized/tabs/videogames-off-sliced.gif" width="73" height="26" border="0" alt="Computer &amp; Video Games" title="Computer &amp; Video Games" id="tb_videogames"></a><a href="http://www.amazon.com/exec/obidos/subst/home/all-stores.html/ref%3Dtab_gw_storesdirectory/"><img src="http://g-images.amazon.com/images/G/01/nav/personalized/tabs/see-more-off-sliced.gif" width="70" height="26" border="0"></a></nobr></td>
 </tr>
 </tbody></table>
 </center>
@@ -123,9 +172,14 @@ Privacy Notice
 </tr>
 </tbody></table>
 <br>
-<table border="0" cellspacing="1" cellpadding="2">
-<tbody><tr>
-<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr width="100%">
+<td width="100%" valign="top">
+<table width="100%" border="0" cellspacing="0" cellpadding="1" bgcolor="ddddcc" align="center">
+<tbody><tr bgcolor="#ddddcc"> <td valign="top"> <table width="100%" border="0" align="center" cellpadding="4" cellspacing="0" bgcolor="#FFFFFF">
+<tbody><tr> <td width="100%">
+<span class="small">
+<a name="overview"></a>
 <a name="Amazon.comPrivacyNotice"></a><b class="sans"><font color="#CC6600">Amazon.com Privacy Notice</font></b><br> <p>Last updated: April 3, 2003</p> <p>Amazon.com knows that you care how information about you is used and
 shared, and we appreciate your trust that we will do so carefully and sensibly.
 This notice describes our privacy policy. <b>By visiting Amazon.com, you are
@@ -351,33 +405,129 @@ information (including name, e-mail, password, communications preferences,
 address book, and 1-Click settings); payment settings (including credit card
 information and gift certificate, gift card, and check balances); e-mail
 notification settings (including Alerts, Available to Order notifications,
-Delivers, New for You, Share the Love, Special Occasion Reminders, Weekly Movie
-Showtimes, and newsletters); recommendations (including recent product view
-history, prior order history, and Favorites); shopping lists and gift
-registries (including Wish Lists and Baby and Wedding Registries); Auctions,
-zShops, and Marketplace seller accounts; and your About You area (including
-your product Reviews, Requests, and Recommendations, Listmania lists, "So You'd
-Like to…" guides, personal profile, favorite people, and Amazon Friends).
-</p> <a name="co-branded"></a><b class="sans"><font color="#CC6600">Co-branded and Joint Offerings</font></b><br>
+Delivers, New for You, Special Occasion Reminders, Weekly Movie Showtimes, and
+newsletters); recommendations (including recent product view history, prior
+order history, and Favorites); shopping lists and gift registries (including
+Wish Lists and Baby and Wedding Registries); Auctions, zShops, and Marketplace
+seller accounts; and your About You area (including your product Reviews,
+Requests, and Recommendations, Listmania lists, "So You'd Like to…"
+guides, personal profile, favorite people, and Amazon Friends). </p> <a name="co-branded"></a><b class="sans"><font color="#CC6600">Co-branded and Joint Offerings</font></b><br>
 <p>Examples of businesses with which we offer joint or co-branded
 products and other offerings include Toysrus.com, Babiesrus.com,
-Imaginarium.com, Target, Circuit City, Borders, Waldenbooks, AT&amp;T Wireless,
-Sprint, T-Mobile, CarsDirect.com, Hotwire, drugstore.com, The Vacation Store,
+Imaginarium.com, Target, Borders, Waldenbooks, AT&amp;T Wireless, Sprint,
+T-Mobile, CarsDirect.com, Hotwire, drugstore.com, The Vacation Store,
 Ofoto.com, Office Depot, J&amp;R, Virginmega.com, Nordstrom, Eddie Bauer, and
-other apparel stores.</p> </td>
+other apparel stores.</p> </span>
+</td>
 </tr> </tbody></table>
-<p class="small" align="center">Did this help? <a href="/exec/obidos/subst/home/home.html">Continue shopping</a>.</p>
-<p class="small" align="center">Still have questions? <a href="/exec/obidos/tg/browse/-/508510">Search help</a> or <a href="/exec/obidos/handle-generic-form/?action=next-page&amp;target=stores/help/self-service-email-form-dispatch.html&amp;display=basic&amp;browse=560710&amp;method=GET">contact us</a>.</p>
-<br clear="all">
-<center>
-<form method="post" action="/exec/obidos/search-handle-form/">
-<table border="0" width="100%" cellpadding="1" cellspacing="0" bgcolor="#999999">
-<tbody><tr><td>
-<table border="0" width="100%" bgcolor="#ffffff" cellspacing="0" cellpadding="5" class="small">
-<tbody><tr valign="top"><td width="33%" class="small">
-<b>Where's My Stuff?</b><br>
-• Track your <a href="https://www.amazon.com/gp/css/history/view.html/?orderFilter=days-30">recent orders</a>.<br>
-• View or change your orders in <a href="/exec/obidos/account-access-login">Your Account</a>.
+</td>
+</tr>
+</tbody></table>
+<div style="margin-top:10px"></div> </td>
+<td>&nbsp;&nbsp;</td>
+<td width="210" valign="top">
+<table width="210" border="0" cellpadding="0" cellspacing="0" bgcolor="#ddddcc" align="center">
+<tbody><tr>
+<td width="1%" align="left" valign="top"><img src="http://g-images.amazon.com/images/G/01/icons/eyebrow-upper-left-corner" width="5" height="5" border="0"></td>
+<td width="98%" rowspan="2" align="left" valign="middle" style="padding:4px" class="small"><b>Did this page help?</b></td>
+<td width="1%" align="right" valign="top"><img src="http://g-images.amazon.com/images/G/01/icons/eyebrow-upper-right-corner" width="5" height="5"></td>
+</tr>
+</tbody></table>
+<table width="210" border="0" cellspacing="0" cellpadding="1" bgcolor="ddddcc" align="center">
+<tbody><tr bgcolor="#ddddcc"> <td valign="top">
+<table width="100%" border="0" align="center" cellpadding="4" cellspacing="0" bgcolor="#FFFFFF">
+<tbody><tr>
+<td bgcolor="#ffffff">
+<table cellpadding="1" border="0">
+<tbody><tr>
+<td bgcolor="#ffffff">
+<table cellpadding="2" border="0">
+<tbody><tr>
+<td valign="top"><div style="margin-top:4px"></div>
+<img src="http://g-images.amazon.com/images/G/01/icons/orange-arrow.gif" width="5" height="9" border="0"></td>
+<td width="100%"><span class="small">
+<a href="http://www.amazon.com/gp/help/hmd/hmd-yes.html?nodeId=468496">Yes, I found the information I needed</a>.</span>
+</td>
+</tr>
+</tbody></table>
+<div style="margin-top:10px"></div> <table cellpadding="2" border="0">
+<tbody><tr>
+<td valign="top">
+<div style="margin-top:4px"></div> <img src="http://g-images.amazon.com/images/G/01/icons/orange-arrow.gif" width="5" height="9" border="0"></td>
+<td width="100%">
+<span class="small"><a href="http://www.amazon.com/gp/help/hmd/hmd-no.html?nodeId=468496">No, this page wasn't helpful</a>.</span>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<br>
+<table width="210" border="0" cellpadding="0" cellspacing="0" bgcolor="#ddddcc" align="center">
+<tbody><tr>
+<td width="1%" align="left" valign="top"><img src="http://g-images.amazon.com/images/G/01/icons/eyebrow-upper-left-corner" width="5" height="5" border="0"></td>
+<td width="98%" rowspan="2" align="left" valign="middle" style="padding:4px" class="small"><b>Manage Your Account</b></td>
+<td width="1%" align="right" valign="top"><img src="http://g-images.amazon.com/images/G/01/icons/eyebrow-upper-right-corner" width="5" height="5"></td>
+</tr>
+</tbody></table>
+<table width="210" border="0" cellspacing="0" cellpadding="1" bgcolor="ddddcc" align="center">
+<tbody><tr bgcolor="#ddddcc"> <td valign="top">
+<table width="100%" border="0" align="center" cellpadding="4" cellspacing="0" bgcolor="#FFFFFF">
+<tbody><tr>
+<td bgcolor="#ffffff">
+<table cellpadding="1" border="0">
+<tbody><tr>
+<td bgcolor="#ffffff">
+<table cellpadding="1" border="0">
+<tbody><tr>
+<td>
+<table border="0">
+<tbody><tr>
+<td valign="top">• </td>
+<td><a href="/exec/obidos/flex-sign-in?opt=ab&amp;page=help/ya-sign-in-secure.html&amp;response=order-history-filtered&amp;method=POST&amp;ss-order-filter=wheres-my-stuff&amp;return-url=order-history-filtered&amp;cancel=y"><span class="small">Change or cancel an open order</span></a></td>
+</tr>
+<tr>
+<td valign="top">• </td>
+<td><a href="/exec/obidos/flex-sign-in?opt=ab&amp;page=help/ya-sign-in-secure.html&amp;response=order-history-filtered&amp;method=POST&amp;ss-order-filter=wheres-my-stuff&amp;return-url=order-history-filtered&amp;cancel=y"><span class="small">View all your orders.</span></a></td>
+</tr>
+<tr>
+<td valign="top">• </td>
+<td><a href="/exec/obidos/tg/browse/-/468540"><span class="small">Add an item to your order</span></a></td>
+</tr>
+<tr>
+<td valign="top">• </td>
+<td><a href="/exec/obidos/flex-sign-in/?opt=ab&amp;page=help/ya-sign-in-secure.html&amp;response=order-consolidate&amp;method=GET&amp;ss-order-filter=open-orders&amp;return-url=order-history-filtered&amp;combine=y"><span class="small">Combine open orders to save on shipping</span></a></td>
+</tr>
+<tr>
+<td valign="top">• </td>
+<td><a href="/exec/obidos/self-service-forgot-password-get-email/?return-url-code=3&amp;from-url-code=21"><span class="small">Forgot your password?</span></a></td>
+</tr>
+<tr>
+<td valign="top">• </td>
+<td><a href="/exec/obidos/tg/browse/-/13819211"><span class="small">Amazon Prime Member Shipping</span></a></td>
+</tr>
+</tbody></table>
+<div style="margin-top:5px"></div>
+&nbsp;<img src="http://g-images.amazon.com/images/G/01/x-locale/common/orange-arrow.gif" width="10" height="9" border="0">&nbsp;<span class="small"><a href="/exec/obidos/account-access-login"><span class="small">Go to Your Account</span></a></span>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<br>
 <script language="JavaScript1.1" type="text/javascript">
 <!--
 var agt=navigator.userAgent.toLowerCase();
@@ -417,7 +567,7 @@ message += '\n Required: '+width+' x '+height;
 if (confirm(message)) {
 message = "If you can not find the close buttons, use your keyboard:\n";
 message += 'Windows: ALT+F4\n';
-message += 'Macintosh: CONTROL+W';
+message += 'Macintosh: COMMAND+W';
 alert(message);
 openWin(URL, width, height);
 }
@@ -432,6 +582,24 @@ document.write(text);
 }
 //-->
 </script>
+<script language="JavaScript1.1" type="text/javascript">
+<!--
+//-->
+</script>
+</td>
+</tr>
+</tbody></table>
+<p class="small" align="center">Still have questions? <a href="/exec/obidos/tg/browse/-/508510">Search help</a> or <a href="http://www.amazon.com/gp/help/contact-us/general-questions.html/">contact us</a>.</p>
+<br clear="all">
+<center>
+<form method="post" action="/exec/obidos/search-handle-form/">
+<table border="0" width="100%" cellpadding="1" cellspacing="0" bgcolor="#999999">
+<tbody><tr><td>
+<table border="0" width="100%" bgcolor="#ffffff" cellspacing="0" cellpadding="5" class="small">
+<tbody><tr valign="top"><td width="33%" class="small">
+<b>Where's My Stuff?</b><br>
+• Track your <a href="https://www.amazon.com/gp/css/history/view.html/?orderFilter=days-30">recent orders</a>.<br>
+• View or change your orders in <a href="/exec/obidos/account-access-login">Your Account</a>.
 <script language="JavaScript1.1" type="text/javascript">
 <!--
 displayLink('<br>&#149; See our <a href=javascript:launch(\'/exec/obidos/subst/help/demo-wms/display-demo.html/\',788,444)>animated demo</a>!');
@@ -463,14 +631,15 @@ displayLink('&#149; New customer? <a href=javascript:launch(\'/exec/obidos/subst
 <b>Search&nbsp;</b>
 <select name="url">
 <option value="index=blended" selected="">All Products
-</option><option value="index=stripbooks">Books
+</option><option value="index=stripbooks:relevance-above">Books
 </option><option value="index=music">Popular Music
 </option><option value="index=music-dd">Music Downloads
 </option><option value="index=classical">Classical Music
 </option><option value="index=dvd">DVD
 </option><option value="index=vhs">VHS
 </option><option value="index=apparel-index&amp;platform=gurupa">Apparel
-</option><option value="index=restaurants">Restaurants
+</option><option value="index=local-index&amp;platform=gurupa">Yellow Pages</option>
+<option value="index=restaurants">Restaurants
 </option><option value="index=theatrical">Movie Showtimes
 </option><option value="index=toys">Toys
 </option><option value="index=baby">Baby
@@ -482,12 +651,12 @@ displayLink('&#149; New customer? <a href=javascript:launch(\'/exec/obidos/subst
 </option><option value="index=tools">Tools &amp; Hardware
 </option><option value="index=office-products">Office Products
 </option><option value="index=magazines">Magazines
-</option><option value="index=sporting-index&amp;platform=gurupa">Sporting Goods
+</option><option value="index=sporting-index&amp;platform=gurupa">Sports &amp; Outdoors
 </option><option value="index=garden">Outdoor Living
 </option><option value="index=kitchen">Kitchen
 </option><option value="index=jewelry-index&amp;platform=gurupa">Jewelry &amp; Watches
+</option><option value="index=beauty-index&amp;platform=gurupa">Beauty
 </option><option value="index=gourmet-index&amp;platform=gurupa">Gourmet Food Beta
-</option><option value="index=beauty-index&amp;platform=gurupa">Beauty Beta
 </option><option value="index=mi-index&amp;platform=gurupa">Musical Instruments
 </option><option value="index=hpc-index&amp;platform=gurupa">Health/Personal Care
 </option><option value="index=kitchen&amp;field-browse=12923371&amp;store-name=kitchen&amp;search-type=ss">Pet Supplies
@@ -500,8 +669,8 @@ displayLink('&#149; New customer? <a href=javascript:launch(\'/exec/obidos/subst
 </option><option value="index=moc-scientific-supplies">Scientific Supplies
 </option><option value="index=moc-medical-supplies">Medical Supplies
 </option><option value="index=moc-industrial-supplies">Indust. Supplies
-</option><option value="index=tools&amp;field-browse=553294&amp;store-name=hi">Automotive
-</option><option value="index=moc-home-furnishings">Home Furnishings
+</option><option value="index=automotive-index&amp;platform=gurupa">Automotive</option>
+<option value="index=moc-home-furnishings">Home Furnishings
 </option><option value="index=moc-lifestyle">Lifestyle
 </option><option value="index=moc-arts-hobby">Arts &amp; Hobbies
 </option></select>
@@ -538,6 +707,8 @@ Our International Sites:
 <a href="/exec/obidos/redirect-to-external-url/?path=http%3A//www.amazon.co.jp/exec/obidos/redirect-home%3Ftag%3Dintl-usstoreh-jphome-22%26site%3Damazon">Japan</a>
 &nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="/exec/obidos/redirect-to-external-url/?path=http%3A//www.amazon.fr/exec/obidos/redirect-home%3Fsite%3Damazon%26tag%3Dusfr-storeh-footer-21">France</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="/exec/obidos/redirect-to-external-url/?path=http%3A//www.joyo.com/%3Fsource%3Damazon-usstoreh">China</a>
 </p><p>
 <a href="/exec/obidos/tg/browse/-/518316">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="/exec/obidos/tg/browse/-/508510/">Help</a>&nbsp;&nbsp;|&nbsp;&nbsp;
@@ -546,16 +717,16 @@ Our International Sites:
 <a href="http://www.amazon.com/gp/browse.html/?node=3309511">Sell Items</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="/exec/obidos/flex-sign-in/?opt=a&amp;page=ordering/one-click-address-sign-in-secure.html&amp;response=one-click-main&amp;method=GET&amp;return-url=one-click-main">1-Click Settings</a><br></p><p>
 <a href="/exec/obidos/redirect-to-external-url/?path=http%3A//phx.corporate-ir.net/phoenix.zhtml%3Fc%3D97664%26p%3Dirol-irhome">Investor Relations</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="/exec/obidos/redirect-to-external-url/?path=http%3A//phx.corporate-ir.net/phoenix.zhtml%3Fc%3D97664%26p%3Dirol-news%5F2004">Press Releases</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="/exec/obidos/redirect-to-external-url/?path=http%3A//phx.corporate-ir.net/phoenix.zhtml%3Fc%3D97664%26p%3Dirol-news%5F2005">Press Releases</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="/exec/obidos/tg/stores/job-listings/-/generic/home/">Join Our Staff</a>
 </p></center>
 <center>
 <p>
 </p><div class="tiny" align="center">
-<a href="/exec/obidos/subst/misc/policy/conditions-of-use.html/">Conditions of Use</a> | <a href="/exec/obidos/tg/browse/-/468496/">Privacy Notice</a> © 1996-2004, Amazon.com, Inc. or its affiliates
+<a href="/exec/obidos/subst/misc/policy/conditions-of-use.html/">Conditions of Use</a> | <a href="/exec/obidos/tg/browse/-/468496/">Privacy Notice</a> © 1996-2005, Amazon.com, Inc. or its affiliates
 </div>
 </center>
-<!-- whfh0gK56vsruyt4Yw5owCA6ERujH8Fu59pG -->
+<!-- whfhwuaXSQcEAw+dxLqalk/y0UFaVRKjTEDr -->
 <script language="Javascript1.1" type="text/javascript">
 <!--
 top.focus();
