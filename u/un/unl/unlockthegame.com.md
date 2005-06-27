@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unlockthegame.com privacy policy that was archived on 2004-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041213185347id_/http%3A//www.unlockthegame.com/utility/showArticle%3FobjectID%3D16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unlockthegame.com privacy policy that was archived on 2005-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050627080422id_/http%3A//www.unlockthegame.com/utility/showArticle%3FobjectID%3D16) for the most accurate reproduction.*
 
 # Home Page - Welcome to Ari Galper's Unlock The Game,Welcome to Ari Galper's Unlock The Game,Welcome to Ari Galper's UnlockTheGame.com
 
