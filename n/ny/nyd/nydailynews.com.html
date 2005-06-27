@@ -1,10 +1,18 @@
-<!--The following is the downloaded HTML source of the nydailynews.com privacy policy that was archived on 2004-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041214090738id_/http%3A//www.nydailynews.com/scontent/private_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nydailynews.com privacy policy that was archived on 2005-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050627082835id_/http%3A//www.nydailynews.com/scontent/private_policy) for the most accurate reproduction.-->
 
 <html lang="en"><!-- Component: NYDailyNews : component/head/default_head.comp --><head>
         <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
         <title>New York Daily News - Private Policy</title>
         <meta keywords="Private Policy">
+        <!-- Component: NYDailyNews : component/rss/rss_link.comp -->
+
+<!--  No mapping for if evaluation: /scontent/private_policy = /scontent/private_policy -->
+
+
+
+
+<!-- Component: NYDailyNews : component/rss/rss_link.comp -->
         <link href="/includes/new_dn_styles.css" rel="stylesheet" type="text/css">
 <script language="JavaScript">
         function doSearch()
@@ -80,13 +88,7 @@ top.location = self.location.href
 
 
 <body topmargin="0" vlink="#660099" text="#000000" marginheight="0" bgcolor="#FFFFFF" leftmargin="0" link="#0000CC" marginwidth="0" alink="#FF0000">
-<!-- Component: NYDailyNews : component/sitewide/awm_menu_call_relative.comp -->
-<table cellpadding="0" cellspacing="0" border="0">
-<tbody><tr><td>
-
-</td></tr>
-</tbody></table>
-<!-- Component: NYDailyNews : component/sitewide/awm_menu_call_relative.comp -->
+<span id="xawmMenuPathImg-top_nav" style="position:absolute;top:-50px"><img name="awmMenuPathImg-top_nav" id="awmMenuPathImg-top_nav" src="/includes/top_nav/awmmenupath.gif" alt=""></span><script type="text/javascript">var MenuLinkedBy='AllWebMenus [2]', awmBN='528'; awmAltUrl='';</script><script src="/includes/top_nav/top_nav.js" language="JavaScript1.2" type="text/javascript"></script><script src="https://web.archive.org/includes/top_nav/awmData-top_nav/awmlib7.js"></script><script type="text/javascript">awmBuildMenu();</script>
 
 <!--
 ********************************************************************************
@@ -97,7 +99,7 @@ top.location = self.location.href
 <!-- Component: NYDailyNews : component/sitewide/masthead.comp -->
 <table width="770" cellspacing="0" cellpadding="0" border="0" bgcolor="000000"><tbody><tr><td>
 			<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td height="85">
-						<a href="http://em03.com/ny/index.html"><img src="/images/emaildog.gif" height="85" width="140" border="0" hspace="0" vspace="0"></a><br>
+						<a href="/news/gossip/index.html"><img src="/images/daily.gif" height="85" width="140" border="0" hspace="0" vspace="0"></a><br>
 				</td></tr>
 <!----------------------------------------------------------------------------->
 <!--            START CODE FOR UPPER LEFT HORIZONTAL BAR                     -->
@@ -137,36 +139,36 @@ top.location = self.location.href
 
 
 
-var detect = navigator.userAgent.toLowerCase();
-var OS,browser,version,total,thestring;
+// var detect = navigator.userAgent.toLowerCase();
+// var OS,browser,version,total,thestring;
 
-if (checkIt('konqueror'))
-{
-	browser = "Konqueror";
-	OS = "Linux";
-}
-else if (checkIt('safari')) browser = "Safari"
-else if (checkIt('omniweb')) browser = "OmniWeb"
-else if (checkIt('opera')) browser = "Opera"
-else if (checkIt('webtv')) browser = "WebTV";
-else if (checkIt('icab')) browser = "iCab"
-else if (checkIt('msie')) browser = "Internet Explorer"
-else if (!checkIt('compatible'))
-{
-	browser = "Netscape Navigator"
-	version = detect.charAt(8);
-}
-else browser = "An unknown browser";
+// if (checkIt('konqueror'))
+// {
+// 	browser = "Konqueror";
+// 	OS = "Linux";
+// }
+// else if (checkIt('safari')) browser = "Safari"
+// else if (checkIt('omniweb')) browser = "OmniWeb"
+// else if (checkIt('opera')) browser = "Opera"
+// else if (checkIt('webtv')) browser = "WebTV";
+// else if (checkIt('icab')) browser = "iCab"
+// else if (checkIt('msie')) browser = "Internet Explorer"
+// else if (!checkIt('compatible'))
+// {
+// 	browser = "Netscape Navigator"
+// 	version = detect.charAt(8);
+// }
+// else browser = "An unknown browser";
+// 
+// //if (!version) version = detect.charAt(place + thestring.length);
 
-//if (!version) version = detect.charAt(place + thestring.length);
 
-
-function checkIt(string)
-{
-	place = detect.indexOf(string) + 1;
-	thestring = string;
-	return place;
-}
+// function checkIt(string)
+// {
+// 	place = detect.indexOf(string) + 1;
+// 	thestring = string;
+// 	return place;
+// }
 
 
 
@@ -184,67 +186,111 @@ function checkIt(string)
              document.search_form2.action = searchURL;
              document.search_form2.QryTxt.value = document.search_form2.sf_dwb_target.value;
 
-MonthEnd = new Array(12);
-MonthEnd[0]  = 31;
-MonthEnd[1]  = 28;
-MonthEnd[2]  = 31;
-MonthEnd[3]  = 30;
-MonthEnd[4]  = 31;
-MonthEnd[5]  = 30;
-MonthEnd[6]  = 31;
-MonthEnd[7]  = 31;
-MonthEnd[8]  = 30;
-MonthEnd[9]  = 31;
-MonthEnd[10] = 30;
-MonthEnd[11] = 31;
+var ONE_DAY = 1000 * 60 * 60 * 24;
 
 TheDate = new Date();
-var CurDay   = TheDate.getDay();
-var CurMonth = TheDate.getMonth();
-var CurDate  = TheDate.getDate();
-var CurYear  = TheDate.getYear();
-var startDate;
+var the_time =  TheDate.getTime();
 
-if(CurYear%4 == 0) {
-   MonthEnd[1]=29;
-}
+// MonthEnd = new Array(12);
+// MonthEnd[0]  = 31;
+// MonthEnd[1]  = 28;
+// MonthEnd[2]  = 31;
+// MonthEnd[3]  = 30;
+// MonthEnd[4]  = 31;
+// MonthEnd[5]  = 30;
+// MonthEnd[6]  = 31;
+// MonthEnd[7]  = 31;
+// MonthEnd[8]  = 30;
+// MonthEnd[9]  = 31;
+// MonthEnd[10] = 30;
+// MonthEnd[11] = 31;
 
-   var nextMonth=CurMonth;
-   //the following 2 lines are necessary to cast it as a number
-   nextMonth-=1;
-   nextMonth+=1;
-   var nextDay=CurDate;
-   //the following 2 lines are necessary to cast it as a number
-   nextDay-=1;
-   nextDay+=1;
-   var nextYear=CurYear;
-   //the following 2 lines are necessary to cast it as a number
-   nextYear-=1;
-   nextYear+=1;
 
-if (checkIt('msie')) {
-   if(nextYear<100) {
-      nextYear+=1900;
-   }
-} else {
-   nextYear+=1900;
-} 
+var last_week = new Date( the_time - 8 * ONE_DAY );
+// var last_date = last_week.getDate();
+// var last_month = last_week.getMonth();
+// var last_year = last_week.getFullYear();
+                                                                                
+// if(last_date > MonthEnd[last_month])
+// {
+//     last_date = 1;
+//     last_month = last_month + 1;  // Increment once because our month
+//                                   // is zero based, increment again because
+//                                   // our month just rolled over
+// }
+// last_month = last_month + 1;
+// if(last_month > 12)
+// {     last_month = 1;     // Our year just rolled over
+//     last_year = last_year + 1;
+// }
 
-   if(nextDay<9) {
-      if(nextMonth==1) {
-         nextMonth=12;
-         nextDay = (31 - (8-nextDay));     // this gives the 7 previous days
-         nextYear-=1;
-      } else {
-         nextDay = (MonthEnd[nextMonth-1] - (8-nextDay));     // this gives the 7 previous days 
-      }
-   } else {
-      nextMonth+=1;
-      nextDay-=8;
-   }
-             startDate="> "+nextMonth+"/"+nextDay+"/"+nextYear+" 11:59:59";
-             document.search_form2.sf_dwb_psd_publish_dt.value=startDate;
+var startDate="> "+ (last_week.getMonth() + 1) +"/"+ last_week.getDate() +"/"+ last_week.getFullYear() +" 11:59:59";
+// var startDate="> "+ last_month +"/"+ last_date +"/"+ last_year +" 11:59:59";
 
+document.search_form2.sf_dwb_psd_publish_dt.value=startDate;
+return;
+
+// MonthEnd = new Array(12);
+// MonthEnd[0]  = 31;
+// MonthEnd[1]  = 28;
+// MonthEnd[2]  = 31;
+// MonthEnd[3]  = 30;
+// MonthEnd[4]  = 31;
+// MonthEnd[5]  = 30;
+// MonthEnd[6]  = 31;
+// MonthEnd[7]  = 31;
+// MonthEnd[8]  = 30;
+// MonthEnd[9]  = 31;
+// MonthEnd[10] = 30;
+// MonthEnd[11] = 31;
+// 
+// TheDate = new Date();
+// var CurDay   = TheDate.getDay();
+// var CurMonth = TheDate.getMonth();
+// var CurDate  = TheDate.getDate();
+// var CurYear  = TheDate.getYear();
+// var startDate;
+// 
+// if(CurYear%4 == 0) {
+//    MonthEnd[1]=29;
+// }
+// 
+//   var nextMonth=CurMonth;
+//    //the following 2 lines are necessary to cast it as a number
+//    nextMonth-=1;
+//    nextMonth+=1;
+ //   var nextDay=CurDate;
+//    //the following 2 lines are necessary to cast it as a number
+//    nextDay-=1;
+//    nextDay+=1;
+//    var nextYear=CurYear;
+//    //the following 2 lines are necessary to cast it as a number
+//    nextYear-=1;
+//    nextYear+=1;
+
+// if (checkIt('msie')) {
+//    if(nextYear<100) {
+//       nextYear+=1900;
+//    }
+// } else {
+//    nextYear+=1900;
+// } 
+// 
+//    if(nextDay<9) {
+//       if(nextMonth==1) {
+//          nextMonth=12;
+//          nextDay = (31 - (8-nextDay));     // this gives the 7 previous days
+//          nextYear-=1;
+//       } else {
+//          nextDay = (MonthEnd[nextMonth-1] - (8-nextDay));     // this gives the 7 previous days 
+//       }
+//    } else {
+//       nextMonth+=1;
+//       nextDay-=8;
+//    }
+//              startDate="> "+nextMonth+"/"+nextDay+"/"+nextYear+" 11:59:59";
+ //             document.search_form2.sf_dwb_psd_publish_dt.value=startDate;
+// 
         }
 
 	// end hiding -->
@@ -330,7 +376,7 @@ if (checkIt('msie')) {
 
 <table bgcolor="#000000" border="0" height="26" cellpadding="0" cellspacing="0" width="770">
 <tbody><tr>
-<td><span id="awmAnchor-top_nav" class="awmAnchor">&nbsp;</span></td></tr></tbody></table>
+<td><span id="awmAnchor-top_nav" class="awmAnchor" style="position: relative; top: -8px;">&nbsp;</span></td></tr></tbody></table>
 
 <!--
 ********************************************************************************
@@ -403,7 +449,7 @@ if (checkIt('msie')) {
 <!-- Start Real Media Ad Tag -->
 
 <div id="awmobject1">
-<script language="JavaScript1.1" src="http://adserver.nydailynews.com/RealMedia/ads/adstream_jx.cgi/nydailynews.services.com//scontent/private_policy@Frame2,Top2,Bottom2,x10,x12!Top2?Qb6tUj9Xq64AAUXoTvk"></script>
+<script language="JavaScript1.1" src="http://adserver.nydailynews.com/RealMedia/ads/adstream_jx.cgi/nydailynews.services.com//scontent/private_policy@Frame2,Top2,Bottom2,x10,x12!Top2?Qr@4sz9Xq6oAAX172mA"></script>
 <script language="JavaScript"> 
 <!--
 _version=10;
@@ -417,7 +463,7 @@ _version=11;
 <script language="JavaScript">
 <!--
 if (_version < 11) {
-	document.write('<A HREF="http://adserver.nydailynews.com/RealMedia/ads/click_nx.cgi/nydailynews.services.com//scontent/private_policy@Frame2,Top2,Bottom2,x10,x12!Top2?Qb6tUj9Xq64AAUXoTvk"><IMG SRC="http://adserver.nydailynews.com/RealMedia/ads/adstream_nx.cgi/nydailynews.services.com//scontent/private_policy@Frame2,Top2,Bottom2,x10,x12!Top2?Qb6tUj9Xq64AAUXoTvk" border="0"></a>');
+	document.write('<A HREF="http://adserver.nydailynews.com/RealMedia/ads/click_nx.cgi/nydailynews.services.com//scontent/private_policy@Frame2,Top2,Bottom2,x10,x12!Top2?Qr@4sz9Xq6oAAX172mA"><IMG SRC="http://adserver.nydailynews.com/RealMedia/ads/adstream_nx.cgi/nydailynews.services.com//scontent/private_policy@Frame2,Top2,Bottom2,x10,x12!Top2?Qr@4sz9Xq6oAAX172mA" border="0"></a>');
 }
 //-->
 </script>
@@ -592,7 +638,7 @@ Webmaster<br>
 <tr><td colspan="6">
 
 <!-- Start Real Media Ad Call -->
-<script language="JavaScript1.1" src="http://adserver.nydailynews.com/RealMedia/ads/adstream_jx.cgi/nydailynews.homepage.com/scontent/private_policy@Frame2,Bottom2,x10,x11,x12!Bottom2?Qb6tUj9Xq64AAUXoTvk"></script>
+<script language="JavaScript1.1" src="http://adserver.nydailynews.com/RealMedia/ads/adstream_jx.cgi/nydailynews.homepage.com/scontent/private_policy@Frame2,Bottom2,x10,x11,x12!Bottom2?Qr@4sz9Xq6oAAX172mA"></script>
 <script language="JavaScript"> 
 <!--
 _version=10;
@@ -606,7 +652,7 @@ _version=11;
 <script language="JavaScript">
 <!--
 if (_version < 11) {
-	document.write('<A HREF="http://adserver.nydailynews.com/RealMedia/ads/click_nx.cgi/nydailynews.homepage.com//scontent/private_policy@Frame2,Bottom2,x10,x11,x12!Bottom2?Qb6tUj9Xq64AAUXoTvk"><IMG SRC="http://adserver.nydailynews.com/RealMedia/ads/adstream_nx.cgi/nydailynews.homepage.com/scontent/private_policy@Frame2,Bottom2,x10,x11,x12!Bottom2?Qb6tUj9Xq64AAUXoTvk" border="0"></a>');
+	document.write('<A HREF="http://adserver.nydailynews.com/RealMedia/ads/click_nx.cgi/nydailynews.homepage.com//scontent/private_policy@Frame2,Bottom2,x10,x11,x12!Bottom2?Qr@4sz9Xq6oAAX172mA"><IMG SRC="http://adserver.nydailynews.com/RealMedia/ads/adstream_nx.cgi/nydailynews.homepage.com/scontent/private_policy@Frame2,Bottom2,x10,x11,x12!Bottom2?Qr@4sz9Xq6oAAX172mA" border="0"></a>');
 }
 //-->
 </script>
@@ -738,7 +784,7 @@ other Real Cities sites</b></font><br>
   <tr> 
     <td colspan="3" align="center"> 
       <p class="legalese"><br>
-        All contents © 2004 Daily News, L.P.<br>
+        All contents © 2005 Daily News, L.P.<br>
         <a href="/scontent/disclaimer" class="legalred"> Disclaimer and Copyright Notice</a>&nbsp;|&nbsp;<a href="/scontent/private_policy" class="legalred">Our Privacy Policy</a><br></p></td>
   </tr>
 
@@ -751,7 +797,7 @@ other Real Cities sites</b></font><br>
 </tbody></table>
 <!-- Component: NYDailyNews : component/sitewide/copyright.comp -->
 
-
+ 
 
 <!----------------------------------------------------------------------------->
 <!--                  END CODE FOR FOOTER / COPYRIGHT                        -->
@@ -770,14 +816,8 @@ other Real Cities sites</b></font><br>
 </tbody></table>
 
 
-<!-- Component: NYDailyNews : component/sitewide/awm_menu_call.comp -->
-<!-- DO NOT MOVE! The following AllWebMenus code MUST ALWAYS BE PLACED JUST BEFORE THE /BODY TAG -->
-<!-- ******** BEGIN ALLWEBMENUS CODE FOR top_nav ******** -->
-<img name="awmMenuPathImg-top_nav" id="awmMenuPathImg-top_nav" src="/includes/top_nav/awmmenupath.gif" alt="">
-<script type="text/javascript">var MenuLinkedBy='AllWebMenus [2]', awmBN='506'; awmAltUrl='';</script>
-<script src="/includes/top_nav/top_nav.js" language="JavaScript1.2" type="text/javascript"></script><script src="https://web.archive.org/includes/top_nav/awmData-top_nav/awmlib7.js"></script>
-<script type="text/javascript">awmBuildMenu();</script>
-<!-- ******** END ALLWEBMENUS CODE FOR top_nav ******** -->
+
+
 
 
 
