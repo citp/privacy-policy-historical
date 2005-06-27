@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the on.com privacy policy that was archived on 2004-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041218022239id_/http%3A//www.symantec.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the on.com privacy policy that was archived on 2005-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050627235935id_/http%3A//www.symantec.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -18,7 +18,7 @@ TRUSTe is an independent, non-profit initiative whose mission is to build usersâ
   * With whom the information may be shared
   * How you can correct inaccuracies in the information
 
-| [](https://www.truste.org/validate/8517)  
+| [](http://www.truste.org/ivalidate.php?url=www.symantec.com)  
   
 The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
 
