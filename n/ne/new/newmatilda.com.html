@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the newmatilda.com privacy policy that was archived on 2004-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041205033825id_/http%3A//www.newmatilda.com/home/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newmatilda.com privacy policy that was archived on 2005-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050627022353id_/http%3A//www.newmatilda.com/home/privacypolicy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/transitional.dtd"><html lang="en"><head>
 	<title>New Matilda</title>
@@ -55,6 +55,16 @@ a.dropDown:visited { font-family: Verdana, Arial, Helvetica, sans-serif; font-si
 a.dropDown:link { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #000000; text-decoration : none; }
 a.dropDown:active { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #000000; text-decoration: none; }
 a.dropDown:hover { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #666666; text-decoration : none; }
+
+.toprightmenu {
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+    font-size: 11px;
+    line-height: 14px;
+    color: #000000;
+    text-decoration: none;
+    letter-spacing: .2px; }
+	
+
 
 a.nav:visited {	
 	font-family: Verdana, Arial, Helvetica, sans-serif;
@@ -137,6 +147,14 @@ th.topRight {
     border-right-style : solid;
     border-right-width : 1px; }
 	
+td.menulink {
+    border-top-width : 1px;
+    border-top-style : solid;
+    border-top-color : Black;
+    border-left-color : Black;
+    border-left-style : solid;
+    border-left-width : 1px; }
+
 td.topLeft {
     border-top-width : 1px;
     border-top-style : solid;
@@ -577,6 +595,22 @@ li.upperRoman {
 	font-size : 10px;
 }
 
+.faq{
+	background-image : url(../images/faq.gif);
+	font-weight : bold;
+	padding-left : 10px;
+	padding-right : 5px;
+	font-size : 10px;
+}
+
+.faq2{
+	background-image : url(../images/faq2.gif);
+	font-weight : bold;
+	padding-left : 18px;
+	padding-right : 5px;
+	font-size : 10px;
+}
+
 .writeforus{
 	background-image : url(../images/writeforUs.gif);
 	font-weight : bold;
@@ -745,7 +779,10 @@ li.upperRoman {
 
 .formstyle1 {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000000}
 
-</style><script language="JavaScript" type="text/javascript">
+select.searchselect {font-family : Verdana, Arial, Helvetica, Sans-serif; font-size: 11px; color: #333333; width: 90px;}
+
+</style>
+<script language="JavaScript" type="text/javascript">
 function forgotPassword()
 {
 	newWin = window.open("http://www.newmatilda.com/login/forgotpassword.asp", "_forgotpassword", "width=300,height=200, resizable=true, sizable = true");
@@ -765,13 +802,18 @@ function checkString()
 </head>
 <body bgcolor="#FFFFFF" onload="preloadImages();">
 
+
+<script type="text/javascript" src="http://www.newmatilda.com/js/cookie.js"></script>
+<script type="text/javascript" src="http://www.newmatilda.com/js/scale.js"></script>
+
+
+
 <script language="JavaScript" type="text/javascript">
-// <![CDATA[
 function SearchKeywordCheck(formName)
 {
-	if (formName.searchkeyword.value.length < 4)
+	if (formName.searchkeyword.value.length < 3)
 	{
-		alert('Please enter a keyword (more than 4 characters)');
+		alert('Please enter a keyword (more than 3 characters)');
 		formName.searchkeyword.focus();
 		return false;
 	}
@@ -793,7 +835,7 @@ function SearchKeywordCheck(formName)
 					<table width="100%" border="0" cellpadding="0" cellspacing="0">
 						<tbody><tr>
 							<td height="60" align="left" valign="top"><a href="http://www.newmatilda.com/home/default.asp"><img src="../images/logo.gif" alt="" width="262" height="60" border="0"></a></td>
-							<td class="date" valign="bottom" align="right" width="300" height="60"><span class="white">Sunday, December 05, 2004&nbsp;</span></td>
+							<td class="date" valign="bottom" align="right" width="300" height="60"><span class="white">Monday&nbsp;27&nbsp;June&nbsp;2005&nbsp;</span></td>
 						</tr>
 					</tbody></table>
 				</td>
@@ -802,14 +844,36 @@ function SearchKeywordCheck(formName)
 				<td valign="top" width="100%" height="10"><img src="../images/headerTile.gif" alt="" width="100%" height="10" border="0"></td>
 			</tr>
 			<tr>
-				<td width="100%" valign="top" bgcolor="#720D0D"><table cellpadding="5" cellspacing="0" border="0" width="100%"><form action="http://www.newmatilda.com/Search/default.asp" method="post" name="frmSearchKeyword" onsubmit="return SearchKeywordCheck(frmSearchKeyword)"></form><tbody><tr><td bgcolor="#720D0D" align="left">&nbsp;<span class="white">Search:</span> <input type="text" class="bodyText" name="searchkeyword" value="" onclick="checkString();">&nbsp;<input class="button" type="submit" value="Search">&nbsp;<input onclick="window.location='http://www.newmatilda.com/Search/advancesearch.asp'" class="button" type="button" value="Advanced"></td><td bgcolor="#720D0D"><img src="../images/spacer.gif" alt="" width="1" height="1" border="0"></td><td bgcolor="#720D0D" align="right"><a href="https://www.newmatilda.com/subscribe/addProfile.asp" class="whiteMenu"><span class="whiteBold">Subscribe</span></a> <span class="whiteBold">|</span> <a href="https://www.newmatilda.com/ssl/donate.asp" class="whiteMenu"><span class="whiteBold">Donate</span></a><img src="../images/spacer.gif" alt="" width="5" height="1" border="0"></td></tr></tbody></table></td>
+            <td width="100%" valign="top" bgcolor="#720D0D">
+               <table cellpadding="5" cellspacing="0" border="0" width="100%">
+               <form action="http://www.newmatilda.com/Search/default.asp" method="post" name="frmSearchKeyword" onsubmit="return SearchKeywordCheck(frmSearchKeyword)"></form>
+                  <tbody><tr>
+                     <td bgcolor="#720D0D" align="left">&nbsp;<span class="white">Search:</span>
+                     <span class="white">
+			<input type="text" class="bodyText" name="searchkeyword" value="" onclick="checkString();">
+			<span class="white">in</span>
+			<select name="searcharea" value="" class="searchselect">
+				<option value="0" selected="">Authors</option>
+				<option value="1">Subject</option>
+			</select>
+         </span>
+			<input class="button" type="submit" value="Search">&nbsp;<input onclick="window.location='http://www.newmatilda.com/Search/advancesearch.asp'" class="button" type="button" value="Advanced">
+                     </td>
+                     
+               <td bgcolor="#720D0D"><img src="../images/spacer.gif" alt="" width="1" height="1" border="0"></td>
+               <td bgcolor="#720D0D" align="right"><a href="https://www.newmatilda.com/subscribe/addProfile.asp" class="whiteMenu"><span class="whiteBold">Subscribe</span></a> <span class="whiteBold">|</span> <a href="https://www.newmatilda.com/ssl/donate.asp" class="whiteMenu"><span class="whiteBold">Donate</span></a><img src="../images/spacer.gif" alt="" width="5" height="1" border="0">
+               </td>
+             </tr>
+          
+          </tbody></table>
+          </td>
 			</tr>
 			<tr>
 				<td valign="top" height="100%">
 				<table cellpadding="0" cellspacing="0" border="0" width="100%" class="main">
 					<tbody><tr>
 						<td valign="top" height="100%" bgcolor="#666666" class="grey">
-							<table width="131" border="0" cellpadding="0" cellspacing="0" class="main">
+							<table width="131" border="0" cellpadding="0" cellspacing="0">
 								<!--tr>
 									<td width="131" height="2">
 										<img src="../images/spacer.gif" width="131" height="2" alt="" /></td>
@@ -830,6 +894,14 @@ function SearchKeywordCheck(formName)
 								</tr>
 								
 								<tr>
+									<td class="faq" width="131" height="14"><a href="http://www.newmatilda.com/faq/default.asp" class="whiteMenu">FAQ</a></td>
+								</tr>
+								
+								<tr>
+									<td class="grey" width="131" height="1">
+										<img src="../images/spacer.gif" width="131" height="1" alt=""></td>
+								</tr>
+								<tr>
 									<td class="writeforus" width="131" height="14"><a href="http://www.newmatilda.com/writeforus/default.asp" class="whiteMenu">Write For Us</a></td>
 								</tr>
 								<tr>
@@ -837,7 +909,7 @@ function SearchKeywordCheck(formName)
 										<img src="../images/spacer.gif" width="131" height="1" alt=""></td>
 								</tr>
 								<tr>
-									<td class="TakeBack" width="131" height="14"><a href="http://www.newmatilda.com/policytoolkit/default.asp" class="whiteMenu">Policy Think Tank</a></td>
+									<td class="TakeBack" width="131" height="14"><a href="http://www.newmatilda.com/policytoolkit/listcategory.asp" class="whiteMenu">Policy Portal</a></td>
 								</tr>
 								<tr>
 									<td class="grey" width="131" height="1">
@@ -852,44 +924,75 @@ function SearchKeywordCheck(formName)
 								</tr>
 								
 										<tr>
-											<td class="point" width="131" height="14"><a href="http://www.newmatilda.com/home/listcategory.asp?CategoryID=24" class="whiteMenu">This week</a></td>
+											<td class="point" width="131" height="14"><a href="http://www.newmatilda.com/home/listcategory.asp?CategoryID=67" class="whiteMenu">This week</a></td>
 										</tr>
+
+
 										<!--for sub menu, need to use ASP to call if the page then read these TR(s)-->
 										
 										<!--end sub menu-->
+                              
 										<tr>
 											<td class="grey" width="131" height="1">
 												<img src="../images/spacer.gif" width="131" height="1" alt=""></td>
 										</tr>
 								
 										<tr>
-											<td class="point" width="131" height="14"><a href="http://www.newmatilda.com/home/listcategory.asp?CategoryID=25" class="whiteMenu">Issue 14</a></td>
+											<td class="point" width="131" height="14"><a href="http://www.newmatilda.com/home/listcategory.asp?CategoryID=66" class="whiteMenu">Issue 42</a></td>
 										</tr>
+
+
 										<!--for sub menu, need to use ASP to call if the page then read these TR(s)-->
 										
 										<!--end sub menu-->
+                              
 										<tr>
 											<td class="grey" width="131" height="1">
 												<img src="../images/spacer.gif" width="131" height="1" alt=""></td>
 										</tr>
 								
 										<tr>
-											<td class="point" width="131" height="14"><a href="http://www.newmatilda.com/home/listcategory.asp?CategoryID=26" class="whiteMenu">Issue 13</a></td>
+											<td class="point" width="131" height="14"><a href="http://www.newmatilda.com/home/listcategory.asp?CategoryID=63" class="whiteMenu">Issue 41</a></td>
 										</tr>
+
+
 										<!--for sub menu, need to use ASP to call if the page then read these TR(s)-->
 										
 										<!--end sub menu-->
+                              
 										<tr>
 											<td class="grey" width="131" height="1">
 												<img src="../images/spacer.gif" width="131" height="1" alt=""></td>
 										</tr>
 								
 										<tr>
-											<td class="point" width="131" height="14"><a href="http://www.newmatilda.com/home/listcategory.asp?CategoryID=27" class="whiteMenu">Archive</a></td>
+											<td class="point" width="131" height="14"><a href="http://www.newmatilda.com/home/listcategory.asp?CategoryID=62" class="whiteMenu">Issue 40</a></td>
 										</tr>
+
+
 										<!--for sub menu, need to use ASP to call if the page then read these TR(s)-->
 										
 										<!--end sub menu-->
+                              
+										<tr>
+											<td class="grey" width="131" height="1">
+												<img src="../images/spacer.gif" width="131" height="1" alt=""></td>
+										</tr>
+								
+										<tr>
+											<td class="point" width="131" height="14"><a href="http://www.newmatilda.com/home/listcategory.asp?CategoryID=-1" class="whiteMenu">
+Archive
+	<!--for sub menu, need to use ASP to call if the page then read these TR(s)-->
+	
+	<!--end sub menu-->
+</a></td>
+										</tr>
+
+
+										<!--for sub menu, need to use ASP to call if the page then read these TR(s)-->
+										
+										<!--end sub menu-->
+                              
 										<tr>
 											<td class="grey" width="131" height="1">
 												<img src="../images/spacer.gif" width="131" height="1" alt=""></td>
@@ -903,21 +1006,7 @@ function SearchKeywordCheck(formName)
 										<img src="../images/spacer.gif" width="131" height="1" alt=""></td>
 								</tr>
 								<tr>
-									<td class="election" width="131" height="14"><a href="http://www.newmatilda.com/electionUpdates/default.asp" class="whiteMenu">News Updates</a></td>
-								</tr>
-								<tr>
-									<td class="grey" width="131" height="1">
-										<img src="../images/spacer.gif" width="131" height="1" alt=""></td>
-								</tr>
-								<tr>
 									<td class="donate" width="131" height="14"><a href="https://www.newmatilda.com/ssl/donate.asp" class="whiteMenu">Donate</a></td>
-								</tr>
-								<tr>
-									<td class="grey" width="131" height="1">
-										<img src="../images/spacer.gif" width="131" height="1" alt=""></td>
-								</tr>
-								<tr>
-									<td class="shout" width="131" height="14"><a href="http://www.newmatilda.com/contactus/contactus.asp" class="whiteMenu">Your Shout</a></td>
 								</tr>
 								<tr>
 									<td class="grey" width="131" height="1">
@@ -934,14 +1023,55 @@ function SearchKeywordCheck(formName)
 								<tr>
 									<td class="grey" width="131" height="20"><img src="../images/spacer.gif" width="131" height="20" alt=""></td>
 								</tr>
-								
+                        <!-- insert announcements -->
+                        
+                        <tr>
+                          <td valign="top">
+                            <table width="100%" border="0" cellpadding="5" cellspacing="5">
+                        
+                           <tbody><tr>
+                             <td width="131" valign="top"><span><a href="http://www.newmatilda.com/home/articledetailmagazine.asp?ArticleID=719&amp;HomepageID=83" target="_blank">  
+<b>Position available</b>
+New Matilda Editor (part-time) - Sydney</a></span></td>
+                           </tr>  
+                        
+                           <tr>
+                             <td width="131" valign="top"><span><a href="http://www.newmatilda.com/home/articledetailmagazine.asp?ArticleID=701&amp;HomepageID=83" target="_blank"><b>New Matilda Human Rights Act</b></a><a></a></span></td>
+                           </tr>  
+                        
+                           <tr>
+                             <td width="131" valign="top"><span><a href="http://www.newmatilda.com/home/articledetailmagazine.asp?ArticleID=731&amp;HomepageID=87" target="_blank">  <b>Feedback</b></a><a></a></span></td>
+                           </tr>  
+                        
+                           <tr>
+                             <td width="131" valign="top"><span><a href="http://www.newmatilda.com/home/articledetailmagazine.asp?ArticleID=704&amp;CategoryID=66" target="_blank">  
+<b>Did you know?</b></a> 
+
+</span></td>
+                           </tr>  
+                        
+                           <tr>
+                             <td width="131" valign="top"><span><a href="http://www.newmatilda.com/home/articledetailmagazine.asp?ArticleID=730&amp;HomepageID=87" target="_blank"><b>Links</b></a> </span></td>
+                           </tr>  
+                        
+                           <tr>
+                             <td width="131" valign="top"><span><a href="http://www.newmatilda.com/home/articledetail.asp?ArticleID=604" target="_blank"><b>Blogs</b></a> </span></td>
+                           </tr>  
+                        
+                           <tr>
+                             <td width="131" valign="top"><span><a href="http://www.newmatilda.com/home/articledetail.asp?ArticleID=564" target="_blank"><b>ANOP NewMatilda Survey</b></a></span></td>
+                           </tr>  
+                        
+                           <tr>
+                             <td width="131" valign="top"><span>Receive a one month <b>Trial Subscription</b> to New Matilda by sending us an <a href="mailto:trialsubscription@newmatilda.com">email</a> with your name and contact details.</span></td>
+                           </tr>  
+                        
+                            </tbody></table>
+                          </td>  
+                        </tr> 
+                        
 								<tr>
-									<td class="grey" align="center" valign="top"><a href="http://www.newmatilda.com/home/checkBanner.asp?BannerID=24" target="_blank"><img src="../images/banner/lefthand_banner.gif" width="125" height="125" alt="Policy Think Tank" border="0"></a><br><img src="../images/spacer.gif" width="131" height="20" alt=""><br><a href="http://www.newmatilda.com/home/checkBanner.asp?BannerID=27" target="_blank"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="125" height="125">
-    <param name="movie" value="../images/arena.swf">
-    <param name="quality" value="high">
-    <embed src="../images/arena.swf" quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="125" height="125">
-     
-  </object></a></td>
+									<td class="grey" align="center" valign="top">&nbsp;</td>
 								</tr>
 								
 								<tr>
@@ -955,9 +1085,6 @@ function SearchKeywordCheck(formName)
 								<td width="10"><img src="../images/spacer.gif" alt="" width="20" height="1" border="0"></td>
 								<td width="100%" valign="top">
 								
-									
-								
-						
 
 <!-- Content starts here -->
                         <table>
@@ -1020,31 +1147,48 @@ function SearchKeywordCheck(formName)
                         </tbody></table>
 <br><br>
 <!-- Content ends here -->
+
+
+
 </td>
 								<td width="20"><img src="../images/spacer.gif" alt="" width="20" height="1" border="0"></td>
 							</tr>
 						</tbody></table>
 						</td>						
 						
-						<td width="131" height="10" valign="top">
+						<td width="131" valign="top">
 									<form action="http://www.newmatilda.com/login/login.asp" method="post" onsubmit="formCheck(this);return false;" name="LoginRHS">
 									<input type="hidden" name="whattodo" value="LoginNow">
 									<table width="131" border="0" cellpadding="0" cellspacing="0" align="center">
 										<tbody><tr>
-											<td height="38" width="131"><img src="../images/spacer.gif" width="131" height="38" border="0" alt=""></td>
+											<td height="38" width="131"><div id="scale" style="font-size: 10px; color: #FFFFFF"></div></td>
 										</tr>
+                              <!--
 										<tr>
-											<td align="left"><img src="../images/loginTop.gif" alt="" width="131" height="9" border="0"></td>
+											<td align="left"><img src="../images/loginTop.gif" alt="" width="131" height="9" border="0" /></td>
 										</tr>
+                              -->
+                              <tr>
+											<td width="100%" valign="top" height="7px">
+                                   <table width="100%" border="0" cellspacing="0" cellpadding="0" height="7px">
+                                     <tbody><tr>
+                                       <td align="left" width="7px" bgcolor="#FFFFFF" background="#FFFFFF"><img src="../images/loginTopCorner.gif" alt="" width="10" height="7px" border="0"></td>  
+                                       <td align="right" width="100%" bgcolor="#EBEBEB" height="7px"><img src="../images/spacer.gif" alt="" width="100%" height="7px" border="0"></td>  
+                                    </tr>  
+                                   </tbody></table>  
+                                 </td>
+										</tr>
+
 										<tr>
 											<td class="EBEBEB" width="131">
 												<table cellpadding="5" border="0">
+
 													<tbody><tr>
 														<td>
-														<table>
+														<table border="0">
 															 <tbody><tr>
-															 	<td><span class="loginTextSmall">Independent Voices<br>Changing Australia<br><br></span>
-																	<span class="bodytextsmall"><a href="https://www.newmatilda.com/subscribe/addProfile.asp">Subscribers</a> get<br>to participate in New Matilda by logging in below.</span><br><br>
+															 	<td><span class="loginTextSmall">Independent Voices Changing Australia<br><br></span>
+																	<span class="bodytextsmall"><a href="https://www.newmatilda.com/subscribe/addProfile.asp">Subscribers</a> get to participate in New Matilda by logging in below.</span><br><br>
 																	<span class="bodytextsmall">
 																	User ID:<br><input class="bodytext" type="text" name="txtUsername" size="14"><br>
 																	Password:<br><input class="bodytext" type="password" name="txtPassword" size="14"><br><img src="../images/spacer.gif" width="1" height="23" alt=""><input type="submit" class="button" value="GO"><br>
@@ -1058,8 +1202,16 @@ function SearchKeywordCheck(formName)
 											</tbody></table>
 											</td>
 										</tr>
-										<tr>
-											<td><img src="../images/loginBottom.gif" alt="" width="131" height="7" border="0"></td>
+										
+                              <tr>
+											<td width="100%" valign="top">
+                                   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                     <tbody><tr>
+                                       <td align="left" width="100%" bgcolor="#EBEBEB" height="7"><img src="../images/spacer.gif" alt="" width="100%" height="7" border="0"></td>
+                                       <td align="right" width="10px"><img src="../images/loginBottomCorner.gif" alt="" width="10" height="7" border="0"></td>  
+                                     </tr>  
+                                   </tbody></table>  
+                                 </td>
 										</tr>
 									</tbody></table>
 									</form>
@@ -1071,12 +1223,79 @@ function warning()
 	alert('Subscriber only voting. Please log in to vote');
 }
 </script>
-<br>
+
+<table width="131" border="0" cellpadding="0" cellspacing="0" align="center">
+<tbody><tr>
+	<td align="left"><img src="../images/loginTop.gif" alt="" width="131" height="9" border="0"></td>
+</tr>
+<tr>
+	<td class="EBEBEB" width="131">
+		<table cellpadding="5" border="0">
+			<tbody><tr>
+				<td>
+				
+				<form method="post" action="http://www.newmatilda.com/onlinepoll/viewresult.asp" name="Poll_39">
+				
+				 <table>
+					 <tbody><tr>
+					 	<td><span class="bodytextsmall"><strong>Rescued hostage Douglass Wood's story is worth ...</strong></span></td>
+					 </tr>
+					 
+					 <tr>
+					 	<td><input type="radio" name="Result_39" value="155"><span class="bodytextsmall">$250,000</span></td>
+					 </tr>
+					 
+					 <tr>
+					 	<td><input type="radio" name="Result_39" value="156"><span class="bodytextsmall">the description of the inside of his cell.</span></td>
+					 </tr>
+					 
+					 <tr>
+					 	<td><input type="radio" name="Result_39" value="157"><span class="bodytextsmall">noting as a cautionary tale.</span></td>
+					 </tr>
+					 
+					 <tr>
+					 	<td><input type="hidden" name="WhattodoVote" value="Vote"><input type="hidden" name="QuestionID" value="39">
+							<input type="submit" class="button" value="Vote">
+							<input type="hidden" name="Destination" value="75">
+						</td>
+					 </tr>
+				</tbody></table>
+				</form>		
+				<table cellpadding="5">
+	
+					<tbody><tr>
+					 	<td><span class="bodytextsmall"><a href="http://www.newmatilda.com/onlinepoll/viewresult.asp?QuestionID=39" class="smalllinktext">View Results</a></span></td>
+					 </tr>
+	 
+				</tbody></table>
+		
+
+	 </td>
+		</tr>
+		</tbody></table>
+	</td>
+</tr>
+<tr>
+	<td><img src="../images/loginBottom.gif" alt="" width="131" height="7" border="0"></td>
+</tr>
+</tbody></table>
+
+                           <br>
+
+
+
+
+<!--                           
 									
-										<a href="http://www.newmatilda.com/home/checkBanner.asp?BannerID=21" target="_blank"><img src="../images/banner/scg_banner.gif" alt="The Southern Cross Group" border="0"></a>
-									
-							</td>
+-->
+							<!-- </td> -->
 							
+
+                  <!-- forum topic start -->
+                  
+                  <!-- forum topic end -->
+
+                  </td>
 						<td width="5"><img src="../images/spacer.gif" alt="" width="5" height="1" border="0"></td>
 					</tr>
 				</tbody></table>
@@ -1092,12 +1311,17 @@ function warning()
 			<table width="100%" border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr>
 					<td valign="top" height="23"><img src="../images/newMatildaDesign2_48.gif" width="131" height="23" alt=""></td>
-					<td width="100%" height="23" align="center"><span class="bodytextsmall">© 2004 Copyright New Matilda Pty Ltd. All rights reserved | <a href="http://www.newmatilda.com/contactus/contactus.asp" class="smalllinktext">Contact</a> | <a href="http://www.newmatilda.com/home/privacypolicy.asp" class="smalllinktext">Privacy Policy</a></span></td>
+					<td width="100%" height="23" align="center"><span class="bodytextsmall">© 2005 Copyright New Matilda Pty Ltd. All rights reserved | <a href="http://www.newmatilda.com/contactus/contactus.asp" class="smalllinktext">Contact</a> | <a href="http://www.newmatilda.com/home/privacypolicy.asp" class="smalllinktext">Privacy Policy</a></span></td>
 					<td width="131"><img src="../images/spacer.gif" alt="" width="135" height="1" border="0"></td>
 				</tr>
 			</tbody></table>		
 		</td>
 	</tr>
 </tbody></table>
+<script>
+//var out = document.getElementById("out");
+fontChange('first');
+</script>
+
 
 </body></html>
