@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the htmlgoodies.com privacy policy that was archived on 2004-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041231063234id_/http%3A//www.jupitermedia.com/corporate/privacy/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htmlgoodies.com privacy policy that was archived on 2005-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050627234655id_/http%3A//www.jupitermedia.com/corporate/privacy/privacypolicy.html) for the most accurate reproduction.*
 
 # Jupitermedia Privacy Policy
 
   
 Jupitermedia Corporation Privacy Policy
 
-We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, discussion forums and lists and opt-in announcement lists owned and operated by Jupitermedia and its wholly-owned subsidiaries including, without limitation, JupiterImages Corporation and Hemera Technologies Inc., (collectively hereafter "JUPM"). (The JUPM Network includes all Web sites and certain other Internet media properties hyper linked from the Jupitermedia.com home page.) The following discloses our Privacy Policy. 
+We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, discussion forums and lists and opt-in announcement lists owned and operated by Jupitermedia and its wholly-owned subsidiaries including, without limitation, JupiterImages Corporation, Hemera Technologies Inc. and the Dynamic Graphics Group (collectively hereafter "JUPM"). (The JUPM Network includes all Web sites and certain other Internet media properties linked directly or indirectly from the Jupitermedia.com home page.) The following discloses our Privacy Policy. 
 
 **What information are you collecting and how are you collecting it?**
 
@@ -59,7 +59,7 @@ _See_ below, **What else should I know about my privacy when online? See What in
 
 **Opt-in announcement List Privacy Policy**
 
-As an added benefit to the visitors of the JUPM Network of sites, we have a relationship with PostMasterDirect, an independent, third party company that sends e-mail announcements to individuals who request to receive them. When you sign up for an JUPM e-mail newsletter, you are given the opportunity to also receive announcement lists from PostmasterDirect. Whether you want to receive these announcement lists is your choice; you should only receive those lists you affirmatively choose to. If you choose to receive a specific announcement list, you will receive commercial messages that are related to the topic of the list from independent third parties that have contracted with JUPM and/or PostMaster Direct to send messages to the list. Personally identifiable information will not be used by JUPM or PostMasterDirect for any purposes other than to deliver the e-mail announcements. You may stop the arrival of these announcement lists at any time by removing your e-mail address from the list by forwarding the announcement list to [deleteall@postmasterdirect.com](mailto:deleteall@postmasterdirect.com), or by following the instructions on the e-mails you receive. [Click here to see the Postmaster Direct privacy policy](http://postmasterdirect.com/privacy.html). 
+When you sign up for an JUPM e-mail newsletter, you are given the opportunity to sign up for targeted third-party mailings. Whether you want to receive these announcement is your choice; you should only receive mailings pertaining to distribution lists you select. If you choose to receive an announcement from a specific distribution list, you will receive commercial messages that are related to the topic of the list from independent third parties that have contracted with JUPM to send messages to the list. Personally identifiable information will not be used by JUPM for any purposes other than to deliver the e-mail announcements. You may stop the arrival of these announcement lists at any time by removing your e-mail address from the list by forwarding the announcement list to [announcementlist@jupitermedia.com](mailto:announcementlist@jupitermedia.com) or by following the instructions on the e-mails you receive. 
 
 **What else should I know about my privacy when online?**
 
@@ -76,6 +76,8 @@ By using the JUPM Network, you consent to the collection and use of information 
 Please send any questions about JUPM's Privacy Policy to: [privacy@jupitermedia.com](mailto:privacy@jupitermedia.com)
 
 Please note that your use of the JUPM network of Web sites is governed by our [Legal Notice](http://www.jupitermedia.com/corporate/legal.html). 
+
+(Revised March 30, 2005) 
 
 * * *
 
