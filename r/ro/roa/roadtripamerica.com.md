@@ -1,15 +1,12 @@
-> *The following text is extracted and transformed from the roadtripamerica.com privacy policy that was archived on 2004-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041229055643id_/http%3A//www.roadtripamerica.com/aboutrta.htm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadtripamerica.com privacy policy that was archived on 2005-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050628012632id_/http%3A//www.roadtripamerica.com/aboutrta.htm%23privacy) for the most accurate reproduction.*
 
 # About RoadTrip America®
 
   
-| 
-
-  
-[RTA's Editors, Contributors, & Guides](https://web.archive.org/web/20041229055643id_/http%3A//www.roadtripamerica.com/guides.htm)  
+[RTA's Editors, Contributors, & Guides](https://web.archive.org/web/20050628012632id_/http%3A//www.roadtripamerica.com/guides.htm)  
 Copyright & Trademark Notice  
 Privacy Policy Statement  
-[Contact Information](https://web.archive.org/web/20041229055643id_/http%3A//www.roadtripamerica.com/address.htm)[](https://web.archive.org/web/20041229055643id_/http%3A//www.roadtripamerica.com/address.htm) **Since 1994, RoadTrip America®** has been the Web's premier destination for North American road trip information. In addition to [travel resources](https://web.archive.org/mainmenu.htm), RTA provides advice on [how to work on the road](https://web.archive.org/dashboarding/working.htm) and [how to stay connected to the Internet while traveling](https://web.archive.org/dashboarding/connecting.htm). RTA provides tips for [solo travelers](https://web.archive.org/tips/solo.htm), [couples](https://web.archive.org/tips/couples.htm), [disabled travelers](https://web.archive.org/tips/disabilities.htm), [international visitors](https://web.archive.org/links/international.htm), and [families](https://web.archive.org/tips/families.htm) traveling by [car](https://web.archive.org/tips/carcamping.htm), [motorcycle](https://web.archive.org/read/motorcycle.htm), [bicycle](https://web.archive.org/tips/biking.htm), or [recreational vehicle](https://web.archive.org/tips/rv.htm). [The Great American RoadTrip](http://www.roadtripamerica.com/roadtripamericaConference/Main.cfm?cfapp=44), RTA's interactive forum, is a community where road trippers share and seek advice and inspiration.
+[Contact Information](https://web.archive.org/web/20050628012632id_/http%3A//www.roadtripamerica.com/address.htm)[](https://web.archive.org/web/20050628012632id_/http%3A//www.roadtripamerica.com/address.htm) **Since 1994, RoadTrip America®** has been the Web's premier destination for North American road trip information. In addition to [travel resources](https://web.archive.org/mainmenu.htm), RTA provides advice on [how to work on the road](https://web.archive.org/dashboarding/working.htm) and [how to stay connected to the Internet while traveling](https://web.archive.org/dashboarding/connecting.htm). RTA provides tips for [solo travelers](https://web.archive.org/tips/solo.htm), [couples](https://web.archive.org/tips/couples.htm), [disabled travelers](https://web.archive.org/tips/disabilities.htm), [international visitors](https://web.archive.org/links/international.htm), and [families](https://web.archive.org/tips/families.htm) traveling by [car](https://web.archive.org/tips/carcamping.htm), [motorcycle](https://web.archive.org/read/motorcycle.htm), [bicycle](https://web.archive.org/tips/biking.htm), or [recreational vehicle](https://web.archive.org/tips/rv.htm). [The Great American RoadTrip](http://www.roadtripamerica.com/forum/), RTA's interactive forum, is a community where road trippers share and seek advice and inspiration.
 
 **RoadTrip America® features articles** about [destinations](https://web.archive.org/places/places.htm), [routes](https://web.archive.org/links/routes.htm), and [attractions](https://web.archive.org/links/destinations.htm), as well as the Web's largest [gallery of funny road signs](https://web.archive.org/signs/signs.htm). A one-stop source for [the best in travel publications](https://web.archive.org/read/guides.htm), RTA posts reviews and recommendations for books and software available in association with [Amazon.com](http://www.amazon.com/exec/obidos/redirect-home/roadtriamericare). RTA also keeps abreast of [developments in mobile Internet access](https://web.archive.org/dashboarding/future.htm).
 
@@ -23,7 +20,7 @@ B. Trademarks: RoadTrip America, RoadTrip Report, RoadTrip2000, Phoenix One, Ear
 
 C. Copyright Protection: RoadTrip America respects copyright law and expects all of our readers/viewers to do the same. The Internet industry depends upon copyright law to enable content providers to get fairly compensated for their content. Unauthorized copying or distribution of content is an infringement of the copyright holder's rights. RoadTrip America may elect to prosecute anyone who infringes upon the copyright, or other intellectual property rights, of RoadTrip America or any of the third parties affiliated with this website.
 
-COPYRIGHT NOTICE. Copyright © 1996-2004 RoadTrip America, 8275 S. Eastern Ave., Suite 200, Las Vegas, Nevada, U.S.A., All rights reserved
+COPYRIGHT NOTICE. Copyright © 1996-2005 RoadTrip America, 8275 S. Eastern Ave., Suite 200, Las Vegas, Nevada, U.S.A., All rights reserved
 
 D. Use of Photographs on this website: Unless a photo credit is expressly provided and/or is attached to any photograph or image found on this website, it is deemed to be the property of RoadTrip America for the exclusive use by RoadTrip America and subject to all forms of copyright protection. On occasion, RoadTrip America accepts submissions from readers/viewers of certain photographic images that are to be published in the "Funny Road Signs" or other departments within the RoadTrip America website. RoadTrip America will only accept and publish photographic images from persons who are legally authorized to grant us permission to use the images. The following information must be supplied upon submission:
 
@@ -162,63 +159,3 @@ I. Notification of Changes:
 
 
 If you have any questions or suggestions for improvements in this privacy policy, please contact the RoadTrip America Web site administrator at [mark@roadtripamerica.com](mailto:mark@roadtripamerica.com).
-
-| 
-
-  
-  
-  
-
-
-RoadTrip America  
-Recommends:  
-
-
-In Association with Amazon.com
-
-  
-  
-
-
-RoadTrip America Recommends
-
-[  
-Mountain Directory West for Truckers, RV, and Motorhome Drivers](http://www.amazon.com/exec/obidos/ASIN/0964680599/roadtriamericare), by Richard Miller[100 Things to Do Before You Die: Travel Events You Just Can't Miss](http://www.amazon.com/exec/obidos/ASIN/087833243x/roadtriamericare), by Dave Freeman[](http://www.amazon.com/exec/obidos/ASIN/0895778629/roadtriamericare)
-
-[ The Most Scenic Drives in America
-
-](http://www.amazon.com/exec/obidos/ASIN/0895778629/roadtriamericare), by Readers Digest
-
-[National Geographic Guide to Scenic Highways & Byways](http://www.amazon.com/exec/obidos/ASIN/0792274687/roadtriamericare)[Canine Oregon: Where to Play and Stay With Your Dog](http://www.amazon.com/exec/obidos/ASIN/1555913288/roadtriamericare)
-
-, by Lizann Dunegan[Mountain Directory East for Truckers, RV, and Motorhome Drivers](http://www.amazon.com/exec/obidos/ASIN/0964680572/roadtriamericare)
-
-[ The Colorado Guide
-
-](http://www.amazon.com/exec/obidos/ASIN/1555910068/roadtriamericare), by Bruce Caughey
-
-[ 200 Waterfalls in Central and Western New York
-
-](http://www.amazon.com/exec/obidos/ASIN/1930480016/roadtriamericare), by Rich Freeman
-
-[ Weekend Adventures in Northern California
-
-](http://www.amazon.com/exec/obidos/ASIN/0917120175/roadtriamericare), by Carole Terwilliger-Myers
-
-[The Other Orlando: What to Do When You've Done Disney & Universal](http://www.amazon.com/exec/obidos/ASIN/1887140417/roadtriamericare)
-
-, by Kelly Monaghan
-
-[ Sacred Places North America: 108 Destinations
-
-](http://www.amazon.com/exec/obidos/ASIN/1888729090/roadtriamericare), by Brad Olsen
-
-[The Milepost 2004: Trip Planner for Alaska, Yukon Territory, British Columbia, Alberta, & Northwest Territories](http://www.amazon.com/exec/obidos/ASIN/1892154145/roadtriamericare)
-
-, edited by Kris Graef  
-**  
-**[Along Interstate 75](http://www.amazon.com/exec/obidos/ASIN/1896819184/roadtriamericare), by Dave Hunter
-
-[ Lonely Planet Guide to the Southwest](http://www.amazon.com/exec/obidos/ASIN/0864425392/roadtriamericare)
-
-In Association With Amazon.com
