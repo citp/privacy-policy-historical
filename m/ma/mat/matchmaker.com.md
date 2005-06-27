@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matchmaker.com privacy policy that was archived on 2004-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041231013342id_/http%3A//info.lycos.com/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matchmaker.com privacy policy that was archived on 2005-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050628004226id_/http%3A//info.lycos.com/privacy/privacy.asp) for the most accurate reproduction.*
 
 # Lycos Privacy Policy
 
@@ -31,7 +31,7 @@ against the loss, misuse or alteration of your information?
   11. How does the Lycos Network comply with the Children's Online Privacy Protection Act (COPPA)?
   12. What are the policies concerning software downloads?
   13. What is Get Relevant?
-  14. [New] Where is personally-identifiable information stored and processed?
+  14. Where is personally-identifiable information stored and processed?
   15. What you can do to better protect yourself on the Internet?
 
 Our goal is to become your favorite Internet destination by providing the information, services, and product offerings that are most relevant to you. To achieve this goal, the Lycos Network must collect information so we can understand what makes you different from its millions of other unique users. While you are not required to register for any services on the Lycos Network, some Products and Services may not function properly or may not be accessible unless you do. 
@@ -104,7 +104,7 @@ If you elect to receive Lycos Registration Offers during registration for the Ly
 
 If Lycos is acquired by or merged with another company, Lycos may transfer personally-identifiable information about you to that company. Lycos will notify you in the event that your personally-identifiable information is transferred under these circumstances and becomes subject to a different privacy policy. 
 
-[NEW] If a third party acquires, or otherwise receives in a transaction with Lycos, one or more of the Lycos Products and Services, then Lycos will transfer personally-identifiable information about users of those Products and Services to the third party. The third party will handle the Products and Services in accordance with its own policies and procedures and not in accordance with Lycos policies and procedures. You will be notified if your personally-identifiable information is transferred under these circumstances by an email sent to the email address you provided or by a posting on the site that offers the relevant Products or Services. 
+If a third party acquires, or otherwise receives in a transaction with Lycos, one or more of the Lycos Products and Services, then Lycos will transfer personally-identifiable information about users of those Products and Services to the third party. The third party will handle the Products and Services in accordance with its own policies and procedures and not in accordance with Lycos policies and procedures. You will be notified if your personally-identifiable information is transferred under these circumstances by an email sent to the email address you provided or by a posting on the site that offers the relevant Products or Services. 
 
 Matchmaker.com Customers: Lycos creates your public profile by using your answers to the Matchmaker.com questionnaire and your ZIP Code, along with any photos or images you post. Users will have the ability to search and view the public profiles. 
 
@@ -232,4 +232,4 @@ If you do not receive acknowledgment of your inquiry or your inquiry has not bee
 
 The Lycos Network will update this policy from time to time so please check back periodically. When such changes occur, you will see the word "Updated" next to the Privacy Policy link on the front page of each site on the Lycos Network. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will prominently post such changes prior to implementing them. 
 
-Last updated December 10, 2004. 
+Last updated January 24, 2005. 
