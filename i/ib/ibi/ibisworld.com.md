@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibisworld.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206195914id_/http%3A//www.ibisworld.com/static/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibisworld.com privacy policy that was archived on 2005-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050627031628id_/http%3A//www.ibisworld.com/static/privacy.asp) for the most accurate reproduction.*
 
 # Market Research, Industry Reports and Information on the USA - by IBISWorld
 
