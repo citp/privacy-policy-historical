@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justice.gov privacy policy that was archived on 2004-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041228195415id_/http%3A//www.justice.gov/privacy-file.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justice.gov privacy policy that was archived on 2005-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050628213339id_/http%3A//www.justice.gov/privacy-file.htm) for the most accurate reproduction.*
 
 # DOJ Privacy Policy
 
