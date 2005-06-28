@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the af.mil privacy policy that was archived on 2004-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041228194850id_/http%3A//www.af.mil/main/disclaimer.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the af.mil privacy policy that was archived on 2005-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050628215151id_/http%3A//www.af.mil/main/disclaimer.asp) for the most accurate reproduction.*
 
 # Air Force Link - Disclaimer
 
@@ -10,11 +10,11 @@
 
 4\. For site security purposes and to ensure that this service remains available to all users, this government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. 
 
-5\. Raw data logs will only be used to identify individual users and their usage habits for authorized law enforcement investigations or national security purposes.  These logs are used for no other purposes and are scheduled for regular destruction in accordance with National Archives and Records Administration [General Schedule 20](http://ardor.nara.gov/grs/grs20.html). 
+5\. Your interaction with this system is not anonymous. By using this system you are consenting to the monitoring of your activity. Raw data logs will only be used to identify individual users and their usage habits for authorized law enforcement investigations or national security purposes.  These logs are used for no other purposes and are scheduled for regular destruction in accordance with National Archives and Records Administration [General Schedule 20](http://ardor.nara.gov/grs/grs20.html). 
 
 6\. Unauthorized attempts to deny service, upload information, change information, or to attempt to access a non-public site from this service are strictly prohibited and may be punishable under Title 18 of the U.S. Code to include the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act. 
 
-7\. If you have any questions or comments about the information presented here, please forward them to us using the Air Force Link [Comment Form](https://web.archive.org/web/20041228194850id_/http%3A//www.af.mil/main/contactus.asp). 
+7\. If you have any questions or comments about the information presented here, please forward them to us using the Air Force Link [Comment Form](https://web.archive.org/web/20050628215151id_/http%3A//www.af.mil/main/contactus.asp). 
 
 **The Presence of Commercial/External Links**
 
@@ -22,6 +22,6 @@ The appearance of hyperlinks does not constitute endorsement by the Air Force Ne
 
 **Other Web Policies**
 
-Interested in knowing the Web policies of the Air Force and the Department of Defense?  You can read the policies [here](https://web.archive.org/webpolicy/). Please [let us know](https://web.archive.org/web/20041228194850id_/http%3A//www.af.mil/main/contactus.asp) about existing external links which you believe are inappropriate and about specific additional external links which you believe ought to be included. 
+Interested in knowing the Web policies of the Air Force and the Department of Defense?  You can read the policies [here](https://web.archive.org/webpolicy/). Please [let us know](https://web.archive.org/web/20050628215151id_/http%3A//www.af.mil/main/contactus.asp) about existing external links which you believe are inappropriate and about specific additional external links which you believe ought to be included. 
 
 Return to [Air Force Link](http://www.af.mil/)
