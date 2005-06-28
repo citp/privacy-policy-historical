@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dhs.gov privacy policy that was archived on 2004-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041228194753id_/http%3A//www.dhs.gov/dhspublic/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dhs.gov privacy policy that was archived on 2005-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050628212200id_/http%3A//www.dhs.gov/dhspublic/privacy.jsp) for the most accurate reproduction.*
 
 # DHS | Department of Homeland Security | Privacy Policy
 
