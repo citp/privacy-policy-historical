@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the house.gov privacy policy that was archived on 2004-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041231200505id_/http%3A//www.house.gov/house/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the house.gov privacy policy that was archived on 2005-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050629001837id_/http%3A//www.house.gov/house/privacy.shtml) for the most accurate reproduction.*
 
-# United States House of Representatives, 108th Congress, 2nd Session: Privacy Policy
+# United States House of Representatives, 109th Congress, 1st Session: Privacy Policy
 
 **If you visit our site to read or download information, such as House committee jurisdictions or press releases, we collect and store only the following information:**
 
