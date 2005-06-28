@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the rferl.org privacy policy that was archived on 2004-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041228201626id_/http%3A//www.rferl.org/about/content/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rferl.org privacy policy that was archived on 2005-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050628212341id_/http%3A//www.rferl.org/about/content/policy.asp) for the most accurate reproduction.*
 
 # RADIO FREE EUROPE/ RADIO LIBERTY
 
 Radio Free Europe/Radio Liberty (RFE/RL) believes Internet users have a right to personal privacy and to unmonitored access to and navigation of the Internet.  
----  
 In the course of our providing the best Internet news service possible to our users, we collect two types of information about and from our visitors: e-mail addresses provided to us by visitors wishing to subscribe to RFE/RL publications via e-mail, and aggregate statistical data used to track site usage.  
 E-mail Addresses  
 Subscribers to RFE/RL e-mail newsletters voluntarily supply their e-mail addresses to receive newsletters. RFE/RL will under no circumstances make e-mail addresses used for this purpose available to any third party. Nor will subscriber lists be shared internally for any purpose other than distributing the newsletters. Newsletter subscribers may unsubscribe from any newsletter at any time by following the directions published in the newsletter and posted on the website. If they experience problems unsubscribing, they may contact a staffer via an e-mail address published in each newsletter or by contacting the Internet Department at [web@rferl.org](mailto:web@rferl.org)  
