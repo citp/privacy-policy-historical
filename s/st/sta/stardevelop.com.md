@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stardevelop.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208120759id_/http%3A//livehelp.stardevelop.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stardevelop.com privacy policy that was archived on 2005-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050628074624id_/http%3A//livehelp.stardevelop.com/privacy.htm) for the most accurate reproduction.*
 
 # Live Help - Privacy Statement - Live Customer Service Software, Live Help, Customer Support
 
