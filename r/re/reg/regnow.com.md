@@ -1,14 +1,18 @@
-> *The following text is extracted and transformed from the regnow.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602192243id_/http%3A//www.regnow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regnow.com privacy policy that was archived on 2005-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050628073814id_/http%3A//regnow.com/privacy.html) for the most accurate reproduction.*
 
-# RegNow.com
+# RegNow.com - Shareware Registration Service - Ecommerce - Shopping Cart
 
-[ ](https://digitalid.verisign.com/as2/cc99a1f3e43a54080737e9c133672ed9)
+Privacy Policy 
 
 RegNow, one of the most trusted names in e-commerce and Web-based technology, respects the privacy of our partners, clients and their customers. Any and all information collected through our system is treated with the utmost care. 
 
 **RegNow's Privacy Guarantee**
 
-RegNow will never sell or give our customer or client information to third parties. For customers, this means that the only people who have access to your address information is the company whose product you are ordering, and our credit card processor. 
+RegNow asks customers to supply various personal data when placing an order, such as name and address, credit-card information, and E-mail address. We use this data only for the purpose of filling an order, or communicating with the customer or supplier about the status of an order. 
+
+We will release personally identifiable information to third parties and organizations when we believe it is appropriate for us to do so in order to comply with the law or to protect against fraud. We will also release such information to cooperate with law enforcement or other governmental investigations (without necessarily requiring the requesting law enforcement or government agency to formally serve us with a subpoena), comply with all valid court orders or subpoenas, protect the legal rights of us and our users, or when we believe it is needed for fraud protection and/or credit risk reduction. 
+
+Except for the circumstances set forth in the previous paragraph, we will not knowingly distribute customer information to be used in mailing lists, surveys, or any other purpose other than what is required to perform our services. 
 
 **What information do we collect? How do we use it?**
 
@@ -34,6 +38,4 @@ RegNow has made an investment in protecting our clients' and customers' informat
 
 "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. RegNow's cookies are used only to identify the customer, not to identify any specific customer traits. These cookies do not store sensitive data. This enables a more pleasant shopping experience with RegNow every time you shop with us. 
 
-RegNow welcomes your questions and comments about privacy. 
-
-Please send an email to info@regnow.com. 
+[ ](https://digitalid.verisign.com/as2/b9dc41af675a66a2ff6eb46d20fb906d)
