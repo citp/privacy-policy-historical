@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelotter.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207093308id_/http%3A//www.thelotter.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelotter.com privacy policy that was archived on 2005-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050628081402id_/http%3A//www.thelotter.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -18,7 +18,7 @@ By displaying the TRUSTe trustmark, this web site has agreed to notify you of:
 
 
 **If you feel that this company is not abiding by its posted privacy policy, you should first contact our Customer Support Department by E-mail to[customer_support  
-@thelotter.com.](mailto:customer_support@thelotter.com) If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at [http://www.truste.org/watchdog.html ](http://www.truste.org/watchdog.html) TRUSTe will then serve as a liaison with the Web site to resolve your concerns. **
+@thelotter.com.](mailto:customer_support@thelotter.com) If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with the Web site to resolve your concerns. **
 
 **Information Collection and Use**  
 **theLotter.com** is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. **theLotter.com** collects information from our users at several different points on our website. 
@@ -41,6 +41,9 @@ We use IP addresses to analyze trends, administer the site, track user's movemen
 
 **Links**  
 This web site contains links to other sites. Please be aware that we **theLotter.com** are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+
+**Cookies**  
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We do not use cookies on this site. 
 
 **Tell-A-Friend**  
 If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's email address. **theLotter.com** will automatically send the friend a one-time email inviting them to visit the site. **theLotter.com** stores this information for the sole purpose of sending this one-time email. The friend may contact **theLotter.com** at [customer_support@theLotter.com](mailto:customer_support@thelotter.com) to request the removal of this information from their database 
