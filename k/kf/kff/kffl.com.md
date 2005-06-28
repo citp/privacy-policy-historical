@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kffl.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206183453id_/http%3A//www.kffl.com/static/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kffl.com privacy policy that was archived on 2005-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050628080955id_/http%3A//www.kffl.com/static/privacy.php) for the most accurate reproduction.*
 
-# KFFL
+# KFFL - The Hottest NFL, MLB and Fantasy News!
 
 By using KFFL, you agree to KFFL's Privacy Policy. If you do not agree, we request that you do not visit the KFFL website found at http://www.kffl.com/ and http://www.kfflsports.com/, the NFLnews.com website found at http://www.nflnews.com/ and MrFootball.com website found at http://www.mrfootball.com/. 
 
