@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newstatesman.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011141144id_/http%3A//www.newstatesman.com/nsprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newstatesman.com privacy policy that was archived on 2005-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050630003413id_/http%3A//www.newstatesman.com/nsprivacy.htm) for the most accurate reproduction.*
 
 # New Statesman
 
