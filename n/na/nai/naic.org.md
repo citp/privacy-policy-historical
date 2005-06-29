@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the naic.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204104248id_/http%3A//www.naic.org/about/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naic.org privacy policy that was archived on 2005-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050629132813id_/http%3A//www.naic.org/about/privacy_statement.htm) for the most accurate reproduction.*
 
 # NAIC Privacy Statement
-
-**NAIC Privacy Statement**
 
 Welcome to the National Association of Insurance Commissioners ("NAIC") Web Site. Because your privacy on-line is very important to us, we want you to understand the NAIC’s practices with regard to collecting and using your information. This privacy statement explains the privacy practices for the following NAIC Web Sites: [www.naic.org;](http://www.naic.org/) [www.serff.com](http://www.serff.com/) [www.carfra.org](http://www.carfra.org/). The NAIC’s Privacy Statement is not intended to supercede or modify the terms of any license agreement between NAIC and a third party and where inconsistent, the terms of the license agreement control.
 
