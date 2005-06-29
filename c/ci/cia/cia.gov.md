@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cia.gov privacy policy that was archived on 2004-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041230062957id_/http%3A//www.cia.gov/cia/notices.html%23priv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cia.gov privacy policy that was archived on 2005-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050630000531id_/http%3A//www.cia.gov/cia/notices.html%23priv) for the most accurate reproduction.*
 
 # Notices
 
-The Director of Central Intelligence heads both the U.S. Intelligence Community and the Central Intelligence Agency. As a result of these dual roles, this Web site includes information about both the Intelligence Community (see the [DCI's welcome page](https://web.archive.org/dci/index.html)) and the Central Intelligence Agency . For the purpose of the notices which follow, we will refer to this entire Web site as the Central Intelligence Agency Web site since 'Central Intelligence Agency' is a more widely known name than is 'Director of Central Intelligence.' The notices which follow apply equally to all areas of this Web site.   
+This website includes information about the Central Intelligence Agency. The notices which follow apply equally to all areas of this Web site.   
  
 
 ###  Privacy Notice
@@ -11,7 +11,7 @@ The Central Intelligence Agency is committed to protecting your privacy and will
 
 > **If you simply browse our Web site:**
 > 
-> When you visit the Director of Central Intelligence/Central Intelligence Agency Web site [hereafter, the Central Intelligence Agency Web site] to browse information it contains, you do so anonymously unless you choose to provide us information about yourself. If you do nothing during your visit but browse through the Web site-—reading pages, viewing photographs, or downloading information for example—we will gather and store certain information about your visit automatically. **This information does not identify you personally**. 
+> When you visit the Central Intelligence Agency Web site to browse information it contains, you do so anonymously unless you choose to provide us information about yourself. If you do nothing during your visit but browse through the Web site-—reading pages, viewing photographs, or downloading information for example—we will gather and store certain information about your visit automatically. **This information does not identify you personally**. 
 > 
 > This gathering and storing of information is separate from the activity described as monitoring in our Security Notice. 
 > 
@@ -164,7 +164,7 @@ The FOIA Electronic Reading Room offers an Internet-based database containing re
 
 ###  Site Management 
 
-The Director of Central Intelligence/Central Intelligence Agency's Office of Public Affairs (OPA) manages the overall information content, design, and, organization of the Web site. OPA also coordinates release of Central Intelligence Agency information on the Internet. 
+The Central Intelligence Agency's Office of Public Affairs (OPA) manages the overall information content, design, and, organization of the Web site. OPA also coordinates release of Central Intelligence Agency information on the Internet. 
 
 [Return to top] 
 
