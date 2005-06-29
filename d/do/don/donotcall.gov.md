@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donotcall.gov privacy policy that was archived on 2004-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041230121614id_/http%3A//www.ftc.gov/ftc/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donotcall.gov privacy policy that was archived on 2005-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050629053824id_/http%3A//www.ftc.gov/ftc/privacy.htm) for the most accurate reproduction.*
 
 # Federal Trade Commission Privacy Policy
 
@@ -72,7 +72,7 @@ If you choose to provide personally identifying information to us, we will use a
 
 
 
-**Last Updated** : Thursday, April 22, 2004
+**Last Updated** : Tuesday, April 19, 2005
 
 * * *
 
