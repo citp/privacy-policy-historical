@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uscg.mil privacy policy that was archived on 2004-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041226024005id_/http%3A//www.uscg.mil/disclaim.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscg.mil privacy policy that was archived on 2005-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050629103757id_/http%3A//www.uscg.mil/disclaim.html) for the most accurate reproduction.*
 
 # U.S. Coast Guard Disclaimer
 
@@ -16,7 +16,7 @@ This web site and the information it contains is provided as a public service by
 
 **RESTRICTION OF LIABILITY**
 
-The U.S. Coast Guard make no claims, promises or guarantees about the accuracy, completeness, or adequacy of the contents of this web site and expressly disclaims liability for errors and omissions in the contents of this web site. No warranty of any kind, implied, expressed or statutory, including but not limited to the warranties of non-infringement of third party rights, title, merchantability, fitness for a particular purpose and freedom from computer virus, is given with respect to the contents of this web site or its hyperlinks to other Internet resources. Reference in this web site to any specific commercial products, processes, or services, or the use of any trade, firm or corporation name is for the information and convenience of the public, and does not constitute endorsement, recommendation, or favoring by the U.S. Coast Guard.
+The U.S. Coast Guard makes no claims, promises or guarantees about the accuracy, completeness, or adequacy of the contents of this website and expressly disclaims liability for errors and omissions in the contents of this web site. No warranty of any kind, implied, expressed or statutory, including but not limited to the warranties of non-infringement of third party rights, title, merchantability, fitness for a particular purpose and freedom from computer virus, is given with respect to the contents of this web site or its hyperlinks to other Internet resources. Reference in this web site to any specific commercial products, processes, or services, or the use of any trade, firm or corporation name is for the information and convenience of the public, and does not constitute endorsement, recommendation, or favoring by the U.S. Coast Guard.
 
 **OWNERSHIP**
 
