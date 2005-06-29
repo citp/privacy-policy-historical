@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koreaherald.co.kr privacy policy that was archived on 2004-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041014173651id_/http%3A//www.koreaherald.co.kr/aboutus/private.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koreaherald.co.kr privacy policy that was archived on 2005-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050629195105id_/http%3A//www.koreaherald.co.kr/aboutus/private.asp) for the most accurate reproduction.*
 
 # The Korea Herald : The Nation's No.1 English Newspaper
 
