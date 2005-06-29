@@ -1,269 +1,139 @@
-> *The following text is extracted and transformed from the go.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204233600id_/http%3A//info.go.com/doc/policy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go.com privacy policy that was archived on 2005-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050629022026id_/http%3A//disney.go.com/corporate/privacy/pp_wdig.html) for the most accurate reproduction.*
 
-# GO.com | Privacy and Safety
+# Privacy Policy for Walt Disney Internet Group
 
-[](https://www.truste.org/validate/3876)
+|  |   
+---  
+Walt Disney Internet Group  
+[](http://disney.go.com/corporate/privacy/kids.html?ppLink=pp_wdig)  
+[](http://disney.go.com/corporate/privacy/safety.html?ppLink=pp_wdig)  
+[](http://disney.go.com/corporate/privacy/terms.html?ppLink=pp_wdig)  
+[](https://web.archive.org/web/20050629022026id_/http%3A//disney.go.com/corporate/privacy/previous.html?ppLink=pp_wdig)  
+|  |  |   
+---  
+Privacy Policy/Your California Privacy Rights  
+Welcome! Below you will find the privacy policy for the Walt Disney Internet Group. As a reminder, the WDIG privacy policy was updated on November 6, 2003. If you registered prior to that date and have not accepted the updated WDIG privacy policy, please refer to the previous WDIG privacy policy.  
+|  |  |  |  | WDIG Privacy Policy |  |   
+---|---|---|---|---  
+---  
+**Effective Date: 11/06/03**
 
-|  |    
-**GO.COM PRIVACY POLICY AND INTERNET SAFETY INFORMATION**
+For over 75 years, The Walt Disney Company has taken great pride in the relationships that it has developed with its guests. In keeping with this tradition, we at the Walt Disney Internet Group are dedicated to protecting your privacy and handling any personal information we obtain from you with care and respect. This Privacy Policy is designed to answer your questions regarding our privacy policies and principles. 
 
-GO.com is committed to providing the best online family entertainment within a trusted environment. Privacy and safety issues are important to us, and to that end we're pleased to offer a variety of links to Internet resources. 
+We recognize the need to provide additional protections for children who visit our sites. To read about our privacy protections for kids under the age of 13, [click here](http://disney.go.com/corporate/privacy/kids.html?ppLink=pp_wdig) to read the Walt Disney Internet Group Kids Privacy Policy.   
+  
+| Q1. | What information does this Privacy Policy cover?  
+---|---  
+A1. | Except as specifically described below in A2 and A6, this Privacy Policy applies only to personally identifiable information collected on the Web sites where this Privacy Policy is posted and does not apply to any other information collected by The Walt Disney Family of Companies through any other means. This Privacy Policy applies to use and sharing of personally identifiable information collected on and after the date that this Privacy Policy is posted. However, for guests who registered on our Web sites prior to the date that this Privacy Policy is posted, we will apply this Privacy Policy to personally identifiable information associated with that account only if the guest accepts the terms and conditions of this Privacy Policy. Once the guest has accepted these terms and conditions, this Privacy Policy will also apply to personally identifiable information collected from that guest prior to the date that this Privacy Policy is posted. In a similar fashion, we will apply this Privacy Policy to personally identifiable information collected in the course of Non-Registered Transactions (as defined in A3 below) that occurred prior to the date that this Privacy Policy is posted, but only if the guest accepts the terms and conditions of this Privacy Policy.
 
-The five links below should help make Internet surfing a fun and enjoyable experience for your entire family.
+As used in this Privacy Policy, "The Walt Disney Family of Companies" includes The Walt Disney Company and all of its subsidiary and affiliated entities, including companies such as ABC and ESPN that generally do not offer their products and services under the "Disney" brand name, as well as companies that generally do offer their products and services under the "Disney" brand name. (At times, our Web sites refer to The Walt Disney Family of Companies as "The Walt Disney family of companies.") The Walt Disney Internet Group (including its subsidiaries) is a member of The Walt Disney Family of Companies, and is referred to in this Privacy Policy as "we," "us," "our," and "ourselves."
 
-  * Internet Safety Tips
-  * Tools for Families
-  * Reporting Trouble Online
-  * Guide to Good Content for Kids
-  * Get NetWise
+In keeping with the traditions of The Walt Disney Company, we refer to customers of The Walt Disney Family of Companies as "guests." When this Privacy Policy uses the term "personally identifiable information," we mean information that identifies a particular individual, such as the individual's name, postal address, e-mail address, and telephone number. When other information, such as, for example, consumer product preferences, or number of children, is directly associated with personally identifiable information, this other information also becomes personally identifiable information for purposes of this Privacy Policy. Personally identifiable information is sometimes referred to in this Privacy Policy as "personal information." Finally, the terms of this Privacy Policy are subject to all applicable laws.   
+  
+back to top of policy  
+Q2. | What types of personally identifiable information do we collect about our guests?  
+A2. | We collect several types of personally identifiable information about our guests. _Information You Provide to Us_
+
+Much of the personally identifiable information we receive comes directly from guests who are interested in obtaining various products and services from us. Typically, this information includes the guest's name, postal address, e-mail address, and telephone number. We may also collect other types of information such as gender, age, number of children, and personal interests, which we may associate with personally identifiable information. If you purchase products or services from us, we'll note, for example, credit card information, the type of services or products ordered or purchased, and the date of the order or purchase. We collect personal information when you register on, log on, or visit our Web sites, including when you participate in activities on our Web sites, such as sweepstakes, contests, games and promotional offers.
+
+ _Information Collected Through Technology_
+
+We collect information through technology to make our sites more interesting and useful to you. For instance, when you come to one of our sites, we collect your IP address. An IP address is often associated with the portal through which you enter the Internet, like your ISP (Internet service provider), your company, or your university. Standing alone, your IP address is not personally identifiable. At times, we also use IP addresses to collect information regarding the frequency with which our guests visit various parts of our sites. We may combine this information with personally identifiable information.
+
+Our Web sites also use cookies. Cookies are pieces of information that a Web site sends to your computer while you are viewing the Web site. We and other companies use cookies for a variety of purposes. For instance, when you return to one of our sites after logging in, cookies provide information to the site so that the site will remember who you are. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your Web experience smoother, like the features mentioned above, and some of our services will not function properly.
+
+Our Web sites use a variety of technical methods for tracking purposes, including Web beacons. Web beacons are small pieces of data that are embedded in images on the pages of Web sites. We also use these technical methods to analyze the traffic patterns on our Web sites, such as the frequency with which our users visit various parts of our Web sites. These technical methods may involve the transmission of information either directly to us or to another party authorized by us to collect information on our behalf. We also use these technical methods in HTML e-mails that we send our guests to determine whether our guests have opened those e-mails and/or clicked on links in those e-mails. The information from use of these technical methods may be collected in a form that is personally identifiable.
+
+Many advertisements are managed and placed on our Web sites by third parties. These companies are called "network advertisers." Network advertisers who place advertisements on our Web sites may also use cookies and Web beacons to collect non-personally identifiable information when you click on or move your cursor over one of their banner advertisements. You may not realize this information is being collected. In some cases, we may have access to information from Web beacons and cookies used by network advertisers on our sites and this information may permit us to identify other sites that you have visited that are also associated with the network advertiser. Finally, once you've clicked on an advertisement and have left our Web sites, our Privacy Policy no longer applies and you must read the privacy policy of the advertiser to see how your personal information will be handled on their site.
+
+ _Information That We Collect from Others_
+
+We may supplement personally identifiable information that we have collected directly from our guests with other information that we obtain from third parties and other members of The Walt Disney Family of Companies. In addition, we may obtain information about individuals who are not yet users of our Web sites or guests of The Walt Disney Family of Companies. In addition, when we associate information that we obtain from third parties or other members of The Walt Disney Family of Companies with personally identifiable information that we have collected under this Privacy Policy, we will treat the acquired information like the information that we collected ourselves and, except as permitted by this Privacy Policy, the information will not be shared with third parties.   
+  
+back to top of policy  
+Q3. | How is your personally identifiable information used and shared?  
+A3. | As described in detail below, The Walt Disney Family of Companies may use your personally identifiable information in many ways, including sending you promotional materials, and sharing your information with third parties so that these third parties can send you promotional materials. (By "promotional materials," we mean communications that directly promote the use of our Web sites, or the purchase of products or services.) As outlined below in A4, you may "opt-out" of certain uses of your personal information. _Disney Family of Companies, Licensees and Co-Branding Participants_
+
+Personally identifiable information collected under this Privacy Policy is shared among and used by The Walt Disney Family of Companies for many purposes. For example, The Walt Disney Family of Companies may use your personal information to send you promotional materials about goods and services (including special offers and promotions) either offered by The Walt Disney Family of Companies or offered by third parties. These promotional materials may be sent to you by postal mail, e-mail or other means. You may opt out of receiving these communications as provided in A4 below. Please keep in mind, however, that when you purchase or request products or services from The Walt Disney Family of Companies, promotional materials may accompany delivery of that product or service. We refer to sending you promotional materials in these circumstances as "Fulfillment Uses" of your personal information. Because these promotional materials accompany products or services that you have requested, your opt-outs for Individual Disney Companies and The Walt Disney Family of Companies under A4 below will not apply to any of these Fulfillment Uses.
+
+The Walt Disney Family of Companies may also use your personal information for many purposes other than sending you promotional materials. (We refer to all of these types of uses of your personal information that do not involve the sending of promotional materials as "Operational Uses.") For example, we may use your information to complete transactions requested by you (such as your purchase of a product or service offered on our Web sites), or to send you administrative communications either about your account with us or about features of our Web sites, including any future changes to this Privacy Policy. As another example of Operational Uses, we may share your personal information with the Walt Disney World © Resort telephone reservations center so that the reservations center operators are able to respond immediately to your questions or requests when you call, rather than asking you to provide your information a second time. Because these uses of your personal information do not involve sending you promotional materials, your opt-outs for Individual Disney Companies and The Walt Disney Family of Companies under A4 below will not apply to any of these Operational Uses.
+
+In addition to using your personal information within The Walt Disney Family of Companies, The Walt Disney Family of Companies may share your personal information with companies that offer products and/or services under brand names of The Walt Disney Family of Companies. These companies are called "licensees." For example, a company that publishes and sells books under the "Disney" brand would be such a licensee. The Walt Disney Family of Companies may also share your information with companies that offer products and/or services that are co-branded using brand names of The Walt Disney Family of Companies. These companies are called "co-branding participants." For example, the Disney's Visa Card is co-branded with the bank that issues that credit card. When The Walt Disney Family of Companies shares personal information with third parties acting as licensees and co-branding participants, these licensees and co-branding participants are restricted by contract from using the personal information for any marketing or promotional purpose that is not related to a licensed or co-branded product or service. Finally, to further protect your privacy, these licensees and co-branding participants' use of personal information shared with them under this Privacy Policy is subject to the same opt-out rights (and limitations upon those rights) that apply to use of personal information by members of The Walt Disney Family of Companies under A4 below.
+
+You may engage in transactions (such as purchasing products or services) without registering and logging on our Web sites. These transactions may be either with us or with other members of The Walt Disney Family of Companies. (We refer to all of these transactions that you engage in without registering and logging on our Web sites as "Non-Registered Transactions.") An example of a Non-Registered Transaction would be when you purchase items from Disneydirect.com without registering and logging on that Web site. When you engage in Non-Registered Transactions, the opt-out choices described in A4 below will not be available to you, but your information will not be shared with third parties, and will not be used by any member of The Walt Disney Family of Companies to send you promotional materials other than the member involved in your transaction, except as separately permitted by other provisions of this Privacy Policy.
+
+Finally, The Walt Disney Family of Companies may take your personally identifiable information and make it non-personally identifiable, either by combining it with information about other individuals (aggregating your information with information about other individuals), or by removing characteristics (such as your name) that make the information personally identifiable to you (de-personalizing your information). Given the nature of this information, there are no restrictions under this Privacy Policy upon the right of The Walt Disney Family of Companies to aggregate or de-personalize your personal information, and The Walt Disney Family of Companies may use and/or share with third parties the resulting non-personally identifiable information in any way.
+
+ _Third Parties Offering Promotions, Products, or Services_
+
+Subject to your opt-out choices (see A4 below), The Walt Disney Family of Companies may share your personal information with selected third parties so that they can send you promotional materials about goods and services (including special offers and promotions) offered by them. (We call this type of sharing "promotional sharing" or sharing for "promotional purposes.") When sharing your information for promotional purposes, The Walt Disney Family of Companies attempts to select only reputable companies that offer high quality products and services. Moreover, The Walt Disney Family of Companies will not share your e-mail address with third parties for promotional purposes, except when you consent to such sharing in the course of your participation in a Sponsored Activity as described below. When The Walt Disney Family of Companies shares your personal information with a third party under any circumstance described in this "Third Parties Offering Promotions, Products, or Services" section, your personal information will become permanently subject to the information use and sharing practices of the third party, and the third party will not be restricted by this Privacy Policy with respect to its use and further sharing of your personal information.
+
+In addition to the promotional sharing that is subject to your opt-out choices under A4 below, The Walt Disney Family of Companies may also share your information when you engage in certain activities on our sites that are sponsored by third parties, such as purchasing products or services offered by a third party, electing to receive information or communications from a third party, or electing to participate in contests, sweepstakes, games or other programs sponsored in whole or in part by a third party. The Walt Disney Family of Companies may also share your personal information when you respond to promotional materials from The Walt Disney Family of Companies and authorize a third party to use your personal information for purposes such as, for example, sending you additional promotional materials, providing you a product or service, or entering you in a contest, sweepstakes or game. (We refer to all of these activities and requests as "Sponsored Activities.") When you participate in Sponsored Activities, you will either be required or requested to agree that the sponsor or business associate may use your personal information (including, in some cases, your e-mail address) in accordance with the sponsor or business associate's privacy practices. Since you will have consented to this specific instance of sharing of your personal information, the opt-out choice for "Third Parties" described in A4 below will not apply.
+
+ _Companies That Facilitate Communications and Transactions with You_
+
+Sometimes The Walt Disney Family of Companies hires companies to help deliver products or services, like a shipping company that delivers a package or a company that helps fulfill prizes for a sweepstakes. In those instances, there is a need to share your information with these companies. Sometimes The Walt Disney Family of Companies also works with other companies who help either gather your information or communicate with you. Your opt-out choices under A4 below will not apply to sharing by The Walt Disney Family of Companies of your personal information with any of these companies. Nonetheless, except as separately permitted by other provisions of this Privacy Policy, these companies are allowed to gather, receive, and use your information only for the purposes described in this paragraph or as required by law.
+
+ _Companies That You Previously Authorized to Obtain Your Information_
+
+In certain circumstances, your dealings with a third party may have authorized that third party to obtain your personal information from The Walt Disney Family of Companies and to use that information in accordance with the third party's own privacy practices and policies. For example, in using an online shopping service (such as the shopping services offered by Internet portals that refer the portal's users to third-party merchants), you may have authorized that shopping service to obtain from the service's participating third-party merchants (including The Walt Disney Family of Companies) information about your purchases conducted through the shopping service. In such circumstances, your opt-out elections under A4 below will not apply to sharing of your personal information by The Walt Disney Family of Companies. Nonetheless, The Walt Disney Family of Companies will provide such companies only the information that you authorized (except as separately permitted under other provisions of this Privacy Policy). In the example given above, the shopping service would be provided only information concerning purchases you made from The Walt Disney Family of Companies through that shopping service, and would not be provided any other information concerning you, unless any additional sharing of your personal information were separately permitted under another provision of this Privacy Policy.
+
+ _Purchase or Sale of Businesses_
+
+From time to time, we may purchase a business or sell one or more of our businesses and your personally identifiable information may be transferred as a part of the purchase or sale. In the event that we purchase a business, the personally identifiable information received with that business would be treated in accordance with this Privacy Policy, if it is practicable and permissible to do so. In the event that we sell a business, we will include provisions in the selling contract requiring the purchaser to treat your personally identifiable information in the same manner required by this Privacy Policy (including any amendments to this Privacy Policy). In light of this protection, your opt-out choices under A4 will not affect our right to transfer your information to a purchaser in these circumstances. The provisions of this paragraph will also apply in the event that one or more businesses of any other member of The Walt Disney Family of Companies are sold and personal information subject to this Privacy Policy is transferred to a purchaser of those businesses.
+
+ _Disclosures Required By Law and Disclosures to Help Protect the Security and Safety of Our Web Sites, The Walt Disney Family of Companies and Others_
+
+Regardless of any opt-out choices that you make under A4, The Walt Disney Family of Companies will disclose personal information when it believes in good faith that such disclosures (a) are required by law, including, for example, to comply with a court order or subpoena, or (b) will help to: enforce our Terms of Use; enforce contest, sweepstakes, promotions, and/or game rules; protect your safety or security, including the safety and security of property that belongs to you; and/or, protect the safety and security of our Web sites, The Walt Disney Family of Companies, and/or third parties, including the safety and security of property that belongs to The Walt Disney Family of Companies or third parties.   
+  
+back to top of policy  
+Q4. | What choices do you have about the collection, use, and sharing of your personally identifiable information?  
+A4. | With regard to personal information that you have provided under this Privacy Policy, there are three separate opt-out choices available to you. These opt-out choices are the means by which you give us, or decline to give us, your consent to use your personal information for the purposes covered by these opt-out choices. Some of our Web sites may not present you all three opt-out choices described below. Please be assured, however, that if any one of these opt-out choices is not presented to you on a Web site, personal information collected from you on that site will not be used for the purposes covered by that opt-out choice. There are several methods by which you can exercise your opt-out choices: (a) during the registration process on our Web sites; (b) after registration, by logging on our Web sites, clicking on our Privacy Policy links, going to a site's Guest Services center (sometimes called a site's "Member Services" or "Preference" center), and following the opt-out directions; and (c) as described below in A6. Each of these opt-out choices is subject to the exceptions described further below in this A4.
+
+Your three opt-out choices are:
+
+ _Third Parties_ : You may choose to opt-out of receiving promotional materials from third parties. If you do not choose this opt-out, The Walt Disney Family of Companies may share your personal information so that third parties can send you these promotional materials. Your opt-out choices for third parties are specific to the particular Web sites where you make these choices. Thus, if you want to opt out of all uses of your personal information covered by the "Third Parties" opt-out, you must consistently elect that opt-out at each of our Web sites where you either register, or log in and visit the Guest Services center. If you want to make a change in your "Third Parties" opt-out choices, you will need to make that change at each of our Web sites where you previously made a different choice. Please bear in mind that this opt-out choice for "Third Parties" will not apply to the licensees and co-branding participants described above in A3. _The Walt Disney Family of Companies_ : You may choose to opt-out of receiving promotional materials from members of The Walt Disney Family of Companies, including the licensees and co-branding participants described above in A3. This opt-out choice is found on each of our Web sites. For your convenience, when you make a choice regarding this The Walt Disney Family of Companies" opt-out at any one of our Web sites, we will treat that choice as replacing any other choices regarding that opt-out that that you may previously have made. Thus, if you want to make a change in your "The Walt Disney Family of Companies" opt-out choice, you can make that change by visiting the Guest Services center at any one of our Web sites. Your election to choose this "The Walt Disney Family of Companies" opt-out will not, however, override your consent to receive promotional materials from a specific member of The Walt Disney Family of Companies. As described in the following paragraph, you provide this consent when you visit the Guest Services center of the Web site for a specific member of The Walt Disney Family of Companies and choose not to opt-out of receiving promotional materials from that specific member. _Individual Disney Companies_ : You may choose to opt-out of receiving promotional materials directly from a specific member of The Walt Disney Family of Companies. To do so, you must visit the Guest Services center of the Web site for this specific member and opt-out of receiving promotional materials from this member. However, if you do not also opt-out of receiving promotional materials from "The Walt Disney Family of Companies" as described in the preceding paragraph, you may still receive promotional materials from this specific member of The Walt Disney Family of Companies.
+
+Please keep in mind that any opt-out choices you make will not apply in situations where (a) you either have made, simultaneously make, or later make a specific request for information from a member of The Walt Disney Family of Companies, (b) The Walt Disney Family of Companies uses your personal information for either "Operational Uses" or "Fulfillment Uses" (as described above in A3), (c) you either have engaged, simultaneously engage, or later engage in either Non-Registered Transactions or Sponsored Activities (as described above in A3), or (d) The Walt Disney Family of Companies shares your personal information under the provisions of A3 above with respect to "Companies That Facilitate Communications and Transactions With You," "Companies That You Previously Authorized to Obtain Your Information," "Third Party Advertisers and Network Advertisers," "Purchase or Sale of Businesses," or "Disclosures Required By Law and Disclosures to Help Protect the Security and Safety of Our Web Sites, The Walt Disney Family of Companies and Others."
+
+Finally, if you do not exercise your opt-out choices upon registration or initial log-in at our Web sites, it may take up to ninety (90) days for your opt-out choices to be fully effective. Our systems require time to update, and promotional mailings using personal information shared before your opt-out may already be in process. Thus, you might continue to receive promotional materials from The Walt Disney Family of Companies based upon the personal information you have provided under this Privacy Policy for up to ninety (90) days. For similar reasons, your personal information might continue to be shared with third parties for promotional purposes for up to ninety (90) days.   
+  
+back to top of policy  
+Q5. | What kinds of security measures do we take to safeguard your personally identifiable information?  
+A5. | The security and confidentiality of your information is extremely important to us. We have implemented technical, administrative, and physical security measures to protect guest information from unauthorized access and improper use. From time to time, we review our security procedures in order to consider appropriate new technology and methods. Please be aware though that, despite our best efforts, no security measures are perfect or impenetrable.   
+back to top of policy  
+Q6. | How can you update your contact information and opt out choices?  
+A6. | You can access and update the contact information you gave us during registration (that is, your postal address, e-mail address, or any other information that would directly enable us to contact you), or modify your opt-out choices, by going to our member services centers. Simply click on this link <https://register.go.com/go/memberservices/home>, or go to the Guest Services centers on our Web sites, and then log in with your member name and password. There are instructions on the start page of the link above to help you recover your password if you've forgotten it. If you need to recover your password, you can also contact us via e-mail at [ms_support@help.go.com](mailto:ms_support@help.go.com). Please include information in the e-mail that will help us identify your account so we can assist you with your request. We may also provide you an opportunity to update your contact information and/or modify your opt-out choices by sending you an e-mail or other communication that invites your response. Finally, you may unsubscribe from certain e-mail communications by clicking on unsubscribe links in those e-mails.   
+back to top of policy  
+Q7. | How can you ask questions, or send us comments, about this Privacy Policy?  
+A7. | If you have questions or wish to send us comments about this Privacy Policy, please send an e-mail with your questions or comments to [ms_support@help.go.com](mailto:ms_support@help.go.com) or write us:  
 
 
+Member Services  
+WDIG  
+500 S. Buena Vista St.  
+Mail Code 7716  
+Burbank, CA 91521-7716  
 
-**PRIVACY POLICY**
+Please be assured that any personal information that you provide in communications to the above e-mail and postal mail addresses will not be used to send you promotional materials, unless you so request.   
+back to top of policy  
+Q8. | How will you know if we amend this Privacy Policy?  
+A8. | We may amend this Privacy Policy at any time. If we make any material changes in the way we collect, use, and/or share your personal information, we will notify you by sending you an e-mail at the last e-mail address that you provided us, and/or by prominently posting notice of the changes on the Web sites covered by this Privacy Policy. Any material changes to this Privacy Policy will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on the Web sites covered by this Privacy Policy. Please note that, at all times, you are responsible for updating your personal information to provide us your current e-mail address. In the event that the last e-mail address that you have provided us is not valid, or for any other reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Policy may affect our use of personal information that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your information, you must notify us prior to the effective date of the changes that you wish to deactivate your account with us.
 
-**Trustee License**
-
-GO.com is a licensee of the TRUSTe Privacy Program. This statement discloses the privacy practices for the GO.com. When you visit a Web site displaying the TRUSTe trustmark, you can expect to be notified of: What personally identifiable information of yours is collected; What organization is collecting the information; How the information is used; With whom the information may be shared; What choices are available to you regarding collection, use and distribution of the information; What kind of security procedures are in place to protect the loss, misuse or alteration of information under the company's control; and How you can correct any inaccuracies in the information.
-
-Questions regarding this statement should be directed to Member Services by email at [comments@help.go.com](mailto:comments@help.go.com), by phone at (408) 543-6770, or by postal mail at: GO.com Member Services ATTN: Privacy Policy Coordinator 1399 Moffett Park Drive, Sunnyvale, CA 94089. If the Web site has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact [TRUSTe](http://www.truste.org/users/users_watchdog.html).
-
-**The Internet, Privacy, and GO.com**
-
-The Internet contains a wealth of information, unfortunately, it may also contain personal details about you that you don't want everyone to know. For example, your real name (lots of people on the Internet use aliases, alter egos or nicknames), street address, phone number, or e-mail address. When you go online, sites you visit may be gathering information about you without your knowledge. At GO.com we strive to help our customers protect their privacy while using our services.
-
-**GO.com's Privacy Policy**
-
-GO.com's policy is to respect and protect the privacy of our users. This policy statement tells you how we collect information from you and how we use it. Using the Internet should be a fun experience and we want to help you make it so.
-
-The information you provide for your personal GO.com account is shared among the GO.com sites as it is our goal to make your visits to our sites easy and enjoyable. However, be assured that GO.com will not disclose your personal information to third parties without your consent. GO.com may disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) GO.com's rights or property, other GO.com users, or anyone else that could be harmed by such activities. GO.com may disclose user information when we believe in good faith that the law requires it.
-
-GO.com shares aggregate information about our users with advertisers, business partners, sponsors and other third parties. For example, we will say GO.com's audience is x percent females and y percent males. This data is used to customize GO.com content and advertising to deliver a better experience for our users.
-
-There are cases where GO.com may ask you for personal information such as your name, email address, and birth date. For example, we request personal information when you register for a GO.com account, for online shopping or transactions, or for services that require registration or subscription (for example fantasy sports). GO.com needs to collect this information for fulfilling prizes, tracking/verifying compliance with GO.com policies as well as federal, state and local laws and/or for editorial and feedback solicitation purposes.
-
-In case you change your mind or some personal information may change (such as your zip code), we will endeavor to provide a way to correct, update or remove the personal data you give us. You can do this at the member information page or by contacting our Customer Support organization at [memberservices@help.go.com](mailto:memberservices@help.go.com).
-
-**Opting-Out**
-
-Information provided at the time of Registration or submission from a guest who is 13 years of age or over may be used for marketing and promotional purposes by GO.com and our affiliates or companies that have been prescreened by GO.com. To keep you in control of your personal information and the communications directed to you, we allow you to opt-out of the following services: sharing your information in our member directory, receiving communications from GO.com about new features or services, and receiving communications about offers from third-party companies that offer a product or service that we think would be of value to you. If a guest objects to such use for any reason, he/she may stop that use -- either by e-mail request to [memberservices@help.go.com](mailto:memberservices@help.go.com) or by modifying his/her member information online.
-
-Information provided when purchasing products from any of our online stores may be used for marketing and promotional purposes and is subject to the opt-out processes described on, or linked to, each order form.
-
-**Policies for Kids (Individuals Under 13 years of Age)**
-
-GO.com encourages parents and guardians to spend time online with their children and to participate in the activities offered on the sites. No information should be submitted to or posted at GO.com by guests under 13 years of age without the consent of their parent or guardian.
-
-Unless otherwise disclosed during collection, GO.com does not provide any personally identifying information, regardless of its source, to any third party for any purpose whatsoever from our guests under 13 years of age. All registrants receive an e-mail confirming their Registration. In addition, when a guest under 13 registers, he/she is required to provide the e-mail address of his/her parent or guardian and that parent or guardian receives an e-mail alerting them to that Registration. The parent or guardian must validate the account, as described in the e-mail, in order for the potential member to use most GO Network interactive services. No information collected from guests under 13 years of age is used for any marketing or promotional purposes whatsoever, either inside or outside GO.com except as explicitly stated during registration for contests or promotions (and in that case, the information collected is used only for the specific contest or promotion).
-
-Although guests under 13 years of age may be allowed to participate in some contests and promotions, if such a guest wins, notification and prizes are sent to the parents or guardians identified in the initial registration process. Publication of contest winners names, ages, or images for individuals under 13 require parental or guardian consent.
-
-We do not allow guests under 13 years of age to be listed in our member directory or to receive direct marketing communications from GO.com or to be sent our third-party offers.
-
-**Policies for Teens (Individuals 13-17 Years of Age)**
-
-Teens are required to provide the e-mail address of a parent or guardian and a notification message is sent to the parent or guardian of all guests who are 13 to 17 years of age which identifies the information supplied at registration and allows the parent or guardian to be aware of and participate in the guest's online experience.
-
-**Use of IP Address**
-
-An IP address is a number that's automatically assigned to your computer whenever you're surfing the Web. Web servers -- the big computers that "serve up" Web pages -- automatically identify your computer by its IP address.
-
-GO.com collects IP addresses for the purposes of system administration, to report aggregate information to our advertisers, and to audit the use of our site. When guests request pages from GO.com sites, our servers log the guests' IP addresses. We do not normally link IP addresses to anything personally identifiable, which means that a user's session will be logged, but the user remains anonymous to us. We can and will use IP addresses to identify a user when we feel it is necessary to enforce compliance with our house rules or terms of service or to protect our service, site, customers or others.
-
-Some services within GO.com, such as certain message boards, may display IP addresses along with the message poster's name and message. Please review each service prior to use and only use those that disclose information you are comfortable with sharing.
-
-**Use of Cookies**
-
-What are cookies? Cookies are pieces of information that a Web site transfers to an individual's hard drive for record-keeping purposes. Cookies make Web-surfing easier for you by saving your preferences while you're at our site. We never save passwords or credit card information in cookies. The use of cookies is an industry standard -- you'll find them at most major Web sites.
-
-By showing how and when guests use a site, cookies help us see which areas are popular and which are not. Many improvements and updates to the site are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies. We use the information from cookies to provide services better tailored to our users needs.
-
-GO.com has two primary uses for its cookies. First, we use them to specify unique preferences. For example, in GO.com's News Center, users can specify keywords across several news categories. This way you don't have to tell us over and over again about the kinds of news stories you want to see. Secondly, we use cookies to track user trends and patterns. This helps us better understand and improve areas of the GO Network service that our users find valuable. While both of these activities depend on the use of a "cookie," visitors to GO.com always have the option of disabling cookies via their browser preferences. Information from cookies is sometimes attached to messages sent to our Customer Service department.
-
-Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, note that some parts of the GO.com service will not function properly or may be considerably slower if you refuse cookies. For example, without cookies, you will not be able to set personalized news preferences or you may have difficulty completing shopping transactions, entering contests, or playing games.
-
-You may occasionally get cookies from our advertisers. GO.com does not control these cookies. The use of advertising cookies sent by third-party servers is standard in the Internet industry.
-
-**Links to Other Sites**
-
-Users should be aware that when you are on GO.com, you could be directed to other sites that are beyond our control. There are links to other sites from GO.com pages that take you outside our service. For example, if you "click" on a banner advertisement or an GO.com search result, the "click" takes you off the GO.com site. This includes links from advertisers, Center sponsors and partners that may use GO.com's logo as part of a co-branding agreement. These other sites may send their own cookies to users, collect data or solicit personal information.
-
-Please keep in mind that whenever you give out personal information online --- for example, via message boards or chat --- that information can be collected and used by people you don't know. While GO.com strives to protect its user's personal information and privacy, we cannot guarantee the security of any information you disclose online and you do so at your own risk.
-
-GO.com's policy does not extend to anything that is inherent in the operation of the Internet, and therefore beyond GO.com's control, and is not to be applied in any manner contrary to applicable law or governmental regulation.
-
-**Security**
-
-The importance of security for all personally identifiable information associated with our guests is of utmost concern to us. We exercise great care in providing secure transmission of your information from your PC to our servers. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, GO.com can't ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. When credit card information is transmitted we use industry standard, SSL (secure socket layer) encryption.
-
-Your GO.com Account is password protected so that only you can access it and view the member information relevant to the account. We recommend that you do not divulge your password to anyone. GO.com will never ask you for your password in an unsolicited phone call or email. Ultimately, you are responsible for maintaining the secrecy of your passwords and any account information.
-
-Remember to sign out of your GO.com account and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if your computer is accessible to others or if you share a computer with someone else or are using a computer in a public place like a library or internet café.
-
-**Your Acceptance of These Terms**
-
-By using this site, you signify your assent to the GO.com Privacy Policy. If you do not agree to this policy, please do not use our sites. Your continued use of the GO.com sites following the posting of changes to these terms will mean you accept those changes.
-
-Last Updated 7/16/99
-
-Back to top
+The Walt Disney Internet Group is a licensee of the TRUSTe Privacy Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact TRUSTe at http://www.truste.org/users/users_watchdog.html.   
+  
+back to top of policy  
+  
+* * *
 
   
-**SAFETY TIPS**   
-This is a great place for both new and advanced Web users to find information on using the Internet wisely. 
+**YOUR CALIFORNIA PRIVACY RIGHTS**
 
-**Go.com's Internet Safety Tips**
+Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of the Walt Disney Internet Group (including Movies.com, LLC) who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [caprivacy.wdig@twdc.com](mailto:caprivacy.wdig@twdc.com) or write us: 
 
-  1. Keep your passwords private, even from your best friend! Your online service will never ask for them, so neither should anyone else. 
-  2. Use only your member name and/or e-mail address when chatting or sending e-mail. Never give out personal information like your name, address, or phone number. 
-  3. Always delete unknown e-mail attachments before opening them. They can contain destructive viruses. 
-  4. Remember that nothing you write on the Web is completely private - including e-mail. So be careful and think about what you type and who you tell. 
-  5. Not everyone is as nice, cute and funny as they may sound online. Never make plans to meet an online "friend" in person. 
-
-
-
-**More Safety Information from GO.com**
-
-  1. [Cybernetiquette Comix](http://disney.go.com/cybersafety/index.html) \- an entertaining, interactive way for families to learn valuable lessons about online safety. Join classic Disney characters for adventure, fun, and online awareness tips. 
-  2. [Disney's Doug](http://disney.go.com/disneytelevision/onesaturdaymorning/doug/tips/dougtips.html) \- Safety Tips from "Doug's Adventures Online" 
-  3. [Test Your Internet Smarts](http://apps.disney.go.com/global/quiz/quiz.cgi?def=doug1) \- How much do you know about Internet safety? 
-  4. [More Top 10 Netiquette Tips](http://disney.go.com/cybersafety/tips2.html) \- An overview of good manners on the Internet. 
-  5. "[Safe and Sound](http://family.disney.go.com/Features/family_1998_03/dony/dony38safety/dony38safety.html)" - An internet safety article from Family.com. 
-  6. [Safe Surfing for Kids](http://family.go.com/Features/family_1997_07/famp/famp77savvypooh/famp77savvypooh.html) \- An internet safety article from FamilyPC Magazine. 
-
-
-
-Back to top
-
+WDIG CA Privacy Rights  
+500 S. Buena Vista St.  
+Mail Code 7716  
+Burbank, CA 91521-7716 
   
-**TOOLS FOR FAMILIES**   
-A number of tools exist to help parents manage their children's online experience, including hardware and software programs that provide filtering options. Below are links that contain useful information on choices and levels of filtering that parents can use during family time on the Web. You can download special software or purchase specific hardware that will limit surfing to sites you deem appropriate for your household. Many of these services are free of charge; others require some form of payment. 
-
-**Links to Filtering Software**
-
-  1. [GO.com | Internet Content Filters page](http://www.go.com/WebDir/Family/Parent_Pages/Internet_issues/Internet_content_filters)   
-
-  2. [SurfWatch](http://www.surfwatch.com/)   
-
-  3. [Cyberpatrol](http://www.microsys.com/)   
-
-  4. [EdView](http://www.edview.com/)   
-
-  5. [Anti-Defamation League Hate Filter](http://www.adl.org/hate-patrol/info/default.htm)   
-
-  6. [Guardianet](http://www.guardianet.net/)   
-
-  7. [Bess](http://www.n2h2.com/products/bess/index.html)   
-
-  8. [Net Nanny](http://www.netnanny.com/)   
-
-  9. [X-Stop](http://www.xstop.com/)   
-
-  10. [SOS KidProof](http://www.soskidproof.com/featurenet.asp)
-
-  
-**Links to Articles and Other Resources**
-
-  1. [JumpStart for Parents](http://www.tenet.edu/jumpstart/parents.html) \- Resource list of links for parents regarding child safety, filtering software, parenting organizations, and more. 
-  2. [Filtering Facts Website](http://www.filteringfacts.org/) \- An online source for information on making Internet access in libraries safe for children and communities. 
-
-
-
-Back to top
-
-  
-**REPORTING TROUBLE ONLINE**   
-This section offers links to a variety of local and national authorities and organizations that can assist you with specific online and safety concerns, including links to local police and the FBI. 
-
-  1. [National Center for Missing and Exploited Children](http://www.missingkids.com/) \- Information on Missing Children 
-  2. [CyberTipline](http://www.missingkids.com/cybertip) \- Hotline if you have information on a missing child. 
-  3. [National Missing Persons Helpline](http://www.missingpersons.org/) \- Support organization for those searching for missing family or friends. 
-  4. [APB Missing](http://www.apbonline.com/missing/index.html) \- Information on Missing Persons 
-  5. [Suicide Crisis Center](http://suicidehotlines.com/) \- Suicide Prevention Information 
-  6. [Officer.com](http://www.officer.com/agencies.htm) \- Directory of Law Enforcement Agencies in the U.S. and around the World. 
-  7. [FBI Online Pamphlet](http://www.fbi.gov/library/pguide/pguide.htm) \- A Parent's Guide to Internet Safety 
-  8. [FBI Kids and Youth Educational Page](http://www.fbi.gov/kids/crimepre/crimeprev.htm) \- Crime Prevention 
-  9. [U.S. Department of Justice Online](http://www.usdoj.gov/) \- Information on the U.S. Dept. of Justice 
-  10. [U.S. Department of Justice](http://www.usdoj.gov/kidspage/) \- Justice for Kids and Youth 
-  11. [U.S. Bureau of Alcohol, Tobacco and Firearms (ATF)](http://www.atf.treas.gov/) \- Information on the ATF 
-  12. [Federal Trade Commission (FTC)](http://www.ftc.gov/) \- Information on the FTC 
-
-
-
-Back to top
-
-  
-**GUIDE TO GOOD CONTENT FOR KIDS**   
-The Internet offers thousands of great Web sites and services for kids and families, but trying to figure out which sites are appropriate for different members of your family can be challenging. This section provides a snapshot of kid-friendly sites designed to educate, guide and inform kids in all age groups. 
-
-**Search and Directory for Kids**
-
-  * [GO Kids](http://www.go.com/Center/Kids) \- One-stop shop for tons of great kids links 
-  * [GO Kids | Surf the Web](http://www.go.com/Center/Kids/Computers_and_WWW/Learn_the_Web_for_kids) \- Super-special search resource for cartoons, homework and games 
-  * [Go Kids | Learn the Web](http://www.go.com/WebDir/Family/Kids/Computers_and_WWW/Learn_the_Web_for_kids?svx=TAB_Topic) \- Web-education links from A to Z 
-  * [CyberPatrol's Route 6-16](http://www.cyberpatrol.com/616/default.htm) \- Guide to the Web for kids, parents and teachers 
-
-
-
-**Fun and Activities**
-
-  * [Family.com](http://family.go.com/) \- The number one site for family fun and activities 
-  * [The Cartoon.com](http://www.cartoonnetwork.com/) \- Online home to some of your favorite cartoon characters 
-  * [Curiocity's FreeZone](http://www.freezone.com/) \- Online community for kids 
-  * [Dr. Seuss's Seussville](http://www.randomhouse.com/seussville/) \- Not just green eggs and ham! 
-  * [Lego Worlds](http://www.lego.com/worlds.asp) \- Online building blocks 
-  * [Bonus.com](http://www.bonus.com/) \- Supersite for kids with fun, free activities 
-  * [CTW Family Workshop](http://www.ctw.org/home/content/0,2946,,FF.html) \- Home of Sesame Street 
-  * [Ty](http://www.ty.com/) \- The Official Home of Beanie Babies 
-  * [The Wild World of Wonka](http://www.wonka.com/Home/wonka_home.html) \- The official Web site of the Willy Wonka Candy Factory. 
-  * [Fun with Fruits and Vegetables Kids Cookbook](http://www.dole5aday.com/COOK/COOKBOOK.html) -Safe, healthy fun for the kitchen   
-[Burger Town on KidsCom](http://burgertown.kidscom.com/) \- Activities and recipes just for kids 
-  * [Cyberkids](http://www.cyberkids.com/) \- Games, activities and community just for kids 
-
-
-
-**Learning on the Web**
-
-  * [Exploratorium](http://www.exploratorium.edu/) \- The museum of science, art and human perception 
-  * [Zoo Web](http://www.zooweb.net/) \- Your online link to zoos and aquariums around the world 
-  * [Smithsonian Institution](http://www.si.edu/) \- Online home of America's most amazing museums and artifacts 
-  * [PBS Kids!](http://www.pbs.org/kids) \- Public television's online destination for kids 
-  * [HaringKids](http://www.haringkids.com/) \- Official Keith Haring Web site for children under 14 
-  * [Children's Literature Web Guide](http://www.ucalgary.ca/~dkbrown/) \- Great resource for books and learning 
-  * [FunBrain.com](http://www.funbrain.com/) \- Educational online games for Kids 
-  * [SeaWorld/Busch Gardens Animal Information Database](http://www.seaworld.org/) \- Shamu and friends on the Web 
-  * [NASA Web](http://www.nasa.gov/) \- National Aeronautics and Space Administration home page 
-  * [TIME Magazine for Kids](http://www.pathfinder.com/TFK/) \- Current news and views just for kids 
-  * [National Geographic for Kids](http://www.nationalgeographic.com/kids/index.html) \- Links to amazing cultures and people around the world 
-  * [The White House for Kids](http://www.whitehouse.gov/WH/kids/html/home.html) \- Socks and Buddy give a full White House tour for kids 
-  * [Internet Public Library Youth Section](http://www.ipl.org/youth) \- Super kid-friendly library links   
-
-  * [WhaleNet](http://whale.wheelock.edu/) \- An interactive education program - monitor whales, dolphins and others via satellite! 
-
-
-
-**Other Resources**
-
-  * [SafeKids.Com](http://www.safekids.com/) \- Tips, links, and suggestions for your family's online experience 
-  * [Kid's Domain](http://www.kidsdomain.com/) \- Shareware and freeware for kids recommended by parents and teachers 
-  * [KIDSNET](http://www.kidsnet.org/) \- Media guide for children's TV and Internet programming 
-  * [KidsBank.com](http://www.kidsbank.com/) \- A fun place for kids to learn about banking. 
-  * [FTC Kidz Privacy](http://www.ftc.gov/kidzprivacy) \- A cute place to get information from Federal Trade Commission. 
-
-
-
-Back to top
-
-  
-
-
-**GET NETWISE**
-
-GetNetWise is an online resource for families that, with the click of a mouse, will deliver information and tools needed to guide children to a safe, enriching experience online. Functioning as an interactive directory, GetNetWise contains aggregated and syndicated content that can be found by clicking on the blue-and-white GetNetWise logo below. It is the result of a broad industry effort to create an online environment where families feel empowered with the tools and information they need to safeguard children while providing access to an unprecedented wealth of global resources, information and contacts available on the Internet. 
-
-[](http://www.getnetwise.org/)
-
-Back to top
-
-  
-  
----|---|---
+back to top of page  
