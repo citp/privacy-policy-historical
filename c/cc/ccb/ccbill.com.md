@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccbill.com privacy policy that was archived on 2004-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041230195705id_/http%3A//about.ccbill.com/html_forms/privacy_policy-english.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccbill.com privacy policy that was archived on 2005-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050629235637id_/http%3A//about.ccbill.com/html_forms/privacy_policy-english.html) for the most accurate reproduction.*
 
 # Untitled Document
 
@@ -30,7 +30,7 @@ CCBill will release data when we believe the release is appropriate to comply wi
 
 It is your obligation to provide CCBill with accurate and up-to-date information, and failure to provide us with such information could void any Agreement between you and CCBill. We use the information that you provide for such purposes as processing your e-ticket request, responding to customer service inquiries, loss prevention, improving our service, communicating with you, and allowing our clients to provide customer service and fulfill their obligations to you. CCBill’s employees have access to your information on a need-to-know basis. CCBill will not sell your information to an independent third party for any reason.
 
-In addition, CCBill, as part of the credit card processing system must provide limited information to the services that connect it to the companies that perform the banking functions. The credit card associations have strict privacy rules that these companies must adhere to in order to be authorized to receive and process credit card transactions. CCBill will never knowingly provide your information credit card information outside of this system.
+In addition, CCBill, as part of the credit card processing system must provide limited information to the services that connect it to the companies that perform the banking functions. The credit card associations have strict privacy rules that these companies must adhere to in order to be authorized to receive and process credit card transactions. CCBill will never knowingly provide your credit card or bank account information outside of this system.
 
 CCBill employs the latest and best techniques available for protecting its systems from intrusion by unauthorized individuals, and is constantly upgrading its security as better methods become available. All information is stored behind firewalls and other sophisticated security systems. In addition, our data center utilizes state-of-the-art physical security measures to prevent unauthorized access to the facility.
 
