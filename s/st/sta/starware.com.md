@@ -1,78 +1,99 @@
-> *The following text is extracted and transformed from the starware.com privacy policy that was archived on 2002-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021003152816id_/http%3A//www.starware.com/policyprivacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starware.com privacy policy that was archived on 2005-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050630011422id_/http%3A//www.starware.com/2.0.0.0/privacy.html) for the most accurate reproduction.*
 
-# Starware Privacy Policy
+# starware
 
-**Starware Privacy Policy**
+  
+Version 08/26/2004
 
-Please read this Privacy Policy carefully. It's short and you don't need to be a lawyer or a software engineer to make sense of it. If there are any technical terms that you don't understand, we encourage you to visit [www.webopedia.com](http://www.webopedia.com/). This resource will give you friendly definitions. 
+At Starware we're passionate about making great software and we work hard at providing valuable products at no cost to our users.  No cost?  How do we pay the bills? 
 
-If you have any additional questions, please email or call Adam Solomon, our Chief Privacy Officer. His email is [asolomon@cometsystems.com](mailto:asolomon@cometsystems.com?subject=Starware%20Privacy%20Policy) and his phone number is (212) 231-2000 ext.112. 
+Starware's principle revenue is earned through its search tools.  Sites pay to get certain placement within key word search results.  If users find those results attractive and click through to the page, the advertiser pays the search partner for the click.  This is the way it works at Google and Yahoo and it's the way it works with starware.com.
 
-* * *
+The big guys get their search traffic from owning powerful brands.  We get ours by building great downloadable products and search tools that makes your online experience a little better.  If we build useful products that aren't polluted with annoying advertising, you'll keep them installed and we'll make money to fund more great products.
 
-The Starware AdZapper is part of the Starware line of software products from Comet Systems, Inc. 
+Most of our searches are generated through the use of our toolbar.  Internet Explorer also has a number of features that direct the user to search results.  The default setting displays these results using MSN.  If you choose to make Starware your default search provider on install, these search results will be delivered by us.
+
+Over time we will find new innovative and useful features that generate revenue through search and advertising.  These products will be unobtrusive and always give you the ability to turn the feature off if you choose.
+
+Policy Overview
 
 We want you to feel comfortable downloading and using our products. We understand that your trust in us depends on us respecting your privacy and being careful about safeguarding any information that you provide us. 
 
-Comet has put in place strict guidelines—detailed below—to demonstrate that we are acting in ways that we (as longtime citizens of the Internet ourselves) expect to be treated when we download software or buy products on the Internet. 
+We have put in place guidelines-detailed below-to demonstrate that we are acting in ways that we (as longtime citizens of the Internet ourselves) expect to be treated when we download software on the Internet. 
 
-* * *
+Practices
 
-**Does Comet track the websites I visit or what I do on them?**  
-No. 
-
-**Will Comet ever send me unsolicited commercial email ("spam")?**  
-No. 
-
-**What does Comet do to protect my security with its Starware products?**  
-During the download and installation of Starware products, Comet uses Microsoft's high-security technology to make sure that the software you are installing has not been tampered with or modified by anyone outside of Comet. The technology (called Authenticode) verifies that a given software file has not been modified from the time it was "signed" (i.e., shipped) by its publisher. Like the seal on a bottle of Tylenol, this technology reveals if the software has been tampered with before it reaches your computer. If this tamper-test fails, the software will be rejected and prevented from running on your computer. These protections help ensure that our software remains 100% virus-free. 
-
-**Does Comet collect usage statistics on Starware products, and if so, what does it do with such information?**  
-Yes, but only anonymously. Comet collects anonymous usage statistics on its Starware products. We use these statistics to improve our software products. These statistics are limited to direct usage of our products only, such as how many people installed a free trial of a Starware product this month, or how many ads were zapped by the AdZapper in a given day. We _never_ collect information on where people go on the Web, what they do on the Web, or any other information that is not directly linked to usage or promotion of Starware products. 
-
-**Does Comet create individual user profiles with the usage statistics it collects?**  
-No. 
-
-**What personally identifiable information is collected about users of Starware software products?**  
-"Personally identifiable information" is non-anonymous information such as your name, phone number, credit card information, address or email address—anything that could identify you personally. 
-
-Users who download a free trial of a Starware product are not asked for personally identifiable information. 
-
-Users who buy the full version of Starware products are asked for their email address and the name and number on their credit card in order to process the transaction. This information is used to validate your purchase request and to maintain a record of your purchase. Your email address also serves as your username for logging into the Starware.com online store, where you can get "free refills" of products you've already purchased. No other personally identifiable information is collected about users who purchase Starware products. 
-
-**How does Comet protect personally identifiable information?**  
-Comet employs controls to protect the security of personally identifiable information you provide us, including the credit card information we collect during the purchase process. These controls include (1) the use of secure connections using SSL (Secure Socket Layer) to safeguard information when transmitted from your Web browser to Comet Systems, and (2) the use of strong encryption to safeguard personally identifiable information within our databases. 
-
-In addition, Comet only gives access to databases containing personally identifiable information to employees on a need-to-know basis. Internal passwords are regularly changed pursuant to security protocols, and our security procedures are reviewed on a regular basis. 
-
-**Does Comet share personally identifiable information with other companies or with advertisers?**  
-No. 
-
-**Will I get email from other companies because I buy a Starware product?**  
-Users who download the free trial of Starware products _will never_ receive any email from Comet or any other companies as a result of trying a Starware product—note that you are not asked to provide an email address when trying a Starware product. If you have purchased a Starware product (such as the Starware AdZapper), you may receive periodic emails from Starware (part of Comet Systems) informing you of product upgrades, new products, and special offers. If you do not wish to receive such emails, you may unsubscribe at any time and prevent further emails from Comet. In any event, we do not share or rent our email lists so you will never receive email directly from companies other than Comet. 
-
-**Do Starware products have unique serial numbers?**  
-After you download our software, our servers generate and assign your computer an anonymous download number. We use this number to count how many people have downloaded our software. 
-
-Users who purchase full versions of Starware products also receive unique "license keys". License keys are numbers that validate your purchases and serve to "unlock" your software to make sure that you have use of the full versions. 
-
-**Has Comet linked its download number, license keys, or any other unique product serial numbers with personally identifiable information?**  
-Comet creates an association between license keys and your account information (email address, credit card information) in order to maintain a record of which users have paid licenses for our products in order to issue "free refills". In the event that you delete a Starware product, or your software becomes damaged for some reason, our customer service representatives will be able to confirm that you had previously purchased the product and can assist you in reinstalling the product. Beyond that, Comet does not create any linkages between personally identifiable information and unique serial numbers. 
-
-**What can I do to remove Starware products from my computer?**  
-All Starware products are straightforward to remove using the standard Windows method for uninstalling programs. For specific directions on removing a particular Starware product from your computer, click on any HELP link found within your Starware product. 
-
-* * *
-
-We encourage you to periodically check back here (there are links to this privacy policy from all Starware products and from the Starware.com Website). If we ever make changes to our privacy policy, we will post them here seven days before they go into effect. 
-
-**Where can I learn more about protecting my privacy online?**  
+  * Our software is installed only with the user's permission.  We do not bundle our software with partners that install without obtaining user permission.
+  * We're proud of our software and our business and we tell you what we do.
+  * We allow you to disable advertising features that you feel are not valuable.
+  * We make it easy for you to uninstall our software through the standard Add/Remove interface.  No tricks.  Try it out.  If you don't like it, uninstall it.
+  * We put our brand on our products and provide you with links to our customer service department.
 
 
-If you would like to learn more about how to protect your privacy online, please check out the following online resources: 
-  * [Center for Democracy and Technology](http://www.cdt.org/)
-  * [Electronic Privacy Information Center ](http://www.epic.org/)
-  * [Electronic Frontier Foundation ](http://www.eff.org/)
-  * [TRUSTe ](http://www.truste.com/)
 
-[ ](http://www.truste.com/)
+Data collection 
+
+We need to collect some data to know how many users we have, how our products are performing and how our business is doing.   We do not exploit our users nor do we collect any data that allows us or anyone else to personally identify a user.
+
+  * We do not send or collect any information that can personally identify a user.
+  * We do collect information that is already available to every website you visit.  Examples include browser version, language and other browser and connection information. 
+  * We use a unique id in order to know how many people use our products. This id is not personally identifying in any way; it is a completely random number.  
+  * We do send a log once per day that tells us how many users are installed.
+  * We do collect data at our search and travel sites.  This is needed to monitor our business performance.  This data does not contain any personally identifying information.
+  * We do not and will not sell or distribute any data collected from the user. 
+  * We do share aggregated information with others. Examples of this include how many users clicked on a particular paid listing in a search result. 
+  * We do take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data **.**
+
+
+
+Cookies 
+
+  * We may use cookies to determine if you are a new or existing user.
+  * Our cookies contain no personally identifying information.
+  * You may disable the use of cookies through Internet Explorer's settings.
+
+
+
+Updating 
+
+  * Our product is dynamic in much the same way as a web page.  Some files reside on the local machine, some reside on our servers.  Bug fixes and new features may be added to the product without notice.
+  *  Any new product that requires us to modify our privacy policy will make such requirements known to the user and allow the user to block the data or disable the product.
+
+
+
+Links 
+
+  * The sites displayed as search results or linked to by us are developed by people over whom we exercises no authority. These other sites may place their own cookies on your computer, collect data or solicit personal information without our knowledge or control. 
+
+
+
+Disabling
+
+  * You may disable specific features through our Preference settings.  This allows you to turn off features you don't like and keep the ones you do.
+  * Uninstall is simple.  Go to your Start Menu>Control Panel>Add/Remove Programs. When you have the Add/Remove Control Panel open, scroll down the list of installed programs until you see "Starware."  Select it by clicking on it and then click "Change/Remove."  It should remove the program all together.  If you still see the toolbar on your desktop, or any other starware.com files remaining on your hard drive, please contact us at [Customer Support](http://as.starware.com/dp/feedback?src_id=10003&client_id=site&version=site). 
+
+
+
+Changes to this Policy
+
+  * Please note this Privacy Policy may change in the future. Our current privacy policy will always be made available at this page. The policy version will be noted at the top of the page and previous versions will be made available to review upon request.
+  * If you have any additional questions, or would like to suggest improvements to this policy, please contact our privacy officer at chrisp @ searchrover.net.
+
+
+
+To install our product, [Click Here](https://web.archive.org/web/20050630011422id_/http%3A//www.starware.com/2.0.0.0/download.php).
+
+If there are any terms in this policy you don't understand, visit [www.webopedia.com](http://www.webopedia.com/)
+
+If you would like to learn more about how to protect your privacy online, check out the following online resources: 
+
+[Center for Democracy and Technology](http://www.cdt.org/)
+
+[Electronic Privacy Information Center](http://www.epic.org/)
+
+[Electronic Frontier Foundation](http://www.eff.org/)
+
+[TRUSTe](http://www.truste.com/)
+
+  
+
