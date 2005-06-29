@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costco.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204214838id_/http%3A//www.costco.com/Service/FeaturePageLeftNav.aspx%3FProductNo%3D10166084) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costco.com privacy policy that was archived on 2005-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050629074059id_/http%3A//www.costco.com/Service/FeaturePageLeftNav.aspx%3FProductNo%3D10166084) for the most accurate reproduction.*
 
 # Costco.com
 
