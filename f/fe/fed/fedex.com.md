@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fedex.com privacy policy that was archived on 2004-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041230230328id_/http%3A//www.fedex.com/us/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fedex.com privacy policy that was archived on 2005-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050630235954id_/http%3A//fedex.com/us/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy for fedex.com
+# Privacy Policy - FedEx Web Site
 
 FedEx Corporation understands the importance of protecting the privacy of fedex.com users. The information collected is used to market and improve the services we and our subsidiaries offer, to improve the fedex.com web site content, and to contact you with updates to the web site or for other marketing purposes. 
 
