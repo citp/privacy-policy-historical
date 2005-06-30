@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lavalys.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206184626id_/http%3A//www.lavalys.com/privacy.php%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lavalys.com privacy policy that was archived on 2005-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050630073344id_/http%3A//www.lavalys.com/privacy.php%3Flang%3Den) for the most accurate reproduction.*
 
-# Lavalys - Enterprise Management Solutions
+# Lavalys - Comprehensive IT Security and Management
 
 Lavalys Consulting Group, Inc. ("LAVALYS") respects your privacy and are committed to protecting it. Lavalys provides this Privacy Statement to inform you of our Privacy Policy and practices and of the choices you can make about the way your information is collected online and how that information is used.
 
