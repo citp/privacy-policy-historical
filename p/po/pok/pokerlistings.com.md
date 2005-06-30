@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pokerlistings.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204075959id_/http%3A//www.pokerlistings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerlistings.com privacy policy that was archived on 2005-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050630074124id_/http%3A//www.pokerlistings.com/privacy-policy) for the most accurate reproduction.*
 
 # Online Poker Guide - PokerListings.com - Best Poker Online
 
-|  PokerListings.com respects your privacy. All information collected at this website will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to Pokerlistings.com will be held with the uttermost care, and will not be used in ways that you have not consented to. 
+PokerListings.com respects your privacy. All information collected at this website will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to Pokerlistings.com will be held with the uttermost care, and will not be used in ways that you have not consented to. 
 
 1\. Resale or disclosure of information to third parties:  
 Pokerlistings.com does not sell, rent, trade, loan, or lease any personal information collected at our site, including membership forms or email lists. 
@@ -17,8 +17,6 @@ We currently have ads served by an in-house program, which follow those privacy 
 PokerListings.com does use cookies on its website, mostly in order to track traffic coming from other websites and leaving to other websites. With the cookies, we make no attempt to link them with the individuals to make any information personally identifiable. 
 
 5\. Updates and changes:  
-PokerListings.com reserves the right to replace this "privacy policy" at any time. We suggest that you regularly check: [http://www.pokerlistings.com/info/privacy_policy/]()
+PokerListings.com reserves the right to replace this "privacy policy" at any time. We suggest that you regularly check: http://www.pokerlistings.com/info/privacy_policy/ 
 
-Please email: [info@pokerlistings.com](mailto:info@pokerlistings.com) with questions or comments. 
-
-| 
+Please email: info@pokerlistings.com with questions or comments. 
