@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the letstalk.com privacy policy that was archived on 2004-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041231070428id_/http%3A//www.letstalk.com/about/security1.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the letstalk.com privacy policy that was archived on 2005-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050630085521id_/http%3A//www.letstalk.com/about/security1.htm) for the most accurate reproduction.-->
 
 <html><head><title>Privacy &amp; Security</title>
 <meta name="keywords" content="Privacy, Security, Site Security, TRUSTe certified, Cookies, Browsers">
@@ -18,7 +18,10 @@
           </script></head>
 
 	<body bgcolor="#FFFFFF" marginheight="0" marginwidth="0" leftmargin="0" topmargin="0" text="#000000">
- <script language="javascript">
+
+<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
+
+<script language="javascript">
 browserName = navigator.appName;
 browserVersion = parseInt(navigator.appVersion);
    if (browserName == "Netscape" && browserVersion >= 3) version = "n3";
@@ -75,7 +78,8 @@ function buttonOff(imageName) {
 function Go(){return}
 </script>
 
-
+<iframe id="DivShim" src="javascript:false;" scrolling="no" frameborder="0" style="position:absolute; top:0px; left:0px; display:none;">
+	 </iframe>
 <script language="Javascript">
 
 /***********************************************************************************
@@ -85,16 +89,16 @@ function Go(){return}
 ***********************************************************************************/
 
 	var NoOffFirstLineMenus=4;			// Number of first level items
-	var LowBgColor='#6666cc';			// Background color when mouse is not over
-	var LowSubBgColor='#6666cc';			// Background color when mouse is not over on subs (A) 
-	//var HighBgColor='#333399';			// Background color when mouse is over (B)
+	var LowBgColor='#6666CC';			// Background color when mouse is not over
+	var LowSubBgColor='#6666CC';			// Background color when mouse is not over on subs (A) 
+	//var HighBgColor='#6666CC';			// Background color when mouse is over (B)
 	var HighBgColor='';			// Background color when mouse is over (B)
 	var HighSubBgColor='#333399';			// Background color when mouse is over on subs 
 	var FontLowColor='#FFFFFF';			// Font color when mouse is not over (C)  
 	var FontSubLowColor='#FFFFFF';			// Font color subs when mouse is not over (C) 
 	var FontHighColor='#FFFFFF';			// Font color when mouse is over (C) 
 	var FontSubHighColor='#FFFFFF';			// Font color subs when mouse is over (C) 
-	var BorderColor='#6666cc';			// Border color
+	var BorderColor='#6666CC';			// Border color
 	var BorderSubColor='#000000';			// Border color for subs
 	var BorderWidth=1;				// Border width
 	var BorderBtwnElmnts=1;			// Border between elements 1 or 0
@@ -132,31 +136,61 @@ function Go(){return}
 function BeforeStart(){return}
 function AfterBuild(){return}
 function BeforeFirstOpen(){return}
-function AfterCloseAll(){return}
 
+//bug 15191
+//function AfterCloseAll(){return}
+function   ShowIFrame(w,h, l,t)
+{
+	
+	id = document.getElementById('divShim');
+	if(id)
+	{
+		id.style.left = l;
+		id.style.top = t;
+		id.style.width = w;
+		id.style.height = h;
+		id.style.display = 'block';
+	}
+}
+function HideIFrame()
+{
+	id = document.getElementById('divShim');
+	if(id)
+	{
+		id.style.left = 0;
+		id.style.top = 0;
+		id.style.width = 0;
+		id.style.height =0;
+		id.style.display = 'none';
+	}
+}
+function AfterCloseAll()
+{
+	HideIFrame();
+}
 
 // Menu tree
 //	MenuX=new Array(Text to show, Link, background image (optional), number of sub elements, height, width);
 //	For rollover images set "Text to show" to:  "rollover:Image1.jpg:Image2.jpg"
 
 
-Menu1 = new Array('<div align=center style=\'border-right : 1px solid #000000; padding-top: 2px; font-weight: bold\'>Special Offers</div>','/product/promo.htm?depId=1&pgId=100','',4,18,140);
-Menu1_1 = new Array('Phone w/New Plan','/product/promo.htm?depId=0&pgId=0&tNav=1&trk=TNPHP','',0,20,164);
-Menu1_2 = new Array('Phone w/Family Plan','/product/promo.htm?depId=0&pgId=0&tNav=2&trk=TNFAM','',0,20,164);
-Menu1_3 = new Array('Phone w/Prepaid Plan','/product/promo.htm?depId=0&pgId=0&tNav=4&trk=TNPRE','',0,20,164);
-Menu1_4 = new Array('Free Shipping','/freeshipping.htm','',0,20,164);
-Menu2 = new Array('<div align=center style=\'border-right : 1px solid #000000; padding-top: 2px; font-weight: bold\'>Shop by Feature</div>','/product/findProducts.htm?depId=1&pgId=100&tNav=1','',2,18,140);
-Menu2_1 = new Array('Phones by Feature','/product/findProducts.htm?depId=1&pgId=100&tNav=1','',0,20,164);
-Menu2_2 = new Array('Plans by Feature','/product/findProducts.htm?depId=2&pgId=101&tNav=1','',0,20,164);
-Menu3 = new Array('<div align=center style=\'border-right : 1px solid #000000; padding-top: 2px; font-weight: bold\'>Shop by Brand</div>','/product/browse.htm/depId=1/pgId=100','',2,18,140);
-Menu3_1 = new Array('Phone Brands','/product/browse.htm/depId=1/pgId=100/','',0,20,164);
-Menu3_2 = new Array('Service Plan Brands','/product/browse.htm/depId=2/pgId=101','',0,20,164);
-Menu4 = new Array('<div align=center style=\'border-right : 1px solid #000000; padding-top: 2px; font-weight: bold\'>Learn About Wireless</div>','','',5,18,140);
-Menu4_1 = new Array('Read User Reviews','/reviews/reviewhome.htm','',0,20,164);
-Menu4_2 = new Array('Keep My Number','/numberPortability/numport.htm?pgId=0&depId=0','',0,20,164);
-Menu4_3 = new Array('Buyer\'s Guides','/listArticles.htm?depId=0&pgId=0','',0,20,164);
-Menu4_4 = new Array('Why Buy From LetsTalk','/promo/whybuy/whybuy2.htm?depId=0','',0,20,164);
-Menu4_5 = new Array('Refer a Friend','/referafriend/referafriend.htm?rafId=7&depId=0','',0,20,164);
+Menu1 = new Array('<div align=center style=\'border-right : 1px solid #000000; padding-top: 2px; font-weight: bold\'>Special Offers</div>','http://www.letstalk.com/product/promo.htm?depId=1&pgId=100','',4,18,140);
+Menu1_1 = new Array('Phone w/New Plan','/product/promo.htm?depId=0&pgId=&carId=&tNav=1&trk=TNPHP','',0,20,185);
+Menu1_2 = new Array('Phone w/Family Plan','/product/promo.htm?depId=0&pgId=&carId=&tNav=2&trk=TNFAM','',0,20,185);
+Menu1_3 = new Array('Phone w/Prepaid Plan','/product/promo.htm?depId=0&pgId=&carId=&tNav=4&trk=TNPRE','',0,20,185);
+Menu1_4 = new Array('Free Shipping','/freeshipping.htm','',0,20,185);
+Menu2 = new Array('<div align=center style=\'border-right : 1px solid #000000; padding-top: 2px; font-weight: bold\'>Shop By Feature</div>','http://www.letstalk.com/product/findProducts.htm?depId=1&pgId=100&tNav=1','',2,18,140);
+Menu2_1 = new Array('Plans by Feature','/product/findProducts.htm?depId=2&pgId=101&tNav=1','',0,20,185);
+Menu2_2 = new Array('Phones by Feature','/product/findProducts.htm?depId=1&pgId=100&tNav=1','',0,20,185);
+Menu3 = new Array('<div align=center style=\'border-right : 1px solid #000000; padding-top: 2px; font-weight: bold\'>Shop By Brand</div>','http://www.letstalk.com/product/browse.htm/depId=1/pgId=100','',2,18,140);
+Menu3_1 = new Array('Phone Brands','/product/browse.htm/depId=1/pgId=100/','',0,20,185);
+Menu3_2 = new Array('Service Plan Brands','/product/browse.htm/depId=2/pgId=101','',0,20,185);
+Menu4 = new Array('<div align=center style=\'border-right : 1px solid #000000; padding-top: 2px; font-weight: bold\'>Learn About Wireless</div>','http://www.letstalk.com','',5,18,140);
+Menu4_1 = new Array('Read User Reviews','/reviews/reviewhome.htm','',0,20,185);
+Menu4_2 = new Array('Keep My Number','/numberPortability/numport.htm?pgId=&depId=0','',0,20,185);
+Menu4_3 = new Array('Buyer\'s Guides','/listArticles.htm?depId=0&pgId=','',0,20,185);
+Menu4_4 = new Array('Why Buy From LetsTalk','/promo/whybuy/whybuy2.htm?depId=0&pgId=','',0,20,185);
+Menu4_5 = new Array('Refer a Friend','/referafriend/referafriend.htm?rafId=7&depId=0&pgId=','',0,20,185);
 
 </script>
 
@@ -165,16 +199,16 @@ Menu4_5 = new Array('Refer a Friend','/referafriend/referafriend.htm?rafId=7&dep
 <tbody><tr>
 	<td valign="BOTTOM" background="" rowspan="2"><img height="5" src="/img/site/spacer.gif" width="180"><br>
 		
-		<a href="http://www.letstalk.com/home.htm?depId=0&amp;pgId=0" target="_top">
+		<a href="http://www.letstalk.com/home.htm?depId=0&amp;pgId=0&amp;tNav=1" target="_top">
 			<img src="/img/site/logo-home1.gif" border="0" alt="LetsTalk is the best online source for researching and buying free phones, free cell phones, wireless phones (siemens phones, motorola phones, samsung phones, nokia phones, sony ericsson, cricket phones)wireless accessories, wireless plans ( for t-mobile, tmobile, at&amp;t wireless, ATT, nextel, us cellular, cingular wireless, metro pcs, verizon wireless, cricket wireless, cricket communications) as well as camera phones, mobile phones, cell phones cheap and read cell phone reviews and cellular service reviews."></a>
 	</td>
-	<td colspan="3" align="RIGHT" class="Sm" valign="BOTTOM" height="20"><a href="http://www.letstalk.com/promo/whybuy/whybuy2.htm">Why Buy From LetsTalk</a> &nbsp; | &nbsp; <a href="http://www.letstalk.com/about/site-guide1.htm" target="_top">Help Center</a> &nbsp; | &nbsp; <a href="https://www2.letstalk.com/checkoutnew/youraccountlogin.htm?metaCode=549814578" target="_top">Order Status</a>  &nbsp; | &nbsp; <a href="http://www.letstalk.com/cart/cart.htm" target="_top"> Shopping Cart<img src="/img/site/cart_nav.gif" width="28" height="14" align="absmiddle" border="0" hspace="2"></a></td>
+	<td colspan="3" align="RIGHT" class="Sm" valign="BOTTOM" height="20"><a href="http://www.letstalk.com/about/customercomments.htm">What Our Customers Say!</a> &nbsp; | &nbsp; <a href="http://www.letstalk.com/promo/whybuy/whybuy2.htm">Why Buy From LetsTalk</a> &nbsp; | &nbsp; <a href="http://www.letstalk.com/about/site-guide1.htm" target="_top">Help Center</a> &nbsp; | &nbsp; <a href="https://www6.letstalk.com/checkoutnew/youraccountlogin.htm?metaCode=1079748824" target="_top">Order Status</a>  &nbsp; | &nbsp; <a href="http://www.letstalk.com/cart/cart.htm" target="_top"> Shopping Cart<img src="/img/site/cart_nav.gif" width="28" height="14" align="absmiddle" border="0" hspace="2"></a></td>
 </tr>
 <tr>
 	<td valign="BOTTOM" height="45" background="">
 <!-- *******MAIN NAV******* -->
 
-<nobr><a href="http://www.letstalk.com/home.htm?depId=0&amp;pgId=0&amp;mid=" target="_top" onmouseover="buttonOn('home')" onmouseout="buttonOff('home')"><img border="0" name="home" src="/img/nav/tab_home-sel.gif" width="65" height="45" alt="LetsTalk.com Home Page"></a><a href="http://www.letstalk.com/landing/search3.htm?landId=21&amp;k=Cellular_Service_Plans" onmouseover="buttonOn('svc')" onmouseout="buttonOff('svc')" target="_top"><img border="0" name="svc" src="/img/nav/tab_svc1.gif" width="106" height="45" alt="Service Plans"></a><a href="http://www.letstalk.com/landing/search3.htm?landId=1&amp;k=Free_Cell_Phones" onmouseover="buttonOn('phone')" onmouseout="buttonOff('phone')" target="_top"><img border="0" name="phone" src="/img/nav/tab_phone1.gif" width="106" height="45" alt="Cell Phones"></a><a href="http://www.letstalk.com/landing/search3.htm?landId=22&amp;k=Smartphones,_Data_&amp;_Messaging" onmouseover="buttonOn('msg')" onmouseout="buttonOff('msg')" target="_top"><img border="0" name="msg" src="/img/nav/tab_msg1.gif" width="106" height="45" alt="Data &amp; Messaging"></a><a href="http://www.letstalk.com/accessories.htm/depId_3/mid=/pgId_100.htm" onmouseover="buttonOn('acc')" onmouseout="buttonOff('acc')" target="_top"><img border="0" name="acc" src="/img/nav/tab_acc1.gif" width="106" height="45" alt="Cell Phone Accessories"></a></nobr></td>
+<nobr><a href="http://www.letstalk.com/home.htm?depId=0&amp;pgId=0&amp;mid=&amp;tNav=1" target="_top" onmouseover="buttonOn('home')" onmouseout="buttonOff('home')"><img border="0" name="home" src="/img/nav/tab_home-sel.gif" width="65" height="45" alt="LetsTalk.com Home Page"></a><a href="http://www.letstalk.com/categoryindex/categoryIndex.php?depId=2&amp;pgId=101" onmouseover="buttonOn('svc')" onmouseout="buttonOff('svc')" target="_top"><img border="0" name="svc" src="/img/nav/tab_svc1.gif" width="106" height="45" alt="Service Plans"></a><a href="http://www.letstalk.com/categoryindex/categoryIndex.php?depId=1&amp;pgId=100" onmouseover="buttonOn('phone')" onmouseout="buttonOff('phone')" target="_top"><img border="0" name="phone" src="/img/nav/tab_phone1.gif" width="106" height="45" alt="Cell Phones"></a><a href="http://www.letstalk.com/landing/search3.htm?landId=22&amp;k=Smartphones,_Data_&amp;_Messaging" onmouseover="buttonOn('msg')" onmouseout="buttonOff('msg')" target="_top"><img border="0" name="msg" src="/img/nav/tab_msg1.gif" width="106" height="45" alt="Data &amp; Messaging"></a><a href="http://www.letstalk.com/accessories.htm/depId_3/mid=/pgId_100.htm" onmouseover="buttonOn('acc')" onmouseout="buttonOff('acc')" target="_top"><img border="0" name="acc" src="/img/nav/tab_acc1.gif" width="106" height="45" alt="Cell Phone Accessories"></a></nobr></td>
 
 <!-- *******MAIN NAV******* -->
 
@@ -190,14 +224,11 @@ Menu4_5 = new Array('Refer a Friend','/referafriend/referafriend.htm?rafId=7&dep
 </tr>
 <!-- BEGIN SUB NAV TABLE -->
 <tr>
-	<td colspan="3" height="22" bgcolor="#6666cc">
+	<td colspan="3" height="22" bgcolor="#6666CC">
 		<table border="0" width="100%" cellspacing="0" cellpadding="0">
 			<tbody><tr>
-				<td width="10%">&nbsp;</td>
-				<td>
-				<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;&nbsp;</td></tr></tbody></table>
-				</td>
-				<td width="50%" align="right">
+				<td><img src="/img/spacer.gif" width="600" height="1"></td>
+				<td align="RIGHT">
 										<table width="140" border="0" cellspacing="0" cellpadding="0">
 					<form name="searchbar" action="/search.htm?depId=0&amp;pgId=" method="post" target="_top"></form>
 						<tbody><tr>
@@ -213,14 +244,7 @@ Menu4_5 = new Array('Refer a Friend','/referafriend/referafriend.htm?rafId=7&dep
 
 <!-- END SUB NAV TABLE -->
 </td></tr>
-<!-- BEGIN DROPSHADOW -->
-<!-- <TR><TD BGCOLOR="#000000" WIDTH="100%" COLSPAN="3"><IMG height=1 src="/img/site/spacer.gif" width=1></TD></TR>
-<TR><TD BGCOLOR="#5e5e5e" WIDTH="100%" COLSPAN="3"><IMG height=1 src="/img/site/spacer.gif" width=1></TD></TR>
-<TR><TD BGCOLOR="#868686" WIDTH="100%" COLSPAN="3"><IMG height=1 src="/img/site/spacer.gif" width=1></TD></TR>
-<TR><TD BGCOLOR="#aeaeae" WIDTH="100%" COLSPAN="3"><IMG height=1 src="/img/site/spacer.gif" width=1></TD></TR>
-<TR><TD BGCOLOR="#dadada" WIDTH="100%" COLSPAN="3"><IMG height=1 src="/img/site/spacer.gif" width=1></TD></TR>
-<TR><TD BGCOLOR="#ededed" WIDTH="100%" COLSPAN="3"><IMG height=1 src="/img/site/spacer.gif" width=1></TD></TR> -->
-<!-- END  DROPSHADOW -->
+
 <tr><td bgcolor="#ffffff" width="100%" colspan="3"><img height="4" src="/img/site/spacer.gif" width="1"></td></tr></tbody></table>
 <!-- END TOP NAV TABLES -->
 
@@ -240,8 +264,9 @@ Menu4_5 = new Array('Refer a Friend','/referafriend/referafriend.htm?rafId=7&dep
 		<tr><td class="Std"><afake href="/about/security1.htm"><li type="square">Privacy &amp; Security</li></afake></td></tr>
 		<tr><td class="Std"><a href="/about/shipping1.htm"></a><li type="square"><a href="/about/shipping1.htm">Shipping &amp; Returns</a></li></td></tr>
 		<tr><td class="Std"><a href="/about/wireless1.htm"></a><li type="square"><a href="/about/wireless1.htm">Wireless Information</a></li></td></tr>
-		<tr><td align="center"><br><a href="https://www.truste.org/ivalidate.php?url=www.LetsTalk.com"><img src="/img/about/truste_clickseal.gif" border="0"></a></td></tr>	
-	</tbody></table>		</td>
+		<tr><td align="center"><br><a href="http://www.truste.org/ivalidate.php?url=www.letstalk.com&amp;sealid=101"><img src="/img/about/truste_clickseal.gif" border="0"></a></td></tr>	
+	</tbody></table>
+			</td>
 <!-- end left nav bar-->
 <td>&nbsp;&nbsp;</td>
 
@@ -257,7 +282,7 @@ Menu4_5 = new Array('Refer a Friend','/referafriend/referafriend.htm?rafId=7&dep
 <span class="LgClr1">Privacy Policy</span><br>
 LetsTalk.com is committed to protecting your privacy and providing a secure shopping environment. We use the personal information you supply to process your order and make your shopping experience more enjoyable. By using the latest in secure transaction technologies and practicing a strict privacy policy, LetsTalk.com strives to protect your personal information. Read on for details. </a><p><a name="privacy">
 LetsTalk is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices.  This privacy statement covers the site </a><a href="http://www.letstalk.com">www.letstalk.com</a>.  Because we want to demonstrate our commitment to our users’ privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe. </p><p> 
-If you have questions or concerns regarding this statement, you should first <a href="emailsubmit.htm?htId=6">contact us</a> by e-mail. If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process <a href="http://www.truste.org/watchdog.html">www.truste.org/watchdog.html</a>. TRUSTe will serve as a liaison with the Web site to resolve users concerns. 
+If you have questions or concerns regarding this statement, you should first <a href="emailsubmit.htm?htId=6">contact us</a> by e-mail. If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process <a href="http://www.truste.org/consumers/watchdog_complaint.php">www.truste.org/consumers/watchdog_complaint.php</a>. TRUSTe will serve as a liaison with the Web site to resolve users concerns. 
 
 </p><ul>
 <li><font color="#333399">What kind of information do we collect?</font><br>
@@ -371,6 +396,36 @@ Please consult your documentation or online help files.
 	
  
 
+<script language="javascript1.1">
+function cmCreateErrorTag(a, b)
+{
+}
+function cmCreateShopAction5Tag(prId,prName,quantity,price)
+{
+}
+function cmCreateShopAction9Tag(prId,prName,quantity,price,cust,ordId,subTotal,productType)
+{
+}
+function cmDisplayShop5s()
+{
+}
+function cmDisplayShop9s()
+{
+}
+function cmCreateOrderTag(orderTag,subTotal,smPrice,emailAddress,shipCity,shipState,shipZip)
+{
+}
+function cmCreateRegistrationTag(a,b,c,d,e,f,g)
+{
+}
+function cmCreateProductviewTag(a,b,c)
+{
+}
+function cmCreatePageviewTag(a,b,c,d)
+{
+}
+
+</script>
 <br>
 
 <!-- BEGIN SUB-FOOTER -->
@@ -436,13 +491,13 @@ Please consult your documentation or online help files.
 
 <br>
 
-<center><span class="Sm">Copyright © 2003-2004 LetsTalk, Inc.  All Rights Reserved.</span></center>
+<center><span class="Sm">Copyright © 2003-2005 LetsTalk, Inc.  All Rights Reserved.</span></center>
 
 
 
 
 
-<!---<small><br>0.042 549814578 041230230403 www2  SECUR<br>  </small>
+<!---<small><br>0.046 1079748824 050630015521 www6  SECUR  br: 2  0 <br>  </small>
 --->
 
 
@@ -450,4 +505,4 @@ Please consult your documentation or online help files.
 		
 		
 		
-	<div style="position: absolute; visibility: visible; background-color: rgb(102, 102, 204); width: 565px; height: 20px; font-family: arial, geneva; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 101; top: 68px; left: 20px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 140px; height: 18px; left: 1px; top: 1px;"><div align="center" style="border-right : 1px solid #000000; padding-top: 2px; font-weight: bold">Special Offers</div></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 140px; height: 18px; left: 142px; top: 1px;"><div align="center" style="border-right : 1px solid #000000; padding-top: 2px; font-weight: bold">Shop by Feature</div></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 140px; height: 18px; left: 283px; top: 1px;"><div align="center" style="border-right : 1px solid #000000; padding-top: 2px; font-weight: bold">Shop by Brand</div></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 140px; height: 18px; left: 424px; top: 1px;"><div align="center" style="border-right : 1px solid #000000; padding-top: 2px; font-weight: bold">Learn About Wireless</div></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 0); width: 166px; height: 85px; font-family: arial, geneva; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 158px; height: 17px; padding-left: 6px; padding-top: 3px; left: 1px; top: 1px;">Phone w/New Plan</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 158px; height: 17px; padding-left: 6px; padding-top: 3px; left: 1px; top: 22px;">Phone w/Family Plan</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 158px; height: 17px; padding-left: 6px; padding-top: 3px; left: 1px; top: 43px;">Phone w/Prepaid Plan</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 158px; height: 17px; padding-left: 6px; padding-top: 3px; left: 1px; top: 64px;">Free Shipping</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 0); width: 166px; height: 43px; font-family: arial, geneva; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 158px; height: 17px; padding-left: 6px; padding-top: 3px; left: 1px; top: 1px;">Phones by Feature</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 158px; height: 17px; padding-left: 6px; padding-top: 3px; left: 1px; top: 22px;">Plans by Feature</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 0); width: 166px; height: 43px; font-family: arial, geneva; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 158px; height: 17px; padding-left: 6px; padding-top: 3px; left: 1px; top: 1px;">Phone Brands</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 158px; height: 17px; padding-left: 6px; padding-top: 3px; left: 1px; top: 22px;">Service Plan Brands</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 0); width: 166px; height: 106px; font-family: arial, geneva; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 158px; height: 17px; padding-left: 6px; padding-top: 3px; left: 1px; top: 1px;">Read User Reviews</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 158px; height: 17px; padding-left: 6px; padding-top: 3px; left: 1px; top: 22px;">Keep My Number</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 158px; height: 17px; padding-left: 6px; padding-top: 3px; left: 1px; top: 43px;">Buyer's Guides</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 158px; height: 17px; padding-left: 6px; padding-top: 3px; left: 1px; top: 64px;">Why Buy From LetsTalk</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 158px; height: 17px; padding-left: 6px; padding-top: 3px; left: 1px; top: 85px;">Refer a Friend</div></div></body></html>
+	<div style="position: absolute; visibility: visible; background-color: rgb(102, 102, 204); width: 565px; height: 20px; font-family: arial, geneva; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 101; top: 68px; left: 20px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 140px; height: 18px; left: 1px; top: 1px;"><div align="center" style="border-right : 1px solid #000000; padding-top: 2px; font-weight: bold">Special Offers</div></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 140px; height: 18px; left: 142px; top: 1px;"><div align="center" style="border-right : 1px solid #000000; padding-top: 2px; font-weight: bold">Shop By Feature</div></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 140px; height: 18px; left: 283px; top: 1px;"><div align="center" style="border-right : 1px solid #000000; padding-top: 2px; font-weight: bold">Shop By Brand</div></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 140px; height: 18px; left: 424px; top: 1px;"><div align="center" style="border-right : 1px solid #000000; padding-top: 2px; font-weight: bold">Learn About Wireless</div></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 0); width: 187px; height: 85px; font-family: arial, geneva; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 179px; height: 17px; padding-left: 6px; padding-top: 3px; left: 1px; top: 1px;">Phone w/New Plan</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 179px; height: 17px; padding-left: 6px; padding-top: 3px; left: 1px; top: 22px;">Phone w/Family Plan</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 179px; height: 17px; padding-left: 6px; padding-top: 3px; left: 1px; top: 43px;">Phone w/Prepaid Plan</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 179px; height: 17px; padding-left: 6px; padding-top: 3px; left: 1px; top: 64px;">Free Shipping</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 0); width: 187px; height: 43px; font-family: arial, geneva; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 179px; height: 17px; padding-left: 6px; padding-top: 3px; left: 1px; top: 1px;">Plans by Feature</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 179px; height: 17px; padding-left: 6px; padding-top: 3px; left: 1px; top: 22px;">Phones by Feature</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 0); width: 187px; height: 43px; font-family: arial, geneva; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 179px; height: 17px; padding-left: 6px; padding-top: 3px; left: 1px; top: 1px;">Phone Brands</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 179px; height: 17px; padding-left: 6px; padding-top: 3px; left: 1px; top: 22px;">Service Plan Brands</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(0, 0, 0); width: 187px; height: 106px; font-family: arial, geneva; font-weight: normal; font-style: normal; font-size: 8pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 179px; height: 17px; padding-left: 6px; padding-top: 3px; left: 1px; top: 1px;">Read User Reviews</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 179px; height: 17px; padding-left: 6px; padding-top: 3px; left: 1px; top: 22px;">Keep My Number</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 179px; height: 17px; padding-left: 6px; padding-top: 3px; left: 1px; top: 43px;">Buyer's Guides</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 179px; height: 17px; padding-left: 6px; padding-top: 3px; left: 1px; top: 64px;">Why Buy From LetsTalk</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(255, 255, 255); background-color: rgb(102, 102, 204); text-align: left; width: 179px; height: 17px; padding-left: 6px; padding-top: 3px; left: 1px; top: 85px;">Refer a Friend</div></div></body></html>
