@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitslink.com privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212045414id_/http%3A//www.netapplications.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitslink.com privacy policy that was archived on 2005-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050630234925id_/http%3A//www.netapplications.com/privacy.asp) for the most accurate reproduction.*
 
 # Affiliate program, private label, reseller webmaster products
 
