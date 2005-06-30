@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the foodsaver.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207225504id_/http%3A//www.foodsaver.com/privacypolicy.ad2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodsaver.com privacy policy that was archived on 2005-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050630083031id_/http%3A//www.foodsaver.com/privacypolicy.ad2) for the most accurate reproduction.*
 
 # FoodSaver®, America's #1 Selling Brand of Home Vacuum Packaging Systems
 
-Foodsaver.com and VillaWare.com are the website for Tilia Direct, Inc. ("Tilia"), a marketplace for Tilia FoodSaver products and VillaWare products distributed by Tilia. Because Tilia understands that your privacy is important to you, Tilia has established this privacy policy to explain what information is collected on foodsaver.com and villaware.com (the "Sites") and how it is used. 
+Foodsaver.com, VillaWare.com and PreserveWine.com are the websites for Tilia Direct, Inc. ("Tilia"), a marketplace for Tilia FoodSaver products and VillaWare products distributed by Tilia. Because Tilia understands that your privacy is important to you, Tilia has established this privacy policy to explain what information is collected on foodsaver.com and villaware.com (the "Sites") and how it is used. 
 
 **Information Gathered by Tilia**
 
@@ -36,7 +36,7 @@ The Sites may contain links to related sites and organizations. Tilia is not res
 
 **Updating or Removing User Information**
 
-You may choose to correct or update the information you have submitted to us by emailing us at [customerservice@tilia.com](https://web.archive.org/web/20041207225504id_/http%3A//www.foodsaver.com/customerservice@tilia.com) or online through the "My Account" page. If you request to have your information removed, Tilia will remove it from its active database, though it may continue to persist on back-up media.
+You may choose to correct or update the information you have submitted to us by emailing us at [customerservice@tilia.com](https://web.archive.org/web/20050630083031id_/http%3A//www.foodsaver.com/customerservice@tilia.com) or online through the "My Account" page. If you request to have your information removed, Tilia will remove it from its active database, though it may continue to persist on back-up media.
 
 **Opt-Out**
 
@@ -69,4 +69,4 @@ San Francisco, CA 94119-4530
 [customerservice@tilia.com](mailto:customerservice@tilia.com) or 800-777-5452  
 [villawaresupport@villaware.com](mailto:villawaresupport@villaware.com) or 866-484-5529
 
-Revised October 18, 2004.
+Revised March 18, 2005.
