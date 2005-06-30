@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the swirve.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206085416id_/http%3A//www.swirve.com/corp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swirve.com privacy policy that was archived on 2005-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050630074822id_/http%3A//www.swirve.com/corp/privacy.asp) for the most accurate reproduction.*
 
 # Swirve.com - Free Games and More
 
-|  | 
+|  |  | 
 
   
 **Stay in Touch!  
@@ -14,7 +14,6 @@ Email: **
 | [](http://www.swirve.com/) | [](http://games.swirve.com/) | [](http://sports.swirve.com/) | [](http://www.wegotcards.com/) | [](http://politicalbrew.com/) | [](http://friends.swirve.com/) |   
 ---|---|---|---|---|---|---  
 |    
-  
 
 
 **Our Privacy Policy**  
@@ -60,4 +59,5 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 
 |   
----|---
+---|---  
+| 
