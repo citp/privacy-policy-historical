@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxsports.com.au privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223110012id_/http%3A//foxsports.news.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxsports.com.au privacy policy that was archived on 2005-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050630083541id_/http%3A//foxsports.news.com.au/privacy) for the most accurate reproduction.*
 
 # FOX SPORTS | Privacy
 
@@ -18,7 +18,7 @@ We usually collect personal information directly from you although sometimes we 
 
 We usually collect personal information such as your name, address, telephone number, and in some instances, your financial details. When you are online, we collect information regarding the pages within our network which you visit and what you click on. As a general rule we do not collect sensitive information. However, if we do, it will usually be for the purposes of providing our goods or services and if the law requires us to, we will seek your consent to collect it. 
 
-We use your information to provide our services to you, to fulfil administrative functions associated with these services, for example billing, to enter into contracts with you or third parties and for marketing and client relationship purposes. 
+We use your information to provide our services to you, to fulfil administrative functions associated with these services, for example billing, to enter into contracts with you or third parties and for marketing and client relationship purposes. Where your personal information is contained within an advertisement which we publish for you, we may also use your information for publication of that same advertisement in other media, in accordance with the terms and conditions of the initial publication. 
 
 We may share your information with other companies which are related to News Limited, within and outside of Australia. We or they may also use your personally identifiable information to assist us in improving our products and services and any of us might be in touch to let you know about goods, services, or promotions which may interest you. 
 
@@ -44,7 +44,7 @@ Unfortunately, no data transmission over the Internet can be guaranteed to be to
 
 You have a right to access most personal information we hold about you and if we deny access in some circumstances we will tell you why. 
 
-To request access, please contact our privacy office as set out at the end of this document. 
+To request access, please contact our privacy officer as set out at the end of this document. 
 
 **_Public Information_**
 
@@ -62,19 +62,10 @@ News is not responsible for the content or practices of Web sites operated by th
 
 **_What else you should know about privacy on the Internet_**
 
-Remember to close your browser when you have finished your user session. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet café. You as an individual are responsible for the security of and access to your own computer. 
+Remember to close your browser when you have finished your user session. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafi. You as an individual are responsible for the security of and access to your own computer. 
 
 Whenever you voluntarily disclose personal information over the Internet that this information can be collected and used by others. In short, if you post personal information in publicly accessible online forums, you may receive unsolicited messages from other parties in return. Ultimately, you are solely responsible for maintaining the secrecy of your username and passwords and any account information. Please be careful and responsible whenever you are using the Internet. 
 
 **_For further information_**
 
-Please contact our Privacy Officer to ask for access to your information or if you have a complaint concerning your information privacy or if you would like more information about our approach to privacy. 
-
-Brook Milbank   
-Privacy Officer   
-News Interactive   
-[ **privacy@NEWS.com.au**](mailto:privacy@news.com.au)   
-02 9288 3000   
-Level 3   
-2 Holt Street   
-Surry Hills NSW 2010
+Please [contact us here](http://www.news.com.au/feedback) to ask for access to your information or if you have a complaint concerning your information privacy or if you would like more information about our approach to privacy.
