@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campustechnology.com privacy policy that was archived on 2004-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041229043914id_/http%3A//www.101com.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campustechnology.com privacy policy that was archived on 2005-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050630031348id_/http%3A//www.101com.com/privacy.asp) for the most accurate reproduction.*
 
 # 101communications: Privacy Policy
 
@@ -47,7 +47,7 @@ Subscribers that have registered for our products and/or services, and have supp
 For marketing e-mails, we retain three types of permission for usage of your submitted e-mail address as defined below. We allow subscribers to “opt out” of receiving marketing e-mails about 101communications products or from outside companies either at the time of subscription, in response to a received e-mail or within this Privacy Policy website.
 
   * **E-mails about Related Products and Services**  
-Subscribers that provided information at the time of registration may from time to time be contacted by us about related products, services and/or upcoming events grouped with your subscription account within one of the seven [IT Publishing Groups](https://web.archive.org/index.asp) that comprise 101communications. If you do not wish to receive these e-mails from us, please let us know by [clicking here](http://lists.101com.com/privacy.asp) and following the steps provided, calling us at the above telephone number, or writing to us at the above address.
+Subscribers that provided information at the time of registration may from time to time be contacted by us about related products, services and/or upcoming events grouped with your subscription account within one of the [IT Publishing Groups](https://web.archive.org/grouplist.asp) that comprise 101communications. If you do not wish to receive these e-mails from us, please let us know by [clicking here](http://lists.101com.com/privacy.asp) and following the steps provided, calling us at the above telephone number, or writing to us at the above address.
   * **E-mails about Other 101communications Products and Services**  
 Subscribers that provided information at the time of registration may from time to time be contacted by us about other 101communications products, services, and/or upcoming events. If you do not wish to receive these e-mails from us, please let us know by [clicking here](http://lists.101com.com/privacyt.asp) and following the steps provided, calling us at the above telephone number, or writing to us at the above address.
   * **E-mails from Outside Companies**  
@@ -63,7 +63,7 @@ Postal Communications
 
 We may use the postal addresses collected for periodic mailings to relate information about new products, services, and/or upcoming events. We may also provide this information to other reputable pre-screened companies for promotional purposes. If you do not wish to receive mailings from us or other companies, please let us know by clicking on the statement below and following the steps provided, calling us at the above telephone number, or writing to us at the above address. 
 
-[_I do not wish to receive any mailings from 101communications or other companies._](https://web.archive.org/web/20041229043914id_/http%3A//www.101com.com/privacy/mail.asp)
+[_I do not wish to receive any mailings from 101communications or other companies._](https://web.archive.org/web/20050630031348id_/http%3A//www.101com.com/privacy/mail.asp)
 
 It will take up to 3 months to process your do-not-mail request. Please note that you may receive additional communications from us or other companies after submitting your request if your postal address was selected from our database just prior to receiving and processing your request. 
 
@@ -71,7 +71,7 @@ Telephone Communications
 
 We may use the telephone numbers collected for periodic telephone calls to you to relate information about new products, services, and/or upcoming events. We may also provide this information to other reputable pre-screened companies for promotional purposes. If you do not wish to receive telephone calls from us or other companies, please let us know by clicking on the statement below and following the steps provided, calling us at the above telephone number, or writing to us at the above address. 
 
-[_I do not wish to receive any telephone calls from 101communications or other companies._](https://web.archive.org/web/20041229043914id_/http%3A//www.101com.com/privacy/call.asp)
+[_I do not wish to receive any telephone calls from 101communications or other companies._](https://web.archive.org/web/20050630031348id_/http%3A//www.101com.com/privacy/call.asp)
 
 It will take up to 1 month to process your do-not-call request. Please note that you may receive additional communications from us or other companies after submitting your request if your telephone number was selected from our database just prior to receiving and processing your request. 
 
