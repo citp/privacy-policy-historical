@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ittoolbox.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009141910id_/http%3A//www.ittoolbox.com/privacy/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ittoolbox.com privacy policy that was archived on 2005-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050630084314id_/http%3A//www.ittoolbox.com/privacy/privacy_policy.asp) for the most accurate reproduction.*
 
 # ITtoolbox Privacy Policy
 
@@ -6,7 +6,7 @@
 We at ITtoolbox know you take your privacy seriously. Information about our users is an important part of our business and it is necessary that we collect certain information if users wish to utilize advanced ITtoolbox features. We are not in the business of selling user information to others. We share information only as described below.  
   
 **What this Privacy Policy Covers**  
-This privacy policy covers our treatment of personally identifiable information that ITtoolbox collects when you are on any ITtoolbox site (e.g. ittoolbox.com, Groups.ittoolbox.com, Staffing.ittoolbox.com), and when you use ITtoolbox services. This policy also covers ITtoolbox's treatment of any personally identifiable information that ITtoolbox business partners share with ITtoolbox as well as what happens to personal information in the unlikely event that ITtoolbox sells or transfers its business assets. This policy does not apply to the practices of companies that ITtoolbox does not own or control, or to people that ITtoolbox does not employ or manage.  
+This privacy policy covers our treatment of personally identifiable information that ITtoolbox collects when you are on any ITtoolbox site (e.g. ittoolbox.com, Groups.ittoolbox.com, jobcenter.ittoolbox.com), and when you use ITtoolbox services. This policy also covers ITtoolbox's treatment of any personally identifiable information that ITtoolbox business partners share with ITtoolbox as well as what happens to personal information in the unlikely event that ITtoolbox sells or transfers its business assets. This policy does not apply to the practices of companies that ITtoolbox does not own or control, or to people that ITtoolbox does not employ or manage.  
   
 **Information Collection and Use**  
 ITtoolbox is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this privacy statement.  
@@ -43,8 +43,8 @@ ITtoolbox periodically sends service updates and topic-relevant content through 
 If a user wishes to subscribe to a discussion group through ITtoolbox Groups, we ask for the user’s e-mail address. E-mail addresses provided by users for mail list subscriptions will not be sold or provided to third parties, except as noted in Business Transfers.  
 ITtoolbox periodically sends service updates and topic-relevant content through its discussion communities. These infrequent but useful updates keep ITtoolbox discussion group subscribers up-to-date with important information related to the topics to which they are subscribed.  
   
-**ITtoolbox Staffing**  
-We will not directly contact individual members of our audience regarding ITtoolbox Staffing opportunities unless they have requested that we do so by submitting their resume or applying for a position. We will not sell, loan, or otherwise distribute our resume database, except as noted in Business Transfers.  
+**ITtoolbox Job Center**  
+We will not directly contact individual members of our audience regarding ITtoolbox Job Center opportunities unless they have requested that we do so by submitting their resume or applying for a position. We will not sell, loan, or otherwise distribute our resume database, except as noted in Business Transfers.  
   
 **Free E-mail**  
 If a user wishes to subscribe to ITtoolbox free e-mail, the user will need to create an ITtoolbox User ID. This information will not be sold or provided to third parties, except as noted in Business Transfers.  
@@ -60,14 +60,14 @@ ITtoolbox takes every precaution to protect our users’ privacy. When users sub
 
 Your ITtoolbox account information is password-protected for your privacy and security. Access to any user information, not just the sensitive information mentioned above, is heavily restricted within our company. Only employees who need the information to perform a specific job (for example, our system administrators) are granted access to personally identifiable information. ALL employees are kept up-to-date on our security and privacy practices. In addition, the servers on which we store personally identifiable information are kept in a secure environment.
 
-If you have any questions about the security of ITtoolbox Web sites, please contact [Info@ITtoolbox.com](mailto:info@ittoolbox.com) to request further information.  
+If you have any questions about the security of ITtoolbox Web sites, please contact [](https://web.archive.org/common/contact.asp?m=info) to request further information.  
   
   
 **Site and Service Updates**  
-We may send registered users of ITtoolbox occasional e-mail announcements regarding changes or updates to our services. Users may request removal at any time from our list for any future updates by sending an e-mail to [Leave-ITtoolbox-Announce@groups.ITtoolbox.com.](mailto:Leave-ITtoolbox-Announce@groups.ITtoolbox.com)  
+We may send registered users of ITtoolbox occasional e-mail announcements regarding changes or updates to our services. Users may request removal at any time from our list for any future updates by sending an e-mail to [](https://web.archive.org/common/contact.asp?m=leave)  
   
 **Correction/Updating Personal Information**  
-If a user’s personally identifiable information changes (such as employment type or e-mail address), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us. To correct/update personal information, please contact [Webmaster@ITtoolbox.com](mailto:webmaster@ittoolbox.com) with details of the requested change.  
+If a user’s personally identifiable information changes (such as employment type or e-mail address), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us. To correct/update personal information, please contact [](https://web.archive.org/common/contact.asp?m=web) with details of the requested change.  
   
 **Business Transfers**  
 As we continue to develop our business, we may buy or sell businesses or business assets. In such transactions, user information generally is one of the transferred assets. In the unlikely event that Information Technology Toolbox, Inc., sells Information Technology Toolbox, Inc., or one or more of its properties, user information will be one of the transferred assets.  
