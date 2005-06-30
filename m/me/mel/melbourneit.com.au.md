@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the melbourneit.com.au privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208183025id_/http%3A//www.melbourneit.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melbourneit.com.au privacy policy that was archived on 2005-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050630085129id_/http%3A//www.melbourneit.com.au/privacy) for the most accurate reproduction.*
 
 # Melbourne IT
 
 **Melbourne IT Privacy Policy**
 
-Date: March 2004 
+Date: May 2005 
 
 Melbourne IT Ltd (ABN 21 073 716 793)("Melbourne IT") respects your privacy and is committed to the protection of it. 
 
@@ -49,7 +49,7 @@ ICANN (the Internet Corporation for Assigned Names and Numbers) is the organisat
 
 The public policy behind this requirement is that the personal details of domain name licence holders should be freely available to all other users of the Internet. This public policy is adopted by the domain name industry as a whole. The requirement means, however, that Melbourne IT will not be able to control how members of the public may use the information made available on these publicly accessible databases. 
 
-In addition, ICANN has another mandatory requirement that all its accredited registrars make the WHOIS database of personal information for com, net and org available for bulk downloads by third parties who have entered into a bulk access agreement with Melbourne IT. If you do not want your personal information to be included in these bulk downloads, you may opt out of this service by providing written notice to Melbourne IT, or by emailing us at [policy@melbourneit.com.au](mailto:policy@melbourneit.com.au?subject=Privacy%20Policy)
+In addition, ICANN has another mandatory requirement that all its accredited registrars make the WHOIS database of personal information for com, net and org available for bulk downloads by third parties who have entered into a bulk access agreement with Melbourne IT. 
 
   * **Use of your information to fulfil our role as registrar**
 
