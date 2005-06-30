@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hawaiianairlines.com privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211050253id_/http%3A//hawaiianairlines.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hawaiianairlines.com privacy policy that was archived on 2005-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050630074948id_/http%3A//www.hawaiianair.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Hawaiian Airlines : Privacy Policy
 
@@ -92,7 +92,7 @@ The personally-identifiable information we gather on our website is stored withi
 
 **UPDATING PERSONALLY-IDENTIFIABLE INFORMATION**
 
-Hawaiian Airlins endeavors to ensure that personally-identifiable information it holds is accurate and up-to-date. You may seek to update your personally-identifiable information held by Hawaiian Airlines by contacting Hawaiian Airlines toll free at 877-HA-MILES (426-4537). 
+Hawaiian Airlines endeavors to ensure that personally-identifiable information it holds is accurate and up-to-date. You may seek to update your personally-identifiable information held by Hawaiian Airlines by contacting Hawaiian Airlines toll free at 877-HA-MILES (426-4537). 
 
   
 
