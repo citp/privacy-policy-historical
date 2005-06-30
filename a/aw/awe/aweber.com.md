@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aweber.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204014300id_/http%3A//www.aweber.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aweber.com privacy policy that was archived on 2005-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050630025310id_/http%3A//www.aweber.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for AWeber Systems, Inc.
 
@@ -26,19 +26,14 @@ All AWeber Affiliate information, including address, phone number, e-mail addres
 |   
 **\- Testimonials -**
 
-So far I have nothing but total praise for your service. Once I got past the initial hesitancy - the sort you get when dealing with any new service - everything was so straightforward and easy.
+I just wanted to take a moment to tell you how pleased I am with the Aweber Autoresponder system. I just checked my statistics (online!) after a 7 day vacation, and was blown away when I saw that I was prospecting 150 new leads! I then checked my email and found almost a dozen requests for personal follow-up. This certainly beats the old cut and paste manual follow-ups, and the ability to download the database means a near-perfect integration into my downline management software. Tom, you did a super job - and I expect to take a longer vacation next time! Thanks again.
 
-Let me add a further big thank you for your customer support team. **I've made about four calls and every one has been answered pleasantly and very satisfactorily.**
-
-Yep, I like the service.
-
-  * \- John Cliff
-  * \- Mind Technologies Ltd (UK)
-  * \- 08/08/2003
+  * \- Stephan Iscoe
+  * \- LinktoSuccess.com
 
 
 
-[Click here](https://web.archive.org/web/20041204014300id_/http%3A//www.aweber.com/testimonials.htm) to read more testimonials for AWeber Systems!  
+[Click here](https://web.archive.org/web/20050630025310id_/http%3A//www.aweber.com/testimonials.htm) to read more testimonials for AWeber Systems!  
   
 
 
