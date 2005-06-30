@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the postini.com privacy policy that was archived on 2004-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041231091847id_/http%3A//www.postini.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postini.com privacy policy that was archived on 2005-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050630084820id_/http%3A//www.postini.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Postini - Legal Notices
 
-|  ****
+|    
+
 
 [](http://www.truste.org/ivalidate.php?url=www.postini.com)
 
@@ -20,7 +21,7 @@
 
 **_What Is Not Covered in this Privacy Statement?_** We cover only our data processing practices described in the preceding paragraph. Without limitation, this Privacy Statement does not cover data that we collect offline, on businesses or legal entities or on our employees. 
 
-**_How Can You Contact Us?_** If you have questions or concerns regarding this Privacy Statement, you should first contact us by email at webmaster@postini.com. You can also write to Postini at 510 Veterans Boulevard, Redwood City, CA 94063, Attention: Information Security Administrator. Postini will respond to personal information change requests within 30 days of receiving such requests. ****
+**_How Can You Contact Us?_** If you have questions or concerns regarding this Privacy Statement, you should first contact us by email at [privacyrequest@postini.com](mailto:privacyrequest@postini.com). You can also write to Postini at 510 Veterans Boulevard, Redwood City, CA 94063, Attention: Information Security Administrator. Postini will respond to personal information change requests within 30 days of receiving such requests. ****
 
 **_What If You Do Not Get A Satisfactory Response?_** We will try our best to see that you will always get a satisfactory response from us. As part of this effort, we also offer you recourse to TRUSTe®, an independent, nonprofit organization dedicated to enabling individuals and organizations to establish trusting relationships based on respect for personal identity and information in the evolving networked world. Postini is a licensee of the TRUSTe Privacy Program. TRUSTe’s certification covers the gathering and dissemination of information described in this Privacy Statement, but not any of our other data processing practices. If you do not receive an acknowledgment of an inquiry sent to Postini, or if your inquiry has not been satisfactorily addressed, you may then contact TRUSTe at <http://truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with Postini to resolve your concerns. 
 
@@ -58,7 +59,7 @@ Contact the Postini Sales department
 
 | 
 
-Send an email to talktous@postini.com or fax a letter to 650.482.3108   
+Send an email to [privacyrequest@postini.com](mailto:privacyrequest@postini.com)  
   
 [Postini White Papers ](http://www.postini.com/whitepapers)
 
@@ -68,7 +69,7 @@ View Postini white papers
 
 | 
 
-Send an email to talktous@postini.com or fax a letter to 650.482.3108   
+Send an email to [privacyrequest@postini.com](mailto:privacyrequest@postini.com)  
   
 [Postini Webcasts ](http://www.postini.com/webinars/)
 
@@ -78,7 +79,7 @@ View Postini webcasts
 
 | 
 
-Send an email to talktous@postini.com or fax a letter to 650.482.3108   
+Send an email to [privacyrequest@postini.com](mailto:privacyrequest@postini.com)  
   
 [Postini Insider Newsletter ](http://www.postini.com/newsletter/)
 
