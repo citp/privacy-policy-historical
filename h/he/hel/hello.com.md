@@ -1,84 +1,67 @@
-> *The following text is extracted and transformed from the hello.com privacy policy that was archived on 2004-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040712094645id_/http%3A//www.picasa.com/content/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hello.com privacy policy that was archived on 2005-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050630023711id_/http%3A//www.google.com/privacy.html) for the most accurate reproduction.*
 
-# Picasa: Automated Digital Photo Organizer software, instant photo albums, sharing & printing: Privacy Policy
+# Google Privacy Center: Privacy Policy
 
-|  |  |  |  |  |  |   
+**Google Privacy Policy**
+
+Version 07/01/2004
+
+At Google, we strive to develop innovative services to better serve our users. We recognize that privacy is an important issue, so we design and operate our services with the protection of your privacy in mind. This Privacy Policy outlines the types of personal information we gather when you use Google's services, as well as some of the steps we take to safeguard it.
+
+The following principles apply to the personally identifying information we ask for and that you provide. "Personally identifying information" is information that individually identifies you, such as your name, physical address or email address. You can find more details about the data we collect on particular services by clicking the links on the side of this page.
+
+**Data collection**
+
+  * Google search, the Google Toolbar, Google News and some other services do not require any personally identifying information. 
+  * Google collects limited non-personally identifying information your browser makes available whenever you visit a website. This log information includes your Internet Protocol address, browser type, browser language, the date and time of your query and one or more cookies that may uniquely identify your browser. We use this information to operate, develop and improve our services. 
+  * Some of our services require you to register for an account. Google asks you for some personal information in order to create an account (typically your name, email address and a password for your account) and we will use that information to provide the service. For certain services, such as our advertising programs, we may request credit card or other payment information which we maintain in encrypted form on secure servers. 
+  * When we require personally identifying information, we will inform you about the types of information we collect and how we use it. We hope this will help you make an informed decision about sharing your personal information with us. 
 
 
-Picasa, Inc. Privacy Policy
 
-**Picasa, Inc. ("Picasa")** is committed to protecting online user privacy. In order to ensure your privacy, information **Picasa** collects is used only in the manner and for the purposes described below. 
+**Cookies**
 
-This "Privacy Policy" discloses the privacy practices governing **Picasa** 's knowing collection, use, and disclosure of information. Capitalized terms shall have the meaning designated in **Picasa's Terms and Conditions** unless specifically defined in this Privacy Policy. 
+  * Upon your first visit to Google, a cookie is sent to your computer that uniquely identifies your browser. A "cookie" is a small file containing a string of characters that is sent to your computer when you visit a website. We use cookies to improve the quality of our service and to better understand how people interact with us. Google does this by storing user preferences in cookies and by tracking user trends and patterns of how people search. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Google features or services may not function properly without cookies. 
 
-Picasa Products and Services
 
-Picasa Automatic Photo Organizing Software
 
-**Picasa** 's proprietary technology presents you with a simple interface that helps you organize your digital pictures around the way you think -- visually, spatially, around memories and feelings. **Picasa** allows the user to manage their digital pictures effortlessly. It even lets you print them professionally! You may find more information about our **Picasa** photo organizing software by [clicking here](). 
+**Information sharing**
 
-Hello from Picasa
+  * We do not rent or sell your personally identifying information to other companies or individuals, unless we have your consent. We may share such information in any of the following limited circumstances: 
+    * We have your consent.
+    * We provide such information to trusted businesses or persons for the sole purpose of processing personally identifying information on our behalf. When this is done, it is subject to agreements that oblige those parties to process such information only on our instructions and in compliance with this Privacy Policy and appropriate confidentiality and security measures.
+    * We conclude that we are required by law or have a good faith belief that access, preservation or disclosure of such information is reasonably necessary to protect the rights, property or safety of Google, its users or the public. 
+  * If you have an account, we may share the information submitted under your account among all of our services in order to provide you with a seamless experience and to improve the quality of our services. We will not disclose your account information to other people or non-affiliated companies, except in the limited circumstances described in this Policy or with your consent. 
+  * We may store and process personal information collected on our site in the United States or any other country in which Google Inc. or its agents maintain facilities. By using our services, you consent to the transfer of your information among these facilities, including those located outside your country. 
+  * In the event of a transfer of ownership of Google Inc., such as acquisition by or merger with another company, we will provide notice before any personally identifying information is transferred and becomes subject to a different privacy policy. 
+  * We may share aggregated information with others. Examples of this include the number of users who searched for "Mars Rover" or how many users clicked on a particular advertisement. 
 
-'Hello' from **Picasa** is a new way to connect people sharing their photos and web pages, where friends and family communicate with words and pictures faster than email and with more privacy than the internet-or even other chat clients. Hello combines the best of picture sharing and instant messaging so anyone can trade single images or entire slide shows not only securely, but immediately. You may find more information about 'Hello' by [clicking here](http://www.hello.com/). 
 
-Picasa Web Sites  
-User Consent to Privacy Policy
 
-Any person accessing, browsing, or otherwise using **Picasa** 's web sites ("Site"), either manually or via an automated device or program, shall be considered a "Visitor." Further, a Visitor that registers at the Site, downloads, orders prints and/or makes purchases of products shall be considered a "User." All Visitors are bound by the terms of this Privacy Policy. Visitors consent to the collection, use, and disclosure of Visitor information pursuant to the terms of this Privacy Policy. 
+**Information security**
 
-Information Collected
+  * We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data.
+  * We restrict access to your personally identifying information to employees who need to know that information in order to operate, develop or improve our services.
 
-**Picasa** collects every User's name, billing and/or shipping address, email address, credit card information with related expiration date ("Personally Identifiable Information"). **Picasa** stores all Personally Identifiable Information except a User's credit card information, in which case only the last four digits and the related expiration date is stored. **Picasa** does not collect any Personally Identifiable Information from Visitors that are not Users. 
 
-**Picasa** collects and stores Visitors' site referral information, browsing patterns, technical information (e.g., the Visitor's browser version, IP address, and operating system), and other Site use information through the use of "Cookies" ("Information"). (For more information regarding Cookies, see below.) **Picasa** associates the Information obtained about a User to the User's Personally Identifiable Information. 
 
-Use of Information and Personally Identifiable Information
+**Updating your information**
 
-**Picasa** uses Information and Personally Identifiable Information to better understand the use of the Site and to better tailor the Site to Visitor and User preferences, as well as for customer support purposes. **Picasa** also may use the name, street address and email address that Users supply to contact Users, as well as to send Users promotional or other materials. To unsubscribe from our mailing list, please follow the directions set forth within the promotional or other materials you receive from us or email [unsubscribe@picasa.net](mailto:unsubscribe@picasa.net). 
+  * We provide mechanisms for updating and correcting your personally identifying information for many of our services. For more information, please see the help pages for each service.
 
-Disclosure of Information and Personally Identifiable Information to Third Parties
 
-**Picasa** may disclose Information to third parties who assist us in providing the Software Products and the Services to you. For example, we may share your Information with our image processing partners in order to process your print orders. We may engage third parties to make improvements on our site, to offer new products and to allow us to customize your experience on the Site and with the Software Products and the Services. 
 
-**Picasa** does not otherwise disclose Information or Personally Identifiable Information to third parties, except when required to do so by law pursuant to a search warrant, subpoena, or other legal process. 
+**Links**
 
-Cookies
+  * The sites displayed as search results or linked to by Google's services are developed by people over whom Google exercises no control. These other sites may place their own cookies on your computer, collect data or solicit personal information.
+  * Google may present links in a format that enables us to understand whether they have been followed. We use this information to understand and improve the quality of Google's search technology. For instance, this data helps us determine how often users are satisfied with the first result of a query and how often they proceed to later results. 
 
-**Picasa** uses a feature of Internet Web browsers called a "Cookie", which is a file that a Visitor's Web browser places on a Visitor's computer's hard drive, to assign an identification code to the computer and to collect and store Information. 
 
-**Picasa** associates the Information obtained about a User to the User's Personally Identifiable Information. We do not and cannot use Cookies to retrieve individual Personally Identifiable Information about Visitors from a Visitor's computer unless the Visitor knowingly and willingly provided such information. Cookies do not contain any credit card information. 
 
-Linked Internet Web Sites
+**Changes to this Policy**
 
-The Site provides hyperlinks, which are highlighted words or pictures within a hypertext document that, when clicked, take you to another place within the document or to another document altogether, to other web sites not controlled by **Picasa**. These hyperlinked web sites may contain privacy provisions that are different from those provided herein. **Picasa** is not responsible for the collection, use, or disclosure of information collected through these web sites, and **Picasa** expressly disclaims any and all liability related to such collection, use, or disclosure. 
+Please note this Privacy Policy will change from time to time. We expect most such changes to be minor, but there may be changes that are more significant. Regardless, we will post those changes on this page and, if the changes are significant, we will also provide a more prominent notice. Each version will be noted at the top of the page. [Prior versions of this Privacy Policy](https://web.archive.org/web/20050630023711id_/http%3A//www.google.com/privacy_archive.html) will be kept in an archive for you to view.
 
-Sharing Your Images
+If you have any additional questions, please feel free to [contact us any time](http://www.google.com/support/bin/request.py?contact_type=user&hl=en).
 
-When you share your images with others through Hello by **Picasa** or by e-mail, recipients can then further share your images, modify, alter and/or print those images, if they choose. It is important that you ensure that your images are sent to the correct Hello network member and to the correct email addresses. 
-
-Children
-
-**Picasa** 's Sites are not directed towards children 13 years of age or under and **Picasa** does not knowingly collect any information from children 13 years of age or under through the Sites. 
-
-Security
-
-This Site has password security measures to protect against the loss, misuse, and alteration of the Information and Personally Identifiable Information under our control. **Picasa** makes no representations or warranties with regard to the sufficiency of these security measures. **Picasa** shall not be responsible for any actual or consequential damages that result from a lapse in compliance with this Privacy Policy as a result of a security breach or technical malfunction. 
-
-Sale of Assets
-
-In the event that another company acquires **Picasa** or its assets, **Picasa** reserves the right to include Information and Personally Identifiable Information among the assets transferred to the acquiring company. 
-
-Amendments to Privacy Policy
-
-**Picasa** reserves the right to amend this Privacy Policy periodically. Use of Information and Personally Identifiable Information that **Picasa** gathers now is subject to the Privacy Policy in effect at the time the Information or Personally Identifiable Information is used. Any amendments made to this Privacy Policy will be considered effective ten (10) days after the amendments are posted on the Site. 
-
-Contact Information
-
-If Visitors have any questions about our products, services or Privacy Policy or to correct your Registration Information, please contact **Picasa, Inc., Customer Support, 130 W. Union Street, Pasadena, CA 91103**. 
-
-Visitors may also email [nfo@picasa.net](mailto:info@picasa.net) with questions about our Privacy Policy, our products and services, and [registration@picasa.net](mailto:registration@picasa.net) to correct your Registration Information. 
-
-Revised: October 8, 2003
-
-|  |  |  |  |  |   
----|---|---|---|---|---|---|---|---|---|---|---|---
+For more information about our practices regarding specific information or services that are not covered in this Privacy Policy, click on the links to the side of this page. 
