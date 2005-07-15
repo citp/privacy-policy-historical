@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the wayn.com privacy policy that was archived on 2005-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050521074452id_/http%3A//www.wayn.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wayn.com privacy policy that was archived on 2005-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050715075738id_/http%3A//www.wayn.com/privacy.html) for the most accurate reproduction.*
 
 # Where Are You Now? - Terms & Conditions
 
-| [Home](https://web.archive.org/web/20050521074452id_/http%3A//www.wayn.com/wayn.html?wci=homepage "Homepage")  
+| [Home](https://web.archive.org/web/20050715075738id_/http%3A//www.wayn.com/wayn.html?wci=homepage "Homepage")  
 ---  
-[Profile](https://web.archive.org/web/20050521074452id_/http%3A//www.wayn.com/wayn.html?wci=viewprofile "View & update your WAYN Profile")  
-[Who's Online](https://web.archive.org/web/20050521074452id_/http%3A//www.wayn.com/wayn.html?wci=whosonline "View mini-profiles of members currently logged into WAYN.COM")  
-[Search](https://web.archive.org/web/20050521074452id_/http%3A//www.wayn.com/wayn.html?wci=sitesearch&type=general "Search for members")  
-[Mailbox](https://web.archive.org/web/20050521074452id_/http%3A//www.wayn.com/wayn.html?wci=mailbox "Read or send messages")  
-[Contacts](https://web.archive.org/web/20050521074452id_/http%3A//www.wayn.com/wayn.html?wci=contacts "View your contact list")  
-[Locations](https://web.archive.org/web/20050521074452id_/http%3A//www.wayn.com/wayn.html?wci=locations "View/Add/Update locations you are visiting or have visited in the past.")  
-[SMS](https://web.archive.org/web/20050521074452id_/http%3A//www.wayn.com/wayn.html?wci=sms "Send a new Global SMS")  
-[Maps](https://web.archive.org/web/20050521074452id_/http%3A//www.wayn.com/wayn.html?wci=map "Visualize your contacts, or all members on our unique World Maps.")  
-[Photos](https://web.archive.org/web/20050521074452id_/http%3A//www.wayn.com/files.html?type=view "View your photo gallery")  
-[Messenger](https://web.archive.org/web/20050521074452id_/http%3A//www.wayn.com/wayn.html?wci=purchase&type=membership "WAYN Instant Messenger")  
-[ChatBoards](https://web.archive.org/web/20050521074452id_/http%3A//www.wayn.com/wayn.html?wci=Forum "View discussion groups & message boards")  
-[eCards](https://web.archive.org/web/20050521074452id_/http%3A//www.wayn.com/wayn.html?wci=eCard "Send an eCard to your friends")  
+[Profile](https://web.archive.org/web/20050715075738id_/http%3A//www.wayn.com/wayn.html?wci=viewprofile "View & update your WAYN Profile")  
+[Who's Online](https://web.archive.org/web/20050715075738id_/http%3A//www.wayn.com/wayn.html?wci=whosonline "View mini-profiles of members currently logged into WAYN.COM")  
+[Search](https://web.archive.org/web/20050715075738id_/http%3A//www.wayn.com/wayn.html?wci=sitesearch&type=general "Search for members")  
+[Mailbox](https://web.archive.org/web/20050715075738id_/http%3A//www.wayn.com/wayn.html?wci=mailbox "Read or send messages")  
+[Contacts](https://web.archive.org/web/20050715075738id_/http%3A//www.wayn.com/wayn.html?wci=contacts "View your contact list")  
+[Locations](https://web.archive.org/web/20050715075738id_/http%3A//www.wayn.com/wayn.html?wci=locations "View/Add/Update locations you are visiting or have visited in the past.")  
+[SMS](https://web.archive.org/web/20050715075738id_/http%3A//www.wayn.com/wayn.html?wci=sms "Send a new Global SMS")  
+[Maps](https://web.archive.org/web/20050715075738id_/http%3A//www.wayn.com/wayn.html?wci=map "Visualize your contacts, or all members on our unique World Maps.")  
+[Photos](https://web.archive.org/web/20050715075738id_/http%3A//www.wayn.com/files.html?type=view "View your photo gallery")  
+[Messenger](https://web.archive.org/web/20050715075738id_/http%3A//www.wayn.com/wayn.html?wci=purchase&type=membership "WAYN Instant Messenger")  
+[ChatBoards](https://web.archive.org/web/20050715075738id_/http%3A//www.wayn.com/wayn.html?wci=Forum "View discussion groups & message boards")  
+[eCards](https://web.archive.org/web/20050715075738id_/http%3A//www.wayn.com/wayn.html?wci=eCard "Send an eCard to your friends")  
   
    
   
@@ -82,7 +82,7 @@ to keep his/her password secret. 
   
 **4\. Opt-out policy  **
 
-You may have your registration details removed at any time. To remove yourself, please click [here](https://web.archive.org/web/20050521074452id_/http%3A//www.wayn.com/wayn.html?wci=support&step=a&pid=15&qid=114) to view instructions on the removal process. 
+You may have your registration details removed at any time. To remove yourself, please click [here](https://web.archive.org/web/20050715075738id_/http%3A//www.wayn.com/wayn.html?wci=support&step=a&pid=15&qid=114) to view instructions on the removal process. 
 
 We provide Members with the opportunity to opt-out of receiving e-mailed Newsletters which they have previously opted to receive. This opt-out can be put into effect by making appropriate selections at My Details. 
 
