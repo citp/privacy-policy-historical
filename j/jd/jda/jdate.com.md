@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jdate.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404091408id_/http%3A//jdate.com/default.asp%3Fp%3D13010%26CategoryID%3D120) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jdate.com privacy policy that was archived on 2005-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050721081402id_/http%3A//www.jdate.com/default.asp%3Fp%3D13010%26CategoryID%3D120) for the most accurate reproduction.*
 
 # jdate.com - the world's largest Jewish singles community
 
