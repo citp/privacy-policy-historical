@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ewu.edu privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305052109id_/http%3A//www.ewu.edu/x13715.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewu.edu privacy policy that was archived on 2005-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050728150242id_/http%3A//www.ewu.edu/x13715.xml) for the most accurate reproduction.*
 
 # EWU | EWU Privacy Policy
 
-[Home](https://web.archive.org/web/20050305052109id_/http%3A//www.ewu.edu/x336.xml)
+[Home](https://web.archive.org/web/20050728150242id_/http%3A//www.ewu.edu/x336.xml)
 
 EWU Privacy Policy  
  Thank you for visiting the Eastern Washington University website and reviewing our Privacy Notice. This statement addresses collection, use, and security of and access to information that may be obtained through use of Eastern Washington University's website. This notice covers the following topics:
