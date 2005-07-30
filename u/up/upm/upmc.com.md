@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upmc.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406051335id_/http%3A//community.healthgate.com/getcontent.asp%3FSiteID%3Dupmc%26DocID%3D/choice/copyright/privacy%26DocType%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upmc.com privacy policy that was archived on 2005-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050730080617id_/http%3A//community.healthgate.com/getcontent.asp%3FSiteID%3Dupmc%26DocID%3D/choice/copyright/privacy%26DocType%3D4) for the most accurate reproduction.*
 
 # HealthGate's Privacy Policy CHOICE For UPMC Health
 
@@ -114,4 +114,4 @@ This privacy policy is not intended to and does not create any contractual or le
 
 Last Reviewed by HealthGate Executive Management July 2004.
 
-All HealthGate consumer health and medical information found on this site is accredited by URAC. URAC's Health Web Site Accreditation Program requires compliance with 53 rigorous standards of quality and accountability, verified by independent audits.
+All EBSCO Publishing consumer health and medical information found on this site is accredited by URAC. URAC's Health Web Site Accreditation Program requires compliance with 53 rigorous standards of quality and accountability, verified by independent audits.
