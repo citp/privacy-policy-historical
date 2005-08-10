@@ -1,49 +1,13 @@
-> *The following text is extracted and transformed from the radarsync.com privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412193547id_/http%3A//www.radarsync.com/legal/RadarSyncPrivacyStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radarsync.com privacy policy that was archived on 2005-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050811003131id_/http%3A//www.radarsync.com/Privacy_Policy.html) for the most accurate reproduction.*
 
-# RadarSync Privacy Statement
+# RadarSync Privacy Statement: Driver, Software, Computer Drivers Update Tool
 
-| 
+At RadarSync we respect your privacy and we protect your information. 
 
-**[ ](http://www.radarsync.com/)RadarSync Privacy Statement**
+* RadarSync 2 client software does not automatically identify or collect personal information about you or your computer. When RadarSync client software scans your computer, it identifies the components installed on or attached to your computer. It identifies these components by vendor component hardware ID. Vendor component hardware IDs are generic and are not individualized per computer (every component of the same type has the same ID). RadarSync client software sends these generic hardware IDs to the RadarSync server in order to find and retrieve the right driver updates for your computer. 
 
-**RADARSYNC has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website,<http://www.radarsync.com/>, and for our RadarSync messaging.**
+* RadarSync, Ltd. does request that you provide your name, address, and other identifying information when you register your software. We do not share this information with third parties, nor do we use it to identify your computer or to make connections between your computer configuration and your personal details. 
 
- **
+* The information RadarSync 2 software sends to the server no way identifies you or your computer. RadarSync software may send you Content from time to time. Content may include: information and news updates that you request; offers, updates and promotions related to the components installed on/attached to your computer; registration reminders, etc. The Content you receive will be sent to you from RadarSync server. Any Content you receive will be directed to your RadarSync client software based on the vendor hardware IDs of the components installed on or attached to your computer, but not on the personal information you provided with your registration 
 
-RadarSync will never share information about you without your permission (unless required by law). 
-
-RadarSync will never compromise your online privacy. 
-
-RadarSync never requires you to give us any personal information to visit our Websites, or to use our software products. Since we don't have any personal information your anonymity and privacy are guaranteed. 
-
-RadarSync does not require that you accept cookies to visit our Websites, or to use our software products.
-
-RadarSync does not sell or reveal your personal information (we don't have it) to any of our partners or other third parties. 
-
-RadarSync does not create user profiles.
-
-WEB SITE: www.RadarSync.com
-
-**
-
-> Our RadarSync website does not collect information about visitors.
-
-**RadarSync Desktop Client.**
-
-> RadarSync regularly contacts RadarSync's and your device manufacturer's update servers to check if newer versions of RadarSync, device drivers, or pre-installed software updates are available. If newer versions are available, RadarSync will notify the user and give the user the option to upgrade. The user has the ability to disable the update check at any time. Instructions for disabling this feature can be found at RadarSync.com for [Windows](http://www.radarsync.com/techsupport/uninstall.html) versions of the software and in RadarSync Options menu. No personal information whatsoever is transmitted back to RadarSync or device manufacturers during these processes. 
-
-**RadarSync Information Broadcasting Features**
-
-> **Product Offers  
-> ** From time to time, RadarSync may broadcast product offers or promotions from your manufacturer. These advertisements and offers are targeted based on your computer information (type, features, upgrade needs), but not based on any personal information about you. Users have the option of configuring RadarSync so that they do not receive these product offers and promotions.
-> 
-> From time to time, some of RadarSync's advertising will only be applicable to certain geographic regions (phone services, insurance providers, etc). In such cases, RadarSync will use the user's IP address to send the most appropriate advertising. Many IP addresses are commonly associated with Internet service providers, universities, or major corporations in specific regions or localities. The only information used in this procedure is the data about the geographic region from which the user's computer is contacting the Internet. Absolutely no personal information (email address, address of residence, demographics, etc.) is revealed to RadarSync, your product manufactuer, or our advertisers in these situations.
-
-**Updates to this Privacy Statement  
-** While we will never change our fundamental commitment to protecting user privacy, regulatory changes or other circumstances may require us to modify this Privacy Statement. In the event that we do amend this Statement, we will post the amended Statement on our website at http://www.radarsync.com/legal/RadarSyncPrivacyStatement.htm, and the amended Statement will be effective 15 days after it is first posted.
-
-**Contacting the Web Site  
-** If you have any questions about this Privacy Statement, the practices of this site, or your dealings with this Web site, you can contact our [webmaster.](mailto:webmaster@radarsync.com)
-
-  
-Last updated 01/01/2002
+* RadarSync website (http://www.radarsync.com) collects information about visitors to our website by using cookies and pixel tracking tags. The information collected includes IP addresses, countries of origin, browsers, operating systems, the number, duration, and path of site visits, referring URLs and many other key details. These collected visitor demographics are compiled and analyzed automatically. This user information is available only to RadarSync and only as collectively analyzed data, not data on individual users. Further, RadarSync does not sell, rent, lease or otherwise release visitor information to third parties. Nor do we use this data to directly market products or services to visitors. 
