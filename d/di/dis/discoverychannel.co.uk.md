@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the discoverychannel.co.uk privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208024508id_/http%3A//discoverychannel.co.uk/_terms/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverychannel.co.uk privacy policy that was archived on 2005-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050813074508id_/http%3A//www.discoverychannel.co.uk/_terms/privacy.shtml) for the most accurate reproduction.*
 
-# Discovery Channel - Terms & Conditions
+# Discovery Channel
 
 **PRIVACY POLICY**
 
-The following sets out the privacy policy of Discovery Communications Europe ("us/we") part of the Discovery Communications Inc. group of companies. This policy explains how we use any personal information that you might provide to us on any of our web-sites, including discoverychannel.co.uk, animalplanettv.co.uk, discoveryhealth.co.uk, discovery-kids.co.uk, homeandleisure.co.uk, discoverycivilisation.co.uk, discoveryscience.co.uk, discoverytravelandadventure.co.uk and discoverywings.co.uk (the **"Discovery Sites"** ). This policy does not however apply to Discovery's US sites and we recommend that you review the privacy policies and terms and conditions on any such US sites that you visit.
+The following sets out the privacy policy of Discovery Communications Europe ("us/we") part of the Discovery Communications Inc. group of companies. This policy explains how we use any personal information that you might provide to us on any of our web-sites, including discoverychannel.co.uk, animalplanettv.co.uk, discoveryhealth.co.uk, discovery-kids.co.uk, homeandleisure.co.uk, discoverycivilisation.co.uk, discoveryscience.co.uk, travelandliving.co.uk and discoverywings.co.uk (the **"Discovery Sites"** ). This policy does not however apply to Discovery's US sites and we recommend that you review the privacy policies and terms and conditions on any such US sites that you visit.
 
 Personal information means any information that personally identifies you (such as your name, address or email address). 
 
