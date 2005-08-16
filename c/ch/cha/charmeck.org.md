@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charmeck.org privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405103815id_/http%3A//www.charmeck.org/Site-Info/Legal%2BInformation/Privacy%2BPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charmeck.org privacy policy that was archived on 2005-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050816085402id_/http%3A//charmeck.org/Site-Info/Legal%2BInformation/Privacy%2BPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
