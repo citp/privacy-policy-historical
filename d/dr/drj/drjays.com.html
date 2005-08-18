@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the drjays.com privacy policy that was archived on 2005-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050625145219id_/http%3A//www.drjays.com/display/cs_privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the drjays.com privacy policy that was archived on 2005-08-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050818033032id_/http%3A//www.drjays.com/display/cs_privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//w3c//dtd html 4.01 transitional//en" "http://www.w3.org/tr/html4/loose.dtd"><html lang="en"><head>
 <title>DrJays.com Urban Clothing: Akademiks, Ecko, Enyce, Sean John, Baby Phat, J.Lo, Southpole</title>
@@ -82,7 +82,16 @@ function reDo() {
 				document.getElementById(layerName).style.display = "block";
         			}
         		else{
-                  document.all(layerName).style.display = "block";
+                  // Because IE is a steaming PoC, we present the code below...
+                  var DivRef = document.all(layerName);
+                  var IfrRef = document.all('DivShim');
+                  DivRef.style.display = "block";
+                  IfrRef.style.width = DivRef.offsetWidth;
+                  IfrRef.style.height = DivRef.offsetHeight;
+                  IfrRef.style.top = DivRef.style.top;
+                  IfrRef.style.left = DivRef.style.left;
+                  IfrRef.style.zIndex = DivRef.style.zIndex - 1;
+                  IfrRef.style.display = "block";
                   }
 		 }
         	else { return; }
@@ -97,7 +106,10 @@ function reDo() {
         			document.getElementById(layerName).style.display = "none";
         			}
         		else{
-                  document.all(layerName).style.display = "none";
+                  var DivRef = document.all(layerName);
+                  var IfrRef = document.all('DivShim');
+                  IfrRef.style.display = "none";
+                  DivRef.style.display = "none";
 				}
         
         	}
@@ -113,7 +125,7 @@ function reDo() {
 				hideLayer('bngLayer');
 				hideLayer('saleLayer');
 				hideLayer('helpLayer');
-				hideLayer('signupLayer');
+				hideLayer('signupLayer');hideLayer('kbrandLayer');
 				}
 
 
@@ -206,6 +218,14 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 }
 
 #saleLayer {
+   background-color : #000000; 
+   layer-background-color : #000000;
+   border-width : 1px; 
+   border-style : solid; 
+   border-color : #660000; 
+}
+
+#kbrandLayer {
    background-color : #000000; 
    layer-background-color : #000000;
    border-width : 1px; 
@@ -311,29 +331,35 @@ a:active {
  
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/subDS012BB167/exact_science.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/subDS012BB167/exact_science.html"><font size="1" color="#FFFFFF">Exact Science</font></a></td></tr> 
  
-<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catDS022/fresh_dressed.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catDS022/fresh_dressed.html"><font size="1" color="#FFFFFF">Fresh Dressed</font></a></td></tr> 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/subDS022BB065/five_four.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/subDS022BB065/five_four.html"><font size="1" color="#FFFFFF">FiveFour </font></a></td></tr> 
  
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB025/g_unit.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB025/g_unit.html"><font size="1" color="#FFFFFF">G-Unit</font></a></td></tr> 
  
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB004/girbaud.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB004/girbaud.html"><font size="1" color="#FFFFFF">Girbaud</font></a></td></tr> 
  
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB197/gravis.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB197/gravis.html"><font size="1" color="#FFFFFF">Gravis</font></a></td></tr> 
+ 
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB077/helly_hansen.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB077/helly_hansen.html"><font size="1" color="#FFFFFF">Helly Hansen</font></a></td></tr> 
+ 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/subDS012BB061/hustler.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/subDS012BB061/hustler.html"><font size="1" color="#FFFFFF">Hustler</font></a></td></tr> 
  
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB058/kangol.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB058/kangol.html"><font size="1" color="#FFFFFF">Kangol</font></a></td></tr> 
  
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/subDS022BB175/koman.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/subDS022BB175/koman.html"><font size="1" color="#FFFFFF">Koman</font></a></td></tr> 
- 
-<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB073/lacoste.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB073/lacoste.html"><font size="1" color="#FFFFFF">Lacoste</font></a></td></tr> 
- 
-<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB030/levis.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB030/levis.html"><font size="1" color="#FFFFFF">Levi's</font></a></td></tr> 
 </tbody></table></td><td width="1" bgcolor="#660000" onmouseover="MM_swapImage('nav1','','http://images.drjays.com/images/index_header_ro_01.gif',1); stopTime()" onmouseout="MM_swapImgRestore(); startTime()"><img src="http://images.drjays.com/images/dot_clear.gif" width="1" height="1"></td> 
 <td width="110" bgcolor="#660000">
 <table width="110" border="0" cellspacing="1" cellpadding="2">
-<tbody><tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB071/lrg.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB071/lrg.html"><font size="1" color="#FFFFFF">LRG</font></a></td></tr> 
+<tbody><tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB073/lacoste.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB073/lacoste.html"><font size="1" color="#FFFFFF">Lacoste</font></a></td></tr> 
+ 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB030/levis.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB030/levis.html"><font size="1" color="#FFFFFF">Levi's</font></a></td></tr> 
+ 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB071/lrg.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB071/lrg.html"><font size="1" color="#FFFFFF">LRG</font></a></td></tr> 
  
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/subDD008BB112/lrg_big_and_tall.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/subDD008BB112/lrg_big_and_tall.html"><font size="1" color="#FFFFFF">LRG B&amp;T</font></a></td></tr> 
  
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB169/lot29.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB169/lot29.html"><font size="1" color="#FFFFFF">LOT29</font></a></td></tr> 
+ 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/subDS012BB066/madsoul.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/subDS012BB066/madsoul.html"><font size="1" color="#FFFFFF">Madsoul</font></a></td></tr> 
  
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB007/mecca.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB007/mecca.html"><font size="1" color="#FFFFFF">Mecca</font></a></td></tr> 
  
@@ -341,21 +367,21 @@ a:active {
  
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB123/new_balance.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB123/new_balance.html"><font size="1" color="#FFFFFF">New Balance</font></a></td></tr> 
  
-<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/subDS018BB208/new_era.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/subDS018BB208/new_era.html"><font size="1" color="#FFFFFF">New Era</font></a></td></tr> 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB208/new_era.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB208/new_era.html"><font size="1" color="#FFFFFF">New Era</font></a></td></tr> 
  
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB125/nike.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB125/nike.html"><font size="1" color="#FFFFFF">Nike</font></a></td></tr> 
  
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB014/north_face.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB014/north_face.html"><font size="1" color="#FFFFFF">North Face</font></a></td></tr> 
- 
-<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB008/pelle_pelle.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB008/pelle_pelle.html"><font size="1" color="#FFFFFF">Pelle Pelle</font></a></td></tr> 
+</tbody></table></td><td width="1" bgcolor="#660000" onmouseover="MM_swapImage('nav1','','http://images.drjays.com/images/index_header_ro_01.gif',1); stopTime()" onmouseout="MM_swapImgRestore(); startTime()"><img src="http://images.drjays.com/images/dot_clear.gif" width="1" height="1"></td> 
+<td width="110" bgcolor="#660000">
+<table width="110" border="0" cellspacing="1" cellpadding="2">
+<tbody><tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB008/pelle_pelle.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB008/pelle_pelle.html"><font size="1" color="#FFFFFF">Pelle Pelle</font></a></td></tr> 
  
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB050/pepe_jeans.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB050/pepe_jeans.html"><font size="1" color="#FFFFFF">Pepe Jeans</font></a></td></tr> 
  
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/subDD008BB154/pepe_jeans_big_and_tall.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/subDD008BB154/pepe_jeans_big_and_tall.html"><font size="1" color="#FFFFFF">Pepe Jeans B&amp;T</font></a></td></tr> 
-</tbody></table></td><td width="1" bgcolor="#660000" onmouseover="MM_swapImage('nav1','','http://images.drjays.com/images/index_header_ro_01.gif',1); stopTime()" onmouseout="MM_swapImgRestore(); startTime()"><img src="http://images.drjays.com/images/dot_clear.gif" width="1" height="1"></td> 
-<td width="110" bgcolor="#660000">
-<table width="110" border="0" cellspacing="1" cellpadding="2">
-<tbody><tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB009/phat_farm.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB009/phat_farm.html"><font size="1" color="#FFFFFF">Phat Farm</font></a></td></tr> 
+ 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB009/phat_farm.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB009/phat_farm.html"><font size="1" color="#FFFFFF">Phat Farm</font></a></td></tr> 
  
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/subDD008BB107/phat_farm_big_and_tall.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/subDD008BB107/phat_farm_big_and_tall.html"><font size="1" color="#FFFFFF">Phat Farm B&amp;T</font></a></td></tr> 
  
@@ -369,19 +395,21 @@ a:active {
  
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/subDD008BB117/sean_john_big_and_tall.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/subDD008BB117/sean_john_big_and_tall.html"><font size="1" color="#FFFFFF">Sean John B&amp;T</font></a></td></tr> 
  
-<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB235/sedgwick_cedar.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB235/sedgwick_cedar.html"><font size="1" color="#FFFFFF">Sedgwick &amp; Cedar</font></a></td></tr> 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/subDS012BB235/sedgwick_cedar.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/subDS012BB235/sedgwick_cedar.html"><font size="1" color="#FFFFFF">Sedgwick &amp; Cedar</font></a></td></tr> 
  
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB157/shady_ltd.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB157/shady_ltd.html"><font size="1" color="#FFFFFF">Shady Ltd</font></a></td></tr> 
- 
-<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB062/southpole.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB062/southpole.html"><font size="1" color="#FFFFFF">Southpole</font></a></td></tr> 
+</tbody></table></td><td width="1" bgcolor="#660000" onmouseover="MM_swapImage('nav1','','http://images.drjays.com/images/index_header_ro_01.gif',1); stopTime()" onmouseout="MM_swapImgRestore(); startTime()"><img src="http://images.drjays.com/images/dot_clear.gif" width="1" height="1"></td> 
+<td width="110" bgcolor="#660000">
+<table width="110" border="0" cellspacing="1" cellpadding="2">
+<tbody><tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB062/southpole.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB062/southpole.html"><font size="1" color="#FFFFFF">Southpole</font></a></td></tr> 
  
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/subDD008BB110/southpole_big_and_tall.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/subDD008BB110/southpole_big_and_tall.html"><font size="1" color="#FFFFFF">Southpole B&amp;T</font></a></td></tr> 
  
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB218/state_property.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB218/state_property.html"><font size="1" color="#FFFFFF">State Property</font></a></td></tr> 
-</tbody></table></td><td width="1" bgcolor="#660000" onmouseover="MM_swapImage('nav1','','http://images.drjays.com/images/index_header_ro_01.gif',1); stopTime()" onmouseout="MM_swapImgRestore(); startTime()"><img src="http://images.drjays.com/images/dot_clear.gif" width="1" height="1"></td> 
-<td width="110" bgcolor="#660000">
-<table width="110" border="0" cellspacing="1" cellpadding="2">
-<tbody><tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catDS012/tee_gallery.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catDS012/tee_gallery.html"><font size="1" color="#FFFFFF">Tee Gallery</font></a></td></tr> 
+ 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catDS012/tee_gallery.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catDS012/tee_gallery.html"><font size="1" color="#FFFFFF">Tee Gallery</font></a></td></tr> 
+ 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catDS022/the_avenue.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catDS022/the_avenue.html"><font size="1" color="#FFFFFF">The Avenue</font></a></td></tr> 
  
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB012/timberland.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB012/timberland.html"><font size="1" color="#FFFFFF">Timberland</font></a></td></tr> 
  
@@ -396,13 +424,7 @@ a:active {
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB039/vokal.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB039/vokal.html"><font size="1" color="#FFFFFF">Vokal</font></a></td></tr> 
  
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB097/zoo_york.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB097/zoo_york.html"><font size="1" color="#FFFFFF">Zoo York</font></a></td></tr> 
- 
- <tr><td width="110" bgcolor="#000000"><font size="1" color="#FFFFFF">&nbsp;</font></td></tr>
- <tr><td width="110" bgcolor="#000000"><font size="1" color="#FFFFFF">&nbsp;</font></td></tr>
- <tr><td width="110" bgcolor="#000000"><font size="1" color="#FFFFFF">&nbsp;</font></td></tr>
-<tr><td width="110" bgcolor="#000000"><font size="1" color="#FFFFFF">&nbsp;</font></td></tr>
-</tbody></table>
-</td>
+</tbody></table></td><td width="1" bgcolor="#660000" onmouseover="MM_swapImage('nav1','','http://images.drjays.com/images/index_header_ro_01.gif',1); stopTime()" onmouseout="MM_swapImgRestore(); startTime()"><img src="http://images.drjays.com/images/dot_clear.gif" width="1" height="1"></td> 
 </tr>
 </tbody></table>
 </div>
@@ -454,17 +476,27 @@ a:active {
  
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB024/girbaud_femme.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB024/girbaud_femme.html"><font size="1" color="#FFFFFF">Girbaud Femme</font></a></td></tr> 
  
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB198/gravis.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB198/gravis.html"><font size="1" color="#FFFFFF">Gravis</font></a></td></tr> 
+ 
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB036/guess.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB036/guess.html"><font size="1" color="#FFFFFF">Guess</font></a></td></tr> 
  
-<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB033/jlo.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB033/jlo.html"><font size="1" color="#FFFFFF">JLO</font></a></td></tr> 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB249/keds.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB249/keds.html"><font size="1" color="#FFFFFF">Keds</font></a></td></tr> 
  
-<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/subDD020BB177/junk_food.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/subDD020BB177/junk_food.html"><font size="1" color="#FFFFFF">Junk Food</font></a></td></tr> 
- 
-<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB057/kangol.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB057/kangol.html"><font size="1" color="#FFFFFF">Kangol</font></a></td></tr> 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/subDD053BB226/havaianas.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/subDD053BB226/havaianas.html"><font size="1" color="#FFFFFF">Havaianas</font></a></td></tr> 
 </tbody></table></td><td width="1" bgcolor="#660000" onmouseover="MM_swapImage('nav2','','http://images.drjays.com/images/index_header_ro_02.gif',1); stopTime()" onmouseout="MM_swapImgRestore(); startTime()"><img src="http://images.drjays.com/images/dot_clear.gif" width="1" height="1"></td> 
 <td width="110" bgcolor="#660000">
 <table width="110" border="0" cellspacing="1" cellpadding="2">
-<tbody><tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB023/lady_enyce.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB023/lady_enyce.html"><font size="1" color="#FFFFFF">Lady Enyce</font></a></td></tr> 
+<tbody><tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/subDS013BB063/hustler.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/subDS013BB063/hustler.html"><font size="1" color="#FFFFFF">Hustler</font></a></td></tr> 
+ 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB033/jlo.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB033/jlo.html"><font size="1" color="#FFFFFF">JLO</font></a></td></tr> 
+ 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/subDS013BB177/junk_food.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/subDS013BB177/junk_food.html"><font size="1" color="#FFFFFF">Junk Food</font></a></td></tr> 
+ 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB057/kangol.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB057/kangol.html"><font size="1" color="#FFFFFF">Kangol</font></a></td></tr> 
+ 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB294/lacoste.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB294/lacoste.html"><font size="1" color="#FFFFFF">Lacoste</font></a></td></tr> 
+ 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB023/lady_enyce.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB023/lady_enyce.html"><font size="1" color="#FFFFFF">Lady Enyce</font></a></td></tr> 
  
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB203/le_tigre.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB203/le_tigre.html"><font size="1" color="#FFFFFF">Le Tigre</font></a></td></tr> 
  
@@ -477,8 +509,10 @@ a:active {
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB064/nba_mlb_gear.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB064/nba_mlb_gear.html"><font size="1" color="#FFFFFF">NBA MLB Gear</font></a></td></tr> 
  
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB124/new_balance.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB124/new_balance.html"><font size="1" color="#FFFFFF">New Balance</font></a></td></tr> 
- 
-<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB126/nike.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB126/nike.html"><font size="1" color="#FFFFFF">Nike</font></a></td></tr> 
+</tbody></table></td><td width="1" bgcolor="#660000" onmouseover="MM_swapImage('nav2','','http://images.drjays.com/images/index_header_ro_02.gif',1); stopTime()" onmouseout="MM_swapImgRestore(); startTime()"><img src="http://images.drjays.com/images/dot_clear.gif" width="1" height="1"></td> 
+<td width="110" bgcolor="#660000">
+<table width="110" border="0" cellspacing="1" cellpadding="2">
+<tbody><tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB126/nike.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB126/nike.html"><font size="1" color="#FFFFFF">Nike</font></a></td></tr> 
  
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB053/north_face.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB053/north_face.html"><font size="1" color="#FFFFFF">North Face</font></a></td></tr> 
  
@@ -487,22 +521,24 @@ a:active {
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB047/pepe_jeans.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB047/pepe_jeans.html"><font size="1" color="#FFFFFF">Pepe Jeans</font></a></td></tr> 
  
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB019/playboy.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB019/playboy.html"><font size="1" color="#FFFFFF">Playboy</font></a></td></tr> 
-</tbody></table></td><td width="1" bgcolor="#660000" onmouseover="MM_swapImage('nav2','','http://images.drjays.com/images/index_header_ro_02.gif',1); stopTime()" onmouseout="MM_swapImgRestore(); startTime()"><img src="http://images.drjays.com/images/dot_clear.gif" width="1" height="1"></td> 
-<td width="110" bgcolor="#660000">
-<table width="110" border="0" cellspacing="1" cellpadding="2">
-<tbody><tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB128/reebok.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB128/reebok.html"><font size="1" color="#FFFFFF">Reebok</font></a></td></tr> 
+ 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB210/pony.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB210/pony.html"><font size="1" color="#FFFFFF">Pony</font></a></td></tr> 
+ 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB128/reebok.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB128/reebok.html"><font size="1" color="#FFFFFF">Reebok</font></a></td></tr> 
  
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB172/request_jeans.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB172/request_jeans.html"><font size="1" color="#FFFFFF">Request Jeans</font></a></td></tr> 
  
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB035/rocawear.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB035/rocawear.html"><font size="1" color="#FFFFFF">Rocawear</font></a></td></tr> 
  
-<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/subDD020BB098/ruff_ryders.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/subDD020BB098/ruff_ryders.html"><font size="1" color="#FFFFFF">Ruff Ryders</font></a></td></tr> 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/subDS013BB098/ruff_ryders.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/subDS013BB098/ruff_ryders.html"><font size="1" color="#FFFFFF">Ruff Ryders</font></a></td></tr> 
  
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB087/southpole.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB087/southpole.html"><font size="1" color="#FFFFFF">Southpole</font></a></td></tr> 
  
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/subDD057BB111/southpole_big_and_tall.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/subDD057BB111/southpole_big_and_tall.html"><font size="1" color="#FFFFFF">Southpole +Size</font></a></td></tr> 
- 
-<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/subDD053BB075/steve_madden.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/subDD053BB075/steve_madden.html"><font size="1" color="#FFFFFF">Steve Maddden</font></a></td></tr> 
+</tbody></table></td><td width="1" bgcolor="#660000" onmouseover="MM_swapImage('nav2','','http://images.drjays.com/images/index_header_ro_02.gif',1); stopTime()" onmouseout="MM_swapImgRestore(); startTime()"><img src="http://images.drjays.com/images/dot_clear.gif" width="1" height="1"></td> 
+<td width="110" bgcolor="#660000">
+<table width="110" border="0" cellspacing="1" cellpadding="2">
+<tbody><tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/subDD053BB075/steve_madden.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/subDD053BB075/steve_madden.html"><font size="1" color="#FFFFFF">Steve Maddden</font></a></td></tr> 
  
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/subDS017BB189/sugar.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/subDS017BB189/sugar.html"><font size="1" color="#FFFFFF">Sugar</font></a></td></tr> 
  
@@ -513,17 +549,9 @@ a:active {
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB021/tommy_girl.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB021/tommy_girl.html"><font size="1" color="#FFFFFF">Tommy Girl</font></a></td></tr> 
  
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB031/triple_5_soul.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB031/triple_5_soul.html"><font size="1" color="#FFFFFF">Triple 5 Soul</font></a></td></tr> 
-</tbody></table></td><td width="1" bgcolor="#660000" onmouseover="MM_swapImage('nav2','','http://images.drjays.com/images/index_header_ro_02.gif',1); stopTime()" onmouseout="MM_swapImgRestore(); startTime()"><img src="http://images.drjays.com/images/dot_clear.gif" width="1" height="1"></td> 
-<td width="110" bgcolor="#660000">
-<table width="110" border="0" cellspacing="1" cellpadding="2">
-<tbody><tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB217/zoo_york.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB217/zoo_york.html"><font size="1" color="#FFFFFF">Zoo York</font></a></td></tr> 
  
- <tr><td width="110" bgcolor="#000000"><font size="1" color="#FFFFFF">&nbsp;</font></td></tr>
- <tr><td width="110" bgcolor="#000000"><font size="1" color="#FFFFFF">&nbsp;</font></td></tr>
- <tr><td width="110" bgcolor="#000000"><font size="1" color="#FFFFFF">&nbsp;</font></td></tr>
- <tr><td width="110" bgcolor="#000000"><font size="1" color="#FFFFFF">&nbsp;</font></td></tr>
- <tr><td width="110" bgcolor="#000000"><font size="1" color="#FFFFFF">&nbsp;</font></td></tr>
- <tr><td width="110" bgcolor="#000000"><font size="1" color="#FFFFFF">&nbsp;</font></td></tr>
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB217/zoo_york.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB217/zoo_york.html"><font size="1" color="#FFFFFF">Zoo York</font></a></td></tr> 
+ 
  <tr><td width="110" bgcolor="#000000"><font size="1" color="#FFFFFF">&nbsp;</font></td></tr>
  <tr><td width="110" bgcolor="#000000"><font size="1" color="#FFFFFF">&nbsp;</font></td></tr>
  <tr><td width="110" bgcolor="#000000"><font size="1" color="#FFFFFF">&nbsp;</font></td></tr>
@@ -562,13 +590,11 @@ a:active {
  
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catDD002/jeans.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catDD002/jeans.html"><font size="1" color="#FFFFFF">Jeans</font></a></td></tr> 
  
-<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catDD034/jerseys.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catDD034/jerseys.html"><font size="1" color="#FFFFFF">Jerseys</font></a></td></tr> 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catDD030/loungewear.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catDD030/loungewear.html"><font size="1" color="#FFFFFF">Loungewear</font></a></td></tr> 
 </tbody></table></td><td width="1" bgcolor="#660000" onmouseover="MM_swapImage('nav3','','http://images.drjays.com/images/index_header_ro_03.gif',1); stopTime()" onmouseout="MM_swapImgRestore(); startTime()"><img src="http://images.drjays.com/images/dot_clear.gif" width="1" height="1"></td> 
 <td width="110" bgcolor="#660000">
 <table width="110" border="0" cellspacing="1" cellpadding="2">
-<tbody><tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catDD030/loungewear.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catDD030/loungewear.html"><font size="1" color="#FFFFFF">Loungewear</font></a></td></tr> 
- 
-<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catDD003/outerwear.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catDD003/outerwear.html"><font size="1" color="#FFFFFF">Outerwear</font></a></td></tr> 
+<tbody><tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catDD003/outerwear.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catDD003/outerwear.html"><font size="1" color="#FFFFFF">Outerwear</font></a></td></tr> 
  
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catDD004/pants.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catDD004/pants.html"><font size="1" color="#FFFFFF">Pants</font></a></td></tr> 
  
@@ -589,6 +615,8 @@ a:active {
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catDD014/t_shirts.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catDD014/t_shirts.html"><font size="1" color="#FFFFFF">T-Shirts</font></a></td></tr> 
  
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catDD030/underwear.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catDD030/underwear.html"><font size="1" color="#FFFFFF">Underwear</font></a></td></tr> 
+ 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catDD152/watches_and_jewelry.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catDD152/watches_and_jewelry.html"><font size="1" color="#FFFFFF">Watches &amp; Jewelry</font></a></td></tr> 
 </tbody></table></td><td width="1" bgcolor="#660000" onmouseover="MM_swapImage('nav3','','http://images.drjays.com/images/index_header_ro_03.gif',1); stopTime()" onmouseout="MM_swapImgRestore(); startTime()"><img src="http://images.drjays.com/images/dot_clear.gif" width="1" height="1"></td> 
 </tr>
 </tbody></table>
@@ -670,17 +698,91 @@ a:active {
 </tr>
 </tbody></table>
 </div>
+<div id="kbrandLayer" style="width : 332px; top : 87px; left : 450px; position : absolute; z-index : 90; display : none">
+<table width="332" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr onmouseover="MM_swapImage('nav10','','http://images.drjays.com/images/index_header_ro_10.gif',1); stopTime()" onmouseout="MM_swapImgRestore(); startTime()">
+      
+<td width="110" bgcolor="#660000">
+<table width="110" border="0" cellspacing="1" cellpadding="2">
+<tbody><tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB270/and_1_boys.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB270/and_1_boys.html"><font size="1" color="#FFFFFF">AND 1 Boys</font></a></td></tr> 
+ 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB213/akademiks_boys.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB213/akademiks_boys.html"><font size="1" color="#FFFFFF">Akademiks Boys</font></a></td></tr> 
+ 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB271/ecko_unltd_boys.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB271/ecko_unltd_boys.html"><font size="1" color="#FFFFFF">Ecko Unltd Boys</font></a></td></tr> 
+ 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB258/g_unit_boys.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB258/g_unit_boys.html"><font size="1" color="#FFFFFF">G-Unit Boys</font></a></td></tr> 
+ 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB251/kenneth_cole_boys.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB251/kenneth_cole_boys.html"><font size="1" color="#FFFFFF">Kenneth Cole Boys</font></a></td></tr> 
+ 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB245/le_tigre_boys.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB245/le_tigre_boys.html"><font size="1" color="#FFFFFF">Le Tigre Boys</font></a></td></tr> 
+ 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB268/old_skool_boys.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB268/old_skool_boys.html"><font size="1" color="#FFFFFF">Old Skool Boys</font></a></td></tr> 
+ 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB262/pepe_jeans_boys.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB262/pepe_jeans_boys.html"><font size="1" color="#FFFFFF">Pepe Jeans Boys</font></a></td></tr> 
+ 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB215/phat_farm_boys.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB215/phat_farm_boys.html"><font size="1" color="#FFFFFF">Phat Farm Boys</font></a></td></tr> 
+ 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB247/rocawear_boys.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB247/rocawear_boys.html"><font size="1" color="#FFFFFF">Rocawear Boys</font></a></td></tr> 
+ 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB253/sean_john_boys.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB253/sean_john_boys.html"><font size="1" color="#FFFFFF">Sean John Boys</font></a></td></tr> 
+ 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB240/southpole_boys.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB240/southpole_boys.html"><font size="1" color="#FFFFFF">Southpole Boys</font></a></td></tr> 
+</tbody></table></td><td width="1" bgcolor="#660000" onmouseover="MM_swapImage('nav10','','http://images.drjays.com/images/index_header_ro_10.gif',1); stopTime()" onmouseout="MM_swapImgRestore(); startTime()"><img src="http://images.drjays.com/images/dot_clear.gif" width="1" height="1"></td> 
+<td width="110" bgcolor="#660000">
+<table width="110" border="0" cellspacing="1" cellpadding="2">
+<tbody><tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB234/timberland_boys.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB234/timberland_boys.html"><font size="1" color="#FFFFFF">Timberland Boys</font></a></td></tr> 
+ 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB214/baby_phat_girls.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB214/baby_phat_girls.html"><font size="1" color="#FFFFFF">Baby Phat Girls</font></a></td></tr> 
+ 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB255/ecko_red_girls.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB255/ecko_red_girls.html"><font size="1" color="#FFFFFF">Ecko Red Girls</font></a></td></tr> 
+ 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB259/g_unit_girls.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB259/g_unit_girls.html"><font size="1" color="#FFFFFF">G-Unit Girls</font></a></td></tr> 
+ 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB273/guess_girls.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB273/guess_girls.html"><font size="1" color="#FFFFFF">Guess Girls</font></a></td></tr> 
+ 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB285/hello_kitty_girls.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB285/hello_kitty_girls.html"><font size="1" color="#FFFFFF">Hello Kitty Girls</font></a></td></tr> 
+ 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB256/jlo_girls.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB256/jlo_girls.html"><font size="1" color="#FFFFFF">JLO Girls</font></a></td></tr> 
+ 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB280/junk_food_girls.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB280/junk_food_girls.html"><font size="1" color="#FFFFFF">Junk Food Girls</font></a></td></tr> 
+ 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB252/kenneth_cole_girls.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB252/kenneth_cole_girls.html"><font size="1" color="#FFFFFF">Kenneth Cole Girls</font></a></td></tr> 
+ 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB246/le_tigre_girls.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB246/le_tigre_girls.html"><font size="1" color="#FFFFFF">Le Tigre Girls</font></a></td></tr> 
+ 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB263/pepe_jeans_girls.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB263/pepe_jeans_girls.html"><font size="1" color="#FFFFFF">Pepe Jeans Girls</font></a></td></tr> 
+ 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB248/rocawear_girls.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB248/rocawear_girls.html"><font size="1" color="#FFFFFF">Rocawear Girls</font></a></td></tr> 
+</tbody></table></td><td width="1" bgcolor="#660000" onmouseover="MM_swapImage('nav10','','http://images.drjays.com/images/index_header_ro_10.gif',1); stopTime()" onmouseout="MM_swapImgRestore(); startTime()"><img src="http://images.drjays.com/images/dot_clear.gif" width="1" height="1"></td> 
+<td width="110" bgcolor="#660000">
+<table width="110" border="0" cellspacing="1" cellpadding="2">
+<tbody><tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB267/skechers_girls.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB267/skechers_girls.html"><font size="1" color="#FFFFFF">Skechers Girls</font></a></td></tr> 
+ 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB241/southpole_girls.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB241/southpole_girls.html"><font size="1" color="#FFFFFF">Southpole Girls</font></a></td></tr> 
+ 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBB269/wanted_shoes_girls.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBB269/wanted_shoes_girls.html"><font size="1" color="#FFFFFF">Wanted Shoes Girls</font></a></td></tr> 
+ 
+ <tr><td width="110" bgcolor="#000000"><font size="1" color="#FFFFFF">&nbsp;</font></td></tr>
+ <tr><td width="110" bgcolor="#000000"><font size="1" color="#FFFFFF">&nbsp;</font></td></tr>
+ <tr><td width="110" bgcolor="#000000"><font size="1" color="#FFFFFF">&nbsp;</font></td></tr>
+ <tr><td width="110" bgcolor="#000000"><font size="1" color="#FFFFFF">&nbsp;</font></td></tr>
+ <tr><td width="110" bgcolor="#000000"><font size="1" color="#FFFFFF">&nbsp;</font></td></tr>
+ <tr><td width="110" bgcolor="#000000"><font size="1" color="#FFFFFF">&nbsp;</font></td></tr>
+ <tr><td width="110" bgcolor="#000000"><font size="1" color="#FFFFFF">&nbsp;</font></td></tr>
+ <tr><td width="110" bgcolor="#000000"><font size="1" color="#FFFFFF">&nbsp;</font></td></tr>
+<tr><td width="110" bgcolor="#000000"><font size="1" color="#FFFFFF">&nbsp;</font></td></tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</div>
 <div id="helpLayer" style="width : 221px; top : 87px; left : 463px; position : absolute; z-index : 90; display : none">
 <table width="221" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr onmouseover="MM_swapImage('nav7','','http://images.drjays.com/images/index_header_ro_07.gif',1); stopTime()" onmouseout="MM_swapImgRestore(); startTime()">
       
 <td width="110" bgcolor="#666666">
 <table width="110" border="0" cellspacing="1" cellpadding="2">
-<tbody><tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/display/cs_howtoshop.html'" onmouseover="this.style.backgroundColor='#666666'" onmouseout="this.style.backgroundColor='#000000'"><a href="/display/cs_howtoshop.html"><font size="1" color="#FFFFFF">How to Shop</font></a></td></tr> 
- 
-<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/display/cs_sizechart.html'" onmouseover="this.style.backgroundColor='#666666'" onmouseout="this.style.backgroundColor='#000000'"><a href="/display/cs_sizechart.html"><font size="1" color="#FFFFFF">Size Chart</font></a></td></tr> 
- 
-<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/display/cs_placinganorder.html'" onmouseover="this.style.backgroundColor='#666666'" onmouseout="this.style.backgroundColor='#000000'"><a href="/display/cs_placinganorder.html"><font size="1" color="#FFFFFF">Placing an Order</font></a></td></tr> 
+<tbody><tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/display/cs_sizechart.html'" onmouseover="this.style.backgroundColor='#666666'" onmouseout="this.style.backgroundColor='#000000'"><a href="/display/cs_sizechart.html"><font size="1" color="#FFFFFF">Sizes &amp; Selection</font></a></td></tr> 
  
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/display/cs_paymentoptions.html'" onmouseover="this.style.backgroundColor='#666666'" onmouseout="this.style.backgroundColor='#000000'"><a href="/display/cs_paymentoptions.html"><font size="1" color="#FFFFFF">Payment Options</font></a></td></tr> 
  
@@ -688,23 +790,13 @@ a:active {
  
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/display/cs_shipping.html'" onmouseover="this.style.backgroundColor='#666666'" onmouseout="this.style.backgroundColor='#000000'"><a href="/display/cs_shipping.html"><font size="1" color="#FFFFFF">Shipping</font></a></td></tr> 
  
-<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/display/cs_ukorders.html'" onmouseover="this.style.backgroundColor='#666666'" onmouseout="this.style.backgroundColor='#000000'"><a href="/display/cs_ukorders.html"><font size="1" color="#FFFFFF">UK Orders</font></a></td></tr> 
- 
-<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/display/cs_canadianorders.html'" onmouseover="this.style.backgroundColor='#666666'" onmouseout="this.style.backgroundColor='#000000'"><a href="/display/cs_canadianorders.html"><font size="1" color="#FFFFFF">Canadian Orders</font></a></td></tr> 
- 
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='http://www.international-orders.com/shop/partner/drjays/help.do'" onmouseover="this.style.backgroundColor='#666666'" onmouseout="this.style.backgroundColor='#000000'"><a href="http://www.international-orders.com/shop/partner/drjays/help.do"><font size="1" color="#FFFFFF">Int'l Orders</font></a></td></tr> 
  
-<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/cgi/cs_tracking.cgi'" onmouseover="this.style.backgroundColor='#666666'" onmouseout="this.style.backgroundColor='#000000'"><a href="/cgi/cs_tracking.cgi"><font size="1" color="#FFFFFF">Order Status</font></a></td></tr> 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/cgi/cs_tracking.cgi'" onmouseover="this.style.backgroundColor='#666666'" onmouseout="this.style.backgroundColor='#000000'"><a href="/cgi/cs_tracking.cgi"><font size="1" color="#FFFFFF">Order Tracking</font></a></td></tr> 
  
-<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/display/cs_mailorders.html'" onmouseover="this.style.backgroundColor='#666666'" onmouseout="this.style.backgroundColor='#000000'"><a href="/display/cs_mailorders.html"><font size="1" color="#FFFFFF">Mail Orders</font></a></td></tr> 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/display/cs_returnsexchanges.html'" onmouseover="this.style.backgroundColor='#666666'" onmouseout="this.style.backgroundColor='#000000'"><a href="/display/cs_returnsexchanges.html"><font size="1" color="#FFFFFF">Returns</font></a></td></tr> 
  
-<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/display/cs_returnsexchanges.html'" onmouseover="this.style.backgroundColor='#666666'" onmouseout="this.style.backgroundColor='#000000'"><a href="/display/cs_returnsexchanges.html"><font size="1" color="#FFFFFF">Returns/Exchanges</font></a></td></tr> 
-</tbody></table></td><td width="1" bgcolor="#666666" onmouseover="MM_swapImage('nav7','','http://images.drjays.com/images/index_header_ro_07.gif',1); stopTime()" onmouseout="MM_swapImgRestore(); startTime()"><img src="http://images.drjays.com/images/dot_clear.gif" width="1" height="1"></td> 
-<td width="110" bgcolor="#666666">
-<table width="110" border="0" cellspacing="1" cellpadding="2">
-<tbody><tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/display/cs_secureshopper.html'" onmouseover="this.style.backgroundColor='#666666'" onmouseout="this.style.backgroundColor='#000000'"><a href="/display/cs_secureshopper.html"><font size="1" color="#FFFFFF">Secure Shopping</font></a></td></tr> 
- 
-<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/display/cs_catalog.html'" onmouseover="this.style.backgroundColor='#666666'" onmouseout="this.style.backgroundColor='#000000'"><a href="/display/cs_catalog.html"><font size="1" color="#FFFFFF">Catalogs</font></a></td></tr> 
+<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/display/cs_secureshopper.html'" onmouseover="this.style.backgroundColor='#666666'" onmouseout="this.style.backgroundColor='#000000'"><a href="/display/cs_secureshopper.html"><font size="1" color="#FFFFFF">Secure Shopping</font></a></td></tr> 
  
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/display/cs_wholesale.html'" onmouseover="this.style.backgroundColor='#666666'" onmouseout="this.style.backgroundColor='#000000'"><a href="/display/cs_wholesale.html"><font size="1" color="#FFFFFF">Wholesale</font></a></td></tr> 
  
@@ -713,13 +805,21 @@ a:active {
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/display/cs_privacypolicy.html'" onmouseover="this.style.backgroundColor='#666666'" onmouseout="this.style.backgroundColor='#000000'"><a href="/display/cs_privacypolicy.html"><font size="1" color="#FFFFFF">Privacy Policy</font></a></td></tr> 
  
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/display/cs_trademarks.html'" onmouseover="this.style.backgroundColor='#666666'" onmouseout="this.style.backgroundColor='#000000'"><a href="/display/cs_trademarks.html"><font size="1" color="#FFFFFF">Trademarks</font></a></td></tr> 
- 
-<tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/display/cs_livechat.html'" onmouseover="this.style.backgroundColor='#666666'" onmouseout="this.style.backgroundColor='#000000'"><a href="/display/cs_livechat.html"><font size="1" color="#FFFFFF">Live Chat</font></a></td></tr> 
+</tbody></table></td><td width="1" bgcolor="#666666" onmouseover="MM_swapImage('nav7','','http://images.drjays.com/images/index_header_ro_07.gif',1); stopTime()" onmouseout="MM_swapImgRestore(); startTime()"><img src="http://images.drjays.com/images/dot_clear.gif" width="1" height="1"></td> 
+<td width="110" bgcolor="#666666">
+<table width="110" border="0" cellspacing="1" cellpadding="2">
+<tbody><tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/display/cs_livechat.html'" onmouseover="this.style.backgroundColor='#666666'" onmouseout="this.style.backgroundColor='#000000'"><a href="/display/cs_livechat.html"><font size="1" color="#FFFFFF">Live Chat</font></a></td></tr> 
  
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/cgi/cs_contactus.cgi'" onmouseover="this.style.backgroundColor='#666666'" onmouseout="this.style.backgroundColor='#000000'"><a href="/cgi/cs_contactus.cgi"><font size="1" color="#FFFFFF">Contact Us</font></a></td></tr> 
  
 <tr><td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/cgi/search2.cgi'" onmouseover="this.style.backgroundColor='#666666'" onmouseout="this.style.backgroundColor='#000000'"><a href="/cgi/search2.cgi"><font size="1" color="#FFFFFF">Advanced Search</font></a></td></tr> 
  
+ <tr><td width="110" bgcolor="#000000"><font size="1" color="#FFFFFF">&nbsp;</font></td></tr>
+ <tr><td width="110" bgcolor="#000000"><font size="1" color="#FFFFFF">&nbsp;</font></td></tr>
+ <tr><td width="110" bgcolor="#000000"><font size="1" color="#FFFFFF">&nbsp;</font></td></tr>
+ <tr><td width="110" bgcolor="#000000"><font size="1" color="#FFFFFF">&nbsp;</font></td></tr>
+ <tr><td width="110" bgcolor="#000000"><font size="1" color="#FFFFFF">&nbsp;</font></td></tr>
+ <tr><td width="110" bgcolor="#000000"><font size="1" color="#FFFFFF">&nbsp;</font></td></tr>
  <tr><td width="110" bgcolor="#000000"><font size="1" color="#FFFFFF">&nbsp;</font></td></tr>
  <tr><td width="110" bgcolor="#000000"><font size="1" color="#FFFFFF">&nbsp;</font></td></tr>
 <tr><td width="110" bgcolor="#000000"><font size="1" color="#FFFFFF">&nbsp;</font></td></tr>
@@ -739,7 +839,13 @@ a:active {
  <tr>
   <td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBS009/brand_new_gear_for_women.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBS009/brand_new_gear_for_women.html"><font size="1" color="#FFFFFF">Women</font></a></td>
  </tr>
-</tbody></table></td>
+ <tr>
+  <td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBS053/brand_new_gear_for_boys.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBS053/brand_new_gear_for_boys.html"><font size="1" color="#FFFFFF">Boys</font></a></td>
+ </tr>
+ <tr>
+  <td width="110" bgcolor="#000000" onmousedown="javascript:self.location.href='/catBS054/brand_new_gear_for_girls.html'" onmouseover="this.style.backgroundColor='#660000'" onmouseout="this.style.backgroundColor='#000000'"><a href="/catBS054/brand_new_gear_for_girls.html"><font size="1" color="#FFFFFF">Girls</font></a></td>
+ </tr>
+ </tbody></table></td>
 </tr>
 </tbody></table>
 </div>
@@ -783,6 +889,9 @@ a:active {
 
 <!-- batchinclude end -->
 
+<iframe id="DivShim" src="javascript:false;" scrolling="no" frameborder="0" style="position:absolute; top:0px; left:0px; width:0px; height:0px; display:none;">
+</iframe>
+
 <table width="760" cellpadding="0" cellspacing="0" border="0">
 
 <!-- batchinclude begin includes/header.html -->
@@ -793,7 +902,7 @@ a:active {
       
 			<table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0">
 			<tbody><tr>
-				<td width="336" height="62" rowspan="2"><a href="/cgi/index.cgi?id=DJJMtcQPLbQe."><img src="http://images.drjays.com/images/drjays_logo.gif" width="336" height="62" border="0" alt="DrJays, the urban fashion leader since 1975, offers: Akademiks, Baby Phat, Ecko, Southpole, J.Lo, Timberland, Sergio Valente, Triple 5 Soul, Enyce, Sean John, and many others!" title="DrJays, the urban fashion leader since 1975, offers: Akademiks, Baby Phat, Ecko, Southpole, J.Lo, Timberland, Sergio Valente, Triple 5 Soul, Enyce, Sean John, and many others!"></a></td>
+				<td width="336" height="62" rowspan="2"><a href="/cgi/index.cgi?id="><img src="http://images.drjays.com/images/drjays_logo.gif" width="336" height="62" border="0" alt="DrJays, the urban fashion leader since 1975, offers: Akademiks, Baby Phat, Ecko, Southpole, J.Lo, Timberland, Sergio Valente, Triple 5 Soul, Enyce, Sean John, and many others!" title="DrJays, the urban fashion leader since 1975, offers: Akademiks, Baby Phat, Ecko, Southpole, J.Lo, Timberland, Sergio Valente, Triple 5 Soul, Enyce, Sean John, and many others!"></a></td>
 			  <td height="30" colspan="2" align="right" nowrap="" background="http://images.drjays.com/images/index_bg1.gif"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="/cgi/search2.cgi" title="Click here to search DrJays.com with extra options, or just enter keywords in the box to the right for a simple search"><img src="http://images.drjays.com/images/index_search.gif" alt="Click here to search DrJays.com with extra options, or just enter keywords in the box to the right for a simple search" width="111" height="30" border="0" align="absmiddle"></a>
 			    <input name="keywords" type="text" size="16" maxlength="72" align="absmiddle" value="Search DrJays.com" onfocus="if(this.value=='Search DrJays.com'){this.value=''}" onblur="if(this.value==''){this.value='Search DrJays.com'}">
 			    &nbsp;<input name="searchgo" type="image" src="http://images.drjays.com/images/index_go.gif" alt="Search DrJays.com - Go!" align="absmiddle" width="29" height="18" border="0" onclick="if(document.searchform.keywords.value=='Search DrJays.com'){document.searchform.keywords.value=''}">&nbsp;
@@ -815,7 +924,7 @@ a:active {
     <td width="75" height="25"><a href="javascript:void(0);" onmouseout="MM_swapImgRestore(); startTime()" onmouseover="MM_swapImage('nav4','','http://images.drjays.com/images/index_header_ro_04.gif',1); hideAll(); showLayer('wdeptLayer'); stopTime()"><img src="http://images.drjays.com/images/index_header_04.gif" alt="DrJays.com Women's Departments" title="DrJays.com Women's Departments" name="nav4" width="75" height="25" border="0"></a></td>
     <td width="75" height="25"><a href="javascript:void(0);" onmouseout="MM_swapImgRestore(); startTime()" onmouseover="MM_swapImage('nav5','','http://images.drjays.com/images/index_header_ro_05.gif',1); hideAll(); showLayer('bngLayer'); stopTime()"><img src="http://images.drjays.com/images/index_header_05.gif" alt="DrJays.com Brand New Gear" title="DrJays.com Brand New Gear" name="nav5" width="75" height="25" border="0"></a></td>
     <td width="75" height="25"><a href="javascript:void(0);" onmouseout="MM_swapImgRestore(); startTime()" onmouseover="MM_swapImage('nav6','','http://images.drjays.com/images/index_header_ro_06.gif',1); hideAll(); showLayer('saleLayer'); stopTime()"><img src="http://images.drjays.com/images/index_header_06.gif" alt="DrJays.com Sale Items" title="DrJays.com Sale Items" name="nav6" width="75" height="25" border="0"></a></td>
-    <td width="75" height="25"><a href="/display/kids_index.html"><img src="http://images.drjays.com/images/index_header_kids.gif" alt="Kids @ DrJays.com" title="Kids @ DrJays.com" width="75" height="25" border="0"></a></td>
+    <td width="75" height="25"><a href="javascript:void(0);" onmouseout="MM_swapImgRestore(); startTime()" onmouseover="MM_swapImage('nav10','','http://images.drjays.com/images/index_header_ro_10.gif',1); hideAll(); showLayer('kbrandLayer'); stopTime()"><img src="http://images.drjays.com/images/index_header_10.gif" alt="DrJays.com Kid's Departments" title="DrJays.com Kid's Departments" name="nav10" width="75" height="25" border="0"></a></td>
     <td width="11" height="25">&nbsp;</td>
 	<td width="75" height="25"><a href="javascript:void(0);" onmouseout="MM_swapImgRestore(); startTime()" onmouseover="MM_swapImage('nav9','','http://images.drjays.com/images/index_header_ro_09.gif',1); hideAll(); showLayer('signupLayer'); stopTime()"><img src="http://images.drjays.com/images/index_header_09.gif" alt="Sign up for DrJays.com promotions!" title="DrJays.com promotions" name="nav9" width="75" height="25" border="0"></a></td>
 	<td width="75" height="25"><a href="javascript:void(0);" onmouseout="MM_swapImgRestore(); startTime()" onmouseover="MM_swapImage('nav7','','http://images.drjays.com/images/index_header_ro_07.gif',1); hideAll(); showLayer('helpLayer'); stopTime()"><img src="http://images.drjays.com/images/index_header_07.gif" alt="DrJays.com Help" title="DrJays.com Help" name="nav7" width="75" height="25" border="0"></a></td>
@@ -852,12 +961,6 @@ a:active {
               I<br>
               I<br>
 			  I<br>
-              I<br>
-			  I<br>
-			  I<br>
-			  I<br>
-				I<br>
-				I<br>
               <img src="http://images.drjays.com/images/categorySelect.gif" width="4" height="7" vspace="5"><br>
               </font></td>
 <td valign="top">
@@ -865,26 +968,20 @@ a:active {
 <!-- batchinclude begin includes/cs.html -->
 <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#660000">Customer Service</font></b><br>
 <font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#333333">
- <img src="http://images.drjays.com/images/dot_clear.gif" width="5" height="1" alt="" border="0"><a href="/cgi/show_generic.cgi?file=cs_howtoshop.html&amp;id=DJJMtcQPLbQe." target="_self">How to Shop</a><br>
- <img src="http://images.drjays.com/images/dot_clear.gif" width="5" height="1" alt="" border="0"><a href="/cgi/show_generic.cgi?file=cs_sizechart.html&amp;id=DJJMtcQPLbQe." target="_self">Size Chart</a><br>
- <img src="http://images.drjays.com/images/dot_clear.gif" width="5" height="1" alt="" border="0"><a href="/cgi/show_generic.cgi?file=cs_placinganorder.html&amp;id=DJJMtcQPLbQe." target="_self">Placing an Order</a><br>
- <img src="http://images.drjays.com/images/dot_clear.gif" width="5" height="1" alt="" border="0"><a href="/cgi/show_generic.cgi?file=cs_paymentoptions.html&amp;id=DJJMtcQPLbQe." target="_self">Payment Options</a><br>
- <img src="http://images.drjays.com/images/dot_clear.gif" width="5" height="1" alt="" border="0"><a href="/cgi/show_generic.cgi?file=cs_salestax.html&amp;id=DJJMtcQPLbQe." target="_self">Sales Tax</a><br>
- <img src="http://images.drjays.com/images/dot_clear.gif" width="5" height="1" alt="" border="0"><a href="/cgi/show_generic.cgi?file=cs_shipping.html&amp;id=DJJMtcQPLbQe." target="_self">Shipping</a><br>
- <img src="http://images.drjays.com/images/dot_clear.gif" width="5" height="1" alt="" border="0"><a href="/cgi/show_generic.cgi?file=cs_ukorders.html&amp;id=DJJMtcQPLbQe." target="_self">United Kingdom Orders</a><br>
- <img src="http://images.drjays.com/images/dot_clear.gif" width="5" height="1" alt="" border="0"><a href="/cgi/show_generic.cgi?file=cs_canadianorders.html&amp;id=DJJMtcQPLbQe." target="_self">Canadian Orders</a><br>
+ <img src="http://images.drjays.com/images/dot_clear.gif" width="5" height="1" alt="" border="0"><a href="/cgi/show_generic.cgi?file=cs_sizechart.html&amp;id=" target="_self">Sizes &amp; Selection</a><br>
+ <img src="http://images.drjays.com/images/dot_clear.gif" width="5" height="1" alt="" border="0"><a href="/cgi/show_generic.cgi?file=cs_paymentoptions.html&amp;id=" target="_self">Payment Options</a><br>
+ <img src="http://images.drjays.com/images/dot_clear.gif" width="5" height="1" alt="" border="0"><a href="/cgi/show_generic.cgi?file=cs_salestax.html&amp;id=" target="_self">Sales Tax</a><br>
+ <img src="http://images.drjays.com/images/dot_clear.gif" width="5" height="1" alt="" border="0"><a href="/cgi/show_generic.cgi?file=cs_shipping.html&amp;id=" target="_self">Shipping</a><br>
  <img src="http://images.drjays.com/images/dot_clear.gif" width="5" height="1" alt="" border="0"><a href="http://www.international-orders.com/shop/partner/drjays/help.do" target="_self">International Orders</a><br>
- <img src="http://images.drjays.com/images/dot_clear.gif" width="5" height="1" alt="" border="0"><a href="/cgi/cs_tracking.cgi?id=DJJMtcQPLbQe." target="_self">Order Status</a><br>
- <img src="http://images.drjays.com/images/dot_clear.gif" width="5" height="1" alt="" border="0"><a href="/cgi/show_generic.cgi?id=DJJMtcQPLbQe.&amp;file=cs_mailorders.html" target="_self">Mail Orders</a><br>
- <img src="http://images.drjays.com/images/dot_clear.gif" width="5" height="1" alt="" border="0"><a href="/cgi/show_generic.cgi?file=cs_returnsexchanges.html&amp;id=DJJMtcQPLbQe.">Returns &amp; Exchanges</a><br>
- <img src="http://images.drjays.com/images/dot_clear.gif" width="5" height="1" alt="" border="0"><a href="/cgi/show_generic.cgi?file=cs_secureshopper.html&amp;id=DJJMtcQPLbQe." target="_self">Secure Shopping</a><br>
- <img src="http://images.drjays.com/images/dot_clear.gif" width="5" height="1" alt="" border="0"><a href="/cgi/show_generic.cgi?id=DJJMtcQPLbQe.&amp;file=cs_catalog.html" target="_self">Catalogs</a><br>
- <img src="http://images.drjays.com/images/dot_clear.gif" width="5" height="1" alt="" border="0"><a href="/cgi/show_generic.cgi?id=DJJMtcQPLbQe.&amp;file=cs_wholesale.html" target="_self">Wholesale</a><br>
- <img src="http://images.drjays.com/images/dot_clear.gif" width="5" height="1" alt="" border="0"><a href="/cgi/show_generic.cgi?file=cs_pricing.html&amp;id=DJJMtcQPLbQe." target="_self">Pricing</a><br>
- <img src="http://images.drjays.com/images/dot_clear.gif" width="5" height="1" alt="" border="0"><a href="/cgi/show_generic.cgi?file=cs_privacypolicy.html&amp;id=DJJMtcQPLbQe." target="_self">Privacy Policy</a><br>
- <img src="http://images.drjays.com/images/dot_clear.gif" width="5" height="1" alt="" border="0"><a href="/cgi/show_generic.cgi?file=cs_trademarks.html&amp;id=DJJMtcQPLbQe." target="_self">Trademarks</a><br>
- <img src="http://images.drjays.com/images/dot_clear.gif" width="5" height="1" alt="" border="0"><a href="/cgi/show_generic.cgi?file=cs_livechat.html&amp;id=DJJMtcQPLbQe." target="_self">Live Chat Support</a><br>
- <img src="http://images.drjays.com/images/dot_clear.gif" width="5" height="1" alt="" border="0"><a href="/cgi/cs_contactus.cgi?id=DJJMtcQPLbQe." target="_self">Contact Us</a><br>
+ <img src="http://images.drjays.com/images/dot_clear.gif" width="5" height="1" alt="" border="0"><a href="/cgi/cs_tracking.cgi?id=" target="_self">Order Tracking</a><br>
+ <img src="http://images.drjays.com/images/dot_clear.gif" width="5" height="1" alt="" border="0"><a href="/cgi/show_generic.cgi?file=cs_returnsexchanges.html&amp;id=">Returns</a><br>
+ <img src="http://images.drjays.com/images/dot_clear.gif" width="5" height="1" alt="" border="0"><a href="/cgi/show_generic.cgi?file=cs_secureshopper.html&amp;id=" target="_self">Secure Shopping</a><br>
+ <img src="http://images.drjays.com/images/dot_clear.gif" width="5" height="1" alt="" border="0"><a href="/cgi/show_generic.cgi?id=&amp;file=cs_wholesale.html" target="_self">Wholesale</a><br>
+ <img src="http://images.drjays.com/images/dot_clear.gif" width="5" height="1" alt="" border="0"><a href="/cgi/show_generic.cgi?file=cs_pricing.html&amp;id=" target="_self">Pricing</a><br>
+ <img src="http://images.drjays.com/images/dot_clear.gif" width="5" height="1" alt="" border="0"><a href="/cgi/show_generic.cgi?file=cs_privacypolicy.html&amp;id=" target="_self">Privacy Policy</a><br>
+ <img src="http://images.drjays.com/images/dot_clear.gif" width="5" height="1" alt="" border="0"><a href="/cgi/show_generic.cgi?file=cs_trademarks.html&amp;id=" target="_self">Trademarks</a><br>
+ <img src="http://images.drjays.com/images/dot_clear.gif" width="5" height="1" alt="" border="0"><a href="/cgi/show_generic.cgi?file=cs_livechat.html&amp;id=" target="_self">Live Chat Support</a><br>
+ <img src="http://images.drjays.com/images/dot_clear.gif" width="5" height="1" alt="" border="0"><a href="/cgi/cs_contactus.cgi?id=" target="_self">Contact Us</a><br>
 </font>
 
 <!-- batchinclude end -->
@@ -1110,8 +1207,8 @@ window.onload= null==fcfn ? fcce:fcco;
 </script><script defer="" src="https://a248.e.akamai.net/f/248/67/3h/ssl-hints.netflame.cc/service/script/www.drjays.com"></script>
 <!-- Fireclick Netflame -->
 <map name="index_functions">
-  <area shape="rect" coords="31,4,115,23" href="/cgi/shop_cart.cgi?id=DJJMtcQPLbQe." alt="View the contents of your DrJays.com shopping cart" title="View the contents of your Drjays.com shopping cart">
-  <area shape="rect" coords="121,4,206,23" href="/cgi/cs_tracking.cgi?id=DJJMtcQPLbQe." alt="Track your DrJays.com order" title="Track your DrJays.com order">
+  <area shape="rect" coords="31,4,115,23" href="/cgi/shop_cart.cgi?id=" alt="View the contents of your DrJays.com shopping cart" title="View the contents of your Drjays.com shopping cart">
+  <area shape="rect" coords="121,4,206,23" href="/cgi/cs_tracking.cgi?id=" alt="Track your DrJays.com order" title="Track your DrJays.com order">
 </map>
 
 
