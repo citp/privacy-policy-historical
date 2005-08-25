@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patsfans.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403114220id_/http%3A//www.patsfans.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patsfans.com privacy policy that was archived on 2005-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050825210546id_/http%3A//www.patsfans.com/privacy) for the most accurate reproduction.*
 
 # PatsFans.com - Privacy Policy
 
@@ -73,4 +73,4 @@ Although we take appropriate measures to safeguard against unauthorized disclosu
 
 **HOW TO CONTACT US**
 
-If you have any questions or concerns about the PatsFans.com online policy for this site or its implementation you may contact us at **[Privacy@PatsFans.com ****](mailto:privacy@patsfans.com?subject=Privacy-Policy) **.****
+If you have any questions or concerns about the PatsFans.com online policy for this site or its implementation you may contact us by [**CONTACTING US**](https://web.archive.org/contact/) and voicing your concerns. 
