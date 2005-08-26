@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westfield.com.au privacy policy that was archived on 2005-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050605083103id_/http%3A//www.westfield.com/uscentres/site/yourprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westfield.com.au privacy policy that was archived on 2005-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050827012212id_/http%3A//www.westfield.com/aucentres/site/yourprivacy.html) for the most accurate reproduction.*
 
 # westfield.com
 
@@ -6,8 +6,7 @@ Westfield recognises the trust you are placing in us through your dealings with 
 
 ## What information we collect and why
 
-When you become a registered user of westfield.com, in particular when you subscribe to Westfield's Email Newsletters service, we ask for:  
-
+When you become a registered user of westfield.com, in particular when you subscribe to Westfield's Email Newsletters service, we ask for:
 
   * your name and
   * your email address.
@@ -34,6 +33,8 @@ The information collected about you which is held or used in connection with thi
   * Westfield Limited or other members of the Westfield Holdings Limited Group of Companies; 
   * the owners of the shopping centres featured on the Westfield.com site.
 
+
+
 We refer to each of these people in this policy as "us", "we" or "Westfield". 
 
 ## How your information is stored
@@ -56,9 +57,14 @@ We understand how important it is to keep your personal information private, so 
   * we use it for the purposes we collected it; or
   * disclosure is required or authorised by law.
 
+
+
 We may also disclose information about you to: 
+
   * related companies for marketing purposes
   * government agencies as part of our statutory obligations
+
+
 
 We may also contact you via e-mail on behalf of our partners who may wish to share special offers with you. However we will not reveal your personal information to such partners. 
 
@@ -70,6 +76,8 @@ We may also collect the following information during your visit:
   * the date and time you accessed each page on our web site
   * the URL of any webpage from which you accessed our site (the referrer)
   * the web browser that you are using and the pages you accessed.
+
+
 
 We use this information so that we can tell which pages are the most popular and where shoppers spend most of their time. We use this information to improve our site. 
 
@@ -113,4 +121,4 @@ We will try to satisfy any privacy questions that you have and correct any error
 
 This privacy policy relates to our current privacy standards. We may vary our privacy policy from time to time. We will notify you of any changes by publishing the latest policy from time to time on our site. 
 
-View Westfield's [general Privacy Policy](https://web.archive.org/web/20050605083103id_/http%3A//www.westfield.com/uscentres/site/privacygeneral.html). 
+View Westfield's [general Privacy Policy](https://web.archive.org/web/20050827012212id_/http%3A//www.westfield.com/aucentres/site/privacygeneral.html). 
