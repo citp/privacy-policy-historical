@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bmwusa.com privacy policy that was archived on 2005-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050203210155id_/http%3A//www.bmwusa.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmwusa.com privacy policy that was archived on 2005-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050827212646id_/http%3A//www.bmwusa.com/about/privacy.html) for the most accurate reproduction.*
 
-# privacy - Sub Nav 1 - BMW North America
+# Privacy Policy - Sub Nav 1 - BMW North America
 
 **Our Promise to You**   
 We appreciate the trust you place in BMW and would not want to jeopardize your trust in any way. We respect your privacy and are committed to protecting the security of your personal information. Rest assured that we will not rent or sell your personal information to anyone. 
