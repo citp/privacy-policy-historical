@@ -1,15 +1,10 @@
-> *The following text is extracted and transformed from the stylusinc.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405192300id_/http%3A//stylusinc.com/Common/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylusinc.com privacy policy that was archived on 2005-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050827205235id_/http%3A//www.stylusinc.com/Common/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # Stylusinc.com - Privacy Policy
 
 [](https://web.archive.org/WebEnable/index.php)  
 [](https://web.archive.org/VirtualBusiness/index.php)  
-[](https://web.archive.org/enhance/index.php)  
-
-
-* * *
-
-  
+[](https://web.archive.org/enhance/index.php)   
 |  | 
 
 ## Our commitment to privacy
