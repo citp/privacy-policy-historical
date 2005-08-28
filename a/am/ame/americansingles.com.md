@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americansingles.com privacy policy that was archived on 2005-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050628073714id_/http%3A//americansingles.com/default.asp%3Fp%3D13010%26CategoryID%3D120) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americansingles.com privacy policy that was archived on 2005-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050828232440id_/http%3A//www.americansingles.com/default.asp%3Fp%3D13010%26CategoryID%3D120) for the most accurate reproduction.*
 
 # americansingles.com - Free personals, dating, chat, millions of members
 
