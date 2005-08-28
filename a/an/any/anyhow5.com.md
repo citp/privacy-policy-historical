@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the anyhow5.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406231540id_/http%3A//www.anyhow5.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anyhow5.com privacy policy that was archived on 2005-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050828211325id_/http%3A//www.anyhow5.com/privacy_policy.htm) for the most accurate reproduction.*
 
-# Privacy policy - anyhow5 will not sell, transfer, assign or rent our customer or user information to any third party .
+# Arts and Crafts - Privacy policy: anyhow5.com
 
-We take your right to privacy very seriously. 
-
-Anyhow5 will not sell, transfer, assign or rent our customer or user information to any third party .
+  
+We take your right to privacy very seriously.  
+Anyhow5.com will not sell, transfer, assign or rent our customer or user information to any third party.
 
 Personal information
 
