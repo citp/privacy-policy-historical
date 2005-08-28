@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the military-quotes.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403143128id_/http%3A//www.military-quotes.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the military-quotes.com privacy policy that was archived on 2005-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050828043201id_/http%3A//www.military-quotes.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy
 
