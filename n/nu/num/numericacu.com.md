@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the numericacu.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403151537id_/http%3A//www.numericacu.com/htm/about_legal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the numericacu.com privacy policy that was archived on 2005-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050828203707id_/http%3A//www.numericacu.com/htm/about_legal.html) for the most accurate reproduction.*
 
 # Numerica Credit Union
 
 Our Privacy Pledge  
-At Numerica Credit Union, we respect the privacy of our members. We recognize the importance of maintaining the confidentiality of your personal financial information. This notice describes the privacy policy and practices followed by Numerica Credit Union. This notice explains what types of member information we collect and under what circumstances we may share it. 
+At Numerica Credit Union, we respect the privacy of our members. We recognize the importance of maintaining the confidentiality of your personal financial information. This notice describes the privacy policy and practices followed by Numerica Credit Union and explains what types of member information we collect and under what circumstances we may share it.
 
 Member Information We Collect  
 The Credit Union collects only relevant information about members that is needed to establish and maintain your account and services as the law allows or requires us to collect. We may collect personal and financial information about you (member information) which is "nonpublic." The member information we collect varies depending on the accounts and services you request and use. We collect information about you from the following sources: 
@@ -11,7 +11,7 @@ The Credit Union collects only relevant information about members that is needed
   * **Application Information.** We retain personal information we receive from you on any application you provide for membership, deposit account, EFT services, loans, insurance, or other Credit Union services. This information includes: name, address, social security number, birth date, phone number, employment and financial status, and credit history. 
   * **Your Transactions.** Any time you make a transaction on one of your accounts, including ATM or card transactions, loan advances, transactions through Home Banking, over the phone or at a branch we retain the transaction information, including: your account number, the date, amount, location of the transaction, and other pertinent information.
   * **Credit Reports.** When we evaluate your application for an account or service, we may request a credit report about you from a consumer-reporting agency. We retain the personal and credit history information about you and we may use it to evaluate future account service requests.
-  * **Online.** We obtain information online when you visit our website, www.numericacu.com. This includes retaining information you provide us on any online application, Home Banking transaction or information you send to us by e-mail. 
+  * **Online.** We obtain information online when you visit our website, www.numericacu.com. This includes retaining information you provide us on any online application, Home Banking transaction or e-mail you send to us. 
 
 Back to top
 
@@ -24,6 +24,13 @@ In order for us to conduct our operations, including servicing your account or p
   * Personal information (name, address, and account number)
   * Account information (type of accounts, account balances, and transaction history) 
   * Transaction information (dates, amounts, locations, and type of transaction) 
+
+
+
+We do not sell member information nor share your account numbers with independent third party marketers offering their products and services. While we may assist in offering financial products and services of our contracted financial service providers, we control member information used to make such offers.
+
+**Sharing Information as Legally Required or Permitted.**  
+We may share any member information of yours in response to a lawful request issued by a court, government agency, or regulatory authority, or as permitted by law in order to administer or enforce your account. We may also share our experience information about you with certain bureaus. Our reporting to credit bureaus is governed by the Fair Credit Reporting Act, which affords you the right to make sure that your credit bureau reports are accurate.
 
 Back to top
 
@@ -41,6 +48,9 @@ Protecting Children's Information Privacy
 Our online financial services are not designed for or directed toward children. We do not knowingly solicit or collect data from children and we do not knowingly market to children online. We recognize that protecting children's identities and online privacy is important and that responsibility rests with us and with parents. 
 
 Privacy Policy Inquiries  
-If you have any questions about our privacy practices, contact us by calling (509) 535-7613 or 1-800-433-1837, by sending us an email at [NCUMemberService@numericacu.com](mailto:NCUMemberService@numericacu.com "Email Numerica"), or writing to us at Numerica Credit Union, P.O. Box 6011, Spokane, WA 99217.
+If you have any questions about our privacy practices, contact us by calling (509) 535-7613 or 1-800-433-1837, by logging on to our website, [www.numericacu.com](http://www.numericacu.com/index.html) and sending us an email or writing to us at: 
 
-Back to top
+Numerica Credit Union  
+P.O. Box 6011  
+Spokane, WA 99217.  
+
