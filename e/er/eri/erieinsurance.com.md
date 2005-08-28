@@ -1,12 +1,20 @@
-> *The following text is extracted and transformed from the erieinsurance.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406022752id_/http%3A//www.erieinsurance.com/AboutUs/PrivacyNotice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erieinsurance.com privacy policy that was archived on 2005-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050828221836id_/http%3A//www.erieinsurance.com/AboutUs/PrivacyNotice.htm) for the most accurate reproduction.*
 
 # Erie Insurance Group Privacy Notice
 
 |   | 
 
+**ERIE INSURANCE GROUP** | ERIE INSURANCE EXCHANGE | ERIE FAMILY LIFE INSURANCE COMPANY  
+---|---  
+ERIE INDEMNITY COMPANY | ERIE INSURANCE COMPANY OF NEW YORK  
+ERIE INSURANCE COMPANY | ERIE INSURANCE PROPERTY AND CASUALTY COMPANY  
+FLAGSHIP CITY INSURANCE COMPANY | E I SERVICE CORP.  
+  
+**PRIVACY NOTICE**
+
 The privacy and security of your personal information is important to us. This notice will inform you about our policies and procedures concerning the personal information about you that we collect, maintain and disclose in connection with the insurance policies you obtain from us. In order to offer the highest quality insurance products at the lowest possible rates, we collect, maintain, and, in some instances, disclose "nonpublic personal information" about you. Nonpublic personal information may include your name, address, social security number, wage information, driving record, policy coverages, medical information or credit history. It may also include transaction information such as your premium payment or claims history with us. We appreciate the importance of your personal privacy and are committed to protecting it as we provide for your insurance needs. 
 
-|    
+  
 **Collection of Information**  
 ---  
 |  We obtain nonpublic personal information about you from the following sources: 
