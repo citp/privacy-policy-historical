@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parship.co.uk privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407181255id_/http%3A//www.parship.co.uk/main/docs/public/tuc/privacy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parship.co.uk privacy policy that was archived on 2005-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050829133012id_/http%3A//www.parship.co.uk/main/docs/public/tuc/privacy.xhtml) for the most accurate reproduction.*
 
 # PARSHIP.co.uk - Find the love of your life
 
@@ -14,7 +14,7 @@ We confirm that all personal data handled and stored by us is done so in strict 
 
 **What information do we process?** PARSHIP.co.uk collects information and data on different occasions throughout the registration process. Some personal information is collected when you initially register with PARSHIP, and some as you make use of PARSHIP services. Please remember that any information that is disclosed to PARSHIP, except the guarantees of privacy that are stated below, can become public information. You should therefore exercise caution when disclosing personal information. 
 
-Your registration information allows PARSHIP to send you news about third-party offers, promotional messages, and services that PARSHIP deems to be of interest. You will only receive these if you express your interest by clicking the checkbox on the registration form. You can remove yourself from this list at any moment by signalling in the 'Edit my account' section of the website. 
+Your registration information allows PARSHIP to send you news about third-party offers, promotional messages, and services that PARSHIP deems to be of interest. You can remove yourself from our mailing list at any time, in the 'Edit my account/Change the way I send/receive messages' section of the website. 
 
 We use your IP internet address to help diagnose problems with our server and to administer our website, and to help identify you for our own administrative purposes. 
 
@@ -25,5 +25,5 @@ Our website uses cookies to keep track of your chosen set-up of the web site. We
 **Editing your information:** Users can access and edit any information they have previously entered by selecting the 'My PARSHIP Profile' in the Matchbox section of the website. You can also deselect Email notification of further contact matches. 
 
 **Contacting PARSHIP:** If you have any questions about this privacy statement, about navigating the website, or about the services that PARSHIP offers, please do not hesitate to contact:  
-[Tim Howles  
+[Tony Blin-Stoyle  
 Parship Data Controller (UK)](https://web.archive.org/main/programs/public/contact/index.EN.pl). 
