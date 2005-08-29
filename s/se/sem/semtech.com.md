@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the semtech.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403223847id_/http%3A//www.semtech.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the semtech.com privacy policy that was archived on 2005-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050829174023id_/http%3A//www.semtech.com/privacy) for the most accurate reproduction.*
 
 # Semtech - Website Privacy Policy
 
@@ -58,7 +58,7 @@ Semtech shall not in any way be liable to you for any special, consequential, in
 
 ##### CHANGES TO THIS PRIVACY POLICY
 
-The effective date of this policy is June 29, 2004.  We reserve the right to change or update this privacy policy at any time.  Any such changes or updates will be effective immediately upon posting to our website, and your use of the website following such posting constitutes your acceptance of the privacy policy as so changed or updated.  For more information on using this site, see [Semtech's Terms of Use](https://web.archive.org/web/20050403223847id_/http://www.semtech.com/privacy/webterms.asp).
+The effective date of this policy is June 29, 2004.  We reserve the right to change or update this privacy policy at any time.  Any such changes or updates will be effective immediately upon posting to our website, and your use of the website following such posting constitutes your acceptance of the privacy policy as so changed or updated.  For more information on using this site, see [Semtech's Terms of Use](https://web.archive.org/web/20050829174023id_/http://www.semtech.com/privacy/webterms.asp).
 
 ##### CONTACT US
 
