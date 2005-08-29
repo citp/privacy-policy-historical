@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theonion.com privacy policy that was archived on 2005-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050628212152id_/http%3A//www.theonion.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theonion.com privacy policy that was archived on 2005-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050829220928id_/http%3A//www.theonion.com/info/privacy.php) for the most accurate reproduction.*
 
 # The Onion | Privacy Policy
 
