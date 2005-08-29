@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the friendster.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208213253id_/http%3A//www.friendster.com/info/privacy.php%3Fstatpos%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendster.com privacy policy that was archived on 2005-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050829145541id_/http%3A//www.friendster.com/info/privacy.php%3Fstatpos%3Dfooter) for the most accurate reproduction.*
 
 # Friendster Privacy Policy
 
@@ -48,7 +48,7 @@ This site may contain links to other websites. Please be aware that Friendster i
 
 #### Use of Cookies
 
-A cookie is a piece of data stored on the user's computer tied to information about the user. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. Cookies are used to manage sessions on our site. Users must enable cookies to use our site. Also, users may optionally use a cookie to remember their password in order to automatically log in to our site. We do not and will not use cookies to collect private information from any user which they did not intentionally submit to us. 
+A cookie is a piece of data stored on the user's computer tied to information about the user. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. Cookies are used to manage sessions on our site. Users must enable cookies to use our site. Also, users may optionally use a cookie to remember their password in order to automatically log in to our site. We do not and will not use cookies to collect private information from any user which they did not intentionally submit to us. 
 
 #### Correcting/Updating or Removing Information
 
