@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the growingtreetoys.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405191623id_/http%3A//www.growingtreetoys.com/security.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growingtreetoys.com privacy policy that was archived on 2005-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050830004537id_/http%3A//www.growingtreetoys.com/security.php) for the most accurate reproduction.*
 
 # Growing Tree Toys - privacy and security
 
