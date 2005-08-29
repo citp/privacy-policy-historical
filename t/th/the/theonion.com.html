@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the theonion.com privacy policy that was archived on 2005-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050628212152id_/http%3A//www.theonion.com/info/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theonion.com privacy policy that was archived on 2005-08-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050829220928id_/http%3A//www.theonion.com/info/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
     <title>The Onion | Privacy Policy</title>
@@ -48,7 +48,7 @@
 		if (OAS_version >= 11)
 		  document.write('<SCRIPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');
 		//-->
-		</script><script language="JavaScript1.1" src="http://oascentral.theonion.com/RealMedia/ads/adstream_mjx.ads/theonion/archives/editFeatures/1400380598@Top,Right3?"></script>
+		</script><script language="JavaScript1.1" src="http://oascentral.theonion.com/RealMedia/ads/adstream_mjx.ads/theonion/archives/editFeatures/1524399415@Top,Right3?"></script>
 		<script language="JavaScript">
 		<!--
 		document.write('');
@@ -106,10 +106,58 @@
 
     // -->
     </script>
-		
+	
+<!-- begin mini add code -->
+<style type="text/css">
+#miniCompactingLayer {
+ position:absolute;
+ left:5px;
+ top:10px;
+ z-index:2;
+    }
+#onionContentLayer {
+ z-index:1;
+}
+</style>
+<script type="text/javascript">
+function minimizeSiteWindow( winWidth, winHeight ) {
+  self.resizeTo (winWidth, winHeight)
+}
+
+function restoreParentWindow( winWidth, winHeight  ) {
+  self.resizeTo ( winWidth, winHeight )
+}
+
+swapped = false;
+
+function swapEm()
+{
+  var miniCompactingLayer = document.getElementById("miniCompactingLayer");
+  var onionContentLayer = document.getElementById("onionContentLayer");
+  if(swapped){
+    miniCompactingLayer.style.zIndex = "2";
+    onionContentLayer.style.zIndex = "1";
+    swapped = false;
+  } else {
+    miniCompactingLayer.style.zIndex = "1";
+    onionContentLayer.style.zIndex = "2";
+    swapped = true;
+  }
+}
+</script>
+<!-- end mini ad code -->
+
+	
 </head>
 
 <body bgcolor="#FFFFFF" marginwidth="0" marginheight="0" leftmargin="0" topmargin="0" style="margin: 0px 10px 0px 0px;">
+
+<!-- begin mini html
+
+ -->
+
+
+
 
 
 <a name="top"></a>
@@ -128,6 +176,8 @@
   </tr>
 </tbody></table>
 
+
+<div id="onionContentLayer">
 
 <img src="http://graphics.theonion.com/onion_global/blank.gif" width="1" height="5" border="0">
 
@@ -181,10 +231,10 @@
     <select class="issueMenuNav" name="vol" onchange="if(this.options[this.selectedIndex].value){location = this.options[this.selectedIndex].value}">
     <option value="">Recent Issues</option>
     <option value="">-----------------</option>
-    <option value="/index.php?issue=4126">29 June 2005</option>
-    <option value="/index.php?issue=4125">22 June 2005</option>
-    <option value="/index.php?issue=4124">15 June 2005</option>
-    <option value="/index.php?issue=4123">8 June 2005</option>
+    <option value="/index.php?issue=4134">24 August 2005</option>
+    <option value="/index.php?issue=4133">17 August 2005</option>
+    <option value="/index.php?issue=4132">10 August 2005</option>
+    <option value="/index.php?issue=4131">3 August 2005</option>
     </select>
     <select class="issueMenuNav" name="vol" onchange="if(this.options[this.selectedIndex].value){location = this.options[this.selectedIndex].value}">
     <option value="">Jump To</option>
@@ -391,6 +441,9 @@ OAS_AD('x01');
 </script>
 <!------ OAS AD 'x01' end ------>
 
+
+
+</div> <!-- onionContentLayer -->
 
 
 
