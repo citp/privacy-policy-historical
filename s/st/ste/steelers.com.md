@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steelers.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403111935id_/http%3A//www.steelers.com/article/43230) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steelers.com privacy policy that was archived on 2005-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050829054903id_/http%3A//www.steelers.com/article/43230) for the most accurate reproduction.*
 
 # Official site of the Pittsburgh Steelers - Article
 
