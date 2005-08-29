@@ -1,33 +1,6 @@
-> *The following text is extracted and transformed from the triumphrat.net privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204181722id_/http%3A//www.triumphrat.net/modules.php%3Fop%3Dmodload%26name%3DPrivacy_Statement%26file%3Dindex) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triumphrat.net privacy policy that was archived on 2005-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050829214845id_/http%3A//www.triumphrat.net/modules.php%3Fop%3Dmodload%26name%3DPrivacy_Statement%26file%3Dindex) for the most accurate reproduction.*
 
 # TriumphRat.Net :: Triumph Motorcycles, RAT Discussions, Triumph Web Links, Motorcycle News, Events, Triumph FAQ
-
-| 
-
-|  **Login**  
----  
-Don't have a profile yet? You can [create one](https://web.archive.org/web/20041204181722id_/http%3A//www.triumphrat.net/user.php) for free. Registered Users can contribute through the discussion groups, posting comments to articles, sharing photos, and other available features.  
-  
-  
-
-
-  
-
-
-  
-
-
-  
-
-
-  
-
-
-  
-
-
-  
-| 
 
 Privacy Statement for TriumphRat.Net
 
@@ -69,7 +42,7 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 
 Security
 
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. 
+This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. However, TriumphRat.Net will not be responsible for the information input or posted on TriumphRat.Net by any visitor or member.
 
 Children's Guidelines
 
@@ -93,102 +66,3 @@ Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
 [ webmaster@TriumphRat.Net](mailto:webmaster@triumphrat.net)
-
-| | 
-
-|  **Event Calendar**  
----  
-| [December 2004](https://web.archive.org/web/20041204181722id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/1/2004&type=month)  
----  
-  | [1](https://web.archive.org/web/20041204181722id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/1/2004&type=day)  
-| [2](https://web.archive.org/web/20041204181722id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/2/2004&type=day)  
-| [3](https://web.archive.org/web/20041204181722id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/3/2004&type=day)  
-| **[4](https://web.archive.org/web/20041204181722id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/4/2004&type=day)**  
-  
-[5](https://web.archive.org/web/20041204181722id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/5/2004&type=day)  
-| [6](https://web.archive.org/web/20041204181722id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/6/2004&type=day)  
-| [7](https://web.archive.org/web/20041204181722id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/7/2004&type=day)  
-| [8](https://web.archive.org/web/20041204181722id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/8/2004&type=day)  
-| [9](https://web.archive.org/web/20041204181722id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/9/2004&type=day)  
-| [10](https://web.archive.org/web/20041204181722id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/10/2004&type=day)  
-| [11](https://web.archive.org/web/20041204181722id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/11/2004&type=day)  
-  
-[12](https://web.archive.org/web/20041204181722id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/12/2004&type=day)  
-| [13](https://web.archive.org/web/20041204181722id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/13/2004&type=day)  
-| [14](https://web.archive.org/web/20041204181722id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/14/2004&type=day)  
-| [15](https://web.archive.org/web/20041204181722id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/15/2004&type=day)  
-| [16](https://web.archive.org/web/20041204181722id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/16/2004&type=day)  
-| [17](https://web.archive.org/web/20041204181722id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/17/2004&type=day)  
-| [18](https://web.archive.org/web/20041204181722id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/18/2004&type=day)  
-  
-[19](https://web.archive.org/web/20041204181722id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/19/2004&type=day)  
-| [20](https://web.archive.org/web/20041204181722id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/20/2004&type=day)  
-| [21](https://web.archive.org/web/20041204181722id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/21/2004&type=day)  
-| [22](https://web.archive.org/web/20041204181722id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/22/2004&type=day)  
-| [23](https://web.archive.org/web/20041204181722id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/23/2004&type=day)  
-| [24](https://web.archive.org/web/20041204181722id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/24/2004&type=day)  
-| [25](https://web.archive.org/web/20041204181722id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/25/2004&type=day)  
-  
-[26](https://web.archive.org/web/20041204181722id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/26/2004&type=day)  
-| [27](https://web.archive.org/web/20041204181722id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/27/2004&type=day)  
-| [28](https://web.archive.org/web/20041204181722id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/28/2004&type=day)  
-| [29](https://web.archive.org/web/20041204181722id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/29/2004&type=day)  
-| [30](https://web.archive.org/web/20041204181722id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/30/2004&type=day)  
-| [31](https://web.archive.org/web/20041204181722id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/31/2004&type=day)  
-|   
-[Submit event](https://web.archive.org/web/20041204181722id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=submit)| [Search](https://web.archive.org/web/20041204181722id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=searchevents)  
----|---  
-  
-  
-
-
-  
-
-
-**Past Articles**  
----  
-| **·**|  [**November 15, 2004**  
-Photo Albums - Tops over 7000 Photos](https://web.archive.org/article.php?sid=328&mode=nested&order=0&thold=0)  
----|---  
-**·**|  [**November 15, 2004**  
-People/Places Forum has a new Moderator](https://web.archive.org/article.php?sid=327&mode=nested&order=0&thold=0)  
-**·**|  [**November 14, 2004**  
-Dirt Track Deja vu](https://web.archive.org/article.php?sid=326&mode=nested&order=0&thold=0)  
-**·**|  [**November 10, 2004**  
-Triumph is British Brand of the Year](https://web.archive.org/article.php?sid=325&mode=nested&order=0&thold=0)  
-**·**|  [**November 09, 2004**  
-Triumph Japan recalls a few Bonnies](https://web.archive.org/article.php?sid=324&mode=nested&order=0&thold=0)  
-**·**|  [**November 07, 2004**  
-Nebraska makes news regarding Flat License Plates](https://web.archive.org/article.php?sid=323&mode=nested&order=0&thold=0)  
-**·**|  [**November 03, 2004**  
-Daytona 650 the Perfect Middleweight?](https://web.archive.org/article.php?sid=322&mode=nested&order=0&thold=0)  
-**·**|  [**November 01, 2004**  
-New R.A.T. Forum Online](https://web.archive.org/article.php?sid=321&mode=nested&order=0&thold=0)  
-**·**|  [**October 27, 2004**  
-october RAT ride](https://web.archive.org/article.php?sid=320&mode=nested&order=0&thold=0)  
-**·**|  [**October 21, 2004**  
-Mike Morely doing MUCH better](https://web.archive.org/article.php?sid=319&mode=nested&order=0&thold=0)  
-**·**|  [**October 07, 2004**  
-Mike Morley critically injured during track day](https://web.archive.org/article.php?sid=318&mode=nested&order=0&thold=0)  
-**·**|  [**October 07, 2004**  
-Triumph roars back from adversity](https://web.archive.org/article.php?sid=317&mode=nested&order=0&thold=0)  
-**·**|  [**October 04, 2004**  
-Bikes, Blues, and BBQ Photos Online](https://web.archive.org/article.php?sid=316&mode=nested&order=0&thold=0)  
-**·**|  [**September 28, 2004**  
-MTS Heli bar recall notice](https://web.archive.org/article.php?sid=315&mode=nested&order=0&thold=0)  
-**·**|  [**September 25, 2004**  
-Last hurrah for the Daytona?](https://web.archive.org/article.php?sid=313&mode=nested&order=0&thold=0)  
-**·**|  [**September 23, 2004**  
-Triumph America Announces Record Sales](https://web.archive.org/article.php?sid=312&mode=nested&order=0&thold=0)  
-**·**|  [**September 20, 2004**  
-VIR is back on](https://web.archive.org/article.php?sid=311&mode=nested&order=0&thold=0)  
-**·**|  [**September 14, 2004**  
-VIR races postponed](https://web.archive.org/article.php?sid=310&mode=nested&order=0&thold=0)  
-**·**|  [**September 14, 2004**  
-Blue Ridge Parkway Closings](https://web.archive.org/article.php?sid=309&mode=nested&order=0&thold=0)  
-**·**|  [**September 13, 2004**  
-New Triumph Web Site Is Up](https://web.archive.org/article.php?sid=308&mode=nested&order=0&thold=0)  
-**·**| [ **Older Articles...**](https://web.archive.org/modules.php?op=modload&name=Archives&file=index)  
-  
-  
-
