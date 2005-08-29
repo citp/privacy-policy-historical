@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the locators-online.org privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405180627id_/http%3A//www.locators-online.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the locators-online.org privacy policy that was archived on 2005-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050829074616id_/http%3A//www.locators-online.org/privacy.htm) for the most accurate reproduction.*
 
 # Locators Online -
 
