@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taleo.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403161918id_/http%3A//www.taleo.com/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taleo.com privacy policy that was archived on 2005-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050830145233id_/http%3A//www.taleo.com/en/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -8,7 +8,7 @@
 
 Effective on: July 1, 2004 
 
-Taleo Corporation and its affiliated companies (“Taleo”) provides this Web Site Privacy Statement to explain how we collect, use, and disclose certain personal information online. Taleo also has a separate privacy statement that applies to certain personal data that Taleo receives in the United States from the European Union, called the [EU Safe Harbor Privacy Statement](https://web.archive.org/web/20050403161918id_/http%3A//www.taleo.com/en/privacy_EUSafe.html).
+Taleo Corporation and its affiliated companies (“Taleo”) provides this Web Site Privacy Statement to explain how we collect, use, and disclose certain personal information online. Taleo also has a separate privacy statement that applies to certain personal data that Taleo receives in the United States from the European Union, called the [EU Safe Harbor Privacy Statement](https://web.archive.org/web/20050830145233id_/http%3A//www.taleo.com/en/privacy_EUSafe.html).
 
 This Web Site Privacy Statement discloses the privacy practices for www.Taleo.com, and www.ilogos.com. Taleo Corporation is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because Taleo wants to demonstrate its commitment to your privacy, it discloses its website information practices (set forth below) and permits TRUSTe to review its website privacy practices. This Website Privacy Statement notifies you of:
 
