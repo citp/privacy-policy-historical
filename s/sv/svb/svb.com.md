@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the svb.com privacy policy that was archived on 2005-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050611075954id_/http%3A//www.svb.com/corp/legal.asp%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the svb.com privacy policy that was archived on 2005-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050830151328id_/http%3A//www.svb.com/corp/legal.asp%3Fprivacy) for the most accurate reproduction.*
 
 # Silicon Valley Bank :: Legal Notices
 
