@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flightline.co.uk privacy policy that was archived on 2005-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050609090931id_/http%3A//www.flightline.co.uk/help/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightline.co.uk privacy policy that was archived on 2005-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050831004422id_/http%3A//www.flightline.co.uk/help/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy of flightline.co.uk
 
