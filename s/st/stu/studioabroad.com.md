@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studioabroad.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404200351id_/http%3A//www.studioabroad.com/index.cfm%3FFuseAction%3DStudioAbroad.View%26Page_ID%3D14) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studioabroad.com privacy policy that was archived on 2005-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050830095641id_/http%3A//www.studioabroad.com/index.cfm%3FFuseAction%3DStudioAbroad.View%26Page_ID%3D14) for the most accurate reproduction.*
 
 # StudioAbroad Corporate Site - Privacy Policy
 
@@ -34,7 +34,7 @@ Terra Dotta's Client will provide certain personally identifiable information re
 
 **Public Site**
 
-Terra Dotta will not disclose any personally identifiable information provided by a visitor to the Public Site to a third party unless (i) the visitor has consented to such disclosure and (ii) to Terra Dotta knowledge, such third party demonstrates a commitment to the safe harbor principles issued by the United State Department of Commerce on March 15, 2000 with respect to the European Union Directive on Data Protection of Individuals with Regard to the Processing of Person Data and the Free Movement of such Data of 1998 _._
+Terra Dotta will not disclose any personally identifiable information provided by a visitor to the Public Site to a third party unless (i) the visitor has consented to such disclosure and (ii) to Terra Dotta knowledge, such third party demonstrates a commitment to the safe harbor principles issued by the United States Department of Commerce on March 15, 2000 with respect to the European Union Directive on Data Protection of Individuals with Regard to the Processing of Person Data and the Free Movement of such Data of 1998 _._
 
 **Private Site**
 
@@ -66,6 +66,8 @@ If you have any questions about this privacy statement, the practices of this si
 
 Terra Dotta Client Support 
 
-[**support@terradotta.com**](mailto:support@terradotta.com)   
+[**support@terradotta.com**](mailto:support@terradotta.com)
+
+  
   
 
