@@ -1,7 +1,17 @@
-<!--The following is the downloaded HTML source of the cfo.com privacy policy that was archived on 2005-04-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050403162545id_/http%3A//www.cfo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cfo.com privacy policy that was archived on 2005-08-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050830225332id_/http%3A//www.cfo.com/privacy) for the most accurate reproduction.-->
 
-<html><head><script language="JavaScript">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<link rel="STYLESHEET" type="text/css" href="/css/cfo.css" title="cfo">
+
+    <meta name="description" content="CFO.com: A comprehensive online resource center for senior finance executives. Daily stories include original reporting on new accounting standards, recent capital-raisings, risk management, and professonal career development as well as tools and directories.">
+    <meta name="keywords" content="CFO.com, CFO magazine, financial news, corporate finance, accounting, accounting best practices, 401(k), mergers and acquisitions, business finance, balance sheet, financial benchmarking, working capital, CFO, controller, accountant, cpe, cfo jobs, synthetic lease, mezzanine finance, golden parachute, earnings management, revenue recognition, treasury and risk management, generally accepted accounting principles, FASB, IASB, tax efficiency, supply-chain management, performance metrics, outsourcing, investor relations, inventory management, incentive management, forecasts, budgeting and planning, financial statement analysis, finance function, finance department, executive education, discounted cash flow, compensation survey, cfo compensation, cash management, capital expenditure, business intelligence, business ethics, audit standards, asset management, accounting standards, employee stock options, ERP, XBRL, financial sites, return on investment">
+  
+    <link href="/rss/cfo_today_in_finance.xml" rel="alternate" type="application/rss+xml" title="Today in Finance">
+    <link href="/rss/cfo_blog.xml" rel="alternate" type="application/rss+xml" title="CFO Blog">
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">    
+          
+  	<script language="JavaScript">
 function popUpContent(URL)
 {
 	day = new Date();
@@ -38,15 +48,7 @@ window.open(winURL,winName,winFeat);
 
 }
 </script>
-
-
-
   
-    <meta name="description" content="CFO.com: A comprehensive online resource center for senior finance executives. Daily stories include original reporting on new accounting standards, recent capital-raisings, risk management, and professonal career development as well as tools and directories.">
-    <meta name="keywords" content="CFO.com, CFO magazine, financial news, corporate finance, accounting, accounting best practices, 401(k), mergers and acquisitions, business finance, balance sheet, financial benchmarking, working capital, CFO, controller, accountant, cpe, cfo jobs, synthetic lease, mezzanine finance, golden parachute, earnings management, revenue recognition, treasury and risk management, generally accepted accounting principles, FASB, IASB, tax efficiency, supply-chain management, performance metrics, outsourcing, investor relations, inventory management, incentive management, forecasts, budgeting and planning, financial statement analysis, finance function, finance department, executive education, discounted cash flow, compensation survey, cfo compensation, cash management, capital expenditure, business intelligence, business ethics, audit standards, asset management, accounting standards, employee stock options, ERP, XBRL, financial sites, return on investment">
-  	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-	<link rel="STYLESHEET" type="text/css" href="/css/cfo.css" title="cfo">
-
 <script language="JavaScript">
 	var axel = Math.random() + "";
 	var ord = axel * 1000000000000000000;
@@ -60,12 +62,147 @@ window.open(winURL,winName,winFeat);
 	}
 </script>
 
+            
+  <title>CFO.com - Privacy Policy</title></head>
 
-<title>CFO.com - Privacy Policy</title></head>
-
-<body bgcolor="#FFFFFF" link="#003399" alink="#CC0000" vlink="#003366" leftmargin="0" marginwidth="0" marginheight="4" topmargin="4">  
+<body bgcolor="#FFFFFF" link="#003399" alink="#CC0000" vlink="#003366" leftmargin="0" marginwidth="0" marginheight="4" topmargin="4" onclick="doClick(event)" onunload="checkClick()">  
   
-  <table width="770" cellpadding="0" cellspacing="0" bgcolor="##FFFFFF" border="0">
+  
+  
+  <script language="JavaScript">
+    function getCookieVal (offset) {
+      var endstr = document.cookie.indexOf (";", offset);
+      if (endstr == -1)
+      endstr = document.cookie.length;
+      return unescape(document.cookie.substring(offset, endstr));
+    }
+      
+    function getCookie (name) {
+      var arg = name + "=";
+      var alen = arg.length;
+      var clen = document.cookie.length;
+      var i = 0;
+      while (i < clen) {
+      var j = i + alen;
+      if (document.cookie.substring(i, j) == arg)
+      return getCookieVal (j);
+      i = document.cookie.indexOf(" ", i) + 1;
+      if (i == 0) break;
+      }
+      return null;
+    }
+      
+    function SetCookie (name,value,expires,path,domain,secure) {            
+      document.cookie = name + "=" + escape (value) +             
+      ((expires) ? "; expires=" + expires.toGMTString() : "") +             
+      ((path) ? "; path=" + path : "") +             
+      ((domain) ? "; domain=" + domain : "") +             
+      ((secure) ? "; secure" : "");             
+    } 
+    
+    function getArgs() {
+        var args = new Object();
+        var query = location.search.substring(1);  // Get query string.
+        
+        var pairs = query.split("&");              // Break at comma.
+        for(var i = 0; i < pairs.length; i++) {
+    	var pos = pairs[i].indexOf('=');       // Look for "name=value".
+    	if (pos == -1) continue;               // If not found, skip.
+    	var argname = pairs[i].substring(0,pos);  // Extract the name.
+    	var value = pairs[i].substring(pos+1); // Extract the value.
+    	args[argname] = unescape(value);          // Store as a property.
+        }
+        return args;                               // Return the object.
+    }
+    
+    
+    
+      var popUpWidth= '-1';
+      var popUpHeight= '-1';
+      var vPopID = '-1'
+    
+    
+    
+    var URLParameters = window.location.search;
+    var args = getArgs();
+    
+    
+    var vpopCode = ''; 
+    
+     
+   
+    if (getCookie("popcode") != null)
+      {
+       var vpopCode = getCookie("popcode");
+      }
+        
+    if (vpopCode == '' && (URLParameters.indexOf("f=ahha_ad") != -1 ||  URLParameters.indexOf("f=ad_google") != -1 || URLParameters.indexOf("f=ad_kanoodle") != -1)) 
+      {                
+        SetCookie("popcode",args.f,null,"/",".cfo.com",null);
+        vpopCode = args.f;
+      }            
+     
+  
+    var olink = false;
+  	function doClick(e)
+  	{
+     
+  		siteName = 'cfo.com'; //the name of your site
+  		src = e.srcElement;
+  		eRef = src.href;
+  		eTag = e.srcElement.tagName;	   
+      
+      if ( (args.f & (args.f == "ahha_ad" || args.f == "ad_kanoodle" || args.f == "ad_google")) || ( args.popCode & (args.popCode == "ahha_ad" || args.popCode == "ad_kanoodle" || args.popCode == "ad_google"))  || getCookie("popcode") != null)
+      {       
+      
+    		if (src.href) {
+    			if ((eTag == 'A' && eRef.indexOf(siteName) != -1) || eTag=='SELECT'  || eTag == 'IMG')
+    			{
+    			olink = true;
+    			}
+    			else
+    			{
+    			olink = false;
+    			}	
+          
+    		}
+      
+  		}	
+    
+  	return false;
+  	}
+  	function checkClick()
+  	{
+      if ( (args.f & (args.f == "ahha_ad" || args.f == "ad_kanoodle" || args.f == "ad_google")) || ( args.popcode & (args.popcode == "ahha_ad" || args.popcode == "ad_kanoodle" || args.popcode == "ad_google"))  || getCookie("popcode") != null) 
+      {
+        //alert(olink);
+    	  if (olink == true) 
+        {
+          return true;
+        } 
+        else 
+        {  
+          
+          if (popUpWidth != "-1" && getCookie("fromepop") == null) 
+          {           
+            window.open('/popup/index.cfm/' + vPopID + '?pcode=' + vpopCode + '&referer=escape("http://www.cfo.com/privacy/index.cfm")','EXITPOP','directories=no,location=no,menubar=no,personalbar=no,resizable=no,scrollbars=no,status=no,toolbar=no,width=' + popUpWidth + ',height=' + popUpHeight);
+    	    }
+          else
+          {
+            return true;
+          }
+        }
+      }
+      else 
+      {
+        return true;              
+      }  
+    }             
+    
+  </script>            
+ 
+
+<table width="770" cellpadding="0" cellspacing="0" bgcolor="##FFFFFF" border="0">
   <tbody><tr bgcolor="#E1E2C7"> 
     <td valign="top" width="10"><img src="/images/x.gif" width="10" height="78" border="0" alt=""></td>
     <td valign="top" bgcolor="#E1E2C7" width="487">
@@ -80,12 +217,13 @@ window.open(winURL,winName,winFeat);
 </noscript>
 <script language="JavaScript">
 document.write('<nolayer>');
-document.write('<iframe src="http://ad.doubleclick.net/adi/cfo2.dart/home;pos=top;cat=home;kw=;sz=468x60;tile=1;ord=' + ord + '?" width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no">');
+document.write('<iframe id="ad1" name="ad1" src="http://ad.doubleclick.net/adi/cfo2.dart/home;pos=top;cat=home;kw=;sz=468x60;tile=1;ord=' + ord + '?" width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no">');
 document.write('<a href="http://ad.doubleclick.net/jump/cfo2.dart/home;pos=top;cat=home;kw=;sz=468x60;tile=1;ord=' + ord + '?" target="_top"><IMG SRC="http://ad.doubleclick.net/ad/cfo2.dart/home;pos=top;cat=home;kw=;sz=468x60;tile=1;ord=' + ord + '?" width="468" height="60" border="0"></a>');
 document.write('</iframe>');
 document.write('</nolayer>');
 document.write('<ilayer id="ph1" visibility="hide" width=468 height=60 left="0"></ilayer>');
-</script><nolayer><iframe src="http://ad.doubleclick.net/adi/cfo2.dart/home;pos=top;cat=home;kw=;sz=468x60;tile=1;ord=849898091573229300?" width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"><a href="http://ad.doubleclick.net/jump/cfo2.dart/home;pos=top;cat=home;kw=;sz=468x60;tile=1;ord=849898091573229300?" target="_top"><IMG SRC="http://ad.doubleclick.net/ad/cfo2.dart/home;pos=top;cat=home;kw=;sz=468x60;tile=1;ord=849898091573229300?" width="468" height="60" border="0"></a></iframe></nolayer><ilayer id="ph1" visibility="hide" width="468" height="60" left="0"></ilayer>
+</script><nolayer><iframe id="ad1" name="ad1" src="http://ad.doubleclick.net/adi/cfo2.dart/home;pos=top;cat=home;kw=;sz=468x60;tile=1;ord=859539129056473600?" width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"><a href="http://ad.doubleclick.net/jump/cfo2.dart/home;pos=top;cat=home;kw=;sz=468x60;tile=1;ord=859539129056473600?" target="_top"><IMG SRC="http://ad.doubleclick.net/ad/cfo2.dart/home;pos=top;cat=home;kw=;sz=468x60;tile=1;ord=859539129056473600?" width="468" height="60" border="0"></a></iframe></nolayer><ilayer id="ph1" visibility="hide" width="468" height="60" left="0"></ilayer>
+
       </td>
     </tr>
   </tbody></table>
@@ -96,32 +234,30 @@ document.write('<ilayer id="ph1" visibility="hide" width=468 height=60 left="0">
 </noscript>
 <script language="JavaScript">
 document.write('<nolayer>');
-document.write('<iframe src="http://ad.doubleclick.net/adi/cfo2.dart/home;pos=topr;cat=home;kw=;sz=234x60;tile=4;ord=' + ord + '?" width="234" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no">');
+document.write('<iframe id="ad2" name="ad2" src="http://ad.doubleclick.net/adi/cfo2.dart/home;pos=topr;cat=home;kw=;sz=234x60;tile=4;ord=' + ord + '?" width="234" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no">');
 document.write('<a href="http://ad.doubleclick.net/jump/cfo2.dart/home;pos=topr;cat=home;kw=;sz=234x60;tile=4;ord=' + ord + '?" target="_topr"><IMG SRC="http://ad.doubleclick.net/ad/cfo2.dart/home;pos=topr;cat=home;kw=;sz=234x60;tile=4;ord=' + ord + '?" width="234" height="60" border="0"></a>');
 document.write('</iframe>');
 document.write('</nolayer>');
 document.write('<ilayer id="ph4" visibility="hide" width=234 height=60 left="0"></ilayer>');
-</script><nolayer><iframe src="http://ad.doubleclick.net/adi/cfo2.dart/home;pos=topr;cat=home;kw=;sz=234x60;tile=4;ord=849898091573229300?" width="234" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"><a href="http://ad.doubleclick.net/jump/cfo2.dart/home;pos=topr;cat=home;kw=;sz=234x60;tile=4;ord=849898091573229300?" target="_topr"><IMG SRC="http://ad.doubleclick.net/ad/cfo2.dart/home;pos=topr;cat=home;kw=;sz=234x60;tile=4;ord=849898091573229300?" width="234" height="60" border="0"></a></iframe></nolayer><ilayer id="ph4" visibility="hide" width="234" height="60" left="0"></ilayer>
+</script><nolayer><iframe id="ad2" name="ad2" src="http://ad.doubleclick.net/adi/cfo2.dart/home;pos=topr;cat=home;kw=;sz=234x60;tile=4;ord=859539129056473600?" width="234" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"><a href="http://ad.doubleclick.net/jump/cfo2.dart/home;pos=topr;cat=home;kw=;sz=234x60;tile=4;ord=859539129056473600?" target="_topr"><IMG SRC="http://ad.doubleclick.net/ad/cfo2.dart/home;pos=topr;cat=home;kw=;sz=234x60;tile=4;ord=859539129056473600?" width="234" height="60" border="0"></a></iframe></nolayer><ilayer id="ph4" visibility="hide" width="234" height="60" left="0"></ilayer>
+
 </td></tr></tbody></table> <table width="770" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" border="0">
 	<tbody><tr> 
-		<td valign="top" rowspan="4" width="10"><img src="/images/x.gif" width="10" height="1" alt="" border="0"></td>
-		<td valign="top" width="214" rowspan="4"><a href="/"><img src="/images/global_cfo-lg.gif" width="214" height="62" border="0" alt="CFO.com"></a></td>
-		<td width="120" colspan="2"><img src="/images/x.gif" width="120" height="10" border="0" alt=""></td>
-		<td width="80"><img src="/images/x.gif" width="80" height="10" border="0" alt=""></td>
-		<td width="172"><img src="/images/x.gif" width="172" height="10" border="0" alt=""></td>
-		<td width="174"><img src="/images/x.gif" width="174" height="10" border="0" alt=""></td>
+		<td valign="top" rowspan="4" width="10"><img src="http://www.cfo.com/images/x.gif" width="10" height="1" alt="" border="0"></td>
+		<td valign="top" width="214" rowspan="4"><a href="/"><img src="http://www.cfo.com/images/global_cfo-lg.gif" width="214" height="62" border="0" alt="CFO.com"></a></td>
+		<td width="162"><img src="http://www.cfo.com/images/x.gif" width="162" height="10" border="0" alt=""></td>
+		<td width="194"><img src="http://www.cfo.com/images/x.gif" width="194" height="10" border="0" alt=""></td>
+		<td width="150" colspan="2"><img src="http://www.cfo.com/images/x.gif" width="150" height="10" border="0" alt=""></td>
+		<td width="40"><img src="http://www.cfo.com/images/x.gif" width="40" height="10" border="0" alt=""></td>
 	</tr>
 	<tr>	
-		<td width="200" colspan="3"><img src="/images/global_search-title.gif" width="94" height="9" border="0" alt="Search CFO.com"></td>
-		<td width="172"><img src="/images/global-browsethesite.gif" width="94" height="9" border="0" alt="Browse CFO.com"></td>
-		<td width="174"><img src="/images/global_memberservices.gif" width="98" height="9" border="0" alt="Member Services"></td>
+		<td width="162"><img src="http://www.cfo.com/images/global-browsethesite.gif" width="94" height="9" border="0" alt="Browse CFO.com"></td>
+		<td width="194"><img src="http://www.cfo.com/images/global_memberservices.gif" width="98" height="9" border="0" alt="Member Services"></td>
+		<td width="190" colspan="3"><img src="http://www.cfo.com/images/global_search-title.gif" width="94" height="9" border="0" alt="Search CFO.com"></td>
 	</tr>
 	<tr>
-		<form name="SearchForm" action="/search/search.cfm" method="get"></form>
-		<td width="120" colspan="2"><input type="text" class="searchinput" size="12" name="qr" value=""></td>
-		<td width="80"><img src="/images/x.gif" width="2" height="1" border="0" alt=""><a href="javascript:document.SearchForm.submit();"><img src="/images/global_go.gif" width="25" height="18" align="absmiddle" alt="go" border="0" hspace="1"></a></td>		
-		
-		<td width="172"> <font size="2"> 
+		<td width="162"> <font size="2"> 
+
 	<script language="JavaScript">
 		<!--
 		function LoadPage() {
@@ -147,7 +283,7 @@ document.write('<ilayer id="ph4" visibility="hide" width=234 height=60 left="0">
 	</form>
   </font>
 </td>
-<td width="174">
+<td width="194">
   <font size="2">
 
     <script language="JavaScript">
@@ -209,35 +345,39 @@ document.write('<ilayer id="ph4" visibility="hide" width=234 height=60 left="0">
     
     </select>
     </form>
-        </font>
+          </font>
     </td>
+		<form name="SearchForm" action="/search/search.cfm" method="get"></form>
+		<td width="150" colspan="2"><input type="text" size="25" name="qr" value=""></td>
+		<td width="40"><img src="http://www.cfo.com/images/x.gif" width="2" height="1" border="0" alt=""><a href="javascript:document.SearchForm.submit();"><img src="http://www.cfo.com/images/global_go.gif" width="25" height="18" align="absmiddle" alt="go" border="0" hspace="1"></a></td>		
+			
 </tr>
-  <tr>
-    <td width="60" valign="top"><a href="/archives?f=header" class="sublinks">Topics A-Z</a></td>
-    <td width="60" valign="top" align="right"><a href="/sitemap?f=header" class="sublinks">Sitemap</a></td><td width="80"><img src="/images/x.gif" width="80" height="20" border="0" alt=""></td>
-    <td width="172"><img src="/images/x.gif" width="172" height="20" border="0" alt=""></td>
-    <td width="174"><a href="/subscribe?f=home_header_subscribe" class="sublinks">Subscribe/Renew</a></td>
+<tr>
+    <td width="162"><a href="/magazine?f=home_header_subscribe" class="sublinks">CFO Magazine</a></td>
+    <td width="194"><a href="/subscribe?f=home_header_subscribe" class="sublinks">Subscribe/Renew</a></td>
+    <td width="90" valign="top"><a href="/archives?f=header" class="sublinks">Topics A-Z</a></td>
+    <td width="60" valign="top" align="right"><a href="/sitemap?f=header" class="sublinks">Sitemap</a></td>
+	<td width="40"> </td>
   </tr>
 </tbody></table>
 <table width="770" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" border="0">
   <tbody><tr>
-    <td colspan="6" bgcolor="#cccccc" valign="top"><img src="/images/x.gif" width="770" height="1" border="0" alt=""></td>
+    <td colspan="6" bgcolor="#cccccc" valign="top"><img src="http://www.cfo.com/images/x.gif" width="770" height="1" border="0" alt=""></td>
   </tr>
   <tr>
-    <td valign="middle" width="10"><img src="/images/x.gif" width="10" height="1" border="0" alt=""></td>
-    <td valign="middle" width="334"><img src="/images/global_tagline.gif" width="334" height="17" alt="News and Tools for Financial Executives" border="0"></td>
-    <td width="80"><img src="/images/x.gif" width="80" height="1" border="0" alt=""></td>
-    <td width="5" valign="center"> <img src="/images/global_vertline.gif" width="5" height="17" alt="" align="absmiddle"></td>
+    <td valign="middle" width="10"><img src="http://www.cfo.com/images/x.gif" width="10" height="1" border="0" alt=""></td>
+    <td valign="middle" width="334"><img src="http://www.cfo.com/images/global_tagline.gif" width="334" height="17" alt="News and Tools for Financial Executives" border="0"></td>
+    <td width="42"><img src="http://www.cfo.com/images/x.gif" width="42" height="1" border="0" alt=""></td>
+    <td width="5" valign="center"> <img src="http://www.cfo.com/images/global_vertline.gif" width="5" height="17" alt="" align="absmiddle"></td>
     <td width="17" valign="center">
     <a href="/members/index.cfm/login"><img src="/images/icon_login.gif" width="17" height="17" align="absmiddle" hspace="2" vspace="1" border="0" alt="login"></a></td>
-  	<td width="324" valign="center" class="login"><a href="/members/index.cfm/login">LOGIN/REGISTER</a>
-  </td>
+  	<td width="386" valign="center" class="login"><a href="/members/index.cfm/login">LOGIN/REGISTER</a>
+  
+</td></tr>
+<tr>
+    <td colspan="6" bgcolor="#cccccc" valign="top"><img src="http://www.cfo.com/images/x.gif" width="770" height="1" border="0" alt=""></td>
   </tr>
-  <tr>
-    <td colspan="6" bgcolor="#cccccc" valign="top"><img src="/images/x.gif" width="770" height="1" border="0" alt=""></td>
-  </tr>
-</tbody></table>
-
+</tbody></table> 
   <table width="770" border="0" cellspacing="0" cellpadding="0">
   
       
@@ -280,8 +420,8 @@ document.write('<ilayer id="ph4" visibility="hide" width=234 height=60 left="0">
       <td class="subtext" colspan="3">
         You are here: <a href="/?f=bc" class="sublinks">Home</a>
   
-      : <a href="/about/?f=bc" class="sublinks">About CFO.com</a>
-    
+        : <a href="/about/?f=bc" class="sublinks">About CFO.com</a>
+      
     : Privacy Policy
   
 </td></tr>
@@ -297,7 +437,6 @@ document.write('<ilayer id="ph4" visibility="hide" width=234 height=60 left="0">
     </tr>
     <tr>
       <td valign="top">
-    
     <table width="645" cellpadding="0" cellspacing="0" border="0">
 				<tbody><tr> 
 					<td bgcolor="#CCCC99" colspan="4"><img src="/images/x.gif" width="1" height="1" border="0" alt=""></td>
@@ -348,8 +487,7 @@ document.write('<ilayer id="ph4" visibility="hide" width=234 height=60 left="0">
 					
 					<br><br></td>
 				</tr>
-</tbody></table>
-    
+</tbody></table> 
       </td>
       <td width="120" valign="top">
   <table cellpadding="0" cellspacing="0" border="0">
@@ -363,12 +501,13 @@ document.write('<ilayer id="ph4" visibility="hide" width=234 height=60 left="0">
 </noscript>
 <script language="JavaScript">
 document.write('<nolayer>');
-document.write('<iframe src="http://ad.doubleclick.net/adi/cfo2.dart/home;pos=r1;cat=home;kw=;sz=120x600;tile=2;ord=' + ord + '?" width="120" height="600" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no">');
+document.write('<iframe id="ad3" name="ad3" src="http://ad.doubleclick.net/adi/cfo2.dart/home;pos=r1;cat=home;kw=;sz=120x600;tile=2;ord=' + ord + '?" width="120" height="600" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no">');
 document.write('<a href="http://ad.doubleclick.net/jump/cfo2.dart/home;pos=r1;cat=home;kw=;sz=120x600;tile=2;ord=' + ord + '?" target="_r1"><IMG SRC="http://ad.doubleclick.net/ad/cfo2.dart/home;pos=r1;cat=home;kw=;sz=120x600;tile=2;ord=' + ord + '?" width="120" height="600" border="0"></a>');
 document.write('</iframe>');
 document.write('</nolayer>');
 document.write('<ilayer id="ph2" visibility="hide" width=120 height=600 left="0"></ilayer>');
-</script><nolayer><iframe src="http://ad.doubleclick.net/adi/cfo2.dart/home;pos=r1;cat=home;kw=;sz=120x600;tile=2;ord=849898091573229300?" width="120" height="600" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"><a href="http://ad.doubleclick.net/jump/cfo2.dart/home;pos=r1;cat=home;kw=;sz=120x600;tile=2;ord=849898091573229300?" target="_r1"><IMG SRC="http://ad.doubleclick.net/ad/cfo2.dart/home;pos=r1;cat=home;kw=;sz=120x600;tile=2;ord=849898091573229300?" width="120" height="600" border="0"></a></iframe></nolayer><ilayer id="ph2" visibility="hide" width="120" height="600" left="0"></ilayer>
+</script><nolayer><iframe id="ad3" name="ad3" src="http://ad.doubleclick.net/adi/cfo2.dart/home;pos=r1;cat=home;kw=;sz=120x600;tile=2;ord=859539129056473600?" width="120" height="600" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"><a href="http://ad.doubleclick.net/jump/cfo2.dart/home;pos=r1;cat=home;kw=;sz=120x600;tile=2;ord=859539129056473600?" target="_r1"><IMG SRC="http://ad.doubleclick.net/ad/cfo2.dart/home;pos=r1;cat=home;kw=;sz=120x600;tile=2;ord=859539129056473600?" width="120" height="600" border="0"></a></iframe></nolayer><ilayer id="ph2" visibility="hide" width="120" height="600" left="0"></ilayer>
+
     </td>
   </tr>
 </tbody></table>
@@ -384,12 +523,13 @@ document.write('<ilayer id="ph2" visibility="hide" width=120 height=600 left="0"
 </noscript>
 <script language="JavaScript">
 document.write('<nolayer>');
-document.write('<iframe src="http://ad.doubleclick.net/adi/cfo2.dart/home;pos=r2;cat=home;kw=;sz=120x240;tile=3;ord=' + ord + '?" width="120" height="240" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no">');
+document.write('<iframe id="ad4" name="ad4" src="http://ad.doubleclick.net/adi/cfo2.dart/home;pos=r2;cat=home;kw=;sz=120x240;tile=3;ord=' + ord + '?" width="120" height="240" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no">');
 document.write('<a href="http://ad.doubleclick.net/jump/cfo2.dart/home;pos=r2;cat=home;kw=;sz=120x240;tile=3;ord=' + ord + '?" target="_r2"><IMG SRC="http://ad.doubleclick.net/ad/cfo2.dart/home;pos=r2;cat=home;kw=;sz=120x240;tile=3;ord=' + ord + '?" width="120" height="240" border="0"></a>');
 document.write('</iframe>');
 document.write('</nolayer>');
 document.write('<ilayer id="ph3" visibility="hide" width=120 height=240 left="0"></ilayer>');
-</script><nolayer><iframe src="http://ad.doubleclick.net/adi/cfo2.dart/home;pos=r2;cat=home;kw=;sz=120x240;tile=3;ord=849898091573229300?" width="120" height="240" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"><a href="http://ad.doubleclick.net/jump/cfo2.dart/home;pos=r2;cat=home;kw=;sz=120x240;tile=3;ord=849898091573229300?" target="_r2"><IMG SRC="http://ad.doubleclick.net/ad/cfo2.dart/home;pos=r2;cat=home;kw=;sz=120x240;tile=3;ord=849898091573229300?" width="120" height="240" border="0"></a></iframe></nolayer><ilayer id="ph3" visibility="hide" width="120" height="240" left="0"></ilayer>
+</script><nolayer><iframe id="ad4" name="ad4" src="http://ad.doubleclick.net/adi/cfo2.dart/home;pos=r2;cat=home;kw=;sz=120x240;tile=3;ord=859539129056473600?" width="120" height="240" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"><a href="http://ad.doubleclick.net/jump/cfo2.dart/home;pos=r2;cat=home;kw=;sz=120x240;tile=3;ord=859539129056473600?" target="_r2"><IMG SRC="http://ad.doubleclick.net/ad/cfo2.dart/home;pos=r2;cat=home;kw=;sz=120x240;tile=3;ord=859539129056473600?" width="120" height="240" border="0"></a></iframe></nolayer><ilayer id="ph3" visibility="hide" width="120" height="240" left="0"></ilayer>
+
     </td>
   </tr>
 </tbody></table>
@@ -439,15 +579,20 @@ document.write('<ilayer id="ph3" visibility="hide" width=120 height=240 left="0"
 		<table cellpadding="0" cellspacing="0" border="0" class="Ftext" width="547">
 			<tbody><tr>
 				<td valign="top" class="Ftext"><img src="/images/x.gif" width="1" height="8" border="0" alt=""><img src="/images/x.gif" width="1" height="8" border="0" alt="">
-            <a href="/about" class="Flink">About us</a>
+            <a href="/aboutusmain" class="Flink">About Us</a>  
             <img src="/images/x.gif" width="10" height="8" border="0" alt="">
-            <a href="/adinfo" class="Flink">Advertise</a>
+            <a href="/cfoadvertise" class="Flink">Advertise</a>  
             <img src="/images/x.gif" width="10" height="8" border="0" alt="">
             <a href="/privacy" class="Flink">Privacy</a>
             <img src="/images/x.gif" width="10" height="8" border="0" alt="">        
             <a href="/subscribe" class="Flink">Subscribe</a>
             <img src="/images/x.gif" width="10" height="8" border="0" alt="">  
-            <a href="/feedback" class="Flink">Contact Us</a><img src="/images/x.gif" width="10" height="8" border="0" alt=""><br>
+            <a href="/feedback" class="Flink">Contact Us</a>
+            
+            <img src="/images/x.gif" width="10" height="8" border="0" alt="">
+            <a href="/rss" class="Flink">RSS Feeds</a>
+            
+            <img src="/images/x.gif" width="10" height="8" border="0" alt=""><br>
             <br>© CFO Publishing Corporation 2005. All rights reserved.</td>
 				<td valign="top"><img src="/images/x.gif" width="20" height="40" border="0" alt=""></td>
 				<td valign="top"> </td>		
