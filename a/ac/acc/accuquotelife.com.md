@@ -1,28 +1,53 @@
-> *The following text is extracted and transformed from the accuquotelife.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209045724id_/http%3A//www.accuquotelife.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accuquotelife.com privacy policy that was archived on 2005-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050830092700id_/http%3A//www.accuquotelife.com/privacy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy
+# AccuQuote - Free Term Life Insurance Quotes
 
-At AccuQuote, we take your privacy seriously. We believe you have the right to know the privacy policies of the sites you visit. 
+|  |  |  |  |   
+---  
+  
+  
+At AccuQuote, we take your privacy seriously. We believe you have the right to know the privacy policies of the sites you visit.  
+|  |  WHY DOES ACCUQUOTE'S QUOTE REQUEST FORM REQUIRE SO MUCH PERSONAL INFORMATION? |   
+---|---|---  
+AccuQuote's database contains information on hundreds of life insurance products offered by more than 200 life insurance companies. Each company uses different criteria to rate prospective customers. The information you provide on the quote request form, combined with each insurance company's guidelines, allows us to accurately determine which products and rate classes you'll likely be able to qualify for. The consequence of declining to provide some of the requested information is that the quotes you receive may be inaccurate, and/or that we may not be able to provide a quote for you at all.  
+  
+|  |  WHEN DO YOU SEND MY INFORMATION TO AN INSURANCE COMPANY? |   
+---|---|---  
+AccuQuote will only send your personal information to insurance companies when you choose to apply for coverage or ask us to seek a preliminary opinion from an insurance carrier regarding your potential insurability or lack thereof.  
+  
+|  |  DOES ACCUQUOTE STORE MY PERSONAL INFORMATION? |   
+---|---|---  
+Yes. All information submitted through AccuQuote's quote request forms is stored in our database in Wheeling, Illinois and/or printed and stored in files. AccuQuote does not use this information except to process your request to provide quotes, or to forward it to an insurance company, if and when you actually apply for coverage. This information is securely stored at our company for a reasonable period of time in order to make it easier and more convenient for you to apply should you not decide to do so immediately.  
+  
+|  |  DOES ACCUQUOTE USE "COOKIES" |   
+---|---|---  
+Yes, some of AccuQuote's pages do use "cookies" - one or more small text files saved on your computer's hard drive and stored in memory while your browser is running. AccuQuote stores this number as a cookie in order to track usage patterns. Cookies are totally harmless and do not hurt your computer in any way, nor do they compromise your identity or provide us any other information other than what you, as the potential customer, willingly supply to us. We may also use third-party advertising companies to serve ads on our behalf. These companies may also use cookies and action tags to measure and improve the effectiveness of ads. To do so, these companies may use anonymous information about your visits to other websites. This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, the IP address. This information can also be used for online preference marketing purposes.  
+  
+|  |  HOW DOES ACCUQUOTE USE MY INFORMATION? |   
+---|---|---  
+AccuQuote uses your personal information to prepare an insurance quote for you. In the future we may share aggregated statistical information about the use of the AccuQuote web site with third parties. In this case, individual users' personal information will not be identified. In the future AccuQuote or an AccuQuote affiliate may provide you with information about affiliate offers by mail, phone, fax, or email that may interest you. When you fill out our quote request form you are explicitly initiating a relationship with us (as defined by the National Do Not Call Registry), inviting and consenting to the receipt of information by AccuQuote and its affiliate partners (which may be provided to you online, by fax, phone, email, US Mail, etc.) and, as such, are indefinitely waiving any right to claim that we, or our affiliates, contacted you without your express consent. At any time we will immediately honor any request to be placed on our internal "do not contact" list.  
+  
+|  |  AFTER I REQUEST QUOTES AT ACCUQUOTE, WHO WILL CONTACT ME? |   
+---|---|---  
+You may be contacted by one of our people to clarify some of the information you provide to us on your quote request form. This may be done through one or more of many communication channels (telephone, fax, email, US Mail, etc.) Once we have adequate information to provide you with a reasonably accurate quote, we will prepare it for you and you will receive it by fax, mail, phone, or email. By submitting your information, you also agree to receive other money saving or financially beneficial offers from AccuQuote in the future.  
+  
+|  |  WILL YOU CONTACT ME IF I'M ON THE NATIONAL DO NOT CALL REGISTRY? |   
+---|---|---  
+We do not wish to make contact with individuals or companies that are not interested in receiving information or entertaining the possibility of obtaining insurance through our firm. When you fill out our quote request form you are explicitly initiating a relationship with us (as defined by the National Do Not Call Registry), inviting and consenting to the receipt of information (which may be provided to you online, by fax, phone, email, US Mail, etc.) and, as such, are waiving any right extending in perpetuity to claim that we contacted you without your express consent. At any time we will immediately honor any request to be placed on our internal "do not contact" list.  
+  
+|  |  WHAT IS YOUR POLICY ON SPAMMING? |   
+---|---|---  
+Spam or UCE, Unsolicited Commercial E-mail, is the Internet version of "Junk mail." It is an attempt to deliver a message to someone who would not otherwise choose to receive it. Potential target lists for spamming are created by scanning Usenet postings, stealing Internet mailing lists, or searching the Web for addresses. Such information is gathered with automated searches to retrieve e-mail addresses for spamming. 
 
-How does AccuQuote use my information?  
-AccuQuote uses your personal information to prepare an insurance quote for you. Unless you expressly give us permission to do so, or unless required by law, AccuQuote does not willfully use or disclose individual information to third parties, other than as necessary to facilitate the process of obtaining insurance for you. However, in the future we may share aggregated statistical information about the use of the AccuQuote web site with third parties. Even in this case, individual users' personal information will not be identified. 
-
-When do you send my information to an insurance company?  
-AccuQuote will send your personal information to insurance companies only if and when you choose to apply for coverage, or when you ask us to seek a preliminary opinion from an insurance carrier regarding your potential insurability or lack thereof. 
-
-Why does AccuQuote's quote request form require so much personal information?  
-AccuQuote's database contains information on over 1,100 life insurance products offered by hundreds of life insurance companies. Each company uses different criteria to rate prospective customers. The information you provide on the quote request form, combined with each insurance company's guidelines allows us to accurately determine which products and rate classes you'll likely be able to qualify for. The consequence of declining to provide some of the requested information is that the quotes you receive may be inaccurate, and/or that we may not be able to provide a quote for you at all. 
-
-After I request quotes at AccuQuote, who will contact me?  
-You may be contacted by one of our people to clarify some of the information you provide to us on your quote request form. Once we have adequate information to provide you with a reasonably accurate quote, we will prepare it for you and you will receive it by fax, mail, phone, or email. 
-
-Does AccuQuote sell my information to other companies?  
-No. AccuQuote does not resell, trade, lease or rent the personal information of our customers to other companies. 
-
-Does AccuQuote store my personal information?  
-Yes. All information submitted through AccuQuote's quote request forms is stored in our computers in Northbrook, Illinois and/or printed and stored in files. AccuQuote does not use this information except to process your request to provide quotes, or to forward it to an insurance company if and when you actually apply for coverage. This information is securely stored at our company for a reasonable period of time in order to make it easier and more convenient for you to come back. 
-
-Does AccuQuote use "cookies"?  
-Yes, some of AccuQuote's pages do use "cookies" - one or more small text files saved on your computer's hard drive and stored in memory while your browser is running. AccuQuote stores this number as a cookie on the user's computer in order to track usage patterns. Cookies are totally harmless and can't hurt your computer in any way. 
-
+AccuQuote does not spam. If you received a mailing from us, (a) your email address is either listed with us as someone who expressly shared this address for the purpose of receiving information in the future ("opt-in"), or (b) you have registered or purchased or otherwise have an existing relationship with us. By requesting information from us or receiving an online quote, which may require future contact, you have agreed to opt-in to receiving our information. We respect your time and attention by controlling the frequency of our mailings.  
+  
+  
+|  |  HOW CAN I STOP RECEIVING EMAIL FROM YOU? |   
+---|---|---  
+Each email sent contains an easy, automated way for you to cease receiving email from us, or to change your expressed interests. If you wish to do this, simply follow the instructions at the end of any email. If you have received unwanted, unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to [pr@accuquote.com](mailto:%20pr@accuquote.com) for review.  
+  
+|  |  HOW TO CONTACT US |   
+---|---|---  
+Should you have other questions or concerns about this privacy policy, please contact us by email at [pr@accuquote.com](mailto:%20pr@accuquote.com).  
+  
 _AccuQuote reserves the right to modify this policy at any time._
