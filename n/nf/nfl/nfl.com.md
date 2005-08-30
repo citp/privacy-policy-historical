@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nfl.com privacy policy that was archived on 2005-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050622080113id_/http%3A//www.nfl.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfl.com privacy policy that was archived on 2005-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050830144652id_/http%3A//www.nfl.com/help/privacy) for the most accurate reproduction.*
 
 # NFL.com - Privacy Policy
 
