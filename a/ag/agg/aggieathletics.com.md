@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aggieathletics.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404013825id_/http%3A//www.aggieathletics.com/index_full.php%3FpageID%3D970) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aggieathletics.com privacy policy that was archived on 2005-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050830134521id_/http%3A//www.aggieathletics.com/index_full.php%3FpageID%3D970) for the most accurate reproduction.*
 
 # AggieAthletics.com :: Privacy Statement
 
