@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slexchange.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403190615id_/http%3A//slexchange.com/pps.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slexchange.com privacy policy that was archived on 2005-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050830115356id_/http%3A//www.slexchange.com/pps.php) for the most accurate reproduction.*
 
 # SL Exchange
 
@@ -40,7 +40,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-* You can send e-mail to admin@slexchange.com 
+* You can send e-mail to support@slexchange.com 
 
 **Correct/Update**
 
@@ -48,4 +48,4 @@ This site gives users the following options for changing and modifying informati
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact admin@slexchange.com.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact support@slexchange.com.
