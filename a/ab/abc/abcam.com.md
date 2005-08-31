@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abcam.com privacy policy that was archived on 2005-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050529062957id_/http%3A//www.abcam.com/index.html%3Fpageconfig%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcam.com privacy policy that was archived on 2005-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050901014054id_/http%3A//abcam.com/index.html%3Fpageconfig%3Dprivacy) for the most accurate reproduction.*
 
 # Abcam - Antibodies & Reagents, find any antibody
 
@@ -48,6 +48,8 @@ We do this in order to understand what users are interested in on our website an
 ### What about cookies?
 
 Cookies are harmless pieces of text data that are stored by your browser on your computer's hard disk. The Abcam website uses cookies in order to remember that you have visited us before, but it is not essential to have cookies enabled. The cookies we set up do not contain any information that can identify you, and are harmless in every way.
+
+In order to stop your browser from accepting new cookies, how to receive notifications when you receive a new cookie and how to disable cookies, instructions can usually be found under the 'help' menu on your web browser. 
 
 ### Disclosure of personal information to third parties
 
