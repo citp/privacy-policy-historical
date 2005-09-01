@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the 2-spyware.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403175945id_/http%3A//www.2-spyware.com/article-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2-spyware.com privacy policy that was archived on 2005-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050901054443id_/http%3A//www.2-spyware.com/article-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
+  
 Author: 2-spyware.com
 
 Our privacy policy discloses our conditions for your personal information and privacy.
@@ -14,22 +15,12 @@ Note that we can disclose your aggregate information to third parties, but only 
 
 The security and confidentiality of your information is extremely important to us. We ensure implemented technical, administrative, and physical security measures to protect your information from unauthorized access and improper use. But note that despite our best efforts, no security measures are perfect or impenetrable. 
 
+\--  
 Article submitted on 13/02/05
 
-Reproduction without author consent is prohibited.
+## Aditional resources related to "Privacy Policy":
 
-  
+Attention: If you know or you have a website or page about "Privacy Policy", feel free to add a link to this list: [add url](http://www.2-spyware.com/directory-item-add.php)   
+Post Comment:  
+Attention: Use this form only if you have additional information about this topic, its removal instructions, additional resources or behavior. By clicking "post comment" button you agree not to post any copyrighted, unlawful, harmful, threatening, abusive, harassing, defamatory, vulgar, obscene, profane, hateful, racially, ethnically or otherwise objectionable material of any kind.  
 
-
-  
-
-
-* * *
-
-[](https://web.archive.org/web/20050403175945id_/http%3A//www.2-spyware.com/book-security-book.html) The definitive security reference for Microsoft operating systems, servers, clients, networks, and I...
-
-[](https://web.archive.org/web/20050403175945id_/http%3A//www.2-spyware.com/book-scene-of-the-cybercrime.html) Book Description   
-This book is a bridge between two distinct cultures; that of IT professional...
-
-[](https://web.archive.org/web/20050403175945id_/http%3A//www.2-spyware.com/book-absolute-security-and-privacy.html) Book Info:  
-Shows you how to detect security holes, reduce your chances of attack, recognize w...
