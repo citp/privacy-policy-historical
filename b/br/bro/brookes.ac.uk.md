@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brookes.ac.uk privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405215810id_/http%3A//www.brookes.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brookes.ac.uk privacy policy that was archived on 2005-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050901062332id_/http%3A//www.brookes.ac.uk/privacy) for the most accurate reproduction.*
 
-# Oxford Brookes University: Privacy Statement
+# Privacy Statement | Oxford Brookes University
 
 Oxford Brookes University does not capture and store any personal information about individuals who access this website, except where you voluntarily choose to give us your personal details via e-mail or by enquiring about or applying for any of our courses. In these latter cases, the personal information you give us is used exclusively by Oxford Brookes University for providing you current and future information about educational resources as described in this website. We will not pass any of the personal data that you have supplied us with to any outside organisations and/or individuals, except with your express consent. 
 
