@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the worldsingles.com privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615083641id_/http%3A//worldsingles.com/worldsingles/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldsingles.com privacy policy that was archived on 2005-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050901173510id_/http%3A//worldsingles.com/worldsingles/privacy.html) for the most accurate reproduction.*
 
 # World Singles Privacy Statement
 
 **Privacy Statement**
 
-This Site(s) is owned and operated by World Singles Networks (“World Singles”). World Singles may be reached at (301) 294-0131, or by clicking [here](https://web.archive.org/web/20050615083641id_/http%3A//worldsingles.com/worldsingles/contacts.html) . The following policies apply to this Site(s) and all other Affiliate/Partner websites.
+This Site(s) is owned and operated by World Singles Networks (“World Singles”). World Singles may be reached at (301) 294-0131, or by clicking [here](https://web.archive.org/web/20050901173510id_/http%3A//worldsingles.com/worldsingles/contacts.html) . The following policies apply to this Site(s) and all other Affiliate/Partner websites.
 
 **ABOUT WORLD SINGLES**
 
@@ -45,4 +45,4 @@ World Singles reserves the right to change or update at any time its Privacy Pol
 
 **CONTACTING THE SITE(S)**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact World Singles by clicking [here](https://web.archive.org/web/20050615083641id_/http%3A//worldsingles.com/worldsingles/contact_us.htm) \- Thank you for your continued support!
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact World Singles by clicking [here](https://web.archive.org/web/20050901173510id_/http%3A//worldsingles.com/worldsingles/contact_us.htm) \- Thank you for your continued support!
