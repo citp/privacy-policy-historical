@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radioshack.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208221918id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp%3Fhp%3Dprivacy%26site%3Dradioshack) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radioshack.com privacy policy that was archived on 2005-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050901193927id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp%3Fhp%3Dprivacy%26site%3Dradioshack) for the most accurate reproduction.*
 
 # RadioShack Privacy Policy - RadioShack.com
 
@@ -8,19 +8,19 @@
 
 * * *
 
-| [back to top...](https://web.archive.org/web/20041208221918id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#top)  
+| [back to top...](https://web.archive.org/web/20050901193927id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#top)  
 Your privacy is very important to us. RadioShack respects and protects the privacy of its visitors. In this document, we explain how we use the information you supply us. If we update our privacy policy, all revisions will be posted on this page. We reserve the right to change the privacy policy at any time.  
   Information Collection and Use
 
 * * *
 
-| [back to top...](https://web.archive.org/web/20041208221918id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#top)  
+| [back to top...](https://web.archive.org/web/20050901193927id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#top)  
 Two types of information may be collected when you visit our web sites, information that you knowingly provide us (called personally identifiable information), and information that is obtained from your visit but is not directly associated with you (called non-personally identifiable information).  
   Personally Identifiable Information
 
 * * *
 
-| [back to top...](https://web.archive.org/web/20041208221918id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#top)  
+| [back to top...](https://web.archive.org/web/20050901193927id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#top)  
 Personally identifiable information may include information that you provide to us by requesting information, when registering for special offers or programs or when you purchase products online. This may include your name, address (including billing and shipping addresses), telephone number, e-mail address, organization, city, state and zip code, and whether you are purchasing for personal or business use. We may use this information, to process and ship orders, to contact you about the status of your order, to contact you with answers to your questions, or to provide information about new and exciting products, services, promotions and corporate-related information. We may use mailings, telephone calls and e-mail to contact you. 
 
  For those customers who purchase products from us online, additional personally identifiable information such as credit card information will be collected. This information is collected in order to process your order. 
@@ -33,8 +33,10 @@ Personally identifiable information may include information that you provide to 
 
 * * *
 
-| [back to top...](https://web.archive.org/web/20041208221918id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#top)  
-If you have registered for special e-mail offerings, you may unsubscribe from the program, by visiting <http://www.i-radioshack.com/mk/get/unsub_webmaster> or click on the links available at the bottom of any of these special offer e-mails. You may also request the removal of your information by e-mailing [webmaster@radioshack.com](mailto:webmaster@radioshack.com). 
+| [back to top...](https://web.archive.org/web/20050901193927id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#top)  
+If you have registered for special e-mail offerings, you may unsubscribe from the program, by visiting <http://cs.silverpop.com/carat/radioshack/optout/optout.sp> or click on the links available at the bottom of any of these special offer e-mails. You may also request the removal of your information by e-mailing [webmaster@radioshack.com](mailto:webmaster@radioshack.com). 
+
+ If you wish to receive more personalized information from RadioShack or change anything about your profile such as your interests or e-mail format, please click on the links available at the bottom of any of these special offer e-mails or visit <http://www.i-radioshack.com/prefs/prefs.sp>. 
 
  If you have registered for our latest Press Releases or Media Alerts, you may unsubscribe by visiting <http://www.radioshackcorporation.com/un_email.html>. 
 
@@ -44,7 +46,7 @@ If you have registered for special e-mail offerings, you may unsubscribe from th
 
 * * *
 
-| [back to top...](https://web.archive.org/web/20041208221918id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#top)  
+| [back to top...](https://web.archive.org/web/20050901193927id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#top)  
 Non-personally identifiable information is collected without any direct association with you specifically. In the normal course of using a RadioShack web site, we may collect information about your habits and usage of our sites. 
 
  Our web sites may contain technologies known as action tags, web beacons or 1x1 pixel gifs. These employ a common internet technique used to compile aggregated statistics about the effectiveness of our advertising campaigns, common navigation paths within the sites, types of browsers and platforms that access the sites and the average connection speeds used to connect to the sites. This information is used to enhance the online experience of our customers. These technologies do not use or collect personally identifiable information, such as names or address, and do not link online actions to an identifiable person. 
@@ -56,7 +58,7 @@ RadioShack collects IP addresses for the purposes of system administration, to r
 
 * * *
 
-| [back to top...](https://web.archive.org/web/20041208221918id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#top)  
+| [back to top...](https://web.archive.org/web/20050901193927id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#top)  
 Agents, employees and contractors of RadioShack who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy and the high standards of the corporation. 
 
   * Information about you specifically will not be used for any purpose other than to carry out the services you requested from RadioShack and its affiliates. All of our affiliates have agreed to maintain the security and confidentiality of the information we provide to them.
@@ -78,7 +80,7 @@ Agents, employees and contractors of RadioShack who have access to personally id
 
 * * *
 
-| [back to top...](https://web.archive.org/web/20041208221918id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#top)  
+| [back to top...](https://web.archive.org/web/20050901193927id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#top)  
 Cookies and applets are small text files that are placed on your computer’s hard drive by our servers to identify your computer. Cookies and applets are only read by the domain that placed them there and are unable to execute any code or virus. We may use cookies or applets to recognize you when you visit our sites, to personalize your experience and generally to serve you better. We do not use cookies or applets to track your activities once you leave our web site. 
 
  You may delete these files from your computer at any time. You can set your web browser to notify you if such information is about to be placed on your computer, and you can choose the option in your web browser to refuse it. If you refuse the information, you may not be able to make full use of the features on our web site.  
@@ -87,7 +89,7 @@ Cookies and applets are small text files that are placed on your computer’s ha
 
 * * *
 
-| [back to top...](https://web.archive.org/web/20041208221918id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#top)  
+| [back to top...](https://web.archive.org/web/20050901193927id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#top)  
 RadioShack web sites do not seek to collect identification information about kids under 13 years of age. If we discover such information, we will delete it. Thus, we typically retain no identifiable information about kids. However, if a parent believes his/her child has provided us information, simply call and request that we delete it. In order for us to find the information in our databases, you will need to provide us with the following information which will only be used to search our databases and deliver confirmation to you: 
 
   * Parent’s Name
@@ -109,25 +111,25 @@ In order to request deletion of identifiable information that RadioShack may hav
 
 * * *
 
-| [back to top...](https://web.archive.org/web/20041208221918id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#top)  
+| [back to top...](https://web.archive.org/web/20050901193927id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#top)  
 Our web site contains links to and from other web sites that are not operated or controlled by RadioShack. WE ARE NOT RESPONSIBLE FOR THE PRIVACY PRACTICES OF, AND USE OF CHILDREN’S PERSONAL INFORMATION BY, WEB SITES THAT WE DO NOT OPERATE, and our privacy policy does not apply to these sites.  
   "Email a Friend" or "Tell a Friend"
 
 * * *
 
-| [back to top...](https://web.archive.org/web/20041208221918id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#top)  
+| [back to top...](https://web.archive.org/web/20050901193927id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#top)  
 If a user elects to use our "Email a Friend" or "Tell a Friend" service for informing a friend about our site, we may ask them for their email address, their name, the email address and the name of their friend. RadioShack will automatically send the friend a one-time email inviting them to visit the site. RadioShack does not store this information. It is only used for the sole purpose of sending this one time email.  
   We Will Not Condition Access Or Participation In An Activity
 
 * * *
 
-| [back to top...](https://web.archive.org/web/20041208221918id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#top)  
+| [back to top...](https://web.archive.org/web/20050901193927id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#top)  
 RadioShack will not condition a user's access or participation in an activity on giving out more personal information than what is considered reasonably necessary for the activity.  
   Posting To A RadioShack Bulletin Board
 
 * * *
 
-| [back to top...](https://web.archive.org/web/20041208221918id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#top)  
+| [back to top...](https://web.archive.org/web/20050901193927id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#top)  
 For those RadioShack sites that offer bulletin boards, the following practice will be followed:
 
   Prior to a posting appearing on the board, the posting will be reviewed by a moderator for content. If approved, the posting will be shown to other users. If disapproved, the user will receive an email from the moderator indicating its rejection.  
@@ -136,25 +138,25 @@ For those RadioShack sites that offer bulletin boards, the following practice wi
 
 * * *
 
-| [back to top...](https://web.archive.org/web/20041208221918id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#top)  
+| [back to top...](https://web.archive.org/web/20050901193927id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#top)  
 From time-to-time RadioShack websites provide links to software such as drivers and screensavers. The TRUSTe program covers only information that may be collected through it's website, and does not cover information that may be collected through software downloaded from the site.  
   Co-Branded Offers
 
 * * *
 
-| [back to top...](https://web.archive.org/web/20041208221918id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#top)  
+| [back to top...](https://web.archive.org/web/20050901193927id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#top)  
 From time-to-time RadioShack websites provide some co-branded offers through its sites, for example to apply for a RadioShack Credit Card or to manage your AnswersPlus Account. In these cases the user is directed to another party's website. The use of data collected through that website is governed by it's own privacy policies.  
   Sweepstakes and Contests
 
 * * *
 
-| [back to top...](https://web.archive.org/web/20041208221918id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#top)  
-From time-to-time, we may request information from you through contests or sweepstakes. Participation in these contests or sweepstakes is completely voluntary and the user has a choice whether or not to participate. Information requested may include contact information (such as name, address and phone number). Contact information gathered from contests and sweepstakes will be used to notify the winners and award prizes. We use a third party to pick the contests and sweepstakes winners (please see the [Information Sharing And Disclosure](https://web.archive.org/web/20041208221918id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#InformationSharing) section for details on third parties). Demographic information such as the users birthdate may be requested, this is used to validate the age of the contestant when the rules of the contest specify a minimum age requirement. Users who enter the contest may also choose to receive marketing communications from RadioShack. The user may elect to "opt-out" of this communication at the bottom of each email or by visiting the [Requesting Removal Of Your Information](https://web.archive.org/web/20041208221918id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#RemovalInformation) section of this policy.  
+| [back to top...](https://web.archive.org/web/20050901193927id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#top)  
+From time-to-time, we may request information from you through contests or sweepstakes. Participation in these contests or sweepstakes is completely voluntary and the user has a choice whether or not to participate. Information requested may include contact information (such as name, address and phone number). Contact information gathered from contests and sweepstakes will be used to notify the winners and award prizes. We use a third party to pick the contests and sweepstakes winners (please see the [Information Sharing And Disclosure](https://web.archive.org/web/20050901193927id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#InformationSharing) section for details on third parties). Demographic information such as the users birthdate may be requested, this is used to validate the age of the contestant when the rules of the contest specify a minimum age requirement. Users who enter the contest may also choose to receive marketing communications from RadioShack. The user may elect to "opt-out" of this communication at the bottom of each email or by visiting the [Requesting Removal Of Your Information](https://web.archive.org/web/20050901193927id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#RemovalInformation) section of this policy.  
   How Changes To The Privacy Policy Will Be Communicated
 
 * * *
 
-| [back to top...](https://web.archive.org/web/20041208221918id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#top)  
+| [back to top...](https://web.archive.org/web/20050901193927id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#top)  
 If we decide to change our Privacy Policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
  If however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our web site for 30 days.  
@@ -163,16 +165,16 @@ If we decide to change our Privacy Policy, we will post those changes to this pr
 
 * * *
 
-| [back to top...](https://web.archive.org/web/20041208221918id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#top)  
+| [back to top...](https://web.archive.org/web/20050901193927id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#top)  
 RadioShack is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site [http://www.radioshack.com](http://www.radioshack.com/). Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose it's information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
- If users have questions or concerns regarding this statement, they should first contact RadioShack Online Privacy by email ([RadioShack.Online.Privacy@radioshack.com](mailto:RadioShack.Online.Privacy@radioshack.com)). If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/watchdog.html) (http://www.truste.org/watchdog.html). TRUSTe will serve as a liaison with the Web site to resolve users concerns.  
+ If users have questions or concerns regarding this statement, they should first contact RadioShack Online Privacy by email ([RadioShack.Online.Privacy@radioshack.com](mailto:RadioShack.Online.Privacy@radioshack.com)). If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/consumers/watchdog_complaint.php) (http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will serve as a liaison with the Web site to resolve users concerns.  
   
   Recent Changes To This Privacy Policy
 
 * * *
 
-| [back to top...](https://web.archive.org/web/20041208221918id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#top)  
+| [back to top...](https://web.archive.org/web/20050901193927id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#top)  
 The following list contains changes to this Privacy Policy that have occurred within the last 60 days:  
 |   | **There have been no changes to this policy within the last 60 days.**  
 ---|---  
@@ -180,7 +182,7 @@ The following list contains changes to this Privacy Policy that have occurred wi
 
 * * *
 
-| [back to top...](https://web.archive.org/web/20041208221918id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#top)  
+| [back to top...](https://web.archive.org/web/20050901193927id_/http%3A//radioshack.com/images/site/legal/rsprivacy.asp?Site=radioshack#top)  
 **Products or Services**  
 If you have questions, suggestions or concerns regarding our **products or services** please contact us at:
 
@@ -197,4 +199,4 @@ If you have questions, suggestions or concerns regarding our **online privacy po
 **Email:**  [RadioShack.Online.Privacy@radioshack.com](mailto:RadioShack.Online.Privacy@radioshack.com)  
 **Postal Address:**  200 Taylor Street  •  Suite TTC3322  •  Fort Worth, Texas  •  76102  
   
-Copyright© RadioShack Corporation 2004. All rights reserved
+Copyright© RadioShack Corporation 2005. All rights reserved
