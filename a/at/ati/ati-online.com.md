@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ati-online.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404041813id_/http%3A//ati-online.com/ati/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ati-online.com privacy policy that was archived on 2005-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050901175200id_/http%3A//ati-online.com/ati/privacyPolicy.htm) for the most accurate reproduction.*
 
 # ATI Online
 
@@ -10,5 +10,5 @@ If you have any questions about this privacy statement, please contact us at:
 
 Assessment Technology, Inc.   
 6700 E. Speedway Blvd.  
-Tucson, Arizona 85750  
+Tucson, Arizona 85710  
 Phone: 1-800-367-4762 
