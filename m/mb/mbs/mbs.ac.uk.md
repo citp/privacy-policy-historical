@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mbs.ac.uk privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204011004id_/http%3A//www.manchester.ac.uk/officialdocuments/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbs.ac.uk privacy policy that was archived on 2005-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050901081406id_/http%3A//www.manchester.ac.uk/officialdocuments/privacy) for the most accurate reproduction.*
 
 # The University of Manchester
 
 ## Privacy
 
-Personal data (eg name, email address) is not stored or captured through The University of Manchester website without the prior knowledge and consent of users. When you provide this information, you will be asked whether you wish to receive any further communication from The University of Manchester. We will ensure that all personal data supplied is held in accordance with the Data Protection Act 1998. The University of Manchester does not sell or otherwise transfer personal data to any third parties unless you haveconsented to this or this is so permitted by law.
+Personal data (eg name, email address) is not stored or captured through The University of Manchester website without the prior knowledge and consent of users. When you provide this information, you will be asked whether you wish to receive any further communication from The University of Manchester. We will ensure that all personal data supplied is held in accordance with the Data Protection Act 1998. The University of Manchester does not sell or otherwise transfer personal data to any third parties unless you have consented to this or this is so permitted by law.
 
 Continuous logs are maintained of The University of Manchester web server activity. These log files include the details of your IP address, browser type, page last visited etc. Log files are used to analyse usage of The University of Manchester website, and may be kept in an anonymised form for historical records.
 
