@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shodor.org privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403082614id_/http%3A//www.shodor.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shodor.org privacy policy that was archived on 2005-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050901133524id_/http%3A//www.shodor.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,8 +27,8 @@ Contact Shodor
 If you have questions or concerns about this privacy policy, you can contact us at: 
 
 The Shodor Education Foundation, Inc.  
-923 Broad Street  
-Durham, NC 27705   
-Tel: (919) 286-1911  
-Fax: (919) 286-7876  
+300 West Morgan Street, Suite 1150  
+Durham, NC 27701  
+Tel: (919) 530-1911  
+Fax: (919) 530-1944  
 Email: [webmaster@shodor.org](mailto:webmaster@shodor.org)
