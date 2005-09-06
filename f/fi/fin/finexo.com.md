@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finexo.com privacy policy that was archived on 2005-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050508184853id_/http%3A//www.finexo.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finexo.com privacy policy that was archived on 2005-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050906025527id_/http%3A//www.finexo.com/about/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy — FXUC
 
