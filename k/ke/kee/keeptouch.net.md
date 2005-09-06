@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the keeptouch.net privacy policy that was archived on 2004-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040405065348id_/http%3A//forums.keeptouch.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keeptouch.net privacy policy that was archived on 2005-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050906093208id_/http%3A//www.keeptouch.net/privacy.php) for the most accurate reproduction.*
 
-# Keeptouch Community - Keeptouch Privacy Policy
+# Keeptouch Community Portal - Keeptouch Privacy Policy
 
 Keeptouch has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [www.keeptouch.net](http://www.keeptouch.net/)
 
