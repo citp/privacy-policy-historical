@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nzherald.co.nz privacy policy that was archived on 2005-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050410142919id_/http%3A//www.nzherald.co.nz/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nzherald.co.nz privacy policy that was archived on 2005-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050907065639id_/http%3A//www.nzherald.co.nz/info/privacypolicy) for the most accurate reproduction.*
 
-# The New Zealand Herald
+# New Zealand Herald
 
   
 
@@ -17,7 +17,7 @@ Your privacy on the Internet is important to us. Because the Internet offers the
 
 * Content Providers, Advertisers and Partners   
 
-* Nielsen NetRatings  
+* Nielsen//NetRatings  
 
 * Third Party Ad Servers  
 
