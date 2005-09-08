@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonepar.fr privacy policy that was archived on 2004-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041216222920id_/http%3A//www.sonepar.fr/front%3Fid%3Dsonepar/privacy_policy%26languageId%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonepar.fr privacy policy that was archived on 2005-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050908152732id_/http%3A//www.sonepar.com/front%3Fid%3Dsonepar/privacy_policy%26languageId%3Dus) for the most accurate reproduction.*
 
 # SONEPAR - Privacy Policy
 
