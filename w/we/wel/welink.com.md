@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the welink.com privacy policy that was archived on 2005-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050410082443id_/http%3A//www.welinktravel.com/Privacy%2520Policy%2520Page1.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the welink.com privacy policy that was archived on 2005-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050910075616id_/http%3A//www.welinktravel.com/Privacy%2520Policy%2520Page1.htm) for the most accurate reproduction.*
 
 # Advertise with Us I Contact Us I About Us I Privacy Policy I Term
 
