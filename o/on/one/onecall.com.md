@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onecall.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418023036id_/http%3A//www.onecall.com/Policies.mpt%3FPos%3D134%26L_TK%3D5_5_0_263_0_0_0_0_0_0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onecall.com privacy policy that was archived on 2005-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050912234315id_/http%3A//www.onecall.com/Policies.mpt%3FPos%3D134%26L_TK%3D5_5_0_263_0_0_0_0_0_0) for the most accurate reproduction.*
 
 # OneCall: Privacy Policy
 
