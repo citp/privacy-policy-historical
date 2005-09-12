@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicnotes.com privacy policy that was archived on 2005-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050606080725id_/http%3A//www.musicnotes.com/secure.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicnotes.com privacy policy that was archived on 2005-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050912022240id_/http%3A//www.musicnotes.com/secure.asp) for the most accurate reproduction.*
 
 # Sheet Music Downloads & Books | Musicnotes.com
 
