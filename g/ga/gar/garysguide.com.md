@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the garysguide.com privacy policy that was archived on 2005-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050412221517id_/http%3A//www.garysguide.com/index.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garysguide.com privacy policy that was archived on 2005-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050912101602id_/http%3A//www.garysguide.com/index.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
 
 # 
 
-|   
----  
-|  [_home_](https://web.archive.org/web/20050412221517id_/http%3A//www.garysguide.com/index.php?mode=login&act=home)  >  privacy policy  
+|  |  |  |  [_home_](https://web.archive.org/web/20050912101602id_/http%3A//www.garysguide.com/index.php)  >  privacy policy  
 ---  
    
-|  |  Your privacy is very important to us. We do not sell, rent or exchange your personal information to third parties for their marketing or any other purposes without your explicit consent. Please read this privacy policy to learn more about the ways in which we use and protect your personal information. If you have any additional questions or comments you may send us an email us at [privacy@garysguide.com](mailto:privacy@garysguide.com) 1\. Overview  
+|  |  Your privacy is very important to us. We do not sell, rent or exchange your personal information to third parties for their marketing or any other purposes without your explicit consent. Please read this privacy policy to learn more about the ways in which we use and protect your personal information. If you have any additional questions or comments you may send us an email us at [info@garysguide.com](mailto:info@garysguide.com) 1\. Overview  
 This privacy policy applies to all our services available under the domain and subdomains of [Garysguide.com](http://www.garysguide.com/) (the “Site”). By visiting this website you agree to be bound by the terms and conditions of this privacy policy. If you do not agree please do not use or access our Site. 2\. About Us  
 [Garysguide.com](http://www.garysguide.com/) is an online social-networking club, guide and city portal for the local community. It aims to connect people within the local communites of New York City, Long Island, Westchester, New Jersey and Connecticut. Through our site, our members build their personal networks that allows them to meet other members, find jobs, roommates, buy and sell items, post personal ads, create events, create clubs, network for business and interact with their local community, among other things. Members can create their own personal profiles, and those profiles are then shown to their Network of friends. A user's personal Network includes the extended group of people that a user is connected to through their friends (up to four degrees of separation). 3\. Information We Collect  
 Garysguide collects information our users submit to us such as their name and e-mail address to allow us to identify users and notify them of changes or updates to our service. We also collect personal information submitted by our users in filling out their profile on the service such as gender, state of residence, occupation, interests, etc. We collect this personal information when our users: (a) sign up as a member; (b) make changes to their member profile information; and (c) send e-mail messages, forms, or other information to us via Garysguide.com. Members may choose to provide additional information beyond their basic profile for their personal and professional profiles. Providing additional information beyond what is required at registration is entirely optional, but enables our users to better identify each other and more effectively connect and interact with their network. Garysguide.com also collects information from users that is unique, but cannot be linked to a specific individual, such as browser type. We gather this information on all visitors to Garysguide.com for systems administration purposes and to track user trends, such as our most popular features. 4\. Our Use Of Your Information  
@@ -25,8 +23,7 @@ Garysguide.com has implemented security measures to protect member information f
 This Privacy Policy is a part of the Garysguide.com Terms of Use policy. By using [Garysguide.com](http://www.garysguide.com/) and its services, users agree to be bound by the Terms of Use and this Privacy Policy. Some terms may be defined in the Terms of Use. 16\. Notice  
 If Garysguide.com changes its policy and seeks to use your personally identifiable information in a manner different from that stated at the time of collection, you will be notified via email or a system message visible on your Garysguide.com home page. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a notice on our Web site notifying users of the change. In some cases where we post the notice, we will also email users who have opted to receive communications from us to notify them of the changes in our privacy practices. 
 
-If you have any questions or suggestions regarding our privacy policy, please contact us at [privacy@garysguide.com](mailto:privacy@garysguide.com).   
+If you have any questions or suggestions regarding our privacy policy, please contact us at [info@garysguide.com](mailto:info@garysguide.com).   
   
 ---|---  
-  
-| 
+ 
