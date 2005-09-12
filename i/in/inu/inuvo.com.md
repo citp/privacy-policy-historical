@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inuvo.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407212619id_/http%3A//www.inuvo.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inuvo.com privacy policy that was archived on 2005-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050912155646id_/http%3A//www.inuvo.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
