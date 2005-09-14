@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsok.com privacy policy that was archived on 2005-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050422224149id_/http%3A//www.newsok.com/more/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsok.com privacy policy that was archived on 2005-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050914172506id_/http%3A//www.newsok.com/more/privacypolicy) for the most accurate reproduction.*
 
 # NewsOK.com | Powered by The Oklahoman and NEWS 9
 
