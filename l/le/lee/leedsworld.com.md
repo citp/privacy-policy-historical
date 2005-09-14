@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the leedsworld.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418023215id_/http%3A//www.leedsworld.com/aboutleeds/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leedsworld.com privacy policy that was archived on 2005-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050915001251id_/http%3A//www.leedsworld.com/aboutleeds/privacy.asp) for the most accurate reproduction.*
 
 # Leed's: Privacy Statement
-
-  
-| 
 
 Leed’s believes in and respects your privacy and the sanctity of information that may be provided. In the course of using Leed’s as a preferred supplier, use of our web site and in responding to our surveys, you may have the opportunity to voluntarily submit personally identifiable information (e.g., providing profile information or providing an e-mail address). By participating in a survey or in visiting our Web site, you understand and consent to this policy.
 
@@ -20,7 +17,3 @@ Customer Service
 customerservice@leedsworld.com 
 
 www.leedsworld.com
-
-  
-  
----|---
