@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualmedicalcentre.com privacy policy that was archived on 2005-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050624052819id_/http%3A//www.virtualmedicalcentre.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualmedicalcentre.com privacy policy that was archived on 2005-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050915215216id_/http%3A//virtualmedicalcentre.com/privacy.asp) for the most accurate reproduction.*
 
 # Virtual Medical Centre - Privacy Statement
 
