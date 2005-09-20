@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sourceforge.net privacy policy that was archived on 2005-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050428083847id_/http%3A//sourceforge.net/docman/display_doc.php%3Fdocid%3D6049%26group_id%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourceforge.net privacy policy that was archived on 2005-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050920090652id_/http%3A//sourceforge.net/docman/display_doc.php%3Fdocid%3D6049%26group_id%3D1) for the most accurate reproduction.*
 
 # SourceForge.net: H02. Privacy Policy (en)
 
@@ -11,7 +11,8 @@
 
 * * *
 
- **[Submit new documentation](https://web.archive.org/docman/new.php?group_id=1) | [View Documentation](https://web.archive.org/docman/index.php?group_id=1) | [Admin](https://web.archive.org/docman/admin/index.php?group_id=1)** **|[Search Site Docs](https://web.archive.org/search/index.php?type_of_search=sitedocs)**
+  
+
 
 **SOURCEFORGE.NET PRIVACY STATEMENT**
 
