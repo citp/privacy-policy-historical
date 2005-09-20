@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hardrock.com privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615084934id_/http%3A//www.hardrock.com/corporate/policy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardrock.com privacy policy that was archived on 2005-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050920135410id_/http%3A//www.hardrock.com/corporate/policy/privacy.asp) for the most accurate reproduction.*
 
 # Hard Rock Information
 
   
-|  [Privacy Policy](https://web.archive.org/web/20050615084934id_/http%3A//www.hardrock.com/corporate/policy/privacy.asp)   
-[Terms of Use](https://web.archive.org/web/20050615084934id_/http%3A//www.hardrock.com/corporate/policy/terms.asp)   
+|  [Privacy Policy](https://web.archive.org/web/20050920135410id_/http%3A//www.hardrock.com/corporate/policy/privacy.asp)   
+[Terms of Use](https://web.archive.org/web/20050920135410id_/http%3A//www.hardrock.com/corporate/policy/terms.asp)   
   
 | 
 
