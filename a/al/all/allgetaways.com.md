@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the allgetaways.com privacy policy that was archived on 2005-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050507015601id_/http%3A//www.allgetaways.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allgetaways.com privacy policy that was archived on 2005-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050921041940id_/http%3A//www.allgetaways.com/privacy.asp) for the most accurate reproduction.*
 
 # 
 
-Why Join?  
-  
-Let us help you plan all of your getaway adventures across North America with the largest collection of getaway travel destinations and maps available!  
-[> Try it Out](http://www.allgetaways.com//freetrial)
-
-| 
+Privacy Policy
 
 This Privacy Statement describes how AllGetaways collects and uses information about you when you use the AllGetaways web site ("Site"). 
 
