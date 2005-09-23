@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aquent.com privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527060251id_/http%3A//www.aquent.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquent.com privacy policy that was archived on 2005-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050923111046id_/http%3A//www.aquent.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Aquent
 
