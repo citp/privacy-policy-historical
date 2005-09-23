@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the armystudyguide.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528011315id_/http%3A//www.armystudyguide.com/admin/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armystudyguide.com privacy policy that was archived on 2005-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050923173523id_/http%3A//www.armystudyguide.com/admin/privacy.htm) for the most accurate reproduction.*
 
 # ArmyStudyGuide.com's Privacy Policy
 
@@ -39,6 +39,6 @@
 
       If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact the webmaster using the form located [here] or email us at [webmaster@armystudyguide.com](mailto:webmaster@armystudyguide.com) 
 
-To view our disclaimer, please [[click here](https://web.archive.org/web/20050528011315id_/http%3A//www.armystudyguide.com/admin/disclaimer.htm)] 
+To view our disclaimer, please [[click here](https://web.archive.org/web/20050923173523id_/http%3A//www.armystudyguide.com/admin/disclaimer.htm)] 
 
-To view our reproduction policy [[click here](https://web.archive.org/web/20050528011315id_/http%3A//www.armystudyguide.com/admin/reproduction_policy.htm)] 
+To view our reproduction policy [[click here](https://web.archive.org/web/20050923173523id_/http%3A//www.armystudyguide.com/admin/reproduction_policy.htm)] 
