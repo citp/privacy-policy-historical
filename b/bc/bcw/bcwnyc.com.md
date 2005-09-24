@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcwnyc.com privacy policy that was archived on 2005-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050414014223id_/http%3A//www.bcwnyc.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcwnyc.com privacy policy that was archived on 2005-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050924023701id_/http%3A//www.bcwnyc.com/privacy_policy.php) for the most accurate reproduction.*
 
 # chiropractor New York, Patient Privacy - New York chiropractor
 
@@ -67,10 +67,10 @@ In the event that Broadway Chiropractic and Wellness is sold or merged with anot
 **Changes to this Notice of Privacy Practices**  
 Broadway Chiropractic and Wellness reserves the right to amend this Notice of Privacy Practices at any time in the future, and will make the new provisions effective for all information that it maintains. Until such amendment is made, Broadway Chiropractic and Wellness is required by law to comply with this Notice. 
 
-Broadway Chiropractic and Wellness is required by law to maintain the privacy of your health information and to provide you with notice of its legal duties and privacy practices with respect to your health information. If you have questions about any part of this notice or if you want more information about your privacy rights, please contact: Dr. Stephen Becker or Dr. Jeffrey Klein by calling this office at 212.354.2225. If Dr. Stephen Becker or Dr. Jeffrey Klein is not available, you may make an appointment for a personal conference in person or by telephone within 2 working days. 
+Broadway Chiropractic and Wellness is required by law to maintain the privacy of your health information and to provide you with notice of its legal duties and privacy practices with respect to your health information. If you have questions about any part of this notice or if you want more information about your privacy rights, please contact: Dr. Jeffrey Klein by calling this office at 212.354.2225. If Dr. Jeffrey Klein is not available, you may make an appointment for a personal conference in person or by telephone within 2 working days. 
 
 **Complaints**  
-Complaints about your Privacy rights, or how Broadway Chiropractic and Wellness has handled your health information should be directed to Dr. Stephen Becker or Dr. Jeffrey Klein, by calling this office at 212.354.2225 If Dr. Stephen Becker or Dr. Jeffrey Klein is not available, you may make an appointment for a personal conference in person or by telephone within 2 working days. 
+Complaints about your Privacy rights, or how Broadway Chiropractic and Wellness has handled your health information should be directed to Dr. Jeffrey Klein, by calling this office at 212.354.2225 If Dr. Jeffrey Klein is not available, you may make an appointment for a personal conference in person or by telephone within 2 working days. 
 
 If you are not satisfied with the manner in which this office handles your complaint, you may submit a formal complaint to:
 
