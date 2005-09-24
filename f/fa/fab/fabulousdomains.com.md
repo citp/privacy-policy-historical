@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fabulousdomains.com privacy policy that was archived on 2005-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050617035340id_/http%3A//www.fabulous.com/index_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabulousdomains.com privacy policy that was archived on 2005-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050924103345id_/http%3A//www.fabulous.com/index_privacy.htm) for the most accurate reproduction.*
 
 # Fabulous
 
