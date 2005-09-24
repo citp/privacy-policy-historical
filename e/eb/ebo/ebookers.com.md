@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ebookers.com privacy policy that was archived on 2005-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050608084437id_/http%3A//www.ebookers.com/about_us/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebookers.com privacy policy that was archived on 2005-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050924085446id_/http%3A//www.ebookers.com/about_us/privacy_policy.html) for the most accurate reproduction.*
 
-# ebookers.com ->flight search airlines:holiday:cruise:holidays:airline:tourism:car rental:cruises:last minute:cheap flights:airline tickets:car hire:air fares:rent a car:travel agency:travels:cheap airline tickets:airline ticket:hotel booking:hotel club:cheap flight:last minute flights:discount flights:low cost airlines:flight reservation:low cost flights:cheap fares:bargain travel:cheap tickets
+# ebookers.com : Privacy Policy
 
    
 |   |  |   
@@ -94,12 +94,8 @@ Media, and investor relations
 The personal information gathered on the [corporate section](https://web.archive.org/corporate/home_ir.html) of ebookers plc website. It is for use of corporate communication and investor relations functions only. It will only be used for ebookers' investor and media communication purposes and will not be used for other purposes within the ebookers group. It will also not be sent to third parties outside of the ebookers group.   
   
 Top  
-  
-  
    
-  
-With [ebookers.com](http://www.ebookers.com/), get [cheap flights](http://www.ebookers.com/cheap_flights_offer/index.html), [cheap hotel](http://www.ebookers.com/cheap_hotels/index.html) reservation and car hire. Discounts on offer on flights & hotels to New York, Bangkok, Sydney and [other destinations](http://www.ebookers.com/travel_resources/index.html) in America, Asia and Australia. Flights from British Midland (BMI), British Airways (BA), KLM, Singapore Airlines, American Airlines, Air Canada.  
   
    
    
-The air holidays and flights shown are ATOL protected by the Civil Aviation Authority, except when tickets for scheduled flights are sent to you within 24 hours of payment being accepted. Our ATOL number is ATOL 2562. Protection extends primarily to customers who book and pay in the United Kingdom. Click on the ATOL logo if you want to know more. We are also fully bonded with ABTA (our ABTA number is D0806), IATA and a member of PATA and ASTA.
+The air holidays and flights shown are ATOL protected by the Civil Aviation Authority, except when tickets for scheduled flights are sent to you within 24 hours of payment being accepted. Our ATOL number is ATOL 2562. Protection extends primarily to customers who book and pay in the United Kingdom. Click on the ATOL logo if you want to know more. We are also fully bonded with ABTA (our ABTA number is D0806), IATA and a member of PATA and ASTA. 
