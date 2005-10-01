@@ -1,40 +1,32 @@
-> *The following text is extracted and transformed from the flashloaded.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204024424id_/http%3A//www.flashloaded.com/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashloaded.com privacy policy that was archived on 2005-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051001073936id_/http%3A//www.flashloaded.com/disclaimer.html) for the most accurate reproduction.*
 
 # Flashloaded Disclaimer & Privacy Policy
 
-**DISCLAIMER**
+DISCLAIMER   
+This disclaimer and license agreement is a legal agreement between you and FFF Web Media Inc. (Flashloaded.com). By purchasing and/or downloading any of our products (or using our products), you agree that you have read and understood this disclaimer and this privacy policy in their entirety and accept its contents.   
 
-This disclaimer and license agreement is a legal agreement between you and FFF Web Media Inc. (Flashloaded.com). By purchasing and/or downloading any of our products (or using our products), you agree that you have read and understood this disclaimer and this privacy policy in their entirety and accept its contents. 
-
-Products may be used for personal and/or commercial projects such as websites, offline presentations and other multimedia presentations. For any kind of product embedding, such as but not exclusively, TV / motion pictures, CD-ROMS, cellphones and PDAs, a special license must be obtained from FFF Web Media Inc. 
-
-These products may be used for single or multiple users depending on the type of license purchased. A product for which an unlimited user license is purchased, may be used on an unlimited amount of computers within the same organization only, and cannot be distributed to other companies or third parties under this agreement. Flashloaded products may not be redistributed, modified or resold in any way without the written permission of FFF Web Media Inc.. 
 
 FFF Web Media Inc., does not take any responsibility and is not liable for any damage caused through use of these products, be it indirect, special, incidental or consequential damages (including damages for loss of business, loss of profits, interruption or the like). FFF Web Media Inc., does not take responsibility for the correct workings of a product that has been modified in any way or by their use in ways they weren't designed for. You must also be aware that as with any other software, bugs could be found in the software that you purchase. These should be reported to us and they will be solved as soon as possible (if and when possible). We reserve the right to distribute upgrades. Ensure that you have read the Frequently Asked Questions and the product page of the product that you're purchasing.
 
 All products are sold on an AS IS basis. All features are listed on the product page. By ordering a product from Flashloaded, you agree that you have read and understood the product specifications and have assessed that they can be used by you in the way that you require. Products cannot be exchanged or returned/refunded. 
 
-**_Attention EU Customers_ :  **
-
-In order to comply with new EU regulations put in place on July 1st, 2003, we have made some changes to the payment system.
-
-Please note: **  
-** Purchase of our products for business related uses _are not required to pay VAT_.  
-Purchase of our products for personal use _are required to pay VAT_.
-
-**KAGI** :   
-If you're choosing the KAGI payment system, you will be charged VAT. If you're not required to pay VAT, you need to claim this back from your government or choose the PAYPAL method where you won't be charged VAT.
-
-**  
-PAYPAL:  
-**If you're not purchasing your products for business purposes, you must choose the KAGI method of payment where you will be charged the applicable VAT.
-
 By ordering from Flashloaded.com you agree that you wish to purchase the selected product(s) and that you will not hold FFF Web Media Inc., responsible in any way.  Purchasing and or using any of our products (including freebies) means that you have understood and agreed to all the terms and conditions of this disclaimer. 
 
-[ FFF Web Media Inc.](http://www.flashloaded.com/)
+Attention EU Customers:  
+In order to comply with new EU regulations put in place on July 1st, 2003, we have made some changes to the payment system.
 
-**PRIVACY POLICY:**
+Please note:  
+Purchase of our products for business related uses _are not required to pay VAT_.  
+Purchase of our products for personal use _are required to pay VAT_.
 
+KAGI:   
+If you're choosing the KAGI payment system, you will be charged VAT. If you're not required to pay VAT, you need to claim this back from your government or choose the PAYPAL method where you won't be charged VAT.
+
+PAYPAL:  
+If you're not purchasing your products for business purposes, you must choose the KAGI method of payment where you will be charged the applicable VAT.
+
+  
+PRIVACY POLICY   
 Your privacy is an important part of our relationship with you. Protecting your privacy is just one part of our mission to provide you with highly personalized and valuable service. 
 
 To register on our website, (to be part of our newsletter subscriber mailing list), you must submit only your e-mail address. In addition, to purchase a product, you must submit additional information, including your address, phone number and credit card information. This required personally identifiable information is necessary for us and our billing processors to process transactions for you, protect you against credit card fraud and contact you. If you register in one of our forums, this information is available to us, and you can set whether this becomes of publicly viewable by setting your permissions in the forum preferences. 
@@ -52,3 +44,7 @@ Changing your personal information: You can request that the information collect
 FFF WEB MEDIA INC. uses the highest security standard available to protect your personally identifiable information while it is in transit to us. All data stored on our servers is protected by a secure "firewall" so that no unauthorized use or activity can take place. Although we will make every effort to safeguard your personal information from loss, misuse or alteration by third parties, you should be aware that there is always some risk that thieves may find a way to thwart our security system or that transmissions over the Internet will be intercepted. 
 
 We may, from time to time, amend our Privacy Policy. We reserve the right, at our discretion, to change, modify, add or remove portions of our Privacy Policy at any time and from time to time. These changes will be posted for general public view. When you visit our website, you agree to all terms of our privacy policy and our disclaimer. Your continued use of this website constitutes your continued agreement to these terms. If you do not agree with the terms of our Privacy Policy, you should cease using our website. 
+
+  
+FFF Web Media Inc.  
+[info@fffwebmedia.com](mailto:info@fffwebmedia.com)
