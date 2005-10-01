@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tveyes.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206160633id_/http%3A//www.tveyes.com/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tveyes.com privacy policy that was archived on 2005-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051001113305id_/http%3A//www.tveyes.com/privacy/index.htm) for the most accurate reproduction.*
 
 # TVEyes
 
@@ -21,9 +21,9 @@ TVEyes uses incoming and outgoing website traffic data to help diagnose problems
 As part of providing customizable and personalized services, TVEyes uses cookies to store and sometimes track information about users. A cookie is a small amount of data that is sent to a user’s browser from a Web server and stored on a user’s computer hard drive. Areas of TVEyes sites where users are prompted to login or that are customizable require acceptance of cookies. 
 
 **Review/Modify/Terminate User Account**  
-TVEyes users may choose at any time to review, modify or permanently remove all contact and keyword information stored by TVEyes by accessing their account directly at [http://www.TVEyes.com/log_in.asp](http://www.tveyes.com/log_in.asp). TVEyes will never sell, rent, or otherwise use the contact information of former users. 
+TVEyes users may choose at any time to review, modify or permanently remove all contact and keyword information stored by TVEyes by accessing their account directly at <http://consumer.tveyes.com/log_in.asp>. TVEyes will never sell, rent, or otherwise use the contact information of former users. 
 
 **Third Party Privacy Statement**  
-We use third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.sonar.com/content/privacy.htm). 
+We use third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. 
 
 If you have any questions about this privacy statement, TVEyes practices, or feel that your privacy has been compromised, please contact us at [info@TVEyes.com](mailto:info@TVEyes.com).
