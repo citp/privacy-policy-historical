@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the itex.com privacy policy that was archived on 2005-03-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050305120514id_/http%3A//www.itex.com/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the itex.com privacy policy that was archived on 2005-10-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051001120625id_/http%3A//www.itex.com/privacy_policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>ITEX Payment Systems</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="keywords" content="barter, trade exchange, retail trade exchange, ITEX, payment system">
+<meta name="keywords" content="barter, trade exchange, retail trade exchange, ITEX, payment system, BXI">
 <meta name="description" content="ITEX Retail Trade Exchange">
 <script language="JavaScript" src="/common/functions.js" type="text/javascript"></script>
 
@@ -12,7 +12,7 @@
 <link rel="Stylesheet" type="text/css" href="/common/style_print.css" media="print">
 
 </head>
-<body>
+<body topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
 
 <!-- TABS:BEGIN -->
 <div class="Menu">
@@ -28,24 +28,18 @@
 	<tbody><tr>
 		<td rowspan="3" align="center" valign="middle" style="padding-left:.5em; padding-top:.5em; padding-bottom:.5em;"><a href="http://www.itex.com" title="ITEX"><img align="left" src="/images/itex_logo.gif" alt="ITEX" title="ITEX" border="0" width="79" height="44"></a></td>
 		
-		<td rowspan="3" align="center" valign="middle" style="width:100%; padding-left:1em; padding-right:1em; padding-bottom:.1em; padding-top:.1em;">
-			<span id="header_text" class="greenTitle">Buy and Sell with ITEX, instead of cash!</span>
-			<span id="header_text_alt" class="headerMessage" style="display:none;">
-				<span style="font-weight:bold; font-size:1.2em;">Thank you for visiting the new <i>ITEX Marketplace</i>.</span><br>
-				<i>This is a big deal to us, yet we recognize there may be a few<br>bugs and wrinkles. We encourage your <a href="/contactus.asp?feedback=F" title="Feedback">feedback</a>, good and bad.</i><br>
-			</span>
-		</td>
+		<td rowspan="3" align="center" valign="middle" style="width:100%; padding-left:1em; padding-right:1em; padding-bottom:.1em; padding-top:.1em; font-size:1.2em;" class="greenTitle">Buy and Sell with ITEX, instead of cash!</td>
 		
 		<td colspan="3" align="center" style="font-size:.7em;"><b>&nbsp;&nbsp;Search the ITEX MarketPlace</b></td>
 	</tr>
 	<tr>
 		<td nowrap="nowrap" align="right" style="font-size:.7em;">Find Listings:</td>
-		<td><input style="font-size:.7em;" type="text" name="srclistings" size="20" maxlength="50" value=""></td>
-		<td rowspan="2" valign="middle" style="padding:.5em;"><input type="image" src="/images/search_but.gif" title="Search" align="middle" onclick="return do_search();"></td>
+		<td><input style="font-size:.7em;" type="text" name="srclistings" size="20" maxlength="50" value="" onfocus="search_text('L');"></td>
+		<td rowspan="2" valign="middle" style="padding:.5em;"><input type="image" src="/images/search_but.gif" title="Search" alt="Search" align="middle" onclick="return do_search();" width="61" height="20"></td>
 	</tr>
 	<tr>
 		<td nowrap="nowrap" align="right" style="padding-bottom:.5em; font-size:.7em;">Find Members:</td>
-		<td style="padding-bottom:.5em;"><input style="font-size:.7em;" type="text" name="srcmembers" size="20" maxlength="50" value=""></td>
+		<td style="padding-bottom:.5em;"><input style="font-size:.7em;" type="text" name="srcmembers" size="20" maxlength="50" value="" onfocus="search_text('M');"></td>
 	</tr>
 
 	<tr>
@@ -53,25 +47,12 @@
 	</tr>
 </tbody></table>
 </form>
-
 <script language="JavaScript" type="text/javascript">
-var index = 0;
-function update_text() {
-	if (index == 0) {
-		document.getElementById("header_text").style.display = '';
-		document.getElementById("header_text_alt").style.display = 'none';
-		index = 1;
-		setTimeout("update_text()",5000);
-	} else {
-		document.getElementById("header_text").style.display = 'none';
-		document.getElementById("header_text_alt").style.display = '';
-		index = 0;
-		setTimeout("update_text()",12000);
-	}
+function search_text(src) {
+	if (src == "L") { document.MenuSearch.srcmembers.value = ""; }
+	else { document.MenuSearch.srclistings.value = ""; }
 }
-update_text();
 </script>
-
 <!-- TABS:END -->
 
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
@@ -81,15 +62,15 @@ update_text();
 			<!-- LEFT MENU:BEGIN -->
 			<table border="0" cellspacing="0" cellpadding="0">
 				<tbody><tr>
-					<td class="MainLeftMenuHeading">ITEX Marketplace</td>
+					<td class="MainLeftMenuHeading" nowrap="">ITEX Marketplace</td>
 					<td style="background-color:#EEE;"><img src="/images/round_purple.gif" height="20" width="20" alt=""></td>
 				</tr>
 				<tr>
-					<td colspan="2" style="padding-top:1em;">
+					<td colspan="2" style="padding-top:1em;" nowrap="">
 						<ul>
-							<li><a href="/search/search.asp?startdt=03-Mar-2005" title="View New Items for Sale">View New Items for Sale</a></li>
+							<li><a href="/search/search.asp?startdt=29-Sep-2005" title="View New Items for Sale">View New Items for Sale</a></li>
 							
-							<li><a href="/search/search.asp?srctype=M&amp;startdt=27-Feb-2005" title="View New Members">View New Members</a></li>
+							<li><a href="/search/search.asp?srctype=M&amp;startdt=25-Sep-2005" title="View New Members">View New Members</a></li>
 							<li><a href="/search/search.asp?srctype=M" title="View All Members">View All Members</a></li>
 							<li><a href="/search/search.asp?srcwants=Y" title="View Want Ads">View Want Ads</a></li>
 							<li><a href="/broker/" title="View the Broker Directory">View the Broker Directory</a></li>
