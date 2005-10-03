@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biggerbras.com privacy policy that was archived on 2005-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050626083804id_/http%3A//www.biggerbras.com/docs/docs_privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggerbras.com privacy policy that was archived on 2005-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051003221306id_/http%3A//www.biggerbras.com/docs/docs_privacy_policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy for Big Girls' Bras
 
@@ -15,13 +15,13 @@ BGB mails your package in a plain white poly-vinyl envelope, a standard Post Off
 Email  
 An email acknowledgement is sent when an order is placed on our web site. Additional emails may follow to inform you of the status of your order. If you do not receive these emails, you may have accidentally typed the wrong email address into your order (call us and we'll correct it), or your service provider or spam-blocker software may key on words such as "bra" or "lingerie" and put your confirmation into your spam box. If this is the case, take the necessary steps to allow these emails if you are interested in your order status.
 
-Once or twice a month, a promotional [email newsletter](https://web.archive.org/docs/docs_email_signup.cfm) may be sent to inform interested visitors of new features, new products, or "on-sale" events and fresh coupon codes. Removal instructions are always at the bottom of the promotional emails. 
+Once or twice a month, a promotional [email newsletter](http://www.biggerbras.com/docs/docs_email_signup.cfm) may be sent to inform interested visitors of new features, new products, or "on-sale" events and fresh coupon codes. Removal instructions are always at the bottom of the promotional emails. 
 
 In an effort to reduce the thousands of inappropriate email (i.e. SPAM lists) sent to our customer service address: Effective January, 2004 we no longer send an auto-reply to incoming emails. We also use our own spam-blocking software, so please reference your name or order id in the subject line of your email along with your questions or comments inside the email. Do not send attachments, they will be deleted.
 
 In order to better assist our existing customers, BGB attempts to personally answer all customer inquiries within 72 to 96 hours. Occasionally, responses may take an additional day. If you do not receive a response in this time-frame and your question is not answered in our help section, call us. Our toll free number is 1-866-352-4494.
 
-Please check our [Help and Frequently Asked Questions](https://web.archive.org/docs/guides_help.shtml) page for common questions and answers.
+Please check our [Help and Frequently Asked Questions](http://www.biggerbras.com/docs/guides_help.shtml) page for common questions and answers.
 
 If you are an existing customer, please include your full name, email address, order date and order-id number in your email, AND complete questions or instructions. One word instructions such as "Cancel" or "Change" can not be processed.
 
