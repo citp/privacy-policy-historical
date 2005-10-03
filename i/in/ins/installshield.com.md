@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the installshield.com privacy policy that was archived on 2005-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050630001111id_/http%3A//www.installshield.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the installshield.com privacy policy that was archived on 2005-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051003230526id_/http%3A//www.installshield.com/company/privacy.asp) for the most accurate reproduction.*
 
 # InstallShield - Privacy Policy
+
+[](https://web.archive.org/company/default.asp)
+
+| 
 
 Dear Web Site Visitor,
 
@@ -17,3 +21,6 @@ We request your contact, profile, and system information so that we can route yo
 We also email new product information, tips and tricks, training class schedules, a monthly newsletter, and other related information to our current and future customers. Not all of the information we send to you may be relevant to you at a given moment. However, we go to great lengths to make sure that when we send information, it is appropriate for the vast majority of you, our customers. At any time, you may request removal of your email address and any other information from our database - we honor every request and update our database weekly.
 
 Please continue to contact us with your comments, concerns, and ideas.
+
+|   |   
+---|---|---|---
