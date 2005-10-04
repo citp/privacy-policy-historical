@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the freestufffinder.com privacy policy that was archived on 2005-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050504052739id_/http%3A//www.freestufffinder.com/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freestufffinder.com privacy policy that was archived on 2005-10-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051004093249id_/http%3A//www.freestufffinder.com/privacy_policy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>Privacy Policy freestufffinder.com </title>
@@ -64,14 +64,99 @@ function check_url()
 }
 check_url();
 </script>
-<script language="javascript">domain_id=200</script><script language="javascript" src="/js/200.js"></script></head>
+<script language="javascript">domain_id=200</script><script language="javascript" src="/js/200.js"></script>
+<script language="JavaScript1.2">
+var divname;
+change_box();
+ function change_box()
+ {
+   divname = "turnkey_dropin";
+ }
+
+// Drop-in content box- By Dynamic Drive
+// For full source code and more DHTML scripts, visit http://www.dynamicdrive.com
+// This credit MUST stay intact for use
+
+var ie=document.all
+var dom=document.getElementById
+var ns4=document.layers
+var calunits=document.layers? "" : "px"
+
+var bouncelimit=32 //(must be divisible by 8)
+var direction="up"
+
+function initbox(){
+if (!dom&&!ie&&!ns4)
+return
+crossobj=(dom)?document.getElementById(divname).style : ie? document.all.divname : document.divname;
+scroll_top=(ie)? truebody().scrollTop : window.pageYOffset
+crossobj.top=scroll_top-250+calunits
+crossobj.visibility=(dom||ie)? "visible" : "show"
+dropstart=setInterval("dropin()",50)
+}
+
+function dropin(){
+scroll_top=(ie)? truebody().scrollTop : window.pageYOffset
+if (parseInt(crossobj.top)<100+scroll_top)
+crossobj.top=parseInt(crossobj.top)+40+calunits
+else{
+clearInterval(dropstart)
+bouncestart=setInterval("bouncein()",50)
+}
+}
+function bouncein(){
+crossobj.top=parseInt(crossobj.top)-bouncelimit+calunits
+if (bouncelimit<0)
+bouncelimit+=8
+bouncelimit=bouncelimit*-1
+if (bouncelimit==0){
+clearInterval(bouncestart)
+}
+}
+
+function dismissbox(){
+if (window.bouncestart) clearInterval(bouncestart)
+crossobj.visibility="hidden"
+}
+
+function truebody(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+
+function get_cookie(Name) {
+var search = Name + "="
+var returnvalue = ""
+if (document.cookie.length > 0) {
+offset = document.cookie.indexOf(search)
+if (offset != -1) {
+offset += search.length
+end = document.cookie.indexOf(";", offset)
+if (end == -1)
+end = document.cookie.length;
+returnvalue=unescape(document.cookie.substring(offset, end))
+}
+}
+return returnvalue;
+}
+
+function dropornot(){
+if (get_cookie("droppedin")==""){
+window.onload=initbox
+document.cookie="droppedin=yes"
+}
+}
+dropornot()
+</script>
+</head>
+
 
 <body text="#000000" bgcolor="#FFFFFF">
 
 <table width="780" border="0">
 <tbody><tr valign="top">
 <td width="330" align="left"><a href="/"><img src="/images/freestufffinder_com.gif" alt="FREESTUFFFINDER.COM" border="0" width="330" height="87"></a></td>
-<td width="290" align="right"><!--SEARCH_START--><table border="0"><form name="searchform" method="post" action="/cgi/search123/search.cgi"></form><tbody><tr><td valign="top"><font face="arial" size="-1">Enter Search Keywords</font><br><input type="hidden" name="d" value="200"><input type="text" size="15" name="search_keywords" value=" services"><input type="submit" name="search_submit" value="search"></td></tr><script language="javascript">
+<td width="290" align="right"><!--SEARCH_START--><table border="0"><form name="searchform" method="post" action="/cgi/search123/search.cgi"></form><tbody><tr><td valign="top"><font face="arial" size="-1">Enter Search Keywords</font><br><input type="hidden" name="d" value="200"><input type="text" size="15" name="search_keywords" value=" free stuff"><input type="submit" name="search_submit" value="search"></td></tr><script language="javascript">
  var kwd=new Array(' coupons',' free to try',' free stuff',' services',' gratis');	
  function chng_kwd()
  {
@@ -85,12 +170,12 @@ check_url();
  }
 chng_kwd();</script></tbody></table><!--SEARCH_END--></td>
 <td width="160" rowspan="3">
-<p align="center"><a href="/cgi/ads/ads.cgi?miJ9mbgHn8G9I40200-200" target="_blank">
-     <img src="/img/ads/44784.gif" width="125" height="125" onmouseover="window.status='backtoschool4you';return true" onmouseout="window.status='';return false" border="0"></a></p><p align="center"><a href="/cgi/ads/ads.cgi?mi.9zOO2TybIE40200-200" target="_blank">
-     <img src="/img/ads/53971.gif" width="125" height="125" onmouseover="window.status='WebRewardsCentral-Fridge vs Mirror';return true" onmouseout="window.status='';return false" border="0"></a></p><p align="center"><a href="/cgi/ads/ads.cgi?mi4CgTygOsvsA40200-200" target="_blank">
-     <img src="/img/ads/46597.gif" width="125" height="125" onmouseover="window.status='M3/Venus Razor';return true" onmouseout="window.status='';return false" border="0"></a></p><p align="center"><a href="/cgi/ads/ads.cgi?mienEYBX5VlQY40200-200" target="_blank">
-     <img src="/img/ads/39276.gif" width="125" height="115" onmouseover="window.status='Remodel4Free.com';return true" onmouseout="window.status='';return false" border="0"></a></p><p align="center"><a href="/cgi/ads/ads.cgi?mikdW3hdObkeM40200-200" target="_blank">
-     <img src="/img/ads/32207.gif" width="125" height="125" onmouseover="window.status='YourGiftCards.com';return true" onmouseout="window.status='';return false" border="0"></a></p>
+<p align="center"><a href="/cgi/ads/ads.cgi?miLeZJPC552Jo40200-200" target="_blank">
+     <img src="/img/ads/42384.gif" width="125" height="125" onmouseover="window.status='50DollarGiftCard.com';return true" onmouseout="window.status='';return false" border="0"></a></p><p align="center"><a href="/cgi/ads/ads.cgi?miyR5bqegrQZM40200-200" target="_blank">
+     <img src="/img/ads/22686.jpg" width="125" height="125" onmouseover="window.status='Win a Lexus GS300!';return true" onmouseout="window.status='';return false" border="0"></a></p><p align="center"><a href="/cgi/ads/ads.cgi?miZ7xzAle9dJ.40200-200" target="_blank">
+     <img src="/img/ads/49364.gif" width="125" height="125" onmouseover="window.status='PinkPhone4Free';return true" onmouseout="window.status='';return false" border="0"></a></p><p align="center"><a href="/cgi/ads/ads.cgi?mig0kLnWywyWM40200-200" target="_blank">
+     <img src="/img/ads/52216.gif" width="125" height="125" onmouseover="window.status='HartfordOpinionGroup-iPod Shuffle';return true" onmouseout="window.status='';return false" border="0"></a></p><p align="center"><a href="/cgi/ads/ads.cgi?mixjyW2CZFxU.40200-200" target="_blank">
+     <img src="/img/ads/33472.gif" width="125" height="125" onmouseover="window.status='GuardYourPC.com - Norton SystemWorks 2003 FREE';return true" onmouseout="window.status='';return false" border="0"></a></p>
 </td>
 </tr>
 
@@ -98,12 +183,11 @@ chng_kwd();</script></tbody></table><!--SEARCH_END--></td>
 <td colspan="3" width="620">
 <table border="0">
 <tbody><tr><td valign="top" width="160">
-<font face="arial" size="-1"><table cellspacing="02" cellpadding="02" border="0"><tbody><tr><td colspan="1"><b><font face="arial" size="3"><a href="/discover_the_true_value_of_clipping_coupons_200.html" title="">Discover the True Value of Clipping Coupons 
-</a></font></b></td></tr><tr><td colspan="1"><b><font face="arial" size="3"><a href="/the_benefits_of_catalog_sales_for_your_business_200.html" title="">The Benefits of Catalog Sales For Your Business:</a></font></b></td></tr><tr><td colspan="1"><b><font face="arial" size="3"><a href="/consumer_advice_200.html" title="">Consumer Advice</a></font></b></td></tr><tr><td valign="top"><font face="arial" size="-1"><a href="/free_stuff.html" title="Free Stuff and Trial Offers"><b>Free Stuff Offers</b></a></font></td></tr></tbody></table></font>
+<font face="arial" size="-1"><table cellspacing="02" cellpadding="02" border="0"><tbody><tr><td valign="top"><font face="arial" size="-1"><a href="/screen_mates.html" title="Free Screen Mates"><b>Free Screen Mates</b></a></font></td></tr><tr><td valign="top"><font face="arial" size="-1"><a href="/index.html" title="Free Stuff Offers"><b>Free Stuff Offers</b></a></font></td></tr><tr><td valign="top"><font face="arial" size="-1"><a href="/screen_savers.html" title="Free ScreenSavers"><b>Free ScreenSavers</b></a></font></td></tr></tbody></table></font>
 </td>
 <td width="460" valign="top" align="left">
-<center><p align="center"><a href="/cgi/ads/ads.cgi?mi7HE510SWxtw40200-200" target="_blank">
-     <img src="/img/ads/52118.gif" width="468" height="60" onmouseover="window.status='HartfordOpinionGroup-EveryTicket';return true" onmouseout="window.status='';return false" border="0"></a></p></center><br><font face="impact" size="4">Privacy Policy for freestufffinder.com</font><br><br><table cellspacing="0" cellpadding="0" width="95%"><tbody><tr><td align="justify"><font face="arial" size="3"><p><font face="Arial, Helvetica, sans-serif"><b>What this privacy policy covers<br></b></font>
+<center><p align="center"><a href="/cgi/ads/ads.cgi?midVyvvOnPU9U40200-200" target="_blank">
+     <img src="/img/ads/48563.gif" width="468" height="60" onmouseover="window.status='Compaq Presario-ConsumerTestingPanel';return true" onmouseout="window.status='';return false" border="0"></a></p></center><br><font face="impact" size="4">Privacy Policy for freestufffinder.com</font><br><br><table cellspacing="0" cellpadding="0" width="95%"><tbody><tr><td align="justify"><font face="arial" size="3"><p><font face="Arial, Helvetica, sans-serif"><b>What this privacy policy covers<br></b></font>
 </p><div align="justify"><font face="Arial, Helvetica, sans-serif">Our foremost concern is to protect your privacy and provide a safe online experience for everyone. This privacy policy concerns the information collected through the freestufffinder.com website. It is designed to help visitors understand what kind of information we collect from our sites, and how we deal with this information once we gather it.</font>
 <p></p>
 <div align="justify">
@@ -145,8 +229,8 @@ chng_kwd();</script></tbody></table><!--SEARCH_END--></td>
 </font></p><div align="justify"><font face="Arial, Helvetica, sans-serif">To maintain the highest protection for our users and to comply with a changing environment, we may, from time to time, make changes to this policy. We recommend that you should re-visit this privacy policy occasionally to learn of new privacy practices or changes to our policy.</font></div>
 <p></p>
 <p><font face="Arial, Helvetica, sans-serif"><b>How to contact us:</b><br></font><font face="Arial, Helvetica, sans-serif">
-</font></p><div align="justify"><font face="Arial, Helvetica, sans-serif">It is important to us to know what visitors have to say about our services, and our policies. If you have any questions about our privacy, policy please contacts us via e-mail at privacy @ freestufffinder.com</font></div></div></font></td></tr><tr><td><br><font face="arial" size="3"><b>Last update : September 19 2003</b></font></td></tr></tbody></table><br><center><p align="center"><a href="/cgi/ads/ads.cgi?mi7HE510SWxtw40200-200" target="_blank">
-     <img src="/img/ads/52118.gif" width="468" height="60" onmouseover="window.status='HartfordOpinionGroup-EveryTicket';return true" onmouseout="window.status='';return false" border="0"></a></p></center>
+</font></p><div align="justify"><font face="Arial, Helvetica, sans-serif">It is important to us to know what visitors have to say about our services, and our policies. If you have any questions about our privacy, policy please contacts us via e-mail at privacy @ freestufffinder.com</font></div></div></font></td></tr><tr><td><br><font face="arial" size="3"><b>Last update : September 19 2003</b></font></td></tr></tbody></table><br><center><p align="center"><a href="/cgi/ads/ads.cgi?midVyvvOnPU9U40200-200" target="_blank">
+     <img src="/img/ads/48563.gif" width="468" height="60" onmouseover="window.status='Compaq Presario-ConsumerTestingPanel';return true" onmouseout="window.status='';return false" border="0"></a></p></center>
 </td>
 </tr>
 </tbody></table>
@@ -195,6 +279,24 @@ Copyright © 2005 <b>freestufffinder.com</b> All Rights Reserved
 </tbody></table>
 
 
+
+<div id="turnkey_dropin" align="right" style="position: absolute; visibility: visible; left: 100px; top: 110px; width: 400px; height: 100px; background-color: rgb(195, 211, 253);">
+
+<table border="1" width="100%" height="100%" cellpadding="0" bordercolorlight="#000000" bordercolordark="white" bgcolor="#c1cdd8">
+<tbody><tr height="20%"><td>
+<table border="1" width="100%" height="20" bgcolor="#dbeaf5" bordercolorlight="#000000" bordercolordark="white">
+<tbody><tr><td><a href="/buythisdomain.html"><img src="/img/buythisdomainvert.jpg" border="0"></a>
+</td></tr>
+<tr><td align="middle" bgcolor="#dbeaf5">
+
+<font size="-1">
+<div style="cursor:pointer;cursor:hand" align="right"><a onclick="dismissbox();return false"><b>[Close this box]</b></a></div>
+</font></td></tr>
+
+</tbody></table>
+</td></tr>
+</tbody></table>
+</div>
 <!-- mi_content_type=module:mi_content_id=172:mi_domain_id=200:module_mainpage=yes!-->
 
 </body></html>
