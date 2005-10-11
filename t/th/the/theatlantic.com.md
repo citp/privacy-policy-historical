@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theatlantic.com privacy policy that was archived on 2005-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050628212902id_/http%3A//www.theatlantic.com/a/privprint.mhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theatlantic.com privacy policy that was archived on 2005-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051011233632id_/http%3A//www.theatlantic.com/a/privprint.mhtml) for the most accurate reproduction.*
 
-# The Atlantic Online | Privacy Policy
+# Privacy Policy
 
 We want you to enjoy and benefit from our Web site and the Atlantic Online Reader Panel secure in the knowledge that we have taken steps to implement fair information practices designed to protect your privacy. The following explains what information we collect about you and how we use it. 
 
