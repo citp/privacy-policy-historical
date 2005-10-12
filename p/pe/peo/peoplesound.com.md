@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the peoplesound.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206062725id_/http%3A//www.peoplesound.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplesound.com privacy policy that was archived on 2005-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051012175750id_/http%3A//www.peoplesound.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Peoplesound
 
 |  |  |   
 ---|---|---  
-|  | [](https://web.archive.org/) | [](https://web.archive.org/playlists) | [](https://web.archive.org/forum) | [](https://web.archive.org/brewards) | [](http://mobile.peoplesound.com/) | [](https://web.archive.org/blog) | [](https://web.archive.org/mystuff) | [](https://web.archive.org/register?redirect=/privacy/index.cfm?)  
+|  | [](https://web.archive.org/) | [](https://web.archive.org/playlists) | [](https://web.archive.org/forum) | [](https://web.archive.org/winstuff) | [](http://mobile.peoplesound.com/) | [](https://web.archive.org/blog) | [](https://web.archive.org/mystuff) | [](https://web.archive.org/register?redirect=/privacy/index.cfm?)  
 ---|---|---|---|---|---|---|---  
 |  |   
 |  |  |  |  |  |  |  | |  | 
@@ -119,7 +119,7 @@ A cookie is a piece of information that is stored on your computer's hard drive 
 
 Our Web site uses ad servers (such as Real Media) to serve the advertisements that you see on pages of our Web site. That partner uses cookies to help target ads to you. To find out more about the use of cookies and the information-gathering practices and opt-out procedures of Real Media, please [click here](http://www.247realmedia.com/about/247RM_Code-of-Conduct.pdf?navSource=TopNav) to download the PDF. Real Media's Privacy Policy can be found [here](http://www.247realmedia.com/privacy.html).  
 |    
-[](http://ads.peoplesound.com/RealMedia/ads/click_nx.ads/www.peoplesound.com/ROS/1137355282@Position1,Right,Top!Right?)   
+  
 |   
 |    
 | 
