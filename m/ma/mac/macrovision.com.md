@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the macrovision.com privacy policy that was archived on 2005-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050408150939id_/http%3A//www.macrovision.com/company/legal/legal_and_privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macrovision.com privacy policy that was archived on 2005-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051014122618id_/http%3A//www.macrovision.com/company/legal/legal_and_privacy.shtml) for the most accurate reproduction.*
 
-# Macrovision | Legal | Legal and Privacy Notices
+# Macrovision | Legal and Privacy Notices
 
 Macrovision respects your privacy and is committed to protect the personal information that you share with us. Generally, you can browse through our website without giving us any information about yourself. When we do need your personal information to provide services that you request or when you choose to provide us with your personal information, this policy describes how we collect and use your personal information.
 
