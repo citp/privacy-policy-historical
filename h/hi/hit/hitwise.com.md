@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitwise.com privacy policy that was archived on 2005-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050624235810id_/http%3A//www.hitwise.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitwise.com privacy policy that was archived on 2005-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051014114647id_/http%3A//www.hitwise.com/info/privacy.html) for the most accurate reproduction.*
 
 # Purchase Competitive Intelligence - Hitwise
 
@@ -6,15 +6,15 @@
 
 The Statement is broken down into several key areas for your benefit:
 
-[**What personally identifiable information is collected?**](https://web.archive.org/web/20050624235810id_/http%3A//www.hitwise.com/info/privacy.html#cp1)   
-[**Are Cookies and Log files used?**](https://web.archive.org/web/20050624235810id_/http%3A//www.hitwise.com/info/privacy.html#cp2)   
-[**Does Hitwise disclose information to Third Parties?**](https://web.archive.org/web/20050624235810id_/http%3A//www.hitwise.com/info/privacy.html#cp3)   
-[**Links to Third Party Sites**](https://web.archive.org/web/20050624235810id_/http%3A//www.hitwise.com/info/privacy.html#cp4)   
-[**Can I change or delete information secured?**](https://web.archive.org/web/20050624235810id_/http%3A//www.hitwise.com/info/privacy.html#cp5)   
-[**Choices available for Collection and Use**](https://web.archive.org/web/20050624235810id_/http%3A//www.hitwise.com/info/privacy.html#cp6)   
-[**Children's Online Privacy Protection**](https://web.archive.org/web/20050624235810id_/http%3A//www.hitwise.com/info/privacy.html#cp7)   
-[**Legal nature of this Privacy Statement**](https://web.archive.org/web/20050624235810id_/http%3A//www.hitwise.com/info/privacy.html#cp8)   
-[**Contact our Privacy Office**](https://web.archive.org/web/20050624235810id_/http%3A//www.hitwise.com/info/privacy.html#cp9)
+[**What personally identifiable information is collected?**](https://web.archive.org/web/20051014114647id_/http%3A//www.hitwise.com/info/privacy.html#cp1)   
+[**Are Cookies and Log files used?**](https://web.archive.org/web/20051014114647id_/http%3A//www.hitwise.com/info/privacy.html#cp2)   
+[**Does Hitwise disclose information to Third Parties?**](https://web.archive.org/web/20051014114647id_/http%3A//www.hitwise.com/info/privacy.html#cp3)   
+[**Links to Third Party Sites**](https://web.archive.org/web/20051014114647id_/http%3A//www.hitwise.com/info/privacy.html#cp4)   
+[**Can I change or delete information secured?**](https://web.archive.org/web/20051014114647id_/http%3A//www.hitwise.com/info/privacy.html#cp5)   
+[**Choices available for Collection and Use**](https://web.archive.org/web/20051014114647id_/http%3A//www.hitwise.com/info/privacy.html#cp6)   
+[**Children's Online Privacy Protection**](https://web.archive.org/web/20051014114647id_/http%3A//www.hitwise.com/info/privacy.html#cp7)   
+[**Legal nature of this Privacy Statement**](https://web.archive.org/web/20051014114647id_/http%3A//www.hitwise.com/info/privacy.html#cp8)   
+[**Contact our Privacy Office**](https://web.archive.org/web/20051014114647id_/http%3A//www.hitwise.com/info/privacy.html#cp9)
 
  **What personally identifiable information is collected?**   
 Hitwise collects information from customers in a fair and lawful manner for the purposes of identification and billing. Hitwise may collect details from newsletter subscribers and customers of our service that include name, address, e-mail address, fax and telephone numbers. Other demographic information may be collected for the purpose of in-house direct marketing campaigns, in accordance with relevant Legislation. A newsletter subscriber (or a customer) may however, choose to opt out of such campaigns through contacting the Privacy Manager at [privacy@hitwise.com](mailto:privacy@hitwise.com). 
@@ -55,10 +55,10 @@ This privacy policy relates to the data collected by Hitwise from data partners 
 
 This Statement is broken down into several key areas for your benefit: 
 
-[**Who are Hitwise's data partners?**](https://web.archive.org/web/20050624235810id_/http%3A//www.hitwise.com/info/privacy.html#pp1)   
-[What information is collected?](https://web.archive.org/web/20050624235810id_/http%3A//www.hitwise.com/info/privacy.html#pp2)   
-[Does Hitwise collect any personally identifiable information?](https://web.archive.org/web/20050624235810id_/http%3A//www.hitwise.com/info/privacy.html#pp3)   
-[Contact our Privacy Office](https://web.archive.org/web/20050624235810id_/http%3A//www.hitwise.com/info/privacy.html#pp4)
+[**Who are Hitwise's data partners?**](https://web.archive.org/web/20051014114647id_/http%3A//www.hitwise.com/info/privacy.html#pp1)   
+[What information is collected?](https://web.archive.org/web/20051014114647id_/http%3A//www.hitwise.com/info/privacy.html#pp2)   
+[Does Hitwise collect any personally identifiable information?](https://web.archive.org/web/20051014114647id_/http%3A//www.hitwise.com/info/privacy.html#pp3)   
+[Contact our Privacy Office](https://web.archive.org/web/20051014114647id_/http%3A//www.hitwise.com/info/privacy.html#pp4)
 
  **Who are Hitwise's data partners?**   
 Hitwise partners with Internet Service Providers (ISPs) as well as companies who have established panels of Internet users through a clear and robust opt-in process. 
