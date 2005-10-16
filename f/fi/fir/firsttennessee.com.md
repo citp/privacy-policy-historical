@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firsttennessee.com privacy policy that was archived on 2005-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050526082812id_/http%3A//www.firsttennessee.com/index.cfm%3FFuseaction%3DPotpourri.ViewContent%26Item%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firsttennessee.com privacy policy that was archived on 2005-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051016121344id_/http%3A//www.firsttennessee.com/index.cfm%3FFuseaction%3DPotpourri.ViewContent%26Item%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # First Tennessee | All Things Financial : Privacy Policy
 
@@ -94,7 +94,7 @@ Our privacy promise applies to information about current and former customers of
   * First Horizon Investment Services+
   * First Horizon Lending Center***
   * First Horizon Mint Distribution, Inc.
-  * First Horizon MSAvers Resources, Inc.
+  * First Horizon MSAver Resources, Inc.
   * First Tennessee Bank National Association
   * First Tennessee Brokerage, Inc.
   * First Tennessee Insurance Services, Inc.
@@ -119,6 +119,10 @@ Our privacy promise applies to information about current and former customers of
   * **First Horizon Home Loan Corporation doing business as First Horizon Home Loans
   * ***First Horizon Home Loan Corporation doing business as First Horizon Lending Center
   * xPolk & Sullivan Group, Inc. doing business as Killebrew, Lyman & Woodworth
-  * XXPolk & Sullivan Group, Inc. doing business as Synaxis Benefits Services
+  * xx Polk & Sullivan Group, Inc. doing business as Synaxis Benefits Services
 
 
+
+## Our Web Linking Policy
+
+Our Web site may contain links to content provided by third-party sources. First Horizon and its affiliates can not be held responsible for content found on any sites beyond our own.
