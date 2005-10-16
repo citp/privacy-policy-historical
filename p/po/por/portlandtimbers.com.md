@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portlandtimbers.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405212736id_/http%3A//www.pgepark.com/timbers/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portlandtimbers.com privacy policy that was archived on 2005-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051016234031id_/http%3A//www.pgepark.com/timbers/privacyPolicy.html) for the most accurate reproduction.*
 
 # 
 
