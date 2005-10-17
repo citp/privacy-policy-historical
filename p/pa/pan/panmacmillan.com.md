@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panmacmillan.com privacy policy that was archived on 2005-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050325013034id_/http%3A//www.panmacmillan.com/aboutPan/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panmacmillan.com privacy policy that was archived on 2005-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051017090817id_/http%3A//www.panmacmillan.com/aboutPan/privacypolicy.html) for the most accurate reproduction.*
 
 # Pan Macmillan
 
