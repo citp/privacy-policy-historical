@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pakheaven.com privacy policy that was archived on 2005-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050408124954id_/http%3A//www.pakheaven.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakheaven.com privacy policy that was archived on 2005-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051018001614id_/http%3A//pakheaven.com/privacy.html) for the most accurate reproduction.*
 
 # PakHeaven.com --- Privacy Policy
 
