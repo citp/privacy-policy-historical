@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laptoplogic.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407192403id_/http%3A//www.laptoplogic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laptoplogic.com privacy policy that was archived on 2005-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051018141505id_/http%3A//www.laptoplogic.com/privacy) for the most accurate reproduction.*
 
 # Laptop Logic Notebook Laptop Reviews and News
 
@@ -51,4 +51,4 @@ LaptopLogic.com may contain links to other Web sites. LaptopLogic.com is not res
 LaptopLogic.com will use its best efforts to protect the security of your personal information and honor your choices for its intended use. Your personal information is never shared outside the company without your permission, except under conditions explained above. 
 
 **Contact Information**   
-We welcome your comments regarding this Statement of Privacy, please contact us at [info@laptoplogic.com](mailto:info@laptoplogic.com)
+We welcome your comments regarding this Statement of Privacy, please contact us at [info@laptoplogic.com](mailto:info@laptoplogic.com)  
