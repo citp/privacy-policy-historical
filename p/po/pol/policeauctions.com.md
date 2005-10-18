@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the policeauctions.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206014141id_/http%3A//www.policeauctions.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the policeauctions.com privacy policy that was archived on 2005-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051018170119id_/http%3A//www.policeauctions.com/privacy.php) for the most accurate reproduction.*
 
 # #1 PoliceAuctions.com
 
