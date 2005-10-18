@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the managemyhome.com privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613162920id_/http%3A//www.managemyhome.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the managemyhome.com privacy policy that was archived on 2005-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051018073751id_/http%3A//www.managemyhome.com/privacy.htm) for the most accurate reproduction.*
 
 # Manage My Home
-
-**Privacy Statement for Manage My Home**
 
 **Purpose**
 
@@ -20,7 +18,7 @@ This policy does not cover the actions of companies that Manage My Home does not
 
 Manage My Home collects personally identifiable information when you become a member, fill out your home inventory, and ask an expert. If your membership to Manage My Home is sponsored by one of our business partners, Manage My Home may also receive personally identifiable information from the partner. 
 
-Manage My Home uses this information to customize the maintenance reminders that are sent to you periodically and to better answer your questions when you use the "ask an expert" function. The information will also be used to fill your requests for specific information about products and services. 
+Manage My Home uses this information to customize the maintenance reminders that are sent to you periodically and to better answer your questions when you use the "ask an expert" function. 
 
 Manage My Home also monitors usage of the site by all subscribers to help us to improve the usability and content of the site. 
 
@@ -30,8 +28,8 @@ At any time, you can view your own information at Manage My Home, correct any in
 
 **Security**
 
-Your personally identifiable information is password protected to prevent others from accessing your information. Our site also protects your security through the use of VeriSign's Web Server Identification, ensuring you have reached the correct site and allowing you to transmit sensitive information fully encrypted. 
+Your personally identifiable information is password protected to prevent others from accessing your information. Our site also protects your security through the use of a 128-bit Web Server Digital Certificate, ensuring you have reached the correct site and allowing you to transmit sensitive information fully encrypted. 
 
 **Unsubscribe**
 
-At any time, you can request that we stop sending you further information from Manage My Home by simply [unsubscribing](https://web.archive.org/cgi-bin/unsubscribe.cgi). When you unsubscribe from Manage My Home your information is deleted from our files. 
+At any time, you can request that we stop sending you further information from Manage My Home by simply [unsubscribing](https://web.archive.org/web/20051018073751id_/http%3A//www.managemyhome.com/template/emailLogin.asp?loginAction=unsubscribe). 
