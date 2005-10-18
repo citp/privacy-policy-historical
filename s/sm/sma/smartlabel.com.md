@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the smartlabel.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403231736id_/http%3A//www.newgistics.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartlabel.com privacy policy that was archived on 2005-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051018123413id_/http%3A//www.newgistics.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Newgistics.com - Privacy Policy
 
-[Home](https://web.archive.org/web/20050403231736id_/http%3A//www.newgistics.com/index.php) > Privacy Policy 
+[Home](https://web.archive.org/web/20051018123413id_/http%3A//www.newgistics.com/index.php) > Privacy Policy 
 
 Privacy Policy
 
-Newgistics has created this privacy statement to explain why we collect particular information and how we will protect your personal privacy within our Web sites. The following document discloses our information gathering and dissemination practices for [ www.newgistics.com ](http://www.newgistics.com/) (collectively, the "Site"). Newgistics reserves the right to change this policy at any time by posting a new privacy policy at this location. Any such change will be effective immediately upon posting.
+Newgistics has created this privacy statement to explain why we collect particular information and how we will protect your personal privacy within our Web sites. The following document discloses our information gathering and dissemination practices for [ www.newgistics.com ](http://www.newgistics.com/index.php) (collectively, the "Site"). Newgistics reserves the right to change this policy at any time by posting a new privacy policy at this location. Any such change will be effective immediately upon posting.
 
-What Information We Collect and How We Use That Information
+## What Information We Collect and How We Use That Information
 
 Newgistics is the sole owner of the information collected on the Site. This Site does not collect personally identifying information about you except when you specifically and knowingly provide it. However, we do collect information from you in the following ways: 
 
@@ -23,14 +23,16 @@ We will not disclose personally identifying information without your express per
 
 Except as expressly stated in this Privacy Policy, Newgistics will not sell, share or rent personally identifiable information to any other companies. 
 
-Information from Children
+## Information from Children
 
 Our Site is for adults and usage by children is not intended. We do not seek to collect personal information about children through our Site. If a child submits information to us through any part of our Site, and we know that the user submitting the information is a child, we delete the information as soon as we discover it and do not use it for any purpose, nor do we disclose it to third parties. 
 
-Exception to Privacy Policy
+## Exception to Privacy Policy
 
 Newgistics will provide personally identifying information about users when required by law or governmental authority including, without limitation, under request of subpoena. 
 
-Other Web Sites
+## Other Web Sites
 
 Our Site contains links to other Web sites. Please note that when you click on one of these links, you are entering another Web site for which Newgistics has no responsibility. We encourage you to read the privacy statements on all such sites as their policies may be different than ours.
+
+Copyright © 2004-2005, Newgistics, Inc. All rights reserved. SmartLabel is a registered trademark of Newgistics, Inc. 
