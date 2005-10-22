@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shop.com privacy policy that was archived on 2005-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050514024757id_/http%3A//amos.shop.com/amos/cc/main/ccn_privacy/ccsyn/260) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shop.com privacy policy that was archived on 2005-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051023015225id_/http%3A//www.shop.com/amos/cc/main/ccn_privacy/ccsyn/260) for the most accurate reproduction.*
 
 # Privacy Notice - SHOP.COM
 
@@ -28,7 +28,7 @@ Monterey, CA 93940
 Telephone: (831) 649-2489  
 E-mail: [Customer Service](mailto:customerservice@shop.com)
 
-If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe.](http://www.truste.org/consumers/watchdog_complaint.php)
+If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe.](http://www.truste.org/ivalidate.php?url=www.shop.com&sealid=101)
 
 **Information Collection and Use**  
 We want you to feel safe while visiting any site developed or managed by Altura ("powered by Altura"), and we promise: We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. We will never share your credit card number or personal details with any third party, other than stores from whom you make purchases. SHOP.COM collects information from our users at several different points on our website. Information is collected when you: 
@@ -65,7 +65,7 @@ The personal information you enter during registration and/or during checkout is
 Your Address Book is the area in Your Account where the billing address you enter during registration is stored. After registration, you also have the option to add shipping addresses. You can do this by going directly to Your Account, or by entering a new shipping address when placing an order. Shipping addresses are used solely for the purpose of fulfilling your orders, and will not be used for any marketing purposes either by SHOP.COM or the store you have made the purchase with.
 
 **Shopping/Gift Services**  
-SHOP.COM provides you with a number of Shopping and Gift services. Some of these require personal information in order to carry out the given task. For example, to create a SHOP.COM account you may want to provide us with the name of a second recipient other than yourself, or a shipping address if different than that in your address book. With services like eGifts, E-Cards, and "send this product to a friend" we will need to know the recipient's email address so that we can send the requested communication to them via email. If you choose to purchase a Gift Certificate, you will need to provide us with the recipient's name and email address or street address, depending on how you wish the certificate to be sent. These services only require the minimal amount of information necessary to carry out the task at hand and nothing more. Although we do store this information in our database for tracking purposes, we make no other use of it beyond which it was intended." 
+SHOP.COM provides you with a number of Shopping and Gift services. Some of these require personal information in order to carry out the given task. For example, to create a SHOP.COM account you may want to provide us with the name of a second recipient other than yourself, or a shipping address if different than that in your address book. With services like eGifts, eCard, and "send this product to a friend" we will need to know the recipient's email address so that we can send the requested communication to them via email. If you choose to purchase a Gift Certificate, you will need to provide us with the recipient's name and email address or street address, depending on how you wish the certificate to be sent. These services only require the minimal amount of information necessary to carry out the task at hand and nothing more. Although we do store this information in our database for tracking purposes, we make no other use of it beyond which it was intended." 
 
 "If you signed up to receive email offers for Deal Mail while visitng our d Center or signed up to receive Sign Up and Save email offers from the SHOP.COM homepage and would like to be removed from these mailings, please email us at [customerservice@shop.com](mailto:customerservice@shop.com) with your name and email address if you want to be removed from this service.
 
@@ -81,9 +81,14 @@ SHOP.COM uses an email link located on the Customer Service page to allow you to
 We also have an email link located on our "Tell Us What You Think" page. This link allows you to give us feedback about our site and make suggestions on what we can do to improve it. We read every message sent in. We may file your comments to improve the site, or review and discard the information. We do not use the email address you supply us for any marketing purposes.
 
 **Sharing**  
-If you have agreed to receive offers from our stores, we will provide them your contact information when we forward your order or catalog request to them. They will then include you on their store mailing list. If you have agreed to receive email offers from our stores, they will include you on their email marketing list. 
+**Sharing with Our Merchants**  
+If you have agreed to receive offers from our stores, we will provide them your contact information when we forward your order or catalog request to them. They will then include you on their store mailing list. If you have agreed to receive email offers from our stores, they will include you on their email marketing list.
 
-If you have agreed to receive offers from third-party marketing partners, the personal information you have provided us and information about your order may be shared with third parties. This information may be combined with other personally identifiable information (such as demographic information and past purchase information) available from our records and other sources to make their future marketing efforts more effective. It may also be used by them to bring you offers of interest. If you prefer that your name and address not be shared with these third parties, do not select these options when you create your account and we will not share your information without your prior consent.
+**Sharing with Third Party Marketing Partners**  
+If you have agreed to receive offers from third-party marketing partners, the personal information you have provided us and information about your order may be shared with third parties. This information may be combined with other personally identifiable information (such as demographic information and past purchase information) available from our records and other sources to make their future marketing efforts more effective. It may also be used by third parties to bring you offers of interest. If you prefer that your name and address not be shared with these third parties, do not select these options when you create your account and we will not share your information without your prior consent.
+
+**Using Third-Party Data to Improve Our Marketing Efforts on Your Behalf**  
+SHOP.COM is constantly improving the service and products we provide our customers. To aid us in serving you better, we may combine personally identifiable information available from our records (such as demographic information and past purchase information) with information available from other sources. SHOP.COM may also hire third parties to help us in analysis of our customer data or the development of new products. As a result these third parties may be given access to some or all of the information you provide to SHOP.COM. SHOP.COM requires these third parties to maintain your information in the strictest confidence and to ensure that they respect the privacy settings you have selected for the handling of your personal information on the SHOP.COM site.
 
 **Postal Address Info**  
 If you have agreed to receive offers from SHOP.COM we occasionally provide your name and postal address (but not your email address) to a select group of companies whose products you may find of interest. If you do not want us to share this information with these companies, we can add your name to our "do-not-share" list. Please email us at [donotshare@altura.com](mailto:donotshare@altura.com) with your name and postal address if you do not want us to share this information.
@@ -126,9 +131,9 @@ Building 1, Suite 210
 Monterey, CA 93940  
 Telephone: (831) 649-2489  
 E-mail: [Customer Service](mailto:customerservice@shop.com)  
-Web: [Contact Customer Service](http://amos.shop.com/amos/cc/main/ccn_cs_email/ccsyn/260)  
+Web: [Contact Customer Service](http://www.shop.com/amos/cc/main/ccn_cs_email/ccsyn/260)  
 
 
-Updated: 1/13/05
+Updated: 8/3/05
 
 Back to top of page | 
