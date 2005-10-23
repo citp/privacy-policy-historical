@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the go4promotion.com privacy policy that was archived on 2005-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050626081358id_/http%3A//www.go4promotion.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go4promotion.com privacy policy that was archived on 2005-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051023223459id_/http%3A//go4promotion.com/privacy.htm) for the most accurate reproduction.*
 
 # web development promotion,website promotion companies,india seo specialist,website promotion services,search engine optimization company
 
@@ -89,7 +89,7 @@ Some of our business partners may use cookies on our site (for example, advertis
   
 ---  
   
-[](https://web.archive.org/web/20050626081358id_/http%3A//www.go4promotion.com/weblog.htm)  
+[](https://web.archive.org/web/20051023223459id_/http%3A//go4promotion.com/weblog.htm)  
   
 ---  
   
