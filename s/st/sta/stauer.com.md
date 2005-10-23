@@ -1,18 +1,12 @@
-> *The following text is extracted and transformed from the stauer.com privacy policy that was archived on 2004-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040723095724id_/http%3A//www.nextten.com/securityandprivacy/SecurityandPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stauer.com privacy policy that was archived on 2005-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051023215302id_/http%3A//www.nextten.com/securityandprivacy/SecurityandPrivacy.aspx) for the most accurate reproduction.*
 
-# NextTen - Security and Privacy
+# NeXtten - Security and Privacy
 
 |   
 | 
 
-  
-
-
-[](https://web.archive.org/customerservice/guarantee.aspx)
-
-|   
+| [](https://web.archive.org/customerservice/guarantee.aspx)  
 ---  
-[](http://digitalid.verisign.com/as2/7e7c24b5fd0653513029d55bc6a9951a)  
 |   
 | 
 
