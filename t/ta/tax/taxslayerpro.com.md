@@ -1,19 +1,16 @@
-> *The following text is extracted and transformed from the taxslayerpro.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401200003id_/http%3A//www.taxslayerpro.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxslayerpro.com privacy policy that was archived on 2005-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051024050634id_/http%3A//www.taxslayerpro.com/privacy.aspx) for the most accurate reproduction.*
 
-# TaxSlayer® Pro
+# Privacy Policy
 
-**YOUR PRIVACY IS A PRIORITY TO US**
-
-At TaxSlayerPro.com(TaxSlayer®), we are committed to safeguarding customer information. Since your privacy is a priority to us, TaxSlayer will not share nonpublic information about you with third parties outside of the TaxSlayer corporate family without your consent, except as explained in our Privacy Policy.
+**YOUR PRIVACY IS A PRIORITY TO US  
+**At TaxSlayerPro.com(TaxSlayer®), we are committed to safeguarding customer information. Since your privacy is a priority to us, TaxSlayer will not share nonpublic information about you with third parties outside of the TaxSlayer corporate family without your consent, except as explained in our Privacy Policy.
 
 We have created our Privacy Policy to communicate our privacy commitment to you, and to serve your privacy needs.
 
-**PRIVACY POLICY**
+**PRIVACY POLICY  
+**Protecting your privacy is important to TaxSlayer. We want you to understand what information we may gather and how we may share it. This Privacy Policy explains TaxSlayer's collection, use, retention and security of information about you.
 
-Protecting your privacy is important to TaxSlayer. We want you to understand what information we may gather and how we may share it. This Privacy Policy explains TaxSlayer's collection, use, retention and security of information about you.
-
-How We Collect Information   
-
+How We Collect Information
 
 Visiting our Web Site   
 We will not collect personal information about you just because you visit this site. In order to improve the usefulness of our web site for our visitors, we automatically collect and maintain statistical information from our site's data logs that concern network traffic flow and volume. This information consists of:  
@@ -26,9 +23,8 @@ This information does not identify individual visitors and is used to enhance an
 Purchasing our Products   
 The purpose of this site is to market and sell our software. As a result, you may have to provide us your personal information and/or email address. We do not share or disseminate this information to other vendors or clients.  This information is kept in strictest, secure, confidence. If you choose to purchase our products online, you will be asked for personal information as well as your credit card number.  The forms requesting this information are on a secure server.  All steps are taken to safeguard your information.
 
-Sharing Information  
-Within TaxSlayer Corporate Family   
-We may share information about you and the products and services you have purchased from us, among members of the TaxSlayer Corporate family, all of whom follow our Privacy Policy. However, this information will not be provided to third parties outside or corporate family, except as noted below: 
+Sharing Information Within TaxSlayer Corporate Family   
+We may share information about you and the products and services you have purchased from us, among members of the TaxSlayer Corporate family, all of whom follow our Privacy Policy. However, this information will not be provided to third parties outside or corporate family, except as noted below:
 
 With Service Providers   
 In some cases, we employ service providers to provide a product you order, to fulfill a service you request, or to market one of our products or services. Examples include delivering downloadable products, offering online software applications, or sending e-mails on our behalf. While this may require us to share information, these service providers are strictly prohibited from using your information other than to act on our behalf.
@@ -51,5 +47,3 @@ We strive to keep our customer information as accurate and complete as we can. I
 
 Other Information   
 The Privacy Policy applies to products and services of TaxSlayer®. We reserve the right to change this Privacy Policy, and any of the policies described above, at any time. The examples contained within this Privacy Policy are illustrations; they are not intended to be exclusive.
-
-* * *
