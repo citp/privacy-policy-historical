@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igf.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403110505id_/http%3A//www.gdconf.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igf.com privacy policy that was archived on 2005-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051024193607id_/http%3A//www.gdconf.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Game Developers Conference 2005 - Privacy Policy
 
