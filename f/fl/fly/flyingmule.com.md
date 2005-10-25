@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyingmule.com privacy policy that was archived on 2005-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050303202438id_/http%3A//www.flyingmule.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyingmule.com privacy policy that was archived on 2005-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051025211832id_/http%3A//www.flyingmule.com/privacy) for the most accurate reproduction.*
 
 # The Flying Mule: Privacy Policy
 
