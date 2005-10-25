@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the flyingmule.com privacy policy that was archived on 2005-03-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050303202438id_/http%3A//www.flyingmule.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flyingmule.com privacy policy that was archived on 2005-10-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051025211832id_/http%3A//www.flyingmule.com/privacy) for the most accurate reproduction.-->
 
 <html><head>
       <base href="http://www.flyingmule.com/Merchant2/">
@@ -16,13 +16,13 @@
 
    <body onload="prdInit()">
 
-      <table width="100%" height="100%" bgcolor="AB822A" class="clsBorder">
+      <table width="100%" height="100%" class="clsBorder">
          <tbody><tr valign="top">
             <td class="clsBorder">
                <table width="100%" height="100%" background="/img/pge_tl.gif" cellpadding="0" cellspacing="0" border="0">
                   <tbody><tr>
                      <td rowspan="2"><img src="/img/pge_spc.gif" width="100" height="1" border="0"></td>
-                     <td><img src="/img/pge_spc.gif" width="1" height="41" border="0"></td>
+                     <td><img src="/img/pge_spc.gif" width="1" height="48" border="0"></td>
                   </tr>
                   <tr>
                      <td width="100%">
@@ -31,11 +31,11 @@
                               <td align="left" nowrap="nowrap">
                                  <a href="http://www.flyingmule.com/"><img src="/img/nav_btn_home.gif" border="0"></a>&nbsp;
                                  <a href="http://www.flyingmule.com/help/"><img src="/img/nav_btn_help.gif" border="0"></a>&nbsp;
-                                 <a href="http://www.flyingmule.com/news/"><img src="/img/nav_btn_news.gif" border="0"></a>&nbsp;
                                  <a href="http://www.flyingmule.com/powersearch/"><img src="/img/nav_btn_powersearch.gif" border="0"></a>&nbsp;
                               </td>
                               <td align="right" nowrap="nowrap">
                                  <a href="https://flyingmule.hostasaurus.com/Merchant2/merchant.mvc?Screen=LOGN&amp;Store_Code=AV"><img src="/img/nav_btn_account.gif" border="0" onclick="strURL = utlGetCookie( 'ACC_URL' ); if (strURL != null) {top.location.href = strURL;} return (strURL == null);"></a>&nbsp;
+                                 <a href="http://www.flyingmule.com/Merchant2/merchant.mvc?Screen=MYWISH&amp;Store_Code=AV"><img src="/img/nav_btn_wishlist.gif" border="0"></a>&nbsp;
                                  <a href="http://www.flyingmule.com/Merchant2/merchant.mvc?Screen=BASK&amp;Store_Code=AV"><img src="/img/nav_btn_basket.gif" border="0"></a>&nbsp;
                                  <a href="https://flyingmule.hostasaurus.com/Merchant2/merchant.mvc?Screen=OINF&amp;Store_Code=AV"><img src="/img/nav_btn_checkout.gif" border="0" onclick="strURL = utlGetCookie( 'CHK_URL' ); if (strURL != null) {top.location.href = strURL;} return (strURL == null);"></a>
                               </td>
@@ -149,6 +149,7 @@ If you have questions or suggestions please contact us.<p></p>
                   <tr>
                      <td>
                         <table width="100%" height="100%" class="clsBorder">
+                           <script>utlWriteGotoProductForm();</script>
                            <tbody><tr>
                               <td class="clsBorder">
                                 <!-- START: Special Offer -->        
@@ -160,12 +161,12 @@ If you have questions or suggestions please contact us.<p></p>
                            </tr>
                            <tr>
                               <td class="clsBorder">
-                                 <!-- START: Product Search -->        
-                                 <form name="QuickSearchForm" method="get" action="http://www.flyingmule.com/powersearch/" onsubmit="utlSetSearchField( Search, CAT_USR, document.strCat, IncCat.checked )">
-                                    <span class="clsSearch"><b>Product Search:</b></span>
+                                 <!-- START: Simple Search -->        
+                                 <form name="SimpleSearchForm" method="get" action="http://www.flyingmule.com/powersearch/" onsubmit="utlSetSearchField( Search, utlWordToCatSearch( stoGetCat( 'CAT_TYP' ), CAT_USR.value ), document.strCat, IncCat.checked )">
+                                    <span class="clsSearch"><b>Simple Search:</b></span>
                                     <br>
                                     <img src="/img/pge_spc.gif" width="1" height="1" border="0">
-                                    <input type="text" name="CAT_USR" size="18" class="clsSearch">
+                                    <input type="text" name="CAT_USR" size="16" class="clsSearch">
                                     <input type="image" src="/img/pge_btn_search.gif" align="absbottom">
                                     <table cellpadding="0" cellspacing="0">
                                        <tbody><tr valign="top">
@@ -182,8 +183,9 @@ If you have questions or suggestions please contact us.<p></p>
                                     </tbody></table>
                                     <input type="hidden" name="Search">
                                  </form>
-                                 <!-- END: Product Search -->        
-                              </td>
+                                 <p align="right" class="clsSearch"><a href="/powersearch/">Advanced Search</a>
+                                 <!-- END: Simple Search -->        
+                              </p></td>
                            </tr>
                            <tr>
                               <td class="clsBorder">
@@ -257,7 +259,7 @@ If you have questions or suggestions please contact us.<p></p>
                      <td align="right">
                         <font size="-2">
                            
-                           Stock status: Mar 03, 2005
+                           Stock status: Oct 25, 2005
                         </font>
                      </td>
                   </tr>
