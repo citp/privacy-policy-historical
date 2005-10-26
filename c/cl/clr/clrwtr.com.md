@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clrwtr.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406234558id_/http%3A//www.clrwtr.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clrwtr.com privacy policy that was archived on 2005-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051026030011id_/http%3A//www.clrwtr.com/privacy_policy.htm) for the most accurate reproduction.*
 
-# Clearwater Technologies Industrial Automation Parts Distributors USA Yaskawa ABB AC Tech Saftronics SEW Eurodrive Leeson Xycom Sola Sunx IDEC Hammond
+# CTI Industrial Factory Automation Parts Distributors USA ABB AC Tech Xycom SEW Turck Sola Sunx Leeson Saftronics IDEC Hammond Lenze
 
 [**www.clrwtr.com**](http://www.clrwtr.com/) wants to demonstrate our firm commitment to privacy by providing you this privacy policy statement.
 
