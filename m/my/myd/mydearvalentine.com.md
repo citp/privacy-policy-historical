@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydearvalentine.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308185212id_/http%3A//mydearvalentine.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydearvalentine.com privacy policy that was archived on 2005-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051026030109id_/http%3A//www.mydearvalentine.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - MyDearValentine.com
 
