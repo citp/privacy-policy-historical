@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmdhealth.com privacy policy that was archived on 2005-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050618013127id_/http%3A//my.webmd.com/who_we_are/privacy/default.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmdhealth.com privacy policy that was archived on 2005-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051027195215id_/http%3A//my.webmd.com/who_we_are/privacy/default.htm) for the most accurate reproduction.*
 
 # Privacy, Ethics & You
 
