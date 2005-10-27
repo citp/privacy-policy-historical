@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the approvedindex.co.uk privacy policy that was archived on 2005-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050410115424id_/http%3A//www.approvedindex.co.uk/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the approvedindex.co.uk privacy policy that was archived on 2005-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051027202920id_/http%3A//www.approvedindex.co.uk/privacypolicy.htm) for the most accurate reproduction.*
 
 # Approved Index - Bringing together buyers and suppliers of services
 
   
-At Approved Index Ltd we value your right to privacy. However, in order to run an efficient and effective service, there is certain information about our users that we need to collect and use. 
+At Approved Index Ltd we value your right to privacy. However, in order to run an efficient and effective service, there is certain information about our users that we need to collect and use.
 
   
-In general, you can browse the Approved Index Ltd website without disclosing any information about yourself. 
-
-Submitting personal information on our site is optional. 
+In general, you can browse the Approved Index website without disclosing any information about yourself at all. Submitting personal information on our site is optional. 
 
 When you submit an enquiry we ask for information such as your name, email address, phone number and criteria specific to your enquiry. This information will only be released to those suppliers that are selected on the directory page on which you submit an enquiry. 
 
@@ -19,17 +17,17 @@ Whenever you provide such personal information, we will treat that information i
   
 Approved Index Ltd may disclose and use personal information collected about you within its own organisation for the purpose of internal business administration and analysis. 
 
-We will respect your email privacy. You will not receive unsolicited mail from Approved Index Ltd and/or from third parties. We will, however, mail you occasionally with information about Approved Index Ltd or important changes to our service. 
+We will respect your email privacy. You will not receive unsolicited mail from Approved Index Ltd and/or from third parties. We may, however, mail you occasionally with information about Approved Index Ltd or important changes to our service. 
 
 We will not rent, trade or sell your data to others. 
 
-We monitor customer traffic patterns and site usage in order to help develop the design and layout of the website. 
+We monitor customer traffic patterns and site usage in order to help develop the design and layout of our websystem.
 
 For these purposes we may send your information internationally, including to countries outside the European Economic Association. Other countries offer differing levels of protection for personal information, not all of which will be as high as the levels of protection offered in the UK. 
 
 We have strict procedures governing the storage and disclosure of personal details to prevent unauthorised access and misuse. 
 
-In addition, all the enquirer’s personal information is password-protected: only Approved Index Ltd and the suppliers that have been selected by the enquirer have access to the enquirer personal information. 
+In addition, all the enquirer’s personal information is password-protected: only Approved Index Ltd and the suppliers that have been selected by the enquirer have access to an enquirer's personal information. 
 
   
 You have the right to request a copy of the personal information Approved Index Ltd holds about you and to have any inaccuracies corrected. (We charge £10 for information requests.) Please address any requests to [personalinfo@approvedindex.co.uk](mailto:personalinfo@approvedindex.co.uk).
@@ -80,6 +78,6 @@ To enable cookies for Netscape Navigator, do the following:
 Just click on a cookie to open it. You'll see a short string of text and numbers. 
 
   
-By disclosing your personal information to Approved Index Ltd , you consent to the collection, storage and processing of your personal information in the manner set out in this Privacy policy. 
+By disclosing your personal information to Approved Index Ltd , you consent to the collection, storage and processing of your personal information in the manner set out in this Privacy Policy. 
 
 Do you have any other questions about privacy? We want you to feel happy about any information you give us and know that you have control over the way it is used. If you have any questions about our Privacy policy, please email them to us [feedback@approvedindex.co.uk](mailto:feedback@approvedindex.co.uk) . 
