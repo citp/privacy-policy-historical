@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webhosting.uk.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204044928id_/http%3A//www.webhosting.uk.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhosting.uk.com privacy policy that was archived on 2005-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051027191616id_/http%3A//webhosting.uk.com/privacy.htm) for the most accurate reproduction.*
 
 # Welcome To Webhosting.uk.com :: Toll Free :: 0800 097 4814
 
