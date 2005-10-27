@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pscu.org privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403232536id_/http%3A//www.pscu.org/aboutpscu/privacypolicy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pscu.org privacy policy that was archived on 2005-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051028000427id_/http%3A//www.pscu.org/aboutpscu/privacypolicy/index.asp) for the most accurate reproduction.*
 
 # About PSCU - Privacy Policy
 
