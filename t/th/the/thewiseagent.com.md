@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewiseagent.com privacy policy that was archived on 2005-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050411034621id_/http%3A//www.thewiseagent.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewiseagent.com privacy policy that was archived on 2005-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051028045720id_/http%3A//www.thewiseagent.com/privacy.asp) for the most accurate reproduction.*
 
 # Real Estate Marketing - Contact Management - Transaction Management - The Wise Agent
 
