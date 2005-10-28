@@ -1,46 +1,53 @@
-> *The following text is extracted and transformed from the entrust.net privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406220310id_/http%3A//www.entrust.net/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entrust.net privacy policy that was archived on 2005-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051028043155id_/http%3A//www.entrust.com/privacy) for the most accurate reproduction.*
 
-# Entrust.Net - Secure e-commerce connections
+# Entrust Resources: Entrust Web Site Privacy Statement
 
-| 
+We hope that your visit to our site is both informative and useful. As a world leader in securing digital identities and information, we feel that privacy and security are two cornerstones of doing business over the Internet. As a result, Entrust is dedicated to safeguarding the personal information you give us and to providing our customers with the tools, service and support to develop their own world-class privacy and security solutions.
 
-We hope that your visit to our site is both informative and useful. 
+The goal of this privacy statement is to disclose Entrust's data protection practices in relation to personal information collected at Entrust's Internet web sites located www.Entrust.com and www.Entrust.net. These practices have been implemented only on Entrust Inc.'s web sites (including subsidiaries of Entrust Inc.) at www.Entrust.com and www.Entrust.net. Please note that these web-sites contain links to other sites and Entrust is not responsible for the privacy practices of such sites. In the context of this privacy statement, "personal information" does not include name, title, business address or telephone number of an employee of an organization.
 
-### Information this Site Gathers/Tracks
+Safeguarding your personal information is good business — it helps foster confidence, goodwill and stronger relationships with you, our customers. If, at any time, you have questions or concerns about our privacy practices, please feel free to contact us.
 
-We collect domain names only. There are a few pages where you may choose to register for an event or to fill out an application form / questionnaire. The information you fill out on those forms can help you register for an event or apply to become a partner. In some cases we need your feedback to tell us if we are doing a good job with product materials. Your information is not shared outside of Entrust.net Inc and may be used to contact you at a later date. However we will often give you an opt-out on the form itself should you not wish to be contacted in the future. 
+In our business, we use appropriate security safeguards and Entrust's award-winning solutions and adhere to Eight Privacy Principles to make sure that your personal information is protected.
 
-### Use of the Information this Site Gathers/Tracks
+As a world leader in Internet security, Entrust will ensure that your personal information is protected by security safeguards that are appropriate to the sensitivity level of the information.
 
-We use the information to tailor your experience on our web site and to get an idea that our service to you is speedy and always available. Our web server tracks IP addresses and resolves them to a domain name. From there we keep a list of what major organizations are using our web site and also which search engines are being used to find us. We also track the top hit pages on our web site and try to push those page closer to you to make them easier to find. 
+We have designated certain Entrust employees to be accountable for conformity with this Privacy Statement. Their responsibility includes developing and implementing policies and procedures for the protection of all personal information consistent with this Privacy statement.
 
-### Sharing of the Information this Site Gathers/Tracks
+We will obtain your consent for the collection, use or disclosure of personally identifiable information, except under the following circumstances:
 
-We do not share any information that we collect from our users. That information is kept very confidential and only a few authorized employees of Entrust Technologies are able to view the information. 
+  * Entrust may release personal information when we believe it is appropriate to comply with law, or protect the rights, property, or safety of Entrust or others; 
+  * Entrust may share personal information with its subsidiaries who will also comply with this policy with respect to the information that is shared;
+  * Entrust may employ other companies or individuals who may have access to personal information needed to perform functions on our behalf, but who will not use this information for other purposes; and
+  * in the unlikely event that Entrust, Inc., or substantially all of its assets are acquired, customer information will be one of the transferred assets.
 
-### Links to Other Web Sites
 
-This policy only applies to Entrust.net Inc.'s web site. Please note that Entrust.net's web-site contains links to other sites and Entrust.net is not responsible for the privacy practices of such sites. 
 
-### Use of Cookies
+The personal information we collect will be limited to what is necessary for the business purposes identified unless you have otherwise consented, or when required by law. We will not collect personal information indiscriminately.
 
-Parts of Entrust.net's web site use "session cookies" for the purpose of authenticating the user. Session cookies reside in memory and persist only as long as the browser is open. This cookie holds only the information that is uniquely generated when the user logs on to the site and persists only as long as the user's browser is open. Then, upon a users departure from the site and closure of their Web browser, the information in the session cookie is removed from memory. This enables better user security and privacy. If you decline to receive cookies through the options provided by your browser, certain services may not be available at the site. 
+Our Web servers collect and track IP addresses and resolves them to a domain name, but we do not collect personally identifiable information unless we explicitly ask you to provide it. Some pages in our Web sites ask you to provide personal information to order a product or service, or to take advantage of other opportunities (e.g., download a white paper). When this information is requested, you will be asked to complete a form and return it to us. The type of information we ask you to provide will vary according to the product or service that you request. The choice to share this information is always yours, but if you choose to withhold it, you will not be able to access certain resources. In addition, we sometimes collect non-identifiable information from visits to our Web sites to help us provide better customer service. For example, we make it possible for users to define usage preferences ("remember settings") to speed requests such as search queries in future visits.
 
-### Questions and Concerns
+Occasionally, we give our subscribers an option to receive updates and product information. If you would like to receive such notifications, you can opt-in by selecting the appropriate box.
 
-If you require any further information or if you have any additional questions or concerns, privacy related or not, please contact us immediately at (613) 270 3742 or at: 
+Each person who submits personal information is required to verify the accuracy of all information provided to us at the time of submission. You may also contact us to change this information at the address indicated below.
 
-> Director Operations, Entrust.net Inc  
->  Entrust.net Inc.  
->  1000 Innovation Drive  
->  Ottawa, Ontario, Canada  
->  K2K 3E7
-> 
-> Tel: (613) 270-3742  
->  Email: [entrust.OA@entrust.net](mailto:entrust.OA@entrust.net)
+We will endeavor to inform customers, partners and employees about the policies and practices that apply to the management of their personal information.
 
-The Dispute Resolution Procedures specified in the Entrust.net Certification Practice Statements listed in the Entrust.net Repository at [http://www.entrust.net/about/practices.htm](https://web.archive.org/web/20010406220310id_/http%3A//www.entrust.net/about/practices.htm) are intended to apply to any disputes arising in relation to this Privacy Policy.
+On request and to the extent reasonably possible, we will tell you if we have any personal information about you and how it is used. We will endeavor to correct or amend any personal information if its accuracy and completeness is challenged and found deficient.
 
-This Policy was last reviewed and updated: March 5, 2001
+If you require any further information or if you have any questions or concerns about our privacy or security policies and procedures, please contact us at:
 
-| 
+Entrust, Inc.  
+c/o Web Site Privacy Manager  
+1000 Innovation Drive  
+Ottawa, Ontario, Canada  
+K2K 3E7  
+email: [privacy.officer@entrust.com](mailto:privacy.officer@entrust.com)
+
+We will investigate all the concerns we receive and take appropriate measures to ensure that our practices are as stated in this Privacy Statement.
+
+* * *
+
+Parts of Entrust's Web site use "session cookies" for the purpose of authenticating the user. This cookie holds only the information that is uniquely generated when the user logs on to the site and persists only as long as the user's browser is open. Then, upon the user's departure from the site and closure of their Web browser, the information in the session cookie is removed from memory. This enables better user security and privacy. Cookies may also be used to provide added convenience to users by "remembering" non-identifiable information to streamline services and preserve user preferences between sessions. If you decline to receive cookies through the options provided by your browser, certain services may not be available at the site.
+
+This Web site privacy statement was last updated on December 20, 2001. The practices outlined above represent Entrust's data protection practices for Web site information collected after December 20, 2001. To keep up with the rapidly evolving Internet environment, Entrust will review and revise these practices from time to time and post updates at <http://www.entrust.com/privacy>.
