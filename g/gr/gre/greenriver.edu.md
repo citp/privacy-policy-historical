@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the greenriver.edu privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404064318id_/http%3A//www.greenriver.edu/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenriver.edu privacy policy that was archived on 2005-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051028081343id_/http%3A//www.greenriver.edu/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Green River Privacy Policy
 
-[Green River Home Page](https://web.archive.org/web/20050404064318id_/http%3A//www.greenriver.edu/default.htm)
+[Green River Home Page](https://web.archive.org/web/20051028081343id_/http%3A//www.greenriver.edu/default.htm)
 
 | 
 
@@ -166,10 +166,10 @@ Green River Community College may require you to provide certain personal inform
 
 The following laws and regulations may prevent Green River Community College from disclosing the personal information about you except for directory information. Only directory information can be released without student's authorization. Students must sign a release in order to have any other information disclosed or to withhold all information. Education information may be released to other institutions that have requested the records and in which the student seeks or intends to enroll. Information may be released to a third party without student's consent if an emergency situation exists or if information is requested officially by means of a subpoena, court order or legal report. Additionally, Congress requires student information to be released to military recruiters if officially requested. Directory information may include student's name, address, telephone number, date and place of birth, major fields of study, participation in officially recognized activities and sports, weight and height of members of athletic teams, dates of attendance, degrees and awards received, the most recent previous educational agency or institution attended by the student, and other similar information.
 
-  * [ Family Educational Rights and Privacy Act of 1974 (FERPA)](http://www4.law.cornell.edu/uscode/unframed/20/1232g.html)  
+  * [Family Educational Rights and Privacy Act of 1974 (FERPA)](http://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html)  
 Section 438, Public Law 90-247 Title IV, as amended, 88 Stat 571-574 (20 USC 1232g) otherwise known as the Buckley Amendment Family Educational Rights and Privacy Act
 
-  * [RCW 42.17.310](http://search.leg.wa.gov/pub/textsearch/ViewRoot.asp?Action=Html&Item=15&X=815105327&p=1) (a) and (ss) exempts the following from public inspection and copying: (a) Personal information in any files maintained for students in public schools, patients or clients of public institutions or public health agencies, or welfare recipients; (ss) Credit card numbers, debit card numbers, electronic check numbers, card expiration dates, or bank or other financial account numbers supplied to an agency for the purpose of electronic transfer of funds, except when disclosure is expressly required by law
+  * [RCW 42.17.310](http://www.leg.wa.gov/RCW/index.cfm?section=42.17.310&fuseaction=section) (a) and (ss) exempts the following from public inspection and copying: (a) Personal information in any files maintained for students in public schools, patients or clients of public institutions or public health agencies, or welfare recipients; (ss) Credit card numbers, debit card numbers, electronic check numbers, card expiration dates, or bank or other financial account numbers supplied to an agency for the purpose of electronic transfer of funds, except when disclosure is expressly required by law
 
 
 
@@ -403,10 +403,10 @@ To review your personal information, or request correction of your personal info
 
 To offer comments about Green River Community College's Web site or about the information presented in this Privacy Notice:
 
-> Web Master   
+> Web Manager   
 >  Green River Community College  
 >  (253) 833-9111 ext. 2221  
->  [webmaster@greenriver.edu](mailto:webmaster@greenriver.edu)
+>  [webmanager@greenriver.edu](mailto:webmanager@greenriver.edu)
 
 Top of page
 
