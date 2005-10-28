@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the approva.net privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305114449id_/http%3A//www.approva.net/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the approva.net privacy policy that was archived on 2005-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051028071652id_/http%3A//www.approva.net/legal/privacy.htm) for the most accurate reproduction.*
 
 # Approva Corporation
 
@@ -45,8 +45,8 @@ This Site is not intended for individuals under the age of thirteen (13) ("child
 If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you can contact us at: 
 
 Approva Corporation  
-1953 Gallows Road  
-Suite 150  
-Vienna, VA 22182
+1950 Roland Clarke Place  
+Suite 300   
+Reston, VA 20191 
 
-Tel: 703-821-0165
+Tel: 703-956-8300
