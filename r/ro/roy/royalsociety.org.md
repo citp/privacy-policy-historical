@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalsociety.org privacy policy that was archived on 2005-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050216021535id_/http%3A//www.royalsociety.org/noneditable.asp%3Fid%3D22) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalsociety.org privacy policy that was archived on 2005-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051029095032id_/http%3A//www.royalsociety.org/noneditable.asp%3Fid%3D22) for the most accurate reproduction.*
 
 # Royal Society | Site help
 
