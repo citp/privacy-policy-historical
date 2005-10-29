@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osdn.net privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405190902id_/http%3A//www.osdn.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osdn.net privacy policy that was archived on 2005-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051029181425id_/http%3A//www.osdn.net/privacy.htm) for the most accurate reproduction.*
 
 # OSTG | Open Source Technology Group
 
