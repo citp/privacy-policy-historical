@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcdonalds.co.za privacy policy that was archived on 2005-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050507074557id_/http%3A//www.mcdonalds.co.za/default.asp%3Fitem%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcdonalds.co.za privacy policy that was archived on 2005-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051029151042id_/http%3A//www.mcdonalds.co.za/default.asp%3Fitem%3Dprivacy) for the most accurate reproduction.*
 
 # McDonald's South Africa - Home
 
