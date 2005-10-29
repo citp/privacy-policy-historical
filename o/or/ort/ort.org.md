@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ort.org privacy policy that was archived on 2003-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030802143029id_/http%3A//www.ort.org/asp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ort.org privacy policy that was archived on 2005-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051029045944id_/http%3A//www.ort.org/asp/privacy.asp) for the most accurate reproduction.*
 
-# World ORT - Privacy Policy
+# World ORT educational charity supporting Jewish and world-wide causes. Privacy Policy
 
   
 | 
