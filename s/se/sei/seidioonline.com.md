@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seidioonline.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307081614id_/http%3A//www.seidioonline.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seidioonline.com privacy policy that was archived on 2005-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051030002835id_/http%3A//www.seidioonline.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Seidio - Quality & Innovation!
 
@@ -6,9 +6,9 @@ New Page 4
 
 **__Privacy Policy__**
 
-Seidio.com is an online shopping marketplace designed to deliver the best possible online shopping experience to you, our users.  Protecting your privacy is very important to Seidio.com.  We are confident in our security that we guarantee you'll pay nothing if unauthorized charges are made to your credit card as a result of shopping at Seidio.com.
+Seidio.com is an online shopping marketplace designed to deliver the best possible online shopping experience to you, our users.  Protecting your privacy is very important to Seidio.com.  We are completely confident in our security and we guarantee you'll pay nothing if unauthorized charges are made to your credit card as a result of shopping at Seidio.com.
 
-Seidio.com is continually improving this site by adding new functionality and features.
+Seidio.com is continually improving this site by adding new functionals and features.
 
 Because of these changes, this privacy statement is subject to change without notice.   We encourage you to review these terms of use periodically for changes.  If you have any questions or concerns regarding this policy, you may contact us at [service@seidio.com](mailto:service@seidio.com)
 
