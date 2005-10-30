@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the webcargo.net privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406072221id_/http%3A//www.webcargo.net/webcargo/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcargo.net privacy policy that was archived on 2005-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051030200203id_/http%3A//www.webcargo.net/webcargo/privacy.php) for the most accurate reproduction.*
 
 # WEBCARGO | Privacy Policy
 
-_Updated: May 25, 2003_  
+_Last modified: May 25, 2003_  
   
 Welcome to WEBCARGO.net operated by WEBCARGO, Inc. WEBCARGO.net consists of web pages at the URLs www.webcargo.net, and pages linked thereto which display the WEBCARGO branding bar and which include a footer link to the WEBCARGO.net Terms and Conditions (the "Terms and Conditions") or to this WEBCARGO privacy policy (the "Privacy Policy"). 
 
@@ -111,6 +111,4 @@ You are responsible for the security of your WEBCARGO.net ID and password. Pleas
 
 Know the risks. 
 
-When you communicate with others online, you should be aware that, when disclosing personal information such as one's actual name, member name or email address on a web page or any other medium, such information may be collected, used, and further disclosed by others outside WEBCARGO.net . Accordingly, if you do not want your personal information to be available to others arising from such activities you should not participate in such activities or you should limit the personal information you make available.   
-  
-Copyright © 2005 WEBCARGO, Inc. All rights reserved. All other trademarks are the property of their respective owners.
+When you communicate with others online, you should be aware that, when disclosing personal information such as one's actual name, member name or email address on a web page or any other medium, such information may be collected, used, and further disclosed by others outside WEBCARGO.net . Accordingly, if you do not want your personal information to be available to others arising from such activities you should not participate in such activities or you should limit the personal information you make available. 
