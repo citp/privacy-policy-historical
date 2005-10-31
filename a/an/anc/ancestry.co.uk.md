@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ancestry.co.uk privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403231043id_/http%3A//www.ancestry.co.uk/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ancestry.co.uk privacy policy that was archived on 2005-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051031010411id_/http%3A//www.ancestry.co.uk/legal/privacy.htm) for the most accurate reproduction.*
 
 # Ancestry.co.uk - Privacy Statement
 
@@ -6,7 +6,7 @@
 If you have not reviewed it since that date, please do so.  
 You will not receive any other notice of changes to this statement.**
 
-Privacy Information for Ancestry .co.uk   
+Privacy Information for Ancestry.co.uk   
 MyFamily.com, Inc., operator of this site, recognizes the confidentiality of information that may be disclosed by members in registering or making purchases from our Website and we are firmly committed to protecting your privacy. The following discloses our information gathering and dissemination practices for this site. 
 
 **Overview:**  
