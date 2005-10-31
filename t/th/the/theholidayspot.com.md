@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theholidayspot.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204061948id_/http%3A//www.theholidayspot.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theholidayspot.com privacy policy that was archived on 2005-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051031211950id_/http%3A//theholidayspot.com/policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
