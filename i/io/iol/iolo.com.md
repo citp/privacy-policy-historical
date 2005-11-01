@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iolo.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603113738id_/http%3A//www.iolo.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iolo.com privacy policy that was archived on 2005-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051101020330id_/http%3A//www.iolo.com/privacy.cfm) for the most accurate reproduction.*
 
 # iolo technologies Privacy Statement
 
@@ -12,5 +12,3 @@ Information gathered on our website is used for internal purposes related to acc
 
 **SHARING OF INFORMATION**  
 iolo technologies, LLC does not share your personal information in any way with any third parties. You may receive announcements with special offers for third party companies, but these offers originate from iolo technologies. 
-
-| 
