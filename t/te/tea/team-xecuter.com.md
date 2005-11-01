@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the team-xecuter.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207081915id_/http%3A//modchip.ca/store/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the team-xecuter.com privacy policy that was archived on 2005-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051101230108id_/http%3A//modchip.ca/store/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
 # mod chip usa modchip ps2 xbox canada and united states pstwo xbox Modchip .us
 
