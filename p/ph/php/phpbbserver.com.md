@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the phpbbserver.com privacy policy that was archived on 2005-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050410223207id_/http%3A//www.phpbbserver.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpbbserver.com privacy policy that was archived on 2005-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051102043840id_/http%3A//www.phpbbserver.com/privacy.html) for the most accurate reproduction.*
 
-# phpbbserver.com - Provides Free Forum Service
+# free forum hosting - phpbb server offers free forum / free message board
 
 phpbbserver.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This statement describes our privacy policy. By visiting phpbbserver.com, you are accepting the practices described in this Privacy Notice. 
 
