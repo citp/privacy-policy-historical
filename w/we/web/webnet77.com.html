@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the webnet77.com privacy policy that was archived on 2005-03-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050305061538id_/http%3A//www.webnet77.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the webnet77.com privacy policy that was archived on 2005-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051102235506id_/http%3A//webnet77.com/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 <meta name="KEYWORDS" content="internet privacy, privacy policy, private web hosting, cheap web hosting, corporate hosting plans, budget websites, cheapest webhosting on the internet, free doamin anes, domain name registration, free domain names, no monthly fees, christian website hosting, christian webhosting">
@@ -21,75 +21,765 @@ openWin=window.open(newin,"openWin","resizable=yes,scrollbars=yes,width=600,heig
 
 <!--webbot bot="Include" U-Include="HEADER_HEAD.htm" TAG="BODY" startspan -->
 
-<center>
-<table class="header" style="width: 800; border-collapse: collapse" bordercolor="#111111" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td>
-<a href="/">
-<img border="0" src="/images/logo-new-200-92.jpg" alt="Christian Web Hosting" width="200" height="92"></a></td>
-<td>
-<table border="0" cellpadding="3" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="550" id="AutoNumber2">
-<tbody><tr>
-<td width="539">
-<p align="center">
+<script type="text/javascript">//<![CDATA[
 
-<b><i><font face="Georgia" size="5">Webnet77 Christian Web Hosting</font><font face="Georgia" color="#808080" size="6"><br>
-</font>
-</i><font size="1">High quality Hosting!</font></b><span style="text-transform: none"><b><font face="Georgia" size="5" color="#808080"><br>
-&nbsp;</font></b></span></p></td>
-<td width="11">
+//*****************************************************************************
+// Do not remove this notice.
+//
+// Copyright 2000-2004 by Mike Hall.
+// See http://www.brainjar.com for terms of use.
+//*****************************************************************************
 
-<a title="Email this page to yourself or a friend" href="/cgi-sys/mtf/fm.pl">
-<img border="0" src="images/emailthisa.gif" width="87" height="22"></a></td>
-</tr>
-<tr>
-<td>
-&nbsp;</td>
-<td width="11">
+//----------------------------------------------------------------------------
+// Code to determine the browser and version.
+//----------------------------------------------------------------------------
 
-&nbsp;</td>
-</tr>
-</tbody></table>
+function Browser() {
+
+  var ua, s, i;
+
+  this.isIE    = false;  // Internet Explorer
+  this.isOP    = false;  // Opera
+  this.isNS    = false;  // Netscape
+  this.version = null;
+
+  ua = navigator.userAgent;
+
+  s = "Opera";
+  if ((i = ua.indexOf(s)) >= 0) {
+    this.isOP = true;
+    this.version = parseFloat(ua.substr(i + s.length));
+    return;
+  }
+
+  s = "Netscape6/";
+  if ((i = ua.indexOf(s)) >= 0) {
+    this.isNS = true;
+    this.version = parseFloat(ua.substr(i + s.length));
+    return;
+  }
+
+  // Treat any other "Gecko" browser as Netscape 6.1.
+
+  s = "Gecko";
+  if ((i = ua.indexOf(s)) >= 0) {
+    this.isNS = true;
+    this.version = 6.1;
+    return;
+  }
+
+  s = "MSIE";
+  if ((i = ua.indexOf(s))) {
+    this.isIE = true;
+    this.version = parseFloat(ua.substr(i + s.length));
+    return;
+  }
+}
+
+var browser = new Browser();
+
+//----------------------------------------------------------------------------
+// Code for handling the menu bar and active button.
+//----------------------------------------------------------------------------
+
+var activeButton = null;
+
+// Capture mouse clicks on the page so any active button can be
+// deactivated.
+
+if (browser.isIE)
+  document.onmousedown = pageMousedown;
+else
+  document.addEventListener("mousedown", pageMousedown, true);
+
+function pageMousedown(event) {
+
+  var el;
+
+  // If there is no active button, exit.
+
+  if (activeButton == null)
+    return;
+
+  // Find the element that was clicked on.
+
+  if (browser.isIE)
+    el = window.event.srcElement;
+  else
+    el = (event.target.tagName ? event.target : event.target.parentNode);
+
+  // If the active button was clicked on, exit.
+
+  if (el == activeButton)
+    return;
+
+  // If the element is not part of a menu, reset and clear the active
+  // button.
+
+  if (getContainerWith(el, "DIV", "menu") == null) {
+    resetButton(activeButton);
+    activeButton = null;
+  }
+}
+
+function buttonClick(event, menuId) {
+
+  var button;
+
+  // Get the target button element.
+
+  if (browser.isIE)
+    button = window.event.srcElement;
+  else
+    button = event.currentTarget;
+
+  // Blur focus from the link to remove that annoying outline.
+
+  button.blur();
+
+  // Associate the named menu to this button if not already done.
+  // Additionally, initialize menu display.
+
+  if (button.menu == null) {
+    button.menu = document.getElementById(menuId);
+    if (button.menu.isInitialized == null)
+      menuInit(button.menu);
+  }
+
+  // Reset the currently active button, if any.
+
+  if (activeButton != null)
+    resetButton(activeButton);
+
+  // Activate this button, unless it was the currently active one.
+
+  if (button != activeButton) {
+    depressButton(button);
+    activeButton = button;
+  }
+  else
+    activeButton = null;
+
+  return false;
+}
+
+function buttonMouseover(event, menuId) {
+
+  var button;
+
+  // Find the target button element.
+
+  if (browser.isIE)
+    button = window.event.srcElement;
+  else
+    button = event.currentTarget;
+
+  // If any other button menu is active, make this one active instead.
+
+  if (activeButton != null && activeButton != button)
+    buttonClick(event, menuId);
+}
+
+function depressButton(button) {
+
+  var x, y;
+
+  // Update the button's style class to make it look like it's
+  // depressed.
+
+  button.className += " menuButtonActive";
+
+  // Position the associated drop down menu under the button and
+  // show it.
+
+  x = getPageOffsetLeft(button);
+  y = getPageOffsetTop(button) + button.offsetHeight;
+
+  // For IE, adjust position.
+
+  if (browser.isIE) {
+    x += button.offsetParent.clientLeft;
+    y += button.offsetParent.clientTop;
+  }
+
+  button.menu.style.left = x + "px";
+  button.menu.style.top  = y + "px";
+  button.menu.style.visibility = "visible";
+
+  // For IE; size, position and show the menu's IFRAME as well.
+
+  if (button.menu.iframeEl != null)
+  {
+    button.menu.iframeEl.style.left = button.menu.style.left;
+    button.menu.iframeEl.style.top  = button.menu.style.top;
+    button.menu.iframeEl.style.width  = button.menu.offsetWidth + "px";
+    button.menu.iframeEl.style.height = button.menu.offsetHeight + "px";
+    button.menu.iframeEl.style.display = "";
+  }
+}
+
+function resetButton(button) {
+
+  // Restore the button's style class.
+
+  removeClassName(button, "menuButtonActive");
+
+  // Hide the button's menu, first closing any sub menus.
+
+  if (button.menu != null) {
+    closeSubMenu(button.menu);
+    button.menu.style.visibility = "hidden";
+
+    // For IE, hide menu's IFRAME as well.
+
+    if (button.menu.iframeEl != null)
+      button.menu.iframeEl.style.display = "none";
+  }
+}
+
+//----------------------------------------------------------------------------
+// Code to handle the menus and sub menus.
+//----------------------------------------------------------------------------
+
+function menuMouseover(event) {
+
+  var menu;
+
+  // Find the target menu element.
+
+  if (browser.isIE)
+    menu = getContainerWith(window.event.srcElement, "DIV", "menu");
+  else
+    menu = event.currentTarget;
+
+  // Close any active sub menu.
+
+  if (menu.activeItem != null)
+    closeSubMenu(menu);
+}
+
+function menuItemMouseover(event, menuId) {
+
+  var item, menu, x, y;
+
+  // Find the target item element and its parent menu element.
+
+  if (browser.isIE)
+    item = getContainerWith(window.event.srcElement, "A", "menuItem");
+  else
+    item = event.currentTarget;
+  menu = getContainerWith(item, "DIV", "menu");
+
+  // Close any active sub menu and mark this one as active.
+
+  if (menu.activeItem != null)
+    closeSubMenu(menu);
+  menu.activeItem = item;
+
+  // Highlight the item element.
+
+  item.className += " menuItemHighlight";
+
+  // Initialize the sub menu, if not already done.
+
+  if (item.subMenu == null) {
+    item.subMenu = document.getElementById(menuId);
+    if (item.subMenu.isInitialized == null)
+      menuInit(item.subMenu);
+  }
+
+  // Get position for submenu based on the menu item.
+
+  x = getPageOffsetLeft(item) + item.offsetWidth;
+  y = getPageOffsetTop(item);
+
+  // Adjust position to fit in view.
+
+  var maxX, maxY;
+
+  if (browser.isIE) {
+    maxX = Math.max(document.documentElement.scrollLeft, document.body.scrollLeft) +
+      (document.documentElement.clientWidth != 0 ? document.documentElement.clientWidth : document.body.clientWidth);
+    maxY = Math.max(document.documentElement.scrollTop, document.body.scrollTop) +
+      (document.documentElement.clientHeight != 0 ? document.documentElement.clientHeight : document.body.clientHeight);
+  }
+  if (browser.isOP) {
+    maxX = document.documentElement.scrollLeft + window.innerWidth;
+    maxY = document.documentElement.scrollTop  + window.innerHeight;
+  }
+  if (browser.isNS) {
+    maxX = window.scrollX + window.innerWidth;
+    maxY = window.scrollY + window.innerHeight;
+  }
+  maxX -= item.subMenu.offsetWidth;
+  maxY -= item.subMenu.offsetHeight;
+
+  if (x > maxX)
+    x = Math.max(0, x - item.offsetWidth - item.subMenu.offsetWidth
+      + (menu.offsetWidth - item.offsetWidth));
+  y = Math.max(0, Math.min(y, maxY));
+
+  // Position and show it.
+
+  item.subMenu.style.left       = x + "px";
+  item.subMenu.style.top        = y + "px";
+  item.subMenu.style.visibility = "visible";
+
+  // For IE; size, position and show the menu's IFRAME as well.
+
+  if (item.subMenu.iframeEl != null)
+  {
+    item.subMenu.iframeEl.style.left    = item.subMenu.style.left;
+    item.subMenu.iframeEl.style.top     = item.subMenu.style.top;
+    item.subMenu.iframeEl.style.width   = item.subMenu.offsetWidth + "px";
+    item.subMenu.iframeEl.style.height  = item.subMenu.offsetHeight + "px";
+    item.subMenu.iframeEl.style.display = "";
+  }
+
+  // Stop the event from bubbling.
+
+  if (browser.isIE)
+    window.event.cancelBubble = true;
+  else
+    event.stopPropagation();
+}
+
+function closeSubMenu(menu) {
+
+  if (menu == null || menu.activeItem == null)
+    return;
+
+  // Recursively close any sub menus.
+
+  if (menu.activeItem.subMenu != null) {
+    closeSubMenu(menu.activeItem.subMenu);
+
+
+    // Hide the sub menu.
+    menu.activeItem.subMenu.style.visibility = "hidden";
+
+    // For IE, hide the sub menu's IFRAME as well.
+
+    if (menu.activeItem.subMenu.iframeEl != null)
+      menu.activeItem.subMenu.iframeEl.style.display = "none";
+
+    menu.activeItem.subMenu = null;
+  }
+
+  // Deactivate the active menu item.
+  removeClassName(menu.activeItem, "menuItemHighlight");
+  menu.activeItem = null;
+}
+
+//----------------------------------------------------------------------------
+// Code to initialize menus.
+//----------------------------------------------------------------------------
+
+function menuInit(menu) {
+
+  var itemList, spanList;
+  var textEl, arrowEl;
+  var itemWidth;
+  var w, dw;
+  var i, j;
+  // For IE, replace arrow characters.
+  if (browser.isIE) {
+    menu.style.lineHeight = "2.5ex";
+    spanList = menu.getElementsByTagName("SPAN");
+    for (i = 0; i < spanList.length; i++)
+      if (hasClassName(spanList[i], "menuItemArrow")) {
+        spanList[i].style.fontFamily = "Webdings";
+        spanList[i].firstChild.nodeValue = "4";
+      }
+  }
+  // Find the width of a menu item.
+  itemList = menu.getElementsByTagName("A");
+  if (itemList.length > 0)
+    itemWidth = itemList[0].offsetWidth;
+  else
+    return;
+  // For items with arrows, add padding to item text to make the
+  // arrows flush right.
+  for (i = 0; i < itemList.length; i++) {
+    spanList = itemList[i].getElementsByTagName("SPAN");
+    textEl  = null;
+    arrowEl = null;
+    for (j = 0; j < spanList.length; j++) {
+      if (hasClassName(spanList[j], "menuItemText"))
+        textEl = spanList[j];
+      if (hasClassName(spanList[j], "menuItemArrow")) {
+        arrowEl = spanList[j];
+      }
+    }
+    if (textEl != null && arrowEl != null) {
+      textEl.style.paddingRight = (itemWidth 
+        - (textEl.offsetWidth + arrowEl.offsetWidth)) + "px";
+
+      // For Opera, remove the negative right margin to fix a display bug.
+
+      if (browser.isOP)
+        arrowEl.style.marginRight = "0px";
+    }
+  }
+  // Fix IE hover problem by setting an explicit width on first item of
+  // the menu.
+  if (browser.isIE) {
+    w = itemList[0].offsetWidth;
+    itemList[0].style.width = w + "px";
+    dw = itemList[0].offsetWidth - w;
+    w -= dw;
+    itemList[0].style.width = w + "px";
+  }
+  // Fix the IE display problem (SELECT elements and other windowed controls
+  // overlaying the menu) by adding an IFRAME under the menu.
+  if (browser.isIE) {
+    var iframeEl = document.createElement("IFRAME");
+    iframeEl.frameBorder = 0;
+    iframeEl.src = "javascript:;";
+    iframeEl.style.display = "none";
+    iframeEl.style.position = "absolute";
+    iframeEl.style.filter = "progid:DXImageTransform.Microsoft.Alpha(style=0,opacity=0)";
+    menu.iframeEl = menu.parentNode.insertBefore(iframeEl, menu);
+  }
+  // Mark menu as initialized.
+  menu.isInitialized = true;
+}
+
+//----------------------------------------------------------------------------
+// General utility functions.
+//----------------------------------------------------------------------------
+
+function getContainerWith(node, tagName, className) {
+
+  // Starting with the given node, find the nearest containing element
+  // with the specified tag name and style class.
+  while (node != null) {
+    if (node.tagName != null && node.tagName == tagName &&
+        hasClassName(node, className))
+      return node;
+    node = node.parentNode;
+  }
+  return node;
+}
+
+function hasClassName(el, name) {
+
+  var i, list;
+  // Return true if the given element currently has the given class
+  // name.
+  list = el.className.split(" ");
+  for (i = 0; i < list.length; i++)
+    if (list[i] == name)
+      return true;
+
+  return false;
+}
+
+function removeClassName(el, name) {
+
+  var i, curList, newList;
+
+  if (el.className == null)
+    return;
+  // Remove the given class name from the element's className property.
+  newList = new Array();
+  curList = el.className.split(" ");
+  for (i = 0; i < curList.length; i++)
+    if (curList[i] != name)
+      newList.push(curList[i]);
+  el.className = newList.join(" ");
+}
+
+function getPageOffsetLeft(el) {
+
+  var x;
+  // Return the x coordinate of an element relative to the page.
+  x = el.offsetLeft;
+  if (el.offsetParent != null)
+    x += getPageOffsetLeft(el.offsetParent);
+
+  return x;
+}
+
+function getPageOffsetTop(el) {
+
+  var y;
+  // Return the x coordinate of an element relative to the page.
+  y = el.offsetTop;
+  if (el.offsetParent != null)
+    y += getPageOffsetTop(el.offsetParent);
+
+  return y;
+}
+
+//]]></script>
+
+<div align="center">
+	<center>
+	<table style="border-collapse: collapse;" border="0" cellpadding="0" width="800">
+		<tbody><tr>
+			<td height="206" valign="top" width="806">
+			<table style="border-collapse: collapse;" border="0" bordercolor="#111111" cellpadding="0" width="800">
+				<tbody><tr>
+					<td valign="top"><a title="Christian Web Hosting" href="http://webnet77.com/"><img border="0" src="http://webnet77.com/Jay/img/webnet77_main.jpg" width="646" height="206" alt="Webnet77 Christian web host"></a></td>
+					<td width="100%" valign="top">
+					<table style="border-collapse: collapse;" border="0" bordercolor="#111111" cellpadding="0" cellspacing="0" width="100%">
+						<tbody><tr>
+							<td align="center" bgcolor="#008EFE" height="118" valign="top" width="100%">
+							<p><font color="#ffffff" size="2"><b><br>
+							<br>
+							Hosting Packages</b></font><font color="#ffffff" face="Tahoma" size="1"><br>
+							<br>
+							WebStarter $25.95 / 6 mo<br>
+							WebBuilder $35.95 / 6 mo<br>
+							WebMaster $49.95 / 6 mo<br>
+							WebPro$199.00 / 6 mo</font></p>
+							</td>
+						</tr>
+						<tr>
+							<td height="10"></td>
+						</tr>
+						<tr>
+							<td bgcolor="#ADADAD" height="16" width="100%">&nbsp;</td>
+						</tr>
+						<tr>
+							<td height="51" width="100%">
+							<p align="center"><font color="#cc6600" size="3"><b>Christian <br>
+							web hosting</b></font></p>
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="#008EFE" height="3"></td>
+						</tr>
+						<tr>
+							<td height="3" width="100%"></td>
+						</tr>
+						<tr>
+							<td height="3" width="100%">
+							<p align="center"><a title="Email this page to a friend" href="/cgi-sys/mtf/fm.pl"><img border="0" src="http://webnet77.com/images/emailthisa.gif" width="83" height="19"></a></p>
+							</td>
+						</tr>
+					</tbody></table>
+					</td>
+				</tr>
+				<tr>
+					<td width="100%" colspan="2">
+					</td>
+				</tr>
+			</tbody></table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+	
+<!-- Top Level Menu Items (Level-0) -->
+<div class="menuBar">
+<!--  <a class="menuItem" href="http://webnet77.com/"><b>HOME</b></a>  -->
+	<a class="menuButton" href="#" onclick="return buttonClick(event, 'homeMenu');" onmouseover="buttonMouseover(event, 'homeMenu');">Home</a>
+	<a class="menuButton" href="#" onclick="return buttonClick(event, 'aboutMenu');" onmouseover="buttonMouseover(event, 'aboutMenu');">About</a>
+	<a class="menuButton" href="#" onclick="return buttonClick(event, 'pricingMenu');" onmouseover="buttonMouseover(event, 'pricingMenu');">Price/Features</a>
+	<a class="menuButton" href="#" onclick="return buttonClick(event, 'orderMenu');" onmouseover="buttonMouseover(event, 'orderMenu');">Order</a>
+	<a class="menuButton" href="#" onclick="return buttonClick(event, 'helpMenu');" onmouseover="buttonMouseover(event, 'helpMenu');">Help</a>
+	<a class="menuButton" href="#" onclick="return buttonClick(event, 'downloadMenu');" onmouseover="buttonMouseover(event, 'downloadMenu');">Downloads</a>
+	<a class="menuButton" href="#" onclick="return buttonClick(event, 'toolsMenu');" onmouseover="buttonMouseover(event, 'toolsMenu');">Tools</a>
+  <a class="menuButton" href="https://webnet77.net/cgi-bin/BillX/contact.pl"><b>CONTACT US</b></a>
+  <a class="menuButton" href="/cp/"><b>LOGIN</b></a>
+</div>
+
+<!-- Home Menu (level-1) -->
+<div id="homeMenu" class="menu" onmouseover="menuMouseover(event)">
+	<a class="menuItem" href="/">Home Page</a> 
+  <a class="menuItem" href="/tos.html">Terms of Service (TOS)</a>  
+	<a class="menuItem" href="/aup.html">Acceptable Use Policy (AUP)</a>
+	<a class="menuItem" href="/privacy.html">Privacy</a>
+</div>
+
+<!-- About Menu (level-1) -->
+<div id="aboutMenu" class="menu" onmouseover="menuMouseover(event)">
+	<a class="menuItem" href="/about.html">About Us</a> 
+  <a class="menuItem" href="/testimonial.html">Testimonials</a>  
+	<a class="menuItem" href="/whc.html">Christian</a>
+	<a class="menuItem" href="/data-center.html">Data Center</a>
+	<a class="menuItem" href="/web-cam.html">Live DC Webcams</a>
+</div>
+
+<!-- Price Menu (level-1) -->
+<div id="pricingMenu" class="menu" onmouseover="menuMouseover(event)">
+	<p class="menuheading"><b>HOSTING PLANS</b></p>
+	<div class="menuItemSep">
+	</div>
+	<a class="menuItem" href="/plans.html">Plans - Pricing Comparison</a> 
+	<a class="menuItem" href="/plans-detail.html">Detailed Comparison</a>
+	<a class="menuItem" href="/features.html">Features</a>
+	<a class="menuItem" href="/features.html#fantastico">Fantastico</a>
+	
+	
+<p class="menuheading"><b>RESELLER PLANS</b></p>
+	<div class="menuItemSep">
+	</div>
+	<a class="menuItem" href="/reseller/">Information</a> 
+	<a class="menuItem" href="/reseller/reseller-plans.html">Plans</a>
+
+	
+</div>
+
+<!-- Order Menu (Level-1) -->
+<div id="orderMenu" class="menu" onmouseover="menuMouseover(event)">
+	<p class="menuheading"><b>HOSTING PLANS</b></p>
+	  <div class="menuItemSep">
+	  </div>
+	<a class="menuItem" href="/cgi-bin/BillX/signup.pl?pkg_id=2">WebStarter</a> 
+	<a class="menuItem" href="/cgi-bin/BillX/signup.pl?pkg_id=3">WebBuilder</a>
+	<a class="menuItem" href="/cgi-bin/BillX/signup.pl?pkg_id=1">WebMaster</a>
+	<a class="menuItem" href="/cgi-bin/BillX/signup.pl?pkg_id=9">WebPro</a>
+	<a class="menuItem" href="/tos.html">Terms of service</a>
+
+	<p class="menuheading"><b>RESELLER PLANS</b></p>
+	  <div class="menuItemSep">
+	  </div>
+	<a class="menuItem" href="/cgi-bin/BillX/signup.pl?pkg_id=23">Reseller-Intro</a> 
+	<a class="menuItem" href="/cgi-bin/BillX/signup.pl?pkg_id=24">Reseller-Pro</a>
+	<a class="menuItem" href="/cgi-bin/BillX/signup.pl?pkg_id=25">Reseller-Super</a>
+	<a class="menuItem" href="/tos.html">Terms of Service</a>
+
+	<p class="menuheading"><b>EXTRAS</b></p>
+	  <div class="menuItemSep">
+	  </div>
+	<a class="menuItem" href="http://software77.net">Domain Names</a>
+	<a class="menuItem" href="/SSL-certificates.html">SSL Certificates</a> 
+</div>
+
+<!-- Help Menu (Level-1) -->
+<div id="helpMenu" class="menu" onmouseover="menuMouseover(event)">
+	<p class="menuheading"><b>HOSTING HELP</b></p> 
+	  <div class="menuItemSep">
+	  </div>
+	<a class="menuItem" href="/faq.html">FAQ</a> 
+	<a class="menuItem" href="" onclick="return false;" onmouseover="menuItemMouseover(event, 'helpSubMenu1');"><span class="menuItemText">Online Movies</span><span class="menuItemArrow">▶</span></a> 
+	<a class="menuItem" href="" onclick="return false;" onmouseover="menuItemMouseover(event, 'helpSubMenu2');"><span class="menuItemText">Help Articles</span><span class="menuItemArrow">▶</span></a> 
+	<a class="menuItem" href="/help-cp-manuals.html">Download Manuals</a> 
+
+	<p class="menuheading"><b>RESELLER HELP</b></p> 
+	  <div class="menuItemSep">
+	  </div>
+	<a class="menuItem" href="/reseller/reseller-faq.html">FAQ</a> 
+	<a class="menuItem" href="/flash-tutorials/WHM/index.html">WHM Tutorials</a> 
+	<a class="menuItem" href="" onclick="return false;" onmouseover="menuItemMouseover(event, 'helpSubMenu3');"><span class="menuItemText">Help Articles</span><span class="menuItemArrow">▶</span></a> 
+
+</div>
+
+<!-- Help sub menus Online Movies (Level-2) -->
+<div id="helpSubMenu1" class="menu">
+	<p class="menuheading"><b>FLASH MOVIES</b></p> 
+	  <div class="menuItemSep">
+	  </div>
+	<a class="menuItem" href="/help.html">ALL Movies</a> 
+	<a class="menuItem" href="/flash-tutorials/xcontroller/">Control Panel</a>
+	  <div class="menuItemSep">
+	  </div>
+	<a class="menuItem" href="/flash-tutorials/frontpage2000/">Front Page 2000</a>
+	<a class="menuItem" href="/flash-tutorials/dreamweaver/help-dreamweaver.html">Dream Weaver</a>
+	<a class="menuItem" href="/flash-tutorials/flash-mx/index.html">Macromedia Flash</a>
+	  <div class="menuItemSep">
+	  </div>
+	<a class="menuItem" href="/flash-tutorials/cute-ftp/index.html">Cute FTP</a>
+	<a class="menuItem" href="/flash-tutorials/ws_ftp/index.html">WS_FTP</a>
+	<a class="menuItem" href="/flash-tutorials/smart-ftp/index.html">Smart FTP</a>	
+	  <div class="menuItemSep">
+	  </div>
+	<a class="menuItem" href="/flash-tutorials/dns/index.html">Change Domain DNS</a>	
+	<p class="menuheading"><b>EMAIL CLIENTS</b></p> 
+	  <div class="menuItemSep">
+	  </div>
+	<a class="menuItem" href="/flash-tutorials/email/index.html">Eudora</a>	
+	<a class="menuItem" href="/flash-tutorials/email/index.html">Incredimail</a>	
+	<a class="menuItem" href="/flash-tutorials/email/index.html">Netscape</a>	
+	<a class="menuItem" href="/flash-tutorials/email/index.html">Outlook/Express</a>	
+	<a class="menuItem" href="/flash-tutorials/email/index.html">Pegasus</a>	
+</div>
+
+<!-- Help sub menus Help Articles (Level-2) -->
+<div id="helpSubMenu2" class="menu">
+	<a class="menuItem" href="/webstuff/getting-started.html">Beginners Guide</a> 
+	<a class="menuItem" href="/help/new-site-checklist.html">New Site Checklist</a>
+	<a class="menuItem" href="/help/index.html">FTP Pictorial</a> 
+	<a class="menuItem" href="/webstuff/tips.html">Traffic Tips</a>
+	<a class="menuItem" href="/webstuff/optimize.html">Using META Tags</a> 
+	<a class="menuItem" href="/webstuff/copyright.html">Copyright Information</a> 
+	<a class="menuItem" href="/help/dangers.html">Website Security</a> 
+	<a class="menuItem" href="/webstuff/ms-word-edit.html">Editing with MS Word</a> 
+	<a class="menuItem" href="/webstuff/email-stuff.html">SPAM Email</a> 
+	<a class="menuItem" href="/secure-email.html">SSL (Secure) Email</a> 
+	<a class="menuItem" href="/webstuff/server-response-codes.html">Server Response Codes</a> 
+</div>
+
+<!-- Help sub menus WHM Articles(Level-2) -->
+<div id="helpSubMenu3" class="menu">
+	<a class="menuItem" href="/reseller/">Introduction</a> 
+</div>
+
+<!-- Download Menu (Level-1) -->
+<div id="downloadMenu" class="menu" onmouseover="menuMouseover(event)">
+	<a class="menuItem" href="" onclick="return false;" onmouseover="menuItemMouseover(event, 'downloadSubMenu1');"><span class="menuItemText">Webmaster Software</span><span class="menuItemArrow">▶</span></a> 
+	<a class="menuItem" href="" onclick="return false;" onmouseover="menuItemMouseover(event, 'downloadSubMenu2');"><span class="menuItemText">Server/Misc Software</span><span class="menuItemArrow">▶</span></a> 
+	<a class="menuItem" href="/bible-search.html">Bible Search</a> 
+	<a class="menuItem" href="/cgi-bin/scripture_moment/moment_html.cgi">Scripture Moment</a>  
+</div>
+<!-- Download subMenu (Level-2) -->
+<div id="downloadSubMenu1" class="menu" onmouseover="menuMouseover(event)">
+	<a class="menuItem" href="/scripts/index.html">ALL Scripts</a> 
+	<a class="menuItem" target="_blank" href="http://bibledatabase.com/addon/eezymailer/index.html">EEZYMail</a> 
+	<a class="menuItem" target="_blank" href="http://bibledatabase.com/addon/sellsoft/index.htm">WebAuth</a> 
+	<a class="menuItem" target="_blank" href="http://bibledatabase.com/addon/bib_search.html">Advance Bible Search</a> 
+	<a class="menuItem" target="_blank" href="http://bibledatabase.com/addon/html_compiler.html">HTMLCompiler (Windows)</a> 
+	<a class="menuItem" target="_blank" href="http://bibledatabase.com/scripture_moment/s_moment.html">Scripture Moment</a> 
+	<a class="menuItem" target="_blank" href="http://bibledatabase.com/addon/gcount.html">Perl Counter</a> 
+	<a class="menuItem" target="_blank" href="http://bibledatabase.com/addon/sbp/index.html">Spam Bot Poison</a> 
+	<a class="menuItem" href="/scripts/fm/index.html">Form Mail</a> 
+</div>
+
+<!-- Download subMenu (Level-2) -->
+<div id="downloadSubMenu2" class="menu" onmouseover="menuMouseover(event)">
+	<a class="menuItem" href="/scripts/lfs-utils/index.html">lfs-Utils</a> 
+	<a class="menuItem" href="/scripts/big-files/index.html">Big File Finder</a> 
+	<a class="menuItem" href="/scripts/table-manager/index.html">Table Croozer</a> 
+	<a class="menuItem" href="/scripts/backup-lite/index.html">Backup Lite</a> 
+	<a class="menuItem" target="_blank" href="http://software77.net/cgi-bin/ip-country/geo-ip.pl">IP-Country Lookup</a> 
+	<a class="menuItem" href="/scripts/encryption/index.html">Encryption tools (Info)</a> 
+	<a class="menuItem" href="/scripts/list-modules/index.html">Module Lister</a> 
+	<a class="menuItem" target="_blank" href="http://bibledatabase.com/addon/pop_test.html">POP Diagnostic tool (Windows)</a>  
+</div>
+
+<!-- Tools Menu (Level-1) -->
+<div id="toolsMenu" class="menu" onmouseover="menuMouseover(event)">
+	<a class="menuItem" href="" onclick="return false;" onmouseover="menuItemMouseover(event, 'toolsSubMenu');"><span class="menuItemText">Encryption/Encode/Decode</span><span class="menuItemArrow">▶</span></a> 
+	<a target="_blank" class="menuItem" href="/cgi-bin/BillX/whois.pl">WHOIS</a> 
+	<a target="_blank" class="menuItem" href="http://software77.net/cgi-bin/ip-country/geo-ip.pl">Geo-IP Lookup</a>  
+	<a class="menuItem" href="/scripts/geo-ip/index.html">Geo-IP Script</a> 
+</div>
+
+<!-- Tools subMenu (Level-2) -->
+<div id="toolsSubMenu" class="menu" onmouseover="menuMouseover(event)">
+	<a class="menuItem" href="/cgi-bin/helpers/crypthelp.pl">Tools Home</a> 
+	<a class="menuItem" href="/cgi-bin/helpers/passwords.pl">Random Psswords</a> 
+	<a class="menuItem" href="/cgi-bin/helpers/crc.pl">CRC Calculator</a> 
+	<a class="menuItem" href="/cgi-bin/helpers/htaccess.cgi">.htaccess Generator</a> 
+	<a class="menuItem" href="/cgi-bin/helpers/md5.pl">MD5</a> 
+	<a class="menuItem" href="/cgi-bin/helpers/blowfish.pl">Blowfish Encrypt/Decrypt</a> 
+	<a class="menuItem" href="/cgi-bin/helpers/base-64.pl">Base64 Encode/Decode</a> 
+	<a class="menuItem" href="/cgi-bin/helpers/morse.pl">Morse Code</a> 
+	<a class="menuItem" href="/cgi-bin/helpers/words-numbers.pl">Numeric/Tect Converters</a> 
+	<a class="menuItem" href="/cgi-bin/helpers/conversions.pl">Blood Glucose Converter</a> 
+	<a class="menuItem" href="/cgi-bin/helpers/crypthelp.pl">Google Page Rank</a>  
+</div>
+
+
 </td>
-</tr>
-<tr class="h">
-<td width="100%" colspan="2" style="background-color: #FFFFFF; ">
-<p>
-<img border="0" src="images/r-top.gif" width="800" height="11"></p></td>
-</tr>
-<tr class="h">
-<td width="100%" colspan="2" height="14">
-<p align="center">
-<b>
-<a title="Webnet77.com Home" style="text-decoration: none" href="index.html">HOME</a> |&nbsp;
-<a title="Place your order now!" href="cgi-bin/BillX/signup.pl">ORDER</a> | 
-<a style="text-decoration: none" title="About" href="about.html">ABOUT</a> 
-|
-<a title="Frequently asked questions" style="text-decoration: none" href="faq.html">FAQ</a> | 
-<a title="Compare or hosting Plans" href="plans-detail.html">PRICING</a> |&nbsp; <font color="#FFFEFF">
-<a title="Free and commercial scripts you can download for your website" style="text-decoration: none" href="scripts/index.html">DOWNLOAD</a> |&nbsp;
-<a title="Check out the powerful feature and free software" style="text-decoration: none" href="features.html">
-FEATURES</a>&nbsp; 
-| <a title="Christian Web Hosting" href="whc.html">CHRISTIAN</a> 
-| </font>
-<a title="What our customers have to say about our service" href="testimonial.html">
-TESTIMONIAL</a><font color="#FFFEFF"> |
-<a title="Data Center" style="text-decoration: none" href="data-center.html">
-NETWORK</a> | </font>
-<a style="text-decoration: none" title="Contact us by email" href="cgi-bin/BillX/contact.pl">CONTACT</a> |
-<a title="Register domain names online from $8.75 / year and lower!" target="_blank" href="http://software77.net/">
-DOMAINS</a> | <font color="#FFFEFF">
-<a style="text-decoration: none" title="Christian search engine" href="links/index.html">LINKS</a> 
-| <a title="Site Map" href="sitemap.html">MAP</a></font></b></p></td>
-</tr>
-<tr class="h">
-<td width="100%" colspan="2" height="14" style="background-color: #336699; ">
-</td>
-</tr>
-</tbody></table>
-</center>
+		</tr>
+	</tbody></table>
+	</center></div>
 
-<!--webbot bot="Include" i-checksum="58898" endspan -->
+<!--webbot bot="Include" i-checksum="12472" endspan -->
 <center>
 
 <table border="0" cellspacing="0" width="800" id="AutoNumber3" style="border-collapse: collapse; color:#000080" bordercolor="#111111" cellpadding="4">
