@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resellerzoom.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206162541id_/http%3A//resellerzoom.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resellerzoom.com privacy policy that was archived on 2005-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051102045511id_/http%3A//www.resellerzoom.com/privacy.html) for the most accurate reproduction.*
 
 # Reseller Zoom - Privacy Policy
 
