@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anjolee.com privacy policy that was archived on 2005-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050412072410id_/http%3A//www.anjolee.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anjolee.com privacy policy that was archived on 2005-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051102062315id_/http%3A//www.anjolee.com/privacy.htm) for the most accurate reproduction.*
 
-# Diamonds, Engagement Rings, Bracelets, Earrings and more at Anjolee
+# Anjolee - Diamonds, Engagement Rings, Bracelets, Earrings and Fine Jewelry
 
 The security and protection of our customers' personal information is our top priority.  
 To process your order, we require your name, phone number, billing and shipping address,  
