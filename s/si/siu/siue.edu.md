@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siue.edu privacy policy that was archived on 2005-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050618075004id_/http%3A//www.siue.edu/cwis/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siue.edu privacy policy that was archived on 2005-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051102013628id_/http%3A//www.siue.edu/cwis/privacy.html) for the most accurate reproduction.*
 
 # SIUE Campus Web Privacy Policy
 
