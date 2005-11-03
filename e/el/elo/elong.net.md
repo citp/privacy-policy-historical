@@ -1,37 +1,35 @@
-> *The following text is extracted and transformed from the elong.net privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010035954id_/http%3A//www.elong.net/member/Privacy_Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elong.net privacy policy that was archived on 2005-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051103202507id_/http%3A//www.elong.net/aboutus/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - eLong
+# China, travel, discount airfare, flights, hotels, cars - Travel Beyond Perfection
 
-|  |  **Whose and what personal information will be collected?**  
-  
-Generally, you can visit our Web site anonymously. However, for some functions of our Site only available to registered members, your personal information will be requested during membership application and the usage of that information will be clearly explained and insured of the valid usage. When you apply for eLong membership, you will be asked to provide your full name, address, telephone number, mobile phone number and email. We are gathering these information for the purpose of better understanding your requests and better serving you.  
----|---  
-|  **How will your personal information be protected?**  
-  
-We will take appropriate measures to protect your privacy as well as the personal information in storage. Unless obliged for legal reasons, we will not share your personal information with any irrelevant third party (organizations or individuals) without your permission. However, if we are upon the requests by you for designated customer services or products delivery, your name and address will be shared with a third party.  
-|  **Privacy Policy Statement**  
-  
-As long as your membership is successfully applied, an account with password will be sent to you. And you will take full responsibilities for the abuse of your information given that you do not keep the account and password properly. Moreover, each eLong member will take full responsibilities for all the activities occurred within his/her own account. The password and personal information can be modified at any time with instructions on the site.  
-Because your privacy right is absolutely important to us, eLong.com that disclosing this Privacy Policy Statement will manage your personal information based on the following principles:   
-|  **Principle 1**  
-  
-When eLong.com need to identify or contact you, personal information will be explicitly requested. Generally speaking, personal information will be requested when you applying for membership, asking for specific customer services or taking part in our SwapImmediate Program. If possible, eLong.com would like to approve the validity and time-effectiveness of the personal information you provide.   
-|  **Principle 2**  
-  
-We may recommend new services available to our members on the premise of believing that the services will benefit you. You have to right to reject the services we recommend, and we will explicitly show how to reject the services on our Web site.   
-|  **Principle 3**  
-  
-Under some extreme cases, elong.com might be obliged to publicize personal information under the requests of Laws. eLong.com will only do this when it is proved to be necessary and the best for the purposes of:  
-1) Obeying Laws or legal procedures applied to eLong.com;  
+### Privacy Policy
+
+The right to privacy is one of your most important rights. We understand that purchasing online is an indication of your trust in eLong.com, Inc. We are very serious about protecting your personal information, which will only be used to provide you better services. As an eLong member, you are protected by the following Privacy Policy: 
+
+**What kinds of personal information will be collected?**  
+The majority of functions on our website can be conducted completely anonymously. However, your personal information will be requested during the membership application process and the usage of that information will be clearly explained. When you apply for an eLong membership, you will be asked to provide your full name, address, telephone number, mobile phone number and email. We gather this information to better serve you. 
+
+**How will your personal information be protected?**  
+We will take appropriate measures to protect your privacy as well as your personal information. Unless obliged for legal reasons, we will not share your personal information with any third party (organizations or individuals) without your permission. However, if required for customer service or product delivery purposes, your name and address will be shared with a third party.
+
+**Privacy Policy Statement**  
+When your membership application is accepted, a password for your account will be sent to you. You will take full responsibility for keeping your account and password information safe. Moreover, each eLong member will take full responsibility for all activities occurring within his/her own account. The password and personal information can be modified at any time on the site.  
+Because your privacy rights are extremely important to us, eLong.com has prepared this Privacy Policy Statement regarding your personal information based on the following principles:  
+**Principle 1**  
+When eLong.com needs to identify or contact you, personal information will be clearly requested. Generally speaking, personal information will be requested only when you apply for membership, ask for specific customer services or take part in our Swap Immediate Program. If possible, eLong.com would like to make sure that this information is as accurate and up-to-date as possible.   
+**Principle 2**  
+We may recommend new services to our members if we believe that the services will be beneficial. You have to right to reject the services we recommend, and we will explain to you clearly how to reject these services.   
+**Principle 3**  
+Under some extreme cases, elong.com might be obliged to publicize personal information as the result of a legal request. eLong.com will only do this when it is proven to be necessary for the purposes of:  
+1) Obeying Laws or legal procedures applicable to eLong.com;  
 2) Protecting the rights or properties of eLong members;  
-3) Protecting the safety of eLong members or the public under emergencies.   
-|  **Principle 4**  
-  
-If you think that eLong.com violates the principles described above, please contact us at [customerservice@corp.elong.com](mailto:customerservice@corp.elong.com). We will reply you a satisfactory answer and improve our Privacy Policy within reasonable and appropriate scope.   
-|  **Usage of cookies**  
-  
-eLong.com sometimes will employ Cookies to personalize your online surfing at eLong.com in order to serve you better. One of Cookie's primary functions is to save your time, and most Web browsers will automatically accept Cookies. However, you may reset you Web browser to reject Cookies for your preference. A cookie is a text-only string that gets entered into the memory of your browser. Cookies cannot run programs or send virus to your PC. The Cookie appointed to you is excusive and cannot be retrieved by Web servers in domains other than the one set it. You may choose to accept or reject the Cookies.   
-|  **How to update your personal information?**  
-  
-If you need to change your address, telephone or email, you can contact eLong by the contact info publicize on our Web site. You can also log on www.elong.net to modify personal information within your account online. eLong.com welcomes any comment or criticism on our Privacy Policy. We commit ourselves to protect your personal information, and update our Privacy Policy with the fast development of Internet technologies.  
-If you have any comment on our Privacy Policy, please email us at [customerservice@corp.elong.com](mailto:customerservice@corp.elong.com).
+3) Protecting the safety of eLong members or the public due to an emergency.   
+**Principle 4**  
+If you think that eLong.com has violated the principles described above, please contact us at customerservice@corp.elong.com. We will give you a satisfactory answer and improve our Privacy Policy in a reasonable and appropriate manner. 
+
+**Usage of cookies**  
+In order to serve you better, eLong.com sometimes employs cookies to personalize your online surfing on our site. A cookie is a text-only string that is entered into the memory of your browser. One of a cookie's primary functions is to save you time, and most web browsers will automatically accept cookies. However, you may reset your web browser to reject cookies. Cookies cannot run programs or send viruses to your PC. The cookie appointed to you is exclusive and cannot be retrieved by web servers in domains other than the one set it. You may choose to accept or reject the cookie. 
+
+**How can you update your personal information?**  
+If you need to change your address, telephone number or email, you can [contact eLong](http://www.elong.net/aboutus/contact.html) by the methods listed on our Web site. You can also connect to www.elong.net to [modify your personal information](http://www.elong.net/myelong/login.aspx) eLong.com welcomes any comment or criticism on our Privacy Policy. We commit ourselves to protecting your personal information, and will update our Privacy Policy according to the development of Internet technologies.  
+If you have any comments about our Privacy Policy, please email us at customerservice@corp.elong.com. 
