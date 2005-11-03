@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acidalkalinediet.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406193036id_/http%3A//www.acidalkalinediet.com/ppolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acidalkalinediet.com privacy policy that was archived on 2005-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051104001735id_/http%3A//acidalkalinediet.com/ppolicy.htm) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
