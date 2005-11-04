@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihiremarketing.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010041610id_/http%3A//www.ihiremarketing.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihiremarketing.com privacy policy that was archived on 2005-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051104063120id_/http%3A//www.ihiremarketing.com/Privacy.asp) for the most accurate reproduction.*
 
 # iHireMarketing - Marketing jobs
 
@@ -12,7 +12,8 @@ This is the web site of **iHireMarketing**.
 110 North Public Square   
 Suite 2-2   
 Angola, IN 46703   
-Phone: 877-798-4854   
+Candidate: **866-238-0161**  
+Employer: **877-798-4854**  
 Email: [info@iHireMarketing.com](mailto:info@iHireMarketing.com)
 
  **Information Gathering and Use** For each visitor to our Web site, our Web server automatically recognizes the consumer's domain name and IP address (where possible). 
@@ -23,7 +24,9 @@ The information we collect is used to improve the content of our Web site or to 
 
 With respect to cookies: We use cookies to store visitors preferences and record session information, such as items that consumers add to their shopping cart. 
 
-**Permission Based Communications** If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address or call us at the above telephone number. 
+**Permission Based Communications** Registering on any iHire web site constitutes an explicit agreement to receive facsimile advertising, resumes, surveys, and any other information that iHire chooses to send via facsimile. If facsimile communication is no longer desired, please e-mail to the above address with a list of facsimile numbers to which iHire is never to communicate.
+
+If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address or call us at the above telephone number. 
 
 From time to time, we make opt-in users of our system accessible to other reputable organizations whose products or services we think you might find interesting by sharing opt-in e-mail addresses of those who access our site. By default users are NOT opted in for special offers. The user must opt-in during the registration process to be included. 
 
